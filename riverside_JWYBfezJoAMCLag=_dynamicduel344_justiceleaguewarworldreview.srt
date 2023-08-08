@@ -1,0 +1,2659 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a Dynamike Network podcast.
+
+2
+00:00:24,718 --> 00:00:28,939
+Hi and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+3
+00:00:29,299 --> 00:00:34,020
+and debate the superiority between Marvel and
+DC by comparing their characters in stat-based
+
+4
+00:00:34,100 --> 00:00:40,242
+battle simulations. I'm Marvelous Joe. And I'm
+his twin brother Johnny DC. And in this episode
+
+5
+00:00:40,282 --> 00:00:45,804
+we are going to review the latest DC animated
+release, Justice League War World. It's the
+
+6
+00:00:45,844 --> 00:00:50,805
+latest movie in the Tomorrowverse series of
+animated films. And you know what? I did not
+
+7
+00:00:50,825 --> 00:00:55,679
+like it. but Jonathan says that if you watch
+it three times, it becomes good. So we're gonna
+
+8
+00:00:55,699 --> 00:01:02,402
+learn all about his thoughts on the movie later
+on this episode. I mean, not great, but not
+
+9
+00:01:02,442 --> 00:01:07,084
+the worst either. Yeah, I mean, it's interesting
+at the very least. Before we talk about the
+
+10
+00:01:07,104 --> 00:01:10,546
+film, we're gonna go into the latest comic book
+movie news that came out from the past week,
+
+11
+00:01:10,966 --> 00:01:16,448
+of which there's only one news item, and that
+is the Loki season two official trailer. As
+
+12
+00:01:16,528 --> 00:01:20,187
+always, we list our segment times in our episode
+description. so feel free to check out the
+
+13
+00:01:20,207 --> 00:01:25,373
+show notes if you want to skip ahead to a particular
+topic. And as our listeners may know, our Dual
+
+14
+00:01:25,413 --> 00:01:30,699
+Simulator is so advanced that it's gained sentience
+and has named itself the Artificial Lifeform
+
+15
+00:01:30,719 --> 00:01:36,505
+for Running Extensive Duels, just a rather very
+intelligent Simulator 9000, or Alfred Jarvis
+
+16
+00:01:36,545 --> 00:01:43,579
+9000. He has a quick message for our listeners,
+so listen up. Why hello there. Do you love
+
+17
+00:01:43,619 --> 00:01:48,504
+listening and chatting about Marvel and DC?
+Then become a part of the dynamic dual community
+
+18
+00:01:48,565 --> 00:01:53,810
+on Patreon, where you can choose from three
+tiers. The dynamic two-o tier lets you listen
+
+19
+00:01:53,830 --> 00:01:58,836
+to this podcast without ads and gives you access
+to its discord chat group, where you can chat
+
+20
+00:01:58,856 --> 00:02:03,723
+with Johnny DC and Marvelous Joe. The Fantastic
+Four tier gives you that and more with two
+
+21
+00:02:03,763 --> 00:02:08,525
+bonus episodes each month, including bloopers
+and top ten shows where Johnny and Joe count
+
+22
+00:02:08,545 --> 00:02:13,407
+down your favourite Marvel and DC subjects.
+The X-Force tier makes you an executive producer
+
+23
+00:02:13,447 --> 00:02:17,869
+of Dynamic Duel, where every month you help
+the hosts choose what to review and who to
+
+24
+00:02:17,909 --> 00:02:23,992
+fight against each other. And finally, the Dynamite
+Podcast Network tier allows aspiring podcasters
+
+25
+00:02:24,012 --> 00:02:27,974
+to create their own battle-focused show using
+this Monte Carlo simulator.
+
+26
+00:02:47,730 --> 00:02:53,255
+Thanks AJ9K, and thanks to everyone who supports
+the podcast. Be sure to tune in to the Max
+
+27
+00:02:53,275 --> 00:02:58,962
+Destruction Podcast on August 9th, that's tomorrow.
+to see who would win between Indiana Jones
+
+28
+00:02:59,003 --> 00:03:04,385
+versus Jack Sparrow. This is a big one, guys.
+I'm really excited about it. I'm really pulling
+
+29
+00:03:04,445 --> 00:03:08,367
+for Jack Sparrow on this one. You know what
+would have been a good matchup? Jack Sparrow
+
+30
+00:03:08,387 --> 00:03:15,170
+versus Mera from Aquaman. No, I feel like that
+match would have shit the bed. Ha ha ha. Also,
+
+31
+00:03:15,290 --> 00:03:21,253
+anime fans should check out the Dynamike Network's
+newest show, Senjou World, a battle podcast
+
+32
+00:03:21,273 --> 00:03:25,875
+featuring your favorite anime characters. Yeah,
+debuted last week with three episodes including
+
+33
+00:03:25,976 --> 00:03:31,600
+Yusuke from Yu Hakusho vs Tanjirou from Demon
+Slayer, Natsu from Fairy Tail vs Suna from
+
+34
+00:03:31,660 --> 00:03:37,725
+Hitman Reborn, and Ken Kaneki from Tokyo Ghoul
+vs Eren Yeager from Attack on Titan. Yeah,
+
+35
+00:03:37,785 --> 00:03:44,211
+this Thursday, host Zack is going to pit Escanor
+from The Seven Deadly Sins against Black Clover's
+
+36
+00:03:44,531 --> 00:03:49,795
+Marieliona Vermillion. Make sure to tune in.
+Yeah, to listen to any of the Dynamike Network
+
+37
+00:03:49,935 --> 00:03:55,490
+shows, click on the link in our show notes or...
+visit dynamicpodcast.com to see all the shows
+
+38
+00:03:55,970 --> 00:04:02,692
+in our network. But with that out of the way,
+quick to the no prize! The no prize is an award
+
+39
+00:04:02,752 --> 00:04:07,814
+Marvel used to give out to fans. Our version,
+the Dynamic Duel No Prize, is a digital award
+
+40
+00:04:07,834 --> 00:04:12,975
+that we post on Instagram and in our email newsletter
+for the person that we feel gave the best answer
+
+41
+00:04:13,015 --> 00:04:18,337
+to our question of the week. Last week's question
+was, who is your favorite Spider-Man or woman
+
+42
+00:04:18,637 --> 00:04:24,455
+across the comics multiverse and why? And that
+was coming off the news regarding Sony's indefinite
+
+43
+00:04:24,495 --> 00:04:29,358
+delay of the Across the Spider-Verse sequel,
+Beyond the Spider-Verse. We got a lot of great
+
+44
+00:04:29,418 --> 00:04:32,840
+answers here, so let's go ahead and break down
+our three honorable mentions as well as the
+
+45
+00:04:32,880 --> 00:04:39,104
+no-prize winner. Our first honorable mention
+goes to Colby Hentges, who said, Hey boys,
+
+46
+00:04:39,144 --> 00:04:45,747
+Colby Hentges. My favorite Spider-Man Across
+the entire multiverse is in the 616, the original
+
+47
+00:04:45,787 --> 00:04:51,330
+recipe Peter Parker body but brain controlled
+by Otto Octavius. The Superior Spider-Man was
+
+48
+00:04:51,530 --> 00:04:56,693
+such a good run. The Goblin Army versus Spider
+Army, just the way he pissed off the rest of
+
+49
+00:04:56,713 --> 00:05:02,417
+the Avengers, it was great. Yeah, the Superior
+Spider-Man was a great arc in the Spider-Man
+
+50
+00:05:02,437 --> 00:05:07,840
+comic books, largely because I think in some
+ways, Otto Octavius was a better Spider-Man,
+
+51
+00:05:08,120 --> 00:05:12,562
+not like morally or anything, or as a hero,
+but the ideas that he brought to the character
+
+52
+00:05:12,602 --> 00:05:16,925
+of the Spider-Man mythos, all the technology
+and upgrading Peter Parker to the head of his
+
+53
+00:05:16,965 --> 00:05:21,920
+own corporation and everything. All that stuff
+I thought was really cool. Yeah, it's Spider-Man
+
+54
+00:05:22,020 --> 00:05:27,665
+as I've always wanted Spider-Man to be. He just
+looked super cool. I've always had problems
+
+55
+00:05:27,705 --> 00:05:33,149
+with Spider-Man's costume, and I thought the
+superior Spider-Man costume is the most superior
+
+56
+00:05:33,309 --> 00:05:38,594
+Spider-Man costume probably ever. It did a good
+job of kind of showing Peter Parker's weakness
+
+57
+00:05:38,794 --> 00:05:43,277
+as like a science guy, you know, because after
+he invented the web shooters, for as smart
+
+58
+00:05:43,318 --> 00:05:47,201
+as he is, he should have gone on to invent a
+lot of other cool shit for himself that he
+
+59
+00:05:47,241 --> 00:05:52,285
+just never did that. Otto really introduced
+to the character. So great answer Colby, our
+
+60
+00:05:52,325 --> 00:05:58,209
+next honorable mention goes to Christopher Minotti
+who said, Hi guys Christopher Minotti. My favorite
+
+61
+00:05:58,249 --> 00:06:04,014
+Spider-Man is probably Spider-Man Noir. I love
+this character, I think he's great. His whole
+
+62
+00:06:04,034 --> 00:06:10,519
+demeanor is really cool and his, I think his
+world is really interesting. I know this isn't
+
+63
+00:06:10,560 --> 00:06:17,265
+comics but I really liked him in the first Spider-Verse
+movie as well. He was very funny and an interesting
+
+64
+00:06:17,305 --> 00:06:23,029
+character. Not to mention he does remind me
+of Batman and Rorschach. And I love those characters,
+
+65
+00:06:23,069 --> 00:06:29,174
+too. Yeah, Abner O'Terry gave the same answer.
+And I have to agree, if you want to make Spider-Man
+
+66
+00:06:29,194 --> 00:06:36,580
+cooler, make him more like DC characters. You
+can't deny it. Better, but I would say, you
+
+67
+00:06:36,601 --> 00:06:41,104
+know, unique and different and interesting.
+Spider-Man Noir is cool. The comics version
+
+68
+00:06:41,144 --> 00:06:46,409
+of the character is not like the into the Spiderverse
+version voiced by Nicolas Cage, but the character
+
+69
+00:06:46,449 --> 00:06:51,110
+itself is a lot of fun. making Spider-Man more
+of a pulpy hero and setting it during the early
+
+70
+00:06:51,150 --> 00:06:55,232
+20th century, I think is a really cool sandbox
+that they've come up with a lot of awesome
+
+71
+00:06:55,272 --> 00:07:01,513
+stories for. Great answer! Our final honorable
+mention goes to Travis Herndon, who said, Hey
+
+72
+00:07:01,533 --> 00:07:09,095
+guys, it's Travis. My favorite Spider-Man related
+character would definitely have to be Silk.
+
+73
+00:07:09,436 --> 00:07:14,317
+I think she's a very underrated character, especially
+nowadays, since everybody kind of
+
+74
+00:07:17,410 --> 00:07:23,435
+that she kind of gets the short end of the stick
+for fans. So for me, I definitely say Silk.
+
+75
+00:07:23,475 --> 00:07:28,059
+Silk is my favorite and hope they do more with
+her in the later future, either in Sony or
+
+76
+00:07:28,139 --> 00:07:34,264
+in the MCU. Yes, Silk is Cindy Moon. She's the
+Korean American Spider Woman who was bit by
+
+77
+00:07:34,304 --> 00:07:39,368
+the same radioactive spider that bit Peter Parker
+after it had bit him. It fell to the ground
+
+78
+00:07:39,388 --> 00:07:44,873
+to put her on the ankle. And then she was kind
+of locked away for a decade by Ezekiel, it's
+
+79
+00:07:44,913 --> 00:07:49,219
+a whole story there. but she is a fantastic
+character, Silk. And yeah, it would be really
+
+80
+00:07:49,259 --> 00:07:53,882
+cool to see her get her due in the same way
+that Miles and Spider-Gwen have. Yeah, I don't
+
+81
+00:07:53,902 --> 00:07:57,524
+know much about the character, but she does
+have a cool look from what I've seen. She has
+
+82
+00:07:57,544 --> 00:08:02,066
+a great costume, yeah. One of these days we'll
+do a duel with her, although it took us a long
+
+83
+00:08:02,086 --> 00:08:05,969
+time to get to Spider-Woman eventually, which
+we did within the past couple months, but we'll
+
+84
+00:08:05,989 --> 00:08:10,451
+get to Silk eventually. We wanna give a quick
+shout out to everyone who took the time to
+
+85
+00:08:10,651 --> 00:08:16,742
+visit our website and record an answer, including
+Matt Estes, Connor Pierce, and Alex Wong. But
+
+86
+00:08:16,762 --> 00:08:22,806
+the winner of this week's no prize is Anson
+Millard who said, Hey, what's up? This is Anson
+
+87
+00:08:22,826 --> 00:08:30,310
+Millard. My favorite Spider-Man from the Spider-verse
+is the Spider-Man that appears in the 90s animated
+
+88
+00:08:30,370 --> 00:08:38,314
+cartoon. The voice actor in my mind is the voice
+of Spider-Man. That cartoon was really awesome
+
+89
+00:08:38,494 --> 00:08:44,437
+and it was in large part because of the character.
+He was a Spider-Man that could balance the
+
+90
+00:08:44,497 --> 00:08:49,060
+humor. but then also the more serious moments
+you need to have as Spider-Man, so I think
+
+91
+00:08:49,080 --> 00:08:54,283
+he's the best. And purely for nostalgic reasons,
+I'm giving this answer the no prize win because
+
+92
+00:08:54,303 --> 00:08:58,245
+like Anson said, it was a great version of the
+character. To this day, when I read Spider-Man
+
+93
+00:08:58,285 --> 00:09:02,727
+comic books and I read that dialogue, I still
+hear it in the 90s animated Spider-Man's voice.
+
+94
+00:09:03,228 --> 00:09:07,490
+It was iconic for me in the same way that like
+Kevin Conroy's voice will always and forever
+
+95
+00:09:07,530 --> 00:09:13,173
+be Batman. Yeah, absolutely. I don't know the
+actor's name for the 90s cartoon, but he absolutely
+
+96
+00:09:13,193 --> 00:09:17,888
+pulled off. the humor and fun of the character.
+Yeah, nailing the emotional beats as well,
+
+97
+00:09:18,288 --> 00:09:22,991
+and like the hopefulness, I think, that should
+be behind Peter Parker's voice. I really hope
+
+98
+00:09:23,011 --> 00:09:27,453
+they bring him back for like Beyond the Spider-Verse,
+just as like a cameo, that'd be really cool.
+
+99
+00:09:27,914 --> 00:09:32,936
+That would be everything, that would be incredible.
+That needs to happen. But great answer, Anson,
+
+100
+00:09:32,976 --> 00:09:36,859
+you win this week's No Prize. If you, the listener,
+want a shot at winning your own No Prize, stay
+
+101
+00:09:36,879 --> 00:09:41,341
+tuned to later on this episode when we'll be
+asking another Question of the Week. And now
+
+102
+00:09:41,381 --> 00:09:43,377
+that that's done. Lots of the news!
+
+103
+00:09:48,834 --> 00:09:53,357
+Alright, this past week we got the official
+trailer for Marvel Studios' Loki Season 2,
+
+104
+00:09:53,397 --> 00:09:58,282
+which will be debuting on Disney Plus in a few
+months. Loki is definitely one of the better
+
+105
+00:09:58,742 --> 00:10:02,625
+Marvel Disney Plus television shows. Season
+1 was really good, so I'm really glad that
+
+106
+00:10:02,645 --> 00:10:08,130
+we're getting a Season 2. And the production
+quality that was all over Season 1 seems to
+
+107
+00:10:08,170 --> 00:10:14,475
+be even more incredible here. The look and feel
+of the Loki television series is just incredible,
+
+108
+00:10:14,535 --> 00:10:19,695
+and I'm so glad that that's staying consistent.
+Oh, yeah, just the color palette of the show,
+
+109
+00:10:19,735 --> 00:10:24,098
+like the orange and green with a little bit
+of splash and purple whenever Kang is involved.
+
+110
+00:10:24,378 --> 00:10:30,842
+It's just really well done. The color palette,
+the sets, the cinematography, the special effects.
+
+111
+00:10:31,002 --> 00:10:35,104
+It all just looks so incredible, better than
+a lot of movies, honestly. I think we've said
+
+112
+00:10:35,124 --> 00:10:40,467
+that on the show before. That was my first impression
+watching this trailer was, damn, everything
+
+113
+00:10:40,507 --> 00:10:45,995
+still looks good. I would say this is probably
+Marvel's best. television series not only because
+
+114
+00:10:46,015 --> 00:10:50,098
+you know Tom Hiddleston is great and the show
+is just really well written But I also really
+
+115
+00:10:50,138 --> 00:10:56,564
+felt like it moved the narrative of the MCU
+forward in a way that a lot of MCU Movies and
+
+116
+00:10:56,584 --> 00:11:00,747
+shows don't really feel like they're doing great
+now Yeah because Loki season one kicked off
+
+117
+00:11:00,787 --> 00:11:05,431
+the whole multiverse thing that wasn't really
+revisited again until The recent Ant-Man and
+
+118
+00:11:05,451 --> 00:11:10,615
+the Wasp quantumania movie where we got to get
+our introduction to King the Conqueror And
+
+119
+00:11:10,655 --> 00:11:15,999
+we're gonna see him again in Loki season 2 It
+should definitely shepherd along the whole
+
+120
+00:11:16,039 --> 00:11:22,063
+multiversal saga and bring us closer to the
+next Avengers movie, which is going to be The
+
+121
+00:11:22,083 --> 00:11:27,867
+Kang Dynasty. But the trailer starts off with
+Mobius, played by Owen Wilson, and Loki, played
+
+122
+00:11:27,887 --> 00:11:33,871
+by Tom Hiddleston, going to visit, and I'm going
+to butcher his name, Kehui Kuan, the recent
+
+123
+00:11:33,911 --> 00:11:39,035
+actor who won Best Supporting Actor for Everything
+Everywhere All at Once. It's so cool to see
+
+124
+00:11:39,075 --> 00:11:45,214
+him here playing a member of the TVA who witnesses
+Loki. time-slipping which is supposed to be
+
+125
+00:11:45,274 --> 00:11:49,855
+impossible in the TVA. The chemistry between
+these three characters, you can already tell,
+
+126
+00:11:49,935 --> 00:11:55,497
+it's just, it's gonna be fascinating. I think
+Owen Wilson is probably underrated in terms
+
+127
+00:11:55,537 --> 00:12:00,318
+of the balance and laid-back feel that he brings
+to the proceedings. I'm really excited to see
+
+128
+00:12:00,358 --> 00:12:04,599
+him show up in the Deadpool movie, which is
+rumored to happen. I think confirmed to happen,
+
+129
+00:12:05,359 --> 00:12:09,981
+but either way, that'll be really cool. Loki
+explains how he's getting pulled through time,
+
+130
+00:12:10,021 --> 00:12:16,116
+through the present and the past. We see come
+back in this season. She has a really dumb
+
+131
+00:12:16,156 --> 00:12:20,480
+haircut. I wonder what's going on with her character
+because we see her like all over the place
+
+132
+00:12:20,500 --> 00:12:25,605
+too. Like in one universe she's like in a record
+store and the other one she's like behind the
+
+133
+00:12:25,645 --> 00:12:31,491
+register at a fast food place. Eventually we
+do see her kick ass in a few shots so we know
+
+134
+00:12:31,531 --> 00:12:36,796
+that whatever happens she returns to form from
+season one but she gives a pretty good line
+
+135
+00:12:37,216 --> 00:12:41,462
+exchange with Loki. in the trailer where she
+says we can't play God and he's like we are
+
+136
+00:12:41,482 --> 00:12:45,903
+gods. You know, the problem is choosing who
+lives and dies, you know. I think it's a great
+
+137
+00:12:45,943 --> 00:12:50,745
+concept for this upcoming season. Yeah, Sylvie
+was one of my favorite characters in season
+
+138
+00:12:50,905 --> 00:12:55,466
+one. So, it's great that they found a way to
+have the actress return, if not that specific
+
+139
+00:12:55,526 --> 00:13:00,547
+version of the character. I think one of the
+other main things I took away from this trailer
+
+140
+00:13:00,567 --> 00:13:05,369
+was that the action looks pretty good. Tom Hiddleston
+kind of seems like a badass, you know, between
+
+141
+00:13:05,409 --> 00:13:09,658
+like the cool suits that he wears. His wardrobe
+is fantastic. but he also just carries himself
+
+142
+00:13:09,698 --> 00:13:14,799
+really well as Loki. He has this greater confidence,
+it seems, about him within this season, now
+
+143
+00:13:14,819 --> 00:13:21,881
+that he's kind of become more accustomed to
+this TVA time spy role. The season looks incredible.
+
+144
+00:13:22,001 --> 00:13:26,642
+It looks amazing. I hope it lives up to the
+hype that I feel from watching this trailer,
+
+145
+00:13:27,143 --> 00:13:32,664
+but I guess we'll know starting October 6th
+on Disney+. We'll probably get another trailer
+
+146
+00:13:32,704 --> 00:13:37,625
+before then, but speaking of season two of Loki,
+that brings us to our question of the week.
+
+147
+00:13:42,230 --> 00:13:48,414
+Besides Loki, what other Disney Plus Marvel
+television series that has come out do you
+
+148
+00:13:48,534 --> 00:13:54,058
+most hope gets a season 2? Yeah, Disney Plus
+has had quite a few other Marvel television
+
+149
+00:13:54,078 --> 00:13:58,101
+series come out. Loki is the only one that's
+gotten a season 2. There's not really been
+
+150
+00:13:58,141 --> 00:14:03,244
+any word on any other series getting a season
+2, but if you could pick one to get another
+
+151
+00:14:03,284 --> 00:14:08,148
+season, which one would it be? Record your answer
+at dynamicduel.com by clicking on the red microphone
+
+152
+00:14:08,188 --> 00:14:11,810
+button in the bottom right hand corner of the
+screen. which will prompt you to leave us a
+
+153
+00:14:11,890 --> 00:14:16,352
+voicemail. Your message could be up to 30 seconds
+long, and don't forget to leave your name in
+
+154
+00:14:16,372 --> 00:14:20,674
+case we include you on the podcast. We'll pick
+our favorite answer and award that person a
+
+155
+00:14:20,714 --> 00:14:25,337
+Dynamic Duel No Prize that we'll post to Instagram
+and our email newsletter. Be sure to answer
+
+156
+00:14:25,377 --> 00:14:27,257
+before August 12th.
+
+157
+00:14:35,022 --> 00:14:38,148
+But I think that does it for all the news for
+this episode, so let's go ahead and get into
+
+158
+00:14:38,308 --> 00:14:45,101
+our main event, where we review the latest DC
+animated film to come out, Justice League War
+
+159
+00:14:45,141 --> 00:14:45,341
+World.
+
+160
+00:15:00,310 --> 00:15:06,271
+Alright, Justice League Warworld is DC's latest
+direct-to-video animated film set in the same
+
+161
+00:15:06,371 --> 00:15:12,493
+animated universe established by the film Superman
+Man of Tomorrow, known as the Tomorrowverse.
+
+162
+00:15:12,973 --> 00:15:19,515
+Warworld is the seventh film set in the Tomorrowverse
+after prior films set up Superman, Batman,
+
+163
+00:15:19,555 --> 00:15:24,956
+the Justice League, the Legion of Superheroes
+and the Future, and an alternate history slash
+
+164
+00:15:24,976 --> 00:15:31,483
+dimension with a version of Wonder Woman in
+the Justice Society, during World War II. Justice
+
+165
+00:15:31,523 --> 00:15:36,748
+League Warworld, like every single other film
+in the Tomorrowverse, has an incredible premise,
+
+166
+00:15:37,168 --> 00:15:42,052
+though only half of those films, in my opinion,
+have been able to stick the landing well enough
+
+167
+00:15:42,112 --> 00:15:47,697
+that I would recommend them to others. The Tomorrowverse
+is pretty hit or miss in terms of storytelling.
+
+168
+00:15:48,137 --> 00:15:54,602
+So how did Justice League Warworld fare? Regrettably,
+I'd call it a miss, because while the idea
+
+169
+00:15:54,642 --> 00:16:01,338
+of the film is fantastic, the execution, not
+so much. If you, the listener, do plan on checking
+
+170
+00:16:01,378 --> 00:16:07,400
+the film out, maybe when it's on Max or something,
+stop listening now because there is an overarching
+
+171
+00:16:07,460 --> 00:16:12,101
+mystery across the film and we will be getting
+into spoilers. Yeah, if you're not going to
+
+172
+00:16:12,121 --> 00:16:17,122
+watch this film, why are you even listening
+to this review? You know, I guess if you want
+
+173
+00:16:17,142 --> 00:16:21,624
+to know like what the movie is about, listening
+to this review is probably a more understandable,
+
+174
+00:16:21,844 --> 00:16:27,865
+coherent experience in watching the film itself.
+So if you want to stick around for that, yeah,
+
+175
+00:16:27,925 --> 00:16:33,108
+keep listening. I imagine a majority of the
+people who watch the movie are going to be
+
+176
+00:16:33,188 --> 00:16:38,831
+amongst the most diehard DC fans, which is good,
+because anyone else I think is going to be
+
+177
+00:16:38,871 --> 00:16:45,755
+considerably lost due to the film's fairly experimental
+nature. You know, it doesn't have your standard
+
+178
+00:16:45,795 --> 00:16:51,838
+three act structure, and it plays out initially
+more like a series of anthological Elseworld
+
+179
+00:16:51,918 --> 00:17:00,050
+shorts, which is what I wish this actually ended
+up being in the end. are essentially DC's version
+
+180
+00:17:00,130 --> 00:17:05,493
+of what if, though like Elseworlds are a lot
+better. Like I'm almost embarrassed for Marvel.
+
+181
+00:17:06,194 --> 00:17:11,076
+I'm not, and that's surprising that you're saying
+that, considering the quality of this DC film.
+
+182
+00:17:11,557 --> 00:17:15,559
+I'm embarrassed for DC. No, I'm saying that
+the- Why are you trying to talk shit about
+
+183
+00:17:15,599 --> 00:17:21,182
+Marvel when this movie sucked? Is what I wanna
+know. It didn't suck that hard, I mean, come
+
+184
+00:17:21,282 --> 00:17:28,394
+on. Elseworlds are a way for DC to tell stories
+within new genres and time periods. and it's
+
+185
+00:17:28,434 --> 00:17:34,717
+a chance to re-explore and re-examine characters
+that are familiar to us, such as Superman being
+
+186
+00:17:34,797 --> 00:17:41,041
+raised in the Soviet Union, or Batman in a Tale
+of Lovecraftian Horror. Elseworlds are some
+
+187
+00:17:41,081 --> 00:17:45,983
+of my favorite DC stories, so I was pretty excited
+when the trailers for Justice League Warworld
+
+188
+00:17:46,043 --> 00:17:52,787
+showed us that DC's trinity of Superman, Batman,
+and Wonder Woman would inhabit these alternative
+
+189
+00:17:52,867 --> 00:17:58,794
+worlds. And exploring those worlds were the
+best parts of the movie. Wonder Woman as this
+
+190
+00:17:58,934 --> 00:18:06,118
+nameless, gun-toting badass cowgirl in a western
+worked surprisingly well, Batman as a Conan
+
+191
+00:18:06,158 --> 00:18:12,462
+the Barbarian analog in a swords and sorcery
+fantasy adventure was cool as hell, and Superman
+
+192
+00:18:12,662 --> 00:18:18,465
+as a government agent dealing with a potential
+alien threat in a Twilight Zone-esque sci-fi
+
+193
+00:18:18,505 --> 00:18:24,308
+horror was pretty crazy. Each of the different
+genres we encountered contained an interesting
+
+194
+00:18:24,368 --> 00:18:29,847
+premise and a fair bit of action. Though if
+audiences weren't expecting something of an
+
+195
+00:18:29,887 --> 00:18:35,270
+anthology in this film, they were probably really
+confused. Yeah, also because there were no
+
+196
+00:18:35,310 --> 00:18:40,933
+real transitions between each act as well. Yeah,
+you're right, no transition whatsoever. Now,
+
+197
+00:18:40,973 --> 00:18:46,296
+you and I are no stranger to DC's animated anthological
+shorts. We've reviewed several collections
+
+198
+00:18:46,316 --> 00:18:51,699
+of them on this podcast, including Superman
+Shazam, The Return of Black Adam, Batman Death
+
+199
+00:18:51,739 --> 00:18:56,782
+in the Family, and Constantine the House of
+Mystery. They're interesting. I enjoy most
+
+200
+00:18:56,822 --> 00:19:02,328
+of DC shorts, as I did here in Justice League
+Warworld, even though they weren't technically
+
+201
+00:19:02,388 --> 00:19:07,272
+shorts. It was the connective tissue between
+the individual tales that made things a little
+
+202
+00:19:07,292 --> 00:19:12,717
+confusing for me in this film, and by the time
+we learned that, oh, it was all a dream, it
+
+203
+00:19:12,757 --> 00:19:18,343
+was all an illusion, it wasn't quite the satisfying
+or clever reveal that I think the filmmakers
+
+204
+00:19:18,403 --> 00:19:24,204
+intended. Yeah, the answer is that we did. ultimately
+end up getting weren't quite satisfying given
+
+205
+00:19:24,404 --> 00:19:28,827
+that for a vast majority of this film, like
+two thirds of this film, we're stuck in this
+
+206
+00:19:28,967 --> 00:19:34,431
+mystery that employs a lot of dream logic as
+it were. There's a lot of things that happen
+
+207
+00:19:34,471 --> 00:19:39,876
+here that don't actually matter, that are confusing.
+And then once you realize what's actually going
+
+208
+00:19:39,996 --> 00:19:46,180
+on, it's like, well, that was like a waste of
+time. It kind of felt like, you know? Yeah.
+
+209
+00:19:46,200 --> 00:19:51,868
+100% I agree with you. I think the most confusing
+and frustrating aspect of the conclusion to
+
+210
+00:19:51,908 --> 00:19:59,193
+me was just how rushed and vague it was. Like,
+so much of the Tomorrowverse happens off-screen,
+
+211
+00:19:59,393 --> 00:20:04,197
+like the formation of the Justice League or
+how Mongol captured Superman, Batman, and Wonder
+
+212
+00:20:04,217 --> 00:20:10,001
+Woman to begin with. We don't know how or why
+Warworld established a telepathic link with
+
+213
+00:20:10,081 --> 00:20:16,305
+Mongol, and it's super unclear to me as to whether
+or not the Lobo and Martian Manhunter in this
+
+214
+00:20:16,365 --> 00:20:21,624
+film are the same ones from Superman Man of
+Tomorrow or if they're from another universe
+
+215
+00:20:21,644 --> 00:20:27,066
+within the multiverse. Now, I kind of got the
+impression that Warworld was able to traverse
+
+216
+00:20:27,326 --> 00:20:32,088
+multiple dimensions. Right, exactly. Now, we
+know Superman and Batman have met each other
+
+217
+00:20:32,268 --> 00:20:37,291
+in the Tomorrowverse, but again, we're not entirely
+clear as to whether this version of Superman
+
+218
+00:20:37,591 --> 00:20:43,073
+and Batman have met before. And Wonder Woman
+was really confusing because in the Tomorrowverse,
+
+219
+00:20:43,093 --> 00:20:47,355
+Wonder Woman... was part of the Justice Society.
+We hadn't even seen her in the modern times
+
+220
+00:20:47,375 --> 00:20:52,897
+yet, but she was talking to Clark like she knew
+him. Well, Superman was in the final battle
+
+221
+00:20:53,077 --> 00:20:59,220
+of Justice Society. That's right. It was a different
+version of Superman though. Yeah, one that
+
+222
+00:20:59,320 --> 00:21:04,622
+manifested during World War II, as opposed to
+the Superman that was in Man of Tomorrow who
+
+223
+00:21:04,662 --> 00:21:08,884
+debuted in modern times. Yeah, that's why Wonder
+Woman in this movie said that he looked so
+
+224
+00:21:08,924 --> 00:21:14,630
+much younger. I see, yeah. I felt like the whole
+film was really not only a setup for Crisis
+
+225
+00:21:14,670 --> 00:21:20,353
+on Infinite Earths, but a way to get Wonder
+Woman into the same universe as Superman and
+
+226
+00:21:20,373 --> 00:21:26,375
+Batman. But it just was a really stupid way
+to do that. I'm like, couldn't you just use
+
+227
+00:21:26,495 --> 00:21:31,057
+DC's animated film for next year, Crisis on
+Infinite Earths, to introduce the World War
+
+228
+00:21:31,097 --> 00:21:36,779
+II Wonder Woman to the main timeline? Like,
+was Justice League War World even necessary?
+
+229
+00:21:37,119 --> 00:21:44,034
+Or was it just an idea that no one said no to?
+Because that's what it feels like. Absolutely.
+
+230
+00:21:44,374 --> 00:21:49,996
+I think you're spot on right there. They're
+like, dudes, what if like Wonder Woman used
+
+231
+00:21:50,036 --> 00:21:56,199
+her lasso like a cowboy? And the other person
+was like, yeah, man, I'm so fucking high right
+
+232
+00:21:56,219 --> 00:22:03,743
+now. And what if like Batman was like Conan?
+Whoa. And what if like we're all aliens? Oh,
+
+233
+00:22:04,083 --> 00:22:09,805
+that's an idea for a Superman story. There you
+go. Yeah. It's not a great way to develop a
+
+234
+00:22:09,845 --> 00:22:14,588
+story for sure. And I'm absolutely convinced
+that's how this movie happened. It was cool
+
+235
+00:22:14,608 --> 00:22:19,952
+that we got to see these obscure characters,
+but almost all of them, except for Warlord,
+
+236
+00:22:20,152 --> 00:22:27,578
+were arguably handled somewhat disrespectfully.
+Jonah Hex was made a villain, Batlash was killed,
+
+237
+00:22:27,858 --> 00:22:34,523
+Mashiest was killed, Snapper Car and the Langs
+were aliens, King Faraday was a hostile maniac,
+
+238
+00:22:34,783 --> 00:22:40,399
+and even the White Martians were essentially
+laser d***. gun-toting fodder for the heroes
+
+239
+00:22:40,439 --> 00:22:45,082
+to punch, which should have been a huge red
+flag for the filmmakers. Like, why do white
+
+240
+00:22:45,122 --> 00:22:50,646
+Martians need to carry laser guns? They're fucking
+white Martians. Right? They have Martian vision.
+
+241
+00:22:50,906 --> 00:22:56,710
+I mean, would any fans of these characters appreciate
+the way any of them were handled in this movie?
+
+242
+00:22:57,250 --> 00:23:02,754
+I would argue probably not. The one good thing
+I could say about this film and all Tomorrowverse
+
+243
+00:23:02,774 --> 00:23:09,058
+films is that the animation and character designs
+are a sight to behold. I think Diana definitely
+
+244
+00:23:09,098 --> 00:23:14,621
+wins the award for best dressed in this film.
+Whether it's as a star-spangled cowgirl, a
+
+245
+00:23:14,661 --> 00:23:20,825
+fierce damsel in a fierce bikini, or a spectacled
+and modest secretary, she looked great. It
+
+246
+00:23:20,865 --> 00:23:25,387
+was cool seeing the three characters and how
+they exist within these three separate worlds.
+
+247
+00:23:25,667 --> 00:23:30,690
+Visually, the film does have a lot going for
+it. Yeah, yeah. With Bruce in his story, I
+
+248
+00:23:30,730 --> 00:23:36,313
+thought the Conan look was a little on the nose,
+but the bat helmet was cool. If not short-lived.
+
+249
+00:23:36,786 --> 00:23:40,887
+I do wish he got to keep that bat cape a little
+bit longer. That would have been awesome. Yeah,
+
+250
+00:23:41,007 --> 00:23:46,948
+yeah. Mongul's design was the only one I was
+iffy on. Like, it wasn't terrible. I think
+
+251
+00:23:46,968 --> 00:23:52,350
+they may have been trying to differentiate him
+a bit from like a yellow dark side, but I wish
+
+252
+00:23:52,390 --> 00:23:57,431
+he looked a little less shriveled. Yeah, he
+looks kind of scrawny here. I think he's usually
+
+253
+00:23:57,471 --> 00:24:02,493
+more bulked up than that. But I might just be
+used to like Ed McGinnis's style of drawing
+
+254
+00:24:02,533 --> 00:24:07,002
+the character and Ed McGinnis draws everybody
+really poofy. Yeah, no, that's how the character
+
+255
+00:24:07,202 --> 00:24:11,543
+normally is depicted. Okay, okay. Now we've
+talked a little bit about some characters'
+
+256
+00:24:11,563 --> 00:24:16,545
+appearances, but let's dive a little bit more
+into them in our character breakdown. Now Diana
+
+257
+00:24:16,565 --> 00:24:22,946
+Prince, AKA Wonder Woman, was voiced by Stana
+Kanick, who lends a strong and exotic presence
+
+258
+00:24:23,026 --> 00:24:27,848
+to Diana's character. And she did back in the
+first film she appeared in, Justice Society
+
+259
+00:24:27,888 --> 00:24:33,149
+World War II. For sure, she's incredible. I
+thought she did an even better job in this
+
+260
+00:24:33,189 --> 00:24:38,910
+movie. than she did in her debut voice appearance,
+and that was amazing too. Martian Manhunter
+
+261
+00:24:38,990 --> 00:24:44,314
+at the end of the film revealed what he learned
+from each of the protagonists. From Diana he
+
+262
+00:24:44,354 --> 00:24:50,239
+said he learned not to give up. Dedication,
+as it were, as we see Diana dedicated to the
+
+263
+00:24:50,259 --> 00:24:55,744
+townsfolk despite the fact that they had broken
+the law because they were the ones in need
+
+264
+00:24:55,784 --> 00:25:00,788
+of physical protection. It's often said that
+Wonder Woman is a tough character to tackle
+
+265
+00:25:01,129 --> 00:25:07,296
+because she's a Warrior of Peace, which is contradictory,
+but I thought this was a great showcase of
+
+266
+00:25:07,336 --> 00:25:12,079
+the caring and loving nature of the character
+and how she will defend those she cares about
+
+267
+00:25:12,279 --> 00:25:17,081
+without hesitation or limits. Yeah, the movie
+was definitely rated R. I definitely remember
+
+268
+00:25:17,202 --> 00:25:22,144
+being blown away by the level of violence in
+her Wild West story. In a Western film, you
+
+269
+00:25:22,204 --> 00:25:27,767
+tend to see people get shot in the head. Moving
+on to Bruce Wayne, aka Batman, he was voiced
+
+270
+00:25:27,807 --> 00:25:28,908
+by Jensen Ackles,
+
+271
+00:25:32,334 --> 00:25:38,937
+to ever voice the character. He does a fantastic
+job. What he lacks in like, Kevin Conroy's
+
+272
+00:25:39,177 --> 00:25:46,341
+deep, gruff perfection, I think he adds in character.
+I agree with you. Jensen Ackles, I think, has
+
+273
+00:25:46,381 --> 00:25:51,504
+been the second best. I really like his Batman
+performance. Now from Batman, Martian Manhunter
+
+274
+00:25:51,524 --> 00:25:57,547
+said he learned courage, which I think everyone
+displayed on the world of Skartaris. It's a
+
+275
+00:25:57,587 --> 00:26:03,191
+dangerous place, but Bruce's true courage was
+tested when he made the decision to stand up
+
+276
+00:26:03,211 --> 00:26:09,894
+to Deimos by refusing to kill Diana and Moriah,
+especially after revealing earlier that he
+
+277
+00:26:09,934 --> 00:26:16,878
+felt, essentially, that everyone was evil and
+that evil was unstoppable. Warlord responded
+
+278
+00:26:17,138 --> 00:26:23,082
+that while that may be true, good men stand
+up to the darkness within them and fight evil
+
+279
+00:26:23,182 --> 00:26:29,465
+for those who can't, regardless of whether they
+can win or not. Bruce would have died for defying
+
+280
+00:26:29,505 --> 00:26:35,156
+Deimos, But his courage to stand up for what
+he felt was right in the end was rewarded by
+
+281
+00:26:35,216 --> 00:26:40,498
+Warlord when he saved Bruce from Deimos' bullet.
+Speaking of that, I thought it was weird that
+
+282
+00:26:40,538 --> 00:26:45,080
+Deimos was firing a gun to begin with. He was
+a sorcerer. There's some weird choices made
+
+283
+00:26:45,100 --> 00:26:50,542
+through that. That's in keeping with Skartaris,
+though. Skartaris is like the center of the
+
+284
+00:26:50,582 --> 00:26:54,504
+world. It's like world at the core of the planet.
+But things from like the Bermuda Triangle get
+
+285
+00:26:54,644 --> 00:27:01,111
+sucked into there. So Warlord uses a gun quite
+frequently. Really? That I did not know. OK,
+
+286
+00:27:01,131 --> 00:27:05,574
+we'll have to do like a duel episode with Warlord
+at some point. But yeah, it just seemed like
+
+287
+00:27:05,594 --> 00:27:11,479
+a weird hodgepodge of elements going on within
+this. What I thought was a swords and sorcery
+
+288
+00:27:11,519 --> 00:27:15,922
+type world and actually turns out to be quite
+a myriad of things. Yeah, that's kind of what
+
+289
+00:27:15,962 --> 00:27:21,586
+makes Scartaris unique from other swords and
+sorcery worlds, isn't the fact that the sorcerer
+
+290
+00:27:21,626 --> 00:27:26,534
+can find a fucking gun and be like, I'm going
+to use this as like a magic wand. But like,
+
+291
+00:27:26,714 --> 00:27:31,796
+why shoot a gun when you can turn into a giant
+snake though, am I right? Or do both, why not?
+
+292
+00:27:32,756 --> 00:27:39,199
+Hahaha Moving on to Clark Kent, aka Superman,
+he was voiced by Darren Criss, who did a great
+
+293
+00:27:39,239 --> 00:27:44,261
+job voicing the character in Superman Man of
+Tomorrow, and here as well. I don't know what
+
+294
+00:27:44,301 --> 00:27:51,344
+it is, but he just sounds like a good, optimistic
+man. I think he might actually be the second
+
+295
+00:27:51,364 --> 00:27:56,738
+best Superman voice after Tim Daly, from the
+new Superman Adventures. I buy it. Yeah, now
+
+296
+00:27:56,778 --> 00:28:02,141
+from Superman, Martian Manhunter said he learned
+faith. I thought for a character that's an
+
+297
+00:28:02,321 --> 00:28:10,206
+alien, Superman was perfect to do a 1950s sci-fi
+story with, as those often revolve around paranoia
+
+298
+00:28:10,386 --> 00:28:16,009
+of the other. This was during the time of the
+McCarthy hearings and general public mistrust
+
+299
+00:28:16,349 --> 00:28:22,612
+of anyone different or foreign, which in the
+melting pot of America, was hard to tell visually.
+
+300
+00:28:23,053 --> 00:28:29,315
+But Superman represents the very best of American
+values, and in spite of everyone's mistrust,
+
+301
+00:28:29,636 --> 00:28:35,498
+Clark refused to kill out of fear because he
+had faith that those people, no matter what
+
+302
+00:28:35,518 --> 00:28:41,500
+they looked like or said, were good. And not
+just Bruce or Diana, but even Martian Manhunter,
+
+303
+00:28:41,760 --> 00:28:47,463
+an alien that Clark didn't recognize. The movie
+proved and reinforced that Clark and Bruce
+
+304
+00:28:47,803 --> 00:28:53,205
+are opposites in that sense, because Clark believes
+that everyone's good, and Bruce believes that
+
+305
+00:28:53,225 --> 00:28:57,302
+everyone's evil. But if you're a white Martian,
+though, he won't hesitate to kill your ass.
+
+306
+00:28:57,322 --> 00:29:02,444
+I mean, they attacked him first. Sort of. One
+of the guys was reaching for his gun. Right,
+
+307
+00:29:02,544 --> 00:29:07,225
+right, right. So those were the three protagonists
+of the movie. There's some other characters
+
+308
+00:29:07,245 --> 00:29:12,867
+that I want to touch on, including Martian Manhunter.
+We last saw him during a cameo in Green Lantern.
+
+309
+00:29:12,987 --> 00:29:19,949
+Beware my power. Apparently, perhaps sometime
+after that, he was kidnapped by Lobo and imprisoned
+
+310
+00:29:20,029 --> 00:29:25,504
+on Warworld. We have no idea if Superman or
+Batman were kidnapped at the same time or when
+
+311
+00:29:25,664 --> 00:29:31,107
+Wonder Robin was taken from her universe, particularly
+because Martian Manhunter said it took him
+
+312
+00:29:31,267 --> 00:29:37,391
+lifetimes to psychically reach them. Now he
+could mean like animated short lifetimes or
+
+313
+00:29:37,431 --> 00:29:42,293
+he could be a Martian Manhunter from a completely
+different universe who's been trapped a very,
+
+314
+00:29:42,333 --> 00:29:48,637
+very long time. I wouldn't be surprised if it
+was the latter because he seemingly sacrifices
+
+315
+00:29:48,677 --> 00:29:54,672
+himself in the end. to destroy Warworld after
+he merges with a white Martian. If this was
+
+316
+00:29:54,712 --> 00:29:59,575
+the main tomorrow vs Martian Manhunter, at least
+he went out like a boss though, because he
+
+317
+00:29:59,595 --> 00:30:04,658
+was mentally manipulating everyone, not just
+the Trinity during the illusions, but also
+
+318
+00:30:04,778 --> 00:30:09,881
+Lobo, Mongul, and some random white Martian
+in the end. Yeah, it was quite the telepathic
+
+319
+00:30:09,921 --> 00:30:14,764
+feat they had going on. I think if he is gone,
+that's kind of a waste because he's such a
+
+320
+00:30:14,824 --> 00:30:19,531
+quintessential part of the League. Or at least
+should be. Right, exactly, I think that's one
+
+321
+00:30:19,571 --> 00:30:25,516
+of the reasons why I think he might be a multiversal
+Martian manhunter. Again, not 100% sure on
+
+322
+00:30:25,556 --> 00:30:30,640
+that though. I guess we'll have to see how Crisis
+on Infinite Earths plays out next year. I also
+
+323
+00:30:30,660 --> 00:30:35,344
+wanted to touch on Mungo. He was the biggest
+disappointment for me in the movie. I was looking
+
+324
+00:30:35,404 --> 00:30:40,228
+forward to him because he hasn't made too many
+appearances in the cartoons or anywhere outside
+
+325
+00:30:40,268 --> 00:30:43,711
+the comics really, but he's a pretty powerful
+badass villain.
+
+326
+00:30:47,570 --> 00:30:52,891
+enslaving their citizens and pitting their best
+warriors in gladiatorial matches. That was
+
+327
+00:30:52,971 --> 00:30:57,753
+nowhere to be seen here. Instead the writers
+made it so that Mongol and the planet were
+
+328
+00:30:57,793 --> 00:31:04,415
+empowered by negative emotions, which was a
+weird decision. I thought that was really weird.
+
+329
+00:31:04,955 --> 00:31:11,277
+I feel like we never got a great sense for the
+power of Warworld as a weapon. It's a planet
+
+330
+00:31:11,317 --> 00:31:16,138
+covered in planet destroying energy cannons.
+And we never got a good look at it. Like the
+
+331
+00:31:16,158 --> 00:31:22,781
+whole concept of war world was super vague,
+which I feel was like a super mistake on behalf
+
+332
+00:31:22,821 --> 00:31:28,463
+of the filmmakers. Like what were the stakes?
+We were told that war world was the ultimate
+
+333
+00:31:28,483 --> 00:31:33,485
+weapon in the universe, but it was never shown.
+And in a film, you should always show, not
+
+334
+00:31:33,545 --> 00:31:38,928
+tell. Yeah, the only time we got a good, like
+perspective of the entire planet and the scale
+
+335
+00:31:38,968 --> 00:31:44,798
+of it was when it blew up. And at that point,
+who gave a shit? Exactly. Even after watching
+
+336
+00:31:44,818 --> 00:31:48,962
+this movie, I don't even really know what Mongol
+does. I know he has an energy staff that he
+
+337
+00:31:48,982 --> 00:31:53,105
+can threaten people with. But I don't know if
+it's just a glow stick, if it even fucking
+
+338
+00:31:53,185 --> 00:31:58,269
+works. What can he do? He didn't do anything
+in this movie. I mean, he's kind of like dark
+
+339
+00:31:58,309 --> 00:32:04,515
+side light. You know, he's strong, he's fast,
+he's pretty much invulnerable. He could teleport
+
+340
+00:32:04,675 --> 00:32:09,879
+and he could like shoot out energy beams. He's
+also really smart. But yeah, I don't think
+
+341
+00:32:09,919 --> 00:32:15,067
+you got a sense for really any of that in this
+movie. He was just a guy who couldn't follow
+
+342
+00:32:15,087 --> 00:32:21,432
+through on his threats, got his ass beat by
+Lobo, and then got blown up. Weak ass villain.
+
+343
+00:32:21,912 --> 00:32:26,416
+And it was really unclear too as to whether
+or not, like, he was the one in control of
+
+344
+00:32:26,476 --> 00:32:31,319
+Warworld, or Warworld was the one in control
+of him. He kept referring to Warworld as a
+
+345
+00:32:31,419 --> 00:32:36,343
+she, which was kind of confusing. That's not
+from the comics? I don't believe so, not that
+
+346
+00:32:36,423 --> 00:32:39,525
+I know of. Hmm. But let's get into the story
+highlights.
+
+347
+00:32:47,182 --> 00:32:52,646
+The first act is a western. It follows Wonderoman,
+a nameless cowgirl who wanders via horseback,
+
+348
+00:32:52,806 --> 00:32:58,371
+into a town whose citizens are holed up in a
+run-down church by hired law enforcement led
+
+349
+00:32:58,411 --> 00:33:04,216
+by Jonah Hex. After an altercation at the local
+saloon between Wonderoman and one of Hex's
+
+350
+00:33:04,297 --> 00:33:09,961
+men, Wonderoman learns from Hex that the entire
+townsfolk had their land repossessed after
+
+351
+00:33:10,002 --> 00:33:15,678
+failing to make payments while searching for
+gold. The townsfolk together then robbed the
+
+352
+00:33:15,718 --> 00:33:21,303
+bank to get back the gold they used to pay for
+their stakes. As Hex asks Wonder Woman to join
+
+353
+00:33:21,343 --> 00:33:27,228
+his team, other members brutally murder a young
+girl's parents as they attempt to flee. Wonder
+
+354
+00:33:27,268 --> 00:33:32,593
+Woman saves the girl and joins the side of the
+townsfolk, defending them from Hex and his
+
+355
+00:33:32,673 --> 00:33:37,917
+men. When she learns via her lasso of truth
+that Hex plans on blowing the rest of the church
+
+356
+00:33:38,077 --> 00:33:43,430
+up with the people inside, Wonder Woman hijacks
+the train carrying the explosives while the
+
+357
+00:33:43,470 --> 00:33:48,851
+townsfolk evacuate. Despite Wonder Woman blowing
+up the church and the gold stashed inside,
+
+358
+00:33:49,191 --> 00:33:55,293
+ridding both sides of it, Hex still kills one
+of the townsfolk's other defenders, a man named
+
+359
+00:33:55,413 --> 00:34:01,755
+Batlash. Wonder Woman nearly beats Hex to death
+before writing off on her own. I thought this
+
+360
+00:34:01,775 --> 00:34:05,976
+was a pretty cool act, actually. I think it
+was the best out of the three stories, largely
+
+361
+00:34:06,016 --> 00:34:11,337
+because the action, Wonder Woman was really
+badass with her lasso and she was a great shot.
+
+362
+00:34:11,794 --> 00:34:15,796
+Yeah, I thought this was a great story, too.
+I'm really torn as to which of the three is
+
+363
+00:34:15,836 --> 00:34:21,039
+my favorite. I actually think the Batman one
+is my favorite just because it does so much
+
+364
+00:34:21,099 --> 00:34:25,422
+justice to the character of Warlord, whereas
+I really didn't care for what they did with
+
+365
+00:34:25,462 --> 00:34:31,186
+Jonah Hex in this story. Like, they never told
+his backstory in this movie, maybe because
+
+366
+00:34:31,226 --> 00:34:36,009
+it's so tragic and it would have made him sympathetic
+and they just needed him to be the bad guy
+
+367
+00:34:36,049 --> 00:34:41,346
+here. I'm not sure. I thought it was weird how
+Wonder Woman had to divert the train in order
+
+368
+00:34:41,386 --> 00:34:46,868
+to hit the church when the train was initially
+supposed to hit the church anyway according
+
+369
+00:34:46,928 --> 00:34:50,929
+to Jonah Hex's plan. I don't think it was supposed
+to hit the church. I think they were just going
+
+370
+00:34:50,949 --> 00:34:55,530
+to blow it up when it got near the church. Probably
+like light the fuse and then jump off the train
+
+371
+00:34:55,570 --> 00:34:59,531
+or something like that. But it's fucking Wonder
+Woman. She has a better way. I thought that
+
+372
+00:34:59,551 --> 00:35:04,673
+was actually cool for you because there really
+was no good side here. There was just one side
+
+373
+00:35:04,733 --> 00:35:10,308
+that was oppressive and one that was not. Moving
+on to Act 2, that's a fantasy adventure in
+
+374
+00:35:10,328 --> 00:35:15,913
+the world of Skartaris. It follows Batman, a
+sword wielding mercenary, who is part of a
+
+375
+00:35:15,973 --> 00:35:22,138
+failed attack on the kingdom of Shambhala, which
+is led by the king known as Warlord. When Batman
+
+376
+00:35:22,238 --> 00:35:27,582
+offers to take Warlord and his men to the evil
+sorcerer who hired the mercenaries, Deimos,
+
+377
+00:35:27,923 --> 00:35:33,054
+in exchange for his freedom, Warlord accepts
+the offer. The group is attacked by dangerous
+
+378
+00:35:33,074 --> 00:35:38,815
+Skartarin wildlife on their journey to Deimos'
+castle and suffers several casualties. Batman
+
+379
+00:35:38,855 --> 00:35:43,597
+and Warlord are the only two to make it inside
+the castle where they have to outsmart booby
+
+380
+00:35:43,617 --> 00:35:49,778
+traps and outrun a Minotaur. After Batman tricks
+Warlord into freeing him from his chains, he
+
+381
+00:35:49,818 --> 00:35:54,920
+abandons Warlord to be killed by the Minotaur
+and makes his way to Deimos alone, where he
+
+382
+00:35:54,960 --> 00:36:00,761
+finds Moriah, Warlord's ally who was lost during
+the journey to the castle, and a confused Wonder
+
+383
+00:36:00,801 --> 00:36:07,252
+Woman. Deimos reveals that he hired Batman to
+bring Warlord to him before ordering Batman
+
+384
+00:36:07,272 --> 00:36:13,134
+to kill Moriah and Wonder Roman. When Batman
+refuses, Deimos attacks him, but Batman is
+
+385
+00:36:13,194 --> 00:36:20,277
+saved by Warlord, who managed to kill the Minotaur.
+They all gang up on Deimos, who flees. Warlord
+
+386
+00:36:20,437 --> 00:36:25,799
+asks them to join his cause against Deimos,
+but Batman and Wonder Roman decline and depart
+
+387
+00:36:25,899 --> 00:36:31,446
+via a portal. Like I said, this is probably
+my favorite of the three stories. Not just
+
+388
+00:36:31,486 --> 00:36:37,189
+for Batman, although Batman is cool in it, but
+primarily for Warlord. The world of Skartaris
+
+389
+00:36:37,289 --> 00:36:42,212
+is just intense and I thought they did a good
+job of capturing that. I thought it was really
+
+390
+00:36:42,352 --> 00:36:47,675
+out of character when Batman abandoned Warlord
+to be killed by the Minotaur. And, you know,
+
+391
+00:36:47,695 --> 00:36:52,918
+it turns out later that he was hired to let
+Warlord die, but then at the end he ended up
+
+392
+00:36:53,058 --> 00:36:57,060
+fighting alongside him, so it felt kind of flippy
+floppy in that regard. I'm surprised actually
+
+393
+00:36:57,080 --> 00:37:01,779
+that Warlord didn't just straight up murder
+Batman. for betraying him like that earlier
+
+394
+00:37:01,799 --> 00:37:06,563
+in the story. Well, I think it's because he
+saw that he wasn't gonna kill Mariah and Wonder
+
+395
+00:37:06,583 --> 00:37:11,687
+Woman, that he realized this guy has some good
+in him. And I agree, Batman is definitely out
+
+396
+00:37:11,707 --> 00:37:17,332
+of character in this story. I don't even almost
+see it as Batman, it's pretty much Conan. But
+
+397
+00:37:17,552 --> 00:37:23,156
+I'm just a sucker for good fantasy action, I
+guess. Act 3 is a paranoid sci-fi thriller
+
+398
+00:37:23,196 --> 00:37:26,279
+that follows Agent Clark Kent of the Central
+Bureau of
+
+399
+00:37:29,494 --> 00:37:35,217
+interrogate a group of six people being held
+at a 1950s diner after they witnessed a UFO
+
+400
+00:37:35,297 --> 00:37:41,240
+sighting. While asking the people questions,
+Clark uncovers their fears that one of them
+
+401
+00:37:41,280 --> 00:37:46,523
+may be an alien in disguise controlling their
+thoughts, with the Foreign Secretary Diana
+
+402
+00:37:46,584 --> 00:37:52,707
+Prince and the Highway Patrol Officer Bruce
+Wayne being among the chief suspects. As tensions
+
+403
+00:37:52,767 --> 00:37:58,739
+rise, Clark begins to hear music. When Bruce
+and Diana privately reveal to Clark that they
+
+404
+00:37:58,919 --> 00:38:04,903
+also hear the music, they accidentally touch,
+flooding each other's minds with strange visions.
+
+405
+00:38:05,423 --> 00:38:10,947
+In the chaos, Faraday pulls his gun on Bruce
+and Diana, accusing them of being the aliens,
+
+406
+00:38:11,327 --> 00:38:16,451
+and when one of the people, a trucker named
+Potter, reaches for Clark's gun, Clark shoves
+
+407
+00:38:16,491 --> 00:38:22,315
+him away to defend Bruce and Diana, accidentally
+sending Potter flying into a jukebox and breaking
+
+408
+00:38:22,355 --> 00:38:22,875
+his neck.
+
+409
+00:38:26,494 --> 00:38:32,817
+are white Martians, who attack Faraday and chase
+Clark, Bruce, and Diana. As the three flee
+
+410
+00:38:32,857 --> 00:38:38,940
+in a car and fend off attacking white Martians,
+they eventually reach a barn with a large spaceship
+
+411
+00:38:38,980 --> 00:38:45,424
+crashed on top of it. Upon entering the ship,
+they find a green Martian, as does Faraday
+
+412
+00:38:45,444 --> 00:38:50,927
+shortly after when he catches up with them.
+After Clark knocks Faraday out when Faraday
+
+413
+00:38:50,947 --> 00:38:57,050
+shoots him because he thought he was an alien
+too, the spaceship fades away to reveal Warworld,
+
+414
+00:38:57,370 --> 00:39:03,892
+which also looks like the inside of a spaceship.
+It was kind of interesting watching this after
+
+415
+00:39:04,012 --> 00:39:10,914
+our review of Secret Invasion, which was supposed
+to be a paranoid sci fi. But I think this short
+
+416
+00:39:11,134 --> 00:39:17,196
+did a much better job of making the viewer feel
+the paranoia of like, who's an alien, who's
+
+417
+00:39:17,256 --> 00:39:22,677
+not, then Secret Invasion did. For sure. Yeah,
+I thought it was a great twist when we see
+
+418
+00:39:22,717 --> 00:39:28,203
+the guy with the broken neck. say, oh, I guess
+I'm the alien. And then all of a sudden, everybody
+
+419
+00:39:28,223 --> 00:39:34,506
+was the alien. I was like, oh, shit. I thought
+this third story was OK. I think it was largely
+
+420
+00:39:34,806 --> 00:39:41,249
+hampered by its need to actually progress the
+story into World and transition into that last
+
+421
+00:39:41,389 --> 00:39:48,391
+act. Whereas the previous two acts were largely
+standalone. Right. Yeah, that's fair. I did
+
+422
+00:39:48,452 --> 00:39:53,153
+enjoy seeing Clark, Diana and Bruce just like
+as civilians taking on these Martians, though.
+
+423
+00:39:53,398 --> 00:39:59,339
+That was pretty cool. Like Bruce with the whole
+knocking off the cap of the fuel truck and
+
+424
+00:39:59,539 --> 00:40:04,241
+Clark firing the flare gun. That was cool. It's
+like I need to remember that for the zombie
+
+425
+00:40:04,281 --> 00:40:10,203
+apocalypse. I also thought it was interesting
+that the reason they justified the black and
+
+426
+00:40:10,223 --> 00:40:17,245
+white coloring of the story was so that Warworld
+could keep Superman away from light and therefore
+
+427
+00:40:17,265 --> 00:40:22,691
+his powers. Yellow light, yeah. In Act 4, we
+learn from the Green Martian, revealed to be
+
+428
+00:40:22,731 --> 00:40:28,053
+the hero Martian Manhunter, that they're all
+currently on Warworld, and that Superman, Batman,
+
+429
+00:40:28,073 --> 00:40:33,455
+and Wonder Woman have been living telepathic
+illusions forcibly cast by Martian Manhunter
+
+430
+00:40:33,875 --> 00:40:40,418
+as a result of torture in order to stir negative
+emotions that energize Warworld. Martian Manhunter's
+
+431
+00:40:40,458 --> 00:40:45,860
+plan to call out to the Trinity to save him
+worked, though the bounty hunter Lobo finds
+
+432
+00:40:45,900 --> 00:40:50,830
+and subdues the heroes before they can escape.
+Just when I thought we had gotten all the answers,
+
+433
+00:40:50,930 --> 00:40:56,252
+the whole mystery aspect of the movie keeps
+going with Lobo's introduction. Cause like
+
+434
+00:40:56,292 --> 00:41:01,993
+literally he comes out of nowhere and he's really
+vague by saying like, oh, aren't you the cutest
+
+435
+00:41:02,093 --> 00:41:06,555
+or something like that. And then like they wake
+up elsewhere on the war world planet and stuff
+
+436
+00:41:06,575 --> 00:41:09,816
+and you have no idea what happened. You're still
+not getting all the answers you need. It's
+
+437
+00:41:09,836 --> 00:41:14,757
+quite the frustrating film I found. Even after
+we thought we were getting a grasp on what
+
+438
+00:41:14,797 --> 00:41:20,477
+was going on. movie still kept up the confusion
+but not like in an interesting way. It was,
+
+439
+00:41:20,497 --> 00:41:24,601
+I just remember being really frustrated. Yeah
+it was definitely frustrating, definitely not
+
+440
+00:41:24,921 --> 00:41:30,506
+intriguing in any way. Lobo was a surprise,
+I don't actually remember him from the trailers
+
+441
+00:41:30,546 --> 00:41:35,250
+although he may have been. The Trinity awakens
+alone on Warworld and discovers that the people
+
+442
+00:41:35,270 --> 00:41:40,574
+they interacted with in their visions were clones
+of people that had been captured by Warworld.
+
+443
+00:41:40,914 --> 00:41:45,710
+They find their superhero costumes and decide
+to rescue Marshal Manhunter. who's been taken
+
+444
+00:41:45,750 --> 00:41:51,255
+to Lobo to Warworld's leader, Mongul. I kind
+of wonder how each of them knew which costume
+
+445
+00:41:51,275 --> 00:41:56,540
+belonged to them. I wonder if Diana reached
+for Batman's costume first or something like
+
+446
+00:41:56,580 --> 00:42:00,083
+that. It would have been interesting for sure
+to see Batman wear Wonder Woman's costume.
+
+447
+00:42:00,503 --> 00:42:06,128
+Ha ha ha. Mongul reveals to Martian Manhunter
+that millennia ago, Warworld established a
+
+448
+00:42:06,168 --> 00:42:12,033
+telepathic link with him, promising him power.
+After killing its former inhabitants, the Largus,
+
+449
+00:42:12,658 --> 00:42:18,460
+Mongol found he was unable to activate Warworld's
+weapon systems, though Warworld told him the
+
+450
+00:42:18,500 --> 00:42:23,722
+key lied within the Martian race. Mongol and
+Warworld traveled the multiverse in search
+
+451
+00:42:23,742 --> 00:42:29,084
+of Martians. They found white Martians, though
+they needed Lobo's help to find the last green
+
+452
+00:42:29,244 --> 00:42:35,287
+one. Still unable to find the key, Mongol used
+Martian Manhunter's telepathic powers to fuel
+
+453
+00:42:35,347 --> 00:42:40,449
+more negativity for Warworld, though he decides
+in the moment to kill Martian Manhunter to
+
+454
+00:42:40,489 --> 00:42:45,352
+instill planet-wide despair. I don't know, Mungle's
+motivations are just kind of weird here. It
+
+455
+00:42:45,372 --> 00:42:50,296
+doesn't make sense to really kill your most
+powerful fuel source for this weapon that you're
+
+456
+00:42:50,316 --> 00:42:56,241
+trying to activate, as well as, you know, kill
+the one being that may be able to unlock the
+
+457
+00:42:56,281 --> 00:43:00,464
+power of the weapon you're holding. Just a lot
+of weird motivational stuff. It was really
+
+458
+00:43:00,524 --> 00:43:05,749
+weird that he would decide to do that. He needs
+Martian Manhunter. So why would he kill him?
+
+459
+00:43:05,929 --> 00:43:11,393
+Just, it's just bad writing. Before Mungle can
+kill Martian Manhunter, Loba disables his bonds.
+
+460
+00:43:11,638 --> 00:43:17,301
+so that Martian Manhunter can kill Mongol instead
+and Lobo can take over Warworld. As Superman,
+
+461
+00:43:17,321 --> 00:43:22,143
+Batman, and Wonder Woman reach them and begin
+fighting off White Martians, Martian Manhunter
+
+462
+00:43:22,183 --> 00:43:28,227
+disables Mongol and reveals that the key to
+Warworld is a merged green and white Martian
+
+463
+00:43:28,547 --> 00:43:32,629
+because those races have been at war with each
+other forever and the Largus believed that
+
+464
+00:43:32,649 --> 00:43:37,872
+they would never work together. After merging
+with the White Martian, Martian Manhunter activates
+
+465
+00:43:37,932 --> 00:43:44,477
+Warworld and turns its weapons on itself. Before
+Warworld explodes, a mysterious harbinger arrives
+
+466
+00:43:44,737 --> 00:43:50,462
+and teleports the Trinity to safety, telling
+them that the lives lost on Warworld is nothing
+
+467
+00:43:50,482 --> 00:43:57,108
+compared to the threat of an upcoming crisis.
+Now talk about Deus Ex Machina. Absolutely.
+
+468
+00:43:57,248 --> 00:44:02,893
+So dumb. There was no reason why they couldn't
+get to a Zeta Beam transporter and get themselves
+
+469
+00:44:02,913 --> 00:44:10,342
+to safety. It was all just so rushed and unnecessary.
+I absolutely hated the fourth act of this film.
+
+470
+00:44:10,422 --> 00:44:16,064
+None of it was good, in my opinion. No, I mean,
+I thought the last few minutes of Secret Invasion
+
+471
+00:44:16,104 --> 00:44:21,945
+were bad. This one was even more abrupt and
+just out of the blue. I just remember thinking
+
+472
+00:44:21,985 --> 00:44:26,627
+like, is that it? Like, there's got to be some
+kind of like after credit scene or something
+
+473
+00:44:26,667 --> 00:44:31,588
+like that. But there wasn't. No, no, there's
+no resolution. And I really hate when films
+
+474
+00:44:31,628 --> 00:44:37,446
+do this. They'll end the film just to set up
+the next film and not have a resolution. It's
+
+475
+00:44:37,566 --> 00:44:42,828
+not a good way to do your film. Like audiences
+need that story resolution. It's fine if you
+
+476
+00:44:42,848 --> 00:44:47,910
+set up another one, but make sure that you at
+least see the bad guy die or something like
+
+477
+00:44:47,950 --> 00:44:53,232
+that, you know? Right. Exactly. And who is Harbinger?
+Can you tell me? Because I've never read Crisis.
+
+478
+00:44:53,933 --> 00:44:59,895
+She was like a messenger for Pariah in Crisis
+on Infinite Earth. Like she's the one who helped
+
+479
+00:44:59,935 --> 00:45:05,277
+him rally all the heroes together to face the
+oncoming threat. Hmm. Although she looks way
+
+480
+00:45:05,297 --> 00:45:11,594
+different. than they depicted her in this movie.
+Talk about character design. Besides Mongol,
+
+481
+00:45:11,614 --> 00:45:17,219
+this has to be the worst adaptation from the
+comics that I've ever seen. It looks more like
+
+482
+00:45:17,399 --> 00:45:23,004
+Nova from Marvel. That's what I thought. Yeah,
+I was like total ripoff. The final act did
+
+483
+00:45:23,024 --> 00:45:27,047
+have some decent action on behalf of Superman,
+Batman and Wonder Woman. It was cool to see
+
+484
+00:45:27,067 --> 00:45:32,776
+them kick ass and stuff. I did think that. Lobo
+turning on Mongol was a little bit convenient
+
+485
+00:45:32,836 --> 00:45:36,399
+until I realized that he was actually being
+manipulated by a martial man hunter And then
+
+486
+00:45:36,439 --> 00:45:41,083
+it's kind of seemed to make more sense But I
+mean even that played largely into like my
+
+487
+00:45:41,123 --> 00:45:47,348
+frustration with the story Like a lot of it
+on first viewing feels very empty and strange
+
+488
+00:45:47,448 --> 00:45:52,493
+motivation wise until you get more information
+But you know the answers all come in piecemeal
+
+489
+00:45:52,533 --> 00:45:57,217
+and they're not satisfying I guess the action
+at the end was good again the whole time. I
+
+490
+00:45:57,237 --> 00:46:01,644
+was just wondering like Why aren't the white
+Martians bigger threats for a Superman, Batman
+
+491
+00:46:01,664 --> 00:46:06,547
+and Wonder Woman? They should be. Absolutely.
+Well, Batman had fire. True. That actually
+
+492
+00:46:06,587 --> 00:46:11,911
+was cool how he used that. But I don't know,
+the whole end just felt so cheap because it
+
+493
+00:46:11,931 --> 00:46:17,314
+just felt like I was watching a really bad trailer
+for the next movie and not even a trailer,
+
+494
+00:46:17,374 --> 00:46:21,677
+just, you know, like as a setup for something
+else that I'm not going to be able to watch
+
+495
+00:46:21,697 --> 00:46:28,226
+for another year. It was a commercial. It was
+an advertisement. And I feel like robbed. Like
+
+496
+00:46:28,246 --> 00:46:32,687
+this whole thing was just a gimmick to plug
+the next movie. Yeah, I think that Tomorrowverse
+
+497
+00:46:32,747 --> 00:46:37,389
+could definitely have gone without this film.
+It seems like the most inconsequential DC animated
+
+498
+00:46:37,429 --> 00:46:42,571
+movie ever. As I mentioned earlier, I would
+have been much happier if this was just an
+
+499
+00:46:42,612 --> 00:46:48,834
+anthology collection featuring Elseworld shorts.
+Overall, the film's anthological approach to
+
+500
+00:46:48,874 --> 00:46:56,337
+story structure and genre is interesting, but
+ultimately the film's disappointing and convoluted
+
+501
+00:46:56,377 --> 00:47:02,492
+final act diminishes the film's overall appeal.
+It's hard to knock the film too much because
+
+502
+00:47:02,532 --> 00:47:08,194
+I would say three out of its four acts were
+fairly good, but the final act just really
+
+503
+00:47:08,294 --> 00:47:14,757
+ruins it. And because of that, I'm giving this
+two and a half stars out of five, a rotten
+
+504
+00:47:14,797 --> 00:47:20,899
+rating on Rotten Tomatoes. Yeah, I think if
+the movie had done a better job of setting
+
+505
+00:47:20,959 --> 00:47:27,694
+up early on some foreshadowing or hints as to
+what exactly was going on here. kind of clued
+
+506
+00:47:27,854 --> 00:47:33,636
+audiences in better along the way as we go through
+these other interesting stories, I think it
+
+507
+00:47:33,656 --> 00:47:37,898
+would have been much more successful. I also
+think, you know, they could have done a much
+
+508
+00:47:37,938 --> 00:47:43,640
+better job with Mongol in the ending, of course,
+but the individual anthology stories, I think,
+
+509
+00:47:43,760 --> 00:47:48,742
+mostly hit the mark they were trying to. So
+I agree. Two and a half stars. It was an interesting
+
+510
+00:47:48,842 --> 00:47:53,924
+idea at the very least, and maybe worthwhile
+to explore. Hopefully next time, though, they
+
+511
+00:47:54,025 --> 00:47:58,555
+do a better job if they do something like this
+again. Right, right. But that does it for this
+
+512
+00:47:58,595 --> 00:48:03,399
+review. Let us know what you thought about the
+movie by writing to us at dynamicduelpodcast
+
+513
+00:48:03,519 --> 00:48:09,405
+at gmail.com or by visiting us on Instagram
+or Twitter X. I don't know what the name of
+
+514
+00:48:09,445 --> 00:48:14,289
+it is now. You can find links to all of our
+accounts by checking out our show notes or
+
+515
+00:48:14,349 --> 00:48:19,393
+visiting our website at dynamicduel.com. And
+on our website, you can also find a link to
+
+516
+00:48:19,413 --> 00:48:23,857
+our Patreon page where you can join our dynamic
+to OTR and chat with us and fellow listeners.
+
+517
+00:48:24,374 --> 00:48:28,697
+our Fantastic Four tier, which gets you bonus
+content each month, our X-Force tier that makes
+
+518
+00:48:28,717 --> 00:48:33,081
+you an executive producer of this podcast, or
+our newest tier that lets you join our Dynamike
+
+519
+00:48:33,181 --> 00:48:38,345
+Podcast Network. If you can't join Patreon,
+you can still support this podcast by signing
+
+520
+00:48:38,405 --> 00:48:44,770
+up for our e-newsletter also at dynamicduel.com.
+Or you can also rate the show on Apple Podcasts,
+
+521
+00:48:44,950 --> 00:48:52,216
+Spotify, Podchaser, or on our website. Our next
+episode is going to be dual episode that is
+
+522
+00:48:52,276 --> 00:48:58,320
+leading up to our team duel for episode 350
+where we're gonna pit the Doom Patrol against
+
+523
+00:48:58,440 --> 00:49:02,762
+the Guardians of the Galaxy. Yeah, next week
+we're gonna learn who will win in a fight between
+
+524
+00:49:03,063 --> 00:49:08,666
+Dorothy Spinner, the Chief's daughter, against
+Moon Girl and Devil Dinosaur. Yeah, that should
+
+525
+00:49:08,686 --> 00:49:12,428
+be interesting. You know, Dorothy Spinner has
+the power of imagination. She creates all these
+
+526
+00:49:12,728 --> 00:49:17,531
+monsters to fight on her behalf, essentially.
+And Moon Girl has her own monster in Devil
+
+527
+00:49:17,571 --> 00:49:22,073
+Dinosaur. So I think this is gonna be a fun
+matchup. Yeah, for sure. I'm looking forward
+
+528
+00:49:22,093 --> 00:49:27,164
+to it. I loved Dorothy in season 2 of Doom Patrol.
+But that does it for this episode, we want
+
+529
+00:49:27,184 --> 00:49:31,867
+to give a big thanks to our executive producers
+Ken Johnson, John Sturowski, Zachary Hepburn,
+
+530
+00:49:32,047 --> 00:49:37,430
+Dustin Belcombe, Miggy Matten-Geehan, Brandon
+Estergard, Nathaniel Wagner, Levi Yeaton, Nick
+
+531
+00:49:37,450 --> 00:49:43,834
+Obanto, Austin Wazilowski, AJ Dunkerley, Scott
+Camacho, and Adam Spies for helping make this
+
+532
+00:49:43,874 --> 00:49:48,777
+podcast possible. And we'll talk to you guys
+next week. Up up and away, true believers.
+
+533
+00:49:50,130 --> 00:49:53,006
+World, good god y'all, what is it good for?
+Absolutely nothing.
+
