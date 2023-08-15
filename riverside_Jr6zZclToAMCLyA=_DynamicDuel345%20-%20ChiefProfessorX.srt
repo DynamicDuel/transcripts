@@ -1,0 +1,3234 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a Dynamike Network podcast.
+
+2
+00:00:25,486 --> 00:00:30,570
+Dynamic Duel Podcast, a weekly show where we
+review superhero films and debate the superiority
+
+3
+00:00:30,610 --> 00:00:35,774
+between Marvel and DC by comparing their characters
+and stat-based battle simulations. I'm Johnny
+
+4
+00:00:35,814 --> 00:00:41,619
+DC. And I'm his twin brother Marvelous Joe.
+And in this episode, we are pitting the Doom
+
+5
+00:00:41,659 --> 00:00:48,204
+Patrol leader, Niles Calder, aka the Chief,
+against the X-Men leader, Charles Xavier, aka
+
+6
+00:00:48,284 --> 00:00:53,789
+Professor X. Yeah, both of these guys are bound
+to wheelchairs. They're both wicked smart.
+
+7
+00:00:54,209 --> 00:00:59,023
+And While one of them has powers and the other
+one doesn't, the Chief is highly versatile
+
+8
+00:00:59,503 --> 00:01:04,385
+and a complete wild card. So I think it's going
+to be a pretty good match. We said last week
+
+9
+00:01:04,405 --> 00:01:09,447
+that this episode was going to be Dorothy Spinner
+vs. Moon Girl and Devil Dinosaur, but we're
+
+10
+00:01:09,488 --> 00:01:13,909
+actually going to punt that duel to later on
+next month and we're going to do this one now.
+
+11
+00:01:14,369 --> 00:01:17,511
+Yeah, before the matchup we're going to break
+down the comic book movie news from the past
+
+12
+00:01:17,551 --> 00:01:23,073
+week of which there was just one minor news
+item. In regards to speculation around Gal
+
+13
+00:01:23,093 --> 00:01:27,929
+Gadot's involvement. in a potential Wonder Woman
+movie. And we're also going to bring on Ken
+
+14
+00:01:27,969 --> 00:01:33,133
+Johnson, the host of the Max Destruction podcast,
+to talk about his show. Yeah, as always, we
+
+15
+00:01:33,173 --> 00:01:37,076
+list our segment times in our episode description,
+so feel free to check out our show notes if
+
+16
+00:01:37,096 --> 00:01:41,780
+you want to skip ahead to a particular topic.
+As our listeners may know, our duel simulator
+
+17
+00:01:41,860 --> 00:01:46,905
+is so advanced that it's gained sentience, and
+has named itself the Artificial Lifeform for
+
+18
+00:01:46,945 --> 00:01:53,751
+Running Extensive Duels, just a rather very
+intelligent simulator, 9000. Or Alfred Jarvis
+
+19
+00:01:53,811 --> 00:02:01,070
+9000. Here's a quick message for our listeners,
+so listen up. Why hello there. Do you love
+
+20
+00:02:01,110 --> 00:02:05,972
+listening and chatting about Marvel and DC?
+Then become a part of the dynamic dual community
+
+21
+00:02:06,032 --> 00:02:11,274
+on Patreon, where you can choose from three
+tiers. The dynamic 2-0 tier lets you listen
+
+22
+00:02:11,314 --> 00:02:16,297
+to this podcast without ads and gives you access
+to its Discord chat group, where you can chat
+
+23
+00:02:16,317 --> 00:02:21,599
+with Johnny DC and Marvelous Joe. The fantastic
+4 tier gives you that and more with two bonus
+
+24
+00:02:21,639 --> 00:02:26,221
+episodes each month, including bloopers and
+top 10 shows where Johnny and Joe count down
+
+25
+00:02:26,261 --> 00:02:31,447
+your favourite Marvel and DC subjects. The X-Force
+tier makes you an executive producer of Dynamic
+
+26
+00:02:31,487 --> 00:02:36,109
+Duel, where every month you help the host choose
+what to review and who to fight against each
+
+27
+00:02:36,149 --> 00:02:42,092
+other. And finally, the Dynamite Podcast Network
+tier allows aspiring podcasters to create their
+
+28
+00:02:42,232 --> 00:02:47,274
+own battle-focused show using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+29
+00:02:47,294 --> 00:02:52,177
+your show, provide graphic support and consultation,
+and get you simulation results to announce
+
+30
+00:02:52,217 --> 00:02:56,979
+on your show. Pitch the twins your show via
+email at dynamicduelpodcast.gmail.com or by
+
+31
+00:02:56,999 --> 00:03:01,662
+reaching out to the Dynamite Podcast them on
+social media. Check it out at patreon.com slash
+
+32
+00:03:01,702 --> 00:03:08,748
+dynamic duel. Pip pip cheerio. Thanks AJ 9k
+and thanks to everyone who supports the podcast.
+
+33
+00:03:09,288 --> 00:03:15,193
+Be sure to tune into the Max Destruction podcast
+tomorrow August 16th to listen to a review
+
+34
+00:03:15,413 --> 00:03:21,538
+of Robocop, the cult classic 1980s film. Can't
+wait for that review. Also, anime fans should
+
+35
+00:03:21,558 --> 00:03:26,598
+check out Send Your World, a new battle podcast
+featuring your favorite anime characters. In
+
+36
+00:03:26,618 --> 00:03:31,342
+the last episode, they found out who would win
+between Asta from Black Clover and Meliotis
+
+37
+00:03:31,402 --> 00:03:37,126
+from Seven Deadly Sins. Tune in this Thursday
+for the next episode drop. To listen to any
+
+38
+00:03:37,167 --> 00:03:42,311
+of the Dynamike Network podcasts, click on the
+link in our show notes or visit dynamicpodcasts.com.
+
+39
+00:03:43,011 --> 00:03:49,317
+And with that out of the way, quick to the No
+Prize! A No Prize is an award Marvel used to
+
+40
+00:03:49,337 --> 00:03:54,741
+give out to fans. Our version, the Dynamic Duel
+No Prize, is a digital award we post on Instagram.
+
+41
+00:03:55,114 --> 00:03:59,155
+and in our email newsletter for the person that
+we feel gave the best answer to our question
+
+42
+00:03:59,195 --> 00:04:04,817
+of the week. Last week we asked, besides Loki,
+what other Disney Plus Marvel television series
+
+43
+00:04:05,097 --> 00:04:10,398
+that has come out do you most hope gets a season
+2? And this is coming off of the trailer for
+
+44
+00:04:10,458 --> 00:04:15,180
+Loki season 2. We got quite a few answers, let's
+go ahead and run down our honorable mentions
+
+45
+00:04:15,220 --> 00:04:20,890
+as well as the no prize winner. Our first honorable
+mention goes to Travis Herndon, who said Hey
+
+46
+00:04:20,910 --> 00:04:26,774
+guys, Travis here. My pick would be a very controversial
+pick, but I would say She-Hulk. I feel like
+
+47
+00:04:26,795 --> 00:04:31,859
+that show could get redeemed with a season two.
+Maybe bring in some people who've done the
+
+48
+00:04:31,899 --> 00:04:37,924
+comics to write for She-Hulk, as well as maybe
+bringing in one or two people who've done good
+
+49
+00:04:37,984 --> 00:04:45,030
+lawyer shows to really make it feel like a lawyer
+show with a splash of Marvel heroism. I just
+
+50
+00:04:45,050 --> 00:04:50,458
+feel like She-Hulk can get a redemption. Yeah,
+this is a great answer. that I didn't think
+
+51
+00:04:50,478 --> 00:04:54,622
+about because She-Hulk is, you know, probably
+the worst Disney plus Marvel television show
+
+52
+00:04:54,642 --> 00:05:01,048
+to come out, in my opinion. But Tatiana Maslany
+gave a great performance and the show's concept
+
+53
+00:05:01,208 --> 00:05:06,693
+has a lot of potential, especially if they lean
+more into the like lawyer comedy drama case
+
+54
+00:05:06,733 --> 00:05:12,098
+of the week type format. Despite the fact how
+much I disliked season one, I do think that
+
+55
+00:05:12,118 --> 00:05:17,038
+the show can be redeemed with the season two.
+And that's what I want to see. Yeah, I mean,
+
+56
+00:05:17,118 --> 00:05:22,181
+as we've seen before, Kevin Feige is, you know,
+not above self-correcting when he realizes
+
+57
+00:05:22,201 --> 00:05:26,244
+that he's made a mistake. Take Trevor Slattery,
+for example. I love what they've done with
+
+58
+00:05:26,264 --> 00:05:31,248
+that character. And likewise, I don't think
+She-Hulk, the series, is beyond redemption.
+
+59
+00:05:31,728 --> 00:05:36,131
+It needs to be redeemed, if anything. So great
+answer, Travis. Our next honorable mention
+
+60
+00:05:36,171 --> 00:05:42,135
+goes to Rick McGrew from the RetroNomopod, who
+said, Hey, guys, Rick from the RetroNomopod.
+
+61
+00:05:42,856 --> 00:05:48,388
+Yeah, I think Jeremy Renner. Taking up his mantle
+as Hawkeye would what I'd want to see for a
+
+62
+00:05:48,988 --> 00:05:55,653
+second season. I like a ground-level hero I'd
+like to see what other adventures Haley Steinfeld
+
+63
+00:05:55,693 --> 00:06:01,277
+would Get up to as Kate Bishop and kind of see
+where the relationship evolves to from where
+
+64
+00:06:01,297 --> 00:06:06,920
+we left off So yeah season two of Hawkeye, I
+think is the win Yeah, due to Jeremy Renner's
+
+65
+00:06:06,980 --> 00:06:13,425
+unfortunate accident that happened last year
+It's likely that he wouldn't take a starring
+
+66
+00:06:13,605 --> 00:06:17,810
+action role within a Hawkeye season two, but
+that's completely fine because they did a great
+
+67
+00:06:17,870 --> 00:06:23,432
+job of setting up the character's legacy in
+Kate Bishop in Hawkeye season one. I think
+
+68
+00:06:23,472 --> 00:06:28,093
+we really need to see where the story goes from
+there, and I'm surprised actually that a Hawkeye
+
+69
+00:06:28,113 --> 00:06:32,475
+season two hasn't been announced yet. Yeah,
+same. I mean, considering that Jeremy Renner's
+
+70
+00:06:32,495 --> 00:06:37,776
+Hawkeye was one of the first main Avengers,
+I would really hope to see that a subsequent
+
+71
+00:06:37,816 --> 00:06:43,098
+season would kind of establish a new Avengers
+or sort of push in that direction. because
+
+72
+00:06:43,158 --> 00:06:47,479
+I think the Avengers team is something that's
+sorely missing from the MCU right now that
+
+73
+00:06:47,519 --> 00:06:51,041
+people are interested in. For sure, yeah, and
+Hawkeye season one was definitely like the
+
+74
+00:06:51,121 --> 00:06:57,144
+most Avengers-y feeling to it out of all the
+Disney Plus shows. Great answer, Rick. Our
+
+75
+00:06:57,184 --> 00:07:02,626
+next honorable mention goes to Anson Millard,
+who said, Hey guys, this is Anson Millard.
+
+76
+00:07:02,946 --> 00:07:07,868
+The easy answer for this is Moon Knight. It
+was one of the best received Disney Plus shows.
+
+77
+00:07:08,448 --> 00:07:16,094
+I think it's the best set up to have a sequel.
+in another season. We can finally see Mark
+
+78
+00:07:16,214 --> 00:07:22,400
+and Stephen work together with their combined
+powers but there's also some room for some
+
+79
+00:07:22,500 --> 00:07:27,484
+drama between them because they like the same
+girl can see some more stuff with Jake and
+
+80
+00:07:27,564 --> 00:07:31,688
+I would love if they tie more into the direct.
+It sounds like Anson got cut off there but
+
+81
+00:07:31,929 --> 00:07:35,752
+I think he was gonna say he would like them
+to take more in the direction of the comics.
+
+82
+00:07:36,253 --> 00:07:41,076
+That's only a guess. because while the Moon
+Knight television series was good, it was largely
+
+83
+00:07:41,096 --> 00:07:45,981
+a departure from the source material. But he's
+right. I wanna see where the Mark and Steven
+
+84
+00:07:46,281 --> 00:07:50,724
+relationship goes, especially with Scarlett
+Scarab in the mix. And in the very last scene
+
+85
+00:07:50,765 --> 00:07:55,869
+of season one, we got introduced to Jake Lockley's
+character, who I think can be explored too.
+
+86
+00:07:55,889 --> 00:08:00,773
+There's still a lot of mysteries within that
+show that I think would be fun to see get addressed.
+
+87
+00:08:00,813 --> 00:08:04,156
+Yeah, it was also nice that the show had some
+supernatural elements. I would actually like
+
+88
+00:08:04,176 --> 00:08:09,291
+to see Gael Garcia Bernal's werewolf by night
+character making appearance on the show considering
+
+89
+00:08:09,331 --> 00:08:13,934
+that you know moon night first made an appearance
+in his comic. That would be incredible. That
+
+90
+00:08:13,954 --> 00:08:17,676
+would be really cool. I'd like to see those
+two team up even if it's just for an episode
+
+91
+00:08:17,716 --> 00:08:22,078
+or something. Just go on an adventure together?
+Yeah. Like just steering the moon night show
+
+92
+00:08:22,118 --> 00:08:27,101
+in that more supernatural horror route would
+be really cool. For sure. Great answer, Anson.
+
+93
+00:08:27,261 --> 00:08:32,044
+We want to give a quick shout out to Christopher
+Manotti, Meggy Mathengian, and Jose Marcial
+
+94
+00:08:32,244 --> 00:08:36,590
+for taking the time to visit our website and
+record an answer. But the winner of this week's
+
+95
+00:08:36,650 --> 00:08:43,555
+no prize is Colby Hentges, who said, Hey boys,
+Colby Hentges. I'm going loose with the concept
+
+96
+00:08:43,595 --> 00:08:49,679
+of season two. What I want is an Elsa bloodstone
+series coming out of the werewolf by night.
+
+97
+00:08:49,799 --> 00:08:56,224
+One shot. It could be a Buffy, the vampire slayer
+style monster of the week show of just Elsa
+
+98
+00:08:56,264 --> 00:09:01,547
+hunting down different monsters every week.
+It would be awesome. That's my answer. Hell
+
+99
+00:09:01,587 --> 00:09:06,450
+yeah, bro. This was a genius answer. Totally
+sold me on this pitch. of having a Buffy the
+
+100
+00:09:06,470 --> 00:09:11,913
+Vampire Slayer take on the character of Elsa
+Bloodstone who was first introduced in the
+
+101
+00:09:11,953 --> 00:09:16,636
+Werewolf by Night special presentation around
+Halloween last year. This is fantastic, we
+
+102
+00:09:16,656 --> 00:09:21,659
+could see the origin of the monster hunters,
+get more backstory on her father Ulysses and
+
+103
+00:09:21,679 --> 00:09:26,001
+the Bloodstone itself, and get introduced to
+a lot of supernatural characters from the comics
+
+104
+00:09:26,061 --> 00:09:32,365
+incorporated into the MCU. Plus we could potentially
+get more Manthing, who I think should be the
+
+105
+00:09:32,545 --> 00:09:37,251
+new Groot. He just- seems like a really fun,
+cool character. Which is weird to say, but
+
+106
+00:09:37,571 --> 00:09:42,774
+it is what it is. And maybe we would even get
+more Gal Garcia Bernal as werewolf by night.
+
+107
+00:09:43,155 --> 00:09:47,137
+He could just cameo in all the shows, including
+Moon Knight. So yeah, out of these answers,
+
+108
+00:09:47,197 --> 00:09:51,759
+I would most want to see a Bloodstone series
+for sure. So congrats to Colby Hentges for
+
+109
+00:09:51,799 --> 00:09:56,162
+winning this week's No Prize. If you, the listener,
+want a shot at winning your own No Prize, stay
+
+110
+00:09:56,182 --> 00:10:00,404
+tuned to later on this episode when we'll be
+asking another question of the week. And now
+
+111
+00:10:00,424 --> 00:10:02,545
+that that's done, on to the news.
+
+112
+00:10:08,182 --> 00:10:13,765
+Okay, a couple of weeks ago, Gal Gadot gave
+an interview to ComicBook.com where she said
+
+113
+00:10:13,805 --> 00:10:18,267
+that she loved playing Wonder Woman and that
+she heard from James Gunn and Peter Safran,
+
+114
+00:10:18,527 --> 00:10:24,370
+the heads of DC Studios, that they were going
+to develop Wonder Woman 3 together. Not long
+
+115
+00:10:24,450 --> 00:10:30,674
+after that, she did another interview with Flant
+Magazine where she explicitly said that she
+
+116
+00:10:30,694 --> 00:10:36,317
+was invited to a meeting with James Gunn and
+Peter Safran and that they told her and she
+
+117
+00:10:36,597 --> 00:10:41,068
+said this was a quote. you're in the best hands,
+we're going to develop Wonder Woman 3 with
+
+118
+00:10:41,108 --> 00:10:45,692
+you, we love you as Wonder Woman, you've got
+nothing to worry about." This kind of caused
+
+119
+00:10:45,732 --> 00:10:53,178
+an uproar on the interwebs from people who either
+loved the idea of Gal Gadot remaining as Wonder
+
+120
+00:10:53,238 --> 00:11:00,264
+Woman and another project happening in the new
+Gunnverse, or just absolutely hated the idea
+
+121
+00:11:00,324 --> 00:11:06,449
+and wanted Wonder Woman Recast. We haven't really
+heard anything from James Gunn regarding this
+
+122
+00:11:06,489 --> 00:11:11,947
+situation, which is strange considering, you
+know, he'll go on to Twitter to debunk any
+
+123
+00:11:11,987 --> 00:11:16,868
+random rumor that appears on there. But we did
+hear from Warner Brothers through a variety
+
+124
+00:11:16,928 --> 00:11:23,890
+article saying that basically Gal Gadot was
+mistaken. There are no plans to proceed with
+
+125
+00:11:23,970 --> 00:11:28,591
+a Wonder Woman film with her involved at this
+time. And there's no Wonder Woman film planned
+
+126
+00:11:28,751 --> 00:11:34,153
+at all, only the Paradise Lost prequel series
+that kind of tells the story of the Amazons
+
+127
+00:11:34,253 --> 00:11:40,191
+prior to Wonder Woman. being born essentially.
+Yeah, if you ask me, I think Gal Gadot was
+
+128
+00:11:40,231 --> 00:11:46,534
+trying to play to her fan base to force James
+Gunn and Peter Safran's hand into keeping her
+
+129
+00:11:46,754 --> 00:11:54,077
+on as Wonder Woman in the new DCU. I think Gal
+Gadot has a disease and it's called Liabetes.
+
+130
+00:11:54,257 --> 00:11:59,219
+And I stole that from a gift that I posted on
+Discord. I don't think her intentions were
+
+131
+00:11:59,259 --> 00:12:03,521
+malevolent at all. You know, I think someone
+asked her for an update and she just honestly
+
+132
+00:12:03,941 --> 00:12:10,812
+told them what she was told. I think James and
+Peter absolutely told her that they're fans
+
+133
+00:12:10,832 --> 00:12:14,815
+of her as the character and that they would
+like to develop a new Wonder Woman movie with
+
+134
+00:12:14,855 --> 00:12:18,937
+her. But saying you're going to develop a project
+with someone does not mean that they're going
+
+135
+00:12:18,977 --> 00:12:25,541
+to star in that movie. We all know that Gal
+Gadot is a huge Wonder Woman fan. It basically
+
+136
+00:12:25,581 --> 00:12:30,383
+helped make her career. But considering the
+fact that this is a whole new fresh start,
+
+137
+00:12:30,764 --> 00:12:35,194
+it would be really confusing to me if Gal Gadot
+continued in the role. I wouldn't hate it though
+
+138
+00:12:35,214 --> 00:12:39,277
+if she served as like an executive producer
+maybe, something like that. She would still
+
+139
+00:12:39,297 --> 00:12:44,300
+be able to develop the story if she's truly
+that passionate about the character. Yeah,
+
+140
+00:12:44,320 --> 00:12:48,623
+it would be like she was passing on the baton
+to the next Wonder Woman in this new universe.
+
+141
+00:12:49,163 --> 00:12:54,887
+I think that she played the character well enough
+that I would like to see her at least partially
+
+142
+00:12:55,087 --> 00:13:00,218
+involved, even if it's just an executive producer
+title, in the new reboot. All in all, while
+
+143
+00:13:00,318 --> 00:13:05,361
+I do love Gal Gadot as Wonder Woman and think
+she's perfect in the role, I don't think she's
+
+144
+00:13:05,401 --> 00:13:10,344
+the only one who's perfect in the role, or has
+the potential to be perfect in the role. And
+
+145
+00:13:10,364 --> 00:13:15,306
+I'm excited to see what is in store for the
+future of the character on the big screen.
+
+146
+00:13:15,747 --> 00:13:20,569
+Yeah, personally I'm hoping for a full on reboot
+and recast, but that brings us to our question
+
+147
+00:13:20,589 --> 00:13:20,989
+of the week.
+
+148
+00:13:25,486 --> 00:13:30,928
+Who would you want to direct a Wonder Woman
+reboot and why? Now we already asked you guys
+
+149
+00:13:30,968 --> 00:13:35,490
+who you would want to recast as Wonder Woman
+if the role did get recast and we got some
+
+150
+00:13:35,510 --> 00:13:40,652
+great answers, but now we wanna hear about your
+director choices. Record your answer at dynamicduel.com
+
+151
+00:13:41,112 --> 00:13:44,974
+by clicking on the red microphone button in
+the bottom right-hand corner of the screen,
+
+152
+00:13:45,014 --> 00:13:49,496
+which will prompt you to leave us a voicemail.
+Your message could be up to 30 seconds long
+
+153
+00:13:49,796 --> 00:13:53,670
+and don't forget to leave your name in case
+we include you on the podcast. We'll pick our
+
+154
+00:13:53,730 --> 00:13:58,773
+favorite answer and award that person a Dynamic
+Duel No prize that we'll post to Instagram
+
+155
+00:13:59,093 --> 00:14:05,157
+and our email newsletter. Be sure to answer
+before August 19th. But that does it for all
+
+156
+00:14:05,177 --> 00:14:09,860
+the news for this episode. Let's go ahead and
+bring on Ken Johnson, the host of Max Destruction,
+
+157
+00:14:10,240 --> 00:14:15,544
+a Dynamike Podcast Network show that pits your
+favorite action heroes from movies and television
+
+158
+00:14:15,604 --> 00:14:19,514
+against each other. Yeah, I'll get him on the
+line right now. Hey, Ken, glad to have you
+
+159
+00:14:19,534 --> 00:14:25,557
+back on the show since you were last on for
+our 2004 Punisher review. How's it going? Great,
+
+160
+00:14:25,597 --> 00:14:30,280
+except you didn't have me back for Punisher
+Warzone, which I took as a personal affront.
+
+161
+00:14:30,300 --> 00:14:35,463
+We had to call a quick audible on that one because
+of Ray Stevenson's passing, but we did want
+
+162
+00:14:35,483 --> 00:14:41,947
+to have you on for that episode if that is any
+consolation. It is. RIP, Ray. You guys did
+
+163
+00:14:41,967 --> 00:14:47,422
+a great job. I think it was well reviewed. It
+was outstanding. I appreciate you guys. adding
+
+164
+00:14:47,462 --> 00:14:51,223
+me on for Punisher, that was definitely one
+of my favorite things to do, uh, and really
+
+165
+00:14:51,263 --> 00:14:56,324
+kind of put me into where I am now. For those
+who don't know, Ken is an executive producer
+
+166
+00:14:56,424 --> 00:15:01,106
+of Dynamic Duel. And as someone who has some
+influence over what we do on this podcast,
+
+167
+00:15:01,166 --> 00:15:05,967
+he came to us essentially pitching a sister
+show to ours, where he would use the Monte
+
+168
+00:15:05,987 --> 00:15:11,589
+Carlo simulator we use, but for action movie
+star fights. And from that idea spawned not
+
+169
+00:15:11,709 --> 00:15:18,007
+only his show, Max Destruction, but the whole
+Dynamike podcast network. So Ken, first off,
+
+170
+00:15:18,227 --> 00:15:22,669
+thank you for that. Between Max Destruction
+and Send Your World, I think we're developing
+
+171
+00:15:22,709 --> 00:15:26,951
+a pretty neat collection of shows and Jonathan
+and I love nothing more than taking credit
+
+172
+00:15:26,971 --> 00:15:33,334
+for things that we're only tangentially involved
+in. 100% and it's my way of influencing from
+
+173
+00:15:33,354 --> 00:15:39,677
+the bottom. Yeah, Max Destruction has about
+14 episodes right now. Your 15th episode is
+
+174
+00:15:39,717 --> 00:15:45,700
+coming out tomorrow. Your co-host is another
+executive producer of the show, Dustin Balcom,
+
+175
+00:15:46,060 --> 00:15:51,623
+who reviewed Big Hero 6 with us. Ken, how aware
+were you at the time when you selected Dustin
+
+176
+00:15:51,643 --> 00:15:57,027
+to do the show that you were going to be upstaged
+to every turn? So it's a very interesting question
+
+177
+00:15:57,067 --> 00:16:02,810
+and I really appreciate you asking that because
+we can finally settle the score. Dustin definitely
+
+178
+00:16:02,870 --> 00:16:08,193
+upstages me every time. He is the one that's
+actually working all the little puppet strings
+
+179
+00:16:08,213 --> 00:16:13,189
+in the background. I'm not even really a person.
+You guys have been talking to an AI program
+
+180
+00:16:13,469 --> 00:16:20,515
+this entire time that Dustin has created. You
+know what? Honestly, it's been a blessing to
+
+181
+00:16:20,575 --> 00:16:26,040
+have Dustin as my co-host. Previous to this
+podcast, of course, I had you call those tactics,
+
+182
+00:16:26,380 --> 00:16:32,385
+which the longest and worst issue I had with
+that is finding a co-host that I could riff
+
+183
+00:16:32,405 --> 00:16:38,502
+with. It's so much fun to have somebody there
+with you, either hyping you up, or trying to
+
+184
+00:16:38,902 --> 00:16:45,325
+shit on you at every turn, which is, I find
+probably the most enjoyable about our podcasts.
+
+185
+00:16:45,785 --> 00:16:51,047
+And it's right up there with our deli guy, right?
+It just spontaneously happened, and I'm so
+
+186
+00:16:51,067 --> 00:16:58,611
+glad Dustin is willing and able to keep up with
+my shenanigans. Yeah, the deli guy is a fictional
+
+187
+00:16:58,651 --> 00:17:03,753
+character that pops up in every episode of Max
+Destruction and is the brunt of a lot of the
+
+188
+00:17:03,793 --> 00:17:09,136
+collateral damage that happens in... their speculative
+battles and it is awesome. But I had to prop
+
+189
+00:17:09,176 --> 00:17:14,218
+my boy Dustin up because he's part of Team Marvel
+on our Discord. But you and Dustin have developed
+
+190
+00:17:14,258 --> 00:17:19,121
+quite a funny antagonistic relationship and
+you guys have speculated on some incredible
+
+191
+00:17:19,161 --> 00:17:24,805
+fights like Jason Bourne versus James Bond,
+Zoro versus Spartacus, Blade versus Riddick.
+
+192
+00:17:25,205 --> 00:17:30,808
+I have my own favorites so far, but what has
+been your favorite episode to record? Oh my
+
+193
+00:17:30,848 --> 00:17:37,435
+gosh. Okay, so I'll give you my top two. My
+first favorite really is Born vs Bond. As a
+
+194
+00:17:37,755 --> 00:17:42,236
+military professional and representing the United
+States, I was glad really to bring home that
+
+195
+00:17:42,336 --> 00:17:49,738
+win. For America. Yeah, America, freedom, right?
+The greatest episode I think I've had the most
+
+196
+00:17:49,819 --> 00:17:55,380
+fun with is probably one of the last ones we
+did, which was Frank Dukes vs Nacho Libre.
+
+197
+00:17:55,740 --> 00:18:01,638
+I really loved that one. I knew from the moment
+that I chose Nacho. I was free to just come
+
+198
+00:18:01,718 --> 00:18:07,660
+at it as ham-handed as I wanted to. And I have
+such love for both characters that no matter
+
+199
+00:18:07,760 --> 00:18:12,501
+how it turned out, it didn't matter to me. Yeah,
+I have the unfortunate distinction of running
+
+200
+00:18:12,561 --> 00:18:18,183
+the stats for Max Destruction. So all of the
+episodes are spoiled for me. I always know
+
+201
+00:18:18,203 --> 00:18:23,764
+who's going to come out on top. But the speculations
+that you and Dustin do are just fantastic.
+
+202
+00:18:23,924 --> 00:18:29,578
+I have to say I think my favorite episode so
+far is the Crow versus Dean Winchester. just
+
+203
+00:18:29,658 --> 00:18:33,982
+learning about Dean, Manchester. I never watched
+the show Supernatural, but it made me interested
+
+204
+00:18:34,022 --> 00:18:38,746
+in that show because it's like totally the type
+of show that I would very much watch and enjoy.
+
+205
+00:18:39,046 --> 00:18:44,671
+And the crow is just awesome. I loved the fact
+that you guys do these battles in environments,
+
+206
+00:18:44,731 --> 00:18:49,856
+because you essentially say, fuck dynamic duel
+and they're not environment scenarios that
+
+207
+00:18:49,876 --> 00:18:54,940
+they come up with. The environments you guys
+establish, like the church for that specific
+
+208
+00:18:54,981 --> 00:19:00,916
+match was. just so cool as part of the visualization
+and the imagination of just thinking about
+
+209
+00:19:00,996 --> 00:19:06,239
+what was going on as you guys were describing
+it. Yeah, my favorite episode I think has been
+
+210
+00:19:06,579 --> 00:19:11,662
+Jack Slater versus Dr. Smulder Bravestone, which
+is essentially Last Action Hero versus Jumanji.
+
+211
+00:19:12,163 --> 00:19:16,585
+Largely for nostalgic reasons, I just really
+have a fond nostalgia for the movie Last Action
+
+212
+00:19:16,605 --> 00:19:21,128
+Hero, which I remember seeing in theaters as
+a kid. I also really liked Cameron Poe and
+
+213
+00:19:21,248 --> 00:19:26,310
+Axel Foley. I think the speculation on that
+was top tier. As hosts, you and Dustin do a
+
+214
+00:19:26,331 --> 00:19:30,613
+great job of making these two very disparate
+characters interact in a way that feels true
+
+215
+00:19:30,633 --> 00:19:35,056
+to how they would interact while staying true
+to themselves and the movie worlds they came
+
+216
+00:19:35,096 --> 00:19:38,658
+from. So I think that's one of the best things
+about your show. Yeah. Well, I appreciate it.
+
+217
+00:19:38,979 --> 00:19:43,982
+Obviously, the speculation you think would kind
+of come easily. I can honestly say that was
+
+218
+00:19:44,022 --> 00:19:48,485
+the hardest thing to kind of get to. Like listening
+to you guys is like, man, I don't know how
+
+219
+00:19:48,545 --> 00:19:53,038
+you guys think this is hard. You're just talking
+up a video game between two characters, but
+
+220
+00:19:53,058 --> 00:19:58,360
+then, you know, taking these individuals that
+you may or may not have a ton of understanding
+
+221
+00:19:58,380 --> 00:20:04,202
+with. Like you're taking these characters that
+haven't been seen on the big screen, you know,
+
+222
+00:20:04,302 --> 00:20:10,343
+early 90s, sometimes 80s, and then trying to
+apply them across the speculation and trying
+
+223
+00:20:10,363 --> 00:20:16,025
+to make it fun. So, you know, getting the stride
+of tit for tat, you know, if I'm going to do
+
+224
+00:20:16,085 --> 00:20:20,635
+left, he's going to do right, but also not.
+choreography, you know, trying not to set it
+
+225
+00:20:20,675 --> 00:20:26,681
+up prior to having it be spontaneous. And then
+for me, always finding that way of putting
+
+226
+00:20:26,701 --> 00:20:32,826
+the nut shot on Dustin. And it doesn't matter
+what character it is. I'm going to find a way
+
+227
+00:20:32,866 --> 00:20:37,750
+of doing it because I know he's expecting it.
+And now I know the audience is expecting it
+
+228
+00:20:37,790 --> 00:20:43,595
+because I'm getting that feedback. So audience,
+thank you. Keep it coming. It really drives
+
+229
+00:20:43,676 --> 00:20:51,903
+me to excellence, personas. of finding the way
+of achieving that goal. For sure. My favorite
+
+230
+00:20:51,923 --> 00:20:56,245
+nut shot so far actually is when Zoro threw
+his hat into Spartacus's balls. That was, I
+
+231
+00:20:56,265 --> 00:21:00,286
+think, the most creative so far. Really liked
+that. Did not see it coming, so kudos. I even
+
+232
+00:21:00,326 --> 00:21:04,287
+loved the nacho one where he just kind of like
+fell over and like hit it from the floor, yeah.
+
+233
+00:21:04,307 --> 00:21:10,429
+That was great. Speculating battles is almost
+like an art form and you guys are doing so
+
+234
+00:21:10,469 --> 00:21:15,306
+much better than we did at the same stage in
+your podcast. Jonathan and I always knew the
+
+235
+00:21:15,347 --> 00:21:19,549
+simulator could be used for something more than
+just comics characters And as movie fans were
+
+236
+00:21:19,689 --> 00:21:25,553
+super glad you wanted to do an action movie
+podcast as a fellow movie fan What are some
+
+237
+00:21:25,613 --> 00:21:30,476
+of your favorite action movies and can we expect
+any of those to show up in future episodes?
+
+238
+00:21:30,956 --> 00:21:37,240
+So absolute favorite action movies. One of them
+is the episode that just came out which is
+
+239
+00:21:37,620 --> 00:21:43,342
+Indiana Jones so Raiders of the Lost Ark and
+Last Crusade are my absolute favorite movies
+
+240
+00:21:43,482 --> 00:21:47,563
+on earth. They really are. So Indiana Jones
+is my favorite and I personally cannot wait
+
+241
+00:21:47,603 --> 00:21:54,265
+to see how that turns out against Jack Sparrow.
+Terminator is definitely up there. So Terminator
+
+242
+00:21:54,305 --> 00:21:59,207
+2 is the greatest action movie on earth and
+I would defy anybody to fight me on that one
+
+243
+00:21:59,407 --> 00:22:04,728
+and I will legitimately fight you, not Monte
+Carlo simulated, but anywhere anytime we will
+
+244
+00:22:04,748 --> 00:22:12,031
+fight. The Terminator will definitely be showing
+up. We're working on that. I really, really
+
+245
+00:22:12,111 --> 00:22:20,178
+enjoy noir films. Casablanca is not an action
+movie per se, but I can't wait to pit like
+
+246
+00:22:20,439 --> 00:22:27,665
+Dick Tracy up against somebody. So that's going
+to be fun as we roll out. So our first season
+
+247
+00:22:27,685 --> 00:22:32,590
+is only 20 episodes, guys. So after our first
+season, we're gonna kind of rework things and
+
+248
+00:22:32,650 --> 00:22:36,473
+revisit and really take a look at these character
+matchups that the audience has been putting
+
+249
+00:22:36,573 --> 00:22:41,499
+out. and by picking out the ones that we think
+would work the best, those are going to be
+
+250
+00:22:41,579 --> 00:22:45,780
+episodes that will be coming up in season two
+and so on. I can't wait to see what matches
+
+251
+00:22:45,800 --> 00:22:52,102
+you guys come up with in the future. I'm hoping
+for Neo from The Matrix and Bruce Willis from
+
+252
+00:22:52,202 --> 00:22:56,803
+Die Hard. There's so many. Yeah, yeah. Well,
+it was great to have you on as part of this
+
+253
+00:22:56,863 --> 00:23:02,205
+episode. Ken Max Destruction is an awesome show,
+and we are super proud to have it as part of
+
+254
+00:23:02,225 --> 00:23:06,867
+the Dynamite Network listeners. If you love
+action movies and you want to see who'd win
+
+255
+00:23:06,887 --> 00:23:10,808
+in a fight and are interested in hearing all
+the creative ways Ken sneaks in a nut shot
+
+256
+00:23:10,848 --> 00:23:16,030
+into the speculations, listen to Max Destruction
+anywhere you listen to podcasts or by visiting
+
+257
+00:23:16,270 --> 00:23:21,593
+dynamicpodcast.com. All right, Ken, thank you
+so much for stopping by and I can't wait to
+
+258
+00:23:21,633 --> 00:23:26,655
+listen to more of your show and take care. Thanks,
+guys. If you guys aren't following Max Destruction
+
+259
+00:23:26,735 --> 00:23:31,517
+on Instagram, be sure to do so. Ken's often
+posting weekly audience match up ideas that
+
+260
+00:23:31,537 --> 00:23:38,123
+are pretty fun to participate Yeah, it's a really
+fun show. Support a fellow Dynomic Network
+
+261
+00:23:38,183 --> 00:23:41,613
+podcast by subscribing to and following Max
+Destruction.
+
+262
+00:23:49,250 --> 00:23:53,277
+But now let's get into the main event of this
+episode, where we find out who's gonna win
+
+263
+00:23:53,337 --> 00:23:59,068
+in a battle between the Doom Patrol leader,
+the Chief, and the X-Men leader, Professor
+
+264
+00:23:59,389 --> 00:23:59,409
+X.
+
+265
+00:24:14,774 --> 00:24:20,656
+Okay, the Chief versus Professor X, this is
+definitely a mind over matter duel, which are
+
+266
+00:24:20,676 --> 00:24:24,878
+always pretty interesting to do. It's taken
+us a while to determine who we would want to
+
+267
+00:24:24,938 --> 00:24:29,520
+pit against the Chief, because he doesn't really
+have any powers. His superpower is essentially
+
+268
+00:24:29,540 --> 00:24:34,302
+that he's just really smart. But when it came
+down to it, it was really hard not to do Professor
+
+269
+00:24:34,422 --> 00:24:39,864
+X, considering the fact that Professor X is
+kind of inspired by the Chief. Yeah, and the
+
+270
+00:24:39,964 --> 00:24:44,915
+X-Men themselves were heavily inspired by Doom
+Patrol. This duel of course is in lead up to
+
+271
+00:24:45,095 --> 00:24:49,817
+our 350th episode, which will be a team duel
+between the Doom Patrol and the Guardians of
+
+272
+00:24:49,857 --> 00:24:55,340
+the Galaxy. Now, we all know Professor X is
+like the foremost telepathic mind in the Marvel
+
+273
+00:24:55,380 --> 00:25:00,343
+universe, and a lot of people are probably wondering
+why he's going up against the Chief, who seemingly
+
+274
+00:25:00,383 --> 00:25:06,166
+has no powers, but I think the people who read
+Doom Patrol or watch the series and know all
+
+275
+00:25:06,206 --> 00:25:11,209
+about Niles Calder know that he has a contingency
+for everything. That is basically his superpower.
+
+276
+00:25:11,269 --> 00:25:17,500
+He's so versatile. It's almost like he has every
+superpower in like a one time use kind of situation.
+
+277
+00:25:17,620 --> 00:25:21,961
+That's the impression that I get. So I think
+the stats will play out accordingly, and it
+
+278
+00:25:22,001 --> 00:25:26,263
+should be closer than I think a lot of people
+would give the chief credit for. Yeah, anyone
+
+279
+00:25:26,323 --> 00:25:32,106
+doubting the chief, I think simply doesn't know
+the chief. But we're going to rectify that
+
+280
+00:25:32,126 --> 00:25:37,748
+in this episode. But to explain the methodology
+behind our duels, let's go to our sentient
+
+281
+00:25:37,788 --> 00:25:44,038
+dual simulator, Alfred Jarvis 9000, AJ 9K. Tell
+our listeners how you go about determining
+
+282
+00:25:44,179 --> 00:25:49,641
+a winner in our dual matchups. Yes, of course,
+sir. The way I determine a winner between the
+
+283
+00:25:49,681 --> 00:25:54,563
+contestants is by running 1,000 Monte Carlo
+simulations using the characters' statistics.
+
+284
+00:25:55,043 --> 00:25:59,485
+A Monte Carlo simulation is a probabilistic
+model used to determine outcomes through random
+
+285
+00:25:59,545 --> 00:26:05,387
+sampling. In this case, I randomize the statistics
+along a normal distribution as a way to simulate
+
+286
+00:26:05,407 --> 00:26:09,989
+the many variables that can occur during battle.
+The stat parameters are based on the official
+
+287
+00:26:10,049 --> 00:26:15,345
+Marvel power grid. from which the DC characters'
+statistics are extrapolated. Additional stat
+
+288
+00:26:15,385 --> 00:26:20,689
+categories are included, such as range, damage
+potential, versatility, and perception, in
+
+289
+00:26:20,749 --> 00:26:25,973
+order to create a more detailed and accurate
+simulation. The results of the 1,000 simulations
+
+290
+00:26:26,033 --> 00:26:30,357
+provide a percentage of wins for each character.
+The contestant with the higher percentage is
+
+291
+00:26:30,397 --> 00:26:36,073
+declared the victor. as they have a higher probability
+to win any given battle. In an equitable pairing,
+
+292
+00:26:36,454 --> 00:26:41,258
+neither character should win 100% of the matches.
+The comic book stories have shown that there's
+
+293
+00:26:41,398 --> 00:26:46,203
+even a way for Batman to defeat Superman, so
+the confidence rate of my method falls in line
+
+294
+00:26:46,223 --> 00:26:50,827
+with the precedents that have been established
+in the source material. My mathematical simulations
+
+295
+00:26:50,867 --> 00:26:56,011
+are without subjectivity or bias. Feats are
+not the sole consideration, nor are fan votes
+
+296
+00:26:56,071 --> 00:27:01,815
+tabulated for determination of the winner. Thanks
+AJ and IK. Before we run the simulations though,
+
+297
+00:27:01,835 --> 00:27:06,018
+we like to break down each character's histories
+and abilities before improvising a scenario
+
+298
+00:27:06,158 --> 00:27:11,022
+on how we imagine one of the 1000 simulations
+would play out beat for beat. And I believe
+
+299
+00:27:11,062 --> 00:27:16,446
+it's my turn to go first with the DC character's
+backstory, so let me tell you all about Niles
+
+300
+00:27:16,466 --> 00:27:24,111
+Calder, aka The Chief. Niles Calder was born
+with an aptitude for genius. He was a polymath
+
+301
+00:27:24,131 --> 00:27:28,926
+who excelled in his studies, particularly in
+science and engineering. due to his obsession
+
+302
+00:27:28,946 --> 00:27:33,989
+with the gothic horror novel Frankenstein or
+the Modern Prometheus written by Mary Shelley.
+
+303
+00:27:34,369 --> 00:27:40,893
+Fascinated by the concept of creating life,
+Niles built incredible robots and, after obtaining
+
+304
+00:27:40,933 --> 00:27:46,796
+his doctorate, was given a grant by a mysterious
+benefactor who had noticed his work. Niles
+
+305
+00:27:46,816 --> 00:27:51,719
+created a laboratory and after running experiments
+and developing a ray that could reanimate dead
+
+306
+00:27:51,759 --> 00:27:57,050
+tissue, he traveled the world, learning from
+other scientists and shamans the ways in which
+
+307
+00:27:57,090 --> 00:28:04,433
+to prolong life. While in India during the 1960s,
+Niles made considerable progress on a life-extending
+
+308
+00:28:04,493 --> 00:28:10,896
+formula with the help of a wealthy mystic named
+Ashok Desai, whose wife had died during childbirth.
+
+309
+00:28:11,236 --> 00:28:17,138
+Believing that the formula was nearly complete,
+Ashok tested it on himself, and though it worked,
+
+310
+00:28:17,438 --> 00:28:22,961
+he also activated a latent metagen within him,
+turning himself into a living portal to the
+
+311
+00:28:23,021 --> 00:28:28,862
+netherworld and driving him insane. Ashok's
+daughter, Arani, feared her father and ran
+
+312
+00:28:28,902 --> 00:28:34,884
+away, living on the streets of Calcutta, where
+she became deathly ill. Niles eventually found
+
+313
+00:28:34,944 --> 00:28:40,066
+Arani and married her, giving her the formula
+on their wedding night in order to heal her
+
+314
+00:28:40,146 --> 00:28:46,307
+sickness. Concerned about the motivations behind
+his mysterious benefactor, Niles left Arani
+
+315
+00:28:46,387 --> 00:28:51,929
+in the Himalayas to keep her safe. Niles soon
+discovered that his benefactor was a man named
+
+316
+00:28:52,069 --> 00:28:57,985
+General Immortus. an evil and wealthy despot
+and former Nazi who had lived for thousands
+
+317
+00:28:58,025 --> 00:29:03,809
+of years thanks to a magic potion that he had
+lost the formula for and was counting on Niles
+
+318
+00:29:03,889 --> 00:29:09,473
+to recreate. When Niles refused to finish his
+work for Immortus, the villain implanted a
+
+319
+00:29:09,553 --> 00:29:15,537
+bomb in Niles' chest, which could be detonated
+remotely or if Niles attempted to remove it
+
+320
+00:29:15,577 --> 00:29:21,561
+while he was still alive. Forced to continue
+his work, Niles instead orchestrated a plan
+
+321
+00:29:21,930 --> 00:29:27,293
+in which he manipulated Immortus into shooting
+and killing him, stopping his heart. After
+
+322
+00:29:27,333 --> 00:29:33,738
+which, a surgical robot that Niles invented
+removed the bullet and the bomb, and resuscitated
+
+323
+00:29:33,818 --> 00:29:40,163
+Niles back to life. The operation took longer
+than planned, however, and as a result, Niles
+
+324
+00:29:40,183 --> 00:29:46,207
+was left a paraplegic without the use of his
+legs. Initially distraught, Niles eventually
+
+325
+00:29:46,247 --> 00:29:51,550
+developed a theory that he called the Catastrophe
+Curve. essentially believing that traumatic
+
+326
+00:29:51,610 --> 00:29:57,472
+events such as his own would force people to
+adapt and emerge stronger and better than before.
+
+327
+00:29:57,952 --> 00:30:03,834
+Deciding he needed to stop General Immortus,
+Niles saw others who had underwent debilitating
+
+328
+00:30:03,974 --> 00:30:10,055
+traumas to help him combat evil, eventually
+putting together the Doom Patrol, which initially
+
+329
+00:30:10,095 --> 00:30:16,137
+consisted of Robot Man, Negative Man, and Elastigirl,
+each of whom you could learn more about in
+
+330
+00:30:16,157 --> 00:30:21,443
+their respective duel episodes. against The
+Thing, Cyclops, and Ms. Marvel respectively.
+
+331
+00:30:21,883 --> 00:30:28,024
+Having become wealthy by patenting several inventions,
+Niles used scientific means to help each of
+
+332
+00:30:28,044 --> 00:30:34,206
+the Doom Patrol members overcome the accidents
+that left them quote unquote freaks and develop
+
+333
+00:30:34,266 --> 00:30:40,768
+superhuman abilities as a result. Niles himself,
+however, kept his motivations and even his
+
+334
+00:30:40,848 --> 00:30:47,279
+identity a secret from the team, revealing himself
+only as the Chief. It wasn't until numerous
+
+335
+00:30:47,339 --> 00:30:52,923
+adventures later, during the Doom Patrol's third
+battle against General Immortus, that Niles
+
+336
+00:30:52,963 --> 00:30:59,589
+was forced to explain his real name and backstory
+to the team. Several years later, while battling
+
+337
+00:30:59,629 --> 00:31:04,973
+the villains General Zal and Madame Rouge, Niles
+and the other Doom Patrol members decided to
+
+338
+00:31:05,053 --> 00:31:10,597
+sacrifice their lives in order to stop the villains
+from blowing up the small town of Codsville,
+
+339
+00:31:10,758 --> 00:31:16,386
+Maine. You can learn more about this in our
+Madame Rouge vs Mystique duel episode. Upon
+
+340
+00:31:16,446 --> 00:31:23,548
+hearing of Niles' death, Arani left Asia and
+started her own Doom Patrol team to find Niles,
+
+341
+00:31:23,868 --> 00:31:29,890
+who she believed was still alive. Arani, whose
+temperature-controlling metagene was activated
+
+342
+00:31:30,070 --> 00:31:35,971
+after Niles left her due to his formula, went
+by the codename Celsius, and it was later revealed
+
+343
+00:31:36,031 --> 00:31:42,033
+that her hunch was correct. Niles had survived
+the explosion thanks to a force field that
+
+344
+00:31:42,073 --> 00:31:47,875
+he had activated. after which he went into hiding
+from General Immortus and began secretly working
+
+345
+00:31:47,895 --> 00:31:54,296
+for the US government. Arani died shortly after
+Niles' existence was discovered, and Niles
+
+346
+00:31:54,377 --> 00:32:00,198
+rejoined the Doom Patrol, which reformed with
+all new members including Dorothy Spinner and
+
+347
+00:32:00,258 --> 00:32:05,880
+Crazy Jane, the latter of whom you can learn
+more about in our Crazy Jane vs Legion episode.
+
+348
+00:32:06,320 --> 00:32:12,141
+During the team's adventures, Niles had secretly
+been working on his magnum opus, the ultimate
+
+349
+00:32:12,414 --> 00:32:18,579
+and cruelest implementation of his catastrophe
+curve theory. After killing one new Doom Patrol
+
+350
+00:32:18,599 --> 00:32:24,243
+member known as Tempest for asking too many
+questions, Niles was confronted by Robotman,
+
+351
+00:32:24,644 --> 00:32:30,188
+to whom Niles revealed that he was responsible
+for the original Doom Patrol team's traumatic
+
+352
+00:32:30,348 --> 00:32:35,793
+accidents, along with several others who made
+up the Doom Patrol's enemy team known as the
+
+353
+00:32:35,833 --> 00:32:41,581
+Brotherhood of Evil. Just before Niles could
+enact his master plan to detonate a nanotech
+
+354
+00:32:41,621 --> 00:32:47,226
+bomb that would destroy half the world's population
+and turn the rest into freaks, his head was
+
+355
+00:32:47,266 --> 00:32:53,372
+torn from his body by the Candlemaker, a creature
+created from the mind of Dorothy Spinner. Dr.
+
+356
+00:32:53,412 --> 00:32:59,097
+William Magnus, who you can learn more about
+in our Metal Men vs. Colossus episode, managed
+
+357
+00:32:59,197 --> 00:33:05,246
+to save Niles' head, however, and built a new
+robotic body for him. while insisting that
+
+358
+00:33:05,306 --> 00:33:11,170
+Niles make up for his horrible actions. Wracked
+with guilt, Niles removed his own head from
+
+359
+00:33:11,210 --> 00:33:17,675
+his robot body, after which he existed as a
+disembodied head for some time. After rebuilding
+
+360
+00:33:17,715 --> 00:33:23,018
+the Doom Patrol and merging with one of its
+new members, Niles died after entering the
+
+361
+00:33:23,078 --> 00:33:29,043
+Tree of Life. After the events of Infinite Crisis,
+when Superboy Prime altered events within DC's
+
+362
+00:33:29,083 --> 00:33:35,399
+continuity, the original Doom Patrol, including
+Niles Calder, emerged as a team once again,
+
+363
+00:33:35,839 --> 00:33:41,042
+and while its members were aware that Niles
+was responsible for their accidents, they forgave
+
+364
+00:33:41,082 --> 00:33:47,366
+him. During the Blackest Night event, Arani
+was resurrected as an evil black lantern zombie,
+
+365
+00:33:47,746 --> 00:33:54,069
+and used her powers to freeze and shatter Niles'
+legs. After teleporting her and other black
+
+366
+00:33:54,109 --> 00:33:59,533
+lanterns to the Justice League's location for
+them to deal with, Niles set to work on creating
+
+367
+00:33:59,673 --> 00:34:05,779
+a new body for himself. successfully forming
+one from Kryptonian cells allowing him to gain
+
+368
+00:34:05,819 --> 00:34:11,560
+the powers of Superman. After turning on his
+team, he was defeated by the Doom Patrol and
+
+369
+00:34:11,600 --> 00:34:17,742
+his comatose body was placed in storage. In
+post-Flashpoint continuity, Niles Caulder created
+
+370
+00:34:17,762 --> 00:34:23,484
+a Doom Patrol team consisting of its original
+members and Element Woman. After the team learned
+
+371
+00:34:23,524 --> 00:34:28,645
+from Lex Luthor that Niles caused the traumatic
+accidents that turned them into superhumans,
+
+372
+00:34:29,105 --> 00:34:34,671
+the team disbanded. Niles was able to reform
+the team eventually, but they fired him once
+
+373
+00:34:34,691 --> 00:34:39,552
+they realized he was using them for his own
+selfish purposes once again. And that's Niles
+
+374
+00:34:39,572 --> 00:34:45,294
+Colder's history. Powers-wise, the Chief has
+a genius level intellect and is a world-renowned
+
+375
+00:34:45,374 --> 00:34:50,975
+expert in the fields of robotics, engineering,
+chemistry, physics, biology, and many others.
+
+376
+00:34:51,455 --> 00:34:56,697
+He's developed an array of machines, devices,
+and formulas, including Robot Man's body, the
+
+377
+00:34:56,737 --> 00:35:01,923
+radiation-containing bandages of Negative Man,
+a life ray that brings the recently dead back
+
+378
+00:35:01,963 --> 00:35:08,646
+to life, nanobots that can rearrange matter
+itself, an elixir that extends one's lifespan,
+
+379
+00:35:09,106 --> 00:35:15,829
+and forcefield and portal generators from his
+wheelchair. He also packs a gun, so break yourself.
+
+380
+00:35:19,211 --> 00:35:24,133
+Niles Calder has always been a fascinating character
+to me. I think he's one of DC's most interesting
+
+381
+00:35:24,173 --> 00:35:29,216
+characters, actually. largely informed by my
+viewing of the Doom Patrol television series,
+
+382
+00:35:29,256 --> 00:35:33,718
+but to actually hear the comic book series,
+I'm all the more intrigued. It was really interesting
+
+383
+00:35:33,818 --> 00:35:40,002
+how he ended up in a wheelchair, but I think
+it's weird how writers made him go from a guy
+
+384
+00:35:40,082 --> 00:35:46,386
+who was testing out the catastrophe theory into
+like a super villain who wanted to destroy
+
+385
+00:35:46,426 --> 00:35:49,328
+half the world. I feel like that was a pretty
+large leap there.
+
+386
+00:35:52,674 --> 00:35:57,016
+Don't self pity yourself even though like this
+horrible thing happened to you. You can turn
+
+387
+00:35:57,036 --> 00:36:02,379
+that into something greater. They took that
+to its extreme where he believed that catastrophe
+
+388
+00:36:02,399 --> 00:36:08,422
+was necessary to sort of evolve humanity. And
+so he was going to be the arbiter of that.
+
+389
+00:36:08,822 --> 00:36:13,805
+Delusions of grandeur. You know what though,
+Professor X has some dark shit in his backstory
+
+390
+00:36:13,845 --> 00:36:18,908
+too. Let me go ahead and tell you all about
+that right now. Now Charles Xavier was born
+
+391
+00:36:18,988 --> 00:36:25,075
+in New York City to Sharon and Brian Xavier.
+renowned nuclear physics researcher operating
+
+392
+00:36:25,215 --> 00:36:31,239
+in New Mexico. As a genetic mutant, Charles
+began manifesting the earliest signs of his
+
+393
+00:36:31,319 --> 00:36:37,163
+latent psychic potential while still in the
+womb as he recognized his twin as a malignant
+
+394
+00:36:37,203 --> 00:36:42,706
+presence. Though his sister Cassandra tried
+to kill Charles as a fetus, he was able to
+
+395
+00:36:42,726 --> 00:36:48,129
+defend himself with his telepathic ability,
+causing Cassandra to apparently be stillborn.
+
+396
+00:36:48,686 --> 00:36:53,907
+When Charles was nine years old, his father
+Brian died in an accident at the research facility
+
+397
+00:36:54,367 --> 00:37:00,509
+and his mother Sharon married a Dr. Kurt Marco.
+The three moved into Sharon's family estate
+
+398
+00:37:00,589 --> 00:37:06,151
+in Westchester, New York, where Charles met
+his new stepbrother, Cain Marco. Charles' new
+
+399
+00:37:06,191 --> 00:37:11,613
+stepfather Dr. Kurt Marco was abusive, however,
+and relentlessly beat his wife Sharon and his
+
+400
+00:37:11,653 --> 00:37:18,068
+son Cain, who in turn bullied Charles. The young
+Charles not only endured torment at the hands
+
+401
+00:37:18,108 --> 00:37:23,694
+of his stepbrother, but as his telepathic abilities
+began growing in power, he also experienced
+
+402
+00:37:23,794 --> 00:37:29,439
+Kane's and his mom Sharon's abuse firsthand.
+Ultimately, the abuse proved to be too much
+
+403
+00:37:29,479 --> 00:37:35,906
+for Sharon, and she succumbed to alcoholism.
+Shortly after, Dr. Kurt Marco died in a fire
+
+404
+00:37:36,006 --> 00:37:41,746
+inside their mansion home, leaving Charles and
+Kane as orphans. Fortunately, Charles had a
+
+405
+00:37:41,846 --> 00:37:47,189
+gifted academic mind and was able to graduate
+high school and attend Bard College, graduating
+
+406
+00:37:47,209 --> 00:37:53,032
+with a degree in biology at age 18, by that
+point having lost all of his hair. He then
+
+407
+00:37:53,052 --> 00:37:58,414
+went overseas to Oxford University for his postgraduate
+studies, earning master degrees in genetics
+
+408
+00:37:58,494 --> 00:38:04,717
+and biophysics. There, he met fellow student
+Moir McTaggart, and the two developed a romantic
+
+409
+00:38:04,777 --> 00:38:09,668
+relationship. After college, Charles decided
+to join the military, where he excelled in
+
+410
+00:38:09,728 --> 00:38:14,470
+search and rescue missions through the use of
+his telepathic powers. Charles then traveled
+
+411
+00:38:14,490 --> 00:38:20,394
+the world, ending up working at an Israeli hospital
+for Holocaust survivors, where he first encountered
+
+412
+00:38:20,554 --> 00:38:26,417
+a fellow mutant named Eric Lencher, whom you
+can learn more about in our Sinestro vs. Magneto
+
+413
+00:38:26,497 --> 00:38:32,080
+duel episode. The two men often debated on how
+the evolving human race would affect mankind.
+
+414
+00:38:32,440 --> 00:38:38,051
+While Eric foresaw war and death, Having suffered
+his whole life for being different, Charles,
+
+415
+00:38:38,211 --> 00:38:43,254
+more idealistic, hoped for a future of peace
+and acceptance between humans and mutants.
+
+416
+00:38:43,814 --> 00:38:49,557
+Later, after encountering a destructive, power-hungry
+mutant called the Shadow King in Egypt, Charles
+
+417
+00:38:49,617 --> 00:38:55,159
+realized that the existence of malevolent mutants
+would mean he would ultimately have to fight
+
+418
+00:38:55,199 --> 00:39:01,042
+to protect his cause and convince the human
+race of a peaceful coexistence. He then traveled
+
+419
+00:39:01,082 --> 00:39:06,063
+to the Himalayan mountains, where he encountered
+an alien named Lucifer, who was scouting the
+
+420
+00:39:06,103 --> 00:39:11,244
+planet in preparation for a future invasion.
+To prevent any interference, the alien dropped
+
+421
+00:39:11,264 --> 00:39:18,006
+a massive stone block on Charles' legs, crippling
+him. While recovering in Bombay, India, Charles
+
+422
+00:39:18,046 --> 00:39:23,268
+began working on a device called Cerebro that
+would amplify his telepathic abilities and
+
+423
+00:39:23,308 --> 00:39:28,469
+help him find other mutants. He began psychically
+reaching out to young mutants in an effort
+
+424
+00:39:28,489 --> 00:39:33,914
+to help them control including a young Jean
+Grey, whom you can learn more about in our
+
+425
+00:39:33,954 --> 00:39:39,896
+Raven vs. Phoenix episode. Charles then traveled
+back to New York and attended Columbia University,
+
+426
+00:39:39,956 --> 00:39:45,798
+where he received a PhD in anthropology and
+a medical doctorate in psychiatry, before transforming
+
+427
+00:39:45,818 --> 00:39:51,740
+his family estate in Westchester into an institute
+for young mutants. It was there he would teach,
+
+428
+00:39:51,900 --> 00:39:56,541
+protect, and guide students in the use of their
+burgeoning abilities, instilling in them his
+
+429
+00:39:56,581 --> 00:40:03,207
+dream of human and mutant peace. Charles' initial
+students consisted of Cyclops, Jean Grey, Beast,
+
+430
+00:40:03,528 --> 00:40:09,330
+Archangel, and Iceman, and he called them the
+X-Men for their extra abilities. You can learn
+
+431
+00:40:09,370 --> 00:40:14,733
+more about the team in our Titans vs X-Men team
+duel episode. In their first field mission,
+
+432
+00:40:14,913 --> 00:40:20,116
+the X-Men fought Charles' old friend Eric, now
+known as Magneto, who had assembled his own
+
+433
+00:40:20,156 --> 00:40:25,890
+group, the Brotherhood of Mutants, to enforce
+mutant superiority. Over the years, the X-Men
+
+434
+00:40:25,930 --> 00:40:29,753
+protected humanity from threats such as the
+Juggernaut, who was Charles' step-brother,
+
+435
+00:40:29,793 --> 00:40:35,317
+Cain Marco, now imbued with the power of the
+magical crimson bands of Scytoric, a mystic
+
+436
+00:40:35,377 --> 00:40:40,321
+entity. Charles also directed his team against
+the Sentinels, who were mutant hunting robots,
+
+437
+00:40:40,741 --> 00:40:45,465
+and the Savage Land Mutates, who were experiments
+from an Antarctic jungle. Though Charles and
+
+438
+00:40:45,485 --> 00:40:50,728
+the X-Men saved the Earth time and again, they
+never won humanity's respect, and mankind's
+
+439
+00:40:50,788 --> 00:40:56,379
+fear of mutants only grew. With his reputation
+preceding him, Charles joined an elite secret
+
+440
+00:40:56,419 --> 00:41:01,741
+group of the planet's most influential figures
+called the Illuminati, which included Iron
+
+441
+00:41:01,761 --> 00:41:07,363
+Man, the Submariner, Dr. Strange, Mr. Fantastic,
+and Black Bolt, and the group would prevent
+
+442
+00:41:07,403 --> 00:41:14,086
+sensitive global catastrophes in secret. Eventually,
+the X-Men came across Krakoa, a sentient island
+
+443
+00:41:14,126 --> 00:41:19,548
+that captured the team, forcing Charles to recruit
+a new band of mutants to rescue them, including
+
+444
+00:41:19,628 --> 00:41:25,475
+Storm, Wolverine, Colossus, and Nightcrawler.
+As his group of students grew, Charles received
+
+445
+00:41:25,535 --> 00:41:31,057
+a telepathic message from LaLondra, the princess
+of the Shi'ar alien race who sought his help.
+
+446
+00:41:31,417 --> 00:41:35,919
+Charles and LaLondra fell in love, and after
+a mission that seemingly killed most of the
+
+447
+00:41:36,079 --> 00:41:42,162
+X-Men, he moved to space to live with the Shi'ar
+as LaLondra's consort. Charles later returned
+
+448
+00:41:42,222 --> 00:41:47,664
+to Earth and recruited another young team called
+the New Mutants. Around this time he learned
+
+449
+00:41:47,684 --> 00:41:52,442
+that he had a son named David with a woman he
+met in Israel. the young man suffered from
+
+450
+00:41:52,542 --> 00:41:58,304
+severe psychic trauma and would later be known
+as the Mutant Legion. Eventually, the missing
+
+451
+00:41:58,484 --> 00:42:04,266
+X-Men returned and Charles led the team to fight
+Magneto on his orbital asteroid base. During
+
+452
+00:42:04,286 --> 00:42:09,727
+that fight, Charles mentally shut down Magneto's
+mind, which caused the evil portion of the
+
+453
+00:42:09,747 --> 00:42:15,269
+villain's psyche to implant itself in Charles'
+brain. This evil presence, combined with Charles'
+
+454
+00:42:15,329 --> 00:42:21,095
+vast telepathic power, eventually manifested
+into a dark psychic entity called Onslaught,
+
+455
+00:42:21,575 --> 00:42:26,776
+which took a majority of Earth's heroes to defeat
+and nearly destroyed the world. Remorseful
+
+456
+00:42:26,816 --> 00:42:31,658
+for his part in Onslaught's creation, Charles
+turned himself over to government authorities,
+
+457
+00:42:31,998 --> 00:42:37,059
+who then attempted to use Charles' powers against
+mutant kind. Rescued by the X-Men, Charles
+
+458
+00:42:37,139 --> 00:42:42,441
+helped the team fight the ancient mutant apocalypse,
+but faced a more personal psychic threat when
+
+459
+00:42:42,461 --> 00:42:48,126
+his twin sister Cassandra Cassandra Nova was
+revealed to have survived from the womb as
+
+460
+00:42:48,166 --> 00:42:54,028
+a psychic presence and took over Charles' body.
+She exposed Charles as a mutant to the world
+
+461
+00:42:54,248 --> 00:42:58,929
+and caused the obliteration of the entire mutant
+population living on the island of Genosha.
+
+462
+00:42:59,449 --> 00:43:04,211
+Eventually Jean Grey was able to use Cerebro
+to help constitute Charles' mind within his
+
+463
+00:43:04,351 --> 00:43:10,132
+own body, pushing Cassandra Nova out. Charles
+used the publicity surrounding his mutant status
+
+464
+00:43:10,152 --> 00:43:11,713
+to create the X Corporation,
+
+465
+00:43:14,882 --> 00:43:20,426
+that would provide resources to mutants in need.
+All was not well however, as it was later revealed
+
+466
+00:43:20,486 --> 00:43:25,129
+that Charles had kept secrets from the X-Men.
+Back when the X-Men were captured by the sentient
+
+467
+00:43:25,229 --> 00:43:30,573
+island of Krakoa, Xavier had recruited a new
+team to rescue them, but they perished in the
+
+468
+00:43:30,613 --> 00:43:36,658
+attempt. Xavier also kept secret that the danger
+room was powered by a sentient Shi'ar artificial
+
+469
+00:43:36,698 --> 00:43:41,781
+intelligence that he had suppressed. The AI
+eventually broke free and attacked the X-Men.
+
+470
+00:43:42,354 --> 00:43:46,335
+After a time, Xavier was able to make peace
+with the Danger Room, and he sought redemption
+
+471
+00:43:46,375 --> 00:43:51,356
+alongside the mutant Gambit in their mission
+to stop the evil geneticist, Mr. Sinister.
+
+472
+00:43:51,857 --> 00:43:56,938
+At one point, Cyclops, who had amassed the power
+of the Phoenix Force and had become Dark Phoenix,
+
+473
+00:43:57,338 --> 00:44:02,560
+killed Charles. With him dead, the villainous
+Red Skull harvested Charles' brain and used
+
+474
+00:44:02,600 --> 00:44:08,230
+it to imbue himself with telepathic powers,
+turning himself into the Red Onslaught. After
+
+475
+00:44:08,270 --> 00:44:12,253
+the Red Onslaught was defeated, it was revealed
+that Charles' mind had been abducted by the
+
+476
+00:44:12,273 --> 00:44:17,377
+Shadow King to fight in a never-ending battle
+on the Astral Plane, which is a psychic plane
+
+477
+00:44:17,397 --> 00:44:22,702
+of existence. The X-Men found Charles and rescued
+him from the Astral Plane, with X-Men member
+
+478
+00:44:22,842 --> 00:44:29,207
+Phantom X donating his body for Charles' mind
+to inhabit. Shortly after, Charles implemented
+
+479
+00:44:29,247 --> 00:44:31,469
+a plan he had been working on with former love
+interest
+
+480
+00:44:37,410 --> 00:44:41,951
+He developed a system in which all mutants could
+live in peace and be resurrected through a
+
+481
+00:44:42,011 --> 00:44:47,512
+process that used a combination of mutant abilities.
+Charles sent telepathic invitations to all
+
+482
+00:44:47,552 --> 00:44:54,034
+mutants, helping to turn Kakoa into an influential
+world power, and finally finding a worthy compromise
+
+483
+00:44:54,334 --> 00:45:00,076
+between his ideals and those of his old friend
+Magneto. And that's his backstory. Powers-wise,
+
+484
+00:45:00,136 --> 00:45:05,237
+Professor X possesses vast psionic abilities
+and is regarded as having the most powerful
+
+485
+00:45:05,277 --> 00:45:10,731
+mind on Earth. With his psychic powers, he can
+perform a variety of telepathic effects including
+
+486
+00:45:10,851 --> 00:45:18,333
+mind reading, mind control, mind erasure, mind
+transference, thought casting, illusion casting,
+
+487
+00:45:18,893 --> 00:45:25,395
+psychic cloaking, psychic shielding, psychic
+pain, and psychic astral projection, all at
+
+488
+00:45:25,435 --> 00:45:31,637
+a range of up to 250 miles or 400 kilometers.
+He has a genius level IQ and is the world's
+
+489
+00:45:31,697 --> 00:45:37,266
+foremost authority on genetics and mutation.
+and is an expert in nearly every field of mental
+
+490
+00:45:37,386 --> 00:45:43,508
+and life sciences, as well as an expert strategist
+and diplomat. He is also gifted in engineering,
+
+491
+00:45:43,668 --> 00:45:48,870
+having created Cerebro, which amplifies his
+abilities to a global range and has become
+
+492
+00:45:48,950 --> 00:45:55,011
+mobile in its latest versions. Prior to his
+paralysis, Professor X was a proficient hand-to-hand
+
+493
+00:45:55,051 --> 00:46:00,253
+fighter, having received combat training from
+his time in the military. His weaknesses include
+
+494
+00:46:00,333 --> 00:46:06,314
+telepathic shielding, such as Magneto's helmet.
+and the paralysis of his legs. To offset this
+
+495
+00:46:06,374 --> 00:46:12,056
+latter weakness though, he rides a hoverchair
+invented by the mutant Forge who incorporated
+
+496
+00:46:12,136 --> 00:46:18,558
+Shiar technology and is controlled via mental
+command. And that's Professor X. I totally
+
+497
+00:46:18,618 --> 00:46:25,860
+forgot about Onslaught. Would we ever do a duel
+with Onslaught? The entity itself doesn't have
+
+498
+00:46:25,980 --> 00:46:31,941
+a huge history on its own, but I guess I could
+go into greater detail of the story of Onslaught.
+
+499
+00:46:32,330 --> 00:46:34,337
+if and when that time came. Okay, cool.
+
+500
+00:46:41,966 --> 00:46:45,728
+Well, now that we've got their histories and
+abilities out of the way, let's speculate on
+
+501
+00:46:45,768 --> 00:46:52,472
+how one of the 1000 simulated matches will go.
+The winner is determined by simulations, not
+
+502
+00:46:52,512 --> 00:46:57,395
+this speculation, but it's fun to imagine how
+this fight could play out. Alfred Jarvis9000,
+
+503
+00:46:58,175 --> 00:47:03,398
+what are the rules of our speculation? Well,
+I should say there are no rules, other than
+
+504
+00:47:03,418 --> 00:47:07,781
+the characters have no prior knowledge of the
+other going into the fight. All they are aware
+
+505
+00:47:07,821 --> 00:47:12,328
+of starting out... is that the other character
+is a threat that needs to be eliminated. For
+
+506
+00:47:12,368 --> 00:47:17,572
+the speculation, the contestants will begin
+approximately 50 meters apart in a nondescript
+
+507
+00:47:17,612 --> 00:47:22,415
+environment that will have no bearing on the
+match itself, as no environmental statistics
+
+508
+00:47:22,435 --> 00:47:27,638
+are considered in my simulations. The contestants
+must earn victory on their own merit. Alright
+
+509
+00:47:27,658 --> 00:47:32,862
+then let's get into it. The Chief and Professor
+X meet on the battlefield. Who goes first?
+
+510
+00:47:38,294 --> 00:47:43,918
+the chief's mind and learning all about this
+guy, who he is, what he can do. OK, I was prepared
+
+511
+00:47:43,938 --> 00:47:51,585
+for this, though. OK, because I'm thinking like
+the chief's brain is a vast labyrinth of knowledge
+
+512
+00:47:51,605 --> 00:47:57,329
+and experiences that would make like most men's
+heads just explode if they ever got a peek.
+
+513
+00:47:58,130 --> 00:48:04,836
+So, OK, if Professor X ever got a mental glimpse
+into that mind, like at the very least, he'd
+
+514
+00:48:04,876 --> 00:48:11,064
+be so shocked by the breath. of information
+and atrocities and just dark thoughts within
+
+515
+00:48:11,084 --> 00:48:16,388
+the chief's mind. He'd just be like, holy crap.
+Right. So that's going to leave the chief at
+
+516
+00:48:16,448 --> 00:48:21,252
+least a few seconds to pull out his gun and
+just shoot Professor X like right in the bald
+
+517
+00:48:21,292 --> 00:48:26,395
+dome. That is quite the assumption right there.
+And I'm guessing a lot of your strategy actually
+
+518
+00:48:26,475 --> 00:48:31,199
+hinged on Professor X being shocked by Niles
+Calder's brain. Yes. You know what? I actually
+
+519
+00:48:31,219 --> 00:48:36,650
+believe that would happen. I think that Niles
+Calder has a really. crazy ass mind judging
+
+520
+00:48:36,670 --> 00:48:40,953
+by all the crazy ass adventures the Doom Patrol
+have been on. So sure, if the Chief needed
+
+521
+00:48:40,993 --> 00:48:45,736
+to buy himself a second, this is where he buys
+it. But also, like then again, Professor X
+
+522
+00:48:45,756 --> 00:48:50,318
+has dealt with like a lot of disturbed minds
+also. So I don't think he's quite as stunned
+
+523
+00:48:50,518 --> 00:48:54,841
+by the Chief's brain as he thinks he is. I think
+he's able to actually avoid the Chief's gunshot
+
+524
+00:48:54,881 --> 00:49:01,785
+by using mind control at the last second to
+throw off his firing can. Okay, that just means
+
+525
+00:49:01,825 --> 00:49:06,907
+that the bullet's just gonna... hit his hover
+chair then instead of his head. And you know,
+
+526
+00:49:07,167 --> 00:49:13,088
+that's gonna make the hover chair malfunction
+and just go haywire. So Professor X, he's essentially
+
+527
+00:49:13,248 --> 00:49:18,650
+writing a mechanical bull at this point and
+he's gonna be too distracted to perform any
+
+528
+00:49:18,710 --> 00:49:22,731
+psychic attacks. You can't do that to a man
+in a wheelchair. What the hell's going on here?
+
+529
+00:49:23,051 --> 00:49:29,693
+Just did, it just did. Okay, so if Professor
+X's hover chair is like flying around, Professor
+
+530
+00:49:29,813 --> 00:49:35,659
+X. is gonna mentally steer it as best he can
+to crash into the chief's wheelchair, just
+
+531
+00:49:35,819 --> 00:49:40,140
+murderballing the dude. Do you know what murderball
+is? Like people know what murderball is, right?
+
+532
+00:49:40,260 --> 00:49:46,922
+Yeah, I know. It was a documentary about the
+US men's paraplegic rugby team. Right. And
+
+533
+00:49:46,962 --> 00:49:50,863
+in that movie they just knock the shit out of
+each other, pushing other wheelchair guys to
+
+534
+00:49:50,883 --> 00:49:56,465
+the ground. That's what happens here, the chief
+is knocked over in his wheelchair. Okay, so
+
+535
+00:49:57,005 --> 00:50:04,161
+I didn't mention this in my bio, but... The
+Chief can walk. What? He doesn't actually need
+
+536
+00:50:04,201 --> 00:50:10,305
+his wheelchair. Why? He cured himself of his
+paralysis a long time ago. He just used the
+
+537
+00:50:10,346 --> 00:50:19,392
+wheelchair to avoid suspicion and garner sympathy.
+Oh my God. What a fucking prick. Yeah, yeah.
+
+538
+00:50:19,833 --> 00:50:25,377
+That's what Robotman said essentially as well.
+So the Chief, you know, he just dives back
+
+539
+00:50:25,397 --> 00:50:30,821
+toward his wheelchair. and he's going to activate
+a button that actually transforms the wheelchair
+
+540
+00:50:31,362 --> 00:50:38,047
+into this like robotic exoskeleton suit kind
+of like robot man and wearing that exo suit
+
+541
+00:50:38,367 --> 00:50:43,131
+he's going to leap onto professor x's hover
+chair and just yank him right out of it and
+
+542
+00:50:43,151 --> 00:50:48,916
+just like fling him to the ground this dude
+sucks but i'm going to say that before the
+
+543
+00:50:48,936 --> 00:50:54,621
+chief can even lay a hand on the professor x
+is going to start erasing the chief's mind
+
+544
+00:50:54,701 --> 00:51:00,409
+right including his knowledge of how this exosuit
+even works. So the chief's not going to be
+
+545
+00:51:00,429 --> 00:51:04,251
+able to do anything. His mind is just going
+to go blank. But like the chief has worked
+
+546
+00:51:04,291 --> 00:51:10,594
+with psychics on the patrol like Mento before.
+So he'd most likely be able to realize if his
+
+547
+00:51:10,674 --> 00:51:16,098
+mind is being erased. And I'm going to say,
+like, once he notices that without hesitation,
+
+548
+00:51:16,378 --> 00:51:20,360
+real quick, he's just going to whip out the
+squirt gun from his jacket and he's going to
+
+549
+00:51:20,480 --> 00:51:28,523
+spray this anti-medicine. formula onto Professor
+X that's gonna erase his mutant powers. Meta-humans
+
+550
+00:51:28,543 --> 00:51:34,425
+aren't the same thing as mutants. They're basically
+the same thing. Chief made a formula that can
+
+551
+00:51:34,485 --> 00:51:40,826
+erase powers? Well, I mean, he made a formula
+that could trigger Meta-Genes and extend life,
+
+552
+00:51:41,046 --> 00:51:46,748
+so sure, yeah, he could reverse engineer that
+to remove Meta-Gene powers as well. The dude's
+
+553
+00:51:46,808 --> 00:51:52,349
+smart. Like, I'm calling bullshit. I feel like
+your speculation hinges on a lot of assumptions.
+
+554
+00:51:52,758 --> 00:51:57,762
+You don't think Chief would be prepared living
+in a world with metahumans to be able to disable
+
+555
+00:51:57,782 --> 00:52:03,246
+them? I guess he's created so many superpowered
+beings it's not out of the realm of possibility
+
+556
+00:52:03,286 --> 00:52:10,372
+that he has means to depower them. But before
+this depowering formula fully kicks into effect,
+
+557
+00:52:10,892 --> 00:52:16,277
+Professor X, he's gonna reach into the trunk
+of his hoverchair and pull out a mobile Cerebro
+
+558
+00:52:16,317 --> 00:52:21,261
+device, and he's gonna put it on, it's gonna
+amplify his power so that before his psychic
+
+559
+00:52:21,281 --> 00:52:27,331
+abilities vanish, he still has enough psychic
+juice to make Chief's mind explode from a telepathic
+
+560
+00:52:27,371 --> 00:52:33,233
+blast. Force field. Boom. The blast doesn't
+reach the Chief because he activates a force
+
+561
+00:52:33,253 --> 00:52:39,174
+field that includes psychic shielding. All right.
+The Chief's then going to launch a capsule
+
+562
+00:52:39,214 --> 00:52:44,816
+of nanobots from his exosuit at Professor X
+and that's just going to disassemble his body
+
+563
+00:52:45,196 --> 00:52:51,517
+at the molecular level. Essentially, it looks
+like he dissolved Professor X with acid. Okay,
+
+564
+00:52:51,557 --> 00:52:59,504
+sure. Whatever. All right. But if you remember
+earlier in this duel, Professor X erased part
+
+565
+00:52:59,524 --> 00:53:06,385
+of the chief's mind, right? And the dark malevolent
+side of the chief combined with Professor X's
+
+566
+00:53:06,465 --> 00:53:13,307
+psychic power. So now in place of Professor
+X is Onslaught. Way to go. And now the chief
+
+567
+00:53:13,347 --> 00:53:18,149
+is a fuck like a million times over because
+Onslaught is going to tear through his mind
+
+568
+00:53:18,369 --> 00:53:22,386
+and just obliterate it like a boot crushing
+an ant. And no force field is going to hold
+
+569
+00:53:22,486 --> 00:53:28,587
+onslaught back. Match over. So the chief is
+dead? Yeah, the chief's dead. Onslaught just
+
+570
+00:53:28,647 --> 00:53:34,789
+ripped his mind a new butthole. OK, I mean,
+jokes on you, though, because once the chief's
+
+571
+00:53:34,809 --> 00:53:41,051
+heart stops beating, it triggers his exosuit
+to emit a life ray, which brings the recently
+
+572
+00:53:41,151 --> 00:53:47,833
+dead back to life. And once he's back, that's
+when he activates a portal to the D creator,
+
+573
+00:53:48,153 --> 00:53:53,539
+which is this giant eyeball in the sky that
+lays its sights right on Onslaught and just
+
+574
+00:53:53,819 --> 00:54:00,723
+de-creates him. I mean, Niles too, probably.
+But Onslaught first, so the Chief wins. Well,
+
+575
+00:54:00,843 --> 00:54:05,365
+I remember the de-creator from the show. Yeah,
+that. That's way more powerful than Onslaught.
+
+576
+00:54:05,786 --> 00:54:10,548
+I don't think so, but it doesn't matter because
+from the very beginning this whole match actually
+
+577
+00:54:10,568 --> 00:54:16,832
+took place in the Astral Plane, where Professor
+X took Chief's mind to play out as like a psychic
+
+578
+00:54:16,852 --> 00:54:23,631
+illusion this whole match to And now that Professor
+X knows what the chief would do and like his
+
+579
+00:54:23,711 --> 00:54:28,914
+curiosity has been satiated. He's just going
+to leave the chief in this comatose state where
+
+580
+00:54:28,954 --> 00:54:33,597
+he believes that he's been decreated by the
+Decreator. How did I know you were going to
+
+581
+00:54:33,637 --> 00:54:40,640
+go there? It's all an illusion. It was all a
+dream. I say it all really did happen and Professor
+
+582
+00:54:40,761 --> 00:54:45,123
+X was dissolved and onslaught was decreated.
+You can't just go back to the beginning of
+
+583
+00:54:45,143 --> 00:54:49,265
+the match and be like, oh, it never happened.
+Yes, I can, because that is one of Professor
+
+584
+00:54:49,365 --> 00:54:55,833
+X's powers. Haters gonna hate, and mind manipulators
+gonna manipulate. So we'll go ahead and leave
+
+585
+00:54:55,853 --> 00:55:00,116
+the match there and input these characters'
+stats and find out which scenario actually
+
+586
+00:55:00,156 --> 00:55:07,521
+happens when we come back with a winner. AG9000,
+take it away. Inputting data, running calculations,
+
+587
+00:55:07,982 --> 00:55:14,346
+processing results, simulations complete. Okay,
+as we predicted, these characters have fairly
+
+588
+00:55:14,466 --> 00:55:20,150
+different stats. As we mentioned, Professor
+X is very one note, and the chief is... quite
+
+589
+00:55:20,190 --> 00:55:25,374
+versatile. In fact, that was the chief's highest
+stat, the versatility. That makes sense because
+
+590
+00:55:25,394 --> 00:55:30,899
+the chief has a contingency for everything,
+right? But Professor X was off the charts in
+
+591
+00:55:30,939 --> 00:55:36,284
+terms of damage level, considering the guy can
+render, you know, like an entire town inert
+
+592
+00:55:36,504 --> 00:55:41,628
+just by shutting down everybody's minds. And
+his range was also ridiculously high considering
+
+593
+00:55:41,648 --> 00:55:47,353
+he can stretch his mind out to a radius of 250
+miles and extend that even further with Cerebro.
+
+594
+00:55:47,393 --> 00:55:51,920
+Right. We did say though that the chief was
+smarter, he had a higher intellect, and he
+
+595
+00:55:51,940 --> 00:55:58,144
+was more evasive, thanks to the fact that he
+utilizes force fields. Yeah, I had a real hard
+
+596
+00:55:58,185 --> 00:56:04,008
+time conceding even the notion that the chief
+is smarter than Professor X. But then you gotta
+
+597
+00:56:04,028 --> 00:56:09,112
+kinda consider the chief at the same level as
+Mr. Fantastic Reed Richards. Yes, Professor
+
+598
+00:56:09,312 --> 00:56:15,156
+X is a brilliant genius. A large part of that
+though has to do with his psychic faculties,
+
+599
+00:56:15,216 --> 00:56:21,703
+not necessarily his book smarts. Professor X
+is the foremost authority on genetics and mutation,
+
+600
+00:56:22,183 --> 00:56:29,265
+but Reed Richards and the chief can like invent
+teleportation devices. So Professor X was lower
+
+601
+00:56:29,465 --> 00:56:35,086
+in the intelligence stat, but he was much higher
+in the perception stat where we accounted for
+
+602
+00:56:35,126 --> 00:56:39,708
+his telepathic abilities, including mind reading.
+Yeah, the perception stat is where the two
+
+603
+00:56:39,748 --> 00:56:45,409
+characters had the largest discrepancy when
+it came to stats. So taking all of this into
+
+604
+00:56:45,449 --> 00:56:50,311
+consideration. Who do you think came out on
+top? Professor X. Gotta go with the main mind
+
+605
+00:56:50,352 --> 00:56:56,275
+here. As smart as Chief is, he's just not as
+powerful. And not only do I think that, a vast
+
+606
+00:56:56,295 --> 00:57:00,317
+majority of people think that, because according
+to our Instagram poll that we put out there,
+
+607
+00:57:00,857 --> 00:57:06,901
+86% of our Instagram followers think that Professor
+X is gonna win. That's a big margin. I guarantee
+
+608
+00:57:06,921 --> 00:57:13,084
+you though, that is just because of the X-Men
+cartoons and the movies. People just love the
+
+609
+00:57:13,224 --> 00:57:18,414
+X-Men. So of course they're gonna vote for an
+X-Man. Yeah, people like the X-Men because
+
+610
+00:57:18,494 --> 00:57:23,677
+they're more popular than the Doom Patrol because
+Marvel's better. So I agree with you. Yes.
+
+611
+00:57:24,217 --> 00:57:29,799
+Well, let's see how misplaced your confidence
+is. AJ 9K, the results, please. Hey, you are,
+
+612
+00:57:29,839 --> 00:57:37,162
+sir. The winner of the matchup between the Doom
+Patrol's chief and the X-Men's Professor X
+
+613
+00:57:37,982 --> 00:57:51,007
+is. Professor X, you damn right it is. By 60.8.
+percent. Professor X won 608 of the 1000 simulated
+
+614
+00:57:51,107 --> 00:57:57,049
+matches, whereas the Chief only won 392. You
+know, that's actually closer than I thought
+
+615
+00:57:57,069 --> 00:58:02,570
+it was going to be. For as careful as I was
+not to underestimate Niles Calder, I still
+
+616
+00:58:02,610 --> 00:58:07,032
+did in the fact that he got a few more wins
+than I thought he would. I mean, you made a
+
+617
+00:58:07,072 --> 00:58:10,673
+believer out of me. When you first mentioned
+this match, I didn't think it was going to
+
+618
+00:58:10,693 --> 00:58:15,214
+be that great because I figured Professor X
+would win. So this isn't really a surprise
+
+619
+00:58:15,234 --> 00:58:18,875
+to me. But when I started delving more into
+the character and was like, hey, maybe he could
+
+620
+00:58:18,915 --> 00:58:25,778
+pull this off. I really got hopeful and I regret
+that now cause I feel bad. Good. Actually,
+
+621
+00:58:25,818 --> 00:58:29,880
+when you were going into the chief's backstory
+and you were talking about how he gave himself
+
+622
+00:58:29,960 --> 00:58:36,002
+Superman powers and stuff like that, I'm like,
+oh no, I made a horrible suggestion, but you
+
+623
+00:58:36,022 --> 00:58:41,104
+know, I feel really happy about how this all
+turned out. Yeah, I mean, the chief has no
+
+624
+00:58:41,144 --> 00:58:45,895
+powers, but he has tremendous potential. In
+the end, though, I guess that can overcome
+
+625
+00:58:46,295 --> 00:58:52,139
+just the vast sheer might of Professor X, which
+sucks. I mean, for you, yeah, not for Marvel
+
+626
+00:58:52,159 --> 00:58:57,984
+fans. As it turns out, Professor X has a greater
+mind. Marvel fans have the greater minds. Wait,
+
+627
+00:58:58,404 --> 00:59:04,769
+what? Yeah. Yep. You didn't know that? Makes
+sense because you're a DC fan that you wouldn't
+
+628
+00:59:04,809 --> 00:59:12,614
+know something. I can't say no, I didn't know
+that because. Whatever. That does it for this
+
+629
+00:59:12,674 --> 00:59:17,237
+duel. Let us know what you thought about the
+results by writing to us at dynamic duel podcast
+
+630
+00:59:17,538 --> 00:59:24,582
+at gmail.com or by visiting us on Instagram
+or Twitter X. You can find links to all of
+
+631
+00:59:24,602 --> 00:59:29,546
+our accounts by checking out our show notes
+or visiting our website at dynamic duel.com.
+
+632
+00:59:30,707 --> 00:59:34,029
+And on our site, you could also find a link
+to our Patreon page where you could join our
+
+633
+00:59:34,089 --> 00:59:38,972
+dynamic two-o tier and chat with us and fellow
+listeners, our fantastic four tier, which gets
+
+634
+00:59:38,992 --> 00:59:43,832
+you bonus content each month. our ex-force tier
+that makes you an executive producer of this
+
+635
+00:59:43,872 --> 00:59:49,195
+podcast, or our newest tier that lets you join
+our Dynamike Podcast Network. If you can't
+
+636
+00:59:49,215 --> 00:59:54,319
+join Patreon, you can still support this show
+by signing up for our e-newsletter also at
+
+637
+00:59:54,379 --> 01:00:00,663
+dynamicduel.com. Or you could also rate the
+show on Apple podcasts, Spotify, Podchaser,
+
+638
+01:00:01,144 --> 01:00:07,188
+or on our website. Yeah, let us know what you
+think. Next week we are going to review Blue
+
+639
+01:00:07,208 --> 01:00:12,083
+Beetle that comes out this week. Get pumped!
+I'm not that pumped. Well, you're dumb, so
+
+640
+01:00:12,103 --> 01:00:16,885
+it makes sense. Everyone else, super stoked.
+Hopefully, you guys got to turn out for this
+
+641
+01:00:16,925 --> 01:00:22,368
+movie. Like we cannot have another DC box office
+bomb like the Flash. It's definitely gonna
+
+642
+01:00:22,408 --> 01:00:27,131
+happen, man. I'm sorry. We'll find out, I guess.
+I'm gonna go see it. I'm taking my whole family
+
+643
+01:00:27,171 --> 01:00:31,773
+to go see it. I encourage you guys to do the
+same. But that does it for this episode. We
+
+644
+01:00:31,793 --> 01:00:37,216
+wanna give a big thanks to our executive producers,
+Ken Johnson, John Snorosky, Zachary Hepburn,
+
+645
+01:00:37,516 --> 01:00:43,421
+Dustin Balcom, Mickey Mathengian, Brendan Esfregard,
+Nathaniel Wagner, Levi Yeaton, Nick Abonto,
+
+646
+01:00:43,782 --> 01:00:49,987
+Austin Wyslowski, AJ Dunkerley, Scott Camacho,
+and Adam Spees for helping make this podcast
+
+647
+01:00:50,027 --> 01:00:55,613
+possible. And we'll talk to you guys next week.
+Up up and away, true believers. I can read
+
+648
+01:00:55,653 --> 01:00:59,096
+your mind. And right now you are thinking that
+I can't read minds.
+
