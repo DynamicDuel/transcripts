@@ -1,0 +1,3356 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a Dynamike Network podcast.
+
+2
+00:00:24,846 --> 00:00:29,528
+And welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,569 --> 00:00:35,352
+the superiority between Marvel and DC by comparing
+their characters and stat-based battle simulations.
+
+4
+00:00:35,973 --> 00:00:41,196
+I'm Marvelous Joe. And I'm his twin brother,
+Johnny DC. And in this episode, we are going
+
+5
+00:00:41,216 --> 00:00:48,420
+to review the latest DC films release, Blue
+Beetle. I thought it was fine. Jonathan apparently
+
+6
+00:00:48,441 --> 00:00:52,475
+thinks it was the greatest movie ever made.
+And we've been arguing about it pretty much
+
+7
+00:00:52,515 --> 00:00:59,180
+for the past few hours. I feel like that's a
+stretch, but I did really enjoy the film. And
+
+8
+00:00:59,240 --> 00:01:02,762
+I can't wait to talk about it. Yeah, we'll talk
+all about it later on this episode. Before
+
+9
+00:01:02,802 --> 00:01:06,485
+that, we're going to break down the comic book
+movie news that came out this past week, of
+
+10
+00:01:06,525 --> 00:01:12,709
+which there was none or at least none worth
+talking about. Like we learned that Taika Waititi
+
+11
+00:01:12,969 --> 00:01:17,772
+made some comments about what he would do for
+a Thor five movie. But God, no, they better
+
+12
+00:01:17,812 --> 00:01:22,762
+not let him direct another Thor film. Yeah,
+we also saw that David Ayer shared some A.I.
+
+13
+00:01:23,122 --> 00:01:29,544
+art on social media that he's claiming is concept
+art for his Suicide Squad film. He's just really
+
+14
+00:01:29,564 --> 00:01:36,366
+desperate to release the air cut of Suicide
+Squad. And I'm like, eh, yeah, who cares? What
+
+15
+00:01:36,386 --> 00:01:40,367
+we're going to end up doing is talking about
+a game that Jonathan and I developed, a card
+
+16
+00:01:40,387 --> 00:01:45,128
+game deck building card game called Chronicle
+A.I. Hopefully you guys tune into that because
+
+17
+00:01:45,168 --> 00:01:50,587
+we think it's pretty cool, but we're biased,
+but trust us. As always, we list our segment
+
+18
+00:01:50,627 --> 00:01:54,189
+times in our episode description, so feel free
+to check out the show notes if you want to
+
+19
+00:01:54,249 --> 00:01:59,253
+skip ahead to a particular topic. As our listeners
+may know, our dual simulator is so advanced
+
+20
+00:01:59,333 --> 00:02:03,656
+that it's gained sentience and has named itself
+the Artificial Lifeform for Running Extensive
+
+21
+00:02:03,696 --> 00:02:09,720
+Duels, just a rather very intelligent simulator
+9000, or Alfred Jarvis 9000. Here's a quick
+
+22
+00:02:09,760 --> 00:02:16,403
+message for our listeners, so listen up! Why
+hello there. Do you love listening and chatting
+
+23
+00:02:16,423 --> 00:02:21,587
+about Marvel and DC? Then become a part of the
+dynamic dual community on Patreon where you
+
+24
+00:02:21,607 --> 00:02:26,911
+can choose from three tiers. The dynamic 2-0
+tier lets you listen to this podcast without
+
+25
+00:02:27,011 --> 00:02:31,734
+ads and gives you access to its Discord chat
+group where you can chat with Johnny DC and
+
+26
+00:02:31,794 --> 00:02:36,697
+Marvelous Joe. The fantastic 4 tier gives you
+that and more with two bonus episodes each
+
+27
+00:02:36,757 --> 00:02:41,501
+month including bloopers and top 10 shows where
+Johnny and Joe count down your favourite Marvel
+
+28
+00:02:41,521 --> 00:02:46,753
+and DC subjects. The X-Force tier makes you
+an executive producer of Dynamic Duel, where
+
+29
+00:02:46,833 --> 00:02:50,741
+every month you help the hosts choose what to
+review and who to fight against each other.
+
+30
+00:02:51,294 --> 00:02:56,497
+And finally, the Dynamike Podcast Network tier
+allows aspiring podcasters to create their
+
+31
+00:02:56,637 --> 00:03:01,681
+own battle-focused show using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+32
+00:03:01,701 --> 00:03:06,584
+your show, provide graphic support and consultation,
+and get you simulation results to announce
+
+33
+00:03:06,624 --> 00:03:12,268
+on your show. Pitch the twins your show via
+email at dynamicduelpodcast.gmail.com or by
+
+34
+00:03:12,308 --> 00:03:17,231
+reaching out to them on social media. Check
+it out at patreon.com slash dynamicduel. Pip
+
+35
+00:03:17,271 --> 00:03:24,575
+pip cheerio. Thanks, J9K. and thanks to everyone
+who supports the podcast. Be sure to tune into
+
+36
+00:03:24,615 --> 00:03:29,978
+the Max Destruction Podcast to witness the bare-knuckle
+brawls of the greatest action stars across
+
+37
+00:03:30,018 --> 00:03:34,980
+film and television. This week on Wednesday,
+August 23rd, you can learn who would win in
+
+38
+00:03:35,000 --> 00:03:41,083
+a fight between Lara Croft from Tomb Raider
+and Lelou from The Fifth Element. Also be sure
+
+39
+00:03:41,103 --> 00:03:46,530
+to tune into Senjo World, a new battle podcast
+featuring your favorite anime characters. that
+
+40
+00:03:46,550 --> 00:03:50,273
+drops new episodes every Thursday. If you tune
+in this week, you'll find out who would win
+
+41
+00:03:50,293 --> 00:03:55,978
+between Edward Elric from Full Metal Alchemist
+and Alan Walker from D.Grayman. Yeah, it's
+
+42
+00:03:55,998 --> 00:04:01,603
+gonna be an awesome week on the Dynamike Network.
+Definitely check out those shows. Visit dynamicpodcasts.com
+
+43
+00:04:02,564 --> 00:04:07,948
+or click the link in our show notes to listen
+to all the shows on our network. Speaking of
+
+44
+00:04:08,028 --> 00:04:14,178
+Send Your World, we heard that it was host Zach's
+birthday this past week. So we wanna... Give
+
+45
+00:04:14,198 --> 00:04:19,282
+a big happy birthday to the birthday boy. And
+Zach, if I were to get you a gift from Marvel,
+
+46
+00:04:19,683 --> 00:04:25,588
+I would get you the Muramasa Blade, which is
+Wolverine's sword that he got from Japan that
+
+47
+00:04:25,768 --> 00:04:31,833
+is able to slash him and negate his healing
+factor. It's badass. And I would get you Pied
+
+48
+00:04:31,873 --> 00:04:36,357
+Piper's flute, because I know that you're into
+music and that you have a degree in it. It's
+
+49
+00:04:36,397 --> 00:04:40,661
+very evident in the production of Senjou World.
+So for a fan of music, you can't get better
+
+50
+00:04:40,701 --> 00:04:45,157
+than that. Yeah, my Muramasa blade would cut
+your flute in half, so... Yeah, try getting
+
+51
+00:04:45,197 --> 00:04:51,022
+past its sonic force field! Alright, happy birthday,
+Zack. But with that out of the way, quick to
+
+52
+00:04:51,042 --> 00:04:57,448
+the No Prize! A No Prize is an award Marvel
+used to give out to fans. Our version, the
+
+53
+00:04:57,488 --> 00:05:02,833
+Dynamic Dual No Prize, is a digital award that
+we post on Instagram and in our email newsletter
+
+54
+00:05:03,133 --> 00:05:08,057
+for the person that we feel gave the best answer
+to our question of the week. Last week we asked...
+
+55
+00:05:08,290 --> 00:05:12,831
+Who would you want to direct a Wonder Woman
+reboot and why? And this was coming off the
+
+56
+00:05:12,871 --> 00:05:16,993
+news that Gal Gadot was basically saying that
+she was going to be part of the next Wonder
+
+57
+00:05:17,033 --> 00:05:21,315
+Woman movie production, which may or may not
+be true. But we wanted your guys' opinions
+
+58
+00:05:21,335 --> 00:05:26,377
+for who should helm the next film if it were
+to happen. In James Gunn's new DC universe.
+
+59
+00:05:26,838 --> 00:05:30,519
+We got a number of answers, we're going to break
+down the honorable mentions before revealing
+
+60
+00:05:30,559 --> 00:05:35,961
+this week's no-prize winner. Our first honorable
+mention goes to Lizzie Dyer Arnie, who said,
+
+61
+00:05:36,490 --> 00:05:40,393
+Hey, it's Lizzie. I'm gonna shock absolutely
+no one and say I would like Greta Gerwig to
+
+62
+00:05:40,433 --> 00:05:45,077
+direct the Wonder Woman reboot. So Barbie is
+probably gonna be the biggest movie of the
+
+63
+00:05:45,097 --> 00:05:48,960
+year. I think Greta is the hottest thing in
+Hollywood right now. I think that would be
+
+64
+00:05:49,020 --> 00:05:55,305
+really good to revive DC's brand. I really would
+like to see what her take on the character
+
+65
+00:05:55,325 --> 00:06:00,269
+would be. I mean, Barbie Land is pretty similar
+to Paradise Island, isn't it? And I think this
+
+66
+00:06:00,289 --> 00:06:04,883
+would be a lot of fun. Yeah, I figured that
+this would be most people's answers coming
+
+67
+00:06:04,983 --> 00:06:10,825
+off of the success of Barbie, which has just
+surpassed The Dark Knight to be Warner Brothers
+
+68
+00:06:10,945 --> 00:06:16,668
+most successful film domestically ever. Which
+is crazy. Who would have known that Barbie
+
+69
+00:06:16,688 --> 00:06:21,690
+would have been more popular than Batman? Not
+me! Well, you have to kind of account for inflation
+
+70
+00:06:21,730 --> 00:06:26,332
+with that. Records will always be broken box
+office wise because of that. And inflation
+
+71
+00:06:26,372 --> 00:06:30,713
+is crazy right now. But that's not to discount
+the huge accomplishment that the Barbie film
+
+72
+00:06:31,266 --> 00:06:35,168
+Achieved. I haven't seen it yet though. I haven't
+really been able to get to the theater with
+
+73
+00:06:35,208 --> 00:06:39,990
+a newborn. I had a chance to see it. I think
+the second week it came out, I went to see
+
+74
+00:06:40,070 --> 00:06:45,713
+Oppenheimer before I saw Barbie. I didn't love
+the film. I think it kind of gets its satirical
+
+75
+00:06:45,773 --> 00:06:52,177
+message mixed up, but that's just me. Greta
+Gerwig is a good director, though I think I
+
+76
+00:06:52,197 --> 00:06:56,559
+would prefer someone with a little bit more
+experience with action, personally. Or you
+
+77
+00:06:56,579 --> 00:07:01,398
+could go the Marvel route where basically they
+just hire action directors for you. to let
+
+78
+00:07:01,438 --> 00:07:05,779
+you nail down the other aspects of the direction.
+Yeah, I mean, that's what they did with Birds
+
+79
+00:07:05,820 --> 00:07:11,022
+of Prey with Kathy Yan. And I don't know. I
+think I would prefer one vision for the entire
+
+80
+00:07:11,042 --> 00:07:16,504
+film. Well, great answer, Lizzie. Our next honorable
+mention goes to Trevor Myers, who said, Hi,
+
+81
+00:07:16,524 --> 00:07:21,026
+my name is Trevor Myers and the director I would
+pick for the Wonder Woman reboot would be Catherine
+
+82
+00:07:21,066 --> 00:07:25,248
+Bigelow, the first woman to ever win the best
+director Oscar. She did that for the Hurt Locker.
+
+83
+00:07:25,608 --> 00:07:30,018
+Since then, she's done Zero Dark Thirty and
+Detroit, all critically acclaimed films. She's
+
+84
+00:07:30,058 --> 00:07:34,779
+also worked in the action genre in the 90s.
+She did Point Break. She's done Blue Steel.
+
+85
+00:07:34,799 --> 00:07:40,341
+She's done a bunch of great films. And she also
+had interest in directing an X-Men movie in
+
+86
+00:07:40,381 --> 00:07:45,422
+the early 90s, starring Angela Bassett as Storm,
+according to the rap. So fun fact. And that's
+
+87
+00:07:45,442 --> 00:07:50,924
+pretty cool. I didn't actually know that about
+Catherine Bigelow. Now she is a director with
+
+88
+00:07:51,044 --> 00:07:56,805
+a background in action. She's made some awesome
+military movies. So yeah, she would be a fantastic
+
+89
+00:07:56,845 --> 00:08:02,524
+choice, I think. Though I questioned whether
+or not she could direct a film set in the tone
+
+90
+00:08:02,764 --> 00:08:08,788
+of James Gunn and his style, because it would
+be nice if the DC Universe films had a similar
+
+91
+00:08:08,848 --> 00:08:13,670
+tone, sort of like the Marvel Universe going
+forward. Yeah, while the Marvel Studios films
+
+92
+00:08:13,810 --> 00:08:18,093
+are distinctive from each other, there is somewhat
+of a more cohesive tone among them in that,
+
+93
+00:08:18,153 --> 00:08:22,896
+you know, they're action driven, visual effects
+heavy with some comedic elements, you know.
+
+94
+00:08:23,276 --> 00:08:27,246
+It would be nice to get some kind of cohesion
+there with James Gunn's DCU. I think that's
+
+95
+00:08:27,266 --> 00:08:31,669
+definitely what people want. As cool as it would
+be to see Catherine Bigelow's Wonder Woman,
+
+96
+00:08:32,229 --> 00:08:36,172
+I do think it would be very different from any
+other DC project. But great answer Trevor,
+
+97
+00:08:36,512 --> 00:08:42,716
+our final honorable mention goes to Ken Johnson,
+who said, Hey guys, it's Ken. I too paused
+
+98
+00:08:42,756 --> 00:08:47,260
+the episode right as soon as you guys started
+to interview me in order to answer this question,
+
+99
+00:08:48,100 --> 00:08:52,163
+because I'm in front of a computer and I could
+actually really look into it. My pick is Denis
+
+100
+00:08:52,403 --> 00:08:59,765
+Villanueve, because I think he would be awesome.
+as a woman director. Thanks. That's a creative
+
+101
+00:08:59,806 --> 00:09:04,391
+pronunciation of Denny Villeneuve, which is
+also probably butchering the pronunciation.
+
+102
+00:09:04,951 --> 00:09:09,977
+If there's any director I would love to see
+direct a superhero film, it would be Villeneuve.
+
+103
+00:09:10,377 --> 00:09:13,921
+I don't think he ever would, but Ken Johnson
+gets an honorable mention for the name drop
+
+104
+00:09:13,961 --> 00:09:19,331
+alone. Yeah, I mean, like Catherine Bigelow,
+his vision is a very singular, distinct vision.
+
+105
+00:09:19,631 --> 00:09:25,293
+I think he did great on films like Blade Runner
+2049 and Dune. He also showed that he can direct
+
+106
+00:09:25,353 --> 00:09:30,514
+strong female leads with emotional centers,
+like he did with Amy Adams in Arrival, which
+
+107
+00:09:30,554 --> 00:09:35,316
+is a fantastic film. I really like this answer.
+Again, I do feel like it would be a little
+
+108
+00:09:35,336 --> 00:09:40,317
+bit of a stretch to get him to play within James
+Gunn's DCU, but it would be an incredible film
+
+109
+00:09:40,357 --> 00:09:44,872
+nonetheless. We want to give a big shout out
+to Travis Herndon and Miggy Methingian for
+
+110
+00:09:44,892 --> 00:09:50,356
+taking the time to visit our website and record
+an answer. But the winner of this week's Snow
+
+111
+00:09:50,396 --> 00:09:55,459
+Prize is... Brandon Estergard, who said... I've
+been waiting for this question to be asked
+
+112
+00:09:55,479 --> 00:10:00,142
+for a while now. I think Guillermo del Toro
+would be perfect for Wonder Woman reboot. Del
+
+113
+00:10:00,162 --> 00:10:05,166
+Toro is great at bringing these mythological
+slash cryptid creatures to life, especially
+
+114
+00:10:05,226 --> 00:10:10,769
+using practical effects. I'd set the movie in
+the underworld and just let Del Toro go nuts.
+
+115
+00:10:11,470 --> 00:10:19,957
+Gero del Toro is a fantastic director, and he's
+particularly fantastic at creating these magical
+
+116
+00:10:20,037 --> 00:10:24,801
+fantasy creatures. You take a look at films
+like the Hellboy movies or Pan's Labyrinth,
+
+117
+00:10:24,841 --> 00:10:31,547
+or even his most recent Pinocchio movie, and
+I absolutely know he has what it takes to bring
+
+118
+00:10:31,587 --> 00:10:36,651
+the mythical world of Wonder Woman to life.
+Yeah, not only the mythical part of the film,
+
+119
+00:10:36,831 --> 00:10:41,406
+you know, he can direct action as we saw in
+Blade II. and he could direct strong female
+
+120
+00:10:41,446 --> 00:10:46,770
+leads as we saw in The Shape of Water. Absolutely,
+yeah. I also love the fact that Brandon brought
+
+121
+00:10:46,830 --> 00:10:50,572
+up the Underworld, because I always thought
+that would have been a perfect Wonder Woman
+
+122
+00:10:50,612 --> 00:10:55,775
+sequel. Just have her travel to the Underworld
+to get Steve Trevor's soul back in sort of
+
+123
+00:10:55,815 --> 00:11:00,878
+like a Orpheus type story that has ties to mythology.
+That would have been so much better than Wonder
+
+124
+00:11:00,898 --> 00:11:06,341
+Woman 1984, for sure. Yeah, Hades could have
+been the villain. Ugh, missed opportunity.
+
+125
+00:11:06,870 --> 00:11:10,893
+But great answer, Brandon Estregard, you win
+this week's No Prize. Congrats. If you, the
+
+126
+00:11:10,933 --> 00:11:14,597
+listener, want a shot at winning your own No
+Prize, stay tuned to later on this episode
+
+127
+00:11:14,617 --> 00:11:19,501
+when we'll be asking another question of the
+week. But now that that's done, on to the news.
+
+128
+00:11:25,026 --> 00:11:29,447
+Alright, so this isn't comic book movie news,
+but it is news regarding Jonathan and myself.
+
+129
+00:11:29,828 --> 00:11:35,570
+We created a deck building card game kind of
+in the vein of Marvel Legendary or the DC deck
+
+130
+00:11:35,610 --> 00:11:40,792
+building card game. If you've heard of those
+or you're into those, we created a PvP version
+
+131
+00:11:40,812 --> 00:11:45,814
+of that, a player versus player two player card
+game where you can fight as the Marvel heroes
+
+132
+00:11:45,874 --> 00:11:52,137
+against DC heroes. And we offered that game
+exclusively through our store to patrons of
+
+133
+00:11:52,157 --> 00:11:57,387
+this podcast. Yeah, it's a really fun game,
+we think. We spent over 10 years making it.
+
+134
+00:11:57,887 --> 00:12:03,128
+And because of all the time we spent doing that,
+we decided we wanted to offer it to more than
+
+135
+00:12:03,208 --> 00:12:09,210
+just our patrons and really open up the potential
+for fans of games, not necessarily comics,
+
+136
+00:12:09,330 --> 00:12:13,831
+to enjoy it. Yeah, it would be nice to sell
+the Marvel vs. DC card game, but we don't have
+
+137
+00:12:13,891 --> 00:12:18,652
+licenses for Marvel or DC to actually produce
+this thing and sell it to the public at large.
+
+138
+00:12:19,012 --> 00:12:27,889
+So we rebranded the game from Marvel vs. to
+Chronicle AI and based the story of the game
+
+139
+00:12:28,229 --> 00:12:33,072
+around a short story that I created a while
+back. I'll go ahead and read basically the
+
+140
+00:12:33,092 --> 00:12:39,597
+fictional background of the game to you guys.
+So at the twilight of human civilization, humanity
+
+141
+00:12:39,657 --> 00:12:46,542
+created the Path R, posthumous artificial intelligence
+for transmitting the human record robots. Their
+
+142
+00:12:46,582 --> 00:12:52,045
+objective? To communicate mankind's story to
+whatever sentient life appeared next on Earth.
+
+143
+00:12:52,418 --> 00:12:58,279
+The Path R robots wandered the planet for centuries
+in search of intelligent beings. Over time,
+
+144
+00:12:58,439 --> 00:13:03,180
+they evolved beyond their programming. They
+developed their own society, equipped with
+
+145
+00:13:03,200 --> 00:13:08,722
+the entirety of human knowledge, and became
+the planet's new dominant life form. The robots
+
+146
+00:13:08,802 --> 00:13:14,744
+fostered the developing plant and animal life,
+transforming the Earth into paradise. After
+
+147
+00:13:14,804 --> 00:13:22,254
+several millennia, new sentients finally appeared
+in the form of visitors from outer space. the
+
+148
+00:13:22,334 --> 00:13:29,418
+Xeno-Eye, were also artificial like the Path-R
+robots, programmed to amass resources on behalf
+
+149
+00:13:29,458 --> 00:13:35,141
+of their alien creators. In difference to the
+Path-R robots' attempts to relay mankind's
+
+150
+00:13:35,161 --> 00:13:41,605
+history, the more advanced Xeno-Eye began tearing
+down and harvesting the planet. Seeing their
+
+151
+00:13:41,645 --> 00:13:46,968
+paradise demolished, the Path-R robots determined
+that they would fight to protect their home.
+
+152
+00:13:47,368 --> 00:13:53,573
+No longer emissaries, but defenders. they reconstructed
+their forms for battle. This is the chronicle
+
+153
+00:13:53,653 --> 00:13:57,756
+of the AI war for Earth. Yeah, it's a really
+interesting story. I think it plays really
+
+154
+00:13:57,816 --> 00:14:03,521
+well into the gameplay. If you're interested
+in getting the game, visit dynamicduel.com
+
+155
+00:14:04,442 --> 00:14:09,726
+slash AI. Yeah, check it out. You could download
+the rule set for free, so you can learn how
+
+156
+00:14:09,766 --> 00:14:16,592
+to play. The game comes with 165 cards total,
+including one Path R robot deck and one Xeno-Eye
+
+157
+00:14:16,632 --> 00:14:21,346
+deck. So we hope you guys check it out. definitely
+download the free rule book, consider buying
+
+158
+00:14:21,366 --> 00:14:25,268
+the game, and if you do, let us know what you
+thought about it. And also don't forget that
+
+159
+00:14:25,308 --> 00:14:31,151
+we do still have a Marvel versus DC version
+of the game for our patrons. But that isn't
+
+160
+00:14:31,191 --> 00:14:36,973
+for this shameless plug. But we do have a question
+of the week that ties in. So here it is.
+
+161
+00:14:41,518 --> 00:14:48,242
+Who is your favorite robot character from Marvel
+or DC, and why? Since the card game deals with
+
+162
+00:14:48,282 --> 00:14:52,345
+robots, we figured that this was an appropriate
+question, and we're really curious to hear
+
+163
+00:14:52,365 --> 00:14:57,288
+your guys' answer. Record your answer at dynamicduel.com
+by clicking on the red microphone button in
+
+164
+00:14:57,308 --> 00:15:01,131
+the bottom right hand corner of the screen,
+which will prompt you to leave us a voicemail.
+
+165
+00:15:01,431 --> 00:15:05,034
+Your message could be up to 30 seconds long,
+and don't forget to leave your name in case
+
+166
+00:15:05,054 --> 00:15:09,377
+we include you on the podcast. We'll pick our
+favorite answer, and award that person a Dynamic
+
+167
+00:15:09,417 --> 00:15:14,166
+Duel No Prize. that we'll post to Instagram
+and our email newsletter. Be sure to answer
+
+168
+00:15:14,206 --> 00:15:15,893
+before August 26th.
+
+169
+00:15:23,278 --> 00:15:26,906
+Now let's go ahead and move on to the main event
+of this episode where we review the latest
+
+170
+00:15:27,046 --> 00:15:29,853
+DC film to hit theaters, Blue Beetle.
+
+171
+00:15:44,898 --> 00:15:51,344
+Alright, Blue Beetle is the latest film to come
+out from DC Studios. It was directed by Angel
+
+172
+00:15:51,384 --> 00:15:58,771
+Manuel Soto and stars Sholo Mariduña of Korokai
+fame as the title character. The film was originally
+
+173
+00:15:58,811 --> 00:16:04,896
+supposed to be released as an HBO Max exclusive,
+but was switched to a theatrical release just
+
+174
+00:16:04,936 --> 00:16:10,161
+before Discovery and Warner Bros. merged and
+filming began. Depending on who you ask...
+
+175
+00:16:10,662 --> 00:16:16,946
+Either this film or the upcoming Superman Legacy
+is the first film in the new DC universe shepherded
+
+176
+00:16:17,206 --> 00:16:23,390
+by DC Studios co-head James Gunn. This film
+is produced by Peter Safran, the other co-head
+
+177
+00:16:23,430 --> 00:16:29,395
+of DC Studios, so depending on this film's box
+office success, I can see this film kicking
+
+178
+00:16:29,515 --> 00:16:35,479
+off the new universe. And it's not a terrible
+film to kick off said new universe. If people
+
+179
+00:16:35,519 --> 00:16:40,810
+were looking for an MCU tonal approach to the
+new DC universe, then they'd have a hard time
+
+180
+00:16:40,830 --> 00:16:47,194
+finding a more Marvel-esque film than Blue Beetle,
+for better or worse. The film and title character
+
+181
+00:16:47,254 --> 00:16:53,317
+borrow quite a bit from Marvel, I'd say. It's
+funny and action-packed with heartfelt moments
+
+182
+00:16:53,398 --> 00:16:58,821
+and a charismatic lead. If you haven't seen
+the film yet, I strongly encourage you to see
+
+183
+00:16:58,861 --> 00:17:05,064
+it in theaters if the fun MCU films of the past
+are your thing. And definitely see it before
+
+184
+00:17:05,104 --> 00:17:10,764
+listening to this spoiler review. I'm interested
+in hearing how much you think that this film
+
+185
+00:17:10,784 --> 00:17:15,948
+was inspired by Marvel's films, especially given
+how much you enjoy it, which makes me think
+
+186
+00:17:15,988 --> 00:17:21,793
+that you just really love Marvel now. If this
+film is indeed inspired by Marvel's films,
+
+187
+00:17:21,873 --> 00:17:26,537
+I would say it's inspired by the lesser side
+of Marvel that we don't like to talk about,
+
+188
+00:17:26,737 --> 00:17:31,821
+the side that produced Ant-Man, Quantum Mania
+and Thor, Love and Thunder. No, no, I'm thinking
+
+189
+00:17:31,901 --> 00:17:37,245
+more like... Iron Man, Black Panther, that kind
+of thing. You're out of your fucking mind.
+
+190
+00:17:37,746 --> 00:17:42,329
+If you think that this film could compare to
+those because it can't. It was a fine effort.
+
+191
+00:17:42,429 --> 00:17:47,734
+I don't think it was exceptional like the first
+Black Panther or Iron Man films. Well, I guess
+
+192
+00:17:47,774 --> 00:17:51,877
+this is the first of many times. I'll just be
+saying to you during the course of this review.
+
+193
+00:17:52,397 --> 00:18:00,364
+Haters going to hate. So, Joseph, you got to
+see this film a day before me. And though you
+
+194
+00:18:00,524 --> 00:18:05,727
+threaten to spoil everything, The only thing
+you really told me before I saw it was that
+
+195
+00:18:05,747 --> 00:18:11,371
+the film was exactly what I was going to expect
+it to be. And that's pretty accurate. I haven't
+
+196
+00:18:11,491 --> 00:18:16,894
+read too many Blue Beetle comics, honestly,
+but I did read the character's title up until
+
+197
+00:18:16,935 --> 00:18:22,338
+about a year after the introduction of Jaime
+Reyes during DC Comics Infinite Crisis event.
+
+198
+00:18:22,798 --> 00:18:30,043
+The comic title was known for its humor, action,
+badass tech design. and unapologetically showing
+
+199
+00:18:30,103 --> 00:18:36,708
+Jaime Reyes' strong cultural Latin upbringing.
+I was expecting the film to match the comic
+
+200
+00:18:36,789 --> 00:18:42,193
+that made the character fairly popular, and
+I'm happy to say that it did. The movie is
+
+201
+00:18:42,353 --> 00:18:48,598
+a nearly perfect adaptation of the Blue Beetle
+comics. As we see in the movie, Jaime Reyes
+
+202
+00:18:48,638 --> 00:18:53,662
+took over the mantle of Blue Beetle from the
+character Ted Kord as part of a push from DC
+
+203
+00:18:53,702 --> 00:19:00,572
+Comics to create more diverse and relatable
+characters. Relatability is usually more associated
+
+204
+00:19:00,612 --> 00:19:06,236
+with Marvel characters, as DC's heroes tend
+to be more aspirational, but part of Jaime's
+
+205
+00:19:06,296 --> 00:19:11,941
+appeal is that it's easy to relate to him and
+his experiences with his ethnically diverse
+
+206
+00:19:12,001 --> 00:19:18,026
+family. And sure enough, family was a major
+component of this film, more so than most other
+
+207
+00:19:18,086 --> 00:19:22,390
+superhero movies. Yeah, I think it's really
+easy to relate to Jaime, especially if you
+
+208
+00:19:22,430 --> 00:19:29,634
+come from a Latino background. Which you and
+I do. this character is due to his relatability
+
+209
+00:19:29,674 --> 00:19:34,215
+considering that, like you said, it's a trademark
+of Marvel characters as opposed to DC which
+
+210
+00:19:34,235 --> 00:19:39,297
+seemed to be a little bit more iconic and larger
+than life and archetypical, not so relatable.
+
+211
+00:19:40,097 --> 00:19:44,378
+So basically, what you're telling me is that
+you have a essentially Marvel character in
+
+212
+00:19:44,418 --> 00:19:50,080
+an essentially Marvel film and that you loved
+it and that you're calling me a hater. If this
+
+213
+00:19:50,100 --> 00:19:54,081
+was a Marvel film, honestly, it wouldn't be
+one of my favorites. I would consider it one
+
+214
+00:19:54,121 --> 00:19:59,814
+of its lesser entries in MCU. To which I could
+only reply, haters gonna hate. Here it comes.
+
+215
+00:19:59,854 --> 00:20:04,016
+Alright, we're gonna hear that over and over
+again. Let's get into why you liked it and
+
+216
+00:20:04,056 --> 00:20:07,937
+why I thought it was okay. Well, I think the
+biggest appeal of the film to me and part of
+
+217
+00:20:07,977 --> 00:20:13,118
+the appeal of Jaime Reyes as Blue Beetle in
+general is that the character is just so damn
+
+218
+00:20:13,238 --> 00:20:19,000
+cool. I mentioned that he borrows quite a bit
+from Marvel and I'd say that if someone described
+
+219
+00:20:19,060 --> 00:20:24,421
+the character as a mixture between Iron Man,
+Venom, Black Panther, and Miles Morales as
+
+220
+00:20:25,582 --> 00:20:31,967
+would be a damn good description. One's cool
+factor is very subjective, but I describe each
+
+221
+00:20:32,007 --> 00:20:38,572
+of those Marvel characters as cool, and Jaime
+himself may just be the coolest superhero in
+
+222
+00:20:38,652 --> 00:20:45,538
+existence in my opinion, particularly on film
+as we get to see all of the blue electricity
+
+223
+00:20:45,858 --> 00:20:51,122
+and neon glow, the buster swords, and the plasma
+cannons. If this movie came out when I was
+
+224
+00:20:51,243 --> 00:20:56,679
+9 or 10, I'd have thought it was the best movie
+that had ever been made. Like five stars, no
+
+225
+00:20:56,719 --> 00:21:01,682
+question. Yeah, I definitely agree that it would
+appeal to eight year olds and nine year olds.
+
+226
+00:21:02,142 --> 00:21:06,546
+I think you're correct in that the visual effects
+and the action were probably the best things
+
+227
+00:21:06,726 --> 00:21:11,269
+about this movie. They were mind blowing, honestly.
+It's incredible how much better the visual
+
+228
+00:21:11,289 --> 00:21:17,713
+effects were here than in the recent Flash movie.
+I was legit terrified that like everything
+
+229
+00:21:17,753 --> 00:21:22,917
+we saw from the trailers was going to be the
+only good CG in the movie and that everything
+
+230
+00:21:22,977 --> 00:21:27,911
+else was just going to be. complete like uncanny
+valley weirdness like the Flash was. Thankfully
+
+231
+00:21:27,931 --> 00:21:34,374
+that was not the case. Now as an adult, as a
+Hispanic adult fan in particular, there was
+
+232
+00:21:34,414 --> 00:21:40,316
+a lot to enjoy with this film. I thought the
+story was fun, the action was awesome, and
+
+233
+00:21:40,336 --> 00:21:46,939
+the humor was decent. It does get juvenile at
+times, but I described the humor in the comics
+
+234
+00:21:47,139 --> 00:21:53,038
+the same way. Like Jaime may not be a juvenile
+in the movie like he is in the comics. But
+
+235
+00:21:53,078 --> 00:21:58,061
+he's not far off, and for a family film, it's
+not uncommon to come across jokes like the
+
+236
+00:21:58,102 --> 00:22:02,645
+Bugship's fart spray. The humor was a little
+bit cheesier than I would have liked it to
+
+237
+00:22:02,665 --> 00:22:07,969
+have been. Very reminiscent of the style of
+humor that we'd get in family action movies
+
+238
+00:22:08,009 --> 00:22:11,932
+from the 90s or something like that. You know,
+very harking back to that time. There were
+
+239
+00:22:12,012 --> 00:22:16,996
+some jokes that definitely landed for me, especially
+coming from George Lopez, who is a comedic
+
+240
+00:22:17,276 --> 00:22:21,980
+legend. That guy is so funny. And I was really
+iffy going into the film on what I would think
+
+241
+00:22:22,020 --> 00:22:27,425
+about his character. But he really carried the
+film outside of the cool action beats and visual
+
+242
+00:22:27,465 --> 00:22:32,509
+effects stuff. My favorite joke in the whole
+movie came from him. Wayne Hyman was like,
+
+243
+00:22:32,869 --> 00:22:39,295
+it's inside me. And George Lopez is like, it
+went up his ass. But in Spanish. Yeah, there
+
+244
+00:22:39,315 --> 00:22:42,737
+are a lot of Spanish curse words on this. I
+was actually surprised that it got away with
+
+245
+00:22:42,757 --> 00:22:49,522
+the PG-13 rating. Holy shit. Right. Yeah. So
+much of the movie. that's subtitled from Spanish,
+
+246
+00:22:49,602 --> 00:22:54,083
+those subtitles are not quite accurate as to
+what's actually being said. I remember towards
+
+247
+00:22:54,103 --> 00:22:59,025
+the end of the film, Jaime's mom essentially
+says in Spanish, like, go kill those motherfuckers.
+
+248
+00:22:59,445 --> 00:23:05,366
+But in the subtitles, it was like, go kick their
+asses. And I was like, oh damn. Yeah, that
+
+249
+00:23:05,386 --> 00:23:09,707
+was pretty amusing. I guess I'm a little bit
+surprised though that you found the movie as
+
+250
+00:23:09,727 --> 00:23:15,509
+amusing as you did, considering that you dislike
+cheesy humor even more than I do. So I just
+
+251
+00:23:15,529 --> 00:23:20,796
+feel like you're just being biased. toward this
+film because it has a DC logo on it. You know,
+
+252
+00:23:21,156 --> 00:23:26,240
+that's fair to call me out on that because I
+don't enjoy cheesy humor. I think it was the
+
+253
+00:23:26,280 --> 00:23:32,304
+environment. I went to go see this movie in
+a theater that I usually don't. It's situated
+
+254
+00:23:32,364 --> 00:23:37,608
+in a largely Hispanic neighborhood and everyone
+was just laughing the whole time. And I saw
+
+255
+00:23:37,628 --> 00:23:41,370
+it with my family who was also Hispanic and
+all of them were laughing as well. I couldn't
+
+256
+00:23:41,410 --> 00:23:45,773
+help myself. That may be why I just had such
+a good time with this movie and the humor.
+
+257
+00:23:46,346 --> 00:23:51,650
+So what you're saying is you lost all objectivity.
+It's really hard in a theater where everyone's
+
+258
+00:23:51,690 --> 00:23:57,135
+laughing not to laugh. OK, I could see where
+you would say that the humor was juvenile.
+
+259
+00:23:57,175 --> 00:24:01,819
+But again, the comics are juvenile. The comics
+are always making like inappropriate, like
+
+260
+00:24:01,920 --> 00:24:07,104
+puberty jokes and stuff like that. So it's on
+brand for the character. All right. I also
+
+261
+00:24:07,164 --> 00:24:10,968
+love that you're clutching your pearls at these
+jokes when you make like jokes about taking
+
+262
+00:24:11,008 --> 00:24:17,835
+a shit like at least twice a week. I'm just
+saying that cheese isn't my favorite style
+
+263
+00:24:17,875 --> 00:24:22,176
+of humor. That's fine. That's fine. And you're
+a hypocrite for enjoying the humor in this
+
+264
+00:24:22,216 --> 00:24:26,378
+movie. You wouldn't give any other film that
+kind of leeway. To which I could only say,
+
+265
+00:24:26,778 --> 00:24:32,701
+hypocrite's gonna hypocrite. I don't know. I
+don't know how else to respond. I enjoyed it.
+
+266
+00:24:33,001 --> 00:24:37,783
+Sue me. One of the things in particular that
+was interesting to me in this film was how
+
+267
+00:24:37,883 --> 00:24:43,962
+well the filmmakers blended like the humorous
+family tone with the adult's edge. Like you
+
+268
+00:24:43,982 --> 00:24:49,665
+had scenes like the fart spray, but 30 seconds
+earlier, you had the bug ship impaling an enemy
+
+269
+00:24:49,705 --> 00:24:56,089
+soldier with one of its legs, which is a little
+violent. I think the film definitely harkened
+
+270
+00:24:56,149 --> 00:25:01,632
+back to a time when family films were a touch
+darker, like in the 80s and 90s, like the Dark
+
+271
+00:25:01,672 --> 00:25:08,056
+Crystal, like the Goonies, like Temple of Doom,
+things like that. One non-family film from
+
+272
+00:25:08,096 --> 00:25:13,587
+that era that I think influenced this film in
+terms of its minuscule amount of body horror
+
+273
+00:25:13,907 --> 00:25:20,491
+and definitely its villain's plan is Robocop.
+The stakes are basically the same in that this
+
+274
+00:25:20,551 --> 00:25:26,534
+corporate tech giant run by the world's biggest
+douche is planning on creating an unstoppable
+
+275
+00:25:26,594 --> 00:25:32,557
+technological security force that will be under
+its control. The film doesn't do a great job
+
+276
+00:25:32,617 --> 00:25:38,221
+of enforcing the stakes and explaining what
+will happen if Victoria Cord's plan succeeds.
+
+277
+00:25:38,801 --> 00:25:45,140
+It focuses so much on Jaime's early superhero
+career that we don't see him save anyone but
+
+278
+00:25:45,200 --> 00:25:50,742
+his family. And that's fine. You know, Jaime
+has only had the scarab for two days in the
+
+279
+00:25:50,802 --> 00:25:56,044
+film, and because his family is such a big part
+of his life, it makes sense that his personal
+
+280
+00:25:56,144 --> 00:26:01,387
+stakes would be hyper-focused on saving his
+family. But because it's so hyper-focused,
+
+281
+00:26:01,547 --> 00:26:06,289
+it weakened the primary antagonist. For sure.
+One of the biggest gripes I have about this
+
+282
+00:26:06,349 --> 00:26:11,895
+movie is that it feels overly d- generic, a
+lot of the things that we saw in this movie
+
+283
+00:26:12,095 --> 00:26:16,877
+we've seen before and done maybe a little bit
+better, including the family aspect of this
+
+284
+00:26:16,917 --> 00:26:21,920
+movie. You know, I think I said on the Discord
+that the whole strength in family theme was
+
+285
+00:26:21,960 --> 00:26:27,342
+done incredibly in the Shazam film, and we've
+also seen more mature complex takes on the
+
+286
+00:26:27,362 --> 00:26:32,225
+family dynamic in films like Black Panther and
+Shang-Chi. But I guess the one thing that this
+
+287
+00:26:32,265 --> 00:26:35,950
+film has going for it that those other films
+don't that kind of give Blue Beetle its own
+
+288
+00:26:35,970 --> 00:26:41,311
+voice is the Latino culture aspect. Outside
+of the action and visual effects, I think that
+
+289
+00:26:41,331 --> 00:26:45,513
+was the film's strongest suit because it was
+a lot of fun to watch. Palmera City felt like
+
+290
+00:26:45,533 --> 00:26:52,715
+this wonderful amalgam of Los Angeles and Miami.
+It was pretty cool. Yeah, Palmera City was
+
+291
+00:26:52,895 --> 00:26:57,096
+very well realized, I thought. I don't know
+if I would agree with you though that other
+
+292
+00:26:57,136 --> 00:27:03,197
+superhero films have done the family angle stronger.
+I think that's sort of confusing conflict with
+
+293
+00:27:03,237 --> 00:27:08,116
+theme. There was still a very strong theme of
+family here, and just because there was less
+
+294
+00:27:08,236 --> 00:27:13,939
+conflict with the family doesn't mean that it
+was not strong. Going back to the stakes of
+
+295
+00:27:13,979 --> 00:27:19,342
+the film, usually it doesn't help when the main
+character can seemingly do anything. Blue Beetle
+
+296
+00:27:19,382 --> 00:27:24,785
+has all of the powers, but I will say that they
+did a good job prior to the final act when
+
+297
+00:27:24,825 --> 00:27:30,389
+Blue Beetle and the scarab Kajira fully bond,
+of limiting Kaime's control over the suit,
+
+298
+00:27:30,649 --> 00:27:35,432
+which is straight out of the comics. and brought
+some danger to the character earlier in the
+
+299
+00:27:35,452 --> 00:27:40,455
+film. Yeah, that was fantastic. It's not often
+that we see a hero unable to control their
+
+300
+00:27:40,495 --> 00:27:45,139
+powers in this way. It was definitely a unique
+take that I thought was quite fascinating.
+
+301
+00:27:45,599 --> 00:27:50,262
+It does make me wonder, though, how they're
+going to proceed with this character in future
+
+302
+00:27:50,302 --> 00:27:55,114
+films now that he's seemingly in full control
+of his powers and able to do anything. I do
+
+303
+00:27:55,154 --> 00:27:59,278
+feel like if they make a sequel to this, like
+the villain is going to have to affect the
+
+304
+00:27:59,338 --> 00:28:04,563
+scarab in some way so that Jaime loses some
+control over it because the dude is OP. Yeah,
+
+305
+00:28:04,583 --> 00:28:09,648
+he's pretty strong. I could totally see now
+why the results of the dual episode we had
+
+306
+00:28:09,728 --> 00:28:13,752
+where we pit Blue Beetle against Spider-Man
+went the way they did. I still feel kind of
+
+307
+00:28:13,772 --> 00:28:18,297
+bad tricking you into that one because I knew
+that Blue Beetle was going to stop, but we
+
+308
+00:28:18,317 --> 00:28:23,187
+went with it anyway. Now I mentioned that the
+film felt very like 90s to me, and maybe some
+
+309
+00:28:23,227 --> 00:28:29,190
+of it had to do with the saturated color palette,
+but I think most of it was the score. I loved
+
+310
+00:28:29,330 --> 00:28:34,332
+the score for this movie with its synthesizer.
+It sounded appropriately alien and technological
+
+311
+00:28:34,392 --> 00:28:38,373
+and badass. I thought it was perfect. Well,
+yeah, the auditory landscape for this film
+
+312
+00:28:38,393 --> 00:28:43,235
+was kind of fascinating. The synth made it feel,
+you know, like early 90s, late 80s. The songs
+
+313
+00:28:43,275 --> 00:28:48,718
+that they chose for the soundtrack were appropriate
+throwbacks to the same era, both within American
+
+314
+00:28:48,758 --> 00:28:54,600
+culture and Hispanic culture, even pop culture
+references like El Chapulín Colorado, harken
+
+315
+00:28:54,620 --> 00:28:59,462
+back to decades past because I feel like I haven't
+seen that character in ages. Oh yeah, dude,
+
+316
+00:28:59,482 --> 00:29:03,324
+Dad was just cracking up during those scenes
+because he used to watch that character as
+
+317
+00:29:03,344 --> 00:29:08,446
+a kid. And there's definitely some similarities
+between El Chapulín Colorado, which essentially
+
+318
+00:29:08,486 --> 00:29:13,248
+translates to the reddish cricket or the cherry
+cricket and blue beetle. They're both like
+
+319
+00:29:13,588 --> 00:29:20,095
+a color and a bug. It's kind of amusing. The
+whole film definitely like spans a broad spectrum
+
+320
+00:29:20,436 --> 00:29:25,618
+of Latin culture. Like you mentioned, even with
+music, there's everything from reggaeton to
+
+321
+00:29:25,658 --> 00:29:30,621
+like old mariachi songs, Los Pancho songs. It
+was great to hear. And maybe a lot of deep
+
+322
+00:29:30,661 --> 00:29:35,544
+cuts to like the telenovela reference. Maria
+de la Barrio. Right. I didn't even know what
+
+323
+00:29:35,564 --> 00:29:39,666
+that was, honestly. Mom recognized that she
+used to watch that at her grandmother's house
+
+324
+00:29:39,686 --> 00:29:43,988
+when she was younger, I guess. Interesting.
+All the cultural references aside, the heart
+
+325
+00:29:44,028 --> 00:29:48,750
+of this film is in its characters. So let's
+talk about them in the character breakdown.
+
+326
+00:29:49,071 --> 00:29:55,053
+Now Blue Beetle, AKA Jaime Reyes, was played
+by Sholo Mariduña, and he's perfect as the
+
+327
+00:29:55,093 --> 00:30:00,055
+character. I thought they were going to make
+him a young high schooler in the movie, but
+
+328
+00:30:00,115 --> 00:30:05,017
+that probably would have felt pretty Cobra Kai,
+and making him a recent college graduate fit
+
+329
+00:30:05,037 --> 00:30:09,799
+the overall themes of purpose and destiny in
+the film pretty well. I mean, as far as I'm
+
+330
+00:30:09,839 --> 00:30:14,701
+concerned, Sholo Mariduña was born to play this
+role. He fit the character really well. I'd
+
+331
+00:30:14,761 --> 00:30:19,807
+never really seen him in anything because I
+never watched Cobra Kai, but the dude is definitely
+
+332
+00:30:19,867 --> 00:30:24,909
+poised to become a big star, I think. I hope
+so. Yeah, he deserves it. He's great. He's
+
+333
+00:30:24,929 --> 00:30:30,032
+fantastic. He's essentially the star of Cobra
+Kai, I would argue. So yeah, he definitely
+
+334
+00:30:30,172 --> 00:30:35,114
+is a star in the making for film. Yeah, a lot
+of charisma, hits all the right emotional beats,
+
+335
+00:30:35,434 --> 00:30:39,296
+and is a fantastic fighter, apparently. The
+fight scenes in this movie were incredible.
+
+336
+00:30:39,576 --> 00:30:43,802
+And I didn't think they would be so hand-to-hand
+given the nature of Blue Beetle's powers. but
+
+337
+00:30:43,822 --> 00:30:47,844
+they managed to work in, show those martial
+arts skills, and really well here too. Yeah,
+
+338
+00:30:47,884 --> 00:30:52,827
+seamlessly. It was great. Now, Heimer returns
+home from college, unsure how to help his struggling
+
+339
+00:30:52,887 --> 00:30:58,710
+family, but feeling a responsibility to do so.
+He struggles with his purpose, as does his
+
+340
+00:30:58,890 --> 00:31:03,973
+aged father, revealed in a heartfelt scene of
+encouragement and relatability, though as his
+
+341
+00:31:03,993 --> 00:31:09,776
+kind father explained to him, whatever happens,
+at least the family can face it together. That's
+
+342
+00:31:09,816 --> 00:31:15,076
+sort of the central crux of the film. Haima
+ends up seemingly in this horrifying situation
+
+343
+00:31:15,416 --> 00:31:21,120
+with the unwanted parasitic and alien scarab
+attached to him for life, but by the end he
+
+344
+00:31:21,140 --> 00:31:26,084
+is encouraged by the spirit of his father to
+embrace the hand that has been dealt to him
+
+345
+00:31:26,444 --> 00:31:32,749
+and make the most of it to be a superhero and
+save his family. It's a very mature and relatable
+
+346
+00:31:32,789 --> 00:31:38,273
+theme, after all, who among us doesn't question
+their purpose in life? And I think for many,
+
+347
+00:31:38,710 --> 00:31:44,534
+purposes found in overcoming hardship and taking
+responsibility. Honestly, anything really dealing
+
+348
+00:31:44,634 --> 00:31:49,698
+with Jaime Reyes and the Blue Beetle character
+in this movie was pretty flawless. I think
+
+349
+00:31:49,718 --> 00:31:54,501
+the fans of the character are going to be over
+the moon with his portrayal here. Oh yeah,
+
+350
+00:31:54,521 --> 00:32:00,325
+I mean I know I was. Honestly, my hope with
+how cool the suit and the character's powers
+
+351
+00:32:00,445 --> 00:32:05,229
+are, but also with how relatable the character
+is with his family, I hope that Blue Beetle
+
+352
+00:32:05,249 --> 00:32:10,841
+will become the favorite superhero of millions
+of little boys across the planet. And I think
+
+353
+00:32:10,881 --> 00:32:16,306
+he will, particularly in Latin countries. I'm
+dying to see what this film's worldwide box
+
+354
+00:32:16,366 --> 00:32:20,590
+office take is going to be. It's not going to
+be high because it's underperforming, but it
+
+355
+00:32:20,610 --> 00:32:25,594
+might be domestically. Yes. But what's the worldwide
+total going to be? It's probably still going
+
+356
+00:32:25,614 --> 00:32:30,918
+to underperform because it's D.C. and nobody
+likes D.C. But I do see it maybe becoming like
+
+357
+00:32:30,958 --> 00:32:36,427
+a cult favorite down the line. Fingers crossed.
+That would be awesome. Moving on to Jenny Cord,
+
+358
+00:32:36,487 --> 00:32:42,372
+she was played by Bruna Marchesine, and she
+does a good job as Jenny, even though most
+
+359
+00:32:42,412 --> 00:32:47,956
+of the film I kept asking myself, why is she
+in the movie? And not because I thought she
+
+360
+00:32:47,996 --> 00:32:54,202
+was an unnecessary character, but because as
+far as I'm aware, she was created for the film.
+
+361
+00:32:54,622 --> 00:32:58,866
+By the end, I was actually glad they introduced
+her in the movie, not only because she was
+
+362
+00:32:58,906 --> 00:33:05,126
+a great love interest for Jaime, but also because
+she became Jaime's connection. to Ted and Victoria
+
+363
+00:33:05,166 --> 00:33:10,690
+Cord and also the one who really understood
+the stakes of Victoria's plan. Blue Beetle
+
+364
+00:33:10,750 --> 00:33:16,434
+is a legacy character, but the legacy in the
+film really revolves around Jenny and the Cord
+
+365
+00:33:16,554 --> 00:33:21,898
+name. I'm actually really glad she was included
+in this film because I think without her, it
+
+366
+00:33:21,918 --> 00:33:27,382
+would have seemed like the movie was making
+a statement regarding class and race dynamics
+
+367
+00:33:27,462 --> 00:33:32,705
+where every single Hispanic character is treated
+as almost like an oppressed second-class person.
+
+368
+00:33:33,174 --> 00:33:38,816
+by having this rich, affluent Hispanic person
+in the film, they were able to avoid that problem.
+
+369
+00:33:39,216 --> 00:33:43,498
+Yeah, that's true. I didn't even think about
+that, but that's, yeah, 100% true. I especially
+
+370
+00:33:43,538 --> 00:33:48,480
+came around on the character of Jenny after
+I saw the film and saw some speculation amongst
+
+371
+00:33:48,520 --> 00:33:53,822
+our patrons in our Discord chat server that
+because Jenny is part Brazilian, that could
+
+372
+00:33:53,862 --> 00:34:00,025
+mean her mother is Beatriz da Costa, the superhero
+known as Fire, and a former teammate of Ted
+
+373
+00:34:00,065 --> 00:34:05,983
+Kord on the Justice League. I love that idea
+and I want Jenny to inherit her mother's powers
+
+374
+00:34:06,283 --> 00:34:11,184
+in the next film. But did Fire and Ted Kord's
+Blue Beetle have a romantic relationship in
+
+375
+00:34:11,204 --> 00:34:17,106
+the comics? Dude, Fire flirted with everyone.
+She's Brazilian. The fuck is that supposed
+
+376
+00:34:17,126 --> 00:34:24,488
+to mean? Brazilians are like some of the sexiest
+people on the planet. They know it. We learn
+
+377
+00:34:24,508 --> 00:34:29,429
+a little about Jenny's mother in the film during
+a scene that really sets up Jenny's emotional
+
+378
+00:34:29,569 --> 00:34:36,047
+arc. She longs for her family. and for a family,
+and she really admires how close Jamie is with
+
+379
+00:34:36,087 --> 00:34:41,689
+his. By the end, she's accepted into the Reyes
+family, even though she's pretty much responsible
+
+380
+00:34:42,029 --> 00:34:46,330
+for everything bad that happened to them. They
+didn't seem to see it that way though, and
+
+381
+00:34:46,350 --> 00:34:50,952
+she definitely helped them recover some of what
+they lost at the end, specifically their home
+
+382
+00:34:51,312 --> 00:34:56,198
+and Rudy's truck, so that was nice. Yeah, they
+kind of looked out there. The early conflict
+
+383
+00:34:56,238 --> 00:35:00,601
+of the movie is that the family is losing their
+home due to their poverty. And the issue never
+
+384
+00:35:00,641 --> 00:35:05,063
+really gets addressed until that 11th hour scene
+at the end of the movie where she's like, oh
+
+385
+00:35:05,263 --> 00:35:09,626
+yeah, I'm gonna buy the house and the community
+is gonna come together. I thought the community
+
+386
+00:35:09,646 --> 00:35:14,069
+was gonna come back to help them rebuild the
+house, but they just, you know, had a fucking
+
+387
+00:35:14,109 --> 00:35:20,293
+barbecue, which didn't really help anything.
+So yeah, fortunately Jenny was there. Yeah,
+
+388
+00:35:20,413 --> 00:35:24,439
+that's right. Well, I mean, like. The issue
+didn't really have time to be addressed because
+
+389
+00:35:24,479 --> 00:35:29,562
+the whole film only takes place over the course
+of, what, three days? So, yeah, I mean, if
+
+390
+00:35:29,622 --> 00:35:33,124
+it took place over a long period of time, things
+would have played out differently for sure.
+
+391
+00:35:33,484 --> 00:35:40,147
+Moving on to Cesar Rudy Reyes, he's played by
+George Lopez. He's not one of my favorite comedians.
+
+392
+00:35:40,207 --> 00:35:44,530
+I mean, he's decent. I thought he was going
+to be just so-so in this film, but like you,
+
+393
+00:35:44,550 --> 00:35:49,453
+I'm actually really glad he was in it because
+I thought he did a terrific job as Rudy and
+
+394
+00:35:49,493 --> 00:35:54,660
+was responsible for some of the film's most
+successful humor. I love George Lopez. I think
+
+395
+00:35:54,680 --> 00:35:59,242
+he's one of the most hilarious comedians ever.
+He definitely played the character of Rudy
+
+396
+00:35:59,843 --> 00:36:04,766
+as such a character. You know, he's paranoid
+about the government and core to industry's
+
+397
+00:36:04,806 --> 00:36:10,990
+technology. He was a real help to Jaime and
+everyone, not only in handling technology like
+
+398
+00:36:11,030 --> 00:36:17,726
+the bug ship, but also in inventing his own
+tech and maximizing his truck taco, which I
+
+399
+00:36:17,766 --> 00:36:21,549
+actually got a lot more laughs than I thought
+it would. Like they really milked that thing,
+
+400
+00:36:21,589 --> 00:36:27,934
+but in a good way. I just love hearing George
+Lopez scream, die taco. Just his screaming
+
+401
+00:36:27,994 --> 00:36:32,397
+is fantastic. It's just so funny. It's really
+good. You're right. He was such a character,
+
+402
+00:36:32,417 --> 00:36:36,560
+they could almost give him his own show. I just
+thought George Lopez was going to play him
+
+403
+00:36:36,600 --> 00:36:42,425
+like George Lopez. But I would say this is probably
+George Lopez's best acting job that I've ever
+
+404
+00:36:42,505 --> 00:36:46,511
+personally seen. Yeah, I would agree with that
+even outside of the comedic bits, you know,
+
+405
+00:36:46,711 --> 00:36:50,292
+the parts where he actually had heart to heart
+talks with Jaime. I thought we're really well
+
+406
+00:36:50,312 --> 00:36:56,255
+done. Yeah, there was a pretty touching scene
+with Rudy and Jaime on top of the court mansion
+
+407
+00:36:56,755 --> 00:37:00,977
+when Rudy describes himself as basically like
+a loser who sleeps on his brother's living
+
+408
+00:37:01,017 --> 00:37:06,059
+room couch. But when Jaime tells him that he's
+never seen him like that, that he's always
+
+409
+00:37:06,079 --> 00:37:11,581
+seen his uncle as this badass, there was just
+something like truly special and loving and
+
+410
+00:37:11,601 --> 00:37:18,318
+empowering. Not just about family, but non-judgmental
+family in particular. And you could see that
+
+411
+00:37:18,358 --> 00:37:24,442
+love in the performances of both Sholo and George
+Lopez. Is Rudy from the comics? No, I don't
+
+412
+00:37:24,462 --> 00:37:29,626
+believe he is. Jaime has an aunt, but I don't
+think, as far as I'm aware, that we ever see
+
+413
+00:37:29,646 --> 00:37:35,510
+him with an uncle. I mean, Alberto Milagro,
+Jaime's mom, are in the comics, although his
+
+414
+00:37:35,550 --> 00:37:39,773
+mom has a different name. Her name is Bianca
+in the comic, and in the movie her name is
+
+415
+00:37:39,953 --> 00:37:45,207
+Rocio. But yeah, Rudy is an original character.
+I was hoping to get some kind of explanation
+
+416
+00:37:45,267 --> 00:37:50,310
+as to who the hell this guy is and why he's
+so good at building random technology and where
+
+417
+00:37:50,350 --> 00:37:55,272
+that came from. And yeah, he seems like a character
+that would be rooted in the comics. I'm sure
+
+418
+00:37:55,312 --> 00:38:00,494
+he will be after this movie. I'd be surprised
+if he wasn't. Moving on to the rest of Jaime's
+
+419
+00:38:00,534 --> 00:38:05,796
+family, I don't have much to say about each
+of them. I think the standout is Milagro, his
+
+420
+00:38:05,836 --> 00:38:11,819
+sister. She was played by Belisa Escobedo. I
+thought she did a great job here, and like
+
+421
+00:38:11,859 --> 00:38:17,662
+George Lopez brought a lot of humor to the film.
+Her snarkiness makes her a good foil for both
+
+422
+00:38:17,682 --> 00:38:23,025
+Jaime and Jenny, but in spite of her attitude,
+you never question her loyalty to her brother
+
+423
+00:38:23,125 --> 00:38:28,848
+or her family. I thought the father was a standout
+as well. Oh, Alberto? He was played by Damien
+
+424
+00:38:28,948 --> 00:38:33,651
+Alcazar. Yeah, he tied in heavily to the themes
+of Purpose and Destiny. It was interesting
+
+425
+00:38:33,871 --> 00:38:39,894
+to see him at the end kind of state that he
+realized his purpose posthumously. was to be
+
+426
+00:38:39,934 --> 00:38:45,058
+there and provide strength for Jaime in his
+moment of need. That scene almost broke me
+
+427
+00:38:45,099 --> 00:38:50,623
+in the theater. I didn't cry, but I was really
+close. That was such a beautiful scene. I don't
+
+428
+00:38:50,643 --> 00:38:54,466
+have too much to say about the mother, but of
+course I think one of the standout characters
+
+429
+00:38:54,506 --> 00:38:59,891
+of the film as a whole was Nana. Not necessarily
+in a positive way for me personally at least.
+
+430
+00:39:00,531 --> 00:39:05,756
+I have other family members who loved her, but
+I think the joke of her being like this badass
+
+431
+00:39:05,796 --> 00:39:10,739
+revolutionary who could wield a gatling gun.
+was beating a dead horse. Yeah, it should have
+
+432
+00:39:10,759 --> 00:39:15,340
+been given one reference, kind of was like a
+wink and a nod, and then dropped entirely.
+
+433
+00:39:15,661 --> 00:39:20,082
+I think it would have actually been funnier
+that way. Absolutely. Moving on to the villains
+
+434
+00:39:20,142 --> 00:39:26,485
+of the film, Ignacio Carapaz was played by Raul
+Max Trujillo. He was an interesting character
+
+435
+00:39:26,725 --> 00:39:31,927
+somewhat, but only up until the very end. Like
+throughout the whole film, he has this weird
+
+436
+00:39:31,947 --> 00:39:38,102
+relationship with Victoria, but he's very stoic
+and quiet, something of a mystery. And he says
+
+437
+00:39:38,162 --> 00:39:43,644
+mysterious things like, your family makes you
+weak. So there's this hint of backstory there,
+
+438
+00:39:44,124 --> 00:39:49,347
+which we don't get until the very end, and I
+honestly felt that I was a cop out. I wish
+
+439
+00:39:49,367 --> 00:39:53,269
+they would have established early on that he
+suffered from memory loss, and I think that
+
+440
+00:39:53,289 --> 00:39:57,971
+would have made the end make a little bit more
+sense. Yeah, the character was too generic
+
+441
+00:39:58,011 --> 00:40:02,513
+for too long of a film to make him any sort
+of interesting villain. Too much of his character
+
+442
+00:40:02,553 --> 00:40:06,503
+building was done pretty much after the fact.
+Although it was an interesting story and it
+
+443
+00:40:06,523 --> 00:40:11,727
+seemed like the film was touching on injustices
+faced by Latin American countries at the hands
+
+444
+00:40:11,787 --> 00:40:16,750
+of the American military complex. Right. But
+it was kind of like shoehorned in there. Not
+
+445
+00:40:16,770 --> 00:40:21,233
+that the film needed to be about that, but overall
+the character building there was just too little
+
+446
+00:40:21,273 --> 00:40:26,797
+too late. I agree. I agree. Essentially, we
+learn at the very end that Carapax was a little
+
+447
+00:40:26,857 --> 00:40:32,301
+boy living in a rural Latin American country
+whose mom was the victim of a Cordo Industries
+
+448
+00:40:32,381 --> 00:40:36,835
+missile. I don't remember it being clear why
+his mom was bombed, and I'm not sure if it's
+
+449
+00:40:36,895 --> 00:40:42,636
+entirely necessary, but Victoria essentially
+abducts Ignacio as a little boy and performs
+
+450
+00:40:42,676 --> 00:40:48,318
+horrendous experiments on him that takes his
+arm and implants him with Ohmak tech. His entire
+
+451
+00:40:48,358 --> 00:40:53,719
+existence is a testament to Victoria Kord's
+evilness essentially, and it was pretty hardcore
+
+452
+00:40:53,739 --> 00:40:58,361
+how he was the one to give her comeuppets at
+the end by dragging her screaming into the
+
+453
+00:40:58,401 --> 00:41:04,890
+fire and blowing her and himself up. That was
+crazy. Is Caropax an OMAC? In the comics, no.
+
+454
+00:41:05,391 --> 00:41:10,492
+The OMAC is a very different thing in the comics,
+and I'm still not quite sure how I feel about
+
+455
+00:41:10,792 --> 00:41:17,294
+them using it in this movie. OMAC stands for
+One-Man Army Corps, and it was done really
+
+456
+00:41:17,374 --> 00:41:23,556
+well during Jaime Reyes' debut during the Infinite
+Crisis storyline, where the OMAC technology
+
+457
+00:41:23,916 --> 00:41:30,457
+was a nanovirus that was implanted in just random
+people across the planet as like sleeper cells.
+
+458
+00:41:31,018 --> 00:41:35,760
+It was very akin to like, Secret Invasion in
+a way. And of course it was done very different
+
+459
+00:41:35,820 --> 00:41:40,863
+here. Although I don't think you wouldn't be
+able to pick that back up in a later film as
+
+460
+00:41:40,903 --> 00:41:47,107
+a different version. In the comics, Kera Pax
+got his armor from Pago Island. The same island
+
+461
+00:41:47,127 --> 00:41:52,190
+where the fortress was at the end of this movie.
+It was an island owned by Jarvis Kord, Ted's
+
+462
+00:41:52,310 --> 00:41:57,953
+uncle, who was the one responsible for Dan Garrett's
+death. The original Blue Beetle. But speaking
+
+463
+00:41:57,993 --> 00:42:03,720
+of Jarvis Kord... Let's move on to Victoria
+Cord, who is played by Susan Sarandon. I want
+
+464
+00:42:03,740 --> 00:42:07,862
+to jump in right here and say that this is by
+far the worst performance I've ever seen Susan
+
+465
+00:42:07,903 --> 00:42:13,226
+Sarandon give. She was horrible in this movie.
+Good God, this villain sucked. I feel like
+
+466
+00:42:13,246 --> 00:42:17,988
+you're being a little harsh, but not by much.
+I mean, Susan Sarandon, she's a great actress.
+
+467
+00:42:18,468 --> 00:42:23,811
+I think she did a decent job with what was called
+for the character in the script. You know,
+
+468
+00:42:23,831 --> 00:42:28,738
+essentially, she was just supposed to be this
+corporate elitist and racist. who's more concerned
+
+469
+00:42:28,758 --> 00:42:33,882
+with money and her legacy than human lives.
+She wasn't supposed to be likable. It was a
+
+470
+00:42:33,942 --> 00:42:39,146
+very cold performance, though, especially in
+contrast to the more colorful cast. She was
+
+471
+00:42:39,186 --> 00:42:43,489
+so detached from everything, it felt like she
+was like reading cue cards and her approach
+
+472
+00:42:43,509 --> 00:42:48,953
+was to be as generic as possible. I didn't think
+it was that bad. It was bad. Not as bad as
+
+473
+00:42:48,993 --> 00:42:55,177
+you're describing it, though. I think she's
+still emoted. She still acted, you know. OK,
+
+474
+00:42:55,197 --> 00:42:59,659
+haters going to hate. We learned that Victoria
+helped start Corda Industries as a weapons
+
+475
+00:42:59,699 --> 00:43:04,743
+manufacturer with her father. Though when her
+father died, he left the company to Victoria's
+
+476
+00:43:04,783 --> 00:43:11,126
+brother, Ted. It's never made clear whether
+Victoria had some responsibility in Ted's disappearance,
+
+477
+00:43:11,487 --> 00:43:16,630
+though I'm guessing it had more to do with his
+adventures as Blue Beetle than her. But regardless,
+
+478
+00:43:16,890 --> 00:43:21,853
+Victoria makes the most of Ted's absence and
+steers the direction of the company back to
+
+479
+00:43:21,873 --> 00:43:27,497
+the weapons industry. with the intent of creating
+the ultimate cybernetic soldiers. I'm confused
+
+480
+00:43:27,617 --> 00:43:33,301
+honestly why they had to create the character
+of Victoria Cord when she's essentially Jarvis
+
+481
+00:43:33,321 --> 00:43:38,444
+Cord from the comics as I mentioned earlier.
+Jarvis isn't a major character though, so I
+
+482
+00:43:38,484 --> 00:43:42,667
+guess it's not that big of a deal. I'm just
+wondering why of all the routes you could have
+
+483
+00:43:42,707 --> 00:43:47,551
+taken with a Blue Beetle villain they decided
+to go this route. And again, I think they just
+
+484
+00:43:47,571 --> 00:43:52,747
+wanted to make someone super unlikable like
+the ultimate entitled Karen. If Susan Strandon
+
+485
+00:43:52,767 --> 00:43:56,935
+doesn't get nominated for a Razzie for this
+role, I'm going to eat my shirt. You heard
+
+486
+00:43:56,976 --> 00:44:02,927
+it here first, folks. Joseph's going to eat
+his shirt. In the meantime, let's move on to
+
+487
+00:44:02,967 --> 00:44:03,889
+the story highlights.
+
+488
+00:44:11,510 --> 00:44:17,451
+In a frozen tundra, Chord Industries, led by
+Victoria Chord, locate an alien artifact known
+
+489
+00:44:17,511 --> 00:44:24,213
+as a scarab within a giant stone sphere. Not
+long after, we see Jaime Reyes return home
+
+490
+00:44:24,253 --> 00:44:30,735
+to Palmera City after earning a pre-law degree
+from Gotham Law. He learns that his family
+
+491
+00:44:30,775 --> 00:44:36,597
+is losing their home in the Edge Keys neighborhood
+after his father lost his job and because Chord
+
+492
+00:44:36,697 --> 00:44:41,386
+Industries' development in the city increased
+housing prices. I can't remember if we ever
+
+493
+00:44:41,446 --> 00:44:46,708
+learned how the scarab ended up in that stone.
+No, we have no idea. We're not sure if Ted
+
+494
+00:44:46,748 --> 00:44:52,991
+Kord put it there. It was implied that maybe
+he did and it set up decoys across the entire
+
+495
+00:44:53,011 --> 00:44:58,293
+globe that Victoria Kord was searching through.
+I'm not sure if it's explicitly said. There
+
+496
+00:44:58,313 --> 00:45:03,035
+was a lot that was flashing by the screen during
+the opening credits, so the answer could lie
+
+497
+00:45:03,055 --> 00:45:07,617
+in that. They were cool opening credits. I like
+how they kind of give a history of the scarabs
+
+498
+00:45:07,757 --> 00:45:13,132
+and everything. Yeah, and how lethal they are,
+just devastating a planet. That was cool. Jaime
+
+499
+00:45:13,172 --> 00:45:18,555
+takes a job with his sister, Milagro, cleaning
+beachside mansions in order to contribute money
+
+500
+00:45:18,575 --> 00:45:24,618
+to his family. While cleaning the home of Victoria
+Cord, he witnesses an argument between Victoria
+
+501
+00:45:24,759 --> 00:45:30,842
+and her niece, Jenny, over the one-man army
+corps, or OMAC, weapons project that Cord Industries
+
+502
+00:45:30,882 --> 00:45:36,085
+is working on, and also over the disappearance
+of Jenny's father, Ted, the former head of
+
+503
+00:45:36,145 --> 00:45:42,472
+Cord Industries. When Jaime stands up for Jenny,
+Victoria fires him and Milagro, though Jenny
+
+504
+00:45:42,512 --> 00:45:47,455
+promises Jaime to help him get a job at Chord
+Industries if he visits her there the next
+
+505
+00:45:47,535 --> 00:45:52,758
+day. When Jaime goes to Chord Tower the next
+day to meet with Jenny, she frantically gives
+
+506
+00:45:52,778 --> 00:45:57,681
+him a small box containing the scarab that she
+had just stolen from the Chord Laboratories,
+
+507
+00:45:58,021 --> 00:46:03,965
+which was studying the scarab in order to extract
+its alien code. Despite being told by Jenny
+
+508
+00:46:04,025 --> 00:46:09,484
+not to open the box, When Jaime brings it home,
+he's pressured by his family to do so. The
+
+509
+00:46:09,524 --> 00:46:15,609
+scarab bonds to Jaime's spine, painfully forming
+a reconfiguring exoskeleton around him and
+
+510
+00:46:15,649 --> 00:46:21,113
+performing a system calibration check that causes
+him to tear through his family's roof and Palmera
+
+511
+00:46:21,193 --> 00:46:26,236
+City, where his automatic defense system slices
+a bus in half. The scene where he goes into
+
+512
+00:46:26,316 --> 00:46:30,499
+space I thought was really well done. I feel
+like they did a good job capturing the panic
+
+513
+00:46:30,759 --> 00:46:35,982
+that Jaime was feeling in the moment. Yeah,
+it was well done. I didn't like how they basically
+
+514
+00:46:36,042 --> 00:46:41,744
+plagiarized the scene from Shazam when he was
+falling out of the sky and then with his arms
+
+515
+00:46:41,884 --> 00:46:46,565
+up right before he crashed back onto Earth,
+he stopped like an inch off the ground. It
+
+516
+00:46:46,585 --> 00:46:50,326
+was played a little bit different in the Shazam
+movie and that it like cut to black and stuff
+
+517
+00:46:50,366 --> 00:46:54,767
+like that, but not by much. And yeah, I would
+say it was ripped off. I did think it was funny
+
+518
+00:46:54,787 --> 00:46:59,108
+with the guys at the bus stop on drugs when
+they're like, has it kicked in yet? And then
+
+519
+00:46:59,128 --> 00:47:02,209
+once the whole thing with the Blue Beetle happens,
+they're like, yeah, I think it's kicked in.
+
+520
+00:47:02,229 --> 00:47:06,731
+That was funny. When Jaime returns home, he's
+frightened at the sight of the Scarab bound
+
+521
+00:47:06,791 --> 00:47:12,094
+to his spine, and he steals his Uncle Rudy's
+truck to find Jenny for her help in getting
+
+522
+00:47:12,154 --> 00:47:17,577
+it removed. Jaime finds Jenny on the run from
+Kord's lethal security force, and helps her
+
+523
+00:47:17,637 --> 00:47:22,660
+escape back to his house where she tells him
+and his family that the Scarab is an ancient
+
+524
+00:47:22,720 --> 00:47:28,543
+parasitic weapon capable of destroying the planet
+that has chosen to bond with Jaime for some
+
+525
+00:47:28,583 --> 00:47:33,966
+reason. She explains that her father studied
+the Scarab. and might know how to get it off,
+
+526
+00:47:34,306 --> 00:47:39,808
+but they would need to get a key from Core Tower
+to access his hidden laboratory. Meanwhile,
+
+527
+00:47:40,128 --> 00:47:47,290
+Victoria orders Lieutenant Ignacio Carapax to
+find Jenny. Why is it that every DC film wants
+
+528
+00:47:47,330 --> 00:47:52,872
+to portray its lead male star in the nude due
+to the way their super suit works? Like we
+
+529
+00:47:52,892 --> 00:47:58,506
+saw that in The Flash recently. We did. I mean,
+but we saw a lot more. of Barry Allen and the
+
+530
+00:47:58,546 --> 00:48:03,347
+Flash and more of Ben Affleck as Batman than
+we did of Jaime. I don't know, I feel like
+
+531
+00:48:03,727 --> 00:48:09,789
+studios always have the hardest time with superhero
+costumes and the whole just nature of them
+
+532
+00:48:09,929 --> 00:48:14,290
+putting on the suit. Like, they're like, oh,
+obviously the clothes aren't underneath the
+
+533
+00:48:14,310 --> 00:48:17,931
+suit, so they have to take them off, right?
+It's just, you don't think about that when
+
+534
+00:48:17,951 --> 00:48:22,793
+you're reading comics. With help from Uncle
+Rudy, Jenny and Jaime managed to steal the
+
+535
+00:48:22,833 --> 00:48:28,722
+watch key only to then be attacked by Carapax.
+who is equipped with cybernetic omak armor
+
+536
+00:48:28,842 --> 00:48:34,904
+and weaponry. Though Jaime's scarab armor activates
+defensively in response, Jaime is still unable
+
+537
+00:48:34,944 --> 00:48:40,685
+to fully control his new powers and is nearly
+killed by carapacts until Uncle Rudy intervenes
+
+538
+00:48:40,765 --> 00:48:46,867
+and the three escape. I have a question. Sure.
+Why does Victoria Cord even need the scarab
+
+539
+00:48:47,187 --> 00:48:52,589
+if the omak armor is already so successful?
+I mean, it nearly defeated Blue Beetle at this
+
+540
+00:48:52,629 --> 00:48:58,498
+point. I don't know, that's a good question.
+she wanted the scarab for herself. Like she
+
+541
+00:48:58,518 --> 00:49:03,080
+wanted to bond with it so she could be super
+powerful. But after I learned that she just
+
+542
+00:49:03,120 --> 00:49:08,861
+wanted the code to make her OMAC machines even
+more powerful, I was wondering the same thing.
+
+543
+00:49:09,261 --> 00:49:14,743
+I think she's just obsessed with power and that
+may not be a very good reason, but I think
+
+544
+00:49:14,763 --> 00:49:20,324
+she's known that the alien technology is far
+superior than anything core industries could
+
+545
+00:49:20,344 --> 00:49:25,739
+come up with. Moving on to the next scene, at
+Jenny's childhood home, now a run-down mansion,
+
+546
+00:49:26,199 --> 00:49:31,743
+Jenny unlocks her father's high-tech laboratory,
+where Haima and Rudy learn that Ted Kord was
+
+547
+00:49:31,763 --> 00:49:38,067
+the hero once known as Blue Beetle. While Haima
+learns more about Jenny's family, Rudy learns
+
+548
+00:49:38,167 --> 00:49:44,732
+via Ted's computer that the Scarab, named Kaji
+Dah, is alien in origin and can't be removed
+
+549
+00:49:44,832 --> 00:49:50,375
+while Haima is still alive, as evidenced by
+the Scarab's original host, Dan Garrett.
+
+550
+00:49:53,686 --> 00:49:58,628
+where he sees Victoria Court's helicopter headed
+toward his family home in the edge keys and
+
+551
+00:49:58,668 --> 00:50:03,890
+he realizes Victoria knows that he's been helping
+Jenny. Jaime leaps off the roof in order to
+
+552
+00:50:04,010 --> 00:50:09,492
+activate Khajiitah through its protective measures
+and he flies home. How do you feel about the
+
+553
+00:50:09,532 --> 00:50:13,394
+movie's treatment of the Blue Beetle legacy
+here? I thought it was pretty interesting that
+
+554
+00:50:13,434 --> 00:50:18,576
+they brought it up at all considering maybe
+they didn't need to. I actually really liked
+
+555
+00:50:18,596 --> 00:50:22,970
+what they did here. I agree that they probably
+didn't need to. But I respect them for how
+
+556
+00:50:22,990 --> 00:50:28,553
+they did it. They really didn't miss anything,
+honestly. And I didn't expect them to touch
+
+557
+00:50:28,593 --> 00:50:32,816
+on as much as they did. I thought we would just
+get Ted Kord, the fact that we got so many
+
+558
+00:50:32,856 --> 00:50:37,578
+references to Dan Garrett too, and them acknowledging
+the fact that he was the first one to bond
+
+559
+00:50:37,598 --> 00:50:41,820
+with the beetle, I thought was pretty neat.
+Yeah, yeah, it was really cool. There's so
+
+560
+00:50:41,860 --> 00:50:46,043
+much stuff in this movie that just had me super
+giddy because I never thought I was ever going
+
+561
+00:50:46,063 --> 00:50:51,706
+to see it, like the bug ship. Like we saw something
+very similar in the Watchmen movie Night Owl
+
+562
+00:50:51,746 --> 00:50:57,328
+is based on Blue Beetle, but to see the actual
+buck ship was super cool. Yeah, and that little
+
+563
+00:50:57,448 --> 00:51:02,270
+trapeze thing that comes out of the bottom of
+it that Blue Beetle swings around on. Right.
+
+564
+00:51:02,290 --> 00:51:06,092
+Yeah, there's something special about finally
+seeing that in live action. Back to the movie,
+
+565
+00:51:06,492 --> 00:51:12,254
+Victoria uses her private military force to
+invade the Reyes' home and rounds up its occupants.
+
+566
+00:51:12,675 --> 00:51:17,977
+When Jaime arrives, Victoria orders her troops
+to attack him and his family in order to see
+
+567
+00:51:18,017 --> 00:51:23,612
+what the Scarab is capable of. Though Jaime
+manages to protect his family, Kiripax successfully
+
+568
+00:51:23,652 --> 00:51:29,175
+disables and captures Jaime, while his father,
+Alberto, suffers from cardiac arrest during
+
+569
+00:51:29,215 --> 00:51:34,958
+their escape. As Victoria takes Jaime to Pago
+Island, her private island fortress, Alberto
+
+570
+00:51:35,018 --> 00:51:40,841
+dies, and before the family can grieve, the
+grandmother and matriarch known as Nana encourages
+
+571
+00:51:40,881 --> 00:51:49,162
+them to save Jaime. This was a pretty intense
+scene. The fact that Alberto died was... incredibly
+
+572
+00:51:49,202 --> 00:51:54,027
+powerful and something I didn't see coming.
+I question the legality of Victoria Court's
+
+573
+00:51:54,107 --> 00:51:59,752
+actions. Like really, how much can the Reyes
+family sue court industries for because of
+
+574
+00:51:59,852 --> 00:52:03,876
+all the shit that went down here? I mean, if
+they could afford the lawyer. I mean, there
+
+575
+00:52:03,916 --> 00:52:08,160
+isn't a lawyer around that wouldn't take that
+case. That's a huge payday right there. Unless
+
+576
+00:52:08,200 --> 00:52:13,084
+Victoria Court pays them more to not do that.
+Well, Jaime took pre-law, so you think he might
+
+577
+00:52:13,104 --> 00:52:17,003
+be able to do a good enough job of it? Yeah,
+maybe if he got his postgraduate law degree
+
+578
+00:52:17,023 --> 00:52:21,084
+and passed the bar to get his license. It would
+take a lot of work. Yet. And then you would
+
+579
+00:52:21,104 --> 00:52:27,327
+never have to work again. Ha ha ha. That's fair.
+Victoria binds Jaime to a machine in a laboratory
+
+580
+00:52:27,447 --> 00:52:33,370
+on Pago Island and begins extracting the scarab's
+energy and data in order to improve her OMAC
+
+581
+00:52:33,410 --> 00:52:39,953
+machines. A process that nearly kills Jaime.
+Meanwhile, Jenny takes the Reyes family back
+
+582
+00:52:39,973 --> 00:52:44,723
+to her father's secret lab. where they use the
+Blue Beetle hovercraft known as the Bug Ship
+
+583
+00:52:45,064 --> 00:52:50,547
+and Blue Beetle's experimental weaponry to travel
+to Pago Island and rescue Jaime. As the Bug
+
+584
+00:52:50,567 --> 00:52:56,011
+Ship storms the fortress, Jaime's mind drifts
+into the afterlife, where he meets his father.
+
+585
+00:52:56,471 --> 00:53:01,474
+Alberto encourages his son, telling him that
+it's not his time to die and that he needs
+
+586
+00:53:01,514 --> 00:53:07,538
+to fully bond mentally with Kha'Jida, which
+Jaime does just as Jenny and Milagro blow up
+
+587
+00:53:07,558 --> 00:53:12,980
+the fortress's power generators and the Scarab
+Code fully downloads into Carapax, amplifying
+
+588
+00:53:13,020 --> 00:53:18,842
+the power of his Omac armor and driving him
+into a murderous rampage. I love the joke here
+
+589
+00:53:19,083 --> 00:53:25,305
+where Victoria's scientist whom she calls Sanchez,
+when he makes that final stand against her
+
+590
+00:53:25,565 --> 00:53:30,888
+giving his full name with all of his family's
+surnames and everything, it was a great moment.
+
+591
+00:53:35,970 --> 00:53:41,273
+Though Jenny is captured by Victoria, Jaime
+manages to rescue his sister before facing
+
+592
+00:53:41,353 --> 00:53:46,477
+off against Carapax and nearly getting killed.
+When Jaime is saved thanks to a distraction
+
+593
+00:53:46,497 --> 00:53:52,661
+by Rudy, Jaime believes Carapax kills his uncle
+and gets a second wind after seemingly witnessing
+
+594
+00:53:52,701 --> 00:53:57,645
+the death of one of his family members. Though
+Jaime gets the upper hand and nearly kills
+
+595
+00:53:57,685 --> 00:54:03,949
+Carapax, Kajira reveals to Jaime Carapax's memories
+that it managed to uncover during the data
+
+596
+00:54:03,989 --> 00:54:09,850
+download. of how Carapax has been abused by
+Victoria since he was a child, including being
+
+597
+00:54:09,890 --> 00:54:14,874
+responsible for the death of his mother. After
+Jenny manages to bring down Victoria's getaway
+
+598
+00:54:14,914 --> 00:54:21,460
+copter, Jaime lets Carapax kill Victoria by
+overloading his suit and generating an explosion
+
+599
+00:54:21,520 --> 00:54:26,805
+that also destroys all the OMAC weapons held
+at the fortress, though Jaime and his family
+
+600
+00:54:26,905 --> 00:54:32,710
+escape the explosion in the bugship and they
+finally mourn Alberto's death together. The
+
+601
+00:54:32,750 --> 00:54:38,873
+final battles here were so unbelievably cool.
+I mentioned how Blue Beetle borrows a lot from
+
+602
+00:54:38,933 --> 00:54:44,896
+Marvel. And I have to say, I'm ecstatic that
+DC character finally gets his own like hallway
+
+603
+00:54:44,936 --> 00:54:50,819
+fight scene. Yeah, it was so good. Honestly,
+if that like corridor fight scene doesn't make
+
+604
+00:54:50,899 --> 00:54:56,042
+your nominations list for best DC moment of
+the year for the Brothers Awards in December,
+
+605
+00:54:56,182 --> 00:55:00,905
+I'll be surprised. Oh, it absolutely will. I
+just love how like Haima was just pissed off.
+
+606
+00:55:00,925 --> 00:55:06,079
+He's like, let's go. It's like smashing his
+energy fists together. And the song, I Ain't
+
+607
+00:55:06,119 --> 00:55:11,541
+Going Out Like That by Cypress Hill, is definitely
+my new fight song. Like I'm getting into a
+
+608
+00:55:11,561 --> 00:55:16,843
+fight with someone, I'm putting that song on.
+The moment leading up to that where Kajida
+
+609
+00:55:17,184 --> 00:55:22,626
+repeats his mother's line in Spanish, it gave
+me chills. It was really well done, that whole
+
+610
+00:55:22,666 --> 00:55:26,688
+scene. And it really kind of showed how well
+the two had bonded by that point because Haime
+
+611
+00:55:26,708 --> 00:55:30,829
+was starting to influence the Scarab to the
+point where the Scarab was starting to speak
+
+612
+00:55:30,869 --> 00:55:37,086
+Spanish. That's such a neat concept. Yeah, yeah,
+really cool. Also really cool that final fight
+
+613
+00:55:37,106 --> 00:55:41,430
+between Carapax and Blue Beetle, where Blue
+Beetle is like busting out Buster swords and
+
+614
+00:55:41,450 --> 00:55:47,855
+like doing flying somersault sword slashes.
+So unbelievably awesome. I was just so happy
+
+615
+00:55:47,875 --> 00:55:52,759
+in the theater during this final fight. After
+Alberto's funeral, Jenny takes control of Cordova
+
+616
+00:55:52,779 --> 00:55:58,564
+Industries and offers to rebuild Threya's home
+while also giving Grooty a new truck, both
+
+617
+00:55:58,604 --> 00:56:04,499
+of which were destroyed earlier. Jaime and Jenny
+finally kiss before he flies her to her childhood
+
+618
+00:56:04,539 --> 00:56:10,242
+home. In the mid-credits scene, we learn via
+a broadcast on Ted's lab computer that Ted
+
+619
+00:56:10,282 --> 00:56:17,805
+Kord is still alive. Now I have to say, the
+painting of Ted Kord in the mansion looks exactly
+
+620
+00:56:17,845 --> 00:56:23,147
+like Jason Sudeikis. Am I wrong? I wouldn't
+say exactly because it was a very impressionist
+
+621
+00:56:23,287 --> 00:56:30,386
+style painting, so it could literally be anybody.
+I mean, it's exactly Jason. Sudeikis in an
+
+622
+00:56:30,426 --> 00:56:35,850
+impressionist style, right? Okay. I don't know
+where you're getting this Jason Sudeikis thing
+
+623
+00:56:35,890 --> 00:56:39,733
+from. Well, he's been rumored to be in the film,
+but obviously that wasn't the case. I don't
+
+624
+00:56:39,753 --> 00:56:44,397
+know if maybe they cut his role. I have no idea
+whose voice that was at the very end. I don't
+
+625
+00:56:44,417 --> 00:56:48,860
+know if that was supposed to be Ted Kord or
+maybe even Booster Gold because they refer
+
+626
+00:56:48,880 --> 00:56:54,344
+to Ted Kord in the third person, right? I'm
+hoping that Ted Kord kind of got trapped in
+
+627
+00:56:54,384 --> 00:56:59,908
+time alongside Booster. and that this film will
+segue into the Booster Gold television series.
+
+628
+00:56:59,989 --> 00:57:04,572
+That would be awesome. I almost feel like Jaime
+Reyes needs his own Booster Gold, right? Because
+
+629
+00:57:04,592 --> 00:57:08,836
+like Ted Kord, Blue Beetle and Booster Gold
+were best friends. But now that Ted Kord's
+
+630
+00:57:08,876 --> 00:57:13,380
+legacy has kind of been passed down, it would
+be nice to have that dynamic still with Jaime
+
+631
+00:57:13,760 --> 00:57:18,043
+and appear. I think you could go a number of
+routes with that. You could go the Peacemaker
+
+632
+00:57:18,083 --> 00:57:23,108
+route, who kind of served as a mentor and partner
+for Jaime in the comics. But you could also
+
+633
+00:57:23,168 --> 00:57:28,762
+go like the Teen Titans route. Like maybe even
+Blue Beetle could appear in the upcoming Batman
+
+634
+00:57:28,802 --> 00:57:32,884
+and Robin film, like in a post-credits scene
+or something like that, as Damien is maybe
+
+635
+00:57:32,984 --> 00:57:38,085
+forming the Teen Titans. Who knows? It could
+work, I think. I would be surprised if we saw
+
+636
+00:57:38,545 --> 00:57:43,166
+Blue Beetle appear like in Peacemaker Season
+2. I do think that there's room for two Blue
+
+637
+00:57:43,206 --> 00:57:48,288
+Beetles, like I think Ted Kord and Jaime could
+share the role, so that you can have Ted Kord
+
+638
+00:57:48,648 --> 00:57:53,989
+in the Booster Gold series. There is an after
+credits scene, but it's nothing. It's just...
+
+639
+00:57:54,334 --> 00:58:01,716
+El Chapulín Colorado in a cute claymation form.
+Colorado. It was just El Chapulín Colorado
+
+640
+00:58:01,996 --> 00:58:06,017
+in a cute claymation form. Yeah, I kind of regret
+sticking around for that one. I don't think
+
+641
+00:58:06,037 --> 00:58:11,818
+it was worth it. Dad didn't though. He loved
+it. So I loved it. But that does it for the
+
+642
+00:58:11,858 --> 00:58:17,720
+movie. Again, I was really happy with the way
+it turned out. I thought it was a terrific
+
+643
+00:58:18,060 --> 00:58:22,882
+adaptation of the source material. I honestly
+can't think of a better way to approach. Blue
+
+644
+00:58:22,902 --> 00:58:27,984
+Beetle comics than what they did in this movie.
+Overall, with the film's thrilling visual effects
+
+645
+00:58:28,104 --> 00:58:33,426
+action and touching cultural look at family,
+the film introduces one of the genre's coolest
+
+646
+00:58:33,746 --> 00:58:41,050
+and most relatable superheroes yet, particularly
+for DC. I'm rating the film 4 out of 5 stars,
+
+647
+00:58:41,570 --> 00:58:47,913
+a fresh rating on Rotten Tomatoes. Yeah, you
+said particularly for DC, I think you need
+
+648
+00:58:47,933 --> 00:58:52,311
+that asterisk there in your review. I'm a little
+bit surprised you're giving it four stars and
+
+649
+00:58:52,331 --> 00:58:56,093
+not three and a half stars because this is basically
+the definition of a three and a half star film.
+
+650
+00:58:56,493 --> 00:59:01,377
+I think as you stated through the course of
+your review, you have lost objectivity and
+
+651
+00:59:01,537 --> 00:59:06,320
+I think you should have your Rotten Tomatoes
+license revoked. To which I could only reply,
+
+652
+00:59:06,860 --> 00:59:14,265
+haters gonna hate. And it's again, like I mentioned,
+the perfect Blue Beetle movie. But that does
+
+653
+00:59:14,305 --> 00:59:19,336
+it for this review. Let us know what you thought
+about the movie by writing to us at dynamicduelpodcast.gmail.com
+
+654
+00:59:20,817 --> 00:59:26,861
+or by visiting us on Instagram or Twitter X.
+You can find links to all of our accounts by
+
+655
+00:59:26,921 --> 00:59:32,445
+checking out our show notes or visiting our
+website at dynamicduel.com. And on our site
+
+656
+00:59:32,465 --> 00:59:36,408
+you can also find a link to our Patreon page
+where you can join our dynamic 2-0 tier and
+
+657
+00:59:36,448 --> 00:59:41,331
+chat with us and fellow listeners, our fantastic
+4 tier which gets you bonus content each month,
+
+658
+00:59:41,651 --> 00:59:45,794
+our X-Force tier that makes you an executive
+producer of this podcast, or our newest here
+
+659
+00:59:45,814 --> 00:59:51,235
+that lets you join our Dynamike podcast network.
+If you can't join Patreon, you can still support
+
+660
+00:59:51,275 --> 00:59:56,697
+the show by signing up for our e-newsletter
+also at dynamicduel.com. Or you could also
+
+661
+00:59:56,797 --> 01:00:03,518
+rate the show on Apple podcasts, Spotify, Podchaser,
+or on our website. Next week's episode is going
+
+662
+01:00:03,538 --> 01:00:10,160
+to be a duel leading up to our Doom Patrol versus
+Guardians of the Galaxy team duel episode,
+
+663
+01:00:10,300 --> 01:00:15,294
+which is going to be episode 350. Next week,
+we are pitting the Doom Patrol member, Danny
+
+664
+01:00:15,314 --> 01:00:19,396
+the Street, who if you've read the books or
+you've seen the Doom Patrol show, you will
+
+665
+01:00:19,416 --> 01:00:24,158
+know is actually a sentient street and we're
+going to pay him against the sentient island
+
+666
+01:00:24,358 --> 01:00:30,941
+of Krakoa. So essentially it's going to be two
+locations facing off against each other and
+
+667
+01:00:31,581 --> 01:00:38,144
+I've not been more terrified for how speculation
+is going to go in my entire life. In the words
+
+668
+01:00:38,184 --> 01:00:43,838
+of Rudy, we'll burn that bridge once we get
+to it. Yeah. But that does it for this episode,
+
+669
+01:00:43,858 --> 01:00:48,499
+we want to give a big thanks to our executive
+producers Ken Johnson, John Sturowski, Zachary
+
+670
+01:00:48,519 --> 01:00:53,820
+Hepburn, Dustin Belcombe, Mickey Mathen-Geehan,
+Brandon Estergard, Nathaniel Wagner, Levi Yeaton,
+
+671
+01:00:54,061 --> 01:01:00,022
+Nick Abonto, Austin Wesolowski, AJ Dunkerley,
+Scott Camacho, and Adam Spies for helping make
+
+672
+01:01:00,062 --> 01:01:05,444
+this podcast possible. And we'll talk to you
+guys next week. Up, up, and away, true believers.
+
