@@ -1,0 +1,2810 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a Dynamike Network podcast.
+
+2
+00:00:24,994 --> 00:00:30,155
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:30,175 --> 00:00:35,777
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:36,217 --> 00:00:42,719
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, we are doing a duel
+
+5
+00:00:42,959 --> 00:00:48,440
+between the characters Dorothy Spinner from
+The Doom Patrol and Moon Girl and Devil Dinosaur.
+
+6
+00:00:48,740 --> 00:00:54,106
+This is the final duel in lead up to our big
+team duel next episode. where we're gonna pit
+
+7
+00:00:54,146 --> 00:00:59,527
+the teams of Doom Patrol and Guardians of the
+Galaxy against each other. Yeah, Dorothy Spinner
+
+8
+00:00:59,687 --> 00:01:06,169
+and Moon Girl and Devil Dinosaur are both little
+girl superheroes with big monsters as backup,
+
+9
+00:01:06,349 --> 00:01:10,210
+basically. It'll be a lot of fun to break down
+these characters. Moon Girl has a fantastic
+
+10
+00:01:10,230 --> 00:01:15,392
+backstory that I was really glad to dive into,
+so can't wait to talk all about her and figure
+
+11
+00:01:15,472 --> 00:01:19,753
+out who the heck's gonna win this matchup later
+on this episode. Before that, we're gonna break
+
+12
+00:01:19,773 --> 00:01:25,060
+down the comic book movie news to come out in
+the past week. of which there isn't much due
+
+13
+00:01:25,080 --> 00:01:30,165
+to the ongoing strikes. There was like a 45
+second Loki season 2 teaser, so we're going
+
+14
+00:01:30,225 --> 00:01:35,290
+to talk about that. Yeah and this episode is
+actually sponsored by the Chronicle AI card
+
+15
+00:01:35,330 --> 00:01:42,077
+game that Jonathan and I invented. That's right,
+we are sponsoring our own episode because we
+
+16
+00:01:42,097 --> 00:01:46,764
+can. it's our podcast. So we're going to talk
+a little bit about the card game that Jonathan
+
+17
+00:01:46,784 --> 00:01:50,886
+and I made. As always, we list our segment times
+in our episode description, so feel free to
+
+18
+00:01:50,926 --> 00:01:55,208
+check out the show notes if you want to skip
+ahead to a particular topic. As our listeners
+
+19
+00:01:55,248 --> 00:02:00,451
+may know, our duel simulator is so advanced
+that it's gained sentience and has named itself
+
+20
+00:02:00,511 --> 00:02:06,114
+the artificial life form for running extensive
+duels, just a rather very intelligent simulator
+
+21
+00:02:06,374 --> 00:02:14,826
+9000, or Alfred Jarvis 9000. Here's a quick
+message for our listeners, so listen up. Why
+
+22
+00:02:14,886 --> 00:02:19,688
+hello there. Do you love listening and chatting
+about Marvel and DC? Then become a part of
+
+23
+00:02:19,728 --> 00:02:24,810
+the dynamic dual community on Patreon where
+you can choose from three tiers. The dynamic
+
+24
+00:02:24,850 --> 00:02:30,232
+2-0 tier lets you listen to this podcast without
+ads and gives you access to its Discord chat
+
+25
+00:02:30,252 --> 00:02:35,098
+group where you can chat with Johnny DC and
+Marvelous Joe. The Fantastic Four tier gives
+
+26
+00:02:35,138 --> 00:02:39,960
+you that and more with two bonus episodes each
+month, including bloopers and top ten shows
+
+27
+00:02:39,980 --> 00:02:44,783
+where Johnny and Joe count down your favourite
+Marvel and DC subjects. The X-Force tier makes
+
+28
+00:02:44,803 --> 00:02:49,425
+you an executive producer of Dynamic Duel, where
+every month you help the host choose what to
+
+29
+00:02:49,465 --> 00:02:54,627
+review and who to fight against each other.
+And finally, the Dynamite Podcast Network tier
+
+30
+00:02:54,927 --> 00:02:59,970
+allows aspiring podcasters to create their own
+battle-focused show using this Monte Carlo
+
+31
+00:03:00,010 --> 00:03:00,550
+simulator.
+
+32
+00:03:03,632 --> 00:03:07,852
+graphic support and consultation and get you
+simulation results to announce on your show.
+
+33
+00:03:08,372 --> 00:03:13,814
+Pitch the twins your show via email at dynamicduelpodcast
+at gmail.com or by reaching out to them on
+
+34
+00:03:13,894 --> 00:03:21,255
+social media. Check it out at patreon.com slash
+dynamic duel. Pip pip cheerio. Thanks, J9K,
+
+35
+00:03:21,495 --> 00:03:25,856
+and thanks to everyone who supports the podcast.
+Be sure to tune into the Max Destruction podcast
+
+36
+00:03:25,876 --> 00:03:30,957
+this Wednesday, where Ken and Dustin find out
+who'd win in a fight between John Matrix from
+
+37
+00:03:31,017 --> 00:03:33,511
+the Commando Movie. versus Robocop.
+
+38
+00:03:56,566 --> 00:04:01,349
+A No Prize is an award Marvel used to give out
+to fans. Our version, the Dynamic Dual No Prize,
+
+39
+00:04:01,389 --> 00:04:05,911
+is a digital award we post on Instagram and
+in our email newsletter for the person that
+
+40
+00:04:05,951 --> 00:04:11,335
+we feel gave the best answer to our question
+of the week. We got a lot of great answers
+
+41
+00:04:11,375 --> 00:04:16,738
+this time. I think a total of eight people called
+in. Unfortunately, we can only pick four answers
+
+42
+00:04:16,938 --> 00:04:22,442
+and there were only really four answers to give
+because the question last week was... What
+
+43
+00:04:22,482 --> 00:04:27,645
+was your favorite Marvel or DC cartoon from
+the 90s and why? I think the answers will be
+
+44
+00:04:27,705 --> 00:04:33,228
+pretty obvious, but it'll be interesting to
+see which one comes out on top. Our first honorable
+
+45
+00:04:33,328 --> 00:04:38,070
+mention goes to Dustin Balcom, who said, Hey,
+dynamic duelist Dustin Balcom here and I am
+
+46
+00:04:38,130 --> 00:04:45,054
+jumping in right away to get my answer because
+I'm not going to let these DC robots come out
+
+47
+00:04:45,074 --> 00:04:51,310
+and just say Batman the animated series because
+it is good, but my gosh grow personality. The
+
+48
+00:04:51,370 --> 00:04:57,254
+real answer is the 90s Spider-Man cartoon because
+it was just perfection. And that's all I got
+
+49
+00:04:57,274 --> 00:05:02,738
+to say. That's right, Jonathan. Anyone who thinks
+that Batman the Animated Series was the best
+
+50
+00:05:02,758 --> 00:05:08,362
+cartoon of the 90s basically has no personality,
+according to Dustin. And he's right. The best
+
+51
+00:05:08,402 --> 00:05:13,646
+cartoon is actually Spider-Man, which was a
+fantastic adaptation of the comic books. It
+
+52
+00:05:13,706 --> 00:05:17,248
+introduced kids to a whole bunch of other Marvel
+superheroes. There were a lot of crossovers
+
+53
+00:05:17,288 --> 00:05:22,700
+in that show. Killer opening theme song. and
+the show gave us the first example of the Spider-Verse.
+
+54
+00:05:22,720 --> 00:05:30,225
+I dunno, sounds kinda boring to me. What? Yeah.
+I mean, big whoop. You know you watched that
+
+55
+00:05:30,265 --> 00:05:36,269
+shit. I did, it was good I guess. Travis Herndon
+and Lizzie Dyer Arnie also gave the answer
+
+56
+00:05:36,569 --> 00:05:43,194
+of the 90's Spider-Man cartoon. But Colby Hentges
+gave this answer. Hey boys, Colby Hentges.
+
+57
+00:05:43,594 --> 00:05:47,937
+I know these are usually opinion questions and
+there's no right or wrong answer, but this
+
+58
+00:05:47,977 --> 00:05:53,135
+week is different. If you don't pick Batman,
+the animated series, you're wrong. It's still
+
+59
+00:05:53,175 --> 00:05:58,236
+some of the best telling of some of Batman's
+best stories. Kevin Conroy is Batman. Mark
+
+60
+00:05:58,256 --> 00:06:03,578
+Hamill is Joker. It's the best. B-Taz or bust.
+Now, Joseph, I've got to ask you, would you
+
+61
+00:06:03,618 --> 00:06:13,561
+rather be boring or wrong? Uh, I'd rather be
+wrong, I guess. That's fine. You rag about
+
+62
+00:06:13,581 --> 00:06:17,784
+everything, so it makes sense. I love how passionate
+this week's answers are for this question.
+
+63
+00:06:17,924 --> 00:06:23,488
+How the DC guys have no personality and how
+the Marvel guys are just wrong. But they are
+
+64
+00:06:23,508 --> 00:06:29,512
+because the Batman animated series is so good
+with the music, with the voice work, even with
+
+65
+00:06:29,532 --> 00:06:35,217
+the character adaptations. And so influential
+in terms of what came after it for DC. You
+
+66
+00:06:35,237 --> 00:06:40,221
+mean like the Superman show, Justice League?
+Exactly. And even beyond that with the DC animated
+
+67
+00:06:40,261 --> 00:06:44,751
+movie universe films. Yeah, the legacy of the
+show is pretty lasting, I'll admit that. We
+
+68
+00:06:44,771 --> 00:06:48,614
+want to give a shout out to Ezra Garcia who
+also gave the answer of Batman the Animated
+
+69
+00:06:48,654 --> 00:06:56,079
+series. Our final honorable mention goes to
+Scott Camacho who said, Johnny please do not
+
+70
+00:06:56,119 --> 00:07:01,463
+change the color of my name. But when it comes
+to this category, I'm going to have to side
+
+71
+00:07:01,483 --> 00:07:05,686
+with Marvel, mainly the X-Men series.
+
+72
+00:07:11,286 --> 00:07:19,453
+banger of a soundtrack you cannot get any more
+than the X-Men. Come on! That's right! Even
+
+73
+00:07:19,553 --> 00:07:26,700
+a DC fan can admit that the X-Men animated series
+in the 90s was the best cartoon at that time.
+
+74
+00:07:26,820 --> 00:07:32,725
+Scotty mentioned the opening theme, which is
+still the best theme in all of cartoons. His
+
+75
+00:07:32,765 --> 00:07:38,446
+brother, Gilly Macho, also gave the same answer
+and made great points that... The show pretty
+
+76
+00:07:38,466 --> 00:07:44,328
+much defined the 90s as far as superheroes go
+and it was highly influential in getting the
+
+77
+00:07:44,448 --> 00:07:50,131
+X-Men movie made which in turn probably helped
+kickstart the MCU. So you know the influence
+
+78
+00:07:50,311 --> 00:07:54,272
+of the Batman animated series is one thing but
+I think the influence of the X-Men animated
+
+79
+00:07:54,312 --> 00:07:59,734
+series was even greater and you know it's coming
+back on Disney Plus next year. I don't see
+
+80
+00:08:01,075 --> 00:08:05,477
+Batman the animated series coming back. Well
+they're trying to do it with Batman Kid Crusader.
+
+81
+00:08:06,057 --> 00:08:11,023
+I don't know what that is. It's Bruce Timm's
+new Batman cartoon. Come on, keep up. Why would
+
+82
+00:08:11,063 --> 00:08:18,226
+I keep up with that? It's DC. Because DC's better.
+Duh. Not according to Scotty. You know, I'm
+
+83
+00:08:18,246 --> 00:08:22,668
+going to have to change him to Team Red on the
+Discord from Team Blue. Scotty, let's strike
+
+84
+00:08:22,808 --> 00:08:28,290
+one. Strike one, my friend. Thanks to everyone
+for sending in your answer. But the winner
+
+85
+00:08:28,330 --> 00:08:34,433
+of this week's No Prize is Brandon Estegard,
+who said, I barely make the cut off of a 90s
+
+86
+00:08:34,473 --> 00:08:39,215
+skit. I'm also going with a show that barely
+makes a cut and that's Batman Beyond. I don't
+
+87
+00:08:39,235 --> 00:08:44,158
+think there's a wrong answer to this question,
+but what sets Batman above the rest is it doesn't
+
+88
+00:08:44,178 --> 00:08:49,260
+have to rely on storylines from the comics and
+can still establish amazing episodes. It was
+
+89
+00:08:49,280 --> 00:08:54,583
+a fresh and creative take on Batman with the
+updated style from the OG animated series.
+
+90
+00:08:55,244 --> 00:09:00,346
+Yes, Spider-Man, Batman the animated series,
+the X-Men animated series were all great, but
+
+91
+00:09:00,366 --> 00:09:04,929
+when you think of Batman Beyond, it was almost
+like an amalgamation of everything that made
+
+92
+00:09:05,009 --> 00:09:10,549
+those other shows. Phenomenal I guess you could
+say that because you know it had the cool animation
+
+93
+00:09:10,589 --> 00:09:15,293
+style from Batman the animated series as Brandon
+mentioned But it also had you know the killer
+
+94
+00:09:15,333 --> 00:09:20,057
+soundtrack like the Marvel cartoons did and
+more mature plots and adult themes and things
+
+95
+00:09:20,077 --> 00:09:24,901
+like that You know yeah, absolutely That was
+a DC cartoon that I think even Marvel fans
+
+96
+00:09:24,921 --> 00:09:30,405
+have to admit was insanely cool It was almost
+like the Marvel version of Batman right the
+
+97
+00:09:30,505 --> 00:09:36,470
+fuck yeah, I'm just gonna put that out there
+Well, I'm not agreeing with that Now, for as
+
+98
+00:09:36,510 --> 00:09:44,193
+good as Batman Beyond was, I think X-Men actually
+was the clear winner for this question. However,
+
+99
+00:09:44,253 --> 00:09:48,855
+Brandon was the only person to give the answer
+Batman Beyond, and he got points for originality
+
+100
+00:09:48,875 --> 00:09:53,497
+with this one, since we don't usually like to
+let people share No Prizes, you know? Right.
+
+101
+00:09:53,917 --> 00:09:58,019
+Congrats, Brandon! You win this week's No Prize.
+If you, the listener, want a shot at winning
+
+102
+00:09:58,039 --> 00:10:02,741
+your own No Prize, stay tuned to later on in
+this episode when we'll be asking another Question
+
+103
+00:10:02,781 --> 00:10:06,146
+of the Week. And now that that's done... Onto
+the news!
+
+104
+00:10:11,790 --> 00:10:15,751
+Alright, there's not much news this past week
+when it comes from Marvel and DC, but we did
+
+105
+00:10:15,811 --> 00:10:23,473
+get a teaser of sorts for the upcoming Loki
+Season 2 on Disney+, which is strange because
+
+106
+00:10:23,493 --> 00:10:29,795
+we already got a full-on trailer for the show,
+so it's kind of weird to get a 45 second teaser
+
+107
+00:10:30,435 --> 00:10:35,237
+after the trailer. Usually that's flipped around.
+But we did get some pretty interesting new
+
+108
+00:10:35,257 --> 00:10:40,720
+shots of what's going down. in Loki season 2
+starting October 6th. Like we said with the
+
+109
+00:10:40,740 --> 00:10:47,805
+trailer, this all looks phenomenal. The cinematography
+and the visual effects are movie level. In
+
+110
+00:10:47,845 --> 00:10:51,568
+some cases, it looks even better than how the
+movie looks, especially when it comes to the
+
+111
+00:10:51,608 --> 00:10:56,411
+set design and stuff. The teaser basically introduces
+the concept that Loki is being pulled through
+
+112
+00:10:56,511 --> 00:11:03,664
+space and time involuntarily. He meets up with
+Sylvie. who appears is hiding out in like McDonald's
+
+113
+00:11:03,704 --> 00:11:10,187
+in the 1970s after the events of season one
+where she killed He Who Remains and kickstarted
+
+114
+00:11:10,227 --> 00:11:14,490
+the multiverse. She still has the really bad
+haircut, but Loki and Sylvie join forces here,
+
+115
+00:11:14,650 --> 00:11:19,272
+going up against Victor Timely, who we get some
+new shots of Jonathan Majors playing the character.
+
+116
+00:11:19,793 --> 00:11:26,437
+We also see Rhona Renslayer from season one,
+who in the comics is King of the Conquerors'
+
+117
+00:11:26,757 --> 00:11:32,933
+romantic interest. She appears to be in Victor
+Timely's timeline, and she's holding this futuristic
+
+118
+00:11:33,013 --> 00:11:37,696
+laser gun type device. Yeah, it makes me wonder
+whose side she's on. Like, is she gonna try
+
+119
+00:11:37,716 --> 00:11:43,119
+and stop Kang, or is she gonna try and stop
+Loki? That's a great question. My inclination
+
+120
+00:11:43,159 --> 00:11:48,683
+is that she's on Kang's side, and she's probably
+his only ally, especially since she was such
+
+121
+00:11:48,803 --> 00:11:54,667
+a firm believer in the TVA and its mission,
+even after she realized that the leaders of
+
+122
+00:11:54,687 --> 00:12:01,432
+the TVA were just lifeless automatons. True,
+yeah, true. I mean, for a teaser, it definitely
+
+123
+00:12:01,532 --> 00:12:05,294
+teases. I don't know if I mentioned this in
+our review of the latest trailer that came
+
+124
+00:12:05,354 --> 00:12:10,858
+out, but Loki was my favorite thing to come
+out of the post-Endgame era of the Marvel universe,
+
+125
+00:12:11,279 --> 00:12:16,042
+next to Shang-Chi. So I'm really looking forward
+to this, really intrigued by the marketing
+
+126
+00:12:16,062 --> 00:12:20,425
+that they're putting out for it, even if it's
+just a 45-second teaser. Yeah, I'm also super
+
+127
+00:12:20,465 --> 00:12:23,867
+excited. We have less than a month before this
+show comes out, and perhaps we'll get another
+
+128
+00:12:23,907 --> 00:12:28,962
+full-length trailer before that time, but we'll
+see. That does it for the news for this episode.
+
+129
+00:12:29,022 --> 00:12:34,665
+Jonathan and I want to briefly remind listeners
+that we created a card game for all you card
+
+130
+00:12:34,705 --> 00:12:40,127
+gamers and tabletop gamers out there and board
+gamers. Jonathan and I have a deck building
+
+131
+00:12:40,528 --> 00:12:45,690
+card game that we developed over the span of
+10 years or so and we've been told that it's
+
+132
+00:12:45,790 --> 00:12:51,372
+really fun and we played it and we think it's
+really fun. So if you guys are into that kind
+
+133
+00:12:51,392 --> 00:12:59,368
+of stuff at all, check it at all. visit ChronicleAIgame.com,
+which we will link in the show notes, and check
+
+134
+00:12:59,388 --> 00:13:03,751
+out the card game. Jonathan and I put a lot
+of work into it and would appreciate any and
+
+135
+00:13:03,771 --> 00:13:09,434
+all support you guys can give in that capacity.
+We do have a Marvel vs. DC version of this
+
+136
+00:13:09,474 --> 00:13:15,277
+card game exclusive to patrons. So whether or
+not you get the Chronicle AI version of the
+
+137
+00:13:15,297 --> 00:13:21,360
+game, which is robot themed, or the Marvel vs.
+DC version of the game, which we called Infinity
+
+138
+00:13:21,400 --> 00:13:25,328
+Crisis, let us know if you pick it up. and what
+you think about it. We'd love for you to play
+
+139
+00:13:25,388 --> 00:13:29,974
+it. We think it's great, and we think you'll
+think the same. Speaking of card games, that
+
+140
+00:13:29,994 --> 00:13:31,676
+brings us to our question of the week.
+
+141
+00:13:36,174 --> 00:13:43,617
+So all the gamers out there, what is your favorite
+non-video game, for Marvel or DC, and why?
+
+142
+00:13:43,737 --> 00:13:48,879
+You know, such as board games, card games, tabletop
+games, anything physical like that you've played.
+
+143
+00:13:49,359 --> 00:13:53,801
+Yeah, Jonathan and I are big fans of board games
+and stuff like that, so largely this question
+
+144
+00:13:53,841 --> 00:13:57,522
+is to help inform me, I think, about some of
+the things that are out there that I may not
+
+145
+00:13:57,542 --> 00:14:02,284
+know about that I would love to check out. So
+record your answer at dynamicduel.com by clicking
+
+146
+00:14:02,324 --> 00:14:06,142
+on the red microphone button in the bottom right
+hand corner of the screen. which will prompt
+
+147
+00:14:06,162 --> 00:14:10,586
+you to leave us a voicemail. Your message could
+be up to 30 seconds long and don't forget to
+
+148
+00:14:10,606 --> 00:14:15,310
+leave your name in case we include you on the
+podcast. We'll pick our favorite answer and
+
+149
+00:14:15,350 --> 00:14:20,235
+award that person a Dynamic Duel No prize that
+we'll post to Instagram and our email newsletter.
+
+150
+00:14:20,555 --> 00:14:23,237
+Be sure to answer before September 16th.
+
+151
+00:14:30,850 --> 00:14:34,634
+That does it for the news portion of this episode.
+Now let's move on to the main event, where
+
+152
+00:14:34,694 --> 00:14:40,460
+we find out who's gonna win in a match between
+the Doom Patrol's Dorothy Spinner against Moon
+
+153
+00:14:40,500 --> 00:14:41,881
+Girl and Devil Dinosaur.
+
+154
+00:14:57,154 --> 00:15:01,418
+Okay, Dorothy Spinner against Moon Girl and
+Devil Dinosaur. Of course, you'll be familiar
+
+155
+00:15:01,438 --> 00:15:06,984
+with Dorothy Spinner if you've seen any of the
+HBO Max Doom Patrol series, or I guess it's
+
+156
+00:15:07,004 --> 00:15:12,330
+just Max now. Phenomenal series. If you haven't
+watched it, I definitely recommend it, especially
+
+157
+00:15:12,390 --> 00:15:17,446
+season two, the season that Dorothy Spinner
+is featured in. Yeah, Moon Girl and Devil Dinosaur
+
+158
+00:15:17,486 --> 00:15:23,468
+actually have their own show too on the Disney
+Kids channel and on Disney Plus, which is actually
+
+159
+00:15:23,588 --> 00:15:29,689
+incredible for a character that just came out
+in 2016. I think to go from non-existence when
+
+160
+00:15:29,789 --> 00:15:35,511
+this podcast started to having a full-on show
+of their own is a real testament to how cool
+
+161
+00:15:35,551 --> 00:15:39,692
+the characters of Moon Girl and Devil Dinosaur
+are. I highly recommend the cartoon. It is
+
+162
+00:15:39,712 --> 00:15:46,086
+for kids, but it is highly inspired visually
+by the Spider-Verse films. It's not... 3D animated,
+
+163
+00:15:46,146 --> 00:15:51,211
+it's 2D, but there's a lot of cool stuff in
+there that's very comic book-y. That's cool.
+
+164
+00:15:51,251 --> 00:15:56,676
+Is it Moon Girl or Devil Dinosaur or both that
+were created in 2016? Well, Devil Dinosaur
+
+165
+00:15:56,716 --> 00:16:03,221
+dates back to the 1960s as a creation of Jack
+Kirby. Moon Girl was created much more recently,
+
+166
+00:16:03,381 --> 00:16:07,585
+and I go into that a little bit in my history.
+In addition to the shows, you know, also check
+
+167
+00:16:07,605 --> 00:16:11,869
+out the comics. The Doom Patrol comics are very
+highly recommended, especially the run by Grant
+
+168
+00:16:11,889 --> 00:16:16,300
+Morrison. And I have to say, in my research
+for this episode, I had a whole lot of fun
+
+169
+00:16:16,420 --> 00:16:20,783
+going back, reading the first two arcs for Moon
+Girl and Devil Dinosaur. Nice, well, let's
+
+170
+00:16:20,803 --> 00:16:25,887
+get into it. To explain the methodology behind
+our duels, let's go to our sentient duel simulator,
+
+171
+00:16:26,167 --> 00:16:32,131
+Alfred Jarvis 9000. AJ9K, tell our listeners
+how you go about determining a winner in our
+
+172
+00:16:32,171 --> 00:16:37,394
+duel matchups. Yes, of course, sir. The way
+I determine a winner between the contestants
+
+173
+00:16:37,435 --> 00:16:43,446
+is by running 1000 Monte Carlo simulations using
+the characters statistics. A Monte Carlo simulation
+
+174
+00:16:43,486 --> 00:16:49,207
+is a probabilistic model used to determine outcomes
+through random sampling. In this case, I randomise
+
+175
+00:16:49,227 --> 00:16:53,669
+the statistics along a normal distribution as
+a way to simulate the many variables that can
+
+176
+00:16:53,709 --> 00:16:58,570
+occur during battle. The stat parameters are
+based on the official Marvel power grid from
+
+177
+00:16:58,610 --> 00:17:03,732
+which the DC characters' statistics are extrapolated.
+Additional stat categories are included such
+
+178
+00:17:03,772 --> 00:17:09,273
+as range, damage potential, versatility and
+perception in order to create a more detailed
+
+179
+00:17:09,313 --> 00:17:14,407
+and accurate simulation. The results of the
+1000 simulations provide a percentage of wins
+
+180
+00:17:14,447 --> 00:17:18,889
+for each character. The contestant with the
+higher percentage is declared the victor, as
+
+181
+00:17:18,929 --> 00:17:24,271
+they have a higher probability to win any given
+battle. In an equitable pairing, neither character
+
+182
+00:17:24,291 --> 00:17:28,993
+should win 100% of the matches. The comic book
+stories have shown that there's even a way
+
+183
+00:17:29,013 --> 00:17:34,075
+for Batman to defeat Superman, so the confidence
+rate of my method falls in line with the precedents
+
+184
+00:17:34,095 --> 00:17:39,137
+that have been established in the source material.
+My mathematical simulations are without subjectivity
+
+185
+00:17:39,197 --> 00:17:44,525
+or bias. Feats are not the sole consideration,
+nor are fan votes tabulated for determination
+
+186
+00:17:44,565 --> 00:17:50,769
+of the winner. Thanks AJ9K! Before we run the
+simulations though, we like to break down each
+
+187
+00:17:50,809 --> 00:17:55,892
+character's histories and abilities before improvising
+a scenario on how we imagine one of the 1000
+
+188
+00:17:56,233 --> 00:18:01,556
+simulations would play out B for B. And I believe
+it's my turn to go first with the DC character's
+
+189
+00:18:01,576 --> 00:18:06,920
+backstory, so let me tell you all about Dorothy
+Spinner. Her backstory is a little bit of a
+
+190
+00:18:06,960 --> 00:18:13,312
+downer, but here it is. Dorothy Spinner was
+born with an ape-like facial disfiguration
+
+191
+00:18:13,712 --> 00:18:19,195
+and hairy limbs, resulting in her birth mother
+giving her up for adoption while Dorothy was
+
+192
+00:18:19,235 --> 00:18:25,538
+still an infant. Adopted by the Spinner family,
+Dorothy was raised as an only child on a farm
+
+193
+00:18:25,638 --> 00:18:31,281
+in rural Kansas. With many in the community
+repulsed by Dorothy's appearance and due to
+
+194
+00:18:31,341 --> 00:18:36,844
+excessive bullying from other children, the
+Spinners isolated Dorothy on their farm, which
+
+195
+00:18:36,944 --> 00:18:42,895
+occupied much of the Spinner's As a result of
+her loneliness and isolation, Dorothy developed
+
+196
+00:18:42,975 --> 00:18:48,856
+imaginary friends, which she was unknowingly
+able to bring to life due to her psychic mind.
+
+197
+00:18:49,196 --> 00:18:54,418
+Her friends taught her to read and write and
+told her stories, such as The Wizard of Oz,
+
+198
+00:18:54,618 --> 00:19:00,540
+which Dorothy enjoyed. One day, while picking
+flowers outside, Dorothy was accosted by a
+
+199
+00:19:00,600 --> 00:19:02,120
+young boy named Bernard
+
+200
+00:19:06,262 --> 00:19:11,545
+When Dorothy made her way back to her barn to
+find that Bernard had hung her cat, she wished
+
+201
+00:19:11,585 --> 00:19:16,749
+that Bernard was dead. It was at this point
+that the Candlemaker emerged from her mind,
+
+202
+00:19:17,129 --> 00:19:23,353
+a being capable of granting wishes. After making
+the wish to the Candlemaker, Bernard was found
+
+203
+00:19:23,393 --> 00:19:28,797
+in a field the next morning by his friends,
+crucified and disemboweled. At the funeral,
+
+204
+00:19:29,157 --> 00:19:34,000
+Dorothy vowed to never make another wish from
+the Candlemaker again and buried him deep in
+
+205
+00:19:34,040 --> 00:19:39,749
+her mind. At age 11, Dorothy began being frightened
+by the stories that her imaginary friends were
+
+206
+00:19:39,789 --> 00:19:45,193
+telling her. Old, sinister fairy tales from
+the Brothers Grimm and Hans Christian Andersen.
+
+207
+00:19:45,573 --> 00:19:51,258
+When three imaginary family members tried to
+get Dorothy to wear red shoes, they reminded
+
+208
+00:19:51,358 --> 00:19:55,922
+Dorothy of a fairy tale about a girl who couldn't
+stop dancing until her legs were chopped off.
+
+209
+00:19:56,302 --> 00:20:00,786
+Dorothy told them that she had something to
+show them behind the barn, at which point Dorothy
+
+210
+00:20:00,806 --> 00:20:06,462
+shot and killed them with an imaginary gun.
+A few years later, A battle between a team
+
+211
+00:20:06,523 --> 00:20:12,447
+of superhero outcasts known as the Doom Patrol
+and the Lord of Chaos named Pytheia spilled
+
+212
+00:20:12,527 --> 00:20:18,392
+onto the Spinner farm. Home alone, Dorothy got
+swept up into the battle and helped the superhero
+
+213
+00:20:18,432 --> 00:20:24,057
+team defeat Pytheia when the others seemingly
+died in the pandemonium. Dorothy was made an
+
+214
+00:20:24,137 --> 00:20:30,062
+honorary member of the Doom Patrol and was shocked
+when they called her their friend. After realizing
+
+215
+00:20:30,082 --> 00:20:35,506
+that their daughter had psychic powers, the
+Spinners called Dr. Niles Calder. aka the Chief,
+
+216
+00:20:35,866 --> 00:20:40,627
+who you can learn more about in our Chief vs.
+Professor X duel episode. The Chief agreed
+
+217
+00:20:40,687 --> 00:20:45,189
+to help care for Dorothy and brought her to
+the Doom Patrol's new headquarters, the Secret
+
+218
+00:20:45,249 --> 00:20:50,730
+Sanctuary in Happy Harbor, Rhode Island, a former
+base of the Justice League which contained
+
+219
+00:20:50,750 --> 00:20:57,332
+a vault of souvenirs from past Justice League
+battles. One of those souvenirs was the Materiopticon,
+
+220
+00:20:57,712 --> 00:21:03,502
+formerly wielded by the villain Dr. Destiny
+and Dream of the Endless before him. the latter
+
+221
+00:21:03,542 --> 00:21:09,223
+of whom you can learn more about in our Sandman
+vs. Mephisto duel episode. Due to the Materiopticon's
+
+222
+00:21:09,243 --> 00:21:15,345
+ability to turn dreams into reality, Dorothy's
+imaginary family, Damal, Darling Come Home,
+
+223
+00:21:15,405 --> 00:21:20,566
+and Flying Robert, came back to life and attacked
+Dorothy for killing them, still trying to get
+
+224
+00:21:20,606 --> 00:21:26,528
+her to wear the red shoes. Realizing the red
+shoes symbolized Dorothy's fear of menstruation,
+
+225
+00:21:26,968 --> 00:21:27,708
+the Doom Patrol's
+
+226
+00:21:32,430 --> 00:21:37,073
+empowering the Materiopticon, which robbed the
+imaginary beings of much of their strength.
+
+227
+00:21:37,353 --> 00:21:42,997
+Before they vanished, Dorothy accepted the red
+shoes and her own womanhood, realizing the
+
+228
+00:21:43,037 --> 00:21:48,461
+shoes were ruby slippers after all and that
+she was at home with the Doom Patrol. When
+
+229
+00:21:48,481 --> 00:21:52,984
+the team relocated their headquarters onto Danny
+the Street, who you can learn more about in
+
+230
+00:21:53,004 --> 00:21:59,408
+our Danny the Street vs. Kerkoa episode, Dorothy
+and new Doom Patrol member Flexmantello were
+
+231
+00:21:59,488 --> 00:22:05,919
+kidnapped by an organization- known as the Men
+from Nowhere, who imprisoned them in the sub-subbasement
+
+232
+00:22:05,939 --> 00:22:11,040
+of the Pentagon known as the Ant Farm in order
+to harness their psychic power to summon an
+
+233
+00:22:11,200 --> 00:22:17,042
+all-powerful entity known as the Telephone Avatar.
+Although Flex Mantello managed to weaken the
+
+234
+00:22:17,082 --> 00:22:22,423
+Telephone Avatar by flexing a muscle that turned
+the Pentagon into a circle, Flex and Dorothy
+
+235
+00:22:22,443 --> 00:22:26,845
+would have been killed were it not for Dorothy
+wishing for the Candlemaker to save her and
+
+236
+00:22:26,885 --> 00:22:32,442
+her friends before passing out. When she awoke,
+She saw the telephone avatar hanging from the
+
+237
+00:22:32,482 --> 00:22:37,985
+ceiling. With the Candlemaker constantly intruding
+into Dorothy's thoughts afterward, asking her
+
+238
+00:22:38,025 --> 00:22:43,787
+for wishes, Dorothy confessed to Joshua what
+the Candlemaker had done before she collapsed
+
+239
+00:22:43,847 --> 00:22:49,029
+from mental exhaustion. When Joshua went to
+the Chief for help, the Chief shot and killed
+
+240
+00:22:49,109 --> 00:22:55,392
+Joshua for interrupting him. When Dorothy came
+to and found Joshua dead, the Candlemaker emerged
+
+241
+00:22:55,452 --> 00:23:01,306
+and asked Dorothy if she wished that Joshua
+were alive. When she said that she did, the
+
+242
+00:23:01,326 --> 00:23:07,088
+Candlemaker resurrected Joshua, only to kill
+him immediately afterward, to Dorothy's horror.
+
+243
+00:23:07,548 --> 00:23:12,589
+Having gained enough power from Dorothy's wishes
+to emerge into the world fully formed, the
+
+244
+00:23:12,609 --> 00:23:18,011
+Candlemaker decapitated the Chief and destroyed
+Robotman's human brain before attacking the
+
+245
+00:23:18,051 --> 00:23:23,713
+world's soul in New York City, causing people
+to go insane. After learning that the Candlemaker
+
+246
+00:23:23,753 --> 00:23:29,060
+was really an ancient malevolent entity, that
+used Dorothy's psychic powers to emerge into
+
+247
+00:23:29,080 --> 00:23:34,684
+the physical plane, the Doom Patrol eventually
+defeated Candlemaker, with Dorothy delivering
+
+248
+00:23:34,724 --> 00:23:40,749
+the killing blow by blowing out the Candlemaker's
+final flame. The Doom Patrol disbanded afterward,
+
+249
+00:23:41,130 --> 00:23:46,674
+forcing Dorothy to enter the real world and
+get an apartment. Having to deal with continual
+
+250
+00:23:46,714 --> 00:23:51,958
+harassment from onlookers whenever she had to
+leave the house, Dorothy was also bombarded
+
+251
+00:23:51,998 --> 00:23:58,246
+by African spirits who kept asking her to join
+their world. Dorothy created an imaginary version
+
+252
+00:23:58,266 --> 00:24:02,867
+of the Doom Patrol to comfort her, though she
+was encouraged by the scientist William Magnus,
+
+253
+00:24:03,208 --> 00:24:07,869
+who you can learn more about in our Metal Men
+vs. Colossus duel episode, to overcome her
+
+254
+00:24:07,909 --> 00:24:12,890
+fear of the real world. After being attacked
+by spirit-possessed mannequins at a shopping
+
+255
+00:24:12,930 --> 00:24:18,292
+mall, Dorothy was saved by Robot Man, who you
+can learn more about in our Robot Man vs. Think
+
+256
+00:24:18,372 --> 00:24:23,713
+episode. The two of them helped reform the Doom
+Patrol, though Dorothy found herself depressed,
+
+257
+00:24:23,733 --> 00:24:29,427
+and due to her inexperience and frequent inability
+to contribute to the team as much as she wanted.
+
+258
+00:24:29,887 --> 00:24:35,249
+After befriending a magical doll named Charlie,
+who she later learned was possessed by the
+
+259
+00:24:35,309 --> 00:24:41,650
+spirit of a rabbi, Dorothy helped Charlie reform
+the Holy Grail with the power of her imagination,
+
+260
+00:24:42,091 --> 00:24:47,992
+and Charlie's spirit departed, his mission completed.
+Alone again, Dorothy was taken on a camping
+
+261
+00:24:48,052 --> 00:24:53,974
+trip by robot man and fellow Doom Patrol member
+named Coagula. to let her know that her adoptive
+
+262
+00:24:54,014 --> 00:24:58,977
+father had died in a wheat-thresher accident
+and that they found her biological mother,
+
+263
+00:24:59,337 --> 00:25:04,681
+who was going to meet them soon. Upon realizing
+that she was being asked to leave the Doom
+
+264
+00:25:04,701 --> 00:25:10,224
+Patrol in order to live a normal life with her
+mom, Dorothy unleashed a psychic explosion
+
+265
+00:25:10,364 --> 00:25:16,727
+in a fit of immense rejection that killed Quagula,
+destroyed Robotman, and put herself into a
+
+266
+00:25:16,788 --> 00:25:23,615
+coma. After a new Doom Patrol team formed, Its
+version of Robotman eventually realized that
+
+267
+00:25:23,655 --> 00:25:30,658
+he was an imaginary version created by Dorothy
+in her vegetative state. When the real, newly
+
+268
+00:25:30,698 --> 00:25:36,760
+assembled Robotman realized what was going on,
+he visited Dorothy in the hospital and made
+
+269
+00:25:36,800 --> 00:25:42,763
+the traumatic decision to take her off of life
+support, and Dorothy soon died. And she remains
+
+270
+00:25:42,803 --> 00:25:48,605
+dead in post-Flashpoint continuity, though Robotman
+keeps a photo of the two of them and visits
+
+271
+00:25:48,625 --> 00:25:55,589
+her grave every week. Powers-wise, Dorothy is
+a powerful yet somewhat unstable psychic, capable
+
+272
+00:25:55,629 --> 00:26:02,052
+of bringing her imaginary friends to life, sometimes
+unwillingly. As a young girl, many of her imaginary
+
+273
+00:26:02,092 --> 00:26:07,996
+friends manifest as symbols of her emotions,
+often fear or as character interpretations
+
+274
+00:26:08,016 --> 00:26:14,580
+from stories she's read or heard, and occasionally
+as recreations of people she knows. This includes
+
+275
+00:26:14,620 --> 00:26:20,195
+but is not limited to... Pretty Miss Dot? who
+has lipsticks for fingers that can shoot fire,
+
+276
+00:26:20,696 --> 00:26:27,381
+paddle the sky, a swirling mass of hands holding
+paddles, hearts of ice, a woman made of ice
+
+277
+00:26:27,401 --> 00:26:33,286
+that can freeze things, dark as the morning,
+a shadow creature with a giant fanged mouth,
+
+278
+00:26:33,806 --> 00:26:41,232
+cowboy doll book face, a gun wielding cowboy
+made of dolls with a book for a face, and Spinner,
+
+279
+00:26:41,653 --> 00:26:47,417
+a superhero adult version of Dorothy, who's
+a member of the imagined team, the Doom Force.
+
+280
+00:26:47,762 --> 00:26:53,604
+and can manifest the nightmares of her opponents.
+That's Dorothy Spinner. That was a lot darker
+
+281
+00:26:53,664 --> 00:26:58,286
+than I thought it was going to be and very much
+a downer. It is like the exact opposite of
+
+282
+00:26:58,346 --> 00:27:03,828
+the Moongirl Devil Dinosaur backstory, which
+is largely pretty fun and cute and yeah, not
+
+283
+00:27:03,868 --> 00:27:08,910
+at all what Dorothy Spinner's story is. Yeah,
+it's probably like the most depressing backstory
+
+284
+00:27:08,950 --> 00:27:14,452
+of any DC character I've ever done a bio for
+in the span of this podcast. So let's cheer
+
+285
+00:27:14,493 --> 00:27:19,130
+up everyone with Moongirl's backstory. Yeah,
+I'm glad I'm going second here. Here's the
+
+286
+00:27:19,150 --> 00:27:24,293
+backstory for Moon Girl and Devil Dinosaur.
+In prehistoric times, in an alternate dimension
+
+287
+00:27:24,673 --> 00:27:30,176
+existed Dinosaur World, a planet where dinosaurs
+lived alongside the Neanderthal tribes of early
+
+288
+00:27:30,216 --> 00:27:36,358
+humans. Within a region of active volcanoes
+called the Valley of Flame, the most aggressive
+
+289
+00:27:36,418 --> 00:27:42,701
+hominid tribe called the Killer Folk dominated
+other less hostile tribes such as the Small
+
+290
+00:27:42,741 --> 00:27:48,278
+Folk. When a group of Killer Folk came across
+a female Tyrannosaurus rex-like dinosaur and
+
+291
+00:27:48,338 --> 00:27:53,523
+her young, they attacked and killed the mother
+and two of her children. They offered the third
+
+292
+00:27:53,563 --> 00:27:58,547
+young dinosaur as a sacrifice to their volcano
+god by burning it alive with the fire from
+
+293
+00:27:58,568 --> 00:28:04,473
+their torches. The beast nearly died, but was
+rescued by a boy from the Small Folk tribe
+
+294
+00:28:04,793 --> 00:28:10,422
+who witnessed the massacre. The Neanderthal
+child's name was Moonboy. as he was the only
+
+295
+00:28:10,462 --> 00:28:15,025
+member of his tribe who was brave enough to
+go out at night. He saw that the flames had
+
+296
+00:28:15,085 --> 00:28:20,629
+turned the dinosaur's scales a fiery red, and
+the boy took care of it, naming him Devil.
+
+297
+00:28:21,089 --> 00:28:25,832
+Moonboy and Devil Dinosaur formed a close bond,
+and together they fought and defeated the Killer
+
+298
+00:28:25,852 --> 00:28:30,455
+Folk tribe, claiming the Valley of Flame for
+the small folk and protecting the lands from
+
+299
+00:28:30,555 --> 00:28:37,894
+other dinosaurs and monsters. Meanwhile, universes
+away, An autistic 9-year-old girl named Lunela
+
+300
+00:28:37,954 --> 00:28:43,616
+Lafayette grew up on the Lower East Side of
+Manhattan. Brilliant but shy and mocked for
+
+301
+00:28:43,636 --> 00:28:49,397
+her awkwardness, Lunela acquired the nickname
+Moon Girl due to her constant daydreaming about
+
+302
+00:28:49,437 --> 00:28:55,099
+strange gadgets and inventions. When the inhuman
+hero Black Bolt released the Terranian mists
+
+303
+00:28:55,219 --> 00:29:00,921
+into Earth's atmosphere during a battle with
+Thanos, Lunela believed she could use her intelligence
+
+304
+00:29:00,961 --> 00:29:08,151
+to help contain the gases. were afraid that
+pterogene exposure would transform them as
+
+305
+00:29:08,171 --> 00:29:13,133
+the substance was used by the inhuman race as
+a catalyst to change them into their superpowered
+
+306
+00:29:13,213 --> 00:29:18,535
+forms. Inhumans were descendants of a group
+of early mankind that were experimented on
+
+307
+00:29:18,595 --> 00:29:24,138
+by the alien race, the Kree, to serve as their
+soldiers. Hundreds, if not thousands of people
+
+308
+00:29:24,198 --> 00:29:29,960
+on Earth unknowingly had inhuman genetics and
+were being altered due to the pterogene clouds
+
+309
+00:29:30,080 --> 00:29:36,115
+now in the air. You can learn more about pterogenesis
+the Inhumans and their King Black Bolt in our
+
+310
+00:29:36,155 --> 00:29:42,417
+Shazam vs Black Bolt dual episode. Lunela believed
+the solution to the Terran clouds lay in alien
+
+311
+00:29:42,457 --> 00:29:48,380
+Kree science, so she built a device to help
+her locate any Kree technology on Earth in
+
+312
+00:29:48,440 --> 00:29:53,242
+order to study it. This led her underneath the
+Brooklyn Bridge where she found a Kree device
+
+313
+00:29:53,282 --> 00:29:59,124
+called an Omni-Wave Projector that was capable
+of opening portals between time and space.
+
+314
+00:29:59,705 --> 00:30:06,024
+Meanwhile, universes away, Moon Boy happened
+upon another Omni-Wave projector that had landed
+
+315
+00:30:06,084 --> 00:30:10,928
+on Dinosaur World that was being worshipped
+by the Killer Folk tribe, who called it their
+
+316
+00:30:11,028 --> 00:30:16,552
+Night Stone. The Killer Folk caught Moon Boy
+with the device and beat him to death, when
+
+317
+00:30:16,612 --> 00:30:22,776
+suddenly both projectors activated simultaneously,
+opening a portal between Earth and Dinosaur
+
+318
+00:30:22,816 --> 00:30:27,939
+World. A group of Killer Folk entered the portal
+and began terrorizing the people of present-day
+
+319
+00:30:27,959 --> 00:30:34,143
+Manhattan, but they were followed by Devil Dinosaur,
+who sought to avenge Moonboy's death. Devil
+
+320
+00:30:34,183 --> 00:30:39,266
+Dinosaur saved Lunela from the Killer Folk,
+who had fled their encounter, and she explained
+
+321
+00:30:39,306 --> 00:30:44,128
+to the semi-intelligent beast that she needed
+his help to get the Omni-Wave Projector from
+
+322
+00:30:44,168 --> 00:30:49,131
+the Neanderthals in order to save humanity.
+Before they could act, however, Devil Dinosaur
+
+323
+00:30:49,151 --> 00:30:55,234
+was captured and imprisoned in a secret facility.
+Finding her courage, Lunela resolved to rescue
+
+324
+00:30:55,274 --> 00:31:02,666
+her friend and equipped a series of homemade
+gadgets and a suit After hacking into a government
+
+325
+00:31:02,686 --> 00:31:07,109
+database to find the dinosaur's whereabouts,
+she snuck away from home and broke into the
+
+326
+00:31:07,150 --> 00:31:12,633
+secret facility, using her gadgets to break
+Devil from his high-tech cage. Together, the
+
+327
+00:31:12,653 --> 00:31:18,057
+duo tracked the Killer Folk to a Manhattan rooftop
+where they defeated the Neanderthal group and
+
+328
+00:31:18,117 --> 00:31:23,501
+recovered the Omni-Wave Projector. However,
+immediately after their victory, the Terran
+
+329
+00:31:23,521 --> 00:31:29,885
+Cloud descended upon Lunella, causing her to
+undergo teragenesis and encasing her in a giant
+
+330
+00:31:30,065 --> 00:31:35,649
+egg. Devil Dinosaur carried the egg containing
+Lunela to safety at her secret lab underneath
+
+331
+00:31:35,689 --> 00:31:40,813
+her elementary school. When she hatched, Lunela
+could not immediately tell what the Terrigen
+
+332
+00:31:40,853 --> 00:31:46,397
+had changed about her. However, later at school,
+she discovered that she would involuntarily
+
+333
+00:31:46,517 --> 00:31:51,060
+switch minds with Devil Dinosaur, who was back
+at the lab, whenever she experienced strong
+
+334
+00:31:51,100 --> 00:31:56,764
+emotions such as anger or hunger, and spontaneously
+during a full moon. Keeping her crime fighting
+
+335
+00:31:56,804 --> 00:32:01,743
+a secret from her parents as much as possible,
+Lunella was eventually discovered by scientist
+
+336
+00:32:01,863 --> 00:32:08,425
+Amadeus Cho, who administered a test developed
+by Bruce Banner called the Brain Omnicompetence
+
+337
+00:32:08,585 --> 00:32:13,448
+Examiner. It was determined that Lunella was
+probably the most intelligent mind on Earth,
+
+338
+00:32:13,888 --> 00:32:19,390
+scoring higher than other scientific minds such
+as Mr. Fantastic. The villain Dr. Doom took
+
+339
+00:32:19,430 --> 00:32:24,832
+offense to this news and attacked Lunella, but
+with help from the superhuman community, including
+
+340
+00:32:24,892 --> 00:32:30,634
+Dr. Strange, the X-Men, and Ironheart, She and
+Devil Dinosaur were able to defeat the Doombot
+
+341
+00:32:30,754 --> 00:32:37,056
+army. At one point, the inhuman hero Ms. Marvel
+recruited Lunella and Devil Dinosaur to help
+
+342
+00:32:37,156 --> 00:32:41,938
+in the war between the Inhumans and the X-Men,
+which was caused by the toxic nature of the
+
+343
+00:32:41,998 --> 00:32:47,279
+Terrigan mists to mutants. Lunella used her
+knowledge of Kree technology to help the X-Men
+
+344
+00:32:47,299 --> 00:32:52,901
+scientist Forge miniaturize a version of a machine
+he designed that would compress the Terrigan
+
+345
+00:32:52,941 --> 00:32:58,466
+gases into a solid state and incinerate it.
+You can learn more about Forge in our Mr. Terrific
+
+346
+00:32:58,506 --> 00:33:04,988
+vs. Forge dual episode. Later, Lunella received
+a distress call from space and built a spacecraft
+
+347
+00:33:05,088 --> 00:33:10,410
+so she and Devil Dinosaur could answer it. During
+the adventure, her omni-wave projector malfunctioned
+
+348
+00:33:10,690 --> 00:33:16,752
+and the pair ended up back in time on Dinosaur
+World, Devil's home planet. There they found
+
+349
+00:33:16,852 --> 00:33:21,533
+Moonboy at the time he discovered the omni-wave
+projector and they were able to prevent him
+
+350
+00:33:21,673 --> 00:33:26,815
+from being beaten by the Killer Folk. Knowing
+that Devil was back home with his true owner,
+
+351
+00:33:27,095 --> 00:33:32,377
+Lunella decided that leaving him with Moonboy
+was the right thing to do. She said goodbye,
+
+352
+00:33:32,577 --> 00:33:37,719
+and though Devil Dinosaur protested, she tearfully
+told him she didn't want him anymore and used
+
+353
+00:33:37,759 --> 00:33:42,881
+the projector to travel back to Earth alone.
+Sad and isolated, Lunella ended up joining
+
+354
+00:33:42,921 --> 00:33:48,464
+the Thing, Human Torch, and the robot Herbie
+in a new version of the Fantastic Four, as
+
+355
+00:33:48,504 --> 00:33:53,466
+Mr. Fantastic and Invisible Woman were off with
+their children recreating the multiverse. You
+
+356
+00:33:53,486 --> 00:33:58,568
+can learn more about that in our Justice Society
+vs. Fantastic Four dual episode. Eventually,
+
+357
+00:33:58,628 --> 00:34:03,870
+Lunella used Herbie to open a dimensional portal
+to bring Devil Dinosaur back to Earth to help
+
+358
+00:34:03,910 --> 00:34:09,092
+in a fight against the Super Skrull, and the
+two were reunited. Lunella admitted she was
+
+359
+00:34:09,152 --> 00:34:13,954
+wrong for leaving Kim, Devil forgave her, and
+the two went back to fighting crime on their
+
+360
+00:34:14,074 --> 00:34:19,797
+own. This included helping Doctor Strange rescue
+a boy kidnapped by the villain Nightmare, assisting
+
+361
+00:34:19,877 --> 00:34:25,759
+Spider-Man against a Goblin foe, and solving
+an unsolvable riddle for Thor that was posed
+
+362
+00:34:25,819 --> 00:34:31,380
+by his brother Loki. The latter adventure revealing
+that Devil was worthy of wielding Mjolnir and
+
+363
+00:34:31,420 --> 00:34:36,002
+it transformed him into the Thunder Lizard.
+On a family trip to the country of Wakanda,
+
+364
+00:34:36,442 --> 00:34:41,703
+Lunela's parents discovered her secret alter
+ego as Moon Girl. They banned her from continuing
+
+365
+00:34:41,743 --> 00:34:47,085
+to fight crime with her dinosaur pet, though
+they later compromised as long as Lunela visited
+
+366
+00:34:47,145 --> 00:34:52,335
+with a therapist once a week. At that time,
+she formed a support group for fellow newly
+
+367
+00:34:52,375 --> 00:34:58,077
+powered adolescent inhumans called the Support
+Alliance Derby for Sensationally Abled Kids,
+
+368
+00:34:58,657 --> 00:35:05,700
+or SADSACS for short. And that's her backstory.
+Powers-wise, Moon Girl has the inhuman power
+
+369
+00:35:05,740 --> 00:35:11,123
+to temporarily swap her consciousness with Devil
+Dinosaur, her crime-fighting partner. This
+
+370
+00:35:11,163 --> 00:35:15,805
+process is triggered involuntarily, caused by
+heightened emotional states and the Fool Moon.
+
+371
+00:35:16,205 --> 00:35:20,967
+She has an exceptionally high intellect. stated
+to likely be the smartest person on Earth,
+
+372
+00:35:21,367 --> 00:35:26,349
+and has built a vast array of homemade gadgets
+for her crime fighting activities. This includes,
+
+373
+00:35:26,409 --> 00:35:32,331
+but is not limited to, spectrum scanning goggles,
+spring loaded boxing gloves, rocket powered
+
+374
+00:35:32,371 --> 00:35:38,914
+roller skates, a helicopter backpack, a plunger
+tipped taser gun, sneeze powder grenades, a
+
+375
+00:35:38,954 --> 00:35:44,456
+flashlight flash bang, and so many other toys
+in her utility belt. She can invent nearly
+
+376
+00:35:44,636 --> 00:35:50,034
+anything she puts her gifted mind to, physically
+through engineering, or digitally through computer
+
+377
+00:35:50,114 --> 00:35:55,477
+programming. Devil Dinosaur is a physically
+and mentally enhanced Tyrannosaurus Rex-like
+
+378
+00:35:55,558 --> 00:36:01,801
+dinosaur via genetic mutation awakened when
+he was set aflame as a youngling. He has increased
+
+379
+00:36:01,841 --> 00:36:07,784
+durability and strength, able to lift around
+25 tons, and his scaly hide is immune to heat
+
+380
+00:36:07,924 --> 00:36:14,108
+and strong enough to be bulletproof. Devil Dinosaur's
+fangs, claws, and his sense of smell are razor
+
+381
+00:36:14,128 --> 00:36:19,690
+sharp, and he can track nearly anyone by their
+scent. He has human level reasoning abilities
+
+382
+00:36:19,870 --> 00:36:24,832
+and can fully understand moon girl's commands.
+That's moon girl in devil dinosaur. Wait, so
+
+383
+00:36:25,033 --> 00:36:30,695
+when devil dinosaur takes over moon girl's body,
+is she just like this snarling creature who's
+
+384
+00:36:30,715 --> 00:36:35,677
+like always hungry? Yeah, she looks quite feral
+actually. It's kind of funny when it happens.
+
+385
+00:36:36,957 --> 00:36:41,459
+Interesting. And her friends are aware of what's
+going on or they aren't? No, she just gets
+
+386
+00:36:41,499 --> 00:36:46,641
+further ostracized for being weird when she
+swaps minds with devil dinosaur during school
+
+387
+00:36:46,681 --> 00:36:52,061
+time. That's funny. That's cute. What a cute
+character. Yeah, and she freaking lives at
+
+388
+00:36:52,081 --> 00:36:57,364
+the end. Yeah, that's because Marvel is for
+little kids, bro. OK. All right. DC is for
+
+389
+00:36:57,384 --> 00:37:03,809
+the adults. Sad adults, but adults nonetheless.
+I mean, what adult isn't sad?
+
+390
+00:37:12,270 --> 00:37:15,830
+So now that we got the characters' histories
+and abilities out of the way, let's speculate
+
+391
+00:37:15,890 --> 00:37:20,812
+on how one of the 1000 simulated matches will
+go. The winner is determined by simulations,
+
+392
+00:37:21,232 --> 00:37:25,513
+not the speculation, but it's fun to imagine
+how the fight could play out. Alfred Jarvis
+
+393
+00:37:25,533 --> 00:37:31,215
+9000, what are the rules of our speculation?
+Well, I should say there are no rules, other
+
+394
+00:37:31,255 --> 00:37:35,296
+than the characters have no prior knowledge
+of the other going into the fight. All they
+
+395
+00:37:35,316 --> 00:37:39,857
+are aware of starting out is that the other
+character is a threat that needs to be eliminated.
+
+396
+00:37:40,237 --> 00:37:45,555
+For the speculation... contestants will begin
+approximately 50 meters apart in a nondescript
+
+397
+00:37:45,615 --> 00:37:50,397
+environment that will have no bearing on the
+match itself as no environmental statistics
+
+398
+00:37:50,437 --> 00:37:55,759
+are considered in my simulations. The contestants
+must earn victory on their own merit. Alright
+
+399
+00:37:55,779 --> 00:38:00,641
+then let's get into it! Dorothy Spinner and
+Moon Girl and Devil Dinosaur meet on the battlefield.
+
+400
+00:38:01,061 --> 00:38:06,664
+Who goes first? Honestly this is kind of hard
+because I don't think either character would
+
+401
+00:38:06,684 --> 00:38:13,219
+attack the other really like they'd probably
+commiserate and want to be but that's too bad
+
+402
+00:38:13,239 --> 00:38:18,502
+because the purpose of the podcast is to see
+who would win in no holds barred action. So
+
+403
+00:38:18,522 --> 00:38:25,446
+we're gonna make these children fight, damn
+it. All right, I figured that once Dorothy
+
+404
+00:38:25,546 --> 00:38:32,550
+sees Devil Dinosaur, she's gonna freak out and
+probably summon Pretty Miss Dot, who's kind
+
+405
+00:38:32,590 --> 00:38:39,894
+of her go-to when she's in danger. So this weird
+entity wearing a helmet with lips. and curlers
+
+406
+00:38:39,934 --> 00:38:45,778
+and lipstick fingers flies toward Devil Dinosaur
+and begins blasting him with fire. Alright,
+
+407
+00:38:45,838 --> 00:38:51,843
+well that does nothing. Devil Dinosaur is immune
+to fire, so all this attack is gonna do is
+
+408
+00:38:51,863 --> 00:38:56,786
+just piss him off. So he's infuriated and he's
+gonna roar real loud and then he's just gonna
+
+409
+00:38:56,826 --> 00:39:03,030
+chomp down on Pretty Mistat with his razor sharp
+teeth. Meanwhile, Moon Girl is gonna roller
+
+410
+00:39:03,070 --> 00:39:07,613
+skate over to Dorothy and just knock her the
+hell out with a spring-loaded boxing glove.
+
+411
+00:39:08,054 --> 00:39:13,135
+Yeah, except that now Dorothy is emotionally
+traumatized by having seen Pretty Miss Dot
+
+412
+00:39:13,195 --> 00:39:19,377
+just die like that. So while Moon Girl was approaching
+Dorothy, she's going to conjure several more
+
+413
+00:39:19,477 --> 00:39:25,939
+entities. And we'll go with Paddle the Sky for
+Moon Girl and Heart of Ice for Devil Dinosaur,
+
+414
+00:39:25,999 --> 00:39:30,920
+since Fire didn't do anything to him. So not
+only does Moon Girl's boxing glove get knocked
+
+415
+00:39:31,000 --> 00:39:36,842
+out of the way, she also gets paddled numerous
+times by Paddle the Sky. And Devil Dinosaur
+
+416
+00:39:36,862 --> 00:39:43,003
+is now encased in ice. Remind, what do Paddle
+of the Sky and Heart of Ice look like? Paddle
+
+417
+00:39:43,023 --> 00:39:48,625
+of the Sky is literally a spinning vortex of
+hands holding wooden paddles. And Heart of
+
+418
+00:39:48,705 --> 00:39:55,427
+Ice is just a woman made of ice. Okay. Uh, not
+gonna lie, I don't think Moon Girl would be
+
+419
+00:39:55,487 --> 00:40:02,289
+well equipped for all this weirdness. But she's
+gonna evade the paddles by activating her spring-loaded
+
+420
+00:40:02,329 --> 00:40:07,746
+roller skates to launch herself into the air.
+And then she's going to switch on her helicopter
+
+421
+00:40:07,786 --> 00:40:13,528
+backpack. So she's flying through the air. And
+as this paddle creature is chasing her, Moon
+
+422
+00:40:13,568 --> 00:40:19,169
+Girl is going to pilot over toward Devil Dinosaur.
+And then she's going to quickly zip out of
+
+423
+00:40:19,209 --> 00:40:26,251
+the way so that paddle guy crashes into Devil
+Dinosaur, who's in the ice. And basically,
+
+424
+00:40:26,311 --> 00:40:33,073
+the paddles are going to break Devil Dinosaur
+out of his ice casing. So now that Devil Dinosaur
+
+425
+00:40:33,093 --> 00:40:38,923
+is free. He's just gonna tackle paddle the sky
+out of the sky and just eviscerate it turning
+
+426
+00:40:38,963 --> 00:40:45,545
+those paddles into Splinters I hope you choke
+on them And while that's happening moon girl
+
+427
+00:40:45,565 --> 00:40:52,427
+is gonna whip out a hairdryer That she outfitted
+as a flamethrower and she's just gonna melt
+
+428
+00:40:52,507 --> 00:40:59,629
+the ice lady to a puddle Dude keep killing Dorothy's
+imaginary friends. See what happens. She's
+
+429
+00:40:59,669 --> 00:41:06,610
+got some weird ass friends, you know Even you've
+got insoles for her. Wow, wow, she can't catch
+
+430
+00:41:06,630 --> 00:41:12,092
+a break, can she? Dude, these friends are objectively
+weird. I don't think anybody would deny them.
+
+431
+00:41:12,172 --> 00:41:18,834
+Literally one of them is made out of paddles.
+Come on. And while Moon Girl and Devil Dinosaur
+
+432
+00:41:18,854 --> 00:41:24,355
+are taking care of them, Dorothy's gonna be
+like, oh no, my friends. And that is when Moon
+
+433
+00:41:24,395 --> 00:41:29,677
+Girl, she's gonna pull out a can of soda that
+she shakes and then hurls over to Dorothy like
+
+434
+00:41:29,717 --> 00:41:35,828
+a grenade and the can. is going to explode and
+just drench Dorothy in this sticky adhesive
+
+435
+00:41:36,229 --> 00:41:41,212
+that Moon Girl invented. Okay, the can, it's
+going to explode way before it reaches Dorothy
+
+436
+00:41:41,232 --> 00:41:46,876
+because Cowboy doll Bookface is going to shoot
+it right out of the sky when it's right over
+
+437
+00:41:46,936 --> 00:41:53,381
+Devil Dinosaur just drenching him in the adhesive
+instead. So Devil is stuck to the ground and
+
+438
+00:41:53,461 --> 00:41:58,024
+Cowboy is just going to keep shooting at Moon
+Girl. All right, well, Moon Girl is going to
+
+439
+00:41:58,164 --> 00:42:05,809
+dive behind Devil Dinosaur. and use him as cover
+since she knows that he's bulletproof. And
+
+440
+00:42:05,849 --> 00:42:10,511
+then to get him free of the adhesive, she's
+gonna pour a soda can of anti-adhesive on him
+
+441
+00:42:11,152 --> 00:42:17,816
+and then hop on Devil's back as he gets up and
+just straight up charges Cowboy Dollface and
+
+442
+00:42:18,036 --> 00:42:23,619
+whips his tail right through him, book face.
+Whatever. But his tail whip is gonna cause
+
+443
+00:42:23,939 --> 00:42:29,627
+the Cowboy to explode into a thousand doll parts.
+So he's gone. And without missing a beat, like
+
+444
+00:42:29,827 --> 00:42:35,052
+after that tailwhip, Moon Girl is going to spring
+off of Devil Dinosaur's back and she's going
+
+445
+00:42:35,072 --> 00:42:40,516
+to shoot a taser plunger at Dorothy that sticks
+to Dorothy's head and it's going to send like
+
+446
+00:42:40,556 --> 00:42:46,061
+10,000 volts of electricity through her brain.
+Just shutting it down. Well, OK, Dorothy's
+
+447
+00:42:46,281 --> 00:42:51,486
+knocked out, but she doesn't need to be conscious
+for her imaginary friends to manifest or protect
+
+448
+00:42:51,526 --> 00:42:59,548
+her. You know, so as Moon Girl is about to land.
+She lands on Honey Pie, which is a beehive
+
+449
+00:42:59,568 --> 00:43:05,533
+with tree branches for limbs and a honeypot
+for a head. So Honey Pie has Moon Girl in this
+
+450
+00:43:05,793 --> 00:43:10,957
+bear hug, essentially, and Moon Girl's being
+squeezed and stung as she's pressed up against
+
+451
+00:43:10,997 --> 00:43:17,762
+this pissed off beehive. And meanwhile, Spinner,
+the adult version of Dorothy, is going to appear
+
+452
+00:43:18,162 --> 00:43:25,203
+and manifest Devil Dinosaur's greatest fear,
+which is... I don't know, an army of the killer
+
+453
+00:43:25,243 --> 00:43:31,106
+folk tribesmen who are all gonna rush and attack
+Devil Dinosaur. I mean, Devil Dinosaur eats
+
+454
+00:43:31,146 --> 00:43:36,909
+killer folk for breakfast, alright? So he's
+gonna tear through them to rescue Moon Girl
+
+455
+00:43:37,049 --> 00:43:43,493
+from this beehive guy. Honey pie. Yeah, yeah,
+he's gonna grab honey pie in his T-Rex claws
+
+456
+00:43:43,853 --> 00:43:49,176
+and just freaking body slam that thing causing
+it to drop Moon Girl who's gonna helicopter
+
+457
+00:43:49,216 --> 00:43:54,091
+away to safety. And as she's flying away...
+She's gonna pull out of her backpack a version
+
+458
+00:43:54,171 --> 00:44:00,256
+of Professor X's Cerebro device that in the
+comics she once calibrated to detect magic
+
+459
+00:44:00,296 --> 00:44:06,181
+beings. So she's gonna be recalibrating it again.
+Where is she pulling this stuff out from? Her
+
+460
+00:44:06,201 --> 00:44:12,006
+backpack? Okay. Well, I mean, Spinner is still
+around. So she's gonna appear into Moon Girl's
+
+461
+00:44:12,046 --> 00:44:18,092
+mind and manifest Moon Girl's greatest fear,
+which is, I don't know, what's Moon Girl's
+
+462
+00:44:18,112 --> 00:44:27,524
+greatest fear? Uh, I... I don't know, an F on
+a test or something? Big whoop. Moon Girl wearing
+
+463
+00:44:27,664 --> 00:44:34,269
+the recalibrated Cerebro is gonna deduce that
+Dorothy's friends are psychic manifestations.
+
+464
+00:44:35,130 --> 00:44:41,456
+So she's gonna pull out a bullhorn that emanates
+a frequency that disrupts psychic energies.
+
+465
+00:44:42,116 --> 00:44:48,161
+And Moon Girl's gonna use this invention to
+just dissipate Spinner. Okay, all right, so.
+
+466
+00:44:48,834 --> 00:44:56,620
+Dorothy is going to wake up to see Spinner dissipate.
+And all of a sudden, she hears the Candlemaker
+
+467
+00:44:56,700 --> 00:45:01,444
+whispering in her mind, asking her to make a
+wish. And she's going to wish that this match
+
+468
+00:45:01,464 --> 00:45:08,550
+was over. And that's what's going to happen.
+Devil Dinosaur, he'll eat Moon Girl. And he
+
+469
+00:45:08,570 --> 00:45:14,695
+himself is going to burst into eldritch flames
+that just melt his bodily tissue like Raiders
+
+470
+00:45:14,735 --> 00:45:20,414
+of the Lost Ark style, just leaving this dinosaur
+skeleton. Match over. What? I don't get it.
+
+471
+00:45:20,834 --> 00:45:25,135
+Was Devil Dinosaur possessed or something? I
+don't even know what happened there. No, like
+
+472
+00:45:25,155 --> 00:45:30,857
+he was more like driven insane by the Candlemaker.
+And it caused him to eat Moon Girl? Yep. I
+
+473
+00:45:30,937 --> 00:45:36,519
+say that like even before Dorothy hears the
+Candlemaker like whispering in her ear and
+
+474
+00:45:36,539 --> 00:45:41,640
+then, you know, she makes the wish and all that
+weirdness happens, that would take a while.
+
+475
+00:45:42,020 --> 00:45:46,981
+So before that, Devil Dinosaur just straight
+up stomps Dorothy with his big old dinosaur
+
+476
+00:45:47,001 --> 00:45:53,631
+foot. planning and then he's gonna let out a
+big victory roar like the T-Rex did at the
+
+477
+00:45:53,671 --> 00:45:58,993
+end of the Jurassic Park movie. I don't think
+that hearing make a wish and then making a
+
+478
+00:45:59,033 --> 00:46:05,294
+wish would take all that long. I mean it's not
+quicker than a foot dropping on you so I don't
+
+479
+00:46:05,314 --> 00:46:10,636
+know but we could go ahead and leave the match
+there either Dorothy makes her wish and the
+
+480
+00:46:10,676 --> 00:46:16,554
+candle maker causes moon girl and devil dinosaur
+to destroy themselves or Dorothy doesn't have
+
+481
+00:46:16,574 --> 00:46:20,455
+a chance to make the wish because she's a pancake.
+Let's go ahead and find out which of these
+
+482
+00:46:20,475 --> 00:46:25,796
+scenarios happens by inputting the stats for
+these characters and running 1000 simulations.
+
+483
+00:46:25,816 --> 00:46:31,898
+We'll be right back with the winner. Hey G9K,
+hit it! Inputting data. Running calculations.
+
+484
+00:46:32,358 --> 00:46:37,540
+Processing results. Simulations complete. I
+hate to see these two characters go up against
+
+485
+00:46:37,580 --> 00:46:41,361
+each other. It would have been more fun, I think,
+to do a speculation where they become best
+
+486
+00:46:41,401 --> 00:46:46,231
+friends and hang out together, you know? Right?
+It was kind of interesting just coming up with
+
+487
+00:46:46,251 --> 00:46:50,353
+the stats. We kind of realized that both of
+these characters' powers are essentially the
+
+488
+00:46:50,393 --> 00:46:55,776
+power of imagination. Like they're highly, highly
+versatile. Right, because Moon Girl can basically
+
+489
+00:46:55,996 --> 00:47:01,179
+engineer anything she imagines, and Dorothy
+Spinner can manifest it. So that was pretty
+
+490
+00:47:01,199 --> 00:47:07,202
+cool. We treated this matchup like a two versus
+two character matchup, like a mini team duel,
+
+491
+00:47:07,242 --> 00:47:12,004
+which we've done before in episodes like Cloak
+and Dagger versus the Wonder Twins, or North
+
+492
+00:47:12,024 --> 00:47:16,378
+Star and Aurora versus Hawk and Dove. Yeah,
+or like Daughters of the Demon versus Daughters
+
+493
+00:47:16,398 --> 00:47:23,240
+of the Dragon. Yeah, we've done a few 2v2 matches
+before. In this case, we counted the individual
+
+494
+00:47:23,260 --> 00:47:30,102
+stats for Moon Girl and Devil Dinosaur, as well
+as Dorothy Spinner on her own, and kind of
+
+495
+00:47:30,242 --> 00:47:37,644
+an amalgamation of her imaginary friends, wherein
+we averaged the stats of all of her imaginary
+
+496
+00:47:37,684 --> 00:47:41,845
+friends and treated it as kind of like this
+composite being. Yeah, which was not easy.
+
+497
+00:47:42,462 --> 00:47:46,483
+No, it was pretty difficult to come up with
+that average for the imaginary friends, but
+
+498
+00:47:46,523 --> 00:47:51,184
+in the end we ended up getting win rates for
+each one of the characters. Dorothy Spinner
+
+499
+00:47:51,204 --> 00:47:57,286
+was by far the weakest. Yes, Dorothy Spinner
+is hands down the weakest character I've ever
+
+500
+00:47:57,326 --> 00:48:03,047
+done a duel with. I felt bad for her as I was
+entering these stats in. But, her imaginary
+
+501
+00:48:03,088 --> 00:48:08,389
+friend creatures were actually really powerful,
+more powerful than either Moon Girl or Devil
+
+502
+00:48:08,409 --> 00:48:13,239
+Dinosaur on their own. And- kind of wiped the
+floor with both of them individually, winning
+
+503
+00:48:13,379 --> 00:48:17,962
+three quarters of all of its matches. And what
+was really interesting was that Moon Girl actually
+
+504
+00:48:18,002 --> 00:48:23,405
+had better stats than Devil Dinosaur. Right.
+Just due to her heightened intelligence and
+
+505
+00:48:23,425 --> 00:48:27,948
+versatility with all the inventions and stuff
+like that. Devil Dinosaur is strong and can
+
+506
+00:48:27,968 --> 00:48:33,110
+do damage, but otherwise, you know, he's not
+that impressive statistically, considering
+
+507
+00:48:33,150 --> 00:48:39,910
+he's kind of a one trick pony and not that bright.
+He's a dinosaur. It's kind of interesting because
+
+508
+00:48:39,930 --> 00:48:44,412
+a lot of Dorothy's imaginary friends were also
+one trick ponies. But then you have someone
+
+509
+00:48:44,432 --> 00:48:48,874
+like the candle maker who isn't technically
+an imaginary friend, but we still kind of counted
+
+510
+00:48:48,914 --> 00:48:54,476
+him in the composite considering the fact that
+he was a manifestation from Dorothy's mind.
+
+511
+00:48:54,916 --> 00:49:00,039
+And the guy could almost do anything. You can
+make wishes come true, essentially. Yeah, he
+
+512
+00:49:00,099 --> 00:49:05,321
+definitely skewed that average. But was it enough?
+What do you think, Joseph? I think there's
+
+513
+00:49:05,341 --> 00:49:11,018
+an interesting balance here. between how weak
+Dorothy is, but how strong her imaginary friends
+
+514
+00:49:11,118 --> 00:49:16,923
+are. And then Moon Girl and Devil Dinosaur are
+somewhere in between that power spectrum. So
+
+515
+00:49:17,083 --> 00:49:21,247
+I think the matchup is gonna be close. I do
+think that the scales are ultimately gonna
+
+516
+00:49:21,287 --> 00:49:27,352
+tip toward Moon Girl and Devil Dinosaur though.
+So we did a poll on Instagram and 64% of those
+
+517
+00:49:27,372 --> 00:49:32,157
+who voted, voted in favor of Moon Girl and Devil
+Dinosaur. Do you think it's gonna be over or
+
+518
+00:49:32,237 --> 00:49:36,738
+under that? I think it's going to be under that.
+I think it's going to be a closer match. But
+
+519
+00:49:36,758 --> 00:49:41,380
+that was definitely a popularity contest poll.
+We even had some people ask us like, who the
+
+520
+00:49:41,400 --> 00:49:46,161
+heck is Dorothy Spinner? To which case, I got
+to say, read and or watch Doom Patrol because
+
+521
+00:49:46,201 --> 00:49:51,843
+it's awesome. You have to watch Doom Patrol
+on Max. It's a great show. And its final season
+
+522
+00:49:51,883 --> 00:49:57,724
+is wrapping up here soon. But let's find out
+who won. AJ 9K, the results, please. Hey, you
+
+523
+00:49:57,804 --> 00:50:04,591
+are, sir. The winner of the matchup between
+Dorothy Spinner and Moon Girl and Devil Dinosaur
+
+524
+00:50:05,091 --> 00:50:11,076
+is Moon Girl and Devil Dinosaur. Hell yeah.
+I was hoping to see that coming. I was hoping
+
+525
+00:50:11,096 --> 00:50:18,941
+she'd win this one. It was close. Moon Girl
+and Devil Dinosaur won 57.1% of the matches
+
+526
+00:50:19,081 --> 00:50:26,006
+or 571 out of 1000 compared to Dorothy Spinner
+and her imaginary friend who only won 42.9.
+
+527
+00:50:27,047 --> 00:50:31,354
+So that was pretty close. If you had asked me
+leading into this. Whether or not I thought
+
+528
+00:50:31,414 --> 00:50:36,037
+Moon Girl and Devil Dinosaur even stood a chance
+against Dorothy Spinner, I would have said
+
+529
+00:50:36,057 --> 00:50:42,760
+you're out of your mind. Well, it's really all
+about Moon Girl's intelligence, right? Considering
+
+530
+00:50:42,800 --> 00:50:48,003
+that she is likely the most intelligent person
+in the Marvel universe, she has a lot going
+
+531
+00:50:48,023 --> 00:50:52,786
+for her. Probably more than you ever realized.
+Way more than Dorothy Spinner, I think. It's
+
+532
+00:50:52,846 --> 00:50:57,188
+not down to the intelligence. You know what
+it's down to? What? The fucking system, man.
+
+533
+00:50:57,428 --> 00:51:02,592
+The fucking system. What? Yeah, it's like there's
+no way that Dorothy Spinner would go into this
+
+534
+00:51:02,652 --> 00:51:09,299
+match with only one imaginary friend, but it's
+way too complicated to pit two characters against
+
+535
+00:51:09,339 --> 00:51:14,544
+like 20. Well, that's why we had the composite
+imaginary friend. It's not good enough. It's
+
+536
+00:51:14,584 --> 00:51:19,448
+not good enough. The system's broken. I think
+it sounds pretty accurate myself. But, you
+
+537
+00:51:19,468 --> 00:51:23,919
+know, anytime Marvel wins. It always sounds
+highly accurate to me. It does make me wonder
+
+538
+00:51:23,939 --> 00:51:28,922
+though, how we're gonna run the stats for next
+week's team duel between Doom Patrol and Guardians
+
+539
+00:51:28,942 --> 00:51:34,985
+of the Galaxy if we count Dorothy Spinner as
+multiple beings. I don't know if we can actually.
+
+540
+00:51:35,305 --> 00:51:39,647
+We might have to do a composite of her as well
+with the imaginary friend. That'll be interesting.
+
+541
+00:51:40,068 --> 00:51:44,810
+That will be interesting. We'll have to figure
+that out. Considering those seven versus seven,
+
+542
+00:51:44,950 --> 00:51:50,553
+matrices simulations take a long time to run.
+Yeah, ton of time. Even two versus two takes
+
+543
+00:51:50,593 --> 00:51:56,937
+a while. Yeah. I hope you feel bad. I hope you
+feel bad for Dorothy Spinner. She's had a hard
+
+544
+00:51:56,977 --> 00:52:02,700
+life and you don't make it any easier. Well,
+geez, I do feel bad for her as a character,
+
+545
+00:52:03,180 --> 00:52:07,683
+but also, you know, Moon Girl and Devil Dinosaur
+deserve this win. So there you go. All right.
+
+546
+00:52:07,703 --> 00:52:12,885
+I guess if you can live with that guilt. That
+does it for this duel. Let us know what you
+
+547
+00:52:12,905 --> 00:52:18,268
+thought about the results by writing to us at
+dynamicduelpodcast at gmail.com or by visiting
+
+548
+00:52:18,368 --> 00:52:23,422
+us on Instagram or X. You can find links to
+all of our accounts by checking out our show
+
+549
+00:52:23,462 --> 00:52:29,084
+notes or visiting our website at dynamicduel.com.
+And on our site you can also find a link to
+
+550
+00:52:29,104 --> 00:52:33,525
+our Patreon page where you can join our Dynamic
+2.0 tier and chat with us and fellow listeners,
+
+551
+00:52:34,045 --> 00:52:38,867
+our Fantastic Four tier which gets you bonus
+content each month, our X-Force tier that makes
+
+552
+00:52:38,887 --> 00:52:43,208
+you an executive producer of this podcast, or
+our newest tier that lets you join our Dynamite
+
+553
+00:52:43,308 --> 00:52:47,889
+Podcast Network. If you can't join Patreon,
+you can still support our show by signing up
+
+554
+00:52:47,909 --> 00:52:54,112
+for our e-newsletter. also at dynamicduel.com.
+Or you can also rate the show on Apple podcasts,
+
+555
+00:52:54,272 --> 00:53:00,416
+Spotify, Podchaser, or on our website. As we
+mentioned earlier, our next episode is going
+
+556
+00:53:00,436 --> 00:53:06,919
+to be episode 350, a big team duel between the
+Doom Patrol and the Guardians of the Galaxy.
+
+557
+00:53:07,339 --> 00:53:13,143
+Can I wait for that? Doom Patrol is going down
+and it is gonna be very satisfying. I just
+
+558
+00:53:13,183 --> 00:53:18,105
+imagine it's going to be like the most bizarre
+team duel that we've ever had. I guarantee
+
+559
+00:53:18,125 --> 00:53:21,955
+it. For sure, for sure. But that does it for
+this episode, we want to give a big thanks
+
+560
+00:53:21,975 --> 00:53:26,958
+to our executive producers Ken Johnson, John
+Strausky, Zachary Hepburn, Dustin Balcom, Mickey
+
+561
+00:53:26,978 --> 00:53:32,341
+Mathen-Geehan, Brandon Estregard, Nathaniel
+Wagner, Levi Yeaton, Nick Abonto, Austin Wisselowski,
+
+562
+00:53:32,561 --> 00:53:38,204
+AJ Dunkerley, Scott Camacho, and Adam Spies
+for helping make this podcast possible. And
+
+563
+00:53:38,224 --> 00:53:43,787
+we'll talk to you guys next week. Up up and
+away, true believers. This episode was sponsored
+
+564
+00:53:43,807 --> 00:53:47,269
+by the card game, Chronicle AI. Get it at chronicleaigame.com.
+
