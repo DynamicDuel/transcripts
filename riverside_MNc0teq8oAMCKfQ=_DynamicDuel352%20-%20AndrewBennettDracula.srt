@@ -1,0 +1,2942 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a Dynamike Network podcast.
+
+2
+00:00:24,846 --> 00:00:29,249
+And welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,289 --> 00:00:35,073
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:35,653 --> 00:00:41,898
+I'm Marvelous Joe. And I'm his twin brother,
+Johnny DC. And we are kicking off Spooky October.
+
+5
+00:00:41,958 --> 00:00:45,400
+We've never called it Spooky October before
+now, but I'm just going to call it Spooky October
+
+6
+00:00:45,721 --> 00:00:52,125
+because we're coming at you guys with non-stop
+Halloween-related duels and reviews all October
+
+7
+00:00:52,165 --> 00:00:59,126
+long. culminating in what is sure to be a much
+anticipated episode for our fans on Halloween
+
+8
+00:00:59,146 --> 00:01:04,571
+day, October 31st. I don't wanna give away the
+surprise just yet, but it's gonna be awesome.
+
+9
+00:01:05,051 --> 00:01:08,454
+This episode is also gonna be awesome. We're
+gonna find out who'd win in a fight between
+
+10
+00:01:08,674 --> 00:01:14,559
+Andrew Bennett from the comic book, I, Vampire,
+which I think is like the Apple version of
+
+11
+00:01:14,619 --> 00:01:21,685
+a regular vampire against fucking Dracula. Like
+who's this Andrew Bennett guy compared to Dracula?
+
+12
+00:01:21,865 --> 00:01:27,241
+He's nobody, that's who. You're gonna learn
+today. All right. I honestly can't wait for
+
+13
+00:01:27,281 --> 00:01:31,065
+this matchup. I think it's gonna be pretty cool.
+No, no, no. Okay, every time you wanna use
+
+14
+00:01:31,085 --> 00:01:35,168
+the word cool for the month of October, just
+replace it with spooky. So say that again.
+
+15
+00:01:35,669 --> 00:01:42,235
+I'm looking forward to it. It's gonna be spooky.
+Before we find out who'd win in a fight between
+
+16
+00:01:42,275 --> 00:01:45,718
+these two characters, guys, we're gonna break
+down the latest comic book movie news to come
+
+17
+00:01:45,758 --> 00:01:53,211
+out from the past week, including some threads
+from James Gunn confirming. new DCU canon info.
+
+18
+00:01:53,271 --> 00:01:57,814
+And that's basically it, kind of a slow news
+week, but we're hoping for more content as
+
+19
+00:01:57,894 --> 00:02:02,536
+the writer's strike and hopefully the actor's
+strike soon become resolved. As always, we
+
+20
+00:02:02,576 --> 00:02:06,579
+list our segment times in our episode description,
+so feel free to check out the show notes if
+
+21
+00:02:06,599 --> 00:02:11,602
+you want to skip ahead to a particular topic.
+As our listeners may know, our duel simulator
+
+22
+00:02:11,702 --> 00:02:17,185
+is so advanced that it's gained sentience, and
+has named itself the Artificial Lifeform for
+
+23
+00:02:17,225 --> 00:02:24,134
+running extensive duels. just a rather very
+intelligent simulator 9000 or Alfred Jarvis
+
+24
+00:02:24,194 --> 00:02:31,655
+9000. He has a quick message for our listeners
+so listen up. Why hello there. Do you love
+
+25
+00:02:31,715 --> 00:02:36,578
+listening and chatting about Marvel and DC?
+Then become a part of the dynamic dual community
+
+26
+00:02:36,638 --> 00:02:42,162
+on Patreon where you can choose from three tiers.
+The dynamic 2-0 tier lets you listen to this
+
+27
+00:02:42,222 --> 00:02:47,045
+podcast without ads and gives you access to
+its Discord chat group where you can chat with
+
+28
+00:02:47,085 --> 00:02:52,209
+Johnny DC and Marvelous Joe. The fantastic 4
+tier gives you that and more with two bonus
+
+29
+00:02:52,249 --> 00:02:56,992
+episodes each month including bloopers and top
+10 shows where Johnny and Joe count down your
+
+30
+00:02:57,032 --> 00:03:02,051
+favourite Marvel and DC subjects. The X-Force
+tier makes you an executive producer of Dynamic
+
+31
+00:03:02,092 --> 00:03:06,707
+Dual. where every month you help the host choose
+what to review and who to fight against each
+
+32
+00:03:06,747 --> 00:03:12,690
+other. And finally, the Dynamite Podcast Network
+tier allows aspiring podcasters to create their
+
+33
+00:03:12,830 --> 00:03:17,873
+own battle-focused show using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+34
+00:03:17,893 --> 00:03:22,775
+your show, provide graphic support and consultation,
+and get you simulation results to announce
+
+35
+00:03:22,815 --> 00:03:28,458
+on your show. Pitch the twins your show via
+email at dynamicduelpodcast.gmail.com or by
+
+36
+00:03:28,498 --> 00:03:32,279
+reaching out to them on social media. Check
+it out at patreon.com slash dynamicduelpodcast.gmail.com.
+
+37
+00:03:32,740 --> 00:03:39,561
+your Pip Cheerio. Thanks AJ 9K and thanks to
+everyone who supports the podcast, including
+
+38
+00:03:39,761 --> 00:03:45,522
+our newest executive producer of the show, Andrew
+Shunk. I hope I'm pronouncing that right. Andrew,
+
+39
+00:03:45,542 --> 00:03:48,683
+please, if we're not, reach out to us and let
+us know because we're gonna be saying your
+
+40
+00:03:48,703 --> 00:03:53,264
+name a lot, especially at the end of every episode.
+So Andrew Shunk is our latest member of X-Force
+
+41
+00:03:53,564 --> 00:03:59,525
+and is now part of helping Jonathan and I come
+up with the content for this podcast. Also,
+
+42
+00:03:59,545 --> 00:04:05,298
+I just wanna point out that he's a DC. Loyalist
+which makes him extra special. Yeah, I'm not
+
+43
+00:04:05,318 --> 00:04:11,847
+happy about it. We're taking over. We're taking
+over but thanks to all of our patrons and Guys,
+
+44
+00:04:11,867 --> 00:04:16,793
+be sure to tune into the max destruction podcast,
+which is part of the dynamike podcast network
+
+45
+00:04:17,110 --> 00:04:21,854
+where Dustin and Ken are dropping bonus episodes
+these couple of weeks where they rant about
+
+46
+00:04:21,894 --> 00:04:26,217
+things that grind their gears. It should be
+funny, they're both hilarious dudes. Also tune
+
+47
+00:04:26,297 --> 00:04:31,862
+into Senjou World this Thursday to find out
+who would win between Yoko Karama from Yu Haka
+
+48
+00:04:31,882 --> 00:04:39,308
+Show and Sesshu Maru from Inuyasha. Visit dynamicpodcasts.com
+or click the link in our show notes to listen
+
+49
+00:04:39,348 --> 00:04:44,633
+to all the shows in the Dynamite Podcast Network.
+But with that out of the way, quick to the
+
+50
+00:04:44,673 --> 00:04:51,408
+no prize. A no prize is an award Marvel used
+to give out to fans. Our version, the Dynamic
+
+51
+00:04:51,448 --> 00:04:56,791
+Dual No Prize, is a digital award we post on
+Instagram and in our email newsletter for the
+
+52
+00:04:56,831 --> 00:05:01,513
+person that we feel gave the best answer to
+our question of the week. Last week's question
+
+53
+00:05:01,553 --> 00:05:07,997
+was, what has been the most underrated Marvel
+or DC TV show in your opinion and why? And
+
+54
+00:05:08,017 --> 00:05:13,780
+that was coming off of the final trailer for
+the last half of Doom Patrol Season 4, which
+
+55
+00:05:13,840 --> 00:05:18,802
+Jonathan and I view as a highly underrated show.
+You guys reached out with your opinions, let's
+
+56
+00:05:18,842 --> 00:05:23,763
+go ahead and run down our honorable mentions
+as well as the no prize winner. Our first honorable
+
+57
+00:05:23,803 --> 00:05:30,105
+mention goes to Travis Bailey who said, Travis
+Bailey, I love the Travis Bailey, shout out
+
+58
+00:05:30,125 --> 00:05:36,007
+to my good twin. Marvel all day, could have
+won with MoDoc, could have won with Lucky Man
+
+59
+00:05:36,207 --> 00:05:40,868
+on Shutter, check it out. But I'm going with
+Black Panther, the animated series, limited
+
+60
+00:05:40,928 --> 00:05:48,347
+run, like six episodes on BET, had everything.
+You had X-Men. Young T'Challa meeting Storm,
+
+61
+00:05:48,767 --> 00:05:54,889
+The Fall of Wakanda. It's a beautiful show.
+Yeah, y'all should check it out. Yeah, Travis
+
+62
+00:05:54,929 --> 00:06:00,512
+Bailey was kind enough to let us know that we
+miscited one of the answers from last week
+
+63
+00:06:00,532 --> 00:06:06,214
+that was actually given by Travis Herndon. And
+we said Travis Bailey. Sorry to Travis Herndon
+
+64
+00:06:06,414 --> 00:06:11,016
+for that. But apparently you and Travis Bailey
+are now twins. And we will address you as such.
+
+65
+00:06:12,337 --> 00:06:19,073
+But no, the Black Panther. Animated show that
+came out on BET was an adaptation of the first
+
+66
+00:06:19,233 --> 00:06:24,457
+arc of the Black Panther series that was written
+by Famous Hollywood writer and director Reginald
+
+67
+00:06:24,497 --> 00:06:30,721
+Hudlin. It was essentially a motion comic The
+animation wasn't quite that robust, but it
+
+68
+00:06:30,741 --> 00:06:36,145
+was a fantastic story You know Reginald did
+so much for the lore of Wakanda and the character
+
+69
+00:06:36,185 --> 00:06:40,087
+of Black Panther a lot of which was actually
+used in the Black Panther movie such as the
+
+70
+00:06:40,147 --> 00:06:45,683
+contest between Wakandans over who gets to be
+the Black Panther. A lot of great stuff there.
+
+71
+00:06:46,143 --> 00:06:50,066
+Yeah, I'd never heard of this series before.
+I didn't know this existed, but it's really
+
+72
+00:06:50,086 --> 00:06:55,230
+cool to hear how influential it was on the character.
+Yeah, yeah, it's definitely a quintessential
+
+73
+00:06:55,290 --> 00:07:00,794
+classic Black Panther arc. Great answer, Travis.
+Our next honorable mention goes to Jacob Bell,
+
+74
+00:07:01,094 --> 00:07:06,838
+who said, Hey, what's up, guys? This is Jacob.
+Um, I think the most underrated show that I
+
+75
+00:07:06,858 --> 00:07:12,822
+have seen is probably Gotham. I think Gotham's
+a really good show. I don't know why. It got
+
+76
+00:07:12,842 --> 00:07:19,623
+all the hate. I think it's a fun idea, fun concept,
+and the lead, the guy who plays Jim Gordon
+
+77
+00:07:19,804 --> 00:07:23,705
+is really good, and the kid who played Bruce
+Wayne is also really good. So yeah, Gotham.
+
+78
+00:07:23,805 --> 00:07:27,286
+I think it's great. I think it's a really good
+show. Yeah, I guess you could consider Gotham
+
+79
+00:07:27,346 --> 00:07:32,107
+underrated. It's kind of hard to justify that
+maybe considering that it was a network show
+
+80
+00:07:32,127 --> 00:07:38,369
+that I think was mostly popular, even though
+Jacob's right, it did get shit upon quite frequently
+
+81
+00:07:38,549 --> 00:07:43,775
+on the internet. I didn't actually watch the
+entire series. But what I did see, I thought
+
+82
+00:07:43,875 --> 00:07:51,001
+was fairly well done. Just seeing these iconic
+Batman villains in like their proto forms,
+
+83
+00:07:51,121 --> 00:07:55,344
+like for the Penguin, for the Riddler, for the
+Joker, all these different characters, it was
+
+84
+00:07:55,384 --> 00:07:59,808
+just exciting to see. I don't know, I saw some
+episodes too and the acting didn't look that
+
+85
+00:07:59,868 --> 00:08:05,012
+great. Maybe for like the main characters, but
+I mean it's a CW, so it's a step up from soap
+
+86
+00:08:05,052 --> 00:08:12,854
+opera acting, right? This wasn't a CW, this
+was Fox. What? Yeah. Oh, total mind blow. Statement
+
+87
+00:08:12,934 --> 00:08:17,938
+still applies. It was a WB produced show, so,
+you know. I don't know, I mean, I guess you
+
+88
+00:08:17,958 --> 00:08:22,141
+could say some of the characters got kind of
+hammy, but it's not like it was fucking the
+
+89
+00:08:22,181 --> 00:08:28,125
+60s Batman series or anything like that. It
+was decent. Production value was good. Thanks,
+
+90
+00:08:28,165 --> 00:08:33,669
+Jacob Bell, for the answer. Our final honorable
+mention goes to Peter Troll, who said. Hey
+
+91
+00:08:33,689 --> 00:08:40,206
+guys, it's Peter Troll. I just want to say the
+most underrated Marvel TV show. Might have
+
+92
+00:08:40,226 --> 00:08:45,487
+to be Spider-Man the new animated series. It
+gets so much hate because of how goofy it looks,
+
+93
+00:08:45,567 --> 00:08:50,669
+but if you can get past the way it looks, it's
+got a great story and it rides the coattails
+
+94
+00:08:50,829 --> 00:08:55,570
+of the Sam Raimi trilogy, and it's just got
+a lot of great details and stuff that were
+
+95
+00:08:55,590 --> 00:08:59,812
+made for adults, and it's just a good watch
+overall and deserves to be watched more often.
+
+96
+00:08:59,992 --> 00:09:05,433
+Thanks guys. Yeah, thanks Peter Troll. The Spider-Man
+the new animated series is an often overlooked
+
+97
+00:09:05,493 --> 00:09:12,255
+animated series. because it only had one season.
+It ran in the summer of 2003, which is actually
+
+98
+00:09:12,355 --> 00:09:17,857
+in between the first Sam Raimi Spider-Man movie
+and Spider-Man 2. And it kind of branched off
+
+99
+00:09:18,157 --> 00:09:24,900
+from the story of the first film in its own
+alternate universe type situation is how it
+
+100
+00:09:24,920 --> 00:09:29,521
+could be perceived today because it definitely
+doesn't lead into the events of Spider-Man
+
+101
+00:09:29,561 --> 00:09:34,724
+2. But it was cool for its time, you know, it
+was on MTV. Jonathan and I definitely watched
+
+102
+00:09:34,764 --> 00:09:39,267
+this as kids. You know, it may date us. The
+fact that we watched the shit out of the show
+
+103
+00:09:39,507 --> 00:09:44,470
+as it came out. Yeah, I liked Neil Patrick Harris
+in the role. I thought the show was cool. Yeah,
+
+104
+00:09:44,490 --> 00:09:49,132
+and it had pretty interesting takes on characters
+like the lizard. And I remember Michael Clarke
+
+105
+00:09:49,172 --> 00:09:54,616
+Duncan did the voice for the kingpin. Right.
+And he had just got off of his role as the
+
+106
+00:09:54,656 --> 00:10:00,094
+kingpin in the 2003 Daredevil movie starring
+Ben Affleck. So it almost felt like a crossover,
+
+107
+00:10:00,114 --> 00:10:04,917
+like a bridge between the Spider-Man movies
+and the Daredevil film, which was pretty cool.
+
+108
+00:10:05,377 --> 00:10:09,860
+Yeah, it was like a cinematic universe before
+a cinematic universe was a thing. You're right,
+
+109
+00:10:09,940 --> 00:10:16,404
+exactly. I bet you if I were to revisit this
+show now though, it would look horrible. Probably.
+
+110
+00:10:16,944 --> 00:10:21,486
+I remember the animation being pretty stiff
+back in the day, so it would look extra weird
+
+111
+00:10:21,526 --> 00:10:26,269
+now. But great answer, Peter. We wanna give
+a quick shout out to Scott Camacho and Mitchell
+
+112
+00:10:26,309 --> 00:10:32,464
+Smoothie. for taking the time to visit our website
+and record an answer. But the winner of this
+
+113
+00:10:32,504 --> 00:10:37,766
+week's No Prize is... Eric Jones, who said...
+What up, what up, what up, it's Eric Jones
+
+114
+00:10:37,786 --> 00:10:42,869
+and I think the most underrated DC Marvel TV
+show is The Big Green Hero and I'm not talking
+
+115
+00:10:42,929 --> 00:10:49,231
+about Arrow, I'm talking about M.F.N. Swamp
+Thing. The show had everything that I think
+
+116
+00:10:49,251 --> 00:10:54,766
+you could want in a Swamp Thing based material
+show. It had horror. comic book action, it
+
+117
+00:10:54,786 --> 00:11:00,171
+had different heroes from the Justice League
+Dark, it set up perfectly for a season 2 and
+
+118
+00:11:00,311 --> 00:11:05,596
+or Justice League Dark show, and it got taken
+away from us way too soon. Swamp Thing's the
+
+119
+00:11:05,636 --> 00:11:11,902
+way. The Swamp Thing show is so damn good, it
+did not deserve to be canceled the way it was
+
+120
+00:11:11,942 --> 00:11:17,487
+before the first season even wrapped its final
+episode. It was done so dirty for as good as
+
+121
+00:11:17,507 --> 00:11:22,490
+it was. Not only were the special effects really
+good, But just like the horror elements that
+
+122
+00:11:22,510 --> 00:11:27,473
+they introduced and the writing and the acting,
+all top notch. Plus you got Easter eggs from
+
+123
+00:11:27,513 --> 00:11:32,916
+characters like Blue Devil and Madame Xanadu.
+It was such a cool show to watch. Not enough
+
+124
+00:11:32,956 --> 00:11:38,499
+people have seen it. And it's actually really
+hard to see today. It's not on any streaming
+
+125
+00:11:38,540 --> 00:11:42,882
+service that I'm aware of. If you want to see
+it, you actually have to buy it, like digitally.
+
+126
+00:11:43,042 --> 00:11:47,845
+Yeah, the series debuted on the DC Universe
+app back when that was a thing. Right. And
+
+127
+00:11:47,905 --> 00:11:53,969
+I know that they... ran the shows on the CW
+network that were like toned down. But I've
+
+128
+00:11:54,009 --> 00:11:57,452
+always been interested in watching this show.
+I'm really upset that we did a review at the
+
+129
+00:11:57,472 --> 00:12:02,076
+time that it came out because we weren't doing
+shows back then until we quickly realized,
+
+130
+00:12:02,497 --> 00:12:07,241
+hey, you know, DC Marvel are actually putting
+out great shows on these platforms. We should
+
+131
+00:12:07,261 --> 00:12:11,304
+start reviewing them. Yeah, this was definitely
+one of the shows that inspired us to start
+
+132
+00:12:11,344 --> 00:12:16,689
+reviewing streaming content. And one of these
+days, maybe we will revisit Swamp Thing and
+
+133
+00:12:16,969 --> 00:12:21,480
+review season one. I would love that. I mean,
+that would be like the least listened to episode
+
+134
+00:12:21,640 --> 00:12:26,284
+of all time because no one's going to be able
+to watch it, but I would still love to do it.
+
+135
+00:12:26,624 --> 00:12:31,067
+So great answer, Eric Jones. Congrats on winning
+this week's no prize. If you the listener want
+
+136
+00:12:31,107 --> 00:12:34,970
+a shot at winning your own no prize, stay tuned
+to later on this episode when we'll be asking
+
+137
+00:12:35,010 --> 00:12:39,113
+another question of the week. And now that that's
+done, on to the news.
+
+138
+00:12:44,686 --> 00:12:51,249
+Okay, so many people, especially DC fans, have
+been kind of confused when it comes to the
+
+139
+00:12:51,329 --> 00:12:56,972
+new cinematic universe that James Gunn is setting
+up, primarily because of how the Flash movie
+
+140
+00:12:57,152 --> 00:13:03,255
+ended. Initially, since that film was set up
+sort of like Flashpoint in the comics, which
+
+141
+00:13:03,315 --> 00:13:08,182
+rebooted DC's continuity, everyone, including
+myself, thought that- the Flash was going to
+
+142
+00:13:08,242 --> 00:13:13,203
+lead into James Gunn's new universe. But in
+scheduling DC's movies for this year, Blue
+
+143
+00:13:13,223 --> 00:13:18,945
+Beetle and Aquaman ended up coming out after
+the Flash. So it's always been kind of a question
+
+144
+00:13:19,025 --> 00:13:25,247
+as to when James Gunn's DC universe is going
+to start. Well, we learned last Wednesday from
+
+145
+00:13:25,307 --> 00:13:32,069
+James Gunn on Threads, right after the Rider
+Strike ended, that DCU continuity will start
+
+146
+00:13:32,129 --> 00:13:38,464
+with the max animated series. Creature Commandos
+that comes out next year. Gunn described Creature
+
+147
+00:13:38,584 --> 00:13:44,469
+Commandos as an aperitif or an appetizer to
+the real meat of canon that really begins with
+
+148
+00:13:44,509 --> 00:13:50,353
+Superman Legacy scheduled to be released in
+2025. So for a lot of fans like myself who
+
+149
+00:13:50,373 --> 00:13:55,017
+were kind of confused by James Gunn's early
+statement saying that, you know, Blue Beetle
+
+150
+00:13:55,277 --> 00:14:01,501
+was the DCU's first character, but Superman
+Legacy is the DCU's first film, now we know.
+
+151
+00:14:01,866 --> 00:14:08,008
+when the DCU actually starts. We also learned
+from James Gunn on threads that Sholo Mariduena,
+
+152
+00:14:08,308 --> 00:14:14,851
+John Cena, and Viola Davis would be reprising
+their roles in the DCU. The dude needs to make
+
+153
+00:14:14,871 --> 00:14:19,613
+up his mind. Like first he's like, oh yeah,
+Blue Beetle's the first DCU character. And
+
+154
+00:14:19,653 --> 00:14:24,736
+it turns out that, yeah, that might be the case,
+but is it like an alternate universe version
+
+155
+00:14:24,876 --> 00:14:30,126
+of Blue Beetle that's gonna be played by the
+same actor? What's going on here? I mean, technically
+
+156
+00:14:30,146 --> 00:14:35,787
+you could say that Viola Davis's Amanda Waller
+is the first DCU character since she was the
+
+157
+00:14:35,867 --> 00:14:41,829
+first one to be cast way back when. Right, in
+Suicide Squad, which came out in 2016. So this
+
+158
+00:14:41,869 --> 00:14:48,271
+is all still confusing as hell. And James Gunn
+is not clearing up anything. And he kind of
+
+159
+00:14:48,311 --> 00:14:54,173
+wrote off fan confusion as like, oh, I understand
+that people want to understand what's going
+
+160
+00:14:54,313 --> 00:14:59,076
+on. But you know. It'll all be made clear. I
+honestly don't think it'll all be made clear.
+
+161
+00:14:59,116 --> 00:15:04,340
+I think fans are honestly gonna have to kind
+of figure shit out for themselves, wherein
+
+162
+00:15:04,780 --> 00:15:10,725
+it's determined that the DCU is just an alternate
+universe of the DCEU. Where basically things
+
+163
+00:15:10,745 --> 00:15:15,089
+are pretty much the same except, you know, Superman
+is younger and looks different and Batman too.
+
+164
+00:15:15,109 --> 00:15:20,253
+I don't know if I would consider this like a
+alternate universe of the DCEU. I don't know
+
+165
+00:15:20,273 --> 00:15:25,016
+what to make of it, honestly. But I mean, James
+Gunn does tell me that it's okay to be confused
+
+166
+00:15:25,056 --> 00:15:31,141
+on what's happening in the DCU since no one
+has seen anything from the DCU yet. To that,
+
+167
+00:15:31,221 --> 00:15:37,266
+I just have to reply, well, you said that Sholo
+Mariduña is returning as Blue Beetle. So, I
+
+168
+00:15:37,306 --> 00:15:43,592
+mean, I feel like I have seen something from
+the DCU in Blue Beetle, in Peacemaker, in the
+
+169
+00:15:43,652 --> 00:15:49,216
+Suicide Squad. I am confused. It's very confusing.
+I don't think it's okay to be confused. I think
+
+170
+00:15:49,336 --> 00:15:54,350
+confusion does not breed. brand loyalty, which
+is really what DC needs at this point. I think
+
+171
+00:15:54,390 --> 00:15:58,272
+instead of saying it's okay to be confused,
+he should have said, it's like, okay to be
+
+172
+00:15:58,352 --> 00:16:03,333
+patient. Cause I don't mind being patient. I
+know a lot of the internet is not like everyone
+
+173
+00:16:03,393 --> 00:16:09,575
+wants everything all at once, but yeah, I'll
+wait for answers. I just hope that those answers
+
+174
+00:16:09,615 --> 00:16:14,976
+are freaking amazing, but it's hard to feel
+like they're going to be considering that I
+
+175
+00:16:15,056 --> 00:16:19,877
+sort of feel this was the worst approach to
+take with the new cinematic universe. Like
+
+176
+00:16:19,997 --> 00:16:26,492
+either, continue what was there before or freaking
+burn it all to the ground and start from scratch.
+
+177
+00:16:26,553 --> 00:16:32,376
+That's much more easily digestible for audiences
+and fans than what we're getting. Like I feel
+
+178
+00:16:32,456 --> 00:16:38,279
+really bad for Jason Momoa because there was
+not a single mention of Aquaman in James Gunn's
+
+179
+00:16:38,539 --> 00:16:43,302
+thread, tweets, threads, whatever you want to
+call them. And it kind of feeds into the naysayers
+
+180
+00:16:43,802 --> 00:16:51,398
+that maybe the Aquaman sequel isn't too important
+to watch. Man, it must suck to be a DC I'm
+
+181
+00:16:51,638 --> 00:16:57,502
+so glad that I'm not one of those. I just kind
+of want this year to be over so that we could
+
+182
+00:16:57,522 --> 00:17:02,845
+get the Joker sequel. Because I know that's
+going to be good. Yeah, yeah. Hopefully. It
+
+183
+00:17:02,886 --> 00:17:08,009
+is a musical, so we'll see. Oh, you're one of
+those people, huh? OK. But considering the
+
+184
+00:17:08,049 --> 00:17:14,393
+fact that James Gunn has confirmed that at least
+some prior actors are returning to this universe,
+
+185
+00:17:14,613 --> 00:17:20,137
+hopefully some storylines are also making the
+jump. And that brings us to our question of
+
+186
+00:17:20,157 --> 00:17:20,417
+the week.
+
+187
+00:17:25,014 --> 00:17:32,380
+Which prior DC film or television series would
+you most hope remained in James Gunn's DCU
+
+188
+00:17:32,420 --> 00:17:40,146
+continuity, and why? And this is besides projects
+like Blue Beetle, Peacemaker, and the Suicide
+
+189
+00:17:40,186 --> 00:17:44,911
+Squad which are already confirmed by Gunn to
+be making that leap in transition to the DCU.
+
+190
+00:17:45,331 --> 00:17:49,875
+Record your answer at dynamicduel.com by clicking
+on the red microphone button in the bottom
+
+191
+00:17:49,915 --> 00:17:53,922
+right hand corner of the screen, which will
+prompt you to leave us a voicemail. Your message
+
+192
+00:17:53,942 --> 00:17:58,309
+could be up to 30 seconds long, and don't forget
+to leave your name in case we include you on
+
+193
+00:17:58,349 --> 00:18:03,316
+the podcast. We'll pick our favorite answer
+and award that person a dynamic dual no prize
+
+194
+00:18:03,336 --> 00:18:09,405
+that we'll post to Instagram and our email newsletter.
+Be sure to answer before October 7th.
+
+195
+00:18:16,718 --> 00:18:19,842
+But I think that does it for all the news for
+this week, so let's go ahead and get into the
+
+196
+00:18:19,903 --> 00:18:25,872
+main event of this episode, which is going to
+be a spooky fun fight between the vampires
+
+197
+00:18:26,012 --> 00:18:28,997
+of Andrew Bennett and Dracula.
+
+198
+00:18:44,302 --> 00:18:49,525
+All right, Andrew Bennett versus Dracula. As
+I said before, they're both vampires. Andrew
+
+199
+00:18:49,545 --> 00:18:54,229
+Bennett is just some guy with a random ass name
+that you can meet on the sidewalk anywhere
+
+200
+00:18:54,249 --> 00:18:59,713
+you went. He's just Andrew Bennett going up
+against fucking Dracula, who is, you know,
+
+201
+00:18:59,773 --> 00:19:04,356
+the lord of all vampires. He's freaking jacket.
+Everybody knows who Dracula is. No one knows
+
+202
+00:19:04,376 --> 00:19:09,900
+who Andrew Bennett is. You know why no one knows
+who Andrew Bennett is? Why? Because he's freaking
+
+203
+00:19:10,120 --> 00:19:15,932
+super secretive. All right. He's also the lord
+of vampires. Just, you're not supposed to know
+
+204
+00:19:15,972 --> 00:19:23,559
+who he is, because he's sneaky. Allegedly, Andrew
+Bennett's series called I Vampire has a super
+
+205
+00:19:23,679 --> 00:19:28,703
+popular following, and Andrew Bennett is one
+of the most powerful and premier vampires in
+
+206
+00:19:28,723 --> 00:19:34,128
+the DC universe. I'm calling bullshit. I'm saying
+show me the receipts to those statements, because
+
+207
+00:19:34,488 --> 00:19:39,692
+I am horribly naive when it comes to DC. Oh,
+you're gonna get those receipts, and you're
+
+208
+00:19:39,712 --> 00:19:43,690
+gonna ruin your words. You're going to ruin
+the day you ever talked about Andrew Bennett.
+
+209
+00:19:45,511 --> 00:19:50,872
+We're getting highly dramatic here, but vampires
+themselves are quite dramatic characters. Oh,
+
+210
+00:19:50,932 --> 00:19:56,414
+yeah. I mean, the whole story of I vampire and
+Andrew Bennett is full of drama. He's not a
+
+211
+00:19:56,514 --> 00:20:02,735
+superhero character. It's very much a romantic
+gothic horror. Well, I almost fell asleep when
+
+212
+00:20:02,755 --> 00:20:08,017
+you were explaining that. Oh, wow. I think this
+backstory is going to be super interesting.
+
+213
+00:20:08,317 --> 00:20:12,578
+I know everybody will stay awake for the Dracula
+backstory, though. Oh yeah, I'm sure Marvel's
+
+214
+00:20:12,598 --> 00:20:17,321
+version is so much better than Bram Stoker's
+Dracula. Like what the hell does Marvel even
+
+215
+00:20:17,341 --> 00:20:21,663
+think they're doing? Like taking a classic character
+and just trying to make it their own. No, it's
+
+216
+00:20:21,783 --> 00:20:26,645
+gonna be the same thing that DC did with Frankenstein.
+Did we not do a duel between Frankenstein and
+
+217
+00:20:26,665 --> 00:20:28,766
+Bloodstone? Fuck you. Exactly.
+
+218
+00:20:31,788 --> 00:20:37,711
+I'm not gonna dignify that with the response.
+Let's move on to AlfredJervis9000 who is going
+
+219
+00:20:37,731 --> 00:20:43,734
+to explain the methodology behind our duels.
+AJ9K, tell our listeners how you go about determining
+
+220
+00:20:43,774 --> 00:20:49,257
+a winner in our duel matchups. Yes, of course,
+sir. The way I determine a winner between the
+
+221
+00:20:49,297 --> 00:20:55,321
+contestants is by running 1000 Monte Carlo simulations
+using the characters statistics. A Monte Carlo
+
+222
+00:20:55,361 --> 00:20:59,643
+simulation is a probabilistic model used to
+determine outcomes through random sampling.
+
+223
+00:21:00,083 --> 00:21:04,974
+In this case, I randomize the statistics along
+a normal distribution. as a way to simulate
+
+224
+00:21:04,994 --> 00:21:09,575
+the many variables that can occur during battle.
+The stat parameters are based on the official
+
+225
+00:21:09,635 --> 00:21:14,957
+Marvel power grid from which the DC characters'
+statistics are extrapolated. Additional stat
+
+226
+00:21:14,977 --> 00:21:20,518
+categories are included such as range, damage
+potential, versatility and perception in order
+
+227
+00:21:20,538 --> 00:21:25,960
+to create a more detailed and accurate simulation.
+The results of the 1000 simulations provide
+
+228
+00:21:25,980 --> 00:21:30,361
+a percentage of wins for each character. The
+contestant with the higher percentage is declared
+
+229
+00:21:30,381 --> 00:21:35,667
+the victor. as they have a higher probability
+to win any given battle. In an equitable pairing,
+
+230
+00:21:36,047 --> 00:21:40,848
+neither character should win 100% of the matches.
+The comic book stories have shown that there's
+
+231
+00:21:40,988 --> 00:21:45,790
+even a way for Batman to defeat Superman, so
+the confidence rate of my method falls in line
+
+232
+00:21:45,810 --> 00:21:50,411
+with the precedents that have been established
+in the source material. My mathematical simulations
+
+233
+00:21:50,451 --> 00:21:55,613
+are without subjectivity or bias. Feats are
+not the sole consideration, nor are fan votes
+
+234
+00:21:55,653 --> 00:22:01,223
+tabulated for determination of the winner. Thanks
+AJ9K, before we run the simulations though,
+
+235
+00:22:01,243 --> 00:22:05,385
+we'd like to break down each character's histories
+and abilities before improvising a scenario
+
+236
+00:22:05,445 --> 00:22:11,429
+on how we imagined one of the 1000 simulations
+would play out beat for beat. And it's my turn
+
+237
+00:22:11,449 --> 00:22:17,012
+to go first with the DC character's backstory,
+so let me tell you all about Andrew Bennett.
+
+238
+00:22:18,093 --> 00:22:24,276
+In 16th century England, Lord Andrew Bennett
+was a young English nobleman and war hero who
+
+239
+00:22:24,356 --> 00:22:29,576
+served in the court of Queen Elizabeth. Where
+he fell in love with one of the Queen's handmaidens,
+
+240
+00:22:29,976 --> 00:22:35,780
+Mary Seward, who loved Andrew in return. On
+the eve of one of Andrew's business travels,
+
+241
+00:22:36,140 --> 00:22:40,944
+Mary begged Andrew not to leave, as she felt
+that it was too dangerous for him to travel
+
+242
+00:22:41,024 --> 00:22:46,948
+so late in the day. Laughing Mary off, Andrew
+embarked on his trip, and sure enough that
+
+243
+00:22:47,008 --> 00:22:53,352
+night, Andrew was attacked and bitten by a vampire.
+Though Andrew was able to kill the vampire,
+
+244
+00:22:53,753 --> 00:22:59,428
+Andrew died as well. arising three days later
+with a thirst for blood. Distraught over his
+
+245
+00:22:59,488 --> 00:23:04,931
+vampirism, Andrew hid, feeding on the blood
+of animals until he was eventually discovered
+
+246
+00:23:05,031 --> 00:23:11,375
+in his bedroom by Mary. Realizing what he had
+become, Mary begged Andrew to transform her
+
+247
+00:23:11,415 --> 00:23:17,978
+into a vampire as well so that they could be
+together for eternity. Andrew reluctantly agreed,
+
+248
+00:23:18,299 --> 00:23:23,998
+and fed on Mary, killing her. When she returned
+from the dead, she was a vampire. though now
+
+249
+00:23:24,038 --> 00:23:31,022
+completely changed and devoid of her prior humanity,
+corrupted and possessing sadistic joy in feeding
+
+250
+00:23:31,202 --> 00:23:37,625
+on others. Mary left Andrew and developed a
+reputation for herself as Mary, Queen of Blood,
+
+251
+00:23:38,006 --> 00:23:43,469
+forming a secret society known as the Cult of
+the Blood Red Moon with intentions of taking
+
+252
+00:23:43,589 --> 00:23:49,212
+over the world. Horrified and guilt-stricken
+by what Mary had become and by her actions,
+
+253
+00:23:49,712 --> 00:23:54,772
+Andrew dedicated his immortal life to the to
+tracking Mary across the world knowing that
+
+254
+00:23:54,812 --> 00:24:00,297
+he would be forced to kill his beloved Mary
+once again in order to save the human race.
+
+255
+00:24:00,877 --> 00:24:06,522
+Andrew gained and lost numerous allies over
+the centuries in his pursuit of Mary. In the
+
+256
+00:24:06,562 --> 00:24:11,847
+early 1900s, Andrew nearly caught her after
+she had just killed the parents of a young
+
+257
+00:24:11,887 --> 00:24:18,273
+boy named Dmitri Mishkin. Andrew rescued Dmitri
+instead and raised him to become a formidable
+
+258
+00:24:18,333 --> 00:24:25,508
+vampire hunter. In the late 1960s, Andrew confronted
+Mary at Woodstock, only for Mary to threaten
+
+259
+00:24:25,528 --> 00:24:31,090
+the life of a beautiful young woman named Deborah
+Dancer. Forced to save Deborah rather than
+
+260
+00:24:31,130 --> 00:24:36,933
+pursue Mary, Andrew confessed to Deborah his
+life story and mission. Deborah joined Andrew
+
+261
+00:24:37,033 --> 00:24:43,355
+and Dimitri in their crusade to kill Mary and
+stop her cult, eventually encountering a vampire
+
+262
+00:24:43,616 --> 00:24:49,618
+that turned out to be Dimitri's mother, Dunya
+Mishkin, to Dimitri's despair. Not long after,
+
+263
+00:24:49,898 --> 00:24:54,541
+the trio were attacked by human agents of the
+Cult of the Blood Red Moon and trapped in a
+
+264
+00:24:54,582 --> 00:25:00,325
+cave-in. Andrew nearly succumbed to his bloodlust
+and fed on Deborah while she was sleeping,
+
+265
+00:25:00,566 --> 00:25:05,969
+only for her to wake up at the last minute.
+Andrew kissed her instead, realizing he was
+
+266
+00:25:06,009 --> 00:25:10,512
+developing romantic feelings for someone other
+than Mary for the first time in hundreds of
+
+267
+00:25:10,572 --> 00:25:16,456
+years. Andrew abandoned Deborah and Dimitri
+to hunt Mary on his own and protect his loved
+
+268
+00:25:16,577 --> 00:25:22,355
+ones from further danger. After Andrew chased
+Mary on his own for some time, an old ally
+
+269
+00:25:22,395 --> 00:25:28,616
+of Andrew's named Edward Thrain returned seemingly
+from the dead as a vampire and kidnapped Andrew
+
+270
+00:25:28,737 --> 00:25:34,458
+and Deborah. Andrew was able to escape and save
+Deborah, however, making him realize how much
+
+271
+00:25:34,498 --> 00:25:40,280
+his friends meant to him. Andrew decided to
+find Dmitri and, with Deborah's help, managed
+
+272
+00:25:40,360 --> 00:25:45,861
+to follow him to Russia, only to learn that
+Dmitri was tracking his mother, Dunya Mishkin.
+
+273
+00:25:46,334 --> 00:25:52,017
+and had been transformed into a vampire himself.
+Deborah attempted to kill Dunya, but accidentally
+
+274
+00:25:52,057 --> 00:25:57,680
+killed Dimitri instead, who killed his mother
+with the last of his strength. While in Russia,
+
+275
+00:25:58,080 --> 00:26:04,063
+Andrew discovered an experimental formula and
+supposed a cure for vampirism, which he took,
+
+276
+00:26:04,463 --> 00:26:09,186
+allowing him to enjoy the pleasures of being
+a man once again. After spending the night
+
+277
+00:26:09,206 --> 00:26:14,549
+with Deborah, his body succumbed to rigor mortis,
+allowing the cult of the blood red moon to
+
+278
+00:26:14,589 --> 00:26:21,246
+capture him as his body began to slowly decay.
+Mary forced Andrew to watch as she transformed
+
+279
+00:26:21,327 --> 00:26:28,252
+Deborah into a vampire. Deborah, having taken
+the formula as well, emerged as a vampire without
+
+280
+00:26:28,393 --> 00:26:34,017
+any typical vampire weaknesses, and the two
+women fought to the death, culminating with
+
+281
+00:26:34,098 --> 00:26:40,463
+Deborah dragging Mary into the sunlight where
+Mary burst into flames and died. Deborah returned
+
+282
+00:26:40,503 --> 00:26:45,923
+to Andrew, who peacefully died in her arms.
+Decades later, Andrew's body was resurrected
+
+283
+00:26:46,243 --> 00:26:52,126
+and now also purged of any innate vampire weaknesses.
+Realizing after several suicide attempts that
+
+284
+00:26:52,146 --> 00:26:58,550
+he was incapable of death even by standard vampire
+killing methods, Andrew became apathetic, now
+
+285
+00:26:58,610 --> 00:27:04,513
+tired of living. After being sent to hell alongside
+other demonic heroes and villains to partake
+
+286
+00:27:04,533 --> 00:27:10,116
+in a war between the demon Neron and Satanus,
+Andrew was later resurrected back on Earth
+
+287
+00:27:10,436 --> 00:27:16,493
+by the new cult of the blood red moon. now controlled
+by Deborah. In post-Flashpoint continuity,
+
+288
+00:27:16,873 --> 00:27:21,857
+Andrew's past was rewritten so that in the 16th
+century he was the young aristocratic son of
+
+289
+00:27:21,897 --> 00:27:27,161
+a British lord. Mary was now a servant girl
+who worked in the Bennett estate, and she and
+
+290
+00:27:27,281 --> 00:27:32,746
+Andrew fell in love. Andrew's father, however,
+disapproved of their relationship as he felt
+
+291
+00:27:32,866 --> 00:27:38,390
+Mary's social class made her unfit for marriage
+to his son. Upon learning this, that same night,
+
+292
+00:27:38,490 --> 00:27:39,591
+the heartbroken Andrew
+
+293
+00:27:42,654 --> 00:27:47,817
+His coach was damaged and his coachman was killed
+in the accident. Emerging from the wreckage,
+
+294
+00:27:48,177 --> 00:27:53,661
+Andrew encountered the biblical Cain, who shared
+his story of how he was forced to wander the
+
+295
+00:27:53,761 --> 00:27:59,806
+earth after killing his brother Abel, cursed
+by God with vampirism. Cain eventually found
+
+296
+00:27:59,846 --> 00:28:05,390
+a woman, Lilith, Adam's first wife who had been
+cast out of Eden prior to Eve's creation.
+
+297
+00:28:11,270 --> 00:28:17,775
+only for her to return to life, now sharing
+in Cain's curse. Cain and Lilith became lovers
+
+298
+00:28:17,875 --> 00:28:23,680
+and had many children who terrorized the planet.
+Eventually, Cain and his family were attacked
+
+299
+00:28:23,700 --> 00:28:29,645
+by Etrigan the Demon and other sorcerers in
+an attempt to steal his power. Cain survived,
+
+300
+00:28:29,945 --> 00:28:35,470
+but Lilith and their family did not, and a new
+curse was placed upon Cain that if he ever
+
+301
+00:28:35,550 --> 00:28:41,611
+fed on an innocent soul, he would be imprisoned
+for eternity. Smelling the love for Mary within
+
+302
+00:28:41,751 --> 00:28:48,397
+Andrew and confusing it for lust, Kane attacked
+him, only to realize upon biting him that Andrew
+
+303
+00:28:48,657 --> 00:28:55,082
+was indeed innocent. Kane's spirit was sucked
+into Andrew's body, which became a prison known
+
+304
+00:28:55,223 --> 00:29:01,027
+as a demon lock. Cursed with vampirism, Andrew
+was afraid to return home in fear of harming
+
+305
+00:29:01,128 --> 00:29:07,033
+Mary or his family, leaving Mary to feel abandoned,
+while forced to submit to the sexual abuse
+
+306
+00:29:07,073 --> 00:29:12,767
+of Andrew's father. After gaining control over
+his bloodlust by feeding on animal blood, Andrew
+
+307
+00:29:12,807 --> 00:29:18,850
+returned home after a year with the intention
+of making Mary his eternal bride. Mary agreed,
+
+308
+00:29:19,090 --> 00:29:24,732
+and after being turned, she admitted her disdain
+for him, promising to use her new power to
+
+309
+00:29:24,773 --> 00:29:29,775
+get revenge on him and all who wronged her,
+leaving Andrew to find that she had murdered
+
+310
+00:29:29,815 --> 00:29:35,117
+his father just before Andrew had returned.
+After decades of attempting to stop Mary's
+
+311
+00:29:35,177 --> 00:29:41,083
+war on humanity, Andrew and Mary came to a truce
+that lasted for centuries up until the present
+
+312
+00:29:41,123 --> 00:29:47,565
+day. After a romantic night together, Mary sent
+hundreds of vampires to attack Andrew, forcing
+
+313
+00:29:47,605 --> 00:29:53,906
+him to kill all of them and be labeled a traitor,
+ending their truce. With help from a vampire
+
+314
+00:29:53,926 --> 00:30:00,128
+hunter named Professor John Truffton, a young
+female vampire named Tig Rafelson, John Constantine,
+
+315
+00:30:00,528 --> 00:30:04,729
+and Batman, the latter two of whom you can learn
+more about in their respective dual episodes,
+
+316
+00:30:05,330 --> 00:30:11,313
+Andrew tracked Mary to Gotham City, where Batman
+stopped Andrew from killing Mary, only for
+
+317
+00:30:11,473 --> 00:30:17,977
+Andrew to then be beheaded by Tig, who thought
+that by killing Andrew, Mary would also die.
+
+318
+00:30:18,377 --> 00:30:24,441
+From Andrew's body, the spirit of Cain re-emerged
+after centuries, who then summoned all vampires
+
+319
+00:30:24,561 --> 00:30:29,764
+to Gotham City. While the Justice League Dark
+protected Gotham citizens, Constantine and
+
+320
+00:30:29,824 --> 00:30:34,259
+Deadman traveled to the afterlife and found
+Andrew. You can learn more about the Justice
+
+321
+00:30:34,279 --> 00:30:39,364
+League Dark in their team duel episode against
+the Midnight Suns. With help from Madame Xanadu,
+
+322
+00:30:39,825 --> 00:30:46,552
+Andrew returned to the world of the living tethered
+to Kane's power, and now his equal. After executing
+
+323
+00:30:46,592 --> 00:30:52,739
+Kane and absorbing his full power, Andrew gained
+full control over all vampires, including Mary,
+
+324
+00:30:52,919 --> 00:30:57,334
+and was able to erase the memory of vampires
+from everyone in the city. After helping the
+
+325
+00:30:57,374 --> 00:31:02,576
+Justice League Dark obtain a map to the Books
+of Magic, Andrew resettled all vampires on
+
+326
+00:31:02,616 --> 00:31:07,957
+a compound in Utah. After an army of vampire
+hunters, known as the Order of Van Helsing's,
+
+327
+00:31:08,037 --> 00:31:13,379
+learned about the compound, they attacked and
+killed 60% of the vampires there, while also
+
+328
+00:31:13,459 --> 00:31:19,660
+unleashing evil magic that turned dead vampires
+into uncontrollable zombie vampires.
+
+329
+00:31:24,290 --> 00:31:29,974
+The same way that he contained Cain's spirit,
+Andrew absorbed the evil magic and all vampires'
+
+330
+00:31:30,034 --> 00:31:35,998
+souls, curing the remaining vampires on the
+planet of their vampirism, including Mary,
+
+331
+00:31:36,298 --> 00:31:41,742
+and turning himself evil in the process. After
+turning Tig back into a vampire and taking
+
+332
+00:31:41,782 --> 00:31:47,906
+her as his queen, Andrew attempted to destroy
+creation by merging heaven and hell. Tig betrayed
+
+333
+00:31:47,946 --> 00:31:53,818
+him, however, decapitating Mary and promising
+to kill Andrew as well. With Cain emerging
+
+334
+00:31:53,858 --> 00:31:59,259
+from a portal to hell, he pulled all of the
+vampire souls from Andrew in an effort to find
+
+335
+00:31:59,319 --> 00:32:05,461
+his ancient bride Lilith, whose spirit he projected
+into Tig. Purged from the evil influence of
+
+336
+00:32:05,481 --> 00:32:11,102
+the vampire souls, Andrew stopped his own plan
+to destroy creation with the help of Mary's
+
+337
+00:32:11,162 --> 00:32:17,684
+spirit, now an agent of God. With help from
+the fallen angel Lucifer, Andrew and Mary managed
+
+338
+00:32:17,804 --> 00:32:23,514
+to defeat Cain and Lilith by trapping them in
+the house of mystery and hell. With her mission
+
+339
+00:32:23,534 --> 00:32:30,337
+complete, Mary gave Andrew a loving goodbye
+before departing the mortal plane. Andrew remained,
+
+340
+00:32:30,477 --> 00:32:36,239
+known to all now, as the Lord of Vampires, charged
+with keeping the vampire population in check
+
+341
+00:32:36,419 --> 00:32:42,242
+in order to maintain peace with humanity. Powers-wise,
+Andrew Bennett is the planet's most powerful
+
+342
+00:32:42,282 --> 00:32:48,684
+vampire, imbued with the power of the very first
+vampire, Cain. Andrew has enhanced superhuman
+
+343
+00:32:48,744 --> 00:32:55,711
+senses and physicality. In addition, to regeneration
+and mental powers, including telekinesis, clairvoyance,
+
+344
+00:32:55,831 --> 00:33:02,374
+and hypnosis. Andrew is also able to transform
+his body into other forms, including a wolf,
+
+345
+00:33:02,514 --> 00:33:08,737
+a bat, or a half-man hybrid of either of those,
+allowing him to grow wings or fangs if needed.
+
+346
+00:33:09,177 --> 00:33:15,980
+He could also transform into a swarm of bats
+or rats, or a mist that grants him intangibility.
+
+347
+00:33:16,581 --> 00:33:22,555
+In post-Flashpoint vampire lore, Vampires do
+not die from sunlight exposure, but are merely
+
+348
+00:33:22,635 --> 00:33:29,658
+weakened and robbed of any supernatural abilities.
+Andrew himself is not vulnerable to many typical
+
+349
+00:33:29,698 --> 00:33:35,120
+vampire weaknesses, though he can be affected
+by holy magic-imbued artifacts or elements.
+
+350
+00:33:35,300 --> 00:33:41,703
+He's also capable of conjuring various weapons,
+often bladed, such as swords, daggers, and
+
+351
+00:33:41,903 --> 00:33:46,725
+even wooden stakes. And that's Andrew Bennett.
+I still can't get over why he's called Andrew
+
+352
+00:33:46,765 --> 00:33:51,100
+Bennett. Why don't they just call him... Dracula
+if he's the lord of the vampires. Because there
+
+353
+00:33:51,120 --> 00:33:56,604
+was a real Dracula, like Vlad Dracul the second
+or something like that. I think that was his
+
+354
+00:33:56,644 --> 00:34:02,788
+name. Yeah. He's not that character. Well, does
+Dracula exist in the DC universe? I'm sure
+
+355
+00:34:02,828 --> 00:34:07,612
+he does. I don't think I've come across him,
+but you know, he's not a part of Andrew Bennett's
+
+356
+00:34:07,652 --> 00:34:13,936
+story. Why does the name Andrew Bennett offend
+you? Because it's lame. Apologies to any actual
+
+357
+00:34:14,056 --> 00:34:18,010
+Andrew Bennets that are out there. Which I'm
+sure there are at least several dozen listening
+
+358
+00:34:18,030 --> 00:34:22,091
+to this right now, because it's a common ass
+fucking name and certainly does not belong
+
+359
+00:34:22,251 --> 00:34:29,953
+as the name of a vampire. OK, vampire name expert
+over here. Holy shit. That was a pretty good
+
+360
+00:34:29,973 --> 00:34:34,255
+backstory. Of course, it can't compete with
+the one and only Dracula. So let me go ahead
+
+361
+00:34:34,275 --> 00:34:41,197
+and get into that. Vlad Tepes Dracula was born
+in 1430 in Shostberg, Transylvania in what
+
+362
+00:34:41,217 --> 00:34:47,643
+would later become present day Romania. His
+father. Vlad Dracul was a noble lord who was
+
+363
+00:34:47,683 --> 00:34:54,406
+named Prince of Wallachia by the Holy Roman
+Emperor Sigismund II. As a young adult, Vlad
+
+364
+00:34:54,466 --> 00:35:00,368
+Tepes Dracula was named the new Prince of Wallachia
+when his father was murdered by his most trusted
+
+365
+00:35:00,408 --> 00:35:05,691
+advisors, and he quickly developed a ruthless
+reputation when he sentenced all those involved
+
+366
+00:35:06,031 --> 00:35:11,653
+to death by impalement. Vlad waged a bloodthirsty
+campaign in a war against the Ottoman Empire
+
+367
+00:35:12,066 --> 00:35:17,670
+but was mortally wounded on the battlefield
+by En-Sabah Nur, an ancient mutant who later
+
+368
+00:35:17,690 --> 00:35:22,354
+became known as Apocalypse that you can learn
+more about in his duel against Black Adam.
+
+369
+00:35:22,494 --> 00:35:28,399
+Vlad was taken to a Romani healer named Leanda
+who was ordered to use her magic to prevent
+
+370
+00:35:28,439 --> 00:35:34,284
+him from dying. Unbeknownst to Vlad, however,
+Leanda was a vampire guided by the ancient
+
+371
+00:35:34,304 --> 00:35:40,529
+commands of the very first vampire, Varney,
+who knew of Vlad's vicious nature. Leanda bit
+
+372
+00:35:40,569 --> 00:35:46,644
+Vlad. drinking his blood until his human form
+perished and he was reborn in darkness, becoming
+
+373
+00:35:46,704 --> 00:35:53,006
+Varnay's successor as the Lord of Vampires.
+From Castle Dracula in Transylvania, Vlad,
+
+374
+00:35:53,206 --> 00:35:58,308
+now known as Dracula, turned a bevy of women
+into his vampire brides and spawned a number
+
+375
+00:35:58,348 --> 00:36:03,851
+of children, almost all of whom would grow to
+hate him. His brutality spread across Europe,
+
+376
+00:36:04,251 --> 00:36:09,433
+leading to numerous assassination attempts,
+all of which failed and grew his evil reputation.
+
+377
+00:36:11,114 --> 00:36:17,115
+A man named Hans Van Helsing died in his efforts
+to kill Dracula, and his wife, Rachel, swore
+
+378
+00:36:17,155 --> 00:36:22,437
+that the Van Helsing line would not rest until
+Dracula was destroyed. Nearly a century later,
+
+379
+00:36:22,657 --> 00:36:28,538
+the first man to ever successfully kill Dracula
+was a Puritan vanquisher of evil named Solomon
+
+380
+00:36:28,598 --> 00:36:33,960
+Kane, who staked the vampire through the heart
+with an ornate cross, turning him into an ancient
+
+381
+00:36:34,000 --> 00:36:39,461
+skeleton. Shortly after, however, a band of
+thieves raided the castle and removed the valuable
+
+382
+00:36:41,122 --> 00:36:46,406
+which revived him. Dracula later learned of
+a dark magic book known as the Darkhold, and
+
+383
+00:36:46,466 --> 00:36:52,010
+a spell within it called the Montesi formula,
+which was capable of destroying all vampires.
+
+384
+00:36:52,511 --> 00:36:57,835
+Though Dracula tried to retrieve the tome from
+the Vatican, a sorcerer named Cogliostro managed
+
+385
+00:36:57,855 --> 00:37:03,960
+to steal it first. In revenge, Dracula turned
+the sorcerer's wife, adding her to his collection
+
+386
+00:37:04,000 --> 00:37:12,218
+of brides. In the late 19th century, Dracula
+summoned an estate agent to discuss purchasing
+
+387
+00:37:12,258 --> 00:37:17,819
+land in England, and he became obsessed with
+an image of Jonathan Harker's wife, named Mina
+
+388
+00:37:17,879 --> 00:37:22,861
+Murray. Holding Harker captive with his brides,
+Dracula traveled to England where he turned
+
+389
+00:37:22,921 --> 00:37:28,202
+Mina Murray's friend Lucy and began to seduce
+her. Jonathan Harker managed to escape the
+
+390
+00:37:28,222 --> 00:37:33,564
+castle, however, and with the help of Abraham
+Van Helsing, they staked and beheaded Dracula,
+
+391
+00:37:33,924 --> 00:37:38,765
+seemingly killing him for good. Though Dracula
+survived due to Harker's and Van Helsing's
+
+392
+00:37:38,805 --> 00:37:44,468
+blades, not being made out of silver or wood.
+The events involving Mina Marie and Jonathan
+
+393
+00:37:44,508 --> 00:37:50,710
+Harker were later adapted into a book by novelist
+Bram Stoker. As revenge against England for
+
+394
+00:37:50,730 --> 00:37:56,473
+this repulsion, Dracula turned a British noble
+named John Falsworth into a vampire and set
+
+395
+00:37:56,493 --> 00:38:02,075
+him loose in Britain around the time of World
+War I, dubbing his latest minion as Baron Blood,
+
+396
+00:38:02,435 --> 00:38:06,657
+who would go on to become a recurring villain
+for many of Marvel's heroes. During World War
+
+397
+00:38:06,697 --> 00:38:12,369
+II, Dracula returned to his castle to find it
+occupied by Nazi soldiers, and he turned the
+
+398
+00:38:12,389 --> 00:38:18,013
+commander, forcing him to kill his own troops.
+In modern times, Dracula fought and killed
+
+399
+00:38:18,173 --> 00:38:24,037
+one of the most prolific vampire hunters of
+the late 20th century, a man named Jamal Afari.
+
+400
+00:38:24,477 --> 00:38:30,061
+Because of this, Afari's pupil, named Blade,
+swore vengeance against the Lord of Vampires.
+
+401
+00:38:30,621 --> 00:38:35,124
+Teaming up with other vampire hunters, Blade
+and the group managed to stake Dracula through
+
+402
+00:38:35,144 --> 00:38:40,351
+the heart, killing him. though Blade was the
+only survivor. You can learn more about Blade
+
+403
+00:38:40,511 --> 00:38:45,653
+in his duel against Azrael. A descendant of
+Dracula's, a man by the name of Frank Drake,
+
+404
+00:38:45,893 --> 00:38:51,315
+inherited Castle Dracula, and in his inspection
+of the castle, came across Dracula's coffin
+
+405
+00:38:51,415 --> 00:38:56,718
+containing his staked skeleton. Frank Drake
+removed the stake, unknowing what it was, and
+
+406
+00:38:56,758 --> 00:39:02,600
+in doing so revived Dracula. Ashamed by his
+actions, Frank Drake used his wealth to finance
+
+407
+00:39:02,740 --> 00:39:08,970
+other vampire hunters, teaming up with the likes
+of Blade. a vampire named Hannibal King, Quincy
+
+408
+00:39:09,010 --> 00:39:14,492
+Harker, who was the son of Mina Murray and Jonathan
+Harker, and the descendant of Abraham Van Helsing
+
+409
+00:39:14,612 --> 00:39:19,693
+named Rachel Van Helsing. Many of these hunters
+would go on to form the vampire hunting group
+
+410
+00:39:19,793 --> 00:39:25,515
+known as the Nightstalkers under the direction
+of the hero sorcerer Doctor Strange. Eventually,
+
+411
+00:39:25,575 --> 00:39:31,156
+Doctor Strange himself would cast the Darkhold
+spell of the Montessi formula, eradicating
+
+412
+00:39:31,197 --> 00:39:37,696
+Dracula and all vampires on Earth. For a long
+time, Dracula, it seemed, was finally and fully
+
+413
+00:39:37,756 --> 00:39:43,640
+dead. But, many years later, an elder demon
+of hell named Asmodeus drew upon Dracula's
+
+414
+00:39:43,680 --> 00:39:50,806
+spirit and reconstructed his body in Castle
+Dracula using the souls of 666 victims. Dracula
+
+415
+00:39:50,826 --> 00:39:55,870
+would go on to work alongside the monster hunter
+Elsa Bloodstone against a clan of vampire-like
+
+416
+00:39:55,950 --> 00:40:01,875
+creatures called the Nosferati, who had plotted
+to infect Dracula and all vampires with a virus
+
+417
+00:40:01,895 --> 00:40:06,690
+that would turn them into a blood supply for
+the creatures. Not long after, one of Dracula's
+
+418
+00:40:06,731 --> 00:40:13,875
+sons, named Xeris, staged a coup to usurp the
+Lord of Vampires title by uniting the Nosferati,
+
+419
+00:40:14,215 --> 00:40:19,838
+the Atlantean, and the Charneyputra vampire
+sects against his father. Xeris staked Dracula,
+
+420
+00:40:19,999 --> 00:40:24,601
+decapitating him, and had the various sects
+distribute his remains so as not to be joined
+
+421
+00:40:24,641 --> 00:40:30,525
+again. Under Xeris' rule, the vampires waged
+war on humans and mutants alike, going to battle
+
+422
+00:40:30,545 --> 00:40:36,107
+with the X-Men. Although Xerath managed to bite
+and turn the former mutant hero Jubilee, the
+
+423
+00:40:36,267 --> 00:40:42,749
+X-Men managed to resurrect Dracula, who in turn
+ripped his son Xerath's head off. To save Jubilee
+
+424
+00:40:42,789 --> 00:40:47,711
+from Dracula's hold over her, Wolverine traveled
+to Castle Dracula, where he teamed up with
+
+425
+00:40:47,731 --> 00:40:53,253
+the supernatural fighting force called the Howling
+Commandos. Although Wolverine managed to decapitate
+
+426
+00:40:53,273 --> 00:40:57,927
+Dracula and have his head launched into the
+sun, he Dracula's head eventually grew back
+
+427
+00:40:58,067 --> 00:41:03,310
+since the killing was not ceremoniously performed
+with wood or silver. Determining he would start
+
+428
+00:41:03,350 --> 00:41:08,734
+his vampire nation anew, Dracula ordered the
+genocide of his own kind in order to weed out
+
+429
+00:41:08,774 --> 00:41:14,158
+the weak. Then in revenge against Wolverine,
+Dracula lured him to Paris where his vampire
+
+430
+00:41:14,218 --> 00:41:19,642
+soldiers stole a sample of his blood which was
+then transferred into Dracula where the healing
+
+431
+00:41:19,682 --> 00:41:26,426
+effects made him now able to survive in sunlight.
+And that's Dracula's backstory. Dracula is
+
+432
+00:41:26,466 --> 00:41:32,328
+the most powerful vampire in existence as the
+Lord of Vampires. He has a wide array of abilities
+
+433
+00:41:32,408 --> 00:41:37,371
+ranging from the physical, to the psychic, to
+the mystical. First off, he has razor sharp
+
+434
+00:41:37,391 --> 00:41:42,133
+fangs that can transfer the curse of vampirism
+to his victims upon biting them. He also has
+
+435
+00:41:42,193 --> 00:41:48,055
+razor sharp claws, as well as enhanced strength,
+able to lift around 4 tons, enhanced speed,
+
+436
+00:41:48,536 --> 00:41:54,851
+agility, and senses including a mystical sense.
+He is immortal. unaging with a regenerative
+
+437
+00:41:54,891 --> 00:42:00,194
+healing factor, capable of repairing all but
+a very specifically administered set of wounds,
+
+438
+00:42:00,695 --> 00:42:05,458
+and he can even resurrect under proper conditions,
+such as placing his ashes in a coffin filled
+
+439
+00:42:05,478 --> 00:42:10,682
+with soil from his homeland, being touched by
+the tears of a virgin, or by removing the stake
+
+440
+00:42:10,862 --> 00:42:15,625
+if he is staked through the heart. Dracula has
+psionic abilities able to mentally control
+
+441
+00:42:15,685 --> 00:42:21,209
+not just other vampires, but other people via
+hypnosis through eye contact. He can mentally
+
+442
+00:42:21,249 --> 00:42:26,651
+control the weather. on par with heroes such
+as Storm or Thor, and he can summon or shapeshift
+
+443
+00:42:26,671 --> 00:42:33,213
+his form into a mist, a collective of bats,
+a pack of rats, a clutter of spiders, a pack
+
+444
+00:42:33,253 --> 00:42:39,894
+of wolves, or turn into a larger humanoid, wolf,
+or bat-like form. Dracula is a powerful dark
+
+445
+00:42:39,934 --> 00:42:45,656
+magician and able to cast spells such as summoning
+golems or undead vampires or zombies around
+
+446
+00:42:45,696 --> 00:42:50,677
+him. He's an adept strategist with centuries
+of experience and knowledge, and is an expert
+
+447
+00:42:51,542 --> 00:42:57,563
+and he often carries a sword with him, a long
+blade with serrated edges. Weakness-wise, Dracula
+
+448
+00:42:57,683 --> 00:43:03,805
+has a lot. He is repelled by crosses and other
+religious icons and locations, such as churches.
+
+449
+00:43:04,305 --> 00:43:09,687
+Holy water burns him. He is especially vulnerable
+to silver and wood weapons, such as stakes,
+
+450
+00:43:09,907 --> 00:43:15,068
+spears, or bullets. He dies if he's staked through
+the heart, though he comes back if the stake
+
+451
+00:43:15,108 --> 00:43:20,202
+is removed. Garlic and wolf's pain are also
+effective at repelling him. He does have to
+
+452
+00:43:20,242 --> 00:43:25,226
+make contact with his native Transylvanian soil
+once a day, and he has to consume blood to
+
+453
+00:43:25,266 --> 00:43:29,950
+maintain his strength or he'll become weak with
+thirst. He used to be weak to sunlight as I
+
+454
+00:43:29,990 --> 00:43:35,174
+mentioned, but since acquiring Wolverine's healing
+factor that is no longer an issue. And that's
+
+455
+00:43:35,214 --> 00:43:40,539
+Dracula. So essentially these characters are
+pretty much the same, except Dracula has more
+
+456
+00:43:40,579 --> 00:43:44,382
+weaknesses. Except Dracula has a better name.
+But yeah, I mean if I had to put my money on
+
+457
+00:43:44,402 --> 00:43:50,551
+who's a more badass vampire between Cain and
+Dracula, I'd- put my money on Kane and Andrew
+
+458
+00:43:50,591 --> 00:43:54,894
+bad the site isn't with Kane so who gives a
+shit but like Andrew Bennett is essentially
+
+459
+00:43:54,954 --> 00:44:01,278
+Kane's successor you know who cares Dracula's
+Varney successor big deal yeah but like Dracula
+
+460
+00:44:01,298 --> 00:44:06,502
+was turned into a vampire by some peasant woman
+whereas Andrew Bennett was transformed by the
+
+461
+00:44:06,662 --> 00:44:13,726
+vampire of all vampires yeah after the flashpoint
+and we all know that retcon was retconned because
+
+462
+00:44:13,766 --> 00:44:21,673
+DC don't do continuity well for all we know
+the Pre-flashpoint was also Kane. So you don't
+
+463
+00:44:21,713 --> 00:44:23,258
+know. You don't know either.
+
+464
+00:44:31,330 --> 00:44:34,751
+And now that we got their histories and abilities
+out of the way, let's speculate on how one
+
+465
+00:44:34,771 --> 00:44:40,535
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not the speculation,
+
+466
+00:44:40,855 --> 00:44:45,117
+but it's fun to imagine how the fight could
+play out. Alfred Jarvis 9000, what are the
+
+467
+00:44:45,157 --> 00:44:50,220
+rules of our speculation? Well, I should say
+there are no rules, other than the characters
+
+468
+00:44:50,240 --> 00:44:54,783
+have no prior knowledge of the other going into
+the fight. All they are aware of starting out
+
+469
+00:44:55,103 --> 00:44:59,385
+is that the other character is a threat that
+needs to be eliminated. For the speculation...
+
+470
+00:44:59,830 --> 00:45:04,874
+contestants will begin approximately 50 meters
+apart in a nondescript environment that will
+
+471
+00:45:04,914 --> 00:45:10,239
+have no bearing on the match itself as no environmental
+statistics are considered in my simulations
+
+472
+00:45:10,539 --> 00:45:15,744
+the contestants must earn victory on their own
+merit. Alright then let's get into it. Andrew
+
+473
+00:45:15,804 --> 00:45:20,769
+Bennett and Dracula meet on the battlefield
+who goes first? I'm just gonna say it ain't
+
+474
+00:45:20,809 --> 00:45:27,956
+no way Dracula is gonna let some lame-ass named
+Andrew Bennett go first. I hope someone actually
+
+475
+00:45:28,036 --> 00:45:32,171
+named Andrew Bennett like finds you on the street
+and just beats your ass
+
+476
+00:45:35,978 --> 00:45:42,023
+I mean, it's a good name. It's just not it's
+not good for a vampire. Uh, so Dracula goes
+
+477
+00:45:42,063 --> 00:45:47,388
+first, the Lord of the vampires. Uh, he's going
+to start off by, he's going to raise his sword
+
+478
+00:45:47,628 --> 00:45:53,833
+up and he's going to summon a cloak of dark
+clouds that just cover the entire sky with
+
+479
+00:45:53,873 --> 00:45:58,257
+some flashes of lightning, but like everything's
+dark. And then Dracula is going to transform
+
+480
+00:45:58,297 --> 00:46:03,381
+just bursting into this flock of bats that just
+disappear into the darkness surrounding them.
+
+481
+00:46:03,882 --> 00:46:08,023
+Okay, well, I mean, Andrew definitely knows
+now that he's up against a vampire, clearly.
+
+482
+00:46:08,563 --> 00:46:14,986
+So he does kind of conjure up a pair of wooden
+stakes in his hands. And, you know, he's just
+
+483
+00:46:15,006 --> 00:46:20,208
+going to peer into that darkness and grow a
+pair of giant bat wings. And he's just going
+
+484
+00:46:20,228 --> 00:46:27,391
+to take to the air to stake those bats. OK,
+so the bats are swirling around, flying through
+
+485
+00:46:27,411 --> 00:46:32,553
+the air. And old Andy's trying to stake him.
+But all of a sudden, in this like shadowy blur,
+
+486
+00:46:33,014 --> 00:46:38,537
+Dracula is gonna emerge from the flock of bats
+midair and he's gonna use a sword to just slice
+
+487
+00:46:39,058 --> 00:46:44,061
+Those wooden stakes in half and then just as
+quickly and then just as quickly Dracula is
+
+488
+00:46:44,081 --> 00:46:50,246
+gonna become a flock of bats again Flying into
+the clouds above mr. Bennett, and he's gonna
+
+489
+00:46:50,286 --> 00:46:55,269
+send down a lightning bolt that knocks him out
+of the sky That's Lord Bennett to you punk
+
+490
+00:46:55,449 --> 00:47:01,806
+ass Before the lightning strikes, I'm gonna
+say that Andrew transforms into a mist that
+
+491
+00:47:01,826 --> 00:47:07,228
+makes him intangible to that lightning bolt.
+After which, he's just going to flow up into
+
+492
+00:47:07,248 --> 00:47:12,690
+the dark clouds and he's just going to let those
+bats fly right into his mist form, at which
+
+493
+00:47:12,750 --> 00:47:19,733
+point Andrew's going to transform into a pack
+of rats that attack the bats midair and cause
+
+494
+00:47:19,753 --> 00:47:25,716
+them to crash down to the ground. So it's just
+raining bats and rats like a horrible plague
+
+495
+00:47:25,776 --> 00:47:32,402
+or something. Well, as each bat hits the ground,
+it's going to. burst into this like small cloud
+
+496
+00:47:32,482 --> 00:47:39,425
+of black mist. And the mist is gonna all gather
+together and reform into the form of Dracula.
+
+497
+00:47:39,986 --> 00:47:44,367
+At which point Dracula is gonna like raise his
+hand and summon a horde of zombies all around
+
+498
+00:47:44,407 --> 00:47:48,689
+him across the environment. And those zombies
+are just gonna beat the shit out of these rats.
+
+499
+00:47:48,729 --> 00:47:55,772
+Damn. Ha ha ha. Geez. Except that like the rats,
+they're gonna group together and reform into
+
+500
+00:47:55,952 --> 00:48:01,987
+Andrew. Now in this terrifying like werewolf
+form, right? And he straight up just rips right
+
+501
+00:48:02,027 --> 00:48:08,973
+through these slow ass zombies slashing a path
+right to Dracula whose head he just tears right
+
+502
+00:48:09,013 --> 00:48:14,137
+the hell off. You mean he tries to tear off
+Dracula's head, but Dracula is just gonna stand
+
+503
+00:48:14,157 --> 00:48:21,283
+there staring at him, smiling with his eyes
+glowing red, and uh, Andre Benson, he's gonna
+
+504
+00:48:21,323 --> 00:48:27,247
+be frozen in place under Dracula's hypnotic
+control. I mean that's not gonna work on a
+
+505
+00:48:27,287 --> 00:48:34,592
+vampire as powerful as Andrew Bennett. So that
+smile turns upside down real quick. But why
+
+506
+00:48:34,632 --> 00:48:42,036
+won't this work? Dude, would you say that Andrew
+Bennett could hypnotize Dracula? Fuck no. Exactly.
+
+507
+00:48:42,997 --> 00:48:49,760
+You say that, but like Dracula was able to exert
+some influence against even the queen of monsters
+
+508
+00:48:49,900 --> 00:48:56,004
+in the Marvel comics. So like Dracula may not
+be able to control Anders mind, but he at least
+
+509
+00:48:56,064 --> 00:49:01,026
+forces him to revert into his humanoid form.
+You know. mid slash as he tries to take off
+
+510
+00:49:01,046 --> 00:49:08,711
+his head. So instead of decapitating Dracula,
+Mr. Beckett just slaps him. And that was a
+
+511
+00:49:08,771 --> 00:49:14,614
+mistake. Cause Dracula is gonna grab him by
+the wrist and twist it, causing Anton to flip
+
+512
+00:49:14,674 --> 00:49:19,476
+onto his back on the ground where Dracula just
+stakes him through the heart with his sword.
+
+513
+00:49:19,897 --> 00:49:25,800
+Boom, telekinetic shield. That sword just bounces
+right off of it. And Andrew Bennett, he's gonna
+
+514
+00:49:25,840 --> 00:49:30,499
+follow up with a telekinetic blast from the
+ground. That's just gonna send Dracula on his
+
+515
+00:49:30,659 --> 00:49:36,623
+ass. Uh, at which point, Andrew gets on his
+feet, and in like this wicked fast flurry,
+
+516
+00:49:37,103 --> 00:49:42,267
+he's going to pin Dracula's hands and feet to
+the ground with silver daggers, like crucifixion
+
+517
+00:49:42,307 --> 00:49:48,051
+style. And while Dracula is like writhing in
+pain, Andrew's just gonna look down on him
+
+518
+00:49:48,411 --> 00:49:53,274
+with like another silver dagger in his hand,
+and he's gonna be like, my name is Andrew Bennett,
+
+519
+00:49:53,695 --> 00:50:00,299
+bitch, before stinking him right through the
+heart and killing him. Okay, uh, yeah, Dracula
+
+520
+00:50:00,419 --> 00:50:05,382
+is in pain from the silver daggers in his hands
+and feet, but right as, uh, Drew Barrymore
+
+521
+00:50:05,522 --> 00:50:10,726
+tries to stake him in the heart, the silver
+dagger just goes through a cluster of spiders,
+
+522
+00:50:11,186 --> 00:50:17,170
+because Dracula turns into spiders and these
+spiders crawl up and around Mr. Bentley's arm
+
+523
+00:50:17,310 --> 00:50:25,056
+and into his mouth when suddenly a sword erupts
+from out of his chest, slicing up and around
+
+524
+00:50:25,276 --> 00:50:32,288
+as Dracula emerges from inside. Ashton's now
+sliced in half body. Andrew Bennett, it's Andrew
+
+525
+00:50:32,308 --> 00:50:37,990
+Bennett. It's not worth remembering, he's dead.
+Jeez. Dude, I'm pretty sure Dracula wouldn't
+
+526
+00:50:38,010 --> 00:50:43,253
+be able to use his powers if he was positioned
+in the shape of a cruciform with silver in
+
+527
+00:50:43,293 --> 00:50:49,336
+his body. Well, what do you know? You don't
+know. Dude, I know what you told me. Yeah,
+
+528
+00:50:49,356 --> 00:50:54,678
+but it's like, you know, it's fiction. So...
+Oh my gosh. Let's go ahead and leave the match
+
+529
+00:50:54,718 --> 00:51:00,101
+there. Either Andrew Bennett stakes Dracula
+to the ground in the shape of a cross and then
+
+530
+00:51:00,141 --> 00:51:06,484
+stakes his heart, or Dracula turns into spiders,
+goes into Andrew Bennett's body, and stakes
+
+531
+00:51:06,524 --> 00:51:10,847
+him through the heart from the inside while
+cutting his body in half. Pretty violent, but
+
+532
+00:51:10,867 --> 00:51:16,090
+they're vampires, so it makes sense. All right,
+let's enter the stats and find out who's gonna
+
+533
+00:51:16,110 --> 00:51:24,398
+come out on top. AG9K, hit it. Inputting data,
+running calculations, processing results. Simulations
+
+534
+00:51:24,438 --> 00:51:30,581
+complete. All right, that was pretty fun. Despite
+having a horrible name, I will say that Andrew
+
+535
+00:51:30,601 --> 00:51:36,124
+Bennett came out almost identical to Dracula.
+Yeah, their stats are fairly close, you know,
+
+536
+00:51:36,424 --> 00:51:42,967
+in terms of movement speed, evasiveness, strength,
+even fighting skill and range, they're pretty
+
+537
+00:51:43,027 --> 00:51:49,535
+much equal. We did say that Dracula was less
+durable. than Andrew Bennett because Dracula
+
+538
+00:51:49,715 --> 00:51:55,139
+has more weaknesses. Although he did overcome
+his weakness to sunlight, he's still affected
+
+539
+00:51:55,179 --> 00:52:00,844
+by a lot more things than Andrew Bennett's character.
+Plus, Andrew Bennett is able to produce some
+
+540
+00:52:00,884 --> 00:52:05,647
+of those weaknesses, just conjure them in his
+hands. So Dracula lost a point in durability
+
+541
+00:52:05,667 --> 00:52:12,292
+for that reason as well. When it came to intelligence,
+we did say that Dracula was smarter, not only
+
+542
+00:52:12,332 --> 00:52:19,103
+because he lived longer, but also he has more
+experience as a leader of vampires than Andrew.
+
+543
+00:52:20,083 --> 00:52:26,225
+Perception wise though, we gave Andrew the edge
+because he is clairvoyant. Versatility wise,
+
+544
+00:52:26,525 --> 00:52:32,287
+both of these guys are highly versatile as the
+Lord of the vampires of the respective universes.
+
+545
+00:52:32,587 --> 00:52:37,048
+They do a bunch of stuff. Yeah, I totally thought
+Dracula would have Andrew Bennett in the versatility
+
+546
+00:52:37,088 --> 00:52:42,169
+department considering all the different powers
+that he has, but unfortunately Andrew Bennett
+
+547
+00:52:42,189 --> 00:52:46,475
+can do just as much, pretty much. The real difference
+we found there was that Dracula is able to
+
+548
+00:52:46,515 --> 00:52:51,777
+control the weather, whereas Andrew Bennett
+has telekinetic abilities. And can summon weapons.
+
+549
+00:52:52,318 --> 00:52:58,200
+Yeah. So taking all of these stats into consideration,
+Joseph, who do you think came out on top? Not
+
+550
+00:52:58,260 --> 00:53:04,943
+some loser like Andrew Bennett. I would hate
+to give the win to Andrew Bennett. You know,
+
+551
+00:53:04,983 --> 00:53:11,998
+fucking Dracula. It's a vampire match, of course
+Dracula. And our Instagram poll takers. agree
+
+552
+00:53:12,018 --> 00:53:16,781
+with me. Of course they do. Largely probably
+because they don't have no fucking clue who
+
+553
+00:53:16,861 --> 00:53:22,984
+Andrew Bennett is. 80% of them think that Dracula
+is going to take this. Yeah, but I mean, by
+
+554
+00:53:23,024 --> 00:53:26,846
+the time we figured out what duel we were doing
+for this episode because we weren't sure it
+
+555
+00:53:26,866 --> 00:53:31,889
+was kind of a last minute decision, this poll
+has not been up for 24 hours yet. So there's
+
+556
+00:53:31,929 --> 00:53:37,052
+still time for people to vote for Andrew Bennett.
+Like you never know. Andrew Bennett could take
+
+557
+00:53:37,092 --> 00:53:43,444
+the win in this poll. He's not gonna. He's just
+some random dude. He's cool, I swear. You guys
+
+558
+00:53:43,484 --> 00:53:49,908
+heard it. You know he's cool now. But let's
+find out who won. AJ9K, the results please.
+
+559
+00:53:50,529 --> 00:53:58,394
+Hey Yuasa. All right, the winner of the dual
+matchup between Andrew Bennett and Dracula
+
+560
+00:53:58,994 --> 00:54:10,226
+is Dracula. Of course it is, but barely. By
+53.2% or 532 of the 1000 matches. Andrew Bennett
+
+561
+00:54:10,286 --> 00:54:16,309
+won 468. Of course he would lose. He's literally
+nobody. One of these days I hope they make
+
+562
+00:54:16,629 --> 00:54:21,831
+a comic book character named Joseph Garcia.
+So I can talk about what a fucking loser that
+
+563
+00:54:21,871 --> 00:54:27,634
+character is and how lame they are just because
+their name is Joseph Garcia. All comic book
+
+564
+00:54:27,654 --> 00:54:32,657
+characters have to have a name. Why is Andrew
+Bennett like apparently the worst one? Is it
+
+565
+00:54:32,697 --> 00:54:38,512
+any worse than Steve Rogers? No, but Steve Rogers
+is also Captain America. Andrew Bennett is
+
+566
+00:54:38,592 --> 00:54:43,817
+a tax accountant that works down the street
+at the H&R block in the local shopping center.
+
+567
+00:54:44,137 --> 00:54:47,920
+Not the freaking Lord of vampires like Dracula.
+Let me tell you that there's going to be an
+
+568
+00:54:48,020 --> 00:54:52,504
+Andrew Bennett who actually works at an H&R
+block listening to this episode. He was like,
+
+569
+00:54:52,704 --> 00:54:53,525
+oh, I feel seen.
+
+570
+00:54:56,768 --> 00:55:02,873
+We do see you, Andrew. We see you. Yeah, you're
+a badass. Don't let anyone tell you otherwise.
+
+571
+00:55:02,893 --> 00:55:08,073
+Badass name. fucking vampire, lord of the vampires.
+But that does it for this duel guys, let us
+
+572
+00:55:08,093 --> 00:55:13,197
+know what you thought about the results by writing
+to us at dynamicduelpodcasts.gmail.com or by
+
+573
+00:55:13,237 --> 00:55:18,121
+visiting us on Instagram or X. You can find
+links to all of our accounts by checking out
+
+574
+00:55:18,141 --> 00:55:23,825
+our show notes or visiting our website at dynamicduel.com.
+And on our site you could also find a link
+
+575
+00:55:23,866 --> 00:55:29,690
+to our Patreon page where you can join our Dynamic
+2.0 tier and chat with us and fellow listeners,
+
+576
+00:55:30,111 --> 00:55:35,435
+our Fantastic Four tier, which gets you bonus
+content each month. our X-Force tier that makes
+
+577
+00:55:35,455 --> 00:55:41,299
+you an executive producer of this podcast, or
+our newest tier that lets you join our Dynamike
+
+578
+00:55:41,359 --> 00:55:47,224
+Podcast Network. If you can't join Patreon,
+you can still support the show by signing up
+
+579
+00:55:47,264 --> 00:55:53,609
+for our e-newsletter also at dynamicduel.com
+so you'll never miss an episode. Or you can
+
+580
+00:55:53,649 --> 00:55:59,826
+also rate the show on Apple Podcasts, Spotify,
+Podchaser, or on our website. Now that we got
+
+581
+00:55:59,866 --> 00:56:05,431
+the calendar for October all figured out, we
+know that our next episode next week is going
+
+582
+00:56:05,451 --> 00:56:12,576
+to be a review. Tying into this episode, we're
+going to discuss the 2004 film Blade Trinity.
+
+583
+00:56:12,997 --> 00:56:17,740
+We've already talked about the first Blade and
+Blade 2, so this will round out the trilogy
+
+584
+00:56:18,101 --> 00:56:23,725
+by talking about this shit show of a film. Oh
+my god, it's so bad. Yeah, Dracula's in the
+
+585
+00:56:23,765 --> 00:56:30,126
+movie and he sucks. So at the end of the day,
+Marvel's Dracula really is. a big fucking loser.
+
+586
+00:56:30,666 --> 00:56:34,788
+That does it for this episode, we want to give
+a big thanks to our executive producers Ken
+
+587
+00:56:34,808 --> 00:56:40,970
+Johnson, John Snorosky, Zachary Hepburn, Dustin
+Balcom, Miggy Mathengian, Brandon Estregard,
+
+588
+00:56:41,270 --> 00:56:47,953
+Nathaniel Wagner, Levi Yeaton, Nick Ibbonto,
+Austin Wasylowski, AJ Dunkerley, Scott Camacho,
+
+589
+00:56:48,373 --> 00:56:53,736
+Adam Spies, and Andrew Shunk for helping make
+this podcast possible. And we'll talk to you
+
+590
+00:56:53,776 --> 00:56:56,597
+guys next week. Up up and away, true believers.
+
