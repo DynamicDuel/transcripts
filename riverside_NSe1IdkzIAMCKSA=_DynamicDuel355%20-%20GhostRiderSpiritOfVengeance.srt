@@ -1,0 +1,3847 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a Dynamike Network podcast.
+
+2
+00:00:25,006 --> 00:00:30,210
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:30,250 --> 00:00:36,316
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:36,757 --> 00:00:43,383
+I'm Johnny DC. And I'm his twin brother Marvelous
+Joe. And in our fourth week of Spooktober,
+
+5
+00:00:43,603 --> 00:00:49,509
+we are going to be reviewing the spooky film
+Ghost Rider Spirit of Vengeance. Spooky good,
+
+6
+00:00:49,809 --> 00:00:54,540
+right? or spooky in the kind of way where it's
+like, oh no, I don't want to watch this. It's
+
+7
+00:00:54,821 --> 00:01:02,867
+because it's kind of spooky and bad. Yeah, you
+know, there's things I like about the movie,
+
+8
+00:01:02,887 --> 00:01:08,210
+things I don't. But we are going to be joined
+in our review by special guest John Storosky
+
+9
+00:01:08,251 --> 00:01:12,514
+from the Mad Trivia podcast. So look forward
+to that later this episode. Of course, before
+
+10
+00:01:12,554 --> 00:01:16,517
+that, we're going to break down the comic book
+movie news from the past week, which actually,
+
+11
+00:01:16,577 --> 00:01:21,875
+no, we're not because. There was no comic book
+movie news from the past week. It's super dead
+
+12
+00:01:21,935 --> 00:01:27,957
+right now in terms of Hollywood coverage. But
+we are coming to you with the news of how awesome
+
+13
+00:01:28,337 --> 00:01:33,978
+the podcast Senjou World is hosted by executive
+producer of this show, Zachary Hepburn. We're
+
+14
+00:01:33,998 --> 00:01:38,460
+going to be talking to him later on this episode.
+As always, we list our segment times in our
+
+15
+00:01:38,480 --> 00:01:42,621
+episode description, so feel free to check out
+the show notes if you want to skip ahead to
+
+16
+00:01:42,661 --> 00:01:47,546
+a particular topic. As our listeners may know,
+our dual simulator is so advanced that it's
+
+17
+00:01:47,586 --> 00:01:52,714
+gained sentience and has named itself the Artificial
+Lifeform for running extensive duels, just
+
+18
+00:01:52,734 --> 00:01:58,823
+a rather very intelligent Simulator 9000 or
+Alfred Jarvis 9000. Here's a quick message
+
+19
+00:01:58,843 --> 00:02:05,453
+for our listeners, so listen up! Why hello there.
+Do you love listening and chatting about Marvel
+
+20
+00:02:05,473 --> 00:02:10,538
+and DC? Then become a part of the dynamic dual
+community on Patreon, where you can choose
+
+21
+00:02:10,558 --> 00:02:16,224
+from three tiers. The dynamic 2-0 tier lets
+you listen to this podcast without ads and
+
+22
+00:02:16,244 --> 00:02:20,649
+gives you access to its Discord chat group,
+where you can chat with Johnny DC and Marvelous
+
+23
+00:02:20,689 --> 00:02:25,475
+Joe. The Fantastic Four tier gives you that
+and more with two bonus episodes each month,
+
+24
+00:02:25,896 --> 00:02:30,038
+including bloopers and top ten shows where Johnny
+and Joe count down your favourite Marvel and
+
+25
+00:02:30,058 --> 00:02:35,800
+DC subjects. The X-Force tier makes you an executive
+producer of Dynamic Duel, where every month
+
+26
+00:02:35,840 --> 00:02:40,342
+you help the host choose what to review and
+who to fight against each other. And finally,
+
+27
+00:02:40,502 --> 00:02:46,105
+the Dynamite Podcast Network tier allows aspiring
+podcasters to create their own battle-focused
+
+28
+00:02:46,125 --> 00:02:48,326
+show using this Monte Carlo simulator.
+
+29
+00:03:08,080 --> 00:03:12,723
+Thanks ag9k and thanks to everyone who supports
+the podcast. Be sure to tune in to the Max
+
+30
+00:03:12,743 --> 00:03:18,503
+Destruction Podcast, part of the Dynamike Podcast
+Network. this Wednesday, where this month host
+
+31
+00:03:18,563 --> 00:03:24,388
+Ken is going to pit some of the spookiest film
+characters against each other, including Candyman
+
+32
+00:03:24,428 --> 00:03:30,233
+and Leatherface and Predator vs. the Alien Queen.
+Yeah, also tune in to Sendrow World this week
+
+33
+00:03:30,273 --> 00:03:35,998
+to find out who'd win in a fight between the
+anime characters of Muzaka and Alucard. Visit
+
+34
+00:03:36,098 --> 00:03:41,182
+dynamicpodcasts.com or click on the link in
+our show notes to listen to all the shows in
+
+35
+00:03:41,222 --> 00:03:48,850
+the Dynamike Podcast Network. But with that
+out of the way... Quick! to the no prize. A
+
+36
+00:03:48,890 --> 00:03:53,613
+no prize is an award Marvel used to give out
+to fans. Our version, the Dynamic Dual No Prize,
+
+37
+00:03:53,673 --> 00:03:57,795
+is a digital award we post on Instagram and
+in our email newsletter for the person that
+
+38
+00:03:57,835 --> 00:04:03,519
+we feel gave the best answer to our question
+of the week. Last week, we asked, what upcoming
+
+39
+00:04:03,599 --> 00:04:10,023
+television series from Marvel or DC are you
+most looking forward to and why? Yeah, we got
+
+40
+00:04:10,083 --> 00:04:14,225
+a few answers, not very many. Actually a little
+bit disappointed in the quality of the answers.
+
+41
+00:04:14,774 --> 00:04:18,636
+because none of them were Marvel. They were
+all DC. Actually, we did get one Marvel answer,
+
+42
+00:04:18,997 --> 00:04:22,659
+except it was for a non-existent show that's
+not actually coming out. Someone said that
+
+43
+00:04:22,699 --> 00:04:26,082
+they were excited for Nova to come out, but
+that's not really a thing. That was just something
+
+44
+00:04:26,102 --> 00:04:31,066
+that someone said one time on the internet.
+So wishful thinking, yeah. Yeah, wishful thinking.
+
+45
+00:04:31,486 --> 00:04:36,590
+But our first honorable mention goes to Miki
+Matengian, who said. Hey, what's up guys, this
+
+46
+00:04:36,610 --> 00:04:41,233
+is Miki. And the first thought that came to
+my mind was My Adventures with Superman season
+
+47
+00:04:41,253 --> 00:04:46,391
+two. But I think you guys said series and not
+season, so I'm gonna go with the Green Lanterns
+
+48
+00:04:46,431 --> 00:04:54,715
+show. That's gonna be part of the James Gunn
+DC Comics universe. I think it'll just be really
+
+49
+00:04:54,735 --> 00:05:00,897
+fun to see like a buddy cop movie and see like
+redemption for the Green Lantern franchises
+
+50
+00:05:00,917 --> 00:05:05,259
+and live action. Yeah, so we've been waiting
+for a live action Green Lantern series for
+
+51
+00:05:05,279 --> 00:05:10,721
+what seems like forever. Of course, with James
+Gunn and Peter Safran taking the helm of DC
+
+52
+00:05:10,761 --> 00:05:17,381
+studios, The planned HBO Max Green Lantern series
+has been scrapped, and I guess it's being retooled
+
+53
+00:05:17,861 --> 00:05:21,563
+under the direction of the new heads of the
+studio. Of course, our first Green Lantern
+
+54
+00:05:21,704 --> 00:05:26,607
+in the universe has already been cast. Nathan
+Fillion is playing Guy Gardner, but we're not
+
+55
+00:05:26,627 --> 00:05:32,118
+sure if he's going to be a star in the upcoming
+Green Lantern's television series. Yeah, Finn
+
+56
+00:05:32,158 --> 00:05:36,701
+Wintrock was attached to the character of Guy
+Gardner in the previous iteration of this series,
+
+57
+00:05:36,741 --> 00:05:41,563
+but this new show set in the DC universe has
+been described as being akin to True Detective,
+
+58
+00:05:41,683 --> 00:05:47,287
+which sounds awesome. So, yeah, I can see why
+Miggie's looking forward to it. Yeah, no words
+
+59
+00:05:47,327 --> 00:05:51,309
+on our release date yet for that show. Great
+answer, Miggie. Our next honorable mention
+
+60
+00:05:51,349 --> 00:05:57,493
+goes to Andrew Shunk, who said, Andrew Shunk
+here. The show I'm looking forward to most
+
+61
+00:05:57,613 --> 00:06:03,591
+is Lanterns. With it being a true detective
+style, it can bring in so much. And having
+
+62
+00:06:04,031 --> 00:06:13,414
+a group like the Durlins play the main antagonist
+also then opens up the world of DC and can
+
+63
+00:06:13,434 --> 00:06:20,896
+bring in Brainiac or the Dominators and really
+makes it an epic show. Plus, interested to
+
+64
+00:06:20,916 --> 00:06:25,257
+see who they're going to cast. So Andrew also
+gave the answer of Lanterns, saying that it's
+
+65
+00:06:25,317 --> 00:06:31,290
+really going to open up DC's universe. specifically
+the cosmic universe where we get to meet different
+
+66
+00:06:31,431 --> 00:06:36,192
+alien characters. And I think that's a great
+justification for why the show is going to
+
+67
+00:06:36,212 --> 00:06:41,513
+be awesome, because not many DC movies have
+taken place in outer space on other planets.
+
+68
+00:06:42,054 --> 00:06:45,635
+Yeah, Andrew also mentioned that he's excited
+to see who they're going to cast for the characters
+
+69
+00:06:45,675 --> 00:06:49,576
+of Held Jordan and Jon Stewart. Jonathan, off
+the top of your head, who are you going with?
+
+70
+00:06:50,056 --> 00:06:56,370
+Oh, shit. Well, Channing Tatum has been rumored
+for Held Jordan, and I don't hate that. Like,
+
+71
+00:06:56,570 --> 00:07:01,432
+I would totally accept that. I kinda hate that.
+I don't know. What? No, get out of here. And
+
+72
+00:07:01,452 --> 00:07:07,096
+then to pair with Channing Tatum, I'd go with,
+I don't know, John David Washington. There
+
+73
+00:07:07,116 --> 00:07:11,778
+you go. That wouldn't be bad. Great answer,
+Andrew Schunk. Thanks to Nate Mantineo for
+
+74
+00:07:11,818 --> 00:07:15,280
+taking the time to visit our website and leave
+an answer. But the winner of this week's No
+
+75
+00:07:15,320 --> 00:07:21,944
+Prize is Christopher Manotti, who said. Hi guys,
+Christopher Manotti. I'm really looking forward
+
+76
+00:07:22,004 --> 00:07:28,488
+to the Penguin TV show. I really like. Colin
+Farrell's The Penguin in the Batman, and I
+
+77
+00:07:28,528 --> 00:07:33,471
+really wanna see more of that character. I think
+it would be cool to see more of his empire
+
+78
+00:07:33,591 --> 00:07:39,616
+and see how much control he actually has over
+Gotham. Plus, this could be a good way to introduce
+
+79
+00:07:39,696 --> 00:07:45,339
+more of Batman's rogues gallery, like Black
+Mask or even Deadshot. Absolutely, I cannot
+
+80
+00:07:45,399 --> 00:07:50,423
+wait for this series to come out. Of course,
+the series is a sequel to the Batman film that
+
+81
+00:07:50,463 --> 00:07:55,650
+came out last year. Colin Farrell totally killed
+it as The Penguin, Totally unrecognizable,
+
+82
+00:07:55,730 --> 00:08:00,694
+did a fantastic job, and I can't wait to see
+more of that character in his own series where,
+
+83
+00:08:00,794 --> 00:08:06,038
+yeah, you're right, we may be introduced to
+more of Gotham's criminal underworld with characters
+
+84
+00:08:06,118 --> 00:08:11,621
+like maybe Harvey Dent, Black Mask, maybe even
+Harley Quinn. That would be cool. Yeah, those
+
+85
+00:08:11,781 --> 00:08:15,944
+characters would all certainly be interesting
+set within the very realistic grounded world
+
+86
+00:08:15,964 --> 00:08:20,087
+that Matt Reeves set up in the Batman movie.
+So great answer, Christopher Manotti, you win
+
+87
+00:08:20,107 --> 00:08:23,898
+this week's No Prize. If you the listener want
+a shot at winning your own No Prize... Stay
+
+88
+00:08:23,918 --> 00:08:27,827
+tuned to later on this episode when we'll be
+asking another question of the week. But with
+
+89
+00:08:27,847 --> 00:08:29,772
+that out of the way, onto the news!
+
+90
+00:08:35,374 --> 00:08:40,699
+Alright, so there's no news this week, but we
+are going to in a moment here get Zachary Hepburn
+
+91
+00:08:40,859 --> 00:08:45,884
+on the line Who is the host of the Send Your
+World? Anime action podcast which is part of
+
+92
+00:08:45,904 --> 00:08:50,468
+the dynamite podcast network, but leading into
+the interview We want to hit you guys with
+
+93
+00:08:50,508 --> 00:08:51,289
+a question of the week
+
+94
+00:08:55,786 --> 00:09:01,649
+Which Marvel or DC character do you think would
+make for the most awesome anime series, and
+
+95
+00:09:01,729 --> 00:09:06,011
+why? Yeah, since we're gonna be talking to Zack
+about his show, which is about anime, we thought
+
+96
+00:09:06,031 --> 00:09:10,354
+this was an appropriate question. Of course,
+there already have been some Marvel and DC
+
+97
+00:09:10,374 --> 00:09:15,416
+characters that have had animes, such as, uh,
+I guess Superman, with the recent My Adventures
+
+98
+00:09:15,436 --> 00:09:20,299
+with Superman show. Also Wolverine, the X-Men,
+Blade. So none of those guys that have already
+
+99
+00:09:20,339 --> 00:09:24,681
+had animes. We're talking about, like, new characters
+that have not had animes, movie, or series
+
+100
+00:09:24,701 --> 00:09:29,431
+yet. Right. Recording your answer at dynamic
+duel dot com by clicking on the red microphone
+
+101
+00:09:29,471 --> 00:09:33,072
+button in the bottom right hand corner of the
+screen, which will prompt you to leave us a
+
+102
+00:09:33,112 --> 00:09:37,733
+voicemail. Your message could be up to 30 seconds
+long. And don't forget to leave your name in
+
+103
+00:09:37,773 --> 00:09:42,755
+case we include you on the podcast. We'll pick
+our favorite answer and award that person a
+
+104
+00:09:42,855 --> 00:09:48,057
+dynamic duel no prize that will post to Instagram
+and our email newsletter. Be sure to answer
+
+105
+00:09:48,097 --> 00:09:53,978
+before October 28th. Alright, let's get executive
+producer Zachary Hepburn on the line to talk
+
+106
+00:09:54,018 --> 00:09:59,340
+about his podcast, Senjo World. Hey Zach, glad
+to have you on the show since you were last
+
+107
+00:09:59,460 --> 00:10:04,601
+on for our amazing Spider-Man review. It's good
+to be back. I'm excited. It's been a while.
+
+108
+00:10:05,021 --> 00:10:09,623
+It has been a while. For those who don't know,
+Zach is an executive producer of Dynamic Duel
+
+109
+00:10:09,943 --> 00:10:15,264
+and as we launched our Dynamike podcast network,
+Zach came to us right away pitching a show
+
+110
+00:10:15,304 --> 00:10:19,365
+where he would use the Monte Carlo simulator
+to see who would win in fights between anime
+
+111
+00:10:19,405 --> 00:10:24,612
+characters. And without hesitating, Jonathan
+and I were like, absolutely. You know, he has
+
+112
+00:10:24,652 --> 00:10:30,055
+podcasting experience. He's extremely knowledgeable
+about not just anime, but literally everything.
+
+113
+00:10:30,115 --> 00:10:35,418
+Pop culture, really. I think out of anyone,
+Zach, you probably could have created a show
+
+114
+00:10:35,438 --> 00:10:39,560
+about anything like because you game more than
+anybody I know. Like, you know, everything
+
+115
+00:10:39,600 --> 00:10:43,703
+about video games. You have an insane movie
+collection. You know, everything about movies.
+
+116
+00:10:43,743 --> 00:10:47,345
+You read tons of comics. You know, you're a
+big fan of superheroes. And of course, you
+
+117
+00:10:47,365 --> 00:10:52,739
+watch a lot of shows. both animated and live
+action. So I guess starting off, out of everything
+
+118
+00:10:52,779 --> 00:10:58,180
+you could have made a show about, what made
+you decide on anime? To be honest, it was one
+
+119
+00:10:58,220 --> 00:11:03,261
+of those phases I was going through. I kind
+of go through phases of what I really get into.
+
+120
+00:11:03,742 --> 00:11:09,303
+And at that point it was anime, but at the same
+time I was like, anime would be perfect for
+
+121
+00:11:09,343 --> 00:11:16,765
+this, right? And I was actually talking with
+one of my guests and he also listens to Dynamic
+
+122
+00:11:16,785 --> 00:11:22,648
+Duel. And... When he first heard you guys talk
+about the new level for the Patreon where you
+
+123
+00:11:22,668 --> 00:11:26,910
+make your own podcast, he was like, oh, I want
+to do an anime one. And then like the next
+
+124
+00:11:26,991 --> 00:11:33,554
+episode, like my podcast got announced. So lead
+him to the punch. Yeah. Right. So but yeah,
+
+125
+00:11:33,654 --> 00:11:39,838
+no, it's it just fits. Right. And the internet
+is just full of people just fighting and arguing.
+
+126
+00:11:40,238 --> 00:11:45,081
+You know what I mean? So it's like, let's do
+the math. Let's get the actual results. You
+
+127
+00:11:45,101 --> 00:11:50,827
+know, it was perfect. I feel like I see more
+people arguing about anime characters than
+
+128
+00:11:50,927 --> 00:11:56,288
+I do like Marvel versus DC or comic book characters
+in general. Like I feel like everyone's always
+
+129
+00:11:56,328 --> 00:12:01,330
+talking about who would be Goku or someone like
+that, you know? Pretty much. Yes, definitely
+
+130
+00:12:01,350 --> 00:12:06,191
+a passionate fan base for sure. Oh yeah, like
+I've shown you guys like how they talk to each
+
+131
+00:12:06,231 --> 00:12:11,152
+other. It's very toxic if you guys, if people
+don't agree. So I try and stay on the, you
+
+132
+00:12:11,172 --> 00:12:16,270
+know, on the edge, but like it is what it is,
+but it's fun. It's very fun. And of course,
+
+133
+00:12:16,290 --> 00:12:20,353
+there's nothing more objective to determining
+who would win these fights than math, right?
+
+134
+00:12:20,373 --> 00:12:24,196
+You can't really argue with math. So I kind
+of feel like you're the last word on this subject,
+
+135
+00:12:24,256 --> 00:12:31,382
+whether people want to admit that or not. Pretty
+much, right? So Senjou World is releasing its
+
+136
+00:12:31,542 --> 00:12:37,506
+15th episode this week. It's going to be Alucard
+versus Muzaka for Spooktober. And plus, you've
+
+137
+00:12:37,526 --> 00:12:42,582
+broken down some amazing matches in the past,
+like Yusuke from Yu Hakusho. versus Tangiro
+
+138
+00:12:42,602 --> 00:12:47,587
+from Demon Slayer, you've done Alan Walker from
+D. Greyman versus Edward Elric from Fullmetal
+
+139
+00:12:47,707 --> 00:12:53,112
+Alchemist, and most recently, you did Denji
+the Chainsaw Man versus D. O'Brando from Jojo's
+
+140
+00:12:53,152 --> 00:12:58,236
+Bizarre Adventure. Out of all the episodes you've
+done, what episode so far without spoiling
+
+141
+00:12:58,316 --> 00:13:05,242
+anything would you say has been your most surprising?
+Most surprising would probably be the Devilman
+
+142
+00:13:05,262 --> 00:13:11,298
+episode. I had a guest on for that one as well
+and... We were just amazed how great the matchup
+
+143
+00:13:11,338 --> 00:13:16,240
+actually was. So, yeah, I would have to say
+probably the Devilman versus Kaguya episode.
+
+144
+00:13:16,520 --> 00:13:22,221
+Nice. I am highly fascinated by the character
+of Chainsaw Man. I remember seeing him a while
+
+145
+00:13:22,241 --> 00:13:26,082
+back when the anime first started coming out
+and I was like, what the heck is this? I got
+
+146
+00:13:26,102 --> 00:13:29,783
+to check this out because it's just, I don't
+know, the imagery of a guy with a chainsaw
+
+147
+00:13:29,803 --> 00:13:36,565
+for a head is quite alarming. But I think one
+of the best qualities of Centro World for people
+
+148
+00:13:36,585 --> 00:13:41,933
+like myself who aren't necessarily that well
+versed in anime is that Senjou World is almost
+
+149
+00:13:41,953 --> 00:13:46,616
+like a gateway drug I think for those who are
+curious about what anime is out there. My favorite
+
+150
+00:13:46,636 --> 00:13:51,921
+episode of Senjou World so far has been Alan
+Walker vs Edward Elric, largely because I've
+
+151
+00:13:51,961 --> 00:13:57,025
+seen Fullmetal Alchemist, but the story of D.
+Greyman sounded just fascinating. My favorite
+
+152
+00:13:57,045 --> 00:14:02,489
+episode was probably Gaara vs Akutagawa. I know
+I totally butchered that. I always butcher
+
+153
+00:14:02,509 --> 00:14:07,673
+the names. Akutagawa. Yeah. The guest you head
+on for that. Just listening to you guys geek
+
+154
+00:14:07,773 --> 00:14:12,508
+out. over anime. It was just fun to listen to.
+It's fun to listen to people who are passionate
+
+155
+00:14:12,848 --> 00:14:18,211
+about the genre talk about it. Yeah, no, that
+is definitely one of the awesome parts about
+
+156
+00:14:18,251 --> 00:14:23,114
+getting some of these guests, right? And it's
+putting me a little bit further into the anime
+
+157
+00:14:23,154 --> 00:14:28,357
+community where I can, you know, branch out
+a little bit more, even just expand my own
+
+158
+00:14:28,417 --> 00:14:33,580
+knowledge base. It's really dope. Like I'm loving
+it. It's clear that you are really knowledgeable
+
+159
+00:14:33,600 --> 00:14:37,474
+about the characters because when you go into
+your battle speculation, It seems like you
+
+160
+00:14:37,494 --> 00:14:42,957
+have a solid grasp of not only what the characters
+can do, but also what they would do. And that
+
+161
+00:14:43,077 --> 00:14:46,499
+can be a fine line because knowing what they
+would do requires a greater understanding of
+
+162
+00:14:46,539 --> 00:14:51,702
+the characters and the characterization that
+they have. So kudos on that. I'm always really
+
+163
+00:14:51,722 --> 00:14:57,245
+impressed by your battle speculations. Oh, I
+appreciate that. As an anime fan, what type
+
+164
+00:14:57,265 --> 00:15:01,427
+of anime shows or movies are you most drawn
+to? And what would you say are some of your
+
+165
+00:15:01,467 --> 00:15:08,919
+all-time favorites? It's kind of cliche, but...
+I'm definitely a shonen guy. Shonen is more
+
+166
+00:15:09,299 --> 00:15:14,281
+action based. A lot of shonen follows the same
+kind of tropes and that's why a lot of people
+
+167
+00:15:14,301 --> 00:15:20,003
+kind of hate on them. But I don't know, I find
+a lot of the best fights come from shonen.
+
+168
+00:15:20,344 --> 00:15:24,845
+But don't get me wrong, there's a whole bunch
+of other ones that are just as good. But if
+
+169
+00:15:24,925 --> 00:15:30,528
+I would have to say anything, it would probably
+be shonen, action, martial arts. That's usually
+
+170
+00:15:30,588 --> 00:15:36,378
+like my wheelhouse. Anything that has that definitely
+draws me in right off the bat. which is totally
+
+171
+00:15:36,398 --> 00:15:43,721
+fitting for a fight podcast. Exactly. I'm still
+waiting for you to do like Neon Genesis, Evangelion
+
+172
+00:15:43,761 --> 00:15:48,383
+versus Gundam, because you and I have had debates
+about that. And I will totally fight you on
+
+173
+00:15:48,423 --> 00:15:53,485
+that one. Yeah. As a guest on that one. For
+sure. 100 percent. I just don't want to like
+
+174
+00:15:53,525 --> 00:15:58,727
+break your heart when it when it really comes
+down to it. You know, so we'll see. Jonathan
+
+175
+00:15:58,747 --> 00:16:03,549
+gets his heart broken all the time on our show,
+so don't worry about it. About half the time.
+
+176
+00:16:03,569 --> 00:16:10,068
+That's true. I just have to find the right Gundam
+to go up against it. But to be honest, I would
+
+177
+00:16:10,268 --> 00:16:16,431
+probably bring the guy from DerLogin, that big
+robot. I think that would be a better matchup.
+
+178
+00:16:16,911 --> 00:16:19,552
+That's a deep cut. I've never heard of that.
+I'm never going to take your word for that
+
+179
+00:16:19,632 --> 00:16:25,234
+one. I'm going to have to look that up now.
+For sure. That one's so good. Can you tell
+
+180
+00:16:25,274 --> 00:16:30,457
+us the origin of the name for your show, Senjou
+World? How did you come up with that? Well,
+
+181
+00:16:30,817 --> 00:16:36,283
+to be honest, I just... kind of went on Google
+and I'm like, hmm, what would be some cool
+
+182
+00:16:36,723 --> 00:16:42,164
+names, right? And then I was like, Battle World.
+So I looked up like, okay, how do I say battle
+
+183
+00:16:42,244 --> 00:16:48,586
+in Japanese? And then it was just like, Batool.
+And I was like, okay, well, that's kind of
+
+184
+00:16:48,626 --> 00:16:55,108
+stupid. So I was searching around and everything
+and then I was like, okay, let's try two words
+
+185
+00:16:55,148 --> 00:17:02,562
+together because in Japanese, they'll have a
+completely separate word for that, right? battle
+
+186
+00:17:02,602 --> 00:17:07,925
+arena and that's where Senjou came up and it
+was one of the first things that actually popped
+
+187
+00:17:08,025 --> 00:17:12,727
+up because I know we talked about it we had
+a couple different spellings for it at the
+
+188
+00:17:12,767 --> 00:17:16,950
+beginning right? That's right. So Senjou also
+has multiple meanings depending on how you
+
+189
+00:17:16,990 --> 00:17:21,772
+spell it. Right yeah I think if you spell it
+with just the O didn't it mean like fairy or
+
+190
+00:17:21,812 --> 00:17:27,236
+something? Fairy? Yeah. But every time I hear
+the name Senjou World I always want to pronounce
+
+191
+00:17:27,296 --> 00:17:34,620
+it in a that heavy anime style where I'm like
+Senjou! but Jonathan won't let me. Um. Senjou.
+
+192
+00:17:34,640 --> 00:17:39,725
+You have to say like deep. You have to say deep.
+Well, it depends on what anime archetype you
+
+193
+00:17:39,745 --> 00:17:45,409
+are, I think. I consider myself like the burly,
+like excitable big guy, you know? Really. Okay.
+
+194
+00:17:45,590 --> 00:17:51,555
+I do not see that. Well, I'm definitely not
+like the skinny, like long-haired pretty boy
+
+195
+00:17:51,595 --> 00:17:57,079
+type. I feel like that's just not how I see
+myself. So. No, you're like the like the short
+
+196
+00:17:57,119 --> 00:17:59,781
+punk ass kid with glasses and like the messy
+hair.
+
+197
+00:18:03,610 --> 00:18:08,153
+Well, Senjo World is an awesome show. You should
+be super proud of it, Zach. We're super proud
+
+198
+00:18:08,193 --> 00:18:12,695
+to have it as part of our Dynamike network.
+Listeners, if you love anime and want to see
+
+199
+00:18:12,755 --> 00:18:17,398
+who mathematically would win in Zach's matchups,
+and if you're interested in hearing the stories
+
+200
+00:18:17,458 --> 00:18:22,401
+of your favorite characters and perhaps discovering
+new favorites, be sure to listen to Senjo World.
+
+201
+00:18:22,461 --> 00:18:29,025
+That's S-E-N-J-O-H World. Anywhere you listen
+to podcasts or by visiting dynamicpodcast.com.
+
+202
+00:18:30,274 --> 00:18:33,875
+Zach, thanks for joining us. It was great to
+have you. And yeah, look forward to listening
+
+203
+00:18:33,895 --> 00:18:38,376
+to more Sinjo World in the future, especially
+this upcoming episode. Sounds awesome. Yeah,
+
+204
+00:18:38,416 --> 00:18:43,697
+thanks a lot guys. And tell John I said what
+up. Oh yeah, for sure. This episode is almost
+
+205
+00:18:43,717 --> 00:18:47,819
+like a media night with the boys reunion. That's
+the cool thing too, like, cause I just had
+
+206
+00:18:47,859 --> 00:18:52,880
+John on my show and it's pretty cool that, you
+know, we're on the same episode. We might not
+
+207
+00:18:52,920 --> 00:18:56,781
+be together, but we're still on the same episode.
+Yeah, yeah, I think John's taken over.
+
+208
+00:19:05,230 --> 00:19:08,694
+With that being said, let's go ahead and say
+goodbye to Zach and get on to our main event
+
+209
+00:19:08,755 --> 00:19:14,262
+where we review the 2012 movie by Sony Pictures,
+Ghost Rider Spirit of Vengeance.
+
+210
+00:19:31,970 --> 00:19:37,331
+Ghost Rider Spirit of Vengeance came out in
+2012, directed by Mark Neveldeen and Brian
+
+211
+00:19:37,351 --> 00:19:44,173
+Taylor and starring Nicolas Cage, Idris Elba,
+Johnny Whitworth, and Kieran Hines. The movie
+
+212
+00:19:44,213 --> 00:19:49,435
+is a quasi-sequel to the 2007 film directed
+by Mark Steven Johnson and also starring Nicolas
+
+213
+00:19:49,455 --> 00:19:53,736
+Cage as Johnny Blaze, but it doesn't really
+keep anything else in regards to continuity.
+
+214
+00:19:54,196 --> 00:19:59,546
+I used to struggle with these reboot sequels,
+or requels as it were. But now that the concept
+
+215
+00:19:59,566 --> 00:20:04,888
+of the Marvel multiverse exists, it's easy to
+see this film and the 2007 Ghost Rider as parallel
+
+216
+00:20:04,928 --> 00:20:10,251
+timelines where some things change, but some
+things, like Johnny Blaze, remain the same.
+
+217
+00:20:10,671 --> 00:20:16,373
+But speaking of badasses named Johnny, and I
+sure as hell do not mean Johnny DC, I'm talking
+
+218
+00:20:16,413 --> 00:20:22,836
+about MadTrivia John, aka executive producer
+of this show, John Staroski, from the MadTrivia
+
+219
+00:20:22,876 --> 00:20:24,257
+Podcast. Say hi, John. Hi, John.
+
+220
+00:20:27,566 --> 00:20:32,088
+I had to, I had to, I'm sorry, take that one.
+Thanks for having me on, guys. It is a pleasure
+
+221
+00:20:32,108 --> 00:20:37,250
+to be back after so very long. Yeah, you last
+joined us for the amazing Spider-Man review
+
+222
+00:20:37,290 --> 00:20:42,113
+that you did with Zack, who was on this episode
+earlier when you guys were doing the Media
+
+223
+00:20:42,133 --> 00:20:48,015
+Night with the Boys podcast. Since that time,
+you've put out the Mad Trivia podcast, which
+
+224
+00:20:48,295 --> 00:20:53,157
+marries the concepts of movie discussions and
+trivia. So tell us a little bit about that
+
+225
+00:20:53,197 --> 00:20:58,836
+show. Yeah, so as you well know, because I've
+actually had you on as a guest already, it
+
+226
+00:20:58,896 --> 00:21:05,259
+is essentially a trivia game for my guests and
+a little bit of a mad lib as well at the end.
+
+227
+00:21:06,059 --> 00:21:10,681
+My guests provide me their five favorite movies
+of which I pick one without their knowledge.
+
+228
+00:21:11,622 --> 00:21:16,104
+I then do a good amount of research to find
+as many good questions as I can, narrow it
+
+229
+00:21:16,184 --> 00:21:21,710
+down to 10 with 11 possible answers. Of course,
+one of those being a two answer question. And
+
+230
+00:21:21,730 --> 00:21:25,954
+then I pretty much always something because
+I go really hard in the paint when it comes
+
+231
+00:21:25,994 --> 00:21:31,418
+to research You found out the hard way with
+fight clubbing. Yeah, I think I only got about
+
+232
+00:21:31,458 --> 00:21:36,903
+half the questions, right? Something like that.
+Yeah, five or six. Yeah, it's a fantastic concept
+
+233
+00:21:36,923 --> 00:21:42,487
+for a podcast I never would have thought to
+marry mad libs with trivia and movies. It's
+
+234
+00:21:42,607 --> 00:21:48,492
+it's phenomenal. I love it. Yeah, thank you
+and then as the mad libs go I actually I love
+
+235
+00:21:48,512 --> 00:21:53,187
+doing that more than the trivia because I love
+taking those scenes that people love from those
+
+236
+00:21:53,227 --> 00:22:00,109
+movies and making them unknowingly ruin it and
+the result is usually just hilarious. Those
+
+237
+00:22:00,149 --> 00:22:03,851
+mad live surprises are some of the best parts
+of the show. I think also it's great just to
+
+238
+00:22:03,891 --> 00:22:10,313
+hear people talk passionately about their favorite
+films. Absolutely. So, I remember you enjoying
+
+239
+00:22:10,353 --> 00:22:14,935
+The Amazing Spider-Man back when we reviewed
+it on the show and I believe you really enjoyed
+
+240
+00:22:14,995 --> 00:22:19,497
+Ghost Rider Spirit of Vengeance which is why
+we wanted to bring you on board for this review.
+
+241
+00:22:20,490 --> 00:22:25,092
+Tell us, I guess, your history with this movie.
+Like, when did you first see it, and what do
+
+242
+00:22:25,112 --> 00:22:30,895
+you think about it overall? OK, so I am a Marvel
+fan, very long term. I've been following Marvel
+
+243
+00:22:30,935 --> 00:22:36,158
+since the early days. Blade, obviously, as everyone
+knows, Blade kind of paved the way for everything,
+
+244
+00:22:36,198 --> 00:22:41,881
+so to speak. And I just started falling in love
+with the characters that they had. And then
+
+245
+00:22:42,041 --> 00:22:48,765
+Ghost Rider came out in, I suppose, 2007. And
+Nicolas Cage is so cheesy, but you just have
+
+246
+00:22:48,805 --> 00:22:54,305
+to love him. And the way he delivered the performance
+in the first one, I kind of like it was new
+
+247
+00:22:54,325 --> 00:22:58,609
+to me because I'd never seen that kind of character.
+And he was so unique that I just kind of always
+
+248
+00:22:58,649 --> 00:23:03,933
+had like this love for Ghost Rider in a way
+that is, you know, it's always there and hoping
+
+249
+00:23:03,953 --> 00:23:09,057
+that something good comes along. And I remember
+seeing it in theaters. I remember loving it.
+
+250
+00:23:09,337 --> 00:23:13,321
+But I remember loving that one specific line
+in the middle of the movie while around the
+
+251
+00:23:13,341 --> 00:23:18,084
+middle of the movie about eaten souls. We'll
+get there when we come to the review. I know
+
+252
+00:23:18,104 --> 00:23:23,847
+you know what I'm talking about. Yeah. I'm going
+to leave the rest of my thoughts for during
+
+253
+00:23:23,867 --> 00:23:29,970
+the review because I haven't seen it in a long
+time. Okay. And things have changed. Oh, interesting.
+
+254
+00:23:30,250 --> 00:23:34,772
+This was actually my first time watching the
+movie and it was so unbelievably different
+
+255
+00:23:34,812 --> 00:23:38,753
+from what I was expecting. I don't know why
+because I had heard that it was, you know,
+
+256
+00:23:38,834 --> 00:23:44,496
+kind of out there from other people who have
+seen it, but it kind of defied my expectations,
+
+257
+00:23:44,536 --> 00:23:49,190
+which I didn't think was going to happen. Defied
+them in a good way or a bad way? in a just
+
+258
+00:23:49,290 --> 00:23:55,736
+fucking weird way, just like Nick Cage's performance,
+how completely different it was from the first
+
+259
+00:23:55,816 --> 00:24:01,181
+movie and just like the one liners from Ghost
+Rider that he delivered. And just like even
+
+260
+00:24:01,201 --> 00:24:05,604
+like the animation that they would incorporate
+to the movie and stuff like that. It was interesting.
+
+261
+00:24:05,945 --> 00:24:10,569
+And I don't know if that's interesting in a
+good way. I think it's in a good way. You know,
+
+262
+00:24:11,009 --> 00:24:15,873
+the directors Mark Neville Dean and Brian Taylor
+are very different types of filmmakers than.
+
+263
+00:24:16,338 --> 00:24:22,361
+Mark Steven Johnson who directed the 2007 film.
+I remember being fascinated that Mark Neville
+
+264
+00:24:22,381 --> 00:24:26,923
+Dean and Brian Taylor were announced to direct
+this movie back when they announced that even
+
+265
+00:24:26,943 --> 00:24:31,205
+though I've never seen the crank franchise or
+the movie gamer or any of their other films,
+
+266
+00:24:31,625 --> 00:24:37,048
+but I knew of the reputation of creating movies
+that had gritty adrenaline packed action. And
+
+267
+00:24:37,068 --> 00:24:42,174
+I was like, yes, that would be perfect for Ghost
+Rider because I also remember reading that
+
+268
+00:24:42,435 --> 00:24:47,018
+even though they're the directors, they do most
+of the camera work on their films themselves,
+
+269
+00:24:47,378 --> 00:24:52,822
+using handhelds while riding on rollerblades,
+which was this insane concept. It's like almost
+
+270
+00:24:52,842 --> 00:24:56,544
+like they're stunt guys themselves. So I thought
+it was fitting that they were put on a film
+
+271
+00:24:56,644 --> 00:25:01,288
+about a former stunt writer. Yeah, absolutely.
+I remember in lead up to this film, just seeing
+
+272
+00:25:01,348 --> 00:25:07,252
+sort of behind the scenes promotional material
+showing them like riding behind trucks on their
+
+273
+00:25:07,292 --> 00:25:12,546
+rollerblades. That's dangerous stuff. And that's
+very admirable that you have these guys who
+
+274
+00:25:12,586 --> 00:25:18,168
+are so ballsy and willing to take risks to get
+the shot that they really are envisioning in
+
+275
+00:25:18,188 --> 00:25:23,369
+their head. I remember seeing this and not having
+any association to the directors whatsoever.
+
+276
+00:25:24,090 --> 00:25:29,451
+I think that's a really interesting perspective
+to have given this movie. For sure. Yeah. And
+
+277
+00:25:29,491 --> 00:25:33,932
+not only the camera work, but also like the
+gritty visual tone that they chose. They set
+
+278
+00:25:33,952 --> 00:25:37,986
+the movie in Eastern Europe. I think they were
+trying to go for some kind of like... I think
+
+279
+00:25:38,006 --> 00:25:43,847
+David Escort described it as Da Vinci Code-esque
+setting where you have the main protagonist
+
+280
+00:25:43,887 --> 00:25:49,409
+of that movie and this movie over in Europe
+kind of going on this adventure involving these
+
+281
+00:25:49,489 --> 00:25:53,530
+monks and stuff like that. I know this movie
+is kind of like a far cry from the Da Vinci
+
+282
+00:25:53,550 --> 00:25:57,752
+Code, but it is interesting that they have those
+kind of parallels. I think Eastern Europe was
+
+283
+00:25:57,772 --> 00:26:02,273
+a fantastic setting for this film, not just
+because of the tone that it brought, but also
+
+284
+00:26:02,453 --> 00:26:07,536
+the grittiness. It's cool because we don't typically
+see Eastern Europe and a lot of superhero films.
+
+285
+00:26:07,856 --> 00:26:12,359
+I sort of feel like that was another motivation
+for them to do this film there, because not
+
+286
+00:26:12,399 --> 00:26:17,542
+only was it probably cheaper than filming in
+a lot of major cities where typical superhero
+
+287
+00:26:17,562 --> 00:26:23,246
+films take place, but I totally get the Da Vinci
+Code connection because this film definitely
+
+288
+00:26:23,326 --> 00:26:28,829
+looked very different from other films in the
+genre. Yeah, the story was written by David
+
+289
+00:26:28,949 --> 00:26:33,632
+S. Goyer. who is yes, the very same David S.
+Goyer who wrote and directed the last film
+
+290
+00:26:33,652 --> 00:26:40,255
+we reviewed, Blade Trinity. And while I don't
+think the story here was bad, like overall
+
+291
+00:26:40,335 --> 00:26:45,358
+I actually think that Ghost Rider Spirit of
+Vengeance has a decent Ghost Rider story, I
+
+292
+00:26:45,378 --> 00:26:51,862
+will admit that it does feel a little bit cliché
+and the dialogue was pretty terrible, I'll
+
+293
+00:26:51,882 --> 00:26:56,984
+say that. But I think that the schlocky tone
+was maybe what the directors and the writer
+
+294
+00:26:57,004 --> 00:27:04,302
+were going for. Grindhouse appeal when you combine
+the dialogue with the gritty visuals. But I
+
+295
+00:27:04,322 --> 00:27:08,085
+will say that if that was what they were going
+for, I don't think they took it far enough.
+
+296
+00:27:08,165 --> 00:27:13,450
+I think a true Grindhouse ghostwriter film would
+be epic. But you know, straddling the line
+
+297
+00:27:13,490 --> 00:27:19,254
+between a schlocky gritty monster movie and
+a modern superhero action film just leads to
+
+298
+00:27:19,294 --> 00:27:24,339
+something that can feel kind of almost half-hearted
+and occasionally silly. Yeah, I agree with
+
+299
+00:27:24,359 --> 00:27:27,121
+that. And now that you mentioned Grindhouse,
+I'm wondering how this would have looked if
+
+300
+00:27:27,201 --> 00:27:33,552
+it's a... Is it Robert Rodriguez, the greenhouse
+director? Yes. I would love to see his version
+
+301
+00:27:33,572 --> 00:27:37,554
+of a Ghost Rider film. Now that I'm thinking
+about that. Oh, man. Oh, he and Guillermo del
+
+302
+00:27:37,594 --> 00:27:43,116
+Toro would be at the top of my list in regards
+to the most ideal directors for a Ghost Rider
+
+303
+00:27:43,156 --> 00:27:47,878
+film. I think I would place Robert Rodriguez
+over Guillermo del Toro just because he's a
+
+304
+00:27:47,918 --> 00:27:52,420
+little bit more gritty and a little bit more
+like rubber meets the road, leather jacket
+
+305
+00:27:52,440 --> 00:27:56,101
+kind of style with machine guns blazing and
+stuff like that, explosions in the background.
+
+306
+00:27:56,810 --> 00:28:02,191
+He would be so perfect for that. That's true.
+I do sort of feel like, you know, if the writer
+
+307
+00:28:02,231 --> 00:28:07,193
+and directors were trying to make something
+that was a little bit grindhouse, I feel like
+
+308
+00:28:07,213 --> 00:28:11,794
+they definitely got direction from the producers
+to, hey, make the cheapest possible film you
+
+309
+00:28:11,834 --> 00:28:17,116
+can, you know, because the story is so simple.
+And I agree, it's not a terrible story for
+
+310
+00:28:17,176 --> 00:28:21,797
+Ghost Rider. You know, it feels very much like
+a comic book story to me. Like this is a comic
+
+311
+00:28:21,817 --> 00:28:26,440
+book arc in the Ghost Rider comic. But you're
+right, it's very cliche, it's very simple.
+
+312
+00:28:26,840 --> 00:28:32,205
+And I love David S. Goyer as a writer. So I
+was actually very surprised to see that he
+
+313
+00:28:32,525 --> 00:28:36,368
+wrote this film, because I didn't know that
+previously. That kind of made me be like, oh
+
+314
+00:28:36,408 --> 00:28:41,012
+yeah, this is gonna be awesome, only to be severely
+disappointed. I actually think this is probably
+
+315
+00:28:41,052 --> 00:28:45,716
+my least favorite film that I've seen of his,
+next to Blade Trinity, of course. I would say
+
+316
+00:28:45,937 --> 00:28:50,941
+this is better than that. I can't say that I
+agree or disagree on that one. I liked Blade
+
+317
+00:28:50,961 --> 00:28:55,796
+Trinity. When I initially saw it, I haven't
+rewatched it recently enough to know if I dislike
+
+318
+00:28:55,856 --> 00:29:00,538
+it now. Yeah, I don't know if I would put this
+above or below Trinity. Alright, Joseph, you've
+
+319
+00:29:00,558 --> 00:29:05,221
+got to break the tie. What's worse, Ghost Rider
+Spirit of Vengeance or Blade Trinity? Well,
+
+320
+00:29:05,281 --> 00:29:09,603
+definitely Blade Trinity. So if you compare
+each movie to the previous installments in
+
+321
+00:29:09,623 --> 00:29:14,506
+their respective franchises, comparing Blade
+Trinity to the first two Blade films is like
+
+322
+00:29:14,606 --> 00:29:20,709
+comparing a cheap beer to a fine wine, you know,
+and comparing Ghost Rider Spirit of Vengeance...
+
+323
+00:29:20,994 --> 00:29:28,537
+to the first 2007 Ghost Rider is not that drastic
+of a comparison, but I do like the darker gritty
+
+324
+00:29:28,577 --> 00:29:33,819
+tone that this sequel decided to go with. I
+think it's the best thing it has over the original.
+
+325
+00:29:34,039 --> 00:29:38,381
+There are a few things about the original I
+like a little bit more. I do think it set up
+
+326
+00:29:38,681 --> 00:29:43,763
+the origin story for the character in a kind
+of groundbreaking way for the comic book character
+
+327
+00:29:43,783 --> 00:29:49,205
+of Ghost Rider, but Spirit of Vengeance is more
+in line with what I would hope to see from
+
+328
+00:29:49,245 --> 00:29:55,375
+a Ghost Rider film, I think. It shouldn't be
+your standard superhero action adventure story.
+
+329
+00:29:55,535 --> 00:30:00,536
+It should have a little bit more of a darker
+tone and feel. And I appreciate that. That's
+
+330
+00:30:00,636 --> 00:30:05,737
+fair. That's true. I didn't even think about
+how I would compare this film to the first
+
+331
+00:30:05,837 --> 00:30:10,879
+Ghost Rider film. And I guess I would agree
+with you in that I do think that I liked this
+
+332
+00:30:10,979 --> 00:30:16,460
+one more just because it felt, like I mentioned
+earlier, almost like a comic book. And I really
+
+333
+00:30:16,500 --> 00:30:22,563
+liked that. I do wish it had a harder edge.
+It was only PG-13. could totally go rated R
+
+334
+00:30:22,583 --> 00:30:26,926
+with this character and I think they should
+have. Like to me Ghost Rider should be a horror
+
+335
+00:30:26,966 --> 00:30:32,910
+character. A horror Ghost Rider film without
+any comedy whatsoever to me is how a Ghost
+
+336
+00:30:32,950 --> 00:30:38,774
+Rider film should be. I could be wrong, but
+I would love to see that. Well, I would definitely
+
+337
+00:30:38,814 --> 00:30:44,158
+say that the ideal Ghost Rider film would keep
+the jokes to a minimum. I mean, in an ideal
+
+338
+00:30:44,198 --> 00:30:49,181
+world, a Ghost Rider film would be very much
+in the horror genre, I think. Horror action
+
+339
+00:30:49,341 --> 00:30:53,867
+for sure. But let's go ahead and get into the
+character breakdown. Starting with Ghost Rider,
+
+340
+00:30:54,167 --> 00:31:00,050
+AKA Johnny Blaze, who's played by the one and
+only Nicholas Cage. And talking about the guy's
+
+341
+00:31:00,150 --> 00:31:05,832
+acting skill and performance ability is no small
+task, I'll say that. On one hand, you have
+
+342
+00:31:05,872 --> 00:31:10,254
+people who consider him one of the greatest
+actors of his generation, with films like Adaptation
+
+343
+00:31:10,294 --> 00:31:14,355
+and Matchstick Men proving their point. On the
+other hand, you have people who consider him
+
+344
+00:31:14,495 --> 00:31:18,917
+one of the worst actors ever, with films like
+Wicker Man and Vampire's Kiss proving their
+
+345
+00:31:18,957 --> 00:31:24,021
+point. I think fittingly, his performance in
+Ghost Rider Spirit of Vengeance straddles both
+
+346
+00:31:24,081 --> 00:31:28,845
+viewpoints where at times I think he delivers
+a vulnerable real performance, such as when
+
+347
+00:31:28,865 --> 00:31:33,268
+he confesses his selfishness being behind his
+deal with the devil, and other times when he
+
+348
+00:31:33,288 --> 00:31:38,012
+goes incredibly over the top, such as when the
+writer is trying to break through while interrogating
+
+349
+00:31:38,132 --> 00:31:42,436
+one of Kerrigan's contacts. I think either way,
+whether you love him or hate him, at the very
+
+350
+00:31:42,476 --> 00:31:48,020
+least you have to admit that his performances
+are interesting at worst and fun at best, or
+
+351
+00:31:48,060 --> 00:31:53,627
+at least you can tell he has fun. while performing.
+Yeah, I can say with the utmost confidence
+
+352
+00:31:53,667 --> 00:31:56,968
+that Nicolas Cage is the actor of all time.
+
+353
+00:32:00,349 --> 00:32:06,410
+That's true, for sure. No, I did not love his
+performance in this movie. I wanted it to feel
+
+354
+00:32:06,430 --> 00:32:12,072
+like it was interesting, but there were just
+so many unbelievably weird moments that I feel
+
+355
+00:32:12,092 --> 00:32:16,613
+like he's kind of the worst aspect of this film.
+Like I feel like this might have been a good
+
+356
+00:32:16,653 --> 00:32:21,872
+Ghost Rider film. if someone besides Nicolas
+Cage played him. OK, OK. John, what do you
+
+357
+00:32:21,912 --> 00:32:26,516
+think? I don't think he was great, but I don't
+think it was his fault. I think the lines that
+
+358
+00:32:26,556 --> 00:32:31,199
+he was he was given were just it was like they
+weren't written for anyone to read. They were
+
+359
+00:32:31,219 --> 00:32:36,322
+just there to throw out on the page. Like it
+just it didn't feel like he was given the right
+
+360
+00:32:36,362 --> 00:32:44,288
+script. Who can deliver a line like I will eat
+your stinking soul? No one can do that. I almost
+
+361
+00:32:44,368 --> 00:32:50,560
+wonder, though, if like he intentionally wanted
+those lines added. Something about his performance
+
+362
+00:32:50,800 --> 00:32:56,263
+just makes me think that he wanted this character
+to be so much more weird than the first movie.
+
+363
+00:32:56,523 --> 00:33:01,006
+You know, I feel like the line delivery was
+something like roadkill. You know, it's just
+
+364
+00:33:01,066 --> 00:33:06,589
+so cheesy, sort of in the same way that his
+performance was cheesy. So I don't know if
+
+365
+00:33:06,709 --> 00:33:10,572
+it's the writing. I wouldn't be surprised if,
+you know, he just delivered those lines ad-libbed
+
+366
+00:33:10,892 --> 00:33:15,190
+while they were performing. It almost felt that
+way to me. That wouldn't surprise me because
+
+367
+00:33:15,230 --> 00:33:19,373
+he does make a lot of strange choices. You know,
+in the first Ghost Rider movie, he was the
+
+368
+00:33:19,494 --> 00:33:24,297
+one who wanted to be drinking jelly beans out
+of martini glasses and things like that. Just
+
+369
+00:33:24,337 --> 00:33:29,341
+these little weird idiosyncrasies that he thought
+would help inform his portrayal of Johnny Blaze.
+
+370
+00:33:29,761 --> 00:33:34,985
+What's kind of funny is that Nicolas Cage in
+this movie, Spirit of Vengeance, he allegedly
+
+371
+00:33:35,085 --> 00:33:40,869
+invented a new acting technique when playing
+the character of Ghost Rider called Nuvo Shamanism.
+
+372
+00:33:41,122 --> 00:33:46,184
+where he painted his face black with a white
+skull, kind of like Baron Semity, and he sewed
+
+373
+00:33:46,224 --> 00:33:51,826
+some ancient Egyptian trinkets into his leather
+jacket to try to invoke some kind of supernatural
+
+374
+00:33:51,886 --> 00:33:56,969
+energy into his performance. You could definitely
+see it, I think, in the character of Ghost
+
+375
+00:33:57,009 --> 00:34:02,611
+Rider because there's a lot of times during
+the film where I'm like, what is Ghost Rider
+
+376
+00:34:03,072 --> 00:34:08,050
+doing? Like, why is he acting that way? Like,
+he's swaying back and forth. just standing
+
+377
+00:34:08,090 --> 00:34:13,331
+there and acting creepy. You know, it's not
+a traditional approach that Nicolas Cage took
+
+378
+00:34:13,431 --> 00:34:18,173
+to this for sure, but I do think his version
+of Ghost Rider was more creepy here than the
+
+379
+00:34:18,213 --> 00:34:22,294
+first film, which I think means it's better.
+He definitely came off as a bit more creepy,
+
+380
+00:34:22,374 --> 00:34:29,156
+albeit very stale at times. It was like he went
+from not moving at all, and then he was swaying,
+
+381
+00:34:29,196 --> 00:34:33,357
+and then he was just fast and in your face.
+Like it did kind of catch me off guard. I think
+
+382
+00:34:33,377 --> 00:34:37,711
+they were intending for jump scares in those
+scenes and... It didn't scare so much as it
+
+383
+00:34:37,911 --> 00:34:44,736
+just kind of shocked that it went from nothing
+to burst of speed. Yeah, I feel exactly the
+
+384
+00:34:44,776 --> 00:34:49,039
+same way. And I know exactly what you're talking
+about. And it makes me think that the film
+
+385
+00:34:49,259 --> 00:34:54,803
+also suffered from poor editing, because I think
+if they would have cut down those weird slow
+
+386
+00:34:54,843 --> 00:34:59,086
+moments and just kept him as this, like, frightening
+in your face creature, he would have been a
+
+387
+00:34:59,106 --> 00:35:04,942
+lot more effective. I agree. Yeah, totally.
+Now, the character of Johnny Blaze. has always
+
+388
+00:35:04,982 --> 00:35:10,383
+been a tragic one in the comics, where his superpower
+is really a curse and a burden, similar to
+
+389
+00:35:10,423 --> 00:35:16,385
+the Hulk, where his powered form is a separate
+being of wanton destruction. At the start of
+
+390
+00:35:16,405 --> 00:35:21,546
+the film, Johnny Blaze is essentially in self-exile,
+but when given the opportunity to remove the
+
+391
+00:35:21,586 --> 00:35:28,308
+demon, he takes it, which is understandable.
+But Johnny Blaze lives with this guilt of his
+
+392
+00:35:28,388 --> 00:35:32,749
+selfishness, and he claimed to Meroe that it
+led him to make the deal with the devil in
+
+393
+00:35:32,789 --> 00:35:37,963
+the first place. And despite this weight that
+he feels, what he learns after the fact of
+
+394
+00:35:38,003 --> 00:35:43,004
+removing the curse is that maybe he's not as
+selfish as he once thought because he chooses
+
+395
+00:35:43,204 --> 00:35:49,186
+to potentially sacrifice his mortal self to
+save the boy, Danny. He chooses to take back
+
+396
+00:35:49,266 --> 00:35:55,508
+the curse and he revives the boy from death.
+In the end, he discovers he's actually quite
+
+397
+00:35:55,568 --> 00:36:00,469
+a selfless, heroic person despite what he may
+have thought earlier. And like the ghost rider
+
+398
+00:36:00,509 --> 00:36:05,564
+itself, perhaps... he finds himself as an angel
+in disguise. I like that description. I do.
+
+399
+00:36:05,844 --> 00:36:11,627
+I think that kind of validates a lot of how
+it played out. Yeah. His arc, I think, was
+
+400
+00:36:11,747 --> 00:36:16,870
+actually really well done in this movie. I love
+at the beginning when Moreau and Johnny blaze
+
+401
+00:36:16,910 --> 00:36:21,752
+our first meeting. And, you know, Moreau is
+like, you have to save this boy. And Johnny
+
+402
+00:36:21,772 --> 00:36:26,735
+is like, I don't save people. But by the end,
+you see that, like you mentioned, he actually
+
+403
+00:36:26,795 --> 00:36:33,519
+does the whole reveal, the whole secret that
+he chose to save his father even though his
+
+404
+00:36:33,579 --> 00:36:39,963
+father had accepted the fact that he was cancer
+stricken was an element to Johnny Blaze's story
+
+405
+00:36:39,983 --> 00:36:44,426
+that was surprising to me and I thought very
+heartfelt and very interesting for the character.
+
+406
+00:36:44,847 --> 00:36:50,130
+What did you think of the revelation in this
+movie at least that Xerathos was once an angel
+
+407
+00:36:50,190 --> 00:36:55,274
+who was tortured in hell and transformed from
+an angel of justice to a spirit of vengeance?
+
+408
+00:36:55,854 --> 00:37:01,610
+Honestly, I don't know how it compares to the
+comic book origin of Xerathos, I do like that
+
+409
+00:37:01,730 --> 00:37:06,132
+he's kind of like this fallen angel character.
+It gives him a little bit more depth that you
+
+410
+00:37:06,172 --> 00:37:11,014
+otherwise wouldn't have, especially considering
+in the first movie, there was no delving into
+
+411
+00:37:11,314 --> 00:37:16,336
+Zerathos' history or background or anything.
+There was no nothing really to him. He was
+
+412
+00:37:16,416 --> 00:37:23,119
+just the entity inside of Johnny Glaze. So that
+little bit more perspective that we got, even
+
+413
+00:37:23,179 --> 00:37:28,341
+if it is only just a small amount, it does give
+the character more depth that you didn't get
+
+414
+00:37:28,381 --> 00:37:33,496
+to experience. gives more of an understanding
+as to where the hatred's coming from. And I
+
+415
+00:37:33,536 --> 00:37:39,461
+think that makes him more relatable. Yeah, definitely
+adds interest to the character for sure. I
+
+416
+00:37:39,481 --> 00:37:43,965
+thought it was badass that they went the angel
+route with the Zerathos. Like you mentioned,
+
+417
+00:37:44,225 --> 00:37:49,189
+John, they didn't mention Zerathos in the first
+movie. I'm really glad that they did this route
+
+418
+00:37:49,209 --> 00:37:54,133
+because it does add a little bit more dimension
+to not just Johnny Blaze, but the character
+
+419
+00:37:54,213 --> 00:37:59,858
+of Ghost Rider. At the very end when he goes
+blue. I thought that was a really cool way
+
+420
+00:37:59,898 --> 00:38:04,220
+of showing that he's sort of like become this
+redeemed figure in a way. He's fighting for
+
+421
+00:38:04,280 --> 00:38:08,903
+justice now, you know, not just vengeance. Yeah,
+the blue fire aspect is an interesting one
+
+422
+00:38:08,923 --> 00:38:14,546
+that comes from the comics. This film was heavily
+inspired by the Road to Damnation storyline
+
+423
+00:38:14,606 --> 00:38:18,749
+from the comics, which was written by Garth
+Ennis, which was a fantastic run. Yeah, really,
+
+424
+00:38:18,869 --> 00:38:24,032
+I highly recommend that one. The art was incredible
+alone. So the second person to be Ghost Rider
+
+425
+00:38:24,312 --> 00:38:29,516
+was Johnny Blaze's brother, Danny Ketch. who
+in the comics at one point lost his powers
+
+426
+00:38:29,897 --> 00:38:37,384
+and he was offered to take them up again by
+an angel named Zadkiel. And when Zadkiel bestowed
+
+427
+00:38:37,424 --> 00:38:42,069
+upon him the powers, he had blue flame. So it
+was like he was the angel writer. But in the
+
+428
+00:38:42,169 --> 00:38:46,353
+end, it turned out that Zadkiel was actually
+an evil angel who was looking to overthrow
+
+429
+00:38:46,493 --> 00:38:51,690
+heaven. But it was interesting how they kind
+of took that blue fire aspect. which is the
+
+430
+00:38:51,810 --> 00:38:56,072
+angels fire, you know, and then applied that
+to Johnny Blaze at the end of this movie. When
+
+431
+00:38:56,092 --> 00:39:01,334
+he was able to, you know, like tap into Zerathos'
+former angel powers. Yeah, that was really
+
+432
+00:39:01,374 --> 00:39:06,876
+cool, I thought. I do think that the character
+of Ghost Rider is so much better looking, or
+
+433
+00:39:06,936 --> 00:39:12,319
+at least more believable, I should say, in this
+movie than in the first film, largely because
+
+434
+00:39:12,339 --> 00:39:17,181
+of that black skull. For some reason, even though
+in the comics, Ghost Rider's flaming skull
+
+435
+00:39:17,201 --> 00:39:21,060
+is depicted as white. It just doesn't look as
+real in live action like how it did in the
+
+436
+00:39:21,100 --> 00:39:25,284
+first movie. And you could see the difference
+when comparing the two ghostwriters from the
+
+437
+00:39:25,324 --> 00:39:29,428
+two films. Ghostwriter Spirit of Vengeance just
+looks more realistic. The same can be said
+
+438
+00:39:29,448 --> 00:39:34,734
+about the leather. I mean, it's got that bubble
+boiling, you know, firstly burned look to it.
+
+439
+00:39:35,474 --> 00:39:41,120
+And it definitely seems like they invested more
+of their budget into the look of Ghostwriter
+
+440
+00:39:41,140 --> 00:39:45,018
+in this movie. I completely agree with that.
+Yeah, I'm really glad they updated his look
+
+441
+00:39:45,118 --> 00:39:49,060
+for this film, and I didn't even know it needed
+updating, but apparently it did because this
+
+442
+00:39:49,080 --> 00:39:54,102
+was way more hella cool than the first movie.
+I'll say, however, that the design of the hell
+
+443
+00:39:54,142 --> 00:39:59,365
+cycle in the first movie was leaps and bounds
+better than this motorcycle in spirit of vengeance.
+
+444
+00:39:59,625 --> 00:40:03,786
+Like Ghost Rider needs to be writing, you know,
+like some kind of demonic chopper, like in
+
+445
+00:40:03,826 --> 00:40:08,428
+the first film or some kind of souped up Danny
+Catch style techno crotch rocket or something
+
+446
+00:40:08,669 --> 00:40:12,871
+interesting like that. But not just some standard.
+You know, Yamaha Cruiser like he had in this
+
+447
+00:40:12,911 --> 00:40:16,072
+movie. I thought that was really disappointing.
+I do think you need something a little bit
+
+448
+00:40:16,112 --> 00:40:20,575
+more stylistic or cool. Got to be a chopper.
+It's got to be a chopper. I don't know. I don't
+
+449
+00:40:20,635 --> 00:40:26,798
+know much about motorcycles. I actually liked
+this more than the chopper, and I feel like
+
+450
+00:40:26,858 --> 00:40:31,721
+I'm about to be jumped by like a biker gang
+of guys who are like, fuck you, choppers are
+
+451
+00:40:31,741 --> 00:40:37,124
+the best. I don't know. That's I guess it's
+just my aesthetic. I lean more crotch rocket
+
+452
+00:40:37,304 --> 00:40:43,586
+than chopper. Personally, I think they're cooler.
+And not that this was a crotch rocket, but
+
+453
+00:40:44,847 --> 00:40:51,568
+I hate it. Let's go to move on to Moreau, who
+is played by Idris Elba. Now, Idris Elba is
+
+454
+00:40:51,629 --> 00:40:55,870
+actually better in this movie than he had any
+right to be. You know, the first time I saw
+
+455
+00:40:55,890 --> 00:41:01,671
+the film where, you know, from the very opening
+scene, he's portrayed as this badass character,
+
+456
+00:41:02,071 --> 00:41:07,593
+French and drunk, leaping down staircases, ripping
+turns on his motorcycle and slow motion shooting
+
+457
+00:41:07,633 --> 00:41:12,147
+tires off cars while falling to his apparent
+death. I just remember being like, who the
+
+458
+00:41:12,468 --> 00:41:18,393
+F is this guy? You know, perhaps the story gave
+too much agency to him and maybe gave him too
+
+459
+00:41:18,433 --> 00:41:23,418
+big of a role to a guy who isn't even from the
+comics. But part of me doesn't even care because
+
+460
+00:41:23,538 --> 00:41:30,285
+Idris Elba crushed it. He crushed this role.
+The French accent kept throwing me because
+
+461
+00:41:30,405 --> 00:41:36,430
+Idris Elba has such a distinct like British
+accent, you know. I thought he was great in
+
+462
+00:41:36,450 --> 00:41:40,452
+the role, don't get me wrong. I could have sworn
+he was from the comics, but as big of a role
+
+463
+00:41:40,532 --> 00:41:44,955
+as he had. Like I was ready to hear all about
+him during this review. Yeah, you think he
+
+464
+00:41:44,975 --> 00:41:49,518
+would be from the comics, but no, he's a completely
+original character that they made for this
+
+465
+00:41:49,578 --> 00:41:54,661
+film, who just happened to be kind of a superhero
+in his own right. You know, a superhero monk,
+
+466
+00:41:54,821 --> 00:42:00,144
+as it were. Yeah, yeah. I also think, by the
+way, that I agree that he was badass in this
+
+467
+00:42:00,184 --> 00:42:05,398
+movie. There was no question about that whatsoever.
+Yeah, and every bit the hero that Ghost Rider
+
+468
+00:42:05,438 --> 00:42:10,280
+was, you know, he ended up sacrificing himself
+at the end just to buy Johnny a chance at saving
+
+469
+00:42:10,320 --> 00:42:15,302
+the kid. So maybe one day he will make an appearance
+in the comics. But speaking of the comics,
+
+470
+00:42:15,322 --> 00:42:20,565
+let's go ahead and move into our villain, Blackout,
+aka Ray Carrigan, played by Johnny Whitworth.
+
+471
+00:42:20,825 --> 00:42:24,386
+This movie, I think, is the first and only time
+I've ever seen Johnny Whitworth in anything.
+
+472
+00:42:24,886 --> 00:42:31,049
+My first impression was that just like Idris
+Elba, Carrigan was more character than was
+
+473
+00:42:31,489 --> 00:42:36,243
+necessary for the film. I don't want to be misconstrued
+as advocating that actors should be generic
+
+474
+00:42:36,323 --> 00:42:42,446
+in their roles, but when a movie presents somebody
+that is clearly like someone but doesn't really
+
+475
+00:42:42,586 --> 00:42:47,288
+delve into who that someone is beyond a surface
+level, it does leave viewers with a lot of
+
+476
+00:42:47,348 --> 00:42:51,930
+questions and I think that could be a little
+bit frustrating. Beyond the very surface level
+
+477
+00:42:52,070 --> 00:42:57,153
+exploration of Kerrigan, I did think that he
+was cool and a convincing enough mercenary
+
+478
+00:42:57,353 --> 00:43:02,595
+asshole type character. Although I'll say I
+didn't find the actor quite as convincing as
+
+479
+00:43:02,695 --> 00:43:08,037
+Blackout when he's in a super villain form.
+I think just because of how like not menacing
+
+480
+00:43:08,177 --> 00:43:13,759
+and goofy the character looks. Yeah, that hair
+was rough. The way his skin was kind of like
+
+481
+00:43:13,819 --> 00:43:17,901
+peeling around the edges. I mean, I know that
+the intent was there because of his ability
+
+482
+00:43:17,941 --> 00:43:24,484
+to decay, but I don't get decay from Bleach
+Blonde. So I was really pulled away from that.
+
+483
+00:43:24,984 --> 00:43:29,746
+Yeah, what's interesting is that in the comics,
+he doesn't have the power of decay. So the
+
+484
+00:43:29,786 --> 00:43:36,209
+fact that they gave him that power in this movie
+and then kind of based his makeup look around
+
+485
+00:43:36,409 --> 00:43:42,251
+this decaying figure was a strange choice for
+sure. What does he do in the comics? So in
+
+486
+00:43:42,271 --> 00:43:47,253
+the comics, Blackout is a half demon character.
+He's the grandson of Lilith, who is the mother
+
+487
+00:43:47,273 --> 00:43:53,036
+of demons, and he has enhanced strength and
+durability and speed like a half demon would.
+
+488
+00:43:53,316 --> 00:43:58,090
+But he also has razor sharp fangs and claws.
+He's kind of like vampiric. in that regard,
+
+489
+00:43:58,210 --> 00:44:04,452
+but his main power is to extinguish light and
+generate this type of darkness that deprives
+
+490
+00:44:04,512 --> 00:44:09,953
+victims of all their senses. So of course that
+type of power would be really hard to replicate
+
+491
+00:44:09,993 --> 00:44:14,535
+on film where audiences need to actually, you
+know, see and hear what's going on. But I do
+
+492
+00:44:14,575 --> 00:44:19,236
+think the movie did an okay job of portraying
+it as more of like this psychic darkness of
+
+493
+00:44:19,276 --> 00:44:23,677
+sorts, where his victims, like minds kind of
+go into this shroud of darkness and they only
+
+494
+00:44:23,717 --> 00:44:28,565
+see him. but you know, it allows the audience
+to still see what's going on. I do think that
+
+495
+00:44:28,585 --> 00:44:35,431
+this was an interesting concept for like a henchman
+type secondary bad guy. But I'm also with you,
+
+496
+00:44:35,471 --> 00:44:40,795
+Joseph, like I didn't quite think the performance
+was menacing enough at the end. It was it was
+
+497
+00:44:40,835 --> 00:44:47,661
+more silly than anything I felt. Yeah, for sure.
+Speaking of silly, let's go to move on to Mephisto,
+
+498
+00:44:48,121 --> 00:44:53,425
+a.k.a. Rourke for some reason, played by Kieran
+Hines. I'll come out and say it right away.
+
+499
+00:44:53,750 --> 00:44:59,313
+The first movie did it better when it comes
+to the devil because Peter Fonda was so cool
+
+500
+00:44:59,474 --> 00:45:05,318
+in the first Ghost Rider movie and seeing Kieran
+Hines take over the role was just so disappointing.
+
+501
+00:45:06,098 --> 00:45:11,882
+I don't think he brought anything to the role
+other than being a man in his later years with
+
+502
+00:45:11,922 --> 00:45:16,185
+a deepish voice. You know, almost anyone could
+have done this role, I feel, but it should
+
+503
+00:45:16,205 --> 00:45:20,348
+have been Peter Fonda and that way you could
+have had that greater sense of continuity between
+
+504
+00:45:20,388 --> 00:45:25,767
+films. Yeah, I agree. I don't know this actor.
+I just kind of thought he was like Stephen
+
+505
+00:45:25,807 --> 00:45:33,371
+Fry's stunt double. Well, you know this guy,
+he played Steppenwolf in Justice League. Well,
+
+506
+00:45:33,391 --> 00:45:39,615
+he did the voice for Steppenwolf. Oh, and the
+mocap, I believe. I doubt that. But Rourke
+
+507
+00:45:39,735 --> 00:45:43,477
+towards the end, when his face is melting, it
+just looked really bad. And they should have
+
+508
+00:45:43,757 --> 00:45:47,679
+went a different route, I think, with that effect.
+They probably could have showed his like skin
+
+509
+00:45:47,719 --> 00:45:51,561
+cracking or something like that. But instead,
+they decided to make him look like he had the
+
+510
+00:45:51,621 --> 00:45:56,628
+mumps. which was a bad call for sure. Yeah.
+How do you guys think you would have gone about
+
+511
+00:45:56,768 --> 00:46:02,071
+portraying visually the idea that his body is
+succumbing to its own power? I don't know.
+
+512
+00:46:02,151 --> 00:46:06,854
+I think you could have gone a route similar
+to Ghost Rider and that like he sort of has
+
+513
+00:46:06,894 --> 00:46:12,237
+this fire emanating from him, at least turn
+his skin red. So he looks a tad bit like Mephisto
+
+514
+00:46:12,257 --> 00:46:17,160
+from the comics, you know. I didn't mind that
+Kieran Hines played this role, though, because
+
+515
+00:46:17,180 --> 00:46:21,810
+they did kind of establish the fact that Mephisto
+the devil. has taken on many forms through
+
+516
+00:46:21,830 --> 00:46:26,913
+the ages. To me, this was just sort of like
+his next form after Peter Fonda. I do agree
+
+517
+00:46:26,933 --> 00:46:32,396
+that Peter Fonda did it better, but I didn't
+really mind the actor swap. Thinking about
+
+518
+00:46:32,416 --> 00:46:38,259
+it for me, I think I would have much rather
+seen him not cracking, but like almost losing
+
+519
+00:46:38,540 --> 00:46:43,562
+like structure. Like his bones started showing,
+his skin started getting tight around his bones
+
+520
+00:46:43,722 --> 00:46:47,585
+on certain spots of him. I think that would
+have been a better representation, like almost
+
+521
+00:46:47,605 --> 00:46:51,716
+like rapid aging in certain areas. That would
+have been a cool effect too, for sure. Both
+
+522
+00:46:51,756 --> 00:46:56,380
+of those ideas are better than what they did.
+Let's go ahead and move on to Nadia Kecs, who
+
+523
+00:46:56,400 --> 00:47:01,024
+was played by Violante Placido, I think is how
+you pronounce that. She's an Italian actress,
+
+524
+00:47:01,104 --> 00:47:05,629
+I've never seen her before. And she hasn't been
+in too much. The only other notable thing I
+
+525
+00:47:05,649 --> 00:47:09,772
+saw that she was in was Transporter, the series.
+But I thought she was good for what the script
+
+526
+00:47:09,792 --> 00:47:14,717
+called for. I do think she was a believable
+badass. I do find myself kind of wishing that
+
+527
+00:47:14,737 --> 00:47:18,968
+there was... more romantic tension, I guess,
+between her and Johnny Blaze, because I think
+
+528
+00:47:19,008 --> 00:47:24,332
+that could have brought more of an overt father-son-like
+dynamic to the story. Wait, because I just
+
+529
+00:47:24,392 --> 00:47:29,215
+caught on to something that I didn't catch when
+I was watching the movie. Her last name is
+
+530
+00:47:29,295 --> 00:47:35,939
+Ketch? So this is Danny Ketch? This is his mom?
+Yeah. Yeah, this is in fact Danny Ketch. The
+
+531
+00:47:35,959 --> 00:47:39,922
+boy is Danny Ketch from the comics. I guess
+we could just jump right into him. He's played
+
+532
+00:47:39,942 --> 00:47:46,062
+by Fergus Riordan, who, you know, he's a kid
+actor. He's fine. He did fine. It is weird
+
+533
+00:47:46,082 --> 00:47:49,325
+how they made him Danny Ketch though, because
+fans of the character will know that Danny
+
+534
+00:47:49,345 --> 00:47:53,649
+Ketch is Johnny Blaze's brother, who in the
+comics, as I mentioned, became the second version
+
+535
+00:47:53,669 --> 00:47:58,973
+of Ghost Rider. Here, there's no relation between
+Danny and Johnny, but I do think that maybe
+
+536
+00:47:58,993 --> 00:48:04,938
+they were going for like a brotherly type dynamic
+between the two characters when Johnny is trying
+
+537
+00:48:04,999 --> 00:48:09,602
+to kind of relate to the kid and tell him that
+the power they have comes from a dark place,
+
+538
+00:48:09,663 --> 00:48:14,654
+but it doesn't make them bad. It was almost
+like he was a mentor. Which is kind of cool.
+
+539
+00:48:14,714 --> 00:48:20,378
+Like you never see Ghost Rider really as a mentor.
+But as cool as it is, I do kind of wish now
+
+540
+00:48:20,458 --> 00:48:26,783
+knowing that this is fucking Danny Ketch that
+they would have cast the role older. Yes. Yeah,
+
+541
+00:48:26,803 --> 00:48:30,926
+it would have been great if he was in his teens
+or something. Yeah. If he was just like five
+
+542
+00:48:30,946 --> 00:48:35,629
+years older, you could have had like a cool
+like Terminator 2 dynamic kind of mentorship
+
+543
+00:48:35,649 --> 00:48:40,452
+going on. I think that would have been cooler
+than what we got here. I think that that's
+
+544
+00:48:40,472 --> 00:48:46,687
+a good call. Have him older. more capable even
+because as a, what do they say, as like nine,
+
+545
+00:48:46,787 --> 00:48:52,630
+10, 11 years old, something like that. Yeah.
+To give that kind of an aged child, that kind
+
+546
+00:48:52,670 --> 00:48:59,913
+of power seems extraordinarily irresponsible.
+Yeah, like if Rorke's plan was successful,
+
+547
+00:49:00,173 --> 00:49:04,355
+then he would have been like this little twerp
+kid now with the power of the devil. You would
+
+548
+00:49:04,395 --> 00:49:09,917
+think that Mephisto would at least wanna transfer
+his power into a young adult man at the very
+
+549
+00:49:09,957 --> 00:49:14,168
+least, you know. Yeah, like early 20s, at least
+someone who's gone through fucking puberty.
+
+550
+00:49:14,228 --> 00:49:19,037
+Come on. Right. That's a great point.
+
+551
+00:49:27,422 --> 00:49:33,425
+Alright, let's go ahead and move into our story
+highlights. In Eastern Europe, probably Romania,
+
+552
+00:49:33,625 --> 00:49:38,468
+I'm guessing, an alcoholic monk named Mereu
+tries to warn a monastery that a boy they're
+
+553
+00:49:38,488 --> 00:49:44,551
+harboring, Dani Kec, is not safe there and he's
+wanted by the devil. A group of mercenaries
+
+554
+00:49:44,611 --> 00:49:50,574
+led by Kerrigan arrive to take the child, causing
+Dani and his mother Nadia to flee. I actually
+
+555
+00:49:50,594 --> 00:49:54,957
+kind of thought this was a really cool setup
+for the movie. I was very intrigued by it.
+
+556
+00:49:54,977 --> 00:49:59,324
+I expected to see Ghost Rider. like right off
+the bat, but to see this Muro character, I
+
+557
+00:50:01,045 --> 00:50:04,909
+thought it was really cool. It was just a pretty
+bad scene, I thought. Yeah, the whole like
+
+558
+00:50:05,029 --> 00:50:09,833
+getting knocked off of his motorcycle and shooting
+his gun in slow motion, shooting out the tire
+
+559
+00:50:09,913 --> 00:50:13,456
+while falling to his death was quite the opening
+action scene. Yeah, I thought he was dead.
+
+560
+00:50:13,476 --> 00:50:17,620
+I thought they were going to kill him off. Yeah,
+I was like, well, what was the point of that?
+
+561
+00:50:18,401 --> 00:50:23,545
+Right. So after a brief animated reintroduction
+to Johnny Blaze, Muro seeks him out for help.
+
+562
+00:50:23,982 --> 00:50:28,363
+promising that if he escorts the boy to his
+order, he will help remove the Ghost Rider
+
+563
+00:50:28,383 --> 00:50:33,645
+curse. Nadia and Danny are captured by Kerrigan
+and his men, prompting Ghost Rider to find
+
+564
+00:50:33,685 --> 00:50:38,447
+them and kill several of the mercenaries, using
+the pendant stare on one of them. He's knocked
+
+565
+00:50:38,487 --> 00:50:42,969
+out with several grenade launchers, however,
+and Kerrigan escapes with Danny. I remember
+
+566
+00:50:42,989 --> 00:50:47,991
+being so pumped for this scene in theaters when
+we see Ghost Rider launch his motorcycle over
+
+567
+00:50:48,211 --> 00:50:54,866
+everybody's heads and land and do a donut. I
+thought he was immediately going to So when
+
+568
+00:50:54,906 --> 00:50:59,448
+he just started standing there and rocking I
+was like what the fuck is happening kill somebody
+
+569
+00:51:01,449 --> 00:51:07,031
+I Also thought the pennant stare in this movie
+if you didn't know what the pennant stare was
+
+570
+00:51:07,392 --> 00:51:12,514
+you'd have no fucking idea What was going on
+for one it took way too long to implement and
+
+571
+00:51:12,554 --> 00:51:16,596
+two there were no visual cues exactly as to
+what was going Gone, he was just holding their
+
+572
+00:51:16,656 --> 00:51:22,054
+head and they started screaming and then they
+had burst into flames, but It seems so unnecessary
+
+573
+00:51:22,094 --> 00:51:26,456
+because Ghost Rider clearly demonstrated the
+ability to make anyone burst into flames upon
+
+574
+00:51:26,516 --> 00:51:31,918
+contact with either him or his chains. So why
+would he leave himself vulnerable for so long
+
+575
+00:51:31,978 --> 00:51:36,240
+taking such a long time to consume this guy's
+soul? It just seemed weird. They should have
+
+576
+00:51:36,260 --> 00:51:40,161
+had at least some kind of visual cue with the
+eyes like they did in the first movie, where
+
+577
+00:51:40,381 --> 00:51:44,043
+you could actually see the people living out
+their crimes and stuff like that. There was
+
+578
+00:51:44,063 --> 00:51:48,185
+nothing like that here. Or at least do something
+with like the eyes glowing like they did in
+
+579
+00:51:48,205 --> 00:51:53,683
+the opening animation for this movie. Yeah.
+I agree. The going back to the first movie
+
+580
+00:51:53,703 --> 00:51:59,907
+that was much, much better than this movie with
+Penn and Stair. And I mean, he even said stuff
+
+581
+00:51:59,947 --> 00:52:03,789
+in the first one when he was doing the Penn
+and Stair. This may just kind of looked creepily
+
+582
+00:52:03,809 --> 00:52:09,212
+with his head tilting left and right like he
+was a dog hearing a funny sound. Right. That's
+
+583
+00:52:09,252 --> 00:52:15,295
+a great way to describe it. I just want someone
+to like make a supercut of like him moving
+
+584
+00:52:15,335 --> 00:52:19,397
+and like swaying back and forth to like some
+music. That would be hilarious. That would
+
+585
+00:52:19,437 --> 00:52:23,836
+be hilarious. Waking up in the hospital, Johnny
+confronts Nadia who took him there and she
+
+586
+00:52:23,856 --> 00:52:28,919
+wants to know if he can use Ghost Rider to find
+Danny. However, the devil aka Rourke places
+
+587
+00:52:28,959 --> 00:52:34,543
+a spell on Danny through Kerrigan's phone that
+prevents Ghost Rider from tracking him. Johnny
+
+588
+00:52:34,583 --> 00:52:39,447
+learns that Nadia sold her soul to the devil
+to keep from dying in exchange, burying the
+
+589
+00:52:39,487 --> 00:52:45,611
+devil's son Danny. This is where we saw the
+second animatic of the movie where we got an
+
+590
+00:52:45,651 --> 00:52:51,843
+explanation on how the devil uses the power
+of his deal. to conduct business on earth or
+
+591
+00:52:51,884 --> 00:52:58,149
+to get things done. There was a really strange
+moment during this scene where they seem to
+
+592
+00:52:58,189 --> 00:53:05,476
+imply that Jerry Springer was the devil. Yes.
+Now this movie came out in 2007 and I think
+
+593
+00:53:05,516 --> 00:53:11,161
+Jerry Springer lost relevancy somewhere like
+in 2001, the year 2000. Definitely his peak
+
+594
+00:53:11,181 --> 00:53:15,284
+was in the 90s, you know. So it was such a dated
+reference. I don't understand why they went
+
+595
+00:53:15,304 --> 00:53:20,389
+with Jerry Springer given that joke was probably
+made about a decade too late. This movie came
+
+596
+00:53:20,449 --> 00:53:25,533
+out in 2012, you said 2007. Oh shit, yeah, this
+movie came out in 2012. I meant 2012. So even
+
+597
+00:53:25,593 --> 00:53:32,219
+later, the first movie came out in 2007. So
+by 2012, the Jerry Springer joke was way too
+
+598
+00:53:32,259 --> 00:53:37,664
+late. Nadia takes Johnny to one of Kerrigan's
+contacts at a gambling gring where, as Johnny
+
+599
+00:53:37,684 --> 00:53:41,579
+tries to constrain Ghost Rider, They learn that
+Kerrigan is meeting with an arms dealer at
+
+600
+00:53:41,599 --> 00:53:47,242
+a quarry. They go there and Ghost Rider destroys
+everyone using a big ass mining machine while
+
+601
+00:53:47,262 --> 00:53:52,025
+Nadia rescues and escapes with Danny. Ghost
+Rider catches up with them and turns on Nadia,
+
+602
+00:53:52,405 --> 00:53:57,087
+about to use the pendant stare on her, but reverts
+to Johnny when Danny commands him to stop.
+
+603
+00:53:57,488 --> 00:54:05,452
+So this is where we get the infamous Nicholas
+Cage beating down the door performance. A lot
+
+604
+00:54:05,472 --> 00:54:09,598
+of times when I watch this movie, I just love
+it. I laugh my ass off. But I remember the
+
+605
+00:54:09,678 --> 00:54:14,101
+first time I watched it, I was like, what the
+fuck is he doing? As over the top as it was,
+
+606
+00:54:14,161 --> 00:54:18,605
+I loved it. You can tell he at least has fun.
+Like he's really trying to go for something.
+
+607
+00:54:18,865 --> 00:54:24,048
+Pretending that Ghost Rider is attempting to
+crawl out from him. Essentially, I will say
+
+608
+00:54:24,088 --> 00:54:28,372
+that I did really like the effect that when
+he was about to turn into Ghost Rider, like
+
+609
+00:54:28,412 --> 00:54:32,574
+his eye sockets would suck in, like his face
+is turning into a skull. Thought that was a
+
+610
+00:54:32,615 --> 00:54:37,498
+pretty cool, horrific idea. I mean, as fake
+as it looked, I guess it was cool. You say
+
+611
+00:54:37,518 --> 00:54:42,781
+that Nicolas Cage had fun, but part of me feels
+like he was taking this super seriously as
+
+612
+00:54:42,801 --> 00:54:47,684
+an actor. Like this is his art form, you know?
+I don't know if he had fun with it. I don't
+
+613
+00:54:47,784 --> 00:54:52,547
+think he did. I think part of me just feels
+like sometimes he's oblivious to what the hell
+
+614
+00:54:52,587 --> 00:54:57,770
+he's doing and thinks he's doing something brilliant.
+And maybe he is. I have no idea. I don't think
+
+615
+00:54:57,810 --> 00:55:03,633
+this is one of those times. Well, it's one of
+two things, right? Either he's super not self-aware.
+
+616
+00:55:04,142 --> 00:55:10,645
+Or he's very self-aware and he has this kind
+of like weird sense of humor where he doesn't
+
+617
+00:55:10,685 --> 00:55:15,168
+really care about what people think about him
+and just does whatever he wants to on the day
+
+618
+00:55:15,188 --> 00:55:21,511
+because he thinks it's fun. I think either option
+is plausible, but for the sake of the actor
+
+619
+00:55:21,531 --> 00:55:26,254
+himself and kind of the respect that I have
+for the good performances he has given in the
+
+620
+00:55:26,294 --> 00:55:31,437
+past, I like to think he just has a weird sense
+of humor. An auteur, okay. That's fair. That's
+
+621
+00:55:31,477 --> 00:55:35,063
+absolutely fair. What did you guys think about
+the big ass mining machine? I thought that
+
+622
+00:55:35,083 --> 00:55:40,805
+was really cool. It's rare that you see Ghost
+Rider take over other types of vehicles. We
+
+623
+00:55:40,846 --> 00:55:44,307
+learned, you know, in the comics later on that
+he could do it because, you know, Robbie Reyes
+
+624
+00:55:44,447 --> 00:55:49,009
+vehicle of choice is his car. But the idea of
+the character of Ghost Rider being able to
+
+625
+00:55:49,049 --> 00:55:54,372
+take over any vehicle and turn it into a hell
+vehicle is so cool when that vehicle is, you
+
+626
+00:55:54,392 --> 00:56:00,143
+know, five stories high and weighing thousands
+of tons. I mean, we kind of saw in the first
+
+627
+00:56:00,183 --> 00:56:04,147
+movie that anything that the rider rides is
+going to be a hell vehicle with Carter Slade's
+
+628
+00:56:04,187 --> 00:56:11,934
+horse. Right. But I do got to say the badass
+mining machine, I thought that him turning
+
+629
+00:56:11,974 --> 00:56:18,600
+into basically a quasi chainsaw was pretty cool.
+Yeah, that was so badass. That was really cool.
+
+630
+00:56:19,100 --> 00:56:23,925
+Yeah. If you guys could put Ghost Rider on any
+vehicle besides a motorcycle or a car, what
+
+631
+00:56:23,945 --> 00:56:27,139
+do you think would be cool to see? I'm going
+to go with the funny one first, and I'll come
+
+632
+00:56:27,179 --> 00:56:31,361
+back to a serious one. The funny one is going
+to be him on a horse and carriage. Yeah, that
+
+633
+00:56:31,381 --> 00:56:34,824
+would actually look pretty cool, I think. Yeah,
+I think the horse and buggy with him on the
+
+634
+00:56:34,864 --> 00:56:39,166
+buggy would be pretty fantastic. What's the
+not funny one? A Tesla. It's got to be a Tesla.
+
+635
+00:56:40,607 --> 00:56:46,271
+An electric self-driving hell vehicle, for sure.
+I want to see him ride a helicopter, just having
+
+636
+00:56:46,331 --> 00:56:51,658
+like a flaming freaking fan on top. That'd be
+cool. That would be cool. You broke me when
+
+637
+00:56:51,678 --> 00:56:56,320
+you said helicopter and the first thing that
+came into my head is hell a copter. Yeah, that's
+
+638
+00:56:56,340 --> 00:57:01,302
+how it would have to be spelled, right? Yeah,
+well then I'll have two hells instead of the
+
+639
+00:57:01,403 --> 00:57:05,444
+one. I go two ways with this question. Like
+part of me would love to see him write something
+
+640
+00:57:05,484 --> 00:57:10,207
+ridiculous, like a kid's tricycle and turn it
+into like a hell tricycle. But the other part
+
+641
+00:57:10,247 --> 00:57:14,029
+of me goes the completely opposite direction
+and like I would like to see him in like the
+
+642
+00:57:14,069 --> 00:57:19,823
+space shuttle or something like that. just this
+massive like rocket. That would be badass.
+
+643
+00:57:19,843 --> 00:57:25,366
+That would be awesome. He would just like ride
+around like slim pickings from Dr. Strangelove.
+
+644
+00:57:25,666 --> 00:57:30,828
+That'd be great. Yeah. Back to the story, Johnny,
+Nadia and Danny meet up with Muro on their
+
+645
+00:57:30,848 --> 00:57:36,371
+way to his monastery. Meanwhile, Rourke resurrects
+Kerrigan as Blackout who steals an ambulance
+
+646
+00:57:36,411 --> 00:57:43,070
+to track down Danny. Johnny and the group arrive
+at Muro's order led by Methodius. Who freaking
+
+647
+00:57:43,110 --> 00:57:46,492
+knew that Christopher Lambert was going to be
+in this movie? Because I did not the first
+
+648
+00:57:46,512 --> 00:57:51,515
+time I watched it. I was like, holy crap, it's
+freaking Highlander Raiden guy. I was very
+
+649
+00:57:51,555 --> 00:57:56,477
+surprised when I saw him. But then I was like,
+should I have been? Because like I just held
+
+650
+00:57:56,497 --> 00:58:02,461
+by Nicolas Cage. It seems like the kind of film
+that Christopher Lambert would love to be in.
+
+651
+00:58:02,481 --> 00:58:06,943
+My favorite gag in the whole movie is during
+this part where we see Blackout riding in the
+
+652
+00:58:07,003 --> 00:58:10,825
+ambulance and he's looking for something to
+eat. But everything he touches decays in his
+
+653
+00:58:10,845 --> 00:58:16,697
+grasp. until he grabs the Twinkie, which just
+stays static. And he's like, oh, okay, pops
+
+654
+00:58:16,737 --> 00:58:20,981
+it in his mouth. I thought that was hilarious.
+Yeah. That was funny, but it left me with questions.
+
+655
+00:58:21,041 --> 00:58:25,864
+He was pulling things out of the lunchbox. They
+were decaying. How was he driving the ambulance?
+
+656
+00:58:26,285 --> 00:58:31,048
+That's a great question. You would think that
+like how the sword started rusting that he
+
+657
+00:58:31,108 --> 00:58:36,492
+touched later on, that anything metal that he
+was touching like the car would also rust or
+
+658
+00:58:36,753 --> 00:58:41,024
+fall apart. It's a great question. Back to the
+story, Muro tells Johnny about the history
+
+659
+00:58:41,044 --> 00:58:46,188
+of the demon Zerathos, how it was an angel of
+justice before being tortured in hell and corrupted
+
+660
+00:58:46,228 --> 00:58:50,752
+into the spirit of vengeance and then bonded
+to Johnny as the ghostwriter. After confessing
+
+661
+00:58:50,792 --> 00:58:55,035
+that his deal with the devil was made out of
+selfishness, Johnny goes into a chamber and
+
+662
+00:58:55,115 --> 00:58:59,539
+exorcises the demon. It was an interesting scene
+when Ghostwriter was getting exorcised, like
+
+663
+00:58:59,559 --> 00:59:03,723
+it was a weird acting moment I think when Nicolas
+Cage was like, Merry Christmas assholes or
+
+664
+00:59:03,743 --> 00:59:11,203
+something like that. It's so bizarre. Right?
+Such a Nick Cage moment, for sure. Meanwhile,
+
+665
+00:59:11,243 --> 00:59:15,985
+Methodius attempts to kill Dany, believing that
+the boy is a threat as long as he exists. He
+
+666
+00:59:16,005 --> 00:59:21,247
+and the monks are killed by Blackout, however,
+who kidnaps Dany and delivers him to Rourke,
+
+667
+00:59:21,528 --> 00:59:26,710
+who plans to transfer his mind and power into
+the child in a ritual. Johnny, Mereau, and
+
+668
+00:59:26,770 --> 00:59:33,293
+Nadia infiltrate the ritual location to rescue
+Dany. Kerrigan kills Mereau, but Dany returns
+
+669
+00:59:33,333 --> 00:59:38,724
+the demon, Zerathos, to Johnny. giving him back
+the power of the Ghost Rider. Ghost Rider kills
+
+670
+00:59:38,764 --> 00:59:43,687
+the Devil Worshippers in attendance, then pursues
+Rourke, who had escaped the ritual with Dany.
+
+671
+00:59:44,167 --> 00:59:50,311
+Between when Johnny didn't have the demon and
+when he did, he was being held down by Garragon,
+
+672
+00:59:50,371 --> 00:59:55,735
+who was rubbing his hands all over Johnny and
+touching him, and you'd see the decay, but
+
+673
+00:59:55,755 --> 01:00:02,354
+then it would instantly heal. Yeah. Why? That
+has no logical sense to it. No, it's definitely
+
+674
+01:00:02,454 --> 01:00:07,536
+an error in special effects continuity where
+we clearly see Johnny Blaze's forehead start
+
+675
+01:00:07,556 --> 01:00:12,679
+to decay and then in the very next shot, it's
+entirely gone. I do think that this is an editing
+
+676
+01:00:12,779 --> 01:00:18,441
+issue. I think they took too long with Blackout
+holding Johnny Blaze and didn't get to the
+
+677
+01:00:18,481 --> 01:00:22,743
+whole getting the power back quick enough. My
+favorite shot in the whole movie though is
+
+678
+01:00:22,863 --> 01:00:27,905
+that above shot down on Ghost Rider as he's
+surrounded by the devil worshipers and then
+
+679
+01:00:27,945 --> 01:00:33,589
+he turns into and he spins his chain around,
+just freaking annihilating all of them. I love
+
+680
+01:00:33,609 --> 01:00:38,133
+that shot. That was a cool shot. Legend of Zelda
+style. Mm hmm. I kind of liked it and how like
+
+681
+01:00:38,273 --> 01:00:42,977
+you weren't quite sure in that moment if he
+was going to fully be Ghost Rider until he
+
+682
+01:00:43,017 --> 01:00:48,482
+whips out that chain. It's like surprise, bitches.
+Then they're all dead. Yeah. In a really cool
+
+683
+01:00:48,522 --> 01:00:54,086
+chase scene, Ghost Rider destroys Rourke's convoy
+and fights Blackout, who eventually succumbs
+
+684
+01:00:54,126 --> 01:00:58,726
+to Ghost Rider's penance there after causing
+Rourke's vehicle to crash. Ghost Rider sends
+
+685
+01:00:58,746 --> 01:01:03,010
+him back to hell by slamming him through the
+ground. Though Danny is believed to be dead,
+
+686
+01:01:03,250 --> 01:01:07,974
+Johnny is able to summon the power of Zerathos'
+former angel powers to revive him. The film
+
+687
+01:01:08,094 --> 01:01:13,298
+ends with Ghost Rider wielding blue fire. Riding
+into the sunset. I thought it was a great chase
+
+688
+01:01:13,318 --> 01:01:17,222
+scene towards the interior. It was cool to see
+him take over one of the military vehicles
+
+689
+01:01:17,262 --> 01:01:22,006
+and turn it into like a hell jeep. Yeah. Again,
+I think that the penistare took too long to
+
+690
+01:01:22,046 --> 01:01:27,014
+work on Blackout. At that point, it almost felt
+like a kind of a not a Deus Ex Machina. but
+
+691
+01:01:27,034 --> 01:01:32,217
+kind of like this cheap move where you always
+knew that Ghost Rider had it in his back pocket,
+
+692
+01:01:32,357 --> 01:01:37,441
+the ability to do the pendant stare. So you
+wonder why he didn't like do it sooner or why
+
+693
+01:01:37,481 --> 01:01:41,604
+doesn't he do it more often, I guess, against
+these guys. It's almost like Ghost Rider knew
+
+694
+01:01:41,664 --> 01:01:47,107
+he was saving the pendant stare for the climax
+in his fight against Blackout, which is, feels
+
+695
+01:01:47,128 --> 01:01:52,551
+a little, yeah, cheap. I agree. I thought this
+chase scene was really cool at the end. I loved
+
+696
+01:01:52,952 --> 01:01:57,134
+just being able to see everything because it
+took place during the day. As cool as Ghost
+
+697
+01:01:57,154 --> 01:02:02,178
+Rider looks at night, I thought he looked equally
+as cool during the day with like all the black
+
+698
+01:02:02,238 --> 01:02:06,782
+smoke and stuff like that. That was it was awesome
+to see. You showed me the trailer for this
+
+699
+01:02:06,822 --> 01:02:14,048
+movie before I watched it, Joseph. I was surprised
+at how much of like the final chase scene sequence
+
+700
+01:02:14,088 --> 01:02:20,233
+in battle ended up in the trailer. Yeah, definitely
+the final ripping out of the axle and causing
+
+701
+01:02:20,453 --> 01:02:24,096
+Rourke's vehicle to crash. That was kind of
+like his coup de grace, you know, other than
+
+702
+01:02:24,156 --> 01:02:27,586
+slamming work through the ground. And actually,
+you know what? Slamming Gork through the ground
+
+703
+01:02:27,626 --> 01:02:32,288
+was also in the trailer. So it was, yeah, the
+whole final blow was entirely in the marketing
+
+704
+01:02:32,328 --> 01:02:35,910
+for this film. Although I guess you wouldn't
+know that unless you had seen the movie. So
+
+705
+01:02:35,930 --> 01:02:40,012
+was the flame therapy in this, by the way, that
+was also one of the trailers. That's right.
+
+706
+01:02:40,172 --> 01:02:45,594
+That's so awesome. I was going to say stupid,
+but then I switched it to awesome because I
+
+707
+01:02:45,614 --> 01:02:51,036
+think that's a better description. I do kind
+of love how the last line, you know, like at
+
+708
+01:02:51,076 --> 01:02:55,158
+the end of Punisher Warzone, the last line was
+like, oh, great. Now I got. brain splattered
+
+709
+01:02:55,198 --> 01:03:01,662
+all over me, which is just like, it's so ridiculous,
+but it's amusing in how devil may care. It
+
+710
+01:03:01,742 --> 01:03:06,605
+is to use a pun. The last line for this movie
+was just as good where they're like, did we
+
+711
+01:03:06,665 --> 01:03:11,067
+win? And he's like, I'm gonna say yes. Hell
+yes. And like the camera zooms in on his face
+
+712
+01:03:11,087 --> 01:03:17,631
+and everything like that. So good. His eyes
+like bulged out of his head. Yeah. Jonathan,
+
+713
+01:03:17,671 --> 01:03:22,546
+I take it you didn't like that. I fucking rolled
+my eyes so fucking hard. No one cares about
+
+714
+01:03:22,566 --> 01:03:27,068
+your opinion. That was awesome. Apparently.
+But that's the end of the film. Overall, you
+
+715
+01:03:27,088 --> 01:03:32,630
+know, the film is such a mixed bag. There are
+aspects to Ghost Rider Spirit of Vengeance
+
+716
+01:03:32,650 --> 01:03:36,932
+that I have a lot of fun with that I think are
+really well done for the character of Ghost
+
+717
+01:03:36,972 --> 01:03:43,014
+Rider. There are also some pretty objectively
+bad parts about the film. Nicolas Cage's performance
+
+718
+01:03:43,054 --> 01:03:47,616
+being one of them. Even though I do think he
+had fun, I do think he could have made some
+
+719
+01:03:47,656 --> 01:03:54,397
+better choices for a better film. So. The film
+revs and stalls, swerving between gritty and
+
+720
+01:03:54,457 --> 01:04:00,122
+silly, with scorching action, but a cliched
+story, with fiery performances, but burned
+
+721
+01:04:00,182 --> 01:04:06,628
+out dialogue. I'm giving the film 3 stars out
+of 5, which is a 60%, but I'm classifying it
+
+722
+01:04:06,688 --> 01:04:11,633
+as a rotten rating for Rotten Tomatoes. Because
+at the end of the day, I don't think I would
+
+723
+01:04:11,673 --> 01:04:16,217
+actually recommend it to a whole lot of people
+unless they were big time Ghost Rider fans.
+
+724
+01:04:16,746 --> 01:04:22,610
+Yeah, I think a rotten rating makes sense because
+it's right on the cusp of 60%. So you could
+
+725
+01:04:22,931 --> 01:04:27,735
+go either way. And I do agree that there was
+a lot to like about it. There was also a lot
+
+726
+01:04:27,775 --> 01:04:32,699
+to dislike about it. The biggest thing I disliked,
+as I mentioned earlier, was Nicolas Cage's
+
+727
+01:04:32,739 --> 01:04:38,664
+performance. I think he kind of hurt the film
+in a way, which is hard to say because I know
+
+728
+01:04:38,764 --> 01:04:44,609
+how cherished Nicolas Cage is as an actor. But
+sometimes it just came off as almost borderline
+
+729
+01:04:44,649 --> 01:04:49,643
+cartoony. and just bizarre as I mentioned earlier.
+Ultimately, my thoughts on the film come down
+
+730
+01:04:49,683 --> 01:04:55,566
+to how much I respect David Goyer as a writer
+versus Nicolas Cage as an actor. And I really
+
+731
+01:04:55,586 --> 01:05:01,168
+find it hard to believe that David Goyer, as
+often as he can sometimes drop the ball, would
+
+732
+01:05:01,228 --> 01:05:08,151
+write lines like, hell yes. You know? So I put
+a lot of that on Nicolas Cage. Earlier on,
+
+733
+01:05:08,191 --> 01:05:12,833
+I did say that I loved this movie and then going
+back to it, I hadn't watched it in a long time
+
+734
+01:05:12,873 --> 01:05:18,640
+and a lot of it doesn't feel like it. did when
+I watched it 11 years ago. And I mean, that's
+
+735
+01:05:18,940 --> 01:05:22,883
+easy to say. Anybody can forget how something
+feels after 11 years. You can totally lose
+
+736
+01:05:22,923 --> 01:05:27,726
+track of things and how they felt or how they
+were. And just in your memory, you know, things
+
+737
+01:05:27,786 --> 01:05:33,170
+change over time. Seeing Nicolas Cage deliver
+lines that felt like he didn't write them.
+
+738
+01:05:33,250 --> 01:05:37,353
+And then in the next scene, there was a bunch
+of lines that felt like he wrote them and then
+
+739
+01:05:37,493 --> 01:05:43,197
+back and then forth. That took me out of it
+a lot. The animation sequences also kind of
+
+740
+01:05:43,217 --> 01:05:49,128
+took me out of it. I had never realized until
+you mentioned it actually that this was a requel.
+
+741
+01:05:49,589 --> 01:05:54,051
+I understand, but I also see no purpose to it.
+It could have been a much better movie if they
+
+742
+01:05:54,071 --> 01:05:59,574
+just continued the continuity and had more of
+the same actors or more of that original story
+
+743
+01:05:59,614 --> 01:06:04,857
+being followed through with. I can't justifiably
+even give this better than a 2.5 because of
+
+744
+01:06:04,897 --> 01:06:09,560
+how much it was let down compared to what I
+remembered. So I'm going to go 2.5. Yeah, sometimes
+
+745
+01:06:09,580 --> 01:06:13,514
+nostalgia could get the better of you. I can
+totally see. how the film could be two and
+
+746
+01:06:13,534 --> 01:06:18,538
+a half stars as well as three. But John, thank
+you so much for joining us for this review.
+
+747
+01:06:18,758 --> 01:06:23,061
+We're really glad to have you as a guest and
+hopefully I can return as a guest on your show,
+
+748
+01:06:23,121 --> 01:06:27,584
+Mad Trivia Podcast. I know that Jonathan will
+be recording here shortly doing a guest spot
+
+749
+01:06:27,624 --> 01:06:32,587
+for your show talking about his favorite movies.
+So that'll be a lot of fun to listen to. Listeners,
+
+750
+01:06:32,667 --> 01:06:37,270
+if you wanna hear what my five favorite movies
+are and then see me get pretty embarrassing
+
+751
+01:06:37,310 --> 01:06:41,953
+with the mad libs, definitely go check out John's
+show. It's a blast. So thanks again, John.
+
+752
+01:06:42,278 --> 01:06:46,601
+and talk to you later. Later. But that does
+it for this review. Let us know what you guys
+
+753
+01:06:46,621 --> 01:06:51,284
+thought about the movie by writing to us at
+dynamicduelpodcast.gmail.com or by visiting
+
+754
+01:06:51,384 --> 01:06:55,507
+us on Instagram or X. You can find links to
+all of our accounts by checking out our show
+
+755
+01:06:55,527 --> 01:07:00,311
+notes or visiting our website at dynamicduel.com.
+And on our site, you can also find a link to
+
+756
+01:07:00,331 --> 01:07:05,015
+our Patreon page where you can join our dynamic
+duo tier and chat with us and fellow listeners,
+
+757
+01:07:05,335 --> 01:07:10,522
+our fantastic four tier, which gets you bonus
+content each month. our ex force tier that
+
+758
+01:07:10,562 --> 01:07:16,444
+makes you an executive producer of this podcast,
+or our newest tier that lets you join our dynamike
+
+759
+01:07:16,484 --> 01:07:21,345
+podcast network. If you can't join Patreon,
+you can still support the show by signing up
+
+760
+01:07:21,385 --> 01:07:26,827
+for our e-newsletter also at dynamicduel.com
+so you never miss an episode. You can also
+
+761
+01:07:26,867 --> 01:07:33,489
+rate the show on Apple Podcasts, Spotify, Podchaser,
+or on our website. Our next episode is a big
+
+762
+01:07:33,589 --> 01:07:39,259
+one, guys. It comes out Halloween Day. And it's
+going to close out Spooktober with one of the
+
+763
+01:07:39,299 --> 01:07:44,702
+biggest surprises that this show has ever provided
+to our listeners. Should we give them a hint,
+
+764
+01:07:44,762 --> 01:07:52,407
+Jonathan, as to what the next episode is going
+to be? Fuck no! All right. He said it. I guess
+
+765
+01:07:52,427 --> 01:07:56,409
+we're saving the surprise for when you guys
+see the next episode drop. So look forward
+
+766
+01:07:56,449 --> 01:08:00,231
+to that. But that does it for this episode.
+We want to give a big thanks to our executive
+
+767
+01:08:00,271 --> 01:08:05,866
+producers, Ken Johnson, John Sturowski, Zachary
+Hepburn, Dustin Belcombe. Miggi Matangian,
+
+768
+01:08:06,086 --> 01:08:12,327
+Brandon Estergaard, Nathaniel Wagner, Levi Yeaton,
+Nick Abonto, Austin Wazilowski, AJ Dunkerley,
+
+769
+01:08:12,628 --> 01:08:18,629
+Scott Camacho, Adam Spies, and Andrew Schunk
+for helping make this podcast possible and
+
+770
+01:08:18,649 --> 01:08:24,291
+we'll talk to you guys next week. Up up and
+away, true believers. You will tell me or I
+
+771
+01:08:24,311 --> 01:08:25,871
+will eat your stinking soul.
+
