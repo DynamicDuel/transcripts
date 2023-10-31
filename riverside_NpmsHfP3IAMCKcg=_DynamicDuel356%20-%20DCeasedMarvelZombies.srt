@@ -1,0 +1,3330 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a Dynamike Network podcast.
+
+2
+00:00:24,942 --> 00:00:29,924
+And welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,964 --> 00:00:35,988
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:36,528 --> 00:00:41,171
+I'm Marvelous Joe. And I'm his twin brother,
+Johnny DC. Happy Halloween, everybody! This
+
+5
+00:00:41,231 --> 00:00:45,513
+episode is the big event that Jonathan and I
+have been talking about all Halloween season.
+
+6
+00:00:45,794 --> 00:00:51,117
+We are surprising you guys with a team duel.
+That's right. Normally we only do team duels
+
+7
+00:00:51,177 --> 00:00:56,887
+every 25 episodes. But we're squeezing in one
+for this Halloween holiday because we think
+
+8
+00:00:56,907 --> 00:01:04,170
+it's just gonna be that awesome. That's right,
+we're pitting Deceased against Marvel zombies.
+
+9
+00:01:04,290 --> 00:01:15,215
+Spooky. Both DC and Marvel have had critically
+acclaimed and fan-loved zombie story arcs and
+
+10
+00:01:15,295 --> 00:01:20,317
+it's gonna be a whole lot of fun pitting these
+DC zombie characters against these Marvel zombie
+
+11
+00:01:20,337 --> 00:01:24,812
+characters. We're gonna put their stats into
+our simulation runner and find out which group
+
+12
+00:01:24,832 --> 00:01:28,254
+would actually come out on top later on this
+episode. Before that, we're gonna break down
+
+13
+00:01:28,274 --> 00:01:32,036
+the comic book and movie news to come out this
+past week, of which there was only one news
+
+14
+00:01:32,116 --> 00:01:37,079
+item worth discussing, that is that Daredevil
+Born Again has gotten a show runner, Dario
+
+15
+00:01:37,159 --> 00:01:41,861
+Skardapane, who was a writer on The Punisher.
+So that's pretty exciting. We'll talk about
+
+16
+00:01:41,881 --> 00:01:46,264
+that coming up, but as always, we list our segment
+times in our episode description, so feel free
+
+17
+00:01:46,304 --> 00:01:50,535
+to check out the show notes if you wanna skip
+ahead to a particular topic. As our listeners
+
+18
+00:01:50,575 --> 00:01:55,541
+may know, our duel simulator is so advanced
+that it's gained sentience and has named itself
+
+19
+00:01:55,601 --> 00:02:00,808
+the Artificial Lightform for running extensive
+duels, just a rather very intelligent simulator
+
+20
+00:02:00,968 --> 00:02:10,002
+9000, or Alfred Jarvis 9000. He has a quick
+message for our listeners, so listen up. Why
+
+21
+00:02:10,062 --> 00:02:14,865
+hello there. Do you love listening and chatting
+about Marvel and DC? Then become a part of
+
+22
+00:02:14,905 --> 00:02:19,989
+the dynamic dual community on Patreon, where
+you can choose from three tiers. The dynamic
+
+23
+00:02:20,049 --> 00:02:25,412
+2-0 tier lets you listen to this podcast without
+ads and gives you access to its Discord chat
+
+24
+00:02:25,452 --> 00:02:30,416
+group, where you can chat with Johnny DC and
+Marvelous Joe. The fantastic 4 tier gives you
+
+25
+00:02:30,456 --> 00:02:35,599
+that and more with two bonus episodes each month,
+including bloopers and top 10 shows where Johnny
+
+26
+00:02:35,619 --> 00:02:40,158
+and Joe count down your favourite Marvel and
+DC subjects. The X-Force tier makes you an
+
+27
+00:02:40,198 --> 00:02:45,020
+executive producer of Dynamic Duel, where every
+month you help the host choose what to review
+
+28
+00:02:45,301 --> 00:02:51,043
+and who to fight against each other. And finally,
+the Dynamite Podcast Network tier allows aspiring
+
+29
+00:02:51,083 --> 00:02:56,386
+podcasters to create their own battle-focused
+show using this Monte Carlo simulator. Johnny
+
+30
+00:02:56,426 --> 00:03:01,008
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+31
+00:03:01,068 --> 00:03:06,530
+simulation results to announce on your show.
+Pitch the twins your show via email at dynamicduelpodcast.gmail.com
+
+32
+00:03:08,752 --> 00:03:15,634
+them on social media. Check it out at patreon.com
+slash dynamic duel. Pip pip cheerio. Thanks
+
+33
+00:03:15,694 --> 00:03:20,916
+AJ 9K and thanks to everyone who supports the
+podcast. Be sure guys to listen to the Max
+
+34
+00:03:20,936 --> 00:03:26,518
+Destruction podcast this week, which is part
+of the dynamic podcast network. Today, Ken
+
+35
+00:03:26,538 --> 00:03:30,759
+will be dropping an episode and tomorrow. So
+you're going to get two episodes this week.
+
+36
+00:03:31,099 --> 00:03:34,740
+You're going to find out who's going to win
+in a fight between Candyman and Leatherface
+
+37
+00:03:35,281 --> 00:03:41,155
+and Predator versus the Yeah, can't wait for
+that. Also, make sure to tune into Send Your
+
+38
+00:03:41,195 --> 00:03:47,459
+World this Thursday to find out who would win
+between Bakugo from My Hero Academia and Deidara
+
+39
+00:03:47,659 --> 00:03:53,603
+from Naruto. Visit dynamicpodcasts.com or click
+on the link in our show notes to listen to
+
+40
+00:03:53,683 --> 00:03:59,406
+all of the shows in the Dynamike Podcast Network.
+But with that out of the way, quick to the
+
+41
+00:03:59,446 --> 00:04:06,218
+no prize. A no prize is an award that Marvel
+used to give out to fans. Our version, the
+
+42
+00:04:06,258 --> 00:04:11,260
+Dynamic Dual Node Prize, is a digital award
+that we post on Instagram and in our email
+
+43
+00:04:11,300 --> 00:04:15,802
+newsletter for the person that we feel gave
+the best answer to our question of the week.
+
+44
+00:04:16,342 --> 00:04:21,004
+Last week we asked, which Marvel or DC character
+do you think would make for the most awesome
+
+45
+00:04:21,204 --> 00:04:26,066
+anime series and why? And this was coming off
+of the interview we did with Zach from Send
+
+46
+00:04:26,086 --> 00:04:30,448
+Your World, which is in the Dynamike network.
+We got a lot of great answers here. There were
+
+47
+00:04:30,488 --> 00:04:34,309
+no bad answers for this, but let's go ahead
+and break down our three honorable mentions.
+
+48
+00:04:34,698 --> 00:04:40,783
+as well as the no prize winner. Our first honorable
+mention goes to, Miggy Mathengian who said,
+
+49
+00:04:41,243 --> 00:04:46,048
+Hey what's up guys this is Miggy and I think
+Monkey Prince would make the most awesome anime
+
+50
+00:04:46,088 --> 00:04:54,175
+series. I'm taking CJ Craft's answer, he answered
+a couple weeks ago for what animated series
+
+51
+00:04:54,235 --> 00:04:58,679
+or animated movie would you want to see and
+he answered Monkey Prince. I think he would
+
+52
+00:04:58,699 --> 00:05:03,330
+make a good anime. So yeah keep up the good
+work guys. Yeah, I loved this answer right
+
+53
+00:05:03,370 --> 00:05:08,752
+away when I heard it. My mind went to Hit Monkey,
+which was a fantastic anime series. And I would
+
+54
+00:05:08,792 --> 00:05:12,913
+love to see something like that in the vein
+for Monkey Prince. Just super stylized, super
+
+55
+00:05:12,953 --> 00:05:17,254
+fun. It would be awesome. Yeah, we recently
+had a duel episode with Monkey Prince where
+
+56
+00:05:17,294 --> 00:05:21,875
+we pit him against Mantis from the Guardians
+of the Galaxy. That was a really fun episode.
+
+57
+00:05:22,475 --> 00:05:25,936
+And it was really cool to learn about Monkey
+Prince and his pretty interesting backstory
+
+58
+00:05:26,096 --> 00:05:31,739
+steeped in Chinese mythology. Great answer,
+Biggie. And also. to CJ, because Biggie stole
+
+59
+00:05:31,759 --> 00:05:39,125
+the answer from you. Our next honorable mention
+goes to Travis Herndon, who said, Hey guys,
+
+60
+00:05:39,186 --> 00:05:44,711
+Travis here. So my pick would have to be Lobo.
+I feel like you could easily make a cool Lobo
+
+61
+00:05:44,811 --> 00:05:50,336
+anime, have the same blood and gore as Castlevania,
+with the same comedy as the Harley Quinn show.
+
+62
+00:05:50,856 --> 00:05:55,861
+And I believe it's time for the main man to
+get an anime series. So my pick would definitely
+
+63
+00:05:55,881 --> 00:06:02,718
+be Lobo. Yeah, there aren't many genres that
+do violence as well as anime does. It's just
+
+64
+00:06:02,798 --> 00:06:09,362
+so over the top with gushing torrents of blood
+and gore. And Lobo as a character was designed
+
+65
+00:06:09,402 --> 00:06:15,267
+for exactly that. Yeah, I mean, you couldn't
+probably do a character like Lobo justice in
+
+66
+00:06:15,287 --> 00:06:21,031
+a different animated genre, right? Like I couldn't
+see a great Lobo series done like Adventure
+
+67
+00:06:21,071 --> 00:06:26,034
+Time or something like that. It has to be anime.
+I think it'd be awesome. The character of Lobo
+
+68
+00:06:26,054 --> 00:06:30,438
+himself is so stylized and so is the art form.
+So, yeah, I think they suit each other really
+
+69
+00:06:30,478 --> 00:06:35,282
+well. Well, I mean, Lobo has done pretty well
+in like the Bruce Tim Superman animated series
+
+70
+00:06:35,642 --> 00:06:40,366
+and some other animated movies that we've had,
+like Man of Tomorrow, but it's also a very
+
+71
+00:06:40,426 --> 00:06:45,410
+tamed down version of the character. And if
+you want to stay true to him, yeah, you definitely
+
+72
+00:06:45,430 --> 00:06:50,194
+got to make it anime or it should be anime.
+Great answer, Travis. Our next honorable mention
+
+73
+00:06:50,214 --> 00:06:57,135
+goes to Abner O'Terry, who said, Hey, guys,
+this is Abner O'Terry. Coming into the best
+
+74
+00:06:57,235 --> 00:07:08,424
+answer for this question. Mine is Blue Beetle.
+Like his, the whole situation with his scarab
+
+75
+00:07:08,564 --> 00:07:16,350
+is just like perfect for the anime world. Yeah,
+of course. We recently gave an answer of Blue
+
+76
+00:07:16,390 --> 00:07:22,030
+Beetle as the no prize win for which character
+would be best in a video game. But I equally
+
+77
+00:07:22,070 --> 00:07:27,595
+think that Blue Beetle would be great in an
+anime series as well. Just with how cool and
+
+78
+00:07:27,635 --> 00:07:33,380
+kinetic and action-packed the character is with
+his technological components, it would be so
+
+79
+00:07:33,420 --> 00:07:37,904
+cool just to see him go super Saiyan. Yeah,
+it would fit squarely within the shounen genre,
+
+80
+00:07:38,084 --> 00:07:43,749
+where basically the character Blue Beetle would
+discover a new power as he becomes more acquainted
+
+81
+00:07:44,069 --> 00:07:48,112
+with the abilities of the Scarab throughout
+each episode and he'd kind of grow in might
+
+82
+00:07:48,192 --> 00:07:52,696
+as the series progressed. Yeah, just like my
+adventures with Superman. You know, Blue Beetle
+
+83
+00:07:52,716 --> 00:07:57,500
+would be perfect in that genre of anime as well.
+Honestly, the only reason this answer didn't
+
+84
+00:07:57,520 --> 00:08:03,265
+get the no prize win was because we had just
+given the win to a Blue Beetle answer a couple
+
+85
+00:08:03,285 --> 00:08:07,969
+of weeks ago. Yeah. Great answer, Abner. We
+want to give a quick shout out to Christopher
+
+86
+00:08:08,009 --> 00:08:13,273
+Minotti, Brandon Estregard and Mitchell Smoothie
+for taking the time to visit our website and
+
+87
+00:08:13,313 --> 00:08:19,322
+record an answer. Yeah, those are also great
+answers, including Mr. Mixus Biddlek. Vixen
+
+88
+00:08:19,602 --> 00:08:26,266
+and Mr. Negative. But the winner of this week's
+snow prize is Nate Mantineo who said, Hey guys,
+
+89
+00:08:26,466 --> 00:08:33,410
+Nate Mantineo. Um, I'm going with the obvious
+answer on your question tonight. Um, I think
+
+90
+00:08:33,450 --> 00:08:39,713
+that Penny Parker would make an awesome anime
+because she is anime and we've always seen
+
+91
+00:08:39,753 --> 00:08:47,854
+her. She's been anime and I love anime and her
+with S P I D R would be awesome and I just
+
+92
+00:08:47,914 --> 00:08:51,277
+want to see that because I love superheroes
+and I love anime and mix them together and
+
+93
+00:08:51,357 --> 00:08:57,182
+I just love it. Bye guys. Thanks. Yeah, Penny
+Parker is a fantastic answer. Of course, she's
+
+94
+00:08:57,202 --> 00:09:01,606
+a Japanese character most recently seen on the
+screen in the Into the Spider-Verse movie.
+
+95
+00:09:01,827 --> 00:09:06,511
+I think she'd be fantastic. Yeah, it'd be great
+to have a series with her following her adventures
+
+96
+00:09:06,991 --> 00:09:11,855
+with the spider robot and her spider pal. But
+I would also like to maybe extend this answer
+
+97
+00:09:11,895 --> 00:09:16,838
+to include all of the Spider-verse. An anthology
+series where she basically travels Spider-verse
+
+98
+00:09:16,858 --> 00:09:21,921
+and meets different Spider-men would also be
+cool because honestly I think any Spider-man
+
+99
+00:09:22,081 --> 00:09:27,525
+would be awesome as an anime. Yeah, it could
+sort of be like an Isekai adventure. That genre
+
+100
+00:09:27,565 --> 00:09:32,548
+of anime where the main character travels to
+a new land and just experiences that learns
+
+101
+00:09:32,688 --> 00:09:38,270
+all about that. Exactly. That's a fantastic
+answer. I'm honestly disappointed that Sony
+
+102
+00:09:38,290 --> 00:09:42,772
+doesn't already have something like that in
+the works. Considering the success of the Spider-Verse
+
+103
+00:09:43,012 --> 00:09:46,913
+animated films, you'd think they'd want to spin
+off something to keep that franchise going.
+
+104
+00:09:47,353 --> 00:09:51,314
+Yeah, maybe after the third film in the trilogy
+is done, they could continue to explore those
+
+105
+00:09:51,334 --> 00:09:56,195
+worlds with something like a Penny Parker anime.
+That would be amazing. I do have to say though,
+
+106
+00:09:56,235 --> 00:10:02,977
+as great as this answer was, no one said the
+most perfect answer, which is Amethyst from
+
+107
+00:10:03,037 --> 00:10:08,919
+DC Comics. She's a character who realized that
+in another world, she's actually a magical
+
+108
+00:10:08,959 --> 00:10:14,082
+princess. And that would be absolutely perfect
+for not only like a magical girl anime, but
+
+109
+00:10:14,142 --> 00:10:19,064
+also like I mentioned, an isekai. Actually,
+that's interesting because my wife, I told
+
+110
+00:10:19,084 --> 00:10:24,666
+her to call in with an answer, but she didn't.
+But she suggested that a great Marvel anime
+
+111
+00:10:24,766 --> 00:10:30,588
+would be the Scarlet Witch, kind of in the vein
+of WandaVision meets Paprika. I don't know
+
+112
+00:10:30,608 --> 00:10:35,414
+if you saw that anime movie, which is about
+dreaming. So it would just be really mind-warpy
+
+113
+00:10:35,474 --> 00:10:39,816
+and reality-bending. I thought that was a great
+answer too. So shout out to Ari, even though
+
+114
+00:10:40,096 --> 00:10:44,838
+you didn't call in. But congrats to Nate for
+winning this week's No Prize. If you, the listener,
+
+115
+00:10:45,138 --> 00:10:48,719
+want a shot at winning your own No Prize, stay
+tuned to later on this episode when we'll be
+
+116
+00:10:48,819 --> 00:10:53,421
+asking another Question of the Week. And now
+that that's done, on to the news.
+
+117
+00:10:59,042 --> 00:11:04,283
+Marvel Studios has taken their Daredevil Born
+Again series back to square one and are creatively
+
+118
+00:11:04,343 --> 00:11:10,545
+rebooting the series. They previously let go
+of writers Chris Ord and Matt Corman because
+
+119
+00:11:10,565 --> 00:11:15,727
+they want to take the series in a different
+direction. They decided that their previous
+
+120
+00:11:15,767 --> 00:11:20,948
+system of making Disney Plus series the same
+exact way they make their movies no longer
+
+121
+00:11:21,028 --> 00:11:24,969
+works for television and so they're going to
+take a more classic television production.
+
+122
+00:11:25,522 --> 00:11:30,123
+route with their television show making process.
+And that'll include, you know, writing a show
+
+123
+00:11:30,143 --> 00:11:36,044
+bible, hiring a show runner, and in some cases
+even producing pilots. This past week we learned
+
+124
+00:11:36,124 --> 00:11:41,906
+that the Daredevil Born Again series has already
+landed its show runner. So Marvel has really
+
+125
+00:11:41,946 --> 00:11:46,387
+wasted no time, which is fantastic, but the
+show runner is going to be Dario Scartapane,
+
+126
+00:11:46,747 --> 00:11:52,849
+who has worked on not only shows like Tom Clancy's
+Jack Ryan, but also previously he's done Marvel
+
+127
+00:11:54,958 --> 00:12:00,959
+for Netflix. Which was awesome. I loved that
+series. Yeah, it was a great show. It really
+
+128
+00:12:00,999 --> 00:12:05,841
+seems like Marvel's trying to kind of stick
+to the tone that was previously established
+
+129
+00:12:05,901 --> 00:12:10,782
+by the Netflix series with the Daredevil born
+again show. So I think that's fantastic news.
+
+130
+00:12:11,322 --> 00:12:15,483
+Yeah, honestly, it's like the best news I've
+heard for this series. I was really worried
+
+131
+00:12:15,503 --> 00:12:20,164
+that Disney was gonna screw up a Daredevil television
+series, but this is the best thing they could
+
+132
+00:12:20,204 --> 00:12:25,334
+have done to make it just like what we got before
+with Netflix. Right, well, I mean, because
+
+133
+00:12:25,354 --> 00:12:28,877
+they weren't going to make it better, right?
+You know, Disney Plus was not going to do a
+
+134
+00:12:28,897 --> 00:12:32,820
+better job than Netflix with the Daredevil show
+because the Daredevil show was near perfection.
+
+135
+00:12:32,980 --> 00:12:36,682
+So you're right. The best thing they could do
+is continue that series forward, at least tonally,
+
+136
+00:12:37,063 --> 00:12:42,767
+if not in continuity. In addition to the showrunners,
+Marvel has also hired a couple of directors,
+
+137
+00:12:42,927 --> 00:12:48,471
+Justin Benson and Aaron Moorhead, who are co-directors
+that have also done Marvel television, including
+
+138
+00:12:48,931 --> 00:12:54,848
+episodes of Loki season two and Moon Knight.
+They were actually the lead directors on Loki
+
+139
+00:12:54,868 --> 00:13:00,433
+season 2. Right. And both of the shows, Loki
+and Moon Knight, are incredibly cinematic.
+
+140
+00:13:00,834 --> 00:13:07,220
+So I would like to see them carry forward that
+very grand feel to a Daredevil show and make
+
+141
+00:13:07,240 --> 00:13:11,284
+it really feel like a movie of sorts. I think
+that'd be fantastic. Absolutely. This is all
+
+142
+00:13:11,324 --> 00:13:15,428
+great news. I was like shitting my pants a few
+weeks ago when I saw that Marvel was rebooting
+
+143
+00:13:15,468 --> 00:13:19,847
+their series, but it really seems... Like they're
+making a lot of really great decisions, not
+
+144
+00:13:19,907 --> 00:13:23,949
+just in the talent that they're hiring, but
+in their approach in general. So I think the
+
+145
+00:13:23,969 --> 00:13:28,171
+Daredevil show will be all the better for it.
+And I'm really looking forward to it, even
+
+146
+00:13:28,191 --> 00:13:32,133
+though we don't know when we're going to get
+it, probably sometime in 2025 or something.
+
+147
+00:13:32,394 --> 00:13:38,397
+But speaking of Marvel television and the former
+Netflix television shows, that brings us to
+
+148
+00:13:38,417 --> 00:13:39,397
+our question of the week.
+
+149
+00:13:43,862 --> 00:13:50,067
+What was your favorite Netflix Marvel television
+series and why? Of course that includes Daredevil,
+
+150
+00:13:50,227 --> 00:13:55,931
+Jessica Jones, The Punisher, Luke Cage, Iron
+Fist, and The Defenders. Record your answer
+
+151
+00:13:55,951 --> 00:14:00,275
+at dynamicduel.com by clicking on the red microphone
+button in the bottom right hand corner of the
+
+152
+00:14:00,335 --> 00:14:04,698
+screen, which will prompt you to leave us a
+voicemail. Your message could be up to 30 seconds
+
+153
+00:14:04,738 --> 00:14:08,922
+long, and don't forget to leave your name in
+case we include you on the podcast. We'll pick
+
+154
+00:14:08,962 --> 00:14:13,345
+our favorite answer and award that person a
+Dynamic Duel No Prize that we'll post to Instagram.
+
+155
+00:14:13,818 --> 00:14:17,461
+and our email newsletter. Be sure to answer
+before November 4th.
+
+156
+00:14:24,590 --> 00:14:28,235
+But I think that does it for all the news for
+this episode, so let's get into the main event
+
+157
+00:14:28,756 --> 00:14:36,027
+where we find out who would win in our spooky
+zombie apocalypse matchup of Deceased versus
+
+158
+00:14:36,548 --> 00:14:37,369
+Marvel Zombies.
+
+159
+00:14:52,534 --> 00:14:56,956
+Welcome to the zombie apocalypse, y'all. That's
+right, it's an all out gorefest as we find
+
+160
+00:14:57,016 --> 00:15:01,698
+out who'd win between the deceased and the Marvel
+zombies. Both of these series came out within
+
+161
+00:15:01,738 --> 00:15:08,361
+the past 15 years or so. Jeez, actually I think
+Marvel zombies came out in the mid 2000s. It
+
+162
+00:15:08,381 --> 00:15:12,924
+was a comic book series written by Robert Kirkman
+around the same time that he was writing The
+
+163
+00:15:12,944 --> 00:15:19,143
+Walking Dead. It's a fantastic, shocking, depressing.
+comic book series that was adapted recently
+
+164
+00:15:19,263 --> 00:15:26,288
+to animation in the Marvel Zombies episode of
+What If, which was a fantastic episode. Definitely
+
+165
+00:15:26,308 --> 00:15:31,832
+a departure from the comic book series in the
+story it told, but no less gruesome and kind
+
+166
+00:15:31,852 --> 00:15:37,076
+of freaky and scary and kind of fucked up too.
+Yeah, I mean, Deceased has not been adapted
+
+167
+00:15:37,136 --> 00:15:41,999
+to any kind of animation style, but it was critically
+acclaimed. Actually, the series just wrapped
+
+168
+00:15:42,159 --> 00:15:48,247
+up earlier this year in April in 2023. It was
+written by acclaimed comic writer, Tom Taylor,
+
+169
+00:15:48,367 --> 00:15:53,171
+who is popular for also doing the Injustice
+comic book storyline. That really expanded
+
+170
+00:15:53,211 --> 00:15:56,973
+the story of the video game. That's pretty cool,
+I didn't know that. We're really excited to
+
+171
+00:15:56,993 --> 00:16:01,536
+bring this Team Duel episode to you guys on
+Halloween day. We knew from the get-go, once
+
+172
+00:16:01,576 --> 00:16:05,799
+we saw that this episode was dropping on Halloween,
+that we had to make it special. Yeah, it's
+
+173
+00:16:05,819 --> 00:16:09,581
+not too often you get to see zombies fighting
+zombies, so I think this will be a lot of fun.
+
+174
+00:16:10,058 --> 00:16:14,480
+Right, right. Yeah, actually, initially, this
+was going to be just a standard 1v1 duel, but
+
+175
+00:16:14,660 --> 00:16:18,402
+once we read the comics, we knew that we had
+to cram as many zombies as we could within
+
+176
+00:16:18,442 --> 00:16:23,125
+this battle. Yeah, I actually had a really hard
+time narrowing down my seven character roster.
+
+177
+00:16:23,245 --> 00:16:27,227
+Kudos to the executive producers who really
+helped out with that. Running team duels is
+
+178
+00:16:27,407 --> 00:16:32,190
+a lot more difficult than running 1v1 duels,
+but to explain the methodology behind our duels,
+
+179
+00:16:32,650 --> 00:16:38,373
+let's go to our sentient duel simulator, Alfred
+Jarvis 9000. AJ9k, tell our listeners how you
+
+180
+00:16:38,393 --> 00:16:44,136
+go about determining a winner in these team
+duel matchups. Yes, of course, sir. The way
+
+181
+00:16:44,216 --> 00:16:49,018
+I determine a winner between the two teams is
+by running 1000 Monte Carlo simulations between
+
+182
+00:16:49,118 --> 00:16:54,280
+every character on each team using their statistics.
+A Monte Carlo simulation is a probabilistic
+
+183
+00:16:54,320 --> 00:17:00,142
+model used to determine outcomes through random
+sampling. In this case, I randomize the statistics
+
+184
+00:17:00,182 --> 00:17:05,024
+along a normal distribution as a way to simulate
+the many variables that can occur during battle.
+
+185
+00:17:05,424 --> 00:17:10,046
+The stat parameters are based on the official
+Marvel power grid. from which the DC characters'
+
+186
+00:17:10,086 --> 00:17:15,268
+statistics are extrapolated. Additional stat
+categories are included such as range, damage
+
+187
+00:17:15,288 --> 00:17:20,829
+potential, versatility and perception in order
+to create a more detailed and accurate simulation.
+
+188
+00:17:21,290 --> 00:17:26,031
+The results of the 49,000 simulations provide
+a percentage of wins for each character on
+
+189
+00:17:26,071 --> 00:17:30,653
+both teams. The team with the higher average
+win rate is declared the victor as they have
+
+190
+00:17:30,673 --> 00:17:35,475
+a higher probability to win any given battle.
+In an equitable pairing, neither team should
+
+191
+00:17:35,495 --> 00:17:40,319
+win 100% of the matches. The comic book stories
+have shown that there's even a way for Batman
+
+192
+00:17:40,339 --> 00:17:44,723
+to defeat Superman, so the confidence rate of
+my method falls in line with the precedents
+
+193
+00:17:44,743 --> 00:17:49,867
+that have been established in the source material.
+My mathematical simulations are without subjectivity
+
+194
+00:17:49,907 --> 00:17:55,371
+or bias. Feats are not the sole consideration,
+nor are fan votes tabulated for determination
+
+195
+00:17:55,411 --> 00:18:00,916
+of the winner. Thanks, AJ9K. Before we run the
+simulations, though, we like to break down
+
+196
+00:18:00,956 --> 00:18:06,654
+the histories and rosters for each team. before
+improvising a scenario on how we imagine one
+
+197
+00:18:06,754 --> 00:18:12,396
+of the many simulations would play out B for
+B. And I believe it's my turn to go first with
+
+198
+00:18:12,436 --> 00:18:18,458
+the DC backstory, so let me tell you all about
+the storyline of Deceased. Spoiler alert if
+
+199
+00:18:18,498 --> 00:18:23,579
+you haven't finished the series. After a massive
+victory by the Justice League over Darkseid's
+
+200
+00:18:23,619 --> 00:18:28,901
+attempted invasion of Earth, the tyrannical
+Darkseid retreated to his distant planet of
+
+201
+00:18:28,941 --> 00:18:35,840
+Apocalypse, just as Earth's heroes realized...
+that Cyborg was missing. Darkseid had captured
+
+202
+00:18:35,920 --> 00:18:41,764
+Cyborg during his invasion and tortured him
+on Apocalypse, believing his body, half human,
+
+203
+00:18:42,024 --> 00:18:47,828
+half New God technology, was encoded with the
+final remnant of the Anti-Life Equation that
+
+204
+00:18:47,869 --> 00:18:53,753
+Darkseid needed to control every living being
+in the universe. In order to keep Cyborg alive
+
+205
+00:18:53,833 --> 00:18:59,557
+long enough to extract the Equation, Darkseid
+summoned the New God embodiment of Death, the
+
+206
+00:18:59,597 --> 00:19:06,205
+Black Racer. and unknowingly merged some of
+Death's essence with Cyborg, just as the equation
+
+207
+00:19:06,225 --> 00:19:12,109
+was fully deciphered. Darkseid, infected by
+the techno-organic virus that was now the Corrupted
+
+208
+00:19:12,209 --> 00:19:17,853
+Equation, was consumed by madness and killed
+the Black Racer, just as Darkseid's chief scientist,
+
+209
+00:19:17,953 --> 00:19:23,777
+Desaad, boomtubed Cyborg back to Earth in an
+effort to send the equation from Apocalypse.
+
+210
+00:19:24,257 --> 00:19:29,541
+But it was too late. Darkseid leapt into the
+fires of Apocalypse and unleashed his full
+
+211
+00:19:29,621 --> 00:19:35,752
+Omega power. annihilating the planet. Once Cyborg
+arrived back on Earth, his systems reconnected
+
+212
+00:19:35,772 --> 00:19:41,174
+to the internet wirelessly, and he accidentally
+uploaded the anti-life equation to the internet.
+
+213
+00:19:41,554 --> 00:19:47,456
+The virus spread quickly, as anyone who viewed
+a screen was exposed to the equation and driven
+
+214
+00:19:47,516 --> 00:19:52,739
+mad with the need to kill any unaffected living
+being in their vicinity, with them also being
+
+215
+00:19:52,759 --> 00:19:57,480
+capable of spreading the virus by blood contact.
+Though Superman was able to realize what was
+
+216
+00:19:57,521 --> 00:20:03,640
+happening fast enough to save his wife and Lois
+Lane and Jonathan Kent, Batman was unable to
+
+217
+00:20:03,680 --> 00:20:09,924
+save Nightwing and Red Robin, who attacked and
+transmuted the virus to him, forcing Alfred
+
+218
+00:20:10,264 --> 00:20:16,488
+to kill all three. Batman's son Damien, who
+was with Jonathan when the virus struck, survived,
+
+219
+00:20:16,928 --> 00:20:22,112
+as did Green Arrow and Black Canary, the latter
+of whom became a Green Lantern after she was
+
+220
+00:20:22,152 --> 00:20:27,435
+forced to kill an infected Hell Jordan. The
+surviving heroes assembled at the Daily Planet
+
+221
+00:20:27,475 --> 00:20:32,358
+in Metropolis, as instructed by Lois Lane in
+a message she managed to broadcast from the
+
+222
+00:20:32,398 --> 00:20:38,561
+Daily Planet. Metropolis was soon destroyed,
+however, after an infected atom breached Captain
+
+223
+00:20:38,641 --> 00:20:43,744
+Adam's metallic shell, infecting Kim as well
+and causing Kim to detonate his atomically
+
+224
+00:20:43,804 --> 00:20:50,408
+energized body in an explosion that destroyed
+Washington, D.C., Baltimore, and Metropolis.
+
+225
+00:20:50,928 --> 00:20:56,623
+The heroes at the Daily Planet and Lex Luthor
+were the only survivors of the explosion, thanks
+
+226
+00:20:56,663 --> 00:21:01,625
+to Black Canary protecting them with her Green
+Lantern Ring. When Earth's remaining uninfected
+
+227
+00:21:01,685 --> 00:21:07,187
+population being sheltered on the Paradise Island
+of Themyscira and a dense forest in Gotham
+
+228
+00:21:07,227 --> 00:21:12,790
+City created by Poison Ivy, Earth's surviving
+heroes assembled at the Fortress of Solitude,
+
+229
+00:21:13,090 --> 00:21:15,731
+away from the infected, where Cyborg and Lex
+
+230
+00:21:21,782 --> 00:21:26,505
+When Mr. Terrific failed to develop a cure,
+he learned from the new gods Mr. Miracle and
+
+231
+00:21:26,545 --> 00:21:32,690
+Big Barda that the source, Apocalypse, had been
+destroyed. They attempted to recruit John Constantine
+
+232
+00:21:32,710 --> 00:21:38,434
+to provide a magical solution, to which Constantine
+revealed that one did not exist. Planning on
+
+233
+00:21:38,494 --> 00:21:43,458
+using Booster Gold's time machine as a last
+resort, Big Barda became infected and killed
+
+234
+00:21:43,498 --> 00:21:49,662
+Mr. Terrific and Blue Beetle, though Constantine
+was rescued by Dr. Fate and Zatanna. The remaining
+
+235
+00:21:49,702 --> 00:21:54,965
+members of the Justice League attempted to persuade
+Black Adam to turn his nation of Condoc into
+
+236
+00:21:54,985 --> 00:22:01,248
+a third refuge as he had killed all anti-living
+within his borders. But Black Adam refused
+
+237
+00:22:01,589 --> 00:22:06,892
+and became infected not long after, turning
+his entire nation into an anti-living army
+
+238
+00:22:06,992 --> 00:22:12,495
+soon after. Wonder Woman managed to stop Black
+Adam, however, by using her lasso to force
+
+239
+00:22:12,515 --> 00:22:18,030
+him to say Shazam and lose his power, after
+which Superman used his heat vision. to sever
+
+240
+00:22:18,090 --> 00:22:23,334
+Adam's vocal cords and prevent him from gaining
+power again. As the heroes neared completion
+
+241
+00:22:23,374 --> 00:22:28,918
+of the arcs at the Fortress of Solitude, they
+were attacked mentally by an infected, invisible
+
+242
+00:22:29,058 --> 00:22:35,042
+Martian Manhunter, who managed to also infect
+the Flash before Firestorm set Martian Manhunter
+
+243
+00:22:35,102 --> 00:22:41,086
+on fire. The Flash, infecting surviving humans
+across the planet at light speed, was stopped
+
+244
+00:22:41,146 --> 00:22:47,082
+by Superman, who collided with him. Only for
+the Flash's fingers. to get lodged in Superman's
+
+245
+00:22:47,142 --> 00:22:52,643
+torso during the incident, infecting Superman,
+who attempted to flee the planet unsuccessfully
+
+246
+00:22:52,924 --> 00:22:58,105
+before he succumbed to the virus. As the heroes
+acted quickly to get the Arks to Themyscira
+
+247
+00:22:58,165 --> 00:23:04,067
+and Gotham, Wonder Woman forged a sword from
+Kryptonite and magic in order to fend off Superman
+
+248
+00:23:04,127 --> 00:23:10,369
+and protect the Arks. She failed, however, and
+was infected by Superman, who went after the
+
+249
+00:23:10,409 --> 00:23:15,875
+now fully boarded Arks as they escaped Earth's
+gravity. While Cyborg stayed behind with Wonder
+
+250
+00:23:15,915 --> 00:23:21,179
+Woman, Black Canary went after Superman with
+the Kryptonite Sword, just as the entirety
+
+251
+00:23:21,239 --> 00:23:26,562
+of the Green Lantern Corps arrived to quarantine
+the planet. As the Arks successfully escaped,
+
+252
+00:23:27,043 --> 00:23:32,787
+Superman retreated into the sun for protection.
+Meanwhile, Cyborg bound Wonder Woman with her
+
+253
+00:23:32,827 --> 00:23:39,171
+magic lasso as she transformed into the Anti-Living,
+at which point she confessed to him that his
+
+254
+00:23:39,251 --> 00:23:44,562
+code had possessed a cure for the virus all
+along. But before Cyborg could send a signal
+
+255
+00:23:44,582 --> 00:23:50,605
+to the Arks to inform them, Woodroman escaped
+the lasso and tore off his head. The Arks eventually
+
+256
+00:23:50,685 --> 00:23:56,667
+settled on a planet they dubbed Earth-2, and
+after five years, Jonathan, Damien, and other
+
+257
+00:23:56,687 --> 00:24:00,789
+heroes returned to Earth to check on it, at
+which point they received a distress beacon
+
+258
+00:24:01,109 --> 00:24:06,951
+coming from Cyborg's head. After rescuing Cyborg,
+Mr. Miracle and a group of heroes took him
+
+259
+00:24:06,971 --> 00:24:12,686
+to the new god Metron, and Cyborg was able to
+use Metron's all-knowing Mobius Chair. to learn
+
+260
+00:24:12,706 --> 00:24:19,288
+how to code a cure for the virus, while Constantine
+and other magic users defended Earth from Trigon,
+
+261
+00:24:19,408 --> 00:24:23,710
+who attempted to destroy the planet to prevent
+the virus from spreading across the cosmos.
+
+262
+00:24:24,150 --> 00:24:30,273
+After curing everyone on Earth and Superman,
+Brainiac arrived at Earth too and warned them
+
+263
+00:24:30,353 --> 00:24:36,416
+that the infected new gods were tearing across
+the universe. Darkseid, they learned, survived
+
+264
+00:24:36,476 --> 00:24:42,959
+the destruction of Apocalypse and infected everyone
+on New Genesis. After decapitating Sinestro,
+
+265
+00:24:43,319 --> 00:24:49,424
+Darkseid took control of his Yellow Ring, becoming
+a Yellow Lantern Zombie and infecting the planet-sized
+
+266
+00:24:49,484 --> 00:24:56,250
+weapon and Yellow Lantern homebase of Warworld
+with the Anti-Life Virus. As planets fell to
+
+267
+00:24:56,290 --> 00:25:02,135
+Darkseid and his anti-living army, the God of
+War Ares manipulated the Owens to order the
+
+268
+00:25:02,175 --> 00:25:07,099
+Green Lantern Corps to attack all other heroes
+under the belief that it was less of a risk
+
+269
+00:25:07,179 --> 00:25:12,762
+to kill the infected rather than try to cure
+them. After Mix's Spitalik became infected
+
+270
+00:25:13,082 --> 00:25:17,784
+and destroyed the Green Lantern Core's central
+power battery, the Spectre sacrificed himself
+
+271
+00:25:17,804 --> 00:25:23,367
+to repair the battery and defeat Mix's Spitalik.
+As Darkseid and his army arrived at Earth-2,
+
+272
+00:25:24,167 --> 00:25:29,729
+Elfrid transformed into the New Spectre in order
+to save Damian, who had become infected by
+
+273
+00:25:29,749 --> 00:25:36,532
+Highfather of New Genesis. The Spectre was able
+to cure all infected beings on Earth-2, including
+
+274
+00:25:36,632 --> 00:25:43,791
+Darkseid, with the help of Lobo. It was revealed
+that the anti-life equation was created by
+
+275
+00:25:43,831 --> 00:25:49,654
+the primordial god of darkness, Erebus, and
+that he would need to be defeated in order
+
+276
+00:25:49,714 --> 00:25:55,896
+to save the universe. Damien, as it turned out,
+found the counter-life equation within Cyborg's
+
+277
+00:25:55,936 --> 00:26:02,139
+code, and with help from Darkseid, the heroes
+were able to use a Doom Tube to teleport outside
+
+278
+00:26:02,159 --> 00:26:08,454
+the universe to Erebus' domain, where Damien
+sacrificed himself while inside Erebus. to
+
+279
+00:26:08,474 --> 00:26:14,775
+destroy him and create an entirely new universe.
+And that's the story of Deceased. Now, the
+
+280
+00:26:14,815 --> 00:26:20,397
+real stars of Deceased aren't the Anti-Living,
+but since this is a zombie match, my roster
+
+281
+00:26:20,417 --> 00:26:25,238
+for the team duel match is going to consist
+of some of the most prominent and devastating
+
+282
+00:26:25,318 --> 00:26:31,560
+members of the Anti-Living, primarily from the
+original 6 issue run and the spinoff stories
+
+283
+00:26:31,580 --> 00:26:37,381
+that occurred concurrently. Superman, of course,
+was a massive and powerful threat to the arcs.
+
+284
+00:26:37,698 --> 00:26:41,999
+that contained the last of humanity, so he's
+definitely one of my team members, though he
+
+285
+00:26:42,039 --> 00:26:47,580
+has a prosthetic metal right arm after losing
+it to Wonder Woman's kryptonite sword. Speaking
+
+286
+00:26:47,640 --> 00:26:53,182
+of Wonder Woman, she's also a member of my roster
+as she, along with Superman, was among the
+
+287
+00:26:53,202 --> 00:26:58,343
+most powerful infected heroes at the end of
+the initial story. And yes, she's wielding
+
+288
+00:26:58,383 --> 00:27:04,125
+her kryptonite sword. I'm also going with Black
+Adam, who led an anti-living army against the
+
+289
+00:27:04,185 --> 00:27:11,400
+world, and who destroyed three major US cities
+in one massive explosion. In that same vein,
+
+290
+00:27:11,861 --> 00:27:17,724
+I'm also going with Martian Manhunter, Big Barda,
+and The Flash, who killed or infected major
+
+291
+00:27:17,764 --> 00:27:24,528
+characters within the story. So my roster consists
+of Superman, Wonder Woman, Black Adam, Captain
+
+292
+00:27:24,628 --> 00:27:29,951
+Adam, Martian Manhunter, Big Barda, and The
+Flash, all of whom you can learn about in their
+
+293
+00:27:29,991 --> 00:27:36,514
+respective dual episodes. Regarding zombies
+in Deceased, they aren't technically zombies
+
+294
+00:27:36,554 --> 00:27:40,855
+because they aren't dead. You know, they just
+become extremely violent with the urge to kill
+
+295
+00:27:41,235 --> 00:27:47,137
+all other living beings. They can be killed
+by any standard means that the character would
+
+296
+00:27:47,237 --> 00:27:52,478
+normally be killed by, but they also retain
+any powers and durability that they had when
+
+297
+00:27:52,498 --> 00:27:58,060
+they were among the living, and none of the
+infected can feel pain. They all also share
+
+298
+00:27:58,180 --> 00:28:05,482
+a hive mind controlled by Erebus that can sense
+nearby living entities. And finally, the antilife
+
+299
+00:28:05,502 --> 00:28:12,884
+virus that infects them can also infect technology
+as it is techno-organic. That is quite the
+
+300
+00:28:12,964 --> 00:28:17,465
+powerful team that you have there. Hell yeah
+it is, but it's not going to be powerful enough
+
+301
+00:28:17,765 --> 00:28:22,907
+against the Marvel zombies who have literally
+eaten the universe. Let me go ahead and tell
+
+302
+00:28:22,927 --> 00:28:28,488
+you all about them. It all started with a flash
+in the sky and a ripple through the clouds.
+
+303
+00:28:29,088 --> 00:28:34,330
+A being infected with a terrible plague known
+only as the hunger. fell onto the streets of
+
+304
+00:28:34,390 --> 00:28:40,291
+Manhattan. The disease spread like wildfire,
+infecting and transforming anyone bitten. The
+
+305
+00:28:40,331 --> 00:28:45,933
+Avengers of this reality were the first on the
+scene, including Colonel America, Hawkeye,
+
+306
+00:28:46,113 --> 00:28:51,375
+Scarlet Witch, Black Widow, Luke Cage, and the
+Wasp. But they were quickly overwhelmed. The
+
+307
+00:28:51,395 --> 00:28:57,316
+hunger was too powerful and the Avengers too
+few. One by one, they fell to the disease.
+
+308
+00:28:57,856 --> 00:29:03,466
+Colonel America was the first bitten by a zombie
+and turned into one himself. He then bit Spider-Man,
+
+309
+00:29:03,547 --> 00:29:08,791
+who had arrived on the scene to help. In the
+confusion, Spider-Man returned home, only to
+
+310
+00:29:08,851 --> 00:29:14,315
+turn and devour his wife, Mary Jane, and his
+Aunt May. Ant-Man knew he was running out of
+
+311
+00:29:14,355 --> 00:29:18,919
+time. The virus was spreading through his body,
+and he could feel the hunger taking over his
+
+312
+00:29:18,979 --> 00:29:24,564
+mind. He had to find a way to survive, even
+if it meant sacrificing someone else. He lured
+
+313
+00:29:24,584 --> 00:29:29,868
+Black Panther to his hidden lab, knocked him
+out, and surgically removed pieces of him to
+
+314
+00:29:29,908 --> 00:29:35,801
+serve as a snack for later. From his Asteroid
+M orbital space station observation deck, Magneto
+
+315
+00:29:35,861 --> 00:29:40,885
+watched in horror as the population consumed
+itself. He knew that this was just the beginning
+
+316
+00:29:41,045 --> 00:29:45,408
+and traveled to Earth to warn the X-Men what
+was happening. He led them to join the fight
+
+317
+00:29:45,468 --> 00:29:50,552
+in Manhattan, where the Fantastic Four were
+already battling the zombies after losing Franklin
+
+318
+00:29:50,652 --> 00:29:55,196
+and Valeria to the zombie She-Hulk. The remaining
+heroes gathered together at the S.H.I.E.L.D.
+
+319
+00:29:55,556 --> 00:30:00,976
+helicarrier, their last hope. Director Nick
+Fury ordered them to split up to bring as many
+
+320
+00:30:01,016 --> 00:30:06,500
+survivors as possible to the SHIELD base, while
+Reed Richards, Tony Stark, and Bruce Banner
+
+321
+00:30:06,660 --> 00:30:11,603
+worked on a zombie cure. Tony suggested the
+scientists work individually to approach the
+
+322
+00:30:11,643 --> 00:30:17,467
+cure from multiple angles, though secretly he
+suspected that humanity was doomed and instead
+
+323
+00:30:17,587 --> 00:30:23,671
+built a dimensional portal device. Reed was
+driven insane by the loss of his children and
+
+324
+00:30:23,711 --> 00:30:28,335
+came to admire the efficiency of the zombie
+organism. He claimed it was the next stage
+
+325
+00:30:28,355 --> 00:30:34,079
+of human evolution and infected the other Fantastic
+Four members and had them feed on him to turn
+
+326
+00:30:34,099 --> 00:30:39,123
+him into a zombie as well. Damn. They ravaged
+the helicarrier and turned the other heroes
+
+327
+00:30:39,163 --> 00:30:45,408
+inside into zombies, including Hulk, Thor, Doctor
+Strange, and Storm. Meanwhile, virtually every
+
+328
+00:30:45,448 --> 00:30:49,932
+other hero began to fall to the plague during
+their rescue missions, including the X-Men
+
+329
+00:30:50,152 --> 00:30:56,597
+and Wolverine. Within 24 hours, nearly the whole
+of Earth's population was a zombie or dead.
+
+330
+00:30:57,058 --> 00:31:01,941
+The remaining zombified heroes reflected on
+the monsters they had become and the atrocities
+
+331
+00:31:01,961 --> 00:31:07,085
+they had committed, having eaten their friends,
+families, and those they were supposed to protect.
+
+332
+00:31:07,625 --> 00:31:12,389
+At that time, the Silver Surfer flew over the
+planet as a herald of the forthcoming Galactus
+
+333
+00:31:12,849 --> 00:31:17,173
+and the heroes saw their chance at their next
+meal. While contemplating how to get at the
+
+334
+00:31:17,213 --> 00:31:22,957
+Surfer, the Wasp found Ant-Man's secret Black
+Panther stash and he bit off her head to keep
+
+335
+00:31:23,017 --> 00:31:27,975
+it quiet. When the Silver Surfer landed to announce
+Galactus' imminent arrival, the group of zombie
+
+336
+00:31:27,995 --> 00:31:34,096
+heroes attacked and consumed the Herald, acquiring
+a portion of the Power Cosmic. These zombies,
+
+337
+00:31:34,316 --> 00:31:42,259
+including Hulk, Colonel America, Wolverine,
+Luke Cage, Spider-Man, Iron Man, and Ant-Man,
+
+338
+00:31:42,739 --> 00:31:47,480
+then fried the remaining zombie heroes with
+their cosmic energy to see if cooking their
+
+339
+00:31:47,520 --> 00:31:53,041
+zombie flesh made them edible. It didn't, and
+the Power Cosmic zombies found themselves again.
+
+340
+00:31:53,366 --> 00:31:59,150
+without a food source. That is, until Galactus
+himself arrived. Knowing there were no match
+
+341
+00:31:59,190 --> 00:32:04,495
+for the Devourer of Worlds, the Power Cosmic
+Zombies retreated to find a way to eat Galactus.
+
+342
+00:32:05,035 --> 00:32:11,160
+Meanwhile, Black Panther escaped Ant-Man's confinements
+with help from the Wasp's severed head. Together,
+
+343
+00:32:11,260 --> 00:32:16,484
+the two found their way to Asteroid M, where
+Magneto's acolytes still survived, and they
+
+344
+00:32:16,504 --> 00:32:21,348
+found there the Mutant Forge, who was able to
+fashion new artificial limbs for Black Panther.
+
+345
+00:32:23,074 --> 00:32:28,615
+The zombified Ant-Man, Iron Man, and Bruce Banner
+developed an amplifier device that would increase
+
+346
+00:32:28,655 --> 00:32:33,877
+the output of power cosmic energy directed into
+it. With the device, the zombies were able
+
+347
+00:32:33,917 --> 00:32:39,198
+to injure Galactus enough to topple him, though
+an army of villain zombies tried to fight them
+
+348
+00:32:39,238 --> 00:32:44,019
+for Galactus' flesh. Although Colonel America
+fell in the battle when the Red Skull pulled
+
+349
+00:32:44,059 --> 00:32:48,461
+his brain out through an opening in his skull,
+the other heroes were able to destroy the villains
+
+350
+00:32:48,861 --> 00:32:54,399
+and they feasted on Galactus as a reward. Now
+known as the Zombie Galacti, they left the
+
+351
+00:32:54,439 --> 00:33:00,503
+planet and journeyed across the universe, devouring
+every single life form. Meanwhile, on Earth,
+
+352
+00:33:00,644 --> 00:33:06,007
+the Kingpin used the Jackal's cloning tools
+to set up an economic system among the remaining
+
+353
+00:33:06,127 --> 00:33:11,371
+villain zombies where they did his bidding for
+the opportunity to feed on the clones. In an
+
+354
+00:33:11,431 --> 00:33:16,635
+effort to increase their food supply by invading
+other dimensions, Morbius and Deadpool travel
+
+355
+00:33:16,655 --> 00:33:20,897
+to the mainstream Marvel dimension through the
+nexus of all realities in the Florida Swamp.
+
+356
+00:33:21,282 --> 00:33:26,125
+Though Deadpool was reduced to just a head,
+Morbius was able to disguise himself as his
+
+357
+00:33:26,185 --> 00:33:31,169
+mainstream counterpart and pretended to work
+on a cure, but secretly planning to infect
+
+358
+00:33:31,309 --> 00:33:36,713
+all the heroes. Fortunately, Machine Man was
+able to save the mainstream Morbius, who in
+
+359
+00:33:36,773 --> 00:33:42,777
+turn recruited a new iteration of the Midnight
+Suns to combat and contain the virus. Decades
+
+360
+00:33:42,817 --> 00:33:48,021
+later, back in the zombie reality, the zombie
+Galacti returned to Earth after eating the
+
+361
+00:33:48,121 --> 00:33:53,823
+universe. Looking to use Tony Stark's dimensional
+portal device to invade other realities, they
+
+362
+00:33:53,863 --> 00:33:59,706
+discovered that Black Panther, Forge, and the
+Acolytes had rebuilt a small society of survivors
+
+363
+00:33:59,746 --> 00:34:05,608
+on Earth called New Wakanda. But more than that,
+they saw that the severed heads of the Wasp
+
+364
+00:34:05,748 --> 00:34:11,011
+and Hawkeye, after spending all this time not
+feeding on human flesh, had overcome their
+
+365
+00:34:11,051 --> 00:34:17,213
+hunger. Shocked, Spider-Man and Luke Cage turned
+on the other zombie galacti and joined New
+
+366
+00:34:17,233 --> 00:34:24,176
+Wakanda. which protected itself with an impenetrable
+force field. Hungry, the remaining zombie galacti
+
+367
+00:34:24,256 --> 00:34:28,978
+left New Wakanda and traveled to the Baxter
+Building to try and find the dimensional portal
+
+368
+00:34:29,098 --> 00:34:34,060
+before realizing it had been in New Wakanda
+this whole time. The New Wakandans prepared
+
+369
+00:34:34,080 --> 00:34:38,943
+for the zombies' return and for battle, revealing
+that Colonel America's brain had been rescued
+
+370
+00:34:39,123 --> 00:34:44,465
+and preserved in a new body. Though New Wakanda
+was unable to stop the zombie galacti from
+
+371
+00:34:44,525 --> 00:34:49,596
+getting through the force field, the zombies
+realized that they too had overcome their hunger
+
+372
+00:34:49,937 --> 00:34:56,082
+just prior to feasting. All the zombies that
+is, except for the Hulk, who in a rampage killed
+
+373
+00:34:56,142 --> 00:35:01,906
+Hawkeye, Iron Man, and several Wakandan citizens
+before reverting to Bruce Banner and begging
+
+374
+00:35:01,946 --> 00:35:08,752
+to be killed. The remaining zombies, Wolverine,
+Colonel America, Spider-Man, Luke Cage, Black
+
+375
+00:35:08,772 --> 00:35:14,577
+Panther, Ant-Man and the Wasp, helped rebuild
+New Wakanda. And though the crisis appeared
+
+376
+00:35:14,617 --> 00:35:19,853
+to be at an end, the zombies were ultimately
+betrayed by the New Akandans who didn't trust
+
+377
+00:35:19,873 --> 00:35:24,797
+the hunger to never return, and they were sent
+to another dimension using the Portal Device.
+
+378
+00:35:25,398 --> 00:35:30,101
+Scattered across a new universe and stripped
+of the power of cosmic, some zombies reverted
+
+379
+00:35:30,122 --> 00:35:35,066
+to their old ways such as Ant-Man, while others,
+like Spider-Man, tried to stop the disease
+
+380
+00:35:35,086 --> 00:35:40,470
+from spreading once again. Ultimately, all it
+took was Ant-Man biting the Hulk, who in turn
+
+381
+00:35:40,570 --> 00:35:46,335
+bit the Sentry, for this new dimension to fall
+like the last. the three largest alien races
+
+382
+00:35:46,475 --> 00:35:52,819
+in the universe. The Skrulls, Kree, and Shi'ar,
+led by Black Panther, the Wasp, and Luke Cage,
+
+383
+00:35:52,859 --> 00:35:58,343
+respectively, couldn't stop the disease. During
+a final stand between the good and bad zombies,
+
+384
+00:35:58,864 --> 00:36:03,707
+the Sentry was captured in the blue area of
+the moon, where Ant-Man tried to use him as
+
+385
+00:36:03,747 --> 00:36:09,872
+an energy source to power the Watcher's dimensional
+portal. There, Spider-Man unleashed a chemical
+
+386
+00:36:09,912 --> 00:36:15,426
+weapon he had created against the zombies, using
+his old foe the Sandman to spread and destroy
+
+387
+00:36:15,626 --> 00:36:21,028
+every last member of the undead remaining. With
+only the trapped Sentry left standing, the
+
+388
+00:36:21,068 --> 00:36:26,970
+cosmic being known as the Watcher teleported
+him back in time to another dimension, creating
+
+389
+00:36:27,030 --> 00:36:32,651
+a time loop between two realities, where the
+zombie virus would remain confined. The Sentry
+
+390
+00:36:33,172 --> 00:36:38,673
+landed in this new dimension above Manhattan,
+arriving with a flash in the sky and a ripple
+
+391
+00:36:38,693 --> 00:36:43,695
+through the clouds. And that's the Marvel Zombies
+backstory for this team duel, going with the
+
+392
+00:36:43,735 --> 00:36:48,896
+zombie Galacti, the group of zombies that devoured
+the Silver Surfer and Galactus, imbuing them
+
+393
+00:36:48,936 --> 00:36:56,278
+with the power cosmic. This includes Spider-Man,
+Wolverine, Hulk, Colonel America, Iron Man,
+
+394
+00:36:56,558 --> 00:37:01,219
+and Luke Cage. In addition to their regular
+powers, all of which you can learn more about
+
+395
+00:37:01,259 --> 00:37:07,201
+in their respective duel episodes, each of these
+zombies can fly at orbital speeds, fire devastating
+
+396
+00:37:07,301 --> 00:37:13,144
+power cosmic energy blasts, rearrange matter,
+and have a minor level of awareness at a cosmic
+
+397
+00:37:13,184 --> 00:37:17,987
+level which helped them locate life forms to
+consume. As zombies, they are tremendously
+
+398
+00:37:18,027 --> 00:37:22,731
+difficult to kill, and can only die if their
+brain is completely destroyed. The zombies'
+
+399
+00:37:22,771 --> 00:37:27,874
+teeth can apparently get through anything, as
+even people as durable as Luke Cage, the Silver
+
+400
+00:37:27,934 --> 00:37:32,877
+Surfer, and even Galactus were able to be bitten.
+Although they normally retain their intelligence,
+
+401
+00:37:33,238 --> 00:37:38,221
+the zombies start to lose rationality as they
+get hungrier and their minds become more obsessed
+
+402
+00:37:38,241 --> 00:37:43,217
+with eating. The hunger for living flesh itself
+is entirely mental, as even severed zombie
+
+403
+00:37:43,257 --> 00:37:49,282
+heads hungered. Though after weeks without food,
+the hunger would eventually dissipate. So again,
+
+404
+00:37:49,322 --> 00:37:55,947
+my roster is Spider-Man, Wolverine, Hulk, Colonel
+America, Iron Man, and Luke Cage. So I am confused.
+
+405
+00:37:55,987 --> 00:38:01,412
+What was the origin of the zombie virus? There
+was no origin. It's like a time paradox, basically.
+
+406
+00:38:01,752 --> 00:38:07,577
+The being that caused the virus in the first
+place was the sentry who was sent back in time
+
+407
+00:38:08,418 --> 00:38:13,840
+the Watcher after the zombie virus had already
+spread to that new universe. So it has no beginning
+
+408
+00:38:13,941 --> 00:38:21,985
+and no end really. That's dumb. The Marvel Zombies
+story was eventually rebooted within the last
+
+409
+00:38:22,025 --> 00:38:26,027
+few years, I think it was called Marvel Zombies
+Resurrection. And they kind of reimagined the
+
+410
+00:38:26,067 --> 00:38:33,131
+story as a virus sourced from diseased Galactus.
+Okay, but the Robert Kirkman story is the classic,
+
+411
+00:38:33,231 --> 00:38:38,082
+you know, that's the one that everybody knows
+and it's a fantastically dark story. Yeah,
+
+412
+00:38:38,102 --> 00:38:43,224
+I mean, it's freaking Robert Kirkman. I do love
+the fact that the title of it is Marvel Zombies,
+
+413
+00:38:43,285 --> 00:38:49,068
+which is a moniker bestowed upon anyone who
+reads only Marvel comics because they're just
+
+414
+00:38:49,108 --> 00:38:54,010
+so ridiculously devoted to the company and will
+only read that, even though there's better
+
+415
+00:38:54,051 --> 00:38:59,173
+shit out there from DC no less. Well, it doesn't
+surprise me that there are people who only
+
+416
+00:38:59,213 --> 00:39:03,516
+read Marvel because it's just better. There's
+no such term as a DC zombie because no one
+
+417
+00:39:03,556 --> 00:39:09,500
+out there reads just DC because it's not good
+enough. I mean. I only read DC. You DC zombie.
+
+418
+00:39:16,742 --> 00:39:22,045
+Alright, now that we've got the storylines and
+the rosters out of the way, let's speculate
+
+419
+00:39:22,205 --> 00:39:28,068
+on how one of these simulated matches will go.
+The winning team is determined by simulations,
+
+420
+00:39:28,508 --> 00:39:33,651
+not this speculation, but it's fun to imagine
+how the fight could play out. Alfred Jarvis9000,
+
+421
+00:39:34,431 --> 00:39:39,935
+what are the rules of our speculation? Well,
+I should say there are no rules, other than
+
+422
+00:39:39,975 --> 00:39:44,297
+the teams have no prior knowledge of the other
+going into the fight. All they are aware of
+
+423
+00:39:44,357 --> 00:39:48,823
+starting out... is that the other side is a
+threat that needs to be eliminated. For the
+
+424
+00:39:48,843 --> 00:39:53,984
+speculation, the groups will begin approximately
+50 meters apart in a nondescript environment
+
+425
+00:39:54,204 --> 00:39:58,765
+that will have no bearing on the match itself,
+as no environmental statistics are considered
+
+426
+00:39:58,785 --> 00:40:03,547
+in my simulations. The teams must earn victory
+on their own merit. Alright then let's get
+
+427
+00:40:03,567 --> 00:40:09,388
+into it. Deceased and the Marvel zombies meet
+on the battlefield, who goes first? All I know
+
+428
+00:40:09,408 --> 00:40:14,702
+is that first off, if the deceased are actually
+technically still alive, then that means they
+
+429
+00:40:14,722 --> 00:40:20,827
+are food for the Marvel zombies. And that is
+gonna get the Marvel zombies like really excited.
+
+430
+00:40:20,887 --> 00:40:26,811
+It's gonna send them to a ravenous glee. Okay,
+fine. That's fine. I'm gonna say the deceased
+
+431
+00:40:26,831 --> 00:40:33,056
+go first though, because we have a speedster
+on our team, the Flash. And he's just gonna
+
+432
+00:40:33,256 --> 00:40:38,340
+start off by running right up to the Hulk, since
+you know, he's a big burly guy, and he's gonna
+
+433
+00:40:38,420 --> 00:40:43,647
+phase his arm right into the Hulk's torso. just
+making a giant hole and spilling the Hulk's
+
+434
+00:40:43,747 --> 00:40:48,969
+guts out. Well, fortunately for the Hulk, he
+doesn't need guts to function. So he's gonna
+
+435
+00:40:49,049 --> 00:40:54,431
+react to the Flash's attack by grabbing the
+speedster's arm. And then when the Flash tries
+
+436
+00:40:54,451 --> 00:40:58,973
+to run away, he doesn't run away with the arm
+because Zombie Hulk just ripped that thing
+
+437
+00:40:59,133 --> 00:41:08,857
+off and then he eats it. Okay. I mean, the Flash
+is off using his speed force to heal his stump
+
+438
+00:41:09,017 --> 00:41:15,541
+arm now. And... The two teams are just gonna
+clash and Black Adam, he's gonna start by sending
+
+439
+00:41:15,741 --> 00:41:22,166
+a lightning bolt at let's say Wolverine because
+you know he's a conductor with his metal skeleton.
+
+440
+00:41:23,487 --> 00:41:27,649
+And that lightning is just gonna sizzle Wolverine
+to a burnt crisp. Again that's not gonna do
+
+441
+00:41:27,690 --> 00:41:31,892
+anything. Wolverine is just gonna smile, this
+charred smile. Actually, Marvel zombies are
+
+442
+00:41:31,912 --> 00:41:37,536
+probably always smiling because they don't have
+any lips, you know. But uh meanwhile Ant-Man
+
+443
+00:41:37,556 --> 00:41:43,196
+is gonna grow into Giant-Man. and he's going
+to stomp onto Martian Manhunter, pinning him
+
+444
+00:41:43,216 --> 00:41:48,960
+to the floor so he can grab him underneath his
+boot and then just devour him. Martian Manhunter,
+
+445
+00:41:49,040 --> 00:41:53,083
+he would just phase through the floor and just
+like leave Giant Man to wonder what the heck
+
+446
+00:41:53,103 --> 00:41:59,908
+just happened. Meanwhile, Wonder Woman, she's
+going to run through Spider-Man with her sword,
+
+447
+00:42:00,048 --> 00:42:04,251
+just impaling him at the torso. And then, you
+know, she's going to pull out the sword and
+
+448
+00:42:04,291 --> 00:42:10,075
+slice him again, this time just hacking him
+from shoulder to navel. Damn! That's pretty
+
+449
+00:42:10,115 --> 00:42:18,240
+violent. Fucking zombies. Iron Man sees this
+and he's gonna shoot a cosmic unibeam from
+
+450
+00:42:18,300 --> 00:42:24,484
+his armor and that's just gonna blast Wonder
+Woman away from Spider-Man who is gonna patch
+
+451
+00:42:24,544 --> 00:42:31,409
+his split in half upper body together with webbing.
+That's crazy. Yeah, it's like super glue. Okay,
+
+452
+00:42:31,789 --> 00:42:36,873
+meanwhile Superman and Hulk are gonna be going
+to blows with, you know, Hulk probably trying
+
+453
+00:42:36,913 --> 00:42:42,864
+to eat Superman. But Superman, he's going to
+keep him at bay by freezing the Hulk's lower
+
+454
+00:42:42,904 --> 00:42:48,067
+body with his freeze breath. And then he's just
+going to punch the Hulk's lower body right
+
+455
+00:42:48,167 --> 00:42:53,249
+off. So now the Hulk has no legs because they're
+just shattered. That's not like the big move
+
+456
+00:42:53,269 --> 00:43:00,453
+that you think it is. OK, but meanwhile, Luke
+Cage, he's going to pick up Wolverine and fastball
+
+457
+00:43:00,493 --> 00:43:09,114
+special him, hurling him at Big Barda. And Wolverine
+flies into Big Barda claws first. tackling
+
+458
+00:43:09,134 --> 00:43:12,856
+her to the ground, pinning her to the floor
+with his claws, and then he's gonna rip her
+
+459
+00:43:12,876 --> 00:43:18,280
+throat out with his teeth like a hungry wolf.
+Except that before Wolverine gets one bite
+
+460
+00:43:18,360 --> 00:43:25,105
+in, he's gonna get blasted off of Big Barda
+by Captain Adam, who's then gonna fire another
+
+461
+00:43:25,145 --> 00:43:31,109
+quantum blast at Colonel America that takes
+the top part of his skull right off, just exposing
+
+462
+00:43:31,149 --> 00:43:35,351
+his brain. Well, it probably only took off the
+top part of his head because Colonel America
+
+463
+00:43:35,392 --> 00:43:41,928
+was raising his shield up to his head. Um, so
+the Colonel actually redirects a large part
+
+464
+00:43:41,968 --> 00:43:47,653
+of Captain Adam's blast, reflecting the energy
+beam right into Black Adam blasting him. Okay.
+
+465
+00:43:47,773 --> 00:43:53,798
+I say that the deflected beam also severs one
+of Giant Man's legs because, you know, Colonel
+
+466
+00:43:53,818 --> 00:44:01,664
+America wasn't really aiming that well and Giant
+Man was such a massive target. Now, Big Barda,
+
+467
+00:44:01,744 --> 00:44:06,848
+she's going to leap up Giant Man's severed leg
+hole and she's going to explode out of his
+
+468
+00:44:06,928 --> 00:44:13,440
+chest with her Mega Rod. Jeez! How does that
+work? She leaps up his leg hole and explodes
+
+469
+00:44:13,460 --> 00:44:20,183
+at his chest? Yeah, she goes right into his
+mushy zombie body. Oh jeez. Okay, well at this
+
+470
+00:44:20,223 --> 00:44:27,546
+point, we'll say Superman is trying to use his
+heat vision to decapitate Luke Cage. But, you
+
+471
+00:44:27,566 --> 00:44:33,589
+know, Luke Cage isn't fazed because he has unbreakable
+skin. So Luke yanks Superman's cape and slams
+
+472
+00:44:33,629 --> 00:44:38,859
+him down to the ground and uh... With Superman
+pinned, Luke quickly shoves his thumbs into
+
+473
+00:44:38,939 --> 00:44:45,044
+Superman's eyes, just frying them out of his
+skull with his power cosmic. So Superman has
+
+474
+00:44:45,104 --> 00:44:51,668
+no eyes. He's blind and unable to stop Luke
+Cage from biting him. Dang! I mean, Superman
+
+475
+00:44:51,708 --> 00:44:58,353
+has other enhanced senses, so blindness wouldn't
+phase him too much. Although I guess like he
+
+476
+00:44:58,373 --> 00:45:03,537
+can't use his heat vision or x-ray vision or
+telescopic vision or anything like that anymore.
+
+477
+00:45:03,977 --> 00:45:10,186
+Exactly. But uh... Martian Manhunter, he's going
+to stop Luke Cage from biting Superman by transforming
+
+478
+00:45:10,246 --> 00:45:15,470
+into this like zombie demon monster with two
+heads and like a giant mouth where his stomach
+
+479
+00:45:15,570 --> 00:45:23,617
+is and he's going to just straight up swallow
+Luke Cage whole. Okay, but at that time Spider-Man
+
+480
+00:45:24,378 --> 00:45:28,681
+is going to fly over to Big Barda and she's
+probably going to try to blast him with her
+
+481
+00:45:28,721 --> 00:45:33,854
+mega rod, but he's going to use his Spidey sense
+to dodge and then get him behind her. close
+
+482
+00:45:33,874 --> 00:45:39,035
+enough to grab her back and then bite her in
+the shoulder. So now Barda is going to become
+
+483
+00:45:39,115 --> 00:45:45,237
+a zombie and is now part of team Marvel. Okay,
+I saw something like this coming and I have
+
+484
+00:45:45,257 --> 00:45:51,418
+a theory Marvel zombies. They retain their intelligence,
+right? They're just like overwhelmed with hunger,
+
+485
+00:45:51,898 --> 00:45:57,600
+but the anti-living have a hive mind. They're
+controlled by Erebus outside of the universe.
+
+486
+00:45:57,880 --> 00:46:02,961
+So it's not like their mind would be affected
+by the hunger and turning one of the DC guys
+
+487
+00:46:03,402 --> 00:46:09,365
+doesn't make them Team Marvel because technically,
+Erebus still knows that he needs to bring down
+
+488
+00:46:09,725 --> 00:46:15,688
+the Marvel zombies. So basically all you've
+done is give Barda added defense because now
+
+489
+00:46:15,708 --> 00:46:21,952
+she won't die if she like gets cut in half or
+whatever. No, no, no. The hunger overcomes
+
+490
+00:46:22,012 --> 00:46:26,654
+everything. Like Barda would be consumed by
+it. She would want to feast on whatever flesh
+
+491
+00:46:26,694 --> 00:46:33,198
+is nearby and the only flesh that's around is
+that of her DC teammates. Yeah, I mean, she'll
+
+492
+00:46:33,218 --> 00:46:39,681
+want to feast, but she won't because Erebus
+is in control. And he's an elder deity, way
+
+493
+00:46:39,701 --> 00:46:45,705
+more powerful than this hunger. Well, maybe
+Erebus's mind succumbs to the hunger when she's
+
+494
+00:46:45,745 --> 00:46:52,188
+bitten. Probably not, unless the Marvel zombie
+virus can be spread mentally, like telepathically.
+
+495
+00:46:52,208 --> 00:46:57,751
+No, it only spreads physically, but the Marvel
+zombies aren't going to stop trying to feed
+
+496
+00:46:57,791 --> 00:47:02,950
+on the DCs just because the DC guys aren't joining
+their side, but- If they bite them, then that
+
+497
+00:47:02,990 --> 00:47:08,535
+means all they're doing is just making the DC
+guys more unkillable. Right. But I guess not
+
+498
+00:47:08,595 --> 00:47:13,419
+totally unkillable because the Marvel zombies
+do know about the brain weakness, whereas the
+
+499
+00:47:13,659 --> 00:47:20,685
+DC guys wouldn't. That's true. That's true.
+OK, so we'll say that, yes, the Marvel guys
+
+500
+00:47:20,725 --> 00:47:27,131
+can turn DC guys into zombies, but it's not
+going to turn the DC guys onto Team Marvel.
+
+501
+00:47:27,491 --> 00:47:32,586
+Exactly. It's not going to make them feed on
+their teammates. So we'll say that Bart is
+
+502
+00:47:32,626 --> 00:47:38,829
+a zombie now. And the first thing she's gonna
+do is she's gonna leap onto Iron Man, who's
+
+503
+00:47:39,109 --> 00:47:44,991
+flying around and she's gonna drive her mega
+rod right into his chest reactor and upload
+
+504
+00:47:45,071 --> 00:47:51,914
+the anti-light virus into his armor. And since
+this is a techno-organic virus that also infects
+
+505
+00:47:51,934 --> 00:47:58,537
+technology, Erebus now has control over Iron
+Man and he's going to use him to repulsor blast
+
+506
+00:47:58,557 --> 00:48:06,302
+the shit out of Spider-Man. What? So I can't
+make Barda team Marvel, but you can make Iron
+
+507
+00:48:06,322 --> 00:48:13,267
+Man team DC. Yep. What the fuck? Technically,
+it's Iron Man's armor, not Tony Stark. That's
+
+508
+00:48:13,287 --> 00:48:19,571
+infected. OK, that's true. Yeah, Tony Stark
+is the one who's cosmically powered, not the
+
+509
+00:48:19,711 --> 00:48:25,155
+armor. So realizing that he lost control of
+the Iron Man armor, Tony's going to use the
+
+510
+00:48:25,196 --> 00:48:30,066
+power cosmic to expel the suit from his body.
+and then he's gonna destroy the armor with
+
+511
+00:48:30,106 --> 00:48:36,828
+a cosmic blast. Fuck! So that's pretty easy.
+And then the Hulk, he's using power cosmic
+
+512
+00:48:36,908 --> 00:48:43,310
+to fly, even though he's missing his lower legs,
+his lower half. He's basically just a flying
+
+513
+00:48:43,410 --> 00:48:48,792
+upper torso. He's gonna grab Black Adam out
+of the air and take a big bite out of his leg,
+
+514
+00:48:48,832 --> 00:48:54,353
+just ripping out his quad muscles with his teeth.
+So now Black Adam's a zombie. And that's fine,
+
+515
+00:48:54,413 --> 00:48:59,577
+like. Go ahead and make my guys more powerful.
+I'm OK with that. Black Adam, you know, he's
+
+516
+00:48:59,617 --> 00:49:04,602
+just going to respond to anyway by grabbing
+Hulk's skull with both hands and electrocuting
+
+517
+00:49:04,642 --> 00:49:09,206
+it with such a strong current that it's going
+to cause Hulk's brain and head to explode,
+
+518
+00:49:09,506 --> 00:49:17,593
+killing him. So Zombie Hulk is dead. OK, um,
+I think by this point, like, Ant-Man is going
+
+519
+00:49:17,613 --> 00:49:23,690
+to be like, guys, biting these people isn't
+transferring the hunger. because that's probably
+
+520
+00:49:23,730 --> 00:49:28,471
+what they would think, not knowing that, you
+know, the other zombies are a hive mind. But
+
+521
+00:49:28,531 --> 00:49:31,312
+like, I don't know if the team would actually
+care. Like Wolverine is probably going to be
+
+522
+00:49:31,352 --> 00:49:38,835
+like, who cares? Eat to kill, you know? So don't
+just turn them, devour them. So he's going
+
+523
+00:49:38,855 --> 00:49:44,116
+to fly over to Captain Adam and just plunge
+his claws and teeth into him. Dude, that's
+
+524
+00:49:44,136 --> 00:49:48,534
+like the dumbest thing you could have done.
+Breaching Captain Adam's skin. is only going
+
+525
+00:49:48,554 --> 00:49:53,637
+to make him explode. So like Wolverine, he just
+gets evaporated at the atomic level, meaning
+
+526
+00:49:53,657 --> 00:49:59,201
+he just basically took himself out. Shit. Well,
+as long as he takes Captain Adam with him,
+
+527
+00:49:59,702 --> 00:50:06,306
+that's fine, I guess. Meanwhile, Luke Cage is
+going to burst out of Martian Manhunter. He
+
+528
+00:50:06,346 --> 00:50:12,070
+basically ate his way out of Martian Manhunter's
+body, turning Martian Manhunter into a zombie.
+
+529
+00:50:12,391 --> 00:50:18,034
+But also Martian Manhunter is like missing like
+half of his body mass. It's all in Luke Cage's
+
+530
+00:50:18,054 --> 00:50:24,039
+stomach now. I was going to argue that like
+there's no way Martian Manhunter would have
+
+531
+00:50:24,240 --> 00:50:30,825
+felt half of his body being eaten, but I guess
+you know the deceased don't feel pain. So sure,
+
+532
+00:50:31,325 --> 00:50:36,310
+doesn't matter though, because Martian Manhunter
+is going to psychically induce vomiting in
+
+533
+00:50:36,350 --> 00:50:43,195
+Luke Cage and reabsorb that mass. All right.
+Meanwhile, the Flash is going to clothesline
+
+534
+00:50:43,215 --> 00:50:50,092
+Tony Stark at full speed with his good arm.
+and just decapitate him. Okay, Tony Stark has
+
+535
+00:50:50,112 --> 00:50:55,695
+a severed head, but the severed head is still
+alive. And it's gonna fly right back at the
+
+536
+00:50:55,735 --> 00:51:01,238
+Flash chasing Kim and then chomping down on
+his heel and ripping out the Flash's Achilles
+
+537
+00:51:01,298 --> 00:51:08,081
+tendon, all sinewy, you know? So Flash can't
+run anymore, he trips, he's down on the ground,
+
+538
+00:51:08,242 --> 00:51:13,524
+and then Tony Stark's head is gonna chew through
+Flash's face until it gets to the brains, and
+
+539
+00:51:13,544 --> 00:51:21,880
+then he's just gonna suck up the brains. So
+flash is out and Colonel America, he's going
+
+540
+00:51:21,900 --> 00:51:27,002
+to throw a power cosmically energized shield
+right into Superman's face, who can't see it
+
+541
+00:51:27,042 --> 00:51:33,565
+coming because he's got no eyes. No, but I mean,
+he has ears so he could hear the shield coming
+
+542
+00:51:34,085 --> 00:51:38,707
+and he's just going to catch it with his metal
+arm. And then he's just going to rip that shit
+
+543
+00:51:38,747 --> 00:51:44,566
+right in half because he's fucking Superman.
+What? And, you know, by smelling. Colonel America's
+
+544
+00:51:44,726 --> 00:51:50,109
+rotting corpse, he rushes over to him at super
+speed, just jamming his fingers right into
+
+545
+00:51:50,149 --> 00:51:55,733
+his face and ripping it wide open, just sending
+pieces of skull and brain matter all over everywhere.
+
+546
+00:51:56,213 --> 00:52:04,118
+That was hardcore. Damn. All right, well, Ant-Man
+saw Superman do this and he shrunk down from
+
+547
+00:52:04,198 --> 00:52:10,101
+giant man size to miniature size since Superman
+doesn't have microscopic vision anymore to
+
+548
+00:52:10,161 --> 00:52:14,940
+sense him. and Ant-Man leaps into Superman's
+head through one of the exposed eye sockets,
+
+549
+00:52:15,401 --> 00:52:20,764
+and then he fries Superman's brain with cosmic
+energy, just causing it to melt and then leak
+
+550
+00:52:20,825 --> 00:52:25,868
+out of Superman's eye holes and like ear holes
+and nose, just all the holes on his face, his
+
+551
+00:52:25,908 --> 00:52:34,554
+brain is just oozing out. Jeez. Okay, dang.
+Meanwhile, one Roman sees Tony Stark's head
+
+552
+00:52:34,594 --> 00:52:40,114
+flying around, which is like pure nightmare
+fuel, by the way, and- She's going to be able
+
+553
+00:52:40,134 --> 00:52:45,179
+to expertly lasso it and yank it towards her.
+At which point she just thrusts her sword right
+
+554
+00:52:45,259 --> 00:52:49,763
+through his skull and through his brain, just
+killing him. All right. Good one. Good one.
+
+555
+00:52:50,504 --> 00:52:56,269
+Meanwhile, Spider-Man, he's going to swing over
+to Martian Man Hunter who, you know, reformed
+
+556
+00:52:56,309 --> 00:53:01,454
+his body from Luke Cage's puke. And now it's
+back into like his standard form, though, you
+
+557
+00:53:01,474 --> 00:53:06,470
+know, of course, Martian Man Hunter is missing
+his lips now that he's a zombie, but Spider-Man
+
+558
+00:53:06,550 --> 00:53:11,974
+is gonna slap his hand on top of Martian Manhunter's
+head and he sticks it there and with a powerful
+
+559
+00:53:12,074 --> 00:53:18,238
+yank He essentially scalps Martian Manhunter
+like exposing his brain Which Spider-Man then
+
+560
+00:53:18,278 --> 00:53:26,063
+incinerates with a power cosmic blast so Martian
+Manhunter is out and then Luke Cage and Barda
+
+561
+00:53:26,603 --> 00:53:31,927
+are gonna get into like this energy blast To
+go board type match with Luke Cage firing cosmic
+
+562
+00:53:31,967 --> 00:53:37,074
+energy at Big Barda and Big Barda firing mega
+rod energy And for a while it seems like it's
+
+563
+00:53:37,094 --> 00:53:42,818
+gonna be a stalemate, but eventually Luke Cage
+is gonna overpower her energy and take control
+
+564
+00:53:42,978 --> 00:53:48,941
+of her mega rod telekinetically and just send
+it right through her forehead and it just lodges
+
+565
+00:53:48,981 --> 00:53:55,305
+there. Wait, the Pyrocosmic gives him telekinesis?
+Yeah, in a sense. Like, the Cosmic energy can
+
+566
+00:53:55,405 --> 00:54:02,029
+not only fire energy blasts, but it can rearrange
+matter and stuff. Fuck. Okay, well, while that
+
+567
+00:54:02,069 --> 00:54:07,099
+was happening... Black Adam saw what Spider-Man
+did to Martian Manhunter. So, you know, while
+
+568
+00:54:07,139 --> 00:54:11,540
+Spider-Man is probably dodging Black Adam's
+lightning bolts with the spider sense, it's
+
+569
+00:54:11,560 --> 00:54:16,801
+all just a distraction for Black Adam to move
+in fast enough. And you know, now that he's
+
+570
+00:54:16,821 --> 00:54:22,943
+a zombie, thanks to the Hulk, Black Adam's gonna
+devour Spider-Man and absorb his power cosmic.
+
+571
+00:54:23,423 --> 00:54:30,465
+That's how that works, right? Uh, we'll say
+no. Why? The eight silver surfer, right? And
+
+572
+00:54:30,485 --> 00:54:37,509
+absorbed his power? Sure. Okay. Alright, so
+Black Adam gets the power of cosmic from Spider-Man,
+
+573
+00:54:37,830 --> 00:54:42,354
+but Black Adam would find eating Spider-Man
+disgusting though because zombies can't really
+
+574
+00:54:42,414 --> 00:54:47,718
+tolerate the flesh of other zombies. So while
+Black Adam's like retching from Spidey's zombie
+
+575
+00:54:47,738 --> 00:54:54,724
+flesh, Ant-Man is going to grow back into Giant-Man,
+just like massive, bigger than he's ever gotten
+
+576
+00:54:55,144 --> 00:54:59,568
+with help from the power of cosmic. He grows
+to like the size of Galactus, you know, and
+
+577
+00:54:59,608 --> 00:55:04,758
+he's going to grab Black Adam. Like he's a frickin
+toothpick and just bite down on his head and
+
+578
+00:55:05,439 --> 00:55:11,200
+yank it from his shoulders like a piece of taffy.
+And just grind up Black Adam's brain and skull
+
+579
+00:55:11,240 --> 00:55:17,722
+up in his molars. You didn't even let me use
+the power. I can't use Iron Man's suit. I can't
+
+580
+00:55:17,822 --> 00:55:25,404
+use Black Adam's power cosmic. Come on. I guess
+I just have Wonder Woman left as my last woman
+
+581
+00:55:25,444 --> 00:55:30,165
+standing as it were. And at this point, you
+know, she's probably going up against Luke
+
+582
+00:55:30,185 --> 00:55:36,908
+Cage. Uh, now a normal sword wouldn't be able
+to break Luke Cage's skin, but Wonder Woman's
+
+583
+00:55:36,948 --> 00:55:43,090
+Kryptonite sword is also magically imbued, so
+that Superman would be weak to it. And I'm
+
+584
+00:55:43,110 --> 00:55:49,353
+guessing Luke Cage also has no defense against
+magic blades either. So as their trading blows,
+
+585
+00:55:49,713 --> 00:55:54,255
+I'm going to say that Wonder Woman managed to
+slice him right in half with her sword, scalp
+
+586
+00:55:54,295 --> 00:55:59,557
+to scrote, just cleaving his brain right down
+the middle vertically. All right. She cuts
+
+587
+00:55:59,737 --> 00:56:05,292
+Luke Cage in half. So it's down to Ant-Man and
+Wonder Woman, but not just Ant-Man and Wonder
+
+588
+00:56:05,312 --> 00:56:11,335
+Woman, because Ant-Man, he's gonna have a whole
+ass army behind him of giant ants, you know?
+
+589
+00:56:11,355 --> 00:56:17,479
+What? And these are ants that he's weaponized
+by experimenting on them with the zombie virus.
+
+590
+00:56:17,939 --> 00:56:23,822
+So he has this legion of like ravenous zombie
+insects that he commands to just swarm over
+
+591
+00:56:23,882 --> 00:56:30,770
+Wonder Woman and they tear her limb from limb
+and yeah, victory for the Marvel zombies. Where
+
+592
+00:56:30,790 --> 00:56:36,011
+the fuck did all the insects come from? They
+were shrunk down in one of his little pockets
+
+593
+00:56:36,151 --> 00:56:40,852
+on his belt. Well, you know how Captain Atom
+exploded earlier? Whenever that happens in
+
+594
+00:56:40,892 --> 00:56:47,474
+the comics, he's just propelled into the future.
+And so right after Wonder Woman is fully devoured
+
+595
+00:56:47,714 --> 00:56:52,976
+by the insects, that's when Captain Atom appears.
+And then he's just gonna generate a massive
+
+596
+00:56:53,036 --> 00:56:59,517
+explosion that annihilates all of the insects
+and Ant-Man. Boom, victory for the deceased.
+
+597
+00:57:00,326 --> 00:57:05,348
+I think that's a good counter. OK, that's bullshit.
+The whole time travel thing. But we can leave
+
+598
+00:57:05,388 --> 00:57:09,571
+it there. So either one of two things happens
+in this scenario, depending on the results.
+
+599
+00:57:10,051 --> 00:57:16,574
+Either Captain Adam gets blasted into the future
+at the end of this match or he doesn't and
+
+600
+00:57:16,655 --> 00:57:22,158
+Wonder Woman gets devoured by ants. I mean,
+why wouldn't he, though, you know? All right,
+
+601
+00:57:22,178 --> 00:57:27,160
+let's go ahead and put in the stats for these
+teams. We're going to run 49000 simulations
+
+602
+00:57:27,360 --> 00:57:32,704
+in a matrix style comparison. between all the
+characters and we'll be back with a winner.
+
+603
+00:57:33,264 --> 00:57:41,651
+AJ9K, hit it. Inputting data, running calculations,
+processing results, simulations complete. All
+
+604
+00:57:41,671 --> 00:57:47,355
+right, this was a fun matchup. This was a lot
+of fun, actually. Yeah, the goal was to at
+
+605
+00:57:47,455 --> 00:57:52,779
+some point make people sick to their stomach
+while listening to the speculation. So if we
+
+606
+00:57:52,799 --> 00:57:59,148
+were successful in that, I think we did our
+jobs here. Stat-wise, the teams were pretty
+
+607
+00:57:59,228 --> 00:58:05,214
+interesting. I think especially the Marvel zombies,
+considering the fact that they had increased
+
+608
+00:58:05,314 --> 00:58:09,798
+durability from the fact that even if they're
+injured, they could essentially still keep
+
+609
+00:58:09,878 --> 00:58:14,662
+moving and fighting. Right, their only weak
+spot is their brain. But not only are they
+
+610
+00:58:14,722 --> 00:58:20,167
+all highly durable like that, they're also insanely
+fast thanks to the power cosmic. Their damage
+
+611
+00:58:20,207 --> 00:58:24,830
+level is really high as well as their range.
+Yeah, I was pretty nervous about that until
+
+612
+00:58:25,030 --> 00:58:30,713
+I looked at my lineup and realized, you know,
+all of my guys are pretty powerful even without
+
+613
+00:58:30,733 --> 00:58:34,775
+the power of cosmic. You know, Superman, Wonder
+Woman, Black Adam, Martian Manhunter, those
+
+614
+00:58:34,815 --> 00:58:40,258
+are among the strongest characters in DC to
+begin with. It's just that as the anti-living,
+
+615
+00:58:40,798 --> 00:58:45,560
+it's sort of like no holds barred. There's no
+like restraints on them. Yeah, but their minds
+
+616
+00:58:45,600 --> 00:58:52,084
+are also all gone, replaced by the will of Erebus.
+So all of the deceased got a knock on the intelligence
+
+617
+00:58:52,104 --> 00:58:57,327
+stat, whereas the Marvel zombies all retained
+their normal intelligence. And that was actually
+
+618
+00:58:57,828 --> 00:59:03,191
+the greatest variance in all of the stat categories
+between the two teams, because a lot of the
+
+619
+00:59:03,311 --> 00:59:10,316
+Marvel zombies are really smart, including Iron
+Man, Spider-Man, Hulk, Ant-Man. Yes, yes, stat
+
+620
+00:59:10,356 --> 00:59:14,499
+wise, the Marvel zombies are pretty impressive.
+But, you know, I could say the same thing about
+
+621
+00:59:14,539 --> 00:59:20,475
+the deceased. So taking all of the stats into
+account. Joseph, who do you think came out
+
+622
+00:59:20,515 --> 00:59:26,239
+on top? Marvel zombies because they can last
+longer in battle and they have the power cosmic,
+
+623
+00:59:26,559 --> 00:59:33,084
+which you don't fuck with. Although the Instagram
+poll takers don't agree with me. Actually 55%
+
+624
+00:59:33,104 --> 00:59:38,367
+of them on Instagram said that DC East was gonna
+take this. Again, I have to chalk this up to
+
+625
+00:59:38,547 --> 00:59:45,813
+too many damn DC fans following us on Instagram.
+Marvel guys, have a seat, sit down. Okay, we
+
+626
+00:59:45,833 --> 00:59:50,866
+gotta have a talk. You guys gotta, you guys
+gotta show up. I'm just, I'm just gonna say
+
+627
+00:59:50,886 --> 00:59:55,128
+you gotta show up, you gotta follow us on Instagram,
+you gotta take part in the polls, we gotta
+
+628
+00:59:55,148 --> 01:00:01,109
+start winning these voting contests because
+the DC guys are showing you guys up, right?
+
+629
+01:00:01,149 --> 01:00:05,711
+Dude, I was actually really surprised to see
+that more people voted for deceased considering
+
+630
+01:00:05,751 --> 01:00:10,152
+the fact that I feel like Marvel Zombies is
+really popular, even going so far as to have
+
+631
+01:00:10,172 --> 01:00:14,753
+their own episode in What If. Yeah, you and
+me both, you and me both. Well, let's find
+
+632
+01:00:14,793 --> 01:00:21,373
+out who actually won. AG 9K, the results please.
+Hey, you are, sir. All right. The winner of
+
+633
+01:00:21,413 --> 01:00:32,821
+the team duel between the deceased and the Marvel
+zombies is. Deceased. Fuck you. What? And,
+
+634
+01:00:33,121 --> 01:00:39,406
+you know, for as different as the teams were,
+it was close. The deceased one in even five
+
+635
+01:00:39,446 --> 01:00:46,122
+hundred and thirty of the one thousand matches
+or 53 percent compared to Marvel's. 47 percent.
+
+636
+01:00:46,483 --> 01:00:51,766
+So Marvel won 470 matches out of a thousand.
+Right. And honestly, I'm not going to lie.
+
+637
+01:00:52,347 --> 01:00:59,632
+I'm going to chalk this win up to the excellent
+roster choices made by our executive producers.
+
+638
+01:01:00,192 --> 01:01:04,015
+Well, like I told them that they didn't stand
+a chance because all the Marvel zombies had
+
+639
+01:01:04,035 --> 01:01:07,918
+the power of cosmic. So I feel like they just
+had to pick the most powerful people they could
+
+640
+01:01:07,958 --> 01:01:12,601
+think of. Yeah. And that's essentially what
+I have on my roster, which I'm pretty proud
+
+641
+01:01:12,661 --> 01:01:18,818
+of. And I have to wholeheartedly dedicate this
+win to our executive producers for their fantastic
+
+642
+01:01:18,838 --> 01:01:24,763
+work. I think we should replace Marsha Manhunter
+and Big Barda and Black Adam with Green Arrow
+
+643
+01:01:25,003 --> 01:01:30,928
+and The Question and Oracle. Then let's rerun
+the stats. I don't remember The Question being
+
+644
+01:01:30,968 --> 01:01:36,553
+in the series, but Batgirl was, Green Arrow
+was, they were both zombies, but Batgirl was
+
+645
+01:01:36,573 --> 01:01:41,957
+killed right away by Harley Quinn. And Green
+Arrow was not a zombie for very long. Before
+
+646
+01:01:41,977 --> 01:01:47,965
+he was cured? Yeah, he was cured. Okay, interesting.
+Well, I'm starting to regret this whole team
+
+647
+01:01:47,985 --> 01:01:54,850
+duel now. And all around winning for Team DC.
+Good job. That was a really fun match, but
+
+648
+01:01:54,870 --> 01:01:58,513
+that does it for this duel. Let us know what
+you thought about the results by writing to
+
+649
+01:01:58,613 --> 01:02:05,378
+us at dynamicduelpodcast.gmail.com or by visiting
+us on Instagram or X. You can find links to
+
+650
+01:02:05,518 --> 01:02:10,361
+all of our accounts by checking out our show
+notes or visiting our website at dynamicduel.com.
+
+651
+01:02:11,514 --> 01:02:15,475
+And on our site, you can also find a link to
+our Patreon page where you could join our Dynamic
+
+652
+01:02:15,515 --> 01:02:19,817
+Duo tier and chat with us and fellow listeners.
+Our Fantastic Four tier, which gives you bonus
+
+653
+01:02:19,857 --> 01:02:23,839
+content each month. Our X-Force tier that makes
+you an executive producer of this podcast.
+
+654
+01:02:24,319 --> 01:02:29,321
+Or our newest tier that lets you join our Dynamike
+Podcast Network. If you can't join Patreon,
+
+655
+01:02:29,341 --> 01:02:34,163
+you can still support the show by signing up
+for our e-newsletter also at dynamicduel.com
+
+656
+01:02:34,843 --> 01:02:39,765
+so you'll never miss an episode. Or you could
+also rate the show on Apple Podcasts, Spotify,
+
+657
+01:02:40,045 --> 01:02:46,093
+Podchaser. or on our website. Our next episode
+is going to be another duel episode in lead
+
+658
+01:02:46,133 --> 01:02:51,557
+up to the Marvel's movie review which comes
+out in a few weeks. We're going to do a cosmic
+
+659
+01:02:51,617 --> 01:02:57,362
+level duel pitting the villains of Mongol against
+Annihilus. Yeah, that's going to be an awesome
+
+660
+01:02:57,382 --> 01:03:03,026
+matchup. I can't wait for that. But that does
+it for this episode and for Spooktober as a
+
+661
+01:03:03,086 --> 01:03:08,426
+whole. We hope you guys had a lot of fun this
+month. We sure did. Thanks for tuning in. Yen,
+
+662
+01:03:08,466 --> 01:03:13,307
+big thanks to our executive producers Ken Johnson,
+John Storowski, Zachary Hepburn, Dustin Belcombe,
+
+663
+01:03:13,447 --> 01:03:18,989
+Miggy Mattinghian, Brandon Estergard, Nathaniel
+Wagner, Levi Yeaton, Nick Abato, Austin Wazilowski,
+
+664
+01:03:19,209 --> 01:03:25,151
+AJ Dunkerley, Scott Camacho, Adam Spies, and
+Andrew Schonk for helping to make this podcast
+
+665
+01:03:25,191 --> 01:03:30,693
+possible. We'll talk to you guys next week.
+Up up and away, true believers. Take car, go
+
+666
+01:03:30,713 --> 01:03:34,974
+to mum's, kill Phil, sorry. Grab Liz, go to
+the Winchester, have a nice cold pint and wait
+
+667
+01:03:34,995 --> 01:03:36,135
+for all of this to blow over.
+
