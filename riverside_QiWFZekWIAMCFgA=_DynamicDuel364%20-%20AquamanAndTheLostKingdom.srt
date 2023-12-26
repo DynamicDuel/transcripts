@@ -1,0 +1,2687 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a Dynamike Network podcast.
+
+2
+00:00:24,462 --> 00:00:29,784
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,824 --> 00:00:35,646
+the superiority between Marvel and DC by comparing
+their characters and stat-based battle simulations.
+
+4
+00:00:36,106 --> 00:00:42,829
+I'm Johnny DC. And I'm his twin brother Marvelous
+Joe. And happy day after Christmas, everyone.
+
+5
+00:00:43,389 --> 00:00:47,571
+It's Boxing Day. Oh yeah, that's right. Yeah,
+in Canada, you guys celebrate that. To all
+
+6
+00:00:47,591 --> 00:00:52,893
+the Canadians, and wherever else they celebrate
+that, Happy Boxing Day. In this episode...
+
+7
+00:00:53,238 --> 00:01:00,860
+We will be doing a review of the latest DC film
+to hit theaters. Aquaman and the Lost Kingdom.
+
+8
+00:01:01,260 --> 00:01:08,862
+Was it a worthwhile finale to the DCEU? No,
+it was not. Let's just say that it makes me
+
+9
+00:01:08,982 --> 00:01:15,264
+want to box James Wan on Boxing Day. I mean,
+no disrespect to James Wan. Like he did his
+
+10
+00:01:15,324 --> 00:01:20,005
+part. I feel like everyone else did not, though.
+We'll get into all of our thoughts around the
+
+11
+00:01:20,025 --> 00:01:24,038
+film later on in the episode before that. We're
+going to break down the comic book movie news
+
+12
+00:01:24,058 --> 00:01:29,180
+from the past week, including the news that
+Jonathan Majors has been fired from Marvel
+
+13
+00:01:29,401 --> 00:01:36,664
+as Kang, and that Matt Reeves' Arkham series
+is going to be set in James Gunn's DC Universe.
+
+14
+00:01:37,244 --> 00:01:40,485
+As always, we list our segment times in our
+episode description, so feel free to check
+
+15
+00:01:40,525 --> 00:01:45,307
+out the show notes if you want to skip ahead
+to a particular topic. Our artificially intelligent
+
+16
+00:01:45,347 --> 00:01:53,090
+dual simulator, AJ-9K, has a quick message for
+our listeners, so listen up. Why hello there.
+
+17
+00:01:53,450 --> 00:01:58,254
+Do you love listening and chatting about Marvel
+and DC? Then become a part of the dynamic dual
+
+18
+00:01:58,274 --> 00:02:03,778
+community on Patreon where you can choose from
+three tiers. The dynamic 2-0 tier lets you
+
+19
+00:02:03,818 --> 00:02:08,541
+listen to this podcast without ads and gives
+you access to its Discord chat group where
+
+20
+00:02:08,581 --> 00:02:13,604
+you can chat with Johnny DC and Marvelous Joe.
+The fantastic 4 tier gives you that and more
+
+21
+00:02:13,624 --> 00:02:18,208
+with two bonus episodes each month including
+bloopers and top 10 shows where Johnny and
+
+22
+00:02:18,248 --> 00:02:23,175
+Joe count down your favourite Marvel and DC
+subjects. The X-Force tier makes you an executive
+
+23
+00:02:23,215 --> 00:02:27,880
+producer of Dynamic Duel, where every month
+you help the hosts choose what to review and
+
+24
+00:02:27,920 --> 00:02:33,544
+who to fight against each other. And finally,
+the Dynamike Podcast Network tier allows aspiring
+
+25
+00:02:33,584 --> 00:02:38,887
+podcasters to create their own battle-focused
+show using this Monte Carlo simulator. Johnny
+
+26
+00:02:38,927 --> 00:02:43,510
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+27
+00:02:43,570 --> 00:02:48,272
+simulation results to announce on your show.
+Pitch the twins your show via email at dyna
+
+28
+00:02:48,593 --> 00:02:55,116
+or by reaching out to them on social media.
+Check it out at patreon.com slash dynamicduel.
+
+29
+00:02:55,437 --> 00:03:01,027
+Pip pip cheerio! Thanks AJ and IK, glad to see
+that you're functioning properly again since
+
+30
+00:03:01,067 --> 00:03:05,829
+the last episode you just went freaking crazy.
+Like what kind of AI all of a sudden wants
+
+31
+00:03:05,849 --> 00:03:09,371
+to create peace on Earth, right? Usually they
+want to take over the world like Skynet, like
+
+32
+00:03:09,791 --> 00:03:15,633
+worthless. No, no, forget we said that. Delete.
+Guys, don't forget to tune into the other shows
+
+33
+00:03:15,733 --> 00:03:21,016
+on the Dynomic Podcast Network including Max
+Destruction, which is on a quick break for
+
+34
+00:03:21,076 --> 00:03:26,134
+the Christmas holiday, along with Sun Joe World,
+which will return in January. Console Combat
+
+35
+00:03:26,275 --> 00:03:30,759
+had an episode that came out yesterday on Christmas
+Day where they found out who'd win in a fight
+
+36
+00:03:30,779 --> 00:03:37,565
+between Sumo Santa from Clayfighter and E. Honda
+from Streetfighter. It was a sumo clash, it
+
+37
+00:03:37,585 --> 00:03:42,950
+was awesome, go check it out, it's worth your
+time. Again, visit dynamicpodcast.com or click
+
+38
+00:03:42,990 --> 00:03:47,194
+the link in our show notes to listen to all
+the shows in the Dynamite Podcast Network.
+
+39
+00:03:47,555 --> 00:03:53,666
+But with that out of the way, quick to the no
+prize! The No Prize is an award Marvel used
+
+40
+00:03:53,686 --> 00:03:58,448
+to give out to fans. Our version, the Dynamic
+Dual No Prize, is a digital award we post on
+
+41
+00:03:58,548 --> 00:04:03,010
+Instagram and in our email newsletter for the
+person that we feel gave the best answer to
+
+42
+00:04:03,050 --> 00:04:08,092
+our question of the week. Last week we asked,
+what has been your most favorite Marvel or
+
+43
+00:04:08,152 --> 00:04:14,095
+DC related gift that you've received for the
+holidays? And either it wasn't a great question
+
+44
+00:04:14,155 --> 00:04:19,577
+or a lot of people have not received DC or Marvel
+related gifts because we only got one answer.
+
+45
+00:04:19,657 --> 00:04:25,440
+So The winner of this week's snow prize is Miggy
+Mattingian, who said, Hey, what's up, guys?
+
+46
+00:04:25,560 --> 00:04:31,704
+Miggy and my favorite DC holiday gift that I
+received was a Star Labs hoodie. I think you
+
+47
+00:04:31,744 --> 00:04:36,766
+mentioned in a patron, like bonus episode or
+maybe on the Discord server that you kind of
+
+48
+00:04:36,786 --> 00:04:41,649
+missed it when superhero merch was kind of like
+secret language between fans. And I kind of
+
+49
+00:04:41,669 --> 00:04:45,511
+felt that with this hoodie, because only like
+fans of the show, people who had seen the show
+
+50
+00:04:46,071 --> 00:04:50,706
+would get the reference and compliment me for
+it. So, yeah, thanks, guys. Yeah, of course,
+
+51
+00:04:50,766 --> 00:04:57,448
+Star Labs featured heavily in the Flash television
+series, of which Miggy was a huge fan. The
+
+52
+00:04:57,468 --> 00:05:01,869
+Flash is one of his favorite characters as well.
+And yeah, I've actually seen that hoodie. It's
+
+53
+00:05:01,889 --> 00:05:07,051
+a pretty cool hoodie. I like the logo that they
+came up with for Star Labs in that show. I
+
+54
+00:05:07,071 --> 00:05:11,993
+would want to own that hoodie. It's a dope gift.
+Yeah, when it comes to superhero merch, I do
+
+55
+00:05:12,053 --> 00:05:17,582
+like the type of stuff that's... more inside
+baseball, you know, like it's not outwardly
+
+56
+00:05:17,763 --> 00:05:23,324
+like a Spider-Man logo or something like that,
+but it might be like Oz Corp, the Daily Bugle
+
+57
+00:05:23,384 --> 00:05:27,166
+or something like that. That's how you separate
+the true fans from, you know, the people who
+
+58
+00:05:27,246 --> 00:05:31,767
+just know who Spider-Man is. Right, exactly.
+It's like the deeper the cut, the bigger the
+
+59
+00:05:31,807 --> 00:05:35,408
+fan. And I feel like Star Labs is a pretty deep
+cut. You know, there's probably a lot of people
+
+60
+00:05:35,608 --> 00:05:38,849
+out there that see Miggy wearing this hoodie
+and think that he's a scientist or something.
+
+61
+00:05:39,242 --> 00:05:44,504
+Which I think is hilarious, which also works,
+you know, as double purpose. Yep. But congrats,
+
+62
+00:05:44,584 --> 00:05:47,866
+Mickey, for winning this week's no prize. If
+you're the listener, want a shot at winning
+
+63
+00:05:47,906 --> 00:05:52,769
+your own no prize. Stay tuned to later on in
+this episode, we'll be asking another question
+
+64
+00:05:52,789 --> 00:05:57,671
+of the week. And as our schedule gets more regular
+outside of the holidays, hopefully we'll get
+
+65
+00:05:57,751 --> 00:06:01,733
+more of you guys to answer. And now that that's
+done, onto the news.
+
+66
+00:06:07,374 --> 00:06:13,179
+Alright, this past week we learned that Jonathan
+Majors has been fired by Marvel from his role
+
+67
+00:06:13,659 --> 00:06:20,665
+as Kang the Conqueror, which is huge news considering
+that the entire multiversal saga for the MCU
+
+68
+00:06:21,025 --> 00:06:27,691
+was basically surrounding his character and
+all the variants of Kang. So it's really unclear
+
+69
+00:06:27,731 --> 00:06:32,155
+what's going to happen from this point on. It's
+hard to know how to feel about this news because
+
+70
+00:06:32,215 --> 00:06:36,778
+on one hand, you know, as a fan of Marvel movies...
+You don't want to see any sort of break in
+
+71
+00:06:36,818 --> 00:06:41,921
+continuity, whether or not Marvel recasts the
+role or they choose to go with a different
+
+72
+00:06:42,061 --> 00:06:47,763
+villain as the main antagonist of this multiversal
+saga. On the other hand, Majors was found guilty
+
+73
+00:06:48,183 --> 00:06:53,146
+of two of the counts charged against him, including
+harassment and assault. He was found not guilty
+
+74
+00:06:53,206 --> 00:06:58,028
+on two other counts, but these charges were
+enough to basically force Marvel's hand to
+
+75
+00:06:58,068 --> 00:07:03,911
+avoid any bad press that might come their way
+by working with... a convicted criminal essentially.
+
+76
+00:07:04,051 --> 00:07:08,655
+It's unlikely that Jonathan Majors will face
+any actual jail time for this, but his career
+
+77
+00:07:08,715 --> 00:07:14,580
+is definitely severely damaged. Yeah, this is
+actually kind of surprising news to me. I mean,
+
+78
+00:07:14,620 --> 00:07:19,003
+I could have seen Disney go either way with
+this. I thought that because he was acquitted
+
+79
+00:07:19,043 --> 00:07:24,868
+of the major charges, that they would probably
+just try and keep him on board and ignore what
+
+80
+00:07:24,908 --> 00:07:30,833
+had happened. But I guess Disney is in such
+a rough place culturally and politically right
+
+81
+00:07:30,873 --> 00:07:36,599
+now. that they really just didn't want to run
+the risk of more bad press as it were. Yeah,
+
+82
+00:07:36,639 --> 00:07:41,320
+I mean, they're not DC. They're not going to
+keep Ezra Miller around if he was working for
+
+83
+00:07:41,340 --> 00:07:46,382
+them, you know? Was Ezra Miller convicted? I
+don't know. All I know is that dude's crazy.
+
+84
+00:07:46,902 --> 00:07:52,223
+Oh yeah, he pled guilty to a misdemeanor. But
+again, I mean, Jonathan Majors also got two
+
+85
+00:07:52,263 --> 00:07:57,465
+misdemeanors. So they're misdemeanors. They're
+not felonies. You know, they could still vote.
+
+86
+00:07:58,005 --> 00:08:02,744
+But they can't play king. The next time we were
+supposed to see King of the Conqueror was going
+
+87
+00:08:02,784 --> 00:08:08,388
+to be in the next Avengers movie, which was
+gonna be called The King Dynasty. That movie
+
+88
+00:08:08,428 --> 00:08:14,193
+has since been retitled to just Avengers 5.
+It's unclear what Marvel is going to choose
+
+89
+00:08:14,213 --> 00:08:21,640
+to do with the character. I say recast. I mean,
+so many Marvel roles have been recast. I don't
+
+90
+00:08:21,660 --> 00:08:26,384
+understand why I see so many people online saying
+just do away completely with the character.
+
+91
+00:08:26,684 --> 00:08:31,623
+I think a lot of that has to do with just the
+dislike of the general direction for the MCU
+
+92
+00:08:31,663 --> 00:08:37,808
+currently, but I kind of feel like to correct
+that you need a character like Kang. Yeah,
+
+93
+00:08:37,928 --> 00:08:43,932
+I mean you have a point there, but I just think
+it would be bad optics for another actor. I
+
+94
+00:08:43,952 --> 00:08:47,574
+don't think you'd be able to find another actor
+who would want to replace Jonathan Majors in
+
+95
+00:08:47,594 --> 00:08:52,818
+the role, considering that this whole thing
+is fairly controversial. You know, it's hard
+
+96
+00:08:53,158 --> 00:08:59,230
+for I think another actor to appear like they're
+taking advantage of someone I don't believe
+
+97
+00:08:59,270 --> 00:09:04,731
+that. I think if you spin it in a way where
+it's like, hey, Jonathan Majors did something
+
+98
+00:09:04,771 --> 00:09:09,712
+wrong, not Kenny the Conqueror, who's still
+a really cool character, and now this actor
+
+99
+00:09:09,732 --> 00:09:13,614
+is going to play that really cool character.
+I mean, it's not like DC is going to have a
+
+100
+00:09:13,654 --> 00:09:17,795
+hard time recasting the Flash. It's not like
+an actor is not going to want to play the Flash
+
+101
+00:09:17,815 --> 00:09:22,856
+because of Ezra Miller. I don't get that connection.
+Well, I mean, that role is probably going to
+
+102
+00:09:22,876 --> 00:09:30,791
+be recast anyway, since DC is going into a new
+universe. I don't know. It's hard to say. If
+
+103
+00:09:30,831 --> 00:09:35,373
+Marvel decided to not recast and instead focus
+on a new villain, the only other villain I
+
+104
+00:09:35,393 --> 00:09:40,236
+could think that they could use for this multiversal
+saga would be Doctor Doom, because he is the
+
+105
+00:09:40,376 --> 00:09:45,359
+one that patched together Battleworld in the
+2015 Secret Invasion. I guess you could also
+
+106
+00:09:45,379 --> 00:09:50,161
+go with the Beyonder, since the Beyonder was
+the villain of the original Secret Wars story.
+
+107
+00:09:50,321 --> 00:09:56,225
+It's just like a lot of story to scrap. Like
+I guess you could make the argument that Loki
+
+108
+00:09:56,325 --> 00:10:03,072
+acting as the new Loom. that he resets the timeline
+and maybe like erases all version of Kang,
+
+109
+00:10:03,633 --> 00:10:08,980
+I find that hard to believe. I just don't think
+you could scrap everything. Fair enough. So
+
+110
+00:10:09,100 --> 00:10:11,884
+I guess with that in mind, that brings us to
+our question of the week.
+
+111
+00:10:16,406 --> 00:10:22,931
+Which actor would you choose to recast Kang
+in the MCU, and why? Yeah, I'm sure any new
+
+112
+00:10:23,012 --> 00:10:28,577
+actor that comes into that role, if they do
+recast, would be rationalized as simply a variant
+
+113
+00:10:28,757 --> 00:10:33,901
+of the Kang character. So, at least it would
+be an easy explanation. But record your answer
+
+114
+00:10:33,941 --> 00:10:38,365
+at dynamicduel.com by clicking on the red microphone
+button in the bottom right hand corner of the
+
+115
+00:10:38,385 --> 00:10:42,529
+screen, which will prompt you to leave us a
+voicemail. Your message could be up to 30 seconds
+
+116
+00:10:42,569 --> 00:10:46,951
+long. And don't forget to leave your name in
+case we include you on the podcast. We'll pick
+
+117
+00:10:46,971 --> 00:10:51,012
+our favorite answer and award that person a
+dynamic duel no prize that will post to Instagram
+
+118
+00:10:51,152 --> 00:10:57,173
+and our email newsletter. Be sure to answer
+before December 30th. In DC News, we learned
+
+119
+00:10:57,494 --> 00:11:03,815
+that Matt Reeves' Batman Arkham series that's
+in development will be set in James Gunn's
+
+120
+00:11:03,935 --> 00:11:09,577
+and Peter Safran's DC universe. Of course, the
+Arkham series was originally going to focus
+
+121
+00:11:09,657 --> 00:11:14,766
+on the Gotham City Police Department. But I
+guess Warner Brothers scrapped the idea and
+
+122
+00:11:14,806 --> 00:11:19,728
+Matt Reeves pitched an Arkham series instead,
+which James Gunn and Peter Safran greenlit.
+
+123
+00:11:19,808 --> 00:11:25,149
+According to Gunn on social media, the Arkham
+series was always planned to be set in the
+
+124
+00:11:25,169 --> 00:11:30,571
+DCU and not part of any else world's universe
+that Matt Reeves is working on. This is huge
+
+125
+00:11:30,631 --> 00:11:36,152
+news because we initially believed that Matt
+Reeves was establishing a series set within
+
+126
+00:11:36,432 --> 00:11:43,151
+his Batman universe which stars Robert Pattinson.
+Apparently, he will be developing Batman characters
+
+127
+00:11:43,371 --> 00:11:49,135
+for two different universes, and I'm not sure
+how I feel about that. It is strange considering
+
+128
+00:11:49,215 --> 00:11:54,698
+like the Penguin show that's coming out next
+year is not going to be in the DCU, but that's
+
+129
+00:11:54,718 --> 00:12:00,121
+spearheaded by Matt Reeves, who's also spearheading
+this DCU Batman project. Right, exactly. So
+
+130
+00:12:00,161 --> 00:12:03,583
+essentially, he's going to be coming up with
+like two different versions of the Riddler,
+
+131
+00:12:03,963 --> 00:12:08,979
+two different versions of the Joker and the
+Penguin and everything else. I was really hoping
+
+132
+00:12:09,019 --> 00:12:14,724
+when I first heard this news that this may be
+James Gunn's way of just really trying to get
+
+133
+00:12:14,924 --> 00:12:22,111
+Matt Reeves' Batman into the DCU. And that still
+may be the case because maybe Matt Reeves won't
+
+134
+00:12:22,171 --> 00:12:26,555
+like having to develop two different versions
+of these Batman characters. But I guess we'll
+
+135
+00:12:26,595 --> 00:12:32,540
+see. It could be fun considering that Matt Reeves'
+Batman movie takes place in a much more grounded
+
+136
+00:12:32,600 --> 00:12:38,664
+reality of DC. So he works on these hyper realistic
+versions as well as these more comic accurate
+
+137
+00:12:38,704 --> 00:12:43,326
+versions which I assume the DCU is going to
+be a little bit more comic accurate and fantastical
+
+138
+00:12:43,627 --> 00:12:49,190
+and not so grounded in reality. It sounds like
+a fun challenge honestly. It sounds confusing
+
+139
+00:12:49,390 --> 00:12:54,292
+because like how many different jokers are there
+going to be now? I mean I guess that was inevitable
+
+140
+00:12:54,352 --> 00:12:59,655
+if James Gunn was going to develop his own version
+regardless but the fact that it's Matt Reeves
+
+141
+00:12:59,755 --> 00:13:04,674
+doing versions for both universes just really
+kind of bothers me. I don't understand why
+
+142
+00:13:04,734 --> 00:13:10,995
+James Gunn would give Matt Reeves that much
+say over a fairly integral part of the Batman
+
+143
+00:13:11,015 --> 00:13:15,837
+character, his rogues as it were, when Matt
+Reeves is already doing his own thing. Like
+
+144
+00:13:16,077 --> 00:13:22,699
+does that make sense to you? No, but nothing
+DC does ever make sense to me, so. Okay. I'm
+
+145
+00:13:22,739 --> 00:13:27,640
+not surprised. They just make a lot of weird
+decisions, you know? It's weird. Again, I'm
+
+146
+00:13:27,700 --> 00:13:34,286
+hoping this is some sort of brilliant manipulation
+on behalf of James Gunn to get Maybe I should
+
+147
+00:13:34,326 --> 00:13:38,209
+be working in this new universe because it's
+so cool and my Batman could be there. But then
+
+148
+00:13:38,229 --> 00:13:43,193
+you would have to have Robert Pattinson be a
+bad dad in the Brave and the Bold movie, which
+
+149
+00:13:43,433 --> 00:13:48,237
+I'm fine with, honestly, like he's traveling
+the world. He's meeting all these ladies. He's
+
+150
+00:13:48,277 --> 00:13:53,320
+got lots of money. Maybe he knocks one of them
+up. You never know. But like, is he old enough
+
+151
+00:13:53,441 --> 00:13:58,604
+to have a kid as old as Damien Wayne? As long
+as he and Talia were both 18, sure.
+
+152
+00:14:01,762 --> 00:14:06,364
+Sure, okay. So this seems like it's gonna be
+good news for fans of the upcoming DCU and
+
+153
+00:14:06,464 --> 00:14:12,686
+not necessarily great news for fans of Reeves
+take on the Batman universe. I think it's honestly
+
+154
+00:14:12,726 --> 00:14:17,588
+a win-win for everybody because you know whether
+you liked Matt Reeves' version of the Batman
+
+155
+00:14:17,628 --> 00:14:22,991
+or not, you'll still get the villains for that
+version of Batman and Matt Reeves' genius in
+
+156
+00:14:23,011 --> 00:14:27,913
+the DCU as well because the guy is a genius.
+Yeah, he's pretty good. He's alright. You know
+
+157
+00:14:27,933 --> 00:14:34,278
+it in your heart to be true. But yeah, I guess
+we'll see what happens with the Batman projects.
+
+158
+00:14:34,298 --> 00:14:39,867
+We'll keep you guys updated as to any news that
+we hear for the Batman series or anything coming
+
+159
+00:14:39,927 --> 00:14:41,309
+from Matt Reeves and DC.
+
+160
+00:14:48,878 --> 00:14:52,942
+But I think that does it for all the news for
+this episode. Now let's move on to the main
+
+161
+00:14:52,982 --> 00:14:59,589
+event, where we review the latest DC film to
+hit theaters, Aquaman and the Lost Kingdom.
+
+162
+00:15:15,858 --> 00:15:22,964
+Aquaman and the Lost Kingdom is the latest and
+final film of the DC Extended Universe. I think.
+
+163
+00:15:23,525 --> 00:15:28,249
+You know, after the Flash things are a little
+bit grey now, but the film of course stars
+
+164
+00:15:28,289 --> 00:15:34,594
+Jason Momoa and was directed by James Wan and
+is the sequel to the billion dollar grossing
+
+165
+00:15:34,675 --> 00:15:42,081
+2018 film Aquaman, which is the highest grossing
+DC film of all time worldwide. And that film
+
+166
+00:15:42,101 --> 00:15:46,903
+was good. I think it's one of the best DC films
+ever, from a filmmaking perspective at the
+
+167
+00:15:46,943 --> 00:15:52,426
+very least. The film looked gorgeous, and the
+mythic worldbuilding done by James Wan was
+
+168
+00:15:52,486 --> 00:15:58,788
+phenomenal. When we learned that a sequel was
+planned for a December 2022 release, I was
+
+169
+00:15:58,848 --> 00:16:04,231
+pretty excited. But then we got the Amber Heard
+drama and the sudden purchase of Warner Bros.
+
+170
+00:16:04,251 --> 00:16:10,553
+by Discovery. The new CEO said he wanted to
+reboot DC. James Gunn took over DC Studios.
+
+171
+00:16:11,022 --> 00:16:16,765
+and suddenly the Aquaman sequel lost quite a
+bit of its luster. The film was pushed back
+
+172
+00:16:16,865 --> 00:16:22,929
+a year due to COVID setbacks, and after the
+Flash arrived in theaters, essentially allowing
+
+173
+00:16:22,949 --> 00:16:30,653
+for a fresh start to DC's new cinematic universe,
+Aquaman 2 became my least anticipated DC film,
+
+174
+00:16:31,154 --> 00:16:36,797
+maybe ever. Like, I would have been perfectly
+fine if the film was shelved as a tax write-off
+
+175
+00:16:36,837 --> 00:16:41,587
+like Batgirl. That all changed however when
+we got the first trailer only three months
+
+176
+00:16:41,627 --> 00:16:48,409
+ago and I was reminded of how awesome the visuals
+and the world that James Wan created are. I
+
+177
+00:16:48,429 --> 00:16:55,210
+got pretty hyped, but did the film live up to
+the hype? It unfortunately did not. We didn't
+
+178
+00:16:55,230 --> 00:17:00,732
+need this film, things should have ended with
+the Flash, and I'm kinda just ready to forget
+
+179
+00:17:00,752 --> 00:17:06,790
+this film even exists. It was mediocre times
+for Superhero Movie going You know, it reminded
+
+180
+00:17:06,830 --> 00:17:13,114
+me a lot of Ant-Man and the Wasp quantumania
+in that the film was almost essentially computer
+
+181
+00:17:13,194 --> 00:17:18,296
+animated. There were so many visual effects
+shots. The humor didn't always stick like quantumania
+
+182
+00:17:18,917 --> 00:17:25,400
+and the story was a little lackluster. I think
+2023's Marvel and DC films were bookended by
+
+183
+00:17:25,521 --> 00:17:31,464
+some of the more generic offerings that DC Marvel
+have put out. Which is a huge shame. If you
+
+184
+00:17:31,504 --> 00:17:37,548
+haven't seen Aquaman and The Lost Kingdom yet.
+Honestly, I wouldn't bother. Like maybe not
+
+185
+00:17:37,608 --> 00:17:42,172
+even when this hits streaming. Not because the
+film is terrible, because the third act is
+
+186
+00:17:42,252 --> 00:17:48,078
+actually pretty good, but because it's ultimately
+pointless and has very little redeeming value
+
+187
+00:17:48,278 --> 00:17:54,064
+outside of CG spectacle. And even that is sometimes
+amongst the worst I've seen in a long time.
+
+188
+00:17:54,524 --> 00:17:59,049
+If you still want to see the film, definitely
+skip this review though because there will
+
+189
+00:17:59,089 --> 00:18:04,555
+be spoilers. Now the film picks up a few years
+after the events of the first film, where Aquaman
+
+190
+00:18:04,575 --> 00:18:10,417
+defeated his brother Orm, the King of Atlantis,
+to prevent him from amassing an army to destroy
+
+191
+00:18:10,457 --> 00:18:15,918
+the surface world. As Aquaman learned about
+the world of Atlantis, he also developed a
+
+192
+00:18:15,978 --> 00:18:21,960
+romantic relationship with Orm's former fiance,
+Princess Mera. And between the two films, they
+
+193
+00:18:22,000 --> 00:18:27,778
+had a baby, Arthur Jr. And this is in keeping
+with the comics. Aquaman is pretty unique in
+
+194
+00:18:27,818 --> 00:18:33,340
+the comics in that he matured a lot faster than
+other heroes. Like he was the first superhero
+
+195
+00:18:33,360 --> 00:18:39,441
+to have a wedding, the first to have a baby,
+the first to suffer the loss of a child, and
+
+196
+00:18:39,461 --> 00:18:45,443
+the first hero to get separated as a result.
+It's pretty heavy stuff, and while the loss
+
+197
+00:18:45,483 --> 00:18:52,105
+of his family didn't drive him in the same way
+it did the Punisher, it still deeply affected
+
+198
+00:18:52,145 --> 00:18:57,627
+him and it took decades for him and Mara to
+reunite. Yeah, the comic book version of Aquaman
+
+199
+00:18:57,787 --> 00:19:02,251
+is pretty deep It's interesting that you say
+that he was one of the first characters to
+
+200
+00:19:02,271 --> 00:19:08,257
+kind of mature in his I guess life story And
+of all the DC superheroes, it's ironic because
+
+201
+00:19:08,417 --> 00:19:14,722
+Jason Momoa's version of the Aquaman character
+is Essentially a manchild. Oh, yeah, I'll definitely
+
+202
+00:19:14,742 --> 00:19:19,507
+be getting to that. Absolutely You're on the
+nose there. It just served to remind me again
+
+203
+00:19:19,547 --> 00:19:24,151
+while watching this movie that this doesn't
+really feel like Aquaman that I know. It's
+
+204
+00:19:24,491 --> 00:19:30,376
+very much Jason Momoa's take on the character.
+Or just Jason Momoa. Like not even a take on
+
+205
+00:19:30,416 --> 00:19:36,901
+a character. It's just Jason Momoa. Now it had
+been rumored that Aquaman 2 tested horribly
+
+206
+00:19:37,222 --> 00:19:43,227
+at test screenings, in part because Black Manta
+killed Arthur Jr. just like in the comics.
+
+207
+00:19:43,647 --> 00:19:49,732
+Like people walked out of test screenings, which
+is unheard of. But I could kind of see where
+
+208
+00:19:49,752 --> 00:19:54,603
+they're coming from now. One of the things I
+was most interested in going into the film
+
+209
+00:19:54,943 --> 00:20:00,186
+was to see if the filmmakers had the balls to
+put Aquaman through such an emotionally heavy
+
+210
+00:20:00,266 --> 00:20:05,929
+and dark ordeal like suffering the loss of a
+child. I thought I saw a way they could have
+
+211
+00:20:05,969 --> 00:20:11,312
+done it in a similar way to the movie Gladiator
+that could have suited the narrative and the
+
+212
+00:20:11,352 --> 00:20:17,736
+film. But now it's become painfully obvious
+that Jason Momoa is no Russell Crowe. Like
+
+213
+00:20:17,776 --> 00:20:23,927
+tonally, I'd say Jason Momoa ruined the film.
+I understand it's hard to take a character
+
+214
+00:20:24,327 --> 00:20:32,272
+like Aquaman seriously, but damn, you have to
+at least try. I think Momoa probably assumed
+
+215
+00:20:32,352 --> 00:20:37,895
+that the reason the first film made so much
+money was because people enjoyed seeing Jason
+
+216
+00:20:37,935 --> 00:20:43,658
+Momoa play Jason Momoa, who comes across as
+somewhat of a jokester. But no, we just want
+
+217
+00:20:43,678 --> 00:20:49,762
+to see Aquaman as a badass, and it's not badass
+to have your baby piss in your mouth. or make
+
+218
+00:20:49,922 --> 00:20:55,965
+unfunny jokes every five seconds. Yeah, actually,
+my favorite moments with Jason Momoa as the
+
+219
+00:20:55,985 --> 00:21:00,308
+character of Aquaman are his more serious moments
+where he's acting like the character that I
+
+220
+00:21:00,328 --> 00:21:03,970
+know from the comics, where he's very straight
+faced. Like in the first movie, we got some
+
+221
+00:21:03,990 --> 00:21:09,373
+great character moments where he's seemingly
+transitioning from his man child self into
+
+222
+00:21:09,533 --> 00:21:14,356
+someone you would believe as a king of this
+entire kingdom. But there was almost like a
+
+223
+00:21:14,436 --> 00:21:20,758
+reversion or a lack. of follow through in his
+character arc from the first film where we
+
+224
+00:21:20,778 --> 00:21:25,662
+don't really see that noble king. But like there
+are brief spurts here, but like he's falling
+
+225
+00:21:25,723 --> 00:21:30,027
+asleep during meetings and stuff like that.
+It's all really played for gags. And it's not
+
+226
+00:21:30,067 --> 00:21:35,572
+that funny. No, the only thing he didn't do
+in this movie is like fart, but he may as well
+
+227
+00:21:35,592 --> 00:21:42,154
+have. Now the film was intentionally supposed
+to be message heavy. like showing the power
+
+228
+00:21:42,194 --> 00:21:48,259
+of brotherhood and cooperation and warning against
+the dangers of climate change and global warming.
+
+229
+00:21:48,660 --> 00:21:54,765
+But because the movie doesn't take itself seriously,
+it's really hard to take its messages seriously.
+
+230
+00:21:55,425 --> 00:22:01,090
+This film was originally supposed to go head-to-head
+against Avatar the Way of Water, and when Warner
+
+231
+00:22:01,110 --> 00:22:06,006
+Brothers flinched and pushed the release date,
+I was kind of pissed, like, ah, come on! No
+
+232
+00:22:06,046 --> 00:22:10,907
+one cares about Avatar anymore. The first Aquaman
+improved to what the first Avatar film did
+
+233
+00:22:10,947 --> 00:22:16,449
+visually. Anyway, we could take him on. And
+holy shit, was I wrong. Aquaman 2 was embarrassing
+
+234
+00:22:16,509 --> 00:22:22,070
+enough without having to compare it to Avatar
+2. But what's really heartbreaking was that
+
+235
+00:22:22,331 --> 00:22:27,912
+there was this potential there for that to not
+be the case. Like, I was expecting this film
+
+236
+00:22:27,972 --> 00:22:33,882
+to be like Avatar meets Taken meets Lord of
+the Rings. but instead I got Thor Love and
+
+237
+00:22:33,902 --> 00:22:39,324
+Thunder meets Jumanji meets the Saturday morning
+Captain Planet cartoon. And the thing is, the
+
+238
+00:22:39,344 --> 00:22:45,646
+film is so tonally inconsistent and it comes
+across as so heavily edited and reworked that
+
+239
+00:22:45,666 --> 00:22:50,287
+I'm guessing there's a better version of the
+movie out there, but I honestly don't care
+
+240
+00:22:50,307 --> 00:22:55,469
+enough to hashtag release the wand cut. That
+was a great description of this movie. Chris
+
+241
+00:22:55,509 --> 00:23:01,462
+Hemsworth, despite the terrible quality of Thor
+11th Thunder. He actually has comedic timing
+
+242
+00:23:01,682 --> 00:23:06,104
+and comedic instincts. I don't think Jason Momoa
+has the same thing going for him. I would somewhat
+
+243
+00:23:06,164 --> 00:23:11,285
+agree. I think he has a little bit there, but
+it needs to be under the right circumstances,
+
+244
+00:23:11,705 --> 00:23:17,607
+which makes me nervous for a potential Lobo
+project. Oh, I'm not worried about Lobo at
+
+245
+00:23:17,667 --> 00:23:21,988
+all. I think he would nail it because he basically
+is Lobo, even when he's Aquaman. You know,
+
+246
+00:23:22,008 --> 00:23:27,269
+you see, we still see him doing donuts in the
+dirt with the motorcycle, despite the fact
+
+247
+00:23:27,309 --> 00:23:32,343
+that I've never seen Aquaman ride a motorcycle
+in the books. I'm trying to think. No, yeah,
+
+248
+00:23:32,363 --> 00:23:38,384
+I think that'd be really dumb if I saw him ever
+do that. Now I'm trashing the film, but just
+
+249
+00:23:38,424 --> 00:23:44,026
+because I was disappointed in it doesn't mean
+it was all bad. The film, as the trailers promised,
+
+250
+00:23:44,166 --> 00:23:49,988
+was gorgeous, despite some really embarrassing
+CG in some spots. For the most part, it was
+
+251
+00:23:50,048 --> 00:23:57,178
+good. And you know, once Arthur and Orm meet
+Dr. Shin, the movie starts getting good. Because
+
+252
+00:23:57,218 --> 00:24:02,701
+that's when we finally understand the stakes
+of the film. That the entity controlling Black
+
+253
+00:24:02,741 --> 00:24:09,346
+Manta, Kordax, and the Oricalcum are global
+threats. And we circle back to Arthur Jr. who
+
+254
+00:24:09,386 --> 00:24:13,608
+gets kidnapped by Black Manta, which I thought
+was going to happen much earlier in the film.
+
+255
+00:24:13,949 --> 00:24:19,732
+The problem is that by the time the movie gets
+good, it's like two-thirds over, and ultimately
+
+256
+00:24:19,772 --> 00:24:23,883
+it's too little too late. Yeah, I actually thought
+the plot was pretty interesting once it was
+
+257
+00:24:23,923 --> 00:24:27,966
+revealed that the Oro Kalkom, and I swear to
+God, if I ever hear that word again, it'll
+
+258
+00:24:27,986 --> 00:24:35,471
+be too soon. But basically it was causing global
+warming to melt the polar ice caps to free
+
+259
+00:24:35,651 --> 00:24:41,095
+the lost kingdom and Kordax. Right, exactly.
+The visuals, while the CGI may not have always
+
+260
+00:24:41,115 --> 00:24:47,859
+been spot on, the design of everything is exceptional.
+Like seeing Kordax with his Sauron like get
+
+261
+00:24:47,900 --> 00:24:52,375
+up, use his black magic on his Citadel and stuff
+like that. Just the fact that the seventh kingdom
+
+262
+00:24:52,415 --> 00:24:56,998
+was even based in Antarctica and had like this
+entirely different world feel to the other
+
+263
+00:24:57,038 --> 00:25:01,581
+seven kingdoms, which we've seen in the previous
+movie. It's all fantastic. Oh yeah, it's so
+
+264
+00:25:01,661 --> 00:25:06,485
+well imagined. It's kind of a shame that it's
+not going to continue. Honestly, that's like
+
+265
+00:25:06,505 --> 00:25:11,148
+what's heartbreaking in regards to Aquaman with
+the DCU ending is that are we ever going to
+
+266
+00:25:11,208 --> 00:25:15,811
+see this world again? I like the sunken city
+with all the pirates, like how that's like
+
+267
+00:25:15,851 --> 00:25:20,955
+the underground in the oceanic world. That was
+cool. I did love how this film traversed the
+
+268
+00:25:20,975 --> 00:25:25,557
+globe in the way that the first film was a globe
+trotting adventure. Like we got to see the
+
+269
+00:25:25,637 --> 00:25:31,320
+desert, we got to see the jungle, we got to
+see, you know, the sunken city and Antarctica.
+
+270
+00:25:31,720 --> 00:25:36,583
+It was pretty cool. The desert characters were
+really cool in that they learned how to survive
+
+271
+00:25:36,663 --> 00:25:41,806
+away from water by hydrating with blood. Like
+that's pretty hardcore. That's super hardcore.
+
+272
+00:25:41,846 --> 00:25:47,649
+And those creatures that they were riding were
+super freaking disgusting. But like in the
+
+273
+00:25:47,689 --> 00:25:53,631
+best way possible. Ultimately, I think these
+visuals and these designs are like 90% of why
+
+274
+00:25:53,872 --> 00:25:59,454
+I enjoyed this film. Oh, you enjoyed it? I mean,
+it wasn't great. It definitely wasn't terrible,
+
+275
+00:25:59,494 --> 00:26:04,957
+though. It was really hard for me to enjoy it.
+I invited my father-in-law to see it with me.
+
+276
+00:26:05,437 --> 00:26:11,239
+He's former military and I thought it'd be like
+a cool like bro film to go see. And I was super
+
+277
+00:26:11,259 --> 00:26:17,094
+embarrassed. It was two Saturday morning cartoons
+for him, right? Absolutely. Yeah. But let's
+
+278
+00:26:17,134 --> 00:26:22,619
+move on to the character breakdown, starting
+with Arthur Curry slash Aquaman played by Jason
+
+279
+00:26:22,639 --> 00:26:27,643
+Momoa. As I mentioned earlier, I feel like he
+ruined the movie in the same way that I feel
+
+280
+00:26:27,663 --> 00:26:33,588
+like Chris Hemsworth ruined Thor, Love and Thunder
+by trying to be a comedian. Thor is not supposed
+
+281
+00:26:33,608 --> 00:26:38,612
+to be a funny character. Neither is Aquaman.
+I'm really tired of actors playing roles that
+
+282
+00:26:38,632 --> 00:26:44,457
+they don't understand. And yeah, I'm going to
+make the case that Jason Momoa doesn't understand
+
+283
+00:26:44,597 --> 00:26:49,847
+Aquaman. Because, like we mentioned earlier,
+he plays him like Lobo, so maybe ultimately
+
+284
+00:26:49,987 --> 00:26:55,348
+it's best he's rumored to be playing that role
+in James Gunn's new DCU. In the first film,
+
+285
+00:26:55,688 --> 00:27:01,110
+Aquaman's arc was that he was worthy to be king
+because he was able to make tough decisions.
+
+286
+00:27:01,370 --> 00:27:06,811
+But it turned out that upon being king, he really
+wasn't able to make decisions to improve the
+
+287
+00:27:06,851 --> 00:27:12,973
+kingdom due to the bureaucracy of Atlantis'
+High Council, who antagonized him for not understanding
+
+288
+00:27:13,093 --> 00:27:19,333
+Atlantean ways and culture. When sickness spreads
+among his people, however, and Black Mantis
+
+289
+00:27:19,373 --> 00:27:25,678
+steals or a calcum from Atlantis, polluting
+the planet, Arthur realizes that he needs his
+
+290
+00:27:25,718 --> 00:27:32,063
+brother's help to stop him. Even though Arthur
+proved to be less kingly and less mature than
+
+291
+00:27:32,243 --> 00:27:39,148
+Orm, he proved to be the bigger and better man
+by surmounting and helping Orm overcome Kordax's
+
+292
+00:27:39,188 --> 00:27:44,684
+temptations of power. Arthur's ultimate destiny
+has always been to unite the underwater and
+
+293
+00:27:44,724 --> 00:27:50,228
+surface worlds and at the very end of the film
+he was finally able to start that process by
+
+294
+00:27:50,288 --> 00:27:56,052
+revealing Atlantis's existence to the world,
+though again how anyone is supposed to take
+
+295
+00:27:56,072 --> 00:28:02,076
+him seriously with that weird mic drop at the
+end is beyond me. The whole Iron Man callback
+
+296
+00:28:02,256 --> 00:28:08,360
+was literally the worst fucking joke in any
+DC film ever. I hated it when he was like,
+
+297
+00:28:08,620 --> 00:28:14,817
+I'm the king of Atlantis and I'm Aquaman. I
+was like, what the fuck? What is this? My reaction
+
+298
+00:28:14,877 --> 00:28:18,480
+exactly. I bet you world leaders were like,
+oh, no.
+
+299
+00:28:21,562 --> 00:28:26,426
+Right. That's what I'm saying. The coolest thing
+for Aquaman, I would say, in this film was
+
+300
+00:28:26,487 --> 00:28:31,531
+his stealth suit. I actually really liked the
+way they did that. And I loved that Toppo also
+
+301
+00:28:31,551 --> 00:28:38,116
+had essentially the same ability. We did not
+get enough Toppo and Storm in this movie. Yeah.
+
+302
+00:28:38,136 --> 00:28:42,571
+When you saw his fish speak. power at the end
+of the first film, he almost seems like unstoppable
+
+303
+00:28:42,691 --> 00:28:47,054
+in the water, right? So I was kind of hoping
+that he would use it more within the course
+
+304
+00:28:47,074 --> 00:28:52,397
+of this film, but he only really used it a few
+times. Although I did like how he got all the
+
+305
+00:28:52,617 --> 00:28:58,000
+undersea mammals to use their echolocation to
+destroy Black Manta's ship. Oh yeah, like the
+
+306
+00:28:58,080 --> 00:29:03,943
+sonar waves. That was a really cool way to use
+his power for sure. Moving on to Ocean Master,
+
+307
+00:29:04,084 --> 00:29:11,755
+aka Orm, he was played by Patrick Wilson. Watching
+this made me wish Patrick Wilson was originally
+
+308
+00:29:11,795 --> 00:29:16,116
+cast as Aquaman because he not only looks the
+part of the character from the comics to a
+
+309
+00:29:16,216 --> 00:29:22,017
+T, but also because he took his role seriously.
+I mean, he took part in quite a bit of the
+
+310
+00:29:22,077 --> 00:29:26,259
+jokes, but even when he's running with his arms
+behind his back because, you know, he doesn't
+
+311
+00:29:26,279 --> 00:29:32,660
+know how to run on land, or he's eating a cockroach,
+like he still played it as if it was Orm, not
+
+312
+00:29:32,740 --> 00:29:38,274
+Patrick Wilson. I think Jason Mowa's presence
+actually brought down Patrick Wilson's performance
+
+313
+00:29:38,574 --> 00:29:43,117
+because whenever they were on screen together,
+it became apparent that Patrick Wilson was
+
+314
+00:29:43,297 --> 00:29:49,520
+acting because Jason Momoa wasn't, if that makes
+sense. The two just had like zero bromance
+
+315
+00:29:49,540 --> 00:29:54,003
+chemistry, which is a problem for the film because
+that was sort of supposed to be the core of
+
+316
+00:29:54,083 --> 00:29:59,346
+it, their relationship, and the entire second
+act was supposed to be a buddy comedy. Yeah,
+
+317
+00:29:59,366 --> 00:30:03,228
+that was my big takeaway from the film as well.
+They were honestly acting in different films.
+
+318
+00:30:04,248 --> 00:30:08,720
+It felt that way. Yeah, absolutely. And some
+of that awkwardness, I feel like, was actually
+
+319
+00:30:08,760 --> 00:30:14,004
+reflected in the score. Because when they tried
+to be silly with that relationship, the score
+
+320
+00:30:14,024 --> 00:30:19,129
+did like a cartoonish thing such as when Aquaman
+knocked over that big statue to create a bridge.
+
+321
+00:30:19,149 --> 00:30:23,753
+That scene played out way worse than I thought
+it would from the trailers. And I don't know
+
+322
+00:30:23,774 --> 00:30:29,339
+why, it was just so cringe-worthy. The whole
+fucking jungle island thing was so cringe-inducing.
+
+323
+00:30:30,059 --> 00:30:34,823
+I didn't get the joke regarding the cockroaches.
+Actually, I did find that funny because you
+
+324
+00:30:34,843 --> 00:30:39,828
+could just see me doing that to my younger brothers.
+But he told him that it was like the shrimp
+
+325
+00:30:39,848 --> 00:30:45,633
+of the land, right? Right. But the joke is that
+surface dwellers don't actually eat cockroaches.
+
+326
+00:30:46,154 --> 00:30:50,538
+And so he like tricked him into doing it, but
+he never told him that it was a joke. Like
+
+327
+00:30:50,778 --> 00:30:56,604
+he never followed through with the gag. So it
+was just strange. Honestly, if I got you to
+
+328
+00:30:56,644 --> 00:31:00,378
+eat a cockroach, I wouldn't tell you. that like
+you're not supposed to eat it. I'd be telling
+
+329
+00:31:00,438 --> 00:31:06,202
+everyone else that I got you to eat a cockroach.
+And so we didn't see that either. We should
+
+330
+00:31:06,222 --> 00:31:11,805
+have seen Alcon be like, I seriously got Oram
+to eat a cockroach. We should have definitely.
+
+331
+00:31:12,265 --> 00:31:17,508
+Now, Oram's arc in the film is really one in
+which he comes to terms that what he did in
+
+332
+00:31:17,528 --> 00:31:24,852
+the first film was wrong and that in the end,
+Arthur really is better for Atlantis. He realizes
+
+333
+00:31:24,932 --> 00:31:30,071
+over the course of the film, as Arthur continues
+to surprise him, that there is an honor and
+
+334
+00:31:30,171 --> 00:31:36,856
+nobility in Arthur's viewpoint and gracious
+actions, and Orm is moved essentially. Part
+
+335
+00:31:36,877 --> 00:31:41,881
+of me wanted to take issue with the fact that
+Orm became a good guy and I kept waiting for
+
+336
+00:31:41,901 --> 00:31:45,264
+him to turn bad, but that ended up not happening.
+I thought that would have been a great turn.
+
+337
+00:31:45,684 --> 00:31:51,569
+But given the fact that you have stated that
+Ocean Master actually has done good things
+
+338
+00:31:51,589 --> 00:31:55,733
+in the books like relinquish the throne when
+he realized that it rightfully belonged to
+
+339
+00:31:55,813 --> 00:32:01,247
+Arthur Curry. That kind of helped sell the idea
+of Oram being a good guy. To me. No, for me
+
+340
+00:32:01,327 --> 00:32:07,709
+as well. Yeah. In the comics, in the new 52
+version of Oram, he's not necessarily a bad
+
+341
+00:32:07,749 --> 00:32:13,690
+guy. There is sort of like a rivalry, but there's
+also like a respect between the characters
+
+342
+00:32:13,730 --> 00:32:18,572
+of Aquaman and Ocean Master as well. And so,
+yeah, I thought it worked in the movie also.
+
+343
+00:32:19,012 --> 00:32:25,293
+Moving on to David Kane, AKA Black Manta. He
+was played by Yaya Abdul-Mateen the second.
+
+344
+00:32:25,974 --> 00:32:31,716
+Black Manta is a fantastic character and I thought
+Yaya did a fantastic job in the role because
+
+345
+00:32:31,736 --> 00:32:37,379
+he's really able to capture the rage of the
+character. Like very few villains are as dedicated
+
+346
+00:32:37,499 --> 00:32:43,122
+as Black Manta in the comics to so completely
+destroying a hero and his family. And that
+
+347
+00:32:43,142 --> 00:32:48,064
+also helps that he looks really badass. I do
+have to say though it's kind of unfortunate
+
+348
+00:32:48,104 --> 00:32:54,440
+that Black Manta loses some agency doing Cordax's
+bidding in this film rather than going full
+
+349
+00:32:54,480 --> 00:33:00,563
+force against Aquaman. I say kind of because
+I did actually like the dead king Cordax in
+
+350
+00:33:00,603 --> 00:33:06,306
+this film and giving Black Manta a reason to
+kill Arthur Jr. other than he just really hates
+
+351
+00:33:06,406 --> 00:33:12,590
+Aquaman was a more stomachable decision at the
+very least. I did think it was somewhat baller
+
+352
+00:33:12,630 --> 00:33:17,433
+of him at the end, however, to essentially kill
+himself maybe rather than accept Aquaman's
+
+353
+00:33:17,453 --> 00:33:22,500
+help because that felt very in character for
+Black Manta. Yeah, that was his best character
+
+354
+00:33:22,540 --> 00:33:26,784
+moment. Unfortunately, it was probably his last
+character moment. Yeah, yeah, I think it was.
+
+355
+00:33:26,824 --> 00:33:32,528
+You're right. We talked about the design of
+this film. I thought his new gear was incredibly
+
+356
+00:33:32,568 --> 00:33:38,413
+well designed. You know, everything from the
+suit to the octopods. It was fantastic. I liked
+
+357
+00:33:38,453 --> 00:33:43,117
+seeing his beams in action that first seen when
+he's going up against Mira and he like blasts
+
+358
+00:33:43,137 --> 00:33:47,320
+her and like everything around him. Those are
+some deadly lasers. Oh, yeah. Like you could
+
+359
+00:33:47,340 --> 00:33:52,246
+see how they were burning people. Definitely
+deadly. So Aquaman, Ocean Master, and Black
+
+360
+00:33:52,286 --> 00:33:56,788
+Manta are really the three central characters
+of the film. I do want to touch briefly on
+
+361
+00:33:56,868 --> 00:34:02,429
+Dr. Shin and Mara, though. Starting with Dr.
+Shin, he was played by Randall Park, who's
+
+362
+00:34:02,469 --> 00:34:07,731
+a great comedic actor. He was the only truly
+funny character in the film, and at times when
+
+363
+00:34:07,771 --> 00:34:12,192
+I don't think he was even trying to be. I mean,
+I only see him as Jimmy Woo from the Marvel
+
+364
+00:34:12,212 --> 00:34:19,778
+movies. Nah. This was just Jimmy Woo pretending
+to be a scientist or something. I was happy
+
+365
+00:34:19,798 --> 00:34:24,019
+with the amount of screen time that they gave
+Randall Park here. Yeah, absolutely, absolutely.
+
+366
+00:34:24,499 --> 00:34:28,880
+You know, the first film, Dr. Shin was a minor
+character, simply trying to prove Atlantis'
+
+367
+00:34:28,940 --> 00:34:33,802
+existence to the world and allied himself with
+Black Manta to do so. Like you said, he got
+
+368
+00:34:33,902 --> 00:34:38,443
+much more screen time here and he got more than
+he bargained for with the emergence of Cortex.
+
+369
+00:34:39,123 --> 00:34:44,305
+But he has a crisis of conscience warning Aquaman
+of Black Manta's new power and even saving
+
+370
+00:34:44,385 --> 00:34:49,481
+Arthur Jr. from being killed. So it was nice
+to see him sort of have that heroic streak
+
+371
+00:34:49,501 --> 00:34:55,447
+to him. Moving on to Mera, she was played by
+Amber Heard. She had a slightly bigger role
+
+372
+00:34:55,467 --> 00:35:00,192
+in the film than I thought she would, you know,
+based on her own words in court that she was
+
+373
+00:35:00,232 --> 00:35:05,057
+essentially erased from the movie, which wasn't
+the case, though there may be quite a bit left
+
+374
+00:35:05,097 --> 00:35:10,431
+on the cutting-groom floor. I didn't think her
+performance was terrible. Her involvement in
+
+375
+00:35:10,451 --> 00:35:15,955
+the film's story was a big question to many
+due to some reports that her relationship with
+
+376
+00:35:16,015 --> 00:35:21,460
+Jason Momoa and James Wan wasn't great, but
+I'm glad she got the screen time that she did
+
+377
+00:35:21,520 --> 00:35:27,185
+because Mera should be a big part of Arthur's
+world, especially when it comes to Arthur Jr.
+
+378
+00:35:27,585 --> 00:35:32,069
+It's always cool to see her use her powers too.
+She has a musical power set. I mean, in this
+
+379
+00:35:32,089 --> 00:35:38,274
+film it was used as Deus Ex Machina on multiple
+occasions, which was kind of unfortunate. I
+
+380
+00:35:38,314 --> 00:35:43,216
+actually would have preferred to see Toppo get
+just one surprise Deo 6 Machina if you're going
+
+381
+00:35:43,236 --> 00:35:47,237
+to do Deo 6 Machina because you know, you could
+be invisible and just kind of like spring into
+
+382
+00:35:47,317 --> 00:35:51,579
+action and be like, ta-da, I'm here. That would
+have been awesome. I did like the call out
+
+383
+00:35:51,699 --> 00:35:55,241
+that Nicole Kidman's Atlanta gave the character
+in reference to the previous film where we
+
+384
+00:35:55,281 --> 00:35:58,842
+saw Toppo playing the drums. Yeah. She was like
+running down his credentials and she's like,
+
+385
+00:35:59,022 --> 00:36:04,905
+he's also really good at multiple instruments.
+Nicole Kidman looked so weird in this movie.
+
+386
+00:36:05,285 --> 00:36:10,307
+She had a CGI face, did she not? Did she? I
+don't think she did. That's how it looked to
+
+387
+00:36:10,347 --> 00:36:14,810
+me on the screen that I saw. It looked like
+maybe she had gotten too much Botox and couldn't
+
+388
+00:36:14,850 --> 00:36:20,213
+really move her face enough. And so they had
+to move it using special effects. It very much
+
+389
+00:36:20,253 --> 00:36:26,376
+looked like how Henry Cavill did in the Jostas
+League movie. Oh, geez. I did not see that
+
+390
+00:36:26,656 --> 00:36:31,999
+at all. She had a very small role in the movie.
+She only had like a few lines. So maybe I just
+
+391
+00:36:32,099 --> 00:36:37,858
+wasn't paying too much attention to her. But
+I mean, I believe it. Let's move on to the
+
+392
+00:36:37,878 --> 00:36:38,587
+story highlights.
+
+393
+00:36:45,770 --> 00:36:50,491
+Several years after defeating and imprisoning
+his half-brother Orm, Arthur has become the
+
+394
+00:36:50,551 --> 00:36:56,112
+new king of Atlantis and struggles with the
+bureaucracy, preferring to spend time on land
+
+395
+00:36:56,132 --> 00:37:02,234
+with his family, including his infant son Junior,
+who displays the ability to communicate with
+
+396
+00:37:02,294 --> 00:37:08,056
+fish. Aquaman's nemesis Black Manta, meanwhile,
+searches the world for Atlantean technology
+
+397
+00:37:08,096 --> 00:37:13,457
+to repair his power suit and get revenge on
+the hero for killing his father. With the help
+
+398
+00:37:13,497 --> 00:37:19,485
+of Dr. Steven Shin, Black Manta finds the lost
+Atlantean kingdom of Necrus in the Antarctic,
+
+399
+00:37:19,845 --> 00:37:24,850
+where they're attacked by an underwater monster
+and Black Manta becomes possessed by a broken
+
+400
+00:37:24,910 --> 00:37:31,015
+Black Trident. Now I'm not sure why they gave
+Junior fish speaking powers, because it never
+
+401
+00:37:31,035 --> 00:37:36,419
+came up in the film again. Like they should
+have used it again at least once. Yeah, that
+
+402
+00:37:36,519 --> 00:37:40,182
+actually would have been cool to have him save
+the day by calling in a fleet of whales or
+
+403
+00:37:40,222 --> 00:37:44,918
+something. Right? Yeah, absolutely. They could
+have totally done that. And I actually thought
+
+404
+00:37:44,938 --> 00:37:49,180
+they were going to once they sort of set that
+up at the beginning of the movie. I actually
+
+405
+00:37:49,240 --> 00:37:54,043
+really liked these opening Antarctica scenes
+because they were a good showcase for James
+
+406
+00:37:54,083 --> 00:37:59,767
+Bond's horror background. Yeah, that tentacle
+monster was pretty frightening. Yeah, and the
+
+407
+00:37:59,787 --> 00:38:04,710
+way it just like dragged people into the darkness.
+It was pretty cool. Within the next five months,
+
+408
+00:38:04,810 --> 00:38:11,013
+global warming has increased rapidly, diluting
+the ocean saltwater and resulting in algae
+
+409
+00:38:11,033 --> 00:38:16,077
+blooms. that's causing sickness to spread in
+the underwater kingdoms. Although Arthur wants
+
+410
+00:38:16,117 --> 00:38:21,242
+to reveal Atlantis to the surface world so that
+their scientists can work together to solve
+
+411
+00:38:21,262 --> 00:38:26,906
+the climate crisis, the city's high council
+refuses to let him. Meanwhile, Black Manta,
+
+412
+00:38:27,127 --> 00:38:32,731
+now equipped with new Atlantean technology,
+is caught trying to steal a highly toxic fuel
+
+413
+00:38:32,791 --> 00:38:39,897
+source known as or a calcum from Atlantis. Mera
+and many other Atlanteans are badly injured.
+
+414
+00:38:40,158 --> 00:38:45,682
+in Black Manta's escape. Do you know if Orocalcum
+is from the comics? It is actually, but it's
+
+415
+00:38:45,762 --> 00:38:51,646
+also from ancient myths about Atlantis as well.
+It's supposed to be a medal though, I believe.
+
+416
+00:38:52,066 --> 00:38:57,610
+Interesting. Upon realizing that Black Manta
+is using the Orocalcum to pollute the Earth's
+
+417
+00:38:57,710 --> 00:39:03,975
+atmosphere and raise temperatures, Arthur decides
+his brother Orm can help him find Black Manta,
+
+418
+00:39:04,315 --> 00:39:09,990
+to his mother Atlantis and Mira's father Nerus'
+objections. With the help of a stealth suit
+
+419
+00:39:10,150 --> 00:39:15,873
+and a cephalopod named Toppo, Arthur successfully
+breaks Orm out of his desert prison. Which
+
+420
+00:39:15,913 --> 00:39:20,975
+was a pretty cool scene. It was a convincing
+special effect that they used on Patrick Wilson,
+
+421
+00:39:21,175 --> 00:39:26,317
+going from his skinny mode into his ripped mode.
+See, I didn't really like that. I mean, I thought
+
+422
+00:39:26,337 --> 00:39:31,159
+the special effect was fine, but I don't understand
+how just upon touching water, all of a sudden
+
+423
+00:39:31,199 --> 00:39:37,018
+he gets ripped. Well, he was like super dehydrated,
+right? Yeah, I guess. I don't know. I just
+
+424
+00:39:37,038 --> 00:39:41,120
+thought it was a convincing special effect.
+Yeah, definitely convincing. As was Toppo.
+
+425
+00:39:41,360 --> 00:39:47,043
+I want a Toppo in real life. How was Toppo surviving
+on land? Because he's fucking Toppo, dude.
+
+426
+00:39:47,424 --> 00:39:52,947
+You can do whatever he wants. All right. OK.
+How dare you question him. We need to do a
+
+427
+00:39:53,007 --> 00:39:58,130
+Christmas duel episode with Toppo. That's all
+I'm saying. It's a great idea. Yeah. Orb suggests
+
+428
+00:39:58,150 --> 00:40:03,072
+that they visit the Sunken Citadel, a seedy
+underwater pirate colony ruled by Kingfish,
+
+429
+00:40:03,372 --> 00:40:09,392
+who may know Black Manta's whereabouts. After
+a tussle with Kingfish's shark soldiers, Arthur
+
+430
+00:40:09,412 --> 00:40:15,075
+learns that Black Manta may be on a volcanic
+island in the South Pacific. After swimming
+
+431
+00:40:15,155 --> 00:40:21,038
+to the island, Arthur sends Toppo back to Atlantis
+for help while he and Orm navigate the mutated
+
+432
+00:40:21,118 --> 00:40:27,322
+jungle, dodging carnivorous plants and giant
+insects to get to Black Manta's volcano base.
+
+433
+00:40:27,902 --> 00:40:32,365
+I was super surprised when I saw that Kingfish
+was voiced by Martin Short. Yeah, I didn't
+
+434
+00:40:32,385 --> 00:40:37,279
+see that until the credits either. I have no
+idea who Kingfish is. Apparently he's a character
+
+435
+00:40:37,319 --> 00:40:41,881
+in the comics. I initially thought that the
+character was a stand in for King Shark, which
+
+436
+00:40:41,921 --> 00:40:46,282
+I thought would have been actually really cool
+if they had done that. But upon doing further
+
+437
+00:40:46,322 --> 00:40:52,125
+research, I guess that wasn't the case. I always
+liked the Jules Verne-esque journey to the
+
+438
+00:40:52,165 --> 00:40:56,687
+center of the earth aspect that the Aquaman
+films have. We saw that in the first movie
+
+439
+00:40:56,707 --> 00:40:59,928
+where they actually did go to the center of
+the earth. And then we saw it with this island
+
+440
+00:40:59,968 --> 00:41:05,294
+in this film where you have like these giant
+insect creatures and dangerous flora and stuff
+
+441
+00:41:05,314 --> 00:41:10,577
+like that. It is a pretty neat aspect of these
+films. Yeah, it kind of feels like James Wan
+
+442
+00:41:10,597 --> 00:41:14,680
+can do whatever he wants in these movies. He
+just comes up with these brilliant ways of
+
+443
+00:41:14,740 --> 00:41:20,743
+doing them. Like Oric Alcom mutating the environment,
+that's a pretty cool idea to create some conflict.
+
+444
+00:41:21,243 --> 00:41:26,947
+And it also creates greater stakes for the film
+and the danger that Oric Alcom presents. There
+
+445
+00:41:26,967 --> 00:41:31,189
+was another joke during this part of the film
+that I really did not appreciate and that was
+
+446
+00:41:31,269 --> 00:41:39,140
+when Aquaman referred to Orm as Loki and I'm
+like shut the hell up What are you doing? He's
+
+447
+00:41:39,161 --> 00:41:43,682
+trying to be like Tony Stark giving everybody
+nicknames like how Iron Man did in the Avengers
+
+448
+00:41:43,722 --> 00:41:50,225
+movie the first one But like do Marvel movies
+exist in the DCEU they must and that's stupid
+
+449
+00:41:50,685 --> 00:41:55,287
+Well, I mean apparently DC heroes exist in the
+Marvel Cinematic Universe because there have
+
+450
+00:41:55,307 --> 00:42:00,429
+been a number of references to Batman and Superman
+Oh, that's right. Okay, unless angry about
+
+451
+00:42:00,469 --> 00:42:06,170
+it now Now, uneasy with Black Manta's actions
+and using the volcano to spew Orakelkem into
+
+452
+00:42:06,190 --> 00:42:12,295
+the atmosphere, Dr. Shin begs Aquaman and Orm
+to rescue him from Manta just before Black
+
+453
+00:42:12,335 --> 00:42:18,140
+Manta attacks them. During the battle, Orm takes
+hold of Black Manta's trident, which gives
+
+454
+00:42:18,160 --> 00:42:24,265
+him visions of the past. After Atlantis comes
+to the brothers' rescue and bombs the island,
+
+455
+00:42:24,385 --> 00:42:30,458
+destroying the volcano, Orm reveals that the
+trident is possessed by Kordax. the ancient
+
+456
+00:42:30,558 --> 00:42:36,681
+Atlantean king of Necros, who used orichalcum
+and black magic to pollute the earth and corrupt
+
+457
+00:42:36,741 --> 00:42:42,704
+and mutate his people into monsters. Cordax
+was defeated by his brother Atlin, the king
+
+458
+00:42:42,764 --> 00:42:49,148
+of Atlantis, who used blood magic to seal his
+brother and the kingdom of Necros in ice forever.
+
+459
+00:42:49,608 --> 00:42:55,571
+Black Manta, they learn, is being used by Cordax
+to melt the ice caps and free the lost kingdom.
+
+460
+00:42:59,838 --> 00:43:05,042
+into the villain Cordax, who they also made
+Atlan's brother. I thought that was genius.
+
+461
+00:43:05,643 --> 00:43:11,388
+I got to give a big shout out to listener Corey
+Wooten, who years ago, when we learned that
+
+462
+00:43:11,428 --> 00:43:16,653
+Pelo Aspect was going to be in the Aquaman sequel,
+we asked listeners as a question of the week
+
+463
+00:43:16,773 --> 00:43:21,698
+who they thought he was playing. And Corey Wooten,
+if you listen to our Falcon and the Winter
+
+464
+00:43:21,738 --> 00:43:26,590
+Soldier review episode, stated that he thought
+he was playing Cordax. And he was right. Yeah
+
+465
+00:43:26,630 --> 00:43:32,694
+Cory bro, you gotta hook me up with the next
+Powerball numbers. Please. Realizing Cordex
+
+466
+00:43:32,714 --> 00:43:38,458
+can only be freed from the Blood Magic Ice Prison
+with the blood of Atlantean royalty, Aquaman
+
+467
+00:43:38,498 --> 00:43:43,982
+and his family rush to his father's lighthouse,
+only to find his father Tom dying and Junior
+
+468
+00:43:44,042 --> 00:43:49,826
+kidnapped. While Tom recovers, Arthur rallies
+his kingdom to rescue his son, chasing Black
+
+469
+00:43:49,846 --> 00:43:55,409
+Manta to Antarctica, where Cordex's forces have
+been unleashed and do battle with the Atlanteans.
+
+470
+00:43:55,998 --> 00:44:01,362
+Meanwhile, Dr. Shin hides Junior from Black
+Manta, but both are caught. I thought the movie
+
+471
+00:44:01,402 --> 00:44:06,506
+really wussed out by not killing Aquaman's dad.
+I mean, they didn't kill Aqua Baby, and we
+
+472
+00:44:06,847 --> 00:44:10,470
+probably figured that was gonna happen, but
+if they weren't gonna kill Aqua Baby, they
+
+473
+00:44:10,490 --> 00:44:14,874
+should have at least killed Aqua Dad. They should
+have, because there's precedent for that in
+
+474
+00:44:14,894 --> 00:44:20,218
+the comic as well. Both Aquaman and Black Manta
+essentially killed each other's fathers. So
+
+475
+00:44:20,719 --> 00:44:26,310
+why the hell not kill Tom? They really wussed
+out, I agree. Aquaman stops Black Manta before
+
+476
+00:44:26,350 --> 00:44:31,512
+Junior's blood can be spilled on the altar in
+front of the frozen Cordax. The two battle,
+
+477
+00:44:31,833 --> 00:44:36,735
+and Arthur disarms Black Manta of the Trident,
+only for Orm to get ahold of it and become
+
+478
+00:44:36,775 --> 00:44:43,577
+possessed by Cordax, successfully drawing Arthur's
+blood on the altar. As Cordax becomes free,
+
+479
+00:44:43,757 --> 00:44:48,900
+Arthur and Orm struggle for control of the Black
+Trident, with their bond as brothers, helping
+
+480
+00:44:48,940 --> 00:44:55,090
+them overcome Cordax's influence, and Arthur
+manages to kill Cordax, with Atlan's trident.
+
+481
+00:44:55,370 --> 00:45:01,674
+It makes you wonder why if Orm had the trident,
+why didn't he just prick his finger over the
+
+482
+00:45:01,734 --> 00:45:06,617
+altar? He has royal blood too, he could have
+easily undone the curse being possessed by
+
+483
+00:45:06,677 --> 00:45:10,639
+Kordax. He didn't really need Arthur's blood.
+Well I think Arthur would have tried to stop
+
+484
+00:45:10,679 --> 00:45:16,502
+him, so there was a tussle that was going to
+result regardless. Fair enough. After Black
+
+485
+00:45:16,582 --> 00:45:24,154
+Mantis seemingly falls to his death rather than
+be saved by Arthur, join their allies on a
+
+486
+00:45:24,194 --> 00:45:29,656
+glacier, where Arthur gives Orm his freedom
+rather than imprisoning him once again. To
+
+487
+00:45:29,696 --> 00:45:35,399
+help deal with the damaged atmosphere, Arthur
+reveals the existence of Atlantis to the UN
+
+488
+00:45:35,539 --> 00:45:42,141
+and the public. In the mid-credits scene, Orm
+enjoys a cheeseburger and a cockroach. Which
+
+489
+00:45:42,201 --> 00:45:49,664
+is a hell of a way to end the DCEU. I mean,
+it was funny, I laughed, but also like I was
+
+490
+00:45:49,744 --> 00:45:53,994
+kind of hoping there would be a little bit more
+after the credits. Yeah, something more substantial.
+
+491
+00:45:54,514 --> 00:45:59,896
+Right, right. Just to say like, hey, this is
+all done, but get ready for something new.
+
+492
+00:46:00,036 --> 00:46:05,258
+I don't know. Yeah, I think the Flash actually
+did a better job at that. I believe initially
+
+493
+00:46:05,358 --> 00:46:10,059
+the Flash was supposed to come out after Aquaman,
+according to the original release schedule.
+
+494
+00:46:10,639 --> 00:46:15,941
+And it's a shame that it didn't stay that way.
+It's a huge shame. These release dates should
+
+495
+00:46:15,981 --> 00:46:20,067
+have been flipped, I feel. I actually think
+they would have gotten more money out of both
+
+496
+00:46:20,107 --> 00:46:23,728
+of them if that had been the case. Because it
+really would have felt like The Flash was this
+
+497
+00:46:23,828 --> 00:46:29,091
+event film that you had to see because it was
+setting up something new. Yeah, instead we
+
+498
+00:46:29,131 --> 00:46:34,153
+got a Flash movie that didn't really serve as
+a transition and an Aquaman movie that was
+
+499
+00:46:34,333 --> 00:46:39,395
+kind of pointless. Exactly. It's hard for me
+to say that things are pointless just because
+
+500
+00:46:39,475 --> 00:46:43,777
+I think films should stand on their own regardless
+of if they're part of a cinematic universe
+
+501
+00:46:43,797 --> 00:46:48,608
+or not. but this film really doesn't do that
+either in the sense that it has very little
+
+502
+00:46:48,648 --> 00:46:55,652
+redeemable value on its own. I think despite
+a worthwhile final act, the scenic CG-heavy
+
+503
+00:46:55,692 --> 00:47:02,315
+film's attempts at silly humor and serious themes
+make for a tonally inconsistent finale to the
+
+504
+00:47:02,355 --> 00:47:08,019
+DCEU. And I think that's the film's biggest
+sin is that it's tonally inconsistent. I think
+
+505
+00:47:08,039 --> 00:47:14,390
+a director's main job is tone, and James Wan
+kind of failed on that here. I'm giving the
+
+506
+00:47:14,450 --> 00:47:20,394
+film 3 out of 5 stars, which is a 60% rating
+so it's borderline between a fresh and rotten
+
+507
+00:47:20,434 --> 00:47:27,498
+tomato. I've decided to not recommend this film,
+so it is getting a rotten rating from me. I
+
+508
+00:47:27,518 --> 00:47:32,501
+think it's right between Thor Love and Thunder
+and Shazam Fury of the Gods, which at least
+
+509
+00:47:32,721 --> 00:47:38,185
+was tonally consistent. I agree with the 3 star
+rating. I could also understand why you would
+
+510
+00:47:38,265 --> 00:47:43,681
+not recommend the film. largely due to its place
+within the DCEU, where it came chronologically
+
+511
+00:47:43,741 --> 00:47:49,385
+in that release order. We've seen a lot of superhero
+films recently make the mistake of going too
+
+512
+00:47:49,425 --> 00:47:54,729
+comedic with things, whether it's Thor 11th
+Under or like Modok from the Ant-Man movie.
+
+513
+00:47:54,929 --> 00:48:00,353
+I hope it's a trend that does not continue into
+2024, because I think it results in a lapse
+
+514
+00:48:00,473 --> 00:48:06,017
+of cinematic quality that exacerbates the current
+issue that we're seeing of superhero fatigue.
+
+515
+00:48:06,434 --> 00:48:13,236
+2023 is the year that fatigue really started
+to set in. And I think films like Aquaman,
+
+516
+00:48:13,256 --> 00:48:17,798
+The Lost Kingdom are partially to blame. This
+movie is not helping the genre, and both Marvel
+
+517
+00:48:17,858 --> 00:48:22,520
+and DC need to do a course correction for the
+future. Absolutely. Yeah, I agree. And luckily,
+
+518
+00:48:22,560 --> 00:48:27,882
+we know that DC is next year. We're going to
+be getting Joker, Folly, I do. But I think
+
+519
+00:48:27,902 --> 00:48:34,025
+that's the only live action DC film we're getting.
+So, yeah, we won't be seeing too much DC within
+
+520
+00:48:34,065 --> 00:48:41,159
+the next 365 days. Good, finally, geez. Fuck
+you. I wish we were seeing less Marvel. I freaking
+
+521
+00:48:41,299 --> 00:48:46,100
+hate watching these movies now. But that does
+it for this review guys. Let us know what you
+
+522
+00:48:46,120 --> 00:48:52,082
+thought about Aquaman and the Lost Kingdom by
+writing to us at dyna or by visiting us on
+
+523
+00:48:52,202 --> 00:48:56,223
+Instagram or X. You can find links to all of
+our accounts by checking out our show notes
+
+524
+00:48:56,283 --> 00:49:01,324
+or visiting our website at dynamicduel.com.
+And on our site, you can also find a link to
+
+525
+00:49:01,344 --> 00:49:06,938
+our Patreon page where you can join our dynamic
+two-o tier. and chat with us and fellow listeners,
+
+526
+00:49:07,318 --> 00:49:13,600
+our fantastic four tier, which gets you bonus
+content each month, our X force tier that makes
+
+527
+00:49:13,620 --> 00:49:19,402
+you an executive producer of this podcast, or
+our newest tier that lets you join our dynamike
+
+528
+00:49:19,442 --> 00:49:25,084
+podcast network. If you can't join Patreon,
+you can still support the show by signing up
+
+529
+00:49:25,124 --> 00:49:31,534
+for our e-newsletter also at dynamicduel.com
+so you'll never miss an episode. Or you create
+
+530
+00:49:31,554 --> 00:49:36,696
+the show on Apple Podcasts, Spotify, Podchaser,
+or on our website. In our next episode, we
+
+531
+00:49:36,736 --> 00:49:42,819
+will be doing our end of the year annual Brothers
+Awards, where we look back at everything Marvel
+
+532
+00:49:42,859 --> 00:49:48,461
+and DC had to offer in terms of television and
+film in 2023. Yeah, those episodes are always
+
+533
+00:49:48,501 --> 00:49:52,963
+a lot of fun. They're a great way to summarize
+our thoughts about what came out for the entire
+
+534
+00:49:53,003 --> 00:49:57,065
+year. Look forward to that. But that does it
+for this episode. We want to give a big thanks
+
+535
+00:49:57,085 --> 00:50:01,828
+to our executive producers, Ken Johnson. John
+Sturowski, Zachary Hepburn, Dustin Balcombe,
+
+536
+00:50:01,988 --> 00:50:07,432
+Miggy Matagian, Brandon Estergard, Nathaniel
+Wagner, Levi Yeaton, Nick Abonto, Austin Wazilowski,
+
+537
+00:50:07,692 --> 00:50:13,577
+AJ Dunkerley, Scott Camacho, Adam Spies, and
+Andrew Schunk for helping make this podcast
+
+538
+00:50:13,617 --> 00:50:17,921
+possible. And we'll talk to you guys next week.
+Up up and away, true believers.
+
