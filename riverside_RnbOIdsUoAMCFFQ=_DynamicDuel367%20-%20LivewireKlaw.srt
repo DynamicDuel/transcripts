@@ -1,0 +1,2219 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a Dynamike Network podcast.
+
+2
+00:00:24,418 --> 00:00:28,940
+Welcome to the dynamic duel podcast a weekly
+show where we review superhero films and debate
+
+3
+00:00:28,980 --> 00:00:34,383
+the superiority between Marvel and DC By comparing
+their characters in stat-based battle simulations
+
+4
+00:00:34,903 --> 00:00:40,626
+I'm Marvelous Joe and I'm his twin brother Johnny
+DC and in this episode We're going to find
+
+5
+00:00:40,666 --> 00:00:46,610
+out who to win in a fight between the Superman
+villain Livewire and the Black Panther villain
+
+6
+00:00:46,950 --> 00:00:52,673
+claw essentially These are two energy beings
+one composed of electricity and one composed
+
+7
+00:00:52,713 --> 00:00:57,404
+of sound So, yeah, we're gonna find out who
+wins between electricity and sound, essentially.
+
+8
+00:00:57,885 --> 00:01:02,628
+You had no idea who's gonna win, so we can't
+wait to find out the answer later on in this
+
+9
+00:01:02,688 --> 00:01:06,191
+episode. Before that, we're gonna break down
+the latest comic book movie news to come out
+
+10
+00:01:06,231 --> 00:01:10,894
+this past week, of which there was one major
+news item. According to Jeff Snyder, renowned
+
+11
+00:01:10,934 --> 00:01:15,618
+Hollywood journalist, Deborah Anwalt and Elden
+Henson will be returning as their characters
+
+12
+00:01:15,638 --> 00:01:21,394
+of Karen Page and Foggy Nelson in Daredevil
+Born Again. It's great news! As always, we
+
+13
+00:01:21,434 --> 00:01:25,416
+list our segment times in our episode description,
+so feel free to check out the show notes if
+
+14
+00:01:25,436 --> 00:01:30,599
+you want to skip ahead to a particular topic.
+Our artificially intelligent dual simulator,
+
+15
+00:01:30,859 --> 00:01:38,190
+AJ-9K, has a quick message for our listeners,
+so listen up. Why hello there. Do you love
+
+16
+00:01:38,250 --> 00:01:43,112
+listening and chatting about Marvel and DC?
+Then become a part of the dynamic dual community
+
+17
+00:01:43,172 --> 00:01:48,414
+on Patreon, where you can choose from three
+tiers. The dynamic 2-0 tier lets you listen
+
+18
+00:01:48,434 --> 00:01:53,437
+to this podcast without ads and gives you access
+to its Discord chat group, where you can chat
+
+19
+00:01:53,457 --> 00:01:58,339
+with Johnny DC and Marvelous Joe. The fantastic
+four tier gives you that and more with two
+
+20
+00:01:58,379 --> 00:02:03,141
+bonus episodes each month, including bloopers
+and top 10 shows where Johnny and Joe count
+
+21
+00:02:03,181 --> 00:02:08,011
+down your favorite Marvel and DC subjects. The
+X-Force tier makes you an executive producer
+
+22
+00:02:08,051 --> 00:02:12,502
+of Dynamic Duel, where every month you help
+the hosts choose what to review and who to
+
+23
+00:02:12,522 --> 00:02:18,587
+fight against each other. And finally, the Dynamike
+Podcast Network tier allows aspiring podcasters
+
+24
+00:02:18,627 --> 00:02:23,588
+to create their own battle-focused show using
+this Monte Carlo simulator. Johnny and Joe
+
+25
+00:02:23,608 --> 00:02:28,490
+will help you develop your show, provide graphic
+support and consultation, and get you simulation
+
+26
+00:02:28,530 --> 00:02:35,332
+results to announce on your show. Pitch the
+twins your show via email at dyna or by reaching
+
+27
+00:02:35,392 --> 00:02:40,593
+out to them on social media. Check it out at
+patreon.com slash dynamicduel. Pip pip cheerio!
+
+28
+00:02:42,262 --> 00:02:46,743
+Thanks AJ9K and thanks to everyone who supports
+the podcast. Be sure to tune in to the Max
+
+29
+00:02:46,763 --> 00:02:51,404
+Destruction Podcast guys, part of the Dynamike
+Podcast Network which last week found out who
+
+30
+00:02:51,424 --> 00:02:56,966
+would win in a fight between Severus Snape from
+Harry Potter and Wong from Doctor Strange.
+
+31
+00:02:57,506 --> 00:03:02,567
+This week I'll actually be guesting on Ken's
+show as we find out who would win between Michael
+
+32
+00:03:02,607 --> 00:03:09,509
+Keaton's Batman from the 1989 Batman and Matt
+Salinger's Captain America from the 1990 Captain
+
+33
+00:03:09,529 --> 00:03:14,636
+America film. That's right. Max Destruction
+is doing a Marvel vs. DC episode, and if you
+
+34
+00:03:14,676 --> 00:03:18,758
+want to find out who'd win between Batman and
+Captain America, at least those versions of
+
+35
+00:03:18,778 --> 00:03:24,042
+the characters, listen to his show Wednesday,
+January 15th. Meanwhile, on the Sandro World
+
+36
+00:03:24,082 --> 00:03:29,525
+podcast, host Zachary Hepburn speculates on
+fights between your favorite anime characters.
+
+37
+00:03:29,925 --> 00:03:36,229
+This week, we'll find out who would win between
+Killer B from Naruto against Blackstar from
+
+38
+00:03:37,562 --> 00:03:42,103
+And in the newest show in the Dynamite Podcast
+Network, Console Combat, hosts John and Dean
+
+39
+00:03:42,144 --> 00:03:46,305
+find out who would win in fights between your
+favorite video game characters. In yesterday's
+
+40
+00:03:46,345 --> 00:03:51,888
+episode, they speculated on who would win between
+Cervantes from Soul Calibur and Scorpion from
+
+41
+00:03:51,928 --> 00:03:57,870
+Mortal Kombat. So be sure to check that out.
+Visit dynamicpodcasts.com or click the link
+
+42
+00:03:57,910 --> 00:04:03,312
+in our show notes to listen to all of the shows
+in the Dynamite Podcast Network. But with that
+
+43
+00:04:03,352 --> 00:04:09,699
+out of the way, quick to the no prize. A no
+prize is an award Marvel used to give out to
+
+44
+00:04:09,739 --> 00:04:15,682
+fans. Our version, the Dynamic Dual No Prize,
+is a digital award we post on Instagram and
+
+45
+00:04:15,742 --> 00:04:20,625
+in our email newsletter for the person that
+we feel gave the best answer to our question
+
+46
+00:04:20,665 --> 00:04:25,868
+of the week. Last week's question we asked,
+who would you cast as the sentry in the MCU's
+
+47
+00:04:25,948 --> 00:04:29,650
+Thunderbolts film? And that's coming off of
+the news that Steven Yeun has departed that
+
+48
+00:04:29,690 --> 00:04:33,812
+role for that movie. You got a lot of great
+answers. Let's go ahead and run down our honorable
+
+49
+00:04:33,852 --> 00:04:39,596
+mentions as well as the no prize winner. Our
+first honorable mention goes to Scott Camacho,
+
+50
+00:04:39,896 --> 00:04:44,118
+who said, I'm going to go ahead and state the
+obvious and say Henry Cavill. I mean, he's
+
+51
+00:04:44,178 --> 00:04:49,401
+worked with Superman. So, you know, he has the
+goody two shoes parts of Sentry. And for the
+
+52
+00:04:49,561 --> 00:04:55,825
+void, his work with the Witcher and being a
+villain in Mission Impossible, I think he has
+
+53
+00:04:55,845 --> 00:05:01,668
+the acting chops and the star power to pull
+that character off. So I've heard this answer
+
+54
+00:05:01,708 --> 00:05:06,852
+before and I've always hated it. But now who
+we know that Henry Cavill is not returning
+
+55
+00:05:06,892 --> 00:05:11,235
+to the role of Superman. Sure. Why not make
+him the century? I actually think that would
+
+56
+00:05:11,275 --> 00:05:16,380
+be really cool. And I would love to see the
+actor again in a superhero role. Absolutely.
+
+57
+00:05:16,400 --> 00:05:21,624
+I mean, the guy is very superhero esque in his
+appearance. I think he'd be a fantastic century.
+
+58
+00:05:21,924 --> 00:05:28,770
+The character is often seen as an analog to
+DC's Superman. So, yeah, if he played Superman
+
+59
+00:05:28,810 --> 00:05:33,570
+for DC, let's have him play the analog for Marvel.
+I think he'd be a great get. It would also
+
+60
+00:05:33,590 --> 00:05:40,254
+be like the ultimate troll from Marvel 2 Warner
+Brothers. Exactly, exactly. I'm surprised actually
+
+61
+00:05:40,274 --> 00:05:43,235
+Jonathan you're going along with this because
+I think it's a great idea. Well this would
+
+62
+00:05:43,275 --> 00:05:48,238
+be punishment for not hashtag restoring the
+Snyderverse. WB gets what's coming to them.
+
+63
+00:05:48,678 --> 00:05:53,521
+Great answer Scott Camacho. Our next honorable
+mention goes to his twin brother, Gil Camacho.
+
+64
+00:05:53,881 --> 00:05:59,484
+Who said? Hey guys, Gilimacho here. I know a
+lot of people are probably thinking Henry Cavill
+
+65
+00:05:59,524 --> 00:06:05,312
+should be a good recruit for Sentry. just so
+we can punch a gut to DC. But since we both
+
+66
+00:06:05,352 --> 00:06:10,856
+have Luke and Chris Hemsworth, I think it should
+be Liam Hemsworth. All right, guys, thank you.
+
+67
+00:06:11,516 --> 00:06:16,961
+Yeah, why not round out the Hemsworth brother
+trio and get Liam Hemsworth in the role as
+
+68
+00:06:16,981 --> 00:06:22,124
+the Sentry. Now, some people may balk at the
+idea of casting both brothers in the MCU, but
+
+69
+00:06:22,164 --> 00:06:28,109
+there's precedent given that Luke plays the
+thespian version of Thor in Thor Ragnarok and
+
+70
+00:06:28,149 --> 00:06:32,555
+Love and Thunder. But also, the Sentry kinda
+looks like Thor in the comic books. You know,
+
+71
+00:06:32,735 --> 00:06:37,556
+they're both like big buff dudes with long blonde
+hair. Although Liam Hemsworth does look kinda
+
+72
+00:06:37,596 --> 00:06:42,257
+weird with long light colored hair. Have you
+seen him as the Witcher? It's weird! No. Hahaha.
+
+73
+00:06:43,858 --> 00:06:47,499
+I don't think it's a bad option. I think it's
+a pretty solid option. I think it could work,
+
+74
+00:06:47,559 --> 00:06:54,101
+yeah. Great answer, Gil. Our final honorable
+mention goes to Matt Estes, who said... Hey
+
+75
+00:06:54,141 --> 00:07:00,907
+guys, Matt Estes here. Hey, I think Alexander
+Ludwig. From Vikings, he played Bjorn Ironside,
+
+76
+00:07:00,987 --> 00:07:06,911
+would be a great pick for this entry. He's got
+the look and he's got the acting chops. Yeah,
+
+77
+00:07:06,991 --> 00:07:11,414
+offhand, I didn't remember who Alexander Ludwig
+was until I looked him up, but I totally recognize
+
+78
+00:07:11,434 --> 00:07:18,358
+him as the main villain of the first Hunger
+Games movie, and from Vikings. The guy looks
+
+79
+00:07:18,398 --> 00:07:23,041
+the part of this entry to a T. He has some big
+roles under his belt, and also, I don't think
+
+80
+00:07:23,061 --> 00:07:28,452
+he'll cost Marvel a dime. Yeah, honestly, there
+are a lot of actors from the Vikings series
+
+81
+00:07:28,672 --> 00:07:33,154
+that can play superhero roles. I'm still waiting
+for Katherine Winnick to join DC in some kind
+
+82
+00:07:33,194 --> 00:07:37,557
+of role. She needs to be there. She's awesome.
+Yeah, I remember when she was the front runner
+
+83
+00:07:37,597 --> 00:07:41,939
+on my wishlist to play Captain Marvel. But great
+answer, Matt Estes. We want to give a quick
+
+84
+00:07:41,979 --> 00:07:48,322
+shout out to Mitchell Smoothie, Cornelius Robinson,
+and Corey Wooten for taking the time to visit
+
+85
+00:07:48,342 --> 00:07:53,385
+our website and record your answers. But the
+winner of this week's Snow Prize is... John
+
+86
+00:07:53,425 --> 00:07:59,062
+Spees. and Ryan McMullen, who both gave the
+same answer. Let's hear both of them. Hey guys,
+
+87
+00:07:59,102 --> 00:08:06,087
+John Speas here. My pick for the century would
+be Alexander Skarsgård. I know his father's
+
+88
+00:08:06,107 --> 00:08:13,033
+already been in the MCU, but Alexander is tall.
+We know he can get fit from his time as Tarzan,
+
+89
+00:08:13,534 --> 00:08:18,418
+and he's got that Swedish blonde hair that I
+think would work really, really well. So he
+
+90
+00:08:18,498 --> 00:08:24,935
+is my pick, Alexander Skarsgård. Hey guys, it's
+Ryan McMullen here. Hi. choice for the Sentry
+
+91
+00:08:24,975 --> 00:08:30,538
+would be Alexander Skarsgard because that guy's
+got the look, right? He could definitely be
+
+92
+00:08:30,558 --> 00:08:35,661
+the Sentry. Nobody else hands down is him. Yeah,
+both of these are great answers. Not only does
+
+93
+00:08:35,761 --> 00:08:41,124
+Alexander Skarsgard have the look though, he
+also has the intensity, I believe, for the
+
+94
+00:08:41,164 --> 00:08:47,088
+role, which would be required to play a mentally
+unstable character like the Sentry. Oh sure,
+
+95
+00:08:47,168 --> 00:08:51,274
+yeah, did you see him in the Northman? That
+was a great role for him. No, but I saw the
+
+96
+00:08:51,314 --> 00:08:57,035
+trailer for Infinity Pool because I was too
+afraid to watch the movie and holy shit, this
+
+97
+00:08:57,075 --> 00:09:02,037
+guy could act. Yeah, he's a leading man. I have
+no doubt that he would make the perfect century
+
+98
+00:09:02,157 --> 00:09:08,279
+and I think a lot of fans would be super excited
+to see him in the role because he is to a T
+
+99
+00:09:08,719 --> 00:09:12,640
+the perfect century. It needs to happen. You
+know, I did see him in recently that I thought
+
+100
+00:09:12,660 --> 00:09:19,170
+he was really good in the final season of Succession.
+He was incredible in that role. like really
+
+101
+00:09:19,190 --> 00:09:23,753
+menacing and like really intelligent. So yeah,
+that's the perfect way to describe the century.
+
+102
+00:09:24,033 --> 00:09:30,157
+If Kevin Feige cast Alexander Skarsgard in the
+role of the century like tomorrow, I guarantee
+
+103
+00:09:30,177 --> 00:09:35,961
+you MCU stock would go up. Fans would be all
+over that. Absolutely, yeah. It would save
+
+104
+00:09:35,981 --> 00:09:42,286
+the box office. Do it Kevin Feige, do it for
+the fans. So congrats to John Spees and Ryan
+
+105
+00:09:42,326 --> 00:09:46,769
+McMullen. John is a long time friend of the
+show. You know, him and his brother Adam have
+
+106
+00:09:46,849 --> 00:09:53,745
+guessed it on. this podcast on numerous occasions.
+They recently ended their nostalgic movie podcast,
+
+107
+00:09:54,065 --> 00:09:59,969
+The Blast From Our Past, and we are super sad
+to see it gone. And Ryan McMullen, I think
+
+108
+00:09:59,989 --> 00:10:03,812
+this is the first time we've heard from you.
+Way to crush it out of the gate. Absolutely.
+
+109
+00:10:04,272 --> 00:10:07,334
+If you, the listener, want a shot at winning
+your own no prize, stay tuned to later on this
+
+110
+00:10:07,374 --> 00:10:12,157
+episode when we'll be asking another Question
+of the Week. And now that that's done, on to
+
+111
+00:10:12,177 --> 00:10:12,737
+the news.
+
+112
+00:10:18,318 --> 00:10:24,020
+Alright this past week we got some awesome news
+in regards to the Disney Plus upcoming television
+
+113
+00:10:24,060 --> 00:10:29,382
+show Daredevil Born Again. Now we learned like
+a couple months ago that the entire series
+
+114
+00:10:29,422 --> 00:10:35,144
+is being retooled under the new showrunner Dario
+Scartapin and with that news Jeff Snyder is
+
+115
+00:10:35,184 --> 00:10:41,767
+reporting via his blog The Insnyder that Deborah
+Ann Wall and Elden Hansen will be reprising
+
+116
+00:10:41,787 --> 00:10:48,342
+their roles as Karen Page and Foggy Nelson in
+the upcoming Daredevil season. Fantastic. Yeah,
+
+117
+00:10:48,362 --> 00:10:52,903
+it's super exciting because previously we had
+heard the exact opposite of that, that they
+
+118
+00:10:53,003 --> 00:10:58,064
+weren't returning because then Disney would
+have had to have paid the old Netflix writers
+
+119
+00:10:58,444 --> 00:11:03,606
+as like creators of the show. Yeah, something
+weird like that. But I'm glad that Skardepain
+
+120
+00:11:03,646 --> 00:11:08,307
+realized that Foggy Nelson and Karen Page were
+a huge part of the appeal from the Netflix
+
+121
+00:11:08,347 --> 00:11:13,788
+series. The chemistry between those three cast
+members was spot on and a big part of what
+
+122
+00:11:13,808 --> 00:11:18,670
+made the show enjoyable. Yeah, totally. I really
+hope that this means that The Netflix series
+
+123
+00:11:18,851 --> 00:11:24,856
+is made canon in the MCU. That would be fantastic.
+Well, interestingly enough, if you go onto
+
+124
+00:11:24,876 --> 00:11:31,101
+the Disney Plus Marvel Hub page, the Netflix
+series have been added to the official Marvel
+
+125
+00:11:31,121 --> 00:11:37,307
+timeline in their menu. A what? Yeah, so it
+looks like those shows are actually being treated
+
+126
+00:11:37,367 --> 00:11:43,952
+as canon now. Wait, even Iron Fist? Even Iron
+Fist. Whoa. Now, of course, that doesn't guarantee
+
+127
+00:11:43,972 --> 00:11:48,816
+that the actors will be. cast the same in future
+appearances. But we know that a lot are returning,
+
+128
+00:11:49,096 --> 00:11:54,199
+including Charlie Cox, now Deborah Anwalt, Elden
+Hansen, Jon Bernthal will be returning as the
+
+129
+00:11:54,239 --> 00:11:58,983
+Punisher, as it's expected that he will still
+retain his cameo on the Daredevil born again
+
+130
+00:11:59,023 --> 00:12:02,925
+series. And there are also rumors that Kristen
+Ritter will be returning as Jessica Jones in
+
+131
+00:12:02,945 --> 00:12:08,169
+a cameo. So lots to look forward to. Super excited
+with the new direction that Dario Scartapin
+
+132
+00:12:08,209 --> 00:12:13,131
+has taken this series. and really bringing Marvel
+fans what they want. The series doesn't currently
+
+133
+00:12:13,151 --> 00:12:18,513
+have a premiere date yet, but it's expected
+to come out in 2025. Can't wait for that. Of
+
+134
+00:12:18,553 --> 00:12:22,735
+course, if you want your immediate Daredevil
+fix, you can see him for approximately 90 seconds
+
+135
+00:12:23,296 --> 00:12:28,318
+as he cameos in the Echo television show. I
+haven't seen that yet. Is it really only 90
+
+136
+00:12:28,358 --> 00:12:34,701
+seconds? Yeah, it's only for one fight scene.
+What a rip off. I guess if you really want
+
+137
+00:12:34,721 --> 00:12:38,691
+your Daredevil fix, just rewatch the Netflix
+series. There you go. But speaking of Karen
+
+138
+00:12:38,711 --> 00:12:42,717
+Page and Foggy Nelson returning to the show,
+that brings us to our question of the week.
+
+139
+00:12:47,158 --> 00:12:51,961
+What other character from the Daredevil Netflix
+series do you most hope returns for Disney
+
+140
+00:12:51,981 --> 00:12:57,865
+Plus's Daredevil born again show and why? Record
+your answer at dynamicduel.com by clicking
+
+141
+00:12:57,925 --> 00:13:02,089
+on the red microphone button in the bottom right
+hand corner of the screen, which will prompt
+
+142
+00:13:02,129 --> 00:13:06,752
+you to leave us a voicemail. Your message could
+be up to 30 seconds long. And don't forget
+
+143
+00:13:06,792 --> 00:13:11,335
+to leave your name in case we include you on
+the podcast. We'll pick our favorite answer
+
+144
+00:13:11,596 --> 00:13:16,614
+and award that person a dynamic duel no prize.
+that we'll post to Instagram and our email
+
+145
+00:13:16,675 --> 00:13:22,427
+newsletter. Be sure to answer before January
+17th, because next weekend is our birthday,
+
+146
+00:13:23,008 --> 00:13:25,293
+and we're recording the next episode a little
+early.
+
+147
+00:13:32,430 --> 00:13:35,617
+But I think that does it for all the news for
+this episode, so let's go ahead and get into
+
+148
+00:13:35,677 --> 00:13:41,029
+our main event, where we find out who'd win
+between the villain characters of Livewire
+
+149
+00:13:41,671 --> 00:13:42,613
+and Claw.
+
+150
+00:13:57,794 --> 00:14:02,375
+Alright, Livewire versus Claw, as I mentioned
+at the top of this episode, these are two energy
+
+151
+00:14:02,415 --> 00:14:07,296
+beings, one of them being made out of electricity
+and one of them being made out of sound. I'm
+
+152
+00:14:07,316 --> 00:14:13,218
+a little bit nervous about how this speculation
+is going to go considering that these two characters
+
+153
+00:14:13,538 --> 00:14:18,199
+don't really have a physical essence that can
+be permanently harmed, I think. Yeah, how does
+
+154
+00:14:18,440 --> 00:14:24,281
+one energy form damage another energy form?
+I have no idea. We'll find out. We'll figure
+
+155
+00:14:24,321 --> 00:14:30,318
+something out. Of course, Livewire is a Superman
+villain who was first introduced in the Superman,
+
+156
+00:14:30,358 --> 00:14:34,481
+the animated series back in the 90s. She was
+an original character that has kind of stuck
+
+157
+00:14:34,521 --> 00:14:39,126
+around in the comics. Yeah, kind of like Harley
+Quinn. Yeah, yeah. Whereas Klaw has been a
+
+158
+00:14:39,166 --> 00:14:44,350
+primary villain for Black Panther since his
+first iteration. He was portrayed by Andy Serkis
+
+159
+00:14:44,530 --> 00:14:49,375
+in the Black Panther movie as well as Avengers
+Age of Ultron. Yeah, but the character is pretty
+
+160
+00:14:49,435 --> 00:14:54,091
+different in the comics as far as I'm aware.
+Yeah, he is like... Klaue in the movies was
+
+161
+00:14:54,231 --> 00:15:00,055
+an arms dealer whose hand was severed by Ultron,
+whereas in the comics, Klaue is more of a scientist
+
+162
+00:15:00,195 --> 00:15:05,019
+whose hand was actually taken by T'Challa himself.
+But we'll learn more about the character shortly.
+
+163
+00:15:05,079 --> 00:15:10,563
+Before that, to explain the methodology behind
+our duels, let's go to our sentient duel simulator,
+
+164
+00:15:10,763 --> 00:15:17,468
+Alfred Jarvis 9000. AJ9K, tell our listeners
+how you go about determining a winner in our
+
+165
+00:15:17,528 --> 00:15:22,639
+duel matchups. Yes, of course, sir. The way
+I determine a winner between the contestants
+
+166
+00:15:22,679 --> 00:15:28,723
+is by running 1000 Monte Carlo simulations using
+the characters statistics. A Monte Carlo simulation
+
+167
+00:15:28,763 --> 00:15:34,487
+is a probabilistic model used to determine outcomes
+through random sampling. In this case, I randomise
+
+168
+00:15:34,507 --> 00:15:38,950
+the statistics along a normal distribution as
+a way to simulate the many variables that can
+
+169
+00:15:38,990 --> 00:15:43,873
+occur during battle. The stat parameters are
+based on the official Marvel power grid from
+
+170
+00:15:43,893 --> 00:15:49,017
+which the DC characters statistics are extrapolated.
+Additional stat categories are included such
+
+171
+00:15:49,057 --> 00:15:54,556
+as range, damage potential, versatility and
+perception in order to create a more detailed
+
+172
+00:15:54,576 --> 00:15:59,698
+and accurate simulation. The results of the
+1000 simulations provide a percentage of wins
+
+173
+00:15:59,718 --> 00:16:04,180
+for each character. The contestant with the
+higher percentage is declared the victor as
+
+174
+00:16:04,200 --> 00:16:09,543
+they have a higher probability to win any given
+battle. In an equitable pairing, neither character
+
+175
+00:16:09,563 --> 00:16:14,285
+should win 100% of the matches. The comic book
+stories have shown that there's even a way
+
+176
+00:16:14,305 --> 00:16:19,355
+for Batman to defeat Superman. So the confidence
+rate of my method falls in line with the precedents
+
+177
+00:16:19,375 --> 00:16:24,418
+that have been established in the source material.
+My mathematical simulations are without subjectivity
+
+178
+00:16:24,458 --> 00:16:29,821
+or bias. Feats are not the sole consideration,
+nor are fan votes tabulated for determination
+
+179
+00:16:29,841 --> 00:16:35,124
+of the winner. Thanks AJ9K. Before we run the
+simulations though, we like to break down each
+
+180
+00:16:35,144 --> 00:16:39,566
+character's histories and abilities before improvising
+a scenario on how we imagine one of the 1000
+
+181
+00:16:39,907 --> 00:16:44,029
+simulations would play out beat for beat. And
+I believe it's my turn to go first with the
+
+182
+00:16:44,089 --> 00:16:51,135
+DC character. So let me tell you all about Livewire.
+Metropolis's radio shock jock DJ, Leslie Willis,
+
+183
+00:16:51,295 --> 00:16:56,877
+made a name for herself bashing Superman, claiming
+that he only saved people for attention seeking
+
+184
+00:16:57,117 --> 00:17:03,019
+and less than altruistic reasons. At the height
+of her popularity, the owner of the radio station,
+
+185
+00:17:03,319 --> 00:17:10,561
+Miguel Sendoza, decided to switch to a country
+music format and he fired Leslie, in part because
+
+186
+00:17:10,601 --> 00:17:15,815
+his wife had been saved by Superman a week prior.
+and he didn't appreciate Leslie's success.
+
+187
+00:17:16,416 --> 00:17:23,040
+Unbeknownst to Miguel, Leslie was a metahuman
+capable of absorbing and redirecting electromagnetic
+
+188
+00:17:23,100 --> 00:17:28,484
+waves, and after electrocuting her producer,
+Leslie went to the roof of the radio station's
+
+189
+00:17:28,524 --> 00:17:34,569
+building and climbed its antenna in an attempt
+to disrupt the signal coming from it. She was
+
+190
+00:17:34,629 --> 00:17:40,433
+struck by lightning on the tower, however, and
+her nervous system, unable to absorb that level
+
+191
+00:17:40,473 --> 00:17:46,669
+of electricity. was converted into pure electrical
+energy. Thrilled by her transformation and
+
+192
+00:17:46,809 --> 00:17:52,293
+overcome by power, Leslie decided to attack
+Superman while he was searching for Lois Lane,
+
+193
+00:17:52,593 --> 00:17:58,538
+who had been kidnapped by Leslie's brother.
+Initially overwhelmed by Leslie's power, Superman
+
+194
+00:17:58,578 --> 00:18:03,641
+managed to defeat her by seeding a cloud with
+ice particles, transforming it into a storm
+
+195
+00:18:03,681 --> 00:18:09,894
+cloud that generated a lightning bolt that shorted
+Leslie's body, just in time to save Lois. You
+
+196
+00:18:09,914 --> 00:18:15,518
+can learn more about Superman in our Superman
+vs. Dr. Doom episode. Leslie was later kidnapped,
+
+197
+00:18:15,578 --> 00:18:21,744
+along with many other metahumans, by an alien
+known as the Auctioneer, who captured and sold
+
+198
+00:18:21,904 --> 00:18:27,568
+unique beings across the universe. After successfully
+shorting the power source to her containment
+
+199
+00:18:27,609 --> 00:18:34,270
+field, Leslie was able to escape and help Earth's
+heroes such as Superman and Mr. Terrific. defeat
+
+200
+00:18:34,290 --> 00:18:39,394
+the Auctioneer by taking over his ship's communication
+systems, and she was able to broadcast their
+
+201
+00:18:39,434 --> 00:18:45,259
+victory to Earth. After having been seen partnered
+with the heroes, Leslie decided to turn over
+
+202
+00:18:45,319 --> 00:18:51,004
+a new leaf and agreed to be studied by Star
+Labs. Her power levels fluctuated over time
+
+203
+00:18:51,325 --> 00:18:56,429
+as her entire body began converting to energy,
+which slowly caused her to become mentally
+
+204
+00:18:56,529 --> 00:19:03,782
+unbalanced. She escaped Star Labs and took hostages
+in Las Vegas. demanding a ransom of all the
+
+205
+00:19:03,822 --> 00:19:09,205
+money in the town. Jimmy Olsen happened to be
+in Las Vegas at the time, and after he summoned
+
+206
+00:19:09,285 --> 00:19:15,047
+Superman and he and Leslie fought, Superman
+managed to get Leslie into a containment suit
+
+207
+00:19:15,147 --> 00:19:20,669
+that he wore during a time in the 90s when he
+himself was also an electrical energy being.
+
+208
+00:19:21,150 --> 00:19:26,312
+I remember that electric blue Superman, yeah.
+The containment suit instantly helped regulate
+
+209
+00:19:26,372 --> 00:19:32,663
+Leslie's energy and her sanity was restored.
+Soon after, Leslie became a member of the Superman
+
+210
+00:19:32,723 --> 00:19:38,388
+of America, a team Superman put together after
+traveling the United States and realizing he
+
+211
+00:19:38,428 --> 00:19:44,433
+can't be everywhere all the time. In post-Flashpoint
+continuity, Leslie was given a new origin.
+
+212
+00:19:44,853 --> 00:19:50,718
+No longer a radio shock jock, but a streaming
+personality and vlogger made famous for her
+
+213
+00:19:50,778 --> 00:19:56,323
+makeup tutorials and pranks. For one of her
+pranks, Leslie broke into Metropolis's main
+
+214
+00:19:56,363 --> 00:20:03,106
+power station and took control of the with the
+intention of turning off all of its power except
+
+215
+00:20:03,166 --> 00:20:09,008
+for one illuminated, obscene message that could
+be seen from space. Superman interrupted the
+
+216
+00:20:09,068 --> 00:20:15,270
+stream, however, and Leslie accidentally electrocuted
+herself with enough electricity to power Metropolis.
+
+217
+00:20:15,770 --> 00:20:21,012
+Blaming Superman for what had happened to her,
+she fought him a number of times before Batman
+
+218
+00:20:21,052 --> 00:20:26,373
+created an energy-diffusion prison for her on
+Stryker's Island. A cult managed to siphon
+
+219
+00:20:26,393 --> 00:20:31,283
+her out of prison, however, and Batgirl was
+forced to bring her down with her father Commissioner
+
+220
+00:20:31,343 --> 00:20:37,665
+Gordon when he was Batman for a time. And that's
+Livewire's brief history. She hasn't been around
+
+221
+00:20:37,706 --> 00:20:44,368
+for a long time. Powers-wise, Livewire is a
+being of pure electromagnetic energy, making
+
+222
+00:20:44,408 --> 00:20:50,731
+her immune to most physical attacks. She can
+absorb, store, and project electrical energy
+
+223
+00:20:50,791 --> 00:20:56,433
+strong enough to affect Superman, though high-voltage
+attacks do use up a substantial amount of her
+
+224
+00:20:56,513 --> 00:21:02,356
+energy. and forces her to recharge by absorbing
+additional electrical energy elsewhere. She
+
+225
+00:21:02,396 --> 00:21:07,718
+is able to phase through most solid matter and
+can travel along power lines or other forms
+
+226
+00:21:07,758 --> 00:21:13,320
+of circuitry. She could also imbue machines
+and devices with her own electrical energy
+
+227
+00:21:13,660 --> 00:21:19,202
+to take control of them. She can naturally emit
+radio waves, and she can charge objects with
+
+228
+00:21:19,262 --> 00:21:22,024
+electromagnetic energy to make them magnetic.
+
+229
+00:21:27,026 --> 00:21:32,831
+and cannot affect insulated objects. That's
+LiveWire. I like how her origin was updated
+
+230
+00:21:32,871 --> 00:21:36,935
+from a shock jock, which is what it was from
+the cartoon, if I remember correctly, to an
+
+231
+00:21:37,015 --> 00:21:42,299
+influencer. Yeah, a wannabe influencer, essentially.
+Yeah, that's pretty great. I didn't know she
+
+232
+00:21:42,319 --> 00:21:46,944
+was a technopath, though. I didn't know she
+could control other electronic devices. Yes.
+
+233
+00:21:46,964 --> 00:21:51,348
+I guess that makes sense. Yeah, she does that
+pretty frequently with TV screens, or just
+
+234
+00:21:51,388 --> 00:21:56,207
+screens of any kind, really. Okay. She like
+invades their systems and then like she can
+
+235
+00:21:56,307 --> 00:22:01,010
+speak to people through screens. It's pretty
+cool. Yeah, this is gonna be a difficult fight
+
+236
+00:22:01,090 --> 00:22:06,673
+because let me tell you about Klaue's history
+and powers. Ulysses Klaue was born in Belgium,
+
+237
+00:22:06,973 --> 00:22:12,737
+the son of Fritz Klaue, a former Hydra Colonel
+who in World War II joined Baron Strucker in
+
+238
+00:22:12,777 --> 00:22:17,960
+an attempted invasion of the African nation
+of Wakanda in order to learn its secrets. The
+
+239
+00:22:18,000 --> 00:22:23,794
+Klaue family had a history with the as Ulysses'
+great-great-great grandfather had a run-in
+
+240
+00:22:23,814 --> 00:22:29,456
+with the Wakandans in the 1800s and never returned
+home to tell about it. Fritz, his father, was
+
+241
+00:22:29,516 --> 00:22:34,497
+slightly luckier as he was able to barely escape
+Wakanda with his life. Returning home to Belgium,
+
+242
+00:22:34,858 --> 00:22:40,499
+Fritz raised Ulysses with tales of the formidable
+African nation and instilled in his son an
+
+243
+00:22:40,539 --> 00:22:45,621
+intense hatred for Wakanda and its leader, the
+Black Panther. You can learn more about the
+
+244
+00:22:45,641 --> 00:22:51,115
+Black Panther in his dual episode against Black
+Manta. Something of a science prodigy, Ulysses
+
+245
+00:22:51,155 --> 00:22:56,260
+studied physics as a young adult, specializing
+in the field of applied sonics at the Technical
+
+246
+00:22:56,300 --> 00:23:01,985
+University of Delft in the Netherlands. There,
+he designed a sound transducer able to convert
+
+247
+00:23:02,005 --> 00:23:07,610
+the vibrational waves of sound into physical
+mass. However, the device would require vibranium
+
+248
+00:23:07,710 --> 00:23:12,714
+in order to function, vibranium being a rare
+metal found only in the nation of Wakanda that
+
+249
+00:23:12,754 --> 00:23:17,891
+can absorb kinetic energy. Eager to get his
+hands on the metal? Ulysses enlisted a group
+
+250
+00:23:17,931 --> 00:23:23,236
+of mercenaries and fashioned a sonic blaster.
+He and the mercenaries journeyed to the Wakandan
+
+251
+00:23:23,276 --> 00:23:29,201
+border, where they were confronted by its then-king
+and Black Panther, T'Chaka. When the king was
+
+252
+00:23:29,281 --> 00:23:35,067
+overpowered by Ulysses' sonic blaster, 13-year-old
+Prince T'Challa jumped in the fight to help.
+
+253
+00:23:35,587 --> 00:23:40,552
+As Ulysses fired his weapon on the young prince,
+T'Chaka leapt in the way of the blast and was
+
+254
+00:23:40,632 --> 00:23:46,193
+killed, protecting his son. In retaliation,
+Wakandan warrior Zuri impaled Ulysses right
+
+255
+00:23:46,273 --> 00:23:52,138
+arm with a spear, causing him to drop his sonic
+blaster. Young T'Challa then picked it up and
+
+256
+00:23:52,238 --> 00:23:58,003
+used it to blow off Ulysses hand and force the
+villain to retreat. In the end, Ulysses did
+
+257
+00:23:58,043 --> 00:24:03,228
+obtain a small sample of vibranium, but more
+importantly, earned an enemy for life in Prince
+
+258
+00:24:03,248 --> 00:24:08,473
+T'Challa, who would grow up to become the new
+king of Wakanda and the Black Panther. Ulysses
+
+259
+00:24:08,513 --> 00:24:12,955
+spent the next few years building his sound
+transducer that could convert sound waves into
+
+260
+00:24:13,035 --> 00:24:18,238
+solid form and equipping it into a prosthetic
+device to replace his missing right hand. He
+
+261
+00:24:18,258 --> 00:24:22,561
+attempted to invade Wakanda again, this time
+getting at the source of all vibranium called
+
+262
+00:24:22,621 --> 00:24:28,104
+the Great Mound, and bombarded Wakanda with
+a horde of sound energy creature constructs,
+
+263
+00:24:28,584 --> 00:24:33,287
+which Ulysses referred to as Echoes. However,
+Black Panther was able to track the source
+
+264
+00:24:33,327 --> 00:24:38,918
+of these Echoes to Ulysses' secret lab which
+he blew up, seemingly killing Ulysses. As it
+
+265
+00:24:38,938 --> 00:24:43,800
+turned out, however, the villain's consciousness
+survived as his body was transformed by his
+
+266
+00:24:43,820 --> 00:24:49,542
+transducer into a being made entirely out of
+sound, now able to shape and control vibrational
+
+267
+00:24:49,582 --> 00:24:54,945
+forces at will. With his new abilities, he set
+his sights on the Fantastic Four and Mr. Fantastic's
+
+268
+00:24:55,025 --> 00:25:00,207
+inventions. Though Ulysses was able to trap
+the team in a force field, the heroes consulted
+
+269
+00:25:00,227 --> 00:25:05,209
+with Black Panther, who sent them some vibranium
+knuckle guards that Mr. Fantastic used to defeat
+
+270
+00:25:05,249 --> 00:25:09,891
+the villain. As it turned out, vibranium was
+one of Ulysses' only weaknesses due to its
+
+271
+00:25:09,931 --> 00:25:15,134
+vibration absorbing properties that would render
+his powers inert. Ulysses was imprisoned, but
+
+272
+00:25:15,174 --> 00:25:20,136
+was freed by Ultron, who recruited him into
+his Masters of Evil super villain team. The
+
+273
+00:25:20,176 --> 00:25:25,218
+group took on the Avengers, but were defeated
+in battle with Ulysses falling to his rival,
+
+274
+00:25:25,438 --> 00:25:30,741
+the Black Panther. His sound form was too powerful
+to be subdued by conventional means, however,
+
+275
+00:25:31,201 --> 00:25:36,867
+and Ulysses to set his sights on an isotope
+variation of Wakandan vibranium called Antarctic
+
+276
+00:25:36,907 --> 00:25:41,789
+Vibranium, which was found only in the Savage
+Land, a hidden tropical region in Antarctica
+
+277
+00:25:41,949 --> 00:25:47,911
+located well below sea level. Unlike Wakandan
+vibranium which absorbs vibrations, Antarctic
+
+278
+00:25:47,931 --> 00:25:53,913
+vibranium emanates vibrations. Ulysses was thwarted
+in his attempt to obtain it by the jungle hero
+
+279
+00:25:53,953 --> 00:25:59,367
+of the Savage Land known as Khazar. who caused
+the villain to attune the Antarctic Vibranium
+
+280
+00:25:59,508 --> 00:26:04,511
+at such a frequency as to open a portal to a
+different vibratory plane of reality, where
+
+281
+00:26:04,571 --> 00:26:09,495
+Ulysses became stuck. Eventually, though, he
+found his way back home via the Nexus of All
+
+282
+00:26:09,535 --> 00:26:14,378
+Realities, a portal to all dimensions that you
+can learn more about in our Swamp Thing vs
+
+283
+00:26:14,458 --> 00:26:19,341
+Man Thing dual episode. Ulysses suffered his
+quickest and most embarrassing defeat at the
+
+284
+00:26:19,381 --> 00:26:25,534
+hands of the mutant Dazzler, whose whole ability
+is to convert sound into light energy. She
+
+285
+00:26:25,574 --> 00:26:31,196
+absorbed his sound essence only to expel it
+later in a fight with Galactus, the world devourer.
+
+286
+00:26:31,677 --> 00:26:36,519
+Ulysses' consciousness then found itself living
+inside of Galactus' machinery for a time until
+
+287
+00:26:36,559 --> 00:26:41,321
+he was discovered by Dr. Doom during the Secret
+Wars event where heroes were pit against villains
+
+288
+00:26:41,421 --> 00:26:46,684
+in a cosmic experiment on a planet called Battleworld.
+After returning to Earth, Ulysses became a
+
+289
+00:26:46,724 --> 00:26:51,711
+member of the Frightful Four, alongside the
+Wizard, Hydro Man and Titania, and the team
+
+290
+00:26:51,731 --> 00:26:56,455
+was successful in transforming the Fantastic
+Four's thing from his rocky form into his human
+
+291
+00:26:56,495 --> 00:27:02,140
+form as Ben Grimm, thus rendering the hero powerless.
+Though the Frightful Four were able to capture
+
+292
+00:27:02,160 --> 00:27:06,984
+the remaining Fantastic Four, it was the human
+Ben Grimm who freed his teammates and saved
+
+293
+00:27:07,024 --> 00:27:12,329
+the day, resulting in Ulysses being imprisoned
+by Mr. Fantastic in a special vacuum containment
+
+294
+00:27:12,429 --> 00:27:19,038
+unit. An echo construct of Ulysses himself managed
+to evade apprehension, however. and captured
+
+295
+00:27:19,098 --> 00:27:25,142
+the hero Daredevil in an effort to use his superior
+senses to locate his original self via a specially
+
+296
+00:27:25,202 --> 00:27:30,206
+built antenna. Daredevil destroyed the Echo's
+antenna device though, which destroyed the
+
+297
+00:27:30,286 --> 00:27:35,389
+Echo itself. The real Ulysses would be freed
+by the frightful Four, which included the new
+
+298
+00:27:35,409 --> 00:27:40,573
+member Carnage, whom you can learn more about
+in our Lobo vs Carnage dual episode. Due to
+
+299
+00:27:40,593 --> 00:27:46,657
+the symbiote's insanity and weakness to Sonics,
+Ulysses kept Carnage in check to keep the team
+
+300
+00:27:46,717 --> 00:27:52,137
+safe. Carnage turned on the team, however, and
+stabbed Ulysses with a vibranium spear that
+
+301
+00:27:52,177 --> 00:27:58,463
+caused him to detonate and disperse beyond reconstitution.
+With his final act, Ulysses used the last of
+
+302
+00:27:58,503 --> 00:28:03,847
+his power to summon a bolt of sound energy that
+separated Carnage from his host. Though he
+
+303
+00:28:03,867 --> 00:28:08,631
+was believed to be dead, Ulysses was later found
+as a prisoner of the international peacekeeping
+
+304
+00:28:08,711 --> 00:28:14,556
+agency, SHIELD, apparently having reconstituted.
+That's his backstory. Powers-wise, Claws abilities
+
+305
+00:28:14,636 --> 00:28:20,621
+stem from his Soundwave body. which his consciousness
+can vibrate at a frequency to produce a solid
+
+306
+00:28:20,681 --> 00:28:26,165
+form. In fact, he can manipulate all ambient
+sound in his vicinity for a variety of effects,
+
+307
+00:28:26,586 --> 00:28:33,031
+including creating other solid sound constructs
+called echoes, project waves or beams of concussive
+
+308
+00:28:33,071 --> 00:28:38,996
+force, and create deafening or debilitating
+tones. By manipulating the frequency of his
+
+309
+00:28:39,136 --> 00:28:44,101
+own sonic state, he can render himself highly
+durable, with increased strength able to lift
+
+310
+00:28:44,141 --> 00:28:49,115
+around 10 tons, and even more when supported
+by additional vibrational force, or he can
+
+311
+00:28:49,135 --> 00:28:53,856
+render himself intangible. Either way, he is
+virtually immortal and resistant to physical
+
+312
+00:28:53,896 --> 00:28:58,998
+attack. He is a gifted technical engineer and
+scientist in the branch of physics that studies
+
+313
+00:28:59,058 --> 00:29:04,980
+sound. His only weakness is vibranium, which
+absorbs sound, or a vacuum in which he would
+
+314
+00:29:05,020 --> 00:29:10,414
+dissipate. And that's Klaue. I'm not gonna lie,
+Klaue is a pretty cool villain. Yeah, he's
+
+315
+00:29:10,454 --> 00:29:15,238
+kind of like a red lantern, although more like
+a red green lantern because red lanterns do
+
+316
+00:29:15,278 --> 00:29:19,601
+they even produce constructs? I thought it was
+just like lava. They can, they can. Although
+
+317
+00:29:19,621 --> 00:29:25,826
+I do think it's dumb that his friggin weakness
+is the primary weapon of his rival. That's
+
+318
+00:29:25,866 --> 00:29:30,830
+like Superman going up against kryptonite man.
+Yeah, Clair really needs to find a better enemy
+
+319
+00:29:30,990 --> 00:29:36,295
+than the guy who is best equipped to kill him.
+Exactly. I think you'd be a much more successful
+
+320
+00:29:36,355 --> 00:29:41,474
+villain if he stopped going against the Black
+Panther. Definitely not the Dazzler either.
+
+321
+00:29:41,955 --> 00:29:42,477
+That was funny.
+
+322
+00:29:49,430 --> 00:29:53,051
+Now that we got the characters' histories and
+abilities out of the way, let's speculate on
+
+323
+00:29:53,091 --> 00:29:57,712
+how one of the 1000 simulated matches will go.
+The winner is determined by his simulations,
+
+324
+00:29:58,032 --> 00:30:02,893
+not the speculation, but it's fun to imagine
+how the fight can play out. AJ9K, what are
+
+325
+00:30:02,913 --> 00:30:08,015
+the rules of our speculation? Well, I should
+say there are no rules, other than the characters
+
+326
+00:30:08,055 --> 00:30:12,576
+have no prior knowledge of the other going into
+the fight. All they are aware of starting out
+
+327
+00:30:12,916 --> 00:30:17,177
+is that the other character is a threat that
+needs to be eliminated. For the speculation...
+
+328
+00:30:17,526 --> 00:30:22,527
+The contestants will begin approximately 50
+meters apart in a nondescript environment that
+
+329
+00:30:22,547 --> 00:30:26,948
+will have no bearing on the match itself, as
+no environmental statistics are considered
+
+330
+00:30:26,968 --> 00:30:31,990
+in my simulations. The contestants must earn
+victory on their own merit. Alright then, let's
+
+331
+00:30:32,010 --> 00:30:39,152
+get into it. Livewire and Claw meet on the battlefield.
+Who goes first? I'm gonna say Livewire goes
+
+332
+00:30:39,192 --> 00:30:45,062
+first because electricity moves faster than
+sound, I'm pretty sure. Yeah. So... She's gonna
+
+333
+00:30:45,102 --> 00:30:51,945
+start by firing a lightning bolt right at Claw's
+face, which no way he's fast enough to dodge
+
+334
+00:30:51,985 --> 00:30:57,547
+that. Uh, well, I mean, like, if she moves her
+hand and fires the lightning bolt with lightning
+
+335
+00:30:57,587 --> 00:31:02,289
+speed, you're probably right. Uh, he wouldn't
+be able to dodge it, so he gets hit in the
+
+336
+00:31:02,329 --> 00:31:09,052
+face, but you forget his physical form isn't
+normal. It's just vibrational forces that are
+
+337
+00:31:09,192 --> 00:31:13,773
+rendered solid. So, like, he probably gets blasted
+onto his back, and he's probably a little stunned.
+
+338
+00:31:14,070 --> 00:31:20,532
+but he's not like seriously injured, right?
+And you know what follows lightning? That's
+
+339
+00:31:20,612 --> 00:31:27,415
+right, thunder. And as soon as the thunder clap
+follows her lightning bolt, which is like immediately,
+
+340
+00:31:28,916 --> 00:31:35,218
+the thunder is gonna empower claw and he's gonna
+convert the sound of the thunder into a construct
+
+341
+00:31:35,298 --> 00:31:39,780
+of like a herd of giant stampeding elephants.
+And those elephants are just gonna trample
+
+342
+00:31:39,820 --> 00:31:47,181
+Livewire. Interesting, okay. But actually, Livewire,
+she's just gonna convert her body into electricity
+
+343
+00:31:47,701 --> 00:31:53,646
+and zip between the elephants and then like
+zap herself right into Claw's sonic device
+
+344
+00:31:53,666 --> 00:31:58,950
+that he has on his hand. And she's going to
+short that sucker. So now Claw can't use it
+
+345
+00:31:58,991 --> 00:32:04,895
+to project sound anymore. Oh, really? Yeah.
+You think it would be that easy? That's cute.
+
+346
+00:32:05,396 --> 00:32:13,350
+Again, Claw is made of essentially kinetic sound
+energy, including his sonic blaster. It's not
+
+347
+00:32:13,590 --> 00:32:18,896
+actually technology. Well, why the fuck does
+it look like it is then? Like, why would he
+
+348
+00:32:18,936 --> 00:32:24,541
+just give himself a normal hand? Excuse me.
+Something as bad as does it need a reason?
+
+349
+00:32:25,002 --> 00:32:30,187
+Yes. The answer is no. You know, he has a hand
+blaster on his hand because it's just that
+
+350
+00:32:30,207 --> 00:32:37,974
+much cooler when he kills you with it. That's
+why. Oh, my gosh. OK. So live wire. She dives
+
+351
+00:32:38,034 --> 00:32:44,039
+into his sonic blaster hand, which is essentially
+just pure kinetic energy. So she gets thrown
+
+352
+00:32:44,099 --> 00:32:49,623
+out of it, I guess. But now she knows what she's
+dealing with, at least more or less. And she's
+
+353
+00:32:49,643 --> 00:32:57,628
+going to generate an electromagnetic energy
+dome around Klaut to contain him. Okay. Well,
+
+354
+00:32:57,648 --> 00:33:03,733
+I'm going to say this electricity dome is probably
+making a noise, like this low level electric
+
+355
+00:33:03,893 --> 00:33:10,217
+hum sound, right? So Klaue's gonna tap into
+that electrical hum and amplify it so that
+
+356
+00:33:10,257 --> 00:33:16,882
+it turns into this debilitating, piercing noise
+that just penetrates the energy field and hurts
+
+357
+00:33:16,962 --> 00:33:23,747
+Livewire's ears so bad that she like drops the
+energy field. And then Klaue is gonna shoot
+
+358
+00:33:23,787 --> 00:33:29,671
+this massive, concussive energy beam from a
+sonic blaster at Livewire and it's gonna slam
+
+359
+00:33:29,691 --> 00:33:35,114
+into her like a freight train and cause her
+body to disperse. I was going to call bullshit
+
+360
+00:33:35,234 --> 00:33:41,136
+on that, like, piercing sound attack you just
+did, but I guess she is still able to hear
+
+361
+00:33:41,276 --> 00:33:48,059
+things. Yeah, yeah. I guess it would work. OK,
+so you fired this beam at her and say her body
+
+362
+00:33:48,079 --> 00:33:55,582
+was dispersed. You think it was a dispersal,
+but it was intentional to dodge the beam and
+
+363
+00:33:55,622 --> 00:34:00,624
+livewire reforms, like essentially teleporting
+right behind Klawe, where she's going to grab
+
+364
+00:34:00,664 --> 00:34:07,388
+him by the back of the neck and just electrocute
+him. at the source fatality style dude sonic
+
+365
+00:34:07,849 --> 00:34:12,892
+form I don't know what you don't get about that
+yes solid sonic form it would have no effect
+
+366
+00:34:12,932 --> 00:34:19,577
+on him like the sound does not conduct electricity
+so she's gonna try to electrocute him he just
+
+367
+00:34:19,617 --> 00:34:25,321
+goes intangible to escape her grasp and then
+he's gonna shoot a massive shock wave into
+
+368
+00:34:25,341 --> 00:34:31,445
+the ground beneath live wire like shaking the
+ground and breaking it up and he's gonna lift
+
+369
+00:34:31,505 --> 00:34:37,250
+these massive boulders using vibrational forces
+into the air and then slam them down onto her
+
+370
+00:34:37,290 --> 00:34:42,694
+just Burying live wire like deep into the ground
+like 20 or 30 feet in the ground He buries
+
+371
+00:34:42,714 --> 00:34:48,619
+live wire and that grounds her right? I'm no
+scientist But I think at that point her electrical
+
+372
+00:34:48,699 --> 00:34:53,483
+energy form would be grounded and would like
+disperse into the earth and she would lose
+
+373
+00:34:53,523 --> 00:35:00,369
+Her form so she'd be gone Essentially so match
+over you just got scienced. Oh, too can sense
+
+374
+00:35:00,429 --> 00:35:09,054
+of this game bitch Let's say when she's grabbing
+him by the neck, that electric charge was actually
+
+375
+00:35:09,094 --> 00:35:16,598
+to convert his sound form into an electric current,
+just like a microphone, so that she could transmit
+
+376
+00:35:16,638 --> 00:35:23,161
+his body into space as radio waves. So she wins.
+What is that? How microphones work? You don't
+
+377
+00:35:23,181 --> 00:35:28,704
+know how microphones work. Yeah, man. They like
+use magnets or some shit to like turn sound
+
+378
+00:35:28,784 --> 00:35:36,013
+into an electric signal and live It's like a
+living electromagnet. So in your face. Magnets,
+
+379
+00:35:36,133 --> 00:35:44,400
+how do they work? Ha ha ha. But like, you need
+some kind of like antenna or something to broadcast
+
+380
+00:35:44,460 --> 00:35:48,924
+the signal. Like she would need some kind of
+technology. She can't do that on her own. No,
+
+381
+00:35:48,984 --> 00:35:53,788
+actually, she can. That's one of her abilities
+that I said she had. She's actually even done
+
+382
+00:35:53,828 --> 00:35:59,152
+her own Sonic attacks before by bombarding people
+who could hear radio waves like Superman or
+
+383
+00:35:59,172 --> 00:36:04,768
+the Flash's children. Oh. Well, good on you
+for conveniently leaving that out of your bio.
+
+384
+00:36:04,788 --> 00:36:10,831
+I just said I mentioned it. I wasn't paying
+attention to you. Also, radio waves are not
+
+385
+00:36:10,871 --> 00:36:15,114
+the same thing as actual sound. So I think you're
+full of crap. That's not technically a sonic
+
+386
+00:36:15,154 --> 00:36:19,536
+attack. I don't know what you're talking about.
+No, but a microphone will convert sound into
+
+387
+00:36:19,776 --> 00:36:24,900
+a radio wave. And again, she just blasts them
+out into space to drift forever. That's stupid.
+
+388
+00:36:25,040 --> 00:36:30,411
+But we could leave the match there. I say she
+gets buried underground. and you say that Klaue
+
+389
+00:36:30,431 --> 00:36:35,634
+gets blasted into the sky as radio waves. Yeah,
+no sound in space. Yeah, in space, no one can
+
+390
+00:36:35,654 --> 00:36:39,197
+hear Klaue scream. We'll go ahead and leave
+the match there. We'll run the stats on these
+
+391
+00:36:39,217 --> 00:36:44,301
+characters and find out which of these scenarios
+happens when we come back with a winner. AG9K,
+
+392
+00:36:44,661 --> 00:36:51,706
+hit it. Inputting data, running calculations,
+processing results, simulations complete. All
+
+393
+00:36:51,726 --> 00:36:56,569
+right. I was really nervous prior to the match,
+trying to figure out how these two energy beings
+
+394
+00:36:56,609 --> 00:37:01,583
+would hurt each other, live wire being electrical
+energy, claw being essentially kinetic energy.
+
+395
+00:37:01,823 --> 00:37:05,884
+I don't know if we found a great solution. We
+had to get really sciencey at the end there
+
+396
+00:37:05,904 --> 00:37:10,865
+with our speculation. And probably 99% of that
+is bullshit because you and I are not scientists
+
+397
+00:37:10,885 --> 00:37:16,507
+and we have no idea what the hell we're talking
+about. But it was a speculation. Yeah, yeah,
+
+398
+00:37:16,567 --> 00:37:22,809
+it was. Technically, when it came to figuring
+out their stats, for the most part, they were
+
+399
+00:37:22,829 --> 00:37:29,113
+going pretty tit for tat, I would say. Like
+Livewire is definitely faster than Claw. Yeah,
+
+400
+00:37:29,133 --> 00:37:34,859
+but Claw is stronger and smarter. We said they
+were about the same when it came to evasiveness
+
+401
+00:37:34,979 --> 00:37:39,703
+considering they both can go intangible, although
+have a kind of semi-tangible form that allows
+
+402
+00:37:39,723 --> 00:37:45,529
+them to get punched in the face by the good
+guys. They're both really destructive. Their
+
+403
+00:37:45,589 --> 00:37:51,082
+damage potential is really high. They're also
+both really versatile characters. Yeah, given
+
+404
+00:37:51,142 --> 00:37:55,905
+that they could use their powers for a variety
+of effects, like Livewire even has Technopathy
+
+405
+00:37:56,486 --> 00:38:01,189
+and Klaue can create constructs, including duplicates
+of himself and stuff like that. So a lot of
+
+406
+00:38:01,209 --> 00:38:06,052
+back and forth, but also a lot of like equity
+between their abilities. For the most part,
+
+407
+00:38:06,072 --> 00:38:12,857
+there was fighting skill. We said that while
+Klaue was an experienced fighter, Livewire
+
+408
+00:38:13,338 --> 00:38:18,281
+basically had no training whatsoever. And there
+was nothing in my research to indicate that
+
+409
+00:38:18,321 --> 00:38:24,450
+she did. She's very much a projectile based
+attacker. Very rarely does it come down to
+
+410
+00:38:24,490 --> 00:38:29,574
+fisticuffs. So basically taking all of these
+stats into account, Joseph, who do you think
+
+411
+00:38:29,594 --> 00:38:35,659
+came out on top? I think Mr. Ulysses Kla is
+coming out on top of this one. Although no
+
+412
+00:38:35,699 --> 00:38:41,123
+one on Instagram agrees with me. Well, actually
+I should say 72% of the people who took our
+
+413
+00:38:41,163 --> 00:38:45,867
+poll don't agree with me, but it's fine to be
+wrong. They can be wrong. I'm actually a little
+
+414
+00:38:45,887 --> 00:38:51,447
+bit surprised that LiveWire came out that high.
+I think just. Maybe a lot of people are thinking
+
+415
+00:38:51,487 --> 00:38:56,391
+about the MCU version of Klaue and thinking
+that there's no way that he would be able to
+
+416
+00:38:56,411 --> 00:39:00,715
+defeat someone made out of lightning. That's
+my guess. That's probably a really good guess.
+
+417
+00:39:00,835 --> 00:39:08,181
+Well, let's find out who won. AJ9K, the results
+please. Hey, Yuasa. The winner of the matchup
+
+418
+00:39:08,581 --> 00:39:22,364
+between Livewire and Klaue is... fucking Klaue.
+Yeah! And it wasn't even Um, he won 693 of
+
+419
+00:39:22,404 --> 00:39:31,511
+the 1000 matches or 69.3% compared to Livewire
+winning only 30.7. Okay, so Claude wins around
+
+420
+00:39:31,551 --> 00:39:36,855
+two-thirds of the time. And honestly, like this
+baffles the shit out of me. Like I know the
+
+421
+00:39:36,975 --> 00:39:43,880
+discrepancy in the fighting stat is pretty drastic,
+but damn, I thought I totally had you when
+
+422
+00:39:43,920 --> 00:39:48,871
+it came to like our speculation. and I came
+out of that really confident that Livewire
+
+423
+00:39:48,891 --> 00:39:54,334
+would win, but apparently not. Well, it's hard
+to think of an instance in which this fight
+
+424
+00:39:54,414 --> 00:39:59,117
+would come down to hand-to-hand combat, right?
+Right, exactly. But you would have to assume
+
+425
+00:39:59,137 --> 00:40:03,699
+that fighting skill would play at least a small
+portion of some of the matches, and when you
+
+426
+00:40:03,719 --> 00:40:08,682
+run a thousand simulations, it was enough of
+an influence to give Claude the ultimate victory.
+
+427
+00:40:09,162 --> 00:40:15,085
+It also just baffles me that sound can beat
+lightning energy. That's... I cannot comprehend
+
+428
+00:40:15,105 --> 00:40:20,393
+that. but it's also hard to comprehend lightning
+energy beating sound too, right? No, not for
+
+429
+00:40:20,433 --> 00:40:24,697
+me. I totally see it. But that does it for this
+duel. Let us know what you guys thought about
+
+430
+00:40:24,717 --> 00:40:31,182
+the results by writing to us at dyna or by visiting
+us on Instagram or Twitter. You can find links
+
+431
+00:40:31,202 --> 00:40:34,505
+to all of our accounts by checking out our show
+notes or visiting our website at dynamicduel.com.
+
+432
+00:40:35,506 --> 00:40:39,269
+And on our site, you could also find a link
+to our Patreon page where you could join our
+
+433
+00:40:39,329 --> 00:40:44,822
+Dynamic 2.0 tier and chat with us and fellow
+listeners, our fantastic 4 tier. which gets
+
+434
+00:40:44,862 --> 00:40:50,066
+you bonus content each month, our X-Force tier
+that makes you an executive producer of this
+
+435
+00:40:50,107 --> 00:40:56,452
+podcast, or our newest tier that lets you join
+our Dynamike podcast network. If you can't
+
+436
+00:40:56,472 --> 00:41:01,497
+join Patreon, you can still support the show
+by signing up for our e-newsletter also at
+
+437
+00:41:01,557 --> 00:41:06,161
+dynamicduel.com, so you'll never miss an episode.
+Next week, we're going to be reviewing the
+
+438
+00:41:06,221 --> 00:41:12,094
+latest DC animated film that has been released,
+Crisis on Infinite Earths, part one. Yeah,
+
+439
+00:41:12,134 --> 00:41:17,176
+I haven't seen it yet, but I'm starting to hear
+good things, so I'm cautiously optimistic.
+
+440
+00:41:17,477 --> 00:41:21,078
+We'll see. But that does it for this episode,
+we want to give a big thanks to our executive
+
+441
+00:41:21,098 --> 00:41:25,901
+producers Ken Johnson, John Sturawski, Zachary
+Hepburn, Dustin Belcombe, Miggie Mathingian,
+
+442
+00:41:26,101 --> 00:41:31,684
+Brandon Estergard, Nathaniel Wagner, Levi Yeaton,
+Nick Abonto, Austin Wieselowski, AJ Dunkerley,
+
+443
+00:41:31,904 --> 00:41:37,607
+Scott Camacho, Adam Spies, Andrew Schunk, and
+Dean Molesky for helping make this podcast
+
+444
+00:41:37,667 --> 00:41:42,863
+possible. And we'll talk to you guys next week.
+Up, up, and away, true believers. It's electric.
+
+445
+00:41:43,123 --> 00:41:44,004
+Wookie wookie wookie.
+
