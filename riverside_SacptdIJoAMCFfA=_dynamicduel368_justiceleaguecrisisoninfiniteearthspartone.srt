@@ -1,0 +1,2712 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a Dynamike Network podcast.
+
+2
+00:00:24,202 --> 00:00:29,805
+Hi, welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,845 --> 00:00:35,968
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:36,428 --> 00:00:42,031
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, we are reviewing
+
+5
+00:00:42,071 --> 00:00:47,894
+the latest DC animated film set in the Tomorrow
+Verse Justice League, Crisis on Infinite Earths
+
+6
+00:00:47,974 --> 00:00:54,566
+Part 1, the first part of a trilogy of films
+that will end out this universe. Yeah, part
+
+7
+00:00:54,666 --> 00:00:57,948
+one came out about a week ago, the other two
+parts are going to come out later this year.
+
+8
+00:00:58,448 --> 00:01:02,030
+I was really surprised by this film. There's
+a lot of films in the Tomorrowverse that I
+
+9
+00:01:02,070 --> 00:01:07,794
+haven't liked. It's been pretty much hit or
+miss. But Crisis part one is really unique
+
+10
+00:01:08,254 --> 00:01:11,956
+and I'm really looking forward to talking about
+it. Before that, we're going to break down
+
+11
+00:01:11,996 --> 00:01:16,819
+the comic movie news from the past week, of
+which there was just one news item and that
+
+12
+00:01:16,839 --> 00:01:21,854
+was the teaser trailer for Justice League Crisis
+on Infinite Earths part- 2. So this is a full
+
+13
+00:01:21,954 --> 00:01:26,616
+on Crisis on Infinite Earths episode, apparently.
+As always, we list our segment times in our
+
+14
+00:01:26,656 --> 00:01:30,958
+episode description, so feel free to check out
+the show notes if you want to skip ahead to
+
+15
+00:01:30,978 --> 00:01:37,020
+a particular topic. Our artificially intelligent
+dual simulator, AJ9K, has a quick message for
+
+16
+00:01:37,060 --> 00:01:43,563
+our listeners, so listen up. Why, hello there.
+Do you love listening and chatting about Marvel
+
+17
+00:01:43,583 --> 00:01:48,805
+and DC? Then become a part of the dynamic dual
+community on Patreon where you can choose from
+
+18
+00:01:48,885 --> 00:01:54,655
+three tiers. The Dynamic 2.0 tier lets you listen
+to this podcast without ads, and gives you
+
+19
+00:01:54,715 --> 00:01:59,697
+access to its Discord chat group where you can
+chat with Johnny DC and Marvelous Joe. The
+
+20
+00:01:59,737 --> 00:02:04,920
+Fantastic 4 tier gives you that and more with
+two bonus episodes each month, including bloopers
+
+21
+00:02:04,940 --> 00:02:09,061
+and top 10 shows where Johnny and Joe count
+down your favourite Marvel and DC subjects.
+
+22
+00:02:09,538 --> 00:02:14,280
+The X-Force tier makes you an executive producer
+of Dynamic Duel, where every month you help
+
+23
+00:02:14,300 --> 00:02:19,262
+the host choose what to review and who to fight
+against each other. And finally, the Dynamite
+
+24
+00:02:19,282 --> 00:02:25,005
+Podcast Network tier allows aspiring podcasters
+to create their own battle-focused show using
+
+25
+00:02:25,045 --> 00:02:29,747
+this Monte Carlo simulator. Johnny and Joe will
+help you develop your show, provide graphic
+
+26
+00:02:29,767 --> 00:02:34,589
+support and consultation, and get you simulation
+results to announce on your show. Pitch the
+
+27
+00:02:34,629 --> 00:02:40,112
+twins your show via email at dyna or by reaching
+out to the Dynamite Podcast them on social
+
+28
+00:02:40,152 --> 00:02:47,015
+media. Check it out at patreon.com slash dynamic
+duel. Pip pip cheerio. Thanks AJ and IK and
+
+29
+00:02:47,035 --> 00:02:51,357
+thanks to everyone who supports the podcast.
+Be sure to tune into the Max Destruction podcast,
+
+30
+00:02:51,397 --> 00:02:55,659
+part of the Dynamike Podcast Network, which
+last week found out who would win between Batman
+
+31
+00:02:55,700 --> 00:03:01,462
+from the 1989 Batman film and Captain America
+from the 1990 Captain America film. This week,
+
+32
+00:03:01,803 --> 00:03:05,985
+I believe hosts Ken and Scotty are going to
+find out who would win between Steven Seagal's
+
+33
+00:03:06,045 --> 00:03:11,311
+Casey Ryback from Under Siege. versus Chuck
+Norris' major Scott McCoy from Delta Force.
+
+34
+00:03:11,832 --> 00:03:17,875
+Nice! On the Sinjoworld podcast, host Zachary
+Hepburn speculates on fights between your favorite
+
+35
+00:03:18,075 --> 00:03:23,078
+anime characters. This week, we're gonna find
+out who would win between Black Clover's Luck
+
+36
+00:03:23,158 --> 00:03:29,281
+Vultia versus Hunter Hunter's Killua. And on
+the Console Combat podcast, host John and Dean
+
+37
+00:03:29,301 --> 00:03:33,263
+find out who would win in fights between your
+favorite video game characters. In yesterday's
+
+38
+00:03:33,303 --> 00:03:37,974
+episode, they ventured into round two of their
+tournament, speculating on who would win. not
+
+39
+00:03:38,054 --> 00:03:43,179
+only between Tomb Raider's Lara Croft and Assassin's
+Creed's Ezio Auditore, but also Super Mario
+
+40
+00:03:43,259 --> 00:03:49,866
+RPG's Gino vs Sonic the Hedgehog's pal Tails.
+Visit dynamicpodcast.com or click the link
+
+41
+00:03:49,886 --> 00:03:54,331
+in our show notes to listen to all the shows
+in the Dynamike Podcast Network. But with that
+
+42
+00:03:54,371 --> 00:04:00,763
+out of the way, quick to the no prize! A No
+Prize is an award Marvel used to give out to
+
+43
+00:04:00,803 --> 00:04:05,826
+fans. Our version, the Dynamic Dual No Prize,
+is a digital award we post on Instagram and
+
+44
+00:04:05,846 --> 00:04:10,329
+in our email newsletter for the person that
+we feel gave the best answer to our question
+
+45
+00:04:10,369 --> 00:04:15,552
+of the week. Last week, we asked, what other
+character from the Daredevil Netflix series
+
+46
+00:04:15,572 --> 00:04:20,415
+do you most hope returns for the Disney Plus
+Daredevil born-again show and why? And this
+
+47
+00:04:20,455 --> 00:04:24,910
+is coming off of the news that Deborah Anwalt
+and Elden Henson will be... reprising their
+
+48
+00:04:24,950 --> 00:04:30,212
+roles as Karen Page and Foggy Nelson in the
+Daredevil Born Again series. We got literally
+
+49
+00:04:30,252 --> 00:04:34,234
+two answers for this question of the week, which
+is not surprising because we only gave you
+
+50
+00:04:34,254 --> 00:04:39,076
+guys about two days to do it. So let's run down
+our honorable mention as well as our no prize
+
+51
+00:04:39,096 --> 00:04:45,158
+winner. Our first honorable mention goes to
+Lizzie Dyer Arnie, who said, Hey, it's Lizzie.
+
+52
+00:04:45,278 --> 00:04:49,860
+So I really want to see Marcy Stahl return to
+the new Daredevil series on Disney. If you
+
+53
+00:04:49,880 --> 00:04:54,206
+don't remember who she is, she's Foggy's on
+again, off again girlfriend. who helped them
+
+54
+00:04:54,226 --> 00:04:59,208
+take down Landman and Zack from the inside.
+She provides much needed comic relief to the
+
+55
+00:04:59,228 --> 00:05:05,631
+show. And I think we are long overdue to see
+Marcy and Foggy's wedding. Have a great day.
+
+56
+00:05:05,711 --> 00:05:11,914
+Now, I'm not going to lie. I barely remember
+this character, but I do agree that Daredevil
+
+57
+00:05:12,014 --> 00:05:18,157
+needed comic relief and she was great in the
+role. Well, I thought Foggy himself provided
+
+58
+00:05:18,217 --> 00:05:22,532
+comic relief for the show. but it was nice that
+they gave him a love interest because otherwise
+
+59
+00:05:22,612 --> 00:05:27,416
+he was just kind of like the, you know, the
+tag along sidekick character to Matt Murdock.
+
+60
+00:05:27,576 --> 00:05:31,940
+I liked actress Amy Ruppberg in the role as
+Marcy. I always thought she was like way too
+
+61
+00:05:31,980 --> 00:05:37,284
+hot for Foggy Nelson, but that was kind of like
+the appeal of it, I think. It was nice to see
+
+62
+00:05:37,785 --> 00:05:41,728
+this bumbling character get a girl who's way
+out of his league. Yeah, that's true. Plus
+
+63
+00:05:41,788 --> 00:05:47,293
+I also don't hate the idea that Lizzie gave
+of Foggy finally getting married. Like the
+
+64
+00:05:47,313 --> 00:05:51,138
+guy deserves it. Yeah, it literally rains shit
+on Foggy Nelson a lot, so it's nice to see
+
+65
+00:05:51,158 --> 00:05:55,600
+that he has this one consistent good thing in
+his life. Great answer Lizzy! But the winner
+
+66
+00:05:55,640 --> 00:06:01,621
+of this week's No Prize is Judson Baddie. And
+I hope I'm pronouncing that right. But he said,
+
+67
+00:06:02,242 --> 00:06:06,883
+Hi guys, Judson Baddie here. Long time listener,
+first time responder. I think the character
+
+68
+00:06:07,003 --> 00:06:11,764
+and actor I'd like to see return for Dead Ever
+Born again the most is Father Paul Langton
+
+69
+00:06:11,784 --> 00:06:17,491
+played by Peter McRobbie. I feel like he had
+some interesting dynamics. with Charlie Cox
+
+70
+00:06:17,551 --> 00:06:24,516
+as Daredevil and provided and understated the
+very important role in the spiritual side of
+
+71
+00:06:24,716 --> 00:06:28,599
+the Daredevil character and the show wouldn't
+be the same without him. Well, you guys went
+
+72
+00:06:28,699 --> 00:06:33,342
+with some pretty deep dives for your answers
+for this question of the week. Father Lantern,
+
+73
+00:06:33,783 --> 00:06:39,387
+played by Peter McRobbie on the Daredevil Netflix
+show, was very much the soul of the show. He
+
+74
+00:06:39,427 --> 00:06:45,867
+was essentially Matt Murdock's spiritual guide,
+given that... Matt Murdock is a very religious
+
+75
+00:06:45,887 --> 00:06:50,449
+character in the comic books and in the show.
+He's a devout Catholic. And I thought the actor
+
+76
+00:06:50,489 --> 00:06:56,512
+Peter McRobbie did a great job and was an interesting
+character in guiding Matt Murdock and discussing
+
+77
+00:06:56,552 --> 00:07:02,875
+the ethics of his actions as both a Catholic
+and a vigilante. Yeah, I'm not gonna lie. This
+
+78
+00:07:02,915 --> 00:07:08,877
+is another character I barely remember, but
+I like this as the win for this week's question.
+
+79
+00:07:09,334 --> 00:07:15,039
+because of how religious a character Daredevil
+is. And it's pretty unique in comics that a
+
+80
+00:07:15,099 --> 00:07:21,364
+character is so heavily involved in his spirituality.
+Yeah, I mean, it makes sense for a character
+
+81
+00:07:21,544 --> 00:07:26,249
+named Daredevil, right? It kind of adds to the
+intrigue given that, you know, he dresses up
+
+82
+00:07:26,289 --> 00:07:31,313
+like the devil and beats the shit out of people.
+It's really interesting that dichotomy of Daredevil.
+
+83
+00:07:31,753 --> 00:07:36,938
+Honestly, I thought we were going to get answers
+like Electra and Bullseye. Right. Yeah. Bullseye
+
+84
+00:07:37,038 --> 00:07:42,842
+was in fact the correct answer played by Wilson
+Bethel. He was incredible in season three and
+
+85
+00:07:43,002 --> 00:07:47,425
+the dude needs to come back as Bullseye. He
+was fantastic. Yeah, 100 percent. But great
+
+86
+00:07:47,465 --> 00:07:51,447
+answer Jetson, you win this week's No Prize.
+If you're the listener, want a shot at winning
+
+87
+00:07:51,467 --> 00:07:56,631
+your own No Prize, stay tuned to later on in
+this episode when we'll be asking another question
+
+88
+00:07:56,671 --> 00:08:00,033
+of the week. And now that that's done, on to
+the news.
+
+89
+00:08:05,582 --> 00:08:11,123
+Okay, so we recently got the official teaser
+trailer for Justice League Crisis on Infinite
+
+90
+00:08:11,183 --> 00:08:17,125
+Earths Part 2, the sequel to the film we're
+about to review later in this episode, Crisis
+
+91
+00:08:17,165 --> 00:08:25,387
+on Infinite Earths Part 1. Now, in Part 1, there's
+quite a bit of time jumping, and it looks like
+
+92
+00:08:25,467 --> 00:08:32,529
+that may be the case for Part 2 as well. We
+learned in Part 1 that Monitor's assistant
+
+93
+00:08:32,609 --> 00:08:39,197
+of sorts, Harbinger, is actually Supergirl from
+the Legion of Superheroes film, and it looks
+
+94
+00:08:39,217 --> 00:08:44,361
+like in part two we're going to find out exactly
+how she became Harbinger. It kind of looks
+
+95
+00:08:44,401 --> 00:08:48,885
+like she's going to be the main character of
+part two, honestly, in the same way that Flash
+
+96
+00:08:48,905 --> 00:08:54,409
+was the main character of part one. Which is
+not a big surprise of the two major sacrifices
+
+97
+00:08:54,429 --> 00:09:00,954
+that happened in the comic book. Flash and Supergirl
+were probably the most impactful. My guess
+
+98
+00:09:01,094 --> 00:09:05,996
+is Supergirl does not make it to the end of
+the film. That's just a guess. Sorry if that's
+
+99
+00:09:06,036 --> 00:09:10,478
+a spoiler. Well, I mean, if you look at the
+cover to the crisis on Infinite Earth's trade
+
+100
+00:09:10,518 --> 00:09:15,920
+paperback, you'll see Superman holding a dead
+Supergirl. So I don't know how much of a spoiler
+
+101
+00:09:15,940 --> 00:09:19,841
+that actually is. True. That's fair. Yeah. I
+thought it was really cool to see the Bat family
+
+102
+00:09:19,861 --> 00:09:25,984
+at the beginning of this trailer, which seems
+to include Batman Beyond and Batwing. Yeah,
+
+103
+00:09:26,004 --> 00:09:30,238
+honestly, that was pretty shocking seeing Batman
+Beyond, who's from the future. considering
+
+104
+00:09:30,298 --> 00:09:35,762
+the end of part one. Not gonna give away any
+spoilers, but if you know, you know. It really
+
+105
+00:09:35,782 --> 00:09:41,186
+looks like this film picks up right after the
+events of part one, as we still see the frequency
+
+106
+00:09:41,286 --> 00:09:45,609
+tuning fork tower in the background in the opening
+shots. It looks like the main thread of this
+
+107
+00:09:45,649 --> 00:09:50,152
+movie though are these like shadow creatures.
+Shadow demons, yes, they're from the comics.
+
+108
+00:09:50,292 --> 00:09:55,596
+They're like the soldiers of the anti-monitor.
+Interesting. We also get a shot of Psycho Pirate.
+
+109
+00:09:55,936 --> 00:09:59,830
+It's not too clear what he's doing. but the
+character is pretty interesting from the comics
+
+110
+00:09:59,850 --> 00:10:03,811
+so I'm looking forward to seeing what's going
+on there. All in all there's really not too
+
+111
+00:10:03,851 --> 00:10:08,012
+much more to talk about. It's a really short
+teaser, it's less than 45 seconds. I thought
+
+112
+00:10:08,032 --> 00:10:11,833
+we were going to get a release date with it,
+but at the very end it just says coming soon.
+
+113
+00:10:12,013 --> 00:10:16,715
+So when we do get that release date, we'll make
+sure to let you guys know. Because I'm looking
+
+114
+00:10:16,735 --> 00:10:21,996
+forward to it for sure. Yeah, I think in total
+this trilogy is going to be quite an epic series
+
+115
+00:10:22,016 --> 00:10:27,237
+of films. But speaking of epic animated trilogies,
+that brings us to our question of the week.
+
+116
+00:10:31,650 --> 00:10:38,134
+What comics storyline for Marvel or DC would
+you want to see adapted as an animated film
+
+117
+00:10:38,174 --> 00:10:43,738
+trilogy and why? Record your answer at dynamicduel.com
+by clicking on the red microphone button in
+
+118
+00:10:43,758 --> 00:10:47,840
+the bottom right hand corner of the screen which
+will prompt you to leave us a voicemail. Your
+
+119
+00:10:47,860 --> 00:10:51,343
+message could be up to 30 seconds long and don't
+forget to leave your name in case we include
+
+120
+00:10:51,363 --> 00:10:55,466
+you on the podcast. We'll pick our favorite
+answer and award that person a Dynamic Duel
+
+121
+00:10:55,506 --> 00:10:59,949
+No Prize that we'll post to Instagram and our
+email newsletter. Be sure to answer before
+
+122
+00:11:00,349 --> 00:11:01,309
+January 27th.
+
+123
+00:11:08,718 --> 00:11:13,060
+That does it for all the news for this episode,
+now let's move on to the main event, where
+
+124
+00:11:13,141 --> 00:11:20,205
+we review the latest DC animated film, Justice
+League, Crisis on Infinite Earths, Part 1.
+
+125
+00:11:35,342 --> 00:11:41,625
+Alright, Justice League Crisis on Infinite Earths
+Part 1 is the latest in Warner Bros. Animation's
+
+126
+00:11:41,685 --> 00:11:49,470
+Tomorrowverse world of direct-to-video DC animated
+films, which is the follow-up universe to the
+
+127
+00:11:49,570 --> 00:11:56,054
+DC animated movie universe that ended with the
+phenomenal film Justice League Dark Apocalypse
+
+128
+00:11:56,094 --> 00:12:02,890
+War. Comparisons between the animated universes
+have been inevitable. Most fans, I would say,
+
+129
+00:12:03,010 --> 00:12:08,432
+have been pining for a return to the DC AMU,
+which had its critics, but has been widely
+
+130
+00:12:08,472 --> 00:12:15,574
+accepted as being superior to the Tomorrowverse.
+I personally have praised the Tomorrowverse's
+
+131
+00:12:15,614 --> 00:12:20,875
+character designs and premises, but with the
+exception of the two-part Batman the Long Halloween
+
+132
+00:12:20,895 --> 00:12:27,937
+films, the overall execution of the Tomorrowverse
+has ranged from fairly decent to borderline
+
+133
+00:12:28,077 --> 00:12:32,837
+unwatchable. So how does Crisis on Infinite
+Earths, the first part of a trilogy that's
+
+134
+00:12:32,877 --> 00:12:38,643
+being released throughout this year, compare
+to the other Tomorrowverse films? I'm relieved
+
+135
+00:12:38,703 --> 00:12:43,868
+to say it's one of the best. If you haven't
+seen it yet, maybe because you've given up
+
+136
+00:12:43,928 --> 00:12:49,012
+on the Tomorrowverse? I definitely recommend
+watching it and it makes me want to recommend
+
+137
+00:12:49,052 --> 00:12:54,476
+watching the entirety of the Tomorrowverse beforehand
+because it really makes you appreciate little
+
+138
+00:12:54,516 --> 00:12:58,819
+hints and Easter eggs they've sprinkled throughout
+the other films to show that they've been building
+
+139
+00:12:58,939 --> 00:13:04,643
+up to this concluding trilogy in order to successfully
+capture the emotional impact that long time
+
+140
+00:13:04,683 --> 00:13:10,186
+DC fans had while first reading the Crisis on
+Infinite Earths comic that this film is based
+
+141
+00:13:10,286 --> 00:13:16,647
+on. I don't know that's a lot to ask audiences,
+especially our listeners. Like putting them
+
+142
+00:13:16,687 --> 00:13:21,992
+through the likes of Justice Society World War
+II or Legion of Superheroes or Justice League
+
+143
+00:13:22,032 --> 00:13:27,096
+War World. Like, there's a lot of duds that
+I just would not recommend watching just to
+
+144
+00:13:27,136 --> 00:13:32,361
+better enjoy this film. It's surprising to me
+that you said that Crisis on Infinite Earths
+
+145
+00:13:32,401 --> 00:13:39,007
+Part 1 is one of the better entries in the tomorrowverse
+because you're right. But also, this movie
+
+146
+00:13:39,047 --> 00:13:44,142
+was mostly okay. So just... thinking that it
+was actually still one of the best makes me
+
+147
+00:13:44,202 --> 00:13:49,524
+kind of sad about the whole Tomorrowverse in
+general. Well, I mean, the number one film
+
+148
+00:13:49,564 --> 00:13:54,946
+in the Tomorrowverse was absolutely the two
+part long Halloween, probably followed by Green
+
+149
+00:13:54,986 --> 00:14:00,067
+Lantern Beware My Power. And I'm not sure if
+I like this as much as Beware My Power. It
+
+150
+00:14:00,107 --> 00:14:05,209
+might be just underneath that, but I still liked
+this film. Crisis on Infinite Earths is an
+
+151
+00:14:05,329 --> 00:14:10,527
+adaptation of the comic of the same name. Now
+if you're not familiar with Crisis on Infinite
+
+152
+00:14:10,587 --> 00:14:16,791
+Earths, it was the first major universe-spanning
+blockbuster event in comics that drastically
+
+153
+00:14:16,831 --> 00:14:23,575
+changed DC's continuity and delivered explosive
+stakes for long-time comic readers, going all
+
+154
+00:14:23,615 --> 00:14:29,338
+the way back to 1956 when the introduction of
+Barry Allen, the Flash, kicked off the Silver
+
+155
+00:14:29,418 --> 00:14:35,902
+Age of comics. The stories in the comics released
+prior to that, during the Golden Age, were
+
+156
+00:14:35,942 --> 00:14:41,144
+eventually revealed to have taken place in a
+parallel universe that Barry Allen learned
+
+157
+00:14:41,164 --> 00:14:48,266
+he could travel to. This set up the first-ever
+multiverse, which became threatened in 1985
+
+158
+00:14:49,146 --> 00:14:55,629
+by the Crisis on Infinite Earth storyline, where
+we saw characters like Barry Allen die or sacrifice
+
+159
+00:14:55,649 --> 00:15:02,133
+themselves during the event. Now to successfully
+adapt a story like Crisis on Infinite Earths
+
+160
+00:15:02,274 --> 00:15:07,178
+in animation, you have to try and match what
+comic book writers had decades to accomplish,
+
+161
+00:15:07,298 --> 00:15:12,583
+creating long-standing relationships between
+fictional characters and invested audiences
+
+162
+00:15:12,683 --> 00:15:18,369
+through serialized adventure stories. It's a
+lot easier to create a comic book than it is
+
+163
+00:15:18,409 --> 00:15:24,270
+to create an animated film though. Literally,
+one or two guys can create a comic. compared
+
+164
+00:15:24,310 --> 00:15:31,156
+to sizable budgets and teams of animators needed
+to create a future film. The Tomorrow vs Producers,
+
+165
+00:15:31,556 --> 00:15:36,841
+Jim Krieg and Kimberly Moreau, who wanted to
+do a Crisis on Infinite Earths adaptation,
+
+166
+00:15:37,001 --> 00:15:43,766
+were allowed to create a 10-film universe, which
+they used to lead up to this major trilogy
+
+167
+00:15:43,867 --> 00:15:49,970
+event that begins with Crisis on Infinite Earths
+Part 1. This was only recently revealed, but
+
+168
+00:15:50,010 --> 00:15:55,332
+going back to early films in the Tomorrowverse,
+it's now apparent that not only have the filmmakers
+
+169
+00:15:55,372 --> 00:16:00,674
+been planning their way to a crisis story, but
+also that they've planned on involving prior
+
+170
+00:16:00,754 --> 00:16:08,616
+animated universes such as the DC AMU and several
+DC Showcase animated shorts, including Constantine,
+
+171
+00:16:08,736 --> 00:16:15,735
+House of Mystery, Adam Strange, and Commandie.
+The connect- The connectivity blows my mind
+
+172
+00:16:15,815 --> 00:16:22,561
+and makes me unbelievably excited for the releases
+of part 2 and 3 later this year. Well, I remember
+
+173
+00:16:22,581 --> 00:16:29,186
+that the Adam Strange short was a direct prequel
+to Green Lantern Beware My Power. But I'm having
+
+174
+00:16:29,246 --> 00:16:34,530
+trouble remembering exactly how the House of
+Mystery and Command D were referenced in this
+
+175
+00:16:34,570 --> 00:16:38,973
+Crisis on Infinite Earths part 1 movie. Well,
+Constantine House of Mystery is a pretty obvious
+
+176
+00:16:39,113 --> 00:16:45,692
+one. It's the connective tissue between the
+DC AMU and the tomorrow verse. At the end,
+
+177
+00:16:45,872 --> 00:16:50,053
+I believe he was punished by the specter, but
+I forgot what the punishment was. I guess we
+
+178
+00:16:50,093 --> 00:16:55,435
+see the results of that in this movie when we
+see Constantine as an old guy. Yeah, he's forced
+
+179
+00:16:55,535 --> 00:17:01,857
+to live through the ends of universes. Interesting.
+And Comedie has been confirmed to be a part
+
+180
+00:17:01,877 --> 00:17:07,514
+of this universe as well by the producers. Now,
+I wasn't always excited for the Crisis films
+
+181
+00:17:07,574 --> 00:17:12,316
+this year. In fact, I'd say they were the DC
+projects I was looking forward to the least,
+
+182
+00:17:12,356 --> 00:17:18,818
+hands down. Just like as of last week, basically.
+But after seeing the bold risk they took with
+
+183
+00:17:18,898 --> 00:17:26,020
+Part 1 in terms of its unconventional narrative
+structure and having it pay off so spectacularly
+
+184
+00:17:26,080 --> 00:17:32,774
+well, I feel like I've glimpsed a genius adaptation
+of the source material. Like, I've never seen
+
+185
+00:17:32,834 --> 00:17:39,061
+a superhero film be so hyper-focused on a single
+character's perspective of a story. You could
+
+186
+00:17:39,101 --> 00:17:45,728
+say Crisis Part 1 is like the Groundhog Day
+or memento of superhero films in that regard,
+
+187
+00:17:46,128 --> 00:17:51,493
+but the story borrows most heavily from The
+Time Traveler's Wife, a book that's been adapted
+
+188
+00:17:51,533 --> 00:17:56,934
+to both a film and television series if you're
+not familiar with it. Yeah, as a narrative
+
+189
+00:17:56,974 --> 00:18:01,818
+device, the time jumping thing got a little
+bit grating after a while because it was kind
+
+190
+00:18:01,838 --> 00:18:06,122
+of hard to tell the overall structure of the
+film. Like it didn't have like a clear three
+
+191
+00:18:06,282 --> 00:18:11,847
+act breakdown. And that can sometimes be a frustrating
+experience as a viewer. It did actually have
+
+192
+00:18:11,887 --> 00:18:17,171
+three acts. Well, that was not easy for me to
+tell. Well, apparently you're stupid then.
+
+193
+00:18:17,732 --> 00:18:23,603
+I don't know what else to say. I'll be honest,
+when I first got done watching this film, I
+
+194
+00:18:23,643 --> 00:18:27,766
+couldn't tell you if it was good or not. I knew
+that it was interesting, and I do think that
+
+195
+00:18:27,806 --> 00:18:33,389
+it sets up tremendous potential for the overall
+trilogy of films. I get the impression that
+
+196
+00:18:33,429 --> 00:18:38,151
+when all is said and done, the story is going
+to be massive and epic in a way that puts even
+
+197
+00:18:38,191 --> 00:18:42,674
+Apocalypse War to shame. But I just think we
+haven't gotten there yet. There was a lot of
+
+198
+00:18:42,734 --> 00:18:47,096
+like missing context to a lot of what we were
+watching, and it sometimes felt confusing in
+
+199
+00:18:47,136 --> 00:18:52,987
+that regard. But I will admit. that your comparisons
+to stories like Memento and The Time Traveler's
+
+200
+00:18:53,027 --> 00:18:58,749
+Wife have me a little bit more intrigued. Yeah,
+honestly, Crisis Part 1 is going to be a film
+
+201
+00:18:58,769 --> 00:19:05,171
+that you either love or you hate, kind of like
+films like Groundhog Day. I think everyone
+
+202
+00:19:05,211 --> 00:19:10,353
+loves The Time Traveler's Wife. It's a love
+story, so it may be outside the interest of
+
+203
+00:19:10,393 --> 00:19:15,155
+our podcast's audience demographics. But if
+you're not familiar with it, the time traveler's
+
+204
+00:19:15,195 --> 00:19:21,321
+wife follows a man cursed with a time traveling
+condition that causes him to live his life
+
+205
+00:19:21,601 --> 00:19:28,747
+out of linear time. Like he experiences events
+in his life in a nonlinear random order, while
+
+206
+00:19:28,767 --> 00:19:33,691
+the woman he loves struggles to live life with
+someone with this condition. In Crisis Part
+
+207
+00:19:33,931 --> 00:19:39,942
+1, about three quarters of the way through the
+film, The Flash absorbs the entire speed force
+
+208
+00:19:40,082 --> 00:19:45,264
+of a universe that was just destroyed by an
+antimatter wave traveling through the multiverse,
+
+209
+00:19:45,564 --> 00:19:52,166
+which causes him to experience time non-linearly,
+and we as an audience are along for the ride.
+
+210
+00:19:52,566 --> 00:19:59,228
+The film constantly jumps, or time trips, throughout
+its story, and it's not until a decent ways
+
+211
+00:19:59,268 --> 00:20:05,523
+into the film that we begin to grasp what's
+going on. Story-wise, the film jumps back in
+
+212
+00:20:05,583 --> 00:20:10,826
+time to tell the story of how the Justice League
+first formed. A story we didn't get the chance
+
+213
+00:20:10,866 --> 00:20:16,549
+to see in earlier Tomorrowverse films, which
+is something fans had complained about, including
+
+214
+00:20:16,589 --> 00:20:21,211
+myself. Oh yeah, I remember we brought that
+up as a criticism of the Tomorrowverse during
+
+215
+00:20:21,251 --> 00:20:26,414
+the Beware My Power review. Yes. Because the
+League was already formed by that movie, but
+
+216
+00:20:26,554 --> 00:20:32,097
+the only reference we got to the League prior
+to that was in Justice Society World War II.
+
+217
+00:20:32,746 --> 00:20:35,348
+where they're like, oh, maybe we should form
+a team or something like that. And then all
+
+218
+00:20:35,368 --> 00:20:39,851
+of a sudden we see it fully formed without any
+kind of glimpse into how or why these characters
+
+219
+00:20:39,891 --> 00:20:45,075
+got together. I was surprised when I saw that
+this was, in fact, a Justice League origin
+
+220
+00:20:45,215 --> 00:20:49,899
+story. Yeah, that was a huge surprise to me
+as well. The formation of the Justice League
+
+221
+00:20:49,919 --> 00:20:55,723
+has never been particularly profound, in my
+opinion. Basically, a group of heroes get together
+
+222
+00:20:55,923 --> 00:21:01,703
+to battle a major threat like Starro or Darkseid.
+But in this film, the team's formation is a
+
+223
+00:21:01,843 --> 00:21:09,108
+ruse to draw out a life-stealing android named
+Amazo, whose own story is more existential
+
+224
+00:21:09,168 --> 00:21:15,532
+and emotional than it needed to be. Like, it
+did not need to go that hard. As we learn that
+
+225
+00:21:15,572 --> 00:21:21,515
+story, we also visit the Earth-3 universe ruled
+by an evil version of the Justice League, known
+
+226
+00:21:21,555 --> 00:21:27,423
+as the Crime Syndicate, and witness that universe's
+destruction. which sets up the stakes for the
+
+227
+00:21:27,463 --> 00:21:34,408
+film's central and final threat. That the multiverse
+is being destroyed, universe by universe, and
+
+228
+00:21:34,508 --> 00:21:39,852
+it being outside of space and time, the monitor
+has brought heroes from across the multiverse
+
+229
+00:21:39,952 --> 00:21:45,136
+to save it. The true heart of the film, though,
+comes from the story between Barry and his
+
+230
+00:21:45,176 --> 00:21:50,440
+wife, Iris, as we see them meet for the first
+time shortly after Barry received his powers,
+
+231
+00:21:50,941 --> 00:21:56,223
+and eventually get married, despite Barry's
+inability to experience his life linearly.
+
+232
+00:21:56,763 --> 00:22:02,266
+In one moment, he's at his wedding, the next
+he's on Earth 3, the next he and Iris are old.
+
+233
+00:22:02,626 --> 00:22:09,248
+The dedication and love that Barry and Iris
+have to each other despite their crazy lives
+
+234
+00:22:09,709 --> 00:22:15,551
+makes Crisis Part 1 arguably one of the most
+romantic superhero projects that I've ever
+
+235
+00:22:15,611 --> 00:22:19,573
+seen. Yeah, at first part of me was like, out
+of all the people the Flash could have gotten
+
+236
+00:22:19,593 --> 00:22:25,820
+to help him build these towers, Why did he go
+with someone that's not super powered or like
+
+237
+00:22:25,900 --> 00:22:30,542
+a super genius or something like that? So the
+decision was entirely made out of the desire
+
+238
+00:22:30,562 --> 00:22:35,785
+to spend the rest of his life with this woman
+He loves and uh, you know, I could appreciate
+
+239
+00:22:35,805 --> 00:22:41,388
+that too. Definitely made for a touching twist
+on the narrative at the end Absolutely, like
+
+240
+00:22:41,629 --> 00:22:46,191
+it just made me want to go like hug my wife
+You know, hey cool it with the romance man
+
+241
+00:22:46,431 --> 00:22:52,783
+This podcast has a limit on the number of lovey-dovey
+things that can be said Alright, there's just
+
+242
+00:22:53,263 --> 00:22:58,627
+so much that I love about this film, but I can
+also see where a lot of people would maybe
+
+243
+00:22:58,667 --> 00:23:03,611
+be turned off by its haphazard time-jumping,
+like you mentioned. It's not exactly the best
+
+244
+00:23:03,711 --> 00:23:09,815
+plot structure to explain an event as complicated
+in itself as the destruction of the multiverse,
+
+245
+00:23:10,376 --> 00:23:15,559
+so there are multiple barriers to entry for
+audiences on top of the barrier that exists
+
+246
+00:23:15,720 --> 00:23:21,331
+naturally in a cinematic universe. Basically,
+if you don't watch everything that came before,
+
+247
+00:23:21,691 --> 00:23:26,894
+there's a chance you'll be missing important
+information needed to truly understand or appreciate
+
+248
+00:23:26,934 --> 00:23:31,637
+the current story that you're watching. Marvel
+runs into that sometimes. Yeah, more often
+
+249
+00:23:31,657 --> 00:23:36,000
+than not, the longer your cinematic universe
+goes, the more of a chilling effect audiences
+
+250
+00:23:36,040 --> 00:23:40,822
+are going to have going into it. Exactly. And
+the only other gripe that I have about the
+
+251
+00:23:40,862 --> 00:23:46,654
+film is the animation. Again, the character
+designs are great for the most part. Although
+
+252
+00:23:46,714 --> 00:23:51,435
+actually there were a few I was really unhappy
+with in this film. But the animation leaves
+
+253
+00:23:51,475 --> 00:23:56,856
+a lot to be desired. Like there are some scenes
+that felt like old school super friends cartoons,
+
+254
+00:23:56,976 --> 00:24:02,498
+where the entire frame is still except for characters'
+mouths moving. Yeah, the tomorrowverse is largely
+
+255
+00:24:02,538 --> 00:24:07,119
+computer animated and sometimes it can be done
+to great effect like in the Batman the Long
+
+256
+00:24:07,139 --> 00:24:12,621
+Halloween films. This was nothing like that.
+Like, sometimes these characters would not
+
+257
+00:24:12,681 --> 00:24:17,163
+blink and they were just staring. like not even
+making direct eye contact with who they were
+
+258
+00:24:17,183 --> 00:24:22,167
+talking to, and they look like soulless abominations.
+But I just think it's probably an issue of
+
+259
+00:24:22,247 --> 00:24:27,452
+timing with the animators. They probably didn't
+have enough time to actually add all the subtle
+
+260
+00:24:27,512 --> 00:24:32,976
+quirks and eye movements and things like that
+when producing this film. Maybe, yeah, maybe
+
+261
+00:24:33,036 --> 00:24:38,200
+for certain characters over others, that's probably
+true. Now the film is nowhere near as dynamic
+
+262
+00:24:38,260 --> 00:24:44,285
+as it needs to be. But at least for me personally,
+the story made up for a lot of the film's drawbacks.
+
+263
+00:24:44,870 --> 00:24:50,833
+Though the film features a large cast of DC
+characters, it focuses solely on the experiences
+
+264
+00:24:51,013 --> 00:24:56,597
+of one. So there's not many characters to really
+dive into for our character breakdown, but
+
+265
+00:24:56,617 --> 00:25:02,841
+let's start with The Flash. Now The Flash, aka
+Barry Allen, was voiced by Matt Bomer. Now
+
+266
+00:25:02,881 --> 00:25:08,344
+Matt isn't just a fantastic voice actor, but
+a great actor in his own right. And as such,
+
+267
+00:25:08,504 --> 00:25:13,676
+he is fantastic at capturing emotion. I have
+to give major credit to the filmmakers for
+
+268
+00:25:13,716 --> 00:25:18,980
+making the decision to get an actor as talented
+as Matt Bomer to successfully kick off this
+
+269
+00:25:19,040 --> 00:25:25,466
+three film conclusion to a cinematic universe.
+The end of a story should be bittersweet, and
+
+270
+00:25:25,546 --> 00:25:30,951
+Matt Bomer definitely helped make The Flash's
+ending bittersweet and heartfelt. Yeah, I mean,
+
+271
+00:25:31,231 --> 00:25:37,137
+we saw him portray the character of the Negative
+Man largely in voice alone for the Doom Patrol
+
+272
+00:25:37,157 --> 00:25:42,460
+television series. It does amaze me how different
+his voice acting is here for the character
+
+273
+00:25:42,480 --> 00:25:47,643
+of Barry Allen. The guy is super talented. Yeah,
+for sure. Yeah, his negative man was so like
+
+274
+00:25:47,743 --> 00:25:54,387
+melancholic, whereas his Barry is much more
+bright. Now for a film in which so many things
+
+275
+00:25:54,447 --> 00:26:00,371
+happen, the character of Barry Allen is relatively
+static. And that's in part because everything
+
+276
+00:26:00,411 --> 00:26:06,427
+he experiences, whether it be the first time
+he met his wife or his wedding, He's experiencing
+
+277
+00:26:06,507 --> 00:26:11,611
+as someone who already knows what's going to
+happen because he's been to the future. What
+
+278
+00:26:11,631 --> 00:26:16,575
+makes him interesting in this film is when he
+is put in situations that we don't yet know
+
+279
+00:26:16,675 --> 00:26:21,379
+how he's going to get out of it. Whether it's
+going up against a mezzo or escaping Earth
+
+280
+00:26:21,479 --> 00:26:28,264
+3 or preventing the destruction of his universe.
+In the comics, the Flash sacrificed his life
+
+281
+00:26:28,344 --> 00:26:34,448
+to help save the multiverse. And while he does
+the same in this film, it's incredibly touching
+
+282
+00:26:34,569 --> 00:26:39,792
+that they still found a way for him to live
+out an entire lifetime with his wife Iris happily
+
+283
+00:26:39,972 --> 00:26:47,097
+and with no regrets. And the fact that his last
+moments existing in time in his universe was
+
+284
+00:26:47,197 --> 00:26:53,222
+at his wedding reception celebrating with the
+rest of Earth's heroes is like the greatest
+
+285
+00:26:53,302 --> 00:26:59,838
+of honors. It literally brought tears to my
+eyes and I can think of no ending greater for
+
+286
+00:26:59,858 --> 00:27:05,599
+a hero as important to the comics as The Flash.
+Yeah, the narrative approach that he took with
+
+287
+00:27:05,619 --> 00:27:10,641
+The Flash does make me question some things,
+particularly when we've seen the character
+
+288
+00:27:10,681 --> 00:27:16,483
+in previous movies such as Justice Society World
+War II, where we know that he still experienced
+
+289
+00:27:16,523 --> 00:27:21,004
+time linearly throughout the course of that
+entire adventure, the time traveling notwithstanding.
+
+290
+00:27:21,184 --> 00:27:26,805
+Yeah, that's a good question. Like at what point
+in his life did he start time tripping? And
+
+291
+00:27:26,885 --> 00:27:31,099
+it- seems like it really kicks in around the
+time of the formation of the Justice League.
+
+292
+00:27:31,499 --> 00:27:35,620
+Though honestly, parts of it go back to even
+before that to, you know, when he first gets
+
+293
+00:27:35,640 --> 00:27:40,802
+his powers. Exactly. So that's a little bit
+strange. I do think that they could have effectively
+
+294
+00:27:40,842 --> 00:27:46,263
+told the same story with about 25% less time
+jumping because at some point I got really
+
+295
+00:27:46,323 --> 00:27:50,665
+sick and tired of seeing that graphic of the
+Speed Force tunnel thing. I'm like, oh my God,
+
+296
+00:27:50,685 --> 00:27:57,092
+just stop. Just little touches, like what you
+mentioned about him spending some of his last
+
+297
+00:27:57,152 --> 00:28:02,115
+moments dancing with his wife at his wedding.
+That's just poetry. So there's a lot of kind
+
+298
+00:28:02,135 --> 00:28:06,377
+of like back and forth, the things that I really
+like and things that I don't really care for.
+
+299
+00:28:06,577 --> 00:28:11,080
+But overall, as a concept, I really appreciate
+where they were trying to go with it. Yeah,
+
+300
+00:28:11,260 --> 00:28:16,363
+it's ambitious for sure. Now the only other
+character I have anything to dive into with
+
+301
+00:28:16,903 --> 00:28:22,930
+is Amazo. He was voiced by Nolan North, who
+also did the voice. for John Constantine and
+
+302
+00:28:22,970 --> 00:28:28,992
+Hal Jordan in this movie. He's a voice actor
+and a damn good one. No, Amazo was created
+
+303
+00:28:29,032 --> 00:28:36,455
+by Dr. Anthony Ivo for the sole purpose of extending
+human life. Ivo was a scientist for LexCorp
+
+304
+00:28:36,635 --> 00:28:43,846
+and when Lex purposefully gave Ivo Hutchinson-Gilford
+syndrome, causing him to age rapidly. Ivo created
+
+305
+00:28:43,886 --> 00:28:50,308
+Imezo with the ability to absorb, store, and
+redirect energy in order to restore vitality
+
+306
+00:28:50,348 --> 00:28:56,551
+to the dying and the sick. Lex, however, corrupted
+Imezo's programming so that he was capable
+
+307
+00:28:56,591 --> 00:29:02,673
+of absorbing and using metahuman energy, granting
+him the powers of Superman and the Flash, among
+
+308
+00:29:02,814 --> 00:29:08,856
+others. Imezo's always been a considerable threat
+for the Justice League, so I thought having
+
+309
+00:29:08,896 --> 00:29:14,498
+him be the catalyst for the formation of the
+League was a good choice. But the heroes initially
+
+310
+00:29:14,598 --> 00:29:20,160
+formed the Justice League during a public address
+as a way to draw out a mezzo to them, though
+
+311
+00:29:20,200 --> 00:29:26,063
+it also brought Lex Luthor in an awfully designed
+mech suit. Yeah, that was horrible looking.
+
+312
+00:29:27,083 --> 00:29:32,045
+It was cool to see Lex continue his journey
+from the Man of Tomorrow movie, but it was
+
+313
+00:29:32,085 --> 00:29:37,448
+also a little bit convoluted considering he
+had this scientist who he gave this really
+
+314
+00:29:37,508 --> 00:29:42,698
+rare disease to and he probably could have just
+given him cancer or something like that. and
+
+315
+00:29:42,738 --> 00:29:48,219
+he had him build a benevolent android who really
+struggled with Lex's commands. You would think
+
+316
+00:29:48,239 --> 00:29:51,380
+that Lex could almost just build this thing
+himself. I don't know. It was a little bit
+
+317
+00:29:51,420 --> 00:29:55,181
+strange there, but it was cool to see Zachary
+Quinto in the role again. Yeah, he's great
+
+318
+00:29:55,221 --> 00:30:01,563
+as Lex. I think it was implied that Ivo was
+a prodigy and that the creation of an AI as
+
+319
+00:30:01,663 --> 00:30:08,865
+evolved as Amazo was, was outside of Lex's abilities.
+But that's just a guess. Yeah, this was a much
+
+320
+00:30:08,925 --> 00:30:13,080
+different- version of a Mazer than the one that
+we saw in Batman under the Red Hood, right?
+
+321
+00:30:13,540 --> 00:30:18,103
+Yes. Yeah, very much so. Because in that movie,
+Batman was able to defeat the Mazer with some
+
+322
+00:30:18,163 --> 00:30:25,348
+explosives, if I recall correctly. Which is
+bullcrap. But yeah, I loved how they used parasite
+
+323
+00:30:25,468 --> 00:30:30,772
+alien technology to give a Mazer his like absorbing
+powers. I thought that was smart. That makes
+
+324
+00:30:30,792 --> 00:30:37,376
+sense. Yeah, that tighted well. I do have to
+wonder, though, as well, like Lex's mech suit
+
+325
+00:30:37,657 --> 00:30:44,251
+almost looks like a metallo. Like, if they were
+selling that as a prototype for maybe a later
+
+326
+00:30:44,371 --> 00:30:48,532
+version of Botelo, I could totally buy that.
+That's really the only reasoning I'll accept
+
+327
+00:30:48,572 --> 00:30:53,894
+for why his suit looked so damn bad. Now when
+The Flash realizes that Amazo's been corrupted
+
+328
+00:30:53,954 --> 00:31:01,416
+by Lex and he brings Dr. Ivo to him, Amazo attempts
+to heal Ivo using the metahuman energy that
+
+329
+00:31:01,456 --> 00:31:09,031
+he had absorbed. When that ended up killing
+the frail Ivo instead, the subtle acting quote-unquote
+
+330
+00:31:09,051 --> 00:31:15,615
+by Amazo was incredible. Like the android was
+so profoundly shocked by betraying the very
+
+331
+00:31:15,715 --> 00:31:21,339
+reason for his existence and accidentally killing
+his creator, he could barely complete a sentence.
+
+332
+00:31:21,359 --> 00:31:27,804
+It just broke him. The fact that Amazo was brought
+back online by the Flash to help him and Iris
+
+333
+00:31:27,824 --> 00:31:34,088
+complete the frequency tower and save the multiverse
+at the end, allowing Amazo to fulfill his programming
+
+334
+00:31:34,148 --> 00:31:40,721
+before being destroyed, also cut me super deep
+to my core. Like for a character to go from
+
+335
+00:31:40,781 --> 00:31:47,726
+the deepest valley of regret to the utmost peak
+of fulfillment in his last moment was surprisingly
+
+336
+00:31:47,886 --> 00:31:53,918
+more cathartic than I thought it'd be. And this
+is just part one. Yeah, as the story was going
+
+337
+00:31:54,018 --> 00:31:59,740
+on, I wasn't quite sure why they felt the need
+to include Amazo in this particular story,
+
+338
+00:31:59,900 --> 00:32:06,862
+because I wasn't sure it made sense thematically
+with the idea of the multiverse ending. By
+
+339
+00:32:06,902 --> 00:32:11,603
+the end it was clear that they included Amazo
+because they wanted to tell the story of him
+
+340
+00:32:11,724 --> 00:32:17,125
+fulfilling his programming. I'm not entirely
+sure it was necessary though. Why did they
+
+341
+00:32:17,165 --> 00:32:22,661
+need Amazo? who I wasn't even aware was filled
+in on the frequency tower schematics or anything
+
+342
+00:32:22,701 --> 00:32:26,243
+like that or what he had to do with that. Like,
+Iris and Flash could have built that tower
+
+343
+00:32:26,263 --> 00:32:31,267
+themselves. Probably, it probably would have
+taken them a lot longer to do it without Amazo,
+
+344
+00:32:31,307 --> 00:32:37,351
+considering they're not engineers and Amazo
+is a super intelligent AI. You could argue
+
+345
+00:32:37,391 --> 00:32:41,874
+that he wasn't necessary to the story, but I
+actually really like that they were able to
+
+346
+00:32:41,954 --> 00:32:47,795
+introduce him again as the threat that resulted
+in the formation of the League. but also coming
+
+347
+00:32:47,835 --> 00:32:52,983
+full circle to have him be the one that helps
+save humanity at the end of the movie. It's
+
+348
+00:32:53,023 --> 00:32:57,289
+just good writing. And with that said, let's
+move on to our story highlights.
+
+349
+00:33:04,494 --> 00:33:08,977
+The film begins with Barry Allen, the Flash,
+running through the time stream, observing
+
+350
+00:33:09,017 --> 00:33:14,202
+himself on the night he got his powers in a
+lab accident and met his future wife, Iris
+
+351
+00:33:14,262 --> 00:33:19,887
+West. Barry time trips farther along the time
+stream to when he and Superman first encountered
+
+352
+00:33:20,007 --> 00:33:26,573
+the energy-stealing android villain, Amazo,
+created by Dr. Anthony Ivo for LexCorp. When
+
+353
+00:33:26,633 --> 00:33:32,326
+Flash and Superman become too weak to face Amazo,
+Green Arrow comes to their rescue. and he and
+
+354
+00:33:32,366 --> 00:33:37,731
+Flash take Superman to the home of Bruce Wayne
+on Halloween night to recover. Now remember
+
+355
+00:33:37,771 --> 00:33:42,035
+when we were talking about the post credits
+scene of Batman the Long Halloween Part 2 and
+
+356
+00:33:42,075 --> 00:33:46,119
+we were like, what? Flash and Green Arrow? What
+does that mean? That was a horrible ending.
+
+357
+00:33:46,499 --> 00:33:51,944
+Well now we see how that scene came about. Barry
+time trips to when he and Iris meet a destitute
+
+358
+00:33:51,964 --> 00:33:57,822
+John Constantine who is responsible for some
+of Flash's time trips. Barry then travels to
+
+359
+00:33:57,842 --> 00:34:03,764
+when he first meets Dick Grayson and encourages
+Bruce Wayne to foster him. We then jump back
+
+360
+00:34:03,804 --> 00:34:08,926
+in time to when Superman is recovering in the
+Batcave before Flash, Superman, Batman, and
+
+361
+00:34:08,966 --> 00:34:14,648
+Green Arrow decide to form a team to face a
+mezzo that includes Vixen and Martian Manhunter.
+
+362
+00:34:14,808 --> 00:34:19,891
+When they try to recruit the Green Lantern Hale
+Jordan, Hale rejects the team and Constantine
+
+363
+00:34:19,911 --> 00:34:25,313
+appears again telling the Flash that he must
+bear witness before sending him to the parallel
+
+364
+00:34:25,453 --> 00:34:30,247
+universe of Earth 3. Hal Jordan was kind of
+a dick throughout the entire tomorrow verse,
+
+365
+00:34:30,467 --> 00:34:36,430
+right? Even in the Green Lantern Beware My Power
+movie, he became Parallax and was evil and
+
+366
+00:34:36,490 --> 00:34:41,152
+shit, you know? And here he was just like, I'm
+already part of a team, screw you guys. It
+
+367
+00:34:41,172 --> 00:34:46,514
+was nice to see Jon Stewart get his due as a
+character though, within this universe. I like
+
+368
+00:34:46,534 --> 00:34:51,597
+that the focus was on him as the resident Green
+Lantern. Yeah, I'm sure a lot of fans also
+
+369
+00:34:51,657 --> 00:34:57,179
+liked at the very end of the film. during Barry
+and Iris' wedding when Jon Stewart and Hawke
+
+370
+00:34:57,219 --> 00:35:01,561
+Girl ended up dancing together. Because that
+of course goes back to the Bruce Tim verse,
+
+371
+00:35:01,701 --> 00:35:06,043
+or whatever that's called. That's called the
+DCAU, which incorporates Batman the Animated
+
+372
+00:35:06,083 --> 00:35:11,325
+Series, Superman the Animated Series, and Justice
+League. And Justice League Unlimited. Now after
+
+373
+00:35:11,385 --> 00:35:16,907
+encountering Johnny Quick and the Crime Syndicate,
+Flash realizes that he's in a new universe
+
+374
+00:35:17,187 --> 00:35:22,489
+before getting pummeled by its evil doppelganger
+version of the Justice League, the Crime Syndicate.
+
+375
+00:35:22,978 --> 00:35:28,019
+Flash trips back to his universe when he and
+his allies announce the Justice League team
+
+376
+00:35:28,059 --> 00:35:33,420
+to the world, just before they're attacked by
+Amazo and Lex Luthor, the latter of whom is
+
+377
+00:35:33,460 --> 00:35:39,242
+wearing a mech suit. During the battle, Amazo
+uses the speed he's absorbed from the Flash
+
+378
+00:35:39,542 --> 00:35:44,643
+to have a conversation with the speedster with
+time at a near standstill, explaining that
+
+379
+00:35:44,663 --> 00:35:49,945
+he was programmed to extend human life, but
+that Lex Luthor had corrupted his programming.
+
+380
+00:35:52,886 --> 00:35:58,487
+but accidentally time trips back to Earth 3
+instead. While on Earth 3, Flash discovers
+
+381
+00:35:58,527 --> 00:36:03,148
+that it's ruled by evil counterparts to the
+heroes of his world, and the Crime Syndicate
+
+382
+00:36:03,188 --> 00:36:08,810
+learns of the potential for other Earths and
+parallel universes that they can conquer. Flash
+
+383
+00:36:08,930 --> 00:36:13,911
+also learns that sharing the Speed Force with
+the evil Speedster Johnny Quick prevents him
+
+384
+00:36:13,951 --> 00:36:20,113
+from gaining enough speed to return to his universe.
+However, the decrepit Constantine appears and
+
+385
+00:36:20,173 --> 00:36:25,616
+warns the Syndicate, that their universe is
+about to be destroyed. Flash time trips back
+
+386
+00:36:25,656 --> 00:36:30,560
+to his universe on the day of his wedding when
+he warns Iris that something major is going
+
+387
+00:36:30,600 --> 00:36:36,224
+to happen but also promises that no matter what
+they will grow old together. Time tripping
+
+388
+00:36:36,364 --> 00:36:42,589
+back to the past, the Flash finds Dr. Ivo at
+LexCorp learning that Ivo created a mezzo using
+
+389
+00:36:42,729 --> 00:36:47,852
+alien technology with the intention of curing
+Kiss Hutchinson-Gilford syndrome which caused
+
+390
+00:36:47,992 --> 00:36:53,853
+Ivo to age rapidly. As the Flash races Ivo back
+to the Justice League's battle with the Meizou,
+
+391
+00:36:54,333 --> 00:37:00,197
+Flash time trips back to his time on Earth 3.
+At this point in the story, I'm wondering what
+
+392
+00:37:00,237 --> 00:37:05,081
+the point of everything is, because it's just
+the nature of the narrative device of time
+
+393
+00:37:05,121 --> 00:37:09,985
+skipping. It's really hard to make heads or
+tails of not just what's going on, but why
+
+394
+00:37:10,025 --> 00:37:14,155
+things are happening. You know, it's easy to
+assume in films like these that it's all going
+
+395
+00:37:14,175 --> 00:37:18,518
+to come together at the end, like the movie
+Memento. But it definitely feels like the movie
+
+396
+00:37:18,558 --> 00:37:23,401
+starts to drag at some points because you don't
+quite know where it's going. Actually, when
+
+397
+00:37:23,481 --> 00:37:29,104
+I was watching this film for the first time,
+the whole movie felt very quick to me. Like
+
+398
+00:37:29,184 --> 00:37:33,227
+everything was happening at such a rapid pace
+that by the time the movie was over, I was
+
+399
+00:37:33,267 --> 00:37:38,129
+like, really? That was 90 minutes? But yeah,
+it was. I had the opposite experience. Really?
+
+400
+00:37:38,710 --> 00:37:41,992
+Yeah, but halfway through the movie, I was like,
+shouldn't this thing be over by now? And then
+
+401
+00:37:42,052 --> 00:37:47,616
+I checked the time code and realized it was
+only halfway done. Geez. It's strange that
+
+402
+00:37:47,676 --> 00:37:52,319
+we experience time differently while watching
+this movie. Honestly, I don't think you could
+
+403
+00:37:52,359 --> 00:37:57,422
+think this movie was slow. Like, I can get like
+being confused by what's going on, because
+
+404
+00:37:57,582 --> 00:38:02,125
+there certainly was a time towards the beginning
+of the film where I didn't realize what was
+
+405
+00:38:02,145 --> 00:38:06,909
+going on either. But I caught on pretty quick
+and it was, you know, just enjoying the ride.
+
+406
+00:38:07,169 --> 00:38:12,743
+Maybe that's the difference. I enjoy rides.
+You don't apparently. Yeah, you get motion
+
+407
+00:38:12,763 --> 00:38:20,026
+sick. There you go. Now on Earth 3, Flash watches
+as the crime syndicate proves to be incapable
+
+408
+00:38:20,067 --> 00:38:26,569
+of managing the turmoil caused by violent storms
+across the planet. When Flash asks how Constantine
+
+409
+00:38:26,609 --> 00:38:31,591
+is appearing in different universes, Constantine
+explains that he and Flash are guilty of a
+
+410
+00:38:31,652 --> 00:38:36,514
+heinous act. We time trip back in time to the
+Justice League's battle with the Mezzo. and
+
+411
+00:38:36,554 --> 00:38:42,836
+the League members fall one by one. With Amazo
+and Lex nearly victorious, Flash arrives with
+
+412
+00:38:43,036 --> 00:38:49,840
+Ivo, who asks Amazo to use the metahuman energy
+he absorbed to cure him. Amazo's attempt to
+
+413
+00:38:49,880 --> 00:38:56,623
+do so fails, and Ivo dies. With his primary
+objective made obsolete, the shocked Amazo
+
+414
+00:38:56,683 --> 00:39:02,805
+deduces that Lex is the one who inflicted Ivo
+with the disease. Amazo destroys Lex's mech
+
+415
+00:39:02,865 --> 00:39:08,878
+suit. though Flash stops Amazo before he can
+kill his former ally. Once Lex is apprehended
+
+416
+00:39:08,958 --> 00:39:14,462
+by the authorities, it's revealed that the formation
+of the Justice League was a ruse to draw out
+
+417
+00:39:14,542 --> 00:39:20,307
+Amazo, but the heroes decide to make the League
+a reality after all. Am I the only one that
+
+418
+00:39:20,367 --> 00:39:25,291
+thought that Batman maybe had a point in his
+approach? You know, clear all the innocent
+
+419
+00:39:25,311 --> 00:39:30,859
+civilians out, but then just bomb the hell out
+of Lex Luthor. Everybody was like, no, you
+
+420
+00:39:30,879 --> 00:39:36,783
+can't do it. You can't bomb the city. But it's
+like this guy's super powerful. You clearly
+
+421
+00:39:36,823 --> 00:39:42,807
+can't let a mezzo steal Superman's powers because
+that's worse than a bomb. So I don't know why
+
+422
+00:39:43,027 --> 00:39:47,510
+they were getting all up. Batman's asked for.
+Well, I mean, Flash ultimately proved that
+
+423
+00:39:47,530 --> 00:39:52,013
+he had a better solution. Yeah. But like, I
+don't know, the other heroes were just annoying
+
+424
+00:39:52,053 --> 00:39:57,897
+me. You're on the wrong side of history there.
+Literally. Yeah. Time tripping ahead in the
+
+425
+00:39:57,957 --> 00:40:03,212
+timeline. We see an older Barry and Iris wake
+up to celebrate the anniversary of the first
+
+426
+00:40:03,232 --> 00:40:09,135
+day they met, before we trip back to the day
+of their wedding, which is interrupted by Harbinger,
+
+427
+00:40:09,455 --> 00:40:14,718
+who is recruiting heroes for the Monitor to
+save the multiverse. On the Monitor's ship
+
+428
+00:40:14,818 --> 00:40:20,302
+outside of space-time, heroes from across the
+multiverse and time begin appearing, including
+
+429
+00:40:20,442 --> 00:40:27,405
+Wonder Woman, Robin, Huntress, Dr. Light, and
+Psycho Pirates, among others. Harbinger reveals,
+
+430
+00:40:27,638 --> 00:40:32,880
+that she is actually Supergirl to the future
+hero Dawnstar of the Legion of Superheroes.
+
+431
+00:40:33,380 --> 00:40:38,742
+The Monitor arrives and reveals to the heroes
+that a wave of antimatter is ripping through
+
+432
+00:40:38,762 --> 00:40:43,585
+the multiverse, destroying entire universes,
+and that they have been brought together to
+
+433
+00:40:43,645 --> 00:40:49,867
+stop it. Barry time trips to the future when
+an elderly version of himself and Iris continue
+
+434
+00:40:49,887 --> 00:40:56,026
+to work on a mysterious project. Before Barry
+trips again to Earth 3, where he witnesses
+
+435
+00:40:56,046 --> 00:41:02,209
+the antimatter wave begin to erase that universe.
+Tripping back to the monitor ship, the flash
+
+436
+00:41:02,249 --> 00:41:07,011
+reveals that the monitor is telling the truth
+and that the threat of the antimatter wave
+
+437
+00:41:07,151 --> 00:41:11,653
+is real. Did you get the feeling when Harbinger
+showed up in the movie that finally they're
+
+438
+00:41:11,673 --> 00:41:16,395
+getting to the story of Crisis on Infinite Earths?
+Like, it seemed a little bit late within the
+
+439
+00:41:16,455 --> 00:41:22,178
+runtime to start introducing those elements,
+right? Honestly, I wasn't sure how- the formation
+
+440
+00:41:22,218 --> 00:41:29,180
+of the League was going to tie into the crisis.
+So I actually wasn't thinking that. As I mentioned
+
+441
+00:41:29,200 --> 00:41:33,882
+earlier, there are like three distinct sort
+of conflicts going on throughout the course
+
+442
+00:41:33,902 --> 00:41:40,024
+of this movie. One is a mezzo, one is the crime
+syndicate, and one is the antimatter wave.
+
+443
+00:41:40,444 --> 00:41:45,365
+It's true that the antimatter wave storyline
+doesn't really begin until halfway through
+
+444
+00:41:45,385 --> 00:41:50,663
+the film. But again, everything was just moving
+so fast that it didn't feel like the halfway
+
+445
+00:41:50,703 --> 00:41:54,365
+point to me. This is the first part of a trilogy.
+It's not like they were going to go through
+
+446
+00:41:54,405 --> 00:41:59,447
+the entire crisis storyline just in this movie.
+I figured it was going to be delayed. I figured
+
+447
+00:41:59,487 --> 00:42:06,930
+there was going to be some setup. Well, fine.
+As Earth 3 is entirely destroyed by the wave,
+
+448
+00:42:07,271 --> 00:42:12,653
+the death of Johnny Quick allows Flash to gain
+enough speed force to return to his universe.
+
+449
+00:42:13,213 --> 00:42:19,433
+In the future, It's revealed that Amazo is helping
+the elderly Barry and Iris on their project.
+
+450
+00:42:19,994 --> 00:42:25,838
+On the monitor ship, the heroes decide to split
+into two teams. One to determine a solution
+
+451
+00:42:26,078 --> 00:42:31,281
+and one to build it. During their brainstorm
+session, Flash reveals that absorbing the entirety
+
+452
+00:42:31,321 --> 00:42:37,246
+of the speed force of the Earth 3 universe upon
+its demise knocked him out of his linear time
+
+453
+00:42:37,286 --> 00:42:43,822
+experience. When the heroes learn that the Flash
+is able to traverse the multiverse, by vibrating
+
+454
+00:42:43,962 --> 00:42:50,165
+into different planes of existence, they determine
+that colossal tuning fork towers built on their
+
+455
+00:42:50,305 --> 00:42:56,627
+earths could vibrate their universes to a state
+of intangibility when the wave strikes. As
+
+456
+00:42:56,647 --> 00:43:03,210
+the heroes begin building the towers, it's revealed
+that the elderly Barry, Iris, and Amazo are
+
+457
+00:43:03,250 --> 00:43:08,112
+working on building one of those towers. Now
+the reason they have to do that is because
+
+458
+00:43:08,292 --> 00:43:13,354
+the flash needs to slow down time due to the
+wave moving quicker. which was not foreseen
+
+459
+00:43:13,574 --> 00:43:18,798
+by the heroes when they were building the towers.
+But the story never reveals why the wave moved
+
+460
+00:43:18,858 --> 00:43:23,500
+quicker all of a sudden. I'm assuming that they're
+going to touch on that in later films. Yes,
+
+461
+00:43:23,680 --> 00:43:30,404
+I got the implication that this whole thing
+is a product of the monitor based on his conversation
+
+462
+00:43:30,424 --> 00:43:34,687
+with the specter that we'll talk about later
+on. But I could be wrong. There still could
+
+463
+00:43:34,727 --> 00:43:40,378
+be an anti-monitor. Who was the villain of the
+crisis story in the comics? Yes, exactly. As
+
+464
+00:43:40,418 --> 00:43:45,361
+the heroes build, they're shocked to discover
+the wave has arrived ahead of schedule. The
+
+465
+00:43:45,401 --> 00:43:51,644
+Flash encounters Constantine, who tells him
+to run to Iris. With Iris in his arms, the
+
+466
+00:43:51,685 --> 00:43:57,588
+Flash imbues her with enough speed force energy
+that the two are able to move with time essentially
+
+467
+00:43:57,648 --> 00:44:03,151
+at a standstill, allowing them to complete the
+construction of the tower over the span of
+
+468
+00:44:03,231 --> 00:44:10,568
+relative decades. As the anti-manager wave slowly
+approaches, The elderly Iris dies from old
+
+469
+00:44:10,768 --> 00:44:16,553
+age, just as they finish work on the tower.
+As the elderly Barry charges up the tower by
+
+470
+00:44:16,613 --> 00:44:23,198
+running on a power generating turbine, the heroes
+experiencing time normally watch as the tower
+
+471
+00:44:23,278 --> 00:44:30,144
+is constructed at rapid speed before them just
+as the wave hits. Though the tower is destroyed
+
+472
+00:44:30,224 --> 00:44:35,689
+as the wave passes over, the tower's frequency
+was successfully transmitted throughout the
+
+473
+00:44:35,729 --> 00:44:42,115
+multiverse. saving countless Earths. Infinite
+Earths? Maybe not infinite, but a whole hell
+
+474
+00:44:42,155 --> 00:44:48,037
+of a lot. I'm calling bullshit on the marketing.
+Ha ha ha. The Spectre meets with the Monitor,
+
+475
+00:44:48,137 --> 00:44:53,578
+who has determined that his experiment was a
+success, though he was doubtful it would be.
+
+476
+00:44:53,999 --> 00:44:59,960
+The Spectre then visits the elderly Barry and
+reveals that a mezzo now destroyed knew he
+
+477
+00:45:00,000 --> 00:45:05,710
+had succeeded in his mission to extend human
+life in his last moment. The specter also reveals
+
+478
+00:45:05,770 --> 00:45:11,413
+that though he is an agent of God's wrath, Barry
+has atoned for his responsibility in helping
+
+479
+00:45:11,573 --> 00:45:18,236
+cause the events that had transpired. As the
+Speed Force absorbs Barry into it, in his final
+
+480
+00:45:18,276 --> 00:45:24,078
+moments he's able to warn his younger self the
+day of his accident and Bruce Wayne and Warlord
+
+481
+00:45:24,179 --> 00:45:30,201
+that they must go back to before the beginning.
+We see that on the day of Barry's and Iris's
+
+482
+00:45:30,261 --> 00:45:35,535
+wedding, Harbinger brought all of the heroes
+of this world to celebrate together with them
+
+483
+00:45:35,935 --> 00:45:41,437
+before embarking on the monitor's mission to
+save the multiverse. In the final scene, as
+
+484
+00:45:41,477 --> 00:45:46,338
+the heroes celebrate on the monitor's ship,
+we see that their actions have affected the
+
+485
+00:45:46,398 --> 00:45:52,400
+timeline and characters from the future such
+as Don Star and Brainiac 5 begin to disappear.
+
+486
+00:45:52,860 --> 00:45:57,301
+And that's why it's interesting that Batman
+Beyond is in the trailer for the next film.
+
+487
+00:45:57,810 --> 00:46:01,933
+I didn't make the connection that it was just
+characters from the future that were blipping,
+
+488
+00:46:02,434 --> 00:46:05,957
+and it looked like they were being blipped.
+I thought it was just like random characters.
+
+489
+00:46:06,037 --> 00:46:11,522
+Oh really? You probably were like, what an Infinity
+War ripoff. Right. But I guess it was made
+
+490
+00:46:11,622 --> 00:46:17,019
+clear by what Brainiac 5 told Supergirl at the
+very end. I thought it was a very strange ending
+
+491
+00:46:17,079 --> 00:46:20,501
+though. Considering that the main character
+for the whole film was the Flash, we didn't
+
+492
+00:46:20,621 --> 00:46:24,783
+end with the Flash. The story seemed to kick
+over to Supergirl at that point, which makes
+
+493
+00:46:24,823 --> 00:46:30,287
+me feel like this scene is also going to be
+the beginning to part 2. We did end with the
+
+494
+00:46:30,307 --> 00:46:35,029
+Flash though. He died. He merged with the Speed
+Force. No, the very last shot of this movie
+
+495
+00:46:35,510 --> 00:46:39,632
+was Brainiac 5 disappearing. Right, I know,
+but that's just set up for the next film. You
+
+496
+00:46:39,652 --> 00:46:42,934
+were saying that you were surprised it didn't
+end with the Flash. And I'm saying, what the
+
+497
+00:46:43,014 --> 00:46:48,157
+fuck, of course they would set up the next movie,
+it's a fucking trilogy. But they didn't need
+
+498
+00:46:48,197 --> 00:46:52,339
+to. These final moments seem to stem more out
+of their need to set up a cliffhanger than
+
+499
+00:46:52,399 --> 00:46:56,801
+anything else. It just didn't feel as satisfying
+an ending as if they had just chose to end
+
+500
+00:46:56,862 --> 00:47:02,445
+with The Flash. It's part one of a fucking trilogy,
+it doesn't need to be satisfying. It should
+
+501
+00:47:02,785 --> 00:47:07,827
+set up the next film, it should make you eager
+for the continued storyline. I don't think
+
+502
+00:47:07,847 --> 00:47:12,578
+they needed to end it with just The Flash. I'm
+actually pretty intrigued. by how they ended
+
+503
+00:47:12,618 --> 00:47:18,443
+it because it continues the conflict, right?
+There's more story to be told. What threw me
+
+504
+00:47:18,543 --> 00:47:24,608
+at the end of this, actually, was the whole
+Bruce Wayne on Skartaris scene, because I was
+
+505
+00:47:24,648 --> 00:47:32,254
+under the impression that was just a hallucination
+induced by War World. And I'm wondering if
+
+506
+00:47:32,274 --> 00:47:38,019
+they're implying that, actually, that was a
+real universe. That wouldn't make sense, because
+
+507
+00:47:38,159 --> 00:47:45,208
+War World doesn't have time travel. portal capabilities.
+No, it did. Actually, they said in the Warworld
+
+508
+00:47:45,248 --> 00:47:50,691
+film that Mongol had been scouring the multiverse
+on Warworld. So, you're saying that Wonder
+
+509
+00:47:50,731 --> 00:47:55,894
+Woman actually went to the Wild West and Superman
+actually went to the 1950s. I mean, I think
+
+510
+00:47:55,934 --> 00:48:03,098
+that's what this implies. No, I don't think
+so. Okay, I mean, why not? Why not? I guess
+
+511
+00:48:03,118 --> 00:48:08,481
+we'll find out in future films. Again, we have
+no idea when they're coming, but I'm looking
+
+512
+00:48:08,501 --> 00:48:14,392
+forward to them. because this film was really
+good in my opinion. Its unconventional narrative
+
+513
+00:48:14,432 --> 00:48:20,474
+structure ultimately pays off as its emotional
+ending sets up the promise of a fascinating
+
+514
+00:48:20,514 --> 00:48:25,676
+conclusion to this animated universe. The film
+wasn't perfect and I know it's going to put
+
+515
+00:48:25,776 --> 00:48:34,280
+off a lot of people, so I'm giving it 3.5 out
+of 5 stars. A fresh rating on Rotten Tomatoes.
+
+516
+00:48:34,340 --> 00:48:39,318
+And actually to your credit Joseph, you had
+to talk me down from giving it 4 stars. It's
+
+517
+00:48:39,358 --> 00:48:43,521
+definitely not a four star film. It's going
+to be divisive. I think it raises a lot of
+
+518
+00:48:43,561 --> 00:48:48,285
+questions while you're watching it and can be
+frustrating, which is not a great movie going
+
+519
+00:48:48,346 --> 00:48:53,610
+experience. I think what it tried to do is better
+in concept than what it did in practice. As
+
+520
+00:48:53,630 --> 00:48:59,695
+can be said for the rest of the Tomorrowverse.
+Oh, for sure. Yeah, I think at least each concept
+
+521
+00:48:59,715 --> 00:49:03,999
+that each movie set up in the Tomorrowverse
+had potential. And honestly, the best thing
+
+522
+00:49:04,019 --> 00:49:09,558
+that you can say about Crisis Part One is that
+the potential stories that it has set up for
+
+523
+00:49:09,598 --> 00:49:14,720
+parts two and part three look to be epic as
+hell. And I really hope that the tomorrow verse
+
+524
+00:49:14,760 --> 00:49:19,741
+is able to stick this landing and end in a great
+way. Yeah, I hope they will. You know, honestly,
+
+525
+00:49:19,781 --> 00:49:25,763
+if they take more bold swings like what they
+did here, I'm all for it, honestly. And I just
+
+526
+00:49:25,783 --> 00:49:31,005
+have to appreciate the ambition it took to do
+something like crisis part one, because not
+
+527
+00:49:31,105 --> 00:49:36,899
+only did it tell a really good story. unconventional
+as it was. They also showed a little bit of
+
+528
+00:49:36,919 --> 00:49:41,702
+genius when it came to how they're adapting
+this crisis story. But that does it for this
+
+529
+00:49:41,742 --> 00:49:46,825
+review. Let us know what you thought about the
+movie by writing to us at dynamicduelpodcast
+
+530
+00:49:47,085 --> 00:49:53,328
+at gmail.com or by visiting us on Instagram,
+which you can find a link to in our show notes
+
+531
+00:49:53,488 --> 00:49:58,191
+or by visiting our website dynamicduel.com.
+And on our site, you could also find a link
+
+532
+00:49:58,211 --> 00:50:02,233
+to our Patreon page where you can join our dynamic
+two O tier and chat with us and fellow listeners.
+
+533
+00:50:02,646 --> 00:50:06,929
+our Fantastic Four tier, which gets you bonus
+content each month, our X-Force tier that makes
+
+534
+00:50:06,949 --> 00:50:11,653
+you an executive producer of this podcast, or
+our newest tier that lets you join our Dynamike
+
+535
+00:50:11,713 --> 00:50:17,598
+Podcast Network. Please don't forget to rate
+the show on Apple Podcasts, Spotify, Podchaser,
+
+536
+00:50:18,018 --> 00:50:22,903
+or on our website. Our next episode is going
+to be another review. We're going to discuss
+
+537
+00:50:22,963 --> 00:50:29,748
+season one of the Disney Plus Marvel television
+series Echo. Also a divisive series, but you'll
+
+538
+00:50:29,768 --> 00:50:33,643
+get our thoughts on it next week. But that does
+it for this episode, we want to give a big
+
+539
+00:50:33,663 --> 00:50:38,968
+thanks to our executive producers Ken Johnson,
+John Storosky, Zachary Hepburn, Dustin Balcom,
+
+540
+00:50:39,208 --> 00:50:44,812
+Miggy Mathengian, Brandon Estregard, Nathaniel
+Wagner, Levi Yeaton, Nick Abonto, Austin Wiselowski,
+
+541
+00:50:45,053 --> 00:50:51,218
+AJ Dunkerley, Scott Camacho, Adam Spies, Andrew
+Shunk, and Dean Mielewski for helping make
+
+542
+00:50:51,258 --> 00:50:56,622
+this podcast possible. And we'll talk to you
+guys next week. Up up and away, true believers.
+
+543
+00:50:57,202 --> 00:50:59,484
+More like Crisis of Infinite Girth, Amorite.
+
