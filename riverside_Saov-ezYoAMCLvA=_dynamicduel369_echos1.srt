@@ -1,0 +1,2826 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a Dynamike Network podcast.
+
+2
+00:00:24,130 --> 00:00:28,291
+Hi and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+3
+00:00:28,471 --> 00:00:33,354
+and debate the superiority between Marvel and
+DC by comparing their characters in stat-based
+
+4
+00:00:33,434 --> 00:00:39,216
+battle simulations. I'm Marvelous Joe. And I'm
+his twin brother, Johnny DC. And in this episode,
+
+5
+00:00:39,236 --> 00:00:44,839
+we're going to review the latest Marvel Studios
+television release, Echo Season 1. The season
+
+6
+00:00:44,879 --> 00:00:50,901
+dropped a few weeks ago, but we're just getting
+to reviewing it now. And uh, it was okay. It
+
+7
+00:00:50,961 --> 00:00:54,863
+was alright. I feel like it's not as bad as
+people are making it out to be, personally.
+
+8
+00:00:55,024 --> 00:00:58,946
+I kind of enjoyed it. I know I enjoyed it more
+than you at least, and I'm kind of interested
+
+9
+00:00:58,986 --> 00:01:02,188
+to hear what you have to say about it. Oh, I'll
+bring you down. I'll bring you down to my level.
+
+10
+00:01:02,408 --> 00:01:07,391
+It'll be fine. Sweet. I have reasons. We'll
+talk about them later. Before that, we're going
+
+11
+00:01:07,411 --> 00:01:11,533
+to break down the latest comic book movie news
+to come out this past week, including the news
+
+12
+00:01:11,573 --> 00:01:17,096
+that Wilson Bethel is confirmed to return as
+Bullseye in Daredevil Born Again, which is
+
+13
+00:01:17,136 --> 00:01:21,179
+fantastic news. I can't wait to talk about that.
+As always, we list our segment times in our
+
+14
+00:01:21,219 --> 00:01:25,323
+episode description, so feel free to check out
+the show notes if you want to skip ahead to
+
+15
+00:01:25,343 --> 00:01:30,888
+a particular topic. Our artificially intelligent
+dual simulator AJ9K has a quick message for
+
+16
+00:01:30,908 --> 00:01:37,508
+our listeners, so listen up. Why hello there.
+Do you love listening and chatting about Marvel
+
+17
+00:01:37,548 --> 00:01:42,771
+and DC? Then become a part of the dynamic dual
+community on Patreon where you can choose from
+
+18
+00:01:42,811 --> 00:01:49,036
+three tiers. The dynamic 2-0 tier lets you listen
+to this podcast without ads and gives you access
+
+19
+00:01:49,076 --> 00:01:54,199
+to its Discord chat group where you can chat
+with Johnny DC and Marvelous Joe. The fantastic
+
+20
+00:01:54,239 --> 00:01:58,983
+4 tier gives you that and more with two bonus
+episodes each month including bloopers and
+
+21
+00:01:59,023 --> 00:02:03,590
+top 10 shows where Johnny and Joe count down
+your favourite Marvel and DC subjects. The
+
+22
+00:02:03,730 --> 00:02:08,212
+X-Force tier makes you an executive producer
+of Dynamic Duel, where every month you help
+
+23
+00:02:08,232 --> 00:02:13,214
+the hosts choose what to review and who to fight
+against each other. And finally, the Dynamite
+
+24
+00:02:13,234 --> 00:02:18,957
+Podcast Network tier allows aspiring podcasters
+to create their own battle-focused show using
+
+25
+00:02:18,997 --> 00:02:23,679
+this Monte Carlo simulator. Johnny and Joe will
+help you develop your show, provide graphic
+
+26
+00:02:23,719 --> 00:02:28,541
+support and consultation, and get you simulation
+results to announce on your show. Pitch the
+
+27
+00:02:28,581 --> 00:02:30,282
+twins your show via email at dyna
+
+28
+00:02:33,424 --> 00:02:40,325
+them on social media. Check it out at patreon.com
+slash dynamic duel. Pip pip cheerio. Thanks
+
+29
+00:02:40,405 --> 00:02:45,906
+AJ 9k. And thanks to everyone who supports the
+podcast. Guys, be sure to tune into the Max
+
+30
+00:02:45,946 --> 00:02:50,567
+Destruction podcast, which is part of our Dynamike
+podcast network that show pits your favorite
+
+31
+00:02:50,667 --> 00:02:55,488
+action heroes from film and television against
+each other. This week, hosts Ken and Scotty
+
+32
+00:02:55,829 --> 00:03:02,087
+are going to review Dread. And on the Sinjo
+World podcast. Host Zachary Hepburn speculates
+
+33
+00:03:02,147 --> 00:03:06,429
+on fights between your favorite anime characters.
+This week we're going to find out who would
+
+34
+00:03:06,469 --> 00:03:13,633
+win between Dragon Ball's son Gohan vs. Saint
+Seiya's Phoenix Ikki? I don't know how to pronounce
+
+35
+00:03:13,653 --> 00:03:17,975
+the name. I don't know if that's right. I'm
+sure you nailed it. On the Console Combat podcast,
+
+36
+00:03:18,035 --> 00:03:21,957
+hosts John and Dean find out who would win in
+fights between your favorite video game characters.
+
+37
+00:03:22,478 --> 00:03:26,840
+And in yesterday's episode, they continued into
+round two of their tournament, since they do
+
+38
+00:03:26,860 --> 00:03:35,236
+a bracket tournament style. Street Fighter's
+Dark Ryu vs Metal Gear's Liquid Ocelot, and
+
+39
+00:03:35,416 --> 00:03:42,539
+Resident Evil's Nemesis vs Mortal Kombat's Scorpion.
+Visit dynamicpodcast.com or click the link
+
+40
+00:03:42,579 --> 00:03:48,021
+in our show notes to listen to all of the shows
+in the Dynamike Podcast Network. But with that
+
+41
+00:03:48,061 --> 00:03:54,484
+out of the way, quick to the No Prize. A No
+Prize is an award Marvel used to give out to
+
+42
+00:03:54,504 --> 00:04:00,447
+fans. Our version, the Dynamic Dual No Prize,
+is a digital award we post on Instagram for
+
+43
+00:04:00,487 --> 00:04:05,149
+the person that we feel gave the best answer
+to our question of the week. Last week we asked,
+
+44
+00:04:05,489 --> 00:04:10,831
+what comic storyline from Marvel or DC would
+you want to see adapted as an animated film
+
+45
+00:04:10,891 --> 00:04:16,474
+trilogy and why? And this is coming off of the
+review that we did last episode of Justice
+
+46
+00:04:16,494 --> 00:04:20,395
+League Crisis on Infinite Earths, part one.
+And holy crap, we got a lot of great answers
+
+47
+00:04:20,435 --> 00:04:23,557
+for this question. Can't wait to talk about
+them. Let's go ahead and run down our honorable
+
+48
+00:04:23,577 --> 00:04:29,627
+mentions and the no prize winner. Our first
+honorable mention goes to Jacob Foster, who
+
+49
+00:04:29,687 --> 00:04:33,509
+said, So yeah, the video game of Injustice.
+
+50
+00:04:54,482 --> 00:04:59,344
+only covered a portion of the story. As we know,
+the comic series told everything that happened
+
+51
+00:04:59,624 --> 00:05:05,307
+prior to the game, and it was a fantastic comic
+series. I would love to see that series adapted,
+
+52
+00:05:05,608 --> 00:05:10,010
+along with a subsequent film of the Injustice
+storyline that happened during the video game,
+
+53
+00:05:10,330 --> 00:05:15,093
+followed up probably by the Injustice 2 storyline.
+I think that would be a fantastic trilogy.
+
+54
+00:05:15,413 --> 00:05:19,755
+Yeah, we know that Injustice has already been
+adapted into an animated film, but you know,
+
+55
+00:05:19,935 --> 00:05:24,582
+if you watch the movie or you listen to our
+review of that film, you know that a wasn't
+
+56
+00:05:24,602 --> 00:05:28,923
+very good, so it would be nice to kind of get
+a redo on that and tell the story right as
+
+57
+00:05:28,963 --> 00:05:34,644
+a trilogy and not cram everything into one film.
+Yeah, justice needs to be done to the story
+
+58
+00:05:34,744 --> 00:05:40,246
+of injustice. What about deceased? Yeah, deceased
+could easily be a trilogy. Honestly, I feel
+
+59
+00:05:40,266 --> 00:05:44,407
+like it could be an entire series. There's a
+lot of story there, like season upon season.
+
+60
+00:05:44,867 --> 00:05:48,968
+And both injustice and deceased, if I remember
+correctly, are written by the same guy. Oh,
+
+61
+00:05:49,008 --> 00:05:53,369
+yes, that's correct. Tom Taylor. So great answer,
+Jacob Foster. Our next honorable mention goes
+
+62
+00:05:53,409 --> 00:06:00,510
+to... Nate Mantineo who said, Hey guys, Nate
+here. And I would just like to say that I would
+
+63
+00:06:01,010 --> 00:06:07,595
+definitely have Annihilation be the three-part
+movie event in an animated trilogy. I think
+
+64
+00:06:07,635 --> 00:06:13,919
+it's a great story with a ton of amount of cosmic
+everything. Anybody who's anybody in the Marvel
+
+65
+00:06:13,999 --> 00:06:18,922
+Universe is going to be there and you want something
+big leading up to that. So maybe build up a
+
+66
+00:06:18,962 --> 00:06:23,485
+movie universe and then have Annihilation. It
+would just be great. Thanks guys, love the
+
+67
+00:06:23,505 --> 00:06:28,219
+show. Yeah, this is a fantastic answer. It blew
+my mind when I heard it, because I didn't even
+
+68
+00:06:28,259 --> 00:06:33,700
+conceive of this as an animated film trilogy,
+but I would love to see Annihilation adapted
+
+69
+00:06:33,740 --> 00:06:39,042
+like that. It's to this day, the greatest cosmic
+tale that Marvel has ever done, or one of the
+
+70
+00:06:39,062 --> 00:06:45,204
+greatest, I should say, because it joined together
+all of Marvel's spacefaring heroes and united
+
+71
+00:06:45,244 --> 00:06:49,945
+them against a common threat of Annihilus and
+his Annihilation wave. I think you could break
+
+72
+00:06:49,985 --> 00:06:55,772
+it down into the prologue. for Annihilation
+getting into the stories of like Drax and Nova
+
+73
+00:06:55,792 --> 00:07:00,654
+and Silver Surfer and Super Skrull and basically
+setting up all the characters in the first
+
+74
+00:07:00,694 --> 00:07:05,877
+film. In the second one, really get into the
+war against Nihilus and then have that end
+
+75
+00:07:05,898 --> 00:07:10,640
+with probably Galactus getting captured and
+then at the end get into the Heralds of Galactus
+
+76
+00:07:10,680 --> 00:07:14,483
+and the ultimate defeat of Annihilus. I think
+that would play out perfectly. There was a
+
+77
+00:07:14,523 --> 00:07:20,134
+lot of story there. It was fantastic. We get
+to explore characters like Nova as well. whom
+
+78
+00:07:20,214 --> 00:07:24,317
+hasn't really got his due, I think, in the MCU.
+Of course, this would be animated, but I think
+
+79
+00:07:24,337 --> 00:07:30,401
+it would be incredible. Yeah, Nate's idea of
+building up a entire animated universe just
+
+80
+00:07:30,421 --> 00:07:35,144
+to have it possibly lead up to this Annihilation
+trilogy is an interesting idea. It's kind of
+
+81
+00:07:35,184 --> 00:07:40,508
+the same thing that DC's doing in the Tomorrowverse,
+building up this animated cinematic universe
+
+82
+00:07:40,668 --> 00:07:45,792
+just to tear it down with Crisis on Infinite
+Earths. Yeah, I think Marvel could do it better
+
+83
+00:07:45,812 --> 00:07:50,511
+than DC, and I would pay good money to see it
+happen. Dude, Marvel's animated movies suck.
+
+84
+00:07:50,531 --> 00:07:56,734
+Like, you're not wrong, but also, shut your
+mouth. Great answer, Nate. Our final honorable
+
+85
+00:07:56,774 --> 00:08:02,797
+mention goes to Travis Herndon, who said, Hey
+guys, Travis here. So my pick would have to
+
+86
+00:08:02,837 --> 00:08:07,900
+be the Planet Hulk storyline. I know we had
+a Planet Hulk movie back in the early 2000s,
+
+87
+00:08:08,541 --> 00:08:15,164
+so why not have two movies to finish the story
+off or just revamp it and do a complete retelling
+
+88
+00:08:15,424 --> 00:08:19,891
+that's faithful to the comics? I think. It's
+time for us to actually get a faithful retelling
+
+89
+00:08:19,951 --> 00:08:24,854
+of that amazing story about my whole. I love
+the Planet Hulk story. I think this is a fantastic
+
+90
+00:08:24,934 --> 00:08:29,257
+answer. Of course, there already was a Planet
+Hulk animated movie, which is probably one
+
+91
+00:08:29,297 --> 00:08:34,221
+of Marvel's better animated films. And I would
+just, yeah, like Travis said, work around that.
+
+92
+00:08:34,561 --> 00:08:40,325
+Or maybe you have the prelude to Planet Hulk,
+where we get a solid Hulk story that ends with
+
+93
+00:08:40,365 --> 00:08:44,468
+him being sent out into space by the Illuminati.
+And then we have the Planet Hulk storyline
+
+94
+00:08:44,788 --> 00:08:50,007
+as the second film and then culminate it with
+the World War Hulk storyline. You don't get
+
+95
+00:08:50,047 --> 00:08:54,088
+better than that. That would be cool. That'd
+be really cool. It'd be way better than the
+
+96
+00:08:54,128 --> 00:08:58,930
+Hulk we have now in the MCU. Just like silly,
+smart Hulk. Yeah, we need like a good, solid,
+
+97
+00:08:58,950 --> 00:09:03,692
+destructive Hulk film. It's been a while, and
+I don't think there's a better way to do it
+
+98
+00:09:03,932 --> 00:09:09,074
+than a Planet Hulk trilogy of films. Great answer,
+Travis. We wanna give a quick shout out to
+
+99
+00:09:09,114 --> 00:09:14,356
+Bideer Bangura, who gave the answer of Dark
+Knight's Metal, Colby Hentges, who gave the
+
+100
+00:09:14,416 --> 00:09:21,719
+answer of House of M, who said Titans Beast
+World and Travis Bailey, who gave the answer
+
+101
+00:09:21,779 --> 00:09:28,501
+of Marvel's Wastelanders. But the winner of
+this week's No Prize is Scott Camacho, who
+
+102
+00:09:28,541 --> 00:09:35,082
+said, The story series I want DC to adapt into
+animated would be the Blackest Night series
+
+103
+00:09:35,523 --> 00:09:43,685
+of the Lantern Course. I think the lanterns
+are due for an outstanding story to be told
+
+104
+00:09:43,865 --> 00:09:51,834
+animated and especially live action. And since
+the movies have been darker lately, I'm thinking
+
+105
+00:09:51,874 --> 00:09:58,339
+this would be a great time to pull that off,
+Blackest Night. So this gets the win because
+
+106
+00:09:58,780 --> 00:10:05,966
+not only is Blackest Night an awesome storyline,
+but it's already part of a comic trilogy that
+
+107
+00:10:06,006 --> 00:10:11,870
+began with Green Lantern Rebirth and led into
+the Sinestro Corps War. only to be concluded
+
+108
+00:10:11,930 --> 00:10:17,193
+by Blackest Night, which was like a full DC
+Universe spanning event. It's a fantastic trilogy
+
+109
+00:10:17,753 --> 00:10:22,555
+and I'm really surprised that they haven't adapted
+that onto screen yet. Like I thought that would
+
+110
+00:10:22,595 --> 00:10:27,058
+have been perfect for the Tomorrowverse, those
+three films. Yeah, I feel like Green Lantern
+
+111
+00:10:27,078 --> 00:10:30,039
+movies are far and few between. I don't know
+if there's kind of like a chilling effect on
+
+112
+00:10:30,159 --> 00:10:35,910
+behalf of the studio due to the reception of
+the 2011 Green Lantern movie, but... Fortunately,
+
+113
+00:10:35,950 --> 00:10:40,111
+we did get one Green Lantern film in the Tomorrowverse,
+which was Blackest Night, which was a pretty
+
+114
+00:10:40,151 --> 00:10:45,032
+solid movie, I thought. But yeah, I mean, the
+greatest Green Lantern tale out there so far,
+
+115
+00:10:45,112 --> 00:10:49,213
+I think, is just ripe for the picking. Absolutely.
+I would agree that it's the greatest Green
+
+116
+00:10:49,253 --> 00:10:54,715
+Lantern story. You know, Green Lantern Rebirth
+set up like the emotional spectrum. Sinestro
+
+117
+00:10:54,755 --> 00:11:00,696
+Corps just ramped that up and really began introducing
+the other color spectrums. And then Blackest
+
+118
+00:11:00,716 --> 00:11:06,498
+Night just had this massive zombie outbreak
+across the whole universe. fantastic. If they
+
+119
+00:11:06,538 --> 00:11:11,800
+don't adapt it to animation, they need to adapt
+it to live action. Like maybe for the television
+
+120
+00:11:11,820 --> 00:11:15,122
+series that James Gunn is producing. Yeah. I
+mean, we don't know what story is going to
+
+121
+00:11:15,142 --> 00:11:20,344
+be adapted for James Gunn's television series,
+lanterns. It's supposed to be like true detective
+
+122
+00:11:20,504 --> 00:11:25,906
+esque, which doesn't sound cosmic to me, but
+who knows? Great answer, Scotty. You win this
+
+123
+00:11:25,946 --> 00:11:30,288
+week's no prize. If you the listener want a
+shot at winning your own no prize, stay tuned
+
+124
+00:11:30,328 --> 00:11:35,091
+to later on in this episode when we'll be asking
+another question of the week. And now that
+
+125
+00:11:35,111 --> 00:11:37,036
+that's done, on to the news!
+
+126
+00:11:42,562 --> 00:11:47,885
+Coming off the recent news that Debra Anwalt
+and Eldon Henson will be returning as Karen
+
+127
+00:11:47,905 --> 00:11:53,549
+Page and Foggy Nelson in the upcoming Daredevil
+Born Again Disney Plus Marvel Studios television
+
+128
+00:11:53,589 --> 00:11:59,814
+series, we got even better news this week. It
+was confirmed by Deadline that Wilson Bethel,
+
+129
+00:12:00,034 --> 00:12:05,718
+who played Benjamin Poindexter aka Bullseye
+on the Netflix Daredevil series, is going to
+
+130
+00:12:05,738 --> 00:12:11,542
+be showing up in at least three episodes of
+the series, which is currently filming. And
+
+131
+00:12:11,862 --> 00:12:16,264
+if you guys watched the Netflix Daredevil show,
+you're already super excited by this because
+
+132
+00:12:16,604 --> 00:12:21,846
+Daredevil season 3 was not only great superhero
+television, it was just fantastic television
+
+133
+00:12:21,886 --> 00:12:27,568
+in general and a large part of that was due
+to the fantastic portrayal of the extremely
+
+134
+00:12:27,608 --> 00:12:33,631
+dangerous Daredevil villain Bullseye. Dude,
+like the villains in the Daredevil series are
+
+135
+00:12:33,691 --> 00:12:38,753
+amongst the best villains that have ever been
+depicted on screen in my opinion. Bullseye
+
+136
+00:12:39,093 --> 00:12:45,002
+in particular was unbelievably horrifying, way
+more scary than I thought he would be. And
+
+137
+00:12:45,062 --> 00:12:50,006
+he was the character I was most hoping would
+make a return for this new Daredevil show and
+
+138
+00:12:50,186 --> 00:12:54,370
+it's super exciting to hear that he is. Yeah,
+a couple of weeks ago our question of the week
+
+139
+00:12:54,390 --> 00:12:58,854
+was, what other character from the Daredevil
+Netflix series do you most hope returns for
+
+140
+00:12:59,014 --> 00:13:03,398
+Disney Plus's Daredevil Born Again show? And
+we got a few good answers, but the correct
+
+141
+00:13:03,478 --> 00:13:08,718
+answer as we stated in the last episode was
+And then lo and behold, all of a sudden we
+
+142
+00:13:08,738 --> 00:13:13,699
+get that confirmation. It's just so exciting
+to see as a fan. I'm really hoping that in
+
+143
+00:13:13,739 --> 00:13:19,301
+this season we'll get to see him in his, like,
+traditional iconic bullseye outfit or some
+
+144
+00:13:19,401 --> 00:13:23,602
+adaptation of that. For sure. Yeah, because
+we didn't get to see that in Daredevil season
+
+145
+00:13:23,622 --> 00:13:28,403
+three. I'm really loving all the choices that
+Dario Skardapain seems to be making. And now
+
+146
+00:13:28,483 --> 00:13:32,925
+that Marvel has kind of decided to reboot the
+Daredevil series, it looks like they're giving
+
+147
+00:13:32,945 --> 00:13:38,562
+fans exactly what they want. It looks like it's
+going to be basically Netflix's Daredevil season
+
+148
+00:13:38,602 --> 00:13:43,023
+four, which is everything that the fans could
+hope for. Yeah, wouldn't it be great if they
+
+149
+00:13:43,063 --> 00:13:48,365
+like also brought back Electra and we had like
+the Bullseye versus Electra face off? That'd
+
+150
+00:13:48,405 --> 00:13:53,686
+be dope. I mean, Electra already died in the
+Daredevil Netflix series. She died at the end
+
+151
+00:13:53,706 --> 00:13:58,268
+of season two. So I don't know if they would
+want to retread that where she's like resurrected
+
+152
+00:13:58,288 --> 00:14:03,069
+by the hand again, but no, I would like to see
+Electra returned regardless. I thought Elodie
+
+153
+00:14:03,089 --> 00:14:08,083
+Young made a fantastic Electra. Everyone in
+that show was like perfectly cast. So glad
+
+154
+00:14:08,243 --> 00:14:12,425
+most of the cast is returning. Yeah, it seems
+like Marvel is making all the right decisions,
+
+155
+00:14:12,485 --> 00:14:16,047
+you know, the same decisions that made them
+so endearing to fans in the first place, where
+
+156
+00:14:16,087 --> 00:14:20,290
+they're truly giving us what we want to see,
+you know? And why not? Like, studios do not
+
+157
+00:14:20,350 --> 00:14:25,613
+do that enough. Just freaking listen to the
+fans. Exactly, exactly. But this news brings
+
+158
+00:14:25,653 --> 00:14:26,933
+us to our question of the week.
+
+159
+00:14:31,446 --> 00:14:36,870
+Who is your favorite villain from a Marvel or
+DC television series, and why? Record your
+
+160
+00:14:36,930 --> 00:14:41,333
+answer at dynamicduel.com by clicking on the
+red microphone button in the bottom right hand
+
+161
+00:14:41,373 --> 00:14:45,736
+corner of the screen, which will prompt you
+to leave us a voicemail. Your message can be
+
+162
+00:14:45,776 --> 00:14:50,800
+up to 30 seconds long, and don't forget to leave
+your name in case we include you on the podcast.
+
+163
+00:14:51,140 --> 00:14:55,804
+We'll pick our favorite answer, and award that
+person a Dynamic Duel No Prize that we'll post
+
+164
+00:14:55,904 --> 00:15:01,352
+to Instagram. Be sure to answer before- February
+3rd. There's a lot of great Marvel DC television
+
+165
+00:15:01,392 --> 00:15:05,061
+series out there guys a lot for you to choose
+from I'm really looking forward to these answers
+
+166
+00:15:13,038 --> 00:15:17,302
+But that does it for all the news for this episode,
+so let's go ahead and get into the main event,
+
+167
+00:15:17,743 --> 00:15:23,829
+where we discuss the latest Disney Plus Marvel
+Studios television series, Echo Season 1.
+
+168
+00:15:39,346 --> 00:15:44,528
+ECHO Season 1 debuted a few weeks ago on Disney
+Plus as the latest Marvel Studios television
+
+169
+00:15:44,548 --> 00:15:50,290
+series, with the series led by head director
+Sidney Freeland and starring Ilaquah Cox and
+
+170
+00:15:50,350 --> 00:15:56,373
+Vincent D'Onofrio. It's a spin-off series from
+2021's Hawkeye Show, where the character of
+
+171
+00:15:56,473 --> 00:16:01,315
+ECHO was introduced into the MCU as the daughter
+of the tracksuit mafia leader who was killed
+
+172
+00:16:01,355 --> 00:16:07,619
+by Hawkeye's alternate identity of Ronin. At
+the end of that show, And I guess let me take
+
+173
+00:16:07,659 --> 00:16:12,023
+this opportunity to say spoiler warning. This
+is a spoiler review, not only for Echo season
+
+174
+00:16:12,103 --> 00:16:17,848
+one, but probably also for Hawkeye. At the end
+of Hawkeye season one, Echo learned that the
+
+175
+00:16:17,908 --> 00:16:22,992
+Kingpin led Ronin to the Track Suit Mafia's
+hideout and was directly responsible for her
+
+176
+00:16:23,032 --> 00:16:28,937
+father's death. Seeking revenge, Echo shot Kingpin
+in the face, believing him to be dead, which
+
+177
+00:16:28,977 --> 00:16:34,782
+is where Echo season one picks up. Now, I enjoyed
+Hawkeye season one. We rated it three and a
+
+178
+00:16:34,802 --> 00:16:39,984
+half stars on this podcast. And while I was
+interested in Echo's introduction, I wasn't
+
+179
+00:16:40,024 --> 00:16:46,146
+sure at the time if she would be able to headline
+her own series. Now that I've seen the series,
+
+180
+00:16:46,606 --> 00:16:52,608
+I guess I'm still wondering. That's not to discount
+Alok Wacawks's performance, and we'll talk
+
+181
+00:16:52,628 --> 00:16:57,389
+about that later. But I mean, like, let's be
+honest, Echo was a series that really no one
+
+182
+00:16:57,549 --> 00:17:01,929
+asked for. The character is not too popular
+in the books, although I will say she is a
+
+183
+00:17:01,989 --> 00:17:06,072
+very interesting character, you should definitely
+learn more about her in our question vs echo
+
+184
+00:17:06,132 --> 00:17:10,416
+duel episode if you don't know anything about
+her. But it seems that in this day and age
+
+185
+00:17:10,597 --> 00:17:15,701
+of Marvel Studios where they're finding themselves
+in a situation of diminishing returns from
+
+186
+00:17:15,741 --> 00:17:21,627
+producing too much content that people are caring
+less about, Echo season 1 seems like an unnecessary
+
+187
+00:17:21,647 --> 00:17:27,251
+addition to their television catalog. I dunno,
+I like the idea- of an Echo television series
+
+188
+00:17:27,311 --> 00:17:32,956
+and that it could be something unique and that's
+definitely what they shot for with this show.
+
+189
+00:17:33,517 --> 00:17:38,801
+Unique to the MCU for sure. Yeah absolutely.
+Yeah and perhaps that's why with this series
+
+190
+00:17:38,841 --> 00:17:42,724
+Marvel introduced the Marvel spotlight banner
+which is supposed to represent projects in
+
+191
+00:17:42,744 --> 00:17:47,829
+the MCU that aren't necessarily connected to
+the main canon telling more grounded character
+
+192
+00:17:47,869 --> 00:17:52,412
+driven stories. Basically you don't have to
+watch Echo season 1 to stay caught up with
+
+193
+00:17:52,432 --> 00:17:58,125
+the Marvel Studios continuity. And I would say
+unless you're really invested in the character
+
+194
+00:17:58,146 --> 00:18:03,051
+of Echo, I don't know if I would bother with
+this show. Unless of course Echo ends up being
+
+195
+00:18:03,091 --> 00:18:09,097
+like a member of the New Avengers team or something
+like that. I doubt that. You never know. I
+
+196
+00:18:09,117 --> 00:18:13,761
+mean she was a member of the Avengers in the
+comics, so yeah, you could be right. Maybe
+
+197
+00:18:13,902 --> 00:18:18,230
+if you're looking for more grounded content,
+you might be enticed to watch this. But even
+
+198
+00:18:18,250 --> 00:18:23,293
+then I wouldn't say Echo Season 1 really warranted
+all the TVMA marketing that went into this
+
+199
+00:18:23,333 --> 00:18:28,237
+series. Absolutely. I feel like the worst stuff
+was shown in the trailer. Yeah, it was basically
+
+200
+00:18:28,257 --> 00:18:35,502
+a montage of all the violence. The trailer for
+this was incredible and even won my brother's
+
+201
+00:18:35,542 --> 00:18:41,106
+award for best trailer of last year. The marketing
+seemed to promise a return to the type of rated-R
+
+202
+00:18:41,146 --> 00:18:45,909
+storytelling that existed within the Marvel
+Netflix series, like Daredevil, Jessica Jones,
+
+203
+00:18:45,949 --> 00:18:50,775
+and The Punisher. I wouldn't say Echo seemed
+very rated R outside of like one or two shots
+
+204
+00:18:50,795 --> 00:18:56,916
+of violence, it seemed very PG-13 in my mind.
+So even if you're a fan of the old Netflix
+
+205
+00:18:56,936 --> 00:19:01,358
+shows and wanting more mature Marvel fare, I
+don't think you'll be that satisfied with Echo
+
+206
+00:19:01,398 --> 00:19:06,179
+Season 1 and it may be just better to wait for
+the Daredevil Born Again series which will
+
+207
+00:19:06,199 --> 00:19:10,841
+come out next year and is hopefully a return
+to form for gritty grounded superhero shows.
+
+208
+00:19:10,861 --> 00:19:15,106
+So what you're saying is no one's gonna find
+this show satisfying. I don't think fans of
+
+209
+00:19:15,166 --> 00:19:18,268
+Echo will find this satisfying. I don't think
+fans of the Marvel Netflix series will find
+
+210
+00:19:18,288 --> 00:19:23,032
+this satisfying. I don't know who would find
+this satisfying. But to get into what I didn't
+
+211
+00:19:23,072 --> 00:19:28,255
+find disappointing about the show, it did have
+about two badass action scenes, like one in
+
+212
+00:19:28,295 --> 00:19:31,958
+episode one that actually included Daredevil,
+which was awesome. That was cool. And there
+
+213
+00:19:31,978 --> 00:19:36,281
+was another action scene in episode three that
+took place in a skating rink. You know, in
+
+214
+00:19:36,321 --> 00:19:40,684
+a five episode series, you would probably hope
+for even more action, but those scenes were
+
+215
+00:19:40,704 --> 00:19:45,895
+the best of what we got and they were great.
+You'd expect the best action scene to be in
+
+216
+00:19:45,975 --> 00:19:51,978
+episode five for like the climax, but nope,
+it was episode one. Yeah. That's a little bit
+
+217
+00:19:51,998 --> 00:19:57,620
+disappointing. The last action scene in the
+climax of the show had a tremendously disappointing
+
+218
+00:19:57,660 --> 00:20:01,622
+resolution. It was almost as disappointing as
+the resolution to She Hulk, but I wouldn't
+
+219
+00:20:01,662 --> 00:20:06,365
+go that far. You know, at least we had some
+punches thrown even if they were from, you
+
+220
+00:20:06,385 --> 00:20:11,808
+know, a 70 year old grandma. Story wise, there
+wasn't too much here. Basically, Echo goes
+
+221
+00:20:11,828 --> 00:20:16,972
+to her hometown in Oklahoma in an attempt to
+stage a coup over Kingpin's empire, but ends
+
+222
+00:20:17,032 --> 00:20:22,556
+up rediscovering her roots. It's surprising
+to me that this show was initially shot as
+
+223
+00:20:22,576 --> 00:20:27,739
+an eight episode release that was later pared
+down to five episodes. And honestly, thank
+
+224
+00:20:27,779 --> 00:20:32,203
+God. But I think that they could have taken
+that even further and this probably should
+
+225
+00:20:32,223 --> 00:20:37,602
+have been a Disney Plus film or a Marvel Studios
+special presentation. I think that runtime
+
+226
+00:20:37,722 --> 00:20:41,823
+would have served the story a little bit better
+that they had here and it would have moved
+
+227
+00:20:41,883 --> 00:20:48,025
+at a quicker clip and been more enjoyable overall.
+I don't know if I agree with that. I think
+
+228
+00:20:48,245 --> 00:20:55,607
+Maya's mission to take down Kinkpin and become
+the new Queenpin of New York City crime required
+
+229
+00:20:55,707 --> 00:21:01,448
+a lot more story than what they gave us here.
+This was a very small story. I don't understand
+
+230
+00:21:01,488 --> 00:21:06,262
+how she was trying to take down Kinkpin from
+fucking Oklahoma. Like they should have had
+
+231
+00:21:06,282 --> 00:21:11,085
+her travel to New York City, meet people there,
+you know, work the criminal underground from
+
+232
+00:21:11,365 --> 00:21:16,268
+the city. I don't know. It was just weird. That
+would have been a better concept. Of course,
+
+233
+00:21:16,328 --> 00:21:20,470
+it would have gone against, you know, the whole
+returning to your roots story that they were
+
+234
+00:21:20,490 --> 00:21:24,532
+telling here. Sure. But yeah, I think either
+this could have been an eight episode series,
+
+235
+00:21:24,692 --> 00:21:28,255
+like what you were describing or it could have
+been a film for the existing story that they
+
+236
+00:21:28,275 --> 00:21:33,337
+had. Yeah, yeah, I agree. One of the other things
+I enjoyed about the show was the cultural representation.
+
+237
+00:21:34,034 --> 00:21:39,139
+It's not often that a superhero has such strong
+ties to their cultural identity, but it's always
+
+238
+00:21:39,179 --> 00:21:44,304
+fascinating to see such as in films like Black
+Panther or Shang-Chi. And here we got a great
+
+239
+00:21:44,344 --> 00:21:48,608
+glimpse into the Choctaw Nation. Although I
+think they could have delved even deeper into
+
+240
+00:21:48,648 --> 00:21:52,932
+that. You know, I think the exploration that
+we got of the Choctaw was only surface level.
+
+241
+00:21:53,413 --> 00:21:58,017
+Yeah, I probably would have thought that this
+was a great exploration of the Choctaw Nation.
+
+242
+00:21:58,430 --> 00:22:03,331
+If I hadn't just watched Killers of the Flower
+Moon like less than a week prior and their
+
+243
+00:22:03,431 --> 00:22:08,212
+examination of the Osage Indians who also lived
+in Oklahoma. They even had some of the same
+
+244
+00:22:08,252 --> 00:22:13,574
+cast members for Echo as they did in Killers
+of the Flower Moon and Killers of the Flower
+
+245
+00:22:13,614 --> 00:22:19,056
+Moon was way better. I have to check that out.
+I always like Scorsese stuff. So what was interesting
+
+246
+00:22:19,116 --> 00:22:22,717
+here though is that not only did we get the
+Native American cultural representation, we
+
+247
+00:22:22,757 --> 00:22:26,954
+also got a great crash course in American Sign
+Language. I mean, I've never seen a project,
+
+248
+00:22:27,054 --> 00:22:32,497
+film or television. I never got around to seeing
+Coda where so much of the dialogue was done
+
+249
+00:22:32,537 --> 00:22:37,720
+with signing. And I thought that was fantastic
+and truly fascinating to watch. And the cast
+
+250
+00:22:37,740 --> 00:22:42,803
+did great, not only with the ASL, but with everything.
+You know, there aren't too many opportunities,
+
+251
+00:22:42,843 --> 00:22:47,585
+it seems, for Native American roles. And it's
+great to see how much talent there is within
+
+252
+00:22:47,605 --> 00:22:53,013
+their group. from old greats like Graham Greene
+to some slightly familiar faces like Julia
+
+253
+00:22:53,033 --> 00:22:58,318
+Jones and enjoyable relative newcomers like
+Cody Lightning who played Cousin Biscuits.
+
+254
+00:22:58,838 --> 00:23:03,462
+Yeah, I know how to sign bullshit in sign language
+now. It's dangerously close to I love you.
+
+255
+00:23:03,842 --> 00:23:07,726
+Yeah, if you mumble with your signing, you could
+end up either way in a lot of trouble. Ha ha
+
+256
+00:23:08,967 --> 00:23:13,591
+ha. But speaking of the actors, let's go ahead
+and get into the character breakdown. Only
+
+257
+00:23:13,671 --> 00:23:19,166
+two major roles to talk about and one of them
+is of course Echo. aka Maya Lopez played by
+
+258
+00:23:19,306 --> 00:23:25,469
+Alaka Cox. I wanna start off by saying that
+Alaka Cox is an inspiration as an action hero.
+
+259
+00:23:25,970 --> 00:23:30,432
+I think that the physical choreography and the
+stunts she's performed are incredible, not
+
+260
+00:23:30,512 --> 00:23:36,014
+even accounting for her missing leg and inability
+to hear. When you do account for those things,
+
+261
+00:23:36,154 --> 00:23:41,197
+it's even more amazing what she's accomplished.
+I don't want anything negative I say about
+
+262
+00:23:41,237 --> 00:23:46,879
+the show to discount how truly... in awe I am
+of her skill and like I hate being this douche
+
+263
+00:23:46,939 --> 00:23:51,622
+hurling criticism from an armchair when she's
+out there literally winning as a one-legged
+
+264
+00:23:51,662 --> 00:23:57,825
+woman in an ass-kicking contest. On one hand,
+this version of Echo is so different from the
+
+265
+00:23:57,865 --> 00:24:03,268
+comic book character who's like this sophisticated
+elegant socialite. And on the other hand, I
+
+266
+00:24:03,288 --> 00:24:07,811
+couldn't possibly imagine there is a better
+person out there to play Maya Lopez than Iloquo
+
+267
+00:24:07,831 --> 00:24:10,232
+Cox. And I think really Iloquo
+
+268
+00:24:13,526 --> 00:24:17,709
+It's the show writers who don't really seem
+to know the Kong book character, painting her
+
+269
+00:24:17,749 --> 00:24:23,434
+here as this gritty, unlikable, brash, hard
+ass with an entirely different power set from
+
+270
+00:24:23,474 --> 00:24:28,258
+the source material. It's like the writers never
+even read the comics. Yeah, I remember you
+
+271
+00:24:28,338 --> 00:24:33,822
+mentioning that she is essentially like Taskmaster.
+And, you know, I was telling my wife that as
+
+272
+00:24:33,842 --> 00:24:37,986
+we were watching the show together, just explaining
+how different this character is in the comics,
+
+273
+00:24:38,406 --> 00:24:43,614
+about how she's just able to see someone move
+or do martial arts. and then she's able to
+
+274
+00:24:43,814 --> 00:24:48,595
+echo it or mimic it right off the bat. Right.
+Yeah, that's why she has her name Echo in the
+
+275
+00:24:48,635 --> 00:24:54,337
+comic books. She has photographic reflexes like
+Taskmaster, but she also has heightened visual
+
+276
+00:24:54,377 --> 00:24:59,418
+acuity like Cassandra Cain from DC Comics. It's
+fascinating. And we kind of got a glimpse of
+
+277
+00:24:59,458 --> 00:25:04,700
+those abilities in Hawkeye Season One, where
+she was able to anticipate her opponents moves.
+
+278
+00:25:05,180 --> 00:25:10,861
+But here the writers decided to forgo all that
+and give her powers that tie into her Native
+
+279
+00:25:10,901 --> 00:25:16,291
+American ancestry. Which is also cool. Like
+that was interesting and how like she was able
+
+280
+00:25:16,331 --> 00:25:22,472
+to like call on the talents of her ancestors.
+But also I didn't get the healing thing. Like
+
+281
+00:25:22,532 --> 00:25:27,774
+was her mama mutant or some shit? Yeah, it's
+weird. I think it was all spiritual mystical
+
+282
+00:25:27,814 --> 00:25:33,776
+based abilities. And there was a time in the
+comic books when Echo had actual superpowers
+
+283
+00:25:33,816 --> 00:25:37,757
+when she was the host of the Phoenix Force.
+And I mentioned that in our question versus
+
+284
+00:25:37,877 --> 00:25:41,706
+Echo dual episode that I didn't think those
+powers would stick. and I was right because
+
+285
+00:25:41,726 --> 00:25:46,829
+she ended up exhausting her Phoenix Force powers
+while trying to save the multiverse. So I don't
+
+286
+00:25:46,849 --> 00:25:51,511
+know if her ancestral powers were supposed to
+kind of tap into that aspect of her abilities
+
+287
+00:25:51,531 --> 00:25:55,894
+from the comics, or if they were just kind of,
+you know, running fast and loose with the idea
+
+288
+00:25:55,954 --> 00:25:59,996
+of the character. Does it bother you that they
+were? I mean, the character is somewhat obscure
+
+289
+00:26:00,036 --> 00:26:04,979
+in the comics. I hate it when the writers don't
+really adhere to the source material, because
+
+290
+00:26:04,999 --> 00:26:09,201
+then at that point it becomes a character that
+I don't recognize. Now sometimes they have
+
+291
+00:26:09,241 --> 00:26:14,257
+good ideas. but every good idea should have
+some semblance to the source material I think.
+
+292
+00:26:14,538 --> 00:26:19,903
+I agree. Otherwise, just make an original character.
+Right, like they did with Kihori in Marvel's
+
+293
+00:26:19,943 --> 00:26:25,849
+What If, who was fantastic. This series portrayed
+Echo as power hungry but without providing
+
+294
+00:26:25,889 --> 00:26:31,155
+clear motivations as to why she would want to
+rule New York's crime empire, or how she would
+
+295
+00:26:31,195 --> 00:26:36,103
+achieve that besides blowing up a weapons facility.
+You know, in the show, Maya said that her enemies
+
+296
+00:26:36,143 --> 00:26:40,487
+were playing right into her plan, but it's unclear
+what that plan was gonna be. You know, she
+
+297
+00:26:40,587 --> 00:26:45,652
+obviously thought that she could take on all
+of New York from the middle of nowhere Oklahoma,
+
+298
+00:26:46,132 --> 00:26:50,576
+but I never once believed that she'd be able
+to achieve that as an audience member. Honestly,
+
+299
+00:26:50,797 --> 00:26:57,402
+I never really believed anything about the character.
+You haven't really mentioned her acting ability,
+
+300
+00:26:57,583 --> 00:27:02,538
+but I'll be the one to say it. She's not the
+best actress. She's a better action star than
+
+301
+00:27:02,578 --> 00:27:07,019
+she is an actress. Absolutely. I mean, there
+were times where I thought she actually did
+
+302
+00:27:07,079 --> 00:27:11,961
+pretty well in her emotional scenes. But yeah,
+overall, I think she's still growing as an
+
+303
+00:27:12,021 --> 00:27:18,022
+actress. Yeah, I think her emotions were for
+the majority of it, a little to one note. It
+
+304
+00:27:18,042 --> 00:27:22,984
+was always anger all the time. I actually really
+liked it when she was a bit more expressive.
+
+305
+00:27:23,584 --> 00:27:27,885
+Yeah, for sure. A little bit one note. She always
+just came off as prickly and it doesn't make
+
+306
+00:27:27,905 --> 00:27:32,235
+for the most endearing protagonist. For her
+arc, you know, instead of rising to power over
+
+307
+00:27:32,275 --> 00:27:36,837
+the criminal underworld, she instead discovered
+how much her family meant to her, and that
+
+308
+00:27:36,877 --> 00:27:42,020
+her mom and her ancestors were always watching
+over her. She healed from the pain of losing
+
+309
+00:27:42,060 --> 00:27:47,163
+her family, and instead by the end embraces
+her relatives, heritage, and her lineage. Now
+
+310
+00:27:47,183 --> 00:27:51,245
+finding strength in your roots and in those
+who love you is not a new theme in the world
+
+311
+00:27:51,265 --> 00:27:55,608
+of superheroes. In fact, it's pretty common,
+but I will say that at least we get the novelty
+
+312
+00:27:55,648 --> 00:28:00,706
+of seeing it represented in this way with the
+Choctaw Nation. Where have we seen this before?
+
+313
+00:28:01,147 --> 00:28:06,551
+Dude, strength in family is such a common theme
+in superhero movies. Like, take for instance
+
+314
+00:28:06,571 --> 00:28:10,714
+recently Blue Beetle. Yeah. I would even say
+Guardians of the Galaxy has strong familial
+
+315
+00:28:10,754 --> 00:28:15,557
+themes. Okay, I mean, that's fair. But like,
+roots is different from family, I would say.
+
+316
+00:28:15,597 --> 00:28:20,200
+Like, culture is different from family. Like,
+gathering strength from that, I think, actually
+
+317
+00:28:20,441 --> 00:28:25,985
+makes Echo unique. That's true. I mean, it's
+not that unique, given, you know, things like
+
+318
+00:28:26,025 --> 00:28:31,051
+Shang-Chi and Black Panther. But it's unique
+for this specific culture, which is nice. That's
+
+319
+00:28:31,091 --> 00:28:36,114
+fair. Let's go to move on to Kingpin, a.k.a.
+Wilson Fisk, once again, played by Vincent
+
+320
+00:28:36,154 --> 00:28:42,196
+D'Onofrio. You know, he was flawless, obviously.
+It was really good to see a return to form
+
+321
+00:28:42,256 --> 00:28:46,939
+after the slightly more cartoony take on Kingpin
+that we saw in the Hawkeye television series.
+
+322
+00:28:47,059 --> 00:28:53,882
+Dude, I was so happy with Kingpin in the show.
+I was like, hell yeah, bro. Hell yeah. Yeah,
+
+323
+00:28:53,902 --> 00:28:59,184
+I remember you complaining a lot about the character
+in our review of Hawkeye season one. So, yeah,
+
+324
+00:28:59,304 --> 00:29:03,947
+it's good that he's back to being a gruff, terrifying
+presence who often comes across as just this
+
+325
+00:29:04,047 --> 00:29:10,170
+powder keg of a man just waiting to explode
+and unleash his clearly unhinged palpable rage.
+
+326
+00:29:10,710 --> 00:29:14,893
+Yeah, like totally unpredictable. You just never
+know when the guy is going to snap and it's
+
+327
+00:29:14,933 --> 00:29:20,255
+terrifying when he does. Yeah. For me, Vincent
+D'Onafrio nearly saves this show. His presence
+
+328
+00:29:20,275 --> 00:29:25,476
+was so welcome when he did finally show up at
+the end of episode three, and he elevated things,
+
+329
+00:29:25,636 --> 00:29:31,298
+I think, when he came aboard. Oh, dude, he is
+so fantastic in the role. He's Marvel's best
+
+330
+00:29:31,378 --> 00:29:35,459
+villain, in my opinion. Hands down. He's up
+there, for sure. In this series, we see Kingpin's
+
+331
+00:29:35,499 --> 00:29:40,400
+reaction to Echo's betrayal from the Hawkeye
+Show. You know, there are only so many people
+
+332
+00:29:40,440 --> 00:29:45,050
+that Kingpin extends any measure of grace or
+forgiveness to, and those are the... rare people
+
+333
+00:29:45,090 --> 00:29:51,573
+that he loves. Vanessa, his wife, would be one
+person. Maya is another. So when he gave her
+
+334
+00:29:51,713 --> 00:29:56,955
+that second chance as a comic fan, it was almost
+unbelievable to witness the opportunity he
+
+335
+00:29:56,976 --> 00:30:02,638
+was extending her. And it was exciting knowing
+that after Maya's refusal of his generous offer,
+
+336
+00:30:03,098 --> 00:30:08,261
+that shit was just gonna hit the fan. Like I
+was on the edge of my seat at the end of episode
+
+337
+00:30:08,301 --> 00:30:14,544
+four. But. That anticipation just kind of fizzled
+by the end of the show and you know, Kingpin
+
+338
+00:30:14,764 --> 00:30:20,347
+seemingly gets neutered of his unbridled rage.
+Yeah, what the hell was that? He was like,
+
+339
+00:30:20,387 --> 00:30:25,530
+what did you do to me? What did you do to me?
+And I was like, what did you do to him? I don't
+
+340
+00:30:25,570 --> 00:30:31,173
+even know. I'm confused. Answer the question.
+The show never does. You know, and that's a
+
+341
+00:30:31,213 --> 00:30:35,476
+disappointment, but we'll have to see where
+that goes in Daredevil Born Again, where apparently
+
+342
+00:30:35,516 --> 00:30:41,260
+in that series, based on the after credit scene
+here. he'll become the mayor of New York. I'm
+
+343
+00:30:41,300 --> 00:30:46,224
+excited to see that. Yeah, that's a fantastic
+setup. Definitely got me excited, even more
+
+344
+00:30:46,264 --> 00:30:51,128
+excited for the Daredevil show. That was a great
+arc in the comics and I hope they do it justice.
+
+345
+00:30:51,628 --> 00:30:56,292
+Everyone else on the show, they were fantastic,
+but they really only had minor roles. So let's
+
+346
+00:30:56,312 --> 00:30:58,213
+go ahead and get into our episode highlights.
+
+347
+00:31:05,422 --> 00:31:11,203
+Episode 1 was called Chaffa. At the dawn of
+time, a woman named Chaffa emerges from a cave
+
+348
+00:31:11,363 --> 00:31:15,884
+as she and her people become the first of the
+Choctaw Native American tribe. In present-day
+
+349
+00:31:15,984 --> 00:31:21,186
+Oklahoma, young Maya and her mother Taloa get
+into an auto accident when their truck's brake
+
+350
+00:31:21,206 --> 00:31:27,167
+lines are cut by criminals looking to kill Maya's
+father, William. Taloa dies and Maya loses
+
+351
+00:31:27,207 --> 00:31:32,069
+her leg, prompting William to move Maya away
+with him to New York where he works for the
+
+352
+00:31:32,109 --> 00:31:37,699
+kingpin who becomes Maya's adoptive uncle. William
+leads the tracksuit mafia who is wiped out
+
+353
+00:31:37,739 --> 00:31:43,621
+by Hawkeye, aka Ronan at the time, and Maya's
+father dies in her arms. After learning Kingpin
+
+354
+00:31:43,701 --> 00:31:48,623
+tipped off Ronan, she shoots Kingpin in the
+face and escapes to Oklahoma to her childhood
+
+355
+00:31:48,663 --> 00:31:53,585
+home where she meets with her cousin Biscuits
+and her uncle Henry, the latter of whom she
+
+356
+00:31:53,705 --> 00:31:59,528
+asks for help in taking over Kingpin's empire.
+In the end, it's revealed Kingpin survived
+
+357
+00:31:59,608 --> 00:32:05,042
+the shooting. I thought the opening to the series
+was fantastic. It's actually probably the best
+
+358
+00:32:05,062 --> 00:32:10,684
+part of the show where we see the Choctaw Nation
+rise from their cave onto the earth. How fascinating
+
+359
+00:32:10,724 --> 00:32:16,327
+was that? A great, incredible depiction of mythology.
+Yeah, it was pretty cool. I thought it was
+
+360
+00:32:16,447 --> 00:32:21,028
+a great visual for sure. But not just that opening,
+I thought this whole first episode was actually
+
+361
+00:32:21,068 --> 00:32:26,211
+pretty solid. Dude, it had the Daredevil fight,
+which was excellent. Yeah, I saw a clip of
+
+362
+00:32:26,231 --> 00:32:31,293
+the fight in advance of watching the series,
+and I thought the choreography actually moved
+
+363
+00:32:31,333 --> 00:32:37,576
+a little bit over rehearsed and slow. But seeing
+it in context of that larger one shot framing,
+
+364
+00:32:38,036 --> 00:32:41,958
+I thought it was incredible. I was so happy
+seeing that instead of the shitty, you know,
+
+365
+00:32:42,078 --> 00:32:47,922
+yellow mustard costume that we saw in She-Hulk.
+Yeah, the stunt actor who played Daredevil,
+
+366
+00:32:47,962 --> 00:32:51,564
+I mean, Charlie Cox was great in the few lines
+that he delivered, but I got to commend the
+
+367
+00:32:51,584 --> 00:32:55,766
+Daredevil stunt guy. The way he moves feels
+very Daredevil to me. It was like seeing the
+
+368
+00:32:55,786 --> 00:33:00,429
+character leap right off the page. Yeah, the
+way he leaped over the fence. Damn, that was
+
+369
+00:33:00,469 --> 00:33:04,477
+cool. That was sick. It was so cool to have
+Daredevil and Hawkeye in the same episode.
+
+370
+00:33:04,777 --> 00:33:09,322
+Like I know we saw Matt Murdock in Spider-Man,
+No Way Home, and that was cool. But to see
+
+371
+00:33:09,342 --> 00:33:13,266
+the character in costume and then we have, you
+know, Hawkeye in the Ronin costume and stuff
+
+372
+00:33:13,286 --> 00:33:17,931
+like that, it just feels like the universe is
+coalescing in a way that's so exciting as a
+
+373
+00:33:17,991 --> 00:33:21,895
+Marvel fan. You don't know how freaking lucky
+you are that the Netflix shows are a part of
+
+374
+00:33:21,935 --> 00:33:26,943
+the MCU now. Man, that's, that's really cool.
+It was apparent even from this first episode
+
+375
+00:33:26,963 --> 00:33:31,006
+though that there were some editing issues,
+like there was a lot of stuff cut out, because
+
+376
+00:33:31,146 --> 00:33:35,209
+later on in the episode I remember just thinking
+like, who the fuck is Biscuits? Who the hell
+
+377
+00:33:35,269 --> 00:33:40,493
+is this guy? Like, they name drop the character
+in one line early in the episode where they're
+
+378
+00:33:40,513 --> 00:33:43,916
+like, Biscuits is gonna be mad he didn't get
+to camp with the girls or something like that,
+
+379
+00:33:44,176 --> 00:33:47,478
+but it was so throwaway. They presented the
+character like we were supposed to know who
+
+380
+00:33:47,518 --> 00:33:52,186
+he was, and maybe, you know, in a different
+cut of this show we were supposed to. Yeah,
+
+381
+00:33:52,306 --> 00:33:57,007
+I felt the same way. I didn't even get the name
+drop earlier on. I was just like, who the fuck
+
+382
+00:33:57,067 --> 00:34:04,309
+is Biscuits? Okay. Episode 2 was called LOWAK.
+In 13th century Alabama, a woman named LOWAK
+
+383
+00:34:04,349 --> 00:34:09,410
+competes in a game of Choctaw Stickball and
+manifests strength from a vision of Chaffa
+
+384
+00:34:09,530 --> 00:34:14,832
+to win the game for her team. In the present
+day, Maya gets Biscuits to follow her as she
+
+385
+00:34:14,872 --> 00:34:20,213
+boards one of Kingpin's cargo trains. Finding
+the munitions cart, she plants a homemade bomb
+
+386
+00:34:20,253 --> 00:34:25,148
+inside. As she attempts to flee, her leg gets
+stuck in one of the train's couplings, at which
+
+387
+00:34:25,208 --> 00:34:29,732
+point she experiences a vision of Chafa and
+Loic before summoning the strength to free
+
+388
+00:34:29,752 --> 00:34:35,015
+herself. The bomb explodes as the train reaches
+its destination in New York, destroying one
+
+389
+00:34:35,035 --> 00:34:40,339
+of Kinkman's weapons facilities. Maya gets her
+grandmother's ex, Scully, to fashion her a
+
+390
+00:34:40,399 --> 00:34:44,982
+new leg, and her uncle Henry warns her that
+her actions are going to get the people close
+
+391
+00:34:45,002 --> 00:34:50,462
+to her killed. Frustrated, she fires her gun
+at a swing set in a fit of emotion. You know
+
+392
+00:34:50,482 --> 00:34:53,586
+what that scene reminded me of when she just
+started shooting the swing set and then the
+
+393
+00:34:53,626 --> 00:35:00,093
+episode ended? It reminded me of a scene in
+Hot Fuzz where Nick Frost asks Simon Pegg,
+
+394
+00:35:00,434 --> 00:35:04,759
+have you ever like shot your gun in the air
+and gone, ah, like Keanu Reeves did in Point
+
+395
+00:35:04,799 --> 00:35:10,326
+Break? And he's like, no, I've never shot my
+gun in the air and gone, ah. You know. Just
+
+396
+00:35:10,386 --> 00:35:14,607
+firing your weapon as a display of emotion.
+I always thought it was incredibly cheesy.
+
+397
+00:35:14,647 --> 00:35:18,928
+I don't know why she was shooting her swing
+set. It was just really bizarre, lame way to
+
+398
+00:35:19,068 --> 00:35:25,110
+end this episode. Now, is it just me or does
+Choctaw's stick ball seem ridiculously hard?
+
+399
+00:35:25,250 --> 00:35:33,892
+Like lacrosse, but like impossible. I'm still
+wondering how Maya's ancestor won. Like she
+
+400
+00:35:33,952 --> 00:35:39,538
+just got a vision, did a flip. I didn't even
+see the ball in her net stick thing. And I
+
+401
+00:35:39,558 --> 00:35:44,500
+don't know. It was like, what just happened?
+She got a vision. She got the ball. She did
+
+402
+00:35:44,520 --> 00:35:49,842
+a flip over the scrum and then ran into the
+goal. I think that's what happened. Okay, that
+
+403
+00:35:49,862 --> 00:35:55,045
+makes sense. What was interesting is when Maya's
+powers manifested for the first time. Like
+
+404
+00:35:55,485 --> 00:36:00,187
+out of all the times in her life that she's
+endured like life threatening stakes, I wonder
+
+405
+00:36:00,207 --> 00:36:05,449
+why her echo powers didn't come about then.
+Maybe it was a proximity thing. I don't know,
+
+406
+00:36:05,549 --> 00:36:09,922
+maybe. They gave some throwaway line like, oh,
+the ancestors know when they're needed or something
+
+407
+00:36:09,942 --> 00:36:13,506
+like that. But it's like, I'm pretty sure that
+she could have used your help before. Like
+
+408
+00:36:13,587 --> 00:36:18,132
+maybe when they were about to get hit by a car
+or something as a kid. Oh, geez. Where were
+
+409
+00:36:18,152 --> 00:36:23,899
+you then, ancestors? Damn. You know, what's
+weird is that the stakes at the time when she
+
+410
+00:36:23,940 --> 00:36:28,176
+got her leg caught in the coupling. That wasn't
+even life-threatening. She could have disconnected
+
+411
+00:36:28,216 --> 00:36:31,879
+her leg at the time and just hopped off the
+train to be picked up by biscuits. The way
+
+412
+00:36:31,919 --> 00:36:36,363
+she got off the train was the most dangerous
+way that she could have possibly done it by
+
+413
+00:36:36,423 --> 00:36:41,128
+leaping off onto the truck, you know? It probably
+would have been better to just kind of like
+
+414
+00:36:41,168 --> 00:36:45,632
+tuck and roll as opposed to, you know, trying
+this insane stunt. No, I'm still wondering
+
+415
+00:36:45,792 --> 00:36:51,257
+how the frick that happened that like when he
+slammed on his brakes, she didn't fly forward.
+
+416
+00:36:51,754 --> 00:36:55,917
+Like when he came to the back and was like,
+am I am I she just appeared behind the truck?
+
+417
+00:36:56,357 --> 00:37:02,161
+And I was like, how? When? What? That's a great
+question. I have no idea. She was just like,
+
+418
+00:37:02,181 --> 00:37:07,205
+ta da. I was like, all right, bullshit. But
+OK. I do have to mention one character that
+
+419
+00:37:07,225 --> 00:37:11,608
+you didn't break down Uncle Henry. I thought
+he did a fantastic job. I'm not sure of the
+
+420
+00:37:11,648 --> 00:37:16,852
+actor's name, but he did a great job acting
+and signing at the same time I noticed. I think
+
+421
+00:37:16,872 --> 00:37:22,244
+he did better than anyone else in the series.
+Yeah, Henry was played by Chas Spencer. I think
+
+422
+00:37:22,284 --> 00:37:27,308
+you're right. It was hard for me to get a grasp
+on Uncle Henry, honestly, because it was clear
+
+423
+00:37:27,428 --> 00:37:31,912
+that he cared for Maya, although he really disliked
+the way she was going about everything. And,
+
+424
+00:37:32,012 --> 00:37:35,174
+you know, he was really the voice of reason
+throughout the show, which was interesting
+
+425
+00:37:35,214 --> 00:37:39,618
+considering he was a career criminal. But absolutely,
+I agree with everything you just said. His
+
+426
+00:37:39,858 --> 00:37:45,383
+ability to emote through his signing was kind
+of a sight to behold. Yeah, I thought the same
+
+427
+00:37:45,403 --> 00:37:50,895
+thing. Moving on to episode three, which was
+called Too-Clo. In the late 19th century, a
+
+428
+00:37:50,935 --> 00:37:55,659
+woman named Tuklo saves her father and other
+members of the light horsemen native police
+
+429
+00:37:55,699 --> 00:38:00,964
+force from a band of outlaws by using exceptional
+marksmanship skills granted by visions of her
+
+430
+00:38:01,064 --> 00:38:07,129
+ancestors, Chaffa and Loek. In the present day,
+Maya begins seeing visions as well and is kidnapped
+
+431
+00:38:07,189 --> 00:38:12,353
+by one of her Uncle Henry's employees named
+Vicky. He calls in Kingpin's men in an attempt
+
+432
+00:38:12,393 --> 00:38:17,774
+to collect the bounty on Maya's head and also
+captures Henry and Maya's cousin Bonnie. When
+
+433
+00:38:17,814 --> 00:38:22,556
+the Kingpin's men arrive, Maya escapes confinement
+and attacks them, though they get the upper
+
+434
+00:38:22,616 --> 00:38:28,319
+hand in the end by holding Bonnie hostage. Before
+Maya's execution, the Kingpin's men get a call
+
+435
+00:38:28,399 --> 00:38:33,482
+telling them to leave her alive, and they leave.
+Returning home, Maya is approached by the Kingpin,
+
+436
+00:38:33,902 --> 00:38:40,985
+who reveals that he's still alive. Dude, talk
+about Deus Ex Machina. That was like, I hated
+
+437
+00:38:41,025 --> 00:38:45,847
+that. It kind of ruins the entire stakes of
+the fight that you just witnessed, right? I
+
+438
+00:38:45,887 --> 00:38:50,288
+mean, that was a great action scene, I thought,
+at least in the beginning. But when she started
+
+439
+00:38:50,308 --> 00:38:56,090
+to like using the arcade shooter guns as whips
+and throwing skee balls at everybody, I was
+
+440
+00:38:56,110 --> 00:39:01,992
+like, hmm, maybe not. But other than that, I
+thought the action fight was spectacular. I
+
+441
+00:39:02,032 --> 00:39:05,573
+really like the choreography. I really like
+the camera work. It was just really well done.
+
+442
+00:39:06,073 --> 00:39:10,511
+I liked the booby traps she set up. I don't
+get like some of the devices that she was able
+
+443
+00:39:10,631 --> 00:39:16,134
+to make, like that gun that she made. Oh, yeah,
+that was stupid. I was like, what? How? How
+
+444
+00:39:16,154 --> 00:39:21,517
+did you make that fast? She was channeling the
+abilities of a fellow Native American superhero,
+
+445
+00:39:21,657 --> 00:39:27,801
+Forge. Oh, nice. Yeah, you didn't know that.
+He's one of her ancestors is part of her abilities.
+
+446
+00:39:27,821 --> 00:39:32,884
+No, yeah, that was weird. I don't understand
+how you can make a bearing shooting device
+
+447
+00:39:33,004 --> 00:39:38,003
+out of a roller skate. Just doesn't seem possible.
+Yeah. This is the episode where she got the
+
+448
+00:39:38,203 --> 00:39:43,147
+special shin guard by Scully. I thought Scully
+was going to include something special, like
+
+449
+00:39:43,167 --> 00:39:48,292
+a secret gadget or something within the shin
+guard. But that never really amounted to anything
+
+450
+00:39:48,432 --> 00:39:52,736
+within the rest of the series. They certainly
+made it seem important, but it ended up not
+
+451
+00:39:52,776 --> 00:39:57,960
+meaning much outside of its cultural representation.
+I was thinking the same thing. Like they had
+
+452
+00:39:57,980 --> 00:40:04,125
+the perfect opportunity to make Scully Maya's
+Q as it were, like, you know, her gadget guy.
+
+453
+00:40:04,746 --> 00:40:08,254
+I'm really surprised they didn't follow through
+with that. Yeah, that would have been cool.
+
+454
+00:40:08,695 --> 00:40:13,246
+That's what I was expecting. He was even like,
+oh, I need time to work on this. Well, what
+
+455
+00:40:13,326 --> 00:40:13,747
+for?
+
+456
+00:40:16,750 --> 00:40:22,072
+I have no idea. You need to put some like, I
+don't know, tear gas spray cartridges in there.
+
+457
+00:40:22,192 --> 00:40:27,454
+Something cool. Yeah, a knife or something.
+At the very least, a knife. She already has
+
+458
+00:40:27,574 --> 00:40:32,837
+one in her shoe. Put one in her shin guard.
+There you go. Episode four was called Taloa.
+
+459
+00:40:33,537 --> 00:40:39,620
+In 2008, Kingpin brutally beats an ice cream
+vendor for mocking Maya for being deaf, an
+
+460
+00:40:39,680 --> 00:40:45,427
+act that she witnesses and participates in by
+kicking him. In 2021. Kingpin offers a final
+
+461
+00:40:45,467 --> 00:40:50,110
+lesson to Maya for working for him, that they
+can only trust each other and has his American
+
+462
+00:40:50,150 --> 00:40:55,675
+sign language interpreter killed. In the present,
+Kingpin uses augmented reality tech to communicate
+
+463
+00:40:55,695 --> 00:41:00,519
+with Maya and tell her that if she returns to
+him in New York, he will give her his criminal
+
+464
+00:41:00,599 --> 00:41:06,084
+empire. He gives her a day to decide before
+leaving, and Maya is taken to visit her grandmother
+
+465
+00:41:06,144 --> 00:41:11,788
+Chula. There, Chula reveals that their ancestors,
+which can be traced back to Chafa, help their
+
+466
+00:41:11,808 --> 00:41:17,356
+family when they need it the most. echoing through
+the generations. Maya leaves in anger, however,
+
+467
+00:41:17,396 --> 00:41:22,640
+due to feeling abandoned as a child. Chula then
+begins working on a special garment for Maya.
+
+468
+00:41:23,060 --> 00:41:28,024
+Maya visits Kingpin with the intent to kill
+him, which he encourages just as he killed
+
+469
+00:41:28,064 --> 00:41:33,047
+his father. He asks Maya again to come back
+to New York, but she ends up fleeing Tamaha
+
+470
+00:41:33,367 --> 00:41:38,431
+and raging him. I thought this was another great
+flashback intro. The intros were actually some
+
+471
+00:41:38,471 --> 00:41:43,194
+of my favorite parts of this season. Every episode
+began with a flashback. Yeah, yeah, that was
+
+472
+00:41:43,234 --> 00:41:49,136
+cool. It kind of gave some insight as to why
+Kingpin took a liking to Maya in that she kind
+
+473
+00:41:49,176 --> 00:41:54,537
+of displayed a little bit of his same anger
+and brutality towards that ice cream guy. Yeah,
+
+474
+00:41:54,837 --> 00:42:00,499
+the whole sign language interpretation technology,
+I thought, was kind of interesting in concept,
+
+475
+00:42:00,539 --> 00:42:07,101
+but totally unnecessary given that Maya can
+read lips. Can't she? Like, I wasn't sure if
+
+476
+00:42:07,121 --> 00:42:11,703
+she could throughout this entire series. Well,
+she's supposed to be able to, like that's her
+
+477
+00:42:11,763 --> 00:42:17,106
+whole freaking power in the comic books. You
+know, she has incredible visual acuity. So
+
+478
+00:42:17,306 --> 00:42:23,350
+really all Kingpin would need was some kind
+of tech that could interpret ASL. She wouldn't
+
+479
+00:42:23,370 --> 00:42:28,873
+really need the contact lens. Yeah, he could
+put the contact in his own damn eye. Yeah,
+
+480
+00:42:28,893 --> 00:42:33,936
+just replace his eyeball. Exactly. Although
+I think it was maybe insinuating that the contact
+
+481
+00:42:33,976 --> 00:42:38,267
+lens was also a tracker. I don't know. What
+I do want to know though is why didn't she
+
+482
+00:42:38,327 --> 00:42:42,690
+kill Kingpin at the end of this episode when
+he gave her the opportunity? Is it because
+
+483
+00:42:42,730 --> 00:42:48,174
+she had a change of heart on wanting him dead
+or something? But like if so, why? Because
+
+484
+00:42:48,254 --> 00:42:53,778
+he was kind of family and you know some part
+of her didn't want to betray his trust, I guess?
+
+485
+00:42:54,338 --> 00:42:57,700
+But she was gonna betray his trust by fleeing,
+you know? If she didn't want to betray his
+
+486
+00:42:57,761 --> 00:43:02,424
+trust, take him up on his offer and rule the
+criminal underworld out of sight as the Queenpin.
+
+487
+00:43:02,544 --> 00:43:07,463
+Just a bizarre series of choices that she made
+here. Yeah, I mean, but I think it was just
+
+488
+00:43:07,503 --> 00:43:12,827
+kind of hinting at her heroic streak in a way
+that she realized that she didn't have it in
+
+489
+00:43:12,887 --> 00:43:17,830
+her to kill him. I guess, I don't know, because
+she's definitely killed before. She's a complicated
+
+490
+00:43:17,870 --> 00:43:22,353
+character. Yeah, at that point, it kind of became
+clear that she doesn't really know what she
+
+491
+00:43:22,413 --> 00:43:27,917
+wants. And the whole journey that she goes through
+in the series is basically figuring that out
+
+492
+00:43:27,957 --> 00:43:34,474
+for herself. Right, yeah. Episode five was called
+Maya. In a flashback to Maya's childhood, She
+
+493
+00:43:34,514 --> 00:43:39,036
+witnesses her mother use her healing powers
+to mend a woodpecker that she had injured with
+
+494
+00:43:39,056 --> 00:43:43,858
+a slingshot. In the present, Biscuits reaches
+out to Maya to tell her that Chula and Bonnie
+
+495
+00:43:43,898 --> 00:43:49,781
+are missing, prompting Maya to return to Tamaha.
+At her grandmother's house, she sees a vision
+
+496
+00:43:49,861 --> 00:43:55,243
+of her mom, Taloa, who tells Maya that she's
+the descendant of a long line of special women
+
+497
+00:43:55,643 --> 00:44:01,370
+dating back to Chafa, and that she's never alone
+before healing Maya's heart of her pain. Maya
+
+498
+00:44:01,410 --> 00:44:06,631
+dons the outfit her grandmother created before
+going to the Choctaw Powwow Festival and participates
+
+499
+00:44:06,671 --> 00:44:12,353
+in it to avoid Kingpin's men while looking for
+her family. A woodpecker guides Maya to a barn
+
+500
+00:44:12,413 --> 00:44:17,935
+where she finds Kingpin with Chula and Bonnie
+held captive. Summoning the power of her ancestors,
+
+501
+00:44:18,095 --> 00:44:23,416
+Maya shares her powers with her family and they
+join together to fight Kingpin's men. She takes
+
+502
+00:44:23,456 --> 00:44:29,498
+Kingpin back to a memory of his childhood and
+heals his pain. Enraged, He asks her what she
+
+503
+00:44:29,518 --> 00:44:34,759
+did to him, then flees as the police arrive.
+The next day, Maya visits her family before
+
+504
+00:44:34,799 --> 00:44:40,361
+leaving Tamaha. In a post-credit scene, Kingpin
+watches with interest a news report on the
+
+505
+00:44:40,401 --> 00:44:46,963
+New York mayoral election. So I have a question.
+Yeah? Did Maya forget about her mom's superpower,
+
+506
+00:44:47,083 --> 00:44:52,525
+like as she grew up? I feel like if I saw my
+mom perform a miracle like killing an injured
+
+507
+00:44:52,585 --> 00:44:57,870
+bird, I would remember that shit. You know?
+I almost feel like maybe that wasn't the first
+
+508
+00:44:57,910 --> 00:45:02,633
+time she saw her mom do that. Maybe that's why
+she brought it to her mom. Because like, the
+
+509
+00:45:02,653 --> 00:45:06,775
+little girl didn't seem surprised at all when
+her mom displayed the power. She was like,
+
+510
+00:45:07,315 --> 00:45:13,359
+Oh my gosh, what's happening? No. I also want
+to know why didn't her mom, if she could visit
+
+511
+00:45:13,399 --> 00:45:19,190
+her as a ghost, heal her pain from her traumatic
+childhood sooner if she had that ability. Well,
+
+512
+00:45:19,230 --> 00:45:24,033
+maybe because she was finally getting full access
+to her ancestors and maybe like her mom was
+
+513
+00:45:24,153 --> 00:45:28,836
+the last one that she was able to gain access
+to. Maybe that's the reason. There's a lot
+
+514
+00:45:28,876 --> 00:45:34,220
+of assumptions that are going on here. Also,
+I didn't know quite how to describe how Bonnie
+
+515
+00:45:34,420 --> 00:45:39,203
+and Chula got their abilities, whether or not
+that was Maya sharing it with them or if they
+
+516
+00:45:39,303 --> 00:45:43,986
+also have the ability to tap into the power
+of their ancestors. That was unclear. Well,
+
+517
+00:45:44,006 --> 00:45:50,042
+they have the same ancestors. So I figured that
+was the reason why. So basically you have a
+
+518
+00:45:50,082 --> 00:45:56,788
+whole line of Choctaw women who are superheroes.
+Every woman is a superhero, Joseph. Every woman.
+
+519
+00:45:57,168 --> 00:46:02,232
+Right, I forgot about that, sorry. The end fight
+was horrible. Like I almost did a spit take
+
+520
+00:46:02,252 --> 00:46:09,317
+when I saw Chula punching bad guys. And again,
+I just really don't like the ambiguity regarding
+
+521
+00:46:09,378 --> 00:46:14,381
+what happened to Kingpin. Like if he's cured
+of his pain regarding his traumatic childhood.
+
+522
+00:46:14,786 --> 00:46:20,749
+Does that mean that he's now without evil ambition?
+If so, does that not contradict the look on
+
+523
+00:46:20,789 --> 00:46:26,032
+his face when he's considering running for mayor?
+Is he in fact going to be a good mayor? What's
+
+524
+00:46:26,052 --> 00:46:29,694
+gonna happen there? Yeah, that's a fantastic
+question. I guess we won't know the answer
+
+525
+00:46:29,714 --> 00:46:36,718
+to that until Daredevil born again. But I do
+think that her healing camp was the most anti-climactic
+
+526
+00:46:36,738 --> 00:46:42,754
+shit I've ever seen in my life. For sure, yeah.
+If Kingpin ends up still being like a a piece
+
+527
+00:46:42,794 --> 00:46:47,438
+of shit dude in Daredevil Born Again. I'm going
+to wonder what the hell happened here. Yeah,
+
+528
+00:46:47,478 --> 00:46:53,623
+I guess Echo's powers are useless. Yeah, like
+I'm unclear as to what exactly she heals, because
+
+529
+00:46:53,643 --> 00:46:59,228
+like her mom healed the physical body of the
+hummingbird. And I guess Echo physically healed
+
+530
+00:46:59,288 --> 00:47:05,053
+Kingpin's eye. When you do it over the heart,
+was it also psychological or spiritual or I
+
+531
+00:47:05,313 --> 00:47:10,337
+don't know? I think it's emotional. I think
+it's emotional healing. When I get that feeling.
+
+532
+00:47:10,702 --> 00:47:18,103
+I need a emotional healing. There you go. Emotional
+healing. Yeah, we'll say the ending was quite
+
+533
+00:47:18,144 --> 00:47:22,585
+as bad as the cop out that She-Hulk did, where,
+you know, she broke the fourth wall and completely
+
+534
+00:47:22,665 --> 00:47:27,266
+circumvented the entire conflict that whole
+series was building toward. But this is still
+
+535
+00:47:27,286 --> 00:47:31,467
+a pretty bad ending. So I guess the best thing
+you can say about the show is that it's somewhat
+
+536
+00:47:31,507 --> 00:47:35,928
+better than She-Hulk. Yeah. And that brings
+us to, you know, my final rating. You know,
+
+537
+00:47:35,988 --> 00:47:42,435
+we rated She-Hulk two stars. This was better
+than that. I actually enjoyed Secret Invasion
+
+538
+00:47:42,535 --> 00:47:48,338
+season 1 more than Echo, so I'm going in between
+there. While Echo season 1 is a fascinating
+
+539
+00:47:48,418 --> 00:47:53,241
+insight into several underrepresented groups,
+the story is threadbare and the hero is just
+
+540
+00:47:53,321 --> 00:48:00,305
+too one-dimensional for much enjoyment. So I'm
+rating it 2.5 stars, a rotten rating on Rotten
+
+541
+00:48:00,325 --> 00:48:04,607
+Tomatoes. Because at the end of the day, I don't
+think I would recommend the show, I think you'll
+
+542
+00:48:04,627 --> 00:48:08,850
+be disappointed by it no matter what type of
+Marvel fan you are. Yeah I- I guess I would
+
+543
+00:48:08,950 --> 00:48:13,993
+agree. I think I liked it a little bit more
+than you did, not by much though. Like I might
+
+544
+00:48:14,013 --> 00:48:19,736
+be willing to give this three stars maybe, but
+right around that ballpark. I think you hit
+
+545
+00:48:19,756 --> 00:48:24,579
+the nail on the head early on in the review
+when you said that you're not sure who will
+
+546
+00:48:24,619 --> 00:48:30,062
+be satisfied by a series like this. I think
+ultimately the only reason to watch it is if
+
+547
+00:48:30,102 --> 00:48:34,744
+you know, Echo ever joins the Avengers and you
+want to find out how she got her cool new costume.
+
+548
+00:48:35,145 --> 00:48:38,938
+The costume was cool. I'll say that. But that
+does it for this review. Let us know what you
+
+549
+00:48:38,958 --> 00:48:45,962
+guys thought about Echo Season 1 by writing
+to us at dyna or by visiting us on Instagram,
+
+550
+00:48:46,322 --> 00:48:50,485
+which you can find a link to on our show notes
+or by visiting our website, dynamicduel.com.
+
+551
+00:48:51,565 --> 00:48:55,527
+And on our site, you could also find a link
+to our Patreon page, where you could join our
+
+552
+00:48:55,587 --> 00:49:00,950
+dynamic duo tier and chat with us and fellow
+listeners, our fantastic four tier, which gets
+
+553
+00:49:00,990 --> 00:49:06,313
+you bonus content each month, our X-Force tier
+that makes you an executive producer of this
+
+554
+00:49:06,353 --> 00:49:12,484
+podcast. or our newest tier that lets you join
+our Dynamike Podcast Network. Please guys,
+
+555
+00:49:12,504 --> 00:49:17,906
+don't forget to rate the show on Apple Podcasts,
+Spotify, Podchaser, or on our website. In our
+
+556
+00:49:18,006 --> 00:49:23,649
+next episode, we're going to start a series
+of multiversal duels as a tie-in to our review
+
+557
+00:49:23,669 --> 00:49:28,871
+of Crisis on Infinite Earths, and in lead-up
+to Madam Web that's coming near the end of
+
+558
+00:49:28,911 --> 00:49:36,640
+February, we will be pitting Ultraman against
+Hyperion. Yeah, Ultraman being the Earth three
+
+559
+00:49:36,680 --> 00:49:42,404
+version of Superman, who's basically an evil
+version of Superman versus Hyperion, who is
+
+560
+00:49:42,464 --> 00:49:46,908
+the leader of the Squadron Supreme, which is
+basically like an authoritarian version of
+
+561
+00:49:46,928 --> 00:49:53,193
+the Justice League in Marvel. So two evil, multiversal
+Superman, who's gonna win? We're gonna find
+
+562
+00:49:53,233 --> 00:49:57,295
+out next week. But that does it for this episode,
+we want to give a big thanks to our executive
+
+563
+00:49:57,335 --> 00:50:01,956
+producers Ken Johnson, John Storowski, Zachary
+Hepburn, Dustin Belcombe, Mickey Mathengian,
+
+564
+00:50:02,116 --> 00:50:07,578
+Brandon Estergard, Nathaniel Wagner, Levi Yeaton,
+Nick Obanto, Austin Wazilowski, AJ Duckerley,
+
+565
+00:50:07,798 --> 00:50:12,980
+Scott Camacho, Adam Spies, Andrew Schunk, and
+Dean Molesky for helping make this podcast
+
+566
+00:50:13,020 --> 00:50:18,302
+possible. And we'll talk to you guys next week.
+Up up and away, true believers. Why did the
+
+567
+00:50:18,382 --> 00:50:20,583
+Echo get detention? It kept talking back.
+
