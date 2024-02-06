@@ -1,0 +1,2521 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a Dynamike Network podcast.
+
+2
+00:00:24,450 --> 00:00:29,731
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,771 --> 00:00:35,673
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:36,053 --> 00:00:42,395
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, we're doing a duel
+
+5
+00:00:42,675 --> 00:00:50,237
+between two evil Superman-type characters from
+alternate dimensions, Ultraman against Hyperion.
+
+6
+00:00:50,637 --> 00:00:55,940
+Hyperion's not evil. What are you talking about?
+It wasn't he like a bad guy for a while. No,
+
+7
+00:00:56,301 --> 00:01:01,845
+he's like he's misguided sometimes. We'll just
+say that. But he's a hero. Pretty sure in supreme
+
+8
+00:01:01,865 --> 00:01:08,851
+power, he was bad. That was the even Marvel
+continuity. Those Marvel Max. OK. Anyway, Hyperion's
+
+9
+00:01:08,871 --> 00:01:13,395
+a good guy, and he's going to beat the shit
+out of Ultraman. That's all you need to know.
+
+10
+00:01:13,895 --> 00:01:20,361
+And all you need to know is I got I don't know.
+I got nothing. I'll think of something later
+
+11
+00:01:20,421 --> 00:01:24,655
+on in this episode. Before that, we're going
+to break down the comic book movie news from
+
+12
+00:01:24,675 --> 00:01:29,620
+the past week, of which we have some casting
+news. Millie Alcock has been cast as Supergirl
+
+13
+00:01:29,720 --> 00:01:36,966
+in the DC Universe, and Geraldine Viswanathan
+and Lewis Pullman have been cast in the MCU's
+
+14
+00:01:37,066 --> 00:01:41,550
+Thunderbolts. As always, we list our segment
+times in our episode description, so feel free
+
+15
+00:01:41,570 --> 00:01:46,073
+to check out the show notes if you want to skip
+ahead to a particular topic. Our artificially
+
+16
+00:01:46,113 --> 00:01:53,426
+intelligent dual simulator, AJ-9K, has a quick
+message for our listeners, so listen up. Why
+
+17
+00:01:53,486 --> 00:01:58,289
+hello there. Do you love listening and chatting
+about Marvel and DC? Then become a part of
+
+18
+00:01:58,309 --> 00:02:03,412
+the dynamic dual community on Patreon, where
+you can choose from three tiers. The dynamic
+
+19
+00:02:03,452 --> 00:02:08,836
+two-o tier lets you listen to this podcast without
+ads and gives you access to its discord chat
+
+20
+00:02:08,856 --> 00:02:13,690
+group, where you can chat with Johnny DC and
+Marvelous Joe. The Fantastic Four tier gives
+
+21
+00:02:13,730 --> 00:02:18,552
+you that and more with two bonus episodes each
+month, including bloopers and top ten shows
+
+22
+00:02:18,592 --> 00:02:23,375
+where Johnny and Joe count down your favourite
+Marvel and DC subjects. The X-Force tier makes
+
+23
+00:02:23,395 --> 00:02:28,017
+you an executive producer of Dynamic Duel, where
+every month you help the host choose what to
+
+24
+00:02:28,057 --> 00:02:33,219
+review and who to fight against each other.
+And finally, the Dynamite Podcast Network tier
+
+25
+00:02:33,519 --> 00:02:38,562
+allows aspiring podcasters to create their own
+battle-focused show using this Monte Carlo
+
+26
+00:02:38,602 --> 00:02:39,142
+simulator.
+
+27
+00:02:58,834 --> 00:03:03,657
+Thanks AJ9K and thanks to everyone who supports
+the podcast. Guys, be sure to tune into the
+
+28
+00:03:03,777 --> 00:03:08,460
+Max Destruction Podcast which is part of the
+Dynamike Podcast Network which pits your favorite
+
+29
+00:03:08,540 --> 00:03:13,854
+action heroes from film and television against
+each other This week hosts Ken and Scotty,
+
+30
+00:03:13,874 --> 00:03:19,656
+you're gonna find out who'd win in a fight between
+Robocop and Wolfcop. And on the Send Your World
+
+31
+00:03:19,696 --> 00:03:24,457
+podcast, hosts Zachary Hepburn speculates on
+fights between your favorite anime characters.
+
+32
+00:03:24,857 --> 00:03:30,559
+This week, we'll find out who would win between
+Fire Forces Takihisa and Hinawa versus Blue
+
+33
+00:03:30,639 --> 00:03:37,061
+Exorcists Yukio Okumura. And on the Console
+Combat podcast, hosts John and Dean find out
+
+34
+00:03:37,101 --> 00:03:41,319
+who'd win in fights between your favorite video
+game characters. In yesterday's episode, they
+
+35
+00:03:41,359 --> 00:03:45,563
+continued into round three of their tournament
+speculating on who would win between Assassin's
+
+36
+00:03:45,603 --> 00:03:52,269
+Creed's Ezio Auditore vs. Sonic the Hedgehog's
+Tails and Metal Gear's Revolver Ocelot vs.
+
+37
+00:03:52,330 --> 00:03:58,015
+Mortal Kombat's Scorpion. Visit dynamicpodcasts.com
+or click the link in our show notes to listen
+
+38
+00:03:58,055 --> 00:04:03,600
+to all of the shows in the Dynamike Podcast
+Network. But with that out of the way, quick
+
+39
+00:04:03,821 --> 00:04:09,975
+to the no prize! A No Prize is an award Marvel
+used to give out to fans. Our version, the
+
+40
+00:04:10,015 --> 00:04:14,816
+Dynamic Dual No Prize, is a digital award we
+post on Instagram for the person that we feel
+
+41
+00:04:14,856 --> 00:04:19,958
+gave the best answer to our question of the
+week. Last week we asked, who is your favorite
+
+42
+00:04:20,058 --> 00:04:25,999
+villain from a Marvel or DC television series
+and why? And this is coming off the news that
+
+43
+00:04:26,059 --> 00:04:31,221
+Wilson Bethel will be returning as Bullseye
+in the Daredevil Born Again Disney Plus series
+
+44
+00:04:31,261 --> 00:04:35,758
+next year. We got quite a few answers. So let's
+break down the honorable mentions before revealing
+
+45
+00:04:35,798 --> 00:04:41,841
+this week's no prize winner. Our first honorable
+mention goes to... Miggy Mathengian, who said...
+
+46
+00:04:42,221 --> 00:04:48,584
+Hey what's up guys, it's Miggy. My favorite
+DC TV villain is Eivartan from The Flash Season
+
+47
+00:04:48,744 --> 00:04:53,966
+1. I think his motivation was pretty unique
+because he just wanted to get home, so you
+
+48
+00:04:53,986 --> 00:04:59,268
+can sympathize with that while still disliking
+his methods. Also his relationship with the
+
+49
+00:05:00,088 --> 00:05:05,599
+protagonist was also very unique because it
+started out out of pure resentment, but it
+
+50
+00:05:05,659 --> 00:05:11,563
+evolved into a love-hate mentorship. Thanks
+guys. Yeah, Eobard Thawne was the reverse Flash
+
+51
+00:05:11,664 --> 00:05:18,148
+antagonist in the Flash CW series. Now the character
+was played by multiple actors over the course
+
+52
+00:05:18,168 --> 00:05:23,912
+of the series, namely Tom Kavanaugh and Matt
+Letcher, but every time he was on screen, he
+
+53
+00:05:23,932 --> 00:05:29,016
+was a force to be reckoned with. He was just
+pure evil in how much he wanted to bring down
+
+54
+00:05:29,276 --> 00:05:33,227
+the series protagonist Barry Allen. Yeah, I
+never watched The Flash show, but it seemed
+
+55
+00:05:33,247 --> 00:05:38,112
+like Reverse Flash was the best out of all the
+villains that were on all the seasons. Yeah,
+
+56
+00:05:38,152 --> 00:05:43,978
+I didn't watch the whole thing, but I did watch
+the final battle of the final episode and that
+
+57
+00:05:43,998 --> 00:05:48,222
+was pretty cool. It was really cool to see the
+Reverse Flash and all the other speedsters
+
+58
+00:05:48,242 --> 00:05:52,686
+that The Flash had gone up against throughout
+the series in that episode. Great answer, Miggy.
+
+59
+00:05:52,726 --> 00:05:59,146
+Our next honorable mention goes to Travis Herndon,
+who said, Hey guys, Travis here. So my answer
+
+60
+00:05:59,166 --> 00:06:04,868
+would have to be Bushmaster from Luke Cage Season
+2. I think he was an amazing villain, had a
+
+61
+00:06:04,908 --> 00:06:11,030
+tragic backstory, an interesting power set.
+I really love him as an antagonist and a villain
+
+62
+00:06:11,210 --> 00:06:15,771
+and seeing that fight, that main fight between
+him and Luke Cage was cool as well as them
+
+63
+00:06:15,811 --> 00:06:21,693
+teaming up really makes me wish that he could
+have stayed as sort of a new partner for Luke
+
+64
+00:06:21,713 --> 00:06:27,138
+Cage in Season 3, but hey, what will he do?
+Yeah, Bushmaster in season two of Luke Cage
+
+65
+00:06:27,198 --> 00:06:33,080
+was incredible. He had a great backstory and
+he was quite the formidable challenge for Luke
+
+66
+00:06:33,120 --> 00:06:37,141
+Cage. Like he totally whipped his ass early
+on in that season. And then, you know, Luke
+
+67
+00:06:37,161 --> 00:06:40,882
+Cage had to grow as a character in order to
+finally face him again. The Luke Cage television
+
+68
+00:06:40,902 --> 00:06:46,403
+show had some great villains across its two
+season run. Like in the first season, you had
+
+69
+00:06:46,543 --> 00:06:51,625
+Cottonmouth and Black Mariah. Although you also
+had Diamondback, which really sucked. But like
+
+70
+00:06:51,645 --> 00:06:56,267
+season two had no such villain problem. because
+Bushmaster was just phenomenal. And Black Mariah
+
+71
+00:06:56,288 --> 00:07:01,692
+was phenomenal too. Yeah, Luke Cage season two
+is like one of the most underrated, I think,
+
+72
+00:07:02,052 --> 00:07:07,236
+seasons of superhero television in existence.
+I feel like not enough people saw that, and
+
+73
+00:07:07,336 --> 00:07:12,621
+it was really good. In part, thanks to Bushmaster,
+fantastic villain. Great answer, Travis. Our
+
+74
+00:07:12,661 --> 00:07:19,066
+next honorable mention goes to Judson Batty,
+who said. Hi guys, Judson Batty here. I think
+
+75
+00:07:19,126 --> 00:07:27,024
+that the best villain from a Marvel or DC project,
+show is Deathstroke from Arrow season two.
+
+76
+00:07:27,284 --> 00:07:34,189
+He was played incredibly well with subtleties
+that made the performance never get boring.
+
+77
+00:07:35,150 --> 00:07:39,253
+He was recognizable as the character from the
+comics and made a hero as selfless as Green
+
+78
+00:07:39,293 --> 00:07:43,976
+Arrow for his own life and not just that of
+those around him, which is quite an impressive
+
+79
+00:07:44,016 --> 00:07:49,540
+feat. Yeah, Deathstroke has been the villain
+of a number of television seasons, including
+
+80
+00:07:49,580 --> 00:07:54,644
+like Titan season two. but he was never more
+frightening and more effectively used than
+
+81
+00:07:54,704 --> 00:08:02,030
+in Arrow Season 2. The fact that you set up
+this character of Slade as being an ally of
+
+82
+00:08:02,070 --> 00:08:07,435
+the main character Oliver Queen throughout Season
+1, only to see that relationship deteriorate
+
+83
+00:08:07,475 --> 00:08:11,558
+in the Season 2 flashbacks, and just see the
+consequences of everything that happened on
+
+84
+00:08:11,598 --> 00:08:17,884
+the island in the present day, it was terrifying.
+He was like a great monster movie character,
+
+85
+00:08:17,924 --> 00:08:22,146
+almost like Michael Myers or something like
+that, but like... smart and just deadly and
+
+86
+00:08:22,206 --> 00:08:27,168
+fast, really wicked, really awesome, fantastic
+answer. We want to give a quick shout out to
+
+87
+00:08:27,228 --> 00:08:31,849
+Colby Hentges and Scott Camacho for taking the
+time to visit our website and leave their answers
+
+88
+00:08:31,889 --> 00:08:38,531
+as well. But the winner of this week's Snow
+Prize is Alex Fowler who said, What is up,
+
+89
+00:08:38,591 --> 00:08:43,452
+gentlemen? This is Alex Fowler, huge fan, been
+listening for a long time. My favorite depiction
+
+90
+00:08:43,492 --> 00:08:49,502
+of a villain in a Marvel or DC series. I'm a
+DC fan, but I've got to say. Vincent D'Onofrio's
+
+91
+00:08:49,542 --> 00:08:56,644
+depiction of Kingpin in Daredevil is just great.
+He's complex. You understand why he is the
+
+92
+00:08:56,664 --> 00:09:01,925
+way he is. He's depicted intensely. He's just
+great, guys. You know what? You guys are doing
+
+93
+00:09:01,965 --> 00:09:09,287
+a great job. Keep up the great work. Huge, huge
+fan. Take care. Bye-bye. Yeah, I mean, this
+
+94
+00:09:09,327 --> 00:09:14,989
+is the answer, right? Vincent D'Onofrio's Kingpin
+so epitomizes the character and I think even
+
+95
+00:09:15,049 --> 00:09:19,438
+enhances what everybody's perception of him
+was from the comics. You know, Kingpin was
+
+96
+00:09:19,478 --> 00:09:23,740
+always the fat bald guy who for some reason
+could go toe to toe with Spider-Man. I think
+
+97
+00:09:24,400 --> 00:09:29,662
+watching Vincent D'Onofrio's intensity as he
+plays the character, not only in Daredevil
+
+98
+00:09:29,702 --> 00:09:33,924
+seasons 1 through 3, but also I think in the
+recent Echo television series, the character
+
+99
+00:09:33,944 --> 00:09:39,626
+is so believable, so threatening. Vincent D'Onofrio
+is phenomenal. Yeah, I'm a DC fan just like
+
+100
+00:09:39,726 --> 00:09:45,268
+Alex, and even I admit that Vincent D'Onofrio
+was like born to play Kingpin. It's a sight
+
+101
+00:09:45,309 --> 00:09:49,351
+to behold. And there's not much more to say
+about it than that. Great answer, Alex. You
+
+102
+00:09:49,371 --> 00:09:53,397
+win this week's No Prize. If you the listener
+want a shot at winning your own No Prize, stay
+
+103
+00:09:53,417 --> 00:09:57,522
+tuned to later on this episode when we'll be
+asking another question of the week. And now
+
+104
+00:09:57,562 --> 00:09:59,545
+that that's done, onto the news.
+
+105
+00:10:04,974 --> 00:10:11,255
+Okay, so a few weeks ago we learned that the
+finalists for the casting of Laura Zor-El,
+
+106
+00:10:11,355 --> 00:10:19,438
+aka Supergirl, in James Gunn's DC Cinematic
+Universe was down to McDonaldi from some Disney
+
+107
+00:10:19,618 --> 00:10:26,120
+zombie TV show and Millie Alcock from HBO's
+House of the Dragon. And it's been revealed
+
+108
+00:10:26,200 --> 00:10:32,718
+that Millie has won the role of Supergirl, beating
+out McDonaldi. Not gonna lie. I was actually
+
+109
+00:10:32,798 --> 00:10:37,702
+rooting for McDonaldy for the role. And this
+is probably because my daughters have watched
+
+110
+00:10:37,782 --> 00:10:42,366
+that zombie Disney television series. So I was
+familiar with her. I haven't seen House of
+
+111
+00:10:42,386 --> 00:10:47,410
+the Dragon yet, but now I know I definitely
+need to because I've heard great things about
+
+112
+00:10:47,450 --> 00:10:52,454
+Millie Alcock's performance in that even though
+she's only in two episodes of the series. But
+
+113
+00:10:52,554 --> 00:10:56,638
+yeah, she's our super girl. And all I want to
+know is how the heck did like this eight year
+
+114
+00:10:56,698 --> 00:11:02,062
+old get this part? Right. Not going to lie.
+That was my first reaction to. Apparently though,
+
+115
+00:11:02,082 --> 00:11:09,265
+she's 23 years old. She looks 12, but she's
+23. She's 5'5". You know, I've seen some fan
+
+116
+00:11:09,385 --> 00:11:14,887
+art, some better than others, where she looks
+fairly decent as the character. Not as good
+
+117
+00:11:14,907 --> 00:11:19,389
+as McDonnelly, but I'm not gonna hold that against
+her, because again, she's supposedly a fantastic
+
+118
+00:11:19,469 --> 00:11:24,391
+actress. And I like the fact that James Gunn
+would choose the better actress over the more
+
+119
+00:11:24,451 --> 00:11:29,798
+comics accurate depiction, I guess you could
+say. She's like the female Will Poulter. She
+
+120
+00:11:29,818 --> 00:11:35,742
+looks exactly like Will Poulter. You know who
+you look exactly like? You? That's fair, I
+
+121
+00:11:35,762 --> 00:11:41,607
+shouldn't say anything else then. Ha ha ha.
+To be fair, I stole the Will Poulter line from
+
+122
+00:11:41,807 --> 00:11:46,211
+Meggie on the Discord channel. That's what he
+said and it cracked me up because it's true.
+
+123
+00:11:47,512 --> 00:11:53,737
+She just does not look like Supergirl to me
+and I'm really thinking that we may need to
+
+124
+00:11:53,777 --> 00:11:59,978
+realign our expectations for this role. She
+may not look like Supergirl. but she may act
+
+125
+00:11:59,998 --> 00:12:04,340
+like Supergirl. And according to some of the
+scans I've seen from the woman of tomorrow
+
+126
+00:12:04,380 --> 00:12:10,042
+trade paperback, the character is a total badass.
+Oh yeah, Supergirl in that comic series is
+
+127
+00:12:10,062 --> 00:12:16,545
+a very hard edged character. And maybe Millie
+Alcock has that hard edge to her that the other
+
+128
+00:12:16,605 --> 00:12:22,088
+actresses did not. Ultimately, she's the lead
+in a film that is probably gonna be really,
+
+129
+00:12:22,128 --> 00:12:28,126
+really expensive to make. So I hope they put
+their chips in the right hand. But I'm optimistic
+
+130
+00:12:28,167 --> 00:12:34,171
+because so far the rest of the other casting
+in the DCU has been spot on. Yeah, Millie Alcock
+
+131
+00:12:34,191 --> 00:12:39,656
+might be all, you know, 5'5 and look like she's
+a teenager, but I will also admit that she
+
+132
+00:12:39,716 --> 00:12:45,100
+also looks feisty and like she could kick some
+ass if she needs to. We've recently seen Supergirl
+
+133
+00:12:45,180 --> 00:12:50,745
+in quite a few projects as of late, including
+the Supergirl television series and the Flash
+
+134
+00:12:50,805 --> 00:12:55,409
+movie. So Millie Alcock has some big shoes to
+fill. And that brings us to our question of
+
+135
+00:12:55,449 --> 00:12:55,789
+the week.
+
+136
+00:13:00,366 --> 00:13:07,068
+Who has been your favorite Supergirl actress
+across film and television, and why? Record
+
+137
+00:13:07,088 --> 00:13:10,789
+your answer at dynamicduel.com by clicking on
+the red microphone button in the bottom right
+
+138
+00:13:10,809 --> 00:13:14,550
+hand corner of the screen which will prompt
+you to leave us a voicemail. Your message could
+
+139
+00:13:14,590 --> 00:13:17,951
+be up to 30 seconds long, and don't forget to
+leave your name in case we include you on the
+
+140
+00:13:17,991 --> 00:13:22,392
+podcast. We'll pick our favorite answer, and
+award that person a Dynamic Duel No Prize that
+
+141
+00:13:22,412 --> 00:13:28,210
+we'll post to Instagram. Be sure to answer before
+February 10th. In Marvel News, we learned this
+
+142
+00:13:28,230 --> 00:13:33,992
+past week that the Thunderbolts has cast two
+new roles in the film, including Geraldine
+
+143
+00:13:34,052 --> 00:13:40,435
+Viswanathan. We're not quite sure who she's
+playing yet, but it appears that Lewis Pullman
+
+144
+00:13:40,875 --> 00:13:46,458
+has nabbed the role of Robert Reynolds, aka
+The Sentry, taking over the spot that was left
+
+145
+00:13:46,498 --> 00:13:52,420
+behind by Steven Yeun. Now Lewis Pullman is
+an actor that I'm not too familiar with other
+
+146
+00:13:52,440 --> 00:13:58,230
+than his parentage. He is the son of Bill Pullman.
+who we all know as the badass president from
+
+147
+00:13:58,310 --> 00:14:03,092
+Independence Day, and also while you were sleeping.
+And a bunch of other great stuff. Bill Pullman's
+
+148
+00:14:03,112 --> 00:14:08,655
+a great actor. His son, I'm hoping, is great
+as well. He was in Top Gun Maverick, and he
+
+149
+00:14:08,675 --> 00:14:13,617
+was also in Bad Times at the El Royale, and
+recently Lessons in Chemistry with Brie Larson.
+
+150
+00:14:14,077 --> 00:14:18,859
+I saw parts of all three of those, and I don't
+remember him. Well, you're gonna remember him
+
+151
+00:14:18,899 --> 00:14:23,801
+now that he's playing the Sentry. He looks the
+part, you know, he looks the part of Bob Reynolds,
+
+152
+00:14:23,861 --> 00:14:27,810
+I should say, maybe not necessarily the Sentry.
+It will be interesting to see him bulked out
+
+153
+00:14:27,990 --> 00:14:32,492
+with like golden flowing hair and stuff like
+that. But you know, he has time to bulk up
+
+154
+00:14:32,952 --> 00:14:37,314
+if he needs to. I don't know if they're going
+to go for like the drug addict Rob Reynolds
+
+155
+00:14:37,354 --> 00:14:41,936
+look or the totally shredded sentry, but we'll
+see. Whatever actor was going to play the sentry
+
+156
+00:14:41,996 --> 00:14:46,938
+needed to convincingly convey both a light and
+a dark side, considering the sentry's dark
+
+157
+00:14:47,319 --> 00:14:53,041
+shadow self is the void. So it's really a dual
+role here. Do we know what character Geraldine
+
+158
+00:14:53,061 --> 00:14:58,299
+Viswanathan is going to play? No, but she did
+replace Ayo Adabiri, who had to depart the
+
+159
+00:14:58,319 --> 00:15:03,361
+project due to scheduling issues, just like
+Steven Yeun. Cool. This is like the most boring
+
+160
+00:15:03,401 --> 00:15:07,322
+casting announcement ever. It's like a whole
+bunch of people we don't know playing roles
+
+161
+00:15:07,342 --> 00:15:11,464
+that we aren't sure about. What are you talking
+about? We know who the Sentry is. Yeah, but
+
+162
+00:15:11,524 --> 00:15:15,965
+I mean, the Sentry is not that cool. Do you
+want to die? I mean, we all die someday.
+
+163
+00:15:19,394 --> 00:15:22,876
+Sentry is badass, you don't know what you're
+talking about. And I think this is pretty interesting
+
+164
+00:15:22,916 --> 00:15:27,300
+news. I'm looking forward to seeing how Lewis
+Pullman plays the character. You know what
+
+165
+00:15:27,340 --> 00:15:34,505
+we need? We need like some fucking costume tests.
+Like we're getting casting news without costume
+
+166
+00:15:34,545 --> 00:15:39,329
+tests. I wanna see these people in the roles.
+Kevin Feige and James Gunn, come on. Well,
+
+167
+00:15:39,349 --> 00:15:43,852
+maybe we'll get some news at this year's San
+Diego Comic-Con. I bet this year's Comic-Con
+
+168
+00:15:43,932 --> 00:15:49,076
+is gonna be so cool. Like I'm looking forward
+to it more than I have in a long time. It's
+
+169
+00:15:49,236 --> 00:15:52,458
+because there's only a few movies coming out
+this year. So there's a lot more to look forward
+
+170
+00:15:52,498 --> 00:15:56,261
+to in the coming years than there is this year.
+Yeah, the sooner we get through this year,
+
+171
+00:15:56,321 --> 00:16:03,486
+the better, man, for real. Let's just fast forward
+2024. Just have a ton of fun because time flies,
+
+172
+00:16:03,506 --> 00:16:08,429
+apparently. No, I'm looking forward to Deadpool
+three. Better be lots of fun. It will be. We
+
+173
+00:16:08,449 --> 00:16:09,009
+all know it will be.
+
+174
+00:16:16,366 --> 00:16:19,728
+But I think that does it for all the news for
+this episode, so let's go ahead and move into
+
+175
+00:16:19,828 --> 00:16:25,952
+our main event where we find out who would win
+in a fight between the Crime Syndicate's Ultraman
+
+176
+00:16:26,352 --> 00:16:28,813
+versus the Squadron Supremes Hyperion.
+
+177
+00:16:44,078 --> 00:16:50,481
+Alright, Ultraman versus Hyperion. Ultraman
+of course is the evil Earth 3 counterpart to
+
+178
+00:16:50,581 --> 00:16:57,645
+Superman and Hyperion is the Superman, one of
+many Superman counterparts in Marvel. You've
+
+179
+00:16:57,665 --> 00:17:02,668
+got Hyperion, you've got Gladiator, you've got
+the Sentry, you've got a whole bunch of people
+
+180
+00:17:02,688 --> 00:17:07,330
+because Marvel's a big ripoff company. I mean
+not really though if you think about it. I
+
+181
+00:17:07,390 --> 00:17:14,418
+just did and I just revealed that was true.
+Now Hyperion is cool. He's the leader of the
+
+182
+00:17:14,458 --> 00:17:20,520
+Squadron Supreme, who is a team that had a fantastic
+run in the mid-1980s, even before Watchmen
+
+183
+00:17:20,540 --> 00:17:26,221
+came out, that really started to break down
+and deconstruct the superhero mythos. And really
+
+184
+00:17:26,241 --> 00:17:31,383
+what Marvel was doing was they were trying to
+tell the story using these DC character archetypes
+
+185
+00:17:31,523 --> 00:17:38,105
+to explore what would it be like if they were
+more authoritarian and really do things that
+
+186
+00:17:38,305 --> 00:17:42,838
+DC couldn't really do with their IP at the time.
+And really, it was a huge influence, I think,
+
+187
+00:17:42,858 --> 00:17:48,260
+to Alan Moore's Watchmen, who told a similar
+story, but those characters were more analogs
+
+188
+00:17:48,320 --> 00:17:54,361
+to the Charlton characters, but fantastic stories.
+You know, I knew about the Squadron Supreme
+
+189
+00:17:54,421 --> 00:17:58,562
+legacy as being something like that. I didn't
+realize it came before Watchmen, though. I'll
+
+190
+00:17:58,582 --> 00:18:03,324
+have to read it. It's good. It's really good.
+I'll definitely go into major spoilers about
+
+191
+00:18:03,344 --> 00:18:08,125
+that story within my Hyperion background, but
+I hope it'll convince a lot of people to check
+
+192
+00:18:08,145 --> 00:18:13,397
+it out. Yeah, there's... several versions of
+Hyperion, right? Correct, yeah. So there was
+
+193
+00:18:13,437 --> 00:18:18,801
+the original Hyperion from the Squadron Supreme,
+there was Hyperion from Squadron Sinister,
+
+194
+00:18:19,162 --> 00:18:24,626
+which was an evil doppelganger version of Squadron
+Supreme, then there was also Supreme Powers
+
+195
+00:18:24,646 --> 00:18:29,190
+Hyperion, which was a line in the Marvel Max
+imprint, and then two other Hyperions found
+
+196
+00:18:29,230 --> 00:18:34,735
+their way to the Marvel Primary 616 universe.
+I don't think we've mentioned this yet, but
+
+197
+00:18:34,775 --> 00:18:39,138
+this is actually a multiversal duel. That's
+the whole reason why we're doing this. Oh yes,
+
+198
+00:18:39,198 --> 00:18:46,180
+so of course Ultraman was in the recent Justice
+League Crisis on Infinite Earths Part 1 animated
+
+199
+00:18:46,240 --> 00:18:51,663
+film. We were supposed to review that after
+Echo, so this is a tie into that. But also,
+
+200
+00:18:51,823 --> 00:18:56,725
+you know, between Crisis on Infinite Earths
+and Madame Web, we were looking to do these
+
+201
+00:18:56,765 --> 00:19:01,587
+multiversal duels. So this is one of them. Yeah,
+we've done several multiversal duels over the
+
+202
+00:19:01,628 --> 00:19:07,133
+course of this show, including Batman Beyond
+vs. Spider-Man 2099, Cosmic Gross Rider vs.
+
+203
+00:19:07,193 --> 00:19:12,297
+The Batman Who Laughs, and we've done Kingdom
+Come Superman vs. Maestro. So it's always neat
+
+204
+00:19:12,337 --> 00:19:18,143
+to explore these universes outside of the primary
+Marvel and DC continuity. Yeah, and we'll do
+
+205
+00:19:18,203 --> 00:19:23,347
+so in the characters' backstories. Before that,
+let's go to our sentient duel simulator, Alfred
+
+206
+00:19:23,387 --> 00:19:30,155
+Jarvis 9000. AJ 9K. Tell our listeners how you
+go about determining a winner in our dual matchups.
+
+207
+00:19:31,076 --> 00:19:35,377
+Yes, of course, sir. The way I determine a winner
+between the contestants is by running 1000
+
+208
+00:19:35,858 --> 00:19:41,540
+Monte Carlo simulations using the characters
+statistics. A Monte Carlo simulation is a probabilistic
+
+209
+00:19:41,580 --> 00:19:47,122
+model used to determine outcomes through random
+sampling. In this case, I randomize the statistics
+
+210
+00:19:47,162 --> 00:19:51,844
+along a normal distribution as a way to simulate
+the many variables that can occur during battle.
+
+211
+00:19:52,244 --> 00:19:56,999
+The stat parameters are based on the official
+Marvel power grid. from which the DC characters'
+
+212
+00:19:57,019 --> 00:20:02,203
+statistics are extrapolated. Additional stat
+categories are included, such as range, damage
+
+213
+00:20:02,223 --> 00:20:07,648
+potential, versatility, and perception, in order
+to create a more detailed and accurate simulation.
+
+214
+00:20:08,128 --> 00:20:12,932
+The results of the 1,000 simulations provide
+a percentage of wins for each character. The
+
+215
+00:20:12,972 --> 00:20:17,436
+contestant with the higher percentage is declared
+the victor, as they have a higher probability
+
+216
+00:20:17,476 --> 00:20:23,261
+to win any given battle. In an equitable pairing,
+neither character should win 100% of the matches.
+
+217
+00:20:23,798 --> 00:20:28,279
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman, so
+
+218
+00:20:28,299 --> 00:20:32,181
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+219
+00:20:32,221 --> 00:20:37,784
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+220
+00:20:37,804 --> 00:20:42,165
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+221
+00:20:43,586 --> 00:20:48,127
+Thanks AJ9K, before we run the simulations though,
+we'd like to break down each character's histories
+
+222
+00:20:48,147 --> 00:20:53,190
+and abilities before improvising a scenario
+on how we imagine one of the 1000 simulations
+
+223
+00:20:53,210 --> 00:20:58,252
+would play out beat for beat. And I believe
+it's my turn to go first with the Marvel backstory,
+
+224
+00:20:58,312 --> 00:21:04,334
+so let me go ahead and tell you all about Hyperion.
+Beyond the Earth-616 mainstream Marvel universe,
+
+225
+00:21:04,774 --> 00:21:11,437
+an adjacent reality known as Earth-712 was the
+home of a team of superheroes called the Squadron
+
+226
+00:21:11,497 --> 00:21:17,519
+Supreme. The team was led by a hero named Hyperion,
+who was the last surviving member of a race
+
+227
+00:21:17,559 --> 00:21:23,500
+of Eternals whose planet had died. Sent to live
+on Earth as a baby, Hyperion was raised by
+
+228
+00:21:23,541 --> 00:21:29,162
+a loving family who named him Mark Milton, and
+instilled a strong moral code. Growing up as
+
+229
+00:21:29,182 --> 00:21:34,563
+the hero Hyperion, he moved to Cosmopolis, where
+he worked at a newspaper as a cartoonist, and
+
+230
+00:21:34,603 --> 00:21:40,425
+fell in love with reporter Lonnie Latimer. During
+his career as a superhero, he befriended fellow
+
+231
+00:21:40,485 --> 00:21:47,729
+adventurer Nighthawk, aka Batman, and the two
+joined forces with Power Princess, aka Wonder
+
+232
+00:21:47,769 --> 00:21:56,394
+Woman, Amphibian, aka Aquaman, the Blur, aka
+Flash, Dr. Spectrum, aka Green Lantern, and
+
+233
+00:21:56,494 --> 00:22:03,298
+the Skrull hero Skymax, aka Martian Manhunter,
+to form the Squadron Supreme. Together, they
+
+234
+00:22:03,338 --> 00:22:07,821
+were the world's finest protectors, rising to
+fight and defeat any threat to planet Earth.
+
+235
+00:22:08,201 --> 00:22:13,505
+In one adventure, The elder of the universe
+known as the Grandmaster created an evil duplicate
+
+236
+00:22:13,545 --> 00:22:19,009
+of the team and called it the Squadron Sinister.
+In a cosmic wager against a variant of the
+
+237
+00:22:19,029 --> 00:22:23,693
+villain King the Conqueror, the Grandmaster
+pit the Squadron Sinister against Earth-616's
+
+238
+00:22:24,714 --> 00:22:31,099
+Avengers in a contest of champions. The Avengers
+won the battle. Like, super easily mind you.
+
+239
+00:22:31,219 --> 00:22:36,386
+Bullshiiiit. And though the Grandmaster and
+King's bet was over, The Avengers later found
+
+240
+00:22:36,406 --> 00:22:42,989
+themselves accidentally transported to Earth-712,
+where they met the Squadron Supreme. After
+
+241
+00:22:43,009 --> 00:22:47,431
+a brief misunderstanding where they confused
+them for the Squadron Sinister, the two teams
+
+242
+00:22:47,471 --> 00:22:52,533
+eventually joined forces to defeat a mutant
+villain named Brainchild, before the Avengers
+
+243
+00:22:52,613 --> 00:22:58,015
+returned to their home reality. Later, the Squadron
+became mind-controlled by an evil entity known
+
+244
+00:22:58,095 --> 00:23:03,510
+as Overmind, and the team ravaged the United
+States into an apocalyptic state. However,
+
+245
+00:23:03,650 --> 00:23:08,774
+Earth-616's Defenders team were able to travel
+to their dimension and free the Squadron and
+
+246
+00:23:08,814 --> 00:23:14,139
+combine their might to defeat Overmind. The
+Defenders then returned to their home reality,
+
+247
+00:23:14,640 --> 00:23:20,605
+but Earth-712's America was left in chaos. You
+can learn more about King the Conqueror and
+
+248
+00:23:20,625 --> 00:23:24,688
+his duel against Professor Zoom, more about
+the Avengers and their duel against the Justice
+
+249
+00:23:24,728 --> 00:23:29,393
+League, and more about the Defenders and their
+duel against the Suicide Squad. With the United
+
+250
+00:23:29,433 --> 00:23:34,543
+States falling apart, Hyperion and his teammates
+decided that with their combined knowledge
+
+251
+00:23:34,563 --> 00:23:40,506
+and power, they could restore the country and
+transform it into a utopia. The team declared
+
+252
+00:23:40,646 --> 00:23:46,509
+martial law and usurped the US government, implementing
+a series of sweeping changes that included
+
+253
+00:23:46,609 --> 00:23:51,691
+a behavior modification program to inhibit the
+criminal instincts of prison inmates. They
+
+254
+00:23:51,771 --> 00:23:57,534
+also destroyed all firearms and replaced them
+with personal force field devices, and developed
+
+255
+00:23:57,714 --> 00:24:02,796
+medical cryogenic technology to preserve those
+who were near death until such time they could
+
+256
+00:24:02,836 --> 00:24:07,298
+be restored to health. Though the squadron's
+reforms successfully turned the planet into
+
+257
+00:24:07,318 --> 00:24:12,480
+a paradise without crime, poverty, and sickness,
+their new system of order was not without its
+
+258
+00:24:12,500 --> 00:24:18,543
+setbacks. The hero known as the Golden Archer,
+aka Green Arrow, was removed from the team
+
+259
+00:24:18,683 --> 00:24:23,525
+after it was discovered he was using the behavior
+modification process to brainwash his teammate
+
+260
+00:24:23,625 --> 00:24:30,047
+Lady Lark aka Black Canary, to fall in love
+with him. Nuke, aka Firestorm, went on a crazed
+
+261
+00:24:30,087 --> 00:24:34,829
+rampage after learning the radiation from his
+body had killed his parents, forcing the Squadron
+
+262
+00:24:34,869 --> 00:24:39,430
+to kill him. Several members left the Squadron
+after becoming disgusted with its methods,
+
+263
+00:24:39,570 --> 00:24:45,012
+including Amphibian and Nighthawk, the latter
+of whom created his own team of heroes and
+
+264
+00:24:45,052 --> 00:24:50,282
+former villains called the Redeemers who would
+rise to oppose the Squadron. The two groups
+
+265
+00:24:50,322 --> 00:24:56,028
+clashed in a brutal fight in which several members
+on each side were killed. When Hyperion saw
+
+266
+00:24:56,148 --> 00:25:01,653
+Nighthawk perish in the battle, he became horrified
+at what was happening and realized that his
+
+267
+00:25:01,713 --> 00:25:06,598
+late friend was right. That although their intentions
+were good, the Squadron Supreme had become
+
+268
+00:25:06,658 --> 00:25:12,083
+dictators in a totalitarian state of their own
+creation. They surrendered control of the US
+
+269
+00:25:12,143 --> 00:25:17,015
+back to the government and the team disbanded.
+Shortly after, Hyperion recruited the remaining
+
+270
+00:25:17,055 --> 00:25:23,237
+members of the squadron to save Earth-712 from
+the Nth Man, aka Phantom Stranger, who was
+
+271
+00:25:23,317 --> 00:25:28,620
+inadvertently nullifying dimensions he was traveling
+through. Several members of the squadron died
+
+272
+00:25:28,700 --> 00:25:33,842
+trying to stop him, though they ultimately were
+successful. Hyperion, however, ended up stranded
+
+273
+00:25:33,862 --> 00:25:39,064
+alongside several other squadron members in
+the Earth-616 reality for a time, where he
+
+274
+00:25:39,104 --> 00:25:44,467
+ended up occasionally partnering with the Avengers.
+Eventually Hyperion and his fellow teammates
+
+275
+00:25:44,547 --> 00:25:49,250
+found a way back to their home reality, where
+they found that in the absence of the Squadron,
+
+276
+00:25:49,630 --> 00:25:55,333
+the world governments had formed a global directorate
+that were using the technology of the Squadron's
+
+277
+00:25:55,494 --> 00:26:01,057
+old Utopia project for themselves. The founding
+members of the Squadron Supreme banded together
+
+278
+00:26:01,157 --> 00:26:06,180
+once again, along with the son of the original
+Nyhawk and a team of dimension-hopping heroes
+
+279
+00:26:06,220 --> 00:26:11,496
+called the Exiles. Together they battled and
+defeated the global directorate, returning
+
+280
+00:26:11,576 --> 00:26:16,741
+freedom to the world, and allowing society to
+progress democratically and without superhuman
+
+281
+00:26:16,841 --> 00:26:22,406
+involvement. Unfortunately, all of Earth-712
+came to an end, however, when realities in
+
+282
+00:26:22,446 --> 00:26:28,131
+the Marvel multiverse began colliding and destroying
+each other in a series of cataclysmic incursions.
+
+283
+00:26:28,672 --> 00:26:33,837
+Hyperion became his universe's only survivor,
+floating in the void left where his dimension
+
+284
+00:26:33,897 --> 00:26:40,387
+was destroyed. There, he was discovered by AIM
+scientists from Earth-616 who held him in captivity
+
+285
+00:26:40,527 --> 00:26:45,608
+until he was rescued by the Avengers and joined
+their ranks for a time as they tried to stop
+
+286
+00:26:45,648 --> 00:26:51,550
+the incursions. After the events of the secret
+wars that rebuilt the multiverse, Hyperion
+
+287
+00:26:51,610 --> 00:26:57,092
+formed a new squadron supreme composed of heroes
+who had also survived their own universe's
+
+288
+00:26:57,172 --> 00:26:59,132
+destruction. And that's his backstory.
+
+289
+00:27:03,394 --> 00:27:09,077
+capable of absorbing cosmic radiation and channeling
+it like a nuclear reactor for a variety of
+
+290
+00:27:09,117 --> 00:27:15,000
+effects. This includes vastly enhanced durability
+and strength, able to lift well in excess of
+
+291
+00:27:15,080 --> 00:27:20,703
+100 tons. He can fly and move at hypersonic
+speeds, and has superhuman senses including
+
+292
+00:27:20,763 --> 00:27:26,206
+hearing, smell, and sight, able to see in all
+wavelengths of the electromagnetic spectrum
+
+293
+00:27:26,326 --> 00:27:32,109
+like infrared and x-rays. He can also fire beams
+of intense radiation from his eyes called atomic
+
+294
+00:27:32,169 --> 00:27:38,011
+vision. In addition to his physical attributes,
+he is a capable leader and an experienced combatant.
+
+295
+00:27:38,511 --> 00:27:44,773
+He has only one weakness, and that is to Argonite,
+a substance native to his birth planet. Which
+
+296
+00:27:44,813 --> 00:27:49,214
+is named Argon? It's never named actually. I
+guess you could assume that his birth planet
+
+297
+00:27:49,254 --> 00:27:54,656
+was Argon or Argo. Friggin no shame. How are
+you with the fact that you're essentially using
+
+298
+00:27:54,696 --> 00:27:59,397
+a DC character in this match? I don't know what
+you're talking about. I hope it feels good.
+
+299
+00:28:00,017 --> 00:28:07,071
+How do you figure? Hyperion is basically a DC
+character. I don't see it. Cosmopolis, Argonite,
+
+300
+00:28:07,631 --> 00:28:15,793
+Atomic Vision. You totally lost me, man. Alright.
+Well, let me move on to Ultraman. Within the
+
+301
+00:28:15,833 --> 00:28:21,635
+DC multiverse, there exists a universe that
+is a dark reflection of DC's Prime Universe,
+
+302
+00:28:21,935 --> 00:28:27,317
+in which heroes became villains and villains
+became heroes. In this universe, the planet
+
+303
+00:28:27,357 --> 00:28:35,255
+Krypton never exploded, The infant son of the
+Kryptonian criminal, Jir-Lil, was rocketed
+
+304
+00:28:35,295 --> 00:28:40,876
+from the planet to Earth, encountering Kryptonite
+adrift in space along the way, which empowered
+
+305
+00:28:40,916 --> 00:28:46,678
+the infant in this universe rather than weakening
+him. Gaining new powers each time he encountered
+
+306
+00:28:46,718 --> 00:28:52,679
+the smallest fragment of Kryptonite, the Kryptonian
+grew to become a superpower despot known as
+
+307
+00:28:52,839 --> 00:28:58,481
+Ultraman. During his conquest and destruction,
+he encountered four other powerful and tyrannical
+
+308
+00:28:58,521 --> 00:29:05,945
+beings, Overpowering and Johnny Quick and together
+they joined to form the Crime Syndicate of
+
+309
+00:29:06,005 --> 00:29:11,628
+America Able to overpower any resistance the
+Crime Syndicate conquered most of the world
+
+310
+00:29:11,748 --> 00:29:16,391
+with Ultraman gaining new powers Every time
+they encountered new stashes of Kryptonite
+
+311
+00:29:16,591 --> 00:29:22,435
+on Earth Eventually Ultraman gained a new type
+of supervision that allowed him to see into
+
+312
+00:29:22,555 --> 00:29:28,397
+other universes Setting his sights on Earth's
+one and two the home dimensions of the Justice
+
+313
+00:29:28,457 --> 00:29:33,058
+League and Justice Society, respectively. You
+can learn more about the Justice League and
+
+314
+00:29:33,098 --> 00:29:38,281
+Justice Society in their team duel episodes
+against the Avengers and Fantastic Four. Eager
+
+315
+00:29:38,321 --> 00:29:42,503
+to test the strength of the crime syndicate
+against the champions from these other worlds,
+
+316
+00:29:42,663 --> 00:29:48,445
+Ultraman and his allies nonetheless proved themselves
+incapable of overpowering the combined might
+
+317
+00:29:48,485 --> 00:29:54,728
+of the heroes from Earths 1 and 2. Ultraman
+himself fell after the heroes of Earth 1 exposed
+
+318
+00:29:54,768 --> 00:30:00,251
+him to a chunk of kryptonite so large, his body
+went into a paralytic shock after the acquisition
+
+319
+00:30:00,291 --> 00:30:05,033
+of so many new powers. which eventually wore
+off. Ultraman and the crime syndicate were
+
+320
+00:30:05,073 --> 00:30:10,635
+imprisoned by Green Lantern in an interdimensional
+prison between universes, though they eventually
+
+321
+00:30:10,715 --> 00:30:17,037
+escaped and Ultraman was rescued by Lex Luthor
+and Alexi Luthor of Earths 1 and 2 in order
+
+322
+00:30:17,077 --> 00:30:23,839
+to kill the supermen of their worlds. With the
+help of Alexander Luthor Sr. of Earth 3, a
+
+323
+00:30:23,899 --> 00:30:26,400
+hero, the supermen were able to defeat and
+
+324
+00:30:30,238 --> 00:30:36,442
+Eventually, a wave of antimatter tore through
+the DC Multiverse, destroying entire universes.
+
+325
+00:30:36,923 --> 00:30:43,288
+Though the Crime Syndicate teamed up with Alexander
+Luther Sr. and other heroes of Earth 3, nothing
+
+326
+00:30:43,328 --> 00:30:49,372
+they did was able to stop the wave. Resigned
+to fight to the very end, Ultraman charged
+
+327
+00:30:49,432 --> 00:30:54,616
+the oncoming wave at full force and was instantly
+erased from existence, just before the rest
+
+328
+00:30:54,656 --> 00:30:59,947
+of his universe also vanished. After the Crisis
+on Infinite Earth's event concluded with the
+
+329
+00:30:59,967 --> 00:31:04,890
+destruction of the multiverse and the creation
+of a single universe, the villain's psycho
+
+330
+00:31:04,930 --> 00:31:11,113
+pirate revealed years later the ability to psychically
+manifest any being from the former multiverse
+
+331
+00:31:11,213 --> 00:31:17,497
+from his mask, known as the Medusa Mask, which
+was revealed to contain Ultraman. Years later,
+
+332
+00:31:17,757 --> 00:31:22,359
+it was also revealed that Ultraman's mind was
+rescued prior to its destruction by the antimatter
+
+333
+00:31:22,399 --> 00:31:28,511
+wave by the Legion of Superheroes villain, Saturn
+Queen. a powerful psychic from the future who
+
+334
+00:31:28,551 --> 00:31:34,074
+attempted to use Ultraman to take over the bottled
+city of Kandor in the present, though her plan
+
+335
+00:31:34,094 --> 00:31:39,657
+was thwarted by Supergirl. While the Multiverse
+had collapsed during the Crisis on Infinite
+
+336
+00:31:39,697 --> 00:31:45,160
+Earths, there did still exist an antimatter
+counterpart to the Positive Matter Universe,
+
+337
+00:31:45,580 --> 00:31:51,323
+home to another antimatter version of the Crime
+Syndicate and a new version of Ultraman. This
+
+338
+00:31:51,503 --> 00:31:57,338
+antimatter version was formerly a human astronaut
+named Lieutenant Clark Kent, whose spaceship
+
+339
+00:31:57,418 --> 00:32:03,762
+exploded in hyperspace, and his body was rebuilt
+by aliens using anti-cryptonite radiation in
+
+340
+00:32:03,802 --> 00:32:08,925
+an effort to build the ultimate weapon. Clark
+gained control of his new powers that he had
+
+341
+00:32:08,965 --> 00:32:14,328
+developed before the aliens could control him,
+however, and Clark returned to Earth. His mind
+
+342
+00:32:14,428 --> 00:32:20,130
+now warped and used his powers to take over
+the planet. Anti-Matter Ultraman was revealed
+
+343
+00:32:20,210 --> 00:32:25,011
+to be married to Superwoman, the Anti-Matter
+Lois Lane, though she was having an affair
+
+344
+00:32:25,051 --> 00:32:31,113
+with Anti-Matter Owlman. Ultraman's powers were
+contingent upon exposure to Anti-Cryptonite.
+
+345
+00:32:31,753 --> 00:32:36,235
+Though Anti-Matter Lex Luthor attempted to save
+his Earth from the Crime Syndicate's rule,
+
+346
+00:32:36,375 --> 00:32:40,956
+with help from the Positive Matter Universe's
+Justice League, his plan ultimately failed,
+
+347
+00:32:41,336 --> 00:32:47,258
+as the Anti-Matter Earth recognized the Crime
+Syndicate as their legitimate leaders. Eventually,
+
+348
+00:32:47,358 --> 00:32:52,363
+the Crime Syndicate grew bored with Earth's
+collective Stockholm Syndrome and decided to
+
+349
+00:32:52,403 --> 00:32:58,229
+attack the antimatter planet of Kord, home to
+the Weponeers that created the very first yellow
+
+350
+00:32:58,269 --> 00:33:03,555
+power ring. Their battle ended up creating a
+positive matter wave that spread throughout
+
+351
+00:33:03,595 --> 00:33:09,039
+the antimatter universe, altering its reality.
+In an attempt to better understand what was
+
+352
+00:33:09,079 --> 00:33:14,422
+going on, Ultraman and his allies visited the
+positive matter universe disguised as their
+
+353
+00:33:14,482 --> 00:33:19,205
+counterparts and eventually decided to stay.
+Though they were fought back to their dimension
+
+354
+00:33:19,245 --> 00:33:25,048
+by the Justice League, only to learn that now
+everyone on their Earth hated them. When 52
+
+355
+00:33:25,149 --> 00:33:31,172
+new universes were created during the Infinite
+Crisis, Earth 3 was reimagined. This time,
+
+356
+00:33:31,292 --> 00:33:36,258
+Krypton was destroyed by the Anti-Monitor. and
+the young Cal Ill's father sent him from the
+
+357
+00:33:36,318 --> 00:33:42,500
+dying planet into space to grow in power and
+eventually get revenge. After landing on Earth,
+
+358
+00:33:42,700 --> 00:33:48,162
+the infant Cal forced two alcoholic drug addicts
+named Jonathan and Martha Kent to adopt him,
+
+359
+00:33:48,382 --> 00:33:53,663
+only to later murder them when he turned seven
+years old. He eventually became Ultraman and
+
+360
+00:33:53,703 --> 00:33:58,325
+formed the Crime Syndicate, once again taking
+over the world only for it to be destroyed
+
+361
+00:33:58,405 --> 00:34:04,441
+by the Anti-Monitor just like Krypton. It was
+at this time that Darkseid on the Prime Earth
+
+362
+00:34:04,521 --> 00:34:10,347
+gained the anti-life equation, initiating the
+final crisis, and allowing the Crime Syndicate
+
+363
+00:34:10,387 --> 00:34:15,713
+to escape Earth-3, though they became trapped
+in an interdimensional limbo, save for their
+
+364
+00:34:15,753 --> 00:34:21,359
+versions of Alfred and the Atom, who managed
+to escape to the new Prime Continuity established
+
+365
+00:34:21,439 --> 00:34:27,924
+after the Flash reset DC's timeline. After the
+Earth-3 Alfred and Adam orchestrated a clash
+
+366
+00:34:28,004 --> 00:34:33,288
+between the Justice League, JLA, and Justice
+League Dark Teams, a portal was opened that
+
+367
+00:34:33,348 --> 00:34:38,872
+unleashed Ultraman and his allies in the Prime
+Universe while also trapping many of its heroes.
+
+368
+00:34:39,152 --> 00:34:44,395
+The crime syndicate was eventually stopped by
+Earth's villains, primarily by Lex Luthor,
+
+369
+00:34:44,596 --> 00:34:49,679
+with Ultraman as the syndicate's only survivor.
+Imprisoned by the Justice League upon their
+
+370
+00:34:49,719 --> 00:34:55,244
+return, he was eventually set free during a
+war between Darkseid and the Anti-Monitor to
+
+371
+00:34:55,284 --> 00:35:00,688
+help stop them. Ultraman put up his best fight
+against the Anti-Monitor, but was easily killed
+
+372
+00:35:00,728 --> 00:35:07,274
+by him in an anti-matter energy blast. The Earth-3
+universe eventually healed itself, and Ultraman
+
+373
+00:35:07,294 --> 00:35:12,714
+and the Crime Syndicate were reborn, and eventually
+encountered by Superman's son, Jonathan Kent,
+
+374
+00:35:12,834 --> 00:35:18,758
+whom Ultraman imprisoned and eventually confessed
+to that he had no real friends. Ultraman and
+
+375
+00:35:18,798 --> 00:35:23,921
+the crime syndicate joined Perpetua, the creator
+of the multiverse, when she and Batman from
+
+376
+00:35:23,981 --> 00:35:30,044
+across the Dark Multiverse attempted to destroy
+it. Owlman, feeling betrayed that he was not
+
+377
+00:35:30,124 --> 00:35:35,968
+one of the Dark Multiverse Batman and seeking
+revenge against Perpetua, shot and killed Ultraman
+
+378
+00:35:36,188 --> 00:35:43,332
+and Superwoman with a gun from Kord. Your deal
+destroyed and recreated Earth-3, whose new
+
+379
+00:35:43,392 --> 00:35:49,036
+version of Ultraman obtained a device that allowed
+him to traverse the multiverse and kill any
+
+380
+00:35:49,096 --> 00:35:54,960
+Superman that he came across. Though Val Zod,
+the black Superman of Earth-2, and Jonathan
+
+381
+00:35:54,980 --> 00:36:00,504
+Kent tried to stop him, Ultraman banished Val
+Zod to the Phantom Zone, and though Jonathan
+
+382
+00:36:00,544 --> 00:36:05,968
+nearly defeated Ultraman, Ultraman was killed
+by the Superman from the Injustice Universe,
+
+383
+00:36:06,108 --> 00:36:12,512
+Earth-49. And that's his backstory. Powers-wise,
+Ultraman's physiology allows him to gain vast
+
+384
+00:36:12,572 --> 00:36:17,976
+power from the radiation of his native planet,
+Krypton. Though he can store that radiation
+
+385
+00:36:18,056 --> 00:36:23,680
+in his body, the presence of Kryptonite strengthens
+him even further. He possesses vast strength
+
+386
+00:36:23,720 --> 00:36:30,144
+and durability, ultra-speed, and flight. He
+also has ultra-senses, such as hearing and
+
+387
+00:36:30,244 --> 00:36:36,209
+sight, and he can emit heat vision from his
+eyes. His one weakness is that his powers will
+
+388
+00:36:36,249 --> 00:36:42,303
+diminish over time without access to kryptonite
+and this accelerates when exposed to solar
+
+389
+00:36:42,363 --> 00:36:49,470
+radiation. He's more powerful in the dark. DC
+has no shame. Like, how dare they rip off a
+
+390
+00:36:49,510 --> 00:36:54,876
+hero- Themselves? His beloved and popular as
+Ultraman. What? The true Ultraman, which is
+
+391
+00:36:54,916 --> 00:36:56,077
+the Japanese Ultraman.
+
+392
+00:36:59,238 --> 00:37:04,282
+Actually, I think our Ultraman came before that
+one. Do you know that for sure? Yes, I do.
+
+393
+00:37:04,783 --> 00:37:10,327
+The Japanese Ultraman came out in 1966. And
+the Silver Age version of Ultraman came out
+
+394
+00:37:10,447 --> 00:37:16,212
+in 1964. So boom, damn it. Everyone copies DC,
+gosh.
+
+395
+00:37:23,746 --> 00:37:28,389
+But now that we've got their histories and abilities
+out of the way, let's speculate on how one
+
+396
+00:37:28,429 --> 00:37:34,493
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not this speculation,
+
+397
+00:37:34,813 --> 00:37:40,657
+but it's fun to imagine how this fight could
+play out. AJ9K, what are the rules of our speculation?
+
+398
+00:37:41,438 --> 00:37:45,441
+Well, I should say there are no rules, other
+than the characters have no prior knowledge
+
+399
+00:37:45,461 --> 00:37:49,864
+of the other going into the fight. All they
+are aware of starting out is that the other
+
+400
+00:37:49,884 --> 00:37:54,971
+character is a threat that needs to be eliminated.
+For the speculation, the contestants will begin
+
+401
+00:37:54,991 --> 00:38:00,075
+approximately 50 meters apart in a non-descript
+environment that will have no bearing on the
+
+402
+00:38:00,095 --> 00:38:05,439
+match itself, as no environmental statistics
+are considered in my simulations. The contestants
+
+403
+00:38:05,499 --> 00:38:10,782
+must earn victory on their own merit. Alright
+then, let's get into it. Ultraman and Hyperion
+
+404
+00:38:11,022 --> 00:38:16,106
+meet on the battlefield. Who goes first? Alright,
+I'm going to say that since Ultraman is more
+
+405
+00:38:16,286 --> 00:38:22,830
+evil and unhinged than Hyperion, he's going
+to go first. He's gonna start by crushing a
+
+406
+00:38:22,890 --> 00:38:27,512
+kryptonite rock that he had and just snorting
+that thing off the back of his hand. So now
+
+407
+00:38:27,532 --> 00:38:33,054
+that he's more powered up, he's gonna ultra-speed
+dash over to Hyperion and just like crush his
+
+408
+00:38:33,135 --> 00:38:38,957
+neck in his bare hands. Where did he get this
+kryptonite rock from? He has a stash of kryptonite
+
+409
+00:38:38,977 --> 00:38:45,620
+that he keeps around him. He knows he needs
+it. Alright. Alright, well Hyperion sees Ultraman
+
+410
+00:38:45,740 --> 00:38:51,995
+do this line of kryptonite crack and Hyperion's
+against it. He's like, drugs are illegal and
+
+411
+00:38:52,535 --> 00:38:58,478
+bad. So he's going to hold out his hand as Ultraman's
+flying at him. And he just catches Ultraman's
+
+412
+00:38:58,538 --> 00:39:03,981
+fist in his palm and uses that momentum to slam
+Ultraman into the ground, just creating this
+
+413
+00:39:04,062 --> 00:39:09,445
+massive crater that shakes whatever planet they're
+onto its core. OK, I mean, that's fine. Ultraman,
+
+414
+00:39:09,605 --> 00:39:14,728
+you know, he's going to ultra spin his body,
+just drilling deep into the ground before he
+
+415
+00:39:14,788 --> 00:39:20,611
+explodes back out right beneath Hyperion, just.
+pushing him into space while heat visioning
+
+416
+00:39:20,651 --> 00:39:27,355
+his face off. Okay, well as Hyperion's being
+carried into space, he's gonna counter Ultraman's
+
+417
+00:39:27,395 --> 00:39:32,778
+heat vision with his atomic vision. And like
+the two eye beams are like canceling each other
+
+418
+00:39:32,918 --> 00:39:37,500
+out and Hyperion is gonna grab Ultraman by the
+head and then he's just gonna head butt the
+
+419
+00:39:37,520 --> 00:39:44,344
+shit out of him, sending Ultraman crashing back
+into the ground from space. And then Hyperion
+
+420
+00:39:44,484 --> 00:39:50,231
+with his eyes still glowing. He's going to fly
+down and slam into Ultraman with this badass
+
+421
+00:39:50,311 --> 00:39:56,554
+superhero landing pose. Except that Ultraman
+sees Hyperion speeding down toward him, and
+
+422
+00:39:56,614 --> 00:40:02,396
+he's going to use his ultra breath to freeze
+Hyperion, causing him to just shatter once
+
+423
+00:40:02,436 --> 00:40:08,199
+he hits the ground. So now there's blood and
+ice everywhere. Yeah, Ultraman's blood. What?
+
+424
+00:40:08,759 --> 00:40:14,441
+Because he just got freaking decimated by a
+Hyperion ice missile. Like, ice isn't really
+
+425
+00:40:14,461 --> 00:40:19,075
+going to hurt. Hyperion like he wouldn't freeze
+through that fast considering his body is built
+
+426
+00:40:19,095 --> 00:40:23,837
+like a nuclear reactor Fine, I guess Ultraman,
+you know has the wind knocked out of him or
+
+427
+00:40:23,877 --> 00:40:29,119
+something. He could withstand nuclear bombs
+Okay. All right. So while Ultraman is winded
+
+428
+00:40:29,639 --> 00:40:35,002
+Hyperion yanks him by the cape and swings him
+around and around and around Choking Ultraman
+
+429
+00:40:35,042 --> 00:40:40,564
+by his collar and then Hyperion let's go the
+cape Tossing him like a hammer throw and sending
+
+430
+00:40:40,684 --> 00:40:47,584
+Ultraman crashing right into a nearby moon.
+On moon? Okay Uh, so Ultraman, you know, he's
+
+431
+00:40:47,664 --> 00:40:52,788
+gonna grab that moon and just hurl it right
+back down toward Hyperion, just annihilating
+
+432
+00:40:52,808 --> 00:40:57,992
+him and the planet he's on. Is he strong enough
+to do that? Yeah, uh, actually Ultraman had
+
+433
+00:40:58,032 --> 00:41:03,537
+to move the moon between the sun and the Earth,
+so that the Earth was in a constant state of
+
+434
+00:41:03,577 --> 00:41:09,461
+eclipse, and so he wouldn't be degraded power-wise.
+Oh, interesting. Okay, well, Hyperion sees
+
+435
+00:41:09,501 --> 00:41:14,105
+that this moon is gonna crash down onto him.
+I don't think he would have any choice but
+
+436
+00:41:14,145 --> 00:41:18,552
+to, like, meet it head on by flying through
+it, kind of like a bullet through a bowling
+
+437
+00:41:18,592 --> 00:41:23,415
+ball type situation, which is, you know, it's
+going to hurt him. Like a bullet is not going
+
+438
+00:41:23,435 --> 00:41:27,177
+to go through a bowling ball unscathed. The
+same goes for Hyperion. You know, it's going
+
+439
+00:41:27,197 --> 00:41:30,959
+to hurt him. He's going to be drained pretty
+badly, but he is going to be angry and he's
+
+440
+00:41:30,979 --> 00:41:36,283
+going to be like, you throw another moon at
+me. I'm going to lose it. So Ultraman throws
+
+441
+00:41:36,303 --> 00:41:43,315
+another moon at Hyperion. What? For where? I
+don't know. But. The thing is, this one randomly
+
+442
+00:41:43,455 --> 00:41:48,920
+happened to be filled with kryptonite. Who knew?
+Oh my God. Basically, when it explodes upon
+
+443
+00:41:48,980 --> 00:41:55,205
+hitting Hyperion, it's going to turn Ultraman
+into like a god and now he's like this reality
+
+444
+00:41:55,245 --> 00:42:01,931
+warping telekinetic and he's going to mentally
+explode Hyperion's atoms across the universe.
+
+445
+00:42:02,451 --> 00:42:08,597
+Just with a thought. Boom. Dude, that's environmental.
+You can't say the moon has kryptonite in it.
+
+446
+00:42:08,617 --> 00:42:12,724
+Like who's to say? I mean, I do. I just I just
+said that. Like you're the one who brought
+
+447
+00:42:12,764 --> 00:42:17,788
+the moon into it. Well, most planets have a
+moon like that seems fairly easy to assume.
+
+448
+00:42:18,289 --> 00:42:23,793
+But also, like you said in Ultraman's bio that
+too much kryptonite exposure paralyzed him
+
+449
+00:42:24,074 --> 00:42:27,637
+because he like developed too many powers at
+once or something. Well, that's a silver age
+
+450
+00:42:27,657 --> 00:42:32,981
+version. I don't care. I want to say instead
+of killing Hyperion, Ultraman's like, eh, it's
+
+451
+00:42:33,021 --> 00:42:39,098
+too much power and he's going to go into a coma,
+at which point Hyperion. It's gonna take this
+
+452
+00:42:39,138 --> 00:42:44,542
+opportunity and he's just gonna fly Hyperion
+into the nearest sun, which is just gonna render
+
+453
+00:42:44,762 --> 00:42:51,907
+Ultraman powerless and like ultra dead. Alright,
+that would definitely kill Ultraman. So yeah,
+
+454
+00:42:51,947 --> 00:42:57,431
+we'll leave it there. Either Ultraman is killed
+by being thrown into a sun and just losing
+
+455
+00:42:57,471 --> 00:43:03,595
+his power from the solar radiation, or he gets
+ultra powered up from a whole bunch of kryptonite
+
+456
+00:43:03,635 --> 00:43:08,918
+around him and just erases Hyperion from existence.
+Yeah, sounds pretty good. Let's go ahead and
+
+457
+00:43:08,998 --> 00:43:14,240
+enter the character stats, run the simulations
+and come back with a winner. AG9K, hit it!
+
+458
+00:43:14,821 --> 00:43:22,644
+Inputting data, running calculations, processing
+results, simulations complete. Okay, so these
+
+459
+00:43:22,704 --> 00:43:28,226
+characters are both Superman, analogs, ripoffs,
+whatever you may want to call them. They're
+
+460
+00:43:28,246 --> 00:43:34,949
+basically Superman. So it's not surprising that
+their stats were basically equal to Superman's.
+
+461
+00:43:35,326 --> 00:43:40,549
+Yeah, they had the same speed, evasiveness,
+durability, strength, damage level, fighting
+
+462
+00:43:40,589 --> 00:43:45,773
+skill, range, versatility. They were pretty
+much a match. Which is pretty rare. Like, we
+
+463
+00:43:45,873 --> 00:43:50,236
+don't come across that too often. We try not
+to. Right. Because if we know the character
+
+464
+00:43:50,256 --> 00:43:54,339
+stats are the same, we run into a situation
+where it's a guaranteed coin flip, you know,
+
+465
+00:43:54,379 --> 00:44:00,223
+50-50 on who wins. But you know, it could still
+be anybody's fight. According to our Instagram
+
+466
+00:44:00,343 --> 00:44:06,860
+poll takers, they believe that Ultraman is ultimately
+going to come out on top in this match. Sixty
+
+467
+00:44:06,900 --> 00:44:12,403
+two percent of those who voted in Ultraman's
+favor. And I'm going to chalk that up to them
+
+468
+00:44:12,443 --> 00:44:20,249
+thinking it was the Japanese Ultraman. There's
+a photo of Ultraman on the pole. I don't really
+
+469
+00:44:20,269 --> 00:44:23,971
+know anything about the Japanese Ultraman, so
+I don't know what his powers are, but I'm still
+
+470
+00:44:23,991 --> 00:44:29,315
+going to say he's more popular. Well, let's
+find out who the winner is. H.E. 9K, the results,
+
+471
+00:44:29,355 --> 00:44:35,836
+please. Hey, you are, sir. All right. The winner.
+between the Crime Syndicate's Ultraman and
+
+472
+00:44:35,876 --> 00:44:44,305
+the Squadron Supreme's Hyperion is... Hyperion!
+Really close though, almost a coin toss, Hyperion
+
+473
+00:44:44,345 --> 00:44:52,753
+won 517 matches out of the 1000 simulations
+whereas Ultraman only won 483. So Hyperion's
+
+474
+00:44:52,793 --> 00:45:01,840
+51.7% over Ultraman's 48.3%. And I knew this
+was gonna happen once I realized that I had
+
+475
+00:45:01,880 --> 00:45:08,565
+to concede Ultraman's intelligent stat. He's
+definitely not as smart as Superman, so we
+
+476
+00:45:08,585 --> 00:45:14,149
+figured he's not as smart as Hyperion. Yeah,
+Hyperion's not the sharpest tool in the shed,
+
+477
+00:45:14,269 --> 00:45:18,572
+you know. He was the one who thought that it
+would be a good idea to essentially become
+
+478
+00:45:18,592 --> 00:45:23,855
+a dictator over an authoritarian state, but
+he's also not so stupid to think that he can
+
+479
+00:45:23,955 --> 00:45:30,035
+punch an antimatter wave and have that be okay.
+Yeah, that was kind of humorous when I read
+
+480
+00:45:30,075 --> 00:45:36,539
+that. So, I mean, I guess I can't be too bummed.
+The good guy won, even if it is a Marvel guy.
+
+481
+00:45:36,699 --> 00:45:41,182
+Still a rip off, though. Essentially, you could
+say Superman wins in the end in this match.
+
+482
+00:45:41,722 --> 00:45:48,826
+No, I period would beat him to what? No, no,
+he loses just on originality points alone.
+
+483
+00:45:49,086 --> 00:45:53,929
+Like that needs to be a new stat originality.
+DC is going to top out Marvel every time in
+
+484
+00:45:53,969 --> 00:45:57,918
+that stat. As we've said many times on the show,
+it's not about who does it first. It's about
+
+485
+00:45:57,938 --> 00:46:02,920
+who does it better. And if there was a quality
+stat, Marvel would be higher because their
+
+486
+00:46:02,940 --> 00:46:08,401
+characters are just better. So it would even
+out. If you're arguing that Hyperion is better
+
+487
+00:46:08,821 --> 00:46:13,643
+than Superman. Yes. I would have fucked. Duh.
+Obviously. Next time I see you, when's the
+
+488
+00:46:13,683 --> 00:46:20,004
+next family dinner? Be prepared. I'm not afraid
+of you. Well, I guess that does it for this
+
+489
+00:46:20,104 --> 00:46:24,505
+duel. Let us know what you thought about the
+results by writing to us at Dynamic Duel Podcast.
+
+490
+00:46:24,894 --> 00:46:30,036
+at gmail.com or by visiting us on Instagram,
+which you could find a link to in our show
+
+491
+00:46:30,076 --> 00:46:35,538
+notes or by visiting our website at dynamic
+duel.com. And on our site, you could also find
+
+492
+00:46:35,598 --> 00:46:39,620
+a link to our Patreon page where you could join
+our dynamic two tier and chat with us and fellow
+
+493
+00:46:39,660 --> 00:46:44,822
+listeners are fantastic for tier, which gives
+you bonus content each month, our X force tier
+
+494
+00:46:44,842 --> 00:46:49,144
+that makes you an executive producer of this
+podcast, or our newest here that lets you join
+
+495
+00:46:49,204 --> 00:46:55,227
+our dynamic podcast network. Please don't forget
+to rate the show. on Apple podcasts, Spotify,
+
+496
+00:46:55,547 --> 00:47:01,732
+Podchaser, or on our website. Next week's episode
+is gonna be another duel, another multiversal
+
+497
+00:47:01,772 --> 00:47:05,855
+duel, where we pit two characters outside of
+the main Marvel and DC continuity against each
+
+498
+00:47:05,895 --> 00:47:11,939
+other. This time we're going to find out who'd
+win in a fight between Rocket, who is the sidekick
+
+499
+00:47:11,979 --> 00:47:19,544
+to Icon. Yeah, from Milestone Comics. Versus
+Spider-Gwen, who everybody knows is a popular
+
+500
+00:47:19,604 --> 00:47:24,627
+Spider-themed multiversal character. And of
+course, that episode is in lead up to Madam
+
+501
+00:47:24,647 --> 00:47:29,049
+Web, which we'll be reviewing the week after.
+But that does it for this episode. We want
+
+502
+00:47:29,069 --> 00:47:33,530
+to give a big thanks to our executive producers,
+Ken Johnson, John Storowski, Zachary Hepburn,
+
+503
+00:47:33,650 --> 00:47:39,293
+Dustin Belcombe, Miggy Mattenkian, Brandon Estergard,
+Nathaniel Wagner, Levi Yaton, Nick Abato, Austin
+
+504
+00:47:39,333 --> 00:47:45,695
+Wazilowski, AJ Dunkerley, Scott Camacho, Adam
+Spies, Andrew Shunk, and Dean Molesky for helping
+
+505
+00:47:45,715 --> 00:47:50,897
+make this podcast possible. And we'll talk to
+you guys next week. Up up and away, true believers.
+
+506
+00:47:51,606 --> 00:47:53,968
+Watch me lean and watch me rock Superman that
+hoe.
+
