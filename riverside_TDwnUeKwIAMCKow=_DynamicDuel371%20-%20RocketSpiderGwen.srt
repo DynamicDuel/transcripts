@@ -1,0 +1,2726 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a Dynamike Network podcast.
+
+2
+00:00:24,270 --> 00:00:28,493
+Hi and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+3
+00:00:28,693 --> 00:00:33,697
+and debate the superiority between Marvel and
+DC by comparing their characters in stat-based
+
+4
+00:00:33,817 --> 00:00:40,042
+battle simulations. I'm Marvelous Joe. And I'm
+his twin brother, Johnny DC. And in this episode,
+
+5
+00:00:40,062 --> 00:00:46,027
+we're going to find out who'd win in a fight
+between the multiversal characters of Rocket
+
+6
+00:00:46,127 --> 00:00:51,583
+from Milestone Comics and Spider-Gwen. from
+Marvel Comics, but from an alternate universe.
+
+7
+00:00:51,723 --> 00:00:55,425
+Yeah, this is the second week we're pitting
+multiversal characters against each other.
+
+8
+00:00:55,565 --> 00:01:01,228
+Of course, last week we pit Ultraman against
+Hyperion. This week we wanted to do a Spider-Girl
+
+9
+00:01:01,288 --> 00:01:06,992
+type episode in lead up to our next episode,
+which is a review of Madame Web, which takes
+
+10
+00:01:07,032 --> 00:01:12,735
+place, you could say, in an MCU adjacent universe
+made by Sony. Right, yeah, we're trying to
+
+11
+00:01:12,775 --> 00:01:18,682
+squeeze in these multiversal duels, considering
+that both Madame Web and the recent DC animated
+
+12
+00:01:18,722 --> 00:01:23,743
+movie that came out, Crisis on Infinite Earths,
+deal with comic book and movie multiverses.
+
+13
+00:01:23,883 --> 00:01:27,324
+Both of these characters are pretty awesome,
+so I'm really interested in seeing who will
+
+14
+00:01:27,344 --> 00:01:30,525
+win. But we'll figure that out later on. Before
+that, we're going to break down the latest
+
+15
+00:01:30,565 --> 00:01:36,267
+comic book movie news to come out this past
+week, including the incredible trailer that
+
+16
+00:01:36,307 --> 00:01:40,108
+we got over the Super Bowl for Deadpool and
+Wolverine. That's the name of the movie now.
+
+17
+00:01:40,128 --> 00:01:44,389
+It's no longer Deadpool 3. It's Deadpool and
+Wolverine. Can't wait to talk about that. We
+
+18
+00:01:44,449 --> 00:01:49,244
+also got confirmation. from Matt Shackman who's
+gonna direct the upcoming Fantastic Four movie
+
+19
+00:01:49,504 --> 00:01:54,928
+that Pedro Pascal is indeed confirmed to be
+playing Mr. Fantastic. Yeah, a lot of big Marvel
+
+20
+00:01:54,948 --> 00:01:59,831
+news this episode. As always, we list our segment
+times in our episode description, so feel free
+
+21
+00:01:59,851 --> 00:02:04,554
+to check out the show notes if you want to skip
+ahead to a particular topic. Our artificially
+
+22
+00:02:04,574 --> 00:02:11,590
+intelligent dual simulator AJ9K has a quick
+message for our listeners, so listen up. Why
+
+23
+00:02:11,630 --> 00:02:16,452
+hello there. Do you love listening and chatting
+about Marvel and DC? Then become a part of
+
+24
+00:02:16,472 --> 00:02:21,574
+the dynamic dual community on Patreon, where
+you can choose from three tiers. The dynamic
+
+25
+00:02:21,614 --> 00:02:26,996
+2-0 tier lets you listen to this podcast without
+ads and gives you access to its Discord chat
+
+26
+00:02:27,016 --> 00:02:31,998
+group, where you can chat with Johnny DC and
+Marvelous Joe. The fantastic 4 tier gives you
+
+27
+00:02:32,018 --> 00:02:37,160
+that and more with two bonus episodes each month,
+including bloopers and top 10 shows where Johnny
+
+28
+00:02:37,180 --> 00:02:41,730
+and Joe count down your favorite Marvel and
+DC subjects. The X-Force tier makes you an
+
+29
+00:02:41,790 --> 00:02:46,624
+executive producer of Dynamic Duel, where every
+month you help the hosts choose what to review
+
+30
+00:02:46,885 --> 00:02:52,627
+and who to fight against each other. And finally,
+the Dynamike Podcast Network tier allows aspiring
+
+31
+00:02:52,667 --> 00:02:57,968
+podcasters to create their own battle-focused
+show using this Monte Carlo simulator. Johnny
+
+32
+00:02:57,988 --> 00:03:02,590
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+33
+00:03:02,630 --> 00:03:07,351
+simulation results to announce on your show.
+Pitch the twins your show via email at dyna
+
+34
+00:03:07,671 --> 00:03:14,193
+or by reaching out to them on social media.
+Check it out at patreon.com slash dynamicduel.
+
+35
+00:03:14,493 --> 00:03:21,283
+Pip pip cheerio! Thanks AJ9K, and thanks to
+everyone who supports the podcast. Guys, be
+
+36
+00:03:21,303 --> 00:03:25,785
+sure to tune into the Max Destruction Podcast,
+which is part of the Dynamike Podcast Network,
+
+37
+00:03:26,165 --> 00:03:29,987
+which pits your favorite action heroes from
+film and television against each other. This
+
+38
+00:03:30,047 --> 00:03:36,349
+week, hosts Ken and his wife put together a
+Valentine's Day episode, where they all find
+
+39
+00:03:36,389 --> 00:03:43,552
+out who'd win in a fight between Lisa from Weird
+Science and Hollywood from Cool World. Battle
+
+40
+00:03:43,572 --> 00:03:48,907
+of the Babes. And on the Send Your World Podcast.
+Host Zachary Hepburn speculates on fights between
+
+41
+00:03:49,107 --> 00:03:53,328
+your favorite anime characters. Zach's a little
+under the weather this week, so there will
+
+42
+00:03:53,348 --> 00:03:58,331
+be no new episode of Send Your World this Thursday,
+but that'll give you guys a chance to get caught
+
+43
+00:03:58,371 --> 00:04:03,813
+up on past episodes if you're not already. And
+on the Console Combat Podcast, hosts John and
+
+44
+00:04:03,833 --> 00:04:08,075
+Dean find out who'd win in fights between your
+favorite video game characters. In yesterday's
+
+45
+00:04:08,115 --> 00:04:14,157
+episode, they held their very first championship
+matchup between Scorpion for Mortal Kombat
+
+46
+00:04:14,578 --> 00:04:21,862
+against Ezio from Assassin's Creed. Visit dynamicpodcasts.com
+or click the link in our show notes to listen
+
+47
+00:04:21,902 --> 00:04:26,824
+to all of the shows in the Dynamike Podcast
+Network. But with that out of the way, quick
+
+48
+00:04:27,004 --> 00:04:33,768
+to the No Prize! A No Prize is an award Marvel
+used to give out to fans. Our version, the
+
+49
+00:04:33,808 --> 00:04:38,891
+Dynamic Duel No Prize, is a digital award we
+post on Instagram for the person that we feel
+
+50
+00:04:38,911 --> 00:04:43,902
+gave the best answer to our question of the
+week. Last week we asked... Who has been your
+
+51
+00:04:43,962 --> 00:04:49,805
+favorite Supergirl actress across film and television
+and why? And this is coming off of the news
+
+52
+00:04:50,145 --> 00:04:55,628
+that Millie Alcock has been cast as Supergirl
+for James Gunn's DCU. We got four answers,
+
+53
+00:04:55,648 --> 00:04:59,590
+so we're going to break down the honorable mentions
+before revealing this week's no prize winner.
+
+54
+00:05:00,090 --> 00:05:06,474
+Our first honorable mention goes to Travis Herndon
+who said, Hey guys, Travis here. So my pick
+
+55
+00:05:06,494 --> 00:05:11,136
+would have to be the Supergirl from the Flash
+movie, although she's not the one that we all
+
+56
+00:05:11,156 --> 00:05:18,048
+know with the blonde hair and the skirt. was
+a pretty bad ass version of Supergirl and honestly
+
+57
+00:05:18,108 --> 00:05:25,592
+it's a shame that we won't see her in this James
+Gunn DCU but hey, hey maybe the actress might
+
+58
+00:05:25,632 --> 00:05:29,414
+come back as I don't know maybe like Wonder
+Woman's daughter or something but she's my
+
+59
+00:05:29,454 --> 00:05:35,158
+favorite she's just an all around badass Latino
+hero. Yes so Sasha Kaia played Supergirl in
+
+60
+00:05:35,178 --> 00:05:40,581
+the recent flash film that came out last year
+she didn't have the largest role in the movie
+
+61
+00:05:40,661 --> 00:05:45,564
+but the time she did have on screen. I thought
+she did a phenomenal job with. Yeah, she didn't
+
+62
+00:05:45,584 --> 00:05:50,328
+look like your typical super girl who is portrayed
+in the comics, usually as having long blonde
+
+63
+00:05:50,368 --> 00:05:54,632
+hair and wearing a red skirt and stuff like
+that. But I thought Sasha Kaia fucking killed
+
+64
+00:05:54,692 --> 00:06:00,637
+it as this analog to Henry Cavill's Superman
+within this newly created timeline that The
+
+65
+00:06:00,657 --> 00:06:04,861
+Flash started when he went back in time. Yeah,
+the character herself is actually based on
+
+66
+00:06:04,981 --> 00:06:09,625
+a design from the Injustice comics. She was
+Superman's daughter. And I thought they nailed
+
+67
+00:06:09,645 --> 00:06:14,573
+that design. perfectly. She looked incredible
+in the movie. So great answer, Travis. Our
+
+68
+00:06:14,653 --> 00:06:20,278
+next honorable mention goes to Miggie Mathingian,
+who said, Hey, what's up, guys? This is Miggie.
+
+69
+00:06:20,638 --> 00:06:25,423
+And my favorite Supergirl actress would probably
+be Summer Glau. I think that's how you pronounce
+
+70
+00:06:25,483 --> 00:06:31,168
+it. From Superman, Batman, Apocalypse. I think
+she just had the best job or did the best job
+
+71
+00:06:32,229 --> 00:06:37,133
+displaying like a full range of emotions from
+her fear and confusion from first landing here
+
+72
+00:06:37,153 --> 00:06:44,418
+on Earth. to her grief at the death of her friend
+and to her anger at fighting Darkseid at the
+
+73
+00:06:44,479 --> 00:06:49,623
+last battle. Thanks guys. Yeah, Superman Batman
+Apocalypse is an animated film that was based
+
+74
+00:06:49,803 --> 00:06:55,727
+on a comic run written by Jeff Loeb, if I'm
+not mistaken. It was a fantastic run. It reintroduced
+
+75
+00:06:55,807 --> 00:07:02,413
+the character of Kara Zor-El to the main DC
+continuity. And yeah, it was a great like origin
+
+76
+00:07:02,453 --> 00:07:07,022
+story for the character. They did a great job
+adapting it to the animated film. And there's
+
+77
+00:07:07,062 --> 00:07:13,124
+been a lot of great actresses to do voiceover
+work for the character of Supergirl. In this
+
+78
+00:07:13,164 --> 00:07:19,186
+movie, in DC Superhero Girls, in the Superman
+animated series, they've all done a fantastic
+
+79
+00:07:19,226 --> 00:07:24,208
+job. And the recent Legion of Superheroes film
+that takes place in the Tomorrowverse. Oh,
+
+80
+00:07:24,228 --> 00:07:29,369
+that's right. That was voiced by Megan Donnelly,
+the actress who almost became Supergirl in
+
+81
+00:07:29,429 --> 00:07:33,752
+live action. Now we haven't reviewed Superman
+Batman Apocalypse yet, but it is definitely
+
+82
+00:07:33,932 --> 00:07:40,576
+on our list of animated DC films to eventually
+get to. We only have about like 50 projects
+
+83
+00:07:40,636 --> 00:07:47,019
+left to review for Marvel and DC that aren't
+new, so not too many. I imagine we'll get through
+
+84
+00:07:47,059 --> 00:07:53,003
+quite a few this year considering how few theatrical
+releases DC and Marvel are putting out. Yeah
+
+85
+00:07:53,023 --> 00:07:57,265
+for sure. Great answer, Miggy. But the winner
+of this week's Snow Prize goes to two people.
+
+86
+00:07:57,718 --> 00:08:03,240
+both Abner O'Terry and Peter Troll who both
+gave the same answer. And they said, Hey guys,
+
+87
+00:08:03,280 --> 00:08:10,683
+it's Abner O'Terry. My answer is Melissa Pinoist
+because she was able to be funny and smart
+
+88
+00:08:11,403 --> 00:08:20,607
+and her relationships with her adopted sister
+and the rest of the cast were just phenomenal.
+
+89
+00:08:21,228 --> 00:08:28,167
+Hey guys, it's Peter. My answer for the best
+Supergirl. is probably Melissa Benoist from
+
+90
+00:08:28,207 --> 00:08:33,350
+the CW show. I thought she looked the part,
+I thought she played the part very well, and
+
+91
+00:08:33,370 --> 00:08:39,013
+something about those CW shows just really have
+a grip on my heart. But also, I may be a little
+
+92
+00:08:39,033 --> 00:08:43,436
+biased because I thought she was cute and maybe
+had a little crush. But yeah, Melissa Benoist
+
+93
+00:08:43,496 --> 00:08:48,959
+is my choice. Thanks, guys. So, normally I like
+to give points for originality here, but it
+
+94
+00:08:48,979 --> 00:08:54,934
+was really hard not to award the answer of Melissa
+Benoist! Because yeah, who doesn't have a crush
+
+95
+00:08:55,014 --> 00:08:59,675
+on her? She did a fantastic job in the role
+of Supergirl. Honestly, I think she's the best
+
+96
+00:08:59,755 --> 00:09:04,096
+actress to play the character ever. Well, she
+certainly has had the most substantial role
+
+97
+00:09:04,176 --> 00:09:10,038
+as Supergirl, considering she had so many seasons
+on her own television series. Right, as compared
+
+98
+00:09:10,058 --> 00:09:15,779
+to someone like Helen Slater who had her own
+movie, but the movie was terrible. The Supergirl
+
+99
+00:09:15,799 --> 00:09:22,121
+show wasn't for the most part. Yeah, here are
+the first few seasons. Like all of the DCCW
+
+100
+00:09:22,161 --> 00:09:26,450
+shows were actually pretty good. Yes, yeah,
+that is correct. So congrats to Abner O'Terry
+
+101
+00:09:26,550 --> 00:09:30,636
+and Peter Troll. Both of you win this week's
+no prize. If you, the listener, want a shot
+
+102
+00:09:30,656 --> 00:09:34,282
+at winning your own no prize, stay tuned to
+later on this episode when we'll be asking
+
+103
+00:09:34,322 --> 00:09:38,789
+another question of the week. And now that that's
+done, onto the news.
+
+104
+00:09:44,226 --> 00:09:49,490
+All right, this past week, right before the
+big game, we got the official teaser for the
+
+105
+00:09:49,590 --> 00:09:53,794
+upcoming Deadpool and Wolverine movie. Now,
+you know, we've been calling it Deadpool 3
+
+106
+00:09:53,834 --> 00:09:57,257
+this whole time, but it was announced with this
+teaser that the movie is officially called
+
+107
+00:09:57,397 --> 00:10:02,862
+Deadpool and Wolverine. So they split the billing.
+That's pretty cool. The trailer was great.
+
+108
+00:10:03,182 --> 00:10:07,265
+I'm so excited to get into this. Yeah, the name
+is kind of smart, I would say, just because
+
+109
+00:10:07,286 --> 00:10:12,894
+of how big of a name Wolverine is. I would still
+say as popular as Deadpool is, His name isn't
+
+110
+00:10:12,934 --> 00:10:17,577
+quite as big as Wolverine, so I think that's
+a huge selling point. And what's funny is that
+
+111
+00:10:17,637 --> 00:10:22,841
+earlier this year, Hugh Jackman released a video
+and he inadvertently called the movie Wolverine
+
+112
+00:10:22,881 --> 00:10:27,304
+and Deadpool, so I wonder if that's going to
+be kind of like a running gag where they kind
+
+113
+00:10:27,324 --> 00:10:33,348
+of fight over who gets top billing. Yeah, that'd
+be great. The teaser trailer starts off with
+
+114
+00:10:33,468 --> 00:10:39,832
+Deadpool's birthday, and everyone from X-Force
+is there, including Shatterstar, Pete, Doepinder's
+
+115
+00:10:39,872 --> 00:10:45,167
+there, Vanessa's back. It looks like At the
+end of Deadpool 2, he used Cable's time sliding
+
+116
+00:10:45,207 --> 00:10:49,629
+device to basically save all of his friends.
+Yeah, I was really surprised to see characters
+
+117
+00:10:49,669 --> 00:10:54,611
+like Shatterstar, but definitely implied that
+yeah he probably broke some TVA rules saving
+
+118
+00:10:54,671 --> 00:11:00,874
+all of his friends from death. Which is why
+the TVA shows up at his house and we get one
+
+119
+00:11:00,894 --> 00:11:05,736
+of the best gags in the entire Deadpool franchise
+just in this teaser where he's like, is that
+
+120
+00:11:05,756 --> 00:11:10,230
+supposed to scare anybody? Piggings not new
+to me, friendo, but it is to Disney. and he
+
+121
+00:11:10,250 --> 00:11:15,614
+looks at the camera breaking the fourth wall.
+So good. And it was in continuity because we
+
+122
+00:11:15,674 --> 00:11:21,620
+saw him be pegged in the first Deadpool movie
+on International Women's Day. So good on them
+
+123
+00:11:21,640 --> 00:11:26,704
+for sticking to the established canon. It was
+also a nice way to just right off the bat address
+
+124
+00:11:26,764 --> 00:11:34,071
+the whole purchase of Fox by Disney between
+Deadpool 2 and 3. Well, actually they address
+
+125
+00:11:34,091 --> 00:11:39,422
+that in Once Upon a Deadpool. Oh, I never saw
+that. Yeah. Well, it was the PG-13 of Deadpool
+
+126
+00:11:39,462 --> 00:11:43,543
+2 that they released around the holidays when
+Deadpool 2 came out. He basically stated in
+
+127
+00:11:43,583 --> 00:11:49,145
+that movie that the reason they wanted to do
+a PG-13 version was because of Disney. Okay.
+
+128
+00:11:49,165 --> 00:11:53,566
+Yeah, I wonder if that's canon. I don't know,
+but I'm glad to see that this movie obviously
+
+129
+00:11:53,606 --> 00:11:59,268
+will not be PG-13. I'm glad that Deadpool is
+sticking to its hard R roots. Because honestly,
+
+130
+00:11:59,668 --> 00:12:03,989
+Once Upon Deadpool wasn't that great. It was
+okay. But in this teaser, Deadpool gets taken
+
+131
+00:12:04,009 --> 00:12:08,604
+to the TVA. where he's talking to some guy.
+I kind of wish that the guy in the chair talking
+
+132
+00:12:08,644 --> 00:12:14,389
+to him was Mobius, who is a character played
+by Owen Wilson in the Loki television series,
+
+133
+00:12:14,509 --> 00:12:18,272
+but it's not. He's some British dude. There's
+a great gag there where he tells Deadpool that
+
+134
+00:12:18,292 --> 00:12:22,476
+he sold himself while unconscious, and he's
+like, I wasn't unconscious, where am I? So
+
+135
+00:12:22,656 --> 00:12:28,761
+good. Dude, that's not just some dude. That's
+fucking Matthew McFadden, the recent Emmy winner
+
+136
+00:12:28,801 --> 00:12:35,670
+for Secession. He's a fantastic actor. I don't
+give a fuck who that is. You will you will
+
+137
+00:12:35,990 --> 00:12:40,752
+the guy is just an incredible actor. I think
+he's gonna kill it in this role Yeah, sure.
+
+138
+00:12:40,772 --> 00:12:44,614
+You still should have been Mobius. I mean isn't
+Owen Wilson supposed to have a cameo in this
+
+139
+00:12:44,654 --> 00:12:48,876
+movie Yeah, but like, you know, he could have
+had a substantial role here I don't know what
+
+140
+00:12:48,896 --> 00:12:55,199
+kind of story they're setting up but apparently
+Deadpool has to help save the MCU For some
+
+141
+00:12:55,219 --> 00:13:00,181
+reason and he calls himself Marvel Jesus, which
+is kind of funny I don't quite know what the
+
+142
+00:13:00,201 --> 00:13:05,511
+threat is though because we see him take on
+the TVA itself for a vast majority of this
+
+143
+00:13:05,551 --> 00:13:10,372
+teaser. There's a lot of quick shots of him
+like suiting up and then we see him in this
+
+144
+00:13:10,412 --> 00:13:16,914
+swanky place, what appears to be a Magi-Pore
+casino because we see him approaching Wolverine
+
+145
+00:13:17,034 --> 00:13:21,115
+in his Patch persona from behind. So that's
+pretty cool. We're going to see Hugh Jackman
+
+146
+00:13:21,175 --> 00:13:26,897
+not only in his comic accurate Wolverine get
+up, but we also get to see his alter ego of
+
+147
+00:13:26,997 --> 00:13:33,199
+Patch. How do you know it's Patch? Because Wolverine's
+persona of Patch wears a white suit. Oh, okay.
+
+148
+00:13:34,159 --> 00:13:38,161
+I just love the suit up scene where it's like
+something from Batman Forever or Batman and
+
+149
+00:13:38,181 --> 00:13:42,003
+Robin or just different like closeups. But there's
+also a scene where like someone's like slapping
+
+150
+00:13:42,043 --> 00:13:47,385
+his ass just like randomly tossed in there.
+And then Kim doing the splits and like sliding
+
+151
+00:13:47,485 --> 00:13:54,128
+upwards and doing like a dance move. I felt
+that, I felt it. I was like, hell yeah. It
+
+152
+00:13:54,188 --> 00:14:00,018
+looks like actually both Deadpool and Wolverine
+get pruned. and go to the void at the end of
+
+153
+00:14:00,079 --> 00:14:05,743
+time, where it's kind of post-apocalyptic. We
+see the 20th century Fox logo there, just in
+
+154
+00:14:05,763 --> 00:14:10,787
+the sand. We do see what I think is Eliath for
+a brief shot, taking out one of the TVA members.
+
+155
+00:14:10,947 --> 00:14:15,711
+And I think a vast majority of the film takes
+place in the void. And it seems like the film
+
+156
+00:14:15,731 --> 00:14:20,155
+was mainly about escaping it. Which is honestly
+pretty cool. I love the fact that we get to
+
+157
+00:14:20,195 --> 00:14:26,720
+see other X-Men characters there, like fucking
+Pyro. That was a surprise. Yeah, Aaron Stanford
+
+158
+00:14:26,760 --> 00:14:31,598
+as Pyro makes a guest appearance here. That
+was great. Cool to see him back. I can't wait
+
+159
+00:14:31,618 --> 00:14:37,620
+to see everyone back. It's gonna be the No Way
+Home of X-Men movies. And it seems like it's
+
+160
+00:14:37,640 --> 00:14:42,082
+gonna be even bigger than that. Well, I mean,
+the X-Men franchise has already had its No
+
+161
+00:14:42,122 --> 00:14:47,984
+Way Home movie in days of future past, where
+you got a merger of the two big franchises,
+
+162
+00:14:48,024 --> 00:14:52,965
+like with James McAvoy and Patrick Stewart and
+Michael Fassbender and Dean McKellen. But Deadpool
+
+163
+00:14:52,985 --> 00:14:58,352
+3 also has the other. task of merging the Foxverse
+with the MCU. It looks like a whole lot of
+
+164
+00:14:58,372 --> 00:15:03,154
+fun. I really like the last shot where Deadpool's
+like injured, hurt on his back and he's like,
+
+165
+00:15:03,174 --> 00:15:07,116
+don't just stand there, Harry Ape help me up.
+And Wolverine unsheathes his claws and he's
+
+166
+00:15:07,136 --> 00:15:13,320
+like, oh never mind, I'm fine. Great way to
+segue into the title card of the film, which
+
+167
+00:15:13,360 --> 00:15:18,523
+again revealed the new title Deadpool and Wolverine.
+As well as the release date, which we all know
+
+168
+00:15:18,643 --> 00:15:24,574
+of July 26th. It's coming out this summer. Cannot
+wait. I'm so hyped for it. I hope a lot of
+
+169
+00:15:24,594 --> 00:15:29,216
+people saw this trailer and are also hyped as
+well because, you know, a lot of people are
+
+170
+00:15:29,256 --> 00:15:33,437
+kind of souring on the MCU as a whole and it'll
+be great to have them back. Yeah, it does kind
+
+171
+00:15:33,477 --> 00:15:39,640
+of seem like this movie will in fact be Marvel
+Jesus. It'll save the MCU. Right. It almost
+
+172
+00:15:39,680 --> 00:15:44,882
+makes me wonder if like Ryan Reynolds has been
+telling Kevin Feige that, yeah, make these
+
+173
+00:15:45,342 --> 00:15:50,865
+upcoming Marvel projects like really sucky so
+that my movie can save it. Obviously, that's
+
+174
+00:15:50,925 --> 00:15:55,583
+not the case, but it almost feels that way.
+I was wondering if the TVA is like, oh, these
+
+175
+00:15:55,783 --> 00:15:58,725
+projects have been sucking. Like we need you
+to save it. And he's like, yeah, I'm going
+
+176
+00:15:58,745 --> 00:16:04,608
+to save it. I do have to say that I'm kind of
+bummed that they didn't show the last shot
+
+177
+00:16:04,708 --> 00:16:10,211
+of Wolverine in costume as brief as that was
+during the Super Bowl teaser, because, you
+
+178
+00:16:10,231 --> 00:16:13,573
+know, it was much shorter what they showed on
+television. And then they were like, see the
+
+179
+00:16:13,593 --> 00:16:17,916
+full trailer online. I hate when they do that.
+I know it's a way for the studio to save money
+
+180
+00:16:17,936 --> 00:16:22,518
+because those Super Bowl commercial admin, it's
+are pretty pricey. But still they should have
+
+181
+00:16:22,739 --> 00:16:26,903
+shown that specific shot because everyone who
+saw that would have gotten totally pumped up.
+
+182
+00:16:27,704 --> 00:16:31,908
+Now you gotta save the money shot for later.
+It's just a teaser. Just tease them and keep
+
+183
+00:16:31,928 --> 00:16:36,192
+them coming back for more. We'll see Wolverine
+in costume and I bet you it'll be in the next
+
+184
+00:16:36,272 --> 00:16:40,497
+trailer that we get. Hopefully, it will be.
+You're probably right. But the teaser trailer
+
+185
+00:16:40,517 --> 00:16:44,881
+looked great, super pumped. It was super funny.
+And that brings us to our question of the week.
+
+186
+00:16:49,314 --> 00:16:54,138
+What has been your favorite Deadpool joke out
+of all Deadpool media? There's been a lot of
+
+187
+00:16:54,158 --> 00:16:57,781
+them out there. There was the video game, the
+Deadpool movies, there's the Deadpool comics.
+
+188
+00:16:58,302 --> 00:17:02,986
+What made you laugh the hardest and why? Yeah,
+even the Deadpool teaser trailers. Why not?
+
+189
+00:17:03,446 --> 00:17:07,570
+Record your answer at dynamicduel.com by clicking
+on the red microphone button in the bottom
+
+190
+00:17:07,610 --> 00:17:11,814
+right hand corner of the screen, which will
+prompt you to leave us a voicemail. Your message
+
+191
+00:17:11,834 --> 00:17:15,477
+could be up to 30 seconds long, and don't forget
+to leave your name in case we include you on
+
+192
+00:17:15,497 --> 00:17:19,916
+the podcast. We'll pick our favorite answer
+and award that person a dynamic duel no prize
+
+193
+00:17:20,236 --> 00:17:26,301
+that we'll post to Instagram. Be sure to answer
+before February 17th. In other news from Marvel
+
+194
+00:17:26,321 --> 00:17:31,585
+coming out this past week, we got a confirmation
+not only from the Screen Actors Guild of America,
+
+195
+00:17:31,885 --> 00:17:37,149
+but also the director of Fantastic Four himself,
+Matt Shacman, that Pedro Pascal has been cast
+
+196
+00:17:37,289 --> 00:17:44,511
+as Reed Richards' Mr. Fantastic in the upcoming
+Fantastic Four film. Now... This has been rumored
+
+197
+00:17:44,571 --> 00:17:49,875
+for a couple of months now. The news was previously
+dropped by Deadline, I believe, or Variety.
+
+198
+00:17:50,035 --> 00:17:54,519
+They reported that Pedro Pascal was in talks
+to play the character. But you know, when the
+
+199
+00:17:54,559 --> 00:17:59,303
+director tweets out that the actor is playing
+the role, it's pretty much confirmed. Loathe
+
+200
+00:17:59,363 --> 00:18:04,107
+as I am to say that Pedro Pascal got the role
+because I was really hoping for John Krasinski
+
+201
+00:18:04,147 --> 00:18:09,931
+to return as Mr. Fantastic from his cameo in
+Dr. Strange and the Multiverse of Venice, but
+
+202
+00:18:10,592 --> 00:18:16,476
+I am a Pedro Pascal fan. Yeah. The dude is hella
+cool. Like when I grew up, I wanna be Pedro
+
+203
+00:18:16,516 --> 00:18:22,279
+Pascal. He does not necessarily look the part
+of Reed Richards, at least not as I know him
+
+204
+00:18:22,319 --> 00:18:27,982
+from the comics. That's not to say that the
+man cannot play this role. He looks like him
+
+205
+00:18:28,062 --> 00:18:32,945
+enough, and I think he can act the shit out
+of this role. Oh, absolutely. Honestly, if
+
+206
+00:18:32,965 --> 00:18:37,848
+you had to give me a choice between who's more
+charismatic, Pedro Pascal or John Krasinski,
+
+207
+00:18:38,268 --> 00:18:43,218
+Pedro Pascal. Honestly, I feel like... The whole
+reason he was cast was sort of to be like a
+
+208
+00:18:43,338 --> 00:18:49,520
+new Robert Downey Jr. esque replacement for
+the MCU. Yeah, maybe. I mean, you want as many
+
+209
+00:18:49,560 --> 00:18:54,382
+charismatic lead actors in these franchises
+as you can get with all the actors that you
+
+210
+00:18:54,422 --> 00:18:59,543
+have at your disposal. Someone like Pedro Pascal
+is certainly more charismatic than say Adam
+
+211
+00:18:59,583 --> 00:19:04,965
+Driver, who was previously rumored to be offered
+the role of Mr. Fantastic. And honestly, yeah,
+
+212
+00:19:05,345 --> 00:19:09,943
+I am glad that Pedro Pascal got it over Adam
+Driver. He's a little bit older, but, you know,
+
+213
+00:19:10,083 --> 00:19:16,147
+not as old as, say, Robert Downey Jr. Yeah.
+Now, Pedro Pascal is no stranger to the world
+
+214
+00:19:16,227 --> 00:19:21,590
+of comic book movies. He did play the villain
+of Maxwell Lord in the Wonder Woman 1984 film.
+
+215
+00:19:22,091 --> 00:19:28,235
+And he was one of the best parts of that movie.
+Yeah, sure. Well, I mean, I guess there was
+
+216
+00:19:28,295 --> 00:19:31,917
+no good part of that movie, honestly. Shut the
+hell up. But I think Pedro Pascal will make
+
+217
+00:19:31,938 --> 00:19:36,861
+a better Reed Richards than he did Maxwell Lord.
+I'm sure he'll nail the role. Yeah. Now, joining
+
+218
+00:19:36,941 --> 00:19:44,523
+Pedro Pascal. Rounding out the Fantastic Four
+cast, allegedly is Vanessa Kirby as the Invisible
+
+219
+00:19:44,543 --> 00:19:49,105
+Woman. Which is perfection. I woulda know, I
+don't think I've seen her in anything. She
+
+220
+00:19:49,125 --> 00:19:55,366
+was in The Crown. I'm ashamed that I know that.
+Um, but no, she's fantastic. I think she's
+
+221
+00:19:55,386 --> 00:19:59,988
+gonna be great in the role. Joseph Quinn will
+be playing the Human Torch, who I'm also not
+
+222
+00:20:00,028 --> 00:20:05,889
+familiar with, and I hope I'm pronouncing this
+right, Ebon Moss-Bachrock will be playing the
+
+223
+00:20:05,929 --> 00:20:11,427
+Thing. who I am familiar with because he played
+Micro in season one of the Punisher Netflix
+
+224
+00:20:11,467 --> 00:20:17,090
+television series. I mean, he's no Michael Chiglis,
+but he's a good actor too. They all look the
+
+225
+00:20:17,130 --> 00:20:21,772
+parts. It's a really interesting cast. I'm sure
+that they'll nail it. None of this has officially
+
+226
+00:20:21,792 --> 00:20:26,874
+been confirmed, but it's all but confirmed,
+we'll say. So an exciting time to be an MCU
+
+227
+00:20:26,914 --> 00:20:34,257
+fan. I hope as soon as they release this news
+officially, that Marvel also produces a screen
+
+228
+00:20:34,297 --> 00:20:39,150
+test of what the costumes look like. Cause I
+want to see Pedro Pascal, you know, with the
+
+229
+00:20:39,170 --> 00:20:44,552
+gray temples in the blue suit. Think it'd be
+awesome just to get a feel for it. Yes, absolutely.
+
+230
+00:20:45,072 --> 00:20:49,633
+I bet you will see that at this year's Comic-Con.
+Hopefully that'd be cool. Honestly, like I'm
+
+231
+00:20:49,673 --> 00:20:55,935
+hella jealous this week. They have such like
+cool news for Marvel. Where's the DC news?
+
+232
+00:20:56,375 --> 00:21:01,376
+Like where's the Joker, Valiant Dude trailer?
+Where's like the Superman screen test? Come
+
+233
+00:21:01,476 --> 00:21:07,066
+on. I want a Superman teaser poster at the very
+least. Like yesterday. That's not going to
+
+234
+00:21:07,086 --> 00:21:12,672
+happen because DC is dumb. And Marvel's the
+best. And they just reminded everybody of that
+
+235
+00:21:12,952 --> 00:21:18,999
+this week. And your silence right now speaks
+volumes. I'm just quietly seething and plotting
+
+236
+00:21:19,039 --> 00:21:20,601
+your demise. Ha ha ha.
+
+237
+00:21:27,534 --> 00:21:30,838
+But I think that does it for all the news for
+this episode, so let's go ahead and get into
+
+238
+00:21:30,878 --> 00:21:36,285
+our main event where we find out who'd win in
+a fight between the multiversal characters
+
+239
+00:21:36,505 --> 00:21:39,649
+of Rocket and Spider-Gwen.
+
+240
+00:21:54,550 --> 00:22:00,835
+Alright, Rocket versus Spider-Gwen, also known
+as Spider-Woman, also known as Ghost Spider,
+
+241
+00:22:01,135 --> 00:22:06,620
+but colloquially best probably known as Spider-Gwen.
+We're pitting her up against Rocket, who is
+
+242
+00:22:06,760 --> 00:22:12,646
+a character from Milestone Comics, best known
+as the sidekick to the hero Icon, but she also
+
+243
+00:22:12,666 --> 00:22:18,491
+had a stint in the Young Justice animated television
+series. Right, which is a series focused around
+
+244
+00:22:18,631 --> 00:22:23,926
+sidekicks, and so yeah, she played a role in
+the show. She's a prominent black character
+
+245
+00:22:24,166 --> 00:22:30,328
+as all milestone media superheroes are because
+it's a black-owned comics company that focuses
+
+246
+00:22:30,408 --> 00:22:35,970
+on creating and fostering great BIPOC characters
+in comics. So we also figured that this was
+
+247
+00:22:36,010 --> 00:22:40,691
+a great tie-in to Black History Month. We've
+never done a milestone comics character before.
+
+248
+00:22:41,071 --> 00:22:46,973
+They're quasi-multi-versal. They were for a
+time brought into Prime DC continuity. But
+
+249
+00:22:47,053 --> 00:22:51,062
+yeah, I thought she counted as a multi-versal
+character. And the reason that we thought this
+
+250
+00:22:51,083 --> 00:22:57,167
+would be a good match and our executive producers
+agreed was due to their power sets both being
+
+251
+00:22:57,367 --> 00:23:03,031
+based around basically speed and durability
+with some range based attacks. Exactly. Yeah.
+
+252
+00:23:03,472 --> 00:23:07,295
+So let's get into it to explain the methodology
+behind our duels. Let's go to our sentient
+
+253
+00:23:07,335 --> 00:23:13,119
+dual simulator Alfred Jarvis 9000. AJ9K tell
+our listeners how you go about determining
+
+254
+00:23:13,159 --> 00:23:18,370
+a winner in our dual matchups. Yes, of course,
+sir. The way I determine a winner between the
+
+255
+00:23:18,390 --> 00:23:24,432
+contestants is by running 1000 Monte Carlo simulations
+using the characters statistics. A Monte Carlo
+
+256
+00:23:24,472 --> 00:23:28,753
+simulation is a probabilistic model used to
+determine outcomes through random sampling.
+
+257
+00:23:29,193 --> 00:23:34,094
+In this case, I randomise the statistics along
+a normal distribution as a way to simulate
+
+258
+00:23:34,114 --> 00:23:38,695
+the many variables that can occur during battle.
+The stat parameters are based on the official
+
+259
+00:23:38,755 --> 00:23:42,857
+Marvel power grid from which the DC characters
+statistics are extrapolated.
+
+260
+00:23:46,306 --> 00:23:51,429
+damage potential, versatility and perception
+in order to create a more detailed and accurate
+
+261
+00:23:51,449 --> 00:23:56,854
+simulation. The results of the 1000 simulations
+provide a percentage of wins for each character.
+
+262
+00:23:57,294 --> 00:24:01,877
+The contestant with the higher percentage is
+declared the victor as they have a higher probability
+
+263
+00:24:01,918 --> 00:24:07,742
+to win any given battle. In an equitable pairing,
+neither character should win 100% of the matches.
+
+264
+00:24:08,242 --> 00:24:12,726
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman. So
+
+265
+00:24:12,746 --> 00:24:16,628
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+266
+00:24:16,668 --> 00:24:22,211
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+267
+00:24:22,251 --> 00:24:26,654
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+268
+00:24:28,114 --> 00:24:33,057
+Thanks AJ9K! Before we run the simulations though,
+we like to break down each character's histories
+
+269
+00:24:33,097 --> 00:24:38,541
+and abilities before improvising a scenario
+on how we imagine one of the 1000 simulations
+
+270
+00:24:38,561 --> 00:24:44,020
+would play out, beat for beat. And it's my turn
+to go first with the DC character, so let me
+
+271
+00:24:44,060 --> 00:24:50,944
+tell you all about Rocket. Now Raquel Irvin
+was born and raised on Paris Island, the poorest
+
+272
+00:24:51,124 --> 00:24:58,048
+neighborhood of the fictional city of Dakota
+in the alternate universe of Earth 1993, aka
+
+273
+00:24:58,188 --> 00:25:05,273
+Earth-M, aka the Dakotaverse. Paris Island was
+notorious for its high crime rates and violent
+
+274
+00:25:05,313 --> 00:25:11,229
+gang warfare. which culminated in a massive
+war and riot between all of the gangs in the
+
+275
+00:25:11,269 --> 00:25:17,454
+neighborhood on one night known as the Big Bang.
+That same night, knowing the police would have
+
+276
+00:25:17,494 --> 00:25:23,019
+their hands full, Raquel's boyfriend Noble and
+his friends drove her to the wealthy Dakota
+
+277
+00:25:23,059 --> 00:25:28,923
+suburb of Prospect Hills to help burglarize
+one of its mansions. Though Raquel was a bright
+
+278
+00:25:28,944 --> 00:25:34,328
+15-year-old girl as an aspiring writer, the
+idea of getting her hands on a typewriter or
+
+279
+00:25:34,348 --> 00:25:39,504
+computer proved too tempting. and she agreed
+to join them. Though they believed they were
+
+280
+00:25:39,544 --> 00:25:44,788
+stealing from a rich white man, in reality,
+they were stealing from Augustus Freeman IV,
+
+281
+00:25:45,229 --> 00:25:50,833
+a black corporate lawyer who was secretly an
+ancient and superpowered alien stranded on
+
+282
+00:25:50,973 --> 00:25:56,758
+Earth. Augustus confronted the youths, surviving
+multiple gunshots and flying to catch those
+
+283
+00:25:56,798 --> 00:26:02,363
+attempting to flee, including Raquel. Freeman
+let them go on the condition that they told
+
+284
+00:26:02,503 --> 00:26:08,334
+no one about him and promised never to steal
+again. Inspired by what he could do, Raquel
+
+285
+00:26:08,374 --> 00:26:14,477
+later went back to Freeman's mansion with sketches
+of him and her in superhero costumes, encouraging
+
+286
+00:26:14,517 --> 00:26:20,460
+him to use his powers to help his community
+as a superhero named Icon, while making her
+
+287
+00:26:20,500 --> 00:26:25,822
+his sidekick or partner, Rocket, so that she
+could have adventures to write about. Freeman
+
+288
+00:26:25,862 --> 00:26:31,044
+was reluctant initially, but was inspired by
+Raquel and Dakota's recent upheaval during
+
+289
+00:26:31,064 --> 00:26:36,916
+the Big Bang to adopt the superhero identity
+of Icon, and gift Raquel with a belt made from
+
+290
+00:26:37,076 --> 00:26:42,661
+alien technology that would allow her to fight
+alongside him. Despite initially being mistaken
+
+291
+00:26:42,701 --> 00:26:47,505
+for criminals during their first mission to
+rescue Dakota's mayor, Thomasina Jefferson,
+
+292
+00:26:48,026 --> 00:26:53,271
+Icon and Rocket successfully saved the mayor
+from a mutated monster known as Payback, who
+
+293
+00:26:53,311 --> 00:26:58,615
+revealed to them that during the night of the
+Big Bang, Mayor Jefferson authorized the local
+
+294
+00:26:58,655 --> 00:27:03,759
+police department to use an experimental tear
+gas that was laced with a radioactive marker
+
+295
+00:27:03,899 --> 00:27:09,463
+that would allow them to subdue and later track
+the gang members involved. Instead, the tear
+
+296
+00:27:09,503 --> 00:27:15,487
+gas killed all but a small minority that either
+mutated or developed special powers. While
+
+297
+00:27:15,607 --> 00:27:21,391
+Icahn investigated Payback's claims as a lawyer,
+Raquel dealt with the realization from Icahn's
+
+298
+00:27:21,431 --> 00:27:27,103
+superhuman senses that she was in early-stage
+pregnancy. Though Noble and her mother Sandra
+
+299
+00:27:27,183 --> 00:27:33,246
+encouraged Raquel to have an abortion, Raquel
+decided to keep the baby. After several adventures,
+
+300
+00:27:33,426 --> 00:27:38,769
+including taking on the Big Bang-powered gang
+known as the Blood Syndicate, Raquel was forced
+
+301
+00:27:38,869 --> 00:27:44,473
+to give up superheroics and allowed her best
+friend Darnice to assume the mantle of Rocket
+
+302
+00:27:44,513 --> 00:27:50,876
+for a short time. Raquel eventually gave birth
+to a son, whom she named Amistad Augustus Irvin.
+
+303
+00:27:51,276 --> 00:27:56,715
+While Raquel was on maternity leave, Freeman
+found a way to return to his home planet, supporting
+
+304
+00:27:56,795 --> 00:28:02,299
+Raquel with a trust that provided her monthly
+checks while he was away. When an alien threat
+
+305
+00:28:02,359 --> 00:28:08,482
+known as Oblivion arrived on Earth to kill Freeman,
+Icon returned to Earth, as did Raquel as his
+
+306
+00:28:08,562 --> 00:28:14,586
+partner, Rocket, once again. Upon Oblivion's
+defeat, Freeman decided to remain on Earth,
+
+307
+00:28:14,866 --> 00:28:20,369
+and Raquel continued as his partner while also
+raising Amistad. Though Raquel and Freeman
+
+308
+00:28:20,509 --> 00:28:26,853
+often clashed, due to their conflicting political
+viewpoints, Raquel did develop a close relationship
+
+309
+00:28:26,973 --> 00:28:33,578
+with another teenage hero of the city of Dakota,
+Static. As in Static Shock? Yeah, I mean, the
+
+310
+00:28:33,598 --> 00:28:37,661
+name of the cartoon was Static Shock, but the
+character's name is Static. That's right, he's
+
+311
+00:28:37,681 --> 00:28:42,205
+a milestone character. Yes, yeah. Now during
+the final crisis, when the villain Darkseid
+
+312
+00:28:42,245 --> 00:28:47,749
+acquired the anti-life equation in DC's Prime
+Universe, the existence of the Dakotaverse
+
+313
+00:28:47,789 --> 00:28:54,061
+was threatened. though a being known as Dharma
+managed to merge the city of Dakota into DC
+
+314
+00:28:54,121 --> 00:28:59,805
+Prime. Though Freeman remembered Dakota once
+being part of a separate universe, Raquel and
+
+315
+00:28:59,945 --> 00:29:05,069
+other members of Dakota were unaware of the
+merger, and Raquel remained Freeman's partner
+
+316
+00:29:05,229 --> 00:29:10,553
+in the new continuity that was created. In the
+new DC universe, Icon was a member of a secret
+
+317
+00:29:10,613 --> 00:29:15,596
+organization of superheroes known as the Shadow
+Cabinet, who were attacked by the Justice League
+
+318
+00:29:15,636 --> 00:29:21,575
+while on a mission to Metropolis. At the behest
+of Icon, Rocket joined the Shadow Cabinet and
+
+319
+00:29:21,615 --> 00:29:26,717
+helped protect its agents from the League, going
+toe to toe with Batman. The two teams eventually
+
+320
+00:29:26,777 --> 00:29:32,480
+joined forces to defeat the villain Shadow Thief,
+and Icon and Rocket returned to Dakota, which
+
+321
+00:29:32,520 --> 00:29:38,082
+they continued to protect. In post-Flashpoint
+continuity, Raquel's origin remained largely
+
+322
+00:29:38,182 --> 00:29:43,664
+unchanged, though upon Icon's and Rocket's initial
+mission to stop the drug trade, their actions
+
+323
+00:29:43,724 --> 00:29:49,176
+ended up nearly crippling the global economy.
+In response, the United States government hired
+
+324
+00:29:49,216 --> 00:29:55,942
+an alien assassin known as Mr. Lord to kill
+Icon and Rocket. With help from Static, Icon
+
+325
+00:29:55,982 --> 00:30:01,567
+and Rocket were able to bring down Mr. Lord
+instead. Now powers-wise, Rocket is equipped
+
+326
+00:30:01,627 --> 00:30:07,532
+with an inertia belt made from alien technology
+from Icon's escape pod that crash-landed him
+
+327
+00:30:07,592 --> 00:30:14,075
+on Earth over a century ago. The inertia belt
+generates a usually invisible field around
+
+328
+00:30:14,155 --> 00:30:19,777
+rocket that absorbs the kinetic energy of anything
+that crosses its surface, allowing rocket to
+
+329
+00:30:19,897 --> 00:30:26,459
+store that energy for a variety of uses, including
+powerful energy punches, the ability to redirect
+
+330
+00:30:26,499 --> 00:30:33,381
+that energy into thrown projectiles or focused
+energy beams, and high speed flight and maneuverability.
+
+331
+00:30:36,714 --> 00:30:41,816
+Rocket can also surround opponents in an inertialist
+field, preventing them from moving or even
+
+332
+00:30:41,856 --> 00:30:47,119
+breathing, though this uses a large amount of
+her stored energy and can only last for a few
+
+333
+00:30:47,199 --> 00:30:53,282
+seconds. Any use of the energy stored by her
+belt drains some of its power. And that's Rocket!
+
+334
+00:30:53,822 --> 00:30:57,824
+I don't know much about the Milestone universe.
+I completely forgot that static is a part of
+
+335
+00:30:57,884 --> 00:31:02,318
+it, and it makes me think that we gotta get
+static in a duel sometime. Yeah, I would say
+
+336
+00:31:02,518 --> 00:31:07,561
+Static and Icon are kind of the flagship characters
+of Milestone, although there's also Hardware.
+
+337
+00:31:07,921 --> 00:31:14,244
+Now, the experimental tear gas that the mayor
+used on the gang members, is that the same
+
+338
+00:31:14,384 --> 00:31:19,787
+mutagen that transformed Static's rogues gallery?
+Yes. Yeah, they go into the Big Bang on the
+
+339
+00:31:19,827 --> 00:31:23,769
+cartoon, although it's a little bit different.
+Interesting. Pretty cool character. I'm interested
+
+340
+00:31:23,789 --> 00:31:28,552
+in seeing how this fight will go out, especially
+with that inertia belt. But Gwen Stacy's got
+
+341
+00:31:28,592 --> 00:31:33,550
+some tricks up her sleeves. Let me go into her
+backstory. In the Marvel Comics Multiverse,
+
+342
+00:31:33,650 --> 00:31:40,374
+in the timeline of Earth-616, Gwen Stacy was
+Peter Parker, aka Spider-Man's, first true
+
+343
+00:31:40,414 --> 00:31:45,977
+love. The two met at Empire State University
+and began dating, however she was tragically
+
+344
+00:31:46,017 --> 00:31:50,479
+killed by the Green Goblin who threw her off
+the George Washington Bridge. You can learn
+
+345
+00:31:50,519 --> 00:31:54,561
+more about the Green Goblin in his duel against
+the Joker, and more about Spider-Man in his
+
+346
+00:31:54,601 --> 00:31:59,514
+duel against Blue Beetle. Gwen's death was a
+defining moment in Spider-Man's life where
+
+347
+00:31:59,554 --> 00:32:05,316
+he realized the full extent of the loss he could
+experience as a hero. However, in another universe,
+
+348
+00:32:05,616 --> 00:32:11,678
+Earth-65, Gwen's Stacey story went a little
+different. Born in Forest Hills and Queens
+
+349
+00:32:11,738 --> 00:32:17,379
+to Helen and George Stacey, Gwen also experienced
+loss from a young age when her mother died,
+
+350
+00:32:17,860 --> 00:32:22,981
+leaving her dad, an NYPD captain, to raise her
+as a single father. To cope with her grief
+
+351
+00:32:23,121 --> 00:32:27,727
+and overbearing home life, Gwen rebelled from
+her ballerina dancing lessons to take out her
+
+352
+00:32:27,747 --> 00:32:32,908
+frustrations playing the drums. At Midtown High
+School, she became good friends with several
+
+353
+00:32:32,928 --> 00:32:38,810
+students, including the shy but brilliant Peter
+Parker, the rebellious but affluent Harry Osborn,
+
+354
+00:32:39,370 --> 00:32:44,952
+and the outgoing Mary Jane Watson, the latter
+of whom also shared a love of music and formed
+
+355
+00:32:44,992 --> 00:32:50,394
+a band called the Mary Janes with Gwen and their
+friends Betty and Glory. One day, Gwen was
+
+356
+00:32:50,454 --> 00:32:55,155
+bitten by a genetically engineered spider by
+random chance, altering her physiology and
+
+357
+00:32:55,175 --> 00:32:59,577
+granting her the powers of a spider. Though
+she initially thought she could use her powers
+
+358
+00:32:59,617 --> 00:33:04,838
+to win money for her band in a charity wrestling
+match, she stumbled upon a thief who was about
+
+359
+00:33:04,858 --> 00:33:11,020
+to kill Ben Parker, her friend Peter's uncle.
+After saving Ben's life, she was inspired instead
+
+360
+00:33:11,080 --> 00:33:16,061
+to use her new ability selflessly and became
+a masked crime fighter by the name of Spider
+
+361
+00:33:16,101 --> 00:33:21,863
+Woman. As Gwen's heroic reputation throughout
+New York grew, she was gifted a pair of web-shooters
+
+362
+00:33:21,983 --> 00:33:27,885
+by the retired superhero, the Wasp. Gwen struggled
+to balance life as a student, rock musician,
+
+363
+00:33:28,145 --> 00:33:32,386
+and superhero, but her misfortunes came to a
+head during her school prom where she was set
+
+364
+00:33:32,406 --> 00:33:38,348
+to perform with the Mary Janes. Her friend Peter
+Parker idolized Spider-Woman and believed he
+
+365
+00:33:38,368 --> 00:33:43,634
+could become a hero and avoid being bullied
+if he could also get similar superpowers. After
+
+366
+00:33:43,694 --> 00:33:49,196
+experimenting with lizards, Peter turned himself
+into a mindless lizard-like creature that crashed
+
+367
+00:33:49,236 --> 00:33:54,738
+the prom. Unaware that the lizard was her friend
+Peter, Gwen asked Spider-Woman beat the creature
+
+368
+00:33:54,778 --> 00:34:00,081
+despite its pleas to stop. The lizard, severely
+injured, reverted back to Peter Parker, who
+
+369
+00:34:00,161 --> 00:34:04,983
+died from his wounds in Spider-Woman's arms,
+his last words stating that he just wanted
+
+370
+00:34:05,023 --> 00:34:10,865
+to be special like her. Shocked at what she
+had done, Gwen fled the scene branded a murderer.
+
+371
+00:34:11,478 --> 00:34:15,781
+She was pursued by the police, including her
+father who saw Spider-Woman as a criminal.
+
+372
+00:34:16,241 --> 00:34:20,864
+Haunted by Peter's death, she learned that with
+great power must come great responsibility
+
+373
+00:34:20,924 --> 00:34:26,348
+to not abuse that power, and she sought redemption
+through helping others. She came out odds with
+
+374
+00:34:26,368 --> 00:34:31,211
+the Kingpin of Crime and his right-hand man,
+a villain named Daredevil, who was the leader
+
+375
+00:34:31,271 --> 00:34:36,995
+of the Hand Ninja Clan. Looking to appease Spider-Woman
+and bring them into their fold as an ally,
+
+376
+00:34:37,096 --> 00:34:42,258
+the Hand went after police captain George Stacey.
+After thwarting the murder attempt, Gwen was
+
+377
+00:34:42,298 --> 00:34:47,281
+held at gunpoint by her father and was forced
+to reveal her secret identity to him. Unable
+
+378
+00:34:47,321 --> 00:34:52,523
+to arrest his daughter, Captain Stacy asked
+her to leave before he changed his mind. Shortly
+
+379
+00:34:52,603 --> 00:34:57,945
+after, Gwen was recruited to join other spider-powered
+heroes from across the multiverse to band together
+
+380
+00:34:57,965 --> 00:35:02,808
+to defeat a vampiric race of beings known as
+the Inheritors who were intent on consuming
+
+381
+00:35:02,868 --> 00:35:07,778
+those representing the Spider Totem in order
+to prevent their prophesied destruction. She
+
+382
+00:35:07,818 --> 00:35:12,803
+enjoyed seeing Peter Parker alive and well fighting
+as Spider-Man in multiple universes, as well
+
+383
+00:35:12,823 --> 00:35:17,827
+as getting to know fellow Spider-Heroes Jessica
+Drew and Miles Morales, both of whom you can
+
+384
+00:35:17,847 --> 00:35:23,113
+learn more about in our Queen Bee vs Spider-Woman
+and Batwing vs Spider-Man duels, respectively.
+
+385
+00:35:23,633 --> 00:35:27,577
+After their battle, Gwen ended up returning
+to her universe and made up with her father.
+
+386
+00:35:27,957 --> 00:35:32,281
+When the Marvel multiverse collapsed in on itself
+in a series of universe-ending incursions,
+
+387
+00:35:32,962 --> 00:35:38,065
+villain Doctor Doom used the usurped power of
+the all-powerful beings known as the Beyonders
+
+388
+00:35:38,445 --> 00:35:44,289
+to save everything by fashioning a Patrick planet
+of all universes called Battleworld. You can
+
+389
+00:35:44,329 --> 00:35:49,313
+learn more about this in our Doctor Doom duel
+against Superman. Finding herself in the domain
+
+390
+00:35:49,473 --> 00:35:54,476
+of Arachnia, Gwen teamed up with other Spider
+heroes such as Spider-Man Noir, Spider-Ham,
+
+391
+00:35:54,677 --> 00:35:59,600
+and Spider-Man India to form a team called the
+Web Warriors who together defeated the Sinister
+
+392
+00:35:59,640 --> 00:36:05,683
+Six and Mayor Norman Osborn. Gwen and the team
+would go on to travel across the then restored
+
+393
+00:36:05,723 --> 00:36:11,726
+multiverse to defend the Web of Life and Destiny,
+which was a construct of fate previously overseen
+
+394
+00:36:11,846 --> 00:36:17,228
+by the mysterious Madame Web that was the source
+of her precognition and the source of the Spider-Sense
+
+395
+00:36:17,248 --> 00:36:23,591
+powers shared by Spider-Heroes. For a brief
+period, Gwen stayed in Earth-616 to visit Jessica
+
+396
+00:36:23,631 --> 00:36:28,493
+Drew, where she learned more about the mainstream
+Marvel universes Gwen Stacy and Peter Parker.
+
+397
+00:36:29,014 --> 00:36:33,617
+Returning to her home timeline, Gwen discovered
+that her former friend Harry Osborn had gone
+
+398
+00:36:33,717 --> 00:36:38,361
+mad with guilt that he couldn't prevent the
+death of Peter Parker and had sworn vengeance
+
+399
+00:36:38,461 --> 00:36:43,666
+on Spider-Woman. He took a modified version
+of Peter's lizard formula and transformed into
+
+400
+00:36:43,686 --> 00:36:49,511
+the Green Goblin, fighting and unmasking Spider-Woman.
+When it was revealed that his enemy was also
+
+401
+00:36:49,551 --> 00:36:54,462
+his former friend Gwen, the formula caused him
+to lose control. With an assist by Captain
+
+402
+00:36:54,482 --> 00:36:59,226
+America, Gwen was able to administer a serum
+suppressant and the Green Goblin was defeated.
+
+403
+00:36:59,646 --> 00:37:05,510
+However, shortly after, Gwen lost her own powers
+after receiving a similar suppressant. Meanwhile,
+
+404
+00:37:05,690 --> 00:37:11,434
+at OzCorp, a scientist named Elsa Brock combined
+the company's spider research with her work
+
+405
+00:37:11,494 --> 00:37:17,098
+on an alien parasite and Peter Parker's formula
+to inadvertently create the Venom symbiote,
+
+406
+00:37:17,238 --> 00:37:22,490
+which ended up bonding with Gwen, transforming
+her into Gwenem and restoring her powers. You
+
+407
+00:37:22,510 --> 00:37:27,473
+can learn more about Klintar symbiotes in our
+Clayface vs Venom and Lobo vs Carnage dual
+
+408
+00:37:27,493 --> 00:37:32,577
+episodes. The symbiote had a vicious hold on
+Gwen that compelled her to unleash her inner
+
+409
+00:37:32,717 --> 00:37:37,861
+anger on her enemies and even allies. Fearful
+of her own actions, she surrendered herself
+
+410
+00:37:37,901 --> 00:37:41,784
+to the international law enforcement agency
+known as SHIELD where she was imprisoned for
+
+411
+00:37:41,824 --> 00:37:47,448
+a time. Discovering how to control the symbiote,
+Gwen rejoined the Web Warriors and renamed
+
+412
+00:37:47,488 --> 00:37:54,139
+herself forming a slight romantic relationship
+with fellow Spider-Hero Miles Morales. Looking
+
+413
+00:37:54,179 --> 00:37:59,560
+to learn more about the symbiote, but unable
+to find Dr. Elsa Brock, Gwen traveled to Earth-616
+
+414
+00:38:00,401 --> 00:38:05,402
+to have it studied by the mainstream Spider-Man.
+She ended up staying on Earth-616, where she
+
+415
+00:38:05,442 --> 00:38:11,304
+pursued a degree at Empire State University.
+And that's her backstory. Powers-wise, Spider-Gwen
+
+416
+00:38:11,344 --> 00:38:15,405
+has Spider-based abilities granted to her by
+the genetically altered Spider that bit her,
+
+417
+00:38:15,805 --> 00:38:20,494
+and later, the genetically altered symbiote.
+With these enhancements, she has increased
+
+418
+00:38:20,634 --> 00:38:26,556
+speed, agility, durability, and strength, able
+to lift up to 10 tons. She can stick to any
+
+419
+00:38:26,616 --> 00:38:31,598
+surface, and can fire symbiote-generated webbing
+to ensnare enemies and swing from buildings.
+
+420
+00:38:32,058 --> 00:38:37,079
+The symbiote also lets her camouflage her appearance,
+hence the name Ghost Spider, grants her a healing
+
+421
+00:38:37,099 --> 00:38:42,061
+factor, and she can generate small symbiotic
+offshoots that resemble spiders that she can
+
+422
+00:38:42,201 --> 00:38:47,575
+use to scout environments. In addition, Ghost
+Spider has a precognitive spider sense that
+
+423
+00:38:47,635 --> 00:38:52,876
+warns her of oncoming danger and wears a pendant
+that allows her to travel the multiverse. She's
+
+424
+00:38:52,916 --> 00:38:58,558
+a reasonable detective having learned investigation
+tips from her father and is a talented musician
+
+425
+00:38:58,918 --> 00:39:04,400
+and former ballerina. Because she is the host
+of a modified Klyntar symbiote, she is weak
+
+426
+00:39:04,440 --> 00:39:09,981
+to extreme heat and sonic based attacks. Wait,
+who says you gotta go with this Venom version
+
+427
+00:39:10,021 --> 00:39:15,663
+of the character? That is the existing and long-standing
+version of the character. Is this the version
+
+428
+00:39:15,683 --> 00:39:20,724
+with like the teeth all over the hood? That
+was her outfit when she first got the Venom
+
+429
+00:39:20,744 --> 00:39:25,986
+symbiote. Yes. But ever since she started going
+by Ghost Spider, she has gone with her traditional
+
+430
+00:39:26,106 --> 00:39:31,688
+Spider-Woman outfit. OK, interesting. Didn't
+I realize that she had a symbiote that kind
+
+431
+00:39:31,728 --> 00:39:35,849
+of changes things? We'll see how this goes.
+Yeah, I mean, it's a nice way to differentiate
+
+432
+00:39:35,889 --> 00:39:41,217
+her from Spider-Man, you know. Miles Morales
+has his bioelectricity and his ability to turn
+
+433
+00:39:41,257 --> 00:39:47,143
+invisible. Gwen has her symbiote powers. Like,
+her universe's version of the Klyntar are basically
+
+434
+00:39:47,444 --> 00:39:53,350
+alien spiders, and her suit is basically comprised
+of those small spiders. Interesting. Yeah,
+
+435
+00:39:53,370 --> 00:39:57,754
+she calls them gummy spiders, and she uses them
+to gather intel. It's pretty cool stuff. She
+
+436
+00:39:57,834 --> 00:40:00,737
+uses the symbiote in a way that, like, none
+of the other symbiotes have used it.
+
+437
+00:40:07,726 --> 00:40:12,349
+But now that we've got their histories and abilities
+out of the way, let's speculate on how one
+
+438
+00:40:12,409 --> 00:40:18,453
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not this speculation,
+
+439
+00:40:18,673 --> 00:40:24,597
+but it's fun to imagine how this fight could
+play out. AJ9K, what are the rules of our speculation?
+
+440
+00:40:25,438 --> 00:40:29,441
+Well, I should say there are no rules, other
+than the characters have no prior knowledge
+
+441
+00:40:29,461 --> 00:40:33,864
+of the other going into the fight. All they
+are aware of starting out is that the other
+
+442
+00:40:33,884 --> 00:40:38,955
+character is a threat that needs to be eliminated.
+For the speculation, the contestants will begin
+
+443
+00:40:38,995 --> 00:40:44,059
+approximately 50 meters apart in a non-descript
+environment that will have no bearing on the
+
+444
+00:40:44,099 --> 00:40:49,443
+match itself, as no environmental statistics
+are considered in my simulations. The contestants
+
+445
+00:40:49,483 --> 00:40:54,927
+must earn victory on their own merit. Alright
+then let's get into it. Rocket and Spider Gwen
+
+446
+00:40:54,987 --> 00:40:59,330
+meet on the battlefield. Who goes first? I'm
+gonna say Spider Gwen starts this match off
+
+447
+00:40:59,350 --> 00:41:05,338
+because like, Rocket can't do shit anyway without
+having absorbed any kinetic energy. No, no,
+
+448
+00:41:05,558 --> 00:41:10,482
+rocket's starting off this match with a sizable
+amount of kinetic energy already stored up.
+
+449
+00:41:10,602 --> 00:41:18,348
+Nice try. But Spider Gwen's gonna go first anyway.
+She's gonna leap into the air and she shoots
+
+450
+00:41:18,448 --> 00:41:23,792
+a pair of web strands on each side of rocket.
+And she's gonna use them like a slingshot to
+
+451
+00:41:23,812 --> 00:41:28,756
+just fling herself right into rocket with a
+flying kick. But it's like a graceful ballerina
+
+452
+00:41:28,816 --> 00:41:33,514
+flying kick. Okay, so. Spider Gwen, you know,
+she's probably strong enough to knock Rocket
+
+453
+00:41:33,554 --> 00:41:38,316
+back with an attack like that, but it's not
+going to hurt her because, you know, the energy
+
+454
+00:41:38,336 --> 00:41:42,717
+from the attack just gets absorbed into Rockets
+and nourish her field, which she's going to
+
+455
+00:41:42,837 --> 00:41:48,958
+use to bounce back and rocket herself right
+into Spider Gwen, delivering a kinetic energy
+
+456
+00:41:48,998 --> 00:41:54,360
+punch that's just going to send Gwen flying.
+But you forgot, my friend, that Spidey sense
+
+457
+00:41:54,580 --> 00:41:59,501
+is a thing. Oh, my God, that Spider Gwen has.
+So she's going to dodge this oncoming attack
+
+458
+00:41:59,581 --> 00:42:04,685
+from Rocket. with some like mid-air splits type
+stuff. And she's gonna shoot a web line that
+
+459
+00:42:04,825 --> 00:42:09,629
+sticks to Rocket and Rocket gets redirected
+from the web line and gets slammed right into
+
+460
+00:42:09,649 --> 00:42:15,974
+the ground. Would Rocket's field block the webbing?
+I mean, even if it did, it would still stick
+
+461
+00:42:15,994 --> 00:42:20,178
+to the field. No, it doesn't work like that.
+I'm guessing like the webbing probably doesn't
+
+462
+00:42:20,218 --> 00:42:24,821
+hold much kinetic energy actually, because it's
+not like when they stick to people, they impact
+
+463
+00:42:24,861 --> 00:42:31,038
+the people. So sure, let's say the webs get
+through Rocket's field, when she's slammed
+
+464
+00:42:31,078 --> 00:42:35,682
+into the ground, like again, it's not going
+to hurt Rocket. She's just going to absorb
+
+465
+00:42:35,722 --> 00:42:42,166
+the force of the ground hitting her and gain
+more energy. But the impact of the ground against
+
+466
+00:42:42,206 --> 00:42:47,190
+her inertia field does break some stones loose
+from the ground, which Rocket is just going
+
+467
+00:42:47,210 --> 00:42:53,255
+to pick up and hurl at Gwen like bullets. Spider
+Gwen's just going to like bullet time dodge
+
+468
+00:42:53,295 --> 00:42:58,550
+that shit, you know, like Beatrix type stuff.
+OK, we'll dodge this. Rocket, she's gonna fire
+
+469
+00:42:58,610 --> 00:43:03,233
+off a focused beam of kinetic energy like a
+laser, which is, you know, a lot faster than
+
+470
+00:43:03,273 --> 00:43:09,936
+bullets. So Gwen for sure gets tagged and knocks
+to the ground. Okay, uh, I mean, but Gwen's
+
+471
+00:43:09,976 --> 00:43:15,640
+durable, you know, she'll take this kinetic
+force blast, like a champ, and she gets knocked
+
+472
+00:43:15,660 --> 00:43:20,142
+down, she'll just perform this like backward
+somersault into like a back handspring and
+
+473
+00:43:20,342 --> 00:43:25,905
+she's back on her feet. No biggie. But then,
+using her symbiote, she's gonna camouflage
+
+474
+00:43:25,925 --> 00:43:30,780
+herself. to blend into the environment that
+they're in, so Rocket can no longer see her.
+
+475
+00:43:31,260 --> 00:43:36,864
+Ooh, good move. Okay, I mean, Rocket's probably
+a little freaked out and looking around because
+
+476
+00:43:36,884 --> 00:43:43,288
+she knows that she's vulnerable to stealth attacks,
+right? So she's gonna take to the air and she's
+
+477
+00:43:43,368 --> 00:43:49,572
+gonna shoot up into the sky just to keep her
+distance. Oh, too late though. Suddenly Rocket
+
+478
+00:43:49,592 --> 00:43:54,643
+gets yanked down as she tries to take off. and
+gets pulled back toward the ground where she
+
+479
+00:43:54,723 --> 00:44:01,088
+lands in this giant sticky web net that traps
+her and prevents her from moving. Shit. Uh,
+
+480
+00:44:01,108 --> 00:44:05,952
+we're gonna test the strength of these webs.
+As soon as Rocket gets trapped, she's gonna
+
+481
+00:44:06,272 --> 00:44:12,177
+blast herself sideways, like trying to pull
+herself free from the webs. And as Rocket's
+
+482
+00:44:12,237 --> 00:44:18,282
+trying to free herself, bam! Spider-Gwen reappears
+and straight up kicks Rocket right in the face.
+
+483
+00:44:18,502 --> 00:44:23,858
+And Rocket's like, out of my face! Okay, actually
+that kick... just gave her the extra amount
+
+484
+00:44:23,898 --> 00:44:29,140
+of energy she needed to break free of those
+webs. And she's going to quickly fly at Gwen
+
+485
+00:44:29,600 --> 00:44:35,783
+and trap her in an inertialist field. So Gwen
+is frozen there for a few seconds, just unable
+
+486
+00:44:35,823 --> 00:44:41,305
+to move or dodge this kinetic punch that's so
+powerful that Rocket's going to spend all of
+
+487
+00:44:41,325 --> 00:44:46,407
+her stored kinetic energy to deliver it. And
+this punch could like knock back Icon and destroy
+
+488
+00:44:46,427 --> 00:44:53,475
+a building. So Gwen essentially explodes from
+the force of it. Match over. Actually, at the
+
+489
+00:44:53,515 --> 00:44:57,858
+very start of the match, you know, when Gwen
+first made contact with Rocket by kicking her,
+
+490
+00:44:57,878 --> 00:45:05,305
+Uh huh. At that point, Gwen actually imparted
+several symbiote spiders onto Rocket that have
+
+491
+00:45:05,385 --> 00:45:10,509
+been crawling over her, making their way into
+Rocket's inertia belt and just gumming up that
+
+492
+00:45:10,529 --> 00:45:15,914
+technology and making it useless. So when Rocket
+goes in for this like powerful kinetic punch
+
+493
+00:45:15,974 --> 00:45:21,138
+killing blow, she's actually just powerless.
+She has no more power. Doesn't work. And then
+
+494
+00:45:21,298 --> 00:45:26,401
+at that point, Spider Gwen is freed from her
+inertialist field and lays an everloving beat
+
+495
+00:45:26,421 --> 00:45:33,845
+down on Rocket. And that is how this match is
+won. Actually, I don't know, Spider Gwen gets
+
+496
+00:45:33,905 --> 00:45:39,488
+punched before the spiders ever make it to her
+belt. So, yeah, that's what actually happens.
+
+497
+00:45:39,848 --> 00:45:45,651
+But yeah, we'll leave the match here. Either
+Rocket delivers this explosive kinetic punch
+
+498
+00:45:45,691 --> 00:45:52,812
+that just vaporizes Spider Gwen or Spider Gwen
+managed to get these gummy spiders onto Rocket
+
+499
+00:45:52,872 --> 00:45:57,836
+early in the match that gum up her alien technology
+belt, rendering her powerless and defenseless
+
+500
+00:45:57,936 --> 00:46:02,681
+against Spider-Gwen's fatal barrage of attacks.
+To find out which of these scenarios happens,
+
+501
+00:46:03,041 --> 00:46:06,765
+let's plug in the stats for these characters,
+run the simulations, and come back with a winner.
+
+502
+00:46:07,285 --> 00:46:15,633
+AJ9K, hit it! Inputting data. Running calculations.
+Processing results. Simulations complete. Alright,
+
+503
+00:46:15,693 --> 00:46:20,803
+so- These characters are actually pretty similar
+in more ways than I thought. Like they both
+
+504
+00:46:20,883 --> 00:46:26,685
+wear outfits that are alien in nature. They're
+both highly agile. They could both trap their
+
+505
+00:46:26,725 --> 00:46:31,386
+opponents. But there were a few differences.
+Like we said, Rocket is actually faster than
+
+506
+00:46:31,446 --> 00:46:36,367
+Spider Gwynn. Right. And more evasive as well,
+considering she's constantly wearing essentially
+
+507
+00:46:36,387 --> 00:46:42,089
+a force field. However, we did say Gwynn was
+more durable and stronger than Rocket. Yeah,
+
+508
+00:46:42,109 --> 00:46:47,096
+when it came to the physical stats. Gwen definitely
+came out on top because Rocket is just a human
+
+509
+00:46:47,156 --> 00:46:52,520
+after all. That said, she does pack quite a
+powerful punch, capable of some pretty powerful
+
+510
+00:46:52,560 --> 00:46:58,825
+attacks, so we gave her the edge damage level
+wise. When it came to fighting skill, intelligence,
+
+511
+00:46:58,945 --> 00:47:04,589
+versatility, they basically balanced out. We
+said that Rocket has a greater range, but Spider
+
+512
+00:47:04,629 --> 00:47:09,533
+Gwen has greater perception due to not only
+her spider sense, but also her symbiote spiders
+
+513
+00:47:09,573 --> 00:47:13,627
+that can feed her intel. So taking all of this
+into account, who do you think came out on
+
+514
+00:47:13,667 --> 00:47:20,109
+top? Joseph? I have no damn clue. This is an
+interesting one. I can't really tell based
+
+515
+00:47:20,149 --> 00:47:24,131
+off the stats who's going to win. I thought
+this was a pretty good match. Honestly, I'm
+
+516
+00:47:24,231 --> 00:47:29,613
+pulling for Spider Gwen, though, and Instagram
+agrees with me. Sixty five percent of the people
+
+517
+00:47:29,633 --> 00:47:34,655
+who participated in our poll picked Spider Gwen
+to win this fight. Well, that's just because
+
+518
+00:47:34,715 --> 00:47:40,397
+Rocket has yet to be in a film. Milestone actually
+is making a few animated projects, I believe.
+
+519
+00:47:40,886 --> 00:47:46,248
+So hopefully that changes soon. But let's find
+out if you're right. AJ9K, the results please.
+
+520
+00:47:46,848 --> 00:47:54,551
+Hey, you are, sir. All right, the winner of
+the matchup between Rocket and Spider-Gwen
+
+521
+00:47:55,252 --> 00:48:06,336
+is Spider-Gwen. Hell yeah. She won 58.3% of
+the 1000 matches or 583 matches total, as compared
+
+522
+00:48:06,356 --> 00:48:12,535
+to Rocket who won 417. All right, so what was
+the stat that gave Spider-Gwen her greatest
+
+523
+00:48:12,575 --> 00:48:18,319
+advantage? It was two of them. It was perception
+and strength. Now, Rocket is strong when it
+
+524
+00:48:18,359 --> 00:48:23,562
+comes to punches, when it comes to like lifting
+strength, not so much. And I mean, Spider-Sense
+
+525
+00:48:23,622 --> 00:48:28,204
+is conceptually hard to overcome. I feel like
+Spider-Gwen could just dodge Rocket's attacks
+
+526
+00:48:28,344 --> 00:48:32,647
+all day long. I mean, it's not like Spider-Gwen
+can do much to hurt Rocket either. Well, I
+
+527
+00:48:32,667 --> 00:48:37,514
+mean, except for the whole stealth attack thing.
+Shit. Yeah, I guess this makes sense. And it
+
+528
+00:48:37,534 --> 00:48:41,476
+makes sense that Marvel would win like every
+fight, right? It never makes sense to me when
+
+529
+00:48:41,516 --> 00:48:48,980
+Marvel loses. Marvel is just better as you learned
+here today. I didn't learn shit. That does
+
+530
+00:48:49,000 --> 00:48:52,522
+it for this duel. Let us know what you thought
+about the results by writing to us at dynamic
+
+531
+00:48:52,562 --> 00:48:57,424
+dual podcast at gmail.com or by visiting us
+on Instagram, which you can find a link to
+
+532
+00:48:57,465 --> 00:49:02,587
+in our show notes or by visiting our website
+at dynamic dual dot com. And on our site, you
+
+533
+00:49:02,607 --> 00:49:07,126
+could also find a link to our Patreon page where
+you could join our dynamic two tier. and chat
+
+534
+00:49:07,146 --> 00:49:12,248
+with us and fellow listeners. Our fantastic
+four tier, which gets you bonus content each
+
+535
+00:49:12,328 --> 00:49:18,310
+month. Our X force tier that makes you an executive
+producer of this podcast. Or our newest tier
+
+536
+00:49:18,550 --> 00:49:23,212
+that lets you join our Dynamike podcast network.
+Please don't forget to rate the show on Apple
+
+537
+00:49:23,252 --> 00:49:30,975
+podcast, Spotify, Podchaser, or on our website.
+Our next episode is one that I am dreading.
+
+538
+00:49:31,315 --> 00:49:37,742
+We're gonna review Madam Webb, and I don't wanna
+see that crap. It looks so bad. I hope it's
+
+539
+00:49:37,802 --> 00:49:42,404
+not. Yeah, I don't even have my tickets yet.
+But it's probably going to be. Yeah, I don't
+
+540
+00:49:42,444 --> 00:49:46,907
+even have my tickets yet. Yeah, I gotta get
+my tickets, gotta go see the movie. We'll talk
+
+541
+00:49:47,027 --> 00:49:52,270
+all about it next week. Fingers crossing it's
+at least watchable. But that does it for this
+
+542
+00:49:52,310 --> 00:49:57,072
+episode. We wanna give a big thanks to our executive
+producers, Ken Johnson, John Swarovski, Zachary
+
+543
+00:49:57,093 --> 00:50:02,095
+Hepburn, Dustin Balcom, Miggy Mathingian, Brandon
+Anstragard, Nathaniel Wagner, Levi Yeaton,
+
+544
+00:50:02,275 --> 00:50:08,375
+Nick Abonto, Austin Wisselowski, AJ Dunkerley,
+Scott Camacho. Adam Spies, Andrew Schunk, and
+
+545
+00:50:08,455 --> 00:50:13,160
+Dean Molesky for helping to make this podcast
+possible. We'll talk to you guys next week.
+
+546
+00:50:13,700 --> 00:50:15,361
+Up up and away, true believers.
+
