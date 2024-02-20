@@ -1,0 +1,3096 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a Dynamike Network podcast.
+
+2
+00:00:24,362 --> 00:00:29,746
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,786 --> 00:00:35,751
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:36,151 --> 00:00:42,276
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And I have no idea why I'm leading this
+
+5
+00:00:42,317 --> 00:00:47,681
+episode. It's like an all Marvel episode. Not
+only are we reviewing Madame Webb later on,
+
+6
+00:00:48,322 --> 00:00:52,705
+it was alright, it wasn't terrible, but we're
+also breaking down the news from this past
+
+7
+00:00:52,765 --> 00:00:58,491
+week. which includes the release dates for Thunderbolts
+and Fantastic Four being swapped and the trailer
+
+8
+00:00:58,531 --> 00:01:04,333
+for the X-Men 97 cartoon that's coming out on
+Disney+. This is my favorite kind of episode,
+
+9
+00:01:04,573 --> 00:01:09,494
+is the all Marvel episode. Like why am I even
+here? I ask myself that question every single
+
+10
+00:01:09,534 --> 00:01:14,455
+time we record together. Honestly, who needs
+a Marvel vs. DC podcast when you could just
+
+11
+00:01:14,475 --> 00:01:20,057
+have a Marvel podcast? Ugh, this sounds not
+very fun at all. Just like Madame Web and the
+
+12
+00:01:20,097 --> 00:01:25,412
+movies that Marvel makes. You mean Sony? No,
+Marvel. Eh, Marvel has to take credit for it,
+
+13
+00:01:25,452 --> 00:01:29,776
+too. Their name's in the front of it. As always,
+guys, we list our segment times in our episode
+
+14
+00:01:29,816 --> 00:01:33,799
+description, so feel free to check out the show
+notes if you want to skip ahead to a particular
+
+15
+00:01:33,859 --> 00:01:40,265
+topic. Our artificially intelligent dual simulator,
+AJ9K, has a quick message for our listeners,
+
+16
+00:01:40,545 --> 00:01:47,873
+so listen up. Why hello there. Do you love listening
+and chatting about Marvel and DC? Then become
+
+17
+00:01:47,893 --> 00:01:52,956
+a part of the dynamic dual community on Patreon,
+where you can choose from three tiers. The
+
+18
+00:01:52,996 --> 00:01:58,560
+dynamic 2-0 tier lets you listen to this podcast
+without ads and gives you access to its Discord
+
+19
+00:01:58,600 --> 00:02:03,704
+chat group, where you can chat with Johnny DC
+and Marvelous Joe. The fantastic 4 tier gives
+
+20
+00:02:03,744 --> 00:02:08,567
+you that and more with two bonus episodes each
+month, including bloopers and top 10 shows
+
+21
+00:02:08,587 --> 00:02:13,366
+where Johnny and Joe count down your favorite
+Marvel and DC subjects. The X-Force tier makes
+
+22
+00:02:13,386 --> 00:02:17,868
+you an executive producer of Dynamic Duel, where
+every month you help the hosts choose what
+
+23
+00:02:17,908 --> 00:02:23,211
+to review and who to fight against each other.
+And finally, the Dynamike Podcast Network tier
+
+24
+00:02:23,511 --> 00:02:28,553
+allows aspiring podcasters to create their own
+battle-focused show using this Monte Carlo
+
+25
+00:02:28,593 --> 00:02:33,696
+simulator. Johnny and Joe will help you develop
+your show, provide graphic support and consultation,
+
+26
+00:02:34,056 --> 00:02:38,638
+and get you simulation results to announce on
+your show. Pitch the twins your show via email
+
+27
+00:02:38,678 --> 00:02:39,018
+at dyna
+
+28
+00:02:42,160 --> 00:02:49,042
+them on social media. Check it out at patreon.com
+slash dynamic duel. Pip pip cheerio. Thanks
+
+29
+00:02:49,102 --> 00:02:53,924
+AJ 9K and thanks to everyone who supports the
+podcast. Be sure to tune into the shows in
+
+30
+00:02:53,964 --> 00:02:58,705
+the Dynamike podcast network this week, including
+Max Destruction, which pits your favorite action
+
+31
+00:02:58,725 --> 00:03:03,707
+heroes from film and television against each
+other. This week hosts Ken and Scotty find
+
+32
+00:03:03,747 --> 00:03:10,369
+out who'd win in a fight between Johnny from
+Surf Ninjas and Colt from Three Ninjas. Now
+
+33
+00:03:10,429 --> 00:03:14,823
+that's a throwback. Totally, can't wait for
+that one. Also make sure to tune in to the
+
+34
+00:03:14,923 --> 00:03:20,366
+Send Your World podcast, where host Zachary
+Hepburn speculates on fights between fan favorite
+
+35
+00:03:20,486 --> 00:03:25,809
+anime characters. This week, we'll find out
+who would win between Roronoa Zoro from One
+
+36
+00:03:25,829 --> 00:03:30,772
+Piece and Ezra Scarlett from Fairy Tail. As
+always, I'm sure you nailed that pronunciation.
+
+37
+00:03:31,072 --> 00:03:36,455
+Probably not. On the Console Combat podcast,
+hosts John and Dean find out who would win
+
+38
+00:03:36,475 --> 00:03:41,454
+in fights between popular video game characters.
+In yesterday's episode. We found out who'd
+
+39
+00:03:41,494 --> 00:03:49,259
+win between Halo's Master Chief and God of War's
+Kratos. Visit dynamicpodcasts.com or click
+
+40
+00:03:49,299 --> 00:03:54,643
+on the link in our show notes to listen to all
+of the shows in the Dynamike Podcast Network.
+
+41
+00:03:55,123 --> 00:04:01,347
+But with that out of the way, quick to the No
+Prize! A No Prize is an award Marvel used to
+
+42
+00:04:01,367 --> 00:04:06,871
+give out to fans. Our version, the Dynamic Duel
+No Prize, is a digital award we post on Instagram
+
+43
+00:04:06,911 --> 00:04:11,678
+for the person that we feel gave the best answer
+to our question of the week. Last week's question
+
+44
+00:04:11,718 --> 00:04:16,943
+we asked, what has been your favorite Deadpool
+joke out of all of Deadpool media? And that
+
+45
+00:04:16,963 --> 00:04:22,007
+was coming off of the Deadpool and Wolverine
+trailer that we got during the Super Bowl.
+
+46
+00:04:22,027 --> 00:04:26,250
+We got four answers, so we'll break down this
+week's honorable mentions before revealing
+
+47
+00:04:26,410 --> 00:04:33,196
+the no prize winner. Our first honorable mention
+goes to Clayton DeMato, who said, Hey there
+
+48
+00:04:33,216 --> 00:04:40,121
+guys, my name is Clayton DeMato, long time listener.
+As someone who enjoys to have his balls fondled.
+
+49
+00:04:40,482 --> 00:04:47,326
+probably go where Deadpool talks about fondling
+Wolverine's balls. But ultimately, I think
+
+50
+00:04:47,446 --> 00:04:54,171
+the best is when Deadpool is fighting the mercenaries
+in the car and he sticks the lighter in the
+
+51
+00:04:54,211 --> 00:04:59,795
+guy's throat and tells him not to swallow. Yes,
+this was one of many off-color jokes made in
+
+52
+00:04:59,835 --> 00:05:05,960
+the first Deadpool movie, for which I saw way
+too many kids in theaters. I'm sure half the
+
+53
+00:05:06,000 --> 00:05:10,262
+jokes went over their heads, but still people
+got to- Look at what the rating is before they
+
+54
+00:05:10,282 --> 00:05:19,107
+take their kids to see a superhero movie. OK,
+dad. Yeah, I am one. The don't swallow joke.
+
+55
+00:05:19,327 --> 00:05:24,830
+It's solid. It's quick. It's witty. It has a
+perfect mix of being both adult and crude,
+
+56
+00:05:24,890 --> 00:05:28,872
+but also clever, which is one of the great things
+I think about the Deadpool movies and Ryan
+
+57
+00:05:28,912 --> 00:05:33,755
+Reynolds style of humor is that it technically
+is juvenile, but it's not necessarily childish,
+
+58
+00:05:33,795 --> 00:05:38,938
+if that makes sense. Great answer, Clayton.
+Our next honorable mention goes to Cornelius
+
+59
+00:05:38,978 --> 00:05:45,921
+Robinson who said, Hey guys, this is Cornelius
+Robinson and my favorite joke from the Deadpool
+
+60
+00:05:45,941 --> 00:05:51,683
+media is through the movies. When he mentioned
+that Nickassan and Teenage Warhead and Clauses
+
+61
+00:05:52,003 --> 00:05:58,186
+were in a big house living together all alone.
+And it was funny how it was almost the studio
+
+62
+00:05:58,626 --> 00:06:06,549
+didn't have any more money for new X-Men members.
+Which was a meta joke and was returned in the
+
+63
+00:06:06,589 --> 00:06:12,044
+sequel. and it cracked me up. Yeah, that was
+a little bit of self-deprecating humor on behalf
+
+64
+00:06:12,084 --> 00:06:17,367
+of the studio. Great joke with Deadpool referencing
+how only Negasonic Teenage Warhead and Colossus
+
+65
+00:06:17,387 --> 00:06:21,750
+seem to be at the X-Men Mansion all the time.
+I really did love the follow-up in Deadpool
+
+66
+00:06:21,790 --> 00:06:27,513
+2 when we saw the cast of X-Men Dark Phoenix
+in one of the classrooms, like basically hiding
+
+67
+00:06:27,553 --> 00:06:33,156
+from Deadpool. So good. It did make me wonder
+where in the timeline the second Deadpool movie
+
+68
+00:06:33,256 --> 00:06:37,987
+fit, but yeah, it was a great gag. It was a
+meta joke, it doesn't necessarily have to be
+
+69
+00:06:38,027 --> 00:06:42,771
+scrutinized in the larger continuity. Sure,
+sure, I get that. But great answer Cornelius,
+
+70
+00:06:42,851 --> 00:06:48,555
+our final honorable mention goes to Travis Herndon,
+who said, Hey guys, Travis here. So my favorite
+
+71
+00:06:48,575 --> 00:06:54,320
+joke would have to be from the Deadpool 2 teaser
+where he's changing into his superhero costume.
+
+72
+00:06:54,760 --> 00:07:00,324
+Mostly just from the realism from it, like we
+all think we'd be these badass superheroes
+
+73
+00:07:00,364 --> 00:07:04,511
+and stuff though, but let's be honest with me.
+would take that long just to get into our superhero
+
+74
+00:07:04,551 --> 00:07:10,274
+costume and possibly get the same outcome like
+in the teaser. So that's my favorite joke just
+
+75
+00:07:10,314 --> 00:07:15,558
+from the realism for me as well as just the
+Superman theme too. Yeah, I'm not sure how
+
+76
+00:07:15,578 --> 00:07:20,741
+many people remember the teaser trailer to Deadpool
+2. It was played in front of the Logan movie.
+
+77
+00:07:20,981 --> 00:07:25,327
+It was essentially... Wade Wilson walking down
+and seeing an old man getting mugged in an
+
+78
+00:07:25,407 --> 00:07:30,090
+alley and he runs into a phone booth to change
+into his Deadpool costume and it just takes
+
+79
+00:07:30,130 --> 00:07:33,972
+entirely way too long. That's the joke. It takes
+him like two minutes just to change into his
+
+80
+00:07:33,992 --> 00:07:38,215
+Deadpool costume and in the meantime before
+he can even get out of the phone booth we hear
+
+81
+00:07:38,675 --> 00:07:45,019
+the old man get shot. Great gag. A hilarious
+way to kick off the marketing for Deadpool
+
+82
+00:07:45,059 --> 00:07:49,858
+2. I had almost completely forgot about this
+teaser until Travis brought it up again. And
+
+83
+00:07:49,898 --> 00:07:55,920
+now you just remember Ryan Reynolds ass. Thanks
+for that. The Stan Lee cameo in that teaser
+
+84
+00:07:55,940 --> 00:07:59,282
+was pretty good, too, where he's like, hey,
+nice suit. And he's like, zip it, Stanley.
+
+85
+00:08:01,122 --> 00:08:07,005
+R.A.P. Great answer, Travis. But the winner
+of this week's no prize is Sean Curtis. Who
+
+86
+00:08:07,045 --> 00:08:14,508
+said, hey, guys, Sean Curtis, I have to say
+my favorite Deadpool joke of all time off the
+
+87
+00:08:14,528 --> 00:08:19,394
+top of my head anyway, would be from Ultimate
+Spider-Man when Spider-Man is trying to warn
+
+88
+00:08:19,574 --> 00:08:27,459
+Deadpool of Taskmaster's booby traps and Deadpool
+goes, ha ha, traps. Because I'm expecting him
+
+89
+00:08:27,499 --> 00:08:34,464
+to say, to be laughing at boobies, but it's
+simple and catches me off guard. Yeah, and
+
+90
+00:08:34,524 --> 00:08:40,968
+another classic Deadpool style joke where again
+it mixes the juvenile with the clever. In the
+
+91
+00:08:41,048 --> 00:08:46,043
+Ultimate Spider-Man cartoon, Spider-Man... and
+Deadpool teamed up against Taskmaster. And
+
+92
+00:08:46,304 --> 00:08:50,607
+it was a nice bit of subversion where you think
+that Deadpool, upon hearing the phrase booby
+
+93
+00:08:50,627 --> 00:08:54,971
+traps is going to laugh at booby. But of course,
+he laughs at traps. He's like, you said traps.
+
+94
+00:08:55,311 --> 00:08:58,854
+It was a great gag. I never saw the ultimate
+Spider-Man cartoon. I didn't even know Deadpool
+
+95
+00:08:58,894 --> 00:09:04,939
+was in that. He seems like a risky character
+for a cartoon. But, yeah, solid joke. Well,
+
+96
+00:09:04,959 --> 00:09:08,943
+the nice thing about Deadpool is that you can
+make him as PG or rated R as you want to. And
+
+97
+00:09:09,003 --> 00:09:13,106
+it just kind of works. As long as he's quirky
+and funny, it'll still feel like him. Do you
+
+98
+00:09:13,126 --> 00:09:18,547
+have a favorite Deadpool joke? I really like
+the dig at DC that he did in Deadpool 2 where
+
+99
+00:09:18,567 --> 00:09:23,628
+he's like, so dark, are you sure you're not
+from the DC universe? That was quality. This
+
+100
+00:09:23,648 --> 00:09:30,430
+is fucking worst joke. No, but like I would
+say mine is in sort of the same scene. He's
+
+101
+00:09:30,490 --> 00:09:35,712
+introduced to Black Tom Cassidy and he was like,
+hi, white Wade Wilson. And then later on he
+
+102
+00:09:35,732 --> 00:09:43,054
+was just like, you killed Black Tom Cassidy.
+You racist. I was cracking up. Yeah. I also
+
+103
+00:09:43,094 --> 00:09:48,136
+really liked the Juggernaut song though. Like
+that one stick with me for a while. Holy shit
+
+104
+00:09:48,156 --> 00:09:55,359
+balls. Yeah, that was great. Yeah, Deadpool's
+humor is actually really solid and it makes
+
+105
+00:09:55,379 --> 00:09:59,641
+me really excited to see Deadpool and Wolverine
+coming out the summer. So congrats again to
+
+106
+00:09:59,661 --> 00:10:02,722
+Sean Curtis for winning this week's No Prize.
+If you the listener want a shot at winning
+
+107
+00:10:02,742 --> 00:10:07,224
+your own No Prize, stay tuned to later on this
+episode when we'll be asking another Question
+
+108
+00:10:07,264 --> 00:10:10,645
+of the Week. And now that that's done, on to
+the news.
+
+109
+00:10:16,226 --> 00:10:22,792
+Alright, this past Valentine's Day we got official
+word from Marvel Studios finally that Pedro
+
+110
+00:10:22,832 --> 00:10:28,357
+Pascal will be playing Mr. Fantastic, Vanessa
+Kirby will be Sue Storm, Joseph Quinn will
+
+111
+00:10:28,377 --> 00:10:33,441
+be Johnny Storm, and Iban Mas Bakrak, I'm still
+not sure if I'm pronouncing that correctly,
+
+112
+00:10:33,662 --> 00:10:39,547
+but he'll be Ben Grimm. Now we talked about
+this news last week, before it was officially
+
+113
+00:10:39,587 --> 00:10:44,290
+confirmed, but all but confirmed. It's nice
+to finally- get that news from the studio itself.
+
+114
+00:10:44,450 --> 00:10:48,792
+It's shaping up to be a great cast. Really can't
+wait to see them as Marvel's first family.
+
+115
+00:10:49,332 --> 00:10:54,574
+And out of all the cast that the Fantastic Four
+franchise has had so far in live action, this
+
+116
+00:10:54,654 --> 00:10:58,496
+one actually seems the most interesting to me.
+Yeah, it is interesting. I think it's a great
+
+117
+00:10:58,516 --> 00:11:04,118
+cast. The logo is what I found most interesting.
+Like it almost makes me wonder if the Fantastic
+
+118
+00:11:04,138 --> 00:11:09,160
+Four is gonna be a period piece. I've heard
+rumors that was gonna be the case. And I think
+
+119
+00:11:09,180 --> 00:11:15,880
+that this mid-century logo proves that. I think
+they're really gonna set up the Fantastic Four
+
+120
+00:11:16,060 --> 00:11:22,344
+as like Marvel's first superhero family chronologically
+within the Marvel Universe and have them like
+
+121
+00:11:22,424 --> 00:11:27,588
+maybe time travel into the present day by the
+end of the film. And why not? I mean, that
+
+122
+00:11:27,608 --> 00:11:32,791
+could work. It worked with Captain Marvel. So.
+Right. Yeah, exactly. But besides the cast
+
+123
+00:11:32,831 --> 00:11:38,315
+and potentially the setting of the movie, we
+also got a release date change for the film.
+
+124
+00:11:38,615 --> 00:11:44,194
+It was originally going to kick off the summer
+season in 2025. coming out May 2nd, but Fantastic
+
+125
+00:11:44,214 --> 00:11:49,096
+Four has been pushed back to July 25th, which
+is the date when the Thunderbolts movie was
+
+126
+00:11:49,116 --> 00:11:54,198
+going to come out, but that film has been moved
+up to May 2nd, so basically they just swapped
+
+127
+00:11:54,258 --> 00:11:59,701
+dates. So now Thunderbolts is kicking off the
+summer movie season, which I think is good
+
+128
+00:11:59,761 --> 00:12:04,863
+news. I think it shows that Marvel has faith
+in the Thunderbolts movie to have such a valuable
+
+129
+00:12:04,903 --> 00:12:11,225
+release date. Have they started filming Thunderbolts?
+Not yet, no. Man, that seems like a quick turnaround.
+
+130
+00:12:11,606 --> 00:12:17,047
+But I imagine it has fewer special effects than
+Fantastic Four would need. Maybe. Who knows?
+
+131
+00:12:17,587 --> 00:12:22,249
+A few months prior to that, in February, we're
+going to get Captain America, Brave New World,
+
+132
+00:12:22,369 --> 00:12:26,110
+which has already started filming and I think
+is close to wrapping up here. I think this
+
+133
+00:12:26,130 --> 00:12:30,171
+is all great news. It gives the studio more
+time to work on Fantastic Four, which, you
+
+134
+00:12:30,191 --> 00:12:35,112
+know, is a flagship franchise that needs to
+be done right in its third iteration. And nothing
+
+135
+00:12:35,132 --> 00:12:39,922
+got pushed back. It's just dates that are swapping.
+So we can still expect. something Marvel to
+
+136
+00:12:39,942 --> 00:12:44,924
+come out on those original dates. Yeah, next
+year. Again, I'm really just hoping for this
+
+137
+00:12:44,964 --> 00:12:49,126
+year to fly by. I know it's gonna be a crazy
+year with like the election and everything.
+
+138
+00:12:49,586 --> 00:12:54,828
+Just bring on 2025 after The Joker, of course,
+cause I really want to see that, but yeah,
+
+139
+00:12:54,908 --> 00:13:00,430
+2025 is gonna be better than 2024, I'm pretty
+sure. Now I don't want to skip over Deadpool
+
+140
+00:13:00,450 --> 00:13:04,212
+and Wolverine. So we could get to that movie
+and then once it comes out, then yeah, I'm
+
+141
+00:13:04,232 --> 00:13:08,253
+ready for 2025 already. All right, we'll just
+skip to Deadpool and Wolverine, then skip to
+
+142
+00:13:08,273 --> 00:13:12,906
+The Joker. and then skip to 2025. No, skip to
+Christmas, because you can't skip Christmas,
+
+143
+00:13:12,946 --> 00:13:16,130
+man. That's true. That's fair. What are we talking
+about? I don't know.
+
+144
+00:13:19,414 --> 00:13:24,600
+But let's go to move on to the next bit of news
+here, which is that the official trailer for
+
+145
+00:13:24,620 --> 00:13:30,302
+the X-Men 97 cartoon has been released. It was
+released under a new banner. called Marvel
+
+146
+00:13:30,362 --> 00:13:34,363
+Animation, which is pretty exciting to see,
+because I think it signifies that Marvel is
+
+147
+00:13:34,383 --> 00:13:39,065
+going to be producing a lot more animated projects.
+Yeah, maybe What If will fall under that banner
+
+148
+00:13:39,105 --> 00:13:43,707
+now, that's Spider-Man series, the prequel series
+that they're coming up with. I forget the name
+
+149
+00:13:43,747 --> 00:13:48,449
+of it. Yeah, that was originally called Spider-Man
+Freshman Year, but they've since changed the
+
+150
+00:13:48,489 --> 00:13:52,811
+title to Friendly Neighborhood Spider-Man. I'm
+surprised there's not a home in there somewhere,
+
+151
+00:13:53,551 --> 00:13:58,273
+but that's probably Marvel Animation, I imagine,
+as well. Marvel Zombies is also going to be
+
+152
+00:13:58,333 --> 00:14:03,657
+animated. when that comes out. So, lots of projects
+for Marvel Animation cannot wait. These type
+
+153
+00:14:03,677 --> 00:14:08,940
+of stories do really well, I think, in animation
+and Marvel hasn't really invested too much
+
+154
+00:14:08,980 --> 00:14:13,163
+in that lately. Their previous animated films
+weren't very good, but these series hopefully
+
+155
+00:14:13,203 --> 00:14:18,227
+will be. Just like the X-Men cartoon was back
+in the 90s, the trailer starts off showing
+
+156
+00:14:18,327 --> 00:14:22,310
+us clips from the series from Nali back when
+that ended and picks up right where it left
+
+157
+00:14:22,370 --> 00:14:27,193
+off. It's cool that the camera goes into the
+analog screen and basically takes us right
+
+158
+00:14:27,233 --> 00:14:33,639
+back into that world. The animation is a little
+bit different in style, but you can tell heavily
+
+159
+00:14:33,679 --> 00:14:38,921
+inspired by the 90s cartoon at the very least,
+especially in terms of character design, especially
+
+160
+00:14:38,941 --> 00:14:43,422
+in terms of voice. Yeah, it sounds like the
+voice cast is returning, which I think I had
+
+161
+00:14:43,462 --> 00:14:47,903
+already known that, but it was a nice kind of
+surprise to hear as well. Yeah, if it's not
+
+162
+00:14:47,923 --> 00:14:54,245
+the original voice cast, they are remarkable
+impressionists. It's nice to see Cyclops as
+
+163
+00:14:54,285 --> 00:14:58,447
+the leader of the team again. and really take
+center stage. Hopefully he proves to a whole
+
+164
+00:14:58,467 --> 00:15:03,191
+new generation of fans that he is the de facto
+leader of the X-Men because the movies kind
+
+165
+00:15:03,231 --> 00:15:07,535
+of gave him the shaft. The most standout moment
+for me in the trailer is when Wolverine is
+
+166
+00:15:07,595 --> 00:15:13,559
+charging toward the camera, Gambit jumps on
+his back and charges his claws up with kinetic
+
+167
+00:15:13,600 --> 00:15:17,122
+energy. I thought that was really dope. Yeah,
+it was a nice combo move, kind of like a fastball
+
+168
+00:15:17,162 --> 00:15:22,174
+special, you know, if Colossus isn't around
+or anything like that. Yeah. I like there was
+
+169
+00:15:22,254 --> 00:15:27,598
+a scene with Storm and she has her new haircut.
+It's like the ponytail kind of thing and there's
+
+170
+00:15:27,618 --> 00:15:31,501
+just lightning crackling all around her. I'm
+like, oh shit, the animation is a lot better
+
+171
+00:15:31,561 --> 00:15:37,125
+than in the 90s. Yeah, the ponytail hair here
+is kind of like a nice compromise between,
+
+172
+00:15:37,225 --> 00:15:41,869
+you know, her long flowing hair from the 90s
+cartoon and also her mohawk style. I really
+
+173
+00:15:41,909 --> 00:15:47,773
+like the way it looks here. Yeah, same. We see
+Jean Grey in this trailer who appears to be
+
+174
+00:15:47,873 --> 00:15:52,575
+pregnant. Which is a surprise because that never
+happened in the comic books. Scott knocked
+
+175
+00:15:52,635 --> 00:15:59,218
+up Madeline Pryor, who was a clone of Jean Grey.
+So either this version of Jean Grey is actually
+
+176
+00:15:59,238 --> 00:16:04,500
+a clone or they're just going to make Jean Grey
+the mother of Cable, which is what I assume
+
+177
+00:16:04,520 --> 00:16:10,943
+they're going with here. I think that's Cable
+in the womb. Unless Wolverine's the father.
+
+178
+00:16:11,163 --> 00:16:17,298
+Oh, shit scandals. I doubt that they would do
+that. But if they're making Jean Grey. Cable's
+
+179
+00:16:17,338 --> 00:16:22,080
+mother. I'm totally fine with that because she
+basically raised him in the comic books anyway
+
+180
+00:16:22,220 --> 00:16:27,723
+when she and Scott were sent to the future to
+take care of him. I don't really like the character
+
+181
+00:16:27,743 --> 00:16:32,786
+of Madeline Pryor or like the Goblin Queen or
+any of that stuff. So I won't miss her if she's
+
+182
+00:16:32,806 --> 00:16:37,529
+gone. It looks like Magneto has taken over the
+whole school, which is kind of cool. Yeah,
+
+183
+00:16:37,569 --> 00:16:42,771
+that is from the comics. Magneto took over the
+school around the time of the New Mutants and
+
+184
+00:16:42,911 --> 00:16:46,593
+he kind of turned over a new leaf for a while
+before, you know, going back to being the villain.
+
+185
+00:16:47,226 --> 00:16:52,788
+The trailer got me pumped up with loads of nostalgia.
+I remember loving this series as a kid, especially
+
+186
+00:16:52,828 --> 00:16:57,250
+the first two seasons. The show kind of fell
+off after that. But the show was always known
+
+187
+00:16:57,290 --> 00:17:02,892
+for seriously tackling the issues of prejudice
+and things like that. And hopefully this new
+
+188
+00:17:02,932 --> 00:17:06,473
+cartoon really runs with those themes, keeps
+it as straight as possible, doesn't make it
+
+189
+00:17:06,493 --> 00:17:10,215
+too goofy or anything like that because that's
+what made the original 90s X-Men cartoon so
+
+190
+00:17:10,235 --> 00:17:14,617
+great. I can't wait for it. The show is actually
+going to debut pretty soon here in about a
+
+191
+00:17:14,737 --> 00:17:21,374
+month on March 20th. on Disney Plus. And speaking
+of the 90 series, that brings us to our question
+
+192
+00:17:21,414 --> 00:17:21,816
+of the week.
+
+193
+00:17:26,210 --> 00:17:32,453
+What was your favorite character from the X-Men
+90s cartoon, besides Wolverine, and why? I
+
+194
+00:17:32,473 --> 00:17:36,975
+mean, everyone's gonna say Wolverine, so yeah,
+that's probably a good caveat. Record your
+
+195
+00:17:37,035 --> 00:17:40,997
+answer at dynamicduel.com by clicking on the
+red microphone button in the bottom right hand
+
+196
+00:17:41,038 --> 00:17:45,040
+corner of the screen, which will prompt you
+to leave us a voicemail. Your message could
+
+197
+00:17:45,060 --> 00:17:49,342
+be up to 30 seconds long, and don't forget to
+leave your name in case we include you on the
+
+198
+00:17:49,382 --> 00:17:54,445
+podcast. We'll pick our favorite answer, and
+award that person a dynamic duel no prize that
+
+199
+00:17:54,465 --> 00:17:59,905
+we'll post to Instagram. Be sure to answer before
+February 24th.
+
+200
+00:18:07,118 --> 00:18:10,583
+But I think that does it for all the news for
+this episode, so let's go ahead and get into
+
+201
+00:18:10,723 --> 00:18:16,633
+our main event, where we review the latest Sony
+Spider-Man Universe movie, Madam Web.
+
+202
+00:18:33,522 --> 00:18:40,567
+directed by S.J. Clarkson and stars Dakota Johnson,
+Sidney Sweeney, Isabella Merced, Celeste O'Connor,
+
+203
+00:18:40,747 --> 00:18:46,771
+and Tahar Rahim. The movie is based on an obscure
+Spider-Man ally from the comic books, a mysterious
+
+204
+00:18:46,871 --> 00:18:51,675
+psychic woman who can peer into the web of life
+and destiny, and has helped Spidey in several
+
+205
+00:18:51,735 --> 00:18:58,480
+of his adventures. Madam Web is a project that
+literally no one asked for, centered around
+
+206
+00:18:58,500 --> 00:19:03,331
+a character that isn't even bottom of the barrel.
+She's so under and below the barrel that you
+
+207
+00:19:03,351 --> 00:19:09,555
+have to dig to find her. I wasn't anticipating
+this film, I only moderately enjoyed it and
+
+208
+00:19:09,615 --> 00:19:14,859
+I won't be recommending it. I don't think a
+lot of people are going to be seeing this movie,
+
+209
+00:19:15,279 --> 00:19:21,283
+I don't think it's necessary to see. So as I
+give our obligatory spoiler warning for this
+
+210
+00:19:21,323 --> 00:19:26,547
+review, I do so with great ambivalence. If you
+don't want to be spoiled on Madame Webb's plot,
+
+211
+00:19:27,107 --> 00:19:33,183
+give us a pause and I wish you the best in seeing
+this movie. If it sounds like I'm actively
+
+212
+00:19:33,223 --> 00:19:37,746
+discouraging people from seeing the film, you
+may be partially correct. It's gotten to the
+
+213
+00:19:37,786 --> 00:19:43,770
+point now where the obviousness of Sony's disregard
+for the source material and the audience is
+
+214
+00:19:43,830 --> 00:19:49,094
+beyond the pale. For those who may not know,
+prior to the existence of Marvel Studios, the
+
+215
+00:19:49,134 --> 00:19:53,857
+film rights for many Marvel characters were
+sold to outside studios with Spider-Man going
+
+216
+00:19:53,877 --> 00:19:59,341
+to Sony. It made sense at the time because Marvel
+was a publishing company. They made comics.
+
+217
+00:19:59,381 --> 00:20:04,164
+They didn't know how to make movies. But since
+the mid-2000s, Sony has cranked out a lot of
+
+218
+00:20:04,244 --> 00:20:09,148
+subpar live action films, especially when compared
+to Marvel Studios, who has obviously had the
+
+219
+00:20:09,208 --> 00:20:14,292
+best handle on their own intellectual property.
+Spider-Man has fared much better at Marvel
+
+220
+00:20:14,372 --> 00:20:18,976
+than he ever did at Sony, but technically the
+Spider-Man Home Trilogy films were a Marvel
+
+221
+00:20:19,016 --> 00:20:24,981
+production of a Sony franchise, because to this
+day, Sony still has the rights to Spider-Man,
+
+222
+00:20:25,021 --> 00:20:28,984
+and they will continue to have them as long
+as they keep making Spider-Man-related films
+
+223
+00:20:29,064 --> 00:20:34,618
+and don't lapse on their contract. The only
+reason average films like The Amazing Spider-Man,
+
+224
+00:20:34,798 --> 00:20:40,240
+Venom, Morbius, and now Madame Web were made
+was to keep the character from reverting to
+
+225
+00:20:40,340 --> 00:20:45,621
+Marvel. In Sony's eyes, it's better to make
+a mediocre movie now that no one wants to see
+
+226
+00:20:45,821 --> 00:20:51,743
+in order to retain the potential of making money
+later. And as a Marvel fan, and as a movie
+
+227
+00:20:51,763 --> 00:20:57,605
+fan, that sucks. And if we have to show the
+studio that message with our wallets, then
+
+228
+00:20:57,625 --> 00:21:03,259
+that's what we should probably do. Don't go
+through any great efforts to see this movie
+
+229
+00:21:03,379 --> 00:21:08,403
+if you already weren't planning on doing so.
+Yeah, it's definitely not worth your time,
+
+230
+00:21:08,504 --> 00:21:13,267
+I would say. Yeah, I mean, it's not terrible,
+but you're right, yeah. It's not worth probably
+
+231
+00:21:13,287 --> 00:21:17,151
+the money that you would spend. I would probably
+say if you're gonna see it, wait until it's
+
+232
+00:21:17,191 --> 00:21:22,195
+out of theaters on streaming. That being said,
+I'm not gonna bash this movie for the sake
+
+233
+00:21:22,215 --> 00:21:28,060
+of it. I will remain as impartial as I can as
+a critic. There are some people out there saying
+
+234
+00:21:28,100 --> 00:21:32,110
+that this is the worst superhero movie ever
+made. But I think they're forgetting that 2015's
+
+235
+00:21:32,610 --> 00:21:38,033
+Fantastic Four exists. Or Batman and Robin,
+which was worse than that. Or the Shaquille
+
+236
+00:21:38,053 --> 00:21:42,654
+O'Neal Steel movie, which was worse than that.
+So, Madame Webbe, I would say, is around the
+
+237
+00:21:42,694 --> 00:21:48,797
+same quality as Morbius, although I personally
+liked Morbius a little bit more. Madame Webbe
+
+238
+00:21:48,957 --> 00:21:52,959
+is a film that is more divisive than outright
+horrible. And I'll say that I liked it a little
+
+239
+00:21:52,979 --> 00:21:57,881
+bit more than I thought I would. But in the
+end, I could take it or leave it. Again, it's
+
+240
+00:21:57,901 --> 00:22:03,323
+a film no one asked for. Yeah, I mean... I also
+liked it surprisingly a little bit more than
+
+241
+00:22:03,363 --> 00:22:07,426
+I thought I would because I was expecting the
+worst movie that's ever been made honestly
+
+242
+00:22:07,446 --> 00:22:12,170
+with the way film critics were talking about
+it. But I honestly liked it more than Morbius.
+
+243
+00:22:12,250 --> 00:22:16,853
+I'd say I liked it more than Electra. There
+are worse Marvel movies than this in my opinion.
+
+244
+00:22:17,393 --> 00:22:24,698
+Yeah, go see Howard the Duck, right? Exactly.
+Yeah. But yeah, I mean, it's really hard to
+
+245
+00:22:24,738 --> 00:22:30,786
+watch non MCU Marvel movies, because it's obvious
+that they don't have a roadmap. You know, how
+
+246
+00:22:30,826 --> 00:22:36,969
+does this connect in any way to Morbius or the
+upcoming Craven film or Venom? I have no idea.
+
+247
+00:22:37,069 --> 00:22:42,351
+I honestly don't care. Yeah, I really don't
+care where this whole thing is going. And I
+
+248
+00:22:42,391 --> 00:22:46,372
+kind of get the impression that the filmmakers
+didn't really care about this project at all
+
+249
+00:22:46,532 --> 00:22:51,394
+either. And even the writers, it seems like
+none of them had really read the comics. Well,
+
+250
+00:22:51,414 --> 00:22:55,036
+I mean, it's not like there's a huge amount
+of Maddenweb comics to go off of. You know,
+
+251
+00:22:55,056 --> 00:23:00,347
+this is largely an original origin story for
+the character. Yeah, to be honest, I don't
+
+252
+00:23:00,367 --> 00:23:04,491
+know much about the character. All I know from
+her is what I learned from the animated series
+
+253
+00:23:04,531 --> 00:23:09,997
+in the 90s. Yeah, that was also my introduction
+to the character. She had quite a sizable role
+
+254
+00:23:10,017 --> 00:23:14,502
+within that animated series, much larger than
+she ever did in the comic books. Interesting.
+
+255
+00:23:15,223 --> 00:23:20,508
+The movie isn't a total dumpster fire. I think
+what keeps the film from being so is the director,
+
+256
+00:23:20,769 --> 00:23:26,068
+S.J. Clarkson. This lady has been a part of
+every single television show you've ever loved
+
+257
+00:23:26,348 --> 00:23:32,532
+in the last 15 or so years, having directed
+quintessential episodes of Heroes, House, Dexter,
+
+258
+00:23:32,692 --> 00:23:38,135
+Bates Motel, Orange is the New Black, Jessica
+Jones, Game of Thrones, Succession, Need I
+
+259
+00:23:38,175 --> 00:23:44,278
+Go On. You know, SJ Clarkson is incredibly acclaimed
+and talented. And I also think that she set
+
+260
+00:23:44,318 --> 00:23:48,220
+up some incredible shots in this movie, especially
+in the first act when Cassie is discovering
+
+261
+00:23:48,261 --> 00:23:53,628
+her powers. It's clear. that the director had
+an incredible knack for visual storytelling.
+
+262
+00:23:54,048 --> 00:24:01,093
+The problem is that the story has to be good,
+and Madame Webb's story is not good. A lot
+
+263
+00:24:01,113 --> 00:24:06,136
+of the characters are shallow, the second act
+is a drag with very little momentum, and I
+
+264
+00:24:06,156 --> 00:24:10,660
+don't care how good of a director you are, there's
+no way to direct most of the dialogue in this
+
+265
+00:24:10,720 --> 00:24:16,303
+film. Some of the worst dialogue I've ever heard
+in any film. And what's really tragic is that
+
+266
+00:24:16,444 --> 00:24:22,748
+S.J. Clarkson actually has a screenplay credit
+here. So it's not clear where things went wrong,
+
+267
+00:24:23,088 --> 00:24:28,093
+but given the director's track record, I can
+almost guarantee it was studio interference.
+
+268
+00:24:28,213 --> 00:24:33,077
+Interesting. I didn't realize she wrote this
+as well. That's a shame if it was studio interference
+
+269
+00:24:33,117 --> 00:24:37,240
+because they really threw her under the bus
+letting her put her name all over it. Yeah,
+
+270
+00:24:37,260 --> 00:24:42,385
+it seems to me when it comes to Sony and the
+Sony Spider-Man Universe films, it's like a
+
+271
+00:24:42,445 --> 00:24:47,569
+bunch of non-creative business people making
+creative decisions that muddle the overall
+
+272
+00:24:47,609 --> 00:24:53,921
+vision. Cause I do think that there were flashes
+of a genuine suspense thriller here, but I
+
+273
+00:24:53,961 --> 00:24:58,885
+guarantee you that some executive was like,
+no, we need a scene of these girls dancing
+
+274
+00:24:58,925 --> 00:25:04,208
+on the table. And like we need the climactic
+fight to be under that Pepsi sign and like
+
+275
+00:25:04,328 --> 00:25:10,172
+put in fireworks. Cause my niece loves fireworks.
+So much Pepsi product placement. It was a little
+
+276
+00:25:10,192 --> 00:25:13,755
+ridiculous. Really made me want a Pepsi though
+at the end of this film, but hell no, I'm a
+
+277
+00:25:13,815 --> 00:25:19,643
+Coke guy for life. Honestly, the movie that
+I, probably would have preferred to this one
+
+278
+00:25:19,843 --> 00:25:24,967
+is the superhero movie that we were promised
+in the marketing. Like was this even a superhero
+
+279
+00:25:24,987 --> 00:25:29,451
+movie? Maybe in the sense that there were people
+with powers and a struggle between good and
+
+280
+00:25:29,491 --> 00:25:34,235
+evil, but the costumes were pretty much non-existent.
+It wasn't like this, it was a spider-woman
+
+281
+00:25:34,275 --> 00:25:39,359
+team-up film where we got to see these ladies
+kick ass. Right? Yeah, I don't even know like
+
+282
+00:25:39,399 --> 00:25:44,023
+how the girls got their spider powers. Like
+what the hell? Yeah, the characters were like
+
+283
+00:25:44,043 --> 00:25:48,618
+pretty much a bait-and-switch I think, which
+was not cool. The film felt so small because
+
+284
+00:25:48,658 --> 00:25:53,861
+the stakes were so minuscule. While the film
+implies that these teenage girls will grow
+
+285
+00:25:53,961 --> 00:25:58,603
+up to become superheroes, doesn't show anything
+to the effect of them, you know, saving the
+
+286
+00:25:58,643 --> 00:26:04,086
+world in the future or even stopping a crime
+or doing anything worthwhile besides striking
+
+287
+00:26:04,106 --> 00:26:08,788
+some cool poses. I mean, technically they all
+kind of saved Peter Parker's life, but it's
+
+288
+00:26:08,828 --> 00:26:14,091
+not even clear in this universe whether or not.
+Peter Parker will become Spider-Man. If he
+
+289
+00:26:14,151 --> 00:26:19,115
+does, he's not a very original character considering
+there's a shit ton of other Spider-People in
+
+290
+00:26:19,155 --> 00:26:23,879
+this universe. And that's one of the worst things
+about this movie, right? The implications that
+
+291
+00:26:23,899 --> 00:26:29,384
+it has on the larger Sony Spider-Man universe
+where everybody gets Spider-powers. You get
+
+292
+00:26:29,424 --> 00:26:33,788
+Spider-powers. You get Spider-powers. There's
+a whole race of indigenous Spider-People in
+
+293
+00:26:33,828 --> 00:26:38,712
+Peru apparently. And you know... There is some
+of that in the comics. There's the whole spider
+
+294
+00:26:38,752 --> 00:26:43,256
+society, which I think was one of the worst
+ideas ever. Like J. Michael Straczynski really
+
+295
+00:26:43,296 --> 00:26:49,041
+started this all when he insinuated that Spider-Man
+was part of the spider totem and that all of
+
+296
+00:26:49,081 --> 00:26:54,145
+his animal themed bad guys were also representatives
+of their animal totems. It's kind of a neat
+
+297
+00:26:54,225 --> 00:27:00,831
+idea and concept, but people ran with that shit
+for years and years. And then it just outstated
+
+298
+00:27:00,851 --> 00:27:05,426
+its welcome. Like you had the sisterhood of
+the wasps. and the Spider Society and all this
+
+299
+00:27:05,547 --> 00:27:11,750
+random shit. And it got really lame really fast.
+I'm just gonna say it now. There's too many
+
+300
+00:27:11,850 --> 00:27:17,774
+Spider-Men, like way too many. I agree with
+you, for sure. At least within the 616 proper
+
+301
+00:27:17,854 --> 00:27:22,296
+universe, I don't care how many Spider-Men there
+are across the multiverse. And I think that
+
+302
+00:27:22,336 --> 00:27:26,279
+actually works, especially when you look at
+a film across the Spider-Verse. But when you
+
+303
+00:27:26,339 --> 00:27:31,041
+have 50 million Spider-Men and Spider-Women
+in the same playground, it gets a little crowded.
+
+304
+00:27:31,510 --> 00:27:36,072
+Which is a shame, I feel like, for anyone who
+liked the Spider-Verse films. Like if they
+
+305
+00:27:36,112 --> 00:27:40,774
+go into this movie expecting like more of that
+kind of awesomeness, they're going to be sorely
+
+306
+00:27:40,814 --> 00:27:46,797
+disappointed. Oh, for the most part. I really
+wish that this movie, like those Spider-Verse
+
+307
+00:27:46,837 --> 00:27:51,899
+films, was made for the fans. Because honestly,
+I don't think this one was. I think this was
+
+308
+00:27:51,959 --> 00:27:58,766
+trying to capture a new demographic for superhero
+films that really isn't. as interested in them
+
+309
+00:27:58,986 --> 00:28:05,450
+as comic book readers. I 100% agree. It was
+like it was trying to tap into like the teenage
+
+310
+00:28:05,570 --> 00:28:09,572
+thriller genre, like the people that went and
+saw Final Destination. But I think they'll
+
+311
+00:28:09,592 --> 00:28:13,975
+be disappointed when they see this film. Of
+course, the fans will be disappointed. So it's
+
+312
+00:28:13,995 --> 00:28:18,897
+hard to know exactly who is going to love this
+movie, if anybody. But speaking of the characters,
+
+313
+00:28:18,917 --> 00:28:24,801
+let's go ahead and get into our character breakdown,
+starting with Madame Webb, aka Cassandra Webb,
+
+314
+00:28:24,841 --> 00:28:30,183
+who was played by Dakota Johnson. I actually
+liked Dakota Johnson here more than I wanted
+
+315
+00:28:30,223 --> 00:28:34,904
+to. I haven't seen her in too much stuff, only
+in Suspiria, but I was never too impressed
+
+316
+00:28:34,924 --> 00:28:39,765
+with her acting ability. In this movie though,
+I actually thought she did well enough with
+
+317
+00:28:40,005 --> 00:28:45,707
+most of the material, not just in conveying
+her burgeoning psychic powers, but also her
+
+318
+00:28:45,787 --> 00:28:50,288
+emotional scenes as well. Yeah, this was also
+the first time I saw her. I agree, I didn't
+
+319
+00:28:50,308 --> 00:28:53,929
+think she did that terrible. She probably had
+the best performance in the film next to like
+
+320
+00:28:54,009 --> 00:28:59,388
+Adam Scott. Yeah. She has this kind of deadpan
+style to her that I think was really able to
+
+321
+00:28:59,468 --> 00:29:04,712
+tap into the script's humor. I think she sold
+the comedy actually really well. What little
+
+322
+00:29:04,752 --> 00:29:11,257
+comedy there was in the script. And surprisingly,
+I believed in the idea of her as a superhero
+
+323
+00:29:11,377 --> 00:29:16,021
+toward the end of the movie more than I believed
+in her as a cynical paramedic in the beginning
+
+324
+00:29:16,041 --> 00:29:20,964
+of the film. I wouldn't mind seeing more of
+her as a superhero character if and when she
+
+325
+00:29:20,984 --> 00:29:26,996
+turns up again down the line. I praise her performance,
+however, with the caveat that she completely
+
+326
+00:29:27,036 --> 00:29:31,358
+dropped the ball in her final scene with the
+wheelchair and the strange eyeglasses. That
+
+327
+00:29:31,378 --> 00:29:36,661
+was just a really bad delivery. Absolutely.
+I'm still really confused by that whole thing.
+
+328
+00:29:37,121 --> 00:29:42,344
+Like obviously she was blinded by some kind
+of debris, but when did she become paralyzed?
+
+329
+00:29:42,725 --> 00:29:48,908
+How did she afford this like badass wheelchair?
+And why was she like all smiley at the end?
+
+330
+00:29:48,948 --> 00:29:53,283
+Like the future has been really good, I guess.
+I don't know. I remember reading a quote from
+
+331
+00:29:53,363 --> 00:29:57,307
+James Marsden over 20 years ago when he was
+doing an interview for the first X-Men movie
+
+332
+00:29:57,367 --> 00:30:02,171
+saying that it was really hard to act through
+his cyclops visor and I think maybe Dakota
+
+333
+00:30:02,191 --> 00:30:06,375
+Johnson just had the same struggles here. Yeah,
+it's gotta be a challenge. And it's a shame
+
+334
+00:30:06,415 --> 00:30:11,060
+that Final Seem was what the audience was left
+with because I think the rest of her performance
+
+335
+00:30:11,120 --> 00:30:15,454
+was pretty decent. Good even. Especially as
+she goes through her arc, you know, Cassie
+
+336
+00:30:15,494 --> 00:30:20,776
+starts the film as a cynical paramedic detached
+from others due to her life as a seemingly
+
+337
+00:30:20,916 --> 00:30:25,937
+unloved foster child. I think she resented her
+mother for being more invested in her research
+
+338
+00:30:25,957 --> 00:30:31,398
+in the Amazon and then dying instead of caring
+and being there for her. And what's actually
+
+339
+00:30:31,418 --> 00:30:36,060
+great about this aspect of the movie is that
+I thought the same thing about her mom. Like,
+
+340
+00:30:36,140 --> 00:30:41,121
+I remember thinking in the beginning, like,
+lady, you are pregnant, do not fight over the
+
+341
+00:30:41,161 --> 00:30:47,783
+spider with the gun toting psycho. But in Cassie
+getting her powers and exploring their ties
+
+342
+00:30:47,803 --> 00:30:52,764
+to her mother's past, she learns that her mom
+did care about her, that her whole reason for
+
+343
+00:30:52,804 --> 00:30:57,466
+seeking out the spider was for the improved
+quality of life for her child. And I don't
+
+344
+00:30:57,486 --> 00:31:01,907
+know if it's because I'm a parent now, but that
+revelation hit me like a punch in the gut.
+
+345
+00:31:02,367 --> 00:31:06,769
+And Cassie carried that forward, protecting
+and then seemingly raising these neglected
+
+346
+00:31:06,809 --> 00:31:12,522
+teens as the mother figure herself, coming full
+circle. Cassie's arc and that theme of motherhood
+
+347
+00:31:12,723 --> 00:31:17,985
+is the best part of this movie without a doubt.
+Yeah, that was a nice revelation. The fact
+
+348
+00:31:18,025 --> 00:31:22,627
+that she learned that, you know, what her mom
+was doing was for her. It was a selfless act.
+
+349
+00:31:23,127 --> 00:31:25,989
+You're right that she should have just given
+up the spider though. Like she shouldn't have
+
+350
+00:31:26,049 --> 00:31:30,070
+put up that much of a fight. It's like things
+will be okay. Yeah. What's interesting is that
+
+351
+00:31:30,190 --> 00:31:37,446
+the disease that the doctor told Cassie's mom
+that her baby would have is what- character
+
+352
+00:31:37,466 --> 00:31:43,251
+of Madame Webb actually has in the comic books.
+It's called Myasthenia Gravis, and in the books,
+
+353
+00:31:43,411 --> 00:31:48,896
+Madame Webb was born with it. She was born blind
+and a paraplegic, and she developed these psychic
+
+354
+00:31:48,936 --> 00:31:54,020
+powers, this ability to peer into the web of
+life and destiny, which is a construct of fate.
+
+355
+00:31:54,701 --> 00:31:59,185
+And in this movie, that is the disease that
+Cassie's mom was trying to prevent. Yeah, so
+
+356
+00:31:59,205 --> 00:32:04,589
+you could say it's ironic then that her daughter
+ended up blind and in a wheelchair anyway at
+
+357
+00:32:04,609 --> 00:32:09,636
+the end. Yeah, like it was faded or something.
+The web of life and destiny is actually the
+
+358
+00:32:09,716 --> 00:32:13,658
+source of Spider-Man's Spidey-Sense and all
+the Spider characters who have Spidey-Sense
+
+359
+00:32:13,678 --> 00:32:18,241
+are able to tap into that just a little bit.
+In the comics, Madame Web worked as a psychic
+
+360
+00:32:18,341 --> 00:32:23,704
+medium who was once visited by Peter Parker,
+whom she knew off the bat was Spider-Man, surprising
+
+361
+00:32:23,764 --> 00:32:28,586
+him, and she would go on to help him in several
+of his adventures. She not only had telepathy,
+
+362
+00:32:29,027 --> 00:32:34,009
+but she also had clairvoyance. She could predict
+the future and she could also astral project.
+
+363
+00:32:34,530 --> 00:32:38,231
+This movie had an interesting take on the astral
+projection though, in that she could send out
+
+364
+00:32:38,291 --> 00:32:42,852
+multiple copies of herself who could also interact
+physically with the environment. That was a
+
+365
+00:32:42,872 --> 00:32:46,793
+little weird. Yeah, pretty unique though. I
+thought that was actually kind of cool. Yeah,
+
+366
+00:32:46,813 --> 00:32:51,034
+it's an interesting way to not limit her so
+much if the character is ever used again in
+
+367
+00:32:51,114 --> 00:32:56,516
+future films. Let's go ahead and move on to
+Julia Cornwall who is played by Sydney Sweeney.
+
+368
+00:32:56,916 --> 00:33:01,337
+This is actually my first time seeing Sydney
+Sweeney in anything. I never watched Euphoria
+
+369
+00:33:01,597 --> 00:33:07,063
+or White Lotus or anything. I only really know
+of Sydney Sweeney by her reputation as a smoke
+
+370
+00:33:07,083 --> 00:33:13,266
+show, but I'll say that I walked away disappointed
+by her acting. Like is she overrated or was
+
+371
+00:33:13,386 --> 00:33:18,348
+this just not the right project for her? It
+was almost like the insecurities of her character
+
+372
+00:33:18,568 --> 00:33:23,831
+leaked into her performance, making her come
+across as more of an awkward actress than an
+
+373
+00:33:23,911 --> 00:33:29,953
+awkward teenager. I've never seen her in anything
+either, but I don't think she did terrible.
+
+374
+00:33:30,173 --> 00:33:35,827
+I- I think she played an insecure teenager fairly
+well. Stop thinking with your dick. She was
+
+375
+00:33:35,927 --> 00:33:42,069
+not great in this movie. I don't think I am.
+Honestly, I think she did the best out of the
+
+376
+00:33:42,229 --> 00:33:47,950
+three teenage actresses or playing teenagers.
+I think Isabella Merced did the best. And that's
+
+377
+00:33:47,970 --> 00:33:51,831
+good news for you considering that she's going
+to be Hawke Girl in next year's Superman legacy
+
+378
+00:33:51,851 --> 00:33:56,813
+movie. But let's talk about Anya Corazon played
+by Isabella Merced. None of the characters
+
+379
+00:33:56,833 --> 00:34:01,666
+were written well. Again, the dialogue was so
+incredibly awful. But at least I think Anya
+
+380
+00:34:01,706 --> 00:34:07,951
+had the most believable delivery. Sydney Sweeney
+had to play this shy teenager, which she totally
+
+381
+00:34:07,971 --> 00:34:12,574
+didn't come across as. Celeste O'Connor, who
+played Maddie Franklin, tried to portray herself
+
+382
+00:34:12,654 --> 00:34:17,377
+as this rebellious teen, which I also didn't
+think she sold. But Isabella Merced as Anya
+
+383
+00:34:17,497 --> 00:34:23,381
+really just had to play smart. She was the smart
+one. She had the easiest acting job, and therefore
+
+384
+00:34:23,421 --> 00:34:28,564
+I think she pulled it off better. Yeah, I mean,
+she did fine. I don't know if I agree that
+
+385
+00:34:28,585 --> 00:34:32,448
+she did better than the Sidney Sweeney, but
+yeah, she definitely did better than Celeste
+
+386
+00:34:32,468 --> 00:34:37,272
+O'Connor. Yeah, Celeste O'Connor played Maddie
+Franklin. This is my first time seeing Celeste
+
+387
+00:34:37,292 --> 00:34:41,656
+in anything, and if I never see her again in
+another film, I think I would be just fine.
+
+388
+00:34:42,077 --> 00:34:48,242
+Her acting was so bad in this movie. She brought
+down the entire film like she didn't deliver
+
+389
+00:34:48,322 --> 00:34:52,838
+a single line, believably, I thought, and it
+was probably one of the. worst performances
+
+390
+00:34:52,878 --> 00:34:57,782
+out of any superhero movie in the last few decades.
+But not only that, like her character sucked.
+
+391
+00:34:57,943 --> 00:35:04,388
+Like Maddie was so unlikable and rude and impulsive.
+And when she tried rescuing Cassie while skateboarding
+
+392
+00:35:04,548 --> 00:35:10,073
+on a piece of debris, I wanted to fucking puke.
+If we gave away Brothers Awards for the worst
+
+393
+00:35:10,113 --> 00:35:13,976
+moment, that would win it, because that was
+just ridiculous. What did you think about her
+
+394
+00:35:14,036 --> 00:35:18,380
+backstory? Are I guess any of these three girls
+backstories? I thought they were good backstories.
+
+395
+00:35:19,140 --> 00:35:23,342
+I agree. I thought. that made the characters
+more interesting. What I'm really curious about
+
+396
+00:35:23,462 --> 00:35:27,944
+is how they got their powers in the movie. Yeah,
+they never address that. They just leave it
+
+397
+00:35:28,124 --> 00:35:31,705
+open-ended, I assume, for maybe a sequel, where
+they'll get their powers or something like
+
+398
+00:35:31,725 --> 00:35:36,366
+that. But in the comics, Cassie just kind of
+developed her powers. She's not a mutant, but
+
+399
+00:35:36,386 --> 00:35:42,168
+she just became a psychic, I think, largely
+because her condition left her with a clairvoyant
+
+400
+00:35:42,208 --> 00:35:48,129
+mind. But Julia Cornwall, who would later become
+Julia Carpenter, she got her powers through
+
+401
+00:35:48,169 --> 00:35:53,579
+genetic experiments. by a secret government
+group called the Commission and they gave her
+
+402
+00:35:53,599 --> 00:35:57,021
+like, you know, the standard power set. But
+what's unique about her is that she has psychic
+
+403
+00:35:57,061 --> 00:36:01,463
+webbing. It's like psychic energy that lets
+her restrain her opponents and she can also
+
+404
+00:36:01,543 --> 00:36:05,464
+send out psychic feelers as like the spider
+sense. And we saw that in the movie. That was
+
+405
+00:36:05,484 --> 00:36:09,626
+kind of cool. Yeah. I mean, it wasn't clear
+that it was psychic webbing, but that's what
+
+406
+00:36:09,646 --> 00:36:14,748
+it was. Maddie Franklin, she's called Spider-Woman
+in the comics. She gained her powers through
+
+407
+00:36:14,768 --> 00:36:21,551
+this It didn't give her spider abilities, but
+it did give her strength, speed, agility, reflexes.
+
+408
+00:36:22,051 --> 00:36:27,934
+But she later got the additional abilities of
+Madame Webb's granddaughter, who had been turned
+
+409
+00:36:27,974 --> 00:36:33,476
+into a spider-human hybrid by Doctor Octopus,
+hence the giant spider legs from her back that
+
+410
+00:36:33,516 --> 00:36:39,339
+allow her to wall crawl. And then Anya, who
+is known as Aranya in the books, or Spider
+
+411
+00:36:39,379 --> 00:36:44,901
+Girl sometimes, her powers were given to her
+by a sorcerer of the Secret Spider Society
+
+412
+00:36:44,961 --> 00:36:49,944
+who was trying to save her life. and she did
+get the powers of a spider in addition to the
+
+413
+00:36:49,984 --> 00:36:55,429
+ability to summon this exoskeleton armor. And
+she also carries these spider bola devices
+
+414
+00:36:55,549 --> 00:37:00,873
+that she created that allow her to grapple ledges
+and snare opponents and can also be thrown
+
+415
+00:37:00,913 --> 00:37:05,577
+as projectiles. So we saw that in the movie
+too. Man, that's a lot to get through in a
+
+416
+00:37:05,637 --> 00:37:10,922
+sequel if they ever do. Yeah, I assume that
+if they ever get to those superhero origins,
+
+417
+00:37:10,962 --> 00:37:15,145
+they'll probably all get their powers in the
+same way. Yeah, from the spiders in Peru, I
+
+418
+00:37:15,185 --> 00:37:21,139
+guess. Speaking of that, let's move on to Ezekiel
+Sims who is played by Tahar Rahim. I don't
+
+419
+00:37:21,179 --> 00:37:27,641
+even know where to start. Tahar Rahim is an
+actor I've never heard of playing horribly
+
+420
+00:37:28,241 --> 00:37:33,862
+a role that is unrecognizable compared to the
+comic book Ezekiel, a character who in itself
+
+421
+00:37:33,942 --> 00:37:39,644
+is a big ol' sack of mediocrity. Never ever
+have I cared less about a comic book movie
+
+422
+00:37:39,684 --> 00:37:46,614
+villain. He had no arc beyond his desire to
+just continue existing. Beyond that, there
+
+423
+00:37:46,634 --> 00:37:51,458
+were no goals. You know, he's a guy who wanted
+the spider venom to give himself power. And
+
+424
+00:37:51,498 --> 00:37:56,743
+I guess he did that. You know, he amassed this
+power and wealth, but like, who the fuck is
+
+425
+00:37:56,763 --> 00:38:02,188
+this guy? Like, why did he want power? What
+did he plan on doing with it? What was he doing
+
+426
+00:38:02,268 --> 00:38:06,912
+all this time as Cassie was growing up? Like
+fucking investing in stocks and jacking off
+
+427
+00:38:06,932 --> 00:38:12,217
+or some shit? He was not a good villain. He
+was barely even a character. You know, he mentioned
+
+428
+00:38:12,297 --> 00:38:18,493
+something in. the Amazon about his family starving
+or something like that. And I guess he built
+
+429
+00:38:18,513 --> 00:38:23,436
+an empire after that. But I have no sense of
+how loaded this guy is. Apparently only has
+
+430
+00:38:23,456 --> 00:38:28,600
+like one employee who works in his apartment.
+It's like they couldn't find another location
+
+431
+00:38:28,640 --> 00:38:32,663
+for him. They couldn't like show him walking
+through office space or anything like that.
+
+432
+00:38:32,943 --> 00:38:38,046
+It's like, holy crap, what is going on here?
+Like he wasn't evil enough. He wasn't interesting
+
+433
+00:38:38,086 --> 00:38:43,398
+enough. He wasn't anything worthwhile enough.
+And also his acting was not great. Not only
+
+434
+00:38:43,418 --> 00:38:47,841
+did I not believe any of Tahar Rahim's line
+deliveries, I don't even think he delivered
+
+435
+00:38:47,881 --> 00:38:52,704
+them because his voice never matched his mouth.
+It was like most of his lines were 80 yard
+
+436
+00:38:52,724 --> 00:38:58,589
+in post-production. Yes. I actually wondered
+if that was his actual voice in the movie or
+
+437
+00:38:58,629 --> 00:39:02,652
+if they got another actor to do his lines because
+I don't know, maybe he had a really heavy accent
+
+438
+00:39:02,672 --> 00:39:06,975
+that was difficult to understand. I could definitely
+see in a lot of the shadowy scenes and just
+
+439
+00:39:07,035 --> 00:39:12,830
+in the poor editing that he wasn't really actually
+saying. the lines we are hearing. Yeah, that
+
+440
+00:39:12,850 --> 00:39:17,052
+may be due to rewrites, might be due to an accent
+or something. He's a French actor, and maybe
+
+441
+00:39:17,092 --> 00:39:20,994
+he couldn't pull off a convincing Latin American
+accent, which I think the character was supposed
+
+442
+00:39:21,014 --> 00:39:28,697
+to be. Yeah, who knows? But in the books, Ezekiel
+is not Peruvian, although he did get his powers
+
+443
+00:39:28,737 --> 00:39:33,859
+through a mystic ritual in a Peruvian spider
+temple, which is probably why the movie started
+
+444
+00:39:33,959 --> 00:39:41,334
+off in Peru. But like Ezekiel never wore a black
+Spider-Man suit in the comics. Where did that
+
+445
+00:39:41,354 --> 00:39:45,855
+come from? Like, I want to know the reasoning
+behind that. The film never addresses why he
+
+446
+00:39:45,895 --> 00:39:49,996
+looks like Spider-Man. It makes no sense, especially
+when you consider the implications for Spider-Man
+
+447
+00:39:50,196 --> 00:39:55,778
+and his costume, which he developed and created
+and conceived of all on his own. It implies
+
+448
+00:39:55,838 --> 00:40:02,620
+that maybe there was some external influence
+in Peter Parker's costume creation, and that
+
+449
+00:40:02,640 --> 00:40:08,081
+doesn't make sense. Maybe from the Peruvian
+spider people? Not sure. Oh, that was dumb
+
+450
+00:40:08,121 --> 00:40:13,386
+too. It was interesting. I kind of feel like
+when they were trying to explain the character
+
+451
+00:40:13,426 --> 00:40:17,688
+of Ezekiel, they're like, he's kind of like
+Spider-Man. So they're like, oh, so he wears
+
+452
+00:40:17,728 --> 00:40:22,209
+a suit. Let's just make him look like evil Spider-Man.
+Ugh. Yeah, that was some studio executives
+
+453
+00:40:22,269 --> 00:40:25,930
+idea for sure. They're like, we got to make
+it marketable. We got to make it seem like
+
+454
+00:40:25,950 --> 00:40:31,171
+Spider-Man's in this movie. 100%. The final
+characters I want to talk about are Benjamin
+
+455
+00:40:31,211 --> 00:40:37,313
+Parker, played by Adam Scott, and Mary Parker,
+played by Emma Roberts. I don't have too much
+
+456
+00:40:37,353 --> 00:40:42,183
+to say about them because their roles were so
+small. They're both likable actors who I think
+
+457
+00:40:42,223 --> 00:40:46,225
+were entirely wasted in their roles in this
+movie. I don't know about wasted. I think they
+
+458
+00:40:46,305 --> 00:40:51,048
+almost kind of added credibility to the film
+that it would have normally had. I liked seeing
+
+459
+00:40:51,088 --> 00:40:55,750
+them in those roles. I think they're bigger
+actors than, you know, what those roles called
+
+460
+00:40:55,790 --> 00:41:00,673
+for. They could have gotten away with actors
+of a lesser caliber, but no, I like seeing
+
+461
+00:41:00,693 --> 00:41:04,776
+them in the roles. Yeah, it makes you wonder
+if they're planning to use them again down
+
+462
+00:41:04,816 --> 00:41:09,580
+the line, which is why they wanted to get these
+bigger name actors. I keep making allusions
+
+463
+00:41:09,640 --> 00:41:13,363
+to a sequel to this movie, but I think it's
+pretty clear that that's not going to happen.
+
+464
+00:41:13,883 --> 00:41:18,467
+If Madame Web ever shows up again, it's probably
+going to be in some kind of like team up film,
+
+465
+00:41:18,547 --> 00:41:21,830
+like Sinister Six type movie or something like
+that, that I think Sony is working toward,
+
+466
+00:41:22,290 --> 00:41:27,594
+but probably not a Madame Web too. Just taking
+the box office into consideration. Yeah, I
+
+467
+00:41:27,614 --> 00:41:32,925
+didn't even get number one. And this is a Spider-Man
+movie. That's crazy. Yeah, but that does it
+
+468
+00:41:32,945 --> 00:41:35,973
+for all the characters. Let's go ahead and move
+into our story highlights.
+
+469
+00:41:43,082 --> 00:41:49,747
+In 1973, medical researcher Constance Webb discovers
+a rare species of spider in the Peruvian jungle
+
+470
+00:41:49,827 --> 00:41:55,532
+whose venom has healing and strengthening properties.
+Though she is pregnant, her security escort
+
+471
+00:41:55,632 --> 00:42:01,638
+Ezekiel Sims shoots her and steals the spider.
+An indigenous tribe tries to save Constance's
+
+472
+00:42:01,678 --> 00:42:06,502
+life using the spider venom, but she dies shortly
+after giving birth to her daughter Cassandra.
+
+473
+00:42:06,982 --> 00:42:11,734
+Now writing out that scene kind of sounds pretty
+interesting and cool in theory. But seeing
+
+474
+00:42:11,814 --> 00:42:17,015
+it done in practice, I thought was kind of ridiculous,
+especially when you see the indigenous tribe
+
+475
+00:42:17,055 --> 00:42:22,857
+crawling through the trees looking like Spider-Man.
+It's like, what the fuck is going on here?
+
+476
+00:42:24,137 --> 00:42:30,259
+The CG is pretty bad seeing them leap through
+the trees. But I honestly didn't hate the designs
+
+477
+00:42:30,299 --> 00:42:35,240
+of them. Like, if you're going to do an indigenous
+Amazon tribe, Spider-Man, that's how you do
+
+478
+00:42:35,280 --> 00:42:40,082
+it. I didn't like the black webbing that they
+covered their bodies in. It was like. black
+
+479
+00:42:40,122 --> 00:42:44,286
+twigs or something. Yeah, or netting, something
+like that. Some kind of- It was like trying
+
+480
+00:42:44,326 --> 00:42:49,772
+too hard to make it look like Spider-Man's costume.
+Probably, probably that's fair. I thought it
+
+481
+00:42:49,792 --> 00:42:53,075
+was just kind of an interesting design at the
+very least. Now when they were talking about
+
+482
+00:42:53,115 --> 00:42:58,281
+the legend of the Aranya people, I forget what
+they called them, they mentioned a poison touch
+
+483
+00:42:58,401 --> 00:43:03,666
+that Ezekiel Sims, of course, later on gets.
+What did you think of that? I think that's
+
+484
+00:43:03,706 --> 00:43:08,489
+a cool idea, Ezekiel does not have that power
+in the comics, but I think it was a way to
+
+485
+00:43:08,529 --> 00:43:12,753
+make him seem more villainous and more threatening.
+Back to the story, 30 years later, in 2003
+
+486
+00:43:13,393 --> 00:43:20,258
+Queens, New York, Cassie works as a paramedic
+alongside her partner Ben Parker. After helping
+
+487
+00:43:20,318 --> 00:43:24,602
+rescue a man from a car about to fall off a
+bridge, she falls into the water and has a
+
+488
+00:43:24,662 --> 00:43:29,645
+near-death experience that awakens her psychic
+potential to see into the web of life and destiny.
+
+489
+00:43:30,146 --> 00:43:33,828
+I thought that was a pretty cool scene when
+she first started seeing the web in the water.
+
+490
+00:43:34,388 --> 00:43:39,031
+It was hella confusing, honestly. I did like
+how the shattered glass looked like a web.
+
+491
+00:43:39,111 --> 00:43:43,954
+Actually there's a ton of shattered glass in
+this movie that's very web-like. It's kind
+
+492
+00:43:43,974 --> 00:43:48,496
+of like a recurring visual motif. Yeah, I thought
+that was pretty neat. Especially when it also
+
+493
+00:43:48,556 --> 00:43:54,380
+correlates to what feels like her mind fracturing
+as her powers start developing. Right, yeah
+
+494
+00:43:54,440 --> 00:44:02,361
+exactly. I do have a question. Were Cassandra
+and Ben fucking? No. OK. He stuck in the tip
+
+495
+00:44:02,501 --> 00:44:09,687
+once. It didn't count. He put in a ball. All
+I know is that didn't really mean anything.
+
+496
+00:44:09,727 --> 00:44:14,371
+Ben tells her that, like, you know, he's met
+someone, but he never says may. I was just
+
+497
+00:44:14,431 --> 00:44:18,715
+wondering because they had like a weird chemistry
+between each other. No, I think she was too
+
+498
+00:44:18,755 --> 00:44:23,859
+detached for any sort of relationship. Oh, Cassie
+began suffering from visions that turn out
+
+499
+00:44:23,879 --> 00:44:28,658
+to come true, such as the death of her coworker,
+O'Neil. Meanwhile, it's revealed that since
+
+500
+00:44:28,678 --> 00:44:33,861
+his time in Peru, Ezekiel used the spider venom
+to grant himself enhanced physicality, wall
+
+501
+00:44:33,881 --> 00:44:40,584
+crawling ability, a poisonous touch, and precognitive
+dreams. Ezekiel seduces and kills an NSA agent
+
+502
+00:44:40,624 --> 00:44:45,126
+to get access to a person tracking system to
+find three girls that his visions have convinced
+
+503
+00:44:45,166 --> 00:44:51,108
+him will kill him in the future. I do think
+you can't really say precognitive dreams considering
+
+504
+00:44:51,128 --> 00:44:56,358
+the fact that his dreams were lying to him.
+Yeah, it's hard to say because, you know, according
+
+505
+00:44:56,398 --> 00:45:01,520
+to this movie, the future can be changed. So,
+I'm wondering if that's what would have happened
+
+506
+00:45:01,560 --> 00:45:08,042
+to him if Madame Webb never came to be or something.
+Who knows? I have no idea what happened there.
+
+507
+00:45:08,102 --> 00:45:12,943
+Yeah, kind of dumb. Meanwhile, Cassie has a
+vision on the subway of Ezekiel murdering the
+
+508
+00:45:12,963 --> 00:45:18,225
+three girls, Julia Cornwall, Maddie Franklin,
+and Anya Corazon. She convinces the girls to
+
+509
+00:45:18,245 --> 00:45:23,327
+get off the train and they flee. Ezekiel pursues
+them. but his attention is diverted long enough
+
+510
+00:45:23,347 --> 00:45:28,552
+by local police trying to stop him for Cassie
+and the girls to escape in a taxi. Cassie drives
+
+511
+00:45:28,572 --> 00:45:33,497
+them to a nearby forest where they discuss the
+man who moves like a spider. Cassie tells them
+
+512
+00:45:33,517 --> 00:45:38,362
+to wait there as she leaves to revisit her mother's
+spider research back home. I thought it was
+
+513
+00:45:38,382 --> 00:45:43,835
+a little convenient how easily they were able
+to ditch Ezekiel. Really, he was too distracted
+
+514
+00:45:43,875 --> 00:45:49,419
+by taking out police officers. Why not just
+wait for them to be away from the police considering
+
+515
+00:45:49,619 --> 00:45:53,663
+no one was looking up at the ceiling apparently
+to see him? Well, the police were shooting
+
+516
+00:45:53,703 --> 00:45:58,287
+at him. He had to take him out. They would have
+kept shooting at him as he was trying to get
+
+517
+00:45:58,307 --> 00:46:02,811
+at the girls. But they were only shooting at
+him because he started attacking them, right?
+
+518
+00:46:03,271 --> 00:46:07,515
+Well, and also because he's a fucking dude crawling
+on the ceiling. I think, you know, anybody
+
+519
+00:46:07,535 --> 00:46:14,043
+would shoot at that. That's where I would. Back
+in the forest, the girls get restless and walk
+
+520
+00:46:14,063 --> 00:46:19,367
+to a nearby diner. Cassie learns from her mother's
+journal about the rare Peruvian spider, the
+
+521
+00:46:19,407 --> 00:46:25,251
+mysterious indigenous tribe, and Ezekiel's identity
+as her mother's former security escort. At
+
+522
+00:46:25,271 --> 00:46:29,834
+the diner, the girls draw attention to themselves,
+prompting a local to report the location of
+
+523
+00:46:29,854 --> 00:46:35,458
+their missing whereabouts, leading to Ezekiel
+finding them. Cassie gets visions of Ezekiel
+
+524
+00:46:35,518 --> 00:46:40,021
+killing them in the diner, prompting her to
+crash her car into the restaurant to ram him.
+
+525
+00:46:40,462 --> 00:46:44,463
+Teenage girls, man, you can't leave them alone
+for a second before they're dancing on a tabletop
+
+526
+00:46:44,483 --> 00:46:48,965
+so impress some boys. I don't know what kind
+of kid you're raising, but she needs to shape
+
+527
+00:46:49,045 --> 00:46:56,368
+up. I was just saying, it was like bad writing.
+Like really bad. It was. Cassie hides the girls
+
+528
+00:46:56,428 --> 00:47:00,910
+at a hotel where she learns more about Ezekiel's
+motives and abilities after communicating with
+
+529
+00:47:00,950 --> 00:47:05,812
+him through a dream. She teaches the girls how
+to perform CPR, then leaves them to hide out
+
+530
+00:47:05,872 --> 00:47:11,499
+at Ben's while she travels to Peru. There Cassie
+discovers a member of the indigenous tribe
+
+531
+00:47:11,519 --> 00:47:16,221
+who tells her how her mother died and guides
+her through the web of life and destiny revealing
+
+532
+00:47:16,261 --> 00:47:21,944
+that her pregnant mom sought out the spider
+in Peru to cure her daughter's myasthenia gravis.
+
+533
+00:47:22,384 --> 00:47:26,246
+I do wonder why the guy wasn't dressed up like
+rainforest spider-man anymore. He was like
+
+534
+00:47:26,266 --> 00:47:32,308
+wearing regular clothes. Like, does the tribe
+sometimes paint themselves red and cover themselves
+
+535
+00:47:32,328 --> 00:47:36,690
+in black twigs and then sometimes wear regular
+clothes? Or I had something happen to that
+
+536
+00:47:36,710 --> 00:47:40,452
+guy in the last 30 years where he was like,
+you know what? I'm going to move out of the
+
+537
+00:47:40,492 --> 00:47:45,214
+rainforest. Yeah, I wondered the same thing.
+I think that was a mistake. I think they should
+
+538
+00:47:45,234 --> 00:47:49,676
+have kept with the tribal look. Yeah, I agree,
+because, you know, they felt very mysterious
+
+539
+00:47:49,956 --> 00:47:56,059
+and mystical almost. Back in Queens, Ben's sister-in-law,
+Mary, goes into labor on the way to the hospital.
+
+540
+00:47:56,099 --> 00:48:01,622
+Ben's car is caught on camera with the girls
+and Ezekiel pursues them. Cassie. Now back
+
+541
+00:48:01,662 --> 00:48:05,844
+in New York has a vision of them being attacked
+and steals an ambulance to help the girls escape
+
+542
+00:48:06,384 --> 00:48:11,626
+and divert Ezekiel away from Ben and Mary. She
+takes the girls to a condemned fireworks factory
+
+543
+00:48:11,787 --> 00:48:16,569
+where they set up traps for Ezekiel and call
+for a helicopter medical evac. Now I'm pretty
+
+544
+00:48:16,609 --> 00:48:22,352
+sure that freaking fireworks factory burned
+down earlier in the movie, right? Right? Yeah,
+
+545
+00:48:22,392 --> 00:48:26,133
+like how are all those fireworks still there
+after a fire like that? That doesn't make any
+
+546
+00:48:26,193 --> 00:48:30,687
+sense. Also, I didn't realize that bottle rockets
+could shoot holes through brick walls. I got
+
+547
+00:48:30,707 --> 00:48:35,729
+to be more careful with those things. I know,
+right? Those fireworks were so ridiculously
+
+548
+00:48:35,829 --> 00:48:41,452
+overpowered. I think it was a front for like
+a mafia artillery cache or something like that,
+
+549
+00:48:41,532 --> 00:48:46,594
+because like literally one of those fireworks
+took down a whole fucking helicopter, like
+
+550
+00:48:46,794 --> 00:48:52,997
+exploded it. It's so crazy. And like ripping
+holes through the roof and like it pretty much
+
+551
+00:48:53,037 --> 00:48:56,847
+toppled the whole building down. It's like,
+where can I buy these fireworks? Not where
+
+552
+00:48:56,887 --> 00:49:02,092
+we live. You and I have had some fireworks mishaps
+on our own, you know, like accidentally having
+
+553
+00:49:02,112 --> 00:49:06,455
+them explode the cardboard tube that they're
+in and like sending sparks everywhere. But
+
+554
+00:49:06,495 --> 00:49:10,378
+I don't remember that being powerful enough
+to like rip a hole in someone's house. It's
+
+555
+00:49:10,418 --> 00:49:16,523
+sad guys are on fire, but didn't destroy a house.
+When Ezekiel arrives, the fireworks distract
+
+556
+00:49:16,543 --> 00:49:21,447
+him as the girls make their way to the roof
+for the evac. Ezekiel follows and the helicopter
+
+557
+00:49:21,468 --> 00:49:26,263
+gets destroyed, putting each of the girls in
+danger. Cassie's powers then fully manifest,
+
+558
+00:49:26,343 --> 00:49:31,347
+allowing her to project astral projections to
+help each of the girls. As the building falls
+
+559
+00:49:31,387 --> 00:49:35,991
+apart, Cassie reveals that it was she and not
+the girls who were destined to destroy Ezekiel,
+
+560
+00:49:36,191 --> 00:49:41,015
+and he falls to his death before being crushed
+by a falling Pepsi sign. There are so many
+
+561
+00:49:41,075 --> 00:49:46,800
+times in this movie where I'm like, does Ezekiel
+not have spider sense? Like, how the hell is
+
+562
+00:49:46,820 --> 00:49:51,767
+he getting hit by all these different things?
+Like- ambulances and fireworks and signs. I
+
+563
+00:49:51,847 --> 00:49:57,429
+think that maybe his spidey sense kind of manifests
+as those dreams, visions that he gets. Sucks
+
+564
+00:49:57,449 --> 00:50:02,772
+to be him then. Yeah. Cassie also falls off
+the building into the river below where she's
+
+565
+00:50:02,812 --> 00:50:09,895
+blinded by a firework. She's saved from drowning
+by Julia and Maddie and Anya perform CPR. Cassie
+
+566
+00:50:09,935 --> 00:50:15,677
+awakens in a hospital, now paralyzed and blind,
+and learns that Mary gave birth to her son,
+
+567
+00:50:15,877 --> 00:50:21,028
+Peter. Back at her apartment in a wheelchair,
+Cassie decides to mentor the girls in their
+
+568
+00:50:21,048 --> 00:50:26,831
+future roles as Spider-Heroes and has a vision
+of them in costume. No, they never named the
+
+569
+00:50:26,851 --> 00:50:33,615
+baby Peter. No, and you know, fans will obviously
+get the reference. I don't know if general
+
+570
+00:50:33,675 --> 00:50:38,738
+audiences will know that that's actually Spider-Man
+and Uncle Ben and Spider-Man's mom. Yeah, no
+
+571
+00:50:38,778 --> 00:50:42,820
+one in my family did. I saw it with my wife
+and daughters and I had to explain to them
+
+572
+00:50:42,940 --> 00:50:47,078
+who those characters were and why they were
+important. Seems like they dropped the ball
+
+573
+00:50:47,418 --> 00:50:52,782
+on that front. Yeah. You know, considering that
+at the baby shower, they played a game where
+
+574
+00:50:52,802 --> 00:50:56,964
+they tried to guess the baby's first name. They
+could have at least followed through with that
+
+575
+00:50:57,144 --> 00:51:02,867
+by having a scene where Cassie visits Mary and
+is like, so what did that name end up being?
+
+576
+00:51:02,927 --> 00:51:07,610
+And she's like, Peter, you know, and then the
+audience is like, Oh my God. You know, that
+
+577
+00:51:07,630 --> 00:51:11,712
+would have been better. Right. And the baby
+would have been played by Toby McGuire. Right.
+
+578
+00:51:11,792 --> 00:51:16,039
+Exactly. I didn't see this would have flipped
+out. Yeah, superimposed Toby McGuire's face
+
+579
+00:51:16,079 --> 00:51:22,462
+on little baby's head. The costumes we saw at
+the end were not great. I feel like that was
+
+580
+00:51:22,502 --> 00:51:28,085
+the best look we got at them. And I did not
+love Madame Webbs. It looked really cheap.
+
+581
+00:51:28,125 --> 00:51:33,768
+I don't know if it was just like the lipstick
+or the glasses or I don't know. Just I didn't
+
+582
+00:51:33,788 --> 00:51:39,163
+like it. I don't like any of them as much as
+I thought I would. I liked the costumes, I
+
+583
+00:51:39,203 --> 00:51:44,206
+did not like the headgear on any of them. Especially
+Madame Web's which looked like a plastic sleeping
+
+584
+00:51:44,346 --> 00:51:50,691
+eye mask. Yes. The costume looked fine though.
+I didn't like Julia Cornwall's mask. That was
+
+585
+00:51:50,731 --> 00:51:55,794
+weird. Oh, like the chin strap? Yeah. Very strange.
+But that was the end of the movie. There was
+
+586
+00:51:55,834 --> 00:52:00,097
+no end credit scene or mid credit scene. I think
+I was half expecting Jared Leto to show up
+
+587
+00:52:00,277 --> 00:52:05,781
+and say it's morbentime or something like that.
+But I'm kind of glad that there wasn't. Overall.
+
+588
+00:52:06,318 --> 00:52:11,400
+The movie did have some emotional moments and
+was competently directed, but I think a beautiful
+
+589
+00:52:11,520 --> 00:52:16,322
+arc regarding motherhood can't save the film
+from its clunky dialogue, the lack of superhero
+
+590
+00:52:16,402 --> 00:52:23,585
+action, subpar performances, and forgettable
+characters. I rate this film 2.5 stars out
+
+591
+00:52:23,605 --> 00:52:30,168
+of 5, a rotten rating on Rotten Tomatoes. Yeah,
+that sounds about right. I forget what we gave
+
+592
+00:52:30,268 --> 00:52:36,743
+Morbius. We gave Morbius 3 stars? Yeesh. But
+I actually think Morbius had a stronger story
+
+593
+00:52:36,923 --> 00:52:41,646
+and a better villain. I actually think Madame
+Web was about the same quality as the Echo
+
+594
+00:52:41,926 --> 00:52:45,888
+television series that we just reviewed, which
+we also gave two and a half stars. Yeah, maybe
+
+595
+00:52:45,908 --> 00:52:50,090
+you're right when it comes down to the villain.
+This absolutely was one of the worst villains
+
+596
+00:52:50,330 --> 00:52:56,894
+in superhero cinema history, hands down. So
+yeah, around 2.5 seems right to me. I'm not
+
+597
+00:52:56,934 --> 00:53:02,017
+expecting much better in terms of quality for
+the next Sony Spider-Man Universe film that's
+
+598
+00:53:02,037 --> 00:53:06,931
+coming out later this year. which will be Craven
+the Hunter. Yeah, no, the whole radioactive
+
+599
+00:53:06,991 --> 00:53:14,074
+lion blood just still freaking kills me. These
+Sony film writers need to read the comics.
+
+600
+00:53:14,674 --> 00:53:18,676
+They would have made something we actually maybe
+would have wanted to see, like a Miles Morales
+
+601
+00:53:18,716 --> 00:53:23,398
+movie or like Prowler, I don't know, something
+cool. I think a Prowler movie is a great idea.
+
+602
+00:53:23,838 --> 00:53:28,340
+Just make it starring Donald Glover. I'd definitely
+see that. Oh, you weren't into Hypno Hustler?
+
+603
+00:53:28,981 --> 00:53:34,420
+No, fuck that. But that does it for the review
+guys, let us know what you thought about the
+
+604
+00:53:34,480 --> 00:53:41,025
+movie by writing to us at dyna or by visiting
+us on Instagram, which you can find a link
+
+605
+00:53:41,045 --> 00:53:45,990
+to on our show notes, or by visiting our website
+at dynamicduel.com. And on our site you can
+
+606
+00:53:46,030 --> 00:53:50,594
+also find a link to our Patreon page, where
+you can join our dynamic 2.0 tier and chat
+
+607
+00:53:50,614 --> 00:53:55,738
+with us and fellow listeners, our fantastic
+4 tier, which gets you bonus content each month,
+
+608
+00:53:56,098 --> 00:54:01,506
+our X-Force tier that makes you an executive
+producer of this podcast, or our newest tier
+
+609
+00:54:01,606 --> 00:54:06,649
+that lets you join our Dynamike Podcast Network.
+And please don't forget to rate the show guys
+
+610
+00:54:06,829 --> 00:54:12,052
+on Apple Podcasts, Spotify, Podchaser, or on
+our website. In our next episode, we will be
+
+611
+00:54:12,112 --> 00:54:19,456
+doing a duel between Metallo, the Superman villain,
+against Radioactive Man, the, I guess you could
+
+612
+00:54:19,476 --> 00:54:24,459
+say, Avengers, Thor, Hulk villain. And that
+of course is a lead up to our big team duel
+
+613
+00:54:24,499 --> 00:54:30,222
+episode where we will pit the Legion of Doom
+against the Masters of Evil. But that does
+
+614
+00:54:30,242 --> 00:54:34,345
+it for this episode, we want to give a big thanks
+to our executive producers Ken Johnson, John
+
+615
+00:54:34,385 --> 00:54:39,168
+Storowski, Zachary Hepburn, Dustin Belcombe,
+Mickey Mathangian, Brandon Estergard, Nathaniel
+
+616
+00:54:39,188 --> 00:54:45,833
+Wagner, Levi Yeaton, Nick Abonto, Austin Wazilowski,
+AJ Duckerley, Scott Camacho, Adam Spies, Andrew
+
+617
+00:54:45,893 --> 00:54:51,097
+Schunk, and Dean Molesky for helping make this
+podcast possible. And we'll talk to you guys
+
+618
+00:54:51,137 --> 00:54:56,801
+next week. Up up and away, true believers. When
+you take responsibility, great power will come.
+
+619
+00:54:57,054 --> 00:55:01,523
+and also great responsibility will come with
+the great power and the powerful responsibilities
+
+620
+00:55:01,643 --> 00:55:04,629
+are responsibly empowered. Remember that kids.
+
