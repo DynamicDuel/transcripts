@@ -1,0 +1,3474 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a Dynamike Network podcast.
+
+2
+00:00:24,430 --> 00:00:28,911
+And welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:28,931 --> 00:00:34,712
+the superiority between Marvel and DC by comparing
+their characters and stat-based battle simulations.
+
+4
+00:00:35,293 --> 00:00:40,514
+I'm Marvelous Joe. And I'm his twin brother,
+Johnny DC. And in this episode, it's a big
+
+5
+00:00:40,594 --> 00:00:46,016
+one, guys. It's our 375th episode. We are going
+to find out who would win in a fight between
+
+6
+00:00:46,056 --> 00:00:52,317
+the teams of the Legion of Doom versus the Masters
+of Evil. Basically, it's the Evil Justice League.
+
+7
+00:00:52,782 --> 00:00:59,403
+versus the Evil Avengers for Marvel and DC.
+We've done 10 of these team duels now, including
+
+8
+00:00:59,603 --> 00:01:04,305
+Justice League versus Avengers, Titan versus
+X-Men, Justice Society versus Fantastic Four,
+
+9
+00:01:04,765 --> 00:01:09,846
+Suicide Squad versus Defenders, Justice League
+Dark versus Midnight Suns, Arkham Asylum versus
+
+10
+00:01:09,886 --> 00:01:14,828
+Sinister Six, Young Justice versus Young Avengers,
+Flash Rogues versus Brotherhood of Mutants,
+
+11
+00:01:15,288 --> 00:01:20,189
+Doom Patrol versus the Guardians of the Galaxy,
+we even threw a bonus one in there last Halloween.
+
+12
+00:01:20,614 --> 00:01:25,415
+of Deceased vs. The Marvel Zombies. Yeah, if
+any of those episodes sound like they strike
+
+13
+00:01:25,435 --> 00:01:29,476
+your fancy, be sure to listen to those in addition
+to listening to this episode because they're
+
+14
+00:01:29,496 --> 00:01:34,017
+a lot of fun, a lot of work goes into them,
+and we really appreciate when you guys check
+
+15
+00:01:34,037 --> 00:01:38,259
+them out. Before we get into that matchup, we
+have an interview with the hosts of one of
+
+16
+00:01:38,299 --> 00:01:43,600
+the podcasts in the Dynamike Podcast Network,
+Console Combat. We'll get John and Dean on
+
+17
+00:01:43,640 --> 00:01:48,361
+the line later on. If you like video games,
+you owe it to yourself to check this interview
+
+18
+00:01:48,441 --> 00:01:52,727
+out. As always, we list our segment times in
+our episode description, so feel free to check
+
+19
+00:01:52,767 --> 00:01:57,715
+out the show notes if you want to skip ahead
+to a particular topic. Our artificially intelligent
+
+20
+00:01:57,755 --> 00:02:05,098
+dual simulator AJ9K has a quick message for
+our listeners, so listen up. Why hello there.
+
+21
+00:02:05,438 --> 00:02:10,240
+Do you love listening and chatting about Marvel
+and DC? Then become a part of the dynamic dual
+
+22
+00:02:10,260 --> 00:02:15,782
+community on Patreon, where you can choose from
+three tiers. The dynamic 2-0 tier lets you
+
+23
+00:02:15,822 --> 00:02:20,544
+listen to this podcast without ads and gives
+you access to its Discord chat group, where
+
+24
+00:02:20,564 --> 00:02:25,586
+you can chat with Johnny DC and Marvelous Joe.
+The fantastic 4 tier gives you that and more
+
+25
+00:02:25,606 --> 00:02:30,188
+with two bonus episodes each month, including
+bloopers and top 10 shows where Johnny and
+
+26
+00:02:30,228 --> 00:02:35,174
+Joe count down your favourite Marvel and DC
+subjects. The X-Force tier makes you an executive
+
+27
+00:02:35,214 --> 00:02:39,877
+producer of Dynamic Duel, where every month
+you help the host choose what to review and
+
+28
+00:02:39,897 --> 00:02:45,539
+who to fight against each other. And finally,
+the Dynamite Podcast Network tier allows aspiring
+
+29
+00:02:45,579 --> 00:02:50,902
+podcasters to create their own battle-focused
+show using this Monte Carlo simulator. Johnny
+
+30
+00:02:50,922 --> 00:02:55,504
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+31
+00:02:55,564 --> 00:03:00,146
+simulation results to announce on your show.
+Pitch the twins your show via email at dyna
+
+32
+00:03:00,186 --> 00:03:05,908
+or by reaching out to the Dynamite Podcast them
+on social media. Check it out at patreon.com
+
+33
+00:03:06,188 --> 00:03:12,129
+slash dynamic duel. Pip pip cheerio. Thanks
+AJ 9k and thanks to everyone who supports the
+
+34
+00:03:12,169 --> 00:03:16,410
+podcast. Guys, be sure to tune into the other
+shows in the Dynamite Podcast Network this
+
+35
+00:03:16,450 --> 00:03:20,871
+week, including Max Destruction, which pits
+your favorite action heroes from film and television
+
+36
+00:03:20,911 --> 00:03:26,552
+against each other. On the Send Your World podcast,
+host Zachary Hepburn speculates on fights between
+
+37
+00:03:26,592 --> 00:03:31,833
+fan favorite anime characters. This Thursday,
+we'll find out who would win between Vegeta
+
+38
+00:03:31,873 --> 00:03:37,627
+from Dragon and Garou from One Punch Man. Don't
+forget to check out last week's episode as
+
+39
+00:03:37,667 --> 00:03:42,148
+well. I was a guest host on that episode and
+we found out who would win between Goku and
+
+40
+00:03:42,248 --> 00:03:46,549
+Superman. On the console combat podcast, hosts
+John and Dean find out who would win in fights
+
+41
+00:03:46,589 --> 00:03:50,710
+between popular video game characters. In yesterday's
+episode, they found out who would win in a
+
+42
+00:03:50,750 --> 00:03:56,032
+fight between Ratchet and Clank and Jack and
+Daxter. Visit dynamicpodcast.com or click the
+
+43
+00:03:56,072 --> 00:04:00,713
+link in our show notes to listen to all the
+shows in the Dynamike Podcast Network. And
+
+44
+00:04:00,753 --> 00:04:06,867
+with that out of the way, quick. to the No Prize.
+A No Prize is an award Marvel used to give
+
+45
+00:04:06,927 --> 00:04:12,608
+out to fans. Our version, the Dynamic Dual No
+Prize, is a digital award that we post on Instagram
+
+46
+00:04:12,628 --> 00:04:18,250
+for the person that we feel gave the best answer
+to our question of the week. Last week we asked,
+
+47
+00:04:18,610 --> 00:04:24,532
+what is your favorite Superman logo and why?
+This of course was coming off of the news that
+
+48
+00:04:24,632 --> 00:04:30,613
+James Gunn and David Cornswett posted the Superman
+logo that will appear on the new Superman film
+
+49
+00:04:30,673 --> 00:04:35,056
+coming out next year. Yeah, we got three answers,
+so let's go ahead and run down the two honorable
+
+50
+00:04:35,076 --> 00:04:40,239
+mentions as well as the no prize winner. Our
+first honorable mention goes to Miggy Matengian,
+
+51
+00:04:40,620 --> 00:04:45,043
+who said, Hey, what's up guys, it's Miggy and
+my favorite alternate Superman logo is a fan
+
+52
+00:04:45,063 --> 00:04:51,407
+redesign from Reddit where the Pentagon itself
+is the S and the inside is a circle split into
+
+53
+00:04:51,447 --> 00:04:56,891
+two hemispheres kind of like Saturn Girls logo.
+It's my favorite because it kind of goes away
+
+54
+00:04:56,911 --> 00:05:01,875
+from recent interpretations where it's a family
+crest and instead. like ups the stylization
+
+55
+00:05:01,955 --> 00:05:07,340
+of the ass kind of like syndrome from Incredibles.
+Yeah, this is a design that Miggy shared on
+
+56
+00:05:07,380 --> 00:05:11,383
+our Discord server. So everybody got to see
+what it looked like, and I'll do my best to
+
+57
+00:05:11,443 --> 00:05:18,430
+try to describe it just like Miggy did. So imagine
+the red pentagon shape of the ass shield, and
+
+58
+00:05:18,450 --> 00:05:24,615
+it's all red, except for a gold circle that's
+in the center with a red band splitting the
+
+59
+00:05:24,655 --> 00:05:29,803
+circle into two halves down the middle horizontally.
+And then from each of the circle halves, there's
+
+60
+00:05:29,843 --> 00:05:35,646
+a line that extends to the edge of the shield.
+And it forms an S. It's really cool. You may
+
+61
+00:05:35,666 --> 00:05:41,249
+just have to take his word for it. Honestly,
+in my opinion, it's probably the coolest super
+
+62
+00:05:41,269 --> 00:05:47,052
+band logo I've ever seen. The only reason it
+doesn't get this week's no prize award is because
+
+63
+00:05:47,172 --> 00:05:52,975
+it's essentially fan art, but really cool fan
+art. Yeah, it's very minimalistic and they
+
+64
+00:05:52,995 --> 00:05:58,042
+should bring that design into mainstream continuity.
+It would be a great movie logo, honestly. Yeah.
+
+65
+00:05:58,082 --> 00:06:03,585
+Great answer, Miggy. Our next on our roll mention
+goes to Scott Camacho, who said, I know I'm
+
+66
+00:06:03,605 --> 00:06:10,589
+going to get some brownie points for this one,
+but my favorite Superman logo design is always
+
+67
+00:06:10,789 --> 00:06:18,933
+been what the next logo design is. And right
+now it'd be Johnny DC's Superman logo. He kind
+
+68
+00:06:19,033 --> 00:06:25,116
+of did a modernized version of the figure eight
+symbol, which is, I guess, the House of Jor-El
+
+69
+00:06:25,297 --> 00:06:32,824
+symbol. And I really am captivated by it and
+I really hope they take it into a movie. As
+
+70
+00:06:32,864 --> 00:06:37,146
+much as I wanted to give this one the win as
+well, it was just going to be a little too
+
+71
+00:06:37,206 --> 00:06:43,309
+self-serving. So if you guys have listened to
+the podcast for a while, you'll know that Joseph
+
+72
+00:06:43,329 --> 00:06:49,631
+and I are both graphic designers by profession
+and I love doing different designs of superhero
+
+73
+00:06:49,851 --> 00:06:55,506
+logos. I've been working on a Superman logo
+for a really long time, but I f- finally nailed
+
+74
+00:06:55,606 --> 00:07:00,229
+one that I really liked and I've been posting
+it to our discord server and our social media
+
+75
+00:07:00,249 --> 00:07:04,072
+accounts and tagging James Gunn. Yeah, both
+of these honorable mention answers are a little
+
+76
+00:07:04,092 --> 00:07:07,915
+bit esoteric due to the fact that they're not
+well known designs and were just mentioned
+
+77
+00:07:07,955 --> 00:07:11,537
+on our discord. But I think that just means
+that if you're not part of our discord server,
+
+78
+00:07:11,877 --> 00:07:16,240
+you should join our Patreon for just two bucks
+a month. You can join and chat with the rest
+
+79
+00:07:16,320 --> 00:07:20,944
+of the dynamic dual listening community that's
+there. Yeah, it's super fun. Great answer,
+
+80
+00:07:20,964 --> 00:07:27,432
+Scotty. But the winner of this week's no prize
+is... Travis Herndon who said, Hey guys, Travis
+
+81
+00:07:27,472 --> 00:07:33,237
+here. So my pig would have to be the recovery
+suit logo. I really love that silver metallic
+
+82
+00:07:33,297 --> 00:07:41,124
+chrome look it has combined that with the sort
+of skin tight, capeless black uniform he wore.
+
+83
+00:07:41,164 --> 00:07:47,669
+It kind of gave it that sort of badass vibe
+to me. So that's my big recovery suit. I think
+
+84
+00:07:47,689 --> 00:07:55,911
+that screams just badassery all in all. So that's
+my pig. So the Superman emblem on Superman's
+
+85
+00:07:55,951 --> 00:08:02,176
+recovery suit in the comics is actually just
+the standard Superman logo with different coloring.
+
+86
+00:08:02,796 --> 00:08:08,040
+Instead of the traditional red and yellow, it's
+metallic silver, which is still really cool.
+
+87
+00:08:08,200 --> 00:08:12,223
+I loved it in Zack Snyder's Justice League.
+Yeah, it looked really good. There have been
+
+88
+00:08:12,243 --> 00:08:17,127
+a lot of adaptations that we've seen of it.
+I think the poster to Tim Burton's scrapped
+
+89
+00:08:17,187 --> 00:08:22,090
+movie that he was going to direct with Nicolas
+Cage, that used the recovery suit. I think,
+
+90
+00:08:22,230 --> 00:08:26,091
+at least in the poster, it was silver and black.
+Well, I mean, yeah, the coloring was the same,
+
+91
+00:08:26,171 --> 00:08:30,813
+but the logo design was very much different.
+Great design, though. Yeah, there's something
+
+92
+00:08:30,913 --> 00:08:37,656
+just so streamlined about the black suit Superman
+that I think has this cool, darker appeal over
+
+93
+00:08:37,716 --> 00:08:41,378
+his, you know, more traditional primary color
+suit. Yeah, it's pretty sleek and minimal.
+
+94
+00:08:41,538 --> 00:08:47,520
+As long as Superman doesn't have the mullet,
+he looks great in it. Congrats to Travis for
+
+95
+00:08:47,560 --> 00:08:51,518
+winning this week's No Prize. If you the listener
+want a shot at winning your own No Prize. Stay
+
+96
+00:08:51,538 --> 00:08:55,625
+tuned till later on this episode when we'll
+be asking another Question of the Week. And
+
+97
+00:08:55,685 --> 00:08:57,769
+now that that's done, on to the news!
+
+98
+00:09:03,342 --> 00:09:07,164
+Alright, let's get the hosts of the Console
+Combat podcast, which is part of the Dynamike
+
+99
+00:09:07,224 --> 00:09:11,287
+Podcast Network, on the line. Hey, John, good
+to have you back on the show since you were
+
+100
+00:09:11,327 --> 00:09:16,150
+last on for Ghost Rider Spirit of Vengeance.
+And Dean, this is your first time on Dynamic
+
+101
+00:09:16,190 --> 00:09:20,433
+Duel, but you're a relatively new executive
+producer, having come on board as you became
+
+102
+00:09:20,473 --> 00:09:25,277
+the co-host of Console Combat. How's it going,
+guys? Great. Hello. Great. For those who may
+
+103
+00:09:25,297 --> 00:09:31,341
+not know, Console Combat is an awesome show
+that's like this show, Dynamic Duel, but with
+
+104
+00:09:31,441 --> 00:09:37,247
+video games. You guys just finished your 15th
+episode, no, actually your 16th episode with
+
+105
+00:09:37,287 --> 00:09:42,348
+The Last of Us's Joel Miller versus Days Gone's
+Deacon St. John. Your 15th episode was actually
+
+106
+00:09:42,388 --> 00:09:47,189
+the Halo review. Yeah, season one. Yeah, you
+guys are crushing it and you guys have been
+
+107
+00:09:47,229 --> 00:09:51,251
+since your first episode even, I think largely
+because like the crazy amount of prep work
+
+108
+00:09:51,471 --> 00:09:56,032
+John put into the show's creation and Dean,
+your vast knowledge of the gaming industry.
+
+109
+00:09:56,332 --> 00:10:00,073
+So to start off, I just want to say great job
+guys. Thank you. You're doing so well. Thank
+
+110
+00:10:00,093 --> 00:10:06,107
+you. You guys have done episodes like Nathan
+Drake versus Lara Croft, Luigi versus Tails,
+
+111
+00:10:06,367 --> 00:10:11,510
+Master Chief versus Kratos, Assassin's Creed
+versus Hitman. Out of all those episodes you've
+
+112
+00:10:11,530 --> 00:10:15,871
+done, what has been your favorite episode to
+record so far? That's a good question. Our
+
+113
+00:10:15,911 --> 00:10:19,873
+last episode that we released, the one that
+you just mentioned, Joel Miller versus Deacon
+
+114
+00:10:19,893 --> 00:10:26,058
+St. John. that has been probably my favorite
+to do because we diversified the style of fighting.
+
+115
+00:10:26,098 --> 00:10:30,742
+We took away the limitations of each other and
+we brought an aspect of the worlds they came
+
+116
+00:10:30,762 --> 00:10:36,627
+from together and made the amalgamation. And
+that for us was a lot of fun because it gave
+
+117
+00:10:36,667 --> 00:10:40,870
+the opportunity for the game to be involved
+or rather the games to be involved with the
+
+118
+00:10:40,890 --> 00:10:46,334
+process more so than usual. Yeah, we were playing
+around with that a little bit. I think it worked
+
+119
+00:10:46,354 --> 00:10:51,266
+out pretty well. I hope it doesn't seem like
+we kind of focus more on the combined fight
+
+120
+00:10:51,506 --> 00:10:57,331
+against the variable that came in, but I feel
+like it was still viable for how we did it.
+
+121
+00:10:57,772 --> 00:11:02,776
+And yeah, it was fun. Yeah, I think you guys
+bring a lot of interesting ideas to the speculative
+
+122
+00:11:02,816 --> 00:11:07,920
+battles that you guys do. It's very unique from
+the other shows in the network, like what Jonathan
+
+123
+00:11:07,960 --> 00:11:11,383
+and I do, where we strictly it's just the two
+characters and then non environment and stuff
+
+124
+00:11:11,403 --> 00:11:16,026
+like that. You guys actually bring in the environment.
+You even have like power ups from other video
+
+125
+00:11:16,046 --> 00:11:19,629
+games, which is I thought it was brilliant.
+It's just a lot of fun the way you guys do
+
+126
+00:11:20,230 --> 00:11:24,414
+And also you guys used to do tournament based
+battles where the winners of battles would
+
+127
+00:11:24,434 --> 00:11:28,578
+go on to compete against the other winners.
+And that was an idea that Jonathan and I loved,
+
+128
+00:11:28,658 --> 00:11:32,422
+but never did. We kind of toyed around with
+it. Do you guys think you'll continue with
+
+129
+00:11:32,442 --> 00:11:36,727
+the tournament battles or are you just going
+to stick to the single matchups? I think we'll
+
+130
+00:11:36,747 --> 00:11:42,052
+go back to doing a tournament at some point.
+The difficult part is trying to find characters
+
+131
+00:11:42,112 --> 00:11:48,579
+that match up well enough. and also while trying
+to consider how they would match with characters
+
+132
+00:11:48,599 --> 00:11:54,080
+that are in the other brackets in future fights.
+So like we saw a lot of that in this last tournament
+
+133
+00:11:54,100 --> 00:12:01,482
+was a lot of really lopsided fights. For example,
+our Scorpion versus Nemesis fight, you know,
+
+134
+00:12:01,522 --> 00:12:06,044
+it seemed like it was going to be a wash one
+way, but it ended up going the other way massively
+
+135
+00:12:06,224 --> 00:12:10,745
+just because of the way the stats lined up.
+And that's something we need to take into consideration
+
+136
+00:12:11,105 --> 00:12:16,564
+more, I think, next time. just because we focused
+on getting the first set of brackets where
+
+137
+00:12:16,584 --> 00:12:20,586
+they're like, yeah, this isn't even match, and
+it makes sense. But we didn't really consider
+
+138
+00:12:20,646 --> 00:12:25,669
+too much about later on. I mean, don't get me
+wrong, it was fun, because we had those really
+
+139
+00:12:25,729 --> 00:12:31,892
+goofy matchups. But at the same time, it's like,
+yeah, this one was kind of a wash. Yeah, SEO
+
+140
+00:12:31,912 --> 00:12:37,135
+versus Tails was pretty fun to listen to. Yeah,
+I had fun with that one for sure. Yes. Kudos
+
+141
+00:12:37,155 --> 00:12:42,538
+to you guys for actually putting in that work
+and getting it done in that way. Yeah. John's
+
+142
+00:12:42,618 --> 00:12:47,961
+idea to have that, that we open the show, was
+definitely a good idea. Yeah. What I love about
+
+143
+00:12:48,122 --> 00:12:53,365
+Console Combat is that not only do you guys
+also do reviews in addition to the Battle Sims,
+
+144
+00:12:53,685 --> 00:12:57,748
+but you also talk about the news. You know,
+you have your news segments. Right now, currently,
+
+145
+00:12:57,888 --> 00:13:01,971
+I only have my Switch Lite, and I haven't been
+hard into video games really since I started
+
+146
+00:13:01,991 --> 00:13:06,514
+this podcast, because it's just taken up all
+my time, and that's going on eight years. Good
+
+147
+00:13:06,554 --> 00:13:13,759
+God. Wow. But back in the day, you know, I remember
+going on to IGN. almost daily and I was a subscriber
+
+148
+00:13:13,799 --> 00:13:17,702
+to Game Informer just to follow the news on
+what was going on in the industry and see what
+
+149
+00:13:17,722 --> 00:13:22,485
+video games were coming out and stuff. And actually,
+oh geez, back in the day, one of my, one of
+
+150
+00:13:22,505 --> 00:13:27,689
+Jonathan and I's former coworkers was Brian
+Crescenti who started Kotaku. Oh wow. And we
+
+151
+00:13:27,709 --> 00:13:32,393
+used to talk to him all the time about gaming
+and shit. And really I just miss hearing about
+
+152
+00:13:32,453 --> 00:13:36,195
+people talking about gaming and even if I'm
+not necessarily playing the games, I still
+
+153
+00:13:36,215 --> 00:13:41,371
+find it fascinating to hear. And you guys seem...
+like particularly knowledgeable about like
+
+154
+00:13:41,411 --> 00:13:46,256
+the technical side of gaming, such as what goes
+into making a game and whatnot. Have either
+
+155
+00:13:46,276 --> 00:13:51,960
+of you guys ever been in gaming development
+or wanted to? I had originally wanted to do
+
+156
+00:13:51,980 --> 00:13:57,165
+that going out of high school and into college.
+The only class that I really did well in was
+
+157
+00:13:57,205 --> 00:14:02,650
+the 3d animation, but even then it was like
+basic model building and Blender. So I'm vaguely
+
+158
+00:14:02,690 --> 00:14:07,133
+familiar with that. Maybe not in practice, but
+in, you know, I can understand the concept.
+
+159
+00:14:07,906 --> 00:14:12,389
+And I understand how the coding and everything
+works. But actual practice doing it, no. I
+
+160
+00:14:12,429 --> 00:14:17,293
+have no experience in actual game design. Well,
+it's definitely clear that you have, like,
+
+161
+00:14:17,573 --> 00:14:21,416
+some of that background just with the amount
+of technical knowledge. And actually, a vast
+
+162
+00:14:21,436 --> 00:14:25,579
+gaming history, both of you guys. What is your
+gaming history? Like, when did you guys start
+
+163
+00:14:25,619 --> 00:14:30,943
+gaming? And what are you currently playing?
+On this one, I can go back as far as the NES.
+
+164
+00:14:31,263 --> 00:14:38,317
+You're old. Yes, yes, I am. 36 this year. I
+remember vividly playing the NES, and then
+
+165
+00:14:38,497 --> 00:14:42,600
+this was the transition for me that I actually
+remember the games that I was playing. I came
+
+166
+00:14:42,640 --> 00:14:48,045
+home one day, and without telling me that anything
+had changed, my mother just let me go to the
+
+167
+00:14:48,085 --> 00:14:52,408
+video games and turned it on, and it was a totally
+different game. I looked at the system and
+
+168
+00:14:52,428 --> 00:14:57,913
+I said, wow, this is different. My love for
+the Super Nintendo was born. That's really
+
+169
+00:14:57,953 --> 00:15:03,057
+where my gaming took hold. It's been just off
+the rails ever since. I've played every...
+
+170
+00:15:03,562 --> 00:15:09,585
+Every Nintendo rendition up to the GameCube,
+then the Wii. I didn't do the Wii U. I have
+
+171
+00:15:09,605 --> 00:15:14,327
+a Switch. I also grew up a long PlayStation.
+I've had every system for the PlayStation except
+
+172
+00:15:14,347 --> 00:15:19,150
+for the handhelds. I've always been a fan of
+those two primarily. I mean, you can tell by
+
+173
+00:15:19,170 --> 00:15:23,492
+the way we talk to each other on the show, we
+do not agree necessarily on the favorites,
+
+174
+00:15:23,532 --> 00:15:29,956
+whereas I hate Xbox. Dean is much more preferential
+to Xbox. I've never cared for the Xbox myself
+
+175
+00:15:29,996 --> 00:15:35,323
+personally. But so yeah, I mean, Nintendo all
+day for me. than PlayStation for sure is it's
+
+176
+00:15:35,463 --> 00:15:41,707
+equal. And lately my addictions, I mean, everyone's,
+besides Dean and his hate for Fortnite, it's
+
+177
+00:15:41,747 --> 00:15:48,112
+almost always Fortnite for me. But I'm a big
+fan of games like Hogwarts Legacy, which is
+
+178
+00:15:48,332 --> 00:15:53,175
+fantastic game. The Call of Duty games, the
+Black Ops is my thing. We actually been playing
+
+179
+00:15:53,195 --> 00:15:58,259
+that game a little bit. And if anyone has listened
+to the show, everyone knows my absolute love
+
+180
+00:15:58,299 --> 00:16:04,599
+for the Metal Gear franchise. And yeah, that's
+the one for me for sure. Mine actually started
+
+181
+00:16:04,859 --> 00:16:10,723
+a long time ago. It was probably a couple years,
+if not a about a year after the original Xbox
+
+182
+00:16:10,763 --> 00:16:15,607
+came out. I remember my parents, we went to
+Walmart. And this was back in the day when
+
+183
+00:16:15,927 --> 00:16:21,010
+Walmart still had the demos of game consoles
+for like, you know, Xbox, PS2, GameCube, all
+
+184
+00:16:21,030 --> 00:16:26,775
+that stuff. You're old. Yeah, not as old as
+you. And we're looking at all the game stuff.
+
+185
+00:16:26,815 --> 00:16:30,317
+And my dad goes, thinking about getting one
+of these for your brother, which one do you
+
+186
+00:16:30,337 --> 00:16:35,120
+think you'd want? I'm like, I don't know, I've
+never played any of these. And he's like, well,
+
+187
+00:16:35,140 --> 00:16:38,562
+just look at the covers and see which ones you
+think look best. It's like the Xbox ones or
+
+188
+00:16:38,582 --> 00:16:41,323
+the PlayStation ones. I'm like, oh, so I'm looking
+at games or whatever. I'm like, yeah, this
+
+189
+00:16:41,363 --> 00:16:47,667
+game looks fun for the Xbox or whatever. So
+then I come home and they bought the Xbox and
+
+190
+00:16:47,687 --> 00:16:54,070
+it was for me. And so that's kind of when that
+started. So that was probably what, 02 or 03,
+
+191
+00:16:54,150 --> 00:16:59,433
+somewhere in there. And since then, I've actually
+still have that original Xbox and a couple
+
+192
+00:16:59,473 --> 00:17:05,284
+other ones. I've got the 360s, Xbox One. I don't
+have the newest one because it's pointless
+
+193
+00:17:05,304 --> 00:17:10,406
+with everything on PC. I've started dabbling
+when I got more into high school into the PlayStation
+
+194
+00:17:10,446 --> 00:17:18,030
+stuff, mainly for the exclusives. So I started
+with the PS3 and then PS4, PS5 now. I went
+
+195
+00:17:18,070 --> 00:17:23,432
+back a few months ago and actually ended up
+getting a PS2 complete in box, which was nice
+
+196
+00:17:23,512 --> 00:17:28,567
+for a decent price. So I've started playing
+with that. But most of the time I lean towards
+
+197
+00:17:28,627 --> 00:17:33,732
+PC. I do have some of the Nintendo consoles,
+SNES, Wii, things like that. I just don't play
+
+198
+00:17:33,752 --> 00:17:38,717
+them as much, but PC is usually where I'm sitting
+down and playing something, unless it's a console
+
+199
+00:17:38,737 --> 00:17:43,781
+exclusive like Spider-Man. But lately, like
+John was saying, I did play some Black Ops
+
+200
+00:17:44,142 --> 00:17:49,246
+with him the other day. And honestly, the one
+I've been playing the most is City Skylines
+
+201
+00:17:49,306 --> 00:17:54,546
+2. It's a city builder game. I don't know why,
+it's just oddly addictive. It's like a SimCity
+
+202
+00:17:54,606 --> 00:17:59,068
+type simulation. Yeah, yeah, yeah. It's like
+a more modern and upgraded and more fleshed
+
+203
+00:17:59,128 --> 00:18:03,069
+out version. Yeah, I may have dated myself by
+saying SimCity, but I don't know what the kids
+
+204
+00:18:03,089 --> 00:18:08,652
+are playing these days. I played it too. Yeah,
+actually, John, your and my gaming histories
+
+205
+00:18:08,712 --> 00:18:13,834
+are remarkably similar in that I started out
+with the Super Nintendo. And actually, that's
+
+206
+00:18:13,874 --> 00:18:19,196
+why your E! Honda versus Sumo Santa episode
+was my favorite, because Street Fighter II
+
+207
+00:18:19,216 --> 00:18:23,742
+was the very first video game I ever owned.
+Jonathan and I got it for Christmas. So there
+
+208
+00:18:23,762 --> 00:18:29,487
+was that tie in there and I first mained as
+e Honda because I could spam the thousand hand
+
+209
+00:18:29,507 --> 00:18:34,151
+slap And Jonathan couldn't do shit about it.
+So that was always fun. So going back to the
+
+210
+00:18:34,191 --> 00:18:39,856
+podcast What are some of the matchups and reviews
+that listeners can expect in the future from
+
+211
+00:18:39,896 --> 00:18:46,442
+console combat? Well, we are actually in the
+midst of discussing our next review right now
+
+212
+00:18:47,002 --> 00:18:52,134
+We're gonna do the Scott Pilgrim versus the
+world film from 2010 We're actually looking
+
+213
+00:18:52,174 --> 00:18:56,396
+to put the panel of network people together
+on that. So, you know, look for that possibly
+
+214
+00:18:56,416 --> 00:19:02,558
+having a couple of features for fights. We got
+Jack and Daxter versus Ratchet and Clank, which
+
+215
+00:19:02,578 --> 00:19:06,360
+would have come out yesterday. One of the ones
+that actually that I've talked about recently
+
+216
+00:19:06,400 --> 00:19:09,521
+that I think is going to be a lot of fun. I'm
+calling it a bullet time battle because we're
+
+217
+00:19:09,541 --> 00:19:15,304
+going to use Max Payne versus Michael DeSanta
+from GTA five. Nice. Yeah. We're actually still
+
+218
+00:19:15,364 --> 00:19:21,058
+trying to find a good matchup for Raiden from
+the Metal Gear series. So if anyone's got ideas,
+
+219
+00:19:21,118 --> 00:19:25,981
+throw them at us. Someone said for someone from
+Overwatch. So, and I mean, this is something
+
+220
+00:19:26,001 --> 00:19:29,623
+that we're just gonna tease now, but we don't
+have a date for him yet. But we are definitely
+
+221
+00:19:29,663 --> 00:19:34,366
+gonna do Sonic versus Mario down the line is
+it's no questions asked going to happen. But
+
+222
+00:19:34,386 --> 00:19:38,668
+we have to he's kind of on our cover. Well that
+and I mean, it's the question that everyone
+
+223
+00:19:38,708 --> 00:19:43,531
+has. It's the one that everyone always wants
+to know because of course, they're the two
+
+224
+00:19:43,711 --> 00:19:50,074
+icons of the two most powerfully known consoles
+in the gaming industry. If they really want
+
+225
+00:19:50,094 --> 00:19:54,118
+to know that bad, we have the Mario and Sonic
+at the Olympics games. Just play those. Or
+
+226
+00:19:54,138 --> 00:20:02,426
+Smash Brothers. Yeah, or Smash Brothers, yeah.
+Honestly, we consider the nature of the video
+
+227
+00:20:02,486 --> 00:20:10,153
+game roster of just infinite characters really
+to be open to suggestion. We obviously have
+
+228
+00:20:10,213 --> 00:20:16,146
+no quarrels with reuse either. If people see
+a character that... they've seen in the past
+
+229
+00:20:16,266 --> 00:20:20,088
+and they wanted to go up somewhere else against
+someone else more prominent. Like, there are
+
+230
+00:20:20,148 --> 00:20:23,949
+so many options to play with and it's literally
+the world is our oyster and I think that's
+
+231
+00:20:23,989 --> 00:20:28,731
+one of the most enjoyable parts of us doing
+the show is we just have so much to work with.
+
+232
+00:20:29,051 --> 00:20:32,993
+For sure. I can't wait for you guys to do a
+Link episode because the Zelda series is my
+
+233
+00:20:33,013 --> 00:20:37,335
+favorite game series of all time. That one's
+commonplace. I'm actually curious about putting
+
+234
+00:20:37,755 --> 00:20:42,116
+video games that are racing based against each
+other. That one I feel like is going to be
+
+235
+00:20:42,156 --> 00:20:46,799
+our hard point, but we're going to make it work
+somehow, All right, Nefrous me versus Gran
+
+236
+00:20:46,819 --> 00:20:54,264
+Turismo. And you guys could describe it as maybe
+like a Mad Max style race and throw in some
+
+237
+00:20:54,284 --> 00:21:00,328
+like Mario Kart power ups and shit. Oh, yes.
+That sounds like a lot of fun. Well, it was
+
+238
+00:21:00,348 --> 00:21:04,791
+great to have you guys on as part of this episode
+and as part of the Dynamite network. So just
+
+239
+00:21:05,051 --> 00:21:09,094
+keep crushing it. Keep doing what you guys are
+doing because it's awesome. Listeners, if you
+
+240
+00:21:09,174 --> 00:21:14,178
+love video games, you literally have no excuse
+not to be listening to console combat. which
+
+241
+00:21:14,198 --> 00:21:20,502
+you could do anywhere you listen to podcasts
+or by visiting dynamicpodcasts.com. Thank you
+
+242
+00:21:20,522 --> 00:21:25,045
+guys so much for stopping by and can't wait
+to listen to more of what you got. Thanks for
+
+243
+00:21:25,125 --> 00:21:29,508
+having us. Thanks, appreciate it. Great bunch
+of guys. Again, if you like video games, you
+
+244
+00:21:29,528 --> 00:21:34,171
+cannot miss their show. It's fantastic. I feel
+like I didn't get to ask a single question
+
+245
+00:21:34,211 --> 00:21:38,914
+there. What the heck? No, Jonathan couldn't
+make it to the interview because it was recorded
+
+246
+00:21:38,974 --> 00:21:45,019
+earlier, but yeah, great talking to them. Again,
+visit dynamicpodcasts.com. or search for console
+
+247
+00:21:45,039 --> 00:21:49,704
+combat spelled with two K's wherever you listen
+to podcasts. But considering that console combat
+
+248
+00:21:49,744 --> 00:21:54,169
+is a podcast focused around video games, that
+leads us to our question of the week.
+
+249
+00:21:58,774 --> 00:22:05,716
+What is your favorite DC or Marvel video game
+and why? And I'm sure we've asked this question
+
+250
+00:22:05,736 --> 00:22:09,617
+before, but I feel like it's been a really long
+time. There's been a lot of great games to
+
+251
+00:22:09,637 --> 00:22:14,898
+come out recently. So, yeah, let us know what
+your favorite is. Record your answer at dynamicduel.com
+
+252
+00:22:15,458 --> 00:22:19,039
+by clicking on the red microphone button in
+the bottom right hand corner of the screen,
+
+253
+00:22:19,279 --> 00:22:23,241
+which will prompt you to leave us a voicemail.
+Your message could be up to 30 seconds long.
+
+254
+00:22:23,561 --> 00:22:27,342
+And don't forget to leave your name in case
+we include you on the podcast. We'll pick our
+
+255
+00:22:27,382 --> 00:22:32,231
+favorite answer and award that person a dynamic
+duel no prize that we'll post to Instagram.
+
+256
+00:22:32,632 --> 00:22:35,377
+Be sure to answer before March 16th.
+
+257
+00:22:42,670 --> 00:22:48,395
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+258
+00:22:48,415 --> 00:22:54,141
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+259
+00:22:54,201 --> 00:22:59,967
+Dynamike Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+260
+00:23:00,488 --> 00:23:06,966
+Dynamic Duel, where comic book titans smash
+every Tuesday. Max Destruction. TV and action
+
+261
+00:23:07,006 --> 00:23:12,988
+heroes battle every Wednesday, and Sendro World,
+where anime champions clash every Thursday.
+
+262
+00:23:13,488 --> 00:23:18,510
+Join us as we speculate on the matches and armed
+with the power of mathematical simulations,
+
+263
+00:23:18,751 --> 00:23:25,633
+discover who will emerge victorious. Visit dynamicpodcast.com
+where we settle the debate and settle the score.
+
+264
+00:23:30,030 --> 00:23:33,575
+But I think that does it for all the news for
+this episode, so let's go ahead and get into
+
+265
+00:23:33,635 --> 00:23:39,583
+our main event, our big team duel where we find
+out who would win in a fight between the villainous
+
+266
+00:23:39,623 --> 00:23:43,549
+organizations of the Legion of Doom and the
+Masters of Evil.
+
+267
+00:23:58,806 --> 00:24:03,528
+Alright, the Legion of Doom versus the Masters
+of Evil. This episode has been a long time
+
+268
+00:24:03,588 --> 00:24:08,610
+coming, primarily because these teams consist
+of the greatest villains in both Marvel and
+
+269
+00:24:08,650 --> 00:24:14,132
+DC. And it'll be a lot of fun to put these guys
+against each other. Now, this is our first
+
+270
+00:24:14,172 --> 00:24:18,414
+villain team duel. We've done several already,
+including Arkham Asylum versus Sinister Six
+
+271
+00:24:18,714 --> 00:24:23,876
+and the Flash Rogues versus the Brotherhood
+of Evil. But I feel like this is the big villain
+
+272
+00:24:23,996 --> 00:24:28,246
+team matchup. Like, does it get bigger than
+this in terms of villain teams? No, absolutely
+
+273
+00:24:28,266 --> 00:24:33,671
+not. The Legion of Doom hands down features
+DC's most prominent villains, just like how
+
+274
+00:24:33,711 --> 00:24:39,956
+the Justice League features its most prominent
+heroes. Yeah, and like the Avengers, who by
+
+275
+00:24:39,996 --> 00:24:44,679
+this point in their comics history, that team
+has incorporated almost every single hero that
+
+276
+00:24:44,719 --> 00:24:50,484
+Marvel has. The Masters of Evil have had dozens
+upon dozens of members over the years, and
+
+277
+00:24:50,524 --> 00:24:55,644
+they have also probably included almost every
+single villain there is at some point, but
+
+278
+00:24:55,704 --> 00:25:01,990
+we narrowed these teams down to just seven characters
+per side because that's how our duel simulator
+
+279
+00:25:02,070 --> 00:25:08,015
+is set up. But to explain the methodology behind
+our team duels, let's go to our sentient duel
+
+280
+00:25:08,035 --> 00:25:14,180
+simulator, Alfred Jarvis9000. AJ9K, tell our
+listeners how you go about determining a winner
+
+281
+00:25:14,441 --> 00:25:19,625
+in our team duel matchups. Yes, of course, sir.
+The way I determine a winner between the two
+
+282
+00:25:19,665 --> 00:25:24,773
+teams... is by running 1000 Monte Carlo simulations
+between every character on each team using
+
+283
+00:25:24,813 --> 00:25:30,296
+their statistics. A Monte Carlo simulation is
+a probabilistic model used to determine outcomes
+
+284
+00:25:30,316 --> 00:25:35,540
+through random sampling. In this case, I randomize
+the statistics along a normal distribution
+
+285
+00:25:35,880 --> 00:25:40,503
+as a way to simulate the many variables that
+can occur during battle. The stat parameters
+
+286
+00:25:40,523 --> 00:25:44,926
+are based on the official Marvel power grid,
+from which the DC characters' statistics are
+
+287
+00:25:44,966 --> 00:25:50,942
+extrapolated. Additional stat categories are
+included such as Range, Damage versatility
+
+288
+00:25:51,062 --> 00:25:56,086
+and perception in order to create a more detailed
+and accurate simulation. The results of the
+
+289
+00:25:56,126 --> 00:26:01,631
+49,000 simulations provide a percentage of wins
+for each character on both teams. The team
+
+290
+00:26:01,651 --> 00:26:05,714
+with the higher average win rate is declared
+the victor as they have a higher probability
+
+291
+00:26:05,754 --> 00:26:11,258
+to win any given battle. In an equitable pairing,
+neither team should win 100% of the matches.
+
+292
+00:26:11,638 --> 00:26:15,874
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman. So
+
+293
+00:26:15,914 --> 00:26:19,756
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+294
+00:26:19,796 --> 00:26:25,380
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+295
+00:26:25,420 --> 00:26:29,963
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+296
+00:26:31,424 --> 00:26:36,007
+Thanks AJ9K. Before we run the simulations though,
+we like to break down each team's histories
+
+297
+00:26:36,067 --> 00:26:40,170
+and rosters before improvising a scenario on
+how we imagine one of the simulations would
+
+298
+00:26:40,210 --> 00:26:45,866
+play out beat for beat. And I believe it's my
+turn to go first with the history. of the Legion
+
+299
+00:26:45,906 --> 00:26:51,108
+of Doom. Now, when most people think of the
+Legion of Doom, they think of the diabolical
+
+300
+00:26:51,168 --> 00:26:57,771
+team featuring Lex Luthor, Giganta, Toy Man,
+or Solomon Grundy from the 1970s cartoon Challenge
+
+301
+00:26:57,811 --> 00:27:03,133
+of the Super Friends, which is where the team
+made their first appearance. In the comics,
+
+302
+00:27:03,473 --> 00:27:09,495
+the team didn't make their debut until the mid-90s
+in the pages of Extreme Justice. This team
+
+303
+00:27:09,535 --> 00:27:16,126
+was led by the hero-turned-villain Brainwave
+and included Killer Frost, major force, and
+
+304
+00:27:16,166 --> 00:27:21,787
+a robotic duplicate of Gorilla Grodd. That team
+of course meant defeat at the hands of the
+
+305
+00:27:21,827 --> 00:27:27,089
+Extreme Justice team, which you can learn more
+about in our Captain Adam vs. Wonder Man and
+
+306
+00:27:27,169 --> 00:27:33,390
+Wonder Twins vs. Cloak and Dagger duel episodes.
+While a cartoon-inspired roster would be featured
+
+307
+00:27:33,691 --> 00:27:39,952
+in Alex Ross's and Jim Krueger's Out of Continuity
+Justice miniseries, a team with the Legion
+
+308
+00:27:39,972 --> 00:27:46,542
+of Doom name wouldn't appear again in the DC
+Universe until 2011. when Superboy Prime formed
+
+309
+00:27:46,582 --> 00:27:53,526
+a team that included Inertia, Sun Girl, and
+Brainiac 8, aka Indigo, to go up against the
+
+310
+00:27:53,566 --> 00:27:59,430
+Teen Titans, who successfully managed to defeat
+Superboy's Legion. You can learn more about
+
+311
+00:27:59,450 --> 00:28:04,833
+the Teen Titans in our Titans vs. X-Men Team
+Duel episode. Now, although Lex Luthor had
+
+312
+00:28:04,873 --> 00:28:10,016
+created several teams of super villains over
+the years, including the Injustice League,
+
+313
+00:28:10,256 --> 00:28:16,046
+the Injustice Gang, the Secret Six, and the
+Seeker Society of Super-Villains, it wasn't
+
+314
+00:28:16,066 --> 00:28:23,949
+until 2018 that Lex Luthor finally and officially
+formed the Legion of Doom. When the Justice
+
+315
+00:28:23,969 --> 00:28:29,630
+League defeated the universe-destroying dragon
+Barbados, they cracked the Source Wall at the
+
+316
+00:28:29,690 --> 00:28:36,172
+very edge of the universe in the process. From
+this crack emerged the Omega Titans, who absorbed
+
+317
+00:28:36,252 --> 00:28:42,726
+entire worlds, including K'Kolu, the homeworld
+of the villain Brainiac. After protecting Earth
+
+318
+00:28:42,786 --> 00:28:49,368
+from the Omega Titans, the then-heroic Lex Luthor
+became discouraged by the seeming inevitable
+
+319
+00:28:49,408 --> 00:28:54,989
+state of entropy of the world and built a time
+machine to travel a million years into the
+
+320
+00:28:55,049 --> 00:29:00,311
+future to see what would become of it. He was
+surprised to find a world of villains that
+
+321
+00:29:00,391 --> 00:29:05,772
+worshipped him, having discovered writings of
+his millennia earlier that caused the world
+
+322
+00:29:05,852 --> 00:29:14,035
+to embrace entropy and doom. Lex discovered
+a secret underground chamber within his father's
+
+323
+00:29:14,135 --> 00:29:20,479
+old Legionnaire's club founded by the immortal
+Vandal Savage, with writings detailing the
+
+324
+00:29:20,559 --> 00:29:26,342
+secret origins and forces of the Multiverse,
+as well as a doorknob capable of unlocking
+
+325
+00:29:26,442 --> 00:29:32,785
+those forces. Lex assembled the Legion of Doom
+in order to harness the hidden universal forces
+
+326
+00:29:33,146 --> 00:29:39,209
+and unlock the Totality, the primordial energy
+source of the Multiverse imbued within a portion
+
+327
+00:29:39,269 --> 00:29:44,712
+of the Source Wall. that had recently crashed
+to Earth inside of a massive head that broke
+
+328
+00:29:44,892 --> 00:29:51,896
+off from the wall. This Legion included Sinestro,
+Gorilla Grodd, an infant version of the Flash
+
+329
+00:29:51,936 --> 00:29:58,339
+Villain Turtle, Black Manta, Cheetah, and the
+Joker. With a shrunken Lex Luthor and Joker
+
+330
+00:29:58,719 --> 00:30:03,442
+infiltrating and controlling Superman and Martian
+Manhunter's bodies, and Sinestro and Gorilla
+
+331
+00:30:03,482 --> 00:30:08,705
+Grodd in control of two of the hidden universal
+forces, the invisible spectrum of light and
+
+332
+00:30:08,745 --> 00:30:14,449
+the Still Force. the Legion seized the Totality,
+though the Justice League stole it from them
+
+333
+00:30:14,729 --> 00:30:20,314
+before it could be fully unlocked. After partnering
+with the Batman Who Laughs, Lex Luthor learned
+
+334
+00:30:20,394 --> 00:30:26,099
+more about the nature of the Totality, how it
+was a prison for the being that created the
+
+335
+00:30:26,159 --> 00:30:33,685
+DC Multiverse, Perpetua. After Black Manta gained
+the Tear of Extinction and Cheetah the Void
+
+336
+00:30:33,745 --> 00:30:35,267
+Wind, two more hidden
+
+337
+00:30:39,074 --> 00:30:46,038
+kill the Greek god Poseidon and flood the planet,
+allowing them to take back the totality. Feeling
+
+338
+00:30:46,078 --> 00:30:51,861
+he achieved all that he desired and unwilling
+to take further orders, Black Manta was booted
+
+339
+00:30:52,041 --> 00:30:57,484
+from the Legion by Lex Luthor, along with the
+Joker, who hated that Lex had sided with the
+
+340
+00:30:57,504 --> 00:31:03,868
+Batman Who Laughs. With help from Professor
+Ivo, Lex was able to recreate Brainiac, who
+
+341
+00:31:03,928 --> 00:31:10,051
+replaced Manta and Joker on the team. After
+unlocking the Black Apple and the Sixth Note,
+
+342
+00:31:10,271 --> 00:31:16,075
+two more hidden forces, the Legion was able
+to partially awake Perpetua, who helped Lex
+
+343
+00:31:16,195 --> 00:31:23,319
+evolve into a human-slash-Martian hybrid known
+as Apex Lex. As the battle between the Legion
+
+344
+00:31:23,359 --> 00:31:28,702
+of Doom and the heroes of the multiverse raged
+on, a sense of dread and faithlessness fell
+
+345
+00:31:28,762 --> 00:31:32,143
+upon the multiverse, fully awakening Perpetua.
+
+346
+00:31:35,986 --> 00:31:42,588
+entire universes in her dark image, the Legion
+came to her for their rewards, at which point
+
+347
+00:31:42,909 --> 00:31:48,431
+she turned Brainiac into her throne and siphoned
+the hidden forces from the Legion members and
+
+348
+00:31:48,491 --> 00:31:55,434
+imbued them into Lex, giving him the power to
+reshape reality at a multiversal level. Perpetua
+
+349
+00:31:55,474 --> 00:32:01,617
+seemingly erased the Justice League and later
+depowered Lex after the Batman Who Laughs convinced
+
+350
+00:32:01,637 --> 00:32:06,326
+her that he would serve as a better general.
+If you've listened to our Batman Who Laughs
+
+351
+00:32:06,366 --> 00:32:11,408
+vs. Cosmic Ghost Rider duel episode, you'll
+know that this led to the Dark Knight's death
+
+352
+00:32:11,468 --> 00:32:16,929
+metal storyline, where the Batman Who Laughs
+betrayed and killed Perpetua, only to later
+
+353
+00:32:16,969 --> 00:32:22,471
+be killed by a World Forge-empowered Wonder
+Woman. Regardless, the Legion of Doom had been
+
+354
+00:32:22,511 --> 00:32:28,833
+disbanded, though it may return someday soon.
+For my seven-member team roster, due to the
+
+355
+00:32:28,873 --> 00:32:34,556
+Legion of Doom's short career in the comics,
+It is admittedly heavily inspired by the Super
+
+356
+00:32:34,596 --> 00:32:40,281
+Friends cartoon. I'm choosing Lex Luthor, who
+founded the Legion of Doom in the comics and
+
+357
+00:32:40,321 --> 00:32:45,285
+was depicted as the team's leader even in the
+Super Friends. I'm also going with Gorilla
+
+358
+00:32:45,325 --> 00:32:50,349
+Grodd, who was not only in the cartoon, but
+a robotic version of him was a member of the
+
+359
+00:32:50,429 --> 00:32:56,014
+first Legion of Doom iteration in the comics.
+The same goes for Brainiac, as a version of
+
+360
+00:32:56,074 --> 00:33:01,538
+him was on the team led by Superboy Prime, so
+he's of course on my roster. I'm also going
+
+361
+00:33:01,578 --> 00:33:07,559
+with Sinestro, Cheetah, and Black Manta, who
+were among Lexa's initial picks for the Legion,
+
+362
+00:33:08,080 --> 00:33:14,261
+and again, were all in the cartoon. Though Joker
+was also chosen in the comics, he later left
+
+363
+00:33:14,341 --> 00:33:19,803
+the team and was never in the cartoon series,
+and he was already on my Arkham Asylum team
+
+364
+00:33:19,843 --> 00:33:26,165
+from a previous episode, so he's out. For my
+final member, I've decided to go with Solomon
+
+365
+00:33:26,225 --> 00:33:32,615
+Grundy. As he was in the cartoon- And because,
+based on your roster that I know of, I thought
+
+366
+00:33:32,635 --> 00:33:39,977
+he was the best match for Absorbing Man. So
+to reiterate, my Legion of Doom team is Lex
+
+367
+00:33:40,017 --> 00:33:47,259
+Luthor, Gorilla Grodd, Brainiac, Sinestro, Cheetah,
+Black Manta, and Solomon Grundy, each of whom
+
+368
+00:33:47,279 --> 00:33:52,080
+you can learn more about in their respective
+dual episodes. That was the most convoluted
+
+369
+00:33:52,260 --> 00:33:58,762
+short backstory ever. I did not expect that.
+What do you want from me? I had no idea that
+
+370
+00:33:58,782 --> 00:34:03,706
+the Legion of Doom really had no presence in
+the comics until fairly recently. Yeah, within
+
+371
+00:34:03,726 --> 00:34:08,730
+the past six years, I guess. Why is that the
+case? Like, why didn't DC capitalize on the
+
+372
+00:34:08,790 --> 00:34:13,174
+popularity of that team from the Super Friends
+cartoon? It's weird because they've made like
+
+373
+00:34:13,234 --> 00:34:18,098
+a bunch of references to the Legion of Doom
+and a lot of Elseworlds works. Like, you know,
+
+374
+00:34:18,118 --> 00:34:23,683
+Kingdom Come, the Gulag that Mr. Miracle designed
+was based off the Legion of Doom headquarters.
+
+375
+00:34:24,303 --> 00:34:29,038
+They featured in a lot of television series
+and stuff like that. just never in mainstream
+
+376
+00:34:29,078 --> 00:34:33,399
+continuity in the comics, or at least never
+a version that was like the one from the Super
+
+377
+00:34:33,439 --> 00:34:37,661
+Friends cartoon, this counterpart to the Justice
+League as it were. Yeah, you would think from
+
+378
+00:34:37,701 --> 00:34:41,642
+like how often they're included, even in shows
+like Harley Quinn, that they were just this
+
+379
+00:34:41,662 --> 00:34:45,623
+like mainstay comic book entity, and it's so
+bizarre that it's not the case. And like the
+
+380
+00:34:45,663 --> 00:34:49,464
+story that they were in was convoluted as hell.
+It's like you're talking about the black apple
+
+381
+00:34:49,524 --> 00:34:53,945
+and the sixth note, and I'm like, what the hell
+is this? Talking about apples now? I don't
+
+382
+00:34:53,965 --> 00:34:59,908
+get it. Yeah, Scott Snyder, he kind of changed
+everything about the fabric and nature of the
+
+383
+00:34:59,948 --> 00:35:05,430
+DC universe. So makes sense. That whole storyline
+was meant to tie into both Dark Knight's Metal
+
+384
+00:35:05,730 --> 00:35:09,572
+and Dark Knight's Death Metal. It was like a
+bridge between those two series. I have no
+
+385
+00:35:09,612 --> 00:35:13,773
+idea what you're saying, but I will take your
+word for it. Okay. I've only mentioned them
+
+386
+00:35:13,893 --> 00:35:18,435
+several times on this podcast. You know I don't
+listen to you. And I don't understand anything
+
+387
+00:35:18,455 --> 00:35:25,538
+you're saying when it comes to the DC multiverse
+and the metal or whatever. Now, this makes
+
+388
+00:35:25,578 --> 00:35:29,100
+me think that The Legion of Doom is just one
+big ripoff of The Masters of Evil, because
+
+389
+00:35:29,140 --> 00:35:33,863
+The Masters of Evil have been around since the
+1960s in Marvel, and we know that the challenge
+
+390
+00:35:33,883 --> 00:35:39,566
+of the Super Friends cartoon wasn't around until
+the 70s. So once again, DC ripping off Marvel,
+
+391
+00:35:40,146 --> 00:35:46,650
+as always. I'm pretty sure that the first iteration
+of The Masters of Evil was nothing like a premiere
+
+392
+00:35:46,690 --> 00:35:51,553
+team of supervillains. They were probably like
+C-list at best. Shows what you know. Let me
+
+393
+00:35:51,573 --> 00:35:56,640
+go into their backstory. Now the Masters of
+Evil is one of Marvel's longest running supervillain
+
+394
+00:35:56,660 --> 00:36:01,183
+groups and one of its largest. They are often
+regarded as the antithesis to the Avengers,
+
+395
+00:36:01,323 --> 00:36:06,606
+where that team is considered Earth's mightiest
+heroes, the Masters of Evil are Earth's mightiest
+
+396
+00:36:06,666 --> 00:36:12,570
+villains. The group was initially gathered by
+Baron Heinrich Zemo, a World War II adversary
+
+397
+00:36:12,630 --> 00:36:19,066
+of Captain America, who thanks to his secret
+formula Compound X, had ceased aging. Taking
+
+398
+00:36:19,126 --> 00:36:23,809
+refuge in South America over the decades, Baron
+Zemo eventually became aware of his nemesis
+
+399
+00:36:23,849 --> 00:36:29,713
+resurgence. Captain America, previously presumed
+dead, had been revived and joined the Avengers,
+
+400
+00:36:30,014 --> 00:36:35,137
+a team you can explore further in our Justice
+League vs Avengers duel. Intent on confronting
+
+401
+00:36:35,157 --> 00:36:40,081
+his old enemy but unwilling to take on all the
+Avengers single-handedly, Baron Zemo resolved
+
+402
+00:36:40,141 --> 00:36:44,504
+to assemble his own team. He handpicked some
+of the most formidable villains the heroes
+
+403
+00:36:44,544 --> 00:36:50,500
+had ever faced. The initial lineup, of the Masters
+of Evil included Baron Zemo himself, along
+
+404
+00:36:50,540 --> 00:36:56,865
+with the Black Knight, the Meltr, and Radioactive
+Man. Together, they unleashed Zemo's unbreakable
+
+405
+00:36:56,945 --> 00:37:02,149
+Adhesive X chemical formula across New York
+City. Despite their efforts, the Avengers saw
+
+406
+00:37:02,189 --> 00:37:07,313
+assistance from the villain known as the Trapster,
+an expert in adhesives, and used his antidote
+
+407
+00:37:07,373 --> 00:37:11,976
+to thwart the Masters of Evil's plan. Baron
+Zemo managed to evade capture by fleeing in
+
+408
+00:37:12,036 --> 00:37:17,080
+his helicopter and undeterred- he persisted
+in his mission by recruiting the formidable
+
+409
+00:37:17,200 --> 00:37:23,244
+Asgardians known as the Enchantress and Scourge
+to bolster his ranks. Together, they succeeded
+
+410
+00:37:23,364 --> 00:37:28,848
+in manipulating Thor, turning him against his
+fellow Avengers through enchantment. Unfortunately,
+
+411
+00:37:29,228 --> 00:37:33,872
+Iron Man managed to break the spell and snap
+his ally out of it. Subsequently, the villains
+
+412
+00:37:33,912 --> 00:37:39,536
+were exiled to another dimension. However, their
+exile proved temporary as the Enchantress employed
+
+413
+00:37:39,576 --> 00:37:44,554
+her magical abilities to return them home. Baron
+Zemo then focused on recruiting the failed
+
+414
+00:37:44,594 --> 00:37:50,716
+businessman Simon Williams, who sought revenge
+on Tony Stark. Subjecting Simon to ionic energy
+
+415
+00:37:50,756 --> 00:37:56,058
+bombardment, Zemo transformed him into Wonder
+Man. And for more information on him, refer
+
+416
+00:37:56,078 --> 00:38:01,119
+to our Captain Adam vs. Wonder Man duel episode.
+Zemo utilized Wonder Man to infiltrate the
+
+417
+00:38:01,159 --> 00:38:06,481
+Avengers and betray the heroes. Despite this,
+Wonder Man had a change of heart and sacrificed
+
+418
+00:38:06,501 --> 00:38:11,435
+himself to aid in the defeat of the Masters
+of Evil. After Baron Heinrich Zemo met his
+
+419
+00:38:11,475 --> 00:38:16,538
+demise in a rock slide during a confrontation
+with Captain America, the villainous team found
+
+420
+00:38:16,558 --> 00:38:22,161
+themselves leaderless and temporarily disbanded.
+However, a new incarnation of the team emerged
+
+421
+00:38:22,241 --> 00:38:27,004
+under the leadership of the robotic villain
+Ultron, who recruited some fresh faces including
+
+422
+00:38:27,145 --> 00:38:33,248
+Whirlwind and Claw. Their scheme involved hypnotizing
+Jarvis, the Avengers' butler, with the intention
+
+423
+00:38:33,288 --> 00:38:38,348
+of using him to bring down the heroes. yet their
+plans were thwarted once more due to betrayal
+
+424
+00:38:38,388 --> 00:38:43,533
+from within their own ranks, the Black Knight,
+who was secretly an ally of the Avengers. Though
+
+425
+00:38:43,553 --> 00:38:48,078
+the Masters of Evil suffered defeat once again,
+the resilience led to a prompt reformation.
+
+426
+00:38:48,478 --> 00:38:52,943
+This time, they operated under the guidance
+of the nefarious scientist and ant-man antagonist,
+
+427
+00:38:53,303 --> 00:38:59,189
+Egghead. Their roster expanded to include Tiger
+Shark, Scorpion, Moonstone, Shocker, and the
+
+428
+00:38:59,289 --> 00:39:04,087
+Beetle. They concocted a scheme to frame and
+disgrace Ant-Man, whom they captured with hopes
+
+429
+00:39:04,127 --> 00:39:09,248
+of coercing him to join their ranks. However,
+their plan backfired when the captured hero
+
+430
+00:39:09,348 --> 00:39:14,590
+ingeniously constructed his own arsenal to combat
+the villains. Egghead met his demise when his
+
+431
+00:39:14,630 --> 00:39:20,551
+gun exploded, being struck by a well-aimed arrow
+from Hawkeye. Once again, the Masters were
+
+432
+00:39:20,591 --> 00:39:26,673
+disbanded. However, Heinrich Zemo's son, Helmut,
+emerged onto the scene. Assuming his father's
+
+433
+00:39:26,713 --> 00:39:33,198
+mantle as Baron Zemo, and assembling a new iteration
+of the Masters of Evil. This revamped team
+
+434
+00:39:33,278 --> 00:39:38,583
+included formidable villains such as the Absorbing
+Man, Titania, Yellow Jacket, Mr. Hyde, and
+
+435
+00:39:38,623 --> 00:39:44,028
+the Wrecking Crew which consisted of the Wrecker,
+Piledriver, Thunderball, and Bulldozer. Although
+
+436
+00:39:44,048 --> 00:39:48,653
+this group managed to temporarily overrun the
+Avengers Mansion and scatter the heroes, the
+
+437
+00:39:48,673 --> 00:39:53,317
+Avengers eventually regrouped and reclaimed
+their headquarters, defeating the Masters once
+
+438
+00:39:53,377 --> 00:39:59,085
+more. Yet driven by unwavering hatred, Baron
+Zemo persistently reassembled his group, this
+
+439
+00:39:59,105 --> 00:40:04,689
+time enlisting the likes of the Fixer, Screaming
+Mimi, Beetle, Goliath, and Moonstone. However,
+
+440
+00:40:04,769 --> 00:40:09,212
+at this juncture, most of Earth's heroes had
+vanished following their confrontation with
+
+441
+00:40:09,292 --> 00:40:15,256
+a malevolent psychic entity known as Onslaught,
+a conflict detailed in our Chief vs. Professor
+
+442
+00:40:15,477 --> 00:40:21,421
+X battle. This prompted Zemo to reconsider his
+tactics, leading him to rebrand his Masters
+
+443
+00:40:21,461 --> 00:40:27,649
+of Evil as... The Thunderbolts. While masquerading
+as heroes, they harbored secret ambitions of
+
+444
+00:40:27,689 --> 00:40:32,792
+world domination. However, the full details
+of their backstory will be explored in another
+
+445
+00:40:32,852 --> 00:40:38,515
+team duel. The Thunderbolts' eventual transformation
+into genuine heroes sparked a bitter rivalry
+
+446
+00:40:38,535 --> 00:40:42,498
+with the emergence of a new Masters of Evil.
+Under the leadership of the villain known as
+
+447
+00:40:42,538 --> 00:40:46,900
+the Crimson Cowl, this new group attempted to
+coerce the Thunderbolts into joining their
+
+448
+00:40:46,940 --> 00:40:51,628
+ranks or face annihilation. Despite repeated
+attempts by their former allies, the Thunderbolts
+
+449
+00:40:51,708 --> 00:40:56,593
+emerged victorious time and again. Eventually
+though, the villain known as the Red Skull
+
+450
+00:40:56,733 --> 00:41:02,138
+used his reality-warping cosmic cube to rewrite
+history so that Captain America had always
+
+451
+00:41:02,178 --> 00:41:07,763
+secretly been a member of the evil organization
+Hydra. At that point, Baron Zemo forged an
+
+452
+00:41:07,803 --> 00:41:13,028
+alliance with the Captain, persuading several
+long-time Thunderbolts members to defect and
+
+453
+00:41:13,068 --> 00:41:18,432
+join his new Masters of Evil. This newly formed
+group served as the personal army of the evil
+
+454
+00:41:18,452 --> 00:41:24,117
+Captain America, as together they seized control
+of the United States. The Masters of Evil rose
+
+455
+00:41:24,137 --> 00:41:29,282
+to engage in battle against a united coalition
+of America's heroes, who fought fervently to
+
+456
+00:41:29,322 --> 00:41:34,246
+reclaim their country. Eventually, the heroes
+succeeded in restoring Captain America's true
+
+457
+00:41:34,286 --> 00:41:39,731
+identity, defeating Hydra and the Masters of
+Evil in the process. And that's their backstory.
+
+458
+00:41:40,131 --> 00:41:44,842
+For the seven-person roster for this team duel,
+I went with characters that spanned the broad
+
+459
+00:41:44,882 --> 00:41:51,525
+history and multiple iterations of the Masters
+of Evil over the years. Okay! I started with
+
+460
+00:41:51,585 --> 00:41:56,607
+Baron Zemo, the Baron Helmet Zemo version whose
+father started the Masters of Evil and who
+
+461
+00:41:56,647 --> 00:42:01,429
+helmed multiple versions of the team on his
+own. Secondly, I'm going with Ultron, who was
+
+462
+00:42:01,469 --> 00:42:06,712
+the second iteration of the team's leader and
+is a powerful Avengers villain. Next, I have
+
+463
+00:42:06,792 --> 00:42:12,634
+some of the earliest members of the team, the
+Iron Man villain Radioactive Man. and the Thor
+
+464
+00:42:12,654 --> 00:42:17,176
+villain, Enchantress, taking up the third and
+fourth slots due to their powerful energy and
+
+465
+00:42:17,296 --> 00:42:22,278
+magic powers, respectively. My fifth member,
+I will always associate with the Masters of
+
+466
+00:42:22,358 --> 00:42:27,300
+Evil as the very first boss villain you face
+in the Captain America and the Avengers arcade
+
+467
+00:42:27,420 --> 00:42:33,102
+video game, and that's the Ant-Man villain,
+Rolewind. Penultimately I have Black Panther's
+
+468
+00:42:33,122 --> 00:42:39,445
+villain, Claw, on the team due to his powerful
+sonic powers and nigh And rounding out the
+
+469
+00:42:39,485 --> 00:42:44,536
+group is the Hulk villain, Absorbing Man, who
+is the last member of this group to join the
+
+470
+00:42:44,556 --> 00:42:48,739
+Masters of Evil, but has a great wild card power
+that I think will make things interesting.
+
+471
+00:42:49,239 --> 00:42:54,263
+So to reiterate, the 7 member Masters of Evil
+team that we're going with in this duel is
+
+472
+00:42:54,783 --> 00:43:02,969
+Baron Zemo, Ultron, Radioactive Man, Enchantress,
+Whirlwind, Klawe, and Absorbing Man. And the
+
+473
+00:43:02,989 --> 00:43:06,571
+Legion of Doom is going down, because they're
+like, not even really a team in my opinion,
+
+474
+00:43:06,872 --> 00:43:11,410
+at least compared to the Masters of Evil. Dude,
+I mean... Maybe not in the comics, but like
+
+475
+00:43:11,590 --> 00:43:19,234
+literally everywhere else they are. And it's
+on. And also, like besides Ultron, I was right.
+
+476
+00:43:19,634 --> 00:43:24,756
+Friggin C-list villains, bro. You are entirely
+wrong. A lot of these villains have shown up
+
+477
+00:43:24,776 --> 00:43:29,639
+in the movies like Baron Zemo was the main villain
+of Civil War. You have Klaue, who was a villain
+
+478
+00:43:29,659 --> 00:43:34,201
+in the Black Panther movie, absorbing man, who
+was the villain in the Hulk movie that we reviewed
+
+479
+00:43:34,241 --> 00:43:39,095
+last week. Yeah, there's a lot of them. Okay,
+so a few B-listers and the rest of them are
+
+480
+00:43:39,115 --> 00:43:44,284
+C-listers. Right, because everybody knows who
+Gorilla Grodd is, right? Yeah, dude. He was
+
+481
+00:43:44,304 --> 00:43:46,127
+in the Super Friends. Okay.
+
+482
+00:43:54,530 --> 00:43:58,691
+Now that we've got their histories and rosters
+out of the way, let's speculate on how one
+
+483
+00:43:58,731 --> 00:44:04,572
+of the simulated matches will go. The winning
+team is determined by simulations, not this
+
+484
+00:44:04,632 --> 00:44:10,974
+speculation, but it's fun to imagine how this
+battle could play out. AG9K, what are the rules
+
+485
+00:44:11,034 --> 00:44:16,095
+of our speculation? Well, I should say there
+are no rules, other than the teams have no
+
+486
+00:44:16,155 --> 00:44:20,797
+prior knowledge of the other going into the
+fight. All they are aware of starting out is
+
+487
+00:44:20,837 --> 00:44:25,730
+that the other side is a threat that needs to
+be eliminated. For the speculation, the groups
+
+488
+00:44:25,750 --> 00:44:30,211
+will begin approximately 50 meters apart in
+a non-descript environment that will have no
+
+489
+00:44:30,251 --> 00:44:35,213
+bearing on the match itself, as no environmental
+statistics are considered in my simulations.
+
+490
+00:44:35,713 --> 00:44:40,434
+The teams must earn victory on their own merit.
+Alright then, let's get into it. The Legion
+
+491
+00:44:40,474 --> 00:44:45,655
+of Doom and the Masters of Evil meet on the
+battlefield. Who goes first? I feel like on
+
+492
+00:44:45,735 --> 00:44:51,957
+my team, Cheetah would go first, and on your
+team, Whirlwind would probably go first. So
+
+493
+00:44:52,277 --> 00:44:58,845
+they're likely to clash. out the gate just head
+on with cheetah just slashing off all of whirlwind's
+
+494
+00:44:58,925 --> 00:45:03,989
+armor no she would just bounce off of whirlwind
+like his whole thing is that he spins with
+
+495
+00:45:04,029 --> 00:45:09,373
+such speed that the uh the centrifugal force
+that he generates just repels any physical
+
+496
+00:45:09,413 --> 00:45:15,118
+attack that's made against him so cheetah she
+tries to hit him but she just gets rocked back
+
+497
+00:45:15,198 --> 00:45:21,270
+into her teammates and whirlwind is going to
+follow up by unleashing a volley of buzz saws
+
+498
+00:45:21,510 --> 00:45:25,934
+at the Legion of Doom, just slicing them up
+to bits. Yeah, except those buzz saws never
+
+499
+00:45:26,034 --> 00:45:31,818
+reach the Legion because Sinestro goes on the
+defensive and he puts up a yellow force field
+
+500
+00:45:32,158 --> 00:45:37,462
+between the teams in the form of a castle wall,
+which the Legion can use defensively like a
+
+501
+00:45:37,522 --> 00:45:43,907
+fort. And then this yellow dragon construct
+forms, just perched on the wall, and it's going
+
+502
+00:45:43,927 --> 00:45:49,979
+to shoot this massive fireball at Ultron. Ultron,
+that's not gonna do anything. Ultron's made
+
+503
+00:45:50,019 --> 00:45:56,623
+out of adamantium. So he'll be fine, because
+that's the most durable metal ever. But Sinestro
+
+504
+00:45:56,663 --> 00:46:00,905
+making a castle wall is gonna play right into
+Enchantress's strengths because she's as guardian.
+
+505
+00:46:01,366 --> 00:46:06,989
+So she's just gonna magically conjure this army
+of like dozens of Viking warriors who just
+
+506
+00:46:07,029 --> 00:46:13,533
+storm this castle and slay the dragon with their
+axes and spears. Nah, I mean they may kill
+
+507
+00:46:13,573 --> 00:46:18,222
+the dragon, but those... Vikings aren't getting
+past the wall. Like they're gonna be too busy
+
+508
+00:46:18,502 --> 00:46:23,784
+getting freaking disintegrated by a swarm of
+Brainiac's drones. And they're gonna bring
+
+509
+00:46:23,824 --> 00:46:29,946
+down the Vikings with like cold calculated precision.
+And then the drones are gonna mount themselves
+
+510
+00:46:30,026 --> 00:46:36,307
+to the castle walls parapets and just rain down
+lasers on the masters of evil outside the wall.
+
+511
+00:46:36,367 --> 00:46:44,469
+Okay, well Klawe, he's gonna generate a catapult
+construct made out of his sound wave powers.
+
+512
+00:46:45,262 --> 00:46:51,364
+And that thing is just gonna launch radioactive
+man over the castle wall Where he's gonna crash
+
+513
+00:46:51,404 --> 00:46:55,926
+down right onto the Legion and explode like
+a small nuclear bomb Just like tearing down
+
+514
+00:46:55,986 --> 00:47:02,309
+Sinestro's castle construct and destroying Brainiac's
+drones But most importantly just obliterating
+
+515
+00:47:02,649 --> 00:47:08,792
+the entire Legion team Forgefield But like from
+Lex Luthor this time, he's gonna erect this
+
+516
+00:47:08,932 --> 00:47:14,398
+energy dome from his battle suit around his
+team So yeah, the drones and the wall are taken
+
+517
+00:47:14,458 --> 00:47:20,280
+out, but not the Legion. And once that field
+is down, Black Manta is immediately just going
+
+518
+00:47:20,320 --> 00:47:25,941
+to unleash a massive energy beam from his helmet
+that sweeps across the entire Masters of Evil
+
+519
+00:47:25,981 --> 00:47:31,803
+team. Big deal, they could dodge it just by
+ducking. What? Yeah, they duck the beam, except
+
+520
+00:47:31,843 --> 00:47:37,764
+for absorbing man who gets hit by Black Manta's
+beam, but he absorbs the energy and becomes
+
+521
+00:47:37,804 --> 00:47:45,148
+like this shiny red being made out of lasers.
+He's gonna swing his glowing ball and chain,
+
+522
+00:47:45,408 --> 00:47:51,293
+and it's gonna unleash this energy wave right
+at Gorilla Grodd, just knocking him back and
+
+523
+00:47:51,333 --> 00:47:56,037
+frying all the hair off his body. So now he's
+just like this hairless ape. I mean, jokes
+
+524
+00:47:56,097 --> 00:48:02,123
+on you. You know, Absorbing Man only thinks
+Grodd was there, but in reality, Grodd invaded
+
+525
+00:48:02,283 --> 00:48:08,028
+Absorbing Man's mind, and he's been mentally
+probing the entire Masters of Evil team and
+
+526
+00:48:08,108 --> 00:48:12,507
+recognized that Absorbing Man was- probably
+one of the few people on the Masters of Evil
+
+527
+00:48:12,547 --> 00:48:18,029
+that he could mind control. So that's what he
+did. Absorbing Man thinks he's knocked Grodd
+
+528
+00:48:18,069 --> 00:48:27,133
+back, but in actuality, he lasered Baron Zemo.
+Okay, uh, well Zemo sees this energy wave coming
+
+529
+00:48:27,233 --> 00:48:31,775
+at him and he like dives out of the way to avoid
+being hit and he's probably freaking pissed
+
+530
+00:48:31,815 --> 00:48:36,137
+at Absorbing Man for attacking the wrong guy
+and Absorbing Man's like, huh? What just happened?
+
+531
+00:48:37,297 --> 00:48:44,411
+At which point... Zemo unholsters one of his
+guns and he sprays out his adhesive X Which
+
+532
+00:48:44,611 --> 00:48:50,573
+is like this sticky goo that creates this unbreakable
+bond and that's just gonna cement Cheetah to
+
+533
+00:48:50,613 --> 00:48:56,134
+the ground. So she can't run and she's stuck
+on the ground Okay, so she'll be stuck for
+
+534
+00:48:56,194 --> 00:49:02,016
+now or at least like one of her legs is but
+meanwhile Solomon Grundy, you know He spotted
+
+535
+00:49:02,116 --> 00:49:06,977
+Ultron and he's gonna plow right into him just
+ripping off those weird antenna ears on the
+
+536
+00:49:06,997 --> 00:49:12,729
+sides of his head Adamantium, man. Like Ultron
+is adamantium. So Solomon Grundy isn't breaking
+
+537
+00:49:12,789 --> 00:49:19,015
+shit. And Ultron's going to teach Grundy a lesson
+by just trapping him in this graviton field
+
+538
+00:49:19,055 --> 00:49:24,099
+and slamming him repeatedly into the ground
+and then launching him right into Lex Luthor,
+
+539
+00:49:24,600 --> 00:49:31,446
+knocking Lex over in his war suit onto the ground.
+OK, so Lex Luthor, he gets up from the ground
+
+540
+00:49:31,926 --> 00:49:38,655
+and he's going to plunge this device into Solomon
+Grundy's torso. before he picks up Grundy and
+
+541
+00:49:38,695 --> 00:49:43,979
+a tractor beam and trolls him at whirlwind.
+And whirlwind is going to see Grundy coming
+
+542
+00:49:44,279 --> 00:49:51,404
+and probably slice him to pieces in this flurry
+of blades. But inside Grundy was an acid bomb
+
+543
+00:49:51,504 --> 00:49:58,368
+that explodes onto whirlwind and just disintegrates
+his armor. Does Lex Luthor have acid bombs?
+
+544
+00:49:58,909 --> 00:50:06,786
+Dude, he's a scientist. He has all kinds of
+like science stuff, like chemicals. OK. Well,
+
+545
+00:50:07,306 --> 00:50:12,089
+yeah, Roland just completely scatters Grundy
+across the battlefield like if Grundy just
+
+546
+00:50:12,109 --> 00:50:17,992
+got tossed into a blender, but Roland without
+his armor is still dangerous. The armor just
+
+547
+00:50:18,012 --> 00:50:22,674
+provides him protection. So Roland is going
+to spin and whip up this small tornado that's
+
+548
+00:50:22,695 --> 00:50:27,177
+going to lift up Black Manta into the air and
+just hurl him like a half mile away from the
+
+549
+00:50:27,197 --> 00:50:32,620
+battlefield. No, dude, Black Manta has a jetpack,
+you know, so he could stop himself midair.
+
+550
+00:50:33,060 --> 00:50:39,763
+So from the air, he's going an electrified harpoon
+cable at whirlwind who's spinning so fast he
+
+551
+00:50:39,783 --> 00:50:45,524
+doesn't realize the cable wraps around his neck
+until it's too late and his brain is just fried
+
+552
+00:50:45,544 --> 00:50:51,426
+from the electricity. So that, whirlwinds out.
+Oh shit. Whirlwinds the first to be out in
+
+553
+00:50:51,446 --> 00:50:58,508
+the match huh? Yup. Okay, uh, well Klaue, he
+sees Gorilla Grodd and Klaue's familiar with
+
+554
+00:50:58,708 --> 00:51:04,149
+African animals, you know, being an adversary
+to Black Panther so he is gonna generate this
+
+555
+00:51:04,169 --> 00:51:09,941
+like giant leopard construct that's gonna pounce
+on Gorilla Grodd and just chew him to bits
+
+556
+00:51:10,242 --> 00:51:15,126
+and Grodd can't do shit about it because You
+know the construct doesn't have a mind for
+
+557
+00:51:15,326 --> 00:51:21,351
+Grodd to attack. I mean, but Grodd does have
+telekinesis You know and in the throes of being
+
+558
+00:51:21,391 --> 00:51:27,536
+attacked He's just gonna emit a telekinetic
+blast that's gonna disrupt the leopards like
+
+559
+00:51:27,696 --> 00:51:33,621
+sound frequency and Just cause it to dissolve
+at which point Grodd's gonna send a psychic
+
+560
+00:51:33,741 --> 00:51:40,092
+surge of pain through Kla, disrupting his form
+as well. But he's not really susceptible to
+
+561
+00:51:40,192 --> 00:51:45,996
+psychic attack because he has no physical brain.
+But either way, Grodd's attack doesn't even
+
+562
+00:51:46,176 --> 00:51:53,059
+finish on Kla because in the middle of it, he's
+stopped by a hand on his arm. It's the Enchantress's
+
+563
+00:51:53,099 --> 00:51:58,562
+hand, and she's gonna bewitch this gorilla with
+a spell that turns Grodd against his teammates
+
+564
+00:51:58,763 --> 00:52:05,002
+and on the side of the Masters of Evil. And
+Enchantress is gonna have Grodd provide their
+
+565
+00:52:05,022 --> 00:52:10,826
+entire team with psychic shielding to protect
+them from mental attacks from like Brainiac.
+
+566
+00:52:11,186 --> 00:52:15,870
+So like once that mental shielding is in place,
+she's just gonna magically turn Gorilla Grodd
+
+567
+00:52:15,910 --> 00:52:20,673
+into stone. So Grodd's out of this match and
+Brainiac can't do anything telepathically to
+
+568
+00:52:20,693 --> 00:52:26,557
+the Masters of Evil. Dude, I did not want Gorilla
+Grodd to go out this soon. Okay, well, you
+
+569
+00:52:26,677 --> 00:52:32,201
+know, meanwhile Sinestro's ring has scanned
+Klaue's energy signature and deduced that he's
+
+570
+00:52:32,221 --> 00:52:41,056
+made of sound. So Sinestro materializes an airtight
+iron maiden around Klaue and just vacuums all
+
+571
+00:52:41,076 --> 00:52:48,218
+of the air out, destroying Klaue's sound form.
+So now he's eliminated. All right. So then
+
+572
+00:52:48,738 --> 00:52:54,639
+Black Manta and Zemo square up and Black Manta
+sees Baron Zemo's sword and he pulls out his
+
+573
+00:52:54,719 --> 00:53:01,281
+long daggers and he's like, sword fight, me
+and you, let's go. Cool. And Zemo, you know,
+
+574
+00:53:01,301 --> 00:53:06,367
+he gets into his fencing stance. and those two
+go at it like parrying and slashing and stuff,
+
+575
+00:53:06,407 --> 00:53:12,891
+but Zemo using his energy gauntlets, he's gonna
+punch out one of Black Manta's eye pieces in
+
+576
+00:53:12,931 --> 00:53:17,654
+his big ass helmet, because you know, it's just
+a giant target. And as Manta is taken back
+
+577
+00:53:17,694 --> 00:53:22,937
+by that, Zemo is gonna stick his death ray gun
+into Manta's helmet and just disintegrate Black
+
+578
+00:53:22,977 --> 00:53:29,100
+Manta's head right off. Damn! So Black Manta's
+out. Okay, well before Zemo can celebrate his
+
+579
+00:53:29,140 --> 00:53:35,649
+victory though, a disembodied... hand grabs
+his ankle and he's like what? And while he's
+
+580
+00:53:35,689 --> 00:53:41,273
+distracted by that another hand grabs him by
+the opposite arm and just rips that thing right
+
+581
+00:53:41,373 --> 00:53:48,279
+off. It's Solomon Grundy and his body has reconstituted
+after being torn to pieces by whirlwind. So
+
+582
+00:53:48,399 --> 00:53:53,623
+while Zemo's in shock that's when Solomon Grundy's
+gonna punch his head clean right off of his
+
+583
+00:53:53,643 --> 00:53:59,248
+shoulders. Geez I guess this is like super strong
+Solomon Grundy now that he's reborn again.
+
+584
+00:53:59,688 --> 00:54:04,945
+He's always strong. Well Absorbing Man, he sees
+Ultron and he's like, you know, I could use
+
+585
+00:54:04,965 --> 00:54:11,010
+some of that adamantium. So he runs over and
+he's going to grab Ultron turning himself into
+
+586
+00:54:11,090 --> 00:54:16,895
+adamantium. And Ultron's going to shrug him
+off like, don't fucking touch me. But now you're
+
+587
+00:54:16,915 --> 00:54:21,459
+all in big trouble. The absorbing man is going
+to confront Sinestro, who's probably going
+
+588
+00:54:21,479 --> 00:54:26,163
+to throw up some kind of like demon creature
+construct or something like that. But absorbing
+
+589
+00:54:26,183 --> 00:54:31,427
+man is going to use Ultron's techno forming
+power. to transform his ball and chain into
+
+590
+00:54:31,467 --> 00:54:35,711
+this like giant hammer, kind of like what he
+used when he was the Breaker of Wills in the
+
+591
+00:54:35,731 --> 00:54:41,255
+Fear Itself storyline. And he's gonna use this
+giant hammer to just smash through Sinestro's
+
+592
+00:54:41,295 --> 00:54:47,360
+constructs and then smash Sinestro's ring on
+his hand. And before Sinestro can even like
+
+593
+00:54:47,380 --> 00:54:52,365
+shit his pants, Absorbing Man just smashes his
+head in with the adamantium hammer, and then
+
+594
+00:54:52,565 --> 00:54:58,642
+Sinestro shits his pants, because he's dead.
+Well, I'm confused. So, Absorbing Man- didn't
+
+595
+00:54:58,662 --> 00:55:05,184
+just become adamantium, he absorbed some of
+Ultron's tech into his body as well? Yeah,
+
+596
+00:55:05,244 --> 00:55:10,266
+like he got his techno-forming power. He can
+absorb powers as well as just the physical
+
+597
+00:55:10,306 --> 00:55:15,809
+states. Okay, all right. Well, you know how
+one of Cheetah's feet were glued to the ground?
+
+598
+00:55:16,309 --> 00:55:22,211
+By now, she's nodded that thing right off and
+she's pissed. And the first person she sees
+
+599
+00:55:22,712 --> 00:55:27,946
+is Enchantress, just giving Cheetah Wonder Woman
+vibes. And so she attacks. moving on three
+
+600
+00:55:28,006 --> 00:55:33,247
+legs, slashing before Enchantress can even like
+react. She does, you know, zipped by two more
+
+601
+00:55:33,287 --> 00:55:39,289
+times, taking out her hands and her throat.
+So Enchantress is just slashed to death before
+
+602
+00:55:39,329 --> 00:55:45,791
+she could even really react. So Enchantress
+is out. Um, meanwhile, I'm going to say Radioactive
+
+603
+00:55:45,831 --> 00:55:53,333
+Man, uh, sees friggin' Solomon Grundy lumbering
+about and he thinks he's gross. And he figures
+
+604
+00:55:53,373 --> 00:55:59,126
+that the monster can't grow back if there's
+nothing left to row. So basically, Radioactive
+
+605
+00:55:59,146 --> 00:56:03,568
+Man just incinerates the guy. He burns every
+bit of Solomon Grundy's organic tissue until
+
+606
+00:56:03,688 --> 00:56:09,671
+there's nothing left but the stank. And guess
+what? It must be Saturday. Well, it's Sunday.
+
+607
+00:56:10,231 --> 00:56:16,894
+Except Solomon Grundy's dead, so it's Saturday.
+Okay. And meanwhile, Cheetah tries to attack
+
+608
+00:56:16,994 --> 00:56:21,576
+Ultron, but like, she's not gonna do anything
+to him. She's not scratching him. And Ultron
+
+609
+00:56:21,616 --> 00:56:26,451
+is gonna use his encephalo ray on her. which
+is gonna hypnotize her into just like staying
+
+610
+00:56:26,531 --> 00:56:32,276
+still for once, at which point he just energy
+blasts her to pieces. So Cheetah's out. Wait,
+
+611
+00:56:32,416 --> 00:56:40,343
+so who's left? Brainiac and Lex Luthor, you
+have Ultron, Radioactive Man, and Absorbing
+
+612
+00:56:40,383 --> 00:56:47,229
+Man? Yeah. Okay, so Absorbing Man, he's part
+tech now. That's cool, because once Brainiac
+
+613
+00:56:47,289 --> 00:56:53,835
+realized that, he sent out a swarm of microscopic
+nanites that invaded... Absorbing man's body
+
+614
+00:56:54,115 --> 00:57:00,119
+allowing brainiac to take it over and once he's
+fully in control He's gonna abandon his old
+
+615
+00:57:00,159 --> 00:57:06,824
+body and just transmit his consciousness into
+absorbing man. So now he has his power and
+
+616
+00:57:07,145 --> 00:57:11,968
+absorbing that himself is out of the match like
+his mind is gone and Brainiac is gonna techno
+
+617
+00:57:11,988 --> 00:57:18,153
+morph his new body to resemble like an adamantium
+robot skeleton and he's just gonna straight-up
+
+618
+00:57:18,333 --> 00:57:24,133
+march right toward Radioactive Man, tanking
+all of his blasts since radiation can't do
+
+619
+00:57:24,173 --> 00:57:31,479
+much to adamantium, and Brainiac's gonna technomorph
+his ball and chain into a robotic tentacle,
+
+620
+00:57:31,979 --> 00:57:37,183
+and he's gonna send that out to grasp Radioactive
+Man and just crush him, snapping his spine
+
+621
+00:57:37,203 --> 00:57:43,547
+and taking him out. Okay, I mean, like, if Brainiac
+has taken over Absorbing Man, like, he's not
+
+622
+00:57:43,607 --> 00:57:50,231
+just this adamantium robot now. He's also...
+a guy who can absorb anything he touches, right?
+
+623
+00:57:50,651 --> 00:57:55,753
+But like, if the comics have taught us anything,
+absorbing man's power is not stable, you know,
+
+624
+00:57:55,813 --> 00:58:00,735
+it's volatile and requires a lot of experience
+so that he doesn't accidentally absorb the
+
+625
+00:58:00,775 --> 00:58:06,378
+wrong properties of something. And Brainiac
+doesn't know this, but Ultron does. He knows
+
+626
+00:58:06,418 --> 00:58:13,260
+absorbing man's powers. So Ultron's gonna technomorph
+his body to like pull moisture out of the air,
+
+627
+00:58:13,541 --> 00:58:18,351
+like refrigeration technology, kinda. and the
+moisture is gonna condense into water vapor
+
+628
+00:58:18,811 --> 00:58:23,955
+and Ultron's gonna throw this water on Brainiac,
+just dousing him, and that's gonna cause Brainiac
+
+629
+00:58:23,975 --> 00:58:29,258
+to instantly turn into a puddle and disperse
+into the ground. Science. That was dumb. Ha
+
+630
+00:58:29,278 --> 00:58:36,383
+ha ha. That was, well, where else is Ultron
+gonna get water from? I'm sure there's blood
+
+631
+00:58:36,423 --> 00:58:41,258
+on the battlefield, I don't know. Okay, sure,
+yeah, that's better. Ultron picks up some severed
+
+632
+00:58:41,298 --> 00:58:45,620
+limb from the battleground and then like throws
+some blood at Brainiac. But either way, Brainiac
+
+633
+00:58:45,640 --> 00:58:51,502
+turns into a puddle and is no longer in the
+match. Okay, so just Lex Luthor and Ultron
+
+634
+00:58:51,542 --> 00:58:59,065
+are left. Boom. EMP blast. Ultron is finished
+by Lex Luthor. That was easy! You think it
+
+635
+00:58:59,085 --> 00:59:04,267
+would be that easy, but when Lex Luthor tries
+to shut down Ultron, little did Lex know that
+
+636
+00:59:04,327 --> 00:59:11,474
+his armor was already taken over by an Ultron
+Technovirus. Little did Ultron know that Lex
+
+637
+00:59:11,614 --> 00:59:18,217
+recognized the Ultron virus ages ago, quarantined
+it, and has been wirelessly transmitting false
+
+638
+00:59:18,257 --> 00:59:23,719
+data to Ultron to make him think his virus was
+working when it really wasn't. Well little
+
+639
+00:59:23,739 --> 00:59:30,182
+did Lex know that Ultron assumed he would attempt
+some kind of failsafe against his tech virus,
+
+640
+00:59:30,542 --> 00:59:35,884
+so he programmed it to make Lex's systems think
+that the virus had been quarantined but in
+
+641
+00:59:35,964 --> 00:59:45,764
+fact it was not. that Lex had installed the
+newly upgraded Norton Antivirus Plus, now available
+
+642
+00:59:45,865 --> 00:59:53,528
+to download at norton.com. I mean, little did
+Lex know that McAfee is the only tried and
+
+643
+00:59:53,568 --> 01:00:01,652
+true antivirus software, which you can now get
+for 10% off using the code DULACHECKOUT. Not
+
+644
+01:00:01,752 --> 01:00:07,143
+really, guys. Do not try to do that. Yeah. But
+yeah, we could probably leave the match there.
+
+645
+01:00:07,243 --> 01:00:14,449
+So either Lex Luthor discharges an EMP that
+shuts down Ultron, or Ultron uploads a techno
+
+646
+01:00:14,489 --> 01:00:19,333
+virus that takes over Lex Luthor's suit, shuts
+it down, and then just blows up Lex Luthor.
+
+647
+01:00:19,653 --> 01:00:23,957
+Sure, yeah, let's go with that. Let's find out
+which one of these scenarios happens by running
+
+648
+01:00:23,997 --> 01:00:30,763
+the simulations for this team battle and coming
+back with the winning team. 8G9K, hit it! Inputting
+
+649
+01:00:30,803 --> 01:00:37,527
+data. Running calculations. Processing results.
+Simulations complete. Alright, that was a pretty
+
+650
+01:00:37,727 --> 01:00:42,230
+good matchup. I had a lot of fun with that speculation.
+Please do not try to download any antivirus
+
+651
+01:00:42,270 --> 01:00:47,913
+software using Code Duel at checkout because
+it will not work. The results of the simulations
+
+652
+01:00:47,953 --> 01:00:52,936
+were pretty interesting. There's a huge disparity
+between the power levels of a lot of these
+
+653
+01:00:52,976 --> 01:00:59,420
+characters for both of our teams. My weakest
+guy was Whirlwind and his stats were way different
+
+654
+01:00:59,580 --> 01:01:05,492
+from my most powerful guy who was Ultron. Yeah,
+comparatively, my weakest guy was Solomon Grundy,
+
+655
+01:01:05,532 --> 01:01:12,637
+who was by far the weakest member of either
+team, though Brainiac was the strongest member
+
+656
+01:01:12,797 --> 01:01:18,621
+of either team. So I had both the weakest and
+the strongest guys. Yeah, Solomon Grundy is
+
+657
+01:01:18,761 --> 01:01:23,984
+not impressive statistically, like at all. Poor
+guy. But like Brainiac is so overpowered, he
+
+658
+01:01:24,024 --> 01:01:29,608
+almost has no business being in this match.
+Which I love. So you kind of have that going
+
+659
+01:01:29,648 --> 01:01:35,852
+for and against you. A lot of your guys actually
+had winning records against the Masters of
+
+660
+01:01:35,932 --> 01:01:41,595
+Evil, including Lex Luther, Brainiac, Gorilla
+Grodd won a majority of his matches, so did
+
+661
+01:01:41,775 --> 01:01:47,178
+Sinestro, which is quite impressive. The only
+guys on my team that had winning records were
+
+662
+01:01:47,458 --> 01:01:53,802
+Ultron, Enchantress, and Klawe. The rest of
+them won around a quarter to a third of their
+
+663
+01:01:53,822 --> 01:01:59,225
+matches. Freakin' Solomon Grundy though only
+won 8% out of all of his battles, his thousands
+
+664
+01:01:59,245 --> 01:02:04,982
+of battles. Yeah, that threw my average off
+big time. The lowest guy for you was what,
+
+665
+01:02:05,022 --> 01:02:10,987
+22% win rate? Yeah, Roland won about a quarter
+of his matches. So averaging it all out and
+
+666
+01:02:11,027 --> 01:02:15,431
+considering all the stats, who do you think
+is going to win this match? Oh, it's got to
+
+667
+01:02:15,451 --> 01:02:24,158
+be the Legion of Doom. And Instagram wholeheartedly
+agrees with me. 74% of our Instagram poll takers
+
+668
+01:02:24,318 --> 01:02:28,381
+said that the Legion was going to win. And that's
+why I'm going to say that poll is full of crap.
+
+669
+01:02:28,822 --> 01:02:34,786
+But let's go ahead and get the real results.
+AG9K, the results please. Hey, Yuasa. All right,
+
+670
+01:02:34,827 --> 01:02:44,254
+the winner in the team duel between the Legion
+of Doom and the Masters of Evil is the Masters
+
+671
+01:02:44,294 --> 01:02:51,620
+of Evil. The what? The Legion of Doom. Wait,
+wait, wait. I tried to fake you out right there,
+
+672
+01:02:51,681 --> 01:02:58,003
+but no, I couldn't do it. The Legion of Doom
+won, and it wasn't that close. They won 56.9%
+
+673
+01:02:58,943 --> 01:03:06,265
+of the time over the Masters of Evil, 43.1%.
+So averaging out to 1000 simulated battles,
+
+674
+01:03:06,765 --> 01:03:13,447
+Legion of Doom won 569, and Masters of Evil
+won 431. Yeah, that's a pretty solid win percentage
+
+675
+01:03:13,547 --> 01:03:20,509
+for Team DC here. Just goes to show that quantity
+of years of comic book history does not equate
+
+676
+01:03:20,569 --> 01:03:28,555
+to quality on the battlefield. This is bullshit.
+It's so lame losing to a team that's like barely
+
+677
+01:03:28,595 --> 01:03:32,456
+even a fucking team. They were invented in the
+cartoon and then they like made one appearance
+
+678
+01:03:32,476 --> 01:03:38,418
+in the comics. They're a real team in our hearts,
+Joseph. In our hearts. That's what counts.
+
+679
+01:03:38,978 --> 01:03:44,999
+That's stupid. You're stupid. Clearly for choosing
+the losing team. Your face is stupid. Your
+
+680
+01:03:45,039 --> 01:03:52,141
+face looks like my face, which also makes your
+face stupid. Damn it! Just quit while you're
+
+681
+01:03:52,161 --> 01:03:56,287
+behind. That does it for this team duel. Let
+us know what you guys thought about the results
+
+682
+01:03:56,327 --> 01:04:03,832
+by writing to us at dyna or by visiting us on
+Instagram, which you can find a link to in
+
+683
+01:04:03,872 --> 01:04:08,835
+our show notes or by visiting our website at
+dynamicduel.com. And on our site, you could
+
+684
+01:04:08,875 --> 01:04:12,577
+also find a link to our Patreon page where you
+could join our dynamic two-o tier and chat
+
+685
+01:04:12,597 --> 01:04:16,599
+with us and fellow listeners, our fantastic
+four tier, which gets you bonus content each
+
+686
+01:04:16,659 --> 01:04:21,526
+month, our X-Force tier that makes you an executive
+producer of this podcast. or our newest here
+
+687
+01:04:21,546 --> 01:04:26,411
+that lets you join our Dynamike Podcast Network.
+Please don't forget to rate the show on Apple
+
+688
+01:04:26,451 --> 01:04:33,196
+Podcasts, Spotify, Podchaser or on our website.
+Our next episode is going to be a review for
+
+689
+01:04:33,216 --> 01:04:38,361
+a movie that ties into this duel. We're going
+to review Justice League Doom, which is an
+
+690
+01:04:38,501 --> 01:04:44,386
+animated DC film that incorporates the Legion
+of Doom as the villains. It's a great animated
+
+691
+01:04:44,426 --> 01:04:49,402
+film from DC. If you guys haven't seen it, definitely
+check it out before next week. But that does
+
+692
+01:04:49,422 --> 01:04:54,146
+it for this episode, we want to give a big thanks
+to our executive producers Ken Johnson, John
+
+693
+01:04:54,166 --> 01:04:59,231
+Swarovski, Zachary Hepburn, Dustin Balcom, Miggy
+Mathagean, Brandon Estregard, Nathaniel Wagner,
+
+694
+01:04:59,351 --> 01:05:05,496
+Levi Yeaton, Austin Wazilovski, AJ Dunkerley,
+Scott Camacho, Adam Spies, Andrew Shunk, and
+
+695
+01:05:05,596 --> 01:05:10,641
+Dean Molesky for helping make this podcast possible.
+And we'll talk to you guys next week. Up, up
+
+696
+01:05:10,661 --> 01:05:15,024
+and away, true believers. My supervillain team
+is called the masters of debaters.
+
