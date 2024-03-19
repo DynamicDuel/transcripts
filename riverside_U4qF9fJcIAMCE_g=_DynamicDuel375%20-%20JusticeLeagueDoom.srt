@@ -1,0 +1,3264 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,622 --> 00:00:29,563
+This is the Dynamic Duel Podcast, a weekly show
+where we review superhero films and debate
+
+3
+00:00:29,603 --> 00:00:35,345
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:35,725 --> 00:00:42,287
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, as a tie-in to our
+
+5
+00:00:42,387 --> 00:00:47,168
+last episode, which was a team duel between
+the Legion of Doom and the Masters of Evil,
+
+6
+00:00:47,548 --> 00:00:56,103
+we are doing a review of the DC animated film
+which features the Legion of Doom as the main
+
+7
+00:00:56,383 --> 00:01:01,305
+villainous cast. Yeah, it is a solid movie.
+It was my first time seeing it the other day.
+
+8
+00:01:01,545 --> 00:01:05,407
+And yeah, we'll talk more about it later on
+this episode. Before that, we're going to break
+
+9
+00:01:05,447 --> 00:01:09,669
+down the comic book news from the past week,
+of which we got some doozies. We learned that
+
+10
+00:01:09,709 --> 00:01:16,392
+the Batman 2 release date has been pushed back
+from 2025 a year to 2026. The Venom sequel
+
+11
+00:01:16,412 --> 00:01:22,349
+title and new release date has been announced
+and. DC Studios is working on a live action
+
+12
+00:01:22,409 --> 00:01:27,276
+Teen Titans film. As always, we list our segment
+times in our episode description, so feel free
+
+13
+00:01:27,296 --> 00:01:32,163
+to check out the show notes if you want to skip
+ahead to a particular topic. Our artificially
+
+14
+00:01:32,243 --> 00:01:39,474
+intelligent duel simulator AJ9K has a quick
+message for our listeners, so listen up. Why
+
+15
+00:01:39,514 --> 00:01:44,317
+hello there. Do you love listening and chatting
+about Marvel and DC? Then become a part of
+
+16
+00:01:44,357 --> 00:01:49,460
+the dynamic duel community on Patreon, where
+you can choose from three tiers. The dynamic
+
+17
+00:01:49,500 --> 00:01:54,884
+two-o tier lets you listen to this podcast without
+ads and gives you access to its discord chat
+
+18
+00:01:54,904 --> 00:01:59,738
+group, where you can chat with Johnny DC and
+marvelous Joe. The Fantastic Four tier gives
+
+19
+00:01:59,758 --> 00:02:04,600
+you that and more with two bonus episodes each
+month, including bloopers and top ten shows
+
+20
+00:02:04,620 --> 00:02:09,423
+where Johnny and Joe count down your favourite
+Marvel and DC subjects. The X-Force tier makes
+
+21
+00:02:09,443 --> 00:02:14,065
+you an executive producer of Dynamic Duel, where
+every month you help the host choose what to
+
+22
+00:02:14,105 --> 00:02:19,267
+review and who to fight against each other.
+And finally, the Dynamite Podcast Network tier
+
+23
+00:02:19,567 --> 00:02:24,610
+allows aspiring podcasters to create their own
+battle-focused show using this Monte Carlo
+
+24
+00:02:24,650 --> 00:02:25,190
+simulator.
+
+25
+00:02:28,272 --> 00:02:32,493
+graphic support and consultation and get you
+simulation results to announce on your show.
+
+26
+00:02:33,013 --> 00:02:38,455
+Pitch the twins your show via email at dynamicduelpodcast
+at gmail.com or by reaching out to them on
+
+27
+00:02:38,535 --> 00:02:46,918
+social media. Check it out at patreon.com slash
+dynamicduel. Pip pip cheerio. Thanks AJ9K,
+
+28
+00:02:47,138 --> 00:02:52,182
+and thanks to everyone who supports the podcast,
+including Dustin Belkum, whose birthday was
+
+29
+00:02:52,202 --> 00:02:58,166
+this past week. Happy birthday, if I could get
+you one gift from Marvel. Have I given away
+
+30
+00:02:58,247 --> 00:03:03,570
+Thor's hammer yet, Mjolnir? I'm sure you have.
+Well, I'm giving it away again, because whoever
+
+31
+00:03:03,610 --> 00:03:07,734
+I gave it to before is no longer worthy, so
+we'll see if Dustin's worthy to wield it. I'm
+
+32
+00:03:07,774 --> 00:03:12,537
+sure he is, because he likes Marvel. No DC fan
+can lift that shit. And from DC, I'm gonna
+
+33
+00:03:12,557 --> 00:03:17,864
+get you... The Batmobile, specifically the one
+from The Batman. Cause you know you like that
+
+34
+00:03:17,905 --> 00:03:25,510
+shit, Dustin. You know you like it. No, it was
+boring. Time will prove you guys wrong. Guys,
+
+35
+00:03:25,530 --> 00:03:30,353
+be sure to tune into the Dynamic Podcast Network
+this week, which includes Max Destruction,
+
+36
+00:03:30,493 --> 00:03:33,695
+a show that pits your favorite action heroes
+from film and television against each other.
+
+37
+00:03:34,175 --> 00:03:39,479
+This week, they're gonna find out who's gonna
+win between Haru from Beverly Hills Ninja and
+
+38
+00:03:39,699 --> 00:03:44,538
+Sho Nuff from The Last Dragon. That's gonna
+be a great episode. I loved those movies as
+
+39
+00:03:44,578 --> 00:03:50,141
+a kid. Looking forward to that episode. On the
+Sanjo World podcast, host Zachary Hepburn speculates
+
+40
+00:03:50,181 --> 00:03:55,244
+on fights between fan favorite anime characters.
+This Thursday, we'll find out who would win
+
+41
+00:03:55,384 --> 00:04:01,988
+between Hisoka Marou from Hunter and Joker from
+Fire Force. I bet you nailed those pronunciations
+
+42
+00:04:02,008 --> 00:04:07,491
+again. Marou? Maroo? Something like that. On
+the Console Combat podcast, host John and Dean
+
+43
+00:04:07,531 --> 00:04:11,893
+find out who would win in fights between popular
+video game characters. In yesterday's episode...
+
+44
+00:04:12,226 --> 00:04:18,728
+They found out who'd win between Michael DeSanta
+from Grand Theft Auto and Max Payne. Visit
+
+45
+00:04:18,808 --> 00:04:23,830
+dynamicpodcasts.com or click the link in our
+show notes to listen to all of the shows in
+
+46
+00:04:23,850 --> 00:04:30,953
+the DynaMic Podcast Network. But with that
+out of the way, quick to the No Prize! A No
+
+47
+00:04:30,993 --> 00:04:35,275
+Prize is an award Marvel used to give out to
+fans. Our version, the Dynamic Duel No Prize,
+
+48
+00:04:35,575 --> 00:04:39,837
+is a digital award we post on Instagram for
+the person that we feel gave the best answer
+
+49
+00:04:39,877 --> 00:04:46,061
+to our question of the week. Last week we asked,
+what is your favorite DC or Marvel video game
+
+50
+00:04:46,342 --> 00:04:50,685
+and why? We got quite a few answers so let's
+go ahead and run down our honorable mentions
+
+51
+00:04:50,885 --> 00:04:57,431
+as well as the no prize winner. Our first honorable
+mention goes to Travis Bailey who said, Travis
+
+52
+00:04:57,451 --> 00:05:02,195
+Bailey, so the first thing that popped into
+my head, I'm a little older than y'all, you
+
+53
+00:05:02,215 --> 00:05:08,280
+know, I'm pen and paper, you know, in case you
+find a one at the mall years old, so I automatically
+
+54
+00:05:08,320 --> 00:05:14,118
+thought of X-Men the arcade game. And I've wasted
+so much of my time, like probably years out
+
+55
+00:05:14,158 --> 00:05:19,300
+of my life with a pocket full of quarters. And
+this is the quintessential co-op game. I mean,
+
+56
+00:05:19,320 --> 00:05:24,561
+it's the gold standard of that genre. Man, if
+you wasted years of your life on that game
+
+57
+00:05:24,581 --> 00:05:28,523
+with just a pocket full of quarters, then you
+are doing far better than the rest of us, my
+
+58
+00:05:28,563 --> 00:05:32,824
+friend, because Jonathan and I used to play
+that game all the time. We'd go to Boardwalk
+
+59
+00:05:32,924 --> 00:05:38,725
+USA and play that game. I remember. And I was
+dying all the time. Yeah, same. But also like.
+
+60
+00:05:39,306 --> 00:05:43,228
+If you're saying you wasted years of your life
+playing the X-Men arcade game, I would say
+
+61
+00:05:43,288 --> 00:05:47,750
+those are years well spent, my friend, because
+that game is awesome. That game is really awesome.
+
+62
+00:05:47,890 --> 00:05:52,313
+Definitely one of the quintessential arcade
+games from the early nineties up there with,
+
+63
+00:05:52,333 --> 00:05:56,515
+you know, Captain America and the Avengers,
+the Teenage Mutant Ninja Turtles game, the
+
+64
+00:05:56,555 --> 00:06:01,538
+Simpsons arcade game. Like all of those had
+pretty much a similar gameplay style and were
+
+65
+00:06:01,758 --> 00:06:05,540
+ubiquitous at almost every arcade across the
+nation. Yeah. Like the side scroller. Great
+
+66
+00:06:05,580 --> 00:06:12,180
+answer, Travis. Our next honorable mention goes
+to. Leo Roth who said, Hey guys, uh, it's Leo
+
+67
+00:06:12,240 --> 00:06:19,044
+Roth, long time listener, first time recording,
+but the best superhero video game by far is
+
+68
+00:06:19,104 --> 00:06:25,928
+Spider-Man 2 on the GameCube. The swinging mechanics
+are great, story is great, and I just love
+
+69
+00:06:25,968 --> 00:06:32,151
+it so much. It's really, really good. And that
+new Spider-Man 2, that's not good. Just this
+
+70
+00:06:32,251 --> 00:06:39,707
+one. Honorable mention, Ultimate Spider-Man
+on the GameCube. It's like a- playing through
+
+71
+00:06:39,727 --> 00:06:44,810
+a real life comic. Now, Leo Roth sounds a little
+bit young to be playing a game so old, but
+
+72
+00:06:44,870 --> 00:06:50,673
+he is no less correct. Spider-Man 2, which was
+an adaptation of the movie, Spider-Man 2, when
+
+73
+00:06:50,713 --> 00:06:57,057
+it came out in 2004, for the GameCube was incredible.
+It was a game that kind of pioneered the swinging
+
+74
+00:06:57,097 --> 00:07:01,700
+mechanics that we know and love today. And I
+played the shit out of that game nonstop while
+
+75
+00:07:01,720 --> 00:07:05,806
+listening to Dashboard Confessional and the
+entire Spider-Man 2 soundtrack. Those were
+
+76
+00:07:05,846 --> 00:07:11,209
+great times. Leo also mentioned Ultimate Spider-Man
+for the GameCube. And Leo, if you have a GameCube,
+
+77
+00:07:11,229 --> 00:07:17,072
+you also gotta check out Hulk Ultimate Destruction
+because that is still one of the best Hulk
+
+78
+00:07:17,092 --> 00:07:22,175
+games that ever came out. The GameCube was just
+a great era. Oh yeah, there was a Batman Begins
+
+79
+00:07:22,215 --> 00:07:26,417
+video game that came out on the GameCube. That
+was the closest thing to like a good Batman
+
+80
+00:07:26,457 --> 00:07:31,380
+game, like a Splinter Cell stealth type video
+game that we had until, you know, the Arkham
+
+81
+00:07:31,420 --> 00:07:36,682
+games. Great answer, Leo. Our next honorable
+mention goes to... Caleb Volk who said, Hey
+
+82
+00:07:36,702 --> 00:07:43,005
+guys, Caleb Volk, long time listener, first
+time answering. I think the 2018 Spider-Man
+
+83
+00:07:43,025 --> 00:07:49,068
+game is the best game Marvel or DC's ever come
+out with just because of the storyline with
+
+84
+00:07:49,108 --> 00:07:55,891
+Doctor. And Caleb actually got cut off in his
+answer, but his answer of 2018 Spider-Man is,
+
+85
+00:07:56,011 --> 00:08:00,853
+you know, top notch. It is highly regarded as
+one of the best, if not the best superhero
+
+86
+00:08:00,873 --> 00:08:06,251
+video game of all time. really puts you in the
+driver's seat of being the character of Spider-Man
+
+87
+00:08:06,351 --> 00:08:11,974
+with incredible cinematics, an incredible story,
+incredible gameplay, great everything. Yeah,
+
+88
+00:08:12,114 --> 00:08:18,296
+I would have argued that the Arkham games are
+the best superhero video games until I heard
+
+89
+00:08:18,336 --> 00:08:24,019
+from DC fans on our Discord server that no,
+actually, Spider-Man is probably a little bit
+
+90
+00:08:24,039 --> 00:08:28,560
+better. So I guess I'll concede that. Yeah,
+that's a great point. Actually, that brings
+
+91
+00:08:28,621 --> 00:08:33,503
+us to the winner of this week's No Prize. who
+also gave a Marvel answer, meaning that we
+
+92
+00:08:33,523 --> 00:08:37,687
+have no DC answers because all DC video games
+suck. Looking at you, Suicide Squad killed
+
+93
+00:08:37,707 --> 00:08:44,472
+the Justice League. Damn it! But the winner
+is Ed Jones. Who said? What's up guys? This
+
+94
+00:08:44,492 --> 00:08:50,777
+is Ed Jones here with my favorite DC and Marvel
+game and I have to give it to Marvel Ultimate
+
+95
+00:08:50,797 --> 00:08:57,903
+Alliance 2. Baby, it is one of the best RPGs
+I've played. You can play it with three of
+
+96
+00:08:57,943 --> 00:09:03,387
+your buddies and it goes through one of the
+best Marvel storylines. The Civil War? Oh,
+
+97
+00:09:03,427 --> 00:09:09,232
+come on! How can you beat that? You just make
+your own team and you go through the world
+
+98
+00:09:09,272 --> 00:09:14,596
+destroying things. I absolutely love it. Yeah,
+fantastic answer with Marvel Ultimate Alliance
+
+99
+00:09:14,616 --> 00:09:19,820
+2. Actually, we had Travis Herndon call in with
+the first Marvel Ultimate Alliance, but I think
+
+100
+00:09:19,861 --> 00:09:24,985
+the sequel kind of took everything great from
+the original and kind of expanded on it, you
+
+101
+00:09:25,005 --> 00:09:30,249
+know, increased the roster and gave it a better
+storyline, adapting the Civil War plot from
+
+102
+00:09:30,289 --> 00:09:35,432
+the comics. Fantastic answer. I remember getting
+a PlayStation just to play this game and it
+
+103
+00:09:35,452 --> 00:09:42,256
+was so much fun. I remember playing X-Men Legends,
+which is one of the first action RPG superhero
+
+104
+00:09:42,296 --> 00:09:48,099
+games of that kind to come out. And I remember
+just thinking that I wish that they could expand
+
+105
+00:09:48,559 --> 00:09:54,302
+this gameplay from just the X-Men to the larger
+Marvel universe as a whole. And they did exactly
+
+106
+00:09:54,322 --> 00:09:59,585
+that. And yeah, to this day, Marvel Ultimate
+Alliance remains one of the best Marvel video
+
+107
+00:09:59,625 --> 00:10:04,755
+games ever. Yeah, I remember we got that PlayStation
+so that I could also play Justice League Heroes,
+
+108
+00:10:04,875 --> 00:10:09,457
+which is like the DC version of the Ultimate
+Alliance games. Yeah, that game was like a
+
+109
+00:10:09,537 --> 00:10:13,859
+lesser version of Ultimate Alliance. Justice
+League Heroes didn't get that much fanfare,
+
+110
+00:10:13,879 --> 00:10:18,441
+if I remember correctly. Yeah, that's because
+there's so much DC bias out there in the world.
+
+111
+00:10:18,661 --> 00:10:23,704
+So much DC prejudice. Yeah, people are totally
+prejudiced against things that suck, for sure.
+
+112
+00:10:24,184 --> 00:10:24,624
+Fuck you.
+
+113
+00:10:27,826 --> 00:10:32,169
+If anyone still has a PlayStation 2, definitely
+pick up Justice League Heroes. It's a good
+
+114
+00:10:32,189 --> 00:10:37,133
+game. It's good. But great answer, Ed Jones.
+You win this week's No Prize. If you, the listener,
+
+115
+00:10:37,153 --> 00:10:41,277
+want a shot at winning your own No Prize, stay
+tuned to later on in this episode, when we'll
+
+116
+00:10:41,297 --> 00:10:46,321
+be asking another question of the week. And
+now that that's done, onto the news.
+
+117
+00:10:51,854 --> 00:10:57,955
+Okay, so this past week we've learned that the
+Batman sequel, just tentatively titled The
+
+118
+00:10:57,975 --> 00:11:07,138
+Batman 2 for now, was pushed back a whole year
+from October 25 to October 2nd of 2026. Now
+
+119
+00:11:07,158 --> 00:11:13,260
+the original film came out two years ago in
+2022, so there will be a four-year gap between
+
+120
+00:11:13,300 --> 00:11:17,681
+the two films. Which isn't terrible, like I
+remember when we used to have to wait a lot
+
+121
+00:11:17,721 --> 00:11:23,052
+longer for sequels. But too long for me because
+I really liked the first movie. Yeah, it's
+
+122
+00:11:23,072 --> 00:11:27,875
+like a news for DC fans that enjoyed the first
+The Batman movie. I hate calling it that, by
+
+123
+00:11:27,915 --> 00:11:34,460
+the way. But I mean, at least they'll have shows
+like The Penguin in the interim, which is supposed
+
+124
+00:11:34,480 --> 00:11:39,043
+to come out later on this year. Yeah, we don't
+actually have a solid release date for The
+
+125
+00:11:39,083 --> 00:11:43,606
+Penguin show yet. Hopefully it comes out this
+year. Odds are it will, because they've been
+
+126
+00:11:43,646 --> 00:11:49,566
+filming it for quite some time. And it'll be
+a nice holdover until we get. Batman sequel.
+
+127
+00:11:50,026 --> 00:11:55,530
+And honestly, if that show is not good, I feel
+like that's going to like really hamper expectations
+
+128
+00:11:55,650 --> 00:12:01,814
+for the Batman sequel, which would not be great.
+Now, a lot of people are saying that this is
+
+129
+00:12:01,955 --> 00:12:07,198
+to give more breathing room for James Gunn's
+Superman movie so that they don't release in
+
+130
+00:12:07,238 --> 00:12:12,702
+the same year. I don't know if I believe that.
+I kind of hoped that they were coming out in
+
+131
+00:12:12,722 --> 00:12:16,605
+the same year, because it would have been really
+cool to have both a Superman and Batman film
+
+132
+00:12:16,825 --> 00:12:21,615
+in 2025. I just think that the script isn't
+ready yet and they're not ready to start filming
+
+133
+00:12:21,695 --> 00:12:25,998
+so they had to push it back. And they want to
+keep their October release date because Warner
+
+134
+00:12:26,018 --> 00:12:31,001
+Brothers has had quite a lot of success for
+their films that released in October. Of course
+
+135
+00:12:31,081 --> 00:12:36,164
+this year in October they're releasing the Joker
+sequel, Folly Ado, hoping to recapture the
+
+136
+00:12:36,204 --> 00:12:41,467
+success of the first Joker film, which also
+released in October and made a billion dollars.
+
+137
+00:12:42,127 --> 00:12:47,694
+By the time the Batman 2 comes out, Robert Panson
+will be around... 39 years old, totally old
+
+138
+00:12:47,714 --> 00:12:51,935
+enough to be a bat dad, which makes you think
+that he should just probably have his own kid
+
+139
+00:12:52,055 --> 00:12:57,117
+and Damien Wayne in the Batman franchise and
+then, you know, just be the DCU version of
+
+140
+00:12:57,157 --> 00:13:02,778
+Batman that James Gunn is putting in his franchise.
+Well, in the articles that announced the Batman's
+
+141
+00:13:02,938 --> 00:13:07,459
+pushed release date, they also mentioned that
+James Gunn and Peter Safran, the two heads
+
+142
+00:13:07,479 --> 00:13:12,861
+of DC Studios, mentioned that a separate actor
+will be cast for their Batman and Robin film
+
+143
+00:13:13,001 --> 00:13:18,483
+Brave and the Bold, which was announced last
+with Andy Muschietti directing. So that's kind
+
+144
+00:13:18,503 --> 00:13:23,325
+of heartbreaking because I was really hoping
+that with Matt Reeves developing an Arkham
+
+145
+00:13:23,365 --> 00:13:29,087
+series for James Gunn's DCU that meant he was
+one step closer to assimilating Robert Pattinson
+
+146
+00:13:29,127 --> 00:13:34,289
+Batman into James Gunn's universe. But as for
+right now, that looks like it's not the case.
+
+147
+00:13:34,850 --> 00:13:40,992
+Yeah, the Batman will stay strictly as an Elseworlds
+franchise. So that's stupid, but not as stupid
+
+148
+00:13:41,112 --> 00:13:48,106
+as our next news item. I'm not gonna disagree
+with you. This last week we learned that the
+
+149
+00:13:48,247 --> 00:13:54,528
+Venom sequel, Venom 3, has moved up its release
+date from November 8th of this year, 2024,
+
+150
+00:13:55,309 --> 00:14:01,450
+to October 25th. So a few weeks up. And we learned
+that the movie is going to be called Venom
+
+151
+00:14:01,890 --> 00:14:11,973
+The Last Dance. Which is so dumb. Why? So dumb.
+Like what the hell does that have to do with
+
+152
+00:14:12,073 --> 00:14:17,068
+Venom? Like I remember when they released the
+title for the second movie in the franchise,
+
+153
+00:14:17,088 --> 00:14:21,131
+which is Venom Let There Be Carnage. And you
+and I were complaining because we felt it should
+
+154
+00:14:21,151 --> 00:14:25,655
+have been called Maximum Carnage or Absolute
+Carnage or something like that. Like Let There
+
+155
+00:14:25,675 --> 00:14:30,058
+Be Carnage was just way too cumbersome. The
+Last Dance is not cumbersome, but it is really,
+
+156
+00:14:30,098 --> 00:14:36,763
+really dumb. And my main complaint with the
+character of Venom in the Let There Be Carnage
+
+157
+00:14:36,803 --> 00:14:43,162
+sequel is that the franchise seemed to really...
+lean heavily into the goofier side of the Venom
+
+158
+00:14:43,182 --> 00:14:49,544
+character. And with a title like the last dance
+for a character like Venom, who is this freaky,
+
+159
+00:14:49,584 --> 00:14:54,405
+scary, alien symbiote monster, the Spider-Man
+villain, it just seems like a joke, right?
+
+160
+00:14:54,465 --> 00:14:59,587
+They're like, they're making the character a
+joke. Once again, I don't have high hopes for
+
+161
+00:14:59,607 --> 00:15:04,488
+the movie. Well, I'm kind of surprised by that,
+honestly, considering that the humorous aspect
+
+162
+00:15:04,528 --> 00:15:09,846
+of Venom, you said was one that you really liked
+about the character and the first movie. Well,
+
+163
+00:15:09,886 --> 00:15:15,772
+yeah, I like this version of having a character
+that looks like venom occasionally cracking
+
+164
+00:15:15,812 --> 00:15:22,758
+jokes in moderation. You know, when he's going
+to fucking raves and watching soap operas and
+
+165
+00:15:22,778 --> 00:15:27,383
+raising chickens and stuff, it gets to be a
+little bit cartoonish. Famously, The Last Dance
+
+166
+00:15:27,423 --> 00:15:33,129
+is also known as the title of a Michael Jordan
+documentary. So I wonder if there's any kind
+
+167
+00:15:33,169 --> 00:15:38,832
+of tie in there. I think it's more accurately
+referencing the Donna Summer song, Last Dance.
+
+168
+00:15:38,972 --> 00:15:44,455
+But also, back in November, Tom Hardy did put
+out an Instagram post when they started filming
+
+169
+00:15:44,895 --> 00:15:50,798
+Venom 3 that had the caption of, The Last Dance.
+Thankfully, we're back to shooting. So I don't
+
+170
+00:15:50,818 --> 00:15:57,262
+know if the marketing team decided to name the
+movie after Tom Hardy's Instagram caption or
+
+171
+00:15:57,822 --> 00:16:01,885
+if Tom Hardy was just giving people a peek into
+what the title of the movie would be back in
+
+172
+00:16:01,925 --> 00:16:08,727
+November. Either way. It sucks. It really makes
+you wonder what the hell is Sony doing? Like,
+
+173
+00:16:08,747 --> 00:16:13,448
+are they trying to fail? They're trying to piss
+me off is what I think they're trying to do.
+
+174
+00:16:13,949 --> 00:16:18,150
+Everyone, everyone is trying to piss everyone
+off. No one likes this. Yeah. What are they
+
+175
+00:16:18,190 --> 00:16:24,472
+doing? It's so crazy that Madame Web came out
+about a month ago, and I already own it on
+
+176
+00:16:24,512 --> 00:16:30,274
+home video. You know, yes, I bought it, but
+that's because I buy every Marvel movie. But
+
+177
+00:16:30,334 --> 00:16:34,936
+yeah, like the movie did so bad at the box office.
+I feel like Craven is also not gonna do great
+
+178
+00:16:35,016 --> 00:16:40,218
+and I also think that Venom 3 is not gonna do
+great. And of course, all three of these films
+
+179
+00:16:40,278 --> 00:16:45,400
+are releasing this year. That's insane. Yeah,
+what the hell is Sony doing? Because Craven
+
+180
+00:16:45,420 --> 00:16:50,702
+the Hunter comes out August 30th and then yeah,
+just a few months later, you have Venom the
+
+181
+00:16:50,722 --> 00:16:56,245
+Last Dance, which actually comes out just a
+few weeks after Joker Follyadoo. Yeah, that
+
+182
+00:16:56,285 --> 00:17:00,667
+was the part that kind of pissed me off actually.
+It's... Like Sony's trying to bite into Joker's
+
+183
+00:17:01,007 --> 00:17:05,291
+box office with another comic book movie. But
+it's not going to work, Sony. It's the fucking
+
+184
+00:17:05,391 --> 00:17:11,776
+Joker. No one gives a shit about Venom. Except
+remember that the Joker is a musical, and that
+
+185
+00:17:11,816 --> 00:17:18,621
+just sounds weird, too. People need to get over
+that. Joker, the musical, Venom apparently
+
+186
+00:17:18,641 --> 00:17:25,138
+will have a dance number, I'm guessing. It's
+all just weird. If I see Venom dancing. to
+
+187
+00:17:25,198 --> 00:17:30,808
+Donna Summer's Last Dance, I'm gonna walk out
+of the theater. I'll sit through it, but I
+
+188
+00:17:30,848 --> 00:17:35,597
+will comment on it in our review for sure. But
+the news about this subtitle for the Venom
+
+189
+00:17:35,617 --> 00:17:38,281
+3 movie brings us to our question of the week.
+
+190
+00:17:42,946 --> 00:17:49,211
+What Marvel or DC film do you think had the
+best subtitle and why? And I swear to God if
+
+191
+00:17:49,251 --> 00:17:53,975
+you answer, and the fantabulous emancipation
+of one Harley Quinn for the Birds of Prey movie,
+
+192
+00:17:54,115 --> 00:17:57,758
+we are throwing your response into the fire.
+I mean I don't know, it's still not as bad
+
+193
+00:17:57,778 --> 00:18:04,664
+as The Last Dance. I don't know about that.
+I do! But guys go ahead and record your answer
+
+194
+00:18:04,684 --> 00:18:08,787
+at dynamicduel.com by clicking on the red microphone
+button in the bottom right hand corner of the
+
+195
+00:18:08,807 --> 00:18:13,330
+screen, which will prompt you to leave us a
+voicemail. Your message could be up to 30 seconds
+
+196
+00:18:13,370 --> 00:18:17,631
+long, and don't forget to leave your name in
+case we include you on the podcast. We'll pick
+
+197
+00:18:17,671 --> 00:18:22,232
+our favorite answer and award that person a
+Dynamic Duel No Prize that we'll post to Instagram.
+
+198
+00:18:22,633 --> 00:18:29,234
+Be sure to answer before March 23rd. In our
+final bit of news, we learned that a live action
+
+199
+00:18:29,274 --> 00:18:35,676
+Teen Titans movie is in development at DC Studios.
+Apparently, it's being written by the same
+
+200
+00:18:35,696 --> 00:18:37,977
+writer who wrote Supergirl Woman of Tomorrow,
+
+201
+00:18:41,310 --> 00:18:46,091
+not sure about the pronunciation of her last
+name, but it's exciting to hear that they really
+
+202
+00:18:46,131 --> 00:18:51,272
+like her as a writer and are bringing her on
+another DC project. I've heard that the Supergirl
+
+203
+00:18:51,292 --> 00:18:57,254
+Woman of Tomorrow script is fantastic, according
+to James Gunn. Of course, he may not be the
+
+204
+00:18:57,294 --> 00:19:02,056
+most unbiased of sources there, but as the head
+of the studio, you gotta imagine that when
+
+205
+00:19:02,076 --> 00:19:07,017
+a project excites him enough to comment on it
+on social media and announce that to the world,
+
+206
+00:19:07,357 --> 00:19:11,943
+it's gotta be pretty good. I mean, the whole
+the studio having faith in the script doesn't
+
+207
+00:19:11,963 --> 00:19:17,086
+really mean anything, considering the writer
+of Birds of Prey, Christina Hodson, wrote multiple
+
+208
+00:19:17,126 --> 00:19:22,549
+DC movies. Yeah, she also wrote The Flash, which
+James Gunn also said was one of the best superhero
+
+209
+00:19:22,589 --> 00:19:28,933
+movies he had ever seen. So I don't know, maybe
+I shouldn't put too much faith in this new
+
+210
+00:19:28,973 --> 00:19:35,216
+writer. But damn it, I gotta, I gotta, because
+both projects sound really cool. I've always
+
+211
+00:19:35,276 --> 00:19:40,211
+wanted to see a live action Teen Titans movie.
+I think the film will do gangbusters because
+
+212
+00:19:40,531 --> 00:19:45,454
+a lot of people like Teen Titans, whether it's
+the Teen Titans cartoon or Teen Titans Go.
+
+213
+00:19:46,015 --> 00:19:50,238
+I'm really looking forward to seeing what roster
+they come up with here. Maybe they'll even
+
+214
+00:19:50,278 --> 00:19:54,400
+include Jaime Reyes' Blue Beetle. You never
+know. I wonder if they're going to include
+
+215
+00:19:54,641 --> 00:19:58,223
+whoever plays Robin in the Brave and the Bold
+movie. Like if Damien's going to be part of
+
+216
+00:19:58,243 --> 00:20:02,750
+the Titans. You have to imagine that they would.
+Considering that Brave and the Bold... is supposed
+
+217
+00:20:02,790 --> 00:20:06,773
+to come out before the Teen Titans movie. So
+you're just assuming that Nightwing doesn't
+
+218
+00:20:06,953 --> 00:20:11,976
+exist and that Damien will be Batman's first
+Robin in this universe? No, I'm assuming Nightwing
+
+219
+00:20:12,137 --> 00:20:17,761
+does exist, but they're not going to start with
+his history as the character of Robin. I believe
+
+220
+00:20:17,801 --> 00:20:22,524
+that James Gunn's DC Universe is going to be
+one that's fully established. And we're not
+
+221
+00:20:22,544 --> 00:20:27,267
+going to get too many superhero origins. So
+why not just include Nightwing in the Teen
+
+222
+00:20:27,307 --> 00:20:31,886
+Titans movie as opposed to Damien? I mean, you
+could. You absolutely could. You can make this
+
+223
+00:20:31,946 --> 00:20:37,109
+more of like a Titans film with like Donna Troy
+and Wally West. I think that would be really
+
+224
+00:20:37,149 --> 00:20:40,491
+cool too. Actually, I would prefer that because
+you have to imagine that they're not going
+
+225
+00:20:40,511 --> 00:20:45,914
+to do too many sidekick characters, like the
+very first iteration of the Teen Titans, because
+
+226
+00:20:46,234 --> 00:20:51,397
+not all of the mentors that the sidekicks belong
+to will have been established on screen by
+
+227
+00:20:51,437 --> 00:20:57,260
+the time this movie is made, I imagine. So characters
+like Raven, Starfire, Cyborg, Beast Boy make
+
+228
+00:20:57,340 --> 00:21:03,147
+more sense to me. For sure. Yeah. but no word
+on a director or a release date or anything
+
+229
+00:21:03,207 --> 00:21:07,413
+else besides the writer yet, but we will keep
+you guys informed when we find out.
+
+230
+00:21:14,574 --> 00:21:19,123
+That does it for all the news for this episode.
+Now let's move on to the main event where we
+
+231
+00:21:19,184 --> 00:21:23,773
+review the DC animated film, Justice League
+Doomsday.
+
+232
+00:21:38,798 --> 00:21:44,940
+Alright, Justice League Doom is a 2012 animated
+direct-to-video feature written by Dwayne McDuffie
+
+233
+00:21:45,220 --> 00:21:50,583
+and featuring a voice cast largely taken from
+the popular Justice League animated series.
+
+234
+00:21:51,043 --> 00:21:58,186
+It's an adaptation of a very popular JLA storyline
+named Tower of Babel written by Mark Waid and
+
+235
+00:21:58,266 --> 00:22:04,649
+published in the year 2000. This storyline came
+out right around the time I first started collecting
+
+236
+00:22:04,689 --> 00:22:11,269
+DC Comics. And to this day, it's one of my favorite
+JLA storylines ever. If you haven't seen the
+
+237
+00:22:11,289 --> 00:22:16,292
+movie or are not familiar with the Tower of
+Babel storyline, here's your spoiler warning
+
+238
+00:22:16,592 --> 00:22:22,207
+as I'll be going into details of both for this
+review. So Tower of Babel was a storyline from
+
+239
+00:22:22,227 --> 00:22:27,831
+the comics that spun out of a mini-series titled
+Silver Age, also written by Mark Waid, also
+
+240
+00:22:27,871 --> 00:22:33,675
+released in the year 2000, that recounted the
+story of an alien named Agamemno that swapped
+
+241
+00:22:33,735 --> 00:22:38,738
+the minds of DC's heroes and villains during
+the Silver Age of comics, allowing the villains
+
+242
+00:22:38,778 --> 00:22:44,262
+to not only use the heroes powers, but also
+learn their secret identities. The villain's
+
+243
+00:22:44,302 --> 00:22:49,644
+memories were later erased, but that retcon
+to Silveridge continuity of the Justice League's
+
+244
+00:22:49,684 --> 00:22:57,107
+history resulted in Batman being wise or paranoid
+enough to devise and record secret fail safes
+
+245
+00:22:57,127 --> 00:23:01,769
+to defeat each member of the Justice League
+of America. In the comics, those plans were
+
+246
+00:23:01,809 --> 00:23:06,510
+stolen by the villain Ra's al Ghul. who planned
+on getting the Justice League out of the way
+
+247
+00:23:06,830 --> 00:23:12,532
+in order to prevent them from foiling his ultimate
+plan of stirring worldwide chaos by preventing
+
+248
+00:23:12,672 --> 00:23:18,013
+anyone from reading, which would allow him to
+orchestrate an atomic war between two nations.
+
+249
+00:23:18,553 --> 00:23:24,255
+Okay. Right off the bat, I see the pros and
+cons to having Ra's al Ghul as the villain
+
+250
+00:23:24,295 --> 00:23:28,416
+compared to the Legion of Doom. One of the pros
+of having Ra's al Ghul is that you have his
+
+251
+00:23:28,456 --> 00:23:32,637
+League of Assassins basically taking down the
+Justice League, which seems more impressive
+
+252
+00:23:32,897 --> 00:23:36,696
+on its own right. But on the other hand, in
+this film, what I really like is that you got
+
+253
+00:23:36,756 --> 00:23:41,579
+really great superhero action because you had
+the Justice League heroes individuelly going
+
+254
+00:23:41,619 --> 00:23:45,502
+up against their greatest villains. Right. And
+you can't really ask for better than that,
+
+255
+00:23:45,542 --> 00:23:52,287
+you know? No, I totally agree. I think the Legion
+of Doom is much, much more compelling. And
+
+256
+00:23:52,387 --> 00:23:57,951
+it's one of several ways in which Justice League
+Doom improves upon the Tower of Babel storyline,
+
+257
+00:23:58,391 --> 00:24:04,975
+despite being a condensed version of it. Not
+only is Vandal Savage, in my opinion, a better
+
+258
+00:24:05,015 --> 00:24:10,417
+version of Ra's al Ghul in regards to the whole
+immortality angle, but characters like Bane,
+
+259
+00:24:10,477 --> 00:24:15,539
+Mirror Master, and Star Sapphire are obviously
+more interesting than nameless ninjas from
+
+260
+00:24:15,579 --> 00:24:19,821
+the comics. In fact, I'd say the roster of the
+Legion of Doom is one of the more interesting
+
+261
+00:24:19,861 --> 00:24:26,084
+things about this film and how well Dwayne McDuffie
+was expertly able to generate genuine conflict
+
+262
+00:24:26,224 --> 00:24:31,810
+and interest by the very nature of the villains
+he chose. Like this wasn't a team of Lex Luthor
+
+263
+00:24:31,890 --> 00:24:37,412
+and Joker and Sinestro like the traditional
+Legion of Doom, but villains who could genuinely
+
+264
+00:24:37,512 --> 00:24:42,813
+damage the heroes on multiple levels with the
+help of none other than Batman himself, adding
+
+265
+00:24:42,853 --> 00:24:48,535
+fuel to the idea that, hey, maybe Batman really
+is the most powerful superhero in DC Comics.
+
+266
+00:24:48,575 --> 00:24:52,996
+And this storyline specifically kind of poses
+that question. It definitely did amongst comic
+
+267
+00:24:53,016 --> 00:24:58,137
+fans in the early 2000s. Yeah, in regards to
+the roster of the Legion of Doom here, I was
+
+268
+00:24:58,177 --> 00:25:02,444
+impressed. going into the show. I guess I was
+a little bit disappointed because it seemed
+
+269
+00:25:02,484 --> 00:25:07,649
+like the roster that you had chosen, even for
+our team duel that we did last week, was so
+
+270
+00:25:07,669 --> 00:25:11,352
+much better, you know? Because it had people
+like Brainiac and stuff like that. And this
+
+271
+00:25:11,392 --> 00:25:16,676
+team at first glance seemed less interesting,
+but it really wasn't. No. It was a fantastic
+
+272
+00:25:16,716 --> 00:25:20,179
+roster. And I remember thinking like, oh man,
+Jonathan should have gone with some of these
+
+273
+00:25:20,199 --> 00:25:25,203
+guys. Well, some of them haven't actually been
+a part of the Legion of Doom in the comics.
+
+274
+00:25:25,523 --> 00:25:30,467
+Really the only one that had been was Cheetah.
+But no, I agree with you. Like having Brainiac
+
+275
+00:25:30,507 --> 00:25:35,031
+on this team would have definitely not made
+the film as personal as it was. Like you couldn't
+
+276
+00:25:35,071 --> 00:25:40,095
+have done the whole scene atop the daily planet
+with Brainiac as opposed to Metallo. It seemed
+
+277
+00:25:40,115 --> 00:25:45,479
+that Rostro was handpicked by Vandal Savage
+for their unique ability to pose a specific
+
+278
+00:25:45,760 --> 00:25:51,785
+lethal threat to the heroes. Exactly. Like if
+you're going to go up against Superman, go
+
+279
+00:25:51,805 --> 00:25:55,408
+with the Kryptonite guy, right? Exactly. As
+opposed to, you know, someone like Toyman,
+
+280
+00:25:55,488 --> 00:25:59,746
+you know? And if you're going to go up against
+Batman... Use the guy who broke his fucking
+
+281
+00:25:59,786 --> 00:26:06,208
+back. Right, exactly. Yeah. Common sense. Now,
+of course, one of the biggest draws for this
+
+282
+00:26:06,248 --> 00:26:11,709
+film, as you mentioned, is the action, which
+takes up over half of the film. I'd say that
+
+283
+00:26:11,729 --> 00:26:17,111
+there's more action in this film than story,
+which is why I'm sure it's pretty popular among
+
+284
+00:26:17,131 --> 00:26:24,033
+comic fans. The film currently sits at 100 percent
+fresh rating on Rotten Tomatoes and an 87 percent
+
+285
+00:26:24,133 --> 00:26:30,107
+audience score, which damn, I mean, in I assume
+we're going to give this a fresh rating on
+
+286
+00:26:30,147 --> 00:26:33,428
+Rotten Tomatoes. You're going to recommend the
+movie. So that number is going to stay at 100.
+
+287
+00:26:34,208 --> 00:26:39,130
+Yeah. Yep. Maybe you should give this a rotten
+rating just to, you know, mess with the score.
+
+288
+00:26:39,511 --> 00:26:45,173
+Fuck no. I have integrity, bro, as a Rotten
+Tomatoes critic. Now, the action is pretty
+
+289
+00:26:45,213 --> 00:26:51,496
+good. But I do have to say that the animation
+style feels fairly dated to me now. Like after
+
+290
+00:26:51,516 --> 00:26:56,134
+films like Justice League, Flashpoint Paradox,
+which came out the year after this. and the
+
+291
+00:26:56,194 --> 00:27:00,876
+new Tomorrowverse films, I don't really miss
+the Bruce Tim style of animation, which I know
+
+292
+00:27:01,357 --> 00:27:06,320
+is blasphemy. I will say, though, that while
+I didn't think the animation was all that great,
+
+293
+00:27:06,580 --> 00:27:13,364
+the character designs, particularly the villains,
+were fantastic. Like Bane's never looked sleeker.
+
+294
+00:27:13,644 --> 00:27:19,887
+Mattello's never looked cooler. Mirror Master's
+translucent body was just awesome. Yeah, that
+
+295
+00:27:19,907 --> 00:27:25,483
+was cool. Star Sapphire was hot and Vandal Savage
+was like regal. It was all fantastic, including
+
+296
+00:27:25,523 --> 00:27:31,027
+for heroes like Cyborg and Martian Manhunter.
+Absolutely. Yeah. I mean, the animation was
+
+297
+00:27:31,067 --> 00:27:35,890
+just a notch above what the Saturday Morning
+animated cartoon was. Right. To my knowledge,
+
+298
+00:27:35,930 --> 00:27:40,314
+though, this doesn't play within the same continuity
+as the Justice League cartoon, even though
+
+299
+00:27:40,454 --> 00:27:44,176
+it's the same cast. Yeah, they brought in a
+lot of the same voice cast. But you're right.
+
+300
+00:27:44,257 --> 00:27:48,820
+It's a separate universe here. But speaking
+of the heroes, let's talk more about them in
+
+301
+00:27:48,860 --> 00:27:54,307
+our character breakdown. Now, Batman. and Bruce
+Wayne, were voiced by Kevin Conroy, the late,
+
+302
+00:27:54,487 --> 00:28:00,451
+great Kevin Conroy. I'm not sure I could say
+anything that we haven't said before or that
+
+303
+00:28:00,531 --> 00:28:06,414
+everyone else does already know. Kevin Conroy
+sounds exactly like Batman should sound. And
+
+304
+00:28:06,434 --> 00:28:11,276
+from the opening scene of Batman disregarding
+Superman's advice to wait to take care of the
+
+305
+00:28:11,296 --> 00:28:17,040
+Royal Flush Gang, you recognize this kind of
+contempt that Superman has for his superpowered
+
+306
+00:28:17,100 --> 00:28:22,479
+teammates, as though he feels that they think
+he's incapable. This is also evident by banter
+
+307
+00:28:22,499 --> 00:28:27,482
+from The Flash. When Batman says he's right
+behind him, Flash scoffs at the notion that
+
+308
+00:28:27,542 --> 00:28:34,227
+Batman could be anywhere else. It's subtleties
+like these that show why Batman may have created
+
+309
+00:28:34,367 --> 00:28:39,691
+plans to destroy the League, and it definitely
+shows where Dwayne McDuffie, the writer, stands
+
+310
+00:28:40,051 --> 00:28:45,274
+in the debate over whether what Batman did was
+right or wrong. In the comic, there's much
+
+311
+00:28:45,354 --> 00:28:51,254
+more of a drawn-out emotional debate amongst
+the League members, of whether what Batman
+
+312
+00:28:51,314 --> 00:28:57,035
+did, you know, think up ways to defeat them,
+was morally right. And Batman doesn't quit
+
+313
+00:28:57,075 --> 00:29:03,137
+the team in the end, he straight up gets voted
+out by his peers. So that's one major deviation
+
+314
+00:29:03,277 --> 00:29:08,399
+of the source material here. I like that more.
+Batman choosing to essentially say, you can't
+
+315
+00:29:08,419 --> 00:29:13,440
+fire me, I quit, helps him keep his badass status
+a little bit more in this movie. Probably.
+
+316
+00:29:13,500 --> 00:29:18,301
+But I also think that Batman's a cocky little
+asshole who deserves to be put in his place
+
+317
+00:29:18,341 --> 00:29:24,127
+every once in a while. whether or not he is
+correct in his position that the league should
+
+318
+00:29:24,167 --> 00:29:29,808
+have fail safes against each other, he doesn't
+have to be such a fucking dick about it. If
+
+319
+00:29:29,908 --> 00:29:34,770
+I were the Green Lantern or something like that,
+as Batman was walking out of the Justice League
+
+320
+00:29:34,790 --> 00:29:39,251
+watch tower, I'd have been like, nobody likes
+you, don't let the door hit you on the way
+
+321
+00:29:39,311 --> 00:29:43,092
+out or something. Holy shit! Just to, you know,
+like, fuck with him. Cause like nobody said
+
+322
+00:29:43,172 --> 00:29:46,833
+anything, they just let Batman be a badass,
+but the dude needs to be brought down a wrong
+
+323
+00:29:46,853 --> 00:29:50,536
+game every once in a while. Well, he wasn't
+brought down a rung or put in his place in
+
+324
+00:29:50,556 --> 00:29:56,240
+the comics either. He actually was told to step
+out of the room while they voted. And when
+
+325
+00:29:56,280 --> 00:30:02,245
+the deciding vote came, it was a mystery. They
+looked outside to let Batman know, and it was
+
+326
+00:30:02,285 --> 00:30:06,409
+revealed that he already knew how each of them
+was going to vote and that Superman was going
+
+327
+00:30:06,429 --> 00:30:11,633
+to be the deciding vote to kick him out. So
+he was already gone. Lame. He just knew them
+
+328
+00:30:11,693 --> 00:30:20,016
+that well. OK, he's Batman. Yeah, yeah, exactly.
+Now, in this film, Batman's weakness was deemed
+
+329
+00:30:20,136 --> 00:30:25,580
+to be his emotional attachment to his parents,
+which is apt. It was the same in the comics,
+
+330
+00:30:25,800 --> 00:30:30,363
+though Russell Gould didn't bury Bruce alive
+with their corpses. He threatened to bring
+
+331
+00:30:30,383 --> 00:30:35,347
+them back to life in a Lazarus pit, which was
+pretty wild. I actually think what Bane did
+
+332
+00:30:35,367 --> 00:30:40,571
+in this movie was more badass. Really? Yeah,
+being buried alive with your parents' corpses,
+
+333
+00:30:40,611 --> 00:30:45,674
+that's hardcore shit, man. It's very hardcore.
+I just don't understand. why he left him alive
+
+334
+00:30:45,874 --> 00:30:50,257
+or didn't like put a giant boulder over the
+coffin so he couldn't like, you know, punch
+
+335
+00:30:50,277 --> 00:30:55,781
+his way out of it. Yeah, that's true. Moving
+on to Superman and Clark Kent, he was voiced
+
+336
+00:30:55,841 --> 00:31:01,444
+by Tim Daly. I'd argue Tim Daly has a better
+voice for Superman than any other actor who's
+
+337
+00:31:01,504 --> 00:31:06,427
+played or voiced the character. He's that good,
+in my opinion. Tim Daly is the quintessential
+
+338
+00:31:06,627 --> 00:31:10,966
+Superman, in the same way that Kevin Conroy
+is the quintessential Batman. The whole cast
+
+339
+00:31:11,006 --> 00:31:16,291
+here, I think, was about as ideal as you could
+possibly get as a fan. Uh, for the most part,
+
+340
+00:31:16,551 --> 00:31:21,555
+yeah yeah. Now almost each of the Justice Leagueers
+get a great character moment in this film,
+
+341
+00:31:21,975 --> 00:31:27,820
+and I think one of Superman's best character
+moments out of any feature film is in Justice
+
+342
+00:31:27,860 --> 00:31:32,864
+League Doom. It's when he's talking to the recently
+fired reporter who's threatening to kill himself
+
+343
+00:31:32,904 --> 00:31:38,199
+atop the Daily Planet building. Some listeners
+may know that Joseph and I used to be newspaper
+
+344
+00:31:38,259 --> 00:31:44,162
+reporters for a now-defunct major metropolitan
+newspaper, which closed just a few years before
+
+345
+00:31:44,182 --> 00:31:49,244
+this movie first came out. And I remember this
+scene just hitting home when I first saw it
+
+346
+00:31:49,284 --> 00:31:56,007
+back in 2012. Just feeling the despair at the
+notion of journalism dying and Superman's words
+
+347
+00:31:56,328 --> 00:32:00,926
+about how we can't give up the never-ending
+battle to fight for truth and justice. It was
+
+348
+00:32:00,966 --> 00:32:05,668
+just a great scene that I think was inspired
+by a key moment from the All-Star Superman
+
+349
+00:32:05,688 --> 00:32:10,991
+comic, which is supposed to be one of the inspirations
+for James Gunn's Superman movie, so I won't
+
+350
+00:32:11,011 --> 00:32:15,534
+be surprised if we get a similar scene in the
+movie. Where he's talking down someone who's
+
+351
+00:32:15,554 --> 00:32:20,637
+about to jump off a building? Yeah. Now of course,
+the powerful scene in this movie is punctuated
+
+352
+00:32:20,697 --> 00:32:26,060
+by the reporter revealing himself to be Mattello
+and shooting Superman in the chest with a kryptonite
+
+353
+00:32:26,100 --> 00:32:31,975
+bullet. I did not see that coming the first
+time I watched this. I was shook. Yeah, how
+
+354
+00:32:31,995 --> 00:32:36,377
+does Mattello even disguise himself in that
+way? Well, he's worn fake skin in the past.
+
+355
+00:32:36,397 --> 00:32:42,480
+Okay. Yeah. Now in the comics, Superman is actually
+exposed to red kryptonite, which causes his
+
+356
+00:32:42,540 --> 00:32:48,303
+skin to become transparent, and he absorbs too
+much solar radiation so that his senses overload
+
+357
+00:32:48,543 --> 00:32:53,265
+and his power becomes uncontrollable. I like
+the green kryptonite bullet more, honestly.
+
+358
+00:32:53,485 --> 00:32:58,536
+Yeah, for sure. It also led to a great point
+at the end of the film when Superman entrusts
+
+359
+00:32:58,596 --> 00:33:03,280
+Batman with that same Kryptonite bullet. Kind
+of showing that, hey, we're kicking you out,
+
+360
+00:33:03,360 --> 00:33:09,104
+but, you know, you're still my friend. Moving
+on to Wonder Woman, she was voiced by Susan
+
+361
+00:33:09,224 --> 00:33:14,748
+Eisenberg. Now honestly, I love this entire
+voice cast, including Susan Eisenberg, but
+
+362
+00:33:14,828 --> 00:33:20,072
+I also love the more recent interpretations
+of Wonder Woman's voice having a European accent.
+
+363
+00:33:20,552 --> 00:33:24,631
+Back when this movie came out though, I thought
+Susan Eisenberg's voice was perfect for the
+
+364
+00:33:24,671 --> 00:33:28,933
+character. Yeah, she was much more all American
+back in the day, right? Before Gal Gadot's
+
+365
+00:33:28,973 --> 00:33:34,716
+take. Right. I agree. I also like the more modern
+take on her character, like Santa Cat's voice
+
+366
+00:33:34,916 --> 00:33:40,019
+in the tomorrow verse. Right. Or I'm not sure
+the name of the actress, but the character
+
+367
+00:33:40,139 --> 00:33:45,682
+and DC superhero girls also has an accent, which
+I think is just great. Now, Wonder Woman probably
+
+368
+00:33:45,722 --> 00:33:50,685
+has the least amount of character development
+in the film. She doesn't have a secret identity
+
+369
+00:33:50,725 --> 00:33:55,499
+like the others. so she doesn't get that moment
+of having her life being interrupted by these
+
+370
+00:33:55,539 --> 00:34:01,262
+attacks. That said, the method with which she
+was brought down was much better here in the
+
+371
+00:34:01,302 --> 00:34:07,585
+movie than in the comics, where the nanite simulated
+reality she was exposed to made her actual
+
+372
+00:34:07,625 --> 00:34:13,527
+body go comatose, and she battled an anonymous
+opponent who was her combative equal. In the
+
+373
+00:34:13,567 --> 00:34:19,642
+movie, having that combatant be Cheetah and
+every other bystander and authority figure
+
+374
+00:34:19,722 --> 00:34:26,866
+around her resemble cheetah as well, was borderline
+horrifying. I mean, imagine just randomly being
+
+375
+00:34:26,906 --> 00:34:32,390
+taken out by a crazy-eyed Wonder Woman for no
+reason. She was at like a park when it happened.
+
+376
+00:34:32,450 --> 00:34:37,673
+She had to have punched a baby in the face.
+Had to. I guess, I don't know, it was a little
+
+377
+00:34:37,693 --> 00:34:42,035
+bit weird. You think that she would have snapped
+out of it, like, realizing there couldn't possibly
+
+378
+00:34:42,235 --> 00:34:48,395
+be this many cheetahs, somebody's fucking with
+me. Like- especially when you see cheetah fighting
+
+379
+00:34:48,555 --> 00:34:53,598
+as cyborg and cyborg is doing things that cheetah
+can't do you know wonder woman just seemed
+
+380
+00:34:53,699 --> 00:34:58,382
+dumb i think she was just caught up in the adrenaline
+and you know cheetah's come out with weird
+
+381
+00:34:58,462 --> 00:35:02,764
+new powers before so i don't think it was you
+know out of the realm of possibility but she
+
+382
+00:35:02,784 --> 00:35:08,108
+was also saying what are you doing wonder woman
+you know and like not fighting back obviously
+
+383
+00:35:08,188 --> 00:35:14,232
+so like kicking your ass what the hell Wouldn't
+Wonder Woman at least be confused by the fact
+
+384
+00:35:14,252 --> 00:35:18,995
+that some of these cheetah people are running
+away from her and you know, not wanting to
+
+385
+00:35:19,255 --> 00:35:25,559
+engage? Uh, maybe. I just think she was really
+confused. Or she's really dumb. How dare you.
+
+386
+00:35:25,599 --> 00:35:32,943
+Shut up. Moving on to The Flash, aka Barry Allen.
+He was voiced by Michael Rosenbaum, who also
+
+387
+00:35:32,983 --> 00:35:38,655
+played Lex Luthor in the Smallville television
+series. Now, I've always preferred his voice
+
+388
+00:35:38,675 --> 00:35:43,499
+for Wally West. He voiced Wally West, the Flash
+in the Justice League cartoon because he's
+
+389
+00:35:43,539 --> 00:35:48,283
+fairly comedic, but he does a decent Barry Allen
+as well. Well, it was almost the same exact
+
+390
+00:35:48,323 --> 00:35:53,908
+voice. It was exactly the same voice and really
+the same take on the character to assume sort
+
+391
+00:35:54,048 --> 00:35:59,332
+of sort of. I would say Barry Allen was a little
+bit less joking. The Flash typically is now
+
+392
+00:35:59,352 --> 00:36:04,777
+when this movie came out. I believe it was the
+first time I had seen Barry Allen in the role
+
+393
+00:36:04,817 --> 00:36:10,952
+of the Flash. for maybe over a decade on screen.
+I wasn't used to seeing the Flash as an on
+
+394
+00:36:10,992 --> 00:36:17,475
+the ground CSI type forensic scientist. So that
+was a novel angle for its time. By this point
+
+395
+00:36:17,555 --> 00:36:23,197
+had Barry Allen come back in the new 52? Yes,
+this film came out a year after the new 52.
+
+396
+00:36:23,658 --> 00:36:29,780
+Okay. Now the plan to defeat the Flash in this
+movie was somewhat convoluted, second probably
+
+397
+00:36:29,880 --> 00:36:35,083
+only to help Jordan's plan of defeat. But I
+liked it more than what we got in the comics.
+
+398
+00:36:35,203 --> 00:36:41,187
+You know, there, Flash was shot by a vibra bullet,
+which sounds like a sex toy. And that caused
+
+399
+00:36:41,207 --> 00:36:47,592
+him to have seizures at light speed. In the
+movie, Mirror Master's trap results in a speed-like
+
+400
+00:36:47,632 --> 00:36:53,696
+scenario, the movie speed, where the Flash can't
+dip below a certain velocity or else he explodes.
+
+401
+00:36:53,896 --> 00:36:58,019
+And I thought that was a fantastic concept.
+That was really cool. I mean, the way that
+
+402
+00:36:58,119 --> 00:37:02,898
+they got the bomb bolted into his wrist was
+a little bit convoluted. But the bomb itself
+
+403
+00:37:03,079 --> 00:37:07,142
+was a fascinating concept. And that really that
+was the one that I was the most interested
+
+404
+00:37:07,202 --> 00:37:11,406
+in during the climaxes of each of the characters.
+And you're wondering who's going to survive
+
+405
+00:37:11,426 --> 00:37:15,009
+and how are they going to survive and all that
+stuff. I just remember, like, really wanting
+
+406
+00:37:15,029 --> 00:37:21,274
+to go back to see what the Flash was doing and
+Batman's idea to have him vibrate out of the
+
+407
+00:37:21,314 --> 00:37:25,778
+bomb and embed it into an iceberg, I thought
+was just brilliant. Honestly, it was the perfect
+
+408
+00:37:25,798 --> 00:37:29,882
+way to get out of it and something I did not
+see coming. Yeah, I mean, that's. Part of the
+
+409
+00:37:29,902 --> 00:37:35,904
+enjoyment of, I would say, a majority of this
+film is determining, okay, what is so-and-so's
+
+410
+00:37:35,944 --> 00:37:40,966
+weakness? And now that they're in this trap,
+how are they going to get out of it? It's fun
+
+411
+00:37:40,986 --> 00:37:47,029
+stuff to watch. It's essentially each hero's
+worst nightmare come to life, right? Right.
+
+412
+00:37:47,449 --> 00:37:52,591
+You're right. And that's the big appeal of this
+movie is seeing them overcome the most dire
+
+413
+00:37:52,611 --> 00:37:57,913
+circumstances they'll probably ever face. Yeah.
+It's pretty unique in how personal it is. No
+
+414
+00:37:57,953 --> 00:38:02,439
+other film. is really like this. Like usually
+they all have to band together to face one
+
+415
+00:38:02,500 --> 00:38:08,963
+single threat. But being put up against their
+like most personal threats and really effective
+
+416
+00:38:09,063 --> 00:38:15,847
+threats is pretty novel and pretty cool. Moving
+on to Green Lantern aka Held Jordan. He was
+
+417
+00:38:15,887 --> 00:38:21,130
+voiced by Nathan Fillion who will be playing
+a different live action Green Lantern Guy Gardner
+
+418
+00:38:21,510 --> 00:38:26,493
+in the upcoming Superman live action movie.
+I'm looking forward to it. The guy's a great
+
+419
+00:38:26,593 --> 00:38:31,698
+actor. who can expertly pull off the bravado
+and strength of Hal Jordan, but also the humor
+
+420
+00:38:31,738 --> 00:38:36,822
+of Guy Gardner. Now, I remember being somewhat
+surprised that this cartoon featured Hal Jordan
+
+421
+00:38:36,922 --> 00:38:41,326
+as opposed to Jon Stewart, because Jon Stewart,
+of course, was the main Green Lantern in the
+
+422
+00:38:41,386 --> 00:38:47,452
+Justice League cartoon series, which this film
+borrowed a lot from. In the comics, Green Lantern
+
+423
+00:38:47,632 --> 00:38:54,338
+was simply blinded as his weakness, but in the
+movie, he was cut down to his very core. by
+
+424
+00:38:54,378 --> 00:39:00,659
+an elaborate trap set up by Star Sapphire using
+Scarecrow's fear toxin. And it made more sense
+
+425
+00:39:00,679 --> 00:39:05,481
+thematically to me for Hal Jordan to succumb
+to fear rather than blindness because it's
+
+426
+00:39:05,521 --> 00:39:10,902
+the primary thing that he's supposed to be able
+to overcome to be a Green Lantern. So giving
+
+427
+00:39:11,022 --> 00:39:17,924
+up that mantle after feeling guilt when a young
+woman died was pretty tragic. You really got
+
+428
+00:39:17,964 --> 00:39:23,185
+the sense that Hal truly was afraid that he
+didn't deserve the power that he wielded with
+
+429
+00:39:23,225 --> 00:39:29,804
+his ring. I will admit that I first thought
+Star Sapphire's whole setup was a little weird
+
+430
+00:39:30,144 --> 00:39:35,090
+until Batman explained the fear toxin angle
+and then it all made sense. Yeah, absolutely.
+
+431
+00:39:35,290 --> 00:39:39,375
+I thought that as well. I was like, really?
+Like Star Sapphire isn't even going to fight
+
+432
+00:39:39,415 --> 00:39:43,279
+him. She's just going to like show up out of
+fucking nowhere without explanation to be like,
+
+433
+00:39:43,800 --> 00:39:48,219
+wow, you really suck, Hal. And he's just gonna
+be like, yeah, I do. And then drop the ring
+
+434
+00:39:48,259 --> 00:39:52,561
+like that's so much less compelling than like
+having a bomb bolted through your wrist like
+
+435
+00:39:52,601 --> 00:39:56,682
+the flash. You know, right. Like I was like,
+this is stupid. What are they thinking? But
+
+436
+00:39:56,722 --> 00:40:01,244
+then when Batman mentioned the fear toxin from
+the scarecrow, I was like, oh, OK, this it
+
+437
+00:40:01,284 --> 00:40:06,887
+does work. And they gave the briefest hints
+of what was going on when he saw this truck
+
+438
+00:40:06,947 --> 00:40:10,368
+coming at him and it turned into a monster.
+But then he like blinked and it was a truck
+
+439
+00:40:10,388 --> 00:40:15,302
+again. Yeah. But you had to really be paying
+attention to catch that. I do wish they gave
+
+440
+00:40:15,322 --> 00:40:20,963
+a little bit more backstory as to the history
+between Hal and Carol and why and how Carol
+
+441
+00:40:20,983 --> 00:40:25,285
+became a Star Sapphire though. I kind of feel
+like we have to do a Star Sapphire duel at
+
+442
+00:40:25,305 --> 00:40:30,846
+some point in the future. Bring it on, for sure.
+Moving on to Martian Manhunter aka John Jones,
+
+443
+00:40:31,266 --> 00:40:37,108
+Carl Lumbee's voice performance is perfect for
+Martian Manhunter and he pulls double duty
+
+444
+00:40:37,128 --> 00:40:43,109
+in this film uncredited as he was also the voice
+for Ma'alif'Aq, whom we affectionately refer
+
+445
+00:40:43,149 --> 00:40:51,334
+to as as Motherfucker on our Discord server.
+But his supervillain name is Molefic, pronounced
+
+446
+00:40:51,594 --> 00:40:57,918
+Motherfucker. Now, I love seeing John Jones
+in this film. I don't think too many people
+
+447
+00:40:58,018 --> 00:41:03,602
+are familiar with the Martian Manhunter's alter
+ego, since he's usually resigned to like satellite
+
+448
+00:41:03,642 --> 00:41:09,305
+duty in the Justice League comics and cartoon.
+But the guy has a life outside of being a superhero.
+
+449
+00:41:09,762 --> 00:41:15,744
+The whole dynamic of John's friends wanting
+to celebrate with him was a great bit of trickery
+
+450
+00:41:15,804 --> 00:41:20,826
+because you weren't sure where the trap was
+going to come from. Was it his partner or the
+
+451
+00:41:20,866 --> 00:41:25,348
+co-worker who had a crush on him? Of course
+it ended up being some blonde floozy at the
+
+452
+00:41:25,388 --> 00:41:31,091
+bar and let that be a lesson to everyone. In
+the comics, it was nanites that converted his
+
+453
+00:41:31,131 --> 00:41:37,253
+skin to magnesium, but I think the poison sweat
+secretions that set him on fire were a lot
+
+454
+00:41:37,333 --> 00:41:43,755
+better. Like, motherfucker is one cold mother-
+Shut your mouth. What? I'm just talking about
+
+455
+00:41:43,815 --> 00:41:44,596
+motherfucker? Hahaha.
+
+456
+00:41:48,690 --> 00:41:54,391
+Yeah, it was horrifying. What I want to know
+is why didn't Martian Manhunter die? Because
+
+457
+00:41:54,451 --> 00:41:59,493
+he was literally on fire, screaming his head
+off for a solid like 15, 20 minutes. Well,
+
+458
+00:41:59,513 --> 00:42:04,794
+that's a good question. So traditionally in
+the comics, the fire pain that Martians feel
+
+459
+00:42:04,834 --> 00:42:10,156
+is psychological. It's not physical pain or
+physical damage. They are psychically afraid
+
+460
+00:42:10,196 --> 00:42:16,602
+of fire as a race. It debilitates them, but
+it's not going to like burn them. Moving briefly
+
+461
+00:42:16,682 --> 00:42:21,304
+over to Cyborg, he was voiced by Bumper Robinson.
+I think he did just as good a job with the
+
+462
+00:42:21,344 --> 00:42:26,827
+character as Kerry Payton from Teen Titans Go
+personally. This was the cinematic introduction
+
+463
+00:42:26,887 --> 00:42:31,549
+to Cyborg being on the Justice League, as he
+had recently been made a member of the team
+
+464
+00:42:31,729 --> 00:42:38,452
+in the New 52 reboot of DC Comics. He actually
+proves to be a fairly vital member to the team
+
+465
+00:42:38,532 --> 00:42:43,610
+in this film, probably the most vital in this
+adventure. as the Legion of Doom is equipped
+
+466
+00:42:43,650 --> 00:42:49,392
+with some fairly advanced technology. Vandal
+Savage mentions that he got the Bat Computer
+
+467
+00:42:49,412 --> 00:42:54,733
+Decoder from LexCorp, so you have to wonder
+where he got his other technology. With Marsha
+
+468
+00:42:54,753 --> 00:42:59,154
+Manhunter on the team, I was a little bit confused
+because Cyborg did feel a little bit out of
+
+469
+00:42:59,175 --> 00:43:03,696
+place to me, considering that Aquaman was nowhere
+to be seen. Yeah, I mean, Aquaman was in the
+
+470
+00:43:03,736 --> 00:43:10,390
+comic. His weakness was that using a scarecrow
+toxin, he was made afraid of water. But once
+
+471
+00:43:10,450 --> 00:43:16,395
+Martian Manhunter got over being on fire, he
+was able to psychically help Aquaman stop being
+
+472
+00:43:16,435 --> 00:43:21,960
+afraid. The one villain I want to touch on in
+our character breakdown is Vandal Savage. He
+
+473
+00:43:22,000 --> 00:43:28,366
+was voiced by Phil Morris, who does a ton of
+DC work. He played Martian Manhunter in Smallville,
+
+474
+00:43:28,766 --> 00:43:34,531
+and he was Dr. Silas Stone in the Doom Patrol
+series. Now Vandal Savage in this film made
+
+475
+00:43:34,571 --> 00:43:41,292
+it his goal to cut Earth's population in half.
+making him essentially like Thanos before Thanos,
+
+476
+00:43:41,613 --> 00:43:46,717
+clearly showing once again how much Marvel rips
+off from DC. I'm sorry, but the Infinity Gauntlet
+
+477
+00:43:46,737 --> 00:43:52,101
+storyline came out way before this movie. Oh
+yeah. Anyway, to do this, of course, Vandal
+
+478
+00:43:52,241 --> 00:43:57,705
+was going to use a missile to generate a massive
+solar flare that would scorch the sunward side
+
+479
+00:43:57,725 --> 00:44:03,289
+of the planet, though I'm not sure where you'd
+have to hit to destroy exactly 50% of the population.
+
+480
+00:44:03,754 --> 00:44:08,856
+It was a pretty unique plan, I think, as was
+the League's method of stopping it. I want
+
+481
+00:44:08,876 --> 00:44:14,478
+to know why Vandal Savage even needed the Legion
+of Doom to pull off this Solar Flare mission.
+
+482
+00:44:15,819 --> 00:44:19,741
+If he didn't fuck with the League, chances are
+that they probably wouldn't even been on to
+
+483
+00:44:19,781 --> 00:44:25,103
+him and his plan. He probably would have pulled
+it off, considering how hard it was for the
+
+484
+00:44:25,143 --> 00:44:29,565
+League to actually stop his plan when they knew
+well in advance when it was going to happen.
+
+485
+00:44:29,985 --> 00:44:34,576
+What if he just... you know, shot the missile
+and, you know, no one was the wiser until half
+
+486
+00:44:34,596 --> 00:44:39,059
+the planet was gone. That seems like it would
+make more sense. Interesting. I think maybe
+
+487
+00:44:39,079 --> 00:44:43,863
+he just didn't want to take the chance. Like
+the missile would have shown up in like Watchtower
+
+488
+00:44:44,063 --> 00:44:48,326
+space radar. I'm pretty sure. And then what
+would they have done? Exactly what they already
+
+489
+00:44:48,366 --> 00:44:51,988
+did. Superman would have gone up and he would
+have tried to stop the missile, but it would
+
+490
+00:44:52,008 --> 00:44:55,487
+have, you know, ejected more missiles. And the
+only thing that would have been different is
+
+491
+00:44:55,527 --> 00:45:00,591
+that Cyborg wouldn't have had access to the
+technology that made Earth intangible for the
+
+492
+00:45:00,611 --> 00:45:04,614
+flare to pass through. Well, I mean, you know,
+Green Lantern could have also gone with Superman
+
+493
+00:45:04,634 --> 00:45:08,618
+instead of being distracted by Star Sapphire,
+though, you know, Superman could have had more
+
+494
+00:45:08,638 --> 00:45:13,502
+help. He had help with Green Lantern. All Green
+Lantern could do was create a shield that was
+
+495
+00:45:13,582 --> 00:45:19,286
+strong enough. No, I mean, at the Sun, though.
+I'm not buying it. Bitch, just accept it. It's
+
+496
+00:45:19,347 --> 00:45:26,539
+a story. Why are you getting mad? I don't know.
+Just admit that Vandal Savage is stupid. Um,
+
+497
+00:45:27,139 --> 00:45:34,042
+okay. Yeah, sure. All right. Now it's never
+explained how Vandal Savage knew that Batman
+
+498
+00:45:34,062 --> 00:45:38,844
+had plans to bring down members of the Justice
+League, but that's kind of the mystery of Vandal
+
+499
+00:45:38,864 --> 00:45:44,626
+Savage. Like he's been around so long. He just
+knows things. His access to information and
+
+500
+00:45:44,686 --> 00:45:49,828
+resources are essentially his superpower, along
+with his immortality and brutish strength.
+
+501
+00:45:49,968 --> 00:45:54,142
+He's another character they'll have to do a
+duel with someday. Yeah, our executive producer
+
+502
+00:45:54,162 --> 00:45:58,204
+said we should put him against Sebastian Shaw,
+but I'm pretty sure Shaw would beat the shit
+
+503
+00:45:58,224 --> 00:46:03,567
+out of Vandal Savage. You don't know. I mean,
+Vandal Savage can't die, but he also can't
+
+504
+00:46:03,667 --> 00:46:10,351
+get superhumanly strong. So we use already superhumanly
+strong kids like a gorilla type strength. That's
+
+505
+00:46:10,371 --> 00:46:14,453
+not going to be good enough. OK, let's go ahead
+and move into our story highlights.
+
+506
+00:46:21,614 --> 00:46:27,276
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+507
+00:46:27,296 --> 00:46:33,019
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+508
+00:46:33,079 --> 00:46:38,402
+DynaMic Podcast Network presents... Console
+Combat, where video game legends brawl every
+
+509
+00:46:38,462 --> 00:46:45,478
+Monday. Dynamic Duel, where comic book titans
+smash every Tuesday. Max Destruction, TV and
+
+510
+00:46:45,558 --> 00:46:51,880
+action heroes battle every Wednesday, and Sendro
+World, where anime champions clash every Thursday.
+
+511
+00:46:52,380 --> 00:46:57,402
+Join us as we speculate on the matches and armed
+with the power of mathematical simulations,
+
+512
+00:46:57,623 --> 00:47:04,525
+discover who will emerge victorious. Visit dynamicpodcast.com
+where we settle the debate and settle the score.
+
+513
+00:47:09,058 --> 00:47:14,680
+Batman finds the Royal Flush Gang using advanced
+technology to steal diamonds. He summons the
+
+514
+00:47:14,740 --> 00:47:20,222
+aid of the Justice League to Gotham City to
+bring them down. The hero Cyborg aids the team
+
+515
+00:47:20,302 --> 00:47:25,584
+in defeating the gang and in analyzing the device
+that allowed the villainous team to enter the
+
+516
+00:47:25,624 --> 00:47:31,387
+diamond storage facility by turning walls intangible.
+With the Royal Flush Gang unable to remember
+
+517
+00:47:31,447 --> 00:47:36,449
+who gave them the device, the Justice League
+goes their separate ways for the night. As
+
+518
+00:47:36,489 --> 00:47:42,284
+Batman returns home in the Batmobile, He glimpses
+Mirror Master in his rearview mirror, but dismisses
+
+519
+00:47:42,324 --> 00:47:49,069
+the sighting. I do have one question here. Uh,
+why does the Batmobile have a rearview mirror
+
+520
+00:47:49,229 --> 00:47:54,733
+with no rear window? That's a great question.
+Yeah, you assume he has like a rear camera
+
+521
+00:47:54,833 --> 00:48:02,259
+as opposed to a rear window. Plot hole for sure.
+Ruins the whole movie! One star. The fight
+
+522
+00:48:02,299 --> 00:48:07,122
+against the Royal Flush Gang was a great way
+to kick off this movie. because it was just
+
+523
+00:48:07,142 --> 00:48:11,746
+a lot of fun, a great way to show off the characters
+superpowers and whatnot. And the Royal Flush
+
+524
+00:48:11,786 --> 00:48:16,890
+Gang, actually I always thought that they made
+their debut in the Batman Beyond television
+
+525
+00:48:16,930 --> 00:48:22,895
+series. So to see them here, I was actually
+surprised. Oh really? No, they've been around
+
+526
+00:48:22,935 --> 00:48:27,319
+a while. I think they were even in an episode
+of Justice League, but yeah, they've been around
+
+527
+00:48:27,339 --> 00:48:32,970
+a while. They're just a cool gimmicky set of
+supervillains. Very gimmicky, although I liked
+
+528
+00:48:32,990 --> 00:48:37,652
+that in this version each one had their own
+specific gimmick, whether an eye laser, or
+
+529
+00:48:37,692 --> 00:48:42,453
+like razor sharp cards, or brute strength. I
+think that was pretty unique. After Batman
+
+530
+00:48:42,493 --> 00:48:47,615
+parks the Batmobile and leaves the Batcave to
+tend to his wounds, a hologram of Mirror Master
+
+531
+00:48:47,695 --> 00:48:52,856
+leaves the Batmobile and hacks the Batcomputer,
+stealing files that contain Batman's contingency
+
+532
+00:48:52,876 --> 00:48:58,855
+plans on how to incapacitate each member of
+the Justice League. When Bane, Metallo, Cheetah,
+
+533
+00:48:59,035 --> 00:49:04,658
+Star Sapphire, and Mothafucka answer an invitation
+to the Legion of Doom headquarters in the Louisiana
+
+534
+00:49:04,698 --> 00:49:10,582
+Swamp, they meet the Legion's leader, Vandal
+Savage, an immortal who offers each of them
+
+535
+00:49:10,782 --> 00:49:15,965
+generous rewards if they use his stolen plans
+to bring down the Justice League. The Legion
+
+536
+00:49:15,985 --> 00:49:20,708
+of Doom headquarters was a nice homage to the
+Super Friends cartoon. Right. Yeah. Not only
+
+537
+00:49:20,728 --> 00:49:25,482
+was it in the swamp, not only did it look- Kind
+of like Darth Vader's head, but even the sitting
+
+538
+00:49:25,502 --> 00:49:31,224
+chamber was reminiscent of the Super Friends.
+At Wayne Manor, Bane ambushes Batman at the
+
+539
+00:49:31,264 --> 00:49:36,145
+graves of his parents, Thomas and Martha Wayne,
+beating him unconscious and burying him alive
+
+540
+00:49:36,265 --> 00:49:42,307
+in his father's coffin. At a bar near the coast,
+Motherfucker, disguised as an attractive woman,
+
+541
+00:49:42,667 --> 00:49:48,729
+tricks police detective John Jones, aka Martian
+Manhunter, into drinking a poison that causes
+
+542
+00:49:48,749 --> 00:49:54,606
+him to sweat flammable magnesium and burst into
+flames. While battling Wonder Woman on a docked
+
+543
+00:49:54,666 --> 00:50:00,248
+ship, Cheetah scratches Wonder Woman with nanite-tipped
+claws, resulting in Wonder Woman seeing and
+
+544
+00:50:00,308 --> 00:50:06,589
+hearing Cheetah in innocent bystanders. Mirror
+Master lures Flash into a trap, attaching a
+
+545
+00:50:06,669 --> 00:50:11,991
+bomb to his wrist that will create a 3-mile
+explosion if he tries to remove it or decrease
+
+546
+00:50:12,071 --> 00:50:17,992
+in speed. Star Sapphire targets Green Lantern
+in a mine, using fear gas on him and convincing
+
+547
+00:50:18,032 --> 00:50:23,062
+him that he doesn't deserve his mantle, leading
+him to renounce his reign. and resigned himself
+
+548
+00:50:23,082 --> 00:50:28,805
+to his fate in the collapsing salt mine. Metallo,
+disguised as a recently terminated Daily Planet
+
+549
+00:50:28,845 --> 00:50:33,888
+reporter, shoots Superman with a kryptonite
+bullet on the Daily Planet roof. I just want
+
+550
+00:50:33,908 --> 00:50:39,291
+to say that Marsha Manhunter has no Riz. And
+I don't know if I'm too old to say Riz, so
+
+551
+00:50:39,311 --> 00:50:44,514
+I'll switch it up to game. Like, this woman
+bought him a soda and he just comes up to her
+
+552
+00:50:44,554 --> 00:50:50,390
+and he's like, mmm delicious soda. I just remember
+thinking like, this is so awkward. Like he's
+
+553
+00:50:50,410 --> 00:50:55,733
+an alien, so you kind of give him a pass. Yeah.
+But I just thought it was hilarious. Yeah.
+
+554
+00:50:55,793 --> 00:51:00,897
+If that really wasn't motherfucker, she would
+have just been like, uh, I got to go wash my
+
+555
+00:51:00,957 --> 00:51:09,723
+hair. I have a sick aunt. Out of all the different
+ways this story rift on the characters weaknesses
+
+556
+00:51:09,863 --> 00:51:14,126
+from the source material, what was your favorite?
+Well, my favorite was Superman. That was my
+
+557
+00:51:14,166 --> 00:51:18,889
+favorite moment, maybe in the entire movie.
+I think it was shocking. I think it was heartfelt.
+
+558
+00:51:19,422 --> 00:51:24,425
+I loved what Superman was saying. I think it
+was just like a great closure to like the whole
+
+559
+00:51:24,505 --> 00:51:28,748
+sequence of all the heroes going down. Actually,
+when Superman hits the ground, that's the end
+
+560
+00:51:28,788 --> 00:51:32,610
+of that whole sequence. And that's actually
+the halfway point of the movie. Interesting.
+
+561
+00:51:33,011 --> 00:51:37,434
+So, yeah, it takes a while to get through all
+of it. What about yours? Again, The Flash,
+
+562
+00:51:37,674 --> 00:51:41,517
+I think. And my least favorite, of course, was
+Green Lanterns until I knew what happened there.
+
+563
+00:51:41,817 --> 00:51:45,019
+They're all pretty great, honestly. I don't
+know if I have a least favorite. I liked them
+
+564
+00:51:45,079 --> 00:51:51,043
+all. Well, Cyborg helps Wonder Woman overcome
+her hallucination. By recognizing and neutralizing
+
+565
+00:51:51,103 --> 00:51:56,226
+the frequency the nanites were emitting, Batman
+helps Flash by suggesting he phase through
+
+566
+00:51:56,246 --> 00:52:01,729
+an arctic iceberg to cool and slow down the
+electronics in the wrist-mounted bomb. Wonder
+
+567
+00:52:01,789 --> 00:52:07,012
+Roman then helps Martian Manhunter, still on
+fire in the water, by injecting his body with
+
+568
+00:52:07,052 --> 00:52:12,655
+aluminum oxide at Batman's suggestion, while
+Batman himself visits Green Lantern in the
+
+569
+00:52:12,755 --> 00:52:19,679
+salt mine to reveal that Green Lantern was deceived
+by a mixture of fear toxin, animatronics. Batman,
+
+570
+00:52:19,859 --> 00:52:25,203
+Cyborg, and Martian Manhunter together are able
+to save Superman by removing the kryptonite
+
+571
+00:52:25,243 --> 00:52:30,766
+bullet in his chest. You know for as much shit
+as the league gives Batman at least the guy
+
+572
+00:52:30,907 --> 00:52:37,591
+also had fail safes for his fail safes. You
+know, he did develop ways to take each of the
+
+573
+00:52:37,631 --> 00:52:42,754
+league members out but he also had ways to stop
+those plans. Exactly with like the aluminum
+
+574
+00:52:42,855 --> 00:52:48,830
+oxide with the kryptonite scalpel. Yeah, there
+were plans in place. Like, he put them in danger,
+
+575
+00:52:48,870 --> 00:52:53,954
+but he also saved their lives. Exactly. Now,
+at the Justice League satellite headquarters,
+
+576
+00:52:54,255 --> 00:52:59,298
+Batman reveals that what the team had just gone
+through was his fault. That Mirror Master,
+
+577
+00:52:59,619 --> 00:53:04,222
+while working with someone else, had stolen
+his plans to neutralize the League members.
+
+578
+00:53:04,663 --> 00:53:10,147
+Despite being angry with him, the League tracks
+a signal from Batman's decoded files to the
+
+579
+00:53:10,187 --> 00:53:15,159
+Legion of Doom headquarters, where the League
+battles the Legion. but are unable to stop
+
+580
+00:53:15,219 --> 00:53:19,663
+Vandal Savage from launching his missile to
+the sun. What did you think of Vandal Savage's
+
+581
+00:53:19,723 --> 00:53:25,348
+motivation? As far as humanity needed to, I
+don't know, become simpler or something through
+
+582
+00:53:25,428 --> 00:53:30,793
+chaos and destruction? I think it makes sense
+for the character. He comes from a much simpler
+
+583
+00:53:30,853 --> 00:53:39,220
+time, and with his immortality, he probably
+does feel like he is the best equipped to govern
+
+584
+00:53:39,360 --> 00:53:44,699
+humanity as a species. You know, definitely
+better than Russell Gould's motivation of simply
+
+585
+00:53:44,799 --> 00:53:49,900
+distracting everyone. Made it so that no one
+could read, so that it caused global chaos
+
+586
+00:53:50,300 --> 00:53:56,662
+with the ultimate goal of initiating a war between
+two countries. So that lack of communication
+
+587
+00:53:56,922 --> 00:54:01,883
+is why that arc was called Tower of Babel. Yes.
+Yep. Makes sense. He created this tower that
+
+588
+00:54:01,923 --> 00:54:08,325
+emitted a frequency worldwide that scrambled
+the reading centers in people's brains. I don't
+
+589
+00:54:08,365 --> 00:54:14,208
+know. Well now it makes more sense why the name
+of this movie wasn't Justice League Tower of
+
+590
+00:54:14,248 --> 00:54:19,551
+Babel and I do think that Justice League Doom
+is a much better name. I agree, much better
+
+591
+00:54:19,591 --> 00:54:24,735
+promise all around. After overcoming their counterparts,
+the Justice League works together to save the
+
+592
+00:54:24,775 --> 00:54:31,034
+planet when Superman fails to stop the missile
+from triggering a solar flare. Cyborg discovers
+
+593
+00:54:31,054 --> 00:54:35,697
+that the Legion headquarters is like a giant
+version of the Royal Flush Gang's intangibility
+
+594
+00:54:35,757 --> 00:54:44,382
+device and calculates that they could use it
+to turn the entire planet intangible and safe
+
+595
+00:54:44,402 --> 00:54:49,966
+from the harm of the solar flare. The plan works
+and the Earth is saved. Isn't that kind of
+
+596
+00:54:49,986 --> 00:54:59,007
+bullshit? It's a comic book, bro! I thought
+it was cool. You know, turning the planet intangible
+
+597
+00:54:59,167 --> 00:55:04,229
+wouldn't necessarily save it from all the effects
+of the solar flare, right? Sure would. What
+
+598
+00:55:04,269 --> 00:55:09,252
+are you talking about? Why wouldn't it, Dr.
+Joseph? And also, like, what would happen to
+
+599
+00:55:09,312 --> 00:55:13,014
+everybody on the planet if the Earth became
+intangible? Like, wouldn't they fall into it?
+
+600
+00:55:13,454 --> 00:55:17,756
+It was all just weird. It was all weird. No,
+because the planet wouldn't have had gravity
+
+601
+00:55:17,836 --> 00:55:22,038
+anymore because it had no more mass. Because
+it was intangible. Stupid. I thought that was
+
+602
+00:55:22,079 --> 00:55:26,502
+the most bullshit way to avoid a solar flare
+that they could have come up with in a fantasy
+
+603
+00:55:26,562 --> 00:55:32,067
+comic book story. I thought it was actually
+a really interesting and fun way to do it It
+
+604
+00:55:32,107 --> 00:55:36,791
+was like one of those things from the Justice
+League comic books in the 90s and early 2000s
+
+605
+00:55:37,412 --> 00:55:42,016
+Just these like wacky ways of stopping this
+global threat that's gonna annihilate the world.
+
+606
+00:55:42,316 --> 00:55:47,351
+It's just unbelievably over the top If it were
+me, like, I would have written it so that Cyborg
+
+607
+00:55:47,371 --> 00:55:54,294
+interfaces with the JLA watch tower and generates
+a reverse magnetic polarity beam that, you
+
+608
+00:55:54,314 --> 00:55:59,096
+know, deflects the solar flare or something
+like that. That seems way more plausible, at
+
+609
+00:55:59,136 --> 00:56:03,597
+least in my mind, than turning the entire damn
+planet intangible and having a solar flare
+
+610
+00:56:03,637 --> 00:56:10,180
+pass through it. Dude, your idea is like some
+dumb shit that Marvel would do. DC is way cooler.
+
+611
+00:56:10,960 --> 00:56:14,706
+Okay. Like, are we gonna stop a solar flare?
+Yeah. We're going to turn the whole fucking
+
+612
+00:56:14,766 --> 00:56:20,550
+planet intangible. It's going to be dope. That
+doesn't make sense to your small mind. It doesn't.
+
+613
+00:56:20,850 --> 00:56:27,154
+But to us, big brain DC guys, it makes perfect
+sense. Stop lying to yourself. What you're
+
+614
+00:56:27,174 --> 00:56:31,037
+saying all of this with like the big smile on
+your face. You know, it's bullshit. You just
+
+615
+00:56:31,057 --> 00:56:36,300
+don't want to say it's bullshit. It's a comic
+book, bro. Now, back at the league satellite
+
+616
+00:56:36,320 --> 00:56:41,123
+headquarters, the team learns that Vandal Savage.
+was found guilty of crimes against humanity
+
+617
+00:56:41,323 --> 00:56:47,528
+and sentenced to life without parole. They officially
+add Cyborg to their roster and vote on Batman's
+
+618
+00:56:47,548 --> 00:56:53,272
+continued membership with the team. Though Batman
+defends his actions, he ultimately quits the
+
+619
+00:56:53,312 --> 00:56:58,396
+League. Superman teleports Batman out of the
+Watchtower after giving him a box with the
+
+620
+00:56:58,416 --> 00:57:03,799
+Kryptonite bullet inside, recognizing the need
+for contingencies against them and showing
+
+621
+00:57:03,839 --> 00:57:08,918
+his trust in Batman. And that's the end of the
+film. Are you a little bit surprised that this
+
+622
+00:57:08,978 --> 00:57:14,861
+movie wasn't considered continuity for the DC
+animated movie universe that followed this?
+
+623
+00:57:15,041 --> 00:57:20,263
+I believe Justice League War came out not too
+long after this movie, and that also had Cyborg
+
+624
+00:57:20,343 --> 00:57:25,065
+on the team. It seems like they could have rolled
+with this into that universe. Well, the only
+
+625
+00:57:25,125 --> 00:57:30,387
+problem with that is that between these two
+films was the Flashpoint Paradox, which reset
+
+626
+00:57:30,467 --> 00:57:35,189
+everything. Justice League War is a direct sequel
+to the Flashpoint Paradox. They're in the same
+
+627
+00:57:35,269 --> 00:57:42,445
+universe. So because you had that movie reset
+things you couldn't still have doom in continuity.
+
+628
+00:57:42,885 --> 00:57:47,488
+Yeah, I guess that makes sense. I really like
+this film. I think it's a short yet adequate
+
+629
+00:57:47,548 --> 00:57:53,191
+adaptation of the Tower of Babel comic storyline,
+complete with a fan favorite voice cast and
+
+630
+00:57:53,311 --> 00:57:59,535
+enjoyable superhero action. I love the rosters
+for both the good guys and the bad guys especially.
+
+631
+00:57:59,735 --> 00:58:06,566
+I'm giving this film, four stars, a fresh rating
+on Rotten Tomatoes. Yeah, I agree. I mean,
+
+632
+00:58:06,687 --> 00:58:10,810
+it has almost everything you would want in a
+Justice League film. The superpowers are on
+
+633
+00:58:10,830 --> 00:58:15,955
+full display. The action is great. The voice
+casting is great. Animation is serviceable
+
+634
+00:58:16,475 --> 00:58:20,899
+and the story is extremely fascinating. Also
+extremely simple and extremely short. The movie
+
+635
+00:58:20,979 --> 00:58:26,604
+isn't even an hour and a half long. It's only
+77 minutes. Most movies are around 90 minutes,
+
+636
+00:58:26,964 --> 00:58:31,468
+so they definitely had enough room to delve
+into the characters a little bit more, and
+
+637
+00:58:31,488 --> 00:58:37,424
+they probably should have. But yeah, it's definitely
+one I would recommend to anyone familiar with
+
+638
+00:58:37,504 --> 00:58:42,307
+DC. But that does it for this review. Let us
+know what you thought about the movie by writing
+
+639
+00:58:42,347 --> 00:58:48,390
+to us at dynamicduelpodcast at gmail.com or
+by visiting us on Instagram, which you could
+
+640
+00:58:48,410 --> 00:58:54,754
+find a link to in our show notes or by visiting
+our website at dynamicduel.com. And on our
+
+641
+00:58:54,774 --> 00:58:57,636
+site, you could also find a link to our Patreon
+page where you can join our
+
+642
+00:59:00,822 --> 00:59:05,406
+our fantastic four tier, which gets you bonus
+content each month, our X-Force tier that makes
+
+643
+00:59:05,426 --> 00:59:09,690
+you an executive producer of this show, or our
+newest tier that lets you join our DynaMic
+
+644
+00:59:09,770 --> 00:59:15,235
+podcast network. Please don't forget to rate
+the show on Apple podcasts, Spotify, Podchaser,
+
+645
+00:59:15,656 --> 00:59:20,040
+or on our website. In our next episode, uh,
+it's going to be a duel. We're going to find
+
+646
+00:59:20,080 --> 00:59:25,685
+out who will win in a fight between Ultra Humanite
+and Mr. Sinister. This duel is a long time
+
+647
+00:59:25,725 --> 00:59:31,196
+coming. Mr. Sinister is by far one of the biggest
+villains that Marvel has that we have yet to
+
+648
+00:59:31,216 --> 00:59:36,458
+get in a duel. So I'm really excited for this
+one. As am I. Ultra Humanite was Superman's
+
+649
+00:59:36,518 --> 00:59:41,000
+first supervillain and it's about time we've
+done a duel episode with him. But that does
+
+650
+00:59:41,020 --> 00:59:45,558
+it for this episode. We want to give a big thanks
+to our executive producers. Kent Johnson, John
+
+651
+00:59:45,598 --> 00:59:50,123
+Storowski, Zachary Hepburn, Dustin Balcom, Miggy
+Mathengian, Brandon Nestergaard, Nathaniel
+
+652
+00:59:50,143 --> 00:59:56,989
+Wagner, Levi Yeaton, Austin Wazilowski, AJ Dunkerley,
+Scott Camacho, Adam Spies, Andrew Shunk, and
+
+653
+00:59:57,129 --> 01:00:02,074
+Dean Molesky for helping make this podcast possible.
+And we'll talk to you guys next week. Up, up
+
+654
+01:00:02,114 --> 01:00:06,338
+and away, true believers. My main weakness is
+the cursed. Recapture.
+
