@@ -1,0 +1,3082 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a DynaMic Network podcast.
+
+2
+00:00:24,206 --> 00:00:29,069
+Hi, welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,089 --> 00:00:34,354
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:34,894 --> 00:00:40,018
+I'm Marvelous Joe. And I'm his twin brother,
+Johnny DC. And in this episode, we are going
+
+5
+00:00:40,038 --> 00:00:45,442
+to find out who would win in a fight between
+the Superman villain known as the Ultra Humanite
+
+6
+00:00:45,743 --> 00:00:53,165
+versus the X-Men villain known as Mr. Sinister.
+Now, I can't believe that we are over 375 episodes
+
+7
+00:00:53,365 --> 00:00:57,908
+into this podcast and we have not done a duel
+episode with Mr. Sinister yet. That's basically
+
+8
+00:00:57,949 --> 00:01:03,633
+a crime. Yeah, same with Ultra Humanite. I mean,
+no one knows who Ultra Humanite is. He's like-
+
+9
+00:01:03,653 --> 00:01:08,918
+BITCH! He's the very first Superman villain.
+That's all you need to know. Actually, I would
+
+10
+00:01:08,938 --> 00:01:14,262
+describe him more as a JSA villain. But yeah,
+he's got some notoriety. If by notoriety you
+
+11
+00:01:14,282 --> 00:01:21,715
+mean obscurity, then yeah, notoriety. Basically
+both of these guys are elite genetic scientists
+
+12
+00:01:21,915 --> 00:01:26,797
+with super powerful power sets. Yes, specifically
+when it comes to telepathy and telekinesis.
+
+13
+00:01:26,997 --> 00:01:30,999
+We'll go ahead and speculate on the battle and
+input the stats and run the simulations later
+
+14
+00:01:31,039 --> 00:01:35,241
+on this episode. Before that, we're gonna break
+down the comic book movie news that came out
+
+15
+00:01:35,281 --> 00:01:41,084
+this past week, including news about Joker Follyadoo
+and what kind of musical it's gonna be. And
+
+16
+00:01:41,124 --> 00:01:45,842
+we also got a teaser trailer for the Penguin
+Max series. As always, we list our segment
+
+17
+00:01:45,882 --> 00:01:49,564
+times in our episode description, so feel free
+to check out our show notes if you want to
+
+18
+00:01:49,604 --> 00:01:56,148
+skip ahead to a particular topic. Our artificially
+intelligent duel simulator AJ9K has a quick
+
+19
+00:01:56,208 --> 00:02:02,951
+message for our listeners, so listen up. Why
+hello there. Do you love listening and chatting
+
+20
+00:02:02,991 --> 00:02:08,133
+about Marvel and DC? Then become a part of the
+dynamic duel community on Patreon, where you
+
+21
+00:02:08,173 --> 00:02:13,455
+can choose from three tiers. The dynamic 2-0
+tier lets you listen to this podcast without
+
+22
+00:02:13,575 --> 00:02:18,297
+ads and gives you access to its Discord chat
+group, where you can chat with Johnny DC and
+
+23
+00:02:18,337 --> 00:02:23,259
+Marvelous Joe. The fantastic 4 tier gives you
+that and more with two bonus episodes each
+
+24
+00:02:23,319 --> 00:02:28,061
+month, including bloopers and top 10 shows where
+Johnny and Joe count down your favorite Marvel
+
+25
+00:02:28,081 --> 00:02:33,314
+and DC subjects. The X-Force tier makes you
+an executive producer of Dynamic duel. where
+
+26
+00:02:33,394 --> 00:02:37,315
+every month you help the hosts choose what to
+review and who to fight against each other.
+
+27
+00:02:37,856 --> 00:02:43,078
+And finally, the Dynamite Podcast Network tier
+allows aspiring podcasters to create their
+
+28
+00:02:43,218 --> 00:02:48,241
+own battle-focused show using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+29
+00:02:48,261 --> 00:02:53,143
+your show, provide graphic support and consultation,
+and get you simulation results to announce
+
+30
+00:02:53,183 --> 00:02:59,706
+on your show. Pitch the twins your show via
+email at dyna or by reaching out to them on
+
+31
+00:02:59,766 --> 00:03:07,208
+social media. Check it out at patreon.com slash
+dyna your pip cheerio. Thanks AJ9K and thanks
+
+32
+00:03:07,228 --> 00:03:12,049
+to everyone who supports the podcast. Guys be
+sure to tune into the shows on the Dynomic
+
+33
+00:03:12,089 --> 00:03:16,750
+Podcast Network this week including Max Destruction
+which pits your favorite action heroes from
+
+34
+00:03:16,810 --> 00:03:20,031
+film and television against each other. This
+week they're going to find out who's going
+
+35
+00:03:20,051 --> 00:03:27,132
+to win between Ned Leeds from Spider-Man Homecoming
+and Micro from Punisher Warzone. On the Sindroworld
+
+36
+00:03:27,152 --> 00:03:34,355
+podcast host Zachary Hepburn speculates on fights
+between fan favorite This Thursday, we'll find
+
+37
+00:03:34,395 --> 00:03:40,420
+out who would win between Sengoku from One Piece
+and Nitero from Hunter x Hunter. And finally
+
+38
+00:03:40,460 --> 00:03:44,443
+on the Console Combat Podcast, host John and
+Dean find out who would win in fights between
+
+39
+00:03:44,824 --> 00:03:49,908
+popular video game characters. Yesterday's episode,
+they gathered a bunch of people from the DynaMic
+
+40
+00:03:49,988 --> 00:03:54,892
+Network to review Scott Pilgrim vs. the World,
+which is a movie that I love. I was really
+
+41
+00:03:54,932 --> 00:04:00,457
+sad that I was not able to join that review.
+Visit dynamicpodcasts.com or click the link
+
+42
+00:04:00,477 --> 00:04:05,629
+in our show notes. to listen to all of the shows
+in the DynaMic Podcast Network. But with that
+
+43
+00:04:05,709 --> 00:04:11,914
+out of the way... Quick! To the No Prize! A
+No Prize is an award Marvel used to give out
+
+44
+00:04:11,954 --> 00:04:17,638
+to fans. Our version, the Dynamic duel No Prize,
+is a digital award that we post on Instagram
+
+45
+00:04:17,658 --> 00:04:23,263
+for the person that we feel gave the best answer
+to our question of the week. Last week we asked,
+
+46
+00:04:23,443 --> 00:04:28,734
+what Marvel or DC film do you think had the
+best subtitle? and why and this is coming off
+
+47
+00:04:28,814 --> 00:04:34,077
+of the news that the upcoming Venom sequel is
+going to be titled Venom the Last Dance and
+
+48
+00:04:34,097 --> 00:04:39,220
+we thought that was stupid as hell but we wanted
+to hear what the best ones were. We got so
+
+49
+00:04:39,340 --> 00:04:43,022
+many answers for this question you guys came
+out of the woodwork. I was not expecting that
+
+50
+00:04:43,322 --> 00:04:47,424
+but I truly appreciate it. Yeah we actually
+got 10 total answers this week. I can't remember
+
+51
+00:04:47,464 --> 00:04:51,206
+the last time we received that many answers
+so that's exciting. We're going to break down
+
+52
+00:04:51,226 --> 00:04:57,506
+this week's honorable mentions before revealing
+the no prize winner. Our first honorable Nate
+
+53
+00:04:57,546 --> 00:05:03,031
+Wagner who said, Hey, it's Nate here and I got
+to go with Captain America Civil War. I think
+
+54
+00:05:03,091 --> 00:05:08,515
+reading the comic originally just had me excited
+of how they were going to adapt it into a movie,
+
+55
+00:05:08,675 --> 00:05:14,380
+but almost worried at the same time, just because
+there was so much in the comic. And I feel
+
+56
+00:05:14,400 --> 00:05:20,185
+like they did a really good job overall with
+it. So yeah. Okay. So
+
+57
+00:05:25,078 --> 00:05:30,400
+I don't think Nate Wagner has a kid, so I'm
+gonna guess that was a dog. And it seemed like
+
+58
+00:05:30,420 --> 00:05:33,101
+he disagreed with you. But you know what? I'm
+gonna go ahead and agree with you, Nate. I
+
+59
+00:05:33,121 --> 00:05:37,203
+thought Civil War was a great storyline from
+the comics. I was super excited when they announced
+
+60
+00:05:37,703 --> 00:05:41,564
+that as the subtitle for the third Captain America
+film because I didn't think that they were
+
+61
+00:05:41,584 --> 00:05:45,766
+gonna go there. But they went there. And you
+know, it was really off the back of the announcement
+
+62
+00:05:45,806 --> 00:05:51,569
+of the Batman v Superman movie. But right, I
+don't count it as copying because Civil War
+
+63
+00:05:51,589 --> 00:05:57,992
+was actually a better movie than BBS. Oh, it's
+copying. It's 100% copying. But you admit that
+
+64
+00:05:58,052 --> 00:06:04,057
+Civil War was a better movie than BBS. I did
+not do any such thing. Although I guess when
+
+65
+00:06:04,097 --> 00:06:09,540
+it comes to specifically the theatrical versions,
+sure, I will admit that Civil War was better
+
+66
+00:06:09,580 --> 00:06:15,504
+than BBS, even when it comes to the subtitle,
+Civil War versus Dawn of Justice. Yeah, that
+
+67
+00:06:15,524 --> 00:06:20,088
+was stupid. Thanks, Nate, for the answer. Let's
+go ahead and move on to making my thank you
+
+68
+00:06:20,148 --> 00:06:24,334
+answer, which also gets an honorable mention.
+He said. Hey what's up guys, this is Miggy
+
+69
+00:06:24,395 --> 00:06:30,300
+and my favorite subtitle is the Judas Contract.
+This is just a badass sounding biblical illusion.
+
+70
+00:06:31,000 --> 00:06:35,664
+The foreshadows the plot pretty well. But really
+I'm just using this as an excuse to answer
+
+71
+00:06:36,025 --> 00:06:39,107
+the question of the week that you guys should
+have gone with and give my fancast for the
+
+72
+00:06:39,147 --> 00:06:44,632
+Teen Titans. So I'm gonna say Wolfgang Novogratz
+as Robin slash Nightwing, Coco Jones as Starfire,
+
+73
+00:06:44,973 --> 00:06:50,477
+Stefan James as Cyborg, Amber Mithunder as Raven,
+and Marcel Ruiz as Beast Boy. Thanks guys.
+
+74
+00:06:51,218 --> 00:06:56,582
+Yeah, Mickey Mathagian is an executive producer
+of the show, so he does have some leeway regarding
+
+75
+00:06:56,642 --> 00:07:01,566
+the questions that we ask on this podcast. And
+we should have consulted basically, I think,
+
+76
+00:07:02,067 --> 00:07:07,552
+with our ex-pros before coming up with our question
+of the week last time, because I think that
+
+77
+00:07:08,032 --> 00:07:13,056
+with the announcement that DC is working on
+a Teen Titans movie, that should have absolutely
+
+78
+00:07:13,076 --> 00:07:17,200
+been our question of the week. And it's not
+a terrible cast that Mickey came up with. As
+
+79
+00:07:17,240 --> 00:07:23,042
+far as the Judas contract goes. Also a great
+choice and also like you mentioned an allusion
+
+80
+00:07:23,102 --> 00:07:29,264
+to a betrayal that would happen within the team
+much better than you know Teen Titans, Terror's
+
+81
+00:07:29,284 --> 00:07:35,666
+Betrayal Let's go ahead and move into our final
+honorable mention which goes to Caleb Folk
+
+82
+00:07:35,986 --> 00:07:42,628
+who said hey guys Caleb Folk again I think the
+best marveler dc subtitle has to be avengers
+
+83
+00:07:42,768 --> 00:07:52,364
+endgame Just because not only did it leave suspense
+After the infinity war ending But also it symbolizes
+
+84
+00:07:52,404 --> 00:07:59,970
+the ending of Iron Man, Captain America, Black
+Widow, Thor not being the leader of Asgard
+
+85
+00:08:00,010 --> 00:08:06,415
+anymore. I just think that has to be the best
+subtitle that any movie's had. Yeah, Infinity
+
+86
+00:08:06,455 --> 00:08:12,560
+War ended with such a cliffhanger. You know,
+basically half the entire universe was snapped
+
+87
+00:08:12,600 --> 00:08:17,775
+out of existence by Thanos. So I remember everyone
+who was on the edge of our seats, including
+
+88
+00:08:17,815 --> 00:08:21,738
+this podcast. And if you go back and listen
+to those episodes, we were heavily speculating
+
+89
+00:08:21,838 --> 00:08:27,402
+on what the subtitle would be for the fourth
+Avengers film. When it was revealed to be endgame,
+
+90
+00:08:27,562 --> 00:08:31,945
+it just felt right. Not only because it was
+a direct reference to a quote from Dr. Strange
+
+91
+00:08:32,285 --> 00:08:37,009
+in the Infinity War film where he says, run
+the end game now, but it just had this finality
+
+92
+00:08:37,069 --> 00:08:42,032
+to it where you knew that this was going to
+be the culmination of the entire Infinity War
+
+93
+00:08:42,092 --> 00:08:46,706
+saga and that it was just going to be epic.
+Right. And especially, you know, like post
+
+94
+00:08:46,846 --> 00:08:52,889
+end game, you kind of wish the end game was
+the end of all MCU films because they've just
+
+95
+00:08:52,909 --> 00:08:57,071
+got to shit since then. Now, it really should
+have been the end. Shut up. Just you sound
+
+96
+00:08:57,271 --> 00:09:01,893
+stupid right now. That was the dumbest thing
+I've you've ever said on this podcast. I don't
+
+97
+00:09:02,433 --> 00:09:06,915
+know. I think a lot of people agree with me.
+Well, those people are wrong and they could
+
+98
+00:09:06,935 --> 00:09:11,957
+be wrong. Great answer, Caleb. We want to give
+a quick shout out to Travis Herndon, who gave
+
+99
+00:09:11,997 --> 00:09:17,627
+the answer of homecoming. Andrew Shunk, who
+gave the answer The Quest for Peace. Colby
+
+100
+00:09:17,667 --> 00:09:25,450
+Hentges, who gave Four Vendetta. Mitchell Smoothie,
+who said Under the Red Hood. Scott Camacho,
+
+101
+00:09:25,851 --> 00:09:31,513
+who gave the answer of the Dark Knight trilogy.
+And Sean Curtis, who gave an answer from last
+
+102
+00:09:31,573 --> 00:09:37,295
+week regarding video games. Basically chiming
+in since nobody gave a DC answer for the last
+
+103
+00:09:37,315 --> 00:09:42,777
+question of the week. But the winner of this
+week's NOAH Prize goes to Noah Terry, who said.
+
+104
+00:09:43,382 --> 00:09:50,966
+Hey guys, I think that the best subtitle for
+a Marvel or DC movie has to be Black Panther
+
+105
+00:09:51,006 --> 00:09:58,391
+Wakanda Forever. I feel that the movie is just
+a perfect tribute to Chadwick Boseman, and
+
+106
+00:09:59,371 --> 00:10:05,175
+the way that the subtitle perfectly represents
+Shuri taking up his legacy as the Black Panther
+
+107
+00:10:05,255 --> 00:10:12,239
+is just perfect. It's an amazing movie. Thanks.
+Bye, guys. Wakanda Forever is basically this
+
+108
+00:10:12,459 --> 00:10:18,362
+salute representing the pride that Wakandans
+have in their home country and Chadwick Boseman
+
+109
+00:10:18,482 --> 00:10:23,925
+personified the vision of T'Challa the Black
+Panther in the first Black Panther film and
+
+110
+00:10:23,965 --> 00:10:29,588
+after his untimely tragic passing due to cancer.
+It was a really nice tribute for the sequel
+
+111
+00:10:29,668 --> 00:10:35,772
+to reference that pride that a lot of people
+felt in seeing Wakanda represented on screen.
+
+112
+00:10:36,172 --> 00:10:43,020
+It just felt like it was a mark. of his legacy
+on the franchise. Right, that even though he
+
+113
+00:10:43,060 --> 00:10:48,943
+had passed, Wakanda was still going to live
+on in the hearts of everyone who just fell
+
+114
+00:10:48,983 --> 00:10:55,087
+in love with the concept of the African nation.
+Yeah, it was a very sentimental subtitle and
+
+115
+00:10:55,187 --> 00:10:59,629
+I think it was just perfect. I also like the
+fact that not only did it allude to Shuri carrying
+
+116
+00:10:59,689 --> 00:11:05,112
+on the mantle of Black Panther, but also that
+T'Challa's legacy would continue as well. Yeah,
+
+117
+00:11:05,292 --> 00:11:10,296
+the movie's all about legacy and... the title
+definitely evoked that. It worked on a variety
+
+118
+00:11:10,336 --> 00:11:14,181
+of different levels. And that's why that answer
+wins this week's No Prize. So congrats to Noah
+
+119
+00:11:14,201 --> 00:11:18,906
+Terry for winning. If you, the listener, won
+a shot at winning your own No Prize, stay tuned
+
+120
+00:11:18,926 --> 00:11:23,091
+to later on this episode when we'll be asking
+another Question of the Week. And now that
+
+121
+00:11:23,131 --> 00:11:25,113
+that's done, on to the news.
+
+122
+00:11:30,966 --> 00:11:37,029
+Okay, so last week Variety shed some light on
+the type of musical that the Joker sequel,
+
+123
+00:11:37,309 --> 00:11:42,592
+Joker, if all you do, is going to be. When we
+first heard that the Joker sequel was going
+
+124
+00:11:42,612 --> 00:11:49,936
+to be a musical, there was quite a bit of mixed
+reaction online. Most of it was rage. Not too
+
+125
+00:11:49,956 --> 00:11:54,719
+many people like the idea of the sequel being
+a musical. I for one was not one of those people
+
+126
+00:11:54,759 --> 00:12:01,682
+though. I like some musicals. You know, I like
+Sweeney Todd. I like Prince of Egypt. I even
+
+127
+00:12:01,722 --> 00:12:06,684
+liked the new Wonka movie that came out recently.
+So I thought a musical could make this movie
+
+128
+00:12:06,765 --> 00:12:13,747
+fairly interesting. But now we've learned that
+Joker Fali Ado is going to be a jukebox musical
+
+129
+00:12:13,927 --> 00:12:20,810
+in that it's not going to have original songs.
+It's going to have up to 15 cover songs. So
+
+130
+00:12:20,830 --> 00:12:27,813
+it's going to be something more like Mamma Mia
+or Moulin Rouge. And to me, those films are
+
+131
+00:12:27,853 --> 00:12:33,308
+more about the music as opposed to the story.
+Yeah, the quality of the movie is almost more
+
+132
+00:12:33,348 --> 00:12:40,811
+about the song choices that they make, right?
+Exactly. So hearing this news was so extremely
+
+133
+00:12:40,851 --> 00:12:46,754
+disappointing because I had been really championing
+this film to all the haters who did not like
+
+134
+00:12:46,794 --> 00:12:52,876
+the fact that it was going to be a musical.
+And now I myself am not excited that this film
+
+135
+00:12:52,936 --> 00:12:57,506
+is going to be a musical because it's like a
+lazy musical. They didn't put forth any effort
+
+136
+00:12:57,526 --> 00:13:02,267
+to write original songs, even though there may
+be two original songs in the movie. They're
+
+137
+00:13:02,287 --> 00:13:06,689
+not sure yet if they have enough time to insert
+them. One of the songs we've learned is going
+
+138
+00:13:06,709 --> 00:13:13,831
+to be That's Entertainment from the 1953 musical
+The Bandwagon starring Judy Garland. The one
+
+139
+00:13:14,011 --> 00:13:19,032
+interesting thing about this is that I guess
+Hildur Gunnedadder, who did the score for the
+
+140
+00:13:19,072 --> 00:13:24,707
+first film and won an Oscar for that film, is
+recomposing all of the new pieces and Variety
+
+141
+00:13:24,747 --> 00:13:31,231
+says that she will infuse her distinctive haunting
+music cues into each number. I guess that's
+
+142
+00:13:31,312 --> 00:13:37,416
+kinda cool. Ultimately, I think it kinda depends
+on what song choices you're going with though.
+
+143
+00:13:37,596 --> 00:13:43,440
+Are people who aren't fans of the bandwagon
+going to be excited by that's entertainment?
+
+144
+00:13:44,061 --> 00:13:48,344
+I don't think so. If they're going with that
+song, it almost seems like they're going with
+
+145
+00:13:48,484 --> 00:13:54,259
+music throughout cinematic musical history.
+Kind of like how the first Joker film was an
+
+146
+00:13:54,279 --> 00:14:00,782
+homage to Martin Scorsese films, you know? Right.
+This movie might be an homage to classic musicals.
+
+147
+00:14:01,342 --> 00:14:05,825
+Yeah, maybe. Yeah, maybe we'll get like Singing
+in the Rain, almost like giving a Clockwork
+
+148
+00:14:05,905 --> 00:14:10,567
+Orange kind of homage. I don't know. I have
+no idea. The trailer is supposed to be coming
+
+149
+00:14:10,687 --> 00:14:16,810
+out soon-ish, I think in April, but I'm not
+sure how much music they're going to... unveil
+
+150
+00:14:16,870 --> 00:14:21,991
+in that trailer or even market it as a musical
+because Warner Brothers recent musicals haven't
+
+151
+00:14:22,031 --> 00:14:27,533
+been advertised that way including Guanka. Yeah
+I also am disappointed to hear that this is
+
+152
+00:14:27,553 --> 00:14:33,334
+gonna be more rock of ages than Sweeney Todd
+but I wonder if Lady Gaga is gonna have any
+
+153
+00:14:33,354 --> 00:14:38,916
+of her own songs in there like Bad Romance or
+something that would be so bizarre. That would
+
+154
+00:14:38,936 --> 00:14:42,817
+be awful I would hate that. Harley Quinn all
+of a sudden is like I want to take a ride on
+
+155
+00:14:42,837 --> 00:14:50,534
+your disco stick. Eh, jeez. Who knows? Maybe.
+But considering the fact that Joker Folly I
+
+156
+00:14:50,574 --> 00:14:54,441
+Do is going to be a jukebox musical, that brings
+us to our question of the week.
+
+157
+00:14:58,946 --> 00:15:05,648
+What song do you hope to hear in Joker Follyadoo,
+and what character would sing it? This is a
+
+158
+00:15:05,688 --> 00:15:10,170
+fantastic question. If you guys wanna sing your
+answer to as you submit it, you might get extra
+
+159
+00:15:10,210 --> 00:15:15,652
+points. Oh my gosh, I'm gonna love this. Ha
+ha ha. Record your answer at dynamicduel.com
+
+160
+00:15:15,952 --> 00:15:19,814
+by clicking on the red microphone button in
+the bottom right-hand corner of the screen,
+
+161
+00:15:20,114 --> 00:15:24,316
+which will prompt you to leave us a voicemail.
+Your message could be up to 30 seconds long,
+
+162
+00:15:24,716 --> 00:15:29,274
+and don't forget to leave your name in case
+we include you on the podcast. 30 seconds,
+
+163
+00:15:29,534 --> 00:15:35,196
+you guys are gonna have to rap your songs. We'll
+pick our favorite answer and award that person
+
+164
+00:15:35,296 --> 00:15:42,239
+a dynamic duel no prize that we'll post to Instagram.
+Be sure to answer before March 30th. In other
+
+165
+00:15:42,279 --> 00:15:50,382
+DC news, in good DC news, we got our first official
+teaser trailer for the Mac series The Penguin,
+
+166
+00:15:50,663 --> 00:15:57,225
+which is a sequel to the phenomenal 2022 film
+The Batman. Colin Farrell is returning as The
+
+167
+00:15:57,265 --> 00:16:02,838
+Penguin. And the teaser trailer shows him recounting
+the story of this old mobster that he used
+
+168
+00:16:02,858 --> 00:16:08,002
+to look up to who died and how a parade was
+thrown in his honor. He really likes the idea
+
+169
+00:16:08,022 --> 00:16:13,387
+of that kind of legacy. Intercut between his
+voiceover, we see a lot of shots of the penguin
+
+170
+00:16:13,707 --> 00:16:19,572
+walking around being menacing. But we also get
+our first looks at Sofia and Alberto Falcone,
+
+171
+00:16:19,672 --> 00:16:25,097
+which is really exciting and interesting. These
+are characters that play big roles in The Long
+
+172
+00:16:25,137 --> 00:16:31,192
+Halloween. which is a comic book storyline that
+is often touted as inspiration for many of
+
+173
+00:16:31,212 --> 00:16:36,834
+these Batman films. And we also get to see Clancy
+Brown as Salvatore Moroni and Michael Kelly
+
+174
+00:16:36,954 --> 00:16:41,677
+as Johnny Vitti. All of these characters were
+in The Long Halloween and I bet these are going
+
+175
+00:16:41,697 --> 00:16:46,459
+to be amazing performances. But of course the
+best one looks like it's going to come once
+
+176
+00:16:46,479 --> 00:16:54,130
+again from Colin Farrell. He is still unrecognizable
+in the role of Oswald Cobblepot. Yeah, he definitely
+
+177
+00:16:54,150 --> 00:16:59,735
+inhabits his character. It's interesting that
+they chose to go with this anecdote about a
+
+178
+00:16:59,915 --> 00:17:05,340
+local mobster that was in his neighborhood as
+a child. It makes it seem like his entire motivation
+
+179
+00:17:05,380 --> 00:17:10,785
+throughout the course of this season is going
+to be the respect and love of the people around
+
+180
+00:17:10,845 --> 00:17:16,129
+him, which is an interesting motivation for
+a character like the Penguin, because usually
+
+181
+00:17:16,169 --> 00:17:20,113
+his motivation is avarice. You know, he's a
+greedy son of a bitch in the world of Batman
+
+182
+00:17:20,393 --> 00:17:25,398
+and I don't remember him ever like looking for
+adoration in that way. Um, I think it still
+
+183
+00:17:25,458 --> 00:17:29,882
+fits with the character because you know, the
+character is deformed. We see that he's wearing
+
+184
+00:17:29,902 --> 00:17:34,986
+a leg brace in the teaser trailer, which gives
+him a wobble, probably why he's referred to
+
+185
+00:17:35,086 --> 00:17:40,712
+as the Penguin. I absolutely buy the fact that
+the Penguin would be looking for adoration
+
+186
+00:17:41,012 --> 00:17:45,871
+and respect from his community. Because I feel
+like because of his deformities, he probably
+
+187
+00:17:45,891 --> 00:17:50,373
+doesn't get too much of that. So it'd be something
+the character wants. Do you think he doesn't
+
+188
+00:17:50,413 --> 00:17:54,975
+get too much respect because he walks around
+in a fat suit? That is obviously a fat suit.
+
+189
+00:17:55,415 --> 00:18:00,837
+That is not obviously a fat suit. That is like
+one of the best makeup jobs I've ever seen.
+
+190
+00:18:01,457 --> 00:18:08,500
+Obviously a fat suit. Oh, my gosh. You know
+it. I know it. He's basically fat bastards,
+
+191
+00:18:08,700 --> 00:18:15,945
+Italian gangster cousin. is not a good color
+on you, my friend. You know this show looks
+
+192
+00:18:15,985 --> 00:18:20,409
+incredible and you can try to insult it all
+you want. It doesn't change the fact that the
+
+193
+00:18:20,429 --> 00:18:26,894
+show looks like it's going to be like a really
+awesome DC Comics, sopranos type crime drama.
+
+194
+00:18:27,394 --> 00:18:33,039
+I would like to get a hashtag going inspired
+by John Strausky of the Console Combat Podcast,
+
+195
+00:18:33,319 --> 00:18:39,765
+who on the Discord referred to the Penguin as
+Fat Mobstered. I think that's perfect. I think
+
+196
+00:18:39,785 --> 00:18:44,492
+that's a perfect description of him. and henceforth
+I will only be referring to Colin Farrell's
+
+197
+00:18:44,512 --> 00:18:50,878
+Penguin as Fat Mobster. And I would like to
+get a hashtag going that's hashtag fuck Joseph.
+
+198
+00:18:51,959 --> 00:18:58,084
+That could go the wrong way real quick. Let's
+not do that. Wait what? Okay yeah let's not
+
+199
+00:18:58,124 --> 00:19:02,948
+do that. We don't have an official release date
+for the Penguin yet. We just know that it's
+
+200
+00:19:02,968 --> 00:19:08,753
+coming out this fall and I'm super looking forward
+to it. This teaser trailer totally did its
+
+201
+00:19:08,793 --> 00:19:14,313
+job. And it makes me look forward to the Batman
+sequel that we're getting in 2026 even more.
+
+202
+00:19:14,694 --> 00:19:16,597
+Get in my belly.
+
+203
+00:19:23,790 --> 00:19:27,351
+But I think that does it for all the news for
+this episode, so let's go ahead and get into
+
+204
+00:19:27,412 --> 00:19:33,255
+our main event where we find out who would win
+in a fight between the JSA slash Superman villain,
+
+205
+00:19:33,635 --> 00:19:37,777
+Ultra Humanite, versus the X-Men villain, Mr.
+Sinister.
+
+206
+00:19:53,090 --> 00:19:58,094
+Alright, Ultra Humanite versus Mr. Sinister.
+As we stated at the top of this episode, we
+
+207
+00:19:58,114 --> 00:20:03,058
+are pitting these two characters against each
+other because they both are experts in genetics
+
+208
+00:20:03,378 --> 00:20:08,582
+and they both have psychic abilities. They're
+super powerful too. Ultra Humanite is the villain
+
+209
+00:20:08,623 --> 00:20:15,528
+for not only Superman, but the entire JSA. And
+Mr. Sinister is an acolyte of Apocalypse himself,
+
+210
+00:20:15,668 --> 00:20:19,552
+even though he's kind of branched away from
+Apocalypse and has gone on to plague not only
+
+211
+00:20:19,572 --> 00:20:26,196
+the X-Men, but mutant kind in general. Yeah,
+of course we saw a brief cameo of Mr. Sinister
+
+212
+00:20:26,476 --> 00:20:32,560
+in X-Men Apocalypse. It wasn't a cameo of him,
+it was a cameo of someone who worked for SX
+
+213
+00:20:32,600 --> 00:20:37,343
+Corporation. Which is supposed to be, I guess,
+one of Mr. Sinister's holding companies or
+
+214
+00:20:37,363 --> 00:20:41,626
+something. I don't know. They were obtaining
+a genetic sample of Wolverine from the Weapon
+
+215
+00:20:41,726 --> 00:20:47,569
+X program. Okay, that's lame. We did get the
+Ultra-Humanite as the main antagonist of Stargirl
+
+216
+00:20:47,589 --> 00:20:52,112
+season 3. three and really the main antagonist
+of the whole series. Interesting. I never watched
+
+217
+00:20:52,152 --> 00:20:57,276
+that show. Was he primarily a big white gorilla
+or did he have another form? To answer that
+
+218
+00:20:57,296 --> 00:21:03,540
+would probably be a spoiler so I plead the fifth.
+Interesting. Okay. I think the initial matchup
+
+219
+00:21:03,560 --> 00:21:09,445
+for this episode was gonna be Mr. Sinister versus
+Malefic who is Martian Manhunter's brother
+
+220
+00:21:09,905 --> 00:21:16,109
+who you know has the Martian abilities of telepathy
+and is also a shapeshifter just like Mr. Sinister.
+
+221
+00:21:16,606 --> 00:21:21,488
+I think that would have been a wiser choice
+on your part, and I think that you and Team
+
+222
+00:21:21,528 --> 00:21:27,530
+DC are going down for switching to Ultra Humanite.
+And I think you will rue the day that you ever
+
+223
+00:21:27,670 --> 00:21:35,053
+underestimated Ultra Humanite, fool! Okay. To
+explain the methodology behind our duels, let's
+
+224
+00:21:35,094 --> 00:21:40,636
+go to our sentient duel simulator, Alfred Jarvis
+9000. H-E-9K, tell our listeners how you go
+
+225
+00:21:40,676 --> 00:21:45,686
+about determining a winner in our duel matchups.
+Yes, of course, sir. The way I determine a
+
+226
+00:21:45,726 --> 00:21:50,527
+winner between the contestants is by running
+1000 Monte Carlo simulations using the characters
+
+227
+00:21:50,567 --> 00:21:56,129
+statistics. A Monte Carlo simulation is a probabilistic
+model used to determine outcomes through random
+
+228
+00:21:56,209 --> 00:22:02,030
+sampling. In this case, I randomise the statistics
+along a normal distribution as a way to simulate
+
+229
+00:22:02,070 --> 00:22:06,651
+the many variables that can occur during battle.
+The stat parameters are based on the official
+
+230
+00:22:06,711 --> 00:22:12,013
+Marvel power grid from which the DC characters
+statistics are extrapolated. Additional stat
+
+231
+00:22:12,053 --> 00:22:17,563
+categories are included such as range, damage
+potential, versatility and perception in order
+
+232
+00:22:17,603 --> 00:22:23,024
+to create a more detailed and accurate simulation.
+The results of the 1000 simulations provide
+
+233
+00:22:23,044 --> 00:22:27,406
+a percentage of wins for each character. The
+contestant with the higher percentage is declared
+
+234
+00:22:27,446 --> 00:22:32,727
+the victor as they have a higher probability
+to win any given battle. In an equitable pairing,
+
+235
+00:22:33,107 --> 00:22:37,909
+neither character should win 100% of the matches.
+The comic book stories have shown that there's
+
+236
+00:22:38,049 --> 00:22:42,864
+even a way for Batman to defeat Superman. So
+the confidence rate of my method falls in line
+
+237
+00:22:42,884 --> 00:22:47,468
+with the precedents that have been established
+in the source material. My mathematical simulations
+
+238
+00:22:47,508 --> 00:22:52,672
+are without subjectivity or bias. Feats are
+not the sole consideration, nor are fan votes
+
+239
+00:22:52,712 --> 00:22:58,857
+tabulated for determination of the winner. Thanks
+AJ9K! Before we run the simulations though,
+
+240
+00:22:59,038 --> 00:23:03,862
+we like to break down each character's histories
+and abilities before improvising a scenario
+
+241
+00:23:04,042 --> 00:23:09,574
+on how we imagine one of the 1000 simulations
+would play out for beat. and I believe it's
+
+242
+00:23:09,654 --> 00:23:14,095
+your turn to go first with the Marvel characters
+backstory. That's right, yeah, let me go ahead
+
+243
+00:23:14,115 --> 00:23:19,937
+and tell you all about Mr. Sinister. Nathaniel
+Essex was born in England in the mid-1800s
+
+244
+00:23:20,877 --> 00:23:27,399
+to a noble British family. Growing up fascinated
+with biology, Nathaniel studied at Oxford University,
+
+245
+00:23:27,759 --> 00:23:33,021
+becoming one of the foremost minds of his generation.
+He fell in love with an English woman named
+
+246
+00:23:33,081 --> 00:23:39,327
+Rebecca, and the two had a son named Adam. However,
+Adam was born with numerous birth defects and
+
+247
+00:23:39,407 --> 00:23:45,330
+ailments, passing away as a child at the young
+age of four. This tragedy drove Nathaniel deeper
+
+248
+00:23:45,350 --> 00:23:50,693
+into his studies in genetics and Darwin's theories,
+leading him to believe that through rapid evolution,
+
+249
+00:23:51,054 --> 00:23:57,397
+humanity could achieve perfection without defects.
+Obsessed, he sought to push evolutionary science
+
+250
+00:23:57,437 --> 00:24:02,480
+to its limits, believing his contemporaries
+were too bound by their concepts of morality.
+
+251
+00:24:02,940 --> 00:24:08,199
+Nathaniel became rejected by his peers for his
+work. as he hired a group of criminals he dubbed
+
+252
+00:24:08,259 --> 00:24:14,084
+the Marauders to kidnap people with deformities
+for him to experiment on. He even exhumed his
+
+253
+00:24:14,144 --> 00:24:19,748
+son's corpse to further his research, an act
+which estranged his wife, who was once again
+
+254
+00:24:19,788 --> 00:24:24,972
+pregnant. In the Marauders' search for test
+subjects, they stumbled upon and awakened the
+
+255
+00:24:25,092 --> 00:24:30,616
+ancient mutant known as Apocalypse, who sought
+to reshape the world into its strongest potential
+
+256
+00:24:30,696 --> 00:24:36,551
+through survival of the fittest. Seeing Nathaniel's
+work as a means to that end, Apocalypse offered
+
+257
+00:24:36,591 --> 00:24:43,094
+the scientist immortality and power if he served
+him. Conflicted by the offer, Nathaniel returned
+
+258
+00:24:43,154 --> 00:24:48,997
+home to Rebecca, only to find that she and their
+new baby were dying due to a premature labor.
+
+259
+00:24:49,417 --> 00:24:54,259
+Though he pleaded for his wife's forgiveness
+in her last moments, her final words were simply
+
+260
+00:24:54,299 --> 00:24:59,821
+to call him, sinister. Distraught, Nathaniel
+returned to Apocalypse to swear fealty to him.
+
+261
+00:25:00,238 --> 00:25:06,561
+who genetically altered him into a superhuman,
+undying, psychic being, now going only by Mr.
+
+262
+00:25:06,641 --> 00:25:11,344
+Sinister. You can learn more about Apocalypse
+in our duel episode where we pit him against
+
+263
+00:25:11,404 --> 00:25:17,908
+Black Adam. Apocalypse had Sinister create a
+plague to wipe out most of humanity, but Sinister
+
+264
+00:25:17,928 --> 00:25:23,391
+was hesitant as he figured it would hamper his
+experiments. Fearful of Apocalypse, Sinister
+
+265
+00:25:23,471 --> 00:25:29,742
+instead created a techno-virus that would infect
+Apocalypse's forcing Apocalypse to retreat
+
+266
+00:25:29,762 --> 00:25:35,625
+to his regeneration chamber for decades as he
+purged the infection. Knowing that he had created
+
+267
+00:25:35,685 --> 00:25:41,207
+an enemy out of the world's most powerful mutant,
+Sinister began working on genetically enhancing
+
+268
+00:25:41,267 --> 00:25:46,209
+his own form. He traveled the world searching
+for mutants to obtain their genetic samples
+
+269
+00:25:46,249 --> 00:25:52,212
+to aid his research and occasionally add their
+power set, such as shapeshifting, to his own.
+
+270
+00:25:52,692 --> 00:25:57,058
+Sinister worked alongside the high evolutionary
+for a time. whom you can learn more about in
+
+271
+00:25:57,078 --> 00:26:01,859
+his duel against Despero, and he worked as a
+Nazi scientist where he was given free rein
+
+272
+00:26:01,899 --> 00:26:08,061
+to experiment on any prisoner he desired. This
+earned the enmity of Magneto, who was a prisoner
+
+273
+00:26:08,141 --> 00:26:12,843
+at Auschwitz and whom you can learn more about
+in his duel against Sinestro. With the Nazis
+
+274
+00:26:12,863 --> 00:26:18,004
+defeated and Sinister's labs shut down by Captain
+America and Nick Fury's howling commandos,
+
+275
+00:26:18,484 --> 00:26:23,606
+he set about finding another way to protect
+himself from apocalypse. Eventually, Sinister
+
+276
+00:26:23,646 --> 00:26:28,549
+set up orphanages where he would seek out young
+mutants to manipulate, and found the perfect
+
+277
+00:26:28,609 --> 00:26:34,553
+candidate in Scott and Alex Summers, the boys
+who would grow up to become Cyclops and Havoc
+
+278
+00:26:34,613 --> 00:26:40,677
+respectively. He separated the brothers to isolate
+and study Scott's genetics, theorizing that
+
+279
+00:26:40,717 --> 00:26:46,000
+the offspring between him and another young
+mutant named Jean Grey would be powerful enough
+
+280
+00:26:46,040 --> 00:26:51,511
+to challenge apocalypse himself. Sinister planned
+to kidnap young Jean Grey, sensing her vast
+
+281
+00:26:51,551 --> 00:26:57,255
+psychic potential, but the child was discovered
+and mentored first by Professor Charles Xavier,
+
+282
+00:26:57,375 --> 00:27:02,958
+whom Sinister knew to steer clear of. Coincidentally
+however, both Scott and Jean were eventually
+
+283
+00:27:02,998 --> 00:27:07,501
+recruited into Professor X's school for the
+gifted, and Sinister's secret plan was set
+
+284
+00:27:07,561 --> 00:27:12,623
+into motion. You can learn more about this in
+our Negative Man vs Cyclops duel, our Raven
+
+285
+00:27:12,664 --> 00:27:18,234
+vs Phoenix duel, and our Chief vs Professor
+X duel. When it later appeared as if Jean Grey
+
+286
+00:27:18,294 --> 00:27:24,236
+died during an X-Men mission in space, Sinister
+used a genetic sample he had to produce a clone
+
+287
+00:27:24,256 --> 00:27:30,538
+of her, which he named Madeline Pryor. He psychically
+brainwashed her into loving Cyclops and arranged
+
+288
+00:27:30,578 --> 00:27:35,799
+for the two to meet. Sinister's plan worked,
+and the couple wed and became pregnant with
+
+289
+00:27:35,839 --> 00:27:41,281
+a son named Nathan. Meanwhile, in an effort
+to ensure the mutant gene pool remained strong
+
+290
+00:27:41,441 --> 00:27:47,463
+and without defects he deemed as lesser, Sinister
+ordered his newest team of Marauders to massacre
+
+291
+00:27:47,603 --> 00:27:53,045
+a group of mutant outcasts that had been living
+in the sewers in fear of humanity. The X-Men
+
+292
+00:27:53,085 --> 00:27:58,167
+tried to stop this mass murder, but suffered
+heavy casualties in the process, including
+
+293
+00:27:58,227 --> 00:28:04,370
+the Mutant Angel, whom you can learn more about
+in our Zereal vs Archangel episode. Eventually,
+
+294
+00:28:04,530 --> 00:28:10,152
+Jean Grey was revealed to still be alive, prompting
+Sinister to try to kill her clone, Madeline
+
+295
+00:28:10,192 --> 00:28:15,554
+Pryor, before the secret behind her creation
+was revealed. Though the X-Men managed to save
+
+296
+00:28:15,594 --> 00:28:21,276
+Madeline, Sinister was successful in kidnapping
+Baby Nathan for a time, planning to train him
+
+297
+00:28:21,516 --> 00:28:26,898
+against Apocalypse. However, Cyclops was able
+to rescue his son by destroying Sinister with
+
+298
+00:28:26,938 --> 00:28:31,819
+a massive optic blast that the villain was only
+able to survive thanks to his highly malleable
+
+299
+00:28:31,959 --> 00:28:37,641
+and regenerative form. Soon after, Apocalypse
+returned. Upon learning of Sinister's plan
+
+300
+00:28:37,661 --> 00:28:43,331
+for Cyclops' son, Apocalypse infected the baby
+with a techno-organic virus that would consume
+
+301
+00:28:43,371 --> 00:28:48,633
+his body with cybernetics and kill him, prompting
+Cyclops and Jean Grey to send the child into
+
+302
+00:28:48,653 --> 00:28:53,935
+the future where he could be cared for, a timeline
+where Apocalypse ruled and where Nathan was
+
+303
+00:28:53,995 --> 00:28:59,398
+prophesied to defeat him. Eventually, Nathan
+would return to the present as the mutant soldier
+
+304
+00:28:59,438 --> 00:29:04,140
+hero Cable, whom you can learn more about in
+our Booster Gold vs. Cable duel episode.
+
+305
+00:29:09,266 --> 00:29:13,807
+offering to give him Cyclops and Jean Grey in
+exchange for Strife getting him the future
+
+306
+00:29:13,847 --> 00:29:19,608
+genetic material of the Summers family. Sinister
+double-crossed Strife by leading the X-Men
+
+307
+00:29:19,648 --> 00:29:24,490
+to him, however he was also betrayed as the
+canister that was supposed to contain the genetic
+
+308
+00:29:24,530 --> 00:29:30,472
+samples actually contained the Legacy Virus,
+a pathogen that was released into the atmosphere
+
+309
+00:29:30,772 --> 00:29:36,473
+that was fatal to mutants. Seeing the virus
+as detrimental to his work, he went about studying
+
+310
+00:29:36,553 --> 00:29:40,954
+it to find a cure. and though the solution would
+ultimately be discovered by the X-Men member
+
+311
+00:29:40,994 --> 00:29:46,836
+Beast, Sinister's research did assist him. With
+the mutant population having dwindled in the
+
+312
+00:29:46,896 --> 00:29:52,218
+wake of the legacy virus, Sinister's pool of
+test subjects was running low, leading him
+
+313
+00:29:52,238 --> 00:29:58,140
+to create a formula that would spontaneously
+induce mutation in humans. This was opposed
+
+314
+00:29:58,160 --> 00:30:02,801
+by the X-Men members Bishop and Gambit, who
+destroyed Sinister's laboratory and research.
+
+315
+00:30:03,462 --> 00:30:07,783
+After the events of Emde, when the Scarlet Witch
+depowered most of the world's mutants in a
+
+316
+00:30:07,863 --> 00:30:14,126
+fit of madness, Sinister found his entire cause
+destroyed. The first new mutant child to be
+
+317
+00:30:14,186 --> 00:30:20,629
+born after Emde was sought after by many groups,
+seeking to kill, use, or experiment on her,
+
+318
+00:30:21,129 --> 00:30:26,612
+Sinister being one of the latter. He reformed
+the Marauders to seize the child, and though
+
+319
+00:30:26,632 --> 00:30:32,386
+they were successful, Sinister was killed by
+Mystique who also sought her. In the end, Cable
+
+320
+00:30:32,426 --> 00:30:36,927
+was able to rescue the firstborn mutant and
+took her into the future, naming her Hope.
+
+321
+00:30:37,407 --> 00:30:42,769
+Sinister had a plethora of fail-safes for death,
+however, including a vast legion of his own
+
+322
+00:30:42,829 --> 00:30:48,090
+genetic clones for his mind to possess. He and
+his clones created in the underground city
+
+323
+00:30:48,170 --> 00:30:54,292
+in Alaska, inspired by 19th century London,
+from where he attempted to manipulate the returning
+
+324
+00:30:54,452 --> 00:30:59,793
+Phoenix Force, which had possessed a group of
+mutants including Cyclops, Emma Frost, the
+
+325
+00:30:59,853 --> 00:31:06,423
+Sub-Mariner, magic and colossus. Despite Sinister's
+efforts to transfer the power into five Jean
+
+326
+00:31:06,463 --> 00:31:12,148
+Grey clones that he could control, the Phoenix
+V incinerated his city and the Phoenix's power
+
+327
+00:31:12,248 --> 00:31:16,852
+would eventually be used by Hope to restore
+the mutant abilities of those who lost them
+
+328
+00:31:17,112 --> 00:31:22,757
+on M-Day. During a battle with Thanos, the hero
+Blackbolt released the Terragen mists into
+
+329
+00:31:22,797 --> 00:31:27,962
+the atmosphere, an event you can learn more
+about in our Shazam vs Blackbolt episode. These
+
+330
+00:31:28,062 --> 00:31:33,464
+mists, though they induced change in inhumans,
+proved to be fatal to mutants that were exposed
+
+331
+00:31:33,504 --> 00:31:39,827
+to them. This inspired Sinister to capture inhumans
+and mutants to combine their DNA. Those efforts
+
+332
+00:31:39,907 --> 00:31:45,229
+were discovered and stopped by the X-Men. When
+Professor X and Magneto founded a new mutant
+
+333
+00:31:45,269 --> 00:31:50,991
+paradise nation on the Sentient Island of Krakoa,
+they developed a means of mutant resurrection
+
+334
+00:31:51,251 --> 00:31:57,298
+using a combination of mutant powers, including
+mass generation, reality warping, manipulation,
+
+335
+00:31:57,538 --> 00:32:03,562
+and genetic and psychic archiving. Since Sinister
+had a database of DNA from nearly every mutant
+
+336
+00:32:03,622 --> 00:32:09,425
+who ever existed, Professor X approached him
+to request access to it. Sinister initially
+
+337
+00:32:09,465 --> 00:32:14,468
+declined, but the Professor, being the more
+powerful psychic, repressed Sinister's memory
+
+338
+00:32:14,628 --> 00:32:19,110
+of their meeting so that he would give Krakoa
+the access it needed without him ever knowing
+
+339
+00:32:19,190 --> 00:32:24,673
+it. In exchange, Professor X and Magneto asked
+Sinister to join their head council of government,
+
+340
+00:32:24,926 --> 00:32:30,729
+over the island and mutant affairs. Sinister
+used his position to secretly implant a portion
+
+341
+00:32:30,789 --> 00:32:36,652
+of his own DNA into every resurrected mutant,
+planning on eventually transforming every mutant
+
+342
+00:32:36,712 --> 00:32:42,936
+into a clone of himself. Eventually he was successful,
+leading to a timeline where he had subjugated
+
+343
+00:32:42,996 --> 00:32:49,359
+the entire planet and eventually the galaxy,
+ruling for a horrific 1000 years as he attempted
+
+344
+00:32:49,399 --> 00:32:55,242
+to evolve into godhood. However, that timeline
+was eventually reset. and Sinister was exiled
+
+345
+00:32:55,322 --> 00:33:01,066
+into the pit of Krakoa for eternity for his
+deeds. And that's his backstory. Powers-wise,
+
+346
+00:33:01,206 --> 00:33:06,829
+Mr. Sinister is a human mutate with genetic
+enhancements given to him by apocalypse. These
+
+347
+00:33:06,849 --> 00:33:12,232
+include the psychic abilities of telepathy and
+telekinesis, which allow him access to opponents'
+
+348
+00:33:12,292 --> 00:33:17,375
+minds within moderate proximity wherein he can
+read their minds, psychically communicate with
+
+349
+00:33:17,415 --> 00:33:24,007
+them, sedate them, erase them, alter them, and
+control them. He can emit psychic blasts that
+
+350
+00:33:24,047 --> 00:33:29,731
+cause mental pain, as well as erect psychic
+defenses to protect his own mind. He can also
+
+351
+00:33:29,771 --> 00:33:34,434
+project his consciousness into others, which
+he commonly does to escape death. With his
+
+352
+00:33:34,494 --> 00:33:39,378
+telekinetic abilities, Mr. Sinister can project
+a psychokinetic force that allows him to levitate
+
+353
+00:33:39,418 --> 00:33:45,662
+himself or other objects. With this, he can
+also generate concussive blasts or force fields.
+
+354
+00:33:46,163 --> 00:33:50,818
+Having incorporated the powers of other mutants
+he has encountered over the decades, Sinister
+
+355
+00:33:50,998 --> 00:33:55,640
+also has the ability to shape shift and has
+complete control over every molecule in his
+
+356
+00:33:55,700 --> 00:34:01,884
+body. This not only makes him virtually indestructible
+or permeable, but it also gives him a regenerative
+
+357
+00:34:01,924 --> 00:34:07,367
+healing factor and makes him a master of disguise.
+Sinister also acquired physical enhancements
+
+358
+00:34:07,467 --> 00:34:13,470
+including strength, able to lift 10 tons, enhanced
+durability, and speed. He's one of the most
+
+359
+00:34:13,530 --> 00:34:19,353
+intelligent minds on Earth as a genius level
+scientist in biology, chemistry, and psychology.
+
+360
+00:34:19,854 --> 00:34:24,095
+He's highly adept in the fields of mechanics
+and engineering, having developed a number
+
+361
+00:34:24,155 --> 00:34:28,956
+of inventions in his fortress to aid him in
+his research, such as genetic transfer machines
+
+362
+00:34:29,196 --> 00:34:35,178
+and teleportation devices. And that's Sinister.
+Oh, you think Sinister's smart, huh? Ultra-Humanite
+
+363
+00:34:35,218 --> 00:34:41,240
+has actually been said to be the smartest being
+on Earth in the DC Comics universe. Smarter
+
+364
+00:34:41,260 --> 00:34:46,501
+than Lex Luthor, smarter than Batman. He is
+the smartest. And yet he's basically achieved
+
+365
+00:34:46,621 --> 00:34:53,669
+nothing. What? Hence his obscurity. He has achieved
+plenty. Let me get into it. For reasons unknown,
+
+366
+00:34:54,029 --> 00:35:00,074
+Gerard Schuegel was born with an advanced intellect
+and a degenerative disease that caused him
+
+367
+00:35:00,094 --> 00:35:05,317
+to age rapidly. Though he came to believe his
+body was unable to cope with the vast amount
+
+368
+00:35:05,377 --> 00:35:11,502
+of energy his brain required. By the time Gerard
+was a young man, he resembled an elderly man
+
+369
+00:35:11,762 --> 00:35:16,685
+and was confined to a wheelchair, forced to
+experiment on himself in order to survive.
+
+370
+00:35:17,026 --> 00:35:22,611
+which further boosted his intellect. Angered
+by his predicament, Gerard began devising plans
+
+371
+00:35:22,671 --> 00:35:28,296
+to conquer and rule the planet as the villain,
+Ultra Humanite, battling Superman from behind
+
+372
+00:35:28,336 --> 00:35:33,981
+the scenes with experimental weaponry, vehicles,
+and plagues. You can learn more about Superman
+
+373
+00:35:34,421 --> 00:35:40,527
+in our Superman versus Dr. Doom episode. After
+an attempt to hypnotize Superman failed, Ultra
+
+374
+00:35:40,567 --> 00:35:45,786
+Humanite attempted to shoot Superman with a
+laser cannon. only for Superman to pull Ultra
+
+375
+00:35:45,946 --> 00:35:51,909
+into the Fire Inc path. Though Ultra seemingly
+died, he had arranged for his brain to be placed
+
+376
+00:35:51,989 --> 00:35:58,432
+into a kidnapped actress named Dolores Winters
+to avoid any suspicion for his continued criminal
+
+377
+00:35:58,512 --> 00:36:04,894
+activities. While in this form, Ultra battled
+the All-Star Squadron during World War II using
+
+378
+00:36:04,974 --> 00:36:10,356
+a power-boosting gemstone known as the Power
+Stone to bestow powers to several villains,
+
+379
+00:36:10,697 --> 00:36:17,915
+including Amazing and Death Bolt. Ultra's future
+self also aided in his villainous campaign
+
+380
+00:36:18,235 --> 00:36:23,996
+to extort the US for millions of dollars by
+sending a brainwashed Infinity Inc., a team
+
+381
+00:36:24,037 --> 00:36:28,938
+largely composed of the superpowered children
+of the Justice Society of America, and members
+
+382
+00:36:28,978 --> 00:36:34,139
+of the Seeker Society of Super-Villains back
+in time to battle the Squadron. Ultimately,
+
+383
+00:36:34,519 --> 00:36:39,821
+Amazing Band and Cyclotron turned against the
+Ultra-Humanite who made them and seemingly
+
+384
+00:36:39,881 --> 00:36:46,243
+killed him, or her as Dolores. Ultrahumanite's
+mind survived, however, trapped within the
+
+385
+00:36:46,283 --> 00:36:52,364
+mind of Dolores Winters, who was revealed to
+have cancer and was hospitalized. Eventually,
+
+386
+00:36:52,404 --> 00:36:58,786
+the time-traveling villain Perdigaton and Despero
+found Ultrahumanite and kidnapped Dolores from
+
+387
+00:36:58,826 --> 00:37:04,908
+the hospital, allowing Ultrahumanite to transfer
+his mind into a genetically mutated albino
+
+388
+00:37:04,948 --> 00:37:10,502
+gorilla from Gorilla City, which possessed the
+strength to house his mind. while also giving
+
+389
+00:37:10,542 --> 00:37:15,803
+him a formidable physical form as well. You
+can learn more about Gorilla City in our Gorilla
+
+390
+00:37:15,843 --> 00:37:21,545
+Grodd vs Psylocke episode. For a time, Ultra
+Humanite traveled through time with Perdegaton,
+
+391
+00:37:21,645 --> 00:37:27,167
+Despero, and Mr. Mind, among other villains,
+forming a group known as the Time Steelers,
+
+392
+00:37:27,527 --> 00:37:32,509
+though they were eventually defeated by Booster
+Gold and the Blue Beetle Ted Kord and sent
+
+393
+00:37:32,549 --> 00:37:37,963
+back to their original timelines. Back in his
+timeline, Ultra formed the Seeker Society of
+
+394
+00:37:38,023 --> 00:37:43,148
+Super-Villains, which battled the Justice League
+and Justice Society before being banished to
+
+395
+00:37:43,188 --> 00:37:49,073
+an interdimensional limbo. The Ultra was rescued
+from this fate with the help of his past, Dolores
+
+396
+00:37:49,113 --> 00:37:54,057
+Winter, self. The two versions of the Ultra-Humanites
+teamed up to stop the All-Star Squadron in
+
+397
+00:37:54,097 --> 00:37:59,962
+the past, though the Ape Ultra ultimately fell
+at the hands of Infinity Inc. Ultra-Humanite
+
+398
+00:38:00,022 --> 00:38:05,918
+eventually became the chief antagonist of the
+Justice Society of America. After several battles,
+
+399
+00:38:06,278 --> 00:38:11,639
+Ultra secretly took over the body of retired
+JSA member Johnny Thunder, who you can learn
+
+400
+00:38:11,679 --> 00:38:16,941
+more about in our Jekim Thunder vs Wiccan duel
+episode. With the power of Johnny Thunder's
+
+401
+00:38:17,021 --> 00:38:23,203
+5th dimensional genie under his control, Ultra
+Humanite took over the planet, becoming a dictator,
+
+402
+00:38:23,563 --> 00:38:29,304
+placing a majority of Earth's heroes under suspended
+animation and forming new futuristic cities.
+
+403
+00:38:29,824 --> 00:38:35,371
+With help from a time traveling hour man, however,
+Ultra Humanite lost his connection to the Thunderbolt,
+
+404
+00:38:35,891 --> 00:38:40,655
+and in his human form was shot through the brain
+by the Crimson Avenger. You can learn more
+
+405
+00:38:40,675 --> 00:38:46,840
+about our man in his duel against Bishop of
+the X-Men. Ultrahumanite's mind survived, however,
+
+406
+00:38:47,000 --> 00:38:52,825
+within a stolen copy of a helmet worn by Mento,
+a former psychic member of the Doom Patrol,
+
+407
+00:38:53,005 --> 00:38:59,511
+and he eventually became a recurring foe of
+Power Girl, aka Karen Starr, who seemingly
+
+408
+00:38:59,571 --> 00:39:05,991
+helped reform Ultrahumanite by helping clone
+young and sustainable version of his Gerard
+
+409
+00:39:06,011 --> 00:39:12,135
+Shugal body. In post-Flashpoint continuity,
+for a time, Ultra Humanite was reimagined as
+
+410
+00:39:12,175 --> 00:39:17,098
+an alien shapeshifting prisoner of the Phantom
+Zone capable of feeding on the emotions of
+
+411
+00:39:17,238 --> 00:39:22,481
+others, though this was retconned and Ultra
+Humanite returned to his albino gorilla form.
+
+412
+00:39:22,941 --> 00:39:28,344
+It was revealed that Gerard Shugal had a daughter
+named Laura, a criminal scientist who married
+
+413
+00:39:28,404 --> 00:39:33,756
+a fellow scientist named Winston Shen. both
+of whom aided the Ultra-Humanite in his villainous
+
+414
+00:39:33,796 --> 00:39:39,380
+endeavors. Fifteen years ago, the Ultra-Humanite
+attempted to open a portal to the Phantom Zone,
+
+415
+00:39:39,481 --> 00:39:43,764
+where he knew the Monkey King was trapped, in
+an effort to force him to be his henchman.
+
+416
+00:39:44,144 --> 00:39:48,628
+Though Ultra's plan was foiled by the Justice
+League, one of the Monkey King's hairs escaped
+
+417
+00:39:48,688 --> 00:39:53,712
+the Phantom Zone disguised as a baby, who was
+adopted by Laura and Winston, and eventually
+
+418
+00:39:53,732 --> 00:39:58,536
+became the hero, the Monkey Prince, who you
+can learn more about in our Monkey Prince vs.
+
+419
+00:39:58,616 --> 00:40:04,500
+Mantis duel episode. Ultra later teamed up with
+Gorilla Grodd and Monsieur Malat to take over
+
+420
+00:40:04,520 --> 00:40:09,723
+the cities of Bloodhaven and Gorilla City, who
+the Monkey Prince and Detective Chimp teamed
+
+421
+00:40:09,823 --> 00:40:15,666
+up to stop them. And that's Ultra Humanite's
+backstory so far. Powers-wise, Ultra Humanite's
+
+422
+00:40:15,706 --> 00:40:21,629
+powerful psychic mind grants him telepathy and
+telekinesis, and his genius-level intellect
+
+423
+00:40:21,889 --> 00:40:28,052
+allows him to create advanced technology, including
+weaponry such as laser cannons, portal generators,
+
+424
+00:40:28,393 --> 00:40:34,404
+and pain-inducing nanites. but also body switching
+tech, which has allowed his brain to inhabit
+
+425
+00:40:34,424 --> 00:40:40,347
+the form of a genetically enhanced gorilla,
+granting him enhanced strength, speed, agility,
+
+426
+00:40:40,627 --> 00:40:46,470
+and durability. Ultrahumanite has also proven
+extremely difficult to kill due to his ability
+
+427
+00:40:46,530 --> 00:40:52,293
+to transfer his consciousness, sometimes just
+via his telepathy alone, into others or one
+
+428
+00:40:52,334 --> 00:40:56,996
+of his genetically enhanced gorilla clones.
+And that's the ultrahumanite. Literally what
+
+429
+00:40:57,016 --> 00:41:02,587
+makes this guy any different from Gorilla Grodd?
+He's a lot smarter than Gorilla Grodd. They
+
+430
+00:41:02,627 --> 00:41:07,869
+both have telepathy and telekinesis, but Ultra
+Humanite tends to bring advanced weaponry and
+
+431
+00:41:07,889 --> 00:41:14,131
+firepower. Doesn't Gorilla Grodd also use advanced
+tech in his battles? Yeah, I guess. I'm just
+
+432
+00:41:14,171 --> 00:41:17,913
+trying to understand why you even need Ultra
+Humanite in the DC universe if you already
+
+433
+00:41:17,933 --> 00:41:23,635
+have Grodd. The characters seem way too similar
+for them to both exist. I think if it came
+
+434
+00:41:23,695 --> 00:41:29,677
+down to it, Ultra Humanite would stomp Gorilla
+Grodd though, because he's just way smarter.
+
+435
+00:41:30,434 --> 00:41:34,118
+This Gorilla Garage copy is going down, that's
+all I know. There's no way he's gonna stand
+
+436
+00:41:34,158 --> 00:41:38,803
+a chance against Mr. Sinister. Okay, well what
+do you know? You sound extremely confident
+
+437
+00:41:38,843 --> 00:41:44,209
+for someone whose character is about to get
+their ass beat. We shall see.
+
+438
+00:41:51,438 --> 00:41:57,104
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+439
+00:41:57,124 --> 00:42:02,851
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+440
+00:42:02,911 --> 00:42:08,598
+Dynomic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+441
+00:42:11,642 --> 00:42:17,345
+Smash every Tuesday, Max Destruction, where
+TV and action heroes battle every Wednesday,
+
+442
+00:42:17,905 --> 00:42:23,828
+and Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+443
+00:42:23,848 --> 00:42:29,551
+the matches and, armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+444
+00:42:30,071 --> 00:42:34,353
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+445
+00:42:38,666 --> 00:42:42,467
+Now that we've got their histories and abilities
+out of the way, let's speculate on how one
+
+446
+00:42:42,507 --> 00:42:48,870
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not this speculation,
+
+447
+00:42:49,010 --> 00:42:55,052
+but it's fun to imagine how this fight could
+play out. AJ9K, what are the rules of our speculation?
+
+448
+00:42:55,913 --> 00:42:59,914
+Well, I should say there are no rules, other
+than the characters have no prior knowledge
+
+449
+00:42:59,934 --> 00:43:04,336
+of the other going into the fight. All they
+are aware of starting out is that the other
+
+450
+00:43:04,376 --> 00:43:09,442
+character is a threat that needs to be eliminated.
+For the speculation... contestants will begin
+
+451
+00:43:09,482 --> 00:43:14,546
+approximately 50 meters apart in a nondescript
+environment that will have no bearing on the
+
+452
+00:43:14,586 --> 00:43:19,931
+match itself, as no environmental statistics
+are considered in my simulations. The contestants
+
+453
+00:43:19,971 --> 00:43:24,975
+must earn victory on their own merit." Alright
+then let's get into it. Ultra Humanite and
+
+454
+00:43:25,015 --> 00:43:29,959
+Mr. Sinister meet on the battlefield. Who goes
+first? I feel like it's hard to say who would
+
+455
+00:43:29,999 --> 00:43:36,604
+go first since they both seem so calculating.
+But I think Ultra Humanite is like, you know,
+
+456
+00:43:36,644 --> 00:43:42,403
+he's an 800 pound mass. of genetically enhanced
+gorilla badassery. So I'm going to say he goes
+
+457
+00:43:42,463 --> 00:43:49,865
+first and he's going to start by straight up
+charging Mr. Sinister during which he activates
+
+458
+00:43:50,045 --> 00:43:56,847
+a gadget that encases him in an energy field
+as he rolls into Mr. Sinister Donkey Kong style,
+
+459
+00:43:57,308 --> 00:44:04,274
+just crashing into him and vaporizing him on
+contact. What is he like Blanka? Exactly. Okay,
+
+460
+00:44:04,974 --> 00:44:09,195
+um, but Mr. Sinister is going to throw up a
+telekinetic force field and Ultra Humanite
+
+461
+00:44:09,215 --> 00:44:14,456
+just bounces off of that. So yeah, he doesn't
+get hit. Okay. But, you know, he's an agile
+
+462
+00:44:14,496 --> 00:44:21,038
+gorilla. So without missing a beat, Ultra Humanite
+is going to land on the ground and fling his
+
+463
+00:44:21,198 --> 00:44:27,300
+gadget at Mr. Sinister, using it to trap him
+in an energy bubble, at which point he's going
+
+464
+00:44:27,320 --> 00:44:32,501
+to pull out a remote that's going to allow him
+to zap Mr. Sinister with millions of volts
+
+465
+00:44:32,521 --> 00:44:38,127
+of electricity. while in that bubble. That's
+a pretty good starting move. Maybe I shouldn't
+
+466
+00:44:38,147 --> 00:44:43,809
+have called him a Grilla Grot copy. Yeah, yeah,
+maybe shouldn't have. Okay, so Sinister is
+
+467
+00:44:43,849 --> 00:44:50,451
+stuck in this energy sphere and he's being electrocuted.
+I'm gonna say he just reaches out telepathically
+
+468
+00:44:50,511 --> 00:44:55,832
+to mentally force Ultra Humanite to depower
+the energy field. No, that's not gonna work.
+
+469
+00:44:56,172 --> 00:45:01,442
+Mr. Sinister is gonna try to mind control Ultra
+Humanite. and you know he's only gonna end
+
+470
+00:45:01,502 --> 00:45:08,365
+up with searing brain pain because of Ultra's
+telepathic shielding. Okay, so then he reaches
+
+471
+00:45:08,425 --> 00:45:13,367
+out telekinetically then and he shoots out this
+powerful concussive force blast from his hands
+
+472
+00:45:13,707 --> 00:45:19,630
+that smashes Ultra Humanite's energy field device
+and it's also gonna send the Big Ape just flying
+
+473
+00:45:19,670 --> 00:45:25,092
+backward. So Mr. Sinister is free from the energy
+field now and I think he's probably gonna want
+
+474
+00:45:25,112 --> 00:45:30,707
+to get his genetic sample of Ultra Humanite.
+so that he can study him after the match. So
+
+475
+00:45:30,747 --> 00:45:36,409
+he's going for blood, you know? He's gonna reach
+his hands down toward the ground and just telekinetically
+
+476
+00:45:36,589 --> 00:45:42,252
+break the floor apart in a small circle around
+him. And he's gonna lift some of that debris
+
+477
+00:45:42,432 --> 00:45:48,174
+as small shards that he just launches at Ultra
+Humanite and they slash through him and just
+
+478
+00:45:48,194 --> 00:45:54,297
+spill his blood onto the battlefield. I mean,
+that would have to be some very sharp stone
+
+479
+00:45:54,337 --> 00:45:58,975
+shrapnel. Like, Ultra Humanite's durable enough
+to take blows from Superman and Power Girl.
+
+480
+00:45:59,335 --> 00:46:05,398
+They're sharp. They're sharp. Okay. Alright,
+uh, so Ultra, you know, he gets tagged by a
+
+481
+00:46:05,438 --> 00:46:12,021
+few sharp pebbles, I guess. Big whoop. He's
+gonna respond by whooping out this huge-ass
+
+482
+00:46:12,201 --> 00:46:19,384
+laser cannon, and he's gonna fire, like, a massive
+disintegration beam at Mr. Sinister, just disintegrating
+
+483
+00:46:19,424 --> 00:46:23,798
+him. No, the laser beam just goes through Mr.
+Sinister. It, like, it, like... permeates him
+
+484
+00:46:23,938 --> 00:46:29,103
+like if he were made out of liquid, you know,
+and the hole that it creates in Mr. Sinister's
+
+485
+00:46:29,223 --> 00:46:36,489
+chest just seals immediately once the laser
+stops and at that point Mr. Sinister is gonna
+
+486
+00:46:36,509 --> 00:46:42,054
+throw out this device that looks like a red
+ruby thing and it floats midair before opening
+
+487
+00:46:42,154 --> 00:46:48,980
+up to expel several like red and black blobs
+is what it looks like but those take shape
+
+488
+00:46:49,320 --> 00:46:54,475
+as Mr. Sinister clones. So now there's like
+four Mr. Sinisters on the battlefield. What?
+
+489
+00:46:54,816 --> 00:46:59,378
+And they're all gonna smile like really creepily
+at Ultra Humanite with their black eyes and
+
+490
+00:46:59,418 --> 00:47:04,161
+sharp teeth, you know? Uh, and then at that
+point, they're all just gonna simultaneously
+
+491
+00:47:04,281 --> 00:47:08,924
+blast Ultra Humanite with lasers from their
+foreheads. So like Ultra Humanite's getting
+
+492
+00:47:08,944 --> 00:47:14,847
+hit from all directions now. And Ultra Humanite's
+probably like, what the shit? So as he's, you
+
+493
+00:47:14,867 --> 00:47:20,518
+know, getting blasted, that's when he quickly
+pushes a button on his suit. and that's going
+
+494
+00:47:20,558 --> 00:47:26,981
+to instantly inflate a mini like zeppelin like
+vessel, like a blimp around him. And so he's
+
+495
+00:47:27,001 --> 00:47:32,825
+going to rise into the air with shielding that
+blocks the lasers. So while he's in the ship,
+
+496
+00:47:32,845 --> 00:47:37,627
+you know, trying to buy all these buttons, he's
+going to hit one of them and the zeppelin is
+
+497
+00:47:37,667 --> 00:47:43,591
+going to emit a purple gas and it's going to
+spew out of its ventilation. And the sinister
+
+498
+00:47:43,611 --> 00:47:48,173
+clones are going to breathe that in and it's
+going to start breaking down their bodies.
+
+499
+00:47:48,213 --> 00:47:54,270
+They just start falling apart from this purple
+plague. A zeppelin? Yeah. That seems very not
+
+500
+00:47:54,350 --> 00:48:02,956
+high tech. It's a very high tech blimp. Okay.
+So the sinister clones get poisoned. Maybe
+
+501
+00:48:03,036 --> 00:48:08,120
+only one of them falls apart due to this purple
+gas, but the gas actually gets blown away by
+
+502
+00:48:08,200 --> 00:48:12,883
+one of the other clones who transforms his arms
+into like this giant paddle that just fans
+
+503
+00:48:12,903 --> 00:48:18,226
+the gas away from them. And then the other clone.
+He's gonna fly up to the zeppelin. He just
+
+504
+00:48:18,326 --> 00:48:23,649
+rips that thing open by turning his hand into
+a sword and flying across it. And while that's
+
+505
+00:48:23,689 --> 00:48:29,951
+all happening, the real Mr. Sinister, he's going
+to collect the blood sample from ultra humanite
+
+506
+00:48:29,971 --> 00:48:35,434
+that's on the ground. And he's going to mix
+it in this glass vial that he then loads into
+
+507
+00:48:35,654 --> 00:48:42,397
+an injection gun. Okay. Well, okay. So Ultra's
+ship is going down. So he's going to eject
+
+508
+00:48:42,517 --> 00:48:48,787
+out of it armed with a. Nanite dart launcher
+that looks like a high tech crossbow and he's
+
+509
+00:48:48,807 --> 00:48:54,690
+going to fire a dart at the sword wielding sinister
+clone And it's going to penetrate him and just
+
+510
+00:48:54,750 --> 00:49:01,672
+explode him from within at which point the dart
+is then going to track the fan wielding sinister
+
+511
+00:49:02,193 --> 00:49:08,115
+zip into him and blow him up too and Finally
+it's going to go to the real mr. Sinister and
+
+512
+00:49:08,135 --> 00:49:13,357
+blow him up. No that darts never going to reach
+mr. Sinister He just like telekinetically smacks
+
+513
+00:49:13,377 --> 00:49:18,733
+it out of the air real easy and then he's gonna
+stretch his arm over to ultra humanite once
+
+514
+00:49:18,793 --> 00:49:23,956
+the gorilla lands on the ground and he's gonna
+inject him with this injection gun dosing him
+
+515
+00:49:24,036 --> 00:49:31,461
+with this genetically modifying serum that's
+gonna basically just turn the ape into just
+
+516
+00:49:31,481 --> 00:49:36,845
+a regular old ape, you know, without like psychic
+powers or anything so the ape is just gonna
+
+517
+00:49:36,905 --> 00:49:42,349
+stand there scratching his butt or whatever
+and at which point Mr. Sinister telepathically
+
+518
+00:49:42,409 --> 00:49:48,420
+erases his brain killing him and then he's gonna
+experiment on the body match over wait so he
+
+519
+00:49:48,481 --> 00:49:56,006
+kills an innocent monkey like humanely he wipes
+his mind it's humane it's fine okay not that
+
+520
+00:49:56,046 --> 00:50:02,390
+mr. sinister would care about that that's probably
+fair um but removing the genetic modifications
+
+521
+00:50:02,590 --> 00:50:10,619
+to Ultra's eighth body would not eliminate Ultra's
+powerful mind It would probably cause his eighth
+
+522
+00:50:10,759 --> 00:50:16,201
+body to age rapidly because it can't contain
+his mind. So, you know, Ultra realizes that
+
+523
+00:50:16,241 --> 00:50:20,923
+he's going to need to abandon this body. And
+so he's going to smash open a tiny capsule
+
+524
+00:50:20,963 --> 00:50:26,966
+on the ground before his body completely withers.
+At which point, a tiny ant that was within
+
+525
+00:50:26,986 --> 00:50:32,808
+the capsule rapidly grows to human size. And
+it's equipped with a headband that allows Ultra
+
+526
+00:50:33,088 --> 00:50:39,700
+to psychically transfer his mind into it. And
+this ant is also strapped with an ice cannon
+
+527
+00:50:40,301 --> 00:50:46,065
+that Ultra uses to freeze Mr. Sinister before
+telekinetically just slamming him into the
+
+528
+00:50:46,085 --> 00:50:52,430
+ground and causing his body to shatter into
+thousands of pieces, like T-1000 style, match
+
+529
+00:50:52,510 --> 00:50:58,575
+over. What is he, Ant-Man? Where'd the ant come
+from? He's been an ant in the comics before.
+
+530
+00:50:58,935 --> 00:51:04,127
+Really? Yeah. That's stupid. I mean, he can't
+transfer his mind if he doesn't have psychic
+
+531
+00:51:04,167 --> 00:51:10,170
+powers. The serum that he was injected with
+removed his psychic powers. Dude, how the psychic
+
+532
+00:51:10,190 --> 00:51:16,293
+powers aren't linked to the Apes genetic enhancements?
+Because I said so. That's how it was a power
+
+533
+00:51:16,353 --> 00:51:22,536
+negating formula. All powers are gone. All right.
+Well, that's probably a good place to leave
+
+534
+00:51:22,596 --> 00:51:29,613
+it either. Mr. Sinister. removed all of Ultra
+Humanite's powers including his mental powers,
+
+535
+00:51:29,793 --> 00:51:36,038
+preventing him from transferring minds before
+dying. Or in a more badass version, Ultra Humanite
+
+536
+00:51:36,059 --> 00:51:41,963
+becomes an ice cannon wielding ant that just
+shatters Mr. Sinister. That seems more like
+
+537
+00:51:41,983 --> 00:51:47,508
+the wacky version than the badass version. It
+could be both. But we'll go ahead and leave
+
+538
+00:51:47,528 --> 00:51:51,331
+our speculation there, let's enter the stats
+and run the simulations before coming back
+
+539
+00:51:51,451 --> 00:51:59,558
+with a winner. AJ9K, hit it! Inputting data,
+running calculations, processing results, simulations
+
+540
+00:51:59,598 --> 00:52:05,543
+complete. All right, these guys are more even
+than my shit talking would have you believe.
+
+541
+00:52:05,884 --> 00:52:11,589
+On one hand, you have Mr. Sinister, who is highly
+evasive. As a matter of fact, that was the
+
+542
+00:52:11,629 --> 00:52:16,634
+biggest discrepancy between these two characters.
+You know, given the fact that Mr. Sinister
+
+543
+00:52:16,774 --> 00:52:21,202
+has complete control over every molecule in
+his body, he can make himself permeable. He
+
+544
+00:52:21,222 --> 00:52:25,845
+can make himself indestructible in addition
+to the telepathic and telekinetic shielding
+
+545
+00:52:25,885 --> 00:52:31,289
+he can generate. Yeah, Ultra Humanite has the
+shielding, but in my research I found out he
+
+546
+00:52:31,309 --> 00:52:36,552
+doesn't use it as often in his ape form as he
+did when he was like in his Dolores Winters
+
+547
+00:52:36,592 --> 00:52:42,496
+form. Because he's pretty durable and can basically
+tank hits from Superman, Power Girl, Martian
+
+548
+00:52:42,516 --> 00:52:48,681
+Manhunter. So yeah, he's definitely less evasive.
+He is slightly more durable, we said though,
+
+549
+00:52:48,921 --> 00:52:53,243
+than Mr. Sinister. Yeah, Ultra Humanite was
+able to compensate not only with durability
+
+550
+00:52:53,263 --> 00:52:59,165
+but also his strength and damage. Strength makes
+sense because Mr. Sinister is only around class
+
+551
+00:52:59,205 --> 00:53:04,948
+10 whereas Ultra Humanite can go toe to toe
+with the likes of DC's heaviest hitters, but
+
+552
+00:53:05,108 --> 00:53:10,530
+damage was interesting. Mr. Sinister doesn't
+usually employ citywide destroying methods
+
+553
+00:53:10,731 --> 00:53:14,852
+in a lot of his schemes, you know, they're a
+lot more subtle than that usually, whereas
+
+554
+00:53:14,992 --> 00:53:20,139
+Ultra Humanite seems capable of mass destruction.
+Yeah, he has no qualms about busting out huge
+
+555
+00:53:20,179 --> 00:53:24,482
+ass weapons in his battles. It's kind of his
+thing. We also said that Ultra Humanite was
+
+556
+00:53:24,542 --> 00:53:30,647
+slightly more intelligent than Mr. Sinister,
+which I thought was bullshit. I'm calling bullshit.
+
+557
+00:53:30,667 --> 00:53:35,410
+We argued so long about this, guys. And I don't
+want the Marvel guys to come at me saying like,
+
+558
+00:53:35,850 --> 00:53:40,954
+oh, you must not really know how smart Mr. Sinister
+is. Oh, I do. I know how smart Mr. Sinister
+
+559
+00:53:41,054 --> 00:53:47,342
+is. He's also the guy that wasn't able to cure
+the legacy virus where Beast did. Whereas Ultra
+
+560
+00:53:47,382 --> 00:53:53,688
+Humanite, I guess, is touted as being smarter
+than Lex Luthor. Yes. It's said he's like twice
+
+561
+00:53:53,728 --> 00:53:58,773
+as smart as Lex Luthor, who claims to be the
+smartest man on the planet. So. Well, I mean,
+
+562
+00:53:58,873 --> 00:54:04,198
+I would put Mr. Sinister at Lex Luthor's intelligence
+level easily. I just think maybe Jonathan is
+
+563
+00:54:04,258 --> 00:54:09,903
+cheating and the whole being smarter than Lex
+Luthor thing is just a statement of hyperbole
+
+564
+00:54:10,103 --> 00:54:15,462
+on behalf of the villain himself just claiming
+that. He was like the original mad scientist.
+
+565
+00:54:15,502 --> 00:54:21,984
+Like he was Lex Luthor before Lex Luthor was.
+And I mean, his feats may not be comparable
+
+566
+00:54:22,004 --> 00:54:26,965
+to Lex Luthor in terms of success, but he also
+has some pretty incredible feats on his own
+
+567
+00:54:27,225 --> 00:54:32,867
+when it comes to like his inventiveness. I guess
+we've never seen Lex Luthor transfer his mind
+
+568
+00:54:32,927 --> 00:54:38,549
+into an ant that grows and shoots an ice cannon
+or something. It's just wacky. It's wacky shit.
+
+569
+00:54:38,629 --> 00:54:43,426
+That's like Mr. Fantastic type shit. Yeah, exactly.
+In terms of versatility, like both of these
+
+570
+00:54:43,446 --> 00:54:49,028
+guys are off the charts. Mr. Sinister went accounting
+for his psychic abilities, his shape-shifting
+
+571
+00:54:49,049 --> 00:54:54,451
+abilities, his engineering abilities, the tech
+and gadgets that he brings into battle. You
+
+572
+00:54:54,471 --> 00:54:58,712
+know, he's as versatile as they come. Same thing
+with Ultra Humanite because they have a similar
+
+573
+00:54:58,752 --> 00:55:02,914
+power set. Although Ultra Humanite doesn't have
+the shape-shifting. So with all that said,
+
+574
+00:55:03,334 --> 00:55:07,836
+Jonathan, who do you think is winning this match?
+I mean Ultra Humanite, I think it's going to
+
+575
+00:55:07,856 --> 00:55:13,679
+be really close. That evasiveness stat really
+scares me. but I think Ultra Humanite is gonna
+
+576
+00:55:13,719 --> 00:55:19,464
+squeak out a win here, I hope. Well, everyone
+on Instagram thinks you're dumb. I know, well,
+
+577
+00:55:19,484 --> 00:55:24,528
+what else is new? 75% of people who took our
+poll said that Mr. Sinister was going to win.
+
+578
+00:55:25,089 --> 00:55:30,733
+And of course this is a popularity contest.
+Ultra Humanite was in the Justice League cartoon,
+
+579
+00:55:31,194 --> 00:55:35,817
+but that was in the 2000s. And I feel like our
+fan base is largely kids from the 90s. So they
+
+580
+00:55:35,837 --> 00:55:40,841
+grew up with Mr. Sinister in like the X-Men
+cartoons. Yeah, and the X-Men cartoon is back.
+
+581
+00:55:41,082 --> 00:55:44,603
+I haven't watched it yet, but I heard it's good.
+And of course, we will be reviewing it when
+
+582
+00:55:44,643 --> 00:55:47,904
+it finishes in about a month and a half here.
+But let's go ahead and get to the results of
+
+583
+00:55:47,944 --> 00:55:55,726
+this match. AG 9K, the results, please. Here
+you are, sir. The winner between Ultra Humanite
+
+584
+00:55:56,366 --> 00:56:07,209
+and Mr. Sinister is. Ultra Humanite. Yes. Yes,
+is really dumb. Fuck all the haters. It just
+
+585
+00:56:07,249 --> 00:56:13,975
+makes me think that. Maybe I don't know much
+about Ultra Humanite because he won 529 matches
+
+586
+00:56:14,095 --> 00:56:22,017
+out of the 1000 simulations whereas Mr. Sinister
+only won 47.1%. This could be a case of Jonathan
+
+587
+00:56:22,237 --> 00:56:26,899
+cheating. It probably is. Oh my gosh. Just taking
+a lesser known character and then making up
+
+588
+00:56:26,919 --> 00:56:31,300
+a bunch of bullshit about him so that he wins.
+Because no one's going to call him out on his
+
+589
+00:56:31,320 --> 00:56:34,861
+shit because no one knows if he's telling the
+truth or not. I'm not actually the one who
+
+590
+00:56:34,901 --> 00:56:41,240
+even thought of this match. goes to our executive
+producer, Mickey Math and Gian. Well, he pulls
+
+591
+00:56:41,260 --> 00:56:45,303
+the same shit too. What? He'll pick the most
+random obscure character and they'd be like,
+
+592
+00:56:45,703 --> 00:56:51,847
+oh, you didn't know? He's smarter than Lex Luthor.
+So he gets higher on the intelligence stat.
+
+593
+00:56:52,328 --> 00:56:58,352
+Stupid. I don't know what to tell you. Like
+DC characters are just better. And I feel like
+
+594
+00:56:58,372 --> 00:57:03,956
+you're slowly learning that fact. I'm sorry,
+it hurts. The truth hurts. I'm sorry. Truth
+
+595
+00:57:03,996 --> 00:57:09,955
+can also be manipulated as we saw here today,
+folks. No, no, there's one truth and that is
+
+596
+00:57:10,255 --> 00:57:18,138
+AJ 9k. We waited all this time to put Mr. Sinister
+in a duel only to have him lose against a monkey
+
+597
+00:57:18,178 --> 00:57:24,781
+who flings his own shit. I can't I can't accept
+that at all. I feel bad for you. I truly do.
+
+598
+00:57:25,241 --> 00:57:29,903
+Like just switch to Team DC already. If you
+felt that bad for me, you would change the
+
+599
+00:57:29,943 --> 00:57:33,845
+results of this match so that Mr. Sinister would
+win. I mean, I don't feel that bad for you.
+
+600
+00:57:34,305 --> 00:57:39,123
+All right. Well, that does it for this match,
+guys. Let us know what you thought about the
+
+601
+00:57:39,163 --> 00:57:45,547
+bullshit results by writing to us at dyna or
+by visiting us on Instagram, which you can
+
+602
+00:57:45,567 --> 00:57:50,810
+find a link to in our show notes or by visiting
+our website at dynamicduel.com. And on our
+
+603
+00:57:50,850 --> 00:57:55,392
+site, you could also find a link to our Patreon
+page where you could join our dynamic 2-0 tier
+
+604
+00:57:55,452 --> 00:58:00,855
+and chat with us and fellow listeners, our fantastic
+4-tier, which gets you bonus content each month,
+
+605
+00:58:01,255 --> 00:58:06,582
+our X-Force tier that makes you an executive
+producer of this podcast. or our newest tier
+
+606
+00:58:06,782 --> 00:58:11,925
+that lets you join our DynaMic podcast network.
+Please, guys, don't forget to rate our show
+
+607
+00:58:12,005 --> 00:58:16,688
+on Apple podcast, Spotify, Podchaser or on our
+website, unless you're a big Mr. Sinister fan,
+
+608
+00:58:16,868 --> 00:58:20,490
+in which case don't rate the show because you're
+probably going to give us a bad rating. But
+
+609
+00:58:20,510 --> 00:58:25,453
+all you ultra humanite fans out there, five
+stars. There's only like two of them. Come
+
+610
+00:58:25,573 --> 00:58:30,655
+on. Our next episode, guys, we actually don't
+know what our next episode is going to be because
+
+611
+00:58:30,675 --> 00:58:35,846
+we haven't had our monthly executive producer
+meeting yet. That'll happen. this Saturday,
+
+612
+00:58:36,006 --> 00:58:41,108
+March 30th, at which point we'll be discussing
+the April calendar. And at that point, we'll
+
+613
+00:58:41,128 --> 00:58:45,910
+know what the episode's gonna be. But definitely
+tune in next week. That does it for this episode.
+
+614
+00:58:46,170 --> 00:58:51,092
+We wanna give a big thanks to our executive
+producers, King Johnson, John Strausky, Zachary
+
+615
+00:58:51,112 --> 00:58:56,414
+Hepburn, Dustin Balcom, Miggy Mathingian, Brandon
+Estregard, Nathaniel Wagner, Levi Yaten, Austin
+
+616
+00:58:56,434 --> 00:59:02,137
+Wazilovsky, AJ Dunkerley, Scott Camacho, Adam
+Spies, Andrew Schunk, and Dean Molesky for
+
+617
+00:59:02,177 --> 00:59:07,363
+helping make this podcast possible. Talk to
+you guys next week. Up, up and away, true believers.
+
