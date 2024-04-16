@@ -1,0 +1,3258 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,846 --> 00:00:30,349
+Dynamic Duel Podcast, a weekly show where we
+review superhero films and debate the superiority
+
+3
+00:00:30,389 --> 00:00:35,733
+between Marvel and DC by comparing their characters
+in stat-based battle simulations. I'm Johnny
+
+4
+00:00:35,773 --> 00:00:41,717
+DC. And I'm his twin brother Marvelous Joe.
+And in this episode, as a tie-in to our last
+
+5
+00:00:41,757 --> 00:00:47,341
+episode, which was a duel between Eclipso and
+Malekith, we are now doing a throwback review
+
+6
+00:00:47,741 --> 00:00:53,205
+to Thor the Dark World. Right, because Malekith
+is the main villain of Thor the Dark World.
+
+7
+00:00:54,410 --> 00:00:59,453
+You know what? I'm just gonna say it now. It's
+a good movie, guys. I'm sick of pretending
+
+8
+00:00:59,473 --> 00:01:04,958
+like it's not. Alright? I never pretended like
+it wasn't. I always thought it was pretty good.
+
+9
+00:01:05,098 --> 00:01:08,900
+Especially compared to where the franchise has
+gone now with Thor, Love and Thunder, you know?
+
+10
+00:01:09,441 --> 00:01:12,583
+I really wish the franchise would go back to
+the tone of Thor the Dark World. And we'll
+
+11
+00:01:12,603 --> 00:01:17,107
+talk more about the movie later on this episode.
+But, you know, for the haters out there that
+
+12
+00:01:17,147 --> 00:01:20,809
+may dislike this movie, try sticking around.
+You might change your mind about the film.
+
+13
+00:01:21,174 --> 00:01:24,494
+Before we review Thor the Dark World, we're
+going to break down the comic book movie news
+
+14
+00:01:24,534 --> 00:01:30,176
+from the past week, of which there is one news
+item, an amazing news item, it was the official
+
+15
+00:01:30,236 --> 00:01:35,558
+teaser trailer for Joker, Fall Ya Do, which
+was released during CinemaCon this past week.
+
+16
+00:01:36,078 --> 00:01:40,379
+I don't know if I would call it an amazing news
+item so much as a news item, but as always
+
+17
+00:01:40,419 --> 00:01:44,660
+we list our segment times in our episode description,
+so feel free to check out our show notes if
+
+18
+00:01:44,680 --> 00:01:49,281
+you want to skip ahead to a particular topic.
+We're gonna fight, we're gonna throw hands.
+
+19
+00:01:50,014 --> 00:01:54,527
+Our artificially intelligent duel simulator
+AJ9K has a quick message for our listeners,
+
+20
+00:01:54,688 --> 00:02:02,145
+so listen up. Why hello there. Do you love listening
+and chatting about Marvel and DC? Then become
+
+21
+00:02:02,165 --> 00:02:07,228
+a part of the dynamic duel community on Patreon,
+where you can choose from three tiers. The
+
+22
+00:02:07,268 --> 00:02:12,811
+dynamic two-o tier lets you listen to this podcast
+without ads and gives you access to its discord
+
+23
+00:02:12,851 --> 00:02:17,746
+chat group, where you can chat with Johnny DC
+and marvelous Joe. The Fantastic Four tier
+
+24
+00:02:17,786 --> 00:02:22,448
+gives you that and more with two bonus episodes
+each month, including bloopers and top ten
+
+25
+00:02:22,488 --> 00:02:27,631
+shows where Johnny and Joe count down your favourite
+Marvel and DC subjects. The X-Force tier makes
+
+26
+00:02:27,651 --> 00:02:32,273
+you an executive producer of Dynamic Duel, where
+every month you help the host choose what to
+
+27
+00:02:32,313 --> 00:02:37,475
+review and who to fight against each other.
+And finally, the Dynamite Podcast Network tier
+
+28
+00:02:37,775 --> 00:02:42,818
+allows aspiring podcasters to create their own
+battle-focused show using this Monte Carlo
+
+29
+00:02:42,858 --> 00:02:43,398
+simulator.
+
+30
+00:03:03,092 --> 00:03:07,275
+Thanks AJ and IK and thanks to everyone who
+supports the podcast. Guys, be sure to tune
+
+31
+00:03:07,295 --> 00:03:11,879
+into the shows in the Dynamite Podcast Network
+this week, including Max Destruction, which
+
+32
+00:03:11,919 --> 00:03:16,790
+pits your favorite action heroes from film and
+television against each other. This week, Ken
+
+33
+00:03:16,850 --> 00:03:21,673
+and Scotty are going to break down the latest
+WrestleMania that happened a few weeks ago,
+
+34
+00:03:22,193 --> 00:03:26,896
+and I believe they're also tying in a Ready
+to Rumble review to that episode. Although
+
+35
+00:03:26,916 --> 00:03:31,338
+that might come out the next week, we'll see.
+On the Send Your World podcast, host Zachary
+
+36
+00:03:31,358 --> 00:03:36,481
+Hepburn speculates on fights between fan favorite
+anime characters. He was not able to put out
+
+37
+00:03:36,561 --> 00:03:41,784
+an episode last Thursday, so this Thursday,
+again, we're going to find out who would win
+
+38
+00:03:41,824 --> 00:03:47,871
+between Sanji from One Piece and Mic Guy from
+Naruto. And on the console combat podcast,
+
+39
+00:03:47,931 --> 00:03:52,272
+hosts John and Dean find out who would win in
+fights between popular video game characters.
+
+40
+00:03:52,352 --> 00:03:57,793
+And in yesterday's episode, they found out who
+would win between earthworm Jim and Booger
+
+41
+00:03:57,813 --> 00:04:03,195
+Man. An incredible episode. Definitely check
+it out. Visit dynamic podcasts.com or click
+
+42
+00:04:03,215 --> 00:04:08,617
+the link in our show notes to listen to all
+of the shows in the DynaMic podcast network.
+
+43
+00:04:08,637 --> 00:04:14,074
+Also guys, check out the TV and movie trivia
+podcast. where I did a guest spot with the
+
+44
+00:04:14,114 --> 00:04:20,297
+host Brian over there on that show and I competed
+in trivia regarding the movie X-Men First Class.
+
+45
+00:04:20,757 --> 00:04:25,840
+So, if you're a fan of X-Men First Class and
+of movie trivia and you think you know more
+
+46
+00:04:25,860 --> 00:04:30,642
+about that movie than I do, go see if you're
+right by listening to the TV and movie trivia
+
+47
+00:04:30,682 --> 00:04:37,505
+pod. But with that out of the way, quick to
+the no prize! A no prize is an award Marvel
+
+48
+00:04:37,545 --> 00:04:42,266
+used to give out to fans. Our version, the Dynamic
+Duel No Prize, is a digital award we post on
+
+49
+00:04:42,367 --> 00:04:47,608
+Instagram for the person that we feel gave the
+best answer to our question of the week. Last
+
+50
+00:04:47,668 --> 00:04:52,349
+week we asked, what would be your favorite out
+of left field casting choice for an alternate
+
+51
+00:04:52,409 --> 00:04:58,651
+universe Marvel or DC character? And this was
+coming off the news that Julia Garner was cast
+
+52
+00:04:58,731 --> 00:05:03,352
+as the Silver Surfer in the upcoming Fantastic
+Four movie. We got a lot of great answers,
+
+53
+00:05:03,372 --> 00:05:07,646
+so let's go ahead and break down our three honorable
+mentions, as well as the No Prize winner. Our
+
+54
+00:05:07,686 --> 00:05:13,889
+first honorable mention goes to Brandon Estergard,
+who said, Hey guys, my out of left field casting
+
+55
+00:05:13,909 --> 00:05:22,554
+would be for Anya Taylor Joy to play Luke Cage,
+not Lucille Cage, not Lucy Cage, Luke Cage.
+
+56
+00:05:23,134 --> 00:05:28,297
+And right out of the gate with the left field
+casting choice, Brandon gave us Anya Taylor
+
+57
+00:05:28,337 --> 00:05:33,880
+Joy as Luke Cage. I don't know if she could
+pull off the character that well, now that
+
+58
+00:05:33,940 --> 00:05:38,146
+I think about it. She could probably pull off
+the yellow blouse. that he wore back in the
+
+59
+00:05:38,166 --> 00:05:43,629
+day. And the tiara. The tiara she called. And
+the matching bracelets. Yeah, yeah, the bracelets,
+
+60
+00:05:43,849 --> 00:05:48,492
+maybe the chain link belt that he's got going
+on, but I'd like to see her try it at the very
+
+61
+00:05:48,532 --> 00:05:53,715
+least. Yeah. I feel like there would be riots
+if she did. She would get canceled so hard,
+
+62
+00:05:53,815 --> 00:06:00,398
+so fast. She would, but I would still be interested
+to see it. Brandon actually gave two answers.
+
+63
+00:06:00,638 --> 00:06:05,721
+He also said that he would like to see Dwayne
+the Rock Johnson play Starfire. He could pull
+
+64
+00:06:05,741 --> 00:06:11,457
+off the outfit. for sure. Yeah, if any guy could,
+he could. But Brandon also said that he was
+
+65
+00:06:11,517 --> 00:06:16,620
+especially looking forward to seeing the Rock
+wear a Starfire wig, which I would also love
+
+66
+00:06:16,640 --> 00:06:22,985
+to see. Our next honorable mention goes to Jacob
+Bell, who said, Hey, what's up, guys? Jacob
+
+67
+00:06:23,005 --> 00:06:26,787
+Bell here. You guys know that I love casting
+stuff. I'm super passionate about it. This
+
+68
+00:06:26,867 --> 00:06:31,010
+one is definitely out of left field a little
+bit, but just kind of hang in there with me.
+
+69
+00:06:31,050 --> 00:06:38,755
+But why can't Natalie Portman play the Joker?
+The like Bruce Wayne's mom version of the Joker
+
+70
+00:06:38,795 --> 00:06:43,719
+from the Flashpoint Paradox movie. She has an
+Oscar. We know she can act. I like her in the
+
+71
+00:06:43,759 --> 00:06:48,623
+Thor movies. I think she's good and she's old
+enough to play a mom. I just, I think it would
+
+72
+00:06:48,643 --> 00:06:54,447
+be awesome. Awesome casting. So when we first
+heard that the Flash movie was going to take
+
+73
+00:06:54,487 --> 00:07:00,992
+inspiration from the Flashpoint storyline in
+the comics, all of us loved the idea of Jeffrey
+
+74
+00:07:01,012 --> 00:07:07,548
+Dean Morgan and Lauren Cohen. playing the Flashpoint
+versions of Batman and the Joker because of
+
+75
+00:07:07,588 --> 00:07:12,231
+course in that universe Bruce Wayne's parents
+become Batman and the Joker respectively. I
+
+76
+00:07:12,251 --> 00:07:17,854
+thought Lauren Cohen would have made a fantastic
+Joker but I also know that Natalie Portman
+
+77
+00:07:17,894 --> 00:07:23,297
+could knock it out of the park. The Joker seems
+to be this role that good actors seem to thrive
+
+78
+00:07:23,377 --> 00:07:29,180
+in, Jared Leto notwithstanding. So as could
+have been actress as Natalie Portman is, I'm
+
+79
+00:07:29,220 --> 00:07:34,547
+sure she would also do well in the role. Yeah,
+in reference to this answer, I go back to the
+
+80
+00:07:34,607 --> 00:07:40,030
+Natalie raps from Saturday Night Live and what
+a crazy character she is there. I think that
+
+81
+00:07:40,050 --> 00:07:44,653
+could easily be transposed into the character
+of the Joker. Absolutely. Our final honorable
+
+82
+00:07:44,693 --> 00:07:49,776
+mention goes to Miggy Mattenkian, who said,
+Hey, what's up guys, this is Miggy and my out
+
+83
+00:07:49,816 --> 00:07:55,619
+of left field casting would be Rowan Atkinson
+as Alfred Pennyworth. At first glance, this
+
+84
+00:07:55,699 --> 00:08:02,370
+is like not a great casting because Mr. Bean,
+you know, he's a very comedic actor. But he
+
+85
+00:08:02,510 --> 00:08:07,672
+actually had a role of Black Adder where he
+was like the stuck-up like aristocrat. And
+
+86
+00:08:07,792 --> 00:08:13,153
+I think that along with like a more serious
+like Johnny English type, I think could work
+
+87
+00:08:13,173 --> 00:08:18,675
+really well for Alfred. So yeah, Rowan Atkinson,
+popularly known as Mr. Bean. I think I've only
+
+88
+00:08:18,735 --> 00:08:23,996
+ever seen him in comedic roles. But I feel like
+he's a really good actor. And I think that
+
+89
+00:08:24,056 --> 00:08:28,966
+a role like Alfred Pennyworth would really allow
+him to bring that out. I mean, you could also
+
+90
+00:08:29,026 --> 00:08:34,270
+just have a comedic Alfred Pennyworth. Yeah,
+I mean, to me, that's not as interesting as
+
+91
+00:08:34,330 --> 00:08:39,814
+just seeing Ron Atkinson going full on thespian
+mode, you know? Yeah, full on Shakespeare mode,
+
+92
+00:08:40,114 --> 00:08:44,197
+for sure. Yeah. I actually don't think this
+is too far out of left field. Maybe in the
+
+93
+00:08:44,217 --> 00:08:47,919
+sense that it would probably never happen, but
+you know what? I think he would actually be
+
+94
+00:08:47,979 --> 00:08:51,942
+well suited to the role if he was ever cast.
+I don't think I would question it quite as
+
+95
+00:08:52,002 --> 00:08:58,538
+much as say, you know, Anya Taylor Joy as Luke
+Cage. No, no. I think you could do just as
+
+96
+00:08:58,578 --> 00:09:03,141
+good a job as Andy Serkis for sure. Great answer,
+Miggy. We want to give a special shout out
+
+97
+00:09:03,161 --> 00:09:10,345
+to Colby Hentges, who said that Jonathan Majors
+could play Icon. Yikes. Connor Pierce said
+
+98
+00:09:10,405 --> 00:09:16,508
+that Kelly Rohrbach could play Power Girl and
+Scott Camacho, whose favorite out of left field
+
+99
+00:09:16,528 --> 00:09:23,552
+casting was actually Michael Keaton as Batman.
+But the winner of this week's No Prize is Travis
+
+100
+00:09:23,572 --> 00:09:29,791
+Bailey, who said. All right, Travis Bailey.
+What's up to my twin? All right. Listen Joe's
+
+101
+00:09:29,912 --> 00:09:35,455
+on to something. All right. She's an alternate
+universe Silver surfer, right? So I'm gonna
+
+102
+00:09:35,475 --> 00:09:43,061
+take you back to issue 12. What if what if Rick
+James was the Hulk? All right. I take an AI
+
+103
+00:09:43,101 --> 00:09:49,765
+generated Rick James, but follow me with this.
+What if Britney Spears was the Hulk now she
+
+104
+00:09:49,805 --> 00:09:54,729
+hawked the Hulk and you can have all the stuff
+she got with her father as a All right, he
+
+105
+00:09:54,769 --> 00:09:59,651
+got cut off there, but I love this answer so
+much. What if Rick James was the Hulk? Now,
+
+106
+00:09:59,912 --> 00:10:06,535
+actually, the official what if issue 12 was
+what if Rick Jones was the Hulk? But I googled
+
+107
+00:10:06,635 --> 00:10:11,078
+this and there was a parody of that issue that
+said, what if Rick James was the Hulk? And
+
+108
+00:10:11,278 --> 00:10:16,080
+it's freaking hilarious. I love the idea of
+this. Gamma radiation is a hell of a drug.
+
+109
+00:10:18,602 --> 00:10:24,685
+Instead of Hulk smash, you'd be like, give it
+to me, baby. People would call him super freakish,
+
+110
+00:10:24,805 --> 00:10:29,797
+for sure. But, uh, Britney Spears as the Hulk,
+that's definitely inspired considering both
+
+111
+00:10:29,837 --> 00:10:35,981
+of the characters have, you know, daddy issues.
+I totally see it. Yeah, I think she'd probably
+
+112
+00:10:36,181 --> 00:10:42,185
+shave her head and then go green and then just...
+Act like her normal self. Just dancing with
+
+113
+00:10:42,225 --> 00:10:46,528
+knives and crazy shit. Jeez, I don't know if
+the whole making fun of her shaving her head
+
+114
+00:10:46,568 --> 00:10:51,612
+thing is a decade too late of a joke, but yeah,
+we'll go with that. We'll go with that. So
+
+115
+00:10:51,652 --> 00:10:55,388
+congrats to Travis Bailey for winning this week's
+No Prize. If you the listener want to shout
+
+116
+00:10:55,428 --> 00:10:59,274
+out winning your own no prize, stay tuned to
+later on this episode when we'll be asking
+
+117
+00:10:59,314 --> 00:11:03,401
+another question of the week. And now that that's
+done, on to the news!
+
+118
+00:11:08,886 --> 00:11:12,386
+Alright, before we get into this I just want
+you guys to know that Joseph super butthurt
+
+119
+00:11:12,667 --> 00:11:17,288
+about me not liking the casting of the Surfer
+Surfer. So he's planning on shitting all over
+
+120
+00:11:17,308 --> 00:11:20,929
+this trailer, but he can do whatever he wants,
+we don't care because we all know that this
+
+121
+00:11:20,949 --> 00:11:26,130
+trailer was awesome. The trailer was released
+last week during CinemaCon and there was quite
+
+122
+00:11:26,150 --> 00:11:30,612
+a bit of news to come out for both Marvel and
+DC during this, including the Superman logo
+
+123
+00:11:30,952 --> 00:11:36,313
+and some footage from the new Captain America
+movie. But I think hands down, the biggest
+
+124
+00:11:36,353 --> 00:11:43,055
+thing to come out. of the entire convention
+was the official teaser trailer for Joker Folly-a-doo.
+
+125
+00:11:43,075 --> 00:11:52,278
+It was alright. When we first heard that this
+was going to be a musical, some fans were up
+
+126
+00:11:52,298 --> 00:11:57,479
+in ire. Again, I was not one of those until
+I learned that it was going to be a jukebox
+
+127
+00:11:57,519 --> 00:12:01,840
+musical. I was actually very disappointed by
+that. If you're not familiar with what a jukebox
+
+128
+00:12:01,880 --> 00:12:08,094
+musical is, it's a musical that has no original
+music. It just rehashes pop music essentially.
+
+129
+00:12:08,555 --> 00:12:15,138
+So I was pretty apprehensive going into this
+trailer until I saw it and all of its beauty
+
+130
+00:12:15,158 --> 00:12:19,820
+and all of its splendor. One of my favorite
+trailers of all time was actually the first
+
+131
+00:12:19,980 --> 00:12:25,902
+trailer we got for the first Joker movie. And
+this reminded me a lot of that. In fact, I
+
+132
+00:12:26,122 --> 00:12:31,685
+would say I enjoyed this trailer more than that
+first one. It captured all of the emotion,
+
+133
+00:12:31,985 --> 00:12:38,143
+but the cinematography here was just so unbelievably
+gorgeous as well. Jonathan, why are you so
+
+134
+00:12:38,183 --> 00:12:42,405
+wishy washy when it comes to this movie? What
+are you talking about? First you like it, then
+
+135
+00:12:42,445 --> 00:12:47,868
+you hate the idea of it, then you like it again,
+and then you're like, oh no, I don't wanna
+
+136
+00:12:47,888 --> 00:12:51,509
+see it. And then you're like, okay, I love it
+actually. Well, I was the same way with the
+
+137
+00:12:51,569 --> 00:12:55,551
+first Joker movie, honestly, like at first I
+was like, ah, this is dumb. Why are they making
+
+138
+00:12:55,591 --> 00:12:59,613
+a Joker origin story? No one wants this. Until
+I saw the first trailer and I was totally sold,
+
+139
+00:13:00,033 --> 00:13:06,041
+this is the case again. We see the trailer start
+off with Arthur Fleck in Arkham Asylum. He's
+
+140
+00:13:06,061 --> 00:13:11,106
+being taken out of his jail cell by Brandon
+Gleason, of all people. I don't even know he
+
+141
+00:13:11,126 --> 00:13:15,089
+was in this movie, but he's, you know, a really
+good actor. They take the character of Arthur
+
+142
+00:13:15,129 --> 00:13:21,674
+Fleck right past Lady Gaga's character, who
+seems to be a patient at Arkham as well, which
+
+143
+00:13:21,735 --> 00:13:27,279
+is really confusing because we know that Harley
+Quinzel was actually a doctor at Arkham Asylum,
+
+144
+00:13:27,499 --> 00:13:32,203
+a psychologist who helped treat the Joker. Of
+course, she doesn't stay there throughout the
+
+145
+00:13:32,243 --> 00:13:37,686
+trailer. We see her actually out and about in
+the city of Gotham without the Joker. So I
+
+146
+00:13:37,786 --> 00:13:42,348
+think she's actually manipulating Kim in this
+trailer. That's my theory. Although I've heard
+
+147
+00:13:42,428 --> 00:13:47,791
+other theories that say she's not actually there.
+He's just imagining her in the same way that
+
+148
+00:13:47,851 --> 00:13:53,615
+Joker had a lot of hallucinations in the first
+movie with Zazie Beats character. How she was
+
+149
+00:13:53,675 --> 00:13:58,417
+always there supporting Kim when in fact she
+really wasn't. It's hard to say what's real.
+
+150
+00:13:58,794 --> 00:14:04,755
+and what's fake, what's a part of Joker's imagination
+in this movie. Because early on, we see him
+
+151
+00:14:04,795 --> 00:14:10,917
+walking through the Arkham Courtyard and the
+guards have these umbrellas that Arthur suddenly
+
+152
+00:14:11,077 --> 00:14:17,319
+imagines very colorful. It's a really beautiful
+scene, but also hints at the imaginary world
+
+153
+00:14:17,379 --> 00:14:23,001
+that Arthur is creating for himself. Once the
+character of Harley invites the Joker out,
+
+154
+00:14:23,341 --> 00:14:28,139
+as if maybe they're going to escape or just
+go outside, That's when the music of the trailer
+
+155
+00:14:28,219 --> 00:14:34,542
+really starts. We see both Joker and Harley
+on the rooftop of Hotel Arkham. Apparently,
+
+156
+00:14:34,562 --> 00:14:39,005
+they're imagining the scene. And they start
+dancing, and it just segues into this moment
+
+157
+00:14:39,045 --> 00:14:43,987
+of chaos, where we see buildings burning down
+and the background in ambulances and police
+
+158
+00:14:44,007 --> 00:14:48,510
+cars driving by. And Joker and Harley don't
+seem to care. They're just enamored with each
+
+159
+00:14:48,570 --> 00:14:53,573
+other, just living life and loving music, it
+seems. It's like the Joker dreamed of being
+
+160
+00:14:53,593 --> 00:14:58,502
+a comedian on stage. in the first movie, but
+here it seems like he's fantasizing more about
+
+161
+00:14:58,562 --> 00:15:05,765
+being a musician on stage, which kind of plays
+into Todd Phillips' whole concept for the character
+
+162
+00:15:05,785 --> 00:15:10,126
+of the Joker. You know, Todd Phillips has said
+that he has music in his soul, which is why
+
+163
+00:15:10,166 --> 00:15:14,307
+he did this kind of dance the first time he
+killed someone in the first movie. And it seems
+
+164
+00:15:14,327 --> 00:15:18,388
+like this Harley Quinn is really playing up
+on that. I'm really looking forward to see
+
+165
+00:15:18,668 --> 00:15:23,542
+how Harley fits into everything in this movie.
+So you're looking forward to this movie? Would
+
+166
+00:15:23,582 --> 00:15:28,986
+you say that the depiction of Harley and Joker's
+relationship is accurate to the comic books?
+
+167
+00:15:29,547 --> 00:15:35,872
+In a sense, I would say that if they're going
+the route where Harley is trying to manipulate
+
+168
+00:15:35,892 --> 00:15:41,157
+the Joker so that she can write a tell-all book,
+that's accurate to the comics. That was straight
+
+169
+00:15:41,197 --> 00:15:46,261
+out of Mad Love. I think, yeah, this will be
+accurate for the most part, but it's still
+
+170
+00:15:46,301 --> 00:15:50,065
+an interesting twist that I love that they're
+making for this film. Because it makes the
+
+171
+00:15:50,085 --> 00:15:56,095
+character of Harley... appear much more intelligent
+in the way that she's able to manipulate Joker.
+
+172
+00:15:56,355 --> 00:16:00,796
+Because oftentimes, you know, Harley Quinn is
+the one who suffers from abuse and she's the
+
+173
+00:16:00,816 --> 00:16:05,817
+one who's manipulated by Joker. But I think
+in this film, we're actually going to see them
+
+174
+00:16:06,438 --> 00:16:12,019
+sort of manipulate each other. That's sort of
+my theory. Would you say the Joker is accurate
+
+175
+00:16:12,039 --> 00:16:17,761
+to the comics? The Joker is accurate to the
+Joker film. I mean, this is a sequel. I think
+
+176
+00:16:18,021 --> 00:16:23,282
+I think by the end of this film, the Joker is
+going to Snap more than he's ever snapped before
+
+177
+00:16:23,562 --> 00:16:29,124
+and he's going to become the Joker of the comics
+Okay, so but he's there's a lot of differences
+
+178
+00:16:29,184 --> 00:16:34,946
+here in the Joker than how he is in the comics,
+right? Definitely not as much as silver surfer
+
+179
+00:16:34,986 --> 00:16:39,567
+being a woman. I know where you're trying to
+go But you're willing to accept these changes
+
+180
+00:16:39,587 --> 00:16:44,069
+though, because it's like an elseworlds like
+an alternate universe kind of you know Except
+
+181
+00:16:44,109 --> 00:16:49,731
+the Fantastic Four movie is not an elseworlds
+tale It's the MCU, and the first time you're
+
+182
+00:16:49,891 --> 00:16:54,834
+introducing a character, it shouldn't be an
+alternate version of the character. You know,
+
+183
+00:16:55,014 --> 00:17:00,058
+it's not like they genderbent Mr. Fantastic
+when we first saw him in Doctor Strange and
+
+184
+00:17:00,078 --> 00:17:04,360
+the Multiverse of Madness. Sure, Captain America
+has already been established as a man, so I
+
+185
+00:17:04,380 --> 00:17:08,843
+think it's okay genderbending him with Peggy
+Carter, but it's a mistake to do that with
+
+186
+00:17:08,863 --> 00:17:13,426
+Silver Surfer. I don't even know why we're talking
+about this and need to get over it. Moving
+
+187
+00:17:13,486 --> 00:17:18,708
+back to the Joker Folio Do trailer. So it's
+okay to make changes to alternate universes
+
+188
+00:17:19,248 --> 00:17:25,231
+from the comics. There's a line you don't cross
+and the Fantastic Four crossed that line. I
+
+189
+00:17:25,311 --> 00:17:28,632
+think the Joker crossed the line too. It was
+just something you didn't want to accept until
+
+190
+00:17:28,652 --> 00:17:31,774
+you actually saw the movie. And since you don't
+actually know what your opinions are until
+
+191
+00:17:31,794 --> 00:17:35,195
+you see things, and maybe even sometimes after
+you see things, as is the case with the first
+
+192
+00:17:35,235 --> 00:17:41,606
+Joker film, maybe you just don't know what you're
+talking about. No, I think I do. Another thing
+
+193
+00:17:41,646 --> 00:17:47,130
+that reminded me of the first Joker trailer
+with this trailer was how he's speaking with
+
+194
+00:17:47,170 --> 00:17:53,855
+his therapist. Arthur Fleck was such a lonely
+character in the first movie, so it makes sense
+
+195
+00:17:53,895 --> 00:17:59,679
+that he could almost start to heal with the
+emergence of Harley Quinn. And I think that's
+
+196
+00:17:59,819 --> 00:18:05,242
+really going to ultimately lead to his downfall
+is that when he finds out that she's manipulating
+
+197
+00:18:05,302 --> 00:18:09,645
+him, he's just going to snap. And I'm kind of
+worried about what's going to happen with Harley.
+
+198
+00:18:09,930 --> 00:18:14,872
+Whatever happens in the film, it definitely
+looks like Harley starts to lose her grip on
+
+199
+00:18:14,932 --> 00:18:19,194
+reality in the same way that maybe the Joker
+is in the fact that she's starting to smear
+
+200
+00:18:19,254 --> 00:18:25,536
+blood on her face and do the whole makeup thing.
+It gets pretty wild, but nothing is more wild
+
+201
+00:18:25,596 --> 00:18:31,819
+and awesome than the final shot, the final scene
+of this trailer, which you wouldn't think it
+
+202
+00:18:31,839 --> 00:18:37,581
+would be because it's essentially just Harley
+drawing a smile with lipstick on a glass pane.
+
+203
+00:18:38,018 --> 00:18:45,063
+But the way it lined up with Joaquin Phoenix's
+sinister smile just screamed Joker to me. It
+
+204
+00:18:45,083 --> 00:18:53,971
+was so, so well shot. Like this entire film.
+Holy cow. I also have to commend the people
+
+205
+00:18:53,991 --> 00:18:59,035
+who made the trailer for their song choice of
+Tom Jones, What the World Needs Now is Love.
+
+206
+00:18:59,295 --> 00:19:04,499
+I think that's the name of the song. Perfect
+choice. Love everything about this trailer.
+
+207
+00:19:04,860 --> 00:19:08,895
+Hopefully I'm going to love everything about
+this movie. Because the first movie was really
+
+208
+00:19:08,915 --> 00:19:13,623
+hard to watch and I'm sure this one will be
+too, but I'm totally ready for it. Well Jonathan,
+
+209
+00:19:13,663 --> 00:19:18,330
+I'm glad to see you admit that you shouldn't
+judge things prematurely and maybe wait and
+
+210
+00:19:18,351 --> 00:19:22,377
+see how they come out before basing your opinion.
+And that brings us to our question of the week.
+
+211
+00:19:26,634 --> 00:19:32,795
+What film are you looking forward to more this
+year? Deadpool and Wolverine or Joker Follyadoo
+
+212
+00:19:33,195 --> 00:19:38,377
+and why? Record your answer at dynamicduel.com
+by clicking on the red microphone button in
+
+213
+00:19:38,417 --> 00:19:41,978
+the bottom right-hand corner of the screen,
+which will prompt you to leave us a voicemail.
+
+214
+00:19:42,378 --> 00:19:46,319
+Your message could be up to 30 seconds long
+and don't forget to leave your name in case
+
+215
+00:19:46,359 --> 00:19:51,320
+we include you on the podcast. We'll pick our
+favorite answer and award that person a dynamic
+
+216
+00:19:51,360 --> 00:19:56,480
+duel no prize that we'll post to Instagram.
+Be sure to answer before... April 20th.
+
+217
+00:20:04,174 --> 00:20:07,659
+But I think that does it for all the news from
+this episode. Now let's move on to the main
+
+218
+00:20:07,699 --> 00:20:13,609
+event, where we review the 2013 MCU film, Thor,
+The Dark World.
+
+219
+00:20:28,974 --> 00:20:34,558
+Okay, Thor the Dark World was released in 2013,
+directed by Alan Taylor, and it stars Chris
+
+220
+00:20:34,598 --> 00:20:40,402
+Hemsworth, Tom Hiddleston, Natalie Portman,
+and Christopher Ecclestone. Right up top, I'm
+
+221
+00:20:40,422 --> 00:20:44,645
+going to give you listeners your spoiler warning.
+If you haven't seen Thor the Dark World yet,
+
+222
+00:20:45,306 --> 00:20:48,908
+and you like the character of Thor, definitely
+go give the movie a watch before listening
+
+223
+00:20:48,948 --> 00:20:54,670
+to this spoiler filled review. Now we haven't
+reviewed the first Thor movie yet, but I thought
+
+224
+00:20:54,690 --> 00:20:58,291
+it was an interesting and successful way to
+introduce the concept of magic and fantasy
+
+225
+00:20:58,331 --> 00:21:03,333
+in the very science fiction-y world of the Marvel
+Cinematic Universe at the time. I knew that
+
+226
+00:21:03,413 --> 00:21:07,914
+a sequel of the first film was given after the
+Avengers movie and I was looking forward to
+
+227
+00:21:07,954 --> 00:21:12,615
+Thor the Dark World, especially when they announced
+that Alan Taylor would be directing it, a guy
+
+228
+00:21:12,635 --> 00:21:16,996
+who had helmed some of the better Game of Thrones
+episodes. But originally he wasn't going to
+
+229
+00:21:17,036 --> 00:21:21,506
+direct it, right? It was going to be Patty Jenkins,
+the same director who did Wonder Woman. Right,
+
+230
+00:21:21,566 --> 00:21:26,550
+yeah, but she had a falling out due to creative
+differences. Although it was a cordial split
+
+231
+00:21:26,610 --> 00:21:31,874
+for Marvel, as I understand it. I'll be honest,
+when Thor the Dark World came out, I hadn't
+
+232
+00:21:31,894 --> 00:21:36,678
+seen any of Game of Thrones yet, but I did know
+of the show's reputation, and I knew that the
+
+233
+00:21:36,719 --> 00:21:42,664
+realm of mythological high fantasy was exactly
+where I wanted the Thor franchise to go. And
+
+234
+00:21:42,704 --> 00:21:46,567
+during the marketing of the movie, you know,
+we saw that he was going to visit other realms,
+
+235
+00:21:46,907 --> 00:21:53,500
+and that we'd see the Dark Elves, and needless
+to say, I was excited for this movie, but when
+
+236
+00:21:53,560 --> 00:21:59,465
+I left the theater, you know what? I was still
+excited, you know? The film was almost exactly
+
+237
+00:21:59,486 --> 00:22:05,230
+what I expected and the ending was spectacular
+because we saw Loki secretly on Asgard's throne
+
+238
+00:22:05,531 --> 00:22:10,395
+and we got the very first mention of the Infinity
+Gems or stones as they came to be known in
+
+239
+00:22:10,415 --> 00:22:15,371
+the movies. Like I was pumped leaving the theater.
+I even went and saw it in theaters again, and
+
+240
+00:22:15,791 --> 00:22:20,295
+I guess I never really understood the general
+disdain for this movie. Yeah, me neither. Like
+
+241
+00:22:20,435 --> 00:22:25,219
+I heard this movie was bad, so I never went
+to go see it in theaters. I actually did not
+
+242
+00:22:25,259 --> 00:22:30,763
+see this movie until I think a few days before
+seeing Thor Ragnarok, because you essentially
+
+243
+00:22:30,843 --> 00:22:37,449
+forced me to watch it. And I was glad I did.
+I totally do not understand the hate that this
+
+244
+00:22:37,469 --> 00:22:42,293
+film gets. Yeah, I mean, I'll admit it's been
+a good five or so years since I've rewatched
+
+245
+00:22:42,333 --> 00:22:47,029
+this movie. I don't know if it's because of
+how the Thor franchise has devolved with Thor
+
+246
+00:22:47,049 --> 00:22:51,633
+11th Under, and maybe my mind is just comparing
+Thor the Dark World to the current state of
+
+247
+00:22:51,653 --> 00:22:56,778
+the franchise. But yeah, I really enjoyed watching
+this movie again. I feel like Thor the Dark
+
+248
+00:22:56,818 --> 00:23:02,103
+World is so much more like what an ideal Thor
+film should be. Oh yeah, yeah I liked this
+
+249
+00:23:02,143 --> 00:23:06,747
+so much more than the first movie. I actually
+liked this more than Thor Ragnarok even, I
+
+250
+00:23:06,767 --> 00:23:11,743
+know that's like a lot of people's favorite
+Thor movie. But for me, I want to see Thor
+
+251
+00:23:11,923 --> 00:23:17,848
+in his like Norse mythical element. Taika Waititi
+ruined Thor in some ways because they took
+
+252
+00:23:17,888 --> 00:23:22,032
+the character in such a comedic route that I
+don't know if we could ever get back to this
+
+253
+00:23:22,172 --> 00:23:27,056
+version of Thor that's much more Shakespearean,
+much more dramatic. I hope they do, though.
+
+254
+00:23:27,517 --> 00:23:31,420
+Yeah, I think if they tried to revert back to
+this more serious tone, people would be like,
+
+255
+00:23:31,620 --> 00:23:35,503
+when did Thor become so boring or something
+like that? But that's not the case. It's more
+
+256
+00:23:35,523 --> 00:23:40,375
+like when did Thor become so goofy? Right. So
+yeah, I really like Thor the Dark World. Don't
+
+257
+00:23:40,395 --> 00:23:44,537
+get me wrong, the movie's not perfect. It does
+suffer from an underwhelming villain and a
+
+258
+00:23:44,717 --> 00:23:49,560
+mumbo jumbo-y plot device in the Convergence,
+but Thor the Dark World is where I'd really
+
+259
+00:23:49,580 --> 00:23:53,562
+like to see the franchise return. My favorite
+Thor stories from the comics are the ones that
+
+260
+00:23:53,602 --> 00:23:58,545
+take place entirely or largely away from Earth
+within the other eight realms, where we get
+
+261
+00:23:58,565 --> 00:24:03,668
+to explore Marvel's unique approach to Norse
+mythology, which I find fascinating. Stories
+
+262
+00:24:03,688 --> 00:24:08,587
+like Disassembled, where Ragnarok finally takes
+hold. Mjolnir's Song where Thor battles the
+
+263
+00:24:08,627 --> 00:24:14,552
+Midgard Serpent, Tales of Asgard, and the Surtr
+Saga. All awesome. I love when Thor's stories
+
+264
+00:24:14,713 --> 00:24:19,777
+feel like Lord of the Rings because the realm
+of fantasy is kind of unique in Marvel. Like
+
+265
+00:24:19,817 --> 00:24:23,881
+the mythic fantasy genre isn't exclusive to
+Thor because you still have characters like
+
+266
+00:24:23,921 --> 00:24:28,865
+Hercules and the Black Knight. But Thor is a
+great character and his popularity gives Marvel
+
+267
+00:24:28,905 --> 00:24:33,729
+probably their best opportunity for that kind
+of mythical fantasy exploration and world building.
+
+268
+00:24:34,226 --> 00:24:39,889
+Yeah, especially considering that, like, high
+fantasy really came out of Norse mythology,
+
+269
+00:24:39,989 --> 00:24:46,012
+I would say. Like, the world of Lord of the
+Rings owes so much to it that Marvel could
+
+270
+00:24:46,052 --> 00:24:50,574
+totally play up on that fact. Yeah, high fantasy
+as we know it is a mix of, like, Celtic and
+
+271
+00:24:50,614 --> 00:24:55,497
+Norse mythology. And I'm a huge fan of the Lord
+of the Rings. And I feel like this Thor the
+
+272
+00:24:55,537 --> 00:25:00,240
+Dark World is the closest that Marvel has ever
+gotten to that. Yeah, I would say that it's
+
+273
+00:25:00,260 --> 00:25:05,467
+the closest that anything from Marvel or DC
+has ever gotten to that sort of high fantasy
+
+274
+00:25:05,507 --> 00:25:11,632
+kind of approach. But the cool thing about the
+world of Thor too is that it feels so believable
+
+275
+00:25:11,692 --> 00:25:17,017
+in a way too, which I love. Yeah, I mean, the
+world building in Thor the Dark World is a
+
+276
+00:25:17,057 --> 00:25:24,063
+lot of fun. From Asgard's flying aircraft to
+Svartalheim's never-ending eclipse, from Odin's
+
+277
+00:25:24,123 --> 00:25:29,488
+library room to, you know, the village camps
+of Vanaheim. I just had a blast on every one
+
+278
+00:25:29,508 --> 00:25:34,300
+of those worlds and I wish we got more of that.
+You know, none of this new Asgard on Earth
+
+279
+00:25:34,400 --> 00:25:40,805
+crap where they serve Infinity Cone's ice cream.
+Bullshit. Ugh. Asgard has gotten so dumb lately
+
+280
+00:25:40,985 --> 00:25:45,129
+and it's so lame that they blew it up in the
+MCU so they can't like ever go back there.
+
+281
+00:25:45,329 --> 00:25:49,372
+They gotta find a way to rebuild Asgard so that
+the Asgardians can find their former glory
+
+282
+00:25:49,692 --> 00:25:53,356
+because right now they're just a shell of what
+they used to be. The overarching story here
+
+283
+00:25:53,376 --> 00:25:58,180
+is kind of interesting too where you have this
+ancient race of dark beings trying to restore
+
+284
+00:25:58,220 --> 00:26:03,436
+the reality from before the dawn of light. using
+an all-powerful magic artifact during a time
+
+285
+00:26:03,496 --> 00:26:08,199
+when all the realms align. You know, the setup
+is really good for a high fantasy adventure.
+
+286
+00:26:08,599 --> 00:26:12,983
+Where it all goes wrong is in the climax, and
+I think that's what mostly disappointed viewers,
+
+287
+00:26:13,023 --> 00:26:18,287
+because what was supposed to be the strongest
+point of the movie kind of fell flat. In the
+
+288
+00:26:18,327 --> 00:26:22,710
+final battle between Malekith and Thor, you
+know, you have, you know, a bland, underwhelming
+
+289
+00:26:22,770 --> 00:26:28,198
+villain using this powerful artifact in one
+of the most unimaginative ways possible. You
+
+290
+00:26:28,238 --> 00:26:32,882
+have a bunch of less interesting human side
+characters running around adding needless comedic
+
+291
+00:26:32,922 --> 00:26:37,326
+relief. And while the portals between the realms
+added an interesting dynamic to the battle
+
+292
+00:26:37,346 --> 00:26:41,969
+and gave it some nice momentum, it was kind
+of hard to understand where and why and when
+
+293
+00:26:42,010 --> 00:26:46,313
+the portals were going to take the fight to
+another world. And so it felt kind of disorienting
+
+294
+00:26:46,353 --> 00:26:52,739
+from a narrative and visual standpoint. Absolutely.
+I honestly feel like the human characters in
+
+295
+00:26:52,779 --> 00:26:56,978
+this movie kind of ruined the film. I don't
+think you even really needed them. Yeah, but
+
+296
+00:26:57,018 --> 00:27:02,079
+like I feel like the criticisms of the film's
+comedy that I heard when the film came out,
+
+297
+00:27:02,259 --> 00:27:06,481
+like the jokey scene of Selvick running around
+naked at Stonehenge, those nitpicks I feel
+
+298
+00:27:06,501 --> 00:27:12,463
+like don't hold as much weight now as they used
+to considering that scene seems rather minor
+
+299
+00:27:12,563 --> 00:27:18,165
+compared to the stupidity of where the franchise
+is now. Very true. If anything, Thor the Dark
+
+300
+00:27:18,185 --> 00:27:23,295
+World has just gotten better with age as a film.
+I definitely agree and I hope that eventually
+
+301
+00:27:23,375 --> 00:27:28,059
+over time people online and the social media
+community will see how good this movie was
+
+302
+00:27:28,099 --> 00:27:33,263
+compared to the Takeaway TD films that we got.
+Yeah, go back and sample it guys. If it's been
+
+303
+00:27:33,283 --> 00:27:36,805
+a while since you've seen the movie or if you
+didn't like the movie to begin with, you might
+
+304
+00:27:36,846 --> 00:27:42,450
+find that your opinion has changed on it. I
+think for the angle between Thor and his brother
+
+305
+00:27:42,490 --> 00:27:48,474
+Loki alone, that makes this entire movie. Oh
+for sure, yeah. I mean, the brothers had a
+
+306
+00:27:48,494 --> 00:27:53,436
+good dynamic going in Thor Ragnarok, but I think
+in Thor the Dark World they had their best
+
+307
+00:27:53,476 --> 00:27:57,898
+moment. Let's go ahead and talk about the characters
+more in our character breakdown. Starting with
+
+308
+00:27:58,218 --> 00:28:02,640
+Thor Odinson, played by Chris Hemsworth. Now
+I think Hemsworth's performance in this movie
+
+309
+00:28:02,680 --> 00:28:07,302
+is the most he's ever felt like Thor to me.
+You know, I know he prefers his goofy jokes
+
+310
+00:28:07,482 --> 00:28:11,263
+and ultimately took the character in a much
+more comedic route because he found this more
+
+311
+00:28:11,343 --> 00:28:16,305
+serious Thor to be bland. But as a fan of the
+comics, I've never found Thor to be goofy.
+
+312
+00:28:16,834 --> 00:28:22,196
+To me, he's always been noble, serious, and
+yet also zealous in battle. I thought his role
+
+313
+00:28:22,236 --> 00:28:27,318
+here built off of the first Thor movie pretty
+well, where we saw him mature a little bit.
+
+314
+00:28:27,558 --> 00:28:31,439
+And also he had some good vulnerable moments
+in the film, such as when his mother, Frigga,
+
+315
+00:28:31,479 --> 00:28:37,882
+died or when he was arguing with Loki on Spratlheim.
+There's a reason why Verisimilitude was the
+
+316
+00:28:37,982 --> 00:28:42,424
+theme behind the scenes of Richard Donner's
+first Superman movie. It was because you could
+
+317
+00:28:42,464 --> 00:28:47,198
+totally go the Adam West Batman route with this,
+but that's not what he wanted. because he wanted
+
+318
+00:28:47,278 --> 00:28:51,139
+to treat the character with more respect. And
+you know, Patty Jenkins took the same approach
+
+319
+00:28:51,239 --> 00:28:56,002
+with the first Wonder Woman movie. The word
+cheesy was banned on set because they wanted
+
+320
+00:28:56,142 --> 00:29:00,263
+to treat the characters with seriousness. And
+I feel like Alan Taylor took the same approach
+
+321
+00:29:00,283 --> 00:29:04,785
+with a lot of scenes, probably a majority of
+the scenes in this movie. Yeah, and he kind
+
+322
+00:29:04,805 --> 00:29:08,347
+of grounded things too. I mean, if you look
+at Thor's arc, it's really centered around
+
+323
+00:29:08,387 --> 00:29:13,749
+his love for Jane. From beginning to end, you
+know, he dismisses Sif. He watches Jane with
+
+324
+00:29:13,769 --> 00:29:18,319
+Heimdall. When he sees she's in trouble, he
+brings her to Asgard. When she's dying, he
+
+325
+00:29:18,359 --> 00:29:22,921
+risks it all to have Malekith remove the Aether
+from her. And when the realms are saved, he
+
+326
+00:29:22,981 --> 00:29:27,263
+renounces his throne to be with her. There's
+an interesting moment midway through the film
+
+327
+00:29:27,283 --> 00:29:31,945
+when Loki tells Thor that Jane is going to die
+regardless if the Aether takes her or not.
+
+328
+00:29:32,385 --> 00:29:37,647
+That even if she lives decades longer, the time
+would be fleeting to them as gods. And Thor
+
+329
+00:29:37,667 --> 00:29:42,049
+simply states that he won't be saying goodbye
+to her today. You know, it was almost a nice
+
+330
+00:29:42,069 --> 00:29:47,053
+foreshadowing. to the events of Thor, Love and
+Thunder. I will never forgive that fourth film
+
+331
+00:29:47,193 --> 00:29:51,396
+for butchering Jane's cancer arc the way that
+it did because it really had the perfect setup
+
+332
+00:29:51,416 --> 00:29:56,220
+from this movie. Oh yeah, for sure. Yeah, that
+was definitely top of mind as I was rewatching
+
+333
+00:29:56,260 --> 00:30:01,004
+this because I'd forgotten that the ether made
+her sick. Yeah. Speaking of Jane Foster, let's
+
+334
+00:30:01,024 --> 00:30:05,568
+go ahead and move on to her played by Natalie
+Portman. Now Natalie Portman, I thought was
+
+335
+00:30:05,608 --> 00:30:10,011
+fine here in this movie. Sometimes she could
+be a little bit iffy in her acting, especially
+
+336
+00:30:10,532 --> 00:30:13,666
+with scenes that you could tell she's not quite
+comfortable in. but I thought she did pretty
+
+337
+00:30:13,706 --> 00:30:18,410
+well in this film particularly. Yeah, I thought
+she did better here than she did in Love and
+
+338
+00:30:18,490 --> 00:30:24,035
+Thunder. I believed the romance between her
+and Thor. Yeah, where Thor was a fish out of
+
+339
+00:30:24,075 --> 00:30:28,699
+water in the first movie on Earth, it was interesting
+to see that flipped where she was the fish
+
+340
+00:30:28,760 --> 00:30:33,624
+out of water traveling among Asgard and the
+other realms. One of the things that I appreciate
+
+341
+00:30:33,644 --> 00:30:38,108
+the most about Jane, and I don't know if everyone
+appreciates this, but it's one of the things
+
+342
+00:30:38,128 --> 00:30:43,243
+that I find endearing about her character. is
+how she uses science to explain her understanding
+
+343
+00:30:43,303 --> 00:30:49,047
+of the magic of the nine realms. Like what Thor
+calls the Bifrost, she calls an Einstein-Rosen
+
+344
+00:30:49,067 --> 00:30:54,350
+Bridge. What Odin calls the Convergence, she
+calls spatial extrusions and gravitational
+
+345
+00:30:54,410 --> 00:30:59,693
+anomalies. What they call the Soul Forge, she
+calls a... Quantum field generator. Yeah, I
+
+346
+00:30:59,713 --> 00:31:03,936
+always liked that about her character. Just
+the way these like mortal minds could possibly
+
+347
+00:31:03,976 --> 00:31:10,455
+conceive of this mythological magic, you know?
+And I thought it was a particularly nice, subtle
+
+348
+00:31:10,475 --> 00:31:15,397
+moment when she finally got to travel through
+the Bifrost. You got this flash of the scientist
+
+349
+00:31:15,457 --> 00:31:19,959
+in her just giddy with happiness finally getting
+to be inside the thing that she had spent her
+
+350
+00:31:19,999 --> 00:31:24,481
+whole life studying. And also, I really liked
+her wardrobe here. I think Natalie Portman
+
+351
+00:31:24,501 --> 00:31:28,523
+looked really great in the S. Guardian garb.
+And actually, I think everyone looked great
+
+352
+00:31:28,763 --> 00:31:32,705
+in Thor the Dark World. This movie had the best
+costumes out of all the films. It just all
+
+353
+00:31:32,745 --> 00:31:38,656
+felt very classic. Oh, yeah. Yeah, everything
+from the Dark Elves to the different realms
+
+354
+00:31:38,777 --> 00:31:44,141
+I thought were amazing. Loki has never looked
+better. Yeah, and Thor too. He didn't have
+
+355
+00:31:44,161 --> 00:31:48,724
+like the goofy bleached eyebrows and he had
+like longer hair here and just his costume
+
+356
+00:31:48,764 --> 00:31:53,147
+looked a little bit more grand to me. Yeah,
+even when he was walking around in Asgard without
+
+357
+00:31:53,207 --> 00:31:59,892
+it. Yeah. Let's go to move on to Loki Loffi-san,
+played by Tom Hiddleston. Man, Loki was so
+
+358
+00:32:00,113 --> 00:32:04,465
+good in this movie. Of course, Tom Hiddleston
+nailed the performance and as far as I'm concerned,
+
+359
+00:32:04,525 --> 00:32:09,791
+it was the perfect arc for Loki following his
+previous two film appearances. He gets imprisoned,
+
+360
+00:32:10,292 --> 00:32:15,117
+during which time the only person he ever cared
+for, his adoptive mother Frigga, gets killed.
+
+361
+00:32:15,638 --> 00:32:20,364
+So we see him at his absolute lowest point,
+then he teams up with his brother and mortal
+
+362
+00:32:20,444 --> 00:32:25,672
+enemy for a chance at revenge. and he ends up
+still scheming to take the throne at the finale,
+
+363
+00:32:25,792 --> 00:32:30,134
+which he gets and seems like his highest point.
+So there's a real rollercoaster here with Loki.
+
+364
+00:32:30,154 --> 00:32:34,537
+It was so much fun to watch the story unfold
+here. And he's just far and away the MCU's
+
+365
+00:32:34,577 --> 00:32:38,139
+most interesting character when you think about
+how far he's come, you know, through these
+
+366
+00:32:38,179 --> 00:32:42,882
+Thor films and even through his own television
+series. I also love the fact that he sacrificed
+
+367
+00:32:42,922 --> 00:32:47,045
+himself in the middle of that. Like he had this
+like bit of redemption. And I remember the
+
+368
+00:32:47,065 --> 00:32:53,087
+first time I watched this. I totally did not
+see that Loki took the throne from Odin initially.
+
+369
+00:32:53,607 --> 00:32:58,288
+Yeah, my jaw dropped because I had no idea what
+was going on. Svartelheim, when you see him
+
+370
+00:32:58,328 --> 00:33:03,530
+like take on the role of the Einherjar. I think
+I'm pronouncing that right. The soldier guy.
+
+371
+00:33:03,790 --> 00:33:07,751
+Yeah. And then he goes and reports back to Odin
+and he was like, there was a body. And then
+
+372
+00:33:07,931 --> 00:33:13,213
+there was an interesting moment there where
+Odin says Loki. And then the soldier guy smiles.
+
+373
+00:33:13,413 --> 00:33:18,146
+And I think it's up for interpretation. What
+happens there? Either Odin recognizes that
+
+374
+00:33:18,206 --> 00:33:24,069
+soldier as Loki and is addressing him as such,
+or he's saying that the body they found was
+
+375
+00:33:24,129 --> 00:33:29,791
+Loki. And then the guy smiles because he's about
+to enact his spell that casts Odin down to
+
+376
+00:33:29,831 --> 00:33:36,954
+Midgard, you know. It's a wonderfully ambiguous
+moment. That's just peak Loki. Anthony Hopkins
+
+377
+00:33:37,054 --> 00:33:41,356
+is such a phenomenal actor in this. I still
+can't believe he's in the Marvel Universe.
+
+378
+00:33:41,816 --> 00:33:46,494
+He's too damn good for it. More like too good
+for the DC Universe, you mean? Which is why
+
+379
+00:33:46,534 --> 00:33:51,277
+he's never been in it. But speaking of classic
+British actors, let's go ahead and move on
+
+380
+00:33:51,317 --> 00:33:57,921
+to Malekith, played by Christopher Eccleston.
+Christopher Eccleston is a solid actor. When
+
+381
+00:33:57,941 --> 00:34:02,563
+he was cast as Malekith, I was ecstatic because
+even though I've never seen Doctor Who, I knew
+
+382
+00:34:02,623 --> 00:34:08,167
+of his reputation, and I had seen Eccleston
+in some other things. When I saw his performance
+
+383
+00:34:08,207 --> 00:34:13,506
+though, I was really disappointed at how generic
+and bland he approached the role. I don't know
+
+384
+00:34:13,526 --> 00:34:17,228
+if that was a direction thing or if he thought
+that the makeup would do most of the acting
+
+385
+00:34:17,288 --> 00:34:22,012
+for him, but it wasn't interesting. And that's
+a shame because as you learned in our last
+
+386
+00:34:22,052 --> 00:34:27,775
+episode, the character of Malekith is so interesting
+from the comics. Yeah, I mean, I remember thinking
+
+387
+00:34:27,916 --> 00:34:33,759
+as you were reading his bio, like, is this going
+to ruin Thor the Dark World for me? Luckily
+
+388
+00:34:33,800 --> 00:34:40,044
+it didn't. And I agree with you that he probably
+put on the costume and just felt like he was
+
+389
+00:34:40,124 --> 00:34:44,386
+embodying the character. Although, you know,
+British actors tend to be more technical than
+
+390
+00:34:44,686 --> 00:34:49,867
+method when it comes to their acting approach.
+But I don't think it's that bad. Yes, it is
+
+391
+00:34:49,927 --> 00:34:55,409
+bland, but I think it wouldn't have come across
+as so bland if he wasn't around such a colorful
+
+392
+00:34:55,469 --> 00:35:02,711
+cast of characters, specifically the goofy human
+ones. Like Sauron is, you know, pretty bland,
+
+393
+00:35:02,791 --> 00:35:07,812
+you could argue. But no one complains about
+that. Sauron is more of an entity, you know,
+
+394
+00:35:07,992 --> 00:35:14,355
+than an actual character. Well, a ringwraith
+then. I guess also entities. Yeah. Now this
+
+395
+00:35:14,395 --> 00:35:19,558
+film Malekith's motivation is his fixation on
+returning the universe to one of darkness when
+
+396
+00:35:19,578 --> 00:35:24,501
+the dark elves thrived before the dawn of light.
+He tries to use the reality stone to achieve
+
+397
+00:35:24,541 --> 00:35:28,983
+his goal, but the problem is that even when
+he gets the ether, he doesn't particularly
+
+398
+00:35:29,063 --> 00:35:34,447
+seem as threatening as he should be. No. You
+know, for a guy who can warp all reality, he
+
+399
+00:35:34,487 --> 00:35:39,089
+seems unimaginative and underpowered. Well,
+I mean, it was never really clearly established
+
+400
+00:35:39,109 --> 00:35:46,148
+that he had the reality infinity stone until
+the very end of the movie. So, I mean, if you're
+
+401
+00:35:46,168 --> 00:35:49,950
+just watching this for the first time, you're
+not going to assume that he just all of a sudden
+
+402
+00:35:49,990 --> 00:35:55,333
+has infinite power almost. But yeah, in hindsight,
+watching this, oh, you're going to shoot some
+
+403
+00:35:55,433 --> 00:36:02,456
+crystal shards. OK, they seem to be doing nothing.
+I mean, we spent the whole movie as the audience
+
+404
+00:36:02,576 --> 00:36:08,459
+just dreading what would happen if the villain
+got his red juice. And you know, it was underwhelming,
+
+405
+00:36:08,679 --> 00:36:13,743
+especially the line from Thor during the climactic
+battle when he says, You know, with all that
+
+406
+00:36:13,783 --> 00:36:19,428
+power, I thought you'd hit harder. That horribly
+undersold Malekith and his might. You know,
+
+407
+00:36:19,528 --> 00:36:24,692
+he seemed so much weaker than his henchman,
+Kurs, who was beating the shit out of Thor
+
+408
+00:36:24,812 --> 00:36:29,857
+over on Svartalheim. Right? So it just made
+Malekith all the less impressive, which is
+
+409
+00:36:29,917 --> 00:36:33,640
+something that you don't want for a guy who
+already started out pretty bland. Well, how
+
+410
+00:36:33,660 --> 00:36:37,771
+would you have changed it? Like, what would
+you have done? I would have changed the characterization
+
+411
+00:36:38,071 --> 00:36:43,175
+of Malekith and I also would have rewritten
+the climactic battle so that it was more of
+
+412
+00:36:43,215 --> 00:36:47,878
+a struggle for Thor. He can't be going around
+saying lines like, you call that a punch or
+
+413
+00:36:47,898 --> 00:36:53,042
+something like that, you know, it just doesn't
+work. The villain needs to be seen as a legitimate
+
+414
+00:36:53,062 --> 00:36:57,205
+threat. Now, there are a few other characters
+within the movie. You know, you have the human
+
+415
+00:36:57,245 --> 00:37:02,649
+scientists and you also have the Warriors Three
+and the other Asgardians and you have Curse
+
+416
+00:37:02,689 --> 00:37:06,761
+as well. but none of them had substantial enough
+roles within the plot, I think, to warrant
+
+417
+00:37:06,781 --> 00:37:10,213
+a character breakdown. So let's go ahead and
+move into our story highlights.
+
+418
+00:37:17,486 --> 00:37:23,148
+Our fantasies collide and heroes clash. One
+podcast network rises above the rest. Prepare
+
+419
+00:37:23,168 --> 00:37:28,891
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+420
+00:37:28,951 --> 00:37:34,633
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+421
+00:37:37,690 --> 00:37:43,396
+Smash every Tuesday, Max Destruction, where
+TV and action heroes battle every Wednesday,
+
+422
+00:37:43,956 --> 00:37:49,882
+and Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+423
+00:37:49,902 --> 00:37:55,608
+the matches and, armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+424
+00:37:56,149 --> 00:38:00,413
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+425
+00:38:04,910 --> 00:38:10,054
+Millennia ago, the leader of the Dark Elves,
+Malekith the Accursed, tried to use the power
+
+426
+00:38:10,094 --> 00:38:15,018
+of the Reality Warping Aether to cast the universe
+into darkness during a time when the Nine Realms
+
+427
+00:38:15,138 --> 00:38:20,462
+were in celestial alignment. He was stopped
+by Bor, leader of the Asgardians who caused
+
+428
+00:38:20,522 --> 00:38:25,646
+Malekith to flee, and the Asgardians hid the
+Aether deep underground. This opening scene
+
+429
+00:38:25,867 --> 00:38:31,351
+was awesome. Dude, it reminded me of the opening
+scene to the Fellowship of the Ring. Yeah.
+
+430
+00:38:31,851 --> 00:38:36,916
+It was so cool to see Odin's father, Bor. and
+to see him lead the Asgardians against the
+
+431
+00:38:36,956 --> 00:38:42,261
+Dark Elves. Just all the world building that
+took place in the scene alone had me pumped
+
+432
+00:38:42,321 --> 00:38:47,085
+for the rest of the movie. I just love the approach
+they took with the Dark Elves and the Asgardians,
+
+433
+00:38:47,345 --> 00:38:51,329
+and like the different weaponry they had and
+stuff like that. Like the Dark Elves had their
+
+434
+00:38:51,589 --> 00:38:55,913
+black hole bombs and red crystals that they
+could crush and would turn them into like these
+
+435
+00:38:55,953 --> 00:39:01,662
+powerhouses. It was almost like, I don't know
+why, StarCraft for some reason to me. Yeah,
+
+436
+00:39:01,682 --> 00:39:05,283
+like it was like the Zerg versus the Protoss
+or something like that. It was just really
+
+437
+00:39:05,323 --> 00:39:10,944
+cool. That's a great analogy. That's really
+what it felt like. I don't necessarily love
+
+438
+00:39:10,984 --> 00:39:15,786
+the more sci-fi angle of the Dark Elves, but
+somehow we still managed to work within the
+
+439
+00:39:15,806 --> 00:39:20,627
+parameters of this mythological fantasy world
+building. Yeah, I think Alan Taylor has done
+
+440
+00:39:20,647 --> 00:39:25,849
+that better than any other director to handle
+Thor. Yeah, the look of the Dark Elves to their
+
+441
+00:39:25,869 --> 00:39:31,755
+masks. That's cool. That's really cool. I guess
+I just wish they weren't firing guns. I wish
+
+442
+00:39:31,775 --> 00:39:36,457
+they were firing bow and arrow type weapons.
+Or at least like a, like do a crossbow. Like
+
+443
+00:39:36,537 --> 00:39:41,559
+meet me in the middle. Right. In the present
+day, after the battle of New York, Loki is
+
+444
+00:39:41,599 --> 00:39:46,842
+imprisoned for attempting to enslave humanity.
+With the Bifrost now restored after the events
+
+445
+00:39:46,862 --> 00:39:52,164
+of the first Thor film, Thor and his friends
+travel the realms, restoring peace before returning
+
+446
+00:39:52,224 --> 00:39:59,668
+home to Asgard. The scene on Vanaheim. was interesting
+because you have Thor going up against a cronin,
+
+447
+00:39:59,748 --> 00:40:04,651
+which is a race of beings that Korg is a member
+of. So it's funny seeing this like serious
+
+448
+00:40:04,691 --> 00:40:09,774
+version of Korg just get his ass kicked by Thor
+when he essentially reduces him to rubble.
+
+449
+00:40:10,274 --> 00:40:16,938
+I wish Thor would do that to Korg. Yeah, I agree.
+That's what I felt when I saw that. It's interesting
+
+450
+00:40:16,978 --> 00:40:21,500
+how each of the realms have their own kind of
+geography to them. Like Vanaheim is very much
+
+451
+00:40:21,540 --> 00:40:27,805
+like the foresty type realm. You know, Jotunheim
+is the icy realm, Muspelheim is the fiery realm.
+
+452
+00:40:28,285 --> 00:40:33,490
+You have Svartelheim, which is like the dark
+desert. Midgard, of course, is the planet Earth.
+
+453
+00:40:33,831 --> 00:40:39,356
+Asgard is the golden city, the golden realm,
+you know. Oh, man. Niflheim, which was portrayed
+
+454
+00:40:39,396 --> 00:40:44,821
+in Thor Ragnarok when Valkyrie fought Hela,
+and that was like a land of smoke and mist
+
+455
+00:40:44,841 --> 00:40:50,282
+and stuff. So many different worlds. Such cool
+settings. Yeah, they're really cool. Meanwhile,
+
+456
+00:40:50,382 --> 00:40:55,386
+on Earth, astrophysicist Jane Foster and her
+assistant Darcy stumble upon a gravitational
+
+457
+00:40:55,466 --> 00:41:00,911
+anomaly in London caused by the Convergence,
+which is an alignment of the realms. A hidden
+
+458
+00:41:00,971 --> 00:41:06,015
+portal takes Jane to the secret location of
+the Aether, where it invades her body. Thor
+
+459
+00:41:06,075 --> 00:41:11,140
+notices her disappearance and travels to Earth
+to bring her to Asgard for help. There, Thor
+
+460
+00:41:11,160 --> 00:41:15,964
+and Jane learn that the Aether will kill Jane
+if it's not removed from her body. Now, as
+
+461
+00:41:16,004 --> 00:41:23,496
+far as plot devices go, The convergence is not
+the cleanest. It's a little bit muddy. There
+
+462
+00:41:23,516 --> 00:41:28,178
+aren't any clear rules to it other than just
+sometimes there are these places where you
+
+463
+00:41:28,218 --> 00:41:33,920
+can slip between the worlds. And that's basically
+it. How that corresponds to the floating disks
+
+464
+00:41:34,120 --> 00:41:38,722
+that appear hovering over a Greenwich during
+the precise moment of the convergence and stuff
+
+465
+00:41:38,742 --> 00:41:43,364
+like that. It's, it's a little bit weird. I
+don't know if they quite knew how to depict
+
+466
+00:41:43,424 --> 00:41:48,527
+it in this abstract way. I just don't think
+it was very successful. I saw those as sort
+
+467
+00:41:48,547 --> 00:41:54,531
+of like tears in reality and like openings to
+these other worlds essentially. I didn't think
+
+468
+00:41:54,551 --> 00:41:58,234
+it was terrible. I think that's what a lot of
+people have issue with this film though. It's
+
+469
+00:41:58,274 --> 00:42:03,698
+simple in concept, but the more you think about
+it, I feel like the less it holds up and it's
+
+470
+00:42:03,838 --> 00:42:09,262
+largely a matter of convenience in terms of
+how the plot progresses. Like, of course Jane
+
+471
+00:42:09,282 --> 00:42:13,765
+just happened to find the portal that leads
+to the secret location of the ether. Of course.
+
+472
+00:42:14,146 --> 00:42:18,650
+Thor and Jane just happen to find the portal
+that leads back to Jane's car back on Earth
+
+473
+00:42:18,770 --> 00:42:23,796
+at the end, you know? Well, I mean, sort of.
+The first one I would say, you know, she is
+
+474
+00:42:24,036 --> 00:42:29,282
+a leading scientist in the world regarding this
+kind of stuff. So it makes sense that she would
+
+475
+00:42:29,522 --> 00:42:35,608
+stumble upon it before pretty much anyone else
+except for those kids. You could definitely
+
+476
+00:42:35,628 --> 00:42:39,547
+say it's convenient. That they found their way
+back to their car But they also kind of set
+
+477
+00:42:39,567 --> 00:42:43,970
+that up earlier in the film in the scene that
+we're talking about Where things would go through
+
+478
+00:42:43,990 --> 00:42:48,693
+the portals and come back to the same location?
+So not too convenient. You don't have to spend
+
+479
+00:42:48,733 --> 00:42:54,217
+so much time defending it man. It's okay It
+is a bunch of mumbo jumbo. I'm saying it makes
+
+480
+00:42:54,257 --> 00:42:59,301
+sense in the story that they set up right in
+concept Yes, but I also think that maybe you're
+
+481
+00:42:59,321 --> 00:43:04,304
+not thinking about as hard as you could be and
+for that. I'm grateful I'm thinking about it
+
+482
+00:43:04,384 --> 00:43:11,660
+so hard. You have no idea My favorite joke in
+this whole movie is when the intern to Darcy
+
+483
+00:43:11,720 --> 00:43:16,502
+throws the keys into the portal and then they
+just like don't reappear and she's like, were
+
+484
+00:43:16,522 --> 00:43:23,625
+those the car keys? That was a solid joke. Yeah,
+that was great. Back to the story, the discovery
+
+485
+00:43:23,665 --> 00:43:29,167
+of the Aether awakens the Dark Elves from suspended
+animation. Malekith's lieutenant, Algrim the
+
+486
+00:43:29,207 --> 00:43:35,491
+Strong, goes undercover as a marauder and infiltrates
+Asgard's prison. where he dons the curse armor
+
+487
+00:43:35,611 --> 00:43:40,995
+and causes a mass breakout. The Dark Elves invade
+Asgard looking for Jane to extract the Aether
+
+488
+00:43:41,015 --> 00:43:46,800
+from her, though Thor's mother Frigga successfully
+hides her and is killed in the process. Thor
+
+489
+00:43:46,840 --> 00:43:51,824
+burns half of Malekith's face with his lightning,
+but he is unable to keep the Dark Elves from
+
+490
+00:43:51,884 --> 00:43:57,549
+fleeing. Asgard mourns Frigga, including Loki,
+from his cell. So much to talk about here.
+
+491
+00:43:59,230 --> 00:44:03,653
+The way they portrayed the curse armor in this
+movie I thought was really cool. And he was
+
+492
+00:44:03,753 --> 00:44:08,035
+definitely as strong as he's supposed to be.
+Because curse in the comics is about twice
+
+493
+00:44:08,075 --> 00:44:13,779
+as strong as Thor. And Thor is stronger than
+a motherfucker. So this guy is incredibly strong.
+
+494
+00:44:13,919 --> 00:44:18,622
+And I think they did a good job of showcasing
+that power and just, you know, his ability
+
+495
+00:44:18,642 --> 00:44:22,625
+to punch his way out of prison, essentially.
+Yeah, he literally punched through a force
+
+496
+00:44:22,645 --> 00:44:27,735
+field. That was wild. Frigga's final fight against
+Malekith I thought was badass. She turned into
+
+497
+00:44:27,775 --> 00:44:32,636
+a total freaking warrior chick just slashing
+him across the face and stuff. Rene Russo was
+
+498
+00:44:32,656 --> 00:44:36,857
+badass with that sword. I don't know if that
+was entirely her in all those shots, but I
+
+499
+00:44:36,877 --> 00:44:42,659
+was impressed. So it was incredibly tragic when
+Malekith had cursed Stapper. Yeah, that was
+
+500
+00:44:42,679 --> 00:44:47,540
+a great scene. I love the fact that they depicted
+her as this trickster. It really led credence
+
+501
+00:44:47,560 --> 00:44:51,361
+to the idea that she had a close relationship
+with Loki and maybe like taught him everything
+
+502
+00:44:51,401 --> 00:44:57,931
+he knows. and gave him reason and justification
+for why he would be upset by her death enough
+
+503
+00:44:57,951 --> 00:45:04,333
+to team up with his rival. The scene when Loki
+learns that Frigid died, he kind of takes it
+
+504
+00:45:04,393 --> 00:45:10,755
+in stride with a stone face and then unleashes
+his might subtly just by clenching his fist
+
+505
+00:45:10,795 --> 00:45:16,177
+and all the furniture around his room goes flying.
+You see the storm of emotion that's welling
+
+506
+00:45:16,217 --> 00:45:21,879
+inside of him. Yeah, totally. Regarding the
+fight... of the Dark Elves versus the Asgardian
+
+507
+00:45:21,899 --> 00:45:27,183
+forces. The Dark Elves are cloaked from Asgard
+and from Heimdall in particular. He was not
+
+508
+00:45:27,223 --> 00:45:32,647
+able to detect their invasion. And when they
+fly past his sentry post, I thought the movie
+
+509
+00:45:32,667 --> 00:45:39,452
+got very Star Wars-esque because you have these
+like Viking ship-inspired crafts shooting like
+
+510
+00:45:39,552 --> 00:45:44,315
+light lasers at these Dark Elf ships that are
+almost like flying swords the way they like
+
+511
+00:45:44,335 --> 00:45:50,247
+crash into stuff. It was incredibly imaginative.
+Dude. Those ships are way cooler than TIE fighters.
+
+512
+00:45:50,487 --> 00:45:54,750
+The Elves ships, they were really cool. I've
+never seen anything like that in any sort of
+
+513
+00:45:54,770 --> 00:45:59,432
+sci-fi spacefaring action scene. You know, it
+was really cool. Dude, they did here. Why do
+
+514
+00:45:59,472 --> 00:46:04,876
+people hate this movie? It makes no sense. They
+just need to watch that scene again. Hell,
+
+515
+00:46:04,916 --> 00:46:10,099
+yeah. What did you think of the funeral scene
+when they shot the flaming arrow onto Frigga's
+
+516
+00:46:10,179 --> 00:46:15,682
+boat and then it turned into stars that floated
+up into the cosmos? I thought that was really
+
+517
+00:46:15,702 --> 00:46:23,345
+heartfelt and a really good way of like reimagining
+a god version of a Viking funeral. Yeah, it
+
+518
+00:46:23,365 --> 00:46:27,807
+was more emotional than I even remembered. I
+think it was the music. The movie has a beautiful
+
+519
+00:46:27,847 --> 00:46:33,349
+score and the theme that's playing as they send
+up these like magic light ball, like paper
+
+520
+00:46:33,409 --> 00:46:39,232
+lantern-esque lights into the sky was just breathtaking.
+Back to the story. To prevent another invasion
+
+521
+00:46:39,272 --> 00:46:44,646
+into Asgard, Thor develops a plan to take Jane
+to the Dark World, Svartalheim. to draw Malekith
+
+522
+00:46:44,666 --> 00:46:49,829
+there where he can extract the Aether and then
+Thor can destroy it. Odin denies his request,
+
+523
+00:46:50,169 --> 00:46:54,672
+believing Malekith obtaining the Aether is too
+great a risk. Thor then conspires with his
+
+524
+00:46:54,712 --> 00:46:59,455
+friends to steal Jaina away in secret, and he
+breaks Loki out of prison for his help since
+
+525
+00:46:59,475 --> 00:47:04,077
+the God of Mischief knows the secret way out
+of Asgard. The whole heist scene that happens
+
+526
+00:47:04,117 --> 00:47:08,760
+in the second act of this movie was incredible.
+It's so much fun. Especially because that's
+
+527
+00:47:08,900 --> 00:47:13,515
+when Loki really comes into play. You know,
+and that scene where Thor approaches his brother
+
+528
+00:47:13,535 --> 00:47:17,978
+and we see him lying on the floor just in agony.
+That was a great brotherly moment. And, you
+
+529
+00:47:17,998 --> 00:47:21,841
+know, when Loki's giving Thor shit and transforms
+into Captain America and everything like that,
+
+530
+00:47:22,181 --> 00:47:26,525
+it's just a series of great moments one right
+after the other during this whole heist portion.
+
+531
+00:47:26,965 --> 00:47:32,149
+Yeah, I agree. My favorite part was where Loki
+was like, this is the dumbest idea. You're
+
+532
+00:47:32,189 --> 00:47:36,131
+taking the biggest ship and you're trying to
+escape with it. And then Thor just like pushes
+
+533
+00:47:36,151 --> 00:47:41,150
+him out of the ship. That was hilarious. That
+was great. I had forgotten that Zachary Levi
+
+534
+00:47:41,170 --> 00:47:46,851
+was in this film. Yeah, he plays Fandral, the
+dashing. He was actually recast from the actor
+
+535
+00:47:46,891 --> 00:47:51,593
+who played the character in the first film.
+And he did a great job. He does a fantastic
+
+536
+00:47:51,613 --> 00:47:56,494
+job. He has a very like Errol Flynn demeanor
+about him that just suits the character so
+
+537
+00:47:56,534 --> 00:48:01,876
+well. Yeah. There was another great scene that
+happened around this point in the story where
+
+538
+00:48:02,076 --> 00:48:09,978
+Thor and Loki are on Svartalheim traveling toward
+Malekith and Thor tells his brother like, and
+
+539
+00:48:10,158 --> 00:48:14,582
+Loki's like, you can trust my rage. I thought
+that was fantastic character building and relationship
+
+540
+00:48:14,622 --> 00:48:19,527
+building. Oh, that and the whole conversation
+preceding it, that was fantastic stuff. Right.
+
+541
+00:48:19,607 --> 00:48:24,532
+Loki blames Thor for him being imprisoned during
+his mother's death, but Thor was like, actually
+
+542
+00:48:24,592 --> 00:48:29,356
+you're to blame for that. And it's just like,
+the conflict there is brilliant. Thor and Loki
+
+543
+00:48:29,416 --> 00:48:34,381
+confront Melekith and the Dark Elves. When it
+appears, Loki betrays Thor and cuts off his
+
+544
+00:48:34,421 --> 00:48:38,939
+hand. However, the illusion is revealed when
+Thor's hand reappears as he uses Mjolnir's
+
+545
+00:48:38,979 --> 00:48:44,161
+lightning in an attempt to destroy the Aether
+as it's extracted from Jain. The attempt proves
+
+546
+00:48:44,222 --> 00:48:48,784
+fruitless however, and Malekith acquires his
+prize before fleeing, leaving Kirst to battle
+
+547
+00:48:48,824 --> 00:48:53,746
+Thor and Loki. Loki kills Kirst with one of
+his own gravity grenades, but is stabbed in
+
+548
+00:48:53,786 --> 00:48:59,468
+the process and seemingly dies in Thor's arms.
+Man, okay, so what did you think the first
+
+549
+00:48:59,508 --> 00:49:05,911
+time you saw Loki's apparent betrayal in this
+movie? Dude, I was pissed and shocked. I was
+
+550
+00:49:06,091 --> 00:49:10,953
+incredibly surprised. I did not see it coming.
+But I also thought like classic Loki, you know,
+
+551
+00:49:10,973 --> 00:49:16,055
+like he can't trust him. But it was surprising
+to me just how harsh he seemingly went about
+
+552
+00:49:16,095 --> 00:49:20,537
+it, where he was like, I'm Loki of Jotunheim.
+I asked for one thing, a good place to watch
+
+553
+00:49:20,617 --> 00:49:25,980
+Asgard burn. I'm like, well, this guy holds
+a grudge like none other. The emotions that
+
+554
+00:49:26,020 --> 00:49:29,601
+just like surged through the audience when watching
+this movie the first time when it was revealed
+
+555
+00:49:29,621 --> 00:49:34,246
+that it was all a trick. and that Loki and Thor
+were actually working together. You know, first
+
+556
+00:49:34,286 --> 00:49:39,648
+you have the relief that Loki's not that big
+of a douchebag. Then you have the relief that
+
+557
+00:49:39,708 --> 00:49:43,049
+it looks like their plan is going to be carried
+out and, you know, they're going to destroy
+
+558
+00:49:43,069 --> 00:49:47,370
+the Aether and save the day and work together.
+And it was all just fantastic. And then you
+
+559
+00:49:47,390 --> 00:49:52,752
+combine that with what happened shortly after
+where Loki seemingly dies. And it's nothing
+
+560
+00:49:52,772 --> 00:49:57,633
+short of a roller coaster. It was so thrilling
+to watch. I just loved the drama of it. On
+
+561
+00:49:57,693 --> 00:50:02,967
+top of that, you have... Loki's real betrayal
+where he takes the throne of Asgard. And yeah,
+
+562
+00:50:03,007 --> 00:50:08,210
+this is like peak Thor and Loki. Guys, like
+who dislikes this movie? You're wrong, you're
+
+563
+00:50:08,230 --> 00:50:13,232
+wrong. I thought it was particularly badass
+how Loki seemingly died and how Loki killed
+
+564
+00:50:13,292 --> 00:50:18,634
+Kurs. Like Kurs was just laying waste to Thor,
+you know. He was even deflecting Mjolnir being
+
+565
+00:50:18,654 --> 00:50:23,176
+thrown at him and stuff like that, because he's
+just that strong. But then Loki runs a sword
+
+566
+00:50:23,196 --> 00:50:28,738
+through Kurs, Kurs not even really being affected.
+uses that same sword that's going through his
+
+567
+00:50:28,778 --> 00:50:34,920
+body to impale Loki, but Loki basically sacrifices
+himself to get in close and pull one of Curse's
+
+568
+00:50:34,960 --> 00:50:39,962
+gravity bombs. It was a fascinating sequence
+of events right there. Yeah, honestly, my favorite
+
+569
+00:50:40,002 --> 00:50:45,144
+part of the whole movie. This whole scene was
+just great. Yeah. Back to the story, Thor and
+
+570
+00:50:45,164 --> 00:50:49,745
+Jane retreat to a cave where Jane discovers
+another portal between Svartalheim and Earth.
+
+571
+00:50:50,294 --> 00:50:54,956
+Back in London, she and Thor regroup with Darcy
+and Erik Selvig where they determine the center
+
+572
+00:50:54,976 --> 00:50:59,859
+of the convergence will be in Greenwich, England.
+When Malekith and the Dark Elves arrive, Thor
+
+573
+00:50:59,919 --> 00:51:05,882
+battles them as Jane and Erik use gravitational
+anomaly detectors to help him out. I still
+
+574
+00:51:05,902 --> 00:51:12,365
+don't understand how the humans were able to
+create like portals and stuff with these tool
+
+575
+00:51:12,405 --> 00:51:17,948
+things. I don't know. It was just, it was too
+much. They were MacGuffins for sure. They weren't
+
+576
+00:51:17,988 --> 00:51:23,647
+created to generate portals. They just happened
+to be able to tap into that kind of energy
+
+577
+00:51:23,747 --> 00:51:27,809
+because they were made to detect gravitational
+anomalies. I don't know if the science quite
+
+578
+00:51:27,849 --> 00:51:31,470
+checks out on that, but you know, that's one
+of the issues with this climactic battle to
+
+579
+00:51:31,490 --> 00:51:36,753
+begin with. You're saying that, you know, there's
+mumbo jumbo in this movie. This is really,
+
+580
+00:51:37,093 --> 00:51:40,774
+I feel like the only thing that's mumbo jumbo.
+This is the only thing that doesn't make sense
+
+581
+00:51:40,794 --> 00:51:46,457
+to me. Yeah. Well, largely also because Thor
+was able to use them as such powerful tools
+
+582
+00:51:46,517 --> 00:51:51,632
+against his enemy. when he was like throwing
+him into his arms and then Jane was using her
+
+583
+00:51:51,852 --> 00:51:56,935
+computer to transport Malekith's body parts
+and stuff like that. They were kind of cheating,
+
+584
+00:51:57,155 --> 00:52:01,978
+I think. Absolutely. I guess is a way to put
+it. And I guess you're right that Malekith
+
+585
+00:52:01,998 --> 00:52:06,820
+was too weak in the sense that Kurs was blocking
+shots from Yolner, but it just took one shot
+
+586
+00:52:06,840 --> 00:52:13,224
+from Yolner to essentially destroy Malekith.
+Well, the final shot from Thor didn't destroy
+
+587
+00:52:13,264 --> 00:52:19,108
+Malekith. It transported him limbless. to Svartalheim
+where eventually the ship crashed onto him
+
+588
+00:52:19,148 --> 00:52:23,491
+and that's what destroyed Malekith. That's fair.
+That's true. But we're not quite there yet.
+
+589
+00:52:23,931 --> 00:52:28,234
+Thor's battle against Malekith goes between
+the realms of Earth, Svartalheim, Vanaheim,
+
+590
+00:52:28,334 --> 00:52:34,359
+and Jotunheim as the Convergence reaches precise
+alignment. Thor loses Mjolnir in the fight
+
+591
+00:52:34,779 --> 00:52:39,723
+and Malekith begins shrouding the universe in
+darkness. Thor uses the gravitational anomaly
+
+592
+00:52:39,763 --> 00:52:44,154
+detectors to teleport Malekith away from the
+Convergence and back into the Dark World. The
+
+593
+00:52:44,214 --> 00:52:48,137
+Elves ship also gets transported there where
+it falls and crushes Malekith, destroying him.
+
+594
+00:52:48,297 --> 00:52:53,182
+Like I just said. In addition to all the substandard
+stuff going on during this climax, I didn't
+
+595
+00:52:53,242 --> 00:52:58,507
+like how they disrupted the action by having
+Thor take the underground train to get back
+
+596
+00:52:58,527 --> 00:53:02,751
+to Greenwich. I thought it was a needless break
+that really sapped the great momentum that
+
+597
+00:53:02,771 --> 00:53:06,374
+they had built up during the battle as they
+were just basically flying through all these
+
+598
+00:53:06,394 --> 00:53:12,855
+different realms, battling each other. No, I
+100% agree. It's just that stupid Marvel bathos
+
+599
+00:53:12,875 --> 00:53:17,678
+that they think is funny. But I'm like, come
+on, stop. Yeah, I was like, get back to it,
+
+600
+00:53:17,698 --> 00:53:23,142
+guys. Hurry up. Hurry up. It turns the climactic
+anti-climactic really is what it did. Right.
+
+601
+00:53:23,482 --> 00:53:28,406
+Exactly. Especially the stuff with Darcy and
+her intern, too. Like what we no one cared
+
+602
+00:53:28,426 --> 00:53:33,209
+about them. We did not need to see that stuff
+during the main battle. You know, Darcy, Jane,
+
+603
+00:53:33,469 --> 00:53:42,310
+Ian, Sylveig, Mew Mew. That was pretty funny,
+but unnecessary. Thor returns the Aether to
+
+604
+00:53:42,410 --> 00:53:47,351
+Asgard where he tells Odin that he denies the
+throne and wishes to remain with Jain on Earth.
+
+605
+00:53:47,711 --> 00:53:53,973
+Odin accepts Thor's request but as Thor leaves,
+Odin is revealed to be Loki in disguise. Thor
+
+606
+00:53:54,013 --> 00:53:59,375
+returns to Earth and reunites with Jain. Meanwhile,
+Thor's friends Volstagg and Sif give the Aether
+
+607
+00:53:59,435 --> 00:54:04,776
+to the Collector to keep it separate from Asgard's
+other Infinity Stone, the Tesseract. What did
+
+608
+00:54:04,796 --> 00:54:09,297
+you think of the reveal when you saw Loki sitting
+on the throne in the final shot before the
+
+609
+00:54:09,317 --> 00:54:16,179
+credits rolled? Dude, I loved that. That was
+like jaw dropping, just like, holy shit. That
+
+610
+00:54:16,199 --> 00:54:20,700
+was such a great villain moment. Like if you
+and I ever did a top 10 bonus episodes of like
+
+611
+00:54:20,740 --> 00:54:26,002
+the best villain moments, that's gotta be up
+there. Oh, for sure. Hands down. I remember
+
+612
+00:54:26,022 --> 00:54:30,223
+during the mid credit scene where we're on nowhere
+with the collector, I just thought everything
+
+613
+00:54:30,383 --> 00:54:34,604
+felt so bizarre, but that's because we hadn't
+been introduced to the world of Guardians of
+
+614
+00:54:34,624 --> 00:54:40,005
+the Galaxy yet, which was totally unlike anything
+else that we had seen this point in the MCU.
+
+615
+00:54:40,266 --> 00:54:45,449
+and the scene still feels really strange to
+me. It was directed by James Gunn. The cinematography
+
+616
+00:54:45,489 --> 00:54:50,453
+is different. Yeah, and that adds to the disjointed
+feeling you get when watching it. It really
+
+617
+00:54:50,473 --> 00:54:55,217
+should have been the post-credits scene. They
+should have flipped the post and mid-credits
+
+618
+00:54:55,237 --> 00:55:00,040
+scenes, I feel. Yeah, yeah. The final end-credits
+scene was Thor returning back to Earth and
+
+619
+00:55:00,100 --> 00:55:04,884
+he and Jane embracing each other, but I think
+audiences really needed that type of closure
+
+620
+00:55:05,024 --> 00:55:09,355
+within the main story itself, not just tacked
+on. for sure, especially considering how many
+
+621
+00:55:09,395 --> 00:55:15,399
+people I still, to this day, see leave during
+the credits at a Marvel movie. I'm like, what
+
+622
+00:55:15,439 --> 00:55:20,743
+are you doing? It's a Marvel movie. But that
+brings us to the end of the film. I have very
+
+623
+00:55:20,803 --> 00:55:26,927
+few bad things to say about it, honestly. I
+appreciate this movie more now than I did back
+
+624
+00:55:26,947 --> 00:55:31,910
+when I first watched it, and I really liked
+it when I first watched it. I never quite understood
+
+625
+00:55:31,970 --> 00:55:37,382
+the flack that it got from fans. This is what
+I want my Thor movie to be, essentially. Overall,
+
+626
+00:55:37,422 --> 00:55:41,425
+the high fantasy worldbuilding and story align
+with what the Norse mythological superheroes
+
+627
+00:55:41,545 --> 00:55:47,610
+adventures should be. Generic villain notwithstanding,
+I give this film 4 stars and a fresh rating
+
+628
+00:55:47,731 --> 00:55:53,315
+on Rotten Tomatoes. Yeah, I definitely think
+it's worthy of a 4 star rating. This is the
+
+629
+00:55:53,355 --> 00:55:58,039
+same rating we gave Man of Steel in the first
+Wonder Woman movie. I think it's up there.
+
+630
+00:55:58,500 --> 00:56:03,624
+I mean, even though the villain is pretty bad
+and the humans are kind of annoying, they're
+
+631
+00:56:03,644 --> 00:56:08,523
+not so annoying to ruin the film. And there
+are so many other things that just make up
+
+632
+00:56:08,563 --> 00:56:14,605
+for it. I think it's a spectacular movie. Definitely
+the best Thor movie. I will fight you if you
+
+633
+00:56:14,645 --> 00:56:18,927
+say it's Thor Ragnarok, because you are wrong.
+You don't have to fight me, man. Right there
+
+634
+00:56:18,947 --> 00:56:25,250
+with you. Sweet. Not that you would win anyway.
+Oh, dude, I would totally stop you. That does
+
+635
+00:56:25,270 --> 00:56:29,252
+it for this review. Let us know what you thought
+about the movie by writing to us at dynamicduelpodcast
+
+636
+00:56:29,272 --> 00:56:33,733
+at gmail.com or by visiting us on Instagram,
+which you can find a link to on our show notes.
+
+637
+00:56:34,154 --> 00:56:38,595
+or by visiting our website at dynamicduel.com.
+And on our site, you could also find a link
+
+638
+00:56:38,615 --> 00:56:43,296
+to our Patreon page, where you could join our
+dynamic 2.0 tier and chat with us and fellow
+
+639
+00:56:43,336 --> 00:56:48,997
+listeners, our fantastic 4 tier, which gets
+you bonus content to each month, our X force
+
+640
+00:56:49,038 --> 00:56:54,479
+tier that makes you an executive producer of
+this podcast, or our newest tier that lets
+
+641
+00:56:54,499 --> 00:56:59,560
+you join our DynaMic podcast network. And guys,
+please don't forget to rate our show on Apple
+
+642
+00:56:59,600 --> 00:57:06,203
+podcasts, Spotify, Podchaser, or on our website.
+In our next episode, we will be doing a duel
+
+643
+00:57:06,343 --> 00:57:13,028
+between the DC villain Psycho Pirate and the
+X-Men villain Mastermind. Both of these characters
+
+644
+00:57:13,168 --> 00:57:18,332
+have a lot to do with like mental illusions,
+so it should be fun. And this of course is
+
+645
+00:57:18,372 --> 00:57:24,756
+in lead up to our review of the animated DC
+film Crisis on Infinite Earths Part 2. Right,
+
+646
+00:57:24,776 --> 00:57:28,118
+which comes out at the end of the month. But
+that does it for this episode, we want to give
+
+647
+00:57:28,139 --> 00:57:32,822
+a big thanks to our executive producers Ken
+Johnson, John Sturowski, Zachary Hepburn, Dustin
+
+648
+00:57:32,842 --> 00:57:37,783
+Belcom, Mickey Montagian, Brandon Estergard,
+Nathaniel Wagner, Levi Yatin, Austin Wissolowski,
+
+649
+00:57:38,023 --> 00:57:44,905
+AJ Dunkerley, Scott Camacho, Adam Spies, Andrew
+Schunk, Dean Molesky, and Devin Davis, our
+
+650
+00:57:45,085 --> 00:57:50,887
+newest executive producer. Thank you so much
+Devin for supporting this podcast and for influencing
+
+651
+00:57:51,147 --> 00:57:56,269
+what you hear on this show. We'll talk to you
+guys next week. Up, up and away. True Believers.
+
+652
+00:57:56,949 --> 00:58:00,050
+There's a convergence happening right now. In
+my pants.
+
