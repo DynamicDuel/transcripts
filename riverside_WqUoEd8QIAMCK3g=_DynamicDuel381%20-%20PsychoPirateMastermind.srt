@@ -1,0 +1,2723 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a DynaMic Network podcast.
+
+2
+00:00:24,362 --> 00:00:28,884
+Welcome to the dynamic duel podcast a weekly
+show where we review superhero films and debate
+
+3
+00:00:28,904 --> 00:00:34,346
+the superiority between Marvel and DC By comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:34,806 --> 00:00:40,549
+I'm Marvelous Joe and I'm his twin brother Johnny
+DC And in this episode we are going to find
+
+5
+00:00:40,589 --> 00:00:48,252
+out who'd win in a fight between the grand illusionist
+characters Psycho pirate and mastermind. Yes,
+
+6
+00:00:48,332 --> 00:00:54,947
+psycho pirate is a JSA villain whereas mastermind
+is a villain of the X-Men. Yeah, it should
+
+7
+00:00:54,987 --> 00:01:00,471
+be a pretty trippy duel speculation later on
+this episode. Yeah, if you guys take mushrooms,
+
+8
+00:01:00,971 --> 00:01:08,156
+take them now. If you microdose, just forget
+the micro part. Cause it's gonna be crazy,
+
+9
+00:01:08,196 --> 00:01:12,539
+man. No, we're gonna talk about who'd win in
+a fight. We're gonna plug in the character
+
+10
+00:01:12,559 --> 00:01:17,074
+stats, run a thousand simulations, and come
+up with the definitive answer. Later on this
+
+11
+00:01:17,114 --> 00:01:20,215
+episode, before that we're gonna break down
+the latest comic book movie news to come out
+
+12
+00:01:20,255 --> 00:01:24,716
+this past week, of which there was just one
+news item, fairly low key and mostly boring.
+
+13
+00:01:25,076 --> 00:01:29,517
+We learned that Jonathan and Martha can't have
+been cast in the Superman film. Bias! On me
+
+14
+00:01:29,577 --> 00:01:33,238
+I'm like, who cares? I'm like, who cares? Bias.
+But as always, we list our segment times in
+
+15
+00:01:33,258 --> 00:01:37,159
+our episode description, so feel free to check
+out the show notes if you want to skip ahead
+
+16
+00:01:37,459 --> 00:01:43,261
+past the boring stuff. What the fuck? Our artificially
+intelligent duel simulator, AJ9K, has a quick
+
+17
+00:01:43,301 --> 00:01:49,812
+message for our listeners, so listen up. Why
+hello there. Do you love listening and chatting
+
+18
+00:01:49,852 --> 00:01:54,998
+about Marvel and DC? Then become a part of the
+dynamic duel community on Patreon, where you
+
+19
+00:01:55,038 --> 00:02:00,323
+can choose from three tiers. The dynamic two-o
+tier lets you listen to this podcast without
+
+20
+00:02:00,444 --> 00:02:05,169
+ads and gives you access to its discord chat
+group, where you can chat with Johnny DC and
+
+21
+00:02:05,209 --> 00:02:10,115
+marvelous Joe. The Fantastic Four tier gives
+you that and more with two bonus episodes each
+
+22
+00:02:10,155 --> 00:02:14,597
+month, including bloopers and top ten shows
+where Johnny and Joe count down your favourite
+
+23
+00:02:14,637 --> 00:02:19,660
+Marvel and DC subjects. The X-Force tier makes
+you an executive producer of Dynamic Duel,
+
+24
+00:02:20,020 --> 00:02:23,942
+where every month you help the hosts choose
+what to review and who to fight against each
+
+25
+00:02:24,002 --> 00:02:29,924
+other. And finally, the Dynamite Podcast Network
+tier allows aspiring podcasters to create their
+
+26
+00:02:30,085 --> 00:02:33,286
+own battle-focused show using this Monte Carlo
+simulator.
+
+27
+00:02:52,931 --> 00:02:58,712
+Thanks AJ9K and thanks to everyone who supports
+the podcast, including executive producer Brandon
+
+28
+00:02:58,752 --> 00:03:04,942
+Estregard who had his birthday this past week.
+Happy birthday, Brandon! If I could get you
+
+29
+00:03:05,062 --> 00:03:10,967
+one gift from Marvel, I think it would be to
+have the power of the puppet master, the Fantastic
+
+30
+00:03:11,007 --> 00:03:15,370
+Four villain. That way you can animate all the
+cool Funko pops that you have. And I would
+
+31
+00:03:15,410 --> 00:03:20,434
+give you the power of Toy Man, who actually
+I don't think has any powers, but he has a
+
+32
+00:03:20,474 --> 00:03:26,298
+lot of cool toys, just like you. Happy birthday,
+man. Be sure to tune into the shows in the
+
+33
+00:03:26,358 --> 00:03:31,950
+DynaMic podcast network this week, including
+Max Destruction. which pits your favorite action
+
+34
+00:03:31,970 --> 00:03:36,932
+heroes from film and television against each
+other. This week though, hosts Ken and Scotty
+
+35
+00:03:37,132 --> 00:03:42,835
+will be doing a review of the wrestling film,
+Ready to Rumble. On the Senjou World podcast,
+
+36
+00:03:42,915 --> 00:03:47,917
+host Zachary Hepburn speculates on fights between
+fan favorite anime and manga characters. This
+
+37
+00:03:47,957 --> 00:03:52,899
+Thursday, he's going to find out who would win
+in a fight between Mahito from Jujutsu Kaisen
+
+38
+00:03:53,140 --> 00:03:59,243
+and Elder Toguro from Yu Hakusho. On the Console
+Combat podcast, hosts John and Dean find out
+
+39
+00:03:59,283 --> 00:04:04,027
+who would win in fights between popular video
+game characters. In yesterday's episode, they
+
+40
+00:04:04,087 --> 00:04:08,911
+reviewed season 1 of the Fallout television
+series. Not listening to it because I haven't
+
+41
+00:04:08,991 --> 00:04:13,394
+watched it yet, but I'm dying to. Well, I never
+played the game, so I don't know if I would
+
+42
+00:04:13,414 --> 00:04:17,998
+get much out of it. That doesn't bother me.
+It's fine. I'll learn about the game through
+
+43
+00:04:18,018 --> 00:04:22,401
+the show. Visit dynamicpodcasts.com or click
+the link in our show notes to listen to all
+
+44
+00:04:22,422 --> 00:04:24,603
+of the shows in the DynaMic Podcast Network.
+
+45
+00:04:27,606 --> 00:04:33,289
+the Rankers podcast where you can listen to
+Jonathan and I get into a full on debate over
+
+46
+00:04:33,349 --> 00:04:37,632
+who is better between Marvel and DC. Now I know
+what you're thinking, don't you guys do that
+
+47
+00:04:37,692 --> 00:04:42,334
+every week on the show? Well in the Rankers
+podcast that we guested on we took a more holistic
+
+48
+00:04:42,374 --> 00:04:48,038
+approach to the Marvel versus DC debate. Joseph
+and I each got five minutes to explain why
+
+49
+00:04:48,078 --> 00:04:53,681
+we think DC or Marvel is better and then yeah
+we just argued with the guys and it was a whole
+
+50
+00:04:53,701 --> 00:04:58,551
+lot of fun. and yeah, be sure to check it out
+this Friday, April 26th. But with that out
+
+51
+00:04:58,571 --> 00:05:05,033
+of the way, quick to the No Prize. A No Prize
+is an award Marvel used to give out to fans.
+
+52
+00:05:05,353 --> 00:05:10,035
+Our version, the Dynamic duel No Prize, is a
+digital award we post on Instagram for the
+
+53
+00:05:10,075 --> 00:05:15,176
+person that we feel gave the best answer to
+our question of the week. Last week we asked,
+
+54
+00:05:15,356 --> 00:05:21,046
+what film are you looking forward to more this
+year? Deadpool and Wolverine? or Joker Folly-a-doo.
+
+55
+00:05:21,106 --> 00:05:25,707
+And this is coming off of the teaser trailer
+that we got for Joker Folly-a-doo. And Jonathan
+
+56
+00:05:25,747 --> 00:05:30,969
+just felt like he wanted to be a glutton for
+punishment by asking this question. We got
+
+57
+00:05:31,069 --> 00:05:35,210
+three honorable mentions, as well as a no prize
+winner. So let's go ahead and break those down.
+
+58
+00:05:35,710 --> 00:05:41,932
+Our first honorable mention goes to Harrison
+Fox, who said, As much as I enjoy Joker, and
+
+59
+00:05:41,952 --> 00:05:46,533
+I'm looking forward to the continuation of that
+story, nothing can compare to the hype of Deadpool
+
+60
+00:05:46,553 --> 00:05:51,318
+and Wolverine. It's going to be the first real
+bridge between the Fox universe and the MCU,
+
+61
+00:05:51,379 --> 00:05:55,100
+something we've been waiting almost 20 years
+for. It's going to have Hugh Jackman in the
+
+62
+00:05:55,120 --> 00:06:00,781
+classic yellow costume. It's going to have the
+TVA and it's going to have Deadpool. There
+
+63
+00:06:00,921 --> 00:06:06,623
+is nothing more exciting than all of that. No
+matter how much Lady Gaga you have in your
+
+64
+00:06:06,663 --> 00:06:11,724
+movie. Yeah. It would take at least three times
+as much Lady Gaga and Joker Folly I do to even
+
+65
+00:06:11,884 --> 00:06:16,345
+come close to the level of anticipation people
+are feeling for Deadpool and Wolverine this
+
+66
+00:06:16,365 --> 00:06:24,771
+summer. That is a scientific fact. That is that
+is a lot of Lady Gaga. I mean, I do kind of
+
+67
+00:06:24,791 --> 00:06:29,234
+see where he's coming from, where there's all
+this hype that the X-Men are finally going
+
+68
+00:06:29,274 --> 00:06:35,738
+to appear in the MCU. But, man, I'm like, we
+already got our first mutant with Miss Marvel,
+
+69
+00:06:35,918 --> 00:06:40,662
+you know? Well, we've also seen Professor X
+in the Multiverse of Madness movie, and then
+
+70
+00:06:40,682 --> 00:06:45,705
+there was Beast in the Marvel's film. But this
+is going to be like a whole lot more of that
+
+71
+00:06:45,945 --> 00:06:50,860
+awesomeness. And those really weren't even that
+awesome. They were that awesome, actually.
+
+72
+00:06:50,960 --> 00:06:54,863
+They were incredible. I cannot wait for Deadpool
+and Wolverine. Great answer, Harrison Fox.
+
+73
+00:06:54,903 --> 00:07:01,187
+I think you put it very well. Our next honorable
+mention goes to Travis Herndon, who said, Hey,
+
+74
+00:07:01,227 --> 00:07:05,991
+danger dudes, Travis here. Shout out to my other
+twins. So my answer would have to be Deadpool
+
+75
+00:07:06,011 --> 00:07:12,395
+and Wolverine. One is because Deadpool was finally
+in the MCU. Two, Hugh Jackman is back playing
+
+76
+00:07:12,475 --> 00:07:17,374
+Wolverine. I feel like this movie is going to
+be kicking ass. We're gonna be seeing some
+
+77
+00:07:17,434 --> 00:07:23,057
+cool action scenes with those two. And honestly,
+depending on how this movie ends, it's gonna
+
+78
+00:07:23,097 --> 00:07:29,400
+be either really good or really fucking amazing.
+So yeah, that's my pick. Those really are the
+
+79
+00:07:29,440 --> 00:07:32,662
+two options of how Deadpool and Wolverine can
+come out. It's gonna be either really good
+
+80
+00:07:33,042 --> 00:07:37,965
+or really fucking amazing, just like Travis
+Herndon said. There are no other options. As
+
+81
+00:07:38,005 --> 00:07:43,370
+much as I hate the idea of- Hugh Jackman coming
+back to the role of Wolverine after he ended
+
+82
+00:07:43,410 --> 00:07:48,152
+it on a perfect note with Logan. I do have to
+admit that the pairing of Ryan Reynolds and
+
+83
+00:07:48,172 --> 00:07:53,933
+Hugh Jackman is comedic perfection. I mean,
+well, we did see it happen already in X-Men
+
+84
+00:07:53,953 --> 00:07:59,295
+Origins Wolverine, but also we tried to forget
+about that movie. I already did. Thanks for
+
+85
+00:07:59,315 --> 00:08:04,896
+reminding me. I'm sure they'll be making a reference
+to that film in the Deadpool and Wolverine
+
+86
+00:08:04,916 --> 00:08:10,050
+movie that comes out. Great answer, Travis.
+Our final honorable mention goes to... Koyen
+
+87
+00:08:10,090 --> 00:08:17,016
+Liao who said, Hi there, Koyen Liao speaking
+here, listening from Singapore. I'd say my
+
+88
+00:08:17,176 --> 00:08:23,281
+answer would be Deadpool and Wolverine because
+you don't get this kind of collaboration every
+
+89
+00:08:23,321 --> 00:08:30,627
+year and Joker followed you is kind of stupid.
+I mean the musical is kind of stupid. But yeah,
+
+90
+00:08:30,928 --> 00:08:39,070
+my answer would be Deadpool and Wolverine. So
+yeah, that's it I think. That's it. That's
+
+91
+00:08:39,110 --> 00:08:43,812
+all that needs to be said. Joker Folly I do
+is stupid. How about that, Jonathan? Well,
+
+92
+00:08:43,832 --> 00:08:49,175
+I think specifically said that musicals are
+stupid, which I could disagree every single
+
+93
+00:08:49,215 --> 00:08:54,818
+freaking podcast episode leading up to the Joker
+movie where everyone is proven wrong. But I
+
+94
+00:08:54,858 --> 00:08:59,981
+understand that sentiment exists out there.
+If you guys think musicals are stupid, I recommend
+
+95
+00:09:00,021 --> 00:09:05,684
+checking out like Flight of the Concords or
+Sweeney Todd. They're not all bad. Sweeney
+
+96
+00:09:05,724 --> 00:09:10,922
+Todd wasn't that good, man. I watched that movie.
+I didn't like it that much because you're stupid.
+
+97
+00:09:11,322 --> 00:09:14,843
+If you want to talk about a good musical, I
+thought Team America was a pretty good musical.
+
+98
+00:09:15,263 --> 00:09:20,705
+Oh, that's a great one. Hamilton actually was
+fantastic. It's probably the best one. We really
+
+99
+00:09:20,725 --> 00:09:24,126
+don't get better than Hamilton. Yeah, you can't
+get better than Hamilton. Yeah. Great answer,
+
+100
+00:09:24,166 --> 00:09:29,827
+Koyan. We want to give a quick shout out to
+both JP and Josh Hayward. First time colors
+
+101
+00:09:29,867 --> 00:09:36,209
+who also gave the answer of Deadpool and Wolverine.
+Everybody basically gave the answer of Deadpool
+
+102
+00:09:36,229 --> 00:09:42,127
+and Wolverine. How could you not, right? How
+could you not? Except for the winner of this
+
+103
+00:09:42,167 --> 00:09:47,908
+week's No Prize, who is Miggy Mathingian? He
+said. Hey, what's up guys, this is Miggy, and
+
+104
+00:09:47,948 --> 00:09:54,650
+I'm looking forward to Folly a Do more than
+Deadpool because it's gonna be like more intelligent,
+
+105
+00:09:54,970 --> 00:10:01,412
+just a better objectively better made film,
+probably gonna win more awards. Yeah, I don't
+
+106
+00:10:01,432 --> 00:10:07,473
+know. I'm just like as a DC fan, like just more
+intelligent than like the brainwashed MCU zombies.
+
+107
+00:10:08,014 --> 00:10:13,597
+You know what I'm saying? So, yeah. That's right
+MCU fans, you guys are brainwashed. You guys
+
+108
+00:10:13,637 --> 00:10:18,219
+need to get with the program and start watching
+more intelligent films like Joker Follyadoo.
+
+109
+00:10:18,620 --> 00:10:22,982
+The only reason Miggie's answer won the question
+of the week was because there was no way to
+
+110
+00:10:23,022 --> 00:10:28,605
+choose between all the other answers of Deadpool
+and Wolverine, of which they staggeringly outnumbered
+
+111
+00:10:28,806 --> 00:10:34,989
+Miggie's answer of the Joker sequel. More people
+are in fact looking forward to Deadpool and
+
+112
+00:10:35,029 --> 00:10:41,045
+Wolverine. And yeah, you may like, I don't know,
+try to rile us up by saying we're less intelligent
+
+113
+00:10:41,065 --> 00:10:46,609
+for that. But that just makes you look petty
+because obviously everyone knows Deadpool and
+
+114
+00:10:46,629 --> 00:10:50,952
+Wolverine is going to be the better superhero
+film. But I mean, do they? Like, I don't know
+
+115
+00:10:50,992 --> 00:10:55,234
+that. I don't know that. And I'm more intelligent
+because I'm a DC fan. Wait. So you're saying
+
+116
+00:10:55,254 --> 00:10:59,617
+that you don't know something and that you're
+more intelligent. I think that's kind of contradictory.
+
+117
+00:11:00,018 --> 00:11:04,741
+Fuck. Yeah. No, honestly, I'm really curious
+to see who's going to come out on top in the
+
+118
+00:11:04,801 --> 00:11:09,676
+box office. because the Deadpool films have
+made over a billion dollars. They're rated
+
+119
+00:11:09,816 --> 00:11:15,299
+R. The first Joker film is rated R, and it's
+actually the highest grossing rated R film
+
+120
+00:11:15,339 --> 00:11:20,101
+of all time, making over a billion dollars.
+So these are both billion dollar rated R franchises.
+
+121
+00:11:20,301 --> 00:11:24,243
+They're both sequels. Who's gonna win the box
+office? That's what I really wanna know. You
+
+122
+00:11:24,263 --> 00:11:28,686
+wanna place a bet on it now? I think you've
+lost every single bet that we've made. I don't
+
+123
+00:11:28,726 --> 00:11:33,809
+remember that. I remember winning all of the
+bets. No. All right, let's do a bet. 50 bucks
+
+124
+00:11:34,069 --> 00:11:39,283
+says that Joker comes out on top. 50 bucks overbending
+money, not pride. Cause last time you lost
+
+125
+00:11:39,303 --> 00:11:43,544
+these bets, you had to say live on air that
+Batman is a piece of shit. But we'll do money.
+
+126
+00:11:43,704 --> 00:11:49,447
+Money's fine. I could use some money. Oh, I
+don't know. Okay. No, if you lose, you have
+
+127
+00:11:49,487 --> 00:11:56,369
+to say Marvel sucks ass. Okay. And if you lose,
+you have to give me 50 bucks. Deal. Damn it.
+
+128
+00:11:59,214 --> 00:12:02,818
+But congrats to Miggi for winning this week's
+No Prize. If you the listener want a shot at
+
+129
+00:12:02,858 --> 00:12:06,664
+winning your own No Prize, stay tuned till later
+on this episode when we'll be asking another
+
+130
+00:12:06,764 --> 00:12:10,409
+question of the week. And now that that's done,
+on to the news.
+
+131
+00:12:15,986 --> 00:12:20,827
+Okay, so this past week, the wrap, I believe,
+was the first trade to get the exclusive castings
+
+132
+00:12:21,167 --> 00:12:27,969
+for Jonathan and Martha Kent, the farmer adoptive
+parents of Superman in the upcoming Superman
+
+133
+00:12:28,049 --> 00:12:34,871
+film. Jonathan Kent is going to be played by
+Pruitt Taylor Vintze, who I most know from
+
+134
+00:12:35,191 --> 00:12:41,833
+Constantine. He was Constantine's priest friend.
+But he's also had a recurring role on Netflix's
+
+135
+00:12:41,893 --> 00:12:47,335
+Stranger Things. He was an agent of S.H.I.E.L.D.
+He was in Heroes Reborn, True Blood, The Walking
+
+136
+00:12:47,395 --> 00:12:53,639
+Dead, The Mentalist, Murder One, which he actually
+won an Emmy for. The guy has a pretty robust
+
+137
+00:12:53,699 --> 00:12:58,102
+filmography. Who was he in Agents of Shield?
+I don't remember him. I don't know. I didn't
+
+138
+00:12:58,122 --> 00:13:03,266
+watch that show. Well, why don't you look it
+up on IMDb and then tell me? Hey, hey, same
+
+139
+00:13:03,286 --> 00:13:08,870
+to you, pal. Same to you. You're the one asking
+the question. OK, according to IMDb, he played
+
+140
+00:13:08,890 --> 00:13:15,274
+a character named Grill in four episodes in
+season five of Agents of Shield. And I don't
+
+141
+00:13:15,314 --> 00:13:19,897
+remember that character at all. I may have to
+revisit that. Well, I think is fairly recognizable
+
+142
+00:13:20,077 --> 00:13:24,901
+as an actor. He may not be a household name,
+but I think he's a good actor. And I think
+
+143
+00:13:24,941 --> 00:13:31,365
+he could definitely pull off the Kansas farmer
+for sure. As can Neva Howell, who will be playing
+
+144
+00:13:31,785 --> 00:13:38,550
+Martha Kent. I don't know if I've actually seen
+her in anything. She was in Diary of a Wimpy
+
+145
+00:13:38,590 --> 00:13:45,863
+Kid, The Long Call, Logan Lucky and My Fellow
+Americans. She looks a little familiar, but
+
+146
+00:13:45,983 --> 00:13:51,328
+yeah, not really familiar with her at all. So
+is this the most boring casting news ever?
+
+147
+00:13:51,748 --> 00:13:58,994
+I think so. I'm pretty bored. Are you excited?
+Hell yeah, I'm excited. I think this just continues
+
+148
+00:13:59,034 --> 00:14:04,038
+James Gunn's streak of casting this movie perfectly.
+I mean, they kind of look more the part, I
+
+149
+00:14:04,058 --> 00:14:09,834
+would say, than Kevin Costner and Diane Lane.
+Like those actors are very like... Model-esque
+
+150
+00:14:09,894 --> 00:14:14,076
+I would say whereas these guys definitely, you
+know resemble more of what I imagine a Kansas
+
+151
+00:14:14,096 --> 00:14:19,359
+farming couple would look like A little bit
+more down-to-earth, I guess. Exactly. Sure.
+
+152
+00:14:19,979 --> 00:14:23,441
+And since there's nothing really left to say
+about this topic, that brings us to our question
+
+153
+00:14:23,481 --> 00:14:23,861
+of the week.
+
+154
+00:14:28,246 --> 00:14:33,568
+What casting announcement for a Marvel or DC
+film were you most hyped about when you first
+
+155
+00:14:33,588 --> 00:14:38,230
+heard about it and why? Yeah, this goes back
+through the history of Marvel and DC films.
+
+156
+00:14:38,730 --> 00:14:41,591
+What was the announcement that when you heard
+it you were just like so freaking pumped to
+
+157
+00:14:41,631 --> 00:14:46,593
+see the movie? Because of this announcement.
+Think about it, let us know. Record your answer
+
+158
+00:14:46,633 --> 00:14:51,295
+at dynamicduel.com by clicking on the red microphone
+button in the bottom right hand corner of the
+
+159
+00:14:51,335 --> 00:14:55,717
+screen, which will prompt you to leave us a
+voicemail. Your message could be up to 30 seconds
+
+160
+00:14:55,777 --> 00:15:00,097
+long. And don't forget to leave your name in
+case we include you on the podcast. We'll pick
+
+161
+00:15:00,137 --> 00:15:05,082
+our favorite answer and award that person a
+dynamic dole no prize that will post to Instagram.
+
+162
+00:15:05,463 --> 00:15:08,285
+Be sure to answer before April 27th.
+
+163
+00:15:15,278 --> 00:15:18,420
+But I think that does it for all the news for
+this episode, so let's go ahead and move into
+
+164
+00:15:18,480 --> 00:15:23,803
+our main event, where we find out who'd win
+in a fight between the JSA villain of Psycho
+
+165
+00:15:23,843 --> 00:15:26,785
+Pirate and the X-Men villain, Mastermind.
+
+166
+00:15:41,814 --> 00:15:46,416
+Alright, Psycho Pirate versus Mastermind. These
+are both illusionist characters. They can make
+
+167
+00:15:46,436 --> 00:15:51,939
+people see things psychically that don't actually
+exist, but they're highly manipulative in that
+
+168
+00:15:51,959 --> 00:15:56,922
+fashion. No, well for Psycho Pirate, these things
+actually do exist. They're like, they're lifelike
+
+169
+00:15:56,982 --> 00:16:03,125
+duplicates. What the fuck? How is he an illusionist
+then? That's like reality warping, not illusions.
+
+170
+00:16:03,426 --> 00:16:08,769
+Yeah, yeah, he's a reality warper, you could
+say. Well, this is a stupid match. Whose idea
+
+171
+00:16:08,789 --> 00:16:14,571
+was this? Miggy's? No, actually, it was your
+idea. We were trying to think of a match up
+
+172
+00:16:14,651 --> 00:16:19,433
+for Psycho Pirate because he's going to be featured,
+it looks like pretty heavily in the upcoming
+
+173
+00:16:19,553 --> 00:16:24,815
+Crisis on Infinite Earths animated film. And
+you were the one who suggested Mastermind.
+
+174
+00:16:25,235 --> 00:16:30,718
+I think I suggested it because Psycho Pirate
+has empathy powers, empathic abilities. Yes.
+
+175
+00:16:31,018 --> 00:16:36,080
+And Mastermind can also elicit emotions through
+the use of his illusions. And plus, to the
+
+176
+00:16:36,140 --> 00:16:41,314
+person experiencing the illusions, they are
+real according to all of their senses. So for
+
+177
+00:16:41,354 --> 00:16:46,377
+all intents and purposes, to his victims, it
+almost is like mastermind is warping reality.
+
+178
+00:16:46,898 --> 00:16:51,281
+So, Psycho Pirates going down, and I'm not scared.
+You will be.
+
+179
+00:16:55,124 --> 00:16:59,567
+Okay Yoda, can't wait to get into this duel
+matchup, but to explain the methodology behind
+
+180
+00:16:59,607 --> 00:17:04,690
+our duels, let's go to our sentient duel simulator,
+Alfred Jarvis 9000. AJ and Ayn K, tell our
+
+181
+00:17:04,730 --> 00:17:09,990
+listeners how you go about determining a winner
+in our duel matchups. Yes, of course sir. The
+
+182
+00:17:10,010 --> 00:17:14,631
+way I determine a winner between the contestants
+is by running 1000 Monte Carlo simulations
+
+183
+00:17:14,732 --> 00:17:19,614
+using the characters statistics. A Monte Carlo
+simulation is a probabilistic model used to
+
+184
+00:17:19,654 --> 00:17:24,776
+determine outcomes through random sampling.
+In this case, I randomise the statistics along
+
+185
+00:17:24,796 --> 00:17:29,278
+a normal distribution as a way to simulate the
+many variables that can occur during battle.
+
+186
+00:17:29,678 --> 00:17:34,420
+The stat parameters are based on the official
+Marvel power grid from which the DC characters
+
+187
+00:17:34,460 --> 00:17:39,606
+statistics are extrapolated. Additional stat
+categories are included such as range, damage
+
+188
+00:17:39,646 --> 00:17:45,047
+potential, versatility and perception in order
+to create a more detailed and accurate simulation.
+
+189
+00:17:45,547 --> 00:17:50,349
+The results of the 1000 simulations provide
+a percentage of wins for each character. The
+
+190
+00:17:50,369 --> 00:17:54,850
+contestant with the higher percentage is declared
+the victor as they have a higher probability
+
+191
+00:17:54,890 --> 00:18:00,712
+to win any given battle. In an equitable pairing,
+neither character should win 100% of the matches.
+
+192
+00:18:01,212 --> 00:18:05,698
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman. So
+
+193
+00:18:05,738 --> 00:18:09,599
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+194
+00:18:09,639 --> 00:18:15,200
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+195
+00:18:15,220 --> 00:18:19,622
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+196
+00:18:21,022 --> 00:18:25,803
+Thanks AJ9K! Before we run the simulations though,
+we like to break down each character's histories
+
+197
+00:18:25,843 --> 00:18:31,385
+and abilities before improvising a scenario
+on how we imagine one of the 1000 simulations
+
+198
+00:18:31,405 --> 00:18:37,148
+would play out beat for beat. And I believe
+it's my turn to go first with the DC character,
+
+199
+00:18:37,488 --> 00:18:43,511
+so let me tell you all about Psycho Pirate.
+Now on Earth 2, an alternate reality from DC's
+
+200
+00:18:43,591 --> 00:18:49,955
+primary universe, a greedy, middle-aged pressman
+for the Daily Courier newspaper named Charles
+
+201
+00:18:49,995 --> 00:18:56,179
+Halsted hated his publisher for not paying him
+enough. This hatred drove Charles into orchestrating
+
+202
+00:18:56,219 --> 00:19:02,919
+a series of crimes based on emotion as the costumed
+villain Psycho Pirate. As Charles became successful
+
+203
+00:19:02,959 --> 00:19:08,163
+in his crimes, he became bolder, though after
+he challenged the Justice Society of America
+
+204
+00:19:08,203 --> 00:19:14,068
+to stop him, the team managed to do just that,
+and Charles was put in prison. You can learn
+
+205
+00:19:14,128 --> 00:19:19,873
+more about the JSA in our Justice Society vs.
+Fantastic Four episode. Charles became obsessed
+
+206
+00:19:19,913 --> 00:19:25,758
+with manipulating people's emotions and dabbled
+in psychology and mysticism, enabling him to
+
+207
+00:19:25,798 --> 00:19:32,227
+escape prison several times, only to be returned
+to his cell. by the JSA over the decades. By
+
+208
+00:19:32,247 --> 00:19:38,589
+the mid-60s, Charles grew ill in prison, and,
+wanting to pass on his secrets before death,
+
+209
+00:19:38,949 --> 00:19:44,972
+taught his young cellmate Roger Hayden everything
+he knew about manipulating emotions and also
+
+210
+00:19:45,032 --> 00:19:51,075
+revealed the existence of the Medusa Masks,
+mystic and ancient golden masks discovered
+
+211
+00:19:51,315 --> 00:19:59,462
+by the archaeologist Kent Nelson, aka Dr. Fate
+of the JSA. The Medusa Masks portrayed emotional
+
+212
+00:19:59,522 --> 00:20:04,604
+expressions that were projected onto anyone
+who saw them. You can learn more about Dr.
+
+213
+00:20:04,644 --> 00:20:11,547
+Fate in his duel episode with Dr. Strange. Charles
+died soon after, and Roger, who had been sentenced
+
+214
+00:20:11,647 --> 00:20:17,190
+to a year in prison for attacking his father,
+an emotionally abusive psychiatrist, was set
+
+215
+00:20:17,230 --> 00:20:23,412
+free. Roger was eventually able to acquire the
+Medusa Masks, which he used successfully to
+
+216
+00:20:23,432 --> 00:20:29,184
+commit crimes as the new Psycho Pirates. It
+wasn't long before Roger decided to melt and
+
+217
+00:20:29,364 --> 00:20:35,348
+merge the masks into a single, all-powerful
+Medusa mask, allowing him to manipulate others
+
+218
+00:20:35,408 --> 00:20:41,492
+across the broad spectrum of emotions without
+having to change masks. Confronted by the JSA,
+
+219
+00:20:41,852 --> 00:20:46,976
+Psycho Pirate soon realized that merging the
+masks had corrupted their magic, resulting
+
+220
+00:20:47,036 --> 00:20:52,560
+in him being able to, and needing to, feed on
+others' emotions, otherwise he would succumb
+
+221
+00:20:52,580 --> 00:20:58,408
+to mental anguish. Thanks to Dr. Fate, The GSA
+was able to imprison Psycho Pirate, who was
+
+222
+00:20:58,468 --> 00:21:03,553
+later broken out of jail by the Ultrahumanite,
+so that he could join a secret society of supervillains.
+
+223
+00:21:03,893 --> 00:21:09,678
+Over time, Psycho Pirate was driven insane by
+the pain of needing to feed on emotions, though
+
+224
+00:21:09,698 --> 00:21:15,523
+he was eventually cured by the multiversal overseer
+known as the Monitor, who had recruited Psycho
+
+225
+00:21:15,543 --> 00:21:20,788
+Pirate and other heroes and villains to save
+the multiverse from his brother, the Anti-Monitor,
+
+226
+00:21:21,128 --> 00:21:26,693
+who was destroying it. The Anti-Monitor kidnapped
+Psycho-Pirate, however, and after being promised
+
+227
+00:21:26,753 --> 00:21:32,778
+an entire world of beings whose emotions he
+could toy with and drain, Psycho-Pirate manipulated
+
+228
+00:21:32,818 --> 00:21:39,364
+the Monitor's champions and at one point was
+able to manipulate entire universes. This proved
+
+229
+00:21:39,464 --> 00:21:45,389
+to be too taxing over time, however, and resulted
+in Psycho-Pirate losing his powers. After the
+
+230
+00:21:45,469 --> 00:21:51,278
+Anti-Monitor's defeat, the multiverse was merged
+into a single universe in which Roger, was
+
+231
+00:21:51,318 --> 00:21:57,021
+confined to Arkham Asylum, driven insane after
+being connected to the minds of so many beings
+
+232
+00:21:57,421 --> 00:22:01,683
+as well as being one of the few in existence
+to remember the multiversal crisis and the
+
+233
+00:22:01,743 --> 00:22:08,387
+existence of past universes. PsychoPirate eventually
+escaped Arkham with help from a fifth dimensional
+
+234
+00:22:08,427 --> 00:22:13,710
+genie known as a Thunderbolt, and was able to
+purge his memories of the past multiverse through
+
+235
+00:22:13,730 --> 00:22:15,851
+the Thunderbolt's electroshock treatments.
+
+236
+00:22:20,758 --> 00:22:26,242
+the teams of Infinity Inc and the Outsiders,
+Psycho Pirate was imprisoned once again. The
+
+237
+00:22:26,282 --> 00:22:32,367
+Thunderbolts therapy eventually wore off, however,
+and Roger's pre-crisis memories returned. The
+
+238
+00:22:32,507 --> 00:22:37,651
+strain of remembering so many lives that had
+been lost caused Psycho Pirate's Medusa mask
+
+239
+00:22:37,912 --> 00:22:43,416
+to manifest the fallen characters, returning
+them to life. The characters eventually discovered,
+
+240
+00:22:43,456 --> 00:22:46,398
+though, that not only were they illusions created
+by
+
+241
+00:22:50,582 --> 00:22:55,824
+With help from Animal Man, the characters and
+Psycho Pirate were put at ease and faded from
+
+242
+00:22:55,884 --> 00:23:01,666
+existence. The Medusa mask, however, did not
+disappear and bounced from Arkham Asylum to
+
+243
+00:23:01,686 --> 00:23:07,529
+the Outsiders and the Suicide Squad. When the
+Archdemon Neron unleashed the underworld on
+
+244
+00:23:07,669 --> 00:23:12,731
+Earth, it was revealed that Psycho Pirate had
+been residing in Limbo, and he agreed to sell
+
+245
+00:23:12,751 --> 00:23:18,594
+his soul to Neron in exchange for life and power.
+While Neron was on Earth, The Psycho Pirate
+
+246
+00:23:18,614 --> 00:23:24,477
+was able to transform the Medusa Mask into an
+eye patch and remained sane. Upon Neiron's
+
+247
+00:23:24,497 --> 00:23:30,340
+defeat, however, the Medusa Mask returned to
+its earlier state as did Psycho Pirate's mind
+
+248
+00:23:30,540 --> 00:23:36,264
+over time, remembering pre-crisis events and
+characters. It was the return of Psycho Pirate's
+
+249
+00:23:36,364 --> 00:23:42,067
+memories that caused him to realize that he
+and Power Girl, originally Earth-2's Supergirl,
+
+250
+00:23:42,427 --> 00:23:48,991
+were the only two survivors of Earth-2 in the
+new You can learn more about Power Girl in
+
+251
+00:23:49,011 --> 00:23:55,075
+our Power Girl vs Valkyrie episode. After failing
+to get Power Girl to join his cause in helping
+
+252
+00:23:55,215 --> 00:24:01,499
+Alexander Luther of Earth 3 to restore the multiverse,
+the emotionless Black Adam straight up killed
+
+253
+00:24:01,560 --> 00:24:07,664
+Psycho Pirate by shoving his fingers through
+his face, and the Teen Titan Raven later destroyed
+
+254
+00:24:07,744 --> 00:24:13,288
+the Medusa Mask. That is until the Blackest
+Night, when zombified heroes and villains returned
+
+255
+00:24:13,308 --> 00:24:18,188
+from the dead to kill all life in the universe.
+With the Medusa mask constructed from his black
+
+256
+00:24:18,248 --> 00:24:23,892
+ring, Psycho Pirate pit Superman and Superboy
+against each other, though once Superboy managed
+
+257
+00:24:23,973 --> 00:24:29,477
+to steal the black Medusa mask and use it against
+the black lanterns, Psycho Pirate and the others
+
+258
+00:24:29,557 --> 00:24:35,723
+returned to inanimate corpses. When the Flash
+reset DC's continuity in a Flashpoint event,
+
+259
+00:24:36,163 --> 00:24:40,767
+Roger Hayden was one of twenty humans that were
+captured and experimented on by the villain
+
+260
+00:24:40,847 --> 00:24:46,304
+Brainiac, giving them psychic abilities. While
+hunted by the Hive Queen, another member of
+
+261
+00:24:46,364 --> 00:24:51,908
+the Twenty, Roger sought and fought the Medusa
+Mask, which was now simply an artifact capable
+
+262
+00:24:51,949 --> 00:24:58,154
+of blocking out psychic attacks and manipulations
+from others. After Psycho-Pirate attacked Metropolis,
+
+263
+00:24:58,534 --> 00:25:04,439
+Superman destroyed the Medusa Mask, causing
+Roger to flee. This was later retconned when
+
+264
+00:25:04,479 --> 00:25:10,104
+DC's pre- and post-Flashpoint timelines merged,
+resulting in a rebirth of DC's continuity.
+
+265
+00:25:10,585 --> 00:25:15,727
+The villain Bane... who you can learn more about
+in our Bane vs Iron Fist episode, captured
+
+266
+00:25:15,808 --> 00:25:20,470
+Psycho Pirate and forced him to use his powers
+to help Bane overcome his childhood trauma
+
+267
+00:25:20,850 --> 00:25:26,793
+and addiction to the Venom steroid. Batman managed
+to abduct Psycho Pirate and kept his Medusa
+
+268
+00:25:26,813 --> 00:25:31,695
+mask in the Batcave, where it later brought
+back to life old characters that had not yet
+
+269
+00:25:31,795 --> 00:25:37,078
+been reintroduced to continuity, such as Jay
+Garrick the Flash. as well as characters from
+
+270
+00:25:37,158 --> 00:25:43,461
+alternate universes such as the Flashpoint Thomas
+Wayne version of Batman. Now powers-wise, Psycho
+
+271
+00:25:43,501 --> 00:25:49,423
+Pirate is typically shown as having no natural
+superhuman abilities other than a master understanding
+
+272
+00:25:49,483 --> 00:25:55,786
+of human emotion and manipulation. When donning
+the Medusa Mask, Psycho Pirate is able to project
+
+273
+00:25:55,846 --> 00:26:02,628
+emotions onto others, often by magically manifesting
+objects or beings that cause a person to feel
+
+274
+00:26:02,728 --> 00:26:08,711
+a specific emotion. For example, If you wanted
+to instill fear in you, Joseph, he'd create
+
+275
+00:26:08,951 --> 00:26:14,193
+a spider on the wall right behind you! Okay,
+didn't work! Or if you wanted to instill joy
+
+276
+00:26:14,253 --> 00:26:20,716
+in me, he'd create a spider on the wall right
+behind you! Damn it! Maybe don't have a big
+
+277
+00:26:20,836 --> 00:26:26,959
+smile on your face when you're saying this,
+because then it's not believable. Fuck! Now
+
+278
+00:26:26,979 --> 00:26:31,801
+the Medusa Mask can also create characters from
+universes or timelines that have been destroyed.
+
+279
+00:26:32,222 --> 00:26:37,023
+It can create illusions that can disguise Psycho
+Pirate or create false duplicates of himself.
+
+280
+00:26:37,543 --> 00:26:42,465
+He does have several weaknesses, however. One
+being that he's insane, and the other that
+
+281
+00:26:42,525 --> 00:26:48,447
+he begins to feel psychic pain if he's not around
+others with emotions. That's Psycho Pirate.
+
+282
+00:26:48,867 --> 00:26:53,968
+So the purpose of his illusions are more to
+elicit a certain fear, as opposed to like a
+
+283
+00:26:54,028 --> 00:26:59,806
+broad illusion casting ability that has nothing
+to do with empathy. Oh, it's not specific to
+
+284
+00:26:59,846 --> 00:27:05,749
+fear. He's not a mind reader and he can't quite
+control the things that are created. It's more
+
+285
+00:27:05,809 --> 00:27:10,892
+about the other person manifesting things that
+would make them feel an emotion that he wants
+
+286
+00:27:10,912 --> 00:27:16,614
+them to feel. Wait, so it's the victim that's
+manifesting the illusion. So the mask has some
+
+287
+00:27:16,634 --> 00:27:21,817
+kind of psychic ability that can read the victim's
+mind. Exactly. Kind of like Mirage. Yeah. Yeah,
+
+288
+00:27:21,937 --> 00:27:26,351
+actually just like that. Yeah, Mirage doesn't
+necessarily know what illusion she's going
+
+289
+00:27:26,391 --> 00:27:31,634
+to create. She just has the ability to manifest
+an illusion of the victim's greatest fear.
+
+290
+00:27:32,294 --> 00:27:36,596
+You can learn more about Mirage in our Arrowette
+versus Mirage Duel episode. But it sounds like
+
+291
+00:27:36,636 --> 00:27:41,499
+those two characters are kind of similar. Yeah,
+yeah, you could say that. And to be fair, Mastermind
+
+292
+00:27:41,539 --> 00:27:46,001
+is also very similar. So that's good. Let me
+go ahead and get into his backstory and tell
+
+293
+00:27:46,021 --> 00:27:51,165
+you all about him. Little is known about the
+early life of Jason Wingard, as it's believed
+
+294
+00:27:51,205 --> 00:27:56,969
+that name is as false as the man himself. Prior
+to being discovered by Magneto working as a
+
+295
+00:27:57,029 --> 00:28:02,113
+carnival mentalist, all that was known of the
+man named Jason was that he lived a life of
+
+296
+00:28:02,153 --> 00:28:06,877
+deception through his mutant ability to cast
+telepathic illusions that causes victims to
+
+297
+00:28:06,897 --> 00:28:11,841
+see whatever he wished them to see. Spurred
+by malice and hatred, plus his desire to be
+
+298
+00:28:11,861 --> 00:28:16,815
+with the Scarlet Witch, Jason joined Magneto's
+Brotherhood of Mutants team and their goal
+
+299
+00:28:16,915 --> 00:28:21,757
+of mutant superiority through the subjugation
+of humanity. He proved instrumental in the
+
+300
+00:28:21,797 --> 00:28:26,799
+Brotherhood's first mission when they captured
+the entire South American nation of Santo Marco,
+
+301
+00:28:27,139 --> 00:28:31,961
+with help from Jason's illusion that they had
+thousands of soldiers on their side. It was
+
+302
+00:28:32,041 --> 00:28:37,423
+there that the Brotherhood first clashed with
+the X-Men, a team of mutant heroes who opposed
+
+303
+00:28:37,483 --> 00:28:42,765
+Magneto's agenda. You can learn more about the
+X-Men in our Titans vs X-Men Team Duel episode.
+
+304
+00:28:43,230 --> 00:28:47,651
+and more about the Brotherhood in their duel
+against the Rogues. The Brotherhood and X-Men
+
+305
+00:28:47,671 --> 00:28:52,312
+would repeatedly clash over the years, and Mastermind
+would employ such illusions against them as
+
+306
+00:28:52,412 --> 00:28:56,753
+flames, duplicates of himself, or he would just
+use his trusty handgun that he always carried
+
+307
+00:28:56,793 --> 00:29:01,295
+with him. The Brotherhood was often defeated,
+however, and the frustrated Jason joined a
+
+308
+00:29:01,475 --> 00:29:07,056
+new group of mutants bent on world domination
+called Factor III, alongside other X-Men enemies
+
+309
+00:29:07,176 --> 00:29:13,134
+as the Blob, Vanisher, Eunice the Untouchable,
+and Changeling. They planned to instigate a
+
+310
+00:29:13,215 --> 00:29:17,558
+nuclear war between the United States and Russia,
+however when it was revealed that the team
+
+311
+00:29:17,598 --> 00:29:23,342
+leader Mutant Master was an extraterrestrial,
+Factor 3 and the X-Men united to defeat him.
+
+312
+00:29:23,783 --> 00:29:29,167
+At one point, Mastermind teamed up with the
+Sentry villain known as the General to implant
+
+313
+00:29:29,207 --> 00:29:34,451
+the illusion in the hero's mind that he should
+no longer use his powers. You can learn more
+
+314
+00:29:34,491 --> 00:29:39,438
+about the Sentry in our duel episode where we
+pit him against Zod. Later, a secret group
+
+315
+00:29:39,478 --> 00:29:44,839
+of influential mutants called the Hellfire Club
+invited Jason to join their inner circle, seeing
+
+316
+00:29:44,859 --> 00:29:50,021
+his power set as a valuable asset for their
+agenda to amass greater wealth and power. You
+
+317
+00:29:50,041 --> 00:29:54,182
+can learn more about the Hellfire Club and their
+tradition of codenaming their highest ranking
+
+318
+00:29:54,222 --> 00:30:00,564
+members as chess pieces in our Poison Ivy vs
+White Queen Emma Frost duel episode. To prove
+
+319
+00:30:00,604 --> 00:30:06,054
+his worth to the Hellfire Club, Jason set out
+to manipulate the X-Men member Jane and turn
+
+320
+00:30:06,094 --> 00:30:11,855
+her into the Inner Circle's Black Queen. He
+wasn't aware, however, that at that time, Jean
+
+321
+00:30:11,875 --> 00:30:17,257
+Grey was actually a manifestation of the cosmic
+entity called the Phoenix Force, who had taken
+
+322
+00:30:17,317 --> 00:30:23,279
+on the appearance of Jean in order to experience
+new sensations. Jason exploited her mind into
+
+323
+00:30:23,339 --> 00:30:28,600
+joining the Hellfire Club, though the X-Men
+leader Cyclops tried to intervene. When Jason
+
+324
+00:30:28,660 --> 00:30:34,526
+cast an illusion to the Phoenix Force that he
+killed Cyclops, whom she loved, he inadvertently
+
+325
+00:30:34,646 --> 00:30:39,370
+unleashed her fury and transformed her into
+the Dark Phoenix, which you can learn more
+
+326
+00:30:39,390 --> 00:30:44,754
+about in our Raven versus Phoenix episode. In
+retaliation for Jason's manipulation, the Phoenix
+
+327
+00:30:44,794 --> 00:30:50,418
+Force opened his mind for a moment to the vastness
+of the universe, driving him insane. He was
+
+328
+00:30:50,478 --> 00:30:55,061
+rejected from the Hellfire Club and taken to
+Bellevue Hospital for psychiatric recovery.
+
+329
+00:30:55,861 --> 00:31:00,545
+Upon being released several years later, he
+set about getting revenge on the Inner Circle
+
+330
+00:31:00,805 --> 00:31:06,383
+and the X-Men. He attacked Emma Frost, putting
+her into a coma. He created a rift between
+
+331
+00:31:06,443 --> 00:31:11,845
+Rogue and her adoptive mother Mystique. And
+he got Wolverine's fiancee, Mariko Yashida,
+
+332
+00:31:12,005 --> 00:31:17,807
+to call off their wedding. Finally, he convinced
+the X-Men that Cyclops' new fiance, Madeline
+
+333
+00:31:17,847 --> 00:31:23,829
+Pryor, was the Dark Phoenix, hoping to get them
+to kill her. However, Cyclops discovered Jason's
+
+334
+00:31:23,869 --> 00:31:29,392
+deception, and the X-Men defeated him. Eventually,
+Jason discovered he had contracted the Legacy
+
+335
+00:31:29,432 --> 00:31:34,175
+Virus, a disease lethal to mutants that was
+unleashed by Cable's clone from the future
+
+336
+00:31:34,355 --> 00:31:39,519
+named Strife. Jason's legacy was carried on,
+however, by several of his estranged daughters,
+
+337
+00:31:39,759 --> 00:31:45,903
+two of whom inherited his illusion casting abilities
+and took his codename of Mastermind. His first
+
+338
+00:31:45,963 --> 00:31:51,307
+daughter, Martinique Wingard, was hired by the
+villain Arcade to frame Wolverine for the murder
+
+339
+00:31:51,347 --> 00:31:56,238
+of several women in London. She turned on Arcade,
+however, whom you can learn more about in our
+
+340
+00:31:56,258 --> 00:32:01,642
+Riddler vs Arcade duel, and later joined Mystique's
+Brotherhood of Mutants team. Martinique was
+
+341
+00:32:01,682 --> 00:32:07,186
+eventually incarcerated and forced to join a
+new team called X-Core, led by the former X-Men
+
+342
+00:32:07,206 --> 00:32:12,490
+member Banshee, who felt the best approach to
+achieve Professor X's dream of peaceful coexistence
+
+343
+00:32:12,530 --> 00:32:17,133
+between humans and mutants was to have a mutant
+police force to regulate the activities of
+
+344
+00:32:17,213 --> 00:32:22,176
+other mutants. However, it was revealed that
+Banshee was using Martinique's illusion casting
+
+345
+00:32:22,216 --> 00:32:27,280
+powers to placate the more villainous quote
+unquote reformed members of the team. After
+
+346
+00:32:27,300 --> 00:32:32,623
+the revelation of this news, the X-Core was
+disbanded. Jason's other daughter and Martinique's
+
+347
+00:32:32,703 --> 00:32:38,487
+half-sister was named Regenwingard. She was
+hired by Sebastian Shaw, the Black King of
+
+348
+00:32:38,507 --> 00:32:44,131
+the Hellfire Club, to manipulate the mutant
+Sage into betraying the X-Win and compelling
+
+349
+00:32:44,231 --> 00:32:49,338
+Rogue to attack her teammates by making her
+see them as someone else. Eventually her illusions
+
+350
+00:32:49,378 --> 00:32:53,820
+were turned back on Regan, leaving her in a
+vegetative state. She was taken in and cared
+
+351
+00:32:53,860 --> 00:32:59,322
+for by the X-Men, and when she recovered, she
+ended up joining the team for a time. However,
+
+352
+00:32:59,362 --> 00:33:03,684
+it turned out to all be a ruse in coordination
+with the villains Mr. Sinister and Mystique,
+
+353
+00:33:04,004 --> 00:33:07,746
+and Regan revealed a team of mutant villains
+that she had been concealing this whole time
+
+354
+00:33:07,786 --> 00:33:13,128
+called the Marauders, who went on to attack
+and capture some of the X-Men heroes. The X-Men
+
+355
+00:33:13,168 --> 00:33:17,570
+later fought back against Mr. Sinister, and
+Wolverine stabbed Regan. taking her out of
+
+356
+00:33:17,610 --> 00:33:22,394
+commission for a time. You can learn more about
+Mr. Sinister in his duel against the Ultra-Humanite.
+
+357
+00:33:22,855 --> 00:33:28,499
+Eventually, both sisters, Martinique and Regan,
+joined the Sisterhood of Mutants, led by Jean
+
+358
+00:33:28,519 --> 00:33:34,224
+Grey's clone and Cyclops' former fiancee, Madeleine
+Pryor, who was after Jean Grey's DNA in order
+
+359
+00:33:34,264 --> 00:33:39,028
+to form herself a new body. Though the team
+was unsuccessful, the sisters soon learned
+
+360
+00:33:39,068 --> 00:33:44,793
+that Jason had another daughter named Pixie,
+who had wings and could emit hallucinogenic
+
+361
+00:33:44,893 --> 00:33:50,436
+dust. The three sisters worked together to defeat
+a horde of demons and then parted ways, with
+
+362
+00:33:50,496 --> 00:33:56,920
+Pixie remaining with the X-Men. Afterward, Regan
+ended up contracting MPOX, which was another
+
+363
+00:33:56,960 --> 00:34:01,782
+disease that mutants were susceptible to after
+the release of the Terrigan Mists in the Earth's
+
+364
+00:34:01,862 --> 00:34:06,605
+atmosphere by the Inhuman King Black Bolt, whom
+you can learn more about in our Shazam vs.
+
+365
+00:34:06,645 --> 00:34:11,815
+Black Bolt duel episode. The mutant known as
+Mirage, another illusionist, convinced Regan
+
+366
+00:34:11,855 --> 00:34:17,637
+to seek treatment at the X-Men healing facility
+set up by Storm called X-Haven. When Professor
+
+367
+00:34:17,797 --> 00:34:22,319
+X and Magneto founded a home for mutants on
+the sentient island nation of Krakoa, they
+
+368
+00:34:22,359 --> 00:34:27,621
+established a process for resurrecting mutants
+using a combination of mutant powers, including
+
+369
+00:34:27,781 --> 00:34:34,124
+mass generation, reality warping, time manipulation,
+and genetic and psychic archiving. Using a
+
+370
+00:34:34,204 --> 00:34:40,168
+DNA sample from Jason, they were able to bring
+Mastermind back to life after he had succumbed
+
+371
+00:34:40,228 --> 00:34:45,753
+to the legacy virus years ago. He ended up partnering
+with the villain Mr. Sinister, helping him
+
+372
+00:34:45,813 --> 00:34:51,058
+keep secret a clone farm that he had set up
+behind the Krakoan Council's back. You can
+
+373
+00:34:51,078 --> 00:34:56,424
+learn more about Krakoa in his duel against
+Danny the Street. Powers-wise, Mastermind has
+
+374
+00:34:56,444 --> 00:35:01,829
+the mutant ability to cast psychic illusions.
+His illusions affect all the senses of his
+
+375
+00:35:01,869 --> 00:35:07,636
+victims. making them able to see, hear, smell,
+touch, and even taste what is projected into
+
+376
+00:35:07,676 --> 00:35:12,399
+their minds. This not only lets Mastermind alter
+his opponent's perception of their environment,
+
+377
+00:35:12,839 --> 00:35:18,102
+but also their perception of him. These illusions
+are so strong that even if a person is consciously
+
+378
+00:35:18,162 --> 00:35:23,506
+aware that they're inside of an illusion, their
+mind will still react to it as if it were reality.
+
+379
+00:35:23,946 --> 00:35:28,769
+He can extend his illusions to affect up to
+an entire city, and the more intelligent the
+
+380
+00:35:28,809 --> 00:35:33,670
+victim, the greater the effect. His one weakness
+is that he has to keep his concentration in
+
+381
+00:35:33,730 --> 00:35:38,352
+order to maintain his illusions, leaving him
+vulnerable to people who aren't under his influence.
+
+382
+00:35:38,892 --> 00:35:44,693
+Finally, Mastermind carries a regular handgun,
+and he will shoot your ass. How's that for
+
+383
+00:35:44,734 --> 00:35:52,136
+a superpower? Pfft, I'm not scared! You're bringing
+a gun to a mask fight, bro! Hahaha! Now Mastermind
+
+384
+00:35:52,176 --> 00:35:57,077
+was in the movie X-Men 2, right? Like there
+was a character, there was a combination between
+
+385
+00:35:57,177 --> 00:36:02,363
+Mastermind and Legion. Yeah, he was William
+Stryker's son. He was in a wheelchair and he
+
+386
+00:36:02,463 --> 00:36:08,165
+basically manipulated Professor X to use Cerebro
+in Stryker's plan to kill all mutants on Earth.
+
+387
+00:36:08,905 --> 00:36:13,847
+This version of Mastermind in the movie was
+very different from the comics version. The
+
+388
+00:36:13,887 --> 00:36:18,449
+comics version isn't in a wheelchair. He doesn't
+have two different color eyes and he's not
+
+389
+00:36:18,489 --> 00:36:23,539
+the son of William Stryker. Gotcha. Okay. But
+he was pretty twisted in that movie. I remember
+
+390
+00:36:23,679 --> 00:36:27,963
+Striker saying that his wife ended up killing
+himself with a drill to the temple in order
+
+391
+00:36:28,003 --> 00:36:32,708
+to bore the images out that Mastermind was casting
+in there. So he's a pretty kind of scary villain,
+
+392
+00:36:32,848 --> 00:36:34,769
+actually. Not a scary psycho pirate.
+
+393
+00:36:42,010 --> 00:36:48,056
+fantasies collide and heroes clash, one podcast
+network rises above the rest. Prepare yourself
+
+394
+00:36:48,276 --> 00:36:54,383
+for the ultimate showdowns in comic books, video
+games, movies, and anime. The Dynomic Podcast
+
+395
+00:36:54,443 --> 00:37:01,606
+Network presents Console Combat, where video
+game legends brawl every Monday. Comic Book
+
+396
+00:37:01,646 --> 00:37:07,788
+Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+397
+00:37:08,368 --> 00:37:14,290
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+398
+00:37:14,310 --> 00:37:20,012
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+399
+00:37:20,532 --> 00:37:24,813
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+400
+00:37:29,198 --> 00:37:33,221
+But now that we've got their histories and abilities
+out of the way, let's speculate on how one
+
+401
+00:37:33,261 --> 00:37:39,206
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not this speculation,
+
+402
+00:37:39,506 --> 00:37:45,291
+but it's fun to imagine how this fight could
+play out. AJ9K, what are the rules of our speculation?
+
+403
+00:37:46,071 --> 00:37:50,075
+Well, I should say there are no rules, other
+than the characters have no prior knowledge
+
+404
+00:37:50,095 --> 00:37:54,498
+of the other going into the fight. All they
+are aware of starting out is that the other
+
+405
+00:37:54,538 --> 00:37:59,618
+character is a threat that needs to be eliminated.
+For the speculation... contestants will begin
+
+406
+00:37:59,638 --> 00:38:04,700
+approximately 50 meters apart in a nondescript
+environment that will have no bearing on the
+
+407
+00:38:04,740 --> 00:38:10,083
+match itself as no environmental statistics
+are considered in my simulations the contestants
+
+408
+00:38:10,123 --> 00:38:15,185
+must earn victory on their own merit. Alright
+then let's get into it. Psycho pirate and mastermind
+
+409
+00:38:15,205 --> 00:38:21,488
+to meet on the battlefield who goes first? This
+is gonna be hard I feel like but I'm gonna
+
+410
+00:38:21,508 --> 00:38:28,059
+say that psycho pirate goes first cuz he's just
+crazy So he'll probably want to scare Mastermind
+
+411
+00:38:28,119 --> 00:38:33,043
+right away, you know, in order to feed off of
+his fear. So Psycho Pirate starts by making
+
+412
+00:38:33,103 --> 00:38:40,189
+Mastermind see a series of mirrors surround
+him, showing him grotesque exaggerated reflections
+
+413
+00:38:40,429 --> 00:38:46,614
+of his own creepy ass face. That makes sense
+because Mastermind is notoriously ugly in the
+
+414
+00:38:46,654 --> 00:38:51,518
+comics and he often cloaks his appearance with
+an illusion to make others see him as more
+
+415
+00:38:51,658 --> 00:38:56,270
+handsome. So he's kind of insecure about that.
+I feel like that's a good start. So he's gonna
+
+416
+00:38:56,350 --> 00:39:01,671
+see his hideous form and he's gonna be like,
+eeeeh, and he's gonna cast an illusion of darkness
+
+417
+00:39:01,851 --> 00:39:05,692
+around the whole environment so that he can't
+see himself and other people can't see him
+
+418
+00:39:05,732 --> 00:39:12,894
+either. Wait, wait, so Psycho Pirate can't see?
+Exactly. Okay, uh, fuck. In the comics, when
+
+419
+00:39:12,954 --> 00:39:18,296
+Psycho Pirate wants to cast an emotion upon
+someone, like you see that emotion form on
+
+420
+00:39:18,356 --> 00:39:23,857
+his Medusa mask, which is normally blank. I'm
+not sure if people need to see that in order
+
+421
+00:39:23,917 --> 00:39:31,003
+to feel the emotion. or if like the magic of
+the mask projects that emotion on them regardless.
+
+422
+00:39:31,023 --> 00:39:36,985
+Well, it's called the Medusa mask, right? That's
+that's true. You probably have to see the mask
+
+423
+00:39:37,025 --> 00:39:42,246
+in order to be affected by it. So that would
+actually make this darkness illusion probably
+
+424
+00:39:42,286 --> 00:39:46,987
+much more effective than you realized it would
+be. I don't really think Psycho Pirate can
+
+425
+00:39:47,048 --> 00:39:51,289
+do anything about it either. So I guess it's
+still your move. OK. All right. All right.
+
+426
+00:39:51,329 --> 00:39:55,670
+So the darkness is there. And then suddenly
+the lights come back on. and Psycho Pirate
+
+427
+00:39:55,690 --> 00:40:01,071
+finds himself in a medieval torture chamber
+illusion and he's strapped to like this torture
+
+428
+00:40:01,091 --> 00:40:07,773
+rack where this executioner guy is slowly stretching
+Psycho Pirate and Psycho Pirate's in a tremendous
+
+429
+00:40:07,813 --> 00:40:14,555
+amount of pain actually believing that he's
+being stretched. Oh okay uh wow uh can Mastermind
+
+430
+00:40:14,715 --> 00:40:20,897
+see what's happening to Psycho Pirate? Yeah
+yeah actually he's in disguise as the executioner
+
+431
+00:40:21,037 --> 00:40:26,407
+I'm gonna say. Sweet okay. Now, even though
+Psycho Pirate is in like an extreme amount
+
+432
+00:40:26,447 --> 00:40:33,130
+of pain, his Medusa Mask has a smile on its
+face, which causes a bunch of feathers to dance
+
+433
+00:40:33,170 --> 00:40:38,792
+around Mastermind, tickling him and making him
+laugh and be happy, which breaks his concentration
+
+434
+00:40:38,832 --> 00:40:43,574
+and causes him to drop the illusion. Tickling?
+What's the stupidest thing I've ever heard
+
+435
+00:40:43,614 --> 00:40:50,377
+of? Hey, don't tell me that! Tell Mastermind!
+So, Psycho Pirate is back on his feet and Mastermind
+
+436
+00:40:50,477 --> 00:40:57,162
+is just giggling like an idiot. Wait, so Mastermind
+is being tickled because the Medusa mask conjured
+
+437
+00:40:57,242 --> 00:41:02,247
+up a way for him to be happy, and that's what
+happened? Yeah, that's how he feels he would
+
+438
+00:41:02,287 --> 00:41:08,893
+be happy, by being tickled. Okay. Hahaha. Stupid.
+So Mastermind is probably wondering what the
+
+439
+00:41:08,933 --> 00:41:14,258
+fuck's going on as he's being tickled. Uh, yeah,
+the illusion drops. He's probably gonna assume
+
+440
+00:41:14,298 --> 00:41:20,158
+that the feathers that are tickling him have
+manifested- due to his opponent. So he's gonna
+
+441
+00:41:20,318 --> 00:41:24,600
+try as he can to fight through the silliness
+and he's gonna cast a bunch of duplicates of
+
+442
+00:41:24,640 --> 00:41:30,443
+himself, like 20 duplicates around the battlefield
+who aren't being tickled and they surround
+
+443
+00:41:30,483 --> 00:41:35,865
+Psycho Pirate in like this circle. And this
+is gonna cause the feathers to disappear since
+
+444
+00:41:35,965 --> 00:41:41,327
+Psycho Pirate believes that there's suddenly
+a lot more opponents to contend with. Interesting,
+
+445
+00:41:41,547 --> 00:41:46,289
+okay. So Psycho Pirate, you know, he's probably
+gonna try and defend himself from the horde
+
+446
+00:41:46,309 --> 00:41:51,531
+of masterminds. by making them feel wrath and
+just start attacking each other. But of course,
+
+447
+00:41:51,551 --> 00:41:56,212
+this obviously isn't going to work because they're
+not real. Right. And he's going to realize
+
+448
+00:41:56,252 --> 00:42:00,173
+that he's going to realize that they must be
+fake because, you know, his mask can affect
+
+449
+00:42:00,373 --> 00:42:06,515
+even beings as powerful as the specter. Now,
+this wrath is going to affect the real mastermind,
+
+450
+00:42:06,975 --> 00:42:11,917
+and he's just going to run into the circle of
+illusion duplicates that he created and try
+
+451
+00:42:11,937 --> 00:42:16,991
+to start physically attacking Psycho Pirate.
+But before he can. Psycho pirate switches from
+
+452
+00:42:17,051 --> 00:42:22,996
+inciting wrath to inciting trust. Not before
+mastermind shoot psycho pirate with his handgun
+
+453
+00:42:23,256 --> 00:42:31,823
+in all of his wrath. An illusion bullet or a
+real one? Straight up real ass bullet. Psycho
+
+454
+00:42:31,843 --> 00:42:37,647
+pirate gets shot. Too bad mastermind aimed for
+psycho pirate's head because that bullet just
+
+455
+00:42:37,688 --> 00:42:46,026
+bounced right off of the Medusa mask. So psycho
+pirate is shocked, but he's not dead. unconscious
+
+456
+00:42:46,066 --> 00:42:50,968
+if he was shot in the mask. Yeah, it's like
+made of magic metal. He's been shot in the
+
+457
+00:42:50,988 --> 00:42:58,791
+mask before. Really? Yeah. So now that Psycho
+Pirate knows Mastermind has a gun, uh, that's
+
+458
+00:42:58,811 --> 00:43:05,234
+when he's going to project severe depression
+and just cause Mastermind to, you know, unalive
+
+459
+00:43:05,254 --> 00:43:13,217
+himself with his own gun. Jeez. That's dark.
+That's real dark. You must be from the DC universe.
+
+460
+00:43:13,577 --> 00:43:19,215
+Um. Except by this point, I'm gonna say Mastermind
+is pretty much onto Psycho Pirate's powers
+
+461
+00:43:19,255 --> 00:43:26,257
+of emotional manipulation. So, before Psycho
+Pirate makes Mastermind depressed, Mastermind
+
+462
+00:43:26,297 --> 00:43:30,958
+is gonna cast an illusion of like a thick cloud
+of gas to hide himself. And Psycho Pirate's
+
+463
+00:43:30,998 --> 00:43:36,580
+gonna see it as poison gas. He's gonna think
+it's poison gas, so Psycho Pirate's gonna choke
+
+464
+00:43:36,640 --> 00:43:41,801
+on it and die. In reality, just choking on,
+you know, the air or his own spit or something.
+
+465
+00:43:42,782 --> 00:43:47,804
+How would Psycho Pirate know if a gas he's breathing
+in is poisonous? Because it looks poisonous,
+
+466
+00:43:47,844 --> 00:43:51,566
+you know, it's gonna be like a green gas that
+smells like sulfur or something like that.
+
+467
+00:43:51,586 --> 00:43:58,089
+Okay. But, I mean, it's not real poisonous gas.
+So, you know, Psycho Pirate's just gonna wake
+
+468
+00:43:58,169 --> 00:44:04,932
+up while he's on the ground and realize he wasn't
+really choking. So now he's pissed and he's
+
+469
+00:44:04,952 --> 00:44:11,050
+gonna project the Earth-2 versions of the entire
+Justice Society. You know, like Dr. Fate, Hawkman,
+
+470
+00:44:11,070 --> 00:44:16,454
+Green Lantern, all the badasses. And they're
+just going to straight up beat Mastermind to
+
+471
+00:44:16,494 --> 00:44:22,257
+death. What does the justice society have to
+do with emotions? They don't, but he can also
+
+472
+00:44:22,437 --> 00:44:30,322
+manifest beings who died in like past dead universes.
+OK, and these projections are real or they're
+
+473
+00:44:30,362 --> 00:44:37,914
+illusions? They are illusions, but they are
+solid. They're solid constructs. OK, so. Mastermind
+
+474
+00:44:37,974 --> 00:44:42,636
+sees the Justice Society and before he gets
+beaten up, he casts an illusion of the X-Men.
+
+475
+00:44:43,097 --> 00:44:47,399
+And the X-Men are gonna beat the shit out of
+Psycho-Pirate, or you know, that's what Psycho-Pirate
+
+476
+00:44:47,439 --> 00:44:52,002
+experiences anyway. And he's just gonna die
+from the pain of being beat up by the X-Men.
+
+477
+00:44:52,182 --> 00:44:57,004
+Illusion X-Men. And I think that's the perfect
+place to end the match. Either Mastermind gets
+
+478
+00:44:57,064 --> 00:45:03,788
+beat up by the projections of the Justice Society,
+or Psycho-Pirate's mind succumbs to the pain
+
+479
+00:45:03,988 --> 00:45:08,963
+of being beat up by illusions of the X-Men.
+Alright yeah, that's a great place to leave
+
+480
+00:45:09,064 --> 00:45:12,807
+off. Let's go ahead and find out which of these
+scenarios happens by inputting the character's
+
+481
+00:45:12,847 --> 00:45:19,073
+stats, running the simulations, and coming back
+with a winner. AJ9K, hit it! Inputting data.
+
+482
+00:45:19,633 --> 00:45:26,480
+Running calculations. Processing results. Simulations
+complete. Now should we have run stats on the
+
+483
+00:45:26,520 --> 00:45:34,370
+JSA vs the X-Men for this particular speculation?
+Oh jeez, no. No, we just ran the stats between
+
+484
+00:45:34,430 --> 00:45:39,294
+Mastermind and PsychoPirate and let me tell
+you, these guys are not impressive statistically.
+
+485
+00:45:39,774 --> 00:45:46,018
+No, they are super weak, which surprised me
+honestly because PsychoPirate is kind of a
+
+486
+00:45:46,319 --> 00:45:53,023
+big deal in DC somewhat. Like he always seems
+to be involved in some crisis or another. But
+
+487
+00:45:53,063 --> 00:45:57,666
+yeah, statistically, not impressive. I mean,
+they're average when it comes to things like
+
+488
+00:45:57,786 --> 00:46:03,862
+speed, durability, strength, fighting skill,
+intelligence. You know, these guys were pretty
+
+489
+00:46:03,902 --> 00:46:09,104
+basic. Where they both kind of shine though,
+is more along the lines of evasiveness, range
+
+490
+00:46:09,344 --> 00:46:14,647
+and versatility. They're really more about like
+manipulating things than actually doing damage
+
+491
+00:46:14,687 --> 00:46:20,109
+to them. Right, exactly. But when it came to
+things like range and evasiveness, we did give
+
+492
+00:46:20,249 --> 00:46:25,472
+Mastermind the slight edge. Considering the
+fact that yeah, we figured people probably
+
+493
+00:46:25,532 --> 00:46:31,195
+do need to be looking at the Medusa mask for
+it to affect them. And outside of major feats
+
+494
+00:46:31,215 --> 00:46:36,561
+like the crisis on infinite earths with affecting
+entire multiverses or the new 52 where Psycho
+
+495
+00:46:36,581 --> 00:46:41,886
+Pirate was an actual psychic and that was retconned,
+Psycho Pirate really didn't have the same sort
+
+496
+00:46:41,926 --> 00:46:46,871
+of common feats that Mastermind had when it
+came to affecting large groups of people. Psycho
+
+497
+00:46:46,912 --> 00:46:51,937
+Pirate got the edge in perception though because
+he can actually sense people's emotions and
+
+498
+00:46:51,977 --> 00:46:56,881
+then feed off of it. Right, and he also got
+a slight edge in intelligence despite being
+
+499
+00:46:57,061 --> 00:47:03,528
+insane. He's still one of the foremost authorities
+on emotions and manipulation in DC. So taking
+
+500
+00:47:03,568 --> 00:47:08,572
+all of this into account, Joseph, who do you
+think came out on top? I don't know. It's so
+
+501
+00:47:08,612 --> 00:47:13,297
+hard to say. I mean, I think these characters
+were really hard to pin down statistically
+
+502
+00:47:13,417 --> 00:47:19,134
+due to the nature of their powers. The speculation
+was actually really hard. As you guys know,
+
+503
+00:47:19,174 --> 00:47:22,917
+we edit these episodes and if we didn't, you'd
+just hear long pauses as we were trying to
+
+504
+00:47:22,937 --> 00:47:27,019
+figure out what the heck to do. Which is strange
+considering that conceptually these guys can
+
+505
+00:47:27,060 --> 00:47:32,203
+do so many different things, but it's hard to
+conceptualize a battle between two illusion
+
+506
+00:47:32,243 --> 00:47:36,806
+casters and how that would affect each other
+kind of, you know? Yeah. So feeling so in the
+
+507
+00:47:36,866 --> 00:47:41,309
+dark on all of this, I think I'm just going
+to go with my gut and choose Mastermind as
+
+508
+00:47:41,349 --> 00:47:47,013
+my guess for who's going to win. Instagram does
+not agree with me. 69% of our poll takers there.
+
+509
+00:47:47,554 --> 00:47:51,997
+believe that Psycho Pirate is actually going
+to take this one. And that actually surprised
+
+510
+00:47:52,057 --> 00:47:57,282
+me because I don't think Psycho Pirate is that
+much more popular than Mastermind, you know,
+
+511
+00:47:57,322 --> 00:48:03,628
+considering Mastermind was sort of in an X-Men
+movie. I kind of chalked this up to not only
+
+512
+00:48:03,828 --> 00:48:08,632
+Psycho Pirate's involvement with major crises
+that kind of, you know, make him feel bigger
+
+513
+00:48:08,652 --> 00:48:14,277
+than he actually is, but also because he kind
+of looks like Iron Man in like a medieval jester
+
+514
+00:48:14,337 --> 00:48:20,469
+costume. Mastermind probably has the worst supervillain
+costume in all of Marvel comics. It's really
+
+515
+00:48:20,509 --> 00:48:27,552
+bad. He basically just wears like a brown sack,
+so he's not impressive looking visually. Well,
+
+516
+00:48:27,572 --> 00:48:34,636
+let's see if he's impressive in his win rate.
+AJ 9K, the results, please. Hey, Yuasa. The
+
+517
+00:48:34,676 --> 00:48:44,606
+winner of the matchup between Psycho Pirate
+and Mastermind is. Psycho Pirate. Okay, barely.
+
+518
+00:48:44,626 --> 00:48:52,172
+By how much? PsychoPirate won 517 of the 1000
+matches compared to Mastermind who won 483.
+
+519
+00:48:53,993 --> 00:49:01,659
+So it's 51.7% compared to 48.3% of the total
+matches. That's pretty close. Yeah, it was
+
+520
+00:49:01,699 --> 00:49:06,662
+really close. It's pretty much a coin toss,
+tit for tat. Less no fun. You know, you would
+
+521
+00:49:06,682 --> 00:49:11,530
+think for characters that have vaguely similar
+power sets, but are entirely different. There'd
+
+522
+00:49:11,550 --> 00:49:15,392
+be a greater discrepancy in the win rate, but
+I guess this was maybe just a better match
+
+523
+00:49:15,412 --> 00:49:20,076
+than we thought. Apparently, and you were really
+scared when we got into the main event. Yeah,
+
+524
+00:49:20,096 --> 00:49:23,658
+I guess I shouldn't have been though. I should
+have trusted my own judgment. Or Miggies, whoever
+
+525
+00:49:23,698 --> 00:49:27,041
+thought of this matchup. Yeah, it was pretty
+interesting. It was pretty fun to try and come
+
+526
+00:49:27,081 --> 00:49:31,163
+up with the speculation. I thought it was going
+to be so much more interesting. I'm actually
+
+527
+00:49:31,183 --> 00:49:36,207
+a little bit disappointed in myself, but it
+was really hard to combat how PsychoPirate
+
+528
+00:49:36,507 --> 00:49:42,319
+kept making Mastermind feel certain emotions,
+you know? It was fun. Tickle, tickle, tickle.
+
+529
+00:49:42,379 --> 00:49:49,625
+Stupid. I tell you what, though, you tickle
+me. I'm not experiencing joy. I'm experiencing
+
+530
+00:49:49,805 --> 00:49:55,170
+pure rage. That's how you listen to your rage
+out of me. But that does it for this duel,
+
+531
+00:49:55,190 --> 00:50:00,734
+guys. Let us know what you thought about the
+results by writing to us at dyna or by visiting
+
+532
+00:50:00,814 --> 00:50:04,757
+us on Instagram, which you can find a link to
+on our show notes or by going to our website
+
+533
+00:50:04,937 --> 00:50:10,226
+at dynamicduel.com. And on our site, you could
+also find a link to our Patreon page. where
+
+534
+00:50:10,246 --> 00:50:14,749
+you could join our Dynamic 2.0 tier and chat
+with us and fellow listeners, our Fantastic
+
+535
+00:50:14,789 --> 00:50:20,254
+Four tier, which gets you bonus content each
+month, our X-Force tier that makes you an executive
+
+536
+00:50:20,294 --> 00:50:26,219
+producer of this podcast, or our newest tier
+that lets you join our DynaMic Podcast Network.
+
+537
+00:50:26,659 --> 00:50:31,063
+And guys, please don't forget to rate the show
+on Apple Podcasts, Spotify, Podchaser, or on
+
+538
+00:50:31,123 --> 00:50:37,208
+our website. In our next episode, we will be
+reviewing part two of the Justice League Crisis
+
+539
+00:50:37,268 --> 00:50:42,623
+on Infinite Earth's animated film. I have not
+seen it yet because it actually comes out the
+
+540
+00:50:42,643 --> 00:50:47,046
+day we released this episode, but Psycho Pirate
+is a character in there and I'm looking forward
+
+541
+00:50:47,066 --> 00:50:51,009
+to watching it. I really liked what they did
+with the first one. Yeah it was interesting.
+
+542
+00:50:51,489 --> 00:50:54,831
+But that does it for this episode, we want to
+give a big thanks to our executive producers
+
+543
+00:50:55,171 --> 00:50:59,734
+Ken Johnson, John Sturowski, Zachary Hepburn,
+Dustin Belcombe, Mickey Mountain-Geehan, Brandon
+
+544
+00:50:59,754 --> 00:51:05,582
+Estergard, Nathaniel Wagner, Levi Yeaton, Austin
+Wiselowski, AJ Dunkerley, Scott Camacho. Adam
+
+545
+00:51:05,622 --> 00:51:11,445
+Spies, Andrew Shunk, Dean Molesky, and Devin
+Davis for helping make this podcast possible.
+
+546
+00:51:11,885 --> 00:51:15,287
+And we'll talk to you guys next week. Up up
+and away, true believers.
+
