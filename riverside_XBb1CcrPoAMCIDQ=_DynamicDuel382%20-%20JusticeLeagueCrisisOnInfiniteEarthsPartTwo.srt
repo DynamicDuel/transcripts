@@ -1,0 +1,3163 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:26,198 --> 00:00:31,202
+a weekly show where we review superhero films
+and debate the superiority between Marvel and
+
+3
+00:00:31,222 --> 00:00:37,187
+DC by comparing their characters in stat-based
+battle simulations. I'm Johnny DC. And I'm
+
+4
+00:00:37,207 --> 00:00:43,192
+his twin brother Marvelous Joe. And in this
+episode, we are reviewing the latest direct-to-video
+
+5
+00:00:43,252 --> 00:00:49,798
+DC animated film, part two of a three-part trilogy,
+Justice League, Crisis on Infinite Earths.
+
+6
+00:00:50,358 --> 00:00:55,098
+Of course, it's based on a comic of the same
+name. Was it as good as part one? We'll let
+
+7
+00:00:55,118 --> 00:00:58,859
+you know later on in the review. Before that
+we're going to break down the comic book movie
+
+8
+00:00:58,899 --> 00:01:04,902
+news from the past week, of which it's all Marvel
+news. We got the Deadpool and Wolverine official
+
+9
+00:01:04,962 --> 00:01:10,984
+trailer, and we also learned that Kraven the
+Hunter has been pushed back to December. As
+
+10
+00:01:11,064 --> 00:01:14,686
+always we list our segment times in our episode
+description, so feel free to check out the
+
+11
+00:01:14,706 --> 00:01:19,448
+show notes if you want to skip ahead to a particular
+topic. Guys our artificially intelligent duel
+
+12
+00:01:19,488 --> 00:01:27,207
+simulator AJ9K has a quick message for our listeners,
+so listen up. Why hello there. Do you love
+
+13
+00:01:27,247 --> 00:01:32,130
+listening and chatting about Marvel and DC?
+Then become a part of the dynamic duel community
+
+14
+00:01:32,170 --> 00:01:37,714
+on Patreon where you can choose from three tiers.
+The dynamic 2-0 tier lets you listen to this
+
+15
+00:01:37,754 --> 00:01:42,597
+podcast without ads and gives you access to
+its Discord chat group where you can chat with
+
+16
+00:01:42,617 --> 00:01:47,741
+Johnny DC and Marvelous Joe. The fantastic 4
+tier gives you that and more with two bonus
+
+17
+00:01:47,781 --> 00:01:52,544
+episodes each month including bloopers and top
+10 shows where Johnny and Joe count down your
+
+18
+00:01:52,584 --> 00:01:57,591
+favourite Marvel and DC subjects. The X-Force
+tier makes you an executive producer of Dynamic
+
+19
+00:01:57,631 --> 00:02:02,253
+Duel, where every month you help the host choose
+what to review and who to fight against each
+
+20
+00:02:02,293 --> 00:02:08,236
+other. And finally, the Dynamite Podcast Network
+tier allows aspiring podcasters to create their
+
+21
+00:02:08,376 --> 00:02:13,418
+own battle-focused show using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+22
+00:02:13,438 --> 00:02:18,321
+your show, provide graphic support and consultation,
+and get you simulation results to announce
+
+23
+00:02:18,361 --> 00:02:21,482
+on your show. Pitch the twins your show via
+email at dyna
+
+24
+00:02:24,624 --> 00:02:31,506
+them on social media. Check it out at patreon.com
+slash dynamic duel. Pip pip cheerio. Thanks
+
+25
+00:02:31,546 --> 00:02:37,008
+AJ 9k. And thanks to everyone who supports the
+podcast. Be sure guys to tune into the shows
+
+26
+00:02:37,048 --> 00:02:40,930
+and the DynaMic podcast network this week,
+including Max Destruction, which pits your
+
+27
+00:02:40,950 --> 00:02:45,371
+favorite action heroes from film and television
+against each other. This week, I believe hosts
+
+28
+00:02:45,431 --> 00:02:51,654
+Ken and Scotty will pit Mad Max against Jack
+Burton from Big Trouble in Little China. Also
+
+29
+00:02:51,674 --> 00:02:56,415
+make sure to check out the Sinjo World podcast,
+where host Zachary Hepburn speculates on fights
+
+30
+00:02:56,455 --> 00:03:01,096
+between fan favorite anime and manga characters.
+There's actually no episode coming out this
+
+31
+00:03:01,136 --> 00:03:07,338
+Thursday, but if you like anime and manga, definitely
+check out his show. On the Console Combat podcast,
+
+32
+00:03:07,398 --> 00:03:11,399
+hosts John and Dean find out who would win in
+fights between popular video game characters.
+
+33
+00:03:11,819 --> 00:03:16,761
+In yesterday's episode, they found out who would
+win between Detective Nick Valentine from Fallout
+
+34
+00:03:16,781 --> 00:03:23,203
+4 and Detective Cole Phelps from L.A. Noire.
+Visit dynamic podcasts dot com or click the
+
+35
+00:03:23,243 --> 00:03:28,165
+link in our show notes to listen to all of the
+shows in the dynamic podcast network. And if
+
+36
+00:03:28,205 --> 00:03:33,287
+you guys have ever been a fan of dynamic duel,
+you owe it to yourselves to check out the rankers
+
+37
+00:03:33,347 --> 00:03:38,429
+podcast where you can listen to Jonathan and
+I take a more holistic approach in their latest
+
+38
+00:03:38,469 --> 00:03:43,251
+episode to the Marvel versus DC debate. It was
+a whole lot of fun. I felt like it was a Marvel
+
+39
+00:03:43,291 --> 00:03:48,153
+and DC debate that Jonathan and I had been prepping
+our entire lives for. So definitely check out
+
+40
+00:03:48,273 --> 00:03:52,931
+the rankers podcast. In fact, you know, Marvel
+fans, if you have no interest in hearing a
+
+41
+00:03:52,971 --> 00:03:57,293
+review about Justice League Crisis on Infinite
+Earths, I'd go check out the Rankers podcast
+
+42
+00:03:57,313 --> 00:04:03,915
+right now. Honestly, even if you're a DC fan,
+like that episode is better than Crisis on
+
+43
+00:04:03,975 --> 00:04:09,498
+Infinite Earths, part two. I'm just going to
+say it's a five star episode. Crisis on Infinite
+
+44
+00:04:09,518 --> 00:04:14,900
+Earths, part two is not five stars. Definitely
+check out the Rankers podcast. But with that
+
+45
+00:04:14,940 --> 00:04:21,444
+out of the way, quick to the no prize. A no
+prize is an award Marvel used to give out to
+
+46
+00:04:21,484 --> 00:04:26,789
+fans. Our version, the Dynamic duel No Prize,
+is a digital award we post on Instagram for
+
+47
+00:04:26,810 --> 00:04:31,174
+the person that we feel gave the best answer
+to our question of the week. Last week, we
+
+48
+00:04:31,334 --> 00:04:36,520
+asked, what casting announcement for a Marvel
+or DC film were you the most hyped about when
+
+49
+00:04:36,540 --> 00:04:42,530
+you first heard about it and why? And this is
+coming off of the lackluster news of... the
+
+50
+00:04:42,590 --> 00:04:46,873
+Jonathan and Martha Kent casting in the Superman
+movie. But we thought it was a fun question.
+
+51
+00:04:46,913 --> 00:04:50,556
+We got a lot of great answers. So let's go ahead
+and run down our honorable mentions as well
+
+52
+00:04:50,596 --> 00:04:56,821
+as the no prize winner. Our first honorable
+mention goes to Travis Herndon, who said, What's
+
+53
+00:04:56,861 --> 00:05:02,246
+up, Dynamic Dudes? Travis here. Shout out to
+my twins. So my pick would have to be Christian
+
+54
+00:05:02,266 --> 00:05:06,489
+Bale. I mean, when I heard that Christian Bale
+was going to be gore to God butcher, I was
+
+55
+00:05:06,549 --> 00:05:12,958
+excited. I was high. Granted, Christian Bale
+didn't look exactly like gore. go into comics
+
+56
+00:05:13,078 --> 00:05:17,801
+and Love and Thunder was underwhelming to say
+the least. But come on, we have to admit we
+
+57
+00:05:17,821 --> 00:05:22,104
+were all hyped when we heard Christian Bale
+as Gore the God Butcher. Yeah, I remember being
+
+58
+00:05:22,264 --> 00:05:27,507
+thrilled because Christian Bale is such a fantastic
+actor and Gore the God Butcher is an equally
+
+59
+00:05:27,547 --> 00:05:32,570
+fantastic villain for Thor. I thought the next
+Thor movie was going to be the next Batman
+
+60
+00:05:32,610 --> 00:05:37,513
+Begins or something like that. And that did
+not happen. We'll say that. Nope, nope, nope.
+
+61
+00:05:37,962 --> 00:05:43,824
+No, honestly, I cannot admit that I was excited
+for Kushra Bell's casting. I felt horribly
+
+62
+00:05:43,925 --> 00:05:47,766
+betrayed and heartbroken when I learned that
+he was in a Marvel movie. I was like, what
+
+63
+00:05:47,806 --> 00:05:53,329
+are you doing? Well, DC had moved on from his
+Batman at that point, so it was only fitting
+
+64
+00:05:53,369 --> 00:05:57,111
+that he comes over to Marvel's side. I just
+wish that the character of Gore would have
+
+65
+00:05:57,131 --> 00:06:01,293
+been done more justice. Not that his portrayal
+of Gore was bad. It was just that the movie
+
+66
+00:06:01,333 --> 00:06:06,324
+was so. off. If anything, Christian Bale was
+actually the best part of Thor 11th Thunder,
+
+67
+00:06:06,524 --> 00:06:11,467
+but you know, being the best part of a turd
+sandwich is still not great. Yeah, he absolutely
+
+68
+00:06:11,507 --> 00:06:15,669
+was the best part. But I do have to ask you,
+how would you feel if like, Toby Maguire came
+
+69
+00:06:15,729 --> 00:06:21,292
+over to DC and played like Ted Kord or something?
+Toby Maguire is probably my least favorite
+
+70
+00:06:21,452 --> 00:06:27,616
+Spider-Man actor, so I would not care. Okay,
+what if Hugh Jackman came over to DC and played,
+
+71
+00:06:27,636 --> 00:06:33,074
+I don't know, Brainiac? Oh, that would be weird.
+I mean, he'd be so covered in prosthetics,
+
+72
+00:06:33,114 --> 00:06:38,176
+I'd imagine that he'd be almost unrecognizable.
+I would be interested in seeing that, for sure.
+
+73
+00:06:38,596 --> 00:06:43,817
+You only say that because you don't know what
+it's like to be heartbroken, like I do. Great
+
+74
+00:06:43,877 --> 00:06:50,039
+answer, Travis. Our next honorable mention goes
+to Gilly Macho, who said, What up guys, Gilly
+
+75
+00:06:50,079 --> 00:06:55,280
+Macho here. And the announcement I was most
+excited for was Jon Berthold as the Punisher.
+
+76
+00:06:55,560 --> 00:07:00,114
+We've all seen Walking Dead, and I was a big
+fan of the Shane character. And when I heard
+
+77
+00:07:00,174 --> 00:07:06,156
+he was coming to be the Punisher, you knew that
+Blood and Gore was coming with him. So yep,
+
+78
+00:07:06,697 --> 00:07:11,779
+John Berthold as the Punisher. Yeah, I was thrilled
+by this news. I had watched the first season
+
+79
+00:07:11,839 --> 00:07:16,461
+of Walking Dead and that was my first exposure
+to the actor, John Bernthold. And when they
+
+80
+00:07:16,501 --> 00:07:22,023
+announced his casting, I immediately was super
+hyped because even though I liked Ray Stevenson
+
+81
+00:07:22,203 --> 00:07:26,865
+as the Punisher, who played the character most
+recently prior to this casting, John Bernthold.
+
+82
+00:07:27,474 --> 00:07:32,137
+just felt more like Frank Castle to me. You
+know, he had that rage that he portrayed so
+
+83
+00:07:32,157 --> 00:07:37,661
+well in The Walking Dead. And also he seemed
+more Italian, which The Punisher is. And it
+
+84
+00:07:37,681 --> 00:07:43,665
+just felt perfect. Yeah. Like everything you've
+said, same, except I think I saw two seasons
+
+85
+00:07:43,705 --> 00:07:48,889
+of The Walking Dead. John Bernthal was a fantastic
+actor. And yeah, I think in all of the fan
+
+86
+00:07:48,929 --> 00:07:54,673
+castings for an upcoming Punisher film or television
+series, everyone was pushing him for the role,
+
+87
+00:07:54,733 --> 00:07:59,582
+including me. Yeah, I'm really glad that he's
+coming back for the Daredevil born again series,
+
+88
+00:07:59,623 --> 00:08:03,864
+or, you know, he's heavily rumored to appear
+again. I think he just captures the character
+
+89
+00:08:04,144 --> 00:08:09,125
+on a deeper level than any previous Punisher
+actor has. For sure. Yeah, absolutely. Great
+
+90
+00:08:09,185 --> 00:08:15,507
+answer, Gilly. Our next honorable mention goes
+to Judson Batty, who said, Hi guys, Judson
+
+91
+00:08:15,547 --> 00:08:20,788
+Batty here. I would say that the casting decision
+I was most excited about was Pierce Brosnan
+
+92
+00:08:20,908 --> 00:08:25,714
+as Dr. Fate in Black Adam, because I wasn't
+too hyped in the movie beforehand. But when
+
+93
+00:08:25,794 --> 00:08:31,559
+they cast a James Bond actor who was really
+good, I knew that at the very least, no matter
+
+94
+00:08:31,579 --> 00:08:36,223
+how shit the rest of the film turned out to
+be, Dr. Fate would be done well. And just really
+
+95
+00:08:36,243 --> 00:08:41,728
+made me excited for it. Leave it to the Brits
+to say that a James Bond actor was the one
+
+96
+00:08:41,748 --> 00:08:45,891
+they were the most excited for. But you know
+what? I am right there with you, man. I am
+
+97
+00:08:45,931 --> 00:08:49,855
+a huge fan of James Bond as people who have
+listened to this podcast for a long time know.
+
+98
+00:08:50,375 --> 00:08:56,123
+And I was just seething with jealous rage. when
+Pierce Brosnan was cast as Dr. Fate because
+
+99
+00:08:56,143 --> 00:09:01,545
+DC also got Timothy Dalton to play the chief
+in the Doom Patrol television series and like
+
+100
+00:09:01,665 --> 00:09:06,887
+I'm wondering when a Bond actor is going to
+join Marvel. Freaking never. I know that's
+
+101
+00:09:07,127 --> 00:09:11,469
+so heartbreaking. At one point I believe Daniel
+Craig was going to play Baldur the Brave and
+
+102
+00:09:11,489 --> 00:09:17,491
+he had to back out but hopefully they find a
+good role for Daniel Craig in a Marvel movie.
+
+103
+00:09:17,531 --> 00:09:23,838
+He's still my fan cast choice for Despero if
+they ever do Despero in a DC movie. I'll take
+
+104
+00:09:23,858 --> 00:09:28,320
+George Lazenby at this point too. I mean, Sean
+Connery is still alive and he's done LXG, so
+
+105
+00:09:28,901 --> 00:09:35,564
+you think he'd be up for a Marvel movie? Oh,
+LXG, another DC imprint film. Damn it! Ha ha!
+
+106
+00:09:37,005 --> 00:09:40,847
+Ugh, James Bond actors are breaking my heart
+over here. But in regards to Pierce Brosnan
+
+107
+00:09:41,247 --> 00:09:45,850
+as Dr. Fate, yeah, I was super stoked when I
+heard this news as well. Pierce Brosnan is
+
+108
+00:09:45,970 --> 00:09:51,433
+absolutely the kind of quality actor you'd want
+in a role that's sort of somewhat generic as
+
+109
+00:09:51,493 --> 00:09:56,407
+Kent Nelson. He could really bring that character
+to life in a way that hasn't been done in the
+
+110
+00:09:56,427 --> 00:10:01,449
+comics. Also, I knew his voice was going to
+be fantastic for the character of Dr. Fate,
+
+111
+00:10:01,890 --> 00:10:07,612
+and I was not wrong. He was awesome. Yeah, Pierce
+Brosnan delivered on the hype for him in the
+
+112
+00:10:07,652 --> 00:10:11,894
+role. I think the movie gets undeserved flak
+because I thought it was pretty entertaining
+
+113
+00:10:11,934 --> 00:10:17,876
+overall. And I was definitely pleased with Pierce
+as Dr. Fate. It's actually a shame that he
+
+114
+00:10:17,896 --> 00:10:21,886
+won't be playing the character anymore, I think.
+Yeah, well, I mean... For two reasons, one
+
+115
+00:10:21,926 --> 00:10:27,489
+because the character died in the movie and
+also because the DCEU is over. But Gilly's
+
+116
+00:10:27,590 --> 00:10:33,813
+brother Scotty also gave Pierce Brosnan as Dr.
+Fate for his answer. So shout out to Scotty.
+
+117
+00:10:33,833 --> 00:10:38,656
+I thought that was kind of coincidental too.
+Yeah, out of all the casting people just really
+
+118
+00:10:38,696 --> 00:10:44,680
+love Pierce Brosnan. Yeah, who doesn't? But
+the winner of this week's No Prize is Colby
+
+119
+00:10:44,700 --> 00:10:51,448
+Hentges who said, Hey boys, Colby Hentges. The
+Marvel DC casting I was most hyped for was
+
+120
+00:10:51,568 --> 00:10:57,613
+Ryan Reynolds as Wade Wilson. He had done the
+van Wilder and the waiting movie. So I knew
+
+121
+00:10:57,633 --> 00:11:02,116
+he could do the sophomore humor stuff. He did
+the blade Trinity. So I knew he could do the
+
+122
+00:11:02,156 --> 00:11:07,820
+comic book action stuff. You guys, I went into
+Wolverine origins. So hype.
+
+123
+00:11:13,227 --> 00:11:18,311
+Only to be let down so much, at least in that
+film. Yeah, so hyped and then so disappointed.
+
+124
+00:11:18,512 --> 00:11:23,316
+X-Men Origins Wolverine was horrible and they
+really fucked up the character of Deadpool.
+
+125
+00:11:23,616 --> 00:11:28,941
+So it was really nice when seven years later,
+Ryan Weld's got the chance to do the character
+
+126
+00:11:28,981 --> 00:11:33,526
+justice in his own movie. He's pretty much the
+perfect casting and he's a fan of the character.
+
+127
+00:11:33,806 --> 00:11:40,051
+He exemplifies Deadpool to a T. It's actually
+hard to imagine. Deadpool now without Ryan
+
+128
+00:11:40,071 --> 00:11:44,415
+Reynolds voice. I think when I read Deadpool
+comics nowadays He just so embodies the character
+
+129
+00:11:44,735 --> 00:11:49,359
+in a way that few actors are able to do You
+know Robert Downey Jr. Did it Hugh Jackman
+
+130
+00:11:49,379 --> 00:11:54,103
+did it and I think you could add Ryan Reynolds
+to that list And now that the MCU has lost
+
+131
+00:11:54,403 --> 00:11:59,888
+some of their a-list talents like Robert Downey
+Jr I really think that Ryan Reynolds is the
+
+132
+00:11:59,928 --> 00:12:05,332
+biggest name that the MCU currently has in their
+acting roster So I'm glad that he's able to
+
+133
+00:12:05,432 --> 00:12:10,816
+pick up some of the slack with this year's Deadpool
+and Wolverine movie. That's true, actually.
+
+134
+00:12:11,357 --> 00:12:16,000
+Yeah, I wonder if one of the reasons that Marvel
+isn't drawing as big of audiences as they used
+
+135
+00:12:16,020 --> 00:12:21,103
+to is just the lack of star power. It's possible.
+An actor like Robert Downey Jr. can draw a
+
+136
+00:12:21,143 --> 00:12:25,346
+crowd on his own. And nowadays that kind of
+pool just doesn't exist quite like it used
+
+137
+00:12:25,366 --> 00:12:30,149
+to. Which is interesting because some people
+accuse Marvel of killing off the movie star.
+
+138
+00:12:30,658 --> 00:12:34,600
+People were caring more about the characters
+as opposed to the actors playing them. But
+
+139
+00:12:34,700 --> 00:12:39,622
+yeah, maybe now actors matter more than people
+realize. So great answer Colby, you win this
+
+140
+00:12:39,642 --> 00:12:43,684
+week's No Prize. Congrats on that. If you the
+listener want a shot at winning your own No
+
+141
+00:12:43,724 --> 00:12:48,167
+Prize, stay tuned to later on this episode when
+we'll be asking another question of the week.
+
+142
+00:12:48,647 --> 00:12:50,948
+And now that that's done, onto the news!
+
+143
+00:12:56,470 --> 00:13:02,674
+All right, this past week we got the trailer
+for Deadpool and Wolverine. And while the first
+
+144
+00:13:02,814 --> 00:13:08,178
+teaser focused more on Deadpool and the TVA
+and kind of set up the situation that he would
+
+145
+00:13:08,198 --> 00:13:13,542
+be going through, they only really teased that
+shot of Wolverine in the shadows as he stabbed
+
+146
+00:13:13,642 --> 00:13:17,425
+Deadpool at the end of the teaser. We didn't
+get a whole lot of Wolverine action in that
+
+147
+00:13:17,465 --> 00:13:23,789
+first preview. But in this trailer, they really
+build upon the Deadpool and Wolverine relationship.
+
+148
+00:13:24,286 --> 00:13:28,849
+Oh, yeah, this trailer is almost entirely all
+Wolverine, which is fitting considering, you
+
+149
+00:13:28,869 --> 00:13:34,134
+know, Wolverine shares the title with Deadpool.
+So I'm not surprised that they dedicated a
+
+150
+00:13:34,174 --> 00:13:40,840
+trailer mostly to him. Like, there's very few
+Deadpool jokes in this trailer. Right. Yeah.
+
+151
+00:13:40,860 --> 00:13:47,165
+So it wasn't as funny, but I think it's just
+so hype inducing to see Hugh Jackman back in
+
+152
+00:13:47,185 --> 00:13:51,969
+the role, especially in that comics. Accurate
+costume. Yeah, I was actually pretty happy
+
+153
+00:13:52,009 --> 00:13:56,578
+to see him. with no sleeves, because I didn't
+love the yellow sleeves when we first got like
+
+154
+00:13:56,598 --> 00:14:01,143
+the set photos. But yeah, I'm glad to see that.
+I'm just wondering if we're going to get to
+
+155
+00:14:01,163 --> 00:14:05,568
+see the mask before the movie comes out or if
+they're going to make us pay to see it. Oh,
+
+156
+00:14:05,588 --> 00:14:10,513
+they're probably going to make us pay to see
+the mask for sure. The trailer starts off with.
+
+157
+00:14:10,954 --> 00:14:15,356
+Wolverine in a bar similar to when we very first
+saw the character in the first X-Men movie
+
+158
+00:14:15,376 --> 00:14:19,518
+that came out in the year 2000, which I thought
+was pretty fitting. And it was just so jarring
+
+159
+00:14:19,538 --> 00:14:23,180
+to all of a sudden see Deadpool's stupid face
+pop in the shot. And he's like, hey, Peanut,
+
+160
+00:14:23,200 --> 00:14:27,423
+that was pretty good. And Wolverine's like,
+lady, I don't have time for this. Started out
+
+161
+00:14:27,443 --> 00:14:31,865
+with a bang. But then the trailer kind of goes
+into dark territory because we see that this
+
+162
+00:14:31,945 --> 00:14:36,267
+particular variant of Wolverine, I'm not sure
+if it's the same Wolverine that was in the
+
+163
+00:14:36,347 --> 00:14:41,622
+Logan movie or if it's a different multiversal
+version of the character, but Basically, it
+
+164
+00:14:41,662 --> 00:14:49,386
+seems like he let his entire universe down somehow
+by letting the X-Men die. Now, we see a shot
+
+165
+00:14:49,546 --> 00:14:56,249
+of this version of Wolverine standing, I think,
+next to a bunch of tall monuments, maybe tombstones.
+
+166
+00:14:56,289 --> 00:15:00,911
+They kind of look like some of the Sentinel
+ships from the Days of Future Past movie. So
+
+167
+00:15:00,971 --> 00:15:06,854
+it could be like a Sentinel situation that killed
+all of his friends in the X-Men or If it's
+
+168
+00:15:06,894 --> 00:15:11,896
+the same version of Wolverine from the Logan
+movie, then it was actually Professor X who
+
+169
+00:15:11,956 --> 00:15:16,959
+had like a seizure and killed the rest of the
+X-Men. It's hard to say. I'm inclined to believe
+
+170
+00:15:16,979 --> 00:15:21,202
+that this is not the Logan version just because
+it wasn't Wolverine's fault that the X-Men
+
+171
+00:15:21,262 --> 00:15:26,444
+died in that movie. Well, they can make it Wolverine's
+reason that Professor X perhaps had the seizure.
+
+172
+00:15:26,905 --> 00:15:31,307
+Like he failed to get his medication on time
+or, you know, something like that. Something
+
+173
+00:15:31,347 --> 00:15:36,298
+like that, yeah. I am inclined to think it's
+the Logan version only because He suffered
+
+174
+00:15:36,338 --> 00:15:43,001
+from the same like claw ejection problem that
+Rogan had in that movie. Yeah, he had ejectile
+
+175
+00:15:43,021 --> 00:15:49,303
+dysfunction. Right. Yeah. He doesn't later on
+in the trailer, though. And it is glorious
+
+176
+00:15:49,323 --> 00:15:54,906
+to actually see those claws pop out of his blue
+gloved hand with those like little metallic
+
+177
+00:15:54,966 --> 00:15:59,128
+slits, mirrors, knuckles. It's glorious. Yeah.
+Just think him take swipes to Deadpool, which
+
+178
+00:15:59,188 --> 00:16:03,089
+actually, I guess, is an Easter egg call out
+to the first Spider-Man movie. There's quite
+
+179
+00:16:03,109 --> 00:16:09,393
+a few. Easter eggs in this trailer, like there
+was dog pool and Ant-Man's or Giant Man's helmet.
+
+180
+00:16:09,853 --> 00:16:15,937
+It took me a few viewings to catch quite a few
+of them because everything happens so fast.
+
+181
+00:16:16,417 --> 00:16:21,340
+Oh yeah, there's a huge cast of characters in
+this from, you know, Lady Deathstrike, Zazel,
+
+182
+00:16:21,820 --> 00:16:26,964
+we see Callisto from X-Men 3. There's a ton
+of characters here, both from the Fox X-Men
+
+183
+00:16:26,984 --> 00:16:32,747
+franchise and, you know, with Ant-Man from the
+MCU. We even see the guys jump from Ant-Man's
+
+184
+00:16:32,767 --> 00:16:37,369
+skull into a Dr. Strange portal. So it's possible
+that Dr. Strange is even in this movie, which
+
+185
+00:16:37,409 --> 00:16:42,592
+would be wild to see. That moment when they're
+jumping out of the eye into the portal with
+
+186
+00:16:42,712 --> 00:16:47,195
+Madonna's like a prayer playing, like I got
+chills. Like I just, I cannot wait to see this
+
+187
+00:16:47,695 --> 00:16:51,978
+in the theater. I'm so pumped. I hope it's not
+Dr. Strange that makes a cameo. I hope it's
+
+188
+00:16:52,038 --> 00:16:59,041
+Wong's friend Madison, who like got his sling
+ring. I hope it's Wong, now that you said that.
+
+189
+00:16:59,598 --> 00:17:04,079
+I think that'd be hilarious. It probably will
+be the guys everywhere in this phase. He's
+
+190
+00:17:04,099 --> 00:17:09,280
+made a lot of cameos like She Hulk, Shang Chi
+for sure. The movie comes out in theaters July
+
+191
+00:17:09,320 --> 00:17:14,362
+26th, and all I have to say is, let's fucking
+go, let's fucking go. Did this trailer sell
+
+192
+00:17:14,382 --> 00:17:18,683
+you on the movie? Like, do you want to see another
+trailer after this? Yes, I would love another
+
+193
+00:17:18,723 --> 00:17:23,844
+trailer, actually. Although I don't need one.
+I just kind of want some more context into
+
+194
+00:17:23,884 --> 00:17:26,885
+what the movie is about, because I feel like
+we haven't really gotten that too much yet.
+
+195
+00:17:27,205 --> 00:17:31,727
+Yeah. I didn't like this trailer as much as
+the first one, so yeah, I'm still hoping to
+
+196
+00:17:31,767 --> 00:17:37,050
+get one that really merges the humor of Deadpool
+with the action of Wolverine. More so than
+
+197
+00:17:37,110 --> 00:17:41,512
+either of these two trailers did. I'm sure we
+will get another trailer after this, and I'm
+
+198
+00:17:41,532 --> 00:17:46,074
+sure it'll be more of a story trailer. Yeah,
+that'd be cool. Maybe something more with Cassandra
+
+199
+00:17:46,094 --> 00:17:50,836
+Nova. She was cool to see in this trailer as
+well. Yeah, she looks like she's gonna be pretty
+
+200
+00:17:50,856 --> 00:17:56,303
+formidable. You know, being Professor X's sister.
+But speaking of all these different characters
+
+201
+00:17:56,323 --> 00:18:00,515
+that appeared in the Deadpool and Wolverine
+trailer that brings us to our question of the
+
+202
+00:18:00,555 --> 00:18:00,816
+week.
+
+203
+00:18:05,362 --> 00:18:11,268
+Other than Wolverine and the characters that
+you saw in the trailer, what Fox X-Men character
+
+204
+00:18:11,308 --> 00:18:16,453
+do you most hope appears in Deadpool and Wolverine
+and why? There's a lot to choose from, both
+
+205
+00:18:16,493 --> 00:18:21,978
+from the Patrick Stewart Ian McKellen era, the
+James McAvoy Michael Fassbender era, the previous
+
+206
+00:18:22,018 --> 00:18:27,624
+Deadpool movies, the Wolverine movies, the new
+Mutants movie, there's a lot going on here,
+
+207
+00:18:27,684 --> 00:18:32,054
+so who do you guys want to see most? Record
+your answer at dynamicduel.com by clicking
+
+208
+00:18:32,095 --> 00:18:36,116
+on the red microphone button in the bottom right
+hand corner of the screen, which will prompt
+
+209
+00:18:36,136 --> 00:18:40,438
+you to leave us a voicemail. Your message could
+be up to 30 seconds long, and don't forget
+
+210
+00:18:40,458 --> 00:18:44,720
+to leave your name in case we include you on
+the podcast. We'll pick our favorite answer
+
+211
+00:18:44,980 --> 00:18:49,662
+and award that person a Dynamic Duel No Prize
+that we'll post to Instagram. Be sure to answer
+
+212
+00:18:49,702 --> 00:18:56,104
+before May 4th. In other news, we learned this
+past week that Craven the Hunter, the movie
+
+213
+00:18:56,164 --> 00:19:01,394
+being produced by Sony in the Sony Spider-Man
+universe, has been pushed back from August
+
+214
+00:19:01,534 --> 00:19:08,637
+30th, 2024 to December 13th, 2024. So it's no
+longer a summer release. It's now a Christmas
+
+215
+00:19:08,677 --> 00:19:14,360
+time release. And I think if they just keep
+pushing this movie back, that would be the
+
+216
+00:19:14,400 --> 00:19:19,622
+best thing for everyone. I mean, this is its
+fourth release date, right? I think so. Yeah,
+
+217
+00:19:19,642 --> 00:19:24,464
+it's been pushed back quite a bit. I know initially
+it was supposed to come out for October of
+
+218
+00:19:24,504 --> 00:19:29,866
+2023. But then I think the studio wanted to
+have Aaron Taylor Johnson promote it. and he
+
+219
+00:19:29,906 --> 00:19:34,747
+couldn't due to the strike at the time. So yeah,
+they pushed it back to this year and it just
+
+220
+00:19:34,767 --> 00:19:39,928
+keeps getting pushed back. Honestly, I wasn't
+surprised by this pushback. This fall seems
+
+221
+00:19:39,968 --> 00:19:45,310
+kind of crowded for comic book films and there
+really isn't anything comic book related being
+
+222
+00:19:45,350 --> 00:19:50,051
+released in December, which tends to be a good
+money making month. I just don't know about
+
+223
+00:19:50,491 --> 00:19:54,472
+this film making money during the holiday season
+because it looks like it's gonna be kind of
+
+224
+00:19:54,532 --> 00:20:00,607
+violent. Yeah, but that might be the best thing
+about it, honestly. because as Sony has shown
+
+225
+00:20:00,707 --> 00:20:06,991
+us with recent releases like Madame Web and
+Morbius and Let There Be Carnage, the studio
+
+226
+00:20:07,011 --> 00:20:12,295
+is just not really great at making the Spider-Man
+spinoff movies and it doesn't seem like they're
+
+227
+00:20:12,315 --> 00:20:15,797
+really going anywhere. At first, Sony was really
+pushing the idea of all these movies being
+
+228
+00:20:15,897 --> 00:20:19,900
+interconnected and they kind of backpedaled
+on that, especially since the release of Madame
+
+229
+00:20:19,940 --> 00:20:25,644
+Web and stated like oh, this is kind of like
+in its own separate standalone universe thing
+
+230
+00:20:26,004 --> 00:20:29,930
+because really nobody's liking these movies.
+And if they say that they're all connected,
+
+231
+00:20:30,251 --> 00:20:34,873
+people are even less inclined to go see them.
+Wait, so you're telling me that we're not going
+
+232
+00:20:34,893 --> 00:20:41,057
+to see Morbius and Vulture and Craven and everyone
+team up? It's looking like that's likely not
+
+233
+00:20:41,077 --> 00:20:45,980
+going to be the case. That's embarrassing. I
+feel bad for Sony. Holy cow. I feel bad for
+
+234
+00:20:46,020 --> 00:20:50,622
+Sony, too. Not really, though. They kind of
+shut the bed and they should be forced to sleep
+
+235
+00:20:50,642 --> 00:20:55,085
+in it now. Yeah. And then eventually just give
+the Spider-Man rights back to Marvel. That's
+
+236
+00:20:55,105 --> 00:20:59,696
+what we want to see, right? Very true. I have
+very little hope for this movie, which is a
+
+237
+00:20:59,776 --> 00:21:03,860
+shame because I am a big fan of the character
+of Craven the Hunter. If you want to learn
+
+238
+00:21:03,880 --> 00:21:07,843
+more about him, if you haven't read about him
+in the comics, go ahead and check out our Vixen
+
+239
+00:21:07,883 --> 00:21:13,488
+vs Craven the Hunter duel episode. But speaking
+of James Bond earlier, the rumor is that Aaron
+
+240
+00:21:13,508 --> 00:21:17,772
+Taylor Johnson is going to be the next James
+Bond. So part of me kind of hopes that Craven
+
+241
+00:21:17,792 --> 00:21:21,555
+the Hunter does really well at the box office
+so that he doesn't lose that chance because
+
+242
+00:21:21,595 --> 00:21:26,730
+I do think that Aaron Taylor Johnson would make
+a good Bond. but if this movie bombs, he might
+
+243
+00:21:26,750 --> 00:21:30,811
+be seen as box office poison. I don't know.
+I don't know if I buy him his Bond. I think
+
+244
+00:21:30,831 --> 00:21:35,132
+he's too short. You know who should be Bond?
+Theo James. I was talking about this with a
+
+245
+00:21:35,152 --> 00:21:41,014
+guy at work. Theo James should be Bond. Fuck
+no! That James Franco lookalike guy? What?
+
+246
+00:21:41,594 --> 00:21:47,216
+I don't like it. Plus, he's like already 40
+years old. It wouldn't work. Isn't Aaron Taylor
+
+247
+00:21:47,256 --> 00:21:56,251
+Johnson like close to 40? No, he's 33. Fuck!
+Why do I feel so old? Anyway, off the topic
+
+248
+00:21:56,271 --> 00:22:00,876
+of James Bond, I guess ultimately I'm pushing
+for Craven the Hunter to do well and be good.
+
+249
+00:22:01,356 --> 00:22:02,457
+It's not, don't worry about it.
+
+250
+00:22:09,870 --> 00:22:14,117
+But I guess that does it for all the news for
+this week. So let's move on to the main event
+
+251
+00:22:14,157 --> 00:22:20,267
+of this episode where we review the animated
+film Justice League, Crisis on Infinite Earths
+
+252
+00:22:20,568 --> 00:22:21,189
+Part 2.
+
+253
+00:22:36,822 --> 00:22:43,007
+Justice League Crisis on Infinite Earths Part
+2 is the second of a 3-part animated film saga
+
+254
+00:22:43,287 --> 00:22:50,953
+that itself is the conclusion of a 10-part animated
+film universe known as the Tomorrowverse. Though
+
+255
+00:22:50,993 --> 00:22:56,518
+the Crisis trilogy actually has ties going back
+to the previous DC animated movie universe
+
+256
+00:22:56,758 --> 00:23:04,544
+that began with Justice League The Flashpoint
+Paradox in 2013. Now the DC AMU had a phenomenal
+
+257
+00:23:04,644 --> 00:23:10,167
+and heartbreaking ending. in the animated film
+Justice League Dark Apocalypse War, which we
+
+258
+00:23:10,187 --> 00:23:15,970
+gave a 5 star review, despite the fact that
+its ending was somewhat ambiguous. Considering
+
+259
+00:23:16,030 --> 00:23:22,053
+that it could be argued the Crisis on Infinite
+Earth trilogy is 11 years in the making and
+
+260
+00:23:22,073 --> 00:23:27,155
+there are some rumors it will lead straight
+into James Gunn's new DC universe that includes
+
+261
+00:23:27,235 --> 00:23:33,350
+animated films, I feel like I should be a whole
+hell of a lot more excited about Crisis. But
+
+262
+00:23:33,390 --> 00:23:38,171
+it's really hard to be considering the way the
+producers have structured the stories. And
+
+263
+00:23:38,211 --> 00:23:43,833
+make no mistake, there is a structure, as you
+can now see easter eggs across the Tomorrowverse
+
+264
+00:23:43,873 --> 00:23:51,095
+films and even some DC animated shorts. But
+so far, the whole is the sum of its parts,
+
+265
+00:23:51,175 --> 00:23:56,597
+and if you've been following our reviews of
+the Tomorrowverse films, despite a few exceptions,
+
+266
+00:23:56,957 --> 00:24:02,415
+the parts aren't that great. and are only marginally
+made better by the story reveals that come
+
+267
+00:24:02,475 --> 00:24:09,477
+perhaps too little too late. Now, I don't want
+to spoil those reveals for anyone, so if you
+
+268
+00:24:09,517 --> 00:24:14,398
+haven't seen Crisis on Infinite Earths Part
+2, well, I'm guessing you haven't seen Part
+
+269
+00:24:14,538 --> 00:24:19,039
+1 either, and maybe you're just waiting until
+Part 3 comes out later this year to hear whether
+
+270
+00:24:19,079 --> 00:24:24,961
+the whole thing is worth investing your time.
+I can't really say Part 2 is worth your time
+
+271
+00:24:25,301 --> 00:24:30,524
+because it feels very much like a mere stepping
+stone to get to part three. It's just something
+
+272
+00:24:30,544 --> 00:24:35,708
+you kind of have to get through. And honestly,
+I really wish that wasn't the case. Yeah, my
+
+273
+00:24:35,748 --> 00:24:41,492
+first impression after seeing Crisis on Infinite
+Earths part two was that the story seemed to
+
+274
+00:24:41,552 --> 00:24:46,816
+kind of be treading water as we went into the
+third part. The first movie I thought was really
+
+275
+00:24:46,856 --> 00:24:51,540
+interesting from a narrative perspective with
+the Flash kind of skipping through time. The
+
+276
+00:24:51,700 --> 00:24:57,107
+second movie also did a lot of time skipping.
+So it seems to be kind of like a theme within
+
+277
+00:24:57,167 --> 00:25:03,351
+this trilogy of films to not tell the story
+linearly. It just kind of makes everything
+
+278
+00:25:03,511 --> 00:25:08,753
+a little bit disjointed and hard to follow and
+not as enjoyable as it necessarily could be.
+
+279
+00:25:09,214 --> 00:25:15,217
+Well, yeah, the time skipping in this film happened
+only in the first half of it. After that, everything
+
+280
+00:25:15,337 --> 00:25:20,220
+was pretty much happening in real time or not
+real time, but in the present, I should say.
+
+281
+00:25:20,760 --> 00:25:25,775
+I really wanted to like this movie because like
+you, I really liked part one, again despite
+
+282
+00:25:25,815 --> 00:25:32,001
+its unconventional story structure. The second
+film in a lot of trilogies is arguably the
+
+283
+00:25:32,041 --> 00:25:38,746
+best. You know, the Dark Knight, Empire Strikes
+Back, The Two Towers is perfection. This film,
+
+284
+00:25:39,247 --> 00:25:44,691
+not so much. You forgot Spider-Man 2 and X-Men
+2. Hey, you know, that's also valid. But this
+
+285
+00:25:44,731 --> 00:25:50,416
+film is not better than the first one, though
+due to the hit or miss nature of the Tomorrowverse,
+
+286
+00:25:50,876 --> 00:25:56,427
+I shouldn't be surprised. It is very much the
+second act of a three-part story, though the
+
+287
+00:25:56,467 --> 00:26:02,750
+second act is supposed to be the most exciting
+act as it ramps up to the climax. Narratively,
+
+288
+00:26:03,070 --> 00:26:09,093
+you set up the conflict in Act 1, in Act 2 the
+conflict escalates until it reaches its maximum
+
+289
+00:26:09,133 --> 00:26:15,436
+potential, and Act 3 is a come down from that
+high where order is restored. Now obviously
+
+290
+00:26:15,456 --> 00:26:20,854
+in the trilogy, conflict and action will continue
+into the third film. but I feel like this film
+
+291
+00:26:20,874 --> 00:26:25,757
+didn't pack enough of a punch to get me excited
+for the third one. And I honestly have a hard
+
+292
+00:26:25,797 --> 00:26:32,261
+time reconciling why that is. I mean, the main
+characters in this film were legitimately interesting,
+
+293
+00:26:32,421 --> 00:26:38,344
+I felt. Supergirl, Monitor, Psycho Pirate were
+my favorite parts of the film. Like, I found
+
+294
+00:26:38,404 --> 00:26:43,567
+Supergirl way more interesting in this film
+than I did in Legion of Superheroes. And the
+
+295
+00:26:43,607 --> 00:26:49,299
+central theme of how emotions develop in us
+and affect us was fairly strong throughout
+
+296
+00:26:49,339 --> 00:26:54,963
+the movie. It was just everything with the other
+heroes and around the towers that I felt dragged
+
+297
+00:26:55,023 --> 00:27:00,667
+the film down. Like I hated what they did with
+Batman here. He didn't learn any kind of lesson
+
+298
+00:27:00,707 --> 00:27:06,532
+about teamwork or camaraderie or family, and
+he should have by the end. Like the cameos
+
+299
+00:27:06,552 --> 00:27:12,696
+they had, like Batman Beyond, Commandy, John
+Constantine, were all so small and didn't amount
+
+300
+00:27:12,716 --> 00:27:17,508
+to much, if anything at all. The film just didn't
+know how to juggle its characters in a way
+
+301
+00:27:17,548 --> 00:27:22,852
+that was as satisfying as the strong single
+narrative focus that they had with The Flash
+
+302
+00:27:22,892 --> 00:27:28,977
+in Part 1, or the character ensemble that was,
+say, Avengers Infinity War. Or Justice League
+
+303
+00:27:28,997 --> 00:27:33,801
+Dark Apocalypse War. That movie, I think, had
+a huge cast, just as large as this one, but
+
+304
+00:27:33,821 --> 00:27:39,285
+it just juggled everything better. Yeah, absolutely.
+Another problem with the film, I feel, were
+
+305
+00:27:39,366 --> 00:27:44,506
+the stakes. Like in the first film, you really
+felt the threat of the end of the world. a
+
+306
+00:27:44,606 --> 00:27:50,050
+lot more than he did here, I feel. Like, any
+time there was an antimatter wave that passed
+
+307
+00:27:50,150 --> 00:27:55,655
+over, the threat was pretty much non-existent
+for the most part. Yeah, I was never really
+
+308
+00:27:55,715 --> 00:27:59,538
+nervous for any of the worlds and, you know,
+I knew that there were just so many Earths
+
+309
+00:27:59,678 --> 00:28:03,921
+that the characters could regroup at. No one
+single Earth mattered compared to the whole
+
+310
+00:28:03,961 --> 00:28:08,305
+of the multiverse, you know? So, the movie's
+premise kind of works against itself in that
+
+311
+00:28:08,505 --> 00:28:13,843
+regard. But really, this movie seems to be more
+of a character study than anything else, really
+
+312
+00:28:13,883 --> 00:28:18,824
+focusing on, you know, Supergirl, Psycho Pirate,
+and the Monitor. Yeah, and I feel like that's
+
+313
+00:28:18,984 --> 00:28:25,846
+not a great approach for a massive epic event
+film. I mean, it's not like in the comic book
+
+314
+00:28:25,886 --> 00:28:30,067
+Crisis on Infinite Earths, we got backstories
+for like Psycho Pirate or anything like that.
+
+315
+00:28:30,567 --> 00:28:34,508
+I don't know if it was the right approach here.
+It's interesting, for sure, but it doesn't
+
+316
+00:28:34,528 --> 00:28:40,434
+really lend itself to epic storytelling, I guess.
+Yeah. If anything, the character studies take
+
+317
+00:28:40,494 --> 00:28:44,957
+away from the overarching narrative that you
+would expect in a big, multiversal crossover
+
+318
+00:28:44,997 --> 00:28:50,220
+event. Absolutely, absolutely. Now, I liked
+this film. I'm ragging on it, but it wasn't
+
+319
+00:28:50,280 --> 00:28:56,664
+terrible. It doesn't get me excited for part
+three, but it is, as I mentioned earlier, a
+
+320
+00:28:56,724 --> 00:29:02,287
+stepping stone to get there. So it's something.
+Outside of that, I don't have much to say about
+
+321
+00:29:02,327 --> 00:29:07,322
+the film that I haven't said about part one
+and other Tomorrowverse films. You know. The
+
+322
+00:29:07,342 --> 00:29:12,164
+first act premises are strong, but the story
+does always stick the landing. The voice acting
+
+323
+00:29:12,224 --> 00:29:17,827
+is great. The character designs are great. The
+animation can be a little bit sticky. Right.
+
+324
+00:29:17,907 --> 00:29:22,910
+But yeah, if you've listened to our reviews
+of DC animated films recently, you've heard
+
+325
+00:29:22,970 --> 00:29:27,573
+it all before. Let's go ahead and talk about
+the main characters in the movie in our character
+
+326
+00:29:27,613 --> 00:29:34,437
+breakdown, starting with Supergirl slash Kara
+Zor-El. Now, Meg Donnelly does a fantastic
+
+327
+00:29:34,497 --> 00:29:41,446
+job voicing Supergirl. I was really rooting
+for her to play Supergirl in James Gunn's DCU,
+
+328
+00:29:41,906 --> 00:29:47,931
+but she lost out to Milly Alcock and I'm not
+gonna lie, I was disappointed. Yeah, the actress
+
+329
+00:29:47,951 --> 00:29:52,094
+was great in the Legion of Superheroes movie,
+which is really more of a Supergirl movie,
+
+330
+00:29:52,495 --> 00:29:57,359
+and she was great here. I think she brings a
+lot of emotional weight to the character, just
+
+331
+00:29:57,399 --> 00:30:01,602
+like she did in the Legion of Superheroes animated
+movie, which was not a great film, but she
+
+332
+00:30:01,622 --> 00:30:07,450
+was definitely the best part of that, I think.
+Yeah, I agree. We learn that immediately after
+
+333
+00:30:07,510 --> 00:30:13,253
+Krypton's destruction, Supergirl was begrudgingly
+rescued by the Monitor, who had observed the
+
+334
+00:30:13,313 --> 00:30:19,755
+death of the planet. Supergirl, suffering from
+amnesia, was raised by the Monitor for timeless
+
+335
+00:30:19,796 --> 00:30:24,878
+decades before she realized that he knew about
+what happened to her homeworld, at which point
+
+336
+00:30:24,898 --> 00:30:30,740
+she left him due to his apathy. Despite him
+later imparting some of his power to her in
+
+337
+00:30:30,840 --> 00:30:35,699
+order for her to gather an army to protect the
+multiverse, Her distrust and anger toward the
+
+338
+00:30:35,739 --> 00:30:41,403
+monitor continued to grow, allowing Psycho Pyre
+to manipulate her to where she ultimately kills
+
+339
+00:30:41,423 --> 00:30:47,647
+the monitor. Her arc revolves around loss, you
+could say. The loss of her mom, loss of her
+
+340
+00:30:47,747 --> 00:30:54,191
+world, loss of time with her cousin, loss of
+the Legion, and ultimately a loss of control
+
+341
+00:30:54,291 --> 00:30:58,994
+over everything that's happening in her life
+and the universe. and all of that feeling of
+
+342
+00:30:59,054 --> 00:31:05,015
+loss results in her ultimately losing a father
+figure at her own hands. It's pretty tragic.
+
+343
+00:31:05,376 --> 00:31:08,817
+For sure, yeah. Everything that Supergirl has
+gone through has been quite heartbreaking.
+
+344
+00:31:09,037 --> 00:31:13,258
+I guess I am a little bit confused though what
+happened when the monitor imparted some of
+
+345
+00:31:13,298 --> 00:31:18,279
+his power onto her. I thought that was going
+to transform her into Harbinger. It did transform
+
+346
+00:31:18,339 --> 00:31:23,301
+her into Harbinger. She could just go in and
+out of her Harbinger mode when she's traversing
+
+347
+00:31:23,321 --> 00:31:27,666
+the multiverse. Actually, that's one of the
+more interesting changes they d- made to the
+
+348
+00:31:27,706 --> 00:31:33,251
+crisis story because in the comic harbinger
+is Lila Michaels a separate character from
+
+349
+00:31:33,311 --> 00:31:39,415
+Supergirl and Lila does end up being manipulated
+by the anti-monitor into killing the monitor
+
+350
+00:31:39,856 --> 00:31:45,640
+in the comics but here the way they sort of
+wrote around that and having Supergirl angry
+
+351
+00:31:45,720 --> 00:31:51,485
+at monitor and blaming him for things like the
+destruction of Krypton it was really well written
+
+352
+00:31:51,765 --> 00:31:56,816
+I thought. Yeah, the movie is able to kind of
+retcon and streamline the crisis on Infinite
+
+353
+00:31:56,876 --> 00:32:00,338
+Earth's movie in a really interesting way. For
+sure. That's probably the best thing about
+
+354
+00:32:00,378 --> 00:32:05,621
+it. Even though the execution isn't always successful,
+you have to admire the approach. With almost
+
+355
+00:32:05,781 --> 00:32:10,884
+every film in the Tomorrowverse, you could say
+that. Yeah, yeah. It's like everything sounds
+
+356
+00:32:10,924 --> 00:32:15,086
+good on paper, and then somewhere it just gets
+botched along the way, which is unfortunate,
+
+357
+00:32:15,367 --> 00:32:19,069
+because it's like the Tomorrowverse should be
+so much better than it is. It really should
+
+358
+00:32:19,109 --> 00:32:25,947
+be. It really should be. Moving on to Monitor
+aka MaruNoVu, he was voiced by Jonathan Adams,
+
+359
+00:32:25,987 --> 00:32:32,189
+who delivers a very understated performance,
+appropriately so. I thought he was perfect
+
+360
+00:32:32,309 --> 00:32:37,370
+in this role. And the guy apparently has a lot
+of experience playing god-like characters.
+
+361
+00:32:37,410 --> 00:32:44,152
+Like he's voiced Darkseid, Galactus, Dormammu,
+King the Conqueror. He's just a fantastic voice
+
+362
+00:32:44,212 --> 00:32:50,822
+actor. What a badass. Totally, right? What a
+resume. Now the Monitor's arc revolves around
+
+363
+00:32:50,982 --> 00:32:57,045
+Supergirl and the feelings he develops not just
+for her, but life in the multiverse as a whole,
+
+364
+00:32:57,185 --> 00:33:03,928
+because of her, enter inspirations and criticisms
+that spur him to reject his calling and take
+
+365
+00:33:04,088 --> 00:33:09,350
+action to protect everything. He assumes the
+antimatter waves bombarding the multiverse
+
+366
+00:33:09,430 --> 00:33:15,333
+are a natural phenomena, but by the end he learns
+that not only are they coming from a specific
+
+367
+00:33:15,393 --> 00:33:21,985
+individuel, the Anti-Monitor, but that everything
+that has transpired is perhaps his fault. I
+
+368
+00:33:22,025 --> 00:33:27,349
+imagine the next film will get a flashback as
+to why the anti-monitor hates the monitor,
+
+369
+00:33:27,790 --> 00:33:33,154
+and I'm really curious to see how much influence
+recent comics like The Dark Side War or Dark
+
+370
+00:33:33,174 --> 00:33:40,380
+Knight's Metal will have on the story. Why does
+DC feel the need to rip off Marvel and characters
+
+371
+00:33:40,420 --> 00:33:45,844
+like The Watcher with like this enigmatic race
+of beings who are sworn only to observe and
+
+372
+00:33:45,924 --> 00:33:50,408
+not interfere with the cosmic level events.
+The fuck's that about? That's straight from
+
+373
+00:33:50,448 --> 00:33:55,832
+the Crisis comic. And? All right, let's find
+out who came first. Obviously, the Watcher
+
+374
+00:33:55,852 --> 00:34:01,556
+came first. He came out in the 60s. Crisis was
+an 80s book. Be more original is what I guess.
+
+375
+00:34:01,576 --> 00:34:07,800
+Yeah, I guess he came out in 1982. Damn it.
+But I mean, he just looks cooler, you know?
+
+376
+00:34:08,241 --> 00:34:15,522
+Like, what's with the giant bald head of the
+Watcher? Weird. Looks like a big baby. What
+
+377
+00:34:15,542 --> 00:34:20,706
+do you think it is that Monitor ended up developing
+empathy? I think it was because he was never
+
+378
+00:34:20,806 --> 00:34:26,430
+as close to anyone as he was to Supergirl. He
+always tried to keep his distance. But because
+
+379
+00:34:26,470 --> 00:34:32,836
+of satellite's actions, his sentient spaceship
+as it were, he was forced into a position where
+
+380
+00:34:32,896 --> 00:34:39,281
+he either cared for this young woman that was
+rescued or he just callously eject her back
+
+381
+00:34:39,321 --> 00:34:44,885
+out into space. I don't think he liked the idea
+of her death because he was more aware of her
+
+382
+00:34:44,945 --> 00:34:50,348
+individuel existence compared to the nameless
+victims of Krypton. And I think he just developed
+
+383
+00:34:50,448 --> 00:34:55,352
+what is it called, propinquity. You know, where
+you develop feelings for the people you are
+
+384
+00:34:55,392 --> 00:35:01,576
+closest in proximity to. I think it's as simple
+as that. Moving on to Psycho Pirate, aka Charles
+
+385
+00:35:01,616 --> 00:35:08,841
+Halsted. He was voiced by Jeffrey Arren. And
+I know this guy. He was in 500 Days of Summer.
+
+386
+00:35:09,174 --> 00:35:14,715
+He was in the Ringer, in Garden State, in a
+bunch of TV shows. I did not know he did voice
+
+387
+00:35:14,795 --> 00:35:19,917
+acting and he did a fantastic job with Psycho
+Pirate, though, you know, based on his history,
+
+388
+00:35:19,937 --> 00:35:25,538
+he probably should have had an English accent.
+But that aside, yeah, Jeffrey Arendt, great
+
+389
+00:35:25,578 --> 00:35:31,000
+voice. His voice, I have to say, is pretty damn
+haunting. Like, I think out of all the main
+
+390
+00:35:31,020 --> 00:35:36,541
+characters in this movie, he was the most interesting
+every time he was talking about his backstory
+
+391
+00:35:36,561 --> 00:35:41,411
+or just speaking in general. I was pretty much
+hooked. Oh yeah, it was really interesting.
+
+392
+00:35:41,792 --> 00:35:46,774
+What I found most interesting early on was that
+they didn't go with the Roger Hayden version
+
+393
+00:35:46,874 --> 00:35:51,317
+of the character, like the one I talked about
+in our last episode. They went with Charles
+
+394
+00:35:51,377 --> 00:35:57,380
+Halstead, who they not only made a metahuman
+empath, you know, removing any reference to
+
+395
+00:35:57,400 --> 00:36:04,544
+the Medusa mask, but they also made him a multiversal
+entity who's gone by names such as Dr. Spectro
+
+396
+00:36:04,844 --> 00:36:10,315
+or Rainbow Raider in different universes. Which
+was hilarious because we saw Dr. Spectro in
+
+397
+00:36:10,335 --> 00:36:15,078
+the Blue Beetle animated short that ties into
+this film and he's playing with people's emotions.
+
+398
+00:36:15,398 --> 00:36:20,160
+Yeah, that was interesting. It also serves to
+solve one of the questions that you and I had
+
+399
+00:36:20,501 --> 00:36:24,943
+regarding the Justice Society World War II movie.
+Because I remember we were bitching in that
+
+400
+00:36:24,983 --> 00:36:30,446
+movie about why Psycho Pirate didn't have his
+Medusa mask and how like the Medusa mask would
+
+401
+00:36:30,466 --> 00:36:34,788
+have made a great artifact MacGuffin for that
+film and everything like that. But yeah, this
+
+402
+00:36:34,888 --> 00:36:39,586
+version of the character never used the Medusa
+mask. all his empathic abilities were due to
+
+403
+00:36:39,646 --> 00:36:44,908
+his metahuman nature. Dude, so I was listening
+to our review of Justice Society World War
+
+404
+00:36:44,928 --> 00:36:52,770
+Two in lead up to writing this review, and we
+were so wrong about so many things. Like, not
+
+405
+00:36:52,830 --> 00:36:57,031
+only were we bitching about a psycho pirate,
+we were bitching about Wonder Woman and how
+
+406
+00:36:57,051 --> 00:37:02,633
+she'll probably never be seen in another movie
+again. It was just so many things. Well, like,
+
+407
+00:37:02,773 --> 00:37:07,595
+how are we supposed to know? We weren't we weren't.
+But because Justice Society World War Two took
+
+408
+00:37:07,615 --> 00:37:13,580
+place in another timeline and we weren't sure
+how that would fold into like the main tomorrow
+
+409
+00:37:13,620 --> 00:37:18,324
+versus timeline. But as it turns out, there
+really isn't a main tomorrow versus timeline.
+
+410
+00:37:18,344 --> 00:37:22,948
+You could say it's Earth one. But no, you're
+right. We had no way of knowing that this was
+
+411
+00:37:22,968 --> 00:37:29,093
+going to happen. It does make my review like
+pretty obsolete, though, I would say. There
+
+412
+00:37:29,113 --> 00:37:33,897
+are so many things I got wrong in it. It's embarrassing.
+This movie doesn't make me like that movie
+
+413
+00:37:33,937 --> 00:37:39,159
+anymore. I don't want to say it redeems the
+movie, but it does address some of the criticisms
+
+414
+00:37:39,259 --> 00:37:44,742
+we had about the film. Now the original backstory
+they created for Charles Halstead in this film
+
+415
+00:37:44,942 --> 00:37:50,804
+was wild. His actions in the movie stem from
+the fact that he simply hates people because
+
+416
+00:37:50,824 --> 00:37:56,007
+he's constantly feeling their emotions and feels
+that the world would be better if everyone
+
+417
+00:37:56,047 --> 00:38:01,549
+just felt what he was feeling all the time.
+He's an interesting character at times being
+
+418
+00:38:01,629 --> 00:38:08,375
+somewhat sympathetic. Well, also at times shockingly
+evil. And I'd say it's probably an upgrade
+
+419
+00:38:08,395 --> 00:38:13,277
+to what we got in the Crisis on Infinite Earth's
+comic. Yeah. Well, I mean, this origin story
+
+420
+00:38:13,317 --> 00:38:17,338
+just seemed better than the comics version of
+his origin that we learned last week, where
+
+421
+00:38:17,518 --> 00:38:22,219
+basically the guy just hated his boss and so
+became like an expert on emotions or some stupid
+
+422
+00:38:22,239 --> 00:38:29,802
+shit. It's so dumb. Yeah. That scene where the
+dude killed all his classmates and. the German
+
+423
+00:38:29,862 --> 00:38:34,763
+officers came into the school and they saw all
+these students hanging from the ceiling. That
+
+424
+00:38:34,803 --> 00:38:39,304
+shit was nightmare fuel. Like, I remember watching
+that and thinking, like, when the fuck did
+
+425
+00:38:39,324 --> 00:38:43,886
+this become a horror film? Oh, my God. Oh, yeah,
+it was straight out of the horror genre. That
+
+426
+00:38:43,906 --> 00:38:49,727
+was wild. I do kind of miss the Medusa mask,
+though. Like, I generally like a lot of the
+
+427
+00:38:49,747 --> 00:38:53,889
+character designs, really like the character
+designs of the Tomorrowverse characters, but
+
+428
+00:38:54,029 --> 00:38:58,842
+not Psycho Pirate. I don't like being able to
+see his. face as much as I do. I'm used to
+
+429
+00:38:58,942 --> 00:39:03,424
+not seeing his face in the comics. Well, the
+Medusa mask is just such a cool concept, you
+
+430
+00:39:03,444 --> 00:39:09,187
+know, where it like portrays an emotion that
+is projected onto its victims. Yeah, it's just
+
+431
+00:39:09,227 --> 00:39:14,969
+a great visual that you think would do really
+well in a medium like movies, you know, for
+
+432
+00:39:15,009 --> 00:39:20,091
+sure, for sure. I can't wait to see that adapted
+into live action. That'll be so cool. Just
+
+433
+00:39:20,111 --> 00:39:26,210
+like this liquid gold mask. Hell, yeah. If they
+choose to do that, they should. Psycho pirate
+
+434
+00:39:26,290 --> 00:39:30,835
+is a really great villain that just needs to
+be adapted. Heck, based off of this origin,
+
+435
+00:39:31,335 --> 00:39:35,319
+I could see like a psycho pirate live action
+movie, a la The Joker, where it's just like
+
+436
+00:39:35,580 --> 00:39:41,526
+focused around him. I guess. I don't know. It
+could be a horror film. Why not? Hmm. I'd watch
+
+437
+00:39:41,586 --> 00:39:43,908
+it. I wouldn't because I don't like horror movies.
+
+438
+00:39:50,958 --> 00:39:56,604
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+439
+00:39:56,624 --> 00:40:02,350
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+440
+00:40:02,410 --> 00:40:08,096
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+441
+00:40:08,116 --> 00:40:14,791
+DynaMic Podcast Network Comic Book Titans smash
+every Tuesday. Max Destruction, where TV and
+
+442
+00:40:14,891 --> 00:40:21,193
+action heroes battle every Wednesday. And Sendro
+World, where anime champions clash every Thursday.
+
+443
+00:40:21,713 --> 00:40:26,715
+Join us as we speculate on the matches and armed
+with the power of mathematical simulations,
+
+444
+00:40:26,955 --> 00:40:33,857
+discover who will emerge victorious. Visit dynamicpodcast.com,
+where we settle the debate and settle the score.
+
+445
+00:40:38,210 --> 00:40:42,531
+But I think that does it for the character breakdown,
+now let's move on to the story highlights.
+
+446
+00:40:43,011 --> 00:40:47,712
+The film begins with Joker and several other
+Batman rogues attacking the tower that allows
+
+447
+00:40:47,752 --> 00:40:52,914
+the planet to become intangible and avoid the
+waves of antimatter that are destroying entire
+
+448
+00:40:53,034 --> 00:40:58,395
+universes. With help from Bat family members
+from across the multiverse, Earth-1 Batman
+
+449
+00:40:58,495 --> 00:41:05,757
+stops the Joker, though Batman disapproves of
+the other's help. Now, this was a pointless
+
+450
+00:41:05,977 --> 00:41:11,495
+opening to the film. Like, I understand that
+Batman is a draw commercially, but when you
+
+451
+00:41:11,535 --> 00:41:16,737
+have him just being a dick to everyone else,
+it's not fun to watch. Right. Yeah, you want
+
+452
+00:41:16,757 --> 00:41:23,059
+to see the Bat family kicking gas, you know,
+united and working together. It's kind of a
+
+453
+00:41:23,119 --> 00:41:29,341
+downer when you see Batman just being an asshole.
+Really, the whole Batman storyline was inessential
+
+454
+00:41:29,461 --> 00:41:33,895
+to the entire narrative. And I don't know why
+they kept revisiting it because he seemed no
+
+455
+00:41:33,935 --> 00:41:38,197
+more important than any other single other universe
+that was protecting their own tower. Right,
+
+456
+00:41:38,277 --> 00:41:44,101
+right, exactly. And in that regard, you know,
+cameos like Batman Beyond, which were really
+
+457
+00:41:44,181 --> 00:41:48,103
+used to help sell this movie in the trailers
+and stuff like that, we got really excited.
+
+458
+00:41:48,563 --> 00:41:53,546
+That all felt kind of hollow and empty when
+it just seemed kind of gratuitous. Oh yeah,
+
+459
+00:41:53,926 --> 00:41:58,829
+man, I was really excited, honestly, for Batman
+Beyond, especially because Will Friedle was
+
+460
+00:41:58,869 --> 00:42:05,129
+returning to voice the role. he only got like
+literally two lines. He also voiced Commandy
+
+461
+00:42:05,609 --> 00:42:10,733
+and he had way more lines as that character
+than he did as Batman Beyond, which was unfortunate.
+
+462
+00:42:11,213 --> 00:42:17,098
+I guess you could rationalize Batman's behavior
+in this film though as a sort of coping method
+
+463
+00:42:17,178 --> 00:42:22,742
+with witnessing the death of James Gordon. He
+didn't want to lose anyone else close to him.
+
+464
+00:42:23,262 --> 00:42:27,926
+Although maybe that's not true because he wasn't
+close to that version of James Gordon. and
+
+465
+00:42:27,966 --> 00:42:33,710
+he definitely wasn't close to all of his adoptive
+children from other multiverses. He freaking
+
+466
+00:42:33,770 --> 00:42:39,655
+admitted to taking Dick Grayson back to the
+orphanage in his universe. That's messed up.
+
+467
+00:42:40,056 --> 00:42:45,060
+Yeah, it kind of makes it feel like not my Batman,
+right? Because like, right, my Batman would
+
+468
+00:42:45,200 --> 00:42:51,465
+take on a ward in Dick Grayson. Who the fuck
+is this guy? For sure, for sure. Now in a flashback
+
+469
+00:42:51,485 --> 00:42:57,578
+to World War Two on Earth Two, Psycho Pirate
+converses with an imprisoned Dr. Fate. recounting
+
+470
+00:42:57,598 --> 00:43:03,322
+his childhood as an empathic metahuman who absorbed,
+amplified, and reflected the emotions of those
+
+471
+00:43:03,382 --> 00:43:08,125
+around him. Another flashback follows that goes
+all the way back to the destruction of Krypton,
+
+472
+00:43:08,486 --> 00:43:14,810
+observed from a distance by the monitor in his
+satellite ship, which notices and rescues Supergirl
+
+473
+00:43:14,870 --> 00:43:20,574
+amidst Krypton's ruin. Why do you think Dr.
+Fate gave Psycho Pirate the ability to traverse
+
+474
+00:43:20,674 --> 00:43:25,157
+among the multiverse? We don't know that yet.
+I'm hoping we'll learn that in the third film.
+
+475
+00:43:25,462 --> 00:43:29,986
+But I'm guessing it has something to do with
+either a change of heart that comes from the
+
+476
+00:43:30,006 --> 00:43:35,570
+Psycho Pirate or some kind of... I don't know.
+He's needed for some reason. Like, it's his
+
+477
+00:43:35,691 --> 00:43:40,495
+fate to be able to traverse the multiverse.
+So, of course, Dr. Fate got involved and gave
+
+478
+00:43:40,535 --> 00:43:45,579
+him that ability. You think Psycho Pirate will
+be redeemed in the third film? He certainly
+
+479
+00:43:45,659 --> 00:43:51,164
+was not in the comic. So, I don't know. I could
+see them going either way. Did this scene with
+
+480
+00:43:51,204 --> 00:43:55,915
+Dr. Fate redeem... the character at all for
+you from the Justice Society World War II movie.
+
+481
+00:43:56,976 --> 00:44:02,979
+A bit. He was much cooler in this film, partly
+because we actually got to see him as Dr. Fate
+
+482
+00:44:02,999 --> 00:44:07,542
+in all of his glory. Now going back to Psycho
+Pirates' past, his parents shipped him off
+
+483
+00:44:07,562 --> 00:44:12,304
+to a boarding school in Bavaria, where he suffered
+under the amplified aggression of the school
+
+484
+00:44:12,344 --> 00:44:18,868
+boys. Over time he managed to control his power
+and used it to kill, humiliate, and control
+
+485
+00:44:18,968 --> 00:44:24,260
+everyone in his school. Meanwhile, Monitor,
+initially annoyed by Supergirl's presence,
+
+486
+00:44:24,580 --> 00:44:29,324
+helped her recuperate and began teaching her
+about the multiverse and his ancient race who
+
+487
+00:44:29,384 --> 00:44:34,949
+observe events in the multiverse. As timeless
+decades pass, Supergirl eventually finds her
+
+488
+00:44:34,969 --> 00:44:40,613
+Kryptonian ship on the satellite and is devastated
+when she remembers Krypton's destruction. When
+
+489
+00:44:40,653 --> 00:44:46,378
+Supergirl confronts Monitor, he reveals that
+her younger cousin is still alive as Superman
+
+490
+00:44:46,778 --> 00:44:52,334
+and Supergirl leaves Monitor, angry, to go to
+her cousin. Now I like the rationale they had
+
+491
+00:44:52,394 --> 00:44:57,456
+for why Superman is older than Supergirl in
+this universe. It's because she was aboard
+
+492
+00:44:57,536 --> 00:45:02,458
+the monitor ship where time does not pass. I
+thought that was a great reasoning. Yeah, considering
+
+493
+00:45:02,498 --> 00:45:08,061
+that she was older when Krypton exploded and
+K'Hellel was just a baby. Exactly. The character
+
+494
+00:45:08,101 --> 00:45:12,543
+of Satellite was pretty interesting. He was
+like a more humanized version of Hell 9000
+
+495
+00:45:12,963 --> 00:45:18,885
+from 2001 of Space Odyssey. Yeah, yeah, he looked
+pretty menacing with that like single eyeball.
+
+496
+00:45:19,222 --> 00:45:24,004
+But it turns out he was just a big old softy
+who cared for Kara. He was like, whoops, I
+
+497
+00:45:24,064 --> 00:45:29,266
+accidentally saved her life. He had more empathy
+than the monitor did. And it was almost like
+
+498
+00:45:29,286 --> 00:45:34,068
+he was trying to teach the character of the
+monitor how to care about things. Yeah, I thought
+
+499
+00:45:34,088 --> 00:45:38,050
+the same thing. You almost have to wonder if
+he was being manipulated by the presence at
+
+500
+00:45:38,090 --> 00:45:43,072
+all, because the specter at the end explicitly
+said that the presence wanted the monitor to
+
+501
+00:45:43,152 --> 00:45:48,624
+feel empathy. Interesting, interesting. Now
+the Psycho Pirate recounts his time as a Nazi
+
+502
+00:45:48,664 --> 00:45:54,269
+pirate captain whose ship sank and while adrift
+at sea, discovered Atlantis, using his power
+
+503
+00:45:54,309 --> 00:45:59,493
+to manipulate Aquaman and his kingdom into being
+Nazi allies, as we saw in the film Justice
+
+504
+00:45:59,513 --> 00:46:04,838
+Society World War II. As Psycho Pirate concludes
+his story, he learns that his powers have no
+
+505
+00:46:04,898 --> 00:46:10,623
+effect on Dr. Fate before Dr. Fate teaches Psycho
+Pirate a magic spell that would allow him to
+
+506
+00:46:10,663 --> 00:46:16,664
+travel to other universes. Meanwhile, As Monitor
+observes the first waves of universe destroying
+
+507
+00:46:16,744 --> 00:46:22,047
+antimatter, he also observes Supergirl's heroic
+actions at the conclusion of the Legion of
+
+508
+00:46:22,128 --> 00:46:27,972
+Superheroes film and is inspired to take action,
+summoning her to a satellite once again where
+
+509
+00:46:28,012 --> 00:46:32,915
+he imbues her with a portion of his power to
+allow her to also traverse the multiverse as
+
+510
+00:46:32,955 --> 00:46:39,520
+his harbinger and collect heroes in order to
+save it. Does Dr. Fate usually recite his spells
+
+511
+00:46:39,580 --> 00:46:44,199
+in Latin? Seems like more of a Constantine thing,
+right? Yeah, I don't usually see Dr. Fate,
+
+512
+00:46:44,359 --> 00:46:48,201
+you know, reciting incantations in the same
+way that John Constantine does. That's more
+
+513
+00:46:48,241 --> 00:46:54,385
+of an occult thing, whereas Dr. Fate is more
+like artifact based, I would say. And Dr. Strange
+
+514
+00:46:54,405 --> 00:46:59,448
+just says a bunch of nonsense, like the hoary
+hosts of Hoggeth, like stuff Stan Lee invented.
+
+515
+00:46:59,708 --> 00:47:01,829
+Yeah, those hosts of Hoggeth are hoary.
+
+516
+00:47:05,706 --> 00:47:10,688
+As the Justice Society emerges victorious back
+in World War II, Psycho Pirate escapes to a
+
+517
+00:47:10,748 --> 00:47:16,591
+new universe where he's encountered by Harbinger
+and asked to aid in the protection of the multiverse.
+
+518
+00:47:17,031 --> 00:47:22,453
+In the present, Superman witnesses a new wave
+of antimatter approaching and heroes from across
+
+519
+00:47:22,493 --> 00:47:27,996
+the multiverse activate their towers to protect
+their universes, including the post-apocalyptic
+
+520
+00:47:28,036 --> 00:47:33,450
+world of the Atomic Knights, saved by Superman
+and Supergirl. the latter of whom is still
+
+521
+00:47:33,491 --> 00:47:38,674
+concerned with the monitor's initial apathy
+toward Krypton's destruction and the erasure
+
+522
+00:47:38,834 --> 00:47:43,358
+of the future timeline that included her friends
+in the Legion of Superheroes, which we saw
+
+523
+00:47:43,378 --> 00:47:48,402
+at the end of Crisis Part 1. Yeah, I think we
+hypothesized at the end of Crisis Part 1 that
+
+524
+00:47:48,562 --> 00:47:54,666
+anyone who was from a future timeline got erased,
+but it turns out that just their specific universes
+
+525
+00:47:54,686 --> 00:47:59,798
+got erased. Right, exactly, because we still
+see characters like Baman beyond. Right. While
+
+526
+00:47:59,838 --> 00:48:05,401
+Commandi is returned to his own post-apocalyptic
+Earth alongside the intelligent ape Solovar
+
+527
+00:48:05,681 --> 00:48:11,305
+to protect its tower, Psycho Pirate manipulates
+Monitor into giving him a portion of his power
+
+528
+00:48:11,665 --> 00:48:17,149
+in order to more effectively maintain the heroes'
+emotions as they continually work to protect
+
+529
+00:48:17,189 --> 00:48:22,452
+their worlds. As the heroes monitoring things
+from the satellite speculate someone may be
+
+530
+00:48:22,492 --> 00:48:28,026
+behind the waves of antimatter, They also deduced
+that they could potentially move all the worlds
+
+531
+00:48:28,067 --> 00:48:33,168
+to nether space with enough energy. When Blue
+Beetle confronts Psycho Pirate, the villain
+
+532
+00:48:33,228 --> 00:48:38,770
+is transported away by the Anti-Monitor. I have
+a question, why does DC have so many intelligent
+
+533
+00:48:38,950 --> 00:48:44,411
+ape characters? You know, there's Gorilla Grodd,
+there's the Ultra Humanite, and now we have
+
+534
+00:48:44,571 --> 00:48:50,373
+Solovar. Solovar is like Gorilla Grodd's rival
+from Gorilla City. That does not answer my
+
+535
+00:48:50,413 --> 00:48:57,862
+question. Because in DC Comics, you know, there
+is Gorilla City and it's entirely full of intelligent
+
+536
+00:48:57,962 --> 00:49:03,406
+apes that have evolved. Solovar being one of
+them. I knew as soon as he showed up that Command
+
+537
+00:49:03,426 --> 00:49:08,689
+D was not going to have it. Well, yeah, considering
+that Command D is based on Planet of the Apes
+
+538
+00:49:08,749 --> 00:49:13,993
+or was inspired by it, I should say, it was
+kind of funny to have Solovar there. But that's
+
+539
+00:49:14,013 --> 00:49:18,376
+straight from the Crisis comic as well. Wait,
+Command D played a role in the Crisis comic?
+
+540
+00:49:18,796 --> 00:49:23,508
+Oh, yeah. Yeah. Interesting. The Tomorrowverse
+was laying all these clues with the shorts
+
+541
+00:49:23,528 --> 00:49:27,711
+they decided to create and stuff like that as
+to the direction that the franchise was going
+
+542
+00:49:27,731 --> 00:49:33,696
+to go. We just never saw the crisis story coming.
+No. As the heroes of the multiverse prepare
+
+543
+00:49:33,716 --> 00:49:39,321
+for a new wave, this time it leaves behind hordes
+of shadow demons on each world that attack
+
+544
+00:49:39,361 --> 00:49:45,746
+the heroes and the towers. Meanwhile, the Anti-Monitor
+promises Psycho-Pirate an entire universe to
+
+545
+00:49:45,786 --> 00:49:51,266
+control in exchange for helping put a stop to
+the Monitor and his heroes. As Batman gets
+
+546
+00:49:51,406 --> 00:49:56,407
+overwhelmed by shadow demons, members from the
+Bat Family from other worlds come to his aid
+
+547
+00:49:56,507 --> 00:50:01,689
+once again, and together they determine Bright
+Light destroys the demons. And once again,
+
+548
+00:50:01,989 --> 00:50:08,110
+Batman's completely a dick to these guys. As
+Wonder Woman, Commandee, and others protect
+
+549
+00:50:08,130 --> 00:50:14,052
+their towers, Psycho Pirate begins broadcasting
+feelings of hate and distrust across the multiverse,
+
+550
+00:50:14,332 --> 00:50:19,333
+causing heroes such as the Bat Family, Green
+Lantern and Dr. Light, and the Amazons to turn
+
+551
+00:50:19,393 --> 00:50:24,419
+against each other. When Supergirl attacks a
+shadow demon, her physical contact with it
+
+552
+00:50:24,479 --> 00:50:30,101
+allows PsychoPirate to project an illusion in
+her mind of her being with her loved ones and
+
+553
+00:50:30,161 --> 00:50:35,402
+coming to the conclusion that the monitor caused
+the destruction of Krypton and everything bad
+
+554
+00:50:35,442 --> 00:50:40,944
+that has happened since. Now I'm not going to
+lie, this whole Supergirl illusion thing was
+
+555
+00:50:41,084 --> 00:50:46,279
+super confusing because she was talking to PsychoPirate
+in one moment. then she was helping her cousin
+
+556
+00:50:46,299 --> 00:50:50,962
+fight shadow demons in another, then all of
+a sudden she's back on Krypton with the Legion
+
+557
+00:50:51,002 --> 00:50:55,946
+and her mom, then Krypton is kind of destroyed
+behind her, and then she's with Psycho Pirate
+
+558
+00:50:56,006 --> 00:51:02,372
+again. It's weird. As heroes across the multiverse
+continue to fight, a homeless man is revealed
+
+559
+00:51:02,392 --> 00:51:07,476
+to be John Constantine, with help from the Green
+Lantern John Stewart. When Monitor confronts
+
+560
+00:51:07,556 --> 00:51:13,301
+Psycho Pirate about what he's doing, he escapes
+to another universe, just as another wave emerges
+
+561
+00:51:13,381 --> 00:51:18,495
+on the horizon. Many worlds are destroyed, including
+the world of the Amazons and Atomic Knights,
+
+562
+00:51:18,815 --> 00:51:23,936
+though some heroes manage to overcome their
+wrath to activate their towers in time. So
+
+563
+00:51:24,116 --> 00:51:30,518
+Wonder Woman is dead now, right? It's ambiguous.
+Her Tiara lived, and she mentioned earlier
+
+564
+00:51:30,538 --> 00:51:36,440
+that she was immortal, so I don't know if that
+means that allowed her to survive. I will give
+
+565
+00:51:36,480 --> 00:51:42,181
+you a spoiler. In the extras for this film,
+they show a preview for part 3 in which she
+
+566
+00:51:42,281 --> 00:51:50,304
+is still alive. that could take place timeline
+wise before she dies here? I have no idea.
+
+567
+00:51:50,364 --> 00:51:55,408
+But I think that Tiara is a clue that she's
+still alive. As the monitor observes everything
+
+568
+00:51:55,428 --> 00:52:00,233
+that's happening, he is approached by the spectre
+who implies that he will suffer for his millions
+
+569
+00:52:00,273 --> 00:52:06,259
+of years of apathy. When the shadow demons across
+the multiverse leave for Earth 1, there they
+
+570
+00:52:06,299 --> 00:52:12,272
+combine to form a colossal sized anti-monitor.
+The emergence of the Anti-Monitor reveals to
+
+571
+00:52:12,312 --> 00:52:16,655
+the Monitor and the Spectre that everything
+that has happened is the Monitor's fault and
+
+572
+00:52:16,715 --> 00:52:22,220
+as punishment, he allows Supergirl to kill him.
+When the heroes attacks on the Anti-Monitor
+
+573
+00:52:22,260 --> 00:52:28,525
+fail, Supergirl realizes what she has done and
+holds the Monitor's dead body. The film ends
+
+574
+00:52:28,605 --> 00:52:35,911
+with the Anti-Monitor charging up a massive
+energy attack, which is hella anti-climactic.
+
+575
+00:52:35,951 --> 00:52:40,410
+For real. My wife is like, that was the end?
+Really? I'm like, any other, you know, they're
+
+576
+00:52:40,430 --> 00:52:45,613
+setting up a part three, but you're right. It
+just kind of ended in a way that didn't feel
+
+577
+00:52:45,653 --> 00:52:51,476
+like an ending. No, no. I mean, they should
+have just ended it with Supergirl holding monitor.
+
+578
+00:52:51,596 --> 00:52:55,978
+Like they didn't need the whole charge up attack
+because if you're not going to finish that,
+
+579
+00:52:56,999 --> 00:53:01,742
+why then? Why do it? Especially considering
+we still don't have a release date for part
+
+580
+00:53:01,822 --> 00:53:06,444
+three. Like we know it's coming out this year,
+but who knows how many months he'll have to
+
+581
+00:53:06,484 --> 00:53:14,031
+charge that damn thing. It's gonna be one massive
+attack. Although the anti-monitor himself seems
+
+582
+00:53:14,131 --> 00:53:18,633
+less threatening than an anti-matter wave that's
+tearing through the universe. Right, especially
+
+583
+00:53:18,673 --> 00:53:23,735
+considering the fact that the heroes were actually
+able to physically, not necessarily harm him,
+
+584
+00:53:23,875 --> 00:53:28,858
+but affect him. You know, cause like his mouth
+is screaming, he's like, ah. Right. But you
+
+585
+00:53:28,878 --> 00:53:33,559
+know, they couldn't do that to an anti-matter
+wave. We'll see how it plays out. I have high
+
+586
+00:53:33,619 --> 00:53:39,562
+hopes for the next film, the third in the trilogy.
+I hope it ends with a bang. But I realize I
+
+587
+00:53:39,582 --> 00:53:45,446
+have to temper my expectations considering the
+past quality of the Tomorrowverse film universe.
+
+588
+00:53:45,946 --> 00:53:51,689
+Yeah, considering the inconsistent quality of
+this series of films, these crisis movies almost
+
+589
+00:53:51,749 --> 00:53:56,032
+require audience members to have seen every
+single movie in the Tomorrowverse to get a
+
+590
+00:53:56,072 --> 00:54:01,055
+lot of the context behind what's going on here.
+Like, even in this film, little things like
+
+591
+00:54:01,095 --> 00:54:06,014
+the scene of Supergirl trying to find Superman
+when she comes back to Earth. You know, we,
+
+592
+00:54:06,174 --> 00:54:11,136
+having seen Justice League Warworld, we know
+that that's where he is, up in space, but someone
+
+593
+00:54:11,176 --> 00:54:15,258
+coming new to this film wouldn't know that,
+and so it would just add to the confusion.
+
+594
+00:54:15,618 --> 00:54:20,520
+Things like Commandy, you know, if people hadn't
+seen that DC showcase short, they'd be like,
+
+595
+00:54:20,560 --> 00:54:25,342
+who the hell is this guy showing up randomly
+in this film? Lots of little things like that.
+
+596
+00:54:25,783 --> 00:54:30,705
+The investment required of the audience, I think,
+is too much. And this trilogy so far has done
+
+597
+00:54:30,765 --> 00:54:37,005
+absolutely zero handholding. Yeah, and it doesn't
+help that a lot of the references, even in
+
+598
+00:54:37,186 --> 00:54:43,391
+part one, are to some of my least favorite Tomorrowverse
+films. Like, there's a lot of references to
+
+599
+00:54:43,431 --> 00:54:49,837
+Justice Society World War Two. Hated that movie.
+Legion of Superheroes. That movie sucked. It's
+
+600
+00:54:49,877 --> 00:54:54,461
+like, where's the long Halloween references,
+you know? Where's the... I guess they did have
+
+601
+00:54:54,581 --> 00:55:00,706
+Green Lantern beware my power references, because
+I liked that movie. But yeah. I mean, at least
+
+602
+00:55:00,726 --> 00:55:06,309
+you could say the crisis films are better than
+most of the other tomorrow verse films. I don't
+
+603
+00:55:06,329 --> 00:55:10,771
+know how much that's saying, but it's saying
+something. They're like midway there. They're
+
+604
+00:55:10,791 --> 00:55:16,875
+kind of mid overall. I like the first one again.
+Yeah. Hopefully part three is going to be the
+
+605
+00:55:16,915 --> 00:55:22,758
+best in the whole tomorrow verse universe in
+the same way that Justice League Dark was really,
+
+606
+00:55:22,918 --> 00:55:28,201
+really damn good and among the best of the DC
+animated movie universe. But in regards to
+
+607
+00:55:28,241 --> 00:55:33,639
+this film, Despite intriguing backstories for
+several characters, the film fails to capture
+
+608
+00:55:33,679 --> 00:55:40,180
+the stakes or interest of part one as it slowly
+ramps up for the finale. We gave part one three
+
+609
+00:55:40,200 --> 00:55:45,722
+and a half stars. I'm giving this one a notch
+below that three stars, right on the borderline
+
+610
+00:55:45,782 --> 00:55:52,064
+of rotten and fresh. This time I'm leaning rotten
+for rotten tomatoes. Right because you know
+
+611
+00:55:52,144 --> 00:55:55,905
+the tomato meter is a measure of recommendation.
+A lot of people view the tomato meter as a
+
+612
+00:55:55,945 --> 00:56:00,442
+measure of quality. It's actually a measure
+of recommendation. And at the end of the day,
+
+613
+00:56:00,703 --> 00:56:05,605
+I think I would also not recommend this movie,
+whereas I would recommend the first one. But
+
+614
+00:56:05,625 --> 00:56:09,787
+that does it for this review. If you guys saw
+the movie, I'd love to hear what you thought
+
+615
+00:56:09,808 --> 00:56:16,971
+about it. You can reach out to us via email
+at dyna or by visiting us on Instagram, which
+
+616
+00:56:16,991 --> 00:56:21,174
+you can find a link to in our show notes or
+by going to our website at dynamicduel.com.
+
+617
+00:56:22,354 --> 00:56:25,396
+And on our site, you could also find a link
+to our Patreon page where you could join our
+
+618
+00:56:25,456 --> 00:56:29,754
+dynamic two out here and chat with us and fellow
+listeners. our Fantastic Four tier, which gets
+
+619
+00:56:29,774 --> 00:56:33,956
+you bonus content each month, our X-Force tier
+that makes you an executive producer of this
+
+620
+00:56:33,996 --> 00:56:39,258
+podcast, or our newest tier that lets you join
+our DynaMic Podcast Network. Please don't
+
+621
+00:56:39,298 --> 00:56:45,921
+forget to rate our show on Apple podcasts, Spotify,
+Podchaser, or on our website. In our next episode,
+
+622
+00:56:46,301 --> 00:56:52,244
+in lead up to our review of the Netflix series,
+Dead Boy Detectives, we are doing a Sandman
+
+623
+00:56:52,364 --> 00:56:57,606
+tie-in duel because Dead Boy Detectives takes
+place in the Sandman universe. we will be pitting
+
+624
+00:56:57,806 --> 00:57:04,150
+Sandman Wesley Dodds against Madame Webb. Right,
+the Julia Carpenter version of Madame Webb,
+
+625
+00:57:04,230 --> 00:57:08,772
+not the Cassandra Webb version, because she
+would be, I think, pretty useless in a fight.
+
+626
+00:57:09,192 --> 00:57:13,475
+She'd be able to tell how the fight went by
+predicting her own defeat, but she wouldn't
+
+627
+00:57:13,495 --> 00:57:17,577
+be able to do much more than that, you know?
+Yeah. But no, I think it'll be a good matchup.
+
+628
+00:57:17,657 --> 00:57:23,480
+You know, both Wesley Dodds and Julia Carpenter
+can subdue their opponents and have premonitions
+
+629
+00:57:23,500 --> 00:57:27,070
+and stuff like that. I think it'll be pretty
+good. But that does it for this episode, we
+
+630
+00:57:27,090 --> 00:57:31,872
+want to give a big thanks to our executive producers
+Ken Johnson, John Swarovski, Zachary Hepburn,
+
+631
+00:57:31,992 --> 00:57:37,414
+Dustin Balcom, Miggy Mathengian, Brandon Estregard,
+Nathaniel Wagner, Levi Yaiten, Austin Wazilovski,
+
+632
+00:57:37,654 --> 00:57:43,996
+AJ Dunkerley, Scott Camacho, Adam Spies, Andrew
+Schunk, Dean Molesky, and Devin Davis for helping
+
+633
+00:57:44,096 --> 00:57:49,378
+make this podcast possible. We'll talk to you
+guys next week. Up up and away, true believers.
+
+634
+00:57:50,119 --> 00:57:53,100
+There's a crisis happening right now. In my
+pants.
+
