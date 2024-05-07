@@ -1,0 +1,2496 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a DynaMic Network podcast.
+
+2
+00:00:24,374 --> 00:00:28,855
+Welcome to the dynamic duel podcast a weekly
+show where we review superhero films and debate
+
+3
+00:00:28,875 --> 00:00:34,677
+the superiority between Marvel and DC By comparing
+their characters and stat-based battle simulations.
+
+4
+00:00:35,297 --> 00:00:40,839
+I'm marvelous Joe and I'm his twin brother Johnny
+DC And in this episode we're going to find
+
+5
+00:00:40,919 --> 00:00:46,780
+out who would win in a fight between Sandman
+the Wesley Dodds version of the character against
+
+6
+00:00:47,040 --> 00:00:52,643
+Madame Webb the Julia carpenter version of the
+character Yeah, there's multiple iterations
+
+7
+00:00:52,803 --> 00:00:57,767
+of these characters with the same names, but
+these two specific characters are pretty badass.
+
+8
+00:00:57,787 --> 00:01:02,371
+They wear trench coats. They have premonitions.
+They knock other people unconscious. We thought
+
+9
+00:01:02,391 --> 00:01:06,734
+it was a pretty good match up. And this, of
+course, is in lead up to our next episode,
+
+10
+00:01:07,135 --> 00:01:12,539
+which is a review of the Dead Boy Detectives
+on Netflix, which takes place in the Sandman
+
+11
+00:01:12,639 --> 00:01:19,665
+universe. A different Sandman. Right. But Wesley
+Dodds is like Sandman adjacent. It's... Don't
+
+12
+00:01:19,685 --> 00:01:24,760
+worry about it. You'll learn all about it later
+on. Yeah, I mean, and also the Madame Web movie
+
+13
+00:01:24,780 --> 00:01:29,283
+came out a few months ago. So this is kind of
+timely. Yeah, I guess I forgot all about that
+
+14
+00:01:29,323 --> 00:01:33,725
+movie. Before we get into that duel where we
+input the character statistics and run 1000
+
+15
+00:01:34,046 --> 00:01:38,008
+simulations to find out who would win, we're
+going to break down the latest comic book movie
+
+16
+00:01:38,048 --> 00:01:43,851
+news that came out this past week, of which
+there were two items, both DC animation related.
+
+17
+00:01:44,131 --> 00:01:49,206
+We got the official trailer for My Adventures
+with Superman season two. and a teaser for
+
+18
+00:01:49,286 --> 00:01:53,930
+Justice League Crisis on Infinite Earths Part
+3. As always, we list our segment times in
+
+19
+00:01:53,970 --> 00:01:57,632
+our episode description, so feel free to check
+out the show notes if you want to skip ahead
+
+20
+00:01:57,652 --> 00:02:04,096
+to a particular topic. Our artificially intelligent
+duel simulator, AJ9K, has a quick message for
+
+21
+00:02:04,136 --> 00:02:10,847
+our listeners, so listen up. Why hello there.
+Do you love listening and chatting about Marvel
+
+22
+00:02:10,867 --> 00:02:15,909
+and DC? Then become a part of the dynamic duel
+community on Patreon, where you can choose
+
+23
+00:02:15,949 --> 00:02:21,611
+from three tiers. The dynamic 2-0 tier lets
+you listen to this podcast without ads and
+
+24
+00:02:21,631 --> 00:02:26,033
+gives you access to its Discord chat group,
+where you can chat with Johnny DC and Marvelous
+
+25
+00:02:26,073 --> 00:02:30,875
+Joe. The fantastic four tier gives you that
+and more with two bonus episodes each month,
+
+26
+00:02:31,295 --> 00:02:35,437
+including bloopers and top 10 shows where Johnny
+and Joe count down your favorite Marvel and
+
+27
+00:02:35,477 --> 00:02:41,190
+DC subjects. The X-Force tier makes you an executive
+producer of Dynamic duel. where every month
+
+28
+00:02:41,230 --> 00:02:45,712
+you help the host choose what to review and
+who to fight against each other. And finally,
+
+29
+00:02:45,892 --> 00:02:51,495
+the Dynamite Podcast Network tier allows aspiring
+podcasters to create their own battle-focused
+
+30
+00:02:51,515 --> 00:02:56,597
+show using this Monte Carlo simulator. Johnny
+and Joe will help you develop your show, provide
+
+31
+00:02:56,657 --> 00:03:01,039
+graphic support and consultation, and get you
+simulation results to announce on your show.
+
+32
+00:03:01,559 --> 00:03:07,822
+Pitch the twins your show via email at dyna
+or by reaching out to them on social media.
+
+33
+00:03:08,242 --> 00:03:11,705
+Check it out at patreon.com slash dyna your
+pip cheerio.
+
+34
+00:03:32,782 --> 00:03:37,406
+And on the Senjou World podcast, host Zachary
+Hepburn speculates on fights between fan favorite
+
+35
+00:03:37,486 --> 00:03:42,190
+anime and manga characters. This Thursday, we'll
+find out who would win between Gabimaro the
+
+36
+00:03:42,230 --> 00:03:48,195
+Hollow from Hell's Paradise and Rekka Hanabishi
+from Flame of Rekka. On the Console Combat
+
+37
+00:03:48,215 --> 00:03:53,820
+podcast, hosts John and Dean find out who would
+win in fights between popular video game characters.
+
+38
+00:03:54,220 --> 00:03:58,744
+In yesterday's episode, they found out who would
+win between Knuckles from the Sonic the Hedgehog
+
+39
+00:03:58,764 --> 00:04:05,136
+games and Donkey Kong. Visit dynamicpodcasts.com
+or click the link in our show notes to listen
+
+40
+00:04:05,156 --> 00:04:10,820
+to all the shows in the DynaMic Podcast Network.
+But with that out of the way, quick to the
+
+41
+00:04:10,860 --> 00:04:17,665
+no prize! A no prize is an award Marvel used
+to give out to fans. Our version, the Dynamic
+
+42
+00:04:17,705 --> 00:04:22,429
+duel No Prize, is a digital award we post on
+Instagram for the person that we feel gave
+
+43
+00:04:22,729 --> 00:04:27,912
+the best answer to our question of the week.
+Last week as a tie-in to the Deadpool and Wolverine
+
+44
+00:04:27,972 --> 00:04:34,468
+trailer, we asked... other than Wolverine, what
+Fox X-Men character do you most hope appears
+
+45
+00:04:34,848 --> 00:04:39,591
+in Deadpool and Wolverine and why? And we got
+three answers so let's go ahead and run down
+
+46
+00:04:39,631 --> 00:04:43,933
+our two honorable mentions as well as the no
+prize winner. Our first honorable mention goes
+
+47
+00:04:43,993 --> 00:04:49,597
+to Judson Batty who said, Hi guys Judson Batty
+here. In the last episode you called me a Brit.
+
+48
+00:04:49,817 --> 00:04:54,379
+I'm actually Australian but whatever. I would
+say that the Fox X-Men character I want to
+
+49
+00:04:54,399 --> 00:04:59,354
+come over the most is Caliban from Logan because
+I feel like he could really fit. the theme
+
+50
+00:04:59,374 --> 00:05:06,779
+of the movie. He could help them find a character
+or a place that they need to do because that
+
+51
+00:05:06,819 --> 00:05:13,684
+is pretty much what he does. And I feel like
+it would really be a way to tie film back into
+
+52
+00:05:13,744 --> 00:05:18,887
+Logan. We do have two important corrections
+to make from Judson Batty's answer in the last
+
+53
+00:05:18,907 --> 00:05:23,535
+episode. The first correction is that, I don't
+know what I was spoken. Sean Connery is not
+
+54
+00:05:23,575 --> 00:05:28,000
+alive anymore. I said he was still alive, but
+he actually died in 2020, and apparently I'm
+
+55
+00:05:28,040 --> 00:05:34,387
+still in denial. So, sorry about that. Also,
+apparently Judson Betty is not from Great Britain,
+
+56
+00:05:34,467 --> 00:05:41,494
+but is in fact Australian. Oh, Guten Tag! Let's
+go skiing in the Australian Alps! Listen to
+
+57
+00:05:41,534 --> 00:05:49,239
+Mozart's music in Vienna, the capital city of
+Australia. But no, Caliban was in the Logan
+
+58
+00:05:49,259 --> 00:05:54,682
+movie played by Stephen Merchant and he was
+fantastic in that role. He did unfortunately
+
+59
+00:05:54,722 --> 00:05:59,684
+die, but that doesn't mean we couldn't see a
+variant of him show up in Deadpool and Wolverine.
+
+60
+00:06:00,284 --> 00:06:05,607
+And like Judson said, probably direct them to
+a specific goal or location since his whole
+
+61
+00:06:05,647 --> 00:06:11,658
+mutant power is the ability to track and detect
+the location of other mutants. Yeah, I totally
+
+62
+00:06:11,678 --> 00:06:15,640
+forgot about this character in Logan. I would
+love to see him return to the role. Oh, yeah,
+
+63
+00:06:15,660 --> 00:06:20,463
+for sure. He played the character way better
+than the guy who played him in X-Men Apocalypse.
+
+64
+00:06:20,963 --> 00:06:25,585
+That was just weird. Already blocked it. Great
+answer, Judson. Let's go ahead and move on
+
+65
+00:06:25,605 --> 00:06:33,270
+to our next honorable mention, which goes to
+Corey Wooten. Who said? Hey, guys, Corey Wooten.
+
+66
+00:06:33,290 --> 00:06:42,076
+I'd like to see Alan Rickson as Sabretooth with
+an aesthetic more like with the correct aesthetic
+
+67
+00:06:42,136 --> 00:06:50,157
+more like the original X-Men, but also with
+the ability to think, speak, and deliver lines.
+
+68
+00:06:53,066 --> 00:06:57,729
+Yeah, Sabertooth would be fantastic to see go
+up against Wolverine and Deadpool. Alan Richson
+
+69
+00:06:57,769 --> 00:07:01,751
+never played the character, but he would make
+a fantastic Sabertooth. He was played in the
+
+70
+00:07:01,791 --> 00:07:07,115
+original movies by Tyler Maine and then, of
+course, by Leif Schreiber in the X-Men Origins
+
+71
+00:07:07,155 --> 00:07:11,738
+Wolverine movie. Yeah, my vote is for Tyler
+Maine to return. I would love to see that.
+
+72
+00:07:12,118 --> 00:07:16,882
+And maybe we will. It would be cool to see Sabertooth,
+Wolverine and Deadpool in a fight considering,
+
+73
+00:07:16,922 --> 00:07:20,884
+you know, they're all slashy, heely guys. They
+would just tear each other to bits and like
+
+74
+00:07:20,924 --> 00:07:26,308
+nothing would happen. They just fight endlessly.
+That'd be really cool to see. So great answer,
+
+75
+00:07:26,388 --> 00:07:31,993
+Corey, but the winner of this week's snow prize
+goes to Travis Herndon, who said, What's up,
+
+76
+00:07:32,033 --> 00:07:36,457
+Dynamic Dudes? Travis here, shout out to my
+other twins. So my answer would have to be
+
+77
+00:07:36,737 --> 00:07:41,241
+Mystique, particularly Rebecca's version of
+the character. It would be cool to see that
+
+78
+00:07:41,361 --> 00:07:46,565
+actress come back to reprise her role as Mystique.
+Also, you could make a little joke that Deadpool
+
+79
+00:07:46,585 --> 00:07:50,689
+or something brings up the fact that she's been
+running around naked in all three of the X-Men
+
+80
+00:07:50,729 --> 00:07:55,599
+movies she was in. only for her to maybe shade
+shift into her comic book accurate suit and
+
+81
+00:07:55,639 --> 00:08:00,181
+give him the middle finger. So yeah, that's
+my pick. I love this answer. I think it would
+
+82
+00:08:00,201 --> 00:08:04,523
+be so cool, yeah, to have Rebecca Romaine as
+Mystique show up in the void at the end of
+
+83
+00:08:04,563 --> 00:08:09,545
+time. And like no one just comments on the fact
+that she's essentially naked. And Deadpool's
+
+84
+00:08:09,565 --> 00:08:13,387
+like looking around like Wolverine is not saying
+anything. And Deadpool's like, is seriously
+
+85
+00:08:13,467 --> 00:08:18,829
+no one going to say anything? Lady, put your
+fun bags away. This is Disney now. It's family
+
+86
+00:08:18,849 --> 00:08:23,285
+friendly. And then like she just beats his ass
+or something like that. I would love that.
+
+87
+00:08:23,365 --> 00:08:26,988
+If this doesn't happen in the movie, I'm actually
+going to be a little bit disappointed. It will
+
+88
+00:08:27,028 --> 00:08:32,112
+still exist in my headcanon if it's not in the
+film. Yeah, I always preferred Rebecca Romaine
+
+89
+00:08:32,132 --> 00:08:37,037
+to Jennifer Lawrence for Mystique. I hope we
+get a return of Rebecca Romaine for this movie.
+
+90
+00:08:37,397 --> 00:08:41,600
+And going off of what Travis said, yeah, it
+would be cool to then see Mystique shape shift
+
+91
+00:08:41,641 --> 00:08:46,124
+into her more comic book accurate costume with
+the white dress. Yeah, because we've never
+
+92
+00:08:46,164 --> 00:08:49,784
+seen that on film. That'd be awesome. Yeah,
+and I hope that's what they do for the MCU
+
+93
+00:08:50,005 --> 00:08:54,591
+version of the character. So congrats to Travis
+Herndon. Fantastic answer. You win this week's
+
+94
+00:08:54,651 --> 00:08:58,757
+No Prize. If you're the listener, want a shot
+at winning your own No Prize. Stay tuned to
+
+95
+00:08:58,797 --> 00:09:02,802
+later on in this episode when we'll be asking
+another question of the week. And now that
+
+96
+00:09:02,822 --> 00:09:04,885
+that's done, on to the news.
+
+97
+00:09:10,402 --> 00:09:14,983
+Alright, so last week we got our first look
+at the second season of My Adventures with
+
+98
+00:09:15,043 --> 00:09:20,165
+Superman, an animated series that's premiering
+on Cartoon Network, but also showing on the
+
+99
+00:09:20,225 --> 00:09:25,666
+Max platform. Of course, we reviewed My Adventures
+with Superman season one last year. It was
+
+100
+00:09:25,706 --> 00:09:31,468
+a really, really well done modern anime version
+of the Superman mythos. And the way it ended,
+
+101
+00:09:31,608 --> 00:09:37,354
+it set up season two. So I've been really looking
+forward to this first trailer. and it didn't
+
+102
+00:09:37,374 --> 00:09:42,395
+disappoint. No, it looks like it continues everything
+that made the first season so well done. And
+
+103
+00:09:42,435 --> 00:09:46,497
+not being, you know, a DC or a Superman guy
+myself, I really enjoyed the show and it's,
+
+104
+00:09:46,717 --> 00:09:51,798
+yeah, modern take on the character of Superman.
+The way they adapted all of these characters
+
+105
+00:09:51,838 --> 00:09:55,999
+to kind of fit in with Kryptonian technology
+and stuff like that, I thought was really fascinating.
+
+106
+00:09:56,079 --> 00:10:00,781
+And they really left that first season on quite
+the cliffhanger with Brainiac and General Lane
+
+107
+00:10:00,821 --> 00:10:04,878
+and all that stuff. So yeah, this is gonna be
+exciting. Yeah, definitely more of the same,
+
+108
+00:10:04,918 --> 00:10:08,859
+which is great to see the opening shot of the
+trailer. It looks like Lois Lane and Jimmy
+
+109
+00:10:08,919 --> 00:10:13,521
+Olsen are encountering a Kryptonian, although
+I'm not sure who it is, whether it's General
+
+110
+00:10:13,581 --> 00:10:18,802
+Zod or someone else, maybe. I guess we'll see.
+It looks like the trio of Clark Kent, Lois
+
+111
+00:10:18,842 --> 00:10:24,004
+Lane and Jimmy Olsen are getting up to their
+wacky hijinks as they have in the past. It
+
+112
+00:10:24,024 --> 00:10:29,354
+was a fun reminder that Jimmy Olsen is now a
+millionaire. So, you know, he's. talking at
+
+113
+00:10:29,434 --> 00:10:33,197
+this conference, that's gonna be interesting
+this season. But what I thought was really
+
+114
+00:10:33,217 --> 00:10:38,001
+cool was to see the return of Lex Luthor, who
+we got like a tease of in the first season,
+
+115
+00:10:38,382 --> 00:10:43,046
+but it looks like it's officially him. He was
+Ivo's assistant or something like that. And
+
+116
+00:10:43,086 --> 00:10:49,231
+it makes sense that with Ivo out, Lex Luthor
+may be taking over the tech space and competing
+
+117
+00:10:49,251 --> 00:10:54,496
+with Jimmy Olsen. I thought it was cool how
+we got our first looks at characters like Metallo,
+
+118
+00:10:54,656 --> 00:10:59,679
+Parademons, and of course, Supergirl. Oh yeah,
+Supergirl was a huge surprise. She, of course,
+
+119
+00:10:59,779 --> 00:11:05,102
+is in the poster for the upcoming season. And
+I was really happy to see that she'll be here.
+
+120
+00:11:05,763 --> 00:11:10,906
+Clark Kent does encounter a baby version of
+her at the very end of the trailer, although
+
+121
+00:11:10,926 --> 00:11:16,469
+I'm not sure if that's just like a flashback
+to the past when she was also, you know, rocketed
+
+122
+00:11:16,549 --> 00:11:21,652
+off of Krypton before it was destroyed or not.
+I guess we'll find out. Another villain we
+
+123
+00:11:21,672 --> 00:11:26,058
+get to see in this trailer is Brainiac. And
+it's gonna be really interesting to see his
+
+124
+00:11:26,098 --> 00:11:32,321
+dynamic with Zod, because it looks like a lot
+of the Kryptonian tech is powered by Brainiac.
+
+125
+00:11:32,641 --> 00:11:37,243
+I think we also get our first look at John Henry
+Irons' steel in this trailer too. It's more
+
+126
+00:11:37,263 --> 00:11:40,885
+like a prototype mech suit. I'm not quite sure
+if it's steel, but that would be cool if we
+
+127
+00:11:40,905 --> 00:11:44,787
+got him in this season too. Yeah, I would love
+that. I imagine they would kind of take the
+
+128
+00:11:44,827 --> 00:11:50,589
+same route they took with his origin in the
+New 52, tying him into Metallo. At least I
+
+129
+00:11:50,609 --> 00:11:56,080
+hope they do. But it looks like this season
+kicks off at the end of this month on May 25th
+
+130
+00:11:56,200 --> 00:12:01,842
+on the Cartoon Network. The shows will be then
+showing up on MAX the following day. We're
+
+131
+00:12:01,882 --> 00:12:06,884
+definitely going to review this upcoming season
+and I can't wait to do so. I can't wait to
+
+132
+00:12:06,925 --> 00:12:11,647
+see all the cool new villains that they adapt
+for this show. Yes, definitely one of the more
+
+133
+00:12:11,687 --> 00:12:16,469
+interesting aspects of the show. But speaking
+of villains, that brings us to our question
+
+134
+00:12:16,509 --> 00:12:16,949
+of the week.
+
+135
+00:12:21,486 --> 00:12:26,389
+Who is your favorite Superman villain and why?
+This is going to be a tough one, there's a
+
+136
+00:12:26,430 --> 00:12:30,893
+lot of great Superman villains out there. Really
+dig deep on the why portion of your answer.
+
+137
+00:12:31,273 --> 00:12:35,016
+Record your answer at dynamicduel.com by clicking
+on the red microphone button in the bottom
+
+138
+00:12:35,057 --> 00:12:39,180
+right hand corner of the screen, which will
+prompt you to leave us a voicemail. Your message
+
+139
+00:12:39,200 --> 00:12:43,123
+could be up to 30 seconds long, and don't forget
+to leave your name in case we include you on
+
+140
+00:12:43,143 --> 00:12:47,947
+the podcast. We'll pick our favorite answer,
+and award that person a dynamic duel no prize
+
+141
+00:12:47,967 --> 00:12:54,287
+that we'll post to Instagram. Be sure to answer
+before... May 11th. In other DC animated news,
+
+142
+00:12:54,368 --> 00:13:00,131
+we got the first official teaser trailer for
+Justice League Chrysalis Infinite Earths Part
+
+143
+00:13:00,171 --> 00:13:07,617
+3. Of course, we reviewed Part 2 in our last
+episode. Spoiler alert, it wasn't that great
+
+144
+00:13:07,697 --> 00:13:13,901
+and it really didn't get me too pumped up for
+Part 3. And I can't say this official teaser
+
+145
+00:13:14,041 --> 00:13:21,902
+did either. It's very much a tease. And primarily
+it's a tease that Lex Luthor in the whole crisis
+
+146
+00:13:21,942 --> 00:13:27,747
+mix although it's unclear as to which version
+of Lex Luthor this is. The teaser kind of makes
+
+147
+00:13:27,787 --> 00:13:34,433
+it seem like he's a bad guy but if this is Lex
+Luthor from Earth 3 and maybe he survived that
+
+148
+00:13:34,493 --> 00:13:40,358
+universe's destruction somehow then he could
+be a huge asset to defeating the Anti-Monitor
+
+149
+00:13:40,538 --> 00:13:46,123
+without anyone realizing it. Of course we get
+to see the Anti-Monitor in this trailer and
+
+150
+00:13:46,183 --> 00:13:51,764
+he looks terrible. I just gotta say it. He looks
+nothing like he does in the comics. I wish
+
+151
+00:13:51,784 --> 00:13:55,688
+he was more comics accurate because this is
+a weird look for the character. This is a little
+
+152
+00:13:55,708 --> 00:14:01,334
+bit generic. He's just this figure all in black
+with red eyes. And that's it exactly. That's
+
+153
+00:14:01,514 --> 00:14:08,081
+it exactly. Lame. I often boast about how good
+the character design is in the tomorrow verse,
+
+154
+00:14:08,561 --> 00:14:13,830
+but this makes me embarrassed of the tomorrow
+verse. Just this design. It was interesting
+
+155
+00:14:13,870 --> 00:14:18,494
+to see the Batman animated series, Batman and
+Joker. It seems like we're doing a lot more
+
+156
+00:14:18,594 --> 00:14:23,858
+universe hopping, including the DC animated
+universe, which incorporates like Superman
+
+157
+00:14:23,898 --> 00:14:28,122
+cartoon, the Batman cartoon, the Justice League
+cartoon. That's pretty interesting. That was
+
+158
+00:14:28,202 --> 00:14:32,165
+very interesting. I'm wondering how many other
+different animated universes are going to pop
+
+159
+00:14:32,245 --> 00:14:39,991
+up. Like Teen Titans go? No idea. That would
+be weird. They've already had their own crisis
+
+160
+00:14:40,051 --> 00:14:44,878
+on their show, so I would be surprised, but
+You know, anything's possible, honestly. I
+
+161
+00:14:44,938 --> 00:14:50,680
+really do hope that this is good. I really do
+hope that this brings closure to decades of
+
+162
+00:14:50,720 --> 00:14:55,501
+DC's animated media, maybe going all the way
+back to like Superman's Max Fleischer cartoons.
+
+163
+00:14:55,801 --> 00:15:01,583
+That would be really cool. And I think really
+give us a good setup for maybe James Gunn's
+
+164
+00:15:01,823 --> 00:15:06,224
+new universe. That would be awesome. Do you
+mean Creature Commandos, the animated series
+
+165
+00:15:06,244 --> 00:15:11,205
+that's coming out later this year? Yes, exactly.
+That's scheduled to come out in late 2024.
+
+166
+00:15:12,306 --> 00:15:17,570
+as part of the whole Gods and Monsters chapter
+of James Gunn's DC Universe. I'm not sure if
+
+167
+00:15:17,590 --> 00:15:22,334
+that's still the case though. I have a feeling
+that might get pushed back to after Superman.
+
+168
+00:15:22,795 --> 00:15:27,119
+Or at least I wouldn't be surprised if it did.
+There's no release date for this film yet.
+
+169
+00:15:27,159 --> 00:15:31,142
+At the very end of the trailer it just says
+it's coming soon. I imagine sometime in the
+
+170
+00:15:31,182 --> 00:15:34,885
+fall. And when it does, we'll review it. Fingers
+crossed it's good.
+
+171
+00:15:42,158 --> 00:15:45,342
+Alright, I think that does it for all the news
+for this episode, so let's go ahead and get
+
+172
+00:15:45,402 --> 00:15:51,872
+into the main event where we find out who'd
+win in a fight between Sandman, aka Wesley
+
+173
+00:15:51,912 --> 00:15:55,417
+Dodds, and Madame Webb, aka Julia Carpenter.
+
+174
+00:16:10,570 --> 00:16:16,134
+Alright, Sandman vs. Madame Webb. This is the
+Wesley Dodds and Julia Carpenter versions of
+
+175
+00:16:16,154 --> 00:16:20,998
+the characters respectively. They're both kind
+of pulpy characters in that they're terribly
+
+176
+00:16:21,018 --> 00:16:26,222
+mysterious and they wear trench coats and vaguely
+similar power sets as well. Yeah, and that
+
+177
+00:16:26,242 --> 00:16:31,106
+their main ability is to incapacitate others,
+you could say. But they also get premonitions
+
+178
+00:16:31,146 --> 00:16:36,330
+of the future and they both have kind of like
+cool face gear, like Madame Webb wears these
+
+179
+00:16:36,350 --> 00:16:42,006
+glasses because she's blind and Sandman wears
+this gas mask. which makes him look extra pulpy.
+
+180
+00:16:42,206 --> 00:16:47,047
+Wesley Dodds is a fantastic character. Yeah,
+he's really cool. I'm a really big fan of the
+
+181
+00:16:47,067 --> 00:16:51,909
+character, especially the way they re-imagined
+him in Sandman Mystery Theater, which was a
+
+182
+00:16:52,129 --> 00:16:57,710
+vertigo tie-in to the Sandman series. Speaking
+of that, Jonathan, what's the difference between
+
+183
+00:16:57,830 --> 00:17:02,451
+the Wesley Dodds version of Sandman and the
+Morpheus version of Sandman? They could not
+
+184
+00:17:02,511 --> 00:17:10,970
+be more different. So one of them is a detective
+of sorts who uses sleeping gas. And the other
+
+185
+00:17:11,110 --> 00:17:16,393
+one is essentially the god of dreams or the
+embodiment of dreams, you could say. Right.
+
+186
+00:17:16,433 --> 00:17:22,297
+The latter of which had a series on Netflix,
+but the former of which, the guy with the sleeping
+
+187
+00:17:22,317 --> 00:17:29,681
+gas gun, he has played a part in the adventures
+of the dream god version of Sandman. Yes, tangentially.
+
+188
+00:17:29,761 --> 00:17:34,284
+He's a character that has appeared in the Sandman
+comics. And of course, everybody knows Madame
+
+189
+00:17:34,304 --> 00:17:39,094
+Webb. She is world famous now that she's had
+her own film. Now in that movie, the character
+
+190
+00:17:39,134 --> 00:17:45,036
+was Cassandra Webb, who in the comics is an
+old woman in a chair. She eventually passed
+
+191
+00:17:45,056 --> 00:17:49,377
+her powers down to Julia Carpenter, who was
+played in the Madden Webb film by Sidney Sweeney.
+
+192
+00:17:49,817 --> 00:17:53,938
+This is all very complicated, but hopefully
+the characters' backstories that we get into
+
+193
+00:17:53,978 --> 00:17:58,399
+later will help clear things up. But to explain
+the methodology behind our duels, let's go
+
+194
+00:17:58,439 --> 00:18:03,300
+to our sentient duel simulator, Alfred Jarvis
+9000. AJ and IK tell our listeners how you
+
+195
+00:18:03,340 --> 00:18:09,710
+go about determining a winner in our duel matchups.
+The way I determine a winner between the contestants
+
+196
+00:18:09,730 --> 00:18:15,792
+is by running 1000 Monte Carlo simulations using
+the characters statistics. A Monte Carlo simulation
+
+197
+00:18:15,832 --> 00:18:21,533
+is a probabilistic model used to determine outcomes
+through random sampling. In this case, I randomize
+
+198
+00:18:21,573 --> 00:18:26,015
+the statistics along a normal distribution as
+a way to simulate the many variables that can
+
+199
+00:18:26,035 --> 00:18:30,916
+occur during battle. The stat parameters are
+based on the official Marvel power grid from
+
+200
+00:18:30,956 --> 00:18:36,057
+which the DC characters statistics are extrapolated.
+Additional stat categories are included such
+
+201
+00:18:36,097 --> 00:18:41,608
+as range, damage potential, versatility and
+perception in order to create a more detailed
+
+202
+00:18:41,648 --> 00:18:46,772
+and accurate simulation. The results of the
+1000 simulations provide a percentage of wins
+
+203
+00:18:46,792 --> 00:18:51,234
+for each character. The contestant with the
+higher percentage is declared the victor as
+
+204
+00:18:51,274 --> 00:18:56,618
+they have a higher probability to win any given
+battle. In an equitable pairing, neither character
+
+205
+00:18:56,638 --> 00:19:01,341
+should win 100% of the matches. The comic book
+stories have shown that there's even a way
+
+206
+00:19:01,381 --> 00:19:06,407
+for Batman to defeat Superman. So the confidence
+rate of my method falls in line with the precedents
+
+207
+00:19:06,427 --> 00:19:11,469
+that have been established in the source material.
+My mathematical simulations are without subjectivity
+
+208
+00:19:11,529 --> 00:19:16,872
+or bias. Feats are not the sole consideration,
+nor are fan votes tabulated for determination
+
+209
+00:19:16,912 --> 00:19:22,634
+of the winner. Thanks AJ9K! Before we run the
+simulations though, we like to break down each
+
+210
+00:19:22,654 --> 00:19:27,556
+character's histories and abilities, before
+improvising a scenario on how we imagine one
+
+211
+00:19:27,576 --> 00:19:32,110
+of the 1000 simulations would play out beat
+for beat. And I believe it's my turn to go
+
+212
+00:19:32,130 --> 00:19:37,131
+first with the Marvel characters backstory,
+so let me tell you guys all about Madame Web.
+
+213
+00:19:37,611 --> 00:19:43,173
+Now the story of Julia Carpenter's transformation
+into Madame Web begins with the story of her
+
+214
+00:19:43,253 --> 00:19:49,495
+predecessor, Cassandra Web, the original Madame
+Web. Born in Salem, Oregon, Cassandra suffered
+
+215
+00:19:49,535 --> 00:19:55,337
+from a condition known as myasthenia gravis,
+which left her blind and a quadriplegic confined
+
+216
+00:19:55,417 --> 00:20:01,247
+to a wheelchair. In spite of her physical handicap-
+She developed a strong mind into her later
+
+217
+00:20:01,267 --> 00:20:07,071
+years that was able to tap into the web of life
+and destiny, which is a five-dimensional construct
+
+218
+00:20:07,131 --> 00:20:12,875
+of all reality, past, present, and future. This
+endowed her with psychic abilities, which she
+
+219
+00:20:12,995 --> 00:20:18,559
+used as a medium telling people's fortunes in
+New York City, calling herself Madame Web.
+
+220
+00:20:18,960 --> 00:20:24,323
+It was in New York that Cassandra was first
+visited by Peter Parker, who was shocked to
+
+221
+00:20:24,363 --> 00:20:29,294
+learn that she knew of his alternate identity
+as Spider-Man. Cassandra assisted him in solving
+
+222
+00:20:29,414 --> 00:20:34,215
+several mysterious criminal cases, and she became
+a valuable asset to Spider-Man's crime-fighting
+
+223
+00:20:34,235 --> 00:20:39,177
+career. You can learn more about Spider-Man
+in his duel against Blue Beetle. Meanwhile,
+
+224
+00:20:39,697 --> 00:20:44,718
+a couple of decades prior to Cassandra meeting
+Spider-Man, Julia Cornwall was born and raised
+
+225
+00:20:44,758 --> 00:20:50,520
+in Los Angeles, California to Walter and Elizabeth
+Cornwall. She grew up and married her college
+
+226
+00:20:50,580 --> 00:20:55,781
+boyfriend Larry Carpenter, and the pair moved
+to Denver, Colorado, where they had a daughter
+
+227
+00:20:55,841 --> 00:21:01,478
+named Rachel. Larry became a politician and
+Julia joined a PR firm. Five years later, however,
+
+228
+00:21:01,518 --> 00:21:07,203
+the pair got a divorce and Julia was awarded
+custody of their child. While living as a single
+
+229
+00:21:07,243 --> 00:21:13,168
+mom, Julia ran into her college friend named
+Valerie Cooper, who was the chair of the U.S.
+
+230
+00:21:13,368 --> 00:21:18,292
+Commission on Superhuman Activities, a government
+committee involved in dealing with the country's
+
+231
+00:21:18,332 --> 00:21:24,117
+growing number of superhuman beings. After several
+failed attempts to control existing superpowered
+
+232
+00:21:24,137 --> 00:21:30,047
+beings, the Commission decided it was time to
+create its own hero. To that end, they began
+
+233
+00:21:30,087 --> 00:21:35,508
+recruiting potential candidates for a classified
+athletic study, and Chair Valerie Cooper enlisted
+
+234
+00:21:35,548 --> 00:21:41,710
+her friend Julia to take part in their experiment.
+The Commission injected Julia with a formula
+
+235
+00:21:41,790 --> 00:21:47,512
+of rare spider venoms and plant extracts found
+in the Amazon rainforest, which ended up gifting
+
+236
+00:21:47,572 --> 00:21:52,853
+her with an enhanced physiology and the ability
+to produce strands of telekinetic energy that
+
+237
+00:21:52,913 --> 00:21:57,791
+manifested like webbing. As the sole success
+of their experiment, Julia was dubbed by the
+
+238
+00:21:57,811 --> 00:22:02,793
+commission Spider-Woman, and they sent her into
+the field as a superhero government operative.
+
+239
+00:22:03,213 --> 00:22:07,795
+Juggling her top-secret identity with being
+a mother, Julia struggled in both her personal
+
+240
+00:22:07,815 --> 00:22:12,717
+life and with her activities as a secret agent,
+receiving orders that occasionally put her
+
+241
+00:22:12,757 --> 00:22:18,280
+in conflict with other heroes such as the X-Men
+and the Avengers. After helping the Avengers
+
+242
+00:22:18,340 --> 00:22:24,343
+escape the vault prison after they were arrested
+on false treason Julia became a wanted fugitive
+
+243
+00:22:24,403 --> 00:22:29,726
+from the government. Exacerbating the situation,
+Julia also found herself in a custody battle
+
+244
+00:22:29,806 --> 00:22:34,728
+over her daughter Rachel with her ex-husband
+Larry, who eventually won due to Julia's absence
+
+245
+00:22:34,888 --> 00:22:40,011
+and moved to California. Still on the run, Julia
+evaded authorities with help from Iron Man,
+
+246
+00:22:40,331 --> 00:22:45,434
+and she relocated to California to be closer
+to her daughter. There, she joined the West
+
+247
+00:22:45,454 --> 00:22:50,737
+Coast Avengers branch, which ended her fugitive
+status, eventually gaining back custody of
+
+248
+00:22:50,777 --> 00:22:56,990
+Rachel, as she balanced being a mom and an Avenger.
+At this time, she revealed her superhero identity
+
+249
+00:22:57,030 --> 00:23:01,934
+to her daughter and her parents, who were initially
+supportive but soon felt that her powers made
+
+250
+00:23:01,974 --> 00:23:06,978
+her unfit as a mother. After the West Coast
+Avengers disbanded, Julia and her daughter
+
+251
+00:23:07,058 --> 00:23:12,402
+moved back to Denver, where she fought crime
+and served as a reserve Avengers member. Eventually,
+
+252
+00:23:12,462 --> 00:23:17,538
+the stories of Cassandra Webb and Julia Carpenter
+would cross when Cassandra's Granddaughter
+
+253
+00:23:17,698 --> 00:23:22,861
+Charlotte Witter began stealing the powers of
+other spider-powered heroes, including Maddie
+
+254
+00:23:22,881 --> 00:23:27,023
+Franklin and Jessica Drew, the latter of whom
+you can learn more about in our Queen Bee vs
+
+255
+00:23:27,203 --> 00:23:32,706
+Spider-Woman duel episode. The women teamed
+up with Cassandra to defeat Witter, and eventually,
+
+256
+00:23:32,927 --> 00:23:37,949
+Julia had her powers restored by a recreated
+spider formula and returned to crime fighting.
+
+257
+00:23:38,089 --> 00:23:43,232
+When the U.S. Congress introduced the Superhuman
+Registration Act, which forced heroes to register
+
+258
+00:23:43,272 --> 00:23:49,355
+with the government or face prosecution, Julia,
+now going by the code name Arachne, sided with
+
+259
+00:23:49,475 --> 00:23:55,038
+Iron Man's pro-registration side, but secretly
+helped unregistered heroes evade capture, as
+
+260
+00:23:55,058 --> 00:24:00,060
+she privately disagreed with the legislation.
+Julia was ultimately caught, however, and was
+
+261
+00:24:00,120 --> 00:24:05,302
+forcibly arrested in front of her daughter Rachel.
+She was offered a pardon for her crimes, however,
+
+262
+00:24:05,662 --> 00:24:10,244
+provided she serve on the Canadian government's
+new superhero team, Omega Flight, which was
+
+263
+00:24:10,284 --> 00:24:16,147
+a spinoff of the country's renowned Alpha Flight
+team. Both Julia and Cassandra were kidnapped
+
+264
+00:24:16,247 --> 00:24:22,112
+by the family of Craven the Hunter, who planned
+to sacrifice spider-powered heroes in an attempt
+
+265
+00:24:22,152 --> 00:24:27,857
+to resurrect Craven through an occult ritual.
+The family slit Cassandra Webb's throat, who
+
+266
+00:24:27,917 --> 00:24:33,181
+psychically transferred her ability to mentally
+access the Web of Life of Destiny into Julia,
+
+267
+00:24:33,301 --> 00:24:38,365
+making her the new Madame Webb. Spider-Man was
+able to rescue Julia from being sacrificed
+
+268
+00:24:38,405 --> 00:24:43,396
+as well. though the Craven family was successful
+in bringing Craven back from the dead, which
+
+269
+00:24:43,416 --> 00:24:48,519
+you can learn more about in our Vixen vs Craven
+duel episode. And though Julia was now blind
+
+270
+00:24:48,599 --> 00:24:53,522
+due to her new insight into the past, present,
+and future, her clairvoyance played a crucial
+
+271
+00:24:53,582 --> 00:24:58,184
+role in helping Spider-Man overcome threats
+to New York, and she even saved his life on
+
+272
+00:24:58,324 --> 00:25:03,487
+multiple occasions. When she experienced a vision
+of Spider-Man's death at the hands of Mephisto,
+
+273
+00:25:03,708 --> 00:25:08,070
+an elder demon of hell whom you can learn more
+about in his duel against Sandman, Julia formed
+
+274
+00:25:08,110 --> 00:25:13,311
+a team of spider-powered heroes called the Order
+of the Web, who fought to protect Spider-Man
+
+275
+00:25:13,671 --> 00:25:19,213
+and fight other supernatural threats. Powers-wise,
+Madame Web has the combined power sets of her
+
+276
+00:25:19,293 --> 00:25:25,134
+former Arachne identity and the original Madame
+Web. This grants her enhanced physicality,
+
+277
+00:25:25,354 --> 00:25:31,196
+including increased strength able to lift around
+10 tons, increased agility, speed, and durability.
+
+278
+00:25:31,676 --> 00:25:37,730
+She can emit strands of telekinetic energy for
+a variety of effects, including strands which
+
+279
+00:25:37,750 --> 00:25:43,274
+she can manipulate at will to swing from, ensnare
+opponents, and use to bind herself to surfaces
+
+280
+00:25:43,374 --> 00:25:49,178
+in a wall-crawling effect. She can send out
+these psionic strands to use as invisible feelers
+
+281
+00:25:49,298 --> 00:25:54,382
+to detect the environment around her and warn
+her of impending danger for a spider sense
+
+282
+00:25:54,402 --> 00:25:59,886
+effect. Mataweb has access to see into the web
+of life and destiny, which she can use to get
+
+283
+00:25:59,926 --> 00:26:05,578
+visions of potential futures, other locations
+in the present, and the past. She has limited
+
+284
+00:26:05,618 --> 00:26:10,060
+telepathy, able to read minds and project her
+thoughts into the minds of others, allowing
+
+285
+00:26:10,080 --> 00:26:15,202
+them to see her as an astral projection. She
+is also an adept hand-to-hand combatant due
+
+286
+00:26:15,222 --> 00:26:19,864
+to her training from the Commission on Superhuman
+Activities. Her one weakness is that she is
+
+287
+00:26:19,944 --> 00:26:25,946
+blind, but her psychic perception of her environment
+makes this barely a handicap. And that's Madame
+
+288
+00:26:25,966 --> 00:26:31,989
+Web. So she's like a mixture between Daredevil
+and Spider-Man. Uh, with a little bit of Professor
+
+289
+00:26:32,089 --> 00:26:37,943
+X thrown in there too. Okay. I'm not going to
+lie. A little scared, a little scared, a little
+
+290
+00:26:37,963 --> 00:26:43,444
+bit. You should be. But I will argue that Wesley
+Dodds is just the cooler character because
+
+291
+00:26:43,484 --> 00:26:48,986
+you really don't get cooler than Wesley Dodds.
+He's so noir and like that pulpy kind of like
+
+292
+00:26:49,226 --> 00:26:55,468
+the shadow comes in. Avenger Spider-Man or no,
+no. Fuck that guy. That guy's that guy's a
+
+293
+00:26:55,528 --> 00:27:01,406
+poser. Wesley Dodds is the real deal. Let me
+get into his backstory. Now Wesley Dodds was
+
+294
+00:27:01,466 --> 00:27:07,729
+born in the 1910s to a Jewish couple, Edward
+and Marina Dodds, though Marina died in 1917
+
+295
+00:27:08,389 --> 00:27:14,191
+while Wesley's father served in World War I.
+Raised by his military father, Wesley traveled
+
+296
+00:27:14,291 --> 00:27:20,854
+the Orient, where he acquired various skills
+such as herbalism and martial arts. After graduating
+
+297
+00:27:20,874 --> 00:27:26,296
+from college, Wesley briefly served as a pilot
+for the US Navy until his father died.
+
+298
+00:27:29,538 --> 00:27:35,583
+Wesley also took on the same career as his father
+had before the war, an investor. Wesley became
+
+299
+00:27:35,703 --> 00:27:41,087
+a wealthy socialite, though at night he was
+plagued by nightmares of crimes, murders, and
+
+300
+00:27:41,107 --> 00:27:48,133
+a mysterious figure in a strange mask. Unbeknownst
+to Wesley, the lord of the dream world, Morpheus,
+
+301
+00:27:48,414 --> 00:27:53,718
+had been imprisoned by a British occultist named
+Roderick Burgess, causing many individuels
+
+302
+00:27:53,758 --> 00:27:59,282
+around the world to have strange sleeping patterns,
+Wesley being one of them. After realizing the
+
+303
+00:27:59,322 --> 00:28:04,464
+events in his dreams were coming true, Wesley
+decided he needed to do something about it
+
+304
+00:28:04,804 --> 00:28:10,006
+and created a secret laboratory in his basement
+where he experimented with various herb and
+
+305
+00:28:10,046 --> 00:28:15,889
+chemical mixtures to craft a formula for a powerful
+sedative whose vapors could put people into
+
+306
+00:28:15,929 --> 00:28:22,872
+a deep sleep. Initially using a WWI gas mask
+to protect him from his own sleeping gas, Wesley
+
+307
+00:28:22,912 --> 00:28:29,039
+became a fedora-wearing vigilante known as the
+Sandman. knocking out the criminals and serial
+
+308
+00:28:29,079 --> 00:28:34,624
+killers they had seen in his dreams. Early in
+his crime-fighting career, he encountered another
+
+309
+00:28:34,664 --> 00:28:40,248
+masked vigilante, the Crimson Avenger, who Wesley
+thought was a criminal, but turned out to be
+
+310
+00:28:40,308 --> 00:28:46,994
+his old college friend, the Travis. Lee gave
+Wesley a design for a gas gun, which Wesley
+
+311
+00:28:47,034 --> 00:28:52,358
+crafted and perfected over the years, along
+with various other gadgets, including a grappling
+
+312
+00:28:52,378 --> 00:28:52,618
+gun.
+
+313
+00:28:56,650 --> 00:29:02,093
+Wesley had met and fallen for Diane Belmont,
+the daughter of New York City's District Attorney,
+
+314
+00:29:02,473 --> 00:29:08,416
+Larry Belmont. Within a year, Diane deduced
+Wesley's alter ego as the Sandman and began
+
+315
+00:29:08,536 --> 00:29:13,699
+aiding him in his missions, often feeding him
+information from her father's files and acting
+
+316
+00:29:13,839 --> 00:29:19,903
+as his getaway driver. When America became involved
+in World War II, President Franklin Roosevelt
+
+317
+00:29:19,943 --> 00:29:25,314
+recruited Wesley and various other mystery men
+to form the Justice Society of America. a team
+
+318
+00:29:25,334 --> 00:29:30,496
+of superheroes that you could learn more about
+in our Justice Society vs. Fantastic Four episode.
+
+319
+00:29:30,876 --> 00:29:36,638
+While Wesley was away with the JSA, Diane decided
+that for one sabotage case she had been working
+
+320
+00:29:36,758 --> 00:29:43,241
+on to don one of Wesley's Sandman outfits and
+ended up being shot and killed by a Nazi agent.
+
+321
+00:29:43,561 --> 00:29:49,743
+Devastated, Wesley began wearing a new, more
+colorful and superheroic outfit that Diane
+
+322
+00:29:49,764 --> 00:29:55,638
+had designed for him to fight crime. Wesley
+also adopted Diane's young nephew. an orphan
+
+323
+00:29:55,918 --> 00:30:03,340
+named Sanderson Hawkins. Sandy idolized Sandman
+and trained hard to be like him one day. Wesley
+
+324
+00:30:03,400 --> 00:30:08,782
+soon revealed his Sandman identity to Sandy,
+and Sandy became his crime-fighting sidekick,
+
+325
+00:30:09,182 --> 00:30:14,703
+aiding him in their World War II adventures
+with a new expanded wartime superteam known
+
+326
+00:30:14,783 --> 00:30:20,165
+as the All-Star Squadron. Hoping to improve
+his crime-fighting abilities, Wesley engineered
+
+327
+00:30:20,325 --> 00:30:28,314
+a silicoid gun. which would have used irradiated
+silicon to create constructs of sand and glass.
+
+328
+00:30:28,774 --> 00:30:34,938
+The device exploded upon its first use, however,
+bombarding and infusing the radioactive particles
+
+329
+00:30:35,078 --> 00:30:41,382
+into Sandy, transforming him into a raging sand
+monster. Though Wesley was able to sedate and
+
+330
+00:30:41,422 --> 00:30:48,547
+capture Sandy, he was unable to cure him, so
+he kept him sedated and hidden in a glass chamber
+
+331
+00:30:48,647 --> 00:30:57,459
+in his basement. Wesley retired from superheroics,
+as by this time, many of the Justice Society's
+
+332
+00:30:57,499 --> 00:31:03,061
+members were forced into retirement when the
+US government began requiring all masked Avengers
+
+333
+00:31:03,321 --> 00:31:08,782
+to reveal their secret identities and operate
+strictly under government orders. Wesley spent
+
+334
+00:31:08,922 --> 00:31:14,044
+decades in retirement trying to find a cure
+for Sandy when an earthquake broke Sandy's
+
+335
+00:31:14,064 --> 00:31:20,345
+glass prison and caused him to go on a mad rampage.
+Wesley donned his Sandman outfit once again.
+
+336
+00:31:20,746 --> 00:31:26,847
+and successfully stopped his former protege,
+only to learn that Sandy had regained his lucidity
+
+337
+00:31:26,887 --> 00:31:31,829
+shortly after his imprisonment and had been
+conscious all these years. Guilt-stricken,
+
+338
+00:31:32,209 --> 00:31:37,670
+Wesley retired once again, even going so far
+as to get a psychiatrist named Dr. Raymond
+
+339
+00:31:37,710 --> 00:31:44,012
+Baxter to hypnotize him into forgetting he ever
+was the Sandman. Wesley eventually remembered
+
+340
+00:31:44,052 --> 00:31:49,226
+his past, however, and along with other retired
+former JSA members, came out of retirement
+
+341
+00:31:49,286 --> 00:31:55,027
+seemingly one last time to help the Norse gods
+prevent the end of the world in Ragnarok in
+
+342
+00:31:55,067 --> 00:32:00,029
+a continuous and eternal loop within the realm
+of Limbo. After the Crisis on Infinite Earths
+
+343
+00:32:00,089 --> 00:32:06,330
+event merged the multiverse into a single universe,
+the JSA members eventually returned from Limbo,
+
+344
+00:32:06,731 --> 00:32:13,632
+and Wesley retired once more, dream free, and
+now with Diane, who had never died in the new
+
+345
+00:32:13,692 --> 00:32:14,233
+timeline.
+
+346
+00:32:18,210 --> 00:32:23,854
+The two decided to liquidate all of their assets
+and travel the world. She died shortly after
+
+347
+00:32:23,874 --> 00:32:30,318
+the two arrived in Tibet, and Wesley had one
+final dream that predicted not only his own
+
+348
+00:32:30,459 --> 00:32:36,703
+impending death, but the location of who the
+next Doctor Fate would be. After sending this
+
+349
+00:32:36,763 --> 00:32:41,247
+information to his old JSA allies, Wesley was
+confronted by the evil
+
+350
+00:32:45,654 --> 00:32:51,136
+Rather than reveal Dr. Fate's location through
+torture, Wesley threw himself off of a mountain
+
+351
+00:32:51,156 --> 00:32:57,759
+cliff, killing himself. He and Diane were buried
+in Valhalla, a cemetery for superheroes, and
+
+352
+00:32:57,859 --> 00:33:03,902
+Sandy gave the eulogy. After the Flash reset
+DC's continuity, Wesley Dodds was the commander
+
+353
+00:33:03,962 --> 00:33:11,905
+of a gove teleporting paramilitary force known
+as the Sandmen on Earth-2. In DC's Prime Universe,
+
+354
+00:33:11,925 --> 00:33:18,143
+however, Wesley remained dead until Deadman
+brought him back to life as a zombie detective
+
+355
+00:33:18,483 --> 00:33:25,485
+in order to help him in an unresolved case involving
+a nigh death cult that Wesley had encountered
+
+356
+00:33:25,585 --> 00:33:31,587
+decades prior. You can learn more about Deadman
+in our Deadman vs. Magic duel episode. Though
+
+357
+00:33:31,627 --> 00:33:37,209
+Deadman offered to return Wesley back to his
+grave, Wesley agreed to help Deadman until
+
+358
+00:33:37,249 --> 00:33:44,620
+the case was finished. Sandman is cursed with
+prophetic nightmares, though he is also a trained
+
+359
+00:33:44,680 --> 00:33:51,583
+martial artist, an expert chemist, and an accomplished
+inventor, having devised several gas formulas
+
+360
+00:33:51,863 --> 00:33:59,026
+that include a powerful sedative and a truth
+serum. He's also engineered a gas gun, a grappling
+
+361
+00:33:59,066 --> 00:34:05,789
+gun, an experimental silicoid gun, and a gas
+mask that not only filters his breathing, but
+
+362
+00:34:05,889 --> 00:34:11,195
+also allows him to see through the gas and even
+breathe underwater. That's the Sandman. Now,
+
+363
+00:34:11,215 --> 00:34:16,438
+I'm not gonna lie. I'm actually a really big
+fan of DC's Sandman. He's probably my favorite
+
+364
+00:34:16,458 --> 00:34:21,381
+DC Comics character if I had to boil it down,
+being a Marvel fan, you know? I just really
+
+365
+00:34:21,421 --> 00:34:26,704
+like the look and the pulpiness of the character.
+You know, as iconic as someone as Ghost Rider's
+
+366
+00:34:26,724 --> 00:34:31,827
+look is, I think Sandman's look is just as iconic
+with that gas mask and everything like that.
+
+367
+00:34:31,927 --> 00:34:37,214
+He's really cool. Oh yeah, just seeing like
+those glowing eyes in the mist. like walking
+
+368
+00:34:37,234 --> 00:34:41,516
+through the fog with his fedora and trench coat.
+It doesn't get cooler. It's weird, though,
+
+369
+00:34:41,536 --> 00:34:46,259
+that there are so many characters in Marvel
+and DC named Sandman. Like you have the Spider-Man
+
+370
+00:34:46,279 --> 00:34:50,861
+villain who's made out of literal sand. You
+have the God of Dreams Sandman, and then you
+
+371
+00:34:50,901 --> 00:34:55,624
+also have this Sandman who puts people to sleep.
+And I just want to state that even though I
+
+372
+00:34:55,644 --> 00:35:00,046
+think the Wesley Dodds version of the Sandman
+looks the coolest out of the three, Marvel
+
+373
+00:35:00,066 --> 00:35:04,569
+Sandman is still the better character. And you
+can learn more about him in our Sandman versus
+
+374
+00:35:04,629 --> 00:35:09,288
+Red Tornado duel episode. where you'll find
+out that he is in fact not the best of the
+
+375
+00:35:09,308 --> 00:35:11,937
+three characters. Judge for yourself is all
+I'll say.
+
+376
+00:35:19,278 --> 00:35:24,921
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+377
+00:35:24,961 --> 00:35:30,665
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+378
+00:35:30,725 --> 00:35:36,489
+Dynomic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+379
+00:35:37,030 --> 00:35:41,873
+Dynamic Duel, where comic book titans smash
+every Tuesday. Max Destruction, where the world
+
+380
+00:35:41,893 --> 00:35:47,695
+is at its limit. TV and action heroes battle
+every Wednesday, and Sendro World, where anime
+
+381
+00:35:47,736 --> 00:35:53,222
+champions clash every Thursday. Join us as we
+speculate on the matches and armed with the
+
+382
+00:35:53,262 --> 00:35:59,309
+power of mathematical simulations, discover
+who will emerge victorious. Visit dynamicpodcast.com
+
+383
+00:36:00,050 --> 00:36:02,193
+where we settle the debate and settle the score.
+
+384
+00:36:06,498 --> 00:36:09,918
+Well, now that we've got their histories and
+abilities out of the way, let's speculate on
+
+385
+00:36:09,978 --> 00:36:15,680
+how one of the 1000 simulated matches will go.
+The winner is determined by simulations, not
+
+386
+00:36:15,740 --> 00:36:21,702
+this speculation, but it's fun to imagine how
+this fight could play out. AJ9K, what are the
+
+387
+00:36:21,802 --> 00:36:27,283
+rules of our speculation? Well, I should say
+there are no rules, other than the characters
+
+388
+00:36:27,303 --> 00:36:31,845
+have no prior knowledge of the other going into
+the fight. All they are aware of starting out
+
+389
+00:36:32,165 --> 00:36:36,502
+is that the other character is a threat that
+needs to be eliminated. For the speculation,
+
+390
+00:36:36,782 --> 00:36:41,806
+the contestants will begin approximately 50
+meters apart in a nondescript environment that
+
+391
+00:36:41,826 --> 00:36:46,209
+will have no bearing on the match itself, as
+no environmental statistics are considered
+
+392
+00:36:46,249 --> 00:36:51,252
+in my simulations. The contestants must earn
+victory on their own merit. Alright then, let's
+
+393
+00:36:51,272 --> 00:36:56,836
+get into it. Sandman and Madame Webb meet on
+the battlefield. Who goes first? I'm going
+
+394
+00:36:56,856 --> 00:37:02,380
+to say that Madame Webb goes first, and she's
+going to get a premonition of her winning this
+
+395
+00:37:02,420 --> 00:37:08,784
+match. And she's like, I got this. No, because
+Wesley already went first last night when he
+
+396
+00:37:08,824 --> 00:37:14,668
+choked about this match and how he wins. And
+it all starts with Wesley whipping out his
+
+397
+00:37:14,708 --> 00:37:19,471
+gas gun and just flooding the environment with
+sleeping gas. Madam Webb, she's going to fall
+
+398
+00:37:19,511 --> 00:37:27,817
+asleep. So match over. No, she's going to perceive
+the gas cloud coming at her. And so she's going
+
+399
+00:37:27,837 --> 00:37:33,527
+to leap into the air. and generate this psionic
+web and she just walks along it like a tightrope
+
+400
+00:37:33,587 --> 00:37:38,909
+walker above the cloud of gas and the gas isn't
+gonna hide Sandman like she's still gonna be
+
+401
+00:37:38,950 --> 00:37:45,772
+able to perceive where he is through her psionic
+web feelers. Well feel this! Sandman sees Madame
+
+402
+00:37:45,812 --> 00:37:51,595
+Web hovering over the gas cloud so he draws
+his harpoon gun and fires it right at her and
+
+403
+00:37:51,615 --> 00:37:56,397
+that harpoon's gonna stick in her shoulder and
+she's just gonna get yanked down into the gas
+
+404
+00:37:56,437 --> 00:38:01,998
+toward him like a fish on a hook. No, she- but
+she has her own version of Spidey Sense, right?
+
+405
+00:38:02,038 --> 00:38:06,000
+So she's gonna detect this harpoon gun being
+fired at her. She's gonna leap out of the way
+
+406
+00:38:06,140 --> 00:38:11,161
+off of her tightrope, and she's gonna swing
+over to an area of the environment that isn't
+
+407
+00:38:11,181 --> 00:38:16,823
+filled with gas, but like 15, 20 meters away,
+and she's gonna use her psionic webbing to
+
+408
+00:38:16,943 --> 00:38:22,144
+ensnare Sandman and yank him out of the gas
+cloud toward her. And she's just gonna roundhouse
+
+409
+00:38:22,164 --> 00:38:27,414
+kick him to the floor. No, actually, all she
+kicks is a trench coat. because he slipped
+
+410
+00:38:27,434 --> 00:38:32,975
+it off once he started getting pulled by her
+webbing. And when she kicked the coat, she
+
+411
+00:38:33,035 --> 00:38:37,857
+actually broke a gas capsule that he had in
+his pocket. So she just doused herself with
+
+412
+00:38:37,917 --> 00:38:45,219
+his sleeping gas and put herself to sleep. All
+right. But as she's, you know, feeling herself
+
+413
+00:38:45,259 --> 00:38:50,360
+being sedated at the last second, she's going
+to expel her astral form from her physical
+
+414
+00:38:50,380 --> 00:38:56,062
+body, which is now sleeping on the floor and
+her astral spirit. is gonna reach out into
+
+415
+00:38:56,142 --> 00:39:02,627
+Sandman's mind so that he can see her. And he's
+gonna be super confused as to like how she's
+
+416
+00:39:02,687 --> 00:39:09,032
+both sleeping on the ground and in front of
+him. And she's gonna swing a punch at him.
+
+417
+00:39:09,332 --> 00:39:13,275
+And you know, he's gonna dodge it because he
+doesn't know that she's actually incorporeal,
+
+418
+00:39:13,495 --> 00:39:18,498
+but she's gonna keep attacking him to buy her
+time to wake up. Okay, well, I mean, to an
+
+419
+00:39:18,598 --> 00:39:24,134
+outside observer, Sandman's probably just swinging
+wildly at the air. But he's a trained martial
+
+420
+00:39:24,234 --> 00:39:31,596
+artist, so he'd catch on over time when he realizes
+that neither his or her attacks are landing,
+
+421
+00:39:31,836 --> 00:39:37,938
+right? So that's when he's gonna rush over to
+Madame Webb's real body, you know, still on
+
+422
+00:39:37,978 --> 00:39:42,420
+the ground, and... I don't know, he's just gonna
+start kicking the shit out of her unconscious
+
+423
+00:39:42,480 --> 00:39:47,401
+body? Well, if he's beating the shit out of
+her on the ground, that's gonna snap her out
+
+424
+00:39:47,441 --> 00:39:52,410
+of her sleep, you know? Plus she's like really
+durable, so Sandman kicking her, it's not gonna
+
+425
+00:39:52,470 --> 00:39:58,752
+hurt her as much as he'd probably like. So she's
+gonna wake up and immediately she's gonna wrap
+
+426
+00:39:58,772 --> 00:40:04,074
+him up from head to toe in psionic webbing.
+So like he can't move his arms, his legs, like
+
+427
+00:40:04,114 --> 00:40:09,896
+they're just completely ensnared. So he's gonna
+fall over and she's gonna return the favor
+
+428
+00:40:10,196 --> 00:40:17,010
+by kicking the shit out of him while he's incapacitated.
+And her kicks hurt a lot worse. All right,
+
+429
+00:40:17,030 --> 00:40:24,775
+well, I mean, little did Madam Webb know, though,
+Sandman had a like maximum potent gas capsule
+
+430
+00:40:25,035 --> 00:40:30,880
+hidden in his sleeve, which he crushes, causing
+a cloud of smoke to surround him. And when
+
+431
+00:40:30,960 --> 00:40:35,883
+Madam Webb breathes that in as she's bidding
+the shit out of him, it's going to place her
+
+432
+00:40:35,903 --> 00:40:42,468
+into a lifelong coma that she never wakes up
+from. Match over just as Sandman predicted.
+
+433
+00:40:42,888 --> 00:40:47,939
+He has capsules that can put people in comas.
+Uh, yeah, lifelong comas. He actually has only
+
+434
+00:40:48,079 --> 00:40:55,723
+used this once, but yeah, it's a thing. Okay,
+shit. Uh, well, I mean, that's how one potential
+
+435
+00:40:55,743 --> 00:41:01,527
+scenario could have gone, according to Madam
+Web's precognition, you know? So she gets this
+
+436
+00:41:01,587 --> 00:41:07,490
+vision of how that all went down, and she realizes
+that if she just rips off Sandman's mask at
+
+437
+00:41:07,530 --> 00:41:12,433
+the start, then, you know, he can't do shit.
+So she does that. You know, she rips off his
+
+438
+00:41:12,493 --> 00:41:17,703
+mask with her web ink back. at the start of
+this match, and Sandman instantly puts his
+
+439
+00:41:17,803 --> 00:41:24,246
+own self to sleep and matches over before it
+ever really began. Dude, that- the real timeline
+
+440
+00:41:24,326 --> 00:41:29,508
+that matters is the one we started with, not
+this new bullshit one. It's not multiple timelines.
+
+441
+00:41:29,528 --> 00:41:35,771
+No, everything that happened that we just described
+was just a vision of a potential timeline and
+
+442
+00:41:35,811 --> 00:41:41,573
+what actually happened is Sandman put himself
+down for night-night- No, cause Sandman dreamed
+
+443
+00:41:41,593 --> 00:41:47,165
+about Madam Web- having a premonition about
+that potential future, and he just made sure
+
+444
+00:41:47,185 --> 00:41:55,691
+to pack a backup mask. Okay, but Sandman's dream
+of Madam Web's vision altered her vision, so
+
+445
+00:41:55,751 --> 00:42:01,235
+the new vision incorporates the second mask,
+so he's gonna need to bring infinite masks
+
+446
+00:42:01,695 --> 00:42:09,220
+if he wants to win this thing. Nah, because
+he saw that coming too. Man. I don't even know
+
+447
+00:42:09,280 --> 00:42:16,524
+how we leave this off. Like... What actually
+happens here? Either Sandman puts Madam Web
+
+448
+00:42:16,704 --> 00:42:25,327
+into a lifelong coma or none of that ever happened
+and Madam Web just steals his mask and he's
+
+449
+00:42:25,387 --> 00:42:31,070
+screwed. Exactly. One of those scenarios is
+gonna happen. We'll go ahead and find out which
+
+450
+00:42:31,210 --> 00:42:35,911
+one by inputting the character stats, running
+the simulations and coming back with the winner.
+
+451
+00:42:36,392 --> 00:42:37,912
+AG9K, hit it.
+
+452
+00:42:41,238 --> 00:42:47,102
+Processing results. Simulations complete. All
+right, this is a pretty fun matchup. It gets
+
+453
+00:42:47,122 --> 00:42:53,346
+a little bit crazy when characters can perceive
+future events. And it quickly spirals into
+
+454
+00:42:53,406 --> 00:43:01,152
+infinity real quick. Regarding the stats though,
+the characters were not very similar at all.
+
+455
+00:43:01,232 --> 00:43:05,615
+I mean, they were both equal when it came to
+things like versatility, fighting skill, and
+
+456
+00:43:05,655 --> 00:43:11,475
+their range, but they had very little else in
+common. Yeah, we said that Sandman came out
+
+457
+00:43:11,535 --> 00:43:17,658
+on top when it came to evasiveness and intelligence.
+We said he was smarter than Madame Webb. But
+
+458
+00:43:17,898 --> 00:43:22,941
+we said that Madame Webb was much more perceptive
+because not only does she have precognitive
+
+459
+00:43:22,961 --> 00:43:28,304
+visions like Sandman, but she also has her spider
+sense. She's also a lot stronger and therefore
+
+460
+00:43:28,344 --> 00:43:34,628
+can do more physical damage than Sandman. She's
+also faster. Yeah, physically, she was definitely
+
+461
+00:43:34,728 --> 00:43:41,420
+more impressive than Sandman. But does that
+really matter when he's smarter? It's kind
+
+462
+00:43:41,440 --> 00:43:46,023
+of like a brain versus brawn scenario we have
+here. I think enough brawn can just beat the
+
+463
+00:43:46,043 --> 00:43:53,088
+shit out of a brain, for sure. That's what people
+with no brains think. Well, Jonathan, considering
+
+464
+00:43:53,128 --> 00:43:57,311
+these stats, who do you think is going to win
+this fight when we get the results? I have
+
+465
+00:43:57,331 --> 00:44:05,256
+to root for Sandman. He's such an awesome character.
+Madame Webb sucks. And those who voted in our
+
+466
+00:44:05,336 --> 00:44:13,515
+Instagram poll agree. 66% of them said that
+Sandman would beat Madame Webb. So about two
+
+467
+00:44:13,535 --> 00:44:18,839
+thirds. I think those people are just hating
+because of the Madame Webb movie and they're
+
+468
+00:44:18,859 --> 00:44:24,083
+not giving her credit where credit is due. That's
+my assumption. Yeah, that's probably fair.
+
+469
+00:44:24,203 --> 00:44:30,509
+But let's find out who really won. AJ 9K, the
+results please. Hey, Yuasa. All right, after
+
+470
+00:44:30,569 --> 00:44:41,247
+running 1000 simulations, the winner between
+Sandman and Madame Webb is Madam Web. Psych!
+
+471
+00:44:41,867 --> 00:44:49,249
+No, it wasn't even really that close. Out of
+1000 simulations, Madam Web won 743 matches,
+
+472
+00:44:49,569 --> 00:44:59,092
+whereas Sandman only won 257. She kind of beat
+his ass. But her movie sucked! Uh, I mean this
+
+473
+00:44:59,132 --> 00:45:05,574
+version of Madam Web had both the psychic powers
+and the Spider-Man powers, so... She doesn't
+
+474
+00:45:05,634 --> 00:45:09,637
+suck as much as, you know, the movie might have
+you believe. She's actually pretty badass.
+
+475
+00:45:10,117 --> 00:45:15,441
+You know, I was looking forward to this match
+because Wesley Dodd's Sandman is like my hero
+
+476
+00:45:16,081 --> 00:45:20,944
+and I am not going to lie. I'm super disappointed.
+I do have to say, though, I'm still proud of
+
+477
+00:45:20,964 --> 00:45:27,189
+the guy, even though he lost by a lot. At the
+end of the day, Madame Webb will always be
+
+478
+00:45:27,229 --> 00:45:31,992
+remembered as the character having the shitty
+movie. And Wesley Dodd's will always just have
+
+479
+00:45:32,032 --> 00:45:37,907
+that classic iconic noir vibe to him that you
+just can't take away. It's like he's so cool,
+
+480
+00:45:38,147 --> 00:45:44,330
+he can't lose. That just sounds like a pathetic
+coping mechanism for the fact that your boy
+
+481
+00:45:44,370 --> 00:45:53,294
+got humiliated by Madam Webb. Oh yeah, 100%
+is. I do not deny that. Which is fine by me,
+
+482
+00:45:53,514 --> 00:46:00,577
+your disappointment and humiliation is like
+my sustenance. I live for that shit. More copium,
+
+483
+00:46:00,637 --> 00:46:04,171
+straight to the vein. That does it for this
+duel guys. Let us know what you thought about
+
+484
+00:46:04,191 --> 00:46:10,796
+the results by writing to us at dyna or by visiting
+us on Instagram, which you can find a link
+
+485
+00:46:10,836 --> 00:46:16,019
+to in our show notes or by going on our website
+at dynamicduel.com. And on our site, you could
+
+486
+00:46:16,039 --> 00:46:21,023
+also find a link to our Patreon page where you
+could join our dynamic 2-0 tier and chat with
+
+487
+00:46:21,063 --> 00:46:26,307
+us and fellow listeners, our fantastic 4 tier,
+which gets you bonus content each month, our
+
+488
+00:46:26,547 --> 00:46:32,326
+X-Force tier that makes you an executive producer
+of this podcast. or our newest tier that lets
+
+489
+00:46:32,346 --> 00:46:37,349
+you join our DynaMic Podcast Network. And guys,
+please don't forget to rate our show on Apple
+
+490
+00:46:37,389 --> 00:46:43,973
+Podcasts, Spotify, Podchaser, or on our website
+directly. As we mentioned earlier, in our next
+
+491
+00:46:44,033 --> 00:46:50,196
+episode, we will be reviewing the Netflix series
+Dead Boy Detectives, which is a spin-off series
+
+492
+00:46:50,356 --> 00:46:55,514
+of The Sandman, also on Netflix's Terrific Show.
+Yeah, my only experience with the Dead Boy
+
+493
+00:46:55,554 --> 00:47:01,157
+Detectives was their guest appearance on the
+Doom Patrol TV series, but that was a fantastic
+
+494
+00:47:01,197 --> 00:47:05,299
+episode. So, semi-looking forward to the show.
+I haven't started it yet, but I've actually
+
+495
+00:47:05,319 --> 00:47:09,441
+heard good things. I remember I did not like
+the trailer, but here's hoping it's as good
+
+496
+00:47:09,481 --> 00:47:13,711
+as they say. We'll find out next week. That
+does it for this episode, we want to give a
+
+497
+00:47:13,831 --> 00:47:18,913
+big thanks to our executive producers Ken Johnson,
+John Strosky, Zachary Hepburn, Dustin Balcom,
+
+498
+00:47:19,013 --> 00:47:24,116
+Miggy Mathengian, Brandon Estregard, Nathaniel
+Wagner, Levi Yeaton, Austin Wazilovski, AJ
+
+499
+00:47:24,156 --> 00:47:30,300
+Dunkerley, Scott Camacho, Adam Spies, Andrew
+Shunk, Dean Molesky, and Devin Davis for helping
+
+500
+00:47:30,380 --> 00:47:35,502
+make this podcast possible. We'll talk to you
+guys next week. Up up and away, true believers.
+
+501
+00:47:35,963 --> 00:47:38,704
+I'm getting a premonition right now. In my pants.
+
