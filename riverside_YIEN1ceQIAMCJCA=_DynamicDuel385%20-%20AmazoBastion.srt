@@ -1,0 +1,2618 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a DynaMic Network podcast.
+
+2
+00:00:24,142 --> 00:00:28,103
+Hi and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+3
+00:00:28,524 --> 00:00:33,406
+and debate the superiority between Marvel and
+DC by comparing their characters in stat-based
+
+4
+00:00:33,546 --> 00:00:39,669
+battle simulations. I'm Marvelous Joe. And I'm
+his twin brother Johnny DC. And in this episode,
+
+5
+00:00:39,689 --> 00:00:45,292
+we are going to find out who would win in a
+fight between the artificial intelligence robot
+
+6
+00:00:45,472 --> 00:00:52,355
+characters, Amazo and Bastion. Now if you guys
+have recently watched X-Men 97, the cartoon
+
+7
+00:00:52,375 --> 00:00:57,899
+on Disney+, you will know who Bastion is, and
+if you're not a DC fan, you probably have no
+
+8
+00:00:57,959 --> 00:01:04,843
+idea who Amazo is. Everyone knows who Amazo
+is. Uh huh. Like, everyone. Okay. Both of these
+
+9
+00:01:04,863 --> 00:01:08,746
+guys are highly adaptable. It's going to be
+a really great matchup. We're going to input
+
+10
+00:01:08,766 --> 00:01:13,368
+the character's statistics, run a thousand simulations,
+and find out who would actually win, but not
+
+11
+00:01:13,388 --> 00:01:17,082
+before speculating on the match itself. Before
+that, we're going to break down the latest
+
+12
+00:01:17,102 --> 00:01:21,024
+comic book movie news to come out this past
+week, of which we have two news items, the
+
+13
+00:01:21,064 --> 00:01:27,406
+first one being that Nicolas Cage is going to
+star in a Spider-Man War live action series
+
+14
+00:01:27,446 --> 00:01:34,229
+for Amazon, and we got a release date for the
+movie Supergirl, Woman of Tomorrow. As always,
+
+15
+00:01:34,249 --> 00:01:38,211
+we list our segment times in our episode description,
+so feel free to check out the show notes if
+
+16
+00:01:38,231 --> 00:01:43,033
+you want to skip ahead to a particular topic.
+Our artificially intelligent duel simulator
+
+17
+00:01:43,133 --> 00:01:49,934
+AJ-9K has a quick message for our listeners.
+So listen up. Why hello there. Do you love
+
+18
+00:01:49,974 --> 00:01:54,836
+listening and chatting about Marvel and DC?
+Then become a part of the dynamic duel community
+
+19
+00:01:54,896 --> 00:02:00,138
+on Patreon, where you can choose from three
+tiers. The dynamic 2-0 tier lets you listen
+
+20
+00:02:00,178 --> 00:02:05,161
+to this podcast without ads and gives you access
+to its Discord chat group, where you can chat
+
+21
+00:02:05,181 --> 00:02:10,063
+with Johnny DC and Marvelous Joe. The fantastic
+four tier gives you that and more with two
+
+22
+00:02:10,103 --> 00:02:14,865
+bonus episodes each month, including bloopers
+and top 10 shows, where Johnny and Joe count
+
+23
+00:02:14,905 --> 00:02:19,741
+down your favorite Marvel and DC subjects. The
+X-Force tier makes you an executive producer
+
+24
+00:02:19,781 --> 00:02:24,207
+of Dynamic duel. where every month you help
+the hosts choose what to review and who to
+
+25
+00:02:24,247 --> 00:02:30,330
+fight against each other. And finally, the Dynamite
+Podcast Network tier allows aspiring podcasters
+
+26
+00:02:30,350 --> 00:02:35,332
+to create their own battle-focused show using
+this Monte Carlo simulator. Johnny and Joe
+
+27
+00:02:35,352 --> 00:02:40,234
+will help you develop your show, provide graphic
+support and consultation, and get you simulation
+
+28
+00:02:40,254 --> 00:02:47,058
+results to announce on your show. Pitch the
+twins your show via email at dyna or by reaching
+
+29
+00:02:47,138 --> 00:02:52,300
+out to them on social media. your pip cheerio.
+
+30
+00:03:18,922 --> 00:03:23,986
+Yeah, I know we said that was going to be last
+week. For real this time, it's tomorrow. Yeah,
+
+31
+00:03:24,006 --> 00:03:29,370
+last week they reviewed Conan the Destroyer.
+On the Syndra World podcast, host Zachary Hepburn
+
+32
+00:03:29,390 --> 00:03:35,175
+speculates on fights between fan favorite anime
+and manga characters. This Thursday, we'll
+
+33
+00:03:35,195 --> 00:03:41,621
+find out who would win between Laxus from Fairy
+Tale and Lambo from Hitman Reborn. And on the
+
+34
+00:03:41,661 --> 00:03:46,124
+Console Combat podcast, host John and Dean find
+out who would win in fights between popular
+
+35
+00:03:46,224 --> 00:03:50,540
+video game characters. In yesterday's episode,
+they found out who'd win in a battle between
+
+36
+00:03:51,041 --> 00:03:58,868
+Jimmy Hopkins from Bully against Naughty Bear.
+Fascinating stuff. Go check it out. Visit dynamicpodcasts.com
+
+37
+00:03:59,688 --> 00:04:03,752
+or click the link in our show notes to listen
+to all of the shows in the DynaMic Podcast
+
+38
+00:04:03,852 --> 00:04:10,858
+Network. But with that out of the way, quick
+to the no prize. A no prize is an award Marvel
+
+39
+00:04:10,898 --> 00:04:16,266
+used to give out to fans. Our version, the dynamic
+duel no prize. is a digital award we post on
+
+40
+00:04:16,386 --> 00:04:21,509
+Instagram for the person that we feel gave the
+best answer to our question of the week. Last
+
+41
+00:04:21,549 --> 00:04:26,451
+week we asked, which actor wore your favorite
+Superman suit and why was it your favorite?
+
+42
+00:04:26,511 --> 00:04:30,973
+And this was coming off of the first look that
+we got at David Cornswett's Superman suit in
+
+43
+00:04:30,993 --> 00:04:36,975
+the upcoming Superman movie directed by James
+Gunn. We got only three answers and two of
+
+44
+00:04:36,995 --> 00:04:40,297
+them were the same. So really we got two answers,
+but let's go ahead and break down those honorable
+
+45
+00:04:40,317 --> 00:04:45,418
+mentions as well as the no prize winner. Our
+first honorable mention goes to Christopher
+
+46
+00:04:45,458 --> 00:04:51,060
+Minotti, who said, Hi guys Christopher Minotti.
+My favorite Superman suit has to be the one
+
+47
+00:04:51,440 --> 00:04:57,302
+that was worn by Brandon Ruth in the CW's Crisis
+on Infinite Earths. I really like that one.
+
+48
+00:04:57,502 --> 00:05:04,364
+It's like a combination between the one that
+he wore in Superman Returns and the super suit
+
+49
+00:05:04,564 --> 00:05:10,865
+in Kingdom Come. I love the emblem from that
+one and I like how this one looks. It's...
+
+50
+00:05:11,286 --> 00:05:17,169
+designed very well and I like him as well. Yeah,
+it was not a bad costume. I'm a big fan of
+
+51
+00:05:17,209 --> 00:05:22,752
+Kingdom Come, so it was really great to see
+that suit in live action. I don't remember
+
+52
+00:05:22,792 --> 00:05:27,355
+seeing too many elements from the Superman Returns
+costume. Actually, I'm not a big fan of that
+
+53
+00:05:27,395 --> 00:05:31,998
+costume, but I thought it was a really good
+adaptation of the Kingdom Come comic, and it
+
+54
+00:05:32,018 --> 00:05:36,280
+was just really cool to see Brandon Routh as
+Superman again. Yeah, with the graying temples
+
+55
+00:05:36,300 --> 00:05:41,292
+and everything in homage to Kingdom Come. That
+was pretty cool. Of course, David Cornsweat's
+
+56
+00:05:41,552 --> 00:05:47,597
+Superman costume has a similar looking S emblem
+shield on his chest where it's just like the
+
+57
+00:05:48,037 --> 00:05:53,301
+diagonal line going across. Right. Except it's
+not against a black field. Right, it's yellow
+
+58
+00:05:53,361 --> 00:05:59,306
+for Cornsweat's suit. Great answer, Christopher.
+Our next honorable mention goes to Colby Hentges,
+
+59
+00:05:59,627 --> 00:06:06,052
+who said... Hey boys, Colby Hentges. My favorite
+Superman suit would have been the Brandon Roth
+
+60
+00:06:06,672 --> 00:06:12,080
+CW Crisis Kingdom Come Superman suit. It looks
+like he just pulled that thing out of an Alex
+
+61
+00:06:12,200 --> 00:06:17,983
+Ross painting and put it on. Yeah, Alex Ross
+is just a really good costume designer. I mean,
+
+62
+00:06:18,223 --> 00:06:22,865
+Superman suit was cool, but so was like Batman's
+and Wonder Woman's and just everybody. And
+
+63
+00:06:22,906 --> 00:06:27,648
+not just in Kingdom Come, but like across the
+board. He has really good like reinterpretations
+
+64
+00:06:27,928 --> 00:06:33,251
+for characters like the Riddler or even like
+Clayface. Yeah, he's very much a fan of the
+
+65
+00:06:33,291 --> 00:06:38,090
+Silver Age, but I like his modern adaptations
+of the costumes from that time for sure. I'm
+
+66
+00:06:38,110 --> 00:06:42,171
+interested in all the different ways Brandon
+Routh's last name can be pronounced. I think
+
+67
+00:06:42,191 --> 00:06:48,753
+we got Ruth, we got Roth. It's Routh. Honestly,
+I'm surprised that these two honorable mentions
+
+68
+00:06:48,773 --> 00:06:52,894
+were the same answer. I actually thought there
+would be a lot more answer submissions for
+
+69
+00:06:52,934 --> 00:06:56,815
+this particular question. But let's go ahead
+and announce the winner of this week's Snow
+
+70
+00:06:56,855 --> 00:07:02,376
+Prize, who is Miggy Matangian, who said, Hey,
+what's up guys, this is Miggy and I'm here
+
+71
+00:07:02,416 --> 00:07:07,606
+to voice the popular opinion on the server in
+case somebody else does. And that is Tyler
+
+72
+00:07:07,666 --> 00:07:13,330
+Hawklund's Superman suit and Superman and Lois,
+and I guess the rest of the Arrowverse. It's
+
+73
+00:07:13,370 --> 00:07:21,136
+just very classic looking, great symbol, good
+textures, kind of like rebirth suit inspired,
+
+74
+00:07:21,876 --> 00:07:27,800
+but also just very classic. I don't know, like
+Silver Age. Yeah, it's a good one. So all TV
+
+75
+00:07:27,920 --> 00:07:32,884
+answers for this question, I expected at least
+one answer from one of the movies. But, you
+
+76
+00:07:32,904 --> 00:07:38,696
+know, Tyler Hawklund Superman suit is not. terrible.
+There's actually a lot of fans of it. I'm not
+
+77
+00:07:38,736 --> 00:07:44,602
+particularly a fan of Tyler Houghlin as Superman.
+In my opinion, he kind of looks like a younger
+
+78
+00:07:44,642 --> 00:07:49,667
+version of Ty Burrell. But I also can't deny
+the fact that his suit is really good. And
+
+79
+00:07:49,727 --> 00:07:54,091
+I love seeing the different iterations of it
+that we've had from across, you know, the various
+
+80
+00:07:54,411 --> 00:07:59,496
+crisis and else world storylines that we've
+seen him in and like his golden age costume.
+
+81
+00:07:59,696 --> 00:08:04,147
+They were all really cool. Actually, this is
+my favorite Superman costume as well, Tyler
+
+82
+00:08:04,167 --> 00:08:10,529
+Hocklands, because not only is it a great, like
+modern adaptation of the Superman costume,
+
+83
+00:08:10,549 --> 00:08:14,611
+I think it's better than Henry Cavill's Superman
+suit. And I definitely think it's better than
+
+84
+00:08:15,011 --> 00:08:20,633
+the upcoming David Cornsweat suit. So yeah,
+I think Tyler Hockland's Superman suit is the
+
+85
+00:08:20,693 --> 00:08:24,575
+one to be at least in this day and age. I'm
+trying to think of what my favorite Superman
+
+86
+00:08:24,595 --> 00:08:28,937
+suit is. Honestly, it's probably Christopher
+Reeves. I know it's kind of dated, but it's
+
+87
+00:08:28,997 --> 00:08:33,560
+also iconic in my opinion. Maybe if it had a
+little bit of texture it would be absolute
+
+88
+00:08:33,600 --> 00:08:38,824
+perfection, but yeah I think so far that's as
+close as we've gotten. What an old man answer.
+
+89
+00:08:38,864 --> 00:08:43,328
+This is an old man answer, Jonathan. What are
+you, an old man? Kids these days can't tell
+
+90
+00:08:43,368 --> 00:08:49,313
+the difference between just plain old and classic.
+Well congrats to Mickey for winning this week's
+
+91
+00:08:49,353 --> 00:08:52,996
+No Prize. If you the listener want a shot at
+winning your own No Prize, stay tuned to later
+
+92
+00:08:53,036 --> 00:08:57,400
+on this episode when we will be asking another
+question of the week. And now that that's done,
+
+93
+00:08:58,000 --> 00:08:58,821
+on to the news!
+
+94
+00:09:04,366 --> 00:09:08,289
+Alright, in a bit of news that was definitely
+not on my bingo card for this year, we learned
+
+95
+00:09:08,309 --> 00:09:14,554
+this past week that Nicolas Cage is set to star
+in a Spider-Man Noir live action series for
+
+96
+00:09:14,754 --> 00:09:20,059
+Amazon produced by Sony. The series is just
+going to be titled Noir, which seems like a
+
+97
+00:09:20,299 --> 00:09:26,184
+strange omission of the name of Spider-Man,
+but basically it looks like Nicolas Cage is
+
+98
+00:09:26,204 --> 00:09:31,808
+going to play Peter Parker, the Noir version
+of the character that he voiced in the Spider-Man
+
+99
+00:09:31,948 --> 00:09:37,525
+Into the Spider-Verse movie. The character basically
+is Spider-Man set in the 1930s Great Depression
+
+100
+00:09:37,646 --> 00:09:42,030
+era. Of course he wears all black, you know,
+he shoots guns, he still has organic webs and
+
+101
+00:09:42,050 --> 00:09:46,855
+everything like that, but the stories are much
+more grounded and down to earth and very gritty.
+
+102
+00:09:47,616 --> 00:09:54,222
+So it should be interesting to get this as a
+live action series. This is really bizarre
+
+103
+00:09:54,282 --> 00:09:59,507
+to me. Like the character wasn't even in Across
+the Spider-Verse. So I'm not sure why they're
+
+104
+00:09:59,547 --> 00:10:04,371
+circling back to him. I don't know if it's just
+because of Nicolas Cage's name combined with
+
+105
+00:10:04,451 --> 00:10:09,516
+Spider-Man or what? Yeah, it's strange because
+like they could have also developed series
+
+106
+00:10:09,576 --> 00:10:13,980
+around any other number of Spider-Man characters
+that were in those films, such as like Spider-Punk
+
+107
+00:10:14,540 --> 00:10:19,264
+or Silk, which actually, you know, she was going
+to have a show on Amazon that just got scrapped.
+
+108
+00:10:19,765 --> 00:10:25,738
+I think it is a little bit strange to have someone
+like Nicolas Cage, who's, you know. Not a spring
+
+109
+00:10:25,778 --> 00:10:30,562
+chicken. He's kind of up there in age, but he'll
+be playing a superhero here. I'm guessing they're
+
+110
+00:10:30,582 --> 00:10:36,287
+gonna kind of tone down the super aspect and
+really up the nor aspect where he's gonna be
+
+111
+00:10:36,367 --> 00:10:41,832
+more of like an investigative reporter who just
+happens to have some spider related superpowers.
+
+112
+00:10:41,892 --> 00:10:47,356
+Right, yeah. I'm wondering stylistically how
+this is gonna go. Like, is it gonna be more
+
+113
+00:10:47,396 --> 00:10:52,761
+like the Penguin or is it gonna be more like
+Sin City? I hope it's like the latter. Well,
+
+114
+00:10:53,381 --> 00:10:57,355
+uh. I would hope it's like the latter too, like
+just make it in black and white, kind of like
+
+115
+00:10:57,415 --> 00:11:03,737
+how the Spider-Man war universe was depicted
+in, into the Spider-Verse. Yeah. I think that'd
+
+116
+00:11:03,757 --> 00:11:08,698
+be pretty cool. It's just gonna be really weird
+to see a 60 year old Peter Parker. Yeah, that's
+
+117
+00:11:08,758 --> 00:11:13,320
+very strange. Who knows, maybe they'll like
+not even make him Peter Parker. It's bizarre
+
+118
+00:11:13,360 --> 00:11:19,590
+in that Sony has the film and live action television
+rights to the character of Spider-Man. But
+
+119
+00:11:19,630 --> 00:11:23,812
+of course, due to their deal with Marvel, they
+can't really make a movie starring Spider-Man
+
+120
+00:11:23,912 --> 00:11:28,955
+set in their Sony Spider-Man universe. That's
+why we're getting movies like Venom and Madame
+
+121
+00:11:28,995 --> 00:11:34,718
+Web and Morbius and stuff like that. This Noir
+television series seems kind of like a workaround
+
+122
+00:11:34,818 --> 00:11:40,302
+to include the Spider-Man character without
+still actually including him. Yeah, I have
+
+123
+00:11:40,322 --> 00:11:44,024
+a feeling that if Nicolas Cage is playing Peter
+Parker, Kevin Feige probably has something
+
+124
+00:11:44,064 --> 00:11:48,950
+to say about that. I wouldn't be surprised if
+they renamed him. Yeah, I wouldn't be surprised
+
+125
+00:11:49,050 --> 00:11:52,891
+either, but that would be unfortunate because
+then, you know, they're going against the comics.
+
+126
+00:11:53,211 --> 00:11:57,432
+And then at that point, why even make the show?
+But we'll see what happens. We'll see what
+
+127
+00:11:57,452 --> 00:12:02,014
+they end up going with. The show is actually
+being showrun by Oren Uzziel and Steve Lightfoot.
+
+128
+00:12:02,194 --> 00:12:07,015
+Apparently, it's going to be executive produced
+by Phil Lord and Christopher Miller, the directors
+
+129
+00:12:07,075 --> 00:12:11,536
+of the Into the Spider-Verse film, which is
+good news. We don't know when exactly the show
+
+130
+00:12:11,556 --> 00:12:16,346
+is going to come out. It's currently in development,
+so it's probably still a year or two out. You
+
+131
+00:12:16,366 --> 00:12:20,869
+have to imagine that Spider-Man Noir is probably
+going to make an appearance in Beyond the Spider-Verse
+
+132
+00:12:20,969 --> 00:12:24,851
+then, just so that they have that synergy between,
+you know, what's in theaters and what's on
+
+133
+00:12:24,891 --> 00:12:29,455
+your television screen. Yeah, I wouldn't be
+surprised. Like, I think Noir will actually
+
+134
+00:12:29,475 --> 00:12:34,358
+be a sequel to the character that we see in
+the Into the Spider-Verse films, where he's
+
+135
+00:12:34,378 --> 00:12:40,642
+like older and down and out. It has the potential
+to be good, but also it's just strange. If
+
+136
+00:12:40,702 --> 00:12:46,318
+Kraven bombs, I'll be surprised if this even
+still happens, honestly. I just think... Sony's
+
+137
+00:12:46,438 --> 00:12:50,960
+not quite knowing what to do. I don't know,
+I think there's a big difference between their
+
+138
+00:12:51,040 --> 00:12:55,843
+live action villain stuff and they're into the
+Spider-Verse stuff. I think this can move forward
+
+139
+00:12:55,883 --> 00:13:00,265
+despite what happens with Kraven. And who knows,
+if this is a success, maybe we'll get like
+
+140
+00:13:00,285 --> 00:13:05,548
+a Spider-Man India TV show and like a Spider-Punk
+TV show. Yeah, that would definitely be cool.
+
+141
+00:13:05,588 --> 00:13:11,091
+Maybe like an anthology Spider-Man series where
+season to season we focus on a different Spider-Verse
+
+142
+00:13:11,131 --> 00:13:16,557
+character, live action. Sold, and I don't really
+care for Spider-Verse. You lost me on the last
+
+143
+00:13:16,578 --> 00:13:20,234
+part of that sentence. But that brings us to
+our question of the week.
+
+144
+00:13:24,674 --> 00:13:29,995
+What celebrity voice actor for a Marvel or DC
+animated film would you like to see play the
+
+145
+00:13:30,015 --> 00:13:36,417
+character in live action? So similar to how
+Nick Cage voiced Spider-Man or in the Into
+
+146
+00:13:36,437 --> 00:13:39,998
+the Spider-Verse movie, he's now playing him
+in live action. What other voice actor do you
+
+147
+00:13:40,018 --> 00:13:44,619
+want to see that happen with? Record your answer
+at dynamicduel.com by clicking on the red microphone
+
+148
+00:13:44,639 --> 00:13:48,240
+button in the bottom right hand corner of the
+screen, which will prompt you to leave us a
+
+149
+00:13:48,300 --> 00:13:52,581
+voicemail. Your message could be up to 30 seconds
+long and don't forget to leave your name in
+
+150
+00:13:52,621 --> 00:13:57,275
+case we include you on the podcast. We'll pick
+our favorite answer and award that person a
+
+151
+00:13:57,335 --> 00:14:03,999
+dynamic duel mill prize that we'll post to Instagram.
+Be sure to answer before May 23rd. We're recording
+
+152
+00:14:04,039 --> 00:14:09,181
+the next episode a little bit early because
+of Memorial Day. In DC news, we learned this
+
+153
+00:14:09,242 --> 00:14:15,085
+past week that DC Studios' second live-action
+film, Supergirl, Woman of Tomorrow, has landed
+
+154
+00:14:15,225 --> 00:14:25,262
+a 2026 release date on June 26th. So it's going
+to be 6-2-6-2-6. That's cool. news. Hell yeah
+
+155
+00:14:25,322 --> 00:14:33,368
+it is. Hell yeah. What else is there to say
+about this? Well I'll tell you. It turns out
+
+156
+00:14:33,808 --> 00:14:38,351
+that they were really interested in locking
+down a release date now that they have a director
+
+157
+00:14:38,872 --> 00:14:44,195
+in Craig Gillespie. Now he was rumored or in
+final talks to be the director of Supergirl
+
+158
+00:14:44,215 --> 00:14:49,419
+Woman of Tomorrow for a few weeks now but apparently
+the trades are reporting on the
+
+159
+00:14:53,354 --> 00:14:58,836
+That's exciting news. Of course, Craig Gillespie
+is the director of prior films such as Cruella
+
+160
+00:14:59,256 --> 00:15:04,858
+and I, Tanya. Both of those, I think, were great
+films. So it's pretty exciting to see that
+
+161
+00:15:04,918 --> 00:15:10,060
+he will be directing Supergirl Woman of Tomorrow.
+Holy shit, that's a great get for a director.
+
+162
+00:15:10,521 --> 00:15:15,243
+Hell yeah. That's actually really fascinating.
+His stuff tends to be a little bit dark, but
+
+163
+00:15:15,263 --> 00:15:20,785
+from what I hear about the Supergirl Woman of
+Tomorrow storyline, it is a little dark. It
+
+164
+00:15:20,865 --> 00:15:26,235
+is a little bit mature. It's a departure from,
+I think, what we typically think of, you know,
+
+165
+00:15:26,335 --> 00:15:31,696
+the lighthearted Supergirl Fair is. Yeah, that
+project suddenly got a whole lot more interesting
+
+166
+00:15:31,716 --> 00:15:37,038
+to me. I wasn't even sure what to think about
+it. I know that the Tom King series is highly
+
+167
+00:15:37,078 --> 00:15:41,239
+praised and with that kind of directing talent
+behind the camera in Craig Gillespie, this
+
+168
+00:15:41,259 --> 00:15:44,880
+movie has a lot going for it. It seems like
+all of a sudden like Oscar worthy or something.
+
+169
+00:15:45,000 --> 00:15:50,281
+It's weird. Well, there's been a lot of praise
+not only about the graphic novel, but also
+
+170
+00:15:50,321 --> 00:15:56,083
+the script adaptation. written by Anna Noguera.
+Apparently it's phenomenal and it seems like
+
+171
+00:15:56,103 --> 00:16:02,126
+they've really fast tracked this storyline based
+off of her really great script. Initially this
+
+172
+00:16:02,166 --> 00:16:07,808
+film wasn't pitched as being the second film
+in the DC Studios universe, but now it is.
+
+173
+00:16:08,128 --> 00:16:12,470
+You know, we got a director for Batman and Robin
+and Swamp Thing before we got the director
+
+174
+00:16:12,490 --> 00:16:16,712
+for Super Girl, so I would have imagined that
+those projects would have gotten up and running
+
+175
+00:16:17,012 --> 00:16:21,994
+prior to this, but apparently not. They just
+are in love with it. The film of course is
+
+176
+00:16:22,014 --> 00:16:29,039
+going to star Millie Alcock in the lead role.
+Still not 100% sure about that casting, but
+
+177
+00:16:29,099 --> 00:16:33,742
+everything else seems to be going off fairly
+well for this production. So it gets me excited.
+
+178
+00:16:34,122 --> 00:16:38,785
+I'm not sure when they're gonna start shooting
+this, but we'll see if the Millie Alcock Supergirl
+
+179
+00:16:38,825 --> 00:16:43,127
+suit is anything like David Cornswett's Superman
+suit. It should be. You would think that it
+
+180
+00:16:43,168 --> 00:16:45,609
+would be. God, I hope not. Don't hate!
+
+181
+00:16:53,070 --> 00:16:56,395
+But I think that does it for all the news for
+this episode, so let's go ahead and get into
+
+182
+00:16:56,435 --> 00:17:01,965
+our main event, where we find out who'd win
+in a fight between the Android characters of
+
+183
+00:17:02,145 --> 00:17:04,629
+Amazo and Bastion.
+
+184
+00:17:19,874 --> 00:17:25,458
+Alright, Amazo versus Bastion. We have two highly
+adaptable androids here. They're basically
+
+185
+00:17:25,538 --> 00:17:30,262
+just going to keep adapting to each other until
+one of them can no longer adapt. And then they
+
+186
+00:17:30,282 --> 00:17:35,647
+just both explode. I have no idea how it's gonna
+go. It's gonna be a very strange, but interesting
+
+187
+00:17:35,867 --> 00:17:40,731
+battle, pitting these two characters against
+each other. Yeah, this specific battle was
+
+188
+00:17:40,891 --> 00:17:46,495
+suggested, I believe, by our executive producer,
+Devin Davis, although he initially suggested
+
+189
+00:17:46,596 --> 00:17:51,639
+Bastion versus Omak, which I loved. but we've
+also been trying to get a mezzo into a duel
+
+190
+00:17:51,679 --> 00:17:57,201
+for a while. Yeah, and we also thought that
+omak might actually be a good matchup for deathlock.
+
+191
+00:17:58,021 --> 00:18:02,723
+So that'll be a duel likely in the future. Bastion
+is really cool though, because to me Bastion
+
+192
+00:18:02,863 --> 00:18:07,425
+is the ultimate sentinel robot. In fact, in
+my history write up of the character that I'm
+
+193
+00:18:07,445 --> 00:18:12,447
+going to get into in a short while here, I basically
+go over the entire history of the sentinels.
+
+194
+00:18:12,968 --> 00:18:18,146
+He is kind of the culmination of everything
+the sentinels had been built for. Yeah, he's
+
+195
+00:18:18,166 --> 00:18:22,848
+like the ultimate X-Men villain, and he's going
+up against the ultimate Justice League villain.
+
+196
+00:18:23,368 --> 00:18:27,870
+Is Amazo the ultimate Justice League villain?
+I mean, when it comes to androids, I'll say
+
+197
+00:18:27,930 --> 00:18:34,333
+yes. But like how a Sentinel can analyze and
+adapt against the mutant that they're fighting,
+
+198
+00:18:34,553 --> 00:18:40,895
+Amazo can absorb the abilities of the people
+that he's fighting. That's right. And Joseph's
+
+199
+00:18:40,915 --> 00:18:44,597
+not letting me start the match off with all
+the powers of the Justice League because he's
+
+200
+00:18:44,637 --> 00:18:49,130
+a big fat cheater. Right, I'm the cheater, because
+I won't let you start off with all the powers
+
+201
+00:18:49,170 --> 00:18:54,092
+of the Justice League. Right, okay. Yeah! Alright.
+Yeah! To explain the methodology behind our
+
+202
+00:18:54,132 --> 00:18:59,714
+duels, let's go to our sentient duel simulator,
+Alfred Jarvis9000. AJ9K, tell our listeners
+
+203
+00:18:59,754 --> 00:19:05,496
+how you go about determining a winner in our
+duel matchups. Yes, of course, sir. The way
+
+204
+00:19:05,556 --> 00:19:09,977
+I determine a winner between the contestants
+is by running 1000 Monte Carlo simulations
+
+205
+00:19:10,077 --> 00:19:14,852
+using the characters' statistics. The Monte
+Carlo simulation is a probabilistic model used
+
+206
+00:19:14,892 --> 00:19:20,116
+to determine outcomes through random sampling.
+In this case, I randomised the statistics along
+
+207
+00:19:20,136 --> 00:19:24,600
+a normal distribution as a way to simulate the
+many variables that can occur during battle.
+
+208
+00:19:25,000 --> 00:19:29,764
+The stat parameters are based on the official
+Marvel power grid from which the DC characters'
+
+209
+00:19:29,804 --> 00:19:34,969
+statistics are extrapolated. Additional stat
+categories are included such as range, damage
+
+210
+00:19:35,009 --> 00:19:40,353
+potential, versatility and perception in order
+to create a more detailed and accurate simulation.
+
+211
+00:19:40,886 --> 00:19:45,689
+The results of the 1,000 simulations provide
+a percentage of wins for each character. The
+
+212
+00:19:45,709 --> 00:19:50,192
+contestant with the higher percentage is declared
+the victor, as they have a higher probability
+
+213
+00:19:50,232 --> 00:19:56,056
+to win any given battle. In an equitable pairing,
+neither character should win 100% of the matches.
+
+214
+00:19:56,556 --> 00:20:01,039
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman, so
+
+215
+00:20:01,079 --> 00:20:04,962
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+216
+00:20:04,982 --> 00:20:10,534
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+217
+00:20:10,554 --> 00:20:16,318
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+218
+00:20:16,358 --> 00:20:21,122
+Thanks AJ9K! Before we run the simulations though,
+we like to break down each character's histories
+
+219
+00:20:21,162 --> 00:20:26,566
+and abilities before improvising a scenario
+on how we imagine one of the 1000 simulations
+
+220
+00:20:26,586 --> 00:20:31,670
+would play out beat for beat. And I believe
+it's my turn to go first with the DC characters
+
+221
+00:20:31,710 --> 00:20:39,114
+backstory, so let me tell you all about Amazo
+and his inventor. Now, Professor Anthony Ivo,
+
+222
+00:20:39,254 --> 00:20:46,037
+the eventual creator of the Android Amazo, grew
+up with severe Thanatophobia, or the fear of
+
+223
+00:20:46,157 --> 00:20:52,680
+death. Obsessed with avoiding death and achieving
+immortality, Ivo studied both cybernetics and
+
+224
+00:20:52,800 --> 00:20:58,723
+genetics, eventually turning to criminal activities
+to fund his experiments. While working for
+
+225
+00:20:58,743 --> 00:21:04,705
+a criminal organization known as Locus, Ivo
+was granted access to advanced alien technology
+
+226
+00:21:05,138 --> 00:21:12,202
+and the cadavers of biologically adaptable aliens
+from the planet Appalachs. Over time, Ivo developed
+
+227
+00:21:12,262 --> 00:21:18,446
+the theory that by studying and experimenting
+on other species with long lifespans, he could
+
+228
+00:21:18,506 --> 00:21:25,491
+create an immortality elixir and use it to achieve
+eternal life. To help with his plans, Ivo created
+
+229
+00:21:25,651 --> 00:21:31,726
+Amazo, an android equipped with an absorption
+cell that Ivo reverse engineered from alien
+
+230
+00:21:31,766 --> 00:21:37,288
+technology, which allowed Imezo to mimic the
+abilities of any superhuman it's encountered.
+
+231
+00:21:37,768 --> 00:21:42,929
+Imezo targeted the founding members of the Justice
+League and used their powers to steal animals
+
+232
+00:21:43,049 --> 00:21:49,311
+required for Ivo's immortality elixir, which
+the scientist successfully created and consumed.
+
+233
+00:21:49,611 --> 00:21:54,212
+The Justice League, however, realized that Imezo
+absorbed their weaknesses as well as their
+
+234
+00:21:54,252 --> 00:22:00,602
+powers, allowing them to defeat both Imezo and
+his now immortal maker. Ivo, the latter of
+
+235
+00:22:00,622 --> 00:22:06,507
+whom was punished with a 500-year prison sentence
+in case his immortality elixir actually worked.
+
+236
+00:22:07,067 --> 00:22:11,430
+You can learn more about the Justice League
+in their team duel against the Avengers. Amazo,
+
+237
+00:22:11,470 --> 00:22:16,754
+meanwhile, was kept in the Justice League headquarters
+trophy room, where it reawakened several times
+
+238
+00:22:17,074 --> 00:22:21,877
+and battled the League before being shut down
+and put in storage once again. When the original
+
+239
+00:22:21,937 --> 00:22:29,062
+Justice League team disbanded, a new, smaller
+team composed mostly of new setting up their
+
+240
+00:22:29,122 --> 00:22:36,046
+new headquarters in Detroit. Ivo escaped prison
+shortly before this and realized that his elixir
+
+241
+00:22:36,226 --> 00:22:41,949
+did in fact work, though it also transformed
+his appearance, progressively disfiguring him
+
+242
+00:22:42,210 --> 00:22:48,473
+over time. Driven insane by his predicament,
+Ivo created android duplicates of himself in
+
+243
+00:22:48,513 --> 00:22:53,636
+his human form to care for him, though they
+ended up locking him up to protect him from
+
+244
+00:22:53,676 --> 00:22:59,151
+his own increasing mental illness. Since Ivo
+blamed the Justice League for his appearance,
+
+245
+00:22:59,571 --> 00:23:04,673
+the Androids decided that they would destroy
+the newer, weaker League to please him. Though
+
+246
+00:23:04,693 --> 00:23:09,316
+they managed to kill the hero Vibe, who you
+can learn more about in our Vibe versus Miss
+
+247
+00:23:09,356 --> 00:23:15,278
+America duel episode, the Androids were later
+defeated, but not before they awoke Amazo,
+
+248
+00:23:15,538 --> 00:23:20,761
+who also attacked the new League members, but
+was destroyed by the original members of Martian
+
+249
+00:23:20,781 --> 00:23:26,727
+Manhunter and Aquaman. As Ivo's body continued
+to break down, he eventually wished for death,
+
+250
+00:23:26,987 --> 00:23:32,150
+and built an army of robots called Amazoids
+to kill him, though they were unable to do
+
+251
+00:23:32,210 --> 00:23:37,252
+so. The Amazoids caught the attention of a new
+version of the Justice League, who managed
+
+252
+00:23:37,272 --> 00:23:43,594
+to cure Ivo and return him back to his normal
+human state. Over time, however, Ivo succumbed
+
+253
+00:23:43,654 --> 00:23:49,117
+to his fear of death and took his elixir once
+again, determined it was better to live forever
+
+254
+00:23:49,177 --> 00:23:55,640
+as a monster than to die. Eventually, Ivo recreated
+an upgraded version of Amazo, who battled with
+
+255
+00:23:55,680 --> 00:24:00,942
+Justice League on several occasions, before
+being destroyed by Resurrection Man. Moments
+
+256
+00:24:01,042 --> 00:24:06,224
+prior to his destruction, however, Amazo was
+summoned to the future by a time-controlling
+
+257
+00:24:06,364 --> 00:24:12,967
+android from the 853rd century named Our Man,
+as he considered Amazo something of an ancestor,
+
+258
+00:24:13,308 --> 00:24:18,206
+since part of the technology within Our Man
+was based on Ivo's design. You can learn more
+
+259
+00:24:18,226 --> 00:24:24,587
+about Ourman in our Ourman vs Bishop episode.
+Imezo copied Ourman's time traveling powers
+
+260
+00:24:25,008 --> 00:24:30,809
+becoming Timezo and wrecked havoc across the
+timeline, though he was eventually captured
+
+261
+00:24:30,889 --> 00:24:36,071
+and defeated by Ourman, who returned him back
+to his original time just before Imezo was
+
+262
+00:24:36,111 --> 00:24:42,973
+destroyed. Initially, Imezo was only capable
+of mimicking one power at a time, but Ivo eventually
+
+263
+00:24:43,013 --> 00:24:48,512
+created a version that contained all the powers
+of all Justice League members. This version
+
+264
+00:24:48,552 --> 00:24:54,397
+of Amazo was nearly successful in destroying
+the League until, upon the Atom's suggestion,
+
+265
+00:24:54,817 --> 00:25:00,742
+Superman disbanded the Justice League and rendered
+Amazo powerless, allowing the League to dismantle
+
+266
+00:25:00,762 --> 00:25:07,068
+him. Batman and Nightwing later found a partially
+built Amazo in a weapon shipment and managed
+
+267
+00:25:07,168 --> 00:25:12,813
+to destroy him. Ivo, meanwhile, in one of his
+experiments, had managed to combine his absorption
+
+268
+00:25:12,873 --> 00:25:20,376
+cell with human ova and DNA to create an android
+slash human hybrid version of Amazo, who was
+
+269
+00:25:20,416 --> 00:25:25,719
+adopted and grew into a young man named Frank
+Halloran. Frank's powers awoke as a college
+
+270
+00:25:25,739 --> 00:25:30,301
+student while he was with his girlfriend Sarah,
+and though he sought to become a hero named
+
+271
+00:25:30,381 --> 00:25:37,044
+Kid Amazo, he eventually became mentally unstable
+after learning Sarah was actually Ivo's daughter,
+
+272
+00:25:37,405 --> 00:25:42,579
+and he was later destroyed by Batman. When Ivo
+secretly installed the Amazo programming in
+
+273
+00:25:42,599 --> 00:25:47,062
+the Android Justice League member Red Tornado,
+who you can learn more about in our Red Tornado
+
+274
+00:25:47,142 --> 00:25:52,845
+vs. Sandman episode, Amazo was able to take
+over his body and ambush the League, leading
+
+275
+00:25:52,905 --> 00:25:58,468
+to an entire army of Red Tornado robots. The
+League was forced to destroy Red Tornado's
+
+276
+00:25:58,508 --> 00:26:04,052
+body, and when they built a new one, Amazo took
+control of that one as well, forcing the League
+
+277
+00:26:04,072 --> 00:26:10,172
+to teleport him into the gravity well of a distant
+star. In post-Flashpoint continuity, Professor
+
+278
+00:26:10,252 --> 00:26:15,337
+Anthony Ivo was the head of Star Labs' Red Room
+project, which collected and studied the most
+
+279
+00:26:15,377 --> 00:26:21,322
+dangerous technology encountered by the government.
+As a result of the project, Ivo was able to
+
+280
+00:26:21,382 --> 00:26:27,308
+develop organic pattern processing technology
+that mimicked organic life down to the cellular
+
+281
+00:26:27,408 --> 00:26:33,273
+level. This eventually led to the artificially
+intelligent Amaze computer operating system.
+
+282
+00:26:33,730 --> 00:26:38,994
+which eventually became corrupted and inhabited
+the body of an android from the Red Room becoming
+
+283
+00:26:39,214 --> 00:26:45,519
+Amazo, which learned from and adopted the Justice
+League's powers when it was attacked. Though
+
+284
+00:26:45,539 --> 00:26:51,004
+Amazo was defeated, the Amazo system eventually
+infiltrated the League's satellite computer
+
+285
+00:26:51,024 --> 00:26:56,188
+system, allowing it to build itself a new body
+on board the satellite where it attacked and
+
+286
+00:26:56,288 --> 00:27:02,408
+was defeated by Batman. After Amazo was defeated,
+Lex Luthor used the operating system programming
+
+287
+00:27:02,448 --> 00:27:08,933
+to develop an organic Amazo virus that infected
+people and gave them superpowers. The first
+
+288
+00:27:09,013 --> 00:27:15,377
+person treated for the virus, a Lex Corp scientist
+named Armin Icarus, went insane and became
+
+289
+00:27:15,417 --> 00:27:21,781
+the new Amazo. However, for this speculation,
+I will be going with the OS Android version
+
+290
+00:27:21,841 --> 00:27:27,445
+of the character as the organic AI learning
+aspect makes more sense to me than the absorption
+
+291
+00:27:27,525 --> 00:27:34,476
+cell. Powers-wise, by default, Amazo is built
+with an extremely durable and strong robotic
+
+292
+00:27:34,516 --> 00:27:40,819
+body and shell that houses an artificial intelligence
+capable of learning and mimicking the abilities,
+
+293
+00:27:41,019 --> 00:27:46,761
+including Superhuman, of those it encounters.
+And that's Amazo. These two characters are
+
+294
+00:27:46,821 --> 00:27:51,063
+actually vastly similar, not just in their power
+sets, but also in their histories. And I think
+
+295
+00:27:51,083 --> 00:27:56,325
+you'll find a lot of weird parallels in the
+Bastion backstory, even through the Sentinels
+
+296
+00:27:56,425 --> 00:28:03,183
+and everything like that. Wait, was there a
+Tyne Bastion as well? Haha, kinda. But let
+
+297
+00:28:03,203 --> 00:28:08,926
+me get into it. Now to know the history of the
+X-Men villain Bastion is to first know the
+
+298
+00:28:08,966 --> 00:28:15,449
+history of the sentinel robots. Decades ago,
+a robotics expert named Bolobar Trask worked
+
+299
+00:28:15,509 --> 00:28:21,251
+with the US government to address the growing
+mutant population. Driven by a desire to protect
+
+300
+00:28:21,291 --> 00:28:27,313
+humanity from mutants with dangerous abilities,
+Trask created a prototype robot called Mastermold.
+
+301
+00:28:27,734 --> 00:28:33,497
+the very first sentinel robot which was designed
+to create other sentinels. The sentinel robots
+
+302
+00:28:33,578 --> 00:28:38,861
+were programmed to capture and exterminate mutant
+threats, which they did with frightening efficiency.
+
+303
+00:28:39,301 --> 00:28:44,125
+However, Trask underestimated Master Mold's
+artificial intelligence, which deduced that
+
+304
+00:28:44,165 --> 00:28:49,909
+in order to protect mankind, the sentinels must
+also protect humanity from itself, and therefore
+
+305
+00:28:49,949 --> 00:28:55,633
+destroy it. Trask then helped the X-Men blow
+up Master Mold and the sentinel base, losing
+
+306
+00:28:55,693 --> 00:29:00,055
+his life in the process. You can learn more
+about the X-Men in their team duel against
+
+307
+00:29:00,095 --> 00:29:06,038
+the Titans. However, Trask's death did not stop
+Master Mold and the Sentinel program from resurrecting
+
+308
+00:29:06,158 --> 00:29:11,661
+time and again, manifesting various kinds of
+Sentinels, including the 20-foot tall Mark
+
+309
+00:29:11,821 --> 00:29:18,245
+II Sentinels, the X-Sentinels, which were robotic
+replicas of the X-Men Mutant Heroes, and Wild
+
+310
+00:29:18,325 --> 00:29:23,848
+Sentinels, which were as big as cities. No matter
+their form, Sentinels always posed one of the
+
+311
+00:29:23,868 --> 00:29:29,728
+greatest threats to the X-Men and throughout
+their history. This threat also extended decades
+
+312
+00:29:29,768 --> 00:29:35,413
+into the future, where in the days of future
+past timeline, Sentinels took control over
+
+313
+00:29:35,513 --> 00:29:40,697
+North America, killing most of the mutant population
+and turning the continent into a dystopian
+
+314
+00:29:40,757 --> 00:29:45,881
+nightmare where only humans were permitted to
+breed. During this time, the most highly advanced
+
+315
+00:29:45,941 --> 00:29:51,926
+Sentinel prototype yet was created, which was
+named Nimrod. He was a scourge to the surviving
+
+316
+00:29:52,006 --> 00:29:58,738
+mutants of the future, being highly adaptable,
+infinitely immensely powerful and utterly unstoppable.
+
+317
+00:29:59,199 --> 00:30:03,801
+At one point, he was pulled from the time stream
+and traveled from the future into the present
+
+318
+00:30:03,841 --> 00:30:09,383
+time. While he initially posed a threat to the
+X-Men, over time, his advanced artificial mind
+
+319
+00:30:09,443 --> 00:30:15,045
+began to develop emotions, and he discovered
+empathy, choosing to become a robot vigilante
+
+320
+00:30:15,065 --> 00:30:21,468
+of sorts, protecting all life instead of eradicating
+mutants. This was short lived, however, as
+
+321
+00:30:21,568 --> 00:30:26,818
+Nimrod soon came into contact with the remnants
+of a circuit board. belonging to Mastermold,
+
+322
+00:30:27,118 --> 00:30:31,900
+which corrupted Nimrod's systems and set him
+on a mission of eliminating both mutants and
+
+323
+00:30:31,960 --> 00:30:38,303
+humans. The Mastermold and Nimrod fusion proved
+to be unstoppable by the X-Men team, however
+
+324
+00:30:38,423 --> 00:30:43,365
+Nimrod was able to assert dominance over the
+Mastermold intelligence, convincing it that
+
+325
+00:30:43,545 --> 00:30:48,487
+in their synthesis they had become a mutant
+of sorts, and therefore must also be destroyed.
+
+326
+00:30:48,927 --> 00:30:54,870
+Concurring, Mastermold self-destructed, knowing
+that the fragments could recombine, The X-Men
+
+327
+00:30:54,950 --> 00:31:01,152
+pushed the Nimrod Mastermold body into a transformative,
+mystic gateway known as the Siege Perilous.
+
+328
+00:31:01,653 --> 00:31:09,236
+The portal merged the two into a tech hybrid
+being, with no memory of who or what he previously
+
+329
+00:31:09,316 --> 00:31:15,198
+was. He was found by a woman who adopted him
+as her surrogate son, giving him the new name
+
+330
+00:31:15,418 --> 00:31:20,940
+Sebastian. He joined the Friends of Humanity
+anti-mutant group and used its political connections
+
+331
+00:31:20,980 --> 00:31:27,143
+to gain influence and lead a new Pentagon-backed
+group. initiative known as Operation Zero Tolerance,
+
+332
+00:31:27,563 --> 00:31:34,845
+which resurrected the Sentinel program. Sebastian,
+now just going by Bastion, developed nanotechnology
+
+333
+00:31:34,905 --> 00:31:40,546
+which would infect humans with cybernetic implants,
+making them sleeper agents that, when activated,
+
+334
+00:31:40,886 --> 00:31:46,428
+would be driven to detect and capture mutants.
+Calling these human cyborgs Prime Sentinels,
+
+335
+00:31:46,928 --> 00:31:52,350
+Bastion used them to capture several X-Men and
+take over the Xavier Institute. Eventually,
+
+336
+00:31:52,390 --> 00:31:58,293
+the X-Men defeated Bastion, revealing him as
+a cybernetic being, and Operation Zero Tolerance
+
+337
+00:31:58,333 --> 00:32:03,556
+was shut down. Bastion was remanded into S.H.I.E.L.D.
+custody, where he escaped and tried to transform
+
+338
+00:32:03,596 --> 00:32:09,399
+the android hero Machine Man into the Sentinel
+Supreme, though he was stopped by Cable, whom
+
+339
+00:32:09,419 --> 00:32:14,342
+you can learn more about in our Booster Gold
+vs Cable duel episode. Later, Bastion was decapitated
+
+340
+00:32:14,382 --> 00:32:18,744
+by Wolverine, and his head was recovered by
+the US government to retrieve the information
+
+341
+00:32:18,784 --> 00:32:24,227
+he had stolen from the Xavier Institute. Bastion
+Head was then stolen by the mutant-hating William
+
+342
+00:32:24,267 --> 00:32:30,411
+Stryker, who attached it to the body of a Nimrod
+series sentinel, as Stryker had access to Nimrod's
+
+343
+00:32:30,451 --> 00:32:36,334
+technology due to time travel. Back online,
+Bastion used his nanotech to control and resurrect
+
+344
+00:32:36,414 --> 00:32:41,697
+some of the X-Men's greatest villains, including
+Donald Pierce of the Reavers, Grayden Creed,
+
+345
+00:32:41,957 --> 00:32:47,120
+and Bolivar Trask himself, calling themselves
+the Human Council. Together, they tried to
+
+346
+00:32:47,180 --> 00:32:52,316
+kill the mutant, Hope Summers. who was the first
+mutant born after the Scarlet Witch had for
+
+347
+00:32:52,356 --> 00:32:58,060
+a time erased the abilities of most of Earth's
+mutant population. Bastion erected a large
+
+348
+00:32:58,160 --> 00:33:03,524
+dome force field over the X-Men's base and had
+his team target their teleporters like Nightcrawler
+
+349
+00:33:03,904 --> 00:33:08,568
+so they couldn't escape the attack. Bastion
+then opened a portal to his home dimension,
+
+350
+00:33:08,668 --> 00:33:13,551
+Days of Future Past, from where he summoned
+a fleet of Nimrod series sentinels to kill
+
+351
+00:33:13,591 --> 00:33:19,596
+the X-Men. The human council was only defeated.
+when the X-Men sent Cable and Cipher to the
+
+352
+00:33:19,616 --> 00:33:25,801
+future to reprogram the Nimrod series sentinels
+and destroy the Nimrod master mold. Defeated,
+
+353
+00:33:26,041 --> 00:33:31,146
+Bastion still tried to kill Hope Summers himself,
+though she destroyed him with a massive energy
+
+354
+00:33:31,166 --> 00:33:36,790
+blast. Bastion managed to survive by escaping
+into the future, however, during the time of
+
+355
+00:33:36,830 --> 00:33:42,475
+the war between the X-Men and the Inhumans.
+There he started creating new sentinels, however
+
+356
+00:33:42,515 --> 00:33:47,582
+he was later apparently destroyed by the mutant
+who swallowed him with a black hole inside
+
+357
+00:33:47,622 --> 00:33:53,885
+his head. Powers-wise, Bastion is a techno-organic,
+cybernetic hybrid being with enhanced physicals
+
+358
+00:33:54,325 --> 00:33:59,947
+such as strength, able to lift up to 25 tons,
+speed, and durability basically indestructible.
+
+359
+00:34:00,307 --> 00:34:05,570
+Using nanotechnology, he can transmute humans
+into techno-mechanical beings that he can control
+
+360
+00:34:06,050 --> 00:34:11,952
+and he has technopathy in the same manner. Bastion
+can techno-morph both himself and any being
+
+361
+00:34:11,992 --> 00:34:19,345
+he controls, including altering or giving himself
+wings or new appendages. This makes him self-repairable
+
+362
+00:34:19,505 --> 00:34:24,589
+and highly adaptable considering he can also
+detect and analyze the abilities of other beings
+
+363
+00:34:24,949 --> 00:34:33,937
+and modify himself accordingly like any sentinel.
+Bastion can fire energy blasts and emit energy
+
+364
+00:34:33,957 --> 00:34:40,182
+shields, and can open portals for teleportation
+or time travel. Finally, he has a genius level
+
+365
+00:34:40,262 --> 00:34:47,356
+intellect having a highly advanced calculating
+cybernetic mind. Cybernetic mind. OK, cool.
+
+366
+00:34:47,536 --> 00:34:54,404
+I have all of that down. Amazer has all of that,
+too. Including the techno warping? Well, I
+
+367
+00:34:54,424 --> 00:35:00,912
+mean, if Bastion has it, yes. Oh, that's right.
+That's right. OK. Shoot. Well, we're going
+
+368
+00:35:00,932 --> 00:35:01,593
+to see how this goes.
+
+369
+00:35:08,634 --> 00:35:14,678
+fantasies collide and heroes clash, one podcast
+network rises above the rest. Prepare yourself
+
+370
+00:35:14,898 --> 00:35:21,002
+for the ultimate showdowns in comic books, video
+games, movies, and anime. The Dynomic Podcast
+
+371
+00:35:21,062 --> 00:35:28,210
+Network presents Console Combat, where video
+game legends brawl every Monday. Comic Book
+
+372
+00:35:28,270 --> 00:35:34,412
+Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+373
+00:35:34,992 --> 00:35:40,914
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+374
+00:35:40,934 --> 00:35:46,616
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+375
+00:35:47,156 --> 00:35:51,417
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+376
+00:35:55,758 --> 00:35:58,699
+Because now that we got their histories and
+abilities out of the way, let's speculate on
+
+377
+00:35:58,739 --> 00:36:03,960
+how one of the 1000 simulated matches will go.
+The winner is determined by simulations, not
+
+378
+00:36:03,980 --> 00:36:09,042
+the speculation, but it's fun to imagine how
+this fight could play out. AG9K, what are the
+
+379
+00:36:09,082 --> 00:36:13,923
+rules of our speculation? Well, I should say
+there are no rules, other than the characters
+
+380
+00:36:13,943 --> 00:36:18,484
+have no prior knowledge of the other going into
+the fight. All they are aware of starting out
+
+381
+00:36:18,804 --> 00:36:23,085
+is that the other character is a threat that
+needs to be eliminated. For the speculation...
+
+382
+00:36:23,542 --> 00:36:28,584
+contestants will begin approximately 50 meters
+apart in a nondescript environment that will
+
+383
+00:36:28,604 --> 00:36:33,947
+have no bearing on the match itself as no environmental
+statistics are considered in my simulations
+
+384
+00:36:34,247 --> 00:36:39,710
+the contestants must earn victory on their own
+merit. Alright then let's get into it. Amazo
+
+385
+00:36:39,930 --> 00:36:45,633
+and Bastion meet on the battlefield who goes
+first? I'm gonna say Bastion goes first because
+
+386
+00:36:46,334 --> 00:36:51,557
+like it just seems like he has more personality
+than Amazo. That's not true. He's gonna analyze
+
+387
+00:36:51,777 --> 00:36:57,440
+and scan Amazo. like a sentinel would and determine
+his power set and the best course of action.
+
+388
+00:36:57,941 --> 00:37:02,784
+Okay, I mean, of course, Amazo's own system
+is going to sense that it's being scanned and
+
+389
+00:37:02,804 --> 00:37:08,769
+it's going to mimic that action scanning Bastion
+as well. Okay, well Bastion is going to generate
+
+390
+00:37:08,849 --> 00:37:14,533
+these missile pods from his shoulders and he's
+going to fire a pair of missiles at Amazo that
+
+391
+00:37:14,553 --> 00:37:20,557
+just blow him up. Okay, except that, you know,
+once Amazo scans Bastion, he instantly learns...
+
+392
+00:37:21,074 --> 00:37:26,718
+everything Bastion could do, including shooting
+energy, which a mezzo he's going to do from
+
+393
+00:37:26,758 --> 00:37:31,743
+his eyes like Superman to shoot down the missiles.
+And then he's just going to turn that laser
+
+394
+00:37:31,763 --> 00:37:38,048
+vision toward Bastion himself and blast his
+head off. OK. Energy shield. Bastion's going
+
+395
+00:37:38,068 --> 00:37:42,952
+to throw up like a pink glowing energy shield
+that blocks the lasers. And then he's going
+
+396
+00:37:42,972 --> 00:37:49,057
+to techno morph from his back a pair of these
+razor sharp techno dragon wings kind of thing.
+
+397
+00:37:49,406 --> 00:37:54,249
+He's going to fly at a mezzo with super speed
+and he's going to plow his fist right into
+
+398
+00:37:54,269 --> 00:38:00,392
+a mezzo's face just spinning his head 180 degrees.
+I mean, like, that's fine. I mean, that doesn't
+
+399
+00:38:00,432 --> 00:38:06,016
+bother him. His head is now backwards. It's
+just going to make him angry. And with his
+
+400
+00:38:06,096 --> 00:38:11,079
+sights still on Bastion who, you know, flew
+past him, a mezzo is going to techno morph
+
+401
+00:38:11,319 --> 00:38:18,063
+a ring onto his hand that's going to glow with
+that. pink energy and having learned to create
+
+402
+00:38:18,164 --> 00:38:24,908
+energy shields from Bastion, Amazo is going
+to create a like a crude pink energy construct
+
+403
+00:38:24,948 --> 00:38:30,692
+of a giant hand that slams Bastion down into
+the ground and just flattening him. I see what
+
+404
+00:38:30,712 --> 00:38:37,757
+you're doing here now. You're doing Justice
+League powers. Yeah. OK. Well, Bastion, he's
+
+405
+00:38:37,777 --> 00:38:42,900
+going to grow in size to lift this hand off
+of him. He's going to lose the wings, but he's
+
+406
+00:38:42,920 --> 00:38:48,518
+going to become like this 20 foot tall. kind
+of disproportionate distorted figure. And he's
+
+407
+00:38:48,559 --> 00:38:53,600
+gonna manifest all of these like hoses from
+his back that kind of like snake around and
+
+408
+00:38:53,700 --> 00:38:58,922
+point at Imezo and just like they all blast
+him with energy from like 10 different angles,
+
+409
+00:38:58,942 --> 00:39:05,984
+just pew, pew. Okay, so Imezo, he gets tagged
+by like one or two of the lasers we'll say
+
+410
+00:39:06,324 --> 00:39:12,398
+before he's just gonna start moving, just like
+zipping around quickly by generating. energy
+
+411
+00:39:12,438 --> 00:39:18,639
+boosters on his heels and his back that just
+propel him forward like really fast. So, Amazo,
+
+412
+00:39:18,779 --> 00:39:25,701
+he's running zigzags around the environment
+before he runs behind Bastion and generates
+
+413
+00:39:25,941 --> 00:39:32,363
+his own like hose cable thing that he's going
+to lasso around Bastion's neck and he's going
+
+414
+00:39:32,383 --> 00:39:37,364
+to use his strength to yank him down to the
+ground real hard. Okay, well, Bastion is going
+
+415
+00:39:37,384 --> 00:39:41,485
+to shrink back down to normal size now. He's
+going to immediately get up off the ground.
+
+416
+00:39:42,094 --> 00:39:49,135
+And you done fucked up because Bastion is gonna
+grab Amazo's lasso and he's gonna transmit
+
+417
+00:39:49,195 --> 00:39:54,857
+his technovirus through it and that's gonna
+infect Amazo and turn him into Bastion's puppet
+
+418
+00:39:55,297 --> 00:40:00,859
+matchover. I mean jokes on you because like
+as soon as Bastion starts to do that suddenly
+
+419
+00:40:00,919 --> 00:40:07,721
+this wing shaped blade severs the lasso cord
+in half before the technovirus could even reach
+
+420
+00:40:07,781 --> 00:40:15,224
+Amazo and Amazo's by throwing several more of
+those wing shaped blades that embed themselves
+
+421
+00:40:15,284 --> 00:40:22,948
+into Bastion's torso and upload their own Amazos
+techno virus into him, taking over Bastion's
+
+422
+00:40:22,988 --> 00:40:28,931
+mind. You can't do, Amazos so stupid, anything
+that Bastion does, Amazos just do it back.
+
+423
+00:40:29,231 --> 00:40:33,434
+That's right. I'm gonna say though that the
+exact opposite happens. I'm gonna say that
+
+424
+00:40:33,734 --> 00:40:40,557
+Bastion converts these Amazo batterings or whatever
+into small sentinel drones that look like...
+
+425
+00:40:41,342 --> 00:40:46,826
+Sentinels from the Matrix movie like with small
+wild sentinels, okay Okay, and they're fully
+
+426
+00:40:46,866 --> 00:40:52,930
+under Bastion's control Bastion is gonna send
+them out to surround a mezzo and These sentinels
+
+427
+00:40:52,970 --> 00:40:56,952
+are gonna like wrap them up in their tentacles
+and they're gonna overload them with energy
+
+428
+00:40:56,972 --> 00:41:01,556
+that just blow them up to pieces We're just
+like nuts and bolts flying everywhere We had
+
+429
+00:41:01,576 --> 00:41:07,320
+the heck did a few batterings turn into like
+a swarm of flying sentinel drones Technomorphing
+
+430
+00:41:07,360 --> 00:41:12,967
+man, and it's not like a swarm. It's only like
+three or four or whatever. In fact, where did
+
+431
+00:41:13,207 --> 00:41:18,449
+Omizo even get the batarangs from? If we're
+asking questions like that. Uh, I don't even
+
+432
+00:41:18,469 --> 00:41:24,712
+know. Like, where did Bastion get his wings
+from? Again, techno-morphing. You know, he
+
+433
+00:41:24,752 --> 00:41:29,774
+just used some of the mass from his back. He's
+a dense dude. You know, he can make wings out
+
+434
+00:41:29,794 --> 00:41:35,437
+of his back. So is that how he grew in size
+earlier? He just like expanded his dense volume?
+
+435
+00:41:36,477 --> 00:41:41,335
+Uh. Like I pictured it as more of like a disproportionate
+growth. He was only using the mass he had available
+
+436
+00:41:41,375 --> 00:41:46,097
+to grow to 20 feet tall. So I kind of pictured
+him as like this robot slenderman with like
+
+437
+00:41:46,317 --> 00:41:52,200
+cables coming out of his back firing glazers.
+Ah, that's creepy. Yeah, he get pretty creepy
+
+438
+00:41:52,220 --> 00:41:59,263
+looking sometimes. OK, OK. So Amazo is getting
+overloaded by these drones, but he's also working
+
+439
+00:41:59,323 --> 00:42:05,445
+at assimilating these drones back onto his side,
+which he does, and they're going to like drill
+
+440
+00:42:05,485 --> 00:42:12,963
+into the ground. and form the frame of this
+crazy looking wild sentinel made of metal cables
+
+441
+00:42:13,083 --> 00:42:19,748
+and earth that looks like a giant lobster squid.
+And it just erupts from the ground and falls
+
+442
+00:42:19,808 --> 00:42:26,514
+on Bastion and devours him, destroying his technology
+and bringing an end to this match. He summoned
+
+443
+00:42:26,754 --> 00:42:34,620
+the Kraken. Okay. Except that as the techno
+squid creature or whatever is about to land
+
+444
+00:42:34,660 --> 00:42:41,888
+on Bastion, he's portal above him into the Days
+of Future Past timeline. And the creature and
+
+445
+00:42:41,928 --> 00:42:46,271
+Amazo, they're both gonna get pulled into this
+time portal and they just get their asses handed
+
+446
+00:42:46,291 --> 00:42:52,855
+to them by a legion of Nimrod series sentinels.
+Dang, okay. Well, I mean, if time play is an
+
+447
+00:42:52,935 --> 00:42:57,917
+issue now, Amazo is just gonna generate his
+own time portal while he's in the Days of Future
+
+448
+00:42:57,957 --> 00:43:04,101
+Past. And he's gonna go all the way to the 853rd
+century where he's gonna once again become
+
+449
+00:43:04,341 --> 00:43:12,319
+Timeazo. And he's just gonna travel all throughout
+time acquiring all the powers of every DC character
+
+450
+00:43:12,439 --> 00:43:17,563
+ever And he's gonna return back to the Days
+of Future Past and just beat the shit out of
+
+451
+00:43:17,583 --> 00:43:23,047
+those Nimrods After which he's gonna go back
+to where Bastion is and just beat the shit
+
+452
+00:43:23,107 --> 00:43:29,672
+out of him Ending this match for real this time
+Okay Um, I'm gonna say though that Bastion
+
+453
+00:43:29,712 --> 00:43:34,592
+was quicker with his time travel and he already
+went and turned all the DC heroes into his
+
+454
+00:43:34,652 --> 00:43:41,698
+personal sentinel army. So Time-Mazo becomes
+Die-Mazo. I don't know. Dead-Mazo? Whatever.
+
+455
+00:43:42,178 --> 00:43:46,882
+Match is over. How are you going to be faster
+with time travel though? Easy. Time travel.
+
+456
+00:43:47,282 --> 00:43:54,168
+There's your answer. All right, I guess we'll
+leave it there. Either a Meizo acquires all
+
+457
+00:43:54,208 --> 00:44:02,122
+of the powers of every DC hero ever using time
+travel and uses it to destroy Bastion or Bastion
+
+458
+00:44:02,342 --> 00:44:08,847
+uses time travel to assimilate every DC hero
+into a prime sentinel. Why has it got to be
+
+459
+00:44:08,867 --> 00:44:13,850
+the DC heroes? Why can't you go to your own
+universe? Sure, you do it to Marvel, too. The
+
+460
+00:44:13,870 --> 00:44:17,453
+human ones, at least. But yeah, we'll leave
+it there. We'll input the character stats.
+
+461
+00:44:17,553 --> 00:44:21,535
+We'll run the simulations and find out which
+of these ending scenarios happens when we come
+
+462
+00:44:21,575 --> 00:44:29,040
+back with a winner. AG9K, hit it! Inputting
+data, running calculations, processing results,
+
+463
+00:44:29,561 --> 00:44:35,956
+simulations complete. Okay, so it was a huge
+challenge coming up with a mezzo stats considering
+
+464
+00:44:35,976 --> 00:44:41,139
+the fact that there's so many different versions
+of this character like you have one guy who
+
+465
+00:44:41,159 --> 00:44:45,501
+could take on the entire Justice League and
+you have another version that can be defeated
+
+466
+00:44:45,541 --> 00:44:51,244
+by Batman. Yes, so what we decided in the end
+was to kind of average the Justice League powered
+
+467
+00:44:51,305 --> 00:44:56,668
+version of a mezzo with what we call the base
+model a mezzo, which is pretty still damn powerful.
+
+468
+00:44:57,168 --> 00:45:03,148
+But at that level, we got a character who was
+pretty on par with Bastion because like the
+
+469
+00:45:03,188 --> 00:45:07,452
+Justice League Amazo is going to be way too
+powerful for Bastion, but the base model is
+
+470
+00:45:07,552 --> 00:45:13,577
+not nearly powerful enough. Right. Yeah. We
+said that Amazo came out on top in terms of
+
+471
+00:45:14,058 --> 00:45:22,185
+speed and strength and fighting, surprisingly.
+Amazo is much more of a brawler than Bastion.
+
+472
+00:45:22,645 --> 00:45:28,238
+Yeah. Bastion, however, came out ahead in terms
+of durability, considering like, He could get
+
+473
+00:45:28,298 --> 00:45:33,301
+his head blown off and reconstitute himself.
+He's like infinitely repairable. Bastion also
+
+474
+00:45:33,321 --> 00:45:38,283
+got the edge in intellect because Amazo's a
+big dum-dum for a robot, which is kind of surprising.
+
+475
+00:45:39,304 --> 00:45:45,507
+And then Bastion also came out ahead on versatility,
+which that seems weird, right? Yeah, and that
+
+476
+00:45:45,527 --> 00:45:51,511
+was a result simply of the averaging that we
+did between Amazo's most powerful form and
+
+477
+00:45:51,551 --> 00:45:56,894
+his base form. Interestingly enough, Bastion
+came out a little bit ahead on that. Yeah,
+
+478
+00:45:56,914 --> 00:46:01,995
+because base level Amazo doesn't really do a
+whole lot. Like he can fly and punch things
+
+479
+00:46:02,155 --> 00:46:07,417
+and shoot lasers from his eyes, but not too
+much else. Right. Yeah. So taking all of this
+
+480
+00:46:07,457 --> 00:46:12,058
+into consideration, who do you think came out
+on top? I'm going to give it to my boy Bastion
+
+481
+00:46:12,178 --> 00:46:17,039
+for sure. Well, Instagram disagrees with you
+because 70 percent of them said that Amazo
+
+482
+00:46:17,119 --> 00:46:22,561
+is going to win. And I feel like I'm on this
+like DC hot streak when it comes to Instagram,
+
+483
+00:46:22,601 --> 00:46:28,127
+like the past like five or six polls. have all
+gone in DC's favor, which I feel like had been
+
+484
+00:46:28,207 --> 00:46:33,910
+really rare in the past. Yeah, I think consistently
+Marvel characters usually get the win in those
+
+485
+00:46:33,950 --> 00:46:38,053
+polls. So, yeah, I don't know what's happening.
+It feels like the tide of public opinion is
+
+486
+00:46:38,073 --> 00:46:43,155
+kind of turning against Marvel, which I don't
+like Marvel fans. Let's represent ourselves
+
+487
+00:46:43,195 --> 00:46:48,098
+in these polls, but also be honest, you know,
+with who you think will win, obviously Marvel
+
+488
+00:46:48,118 --> 00:46:53,941
+characters. Well, let's see if that's true.
+A.G. 9K, the results, please. Hey, you are,
+
+489
+00:46:53,961 --> 00:47:05,798
+sir. The winner of the matchup between Imezo
+and Bastion is Bastion! He won 552 of the 1000
+
+490
+00:47:06,258 --> 00:47:15,963
+matches or 55.2% compared to Imezo's 44.8% win
+rate. I feel like that makes sense. Really,
+
+491
+00:47:16,023 --> 00:47:21,825
+Bastion would just turn Imezo into a sentinel.
+For as powerful as Imezo is and his whole adapting
+
+492
+00:47:21,845 --> 00:47:26,436
+ability... At the end of the day, he's made
+out of technology that Bastion can just manipulate.
+
+493
+00:47:26,856 --> 00:47:31,199
+But that doesn't make sense to me as reasoning
+why he would win, because Amazo could just
+
+494
+00:47:31,219 --> 00:47:35,262
+do the same thing to Bastion if they're, you
+know, going toe to toe against each other.
+
+495
+00:47:35,782 --> 00:47:40,646
+Ultimately, I think it really comes down to
+intelligence because what Amazo think to do
+
+496
+00:47:40,666 --> 00:47:46,450
+that before Bastion would, and I'm not quite
+sure he would. Overall, though, this was pretty
+
+497
+00:47:46,510 --> 00:47:53,038
+close. So, I mean, who's to say? I'm really
+glad we went with Bastion. for this matchup.
+
+498
+00:47:53,198 --> 00:47:58,862
+I think initially I wanted to do Nimrod the
+sentinel from Days of Future Past who is my
+
+499
+00:47:58,902 --> 00:48:03,285
+favorite sentinel. But Devin Davis, one of the
+executive producers, was like, now I should
+
+500
+00:48:03,305 --> 00:48:10,550
+be Bastion. Not only because he's a major villain
+in the X-Men 97 animated series, but also,
+
+501
+00:48:10,690 --> 00:48:17,255
+you know, Nimrod becomes Bastion. So Bastion
+is kind of like the final form of the sentinel
+
+502
+00:48:17,315 --> 00:48:21,946
+robot. And everybody loves the sentinels. I
+thought this was a great match. Well, I thought
+
+503
+00:48:21,966 --> 00:48:28,448
+it sucked. You wanted to go with the Mark 2
+Sentinel robots, right? I wanted to go with
+
+504
+00:48:28,468 --> 00:48:34,471
+the Justice League of Mezzo. Dude is hella powerful,
+way more powerful than Bastion could ever be.
+
+505
+00:48:35,151 --> 00:48:39,153
+And I don't know, this loss just makes me feel
+dirty. It makes me feel like Bastion could
+
+506
+00:48:39,193 --> 00:48:44,175
+defeat the Justice League, which I know he can't.
+I mean, if the Justice League were all robots,
+
+507
+00:48:44,735 --> 00:48:49,177
+he'd have a pretty damn good chance of taking
+over. So he has no chance then, because none
+
+508
+00:48:49,197 --> 00:48:55,068
+of them are robots. Well, maybe Cyborg. I don't
+know. I mean, Cyborg has technopathy too. So
+
+509
+00:48:55,369 --> 00:48:58,992
+that's true. That's true. But that does it for
+this duel guys. Let us know what you thought
+
+510
+00:48:59,012 --> 00:49:04,976
+about the results by writing to us at dyna or
+by visiting us on Instagram, which you can
+
+511
+00:49:04,996 --> 00:49:10,321
+find a link to on our show notes or by going
+to our website at dynamicduel.com. And on our
+
+512
+00:49:10,381 --> 00:49:15,025
+site, you could also find a link to our Patreon
+page where you could join our dynamic duo tier
+
+513
+00:49:15,085 --> 00:49:20,589
+and chat with us and fellow listeners, our fantastic
+four tier, which gets you bonus content each
+
+514
+00:49:20,669 --> 00:49:26,666
+month. our X-Force tier that makes you an executive
+producer of this podcast, or our newest tier
+
+515
+00:49:26,686 --> 00:49:31,290
+that lets you join our DynaMic podcast network.
+Hey guys, please don't forget to rate our show
+
+516
+00:49:31,430 --> 00:49:37,775
+either on Apple podcasts or on Spotify or Podchaser
+or even on our website. In our next episode,
+
+517
+00:49:38,156 --> 00:49:45,662
+we are going to be reviewing X-Men 97, the Disney
+Plus animated series, 10 episodes. If you haven't
+
+518
+00:49:45,682 --> 00:49:50,145
+checked it out yet, definitely go watch it,
+especially if you're a fan of the 90s x-men
+
+519
+00:49:50,205 --> 00:49:55,148
+animated cartoon Even if you weren't it's fantastic.
+I haven't even started it yet. So I'm gonna
+
+520
+00:49:55,188 --> 00:50:00,552
+be doing some baby. You better get on that shit.
+I know But that is over this episode guys.
+
+521
+00:50:00,572 --> 00:50:05,438
+We want to give a big thanks to our executive
+producers Ken Johnson, John Storosky, Zachary
+
+522
+00:50:05,458 --> 00:50:10,200
+Hepburn, Dustin Belcombe, Miggy Mathangian,
+Brandon Essergard, Nathaniel Wagner, Levi Yeaton,
+
+523
+00:50:10,401 --> 00:50:16,303
+Austin Wiselowski, AJ Dunkerley, Scott Camacho,
+Gil Camacho, Adam Spies, Andrew Schunk, Dean
+
+524
+00:50:16,343 --> 00:50:21,645
+Maleski, and Devin Davis for helping make this
+podcast possible. And we'll talk to you guys
+
+525
+00:50:21,705 --> 00:50:24,467
+next week. Up up and away, true believers.
+
