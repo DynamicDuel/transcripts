@@ -1,0 +1,4470 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,718 --> 00:00:29,600
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,640 --> 00:00:35,682
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:36,162 --> 00:00:42,025
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, we are reviewing
+
+5
+00:00:42,325 --> 00:00:49,048
+X-Men 97. It's Marvel's first X-Men project
+since acquiring the rights to the characters
+
+6
+00:00:49,108 --> 00:00:55,283
+from Fox. I remember watching this show in the
+mid-90s as a kid. Was this 25 years worth the
+
+7
+00:00:55,324 --> 00:00:59,888
+wait? Yes it was and I can't wait to talk about
+it later on this episode. Before that we're
+
+8
+00:00:59,908 --> 00:01:03,391
+going to break down the comic book movie news
+from the past week of which it was a pretty
+
+9
+00:01:03,491 --> 00:01:08,816
+slow week. All we learned was that Vision Quest,
+the upcoming television series for Disney+,
+
+10
+00:01:09,236 --> 00:01:15,562
+has gotten a 2026 release window and a showrunner.
+Well to be fair we are recording this episode
+
+11
+00:01:15,582 --> 00:01:20,870
+a little bit early in lead up to the Memorial
+Day holiday weekend. So there might be more
+
+12
+00:01:20,910 --> 00:01:24,992
+news that drops that we'll get to in the next
+episode, if that's the case. As always, we
+
+13
+00:01:25,012 --> 00:01:28,794
+list our segment times in our episode description,
+so feel free to check out the show notes if
+
+14
+00:01:28,814 --> 00:01:33,577
+you want to skip ahead to a particular topic.
+Our artificially intelligent duel simulator,
+
+15
+00:01:33,697 --> 00:01:39,620
+AJ9K, has a quick message for our listeners,
+so listen up. Why, hello there. Do you love
+
+16
+00:01:39,660 --> 00:01:44,543
+listening and chatting about Marvel and DC?
+Then become a part of the dynamic duel community
+
+17
+00:01:44,583 --> 00:01:49,818
+on Patreon, where you can choose from three
+tiers. The dynamic 2.0 tier, lets you listen
+
+18
+00:01:49,859 --> 00:01:54,847
+to this podcast without ads and gives you access
+to its Discord chat group where you can chat
+
+19
+00:01:54,867 --> 00:01:59,735
+with Johnny DC and Marvelous Joe. The Fantastic
+Four tier gives you that and more with two
+
+20
+00:01:59,775 --> 00:02:04,557
+bonus episodes each month, including bloopers
+and top ten shows where Johnny and Joe count
+
+21
+00:02:04,577 --> 00:02:09,419
+down your favourite Marvel and DC subjects.
+The X-Force tier makes you an executive producer
+
+22
+00:02:09,459 --> 00:02:14,161
+of Dynamic Duel, where every month you help
+the host choose what to review and who to fight
+
+23
+00:02:14,181 --> 00:02:20,004
+against each other. And finally, the Dynamite
+Podcast Network tier allows aspiring podcasters
+
+24
+00:02:20,044 --> 00:02:24,006
+to create their own battle-focused show using
+this Monte Carlo simulator.
+
+25
+00:02:43,700 --> 00:02:49,044
+Thanks AJ9K, and thanks to everyone who supports
+the podcast. Be sure to tune into the shows
+
+26
+00:02:49,104 --> 00:02:53,928
+in the DynaMic Podcast Network this week, including
+Max Destruction, which pitched your
+
+27
+00:02:56,994 --> 00:03:02,696
+The show is currently on a season break, but
+hosts Ken and Scott are releasing bonus episodes,
+
+28
+00:03:02,956 --> 00:03:08,159
+and this Thursday they will be reviewing The
+Matrix. On the Sendrow World podcast, host
+
+29
+00:03:08,259 --> 00:03:12,981
+Zachary Hepburn speculates on fights between
+fan-favorite anime and manga characters. This
+
+30
+00:03:13,061 --> 00:03:19,084
+Thursday, we'll find out who would win between
+Jura Nikus from Fairy Tail and Diane from Seven
+
+31
+00:03:19,124 --> 00:03:25,056
+Deadly Sins. On the Console Combat podcast,
+Hosts John and Dean find out who would win
+
+32
+00:03:25,076 --> 00:03:29,920
+in fights between popular video game characters.
+In yesterday's episode, they found out who
+
+33
+00:03:29,940 --> 00:03:38,087
+would win in a battle between Samanosuke Akechi
+from Animusha against Ryu Hayabusa from Ninja
+
+34
+00:03:38,127 --> 00:03:43,992
+Gaiden. Visit dynamicpodcasts.com or click the
+link in our show notes to listen to all of
+
+35
+00:03:44,012 --> 00:03:49,857
+the shows in the DynaMic Podcast Network. But
+with that out of the way, quick! To the no
+
+36
+00:03:49,897 --> 00:03:56,248
+prize! A No Prize is an award Marvel used to
+give out to fans. Our version, the Dynamic
+
+37
+00:03:56,289 --> 00:04:01,052
+duel No Prize, is a digital award we post on
+Instagram for the person that we feel gave
+
+38
+00:04:01,092 --> 00:04:06,476
+the best answer to our question of the week.
+Last week, we asked you guys, what celebrity
+
+39
+00:04:06,516 --> 00:04:10,999
+voice actor for a Marvel or DC animated film
+would you like to see play the character in
+
+40
+00:04:11,039 --> 00:04:15,303
+live action? And this was coming off of the
+news that Nicolas Cage will be starring in
+
+41
+00:04:15,383 --> 00:04:22,820
+a live action Spider-Man We got a lot of answers
+for this question and they were all great But
+
+42
+00:04:22,900 --> 00:04:27,603
+let's break down our three honorable mentions
+as well as the no prize winner Our first honorable
+
+43
+00:04:27,644 --> 00:04:33,188
+mention goes to Matt Estes who said Hey fellas,
+Matt Estes here. Hey, this is probably the
+
+44
+00:04:33,328 --> 00:04:39,312
+easiest question y'all have ever asked for question
+of the week It's gotta be Dove Cameron with
+
+45
+00:04:39,352 --> 00:04:46,137
+Spider-Gwen Yeah, Dove Cameron played the character
+of Spider-Gwen in the animated Marvel Rising
+
+46
+00:04:46,277 --> 00:04:51,214
+movies And the actress looks exactly like Spider-Gwen.
+I don't know what else there is to say about
+
+47
+00:04:51,254 --> 00:04:55,217
+that. She should definitely play the character
+because she definitely has the look. But she's
+
+48
+00:04:55,277 --> 00:05:00,362
+also a really good actress. Actually, my daughters
+are a fan of her from her working descendants.
+
+49
+00:05:00,462 --> 00:05:05,206
+She was on some Disney channel show where she
+played like two different characters, twins,
+
+50
+00:05:05,286 --> 00:05:10,631
+I think. She has the acting chops. I was actually
+rooting for her for a while to play Supergirl.
+
+51
+00:05:10,772 --> 00:05:15,387
+But yeah, Spider-Gwen would also work. She was
+actually also in the Agents of S.H.I.E.L.D.
+
+52
+00:05:15,647 --> 00:05:20,252
+television show for a while as well. No one
+cares! She's no stranger to Marvel, that's
+
+53
+00:05:20,272 --> 00:05:24,976
+all I'm saying. So this could definitely work.
+Great answer Matt. Our next honorable mention
+
+54
+00:05:25,016 --> 00:05:29,580
+goes to Miggy Matagian who said, Hey what's
+up guys, this is Miggy and I would love to
+
+55
+00:05:29,620 --> 00:05:34,084
+see Lou Diamond Phillips play Spectre in live
+action. I mostly went with this because he's
+
+56
+00:05:34,104 --> 00:05:38,368
+half Filipino and I got to represent. But I
+think he also has a good look for Jim Corrigan,
+
+57
+00:05:38,428 --> 00:05:42,714
+like a weathered, tired police detective. Some
+other answers that I was leaning towards but
+
+58
+00:05:42,734 --> 00:05:50,717
+didn't go with is Jason Isaacs as Sinestro,
+Bryan Cranston as Jim Gordon, John Noble as
+
+59
+00:05:50,757 --> 00:05:55,738
+Brainiac, and Jamie Chung as Cheshire. Thanks
+guys. Yeah, all of those were great answers.
+
+60
+00:05:55,918 --> 00:06:01,340
+I especially loved Lou Diamond Phillips as the
+Spectre for two reasons. One, Lou Diamond Phillips
+
+61
+00:06:01,360 --> 00:06:07,998
+does not get enough work. The guy's a good actor.
+And two, the Spectre... is an awesome character.
+
+62
+00:06:08,218 --> 00:06:12,800
+Ever since I saw his DC showcase animated short,
+I've always thought that the Spectre would
+
+63
+00:06:12,840 --> 00:06:18,102
+make for a really good film. For sure, and I
+remember hearing his voice as the Spectre and
+
+64
+00:06:18,142 --> 00:06:22,104
+totally being blown away that it was even Lou
+Diamond Phillips voicing him, because it doesn't
+
+65
+00:06:22,124 --> 00:06:25,985
+really sound like him, but if he can pull off
+that voice for the character of the Spectre
+
+66
+00:06:26,005 --> 00:06:30,427
+as well, yeah, that's just great casting. Great
+answer, Miggy. Our next honorable mention goes
+
+67
+00:06:30,467 --> 00:06:37,574
+to Cyrus Moore, who said, Hi guys, Cyrus Moore
+here, and my answer would be either Shamar
+
+68
+00:06:37,614 --> 00:06:42,995
+Moore for Cyborg or Josh DeMoll from Batman
+the Long Halloween. Those are two actors from
+
+69
+00:06:43,075 --> 00:06:49,177
+animated movies I would love to see in live
+action. Shamar Moore does a great Cyborg voice,
+
+70
+00:06:49,197 --> 00:06:55,099
+but I do think he's a little too old to play
+a Teen Titan personally. I do love Josh DeMoll
+
+71
+00:06:55,399 --> 00:07:00,480
+as Harvey Dent Two-Face though, because honestly
+I thought he nailed the voice performance for
+
+72
+00:07:00,520 --> 00:07:05,141
+the character. And you know, he's a really good
+actor in live action as well. So yeah, I think
+
+73
+00:07:05,181 --> 00:07:09,784
+that would just be. almost perfection. I don't
+know if he's like that great of an actor as
+
+74
+00:07:09,824 --> 00:07:15,087
+you're claiming he is, but he's certainly solid
+enough to pull off the role of Harvey Dent
+
+75
+00:07:15,447 --> 00:07:20,150
+and Two-Face, I agree. You make him sound like
+freaking the next Daniel Day-Lewis or something,
+
+76
+00:07:20,170 --> 00:07:22,972
+the way you're describing him. Perfection, I
+don't know. I don't think I implied that at
+
+77
+00:07:23,052 --> 00:07:28,115
+all. I didn't imply that. I just said he's a
+good actor. No, he could totally pull it off.
+
+78
+00:07:28,395 --> 00:07:33,518
+I could totally see him in that role. And you're
+right, his performance in... Batman the Long
+
+79
+00:07:33,538 --> 00:07:38,100
+Halloween was pretty impressive. He was almost
+unrecognizable voice wise. So great answer,
+
+80
+00:07:38,160 --> 00:07:43,043
+Cyrus. We want to give a quick shout out to
+the other answers. Brandon Estregard, who said
+
+81
+00:07:43,103 --> 00:07:46,685
+Matthew Gray Goobler should play the Riddler.
+That's awesome. The twins, Travis Bailey and
+
+82
+00:07:46,725 --> 00:07:50,627
+Travis Herndon both gave answers. Travis Herndon
+said Keith David should play Tombstone and
+
+83
+00:07:50,647 --> 00:07:55,910
+Travis Bailey said Hailey Steinfeld should play
+Spider-Gwen. Gil Camacho chimed in and said
+
+84
+00:07:55,950 --> 00:08:02,273
+that Naji Jeter should play Miles Morales. Daniel
+Alonso said AJ Locasio should play Gambit.
+
+85
+00:08:02,890 --> 00:08:08,392
+and Colby Hentges said that Laura Bailey should
+play Lois Lane. Those are all great answers.
+
+86
+00:08:08,492 --> 00:08:13,014
+A lot of them didn't get picked because maybe
+the voice actor wasn't a big enough name to,
+
+87
+00:08:13,154 --> 00:08:17,976
+we think, successfully pull the star power necessary
+for that type of character in live action.
+
+88
+00:08:18,396 --> 00:08:23,979
+Yeah, great answers, guys. But the winner of
+this week's no prize is Christopher Minotti,
+
+89
+00:08:24,399 --> 00:08:28,561
+who said, Hi, guys, Christopher Minotti. I know
+a lot of people are probably going to say this,
+
+90
+00:08:28,621 --> 00:08:34,179
+but I want Jen Snackles as Batman. He does a
+great voice for the character in the Tomorrowverse,
+
+91
+00:08:34,779 --> 00:08:41,522
+and he's a great actor as well, having starred
+as Dean Winchester in Supernatural and Soldier
+
+92
+00:08:41,542 --> 00:08:48,405
+Boy in The Boys. I think he could do a great
+job, and yeah, I just think I'd love to see
+
+93
+00:08:48,425 --> 00:08:54,147
+that. Not only do I think that Jensen Ackles
+could pull off a convincing Batman and pull
+
+94
+00:08:54,207 --> 00:08:59,149
+in the crowd necessary for that type of role,
+I'd also like to see him perform against David
+
+95
+00:08:59,189 --> 00:09:04,404
+Cornswat as Superman. Yeah, I mean, we've been
+told that Robert Pattinson is not going to
+
+96
+00:09:04,444 --> 00:09:10,827
+be the Batman in James Gunn's DC Universe. And
+I hear the name Jensen Ackles a lot for who
+
+97
+00:09:10,867 --> 00:09:16,811
+people want to see play Batman. And I would
+not hate that at all. I think the Tomorrowverse
+
+98
+00:09:16,831 --> 00:09:22,994
+has proven that he has a good grasp of the character.
+Yeah, he also played Jason Todd in Batman Under
+
+99
+00:09:23,014 --> 00:09:26,676
+the Red Hood. But now that he's a little bit
+older, yeah, I think he's graduated into the
+
+100
+00:09:26,716 --> 00:09:31,419
+role of Batman for sure. Absolutely. So great
+answer, Christopher Menotti, you win this week's
+
+101
+00:09:31,459 --> 00:09:35,861
+No Prize. If you, the listener, want a shot
+at winning your own No Prize, stay tuned to
+
+102
+00:09:35,901 --> 00:09:40,264
+later on in this episode when we'll be asking
+another Question of the Week. And now that
+
+103
+00:09:40,284 --> 00:09:42,285
+that's done, onto the news.
+
+104
+00:09:47,618 --> 00:09:53,721
+Alright this past week we learned that the Paul
+Bettany Vision Quest series is still on and
+
+105
+00:09:53,741 --> 00:10:00,205
+that it now has a release date set in 2026.
+Marvel has signed Terry Metalis to serve as
+
+106
+00:10:00,245 --> 00:10:05,288
+the showrunner for that series. Who has an impressive
+resume, he's currently the executive producer
+
+107
+00:10:05,408 --> 00:10:12,652
+on Star Trek Picard which has gotten great reviews.
+Now the last time we saw Vision was in WandaVision
+
+108
+00:10:13,232 --> 00:10:19,289
+and at the end of the series the vision manifestation
+that Wanda created disappeared and the real
+
+109
+00:10:19,329 --> 00:10:24,034
+Vision, which had been rebuilt by Sword and
+he was all white in color, he just kind of
+
+110
+00:10:24,074 --> 00:10:29,479
+disappeared to go, I don't know, figure shit
+out. And this Vision series will allegedly
+
+111
+00:10:29,519 --> 00:10:34,764
+take place as he kind of comes back into the
+fold. Yeah, it's kind of in a way a sequel
+
+112
+00:10:34,844 --> 00:10:39,343
+perhaps to Wanda Vision. Yeah, we don't know
+what's going to happen, but one of the most
+
+113
+00:10:39,383 --> 00:10:45,026
+celebrated story arcs from the comics was written
+by Tom King and is about how Vision tries to
+
+114
+00:10:45,066 --> 00:10:50,869
+create his own synthzoid family and try to live
+the normal suburban lifestyle. And WandaVision
+
+115
+00:10:50,889 --> 00:10:55,032
+kind of touched on those themes, but it would
+be kind of interesting to see the Vision Quest
+
+116
+00:10:55,072 --> 00:11:01,155
+series kind of continue that. If you guys haven't
+read Tom King's run on Vision, I highly suggest
+
+117
+00:11:01,175 --> 00:11:06,318
+it. Yeah, won a couple of Eisner Awards, I believe.
+Yeah, it was really good. Really dark. We've
+
+118
+00:11:06,338 --> 00:11:10,060
+been waiting for a release date for this show
+for a while now, you know, ever since 2021,
+
+119
+00:11:10,681 --> 00:11:14,644
+when WandaVision first came out in the middle
+of the pandemic. So it's nice to kind of get
+
+120
+00:11:14,884 --> 00:11:20,228
+that closure that the series is indeed happening
+and it's happening relatively soon in terms
+
+121
+00:11:20,288 --> 00:11:24,491
+of movie and TV production time. Yeah, it's
+one of the MCU's current loose threads that
+
+122
+00:11:24,531 --> 00:11:28,834
+people have definitely been interested in seeing
+be picked up because he's an Avenger, not one
+
+123
+00:11:28,874 --> 00:11:35,566
+of the original Avengers, but he plays an important
+part on the team. Yeah. The first sequel to
+
+124
+00:11:35,626 --> 00:11:40,228
+Wandavision that's coming out later on this
+year though is Agatha All Along, which is the
+
+125
+00:11:40,268 --> 00:11:45,350
+true title of that series. None of the House
+of Harkness or Covenant of Chaos bullshit is
+
+126
+00:11:45,390 --> 00:11:49,772
+just Agatha All Along. All those fake titles
+were part of the marketing, I guess. Just kind
+
+127
+00:11:49,792 --> 00:11:53,534
+of showing like, oh, Agatha's being wacky, she's
+messing with the titles, it was Agatha All
+
+128
+00:11:53,574 --> 00:11:58,256
+Along. Which I do think is a great name. I'm
+hoping each of the episode titles actually
+
+129
+00:11:58,396 --> 00:12:03,070
+are like Covenant of Chaos and House of Harkness
+and stuff like that. I'm hoping Kevin Feige
+
+130
+00:12:03,150 --> 00:12:08,071
+uses that show to explain all of the shittiness
+that's been going on with MCU lately and all
+
+131
+00:12:08,091 --> 00:12:12,793
+the stuff that fans haven't been liking. You'd
+be like, oh, blame Agatha. It was her all along.
+
+132
+00:12:13,353 --> 00:12:16,814
+First of all, you don't know what you're talking
+about. But secondly, that would be funny. It's
+
+133
+00:12:16,854 --> 00:12:21,656
+like, oh, you don't like Secret Invasion. Blame
+Agatha. Oh, you didn't like Modok. Yeah, it
+
+134
+00:12:21,676 --> 00:12:27,197
+was Agatha that did that one. Yep. Bow, the
+god of dumplings. That was actually Agatha.
+
+135
+00:12:29,922 --> 00:12:35,586
+So good. Yeah, Agatha All Along premieres this
+September, and again we'll wait a couple years
+
+136
+00:12:35,646 --> 00:12:39,489
+for Vision Quest. Actually, we don't even know
+if the series is still called Vision Quest
+
+137
+00:12:39,509 --> 00:12:44,573
+because according to Variety, the series is
+still unnamed. So it'll probably be called
+
+138
+00:12:44,793 --> 00:12:48,976
+Vision is what I'm guessing, but definitely
+looking forward to it. And speaking of Vision,
+
+139
+00:12:49,096 --> 00:12:50,737
+that brings us to our question of the week.
+
+140
+00:12:55,150 --> 00:13:02,353
+Who is your favorite robot superhero or villain
+from Marvel or DC and why? A lot of great robot
+
+141
+00:13:02,373 --> 00:13:07,036
+characters out there guys, let's hear your favorite.
+Record your answer at dynamicduel.com by clicking
+
+142
+00:13:07,076 --> 00:13:10,098
+on the red microphone button in the bottom right
+hand corner of the screen which will prompt
+
+143
+00:13:10,118 --> 00:13:14,340
+you to leave us a voicemail. Your message could
+be up to 30 seconds long and don't forget to
+
+144
+00:13:14,380 --> 00:13:18,422
+leave your name in case we include you on the
+podcast. We'll pick our favorite answer and
+
+145
+00:13:18,462 --> 00:13:22,685
+award that person the Dynamic Duel No Prize
+that will post to Instagram. Be sure to answer
+
+146
+00:13:22,705 --> 00:13:24,145
+before June 1st.
+
+147
+00:13:31,502 --> 00:13:35,027
+But I think that does it for all of the news
+for this episode. Now let's move on to the
+
+148
+00:13:35,087 --> 00:13:41,377
+main event, where we review the Marvel Studios
+animated television series X-Men 97.
+
+149
+00:13:56,686 --> 00:14:02,691
+Okay, X-Men 97 is a Marvel television animated
+series created by Bo DeMaio, the continuation
+
+150
+00:14:02,731 --> 00:14:09,577
+of the 1990s X-Men the animated series, which
+ran from 1992 to 1997 and has long been celebrated
+
+151
+00:14:09,617 --> 00:14:15,181
+by fans as one of the greatest superhero cartoons
+ever made. The long awaited questions we all
+
+152
+00:14:15,221 --> 00:14:20,366
+had, especially us 90s kids, was whether this
+new effort could even hope to live up to the
+
+153
+00:14:20,406 --> 00:14:25,302
+original, which was known for being incredibly
+faithful to the source material. and not being
+
+154
+00:14:25,322 --> 00:14:30,164
+afraid to tackle the more weighty themes of
+prejudice and identity. Would this continuation
+
+155
+00:14:30,184 --> 00:14:35,006
+series carry on that level of quality, or would
+it fall short of the lofty standards set by
+
+156
+00:14:35,046 --> 00:14:41,429
+its predecessor? Well, it brings me so much
+unbridled joy to say that not only does X-Men
+
+157
+00:14:41,449 --> 00:14:47,491
+97 rise to the challenge, it clears the bar,
+I think, for animated superhero television.
+
+158
+00:14:48,012 --> 00:14:52,093
+And here's your spoiler warning right up top,
+this is a spoiler review for season 1, so don't
+
+159
+00:14:52,113 --> 00:14:56,496
+even th- think about continuing to listen to
+this episode without watching the show. You
+
+160
+00:14:56,556 --> 00:15:01,799
+don't want to spoil all the greatness in store
+for you, so I would suggest and even demand
+
+161
+00:15:01,879 --> 00:15:06,342
+that you watch the series before continuing
+on. You won't regret it. The show is kind of
+
+162
+00:15:06,362 --> 00:15:11,365
+like the quintessential X-Men experience, I
+think. Oh yeah, I wholeheartedly agree. I loved
+
+163
+00:15:11,465 --> 00:15:16,768
+the show. I remember watching it as a kid in
+the mid-90s, back when I was still a Marvel
+
+164
+00:15:16,808 --> 00:15:22,575
+fan, and I don't remember... too much about
+it. I definitely haven't seen all of the episodes,
+
+165
+00:15:23,075 --> 00:15:29,657
+but just watching this new season, I felt like
+it went way harder than it even needed to because
+
+166
+00:15:29,797 --> 00:15:35,038
+I don't remember like any of the mature topics
+back when I watched it as a kid. And I just
+
+167
+00:15:35,058 --> 00:15:41,780
+have to say, if it was as good and mature and
+relevant back then as it is today, I would
+
+168
+00:15:41,820 --> 00:15:46,358
+not mind like going back and watching all of
+those old seasons with my daughters. Yeah,
+
+169
+00:15:46,378 --> 00:15:50,681
+the first couple of seasons of the 90s show
+were solid. It kind of dropped off a little
+
+170
+00:15:50,701 --> 00:15:57,467
+bit after that. In the series finale for the
+90s show, Professor X gets shot by Henry Guyric
+
+171
+00:15:57,527 --> 00:16:01,670
+and he goes up into space. So this X-Men 97
+series continues right where that one left
+
+172
+00:16:01,730 --> 00:16:05,914
+off, which was really nice. But yeah, you and
+I were six years old when the X-Men animated
+
+173
+00:16:05,954 --> 00:16:11,738
+series first debuted and it was a huge influence
+on us as children, you know, inspiring our
+
+174
+00:16:11,799 --> 00:16:18,391
+love of superheroes until the show ended when
+we were 11. Like I remember turning on X-Men
+
+175
+00:16:18,471 --> 00:16:23,894
+every Saturday morning on Fox Kids with our
+breakfast cereal in our lap. All the kids back
+
+176
+00:16:23,934 --> 00:16:28,376
+then watched the X-Men television show. And
+I remember we used to play X-Men on the playground
+
+177
+00:16:28,396 --> 00:16:34,000
+with the other boys. The kid with glasses was
+always Cyclops. And I liked pretending to be
+
+178
+00:16:34,040 --> 00:16:39,062
+Wolverine or Bishop or Gambit. And I think you
+used to like to be Professor X because you
+
+179
+00:16:39,082 --> 00:16:44,145
+could just say like, I shut down your mind to
+everyone no matter what. No, I was Colossus,
+
+180
+00:16:44,185 --> 00:16:50,800
+bro. I was classes. Okay. It's good times, though.
+I completely tried to put aside all the nostalgia
+
+181
+00:16:50,940 --> 00:16:54,702
+while reviewing this series, although I will
+say there was something magical about hearing
+
+182
+00:16:54,722 --> 00:17:00,905
+that opening theme once again for like a new
+episode. It was just it was so bizarre, very
+
+183
+00:17:00,945 --> 00:17:05,927
+surreal with that nostalgia kick. Oh, yeah.
+I didn't skip a single intro. Like it gave
+
+184
+00:17:05,967 --> 00:17:12,194
+me the option to skip intro and I was like,
+no, I'm enjoying this. I will say that the
+
+185
+00:17:12,234 --> 00:17:15,877
+nostalgia wasn't that heavy though. I mean,
+like the show certainly evokes a sense of nostalgia,
+
+186
+00:17:15,897 --> 00:17:21,662
+but like not as much as you'd think. Considering
+this X-Men 97 series feels pretty modern and
+
+187
+00:17:21,742 --> 00:17:26,466
+upgraded from the animation styles we had back
+in the 90s. It feels like there were two different
+
+188
+00:17:26,506 --> 00:17:30,749
+animation teams working on the show. You know,
+one for the talking stuff and then one for
+
+189
+00:17:30,769 --> 00:17:36,594
+the crazy awesome action stuff with the dynamic
+camera work and the hyper flashy visualizations.
+
+190
+00:17:37,175 --> 00:17:45,742
+I loved the action style of X-Men 97. This was
+a perfect blend of both cerebral writing and
+
+191
+00:17:45,822 --> 00:17:51,026
+kinetic action. It was perfection. Well, I do
+think that the animation could have gone even
+
+192
+00:17:51,247 --> 00:17:55,791
+further. They were largely constrained by the
+animation style of the 90s show, but you could
+
+193
+00:17:55,811 --> 00:18:00,535
+tell they really cut loose during the action.
+Yeah, for sure. But more than the action, I
+
+194
+00:18:00,555 --> 00:18:05,079
+really loved how the series seemed to be targeted
+toward those that enjoyed the original show
+
+195
+00:18:05,119 --> 00:18:09,927
+30 years ago and are now grown-ass adults, like
+us. You know, like not to say that kids couldn't
+
+196
+00:18:09,947 --> 00:18:15,790
+watch X-Men 97, but I would say that because
+it doesn't really hold back in terms of violence
+
+197
+00:18:15,970 --> 00:18:20,734
+and death and you know, even adult relationships
+compared to what you and I were used to seeing
+
+198
+00:18:20,774 --> 00:18:25,296
+back on the Fox Kids channel, I guess I would
+be a little bit hesitant showing this to kids.
+
+199
+00:18:25,316 --> 00:18:30,900
+Like it's not TVMA or anything, I would place
+most of the episodes at probably TV14 and maybe
+
+200
+00:18:31,040 --> 00:18:35,935
+some of the lighter ones at TVY7. I don't know
+if people outside the US know what these ratings
+
+201
+00:18:35,995 --> 00:18:40,837
+mean, but I think basically anyone younger than
+teenagers aren't probably going to get much
+
+202
+00:18:40,877 --> 00:18:45,299
+out of X-Men 97. It might even be put off by
+parts of it. Yeah, again, I don't remember
+
+203
+00:18:45,319 --> 00:18:49,120
+the old show too much, but this definitely felt
+more mature, and I don't know if that's just
+
+204
+00:18:49,140 --> 00:18:55,023
+because I understand more as an adult or not,
+but I definitely do feel like this is the first
+
+205
+00:18:55,063 --> 00:19:01,266
+time I ever saw Wolverine cut into someone human
+and them showing blood as a result. Oh for
+
+206
+00:19:01,286 --> 00:19:05,809
+sure, I mean, Wolverine was notoriously never
+allowed to cut anybody in the 90s cartoon,
+
+207
+00:19:05,849 --> 00:19:10,112
+you know, he always had to go up against robots
+and shit, but never really human beings, because
+
+208
+00:19:10,172 --> 00:19:14,295
+you just couldn't, it would be too violent.
+You know, Stan Lee was famous for wanting to
+
+209
+00:19:14,315 --> 00:19:18,978
+gear his stories for more mature minds and you
+know, John Byrne and Chris Claremont, the famous
+
+210
+00:19:19,098 --> 00:19:23,661
+X-Men writers, were right there with him. I
+think the X-Men and Marvel in general, but
+
+211
+00:19:23,701 --> 00:19:28,765
+the X-Men in particular, were always a little
+more weighty and intense than your standard,
+
+212
+00:19:28,805 --> 00:19:35,307
+you know, super friends fare. Oh, absolutely.
+DC set the bar in terms of targeting children
+
+213
+00:19:35,427 --> 00:19:40,609
+for their animated fare. I don't think it was
+really until Batman the Animated Series and
+
+214
+00:19:40,629 --> 00:19:45,010
+the X-Men Animated Series that things started
+to get a little bit darker, I guess you could
+
+215
+00:19:45,050 --> 00:19:50,292
+say. Yeah, the writing just got better. Comparing
+the writing of the previous cartoons with the
+
+216
+00:19:50,312 --> 00:19:55,927
+writing of an X-Men episode, both the 90s version
+and this show, The X-Men episodes were always
+
+217
+00:19:56,107 --> 00:20:01,571
+inherently weightier than the other cartoons
+because of the heavy themes of prejudice, discrimination,
+
+218
+00:20:01,851 --> 00:20:07,396
+identity, acceptance. You know, you have civil
+rights in there, social justice, trauma. All
+
+219
+00:20:07,436 --> 00:20:12,440
+those ideas are baked into the concept of the
+superpower team that fights for those that
+
+220
+00:20:12,480 --> 00:20:17,044
+hate and fear them. And that's on top of, you
+know, other standard hero themes that you usually
+
+221
+00:20:17,084 --> 00:20:22,608
+get of power and sacrifice. But the X-Men have
+always been more than a power fantasy. They've
+
+222
+00:20:22,648 --> 00:20:28,251
+always had this moral message. And that's what
+makes the X-Men animated series and X-Men 97
+
+223
+00:20:28,311 --> 00:20:33,734
+so great is that they understand that. They
+get that there is a lesson here. Yeah, no,
+
+224
+00:20:33,915 --> 00:20:39,818
+I absolutely appreciate that. I love stories
+with messages. To me, that's what storytelling
+
+225
+00:20:39,958 --> 00:20:46,001
+is all about. And when it comes to this X-Men
+show, like it just feels incredibly relevant
+
+226
+00:20:46,261 --> 00:20:50,931
+right now. As you know, like every day in the
+news we're hearing about Russia and Ukraine
+
+227
+00:20:51,051 --> 00:20:56,453
+or Israel and Hamas or even, you know, Republican
+versus Democrat. Lines are drawn and enemies
+
+228
+00:20:56,473 --> 00:21:01,375
+are declared. But the truth is that every group
+in history has at one point or another been
+
+229
+00:21:01,415 --> 00:21:06,958
+victimized by another group. And what's great
+about the message of the X-Men is that its
+
+230
+00:21:06,998 --> 00:21:12,840
+heroes inspire us not toward defeating those
+we consider our enemies, but toward working
+
+231
+00:21:12,940 --> 00:21:18,335
+with them to build a tolerant future together.
+I think everyone can relate with the X-Men
+
+232
+00:21:18,375 --> 00:21:24,099
+and that's why they're so incredibly popular
+and relevant. Yeah, I mean, DC only wishes,
+
+233
+00:21:24,199 --> 00:21:30,423
+right? I'm sorry, there's no prejudice and the
+DC Universe are better than that. I really
+
+234
+00:21:30,463 --> 00:21:35,586
+hope that however they tackle these X-Men stories
+in the MCU in live action. I hope that the
+
+235
+00:21:35,606 --> 00:21:41,150
+filmmakers remember that the X-Men are more
+than just a power fantasy. And, you know, this
+
+236
+00:21:41,290 --> 00:21:45,274
+X-Men 97 series gives me 100% faith that Marvel
+knows what they're doing with the franchise
+
+237
+00:21:45,294 --> 00:21:51,699
+down the line. Absolutely. Holy cow. If the
+X-Men movie that they make is not as good as
+
+238
+00:21:51,779 --> 00:21:57,644
+this show, I'm gonna kinda be disappointed because
+they set a really, really high bar right out
+
+239
+00:21:57,684 --> 00:22:03,079
+the gate. Beyond the themes though... The X-Men
+97 show, like its predecessor, has some of
+
+240
+00:22:03,099 --> 00:22:08,202
+the most badass, captivating dialogue I've ever
+heard. Like usually the dialogue is the boring
+
+241
+00:22:08,242 --> 00:22:12,464
+stuff in these superhero cartoons, right? But
+like when almost every line is written like
+
+242
+00:22:12,484 --> 00:22:16,807
+a profound piece of poetry, you yearn for the
+boring stuff almost as much as the action.
+
+243
+00:22:17,227 --> 00:22:21,549
+Dude, it's like Shakespeare level good, right?
+Right. Okay, maybe that's an exaggeration.
+
+244
+00:22:21,942 --> 00:22:27,604
+But it's really, really damn good. I love the
+drama of everything. My wife, you know, she
+
+245
+00:22:27,624 --> 00:22:33,247
+caught snippets of this as I was watching it,
+as I was just like riveted by it. And she actually
+
+246
+00:22:33,287 --> 00:22:37,269
+got into it as well. She was like, this is kind
+of like a soap opera. I was like, hell yeah,
+
+247
+00:22:37,289 --> 00:22:43,211
+it is. Yeah. Like, yeah, I'll admit sometimes
+the proceedings can get a little melodramatic,
+
+248
+00:22:43,491 --> 00:22:48,502
+especially the romantic relationship stuff.
+But like as an adult, I don't care. Maybe as
+
+249
+00:22:48,562 --> 00:22:51,743
+a kid I would have cared, but as an adult I
+don't. I'm like, give me that soap opera shit.
+
+250
+00:22:51,863 --> 00:22:57,886
+I crave the drama. Like when Gene caught Scott
+psychically kissing Madeline in his bedroom,
+
+251
+00:22:58,306 --> 00:23:02,148
+I was like shoveling popcorn in my mouth. Like,
+oh damn, I'm gonna be gossiping about this
+
+252
+00:23:02,208 --> 00:23:10,151
+at tea time tomorrow. This is some juicy shit.
+For real, for real. But regarding the dialogue,
+
+253
+00:23:10,451 --> 00:23:14,553
+I just wanna go over some of my favorite lines
+from the show. Kind of like a poetry reading.
+
+254
+00:23:16,938 --> 00:23:23,643
+I am trying to be better, do not make me let
+you down. There is no love without sin, for
+
+255
+00:23:23,703 --> 00:23:30,649
+love is best measured in what we forgive. Every
+moment is a new and shocking evaluation of
+
+256
+00:23:30,709 --> 00:23:39,156
+all we have ever been. Blood is blood, family
+is a choice. Make them mind your weather, sister,
+
+257
+00:23:39,696 --> 00:23:45,271
+and them weather your mind. You best pray our
+children read their textbooks more than their
+
+258
+00:23:45,291 --> 00:23:52,276
+Bibles, for only history could be conned into
+forgiving us. Like who writes this? That's
+
+259
+00:23:52,296 --> 00:23:57,220
+all fantastic. And the best part is that somehow
+it doesn't come across as overwritten either,
+
+260
+00:23:57,540 --> 00:24:02,183
+which shouldn't work for a seeming adolescent
+cartoon, but it does. I'm not gonna lie, as
+
+261
+00:24:02,243 --> 00:24:07,246
+I was watching this, I was kinda hella jealous
+about Marvel's animation.
+
+262
+00:24:12,150 --> 00:24:17,835
+This was way better. I think the only thing
+that could kind of be compared to the X-Men
+
+263
+00:24:17,875 --> 00:24:21,599
+animated series that I know of, because I've
+actually never seen the show, I might be talking
+
+264
+00:24:21,639 --> 00:24:25,442
+out of my ass right now, but what I've heard
+about Young Justice actually comes pretty close
+
+265
+00:24:25,482 --> 00:24:29,566
+to this stuff. Like it also deals with like
+weighty themes and stuff, right? Yeah, yeah,
+
+266
+00:24:29,606 --> 00:24:35,031
+I've seen Young Justice. It is really good,
+especially thematically. But I wouldn't say
+
+267
+00:24:35,051 --> 00:24:40,143
+that the dialogue is as good because you're
+right. It's written in a way that should feel
+
+268
+00:24:40,243 --> 00:24:45,906
+overwritten, but the performances were just
+so good that they totally sold me on every
+
+269
+00:24:45,946 --> 00:24:51,430
+line that they said. There was not a single
+line that I thought was delivered poorly. No,
+
+270
+00:24:51,510 --> 00:24:55,812
+for sure, and we should talk more about the
+actors and characters in our character breakdown.
+
+271
+00:24:55,952 --> 00:25:01,595
+Starting with Cyclops, aka Scott Summers, played
+by Ray Chase, who's not the original voice
+
+272
+00:25:01,635 --> 00:25:06,978
+actor from the 90s. That was Norm Spencer, who
+died in the year 2020. But I think Ray Chase's
+
+273
+00:25:07,018 --> 00:25:11,460
+voice was spot on, I didn't even know it wasn't
+the original voice actor when watching, so
+
+274
+00:25:11,500 --> 00:25:16,803
+kudos to Ray Chase. I loved seeing Cyclops front
+and center with like a whole lot of screen
+
+275
+00:25:16,843 --> 00:25:22,105
+time as not only the team leader of the X-Men,
+but as a character that was vital to the season's
+
+276
+00:25:22,165 --> 00:25:28,368
+narrative. After so many years out of the spotlight
+in the X-Men movies, where he was largely relegated
+
+277
+00:25:28,428 --> 00:25:33,546
+as a side character, it was really nice to see
+Cyclops have his time to shine. Yeah, Cyclops
+
+278
+00:25:33,686 --> 00:25:38,828
+is my favorite X-Men character. I know everyone
+loves Wolverine. I've always been about Cyclops.
+
+279
+00:25:39,048 --> 00:25:43,630
+And yeah, it was really great to see Marvel
+do the character justice in a way that they
+
+280
+00:25:43,730 --> 00:25:48,432
+have never been able to in the movies. Yeah,
+I mean, like a lot of people will say Cyclops
+
+281
+00:25:48,492 --> 00:25:54,375
+is boring, but I think this season in particular
+helped show how these Boy Scout characters
+
+282
+00:25:54,415 --> 00:25:58,917
+like Cyclops, you know, like Captain America,
+and even Superman, they can still be complex
+
+283
+00:25:58,937 --> 00:26:03,683
+while adhering to a set of simple principles.
+Cyclops, you know, he's not a brute like say
+
+284
+00:26:03,723 --> 00:26:09,286
+Wolverine, but that doesn't make him a pushover.
+You know, he's still strong and assertive and
+
+285
+00:26:09,446 --> 00:26:13,789
+really his strength that is in his ability to
+never waver in the face of adversity while
+
+286
+00:26:13,809 --> 00:26:19,912
+convincing other people to do the same and follow
+his lead. Absolutely. Yeah, he is a great example
+
+287
+00:26:20,013 --> 00:26:25,416
+of leadership and a beacon for the rest of the
+X-Men. What's also interesting is that he's
+
+288
+00:26:25,436 --> 00:26:29,870
+still trying to be fully on board with Xavier's
+ideals himself. You know, Cyclops went through
+
+289
+00:26:30,090 --> 00:26:34,351
+a lot this season, dealing with the weight of
+taking over the team, after the loss of his
+
+290
+00:26:34,411 --> 00:26:39,333
+mentor, trying to lead the X-Men to follow Professor
+X's dream, while dealing with his own personal
+
+291
+00:26:39,353 --> 00:26:45,135
+beliefs, you know, his slight lack of idealism,
+and his anger at humanity. You know, tie that
+
+292
+00:26:45,175 --> 00:26:50,796
+into becoming a father, and the emotional hardships
+regarding his infected son, and his cloned
+
+293
+00:26:50,876 --> 00:26:55,394
+wife. Dude went through the emotional wringer
+this season. But it was nice to see him come
+
+294
+00:26:55,414 --> 00:27:00,217
+out the other end, having connected with his
+adult son Cable, and choosing to believe in
+
+295
+00:27:00,317 --> 00:27:05,820
+Xavier's dream of peaceful coexistence by extending
+an olive branch to Bastion in the very last
+
+296
+00:27:05,860 --> 00:27:12,303
+episode. Yeah, what a fantastic arc. Really,
+really solid. He's almost not a static character.
+
+297
+00:27:12,403 --> 00:27:18,106
+I guess he is, but he definitely still has a
+journey that he goes through. Yeah, he kind
+
+298
+00:27:18,146 --> 00:27:24,662
+of discovers his own place amongst Xavier's
+ideals and Magneto's realism, and The comics
+
+299
+00:27:24,682 --> 00:27:29,403
+explores that so much more, especially Cyclops
+within the last decade of X-Men comics. And
+
+300
+00:27:29,423 --> 00:27:33,884
+it'll be interesting to see how the character
+progresses with his arc in subsequent seasons
+
+301
+00:27:34,144 --> 00:27:39,466
+of this animated show. Let's go ahead and move
+on to Jean Grey, who is played by Jennifer
+
+302
+00:27:39,526 --> 00:27:45,548
+Hale, who is new to the series. She replaces
+the original actress, Katherine Disher, who
+
+303
+00:27:45,728 --> 00:27:50,769
+actually voiced Valerie Cooper in this season.
+Now, Jennifer Hale did a good job here. She
+
+304
+00:27:50,829 --> 00:27:55,063
+did... previously voiced Jean in the Wolverine
+and the X-Men cartoon, so she sounds pretty
+
+305
+00:27:55,083 --> 00:27:59,964
+familiar. Jean played largely a supporting role
+to Cyclops Arc, though she certainly went through
+
+306
+00:27:59,984 --> 00:28:05,186
+a lot on her own, you know, discovering that
+she was cloned and that clone bore a child
+
+307
+00:28:05,326 --> 00:28:09,847
+with her husband. Now, you could base an entire
+season on that emotional conflict, but, you
+
+308
+00:28:09,867 --> 00:28:14,969
+know, as being part of an ensemble, surprisingly,
+I still felt the weight of what Jean was going
+
+309
+00:28:14,989 --> 00:28:19,872
+through to the show's credit. In the end, she
+chose to accept her circumstances, you know,
+
+310
+00:28:19,952 --> 00:28:25,977
+empathizing with Madeline Pryor and really embracing
+Cable as her son, who in turn also embraced
+
+311
+00:28:26,077 --> 00:28:31,282
+Jean as his mother. And that all really came
+full circle when she manifested the Phoenix
+
+312
+00:28:31,302 --> 00:28:35,625
+Force again when her son was about to be killed,
+you know, reaching into the deepest part of
+
+313
+00:28:35,666 --> 00:28:40,730
+herself to protect her family, even though he
+wasn't technically her son. Yeah, she went
+
+314
+00:28:40,750 --> 00:28:46,730
+through a really interesting dilemma. Her and
+Scott and Madeline Pryor. It was a weird kind
+
+315
+00:28:46,770 --> 00:28:53,792
+of love triangle because like she was jealous
+of herself in a way because she retained all
+
+316
+00:28:53,832 --> 00:28:58,553
+of the memories of Madeline Pryor even though
+she didn't commit the actions that Madeline
+
+317
+00:28:58,593 --> 00:29:03,495
+Pryor did like give birth to Nathan. It's a
+profound circumstance and I thought they did
+
+318
+00:29:03,555 --> 00:29:08,916
+a great job exploring it with the characters
+of both Jean Grey and Madeline Pryor. Yeah,
+
+319
+00:29:08,936 --> 00:29:14,638
+you really felt for them. Really good stuff.
+Let's go to move on to Magneto. aka Eric Lencher
+
+320
+00:29:14,678 --> 00:29:19,999
+played by Matthew Watterson who was also new
+to the series. He takes over from original
+
+321
+00:29:20,039 --> 00:29:25,941
+voice actor David Hamblin who unfortunately
+also died in 2020. I think Matthew Watterson
+
+322
+00:29:25,961 --> 00:29:30,282
+was spot on in terms of how he sounded. Like
+again, I didn't even know this wasn't the original
+
+323
+00:29:30,362 --> 00:29:35,403
+actor until I looked it up. But the character
+of Magneto was a massive player here taking
+
+324
+00:29:35,464 --> 00:29:40,825
+over the X-Men on behalf of Professor X, trying
+to do things against his standard MO out of
+
+325
+00:29:40,865 --> 00:29:46,412
+respect for his seemingly late friend. He had
+to kind of adopt a new perspective for a time
+
+326
+00:29:46,712 --> 00:29:51,375
+as mutants were starting to become more accepted
+among humanity, only to have that illusion
+
+327
+00:29:51,815 --> 00:29:56,659
+shattered by Genosha's destruction, proving
+to himself that he was right all along, and
+
+328
+00:29:56,699 --> 00:30:02,963
+having his initial belief system reinforced
+that prejudice and otherism will always exist
+
+329
+00:30:02,983 --> 00:30:08,042
+within humanity. I'm not entirely sure that
+he was right. despite the fact that Operation
+
+330
+00:30:08,082 --> 00:30:13,026
+Zero Tolerance was secretly backed by the UN,
+because the UN had no real idea what Bastion
+
+331
+00:30:13,046 --> 00:30:18,929
+was up to. But the problem, I think, with both
+Professor X's and Magneto's viewpoints is that
+
+332
+00:30:18,969 --> 00:30:24,033
+it's nearly impossible to describe humanity
+in general terms. I would say that there were
+
+333
+00:30:24,073 --> 00:30:29,696
+enough Prime Sentinel volunteers to prove Magneto's
+standpoint, and probably enough shock at Bastion's
+
+334
+00:30:29,776 --> 00:30:35,980
+actions to justify Xavier's hope. Yeah, Magneto
+has always been one of the most interesting
+
+335
+00:30:36,080 --> 00:30:41,785
+Marvel villains. You know, people for a while
+were saying Thanos was right in terms of what
+
+336
+00:30:41,825 --> 00:30:48,630
+he did in the MCU films. I don't know about
+that. To me, I think Magneto has always been
+
+337
+00:30:48,670 --> 00:30:53,454
+a character whose actions are more, I don't
+know about justified, but understandable for
+
+338
+00:30:53,494 --> 00:30:59,039
+sure. Yeah, it's just one of the great thought
+experiments that the X-Men poses as a concept.
+
+339
+00:30:59,239 --> 00:31:05,967
+Everyone has the sense of justice within them.
+And I think Magneto really speaks to that as
+
+340
+00:31:06,007 --> 00:31:14,030
+compared to Professor X, who speaks to a sense
+of grace, I would suppose, that's probably
+
+341
+00:31:14,190 --> 00:31:18,892
+not as natural as the sense of justice. You
+really have to fight for that and push for
+
+342
+00:31:18,932 --> 00:31:24,475
+that. So in a way, you could say Magneto is
+more relatable than Professor X, but it would
+
+343
+00:31:24,495 --> 00:31:30,017
+be nice to be as idealistic as Professor X,
+because it's just so much more hopeful. For
+
+344
+00:31:30,057 --> 00:31:35,503
+sure. Yeah. I remember in the comics in the
+90s when Magneto went good for a while and
+
+345
+00:31:35,543 --> 00:31:39,065
+I think he went under the name Joseph. That
+was a clone. Actually, I think that was a clone.
+
+346
+00:31:39,085 --> 00:31:45,468
+Yeah. But I love how this show adapts storylines
+from the X-Men comics and it's always done
+
+347
+00:31:45,488 --> 00:31:50,430
+a great job at that. Yeah, there was definitely
+a time when Magneto was in charge of the X-Men
+
+348
+00:31:50,610 --> 00:31:55,392
+when Professor X was thought to be dead. He
+came around to lead the New Mutants characters
+
+349
+00:31:55,532 --> 00:32:00,854
+shortly after they were introduced. But let's
+go ahead and move on to Bastion. aka Sebastian
+
+350
+00:32:00,894 --> 00:32:07,899
+Gilberty, played by Theo James. Theo James crushed
+it, man. His voice was so unique and terrifying,
+
+351
+00:32:07,959 --> 00:32:12,182
+yet intelligent. I had no idea it was him. And
+like with this performance, I could totally
+
+352
+00:32:12,242 --> 00:32:17,186
+honestly see him playing the character in live
+action if the MCU ever goes with Bastion as
+
+353
+00:32:17,226 --> 00:32:23,050
+a villain. Dude, I didn't know this was Theo
+James. I thought it was recognizable. Motivation-wise,
+
+354
+00:32:23,270 --> 00:32:28,786
+Sebastian is not terribly complex. He wants
+to destroy mutants because he was born. part
+
+355
+00:32:28,926 --> 00:32:33,388
+sentinel, essentially, which is a change from
+the source material where he's the techno-organic
+
+356
+00:32:33,468 --> 00:32:38,470
+fusion of Nimrod and Mastermold, but I actually
+liked his origin more here because it made
+
+357
+00:32:38,630 --> 00:32:44,172
+more sense having him as a human-sentinel hybrid
+than having him just manifest through a magical
+
+358
+00:32:44,212 --> 00:32:51,855
+portal. Yeah, I agree with that. Having him
+grow up different in the same way that mutants
+
+359
+00:32:51,875 --> 00:32:59,091
+do, but also very much pro-humanities side was...
+Very, very interesting. I think they did a
+
+360
+00:32:59,151 --> 00:33:03,835
+great job adapting that. Yeah, it was a dichotomy
+that existed with his own mind because he hated
+
+361
+00:33:03,915 --> 00:33:08,540
+mutants, but he also struggled with humanity.
+You know, he was seen as different by humans.
+
+362
+00:33:08,600 --> 00:33:13,424
+He had abilities. And he was even considered
+for inclusion with the original X-Men, though
+
+363
+00:33:13,444 --> 00:33:18,228
+his mother denied it. Ultimately, he belonged
+with neither humans nor mutants. And by the
+
+364
+00:33:18,308 --> 00:33:23,873
+end, he was content to destroy them all, given
+that he probably already likely felt very alone.
+
+365
+00:33:24,310 --> 00:33:28,993
+He rejected the X-Men's offer for mercy at the
+end, being far too cynical that he and mutants
+
+366
+00:33:29,013 --> 00:33:33,636
+would ever be accepted, essentially being proven
+right in his last moments when the Magneto
+
+367
+00:33:33,676 --> 00:33:38,339
+protocols were implemented. You know, his last
+lines were, humanity would rather die than
+
+368
+00:33:38,379 --> 00:33:44,824
+have kids like us. So he's just a tragic figure
+who was just terribly fascinating. My major
+
+369
+00:33:44,884 --> 00:33:51,548
+gripe with this show was that they introduced
+Bastion way too late. That's true. That's true.
+
+370
+00:33:51,568 --> 00:33:55,271
+I mean, he was like working behind the scenes.
+but you're right, he wasn't introduced until
+
+371
+00:33:55,291 --> 00:33:59,295
+the latter half of the season. But I also kind
+of like that, you know, he kind of came out
+
+372
+00:33:59,335 --> 00:34:03,919
+of nowhere to be this powerful influence. Yeah,
+I mean, the show definitely didn't suffer from
+
+373
+00:34:03,999 --> 00:34:09,124
+any kind of lack of conflict throughout the
+whole season, but I think I would have liked
+
+374
+00:34:09,204 --> 00:34:14,829
+to have felt Bastion's influence a little bit
+earlier. Not just with the Sentinels, but him
+
+375
+00:34:14,909 --> 00:34:20,120
+specifically. Let's go ahead and move on to
+Storm, aka Aurora Monroe, who is played by
+
+376
+00:34:20,200 --> 00:34:25,364
+Alice in Seelie Smith. Now she is the original
+actress from the 90s show. And Alice in Seelie
+
+377
+00:34:25,404 --> 00:34:30,067
+Smith's take on the character was always more
+grandiose and operatic than I ever thought
+
+378
+00:34:30,087 --> 00:34:33,969
+the character needed to be. And that's an issue
+that I had with Storm's characterization even
+
+379
+00:34:33,989 --> 00:34:38,713
+from the 90s. You know, they really leaned heavily
+into the goddess perspective where she was
+
+380
+00:34:38,813 --> 00:34:43,556
+once worshipped in Africa as a weather controlling
+deity. But since her time with the X-Men, I
+
+381
+00:34:43,576 --> 00:34:48,520
+always read Storm in the comics as a little
+bit more approachable, I guess. I just imagine
+
+382
+00:34:48,560 --> 00:34:54,525
+it would be hard to communicate with Storm from
+the cartoon because she's so theatrical. Yeah,
+
+383
+00:34:54,645 --> 00:35:00,631
+I guess. Although I don't hate that interpretation
+of her character, I think I certainly prefer
+
+384
+00:35:00,651 --> 00:35:06,476
+it more than the movie versions that we've received.
+Oh, for sure. And, you know, you could argue
+
+385
+00:35:06,536 --> 00:35:11,981
+that she wasn't too hard to talk to considering
+the relationship she had with Jean Grey, which-
+
+386
+00:35:12,330 --> 00:35:17,292
+I thought was great. They definitely seemed
+like really close friends. Yeah, I think the
+
+387
+00:35:17,352 --> 00:35:21,874
+perfect storm lies somewhere in between this
+cartoon version of Storm and the movie Storm.
+
+388
+00:35:22,814 --> 00:35:26,976
+There's got to be a balance there, I think.
+She was definitely humbled this season. Oh
+
+389
+00:35:27,016 --> 00:35:31,638
+yeah, I liked Storm's arc here. It was basically
+the life-death arc from the comics where she
+
+390
+00:35:31,718 --> 00:35:36,980
+temporarily lost her powers due to a weapon
+created by Forge and she had to re-examine
+
+391
+00:35:37,000 --> 00:35:41,866
+and redefine herself as a human for a time.
+It's a quintessential arc for her character
+
+392
+00:35:41,906 --> 00:35:46,489
+from the comics and you know it's an easy go-to
+for character building. She basically learns
+
+393
+00:35:46,509 --> 00:35:51,212
+that she doesn't have to fear being a human
+or a mutant and she can overcome her fear to
+
+394
+00:35:51,252 --> 00:35:55,894
+embrace who she is regardless. The scene right
+after she lost her power when she's in her
+
+395
+00:35:55,934 --> 00:36:02,298
+room and she's frightened by a lightning strike
+outside was so profound to me. Like that's
+
+396
+00:36:02,338 --> 00:36:08,834
+right she probably has never encountered weather
+that she couldn't control. I don't know if
+
+397
+00:36:08,854 --> 00:36:13,558
+that scene was from the comics, but I loved
+it. I don't know if it's from the comics, but
+
+398
+00:36:14,158 --> 00:36:19,763
+it was a quiet, profound moment that I really
+loved for sure. And her letter to Jean was
+
+399
+00:36:19,803 --> 00:36:24,807
+so well written, too. Like the X-Men are incredible
+writers. Let me just say, like Nightcrawler's
+
+400
+00:36:24,867 --> 00:36:31,833
+eulogy for Gambit. Oh, dude. Holy shit, man.
+I just want a series of Nightcrawler performing
+
+401
+00:36:31,893 --> 00:36:36,417
+at like living funerals or something like that,
+just breaking down all these heroes to their
+
+402
+00:36:36,477 --> 00:36:42,133
+core. and just explaining what makes them so
+special and stuff like that. It was so touching
+
+403
+00:36:42,573 --> 00:36:48,257
+and yet still managed to incorporate so many
+gambling and card playing terms. But I was
+
+404
+00:36:48,277 --> 00:36:52,840
+like, holy shit, get this guy a Pulitzer in
+terms of like obituaries, because that was
+
+405
+00:36:52,860 --> 00:36:57,803
+a masterpiece. For sure. Yeah. All the X-Men
+need to quit their day jobs and become writers,
+
+406
+00:36:57,923 --> 00:37:01,946
+I guess. See, if it was me, I would have just
+been like, you got to know when to hold them.
+
+407
+00:37:02,446 --> 00:37:09,530
+You got to know when to fold them. Not Nightcrawler.
+He's above that. Yeah. Let's go ahead and move
+
+408
+00:37:09,590 --> 00:37:15,292
+on to Rogue, AKA Anna Marie, played by Lenore
+Zan. And she is the original actress here.
+
+409
+00:37:15,352 --> 00:37:19,893
+And that was very clear. It was like, oh, this
+is just, you know, the older version of Rogue.
+
+410
+00:37:20,053 --> 00:37:25,635
+If anything, I think Lenore Zan's voice sounded
+too old to me. I guess it didn't matter because
+
+411
+00:37:25,695 --> 00:37:30,036
+I did become more accustomed to it as the show
+went on. But for a long time there, I was like,
+
+412
+00:37:30,117 --> 00:37:36,139
+Rogue really needs to stop smoking. Yeah. I
+will agree with that. Although to be fair,
+
+413
+00:37:36,419 --> 00:37:42,202
+maybe she's older than we thought she was, considering
+the fact that she did have a relationship with
+
+414
+00:37:42,282 --> 00:37:49,727
+Magneto, who also was like way too old to be
+in the show if he was a Holocaust survivor.
+
+415
+00:37:50,227 --> 00:37:54,089
+Yeah, well you would think that he was born
+in the mid-30s and this show takes place in
+
+416
+00:37:54,289 --> 00:38:00,012
+the year 1997, so he's got to be like mid-60s
+here. And I'm guessing that when he and Rogue
+
+417
+00:38:00,032 --> 00:38:05,872
+had their thing, she must have been really young.
+18, 19, late teens, maybe early 20s. That all
+
+418
+00:38:05,912 --> 00:38:11,417
+being said, Rogue had so much to do in this
+season. You know, in the comics, like we said
+
+419
+00:38:11,477 --> 00:38:17,962
+earlier, Magneto had a clone named Joseph and
+she had a fling with him for a time in the
+
+420
+00:38:18,002 --> 00:38:22,346
+books. I like how they brought elements of that
+here, where she had the secret past with Magneto
+
+421
+00:38:22,506 --> 00:38:26,869
+and that instantly brought attention to her
+relationship with Gambit, whom she loves, but
+
+422
+00:38:26,990 --> 00:38:32,702
+unlike Magneto, she can never touch. It just
+drips with drama. And I'm here for it. especially
+
+423
+00:38:33,102 --> 00:38:38,704
+as she weighed her options in ruling alongside
+Magneto. In her heart, she longed to make a
+
+424
+00:38:38,744 --> 00:38:44,647
+difference in that global way. But also in her
+heart, she truly loved Gambit more. And in
+
+425
+00:38:44,667 --> 00:38:50,889
+the end, she did choose to be with Gambit right
+before his tragic death, which, holy shit,
+
+426
+00:38:50,909 --> 00:38:56,952
+man, that was heartbreaking. I did not see that
+coming. That really pumped up the stakes for
+
+427
+00:38:57,012 --> 00:39:02,274
+this series. I was like, holy cow, if Gambit
+could die, is anyone safe? Yeah, anybody could
+
+428
+00:39:02,294 --> 00:39:08,156
+die. Yeah. Friggin' Leech! I know. How could
+you kill Leech, man? He's such an innocent
+
+429
+00:39:08,196 --> 00:39:12,818
+character. And that's just part of the whole
+tragedy of the attack on Genosha. Yeah, yeah,
+
+430
+00:39:12,838 --> 00:39:19,381
+that was super tragic. From that moment, Rogue's
+arc was about revenge, which reaches its climax,
+
+431
+00:39:19,421 --> 00:39:24,984
+I think, when she seemingly kills Bolliver Trask,
+which was shocking, but I wouldn't say it's
+
+432
+00:39:25,184 --> 00:39:29,822
+necessarily out of character for Rogue, considering
+she used to be a villain. and she was acting
+
+433
+00:39:29,882 --> 00:39:34,066
+out of tremendous grief, having lost two men
+she loved. And also, you know, Bolivar Trask
+
+434
+00:39:34,086 --> 00:39:37,809
+was about to commit suicide anyway. And also
+he didn't really die because he was a prime
+
+435
+00:39:37,829 --> 00:39:44,135
+sentinel. But it was a fascinating character
+moment in the moment. I that felt very out
+
+436
+00:39:44,155 --> 00:39:51,021
+of character to me. And I for a time was wondering
+if she was being manipulated by Sinister or
+
+437
+00:39:51,101 --> 00:39:56,245
+by Bastion, but I guess not. I mean, it was
+interesting to also get the reactions of the
+
+438
+00:39:56,405 --> 00:40:02,096
+X-Men. You had Nightcrawler who was completely
+shocked and totally against what Rogue had
+
+439
+00:40:02,116 --> 00:40:05,839
+just done. And then you have someone like Wolverine
+who was like, she just did what we were all
+
+440
+00:40:05,979 --> 00:40:10,822
+wanting to do, you know? Kind of ran the gamut
+in terms of approval. But yeah, if you read
+
+441
+00:40:10,842 --> 00:40:14,164
+the comics, I think you'd find that it wasn't
+necessarily too out of character for Rogue.
+
+442
+00:40:14,424 --> 00:40:18,146
+Again, she did used to be a villain. She was
+raised by Mystique. She's no Boy Scout. We'll
+
+443
+00:40:18,166 --> 00:40:23,729
+say that. Okay. Let's go ahead and move on to
+Wolverine, aka Logan, who was played by Cal
+
+444
+00:40:23,789 --> 00:40:29,801
+Dodd. the one and only Cal Dodd. He will always
+be the voice in my head when I think of Wolverine.
+
+445
+00:40:30,201 --> 00:40:33,883
+Although he didn't get a whole lot to do here.
+Outside of some awesome action scenes, he really
+
+446
+00:40:34,003 --> 00:40:37,986
+only served to add some additional drama to
+the Gene and Scott situation. But you know
+
+447
+00:40:38,006 --> 00:40:42,408
+what? I liked that he kind of took a backseat
+to let the other X-Men shine. Yeah, I think
+
+448
+00:40:42,488 --> 00:40:48,992
+fans of the character got what they wanted from
+the character. It blew my mind that they incorporated
+
+449
+00:40:49,032 --> 00:40:53,846
+the fatal attraction story arc from the comics.
+where Magneto ripped the adamantium from Wolverine's
+
+450
+00:40:53,886 --> 00:40:59,348
+bones. Yeah. I did not see that coming. In the
+comics in the aftermath of that event, Wolverine
+
+451
+00:40:59,368 --> 00:41:03,469
+underwent this sort of physical trauma that
+left him more feral looking. And of course,
+
+452
+00:41:03,509 --> 00:41:07,070
+you know, he had the bone claws and stuff like
+that. I wonder if they're going to go with
+
+453
+00:41:07,110 --> 00:41:12,691
+that look for next season. I could see them
+going with the bone claws. I'm not 100% sure
+
+454
+00:41:12,731 --> 00:41:18,133
+about the whole feral look because he looked
+a lot like a shaved beast to me during that
+
+455
+00:41:18,273 --> 00:41:23,483
+era of the X-Men. Yeah. I didn't love it. Yeah,
+it was an ass look. Let's be honest. It's like
+
+456
+00:41:23,663 --> 00:41:30,125
+Superman with long hair. It just is not right.
+Let's go ahead and move on to Jubilee, aka
+
+457
+00:41:30,165 --> 00:41:34,867
+Jubilation Lee, who was played by Holly Chow,
+who was a new actress taking over from Alice
+
+458
+00:41:34,887 --> 00:41:39,809
+in Court, who voiced the character in the 90s
+series. Though Alice in Court did play a role
+
+459
+00:41:39,849 --> 00:41:46,132
+here. She played Epsisa, who is the future version
+of Jubilee. I thought it was a spot on performance
+
+460
+00:41:46,172 --> 00:41:51,494
+by Holly Chow. I think she sounded just like
+Alice in Court Jubilee's arc largely dealt
+
+461
+00:41:51,554 --> 00:41:54,916
+with her relationship with Sunspot. You know,
+she spent most of the time trying to convince
+
+462
+00:41:54,956 --> 00:41:59,499
+him to accept his mutant self and teach him
+what it means to be an X-Man. Beyond that,
+
+463
+00:41:59,539 --> 00:42:04,221
+she did get a nice half episode to herself in
+Mojoverse, where she learned that life can't
+
+464
+00:42:04,241 --> 00:42:09,664
+be all fun and games, which was a good moment
+of growth for her, especially on her 18th birthday.
+
+465
+00:42:09,684 --> 00:42:15,047
+I thought it was really cool how she saw like
+the full potential of her power through her
+
+466
+00:42:15,087 --> 00:42:20,950
+future self. I think that definitely helped
+in the end fight. And yeah, for a character
+
+467
+00:42:20,970 --> 00:42:25,652
+that's always seemed kind of weak with just,
+you know, shooting fireworks this season definitely
+
+468
+00:42:25,692 --> 00:42:30,335
+showed how powerful a character like her can
+be. I mean, we've all been shot with a Roman
+
+469
+00:42:30,355 --> 00:42:34,797
+candle, right? We've all had a firework go off
+in our hands. Like Jubilee is not that powerful.
+
+470
+00:42:34,837 --> 00:42:39,919
+But when she does shit like that spiraling,
+whirling firework that cut through the sentinel
+
+471
+00:42:39,939 --> 00:42:43,401
+and everything like that, that was pretty bad
+ass. That was cool. She definitely got a power
+
+472
+00:42:43,441 --> 00:42:49,299
+upgrade. Yeah. Let's move on to Beast aka Hank
+McCoy who is played by George Buzza who is
+
+473
+00:42:49,499 --> 00:42:53,560
+the one and only George Buzza. He's so good
+in this role. He is the voice that I always
+
+474
+00:42:53,580 --> 00:42:57,582
+hear when I think of the Beast character. He
+was a minor character too this season but like
+
+475
+00:42:57,622 --> 00:43:01,343
+everyone else he got his own moments in the
+spotlight doing science stuff like determining
+
+476
+00:43:01,383 --> 00:43:06,224
+which gene was real or developing the headband
+that stopped the Prime Sentinels. Beast is
+
+477
+00:43:06,244 --> 00:43:12,812
+a great character. Moving on to Gambit aka Remy
+LeBeau. He was played by AJ Locascio, who is
+
+478
+00:43:12,892 --> 00:43:18,596
+new in the role, taking over from Chris Potter,
+who actually did the voice of Cable. And Chris
+
+479
+00:43:18,656 --> 00:43:22,299
+Potter sounded exactly like Josh Brolin in the
+role of Cable. So I thought that was pretty
+
+480
+00:43:22,500 --> 00:43:27,564
+interesting. Yeah. AJ Locascio was a great replacement.
+I think he sounded a lot like the version of
+
+481
+00:43:27,584 --> 00:43:32,888
+the character in the 90s show. He also didn't
+have a lot to do this season. But one could
+
+482
+00:43:32,948 --> 00:43:38,813
+also say that he had the biggest moment of the
+season when he died saving Genosha. Yeah, sacrificing
+
+483
+00:43:38,853 --> 00:43:46,228
+himself. to destroy that giant three-headed
+master mold was so unbelievably epic and touching.
+
+484
+00:43:46,548 --> 00:43:52,951
+I don't know what else to say about it other
+than one for me and one for my homie. I didn't
+
+485
+00:43:53,011 --> 00:43:57,213
+actually spill something on the ground because
+I don't want to ruin my floor. Well, that's
+
+486
+00:43:57,233 --> 00:44:00,974
+just incredibly insincere then. I think you
+should actually spill something on your floor.
+
+487
+00:44:00,994 --> 00:44:06,717
+It's all right. It does look like Gambit's gonna
+come back next season as Apocalypse's horseman
+
+488
+00:44:06,737 --> 00:44:12,576
+of death, according to the mid-credits scene.
+that we had. What? Which is- There was a mid-credits
+
+489
+00:44:12,596 --> 00:44:17,921
+scene? Yeah. Fuck! You didn't see it? No. Yeah,
+there was a mid-credits scene with Apocalypse
+
+490
+00:44:18,021 --> 00:44:22,645
+and he's going through the ruins of Genosha
+and he is talking about how there was so much
+
+491
+00:44:22,905 --> 00:44:29,811
+death and he like emphasizes death as he's holding
+one of Gambit's playing cards. Oh, dude. I
+
+492
+00:44:29,851 --> 00:44:33,594
+wish I would have seen that. I need to go back
+and watch that because that just sounds awesome.
+
+493
+00:44:34,074 --> 00:44:38,177
+Yeah, it's great because Gambit actually was
+the horseman of death in the comics for a time.
+
+494
+00:44:38,682 --> 00:44:43,766
+And you know, he's too good of a character to
+leave dead. So absolutely. I'm super happy
+
+495
+00:44:43,806 --> 00:44:50,192
+he's coming back. Nice. Well done, Marvel. Holy
+shit. Let's go to move on to Morph, AKA Kevin
+
+496
+00:44:50,252 --> 00:44:55,777
+Sidney, played by J.P. Karliak, who is new in
+the role. He was previously voiced by Robin
+
+497
+00:44:55,837 --> 00:45:01,150
+Rubin in the 90s, who actually does the voice
+of President Robert Kelly in the show. Morph
+
+498
+00:45:01,170 --> 00:45:05,811
+was an entirely different character this season
+from the 90s, but I like how they based his
+
+499
+00:45:05,911 --> 00:45:10,772
+new look off of the Exiles comics version, which
+was this more neutral looking figure. In the
+
+500
+00:45:10,812 --> 00:45:15,674
+original 90s show, Morph was based off of the
+character of Changeling, but Morph was never
+
+501
+00:45:15,734 --> 00:45:20,795
+really in the mainstream Marvel universe until
+the Exiles comic books. They made him non-binary
+
+502
+00:45:20,815 --> 00:45:24,417
+in the show, which totally I think makes sense
+for Morph. He actually stood out more to me
+
+503
+00:45:24,597 --> 00:45:29,787
+in X-Men 97 than he ever did in the 90s show,
+I think. He didn't have too much to do outside
+
+504
+00:45:29,987 --> 00:45:33,469
+of his friendship with Wolverine, but they have
+a great friendship and that goes back to the
+
+505
+00:45:33,509 --> 00:45:39,554
+90s show. And I like how they gave a great moment
+of closure with Morph and Mr. Sinister. I loved
+
+506
+00:45:39,614 --> 00:45:43,056
+seeing all of the different transformations
+that Morph had throughout this season, not
+
+507
+00:45:43,176 --> 00:45:49,460
+only as different X-Men like Magic, but also
+like the Hulk. That was wild. That was crazy.
+
+508
+00:45:49,621 --> 00:45:55,845
+Yeah, he was kind of like a cameo machine. He
+played Archangel, Blob, Lady Deathstrike, Colossus,
+
+509
+00:45:55,965 --> 00:46:02,522
+Psylocke. Sabertooth, Quicksilver, Juggernaut,
+like you said, the Hulk, Sauron. Oh, Mr. Fantastic
+
+510
+00:46:02,542 --> 00:46:07,086
+was the other one. That was outside of the X-Men.
+It was awesome. It was really cool. For some
+
+511
+00:46:07,106 --> 00:46:11,410
+reason, I always forgot that he was able to
+do that. So sometimes I would just randomly
+
+512
+00:46:11,430 --> 00:46:15,473
+see a character and be like, oh, where did they
+come from? Only to realize it was more, it
+
+513
+00:46:15,493 --> 00:46:20,298
+was fun to watch. Let's go to move on to the
+final character to discuss, of course, Professor
+
+514
+00:46:20,498 --> 00:46:28,363
+X, aka Charles Xavier, played by Ross from John
+Kolikos who was another voice actor that died
+
+515
+00:46:28,463 --> 00:46:35,126
+in 2020. Dude, 2020 was a horrible year! Well,
+for many reasons, but yeah, especially for
+
+516
+00:46:35,246 --> 00:46:40,608
+the X-Men voice actors. Ross Marquand has now,
+I think, cemented himself as the greatest impressionist
+
+517
+00:46:40,648 --> 00:46:44,550
+of all time because holy shit, I didn't even
+realize that was him. I thought it was the
+
+518
+00:46:44,570 --> 00:46:49,972
+original voice actor. Not only can Ross mimic
+voices to near perfection, but he also retains
+
+519
+00:46:50,012 --> 00:46:54,974
+all the nuance and the depth of the voice through
+his acting. It's incredible. Honestly, is this
+
+520
+00:46:54,994 --> 00:47:02,162
+the same guy who replaced Hugo weaving as Red
+Skull? Yes, in Avengers Endgame. Damn crazy.
+
+521
+00:47:02,582 --> 00:47:06,606
+He's like a real life morph. Yeah, he is. He
+probably could have done more of the voice,
+
+522
+00:47:06,626 --> 00:47:11,952
+too. But Professor X shows up later in the season,
+abandoning his life in space to be with his
+
+523
+00:47:12,132 --> 00:47:16,003
+X-Men when they need him the most. I thought
+it was nice that he was gone for a time because
+
+524
+00:47:16,023 --> 00:47:20,787
+it let the team grow in an organic way, especially
+with their former sworn enemy, Magneto as the
+
+525
+00:47:20,827 --> 00:47:25,451
+new leader. But when he came back, I thought
+it was just, it was epic. I often find Professor
+
+526
+00:47:25,591 --> 00:47:30,295
+X a little bit too idealistic for his own good,
+but I will say that he is always inspiring.
+
+527
+00:47:30,695 --> 00:47:36,220
+You need someone like that, though. Yeah. I've
+always loved the dichotomy between Professor
+
+528
+00:47:36,400 --> 00:47:41,484
+X and Magneto. You know, they're often compared
+to Martin Luther King and Malcolm X, but I
+
+529
+00:47:41,524 --> 00:47:46,471
+also love that they're like best friends. Like
+despite their ideological differences, Charles
+
+530
+00:47:46,491 --> 00:47:51,473
+will always fight for Magneto. They're just
+iconic in that way. They're one of literature's
+
+531
+00:47:51,493 --> 00:47:56,195
+great characters, honestly. Yeah, I will not
+disagree with that. What was nice this season
+
+532
+00:47:56,375 --> 00:48:00,737
+was that we finally got to see Professor X cut
+loose with his powers. Like we did hear when
+
+533
+00:48:00,757 --> 00:48:05,018
+he took over Magneto's mind, that moment where
+they're like clashing against each other face
+
+534
+00:48:05,038 --> 00:48:10,181
+to face, two Titans going head to head. I thought
+that was just awesome. But that covers all
+
+535
+00:48:10,221 --> 00:48:13,800
+the main characters. So let's go ahead and discuss.
+the episode highlights.
+
+536
+00:48:21,166 --> 00:48:26,830
+Our fantasies collide and heroes clash. One
+Podcast Network rises above the rest. Prepare
+
+537
+00:48:26,850 --> 00:48:32,575
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+538
+00:48:32,635 --> 00:48:38,400
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+539
+00:48:38,920 --> 00:48:45,033
+Dynamic Duel, where comic books clash. Smash
+every Tuesday, Max Destruction, where TV and
+
+540
+00:48:45,114 --> 00:48:51,440
+action heroes battle every Wednesday, and Sendro
+World, where anime champions clash every Thursday.
+
+541
+00:48:51,941 --> 00:48:56,966
+Join us as we speculate on the matches and,
+armed with the power of mathematical simulations,
+
+542
+00:48:57,186 --> 00:49:04,093
+discover who will emerge victorious. Visit dynamicpodcast.com
+where we settle the debate and settle the score.
+
+543
+00:49:08,618 --> 00:49:14,262
+Episode 1 was called To Me, My X-Men. A year
+after Professor X's assumed death, the X-Men
+
+544
+00:49:14,282 --> 00:49:19,365
+continue fighting for his dream of peaceful
+mutant and human coexistence. Led by Cyclops,
+
+545
+00:49:19,385 --> 00:49:24,407
+the team save Sunspot from the Friends of Humanity
+anti-mutant group who have acquired sentinel
+
+546
+00:49:24,447 --> 00:49:29,470
+technology. The team probes Henry Geirich's
+mind to learn the location of Bolivar Trask,
+
+547
+00:49:29,590 --> 00:49:34,833
+the creator of the Sentinels. The X-Men travel
+there and destroy all the Sentinels and Mastermold
+
+548
+00:49:35,294 --> 00:49:40,235
+and remit Trask into UN custody. Cyclops and
+Jean Grey announce they're leaving the team
+
+549
+00:49:40,275 --> 00:49:45,236
+due to Jean's pregnancy, but they're interrupted
+by Magneto, who reveals that Professor X left
+
+550
+00:49:45,256 --> 00:49:51,078
+him the Xavier Institute in his will. Uh, we
+haven't talked about Roberto da Costa, but
+
+551
+00:49:51,358 --> 00:49:55,980
+damn he was annoying. I think we've talked a
+few times when doing reviews about characters
+
+552
+00:49:56,100 --> 00:50:00,241
+who we know are heroes who spend a majority
+of their runtime not wanting to be heroes.
+
+553
+00:50:00,581 --> 00:50:04,482
+That was definitely the case with Sunspot. It
+was nice in the end to see him come into his
+
+554
+00:50:04,602 --> 00:50:08,504
+own in his battle against Bastion, but it took
+a hell of a long time for him to get there.
+
+555
+00:50:08,704 --> 00:50:13,966
+Yeah, to me, he was really just there as someone
+for the character of Jubilee to play off of.
+
+556
+00:50:14,367 --> 00:50:19,869
+I don't know if it needed to be Robert da Costa.
+I think I would rather see him appear along
+
+557
+00:50:19,909 --> 00:50:24,591
+with the other new mutants at some point. Yeah,
+I really didn't care for any time he was on
+
+558
+00:50:24,651 --> 00:50:29,933
+screen. I'll say, though, that his scene with
+Jubilee dancing in the club was pretty surreal.
+
+559
+00:50:30,402 --> 00:50:35,623
+There were a few dance scenes within the course
+of this show that went on for a while. They
+
+560
+00:50:35,643 --> 00:50:40,225
+were stylistic, but it felt very 90s, you know.
+That being said, I always like when mutants
+
+561
+00:50:40,365 --> 00:50:45,187
+use their abilities outside of fighting bad
+guys and, you know, letting off sparks while
+
+562
+00:50:45,227 --> 00:50:50,168
+dancing at a nightclub seems like a great use
+of power for sure. Yeah, Jubilee could change
+
+563
+00:50:50,188 --> 00:50:56,283
+her name to Raver and that'd be okay. Dude,
+the action scene at the end of this episode
+
+564
+00:50:56,303 --> 00:51:00,425
+when they're going up against the sentinels,
+everything from when the blackbird gets destroyed
+
+565
+00:51:00,605 --> 00:51:04,647
+and they're all finding ways to land safely
+on the ground, including Cyclops who uses his
+
+566
+00:51:04,807 --> 00:51:10,730
+optic blasts to cushion his landing and everything
+like that. I squealed. I was so happy. It was
+
+567
+00:51:10,790 --> 00:51:16,472
+everything I've ever wanted to see, ever. I
+was so pumped. It was a great scene. The only
+
+568
+00:51:16,492 --> 00:51:21,143
+thing that would have made it better is if it
+was in live action. I still get the whole Cyclops
+
+569
+00:51:21,243 --> 00:51:28,086
+using his power to land safely. He was falling
+really fast. Well, if you were holding a fire
+
+570
+00:51:28,126 --> 00:51:32,729
+hose and you were falling from the sky and you
+shot the fire hose at the ground, would it
+
+571
+00:51:32,809 --> 00:51:38,732
+not slow your descent? Not enough to not die.
+I still have to fight against gravity. Except
+
+572
+00:51:38,752 --> 00:51:43,875
+he can spread out his force blasts to cover
+a wider area and it's more powerful than a
+
+573
+00:51:43,935 --> 00:51:49,030
+fire hose. So yeah, it would totally work. I
+mean, I know that ties into his origin. when
+
+574
+00:51:49,130 --> 00:51:54,231
+his optic blasts first formed when he was falling
+out of a plane and he used it to save him and
+
+575
+00:51:54,271 --> 00:51:59,532
+his brother Havoc from dying when they hit the
+ground. So I appreciated that, but still seeing
+
+576
+00:51:59,652 --> 00:52:05,654
+it like in motion, I was like, I don't know.
+It works. It works. It was cool. He had that
+
+577
+00:52:05,714 --> 00:52:10,415
+superhero landing. Then it was like to me, my
+X-Men. And right after that was Storm just
+
+578
+00:52:10,455 --> 00:52:15,557
+like walking across the desert, just like turning
+all the sand to glass. That was awesome, too.
+
+579
+00:52:15,657 --> 00:52:20,406
+It was incredible, the whole scene and like
+how Beast took over one of the Sentinels. That
+
+580
+00:52:20,426 --> 00:52:24,427
+wouldn't be the last time that he does it this
+season, but it was such a great way for the
+
+581
+00:52:24,487 --> 00:52:30,209
+character to fight the Sentinels, you know?
+Yeah, absolutely. At this point in their superhero
+
+582
+00:52:30,249 --> 00:52:35,490
+careers, Sentinels are just like paper people,
+and it's great to see superheroes just kick
+
+583
+00:52:35,550 --> 00:52:41,232
+ass in that way. Episode 2 is called Mutant
+Liberation Begins. Magneto begins saving humans
+
+584
+00:52:41,272 --> 00:52:45,413
+as a way to prove to the X-Men that his intentions
+are genuine. However, he is arrested by the
+
+585
+00:52:45,533 --> 00:52:50,735
+UN to face trial for his past crimes. Magneto
+surrenders, however the trial is ambushed by
+
+586
+00:52:50,795 --> 00:52:55,957
+Friends of Humanity protesters led by Executioner
+who tries to shoot Magneto with a power dampening
+
+587
+00:52:55,997 --> 00:53:01,339
+blast. Storm gets in the way of the blast and
+gets depowered. Magneto peacefully stops the
+
+588
+00:53:01,359 --> 00:53:07,081
+assault by carrying Executioner and the UN Special
+Committee into low orbit to help show his new
+
+589
+00:53:07,121 --> 00:53:12,663
+perspective. Magneto is pardoned and the mutant
+populated island of Genosha is considered for
+
+590
+00:53:12,703 --> 00:53:19,390
+admission to the UN. Meanwhile, Jean Grey gives
+birth to Nathan Summers. Storm leaves the team
+
+591
+00:53:19,550 --> 00:53:24,791
+and the group is surprised by a visit by another
+Jean Grey. Great episode. My favorite moment
+
+592
+00:53:25,071 --> 00:53:32,054
+here was when Jean Grey was at the mansion and
+she tells Wolverine he's here. And he's like,
+
+593
+00:53:32,194 --> 00:53:38,815
+who? Apocalypse? And sheaths his claws, you
+know, she's like, the baby. He's like, oh no.
+
+594
+00:53:38,835 --> 00:53:43,097
+It's like a sitcom or something. Yeah. You'd
+think in all of his years that Wolverine would
+
+595
+00:53:43,137 --> 00:53:48,299
+have encountered a situation like that before.
+Justin can drive on sidewalks and stuff like
+
+596
+00:53:48,339 --> 00:53:53,342
+that. It was just comedy gold. Let's go ahead
+and move on to episode number three, which
+
+597
+00:53:53,382 --> 00:53:58,785
+was called Fire Made Flesh. Running experiments,
+Beast deduces that the new visitor is the real
+
+598
+00:53:58,805 --> 00:54:04,009
+Jean Grey, and the woman who just gave birth
+to Nathan is a clone. To strut over the news,
+
+599
+00:54:04,129 --> 00:54:09,632
+Jean's clone is visited by Mr. Sinister, who
+reveals himself as her creator, manipulating
+
+600
+00:54:09,672 --> 00:54:14,562
+her mind and turning her into the Goblin Queen.
+She makes the X-Men experience frightening
+
+601
+00:54:14,622 --> 00:54:19,423
+telepathic hallucinations based on their worst
+fears before leaving the mansion to give her
+
+602
+00:54:19,483 --> 00:54:25,045
+son to Mr. Sinister. Having been previously
+manipulated by Sinister, Morph leads the team
+
+603
+00:54:25,065 --> 00:54:29,786
+to the Villain's lab where Sinister infects
+Baby Nathan with a modified techno-organic
+
+604
+00:54:29,826 --> 00:54:35,068
+virus in an effort to make the child invincible.
+The X-Men face off against the Goblin Queen,
+
+605
+00:54:35,428 --> 00:54:40,689
+including Jean Grey who convinces her clone
+to save the baby. Though Mr. Sinister escapes.
+
+606
+00:54:41,354 --> 00:54:46,777
+Cyclops begrudgingly lets Bishop take the child
+into the future to save his life from the techno-organic
+
+607
+00:54:46,817 --> 00:54:53,422
+virus, and the gene clone, now going by Madeline
+Pryor, leaves the mansion for Genosha. Meanwhile,
+
+608
+00:54:53,842 --> 00:55:00,667
+Forge meets Storm at a bar. This was a fascinating
+episode, how they merged the Inferno story
+
+609
+00:55:00,687 --> 00:55:06,511
+with the Mother Iscani story, substituting Bishop
+for Mother Iscani. It was just a great streamline
+
+610
+00:55:06,791 --> 00:55:12,435
+of multiple story arcs in a way that completely
+made sense. Oh yeah, I loved this episode.
+
+611
+00:55:12,455 --> 00:55:17,297
+It was one of my favorites. And I think I definitely
+appreciated it more as an adult than I would
+
+612
+00:55:17,337 --> 00:55:23,001
+have watching it as a kid. As a father, I totally
+related with Cyclops. Just, you know, that'd
+
+613
+00:55:23,021 --> 00:55:26,883
+be really hard to give up your kid to go to
+a place where you don't even know where they're
+
+614
+00:55:26,923 --> 00:55:32,106
+going. And I loved all of the metal and prior
+stuff, too. The battle scenes here with her
+
+615
+00:55:32,146 --> 00:55:38,322
+purple and green flaming depictions of power
+was just really well animated. For sure. Yeah,
+
+616
+00:55:38,362 --> 00:55:42,884
+I agree how child endangerment stuff hits a
+little bit different when once you become a
+
+617
+00:55:42,944 --> 00:55:47,227
+parent, I just felt so bad for that baby. But,
+you know, we know he's capable now, so we knew
+
+618
+00:55:47,267 --> 00:55:52,489
+that he was in good hands anyway. The Goblin
+Queen's visions that she induced in the X-Men
+
+619
+00:55:52,609 --> 00:55:57,352
+were borderline TVMA. Like I was like, what
+the fuck? I thought this was a kids show. Yeah,
+
+620
+00:55:57,372 --> 00:56:03,295
+you know, you had Gambit's vision of rogue and
+Magneto, like mostly nude fusing together.
+
+621
+00:56:03,655 --> 00:56:09,194
+That was horrifying when Jubilee and Sunspot
+were watching TV. and the girl crawls out from
+
+622
+00:56:09,214 --> 00:56:14,636
+the TV and they slice her in half and like you
+see her brain and shit. I was like, what is
+
+623
+00:56:14,656 --> 00:56:19,597
+happening here? Yeah, this was the moment when
+I was like, oh damn, this is not my childhood
+
+624
+00:56:19,777 --> 00:56:25,219
+X-Men cartoon. And I'm here for it. Episode
+4 was called Motendo. That was the first part
+
+625
+00:56:25,259 --> 00:56:29,560
+of the episode. The second part of the episode
+was called Life Death Part 1. In the first
+
+626
+00:56:29,600 --> 00:56:35,154
+part, Jubilee wants to go to the arcade on her
+18th birthday, but Magneto refuses. Sulk-ing
+
+627
+00:56:35,214 --> 00:56:39,756
+in her room with Sunspot, the two get sucked
+into a video game console called Montendo,
+
+628
+00:56:40,196 --> 00:56:44,959
+which takes them to Mojo World, where Mojo forces
+Jubilee and Sunspot to play out her previous
+
+629
+00:56:44,999 --> 00:56:49,862
+adventures with the X-Men in front of the spineless
+ones, providing Mojo with ratings to feed off
+
+630
+00:56:49,902 --> 00:56:55,725
+of. The pair is saved repeatedly by a mysterious
+hacker who turns out to be Epsisa, an older
+
+631
+00:56:55,825 --> 00:57:01,348
+digital version of Jubilee created by Mojo for
+the video game's initial testing. Epsisa convinces
+
+632
+00:57:01,408 --> 00:57:06,434
+Jubilee that life is a grander adventure than
+gaming. the two team up to take down Mojo.
+
+633
+00:57:06,875 --> 00:57:12,597
+Returning to the real world, Jubilee kisses
+Sunspot. Meanwhile, Forge takes Storm to his
+
+634
+00:57:12,657 --> 00:57:18,399
+ranch and tests his power restoring machine
+on her. It seemingly fails, and Forge reveals
+
+635
+00:57:18,419 --> 00:57:23,542
+to Storm that he was behind the mutant power
+dampening tech that stole her mutant abilities.
+
+636
+00:57:24,122 --> 00:57:29,784
+Storm leaves in anger, but is brought back by
+a demon known as the Adversary, which poisons
+
+637
+00:57:29,824 --> 00:57:36,592
+Forge. So this was probably my least favorite
+episode. As much as I appreciated the callbacks
+
+638
+00:57:36,632 --> 00:57:43,857
+to the old X-Men arcade game, I did think Mojo
+was pretty funny. I didn't really care for
+
+639
+00:57:43,877 --> 00:57:49,281
+the whole Forge storm adversary thing though.
+I wasn't expecting to see the adversary here,
+
+640
+00:57:49,461 --> 00:57:54,144
+but I was totally blown away when I saw that
+he made an appearance because he's always been
+
+641
+00:57:54,304 --> 00:57:59,997
+Forge's greatest. adversary, as it were. You
+know, the adversary was the demon that Forge
+
+642
+00:58:00,257 --> 00:58:04,260
+summoned during his time in the military when
+he thought he was going to die. He summoned
+
+643
+00:58:04,280 --> 00:58:09,304
+the demon to attack the enemy and the demon
+actually ended up killing everybody and had
+
+644
+00:58:09,324 --> 00:58:13,888
+been haunting him ever since. I don't know if
+you remember Forge's backstory in the duel
+
+645
+00:58:13,928 --> 00:58:18,552
+episode against Mr. Terrific, but Forge was
+actually somewhat of a studied shaman before
+
+646
+00:58:18,592 --> 00:58:23,035
+he developed his mutant abilities which steered
+him in the direction of science. And so, you
+
+647
+00:58:23,055 --> 00:58:29,028
+know, he had that kind of conflict at an early
+age. But Magic and science has always been
+
+648
+00:58:29,088 --> 00:58:34,392
+an interesting mix for the character of Forge.
+One thing I noticed about the voice actor for
+
+649
+00:58:34,452 --> 00:58:40,216
+Forge, the sound quality of his voice was not
+as good as the other characters. So much so
+
+650
+00:58:40,256 --> 00:58:45,079
+that it was noticeable and distracting to me.
+Yeah, it was a little bit more condensed, I
+
+651
+00:58:45,119 --> 00:58:49,403
+think. And also, it didn't really sound like
+Forge to me, or would I imagine Forge to sound
+
+652
+00:58:49,443 --> 00:58:53,405
+like this voice actor sounded a little bit older
+than I would think his voice sounded like.
+
+653
+00:58:53,846 --> 00:58:58,449
+That said, I am glad we got to see Forge, because
+he is an interesting character. I love Forge,
+
+654
+00:58:58,489 --> 00:59:03,532
+yeah. Episode 5 is called Remember It. In it,
+the UN formally admits the mutant nation of
+
+655
+00:59:03,592 --> 00:59:09,176
+Genosha, which Rogue, Gambit, and Magneto visit.
+There, Magneto is asked by the Council to lead
+
+656
+00:59:09,196 --> 00:59:13,579
+the country as its Chancellor, and he agrees
+on the condition that Rogue rules alongside
+
+657
+00:59:13,619 --> 00:59:18,603
+him. Meanwhile, Cyclops has an angry outburst
+during a television interview after being asked
+
+658
+00:59:18,643 --> 00:59:24,011
+about his son, and telepathically confides in
+Madeline Pryor, which Jean Grey finds out about
+
+659
+00:59:24,231 --> 00:59:29,316
+escalating tensions between her and Cyclops.
+Rogue admits to Gambit her past with Magneto,
+
+660
+00:59:29,776 --> 00:59:34,300
+that his electromagnetic manipulation allows
+her to touch him, and that she is considering
+
+661
+00:59:34,480 --> 00:59:39,925
+his offer. Dancing with Magneto at a celebration
+gala, Rogue ultimately decides that she loves
+
+662
+00:59:39,965 --> 00:59:45,129
+Gambit too much to be with Magneto. Suddenly,
+Cable appears and attempts to warn Genosha's
+
+663
+00:59:45,169 --> 00:59:50,690
+citizens of an impending attack by a wild mastermold
+before being pulled away through time. Everything
+
+664
+00:59:50,730 --> 00:59:56,333
+turns to chaos as Magneto, Rogue, and Gambit
+try to save as many people as they can. Enraged
+
+665
+00:59:56,353 --> 01:00:01,877
+at the apparent death of Magneto, Rogue attempts
+to take Master Mold head on. Gambit prevents
+
+666
+01:00:01,917 --> 01:00:07,960
+her and saves her life. In the end, he is killed
+when the Sentinel impales him, but he detonates
+
+667
+01:00:08,020 --> 01:00:13,303
+it in his last act, saving the remaining survivors.
+Rogue weeps as she holds his body.
+
+668
+01:00:17,046 --> 01:00:22,027
+So the episodes from this season were released
+week by week, correct? Yeah, I'm so glad I
+
+669
+01:00:22,047 --> 01:00:27,148
+did not watch the show that way because I would
+have been devastated all week if I couldn't
+
+670
+01:00:27,188 --> 01:00:31,129
+immediately watch the next episode. I would
+have been depressed. I would have been like,
+
+671
+01:00:31,149 --> 01:00:35,951
+don't talk to me, anybody. I'm just I'm destroyed.
+If this episode doesn't win an Emmy, I would
+
+672
+01:00:36,031 --> 01:00:42,493
+actually be very surprised because the writing,
+the drama, I thought was immensely palpable
+
+673
+01:00:42,573 --> 01:00:47,446
+throughout this whole episode. It deserves every
+award it's going to get. Did you notice that
+
+674
+01:00:47,486 --> 01:00:53,271
+the Watcher was in the sky above Genosha right
+before everything went down? No, I did not
+
+675
+01:00:53,331 --> 01:00:57,294
+see that. That was pointed out to me by people
+on the Discord. That was really cool because
+
+676
+01:00:57,334 --> 01:01:02,237
+it insinuates, if you've seen the What If animated
+television show, that Genosha's destruction
+
+677
+01:01:02,357 --> 01:01:07,641
+was an absolute point in history, which is something
+that Beasts references in a later episode.
+
+678
+01:01:08,062 --> 01:01:11,985
+Basically something that couldn't be prevented.
+Yeah, because Cable tried to prevent it 200
+
+679
+01:01:12,305 --> 01:01:17,708
+times. Yeah. I like the cameos that were in
+this episode of all the mutants that were at
+
+680
+01:01:17,728 --> 01:01:22,871
+Genosha. You had Sebastian Shaw, you had the
+White Queen, multiple man was there, Dazzler,
+
+681
+01:01:23,131 --> 01:01:27,673
+Leech, Pixie, Glob Herman. It was great to see
+all those Easter eggs basically. But let's
+
+682
+01:01:27,693 --> 01:01:33,377
+go ahead and move on to episode 6, which is
+called Life Death Part 2. Shiar Empress LeLondra
+
+683
+01:01:33,417 --> 01:01:37,919
+announces to her people her engagement to Professor
+X, who was healed from his wounds with alien
+
+684
+01:01:37,959 --> 01:01:43,770
+technology. Meanwhile, Storm cares for Forge's
+poisoned wound. when the adversary attacks
+
+685
+01:01:43,790 --> 01:01:48,912
+her. Forge uses shaman magic to expel the demon
+and Storm confesses her love for him. Back
+
+686
+01:01:48,952 --> 01:01:53,793
+in space, Lelandra's sister Deathbird sees Professor
+X as an unworthy consort due to his Terran
+
+687
+01:01:53,833 --> 01:01:59,375
+heritage and invokes the Rite of Amdasha, which
+challenges him to erase all of his Earthbound
+
+688
+01:01:59,435 --> 01:02:05,057
+memories. Storm takes Forge to a cave to find
+a cactus to heal his poison when she is confronted
+
+689
+01:02:05,097 --> 01:02:09,896
+by the adversary once again. Admitting that
+it was more than the executioner's neutralizer
+
+690
+01:02:09,936 --> 01:02:15,360
+holding her powers back, but her fear of living
+is a mutant once more, Storm abandons her fear,
+
+691
+01:02:15,681 --> 01:02:21,786
+restoring her mutant powers, and she saves Forge.
+Back in space, Professor X refuses to give
+
+692
+01:02:21,806 --> 01:02:26,950
+up his memories of the X-Men and tries to teach
+the Shi'ar about coexistence when he receives
+
+693
+01:02:26,990 --> 01:02:32,054
+a psychic vision of the attack on Genosha and
+decides to return to Earth. Meanwhile, Mr.
+
+694
+01:02:32,094 --> 01:02:36,630
+Sinister tells Bolliver Trask that the attack
+on Genosha was just the beginning. This one
+
+695
+01:02:36,670 --> 01:02:41,472
+was actually my least favorite episode, not
+because it was bad, but it was strange going
+
+696
+01:02:41,492 --> 01:02:46,295
+through these plot detours after the devastating
+previous episode. I wanted more answers about
+
+697
+01:02:46,315 --> 01:02:53,379
+what happened at Genosha. So I guess just sequencing
+it after episode five fell off to me. Well,
+
+698
+01:02:53,639 --> 01:02:58,902
+I think they had to tie up some loose ends about
+what was going on with these characters while
+
+699
+01:02:59,182 --> 01:03:03,704
+what happened at Genosha happened, because you
+see Storm's reaction to what happened, you
+
+700
+01:03:03,764 --> 01:03:10,136
+see Professor X's reaction. And in a way, it
+kind of made you relive the horror of what
+
+701
+01:03:10,156 --> 01:03:15,138
+you saw in the previous episode. I didn't mind
+this episode. It was kind of a nice break from
+
+702
+01:03:15,699 --> 01:03:20,661
+the intensity that was the attack on Genosha,
+I thought. Plus, it was just really interesting
+
+703
+01:03:20,701 --> 01:03:24,584
+to see that Professor X was still alive. I didn't
+know that he was going to be in this show.
+
+704
+01:03:25,064 --> 01:03:28,946
+It was cool to see the Imperial Guard. It's
+always cool to see the Shi'ar, I think. Eh,
+
+705
+01:03:29,046 --> 01:03:34,869
+they're just Legion knockoffs. I was not impressed.
+Legion is superheroes, right? Not Legion, Professor
+
+706
+01:03:34,949 --> 01:03:39,965
+X's son. Yeah, no, you know what I meant. Episode
+7 was called Bright Eyes. The X-Men hold a
+
+707
+01:03:40,005 --> 01:03:44,688
+funeral for Gambit, but Rogue skips it as she
+angrily seeks out Bolivar Trask. She comes
+
+708
+01:03:44,728 --> 01:03:49,372
+into contact with Captain America, who helps
+her find Henry Gyric in Mexico, but claims
+
+709
+01:03:49,412 --> 01:03:53,975
+he can't help her bring him in without causing
+an international crisis. Rogue absorbs Henry
+
+710
+01:03:53,995 --> 01:03:58,699
+Gyric's memories to find Trask, but only gets
+a glimpse, and Gyric is murdered later that
+
+711
+01:03:58,759 --> 01:04:03,771
+night. The X-Men travel to Genosha to help search
+for survivors. and they find the White Queen
+
+712
+01:04:03,831 --> 01:04:08,875
+who is saved by her diamond skin secondary mutation.
+The team gets a message from Bolliver Trask
+
+713
+01:04:08,895 --> 01:04:13,439
+who tells them to go to Madripoor. They pick
+up Rogue on the way and discover a suicidal
+
+714
+01:04:13,479 --> 01:04:19,124
+Trask hiding at the UN secret Operation Zero
+tolerance division. Rogue drops Trask off a
+
+715
+01:04:19,164 --> 01:04:23,989
+building in revenge for the Sentinels killing
+Gambit and thousands on Genosha, but he comes
+
+716
+01:04:24,029 --> 01:04:29,918
+back as a Prime Sentinel. The team is rescued
+by Cable who uses an EMP grenade and explains
+
+717
+01:04:29,938 --> 01:04:34,802
+that Mr. Sinister was behind the Genosha attack
+along with a greater threat which is revealed
+
+718
+01:04:34,862 --> 01:04:39,986
+to be Bastion who has captured Magneto. My big
+takeaway from here was that the Prime Sentinels
+
+719
+01:04:40,106 --> 01:04:44,129
+are far more scary in motion than they ever
+were in the comic books. The way they were
+
+720
+01:04:44,169 --> 01:04:50,554
+presented in this show was almost like techno
+zombies, which I absolutely love. In the comics,
+
+721
+01:04:50,694 --> 01:04:56,726
+Prime Sentinels just felt more like human sized
+Mark 2 Sentinels, you know? Yeah, it's always
+
+722
+01:04:57,026 --> 01:05:02,927
+scary when a bad guy could be anybody. You know,
+they did that with agents in The Matrix. They
+
+723
+01:05:02,947 --> 01:05:08,849
+have that with OMAX in DC Comics. And I remember
+you mentioning Prime Sentinels in the Bastion
+
+724
+01:05:08,889 --> 01:05:14,210
+backstory from last week's episode. It was interesting
+to actually see them. This show successfully
+
+725
+01:05:14,250 --> 01:05:19,772
+pulled off what Secret Invasion could not, which
+was a feeling of tension and paranoia. Absolutely.
+
+726
+01:05:19,912 --> 01:05:23,913
+Especially in like a later episode when you
+had people like the news reporter lady all
+
+727
+01:05:23,933 --> 01:05:28,171
+of a sudden become a Prime Sentinel. Yeah. And
+Sunspot's Butler and stuff like that. It was
+
+728
+01:05:28,191 --> 01:05:32,413
+like, holy shit, who isn't a prime sentinel?
+All these people are going to kill the X-Men.
+
+729
+01:05:32,753 --> 01:05:37,576
+And they were really cutting into them and there
+were humans. That was wild to me. Yeah. What
+
+730
+01:05:37,596 --> 01:05:42,499
+did you think of the Captain America cameo?
+I thought it was good. I loved Rogue's reaction
+
+731
+01:05:42,679 --> 01:05:48,802
+to Captain America refusing to take official
+action with her in Mexico. She just fucking
+
+732
+01:05:48,882 --> 01:05:53,745
+yeeted his shield and it was like, fuck you.
+And then peaced out. I think Captain America
+
+733
+01:05:53,765 --> 01:06:00,057
+deserved it. I think. in general, Marvel's other
+heroes don't do enough to stand beside their
+
+734
+01:06:00,077 --> 01:06:03,939
+fellow heroes in the X-Men. That was something
+the Avengers kind of came to terms with in
+
+735
+01:06:03,979 --> 01:06:09,043
+the comics when they formed the Avengers Unity
+Division, which was a team of both Avengers
+
+736
+01:06:09,143 --> 01:06:15,867
+and X-Men. I'm just really hoping that Captain
+America had like an apple tag on that shield.
+
+737
+01:06:15,887 --> 01:06:19,650
+He's gonna have to go find it. That's his lesson.
+Again, characters like the Avengers should
+
+738
+01:06:19,690 --> 01:06:24,373
+be doing a whole lot more to stand alongside
+the X-Men. Although, you know, this season
+
+739
+01:06:24,974 --> 01:06:30,858
+planted the seeds for a second season to incorporate
+Avengers vs X-Men if they decide to go the
+
+740
+01:06:30,938 --> 01:06:35,941
+onslaught route for season 2. Oh that'd be sweet!
+That'd be really cool. That'd be sick, yeah.
+
+741
+01:06:36,421 --> 01:06:41,965
+Episode 8 is called Tolerance is Extinction,
+Part 1. Cable explains to the X-Men that Bastion's
+
+742
+01:06:42,045 --> 01:06:46,568
+Prime Sentinel program upgrades and evolves
+humanity toward a future where mutants are
+
+743
+01:06:46,608 --> 01:06:51,452
+enslaved in a seeming utopia. Going off of one
+of Cable's leads from the future, Cyclops and
+
+744
+01:06:51,472 --> 01:06:57,884
+Jean Grey visit Bastion's where they learn that
+the time traveling sentinel Nimrod infected
+
+745
+01:06:57,924 --> 01:07:02,649
+Bastion's father with nanotech that resulted
+in his wife giving birth to a son with the
+
+746
+01:07:02,689 --> 01:07:07,653
+powers of technopathy. After Valerie Cooper
+and the rest of Operation Zero Tolerance express
+
+747
+01:07:07,673 --> 01:07:13,158
+concern with the Genosha massacre, Bastion explains
+to them that the attack was only to buy time
+
+748
+01:07:13,338 --> 01:07:18,602
+and whittle the mutant population as he prepares
+to activate the prime sentinels. Human volunteers
+
+749
+01:07:18,843 --> 01:07:24,287
+outfitted with Mr. Sinister's modified techno-organic
+virus. They are activated around the world
+
+750
+01:07:24,527 --> 01:07:30,473
+and attack the X-Men and all mutants, burning
+down the Xavier Institute. Valerie Cooper releases
+
+751
+01:07:30,533 --> 01:07:35,577
+Magneto from Beshyn's imprisonment, admitting
+that Magneto was right. He flies to the Magnetic
+
+752
+01:07:35,637 --> 01:07:40,542
+North Pole where he causes a worldwide electrical
+blackout that shuts down the Prime Sentinels.
+
+753
+01:07:40,682 --> 01:07:46,247
+Professor X returns to Earth and telepathically
+summons the X-Men. This was a fantastic episode,
+
+754
+01:07:46,647 --> 01:07:51,967
+a great first act to the three part finale.
+I thought it was really interesting how Operation
+
+755
+01:07:52,047 --> 01:07:56,570
+Zero Tolerance included members such as Dr.
+Doom and Baron Zemo. Those were some sweet
+
+756
+01:07:56,630 --> 01:08:01,133
+ass cameos for sure. Yeah, that was interesting.
+That I feel like even more so than like the
+
+757
+01:08:01,153 --> 01:08:06,236
+cameos from Captain America and stuff really
+opened up the world that this X-Men cartoon
+
+758
+01:08:06,276 --> 01:08:11,860
+takes place in. I mean, I know they had like
+a cameo with Spider-Man back in the 90s, but
+
+759
+01:08:12,020 --> 01:08:16,511
+it was cool to see all these different characters
+pop up. I liked the part with Jubilee when
+
+760
+01:08:16,531 --> 01:08:21,294
+she was going shopping with Sunspot and she
+got that like black wetsuit. Really that was
+
+761
+01:08:21,314 --> 01:08:26,077
+just a way to get her into her more modern look
+from the comics because up until that point
+
+762
+01:08:26,097 --> 01:08:30,760
+she was still wearing her denim shorts and her
+pink t-shirt. Yeah, they all went through look
+
+763
+01:08:30,860 --> 01:08:36,945
+changes in these last three episodes. Did they
+go back to their 80s costumes? Most of them?
+
+764
+01:08:37,465 --> 01:08:42,529
+Yeah, they went back to the costumes they wore
+when they had Muir Island as a base because
+
+765
+01:08:42,589 --> 01:08:46,879
+the X-Mansion was destroyed. So they had to
+go to Muir Island off the coast of Scotland,
+
+766
+01:08:47,300 --> 01:08:51,582
+and they put on the costumes that they had stored
+there. I like those costumes. Yeah, they're
+
+767
+01:08:51,602 --> 01:08:56,406
+great. Marvel Girls, not so much. I don't like
+the Marvel Girl outfit. I prefer Jean Grey's,
+
+768
+01:08:56,646 --> 01:09:01,429
+actually I prefer the Phoenix outfit for Jean
+Grey. Yeah, that's true. My favorite line from
+
+769
+01:09:01,469 --> 01:09:07,253
+this episode was when the Prime Sentinels invaded
+the Axe Mansion and were about to kill Rogue
+
+770
+01:09:07,273 --> 01:09:12,176
+as she was comatose on the bed, and Wolverine
+barges in, and the Prime Sentinel lady is like,
+
+771
+01:09:14,194 --> 01:09:18,477
+And he's like, lady, I got six reasons why.
+And then all of a sudden Nightcrawler showed
+
+772
+01:09:18,537 --> 01:09:24,783
+up and he's like, no, my friend, nine. It was
+like a great pun, great action scene, which
+
+773
+01:09:24,803 --> 01:09:28,346
+was followed almost immediately by the let's
+show them why you don't mess with the summers
+
+774
+01:09:28,546 --> 01:09:33,030
+part where Cyclops blasts through the mountain
+while Gene drives and Cable shoots the sentinels.
+
+775
+01:09:33,291 --> 01:09:37,715
+Yeah, so good. So good. Good writing. Yeah,
+it's probably my favorite episode, I think.
+
+776
+01:09:38,135 --> 01:09:43,298
+Episode nine is called Tolerance's Extinction
+Part Two. In it, the X-Men regroup in the destroyed
+
+777
+01:09:43,458 --> 01:09:48,499
+X-Mansion where they decide to split into two
+teams, Blue Team and Gold Team, to deal with
+
+778
+01:09:48,539 --> 01:09:53,961
+both Bastion and Magneto. Beast and Forge develop
+a headband to block Bastion's technopathy,
+
+779
+01:09:54,241 --> 01:10:00,063
+while Magneto restores his old Asteroid M base.
+Magneto confronts the X-Men, telling them to
+
+780
+01:10:00,143 --> 01:10:05,564
+join him, which Rogue and Sunspot do. On their
+old Muir Island base, the X-Men don their old
+
+781
+01:10:05,604 --> 01:10:10,185
+costumes and set upon their missions, Gold Team
+going to Bastion's headquarters on the Galapagos
+
+782
+01:10:10,265 --> 01:10:15,611
+Islands, and Blue Team going into space. The
+Gold Team fights Bastion-controlled Sentinels
+
+783
+01:10:15,691 --> 01:10:21,074
+as Mr. Sinister takes over Cable's mind, forcing
+him to attack Jean Grey. She psychically reaches
+
+784
+01:10:21,194 --> 01:10:26,816
+out to Cyclops on Asteroid M, who prevents Professor
+X from taking over Magneto's mind to restore
+
+785
+01:10:26,876 --> 01:10:32,738
+Earth's power. Wolverine impales Magneto, who
+subsequently rips the adamantium from Wolverine's
+
+786
+01:10:32,778 --> 01:10:38,661
+body. There was a lot of buildup in this episode
+until the big action-packed third act, but
+
+787
+01:10:38,701 --> 01:10:44,503
+I thought it was worth it. Gene fighting Mr.
+Sinister was epic. And I think the show had
+
+788
+01:10:44,523 --> 01:10:50,526
+a lot of balls to go there with the Wolverine
+versus Magneto stuff, where he got the adamantium
+
+789
+01:10:50,546 --> 01:10:54,487
+ripped out. I did not think that they would
+go there. I actually kind of saw it coming.
+
+790
+01:10:54,567 --> 01:10:59,690
+Like right when he impaled Magneto, I was like,
+OK, obviously Magneto is not going to die here.
+
+791
+01:10:59,930 --> 01:11:03,791
+What's going to happen next? The obvious. It
+was quite the image, though, that the episode
+
+792
+01:11:03,811 --> 01:11:09,614
+finished on. Yeah, for sure. Episode 10 was
+called Tolerance is Extinction Part 3. In it,
+
+793
+01:11:09,654 --> 01:11:14,296
+Professor X controls Magneto's mind, forcing
+him to restore Earth's power and its magnetic
+
+794
+01:11:14,336 --> 01:11:19,358
+field. This reactivates the Prime Sentinels,
+but Jean Grey, seeing Cable about to be killed
+
+795
+01:11:19,378 --> 01:11:23,680
+by Bastion, reaches out to the Phoenix Force,
+who temporarily gives her the power to free
+
+796
+01:11:23,700 --> 01:11:28,742
+Cable. She places the headband that blocks Bastion's
+connection to the Prime Sentinels on his head,
+
+797
+01:11:29,182 --> 01:11:34,585
+disabling the Prime Sentinels, and she removes
+Mr. Sinister's stolen mutant powers, reverting
+
+798
+01:11:34,625 --> 01:11:39,800
+him to his centuries-old self. Bastion rips
+off Cable's arm and technoforms it into a pair
+
+799
+01:11:39,820 --> 01:11:45,864
+of wings to fly to Asteroid M and try to crash
+it down to Earth. In space, Rogue and Sunspot
+
+800
+01:11:45,904 --> 01:11:50,387
+intercept Bastion where they fight him in the
+blue area of the moon, though Bastion fights
+
+801
+01:11:50,407 --> 01:11:55,310
+his way into the asteroid. Blue Team pilots
+a sentinel robot to join the fight in space,
+
+802
+01:11:55,790 --> 01:12:00,673
+and the X-Men overpower Bastion, preventing
+him from destroying the asteroid's gravity
+
+803
+01:12:00,713 --> 01:12:05,797
+core. However, Earth's leaders activate the
+Magneto protocols to blast the asteroid out
+
+804
+01:12:05,837 --> 01:12:11,402
+of the sky and the missiles hit the gravity
+core, creating a singularity that swallows
+
+805
+01:12:11,442 --> 01:12:16,786
+Bastion. Cyclops and Jean Grey telepathically
+say goodbye to Cable as they try and stop asteroid
+
+806
+01:12:16,966 --> 01:12:21,670
+M from crashing into Earth, but Professor X
+is able to restore Magneto's mind from his
+
+807
+01:12:21,750 --> 01:12:27,275
+earlier psychic assault in enough time for Magneto
+to reverse the asteroid's fall and send it
+
+808
+01:12:27,315 --> 01:12:32,551
+back into space. At that moment, however, The
+asteroid and the X-Men disappear through a
+
+809
+01:12:32,591 --> 01:12:37,775
+time portal that sends Cyclops and Jean Grey
+into the future to raise their son Cable, and
+
+810
+01:12:37,815 --> 01:12:43,779
+the rest to ancient Egypt where they meet Apocalypse.
+Bishop and Forge resolve to rescue the team.
+
+811
+01:12:44,160 --> 01:12:48,663
+In a mid-credit scene, present-day Apocalypse
+finds one of Gambit's playing cards in the
+
+812
+01:12:48,723 --> 01:12:52,646
+ruins of Genosha. At the start of this episode
+it seemed like they were totally setting up
+
+813
+01:12:52,766 --> 01:12:56,709
+onslaught, but by the end of the episode it
+seems like they're definitely setting up Age
+
+814
+01:12:56,749 --> 01:13:01,769
+of Apocalypse. But either way, yeah, it's clear
+that Gambit's coming back as the horseman of
+
+815
+01:13:01,809 --> 01:13:07,613
+death. Yeah, that's really cool. I love the
+climax between the X-Men and Bastion. Again,
+
+816
+01:13:07,653 --> 01:13:14,219
+such a great message in how Cyclops decided
+not to destroy his enemy, but to reason with
+
+817
+01:13:14,259 --> 01:13:19,423
+him. I think they did a terrific job with Bastion,
+and you can almost see Cyclops and Bastion
+
+818
+01:13:19,483 --> 01:13:23,927
+almost having their own kind of Xavier Magneto
+relationship. The characters were both just
+
+819
+01:13:24,147 --> 01:13:32,773
+so well done. Some of the characters were friggin'
+fighting in space? Yeah, that was weird. Well,
+
+820
+01:13:32,793 --> 01:13:36,475
+I mean, you do have to remember that the bluer
+area of the moon does have oxygen. That's where
+
+821
+01:13:36,495 --> 01:13:41,759
+the inhumans used to live. But like, Sunspot
+taking Jubilee down to Earth from Asteroid
+
+822
+01:13:41,899 --> 01:13:46,262
+M didn't make any sense to me. He would have
+brought back a corpse. Yeah, I did like the
+
+823
+01:13:46,302 --> 01:13:50,525
+fight against Bastion though. Rogue, Cyclops,
+Sunspot, Jubilee, they all got their time to
+
+824
+01:13:50,565 --> 01:13:55,609
+shine. Beasts coming in and piloting the Sentinel
+stomping on Bastion, I thought that took the
+
+825
+01:13:55,649 --> 01:13:59,419
+prize. I thought that was really great. I don't
+know if I loved the time portal jump at the
+
+826
+01:13:59,459 --> 01:14:04,444
+end. You always kind of want to give the team
+a little bit of breathing room between their
+
+827
+01:14:04,564 --> 01:14:08,287
+big adventures. It would have been nice to get
+some kind of closure with the team celebrating
+
+828
+01:14:08,307 --> 01:14:13,632
+their win. But when it comes to the X-Men, they
+rarely ever get a chance to breathe here. It's
+
+829
+01:14:13,672 --> 01:14:17,916
+being pulled into one adventure after the other.
+And that was always the nature of the 90s X-Men
+
+830
+01:14:17,936 --> 01:14:23,301
+cartoon. Those seasons rarely ended with closure.
+They were always setting up the cliffhanger
+
+831
+01:14:23,321 --> 01:14:27,960
+for the next season. Yeah, honestly, when that
+time jump happened, I thought they were setting
+
+832
+01:14:28,060 --> 01:14:32,323
+up for something to tie in with the Deadpool
+movie in some way. And maybe like that's how
+
+833
+01:14:32,343 --> 01:14:37,166
+they were going to get into the MCU universe.
+Like it was this group of X-Men specifically
+
+834
+01:14:37,206 --> 01:14:41,689
+that were going to be our MCU X-Men. They were
+just going to make the jump from animation
+
+835
+01:14:41,729 --> 01:14:46,552
+to live action. Obviously interesting. Didn't
+play out that way. But right when that happened,
+
+836
+01:14:46,592 --> 01:14:51,538
+that's what I suspected. That would have been
+cool. I was wondering who was behind the time
+
+837
+01:14:51,578 --> 01:14:57,801
+jump. My first thought was that it was Kang
+because he played a role in ancient Egypt as
+
+838
+01:14:57,881 --> 01:15:01,763
+Ramitat and also maybe it was a mortis or something
+like that. It could have even been someone
+
+839
+01:15:01,783 --> 01:15:07,525
+like Fitzroy who is Bishop's enemy and he's
+able to drain life forces from people to create
+
+840
+01:15:07,725 --> 01:15:12,247
+time portals. I also wonder if it might have
+had something to do with Bastion getting pulled
+
+841
+01:15:12,487 --> 01:15:17,829
+into the Singularity since he also had Cable's
+arm with him which had the time sliding technology.
+
+842
+01:15:18,318 --> 01:15:22,740
+There's a lot of options here, I guess. Do you
+hope Bastion comes back some way in the next
+
+843
+01:15:22,780 --> 01:15:28,303
+season? I don't think so. I think he was done
+really well here. And I'd hate for them to
+
+844
+01:15:28,503 --> 01:15:33,666
+revisit that and make it feel repetitive and
+not give another villain a time to shine. I
+
+845
+01:15:33,706 --> 01:15:37,868
+am really looking forward to Apocalypse. I think
+that'll be cool to me. Apocalypse is sort of
+
+846
+01:15:37,888 --> 01:15:42,311
+like Super Bastion, just in terms of like his
+techno morphing and stuff like that. So I think
+
+847
+01:15:42,331 --> 01:15:48,410
+it'll be exciting. But that does it for the
+series overall. I. find little to no flaws
+
+848
+01:15:48,490 --> 01:15:54,654
+with this entire season. To me, it was the quintessential
+X-Men experience. I thought the season perfectly
+
+849
+01:15:54,694 --> 01:15:59,336
+captured the complex themes and the characters
+of the comic book series in a way that no other
+
+850
+01:15:59,376 --> 01:16:05,780
+project has. I'll be surprised if any forthcoming
+X-Men movie comes close to touching this season.
+
+851
+01:16:05,880 --> 01:16:10,002
+I know that the show was certainly better than
+what came previously with the Fox X-Men universe.
+
+852
+01:16:10,342 --> 01:16:15,105
+It just captured everything that I love about
+the X-Men and was thought-provoking and action-packed
+
+853
+01:16:15,385 --> 01:16:21,796
+and everything good. I'm giving it five out
+of five stars, a fresh rating on Rotten Tomatoes.
+
+854
+01:16:21,876 --> 01:16:27,359
+Yeah, honestly, I feel like by episode three,
+I felt like this was going to be a five star
+
+855
+01:16:27,399 --> 01:16:33,482
+show because right off the bat, it was just
+so phenomenally well made in terms of the visuals,
+
+856
+01:16:33,502 --> 01:16:38,385
+in terms of the writing, in terms of everything.
+I was just insanely jealous, as I mentioned
+
+857
+01:16:38,445 --> 01:16:44,152
+earlier, you know. DC fans will often say that
+DC has the edge when it comes to animation.
+
+858
+01:16:44,252 --> 01:16:50,135
+And I think that may be the case prior to the
+Spider-Verse films. But I got to say, I think
+
+859
+01:16:50,476 --> 01:16:56,379
+I'm enjoying Marvel animation a lot more than
+DC animation as of late, which is heartbreaking
+
+860
+01:16:56,439 --> 01:17:03,083
+to admit. But I have to. Well, the Tomorrowverse
+isn't anything impressive, you know, so I can
+
+861
+01:17:03,103 --> 01:17:07,165
+see where you're coming from there. You know,
+we usually reserve five star ratings for things
+
+862
+01:17:07,185 --> 01:17:13,254
+that. are transcendent and that they transcend
+normal superhero tropes and trappings. Yeah,
+
+863
+01:17:13,274 --> 01:17:19,398
+or they're groundbreaking. Yeah, the X-Men in
+themselves, I think, as characters are transcendent
+
+864
+01:17:19,478 --> 01:17:24,322
+in that they deal with so many more heavy themes
+than most other comic book characters. It's
+
+865
+01:17:24,342 --> 01:17:29,045
+just inherent to the franchise. And when you
+have a series that so perfectly captures the
+
+866
+01:17:29,225 --> 01:17:34,349
+essence of who the X-Men are and how their stories
+go, then yeah, you have something that feels
+
+867
+01:17:34,389 --> 01:17:39,725
+transcendent. So while some people may balk
+at the idea of this getting a perfect rating,
+
+868
+01:17:39,965 --> 01:17:44,708
+I think a lot of X-Men fans out there would
+agree with this rating. It's just really well
+
+869
+01:17:44,768 --> 01:17:50,272
+done in a way that would be hard to surpass
+if ever. Yeah, no, I wouldn't call it groundbreaking
+
+870
+01:17:50,432 --> 01:17:56,197
+in terms of bringing something new that we haven't
+seen before. In a way, this took me back to
+
+871
+01:17:56,417 --> 01:18:02,005
+when I was a child. But I would call it groundbreaking
+in that it was so unbelievably true to the
+
+872
+01:18:02,225 --> 01:18:10,892
+spirit of its creator Stan Lee, who wanted to
+create content for not just kids, but really
+
+873
+01:18:11,012 --> 01:18:15,776
+smart kids who are growing into adulthood. And,
+you know, they would have stories like this
+
+874
+01:18:15,816 --> 01:18:22,422
+to help them get there. I feel like a lot of
+animated fare is either very kiddy for little
+
+875
+01:18:22,462 --> 01:18:27,706
+kids like, you know, Teen Titans Go, or it's
+very mature, like, you know, some of... DC
+
+876
+01:18:27,746 --> 01:18:33,108
+stuff that they've put out. This to me was a
+perfect blend of the two, where it wasn't too
+
+877
+01:18:33,148 --> 01:18:38,911
+kiddy and it wasn't too mature. It was perfect.
+I really have no other way to describe it.
+
+878
+01:18:39,211 --> 01:18:43,973
+There were minor things that I didn't like or
+were like, whoa, what's up with that? But ultimately,
+
+879
+01:18:44,193 --> 01:18:49,655
+I agree with you. It's the best X-Men project
+that I've ever seen on screen. DC animation
+
+880
+01:18:49,675 --> 01:18:56,950
+fans beware, Marvel's coming for you. Yes, you.
+Oh no. But that does it for this review guys,
+
+881
+01:18:56,970 --> 01:19:03,613
+let us know what you thought about X-Men 97
+Season 1 by writing to us at dyna or by visiting
+
+882
+01:19:03,693 --> 01:19:07,694
+us on Instagram, which you can find a link to
+in our show notes, or by going to our website
+
+883
+01:19:07,775 --> 01:19:12,837
+at dynamicduel.com. And on our site you can
+also find a link to our Patreon page, where
+
+884
+01:19:12,857 --> 01:19:17,879
+you can join our Dynamic Duo tier and chat with
+us and fellow listeners, our Fantastic Four
+
+885
+01:19:17,919 --> 01:19:23,381
+tier, which gets you bonus content each month,
+our X-Force tier that makes you an executive
+
+886
+01:19:23,421 --> 01:19:29,417
+producer of this podcast, or our newest tier
+that lets you join our Dynamic Podcast Network.
+
+887
+01:19:29,777 --> 01:19:34,620
+And please don't forget to rate the show on
+Apple Podcasts or Spotify or Podchaser or on
+
+888
+01:19:34,680 --> 01:19:41,345
+our website. Our next episode is going to be
+a X-Men tie-in where we pit Warpath, who was
+
+889
+01:19:41,365 --> 01:19:47,089
+a member of X-Force, against the Native American
+DC hero Black Condor. But that does it for
+
+890
+01:19:47,129 --> 01:19:51,852
+this episode, we want to give a big thanks to
+our executive producers Ken Johnson, Jon Strosky,
+
+891
+01:19:52,032 --> 01:19:57,336
+Zachary Hepburn, Dustin Balcom. Miggie Mathengian,
+Brandon Essergard, Nathaniel Wagner, Levi Yaiten,
+
+892
+01:19:57,516 --> 01:20:03,540
+Austin Wieselowski, AJ Dunkerley, Scott Camacho,
+Gil Camacho, Adam Spies, Andrew Shunk, Dean
+
+893
+01:20:03,580 --> 01:20:08,684
+Mielewski, and Devin Davis for helping make
+this podcast possible. And we'll talk to you
+
+894
+01:20:08,704 --> 01:20:14,388
+guys next week. Up up and away, true believers.
+There is no love without sin. Cause I'm freaky
+
+895
+01:20:14,408 --> 01:20:14,788
+like that.
+
