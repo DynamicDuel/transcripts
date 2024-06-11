@@ -1,0 +1,3307 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,398 --> 00:00:29,202
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,242 --> 00:00:34,628
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:35,028 --> 00:00:40,353
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, we are doing a throwback
+
+5
+00:00:40,413 --> 00:00:47,580
+review to the 1993 animated theatrical film,
+Batman, Mask of the Phantasm. We were interested
+
+6
+00:00:47,640 --> 00:00:52,685
+in reviewing it now. because we just got done
+reviewing X-Men 97. And of course, both that
+
+7
+00:00:52,725 --> 00:00:57,969
+cartoon and Batman, the animated series for
+which this film is a tie in to were both popular
+
+8
+00:00:58,029 --> 00:01:02,593
+Saturday morning cartoons that a lot of us 90s
+kids grew up with. Yeah, it's a nostalgia episode.
+
+9
+00:01:02,953 --> 00:01:07,977
+The question is, does Batman mask the phantasm
+hold up to the animated series in the same
+
+10
+00:01:08,017 --> 00:01:13,594
+way that X-Men 97 held up to the 90s series?
+We'll find out later on this episode. Before
+
+11
+00:01:13,614 --> 00:01:16,936
+that we're going to break down the comic book
+movie news from this past week, of which there
+
+12
+00:01:16,956 --> 00:01:23,801
+was only one major news item, and that was the
+trailer for Venom 3. There was some casting
+
+13
+00:01:23,821 --> 00:01:29,506
+announcements made for the new Superman movie,
+but other than Beck Bennett as Steve Lombard,
+
+14
+00:01:29,586 --> 00:01:34,069
+I didn't really have too much to say about the
+casting choices. But as always, we list our
+
+15
+00:01:34,109 --> 00:01:37,812
+segment times in our episode description, so
+feel free to check out the show notes if you
+
+16
+00:01:37,832 --> 00:01:42,640
+want to skip ahead to a particular topic. Our
+artificially intelligent duel simulator AJ9K
+
+17
+00:01:42,660 --> 00:01:49,071
+has a quick message for our listeners, so listen
+up. Why hello there, do you want even more
+
+18
+00:01:49,091 --> 00:01:53,715
+from this podcast? Then become a part of the
+dynamic duel community on Patreon, where you
+
+19
+00:01:53,755 --> 00:01:58,779
+can choose from three tiers. The dynamic two-oh
+tier gives you access to our Discord chat server.
+
+20
+00:01:59,179 --> 00:02:03,603
+The fantastic four tier gives you two bonus
+episodes each month, and the X-Force tier makes
+
+21
+00:02:03,623 --> 00:02:09,167
+you an executive producer of this show. Lastly,
+the Diner Mike podcast network tier lets you
+
+22
+00:02:09,187 --> 00:02:13,651
+create your own podcast using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+23
+00:02:13,691 --> 00:02:19,236
+your show, provide graphic support and consultation,
+and get you simulation results. Pitch the twins
+
+24
+00:02:19,256 --> 00:02:25,341
+your ideas via email at dynamicduelpodcast at
+gmail.com. Check it out at patreon.com slash
+
+25
+00:02:25,381 --> 00:02:32,207
+dynamicduel. Pip pip cheerio. Thanks AJ9K and
+thanks to everyone who supports the podcast.
+
+26
+00:02:32,327 --> 00:02:38,112
+Quick note, watching or sharing our YouTube
+videos actually helps us a lot. We've recently
+
+27
+00:02:38,132 --> 00:02:42,256
+been putting up some shorts. So make sure to
+check those out and please subscribe.
+
+28
+00:03:08,522 --> 00:03:13,867
+On the Sanjo World podcast, host Zachary Heppard
+speculates on fights between fan favorite anime
+
+29
+00:03:13,967 --> 00:03:19,372
+and manga characters. The show is currently
+on a season hiatus, so this is the perfect
+
+30
+00:03:19,412 --> 00:03:25,798
+time for you anime fans to catch up on Sanjo
+World's 40 episode library. And on the Console
+
+31
+00:03:25,818 --> 00:03:30,042
+Combat podcast, hosts John and Dean find out
+who would win in fights between popular video
+
+32
+00:03:30,082 --> 00:03:34,566
+game characters. In yesterday's episode, they
+found out who would win in a fight- between
+
+33
+00:03:34,646 --> 00:03:40,447
+Mr. Incredible from the Incredibles video game
+against the Thing from, I'm guessing the 2005
+
+34
+00:03:41,047 --> 00:03:46,569
+Fantastic Four movie tie-in video game, or maybe
+like the Thing from the Marvel Nemesis game.
+
+35
+00:03:46,769 --> 00:03:51,690
+I'm not sure. Either way, sounds like a great
+matchup. Visit dynamicpodcasts.com or click
+
+36
+00:03:51,710 --> 00:03:56,211
+the link in our show notes to listen to all
+of the shows in the DynaMic Podcast Network.
+
+37
+00:03:56,612 --> 00:04:02,873
+But with that out of the way, quick to the no
+prize. A no prize is an award Marvel used to
+
+38
+00:04:02,893 --> 00:04:08,700
+give out to fans. Our version, the Dynamic Duel
+No Prize, is a digital award we post on Instagram
+
+39
+00:04:08,740 --> 00:04:13,423
+for the person that we feel gave the best answer
+to our question of the week. Last week's question
+
+40
+00:04:13,443 --> 00:04:18,666
+was, who's your favorite Green Lantern and why?
+And of course this was coming off of the news
+
+41
+00:04:18,706 --> 00:04:23,929
+that the showrunners for the upcoming Lanterns
+television series in the DCU was Damon Lindelof
+
+42
+00:04:24,049 --> 00:04:28,331
+and Chris Mundy. We got four different answers
+for this week's question, so we're going to
+
+43
+00:04:28,351 --> 00:04:33,766
+break down our honorable mentions before announcing
+this week's No Prize winner. Our first honorable
+
+44
+00:04:33,826 --> 00:04:40,188
+mention goes to Judson Batty who said, Hi guys,
+Judson Batty here. I'd say my favorite Green
+
+45
+00:04:40,208 --> 00:04:46,070
+Latin is Sinestro. I feel like the stories when
+he is a Green Latin and not yellow in the Sinestro
+
+46
+00:04:46,090 --> 00:04:51,592
+core just some of the most interesting, whether
+it's the early ones where he's training how
+
+47
+00:04:51,652 --> 00:04:58,691
+Jordan or prequels with Abin Suh. or even the
+new 52 when he gets the Green Lantern ring
+
+48
+00:04:58,711 --> 00:05:02,373
+back. I feel like they just make for a really
+interesting reads because it really pushes
+
+49
+00:05:02,393 --> 00:05:06,635
+the boundaries of what the ring and the core
+allow to happen. Good to hear from you again,
+
+50
+00:05:06,755 --> 00:05:11,878
+Jutsson from the land down under. For everyone
+who is confused by us claiming that Jutsson
+
+51
+00:05:11,898 --> 00:05:16,721
+was from Austria or from New Zealand, those
+people need to watch Dumb and Dumber and Flight
+
+52
+00:05:16,741 --> 00:05:20,963
+of the Conchords. Yeah, totally. But his answer
+of Sinestro is actually an interesting one,
+
+53
+00:05:20,983 --> 00:05:26,006
+considering Sinestro is, of course, one of the
+lead enemies, if not the lead enemy. of the
+
+54
+00:05:26,046 --> 00:05:31,287
+Green Lantern Corps. He started off as a Green
+Lantern but then defected, and recently for
+
+55
+00:05:31,327 --> 00:05:36,549
+a time came back to being a Green Lantern, and
+even a White Lantern. He's a very complex character,
+
+56
+00:05:36,649 --> 00:05:41,330
+if you don't know too much about him, I definitely
+suggest listening to our Sinestro vs Magneto
+
+57
+00:05:41,450 --> 00:05:46,952
+duel episode. Yeah, he trained Hal Jordan. He
+was, I think, really good friends with Abin
+
+58
+00:05:46,992 --> 00:05:52,913
+Sur, who was Hal Jordan's predecessor. And that's
+pretty much what I remember from your backstory
+
+59
+00:05:52,953 --> 00:05:58,287
+on him, Jonathan. Wow, you also need to go back
+and listen to that episode. That was like five
+
+60
+00:05:58,347 --> 00:06:03,990
+years ago. Come on, give me a break. Good answer,
+Judson. Our next honorable mention goes to
+
+61
+00:06:04,410 --> 00:06:08,692
+Mickey Mathingian, who said, it was because
+of Mickey and my favorite Green Lantern is
+
+62
+00:06:08,712 --> 00:06:13,794
+Jon Stewart. I think you guys have asked this
+before, but I'm going to answer it again. He
+
+63
+00:06:13,814 --> 00:06:17,715
+was my favorite because of the Justice League
+cartoon. I grew up on that. So he was like
+
+64
+00:06:17,735 --> 00:06:23,294
+the first Green Lantern I was introduced to.
+I also just really like his story. with him
+
+65
+00:06:23,314 --> 00:06:28,076
+being one of DC's first African-American superheroes
+and the fictional backstory, too, with him
+
+66
+00:06:28,096 --> 00:06:33,439
+being an architect and a really good sniper.
+Yeah, thanks, guys. Yeah, I didn't grow up
+
+67
+00:06:33,539 --> 00:06:37,521
+really with the Justice League cartoon that
+was a little bit after my time when I was in
+
+68
+00:06:37,561 --> 00:06:42,283
+high school. So I never really considered Jon
+Stewart to be like the Green Lantern. But just
+
+69
+00:06:42,543 --> 00:06:47,485
+from doing this podcast and doing research on
+the various Green Lanterns for our duel episodes.
+
+70
+00:06:48,018 --> 00:06:53,240
+Jon Stewart has become my personal favorite
+Green Lantern. It used to be Kyle Raynor and
+
+71
+00:06:53,260 --> 00:06:57,862
+then it was Hal Jordan, but I just love the
+backstory of Jon Stewart, how he's this Green
+
+72
+00:06:57,882 --> 00:07:03,005
+Lantern of prophecy and yet his military and
+architecture background kind of blend the best
+
+73
+00:07:03,065 --> 00:07:08,587
+of all worlds for each of the human Green Lantern
+characters. If we were left with just one human
+
+74
+00:07:08,607 --> 00:07:14,743
+Green Lantern, I would definitely pick Jon Stewart.
+I would agree. I think... between the recent
+
+75
+00:07:14,783 --> 00:07:19,786
+Green Lantern vs. Quasar episode we did and
+the Green Lantern Beware My Power animated
+
+76
+00:07:19,806 --> 00:07:25,090
+feature film. I think Jon Stewart has quickly
+become my favorite Green Lantern as well. Fantastic
+
+77
+00:07:25,190 --> 00:07:31,434
+answer, Miggy. Our final honorable mention goes
+to Cyrus Moore, who said, Hey guys, Cyrus Moore
+
+78
+00:07:31,454 --> 00:07:36,157
+here. Although my favorite Green Lantern is
+Kyle Rayner, I feel like he's gonna be a popular
+
+79
+00:07:36,337 --> 00:07:42,361
+answer. So therefore I'd like to go with Reloc
+Hag, who is just a really cool Lantern to start
+
+80
+00:07:42,381 --> 00:07:48,902
+with. He's an alpha lantern. He has a really
+interesting backstory. He's a centaur. I mean,
+
+81
+00:07:48,922 --> 00:07:54,427
+you can't get any better than that. Okay, I'm
+not gonna lie. I had to Google this guy. I
+
+82
+00:07:54,467 --> 00:07:59,591
+know nothing about him other than he looks like
+a total badass. Seriously, he has one of the
+
+83
+00:07:59,611 --> 00:08:03,975
+coolest designs out of any Green Lantern ever.
+Like I know the Green Lanterns span all the
+
+84
+00:08:03,995 --> 00:08:09,079
+races in the galaxy and the universe, but this
+particular centaur race is just a really cool
+
+85
+00:08:09,099 --> 00:08:16,024
+design. Reloc Hag, it's spelled R-E-L-O-K. H-A-G.
+If you don't know him, look him up. I think
+
+86
+00:08:16,044 --> 00:08:20,247
+you'll be similarly impressed. And the fact
+that he's an alpha lantern, like that just
+
+87
+00:08:20,407 --> 00:08:25,551
+gives him some extra cred in my book because
+those guys are awesome. The hell is an alpha
+
+88
+00:08:25,591 --> 00:08:30,715
+lantern? They're kind of described as the internal
+affairs of the green lanterns, but they're
+
+89
+00:08:30,735 --> 00:08:36,087
+essentially elite lanterns. Interesting. Now,
+Cyrus also mentioned Kyle Rayner, who was your
+
+90
+00:08:36,167 --> 00:08:40,910
+initial favorite Green Lantern, Jonathan? Yes,
+yeah, he was the Green Lantern that I personally
+
+91
+00:08:40,950 --> 00:08:46,173
+grew up with in the comics when I began reading
+DC Comics. He was, in fact, the only Green
+
+92
+00:08:46,193 --> 00:08:51,596
+Lantern that existed at that time. So he was
+my favorite by default. So, great answer, Cyrus.
+
+93
+00:08:52,116 --> 00:08:57,639
+But the winner of this week's No Prize is...
+Peter Trull, who said... What's up, Dynamic
+
+94
+00:08:57,679 --> 00:09:03,915
+Dudes, it's Peter. Uh, my favorite Green Lantern
+has got to be... Hal Jordan easily. He's the
+
+95
+00:09:03,995 --> 00:09:08,679
+one I grew up on the most and he's literally
+one of the greatest lanterns of all time. He's
+
+96
+00:09:08,719 --> 00:09:13,403
+mentioned in different comics, several of them,
+that he is the greatest lantern. Not even greatest
+
+97
+00:09:13,443 --> 00:09:18,968
+green lantern, but other lanterns of all the
+lantern core. Like he is the best. So what
+
+98
+00:09:19,028 --> 00:09:23,411
+else would you think other than Hal Jordan as
+the best green lantern of all time? Thanks
+
+99
+00:09:23,451 --> 00:09:28,476
+guys. So the only reason we didn't give the
+no prize to Miggie for his answer of Jon Stewart
+
+100
+00:09:28,876 --> 00:09:35,673
+is because one, I think We have in fact asked
+this question before, and two, because Hal
+
+101
+00:09:35,713 --> 00:09:41,398
+Jordan is the iconic Green Lantern. As much
+as I like Jon Stewart, I have to admit that
+
+102
+00:09:41,418 --> 00:09:46,622
+when it comes to other forms of media and just,
+you know, the public perception of the character
+
+103
+00:09:46,842 --> 00:09:51,726
+with the movie and everything, yeah, everyone
+knows Hal Jordan as the quintessential Green
+
+104
+00:09:51,766 --> 00:09:57,666
+Lantern. The dude can wield basically any ring
+and is just a master of it. I remember you
+
+105
+00:09:57,706 --> 00:10:02,750
+had a graphic novel called Green Lantern Fear
+itself, in which there was a segment at the
+
+106
+00:10:02,850 --> 00:10:08,093
+end where Kyle Rayner and Alan Scott were discussing
+the greatest Green Lantern of all time, and
+
+107
+00:10:08,133 --> 00:10:12,557
+they were talking about how Hal Jordan was the
+best of them. He was, you know, the specter
+
+108
+00:10:12,597 --> 00:10:16,419
+at the time, he was dead. But I always think
+back to that when I think about the greatest
+
+109
+00:10:16,459 --> 00:10:21,383
+Green Lanterns and how if you were to ask the
+core themselves who the best among them is,
+
+110
+00:10:21,583 --> 00:10:25,674
+a lot of them would actually pick Hal Jordan.
+Yeah, maybe. Or they'd be like... Oh, that
+
+111
+00:10:25,714 --> 00:10:31,479
+guy who killed all of us? Fuck that guy. He
+redeemed himself. He's all good. He's good.
+
+112
+00:10:31,499 --> 00:10:36,363
+He was possessed. What are you gonna do? That's
+true. But great answer, Peter. You win this
+
+113
+00:10:36,383 --> 00:10:40,507
+week's note prize. If you're the listener, want
+a shot at winning your own note prize. Stay
+
+114
+00:10:40,527 --> 00:10:44,771
+tuned to later on in this episode when we'll
+be asking another question of the week. And
+
+115
+00:10:44,891 --> 00:10:47,213
+now that that's done, on to the news.
+
+116
+00:10:52,814 --> 00:10:58,279
+This past week we got the first official trailer
+for the Venom The Last Dance movie which is
+
+117
+00:10:58,319 --> 00:11:02,603
+coming out in October. And right off the bat
+I just want to talk about my kind of love-hate
+
+118
+00:11:02,623 --> 00:11:06,827
+relationship with the Venom franchise because
+I actually really liked the first Venom movie.
+
+119
+00:11:06,947 --> 00:11:10,890
+As you will learn if you listen to our review
+I think we gave it about three and a half stars
+
+120
+00:11:11,431 --> 00:11:16,436
+and then I really disliked the Venom sequel
+Let There Be Carnage which I think we gave
+
+121
+00:11:16,476 --> 00:11:21,771
+about two or two and a half stars in our review.
+This third movie is really just a big question
+
+122
+00:11:21,811 --> 00:11:26,275
+mark as to whether or not it'll be closer to
+the first film and what made that so enjoyable
+
+123
+00:11:26,675 --> 00:11:32,059
+or closer to the second film which was kind
+of a dumpster fire. And honestly, I couldn't
+
+124
+00:11:32,079 --> 00:11:36,143
+really tell you judging off of this trailer.
+It kind of looks like it's a mix of both. There
+
+125
+00:11:36,483 --> 00:11:41,847
+are some great moments where we see Venom take
+on a group of criminals running a dog fighting
+
+126
+00:11:41,907 --> 00:11:45,902
+ring it looks like. The intro to this trailer
+was really fantastic. But then there were like
+
+127
+00:11:45,922 --> 00:11:49,986
+these jokes that were sprinkled through that
+it made me think of the second movie. And one
+
+128
+00:11:50,026 --> 00:11:55,591
+of the biggest criticisms we had of Venom let
+there be carnage is that Venom became a parody
+
+129
+00:11:55,651 --> 00:12:02,377
+of himself. You know, it's always kind of cute
+and fun to make Venom a quirky character. But
+
+130
+00:12:02,437 --> 00:12:06,580
+these filmmakers have to understand that they
+have to do it within reason. You know, if Venom
+
+131
+00:12:06,600 --> 00:12:11,700
+starts making too many jokes. then he doesn't
+really feel like who he is from the comics.
+
+132
+00:12:11,760 --> 00:12:15,342
+You know, the jokes have to be used sparingly
+and that's how you get the most out of them.
+
+133
+00:12:15,762 --> 00:12:21,967
+Yeah, I've never really saw Venom as a comedic
+character. So I was actually taken aback by
+
+134
+00:12:22,007 --> 00:12:28,391
+the first movie and pretty much despised the
+second. There are jokes sprinkled in this trailer,
+
+135
+00:12:28,431 --> 00:12:34,035
+but by this time I'm familiar enough with what
+they're going with to not entirely hate it.
+
+136
+00:12:34,155 --> 00:12:38,698
+Honestly, the first time I saw this trailer,
+I couldn't tell if it was gonna be like over
+
+137
+00:12:38,738 --> 00:12:46,303
+the top ambitious or actually more low key.
+It looks like the primary antagonists of this
+
+138
+00:12:46,363 --> 00:12:52,648
+movie are going to be General Orwell Taylor.
+It looks like played by Chiwetel Ejiofor who
+
+139
+00:12:52,708 --> 00:12:58,532
+is in charge of like this elite military symbiote
+hunting squad called the jury. In the comic
+
+140
+00:12:58,572 --> 00:13:03,055
+books, the jury were like a bunch of Iron Man
+knockoffs. Like they literally stole blueprints
+
+141
+00:13:03,075 --> 00:13:07,538
+to the Iron Man suit and then made their own
+venom fighting suits of armor. But here they
+
+142
+00:13:07,558 --> 00:13:11,679
+look a little bit more generic. I'm not sure
+if that's them being carried on that helicopter
+
+143
+00:13:11,980 --> 00:13:15,741
+and then being dropped into the water to fight
+Venom, but it really looks like that's who
+
+144
+00:13:15,761 --> 00:13:21,323
+they are. In addition to the jury and General
+Taylor, it looks like we're also getting other
+
+145
+00:13:21,383 --> 00:13:27,586
+symbiotes and the xenophage who are alien monsters
+that actually feed off of symbiotes. We see
+
+146
+00:13:27,686 --> 00:13:33,308
+one attack Venom on top of an airplane, which
+was a pretty crazy looking scene. So it's interesting
+
+147
+00:13:33,348 --> 00:13:38,771
+that Venom is kind of facing threats from both
+sides. The humans coming after him in the form
+
+148
+00:13:38,811 --> 00:13:42,793
+of General Taylor and the jury and the clintar
+coming after him in the form of other symbiotes
+
+149
+00:13:42,813 --> 00:13:47,476
+in the xenophage. So Eddie Brock looks like
+he's being put through the wringer even more
+
+150
+00:13:47,516 --> 00:13:52,098
+so than he usually is in these films and you
+know, he goes through a lot physically throughout
+
+151
+00:13:52,118 --> 00:13:55,701
+the course of this franchise. And Tom Hardy
+I think does a fantastic job of portraying
+
+152
+00:13:55,741 --> 00:13:59,783
+the wear and tear that the symbiote takes on
+his body and the duelity of the character and
+
+153
+00:13:59,823 --> 00:14:03,605
+everything. And that's definitely one of the
+things I'm looking forward to the most and
+
+154
+00:14:03,645 --> 00:14:07,503
+seeing. in this upcoming movie because these
+characters have been through a lot together.
+
+155
+00:14:07,903 --> 00:14:11,724
+Yeah, Eddie Brock and the symbiote, there's
+a bromance there. It's almost like a buddy
+
+156
+00:14:11,765 --> 00:14:15,606
+comedy in a way that the way they play off each
+other. And there were definitely some like
+
+157
+00:14:15,726 --> 00:14:20,588
+iconic scenes in this trailer that kind of played
+up on that with like Eddie Brock trying to
+
+158
+00:14:20,628 --> 00:14:24,910
+master the we are venom line with venom. That
+was weird because they did it correctly in
+
+159
+00:14:24,930 --> 00:14:29,512
+the first movie. So you think they would, you
+know, have it down already. That's true. But
+
+160
+00:14:29,552 --> 00:14:36,490
+also, I'm thinking of Eddie Brock riding the
+venom symbiote horse. That was pretty cool.
+
+161
+00:14:36,691 --> 00:14:42,474
+I remember there was a moment in the Venom comics
+when Flash Thompson was Agent Venom. He had
+
+162
+00:14:42,514 --> 00:14:46,536
+acquired the symbiote at the time and he had
+used the symbiote in a bunch of weird ways,
+
+163
+00:14:46,776 --> 00:14:51,759
+including some ways that I hate. Like he turned
+a car that he was driving into the Venomobile
+
+164
+00:14:51,779 --> 00:14:56,341
+by having the symbiote take over the car, which
+I thought was kind of bullshit because a car
+
+165
+00:14:56,401 --> 00:15:02,405
+is not an organic being. The way they had the
+symbiote take over a horse makes so much more
+
+166
+00:15:02,445 --> 00:15:07,663
+sense to me and I think just works. really well.
+I can't wait to see the venom horse in the
+
+167
+00:15:07,683 --> 00:15:13,725
+movie. How do you feel about General Taylor
+apparently being a variant of Baron Mordo?
+
+168
+00:15:14,865 --> 00:15:18,786
+Because of the casting? Yeah. That's a little
+weird right? You know if we're talking about
+
+169
+00:15:18,826 --> 00:15:23,888
+the multiverse, there's a very strange shot
+in this trailer that I know a lot of people
+
+170
+00:15:23,908 --> 00:15:29,329
+are talking about where we see General Taylor
+acquire the sample from the bar in Mexico that
+
+171
+00:15:29,930 --> 00:15:35,494
+Eddie Brock left behind in the end credits scene
+for Spider-Man No Way Home. Apparently that
+
+172
+00:15:35,534 --> 00:15:40,577
+piece of symbiote was left behind in the Marvel
+Cinematic Universe apart from the Sonyverse
+
+173
+00:15:41,118 --> 00:15:46,682
+and yet we see General Taylor somehow acquiring
+that sample. It's really unclear what's going
+
+174
+00:15:46,742 --> 00:15:51,125
+on here, whether or not Eddie Brock leaving
+the sample behind in the MCU is going to be
+
+175
+00:15:51,225 --> 00:15:55,628
+retconned to have been actually left behind
+in the Sonyverse or what the hell is going
+
+176
+00:15:55,689 --> 00:16:01,962
+on? Who the hell knows? Yeah, Marvel and Sony's
+relationship right now is like really weird.
+
+177
+00:16:02,102 --> 00:16:08,447
+It's like, are they together? Aren't they? It's
+a situationship, as the kids are saying these
+
+178
+00:16:08,467 --> 00:16:13,112
+days, and that extends into, you know, the upcoming
+Spider-Man four and everything like that. But
+
+179
+00:16:13,632 --> 00:16:18,977
+I'm really interested in seeing how this movie
+even pertains to the multiverse or if it even
+
+180
+00:16:19,057 --> 00:16:25,018
+does. And if so, how Tom Holland is going to
+get the symbiote, if he will. If that's going
+
+181
+00:16:25,038 --> 00:16:29,580
+to happen in Secret War, that would be really
+cool. But yeah, we'll see what happens. It
+
+182
+00:16:29,620 --> 00:16:34,663
+was really cool to see Detective Mulligan back
+as Toxin, although we didn't get to see him
+
+183
+00:16:34,703 --> 00:16:40,507
+in his Toxin form in this trailer. But we know
+that he acquired the symbiote, which was an
+
+184
+00:16:40,687 --> 00:16:45,730
+offshoot of the Carnage symbiote in the last
+movie. It'll be interesting to see how he factors
+
+185
+00:16:45,750 --> 00:16:49,732
+into the story, whether or not, you know, like
+he's the one that's reaching out to the Klintar
+
+186
+00:16:49,752 --> 00:16:53,790
+home planet and bringing all these aliens or
+not. but he does say that as long as Venom
+
+187
+00:16:53,870 --> 00:17:00,252
+lives, everyone, everything will end. So the
+trailer really tries to sell us on the idea
+
+188
+00:17:00,272 --> 00:17:05,233
+that Venom or Eddie Brock may be dying in this
+movie. I'm not really buying it. You know,
+
+189
+00:17:05,293 --> 00:17:09,835
+even the poster says, till death do they part.
+I don't think either Eddie Brock or Venom are
+
+190
+00:17:09,895 --> 00:17:14,736
+actually dying, but it is a great way to try
+to, you know, convince people to come see it
+
+191
+00:17:14,756 --> 00:17:18,497
+in the theaters, considering that most likely,
+you know, this will be the last Venom movie.
+
+192
+00:17:19,050 --> 00:17:22,852
+I'm really hoping though that he still shows
+up maybe in a Spider-Man movie, but we'll see.
+
+193
+00:17:23,332 --> 00:17:29,297
+Yeah, anytime studios say that something is
+the and now, I'm like, but is it? I mean, Hugh
+
+194
+00:17:29,337 --> 00:17:34,220
+Jackman's coming back as Wolverine. Right. Yeah,
+that can happen. Anything can happen. But again,
+
+195
+00:17:34,240 --> 00:17:39,343
+the movie comes out on October 25th of this
+year. We'll see if it's more of the first Venom
+
+196
+00:17:39,383 --> 00:17:45,347
+movie or more like the second Venom movie as
+it closes out this trilogy of films. But speaking
+
+197
+00:17:45,387 --> 00:17:47,869
+of trilogies, that brings us to our question
+of the week.
+
+198
+00:17:52,406 --> 00:17:58,867
+What Marvel or DC character do you think has
+had the most successful trilogy of films and
+
+199
+00:17:58,947 --> 00:18:04,889
+why? And we'll go ahead and count characters
+that have had four films, such as Thor or Superman,
+
+200
+00:18:04,989 --> 00:18:09,410
+you know, just count like the first three films
+of their franchise, and we want to know which
+
+201
+00:18:09,510 --> 00:18:13,711
+one you thought was the best. And that includes
+old franchises too. Can't wait to hear you
+
+202
+00:18:13,751 --> 00:18:19,153
+guys' answers! Record your answer at dynamicduel.com
+by clicking on the red microphone button in
+
+203
+00:18:19,193 --> 00:18:22,910
+the bottom right-hand corner of the screen.
+which will prompt you to leave us a voicemail.
+
+204
+00:18:23,311 --> 00:18:26,772
+Your message could be up to 30 seconds long,
+and don't forget to leave your name in case
+
+205
+00:18:26,812 --> 00:18:31,755
+we include you on the podcast. We'll pick our
+favorite answer and award that person a dynamic
+
+206
+00:18:31,775 --> 00:18:37,017
+duel no prize that we'll post to Instagram.
+Be sure to answer before June 15th.
+
+207
+00:18:44,322 --> 00:18:47,748
+That does it for all the news for this episode,
+now let's go ahead and move on to the main
+
+208
+00:18:47,788 --> 00:18:54,301
+event where we review the 1993 animated film,
+Batman Mask of the Phantasm.
+
+209
+00:19:09,570 --> 00:19:15,813
+Alright, Batman Mask of the Phantasm was a 1993
+animated film that, unlike a vast majority
+
+210
+00:19:15,833 --> 00:19:21,937
+of DC's animated projects, had a theatrical
+release. It was a feature film tie-in to the
+
+211
+00:19:21,977 --> 00:19:27,240
+popular 90s animated television series, and
+though I didn't see this movie in theaters
+
+212
+00:19:27,280 --> 00:19:32,903
+when it came out, I became aware of the critical
+hype surrounding this film as I got older and
+
+213
+00:19:32,943 --> 00:19:37,851
+still saw the movie when I was relatively young.
+This was after I read Frank Miller's Batman
+
+214
+00:19:37,871 --> 00:19:44,476
+Year One comic arc, however, which came out
+in 1987. When the movie came out in 1993, Mask
+
+215
+00:19:44,496 --> 00:19:50,841
+of the Phantasm was the closest thing non-comic
+readers had to an origin of sorts for how Bruce
+
+216
+00:19:50,861 --> 00:19:56,686
+Wayne became Batman until Batman Begins. In
+my opinion though, and this is the same opinion
+
+217
+00:19:56,806 --> 00:20:03,151
+I had when I first saw the movie, Phantasm is
+kinda over-hyped and comparatively not as good
+
+218
+00:20:03,392 --> 00:20:10,372
+as Batman Year One, Batman Begins, and other
+tales of Batman's origin. It's also not terrible,
+
+219
+00:20:10,432 --> 00:20:15,255
+however. It's not bad. It's actually pretty
+good. I want to be clear. I'd still recommend
+
+220
+00:20:15,275 --> 00:20:19,677
+it to people, so if you haven't seen it yet,
+you should consider checking it out before
+
+221
+00:20:19,717 --> 00:20:25,360
+we get into spoilers in this review. Yeah, I
+mean, if you're a 90s kid, you most certainly
+
+222
+00:20:25,380 --> 00:20:30,223
+have already seen this film because it was pretty
+ubiquitous along with the television show back
+
+223
+00:20:30,263 --> 00:20:34,625
+when we were children. I think we first saw
+this movie at home back in the glory days of
+
+224
+00:20:34,665 --> 00:20:40,095
+VHS. Yes, yeah, I think that's correct. Just
+for some quick backstory regarding the film,
+
+225
+00:20:40,556 --> 00:20:45,518
+Mask of the Phantasm was made because Warner
+Brothers sought to capitalize on the success
+
+226
+00:20:45,598 --> 00:20:52,000
+Fox was having with the WB Batman character
+in Batman the Animated Series, which Warner
+
+227
+00:20:52,040 --> 00:20:56,943
+Brothers let Fox use for that series and which
+debuted on television a year prior to this
+
+228
+00:20:56,983 --> 00:21:03,005
+film's release. The film was originally intended
+to be released directly to video, though halfway
+
+229
+00:21:03,025 --> 00:21:08,520
+through production, Warner Bros. decided to
+release the film in theaters, forcing the animators
+
+230
+00:21:08,800 --> 00:21:14,524
+to meet a highly aggressive production schedule.
+And for as much praise as I've seen critics
+
+231
+00:21:14,544 --> 00:21:20,227
+give this film in regards to its stylish animation,
+I feel like they just hadn't seen much animation
+
+232
+00:21:20,307 --> 00:21:25,610
+back then in general. Because by this point,
+we'd already had groundbreaking animated films
+
+233
+00:21:25,650 --> 00:21:32,278
+like Akira and Mask of the Phantasm seems super
+basic in comparison. Well... Yeah, there was
+
+234
+00:21:32,318 --> 00:21:38,923
+a lot of 80s anime stuff that was truly groundbreaking
+in how they approached more mature subject
+
+235
+00:21:38,963 --> 00:21:44,227
+matter in the medium of animated film. This
+movie was animated exactly like how the Saturday
+
+236
+00:21:44,267 --> 00:21:47,970
+Morning Cartoon was, maybe with a little bit
+more detail and frames and everything like
+
+237
+00:21:48,010 --> 00:21:54,515
+that. But I think if you had never been exposed
+to that sort of 1940s minimalistic style, you
+
+238
+00:21:54,535 --> 00:21:59,499
+would still be impressed by it. Yeah, I've seen
+a few critics. praise its Art Deco style, but
+
+239
+00:21:59,539 --> 00:22:03,182
+I'm like, well, have you not been watching the
+cartoon? Because it's there as well. It's awesome.
+
+240
+00:22:03,242 --> 00:22:09,148
+I agree. Bruce Tim's style will always be iconic
+to me. The Art Deco style is one of my favorite
+
+241
+00:22:09,168 --> 00:22:14,132
+styles by far. And while I'm glad that we've
+kind of moved past it, I understand why it
+
+242
+00:22:14,192 --> 00:22:19,517
+became so influential to a lot of DC animated
+work in the following decades. Yeah, that sort
+
+243
+00:22:19,557 --> 00:22:25,410
+of retrofuturism is a pretty awesome style that
+I think suits DC really well. Now from start
+
+244
+00:22:25,450 --> 00:22:31,631
+to finish, the entire film was completed in
+only eight months, which is insane. It's actually
+
+245
+00:22:31,651 --> 00:22:38,493
+pretty interesting. Half the movie was animated
+in a 4-3 aspect ratio intended for squarish
+
+246
+00:22:38,553 --> 00:22:43,675
+television screens from that time. So to meet
+the animation deadline, the production studios
+
+247
+00:22:43,695 --> 00:22:50,176
+had to simply crop their work into a wider 16
+by 9 ratio for theater screens. So there's
+
+248
+00:22:50,196 --> 00:22:54,942
+a lot that was animated that was left on the
+cutting room floor of sorts. but that full
+
+249
+00:22:54,982 --> 00:23:00,126
+version is a special feature on the digital
+and disc versions of the movie. I like watching
+
+250
+00:23:00,166 --> 00:23:05,371
+it in the 4-3 ratio largely because I don't
+think the scale of the film really suits a
+
+251
+00:23:05,411 --> 00:23:10,295
+theatrical format. To me, this movie always
+played like an extended two or three part television
+
+252
+00:23:10,335 --> 00:23:16,140
+series episode. Yes, I agree. I definitely agree.
+There was just a kind of a lack of spectacle.
+
+253
+00:23:16,200 --> 00:23:20,384
+As good as the story is, I just don't think
+it holds a candle to some of the spectacles
+
+254
+00:23:20,544 --> 00:23:25,628
+that we get from animated films. But certainly
+today, but you know, even in the early 2000s
+
+255
+00:23:26,148 --> 00:23:31,311
+and stuff. Yeah, it's lacking spectacle. It's
+lacking a number of things. I've always felt
+
+256
+00:23:31,512 --> 00:23:36,975
+like the Batman mask of the fantasy movie was
+missing something. And in doing my research
+
+257
+00:23:37,035 --> 00:23:43,600
+for this review, I realized what that was. Arguably,
+you could say fantasy was a work of corporate
+
+258
+00:23:43,640 --> 00:23:49,295
+passion rather than artistic passion. Bruce
+Timm created Batman the animated series to
+
+259
+00:23:49,335 --> 00:23:55,118
+tell Batman's iconic comic stories in a similar
+fashion as the Max Fleischer Superman cartoons
+
+260
+00:23:55,139 --> 00:24:00,382
+that he grew up with. But Phantasm was something
+of a cash grab by Warner Brothers in the same
+
+261
+00:24:00,402 --> 00:24:06,745
+way the Hobbit films or the Matrix Resurrections
+or the Fantastic Beasts films were. Those films
+
+262
+00:24:06,785 --> 00:24:11,968
+just lacked the same creative spirit and life
+that the filmmakers breathed into the films
+
+263
+00:24:12,008 --> 00:24:17,564
+that inspired those other works. I think that's
+especially evident in Mask of the Phantasm
+
+264
+00:24:17,644 --> 00:24:22,069
+because none of the story elements ended up
+being carried over to the animated series itself.
+
+265
+00:24:22,569 --> 00:24:27,414
+Because there are a lot of unanswered questions
+by the end of the film that good writers, if
+
+266
+00:24:27,434 --> 00:24:32,619
+they cared enough, would have answered, such
+as, you know, where did Andrea Beaumont get
+
+267
+00:24:32,659 --> 00:24:38,264
+her powers? Or why did Bruce specifically choose
+the symbol of the bat? Or even what happened
+
+268
+00:24:38,304 --> 00:24:42,190
+to Joker at the end of the film? Yeah, there
+were a lot of, I guess, plot holes, you could
+
+269
+00:24:42,210 --> 00:24:46,011
+call them, although they didn't like hamper
+the story. I guess they're more unanswered
+
+270
+00:24:46,051 --> 00:24:50,932
+questions that were left unresolved. So a lack
+of closure. I also wondered things like why
+
+271
+00:24:50,973 --> 00:24:56,834
+did Andrea even court Councilman Reeves and
+why didn't she kill him? Basically, considering
+
+272
+00:24:56,854 --> 00:25:02,296
+that he gave up her father. I think it was her
+plan to kill him if the Joker hadn't already
+
+273
+00:25:02,336 --> 00:25:06,497
+gotten to him. That's just speculation, though.
+That's a good question. Maybe she knew the
+
+274
+00:25:06,537 --> 00:25:11,827
+Joker would go after him. Who knows? Right.
+Now. If the film doesn't succeed in my opinion
+
+275
+00:25:11,887 --> 00:25:18,432
+in regards to story or animation, one of several
+things it does succeed in is the theme, particularly
+
+276
+00:25:18,873 --> 00:25:24,357
+vengeance and duty. For both Batman and the
+Phantasm, the film presents these parallel
+
+277
+00:25:24,517 --> 00:25:29,681
+arcs, these internal struggles for both of the
+titular characters that highlight the conflict
+
+278
+00:25:29,721 --> 00:25:36,350
+between personal fulfillment and societal obligation
+in their individuel pursuits of justice. most
+
+279
+00:25:36,510 --> 00:25:42,793
+interesting thing about this film to me are
+the questions it posits about Batman's nature.
+
+280
+00:25:42,813 --> 00:25:47,295
+Now the filmmakers initially denied it, but
+much of the story from this film was borrowed
+
+281
+00:25:47,435 --> 00:25:53,317
+from the comic book storyline Batman Year 2,
+in which Batman fought a skull mask wearing,
+
+282
+00:25:53,698 --> 00:25:58,940
+scythes for hands vigilante that turned out
+to be the father of a woman Bruce Wayne proposed
+
+283
+00:25:59,040 --> 00:26:04,447
+to. Spoilers, if you haven't read that, sorry.
+But it was so obvious that that's where they
+
+284
+00:26:04,487 --> 00:26:09,450
+got a lot of the story from that the writer
+of Batman year two Mark Barr Approached to
+
+285
+00:26:09,470 --> 00:26:14,894
+DC Comics president Paul Levitz about it and
+Levitz actually agreed to give Barr a portion
+
+286
+00:26:14,914 --> 00:26:19,697
+of the film's earnings as well As financial
+credit for the creation of the Phantasm character,
+
+287
+00:26:19,717 --> 00:26:24,260
+which is pretty cool Now the Phantasm never
+appeared in the mainstream comics until recently
+
+288
+00:26:24,401 --> 00:26:29,924
+introduced in a run by Tom King Who has also
+largely run with the same themes presented
+
+289
+00:26:30,125 --> 00:26:36,011
+in Mask of the Phantasm such as whether or not
+Batman can ever find love, get married, be
+
+290
+00:26:36,051 --> 00:26:41,832
+happy, and still be Batman. But let's touch
+more on Batman and the themes in the character
+
+291
+00:26:41,873 --> 00:26:48,054
+breakdown. Now Batman slash Bruce Wayne was
+voiced by Kevin Conroy, who, as we've stated
+
+292
+00:26:48,134 --> 00:26:53,616
+numerous times on this podcast, is perfect as
+Batman. And this film showcases one of the
+
+293
+00:26:53,676 --> 00:26:59,722
+best examples of the heart and emotion he was
+capable of bringing to the role. Yeah, I don't
+
+294
+00:26:59,762 --> 00:27:03,786
+think we've ever seen Batman as emotional as
+he was in this story. You know, usually he's
+
+295
+00:27:03,866 --> 00:27:08,390
+kind of a stoic badass, but in this, you know,
+we actually see him cry, you know, and he's
+
+296
+00:27:08,410 --> 00:27:12,833
+like weeping and like pleading with his dead
+parents and everything like that. So, this
+
+297
+00:27:12,874 --> 00:27:17,878
+movie is just a testament to Kevin Conroy. This
+was actually early in his Batman career and
+
+298
+00:27:17,918 --> 00:27:22,041
+he went on to, you know, really define the character
+I think for a lot of people. Rest in peace.
+
+299
+00:27:22,570 --> 00:27:27,814
+Yes, RIP Kevin Conroy. Now in the film, Bruce
+grapples with his identity as Batman and his
+
+300
+00:27:27,855 --> 00:27:34,701
+desire for a normal life with his former fiancee,
+Andrea Beaumont. When Bruce's past with Andrea
+
+301
+00:27:34,761 --> 00:27:41,267
+resurfaces, he's forced to confront these unresolved
+emotions regarding his own personal desires
+
+302
+00:27:41,307 --> 00:27:47,493
+and how they conflict with his sense of duty
+as Gotham's protector. Ultimately, Bruce accepts,
+
+303
+00:27:47,653 --> 00:27:54,214
+albeit- reluctantly perhaps that the sacrifices
+inherent to his role as Batman, this duty to
+
+304
+00:27:54,234 --> 00:28:01,439
+Gotham City and vengeful crusade, transcends
+his own happiness. And the arc of him realizing
+
+305
+00:28:01,499 --> 00:28:06,743
+that was a pretty profound one I would say in
+this movie, and again a very emotional one.
+
+306
+00:28:07,084 --> 00:28:12,679
+The line of him at his parents grave where he's
+saying I never expected to be happy or something
+
+307
+00:28:12,719 --> 00:28:18,163
+along those lines was unbelievable. And still
+watching the film to this day kind of gets
+
+308
+00:28:18,203 --> 00:28:24,847
+me the fact that this guy would sacrifice his
+life essentially to protecting others is like
+
+309
+00:28:24,887 --> 00:28:30,151
+the definition of heroism. It was really tragic
+that moment when he was basically, you know,
+
+310
+00:28:30,291 --> 00:28:36,454
+begging his parents to break his promise to
+them. and step away from the role of Batman
+
+311
+00:28:36,734 --> 00:28:41,916
+and be happy with a wife and family and everything
+like that. It was particularly tragic because
+
+312
+00:28:42,436 --> 00:28:48,058
+you can assume, especially as a parent, that
+Batman is not what the Waynes would want for
+
+313
+00:28:48,098 --> 00:28:52,819
+their son Bruce. You know, they would actually
+want him to be happy and to move on from the
+
+314
+00:28:52,859 --> 00:28:58,060
+tragedy of their deaths and not be so affected
+by it. And so, when he's essentially pleading
+
+315
+00:28:58,080 --> 00:29:03,082
+with them to like let him do that, you have
+to imagine the Waynes. being like, of course,
+
+316
+00:29:03,182 --> 00:29:08,923
+but he won't let himself break his own promise
+that he made. Right, because he's so unbelievably
+
+317
+00:29:09,003 --> 00:29:15,345
+dedicated to that vow and to his cause. It's
+a very, very interesting character study. And
+
+318
+00:29:15,405 --> 00:29:20,086
+I think that, you know, goes to show why the
+character is so popular. That sort of exploration
+
+319
+00:29:20,267 --> 00:29:25,448
+isn't something that has been explored much
+for the character that I think warrants further
+
+320
+00:29:25,508 --> 00:29:30,269
+exploration, for sure. I think they attempted
+it in the Nolan films, especially The Dark
+
+321
+00:29:30,289 --> 00:29:35,822
+Knight Rises. but not to the same level of success
+I would argue as Batman Mask of the Phantasm.
+
+322
+00:29:36,162 --> 00:29:43,029
+This idea that Batman has an ending is not terribly
+attractive. I want Batman to continue his crusade
+
+323
+00:29:43,070 --> 00:29:48,695
+forever because I think that's heroic and I
+think giving that up is not heroic. And maybe
+
+324
+00:29:48,735 --> 00:29:54,361
+that's selfish of me, but it's just this ideal
+that Batman represents that is attractive in
+
+325
+00:29:54,381 --> 00:29:59,020
+a way. Well, you've always said that you like
+your DC characters because they're aspirational
+
+326
+00:29:59,220 --> 00:30:04,604
+and more symbols than they are characters. And
+I think Batman giving up his crusade to actually
+
+327
+00:30:04,724 --> 00:30:10,088
+be happy would make him more relatable and therefore
+more of a Marvel character. So I think maybe
+
+328
+00:30:10,128 --> 00:30:14,471
+that's your own bias. Maybe. I mean, do you
+want to see Batman give up his crusade? I don't
+
+329
+00:30:14,491 --> 00:30:24,194
+give a fuck about Batman. Geez! Whatever. Moving
+on to Andrea Beaumont, aka the Phantasm. She
+
+330
+00:30:24,214 --> 00:30:30,959
+was voiced by Dana Delaney. Now this was several
+years prior to her voicing Lois Lane in Superman
+
+331
+00:30:30,979 --> 00:30:36,543
+the Animated Series. So I'm sure there was not
+a problem with her voice when this hit theaters,
+
+332
+00:30:36,583 --> 00:30:42,087
+but holy crap, all I could hear was Lois Lane
+watching this now. And she did a great job
+
+333
+00:30:42,127 --> 00:30:47,731
+in the role, don't get me wrong, but her voice
+is extremely recognizable and it did present
+
+334
+00:30:47,771 --> 00:30:52,550
+a challenge for me in watching this film once
+again. Character wise, they were both, you
+
+335
+00:30:52,570 --> 00:30:57,651
+know, these spunky romantic interests. And yeah,
+I just, I just kind of shake it. It's like,
+
+336
+00:30:57,671 --> 00:31:02,433
+oh, it's, it's Lois Lane. My brain was just
+thinking that the whole time. That too time
+
+337
+00:31:02,453 --> 00:31:09,355
+in... Now we know where she went off to in the
+boat. She went to go get a die job and moved
+
+338
+00:31:09,395 --> 00:31:15,056
+to Metropolis. Change her name. Boom. Now, though
+we don't know it for most of the film, Andrea's
+
+339
+00:31:15,176 --> 00:31:20,526
+arc revolves around themes of loss and vengeance,
+much like Batman's. She's driven by this desire
+
+340
+00:31:20,566 --> 00:31:25,750
+for retribution against the mobsters responsible
+for her father's death and adopts the persona
+
+341
+00:31:25,850 --> 00:31:33,534
+of the Phantasm to exact justice. But in contrast
+to Batman, Andrea lacks his morality and is
+
+342
+00:31:33,554 --> 00:31:38,918
+willing to kill and lie to loved ones including
+Bruce himself, manipulating him to prevent
+
+343
+00:31:38,958 --> 00:31:44,341
+him from stopping her mission. The thing is,
+despite this, Andrea is still a sympathetic
+
+344
+00:31:44,381 --> 00:31:50,034
+character. because it clearly shows in the movie
+how the mob took literally everything from
+
+345
+00:31:50,094 --> 00:31:56,219
+her, including the life of her father. Alfred
+describes vengeance in the movie as a soul-destroying
+
+346
+00:31:56,259 --> 00:32:02,505
+abyss that Bruce skirts the edge of every day
+and that Andrea fell into long ago. I think
+
+347
+00:32:02,545 --> 00:32:06,868
+she recognized this as well, which is why she
+chose not to be with Bruce at the end of the
+
+348
+00:32:06,908 --> 00:32:11,532
+film. She's a study on what would happen, I
+think, if Batman started killing people like
+
+349
+00:32:11,552 --> 00:32:17,215
+the Joker. Right. he would kind of lose himself
+and become a serial killer, really. How could
+
+350
+00:32:17,255 --> 00:32:22,616
+he not? Like, he's so effective at what he does,
+it would be so easy for him to do that. And
+
+351
+00:32:22,716 --> 00:32:28,438
+once he did it once, you'd figure he'd be like,
+oh, it's very easy to do this. It's just, yeah,
+
+352
+00:32:28,458 --> 00:32:33,159
+a bad path to go down. That being said, I still
+think he should do it. But we've had this discussion
+
+353
+00:32:33,179 --> 00:32:37,160
+a million times before. If you want to hear
+more about this discussion, listen to our review
+
+354
+00:32:37,180 --> 00:32:42,430
+of Batman Under the Red Hood because they really
+get into it deep in that story. Yes, absolutely.
+
+355
+00:32:42,570 --> 00:32:47,451
+Also, you're fucking evil, bro. I think it's
+evil to not kill him. Well, you're wrong. Anyway,
+
+356
+00:32:48,692 --> 00:32:53,613
+now one of my biggest problems with this film
+is something I noticed even as a child watching
+
+357
+00:32:53,633 --> 00:32:59,635
+this for the first time. And that's how the
+hell did Andrea get her powers. Like intangibility
+
+358
+00:32:59,675 --> 00:33:04,877
+and teleportation are pretty impressive feats.
+You'd think Batman's first question upon learning
+
+359
+00:33:04,897 --> 00:33:10,863
+she was the Phantasm would have been, dude.
+Teach me. I mean, we all know that Batman seemingly
+
+360
+00:33:10,923 --> 00:33:15,165
+teleports when like people have their backs
+turned. We know he just kind of like scampers
+
+361
+00:33:15,265 --> 00:33:19,526
+off and hides. So people think that he just
+vanishes out of thin air, but we literally
+
+362
+00:33:19,627 --> 00:33:25,329
+see the phantasm character disappear completely
+in a puff of smoke. There's no other way around
+
+363
+00:33:25,409 --> 00:33:30,271
+it except teleportation. So she's doing something
+we're here. Maybe she got into like the occult
+
+364
+00:33:30,311 --> 00:33:34,533
+or something. That's the idea that I have in
+the back of my head. Oh, interesting. I always
+
+365
+00:33:34,693 --> 00:33:41,096
+assumed it was technology. Why did I never assume
+it was magic? That's a good answer. And it's
+
+366
+00:33:41,136 --> 00:33:46,239
+my new headcanon, so thanks for that. There
+you go. But another thing that really bothers
+
+367
+00:33:46,259 --> 00:33:53,323
+me about this film is the twist is so obvious.
+And this has bothered me about other Batman
+
+368
+00:33:53,363 --> 00:34:00,987
+stories such as like Hush, where the newly introduced
+friend of Bruce Wayne is also the newly introduced
+
+369
+00:34:01,127 --> 00:34:07,831
+villain. Even as a kid, I was like, I bet you
+that's Andrea. And I was fucking right. I was
+
+370
+00:34:07,891 --> 00:34:13,815
+a smart kid. Moving on to the Joker, voiced
+by Mark Hamill. Again, we've said so many great
+
+371
+00:34:13,835 --> 00:34:19,119
+things about Mark Hamill's performance as the
+Joker. Like Kevin Conroy for Batman, he is
+
+372
+00:34:19,159 --> 00:34:25,043
+the quintessential Joker voice. Yeah, I think
+we spoke a lot about him in the Killing Joke
+
+373
+00:34:25,343 --> 00:34:30,558
+animated movie review that we did. This performance
+is also... pretty early in Mark Hamill's career
+
+374
+00:34:30,618 --> 00:34:36,201
+as the Joker. And it's just amazing to see how
+consistent these guys were throughout the decades.
+
+375
+00:34:36,801 --> 00:34:42,724
+Oh yeah, for sure. So the first time we see
+the Joker, we don't know it. He's an anonymous
+
+376
+00:34:42,844 --> 00:34:48,346
+mob lackey of Salvatore Valestra. There's been
+a number of ways that writers have tried to
+
+377
+00:34:48,426 --> 00:34:53,148
+tie the Joker into Batman's origin throughout
+the years, you know, for making him the one
+
+378
+00:34:53,168 --> 00:34:59,912
+who murdered the Waynes in the 1989 Batman film.
+or causing a citywide riot that resulted in
+
+379
+00:34:59,932 --> 00:35:05,616
+the Wayne's death in the Joker movie. In this
+film, he wasn't involved in the deaths of the
+
+380
+00:35:05,656 --> 00:35:11,240
+Waynes that we know of, but he represented a
+threat to the object of Bruce's desire and
+
+381
+00:35:11,320 --> 00:35:17,064
+happiness, namely, Andrea, which if Bruce had
+been allowed to keep, he would not have become
+
+382
+00:35:17,124 --> 00:35:22,949
+Batman. And honestly, that's as direct an influence
+to Batman's origin as I'd personally care for
+
+383
+00:35:22,989 --> 00:35:27,515
+the Joker to have. Yeah, I remember that the
+Joker was in this movie from watching it as
+
+384
+00:35:27,555 --> 00:35:33,638
+a kid, but I couldn't remember in the course
+of the film how and why and when he shows up.
+
+385
+00:35:33,718 --> 00:35:37,900
+Now he doesn't actually show up until like a
+little bit past halfway through the runtime,
+
+386
+00:35:38,080 --> 00:35:42,122
+if I'm not mistaken. And I thought his presence
+was actually sorely missed because once he
+
+387
+00:35:42,162 --> 00:35:46,604
+shows up, I think the film starts firing on
+all cylinders, but before that the pacing was
+
+388
+00:35:46,624 --> 00:35:50,862
+a little bit slow. I was really glad to have
+Joker in this movie. Yeah, originally he wasn't
+
+389
+00:35:50,902 --> 00:35:55,845
+going to be in the movie, but they found a way
+to organically bring him in. And I gotta say,
+
+390
+00:35:56,045 --> 00:36:00,608
+I love it. Now, as we've mentioned before, people
+have always wondered why Batman doesn't kill
+
+391
+00:36:00,648 --> 00:36:05,991
+the Joker, and interestingly enough, in this
+film, Joker actually seems somewhat threatened
+
+392
+00:36:06,031 --> 00:36:11,014
+by the Phantasm when he confronts Councilman
+Reeves because he knows he was one of the mobsters
+
+393
+00:36:11,034 --> 00:36:15,736
+that the Phantasm might be after. I feel like
+this is the first time I've seen the Joker
+
+394
+00:36:15,876 --> 00:36:20,792
+threatened by a ghost from his past. And I just
+thought that was fascinating. Yeah, the Joker
+
+395
+00:36:20,832 --> 00:36:24,795
+never really fears any of the consequences to
+his actions because he knows that Batman will
+
+396
+00:36:24,815 --> 00:36:30,180
+never kill him. So he kind of feels like he
+has the freedom to do what he wants. And in
+
+397
+00:36:30,220 --> 00:36:35,044
+a way, he's kind of right. So when he is faced
+with death, he of course, you know, goes above
+
+398
+00:36:35,084 --> 00:36:40,149
+and beyond to eliminate that threat. Whereas
+with Batman, he never truly wants to kill Batman,
+
+399
+00:36:40,429 --> 00:36:45,533
+he would rather corrupt him. It is kind of cool
+that he tries to do that using his secret lair.
+
+400
+00:36:45,866 --> 00:36:50,747
+made out of the ruins of the Gotham World Fair.
+I thought that was a nice little setting that
+
+401
+00:36:50,787 --> 00:36:56,549
+they incorporated into this film. Yeah, absolutely.
+It was a great place for a final climactic
+
+402
+00:36:56,589 --> 00:37:01,651
+battle, the way Joker was able to utilize all
+the different toys and stuff around him. I
+
+403
+00:37:01,711 --> 00:37:07,653
+loved that like, knife chopping robot. I loved
+like, the miniature Gotham City. It was all
+
+404
+00:37:07,673 --> 00:37:08,373
+pretty great stuff.
+
+405
+00:37:15,150 --> 00:37:21,416
+World where fantasies collide and heroes clash.
+One podcast network rises above the rest. Prepare
+
+406
+00:37:21,436 --> 00:37:27,162
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+407
+00:37:27,222 --> 00:37:32,908
+Dynomic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+408
+00:37:35,054 --> 00:37:41,657
+Comic Book Titans smash every Tuesday, Max Destruction,
+where TV and action heroes battle every Wednesday,
+
+409
+00:37:42,217 --> 00:37:48,140
+and Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+410
+00:37:48,160 --> 00:37:53,863
+the matches and, armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+411
+00:37:54,383 --> 00:37:58,645
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+412
+00:38:03,086 --> 00:38:07,909
+Moving on to the story highlights, the film
+opens with the opening credits, just want to
+
+413
+00:38:07,949 --> 00:38:14,612
+touch on those briefly. It's a CG rendition
+of the animated Gotham Cityscape, and it's
+
+414
+00:38:15,012 --> 00:38:21,455
+actually pretty awesome. Of course, it's made
+even better by Shirley Walker's iconic animated
+
+415
+00:38:21,495 --> 00:38:27,510
+series score, which sets the perfect tone for
+a Batman movie. It almost makes you wish that
+
+416
+00:38:27,530 --> 00:38:32,272
+they had taken bigger swings with the animation,
+right? Because we have this really cool animated
+
+417
+00:38:32,352 --> 00:38:37,474
+setup into the film, and then all of a sudden
+it goes back to standard Saturday morning cartoon
+
+418
+00:38:37,514 --> 00:38:41,536
+fare. But at least if they had kept the environment
+CG or something like that, I think it would
+
+419
+00:38:41,556 --> 00:38:47,659
+have felt like a more true theatrical experience.
+Yeah, I mean, CG was pretty new to that time.
+
+420
+00:38:48,259 --> 00:38:52,280
+So I think that probably would have been more
+of a challenge for them. I could be wrong.
+
+421
+00:38:52,761 --> 00:38:57,039
+But yeah, I think that also would have been
+cool. I wonder why they didn't take that 3D
+
+422
+00:38:57,079 --> 00:39:01,281
+model that they had created of Gotham City and
+then incorporate it into the television series
+
+423
+00:39:01,361 --> 00:39:06,664
+kind of the same way they did with the Spider-Man
+animated television show in the 90s where they
+
+424
+00:39:06,684 --> 00:39:10,806
+had a 3D model of New York that they would keep
+revisiting as he was like swinging through
+
+425
+00:39:10,826 --> 00:39:14,768
+the streets or to use as a transition between
+scenes and stuff like that. I think it makes
+
+426
+00:39:14,788 --> 00:39:19,231
+sense for the character of Spider-Man. You really
+didn't have those transitional scenes with
+
+427
+00:39:19,451 --> 00:39:23,873
+Batman in his series. I'm not sure it would
+have been necessary. Although, you know, honestly...
+
+428
+00:39:24,254 --> 00:39:27,856
+If they thought of that, they probably could
+have found a way to make it work. I'm sure
+
+429
+00:39:27,876 --> 00:39:31,378
+for audience members in the theater at the time,
+it was like breathtaking because you have to
+
+430
+00:39:31,398 --> 00:39:38,482
+remember this was pre mainstream CG animated
+films, like pre Toy Story. Right. So, yeah,
+
+431
+00:39:38,722 --> 00:39:42,704
+I bet it was really cool. Now, moving on to
+the plot. Well, Batman confronts a gang of
+
+432
+00:39:42,784 --> 00:39:48,827
+mobsters led by Chucky Saul for counterfeiting.
+Chucky flees only to be encountered and killed
+
+433
+00:39:48,887 --> 00:39:55,571
+by a new enigmatic vigilante known as the Phantasm.
+whose silhouette resembles Batman's, resulting
+
+434
+00:39:55,611 --> 00:40:01,394
+in witnesses blaming Batman for Chucky's murder.
+Amidst a public censure from city councilman
+
+435
+00:40:01,474 --> 00:40:06,576
+Arthur Reeves, Batman analyzes a shard of glass
+with a chemical residue from the Phantasm's
+
+436
+00:40:06,636 --> 00:40:13,079
+signature smokey aura, while Andrea Boumont,
+Bruce's former fiancé, returns to Gotham after
+
+437
+00:40:13,159 --> 00:40:19,223
+years of being away. And this is sort of like
+the first plot hole. The fact that Andrea was
+
+438
+00:40:19,343 --> 00:40:25,248
+already in Gotham as the Phantasm, and yet we
+see a scene of her arriving via plane. It's
+
+439
+00:40:25,648 --> 00:40:31,433
+supposed to be this misdirect that actually
+just results in confusion later on. Well, Batman
+
+440
+00:40:31,453 --> 00:40:37,818
+addresses it. He's like, you came into Gotham
+early. Seemingly, she came in by boat and then
+
+441
+00:40:37,838 --> 00:40:43,183
+she probably left by boat and then came in by
+plane. But like, why would that matter to someone
+
+442
+00:40:43,223 --> 00:40:48,527
+who wasn't specifically following her movements?
+You know? a little bit strange. Do you think
+
+443
+00:40:48,567 --> 00:40:55,611
+that Andrea specifically designed her phantasm
+outfit to resemble Batman and therefore be
+
+444
+00:40:55,671 --> 00:41:02,035
+confused for him by eyewitnesses? Well that's
+a good question. I don't know it's possible
+
+445
+00:41:02,175 --> 00:41:08,719
+although I don't really think she had a vendetta
+against Batman per se so I think she was honestly
+
+446
+00:41:08,759 --> 00:41:12,766
+just trying to scare people in the same way
+that Batman was trying to scare people. She
+
+447
+00:41:12,806 --> 00:41:16,888
+wouldn't have been familiar with Batman because
+she had been away from Gotham for so long.
+
+448
+00:41:17,349 --> 00:41:22,773
+It just kind of turned into this kind of shitty
+coincidence for Batman. Now regarding the suit,
+
+449
+00:41:23,673 --> 00:41:28,417
+I didn't really touch on her appearance. I thought
+the design of the Phantasm was actually pretty
+
+450
+00:41:28,457 --> 00:41:34,041
+bomb. Again, it's inspired somewhat by the Grim
+Reaper character from Batman Year 2, but I
+
+451
+00:41:34,081 --> 00:41:40,125
+think that further went on to inspire Asriel's
+look from the comics. I thought Asriel predates
+
+452
+00:41:40,165 --> 00:41:45,903
+the Phantasm. He does, but I don't think that
+costume does, because for the longest time,
+
+453
+00:41:46,163 --> 00:41:53,085
+Asriel wore like a cybernetic Batman suit. Asriel
+being the guy who took over for Batman after
+
+454
+00:41:53,145 --> 00:41:58,386
+his back was broken by Bane. Yes, if you want
+to learn more about him, check out our Asriel
+
+455
+00:41:58,426 --> 00:42:04,848
+vs. Blade episode. During a party at Wayne Manor,
+Bruce is accosted by an old romantic fling
+
+456
+00:42:04,908 --> 00:42:10,394
+and reminded of Andrea by Councilman Reeve,
+who unbeknownst to Bruce... has been talking
+
+457
+00:42:10,414 --> 00:42:15,897
+with Andrea. Bruce reminisces in a flashback
+to the time he first met Andrea in a cemetery
+
+458
+00:42:16,117 --> 00:42:21,260
+while visiting his parents' grave. That same
+evening, Bruce begins his masked vigilante
+
+459
+00:42:21,300 --> 00:42:26,683
+career, stopping a group of bandits, though
+facing significant resistance and getting injured
+
+460
+00:42:26,723 --> 00:42:32,326
+in the process. Recognizing he needs to strike
+fear in criminals to have an advantage over
+
+461
+00:42:32,366 --> 00:42:37,849
+them, Bruce nonetheless becomes distracted by
+Andrea when she visits him during his training.
+
+462
+00:42:38,206 --> 00:42:44,951
+and the two share their first kiss. Now an interesting
+note for the flashbacks in this film, they
+
+463
+00:42:44,971 --> 00:42:50,896
+were inspired by Citizen Kane. I could see that
+for sure. Yeah, yeah, me too. Right when I
+
+464
+00:42:51,016 --> 00:42:55,120
+read that I was like, oh yeah. If you're not
+familiar with Citizen Kane, it's an old film
+
+465
+00:42:55,160 --> 00:43:00,744
+by Orson Welles, black and white, but it's highly
+regarded by a majority of film critics as the
+
+466
+00:43:00,784 --> 00:43:05,067
+greatest film that's ever been made. Yeah, I
+mean, I don't know how much I buy into the
+
+467
+00:43:05,147 --> 00:43:08,909
+idea of it being inspired by Citizen Kane, because
+then you could say like all flashbacks are
+
+468
+00:43:08,929 --> 00:43:15,172
+inspired by Citizen Kane, but the kind of 1940s
+Art Deco feel of Mask of the Phantasm kind
+
+469
+00:43:15,233 --> 00:43:19,855
+of easily lends itself to those comparisons
+to Citizen Kane. Yeah, and sort of like the
+
+470
+00:43:19,875 --> 00:43:26,039
+main character being this sort of tortured billionaire.
+Yeah. I think if any comics character is going
+
+471
+00:43:26,059 --> 00:43:31,261
+to have a film based on Citizen Kane, it's definitely
+Batman. I think that was a really smart decision.
+
+472
+00:43:31,554 --> 00:43:36,798
+to take inspiration for the filmmakers. Or Tony
+Stark. Yeah, Tony Stark could go fuck himself.
+
+473
+00:43:37,158 --> 00:43:43,603
+WHAT? I SAID IT! Anyway, back to the present,
+mob boss Buzz Bronski visits the grave of Chuckie
+
+474
+00:43:43,643 --> 00:43:49,168
+Saul at the cemetery, where he's confronted
+and killed by the Phantasm. Batman is blamed
+
+475
+00:43:49,228 --> 00:43:54,652
+by the press once again to the dismay of both
+Mob Boss Salvatore Velestra and Councilman
+
+476
+00:43:54,712 --> 00:44:00,377
+Reeves, the latter of whom presses Police Commissioner
+James Gordon to go after Batman, though Gordon
+
+477
+00:44:00,417 --> 00:44:06,377
+refuses. While Batman investigates the cemetery
+for clues, he finds more chemical residue before
+
+478
+00:44:06,417 --> 00:44:12,781
+finding his parents' grave, where he's caught
+by Andrea, who realizes Batman must be Bruce.
+
+479
+00:44:12,921 --> 00:44:17,404
+Maybe a little bit of a stretch, but yeah, he
+shouldn't have been at his frickin' parents'
+
+480
+00:44:17,424 --> 00:44:22,447
+grave. Rookie move. I gotta say earlier on in
+the story when we see that Batman year one
+
+481
+00:44:22,487 --> 00:44:27,054
+moment where Bruce Wayne is kinda trying his
+hand at being a vigilante the first time. It
+
+482
+00:44:27,094 --> 00:44:32,997
+was quite comical to see him attempt that outside
+of the Batman costume, where he's just some
+
+483
+00:44:33,037 --> 00:44:38,300
+like guy who shows up and he's like, Hey guys,
+stop it. And like their reaction to him was
+
+484
+00:44:38,360 --> 00:44:43,843
+actually kind of funny. They're like, who's
+this guy? Right. Absolutely. To all the haters
+
+485
+00:44:43,903 --> 00:44:49,366
+who are like, Oh, Batman's so dumb. He's a guy
+wearing a bat costume. Have you considered
+
+486
+00:44:49,406 --> 00:44:54,649
+the alternative? I think this is a perfect example
+of that. Just how ridiculous it is. You better
+
+487
+00:44:54,709 --> 00:45:01,740
+listen to me or else. He's much better as this
+haunting mythical creature of the night for
+
+488
+00:45:01,780 --> 00:45:07,582
+sure. Batman spies on Andrea as she dines with
+Councilman Reeves. In a flashback, we see his
+
+489
+00:45:07,622 --> 00:45:13,825
+and Andrea's romance bloom as they visit a futurism
+exhibit at the Gotham World Fair. Andrea later
+
+490
+00:45:13,865 --> 00:45:19,387
+introduces Bruce to her father, Carl Beaumont,
+whom Bruce learns handles the finances for
+
+491
+00:45:19,447 --> 00:45:25,578
+Salvatore Valestra and for whom a younger Arthur
+Reeves worked for as a lawyer. As Bruce and
+
+492
+00:45:25,658 --> 00:45:31,381
+Andrea leave her father's office, they encounter
+a biker gang robbing a civilian on the street.
+
+493
+00:45:31,801 --> 00:45:36,864
+When Bruce intervenes, he becomes distracted
+by Andrea and gets injured, allowing the biker
+
+494
+00:45:36,884 --> 00:45:42,427
+gang to get away with the money. Realizing he
+can't pursue the life of vigilantism that he
+
+495
+00:45:42,487 --> 00:45:47,570
+vowed on his parents' grave and simultaneously
+lead a fulfilling, happy life with Andrea,
+
+496
+00:45:47,951 --> 00:45:54,018
+the tormented Bruce visits his parents' grave,
+where Andrea finds and comforts him. Best scene
+
+497
+00:45:54,058 --> 00:45:58,682
+of the whole movie. Yeah. Do you think that
+maybe Batman would just be more effective if
+
+498
+00:45:58,762 --> 00:46:03,245
+he wasn't distracted by his girlfriend while
+trying to fight crime? Like maybe he could
+
+499
+00:46:03,265 --> 00:46:09,430
+have it both ways and he's just kind of being
+dumb? Well, that's a good question. I think
+
+500
+00:46:09,470 --> 00:46:13,973
+he would always kind of have her at the back
+of his mind. He'd be afraid to take certain
+
+501
+00:46:14,033 --> 00:46:19,477
+risks because he could get injured and, you
+know, that would not be good for his loved
+
+502
+00:46:19,577 --> 00:46:24,713
+ones. You could argue that, you know, he probably
+runs into the same issue with his Robins. You
+
+503
+00:46:24,733 --> 00:46:30,317
+know, what happens to young Dick Grayson if
+his caretaker, Bruce Wayne, gets killed while
+
+504
+00:46:30,337 --> 00:46:36,021
+being Batman? But for some reason, Bruce's romantic
+life seems to affect him more, I guess. Well,
+
+505
+00:46:36,081 --> 00:46:40,064
+with Robin, he's setting up a legacy, so he
+knows that if he ever kicks the bucket, he
+
+506
+00:46:40,084 --> 00:46:45,128
+has someone to take up his mantle. That's true.
+Why doesn't he just train his wife or girlfriend
+
+507
+00:46:45,208 --> 00:46:51,035
+to, you know, kick ass too? That's a fair point
+considering, you know, Andrea actually can
+
+508
+00:46:51,195 --> 00:46:56,978
+fight and be a masked vigilante as the phantasm.
+I don't know, maybe if he knew that they could
+
+509
+00:46:56,998 --> 00:47:01,080
+have fought crime together. Maybe they should
+have ended up together in the end. When Batman
+
+510
+00:47:01,100 --> 00:47:06,202
+was spying on Andrea and the councilman, do
+you think he was crying or do you think it
+
+511
+00:47:06,222 --> 00:47:12,065
+was just raining on his face? Rain, dude. Rain.
+Batman doesn't cry like that. It's always in
+
+512
+00:47:12,085 --> 00:47:17,348
+the rain. You can't prove anything. Back in
+the present, Salvatore confronts Arthur Reeves
+
+513
+00:47:17,408 --> 00:47:23,372
+and confirms Reeves' suspicions that Batman
+is killing mob bosses. Meanwhile, Batman deduces
+
+514
+00:47:23,412 --> 00:47:29,337
+that Salvatore, Buzz Bronski, and Chuckie Sol
+were business partners in the past. While investigating
+
+515
+00:47:29,397 --> 00:47:36,202
+Sal's office, he notices a photo of Sal, Buzz,
+Chuckie, and Andrea's father, Carl, all together.
+
+516
+00:47:36,642 --> 00:47:42,786
+In a flashback, Bruce remembers his sunset marriage
+proposal to Andrea. just as a swarm of bats
+
+517
+00:47:42,906 --> 00:47:48,390
+emerged from a nearby cave on his property.
+As Bruce drops Andrea off at her father's home,
+
+518
+00:47:48,770 --> 00:47:53,273
+they notice he has company. The following day,
+after Bruce investigates the cave from where
+
+519
+00:47:53,293 --> 00:47:58,296
+the bats came, Bruce receives a letter from
+Andrea saying that she can't marry him, that
+
+520
+00:47:58,336 --> 00:48:03,159
+she's leaving to Europe with her father, and
+that he should forget about her. In his grief,
+
+521
+00:48:03,299 --> 00:48:09,359
+Bruce rededicates his vow to his parents and
+becomes the Batman. Another really iconic scene
+
+522
+00:48:09,479 --> 00:48:14,403
+in this film is when Batman puts on the cowl
+for the very first time and you just see the
+
+523
+00:48:14,483 --> 00:48:20,468
+look of shock and horror on Alfred's face. That
+was, I thought, really effectively done. I
+
+524
+00:48:20,508 --> 00:48:25,551
+don't love the way he came to adopt the mantle
+of the bat because it's not entirely clear
+
+525
+00:48:25,672 --> 00:48:31,376
+why he chose the bat in this movie, but that
+reveal of him as Batman without even seeing
+
+526
+00:48:31,416 --> 00:48:37,300
+him on screen was fantastic. You have to imagine
+that Alfred seeing Batman become this monstrous
+
+527
+00:48:37,360 --> 00:48:44,004
+figure, a guy who, like he says in this movie,
+diapered his bottom since he was a baby, is
+
+528
+00:48:44,185 --> 00:48:49,088
+actually significantly terrifying. Yeah, he's
+like, that's way scarier than, you know, fighting
+
+529
+00:48:49,288 --> 00:48:54,572
+crime in your civilian clothes like you were
+before. Right. Now back in the present, Salvatore
+
+530
+00:48:54,612 --> 00:48:59,575
+visits the abandoned World Fair, the secret
+hideout of the Joker, attempting to hire him
+
+531
+00:48:59,615 --> 00:49:05,958
+to kill Batman, though Sal angers Joker in the
+process. After Councilman Reeves returns Andrea
+
+532
+00:49:05,998 --> 00:49:11,620
+home from a date, Andrea and Batman confront
+each other in her room, with Batman inquiring
+
+533
+00:49:11,660 --> 00:49:17,142
+about her father Carl and Andrea accusing Batman
+of being controlled by his parents. When the
+
+534
+00:49:17,182 --> 00:49:22,803
+Phantom attempts to kill Salvatore in his home,
+it finds that the Joker beat him to it, poisoning
+
+535
+00:49:22,843 --> 00:49:28,385
+Salvatore with Joker venom and rigging his body
+with a camera to find out who's really killing
+
+536
+00:49:28,445 --> 00:49:34,333
+the mob bosses. The Phantasm manages to escape
+before the Joker blows up Sel's home, only
+
+537
+00:49:34,373 --> 00:49:39,978
+to then be chased down by Batman. The Phantasm
+disappears, however, and Batman is forced to
+
+538
+00:49:40,018 --> 00:49:45,182
+flee from the police, who believe he's responsible
+for the Joker's explosion and Sel's death.
+
+539
+00:49:45,483 --> 00:49:50,787
+Badly injured in the police pursuit, Batman
+is rescued by Andrea, who takes him back to
+
+540
+00:49:50,847 --> 00:49:57,773
+Wayne Manor. I wonder if Joker rigged the camera
+on the body because he knew that the killer
+
+541
+00:49:57,793 --> 00:50:02,277
+wasn't Batman. because he knew that Batman doesn't
+kill. I think it's that exactly. Yeah, he was
+
+542
+00:50:02,297 --> 00:50:07,081
+trying to find out who was really going after
+the mob bosses and therefore later on, possibly
+
+543
+00:50:07,181 --> 00:50:12,927
+even him. Now you brought up a point earlier
+about a plot hole as to why Andrea was dating
+
+544
+00:50:13,187 --> 00:50:18,852
+the councilman. And I am kind of angry now because
+I didn't think about that. And I do have to
+
+545
+00:50:18,872 --> 00:50:24,497
+wonder, like, if she's coming into Gotham, why
+not contact Bruce, her former fiance right
+
+546
+00:50:24,517 --> 00:50:30,884
+away? I wonder if she was waiting for her whole
+crusade to be over with, and then maybe she,
+
+547
+00:50:30,944 --> 00:50:36,146
+like Batman, considered the possibility that
+they could continue their lives together? Or
+
+548
+00:50:36,287 --> 00:50:40,769
+what was going on there? Why did she have to
+make her presence known as Andrea to begin
+
+549
+00:50:40,809 --> 00:50:45,931
+with? She should have just snuck in and been
+the phantasm all the time. She didn't need
+
+550
+00:50:45,971 --> 00:50:52,762
+her alter ego there out in public. That's very
+true. Plot hole, dammit. Now Andrea reveals
+
+551
+00:50:52,802 --> 00:50:58,066
+that on the day of Bruce's marriage proposal,
+the visitors at her father's house were Sal,
+
+552
+00:50:58,126 --> 00:51:03,870
+Buzz, and Chucky, demanding money from her father
+Carl, who had it tied up in investments. After
+
+553
+00:51:03,970 --> 00:51:08,873
+lying to the mobsters, saying they'll have their
+money the next day, Carl explains to Andrea
+
+554
+00:51:08,893 --> 00:51:13,617
+that they had to flee or face death from the
+mob. Though Carl made a fortune in Europe and
+
+555
+00:51:13,657 --> 00:51:18,720
+later paid back the mob their money, it wasn't
+enough for them, and Bruce deduces that the
+
+556
+00:51:18,760 --> 00:51:24,460
+phantasm must be Carl. Bruce and Andrea rekindle
+their love for one another, and the following
+
+557
+00:51:24,540 --> 00:51:30,564
+morning, as Bruce contemplates retiring the
+cowl after settling this whole matter, he recognizes
+
+558
+00:51:30,644 --> 00:51:36,668
+in the photograph of Carl, Cell, Buzz, and Chucky
+that another familiar face, one of Cell's mobsters,
+
+559
+00:51:37,108 --> 00:51:43,432
+is in fact the Joker. Now that was an interesting
+twist, because I had forgotten that the Joker
+
+560
+00:51:43,452 --> 00:51:49,332
+was the mobster that worked for Salvatore. The
+camera always kept going back to the long nose
+
+561
+00:51:49,472 --> 00:51:53,935
+henchmen in the flashbacks and everything like
+that. But even then, I didn't put two and two
+
+562
+00:51:53,955 --> 00:51:58,258
+together until this scene where he's looking
+at the photo. I was like, oh, okay. Yeah, that
+
+563
+00:51:58,298 --> 00:52:04,022
+is the Joker. Right. Yeah. And of course, the
+Joker has a alternate history as a mobster,
+
+564
+00:52:04,202 --> 00:52:08,445
+not only from the comics, but also, of course,
+Tim Burton's 1989 Batman film. So I thought
+
+565
+00:52:08,465 --> 00:52:13,169
+it worked really well as a quasi history of
+sorts for the Joker in the Batman animated
+
+566
+00:52:13,209 --> 00:52:18,809
+series universe. After Joker confronts Councilman
+Reeves, suspecting he may be the Phantasm,
+
+567
+00:52:19,230 --> 00:52:24,514
+Reeves ends up in the hospital, unable to stop
+laughing. Batman visits him and learns that
+
+568
+00:52:24,574 --> 00:52:29,818
+Reeves and Carl kept in touch while he was away
+in Europe. When Carl refused to help Reeves
+
+569
+00:52:29,858 --> 00:52:34,903
+find his election campaign, Reeves turned to
+the mob and gave them Carl's location in exchange
+
+570
+00:52:34,923 --> 00:52:40,788
+for money. When Batman arrives at Andrea's to
+tell her the news, he answers her phone only
+
+571
+00:52:40,828 --> 00:52:46,448
+to hear the Joker threaten to kill her. As Batman
+manages to prevent a bomb strapped to a plane
+
+572
+00:52:46,468 --> 00:52:52,433
+from the World's Fair from blowing up Andrea's
+home, we see Andrea at the World's Fair where
+
+573
+00:52:52,453 --> 00:52:57,978
+she remembers in a flashback when she witnessed
+the pre-Joker mobster leave her father's house
+
+574
+00:52:58,018 --> 00:53:03,703
+just before she found him dead. Now, the scene
+of Batman interrogating Councilman Reeves in
+
+575
+00:53:03,723 --> 00:53:09,167
+the hospital as he's, you know, dosed up on
+Joker venom and can't stop laughing was one
+
+576
+00:53:09,207 --> 00:53:12,354
+of my favorite scenes in the movie. And I think
+one of my favorite scenes in the movie. favorite
+
+577
+00:53:12,414 --> 00:53:17,622
+Batman interrogation scenes I've ever seen.
+A lot of props has to go to the animation department
+
+578
+00:53:17,722 --> 00:53:24,731
+for, I think, realistically depicting this condition
+that the councilman is in. It was very believable.
+
+579
+00:53:24,992 --> 00:53:30,474
+The voice acting was fantastic. Just really
+interesting. Felt bad for the guy. Yeah. I'm
+
+580
+00:53:30,514 --> 00:53:34,155
+still surprised that he made it out alive through
+the course of this movie. I guess you could
+
+581
+00:53:34,215 --> 00:53:40,396
+rationalize Andrea dating Kim because maybe
+she was trying to figure out on her own whether
+
+582
+00:53:40,436 --> 00:53:45,178
+or not the councilman was involved in her father's
+death. That's my head, Kenan now. Oh, yeah.
+
+583
+00:53:45,398 --> 00:53:49,799
+Yeah. She was investigating him. And that's
+also maybe why she actually came back as Andrea
+
+584
+00:53:50,039 --> 00:53:56,741
+and didn't just sneak in to Gotham as the phantasm.
+Plot hole filled? I'm going to say yes. We
+
+585
+00:53:56,801 --> 00:54:02,640
+figured it out. There you go. Now when the Phantasm
+confronts Joker at the abandoned World's Fair,
+
+586
+00:54:03,120 --> 00:54:08,584
+Joker reveals that he knows it's Andrea, who
+reveals it is in fact her beneath the mask
+
+587
+00:54:08,604 --> 00:54:14,108
+before the two fight. Using the fair's technology
+to his advantage, Joker nearly succeeds in
+
+588
+00:54:14,168 --> 00:54:20,392
+killing Andrea before Batman arrives and rescues
+her. Though Batman and Andrea argue over her
+
+589
+00:54:20,492 --> 00:54:26,176
+actions, Andrea agrees to leave and Batman pursues
+the Joker, who reveals that he's triggered
+
+590
+00:54:26,216 --> 00:54:30,887
+explosives throughout the fairgrounds, that
+will soon detonate. When the Joker is defeated,
+
+591
+00:54:31,327 --> 00:54:38,312
+Andrea reappears and grabs him and the two disappear
+just before the entire fair blows up. One thing
+
+592
+00:54:38,332 --> 00:54:45,896
+that kind of bothered me here is once Batman
+rescues Andrea, she starts using his name Bruce
+
+593
+00:54:45,956 --> 00:54:50,659
+willy nilly and they're talking like they know
+each other. It would be so easy for Joker to
+
+594
+00:54:50,719 --> 00:54:57,350
+figure out this is Bruce Wayne. What? Like kind
+of reckless. After Batman escapes the explosions,
+
+595
+00:54:57,530 --> 00:55:02,892
+Alfred consoles Bruce, saying there was no way
+to save Andrea, as she had already fallen too
+
+596
+00:55:02,932 --> 00:55:08,553
+far into the abyss of vengeance. Bruce finds
+Andrea's locket in the Batcave, and it's revealed
+
+597
+00:55:08,593 --> 00:55:14,655
+that Andrea survived the explosions and is hiding
+away on a boat. Batman, meanwhile, remains
+
+598
+00:55:14,695 --> 00:55:19,756
+committed to his vow of vengeance against the
+criminal element of Gotham City. And that's
+
+599
+00:55:19,796 --> 00:55:25,251
+the end of the movie. Makes me wonder, did Batman
+assume that Andrea- died in the explosion and
+
+600
+00:55:25,311 --> 00:55:31,156
+if so why did he assume that when he saw her
+teleport? I don't think he assumed that she
+
+601
+00:55:31,216 --> 00:55:34,959
+died especially considering the fact that he
+found the locket in the cave. I think that
+
+602
+00:55:34,979 --> 00:55:40,163
+was a clear indicator that she was still alive
+and that she had kind of given up on their
+
+603
+00:55:40,203 --> 00:55:44,847
+relationship because she didn't need the locket
+anymore. I think really this whole thing kind
+
+604
+00:55:44,887 --> 00:55:51,993
+of just embittered him in a way which in turn
+kind of renewed his commitment to his cause.
+
+605
+00:55:52,538 --> 00:55:58,222
+Like if she died, he would be sad. But I think
+he was more angry or at least it came across
+
+606
+00:55:58,262 --> 00:56:02,685
+that way to me in the final shot of the film.
+I wonder what she did with the Joker considering,
+
+607
+00:56:02,725 --> 00:56:06,868
+you know, she got away. It seems like she had
+a change of heart and decided to just not kill
+
+608
+00:56:06,908 --> 00:56:17,076
+him and then, you know, go into hiding as Lois
+Lane. Headcanon. No, who knows? Like they should
+
+609
+00:56:17,116 --> 00:56:24,176
+have addressed that fact. because it's just
+a weird anticlimactic element of this film
+
+610
+00:56:24,636 --> 00:56:29,379
+that just kind of sucks. I don't know what else
+to say about it. She was on this mission of
+
+611
+00:56:29,419 --> 00:56:34,942
+vengeance. There's no real sign that she was
+willing to change or would change. So why wouldn't
+
+612
+00:56:35,002 --> 00:56:39,645
+she have killed the Joker? Maybe he got away.
+Maybe the Joker was too good and he escaped.
+
+613
+00:56:39,985 --> 00:56:44,447
+Well, then you would think that Andrea would
+never stop in her pursuit to kill the Joker
+
+614
+00:56:44,487 --> 00:56:50,170
+and would end up in Gotham City once again.
+I don't know, man. Exactly. That's the problem.
+
+615
+00:56:50,631 --> 00:56:57,435
+One of several in this movie, which I feel almost
+bad not liking more. I feel like I should like
+
+616
+00:56:57,455 --> 00:57:02,419
+it more because critics really liked it. But
+again, I think critics just weren't watching
+
+617
+00:57:02,659 --> 00:57:07,522
+a reading a lot of stuff that you and I are
+watching and reading now or have in the past
+
+618
+00:57:07,682 --> 00:57:13,254
+to justify such a high rating for this film,
+like On Rotten Tomatoes. I think at the time
+
+619
+00:57:13,274 --> 00:57:17,818
+a lot of critics were comparing Batman Mask
+of the Phantasm to the live action movies that
+
+620
+00:57:17,838 --> 00:57:22,122
+we were getting at the time. I think when this
+came out it was following Batman Returns and
+
+621
+00:57:22,162 --> 00:57:26,506
+I would agree that this movie is better than
+Batman Returns. I don't know if it's better
+
+622
+00:57:26,546 --> 00:57:32,591
+than the 1989 Batman movie but better than Burton's
+follow-up and certainly better than the Schumacher
+
+623
+00:57:32,631 --> 00:57:37,335
+films that came out later. Maybe that's the
+case? Maybe they liked it because it was really
+
+624
+00:57:37,375 --> 00:57:43,311
+the first foray that the general... non-comic
+book reading public got into Batman's psyche.
+
+625
+00:57:43,751 --> 00:57:49,033
+That's gotta be it. Yeah, that's the best thing
+going for this film hands down and one that
+
+626
+00:57:49,113 --> 00:57:55,116
+really has yet to be done as well arguably in
+any subsequent film, except for maybe The Batman.
+
+627
+00:57:55,356 --> 00:58:01,719
+So you're probably right. Now overall, despite
+its strong themes of vengeance and duty, the
+
+628
+00:58:01,879 --> 00:58:08,101
+obvious mystery reveal and plot holes prevent
+the film from comparing to Batman's best stories.
+
+629
+00:58:08,542 --> 00:58:14,826
+like Batman Begins, like The Dark Knight, like
+even Batman Year One. Those were all much better
+
+630
+00:58:15,227 --> 00:58:21,031
+origins for the character and it's really difficult
+not to make those comparisons. I know critics
+
+631
+00:58:21,071 --> 00:58:26,436
+weren't able to do that when this film came
+out in theaters, but I'm reviewing it now and
+
+632
+00:58:26,496 --> 00:58:32,260
+that's really the only way I can review it.
+I'm giving it three and a half stars, a fresh
+
+633
+00:58:32,320 --> 00:58:38,624
+rating on Rotten Tomatoes. I would agree with
+that rating. It's still a good movie, but when
+
+634
+00:58:38,644 --> 00:58:44,008
+you compare it to some of the more recent Batman
+animated films that we've gotten, such as,
+
+635
+00:58:44,168 --> 00:58:50,212
+you know, Batman Year 1, or especially Batman
+The Long Halloween, that was fantastic. Yes.
+
+636
+00:58:51,033 --> 00:58:56,777
+Again, I just don't think that this movie, while
+good for its time, holds up in comparison to
+
+637
+00:58:56,797 --> 00:59:01,022
+the newer stuff. Absolutely, and it kind of
+makes you wonder, like, what if Warner Brothers
+
+638
+00:59:01,162 --> 00:59:06,624
+released animated films like Batman Year One
+or Batman the Long Halloween in theaters? Like,
+
+639
+00:59:06,664 --> 00:59:10,545
+how would critics respond and how would the
+box office respond? I think they should do
+
+640
+00:59:10,585 --> 00:59:15,566
+it. I mean, look at how well the Spider-Verse
+movies do. I think Batman the Long Halloween
+
+641
+00:59:15,707 --> 00:59:19,548
+has a chance of holding up just as well with
+general audiences considering how well that
+
+642
+00:59:19,588 --> 00:59:24,769
+was made. I agree. I agree. Although, I mean,
+you know, the Spider-Verse movies are on a
+
+643
+00:59:24,809 --> 00:59:28,907
+whole other level animation-wise. You would
+have to get up to that level of animation,
+
+644
+00:59:29,087 --> 00:59:33,709
+I think, for the general audiences to really
+make a push to go see it. Because Mask of the
+
+645
+00:59:33,729 --> 00:59:39,252
+Phantasm was not a box office success in theaters.
+It later became a success on home video. And
+
+646
+00:59:39,292 --> 00:59:44,776
+now that, you know, Spider-Verse has set the
+bar for animated films in theaters, things
+
+647
+00:59:44,796 --> 00:59:50,539
+like Mask of the Phantasm are kind of embarrassing
+by comparison. That's right. Marvel likes to
+
+648
+00:59:50,559 --> 00:59:54,941
+embarrass DC. That's one of my favorite things
+about Marvel. Did I say embarrassing? I meant...
+
+649
+00:59:55,934 --> 01:00:01,589
+I don't know, embarrassing. Damn it. But that
+does it for this review. AG9K, help close this
+
+650
+01:00:01,689 --> 01:00:09,225
+out. Thanks for listening to Dynamic duel. Visit
+the show's website at dynamicduel.com and follow
+
+651
+01:00:09,285 --> 01:00:14,588
+us on Instagram at dynamicduelpodcast. You can
+support the show on Patreon at patreon.com
+
+652
+01:00:15,008 --> 01:00:19,690
+slash dynamicduel and joining a tier that works
+for you, or by rating and reviewing Dynamic
+
+653
+01:00:19,730 --> 01:00:25,394
+duel on Apple Podcasts, Spotify, Podchaser or
+on our website. Don't forget to listen to the
+
+654
+01:00:25,434 --> 01:00:30,657
+other shows in the Dynamite Podcast Network,
+including Max Destruction, Senjow World and
+
+655
+01:00:30,697 --> 01:00:38,381
+Console Combat. In our next episode, we will
+be doing a duel between the Earth elemental
+
+656
+01:00:38,421 --> 01:00:44,670
+characters of GeoForce and Quake. I wouldn't
+describe Quake as an Earth elemental character.
+
+657
+01:00:45,191 --> 01:00:49,170
+She more just has vibration powers. But that
+does it for this episode, we want to give a
+
+658
+01:00:49,290 --> 01:00:54,493
+big thanks to our executive producers Ken Johnson,
+John Swarovski, Zachary Hepburn, Dustin Abalkom,
+
+659
+01:00:54,633 --> 01:00:59,515
+Miggy Mathengian, Brandon Esfregard, Nathaniel
+Wagner, Levi Yeaton, Austin Wazilowski, AJ
+
+660
+01:00:59,535 --> 01:01:05,378
+Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Andrew Shunk, Dean Molesky, Devin Davis,
+
+661
+01:01:05,678 --> 01:01:10,621
+and Joseph Kirsting for helping make this podcast
+possible. We'll talk to you guys next week.
+
+662
+01:01:11,181 --> 01:01:16,023
+Up, up and away, true believers. Your angel
+of death awaits, and it brought snacks.
+
