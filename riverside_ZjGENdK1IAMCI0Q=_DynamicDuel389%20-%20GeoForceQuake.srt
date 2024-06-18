@@ -1,0 +1,2607 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a DynaMic Network podcast.
+
+2
+00:00:24,346 --> 00:00:28,889
+Welcome to the dynamic duel podcast a weekly
+show where we review superhero films and debate
+
+3
+00:00:28,909 --> 00:00:34,374
+the superiority between Marvel and DC by comparing
+their characters And stat based battle simulations.
+
+4
+00:00:34,954 --> 00:00:40,859
+I'm Marvelous Joe and I'm his twin brother Johnny
+DC And in this episode we are going to put
+
+5
+00:00:40,879 --> 00:00:48,125
+the debate to rest on who would win in a fight
+between Geoforce and Quake a match that literally
+
+6
+00:00:48,545 --> 00:00:55,138
+a few people asked for Because Geoforce is not
+very well known I think As opposed to Quake?
+
+7
+00:00:55,518 --> 00:00:58,980
+Like what if she did some like ragtag shield
+agent who doesn't even have like a superhero
+
+8
+00:00:59,020 --> 00:01:03,642
+costume? No, I mean she was the lead character
+and agents of shield besides, you know, Phil
+
+9
+00:01:03,682 --> 00:01:07,643
+Coulson. So I don't know what you're talking
+about Quake is taking this one. You have no
+
+10
+00:01:07,743 --> 00:01:12,665
+idea how hard she's gonna lose. You'll find
+out. You're gonna learn today We'll see before
+
+11
+00:01:12,685 --> 00:01:15,947
+we get into that matchup before we put in the
+character stats and run a thousand simulations
+
+12
+00:01:15,967 --> 00:01:19,568
+and find out who would definitively win We're
+gonna break down the latest comic book movie
+
+13
+00:01:19,588 --> 00:01:23,490
+news which came out this past week of which
+we have a few news items including the news
+
+14
+00:01:23,530 --> 00:01:28,972
+that the Blade movie has lost its director,
+Yann Dimage, and we got a teaser trailer for
+
+15
+00:01:28,992 --> 00:01:34,694
+the upcoming animated Watchmen films. As always,
+we list our segment times in our episode description,
+
+16
+00:01:34,714 --> 00:01:38,875
+so feel free to check out the show notes if
+you want to skip ahead to a particular topic.
+
+17
+00:01:39,015 --> 00:01:43,577
+Guys, our artificially intelligent duel simulator
+AJ9K has a quick message for our listeners,
+
+18
+00:01:43,957 --> 00:01:50,637
+so listen up. Why hello there, do you want even
+more from this podcast? Then become a part
+
+19
+00:01:50,657 --> 00:01:55,421
+of the dynamic duel community on Patreon, where
+you can choose from three tiers. The dynamic
+
+20
+00:01:55,461 --> 00:01:59,904
+two-oh tier gives you access to our Discord
+chat server. The fantastic four tier gives
+
+21
+00:01:59,925 --> 00:02:04,548
+you two bonus episodes each month, and the X-Force
+tier makes you an executive producer of this
+
+22
+00:02:04,588 --> 00:02:10,120
+show. Lastly, The DynaMic Podcast Network tier
+lets you create your own podcast using this
+
+23
+00:02:10,180 --> 00:02:14,964
+Monte Carlo simulator. Johnny and Joe will help
+you develop your show, provide graphic support
+
+24
+00:02:15,004 --> 00:02:21,308
+and consultation, and get you simulation results.
+Pitch the twins your ideas via email at dynamicduelpodcast
+
+25
+00:02:21,428 --> 00:02:29,214
+at gmail.com. Check it out at patreon.com slash
+dynamicduel. Pip pip cheerio. Thanks AJ9K,
+
+26
+00:02:29,434 --> 00:02:33,617
+and thanks to everyone who supports the podcast.
+Be sure to tune into the shows in the DynaMic
+
+27
+00:02:33,697 --> 00:02:38,773
+Podcast Network this week. including Max Destruction,
+which pits your favorite action heroes from
+
+28
+00:02:38,833 --> 00:02:43,636
+film and television against each other. This
+week, hosts Ken and Scottie are going to review
+
+29
+00:02:43,656 --> 00:02:49,962
+the movie Saving Private Ryan. Great film. Great
+movie. Perfect movie. On the Sendrow World
+
+30
+00:02:49,982 --> 00:02:55,246
+podcast, host Zachary Hepburn speculates on
+fights between fan favorite anime and manga
+
+31
+00:02:55,326 --> 00:03:00,710
+characters. The show is currently on a season
+hiatus, so this is the perfect time for you
+
+32
+00:03:00,830 --> 00:03:06,278
+anime fans to catch up on Sendrow World's 40
+episode library. And on the Console Combat
+
+33
+00:03:06,298 --> 00:03:10,982
+Podcast, hosts John and Dean find out who would
+win in fights between popular video game characters.
+
+34
+00:03:11,362 --> 00:03:15,004
+In yesterday's episode, which you can listen
+to right after this one, they found out who
+
+35
+00:03:15,024 --> 00:03:20,668
+would win in a fight between Captain Falcon
+from the F-Zero video games against Sweet Tooth
+
+36
+00:03:20,989 --> 00:03:26,733
+from Twisted Metal. Visit dynamicpodcasts.com
+or click the link in our show notes to listen
+
+37
+00:03:26,753 --> 00:03:32,457
+to all of the shows in the DynaMic Podcast
+Network. But with that out of the way, quick
+
+38
+00:03:32,677 --> 00:03:39,420
+to the no prize! No Prize is an award Marvel
+used to give out to fans. Our version, the
+
+39
+00:03:39,460 --> 00:03:44,322
+Dynamic Duel No Prize, is a digital award we
+post on Instagram for the person that we feel
+
+40
+00:03:44,362 --> 00:03:49,905
+gave the best answer to our question of the
+week. Last week we asked, what Marvel or DC
+
+41
+00:03:49,945 --> 00:03:55,688
+character do you think has had the most successful
+trilogy of films and why? And of course this
+
+42
+00:03:55,728 --> 00:04:01,432
+tied into the trailer for the third Venom film,
+Venom The Last Dance. Yeah, little round out
+
+43
+00:04:01,452 --> 00:04:04,753
+that character's trilogy and we were curious
+who you guys thought had the best trilogy.
+
+44
+00:04:05,142 --> 00:04:09,564
+So let's run down our honorable mentions as
+well as the no prize winner. Our first honorable
+
+45
+00:04:09,584 --> 00:04:16,268
+mention goes to Waldo, who said, Hey guys, it's
+Waldo again. So as far as the most successful
+
+46
+00:04:16,308 --> 00:04:23,351
+film trilogy, I'm pretty sure it'd be Nolan's
+Batman with Christian Bale. So while I may
+
+47
+00:04:23,391 --> 00:04:30,515
+not like it, he was Batman in name only, he
+did very little detective work. And all his
+
+48
+00:04:30,555 --> 00:04:38,523
+stuff was made by Fox, and she showed very little
+actual intellect of His fans are still raving
+
+49
+00:04:38,543 --> 00:04:45,168
+about it to this day. I hear you man, I am not
+a fan of the Dark Knight trilogy being a Marvel
+
+50
+00:04:45,188 --> 00:04:50,691
+fan myself. Like that Batman was not the Batman
+that I know. My gosh. He wasn't that smart.
+
+51
+00:04:51,011 --> 00:04:56,754
+He didn't make anything. He didn't deduce anything.
+He was basically a piece of shit. But for some
+
+52
+00:04:56,814 --> 00:05:01,216
+reason- I'm gonna slap the shit out of you.
+People really like the Dark Knight trilogy.
+
+53
+00:05:01,276 --> 00:05:05,959
+I don't know why. Jonathan, can you explain
+it? The films are amazing first of all. I don't
+
+54
+00:05:06,019 --> 00:05:12,583
+get why you wouldn't like the Dark Knight trilogy.
+It's such a great saga. of Batman from beginning
+
+55
+00:05:12,623 --> 00:05:17,586
+to end. You know, it starts off perfectly with
+Batman Begins, ramps up with the Dark Knight,
+
+56
+00:05:18,167 --> 00:05:23,390
+and doesn't quite stick the landing with Rises,
+but it comes damn close. Making arguments that,
+
+57
+00:05:23,510 --> 00:05:29,054
+oh, it's not good because Batman didn't make
+his own gadgets. I actually liked what they
+
+58
+00:05:29,094 --> 00:05:34,498
+did with this movie because Bruce Wayne is not
+an engineer. Like, it's OK if the head engineer
+
+59
+00:05:34,538 --> 00:05:39,101
+from Wayne Tech makes his gadgets for him. That's
+not a problem. It's kind of cool, actually.
+
+60
+00:05:39,414 --> 00:05:44,977
+that he would have a cue of sorts in the same
+way James Bond does. And as for detective work,
+
+61
+00:05:45,477 --> 00:05:51,120
+you guys are smoking so much crack. What are
+you talking about? Like he did fantastic detective
+
+62
+00:05:51,140 --> 00:05:55,862
+work like in The Dark Knight with like his sonar
+gear and stuff like that and finding answers.
+
+63
+00:05:55,922 --> 00:06:02,486
+And you guys are so wrong, but yet so right
+in that it's a fantastic trilogy. I never said
+
+64
+00:06:02,506 --> 00:06:08,149
+it was a fantastic trilogy. Waldo did. OK, well,
+you're wrong then. And Waldo's right. Great
+
+65
+00:06:08,209 --> 00:06:13,949
+answer, Waldo. Our next honorable mention goes
+to... Miggi Mattingian, who said... Hey what's
+
+66
+00:06:13,969 --> 00:06:19,252
+up guys, this is Miggi, and my favorite superhero
+trilogy is the Dark Knight trilogy. Of course,
+
+67
+00:06:19,272 --> 00:06:25,016
+you know I had to do it as a DC fan, but not
+just that, because of that. It's just legitimately
+
+68
+00:06:25,036 --> 00:06:29,799
+a really great trilogy. Batman Begins just kind
+of revolutionized the genre, bringing like
+
+69
+00:06:29,819 --> 00:06:35,443
+a grounded, like, serious take on superheroes.
+Dark Knight is just a masterpiece inducted
+
+70
+00:06:35,463 --> 00:06:39,318
+into the National Library of Congress. And then
+Dark Knight Rises is just like... wraps it
+
+71
+00:06:39,358 --> 00:06:45,642
+up really nicely. So yeah. Thanks guys. Yeah,
+the Dark Knight influenced an entire generation
+
+72
+00:06:45,943 --> 00:06:50,726
+of films and filmmakers. You wouldn't even have
+the Iron Man movie if the Dark Knight wasn't
+
+73
+00:06:50,746 --> 00:06:57,711
+made as influential as it was in terms of taking
+a really serious approach to the subject matter.
+
+74
+00:06:58,151 --> 00:07:03,515
+You're aware that Iron Man came out before the
+Dark Knight, right? No, I'm fucking not aware
+
+75
+00:07:03,555 --> 00:07:11,673
+of that, obviously. Well, it did. So I met after
+Batman begins, which it was inspired by with
+
+76
+00:07:11,693 --> 00:07:23,603
+all the flashbacks and nonlinear storytelling.
+All right. You're dumb. No, no, you are. Great
+
+77
+00:07:23,663 --> 00:07:29,909
+answer. Make your next honorable mention goes
+to Cyrus Moore, who said, Hey guys, Cyrus Moore
+
+78
+00:07:29,949 --> 00:07:36,798
+here. And we all know, obviously the best movie
+trilogy is the X. I mean it's the Christian
+
+79
+00:07:36,818 --> 00:07:42,039
+Bale Batman movies. You physically can't get
+any better. We all know Christian Bale was
+
+80
+00:07:42,059 --> 00:07:48,801
+the best Batman. Most successful movie is Christian
+Bale Batman. It's the movie trilogy we deserve
+
+81
+00:07:49,221 --> 00:07:53,923
+and the one that we need also, cause it's so
+damn good. It seems like everybody's answering
+
+82
+00:07:53,963 --> 00:07:59,424
+the Dark Knight trilogy. Yeah, cause it's clearly
+the obvious winner. Even though it's not the
+
+83
+00:07:59,444 --> 00:08:05,920
+winner of the Snow Prize for some effed up reason.
+I'll tell you why it's not the No Prize winner.
+
+84
+00:08:06,180 --> 00:08:10,203
+It's because, you know, if everybody's answering
+The Dark Knight Rises, how do we choose among
+
+85
+00:08:10,223 --> 00:08:14,807
+them? Obviously, we have to go with the choice
+that is not the Dark Knight trilogy, and therefore,
+
+86
+00:08:14,867 --> 00:08:22,153
+the winner of this week's No Prize goes to Scotty
+Macho, who said, Scotty Macho from Max Destruction,
+
+87
+00:08:22,914 --> 00:08:27,677
+my DC cohorts are not going to like me for this
+answer, but they will understand. I'm going
+
+88
+00:08:27,697 --> 00:08:35,150
+to say Deadpool. Now Deadpool Overring hasn't
+come out officially yet. But I mean, when it
+
+89
+00:08:35,190 --> 00:08:42,492
+does, is there any argument? I mean, the Deadpool
+series has been phenomenal and only Ryan Reynolds
+
+90
+00:08:42,652 --> 00:08:49,754
+can deliver it. Deadpool is my pick. Is there
+any argument? Hell yeah, there's a lot of argument.
+
+91
+00:08:49,914 --> 00:08:54,115
+The first two Deadpool movies were good, but
+none of them even come close to approaching
+
+92
+00:08:54,475 --> 00:09:00,437
+the quality of The Dark Knight. I would argue
+that the first Deadpool movie is funnier than
+
+93
+00:09:00,477 --> 00:09:04,690
+The Dark Knight and therefore better. So there
+you go. I mean, Deadpool 2 is a little bit
+
+94
+00:09:04,710 --> 00:09:10,853
+eh, but I think Scotty has a point, even though
+the fact that he is empirically incorrect in
+
+95
+00:09:10,893 --> 00:09:15,435
+his answer because the third Deadpool movie
+has not yet come out. But we're gonna give
+
+96
+00:09:15,475 --> 00:09:20,717
+it to him anyway because he had the originality
+to not be a sheeple and say the Dark Knight
+
+97
+00:09:20,757 --> 00:09:25,659
+trilogy. There's only one answer to this question.
+Like it was a bad question to begin with because
+
+98
+00:09:25,799 --> 00:09:31,501
+obviously it's the Dark Knight trilogy. I will
+say that we retain the right to retroactively
+
+99
+00:09:31,621 --> 00:09:36,669
+strip Scotty of this no prize if in fact it
+turns out that the Deadpool and Wolverine movie
+
+100
+00:09:36,749 --> 00:09:41,094
+sucks, but I don't think it's going to so I
+think this no prize is gonna stick. I mean
+
+101
+00:09:41,134 --> 00:09:47,199
+even if it doesn't it's still not gonna match
+the influence and magnum opus That is the Nolan
+
+102
+00:09:47,219 --> 00:09:52,084
+trilogy of Batman films. What if Deadpool and
+Wolverine is so good that it wins like Best
+
+103
+00:09:52,124 --> 00:09:57,989
+Picture Oscar You don't know how good it's gonna
+be shut the hell up Check your expectations
+
+104
+00:09:58,582 --> 00:10:02,584
+Jonathan, what would you answer to this question?
+What do you think is the best superhero trilogy?
+
+105
+00:10:02,864 --> 00:10:08,327
+The Dark Knight trilogy, obviously, hands down.
+Okay, you're also a sheeple then, okay. What
+
+106
+00:10:08,347 --> 00:10:13,010
+would you say? I mean, there's a lot of Marvel
+answers that you could give. I thought Spider-Man,
+
+107
+00:10:13,090 --> 00:10:17,512
+the Tom Holland Spider-Man trilogy, like the
+Home trilogy was incredible. I think it was
+
+108
+00:10:17,552 --> 00:10:22,355
+even better than the Sam Raimi trilogy, but
+also Guardians of the Galaxy. I think all three
+
+109
+00:10:22,395 --> 00:10:27,914
+of those films, Guardians, Volume One, Two,
+and Three, were incredible. and they probably
+
+110
+00:10:27,954 --> 00:10:33,378
+won't ever be beaten in terms of that franchise.
+So I guess my pick would be for Guardians.
+
+111
+00:10:33,918 --> 00:10:38,341
+I'm actually really surprised you didn't say
+Captain America because Winter Soldier and
+
+112
+00:10:38,381 --> 00:10:45,185
+Civil War are really good. Yeah, they're fantastic.
+They're incredible. But I'm not sure the first
+
+113
+00:10:45,245 --> 00:10:49,828
+movie compares to the latter two. The thing
+is, though, you know why people didn't call
+
+114
+00:10:49,888 --> 00:10:54,879
+in with those answers? Because they were lazy.
+Because those still aren't as good as the Dark
+
+115
+00:10:54,899 --> 00:11:00,324
+Knight trilogy and everyone knows it. I don't
+know that. Cause you're stupid. Great answer
+
+116
+00:11:00,364 --> 00:11:04,447
+Scotty, you win this week's no prize. If you
+the listener want to win your own no prize,
+
+117
+00:11:04,608 --> 00:11:08,851
+stay tuned to later on this episode when we'll
+be asking another question of the week. And
+
+118
+00:11:08,891 --> 00:11:11,033
+now that that's done, on to the news!
+
+119
+00:11:16,566 --> 00:11:20,769
+Alright, this past week we got horrible news
+in regards to the Blade movie that is currently
+
+120
+00:11:20,829 --> 00:11:26,354
+being produced by Marvel Studios. This project
+has been languishing in development hell for
+
+121
+00:11:26,434 --> 00:11:32,579
+quite a while now, ever since it was first announced
+by Kevin Feige at the 2019 Comic Con, where
+
+122
+00:11:32,599 --> 00:11:38,924
+we first saw the upcoming star of Blade, Mahershala
+Ali, put on the Blade hat. Ever since that
+
+123
+00:11:38,944 --> 00:11:43,908
+announcement, I've been waiting with bated breath
+for the Blade movie to come out, and it's been
+
+124
+00:11:43,968 --> 00:11:50,185
+delayed after... director loss after delay,
+after new writer, after director loss, and
+
+125
+00:11:50,525 --> 00:11:55,969
+there's just no end to this bad news. But we
+learned that the director that was most recently
+
+126
+00:11:56,010 --> 00:12:03,315
+attached, Jan Damange, is no longer directing
+Marvel Studios' Blade. And it's almost like
+
+127
+00:12:03,335 --> 00:12:07,919
+the movie is cursed by this point, because it's
+already 2024. It seems like the movie is not
+
+128
+00:12:07,939 --> 00:12:12,502
+going to come out for quite a while now that
+they have to. you know, essentially look for
+
+129
+00:12:12,542 --> 00:12:16,544
+a new director. And at that point you might
+get new script rewrites to suit the new director
+
+130
+00:12:16,564 --> 00:12:21,165
+and stuff like that. Hopefully Mahershala Ali
+stays with the project because I do think that
+
+131
+00:12:21,206 --> 00:12:25,867
+he'd be a fantastic Blade. But at this point,
+everything just seems up in the air in regards
+
+132
+00:12:25,927 --> 00:12:29,869
+to this particular franchise. Would you hate
+it if they just scrapped the whole project?
+
+133
+00:12:30,729 --> 00:12:36,792
+Yeah, obviously. I mean, we already have quite
+a few good Blade movies. I'm not quite sure
+
+134
+00:12:36,892 --> 00:12:42,138
+what they could do with it that has already
+been done successfully. in the prior franchise
+
+135
+00:12:42,158 --> 00:12:48,400
+with Wesley Snipes. We have two good Blade movies
+and I mean we've seen what Marvel Studios is
+
+136
+00:12:48,440 --> 00:12:53,221
+capable of doing with characters that are under
+their purview as compared to other studios.
+
+137
+00:12:53,381 --> 00:12:58,043
+Like say the Hulk. I thought Incredible Hulk
+was better than 2003's Hulk. I think Blade
+
+138
+00:12:58,083 --> 00:13:04,084
+has the potential to not only be an amazing
+franchise but also steer the MCU in a direction
+
+139
+00:13:04,104 --> 00:13:09,594
+that it's really never gone down before. Except
+for you know. the werewolf by night special
+
+140
+00:13:09,634 --> 00:13:13,356
+presentation that they released on Disney plus
+a few years ago Honestly, they should have
+
+141
+00:13:13,376 --> 00:13:16,997
+just introduced blade in that short film It
+would have been a much better introduction
+
+142
+00:13:17,037 --> 00:13:22,499
+than what he got in eternals If I was Kevin
+Feige, I would scrap eternals just scrub that
+
+143
+00:13:22,699 --> 00:13:27,181
+erase it from everyone's memory And scrap this
+blade film as well because we don't need it.
+
+144
+00:13:27,201 --> 00:13:32,563
+Uh, we do need it and I don't know what you're
+talking about. We don't need vampires in the
+
+145
+00:13:32,684 --> 00:13:38,286
+mcu. It's just gonna like make things so complicated
+How are vampires complicated? How are they
+
+146
+00:13:38,306 --> 00:13:43,350
+not complicated? What? They're very complicated.
+No, they're not, they're fine. It's all fine.
+
+147
+00:13:43,430 --> 00:13:47,473
+People already know the lore of vampires, so
+introducing a vampire hunter into the mix,
+
+148
+00:13:47,533 --> 00:13:52,997
+I think, would not only be cool, it would be
+unique, at least for the MCU. Now, Yann Dimage
+
+149
+00:13:53,137 --> 00:13:58,661
+replaced Bassam Tariq as the director, and now
+I'm wondering who's gonna replace Yann Dimage.
+
+150
+00:13:59,041 --> 00:14:03,084
+I think there are quite a few candidates that
+I think would make a great Blade movie, and
+
+151
+00:14:03,104 --> 00:14:04,885
+that brings us to our question of the week.
+
+152
+00:14:09,422 --> 00:14:15,466
+Who do you want to direct Marvel Studios Blade
+movie and why? Record your answer at dynamicduel.com
+
+153
+00:14:15,926 --> 00:14:19,469
+by clicking on the red microphone button in
+the bottom right hand corner of the screen,
+
+154
+00:14:19,749 --> 00:14:23,832
+which will prompt you to leave us a voicemail.
+Your message can be up to 30 seconds long and
+
+155
+00:14:23,912 --> 00:14:28,376
+don't forget to leave your name in case we include
+you on the podcast. We'll pick our favorite
+
+156
+00:14:28,456 --> 00:14:33,199
+answer and award that person a dynamic duel
+no prize that we'll post to Instagram. Be sure
+
+157
+00:14:33,239 --> 00:14:41,848
+to answer before June 22nd. In DC news, last
+week we got the teaser trailer for parts 1
+
+158
+00:14:41,929 --> 00:14:48,852
+and 2 of an animated watchman film that is going
+to be released direct to video and it looks
+
+159
+00:14:49,072 --> 00:14:55,316
+incredible. Honestly, it looks a lot like the
+Zack Snyder film, which also looked incredible.
+
+160
+00:14:55,756 --> 00:15:00,098
+And I think that was the most surprising thing
+to me in this trailer. It was just a reminder
+
+161
+00:15:00,138 --> 00:15:06,578
+of how faithful Zack Snyder's framing was in
+matching the panels from the comic. Now this
+
+162
+00:15:06,618 --> 00:15:13,181
+project was first announced in 2017 and we didn't
+hear anything about it until 2023 at Comic
+
+163
+00:15:13,201 --> 00:15:19,343
+Con and yeah I totally forgot it existed until
+this was released and now I'm pretty pumped
+
+164
+00:15:19,383 --> 00:15:24,085
+for it. It's coming out fairly soon the first
+part is supposed to be released in August of
+
+165
+00:15:24,125 --> 00:15:29,588
+this year but part two won't be coming out until
+next year I guess. My big question is why is
+
+166
+00:15:29,628 --> 00:15:36,043
+this a thing? Like why is this necessary if
+it's so close? to the Zack Snyder live action
+
+167
+00:15:36,243 --> 00:15:42,168
+Watchmen adaptation, do we need this animated
+project? We do not, I believe. I think the
+
+168
+00:15:42,208 --> 00:15:47,272
+reason they're doing it is because it's been
+over 10 years since Zack Snyder's film, and
+
+169
+00:15:47,573 --> 00:15:52,437
+Warner Brothers just likes to keep Watchmen
+out in people's consciousness, as it were.
+
+170
+00:15:52,837 --> 00:15:57,801
+I mean, we recently had the Watchmen HBO television
+series, though, that did a great job of doing
+
+171
+00:15:57,862 --> 00:16:02,405
+just that. This Watchmen movie that's coming
+out looks almost exactly like the What If.
+
+172
+00:16:02,818 --> 00:16:07,241
+style of animation that we've seen from Disney
+Plus. This whole trailer just made me think
+
+173
+00:16:07,321 --> 00:16:13,967
+like, what if DC were to make a redundant Watchmen
+movie? That's what this trailer is asking.
+
+174
+00:16:14,407 --> 00:16:19,351
+Oh yeah? The style of this actually matches
+the style that was done with the Super Sons
+
+175
+00:16:19,391 --> 00:16:26,357
+movie, if you remember that. So no, they're
+not biting off of the what if style of animation
+
+176
+00:16:26,397 --> 00:16:31,970
+that Disney Plus is doing with that show. So
+calm down, okay? I don't know about that. The
+
+177
+00:16:32,010 --> 00:16:37,215
+teaser trailer was not that long, it's only
+41 seconds. But yeah, every frame is basically
+
+178
+00:16:37,275 --> 00:16:43,080
+like a panel from the comic. So you can make
+the argument that this is unnecessary, since
+
+179
+00:16:43,641 --> 00:16:50,687
+not only do we have a movie and a comic, but
+Watchmen is just such a good story. I'm pretty
+
+180
+00:16:50,727 --> 00:16:56,933
+much down with any adaptation. We did receive
+an animated Watchmen motion comic over a decade
+
+181
+00:16:56,973 --> 00:17:03,163
+ago. and I still loved watching that even with
+the live action movie having been made and
+
+182
+00:17:03,243 --> 00:17:08,384
+I'll probably still enjoy this adaptation as
+well. I'm gonna tell you now and I'm speaking
+
+183
+00:17:08,404 --> 00:17:13,446
+on behalf of everybody else besides you. No
+one gives a shit about this. No one cares if
+
+184
+00:17:13,466 --> 00:17:16,947
+they want to experience the Watchmen story.
+They're gonna read the graphic novel or they're
+
+185
+00:17:16,967 --> 00:17:20,328
+gonna go watch Zack Snyder's version and if
+they want more than that they're gonna go watch
+
+186
+00:17:20,348 --> 00:17:25,669
+the HBO television series. No one gives a shit
+about this. Except for people who haven't read
+
+187
+00:17:25,729 --> 00:17:31,143
+the graphic novel. who maybe haven't seen the
+Zack Snyder film and maybe want more information
+
+188
+00:17:31,183 --> 00:17:38,405
+behind the story that was the HBO Watchmen sequel
+series. So like two people. Burn. What? I'm
+
+189
+00:17:38,425 --> 00:17:43,046
+sure it's more than two. You know what? And
+you also forget people like me who just legitimately
+
+190
+00:17:43,186 --> 00:17:47,427
+like Watchmen and are totally down to watch
+this. I think people just need to get over
+
+191
+00:17:47,467 --> 00:17:52,768
+Watchmen already. Like it was a thing. It was
+fine when it came out. It was fantastic even,
+
+192
+00:17:53,169 --> 00:17:58,803
+but you know what? It's been adapted so many
+times now. Who cares? Who cares? Oh wow, someone
+
+193
+00:17:58,863 --> 00:18:06,510
+sounds butthurt from a teaser trailer. What?
+Wow. It's just not necessary. It's just not
+
+194
+00:18:06,550 --> 00:18:11,494
+necessary and I'm sick of Watchmen and people
+just need to move on. Well, you know, we are
+
+195
+00:18:11,514 --> 00:18:16,679
+going to review it. So I'm sorry. I'll get you
+a hemorrhoid pillow for when you do it. Cause
+
+196
+00:18:16,919 --> 00:18:20,782
+from all the butthurt that I'm sure will come
+out of the review, I will be looking forward
+
+197
+00:18:20,822 --> 00:18:26,542
+to it. I'll get you some cream too. All right,
+cool it. If you haven't seen the trailer, I
+
+198
+00:18:26,583 --> 00:18:30,845
+definitely recommend checking it out again.
+It's not long, looks really cool. And I'm curious
+
+199
+00:18:30,865 --> 00:18:35,409
+to hear what you guys have to say about it.
+Tell Joseph how wrong he is. You're not going
+
+200
+00:18:35,429 --> 00:18:38,571
+to get any feedback about what people think
+about this because they're not going to care
+
+201
+00:18:38,591 --> 00:18:41,993
+enough to answer. It's fine. I can't wait till
+I get feedback. I'm going to screenshot it.
+
+202
+00:18:42,013 --> 00:18:45,716
+I'm going to text it to you. You're not going
+to get feedback from anyone outside of discord.
+
+203
+00:18:45,756 --> 00:18:52,500
+I'll say that. McGee is going to be the only
+one that messages you. Well, me and him will
+
+204
+00:18:52,540 --> 00:18:54,061
+enjoy the movie then. All right.
+
+205
+00:19:01,038 --> 00:19:04,464
+But I think that does it for all the news for
+this episode, so let's go ahead and move into
+
+206
+00:19:04,504 --> 00:19:10,436
+our main event where we find out who had went
+in a fight between the Outsiders member Geoforce
+
+207
+00:19:10,877 --> 00:19:12,841
+and the Agent to Shield, Quake.
+
+208
+00:19:28,150 --> 00:19:33,332
+Alright, GeoForce vs Quake. This episode is
+in lead up to our upcoming team duel which
+
+209
+00:19:33,392 --> 00:19:39,014
+pits the outsiders against X-Force. Now, a lot
+of the outsiders are kind of, I feel like,
+
+210
+00:19:39,314 --> 00:19:44,136
+isolated within the DC universe, but they have
+played a prominent role within that team itself,
+
+211
+00:19:44,496 --> 00:19:49,718
+GeoForce being one of them. Yeah, GeoForce is
+a major member of the outsiders. I would say
+
+212
+00:19:49,738 --> 00:19:54,700
+he's probably the third most important after
+Batman and Black Lightning. He's actually led
+
+213
+00:19:54,720 --> 00:20:01,335
+the team on occasion. Has Quake led SHIELD?
+Yeah, she has in fact. She's been the director
+
+214
+00:20:01,355 --> 00:20:06,338
+of shield so you thought you had something going
+there Well, has she been the queen of a country?
+
+215
+00:20:06,859 --> 00:20:11,001
+Geoforce has been the queen of a country. He
+has been the king Wow I'm really interested
+
+216
+00:20:11,021 --> 00:20:15,403
+in learning about this obviously both of these
+characters have the ability to generate seismic
+
+217
+00:20:15,463 --> 00:20:21,027
+waves Geoforce can control rocks and quake can
+just kick all kinds of ass. If you guys have
+
+218
+00:20:21,047 --> 00:20:25,451
+watched the Agents of SHIELD television show
+that was out a few years ago, you obviously
+
+219
+00:20:25,491 --> 00:20:30,055
+know Quake. She was the main character of that
+series next to Agent Phil Coulson, and she
+
+220
+00:20:30,095 --> 00:20:34,999
+was played by Chloe Bennett, and she was a fantastic
+character. She has really cool powers as well.
+
+221
+00:20:35,459 --> 00:20:40,964
+And if you guys watched the Young Justice series,
+you'll know about GeoForce. All two dozen of
+
+222
+00:20:40,984 --> 00:20:45,027
+you. Yeah, that's two dozen more than watched
+Agents of SHIELD. That's probably not true.
+
+223
+00:20:45,047 --> 00:20:49,915
+Excuse you, Agents of SHIELD was a popular show.
+And it was a fantastic show too, for the most
+
+224
+00:20:49,955 --> 00:20:55,820
+part, before season 5. It was good. I feel like
+you're trying to convince me. I don't need
+
+225
+00:20:55,840 --> 00:21:01,605
+you to be convinced, I just need you to be sorry
+when you lose this match. And I expect you
+
+226
+00:21:01,645 --> 00:21:09,191
+to die. No. I don't know. But to explain the
+methodology behind our duels, let's go with
+
+227
+00:21:09,231 --> 00:21:15,376
+our sentient duel simulator, Alfred Jarvis 9000.
+AJ9K, tell our listeners how you go about determining
+
+228
+00:21:15,436 --> 00:21:20,228
+a winner in our duel matchups. Yes, of course,
+sir. The way I determine a winner between the
+
+229
+00:21:20,268 --> 00:21:25,152
+contestants is by running 1,000 Monte Carlo
+simulations using the characters' statistics.
+
+230
+00:21:25,633 --> 00:21:30,057
+A Monte Carlo simulation is a probabilistic
+model used to determine outcomes through random
+
+231
+00:21:30,117 --> 00:21:35,962
+sampling. In this case, I randomize the statistics
+along a normal distribution as a way to simulate
+
+232
+00:21:35,982 --> 00:21:40,586
+the many variables that can occur during battle.
+The stat parameters are based on the official
+
+233
+00:21:40,626 --> 00:21:45,922
+Marvel power grid from which the DC characters'
+statistics are extrapolated. Additional stat
+
+234
+00:21:45,962 --> 00:21:51,483
+categories are included such as range, damage
+potential, versatility and perception in order
+
+235
+00:21:51,523 --> 00:21:56,945
+to create a more detailed and accurate simulation.
+The results of the 1000 simulations provide
+
+236
+00:21:56,965 --> 00:22:01,326
+a percentage of wins for each character. The
+contestant with the higher percentage is declared
+
+237
+00:22:01,366 --> 00:22:06,647
+the victor as they have a higher probability
+to win any given battle. In an equitable pairing,
+
+238
+00:22:07,028 --> 00:22:11,829
+neither character should win 100% of the matches.
+The comic book stories have shown that there's
+
+239
+00:22:11,969 --> 00:22:16,763
+even a way for Batman to defeat Superman. So
+the confidence rate of my method falls in line
+
+240
+00:22:16,783 --> 00:22:21,385
+with the precedents that have been established
+in the source material. My mathematical simulations
+
+241
+00:22:21,425 --> 00:22:26,587
+are without subjectivity or bias. Feats are
+not the sole consideration, nor are fan votes
+
+242
+00:22:26,627 --> 00:22:32,590
+tabulated for determination of the winner. Thanks
+AJ9K! Before we run the simulations though,
+
+243
+00:22:32,610 --> 00:22:37,212
+we like to break down each character's histories
+and abilities before improvising a scenario
+
+244
+00:22:37,412 --> 00:22:42,254
+on how we imagine one of the 1000 simulations
+would play out beat for beat. And I believe
+
+245
+00:22:42,314 --> 00:22:47,418
+it's my turn to go first with the DC characters'
+backstory, so let me tell you about Geoforce.
+
+246
+00:22:48,099 --> 00:22:54,003
+Now within the DC Comics universe nestled between
+Luxembourg, Belgium, and France, exists the
+
+247
+00:22:54,084 --> 00:23:00,208
+small fictional country of Markovia, ruled by
+a monarchy until it was overthrown by the Nazis
+
+248
+00:23:00,249 --> 00:23:06,193
+during World War II. When the Nazis were defeated,
+their occupation of Markovia ended, and the
+
+249
+00:23:06,253 --> 00:23:12,102
+monarchy was restored, with its rightful king,
+Victor Markov, returned to the throne. King
+
+250
+00:23:12,202 --> 00:23:19,567
+Markov ruled over Markovia and eventually sired
+two sons, Gregor and Brian, and an illegitimate
+
+251
+00:23:19,587 --> 00:23:25,030
+daughter named Terra, who was raised in America
+to spare the throne any embarrassment. You
+
+252
+00:23:25,051 --> 00:23:31,415
+can learn more about Terra in our Terra vs Avalanche
+duel episode. In a land consisting primarily
+
+253
+00:23:31,455 --> 00:23:37,939
+of farmers and miners, Markovia had no superpowered
+champion to call their own, and in an effort
+
+254
+00:23:37,959 --> 00:23:43,239
+to protect the country against any superpowered
+threats, as well as bolster the power of the
+
+255
+00:23:43,279 --> 00:23:50,125
+royal family, Markovia's chief royal scientist,
+Dr. Helga Jace, began genetic research to find
+
+256
+00:23:50,265 --> 00:23:56,790
+and trigger a potential metagene within the
+Markovs. After a successful experiment on Terra,
+
+257
+00:23:57,110 --> 00:24:02,655
+which imbued her with geokinetic metahuman ability,
+the illegitimate princess was sent back to
+
+258
+00:24:02,715 --> 00:24:07,758
+America, where she eventually teamed up with
+the villain Deathstroke to infiltrate the Teen
+
+259
+00:24:07,798 --> 00:24:13,160
+Titans, which you can learn more about in our
+Titans vs. X-Men Team Duel episode. Meanwhile,
+
+260
+00:24:13,300 --> 00:24:19,303
+the former Nazi Baron Frederick de Lamm, who
+was instituted as Markovia's ruler by the Germans
+
+261
+00:24:19,403 --> 00:24:25,586
+during its World War II occupation, also lived
+in exile from Markovia, conspiring to overthrow
+
+262
+00:24:25,626 --> 00:24:30,848
+its monarchy and return to power, while also
+granting him access to a hidden vault within
+
+263
+00:24:30,888 --> 00:24:37,299
+Castle Markov that contained a secret Nazi weapon.
+Under the nom de guerre of Baron Bedlam, he
+
+264
+00:24:37,359 --> 00:24:42,961
+hired mercenaries to secretly and successfully
+stage a violent revolution within Markovia,
+
+265
+00:24:43,361 --> 00:24:48,944
+resulting in King Markov being fatally wounded.
+Prince Gregor assumed his father's throne,
+
+266
+00:24:49,204 --> 00:24:55,026
+though he refused to undergo Dr. Helga Jace's
+metagenic experiment as he wasn't keen on becoming
+
+267
+00:24:55,286 --> 00:24:57,547
+a quote-unquote freak like his sister
+
+268
+00:25:03,466 --> 00:25:08,989
+His brother, Prince Brian, however, believed
+in Dr. Jace's research and agreed to undergo
+
+269
+00:25:09,030 --> 00:25:14,814
+her medelline procedure to help protect his
+country. A procedure that harnessed the energy
+
+270
+00:25:14,874 --> 00:25:20,838
+of the planet itself, which Dr. Jace referred
+to as the Geo Force. The procedure was nearly
+
+271
+00:25:20,898 --> 00:25:26,422
+interrupted by revolutionaries, however, and
+Brian was shot immediately upon its completion.
+
+272
+00:25:26,782 --> 00:25:32,094
+Quickly buried alive in an unmarked grave to
+prevent him from becoming a martyr, Bryan's
+
+273
+00:25:32,174 --> 00:25:37,356
+new powers drew healing strength from the ground,
+and he emerged from his grave only to find
+
+274
+00:25:37,416 --> 00:25:43,959
+that Baron Bedlam had forced Dr. Jace to perform
+the Geo Force procedure on him as well, though
+
+275
+00:25:43,979 --> 00:25:49,962
+she failed to inform him that his powers would
+be unstable and temporary as he wasn't of the
+
+276
+00:25:50,022 --> 00:25:56,925
+royal bloodline of the Markovs. Alongside Batman,
+Black Lightning, Metamorpho, Halo, and Kitana,
+
+277
+00:25:57,474 --> 00:26:03,457
+Prince Bryan was able to repel Baron Bedlam's
+invasion of Markovia, with the final duel between
+
+278
+00:26:03,517 --> 00:26:09,440
+Bryan and Bedlam ending when Bedlam's powers
+disappeared just as he was levitating a giant
+
+279
+00:26:09,480 --> 00:26:14,923
+boulder over his head that he intended to crush
+Bryan with. With Baron Bedlam dead and peace
+
+280
+00:26:14,963 --> 00:26:20,366
+restored to Markovia, Prince Bryan agreed to
+join the other heroes in Gotham City to form
+
+281
+00:26:20,486 --> 00:26:25,629
+a new team known as the Outsiders. Not only
+as a way to show his gratitude for their help
+
+282
+00:26:25,689 --> 00:26:31,125
+in saving his country, but also to train in
+the use of his new powers. Although initially
+
+283
+00:26:31,265 --> 00:26:37,170
+unused to following orders, resulting in frequent
+conflicts with the team's leader, Batman, Brian,
+
+284
+00:26:37,370 --> 00:26:42,574
+who took the codename Geoforce to hide his royal
+identity, reluctantly learned the value of
+
+285
+00:26:42,635 --> 00:26:47,539
+teamwork. After learning that his half-sister,
+Tara, died while betraying the Teen Titans,
+
+286
+00:26:47,939 --> 00:26:53,604
+the heartbroken Brian found comfort in his teammate
+Halo's roommate, a woman named Denise Howard,
+
+287
+00:26:53,744 --> 00:26:59,028
+while he attended Gotham University. While Geoforce
+adventured as a member of the Outsiders in
+
+288
+00:26:59,068 --> 00:27:07,035
+Markovia, Baron Bedlam's corpse was discovered
+by an evil geneticist named Dr. Ovarny, aka,
+
+289
+00:27:07,716 --> 00:27:14,702
+uh, Madame Ovary. After cloning Bedlam and restoring
+his memory, Bedlam had her also clone Hitler,
+
+290
+00:27:15,102 --> 00:27:20,907
+as Bedlam needed his fingerprints to open the
+secret vault within Castle Markov. Bedlam orchestrated
+
+291
+00:27:21,028 --> 00:27:25,955
+another coup on the Markovian monarchy. This
+time hiring a supervillain team known as the
+
+292
+00:27:25,995 --> 00:27:31,477
+Masters of Disasters to aid him, and allying
+himself with the Soviet Union, which prevented
+
+293
+00:27:31,517 --> 00:27:35,599
+the United States from getting involved, as
+they didn't want to escalate the situation
+
+294
+00:27:35,659 --> 00:27:41,541
+into a world war. Though Batman tried to prevent
+the Outsiders from interfering, the team abandoned
+
+295
+00:27:41,581 --> 00:27:46,964
+their leader once they learned that King Gregor's
+fiance, Princess Elona, had been kidnapped.
+
+296
+00:27:47,224 --> 00:27:52,462
+Though Brian and the Outsiders were initially
+defeated by the Masters of Disaster, and imprisoned
+
+297
+00:27:52,602 --> 00:27:58,486
+as Baron Bedlam gained access to the Nazi superweapon
+of a proton cloud generator, they eventually
+
+298
+00:27:58,546 --> 00:28:03,990
+escaped and rescued the princess, culminating
+in Brian granting Bedlam the opportunity to
+
+299
+00:28:04,050 --> 00:28:10,234
+kill himself, only to be shot in the back instead
+and Brian decapitating Bedlam. After separating
+
+300
+00:28:10,255 --> 00:28:15,598
+themselves from Batman, the Outsiders team became
+funded by Markovia, and Brian was made the
+
+301
+00:28:15,638 --> 00:28:21,854
+team leader. Not long after, however, King Gregor
+was assassinated. and Brian became the new
+
+302
+00:28:21,894 --> 00:28:27,578
+king for a time, until it was discovered that
+Queen Ilona was pregnant. It was later revealed
+
+303
+00:28:27,638 --> 00:28:34,083
+that his brother's murderer was none other than
+Dr. Helga Jace, who was in fact a sleeper agent
+
+304
+00:28:34,143 --> 00:28:38,566
+of the Manhunter cult, and she accidentally
+killed herself while trying to destroy the
+
+305
+00:28:38,666 --> 00:28:44,110
+outsiders. The team disbanded shortly after,
+and Brian lived with his girlfriend Denise
+
+306
+00:28:44,250 --> 00:28:50,490
+in Markovia for some time, until Brian was framed
+for killing Queen Ilona. While on the run with
+
+307
+00:28:50,510 --> 00:28:56,294
+the reformed Outsiders team, Brian managed to
+clear his name and bring down Ilona's true
+
+308
+00:28:56,334 --> 00:29:02,558
+killer, an evil vampire. Eventually, Brian married
+Denise and the two served as regents until
+
+309
+00:29:02,598 --> 00:29:08,042
+his nephew came of age to take the throne as
+King of Markovia. After joining the Justice
+
+310
+00:29:08,082 --> 00:29:14,407
+League for a time, Brian left the team to rejoin
+the Outsiders, during which time he faced Deathstroke
+
+311
+00:29:14,527 --> 00:29:19,494
+for what he had done to his sister, Tara, and
+the two nearly killed each other. learn more
+
+312
+00:29:19,534 --> 00:29:25,359
+about Deathstroke in his duel against Deadpool.
+In post-Flashpoint continuity, Prince Bryan
+
+313
+00:29:25,399 --> 00:29:30,724
+was the ruler of Markovia, and the origin of
+his powers remained largely the same. When
+
+314
+00:29:30,744 --> 00:29:35,508
+the country of Markovia was destroyed by the
+League of Assassins and the Seeker Society
+
+315
+00:29:35,548 --> 00:29:41,013
+of Super-Villains, Bryan vowed revenge against
+both organizations by assassinating Grassal
+
+316
+00:29:41,033 --> 00:29:47,634
+Ghul and injuring his daughter Talia while disguised
+as Deathstroke. His actions resulted in an
+
+317
+00:29:47,734 --> 00:29:53,396
+underworld shadow war that drew in Batman and
+culminated with a showdown between Talia and
+
+318
+00:29:53,516 --> 00:29:59,517
+Deathstroke, at which point Bryan revealed he
+was responsible for everything. Batman's son
+
+319
+00:29:59,597 --> 00:30:05,139
+Damien, who you can learn more about in our
+Robin vs. Patriot episode, subsequently defeated
+
+320
+00:30:05,179 --> 00:30:09,660
+Bryan single-handedly, and Bryan was arrested
+for killing Ra's al Ghul.
+
+321
+00:30:14,902 --> 00:30:20,585
+allowing him to generate gravitational fields
+that can make objects heavier or lighter, in
+
+322
+00:30:20,625 --> 00:30:26,328
+effect giving him increased durability and strength.
+He also possesses geokinesis, allowing him
+
+323
+00:30:26,368 --> 00:30:31,991
+to levitate, move, and shape the Earth around
+him as well as lava, which he could also shoot
+
+324
+00:30:32,011 --> 00:30:39,235
+from his hands as beams of molten rock, flames,
+or waves of heat. Combining gravity manipulation
+
+325
+00:30:39,355 --> 00:30:45,058
+with heat propulsion allows Geoforce to fly
+at fast speeds. though for short periods of
+
+326
+00:30:45,118 --> 00:30:50,463
+time, as his powers diminish the longer he's
+out of contact with the ground. When underground,
+
+327
+00:30:50,743 --> 00:30:57,529
+he can heal his wounds and survive without food
+or air. Lastly, he is also a skilled hand-to-hand
+
+328
+00:30:57,569 --> 00:31:06,336
+combatant. That is Geoforce. Madame Ovary, really?
+You know, I'm not proud of it. Somebody in
+
+329
+00:31:06,396 --> 00:31:11,019
+the comic book writing bullpen was just out
+of ideas that day. It kind of seems like they
+
+330
+00:31:11,220 --> 00:31:16,067
+wanted to see if they could get away with it,
+and they did. And that's a shame. It is a shame.
+
+331
+00:31:16,207 --> 00:31:20,691
+But to help us move past that atrocious writing,
+let's go ahead and get into the backstory of
+
+332
+00:31:20,972 --> 00:31:27,758
+Quake. Now Daisy Johnson was born in New Orleans,
+Louisiana to Calvin Zobbo and Kim Johnson.
+
+333
+00:31:28,138 --> 00:31:34,103
+Her father, Calvin, was an Avengers villain,
+also known as Mr. Hyde, who, prior to Daisy's
+
+334
+00:31:34,143 --> 00:31:39,007
+birth, had developed a serum known as the Hyde
+formula that could drastically enhance his
+
+335
+00:31:39,088 --> 00:31:43,691
+body mass and strength within seconds. though
+it came with the side effect of making him
+
+336
+00:31:43,731 --> 00:31:50,075
+prone to savage anger. In the process of developing
+the Hyde formula, Calvin had performed numerous
+
+337
+00:31:50,135 --> 00:31:57,140
+experiments on himself, inadvertently altering
+his own DNA. Daisy's mother, Kim, was an inhuman
+
+338
+00:31:57,180 --> 00:32:02,544
+prostitute who Calvin frequented, and who gave
+Daisy up for adoption immediately after her
+
+339
+00:32:02,584 --> 00:32:08,408
+birth. Daisy was taken in by foster parents
+who named her Cory Stutter, and though Daisy
+
+340
+00:32:08,428 --> 00:32:15,762
+showed her troubled nature resulted in her dropping
+out of high school to fend for herself. While
+
+341
+00:32:15,782 --> 00:32:20,866
+committing an act of theft, Daisy's power suddenly
+manifested and she discovered she could generate
+
+342
+00:32:20,966 --> 00:32:25,911
+seismic vibrations when anxious. She was unable
+to control these new abilities and was soon
+
+343
+00:32:25,951 --> 00:32:30,835
+discovered by the International Peacekeeping
+and Espionage Organization, known as SHIELD.
+
+344
+00:32:31,296 --> 00:32:36,420
+Though they initially believed Daisy was a mutant,
+SHIELD later discovered that due to her father's
+
+345
+00:32:36,480 --> 00:32:41,852
+genetic experimentation, Daisy's inhuman powers
+were able to manifest without the need for
+
+346
+00:32:41,912 --> 00:32:47,456
+Terragen, a substance used by the inhuman race
+to trigger their latent abilities. You can
+
+347
+00:32:47,476 --> 00:32:53,200
+learn more about Inhumans and Terragenesis in
+our Shazam vs. Black Bolt duel episode. Nick
+
+348
+00:32:53,240 --> 00:32:58,503
+Fury, the director of SHIELD, took notice of
+Daisy's potential and had her train with SHIELD
+
+349
+00:32:58,543 --> 00:33:03,967
+to become an agent. She excelled at the organization
+and quickly rose through the ranks, honing
+
+350
+00:33:03,987 --> 00:33:08,642
+her abilities and completing numerous successful
+field missions. often partnered with SHIELD
+
+351
+00:33:08,742 --> 00:33:14,385
+agent Phil Coulson. Eventually, Daisy went on
+to become one of Nick Fury's most trusted operatives,
+
+352
+00:33:14,786 --> 00:33:19,909
+taking on the codename Quake, and getting level
+10 security clearance, the only other field
+
+353
+00:33:20,009 --> 00:33:25,452
+agent beside Black Widow to ever do so. Daisy
+was tasked with her biggest, most secretive
+
+354
+00:33:25,492 --> 00:33:30,495
+mission yet when Nick Fury asked her to accompany
+heroes such as Captain America, Black Widow,
+
+355
+00:33:30,995 --> 00:33:37,287
+Daredevil, Spider-Man, Luke Cage, and Wolverine
+in a top secret coup of the nation of Latveria.
+
+356
+00:33:37,807 --> 00:33:43,773
+At the time, Latveria's monarch, Dr. Doom, was
+trapped in hell due to dark bargains he had
+
+357
+00:33:43,833 --> 00:33:50,120
+made earlier. Latveria's new prime minister,
+named Lucia von Bardis, was covertly funding
+
+358
+00:33:50,220 --> 00:33:56,065
+America's supervillains as a way to wreak terror
+on American soil. Nick Fury found evidence
+
+359
+00:33:56,085 --> 00:34:00,770
+of this, though the government administration
+at the time refused to act on the intel. Nick
+
+360
+00:34:00,810 --> 00:34:05,434
+Fury found his hand forced and took his secret
+recruitment of heroes to Latveria, including
+
+361
+00:34:05,474 --> 00:34:11,900
+Daisy, to quietly take Lucia von Bardis out.
+However, one year later, von Bardis returned
+
+362
+00:34:11,960 --> 00:34:17,045
+as a cyborg with a cybernetic army to enact
+revenge against the heroes involved in Fury's
+
+363
+00:34:17,105 --> 00:34:22,570
+operation. Daisy and the others fought to disable
+a bomb that von Bardis used to try and destroy
+
+364
+00:34:22,590 --> 00:34:28,303
+New York City, and Daisy herself destroyed the
+cyborg threat. You can learn more about Liberia
+
+365
+00:34:28,443 --> 00:34:33,327
+and Doctor Doom in his duel against Superman,
+and more about Nick Fury in his duel against
+
+366
+00:34:33,467 --> 00:34:38,732
+Rick Flag. When Nick Fury's Liberian coup came
+to light, he was ousted from S.H.I.E.L.D. and
+
+367
+00:34:38,772 --> 00:34:45,158
+replaced by new director Maria Hill, who removed
+Daisy from duty. Although inactive, Daisy helped
+
+368
+00:34:45,178 --> 00:34:50,443
+the X-Men fight Magneto on the island of Genosha,
+where she proved instrumental in knocking the
+
+369
+00:34:50,463 --> 00:34:56,038
+villain unconscious by inducing vibrations in
+his brain. Not long after, Nick Fury returned
+
+370
+00:34:56,098 --> 00:35:01,800
+to draft Daisy into his covert team of secret
+warriors to fight clandestine threats. This
+
+371
+00:35:01,840 --> 00:35:07,081
+included the secret invasion of alien Skrulls
+on Earth and stopping secret cells of the evil
+
+372
+00:35:07,121 --> 00:35:12,423
+organization Hydra around the world. After the
+Skrulls defeat and the dissolution of SHIELD,
+
+373
+00:35:12,903 --> 00:35:18,104
+Daisy was drafted into the Avengers and was
+tasked with spying on Norman Osborn, who had
+
+374
+00:35:18,144 --> 00:35:19,705
+taken advantage of the SHIELD power
+
+375
+00:35:22,874 --> 00:35:28,438
+and the Dark Avengers. Captain America ended
+up reactivating SHIELD and appointed Daisy
+
+376
+00:35:28,799 --> 00:35:34,463
+as its new director, where she was now in charge
+of the entire operation. However, her decision
+
+377
+00:35:34,483 --> 00:35:38,667
+to assassinate the leader of the scientific
+criminal organization AIM led to her being
+
+378
+00:35:38,707 --> 00:35:44,111
+demoted and replaced as SHIELD director by Maria
+Hill. You can learn more about the Avengers
+
+379
+00:35:44,231 --> 00:35:48,935
+in their duel episode against the Justice League.
+Back as a SHIELD agent, Daisy went on a mission
+
+380
+00:35:48,975 --> 00:35:54,526
+to locate and retrieve her father, Mr. Hyde.
+She sought his help in fixing her powers, which
+
+381
+00:35:54,566 --> 00:35:59,287
+had begun to take their toll on her body, causing
+her bones to splinter and sometimes shatter.
+
+382
+00:35:59,708 --> 00:36:03,989
+Feeling affection for his daughter, Mr. Hyde
+was able to cure her, but then tried to inject
+
+383
+00:36:04,009 --> 00:36:08,870
+her with his Hyde formula, claiming that it
+would protect her. Agent Phil Coulson took
+
+384
+00:36:08,910 --> 00:36:14,172
+the injection instead in an effort to spare
+Daisy, and he and Mr. Hyde fought, giving Daisy
+
+385
+00:36:14,212 --> 00:36:19,293
+enough time to use her restored powers to create
+a fissure in the ground that swallowed her
+
+386
+00:36:19,333 --> 00:36:25,120
+father whole. And that's her backstory. Powers-wise,
+Quake is an inhuman with the innate ability
+
+387
+00:36:25,160 --> 00:36:30,143
+to generate seismic vibrations, the magnitude
+of which she can control via a pair of gauntlets
+
+388
+00:36:30,163 --> 00:36:35,287
+she wears on her wrists. Her vibrations can
+be so powerful and widespread as to create
+
+389
+00:36:35,327 --> 00:36:40,451
+a massive earthquake that topples buildings
+or so small and targeted as to explode the
+
+390
+00:36:40,491 --> 00:36:46,035
+heart in someone's chest. The vibrations can
+be forceful enough to shatter objects or delicate
+
+391
+00:36:46,075 --> 00:36:51,798
+enough to render someone unconscious. As an
+inhuman, Quake has innately enhanced physicality,
+
+392
+00:36:52,099 --> 00:36:57,741
+including greater reflexes, durability, and
+strength than any human athlete. She is a highly
+
+393
+00:36:57,781 --> 00:37:03,944
+trained fighter taught by Nick Fury and Shield,
+an elite spy, and an intelligent strategist.
+
+394
+00:37:04,344 --> 00:37:09,166
+And that's Quake. So what you're basically saying
+is that anything Quake can do, Geoforce can
+
+395
+00:37:09,186 --> 00:37:14,348
+do, and then some. Can he shatter the heart
+in someone's chest? I mean, yeah, by putting
+
+396
+00:37:14,388 --> 00:37:17,389
+his fist through it. Okay, all right, okay.
+
+397
+00:37:24,334 --> 00:37:30,021
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+398
+00:37:30,041 --> 00:37:35,769
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+399
+00:37:35,829 --> 00:37:41,516
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+400
+00:37:41,536 --> 00:37:48,205
+DynaMic Podcast Network Comic Book Titans smash
+every Tuesday, Max Destruction, where TV and
+
+401
+00:37:48,305 --> 00:37:54,609
+action heroes battle every Wednesday, and Sendro
+World, where anime champions clash every Thursday.
+
+402
+00:37:55,129 --> 00:38:00,132
+Join us as we speculate on the matches and,
+armed with the power of mathematical simulations,
+
+403
+00:38:00,373 --> 00:38:07,277
+discover who will emerge victorious. Visit dynamicpodcast.com
+where we settle the debate and settle the score.
+
+404
+00:38:11,575 --> 00:38:15,537
+Well now that we got their histories and abilities
+out of the way, let's speculate on how one
+
+405
+00:38:15,557 --> 00:38:21,061
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not the speculation,
+
+406
+00:38:21,221 --> 00:38:26,485
+but it's fun to imagine how the fight could
+play out. AJ9K, what are the rules of our speculation?
+
+407
+00:38:27,385 --> 00:38:31,388
+Well I should say there are no rules, other
+than the characters have no prior knowledge
+
+408
+00:38:31,408 --> 00:38:35,811
+of the other going into the fight. All they
+are aware of starting out is that the other
+
+409
+00:38:35,831 --> 00:38:40,658
+character is a threat that needs to be eliminated.
+For the speculation... The contestants will
+
+410
+00:38:40,678 --> 00:38:46,022
+begin approximately 50 meters apart in a nondescript
+environment that will have no bearing on the
+
+411
+00:38:46,042 --> 00:38:51,386
+match itself, as no environmental statistics
+are considered in my simulations. The contestants
+
+412
+00:38:51,446 --> 00:38:57,391
+must earn victory on their own merit. Alright
+then, let's get into it. Geoforce and Quake
+
+413
+00:38:57,491 --> 00:39:03,996
+meet on the battlefield. Who goes first? Well,
+Quake is an inhuman, so she has greater reflexes,
+
+414
+00:39:04,156 --> 00:39:09,198
+slightly. I'm going to say that she goes first.
+and she's just gonna let rip a wide blast of
+
+415
+00:39:09,278 --> 00:39:14,320
+seismic vibrations from her hands that just
+tear across the ground and slam into Geoforce,
+
+416
+00:39:14,680 --> 00:39:19,761
+sending him flying backward onto the floor.
+Okay, Geoforce, you know, he was caught off
+
+417
+00:39:19,781 --> 00:39:25,483
+guard by the attack, but he's gonna land gently
+on the ground thanks to his manipulation of
+
+418
+00:39:25,523 --> 00:39:31,244
+gravity, and once he does, he quickly opens
+up a fissure beneath Quake that just sprays
+
+419
+00:39:31,284 --> 00:39:37,402
+her with hot lava. No, cause Quake will see
+the fissure opening up beneath her. and she's
+
+420
+00:39:37,422 --> 00:39:43,605
+gonna shoot her vibrations down into the fissure
+and the lava below her, keeping the lava from
+
+421
+00:39:43,965 --> 00:39:49,587
+boiling up and spilling out, and the downward
+blast is just gonna propel her away from the
+
+422
+00:39:49,627 --> 00:39:55,950
+fissure, and when the lava does come out of
+it, she's gonna use her vibrations to guide
+
+423
+00:39:55,990 --> 00:40:02,052
+the lava across the battlefield like this lava
+wave that's just gonna fall on top of GeoForce
+
+424
+00:40:02,072 --> 00:40:08,455
+and just scald the shit out of them. through
+lava and like shoots it out of his hands. What?
+
+425
+00:40:08,475 --> 00:40:13,478
+He's not gonna be hurt by it. All right. So
+instead of getting scalded, he's just gonna
+
+426
+00:40:13,558 --> 00:40:19,761
+blast that wave coming at him with a torrent
+of his own lava that then crashes right into
+
+427
+00:40:19,841 --> 00:40:27,366
+Quake. So now she's burned up. No, cause Quake's
+gonna shake the ground beneath her and cause
+
+428
+00:40:27,506 --> 00:40:33,109
+a convergence so that this giant piece of land
+just juts up right in front of her. And she
+
+429
+00:40:33,169 --> 00:40:38,210
+uses that as a shield. So the lava never reaches
+her. Quake is gonna blast herself into the
+
+430
+00:40:38,310 --> 00:40:43,052
+air again, sending herself over to GeoForce,
+and she crash lands right on top of him, legs
+
+431
+00:40:43,072 --> 00:40:48,313
+first, where she does the, you know, like the
+Black Widow, Lucha Libra style flip, and she
+
+432
+00:40:48,333 --> 00:40:54,575
+just flips him onto the ground, onto his back.
+Okay, so as she was about to land on him, suddenly
+
+433
+00:40:54,615 --> 00:40:59,096
+though, she's just floating in the air, right
+above him, because he nullified the gravity
+
+434
+00:40:59,136 --> 00:41:05,590
+around her so that she can't land. So now she's
+just trapped in the air. and he's gonna summon
+
+435
+00:41:05,730 --> 00:41:11,872
+a giant fist made of rock to shoot up from the
+ground beneath her and just uppercut her right
+
+436
+00:41:11,912 --> 00:41:17,993
+into the sky. No, because as she's stuck in
+midair with this stone fist beneath her, she's
+
+437
+00:41:18,013 --> 00:41:24,555
+gonna like force blast karate chop this giant
+fist in half as it rises up and the shock waves
+
+438
+00:41:24,575 --> 00:41:29,596
+that she generates to break the stone fist in
+half also shakes the ground beneath Geoforce
+
+439
+00:41:30,056 --> 00:41:35,402
+and that causes him to lose his concentration
+so he drops her. And her gravity is restored
+
+440
+00:41:35,862 --> 00:41:42,064
+and she lands on the ground next to Geoforce
+and just leg sweeps him. Okay, but as Geoforce
+
+441
+00:41:42,124 --> 00:41:48,126
+is falling, he's gonna increase his gravity
+so that he actually slams into the ground hard
+
+442
+00:41:48,166 --> 00:41:54,567
+enough to generate this massive crater that
+Quake is also gonna fall into. And at the bottom
+
+443
+00:41:54,587 --> 00:42:00,529
+of this deep crater, Geoforce is gonna levitate
+all of the rock shrapnel that's all around
+
+444
+00:42:00,549 --> 00:42:06,204
+them and he's just gonna- send it flying at
+Quake, just pummeling her with it, not stop,
+
+445
+00:42:06,544 --> 00:42:10,807
+essentially stoning her to death. Now, Quake
+is just gonna disintegrate all these stones
+
+446
+00:42:10,867 --> 00:42:16,231
+flying at her one by one. You know, they just
+turn into dust. And she's just like really
+
+447
+00:42:16,251 --> 00:42:21,875
+annoyed by this point, you know, just dealing
+with GeoForce. So she continues by disintegrating
+
+448
+00:42:22,035 --> 00:42:31,201
+GeoForce's nuts, turning those into powder.
+No! And he's like, oh my God, my nuts! Oh no.
+
+449
+00:42:31,221 --> 00:42:37,889
+Okay. Uh, so Joe Force, you know, he's gonna
+drop instantly to the ground. Yeah. And, uh,
+
+450
+00:42:37,929 --> 00:42:42,612
+actually he's going to like drop into the ground.
+It's just going to envelop him and bury him
+
+451
+00:42:43,152 --> 00:42:50,657
+and underground. He's able to rapidly heal and
+regenerate his balls. What? Quick. She's going
+
+452
+00:42:50,677 --> 00:42:55,480
+to be busy trying to climb out of this giant
+crater that he created, but it's too fucking
+
+453
+00:42:55,520 --> 00:43:01,716
+late. It's super volcano time, right? So this
+is basically a huge lava bomb that just decimates
+
+454
+00:43:02,096 --> 00:43:08,139
+everything around it for miles. No way she could
+escape in time. So she dead. I don't think
+
+455
+00:43:08,179 --> 00:43:14,503
+so. I mean, if GeoForce is busy hiding like
+a punk ass deep underground, that's also Quake's
+
+456
+00:43:14,543 --> 00:43:20,306
+domain. Quake is gonna shake the ground beneath
+her so hard that it pummeled GeoForce to death.
+
+457
+00:43:20,366 --> 00:43:24,668
+Just like he's gonna get rattled around down
+there and his body's gonna get crushed into
+
+458
+00:43:24,689 --> 00:43:29,996
+pieces. That's match over. Dude, she doesn't
+know where underground he was. All she has
+
+459
+00:43:30,016 --> 00:43:34,398
+to do is aim down. She just shakes all the ground
+beneath her. He's somewhere down there. That's
+
+460
+00:43:34,418 --> 00:43:39,542
+where he dies. Okay, I mean, that's probably
+a good place to leave off the match. Either
+
+461
+00:43:40,102 --> 00:43:49,268
+Quake gets decimated in a super volcanic eruption
+or GeoForce gets essentially flattened by an
+
+462
+00:43:49,348 --> 00:43:53,331
+earthquake while he's busy healing underground.
+We'll go ahead and leave the match there. We'll
+
+463
+00:43:53,351 --> 00:43:59,115
+input the character stats, run a thousand simulations
+and come back with a winner. AG9K, hit it.
+
+464
+00:43:59,675 --> 00:44:07,021
+Inputting data, running calculations, processing
+results, simulations complete. Okay, so stat
+
+465
+00:44:07,041 --> 00:44:13,826
+wise, this was a horrible matchup. Well, I thought
+it would kind of turn out the same way as Terra
+
+466
+00:44:13,846 --> 00:44:19,462
+versus Avalanche, but there were a lot of notable
+differences between Avalanche and. Quake. As
+
+467
+00:44:19,502 --> 00:44:24,703
+well as some notable differences between Terra
+and GeoForce, surprisingly. Yeah, GeoForce
+
+468
+00:44:24,883 --> 00:44:30,125
+not only has all the abilities of Terra, but
+he also has the added benefit of being able
+
+469
+00:44:30,145 --> 00:44:35,927
+to control lava and heat and gravity as well.
+Yeah, which is pretty dumb. I mean, Quake is
+
+470
+00:44:35,947 --> 00:44:40,528
+a powerhouse. Both of these guys are, you know,
+off the charts in terms of damage level and
+
+471
+00:44:40,568 --> 00:44:43,969
+the amount of destruction that they're able
+to cause. They're both pretty comparable when
+
+472
+00:44:44,009 --> 00:44:48,972
+it comes to things, you know, like... fighting
+skill, evasiveness, range. We said GeoForce
+
+473
+00:44:48,992 --> 00:44:53,695
+had the edge though when it came to things like
+perception. Because he could sense things underground.
+
+474
+00:44:54,135 --> 00:44:58,759
+Yeah, and durability, because I guess he can
+increase his own personal mass by increasing
+
+475
+00:44:58,819 --> 00:45:03,362
+his gravity. Right, we also said he had the
+edge when it came to versatility and when it
+
+476
+00:45:03,382 --> 00:45:08,886
+came to speed because he could rocket himself
+pretty fast through the air. Well, Quake is
+
+477
+00:45:08,906 --> 00:45:15,074
+an inhuman and she can run really fast. So,
+considering all of the stats, Joseph. Who do
+
+478
+00:45:15,094 --> 00:45:21,517
+you think came out on top? Quake. You are lying
+to yourself. No, do not lie to yourself. I
+
+479
+00:45:21,557 --> 00:45:26,520
+have my reasons. Oh yeah, what are they? Their
+personal reasons. Okay, well what did the Instagram
+
+480
+00:45:26,540 --> 00:45:31,843
+poll say? I don't fucking know. What are you
+doing? 58% of the people on Instagram who took
+
+481
+00:45:31,903 --> 00:45:36,725
+the poll said that Geoforce would take this,
+which is surprising to me because I feel like
+
+482
+00:45:36,765 --> 00:45:41,808
+Quake is fairly well known, especially among
+people who watched Agents of Shield. Everybody
+
+483
+00:45:41,828 --> 00:45:46,618
+knows, you know, Chloe Bennett, right? And Quake.
+They know she's hot, but they don't know that
+
+484
+00:45:46,678 --> 00:45:52,720
+Quake can be GeoForce because she can't. At
+least I'm pretty confident she can't. Let's
+
+485
+00:45:52,760 --> 00:46:01,562
+find out. AJ9K, the results please. Hey Yuasa.
+The winner of the matchup between GeoForce
+
+486
+00:46:02,142 --> 00:46:11,085
+and Quake is... GeoForce! Obviously! What do
+you mean obviously? I mean obviously! He won
+
+487
+00:46:11,285 --> 00:46:23,710
+82.4% of the 1000 matches. or 824 of those compared
+to Quake, who only won 176 or 17.6%. This is
+
+488
+00:46:23,770 --> 00:46:29,535
+one of the most lopsided matches we've ever
+done, and you my friend I think have just received
+
+489
+00:46:29,575 --> 00:46:35,861
+a rude awakening about not only the popularity
+of Quake, but also the power of Quake. Yeah,
+
+490
+00:46:35,881 --> 00:46:43,290
+she's super powerful. At sucking and losing.
+You know... Those kind of results just signify
+
+491
+00:46:43,330 --> 00:46:48,292
+that maybe this wasn't the best matchup. Which
+is strange because, you know, Avalanche vs.
+
+492
+00:46:48,312 --> 00:46:53,293
+Terra wasn't that bad of a matchup. I know that
+when the executive producers were helping us
+
+493
+00:46:53,333 --> 00:46:58,775
+develop this match, we had also considered other
+characters besides Quake, including Magma,
+
+494
+00:46:58,915 --> 00:47:03,557
+because she could control lava and rock as well,
+as well as Richter, who is kind of a similar
+
+495
+00:47:03,597 --> 00:47:08,099
+character to Avalanche. But we ended up going
+with Quake. because she's popular, because
+
+496
+00:47:08,119 --> 00:47:12,241
+she's a badass, and because she can use her
+seismic abilities in a variety of ways. Probably
+
+497
+00:47:12,261 --> 00:47:16,825
+should have gone with Magma. Magma would have
+been a great match, for sure. But I feel like
+
+498
+00:47:17,265 --> 00:47:21,648
+these results would be different because I think
+every time Geoforce would just get his heart
+
+499
+00:47:21,708 --> 00:47:27,832
+exploded and or nuts every time. There's no
+instance of any battle between these two where
+
+500
+00:47:27,932 --> 00:47:31,495
+one of those things doesn't happen. Yeah, how's
+that gonna happen when she's too busy being
+
+501
+00:47:31,575 --> 00:47:37,636
+burned alive in lava? She'll get over it, it's
+fine. Sure. Sure she will. Clearly she won't.
+
+502
+00:47:38,096 --> 00:47:44,643
+Clearly Geoforce wins. Cause Geoforce is awesome.
+Have fun taking Kimon again in our team duel
+
+503
+00:47:44,723 --> 00:47:50,229
+between the Outsiders and X-Force. Oh I can't
+wait to. I can't wait to. Can't wait to lose?
+
+504
+00:47:50,449 --> 00:47:57,446
+I bet. But that does it for this duel. AG9K
+help close this out. Thanks for listening to
+
+505
+00:47:57,506 --> 00:48:04,408
+Dynamic duel. Visit the show's website at dynamicduel.com
+and follow us on Instagram at dynamicduelpodcast.
+
+506
+00:48:04,868 --> 00:48:10,189
+You can support the show on Patreon at patreon.com
+slash dynamicduel and joining a tier that works
+
+507
+00:48:10,209 --> 00:48:15,591
+for you, or by rating and reviewing Dynamic
+duel on Apple Podcasts, Spotify, Podchaser
+
+508
+00:48:15,891 --> 00:48:20,392
+or on our website. Don't forget to listen to
+the other shows in the Dynamite Podcast Network,
+
+509
+00:48:20,812 --> 00:48:27,479
+including Max Destruction, Senjow World and
+Console Combat. In our next episode, it's going
+
+510
+00:48:27,499 --> 00:48:31,502
+to be another duel episode that will be a tie-in
+to our upcoming team duel. Next week, we're
+
+511
+00:48:31,522 --> 00:48:37,247
+going to find out who would win in a fight between
+Halo, who is an outsider's character, against
+
+512
+00:48:37,387 --> 00:48:42,791
+Power Pack, who is a group of superhero kids
+who were pretty popular with Marvel back in
+
+513
+00:48:42,811 --> 00:48:47,014
+the day. I think their popularity has waned
+a little bit, but they're pretty interesting,
+
+514
+00:48:47,355 --> 00:48:51,866
+cool characters. Yeah, I don't know really anything
+about them. I- Just know that this will be
+
+515
+00:48:51,906 --> 00:48:57,628
+the first time where you have a group of characters
+that goes up against one of my characters in
+
+516
+00:48:57,648 --> 00:49:03,009
+a similar way where the metal man went up against
+Colossus in that duel episode. Right, right.
+
+517
+00:49:03,029 --> 00:49:08,091
+We'll figure out how to do the stats when the
+time comes. That's future us's problem. But
+
+518
+00:49:08,111 --> 00:49:11,772
+that does it for this episode, we want to give
+a big thanks to our executive producers Ken
+
+519
+00:49:11,812 --> 00:49:16,534
+Johnson, John Sturowski, Zachary Hepburn, Dustin
+Belcombe, Mickey Mantengian, and Brandon Estergard,
+
+520
+00:49:16,654 --> 00:49:22,718
+Nathaniel Wagner, Levi Yeaton, Austin Wasylowski,
+AJ Dunkerley, Scott Camacho, Gil Camacho, Adam
+
+521
+00:49:22,738 --> 00:49:29,122
+Spies, Andrew Schunk, Dean Molesky, Devin Davis,
+and Joseph Kirsting for helping make this podcast
+
+522
+00:49:29,162 --> 00:49:34,625
+possible. And we'll talk to you guys next week.
+Up up and away, true believers. I think I win
+
+523
+00:49:34,765 --> 00:49:37,007
+because paper beats rock and I got that paper
+baby.
+
