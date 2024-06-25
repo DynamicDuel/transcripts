@@ -1,0 +1,2754 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a DynaMic Network podcast.
+
+2
+00:00:24,838 --> 00:00:30,120
+dynamic duel podcast weekly show where we review
+superhero films and debate the superiority
+
+3
+00:00:30,160 --> 00:00:35,442
+between marvel and dc by comparing their characters
+in stat-based battle simulations i'm johnny
+
+4
+00:00:35,462 --> 00:00:41,645
+dc and i'm his twin brother marvelous joe and
+in this episode we are doing a duel between
+
+5
+00:00:41,685 --> 00:00:47,927
+the outsider character halo and marvel's power
+pack and i know what you guys may be thinking
+
+6
+00:00:47,987 --> 00:00:52,929
+like did these guys jump the shark these characters
+are not very well known even among dc and marvel
+
+7
+00:00:52,969 --> 00:00:57,789
+fans To which we gotta say, yes this episode
+is very relevant because Halo is a member of
+
+8
+00:00:57,829 --> 00:01:02,593
+the Outsiders. And we're gonna do a team duel
+with the Outsiders in a few months against
+
+9
+00:01:02,813 --> 00:01:07,297
+X-Force. So we gotta get through this power
+pack. While they haven't had the biggest presence
+
+10
+00:01:07,317 --> 00:01:12,302
+in Marvel over the years, they have had some
+amazing stories. And you guys should definitely
+
+11
+00:01:12,462 --> 00:01:16,425
+stick around to listen to those as we break
+down the characters backstories, enter their
+
+12
+00:01:16,445 --> 00:01:20,769
+stats, and run simulations to see who'd win
+in a fight. I mean you say we gotta get through
+
+13
+00:01:20,789 --> 00:01:24,940
+this! Like, these characters are interesting.
+I actually think the characters are very interesting.
+
+14
+00:01:25,060 --> 00:01:29,302
+That's what I'm saying. I feel like maybe because
+they're not popular, they may not seem interesting,
+
+15
+00:01:29,362 --> 00:01:34,125
+but actually I was incredibly fascinated by
+the stories of the Power Pack as I was going
+
+16
+00:01:34,145 --> 00:01:38,347
+through their backstory. Same. Yeah, I can't
+wait to go over Halo's backstory. But before
+
+17
+00:01:38,367 --> 00:01:41,749
+that, we're going to break down the comic book
+movie news from the past week, of which there
+
+18
+00:01:41,769 --> 00:01:47,793
+was just one major news item, and that was the
+teaser trailer number two for the Mac series,
+
+19
+00:01:47,953 --> 00:01:52,047
+The Penguin. As always, we list our segment
+times in our episode description, so feel free
+
+20
+00:01:52,067 --> 00:01:56,614
+to check out the show notes if you want to skip
+ahead to a particular topic. Guys, our artificially
+
+21
+00:01:56,654 --> 00:02:03,370
+intelligent duel simulator AJ9K has a quick
+message for our listeners, so listen up. Why
+
+22
+00:02:03,430 --> 00:02:07,833
+hello there, do you want even more from this
+podcast? Then become a part of the dynamic
+
+23
+00:02:07,873 --> 00:02:12,918
+duel community on Patreon, where you can choose
+from three tiers. The dynamic two-oh tier gives
+
+24
+00:02:12,958 --> 00:02:17,862
+you access to our Discord chat server. The fantastic
+four tier gives you two bonus episodes each
+
+25
+00:02:17,922 --> 00:02:23,474
+month. And the X-Force tier makes you an executive
+producer of this show. Lastly, The Diner Mike
+
+26
+00:02:23,494 --> 00:02:28,576
+podcast network tier lets you create your own
+podcast using this Monte Carlo simulator. Johnny
+
+27
+00:02:28,596 --> 00:02:33,058
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+28
+00:02:33,098 --> 00:02:38,581
+simulation results. Pitch the twins your ideas
+via email at dynamicduelpodcast at gmail.com.
+
+29
+00:02:39,641 --> 00:02:46,405
+Check it out at patreon.com slash dynamicduel.
+Pip pip cheerio. Thanks AJ9K and thanks to
+
+30
+00:02:46,565 --> 00:02:51,055
+everyone who supports the podcast. Guys be sure
+to tune into the other shows in the DynaMic
+
+31
+00:02:51,115 --> 00:02:55,457
+Podcast Network this week including Max Destruction,
+which pits your favorite action heroes from
+
+32
+00:02:55,497 --> 00:03:00,439
+film and television against each other. This
+week, hosts Ken and Scotty are pitting Renard
+
+33
+00:03:00,499 --> 00:03:06,302
+from The World Is Not Enough, a James Bond movie,
+against Ajax from Deadpool, the first Deadpool
+
+34
+00:03:06,322 --> 00:03:11,465
+film. On the Send Your World podcast hosts Zachary
+Hepburn speculates on fights between fan favorite
+
+35
+00:03:11,585 --> 00:03:16,955
+anime and manga characters. The show is currently
+on a season hiatus, so this is the perfect
+
+36
+00:03:16,995 --> 00:03:22,956
+time for you anime and manga fans to catch up
+on Send Your World's 40 episode library. And
+
+37
+00:03:23,036 --> 00:03:26,978
+on the Console Combat Podcast, hosts John and
+Dean find out who would win in fights between
+
+38
+00:03:27,018 --> 00:03:31,379
+popular video game characters. And yesterday's
+episode, which you can go listen to after this,
+
+39
+00:03:31,499 --> 00:03:36,400
+they found out who would win in a battle between
+Albert Wesker from Resident Evil against Edward
+
+40
+00:03:36,520 --> 00:03:41,838
+Richtofen, I have no idea how to pronounce it,
+from Call of Duty. Visit dynamicpodcasts.com
+
+41
+00:03:42,338 --> 00:03:46,780
+or click the link in our show notes to listen
+to all of the shows in the DynaMic Podcast
+
+42
+00:03:46,840 --> 00:03:54,062
+Network. Both out of the way, quick to the No
+Prize! A No Prize is an award Marvel used to
+
+43
+00:03:54,082 --> 00:03:59,504
+give out to fans. Our version, the Dynamic duel
+No Prize, is a digital award we post on Instagram
+
+44
+00:03:59,524 --> 00:04:04,165
+for the person that we feel gave the best answer
+to our question of the week. Last week we asked
+
+45
+00:04:04,185 --> 00:04:08,795
+you guys... Who do you want to direct the Marvel
+Studios Blade movie and why? And that's coming
+
+46
+00:04:08,835 --> 00:04:13,117
+off the news that Yann Dimanche, the director
+that was most recently associated with the
+
+47
+00:04:13,157 --> 00:04:18,979
+film, had left the project. We got some solid
+answers here. Uh, I totally fucked up. This
+
+48
+00:04:18,999 --> 00:04:23,941
+is the first time we've ever done this in this
+podcast's eight-year history. I accidentally
+
+49
+00:04:23,981 --> 00:04:29,083
+deleted one of the voicemails that was sent
+in by a listener. I am truly sorry if we don't
+
+50
+00:04:29,103 --> 00:04:33,585
+get to your voicemail within this segment. Don't
+let it deter you from sending voicemails in
+
+51
+00:04:33,605 --> 00:04:38,283
+the future. but whoever left it didn't leave
+their name on the form. So we weren't able
+
+52
+00:04:38,303 --> 00:04:42,964
+to reach out to them. I just want everyone to
+know that fuck up was Joseph's to own. I had
+
+53
+00:04:43,084 --> 00:04:51,626
+no part of it. And I am embarrassed for him
+and by him. And you can be assured that there
+
+54
+00:04:51,666 --> 00:04:55,908
+will be a punishment for this. That's fair,
+that's fair. But we have three honorable mentions
+
+55
+00:04:55,948 --> 00:05:01,589
+to get through as well as a no prize winner.
+Our first honorable mention goes to Matt Allen,
+
+56
+00:05:01,929 --> 00:05:06,094
+who said. Hey guys, this is Matt from Texas.
+The director I think that would be best for
+
+57
+00:05:06,174 --> 00:05:11,596
+the Blade movie should be Sam Raimi. He can
+do the horror genre, he can do a little bit
+
+58
+00:05:11,636 --> 00:05:18,518
+of comedy. I mean, shoot, we saw it in the Multiverse
+of Madness, the Spider-Man trilogy, the original
+
+59
+00:05:18,538 --> 00:05:24,499
+trilogy of Spider-Man anyways. And I just think
+he would be the best one for it to be able
+
+60
+00:05:24,539 --> 00:05:32,201
+to get that level of fear and humor in there.
+Now I'll be honest, I wasn't the biggest fan
+
+61
+00:05:32,622 --> 00:05:37,886
+of Doctor Strange 2, but that had nothing to
+do with the direction. I think Sam Raimi is
+
+62
+00:05:37,926 --> 00:05:44,250
+a fantastic director, as evidenced by his Spider-Man
+films and other genre work. We know that he
+
+63
+00:05:44,270 --> 00:05:49,414
+could work within the Marvel studio system,
+and that's huge. I think he would be fantastic
+
+64
+00:05:49,434 --> 00:05:53,777
+for the Blade movie. I mean, if you look at
+his evil dead work in addition, you know that
+
+65
+00:05:53,817 --> 00:05:59,021
+he also has, obviously, an affinity for horror.
+And I think, you know, Blade is more overtly...
+
+66
+00:05:59,674 --> 00:06:04,219
+Horror comic series as opposed to something
+like Doctor Strange, which can have some horror
+
+67
+00:06:04,279 --> 00:06:09,545
+elements in it But it's mostly about magic and
+mysticism, right? Yeah, but like even with
+
+68
+00:06:09,585 --> 00:06:14,751
+Doctor Strange to like I would say that's the
+most Horr-esque film that the MCU has put out
+
+69
+00:06:14,811 --> 00:06:18,996
+to date other than werewolf by night, which
+is not a film But you know, it was a special
+
+70
+00:06:19,036 --> 00:06:23,959
+presentation on Disney Plus I guess the reason
+why Sam Raimi didn't get the no prize win here
+
+71
+00:06:23,979 --> 00:06:29,422
+is because of how Matt Allen described the comedy
+leanings of the director. And yes, Sam Raimi
+
+72
+00:06:29,462 --> 00:06:33,844
+has injected some overt comedy into his films
+like look at Evil Dead 2 and stuff like that.
+
+73
+00:06:34,184 --> 00:06:39,206
+I'm not necessarily sure that Blade needs that.
+I think Blade should be a mostly grounded affair
+
+74
+00:06:39,246 --> 00:06:43,428
+just the way I would like to see it. I think
+it should take itself very seriously and be
+
+75
+00:06:43,468 --> 00:06:48,962
+not too whimsical, you know? Or tongue in cheek.
+Although to be fair... That is Marvel's brand.
+
+76
+00:06:49,042 --> 00:06:53,423
+When they tried to deviate from that, we got
+the Eternals. That's true, but I didn't mind
+
+77
+00:06:53,443 --> 00:06:57,304
+the Eternals. I don't mind Marvel deviating
+from their brand in order to keep things from
+
+78
+00:06:57,524 --> 00:07:01,546
+feeling too stale. I like the idea of Marvel
+mixing things up, kind of like how they did
+
+79
+00:07:01,566 --> 00:07:06,647
+with Werewolf by Night. OK, got you. But great
+answer, Matt Allen. Fantastic. Our next honorable
+
+80
+00:07:06,707 --> 00:07:12,629
+mention goes to John Storosky. Who said? What's
+going on? It's John Storosky. My first choice
+
+81
+00:07:12,709 --> 00:07:17,855
+would be Quentin Tarantino to direct. new Blade
+movie, however, because that is obviously never
+
+82
+00:07:17,895 --> 00:07:24,079
+going to happen, I'm going to go with Peter
+Jackson. He has the directing chops to make
+
+83
+00:07:24,099 --> 00:07:29,322
+a cinematic masterpiece, and on top of that,
+he's got the swordsplay with the Lord of the
+
+84
+00:07:29,362 --> 00:07:34,405
+Rings. He's got all the action. I think he would
+be a perfect director for the Blade film, so
+
+85
+00:07:34,445 --> 00:07:41,128
+let's get Peter Jackson in there. Yeah, Peter
+Jackson, you know, he is one of the greatest
+
+86
+00:07:41,148 --> 00:07:45,291
+directors of all time, having directed one of
+the greatest franchises, the Lord of the Rings
+
+87
+00:07:45,331 --> 00:07:50,254
+movies that were for the most part expected
+to be unfilmable just because of the dense
+
+88
+00:07:50,294 --> 00:07:54,557
+nature of those stories. But he did it. You
+know, as far as I'm concerned, Peter Jackson
+
+89
+00:07:54,577 --> 00:07:59,341
+can do anything. My big question with him though
+is would he want to direct a Blade movie? Well,
+
+90
+00:07:59,421 --> 00:08:04,484
+maybe. I mean, he does have a background in
+the horror genre and he's never done vampires
+
+91
+00:08:04,524 --> 00:08:08,740
+before. I have to imagine. There might be a
+little bit of interest there, at least I would
+
+92
+00:08:08,780 --> 00:08:13,905
+hope there would be, because Peter Jackson is
+a master of world building. And one of my biggest
+
+93
+00:08:14,045 --> 00:08:20,771
+fears about this Blade movie is introducing
+vampires into the MCU I think can get a little
+
+94
+00:08:20,912 --> 00:08:25,336
+sticky. But if you have a director as talented
+as Peter Jackson behind the wheel on that,
+
+95
+00:08:25,656 --> 00:08:30,120
+I think there's no way you could go wrong. Would
+he ever do it? I doubt it, but that would be
+
+96
+00:08:30,160 --> 00:08:34,992
+amazing. Yeah. Sometimes I wonder why Peter
+Jackson hasn't gotten more work ever since
+
+97
+00:08:35,012 --> 00:08:38,615
+the Lord of the Rings movies and the Hobbit
+movies that he's directed. And sometimes I
+
+98
+00:08:38,655 --> 00:08:43,599
+wonder if it's because he did such a good job
+at making those movies that most studios just
+
+99
+00:08:43,619 --> 00:08:47,463
+can't afford to hire him. They're like, oh yeah,
+we'd love to have Peter Jackson on this project.
+
+100
+00:08:47,743 --> 00:08:51,446
+And he'd be like, fuck you, give me $10 billion.
+And they'd be like, no way. And he'd be like,
+
+101
+00:08:51,746 --> 00:08:55,970
+I directed Lord of the Rings. Come on. You know,
+you're like, bitch, I didn't need to do your
+
+102
+00:08:56,010 --> 00:09:02,602
+movie anyway. Did you ever see Dead Alive by
+Peter Jackson? No, I saw the Frighteners though.
+
+103
+00:09:02,702 --> 00:09:06,083
+I love the Frighteners. Yeah, that was a good
+one. That was a good one Great answer john
+
+104
+00:09:06,103 --> 00:09:11,824
+starosky our next honorable mention goes to
+travis herndon who said what's up dynamic dudes
+
+105
+00:09:11,864 --> 00:09:20,647
+travis here Shout out to my twin. So my picks
+would have to be I think those two would be
+
+106
+00:09:20,707 --> 00:09:26,889
+pretty good to direct blade I mean they doing
+a new bad boys movie and judging from the trailer
+
+107
+00:09:26,929 --> 00:09:32,155
+and everything It looks fucking insane and it
+easily can fit that sort of blade action scene,
+
+108
+00:09:32,175 --> 00:09:36,919
+especially they're trying to go like a Wesley
+Snipes style action. So yeah, those are my
+
+109
+00:09:36,959 --> 00:09:43,144
+pick for Blade. I'll be honest, I have not seen
+any of the movies that Bilal Fallah and Adil
+
+110
+00:09:43,164 --> 00:09:48,528
+Al-Arbi have directed, but that doesn't stop
+them from being involved in interesting projects,
+
+111
+00:09:48,608 --> 00:09:52,952
+including the recent backroll movie that was
+unfortunately canned. They directed some of
+
+112
+00:09:52,972 --> 00:09:57,095
+the episodes of Ms. Marvel, which was a fantastic
+television show, and they're even rumored to
+
+113
+00:09:57,136 --> 00:10:01,894
+be in the running for the upcoming Spider-Man
+movie. Yeah, honestly, out of all of the choices
+
+114
+00:10:01,974 --> 00:10:06,155
+we have here, including the no prize winner
+that we'll get to, I think this is the most
+
+115
+00:10:06,395 --> 00:10:11,617
+plausible answer. Not only do I think that they
+would be psyched to do a blade film, they would
+
+116
+00:10:11,677 --> 00:10:16,738
+also be able to match the tone that I think
+a lot of us are looking for in that movie.
+
+117
+00:10:16,778 --> 00:10:20,199
+For sure. Yeah. All these honorable mentions
+are actually great answers. We want to give
+
+118
+00:10:20,219 --> 00:10:25,600
+a big shout out to Cyrus Moore and to whoever's
+answer I deleted. I'm still sorry about that.
+
+119
+00:10:25,781 --> 00:10:32,454
+But the winner of this week's no prize is Brandon
+Estegard. Who said? I think that Taika Waititi
+
+120
+00:10:33,214 --> 00:10:38,056
+should be the only director who isn't allowed
+to make this movie. Instead they should get
+
+121
+00:10:38,096 --> 00:10:42,717
+Fede Alvarez because he has a great background
+in horror, including the Evil Dead 2013 movie
+
+122
+00:10:43,137 --> 00:10:47,238
+Alien Romulus, and he's even directed a couple
+episodes of From Dust Till Dawn, which was
+
+123
+00:10:47,258 --> 00:10:52,040
+a vampire series. And I just personally think
+he's the best choice for anything horror at
+
+124
+00:10:52,060 --> 00:10:57,541
+the moment. Yeah, Fede Alvarez has really made
+a name for himself ever since his Evil Dead
+
+125
+00:10:57,581 --> 00:11:02,155
+remake back in 2018. 13 I want to say, but he
+also directed Don't Breathe, which I thought
+
+126
+00:11:02,175 --> 00:11:07,777
+was a fantastic movie, and Alien Romulus coming
+out soon looks really, really good. So yeah,
+
+127
+00:11:08,018 --> 00:11:11,999
+I think he's probably one of the best names
+in the horror genre right now. He's just doing
+
+128
+00:11:12,179 --> 00:11:16,581
+really interesting things behind the camera
+and I think he's kind of an auteur and I would
+
+129
+00:11:16,601 --> 00:11:20,543
+love to have him behind the Blade movie. I also
+think it's attainable. I don't know if it's
+
+130
+00:11:20,563 --> 00:11:26,766
+attainable. I think he might be a little too
+over the top for Marvel's brand. Not saying
+
+131
+00:11:26,806 --> 00:11:33,169
+that he couldn't adjust his tastes to fit the
+Marvel brand. I just think that's less likely
+
+132
+00:11:33,289 --> 00:11:37,692
+than, you know, some of the other directors
+that we've talked about. That said, I love
+
+133
+00:11:37,732 --> 00:11:43,335
+Fede Alvarez for this choice, because the Blade
+movie I personally want to see would be the
+
+134
+00:11:43,355 --> 00:11:48,758
+kind of Blade movie that Fede Alvarez would
+direct. Absolutely. That would just make my
+
+135
+00:11:48,778 --> 00:11:53,380
+whole year if I heard the news that he got the
+job. If they announced that he was the director,
+
+136
+00:11:53,540 --> 00:11:57,010
+like that would make me do a double take. I
+would feel threatened. that because I'd be
+
+137
+00:11:57,030 --> 00:12:02,537
+like holy shit that's like too amazing. Congrats
+to Brandon Estergaard for winning this week's
+
+138
+00:12:02,577 --> 00:12:06,842
+no prize if you the listener want a shot at
+winning your own no prize. Stay tuned to later
+
+139
+00:12:06,882 --> 00:12:11,367
+on in this episode when we'll be asking another
+question of the week. And now that that's done,
+
+140
+00:12:12,088 --> 00:12:12,849
+on to the news!
+
+141
+00:12:18,190 --> 00:12:23,493
+Okay, so this past week we got our second official
+teaser for the Penguin series. I don't know
+
+142
+00:12:23,513 --> 00:12:27,115
+why they're calling it a teaser. It's over two
+minutes long. It's a trailer. It's our first
+
+143
+00:12:27,255 --> 00:12:34,579
+big trailer for the series and it is so damn
+good. It perfectly matches the vibe of the
+
+144
+00:12:34,599 --> 00:12:41,423
+Batman film, which again still reminds me of
+that David Fincher-esque noir kind of vibe.
+
+145
+00:12:41,543 --> 00:12:46,982
+But also, and I thought of this as I was watching
+this trailer specifically, of Batman Year One.
+
+146
+00:12:47,162 --> 00:12:52,324
+It's the world of mobsters and corruption that
+I've always wanted to see Batman in and it
+
+147
+00:12:52,344 --> 00:12:57,825
+looks like the penguin is going to nail that
+tone to a T. The trailer was so good I completely
+
+148
+00:12:57,865 --> 00:13:03,047
+forgot about my fat mobster joke from the previous
+teaser. Oh gosh. So I'm not even going to bring
+
+149
+00:13:03,087 --> 00:13:07,688
+it up. The fact that I called him fat mobstered
+before. Do you still think that the suit looks
+
+150
+00:13:07,748 --> 00:13:11,989
+really fake? Not in any of the shots in this
+trailer, no. I think they did a good job of
+
+151
+00:13:12,269 --> 00:13:15,899
+hiding the fat suit here. Good, they probably
+did that just for you, so they didn't have
+
+152
+00:13:15,940 --> 00:13:21,565
+to hear your shit. No, but I'm glad to hear
+that you liked it. Right off the bat, I got
+
+153
+00:13:21,605 --> 00:13:26,790
+super excited because it starts off with footage
+from the end of the Batman when Gotham City
+
+154
+00:13:26,890 --> 00:13:33,576
+gets flooded. It looks like this show actually
+takes place one week after the Batman film
+
+155
+00:13:33,737 --> 00:13:40,006
+ends. And in a way it's kind of setting up like
+this almost no man's land kind of. esque story
+
+156
+00:13:40,366 --> 00:13:45,189
+in that Gotham city is in shambles and there's
+a power vacuum and the penguin is going to
+
+157
+00:13:45,209 --> 00:13:50,872
+try and take advantage of that while the city
+is in chaos. Which is a phenomenal premise,
+
+158
+00:13:50,952 --> 00:13:57,395
+I love that. Early on we get to see the penguin
+speaking with Salvatore Moroni in jail explaining
+
+159
+00:13:57,435 --> 00:14:01,298
+how he basically wants to take over Gotham's
+criminal underworld but it looks like he's
+
+160
+00:14:01,318 --> 00:14:07,001
+going to be facing competition from Carmine
+Falcone's children, specifically Alberto and
+
+161
+00:14:07,241 --> 00:14:13,184
+Sophia, which If you know anything about like
+the Long Halloween and Jeff Loeb's takes on
+
+162
+00:14:13,224 --> 00:14:17,767
+those characters specifically, I think we're
+in for a real treat with this show and it just
+
+163
+00:14:17,787 --> 00:14:22,890
+gets me so pumped to see it. Yeah, it looks
+like something out of, you know, The Sopranos
+
+164
+00:14:22,930 --> 00:14:27,092
+or something directed by Francis Ford Coppola.
+It looks really fucking good. I thought it
+
+165
+00:14:27,112 --> 00:14:33,216
+was weird to see the guy who played Alex Wilder
+in the Runaways television series as the Penguin's
+
+166
+00:14:33,236 --> 00:14:36,718
+like right-hand man. I don't know what character
+he's playing in the show. Yeah, I guess the
+
+167
+00:14:36,738 --> 00:14:41,280
+character's name is Victor Aguilar. I think
+he's his driver. But I was actually excited
+
+168
+00:14:41,300 --> 00:14:46,143
+to see how many explosions and machine guns
+there were in the show as well. It kind of
+
+169
+00:14:46,163 --> 00:14:51,626
+gives that elevated, fantastical, kind of Gotham
+City atmosphere that could go a little bit
+
+170
+00:14:51,866 --> 00:14:57,069
+more extra than something like the Sopranos.
+I mean, the world of Sopranos, they don't have
+
+171
+00:14:57,129 --> 00:15:01,812
+overt supervillains like they do here. They
+don't have some guy in an asylum whose face
+
+172
+00:15:01,832 --> 00:15:10,728
+is all scarred up like the Joker's. Or a guy
+named The Riddler going, No, no, no. Yeah,
+
+173
+00:15:10,968 --> 00:15:14,990
+I'm wondering if those characters are going
+to show up in this show because apparently
+
+174
+00:15:15,050 --> 00:15:20,492
+Sophia Falcone was in Arkham Asylum for a time.
+So I don't know. Maybe we'll actually get to
+
+175
+00:15:20,552 --> 00:15:25,054
+see the asylum or a little bit more of it. Speaking
+of that, is it weird to have a Batman show
+
+176
+00:15:25,074 --> 00:15:30,037
+without the Batman in it? Like you'd have to
+think that all the chaos that the penguin is
+
+177
+00:15:30,057 --> 00:15:34,540
+going to be causing among the crime families.
+that at some point you'd have the Dark Knight
+
+178
+00:15:34,600 --> 00:15:39,885
+show up to shut things down. So this is just
+a rumor, but apparently Robert Pattinson does
+
+179
+00:15:39,925 --> 00:15:44,789
+make a cameo in the series. Oh, well, yeah,
+it's pretty cool. Well, now I'm going to be
+
+180
+00:15:44,829 --> 00:15:51,075
+expecting that and I will be severely let down
+if that does not happen, dude. Same. So this
+
+181
+00:15:51,115 --> 00:15:52,657
+brings us to our question of the week.
+
+182
+00:15:57,090 --> 00:16:03,633
+Besides Batman, what character do you most hope
+to see in the Penguin Max series, and why?
+
+183
+00:16:04,173 --> 00:16:08,396
+Record your answer at dynamicduel.com by clicking
+on the red microphone button in the bottom
+
+184
+00:16:08,416 --> 00:16:12,978
+right hand corner of the screen, which will
+prompt you to leave us a voicemail. Your message
+
+185
+00:16:12,998 --> 00:16:16,940
+could be up to 30 seconds long, and don't forget
+to leave your name in case we include you on
+
+186
+00:16:16,960 --> 00:16:22,063
+the podcast. We'll pick our favorite answer,
+and award that person a Dynamic Duel No Prize
+
+187
+00:16:22,083 --> 00:16:26,845
+that we'll post to Instagram. Be sure to answer
+before June 29th.
+
+188
+00:16:34,658 --> 00:16:38,463
+That does it for all the news for this episode.
+Now let's move on to the main event, where
+
+189
+00:16:38,503 --> 00:16:44,812
+we find out who will win in a match up between
+the Outsiders character of Halo and Marvel's
+
+190
+00:16:44,992 --> 00:16:45,653
+Power Pack.
+
+191
+00:17:01,742 --> 00:17:06,545
+Alright, Halo vs Power Pack. Of course, as we
+mentioned earlier, this episode is in lead
+
+192
+00:17:06,605 --> 00:17:13,471
+up to our next team duel, which will be the
+Outsiders vs X-Force, and Halo is a founding
+
+193
+00:17:13,531 --> 00:17:19,095
+member of the Outsiders team. So we knew we
+needed to get her into a duel episode sooner
+
+194
+00:17:19,136 --> 00:17:24,820
+rather than later. Now, years ago, I think,
+maybe it was just one year ago, one of our
+
+195
+00:17:24,920 --> 00:17:30,605
+executive producers, Miggy Meth and Gian, suggested
+Halo vs Power Pack, and this was recently brought
+
+196
+00:17:30,725 --> 00:17:36,280
+up again. by Devin Davis who pitched the same
+idea and that's what we ended up going with.
+
+197
+00:17:36,320 --> 00:17:41,403
+Primarily because all of these characters are
+insanely versatile. Yeah, that was the big
+
+198
+00:17:41,443 --> 00:17:45,586
+thing. There were several options available
+for us to pit against Halo, including Dazzler
+
+199
+00:17:45,646 --> 00:17:50,489
+or Jubilee or something like that, but the versatility
+of Halo is the thing that gets me. She has
+
+200
+00:17:50,529 --> 00:17:54,531
+like a lot of different powers within her power
+set. And that's basically her whole thing.
+
+201
+00:17:54,551 --> 00:17:57,473
+You know, she changes the color of the light
+that she produces and all of a sudden she has
+
+202
+00:17:57,493 --> 00:18:00,787
+an entirely different... power set. And so I
+knew that I needed someone that was a little
+
+203
+00:18:00,807 --> 00:18:05,331
+bit more versatile than someone like Jubilee
+who just shoots fireworks or someone like Dazzler
+
+204
+00:18:05,371 --> 00:18:09,755
+who can convert sound to light, which is powerful,
+but not in the way that I needed to be. I need
+
+205
+00:18:09,775 --> 00:18:15,400
+to be adaptable. I need to be versatile. And
+I think the Power Pack kids are just that.
+
+206
+00:18:15,480 --> 00:18:19,163
+You know, they got a cool set of powers amongst
+themselves. There have been plenty of times
+
+207
+00:18:19,323 --> 00:18:22,866
+within their stories that they've actually swapped
+powers and stuff like that. But there was also
+
+208
+00:18:22,886 --> 00:18:28,810
+a time when Alex, the oldest of the Power Pack
+kids acquired all their powers. And so we knew
+
+209
+00:18:28,830 --> 00:18:34,992
+that was our in for how to approach this match.
+It's essentially going to be Halo versus power
+
+210
+00:18:35,032 --> 00:18:39,473
+house, which is what Alex power called himself
+when he had all of his family's powers. Oh,
+
+211
+00:18:39,493 --> 00:18:44,094
+interesting. I didn't know that. Another reason
+I like this matchup is because aesthetically,
+
+212
+00:18:44,395 --> 00:18:48,716
+they share a lot of similarities. Like they
+wear these black costumes with like strands
+
+213
+00:18:48,736 --> 00:18:54,117
+of color. I thought it just fit. The power packs
+seem cool to me, even though they're like snot
+
+214
+00:18:54,137 --> 00:18:59,469
+nose kids. But from what I know of their powers,
+they're kind of like the Fantastic Four upgraded,
+
+215
+00:18:59,590 --> 00:19:04,754
+in my opinion. Really? Interesting. Okay. I
+don't disagree. I think their power set is
+
+216
+00:19:04,774 --> 00:19:08,177
+a little bit cooler, but you know, we'll get
+into that in the character breakdown. Before
+
+217
+00:19:08,217 --> 00:19:12,782
+that, to explain the methodology behind our
+duels, let's go to our sentient duel simulator,
+
+218
+00:19:12,902 --> 00:19:18,767
+Alfred Jarvis 9000. AJ9K, tell our listeners
+how you go about determining a winner in our
+
+219
+00:19:18,807 --> 00:19:24,058
+duel matchups. Yes, of course, sir. The way
+I determine a winner between the contestants
+
+220
+00:19:24,098 --> 00:19:30,140
+is by running 1000 Monte Carlo simulations using
+the characters statistics. A Monte Carlo simulation
+
+221
+00:19:30,180 --> 00:19:35,901
+is a probabilistic model used to determine outcomes
+through random sampling. In this case, I randomise
+
+222
+00:19:35,921 --> 00:19:40,363
+the statistics along a normal distribution as
+a way to simulate the many variables that can
+
+223
+00:19:40,403 --> 00:19:45,264
+occur during battle. The stat parameters are
+based on the official Marvel power grid from
+
+224
+00:19:45,304 --> 00:19:47,925
+which the DC characters statistics are extrapolated.
+
+225
+00:19:51,382 --> 00:19:56,504
+damage potential, versatility and perception
+in order to create a more detailed and accurate
+
+226
+00:19:56,545 --> 00:20:01,928
+simulation. The results of the 1000 simulations
+provide a percentage of wins for each character.
+
+227
+00:20:02,368 --> 00:20:06,302
+The contestant with the higher percentage is
+declared the victor. as they have a higher
+
+228
+00:20:06,342 --> 00:20:11,566
+probability to win any given battle. In an equitable
+pairing, neither character should win 100%
+
+229
+00:20:12,187 --> 00:20:16,350
+of the matches. The comic book stories have
+shown that there's even a way for Batman to
+
+230
+00:20:16,390 --> 00:20:20,893
+defeat Superman, so the confidence rate of my
+method falls in line with the precedents that
+
+231
+00:20:20,913 --> 00:20:25,837
+have been established in the source material.
+My mathematical simulations are without subjectivity
+
+232
+00:20:25,897 --> 00:20:31,241
+or bias. Feats are not the sole consideration,
+nor are fan votes tabulated for determination
+
+233
+00:20:31,281 --> 00:20:36,263
+of the winner. Thanks, AJ9K! Before we run the
+simulations though, we'd like to break down
+
+234
+00:20:36,343 --> 00:20:40,685
+each character's histories and abilities before
+improvising a scenario on how we imagine one
+
+235
+00:20:40,725 --> 00:20:45,547
+of the 1000 simulations would play out beat
+for beat. And I believe it is my turn to go
+
+236
+00:20:45,587 --> 00:20:49,549
+first with the Marvel characters backstory,
+so let me go ahead and tell you all about Power
+
+237
+00:20:49,589 --> 00:20:56,852
+Pack. A long time ago, in a galaxy far, far
+away, existed a planet known as Chimelia, where
+
+238
+00:20:56,872 --> 00:21:02,923
+an advanced race of beings, Chimelians, developed
+a means of energy production via a process
+
+239
+00:21:02,943 --> 00:21:08,066
+that converted matter into antimatter. Though
+their technological pursuits were well-meaning,
+
+240
+00:21:08,306 --> 00:21:13,729
+their antimatter converter resulted in a cataclysmic
+chain of energy that completely destroyed their
+
+241
+00:21:13,769 --> 00:21:18,712
+home planet. Fortunately, some of the chameleons
+were able to survive the disaster on a large
+
+242
+00:21:18,812 --> 00:21:24,375
+space station that subsequently became their
+new home. One of these chameleons, named Alefire
+
+243
+00:21:24,435 --> 00:21:30,154
+Whitemane, had tapped into Earth's transmissions
+in order to study humanity. and learned that
+
+244
+00:21:30,474 --> 00:21:36,377
+one of Earth's scientists named Dr. James Power
+had developed similar antimatter converter
+
+245
+00:21:36,417 --> 00:21:42,141
+technology in his pursuit of developing a source
+of clean energy. Knowing that the device would
+
+246
+00:21:42,181 --> 00:21:47,543
+destroy Earth if used, White Mane decided he
+had to intervene. He sent a transmission to
+
+247
+00:21:47,563 --> 00:21:52,046
+the Chimelians that he was leaving for Earth
+in his starship. However, that transmission
+
+248
+00:21:52,066 --> 00:21:58,169
+was intercepted by a war-mongering race of aliens
+called the Snarks, who also decided to head
+
+249
+00:21:58,189 --> 00:22:04,714
+to Earth. and steal the antimatter converter
+for themselves. Meanwhile, on Earth lived Alex,
+
+250
+00:22:04,914 --> 00:22:10,719
+Julie, Jack, and Katie, the four children of
+Dr. James and Margaret Power. The night before
+
+251
+00:22:10,739 --> 00:22:15,862
+the converter was to be tested, the youngest
+child, Katie, looked into the night sky and
+
+252
+00:22:15,902 --> 00:22:21,146
+witnessed what appeared to be a meteor shower,
+but was in reality an aerial battle between
+
+253
+00:22:21,226 --> 00:22:26,418
+White Mane and the Snarks who managed to shoot
+White Mane's spaceship down. When Katie told
+
+254
+00:22:26,458 --> 00:22:30,882
+her siblings of what she had seen in the sky,
+the group went outside to find the crashed
+
+255
+00:22:30,902 --> 00:22:36,166
+Chameleon starship. Shocked, they went to alert
+their parents, but found them being abducted
+
+256
+00:22:36,307 --> 00:22:40,930
+by the Snarks. The Snarks would have killed
+the children, but they were saved by White
+
+257
+00:22:40,950 --> 00:22:46,976
+Mane, who was badly wounded, and the Snarks
+escaped with the power of parents. Dying, the
+
+258
+00:22:47,076 --> 00:22:51,399
+alien explained to the kids the situation, that
+their father's device had the potential to
+
+259
+00:22:51,439 --> 00:22:56,774
+destroy the planet, and with his final breath,
+he passed on his abilities to control gravity,
+
+260
+00:22:57,234 --> 00:23:03,736
+acceleration, mass, and energy to Alex, Julie,
+Jack, and Katie respectively. Deciding to rescue
+
+261
+00:23:03,756 --> 00:23:09,718
+their parents, the four chose the superhero
+names Zero-G, Lightspeed, Massmaster, and Energizer
+
+262
+00:23:10,118 --> 00:23:15,159
+and called themselves the Power Pack. They destroyed
+their father's antimatter converter, then used
+
+263
+00:23:15,219 --> 00:23:19,600
+White Mean's Starship to rescue their parents
+from the Snarks, whose interrogation methods
+
+264
+00:23:19,620 --> 00:23:25,134
+of Dr. James Power had accidentally destroyed
+his memory of his device. The family moved
+
+265
+00:23:25,194 --> 00:23:29,996
+to New York, where the Power Pack kids ran into
+other heroes in their adventures against villains
+
+266
+00:23:30,016 --> 00:23:34,598
+such as their father's former co-worker, who
+donned a battle suit to become the Boogie Man,
+
+267
+00:23:35,219 --> 00:23:40,861
+and Jackal, a high-ranking official in the Snark
+World Empire. They met Spider-Man, Cloak and
+
+268
+00:23:40,881 --> 00:23:45,724
+Dagger, and the Fantastic Four, the latter of
+whom grew close with the Power Pack due to
+
+269
+00:23:45,764 --> 00:23:50,738
+Mr. Fantastic and  Woman's son Franklin
+being around the same age. In fact, at one
+
+270
+00:23:50,778 --> 00:23:56,601
+point Franklin joined the Power Pack as a fifth
+member named Tattletail. Later, the Power Kids
+
+271
+00:23:56,621 --> 00:24:00,944
+were abducted and taken to Snark World where
+their powers were taken from them. However,
+
+272
+00:24:01,004 --> 00:24:05,866
+Franklin rescued them using White Manes old
+starship. When their powers were returned,
+
+273
+00:24:06,347 --> 00:24:11,330
+they were redistributed so that Alex now had
+energy projection, Julie had mass control,
+
+274
+00:24:11,490 --> 00:24:16,172
+Jack had gravity manipulation, and Katie had
+flight and speed. You can learn more about
+
+275
+00:24:16,252 --> 00:24:21,063
+Franklin Richards and the Fantastic Four in
+their duel against the Justice Society. The
+
+276
+00:24:21,103 --> 00:24:25,825
+Power Pack frequently partnered with the X-Men,
+fighting against Sabertooth and the Marauders,
+
+277
+00:24:26,225 --> 00:24:31,527
+the Four Horsemen of the Apocalypse, the Master
+Mold Sentinel, and the Goblin Queen, the latter
+
+278
+00:24:31,567 --> 00:24:36,949
+fight teaming up with the New Mutants. Eventually,
+Power Pack got the chance to visit the Chimeleon
+
+279
+00:24:37,029 --> 00:24:42,171
+Space Station, where they saved the ancient
+race from Queen Maraud of the Snarks, during
+
+280
+00:24:42,191 --> 00:24:47,414
+which time they reverted to their original power
+sets. In the aftermath of that fight, The Power
+
+281
+00:24:47,454 --> 00:24:52,595
+Pack helped the Chameleons finally move off
+their space station onto a new, lush planet
+
+282
+00:24:52,635 --> 00:24:58,657
+called Chameleon 3, where they decided to reject
+excessive technology as a species. Back on
+
+283
+00:24:58,717 --> 00:25:04,679
+Earth, Alex, driven by a desire to become a
+more independent and impactful superhero, stole
+
+284
+00:25:04,699 --> 00:25:09,820
+his siblings' abilities using Chameleon tech
+and renamed himself Powerhouse, joining the
+
+285
+00:25:09,860 --> 00:25:14,561
+teenage superhero team called the New Warriors.
+Though his actions angered his brother and
+
+286
+00:25:14,581 --> 00:25:20,208
+sisters, Alex rationalized his actions by claiming
+that it was dangerous for children to be superheroes.
+
+287
+00:25:20,728 --> 00:25:25,711
+But eventually, he apologized and returned his
+siblings' powers. The power pack briefly split
+
+288
+00:25:25,771 --> 00:25:31,694
+up as Alex joined Mr. Fantastic's future foundation,
+Think Tank of Scientific Minds. Julie pursued
+
+289
+00:25:31,734 --> 00:25:36,997
+an acting career in Los Angeles where she encountered
+the Runaways, and later joined the Future Foundation
+
+290
+00:25:37,057 --> 00:25:42,881
+alongside Alex. Jack opted to tend to their
+sick mother, and Katie declined an invitation
+
+291
+00:25:42,921 --> 00:25:48,772
+to join the Great They all later reunited as
+the Power Pack, however, to team up with Moon
+
+292
+00:25:48,812 --> 00:25:53,454
+Girl and Devil Dinosaur, whom you can learn
+more about in their duel against Dorothy Spinner
+
+293
+00:25:53,614 --> 00:26:00,598
+from Doom Patrol. That's their backstory. Powers-wise,
+the four members of Power Pack, Zero G, Light
+
+294
+00:26:00,638 --> 00:26:06,121
+Speed, Mask Master, and Energizer, have repeatedly
+swapped abilities and code names throughout
+
+295
+00:26:06,161 --> 00:26:11,384
+the years. For the purposes of simplifying the
+simulations and our speculation, I'm going
+
+296
+00:26:11,404 --> 00:26:16,431
+to treat the Power Pack as one person. Alex
+power during his time as Powerhouse when he
+
+297
+00:26:16,471 --> 00:26:22,514
+had all of his siblings powers. This includes
+Zero-G's Gravity Control, allowing Powerhouse
+
+298
+00:26:22,554 --> 00:26:28,117
+to negate or increase the effect of gravity
+on himself and his close proximity and therefore
+
+299
+00:26:28,177 --> 00:26:34,061
+able to lift any object no matter how heavy.
+He also has his sister Julie's Lightspeed Acceleration
+
+300
+00:26:34,101 --> 00:26:39,204
+powers, allowing him to fly at supersonic speeds
+and teleport. He also has his brother Jack's
+
+301
+00:26:39,284 --> 00:26:45,071
+Mass Master powers, which allow him to turn
+his body in super durable, and even shrink
+
+302
+00:26:45,091 --> 00:26:50,636
+his size to about 8 inches tall. Powerhouse
+also has his sister Katie's Energizer powers,
+
+303
+00:26:51,016 --> 00:26:55,920
+which allow him to disintegrate and convert
+any solid matter he touches into energy that
+
+304
+00:26:55,960 --> 00:27:01,485
+he can absorb and release as an energy blast.
+This also lets him absorb other forms of energy
+
+305
+00:27:01,585 --> 00:27:06,729
+that he can then redirect. Though Powerhouse
+is uniquely intelligent among his siblings
+
+306
+00:27:06,769 --> 00:27:10,813
+as a former member of the Future Foundation,
+all the Power Pack kids are somewhat gifted
+
+307
+00:27:10,853 --> 00:27:15,271
+intellectually, And their costumes, made of
+unstable molecules and chameleon technology,
+
+308
+00:27:15,691 --> 00:27:20,473
+have pocket dimensions within their pockets
+that let them carry a significant amount of
+
+309
+00:27:20,733 --> 00:27:25,095
+stuff. Like what kind of stuff? A whole bunch
+of stuff, man. You don't even know. Actually,
+
+310
+00:27:25,155 --> 00:27:30,877
+I think that particular feature is what influenced
+me to claim that Reed Richards probably had
+
+311
+00:27:30,917 --> 00:27:35,519
+a pocket dimension in his unstable molecules
+costume in his duel against Plastic Man. I
+
+312
+00:27:35,539 --> 00:27:39,181
+knew I had read that somewhere. Like somebody
+had a pocket dimension in their pocket. It
+
+313
+00:27:39,201 --> 00:27:45,977
+was these guys. Okay. So just to double check,
+light speed does not move at light speed. Well,
+
+314
+00:27:45,997 --> 00:27:51,962
+she could teleport, so kinda. Hmm. Okay. But
+when she flies, it's usually defined as supersonic.
+
+315
+00:27:52,342 --> 00:27:57,527
+I don't think she can actually fly at light
+speeds. Okay. Not gonna lie, that's a pretty
+
+316
+00:27:57,607 --> 00:28:04,633
+crazy power set. Luckily, though, Halo also
+has a fairly robust power set, so let me get
+
+317
+00:28:04,653 --> 00:28:10,457
+into her backstory. At the beginning of time,
+when the universe first exploded into existence,
+
+318
+00:28:10,734 --> 00:28:16,661
+from an energy known as the Source, some of
+that energy coalesced into sentient orbs of
+
+319
+00:28:16,741 --> 00:28:23,549
+light known as oracles. The oracles, as beings
+of energy that existed outside the physical
+
+320
+00:28:23,569 --> 00:28:28,671
+world, were created by lived for thousands of
+years and multiplied, all the while observing
+
+321
+00:28:28,712 --> 00:28:33,574
+the formation of the universe over billions
+of years. While many oracles were attracted
+
+322
+00:28:33,614 --> 00:28:39,477
+to stellar phenomena, observing cosmic-level
+events from a distance, one oracle, however,
+
+323
+00:28:39,517 --> 00:28:45,159
+became more interested in organic sentient beings
+and wondered what it would be like to experience
+
+324
+00:28:45,199 --> 00:28:52,002
+sensations and emotions such as theirs. Eventually,
+this oracle discovered Earth, and while investigating
+
+325
+00:28:54,504 --> 00:29:00,518
+young woman in the country of Markovia during
+a violent revolt against its monarchy. Moved
+
+326
+00:29:00,558 --> 00:29:05,603
+by the tragedy and attempting to reach out to
+the young woman, The Oracle accidentally entered
+
+327
+00:29:05,643 --> 00:29:11,007
+the physical world and became trapped within
+her body, bringing that young woman back to
+
+328
+00:29:11,067 --> 00:29:16,892
+life, though she awoke with no memory of her
+former life on Earth or as an Oracle. Seeing
+
+329
+00:29:16,952 --> 00:29:22,337
+Batman upon her resurrection and being frightened,
+she discovered that she had light-based superhuman
+
+330
+00:29:22,377 --> 00:29:27,641
+abilities. Nonetheless, she joined Batman and
+helped him and the other heroes stop Baron
+
+331
+00:29:27,681 --> 00:29:33,338
+Bedlam from overthrowing the Markovian monarchy,
+of which the hero Geoforce was a part. whom
+
+332
+00:29:33,378 --> 00:29:38,840
+you can learn more about in last week's Geoforce
+vs Quake duel episode. Batman recruited the
+
+333
+00:29:38,880 --> 00:29:44,663
+heroes involved in protecting Markovia to form
+a new Gotham City-based super team named the
+
+334
+00:29:44,763 --> 00:29:50,725
+Outsiders. Still suffering from amnesia, though,
+Halo adopted the civilian identity of Gabriel
+
+335
+00:29:50,825 --> 00:29:55,831
+Doe. and she lived in the penthouse above the
+Wayne Foundation building with the hero Kitana,
+
+336
+00:29:56,192 --> 00:30:01,374
+who became Halo's legal guardian, and whom you
+can learn more about in our Kitana vs. Elektra
+
+337
+00:30:01,414 --> 00:30:06,817
+duel episode. With help from Batman's detective
+skills, Halo eventually learned she was born
+
+338
+00:30:06,837 --> 00:30:12,559
+with the name Violet Harper, from Arlington,
+Missouri. She was a smart kid, but rebellious,
+
+339
+00:30:12,659 --> 00:30:18,022
+and as a teenager, she and her boyfriend stole
+a drug formula from the mobster Tobias Whale.
+
+340
+00:30:21,604 --> 00:30:26,706
+Whale sent an assassin known as Cyanide who
+tracked the couple to the country of Markovia
+
+341
+00:30:27,066 --> 00:30:32,829
+where she successfully killed Violet. Unfortunately,
+a visit to her parents Sam and Margaret in
+
+342
+00:30:32,869 --> 00:30:38,472
+Missouri drew the attention of Tobias Whale,
+who held them hostage in exchange for the drug
+
+343
+00:30:38,512 --> 00:30:44,295
+formula, which Halo no longer remembered. Despite
+calling on aid from the outsiders and managing
+
+344
+00:30:44,355 --> 00:30:50,526
+to defeat Tobias Whale, Halo's parents were
+killed by Cyanide in the ordeal. In an effort
+
+345
+00:30:50,566 --> 00:30:55,290
+to learn more about her powers, Halo was brought
+aboard the Justice League satellite headquarters,
+
+346
+00:30:55,610 --> 00:31:01,234
+where the article within her regained its memory.
+This event was observed by other articles,
+
+347
+00:31:01,554 --> 00:31:06,258
+who took Halo into their ethereal dimension
+with the intent to separate her article from
+
+348
+00:31:06,298 --> 00:31:12,554
+her body, a process that would also return Violet
+to her state of death. Fortunately, the Outsiders
+
+349
+00:31:12,594 --> 00:31:17,897
+traveled to the Oracle Dimension and managed
+to save Halo, and the Oracles agreed to allow
+
+350
+00:31:17,937 --> 00:31:23,840
+the merger of Violet and the Oracle to exist
+in peace. Halo left the Outsiders upon her
+
+351
+00:31:23,900 --> 00:31:29,062
+return in an effort to reconcile her identity
+and find herself, though she ended up later
+
+352
+00:31:29,162 --> 00:31:34,364
+accidentally joining the Cult of Cobra, who
+tortured her to learn Batman's secret identity.
+
+353
+00:31:34,865 --> 00:31:41,248
+Halo was rescued by the Outsiders, however,
+after which she rejoined the team. Framed for
+
+354
+00:31:41,268 --> 00:31:46,431
+the murder of the Queen of Markovia and became
+fugitives on the run, Halo's rebellious Violet
+
+355
+00:31:46,471 --> 00:31:53,216
+Harper personality began to re-emerge and eventually
+take control. Halo ended up betraying the Outsiders
+
+356
+00:31:53,256 --> 00:31:59,060
+shortly before she was killed by a cyborg assassin
+named Sanction, who also killed the woman who
+
+357
+00:31:59,140 --> 00:32:05,424
+hired him, Marissa Baron, the ex-wife of an
+Outsiders team member named Technocrat. Like
+
+358
+00:32:05,464 --> 00:32:11,628
+with Violet's body before, the article somehow
+accidentally merged with Marissa, making her
+
+359
+00:32:11,688 --> 00:32:16,752
+the new Halo. Though the Oracles returned to
+reclaim their kin, they were fought off by
+
+360
+00:32:16,792 --> 00:32:21,455
+the Outsiders, after which the team was cleared
+of any wrongdoing regarding the death of the
+
+361
+00:32:21,495 --> 00:32:28,379
+Markovian Queen. Violet Harper's body, however,
+was revived by Cobra and brainwashed into becoming
+
+362
+00:32:28,419 --> 00:32:33,963
+the villain Spectrum. The Outsiders eventually
+disbanded and Halo appeared off and on throughout
+
+363
+00:32:33,983 --> 00:32:39,847
+the years, aiding Markovia and other heroes
+during large crises. Eventually, though it
+
+364
+00:32:39,887 --> 00:32:46,332
+is unknown Now, Halo returned to the body of
+Violet Harper, who joined a reformation of
+
+365
+00:32:46,352 --> 00:32:51,035
+the outsiders following the death of Batman
+at the hands of Darkseid. When the villain
+
+366
+00:32:51,095 --> 00:32:55,979
+Necron reanimated the dead heroes and villains
+of the DC Universe, turning them into black
+
+367
+00:32:56,019 --> 00:33:02,431
+lanterns, Halo, thanks to her light-based powers,
+proved effective against the zombies, though
+
+368
+00:33:02,451 --> 00:33:09,034
+she seemingly sacrificed herself while protecting
+the outsiders, becoming pure light and dispersing.
+
+369
+00:33:09,494 --> 00:33:15,457
+After the Flash reset DC's continuity, Violet
+Harper was a drug addict imprisoned in Markovia,
+
+370
+00:33:15,557 --> 00:33:21,300
+who later betrayed the location of Katana and
+the Suicide Squad to the Cobra Cult in exchange
+
+371
+00:33:21,340 --> 00:33:28,043
+for narcotics. Cobra then experimented on Violet,
+intending to use her as a weapon, but the kidnapped
+
+372
+00:33:29,764 --> 00:33:35,487
+Violet with captured articles, betrayed Cobra,
+and sabotaged a mind control device that would
+
+373
+00:33:35,507 --> 00:33:40,871
+have allowed Cobra to control Violet's empowered
+form. When Kitana and the Suicide Squad showed
+
+374
+00:33:40,931 --> 00:33:46,775
+up shortly after Violet's procedure, the articles
+burst from her body and tried to kill everyone,
+
+375
+00:33:47,155 --> 00:33:53,399
+though they all fled in fear when Kitana's sword
+managed to kill one of them. All but one, that
+
+376
+00:33:53,479 --> 00:33:56,641
+is, which had been bonded permanently to Violet's
+body.
+
+377
+00:33:59,664 --> 00:34:06,625
+Katana invited Violet to join her. And that's
+her backstory. Powers-wise, Halo is an article-possessed
+
+378
+00:34:06,685 --> 00:34:13,047
+human capable of manipulating the Halo, or aura-like
+light that emanates from her, for a variety
+
+379
+00:34:13,087 --> 00:34:18,268
+of effects that are indicated by a specific
+color within the spectrum of light. When her
+
+380
+00:34:18,428 --> 00:34:25,246
+aura is red, Halo can produce destructive heat-based
+laser beams, and when it's orange, Those lasers
+
+381
+00:34:25,326 --> 00:34:31,209
+are concussive instead. Jiki used both red and
+orange light to create defensive shields as
+
+382
+00:34:31,269 --> 00:34:38,412
+well. Her yellow light is used to stun and blind
+enemies in bright flashes, and her green light
+
+383
+00:34:38,573 --> 00:34:44,856
+acts as a stasis beam to freeze enemies. Blue
+light allows her to create holographic distortions,
+
+384
+00:34:44,996 --> 00:34:50,670
+specifically duplicates of herself or other
+objects. and Indigo Light can be used like
+
+385
+00:34:50,690 --> 00:34:57,293
+a tractor beam, allowing her to push, pull,
+or lift objects. Violet Light grants her access
+
+386
+00:34:57,314 --> 00:35:03,056
+to all of her abilities at once, though this
+is rarely used because it also gives the unstable
+
+387
+00:35:03,116 --> 00:35:09,679
+Violet Harper personality control over the body
+they share. When glowing in any of these specific
+
+388
+00:35:09,719 --> 00:35:15,582
+colors, Halo is able to fly up to the speed
+of light, which is her standard ability while
+
+389
+00:35:15,622 --> 00:35:21,624
+glowing her standard white. mix too. It reminds
+me that I have a bone to pick with the color
+
+390
+00:35:21,725 --> 00:35:27,747
+indigo. I feel like that color between blue
+and violet was only selected as part of the
+
+391
+00:35:27,787 --> 00:35:32,688
+color spectrum to complete the ROYGBIV acronym,
+which is, you know, red, orange, yellow, green,
+
+392
+00:35:32,728 --> 00:35:38,650
+blue, indigo, violet, like NYX indigo and make
+more room for cyan because cyan is definitely
+
+393
+00:35:38,770 --> 00:35:45,052
+a unique color between green and blue. I agree
+with you 100% because honestly, it should just
+
+394
+00:35:45,092 --> 00:35:52,528
+be red, yellow, green, sand, blue, magenta.
+Purple. No, fuck purple and fuck orange. What?
+
+395
+00:35:53,069 --> 00:35:57,992
+Yeah. Jesus. You heard me. Wow. You're just
+talking about this character, right? Like the
+
+396
+00:35:58,012 --> 00:36:02,896
+colors that she would have as a producer of
+light, right? Right, exactly. Oh, she would
+
+397
+00:36:02,936 --> 00:36:08,940
+have magenta light. Right, exactly. Yeah, makes
+sense. But we digress heavily. That was some
+
+398
+00:36:09,040 --> 00:36:10,681
+inside graphic design baseball.
+
+399
+00:36:17,902 --> 00:36:23,564
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+400
+00:36:23,584 --> 00:36:29,307
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+401
+00:36:29,367 --> 00:36:35,069
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+402
+00:36:37,198 --> 00:36:43,803
+Comic Book Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+403
+00:36:44,383 --> 00:36:50,308
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+404
+00:36:50,328 --> 00:36:56,033
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+405
+00:36:56,553 --> 00:37:00,837
+Visit dynamicpodcast.com, where we settle the
+debate and settle the score.
+
+406
+00:37:05,143 --> 00:37:09,005
+But now that we've got their histories and abilities
+out of the way, let's speculate on how one
+
+407
+00:37:09,105 --> 00:37:15,610
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not this speculation,
+
+408
+00:37:15,890 --> 00:37:21,434
+but it's fun to imagine how this fight could
+play out. AJ9K, what are the rules of our speculation?
+
+409
+00:37:22,314 --> 00:37:26,317
+Well, I should say there are no rules, other
+than the characters have no prior knowledge
+
+410
+00:37:26,337 --> 00:37:30,740
+of the other going into the fight. All they
+are aware of starting out is that the other
+
+411
+00:37:30,780 --> 00:37:35,847
+character is a threat that needs to be eliminated.
+For the speculation, the contestants will begin
+
+412
+00:37:35,888 --> 00:37:40,952
+approximately 50 meters apart in a non-descript
+environment that will have no bearing on the
+
+413
+00:37:40,992 --> 00:37:46,336
+match itself, as no environmental statistics
+are considered in my simulations. The contestants
+
+414
+00:37:46,376 --> 00:37:51,541
+must earn victory on their own merit. Alright
+then, let's get into it. Halo and Powerhouse
+
+415
+00:37:51,621 --> 00:37:56,785
+meet on the battlefield. Who goes first? Well,
+since Halo moves faster, I'm gonna say she
+
+416
+00:37:56,825 --> 00:38:02,189
+goes first. And she's gonna start by turning
+yellow and flashing a bright yellow light that...
+
+417
+00:38:02,530 --> 00:38:07,271
+blinds powerhouse and while he's like oh i can't
+see that's you know when she's going to blast
+
+418
+00:38:07,311 --> 00:38:12,453
+him with an orange concussive beam just knocking
+him backwards no because powerhouse's first
+
+419
+00:38:12,573 --> 00:38:19,055
+instinct once he goes blind is going to be to
+go intangible so he's going to access his brother
+
+420
+00:38:19,135 --> 00:38:24,116
+jack's powers as mass master and he's going
+to lower his density which turns him into this
+
+421
+00:38:24,156 --> 00:38:28,530
+like gaseous form and this orange beam is just
+going to pass right through him And, you know,
+
+422
+00:38:28,550 --> 00:38:33,034
+he's slowly regaining his sight and he's going
+to float up into the air as this cloud. And
+
+423
+00:38:33,054 --> 00:38:37,958
+when he can see again, once he gets his vision
+back, Powerhouse is going to solidify out of
+
+424
+00:38:37,978 --> 00:38:43,442
+this cloud form and he's going to increase his
+mass and gravity so that he just drops onto
+
+425
+00:38:43,482 --> 00:38:47,745
+Halo like an ocean tanker. But like fist first,
+just slamming her and flattening her into the
+
+426
+00:38:47,785 --> 00:38:54,671
+ground. Wait, so is Powerhouse visible in this
+gaseous form? Yeah. Why? Okay, well, this isn't
+
+427
+00:38:54,691 --> 00:39:00,095
+a surprise to Halo because, you know, she just
+watches this whole thing unfold and as he's
+
+428
+00:39:00,135 --> 00:39:04,599
+falling down on her, she's just going to turn
+Indigo and send out a tractor beam that's going
+
+429
+00:39:04,619 --> 00:39:11,605
+to grab him and just slam him into the ground
+away from her instead. Alright, but as Halo
+
+430
+00:39:11,645 --> 00:39:17,270
+tries to slam him, Powerhouse is going to shrink.
+He's going to decrease his size and mass to
+
+431
+00:39:17,290 --> 00:39:22,970
+about 8 inches tall. So instead of like slamming
+him hard onto the ground, It's more like she
+
+432
+00:39:23,010 --> 00:39:27,612
+just gently sets him onto the ground because
+he doesn't have the mass to support the slam.
+
+433
+00:39:28,632 --> 00:39:34,575
+And that's when Powerhouse is gonna grow to
+normal height and he's gonna access his sister
+
+434
+00:39:34,655 --> 00:39:39,557
+Julie's light speed powers. So he's gonna fly
+right at Halo at supersonic speed and just
+
+435
+00:39:39,637 --> 00:39:45,579
+plow into her, breaking some ribs, knocking
+the wind out of her. Okay, you know, Halo gets
+
+436
+00:39:45,639 --> 00:39:51,798
+hit, but as she's recovering, she glows green
+and she's gonna zap Powerhouse. with the stasis
+
+437
+00:39:51,838 --> 00:39:58,340
+beam, just freezing him mid air to give her
+time to finish recovering. And as he's frozen,
+
+438
+00:39:58,700 --> 00:40:03,061
+that's when she just goes out to him and just
+kicks the shit out of him, like punching him
+
+439
+00:40:03,101 --> 00:40:09,743
+in the nose, kicking him in the spleen, and
+he's just forced to take it. And Halo might
+
+440
+00:40:09,763 --> 00:40:14,705
+get a few shots in, sure, but like only a few,
+because powerhouse, he's just gonna teleport
+
+441
+00:40:14,765 --> 00:40:20,439
+out of the stasis beam. And then he's- No, no,
+no. He's completely frozen, like he can't even
+
+442
+00:40:20,499 --> 00:40:26,442
+breathe in this thing. He takes those hits like
+a real fucking man would. It's not like he
+
+443
+00:40:26,482 --> 00:40:31,785
+needs to move in order to teleport. He can just
+teleport out of the stasis beam. Is teleportation
+
+444
+00:40:31,945 --> 00:40:40,249
+an action? No, it is. So he can't do it because
+he's literally frozen in like space time. If
+
+445
+00:40:40,290 --> 00:40:45,012
+he was like frozen in a block of ice, he could
+teleport easily. Same thing. No, she's not
+
+446
+00:40:45,112 --> 00:40:52,088
+freezing him with cold. She's freezing Kim.
+with energy, all right? Stasis field. He can't
+
+447
+00:40:52,108 --> 00:40:57,893
+do shit. Okay, so like you'd rather punch a
+little kid than say he's capable of teleporting
+
+448
+00:40:58,033 --> 00:41:06,219
+out. I see how you are. She's a teenager too.
+All right, okay, anyway. So Powerhouse teleports
+
+449
+00:41:06,279 --> 00:41:11,583
+out of the stasis field. I'm just calling it.
+I'm sorry, that's what he did. Although now
+
+450
+00:41:11,623 --> 00:41:16,666
+I'm seeing the downside to not using the full
+power pack team in the speculation. because
+
+451
+00:41:16,886 --> 00:41:21,167
+as individuels, they can heal each other. And
+so there's no one around to heal Powerhouse
+
+452
+00:41:21,187 --> 00:41:25,408
+from the wounds that he just received. But-
+What power do they use to heal each other?
+
+453
+00:41:25,848 --> 00:41:30,509
+They can like share each other's life force,
+basically. Weird. I'm gonna say Powerhouse
+
+454
+00:41:30,549 --> 00:41:35,651
+teleports right next to Halo and grabs her,
+and he's gonna completely negate the effect
+
+455
+00:41:35,691 --> 00:41:39,732
+of gravity on her, so she like weighs nothing.
+And with that, he's just gonna toss her up
+
+456
+00:41:39,772 --> 00:41:45,533
+into the air beyond the stratosphere. In the
+air, okay, yeah, that's fine. From the stratosphere.
+
+457
+00:41:45,910 --> 00:41:51,873
+Halo is just gonna rain down these red lasers
+just everywhere, burning up Powerhouse and
+
+458
+00:41:51,913 --> 00:41:57,776
+the surrounding environment beneath him. Awesome.
+Powerhouse gets hit by the lasers, sure, and
+
+459
+00:41:57,816 --> 00:42:02,839
+the whole area around him is on fire, but he's
+gonna absorb those heat beams with his sister
+
+460
+00:42:02,879 --> 00:42:07,642
+Katie's energizer powers. He absorbs the beams,
+he's gonna absorb the flames all around him,
+
+461
+00:42:08,202 --> 00:42:13,585
+so now he's just glowing with this bright yellow
+energy and he's gonna fly up into the atmosphere
+
+462
+00:42:13,805 --> 00:42:19,598
+to meet Halo. and he's just gonna fucking demolish
+her with this massive energy blast that she
+
+463
+00:42:19,638 --> 00:42:24,802
+fueled him with and it's just gonna obliterate
+her. Oh no, she's obliterated. You know what's
+
+464
+00:42:24,822 --> 00:42:31,928
+crazy though? What? That halo that he saw and
+obliterated was just an illusion generated
+
+465
+00:42:32,008 --> 00:42:39,395
+by Halo's blue aura. The real Halo is actually
+coming in fast behind Powerhouse and just slams
+
+466
+00:42:39,455 --> 00:42:45,114
+into him at near light speed with a red force
+field. disintegrating him instantly instead
+
+467
+00:42:45,534 --> 00:42:51,916
+because she could actually travel at light speed
+unlike his sister. Oh shit, more child abuse.
+
+468
+00:42:52,296 --> 00:42:58,538
+I see. Just the splattering powerhouse make
+Halo feel like more of a woman beating up on
+
+469
+00:42:58,578 --> 00:43:03,379
+kids like that. It's child on child crime. Like
+what has powerhouse been doing this whole time
+
+470
+00:43:03,419 --> 00:43:09,221
+but hitting a girl. Halo's not a girl. She's
+like a alien zombie. There's a difference.
+
+471
+00:43:09,441 --> 00:43:16,928
+Yeah, an alien zombie girl. I feel like that's
+a Rob Zombie like alien zombie girl. Na na
+
+472
+00:43:18,069 --> 00:43:24,212
+na. We can leave the match there before we run
+the simulations. So either Halo obliterates
+
+473
+00:43:24,272 --> 00:43:29,855
+Powerhouse by slamming into him at light speed
+with a force field or Powerhouse obliterates
+
+474
+00:43:29,995 --> 00:43:34,818
+Halo with a giant energy blast. Well, go ahead
+and input the character stats, run the simulations
+
+475
+00:43:34,938 --> 00:43:42,418
+and come back with a winner. AG9K, hit it. Inputting
+data, running calculations. Processing results
+
+476
+00:43:42,919 --> 00:43:47,944
+simulations complete. All right, not being too
+familiar with either of these characters I
+
+477
+00:43:47,984 --> 00:43:53,209
+have no idea how these results are gonna go
+I'm not gonna be surprised either way whether
+
+478
+00:43:53,249 --> 00:43:58,674
+power pack or halo win because I feel like you
+know They both have a grab bag of powers some
+
+479
+00:43:58,714 --> 00:44:04,319
+of them fairly random Seemingly and I think
+that just gonna make the results kind of random.
+
+480
+00:44:04,739 --> 00:44:10,264
+Yeah, the characters seem to be like either
+really strong in a stat or incredibly weak
+
+481
+00:44:10,344 --> 00:44:14,987
+considering that, you know, they're children.
+So like when it came to fighting skill, intelligence
+
+482
+00:44:15,047 --> 00:44:20,972
+or perception, they were very, very low. But
+like you look at speed and versatility, you
+
+483
+00:44:20,992 --> 00:44:26,556
+know, Halo was maxed out on those. And then
+you look at things like evasiveness and strength,
+
+484
+00:44:26,716 --> 00:44:31,119
+Power Pack was maxed out on those. So you're
+right, there's not a whole lot of in between
+
+485
+00:44:31,160 --> 00:44:35,294
+either they are really good at a stat or they
+really suck. I think what really surprised
+
+486
+00:44:35,334 --> 00:44:40,637
+me was that they actually were pretty comparable
+when it came to damage level. I thought Halo
+
+487
+00:44:40,657 --> 00:44:45,460
+was going to take it on that one, but you know,
+considering powerhouse could use Energizer's
+
+488
+00:44:45,500 --> 00:44:50,863
+powers to basically do the same kind of destructive
+beams that she could do. Yeah, they're pretty
+
+489
+00:44:50,883 --> 00:44:55,625
+much the same. Well Energizer's powers aren't
+represented as beams. They're more like energy
+
+490
+00:44:55,765 --> 00:45:00,528
+balls. But yeah, I mean, she can disintegrate
+any form of solid matter and convert it into
+
+491
+00:45:00,608 --> 00:45:04,930
+energy, which you know, has a lot of destructive
+potential on its own. even without the energy
+
+492
+00:45:04,950 --> 00:45:09,993
+blasts. Both characters were actually fairly
+weak when it came to durability. That's another
+
+493
+00:45:10,033 --> 00:45:13,395
+thing that I thought was pretty surprising.
+Although Power Pack had the slight edge there
+
+494
+00:45:13,435 --> 00:45:18,837
+because Masked Master can increase his density
+to become more durable. Considering all these
+
+495
+00:45:18,858 --> 00:45:24,701
+stats, Jonathan, who do you think is going to
+win this match? I have no idea, honestly. I'm
+
+496
+00:45:24,841 --> 00:45:31,965
+rooting for Halo though, and so are our followers
+on Instagram. 65% of them who voted in the
+
+497
+00:45:32,005 --> 00:45:36,359
+poll voted for Halo. The power pack, they're
+a bunch of cute kids. Why wouldn't you vote
+
+498
+00:45:36,379 --> 00:45:41,983
+for them? You know, it's kind of weird. Because
+they're a bunch of fucking kids. I guess they
+
+499
+00:45:42,003 --> 00:45:47,186
+got that going for and against them. I say that
+like I don't have kids. Grace, Faith, I love
+
+500
+00:45:47,206 --> 00:45:53,371
+you girls. Well, let's go ahead and find out
+who won. AG9K, the results please. Here you
+
+501
+00:45:53,491 --> 00:46:04,978
+are, sir. All right, the winner between Halo
+and Power Pack is Power Pack. Dang it! And
+
+502
+00:46:05,038 --> 00:46:10,779
+you know what? It wasn't really that close.
+Out of a thousand matches, Power Pack won 654
+
+503
+00:46:11,960 --> 00:46:20,262
+battles, whereas Halo only won 346. So Power
+Pack's win rate was 65.4%, whereas Halo's win
+
+504
+00:46:20,302 --> 00:46:27,804
+rate was only 34.6%. Really? Ah, the Power Pack
+essentially wins two-thirds of the time. Yeah,
+
+505
+00:46:27,984 --> 00:46:32,365
+pretty much. Essentially the few things that
+gave Power Pack an edge over Halo were durability.
+
+506
+00:46:32,546 --> 00:46:37,968
+but also intellect, you know, when factoring
+in Alex Powers' high intelligence. You know,
+
+507
+00:46:37,988 --> 00:46:42,811
+he was a member of the Future Foundation. Reed
+Richards himself said he was around postgraduate
+
+508
+00:46:42,851 --> 00:46:48,734
+level intelligence at the age of 19. So despite
+the fact that Power Pack also has Katie, who's
+
+509
+00:46:48,754 --> 00:46:54,177
+a young kid, who's, you know, not as brilliant,
+when you average everything out, Power Pack
+
+510
+00:46:54,217 --> 00:46:58,740
+still had a slight edge in intelligence over
+Halo. Which is fair, because I feel like a
+
+511
+00:46:58,800 --> 00:47:05,322
+teenager stealing a drug formula from a mobster
+pretty dumb. It's not that smart of a teenager.
+
+512
+00:47:05,862 --> 00:47:11,564
+Makes sense. Is it kind of embarrassing though
+to be eked out by the intelligence stat? Because
+
+513
+00:47:11,604 --> 00:47:16,425
+I feel like that would be pretty embarrassing,
+especially from a group of kids. Well, I mean,
+
+514
+00:47:16,485 --> 00:47:22,707
+honestly, I kind of had to average out her intelligence
+stat as well, considering that the article
+
+515
+00:47:22,727 --> 00:47:27,968
+within her is actually thousands of years old
+and has amassed quite a bit of knowledge that
+
+516
+00:47:28,069 --> 00:47:33,586
+said she doesn't really have access to it and
+she never really uses it. and the merged halo
+
+517
+00:47:33,826 --> 00:47:39,288
+combined persona in a majority of her depictions
+has amnesia. So she doesn't really know anything,
+
+518
+00:47:39,369 --> 00:47:44,150
+unfortunately. Does she have amnesia currently
+in the comics? From the last thing I read from
+
+519
+00:47:44,210 --> 00:47:49,533
+her, yeah, she's still kind of learning who
+she is while living with Katana. She's very
+
+520
+00:47:49,553 --> 00:47:54,955
+much dependent on her. Okay, makes sense, makes
+sense then. So this is a great win for Marvel.
+
+521
+00:47:55,375 --> 00:47:59,777
+I encourage a lot of listeners out there to
+go check out Power Pack in Marvel Comics. Actually,
+
+522
+00:47:59,797 --> 00:48:06,168
+a lot of their best stories. do not take place
+in the 616 main Marvel timeline, but rather
+
+523
+00:48:06,268 --> 00:48:12,071
+the more kid-targeted comics called Marvel Age.
+That's its own continuity. But they're quite
+
+524
+00:48:12,111 --> 00:48:16,354
+accessible for kids, the Power Pack. As a matter
+of fact, my daughter, who's one year old now,
+
+525
+00:48:16,534 --> 00:48:19,836
+when the time comes for her to start reading
+comics and stuff and getting introduced to
+
+526
+00:48:19,876 --> 00:48:24,458
+Marvel, I think I'm going to start off with
+Power Pack. And then from there, around age
+
+527
+00:48:24,819 --> 00:48:29,961
+seven or whatnot, I'll introduce her to Spidey
+and the Fantastic Four. And then from there,
+
+528
+00:48:30,454 --> 00:48:35,417
+like around 11 or 12, probably get into more
+of like the X-Men and the deeper themes and
+
+529
+00:48:35,457 --> 00:48:39,621
+stuff like that. Yeah, which is like the limit
+for Marvel, like 11 and 12 year olds could
+
+530
+00:48:39,661 --> 00:48:45,485
+read X-Men. You know, DC has the real highbrow
+stuff. So like when she's turning 16, totally
+
+531
+00:48:45,525 --> 00:48:50,309
+getting her sand man. You're not going to poison
+my daughter's mind with it. That bullcrap.
+
+532
+00:48:51,818 --> 00:48:56,320
+I mean, Marvel has the Max line, so when Ella
+becomes even older, you know, she could start
+
+533
+00:48:56,340 --> 00:49:00,382
+reading Max comics if she wants. I don't fucking
+know. I don't even know if she'll be into comics,
+
+534
+00:49:00,422 --> 00:49:05,765
+but we'll see. I can introduce her to DC super
+pets because that's pretty kid friendly. No!
+
+535
+00:49:06,205 --> 00:49:12,688
+Well, fine then. Geez. Not poisoning her mind,
+I just said. Well, I guess that does it for
+
+536
+00:49:12,728 --> 00:49:20,390
+this duel. AJ 9K, help close this out. Thanks
+for listening to Dynamic duel. Visit the show's
+
+537
+00:49:20,430 --> 00:49:26,312
+website at dynamicduel.com and follow us on
+Instagram at dynamicduelpodcast. You can support
+
+538
+00:49:26,352 --> 00:49:32,074
+the show on Patreon at patreon.com slash dynamicduel
+and joining a tier that works for you, or by
+
+539
+00:49:32,134 --> 00:49:38,295
+rating and reviewing Dynamic duel on Apple Podcasts,
+Spotify, Podchaser or on our website. Don't
+
+540
+00:49:38,315 --> 00:49:42,857
+forget to listen to the other shows in the Dynamite
+Podcast Network, including Max Destruction,
+
+541
+00:49:43,197 --> 00:49:49,342
+Senjow World and Console Combat. Next week's
+episode is going to come out right before the
+
+542
+00:49:49,382 --> 00:49:53,623
+4th of July. It's going to come out July 2nd.
+So we're going to have a little 4th of July
+
+543
+00:49:53,764 --> 00:49:58,145
+themed episode for you guys, where we're going
+to find out who to win in a fight between Uncle
+
+544
+00:49:58,245 --> 00:50:05,687
+Sam, who was like the personification of American
+patriotism and Captain Britain, who is a hero
+
+545
+00:50:05,727 --> 00:50:12,209
+from the British Isles. I'm just glad that I
+am on the side of America and you're a frigging
+
+546
+00:50:12,309 --> 00:50:17,680
+red coat. Yeah, I don't love that. But Captain
+Britain is more awesome than Uncle Sam, who's
+
+547
+00:50:17,700 --> 00:50:22,344
+kind of a lame ass character, so yeah, I'm gonna
+win this next one too. We'll see. But that
+
+548
+00:50:22,364 --> 00:50:26,407
+does it for this episode, we want to give a
+big thanks to our executive producers Ken Johnson,
+
+549
+00:50:26,627 --> 00:50:31,511
+John Strosky, Zachary Hepburn, Dustin Balcombe,
+Mickey Mathageon, Brandon Nestergaard, Nathaniel
+
+550
+00:50:31,531 --> 00:50:37,917
+Wagner, Levi Yeaton, Austin Wazilowski, AJ Dunkerley,
+Scott Camacho, Gil Camacho, Adam Spies, Andrew
+
+551
+00:50:37,957 --> 00:50:43,801
+Shunk, Dean Maleski, Devin Davis, and Joseph
+Kirsting for helping make this podcast possible.
+
+552
+00:50:44,206 --> 00:50:47,533
+We'll talk to you guys next week. Up up and
+away, true believers.
+
