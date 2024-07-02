@@ -1,0 +1,2645 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a DynaMic Network podcast.
+
+2
+00:00:24,334 --> 00:00:29,175
+And welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,195 --> 00:00:34,756
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:35,336 --> 00:00:41,278
+I'm Marvelous Joe. And I'm his twin brother
+Johnny DC. And in lead up to Independence Day,
+
+5
+00:00:41,638 --> 00:00:46,700
+the day after tomorrow, we are going to find
+out who would win in a fight between the DC
+
+6
+00:00:46,740 --> 00:00:55,374
+superhero character of Uncle Sam, the personification
+of the US spirit of patriotism. Captain Britain,
+
+7
+00:00:55,454 --> 00:01:02,597
+the UK's premier superhero. We're taking it
+back to 1776 folks, and I gotta say, I think
+
+8
+00:01:02,637 --> 00:01:07,859
+Britain's gonna win this time. All I know is,
+just like in the past, US is totally stomping
+
+9
+00:01:07,919 --> 00:01:14,202
+on Britain. Like there's no way. Not the Sam's
+going down. Never, never fucking America. We'll
+
+10
+00:01:14,262 --> 00:01:18,344
+see. Before we go over the characters' backgrounds
+and put their stats from simulations and find
+
+11
+00:01:18,384 --> 00:01:22,265
+out who would win, we're gonna break down the
+latest comic book movie news to come out this
+
+12
+00:01:22,305 --> 00:01:27,167
+past week. of which we have three news items,
+the first one being the massive amount of set
+
+13
+00:01:27,207 --> 00:01:32,489
+photos that we've gotten from the Superman film
+that's currently filming in Cleveland. We also
+
+14
+00:01:32,509 --> 00:01:39,292
+got a trailer for Hitmonkey Season 2 and a trailer
+for the upcoming animated series Batman Caped
+
+15
+00:01:39,332 --> 00:01:43,794
+Crusader. As always we list our segment times
+in our episode description so feel free to
+
+16
+00:01:43,834 --> 00:01:48,536
+check out the show notes if you want to skip
+ahead to a particular topic. Guys our artificially
+
+17
+00:01:48,636 --> 00:01:56,050
+intelligent duel simulator AJ9K has a quick
+message for our listeners. So listen up. Why
+
+18
+00:01:56,090 --> 00:02:00,491
+hello there, do you want even more from this
+podcast? Then become a part of the dynamic
+
+19
+00:02:00,531 --> 00:02:05,594
+duel community on Patreon, where you can choose
+from three tiers. The dynamic two-oh tier gives
+
+20
+00:02:05,614 --> 00:02:10,536
+you access to our Discord chat server. The fantastic
+four tier gives you two bonus episodes each
+
+21
+00:02:10,576 --> 00:02:16,134
+month, and the X-Force tier makes you an executive
+producer of this show. Lastly, The DynaMic
+
+22
+00:02:16,154 --> 00:02:21,237
+Podcast Network tier lets you create your own
+podcast using this Monte Carlo simulator. Johnny
+
+23
+00:02:21,258 --> 00:02:25,721
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+24
+00:02:25,761 --> 00:02:31,244
+simulation results. Pitch the twins your ideas
+via email at dynamicduelpodcast at gmail.com.
+
+25
+00:02:32,305 --> 00:02:39,090
+Check it out at patreon.com slash dynamicduel.
+Pip pip cheerio. Thanks AJ9K, and thanks to
+
+26
+00:02:39,190 --> 00:02:43,433
+everyone who supports the podcast. Be sure to
+tune in to the other shows in the DynaMic
+
+27
+00:02:43,453 --> 00:02:48,671
+Podcast Network this week. Including Max Destruction,
+which pits your favorite action heroes from
+
+28
+00:02:48,791 --> 00:02:53,812
+film and television against each other. This
+week, hosts Scotty and his brother Gil are
+
+29
+00:02:53,832 --> 00:02:59,494
+reviewing Independence Day. Naturally. On the
+Send Your World podcast, host Zachary Hepburn
+
+30
+00:02:59,514 --> 00:03:04,875
+speculates on fights between fan favorite anime
+and manga characters. The show is currently
+
+31
+00:03:04,955 --> 00:03:10,057
+on a season hiatus, so this is the perfect time
+for you anime fans to catch up on Send Your
+
+32
+00:03:10,097 --> 00:03:16,163
+World's 40 episode library. And on the Console
+Combat Podcast, hosts John and Dean find out
+
+33
+00:03:16,203 --> 00:03:21,225
+who would win in fights between popular video
+game characters. In yesterday's episode, they
+
+34
+00:03:21,265 --> 00:03:27,208
+found out who would win in a battle between
+Raiden from Mortal Kombat versus Thor from
+
+35
+00:03:27,448 --> 00:03:33,190
+Marvel vs. Capcom. Visit dynamicpodcasts.com
+or click the link in our show notes to listen
+
+36
+00:03:33,231 --> 00:03:38,593
+to all of the shows in the DynaMic Podcast
+Network. But with that out of the way, quick
+
+37
+00:03:38,813 --> 00:03:45,392
+to the no prize. A No Prize is an award Marvel
+used to give out to fans. Our version, the
+
+38
+00:03:45,432 --> 00:03:50,615
+Dynamic duel No Prize, is a digital award we
+post on Instagram for the person that we feel
+
+39
+00:03:50,655 --> 00:03:57,639
+gave the best answer to our question of the
+week. Last week we asked, besides Batman, what
+
+40
+00:03:57,699 --> 00:04:03,742
+character do you most hope to see in the Penguin
+Max series and why? And of course this question
+
+41
+00:04:03,782 --> 00:04:09,085
+was a tie-in to the first trailer for the Penguin
+series that will be coming up soon on the Max
+
+42
+00:04:09,125 --> 00:04:13,963
+platform. We got a whopping two answers. So
+let's go ahead and break down our honorable
+
+43
+00:04:14,003 --> 00:04:19,684
+mention and the no prize winner. The honorable
+mention goes to Miggy Matagian who said. Hey,
+
+44
+00:04:19,704 --> 00:04:25,466
+what's up guys, this is Miggy. And the character
+I want to see the most, I most hope to see
+
+45
+00:04:25,546 --> 00:04:33,768
+in the Penguin is Arnold Flass, Jim Gordon's
+corrupt detective partner. He was just like
+
+46
+00:04:33,788 --> 00:04:37,689
+the first character that came to mind when I
+heard the question. Like he's from like Batman
+
+47
+00:04:37,709 --> 00:04:41,162
+year one. I think it would just be like. Great
+for the grounded safe they're taking with the
+
+48
+00:04:41,182 --> 00:04:46,664
+Penguin because he's like a corrupt, corrupt
+detective that sells drugs or takes drugs or
+
+49
+00:04:46,704 --> 00:04:52,187
+something. Yeah, thanks guys. Yeah, like Miggy
+said, Flass is a corrupt detective within the
+
+50
+00:04:52,227 --> 00:04:59,630
+GCPD. He played a fairly heavy role in comics
+like Batman Year One, and we actually saw him
+
+51
+00:04:59,810 --> 00:05:05,392
+in the Batman Begins movie. He was the fat cop
+with the beard. Yeah, he was the guy who was
+
+52
+00:05:05,432 --> 00:05:10,939
+dropped from the fire escape by Batman in Batman
+Begins. Right, exactly. I figured that he would
+
+53
+00:05:10,959 --> 00:05:17,103
+have played a major role in the GCPD television
+series that they were talking about doing.
+
+54
+00:05:17,504 --> 00:05:22,007
+I think that later evolved into an Arkham series
+and I'm not sure where it is right now. But
+
+55
+00:05:22,067 --> 00:05:27,050
+yeah, it would be interesting to see other police
+officers besides Jeffrey Wright's Gordon pop
+
+56
+00:05:27,151 --> 00:05:31,454
+up in The Penguin. And if any of them popped
+up, you would imagine it would be someone like
+
+57
+00:05:31,494 --> 00:05:37,558
+Flass because he probably has dealings with
+organized crime given that he's corrupt. Yeah,
+
+58
+00:05:37,598 --> 00:05:43,281
+this is a very practical answer given that the
+world of the Batman and this Penguin series
+
+59
+00:05:43,541 --> 00:05:48,884
+is very grounded and very rooted in the crime
+genre. Detective Flass is very much a part
+
+60
+00:05:48,904 --> 00:05:53,226
+of that world and it would make sense for him
+to show up. Great answer, Miggy, but the winner
+
+61
+00:05:53,266 --> 00:05:59,570
+of this week's No Prize is Travis Herndon, who
+said, What's up, Dynamo dudes? Travis here.
+
+62
+00:05:59,630 --> 00:06:04,192
+Shout out to my other twins. So my answer would
+have to be Killer Croc. I think he can easily
+
+63
+00:06:04,232 --> 00:06:09,404
+fit in this Batman universe. You can either
+have him be a bodyguard to the Penguin or some
+
+64
+00:06:09,484 --> 00:06:14,668
+other rival gangster, or even have him be his
+own gangster like he was in the comic books
+
+65
+00:06:14,708 --> 00:06:20,092
+before. He became a muscle for other people,
+you know, give him that same sort of like makeup
+
+66
+00:06:20,112 --> 00:06:25,916
+that he had a suicide squad and bam, you got
+yourself a cool killer croc. Yeah. The gangster-esque
+
+67
+00:06:26,116 --> 00:06:31,841
+killer croc that we got in the suicide squad
+actually was not the worst interpretation of
+
+68
+00:06:31,881 --> 00:06:37,040
+that character. I don't know if you could go
+that far with it for a series like The Penguin.
+
+69
+00:06:37,360 --> 00:06:41,683
+In the comics sometimes Killer Croc is just
+depicted as a big guy with a skin condition.
+
+70
+00:06:42,264 --> 00:06:47,367
+And I think you could definitely go that route
+for The Batman, which again, like you mentioned,
+
+71
+00:06:47,548 --> 00:06:53,191
+is fairly grounded. Honestly, the more bat villains
+we get in here though, the better. I would
+
+72
+00:06:53,211 --> 00:06:58,315
+love to see Matt Reeves' interpretation of all
+of them. Yet it's always hard for me to accept
+
+73
+00:06:58,435 --> 00:07:05,627
+altered origins to characters within a gritty
+grounded setting like this because it doesn't
+
+74
+00:07:05,647 --> 00:07:10,369
+feel true to the comic book origins. So like
+if Matt Reeves were to include a character
+
+75
+00:07:10,389 --> 00:07:15,211
+like Killer Croc within the universe of the
+Batman and Penguin, it would definitely be
+
+76
+00:07:15,231 --> 00:07:19,313
+a different take on the character. Like he would
+just be a guy whose teeth are filed into points
+
+77
+00:07:19,353 --> 00:07:23,755
+or something and they say he looks like an alligator
+or something like something really grounded
+
+78
+00:07:23,775 --> 00:07:29,710
+and lame like that, you know? Maybe like tattooed
+scales or something, contact lenses. That would
+
+79
+00:07:29,750 --> 00:07:34,713
+be lame. If I saw that version of Killer Croc,
+I'd be like, Oh, okay. They did it better in
+
+80
+00:07:34,753 --> 00:07:40,537
+the last cinematic universe. Maybe they could
+retain the continuity from the Peacemaker television
+
+81
+00:07:40,577 --> 00:07:47,842
+series and have Aquaman be a guy who fucks fish.
+And Killer Croc is just the offspring of a
+
+82
+00:07:48,062 --> 00:07:54,667
+relationship between Aquaman and a crocodile.
+Considering that was the DCEU, not gonna happen.
+
+83
+00:07:55,387 --> 00:08:00,891
+Oh, yeah, that's true. The Batman's not in the
+DCEU. Okay, makes sense. But also how dare
+
+84
+00:08:00,911 --> 00:08:05,033
+you for bringing that up again. Everyone forgot
+about it, you just reminded everyone. Aquaman
+
+85
+00:08:05,073 --> 00:08:09,436
+fucks fish. So great answer Travis, you win
+this week's no prize. If you the listener want
+
+86
+00:08:09,476 --> 00:08:13,539
+a shot at winning your own no prize, stay tuned
+to later on this episode when we'll be asking
+
+87
+00:08:13,599 --> 00:08:17,881
+another question of the week. And now that that's
+done, on to the news.
+
+88
+00:08:23,470 --> 00:08:28,914
+Okay, so last week there were leaked set photos
+from the Superman movie directed by James Gunn
+
+89
+00:08:29,214 --> 00:08:35,720
+revealing the full suit of David Cord sweat's
+Superman character. Of course, we got our first
+
+90
+00:08:35,840 --> 00:08:41,645
+look at the character a little over a month
+ago in a kind of a bizarre official photo of
+
+91
+00:08:41,705 --> 00:08:46,869
+Superman sitting down like in an apartment putting
+boots on with this like giant space laser in
+
+92
+00:08:46,909 --> 00:08:52,251
+the background. People didn't love that. We
+commented on it and we kind of agreed that
+
+93
+00:08:52,291 --> 00:08:58,552
+it was unusual. But I gotta say, after seeing
+these set photos, I'm actually really loving
+
+94
+00:08:58,632 --> 00:09:03,074
+this costume. It does look really good. I have
+to say, it might be one of my favorites now.
+
+95
+00:09:03,254 --> 00:09:09,856
+It's very inspired by the new 52 Superman outfit,
+but it has the red trunks and of course the
+
+96
+00:09:09,876 --> 00:09:16,157
+Kingdom Come logo style. So it's a nice amalgam
+of a lot of great Superman elements over the
+
+97
+00:09:16,197 --> 00:09:21,327
+decades. Yeah, my favorite thing I think is
+just the colors. You know, Christopher Reeves'
+
+98
+00:09:21,367 --> 00:09:27,150
+Superman had a very like baby blue with a like
+a red cape thing kind of going. Henry Cavill
+
+99
+00:09:27,190 --> 00:09:33,312
+had something that was much darker in tone.
+But to me, this hits a perfect blend between
+
+100
+00:09:33,353 --> 00:09:38,095
+the two. The red is still very vibrant, but
+the blue is not quite as dark. It's a little
+
+101
+00:09:38,115 --> 00:09:43,937
+bit brighter. And I think it's a great interpretation
+of Superman just as this bright symbol for
+
+102
+00:09:43,977 --> 00:09:49,516
+people to look up to. Well, it's a very colorful
+costume, right? Actually, every character that
+
+103
+00:09:49,536 --> 00:09:54,100
+was revealed in the set photos appears to be
+quite colorful in a comic book sort of way.
+
+104
+00:09:54,480 --> 00:10:00,124
+Like look at Lois Lane, who is wearing purple
+and her outfit is very heavily inspired by
+
+105
+00:10:00,344 --> 00:10:04,828
+what Lois Lane wore in the animated adventures
+cartoon. Well, not just that cartoon. Lois
+
+106
+00:10:04,848 --> 00:10:09,011
+Lane actually wears purple a lot in the comics
+as well. But I love the fact that we get to
+
+107
+00:10:09,051 --> 00:10:14,306
+see her in purple. The actress who plays her,
+Rachel Brosnahan. Looks like the character
+
+108
+00:10:14,366 --> 00:10:19,368
+to a T. I swear she was born to play the character.
+I like the colorful cast of characters that
+
+109
+00:10:19,388 --> 00:10:24,731
+we got from The Daily Planet, including Cat
+Grant, Steve Lombard, Jimmy Olsen, Perry White.
+
+110
+00:10:24,811 --> 00:10:30,173
+They all look really good. Yeah, they all look
+fantastic. But my favorite look of the character
+
+111
+00:10:30,193 --> 00:10:35,175
+that we got besides Superman is actually Mr.
+Terrific, a member of the JSA, although I'm
+
+112
+00:10:35,215 --> 00:10:39,797
+not sure if he's going to be a member of the
+JSA in this movie. Mr. Terrific is played by
+
+113
+00:10:39,897 --> 00:10:44,691
+Eddie Gathegi. Although I didn't really recognize
+him from the set photos. The T-mask that he
+
+114
+00:10:44,711 --> 00:10:49,132
+wears over his face and hairstyle gives him
+this sort of different look, I would say. I
+
+115
+00:10:49,152 --> 00:10:53,093
+can't wait to see like all of the T spheres
+moving around him. And I hope they interpret
+
+116
+00:10:53,113 --> 00:10:57,654
+the character that way. We also got to look
+at Lex Luthor, played by Nicholas Holt, who
+
+117
+00:10:57,674 --> 00:11:00,655
+looks really good in the role with the bald
+head. Yeah, it looks like a bunch of scratches
+
+118
+00:11:00,695 --> 00:11:04,416
+and bruises. It looks like maybe Superman saved
+him from an accident or something like that.
+
+119
+00:11:04,536 --> 00:11:09,458
+But he's also not the only villain we got to
+see. We also got to see the engineer. and some
+
+120
+00:11:09,518 --> 00:11:15,060
+mysterious man in a black costume. We're not
+sure who he is, but it looks like they're arresting
+
+121
+00:11:15,100 --> 00:11:21,343
+Superman along with the military, which kind
+of harkens back to Man of Steel. But I don't
+
+122
+00:11:21,363 --> 00:11:26,345
+know. We'll see how this plays out differently
+in this film. The one thing I didn't love from
+
+123
+00:11:26,385 --> 00:11:32,487
+all of these set photos was actually Clark Kent.
+Yeah, the character of Clark Kent looks vastly
+
+124
+00:11:32,527 --> 00:11:37,609
+different from Superman, which, you know, is
+good in terms of the disguise of Clark Kent.
+
+125
+00:11:37,669 --> 00:11:43,434
+But. his hair is like so freaking curly, it
+makes you wonder how his transformation into
+
+126
+00:11:43,474 --> 00:11:48,017
+Superman is possible with those two vastly different
+hairstyles. And I know Clark Kent is supposed
+
+127
+00:11:48,037 --> 00:11:54,062
+to look dorky, but damn, he looks really dorky.
+So you guys were making fun of his look on
+
+128
+00:11:54,122 --> 00:12:00,488
+the Discord. You were calling him Superm Man.
+Right, insinuating that he gets a perm to be
+
+129
+00:12:00,608 --> 00:12:06,032
+Clark Kent. But I came up with the theory that
+the way he gets his hair a little bit more
+
+130
+00:12:06,092 --> 00:12:10,027
+straight when he transforms into Superman, is
+just by heat visioning his hands so they get
+
+131
+00:12:10,047 --> 00:12:15,010
+really hot and just brushing them through his
+hair so it acts like a flat iron. Which is
+
+132
+00:12:15,190 --> 00:12:22,115
+a horrible theory. Truly horrible. And yet it's
+a theory nonetheless. Hahaha. But all in all,
+
+133
+00:12:22,635 --> 00:12:28,259
+I actually really got excited by all of these
+photos. I cannot wait for this movie which
+
+134
+00:12:28,299 --> 00:12:32,982
+comes out in a year. It's gonna be a really
+long year, that's all I know. We don't usually
+
+135
+00:12:33,043 --> 00:12:37,045
+comment on set photos, but if you guys have
+seen them online, you know that they're substantial
+
+136
+00:12:37,085 --> 00:12:42,260
+enough. to warrant commenting on and also, you
+know, a few of them raise interesting discussions
+
+137
+00:12:42,300 --> 00:12:48,630
+about the plot and the characters, especially
+that mysterious man in black photo. But that
+
+138
+00:12:48,650 --> 00:12:50,253
+brings us to our question of the week.
+
+139
+00:12:54,734 --> 00:13:01,155
+Who do you think is the mysterious man in black
+in the Superman set photos, and why? Record
+
+140
+00:13:01,175 --> 00:13:04,836
+your answer at dynamicduel.com by clicking on
+the red microphone button in the bottom right
+
+141
+00:13:04,856 --> 00:13:08,958
+hand corner of the screen, which will prompt
+you to leave us a voicemail. Your message could
+
+142
+00:13:08,978 --> 00:13:13,099
+be up to 30 seconds long, and don't forget to
+leave your name in case we include you on the
+
+143
+00:13:13,139 --> 00:13:17,820
+podcast. We'll pick our favorite answer, and
+award that person a Dynamic Duel No Prize that
+
+144
+00:13:17,840 --> 00:13:23,671
+we'll post to Instagram. Be sure to answer before
+July 6th. In Marvel News this past week, we
+
+145
+00:13:23,691 --> 00:13:28,834
+got our first trailer for the upcoming season
+of Hit Monkey. This will be season 2, which
+
+146
+00:13:28,854 --> 00:13:35,359
+will be released on Hulu on July 15th, all 10
+episodes. Now, we reviewed Hit Monkey season
+
+147
+00:13:35,599 --> 00:13:40,983
+1 when it came out, and it was actually a surprise
+hit. I don't think you and I had any expectations
+
+148
+00:13:41,043 --> 00:13:45,726
+of what the Hit Monkey show would be, and we
+were really pleased with how the show turned
+
+149
+00:13:45,806 --> 00:13:50,369
+out. It was a whole lot of fun. We rated it
+4 stars, and you can listen to our review of
+
+150
+00:13:50,409 --> 00:13:54,682
+season 1. Season 2 looks like it's going to
+take place right where season 1 left off, where
+
+151
+00:13:54,762 --> 00:14:00,884
+Hitmonkey and his Hitman ghost mentor Bryce
+are fleeing Japan. They go to New York City
+
+152
+00:14:01,164 --> 00:14:05,665
+and are in an entirely different environment
+in this next season. The way the first season
+
+153
+00:14:05,765 --> 00:14:12,427
+ended, Bryce moved on to the afterlife but made
+a deal with Mephisto to come back and resume
+
+154
+00:14:12,547 --> 00:14:17,749
+as Hitmonkey's personal mentor. It looks like
+they just plan on fighting crime in New York
+
+155
+00:14:17,789 --> 00:14:23,783
+City, but there's a lot of supernatural elements
+going down. possibly due to Bryce's deal with
+
+156
+00:14:23,883 --> 00:14:26,705
+Mephisto, although I don't know if they're gonna
+call him Mephisto in the show. I think they're
+
+157
+00:14:26,725 --> 00:14:31,868
+just gonna call him the devil. But we get introduced
+to some new characters, including Eunice, who
+
+158
+00:14:31,988 --> 00:14:38,191
+is voiced by Leslie Jones. She was Bryce's former
+agent. Olivia Munn is gonna be back this season
+
+159
+00:14:38,351 --> 00:14:43,334
+as Akiko Yokohama, but this time she's gonna
+be Lady Bullseye, who's gonna go after Hitmonkey
+
+160
+00:14:43,414 --> 00:14:48,157
+for his actions in Japan from the first season.
+You know, of course, Jason Sudeikis is great
+
+161
+00:14:48,277 --> 00:14:52,612
+alongside Hitmonkey. They just have a great
+dynamic. The show's dialogue is one of its
+
+162
+00:14:52,652 --> 00:14:57,557
+best features. Actually, the worst feature of
+the show is probably the animation, at least
+
+163
+00:14:57,597 --> 00:15:01,821
+it was for season one. But we didn't really
+let that deter us from enjoying the show. But
+
+164
+00:15:01,901 --> 00:15:06,565
+I have to say that from this trailer, season
+two's animation looks like they actually put
+
+165
+00:15:06,585 --> 00:15:10,709
+a little bit more money into it. I actually
+really like the stylish animation of the show.
+
+166
+00:15:10,749 --> 00:15:16,886
+I think it suits the concept and vibe that they're
+giving off. I am... Honestly really pumped
+
+167
+00:15:16,906 --> 00:15:21,607
+for the show. I didn't even know they were making
+a season two until not too long ago Now I was
+
+168
+00:15:21,707 --> 00:15:25,188
+actually really surprised because I thought
+that Marvel Studios was doing away with all
+
+169
+00:15:25,228 --> 00:15:30,950
+the stuff that wasn't like in their MCU Continuity
+so this was a very pleasant surprise Yeah,
+
+170
+00:15:30,990 --> 00:15:35,751
+hit monkey was a holdover from the old Marvel
+television division And I guess it was popular
+
+171
+00:15:35,831 --> 00:15:40,852
+enough for them to continue the series in a
+season two Yeah, I think this was one of two
+
+172
+00:15:40,892 --> 00:15:46,426
+series that got released through that the other
+one being Modok, right? Yeah, but Modok only
+
+173
+00:15:46,446 --> 00:15:51,750
+had one season, which is also a shame because
+I actually really liked Modok. Hitmonkey season
+
+174
+00:15:51,990 --> 00:15:57,694
+one was great for its action, its tremendous
+over-the-top violence, and that humorous dialogue.
+
+175
+00:15:57,994 --> 00:16:02,317
+It's just a great show. If you haven't checked
+out season one, definitely check it out and
+
+176
+00:16:02,337 --> 00:16:06,640
+then catch up on season two and listen to our
+reviews. You only have a few weeks to catch
+
+177
+00:16:06,680 --> 00:16:12,904
+up on season one because, again, season two
+drops on July 15th. On the DC side of animation,
+
+178
+00:16:12,945 --> 00:16:18,959
+we got our first trailer. for the first season
+of Batman Caped Crusader, a television series
+
+179
+00:16:19,279 --> 00:16:24,961
+that's coming out on Amazon Prime. It was created
+by Bruce Timm, who also created the Batman
+
+180
+00:16:25,101 --> 00:16:30,983
+animated series that began in the 90s, and it's
+very much in that same Bruce Timm style, except
+
+181
+00:16:31,263 --> 00:16:36,925
+it definitely looks like it has a darker, more
+noir, more mature approach. Which, you know,
+
+182
+00:16:36,945 --> 00:16:41,662
+if you know anything about Bruce Timm as a fan
+of the comics, He tends to make things that
+
+183
+00:16:41,682 --> 00:16:45,804
+are a little bit more mature when it's not made
+for Saturday mornings. And this definitely
+
+184
+00:16:45,824 --> 00:16:51,626
+looks like it's a little bit in keeping with
+that old Max Fleischer, 1940s kind of style
+
+185
+00:16:51,906 --> 00:16:56,848
+that he originally wanted to emulate in his
+Batman series. This of course follows Batman
+
+186
+00:16:56,988 --> 00:17:03,111
+in his early years as a caped crusader. So we
+get early looks at characters like Catwoman
+
+187
+00:17:03,431 --> 00:17:08,053
+and Two-Face. You know, we get to see him back
+when he was Harvey Dent. And I gotta say, the
+
+188
+00:17:08,093 --> 00:17:14,662
+character designs... of villains like Two-Face
+and Scarecrow go so much harder than they did
+
+189
+00:17:14,842 --> 00:17:20,307
+in the original animated series. Yeah, they're
+very grotesque, almost like the Dick Tracy
+
+190
+00:17:20,387 --> 00:17:25,572
+villain approach. Yeah, which makes it feel
+like so much more pulpy, I would say, and so
+
+191
+00:17:25,612 --> 00:17:31,877
+much more noir, which I didn't think would be
+possible, but it apparently is. The voice cast
+
+192
+00:17:31,938 --> 00:17:39,924
+for this show is amazing. I'm not too familiar
+with his work, but he does a pretty good impression
+
+193
+00:17:40,004 --> 00:17:45,089
+of Kevin Conroy, I would say. Yeah, he was in
+the Legion television series as well as the
+
+194
+00:17:45,129 --> 00:17:50,553
+first Fantastic Four movie as Dr. Doom's assistant.
+Oh, okay. Okay. So he's had quite a few roles
+
+195
+00:17:50,593 --> 00:17:55,918
+within the superhero world. Catwoman is going
+to be voiced by Christina Ricci. This new version
+
+196
+00:17:55,958 --> 00:18:02,303
+of Harley Quinn is voiced by Jamie Chung. And
+Diedrich Bader, who has voiced Batman in shows
+
+197
+00:18:02,343 --> 00:18:06,466
+like Batman Brave and the Bold and the Harley
+Quinn animated series, is doing the voice of
+
+198
+00:18:06,506 --> 00:18:11,548
+Harvey Dent in Two-Face. Looks like there's
+gonna be a ton of action in this show based
+
+199
+00:18:11,588 --> 00:18:16,830
+on this trailer, where we get to see, you know,
+Batman slinking through mist and shadow to
+
+200
+00:18:16,870 --> 00:18:20,972
+take down gun-wielding bad guys, and there's
+like explosions and everything. It's pretty
+
+201
+00:18:21,012 --> 00:18:25,714
+wild. I expect the show to be really good, because
+you know, Bruce Timm has already shown that
+
+202
+00:18:25,754 --> 00:18:30,877
+he's had an incredible take on the character
+from his prior work, but also because it's
+
+203
+00:18:30,957 --> 00:18:36,895
+produced by Matt Reeves. and JJ Abrams, which
+is fascinating. Yeah, Matt Reeves, you know,
+
+204
+00:18:36,935 --> 00:18:42,357
+being the guy who directed the recent The Batman
+movie with Robert Pattinson and JJ Abrams being
+
+205
+00:18:42,638 --> 00:18:47,440
+a prolific director and producer in his own
+right. Early days Batman has always been a
+
+206
+00:18:47,500 --> 00:18:52,582
+very interesting Batman to me, and I can't wait
+to see how this compares to things like Batman
+
+207
+00:18:52,622 --> 00:18:57,964
+Begins or The Batman. Or Batman Mask of the
+Phantasm, which we recently reviewed just a
+
+208
+00:18:58,004 --> 00:19:03,051
+few weeks ago and also took place during Batman's
+early years as a crime fighter. Right, exactly.
+
+209
+00:19:03,351 --> 00:19:08,359
+All 10 episodes are dropping simultaneously
+on August 1st on the Amazon Prime platform.
+
+210
+00:19:08,720 --> 00:19:13,107
+So if you don't subscribe to that, definitely
+make sure you do it by August 1st because we'll
+
+211
+00:19:13,147 --> 00:19:17,113
+be watching this, we'll be reviewing it, and
+I think it's going to be a lot of fun.
+
+212
+00:19:24,494 --> 00:19:27,758
+But I think that does it for all the news for
+this episode, so let's go ahead and get into
+
+213
+00:19:27,798 --> 00:19:34,166
+our main event where we find out who would win
+in a fight between the USA's Uncle Sam and
+
+214
+00:19:34,206 --> 00:19:36,148
+the UK's Captain Britain.
+
+215
+00:19:51,350 --> 00:19:56,852
+Alright, Uncle Sam versus Captain Britain. Now
+this is the personification of US patriotism
+
+216
+00:19:56,912 --> 00:20:02,894
+versus the UK's greatest hero. We are taking
+it back to the early days of America's history
+
+217
+00:20:03,074 --> 00:20:08,336
+when they fought for independence from Great
+Britain. And we're gonna see if, you know,
+
+218
+00:20:08,356 --> 00:20:13,278
+that sticks or if, you know, the UK is gonna
+be able to annex America again due to the results
+
+219
+00:20:13,298 --> 00:20:19,621
+of this match. Holy cow, I didn't know that
+much was writing on this. Wow, who knew? Yeah,
+
+220
+00:20:19,681 --> 00:20:23,379
+the battle was not over. This will be the final
+bout. We'll see what happens. Winner takes
+
+221
+00:20:23,499 --> 00:20:28,441
+all. Down with the monarch. Yeah, I don't know
+much about Uncle Sam as a comic book character.
+
+222
+00:20:28,521 --> 00:20:32,462
+So I'll be interested in seeing what the hell
+this guy can do. Yeah, honestly, I didn't know
+
+223
+00:20:32,503 --> 00:20:36,924
+too much about him prior to this. He's actually
+pretty fascinating. That said, I don't know
+
+224
+00:20:36,944 --> 00:20:41,366
+too much about Captain Britain. So honestly,
+I don't even know if this is a good matchup.
+
+225
+00:20:42,487 --> 00:20:46,068
+I don't know if this is gonna be completely
+lopsided when it comes to the simulations,
+
+226
+00:20:46,569 --> 00:20:51,123
+but I think it's gonna be fun nonetheless. To
+explain the methodology behind our duels, let's
+
+227
+00:20:51,143 --> 00:20:57,766
+go to our sentient duel simulator AlfredJarvis9000.
+AJ9K, tell our listeners how you go about determining
+
+228
+00:20:57,846 --> 00:21:03,069
+a winner in our duel matchups. Yes, of course
+sir. The way I determine a winner between the
+
+229
+00:21:03,109 --> 00:21:09,133
+contestants is by running 1000 Monte Carlo simulations
+using the characters statistics. A Monte Carlo
+
+230
+00:21:09,173 --> 00:21:13,455
+simulation is a probabilistic model used to
+determine outcomes through random sampling.
+
+231
+00:21:13,895 --> 00:21:18,786
+In this case, I randomize the statistics along
+a normal distribution. as a way to simulate
+
+232
+00:21:18,806 --> 00:21:23,388
+the many variables that can occur during battle.
+The stat parameters are based on the official
+
+233
+00:21:23,448 --> 00:21:28,770
+Marvel power grid from which the DC characters
+statistics are extrapolated. Additional stat
+
+234
+00:21:28,790 --> 00:21:34,333
+categories are included such as range, damage
+potential, versatility and perception in order
+
+235
+00:21:34,353 --> 00:21:39,775
+to create a more detailed and accurate simulation.
+The results of the 1000 simulations provide
+
+236
+00:21:39,795 --> 00:21:44,157
+a percentage of wins for each character. The
+contestant with the higher percentage is declared
+
+237
+00:21:44,197 --> 00:21:49,479
+the victor. as they have a higher probability
+to win any given battle. In an equitable pairing,
+
+238
+00:21:49,859 --> 00:21:54,660
+neither character should win 100% of the matches.
+The comic book stories have shown that there's
+
+239
+00:21:54,800 --> 00:21:59,602
+even a way for Batman to defeat Superman, so
+the confidence rate of my method falls in line
+
+240
+00:21:59,622 --> 00:22:04,223
+with the precedents that have been established
+in the source material. My mathematical simulations
+
+241
+00:22:04,263 --> 00:22:09,404
+are without subjectivity or bias. Feats are
+not the sole consideration, nor are fan votes
+
+242
+00:22:09,464 --> 00:22:15,599
+tabulated for determination of the winner. Thanks,
+AJ9K! Before we run the simulations though,
+
+243
+00:22:15,619 --> 00:22:20,822
+we like to break down each character's histories
+and abilities before improvising a scenario
+
+244
+00:22:20,902 --> 00:22:26,466
+on how we imagine one of the 1,000 simulations
+would play out beat for beat. And I believe
+
+245
+00:22:26,506 --> 00:22:32,351
+it's my turn to go first with a DC character,
+so let me tell you all about Uncle Sam. On
+
+246
+00:22:32,411 --> 00:22:39,956
+July 4th, 1776, shortly after signing the Declaration
+of Independence, three of the country's founding
+
+247
+00:22:40,036 --> 00:22:46,461
+fathers, Benjamin Franklin, John Adams and Thomas
+Jefferson were tasked with creating a seal
+
+248
+00:22:46,701 --> 00:22:52,965
+for the newly formed United States of America.
+Conspiring to imbue their seal with spiritual
+
+249
+00:22:53,045 --> 00:22:59,730
+and mystic power, they gathered ten other occult-minded
+men from the other colonies to form a group
+
+250
+00:22:59,770 --> 00:23:06,394
+of thirteen, including a rational alchemist
+and patriot named Taylor Samuel Hawk, who led
+
+251
+00:23:06,435 --> 00:23:12,354
+them in a mystic ritual to forge a spirit of
+liberty and freedom. of the American Dream
+
+252
+00:23:12,414 --> 00:23:18,218
+itself. The Thirteen successfully bound the
+spirit to a powerful talisman, which became
+
+253
+00:23:18,278 --> 00:23:24,062
+engraved with an eagle on one side and an eye
+of providence surrounded by thirteen stars
+
+254
+00:23:24,183 --> 00:23:29,646
+on the other. The talisman was entrusted to
+the care of Taylor Samuel Hawk, known as Samuel,
+
+255
+00:23:30,027 --> 00:23:35,370
+who soon became embroiled in the Revolutionary
+War. While helping a wagon train of supplies
+
+256
+00:23:35,430 --> 00:23:40,654
+get to George Washington and his troops, he
+was spotted by a group of Hessians. German
+
+257
+00:23:40,734 --> 00:23:45,877
+soldiers who had been hired by the British crown
+to help stop the colonial uprising in America.
+
+258
+00:23:46,358 --> 00:23:51,861
+Risking his life to distract the Hessians from
+following Washington's supply wagons, Samuel
+
+259
+00:23:51,921 --> 00:23:57,085
+goaded the Hessians into following him, though
+they eventually caught up and beat him, and
+
+260
+00:23:57,125 --> 00:24:03,289
+left him for dead. Dying with the American talisman
+in his hand, the spirit of America awakened
+
+261
+00:24:03,689 --> 00:24:05,350
+and merged with Samuel's body.
+
+262
+00:24:10,294 --> 00:24:15,778
+known only as the Minuteman, who crossed the
+Delaware with and fought alongside Washington.
+
+263
+00:24:16,238 --> 00:24:22,243
+After the Battle of Yorktown, the spirit faded,
+but would return when needed. In the War of
+
+264
+00:24:22,324 --> 00:24:29,029
+1812, the spirit was known as Brother Jonathan,
+who rallied American troops once again to defend
+
+265
+00:24:29,069 --> 00:24:34,554
+against British retaliation. At the start of
+the Civil War, the talisman was split into
+
+266
+00:24:34,614 --> 00:24:43,556
+two pieces, resulting in the and Johnny Reb,
+spirits of the North and South. By the 1870s,
+
+267
+00:24:44,156 --> 00:24:49,599
+the two halves of the talisman eventually came
+into possession of a man named Samuel Augustus
+
+268
+00:24:49,739 --> 00:24:55,583
+Adams, a New York cartoonist who criticized
+a powerful and corrupt Democrat politician
+
+269
+00:24:55,723 --> 00:25:03,267
+named William M. Tweed, aka Boss Tweed, who
+had Sam Adams assassinated. As Sam lay dying,
+
+270
+00:25:03,387 --> 00:25:09,018
+both talisman halves in hand, the spirit of
+America bound itself to him. creating the first
+
+271
+00:25:09,098 --> 00:25:16,405
+incarnation of the enduring entity known as
+Uncle Sam. Wait, is Uncle Sam the propaganda
+
+272
+00:25:16,445 --> 00:25:21,910
+character actually based off of Sam Adams? It's
+a different Sam Adams, not the one you're thinking
+
+273
+00:25:22,030 --> 00:25:28,536
+of. Not the guy who makes the beer? No, not
+that one. I see. A second incarnation of Uncle
+
+274
+00:25:28,596 --> 00:25:34,060
+Sam emerged during World War I, when the spirit
+of America was once again bound to a dying
+
+275
+00:25:34,120 --> 00:25:40,455
+American patriot. And a third incarnation emerged
+in World War II, during which time he had a
+
+276
+00:25:40,495 --> 00:25:46,757
+young sidekick named Buddy Smith. After Japan's
+attack on Pearl Harbor, Uncle Sam created and
+
+277
+00:25:46,837 --> 00:25:52,599
+led a superteam known as the Freedom Fighters,
+which later became a part of a larger wartime
+
+278
+00:25:52,639 --> 00:25:59,481
+superteam, the All-Star Squadron. After World
+War II, racial division, political assassinations,
+
+279
+00:25:59,841 --> 00:26:05,619
+and foreign wars, among other things fragmented
+the American talisman into smaller and smaller
+
+280
+00:26:05,679 --> 00:26:12,643
+pieces over the decades as postmodern America's
+sense of self deteriorated. Eventually, an
+
+281
+00:26:12,683 --> 00:26:18,486
+occult group known as the National Interest
+performed a ritual to create a sinister spirit
+
+282
+00:26:18,806 --> 00:26:24,690
+known as Legal Entity to collect all the fragments
+of the American talisman. Eventually, they
+
+283
+00:26:24,730 --> 00:26:30,353
+succeeded, though their ritual to summon the
+American Dream produced instead a corrupted
+
+284
+00:26:30,393 --> 00:26:36,862
+version that called itself the American Scream.
+This entity, however, was defeated by a new
+
+285
+00:26:36,962 --> 00:26:43,048
+spirit of America, one formed by thirteen American
+individuels across the spectrum of race and
+
+286
+00:26:43,208 --> 00:26:49,694
+age that were joined together in a Native American
+ritual to form an entity known as Patriot.
+
+287
+00:26:50,215 --> 00:26:56,461
+Over time, Patriot became the new incarnation
+of Uncle Sam, who formed a new version of the
+
+288
+00:26:56,501 --> 00:27:00,703
+Freedom Fighters. though it wasn't long before
+he and the team were seemingly killed by the
+
+289
+00:27:00,743 --> 00:27:06,385
+secret society of supervillains. The spirit
+of America survived, however, and Uncle Sam
+
+290
+00:27:06,425 --> 00:27:11,788
+later emerged from the Mississippi River. Disturbed
+by the violent natures of his former teammates,
+
+291
+00:27:11,868 --> 00:27:17,770
+who now all worked for a US military organization
+known as Shade, or the Superhuman Advanced
+
+292
+00:27:17,870 --> 00:27:23,733
+Defense Executive, Uncle Sam convinced them
+to defect from Shade and join him in protecting
+
+293
+00:27:23,793 --> 00:27:29,124
+people as the Freedom Fighters. Eventually,
+the Freedom Fighters and Shade joined forces,
+
+294
+00:27:29,584 --> 00:27:35,788
+and Uncle Sam became the new head of the organization.
+After the Flash reset DC's continuity, the
+
+295
+00:27:35,808 --> 00:27:42,893
+multiverse was re-established, and on an alternate
+universe of Earth-10, or Earth-X, the Nazis
+
+296
+00:27:42,913 --> 00:27:48,437
+were never defeated and they conquered the planet.
+In that world, Uncle Sam and his Freedom Fighters
+
+297
+00:27:48,497 --> 00:27:54,521
+fought back against the Nazi occupation of America,
+though on a day known as Red Friday, they were
+
+298
+00:27:54,581 --> 00:28:01,045
+all killed. including, seemingly, Uncle Sam,
+who faded away. Believing Uncle Sam was still
+
+299
+00:28:01,105 --> 00:28:07,069
+alive, Adolf Hitler became obsessed with finding
+him, as did a new incarnation of the Freedom
+
+300
+00:28:07,109 --> 00:28:13,534
+Fighters that eventually formed, who were inspired
+by the old team and managed to awaken the spirit
+
+301
+00:28:13,594 --> 00:28:18,577
+of America when they blew up a version of Mount
+Rushmore with the faces of Hitler and other
+
+302
+00:28:18,637 --> 00:28:25,250
+prominent Nazis carved into it. At that moment,
+the spirit of Uncle Sam rose from a grave within
+
+303
+00:28:25,310 --> 00:28:31,552
+an extra-dimensional realm of ideas known as
+the Heartland, home to other national personifications
+
+304
+00:28:31,872 --> 00:28:39,516
+such as Britannia, Marianne, Hispania, and Johnny
+Canuck, all of whom had also seemingly died.
+
+305
+00:28:39,936 --> 00:28:45,658
+Alongside the freedom fighters, Uncle Sam managed
+to deal enough lows to the Nazis to awaken
+
+306
+00:28:45,678 --> 00:28:51,681
+the other personifications and save the planet
+from Nazi rule. And that's Uncle Sam's backstory
+
+307
+00:28:51,721 --> 00:28:59,664
+so far. Uncle Sam possesses super strength,
+speed, and durability commensurate with the
+
+308
+00:28:59,764 --> 00:29:05,666
+United States' faith in the ideals of liberty
+and freedom. Typically, he's been shown to
+
+309
+00:29:05,706 --> 00:29:12,489
+lift around 50 tons, though he can lift proportionately
+more when he grows in size. He can grow as
+
+310
+00:29:12,549 --> 00:29:18,532
+tall as a skyscraper and shrink to 6 inches.
+He could also generate portals to teleport
+
+311
+00:29:18,552 --> 00:29:25,791
+himself and others to and from the Heartland
+and he has limited clairvoyance and telepathy,
+
+312
+00:29:26,192 --> 00:29:31,155
+able to hear and speak through other people's
+minds, remotely perceive major events going
+
+313
+00:29:31,255 --> 00:29:36,519
+on within the United States, and sense the location
+of important patriotic artifacts such as the
+
+314
+00:29:36,579 --> 00:29:42,824
+Declaration of Independence. He is, in a sense,
+immortal, in that even though his body can
+
+315
+00:29:42,844 --> 00:29:49,909
+be killed, his spirit will find a new host body
+as long as American patriotism exists. And
+
+316
+00:29:50,189 --> 00:29:55,039
+that's Uncle Sam. You would have to think that
+Uncle Sam in this current political climate
+
+317
+00:29:55,159 --> 00:29:58,741
+is probably weaker than he's ever been though,
+right? So he's just going to be a pipsqueak
+
+318
+00:29:58,761 --> 00:30:04,143
+by this point. Dude, I freaking love America.
+What are you saying? How dare you? That is
+
+319
+00:30:04,203 --> 00:30:10,565
+as political as the show will ever get. Thank
+goodness. That said, nowadays, you know, Uncle
+
+320
+00:30:10,605 --> 00:30:15,988
+Sam would probably be splintered too. One would
+be called Megaman and the other one would be
+
+321
+00:30:16,028 --> 00:30:20,914
+called the Progressive. I'd read that comic,
+honestly, that'd be pretty interesting. I just
+
+322
+00:30:20,934 --> 00:30:25,756
+gotta say that Captain America will always be
+a better symbol of American freedom than this
+
+323
+00:30:25,836 --> 00:30:31,898
+Uncle Sam guy will ever be. WHAT? Just for the
+record. Oh my gosh, he's literally Uncle Sam.
+
+324
+00:30:32,038 --> 00:30:37,160
+Who cares? Steve Rogers. And I'll say that no
+one can represent the UK quite like Captain
+
+325
+00:30:37,240 --> 00:30:42,963
+Britain. Let me get into his backstory. Now,
+Brian Braddock was born in Malden, Essex in
+
+326
+00:30:42,983 --> 00:30:49,265
+the United Kingdom. His father was Sir James
+Braddock, a champion of the realm of Avalon.
+
+327
+00:30:49,686 --> 00:30:54,907
+which is similar to the realm of Asgard where
+Thor is from, but Avalon is Celtic in nature
+
+328
+00:30:55,107 --> 00:31:00,249
+as opposed to Norse. Ser James Braddock was
+a knight who was sent by the wizard Merlin
+
+329
+00:31:00,349 --> 00:31:05,430
+to Earth's realm in order to sire the hero Captain
+Britain, who would serve as the guardian to
+
+330
+00:31:05,530 --> 00:31:11,492
+Avalon's gateway hidden within the British Isles.
+Ser James sired a pair of twins, Brian and
+
+331
+00:31:11,532 --> 00:31:16,453
+his sister Betsy. While it was his sister Betsy
+that would develop mutant abilities and later
+
+332
+00:31:16,493 --> 00:31:21,343
+be known as Psylocke, It was Brian that would
+eventually take on his birthright to become
+
+333
+00:31:21,403 --> 00:31:27,085
+Captain Britain. You can learn more about Psylocke
+in her duel against Gorilla Grodd. Brian's
+
+334
+00:31:27,145 --> 00:31:32,587
+time to don the mantle came shortly after his
+parents died. While he was attending Thames
+
+335
+00:31:32,647 --> 00:31:38,370
+University in London, a mercenary named Reaver
+and his crew raided the physics research lab
+
+336
+00:31:38,470 --> 00:31:43,612
+that Brian was studying at in order to steal
+the experiments. Brian fled the scene on his
+
+337
+00:31:43,692 --> 00:31:50,511
+motorcycle, but was chased down by the mercenaries
+and rode Bleeding and dying, Brian was visited
+
+338
+00:31:50,551 --> 00:31:55,513
+by the wizard Merlin and his daughter, known
+as the Lady of the Northern Skies. Telling
+
+339
+00:31:55,553 --> 00:32:00,655
+him that he could live to serve as Great Britain's
+protector, they offered Brian a choice between
+
+340
+00:32:00,755 --> 00:32:07,419
+two magical artifacts. The Sword of Might, or
+the Amulet of Right? Seeing himself as more
+
+341
+00:32:07,439 --> 00:32:12,621
+of a scholar than a warrior, Brian chose the
+Amulet of Right, which transformed him into
+
+342
+00:32:12,701 --> 00:32:17,744
+Captain Britain. and bestowed on him great strength
+and the Star Scepter which allowed him to fly
+
+343
+00:32:18,105 --> 00:32:23,248
+and create magic force fields. The Mercenary
+Reaver happened upon the scene and grabbed
+
+344
+00:32:23,328 --> 00:32:28,292
+the other artifact, the Sword of Might, which
+transformed the Mercenary into an armored knight.
+
+345
+00:32:28,712 --> 00:32:34,196
+Brian fought and defeated Reaver and his mercenary
+crew, passing his first challenge as a hero.
+
+346
+00:32:34,617 --> 00:32:39,200
+He would go on to fight other threats to Great
+Britain, including Lord Hawk, the Black Baron,
+
+347
+00:32:39,460 --> 00:32:43,963
+and the Lurker from Loch Ness. He partnered
+with other heroes such as Captain America to
+
+348
+00:32:44,003 --> 00:32:48,925
+defeat the Red Skull who had come to Great Britain.
+During a flight over the English Channel, Brian
+
+349
+00:32:48,945 --> 00:32:53,947
+was attacked by Merlin's foes, the Nether Gods,
+who forced his plane to crash into the water.
+
+350
+00:32:54,408 --> 00:32:59,290
+He washed ashore on Cornwall Beach, where the
+hero known as the Black Knight discovered him,
+
+351
+00:32:59,710 --> 00:33:04,953
+and the two traveled to Camelot in Avalon, where
+together they saved King Arthur's former kingdom
+
+352
+00:33:05,013 --> 00:33:09,823
+from the evil wizard Mordred. After returning
+back to Earth, Brian's abilities were altered
+
+353
+00:33:09,843 --> 00:33:14,965
+by Merlin so that the magic power of his amulet
+and scepter were imbued into Brian himself,
+
+354
+00:33:15,305 --> 00:33:20,167
+letting him use his powers without the need
+of magic artifacts. At one point, he gave up
+
+355
+00:33:20,207 --> 00:33:24,809
+his Captain Britton mantle and passed it on
+to his sister Betsy, who at the time had not
+
+356
+00:33:24,849 --> 00:33:30,131
+yet joined the X-Men and was not quite ready
+for the task. She nearly died in battle with
+
+357
+00:33:30,171 --> 00:33:35,553
+an assassin called Slamaster, forcing Brian
+to kill the villain. He resumed his mantle
+
+358
+00:33:35,653 --> 00:33:40,175
+as Captain Britton. and his sister soon joined
+the X-Men, where she became the quintessential
+
+359
+00:33:40,196 --> 00:33:46,599
+hero, Psylocke. When several of the X-Men, including
+Psylocke, apparently died, Brian was distraught
+
+360
+00:33:46,779 --> 00:33:52,743
+and was inspired by Nightcrawler to form a British
+mutant team called Excalibur. The initial Excalibur
+
+361
+00:33:52,783 --> 00:33:59,387
+team consisted of Captain Britain, Nightcrawler,
+the mutant Kitty Pride aka Shadowcat, Brian's
+
+362
+00:33:59,447 --> 00:34:05,350
+lover Megan, who was a mutant shapeshifter descended
+from mythical fairies, and an alternate universe
+
+363
+00:34:05,370 --> 00:34:10,414
+version of Jean Grey and Cyclops' daughter from
+the Days of Future Past timeline called Rachel
+
+364
+00:34:10,454 --> 00:34:15,678
+Summers, who also went by Phoenix. Excalibur
+quickly became Britain's premier superhero
+
+365
+00:34:15,718 --> 00:34:21,562
+team. When they traveled to the US to aid the
+remaining X-Men against the Goblin Queen, Brian
+
+366
+00:34:21,602 --> 00:34:25,925
+learned that his powers were linked to the British
+Isles, and that the further he journeyed from
+
+367
+00:34:25,965 --> 00:34:31,269
+them, the more his powers waned. He was then
+given a new costume, which acted as a battery
+
+368
+00:34:31,309 --> 00:34:35,712
+of sorts, storing mystic energies from Great
+Britain so that he could more easily use his
+
+369
+00:34:35,752 --> 00:34:41,496
+powers away from his homeland. This inadvertently
+caused Brian to grow in size during a time
+
+370
+00:34:41,536 --> 00:34:47,140
+of cosmic convergence, when multiple realities
+aligned and Brian's suit absorbed the mystical
+
+371
+00:34:47,200 --> 00:34:52,984
+energy of a multitude of Great Britons. The
+Excalibur team used this excess energy to defeat
+
+372
+00:34:53,024 --> 00:34:58,928
+a wizard named Necrom, who tried to use the
+convergence to become omnipotent. Brian later
+
+373
+00:34:58,968 --> 00:35:03,711
+learned that his sister Betsy was alive. and
+that she had used one of Merlin's artifacts,
+
+374
+00:35:03,791 --> 00:35:09,534
+known as the Siege Paralys, to let her and several
+other X-Men escape death through a mystic portal.
+
+375
+00:35:09,994 --> 00:35:16,278
+Brian later married Megan in a ceremony in Avalon,
+and Excalibur disbanded. After being attacked
+
+376
+00:35:16,318 --> 00:35:20,440
+by warriors from Avalon, they journeyed to the
+realm where Brian received a message from his
+
+377
+00:35:20,480 --> 00:35:25,963
+father, Sir James, that as Captain Britain,
+Brian was the rightful heir of Otherworld,
+
+378
+00:35:26,324 --> 00:35:32,323
+which was a magic dimension that housed the
+realm of Avalon. Wielding the blade of Excalibur,
+
+379
+00:35:32,683 --> 00:35:37,587
+Brian and Megan ruled over Otherworld for a
+time, passing the Captain Britain mantle to
+
+380
+00:35:37,607 --> 00:35:42,691
+a British woman named Kelsey Lee, offering her,
+in a moment of near death, the choice between
+
+381
+00:35:42,711 --> 00:35:48,556
+the Sword of Might and the Amulet of Right.
+She chose the sword and served on the Avengers
+
+382
+00:35:48,696 --> 00:35:53,520
+until the team was disassembled by the Scarlet
+Witch in a fit of madness. Brian eventually
+
+383
+00:35:53,580 --> 00:35:56,763
+returned to Earth and formed a new Excalibur
+team.
+
+384
+00:35:59,938 --> 00:36:04,702
+They tried to invade Avalon through the Siege
+Perilous portal in order to control Earth's
+
+385
+00:36:04,742 --> 00:36:09,747
+magic. Brian and Excalibur fought and defeated
+the aliens, and went on to stop other threats
+
+386
+00:36:09,767 --> 00:36:14,211
+such as the vampire Lord Dracula, whom you can
+learn more about in his duel against Andrew
+
+387
+00:36:14,231 --> 00:36:19,476
+Bennett. Brian left Excalibur for a short stint,
+which at this point was rebranded as MI-13.
+
+388
+00:36:20,417 --> 00:36:25,421
+He joined the Avengers, and later, a secret
+group of influential heroes called the Illuminati.
+
+389
+00:36:25,858 --> 00:36:30,141
+When Captain America's history was rewritten
+by the reality warping Cosmic Cube so that
+
+390
+00:36:30,181 --> 00:36:35,345
+he was a secret member of Hydra, Captain Britain
+led a team of European heroes to fight against
+
+391
+00:36:35,385 --> 00:36:40,109
+Hydra's takeover of America. You can learn more
+about this event in our Commander Steel vs
+
+392
+00:36:40,169 --> 00:36:44,833
+Captain America duel episode. After the mutant
+population established their own nation on
+
+393
+00:36:44,853 --> 00:36:50,618
+the sentient island of Kakoa, Brian visited
+his sister Betsy, who at this point had resigned
+
+394
+00:36:50,678 --> 00:36:56,342
+the Psylocke identity to the Japanese assassin,
+Quanan. Together, Brian and Betsy journeyed
+
+395
+00:36:56,382 --> 00:37:01,825
+to Avalon, where Brian was put under a spell
+by the Arthurian sorceress Morgan Le Fay. Betsy
+
+396
+00:37:01,885 --> 00:37:06,928
+claimed her brother's amulet of right to reassume
+the Captain Britton mantle. She formed her
+
+397
+00:37:07,089 --> 00:37:12,572
+own version of the Excalibur team and defeated
+Morgan Le Fay, leaving Brian to claim the Sword
+
+398
+00:37:12,612 --> 00:37:19,316
+of Might, and he took on the new title of Captain
+Avalon, his current moniker. I assume Betsy
+
+399
+00:37:19,396 --> 00:37:23,666
+is going to retain the title of Captain Britton
+from here on out. considering she can no longer
+
+400
+00:37:23,746 --> 00:37:28,987
+be Psylocke, and considering she's more popular
+than her brother, Brian. But since we've already
+
+401
+00:37:29,047 --> 00:37:34,109
+done a duel with Betsy slash Quanan as Psylocke
+against Gorilla Grodd, for this duel against
+
+402
+00:37:34,169 --> 00:37:39,550
+Uncle Sam, I'll be going with Brian as Captain
+Britain. Powers-wise, Captain Britain gains
+
+403
+00:37:39,570 --> 00:37:44,572
+his abilities from the magical energy stemming
+from the gateway to Avalon located in the British
+
+404
+00:37:44,772 --> 00:37:49,293
+Isles. Traditionally, that meant that the longer
+the time and distance he gets from Great Britain,
+
+405
+00:37:49,433 --> 00:37:53,784
+the weaker his power. However, this limitation
+has been resolved by the Lady of the Northern
+
+406
+00:37:53,844 --> 00:37:59,790
+Skies through the use of magic. Captain Britain
+has enough strength to lift around 100 tons.
+
+407
+00:37:59,870 --> 00:38:05,095
+He has enhanced agility and enhanced durability
+through a magic invisible force field that
+
+408
+00:38:05,155 --> 00:38:10,500
+encases his body. He occasionally projects this
+force field from his body as a ranged attack.
+
+409
+00:38:10,820 --> 00:38:16,325
+Captain Britain can fly up to sonic speeds and
+has enhanced hearing and telescopic sight.
+
+410
+00:38:16,846 --> 00:38:22,129
+Finally, he has a genius level intellect as
+an accomplished physicist and engineer. And
+
+411
+00:38:22,169 --> 00:38:27,413
+that's Captain Britain. I thought for some reason
+his power set was way different. I thought
+
+412
+00:38:27,433 --> 00:38:32,797
+he like shot lasers and stuff for some reason.
+No, you might be thinking of Vindicator, who's
+
+413
+00:38:32,837 --> 00:38:38,941
+like the Canadian version of Captain Britain.
+Oh, maybe. Yeah. Who the hell is Union Jack?
+
+414
+00:38:39,021 --> 00:38:44,045
+Isn't he a guy? Yeah, he's also a British hero,
+but he's not Captain Britain. They all look
+
+415
+00:38:44,065 --> 00:38:49,084
+alike. Well, I mean, yeah, they both wear the
+British flag, but you should try not to be
+
+416
+00:38:49,124 --> 00:38:54,267
+racist. Freaking red coats. All of them. I don't
+think Uncle Sam would appreciate what you're
+
+417
+00:38:54,287 --> 00:38:59,089
+saying. Dude, Uncle Sam loves punching red coats.
+It's what he does.
+
+418
+00:39:06,478 --> 00:39:12,142
+Our fantasies collide and heroes clash. One
+Podcast Network rises above the rest. Prepare
+
+419
+00:39:12,162 --> 00:39:17,887
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+420
+00:39:17,947 --> 00:39:23,712
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+421
+00:39:24,252 --> 00:39:31,125
+Dynamic Duel, where comic- Smash every Tuesday,
+Max Destruction, where TV and action heroes
+
+422
+00:39:31,185 --> 00:39:37,489
+battle every Wednesday, and Sendro World, where
+anime champions clash every Thursday. Join
+
+423
+00:39:37,569 --> 00:39:42,272
+us as we speculate on the matches and, armed
+with the power of mathematical simulations,
+
+424
+00:39:42,492 --> 00:39:49,397
+discover who will emerge victorious. Visit dynamicpodcast.com
+where we settle the debate and settle the score.
+
+425
+00:39:53,718 --> 00:39:57,420
+Well now that we got their histories and abilities
+out of the way, let's speculate on how one
+
+426
+00:39:57,440 --> 00:40:03,244
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not the speculation,
+
+427
+00:40:03,404 --> 00:40:07,666
+but it's fun to imagine how the fight could
+play out. AJ and IK, what are the rules of
+
+428
+00:40:07,686 --> 00:40:12,609
+our speculation? Well I should say there are
+no rules, other than the characters have no
+
+429
+00:40:12,669 --> 00:40:17,251
+prior knowledge of the other going into the
+fight. All they are aware of starting out is
+
+430
+00:40:17,271 --> 00:40:21,862
+that the other character is a threat that needs
+to be eliminated. For the speculation... The
+
+431
+00:40:21,882 --> 00:40:26,945
+contestants will begin approximately 50 meters
+apart in a nondescript environment that will
+
+432
+00:40:26,965 --> 00:40:32,289
+have no bearing on the match itself, as no environmental
+statistics are considered in my simulations.
+
+433
+00:40:32,589 --> 00:40:37,752
+The contestants must earn victory on their own
+merit. Alright then, let's get into it. Uncle
+
+434
+00:40:37,792 --> 00:40:43,356
+Sam and Captain Britain meet on the battlefield.
+Who goes first? I'm going to say that Captain
+
+435
+00:40:43,396 --> 00:40:47,519
+Britain goes first because he can, you know,
+fly up to Sonic's speeds. So he's going to
+
+436
+00:40:47,559 --> 00:40:52,302
+start off by blitzing Uncle Sam and he's just
+going to rock that old man. with the massive
+
+437
+00:40:52,322 --> 00:41:00,504
+haymaker. Elder abuse. Actually, I don't think
+Uncle Sam is that old. I think he just has
+
+438
+00:41:00,604 --> 00:41:05,006
+white hair, but I think he's actually like a
+middle-aged man. But anyway, Uncle Sam, you
+
+439
+00:41:05,026 --> 00:41:09,867
+know, he gets knocked down, but he's gonna get
+back on his feet. He's gonna dust himself off
+
+440
+00:41:10,407 --> 00:41:15,249
+and roll up his sleeves. And he's gonna be like,
+all you've done is awaken a sleeping giant
+
+441
+00:41:15,649 --> 00:41:21,243
+and he's going to grow. into his giant size
+right away and grab Captain Britain like he's
+
+442
+00:41:21,263 --> 00:41:27,526
+an action figure and just crush him in his grasp.
+He'll try to crush him in his grasp, but Captain
+
+443
+00:41:27,546 --> 00:41:32,167
+Britain's force field is gonna keep him from
+getting crushed. So he's gonna slip out of
+
+444
+00:41:32,388 --> 00:41:38,490
+Uncle Sam's grasp and then he's gonna fly over
+his head and Captain Britain's gonna grab Uncle
+
+445
+00:41:38,530 --> 00:41:44,593
+Sam by his back collar and he's gonna flip this
+geezer right onto his ass with a big ol' massive
+
+446
+00:41:44,633 --> 00:41:51,144
+crash. Okay, but From the ground, Uncle Sam's
+gonna swat at Captain Britain with his top
+
+447
+00:41:51,184 --> 00:41:57,287
+hat and actually he's gonna trap him in it.
+And Uncle Sam's like, all men are created equal,
+
+448
+00:41:57,667 --> 00:42:03,090
+except for you, pipsqueak. And he's just gonna
+throw his hat on the floor and just stomp on
+
+449
+00:42:03,130 --> 00:42:09,494
+it, just crushing Captain Britain beneath his
+boot. Oh, wow. Oh, geez. All right. But Captain
+
+450
+00:42:09,514 --> 00:42:15,057
+Britain is strong enough to burst out of this
+hat and he's gonna catch Uncle Sam's boot as
+
+451
+00:42:15,097 --> 00:42:20,244
+it's trying to stomp on him. And then he's gonna
+like Mario 64 him. He's gonna swing him around
+
+452
+00:42:20,284 --> 00:42:24,907
+and around and around by the leg. And he's just
+gonna release him, which is gonna send Uncle
+
+453
+00:42:24,927 --> 00:42:30,091
+Sam tumbling across the battlefield. And that'll
+probably cause him to shrink back down to his
+
+454
+00:42:30,131 --> 00:42:35,415
+normal size. And that is when Captain Britain's
+gonna follow up and fly over to Uncle Sam,
+
+455
+00:42:35,455 --> 00:42:40,138
+who's on the ground, and he's gonna teabag him.
+Just like dunk his nuts right on his face repeatedly.
+
+456
+00:42:40,638 --> 00:42:46,738
+And he's gonna be like, tea time, tea time.
+Uncle Sam's gonna be like... No taxation without
+
+457
+00:42:46,778 --> 00:42:52,399
+representation, bitch. And he's going to grab
+Captain Britain by his nuts and just throw
+
+458
+00:42:52,419 --> 00:43:00,802
+him into the harbor. Harbor? What harbor? The
+the Boston Habba. Duh. There's no environment
+
+459
+00:43:00,822 --> 00:43:04,483
+here. I don't know what you're talking about.
+Captain Britain gets thrown by his sack, but
+
+460
+00:43:04,683 --> 00:43:08,624
+he's going to land on the ground. Probably feeling
+a little bit sick to his stomach. You know,
+
+461
+00:43:08,664 --> 00:43:12,325
+probably feels like he's going to puke. Yeah.
+And while Captain Britain is recovering, that's
+
+462
+00:43:12,365 --> 00:43:17,447
+when Uncle Sam. is gonna run up to him and just
+start pounding him with his fists, yelling,
+
+463
+00:43:17,667 --> 00:43:23,930
+for life, liberty, and the pursuit of kicking
+your ass! Boom! Captain Britain is knocked
+
+464
+00:43:24,050 --> 00:43:29,793
+out. No, because before Uncle Sam can knock
+Captain Britain out, he's gonna project his
+
+465
+00:43:29,853 --> 00:43:35,496
+force field as a projectile. It's gonna blast
+Uncle Sam away, and then Captain Britain's
+
+466
+00:43:35,516 --> 00:43:41,579
+gonna follow that up with a flying kick to Uncle
+Sam's dumb goatee. Actually, Captain Britain,
+
+467
+00:43:41,719 --> 00:43:45,661
+he's just going to fly and kick straight into
+the heartland because Uncle Sam's going to
+
+468
+00:43:45,701 --> 00:43:52,165
+generate this swirling red, white and blue portal
+that Captain Britain just essentially falls
+
+469
+00:43:52,245 --> 00:43:58,909
+into. So now they're both in Uncle Sam's dimension,
+this like idealized Norman Rockwell-esque farm
+
+470
+00:43:58,929 --> 00:44:05,073
+with like bald eagles in the sky. But in this
+world, Uncle Sam, he has some degree of reality
+
+471
+00:44:05,113 --> 00:44:11,461
+manipulation. So he's gonna summon like a whole
+bunch of firework explosions that just blast
+
+472
+00:44:11,501 --> 00:44:19,026
+Captain Britain. He's like, give me liberty
+or I'll give you death. Is he speaking quotes
+
+473
+00:44:19,046 --> 00:44:26,151
+like that? Sometimes. Alright, so Captain Britain
+is getting blasted by these fireworks, but
+
+474
+00:44:26,191 --> 00:44:32,735
+to avoid them, he's gonna use the Siege Perilous
+artifact from Merlin to transport himself and
+
+475
+00:44:32,916 --> 00:44:38,763
+Uncle Sam to the realm of Avalon. And once they're
+there, the lady of the lake, she's going to
+
+476
+00:44:38,783 --> 00:44:43,286
+throw the sort of might to Captain Britain.
+He's going to catch it and then run the blade
+
+477
+00:44:43,706 --> 00:44:49,049
+right through Uncle Sam's torso, just impaling
+him and ending the match. Wait, so the Siege
+
+478
+00:44:49,109 --> 00:44:56,074
+Perlis is an artifact? Yeah, yeah, it's like
+a brooch that grows to become a doorway. Yeah,
+
+479
+00:44:56,154 --> 00:45:00,957
+and Eagle snatches it from Captain Britain before
+he could even use it. So what? The match was
+
+480
+00:45:00,997 --> 00:45:04,786
+already over. I don't know what to tell you.
+Well, if the eagle snatches it before they
+
+481
+00:45:04,806 --> 00:45:10,568
+can transport to Avalon, then that means that
+this eagle just exploded in the fireworks as
+
+482
+00:45:10,588 --> 00:45:15,669
+they're going off. Hey, that eagle died for
+his country, sir. That eagle is a patriot.
+
+483
+00:45:16,109 --> 00:45:19,831
+I'm going to say that the actually the eagle
+died from the firework explosions before it
+
+484
+00:45:19,851 --> 00:45:25,432
+could snatch the siege perilous. So, yeah, Captain
+Britain wins. He takes them both to Avalon
+
+485
+00:45:25,812 --> 00:45:31,382
+and then Uncle Sam gets impaled. OK, I guess
+we'll leave the match there. Either Uncle Sam
+
+486
+00:45:31,422 --> 00:45:37,026
+gets impaled by the Sword of Might in Avalon,
+or Captain Brain gets bombed by a whole bunch
+
+487
+00:45:37,066 --> 00:45:41,388
+of fireworks in the Heartland. Let's go ahead
+and input the character stats, run the simulations,
+
+488
+00:45:41,468 --> 00:45:47,292
+and find out which of these events happens when
+we come back with a winner. AJ9K, hit it! Inputting
+
+489
+00:45:47,332 --> 00:45:53,635
+data. Running calculations. Processing results.
+Simulations complete. Alright this was a pretty
+
+490
+00:45:53,655 --> 00:45:56,917
+close match, you know, considering that neither
+of us really knew much about the other character.
+
+491
+00:45:57,430 --> 00:46:01,433
+but the executive producers picked this one
+out and I think it was a good call. Yeah, I
+
+492
+00:46:01,473 --> 00:46:05,236
+mean, powers wise, they were pretty similar
+and that, you know, they're both really strong
+
+493
+00:46:05,276 --> 00:46:11,601
+and they could even teleport to like other fantastical
+realms, that's crazy. But stat wise, they were
+
+494
+00:46:11,762 --> 00:46:16,225
+similar as well. Yeah, we said they had about
+the same fighting skill and versatility, but
+
+495
+00:46:16,245 --> 00:46:24,119
+we said Uncle Sam is faster, more durable, stronger.
+and capable of more damage and also greater
+
+496
+00:46:24,159 --> 00:46:29,522
+perception because he has like limited omniscience
+over the country. Right, exactly. We also said
+
+497
+00:46:29,582 --> 00:46:35,726
+Captain Britton was more evasive. He had a greater
+range because Uncle Sam has no projectile attacks
+
+498
+00:46:35,766 --> 00:46:41,689
+basically. And surprisingly, Captain Britton
+was more intelligent than Uncle Sam. So taking
+
+499
+00:46:41,829 --> 00:46:46,992
+all of the stats into consideration, Joseph,
+who do you think came out on top? I think that
+
+500
+00:46:47,032 --> 00:46:51,887
+this is the day Britton finally wins. I think
+they're going to get their sweet revenge for
+
+501
+00:46:52,108 --> 00:46:58,833
+what happened all those centuries ago. And America's
+going down. Why do you hate America, sir? I
+
+502
+00:46:58,873 --> 00:47:04,257
+don't hate America, but I do love Marvel. And
+Marvel has Captain Britain, who I'm representing
+
+503
+00:47:04,317 --> 00:47:09,221
+in this match. You're a traitor to your country?
+Well, I mean, I'm not the only one who thinks
+
+504
+00:47:09,261 --> 00:47:14,065
+that Captain Britain will win because according
+to the Instagram poll results, it's an even
+
+505
+00:47:14,105 --> 00:47:19,777
+split 50-50. That's only because I put the poll
+up late because we're recording a little bit
+
+506
+00:47:19,917 --> 00:47:28,183
+early and not enough Americans have seen the
+poll yet. But let's find out who won. AG9K,
+
+507
+00:47:28,203 --> 00:47:36,829
+the results please. Hey Yuasa. The winner of
+the matchup between Uncle Sam and Captain Britain
+
+508
+00:47:37,910 --> 00:47:45,231
+is... Uncle Sam, bitch! We lost again. Dude,
+you're American. What are you talking about?
+
+509
+00:47:45,851 --> 00:47:54,158
+Uncle Sam won 546 out of the 1000 matches or
+54.6% of the time compared to Captain Britain,
+
+510
+00:47:54,519 --> 00:48:00,984
+who won 45.4%. That's pretty close, though.
+It was close. Too close, if you ask me. You
+
+511
+00:48:01,004 --> 00:48:05,668
+don't think there's any bias at play here with
+having America win on the 4th of July, is there?
+
+512
+00:48:06,148 --> 00:48:11,913
+Well, I mean, unless AJ9K is biased, unless,
+you know, math is biased. I guess math just
+
+513
+00:48:11,953 --> 00:48:18,765
+loves America. And you know this is actually
+really fitting because this upcoming week I'm
+
+514
+00:48:18,825 --> 00:48:25,589
+traveling to our nation's capital Washington
+DC. I'm putting a new meaning to DC in Johnny
+
+515
+00:48:25,629 --> 00:48:30,511
+DC and I would have been really embarrassed
+if I had to show my face there with Captain
+
+516
+00:48:30,551 --> 00:48:34,574
+Britain winning. I mean you should probably
+never show your face anywhere if we're being
+
+517
+00:48:34,614 --> 00:48:40,037
+honest. Dude my face looks like your face. Ah
+shit that was a self burn wasn't it? I guess
+
+518
+00:48:40,057 --> 00:48:43,171
+that does it for this duel. AG9K, help close
+us out.
+
+519
+00:48:59,454 --> 00:49:05,197
+or by rating and reviewing Dynamic Duel on Apple
+Podcasts, Spotify, Podchaser, or on our website.
+
+520
+00:49:05,737 --> 00:49:09,940
+Don't forget to listen to the other shows in
+the DynaMic Podcast Network, including Max
+
+521
+00:49:09,980 --> 00:49:17,364
+Destruction, Senjo World, and Console Combat.
+In our next episode, we will be reviewing a
+
+522
+00:49:17,464 --> 00:49:22,927
+Marvel animated direct-to-video feature, Hulk
+Versus. Right, and the executive producers
+
+523
+00:49:22,987 --> 00:49:28,174
+chose that movie to review because it features
+a Wolverine versus Hulk fight and Wolverine
+
+524
+00:49:28,194 --> 00:49:33,018
+is going to be appearing in the Deadpool and
+Wolverine movie coming out at the end of this
+
+525
+00:49:33,058 --> 00:49:37,321
+month. So look forward to that. But that does
+it for this episode. We want to give a big
+
+526
+00:49:37,361 --> 00:49:42,304
+thanks to our executive producers, Ken Johnson,
+John Swarovski, Zachary Hepburn, Dustin Balcom,
+
+527
+00:49:42,444 --> 00:49:47,508
+Mickey Mathen-Geehan, Brandon Essergaard, Nathaniel
+Wagner, Levi Yeaton, Austin Wieselowski, AJ
+
+528
+00:49:47,528 --> 00:49:53,491
+Dunkerley, Scott Camacho, Gil Camacho. Adam
+Spies, Andrew Shunk, Dean Molesky, Devin Davis,
+
+529
+00:49:53,731 --> 00:49:59,054
+and Joseph Kirsting for helping make this podcast
+possible. We'll talk to you guys next week.
+
+530
+00:49:59,554 --> 00:50:01,235
+Up up and away, true believers.
+
