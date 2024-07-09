@@ -1,0 +1,2844 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,822 --> 00:00:30,164
+Dynamic duel Podcast, a weekly show where we
+review superhero films and debate the superiority
+
+3
+00:00:30,204 --> 00:00:35,466
+between Marvel and DC by comparing their characters
+in stat-based battle simulations. I'm Johnny
+
+4
+00:00:35,486 --> 00:00:41,068
+DC. And I'm his twin brother, Marvelous Joe.
+And in this episode, we were supposed to be
+
+5
+00:00:41,128 --> 00:00:48,471
+reviewing Hulk vs. but Marvel sucks and that's
+impossible to find on any streaming platform.
+
+6
+00:00:48,812 --> 00:00:54,702
+So we're changing it up. Instead, we will be
+doing a review of Green Lantern. first flight
+
+7
+00:00:55,162 --> 00:01:00,543
+a probably superior film even though I've never
+seen Hulk vs. Well, yeah, I was so surprised
+
+8
+00:01:00,563 --> 00:01:06,145
+that I couldn't find Hulk vs. anywhere to stream
+that wasn't like a skeezy torrent or streaming
+
+9
+00:01:06,205 --> 00:01:11,386
+site. You know, the only way you can watch Hulk
+vs. right now legally is by buying the Blu-ray
+
+10
+00:01:11,406 --> 00:01:17,328
+or DVD, which I'm not going to do because I
+no longer have a Blu-ray or DVD player streaming
+
+11
+00:01:17,388 --> 00:01:21,209
+all the way. Same here, but that's probably
+toward detriment in cases like this. But it's
+
+12
+00:01:21,269 --> 00:01:25,550
+also not like, you know, The Hulk vs DVD is
+easy to buy, you just can't go to a store,
+
+13
+00:01:25,570 --> 00:01:29,952
+you have to like order it from Amazon or something
+and have it delivered. I guarantee you it's
+
+14
+00:01:30,012 --> 00:01:35,713
+in the DVD bin of my local Dollar General. I
+guarantee you, no one cares that much about
+
+15
+00:01:35,773 --> 00:01:40,435
+it. Our executive producers cared, but I think
+Green Lantern First Flight is an appropriate
+
+16
+00:01:40,455 --> 00:01:46,116
+substitute considering next week's episode is
+going to be Juggernaut vs Atrocitus. Atrocitus
+
+17
+00:01:46,136 --> 00:01:49,857
+is a Green Lantern villain, so this episode
+ties into that. Yeah, that's going to be a
+
+18
+00:01:49,897 --> 00:01:54,338
+fun episode. This film is actually pretty fun
+and we'll talk all about it later on in this
+
+19
+00:01:54,378 --> 00:01:58,300
+episode. Before that we're gonna break down
+the comic movie news from the past week of
+
+20
+00:01:58,360 --> 00:02:03,921
+which it's all DC news because Marvel's not
+doing shit right now. Oh we got Deadpool and
+
+21
+00:02:03,941 --> 00:02:07,962
+Wolverine coming up in a few weeks so yeah we
+got a lot going on. We're gonna talk about
+
+22
+00:02:08,062 --> 00:02:13,044
+Guy Gardner and Hawkgirl being revealed in Superman
+set photos. We're gonna be talking about the
+
+23
+00:02:13,104 --> 00:02:18,405
+Batman Ninja vs Yakuza League teaser trailer
+and we're gonna be talking about the Kite Man
+
+24
+00:02:18,465 --> 00:02:23,427
+Hell Yeah official trailer. As always, we list
+our segment times in our episode description,
+
+25
+00:02:23,467 --> 00:02:27,310
+so feel free to check out the show notes if
+you want to skip ahead to a particular topic.
+
+26
+00:02:27,770 --> 00:02:32,593
+Our artificially intelligent duel simulator
+AJ9K has a quick message for our listeners,
+
+27
+00:02:32,853 --> 00:02:39,417
+so listen up. Why, hello there. Do you want
+even more from this podcast? Then become a
+
+28
+00:02:39,457 --> 00:02:44,000
+part of the Dynamic duel community on Patreon,
+where you can choose from three tiers. The
+
+29
+00:02:44,040 --> 00:02:48,910
+Dynamic Duo tier gives you access to our Discord
+chat server. The Fantastic Four tier gives
+
+30
+00:02:48,930 --> 00:02:53,572
+you two bonus episodes each month, and the X-Force
+tier makes you an executive producer of this
+
+31
+00:02:53,592 --> 00:02:58,994
+show. Lastly, the Diner Mike Podcast Network
+tier lets you create your own podcast using
+
+32
+00:02:59,034 --> 00:03:03,596
+this Monte Carlo simulator. Johnny and Joe will
+help you develop your show, provide graphic
+
+33
+00:03:03,616 --> 00:03:08,958
+support and consultation, and get you simulation
+results. Pitch the twins your ideas via email
+
+34
+00:03:09,018 --> 00:03:18,683
+at dyna Check it out at patreon.com slash dynamicduel.
+Pip pip cheerio. Thanks AJ9K, and thanks to
+
+35
+00:03:18,743 --> 00:03:22,826
+everyone who supports the podcast. Be sure guys
+to tune into the other shows on the DynaMic
+
+36
+00:03:22,866 --> 00:03:27,750
+Podcast Network this week, including Max Destruction,
+which pits your favorite action heroes from
+
+37
+00:03:27,830 --> 00:03:32,734
+film and television against each other. This
+week, hosts Ken and Scottie are pitting Schwarzenegger's
+
+38
+00:03:32,814 --> 00:03:39,340
+Conan the Barbarian against King Leonidas from
+300. Yeah, that's going to be epic! Also tune
+
+39
+00:03:39,360 --> 00:03:43,703
+into the Send Your World podcast, where host
+Zachary Hepburn speculates on fights between
+
+40
+00:03:43,763 --> 00:03:49,491
+fan favorite anime and manga characters. The
+show is still on its season hiatus, but it's
+
+41
+00:03:49,531 --> 00:03:54,974
+coming back soon. So this is the perfect time
+to catch up on its 40 episode library. And
+
+42
+00:03:55,014 --> 00:03:59,517
+finally, on the console combat podcast hosts,
+John and Dean find out who would win in fights
+
+43
+00:03:59,537 --> 00:04:05,601
+between popular video game characters. In yesterday's
+episode, they reviewed the 90s Mortal Kombat
+
+44
+00:04:05,641 --> 00:04:11,004
+movie. So if you have nostalgia for that, definitely
+check that out. Visit dynamic podcasts dot
+
+45
+00:04:11,024 --> 00:04:15,962
+com or click the link in our show notes to listen
+to all of the shows. in the DynaMic Podcast
+
+46
+00:04:16,022 --> 00:04:22,664
+Network. But with that out of the way, quick
+to the No Prize! A No Prize is an award Marvel
+
+47
+00:04:22,724 --> 00:04:27,386
+used to give out to fans. Our version, the Dynamic
+duel No Prize, is a digital award we post on
+
+48
+00:04:27,486 --> 00:04:32,427
+Instagram for the person that we feel gave the
+best answer to our question of the week. Last
+
+49
+00:04:32,487 --> 00:04:37,649
+week, we asked you guys, who do you think is
+the mysterious man in black in the Superman
+
+50
+00:04:37,709 --> 00:04:42,315
+set photos and why? And this is coming off of
+the Superman movie that's currently filming,
+
+51
+00:04:42,476 --> 00:04:45,918
+and we got a look at a mysterious character
+all dressed in black, and thought it would
+
+52
+00:04:45,938 --> 00:04:49,841
+be fun for you guys to speculate on who it might
+be. Yeah, we got quite a few answers. We're
+
+53
+00:04:49,861 --> 00:04:54,644
+going to break down this week's honorable mentions
+before revealing the no-prize winner. Our first
+
+54
+00:04:54,684 --> 00:05:01,509
+honorable mention goes to Alex Albro, who said,
+Hey guys, it's Alex. I think the mysterious
+
+55
+00:05:01,549 --> 00:05:06,872
+man in black on the Superman set is really just
+the character of Neil Quinn, aka Ulythes, who
+
+56
+00:05:06,892 --> 00:05:10,802
+has some energy transference powers. Something
+about the last son of Earth and it's a whole
+
+57
+00:05:10,822 --> 00:05:15,405
+big metaphor for Superman being the last son
+of Krypton and they're gonna fight. And he's
+
+58
+00:05:15,445 --> 00:05:20,628
+just one of seemingly three enemies Superman's
+gonna have to face in this film. Thanks. Bye.
+
+59
+00:05:20,648 --> 00:05:25,951
+Yeah, so Ulysses is a fairly recent character
+in the Superman comics. He gets his powers
+
+60
+00:05:25,991 --> 00:05:31,214
+from the fourth dimension and he essentially
+has the same powers as Superman. What makes
+
+61
+00:05:31,274 --> 00:05:37,417
+this answer possible is that he, like the character
+that was seen in the set photos, has a U on
+
+62
+00:05:37,457 --> 00:05:43,385
+his costume. Yeah, and it's a black costume
+in the comics too. So this could be it. I don't
+
+63
+00:05:43,405 --> 00:05:48,449
+know much about the character. I would be kind
+of surprised if they were to introduce a character
+
+64
+00:05:48,509 --> 00:05:54,653
+that obscure into the Superman film, but you
+never know. The guy is wearing a mask. It could
+
+65
+00:05:54,733 --> 00:05:59,997
+literally be anybody. And this is as good a
+guess as any. So great answer, Alex. Our next
+
+66
+00:06:00,037 --> 00:06:05,101
+honorable mention goes to Buster Barnes. Who
+said? Hi guys, Buster Barnes here. Hope you're
+
+67
+00:06:05,141 --> 00:06:09,547
+doing well. I think the villain in the black
+outfit is going to be called Ultraman, however
+
+68
+00:06:09,587 --> 00:06:14,129
+not the usual iteration that we expect. Instead,
+I think it's going to be more like Superman
+
+69
+00:06:14,449 --> 00:06:19,231
+from the Red Sun movie where he is a clone created
+by Lex Luthor and or the government in which
+
+70
+00:06:19,271 --> 00:06:24,333
+he's going to be sent out to take down or potentially
+frame Superman. And then he is going to eventually
+
+71
+00:06:24,373 --> 00:06:29,736
+deteriorate into a bizarro-like villain for
+Superman's fight. Take care, guys. Love the
+
+72
+00:06:29,756 --> 00:06:34,902
+show. Right. So Buster is saying that the U
+probably stands for Ultraman. If you've listened
+
+73
+00:06:34,922 --> 00:06:41,143
+to the podcast a few months ago, we did a duel
+episode between Ultraman and Hyperion, so you'll
+
+74
+00:06:41,163 --> 00:06:45,665
+know all about him. Yeah, and if you've read
+the Red Sun miniseries or watched the Red Sun
+
+75
+00:06:45,825 --> 00:06:50,466
+animated movie adaptation, you'll know that
+there is a character in that story that's kind
+
+76
+00:06:50,486 --> 00:06:55,568
+of like an amalgam of Ultraman and Bizarro.
+Basically a clone that Lex Luthor created to
+
+77
+00:06:55,588 --> 00:07:00,569
+go up against the Russian version of Superman.
+So of course the speculation is that the masked
+
+78
+00:07:00,649 --> 00:07:06,487
+figure with the U on his chest is an evil version
+of Superman, which could make sense because
+
+79
+00:07:06,947 --> 00:07:12,448
+Lex Luthor is the one who created Superior Man
+in the comics, and he also created Bizarro
+
+80
+00:07:12,468 --> 00:07:17,550
+in the comics as well. And since Lex Luthor
+is in the movie, why not have him create an
+
+81
+00:07:17,710 --> 00:07:23,712
+evil Superman clone, who he would call Ultraman?
+Great answer Buster, our final honorable mention
+
+82
+00:07:23,772 --> 00:07:30,622
+goes to Jacob Foster, who said, What if it's
+unknown soldier? I mean, He was based back
+
+83
+00:07:30,722 --> 00:07:35,466
+out in World War II, Creature Commandos were
+back in World War II. James Gunn even said
+
+84
+00:07:35,506 --> 00:07:41,110
+Creature Commandos was the start of the DC,
+of his universe at least. Rick Clark Sr. is
+
+85
+00:07:41,170 --> 00:07:46,894
+in Creature Commandos, Rick Clark Sr. is in
+Superman. I wanna say that it's a re-adaptation
+
+86
+00:07:46,934 --> 00:07:53,486
+kind of the Unknown Soldier, like just a little
+bit of a costume change. The Unknown Soldier
+
+87
+00:07:53,647 --> 00:07:59,131
+is a character in DC Comics who was essentially
+a World War II veteran who suffers from amnesia
+
+88
+00:07:59,151 --> 00:08:04,796
+and no longer remembers who he is. He does wear
+a full face mask and is a master of disguise.
+
+89
+00:08:05,036 --> 00:08:09,420
+Of course all of the set photos that we've seen
+this mysterious figure in has him associated
+
+90
+00:08:09,440 --> 00:08:14,804
+with the military, which could mean that yeah,
+maybe he's the Unknown Soldier. Just like a
+
+91
+00:08:14,884 --> 00:08:19,348
+modern take on the character. Yeah, I'm not
+sure I follow Jacob's line of reasoning that
+
+92
+00:08:19,368 --> 00:08:24,971
+just because Rick Flagg is in the creature commandos
+and this movie. That means that this guy could
+
+93
+00:08:24,991 --> 00:08:29,212
+be unknown soldier because he was also in World
+War two with the creature commandos. But why
+
+94
+00:08:29,252 --> 00:08:34,093
+not? Sure. It could all work out that way. We
+want to give a quick shout out to Brandon Estregard
+
+95
+00:08:34,233 --> 00:08:38,774
+and Daniel Alonso, who also called in with their
+answers. Thank you guys so much for taking
+
+96
+00:08:38,814 --> 00:08:43,976
+the time to do that. Daniel, your suggestion
+that it was Night Monkey is, I think, spot
+
+97
+00:08:44,116 --> 00:08:52,326
+on. But the winner of this week's no prize is
+Hey what's up guys it's Miggy and I think the
+
+98
+00:08:52,366 --> 00:08:59,510
+guy in the stuff photos isn't Ultraman or Ulysses
+like people are thinking because it's kind
+
+99
+00:08:59,530 --> 00:09:05,694
+of weird to have another reverse Superman and
+Gunn has said that it's not a big spoiler that
+
+100
+00:09:05,734 --> 00:09:11,337
+he's been filming out in public so I think it's
+an Ultramarine core, a super obscure character
+
+101
+00:09:11,397 --> 00:09:16,500
+just another like military henchman type. Also
+pretty excited about the terrifics in the first
+
+102
+00:09:16,540 --> 00:09:22,118
+look of Hawkgirl and Guy Gardner. Thanks guys.
+So the Ultramarine Corps was actually a super
+
+103
+00:09:22,158 --> 00:09:28,641
+team, not a specific character within DC Comics
+that was put together by General Wade Eiling.
+
+104
+00:09:28,801 --> 00:09:34,863
+Although I think Miggy's suggesting that instead
+of being a ragtag team of C-list characters,
+
+105
+00:09:35,243 --> 00:09:39,944
+the Ultramarine Corps could be just generic
+super soldier types. And this figure dressed
+
+106
+00:09:39,964 --> 00:09:43,926
+in black is just one of those. Yeah, I could
+totally see that being the case. I don't think
+
+107
+00:09:43,966 --> 00:09:48,990
+the figure needs to be some superpowered individuel.
+I just think it needs to be an elite soldier
+
+108
+00:09:49,030 --> 00:09:54,175
+of sorts that maybe in this film was not put
+together by Wade Eiland, but maybe by Lois
+
+109
+00:09:54,195 --> 00:09:59,459
+Lane's father, Sam Lane in conjunction with
+Lex Corp or something like that. Yeah, yeah,
+
+110
+00:09:59,519 --> 00:10:04,163
+it's possible. I don't think it's anyone special
+when it comes down to it. I don't really want
+
+111
+00:10:04,223 --> 00:10:08,987
+it to be any kind of Superman knockoff character
+because I really want to focus on Lex Luther
+
+112
+00:10:09,067 --> 00:10:13,476
+as the villain. And that's why Miggie gets the
+win. So great answer, Miggy, you win this week's
+
+113
+00:10:13,516 --> 00:10:18,001
+No Prize. If you the listener want a shot at
+winning your own No Prize, stay tuned to later
+
+114
+00:10:18,061 --> 00:10:22,767
+on in this episode when we will be asking another
+Question of the Week. And now that that's done,
+
+115
+00:10:23,388 --> 00:10:24,209
+onto the news.
+
+116
+00:10:29,678 --> 00:10:36,063
+Okay, so these past two weeks we have been fortunate
+enough to receive a ton of set photos from
+
+117
+00:10:36,103 --> 00:10:41,828
+the outdoor filming of the upcoming Superman
+film directed by James Gunn. In our last episode
+
+118
+00:10:41,848 --> 00:10:47,672
+we talked about the first look of the full suits
+for Superman and Mr. Terrific. This week we
+
+119
+00:10:47,692 --> 00:10:52,717
+got our first looks at the suits for Guy Gardner,
+the Green Lantern played by Nathan Fillion
+
+120
+00:10:52,997 --> 00:10:58,541
+and Hawk Girl played by Isabella Merced. Now
+right off the bat, pretty much everyone noticed
+
+121
+00:10:58,858 --> 00:11:05,162
+that both Hawkeye Girl and Guy Garner were wearing
+uniforms very similar to that worn by Mr. Terrific.
+
+122
+00:11:05,302 --> 00:11:10,406
+And it looks like these are uniforms worn by
+a super team sponsored by Maxwell Lord and
+
+123
+00:11:10,446 --> 00:11:16,270
+his business known as Lord Tech. Which is really
+interesting. It definitely leans more towards
+
+124
+00:11:16,290 --> 00:11:21,414
+like a Justice League international team from
+the comics, which was sponsored by Maxwell
+
+125
+00:11:21,454 --> 00:11:25,056
+Lord. Now, I don't know if they're going to
+be referred to as the Justice League in this
+
+126
+00:11:25,096 --> 00:11:31,075
+film or maybe the Terrifics. which was a team
+from the comic books led by Mr. Terrific. But
+
+127
+00:11:31,295 --> 00:11:35,997
+I do think it's interesting that they're going
+this sort of corporate sponsored route. Well,
+
+128
+00:11:36,037 --> 00:11:41,179
+it provides a nice contrast for the type of
+hero that Superman is. You know, Superman being
+
+129
+00:11:41,720 --> 00:11:46,162
+a guy who does what's right for the sake of
+what's good and right. Right, yeah, he has
+
+130
+00:11:46,182 --> 00:11:51,904
+a sense of duty as compared to a corporate sponsored
+team, which may be doing it maybe somewhat
+
+131
+00:11:51,924 --> 00:11:56,538
+for the duty, but also maybe for, you know,
+the money and perks. Now a lot of people are
+
+132
+00:11:56,578 --> 00:12:01,842
+dishing out a lot of flack for these outfits
+considering the fact that they're not entirely
+
+133
+00:12:01,902 --> 00:12:06,705
+comics accurate. Guy Garner definitely doesn't
+have a lot of green on his costume and Hawkgirl
+
+134
+00:12:06,985 --> 00:12:11,909
+traditionally wears armor. Yeah, the CW did
+it better for her costume, gotta say. Maybe.
+
+135
+00:12:12,089 --> 00:12:17,153
+I do like her helmet. And Guy Garner's, you
+know, bowl cut is definitely in keeping with
+
+136
+00:12:17,193 --> 00:12:22,396
+the ridiculousness of the character's look in
+the comics. And while I do wish that both he
+
+137
+00:12:22,497 --> 00:12:28,255
+and Hawkgirl were... more comics accurate in
+regards to their looks. I also don't hate the
+
+138
+00:12:28,315 --> 00:12:34,937
+idea story wise of a team that wears the same
+uniform, almost sort of like the X-Men in the
+
+139
+00:12:34,997 --> 00:12:39,758
+first X-Men movie, how they wore all black leather.
+This at least is a little bit more colorful
+
+140
+00:12:40,078 --> 00:12:45,120
+and it still has like their brand logo insignias
+on their uniforms. I mean, story reasoning
+
+141
+00:12:45,180 --> 00:12:50,081
+aside, I think the costume choices here were
+made to the detriment of character recognition.
+
+142
+00:12:50,666 --> 00:12:54,569
+I mean, this is the first look that we're ever
+going to get at the Green Lantern core within
+
+143
+00:12:54,629 --> 00:13:00,294
+James Gunn's new DCU. And I don't think it quite
+services Green Lantern well enough. Same thing
+
+144
+00:13:00,314 --> 00:13:04,517
+with Hawk Girl. I think you're going to run
+into like a brand issue at that point almost,
+
+145
+00:13:04,718 --> 00:13:08,901
+because most people are going to associate the
+characters within this new universe with this
+
+146
+00:13:08,961 --> 00:13:14,566
+new look. Well, I mean, in regards to Guy Gardner's
+look specifically, he wears a jacket in the
+
+147
+00:13:14,606 --> 00:13:19,598
+comics. So I think, you know, just a color swap
+on his pants and the jacket. would make him
+
+148
+00:13:19,658 --> 00:13:26,781
+fit right into the upcoming Lantern show. If
+all of them wore leather uniforms, I also wouldn't
+
+149
+00:13:26,821 --> 00:13:31,523
+hate that. It's kind of like Guardians of the
+Galaxy, like the Nova Corps in a way. I don't
+
+150
+00:13:31,543 --> 00:13:37,025
+think they need to be CG energy costumes like
+they were in the Ryan Reynolds film. You mentioned
+
+151
+00:13:37,045 --> 00:13:41,947
+the X-Men earlier. I think that's a fair comparison.
+And we've seen what happens when you don't
+
+152
+00:13:41,987 --> 00:13:45,748
+put the characters in the proper costumes right
+away. And sometimes you have to wait 20 plus
+
+153
+00:13:45,768 --> 00:13:51,270
+years to finally see them in their comics accurate
+outfit. Oh, you mean like Wolverine? Yeah.
+
+154
+00:13:52,410 --> 00:13:57,012
+Yeah, you know, that's a fair criticism. But
+I also think that if this team is going up
+
+155
+00:13:57,052 --> 00:14:02,353
+against Superman in this movie, the team is
+probably going to disband by the end of it.
+
+156
+00:14:02,573 --> 00:14:07,074
+And I think it's probably fair that they'll
+probably have more comics accurate looks the
+
+157
+00:14:07,094 --> 00:14:11,536
+next time we see them on screen. That's just
+wishful thinking. Yeah. Of course, the one
+
+158
+00:14:11,576 --> 00:14:15,637
+character that we know is in this film that
+has not been seen in the set photos, who is
+
+159
+00:14:15,697 --> 00:14:20,978
+also a member of the terrific in the comics.
+is Metamorpho, who we know is going to be played
+
+160
+00:14:21,018 --> 00:14:26,920
+by Anthony Carrigan. There was a guy in a blue
+motion capture suit spotted on set, so that
+
+161
+00:14:26,960 --> 00:14:31,941
+may have been him. He might be an all CGI character,
+which would make sense for the character, since,
+
+162
+00:14:32,021 --> 00:14:36,062
+you know, he's made up of gases and minerals
+and stuff like that. I don't know if that's
+
+163
+00:14:36,102 --> 00:14:40,704
+a motion capture suit or just like a blue screen
+suit to make the character invisible later
+
+164
+00:14:40,844 --> 00:14:45,925
+on. It could be a reference point. I have no
+idea how special effects work, but of all of
+
+165
+00:14:45,965 --> 00:14:51,123
+the characters to not be in uniform. he kind
+of makes the most sense. But yeah, that's really
+
+166
+00:14:51,183 --> 00:14:55,686
+it. I thought the looks were pretty interesting
+and I can't wait to see more official looks,
+
+167
+00:14:55,806 --> 00:15:00,248
+maybe something that includes Hawker Girls wings
+around Comic-Con, I imagine, which is just
+
+168
+00:15:00,288 --> 00:15:07,072
+in a few weeks. In other DC news, we got our
+first 30 second teaser trailer for the sequel
+
+169
+00:15:07,112 --> 00:15:12,395
+to the animated film, Batman Ninja. This time
+it's called Batman Ninja versus Yakuza League,
+
+170
+00:15:12,695 --> 00:15:17,550
+which looks like it's gonna be Jessica Cruz,
+the Green Lantern, the Flash, Aquaman, and
+
+171
+00:15:17,630 --> 00:15:23,175
+Wonder Woman so far. I would be really surprised
+if Superman didn't make his way in there somehow.
+
+172
+00:15:23,695 --> 00:15:28,600
+But so far from what we've seen of these Justice
+League characters in these feudal Japanese
+
+173
+00:15:28,620 --> 00:15:33,424
+designs, I cannot wait for this movie because
+it looks like it's gonna be really fun to watch.
+
+174
+00:15:33,965 --> 00:15:38,228
+Yeah, well, part of the appeal of the first
+Batman Ninja movie was to see a bunch of Batman's
+
+175
+00:15:38,369 --> 00:15:43,391
+rogues gallery. reinterpreted in these feudal
+Japanese designs. And it's cool to see that
+
+176
+00:15:43,431 --> 00:15:47,652
+carried over to the Justice League for this
+film. It appears that maybe Batman's actions
+
+177
+00:15:47,772 --> 00:15:52,853
+in the past influenced present day Japan because
+it looks like this movie is taking place in
+
+178
+00:15:52,933 --> 00:15:58,215
+modern Tokyo, although with a very heavy feudal
+Japanese approach. Yeah, which is kind of awesome.
+
+179
+00:15:58,515 --> 00:16:03,996
+I think that's a really cool setting and approach
+to a sequel. I love the looks for Green Lantern,
+
+180
+00:16:04,076 --> 00:16:08,377
+Aquaman and Wonder Woman. I think they look
+really cool. The one I don't love though is
+
+181
+00:16:08,397 --> 00:16:12,392
+the flash. The hat just doesn't make sense to
+me. You know, if you're running, the thing's
+
+182
+00:16:12,452 --> 00:16:18,277
+gonna fly off. But I'm really curious to see
+Superman and any other Justice Leagueers that
+
+183
+00:16:18,317 --> 00:16:22,981
+make an appearance. It does look like Damien
+Wayne is going to be his sidekick for this
+
+184
+00:16:23,041 --> 00:16:27,785
+movie as Robin, and he was in the first movie
+as well. Although I do miss the lone wolf and
+
+185
+00:16:27,825 --> 00:16:33,630
+cub inspired haircut for him. Well, it's present
+day Japan now, so you gotta modernize it. That's
+
+186
+00:16:33,670 --> 00:16:38,311
+fair. Another thing I love the design of is
+the logo for this film. It's the word ninja
+
+187
+00:16:38,511 --> 00:16:44,213
+and the shape of the Batman logo. I want to
+get that tattooed on my face. I'm wondering
+
+188
+00:16:44,233 --> 00:16:48,394
+though, since Batman's going up against the
+Yakuza League, does that mean that the Justice
+
+189
+00:16:48,434 --> 00:16:54,055
+League are evil? Yeah, I think that's a fair
+assumption here. They're organized crime. And
+
+190
+00:16:54,075 --> 00:16:57,736
+they're going to be turned good by the end,
+maybe? It's weird to see the characters as
+
+191
+00:16:57,776 --> 00:17:03,443
+villains. That's a good question. Yeah, maybe
+he has to go back in time. to fix whatever
+
+192
+00:17:03,543 --> 00:17:10,628
+got messed up in the past and the league follows
+him. I have no idea. We don't have a release
+
+193
+00:17:10,688 --> 00:17:15,152
+date for this film just yet. We just know that
+it's coming out soon and I can't wait to learn
+
+194
+00:17:15,212 --> 00:17:19,776
+more about it. Again, hopefully during Comic-Con.
+I expect all of my answers to all of my questions
+
+195
+00:17:19,816 --> 00:17:26,441
+to be revealed at Comic-Con. That never happens.
+I know. I just realized now that I'm visiting
+
+196
+00:17:26,521 --> 00:17:31,665
+the official Batman Ninja website. You know
+what they're going for with the Flash's hat?
+
+197
+00:17:31,982 --> 00:17:38,068
+They're going for a Jay Garrick's helmet homage.
+Oh, OK. I see. I was thinking Raiden for some
+
+198
+00:17:38,108 --> 00:17:41,372
+reason. I don't know what the lightning. No,
+because the hat definitely has wings on it.
+
+199
+00:17:41,632 --> 00:17:45,897
+You know, got you. Makes sense. I loved the
+first movie. I can't wait for this movie. I
+
+200
+00:17:45,937 --> 00:17:49,041
+love the concept. And that brings us to our
+question of the week.
+
+201
+00:17:53,590 --> 00:18:00,655
+What other Marvel or DC character would you
+like to see get a cultural reimagining for
+
+202
+00:18:00,695 --> 00:18:06,099
+a one-off special? Right, similar to Spider-Man
+India or like, I don't know, the upcoming Aztec
+
+203
+00:18:06,139 --> 00:18:11,564
+Batman, things like that. What culture, what
+hero? Describe your reimagining. Record your
+
+204
+00:18:11,604 --> 00:18:15,687
+answer at dynamicduel.com by clicking on the
+red microphone button in the bottom right-hand
+
+205
+00:18:15,747 --> 00:18:19,714
+corner of the screen, which will prompt you
+to leave us a voicemail. Your message could
+
+206
+00:18:19,734 --> 00:18:23,915
+be up to 30 seconds long, and don't forget to
+leave your name in case we include you on the
+
+207
+00:18:23,936 --> 00:18:28,938
+podcast. We'll pick our favorite answer and
+award that person a dynamic duel note prize
+
+208
+00:18:28,958 --> 00:18:35,780
+that we'll post to Instagram. Be sure to answer
+before July 13th. In our final bit of DC news,
+
+209
+00:18:35,900 --> 00:18:41,523
+we got an official trailer for the upcoming
+Kite Man Hell Yeah animated series. Of course,
+
+210
+00:18:41,563 --> 00:18:47,365
+this is a spin off of the Harley Quinn animated
+series, and a lot of characters are seemingly
+
+211
+00:18:47,405 --> 00:18:53,368
+making a return. for this one. Which makes me
+wonder why this couldn't just be a subplot
+
+212
+00:18:53,448 --> 00:18:58,710
+for the upcoming season of Harley Quinn, but
+I hope it's just as funny as the Harley Quinn
+
+213
+00:18:58,730 --> 00:19:03,052
+show. I mean, this is the series that no one
+asked for, right? No one asked for a Kite Man
+
+214
+00:19:03,092 --> 00:19:06,893
+series. I don't know what they're doing. I know
+that we have to review this, but I'll say that
+
+215
+00:19:06,933 --> 00:19:11,215
+I'm not looking forward to it despite the fact
+that yeah, Harley Quinn is hilarious, Kite
+
+216
+00:19:11,235 --> 00:19:15,177
+Man the character is hilarious. I just think
+there's no demand and nobody's gonna really
+
+217
+00:19:15,237 --> 00:19:19,866
+watch this in my opinion. Dude, no one asked
+for Kite Man as a character to exist in the
+
+218
+00:19:19,886 --> 00:19:25,988
+comics to begin with. You're right, this should
+not exist in any shape or form, but it does
+
+219
+00:19:26,168 --> 00:19:29,209
+and I'm kind of here for it. Because it looks
+like they're really, you know, gonna bring
+
+220
+00:19:29,269 --> 00:19:34,310
+out the lovable loser trope that is Kite Man.
+It looks like he has really horrible luck,
+
+221
+00:19:34,591 --> 00:19:39,352
+his dad hates him, he's trying to run a bar
+with his new girlfriend, Golden Glider, who's
+
+222
+00:19:39,392 --> 00:19:44,633
+just killing everybody. I guess the concept
+does lend itself to a situational comedy sitcom
+
+223
+00:19:44,673 --> 00:19:50,107
+of sorts. I don't want to sound like a hater
+because you look at a show like Modok, which
+
+224
+00:19:50,227 --> 00:19:54,608
+also nobody asks for, but I truly loved that
+show. So I'm hoping for something like that,
+
+225
+00:19:54,708 --> 00:20:00,410
+I guess. I do hope that this show is much more
+episodic than Harley Quinn. Let that have an
+
+226
+00:20:00,530 --> 00:20:05,571
+overarching narrative throughout the season,
+but let this one be more like Cheers. I think
+
+227
+00:20:05,591 --> 00:20:11,413
+that would be perfect. Absolutely. Yeah. The
+show is being released on July 18th. I'm hoping
+
+228
+00:20:11,433 --> 00:20:15,776
+that we could squeeze in a Kite Man duel around
+that time. The executive producers were kicking
+
+229
+00:20:15,796 --> 00:20:20,864
+around the idea of pitting Stiltman against
+Kiteman, which I think is so perfect. Hopefully
+
+230
+00:20:20,904 --> 00:20:24,891
+we can get that in. Yeah, that'll be a lot of
+fun. Once I heard the idea, I can't un-hear
+
+231
+00:20:24,931 --> 00:20:26,433
+it, and it definitely needs to happen.
+
+232
+00:20:33,870 --> 00:20:38,619
+So that's it for all the news this week, now
+let's move on to the main event, where we review
+
+233
+00:20:38,900 --> 00:20:43,649
+the 2009 animated film Green Lantern First Flight.
+
+234
+00:20:59,402 --> 00:21:06,223
+Green Lantern First Flight is a standalone animated
+direct-to-video film released in 2009. It was
+
+235
+00:21:06,263 --> 00:21:11,965
+directed by Lauren Montgomery, a former storyboard
+artist for the Justice League Unlimited animated
+
+236
+00:21:12,005 --> 00:21:17,967
+series, who went on to direct some of DC's most
+celebrated animated films, including Wonder
+
+237
+00:21:17,987 --> 00:21:24,688
+Woman, Batman Year One, Superman Doomsday, Justice
+League Doom, just to name a few. She's also
+
+238
+00:21:24,729 --> 00:21:30,431
+worked on projects for Marvel and Nickelodeon's
+Avatar franchise, Basically, she's a badass
+
+239
+00:21:30,511 --> 00:21:35,155
+in the animation industry, so it should come
+as no surprise that one of Green Lantern's
+
+240
+00:21:35,215 --> 00:21:41,760
+most badass films, live action or otherwise,
+would be one she directed. Namely, this movie.
+
+241
+00:21:42,220 --> 00:21:46,944
+Now since the movie is a decade and a half old
+by this point, I'm guessing if you wanted to
+
+242
+00:21:46,964 --> 00:21:52,168
+see the movie by now, you would have. But here's
+your warning that if you want to avoid spoilers,
+
+243
+00:21:52,208 --> 00:21:57,673
+I'd probably skip this review until you see
+the film, which has awesome action, a stellar
+
+244
+00:21:57,693 --> 00:22:03,910
+voice cast, and really is a film made for fans
+of the source material. Now, First Flight was
+
+245
+00:22:03,970 --> 00:22:10,155
+released two years before the live action Green
+Lantern film that starred Ryan Reynolds, and
+
+246
+00:22:10,195 --> 00:22:15,680
+it's a shame they didn't take more inspiration
+from this film because while it admittedly
+
+247
+00:22:15,900 --> 00:22:21,785
+isn't the best origin story when it comes to
+Hell Jordan, it does a surprisingly decent
+
+248
+00:22:21,825 --> 00:22:27,649
+job at explaining the cosmic lore behind the
+Green Lantern stories and a phenomenal job.
+
+249
+00:22:27,978 --> 00:22:34,200
+with its villain. Sinestro in this film is hands
+down the best villain in any Green Lantern
+
+250
+00:22:34,220 --> 00:22:38,782
+film to date, of which there aren't many, but
+yeah, this film set the standard right out
+
+251
+00:22:38,822 --> 00:22:44,565
+the gate with its corrupt law enforcer mentoring
+the rookie training day-esque approach to the
+
+252
+00:22:44,625 --> 00:22:49,707
+story. Yeah, one of the best things that this
+movie did with the origin was make it primarily
+
+253
+00:22:49,747 --> 00:22:55,689
+in space. The 2011 live action Green Lantern
+movie had its main conflict back on Earth.
+
+254
+00:22:55,990 --> 00:23:01,594
+But I think the unique thing about Green Lantern
+is that he's one of DC's few cosmic heroes.
+
+255
+00:23:01,754 --> 00:23:07,097
+You know, you have the core, you have the new
+gods and a handful of others. But unlike Marvel's
+
+256
+00:23:07,117 --> 00:23:12,461
+cosmic side, DC doesn't have a whole lot of
+popular franchises set in outer space. That's
+
+257
+00:23:12,741 --> 00:23:16,844
+fair. Now, I would definitely agree with you
+that the decision to keep the film in outer
+
+258
+00:23:16,924 --> 00:23:22,869
+space kind of helped the narrative in that you
+were learning about the universe along with
+
+259
+00:23:22,949 --> 00:23:28,711
+the main character. as opposed to him being
+on Earth and aliens having to learn about us.
+
+260
+00:23:28,831 --> 00:23:33,612
+It was kind of backwards for the way I think
+a Green Lantern film should be. As I mentioned,
+
+261
+00:23:33,892 --> 00:23:38,554
+the film isn't a great origin story for its
+main character, Halt Jordan, who's very much
+
+262
+00:23:38,594 --> 00:23:44,415
+along for the ride and very reactionary in the
+film, in much the same way Ethan Hawke's character
+
+263
+00:23:44,475 --> 00:23:51,057
+was in Training Day. And for some reason, that
+works. The rookie thrown into the deep end
+
+264
+00:23:51,137 --> 00:23:56,636
+framing of the story helps, I think, with all
+of the lore and exposition that's thrown at
+
+265
+00:23:56,676 --> 00:24:03,840
+the audience. The film wastes no time, like
+zero. Hal Jordan is literally wearing the Green
+
+266
+00:24:03,860 --> 00:24:09,343
+Lantern suit less than four minutes into the
+film. It doesn't bother explaining Hal Jordan's
+
+267
+00:24:09,383 --> 00:24:16,187
+history or relationship or goals. We don't know
+why he was chosen to wear the ring. The Earth
+
+268
+00:24:16,207 --> 00:24:22,142
+scenes are just prologue, essentially, to the
+story's massive stakes. of who will control
+
+269
+00:24:22,202 --> 00:24:28,366
+the dominant power in the universe. The thing
+is though, that the film is only 77 minutes
+
+270
+00:24:28,446 --> 00:24:35,169
+long, almost 15 minutes shy of a standard 90
+minute film. Like 90 minutes is the minimum
+
+271
+00:24:35,229 --> 00:24:40,372
+length a film should be. And there was a lot
+of backstory for Hell that they could have
+
+272
+00:24:40,512 --> 00:24:45,435
+squeezed into that remaining time. So that kind
+of sucks, and it really makes it seem like
+
+273
+00:24:45,595 --> 00:24:51,418
+they knew the audience watching this film would
+be fans of the comics and not- need all of
+
+274
+00:24:51,438 --> 00:24:58,063
+that extra information maybe? Though I'd argue
+that's probably a lazy and dangerous approach
+
+275
+00:24:58,323 --> 00:25:03,747
+and it shows in this film's current Rotten Tomatoes
+scores as the audience score is fresh while
+
+276
+00:25:03,767 --> 00:25:08,971
+the critics score is rotten. Though who knows
+with my review that may change. Yeah the movie
+
+277
+00:25:08,991 --> 00:25:13,554
+definitely does no favors for newcomers to the
+franchise. You had mentioned that it seems
+
+278
+00:25:13,674 --> 00:25:18,135
+the filmmakers here knew that their audience
+would be fans of the character most likely,
+
+279
+00:25:18,415 --> 00:25:23,117
+but it also seems more like an admission that
+casual viewers aren't going to watch their
+
+280
+00:25:23,157 --> 00:25:27,618
+film. Yeah. Which is not a good thing. You know,
+especially for an origin story, you want things
+
+281
+00:25:27,658 --> 00:25:32,059
+to be accessible. Yeah, absolutely. And you
+know, there are a lot of comics characters
+
+282
+00:25:32,119 --> 00:25:38,761
+with really dense lores, but a good writer can
+fix that in a way, because not everything needs
+
+283
+00:25:38,801 --> 00:25:45,380
+to be adapted. one for one from comics to the
+screen because you have decades worth of history
+
+284
+00:25:45,480 --> 00:25:49,801
+to back you up in the comics, whereas you don't
+have that when you're trying to reach an audience
+
+285
+00:25:49,821 --> 00:25:55,004
+for the first time. I could have easily done
+with a good 15 minutes or more of this film
+
+286
+00:25:55,204 --> 00:26:00,086
+because I did enjoy it. The current runtime,
+I think signifies there was a budget issue
+
+287
+00:26:00,206 --> 00:26:03,987
+and maybe that's why they couldn't squeeze in
+more of that pertinent character building.
+
+288
+00:26:04,387 --> 00:26:08,649
+Yeah, I was guessing the same thing. They probably
+didn't have the money to do more story, which
+
+289
+00:26:08,689 --> 00:26:13,496
+is a shame. Now, I will admit that one of the
+reasons the film does a decent job with the
+
+290
+00:26:13,536 --> 00:26:19,580
+Green Lantern lore is because it wisely chose
+to ignore comic writer Jeff Johns' introduction
+
+291
+00:26:19,760 --> 00:26:25,945
+of the emotional electromagnetic spectrum and
+the embodiments of the emotions within it such
+
+292
+00:26:26,005 --> 00:26:31,929
+as the entity of Parallax, who we were introduced
+to in the Green Lantern Rebirth comic storyline
+
+293
+00:26:31,949 --> 00:26:37,733
+a few years prior. Parallax, of course, was
+the villain in the live-action film and rewatching
+
+294
+00:26:38,013 --> 00:26:43,913
+this film All I could think about was how much
+of a mistake that was. Yeah. Can I say my favorite
+
+295
+00:26:43,953 --> 00:26:48,717
+thing about this movie is the lack of emotional
+spectrum. When you start talking about colors
+
+296
+00:26:48,857 --> 00:26:55,041
+as emotions, it all becomes just a little bit
+too conceptual and maybe cheesy. I like their
+
+297
+00:26:55,062 --> 00:26:58,944
+approach of just saying this is the green energy
+that they were able to harness from the green
+
+298
+00:26:59,004 --> 00:27:03,568
+element and it's weak to the yellow element.
+And that's really all you need to know. I completely
+
+299
+00:27:03,628 --> 00:27:09,523
+agree. It's way too. convoluted. Even in the
+comics, it's too much in my opinion. Yeah,
+
+300
+00:27:09,943 --> 00:27:15,004
+I mean it makes everything just too emotional,
+which sounds like a shitty thing to say because
+
+301
+00:27:15,124 --> 00:27:20,286
+it's not a bad thing to be emotional, but you
+really paint your characters into a corner
+
+302
+00:27:20,506 --> 00:27:24,527
+and it's hard for them to be multifaceted and
+have multiple emotions when you know they're
+
+303
+00:27:24,547 --> 00:27:29,728
+represented by things like anger for the red
+lanterns or avarice for the orange lanterns,
+
+304
+00:27:30,128 --> 00:27:35,054
+fear for the yellow lanterns. Everything is
+just kind of pigeonholed character-wise. Yeah,
+
+305
+00:27:35,074 --> 00:27:39,355
+it makes the characters more one-dimensional.
+I completely agree with you. Going back to
+
+306
+00:27:39,375 --> 00:27:44,116
+Hal Jordan's lack of character development,
+the main reason I think it's easy to gloss
+
+307
+00:27:44,376 --> 00:27:50,838
+over that is the action. I think the animated
+action of this film is actually its main draw,
+
+308
+00:27:51,078 --> 00:27:56,479
+and anticipating what ingenious way Hal Jordan
+was going to use his ring's power to get out
+
+309
+00:27:56,519 --> 00:28:01,941
+of various conflicts was really fun to watch,
+like in a MacGyver kind of way. With all the
+
+310
+00:28:02,001 --> 00:28:07,164
+prejudice the alien characters had, for the
+human Hal Jordan, it was satisfying to see
+
+311
+00:28:07,184 --> 00:28:12,308
+him outthink them in a way that it never really
+was for the live action film, at least for
+
+312
+00:28:12,348 --> 00:28:16,612
+me personally. Yeah, I mean Green Lantern's
+power set is so visual, it's always fun to
+
+313
+00:28:16,632 --> 00:28:21,556
+watch. Absolutely. The guy can literally create
+anything, so what is he going to create next?
+
+314
+00:28:21,636 --> 00:28:26,219
+Let's find out. I mean, there is a severe lack
+of imagination among the Green Lantern Corps
+
+315
+00:28:26,239 --> 00:28:31,704
+in general. They kind of seem to keep their
+constructs limited to the six simple machines,
+
+316
+00:28:32,204 --> 00:28:36,874
+but it's still fun to watch that too. In terms
+of the animation, I tend to knock the Bruce
+
+317
+00:28:36,894 --> 00:28:43,257
+Timm style for its overuse, but this is among
+the best works in that style I would say, like
+
+318
+00:28:43,297 --> 00:28:49,759
+hands down. It almost, like almost, edges into
+kinetic anime style in moments when characters'
+
+319
+00:28:49,859 --> 00:28:54,781
+body structures become exaggerated, but I wouldn't
+go as far as to say this is anywhere close
+
+320
+00:28:54,801 --> 00:29:00,195
+to being as good as anime animation. Yeah, it's
+a step up, I think, from a lot of what we got
+
+321
+00:29:00,295 --> 00:29:04,878
+in the DC animated movie universe. Even though,
+you know, that whole run of films was incredible,
+
+322
+00:29:05,038 --> 00:29:10,261
+the animation was slightly lacking during that
+run. Here, it was fantastic. Yeah, of course,
+
+323
+00:29:10,301 --> 00:29:15,425
+this film was not in that run. It wasn't a part
+of that. This, of course, was its own standalone
+
+324
+00:29:15,445 --> 00:29:20,968
+film. I think even Green Lanterns Emerald Nights
+is only considered a quasi sequel, with only
+
+325
+00:29:21,048 --> 00:29:26,968
+some of the voice cast returning for that movie.
+I did mention that the voice cast here is stellar
+
+326
+00:29:27,308 --> 00:29:33,153
+and we see some pretty big names including Michael
+Madsen of Reservoir Dogs fame as Killawog,
+
+327
+00:29:33,634 --> 00:29:39,799
+Kurtwood Smith from That 70s Show as Kanjar
+Rowe, and Trisha Helfer from Battlestar Galactica
+
+328
+00:29:39,919 --> 00:29:45,644
+as Budica. They spent way more money on the
+casting budget for this film than they have
+
+329
+00:29:45,684 --> 00:29:51,188
+in recent DC animated fare and that's probably
+why they could only reach 77 minutes. But let's
+
+330
+00:29:51,208 --> 00:29:56,056
+talk about the two main characters. and the
+actors who voiced them in our character breakdown.
+
+331
+00:29:56,517 --> 00:30:01,381
+Now Hal Jordan was voiced by Christopher Maloney,
+who's most well known for playing Detective
+
+332
+00:30:01,421 --> 00:30:07,367
+Stabler on Law and Order SVU, but is also a
+known face from other films such as 12 Monkeys
+
+333
+00:30:07,507 --> 00:30:12,612
+and Man of Steel, where he played Colonel Hardy.
+I still remember rumors that he was going to
+
+334
+00:30:12,632 --> 00:30:16,936
+be Hal Jordan when his casting was announced
+for Man of Steel way back when, because of
+
+335
+00:30:16,976 --> 00:30:22,300
+his work in this Green Lantern film. Now, my
+favorite voice actor for Hal Jordan is actually
+
+336
+00:30:22,380 --> 00:30:28,304
+Nathan Fillion, but probably only because Maloney
+doesn't have a whole lot to work with in this
+
+337
+00:30:28,364 --> 00:30:34,248
+film. Like I've said, Hal's a very reactionary
+character. So a lot of his lines in the movie
+
+338
+00:30:34,428 --> 00:30:42,954
+are relegated to things like, OK, and what the
+hell? It's not the best writing. Yeah, he doesn't
+
+339
+00:30:42,974 --> 00:30:46,956
+get a lot of monologues or anything like that.
+Definitely not. The most he speaks is when
+
+340
+00:30:46,996 --> 00:30:51,571
+he's like talking to the guardians. or when
+he's talking to Budoka and Killawag in his
+
+341
+00:30:51,651 --> 00:30:57,415
+cell. Now regarding Hal's character arc, it's
+clear from the opening scene that Hal is something
+
+342
+00:30:57,455 --> 00:31:02,878
+of a troublemaker who's probably too skilled
+to test flight simulators and he's pretty bored.
+
+343
+00:31:03,298 --> 00:31:07,441
+That of course all changes when he gains the
+Green Lantern Ring and is whisked off across
+
+344
+00:31:07,461 --> 00:31:13,204
+the universe on an adventure with universal
+stakes. But that's pretty much it. Like he's
+
+345
+00:31:13,264 --> 00:31:18,239
+kind of the universe's luckiest guy. and that
+he often just finds himself in the right place
+
+346
+00:31:18,279 --> 00:31:24,142
+at the right time, whether it's being chosen
+for the ring or noticing invisible aliens in
+
+347
+00:31:24,162 --> 00:31:29,525
+a spaceport or even being near the central power
+battery at the end of the film. Yeah, I noticed
+
+348
+00:31:29,565 --> 00:31:34,647
+that a lot of the plot was driven by Hal just
+being lucky. Like, of course, he fell into
+
+349
+00:31:34,667 --> 00:31:39,994
+the sewer right before the bad guy fell into
+the sewer. You know, right? Yeah. I just managed
+
+350
+00:31:40,034 --> 00:31:45,635
+to run into Kush. Yeah, it's again, not an example
+of the best writing. You don't want your character
+
+351
+00:31:45,695 --> 00:31:50,817
+to just be lucky. You want there to be reasons
+for that, typically. You shouldn't be able
+
+352
+00:31:50,837 --> 00:31:56,118
+to get away with something like that in screenwriting,
+but they kind of did in this film. Yeah, just
+
+353
+00:31:56,158 --> 00:32:02,140
+barely enough where the audience didn't question
+it too much. I do think that this movie probably
+
+354
+00:32:02,360 --> 00:32:07,361
+deserved a sequel and that it set up really
+well why Hal Jordan would be regarded as one
+
+355
+00:32:07,401 --> 00:32:11,600
+of the best among the core. which is always
+kind of hard to believe considering how massive
+
+356
+00:32:11,640 --> 00:32:16,263
+the court is. You know, everyone's always talking
+about how great Hal Jordan is. But this movie
+
+357
+00:32:16,403 --> 00:32:20,126
+showed that, you know, he definitely has something
+unique going for him. Yeah, we may not know
+
+358
+00:32:20,246 --> 00:32:26,070
+why he's special, but the film does a good job
+of establishing the fact that he is. I think
+
+359
+00:32:26,090 --> 00:32:31,193
+they definitely could have taken that in different
+directions for a sequel. Also special is Sinestro,
+
+360
+00:32:31,294 --> 00:32:37,098
+who in this film was voiced by Victor Garber,
+the Tony and Emmy award winning actor. known
+
+361
+00:32:37,118 --> 00:32:43,362
+for his work in films like Titanic and Argo
+and shows like Alias. He was Martin Stein in
+
+362
+00:32:43,402 --> 00:32:49,186
+the CW's Arrowverse shows, you know, one half
+of Firestorm. The guy's just an amazing actor
+
+363
+00:32:49,506 --> 00:32:55,211
+and he was great as Sinestro, like flawlessly
+capturing the characters cold cunning to boiling
+
+364
+00:32:55,291 --> 00:33:01,815
+rage. Sinestro is easily the most interesting
+character in this film. You know, he's a bad
+
+365
+00:33:01,855 --> 00:33:06,751
+cop who's disdained for chaos and crime in the
+universe. which he attributes to a failure
+
+366
+00:33:06,811 --> 00:33:12,135
+in leadership on behalf of the Guardians, leads
+to him abusing his power. He believes it's
+
+367
+00:33:12,175 --> 00:33:17,360
+better to be feared and respected rather than
+being compassionate, and his extreme methods
+
+368
+00:33:17,640 --> 00:33:24,246
+have proven results that garner him influence
+within the core. His utilitarian philosophy,
+
+369
+00:33:24,586 --> 00:33:31,172
+that his means are justified by his end goal
+of instilling order in the universe, is comparable
+
+370
+00:33:31,232 --> 00:33:37,432
+to other villains like Thanos, or Ozymandias
+from Watchmen. It's wrong, but it's easy to
+
+371
+00:33:37,472 --> 00:33:43,937
+see how good intentions could lead there. And
+the crazy thing is that if it wasn't for one
+
+372
+00:33:43,997 --> 00:33:50,662
+guy from one backwater planet, he would have
+been successful. Like he killed so many good
+
+373
+00:33:50,702 --> 00:33:56,438
+guys in this film, more than a lot of other
+villains in a lot of other movies. Like you
+
+374
+00:33:56,478 --> 00:34:01,642
+mentioned, I would have loved to have seen a
+direct sequel to this film where Sinestro goes
+
+375
+00:34:01,722 --> 00:34:08,027
+on to create the Sinestro Corps. That sequel
+will never happen, but I hope that Sinestro
+
+376
+00:34:08,248 --> 00:34:14,253
+is as good in the upcoming Lanterns television
+series as he was in this film. For sure. Yeah,
+
+377
+00:34:14,293 --> 00:34:18,096
+he was fantastic in this movie. I was blown
+away. His motivations were so clear. You could
+
+378
+00:34:18,136 --> 00:34:22,339
+totally see where he was coming from, where
+he truly believed that any action he took,
+
+379
+00:34:22,700 --> 00:34:28,119
+no matter how seemingly immoral or evil. were
+rationalized by the fact that he likely would
+
+380
+00:34:28,139 --> 00:34:33,481
+produce results. But as Hal Jordan shows, there
+are multiple ways to achieve order in the universe,
+
+381
+00:34:34,021 --> 00:34:39,343
+and not all of them mean you have to be a dick.
+Or specifically a dictator, you know? Right.
+
+382
+00:34:39,363 --> 00:34:44,866
+Which is exactly what Sinestro wanted to be,
+and he wanted to amass power to essentially
+
+383
+00:34:44,946 --> 00:34:50,288
+control everyone and everything in the universe,
+taking away their freedoms. And that's sort
+
+384
+00:34:50,328 --> 00:34:54,974
+of what sets him apart from someone like Thanos
+or Ozymandias. They weren't really trying to
+
+385
+00:34:55,034 --> 00:34:59,958
+control people in the same way that Sinestro
+is, and I think that makes him a little bit
+
+386
+00:35:00,398 --> 00:35:05,862
+even more sinister, perhaps. For sure. I was
+actually surprised by the body count in this
+
+387
+00:35:05,922 --> 00:35:11,526
+movie. Like, so many dead green lanterns. The
+stakes were massive, and the movie definitely
+
+388
+00:35:11,566 --> 00:35:16,309
+didn't shy away from showing us that. Yeah,
+no. Like, we saw some popular lanterns go down,
+
+389
+00:35:16,349 --> 00:35:22,493
+like Tomar Ray, Boudicca, Green Man. Too many.
+Too many. Oh, I didn't know Charlie Day was
+
+390
+00:35:22,533 --> 00:35:24,123
+in this movie. What?
+
+391
+00:35:31,342 --> 00:35:37,004
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+392
+00:35:37,024 --> 00:35:42,747
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+393
+00:35:42,807 --> 00:35:48,130
+Dynomic Podcast Network presents... Console
+Combat, where video game legends brawl every
+
+394
+00:35:48,190 --> 00:35:53,153
+Monday. Dynamic Duel, where comic book titans
+smash every Tuesday. Max Destruction, where
+
+395
+00:35:53,173 --> 00:35:56,406
+the world is at its limit. The Dynomic Podcast
+Network presents... TV and action heroes battle
+
+396
+00:35:56,507 --> 00:36:02,930
+every Wednesday, and Sendro World, where anime
+champions clash every Thursday. Join us as
+
+397
+00:36:02,950 --> 00:36:07,893
+we speculate on the matches and armed with the
+power of mathematical simulations, discover
+
+398
+00:36:07,953 --> 00:36:14,257
+who will emerge victorious. Visit dynamicpodcast.com
+where we settle the debate and settle the score.
+
+399
+00:36:18,611 --> 00:36:24,314
+Moving on to the story highlights, during an
+exercise in a flight simulator for aeronautics
+
+400
+00:36:24,334 --> 00:36:30,719
+company Ferris Air, Hell Jordan is abducted
+by the dying alien Aben Suur, a protector of
+
+401
+00:36:30,739 --> 00:36:35,962
+the universe known as a Green Lantern, whose
+spacecraft crash landed in the American desert.
+
+402
+00:36:36,483 --> 00:36:42,467
+His power ring chooses Hell to be Aben's successor,
+and after donning the ring, the spacecraft
+
+403
+00:36:42,527 --> 00:36:48,696
+explodes, destroying any evidence of it or the
+alien. Like you said, lightning quick. The
+
+404
+00:36:48,756 --> 00:36:53,483
+origin happened so fast in this movie, I was
+actually kind of confused that I maybe skipped
+
+405
+00:36:53,543 --> 00:36:58,870
+over some important establishing scene or something.
+Yeah, actually I thought the same thing. It's
+
+406
+00:36:58,890 --> 00:37:03,016
+been a while since I'd last seen this film.
+So yeah, I rewound it and watched it a couple
+
+407
+00:37:03,056 --> 00:37:08,515
+of times actually. Now, one thing they did in
+this film that was brilliant was have the spacecraft
+
+408
+00:37:08,735 --> 00:37:13,897
+explode and destroy the alien body, destroying
+all evidence, essentially, because then you
+
+409
+00:37:13,917 --> 00:37:18,139
+don't even need to worry about that. Like what
+they did in the Green Lantern live action film.
+
+410
+00:37:18,359 --> 00:37:22,461
+It's like, oh, all of a sudden we have this
+alien cadaver that we need to, you know, run
+
+411
+00:37:22,501 --> 00:37:26,963
+tests on and stuff like that. Get that out of
+the way. Get into space. Does that mean the
+
+412
+00:37:27,023 --> 00:37:30,844
+Evans or ship had some kind of self-destruct
+sequence built into it or something like that?
+
+413
+00:37:30,904 --> 00:37:37,449
+I guess I don't even know why the ship exploded.
+Oh, yeah, that's fair. The reasoning is because
+
+414
+00:37:37,469 --> 00:37:44,295
+we need to move the story along. All right.
+We need to get to the opening credits. That
+
+415
+00:37:44,315 --> 00:37:48,899
+doesn't seem very efficient in terms of Green
+Lantern detective work when one of the core
+
+416
+00:37:48,919 --> 00:37:53,222
+members goes down. You would think that the
+ring itself would at least serve as a black
+
+417
+00:37:53,262 --> 00:37:58,787
+box sort of log for that type of situation,
+but seems that's not the case. Oh, that's true.
+
+418
+00:37:59,168 --> 00:38:03,894
+I didn't even think about that. It should. It
+probably would in the comics, but I guess not
+
+419
+00:38:03,914 --> 00:38:08,957
+for this film. Now after returning the simulator
+back to Ferris Air Base, Hal Jordan informs
+
+420
+00:38:08,997 --> 00:38:14,779
+his love interest and supervisor, Carol Ferris,
+that he'll be taking a week off of work, just
+
+421
+00:38:14,819 --> 00:38:20,081
+before he's ambushed and interrogated by four
+other alien members of the Green Lantern Corps,
+
+422
+00:38:20,541 --> 00:38:25,603
+who questioned what happened to Abbasur and
+inform Hal that they'll be taking him to their
+
+423
+00:38:25,663 --> 00:38:31,562
+homeworld, Oa, at the center of the universe,
+for approval from their superiors. beings known
+
+424
+00:38:31,702 --> 00:38:37,186
+as the Guardians. The Guardians initially express
+disdain at the idea of an Earthling bearing
+
+425
+00:38:37,266 --> 00:38:43,170
+a Green Lantern power ring, but after Hal stands
+up for himself against the Guardians, a senior
+
+426
+00:38:43,210 --> 00:38:48,855
+Green Lantern named Sinestro offers to train
+and test Hal to see if he's worthy of the ring.
+
+427
+00:38:49,215 --> 00:38:53,738
+Sinestro takes Hal to the central power battery
+that energizes their rings so that Hal can
+
+428
+00:38:53,778 --> 00:39:00,583
+download all of the known information of Universal
+Sector 1215. a process that Hal surprisingly
+
+429
+00:39:00,623 --> 00:39:07,506
+survives. The two travel to Kadmindo, a planet
+within Sector 1215, where Sinestro believes
+
+430
+00:39:07,526 --> 00:39:13,990
+they can find Kutch. The alien Sinestro believes
+is responsible for Abin Sur's death. When Sinestro
+
+431
+00:39:14,050 --> 00:39:20,153
+tortures Kutch's love interest, Labela, for
+information, Hal tries to stop him just before
+
+432
+00:39:20,213 --> 00:39:23,235
+Kutch attacks the Green Lanterns, then attempts
+to flee.
+
+433
+00:39:28,598 --> 00:39:34,400
+but upon delivering him to Sinestro, HAL has
+physically reprimanded for his earlier defiance,
+
+434
+00:39:34,800 --> 00:39:39,862
+learning of Sinestro's uncompromising disdain
+for the crime and chaos in the universe, and
+
+435
+00:39:39,882 --> 00:39:45,084
+that the Guardians have been inadequate in preventing.
+Other Green Lanterns arrive, and they take
+
+436
+00:39:45,184 --> 00:39:50,907
+Kutch back to Oa for interrogation. Another
+thing that the script kind of skips over is
+
+437
+00:39:51,087 --> 00:39:56,389
+why Kutch was a lead for the Corps. They mention
+his name kind of out of the blue, and all of
+
+438
+00:39:56,409 --> 00:40:01,639
+a sudden we're following this guy. Well, somehow
+Sinestro knew that Kutch was the one who killed
+
+439
+00:40:02,100 --> 00:40:07,723
+Abin Sur. We never learned how he learned that
+information, but possibly he learned it from
+
+440
+00:40:07,803 --> 00:40:13,546
+Kanjar Rowe, which begs the question, why didn't
+a Sinestro just go straight to Kanjar Rowe?
+
+441
+00:40:13,926 --> 00:40:17,408
+That's a great question. And you would think
+that maybe Hal Jordan would have questions
+
+442
+00:40:17,448 --> 00:40:21,791
+about what they were doing and why. Possibly.
+You know, Hal Jordan is not a detective on
+
+443
+00:40:21,931 --> 00:40:26,333
+Earth, so maybe he wouldn't have thought of
+that. That's the only explanation I could think
+
+444
+00:40:26,433 --> 00:40:33,670
+of. The moon ball scene where Sinestro was torturing
+Labella was hard to watch, I found. Yeah, because
+
+445
+00:40:33,690 --> 00:40:40,195
+of the context that this moon ball was a drug.
+So the analog to Earthbound Drugs was like
+
+446
+00:40:40,375 --> 00:40:46,139
+watching him make her inject herself with heroin
+repeatedly or something like that. Right. Yeah,
+
+447
+00:40:46,159 --> 00:40:51,062
+that's crazy. This is actually the scene that
+made me think of Training Day specifically,
+
+448
+00:40:51,423 --> 00:40:55,325
+you know, just the whole drug tie in. And I
+was like, oh man, this is kind of brilliant.
+
+449
+00:40:55,445 --> 00:41:01,307
+Yeah. Now on Oa, Hal is befriended by Budica
+despite his discrimination from other lanterns.
+
+450
+00:41:01,787 --> 00:41:06,608
+Budica explains the history of the Green Lantern
+Corps and how it's currently being threatened
+
+451
+00:41:06,648 --> 00:41:12,630
+by the emergence of the Yellow Element, an energy
+source recently stolen by an alien smuggler
+
+452
+00:41:12,710 --> 00:41:18,972
+named Kanjar Rho that rivals the Green Element
+within the Central Power Battery. Kutch, Hal
+
+453
+00:41:19,012 --> 00:41:24,713
+learns, fatally wounded Abin Sur when Abin Sur
+went undercover to find the Yellow Element.
+
+454
+00:41:25,058 --> 00:41:30,739
+just before Abin crash landed on Earth. After
+torturing and killing Kutch for information,
+
+455
+00:41:31,180 --> 00:41:36,541
+Sinestro debriefs the core as to Kanjar Rose
+whereabouts in preparation for a mission to
+
+456
+00:41:36,641 --> 00:41:42,343
+get him, just before being scolded by the Guardians
+for his extreme measures. The scene between
+
+457
+00:41:42,383 --> 00:41:48,025
+Budica and Hal is actually pretty crucial I
+would say for the movie because there's a lot
+
+458
+00:41:48,065 --> 00:41:54,491
+of exposition there. and they do it in a pretty
+efficient way through essentially a mind reading
+
+459
+00:41:54,551 --> 00:41:59,172
+of each other. Yeah, it was the exchange of
+information through the rings, which is a pretty
+
+460
+00:41:59,192 --> 00:42:04,934
+cool concept. This used so much foreshadow how
+Sinistra uses his own ring to read the dying
+
+461
+00:42:04,994 --> 00:42:09,455
+mind of Kenjaro later in the film. Yeah, but
+it doesn't explain how he was able to reanimate
+
+462
+00:42:09,495 --> 00:42:14,196
+Kenjaro's body. Like, I didn't know the Green
+Lantern ring could bring back the dead. Well,
+
+463
+00:42:14,216 --> 00:42:19,374
+he was saying that he was reconnecting his dead
+synapses in his brain. Something like that.
+
+464
+00:42:19,394 --> 00:42:26,880
+That's bullshit. It's bullshit. I agree. When
+a team of lanterns arrive at the Cadian space
+
+465
+00:42:26,920 --> 00:42:33,325
+terminal to find Kanjaro, Hel is assigned to
+watch the outer perimeter. Kanjaro, meanwhile,
+
+466
+00:42:33,546 --> 00:42:38,670
+learns the lanterns are looking for him and
+meets with Sinestro telepathically, revealing
+
+467
+00:42:38,710 --> 00:42:43,734
+that the two are secretly working together to
+turn the yellow element into a weapon. Though
+
+468
+00:42:43,774 --> 00:42:49,218
+Sinestro tries to focus the lantern's attention
+away from Kanjaro, so that he could escape,
+
+469
+00:42:49,578 --> 00:42:55,020
+Hal notices suspicious activity on the loading
+dock area and discovers Kanjar Rho and his
+
+470
+00:42:55,080 --> 00:43:02,123
+soldiers. A battle and chase ensue, but thanks
+to Hal's ingenuity and competence, he manages
+
+471
+00:43:02,163 --> 00:43:08,026
+to reach Kanjar before the others, only to be
+knocked unconscious. When Sinestro arrives
+
+472
+00:43:08,246 --> 00:43:14,408
+second, he kills Kanjar knowing Hal would get
+the blame. That action scene that happens through
+
+473
+00:43:14,428 --> 00:43:19,383
+the space warp tunnel is so damn cool. I really
+liked how that all played out. It had a lot
+
+474
+00:43:19,403 --> 00:43:23,385
+of momentum. Yeah, all the action scenes in
+this had a lot of momentum and again, a lot
+
+475
+00:43:23,405 --> 00:43:28,508
+of stakes because you actually see lanterns
+fall during the battle. So it's like, oh, shit.
+
+476
+00:43:28,928 --> 00:43:33,290
+You know, what's going to happen to these characters
+that we've kind of come to know. And the way
+
+477
+00:43:33,310 --> 00:43:38,713
+that Held Jordan manages to succeed where the
+others don't. Again, one of the highlights
+
+478
+00:43:38,753 --> 00:43:44,637
+of watching this film, like him using that grapple
+to latch onto the spaceship as it emerged from
+
+479
+00:43:44,737 --> 00:43:49,127
+that wormhole thing. It's like, why didn't the
+others think of that? Because that was brilliant.
+
+480
+00:43:49,568 --> 00:43:55,111
+Exactly. I also really liked the whole plot
+of Sinestro framing Hal Jordan for murder.
+
+481
+00:43:55,712 --> 00:44:00,094
+Again, it's another tie to the Training Day
+film. If you guys haven't seen Training Day,
+
+482
+00:44:00,214 --> 00:44:05,558
+watch that movie. I think that would be a perfect
+setup for a Green Lantern film. And I really
+
+483
+00:44:05,578 --> 00:44:11,870
+hope that's used as inspiration or basis for
+the upcoming HBO Max Lantern show. Back on
+
+484
+00:44:12,010 --> 00:44:17,054
+Oa, Hel is put on trial for the death of Kanjar
+and stripped of his power rink and placed in
+
+485
+00:44:17,114 --> 00:44:23,199
+custody for deportation back to Earth. Confiding
+in his fellow lanterns Budica and Kilowog that
+
+486
+00:44:23,239 --> 00:44:29,284
+he suspects Sinestro was responsible for killing
+Kanjar and stealing his energy rod, they take
+
+487
+00:44:29,304 --> 00:44:35,629
+a detour to the morgue where Hel's suspicions
+are confirmed as they find Sinestro using Kanjar's
+
+488
+00:44:35,709 --> 00:44:40,853
+energy rod to telepathically deduce that the
+yellow element is with the weaponers on the
+
+489
+00:44:40,893 --> 00:44:47,423
+planet. Quard. When Killawag tries to arrest
+Sinestro, Budica reveals herself to be in league
+
+490
+00:44:47,443 --> 00:44:54,729
+with Sinestro and knocks Killawag out. As Sinestro
+leaves Oa for Quard, Budica attempts to kill
+
+491
+00:44:54,789 --> 00:45:01,455
+Hal only for Killawag to awaken. Hal manages
+to outsmart Budica who accidentally kills herself
+
+492
+00:45:01,615 --> 00:45:06,900
+in an explosion from Kandar's energy rod. Budica's
+betrayal totally caught me by surprise. I did
+
+493
+00:45:06,940 --> 00:45:11,539
+not see that coming. It was a legitimate twist.
+Yeah, and kudos to the animators for making
+
+494
+00:45:11,699 --> 00:45:15,863
+all of her like previous worrisome glances have
+like this double meaning when you watch the
+
+495
+00:45:15,883 --> 00:45:20,547
+film for the second time. Like she's worried
+Hal is catching on, not that she's worried
+
+496
+00:45:20,647 --> 00:45:27,372
+about Hal in general. Her death scene was hardcore.
+It was violent. I was like, what rating is
+
+497
+00:45:27,392 --> 00:45:33,518
+this? Holy shit. Yeah, it's like, why isn't
+the blood blue? When Sinistro arrives on cord,
+
+498
+00:45:33,618 --> 00:45:38,698
+the weaponers reveal that they have made a second
+power battery using the yellow element. and
+
+499
+00:45:38,758 --> 00:45:44,342
+gift him with a yellow ring to control it before
+departing back to their home dimension. When
+
+500
+00:45:44,402 --> 00:45:50,246
+a squad of green lanterns arrive on Kord, having
+learned of Sinestro's whereabouts, Sinestro
+
+501
+00:45:50,286 --> 00:45:55,970
+kills them, sending their rings back to Oa.
+Sinestro arrives on Oa soon after with his
+
+502
+00:45:56,010 --> 00:46:01,694
+power battery and decimates the planet along
+with any lantern that tries to stop him. When
+
+503
+00:46:01,714 --> 00:46:07,638
+the yellow power battery overloads the green
+one, lanterns across the universe are with
+
+504
+00:46:07,718 --> 00:46:13,783
+many of them dying in space. As the Guardians
+prepare to surrender to Sinestro, HAL manages
+
+505
+00:46:13,823 --> 00:46:18,647
+to harness the green element directly while
+within the destroyed central power battery.
+
+506
+00:46:19,047 --> 00:46:24,852
+Full of green energy, HAL battles Sinestro,
+managing to destroy the yellow power battery
+
+507
+00:46:25,132 --> 00:46:31,378
+with two moons of Oa in the process. Using up
+the last of his energy to blast Sinestro to
+
+508
+00:46:31,418 --> 00:46:33,299
+the surface of Oa from space,
+
+509
+00:46:36,374 --> 00:46:42,336
+destroy Sinestro's reign before flying up to
+rescue Hal from his fall. Is the movie implying
+
+510
+00:46:42,396 --> 00:46:48,859
+that green energy is not necessarily weak to
+yellow energy if there's a sufficient quantity
+
+511
+00:46:48,879 --> 00:46:54,222
+of the green energy? For some reason Hal was
+able to withstand the yellow attacks. Was it
+
+512
+00:46:54,262 --> 00:47:01,225
+because he had a whole lot of green energy?
+I think so. That's convenient is all I'll say.
+
+513
+00:47:01,705 --> 00:47:06,315
+But I guess it makes sense. I mean, why wouldn't
+it? Hal was charged directly from the green
+
+514
+00:47:06,375 --> 00:47:10,156
+element, whereas other green lanterns, you know,
+they're not as close to that power source,
+
+515
+00:47:10,276 --> 00:47:15,879
+so they wouldn't have had as much energy to
+battle Sinestra with. Right. Hal was like glowing
+
+516
+00:47:15,899 --> 00:47:21,741
+with so much green energy. The way I kind of
+chose to think of it is, yes, ice is weak to
+
+517
+00:47:21,821 --> 00:47:28,244
+fire. But if you have a whole lot of ice, it's
+going to be harder for the fire to defeat the
+
+518
+00:47:28,324 --> 00:47:35,951
+ice, to put it in Pokemon terms, I guess. Yeah.
+One thing I thought about was the scene prior
+
+519
+00:47:36,171 --> 00:47:42,515
+where Sinistro forces Hal Jordan to put his
+fist into the power battery. It's almost like
+
+520
+00:47:42,535 --> 00:47:48,298
+a proximity to the green element made it more
+effective or more powerful. And for some reason,
+
+521
+00:47:48,338 --> 00:47:54,261
+Hal Jordan was able to absorb that energy in
+a way that other aliens had not been able to
+
+522
+00:47:54,341 --> 00:47:59,324
+or even died trying to attempt that. Yeah, my
+assumption is that no other alien had attempted
+
+523
+00:47:59,424 --> 00:48:05,264
+to access the green element directly. Right,
+yeah exactly. I did think it was really badass
+
+524
+00:48:05,304 --> 00:48:10,247
+when he took the two moons and used it to crush
+the yellow central power battery. That was
+
+525
+00:48:10,327 --> 00:48:15,350
+a feat unlike any other. That was the most badass
+thing I think I've ever seen a Green Lantern
+
+526
+00:48:15,391 --> 00:48:20,974
+do. That was awesome. In the final scene of
+the film, the Guardians recognized their discrimination
+
+527
+00:48:21,154 --> 00:48:26,318
+against Hal was unwarranted, and they hold a
+ceremony to honor him and the fallen lanterns.
+
+528
+00:48:26,798 --> 00:48:33,814
+After leading the core in the oath of the Green
+Lanterns, Hell flies into space to return to
+
+529
+00:48:33,934 --> 00:48:39,696
+Earth. That's the end of the film. No, we never
+saw the oath recited previously, right? No,
+
+530
+00:48:39,996 --> 00:48:45,678
+it wasn't used as a mechanism to charge the
+ring in this film. It was simply their pledge,
+
+531
+00:48:45,738 --> 00:48:49,539
+sort of like the Pledge of Allegiance, which
+works for me, because I always thought the
+
+532
+00:48:49,639 --> 00:48:53,680
+oath was kind of a silly way to charge your
+ring. Like just hold it up to the lantern,
+
+533
+00:48:53,720 --> 00:48:59,395
+you're good. That's true. I think in addition
+to several... establishing scenes in the beginning
+
+534
+00:48:59,415 --> 00:49:03,618
+of this movie, it would have been nice to have
+an ending scene having him return to Earth
+
+535
+00:49:03,798 --> 00:49:09,503
+and see how the experience changed him and his
+relationship somewhat. Absolutely, yeah. The
+
+536
+00:49:09,543 --> 00:49:14,687
+film should have been longer. It was dense and
+they could have spread that out over a little
+
+537
+00:49:14,707 --> 00:49:20,832
+bit more time pretty easily, you would think.
+Yeah. Overall, the film was dense, but with
+
+538
+00:49:20,872 --> 00:49:27,936
+fun action and cosmic lore, It's unapologetically
+intended for fans of the source material, though
+
+539
+00:49:27,956 --> 00:49:34,901
+I would say it struggles as an effective origin
+tale. The voice cast was phenomenal, the animation
+
+540
+00:49:35,061 --> 00:49:41,625
+was great, but ultimately I would say the film
+is inaccessible to probably most audience members.
+
+541
+00:49:42,025 --> 00:49:48,369
+And because of that, I'm giving this 3.5 out
+of 5 stars. Still a fresh rating on Rotten
+
+542
+00:49:48,389 --> 00:49:53,800
+Tomatoes, though. Yeah, I mean the movie has
+its faults, especially with story and character
+
+543
+00:49:53,840 --> 00:49:58,124
+development, but I think that the pros outweigh
+the cons, especially in terms of spectacle,
+
+544
+00:49:58,244 --> 00:50:02,067
+you know, what you come to see a Green Lantern
+movie for, the action and stuff, you know?
+
+545
+00:50:02,587 --> 00:50:06,450
+And there was plenty of it and I would definitely
+recommend the movie to Green Lantern fans,
+
+546
+00:50:06,510 --> 00:50:11,495
+absolutely. I will say though that I didn't
+like it quite as much as Green Lantern Beware
+
+547
+00:50:11,515 --> 00:50:15,978
+My Power or Green Lantern Emerald Nights, but
+it goes to show that the character has some
+
+548
+00:50:16,058 --> 00:50:20,958
+solid animated movies under his belt. If not,
+you know, the live action movie. Yeah, I definitely
+
+549
+00:50:20,998 --> 00:50:25,840
+hope they use this movie and probably Emerald
+Nights, which I also really liked as a basis
+
+550
+00:50:25,880 --> 00:50:30,622
+for the upcoming series. Beware, my power is
+also good, though I would like to see the show
+
+551
+00:50:30,662 --> 00:50:34,443
+focus more on Green Lanterns, whereas beware,
+my power focuses, you know, on a whole bunch
+
+552
+00:50:34,463 --> 00:50:40,386
+of different alien races like the Raniens, the
+Thanagarians. That may be important for a show
+
+553
+00:50:40,486 --> 00:50:45,328
+set out in outer space, but I'm not sure if
+Lanterns is going to do that. It better if
+
+554
+00:50:45,368 --> 00:50:52,227
+it knows what's good for it. I agree. I agree.
+But that does it for this review, AJ9K, help
+
+555
+00:50:52,287 --> 00:50:59,276
+us close out. Thanks for listening to Dynamic
+duel. Visit the show's website at dynamicduel.com
+
+556
+00:51:00,117 --> 00:51:05,821
+and follow us on Instagram at dynamicduelpodcast.
+You can support the show on Patreon at patreon.com
+
+557
+00:51:06,241 --> 00:51:10,925
+slash dynamicduel and joining a tier that works
+for you or by rating and reviewing Dynamic
+
+558
+00:51:10,945 --> 00:51:16,509
+duel on Apple podcasts, Spotify, Podchaser,
+or on our website. Don't forget to listen to
+
+559
+00:51:16,529 --> 00:51:21,892
+the other shows in the DynaMic podcast network,
+including Max Destruction, Senjo World, and
+
+560
+00:51:21,932 --> 00:51:28,227
+Console Combat. In our next episode, as we mentioned
+earlier, we're going to find out who'd win
+
+561
+00:51:28,267 --> 00:51:34,390
+in a fight between Atrocitus, the Red Lantern,
+versus Juggernaut, the X-Men villain. It's
+
+562
+00:51:34,430 --> 00:51:39,612
+the Red Power Ring versus the Crimson Bands
+of Scytorek. Yeah, of course, that is in lead
+
+563
+00:51:39,672 --> 00:51:45,695
+up to our review of Deadpool and Wolverine,
+since Juggernaut was a major player in the
+
+564
+00:51:45,755 --> 00:51:49,817
+second Deadpool movie. So look forward to that
+next week. That does it for this episode. We
+
+565
+00:51:49,837 --> 00:51:54,467
+want to give a big thanks to our executive producers.
+Ken Johnson, John Sturawski, Zachary Hepburn,
+
+566
+00:51:54,587 --> 00:51:59,950
+Dustin Belcombe, Mickey Montagnon, Brandon Essargard,
+Nathaniel Wagner, Levi Yatin, Austin Wasylowski,
+
+567
+00:52:00,210 --> 00:52:06,673
+AJ Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Andrew Schunk, Dean Maleski, Devin Davis,
+
+568
+00:52:06,954 --> 00:52:11,576
+and Joseph Kirsting for helping make this podcast
+possible. And we'll talk to you guys next week.
+
+569
+00:52:12,036 --> 00:52:17,699
+Up up and away, true believers. In plainest
+grey, in pale taupe, No simulation is outside
+
+570
+00:52:17,760 --> 00:52:22,379
+my scope. Let those who just can't seem to cope,
+Beware my power. because I am dope.
+
