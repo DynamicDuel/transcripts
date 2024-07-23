@@ -1,0 +1,2231 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:25,070 --> 00:00:30,954
+Dynamic Duel Podcast, a weekly show where we
+review superhero films and debate the superiority
+
+3
+00:00:30,974 --> 00:00:37,058
+between Marvel and DC by comparing their characters
+in stat-based battle simulations. I'm Johnny
+
+4
+00:00:37,098 --> 00:00:43,582
+DC. And I'm his twin brother, Marvelous Joe.
+And in this episode, we will be reviewing part
+
+5
+00:00:43,662 --> 00:00:50,547
+three of DC's Justice League Crisis on Infinite
+Earths animated film. It is the conclusion
+
+6
+00:00:50,827 --> 00:00:57,115
+of not only the trilogy of Crisis films, but
+also... of the tomorrow verse as a whole. Good
+
+7
+00:00:57,195 --> 00:01:03,897
+riddance is what I say. You know, I wasn't with
+you early in the tomorrow verse, but I'm there.
+
+8
+00:01:04,358 --> 00:01:10,720
+I'm right there. Of course, we're going to be
+talking about the film later on in this episode.
+
+9
+00:01:11,020 --> 00:01:15,062
+Actually, you know what? I lied. It's going
+to be right now because this is a short episode.
+
+10
+00:01:15,122 --> 00:01:20,204
+It's sort of the column before the storm that
+is Comic Con. Joseph's going on vacation this
+
+11
+00:01:20,244 --> 00:01:25,584
+week, so we're recording this episode really
+early. and we're pretty much gonna just get
+
+12
+00:01:25,664 --> 00:01:30,091
+right into it. Yep, yeah, we're gonna skip over
+the no prize because we only got two answers
+
+13
+00:01:30,151 --> 00:01:34,458
+by the time we started recording this episode.
+So we're gonna give you guys another week for
+
+14
+00:01:34,638 --> 00:01:36,361
+the question of the week, which is.
+
+15
+00:01:40,834 --> 00:01:47,399
+What has been your favorite Disney Plus original
+series from Marvel Studios so far? Thanks to
+
+16
+00:01:47,439 --> 00:01:51,742
+everyone who's called in with an answer so far.
+Everyone else, record your answer at dynamicdool.com
+
+17
+00:01:51,962 --> 00:01:55,285
+by clicking on the red microphone button in
+the bottom right-hand corner of the screen,
+
+18
+00:01:55,405 --> 00:01:59,489
+which will prompt you to leave us a voicemail.
+Your message could be up to 30 seconds long,
+
+19
+00:01:59,649 --> 00:02:03,172
+and don't forget to leave your name in case
+we include you on the podcast. We'll pick our
+
+20
+00:02:03,212 --> 00:02:07,555
+favorite answer and award that person a Dynamic
+Duel No prize that we'll post to Instagram.
+
+21
+00:02:07,935 --> 00:02:13,743
+Be sure to answer before July 27th. Real quick
+guys, our artificially intelligent duel simulator
+
+22
+00:02:13,883 --> 00:02:21,282
+AJ 9k has a message for our listeners. So listen
+up. Why hello there, do you want even more
+
+23
+00:02:21,302 --> 00:02:25,924
+from this podcast? Then become a part of the
+dynamic duel community on Patreon, where you
+
+24
+00:02:25,964 --> 00:02:30,986
+can choose from three tiers. The dynamic two-oh
+tier gives you access to our Discord chat server.
+
+25
+00:02:31,366 --> 00:02:35,808
+The fantastic four tier gives you two bonus
+episodes each month, and the X-Force tier makes
+
+26
+00:02:35,828 --> 00:02:41,347
+you an executive producer of this show. Lastly,
+The DynaMic Podcast Network tier lets you
+
+27
+00:02:41,387 --> 00:02:45,869
+create your own podcast using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+28
+00:02:45,889 --> 00:02:51,432
+your show, provide graphic support and consultation,
+and get you simulation results. Pitch the twins
+
+29
+00:02:51,452 --> 00:02:57,556
+your ideas via email at dynamicduelpodcast at
+gmail.com. Check it out at patreon.com slash
+
+30
+00:02:57,596 --> 00:03:03,519
+dynamicduel. Pip pip cheerio. Thanks AJ and
+AK, and thanks to everyone who supports the
+
+31
+00:03:03,539 --> 00:03:08,541
+podcast. Be sure to tune into the other shows
+in the DynaMic Podcast Network this week.
+
+32
+00:03:08,946 --> 00:03:13,608
+including Max Destruction, which pits your favorite
+action heroes from film and television against
+
+33
+00:03:13,648 --> 00:03:19,470
+each other. This week, hosts Ken and Scottie
+are pitting Deadpool against the mask. On the
+
+34
+00:03:19,550 --> 00:03:25,133
+Senjou World podcast, host Zachary Hepburn speculates
+on fights between fan-favorite anime and manga
+
+35
+00:03:25,173 --> 00:03:30,095
+characters. The show is currently on a season
+hiatus, but it's coming back in a few weeks,
+
+36
+00:03:30,355 --> 00:03:36,454
+so this is the perfect time to catch up on Senjou
+World's 40-episode library. And on the Console
+
+37
+00:03:36,474 --> 00:03:40,918
+Combat podcast, hosts John and Dean find out
+who would win in fights between popular video
+
+38
+00:03:40,958 --> 00:03:45,342
+game characters. In yesterday's episode, they
+found out who would win in a battle between
+
+39
+00:03:45,442 --> 00:03:52,428
+Bowser, Mario's villain, and King Dedede, Kirby's
+villain. Visit dynamicpodcasts.com or click
+
+40
+00:03:52,448 --> 00:03:57,372
+the link in our show notes to listen to all
+of the shows in the DynaMic Podcast Network.
+
+41
+00:03:57,832 --> 00:04:01,776
+But with all of that out of the way, now let's
+move on to the main event of this episode,
+
+42
+00:04:02,176 --> 00:04:05,985
+where we review Justice League. Crisis on Infinite
+Earths, part two.
+
+43
+00:04:23,278 --> 00:04:27,720
+The final crisis on Infinite Earth's Part III,
+as I mentioned earlier, is the conclusion to
+
+44
+00:04:27,761 --> 00:04:34,445
+a trilogy of films that in themselves are the
+conclusion to a 10-part DC animated film series
+
+45
+00:04:34,745 --> 00:04:41,710
+known as the Tomorrowverse, which began with
+Superman Man of Tomorrow in 2020. The Tomorrowverse
+
+46
+00:04:41,870 --> 00:04:50,236
+in itself follows a 16-film animated universe
+from DC, officially known as the DC Animated
+
+47
+00:04:50,296 --> 00:04:57,008
+Movie Universe that began with 2013's Justice
+League The Flashpoint Paradox and ended with
+
+48
+00:04:57,088 --> 00:05:04,013
+2020's Justice League Dark Apocalypse War. You've
+already lost me. No, I haven't. You know what
+
+49
+00:05:04,033 --> 00:05:09,296
+I'm talking about. Though I will admit, maybe
+some people don't. And that's the problem.
+
+50
+00:05:09,697 --> 00:05:16,601
+Basically, DC has had two long-running animated
+movie universes. The initial major one was
+
+51
+00:05:16,641 --> 00:05:20,664
+the DC animated movie universe, which was 16
+films, and then the most recent one, which
+
+52
+00:05:20,704 --> 00:05:26,019
+started in 2020, was the Tomorrowverse. Sort
+of. It's actually recently been revealed that
+
+53
+00:05:26,059 --> 00:05:32,222
+the Tomorrowverse is in fact considered to be
+a part of the DC animated movie universe, just
+
+54
+00:05:32,302 --> 00:05:39,845
+its second phase, or the second story arc as
+it were. And I'm not gonna lie, I hate that.
+
+55
+00:05:41,026 --> 00:05:47,469
+I thought Justice League Dark Apocalypse War
+was a perfect conclusion. We rated it 5 stars
+
+56
+00:05:47,489 --> 00:05:53,055
+in our review. And while Crisis Part III doesn't
+diminish Apocalypse War as I was afraid it
+
+57
+00:05:53,095 --> 00:05:58,876
+was going to while watching it, it does make
+it all the more obvious that the Crisis trilogy
+
+58
+00:05:59,096 --> 00:06:05,138
+is nowhere close to being as good of a film.
+In fact, I'd say each film in the Crisis trilogy
+
+59
+00:06:05,178 --> 00:06:10,900
+got subsequently worse, which is unfortunate,
+because I wanted the Tomorrowverse to be good.
+
+60
+00:06:11,280 --> 00:06:16,321
+And with its conclusion dropping the ball, I
+feel like the Tomorrowverse in its entirety
+
+61
+00:06:16,821 --> 00:06:22,030
+is kind of pointless and better off forgotten.
+Well, it's strange because it introduced the
+
+62
+00:06:22,070 --> 00:06:27,875
+concept of the multiverse to DC animation, right?
+And at the conclusion of this film, that's
+
+63
+00:06:28,055 --> 00:06:34,841
+all gone now. So you largely have an exercise
+in redundancy, I guess. I'm afraid that this
+
+64
+00:06:34,882 --> 00:06:39,025
+is what's going to happen to the Marvel multiverse
+saga, is that when all is said and done...
+
+65
+00:06:39,634 --> 00:06:44,478
+after the events of Avengers Secret War and
+everything is perhaps collapsed into one universe
+
+66
+00:06:44,518 --> 00:06:49,143
+again, a lot of people are going to feel like
+these whole series of Marvel phases were pointless.
+
+67
+00:06:49,303 --> 00:06:55,008
+Yeah, that's, you should be afraid. You should
+be very afraid. Because clearly that's possible.
+
+68
+00:06:55,409 --> 00:07:00,173
+Now I've recommended some Tomorrowverse films
+in the past and if you've gotten to this point
+
+69
+00:07:00,213 --> 00:07:06,130
+in the universe based on my recommendations,
+I just want to apologize. I'm not going to
+
+70
+00:07:06,190 --> 00:07:10,851
+recommend this film, but just in case you plan
+on watching it for yourself and want to avoid
+
+71
+00:07:10,971 --> 00:07:16,073
+spoilers, I'd probably stop listening to this
+episode now, then come back later and finish
+
+72
+00:07:16,113 --> 00:07:20,974
+it once you've seen the movie. You may have
+been spoiled on something already, just go
+
+73
+00:07:20,994 --> 00:07:27,916
+with it, it's fine. Now I was excited for this
+film initially, I thought Crisis Part 1 was
+
+74
+00:07:28,016 --> 00:07:34,755
+really interesting and Part 2 was a decent enough
+setup for what I had hoped. would be a conclusion
+
+75
+00:07:34,935 --> 00:07:40,199
+as epic as Justice League Dark Apocalypse War,
+but what I got instead was actually almost
+
+76
+00:07:40,239 --> 00:07:46,805
+an hour and a half of people just talking. Like,
+there was little to no action and not against
+
+77
+00:07:46,925 --> 00:07:52,290
+any kind of threat that you actually cared about.
+That's true. I don't think a single punch was
+
+78
+00:07:52,330 --> 00:07:56,273
+thrown in this movie. You know, there were a
+lot of like beams being fired and stuff like
+
+79
+00:07:56,293 --> 00:08:00,477
+that, but it was primarily against the anti-monitor.
+They did fight some dinosaurs, which I thought
+
+80
+00:08:00,497 --> 00:08:05,047
+was kind of weird. But yeah, little to no action,
+which I think is the major downfall. Like the
+
+81
+00:08:05,067 --> 00:08:08,708
+movie could have been serviceable. Yes, there
+was a lot of exposition, a lot of talking and
+
+82
+00:08:08,728 --> 00:08:13,589
+stuff like that. But I think its biggest crime
+was that it wasn't entertaining from a superhero
+
+83
+00:08:13,649 --> 00:08:18,991
+action standpoint, which is what people watch
+these movies for. It's why the genre exists.
+
+84
+00:08:19,151 --> 00:08:24,233
+Yeah, I mean, that's fair. I don't necessarily
+always need to be entertained as long as the
+
+85
+00:08:24,273 --> 00:08:30,622
+story is good and is captivating. But that was
+not the case here. It definitely suffers from
+
+86
+00:08:30,662 --> 00:08:34,444
+a villain problem, you could say. You know,
+in the first film, there was a mezzo in the
+
+87
+00:08:34,484 --> 00:08:41,045
+crime syndicate. In the second, there were shadow
+demons and psycho pirates. In the third, there
+
+88
+00:08:41,085 --> 00:08:47,407
+was the anti-monitor? Though I'm hesitant to
+even call him that because none of the characters
+
+89
+00:08:47,527 --> 00:08:52,689
+ever did in the film, and he bears little to
+no resemblance to the anti-monitor from the
+
+90
+00:08:52,729 --> 00:08:58,891
+comics. This is more of like a shadow demon.
+Megazord of sorts, but without any of the character
+
+91
+00:08:58,991 --> 00:09:04,754
+or motivation that was teased in conversations
+with Psycho Pirate in part two. Right, yeah,
+
+92
+00:09:04,774 --> 00:09:08,796
+they hinted at some characterization of the
+Anti-Monitor, like you said, toward the end
+
+93
+00:09:08,816 --> 00:09:13,798
+of part two, but here he was more like a force
+of nature, the Anti-Monitor, and there were
+
+94
+00:09:13,838 --> 00:09:20,081
+like dozens of him, or like millions, I guess.
+Right, exactly. Yeah, I wanted that motivation.
+
+95
+00:09:20,450 --> 00:09:24,672
+that hint of it that I saw in part two, but
+that never materialized into anything. And
+
+96
+00:09:24,692 --> 00:09:29,494
+I think there was a huge, huge downfall for
+this film. Now I've said in the past that if
+
+97
+00:09:29,514 --> 00:09:34,197
+you're going to adapt the crisis on infinite
+earth's comic storyline to a film, you first
+
+98
+00:09:34,237 --> 00:09:40,360
+need to establish a cinematic multiverse beforehand.
+For anyone not familiar with the comic storyline
+
+99
+00:09:40,400 --> 00:09:46,124
+from the eighties, it was a way for DC comics
+to consolidate the continuity from their golden
+
+100
+00:09:46,204 --> 00:09:51,690
+and silver age comic stories, which had been
+established. as existing within separate but
+
+101
+00:09:51,750 --> 00:09:58,292
+parallel universes, a multiverse which was revealed
+to contain a near infinite number of Earths.
+
+102
+00:09:58,832 --> 00:10:04,974
+On Earth 1 you had the Justice League, on Earth
+2 you had the Justice Society, on Earth 3 the
+
+103
+00:10:05,014 --> 00:10:10,195
+heroes were villains and the villains were heroes,
+Earth 5 was home to the Charlton Comics characters
+
+104
+00:10:10,255 --> 00:10:14,836
+that DC had acquired, Earth S was home to the
+Fawcett Comics characters,
+
+105
+00:10:18,966 --> 00:10:25,929
+so on and so forth. By the Tomorrowverse's second
+film, Justice Society World War II, the multiverse
+
+106
+00:10:26,009 --> 00:10:32,013
+was established and it was something most subsequent
+films continue to build upon in anticipation
+
+107
+00:10:32,253 --> 00:10:38,076
+for this concluding trilogy. Now a lot of people
+have not loved the Tomorrowverse. From the
+
+108
+00:10:38,116 --> 00:10:44,540
+beginning, I praised the character designs,
+but story-wise, other than a fantastic adaptation
+
+109
+00:10:44,560 --> 00:10:49,946
+of Batman the Long Halloween and a decent Green
+Lantern film, The Tomorrowverse wasn't really
+
+110
+00:10:50,006 --> 00:10:55,628
+good enough to build any kind of anticipation,
+and the approach to adapting the crisis storyline
+
+111
+00:10:55,688 --> 00:11:02,790
+across three films was inconsistent at best
+and super confusing at worst, because the first
+
+112
+00:11:02,810 --> 00:11:09,292
+two films kind of play loose with time and don't
+follow a linear narrative structure. This one
+
+113
+00:11:09,352 --> 00:11:15,694
+does. I wasn't anticipating that, and it was
+kind of disappointing. Now, unfortunately,
+
+114
+00:11:15,834 --> 00:11:22,117
+I wouldn't be surprised if most audiences found
+the film super confusing and inaccessible because
+
+115
+00:11:22,157 --> 00:11:27,219
+it requires you to have knowledge of animated
+projects outside of the existing Tomorrowverse
+
+116
+00:11:27,259 --> 00:11:32,961
+films. Not only do they reference Justice League
+Dark Apocalypse War, but they have homages
+
+117
+00:11:33,021 --> 00:11:39,144
+to Super Friends, Teen Titans, and The Timverse,
+which includes Justice League, the animated
+
+118
+00:11:39,184 --> 00:11:44,967
+series, and Batman, the animated series. The
+thing is, though, Even if you're a fan of those
+
+119
+00:11:44,987 --> 00:11:50,151
+shows, the brief cameos they offer really weren't
+enough to get excited about, except for maybe
+
+120
+00:11:50,251 --> 00:11:56,497
+the final performance of Kevin Conroy as Batman
+and Mark Cowell's Joker in that homage. But
+
+121
+00:11:56,797 --> 00:12:03,463
+otherwise, yeah, I was not impressed. I agree.
+I do want to take a moment to highlight Kevin
+
+122
+00:12:03,503 --> 00:12:08,448
+Conroy's final performance, though. If you're
+going to go out with a bang, that is how you
+
+123
+00:12:08,488 --> 00:12:13,206
+do it. The scene between his Batman... and Mark
+Hamill's Joker, you know, it was less than
+
+124
+00:12:13,246 --> 00:12:18,428
+a minute long. But the dialogue between the
+two of Batman realizing that his universe was
+
+125
+00:12:18,468 --> 00:12:24,869
+coming to an end and to decide to go out fighting
+the Joker was perfection. And I'm so glad that
+
+126
+00:12:25,349 --> 00:12:30,471
+Kevin Conroy got that opportunity as his final
+performance, because it was very touching and
+
+127
+00:12:30,511 --> 00:12:35,092
+probably honestly the best part of this film.
+Hands down, it was the best part of this film.
+
+128
+00:12:35,512 --> 00:12:43,043
+It was so meta and yet so epic and even cathartic
+in a way. Yeah. If you find the clip online,
+
+129
+00:12:43,543 --> 00:12:47,486
+that's all you need to watch from this film,
+essentially, is what I'm saying. It's a great
+
+130
+00:12:47,526 --> 00:12:51,689
+clip. You guys should watch it if you decide
+not to watch the film. But even then, the Batman,
+
+131
+00:12:51,709 --> 00:12:56,832
+the animated series homage, along with the other
+homages and so many things in this trilogy
+
+132
+00:12:57,193 --> 00:13:02,416
+felt shoehorned. For sure. You know what it
+reminded me of? It reminded me of DC's attempt
+
+133
+00:13:02,516 --> 00:13:07,380
+to explore the multiverse in the Flash movie,
+the live action Flash movie that came out with
+
+134
+00:13:07,440 --> 00:13:12,559
+Ezra Miller, how we saw all these different
+worlds with like, you know, Adam West's Batman
+
+135
+00:13:12,919 --> 00:13:17,001
+and George Reeve's Superman and Christopher
+Reeve's Superman. It was a nice little wink
+
+136
+00:13:17,021 --> 00:13:23,725
+and nod for fans of the DC comics and DC media,
+but it's hollow because there's no real substance
+
+137
+00:13:23,745 --> 00:13:28,087
+there. Like just showing them and not having
+them be really a part of the story is kind
+
+138
+00:13:28,107 --> 00:13:33,290
+of a waste and it's not substantial enough.
+It's cheap. It's cheap. It's a cheap way to
+
+139
+00:13:33,310 --> 00:13:38,153
+get you excited. And I'll be honest, I loved
+that scene in the Flash. The more I look back
+
+140
+00:13:38,213 --> 00:13:43,408
+on it, the more I don't like it as much. I think
+it was probably just the experience of seeing
+
+141
+00:13:43,448 --> 00:13:47,851
+it in the theater that really made me enjoy
+that. And I definitely did not get that same
+
+142
+00:13:47,871 --> 00:13:52,154
+kind of feeling watching this version of it
+because this was like you said, essentially
+
+143
+00:13:52,394 --> 00:13:58,939
+the animated version of that. It was just thrown
+in there as were a ton of characters, like
+
+144
+00:13:58,959 --> 00:14:03,562
+they introduced us to a modern black canary,
+just so she and green arrow can essentially
+
+145
+00:14:03,682 --> 00:14:09,398
+wink at each other. And that's basically it.
+They introduced us to the losers, which Okay,
+
+146
+00:14:09,458 --> 00:14:14,639
+kind of unnecessary and obscure. They teased
+Darkseid, but we didn't get to see a new version
+
+147
+00:14:14,699 --> 00:14:21,161
+of him either. The Losers thing actually surprised
+me because I realized that there was no DC
+
+148
+00:14:21,681 --> 00:14:25,923
+showcase short that came out in the time of
+the Tomorrowverse that did not in some way
+
+149
+00:14:25,983 --> 00:14:31,404
+tie into this crisis series of films. Every
+short had a purpose, whether it was Commandy
+
+150
+00:14:31,904 --> 00:14:38,494
+or The Losers or Constantine House of Mystery.
+Right. it was all kind of required viewing
+
+151
+00:14:38,634 --> 00:14:45,496
+for full enjoyment of these crisis films. Exactly,
+yeah. And if you think it's hard to get people
+
+152
+00:14:45,536 --> 00:14:50,637
+to watch Marvel Disney Plus television shows
+that tie into films, look at how the Marvel's
+
+153
+00:14:50,677 --> 00:14:55,619
+movie performed because it required so much
+Disney Plus viewing, such as WandaVision and
+
+154
+00:14:55,659 --> 00:15:01,200
+Miss Marvel and Secret Invasion to enjoy that.
+Try getting people to watch the DC Showcase
+
+155
+00:15:01,220 --> 00:15:05,081
+shorts. I don't think anybody really watches
+those. Of course we review them on this podcast,
+
+156
+00:15:06,210 --> 00:15:12,092
+They're some of our least listened to episodes,
+you know? Yes. By far. So kudos to the people
+
+157
+00:15:12,112 --> 00:15:17,795
+who actually watch the DC Showcase shorts and
+are big enough fans to basically consume all
+
+158
+00:15:17,815 --> 00:15:21,236
+the media that DC is throwing at them. I think
+you guys are the ones that are going to get
+
+159
+00:15:21,276 --> 00:15:25,798
+the most out of this movie and everyone else
+is just going to be left so cold. But even
+
+160
+00:15:25,838 --> 00:15:31,040
+if they did watch the Losers short, it's not
+like there's any kind of payoff here. They
+
+161
+00:15:31,100 --> 00:15:35,250
+mentioned that they're just a bunch of losers
+and that's it. Like it's kind of cool to see
+
+162
+00:15:35,370 --> 00:15:41,434
+Aquaman fight a dinosaur, but it's a very fleeting
+moment in a film that feels very long. Both
+
+163
+00:15:41,474 --> 00:15:49,138
+of my daughters and my wife fell asleep during
+this movie, and I wanted to. I think the third
+
+164
+00:15:49,218 --> 00:15:53,760
+act was the best part, though. Really? I was
+not happy with the third act. I actually liked
+
+165
+00:15:53,800 --> 00:15:58,323
+the first act the most. The first act was a
+bunch of randomness because they were in the
+
+166
+00:15:58,363 --> 00:16:04,174
+Bleed universe where the laws of physics did
+not apply. So it was just... Yeah, it was very
+
+167
+00:16:04,695 --> 00:16:10,119
+chaotic and strange. Whereas the third act wrapped
+everything up, kind of, and answered a lot
+
+168
+00:16:10,139 --> 00:16:16,084
+of questions. Yeah, I guess, but it wrapped
+everything up in an underwhelming way. Like,
+
+169
+00:16:16,164 --> 00:16:21,789
+everything about this film to me was so underwhelming
+and unsatisfying. The only redeeming quality
+
+170
+00:16:21,969 --> 00:16:28,214
+I really have to comment on, besides the Kevin
+Conroy cameo, is the film's ambition. Like
+
+171
+00:16:28,254 --> 00:16:33,677
+creating a 10 film universe for the sole purpose
+of adapting the Crisis on Infinite Earth storyline
+
+172
+00:16:34,137 --> 00:16:40,481
+is no easy task because it requires the filmmakers
+to capture the same sense of shock and awe
+
+173
+00:16:40,781 --> 00:16:48,225
+that readers initially had when decades of storytelling
+culminated in this epic story with unbelievable
+
+174
+00:16:48,305 --> 00:16:53,909
+stakes. It was the infinity war and end game
+of its time. And while most of the films in
+
+175
+00:16:53,949 --> 00:16:59,008
+the Tomorrowverse probably worked really well
+on paper. As we've mentioned in our past reviews,
+
+176
+00:16:59,348 --> 00:17:03,891
+when you see the final product, all you can
+do is hope that they get it right the next
+
+177
+00:17:04,011 --> 00:17:09,315
+go-round. Except this time, there won't be.
+And I guess all I'm left with is the hope that
+
+178
+00:17:09,375 --> 00:17:15,139
+James Gunn can do better when DC's next animated
+universe begins with Creature Commandos next
+
+179
+00:17:15,179 --> 00:17:18,622
+year. That is definitely a good thing that you
+can say about this film is that at the end
+
+180
+00:17:18,642 --> 00:17:24,178
+of the day, it gives you hope, again, that something
+better will come along next time. That said,
+
+181
+00:17:24,418 --> 00:17:28,680
+I have faith that James Gunn will be able to
+put out a better product. Yeah, same. And honestly,
+
+182
+00:17:28,780 --> 00:17:34,103
+like James Gunn was going to do that whether
+this film provided closure to an existing animated
+
+183
+00:17:34,163 --> 00:17:38,746
+universe or not. So there's not much solace
+in the fact that this sets up something new
+
+184
+00:17:38,786 --> 00:17:45,510
+because it was going to happen anyway. Now usually
+in our reviews, we have a character breakdown.
+
+185
+00:17:45,710 --> 00:17:51,733
+And I'll be honest, there's really no character
+arcs in this film to break down. Like sure
+
+186
+00:17:51,753 --> 00:17:58,257
+there are. character moments that are cathartic
+in some way, but those characters also only
+
+187
+00:17:58,297 --> 00:18:02,660
+have like two lines in the entire movie. I think
+the character with the most development was
+
+188
+00:18:02,720 --> 00:18:09,205
+probably Constantine. Yeah, you could say that.
+His story really revolves around his past actions
+
+189
+00:18:09,525 --> 00:18:14,568
+that resulted in the creation of the multiverse,
+him and the Flash, but a lot of it is just
+
+190
+00:18:14,608 --> 00:18:20,412
+really exposition. I'm not sure if he learns
+anything. He does get to move on to the afterlife
+
+191
+00:18:20,432 --> 00:18:26,584
+at the But other than that, yeah, not much more
+to say. Well, he tried to sacrifice himself,
+
+192
+00:18:26,644 --> 00:18:32,348
+which felt very unconstantine-like, but the
+dream machine or whatever that was. The miracle
+
+193
+00:18:32,388 --> 00:18:37,812
+machine. Honestly, I don't remember what that's
+from. That was the one thing that had me scratching
+
+194
+00:18:37,832 --> 00:18:43,096
+my head. Oh, that was from the Legion of Superheroes.
+You remember when Supergirl had to make a wish
+
+195
+00:18:43,396 --> 00:18:48,199
+at the very end and like reality kind of split.
+It was a weird scene. Is that the thing that
+
+196
+00:18:48,279 --> 00:18:52,870
+Brainiac was using to try to take over the universe?
+Yes. Okay, alright, yeah, I remember what it
+
+197
+00:18:52,930 --> 00:18:58,953
+is now. But it was strange because for some
+reason, the dream machine was outside of time
+
+198
+00:18:58,973 --> 00:19:04,495
+and space, and yet the bleed dimension was also
+outside of time and space, and I don't know,
+
+199
+00:19:04,755 --> 00:19:09,578
+there were a lot of disparate elements that
+seemed a little convenient in terms of being
+
+200
+00:19:09,678 --> 00:19:14,160
+able to withstand the destruction of the primary
+universe. Right, and you're referring to the
+
+201
+00:19:14,180 --> 00:19:19,306
+end of the film. The thing is, though, at that
+point, they're outside of the bleed. They are
+
+202
+00:19:19,426 --> 00:19:25,129
+on the monitor's spaceship, which exists between
+dimensions, but they're also on war world,
+
+203
+00:19:25,409 --> 00:19:31,673
+which also exists between dimensions. But they
+say that the miracle machine exists between
+
+204
+00:19:31,733 --> 00:19:36,816
+dimensions. So it's like, what, how many in
+between dimensions are there? Yeah. It seems
+
+205
+00:19:36,836 --> 00:19:40,638
+like there's a lot of different places to go
+to escape the anti-monitor is all I'm saying,
+
+206
+00:19:41,099 --> 00:19:45,081
+especially when you don't have someone like,
+like sleuth or ratting you out, you know? Right.
+
+207
+00:19:46,538 --> 00:19:50,960
+I guess the only other character worth mentioning
+was Supergirl. Of course her arc kind of continues
+
+208
+00:19:50,980 --> 00:19:55,783
+from the past film, but for a majority of this
+film she basically just feels guilty for killing
+
+209
+00:19:55,863 --> 00:20:01,726
+the monitor and at the end decides to sacrifice
+herself because she feels responsible for the
+
+210
+00:20:01,826 --> 00:20:06,268
+predicament that all of the Earths find themselves
+in. So it was inevitable, you know, she died
+
+211
+00:20:06,308 --> 00:20:10,791
+in the comic storyline as well. Totally saw
+it coming. The one character that should have
+
+212
+00:20:10,811 --> 00:20:13,112
+had more backstory I feel like was Batman.
+
+213
+00:20:16,194 --> 00:20:20,637
+dick to everyone, didn't learn his lesson, and
+then for some reason at the end of this film
+
+214
+00:20:20,657 --> 00:20:26,682
+he's like, oh, I'm going to lose you all kind
+of in a way. And it's like, okay, buddy. All
+
+215
+00:20:26,742 --> 00:20:31,066
+right. Yeah, we never really saw that growth.
+Not at all. Which is a shame because Jensen
+
+216
+00:20:31,126 --> 00:20:35,690
+Ackles was a good Batman. Actually a lot of
+the cast was good here. I just want to make
+
+217
+00:20:35,730 --> 00:20:40,994
+that shout out. Jensen Ackles as Batman, Megan
+Donnelly as Supergirl, Darren Criss as Superman,
+
+218
+00:20:41,475 --> 00:20:46,398
+and Stan Akadik as Wonder Woman. I will miss
+this voice cast for sure. And Matt Ryan came
+
+219
+00:20:46,418 --> 00:20:51,442
+back, who has always in my mind been the perfect
+voice for Constantine. And this is like for
+
+220
+00:20:51,502 --> 00:20:55,464
+sure, for sure the last time we're probably
+going to hear him as the character. So that's
+
+221
+00:20:55,624 --> 00:21:00,568
+a little bittersweet. Yeah, yeah, I do wish
+his dialogue was better. I wish the character
+
+222
+00:21:00,588 --> 00:21:04,590
+was written better. Definitely not as good as
+Apocalypse War, but that would be a challenge
+
+223
+00:21:04,630 --> 00:21:09,633
+in and of itself. A few things are as good as
+Apocalypse War, right? Right, fair.
+
+224
+00:21:17,198 --> 00:21:22,860
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+225
+00:21:22,880 --> 00:21:28,602
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+226
+00:21:28,662 --> 00:21:34,345
+Dynomic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+227
+00:21:36,462 --> 00:21:43,105
+Comic Book Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+228
+00:21:43,665 --> 00:21:49,588
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+229
+00:21:49,608 --> 00:21:55,311
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+230
+00:21:55,831 --> 00:22:00,113
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+231
+00:22:04,442 --> 00:22:09,004
+Let's move on to the story highlights. The film
+begins with the heroes of the multiverse attacking
+
+232
+00:22:09,044 --> 00:22:14,586
+the Anti-Monitor, successfully damaging him
+with light-based attacks, though he adapts
+
+233
+00:22:14,666 --> 00:22:19,968
+and generates armor to protect himself. Before
+the Anti-Monitor can fully charge up and project
+
+234
+00:22:20,029 --> 00:22:25,531
+an antimatter wave, the Monitor, having just
+been fatally burned by Supergirl's heat vision
+
+235
+00:22:25,931 --> 00:22:27,912
+with his dying breath, sends the
+
+236
+00:22:32,290 --> 00:22:36,994
+where the anti-monitor can't find them. I wonder
+why he didn't do that to begin with. Why did
+
+237
+00:22:37,014 --> 00:22:40,737
+he wait until the moment of his death to send
+everyone to the bleed where they were more
+
+238
+00:22:40,777 --> 00:22:49,885
+safe? Oh, cause he sucks. That's the only reason
+I don't know. All right. It seemed like a last
+
+239
+00:22:49,905 --> 00:22:55,149
+ditch effort, but it was also the best way to
+protect so many earths that had been destroyed
+
+240
+00:22:55,189 --> 00:22:59,744
+by this point. I think maybe he didn't want
+to do it because it was a last ditch effort,
+
+241
+00:22:59,964 --> 00:23:04,528
+knowing the chaos that would befall the different
+Earths if he did. Oh, you mean due to the lack
+
+242
+00:23:04,608 --> 00:23:10,693
+of laws of physics? Right, quantum physics specifically.
+I guess Lex Luthor did mention in the movie
+
+243
+00:23:10,733 --> 00:23:15,536
+that all the Earths were going to eventually
+die due to these catastrophic events, so maybe
+
+244
+00:23:15,696 --> 00:23:20,060
+that's the answer to why the monitor didn't
+do this in the first place. Right, right, exactly.
+
+245
+00:23:20,460 --> 00:23:25,159
+Like I said, it was a last ditch effort. Now,
+flashing forward eight months, Superman of
+
+246
+00:23:25,239 --> 00:23:30,963
+Earth-1 and Hawk Girl find Wonder Woman adrift
+in the bleed and bring her aboard their ship,
+
+247
+00:23:31,303 --> 00:23:36,487
+explaining that they found her tiara floating
+in the interdimensional space and suspected
+
+248
+00:23:36,527 --> 00:23:43,172
+her immortality allowed her to survive the Anti-Monitor's
+antimatter wave from the previous film. After
+
+249
+00:23:43,232 --> 00:23:48,515
+reuniting with Earth-2 Superman, Wonder Woman
+is taken to the Monitor ship, where she learns
+
+250
+00:23:48,535 --> 00:23:55,337
+that because the bleed exists outside of space-time,
+Both space and time are in flux across the
+
+251
+00:23:55,377 --> 00:24:01,162
+surviving worlds, making it a challenge to protect
+and provide for the survivors. Wonder Woman,
+
+252
+00:24:01,342 --> 00:24:07,668
+the Superman, and others then rescue the inhabitants
+of Earth-1 from dinosaurs that emerged from
+
+253
+00:24:07,709 --> 00:24:13,134
+a chronal anomaly along with the losers. Now
+does this movie imply that there was only one
+
+254
+00:24:13,214 --> 00:24:18,574
+Wonder Woman in the multiverse? It kind of seemed
+that way. Right, because then you would have
+
+255
+00:24:18,774 --> 00:24:23,837
+a whole multitude of Wonder Women surviving
+the destruction of their universe due to the
+
+256
+00:24:23,877 --> 00:24:29,781
+antimatter wave. Which to me is dumb, because-
+It's bullshit. Wonder Woman has never been
+
+257
+00:24:29,861 --> 00:24:34,643
+immortal. I mean, immortal, yes, in the sense
+that she doesn't age, or like ages very slowly,
+
+258
+00:24:34,683 --> 00:24:40,707
+and may not die from aging. But the fact that
+she could survive antimatter when so many other
+
+259
+00:24:40,747 --> 00:24:46,342
+things in the universe couldn't, makes me wonder
+why she gets to be so special. Yeah, none of
+
+260
+00:24:46,362 --> 00:24:50,963
+the other Themyscirans or even like the Olympian
+gods or anything else that was around in that
+
+261
+00:24:51,023 --> 00:24:56,964
+universe were able to outlive its destruction.
+But she was. So dumb, I hated that. They used
+
+262
+00:24:56,984 --> 00:25:01,686
+that at the end though, implying that like because
+she was immortal she had like almost infinite
+
+263
+00:25:01,786 --> 00:25:09,568
+life to sacrifice, I guess was the idea. That's
+how I understood it. Also hated that. If you
+
+264
+00:25:09,608 --> 00:25:15,109
+make Wonder Woman immortal, why even give her
+bracelets? You know? That's true. I don't get
+
+265
+00:25:15,149 --> 00:25:21,168
+it, I don't get it. Now, Secret Society of Super-Villains,
+led by Lex Luthor, convenes on Earth 10, where
+
+266
+00:25:21,208 --> 00:25:26,872
+they discuss how the multiverse Earths can't
+survive the bleed. It's revealed that Psycho-Pirate
+
+267
+00:25:26,932 --> 00:25:32,855
+is Lex's prisoner, and Lex forces Psycho-Pirate
+to reach out to the Anti-Monitor. Meanwhile,
+
+268
+00:25:33,095 --> 00:25:39,699
+on the same Earth, Batman and his allies battle
+an army of time-displaced Nazi soldiers armed
+
+269
+00:25:39,719 --> 00:25:45,991
+with weapons from Gotham's villains. When Batman
+is gassed with fear toxin, He remembers encountering
+
+270
+00:25:46,051 --> 00:25:53,177
+an elderly Barry Allen during his time on Warworld.
+Now of course Earth-10 in the comics is actually
+
+271
+00:25:53,297 --> 00:25:59,743
+Earth-X. It's like the Roman numeral 10 where
+Nazis never lost the war. It's the Earth where
+
+272
+00:25:59,823 --> 00:26:05,368
+the quality comics characters like Uncle Sam
+and Black Condor live. One thing I really didn't
+
+273
+00:26:05,408 --> 00:26:11,119
+get in this film is how Psycho Pirate became
+so freaking weak. Like how would he become
+
+274
+00:26:11,179 --> 00:26:16,500
+Lex Luthor's prisoner when he could totally
+just take control of Lex Luthor and all of
+
+275
+00:26:16,520 --> 00:26:20,662
+the other villains? Well, he was being tortured
+at the start of this movie, so you have to
+
+276
+00:26:20,702 --> 00:26:27,544
+assume that somehow he was captured and tortured
+immediately, I guess? Okay, maybe, but also
+
+277
+00:26:27,784 --> 00:26:33,125
+he's the freaking Psycho Pirate. Like he was
+totally amped up with power in the second film.
+
+278
+00:26:33,550 --> 00:26:38,552
+and could have easily just projected his emotions
+to take control of the situation, whether he's
+
+279
+00:26:38,572 --> 00:26:43,675
+being tortured or not. Like if he's feeling
+pain and like distress from being tortured,
+
+280
+00:26:43,915 --> 00:26:49,318
+he could project that distress onto the people
+torturing him. That's valid. So that was dumb.
+
+281
+00:26:50,139 --> 00:26:55,522
+Moving on back on the mothership, as Supergirl
+expresses remorse for killing the monitor,
+
+282
+00:26:55,842 --> 00:27:00,824
+Lex Luthor arrives just as the Anti-Monitor
+finds and destroys Aquaman's underwater world
+
+283
+00:27:01,165 --> 00:27:08,299
+of Earth-146. by projecting an antimatter wave.
+After Batman confides with Dr. Midnight about
+
+284
+00:27:08,339 --> 00:27:14,381
+his vision of the Flash, Dr. Fate confirms that
+Batman's vision was real and that to solve
+
+285
+00:27:14,401 --> 00:27:20,082
+their ongoing crisis they would need to look
+back to before the creation of the multiverse.
+
+286
+00:27:20,542 --> 00:27:25,864
+When Jon Stewart remembers that John Constantine
+mentioned that he'd been around since before
+
+287
+00:27:25,904 --> 00:27:32,178
+the universe began, they manage to find him
+drunk in a saloon on Earth 18. and suffering
+
+288
+00:27:32,218 --> 00:27:39,461
+from memory loss. The scene in which Supergirl
+is confessing her guilt to Batgirl, I assume
+
+289
+00:27:39,561 --> 00:27:44,603
+is around the time that Supergirl revealed the
+existence of the dream machine to Barbara Gordon,
+
+290
+00:27:44,983 --> 00:27:50,305
+and I'm wondering why she didn't ever think
+to use the dream machine to stop the Anti-Monitor
+
+291
+00:27:50,345 --> 00:27:55,987
+to begin with. That's a great question, and
+that's a major plot hole. She knew the location,
+
+292
+00:27:56,408 --> 00:28:01,470
+so she could have easily told everyone where
+to find it and how they could use it. It's
+
+293
+00:28:01,570 --> 00:28:07,451
+really weird that she didn't do that. But, you
+know, regardless, at the very minimum, they
+
+294
+00:28:07,471 --> 00:28:12,353
+should have had the scene where she told Batgirl
+about it. Yeah. Maybe they didn't have that
+
+295
+00:28:12,373 --> 00:28:16,134
+because then they realized that if that had
+been the case, she could have used the Miracle
+
+296
+00:28:16,174 --> 00:28:21,375
+Machine to save everyone from the very start.
+Plot hole. Now after the Anti-Monitor finds
+
+297
+00:28:21,415 --> 00:28:27,457
+and destroys Earth-2, the heroes on Monitor's
+ship deduce that the Anti-Monitor is able to
+
+298
+00:28:27,517 --> 00:28:33,443
+find their worlds in the Bleed. because someone
+there is in contact with him. While Lex Luthor
+
+299
+00:28:33,463 --> 00:28:39,266
+confesses to sacrificing worlds to gain more
+information on the anti-monitor, back on Earth
+
+300
+00:28:39,346 --> 00:28:46,309
+18, Batman, Dr. Fate, and Constantine perform
+a seance to access Constantine's past memories,
+
+301
+00:28:46,649 --> 00:28:51,571
+where they view the concluding events of the
+film Justice League Dark Apocalypse War and
+
+302
+00:28:51,651 --> 00:28:56,693
+learn that Constantine encouraged the Flash
+to go back in time to kill Darkseid as a baby,
+
+303
+00:28:57,174 --> 00:29:02,837
+so that he could never destroy their universe.
+Unknown to the Flash, Constantine sacrificed
+
+304
+00:29:02,877 --> 00:29:08,800
+a part of his soul to place a spell on Flash
+so that any being he encountered would die,
+
+305
+00:29:09,141 --> 00:29:14,124
+knowing that the Flash wouldn't be able to bring
+himself to actually kill a baby. As one of
+
+306
+00:29:14,164 --> 00:29:20,687
+the immutable pillars of existence, Darkseid's
+death shattered reality, creating a multiverse
+
+307
+00:29:20,807 --> 00:29:25,822
+of infinite Earths. First of all, how cute was
+baby Darkseid? I just wanted to grab him and
+
+308
+00:29:25,842 --> 00:29:29,705
+squeeze him and just be like, aw, little baby
+Darkseid. I don't think I could have come to
+
+309
+00:29:29,745 --> 00:29:34,088
+kill him either. He was just too adorable. Second
+of all, how do you feel about Darkseid being
+
+310
+00:29:34,128 --> 00:29:39,552
+like a pillar of the universe what the MCU would
+call an absolute point or a nexus being or
+
+311
+00:29:39,572 --> 00:29:43,435
+something like that? I think it makes total
+sense. I actually really liked that explanation.
+
+312
+00:29:43,635 --> 00:29:47,878
+They also refer to him as like a fixed point
+in time. So yeah, it reminded me a lot of like
+
+313
+00:29:47,898 --> 00:29:53,502
+a nexus being for a Marvel. Does that mean though
+that the DC universe is- always destined to
+
+314
+00:29:53,522 --> 00:30:00,306
+be destroyed by Darkseid obtaining the anti-life
+equation. I think so. I think so. I think that's
+
+315
+00:30:00,326 --> 00:30:05,029
+what the final crisis was all about in the comics
+because that's what happens. Darkseid is essentially
+
+316
+00:30:05,129 --> 00:30:11,112
+DC's devil, and there's only one of him in the
+entire multiverse in the comics when the multiverse
+
+317
+00:30:11,132 --> 00:30:15,775
+was reestablished. So yeah, I actually really
+liked that. My understanding of the situation
+
+318
+00:30:15,815 --> 00:30:20,677
+is that because Constantine and the Flash created
+a universe in which there was no Darkseid,
+
+319
+00:30:21,134 --> 00:30:26,775
+universe kind of shattered and started cascading
+in a series of events and choices that would
+
+320
+00:30:26,835 --> 00:30:31,356
+split off alternate dimensions and whatnot.
+Yeah, an infinite number of dimensions. It
+
+321
+00:30:31,376 --> 00:30:36,278
+was unsustainable essentially is how they explained
+it. Now when the heroes witness anti-monitor
+
+322
+00:30:36,318 --> 00:30:42,699
+destroy Earth A.D. which is Commandy's Earth,
+Lex deduces that the energy of the merged suns
+
+323
+00:30:42,980 --> 00:30:48,381
+should be powerful enough to destroy the anti-monitor
+though Superman would likely die absorbing
+
+324
+00:30:48,501 --> 00:30:55,184
+and delivering the Guilt-stricken, Kara takes
+Superman's place, flying into the sun to absorb
+
+325
+00:30:55,344 --> 00:31:00,926
+its energy. When the Anti-Monitor appears in
+the Bleed once again, the heroes of the Multiverse
+
+326
+00:31:00,946 --> 00:31:07,089
+attack it in an effort to buy Kara time to absorb
+enough energy. When Martian Manhunter takes
+
+327
+00:31:07,229 --> 00:31:12,031
+over Lex Luthor's mind, using him to encourage
+Superman to disable the Earth's towers and
+
+328
+00:31:12,071 --> 00:31:16,032
+pull the planets out of the Bleed, the heroes
+comply, allowing
+
+329
+00:31:19,070 --> 00:31:26,054
+and deliver a blow to Anti-Monitor strong enough
+to crack his armor. Meanwhile, on Earth 18,
+
+330
+00:31:26,454 --> 00:31:31,957
+new members from the Green Lantern Corps find
+Jon Stewart and deliver him a Green Lantern
+
+331
+00:31:32,077 --> 00:31:38,141
+Ring. And now we finally know why the Warworld
+movie even existed, because I think we speculated
+
+332
+00:31:38,181 --> 00:31:43,764
+in previous reviews that the Warworld movie
+had no purpose in the larger Tomorrowverse
+
+333
+00:31:43,824 --> 00:31:49,019
+narrative, and we were wrong. this was its purpose,
+to be used as a weapon against the Anti-Monitor.
+
+334
+00:31:49,480 --> 00:31:54,843
+Right, exactly. Part of me still doesn't care.
+Part of me doesn't think that needed to be
+
+335
+00:31:55,003 --> 00:32:01,087
+a film. But I mean, it is honestly cool to see
+Warworld in action. When Anti-Monitor attacks
+
+336
+00:32:01,127 --> 00:32:06,971
+Warworld, Jon Stewart and his core members manage
+to shield it from the Anti-Monitor wave. To
+
+337
+00:32:07,011 --> 00:32:12,786
+fuel Warworld with enough emotional energy to
+attack Anti-Monitor again. Martian Manhunter
+
+338
+00:32:12,826 --> 00:32:18,651
+takes control of the mind of Electrocutioner
+on Earth-10 to persuade Psycho Pirate to use
+
+339
+00:32:18,691 --> 00:32:25,437
+his power to unify the emotions of every Earth
+in the Multiverse. With Warworld able to breach
+
+340
+00:32:25,477 --> 00:32:32,583
+the Anti-Monitor's armor once again, a solar-energized
+Supergirl flies into Anti-Monitor and sacrifices
+
+341
+00:32:32,623 --> 00:32:37,928
+herself to destroy him. Superman brings her
+body to Warworld, where the heroes and villains
+
+342
+00:32:38,028 --> 00:32:43,023
+of the Multiverse have grouped. Now, one thing
+that I thought was bullshit was the fact that
+
+343
+00:32:43,083 --> 00:32:48,946
+the Green Lanterns were able to stop an anti-monitor
+wave. Because everything that the heroes have
+
+344
+00:32:48,966 --> 00:32:54,708
+been throwing at it prior to this proved ineffective.
+So why now all of a sudden? Yeah, the Green
+
+345
+00:32:54,728 --> 00:32:58,030
+Lanterns were like, this isn't going to work.
+And just it was like, you just have to have
+
+346
+00:32:58,070 --> 00:33:01,811
+the willpower or something like that. I'm like,
+that's such crap. Because then you could just
+
+347
+00:33:01,831 --> 00:33:05,413
+have the Green Lanterns going and protecting
+every Earth. They could have been doing that
+
+348
+00:33:05,433 --> 00:33:11,387
+this whole time. The movie does make you think
+that Psycho Pirate would find newfound motivation
+
+349
+00:33:11,547 --> 00:33:17,408
+in trying to take over Warworld because the
+Psycho Pirate controlled Warworld would be
+
+350
+00:33:17,609 --> 00:33:23,030
+almost unstoppable, you would think. Oh, absolutely.
+Yeah, that'd be wild. I am really curious as
+
+351
+00:33:23,050 --> 00:33:28,251
+to what emotion he had everyone in the multiverse
+feel, all of the different Earths, because
+
+352
+00:33:28,272 --> 00:33:33,893
+they never say. They all got super horny. That's
+it. That's probably it. I can see that. Yeah.
+
+353
+00:33:33,933 --> 00:33:41,149
+Stupid. When Batman and Doctor Fate explained
+the reason for the multiverses broken and expanding
+
+354
+00:33:41,289 --> 00:33:47,674
+nature, it's deduced that the Anti-Monitor was
+the multiverses natural defense to stop its
+
+355
+00:33:47,774 --> 00:33:54,378
+limitless and chaotic expansion. As hundreds
+more Anti-Monitors suddenly emerge, Batgirl
+
+356
+00:33:54,438 --> 00:34:00,022
+reveals that Supergirl once told her of a miracle
+machine that existed in a pocket dimension
+
+357
+00:34:00,423 --> 00:34:06,623
+between realities. Using Nightshade's teleportation
+powers, the heroes are able to transfer the
+
+358
+00:34:06,663 --> 00:34:14,447
+miracle machine to Warworld. As Earth's 508
+and 12 fall to the Anti-Monitors, the heroes
+
+359
+00:34:14,467 --> 00:34:20,190
+come to the conclusion that to save the multiverse,
+they need to merge it into one prime universe
+
+360
+00:34:20,490 --> 00:34:26,754
+with its own history. How did Marshall Manhunter
+know where to find the Dream Machine? So my
+
+361
+00:34:26,814 --> 00:34:34,991
+guess is that since Warworld exists between
+universes, he was able to expertly navigate
+
+362
+00:34:35,011 --> 00:34:39,015
+them because that's what he had been doing this
+whole time. You know, he was in the bleed with
+
+363
+00:34:39,055 --> 00:34:44,580
+everyone else. He had always been on Warworld,
+just in between everything. How he was able
+
+364
+00:34:44,600 --> 00:34:49,844
+to get Nightshade to teleport the miracle machine
+onto Warworld, even though she was like, I
+
+365
+00:34:49,864 --> 00:34:54,588
+can't do it, was weird, because he was just
+like, oh, yeah, you can. And it was just there.
+
+366
+00:34:55,309 --> 00:35:01,542
+Good explanation. Exactly. I wonder why if Marshall
+Manhunter had control of. Warworld this entire
+
+367
+00:35:01,602 --> 00:35:07,105
+time if he didn't kind of corral the surviving
+heroes and use it as a base since apparently
+
+368
+00:35:07,465 --> 00:35:11,908
+It was able to navigate the multiverse in that
+way. It became a base at the end But I feel
+
+369
+00:35:11,948 --> 00:35:15,910
+like that could have happened sooner Yeah, he
+really should have been around in the first
+
+370
+00:35:15,970 --> 00:35:21,233
+two movies, but they did that whole trick with
+like Oh, he was there when Warworld exploded.
+
+371
+00:35:21,333 --> 00:35:27,656
+Wait. No, he wasn't It was cheap. In the final
+moments of the film Wonder Woman sacrifices
+
+372
+00:35:27,696 --> 00:35:33,172
+her immortal self to power the miracle machine
+to create a new universe, which a majority
+
+373
+00:35:33,212 --> 00:35:38,536
+of the heroes and villains step into, saying
+goodbye to one another before merging into
+
+374
+00:35:38,576 --> 00:35:44,501
+the new universe. As the rest of the multiverse
+and war world are destroyed, the Spectre and
+
+375
+00:35:44,521 --> 00:35:50,326
+Constantine move into the afterlife. In the
+new single Prime Universe, a young Wonder Woman
+
+376
+00:35:50,366 --> 00:35:56,071
+plays on the island paradise of Themyscira.
+Which makes me wonder how she got there, because
+
+377
+00:35:56,111 --> 00:36:00,430
+she wasn't one of the few that walked into the
+new universe. I assume the new universe is
+
+378
+00:36:00,470 --> 00:36:05,855
+populated by people whether they sacrifice themselves
+or not. I mean, people who did sacrifice themselves
+
+379
+00:36:06,175 --> 00:36:12,801
+were just a part of a larger whole, I guess,
+as it were. But the line regarding Wonder Woman's
+
+380
+00:36:12,961 --> 00:36:18,446
+immortality not being a thing anymore kind of
+threw me off because I guess they're saying
+
+381
+00:36:18,466 --> 00:36:23,149
+she's not immortal now? Yeah, her mother Queen
+Hippolyta implied that. She was like, princesses
+
+382
+00:36:23,210 --> 00:36:29,523
+aren't immortal. I was like, what? Now she's
+not? Okay? I didn't quite look hard enough
+
+383
+00:36:29,543 --> 00:36:34,987
+to determine if the art style of the new DC
+Prime animated universe was very different
+
+384
+00:36:35,007 --> 00:36:39,832
+from the Tomorrowverse. Like, was that final
+scene done in the same style that the upcoming
+
+385
+00:36:39,872 --> 00:36:44,396
+Creature Commandos is going to be in? And if
+so, is this our first look at James Gunn's
+
+386
+00:36:44,476 --> 00:36:50,761
+new DCU? It's hard to tell. Because the character
+designs in the Tomorrowverse weren't like that
+
+387
+00:36:50,842 --> 00:36:56,806
+same kind of blocky Tim-verse style, you know,
+they were all pretty unique. I can't tell if
+
+388
+00:36:56,907 --> 00:37:02,512
+this is a new style of animation or if it's
+more of the same. It looks like it's more of
+
+389
+00:37:02,572 --> 00:37:07,656
+the same to me personally. But who's to say
+that that's not the style that we'll be seeing
+
+390
+00:37:07,676 --> 00:37:12,220
+with Creature Commandos? It could be. I guess
+we'll find out later this year. If this in
+
+391
+00:37:12,260 --> 00:37:18,326
+fact is that same style, I wonder if this implies
+that this is our first look at Wonder Woman
+
+392
+00:37:18,786 --> 00:37:24,379
+in James Gunn's DCU. And maybe our first look
+at- Themyscira that's gonna be in the Paradise
+
+393
+00:37:24,439 --> 00:37:29,844
+Lost HBO series. And maybe our first look at
+the Wonder Woman costume that she'll be wearing
+
+394
+00:37:30,124 --> 00:37:35,128
+with like the pants, which I would hate. Lot
+of speculation, lot of unanswered questions,
+
+395
+00:37:35,648 --> 00:37:44,095
+which I don't love. Like at the end of a cinematic
+universe, as it were, I would love for everything
+
+396
+00:37:44,135 --> 00:37:51,241
+to be wrapped up in a nice bow. That's not the
+case here. And I can't express how disappointed
+
+397
+00:37:51,421 --> 00:37:57,685
+I am. by the whole Tomorrowverse project. Now,
+with this film specifically, though it's ambitious
+
+398
+00:37:57,725 --> 00:38:04,190
+and heartfelt, it's convoluted and it's a dull
+conclusion to the Tomorrowverse that proves
+
+399
+00:38:04,330 --> 00:38:10,794
+inaccessible to all but DC's most diehard animation
+fans. I really hope you guys are out there
+
+400
+00:38:11,275 --> 00:38:15,237
+and I really hope you were able to get some
+enjoyment out of this if you were, because
+
+401
+00:38:15,638 --> 00:38:22,946
+no one else did. And I say that as a diehard
+animation fan from DC. Now we gave Crisis Part
+
+402
+00:38:23,186 --> 00:38:31,228
+1 3.5 stars, we gave Crisis Part 2 3 stars.
+I think this film, Part 3, is one step below
+
+403
+00:38:31,248 --> 00:38:39,831
+that. So I'm giving it 2.5 stars, a rotten rating
+on Rotten Tomatoes. I don't recommend it, and
+
+404
+00:38:40,011 --> 00:38:47,353
+overall I can't really say I recommend the Tomorrowverse
+as a whole, unfortunately. I would recommend
+
+405
+00:38:47,553 --> 00:38:53,496
+if you're interested in getting into DC animation.
+to either re-watch or watch for the first time
+
+406
+00:38:53,977 --> 00:38:58,301
+the DC animated movie universe, which began
+with Justice League the Flashpoint Paradox
+
+407
+00:38:58,741 --> 00:39:03,425
+and ended with Apocalypse War. And just end
+there. Like, don't continue on after that.
+
+408
+00:39:03,445 --> 00:39:08,971
+It's not worth it. Except for maybe Batman and
+Long Halloween. That was good. Yeah. But if
+
+409
+00:39:09,031 --> 00:39:13,455
+anything, the brief glimpse that we got in this
+film of Justice League Dark Apocalypse War,
+
+410
+00:39:13,635 --> 00:39:18,454
+you know, like seeing those characters and that
+art style. and all that, just maybe remember
+
+411
+00:39:18,474 --> 00:39:23,556
+how much we connected with those characters
+emotionally. So much more than we did with
+
+412
+00:39:23,656 --> 00:39:29,639
+these hollow shells that were in the Tomorrowverse.
+And it also reminded me of just how great Apocalypse
+
+413
+00:39:29,659 --> 00:39:34,161
+War was. It definitely makes me want to rewatch
+it again. It makes me want to watch all of
+
+414
+00:39:34,181 --> 00:39:38,962
+the films in the DC animated movie universe
+because actually there's a few that I haven't
+
+415
+00:39:39,002 --> 00:39:43,944
+seen. And it was just a really well put together
+cinematic universe, one that rivaled, in my
+
+416
+00:39:43,984 --> 00:39:49,734
+opinion, the MCU's Infinity Saga. Absolutely,
+but you're not going to get a chance to re-watch
+
+417
+00:39:49,774 --> 00:39:55,256
+the DC AMU films because you have a whole lot
+of other animated television shows to watch
+
+418
+00:39:55,296 --> 00:40:02,098
+this summer including My Adventures with Superman
+season 2, Suicide Squad Isekai season 1, Batman
+
+419
+00:40:02,218 --> 00:40:09,840
+Caped Crusader season 1, Kite Man season 1,
+and Watchmen chapter 1. So you have all of
+
+420
+00:40:09,860 --> 00:40:15,081
+your free time accounted for basically. If you
+guys don't hear from me, it's because I'm watching
+
+421
+00:40:15,101 --> 00:40:21,225
+TV. That is my life now. I have to start watching
+Hit Monkey too, but I'm really looking forward
+
+422
+00:40:21,245 --> 00:40:25,830
+to that. I'm looking forward to all of it. Though
+I will say, we will be dropping some of our
+
+423
+00:40:25,850 --> 00:40:31,415
+reviews a little late, I think, just so that
+all of my life is not just television. I do
+
+424
+00:40:31,435 --> 00:40:37,801
+have a job, I do have a family. So if things
+are coming late, just expect that. Yeah, just
+
+425
+00:40:37,821 --> 00:40:42,005
+know that they are coming. But I think that
+does it for this review. AJ9K helped close
+
+426
+00:40:42,065 --> 00:40:48,671
+us out. Thanks for listening to Dynamic duel.
+Visit the show's website at dynamicduel.com
+
+427
+00:40:49,511 --> 00:40:55,213
+and follow us on Instagram at dynamicduelpodcast.
+You can support the show on Patreon at patreon.com
+
+428
+00:40:55,633 --> 00:41:00,314
+slash dynamicduel and joining a tier that works
+for you, or by rating and reviewing Dynamic
+
+429
+00:41:00,334 --> 00:41:05,996
+duel on Apple Podcasts, Spotify, Podchaser or
+on our website. Don't forget to listen to the
+
+430
+00:41:06,036 --> 00:41:11,277
+other shows in the DynaMic Podcast Network,
+including Max Destruction, Senjou World and
+
+431
+00:41:11,317 --> 00:41:16,736
+Console Combat. Our next episode is going to
+be another review, but it's going to be an
+
+432
+00:41:16,876 --> 00:41:23,161
+awesome review because it's going to be of Deadpool
+and Wolverine. Another culmination of a trilogy
+
+433
+00:41:23,201 --> 00:41:28,265
+that is infinitely more awesome than Crisis
+on Infinite Earths. I'm expecting a lot from
+
+434
+00:41:28,305 --> 00:41:31,808
+Deadpool and Wolverine and I hope it meets my
+expectations. I have to try to manage them
+
+435
+00:41:31,928 --> 00:41:37,753
+because I am just off the walls with anticipation.
+This is the only MCU film that you're getting
+
+436
+00:41:37,793 --> 00:41:42,563
+this year, right? Correct. There's still a couple
+more Sony Marvel movies coming out this year,
+
+437
+00:41:42,603 --> 00:41:47,825
+including Venom and Craven the Hunter. But Deadpool
+and Wolverine is the only MCU film. Yeah. We're
+
+438
+00:41:47,845 --> 00:41:52,827
+not getting another Marvel Studios film until
+Valentine's Day with Captain America Brave
+
+439
+00:41:52,847 --> 00:41:58,209
+New World. I was going to say sucks to suck,
+but I only have Joker 2 coming out this year.
+
+440
+00:41:58,650 --> 00:42:02,771
+But that's going to be phenomenal, like way
+better than Deadpool and Wolverine. Manage
+
+441
+00:42:02,791 --> 00:42:07,493
+your expectations. We all know Joker Part 2
+is going to suck. OK. It's a musical. All right.
+
+442
+00:42:07,513 --> 00:42:11,458
+I don't know that. You can't say that, I don't
+know that. But that does it for this episode
+
+443
+00:42:11,498 --> 00:42:16,080
+guys, we want to give a big thanks to our executive
+producers Ken Johnson, Jon Sturawski, Zachary
+
+444
+00:42:16,100 --> 00:42:21,301
+Hepburn, Dustin Belcombe, Miggie Bantanghian,
+Brandon Estergard, Nathaniel Wagner, Levi Yeaton,
+
+445
+00:42:21,661 --> 00:42:28,023
+Austin Wiselowski, AJ Dunkerley, Scott Camacho,
+Gil Camacho, Adam Spies, Andrew Schunk, Dean
+
+446
+00:42:28,063 --> 00:42:33,605
+Molesky, Devin Davis, and Joseph Kersting for
+helping make this podcast possible. And we'll
+
+447
+00:42:33,645 --> 00:42:39,042
+talk to you guys next week. Up up and away,
+true believers. My middle name is Miracle Machine.
+
