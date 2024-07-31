@@ -1,0 +1,5788 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,174 --> 00:00:28,116
+Hi and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+3
+00:00:28,396 --> 00:00:33,320
+and debate the superiority between Marvel and
+DC by comparing their characters in stat-based
+
+4
+00:00:33,460 --> 00:00:39,544
+battle simulations. I'm Marvelist Joe. And I'm
+his twin brother Johnny DC. And this is the
+
+5
+00:00:39,584 --> 00:00:44,727
+episode where we review the latest Marvel Studios
+cinematic release, Deadpool and Wolverine.
+
+6
+00:00:45,228 --> 00:00:49,170
+Was it awesome? I'm not going to say right now.
+I'll let you know my thoughts later on this
+
+7
+00:00:49,210 --> 00:00:55,114
+episode. Yeah, it was awesome. It was awesome.
+Of course it was. It was pretty damn awesome.
+
+8
+00:00:55,414 --> 00:01:00,616
+But yeah, I can't wait to talk about it. Before
+we get into that, there was a shit ton of San
+
+9
+00:01:00,636 --> 00:01:05,739
+Diego Comic-Con news to come out this past week
+for Marvel and DC. Not all of it great news.
+
+10
+00:01:06,059 --> 00:01:11,141
+In fact, most of it was really disappointing
+news. So I'm like really glad that Deadpool
+
+11
+00:01:11,161 --> 00:01:15,463
+and Wolverine was a good movie. Otherwise I'd
+be pretty damn depressed right now. But we're
+
+12
+00:01:15,483 --> 00:01:20,125
+gonna be talking about how the Russo brothers
+are attached to direct Avengers Doomsday and
+
+13
+00:01:20,145 --> 00:01:27,008
+Avengers Secret Wars. We learned that Robert
+Downey Jr. has been cast as Dr. Doom. I'm still
+
+14
+00:01:27,028 --> 00:01:32,471
+not over it. Joker Folly I do got an official
+trailer. DC Studios unveiled their new logo.
+
+15
+00:01:32,952 --> 00:01:38,475
+Fantastic Four announced their subtitle for
+the film, First Steps. We got the Penguin official
+
+16
+00:01:38,495 --> 00:01:43,958
+trailer and we got an official teaser for Creature
+Commando. So a lot to get through. As always,
+
+17
+00:01:43,978 --> 00:01:47,860
+we list our segment times in our episode description.
+So feel free to check out the show notes if
+
+18
+00:01:47,880 --> 00:01:52,869
+you wanna skip ahead to a particular topic.
+Our artificially intelligent duel simulator
+
+19
+00:01:53,029 --> 00:02:00,478
+AJ 9K has a quick message for our listeners.
+So listen up. Why hello there, do you want
+
+20
+00:02:00,538 --> 00:02:05,440
+even more from this podcast? Then become a part
+of the dynamic duel community on Patreon, where
+
+21
+00:02:05,460 --> 00:02:09,922
+you can choose from three tiers. The dynamic
+two-oh tier gives you access to our Discord
+
+22
+00:02:09,962 --> 00:02:14,884
+chat server. The fantastic four tier gives you
+two bonus episodes each month, and the X-Force
+
+23
+00:02:14,904 --> 00:02:20,222
+tier makes you an executive producer of this
+show. Lastly, The Diner Mike podcast network
+
+24
+00:02:20,262 --> 00:02:24,724
+tier lets you create your own podcast using
+this Monte Carlo simulator. Johnny and Joe
+
+25
+00:02:24,744 --> 00:02:29,447
+will help you develop your show, provide graphic
+support and consultation, and get you simulation
+
+26
+00:02:29,487 --> 00:02:35,750
+results. Pitch the twins your ideas via email
+at dynamicduelpodcast at gmail.com. Check it
+
+27
+00:02:35,810 --> 00:02:42,353
+out at patreon.com slash dynamicduel. Pip pip
+cheerio. Thanks, AJ9K, and thanks to everyone
+
+28
+00:02:42,373 --> 00:02:46,995
+who supports the podcast. Guys, be sure to tune
+into the other shows in the DynaMic podcast
+
+29
+00:02:47,035 --> 00:02:51,197
+network this week, including Max Destruction,
+which pits your favorite action heroes from
+
+30
+00:02:51,277 --> 00:02:56,100
+film and television against each other. This
+week, hosts Ken and Scotty are reviewing the
+
+31
+00:02:56,140 --> 00:03:01,023
+Deadpool and Wolverine movie, just like us.
+On the Send Your World podcast, host Zachary
+
+32
+00:03:01,043 --> 00:03:06,846
+Hepburn speculates on fights between fan favorite
+anime and manga characters. The show is currently
+
+33
+00:03:06,946 --> 00:03:12,109
+on a season hiatus, but it's coming back real
+soon, guys, and Zach's kicking things off with
+
+34
+00:03:12,169 --> 00:03:19,769
+a matchup between Hiyai of Yu Hakusho and Yuta
+Okatsu of Jujutsu Kaisen. And on the console
+
+35
+00:03:19,809 --> 00:03:24,512
+combat podcast, hosts John and Dean find out
+who'd win in fights between popular video game
+
+36
+00:03:24,532 --> 00:03:30,035
+characters. In yesterday's episode, they reviewed
+the 1993 Super Mario Brothers movie. Visit
+
+37
+00:03:30,095 --> 00:03:35,298
+dynamicpodcasts.com or click the link in our
+show notes to listen to all of the shows in
+
+38
+00:03:35,338 --> 00:03:42,430
+the DynaMic Podcast Network. But with that
+out of the way, quick to the no prize. A no
+
+39
+00:03:42,470 --> 00:03:47,112
+prize is an award Marvel used to give out to
+fans. Our version, the Dynamic duel No Prize,
+
+40
+00:03:47,372 --> 00:03:52,495
+is a digital award that we post on Instagram
+for the person that we feel gave the best answer
+
+41
+00:03:52,555 --> 00:03:56,938
+to our question of the week. Two weeks ago,
+we asked you guys what has been your favorite
+
+42
+00:03:56,998 --> 00:04:02,421
+Disney Plus original series from Marvel Studios
+so far. And we got a lot of answers, let's
+
+43
+00:04:02,461 --> 00:04:06,964
+go ahead and run down our honorable mentions
+as well as the no prize winner. Our first honorable
+
+44
+00:04:07,004 --> 00:04:15,104
+mention goes to Daniel Alonso, who said... Alright,
+so best show on Disney+. Man, I don't know
+
+45
+00:04:15,144 --> 00:04:20,568
+how you guys don't like Moon Knight. That show
+is amazing. I didn't grow up with the comics
+
+46
+00:04:20,648 --> 00:04:25,712
+or anything, so that was my first introduction.
+And you can't beat that suit. I actually really
+
+47
+00:04:25,752 --> 00:04:31,996
+love that story. The fighting was amazing. Man,
+that's the best show on Disney+. That's a Disney
+
+48
+00:04:32,016 --> 00:04:38,620
+original. Hands down, Moon Knight, dude. So
+good. Now imagine if they had actually adapted
+
+49
+00:04:38,761 --> 00:04:42,502
+the story from the comics. how much better it
+would have been then. Yeah, I mean, if you
+
+50
+00:04:42,522 --> 00:04:46,544
+guys are familiar with the Moon Knight character
+from the comics, I definitely recommend going
+
+51
+00:04:46,704 --> 00:04:52,207
+all the way back to what was episode two in
+our Batman versus Moon Knight duel episode.
+
+52
+00:04:53,227 --> 00:04:58,789
+The show was not bad. Like acting-wise, special
+effects-wise, action-wise, it was pretty cool.
+
+53
+00:04:58,849 --> 00:05:03,871
+I just thought it was pretty inconsistent with
+the rest of the MCU. And inconsistent with
+
+54
+00:05:03,911 --> 00:05:09,050
+the source material. I didn't dislike it. Even
+though a lot of the story was original. to
+
+55
+00:05:09,090 --> 00:05:14,374
+the series, they weren't bad elements, you know?
+It was still fairly interesting. Not as interesting
+
+56
+00:05:14,414 --> 00:05:19,379
+as the comic books, but interesting enough to
+kind of develop a following for the show. Great
+
+57
+00:05:19,439 --> 00:05:26,025
+answer, Daniel. Our next honorable mention goes
+to Cat Stevenson, who said, Hi guys, it's Cat
+
+58
+00:05:26,065 --> 00:05:31,590
+again, and I really want to say that the best
+Disney Plus show is Hawkeye. I know a lot of
+
+59
+00:05:31,610 --> 00:05:36,386
+people are gonna say like Loki, Falcon and the
+Winter Soldier, but Hawkeye was so good. with
+
+60
+00:05:36,586 --> 00:05:41,609
+multiple really good character introductions
+slash reintroductions with Kingpin, Echo, Kate
+
+61
+00:05:41,629 --> 00:05:47,834
+Bishop, really, really well done. I loved the
+Christmas undertones. Everything about this
+
+62
+00:05:47,874 --> 00:05:54,098
+show was amazing. I loved the action. I loved
+the acting. Everything was really good. Yeah,
+
+63
+00:05:54,138 --> 00:05:58,101
+Hawkeye was pretty good. I really liked the
+Christmas setting. I think it really made the
+
+64
+00:05:58,121 --> 00:06:03,325
+show stand apart and introduced a lot of fun
+elements with Hawkeye, such as the whole I'll
+
+65
+00:06:03,345 --> 00:06:07,706
+be home for Christmas theme. workshopping his
+own trick arrows in the vein of like Home Alone
+
+66
+00:06:07,746 --> 00:06:12,068
+or something like that. Yeah, Hawkeye was a
+lot of fun. And definitely deserved for a character
+
+67
+00:06:12,108 --> 00:06:17,089
+that never received his own film. A lot of the
+story revolved around Kate Bishop, but I thought
+
+68
+00:06:17,129 --> 00:06:22,991
+it was a great passing of the torch or bow as
+it were. Yeah. So great answer, Kat. Our next
+
+69
+00:06:23,031 --> 00:06:28,532
+honorable mention goes to Travis Herndon, who
+said, What's up dudes? Travis here. Shout out
+
+70
+00:06:28,552 --> 00:06:34,566
+to my other twins. So my answer had to be Werewolf
+by Night. I was very surprised when they announced
+
+71
+00:06:34,586 --> 00:06:40,988
+that, to finally see Werewolf by Night, Madding,
+and Elsa Bloodstone within the MCU was just
+
+72
+00:06:41,068 --> 00:06:46,290
+sick. It was awesome. This just opens the door
+to the supernatural part of the MCU, which
+
+73
+00:06:46,330 --> 00:06:53,212
+was more my favorite sort of element within
+Marvel. So yeah, Werewolf by Night was my favorite.
+
+74
+00:06:53,592 --> 00:06:59,093
+Great. Yeah, I loved Werewolf by Night as a
+Halloween time special presentation by Marvel.
+
+75
+00:06:59,273 --> 00:07:04,867
+It's to this date. probably the most unique
+thing that Marvel Studios has done with its
+
+76
+00:07:04,887 --> 00:07:10,510
+short runtime, its black and white cinematography,
+the clear homages to past horror films. I thought
+
+77
+00:07:10,530 --> 00:07:15,612
+it was just incredibly fascinating. Yeah, there's
+been a number of projects that Marvel has done
+
+78
+00:07:15,712 --> 00:07:21,615
+post-Endgame, like War Wolf by Night, like Eternals,
+like Moon Knight, that they really haven't
+
+79
+00:07:21,995 --> 00:07:26,677
+picked up on. But I think of all of those things,
+I would love to see them run with War Wolf
+
+80
+00:07:26,697 --> 00:07:31,827
+by Night and the world that sets up. Yeah, like
+the dark underworld of monsters and demons
+
+81
+00:07:31,867 --> 00:07:35,829
+and stuff like that. Yeah, yeah. And monster
+hunting. It was awesome. Want to give a quick
+
+82
+00:07:35,849 --> 00:07:42,433
+shout out to Abner O'Terry, who gave the answer
+of what if, and the kingpin. Someone did a
+
+83
+00:07:42,593 --> 00:07:47,736
+really solid impression of Vincent D'Onafrio's
+kingpin who gave the answer of Echo. But the
+
+84
+00:07:47,836 --> 00:07:55,180
+winner of this week's no prize is Scott Camacho,
+who said, Odo Loki is my favorite. I'm going
+
+85
+00:07:55,200 --> 00:08:02,296
+to have to give it to WandaVision. only because
+they did a great job of the different universes
+
+86
+00:08:02,416 --> 00:08:09,020
+within episodes and then finally ending it with
+the good movie to follow. So I think out of
+
+87
+00:08:09,080 --> 00:08:13,882
+all of them, that's pretty much the one that
+nails it for me. So I'm gonna go with Wandavision.
+
+88
+00:08:14,383 --> 00:08:19,946
+Yeah, Wandavision was the first Marvel Studios
+Disney Plus original series to come out. And
+
+89
+00:08:20,226 --> 00:08:25,189
+in some ways, to me, it still feels like one
+of the most special because not only did it
+
+90
+00:08:25,209 --> 00:08:30,624
+have the unique element of riffing on classic
+television series throughout the decades, but
+
+91
+00:08:30,644 --> 00:08:35,387
+towards the end, it also felt really cinematic
+in that you're like watching a movie on the
+
+92
+00:08:35,427 --> 00:08:40,330
+small screen. And yeah, it was hugely influential
+on the greater MCU, you know, spawning movies
+
+93
+00:08:40,370 --> 00:08:45,814
+like Multiverse of Madness and the upcoming
+Agatha all along. It was just really well made.
+
+94
+00:08:46,114 --> 00:08:51,017
+And that's likely why Matt Shackman was hired
+to direct the Fantastic Four first steps movie
+
+95
+00:08:51,137 --> 00:08:55,166
+coming up. Yeah, I don't think I was the biggest
+fan of WandaVision when we reviewed it, but
+
+96
+00:08:55,206 --> 00:09:00,768
+I do have to admire it for its artistry. Like
+my favorite Disney Plus series is Loki, and
+
+97
+00:09:00,788 --> 00:09:05,009
+I'm kind of surprised no one gave that as their
+like definitive answer. But WandaVision, I
+
+98
+00:09:05,029 --> 00:09:10,571
+would say is more unique and very ambitious.
+Absolutely. So great answer, Scotty. You win
+
+99
+00:09:10,591 --> 00:09:14,652
+this week's No Prize. If you the listener want
+a shot at winning your own No Prize, stay tuned
+
+100
+00:09:14,672 --> 00:09:18,813
+to later on this episode when we'll be asking
+another question of the week. And now that
+
+101
+00:09:18,853 --> 00:09:20,813
+that's done, on to the news!
+
+102
+00:09:26,382 --> 00:09:31,326
+Alright, this past week we had the San Diego
+Comic Con event in which we get a ton of news
+
+103
+00:09:31,366 --> 00:09:36,470
+from Marvel and DC regarding their upcoming
+film, comic book, and television movie Slates.
+
+104
+00:09:37,591 --> 00:09:41,274
+There wasn't a whole lot of news, I feel like,
+this year that came out of San Diego Comic
+
+105
+00:09:41,294 --> 00:09:46,118
+Con, and the news that did come out kind of
+pissed me off. I'm not gonna lie. But let's
+
+106
+00:09:46,138 --> 00:09:50,161
+go ahead and get started going through the rundown
+of everything that happened. I think one of
+
+107
+00:09:50,181 --> 00:09:57,115
+the biggest major news items we received was
+that the fifth Avengers movie, has been renamed
+
+108
+00:09:57,195 --> 00:10:03,139
+to Avengers Doomsday. When I saw that, I actually
+got really excited because I think a lot of
+
+109
+00:10:03,199 --> 00:10:09,124
+us were expecting that Kang was gonna get replaced
+due to the offscreen drama regarding the actor
+
+110
+00:10:09,184 --> 00:10:14,268
+Jonathan Majors who plays the character of Kang.
+Now, you know, if it were me, I wish they would
+
+111
+00:10:14,288 --> 00:10:18,232
+have just recast Kang. I don't think anybody
+would have minded that. But it seems like they're
+
+112
+00:10:18,252 --> 00:10:25,357
+going in a completely different direction by
+going with Dr. Doom instead of Kang the Conqueror.
+
+113
+00:10:25,906 --> 00:10:31,268
+And that normally would really thrill me until
+I heard about the casting. But before I talk
+
+114
+00:10:31,288 --> 00:10:36,051
+about that, we got release dates for the next
+two Avengers movies. So Avengers Doomsday is
+
+115
+00:10:36,071 --> 00:10:42,254
+going to come out in two years, May 2026, which
+seems really damn soon. It's likely going to
+
+116
+00:10:42,314 --> 00:10:47,596
+be filmed back to back with Avengers Secret
+Wars, which comes out May 2027, just due to
+
+117
+00:10:47,636 --> 00:10:51,863
+the proximity of those two release dates. Yeah,
+and of course, that's what the Russos did with
+
+118
+00:10:51,923 --> 00:10:56,205
+Infinity War and Endgame. Those two films came
+out almost a year apart, and I believe they
+
+119
+00:10:56,225 --> 00:11:00,707
+were filmed simultaneously. Yeah, we haven't
+had an Avengers film for about six years now,
+
+120
+00:11:00,787 --> 00:11:04,389
+and we won't have another one for two years.
+You know, the Avengers are the crown jewel
+
+121
+00:11:04,429 --> 00:11:10,713
+of the MCU, those movies. So it'll be nice to
+see them come back and get those epic team
+
+122
+00:11:10,753 --> 00:11:14,895
+stories where we have a lot of characters involved.
+They're always a lot of fun. So I'm really
+
+123
+00:11:14,935 --> 00:11:18,957
+excited for these upcoming two movies, even
+though I have no idea now what Doomsday is
+
+124
+00:11:18,997 --> 00:11:25,573
+going to be about. But let's talk about Doctor
+Doom. Doctor Doom, as I think most people know,
+
+125
+00:11:25,753 --> 00:11:31,996
+especially Marvel fans, is probably Marvel's
+biggest villain. And I'm talking about bigger
+
+126
+00:11:32,016 --> 00:11:37,819
+than Thanos in terms of popularity and threat
+level to Earth's heroes on a consistent basis.
+
+127
+00:11:38,080 --> 00:11:43,983
+Thanos is very threatening, but he's a cosmic
+villain that makes fewer appearances than Doctor
+
+128
+00:11:44,023 --> 00:11:49,694
+Doom. Doctor Doom is huge. He's primarily a
+Fantastic Four villain, posed a threat to almost
+
+129
+00:11:49,794 --> 00:11:54,776
+every single Marvel hero throughout his span
+in the Marvel comics. He was the inspiration
+
+130
+00:11:54,796 --> 00:11:59,358
+for Darth Vader. Right. Was he? Yeah. I heard
+that was a rumor. I don't know if that's actually
+
+131
+00:11:59,418 --> 00:12:02,920
+true. I believe it. But it wouldn't surprise
+me. Yeah. Yeah, I believe it. For sure. The
+
+132
+00:12:02,960 --> 00:12:07,622
+mask that he wears, very intimidating. You know,
+he has his own country. He's the monarch of
+
+133
+00:12:07,682 --> 00:12:13,084
+Latveria. He's a master of occult magic, similar
+to Doctor Strange, but he's also a technological
+
+134
+00:12:13,124 --> 00:12:18,107
+genius much like Reed Richards or Tony Stark.
+So he's very formidable. A lot of people have
+
+135
+00:12:18,127 --> 00:12:23,332
+been looking forward to an accurate depiction
+of the comic book character ever since, you
+
+136
+00:12:23,352 --> 00:12:28,538
+know, before the 2005 Fantastic Four movie because
+the Doom we got in that one sucked. You know,
+
+137
+00:12:28,578 --> 00:12:33,963
+they gave him bioelectricity powers. The Dr.
+Doom that was in the 2015 Phantaforstick movie
+
+138
+00:12:34,463 --> 00:12:38,787
+also sucked. You know, he was like some kind
+of weird telekinetic mutant birthed out of
+
+139
+00:12:38,808 --> 00:12:43,571
+the negative zone. They never got him right.
+And so with the advent of the Fantastic Four
+
+140
+00:12:43,591 --> 00:12:47,815
+movie coming out, a lot of people were really
+anticipating who they were going to cast as
+
+141
+00:12:47,875 --> 00:12:53,279
+Dr. Doom, whether he show up in Fantastic Four
+or in Secret Wars or whatever. And what's really
+
+142
+00:12:53,319 --> 00:12:58,784
+sad is that all of these Dr. Doom fans are still
+going to have to wait for an accurate depiction
+
+143
+00:12:59,244 --> 00:13:04,408
+of the comic book character because fucking
+Robert Downey Jr. is gonna play Victor Von
+
+144
+00:13:04,448 --> 00:13:12,878
+Doom? I don't know. What? What is happening?
+Such a dumbass idea. So basically you have
+
+145
+00:13:13,098 --> 00:13:18,980
+one of the most beloved and most popular actors
+to portray a Marvel Studios character coming
+
+146
+00:13:19,040 --> 00:13:24,161
+back, but not as that character, as a completely
+different, perhaps, variant of Doctor Doom,
+
+147
+00:13:24,301 --> 00:13:28,502
+or perhaps, you know, they're taking a cue from
+one of the comic book storylines where Doctor
+
+148
+00:13:28,542 --> 00:13:32,843
+Doom became Iron Man. And note that I said Doctor
+Doom became Iron Man in the comics. It was
+
+149
+00:13:32,883 --> 00:13:36,964
+never really the other way around outside of
+like a couple issues where an alternate universe,
+
+150
+00:13:37,024 --> 00:13:42,466
+Tony Stark, became Doctor Doom. And maybe that's
+what they're doing here. I think the only way
+
+151
+00:13:42,506 --> 00:13:48,530
+this could possibly work is if Robert Downey
+Jr. is Victor Von Doom in the alternate universe
+
+152
+00:13:48,550 --> 00:13:52,432
+that the Fantastic Four come from. Because we
+know that the Fantastic Four movie is taking
+
+153
+00:13:52,472 --> 00:13:56,034
+place in an alternate universe. And that's why
+we're getting like a female silver surfer and
+
+154
+00:13:56,054 --> 00:14:00,297
+everything like that. That's the only way I
+see this working. But there's no way in hell
+
+155
+00:14:00,837 --> 00:14:07,301
+I will accept Robert Downey Jr. being Victor
+Von Doom in the primary 616 cinematic universe.
+
+156
+00:14:07,961 --> 00:14:13,051
+It just doesn't work. No, it boggles the mind,
+honestly. I remember when we were talking about
+
+157
+00:14:13,251 --> 00:14:17,393
+Silver Surfer and how she was going to be a
+female, and it was like, OK, does Norenrad
+
+158
+00:14:17,433 --> 00:14:23,115
+not exist in the 616? And in the same way, does
+that mean Victor Von Doom does not exist in
+
+159
+00:14:23,155 --> 00:14:28,757
+the 616? It's just weird to me. I feel like
+what they're trying to do is make it weird
+
+160
+00:14:29,038 --> 00:14:34,120
+for the 616 heroes when they see Victor Von
+Doom and they're like, oh, what, Tony? Oh,
+
+161
+00:14:34,400 --> 00:14:41,887
+I'm so conflicted. But it's stupid, I feel like.
+I just think he's really miscast. When I think
+
+162
+00:14:41,947 --> 00:14:47,489
+of Doctor Doom, I think of someone very sinister
+and very cunning. And not that RDJ can't play
+
+163
+00:14:47,529 --> 00:14:53,212
+that, but he's known for playing these fast
+talking, wisecracking characters. And I really
+
+164
+00:14:53,252 --> 00:14:58,714
+don't want to see that in Doctor Doom. No, absolutely
+not. No, he's not Doctor Doom. Maybe they'll
+
+165
+00:14:58,754 --> 00:15:02,636
+alter his voice. You know, maybe they'll cover
+up his face. I mean, they should cover up his
+
+166
+00:15:02,676 --> 00:15:06,917
+face. You never really see Doom's face. And
+if you do, it's allegedly scarred to hell.
+
+167
+00:15:07,222 --> 00:15:11,024
+from when he burned his face when he put the
+mask on for the first time, as the legend goes.
+
+168
+00:15:11,545 --> 00:15:16,108
+But even if we don't see his face, I still don't
+want Robert Downey Jr. to play Dr. Doom. I
+
+169
+00:15:16,128 --> 00:15:20,511
+mean, that's even more of a reason to not cast
+him, because you could literally cast anybody.
+
+170
+00:15:20,891 --> 00:15:25,034
+You could literally cast anyone with a great
+voice who could act behind a mask, and there
+
+171
+00:15:25,074 --> 00:15:30,638
+you go. It does not have to be someone who was
+notorious for making an insane amount of money
+
+172
+00:15:31,118 --> 00:15:37,115
+on these Marvel films. It feels like creative
+bankruptcy, right? You know... The MCU is kind
+
+173
+00:15:37,195 --> 00:15:41,378
+of in shambles right now because over the past
+couple years, they haven't been getting as
+
+174
+00:15:41,418 --> 00:15:47,223
+much of a return on their films. So it's like
+a big marketing move in that they're getting
+
+175
+00:15:47,263 --> 00:15:52,868
+their biggest star back in an effort to entice
+viewers back to the theater. But it's not the
+
+176
+00:15:52,908 --> 00:15:57,111
+right call. There are so many great actors out
+there that could have played Doctor Doom that
+
+177
+00:15:57,131 --> 00:16:02,535
+would have gotten me so excited. I did not watch
+Marvel movies to see Robert Downey Jr. I watched
+
+178
+00:16:02,596 --> 00:16:08,420
+Marvel movies to see Tony Stark. And that's
+all I'm gonna see when I'm watching Avengers
+
+179
+00:16:08,460 --> 00:16:14,625
+Doomsday, which can I just mention is a horrible
+fucking title? Doomsday, really the Superman
+
+180
+00:16:14,645 --> 00:16:19,990
+villain? I know it's not based off of that,
+but it's like a movie coming out That's called
+
+181
+00:16:20,250 --> 00:16:26,555
+Justice League Dr. Doom Exactly. Well, they
+should have just called it Avengers Doom. I
+
+182
+00:16:26,615 --> 00:16:31,779
+think that would have been better Doomsday Yeah,
+of course is a DC villain one of the most popular
+
+183
+00:16:31,819 --> 00:16:35,989
+DC villains, you know, the guy that fucking
+killed Superman I just don't know what they're
+
+184
+00:16:36,009 --> 00:16:41,143
+doing over at the MCU, especially with this
+Robert Downey Jr. casting choice. And that
+
+185
+00:16:41,183 --> 00:16:42,487
+brings us to our question of the week.
+
+186
+00:16:47,094 --> 00:16:53,457
+What the fuck? Record your answer at dynamicduel.com
+by clicking on the red microphone button in
+
+187
+00:16:53,497 --> 00:16:57,080
+the bottom right-hand corner of the screen,
+which will prompt you to leave us a voicemail.
+
+188
+00:16:57,380 --> 00:17:01,242
+Your message could be up to 30 seconds long,
+and don't forget to leave your name in case
+
+189
+00:17:01,262 --> 00:17:06,105
+we include you on the podcast. We'll pick our
+favorite answer and award that person a Dynamic
+
+190
+00:17:06,125 --> 00:17:11,268
+Duel No Prize that we'll post to Instagram.
+Be sure to answer before August 3rd. Can't
+
+191
+00:17:11,308 --> 00:17:12,469
+wait to hear you guys' answers.
+
+192
+00:17:20,274 --> 00:17:27,117
+In DC news, in good news, we got to the official
+trailer for Joker Folly I Do, the sequel to
+
+193
+00:17:27,397 --> 00:17:31,820
+the Joker film, which was fantastic. A lot of
+people aren't looking forward to this Joker
+
+194
+00:17:31,860 --> 00:17:35,802
+sequel because they don't like the idea of a
+musical, but the more I see from the movie,
+
+195
+00:17:35,942 --> 00:17:42,125
+the more I'm falling in love with the concept,
+the more I just am in awe of the cinematography
+
+196
+00:17:42,486 --> 00:17:46,768
+and the acting performances that it looks like
+we're going to get for this movie. It looks
+
+197
+00:17:46,788 --> 00:17:53,707
+like it's going to be a masterpiece. Oh my God.
+I'm sorry, what? Calm down, OK? It looks mid
+
+198
+00:17:53,847 --> 00:17:59,868
+at best. Oh, my gosh. If this doesn't look like
+a masterpiece, I don't know what a masterpiece
+
+199
+00:17:59,948 --> 00:18:06,990
+looks like. And clearly, you don't either. Sure,
+I do. Then it's OK. So then you recognize this
+
+200
+00:18:07,130 --> 00:18:12,252
+looks like one. No, it doesn't. Well, then you
+don't know. You don't know what you're talking
+
+201
+00:18:12,272 --> 00:18:19,542
+about. You could just sit this one out. The
+the trailer starts off with. Arthur Fleck being
+
+202
+00:18:19,722 --> 00:18:24,806
+escorted, I think, to a courtroom. And on the
+radio, you hear different voices talking about
+
+203
+00:18:24,866 --> 00:18:29,269
+him. The first time I watched this trailer,
+I watched it without subtitles, which I like
+
+204
+00:18:29,289 --> 00:18:34,612
+to do because sometimes subtitles can give away
+different lines before you hear them. So I
+
+205
+00:18:34,632 --> 00:18:40,136
+had no idea that one of those voices was Harvey
+Dent. I had no idea Harvey Dent was going to
+
+206
+00:18:40,156 --> 00:18:45,980
+be in this movie. That gets me so much more
+pumped up to see it, because you have to imagine
+
+207
+00:18:46,040 --> 00:18:51,719
+if he's involved in the courtroom scenes. Something's
+gonna happen to him. And that's gonna be wild
+
+208
+00:18:51,759 --> 00:18:57,063
+to see how that happens in this Joker universe,
+because it's just so surprising and violent.
+
+209
+00:18:57,403 --> 00:19:01,005
+Do you think Joker's gonna throw acid in his
+face or something like that? I don't know,
+
+210
+00:19:01,045 --> 00:19:05,447
+him or Harley Quinn, maybe he gets shot in the
+face. I have no idea. I just imagine it's gonna
+
+211
+00:19:05,487 --> 00:19:10,690
+be very intense. We get to hear Joaquin Phoenix
+singing for the first time in this movie, along
+
+212
+00:19:10,730 --> 00:19:17,574
+with Lady Gaga as well. They're not coming across
+as like very polished singers. Which is interesting
+
+213
+00:19:17,594 --> 00:19:21,516
+because I thought the musical numbers were going
+to be much bigger. We haven't really seen anything
+
+214
+00:19:21,636 --> 00:19:26,419
+like that yet in these trailers, though I do
+imagine they will be in the film in Arthur's
+
+215
+00:19:26,479 --> 00:19:32,282
+sort of imagined sequences in his mind. We see
+a number of those sequences in this trailer,
+
+216
+00:19:32,302 --> 00:19:37,485
+like when him and Harley are on stage or when
+they're dancing in the courtroom or on the
+
+217
+00:19:37,545 --> 00:19:43,268
+rooftops and stuff like that. But in this trailer,
+you also get a sense of the origin of how Harley
+
+218
+00:19:43,288 --> 00:19:48,747
+Quinn became enamored with Arthur Fleck. You
+know, she saw him on TV for the first time
+
+219
+00:19:49,088 --> 00:19:54,572
+and he spoke to her in the same way that the
+Joker has spoken to a number of people, particularly
+
+220
+00:19:54,612 --> 00:19:59,196
+in Gotham City. But also you see that spilling
+out into the real world, where in like political
+
+221
+00:19:59,236 --> 00:20:04,220
+protests, you'll see people wearing Joker masks
+or clown makeup in the same way that people
+
+222
+00:20:04,380 --> 00:20:09,084
+used to wear the Guy Fawkes mask from V for
+Vendetta. But it's believable, you know, that
+
+223
+00:20:09,164 --> 00:20:14,368
+someone like Harley Quinn would be influenced
+by him. It does look like she is a patient
+
+224
+00:20:14,609 --> 00:20:19,791
+in Arkham Asylum. Though my theory is still
+that she's manipulating the Joker. We'll see
+
+225
+00:20:19,831 --> 00:20:24,293
+if that's a valid theory or not. She definitely
+influences the Joker and makes him feel like
+
+226
+00:20:24,513 --> 00:20:29,795
+he's a star if he didn't feel like that already.
+And one of the guards played by Brendan Gleeson
+
+227
+00:20:30,256 --> 00:20:34,657
+mentions that. And I think that totally makes
+sense that the Joker would think that he was
+
+228
+00:20:34,677 --> 00:20:39,920
+a star based on the ending of the first Joker
+movie, how he just stood up on that police
+
+229
+00:20:39,940 --> 00:20:45,778
+car and felt like seen for the very first time.
+He's conflating fame with infamy. Sort of.
+
+230
+00:20:45,858 --> 00:20:51,182
+Like people are influenced by him in this weird
+way. And yeah, it could be infamous, the guy
+
+231
+00:20:51,423 --> 00:20:57,447
+is a violent killer. But like, people were praising
+him around that cop car. So he probably feels
+
+232
+00:20:57,467 --> 00:21:01,451
+like he's doing the world a favor in some weird
+way. I don't know, maybe drawing attention
+
+233
+00:21:01,531 --> 00:21:06,415
+to people who feel unseen. I don't know. The
+first movie of course was a sympathetic look
+
+234
+00:21:06,555 --> 00:21:10,318
+at the Joker. So I imagine they'll continue
+to run with this. And that's kind of horrifying,
+
+235
+00:21:10,538 --> 00:21:16,430
+I agree. But it makes for damn good cinema.
+The music in this trailer. so damn good using
+
+236
+00:21:16,530 --> 00:21:22,431
+Frank Sinatra and Judy Garland. It really gives
+you the vibe of what kind of musical numbers
+
+237
+00:21:22,451 --> 00:21:27,873
+they'll be doing in the movie, like these classic
+mid-century tunes. They're just nailing the
+
+238
+00:21:27,913 --> 00:21:35,895
+tone. They're crushing the tone. All it is tone.
+That's all it is. But damn, that tone, though.
+
+239
+00:21:36,295 --> 00:21:40,356
+Yeah, there's not much substance to these trailers.
+You know, it's like you get a line here or
+
+240
+00:21:40,396 --> 00:21:46,771
+there and then you get a crescendo swelling
+of music. Yeah, and you see the Joker and makeup
+
+241
+00:21:46,791 --> 00:21:49,912
+and stuff like that and then you see the title
+and then it's over like You really have no
+
+242
+00:21:49,992 --> 00:21:54,294
+idea Too much of what the overall story is going
+to be or how they're going to make it interesting
+
+243
+00:21:54,334 --> 00:22:01,157
+like is it a trial movie? Uh, is it a romance?
+All of the above who knows yes all of the above
+
+244
+00:22:01,317 --> 00:22:06,939
+I imagine honestly I'm sold on tone like I don't
+want to know too much of the story Like if
+
+245
+00:22:06,959 --> 00:22:10,501
+you can get me with the performances if you
+could get me with the music if you could get
+
+246
+00:22:10,521 --> 00:22:15,723
+me with a hint of a story If you could get me
+with the revelation that Harvey Dent is going
+
+247
+00:22:15,743 --> 00:22:23,246
+to be in this movie, you got me. Check your
+expectations, man. Fuck you. It's too late.
+
+248
+00:22:23,466 --> 00:22:28,849
+I'm too far gone. There's no hope. I just need
+to see the movie. Well, it comes out in just
+
+249
+00:22:28,889 --> 00:22:33,891
+a little over two months and I will be there
+day one. I honestly hope to get like an early
+
+250
+00:22:33,951 --> 00:22:38,193
+screening for this. I want to see as many times
+as I can in theaters before we have to review
+
+251
+00:22:38,253 --> 00:22:42,824
+it. And I'm really looking forward to it. Mind
+you, you did not like the first Joker movie
+
+252
+00:22:42,864 --> 00:22:47,388
+the first time you saw it. That's very true.
+That's very true. You better watch yourself.
+
+253
+00:22:47,848 --> 00:22:53,673
+This time I'm not going to take all my coworkers
+so I can feel like uneasy and almost like embarrassed.
+
+254
+00:22:53,693 --> 00:22:58,897
+It's just me going in. And I love how these
+trailers are letting me know what to expect.
+
+255
+00:22:59,298 --> 00:23:03,341
+Now, the Joker trailer came out before Comic-Con
+so that it could play in front of the Deadpool
+
+256
+00:23:03,361 --> 00:23:09,102
+movies at Comic-Con. There wasn't too much of
+a presence from DC Studios. James Gunn wasn't
+
+257
+00:23:09,122 --> 00:23:16,247
+there, but he did record a video to unveil the
+new logo for DC Studios and DC in general.
+
+258
+00:23:16,828 --> 00:23:23,533
+I say new, but it's really not. It's just a
+return to the classic DC Bullet logo that was
+
+259
+00:23:23,573 --> 00:23:29,818
+designed by the renowned graphic designer Milton
+Glazer. Now let's be real, it's a step down
+
+260
+00:23:30,158 --> 00:23:37,262
+from what came previously. The existing DC Comics
+logo. I thought was a great modern interpretation
+
+261
+00:23:37,422 --> 00:23:42,745
+of the bullet logo. You know, it simplified
+it and made it really clean and bold. Returning
+
+262
+00:23:42,765 --> 00:23:49,367
+to the logo that they used in the 80s and 90s
+seems dumb. Which was my initial reaction because
+
+263
+00:23:49,467 --> 00:23:53,949
+I was under the impression that it was only
+DC studios that was going to be using this
+
+264
+00:23:53,989 --> 00:23:58,631
+logo and not the comics, not the merch, not
+the video games or anything else. Which I thought
+
+265
+00:23:58,651 --> 00:24:05,134
+was really bad for brand synergy. Like you don't
+want one division using one logo for DC and
+
+266
+00:24:05,194 --> 00:24:12,497
+other divisions not using that same logo. I
+do really like DC's most recent logo. I agree
+
+267
+00:24:12,517 --> 00:24:17,439
+with you. I thought it was a great interpretation
+of not only the DC bullet, but a lot of other
+
+268
+00:24:17,479 --> 00:24:24,642
+logos from DC's past. It was perfection in my
+opinion. That said, my second favorite DC logo
+
+269
+00:24:25,002 --> 00:24:29,144
+is absolutely the bullet. It's the one that
+was around when I first started reading comics.
+
+270
+00:24:29,304 --> 00:24:34,354
+So I don't know if nostalgia plays a factor,
+but yeah, the design is not bad. Well, I mean,
+
+271
+00:24:34,394 --> 00:24:39,939
+it's inferior, but I understand why they needed
+to do this because they needed to make it clear
+
+272
+00:24:39,979 --> 00:24:44,624
+to the general public that DC is moving in a
+new direction, that they're like establishing
+
+273
+00:24:44,664 --> 00:24:50,489
+a new cinematic universe and whatnot. But the
+issue is that DC has rebranded like 50 fucking
+
+274
+00:24:50,549 --> 00:24:56,415
+times in the last couple of decades. Yeah. You
+had the swoosh logo. You had the stupid like
+
+275
+00:24:56,515 --> 00:25:02,055
+fold over logo. That was a really bad logo.
+But then you also had the most recent modern
+
+276
+00:25:02,115 --> 00:25:06,939
+DC logo, which was fantastic. Because of all
+these changes, I think DC knew that they couldn't
+
+277
+00:25:07,079 --> 00:25:12,503
+really afford to go in another new direction
+and still maintain that solid brand awareness.
+
+278
+00:25:13,023 --> 00:25:17,366
+In that regard, they had to go back to something
+that had come previously, and so they went
+
+279
+00:25:17,386 --> 00:25:23,791
+with their classic logo. Something that is arguably
+more iconic. When I talk to people about DC
+
+280
+00:25:23,831 --> 00:25:29,395
+comics, I talk about Watchmen, I talk about
+Dark Knight Returns. All of these things came
+
+281
+00:25:29,495 --> 00:25:36,944
+out during the DC Bullet logo era, so it's not
+surprising that they would want to remind people
+
+282
+00:25:37,104 --> 00:25:42,290
+of that and be like, hey, remember when you
+loved DC Comics? Well, get ready to love it
+
+283
+00:25:42,310 --> 00:25:47,556
+again, because here we are. I do agree that
+they probably wanted something new. I don't
+
+284
+00:25:47,576 --> 00:25:51,527
+know if they needed it. But yeah, you're right.
+It would have signaled to everyone that, hey,
+
+285
+00:25:51,567 --> 00:25:55,588
+this is a brand new era. And there's a lot of
+different companies who are going back to their
+
+286
+00:25:55,688 --> 00:26:00,050
+old retro logos. Like fast food chains like
+Pizza Hut and Burger King. You know, they're
+
+287
+00:26:00,070 --> 00:26:05,892
+all going back to the 70s and 80s. So, you know,
+I guess it's just DC's turn. I don't love it.
+
+288
+00:26:05,992 --> 00:26:10,394
+I wish it never happened. But if it had to happen,
+you could have done worse logos than the bullet.
+
+289
+00:26:10,834 --> 00:26:14,356
+All I know is that Marvel better not do this
+shit because I'll be pissed. What? You don't
+
+290
+00:26:14,376 --> 00:26:19,150
+like the classic Marvel logo with the lettering
+on top of the giant and with yellow? comics
+
+291
+00:26:19,250 --> 00:26:23,753
+written across it? It's fine. You know, that's
+the logo that they had when I grew up reading
+
+292
+00:26:23,773 --> 00:26:27,616
+the comics and everything like that, but it's
+been improved upon and I don't want to see
+
+293
+00:26:27,636 --> 00:26:34,081
+them doing a DC. Oh, you mean being badass?
+No, I mean fucking up. You guys are fucking
+
+294
+00:26:34,101 --> 00:26:40,205
+up plenty. Don't. Exactly. Don't act like you're
+not. Speaking of fucking up, back to Marvel
+
+295
+00:26:40,225 --> 00:26:45,289
+news, we got the first subtitle announced for
+the Fantastic Four movie. A lot of us just
+
+296
+00:26:45,329 --> 00:26:50,910
+thought that. This upcoming MCU Fantastic Four
+film would just be called Fantastic Four or
+
+297
+00:26:50,990 --> 00:26:56,435
+The Fantastic Four. But no, it's going to be
+called Fantastic Four First Steps. And the
+
+298
+00:26:56,715 --> 00:27:03,001
+title treatment kind of makes it seem like a
+kid's cartoon. And I understand that's probably
+
+299
+00:27:03,041 --> 00:27:09,507
+due in part to the 60s sitcom vibe that they're
+kind of going with. But I don't know why they
+
+300
+00:27:09,547 --> 00:27:13,890
+needed a subtitle for this movie. It makes it
+sound like. Fantastic Four are learning how
+
+301
+00:27:13,910 --> 00:27:18,474
+to walk. Now, the only way that this subtitle
+works, I think, and really it could work on
+
+302
+00:27:18,534 --> 00:27:23,798
+multiple levels. First Steps could allude to
+the Fantastic Four taking their first steps
+
+303
+00:27:23,838 --> 00:27:28,061
+on the moon or something like that. If in fact,
+you know, this is the 60s and part of their
+
+304
+00:27:28,162 --> 00:27:32,525
+space exploration where they run into their
+cosmic ray accident is part of the space race
+
+305
+00:27:32,845 --> 00:27:37,289
+or something like that. I can see that working.
+But I think more than that, in order for this
+
+306
+00:27:37,309 --> 00:27:42,228
+subtitle to work... A big part of the storyline
+needs to revolve around Reed and Sue becoming
+
+307
+00:27:42,308 --> 00:27:47,993
+parents for the first time. Because then you
+have first steps alluding to Franklin and maybe
+
+308
+00:27:48,033 --> 00:27:52,976
+Valeria as well, as their children taking their
+first steps. I feel like Valeria is a bit of
+
+309
+00:27:52,996 --> 00:27:57,980
+a stretch, maybe all you need is Franklin, but
+even then that seems really soon. I guess it
+
+310
+00:27:58,000 --> 00:28:03,144
+is a way to differentiate this Fantastic Four
+film from other Fantastic Four films in that
+
+311
+00:28:03,424 --> 00:28:08,843
+Reed and Sue would become parents and maybe
+make this film feel more family oriented. So
+
+312
+00:28:08,863 --> 00:28:13,726
+it's not a terrible idea. I just don't think
+it needed the subtitle. It didn't. I'm not.
+
+313
+00:28:13,786 --> 00:28:18,349
+I'm not a fan of the subtitle. Fantastic for
+first steps. I don't ever want to call it that.
+
+314
+00:28:18,369 --> 00:28:23,972
+OK, can I just say that Marvel has really been
+sucking lately when it comes to subtitles?
+
+315
+00:28:24,492 --> 00:28:31,997
+I think it started with homecoming. I was like,
+what? Homecoming? No, just stop with the sucky
+
+316
+00:28:32,217 --> 00:28:38,503
+ass subtitles. Give us like real subtitles that
+we actually want. You know, Brave New World
+
+317
+00:28:38,583 --> 00:28:44,244
+is not a bad one, but Asterisk? I guess that's
+not really a subtitle. It's just it's just
+
+318
+00:28:44,365 --> 00:28:48,686
+weird. Are you talking about the Asterisk that
+comes at the end of the Thunderbolts title?
+
+319
+00:28:49,166 --> 00:28:53,487
+Yeah, yeah. Yeah, who knows what's going on
+there? That's weird. I feel like I'm complaining
+
+320
+00:28:53,507 --> 00:28:58,248
+a lot for a subtitle, but it just confuses me
+and I hate being confused. And people really
+
+321
+00:28:58,268 --> 00:29:03,046
+shouldn't be confused at this stage in Marvel
+because they need wins. Like they can't really
+
+322
+00:29:03,086 --> 00:29:09,091
+afford bad news. I mean, maybe they can because
+Deadpool and Wolverine totally killed, but
+
+323
+00:29:09,211 --> 00:29:14,915
+that could be forgotten so easily with one more
+bad Marvel movie. Yeah, Goodwill only lasts
+
+324
+00:29:15,035 --> 00:29:20,239
+as long as your most recent announcement or
+decision or movie. You know, I've been online
+
+325
+00:29:20,259 --> 00:29:25,002
+a lot and it seems like the majority opinions
+regarding the first step subtitle and Robert
+
+326
+00:29:25,022 --> 00:29:30,806
+Downey Jr.'s return as Dr. Doom are mostly negative,
+and deservedly so. I hope Marvel listens to
+
+327
+00:29:30,826 --> 00:29:37,368
+the fans because making them happy is how they
+make money. You know what makes me happy? The
+
+328
+00:29:37,408 --> 00:29:42,149
+new Penguin trailer. Everyone who's been listening
+to the podcast knows that I love the Batman,
+
+329
+00:29:42,449 --> 00:29:47,851
+that I've really been looking forward to this
+show and how it expands the world of Matt Reeves
+
+330
+00:29:47,871 --> 00:29:52,972
+the Batman. I think Colin Farrell totally nailed
+the performance of the Penguin. I still can't
+
+331
+00:29:52,992 --> 00:29:59,090
+believe it's him in this role. And it looks
+like this show is going to be one epic. crime
+
+332
+00:29:59,110 --> 00:30:03,952
+drama of how the Penguin rises to power. We
+see him being heavily influenced by his mother
+
+333
+00:30:04,032 --> 00:30:08,393
+in this trailer who makes him feel like he should
+be the one in charge of Gotham's underworld.
+
+334
+00:30:08,734 --> 00:30:13,896
+And the trailer does a really good job of making
+the Penguin appear like a threat. You see him
+
+335
+00:30:13,956 --> 00:30:19,398
+freaking stab someone, you see him shoot people
+with machine guns, you see him plow into people
+
+336
+00:30:19,418 --> 00:30:24,100
+with his car. It's freaking crazy. Yeah it looks
+a lot more violent and action heavy than most
+
+337
+00:30:24,220 --> 00:30:28,778
+other crime shows and films. Like something
+like the Sopranos. Sure it's but I wouldn't
+
+338
+00:30:28,798 --> 00:30:33,861
+say there's a lot of action. The Penguin seems
+to have a lot of action. Yeah, I think we mentioned
+
+339
+00:30:33,901 --> 00:30:40,204
+that in our review of the last trailer that
+they put out and how the explosions and stuff
+
+340
+00:30:40,324 --> 00:30:47,328
+sets a step above, action-wise, other crime
+dramas that you see on networks like HBO. This
+
+341
+00:30:47,368 --> 00:30:52,051
+is grounded, but it's still very much oriented
+in that comic book world. Yeah, it looks more
+
+342
+00:30:52,071 --> 00:30:57,126
+like Heat as opposed to something like The Wire.
+Yeah, yeah, I could see that. This trailer
+
+343
+00:30:57,166 --> 00:31:02,809
+also gives us a really good idea of who is going
+to be Oswald's main antagonist in the show,
+
+344
+00:31:02,829 --> 00:31:07,872
+and that's going to be Sophia Falcone, the daughter
+of Carline Falcone, who we saw get shot and
+
+345
+00:31:07,892 --> 00:31:12,494
+killed in the Batman movie. It looks like both
+of those characters are going to be fighting
+
+346
+00:31:12,534 --> 00:31:16,877
+to see who comes out on top and rule Gotham's
+criminal underworld, but the wrench thrown
+
+347
+00:31:16,917 --> 00:31:22,040
+into the mix is that Sophia Falcone was apparently
+an inmate at Arkham, which definitely makes
+
+348
+00:31:22,060 --> 00:31:25,862
+things interesting. It looks like we're going
+to get to see the inside of Arkham. and I'm
+
+349
+00:31:25,902 --> 00:31:29,843
+wondering who else we're gonna see there. Maybe
+we'll see the Riddler, maybe we'll see the
+
+350
+00:31:29,883 --> 00:31:34,144
+Joker again. Maybe, that would be incredible,
+it's probably unlikely, that feels like a pipe
+
+351
+00:31:34,184 --> 00:31:39,685
+dream, but who knows. We got to a release date
+with this trailer, finally. It's going to be
+
+352
+00:31:39,725 --> 00:31:45,647
+debuting on HBO, they're really branding it
+with HBO instead of Just Max, on September
+
+353
+00:31:45,727 --> 00:31:50,928
+19th. Do you know how many episodes it's gonna
+be? Eight episodes. So we'll be reviewing this
+
+354
+00:31:50,988 --> 00:31:56,923
+like in mid-November. Also coming out this year
+in December, is Creature Commandos, which we
+
+355
+00:31:56,963 --> 00:32:02,988
+got the first teaser trailer for during Comic-Con.
+Of course, this is the first official project
+
+356
+00:32:03,408 --> 00:32:08,773
+in James Gunn's DCU Cinematic Universe, but
+it really looks like it's stemming off of the
+
+357
+00:32:08,813 --> 00:32:15,318
+events that happened in Peacemaker Season 1,
+with the outing of Amanda Waller as the head
+
+358
+00:32:15,358 --> 00:32:20,522
+of Task Force X, and it looks like here she's
+kind of doing more of the same, except instead
+
+359
+00:32:20,562 --> 00:32:27,880
+of creating a Suicide Squad, she's creating
+the Task Force M, which is somewhat in keeping
+
+360
+00:32:27,920 --> 00:32:32,803
+with the comics. They didn't call it Task Force
+M there, but they called it Project M. Interesting.
+
+361
+00:32:33,203 --> 00:32:37,927
+The show looks really good, actually. I was
+kind of blown away by how quirky everything
+
+362
+00:32:37,967 --> 00:32:43,591
+feels, how great the animation was, and how
+cool the character designs are. And the voice
+
+363
+00:32:43,631 --> 00:32:48,734
+cast is awesome. And the great thing is that
+the cast will also be playing live action versions
+
+364
+00:32:48,794 --> 00:32:54,526
+of these characters in the films. So you have
+David Harbour as Frankenstein. You have Sean
+
+365
+00:32:54,566 --> 00:32:59,949
+Gunn as Weasel, who of course played the character
+in The Suicide Squad, directed by James Gunn
+
+366
+00:32:59,969 --> 00:33:05,792
+a few years ago. Alan Tudyk is Dr. Phosphorus.
+Indira Varma is The Bride. But of course, you
+
+367
+00:33:05,812 --> 00:33:11,655
+also have Viola Davis as Amanda Waller, Frank
+Girlo as Rick Flagg Sr. and Steve Agge, who's
+
+368
+00:33:11,715 --> 00:33:16,738
+returning as John Economus. The teaser trailer
+we got was not very long. It was only a minute
+
+369
+00:33:16,758 --> 00:33:21,961
+and 30 seconds. We didn't get a great idea of
+what the story is, but it looks to be in keeping
+
+370
+00:33:22,261 --> 00:33:28,673
+pretty much with The Suicide Squad just a little
+bit more monstrous as it were. Well, it sounds
+
+371
+00:33:28,693 --> 00:33:33,797
+like they're fighting Nazis according to GI
+Robots line. Right, yeah. I love the fact that
+
+372
+00:33:33,837 --> 00:33:37,960
+these characters are getting their own show.
+The Creature Commandos have always been a really
+
+373
+00:33:38,000 --> 00:33:43,744
+cool team to me and I love the fact that James
+Gunn is kind of continuing his Suicide Squad
+
+374
+00:33:43,844 --> 00:33:49,568
+kind of zany character team group dynamic because
+he did a phenomenal job with the Suicide Squad
+
+375
+00:33:49,608 --> 00:33:53,687
+film. Again, the show is coming out in December.
+I'm not sure how many episodes there are for
+
+376
+00:33:53,747 --> 00:33:57,071
+it, but we're definitely going to review it.
+Well, if it starts in December, it's probably
+
+377
+00:33:57,091 --> 00:34:01,616
+going to lead into January, which means that
+the show probably won't qualify for a Brothers
+
+378
+00:34:01,656 --> 00:34:06,341
+Award. It'll probably go into the 2025 awards.
+Oh yeah, it's definitely going into January.
+
+379
+00:34:06,421 --> 00:34:06,861
+Absolutely.
+
+380
+00:34:13,998 --> 00:34:17,582
+But I think that does it for all the news for
+this episode, so let's go ahead and get into
+
+381
+00:34:17,622 --> 00:34:23,909
+our main event where we review the latest Marvel
+Studios movie release, Deadpool and Wolverine.
+
+382
+00:34:39,138 --> 00:34:43,660
+All right, Deadpool and Wolverine was directed
+by Sean Levy and stars Ryan Reynolds, Hugh
+
+383
+00:34:43,700 --> 00:34:49,403
+Jackman, Emma Corrin and Matthew McFadden. It's
+one of the most anticipated movies of the year,
+
+384
+00:34:49,783 --> 00:34:54,886
+the only film that Marvel Studios is releasing
+this year. But did it deliver on the hype and
+
+385
+00:34:54,926 --> 00:35:02,050
+expectations? Well, John, Adam, what do you
+guys think? I would say it did. Not just did
+
+386
+00:35:02,110 --> 00:35:09,594
+it, it massively lived up to the hype, my man.
+Welcome back to the show, guys. Longtime listeners
+
+387
+00:35:09,614 --> 00:35:14,018
+will know John and Adam Spies. They were the
+hosts of the blast from our past podcast. They
+
+388
+00:35:14,078 --> 00:35:18,721
+are the hosts of the throwback trivia take down
+podcast. And longtime listeners know them from
+
+389
+00:35:18,781 --> 00:35:24,266
+our reviews of X-Men Origins Wolverine, Batman
+Forever and Batman the Movie. Both of them
+
+390
+00:35:24,506 --> 00:35:29,590
+have been or are executive producers of Dynamic
+Duel. They are the self professed biggest Deadpool
+
+391
+00:35:29,610 --> 00:35:34,894
+fans in the world. And I believe it. And they
+are also the most requested guests. from our
+
+392
+00:35:34,954 --> 00:35:39,276
+fans. To this day, people still ask when we're
+going to do another review with Adam and John.
+
+393
+00:35:39,897 --> 00:35:44,579
+And I couldn't think of a better movie than
+the one that probably ends the journey that
+
+394
+00:35:44,599 --> 00:35:50,303
+was started with X-Men Origins Wolverine. John,
+Adam, glad to have you guys. How you guys been
+
+395
+00:35:50,343 --> 00:35:55,266
+doing? Been doing great. We just both had to
+body slide over from the BeFop Network podcast
+
+396
+00:35:55,306 --> 00:35:59,188
+verse, if you will. We've been doing great.
+We actually got to hang out with y'all just
+
+397
+00:35:59,208 --> 00:36:04,359
+a couple of weeks ago, which was wonderful in
+person. I was very excited for you all to invite
+
+398
+00:36:04,499 --> 00:36:10,562
+us for this amazing movie, which I have no doubt
+will be the first six of all time on your ratings.
+
+399
+00:36:10,682 --> 00:36:14,964
+Six out of five. That's obvious. So I want to
+jump in real quick and give a quick spoiler
+
+400
+00:36:14,984 --> 00:36:19,626
+warning to the listeners. This is a spoiler
+review. So don't like ruin the surprises for
+
+401
+00:36:19,646 --> 00:36:23,748
+yourself. If you haven't seen the movie yet,
+definitely go see the movie. It's absolutely
+
+402
+00:36:23,828 --> 00:36:29,471
+worth the ticket price. Like regardless of end
+quality. The movie itself is a big deal in
+
+403
+00:36:29,491 --> 00:36:33,593
+that it brought Hugh Jackman out of retirement,
+who had hung up his claws about seven years
+
+404
+00:36:33,633 --> 00:36:39,977
+ago after the Logan movie. John Adam, I want
+to get real quick your reactions to the Deadpool
+
+405
+00:36:40,037 --> 00:36:44,639
+3 announcement teaser that Ryan Reynolds did
+that announced that Wolverine would be in the
+
+406
+00:36:44,679 --> 00:36:51,663
+movie. I mean, I was as pleasantly surprised
+as everyone else. I didn't think it was something
+
+407
+00:36:51,683 --> 00:36:57,962
+that was beyond the realm of possibility because,
+you know, money talks. and never say never.
+
+408
+00:36:58,483 --> 00:37:03,125
+Patrick Stewart also said that he would never
+play Professor X again and then we saw him
+
+409
+00:37:03,225 --> 00:37:08,328
+a few years later in Multiverse of Madness.
+So the truth is, is any story that's worth
+
+410
+00:37:08,368 --> 00:37:15,152
+their weight is gonna entice an actor to any
+role regardless. I mean, even I heard James
+
+411
+00:37:15,192 --> 00:37:20,675
+McAvoy was asked, you know, would you ever return?
+He said, listen, if the story is there, if
+
+412
+00:37:20,715 --> 00:37:26,326
+it's a story worth telling, I'm in. And I think
+especially, actors who have been around for
+
+413
+00:37:26,347 --> 00:37:33,433
+a while where maybe money isn't necessarily
+the biggest draw, it's creativity. If you come
+
+414
+00:37:33,453 --> 00:37:39,077
+to them with something really good, they're
+probably in. I came in with a whole heart of
+
+415
+00:37:39,197 --> 00:37:44,082
+optimism. I mean obviously with Deadpool in
+the comics, him and Wolverine have a very interesting
+
+416
+00:37:44,142 --> 00:37:49,026
+relationship. It's not that buddy-buddy relationship
+that he had with Cable, which honestly I think
+
+417
+00:37:49,066 --> 00:37:54,802
+they botched in Deadpool 2 a little bit. I did
+not like Cable being as... kill hungry as he
+
+418
+00:37:54,862 --> 00:38:01,327
+as he was in that movie. But time and time again
+in Deadpool one and two, Hugh Jackman and Wolverine
+
+419
+00:38:01,668 --> 00:38:05,811
+was brought up by Deadpool like, you know, that
+first movie you take the mask off, you see
+
+420
+00:38:05,831 --> 00:38:11,335
+the Hugh Jackman mask on top. He was obviously
+a driving factor for creativity for Ryan Reynolds.
+
+421
+00:38:11,355 --> 00:38:16,459
+And so seeing them sitting together, him walking
+behind, you know, oh, hey, Hugh, you in for
+
+422
+00:38:16,499 --> 00:38:20,986
+it? And he's like, yeah, sure. Chills, man.
+It got me super excited. That's not without
+
+423
+00:38:21,026 --> 00:38:27,028
+hesitation because we all saw Logan and Logan
+is a phenomenal film. Could they make it work?
+
+424
+00:38:27,068 --> 00:38:31,330
+It's all about the story. Yeah, for sure. That
+totally makes sense. I remember seeing that
+
+425
+00:38:31,350 --> 00:38:36,372
+announcement trailer a couple of years ago and
+just being pumped, like bouncing off the walls.
+
+426
+00:38:36,652 --> 00:38:40,694
+Just I think I'm still writing the energy from
+that announcement. And it's definitely taking
+
+427
+00:38:40,834 --> 00:38:45,756
+me through all the disappointing comic news,
+the fact that this movie was good. And I definitely
+
+428
+00:38:45,776 --> 00:38:51,099
+think lived up to the expectations because.
+My big takeaway from the movie was that it
+
+429
+00:38:51,119 --> 00:38:57,804
+110% delivered on the dynamic between the main
+characters and gave us scenes that we've always
+
+430
+00:38:57,984 --> 00:39:02,367
+wanted to see as fans and even some scenes that
+we never knew we always wanted to see. It's
+
+431
+00:39:02,407 --> 00:39:06,790
+so weird because Ryan Reynolds, he definitely
+has his finger on the pulse marketing-wise
+
+432
+00:39:06,950 --> 00:39:12,254
+in terms of like what fans want. Like this is
+the movie that Doctor Strange and the Multiverse
+
+433
+00:39:12,274 --> 00:39:16,877
+of Madness should have been. This is the multiverse
+movie that all of the fans have been asking
+
+434
+00:39:16,917 --> 00:39:21,036
+for. They delivered in such a big way with all
+the different cameos and stuff like that. Yeah,
+
+435
+00:39:21,056 --> 00:39:25,238
+it was ironic that at the end of the film, Deadpool
+was like, can we cool it with the multiverse
+
+436
+00:39:25,258 --> 00:39:30,041
+thing? When, you know, in reality, he's probably
+done it better than any other film has thus
+
+437
+00:39:30,081 --> 00:39:34,083
+far. It's one of those kind of things where
+because they did so well in this film, it kind
+
+438
+00:39:34,103 --> 00:39:37,905
+of adds validation to some of the older ones.
+Go like, OK, I kind of had to sift through
+
+439
+00:39:37,925 --> 00:39:43,008
+the shit to get to where it actually makes sense.
+For sure. Yeah, like 20 years of shit. Right.
+
+440
+00:39:43,168 --> 00:39:47,916
+I mean, like they went back to the Electra movie.
+They went back to the Fantastic Four movie.
+
+441
+00:39:48,436 --> 00:39:52,160
+They gave us the Channing Tatum Gambit movie
+that we never actually got to see that was
+
+442
+00:39:52,180 --> 00:39:56,825
+canceled. And their writing and the allusions
+to that, you know, the meta side of that was
+
+443
+00:39:56,925 --> 00:40:02,590
+so perfectly done. And something you could only
+have done in a Deadpool movie. Any other movie,
+
+444
+00:40:02,610 --> 00:40:07,215
+it doesn't make sense. It seems cheesy. This
+movie, it works. Right. Yeah. All those like
+
+445
+00:40:07,315 --> 00:40:11,730
+meta in jokes where you not only have to know.
+The films themselves were probably some of
+
+446
+00:40:11,770 --> 00:40:16,351
+the behind the scenes stuff as well, like how
+Wesley Snipes was not a fan of Ryan Reynolds.
+
+447
+00:40:16,731 --> 00:40:20,152
+And he was like, I don't like you. And then
+this movie is like, he never did. That was
+
+448
+00:40:20,212 --> 00:40:24,614
+so good. Like in a way, this movie almost makes
+Blade Trinity better because it gives you some
+
+449
+00:40:24,654 --> 00:40:29,215
+closure to that whole shit storm. And like it
+never felt good watching Blade Trinity, not
+
+450
+00:40:29,235 --> 00:40:32,556
+only because it wasn't a good movie, but because
+you knew all the behind the scenes drama and
+
+451
+00:40:32,596 --> 00:40:36,957
+stuff like that. So it was nice to get a lot
+of closure. And I think that's one of the best
+
+452
+00:40:36,977 --> 00:40:41,410
+things that this movie has going for it. In
+addition. to all the fan service. But speaking
+
+453
+00:40:41,450 --> 00:40:46,893
+of the fan service, how did you guys feel about
+the movie leaving the theater? I had a shit
+
+454
+00:40:46,953 --> 00:40:51,895
+eating grin from beginning to end. First time
+I saw it, I saw it with my wife and we walked
+
+455
+00:40:51,935 --> 00:40:57,277
+out. And she, who knows very little, she knows
+basically just from marrying me, you know,
+
+456
+00:40:57,357 --> 00:41:02,779
+some tiny things about Deadpool. And she enjoyed
+the film. And I just turned her I said, I fucking
+
+457
+00:41:02,959 --> 00:41:08,161
+loved that. And then the second time I went
+with a buddy from work, who is a huge Batman
+
+458
+00:41:08,201 --> 00:41:14,224
+fan. And we've had some fun little Deadpool
+versus Batman things. And I talked to him and
+
+459
+00:41:14,285 --> 00:41:18,747
+I was like, so what do you think? He was like,
+yeah, that's better than any Batman recent
+
+460
+00:41:18,767 --> 00:41:25,691
+Batman movie. And I'm like, fuck yeah, it is.
+No lie. No, it's better. It's better than anything
+
+461
+00:41:25,711 --> 00:41:30,554
+you've had recently. I mean, because it's just
+a fun film and you're getting more for like
+
+462
+00:41:30,834 --> 00:41:35,557
+the extra nerds like us who have read comics
+and know enough about extra things. But because
+
+463
+00:41:35,737 --> 00:41:41,296
+it just brings the fun. I couldn't help but
+be in a state of euphoria at the end of this
+
+464
+00:41:41,316 --> 00:41:45,538
+film both times. I mean, I really don't have
+too much to add. That's basically how I was.
+
+465
+00:41:45,558 --> 00:41:49,540
+I saw it Friday morning, I saw it Saturday morning.
+Friday morning I left it and all I could do
+
+466
+00:41:49,560 --> 00:41:53,243
+the rest of the day was think about it. And
+I finally told my wife, I said, I got to go
+
+467
+00:41:53,263 --> 00:41:57,885
+back. I got to go back and watch it again. So
+my son and I went back the second time. And
+
+468
+00:41:58,205 --> 00:42:02,588
+I told my son as soon as we walked out, I said,
+I think I liked that even more the second time
+
+469
+00:42:02,668 --> 00:42:06,710
+I went in, even already knowing what was going
+to happen. I would agree. I think actually
+
+470
+00:42:06,750 --> 00:42:12,572
+seeing the second time, I felt like I was able
+to absorb maybe even more of a wider picture
+
+471
+00:42:12,873 --> 00:42:17,494
+because I'm not trying to take in so much detail.
+Yeah, there was a lot in this movie. I remember
+
+472
+00:42:17,594 --> 00:42:22,136
+my first reaction coming out of the theater
+was texting Joseph, letting him know, hey dude,
+
+473
+00:42:22,416 --> 00:42:28,799
+you need to see this movie more than once. I
+think my biggest takeaway coming out too was
+
+474
+00:42:29,059 --> 00:42:35,194
+just how much of a fan service movie this was
+and how rewarding it was to see as a fan. because
+
+475
+00:42:35,214 --> 00:42:40,116
+you got so much more out of it. My wife went
+to go see it with me as well and she enjoyed
+
+476
+00:42:40,176 --> 00:42:43,958
+it. But I just know that I got so much more
+out of it because I understood all of the different
+
+477
+00:42:44,018 --> 00:42:49,221
+references and meta jokes and stuff like that.
+And it's probably the most rewarding film in
+
+478
+00:42:49,241 --> 00:42:53,303
+terms of fan service than anything else that
+has ever existed. It's like even more than
+
+479
+00:42:53,444 --> 00:43:00,908
+Endgame. Definitely more than The Flash, for
+sure. Hey, hey. OK. My big takeaway walking
+
+480
+00:43:00,928 --> 00:43:04,822
+out of the movie was, I mean, I was entirely
+pleased with what they had done here. I did
+
+481
+00:43:04,882 --> 00:43:10,546
+feel like there was a story structural problem
+that Deadpool 2 had as well where there were
+
+482
+00:43:10,606 --> 00:43:16,189
+almost four acts or more of like a prequel as
+it were. Everything kind of felt more episodic
+
+483
+00:43:16,249 --> 00:43:20,652
+or like a series of comic issues than it did
+like a typical narrative structure. Why is
+
+484
+00:43:20,692 --> 00:43:25,916
+that a problem? It does make the film feel a
+little bit long and I think that moment at
+
+485
+00:43:25,956 --> 00:43:29,759
+the end when Deadpool's like hang tight folks
+were almost there, at that moment I was like
+
+486
+00:43:29,899 --> 00:43:33,961
+okay, yeah, I am kind of feeling that. Because
+you had what felt like a big third act fight.
+
+487
+00:43:34,346 --> 00:43:40,848
+with the resistance against Kuzantronova's army.
+And then you had almost an epilogue going back
+
+488
+00:43:40,888 --> 00:43:45,230
+to Deadpool's universe. You had the Deadpool
+core fight. And then even after that, you had
+
+489
+00:43:45,270 --> 00:43:49,812
+the big sacrifice to destroy the time ripper
+machine. So it felt episodic. There was a lot
+
+490
+00:43:49,832 --> 00:43:55,755
+of sequences strung together as opposed to watching
+a singular movie narrative. I will say this,
+
+491
+00:43:56,015 --> 00:44:00,737
+the first time I watched it, I felt that, I
+felt the length. The second time I watched
+
+492
+00:44:00,797 --> 00:44:05,993
+it, went by like that. Absolutely. I completely
+agree. And I think that has to do with you
+
+493
+00:44:06,013 --> 00:44:09,836
+already having the right expectations for what
+the story is going to be. Yeah. So, yeah, I
+
+494
+00:44:09,876 --> 00:44:13,600
+definitely didn't mind that as much the second
+time I watched the movie. And each of those
+
+495
+00:44:13,680 --> 00:44:18,424
+beats gave you something exciting, gave you
+something fun. Because, yeah, you had that
+
+496
+00:44:18,504 --> 00:44:24,249
+climactic, you know, oh my God, Blade and Electra
+and Gambit are all kind of getting their hero
+
+497
+00:44:24,309 --> 00:44:28,133
+moment. And that's cathartic. And then you're
+like, okay, oh shit, I'm still going on a journey
+
+498
+00:44:28,153 --> 00:44:31,726
+here. But then you're getting that. bus fight
+in that Deadpool core fight, which is incredible.
+
+499
+00:44:32,067 --> 00:44:35,628
+And then you're like, OK, shit, we are still
+going here. But then you have the emotional
+
+500
+00:44:35,668 --> 00:44:40,510
+tie of their kind of sacrifice, which wasn't
+a sacrifice, but I'm that didn't bother me,
+
+501
+00:44:40,550 --> 00:44:45,992
+honestly, because it works for Deadpool. But
+that emotional moment, it hits you in a lot
+
+502
+00:44:46,012 --> 00:44:50,154
+of different fields. Like this film did a great
+job, even though I agree. I'm actually with
+
+503
+00:44:50,194 --> 00:44:53,915
+you guys 100 percent, where it kind of felt
+like, OK, we got another thing to conclude
+
+504
+00:44:53,976 --> 00:44:59,342
+and then another thing to conclude. But I got
+satisfied conclusions from each of them. Yeah,
+
+505
+00:44:59,682 --> 00:45:03,843
+the good thing about the sort of episodic nature
+of the story is that you got a lot of great
+
+506
+00:45:03,903 --> 00:45:08,645
+moments at the end of each like little beat,
+right? There are so many moments in this movie
+
+507
+00:45:08,666 --> 00:45:13,107
+that will be contenders for the Brothers Awards
+that we do at the end of the year. You know,
+
+508
+00:45:13,127 --> 00:45:16,709
+there was the scene where they're sacrificing
+themselves listening to Madonna. Like I got
+
+509
+00:45:16,749 --> 00:45:20,831
+chills. I got teary like watching those moments
+of them thinking of like their entire arcs
+
+510
+00:45:20,851 --> 00:45:24,512
+culminating in that moment thinking they're
+about to die. I got chills during the Deadpool
+
+511
+00:45:24,532 --> 00:45:29,034
+core fight scene. What was your favorite moment
+from? the movie, would you say, if you had
+
+512
+00:45:29,054 --> 00:45:35,018
+to pick one? I want to say the one that got
+the biggest reaction from me in the theater
+
+513
+00:45:35,258 --> 00:45:40,521
+was the bait and switch of Chris Evans. Yep.
+Was the Captain America to flame when he said
+
+514
+00:45:40,561 --> 00:45:44,863
+flame on. I about shit myself because that's
+I mean, they did such a great job of peppering
+
+515
+00:45:44,923 --> 00:45:49,946
+in Captain America multiple times before. And
+Deadpool's love of him, which is pretty comic
+
+516
+00:45:50,006 --> 00:45:55,789
+accurate. And then, oh, my God, yes, it's Cap.
+And then, oh, it's not. And I just I was floored.
+
+517
+00:45:56,094 --> 00:46:00,077
+I fucking died in the theater and I can't believe
+I didn't see it coming. Yeah. But right when
+
+518
+00:46:00,097 --> 00:46:04,100
+you get that reveal, that's when you figure
+out, oh, I know exactly what this movie is
+
+519
+00:46:04,140 --> 00:46:08,244
+going to be here, at least in the void setting.
+Yes. It's just going to be a ton of cameos
+
+520
+00:46:08,324 --> 00:46:13,708
+and all this just so much fun, just so much
+fanboy excitement. Like I definitely had to
+
+521
+00:46:13,728 --> 00:46:21,034
+grab my special sock. Yeah. It was so good.
+I didn't think in a million years that Chris
+
+522
+00:46:21,094 --> 00:46:26,446
+Evans would be playing Johnny Storm again. It
+was so good. I... I wouldn't say that it was
+
+523
+00:46:26,506 --> 00:46:32,350
+spoiled for me, but I'd heard numerous people
+say, hey, he could come back as Johnny Storm
+
+524
+00:46:32,410 --> 00:46:36,753
+because they're doing this here. So that was
+kind of in the back of my mind. It was still
+
+525
+00:46:36,773 --> 00:46:42,337
+a surprise, but I was like, oh, of course they
+did this because it's the funny thing to do.
+
+526
+00:46:42,897 --> 00:46:48,001
+The thing that got the biggest reaction out
+of me, other than the initial very first trailer,
+
+527
+00:46:48,561 --> 00:46:53,084
+I didn't watch anything. I didn't watch anything
+else. I did have a couple of things spoiled
+
+528
+00:46:53,124 --> 00:46:57,851
+for me just because social media sucks. Big
+time. X23 was spoiled for me, and that was
+
+529
+00:46:57,871 --> 00:47:02,154
+without having seen the trailer. I really was
+disappointed that they spoiled that. The thing
+
+530
+00:47:02,174 --> 00:47:06,817
+that got the biggest reaction out of me was
+Wesley Snipes. Oh, yeah, that shocked the hell
+
+531
+00:47:06,857 --> 00:47:11,300
+out of me. I literally shouted, holy shit, in
+the theater right next to my 14 year old son,
+
+532
+00:47:11,480 --> 00:47:15,322
+who surprisingly didn't hear me because everyone
+else in the theater was also yelling, holy
+
+533
+00:47:15,382 --> 00:47:20,305
+shit. It was one collective holy shit. Uh-huh.
+So Wesley Snipes was actually spoiled for me.
+
+534
+00:47:20,658 --> 00:47:25,159
+And I messaged you guys on Facebook Messenger.
+I said, stay off the goddamn internet because
+
+535
+00:47:25,399 --> 00:47:30,460
+there are spoilers out there. I had opened up
+Instagram and I saw the clip of Wesley Snipes
+
+536
+00:47:30,960 --> 00:47:35,602
+and it was unforgivable. At that point, I just
+completely like did not get on Instagram or
+
+537
+00:47:35,642 --> 00:47:39,643
+anything until I saw the movie. It was a great
+feeling. It was another kind of like chills
+
+538
+00:47:39,663 --> 00:47:45,344
+down the back. Like, oh, my God, he's back.
+Oh, my God. Where's my white pants? It was
+
+539
+00:47:45,484 --> 00:47:52,511
+exactly because we're never fucking getting
+Mahershala Ali. I know, it's like 10 years
+
+540
+00:47:52,531 --> 00:47:56,973
+in the making now already almost. But I'm excited
+for Mahershala Ali's. I thought it was a great
+
+541
+00:47:57,013 --> 00:48:00,795
+meta joke when Wesley Snipes was like, it's
+only one blade and there's only gonna be one
+
+542
+00:48:00,815 --> 00:48:05,758
+blade. It was so good. I was like, I hope that's
+not actually true because we gotta get that
+
+543
+00:48:05,798 --> 00:48:10,981
+Mahershala Ali movie. I already knew that Elektra
+was gonna be in the film because that was revealed
+
+544
+00:48:11,021 --> 00:48:15,183
+by the trades back when she was actually cast.
+But I did not know that Channing Tatum was
+
+545
+00:48:15,203 --> 00:48:20,306
+gonna be in the movie. What was your reaction
+to Channing Tatum's look, accent, all I would
+
+546
+00:48:20,326 --> 00:48:26,007
+say pleasantly surprised. I felt like his headpiece
+was a little thick. That part took a little
+
+547
+00:48:26,027 --> 00:48:29,328
+way for it. Also, I don't think his hair was
+big enough. I feel like his hair needed to
+
+548
+00:48:29,348 --> 00:48:35,150
+be bigger, taller. There needed to be more.
+His accent I thought was fine. It's not an
+
+549
+00:48:35,310 --> 00:48:42,192
+easy accent to do unless you're a native speaker.
+So the shock of him being in it was fun. It
+
+550
+00:48:42,212 --> 00:48:47,173
+was the fun surprise. It wasn't the holy shit
+surprise that Blade was, but it was the fun
+
+551
+00:48:47,193 --> 00:48:51,874
+surprise of like, oh, we get to do this. This
+is cool. I thought what they did with the visual
+
+552
+00:48:51,914 --> 00:48:57,357
+effects with his cards was cool. I thought his
+fighting was fine. I thought the lines he had
+
+553
+00:48:57,397 --> 00:49:01,859
+to say was fine. Like I said, I thought his
+accent was fine. It wasn't perfect. But the
+
+554
+00:49:01,879 --> 00:49:04,920
+thing that took me, not out of it, but the thing
+that bothered me the most was I thought the
+
+555
+00:49:04,940 --> 00:49:09,202
+headpiece was too thick. For some reason, that
+kind of bothered me. Yeah. I always think of
+
+556
+00:49:09,242 --> 00:49:15,225
+Gambit as just having a very gaunt facial structure.
+And when you combine Chyney Tatum's rounder
+
+557
+00:49:15,265 --> 00:49:18,738
+face, especially as he gets older... with that
+headpiece. I just wish they got rid of the
+
+558
+00:49:18,758 --> 00:49:22,540
+headpiece. I think it would have been fine just
+with the jacket. I agree. Or make it may have
+
+559
+00:49:22,580 --> 00:49:26,902
+a cloth. It didn't have to be out of leather.
+Yeah. Or a rubber or whatever it was. I thought
+
+560
+00:49:26,982 --> 00:49:32,504
+that moment of Channing Tatum in there was another
+perfect moment for us, the extra nerds, the
+
+561
+00:49:32,544 --> 00:49:37,726
+people who really have given in the time to
+not just watch all the movies and shows because
+
+562
+00:49:37,746 --> 00:49:41,328
+we've all done that. And so many people have
+done that. But the people who know, oh, this
+
+563
+00:49:41,348 --> 00:49:44,609
+is the extra stuff that we know this is going
+to happen or that, you know, all this stuff
+
+564
+00:49:44,649 --> 00:49:50,265
+is rumored, etc, etc. This was for the real
+deep cut people. And when he was talking, I
+
+565
+00:49:50,345 --> 00:49:55,149
+loved his bad accent. I mean, it wasn't even
+that bad. But I know because even when you
+
+566
+00:49:55,189 --> 00:50:01,074
+watch X-Men 97 and you know that stuff, it's
+a real hard accent and even rogues is that
+
+567
+00:50:01,114 --> 00:50:05,578
+Louisiana accent's real fucking tough to do.
+And so them just making fun of it. And also
+
+568
+00:50:05,598 --> 00:50:09,641
+the meta jokes of your fourth wall breaks of
+who's your dialect coach, like all that stuff.
+
+569
+00:50:09,961 --> 00:50:16,038
+I thought it played off exactly the way a Deadpool
+movie can do it in a very interesting and funny
+
+570
+00:50:16,078 --> 00:50:20,259
+and met away. But like my wife, who was sitting
+next to me, had no idea. Like, well, why the
+
+571
+00:50:20,279 --> 00:50:23,200
+hell is Channing Tatum in this? And I was like,
+well, you see, you see, because he was cast
+
+572
+00:50:23,240 --> 00:50:27,081
+and he was supposed to be in it. And like all
+the jokes of him, like, yeah. And I some people
+
+573
+00:50:27,121 --> 00:50:30,222
+feel like they were born in the void. And I'm
+like, because he never got the movie, honey.
+
+574
+00:50:30,302 --> 00:50:36,343
+Do you get it? Like that was great for us. It
+was for that extra level of deep nerd that
+
+575
+00:50:36,563 --> 00:50:41,325
+even just the casual fan wouldn't get. They
+would be fine with it. But like us, we got
+
+576
+00:50:41,345 --> 00:50:48,741
+a little a little extra boner from that. Just
+an extra inch there. The Channing Tatum reveal
+
+577
+00:50:49,001 --> 00:50:52,904
+was actually probably my favorite moment in
+the entire film, because when I saw the card,
+
+578
+00:50:53,185 --> 00:50:58,089
+I was like, oh, shit, they brought Taylor Kitsch
+back. And then sure enough, it's fucking Channing
+
+579
+00:50:58,129 --> 00:51:03,873
+Tatum. I was like, what? It was amazing. Hands
+down, my favorite cameo. I got to say my least
+
+580
+00:51:03,933 --> 00:51:09,238
+favorite cameo, though, was fucking Henry Cavill
+as Wolverine. I did not appreciate that shit.
+
+581
+00:51:09,258 --> 00:51:17,167
+That was perfect. The Cavalry was so good. They
+broke my heart. Well, I think DC and the executives
+
+582
+00:51:17,187 --> 00:51:21,348
+broke your heart when they fired him. Yeah.
+I'm going to insist everyone on the Discord
+
+583
+00:51:21,368 --> 00:51:29,931
+that's part of Team Marvel now refer to Team
+DC as the shit fucks down the street. Yes.
+
+584
+00:51:30,811 --> 00:51:35,413
+It was such a good moment. I remember people
+talking about Henry Cavill being cast as the
+
+585
+00:51:35,453 --> 00:51:38,306
+new Wolverine in the MCU. I was like, you guys
+don't know what you're talking about. That's
+
+586
+00:51:38,346 --> 00:51:43,388
+just wishful fanboy thinking. But apparently
+the rumor got enough traction to actually warrant
+
+587
+00:51:43,428 --> 00:51:47,510
+a cameo in this movie. And I was, I'm totally
+here for it. And he seems like such a nerd
+
+588
+00:51:47,550 --> 00:51:51,211
+guy that he'd be down for that kind of stuff.
+Cause you know, you know, he loves all this
+
+589
+00:51:51,251 --> 00:51:55,733
+kind of nerd stuff. I do have to say that they
+did drop the ball on one major cameo that they
+
+590
+00:51:56,053 --> 00:52:01,035
+could have and totally should have done. And
+that was Joe Manganiello as Deathstroke. You
+
+591
+00:52:01,055 --> 00:52:05,237
+could have played off of that with like, oh,
+like I came first, you're a variance of me
+
+592
+00:52:05,317 --> 00:52:10,703
+kind of thing. Now we only need so many DC cameos
+in a Marvel movie, okay? All right, whatever
+
+593
+00:52:11,003 --> 00:52:16,705
+I will tell you one cameo. I was expecting and
+highly disappointed I didn't get I didn't get
+
+594
+00:52:16,745 --> 00:52:22,167
+Taylor Swift as dazzler and I was very disappointed.
+I didn't get that I was totally expecting that
+
+595
+00:52:22,647 --> 00:52:26,349
+I was too actually well I mean like there was
+so much buzz around that Taylor Swift being
+
+596
+00:52:26,369 --> 00:52:31,370
+in the movie and she even sent out like an Instagram
+post congratulating Ryan Reynolds and Blake
+
+597
+00:52:31,390 --> 00:52:35,092
+Lively and Hugh Jackman and everybody on their
+movie and stuff like that So yeah, I felt very
+
+598
+00:52:35,132 --> 00:52:38,833
+strange that she wasn't in there. I wasn't actually
+expecting her to be in the film per se I was
+
+599
+00:52:38,873 --> 00:52:42,915
+expecting to see her in like an end credit scene
+like and it's just a throwaway thing that didn't
+
+600
+00:52:42,935 --> 00:52:48,838
+really matter I was not disappointed with the
+end credit scene. We got yeah It was exactly
+
+601
+00:52:48,878 --> 00:52:54,020
+like my high school senior class video that
+they put on at the end of the year Oh, yeah,
+
+602
+00:52:54,080 --> 00:52:58,914
+the mid credits, you know with Green Day. It
+was the exact same video. Yeah but a perfect
+
+603
+00:52:58,974 --> 00:53:03,758
+cathartic moment for the end of an era, if you
+will. Right. Made me feel sad. Yeah. Well,
+
+604
+00:53:03,938 --> 00:53:09,223
+like the movie turned out to be a love letter
+to the superhero films of the early 2000s and
+
+605
+00:53:09,243 --> 00:53:14,187
+late 90s. You know, the Fox universe, the New
+Line stuff with Blade. So it was like bittersweet
+
+606
+00:53:14,207 --> 00:53:19,832
+in that way. We're saying goodbye to all that
+nostalgia. And now we're in this new consolidated
+
+607
+00:53:19,952 --> 00:53:25,997
+MCU universe. Sony notwithstanding. Fucking
+Sony. The end to end credit scene with Johnny
+
+608
+00:53:26,037 --> 00:53:29,634
+Storm, though. I don't know if it was quite
+worth staying for, but it did make me laugh
+
+609
+00:53:29,674 --> 00:53:34,621
+my ass off. I love that this was like a Boston
+version of a Chinese storm and Chris Evans
+
+610
+00:53:34,661 --> 00:53:38,287
+brought out like his natural Boston accent.
+That was that was good stuff. Yeah, I didn't
+
+611
+00:53:38,307 --> 00:53:42,072
+need it to set up anything new. I was happy
+to just kind of add an extra laugh. That was
+
+612
+00:53:42,112 --> 00:53:42,473
+right for me.
+
+613
+00:53:50,150 --> 00:53:56,218
+fantasies collide and heroes clash, one podcast
+network rises above the rest. Prepare yourself
+
+614
+00:53:56,418 --> 00:54:02,546
+for the ultimate showdowns in comic books, video
+games, movies, and anime. The Dynomic Podcast
+
+615
+00:54:02,606 --> 00:54:09,766
+Network presents Console Combat, where video
+game legends brawl every Monday. Comic Book
+
+616
+00:54:09,806 --> 00:54:15,950
+Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+617
+00:54:16,530 --> 00:54:22,434
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+618
+00:54:22,474 --> 00:54:28,158
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+619
+00:54:28,698 --> 00:54:32,961
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+620
+00:54:37,327 --> 00:54:43,091
+Let's go ahead and get into our character breakdown,
+starting with Deadpool, aka Wade Wilson, played
+
+621
+00:54:43,111 --> 00:54:49,095
+by, of course, Ryan Reynolds, who is Marvel
+Jesus as far as I'm concerned. He is, I think,
+
+622
+00:54:49,235 --> 00:54:53,698
+Marvel Studios' biggest A-list talent now that
+Robert Downey Jr. and Chris Evans have left,
+
+623
+00:54:53,718 --> 00:54:57,821
+although, you know, RDJ is coming back, but
+I'm trying not to think about that too much.
+
+624
+00:54:57,981 --> 00:55:03,325
+Lame. So lame. Super lame. Yeah, this, I mean,
+this is the largest R-rated opening weekend
+
+625
+00:55:03,365 --> 00:55:07,835
+of all time. Yeah, I think it's projected to
+make around 205 million. And it's like the
+
+626
+00:55:07,955 --> 00:55:11,837
+eighth biggest opening worldwide of all time.
+It's just it's going to make a billion dollars,
+
+627
+00:55:12,017 --> 00:55:16,059
+which is really good for, you know, people who
+are talking about super hero fatigue. Yeah,
+
+628
+00:55:16,159 --> 00:55:21,401
+Ryan Reynolds is a gem. You know, he's just
+as in command of the Deadpool role as a like
+
+629
+00:55:21,541 --> 00:55:25,903
+Robert Downey Jr. was for Iron Man or, you know,
+Christopher Reeve for Superman back in the
+
+630
+00:55:25,943 --> 00:55:30,345
+70s or something like that. He just very much
+personifies the role and not even just Deadpool,
+
+631
+00:55:30,425 --> 00:55:33,959
+even like the other variants that he played
+like. Nice Pool and stuff like that. I thought
+
+632
+00:55:33,979 --> 00:55:39,362
+that was hilarious. I forgot about Nice Pool.
+Van Milder. He was like regeneration. What?
+
+633
+00:55:41,824 --> 00:55:46,467
+The first time through I wasn't all that big
+on Nice Pool, but the second time through I
+
+634
+00:55:46,487 --> 00:55:49,970
+think it worked better for me Sure. I think
+one of my biggest laughs in the movie was when
+
+635
+00:55:50,010 --> 00:55:54,573
+Deadpool killed him on purpose. Oh, yeah You
+know like early in the movie they had set that
+
+636
+00:55:54,613 --> 00:55:58,676
+up because he was like, you know You don't want
+me as an owner in case anything happens to
+
+637
+00:55:58,696 --> 00:56:03,670
+you and he's like what could happen to me and
+he's like all kinds of things. So you knew
+
+638
+00:56:03,690 --> 00:56:07,392
+it was kind of lurking there in the background.
+I think this is the most sinister we've ever
+
+639
+00:56:07,432 --> 00:56:12,314
+seen Deadpool was in this movie. Like when he
+got Johnny Storm killed and then he got nice
+
+640
+00:56:12,354 --> 00:56:15,635
+pull killed. It's kind of funny, especially
+the part where he's like, you're going to live.
+
+641
+00:56:15,655 --> 00:56:21,318
+God damn it. Shout it. And he's like, I was
+laughing my ass off at that point. The thing
+
+642
+00:56:21,358 --> 00:56:27,720
+that made me laugh the most and it happens very
+quickly after Wolverine walks past the Deadpool
+
+643
+00:56:27,740 --> 00:56:32,591
+core with the dog and they're not shooting him.
+When they cut back, they He's performing CPR
+
+644
+00:56:32,611 --> 00:56:38,216
+in a headless body. It only happens for a few
+seconds. But I was giggling for so long to
+
+645
+00:56:38,236 --> 00:56:42,900
+the point where my son was like, what is so
+funny? And I was like, I'll tell you later.
+
+646
+00:56:43,260 --> 00:56:46,944
+And then following that up with him brandishing
+the gold plated guns, that was just so good.
+
+647
+00:56:47,744 --> 00:56:51,148
+Again, which was set up earlier, you knew he
+was gonna end up with those. Right. My favorite
+
+648
+00:56:51,168 --> 00:56:54,731
+part with NicePool was so when he looked at
+the camera, it was like, the proposal. And
+
+649
+00:56:54,791 --> 00:57:01,436
+Deadpool was like, is that what you think I
+do? So Deadpool's arc here, I think, was about
+
+650
+00:57:01,476 --> 00:57:06,121
+coming out of depression. He got rejected from
+the Avengers, which was just the final straw
+
+651
+00:57:06,141 --> 00:57:11,285
+for him in that moment that put him into a downward
+spiral, leading to his retirement. It cost
+
+652
+00:57:11,325 --> 00:57:16,250
+him his relationship with Vanessa, but he comes
+out of his funk, getting abducted by the TVA,
+
+653
+00:57:16,270 --> 00:57:21,454
+finding new purpose. He saves his friends and
+his timeline from destruction in the process,
+
+654
+00:57:21,514 --> 00:57:26,579
+bonding with a larger team of heroes like Wolverine
+and the Resistance. culminating in his attempt
+
+655
+00:57:26,639 --> 00:57:32,203
+to sacrifice himself for those he loves. But
+here's the thing, in Deadpool 2, he saved Cable's
+
+656
+00:57:32,223 --> 00:57:36,606
+timeline from Firefist in the process bonding
+with a larger team of heroes, Cable and X-Force,
+
+657
+00:57:36,886 --> 00:57:41,109
+which culminated in his self-sacrifice. Like
+he died in that movie and Cable brought him
+
+658
+00:57:41,149 --> 00:57:46,813
+back. So the character growth that he went through
+in Deadpool and Wolverine was pretty damn similar
+
+659
+00:57:46,853 --> 00:57:51,797
+to the character growth he already had in Deadpool
+2. Like if you substitute Wade's sadness over
+
+660
+00:57:51,837 --> 00:57:56,716
+Vanessa's death, with Wade's depression over
+his lack of meaning, you have almost nearly
+
+661
+00:57:56,796 --> 00:58:04,059
+identical arcs. I don't disagree. I found it's
+more about sacrifice for others, not sacrifice
+
+662
+00:58:04,099 --> 00:58:10,003
+for himself. I felt like this one was a little
+bit more about him himself, finding his personal
+
+663
+00:58:10,043 --> 00:58:15,265
+growth. They had that specific moment where
+Happy talks about the Avengers, like, you know,
+
+664
+00:58:15,285 --> 00:58:20,468
+they're Avengers because people need them. And
+at the end, when he is doing the time-ripper
+
+665
+00:58:20,508 --> 00:58:25,407
+thing, he says, I'm doing it for others, finally.
+It's his growth for trying to put others above
+
+666
+00:58:25,447 --> 00:58:33,191
+him. I think that's valid fucking. I don't care.
+We're still good I noticed that as I was watching
+
+667
+00:58:33,211 --> 00:58:38,074
+that thought that was really similar to the
+second film You just kind of replace the foil
+
+668
+00:58:38,094 --> 00:58:43,937
+that was cable with the foil that is Wolverine
+though I have to say I think Deadpool and Wolverine
+
+669
+00:58:43,957 --> 00:58:49,100
+played off each other a lot better than Deadpool
+and cable So even if it was the same one we
+
+670
+00:58:49,120 --> 00:58:54,262
+can agree they did it better in this movie.
+Yes, absolutely Absolutely. Can I add to that
+
+671
+00:58:54,302 --> 00:59:01,046
+real quick, though? Sure. That's Deadpool. Deadpool
+constantly wants to be the hero and then gets
+
+672
+00:59:01,086 --> 00:59:04,668
+in his own way. And he tries to be the hero,
+then gets in his own way. Wants to be a part
+
+673
+00:59:04,688 --> 00:59:10,951
+of team, gets in his own way. That's his whole
+fucking arc over and over and over again. So
+
+674
+00:59:10,971 --> 00:59:15,734
+it doesn't bother me that it's the same thing
+we're getting, but it's done better. Well,
+
+675
+00:59:15,754 --> 00:59:19,276
+Deadpool is a type of character that you don't
+necessarily need to take seriously in that
+
+676
+00:59:19,316 --> 00:59:24,262
+way. So in some regards, he's above this type
+of criticism. And that could either be to the
+
+677
+00:59:24,282 --> 00:59:28,743
+character's detriment or you guys are big Deadpool
+fans, there's a reason that he's such a popular
+
+678
+00:59:28,763 --> 00:59:32,884
+character is because he's so charismatic and
+endearing no matter what he goes through. And
+
+679
+00:59:32,924 --> 00:59:36,405
+you don't want him to change that much. Right.
+You kind of want him to keep getting in his
+
+680
+00:59:36,485 --> 00:59:42,827
+own way. Yeah, valid, valid. But to get to Hugh
+Jackman and Wolverine, I totally see him as
+
+681
+00:59:42,847 --> 00:59:47,869
+the heart of this film. He actually had a fantastic
+character arc because he is also battling depression
+
+682
+00:59:47,909 --> 00:59:53,715
+here, which manifested with alcoholism and self-loathing.
+His aim was to seek redemption for his past
+
+683
+00:59:53,775 --> 00:59:58,757
+when he abandoned his X-Men team who died. And
+though he wasn't able to fix what happened
+
+684
+00:59:58,798 --> 01:00:03,280
+in his timeline, he was able to help save Wade's
+and it was enough to help him get through his
+
+685
+01:00:03,300 --> 01:00:08,223
+depression and find a new life in that timeline
+with his new surrogate daughter, X-23. I was
+
+686
+01:00:08,263 --> 01:00:12,345
+really glad that they brought her back into
+Wade's timeline as well, because then he could
+
+687
+01:00:12,365 --> 01:00:17,127
+kind of go through the same arc that Logan did
+in the movie. Logan. Yeah. The arc for Wolverine
+
+688
+01:00:17,167 --> 01:00:21,486
+is really the one that matters here as we've,
+as I've kind of already set up Deadpool. doesn't
+
+689
+01:00:21,526 --> 01:00:26,110
+do these arcs all that well, you know, he just
+kind of is going to revert to his, oh, I'm
+
+690
+01:00:26,150 --> 01:00:31,836
+the funny mouth and I kill people and all that
+kind of stuff. Like say for the end of Deadpool
+
+691
+01:00:31,936 --> 01:00:36,701
+one, where he kills Ajax at the end, even though
+Colossus is giving him that speech of, you
+
+692
+01:00:36,721 --> 01:00:40,365
+know, we don't kill them for five moments and
+then he shoots Ajax in the head in this movie.
+
+693
+01:00:40,385 --> 01:00:44,609
+It parallels that, you know, but Wolverine is
+the one who says, no, we're not going to kill
+
+694
+01:00:44,649 --> 01:00:48,672
+Cassandra Nova. He's the real hero. He is the
+one who goes through this arc. And because
+
+695
+01:00:48,772 --> 01:00:54,035
+he is the important one, he is the hero guy.
+He is that hero type and he is the anchor being.
+
+696
+01:00:54,275 --> 01:00:57,337
+I think it totally makes sense why he is the
+one who goes through more of the character
+
+697
+01:00:57,357 --> 01:01:03,521
+arc than Deadpool. Yeah, absolutely. I do have
+to say, though, that I thought the reason for
+
+698
+01:01:03,821 --> 01:01:09,665
+why he was so depressed and how he failed everybody
+was going to be much more interesting. And
+
+699
+01:01:09,725 --> 01:01:15,052
+I was at first initially. disappointed that
+was basically, oh, he went to a bar and while
+
+700
+01:01:15,072 --> 01:01:19,095
+he was away, everyone died. I thought it was
+going to be something more like in Logan where,
+
+701
+01:01:19,215 --> 01:01:23,658
+you know, Professor X started to get seizures
+and those seizures kind of killed everyone.
+
+702
+01:01:24,078 --> 01:01:29,082
+So for it to be something so simple, again,
+initially I found kind of disappointing, but
+
+703
+01:01:29,482 --> 01:01:34,946
+later on I kind of appreciated how simple it
+was, I guess, because that really wasn't what
+
+704
+01:01:34,986 --> 01:01:40,514
+the story was about. All he needed to do was
+kind of feel that survivor's guilt, which Logan
+
+705
+01:01:40,574 --> 01:01:45,197
+is bound to do because he has such a high longevity.
+He was going to outlive everyone anyway, and
+
+706
+01:01:45,217 --> 01:01:49,860
+they could have gone with that even. But that
+ultimately wasn't as important to a story arc
+
+707
+01:01:50,180 --> 01:01:54,283
+as the fact that he did grow. We don't need
+to make things more convoluted than they are.
+
+708
+01:01:54,303 --> 01:01:58,025
+I thought it was pretty well done. Well, it
+wasn't just that he got drunk and kind of ran
+
+709
+01:01:58,065 --> 01:02:03,349
+away. He talked about how he basically went
+to a berserker rage and he killed fucking everybody.
+
+710
+01:02:03,689 --> 01:02:09,274
+And then. All humans turned on mutants afterwards
+because of that. That's true. So he started
+
+711
+01:02:09,314 --> 01:02:14,338
+that because of his rage. He was the downfall
+of all mutants. And to add on to what Adam
+
+712
+01:02:14,378 --> 01:02:19,763
+said, the first time he tells you what happens,
+he says he was away when they revisit it. At
+
+713
+01:02:19,803 --> 01:02:26,429
+the end, he actually says, it wasn't just that
+I was away. I walked away. I heard them basically
+
+714
+01:02:26,469 --> 01:02:32,442
+being killed and I walked away. Then when I
+saw the bodies, I went into my rage. So. It
+
+715
+01:02:32,462 --> 01:02:37,364
+was not just that he happened to be away. It
+was his active choice to walk away from it.
+
+716
+01:02:37,524 --> 01:02:42,466
+Yeah. And then his guilt with that. And that's
+why he was wearing the suit. The pajamas, as
+
+717
+01:02:42,486 --> 01:02:47,328
+Deadpool called them, because he felt guilty
+about rejecting that earlier. What did you
+
+718
+01:02:47,368 --> 01:02:52,190
+guys think of the suit? God damn, that suit
+looks good. Yeah, I loved the suit. I have
+
+719
+01:02:52,230 --> 01:02:57,312
+thoughts on the cowl. Yeah. I mean, the cowl,
+you when I saw it, I was like, oh, I mean,
+
+720
+01:02:57,352 --> 01:03:03,168
+of course, you know, extra another extra inch.
+just came on me. But after a while you kind
+
+721
+01:03:03,208 --> 01:03:09,293
+of realize, okay, that's why they didn't do
+this. Right. It's the eyes. Also, it's hard
+
+722
+01:03:09,333 --> 01:03:14,958
+to make that mask a perfect size because I feel
+like the wings needed to be slightly bigger
+
+723
+01:03:15,158 --> 01:03:20,323
+to make them look more comic accurate, but at
+the same time, they would look ridiculous.
+
+724
+01:03:20,543 --> 01:03:25,547
+The blow job handles? Yes, if they were actually
+that big. So it was a hard thing to do in live
+
+725
+01:03:25,607 --> 01:03:30,863
+action. I think they did the absolute best they
+could. They stuck to the white eyes because
+
+726
+01:03:30,883 --> 01:03:36,526
+they're already doing it with Deadpool. Although
+I feel like they didn't make them as expressive
+
+727
+01:03:36,686 --> 01:03:40,848
+as Deadpool's are because I know that the way
+they do that is he actually takes the eyepieces
+
+728
+01:03:41,028 --> 01:03:46,171
+out when they're filming and they track his
+eyebrow movements so that Deadpool's eyes are
+
+729
+01:03:46,191 --> 01:03:50,693
+expressive. I don't feel like they did that
+with Wolverines and I wish they had. Yeah,
+
+730
+01:03:50,753 --> 01:03:55,976
+I think the issue was his eye line was always
+off. It was like he was blind when he should
+
+731
+01:03:55,996 --> 01:04:02,460
+have been looking at Wade. you have that kind
+of line that really shows you where his head
+
+732
+01:04:02,500 --> 01:04:09,985
+is pointing. And it's kind of an issue in live
+action. Kind of like Batman. Yeah. I thought
+
+733
+01:04:10,045 --> 01:04:14,868
+his Wolverine suit was great. It did look a
+little football patty at times. I actually
+
+734
+01:04:14,888 --> 01:04:19,532
+think I slightly preferred the brown and yellow,
+the mustard and brown one that they use for
+
+735
+01:04:19,552 --> 01:04:23,474
+that short little moment for the Hulk thing.
+I was like, that looks a little bit more simpler.
+
+736
+01:04:23,734 --> 01:04:28,177
+I think I liked it just a slightly bit better,
+but still super exciting to see him in a more
+
+737
+01:04:28,510 --> 01:04:32,813
+Accurate costume for sure. That was great I
+kind of feel like the whole reason they did
+
+738
+01:04:32,853 --> 01:04:37,197
+the Deadpool core scene at the end and I could
+be wrong Was just so that they could show the
+
+739
+01:04:37,217 --> 01:04:41,420
+mask I kind of like that whole scene didn't
+really need to be in the movie I think that's
+
+740
+01:04:41,440 --> 01:04:44,683
+when the movie started to feel long for me.
+I don't really care about the Deadpool core
+
+741
+01:04:44,703 --> 01:04:49,787
+personally Well, that's because you're wrong
+I think if they just put the mask on earlier
+
+742
+01:04:49,867 --> 01:04:53,711
+when they were going up against Cassandra Nova's
+team I think that would have been perfectly
+
+743
+01:04:53,731 --> 01:04:57,698
+fine. I would have been happy with that. It
+all kind of felt a little bit extra I can see
+
+744
+01:04:57,718 --> 01:05:01,579
+where you're coming from because the Deadpool
+core was shoehorned in they could have immediately
+
+745
+01:05:01,639 --> 01:05:05,460
+just gone to destroy the time Ripper because
+they already had really their third act fight
+
+746
+01:05:05,861 --> 01:05:10,903
+back in the void But here's the thing how can
+you have a multiversal Deadpool movie and not
+
+747
+01:05:10,943 --> 01:05:14,904
+have the Deadpool core you have to I was just
+gonna Say they had to have them because this
+
+748
+01:05:14,924 --> 01:05:18,225
+is the only place you can do it anywhere else
+It doesn't make any sense. Yeah secret oars
+
+749
+01:05:19,242 --> 01:05:23,343
+Well, because that would take over too much.
+Yeah, there's going to be too much in too much
+
+750
+01:05:23,523 --> 01:05:28,184
+Deadpool. But I mean, they tied it in well enough.
+They set it up, you know, multiple times. We
+
+751
+01:05:28,284 --> 01:05:32,145
+you know, we when we first met Nice Pool, he
+kind of alluded to it. And then Cassandra Nova
+
+752
+01:05:32,165 --> 01:05:35,666
+said Deadpool's are a diamond dozen here, but
+we do, you know, this is like our first Wolverine.
+
+753
+01:05:35,906 --> 01:05:40,768
+So we got little glimpses. And then when they
+came out for the Deadpool nerds like us, I
+
+754
+01:05:40,788 --> 01:05:45,289
+was in there looking at like, oh my God, which
+ones do I recognize? Which ones have I seen
+
+755
+01:05:45,329 --> 01:05:49,007
+in the comics? There's only one I'm gonna mention
+that disappointed me that wasn't in there because
+
+756
+01:05:49,107 --> 01:05:53,490
+I imagine John was as well If he thought of
+it is agent X was I would have loved to see
+
+757
+01:05:53,530 --> 01:05:57,713
+him It's somewhere in the background as well,
+but that's it. I see I don't see him as a Deadpool
+
+758
+01:05:57,733 --> 01:06:03,736
+variant I know he is but I kind of see him.
+I see him as his own thing. Sure. So fair Let's
+
+759
+01:06:03,756 --> 01:06:08,519
+go ahead and move on to the villains of the
+piece. I Think the Deadpool films their main
+
+760
+01:06:08,559 --> 01:06:14,207
+weakness has always been the villains sure especially
+Deadpool 2 I didn't love either Cassandra Nova
+
+761
+01:06:14,347 --> 01:06:18,950
+or Mr. Paradox. Dude, I loved Cassandra Nova.
+What are you talking about? I'm with Jonathan.
+
+762
+01:06:19,411 --> 01:06:23,834
+Cassandra Nova I really liked. I guess I've
+never really been a fan of Cassandra Nova from
+
+763
+01:06:23,894 --> 01:06:28,717
+the comics. Now she was a Grant Morrison creation.
+She's the twin of professor Charles Xavier.
+
+764
+01:06:29,198 --> 01:06:34,221
+In the comics, I always saw her as more bitter
+and nasty and stuff like that. But here she
+
+765
+01:06:34,241 --> 01:06:39,385
+was like deceptively sweet. And I guess that
+kind of threw off my preconceived notions of
+
+766
+01:06:39,405 --> 01:06:43,631
+what the character. should and would be like
+in the movie. I don't know, it sounded like
+
+767
+01:06:43,891 --> 01:06:47,974
+maybe she was still a little bitter, but I mean,
+it's not gonna be the exact same thing. I mean,
+
+768
+01:06:47,994 --> 01:06:54,117
+she was evil. I will say, that shit sounds like
+something Grant Morrison would do, so I totally
+
+769
+01:06:54,157 --> 01:06:58,720
+understand that. I'm actually with them, I actually
+really liked her. I liked her better even the
+
+770
+01:06:58,780 --> 01:07:02,121
+second time than the first time, because there's
+a lot of things that I noticed about her the
+
+771
+01:07:02,202 --> 01:07:07,484
+second time. Some of the mannerisms in her facial
+expressions were really good. The fact that
+
+772
+01:07:07,524 --> 01:07:12,935
+they actually elongated her fingers. which made
+her seem more creepy. She was fairly creepy.
+
+773
+01:07:12,955 --> 01:07:17,477
+I thought the actress did a good job. Yes, I
+agree. And I'll be honest, I'm kind of glad
+
+774
+01:07:17,537 --> 01:07:22,199
+we didn't get like an all out fight at the end
+with her, because by the time we got to that,
+
+775
+01:07:22,219 --> 01:07:26,160
+I was already fought out. Also, realistically,
+they weren't gonna win a fight with her. They
+
+776
+01:07:26,200 --> 01:07:31,002
+had to do something out of the ordinary in order
+to, well, say finish her off sounds weird.
+
+777
+01:07:31,022 --> 01:07:37,105
+But, I'd finish her off. It's a Deadpool review,
+you're fine. Especially when she talked about
+
+778
+01:07:37,945 --> 01:07:43,239
+flicking her bean. Yeah, to end you- oh man.
+Yeah, I was happy there. Now I got a new box
+
+779
+01:07:43,259 --> 01:07:47,661
+set, I gotta go find- Yeah, I'm gonna listen
+to White Flag tonight. There's a box set? White
+
+780
+01:07:47,681 --> 01:07:51,883
+Flag is Dido, isn't it? Oh yeah, you're right,
+that's Dido, my bad. I always confuse him.
+
+781
+01:07:51,903 --> 01:07:57,545
+Come on, man. It's the same person. Fine. I
+thought the way they portrayed Kassandra Nova's
+
+782
+01:07:57,585 --> 01:08:01,807
+powers was really fascinating here because,
+you know, she has all the powers of Professor
+
+783
+01:08:02,007 --> 01:08:09,202
+X in addition to his potential latent powers
+according to his DNA. So- She has telekinesis.
+
+784
+01:08:09,282 --> 01:08:14,824
+She has the ability to phase. And I thought
+the way that they combined those aspects here
+
+785
+01:08:15,064 --> 01:08:20,606
+by giving her more tactile telepathy and she
+has to like phase into their minds in order
+
+786
+01:08:20,646 --> 01:08:25,347
+to read their minds. That was creepy as hell.
+Oh, yeah. It was incredible. Very cinematic.
+
+787
+01:08:25,567 --> 01:08:31,209
+Great decision to do that. Absolutely horrifying.
+It's just a new great way to visualize telepathy
+
+788
+01:08:31,269 --> 01:08:34,882
+without. doing the same old boring thing of,
+you know, two people standing across from each
+
+789
+01:08:34,922 --> 01:08:37,983
+other. One of them raises their fingers to their
+forehead and then, you know, they read their
+
+790
+01:08:38,023 --> 01:08:42,585
+thoughts. I guess to move over to Paradox, the
+other villain, I actually really like the actor.
+
+791
+01:08:42,685 --> 01:08:47,146
+I thought he was wonderful. I liked, you know,
+the very Britishness about him. And he's the
+
+792
+01:08:47,506 --> 01:08:52,568
+white collar villain in this one. I do think
+he had some motivational issues. I thought
+
+793
+01:08:52,588 --> 01:08:57,329
+it was kind of strange that they're going off
+grid and they're going to build this time ripper
+
+794
+01:08:57,429 --> 01:09:02,791
+and prune stuff themselves. But yet he also
+decided to pull Deadpool out because his bosses
+
+795
+01:09:02,831 --> 01:09:05,971
+told him to. Like, why are you listening to
+your bosses on this when you're just gonna
+
+796
+01:09:05,991 --> 01:09:10,173
+like turn around and not listen to them for
+other stuff? Right. I will say this, the one
+
+797
+01:09:10,193 --> 01:09:14,454
+thing they say is that basically that timeline
+was going to get pruned, it was just gonna
+
+798
+01:09:14,474 --> 01:09:20,535
+take 2,000 years for it to happen. But I just
+think he just wasn't patient. Also, my first
+
+799
+01:09:20,595 --> 01:09:26,677
+thought was why would he have so many of these
+people with him? Because he had like a whole
+
+800
+01:09:26,757 --> 01:09:32,403
+section of people. However... If we're taking
+this to kind of happen not long after Loki
+
+801
+01:09:32,443 --> 01:09:38,145
+season two, their decision to change the way
+they do things is a very stark change in a
+
+802
+01:09:38,185 --> 01:09:44,148
+very fast time. And I could see that being iffy
+for people who are used to doing the same thing
+
+803
+01:09:44,188 --> 01:09:49,870
+for probably thousands of years at that point
+and not wanting to change and say, oh, this
+
+804
+01:09:49,890 --> 01:09:53,391
+guy wants to go back to the way we did do it.
+I'm more comfortable there. Let's go with him.
+
+805
+01:09:54,252 --> 01:10:00,566
+It's not a good motivation though. It's my biggest
+issue with the film. was to destroy Wade's
+
+806
+01:10:00,606 --> 01:10:04,628
+timeline because it was more efficient to do
+so and it would impress him to his higher-ups
+
+807
+01:10:04,648 --> 01:10:09,910
+so that he would become leader of the TVA. But
+since Loki took over the timelines and they're
+
+808
+01:10:09,950 --> 01:10:15,233
+allowing these branches to grow and a multiverse
+to exist, the TVA's function is no longer to
+
+809
+01:10:15,273 --> 01:10:19,534
+prune timelines. You're assuming that he knows
+about Loki. Even if he doesn't, his directive
+
+810
+01:10:19,554 --> 01:10:25,617
+would be to let the multiverse thrive. TVA has
+reset charges that they used to use to prune
+
+811
+01:10:25,657 --> 01:10:30,544
+timelines all the time. I don't understand why
+he had to use this time ripper device. It was
+
+812
+01:10:30,745 --> 01:10:35,869
+very strange and definitely not in accordance
+with a lot of what we saw in the Loki television
+
+813
+01:10:35,909 --> 01:10:40,653
+series. Also considering that, you know, they're
+in the TVA, time doesn't exist, there was no
+
+814
+01:10:40,733 --> 01:10:47,358
+reason why they were like, oh, we have to rush
+this 2000 year thing. Exactly. That doesn't
+
+815
+01:10:47,378 --> 01:10:51,802
+make sense. And it was clear that even if he
+did prune this timeline with the time ripper,
+
+816
+01:10:52,242 --> 01:10:55,745
+he's not going to impress anybody with it. They
+would have actually admonished him and they
+
+817
+01:10:55,865 --> 01:11:01,933
+did. for what he tried to do. So it just made
+no sense and because his whole motivation doesn't
+
+818
+01:11:01,953 --> 01:11:07,296
+make sense, the story almost falls apart because
+of that. Also I have an issue with anchor beings.
+
+819
+01:11:07,556 --> 01:11:12,779
+The idea of anchor beings, it makes me wonder
+how any timeline branch survives more than
+
+820
+01:11:12,899 --> 01:11:17,941
+a couple thousand years because humans only
+have so long of a lifespan. The idea of anchor
+
+821
+01:11:17,961 --> 01:11:22,904
+beings means that eventually any timeline branch
+is going to die and that the multiverse is
+
+822
+01:11:22,944 --> 01:11:29,549
+then essentially self-containing. and the TVA
+beforehand would seem irrelevant prior to Loki
+
+823
+01:11:29,669 --> 01:11:34,513
+taking on his throne. I don't know, that's reading
+a lot into it, I think. The issue of anchor
+
+824
+01:11:34,553 --> 01:11:39,878
+beings didn't really bother me. I actually liked
+the idea that they exist and that Wolverine
+
+825
+01:11:39,918 --> 01:11:45,242
+would be one of them. I'm sure there is some
+kind of, you know, paradoxical nature to it,
+
+826
+01:11:45,643 --> 01:11:52,328
+but then it bothered me so much as we never
+learned who Paradox was like answering to or
+
+827
+01:11:52,348 --> 01:11:56,151
+working for, because it seemed like... He really
+wasn't answering to the TVA. He was answering
+
+828
+01:11:56,192 --> 01:12:01,496
+to some kind of like shadow organization, perhaps
+within it or even outside of it. And we never
+
+829
+01:12:01,536 --> 01:12:05,619
+got that closure. Well, he was working for himself.
+He was selfish. He wanted to be in charge of
+
+830
+01:12:05,639 --> 01:12:09,823
+the TVA. It was all bullshit. So then why pull
+out Deadpool? Why pull out Deadpool at all?
+
+831
+01:12:10,203 --> 01:12:14,406
+Because his higher ups wanted Deadpool to be
+part of the Sacred Timeline because it's part
+
+832
+01:12:14,426 --> 01:12:17,929
+of his destiny. He has some kind of big role
+to play in the Sacred Timeline's future. Oh,
+
+833
+01:12:17,949 --> 01:12:22,813
+yeah. He has to die in Thor's arms. Yeah, exactly.
+So he could die. The motivational problems
+
+834
+01:12:22,853 --> 01:12:27,215
+were there. But at the same time, it didn't
+anger me like it seems to have angered you,
+
+835
+01:12:27,395 --> 01:12:31,337
+Joseph, because at the end of it, it's a fucking
+Deadpool movie, and I was able to kind of cut
+
+836
+01:12:31,357 --> 01:12:35,538
+that cord from my head and be like, alright,
+fine, fuck it. Also, I'm gonna say this is
+
+837
+01:12:35,558 --> 01:12:38,820
+why I think you're wrong. First of all, you're
+assuming that all the anchor beings are happening
+
+838
+01:12:38,880 --> 01:12:43,782
+now. Instead of maybe one timeline, anchor being
+doesn't happen for another 5000 years. In which
+
+839
+01:12:43,822 --> 01:12:48,264
+case, that timeline doesn't get trimmed. Also,
+everything up until this point, up until Loki,
+
+840
+01:12:48,604 --> 01:12:52,665
+was one timeline, yes? Correct. Yeah, it was
+the secret timeline. Everything else was being
+
+841
+01:12:52,765 --> 01:12:58,708
+pruned. So in this case, anchor beings is probably
+a new thing because they have all these different
+
+842
+01:12:58,728 --> 01:13:02,950
+timelines. Some people say like if it doesn't
+happen on screen, it shouldn't happen, but
+
+843
+01:13:03,170 --> 01:13:06,791
+to me, I don't need to hear about them discovering
+anchor beings. They just say, hey, we discovered
+
+844
+01:13:06,811 --> 01:13:11,373
+it. Each of these timelines has an anchor being.
+So all of these little variant timelines are
+
+845
+01:13:11,413 --> 01:13:15,175
+not all going to be the same length. I think
+it just brings it back to even if that were
+
+846
+01:13:15,215 --> 01:13:20,257
+the case, the TVA never needed to exist because
+the multiverse was self-sustaining in that
+
+847
+01:13:20,337 --> 01:13:25,764
+sense errant timelines would eventually die.
+But Kang started the pruning because he didn't
+
+848
+01:13:25,784 --> 01:13:29,908
+want the multiverse wars. And so even with like
+over these thousands of years, that war still
+
+849
+01:13:29,928 --> 01:13:35,272
+might have happened. And so it got pruned because
+he, you know, knew that the even the sacred
+
+850
+01:13:35,292 --> 01:13:39,695
+timeline would get exploded. And so that was
+kind of why he started the prune stuff and
+
+851
+01:13:39,715 --> 01:13:44,519
+the TVA. So, I mean, yes, it could be self-sustaining,
+but it wasn't about it being self-sustaining.
+
+852
+01:13:44,599 --> 01:13:49,845
+It was about Kang stopping the war. The other
+Kang's. Yeah. And now that is the TVA's new
+
+853
+01:13:49,885 --> 01:13:56,499
+primary function, is stopping the multiversal
+war. It's all convoluted. Super! As John says.
+
+854
+01:13:57,281 --> 01:13:59,145
+So convoluted. Multiverses suck.
+
+855
+01:14:06,414 --> 01:14:10,315
+I think that does it for the character breakdown,
+so let's go ahead and get into our story highlights.
+
+856
+01:14:10,916 --> 01:14:15,698
+Deadpool visits Logan's grave where he's attacked
+by a group of time variance authority hunters.
+
+857
+01:14:16,178 --> 01:14:20,700
+In a flashback to when Deadpool used Cable's
+time travel device, he ends up on the Sacred
+
+858
+01:14:20,740 --> 01:14:26,042
+Timeline in 2018, where he tries to join the
+Avengers in an interview with Happy Hogan,
+
+859
+01:14:26,262 --> 01:14:31,505
+but is rejected. I thought it was really interesting
+that typically the Deadpool films don't take
+
+860
+01:14:31,545 --> 01:14:36,360
+the credit scenes seriously. And like this one
+didn't, but like it actually had actual credits
+
+861
+01:14:36,660 --> 01:14:40,824
+for the people that were involved in the production.
+And I kind of missed those gags. But it was
+
+862
+01:14:40,864 --> 01:14:46,288
+really funny to see Deadpool dancing to N-Sync.
+Oh, yeah. I mean, it was a ton of fun. They
+
+863
+01:14:46,348 --> 01:14:50,992
+set up what you're getting. You're getting a
+lot of dumb fun. And I agree, like as the first
+
+864
+01:14:51,012 --> 01:14:55,195
+two movies, they had like the fake title cards.
+And this one, they use extra real ones. But
+
+865
+01:14:55,315 --> 01:14:59,939
+I do specifically want to mention because of
+that scene, all of us were worried about how
+
+866
+01:14:59,979 --> 01:15:06,227
+the fuck are we going to respectfully bring
+and deal with Logan and then we don't. And
+
+867
+01:15:06,247 --> 01:15:11,070
+that's so perfectly fucking done that way. And
+only a way a Deadpool could do it is, yeah,
+
+868
+01:15:11,090 --> 01:15:15,693
+we're not going to be respectful. We're going
+to literally play with his fucking bones, desecrate
+
+869
+01:15:15,733 --> 01:15:21,617
+his body. And we'd love it. And I love every
+second of that. It was so good. I was horrified.
+
+870
+01:15:22,037 --> 01:15:27,640
+I never understood the confusion because it
+always said that Logan takes place in the future,
+
+871
+01:15:27,741 --> 01:15:32,876
+like 2029 or some shit. There is nothing to
+say that Deadpool and Wolverine had to take
+
+872
+01:15:32,896 --> 01:15:38,221
+place after that. So I was never confused about
+how they were going to include him in the story
+
+873
+01:15:38,781 --> 01:15:44,867
+because it's fucking time. Logan was set in
+the future. Jesus H Christ people, it is not
+
+874
+01:15:45,247 --> 01:15:51,092
+that difficult. I have the same issue with people
+who couldn't figure out why in Endgame affecting
+
+875
+01:15:51,132 --> 01:15:54,776
+the past does not affect the future. And I've
+talked to so many people who are like, I just
+
+876
+01:15:54,836 --> 01:16:00,103
+understand. It is not fucking hard. It's not
+hard to understand that when you move to the
+
+877
+01:16:00,143 --> 01:16:05,687
+past that past is not your past It is now your
+future and it is a completely different Timeline
+
+878
+01:16:05,747 --> 01:16:09,670
+essentially in this case, but it's funny cuz
+Deadpool 2 they use the dead they use back
+
+879
+01:16:09,690 --> 01:16:15,534
+to the future style because the bear that cable
+was carrying was burned and then when he Sacrificed
+
+880
+01:16:15,554 --> 01:16:20,237
+himself at the end the bear turned to bright
+and it's showing that his kid didn't die. So
+
+881
+01:16:20,257 --> 01:16:23,932
+they Fucking, well granted at that time, there
+wasn't part of the MCU, but it's- I mean, you
+
+882
+01:16:23,952 --> 01:16:28,256
+could also say that it was not cyclical. He
+went back and changed it, and what he went
+
+883
+01:16:28,296 --> 01:16:32,239
+forward to was a completely new timeline. And
+look at Days of Future Past as well, you know,
+
+884
+01:16:32,259 --> 01:16:36,943
+the way they handled time there. I guess time
+works differently depending on which branch
+
+885
+01:16:36,983 --> 01:16:41,807
+of the Marvel multiverse you're in. Yeah, I
+was one of the people who was not thrilled
+
+886
+01:16:42,087 --> 01:16:47,772
+when I found out that Hugh Jackman was returning
+to the role of Logan, not because I was wondering
+
+887
+01:16:48,052 --> 01:16:53,039
+how they were going to do it story-wise. but
+because we already had that cathartic goodbye
+
+888
+01:16:53,059 --> 01:16:57,441
+for the character. But I will admit that I am
+happy that he decided to make the return back
+
+889
+01:16:57,501 --> 01:17:03,184
+and that they brought him back in such a fantastic
+way. I liked the heartfelt scene of when Deadpool
+
+890
+01:17:03,204 --> 01:17:06,445
+was trying to join the Avengers because he really
+felt like he wanted it. And I thought that
+
+891
+01:17:06,466 --> 01:17:10,167
+was a great bit of acting. That confused me.
+That really confused me. Okay. So I get he
+
+892
+01:17:10,207 --> 01:17:15,442
+breaks the fourth wall, right? And so he would
+know about the Avengers. But the fact that
+
+893
+01:17:15,562 --> 01:17:22,568
+they established him as being on Earth 1005,
+whatever it was. So he traveled through the
+
+894
+01:17:22,608 --> 01:17:28,653
+multiverse to Earth 616. He's wearing a cable's
+thing. So that's how he moved across. But so
+
+895
+01:17:28,693 --> 01:17:33,717
+he was willing to leave his friends and everything
+that he had saved to be a part of the Avengers.
+
+896
+01:17:34,237 --> 01:17:39,302
+And yet when he was offered that opportunity
+later on, that's when he got upset. Six years
+
+897
+01:17:39,342 --> 01:17:45,602
+changes a man. OK, that's a great question.
+I didn't think of that. I guess my assumption
+
+898
+01:17:45,622 --> 01:17:49,365
+is that he probably would have wanted to bring
+his friends and family over to the Sacred Timeline
+
+899
+01:17:49,425 --> 01:17:55,449
+with him if he got the job. I don't know. In
+2024, in his native timeline, Wade works as
+
+900
+01:17:55,489 --> 01:17:59,512
+a used car salesman with his friend Peter, who
+throws Wade a surprise birthday party with
+
+901
+01:17:59,532 --> 01:18:04,255
+all their friends, including his ex-girlfriend
+Vanessa. A group of TVA hunters show up and
+
+902
+01:18:04,295 --> 01:18:08,838
+take Wade to meet Mr. Paradox, an agent who
+offers him a place on the Sacred Timeline.
+
+903
+01:18:09,279 --> 01:18:13,261
+Paradox informs Wade that due to the death of
+Logan, who was his timeline's anchor being,
+
+904
+01:18:13,770 --> 01:18:18,251
+his universe is slowly dying. He goes on to
+tell Wade that he intends to speed up the process
+
+905
+01:18:18,691 --> 01:18:23,953
+using a time ripper device to prune Wade's universe
+in order to improve the TVA's efficiency so
+
+906
+01:18:23,973 --> 01:18:28,895
+he can get promoted to the head of the organization.
+Unwilling to see his friends die, Wade steals
+
+907
+01:18:28,915 --> 01:18:34,317
+the TVA Tempad to visit Logan's grave. I love
+this scene when the TVA hunters show up at
+
+908
+01:18:34,337 --> 01:18:38,955
+the party and he's like, this isn't like Pretty
+Women. We're going to be kissing. Oh, yeah.
+
+909
+01:18:40,036 --> 01:18:43,940
+This is the one where he talked about pegging
+is not new for me, but new for Disney. Right.
+
+910
+01:18:43,960 --> 01:18:47,282
+That's the and then the wink to the camera.
+I mean, that's perfect. Absolutely perfect.
+
+911
+01:18:47,543 --> 01:18:52,146
+Hilarious. Deadpool travels the multiverse looking
+for a Wolverine variant substitute to save
+
+912
+01:18:52,187 --> 01:18:57,991
+his timeline. He visits short Wolverine, Brown
+Suit Wolverine, Age of Apocalypse Wolverine
+
+913
+01:18:58,332 --> 01:19:05,023
+Patch Crucifixion Wolverine. Old Man Logan and
+Cavalryne before coming upon an alcoholic Wolverine
+
+914
+01:19:05,063 --> 01:19:10,184
+whom he brings back to the TVA. Mr. Paradox
+calls this variant the worst Wolverine who
+
+915
+01:19:10,224 --> 01:19:14,866
+abandoned his X-Men during their tragic deaths.
+He then uses a time stick to send Deadpool
+
+916
+01:19:14,886 --> 01:19:18,927
+and Wolverine to the void at the end of time.
+And just wanted to reiterate, Cavalryne is
+
+917
+01:19:18,967 --> 01:19:22,908
+awesome. He's a better Wolverine than he ever
+was a Superman.
+
+918
+01:19:26,329 --> 01:19:31,863
+The crucifixion Wolverine. was dark as hell.
+I mean, that's like a classic iconic cover
+
+919
+01:19:31,903 --> 01:19:35,444
+from the comics. I remember the cover. When
+the X-Men went up against the Reavers. But
+
+920
+01:19:35,484 --> 01:19:39,186
+like seeing it in real life, I was like, holy
+shit, you don't want to be that Wolverine for
+
+921
+01:19:39,246 --> 01:19:43,908
+sure. It also made me realize that I don't want
+them to actually cast a five foot three actor
+
+922
+01:19:43,928 --> 01:19:50,951
+to play the character. No. Seeing short Wolverine.
+That's hilarious. I was cracking up the whole
+
+923
+01:19:50,991 --> 01:19:55,413
+time just because of that. And then I stopped
+laughing when I saw Cavalereen. Sucker.
+
+924
+01:20:00,019 --> 01:20:04,622
+In the Void, Deadpool and Wolverine fight before
+Deadpool promises that if they escape the Void
+
+925
+01:20:04,642 --> 01:20:09,145
+they can not only save his timeline, but also
+have the TVA save the X-Men from Wolverine's
+
+926
+01:20:09,165 --> 01:20:13,489
+timeline. They're discovered by a Human Torch
+variant who tells Deadpool and Wolverine about
+
+927
+01:20:13,549 --> 01:20:18,292
+Cassandra Nova, Professor X's twin sister who
+rules over the Void, and about the resistance
+
+928
+01:20:18,332 --> 01:20:22,795
+force in the Borderlands formed against her.
+The three are attacked by Cassandra Nova's
+
+929
+01:20:22,855 --> 01:20:27,674
+gang who brings them before her. And I do think-
+You know, obviously we mentioned already the
+
+930
+01:20:27,774 --> 01:20:32,455
+importance of the cameos, getting some of these
+moments. But fan service was that was this
+
+931
+01:20:32,495 --> 01:20:37,176
+movie. And we're getting things like, you know,
+Wolverine and Deadpool fighting. We're getting
+
+932
+01:20:37,337 --> 01:20:41,498
+Wolverine and Sabretooth going up against each
+other. And it didn't bother me. I know a lot
+
+933
+01:20:41,518 --> 01:20:45,759
+of people might have wanted like an actual bigger
+battle with them. Now we got a lot of other
+
+934
+01:20:45,799 --> 01:20:49,480
+battles down the line, so I didn't care. You
+know, he just kind of sliced his head off pretty
+
+935
+01:20:49,520 --> 01:20:56,498
+quickly. And, you know, in the comics, he beheaded
+him. And that's how Sabretooth died. It didn't
+
+936
+01:20:56,518 --> 01:21:01,699
+bother me one bit, but, you know, I enjoyed
+seeing all those characters come in kind of
+
+937
+01:21:01,779 --> 01:21:05,340
+one by one and be like, oh, shit, there's pyro.
+Oh, shit. There's this person. There's that
+
+938
+01:21:05,360 --> 01:21:10,122
+bro. Tyler mains back. Those were wonderful
+moments. I mean, John and I have talked about
+
+939
+01:21:10,162 --> 01:21:16,363
+nostalgia ad nauseam. I love nostalgia. I live
+on nostalgia. I mean, I can just feed off of
+
+940
+01:21:16,423 --> 01:21:21,645
+it and I sustain myself. You had a whole podcast
+about it. Exactly. And so it makes me happy.
+
+941
+01:21:22,225 --> 01:21:27,272
+I have to say next to a cavalry. Tyler Maine
+as Sabretooth was the cameo that I was most
+
+942
+01:21:27,352 --> 01:21:31,395
+disappointed in because I expected a bigger
+match between the two. I would have taken a
+
+943
+01:21:31,515 --> 01:21:36,119
+bigger match between those two and maybe skipped
+the whole brawl and the Honda Odyssey fight.
+
+944
+01:21:36,239 --> 01:21:39,762
+Oh, you're fucking wrong. The Odyssey was amazing.
+What? That was so good. That was such a good
+
+945
+01:21:39,782 --> 01:21:44,266
+fight. The Honda Odyssey fucks, man. Yeah, the
+Honda Odyssey fucks. I don't know. So good.
+
+946
+01:21:48,029 --> 01:21:52,532
+The first fight between Wolverine and Deadpool
+where you see Wolverine running on all fours
+
+947
+01:21:52,572 --> 01:21:57,354
+and stuff, very animalistic. Holy shit. Love
+it. Oh, that was so good. See, there were too
+
+948
+01:21:57,374 --> 01:22:01,556
+many fights between the two and it just felt
+redundant to me because no, they're not hurting
+
+949
+01:22:01,576 --> 01:22:05,677
+each other anyway. They have fucking healing
+factor. So why do I need to see this five fucking
+
+950
+01:22:05,717 --> 01:22:09,958
+times in the movie? You saw it twice in the
+movie. Yeah, and that's what they would do
+
+951
+01:22:09,978 --> 01:22:15,519
+with the twice what they would fucking do. Yes,
+exactly. If you look behind Adam over his right
+
+952
+01:22:15,539 --> 01:22:20,821
+shoulder, there is a cover of Deadpool holding
+up Wolverine's body because that is all they
+
+953
+01:22:20,881 --> 01:22:25,775
+fucking did in the comics was fighting each
+other. Wolverine 88 this is one of my favorite
+
+954
+01:22:25,795 --> 01:22:29,916
+comic covers of all time. Yep, same so fucking
+good same nice color That's a great one. That
+
+955
+01:22:29,996 --> 01:22:34,379
+is really good. They can't hurt each other though.
+It's wasted film doesn't matter It doesn't
+
+956
+01:22:34,399 --> 01:22:38,580
+matter if you ever if you ever just wanted to
+get out aggression Have you never punched a
+
+957
+01:22:38,620 --> 01:22:43,663
+wall or something you know the wall is not gonna
+win or you're not gonna win against the wall
+
+958
+01:22:43,843 --> 01:22:50,702
+I don't think I have I did that just a few hours
+ago When I lost my microphone cable They're
+
+959
+01:22:50,762 --> 01:22:54,543
+just they just got to get out aggression. They
+don't care. They're they're definitely trying
+
+960
+01:22:54,563 --> 01:22:59,884
+to kill each other But they just know it's not
+gonna happen And I think the two fights were
+
+961
+01:23:00,004 --> 01:23:05,906
+so drastically different in style because you
+get a wide Brawl right out in the open for
+
+962
+01:23:05,926 --> 01:23:12,387
+the first one and then this really nice contained
+almost defensive fight Inside of the car. I
+
+963
+01:23:12,808 --> 01:23:16,349
+loved it. I could have gone with another one.
+Yeah for sure Oh, we kind of got it with the
+
+964
+01:23:16,369 --> 01:23:20,670
+Deadpool core fight It was will ring going up
+against a whole legion of Deadpools Cassandra
+
+965
+01:23:20,690 --> 01:23:24,491
+Nova kills the human torch and buries Wolverine
+underground with her telekinesis before using
+
+966
+01:23:24,531 --> 01:23:29,733
+her tactile telepathy to read Deadpool's mind.
+Wolverine stabs Cassandra Nova, who heals and
+
+967
+01:23:29,774 --> 01:23:34,816
+leaves the pair to be devoured by Eliath, a
+temporal entity that feeds on reality in the
+
+968
+01:23:34,856 --> 01:23:40,518
+void at the end of time. Now you guys all saw
+Loki, right? Absolutely. Yeah, I'm sorry. I'm
+
+969
+01:23:40,558 --> 01:23:44,460
+reminded of, my son and I were discussing it
+after the second time and he goes, you know,
+
+970
+01:23:44,480 --> 01:23:49,286
+the thing I don't understand is I didn't identify
+with like, Eliath? What was his name? And I
+
+971
+01:23:49,306 --> 01:23:54,430
+go, bitch, you saw Loki season one. He goes,
+yeah, but I didn't really remember. I'm like,
+
+972
+01:23:54,470 --> 01:24:00,755
+well, that's on you. Why is that my problem?
+Deadpool and Wolverine escape Aliyah on a jet
+
+973
+01:24:00,795 --> 01:24:05,299
+powered Sentinel leg and decide to find the
+resistance force in the Borderlands. They come
+
+974
+01:24:05,319 --> 01:24:10,243
+across Dogpool and his owner, Nicepool, who
+lends them his Honda Odyssey. This is so ridiculous
+
+975
+01:24:10,263 --> 01:24:16,788
+to read out loud. Can we talk to Dogpool for
+a little bit? I think the casting choice for
+
+976
+01:24:16,828 --> 01:24:22,336
+Dogpool was perfect. The most ugly dog of all
+time. They've actually won the 2023 Britain's
+
+977
+01:24:22,376 --> 01:24:27,481
+Ugliest Dog Award. Oh, really? They cast that
+thing. Yes. And it was perfect. Definitely
+
+978
+01:24:27,501 --> 01:24:31,384
+didn't look like the comics version of Deadpool.
+But yeah, I super appreciated this version.
+
+979
+01:24:31,504 --> 01:24:36,008
+I didn't care. Yeah, I didn't care. Yeah. Wolverine
+learns that Deadpool lied about the possibility
+
+980
+01:24:36,048 --> 01:24:40,471
+of the TVA fixing the tragedy of his timeline
+and the two fight, knocking each other unconscious.
+
+981
+01:24:40,972 --> 01:24:45,035
+They're discovered by an X 23 variant who takes
+them to the borderlands where they meet the
+
+982
+01:24:45,075 --> 01:24:49,899
+resistance consisting of Electra, Blade and
+Gambit. Together, they decide to attack Cassandra
+
+983
+01:24:49,939 --> 01:24:55,063
+Nobra's brotherhood to steal Juggernaut's helmet
+which offers protection from her psychic powers.
+
+984
+01:24:55,383 --> 01:24:59,086
+Speaking of Juggernaut, I'm really disappointed
+that Vinnie Jones didn't come back for his
+
+985
+01:24:59,126 --> 01:25:04,650
+role. A little bit. This random dude did nothing
+for me. Like Vinnie Jones, Olivia Munn, I don't
+
+986
+01:25:04,670 --> 01:25:08,072
+know if they didn't cast them because they really
+didn't need to. They didn't have speaking lines
+
+987
+01:25:08,092 --> 01:25:12,816
+or anything like that or if it was a budget
+concern. Maybe both. Vinnie Jones was quoted
+
+988
+01:25:12,876 --> 01:25:16,522
+in an interview saying they called him for the
+role. But he didn't want to do it because he
+
+989
+01:25:16,542 --> 01:25:20,443
+didn't like wearing the juggernaut suit, but
+he fucked up Why is he being a little bitch?
+
+990
+01:25:20,463 --> 01:25:25,444
+He is. One day at work. Come on, Vinny. I tell
+you what it would have been funny. That whole
+
+991
+01:25:25,464 --> 01:25:33,687
+thing was a Mad Max sort of pseudoism If they'd
+gotten the giant guy from Fury Road to be Juggernaut
+
+992
+01:25:33,707 --> 01:25:37,988
+Yeah, was it Nathan Jones? Yeah, that would
+have been a funny twist That would have been
+
+993
+01:25:38,028 --> 01:25:41,709
+great. At least then it would have kind of made
+sense with the Mad Max name Honestly, Vinny
+
+994
+01:25:41,729 --> 01:25:47,910
+Jones probably just grew a beard, got lost the
+abs after all these years. That's what CGI
+
+995
+01:25:47,930 --> 01:25:52,552
+is for. Yeah, fair. The Resistance fights the
+Brotherhood, and X-23 is able to decapitate
+
+996
+01:25:52,572 --> 01:25:56,493
+Juggernaut and throw Deadpool the helmet, while
+Cassandra Nova uses her telepathy to try and
+
+997
+01:25:56,533 --> 01:26:02,314
+convince Wolverine to join her crew. Her psychic
+powers are subdued, then Pyro shoots her, revealed
+
+998
+01:26:02,334 --> 01:26:06,416
+to be working with Mr. Paradox in exchange for
+a way out of the void. Knowing that she is
+
+999
+01:26:06,436 --> 01:26:11,477
+their only way back home, Wolverine chooses
+to save her life. In exchange, she uses a Doctor
+
+1000
+01:26:11,497 --> 01:26:16,396
+Strange variant sling ring. to open a portal
+out of the void. I don't think it's a Doctor
+
+1001
+01:26:16,416 --> 01:26:20,559
+Strange sling rings. I heard a theory on this
+and I'm choosing to believe it. She said like
+
+1002
+01:26:20,599 --> 01:26:26,584
+a half-rate magician. I think it is a variant
+of the shitty magician that they had in She-Hulk
+
+1003
+01:26:26,784 --> 01:26:31,028
+that they went to court over. Johnny Blades
+or Donny Blades. I think it was him. Yeah.
+
+1004
+01:26:31,048 --> 01:26:36,072
+Could have been, yeah. I do feel like Strange
+would have put up a better fight. I agree.
+
+1005
+01:26:36,132 --> 01:26:40,716
+Kind of thing. Now, can the sling rings go through
+time? Cause I feel like then why do you need
+
+1006
+01:26:40,736 --> 01:26:45,619
+the time stone? Oh. Did they go through time?
+Well, it went through time because like all
+
+1007
+01:26:45,639 --> 01:26:50,343
+time ends at that point. It's like the end point
+in time. Right. Then you know what? Yes, they
+
+1008
+01:26:50,363 --> 01:26:59,829
+can. OK. All right. Sure, Jonathan. Damn it.
+It's a good point. Who cares? It does seem
+
+1009
+01:26:59,869 --> 01:27:04,753
+like it would be really risky to send any sort
+of magician back to the void because they could
+
+1010
+01:27:04,773 --> 01:27:09,476
+just escape pretty easily. Yeah. Back in Deadpool's
+timeline, he and Wolverine learned that Mr.
+
+1011
+01:27:09,516 --> 01:27:13,770
+Paradox's time ripper device is nearly ready.
+Cassandra Nova also comes through the portal
+
+1012
+01:27:13,810 --> 01:27:18,451
+to take over the Time Ripper and destroy all
+time except for the Void. Before Deadpool and
+
+1013
+01:27:18,471 --> 01:27:21,732
+Wolverine can stop her, the Deadpool core also
+comes through the portal and they're forced
+
+1014
+01:27:21,752 --> 01:27:29,055
+to fight. Peter, aka Peterpool, comes in to
+stop the fighting. Okay, so Peterpool, this
+
+1015
+01:27:29,095 --> 01:27:34,876
+is the level of absurdity in Deadpool that I
+feel like just... There's a certain absurdist
+
+1016
+01:27:34,916 --> 01:27:41,218
+humor threshold that I have, and Peterpool was
+that. I was like, really? That ended the whole
+
+1017
+01:27:41,258 --> 01:27:46,740
+battle with the Deadpool core? It made sense.
+That the do us mock in a side of him. I didn't
+
+1018
+01:27:46,760 --> 01:27:51,121
+know I needed it, but I'm good with it. Like
+I am. I'm totally fine with it. Well, for some
+
+1019
+01:27:51,161 --> 01:27:55,242
+reason, Deadpool had such a high regard of Peter.
+Nobody knows why he was his favorite member
+
+1020
+01:27:55,282 --> 01:27:59,023
+of the X-Horse. I like the idea of him having
+such a high regard for Peter, that all the
+
+1021
+01:27:59,043 --> 01:28:02,884
+Deadpools having a high regard for their universe
+is Peter, that they would stop fighting just
+
+1022
+01:28:02,924 --> 01:28:08,519
+for him. It made sense. OK, I'll say two things.
+One. They actually kind of, I don't know if
+
+1023
+01:28:08,539 --> 01:28:12,141
+this is directly related to this, but in my
+mind it is, they actually set up in the scene
+
+1024
+01:28:12,161 --> 01:28:17,045
+where they're, uh, the two are in the diner,
+about Deadpool having ADHD, and being distracted
+
+1025
+01:28:17,085 --> 01:28:21,308
+by Peter is something that would absolutely
+distract all of the Deadpools, and them having
+
+1026
+01:28:21,368 --> 01:28:29,173
+ADHD. Second of all, did you guys see the fucking
+cojones in the suit? I tried not to, but they
+
+1027
+01:28:29,213 --> 01:28:33,937
+were there. Impossible, don't you? They were
+enormous. The moose knuckle was... They were
+
+1028
+01:28:33,957 --> 01:28:38,295
+like, grapefruit sized. I think he has some
+kind of like illness or something. They're
+
+1029
+01:28:38,335 --> 01:28:43,677
+swollen. Elephantitis. I hope I'm not misremembering
+this, but I think I could also see there was
+
+1030
+01:28:43,697 --> 01:28:48,199
+like a little patch under his belly button that
+was still open. You kind of see the ring in
+
+1031
+01:28:48,219 --> 01:28:53,381
+the chain from the nipple rings and chain that
+they show earlier. That's why it's funny. That
+
+1032
+01:28:53,401 --> 01:28:58,403
+was such a good gag. And the fact that Hunter
+B-15, I guess she's Judge B-15 now, was like
+
+1033
+01:28:58,463 --> 01:29:01,524
+really into him. I thought that was hilarious.
+She's like, damn, you look good in that suit.
+
+1034
+01:29:01,604 --> 01:29:10,714
+Yeah. Peter Poles, man. Peter Poles. Peter fucks.
+Let's be honest. Yeah, that's like a hot Odyssey.
+
+1035
+01:29:10,734 --> 01:29:14,396
+Deadpool and Wolverine learn from Paradox that
+in order to stop Cassandra Nova, one of them
+
+1036
+01:29:14,416 --> 01:29:18,379
+will have to sacrifice themselves to destroy
+the Time Ripper device. They both attempt to
+
+1037
+01:29:18,419 --> 01:29:22,702
+make the sacrifice, allowing them to survive
+while destroying the machine and Cassandra
+
+1038
+01:29:22,722 --> 01:29:27,185
+Nova in the process. My least favorite part
+of the movie was the exposition given by Paradox
+
+1039
+01:29:27,405 --> 01:29:34,722
+on how anti-matter and matter combine to destroy
+the universes. And only one person. can't stop
+
+1040
+01:29:34,782 --> 01:29:40,166
+it and they must complete the circuit, but it
+will destroy them. And I'm like, shut up, just
+
+1041
+01:29:40,546 --> 01:29:44,549
+do it. I don't care how you explain it, just
+say you got to destroy the device. I mean,
+
+1042
+01:29:44,829 --> 01:29:49,612
+they needed to go through that though. I will
+say though, if they didn't say that, then enough
+
+1043
+01:29:49,652 --> 01:29:53,255
+of the nerds would bitch about why did it work
+and blah, blah. Yeah, it would have been confusing.
+
+1044
+01:29:53,735 --> 01:29:58,438
+That was cool with it. I like how the time ripper,
+the way it destroyed universes was exactly
+
+1045
+01:29:58,478 --> 01:30:01,900
+like the spaghettification that we saw in Loki
+season two. I always thought that was a cool
+
+1046
+01:30:01,920 --> 01:30:07,307
+effect. Yeah, that was cool. to me makes sense
+because now you can identify what is happening
+
+1047
+01:30:08,287 --> 01:30:13,028
+in the world. TVA Judge B-15 arrives to arrest
+Mr. Paradox, revealing to Deadpool and Wolverine
+
+1048
+01:30:13,048 --> 01:30:17,169
+that the timeline is now healing due to Wolverine
+being the new anchor. Or at least that's how
+
+1049
+01:30:17,209 --> 01:30:21,470
+I understood it. She returns the resistance
+members from the void to their respective timelines,
+
+1050
+01:30:21,530 --> 01:30:27,132
+including X-23 who joins Logan in Wade's timeline.
+They all celebrate with Wade's friends and
+
+1051
+01:30:27,172 --> 01:30:31,853
+Wade reconciles with Vanessa, telling her he
+saved the universe for her. And that's the
+
+1052
+01:30:31,873 --> 01:30:36,708
+end of the movie. of each of the Deadpool movies
+has been Vanessa. You know, that is his heart.
+
+1053
+01:30:36,768 --> 01:30:41,492
+And so kind of always tying in his love for
+her and the romantic element. I was very good
+
+1054
+01:30:41,512 --> 01:30:45,075
+with that. The whole relationship between the
+two when they weren't together was just heartbreaking
+
+1055
+01:30:45,095 --> 01:30:50,059
+to me, like seeing Vanessa talking about her
+new boyfriend through work and stuff like that
+
+1056
+01:30:50,200 --> 01:30:54,743
+and like the whole breakup conversation. He's
+like, just say it like you don't want me anymore.
+
+1057
+01:30:55,044 --> 01:31:00,688
+Like that was hard to watch, but it was really
+nice that it ended in the way that it did where
+
+1058
+01:31:00,908 --> 01:31:04,262
+they're coming back together because. They're
+crazy, match each other, and they belong together.
+
+1059
+01:31:04,903 --> 01:31:08,304
+That brings us to the end of the review. I don't
+know if you guys have heard, but we're on Rotten
+
+1060
+01:31:08,324 --> 01:31:15,087
+Tomatoes now. Yeah, you guys haven't said it
+every five seconds. So I gotta give my blurb.
+
+1061
+01:31:15,347 --> 01:31:20,670
+The titular duo delivers a one-two punch with
+their iconic performances and brutal action
+
+1062
+01:31:20,710 --> 01:31:26,772
+scenes in a chaotic, messy, and hilarious film
+full of fun surprises. I'm giving the movie
+
+1063
+01:31:26,832 --> 01:31:33,395
+four out of five stars a fresh rating on Rotten
+Tomatoes. Can I convince you otherwise? I can
+
+1064
+01:31:33,435 --> 01:31:40,742
+be convinced. Okay. So let's go through the
+Deadpool films. Deadpool 1, you gave a 4. You
+
+1065
+01:31:40,782 --> 01:31:46,106
+gave Deadpool 2 a 3.5 and you gave this one
+a 4 now currently. I argue that this is the
+
+1066
+01:31:46,166 --> 01:31:53,032
+best Deadpool film of the bunch. I think this
+is the most amount of humor, the most amount
+
+1067
+01:31:53,052 --> 01:31:58,436
+of fan service and overall the most fun film.
+Yes, it has some faults, which I will be willing
+
+1068
+01:31:58,456 --> 01:32:03,724
+to say maybe doesn't deserve a 5. But I want
+to push hard for that 4.5 because going through
+
+1069
+01:32:03,744 --> 01:32:11,251
+some of your other movies. Here comes we've
+got. Yeah. OK, buddy. Here it comes. Buckle
+
+1070
+01:32:11,311 --> 01:32:16,195
+up, Buttercup. Yeah. Blue Beetle was a four.
+This is better than Blue Beetle. Simple as
+
+1071
+01:32:16,215 --> 01:32:20,739
+that. Across the Spider-Verse is an amazing
+film. 4.5 I think this is pretty much this
+
+1072
+01:32:20,799 --> 01:32:26,504
+is the right kind of Deadpool movie. This is
+the movie you need for Deadpool. I think that's
+
+1073
+01:32:26,544 --> 01:32:31,932
+why this deserves to be there. Guardians 3,
+4.5, this is as good as Guardians 3, without
+
+1074
+01:32:31,952 --> 01:32:38,277
+question, without question. Loki season 2, 4.5,
+this is as good as Loki season 2. Wakanda forever,
+
+1075
+01:32:38,457 --> 01:32:42,981
+this is as good as, if not better than Wakanda
+forever, I can absolutely tell you that. Multiverse
+
+1076
+01:32:43,001 --> 01:32:47,825
+of Madness, this is as good or better than Multiverse
+of Madness, which you gave a 4.5. Well, the
+
+1077
+01:32:47,845 --> 01:32:51,668
+Batman you gave a five, and I think that's fantastic.
+The Batman worked so well as a Batman movie,
+
+1078
+01:32:51,908 --> 01:32:56,346
+this works so well as a Deadpool movie. The
+one I really want to give it home to is you
+
+1079
+01:32:56,386 --> 01:33:01,629
+gave Eternals a fucking four. You cannot give
+this the same score as the Eternals. This is
+
+1080
+01:33:01,649 --> 01:33:06,291
+a four point five. Are you fucking kidding me?
+I knew this was coming. Reach within your soul,
+
+1081
+01:33:06,331 --> 01:33:11,353
+sir. You have to give this the proper rating.
+So the way I do this is if I have no notes
+
+1082
+01:33:11,493 --> 01:33:15,614
+on a movie, really, if it's pretty good, I give
+it four and a half. If I have no notes and
+
+1083
+01:33:15,654 --> 01:33:20,516
+it exceeds my expectations, I give it a five.
+If I have notes, but it's good, I give it a
+
+1084
+01:33:20,536 --> 01:33:26,952
+four. That being said, any rating. I ever really
+give could be plus or minus half a star. I
+
+1085
+01:33:26,972 --> 01:33:31,335
+think this has notes, but also exceeds expectations.
+So it's kind of got you got to bump it back
+
+1086
+01:33:31,375 --> 01:33:35,758
+up for that. You're not wrong. And all the DC
+movies that you listed, I don't take any credit
+
+1087
+01:33:35,778 --> 01:33:39,900
+for it because Jonathan always rates his shit
+half a star higher than he should. You just
+
+1088
+01:33:39,920 --> 01:33:44,483
+said it fluctuates within a half a star. Yeah,
+but you always round up. I always round down.
+
+1089
+01:33:44,784 --> 01:33:50,359
+OK. In this case, you know, I. Debated heavily
+whether or not this should be four or five
+
+1090
+01:33:50,379 --> 01:33:55,781
+stars and I'm willing to Four point five Round
+up Four point five Come on with me guys Four
+
+1091
+01:33:55,821 --> 01:34:02,284
+point five Wait, even you Jonathan Four Alright
+Okay, sure It's not a hard decision to make
+
+1092
+01:34:02,344 --> 01:34:06,285
+really I could easily go four point five with
+this review It's a good movie I had a lot of
+
+1093
+01:34:06,305 --> 01:34:09,687
+fun John, I'm assuming that you would also rate
+it four point five or would you go higher?
+
+1094
+01:34:10,347 --> 01:34:13,968
+Um You know what I give it? I give it a ten
+A ten, a fucking ten Ten I'm giving
+
+1095
+01:34:17,366 --> 01:34:22,948
+I'm giving it a five. I want to go back and
+see it again. Very few of these movies do I
+
+1096
+01:34:22,988 --> 01:34:27,110
+actually want to go back and see it again while
+it's in theaters. I'm like, oh cool, I can't
+
+1097
+01:34:27,130 --> 01:34:31,472
+wait to see that again when it comes out on
+Disney+. I want to go back and see it again.
+
+1098
+01:34:31,492 --> 01:34:34,974
+I've already seen it twice. I'm waiting for
+friends to call me and say, hey, have you seen
+
+1099
+01:34:34,994 --> 01:34:38,856
+this? I'm going to be like, no, I haven't. I'm
+going to go back and see it again. It's a fucking
+
+1100
+01:34:38,876 --> 01:34:45,083
+five for me. Because you want to see, you want
+to be there when they gasp. at fucking flame
+
+1101
+01:34:45,203 --> 01:34:49,246
+on when they see Wesley Snipes, you want to
+you're going to get joy out of those moments
+
+1102
+01:34:49,266 --> 01:34:53,729
+from them as well. Experiencing the movie again
+vicariously through people who haven't seen
+
+1103
+01:34:53,749 --> 01:34:57,712
+it yet is something that I love doing with these
+Marvel films. It's why I saw movies like the
+
+1104
+01:34:57,752 --> 01:35:02,495
+first Avengers and even the first Deadpool movie
+multiple times. I think I saw all of those
+
+1105
+01:35:02,515 --> 01:35:07,158
+like six times in the theater. I would absolutely
+see this movie again. It's really fun to experience.
+
+1106
+01:35:07,198 --> 01:35:13,675
+It's a perfect summer movie. So a lot of people
+who have been know that I don't put as much
+
+1107
+01:35:13,815 --> 01:35:20,640
+stock into entertainment and quote unquote fun
+as I do story. Like I want to be moved in these
+
+1108
+01:35:20,761 --> 01:35:26,265
+theatrical experiences. I don't always necessarily
+need to just be entertained. You must be fun
+
+1109
+01:35:26,285 --> 01:35:32,891
+at parties. I tell him that all the time. I'm
+sorry, Jonathan, I really am. That was low
+
+1110
+01:35:32,911 --> 01:35:39,436
+hanging. Now that said, while the story I think
+was bare bones here, I did think it was touching.
+
+1111
+01:35:39,636 --> 01:35:44,603
+I did think it was moving. Do you think there
+was heart to it? Absolutely. You know, entertainment
+
+1112
+01:35:44,643 --> 01:35:48,645
+is just the cherry on top. And so when Joseph
+and I were talking about, you know, oh, you
+
+1113
+01:35:48,665 --> 01:35:52,607
+know, what would you rate this? That's usually
+all we talk about prior to doing a review is,
+
+1114
+01:35:52,667 --> 01:35:57,149
+you know, what is your star rating? I was saying
+four point five. Yeah. And I think I'm going
+
+1115
+01:35:57,169 --> 01:36:02,991
+to stick with that because I do think this was
+intentionally so the ultimate Deadpool movie.
+
+1116
+01:36:03,391 --> 01:36:10,347
+Yeah. Very fair. There you go. Four point five,
+guys. Yeah. We did it! We did it! A lot of
+
+1117
+01:36:10,367 --> 01:36:16,472
+that has to do with the fact that Adam has badgered
+me since we did that initial Deadpool review
+
+1118
+01:36:16,913 --> 01:36:21,357
+constantly about how I rated that movie wrong.
+So, this is for you, man. This is for you.
+
+1119
+01:36:21,377 --> 01:36:27,382
+Thank you. Thank you. But that does it for this
+review, guys. John, Adam, thank you guys so
+
+1120
+01:36:27,422 --> 01:36:32,306
+much for being able to do this review with us.
+We truly appreciate having you guys on board.
+
+1121
+01:36:32,326 --> 01:36:37,814
+We're big fans and we're really sad that Blast
+From Our Past podcast is gone. I'm not gonna
+
+1122
+01:36:37,974 --> 01:36:42,557
+beg you guys to bring it back because I know
+that you guys are busy, you're busy men. But
+
+1123
+01:36:43,197 --> 01:36:48,180
+I do expect it to eventually return one day.
+Well, much like Hugh Jackman retiring from
+
+1124
+01:36:48,220 --> 01:36:53,003
+Wolverine, never say never. Yes. Alright. Actually,
+I want to reach out and say for your final
+
+1125
+01:36:53,063 --> 01:36:58,086
+episode that you guys did for that show, you
+had a bunch of shows call in trying to advertise
+
+1126
+01:36:58,146 --> 01:37:04,550
+their podcasts so that viewers can leave your
+show and go on to theirs. I- did not submit
+
+1127
+01:37:04,670 --> 01:37:08,673
+a recording in time and that will be my lifelong
+regret that I didn't get to do that for you
+
+1128
+01:37:08,693 --> 01:37:12,556
+guys final episode. I did think it was weird
+at the time when Adam was like, oh yeah, you
+
+1129
+01:37:12,576 --> 01:37:15,197
+guys could plug your show. I'm like, I don't
+wanna plug my show. I just wanna talk about
+
+1130
+01:37:15,217 --> 01:37:21,341
+how much Blastformer Past meant to me as a listener.
+So I never got around to it. I apologize, but
+
+1131
+01:37:21,522 --> 01:37:26,385
+yeah, your show meant a lot to me. You know
+what the good thing is? There's still 300 episodes
+
+1132
+01:37:26,525 --> 01:37:31,168
+still out there that you can go back and revisit.
+That's true. And I encourage listeners to do
+
+1133
+01:37:31,208 --> 01:37:37,168
+so and to listen to Throwback Trivia take down.
+And we'll have to have you guys again on sometime
+
+1134
+01:37:37,428 --> 01:37:43,692
+in the future. For the Cavalry movie, maybe.
+You're right. No, no. I'll just sit out on
+
+1135
+01:37:43,712 --> 01:37:50,637
+that review. I refuse a boycott. Always a joy
+to have those guys on the show reviewing films
+
+1136
+01:37:50,657 --> 01:37:54,880
+with us. Remember to check out their podcast
+Throwback Trivia Take Down, of which their
+
+1137
+01:37:54,920 --> 01:37:59,863
+first episode, Jonathan and I were actually
+contestants. And we went head to head on Marvel
+
+1138
+01:37:59,883 --> 01:38:05,055
+and DC trivia. It was a whole lot of fun. Go
+check them out. Absolutely. That does it for
+
+1139
+01:38:05,096 --> 01:38:12,840
+this review. AJ9K help close this out. Thanks
+for listening to Dynamic duel. Visit the show's
+
+1140
+01:38:12,880 --> 01:38:18,764
+website at dynamicduel.com and follow us on
+Instagram at dynamicduelpodcast. You can support
+
+1141
+01:38:18,804 --> 01:38:24,528
+the show on Patreon at patreon.com slash dynamicduel
+and joining a tier that works for you, or by
+
+1142
+01:38:24,568 --> 01:38:30,752
+rating and reviewing Dynamic duel on Apple Podcasts,
+Spotify, Podchaser or on our website. Don't
+
+1143
+01:38:30,772 --> 01:38:35,315
+forget to listen to the other shows in the DynaMic
+Podcast Network, including Max Destruction,
+
+1144
+01:38:35,656 --> 01:38:42,756
+Senjow World and Console Combat. In our next
+episode, we're doing another review. Actually,
+
+1145
+01:38:43,057 --> 01:38:49,002
+we'll be doing reviews for a while. But this
+will be of my adventures with Superman season
+
+1146
+01:38:49,102 --> 01:38:55,447
+two. I really enjoyed season one. I have not
+even started season two yet. No, that's a lie.
+
+1147
+01:38:55,467 --> 01:38:59,971
+I've seen the first episode, maybe first two
+episodes. Anyway, I'll be reviewing all of
+
+1148
+01:38:59,991 --> 01:39:04,374
+the episodes next week. But that does it for
+this episode. We want to give a big thanks
+
+1149
+01:39:04,394 --> 01:39:09,078
+to our executive producers, Ken Johnson, John
+Swarovski, Zachary Hepburn. Dustin Abelcom,
+
+1150
+01:39:09,198 --> 01:39:14,280
+Miggy Mathengian, Brandon Estregard, Nathaniel
+Wagoner, Levi Yaten, Austin Wazilovski, AJ
+
+1151
+01:39:14,300 --> 01:39:20,503
+Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Andrew Shunk, Dean Molesky, Devin Davis,
+
+1152
+01:39:20,803 --> 01:39:26,205
+and Joseph Kerstink for helping make this podcast
+possible. We'll talk to you guys next week.
+
+1153
+01:39:26,726 --> 01:39:33,268
+Up up and away, true believers. She's a megalomaniacal
+psychotic asshole, a finger licking dead inside
+
+1154
+01:39:33,328 --> 01:39:38,039
+pixie slapping third rate dime store nut milk.
+she can lick my god damn cinnamon ring clean
+
+1155
+01:39:38,060 --> 01:39:42,003
+and kick rocks all the way to bald hell. In
+fact, I don't give a shit if she removes all
+
+1156
+01:39:42,023 --> 01:39:46,407
+my skin and pops me like some nightmarish blood
+balloon. If the last thing I do in this godforsaken
+
+1157
+01:39:46,427 --> 01:39:50,952
+cum gutter existence is light that fuckbox on
+fire, I still won't die happy. That's right,
+
+1158
+01:39:51,092 --> 01:39:56,096
+I won't be happy until I've urinated on her
+freshly barbecued corpse and husk remains while
+
+1159
+01:39:56,136 --> 01:39:58,619
+gargling juggernaut juggernuts. And you can
+quote me.
+
