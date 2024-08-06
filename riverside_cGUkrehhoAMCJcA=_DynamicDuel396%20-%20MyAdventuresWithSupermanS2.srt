@@ -1,0 +1,3589 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,366 --> 00:00:29,668
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,689 --> 00:00:35,852
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:36,132 --> 00:00:42,236
+I'm Johnny DC. And I'm his twin brother Marvelous
+Joe. And in this episode, we are doing a review
+
+5
+00:00:42,296 --> 00:00:48,919
+of season two of the HBO and Cartoon Network
+Adult Swim series, My Adventures with Superman.
+
+6
+00:00:49,400 --> 00:00:55,019
+It's a good show, people. If you're not watching
+it. Go watch My Adventures with Superman because
+
+7
+00:00:55,039 --> 00:00:59,624
+it's probably one of the best modern adaptations
+of the character that you can get, and I think
+
+8
+00:00:59,644 --> 00:01:04,288
+season 2 was a worthy successor to season 1.
+Yeah, absolutely, totally agree. We're going
+
+9
+00:01:04,308 --> 00:01:09,152
+to talk all about season 2 later on in this
+episode. Not too much later because there's
+
+10
+00:01:09,453 --> 00:01:15,878
+actually no news for this episode. This is sort
+of the calm after the storm that is Comic Con.
+
+11
+00:01:16,219 --> 00:01:20,275
+But as always, we list our segment times in
+our episode description. so feel free to check
+
+12
+00:01:20,315 --> 00:01:24,579
+out the show notes if you want to skip ahead
+to a particular topic. And guys, our artificially
+
+13
+00:01:24,640 --> 00:01:32,286
+intelligent duel simulator AJ9K has a quick
+message for our listeners, so listen up. Why
+
+14
+00:01:32,346 --> 00:01:36,747
+hello there, do you want even more from this
+podcast? Then become a part of the dynamic
+
+15
+00:01:36,787 --> 00:01:41,830
+duel community on Patreon, where you can choose
+from three tiers. The dynamic two-oh tier gives
+
+16
+00:01:41,850 --> 00:01:46,772
+you access to our Discord chat server. The fantastic
+four tier gives you two bonus episodes each
+
+17
+00:01:46,832 --> 00:01:52,370
+month, and the X-Force tier makes you an executive
+producer of this show. Lastly, The Diner Mike
+
+18
+00:01:52,410 --> 00:01:57,493
+podcast network tier lets you create your own
+podcast using this Monte Carlo simulator. Johnny
+
+19
+00:01:57,513 --> 00:02:01,976
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+20
+00:02:02,016 --> 00:02:07,499
+simulation results. Pitch the twins your ideas
+via email at dynamicduelpodcast at gmail.com.
+
+21
+00:02:08,560 --> 00:02:15,464
+Check it out at patreon.com slash dynamicduel.
+Pip pip cheerio. Thanks AJ9K and thanks to
+
+22
+00:02:15,624 --> 00:02:21,624
+everyone who supports the podcast. including
+our newest executive producer, Josh Leiner.
+
+23
+00:02:22,045 --> 00:02:26,748
+Welcome aboard, good sir. Be sure to join the
+rest of the executive producers on our Discord
+
+24
+00:02:26,768 --> 00:02:32,091
+chat server where we determine the content coming
+up on this podcast. Everyone else, be sure
+
+25
+00:02:32,111 --> 00:02:37,855
+to tune into the shows in the DynaMic Podcast
+Network this week, including Max Destruction,
+
+26
+00:02:38,135 --> 00:02:42,338
+which pits your favorite action heroes from
+film and television against each other. This
+
+27
+00:02:42,398 --> 00:02:48,810
+week, hosts Ken and Scotty are pitting the Power
+Rangers Megazord against Voltron. It's going
+
+28
+00:02:48,830 --> 00:02:53,592
+to be a great episode, an important episode,
+so make sure to tune into that. On the Senjou
+
+29
+00:02:53,612 --> 00:02:58,614
+World podcast, host Zachary Hepburn speculates
+on fights between fan favorite anime and manga
+
+30
+00:02:58,654 --> 00:03:04,077
+characters. The show is making its season 3
+premiere this Thursday, and Zach's kicking
+
+31
+00:03:04,117 --> 00:03:10,679
+things off with a matchup between Hiei of Yu
+Hakusho and Yuta Okatsu of Jujutsu Kaisen.
+
+32
+00:03:11,160 --> 00:03:16,022
+And on the Console Combat podcast, hosts John
+and Dean find out who would win and fights
+
+33
+00:03:16,062 --> 00:03:21,864
+between popular video game characters. In yesterday's
+episode, they determined who would win between
+
+34
+00:03:21,964 --> 00:03:29,287
+Dante from Devil May Cry versus Bayonetta. Visit
+dynamicpodcasts.com or click the link in our
+
+35
+00:03:29,307 --> 00:03:33,809
+show notes to listen to all the shows in the
+DynaMic Podcast Network. But with that out
+
+36
+00:03:33,829 --> 00:03:40,672
+of the way, quick to the No Prize! A No Prize
+is an award Marvel used to give out to fans.
+
+37
+00:03:41,033 --> 00:03:46,023
+Our version, the Dynamic duel No Prize, is a
+digital award we post on Instagram for the
+
+38
+00:03:46,063 --> 00:03:50,685
+person that we feel gave the best answer to
+our question of the week. Last week's question
+
+39
+00:03:50,725 --> 00:03:56,869
+we asked you guys, what the fuck? After we got
+the news that Robert Downey Jr. is returning
+
+40
+00:03:56,929 --> 00:04:03,072
+to the Marvel Cinematic Universe, not as Iron
+Man, but as Dr. Doom, and we wanted to get
+
+41
+00:04:03,132 --> 00:04:07,194
+your guys' thoughts on it. We got a lot of answers
+actually, so let's go ahead and run down our
+
+42
+00:04:07,254 --> 00:04:13,037
+honorable mentions as well as the no prize winner.
+Our first honorable mention goes to Peter Troll.
+
+43
+00:04:13,474 --> 00:04:13,854
+Who said?
+
+44
+00:04:41,214 --> 00:04:46,296
+And that's actually a pretty interesting theory.
+Of course, if you haven't seen Deadpool and
+
+45
+00:04:46,316 --> 00:04:52,478
+Wolverine, I don't want to spoil anything, but
+they introduced the concept of anchor beings
+
+46
+00:04:52,538 --> 00:04:59,161
+to a timeline. And if that anchor being is somehow
+killed, then that timeline starts to deteriorate,
+
+47
+00:04:59,641 --> 00:05:05,343
+making Tony Stark the anchor being for the MCU
+sacred timeline would actually kind of explain
+
+48
+00:05:05,724 --> 00:05:12,218
+why the MCU has sucked as of recently. It's
+just deteriorating. Just shut your mouth, first
+
+49
+00:05:12,258 --> 00:05:16,879
+of all. But second of all, yeah, I mean, I guess
+that's a solid theory. If it turns out that
+
+50
+00:05:16,939 --> 00:05:20,940
+Tony Stark was the anchor being and the heroes
+learn that he was the anchor being and they
+
+51
+00:05:20,980 --> 00:05:25,421
+go and they try to find a new anchor being going
+into the Fantastic Four universe, pull that
+
+52
+00:05:25,461 --> 00:05:30,923
+Doctor Doom into the new world because in the
+Fantastic Four universe, Doctor Doom is a Tony
+
+53
+00:05:30,943 --> 00:05:35,584
+Stark variant. Sure, I mean, it could work.
+It's still not better than getting the actual
+
+54
+00:05:35,624 --> 00:05:42,266
+true Doctor Doom. But it would be one way to
+rationalize why. Robert Downey Jr. would be
+
+55
+00:05:42,306 --> 00:05:47,728
+the character of Dr. Doom in an alternate universe.
+Great answer, Peter. Our next honorable mention
+
+56
+00:05:47,769 --> 00:05:53,191
+goes to Travis Bailey, who said, Travis here,
+shout out to my good twin, Ben has been to
+
+57
+00:05:53,211 --> 00:05:56,552
+clubbing. Alright, everybody's hot, everybody's
+freaking out, I get it. But what y'all don't
+
+58
+00:05:56,692 --> 00:06:03,795
+understand is that Robert Downey Jr. is one
+of them. He ain't even a hacker, he's a best
+
+59
+00:06:03,815 --> 00:06:08,577
+man, alright? But what's the matter with him?
+This man got range. He is not gonna be stark
+
+60
+00:06:08,597 --> 00:06:14,340
+as Doom, he will be... Victor Vajil and it is
+going to break our hearts. He's gonna pull
+
+61
+00:06:14,500 --> 00:06:18,482
+this mostly personal mess out of the fire. All
+right, so basically what Travis said there
+
+62
+00:06:18,522 --> 00:06:24,245
+was that Robert Downey Jr. is too good of an
+actor for this not to be good, basically. And
+
+63
+00:06:24,406 --> 00:06:29,148
+if he can convince audiences that he is an entirely
+different person and he never takes off the
+
+64
+00:06:29,188 --> 00:06:33,350
+mask and he changes his voice completely, maybe
+I can see this working, but I don't wanna know
+
+65
+00:06:33,410 --> 00:06:38,033
+it's him. I don't wanna feel that it's him.
+I wish I could just scrub the idea that it's
+
+66
+00:06:38,073 --> 00:06:42,736
+him out of my brain. and then maybe go into
+it thinking it's just someone else. To me,
+
+67
+00:06:42,796 --> 00:06:47,099
+that's the only way this successfully works.
+I don't want to know it's Robert Downey Jr.
+
+68
+00:06:47,219 --> 00:06:52,523
+which kind of seems weird because he is such
+a big actor. You figure that he would want
+
+69
+00:06:52,563 --> 00:06:57,527
+to get his face out there and let people know
+it's him. And I mean, the guy just won an Oscar,
+
+70
+00:06:57,707 --> 00:07:02,531
+right? I don't want to equate Victor Von Doom
+with Tony Stark in any way, shape or form.
+
+71
+00:07:02,671 --> 00:07:07,686
+So yeah, hopefully he can pull that off. Hopefully
+that's his approach. Great answer Travis, our
+
+72
+00:07:07,726 --> 00:07:11,309
+next honorable mention goes to... Miggy Mattingian
+who said...
+
+73
+00:07:36,214 --> 00:07:42,857
+the true, um, like comic fans from the MCU stands.
+That's right! If you like Robert Downey Jr.
+
+74
+00:07:42,997 --> 00:07:49,361
+as Dr. Doom, you're not a true Marvel fan. Hashtag
+fake fan. Miggy telling it like it is, you
+
+75
+00:07:49,381 --> 00:07:54,143
+hate to hear it, but doesn't mean he's wrong.
+We won't hold the fact that he's a DC fan against
+
+76
+00:07:54,183 --> 00:07:58,926
+him. I think he's right in that the decision
+of Robert Downey Jr.'s casting as Dr. Doom
+
+77
+00:07:58,966 --> 00:08:04,789
+is really separating the comic book fans from
+your basic MCU fans who aren't familiar with
+
+78
+00:08:04,829 --> 00:08:10,072
+the source material. I think if you're a fan
+of Doctor Doom from the comic books, the idea
+
+79
+00:08:10,232 --> 00:08:16,115
+of Tony Stark being Doctor Doom is offensive
+and totally not in keeping with the character.
+
+80
+00:08:16,356 --> 00:08:21,679
+But if you're mostly a fan of the movies, then
+you're probably more excited to see Robert
+
+81
+00:08:21,699 --> 00:08:26,982
+Downey Jr. return more than anything else. Not
+really being aware of the characterization
+
+82
+00:08:27,222 --> 00:08:32,485
+of Doctor Doom from the comics, who is one of
+Marvel's greatest villains of all time. Who
+
+83
+00:08:32,505 --> 00:08:37,567
+we still have yet to see. portrayed in an accurate
+manner on the big screen. Is there a run from
+
+84
+00:08:37,607 --> 00:08:42,109
+the comics of Dr. Doom that you would recommend
+for people to read who aren't familiar? That
+
+85
+00:08:42,149 --> 00:08:47,111
+is a great question. There's a few that come
+to the top of my head including the Dr. Strange
+
+86
+00:08:47,131 --> 00:08:54,014
+and Dr. Doom Triumph and Torment miniseries.
+There was the Doom War miniseries. That's one
+
+87
+00:08:54,034 --> 00:08:59,596
+word Doom War. Books of Doom was pretty good.
+There was also the recent Dr. Doom run that
+
+88
+00:08:59,616 --> 00:09:06,851
+came out in 2019 or 2020, I think. It was about
+10 issues and ended spectacularly. And basically
+
+89
+00:09:07,011 --> 00:09:11,152
+any Fantastic Four arc dealing with Dr. Doom,
+I would recommend, because they're all good.
+
+90
+00:09:11,512 --> 00:09:15,233
+Also, the first Secret Wars, they came out in
+the 80s. That was also a good showcase for
+
+91
+00:09:15,273 --> 00:09:19,915
+Dr. Doom. There's a lot of them. There's a lot
+of great books with him. And of course, anyone
+
+92
+00:09:19,935 --> 00:09:24,556
+not familiar with him can go back to one of
+our earliest episodes where we pit Superman
+
+93
+00:09:24,576 --> 00:09:28,717
+against Dr. Doom in a duel. Yeah, you could
+definitely find out a lot about his history
+
+94
+00:09:28,777 --> 00:09:33,721
+in that episode. Great answer, Miggy. We wanna
+give a quick shout out to Alex, Sarah Smorr,
+
+95
+00:09:33,921 --> 00:09:40,106
+Kat Stevenson, Cornelius Robinson, and Travis
+Bailey's twin, Travis Herndon, for taking the
+
+96
+00:09:40,146 --> 00:09:45,171
+time to visit our website and record an answer.
+Yeah, great answer, guys. No one gave a bad
+
+97
+00:09:45,231 --> 00:09:50,315
+answer for this question of the week. You guys
+all really gave compelling thoughts on this
+
+98
+00:09:50,435 --> 00:09:56,641
+divisive issue. But the winner of this week's
+Snow Prize goes to Waldo. Who said? Hey guys,
+
+99
+00:09:56,721 --> 00:10:05,512
+Waldo here. I am convinced and choosing to believe
+that it is some kind of a mislead, both in
+
+100
+00:10:05,612 --> 00:10:12,214
+our world and in the MCU. So maybe throughout
+the film it'll be RDJ has Doom, but then at
+
+101
+00:10:12,274 --> 00:10:19,195
+some point the real not yet known actor will
+come out and be the actual Doom and say this
+
+102
+00:10:19,236 --> 00:10:25,637
+is a Doom bot or just some kind of ploy. What
+do you think? To me, this is the best case
+
+103
+00:10:25,657 --> 00:10:31,640
+scenario. I think if Doctor Doom is so genius
+so as to make one of his Doom bots assume the
+
+104
+00:10:31,680 --> 00:10:38,965
+appearance of the 616 universe's greatest heroes
+just to cause confusion amongst everybody and
+
+105
+00:10:39,025 --> 00:10:43,427
+make them easier to defeat if they're really
+hesitant to fight against someone who resembles
+
+106
+00:10:43,667 --> 00:10:48,150
+their beloved Tony Stark, that sounds like a
+pretty sinister plan in my mind. And I would
+
+107
+00:10:48,630 --> 00:10:53,953
+not mind that at all. Have the Tony Stark looking
+Doctor Doom just be a ploy, a puppet controlled
+
+108
+00:10:53,993 --> 00:10:59,028
+by the real lurking in the shadows. I do think
+it's kind of dumb that Marvel would pull this
+
+109
+00:10:59,068 --> 00:11:04,872
+kind of trick on the fans that Robert Downey
+Jr. is Dr. Doom. Psych! No he's not! But also,
+
+110
+00:11:05,192 --> 00:11:10,716
+that may just be the most acceptable way for
+this casting to work. It's just all part of
+
+111
+00:11:10,776 --> 00:11:16,300
+Doom's plan, because that's what Doom does.
+He plans. He's like Marvel's Batman, but like,
+
+112
+00:11:16,561 --> 00:11:21,724
+way better. Like way fucking better. Because
+he uses magic. Why Batman doesn't use magic?
+
+113
+00:11:21,804 --> 00:11:26,455
+Even though he knows the occult exists? We don't
+know, he only studies science like a dum dum.
+
+114
+00:11:26,836 --> 00:11:32,059
+Dr. Doom knows science and magic. And he can
+fucking fly. Get outta here with your Batman
+
+115
+00:11:32,099 --> 00:11:42,867
+DC fans. Dr. Doom. Yeah, he's the guy who got
+beat by Squirrel Girl. God damn it. Great answer
+
+116
+00:11:42,907 --> 00:11:46,529
+Waldo, you win this week's No Prize. If you
+the listener want a shot at winning your own
+
+117
+00:11:46,549 --> 00:11:50,812
+No Prize, stay tuned to later on this episode
+when we'll be asking another question of the
+
+118
+00:11:50,852 --> 00:11:57,329
+week. And now that that's done. Onto the not
+news, obviously, onto the question of the week.
+
+119
+00:12:01,814 --> 00:12:07,738
+This is a DynamiC Network question guys, other
+than DynamiC duel, what is your favorite podcast
+
+120
+00:12:07,918 --> 00:12:15,504
+in the DynamiC Network and why? You choose between
+Max Destruction, Senjou World, or Console Combat?
+
+121
+00:12:15,624 --> 00:12:20,628
+Just let us know, we'd love to hear your answers.
+Record your answer at DynamiCduel.com by clicking
+
+122
+00:12:20,668 --> 00:12:24,791
+on the red microphone button in the bottom right
+hand corner of the screen, which will prompt
+
+123
+00:12:24,831 --> 00:12:29,350
+you to leave us a voicemail. Your message could
+be up to 30 seconds long. And don't forget
+
+124
+00:12:29,390 --> 00:12:34,056
+to leave your name in case we include you on
+the podcast. We'll pick our favorite answer
+
+125
+00:12:34,297 --> 00:12:39,363
+and award that person a dynamic duel note prize
+that we'll post to Instagram. Be sure to answer
+
+126
+00:12:39,403 --> 00:12:41,405
+before August 10th.
+
+127
+00:12:48,910 --> 00:12:55,255
+So now let's move on to the main event of this
+episode where we review Season 2 of the animated
+
+128
+00:12:55,315 --> 00:12:58,717
+series My Adventures with Superman.
+
+129
+00:13:14,786 --> 00:13:20,668
+My Adventures with Superman is an animated anime
+style series that debuts on the Cartoon Network's
+
+130
+00:13:20,708 --> 00:13:27,171
+Adult Swim programming block alongside Warner
+Brothers' Max streaming platform. It just wrapped
+
+131
+00:13:27,251 --> 00:13:33,553
+its second season and it continues to be a charming,
+fun and unique adaptation of the Superman mythos.
+
+132
+00:13:34,133 --> 00:13:39,616
+As we mentioned in our 4.5 out of 5 review of
+season one, we were surprised by how good the
+
+133
+00:13:39,656 --> 00:13:46,078
+show turned out to be. And those surprises continue
+into season two. as the writers take alternative
+
+134
+00:13:46,138 --> 00:13:52,340
+approaches with characters and story elements
+that make the show just a joy to watch. Now,
+
+135
+00:13:52,380 --> 00:13:59,202
+Season 2 is not as good as Season 1, I'll just
+say, but barely. I highly recommend this show
+
+136
+00:13:59,302 --> 00:14:04,703
+to anyone, comic fan or not, especially anyone
+who claims to not like Superman or find him
+
+137
+00:14:04,783 --> 00:14:11,565
+boring, because this show proves just how storytellers
+can continue to make an 80-s character feel
+
+138
+00:14:11,705 --> 00:14:17,241
+special. If you haven't seen season 2 yet, make
+sure you're caught up before listening to this
+
+139
+00:14:17,402 --> 00:14:23,767
+spoiler review. I agree that season 2 is not
+as good as season 1, but only barely. You know,
+
+140
+00:14:23,787 --> 00:14:30,092
+season 1 was special because it introduced a
+lot of the power discovery elements, as well
+
+141
+00:14:30,152 --> 00:14:35,517
+as the secret identity stuff involving his best
+friend and the girl that he likes discovering
+
+142
+00:14:35,697 --> 00:14:41,325
+who he really is. You didn't have any of that
+going into season 2, which was a big part of
+
+143
+00:14:41,365 --> 00:14:45,668
+the charm of season 1, I think. But season 2
+still had a lot going for it. Right, yeah.
+
+144
+00:14:45,728 --> 00:14:49,851
+I mean, that's a big part of its charm. But
+I would say the biggest appeal of My Adventures
+
+145
+00:14:49,871 --> 00:14:55,595
+with Superman as a show, as a concept, is the
+shounen anime approach to its storytelling.
+
+146
+00:14:56,136 --> 00:15:01,400
+Shounen is a genre of anime that's essentially
+action-packed coming-of-age stories that often
+
+147
+00:15:01,460 --> 00:15:07,595
+focus on themes of friendship and perseverance.
+Shows like Dragon Ball, Naruto, My Hero Academia,
+
+148
+00:15:07,755 --> 00:15:13,517
+Pokemon, One Piece. These are all examples of
+shounen anime. And it's not a style I would
+
+149
+00:15:13,537 --> 00:15:18,260
+have thought worked for Superman until I saw
+season one of this show. Because it seems like
+
+150
+00:15:18,300 --> 00:15:23,702
+Superman was tailor-made for the genre. That
+shouldn't have been surprising maybe in hindsight
+
+151
+00:15:23,762 --> 00:15:28,184
+because, you know, as many anime fans have noticed,
+there's not all too much difference between
+
+152
+00:15:28,224 --> 00:15:34,446
+characters like Superman and Goku. Now, we don't
+watch a lot of anime. But my hands down favorites
+
+153
+00:15:34,546 --> 00:15:40,709
+like My Hero Academia, Sword Art Online, or
+Neon Genesis Evangelion, all fall into the
+
+154
+00:15:40,729 --> 00:15:45,771
+shounen genre. And it's always surprising how
+well shows like those seem to effortlessly
+
+155
+00:15:45,791 --> 00:15:51,854
+transition between subgenres. Like, they tend
+to be very action-packed, but the characters
+
+156
+00:15:51,894 --> 00:15:58,156
+are also waxing poetic in this very dramatic
+way as they're fighting. Just adding layers
+
+157
+00:15:58,296 --> 00:16:04,850
+of drama and heart and character to the ordeal.
+Shonen could be comedic one episode, adventure
+
+158
+00:16:04,870 --> 00:16:10,232
+focused the next, horrifying the episode after
+that, which is something you don't often see
+
+159
+00:16:10,252 --> 00:16:16,394
+in Western media. My Adventures with Superman
+is no different, as it feels like a near perfect
+
+160
+00:16:16,454 --> 00:16:22,356
+balance of comedy, action, romance, and even
+a sprinkling of horror this season. And it
+
+161
+00:16:22,416 --> 00:16:28,558
+does it while managing to remain pretty family
+friendly. Unlike other anime, This show is
+
+162
+00:16:28,778 --> 00:16:36,885
+devoid of gore and blood or even over sexuality,
+which sounds lame, but I actually love having
+
+163
+00:16:36,985 --> 00:16:42,510
+an anime show that I could watch with my kids,
+particularly if it's DC. But it's not overly
+
+164
+00:16:42,570 --> 00:16:47,434
+kiddy. I mean, like maybe the first few episodes
+of season one, I kind of thought that the show
+
+165
+00:16:47,474 --> 00:16:53,419
+was overly kid oriented. But ever since then,
+I think it's definitely a show that's complex
+
+166
+00:16:53,459 --> 00:16:58,175
+enough to appeal to older audiences as well.
+Absolutely. Like a lot of good animes, the
+
+167
+00:16:58,215 --> 00:17:03,619
+show knows to take its themes and its characters
+and the drama behind the characters very seriously.
+
+168
+00:17:03,899 --> 00:17:09,244
+Its characters are very complex, which to me
+is a sign of a really good anime. Now it helps
+
+169
+00:17:09,284 --> 00:17:15,709
+that the show has a lead character as wholesome
+as Clark Kent. The show revolves around him,
+
+170
+00:17:15,929 --> 00:17:20,653
+specifically his relationships as he's starting
+out in the city and his job and meeting all
+
+171
+00:17:20,673 --> 00:17:25,297
+these new people. And that's another thing unique
+to this series that I'm sure Superman fans
+
+172
+00:17:25,317 --> 00:17:31,525
+will notice. Clark is the main character here,
+not Superman. Superman in this show is essentially
+
+173
+00:17:31,665 --> 00:17:35,907
+the mask that Clark wears, and this is something
+we talked about in our season one review. It's
+
+174
+00:17:35,927 --> 00:17:41,031
+like the opposite of Christopher Reeve Superman,
+or you could argue even Henry Cavill's. And
+
+175
+00:17:41,091 --> 00:17:46,034
+somehow they find ways to make his supporting
+cast of Lois Lane and Jimmy Olsen more relevant
+
+176
+00:17:46,054 --> 00:17:51,217
+than I think they've felt in decades, in that
+they're not just there for Superman to rescue,
+
+177
+00:17:51,657 --> 00:17:56,731
+but they are often... active participants in
+defeating bad guys, and sometimes they're the
+
+178
+00:17:56,831 --> 00:18:02,574
+ones that outright save Superman himself. I
+feel like it shouldn't work on paper, but in
+
+179
+00:18:02,654 --> 00:18:07,796
+this show it does. If you told me that they
+were releasing a Superman animated television
+
+180
+00:18:07,836 --> 00:18:12,198
+series in which Superman's not only the only
+main character, but that Lois and Jimmy would
+
+181
+00:18:12,318 --> 00:18:16,921
+often be involved in his adventures in saving
+his life, I tell you to go fuck yourself, because
+
+182
+00:18:16,941 --> 00:18:22,831
+that sounds like shit. No, it's actually for
+some reason, you're right, it does work. And
+
+183
+00:18:22,871 --> 00:18:27,533
+I think it has to do with the idea of the relationships
+established between the main characters. They
+
+184
+00:18:27,673 --> 00:18:32,835
+are, you know, very close. They have a very
+tight friendship and working together is just
+
+185
+00:18:32,895 --> 00:18:37,417
+one of the primary themes of the show. And it
+works really well. Yeah, you know, part of
+
+186
+00:18:37,457 --> 00:18:42,500
+the joy of watching the show as a longtime fan
+of the Superman comics is seeing how they adapt
+
+187
+00:18:42,580 --> 00:18:50,087
+the saga that is Superman. Like in the past.
+Lois and Jimmy were always clueless as to Superman's
+
+188
+00:18:50,107 --> 00:18:55,330
+secret identity. So you weren't really able
+to tell stories like this in Superman's early
+
+189
+00:18:55,370 --> 00:19:01,053
+days, because in this show, Jimmy and Lois from
+season one know that Clark Kent is Superman.
+
+190
+00:19:01,474 --> 00:19:06,736
+So that's an interesting adaptation or reinvention,
+but it's also cool to see how they change things
+
+191
+00:19:06,776 --> 00:19:12,380
+like Krypton, or how Superman's powers manifest,
+or even how his villains come about. You know,
+
+192
+00:19:12,400 --> 00:19:17,226
+in season one, all of his villains utilized
+Kryptonian technology. We got a little bit
+
+193
+00:19:17,287 --> 00:19:22,371
+of that this season, but primarily in season
+two, his main antagonists were straight up
+
+194
+00:19:22,472 --> 00:19:28,998
+Kryptonian, namely Supergirl and Brainiac. And
+I loved some of the choices they made for those
+
+195
+00:19:29,018 --> 00:19:33,803
+characters and adapting them for this show.
+Like Supergirl, starting off as a foe who's
+
+196
+00:19:33,823 --> 00:19:38,507
+been brainwashed by Brainiac, I thought was
+genius. And it was a great way to introduce
+
+197
+00:19:38,547 --> 00:19:42,870
+the threat that is Brainiac, which... You know,
+and this show is kind of like Superman the
+
+198
+00:19:42,930 --> 00:19:49,894
+animated series in that he's a Kryptonian AI
+construct, though here he was programmed specifically
+
+199
+00:19:50,034 --> 00:19:55,537
+to aid in war and conquest. Yeah, I thought
+the way they adapted Supergirl and Brainiac
+
+200
+00:19:55,557 --> 00:19:59,779
+for the show was fantastic. I think that's actually
+when this season started getting good, because
+
+201
+00:19:59,979 --> 00:20:03,801
+I was not thrilled with the first half of the
+season. Like, I liked the stuff with Steel.
+
+202
+00:20:03,941 --> 00:20:09,504
+That episode was pretty good. But once Supergirl
+came into the picture, it was a lot more invested
+
+203
+00:20:09,544 --> 00:20:14,288
+in where the story was going, as opposed to
+just dealing with the Sam Lane and Amanda Waller
+
+204
+00:20:14,308 --> 00:20:19,631
+stuff from the previous season. Yeah, for me,
+it really picked up during the Star Labs symposium,
+
+205
+00:20:20,012 --> 00:20:24,535
+where Lex Luthor kind of starts to turn public
+opinion against Superman. I thought that was
+
+206
+00:20:24,575 --> 00:20:29,238
+really interesting. And I think Supergirl appeared
+the episode after that. So yeah, I would agree
+
+207
+00:20:29,258 --> 00:20:33,121
+with you. Second half is much better than the
+first half. And of course, the second half
+
+208
+00:20:33,161 --> 00:20:38,617
+is where we got Brainiac, And admittedly, I
+didn't like every adaptation they made for
+
+209
+00:20:38,657 --> 00:20:43,240
+Brainiac. You know, this series made him into
+an amalgamation, really, of three different
+
+210
+00:20:43,280 --> 00:20:49,665
+Superman villains. You, of course, have Brainiac,
+but also Mongol, and that he'd conquer civilizations
+
+211
+00:20:49,685 --> 00:20:55,009
+and then force their champions to fight. And
+like Mongol, Brainiac also had a psychic weapon
+
+212
+00:20:55,049 --> 00:21:00,713
+known as the Black Mercy, but instead of an
+alien plant, it was Kryptonian technology.
+
+213
+00:21:01,110 --> 00:21:05,372
+That's right, I remember seeing the show and
+hearing the reference to Black Mercy, but I
+
+214
+00:21:05,412 --> 00:21:10,835
+forgot what it was a reference to. And you just
+reminded me that it's a weaponized plant used
+
+215
+00:21:10,875 --> 00:21:16,198
+by Mongol. Right, yeah. Two like trapped beings
+in this false reality from which they would
+
+216
+00:21:16,219 --> 00:21:21,462
+never want to escape from. That's exactly what
+Brainiac did to Superman this season. But also,
+
+217
+00:21:21,482 --> 00:21:26,905
+you know, Brainiac had shades of dark side in
+how they depicted his missiles and lasers zigzagging
+
+218
+00:21:26,945 --> 00:21:31,588
+across the sky. It's a very little nitpick,
+but it does make me question how they're planning
+
+219
+00:21:31,608 --> 00:21:36,651
+to differentiate someone like Darkseid if they
+ever decide to introduce him to the show in
+
+220
+00:21:36,671 --> 00:21:42,536
+the future. And also, I think it would be hard
+to springboard characters like Zod or like
+
+221
+00:21:42,656 --> 00:21:48,060
+the Eradicator or people like that. Yeah, totally.
+They even mentioned Eradicator in this season.
+
+222
+00:21:48,200 --> 00:21:53,483
+Like, Eradicator was a protocol that Brainiac
+used to brainwash Kara, apparently. I think
+
+223
+00:21:53,523 --> 00:21:57,847
+that's what it was. But you're absolutely right.
+They totally... pulled a red herring at the
+
+224
+00:21:57,887 --> 00:22:02,971
+end of season one when we thought the villain
+was going to be Zod, but it turns out the character
+
+225
+00:22:02,991 --> 00:22:08,395
+who was talking about his enemies kneeling was
+Kara. Right. That was an interesting twist.
+
+226
+00:22:08,916 --> 00:22:13,920
+I like Brainiac as a Superman villain though,
+so I'm glad that they went with him. They just
+
+227
+00:22:13,940 --> 00:22:20,045
+weren't very comic book accurate in his depiction.
+Yeah, no, I totally agree with you. Brainiac,
+
+228
+00:22:20,165 --> 00:22:25,889
+in my opinion, is the best Superman villain.
+Like he is the Joker to Superman's Batman.
+
+229
+00:22:26,410 --> 00:22:31,112
+and I'm totally fine with them making him like
+this ultimate Superman villain for this show.
+
+230
+00:22:31,332 --> 00:22:35,335
+In fact, I wouldn't be surprised if they bring
+him back next season. You know, I think he'll
+
+231
+00:22:35,375 --> 00:22:40,057
+come back. I think the show does a decent job
+of actually building up Lex Luthor as also
+
+232
+00:22:40,177 --> 00:22:45,300
+a big bad for season three, which has already
+been greenlit. And they've even introduced
+
+233
+00:22:45,380 --> 00:22:50,383
+the potential this season for the death of Superman's
+storyline with the introductions of characters
+
+234
+00:22:50,423 --> 00:22:56,059
+like Steel and Hank Henshaw, the future cyborg
+Superman, so... I'm excited for what we have
+
+235
+00:22:56,159 --> 00:23:00,802
+upcoming with this series. There's a ton of
+potential. The death of Superman storyline
+
+236
+00:23:00,822 --> 00:23:06,687
+would be pretty dark for this show in particular
+to adapt. But if they were to do it, I know
+
+237
+00:23:06,707 --> 00:23:10,549
+they would do a great job. Just because they
+have a solid approach to most of the story
+
+238
+00:23:10,569 --> 00:23:15,953
+arcs in this series. Yeah, and again the relationships
+they have established, you know how devastating
+
+239
+00:23:15,973 --> 00:23:21,057
+that would be to Lois Lane. Like more so in
+this show than maybe other adaptations of Superman.
+
+240
+00:23:21,077 --> 00:23:26,289
+Right. Like I said, the show does a great job
+of adapting the source material. Not all of
+
+241
+00:23:26,309 --> 00:23:30,713
+the adaptations worked, but the thing that actually
+bothered me more than some of those adaptations
+
+242
+00:23:31,033 --> 00:23:37,139
+was the numerous unanswered questions that were
+left by the end of this season. Like, how did
+
+243
+00:23:37,199 --> 00:23:41,863
+Clark have those visions of his ship at the
+beginning of this season? He didn't know how
+
+244
+00:23:41,903 --> 00:23:46,547
+he had them, and they never followed up on that.
+You know, Clark had new powers that manifested,
+
+245
+00:23:46,647 --> 00:23:51,418
+but how was he able to do that? And why him?
+You know, Brainiac seemed interested in that,
+
+246
+00:23:51,459 --> 00:23:56,281
+so I thought we'd get some kind of answer, but
+we didn't. And then there's small things like
+
+247
+00:23:56,581 --> 00:24:01,944
+why were the Kryptonian suits able to adapt
+to space if they didn't need to? Seemed pointless.
+
+248
+00:24:02,445 --> 00:24:07,588
+And why was the Kryptonian space station candor
+falling apart? And why was it a space station
+
+249
+00:24:07,628 --> 00:24:12,150
+instead of a shrunken city? Yeah, I remember
+scratching my head in some moments, like when
+
+250
+00:24:12,250 --> 00:24:17,393
+Supergirl realized that she had been destroying
+these planets. There was kind of like a weird
+
+251
+00:24:17,553 --> 00:24:23,758
+time. jump there that I didn't quite follow.
+Yeah, for sure. So again, not a perfect season.
+
+252
+00:24:24,139 --> 00:24:28,743
+There are a lot of little things that bothered
+me, but ultimately I feel like the characters
+
+253
+00:24:29,003 --> 00:24:34,187
+made up for a lot of that. So let's talk about
+the characters in our character breakdown starting
+
+254
+00:24:34,247 --> 00:24:41,013
+with Clark Kent slash Superman voiced by Jack
+Quaid of the boys fame. He does a fantastic
+
+255
+00:24:41,073 --> 00:24:47,138
+job doing the voice of Clark so much so that
+I don't even recognize him as Jack. It just
+
+256
+00:24:47,178 --> 00:24:53,139
+comes across as this natural performance of
+a really young, really earnest Superman. Superman's
+
+257
+00:24:53,299 --> 00:24:59,741
+arc this season revolved around alienation,
+isolation, and rejection. As he learns more
+
+258
+00:24:59,781 --> 00:25:04,382
+about himself, he feels the sense that he's
+different from everyone. And it's not really
+
+259
+00:25:04,442 --> 00:25:11,304
+something he feels that others, even those closest
+to him like Lois, can relate to. Not realizing
+
+260
+00:25:11,464 --> 00:25:17,138
+that actually Lois and Supergirl have arcs dealing
+with alienation as well this season. particularly
+
+261
+00:25:17,158 --> 00:25:22,864
+when it comes to their fathers. Now Superman
+loses his father in episode one, and with him
+
+262
+00:25:23,004 --> 00:25:28,609
+any hope for more answers unless he can find
+his cousin. Because Superman seeks someone
+
+263
+00:25:28,629 --> 00:25:34,915
+to relate to, he reaches out to Supergirl, knowing
+Lois would probably disapprove. And later when
+
+264
+00:25:34,955 --> 00:25:40,801
+Lex Luthor successfully turns public opinion
+against him, and even Jimmy and Lois seemingly
+
+265
+00:25:40,861 --> 00:25:46,672
+reject him, He discovers when he meets Kara
+that his Kryptonian heritage isn't exactly
+
+266
+00:25:46,772 --> 00:25:53,236
+honorable and that perhaps some things were
+better off left unknown. Ultimately though,
+
+267
+00:25:53,596 --> 00:25:59,920
+Superman is Superman and despite Kara's attacks,
+he shows her grace in the end and essentially
+
+268
+00:25:59,960 --> 00:26:05,583
+kills her with kindness, helping her be reborn
+in this new identity as a protector of Earth
+
+269
+00:26:05,943 --> 00:26:12,982
+rather than a conqueror. And in that, he finds
+someone that he can teach and help grow and
+
+270
+00:26:13,022 --> 00:26:18,345
+find someone who's Kryptonian to relate to in
+that way. Yeah, it was a much more, I guess,
+
+271
+00:26:18,405 --> 00:26:22,266
+mature arc than he had in the first one, which
+is really about discovery. The first season
+
+272
+00:26:22,406 --> 00:26:26,828
+was really about discovery of himself, of love,
+and things like that. And after he learns who
+
+273
+00:26:26,868 --> 00:26:31,070
+he is, he discovers a little bit more about
+how that affects those around him. It makes
+
+274
+00:26:31,110 --> 00:26:36,592
+me think that he and Lois have a terrible communication
+problem because they went multiple episodes
+
+275
+00:26:36,812 --> 00:26:42,278
+just trying to tell each other something very
+important. Clark in regards to his cousin and
+
+276
+00:26:42,458 --> 00:26:47,160
+Lois in regards to her father. And they never
+quite got around to it or they never really
+
+277
+00:26:47,200 --> 00:26:52,221
+made the time for it until it was too late.
+And you have kind of like a Romeo and Juliet
+
+278
+00:26:52,241 --> 00:26:58,223
+situation where tragedy strikes before they
+can actually speak with each other. Yeah, communication
+
+279
+00:26:58,503 --> 00:27:04,485
+is a tricky thing. Even, you know, for me, someone
+who's been married 16 years, it's a delicate
+
+280
+00:27:04,525 --> 00:27:09,416
+balance. And even here, you know, They're not
+communicating because they're putting the other
+
+281
+00:27:09,456 --> 00:27:14,159
+person's needs ahead of their own, which is
+something that you think is probably a good
+
+282
+00:27:14,179 --> 00:27:19,063
+thing to do. But again, it needs to be a balance.
+Right, you need to prioritize your own needs,
+
+283
+00:27:19,103 --> 00:27:23,926
+of course, as well as your partners. And if
+they had done that, you know, maybe Clark would
+
+284
+00:27:23,946 --> 00:27:29,270
+have been less insecure about his relationship
+with Lois and maybe wouldn't have been as susceptible
+
+285
+00:27:29,310 --> 00:27:35,466
+to brainwashing by Brainiac and stuff like that.
+Who knows? Maybe. But even Jimmy had a communication
+
+286
+00:27:35,506 --> 00:27:39,808
+problem and like they could have found out about
+Supergirl long before they actually did. Yeah,
+
+287
+00:27:39,868 --> 00:27:44,430
+for sure. Absolutely. Now one of the things
+I really like about this show is the character
+
+288
+00:27:44,470 --> 00:27:48,672
+designs. They're of course, you know, very different
+from what we see in the comics. But I do just
+
+289
+00:27:48,692 --> 00:27:55,135
+have to say that I hated the costume design
+of Superman's end of season suit with like
+
+290
+00:27:55,155 --> 00:28:00,837
+the pointy shoulders and the lack of trunks.
+It was awful. It was really bad. Yeah, the
+
+291
+00:28:00,897 --> 00:28:05,493
+belt looked stupid. At least, you know, they
+still have the same emblem, which is a solid
+
+292
+00:28:05,613 --> 00:28:10,317
+Superman emblem. One of my favorite adaptations
+of that logo of all time. But you're right,
+
+293
+00:28:10,497 --> 00:28:14,682
+pointy shoulders were doing nothing for me.
+He already has broad shoulders. Why are you
+
+294
+00:28:14,702 --> 00:28:18,565
+making him pointy? I guess it's to make it look
+more like armor. But Superman shouldn't look
+
+295
+00:28:18,585 --> 00:28:24,931
+like he's wearing armor. I don't know. I think
+an armor look is fine. Just as long as the
+
+296
+00:28:25,172 --> 00:28:29,371
+shoulders are not padded so heavily. I feel
+like they were trying to make the design look
+
+297
+00:28:29,451 --> 00:28:34,055
+more similar to the design they gave for Supergirl,
+which I actually thought was a really cool
+
+298
+00:28:34,095 --> 00:28:39,880
+design, both when it was bright blue and when
+it was black. I loved her costumes, but yeah,
+
+299
+00:28:39,900 --> 00:28:44,364
+it just didn't work. They should have kept him
+at what he was in my opinion. But moving on
+
+300
+00:28:44,404 --> 00:28:50,609
+to Lois Lane, who's voiced by Alice Lee. She
+gives the most endearing voice performance
+
+301
+00:28:50,689 --> 00:28:56,483
+of Lois Lane. to date and that's saying a lot
+because you know Dana Delaney was iconic as
+
+302
+00:28:56,563 --> 00:29:02,145
+Lois Lane in Superman the Animated Series. Alice
+Lee has all of that spunk but I feel also gives
+
+303
+00:29:02,245 --> 00:29:07,887
+a little bit more depth emotionally to the character
+as well. Now like Superman's arc alienation
+
+304
+00:29:07,907 --> 00:29:13,569
+was something Lois derived from both Superman
+and her father this season as she felt ignored
+
+305
+00:29:13,769 --> 00:29:22,135
+and abandoned by both and that isolation, inferiority,
+and inadequacy was something her father unintentionally
+
+306
+00:29:22,195 --> 00:29:27,379
+instilled in her since she was a young girl
+in an attempt to make her more capable and
+
+307
+00:29:27,479 --> 00:29:33,625
+independent. In a way, it helped her become
+the hot shot she is today, but it also resulted
+
+308
+00:29:33,685 --> 00:29:39,589
+in pent-up resentment of her father and a general
+distrust of perhaps male figures in general.
+
+309
+00:29:40,118 --> 00:29:45,420
+that distrust combined with her feelings of
+inadequacy combined with her survival instinct
+
+310
+00:29:45,720 --> 00:29:52,623
+resulted in her breaking up with Superman. Which,
+who does that? What a dumbass. Lois pissed
+
+311
+00:29:52,643 --> 00:29:57,745
+me off a lot of times this season. Like, there
+was a time where she just volunteered Clark
+
+312
+00:29:57,786 --> 00:30:03,708
+and Jimmy to house her father, knowing full
+well that he could possibly learn Clark's secret
+
+313
+00:30:03,788 --> 00:30:08,706
+identity. You know, she didn't even consult
+with them on that. She just was being a selfish
+
+314
+00:30:08,746 --> 00:30:12,287
+dickhead, just not being very considerate, you
+know? There was also the time when she like
+
+315
+00:30:12,387 --> 00:30:18,189
+heavily pushed Clark to act single in the most
+eligible bachelor thing that they had going
+
+316
+00:30:18,249 --> 00:30:23,190
+on. And then when he did, she got like super
+fucking upset and then broke up with him. Like
+
+317
+00:30:23,330 --> 00:30:28,891
+what the hell was that all about? What a dumbass.
+Yeah, that was bullshit. That was not right.
+
+318
+00:30:29,131 --> 00:30:34,093
+Regarding her father staying with Jimmy and
+Clark, I think she wanted to keep her father
+
+319
+00:30:34,133 --> 00:30:38,487
+close of course, because those are her best
+friends. and figured that if he was going to
+
+320
+00:30:38,507 --> 00:30:44,052
+be safe with anyone, it was going to be Clark.
+Now after the breakup, she of course realized
+
+321
+00:30:44,072 --> 00:30:50,017
+how foolish she was when Superman was kidnapped
+by Supergirl and she realized that her feelings
+
+322
+00:30:50,057 --> 00:30:55,101
+for him were more important than her perceived
+assumptions about his feelings toward her.
+
+323
+00:30:55,542 --> 00:31:00,946
+By the end, the love that Lois and Superman
+had for each other saved Superman by pulling
+
+324
+00:31:00,986 --> 00:31:06,691
+him out of the false reality he was in, a paradise
+of sorts. because he realized that life with
+
+325
+00:31:06,751 --> 00:31:14,199
+her was greater than a potential life on Krypton.
+And that's just relationship goals. Yeah, I
+
+326
+00:31:14,219 --> 00:31:19,164
+want to punch through a force field with my
+wife too. Looks like so much fun. Our love
+
+327
+00:31:19,184 --> 00:31:28,012
+can break through any barrier. Pow! It's sweet.
+And moving on to Jimmy Olsen, he's voiced by
+
+328
+00:31:28,132 --> 00:31:34,221
+Ishmael Saheed. Jimmy's an important character
+to the show in that he's so incredibly loyal
+
+329
+00:31:34,301 --> 00:31:39,924
+and helpful to both Lois and Clark, so much
+so that he's often a major catalyst in resolving
+
+330
+00:31:39,964 --> 00:31:46,268
+conflicts, especially this season since he started
+off as a multi-millionaire. I wish everyone
+
+331
+00:31:46,308 --> 00:31:51,331
+had a friend like Jimmy, you know, someone who's
+just ready to drop literally millions of dollars
+
+332
+00:31:51,351 --> 00:31:57,502
+to help a pal out without them even asking for
+it. I don't think I could be as good a friend
+
+333
+00:31:57,602 --> 00:32:03,344
+to anyone as Jimmy is to Lois and Clark. In
+fact, if I ever make millions of dollars, there's
+
+334
+00:32:03,364 --> 00:32:06,985
+a good chance that I'm going to be suspicious
+of anyone who still wants to be my friend.
+
+335
+00:32:08,625 --> 00:32:13,427
+I wouldn't tell anybody. Right. Exactly. Yeah.
+You ever win the Powerball? You keep that shit
+
+336
+00:32:13,447 --> 00:32:17,708
+to yourself, because if I know about it, I'm
+going to be like, bro, help a brother out.
+
+337
+00:32:19,248 --> 00:32:23,769
+It was heartbreaking to see just how fast he
+was going through his bank account. Oh, dude,
+
+338
+00:32:23,789 --> 00:32:30,624
+for real. I was like, no, you gotta invest.
+Anyway, during this season, Jimmy causes some
+
+339
+00:32:30,684 --> 00:32:36,487
+conflicts as well though, inspiring not only
+Lex Luthor's rise to power, but also failing
+
+340
+00:32:36,547 --> 00:32:43,910
+to refute Lex's ideological opposition to Superman
+as a savior of humanity. Jimmy knows Superman
+
+341
+00:32:43,990 --> 00:32:49,933
+is selfless, but convincing others is a challenge
+because it requires a considerable degree of
+
+342
+00:32:50,013 --> 00:32:55,377
+faith. Jimmy definitely had a crisis of faith
+here when he wasn't able to refute Lex Luther
+
+343
+00:32:55,577 --> 00:33:00,821
+in that symposium debate and of course that
+was compounded later on in the season when
+
+344
+00:33:00,921 --> 00:33:06,925
+Superman actually turned bad because he was
+possessed by Brainiac. But ultimately, Jimmy
+
+345
+00:33:07,025 --> 00:33:13,309
+knew that Clark was possessed and he maintained
+that Clark would overcome and help humanity
+
+346
+00:33:13,870 --> 00:33:18,933
+and he was proven right at the end. I will absolutely
+miss, you know, leader of the daily planet,
+
+347
+00:33:18,973 --> 00:33:23,800
+Jimmy. and I wonder what they're gonna do with
+the character next season. Well, I think he'll
+
+348
+00:33:23,900 --> 00:33:29,024
+continue to be a romantic interest for Supergirl,
+but yeah, he won't be as rich as he used to
+
+349
+00:33:29,044 --> 00:33:36,449
+be. Moving on to Kara Zor-El, she was voiced
+by Kiana Madeira. I thought it was interesting
+
+350
+00:33:36,469 --> 00:33:41,532
+that they made her a baby on Krypton, because
+usually in depictions of Supergirl, she was
+
+351
+00:33:41,572 --> 00:33:46,627
+at least a teenager on Krypton. and part of
+her arc has always revolved in coping with
+
+352
+00:33:46,667 --> 00:33:51,870
+the loss of her life that she had on Krypton
+and that her baby cousin was now this older
+
+353
+00:33:51,930 --> 00:33:57,533
+champion of a foreign world whose shadow she
+has to live under. By making her a baby in
+
+354
+00:33:57,573 --> 00:34:03,457
+this series, she's made much more susceptible
+to manipulation by someone like Brainiac who
+
+355
+00:34:03,497 --> 00:34:10,201
+convinces her that he's her father and raises
+her under his nationalistic ideology that Krypton
+
+356
+00:34:10,241 --> 00:34:16,760
+is superior to all and is doing other worlds
+a favor by conquering them. When Kara gets
+
+357
+00:34:16,820 --> 00:34:22,383
+Superman's beacon call, she betrays her father
+in her excitement that she would have a partner
+
+358
+00:34:22,423 --> 00:34:28,067
+to spread the Kryptonian Empire with. But when
+she deems Superman as weak, she fights and
+
+359
+00:34:28,107 --> 00:34:35,111
+kidnaps him in an effort to reprogram his supposed
+brainwashing, only to later learn that she
+
+360
+00:34:35,131 --> 00:34:41,190
+was the one actually being brainwashed and hypnotized
+by the being she considered her father. But
+
+361
+00:34:41,310 --> 00:34:47,255
+like I said earlier, Superman's grace and showing
+of kindness causes her to realize the error
+
+362
+00:34:47,335 --> 00:34:52,940
+of Brainiac's ways as she becomes Superman's
+ally and a fellow protector. You know, it was
+
+363
+00:34:52,980 --> 00:34:58,405
+nice that despite the fact that she was this
+world conquering warrior, she had this soft
+
+364
+00:34:58,425 --> 00:35:03,670
+spot that was highly sentimental down deep inside
+of her who cared about people like Jimmy Olsen
+
+365
+00:35:03,750 --> 00:35:08,334
+and, you know, she kept all these trinkets from
+the worlds that she had explored. not really
+
+366
+00:35:08,414 --> 00:35:13,738
+knowing that she had actually destroyed most
+of them. Which is wild! That's crazy. Yeah.
+
+367
+00:35:14,018 --> 00:35:18,242
+It's a great take on the character, I think.
+Absolutely. I loved it. I loved everything
+
+368
+00:35:18,282 --> 00:35:24,667
+about Supergirl in this series. Lastly, let's
+move on to Brainiac Primus, the Prime Brainiac
+
+369
+00:35:24,747 --> 00:35:30,712
+who was voiced in this series by Michael Emerson,
+who you may recognize from shows like Lost
+
+370
+00:35:30,772 --> 00:35:37,914
+or Person of Interest or Saw. I didn't like
+his voice for Brainiac. What? I loved it! It
+
+371
+00:35:37,954 --> 00:35:44,516
+was too dweeby. No, that's perfect for Brainiac,
+though. It was dweeby and sinister. It wasn't
+
+372
+00:35:44,536 --> 00:35:50,658
+that sinister, though. He was super sinister
+this season. He was like angry and evil. It
+
+373
+00:35:50,678 --> 00:35:55,620
+was perfect. It wasn't menacing at all to me.
+I don't get how that was not menacing. He sounded
+
+374
+00:35:55,640 --> 00:36:03,086
+like Mandark from Dexter's laboratory. No. That's
+exactly the take that I got from his performance.
+
+375
+00:36:03,306 --> 00:36:07,908
+And I never got over it, even in the last episode.
+I kept wishing that they had gone for a more
+
+376
+00:36:08,228 --> 00:36:13,969
+imposing voice for this destructive robot. I
+completely disagree with you. I think the voice
+
+377
+00:36:13,989 --> 00:36:19,291
+performance was fantastic. This actor has actually
+done other voice performances for DC Comics.
+
+378
+00:36:19,571 --> 00:36:25,812
+He was the Joker voice in Batman The Dark Knight
+Returns two-part animated series. I don't think
+
+379
+00:36:25,932 --> 00:36:30,718
+Brainiac should sound anything like Joker. And
+this Brainiac kinda did. Well that's interesting.
+
+380
+00:36:30,778 --> 00:36:35,542
+Should Brainiac sound like Joker? What do you
+want Brainiac to sound like? I want him to
+
+381
+00:36:35,602 --> 00:36:40,726
+sound more like how he did in Superman the animated
+series. I thought that was a great voice. I
+
+382
+00:36:40,766 --> 00:36:46,351
+liked that this one had more character. Yes,
+Brainiac should sound robotic, which he did
+
+383
+00:36:46,451 --> 00:36:52,396
+in this show, but also had real emotion, like
+anger like I mentioned. He was just dripping
+
+384
+00:36:52,416 --> 00:36:57,100
+with that. I think he comes across as scarier
+when he's void of emotion, kind of in a hell-9000
+
+385
+00:36:57,620 --> 00:37:02,484
+kind of way. No. I loved the performance here.
+You don't know what the hell you're talking
+
+386
+00:37:02,524 --> 00:37:08,229
+about. You don't know Brainiac. He's too logical
+to be that emotional. Well, no, like you can't
+
+387
+00:37:08,249 --> 00:37:13,754
+be full of malice when you're devoid of emotion.
+Sure you can look at sociopaths. Well, you're
+
+388
+00:37:13,774 --> 00:37:18,658
+not going to fucking sound like it, at least.
+OK. And that's the thing here is that this
+
+389
+00:37:18,678 --> 00:37:23,582
+version of Brainiac was full of passion. He
+was full of emotion because he was willing
+
+390
+00:37:23,622 --> 00:37:29,594
+to murder an entire planet just to survive and
+not be taken offline. when the prospect of
+
+391
+00:37:29,694 --> 00:37:36,020
+peace was being put forth by Jor-El. Like Hell
+9000, the guy just wanted to survive because
+
+392
+00:37:36,060 --> 00:37:42,545
+he considered himself to be alive as, you know,
+a robotic intelligent life form. And I think
+
+393
+00:37:42,725 --> 00:37:48,090
+that takes emotion. No, it just takes a need
+for survival. You're on the wrong side of history.
+
+394
+00:37:48,891 --> 00:37:53,574
+He acted more like Ultron in this one, like
+Ultron is often characterized as being very
+
+395
+00:37:53,615 --> 00:37:59,471
+emotional despite the fact that he is an artificial
+being. Whereas Brainiac I always pictured as
+
+396
+00:37:59,591 --> 00:38:04,434
+more, you know, logical. Like his depiction
+in Superman Red's son, I think was one of the
+
+397
+00:38:04,555 --> 00:38:08,277
+more recent depictions of him. I thought that
+was pretty good. That's fair. He probably was
+
+398
+00:38:08,317 --> 00:38:14,462
+more like Ultron than Brainiac. But again, I
+liked the adaptation for this series. What
+
+399
+00:38:14,482 --> 00:38:19,265
+did you think of the look of Brainiac? Didn't
+like it either. The weird like hammerhead shark
+
+400
+00:38:19,385 --> 00:38:23,508
+face kind of thing. It was weird. Didn't look
+like the character from the comics. You're
+
+401
+00:38:23,528 --> 00:38:30,135
+such a fucking purist. It disgusts me. You just
+want some green alien looking guy. Come on.
+
+402
+00:38:30,355 --> 00:38:35,577
+No, I just wanted something a little bit more
+recognizable, I guess. All you need is those
+
+403
+00:38:35,637 --> 00:38:40,259
+three dots. You slap that on anything. It's
+fucking brainiac. Yeah, but it's like they
+
+404
+00:38:40,279 --> 00:38:44,820
+shaped his whole head around that three dot
+motif. And I don't know, it just seems easy.
+
+405
+00:38:44,840 --> 00:38:48,221
+Good. I'm glad they did that. All right.
+
+406
+00:38:57,070 --> 00:39:02,711
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+407
+00:39:02,731 --> 00:39:08,453
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+408
+00:39:08,513 --> 00:39:13,835
+Dynomic Podcast Network presents... Console
+Combat, where video game legends brawl every
+
+409
+00:39:13,895 --> 00:39:18,857
+Monday. Dynamic Duel, where comic book titans
+smash every Tuesday. Max Destruction, where
+
+410
+00:39:18,877 --> 00:39:22,115
+the world is at its limit. The Dynomic Podcast
+Network presents... TV and action heroes battle
+
+411
+00:39:22,216 --> 00:39:28,643
+every Wednesday, and Sendro World, where anime
+champions clash every Thursday. Join us as
+
+412
+00:39:28,663 --> 00:39:33,629
+we speculate on the matches and armed with the
+power of mathematical simulations, discover
+
+413
+00:39:33,689 --> 00:39:39,977
+who will emerge victorious. Visit dynamicpodcast.com,
+where we settle the debate and settle the score.
+
+414
+00:39:44,290 --> 00:39:49,373
+Let's move on, Passybrainiac. Let's move on
+to the story highlights. Episode 1 was titled,
+
+415
+00:39:49,734 --> 00:39:55,838
+More Things in Heaven and Earth. As Clark struggles
+to plan the perfect Valentine's date with Lois,
+
+416
+00:39:56,138 --> 00:40:01,763
+the two of them head to Star Labs along with
+Jimmy to interview Hank Henshaw about a strange
+
+417
+00:40:01,863 --> 00:40:07,898
+meteoroid that disappeared over Antarctica.
+While there, Jimmy convinces Alex to carve
+
+418
+00:40:07,918 --> 00:40:12,999
+his own path after being rejected from a Star
+Labs scientist position due to his involvement
+
+419
+00:40:13,099 --> 00:40:19,601
+with Ivo and Mazotech. Realizing that the meteoroid
+is actually Clark's missing spaceship, the
+
+420
+00:40:19,641 --> 00:40:26,543
+trio use Jimmy's recent fortune to fly to Antarctica
+to locate it. After being separated by malfunctioning
+
+421
+00:40:26,563 --> 00:40:33,065
+Kryptonian technology, Clark encounters a hologram
+of his biological father Jor-El, whose translation
+
+422
+00:40:33,105 --> 00:40:38,695
+program finished learning English. Zor-El reveals
+more of Clark's origins and that he has a cousin,
+
+423
+00:40:38,915 --> 00:40:44,958
+Kara, who was also sent away from Krypton by
+her father, Zor-El. Meanwhile, Lois and Jimmy
+
+424
+00:40:44,998 --> 00:40:50,660
+discover Amanda Waller along with agents Deathstroke
+and Damage who are there to commandeer the
+
+425
+00:40:50,760 --> 00:40:57,043
+alien tech, revealing that they've also taken
+General Sam Lane prisoner. With the ship malfunctioning
+
+426
+00:40:57,143 --> 00:41:02,665
+from Kryptonite and shifting out of dimensional
+space, Superman fights Damage and Deathstroke.
+
+427
+00:41:03,038 --> 00:41:09,223
+until Jor-El uses the spaceship's power to purify
+the kryptonite and convert it into a fortress,
+
+428
+00:41:09,563 --> 00:41:14,747
+teleporting it seemingly to the other side of
+the planet at the North Pole. Before shutting
+
+429
+00:41:14,788 --> 00:41:21,713
+down, Jor-El tells Superman to find a beacon
+to locate Kara. Afterward, Lois asks Clark
+
+430
+00:41:21,733 --> 00:41:27,318
+to help her rescue her father while Task Force
+X leaves with the tech they acquired and kryptonite
+
+431
+00:41:27,358 --> 00:41:32,550
+samples. What did you think of this show's take
+on the Fortress of Solitude? It's always interesting
+
+432
+00:41:32,610 --> 00:41:38,175
+and unique how each Superman adaptation approaches
+it, right? Yeah, they kind of borrowed a little
+
+433
+00:41:38,195 --> 00:41:44,080
+bit of Man of Steel here in that it was his
+spaceship, but the look of the spaceship after
+
+434
+00:41:44,100 --> 00:41:48,203
+it was purified from the kryptonite, how it
+was like still crystalline, I thought was super
+
+435
+00:41:48,263 --> 00:41:53,548
+cool. I loved the way it levitated. I loved
+the stairs. It was one of the coolest depictions
+
+436
+00:41:53,568 --> 00:41:57,991
+of the Forges of Solitude that we've ever seen.
+Now, one of the prominent henchmen of the series
+
+437
+00:41:58,011 --> 00:42:03,434
+was Damage, who I'm not too familiar with. He
+kind of looked like the Hulk here or like a
+
+438
+00:42:03,454 --> 00:42:07,755
+version of Bane. I don't know if he was like
+all roided up with Kryptonian tech or something
+
+439
+00:42:07,775 --> 00:42:11,236
+like that. But what is his power set from the
+comics? Well, there's actually two different
+
+440
+00:42:11,276 --> 00:42:16,918
+versions of a character named damage in the
+comics. The one in this series is actually
+
+441
+00:42:16,938 --> 00:42:23,820
+based off of a more recent version of the character
+that was introduced during the early New 52
+
+442
+00:42:23,840 --> 00:42:28,441
+days. DC for a time had this thing where they
+were letting artists create characters and
+
+443
+00:42:28,461 --> 00:42:33,110
+write stories about them. Damage was one of
+those characters. I think sideways was another
+
+444
+00:42:33,491 --> 00:42:39,212
+and I forget who the others were But yeah damage
+is a lot like the Hulk interesting. Okay, he
+
+445
+00:42:39,352 --> 00:42:44,394
+and atomic skull were pretty cool in this season
+I thought yeah I mean when we watched the trailers
+
+446
+00:42:44,434 --> 00:42:50,235
+for this season you and I both thought that
+Atomic skull was an interpretation of metallo.
+
+447
+00:42:50,255 --> 00:42:54,157
+I was actually kind of disappointed that wasn't
+the case Although I should have known better
+
+448
+00:42:54,217 --> 00:42:59,695
+because yeah, the guys obviously fucking atomic
+skull Moving on to episode 2, which was titled
+
+449
+00:42:59,836 --> 00:43:04,940
+Adventures with My Girlfriend. While Waller
+interrogates General Lane, who's imprisoned
+
+450
+00:43:05,020 --> 00:43:10,705
+in the secret Task Force X headquarters beneath
+Stryker Island Prison in Metropolis, Clark
+
+451
+00:43:10,745 --> 00:43:16,570
+and Lois agree to help a boy named Billy find
+his father, who was a volunteer librarian at
+
+452
+00:43:16,610 --> 00:43:22,295
+Stryker's that went missing while investigating
+other missing persons cases. With Jimmy busy
+
+453
+00:43:22,395 --> 00:43:26,938
+wrangling fellow reporter Steve Lombard and
+the News Kid Legion, who were made a part of
+
+454
+00:43:26,978 --> 00:43:32,502
+his journalistic video crew, Clark and Lois
+infiltrate the prison themselves and stumble
+
+455
+00:43:32,602 --> 00:43:38,625
+into its secret basement. While rescuing Sam,
+they discover Billy's father and other inmates
+
+456
+00:43:38,685 --> 00:43:44,449
+that Waller had been kidnapping to use as test
+subjects for the alien tech, turning people
+
+457
+00:43:44,529 --> 00:43:51,033
+into weapons such as atomic skull, who attacks
+Superman. As Lois and her father evacuate the
+
+458
+00:43:51,093 --> 00:43:56,776
+inmates, Superman manages to overpower Atomic
+Skull while also conveniently stumbling upon
+
+459
+00:43:56,836 --> 00:44:02,199
+the beacon Jor-El asked him to find. After a
+standoff between Superman and the escaping
+
+460
+00:44:02,239 --> 00:44:07,902
+prisoners and Amanda Waller and her task force,
+Jimmy and his team rescue the escapees via
+
+461
+00:44:08,002 --> 00:44:14,086
+a chartered yacht while press helicopters prevent
+Waller from stopping or pursuing them. On the
+
+462
+00:44:14,146 --> 00:44:19,729
+yacht, General Lane agrees to stay with Clark
+and Jimmy, while Alex, now referring to himself
+
+463
+00:44:19,809 --> 00:44:26,744
+as Lex Luthor, joins Waller's team as its chief
+scientist. The idea of Waller combining humans
+
+464
+00:44:26,784 --> 00:44:31,146
+with Kryptonian tech in illegal experiments
+was pretty solid. It was like she was creating
+
+465
+00:44:31,186 --> 00:44:36,848
+a bunch of cyborgs, like the character cyborg.
+Yeah, yeah exactly. And she was creating soldiers
+
+466
+00:44:36,888 --> 00:44:41,830
+to go up against a potential alien threat should
+the Kryptonians ever decide to invade Earth.
+
+467
+00:44:41,850 --> 00:44:47,232
+I hate Amanda Waller in the show. She comes
+across as surprisingly less competent than
+
+468
+00:44:47,252 --> 00:44:54,412
+she typically does in other media, I think.
+She never accomplishes anything and her superiors
+
+469
+00:44:54,432 --> 00:44:58,755
+are always pissed off at her and she acts like
+a badass even though she really just kind of
+
+470
+00:44:58,815 --> 00:45:05,980
+sucks. I mean, she accomplished creating Atomic
+Skull and Deathstroke and all the other people
+
+471
+00:45:06,020 --> 00:45:10,603
+that she outfitted with Kryptonian tech. What
+do you mean? Like at the end she was like,
+
+472
+00:45:10,763 --> 00:45:15,106
+I'm going to save my planet and she takes the
+gun and like nothing fucking happens. She couldn't
+
+473
+00:45:15,146 --> 00:45:21,834
+even like kill the Metallo robots and then Sam
+Lane had to save her ass and She's all talk
+
+474
+00:45:21,994 --> 00:45:26,697
+in this show. I mean, I guess it didn't bother
+me that much. The only thing she was successful
+
+475
+00:45:26,797 --> 00:45:32,220
+at was declaring martial law and then totally
+botching Earth's defense. So congrats, Amanda
+
+476
+00:45:32,240 --> 00:45:37,984
+Waller. She tried, she tried. Give her some
+credit for trying. No, you're having the cojones
+
+477
+00:45:38,324 --> 00:45:43,867
+to stand and fight even with a pistol, even
+if it does nothing. At the very least, Amanda
+
+478
+00:45:43,887 --> 00:45:48,238
+Waller should have the biggest balls out of
+anyone. And I thought she did. Biggest balls,
+
+479
+00:45:48,278 --> 00:45:54,362
+biggest mouth. All right. Anyway, moving on
+to episode three, Full Metal Scientist. While
+
+480
+00:45:54,422 --> 00:45:59,906
+rescuing Amertec scientist Silas Stone from
+a burning building, Clark unlocks another new
+
+481
+00:45:59,966 --> 00:46:07,031
+power, a super aura tactile force field. After
+Clark leaves, however, the villain Livewire
+
+482
+00:46:07,071 --> 00:46:11,994
+threatened Silas into remotely deleting all
+records of a project he was working on. The
+
+483
+00:46:12,014 --> 00:46:17,634
+next day, as Clark struggles to prevent General
+Lane from learning he's Superman, Lois, Jimmy,
+
+484
+00:46:17,834 --> 00:46:23,297
+and Gotham Gazette Lead Reporter Vicki Vale
+separately uncover a mystery surrounding missing
+
+485
+00:46:23,337 --> 00:46:30,141
+scientists Silas and John Henry Irons, Amartex
+CEO Thomas Weston, and his line of defense
+
+486
+00:46:30,161 --> 00:46:36,164
+robots codenamed Metallos. As Lois and Vicki
+compete to out-scoop each other, Superman and
+
+487
+00:46:36,204 --> 00:46:42,388
+Jimmy manage to locate Irons, who reveals Weston
+forced him and Silas to rush production on
+
+488
+00:46:42,408 --> 00:46:49,292
+the Metallos and create an unstable Amr Fusion
+energy reactor to power Amr Tech's Metropolis
+
+489
+00:46:49,333 --> 00:46:57,038
+facility before firing them. When Livewire attacks
+Irons, he and Superman join forces to stop
+
+490
+00:46:57,098 --> 00:47:04,003
+Weston before his reactor destroys Metropolis,
+with Irons using his steel mech suit to fend
+
+491
+00:47:04,143 --> 00:47:09,667
+off the metallos. After their team up proves
+successful, Weston is arrested.
+
+492
+00:47:12,954 --> 00:47:20,138
+and Luther's new company LexCorp buys out Amertec,
+confiscating the Steel suit and metallos for
+
+493
+00:47:20,198 --> 00:47:27,021
+Task Force X. I wasn't expecting to see Steel
+this season, but I thought he was pretty damn
+
+494
+00:47:27,041 --> 00:47:31,244
+awesome. Yeah, the suit was pretty different,
+but pretty hardcore from what we're used to
+
+495
+00:47:31,284 --> 00:47:36,166
+seeing from Steel. I do wish they would have
+given him a helmet, but I'm not complaining
+
+496
+00:47:36,186 --> 00:47:40,589
+about how cool the mech suit was. Well, I think
+this is just like his first iteration, his
+
+497
+00:47:40,629 --> 00:47:45,560
+Mark I as it were. I think if we see him in
+the next season, maybe he'll have a helmet,
+
+498
+00:47:45,600 --> 00:47:50,544
+maybe he'll have the S insignia on his chest.
+I think it would look badass. I like the idea
+
+499
+00:47:50,604 --> 00:47:56,589
+of Steel being a mech as opposed to the more
+standard Iron Man type suit. Yeah, I also like
+
+500
+00:47:56,629 --> 00:48:01,573
+that a lot. One interesting thing about this
+episode is not only did you introduce Steel,
+
+501
+00:48:01,613 --> 00:48:05,677
+but you also introduced something that could
+potentially set up Reign of the Superman for
+
+502
+00:48:05,777 --> 00:48:12,318
+next season in that Superman got his tactile
+telekinesis of sorts in his force field. which
+
+503
+00:48:12,478 --> 00:48:17,499
+is this thing they introduced in the comics
+during the Dan Jurgens era post-crisis in that
+
+504
+00:48:17,559 --> 00:48:22,961
+Superman has like a very small force field which
+he could also project around things to lift
+
+505
+00:48:23,001 --> 00:48:27,643
+them. It's one of the sources of his strength
+and durability. It's kind of been retconned
+
+506
+00:48:27,723 --> 00:48:34,285
+out of existence, but that was the rationalization
+for Superboy's powers in that when he was cloned,
+
+507
+00:48:34,594 --> 00:48:39,917
+from Superman, he developed that tactile telekinesis,
+though his cloning process was stopped before
+
+508
+00:48:39,957 --> 00:48:45,041
+he developed more of Superman's powers. So introducing
+that in this episode, I think is kind of a
+
+509
+00:48:45,121 --> 00:48:50,464
+setup for Superboy potentially in the next season.
+Well, the way that Superman used it in this
+
+510
+00:48:50,584 --> 00:48:56,148
+episode was a lot like how Superboy uses it
+in the comics. I don't like Superman having
+
+511
+00:48:56,328 --> 00:49:01,412
+this level of tactile telekinesis to the point
+where he can stop a bomb just by simply touching
+
+512
+00:49:01,492 --> 00:49:07,467
+it and, you know, encasing it in this energy
+Yeah, to me that's much more of a superboy
+
+513
+00:49:07,507 --> 00:49:12,469
+thing than a superman thing, absolutely. But
+again, I think they did that intentionally,
+
+514
+00:49:12,609 --> 00:49:18,892
+just to set up. Moving on to episode 4, which
+was titled Two Lanes Diverged. In flashbacks,
+
+515
+00:49:19,253 --> 00:49:24,375
+Lois is trained in the woods as a young girl
+by her father in survival techniques, though
+
+516
+00:49:24,395 --> 00:49:30,578
+the two graduelly become estranged due to his
+military work. In the present, The paranoid
+
+517
+00:49:30,658 --> 00:49:36,179
+General Lane fears that Waller has found him
+and leaves for a safe house to prepare, with
+
+518
+00:49:36,239 --> 00:49:42,121
+Lois following him, only to end up in the middle
+of Task Force X's agents and their attacks
+
+519
+00:49:42,181 --> 00:49:47,743
+against her father. Meanwhile, Jimmy learns
+he has been invited to serve as a keynote speaker
+
+520
+00:49:47,863 --> 00:49:54,285
+at a Star Labs symposium on aliens and he invites
+Clark. While Jimmy debates against Lex Luthor
+
+521
+00:49:54,445 --> 00:50:00,607
+on stage regarding Superman's trustworthiness,
+Task Force X's attack on Lois and her father
+
+522
+00:50:00,827 --> 00:50:07,751
+spills into the symposium, resulting in a destructive
+battle with Superman. As Task Force X retreats,
+
+523
+00:50:08,072 --> 00:50:13,895
+Lex uses the aftermath to turn the attendees
+against Superman. Later that night, while Clark
+
+524
+00:50:14,055 --> 00:50:20,319
+uses the beacon to send a message to Kara, General
+Lane disappears, Luther and Waller gain support
+
+525
+00:50:20,339 --> 00:50:26,502
+from Star Labs and the Pentagon, and a Kryptonian
+warrior approaches Earth. Now, the timing of
+
+526
+00:50:26,622 --> 00:50:32,004
+this episode was a little weird, I thought,
+because we never see Superman leave the keynote
+
+527
+00:50:32,084 --> 00:50:37,947
+speech to go help the others. Like, I'm really
+surprised that Lex and Jimmy and the audience
+
+528
+00:50:38,067 --> 00:50:43,809
+don't even realize that a battle is going on
+outside until they see the aftermath. Right.
+
+529
+00:50:43,849 --> 00:50:48,451
+Well, it was strange that Sam and Lois escaped
+the safe house, which I guess happened to be
+
+530
+00:50:48,491 --> 00:50:51,833
+across the street from the conference center
+where the keynote speech was given. It was
+
+531
+00:50:51,873 --> 00:50:56,223
+just like coincidental in that regard. Yeah,
+I didn't love this episode, to be honest. It
+
+532
+00:50:56,263 --> 00:51:01,385
+was probably my least favorite, although it
+did give really good backstory as to why Lois
+
+533
+00:51:01,425 --> 00:51:07,768
+Lane's relationship with her father was so contentious.
+Moving on to episode 5, titled Most Eligible
+
+534
+00:51:07,848 --> 00:51:13,790
+Superman. Daily Planet editor Perry White assigns
+Lois and Clark to interview Superman upon learning
+
+535
+00:51:13,831 --> 00:51:19,893
+he was named a finalist in Metropolis's Most
+Eligible Singles contest. Ignoring Perry's
+
+536
+00:51:19,993 --> 00:51:25,864
+orders, Gossip columnist Kat Grant forces Lois
+into letting her join her so she can uncover
+
+537
+00:51:25,924 --> 00:51:31,486
+Superman's secret identity. During the contest,
+Superman's fellow finalist Silver St. Cloud
+
+538
+00:51:31,786 --> 00:51:37,388
+develops an obvious interest in him, causing
+Lois to doubt her relationship with Clark.
+
+539
+00:51:37,849 --> 00:51:42,771
+Meanwhile, as Jimmy struggles to determine how
+to apologize to Clark after his poor debate
+
+540
+00:51:42,811 --> 00:51:48,753
+performance at the symposium, he encounters
+Kara Zor-El, who has come to Metropolis to
+
+541
+00:51:48,793 --> 00:51:54,025
+search for her cousin. After Jimmy offers to
+help her, they bond over touring Metropolis
+
+542
+00:51:54,065 --> 00:51:59,930
+before eventually heading to the contest, where
+Jimmy learns that Kara was searching for Superman,
+
+543
+00:52:00,270 --> 00:52:06,015
+who was named the winner. Seeing Lois leave
+angrily, Superman tries to reconcile with her,
+
+544
+00:52:06,335 --> 00:52:11,700
+but she reveals her stress over her father's
+disappearance, Vicky's job offer, and their
+
+545
+00:52:11,760 --> 00:52:18,445
+frank relationship. Kara, humiliated by Superman's
+adoration from the public, attacks Superman.
+
+546
+00:52:18,850 --> 00:52:24,254
+deeming him weak and believing he's unfit to
+join the Kryptonian Empire. Despite Superman
+
+547
+00:52:24,374 --> 00:52:30,860
+unlocking the power of Ice Breath in their ensuing
+fight, Kara defeats and captures him on Brainiac's
+
+548
+00:52:30,960 --> 00:52:36,364
+orders. I'm pretty sure Superman had the power
+of Ice Breath prior to this. He used Freeze
+
+549
+00:52:36,384 --> 00:52:41,468
+Breath in season 1. It just manifested much
+more powerfully here, like an ice laser from
+
+550
+00:52:41,509 --> 00:52:46,413
+his mouth. There was an ice cannon, that's when
+he developed his heat vision. Oh, that's right,
+
+551
+00:52:46,433 --> 00:52:50,099
+that's what I'm thinking of then. Yeah, but
+yeah, it was like a laser. I actually was very
+
+552
+00:52:50,119 --> 00:52:54,321
+surprised. I thought for a while he had like
+Godzilla's atomic breath or something like
+
+553
+00:52:54,361 --> 00:52:59,623
+that. I was like, what is this? They're just
+making up powers for Superman now. But you
+
+554
+00:52:59,643 --> 00:53:04,285
+know, once the cold started to form on his face,
+I was like, OK, I got you. I loved how Kara
+
+555
+00:53:04,305 --> 00:53:08,727
+confused Jimmy for being the leader of the planet
+because he kept telling everyone how he was
+
+556
+00:53:08,767 --> 00:53:15,066
+a leader at the daily planet. Episode six was
+titled The Machine Who Would Be Empire. Superman
+
+557
+00:53:15,086 --> 00:53:20,228
+attempts to escape Kara's spaceship until he
+misunderstands that Kara is taking him to see
+
+558
+00:53:20,268 --> 00:53:25,670
+his Uncle Jor-El instead of Brainiac. Using
+a thought projector device, Kara explains that
+
+559
+00:53:25,690 --> 00:53:31,873
+before Krypton fell, it was the most advanced
+society in the galaxy, and invited less fortunate
+
+560
+00:53:31,893 --> 00:53:36,755
+planets to share in their utopia. While debating
+back and forth whether they should conquer
+
+561
+00:53:36,876 --> 00:53:42,850
+Earth, Clark stumbles upon Kara's secret collection
+of alien memorabilia. and he asks her to show
+
+562
+00:53:42,890 --> 00:53:48,191
+her a planet the Kryptonian Empire conquered.
+She takes him to Thanagar, but they find it
+
+563
+00:53:48,231 --> 00:53:54,053
+in ruins, briefly causing Kara to question Brainiac's
+intentions before his robots bring her and
+
+564
+00:53:54,113 --> 00:54:00,495
+Superman to a space-based satellite headquarters,
+Kandor. Sending Kara away, Brainiac reveals
+
+565
+00:54:00,555 --> 00:54:06,236
+he is a warmonger willing to kill those who
+refuse Kryptonian rule before detaining Superman
+
+566
+00:54:06,377 --> 00:54:13,099
+and brainwashing Kara for disobeying him. However...
+Kara's mara-abilia helps her remember her doubt
+
+567
+00:54:13,159 --> 00:54:18,781
+towards Brainiac and the destruction the Kryptonian
+Empire left behind. While trying to determine
+
+568
+00:54:18,861 --> 00:54:25,624
+what to do next, she encounters a spaceship
+piloted by Jimmy Lois, a gorilla named Mala,
+
+569
+00:54:26,004 --> 00:54:30,386
+and his robot lover, the Brain. Do you think
+this episode means that we'll never get to
+
+570
+00:54:30,426 --> 00:54:36,609
+see a cameo from Hawkman or Hawk Girl? Uh, I
+don't think so. I think the potential is there
+
+571
+00:54:36,949 --> 00:54:41,772
+for survivors. I mean, that's also saying like
+maybe we'll never see Green Lantern just because
+
+572
+00:54:41,792 --> 00:54:45,575
+he showed up here. I don't think it was the
+specific heroes that we're familiar with. I
+
+573
+00:54:45,595 --> 00:54:50,538
+think there are other champions from those worlds.
+That said, it was cool to see a Thanagarin
+
+574
+00:54:50,598 --> 00:54:56,602
+Hawk Girl character and a Green Lantern. The
+show doesn't have enough greater DC Universe
+
+575
+00:54:56,682 --> 00:55:00,745
+tie-ins. These little like mini cameos, if you
+could even call them cameos here and there.
+
+576
+00:55:01,174 --> 00:55:05,236
+just aren't sufficient. I think it would be
+really cool to see the greater Justice League
+
+577
+00:55:05,296 --> 00:55:10,919
+actually have a presence within the universe
+that this show sets up for Superman. I would
+
+578
+00:55:11,079 --> 00:55:15,722
+love to see that. Like I would love to see this
+show's versions of Wonder Woman and Batman.
+
+579
+00:55:16,022 --> 00:55:21,105
+That'd be really cool. I mean we got Vicky Vail.
+We saw Silver St. Cloud in the last episode.
+
+580
+00:55:21,710 --> 00:55:27,333
+And there are a lot of allusions to Gotham City.
+And at the end of this season, I actually thought
+
+581
+00:55:27,353 --> 00:55:32,676
+that Lois Lane should have taken Vicky up on
+her offer to work under her for at least a
+
+582
+00:55:32,756 --> 00:55:36,899
+time at the Gotham Gazette. Clark was like,
+it only takes me five minutes to fly there.
+
+583
+00:55:37,299 --> 00:55:41,562
+If you're willing to go, I'd be fine with it.
+And then Lois was like, no, I'm going to stay
+
+584
+00:55:41,582 --> 00:55:45,384
+at the planet. I'm like, you idiot. That was
+the perfect potential for a crossover. I know
+
+585
+00:55:45,424 --> 00:55:50,102
+I'm skipping ahead to the last episode there.
+But the Thanagar situation kind of makes me
+
+586
+00:55:50,142 --> 00:55:54,644
+think of the greater DC universe. And the great
+thing about her taking the job at the Gotham
+
+587
+00:55:54,684 --> 00:55:59,525
+Gazette is that could have all happened off
+screen. Like by the time we return for season
+
+588
+00:55:59,545 --> 00:56:04,327
+three, she's like, oh, I'm back from my brief
+stint at the Gotham Gazette. She could have
+
+589
+00:56:04,387 --> 00:56:08,748
+established relationships there that would carry
+over, including maybe something with Bruce
+
+590
+00:56:08,768 --> 00:56:13,089
+Wayne. I think that'd be really cool. It would
+introduce some interesting conflict to the
+
+591
+00:56:13,109 --> 00:56:17,932
+relationship between Clark and Lois if you were
+to introduce another potential love interest
+
+592
+00:56:18,312 --> 00:56:24,276
+like Rooswain. That'd be awesome. Moving on
+to episode 7 which was titled Olsen's 11 which
+
+593
+00:56:24,296 --> 00:56:29,779
+takes place concurrently with the previous episode
+in which Waller announces the formation of
+
+594
+00:56:29,799 --> 00:56:34,803
+the Human Defense Corps and places Metropolis
+under martial law in response to the battle
+
+595
+00:56:34,843 --> 00:56:40,298
+between Superman and Cara and in preparation
+for an impending alien invasion. Jimmy and
+
+596
+00:56:40,358 --> 00:56:45,223
+Lois meanwhile plan to break into Star Labs
+and steal an experimental spaceship so they
+
+597
+00:56:45,263 --> 00:56:50,729
+can find Superman by hiring the professional
+thief Livewire to help them, and recruiting
+
+598
+00:56:50,849 --> 00:56:56,395
+Malaw and The Brain, who were capable of creating
+black hole portals. After secretly debating
+
+599
+00:56:56,455 --> 00:57:01,760
+whether they should use Kryptonite on Kara,
+Jimmy and Lois and their crew discover heightened
+
+600
+00:57:01,800 --> 00:57:07,778
+security at Star Labs. due to Waller and Deathstroke's
+presence, as they're overseeing Lex's upgrades
+
+601
+00:57:07,838 --> 00:57:13,223
+of the Metello robots with Kryptonite power
+cores. Waller discovers the intruder's presence
+
+602
+00:57:13,303 --> 00:57:19,248
+and sends Deathstroke to capture Lois and Jimmy's
+group. While evading Task Force X and Deathstroke,
+
+603
+00:57:19,569 --> 00:57:25,354
+Livewire seemingly abandons Lois and Jimmy,
+while Malaw and The Brain successfully prep
+
+604
+00:57:25,394 --> 00:57:31,399
+the ship for launch and reconfigure it to generate
+portals. After Lex's Metello robots nearly
+
+605
+00:57:31,459 --> 00:57:37,384
+prevent the ship from launching, Livewire returns
+with her intergang allies, now outfitted with
+
+606
+00:57:37,504 --> 00:57:42,388
+alien tech that they stole from Waller while
+she was distracted, and intergang manages to
+
+607
+00:57:42,449 --> 00:57:47,793
+fend off the Metellos and ensure the group's
+escape in the spaceship. As Waller deems Lex's
+
+608
+00:57:47,853 --> 00:57:53,398
+work successful and allocates more resources
+for him, Malaw and the Brain generate a portal
+
+609
+00:57:53,438 --> 00:57:58,834
+to send them, Lois and Jimmy, deep into space
+where they encounter Kara. I have to say I'm
+
+610
+00:57:58,874 --> 00:58:05,619
+not a big fan of Livewire and Intergang, that
+whole crew, becoming good guys, or at least
+
+611
+00:58:05,700 --> 00:58:10,964
+helping the good guys. Yeah, that felt really
+out of character. Maybe not later on in the
+
+612
+00:58:11,004 --> 00:58:16,769
+season when they're like helping defend Earth
+itself, but I guess in helping Lois and Jimmy
+
+613
+00:58:16,789 --> 00:58:22,753
+they were able to steal a lot of shit from Task
+Force X. But even then I'm still not 100% sure
+
+614
+00:58:22,994 --> 00:58:28,614
+why that tech and even Lex Luthor's Metello
+robots were at Star Labs. Like they didn't
+
+615
+00:58:28,834 --> 00:58:35,357
+own it. Granted everything was under martial
+law, but I didn't understand why that put Waller
+
+616
+00:58:35,397 --> 00:58:41,420
+in control of Star Labs. Yeah, I have no idea.
+Episode 8 was titled The Death of Clark Kent.
+
+617
+00:58:41,680 --> 00:58:47,542
+Brainiac uses a psychic device known as a Black
+Mercy to invade and manipulate Superman's memories,
+
+618
+00:58:47,923 --> 00:58:55,754
+intending to transfer his AI mind into Superman's
+body before Kandor falls apart. Superman fails
+
+619
+00:58:55,774 --> 00:59:01,695
+to stop Brainiac from learning of Lois and Jimmy,
+and Brainiac uses his connection to them against
+
+620
+00:59:01,755 --> 00:59:07,217
+Superman, eventually trapping his mind in a
+simulation where he's with his biological family
+
+621
+00:59:07,337 --> 00:59:13,619
+on a restored Krypton. Meanwhile, Kara, Jimmy,
+and Lois devise a plan to save Superman, while
+
+622
+00:59:13,659 --> 00:59:19,020
+Malah and the Brain stay behind to repair the
+spaceship. Jimmy and Lois infiltrate Kandor
+
+623
+00:59:19,100 --> 00:59:24,101
+while Kara attempts to reason with Brainiac.
+Frustrated with her perceived rebelliousness,
+
+624
+00:59:24,514 --> 00:59:30,058
+Brainiac confirms that he brainwashed her to
+serve his interests, and though Kara damages
+
+625
+00:59:30,118 --> 00:59:36,384
+Brainiac's robotic body in response, Brainiac
+successfully possesses Superman's body in time.
+
+626
+00:59:36,744 --> 00:59:41,788
+Jimmy tries to use the kryptonite on Brainiac,
+but he is ejected along with Lois and Kara
+
+627
+00:59:41,848 --> 00:59:47,693
+into space before Brainiac teleports Kandor
+away. After Malah and the Brain rescue the
+
+628
+00:59:47,733 --> 00:59:53,901
+trio, Lois reveals she stole the Black Mercy
+and uses it on herself in an attempt to save
+
+629
+00:59:53,941 --> 00:59:59,844
+Superman. Again, I didn't love this interpretation
+of the Black Mercy. Not everything has to be
+
+630
+00:59:59,884 --> 01:00:05,387
+Kryptonian tech. I don't understand why they
+couldn't go a more traditional route of making
+
+631
+01:00:05,507 --> 01:00:12,111
+the Black Mercy a plant. I mean, why not? Kryptonians
+don't use plants. Come on. What? Yeah, I can't
+
+632
+01:00:12,131 --> 01:00:17,646
+think of a single one. I have no argument. Moving
+on to episode 9, which was titled... Here's
+
+633
+01:00:17,686 --> 01:00:22,628
+the Heavens Superman, which is a horrible title.
+Actually, all of the titles in this season
+
+634
+01:00:22,748 --> 01:00:27,610
+I didn't love. They don't always make sense.
+Well, I'm not usually aware of them. I just
+
+635
+01:00:27,690 --> 01:00:33,093
+click next episode. So a lot of them I'm hearing
+for the first time as you say them, and I agree,
+
+636
+01:00:33,533 --> 01:00:38,676
+they're not all winners. In this episode, Kara,
+Jimmy, and the Komatos Lois return to Earth,
+
+637
+01:00:38,836 --> 01:00:43,374
+which they find under the control of Amanda
+Waller, who kidnaps them. They're rescued by
+
+638
+01:00:43,414 --> 01:00:48,996
+the Daily Planet staff, however, before Super
+Brainiac launches his invasion of Earth. Kara
+
+639
+01:00:49,036 --> 01:00:54,959
+tries to stop him, but he overpowers her and
+Task Force X, while Lois mentally continues
+
+640
+01:00:54,999 --> 01:01:00,962
+to attempt to reach Clark within the Black Mercy's
+virtual reality, while avoiding simulations
+
+641
+01:01:01,002 --> 01:01:07,044
+of Jor-El and his wife Lara, who continually
+attempt to delete Lois due to the Black Mercy
+
+642
+01:01:07,084 --> 01:01:13,348
+being unable to support multiple minds at once.
+After repeated resets of the simulation due
+
+643
+01:01:13,388 --> 01:01:19,273
+to Lois's interference, she graduelly succeeds
+in getting through to Clark, and the two join
+
+644
+01:01:19,313 --> 01:01:26,039
+forces to destroy the simulation, forcing Brainiac
+out of Superman's body. Brainiac retaliates
+
+645
+01:01:26,099 --> 01:01:32,344
+by hacking the Metellos to defeat Kara and a
+restored Superman while attempting to use Kandor
+
+646
+01:01:32,384 --> 01:01:38,881
+to destroy Metropolis. This episode had a neat
+little Groundhog Day element to it, where every
+
+647
+01:01:38,921 --> 01:01:45,285
+time Lois Lane would get deleted, she'd be reset
+within the simulation and she kept reliving
+
+648
+01:01:45,305 --> 01:01:49,328
+the same experience trying to convince Clark
+to come out of the mind control. And I thought
+
+649
+01:01:49,368 --> 01:01:53,691
+it was used to great effect when he eventually
+did. They remembered each other, they remembered
+
+650
+01:01:53,731 --> 01:01:58,935
+their love, and used that as a means of escape.
+Yeah, that was cool. I also thought it was
+
+651
+01:01:58,975 --> 01:02:04,894
+cool that Lois had superpowers in this virtual
+reality. There's been instances in the comics
+
+652
+01:02:04,934 --> 01:02:09,755
+where she's had superpowers, and I felt like
+this was sort of like an homage to that. It
+
+653
+01:02:09,775 --> 01:02:14,677
+was cool seeing the two fight side by side in
+cooperation with each other. Yeah, it was a
+
+654
+01:02:14,857 --> 01:02:19,478
+great moment, I thought, for sure. I don't know
+if the justification of Superman saying, I
+
+655
+01:02:19,538 --> 01:02:25,660
+see you as so much more than human was sound,
+but the end result was fun to watch, I guess.
+
+656
+01:02:26,100 --> 01:02:31,254
+Moving on to the final episode, which was titled
+My Adventures with Supergirl. as the Human
+
+657
+01:02:31,274 --> 01:02:36,498
+Defense Corps fails to protect Metropolis while
+it reunites with General Lane, who recruited
+
+658
+01:02:36,758 --> 01:02:42,442
+Irons along with Livewire and her intergang
+allies to help Superman. With the group's aid,
+
+659
+01:02:42,762 --> 01:02:48,486
+Superman and Kara overcome the Metallos Kryptonite
+attacks and reach Kandor, where they confront
+
+660
+01:02:48,586 --> 01:02:53,690
+Brainiac, who reveals he destroyed Krypton in
+the face of peace talks led by Jor-El that
+
+661
+01:02:53,710 --> 01:02:59,482
+would have led to his shutdown. As Brainiac
+attempts to brainwash Kara once more, Superman,
+
+662
+01:02:59,542 --> 01:03:05,707
+Lois, and Jimmy help her break Brainiac's control
+over her. As she and Superman push Kandor away
+
+663
+01:03:05,747 --> 01:03:11,051
+from the Earth toward the Sun, they use the
+Sun's energy to strengthen themselves and destroy
+
+664
+01:03:11,092 --> 01:03:17,577
+Kandor before Kara destroys Brainiac's body,
+though she salvages his core. Big mistake!
+
+665
+01:03:18,197 --> 01:03:23,902
+Afterward, Clark, Lois, and Jimmy bring Kara
+to Smallville to recover and meet Jonathan
+
+666
+01:03:23,942 --> 01:03:30,075
+and Martha Kent, Clark's adoptive parents. Over
+the next week, Malah and the Brain rebuild
+
+667
+01:03:30,155 --> 01:03:36,901
+Cadmus Labs with Kara and Jimmy's help. Vicky
+dubs Kara a Supergirl. Waller becomes a fugitive.
+
+668
+01:03:37,301 --> 01:03:43,306
+Luther establishes Lex Corps' headquarters and
+hires Wilson. Lois turns down Vicky's offer.
+
+669
+01:03:43,766 --> 01:03:49,651
+And Kara joins Clark, Lois, and Jimmy in protecting
+Metropolis. Now I thought one of the coolest
+
+670
+01:03:49,751 --> 01:03:55,596
+scenes out of the entire series, both seasons
+1 and 2, happened when Superman and Kara were
+
+671
+01:03:55,636 --> 01:04:00,544
+near the sun. Yeah, that was pretty cool. Yeah,
+of course, Kryptonians get their powers from
+
+672
+01:04:00,604 --> 01:04:05,988
+the sun, and it hasn't really been clear that
+that's been the case in this series, but it
+
+673
+01:04:06,008 --> 01:04:12,253
+looks like it is. And I just love the way that
+they depicted their super-sane energy modes,
+
+674
+01:04:12,333 --> 01:04:17,477
+as it were. Yeah, the parts that were infected
+by the kryptonite were then glowing with sun
+
+675
+01:04:17,497 --> 01:04:23,342
+radiation as opposed to kryptonite radiation.
+I was wondering at first why Brainiac was insusceptible
+
+676
+01:04:23,362 --> 01:04:28,498
+to kryptonite poisoning himself considering
+he is kryptonite technology. and we saw people
+
+677
+01:04:28,518 --> 01:04:34,263
+like Livewire and Heatwave be susceptible to
+kryptonite poisoning as well. But then I remembered
+
+678
+01:04:34,283 --> 01:04:39,848
+the throwaway line where Brainiac activated
+his kryptonite shielding, which somehow made
+
+679
+01:04:39,888 --> 01:04:44,932
+him invulnerable to that. It was probably just
+lead, you know? Right, yeah. His lead body
+
+680
+01:04:45,012 --> 01:04:50,477
+form. That could be perfect rationale. I did
+feel like they ran out of time on this episode.
+
+681
+01:04:50,777 --> 01:04:55,121
+The way they recapped everything towards the
+end with like the voiceover. You just had to
+
+682
+01:04:55,181 --> 01:05:00,537
+kind of infer... everything that was going on
+screen as Lois and Clark were talking. Well,
+
+683
+01:05:00,577 --> 01:05:05,461
+it was over the end credits. Right. Exactly.
+I feel like they could have added like another
+
+684
+01:05:05,841 --> 01:05:10,725
+15 minutes to this episode. Just in the wrap
+up, the episodes were pretty short. Like each
+
+685
+01:05:10,805 --> 01:05:16,630
+one was only a little bit over 20 minutes. So
+all in all, with 10 episodes, you're looking
+
+686
+01:05:16,750 --> 01:05:21,634
+at 200 minutes of screen time. And that's essentially,
+you know, just like the length of a feature
+
+687
+01:05:21,654 --> 01:05:26,638
+film with a decent runtime. Yeah. Feature film
+like Return of the King, maybe. Zack Sanders
+
+688
+01:05:26,698 --> 01:05:31,782
+Justice League. Hell yeah. That's what I'm talking
+about. More minute for the dollar. That brings
+
+689
+01:05:31,842 --> 01:05:36,385
+us to the end of season two. I really enjoyed
+watching it. It went by pretty quick, I thought.
+
+690
+01:05:36,725 --> 01:05:40,628
+I got to watch it with my girls, which was a
+lot of fun. I don't know if that added to my
+
+691
+01:05:40,668 --> 01:05:46,152
+enjoyment of it, but it probably did. Again,
+it wasn't a perfect season, but I think it's
+
+692
+01:05:46,212 --> 01:05:52,176
+definitely in keeping with how good season one
+was in that I would definitely recommend it
+
+693
+01:05:52,216 --> 01:05:59,068
+to basically anyone. It's an endearing and romantic
+continuation of the shounen anime adaptation
+
+694
+01:05:59,549 --> 01:06:05,652
+of Superman's Mythos, showcasing strong character
+relationships and themes, and I'm giving it
+
+695
+01:06:05,872 --> 01:06:12,736
+4 out of 5 stars, a fresh rating on Rotten Tomatoes.
+I would agree with that rating. Yeah, it's
+
+696
+01:06:12,876 --> 01:06:17,683
+one half-star less than what we gave season
+one. But there was a lot to enjoy this season
+
+697
+01:06:17,723 --> 01:06:23,088
+despite its few shortcomings. I think the absolute
+best thing that season two did was introduce
+
+698
+01:06:23,128 --> 01:06:27,652
+the character of Supergirl in the manner that
+they did. I thought it was a great adaptation
+
+699
+01:06:27,912 --> 01:06:32,756
+and I'm really excited to see where they take
+the character in season three. Yeah, I cannot
+
+700
+01:06:32,836 --> 01:06:38,781
+wait for season three. Again, it has been greenlit.
+We will be getting it next summer. So something
+
+701
+01:06:38,801 --> 01:06:45,922
+to look forward to. But that does it for this
+review. AJ9K help close us out. Thanks for
+
+702
+01:06:45,962 --> 01:06:51,243
+listening to Dynamic duel. Visit the show's
+website at dynamicduel.com and follow us on
+
+703
+01:06:51,303 --> 01:06:57,785
+Instagram at dynamicduelpodcast. You can support
+the show on Patreon at patreon.com slash dynamicduel
+
+704
+01:06:57,905 --> 01:07:02,126
+and joining a tier that works for you, or by
+rating and reviewing Dynamic duel on Apple
+
+705
+01:07:02,146 --> 01:07:07,768
+Podcasts, Spotify, Podchaser or on our website.
+Don't forget to listen to the other shows in
+
+706
+01:07:07,788 --> 01:07:13,309
+the DynaMic Podcast Network, including Max
+Destruction, Senjou World and Console Combat.
+
+707
+01:07:14,974 --> 01:07:19,735
+In our next episode, we are going to do another
+review. Just all these shows are just coming
+
+708
+01:07:19,796 --> 01:07:25,978
+out at exactly the same time. Marvel has released
+season two of Hit Monkey. Now, if you haven't
+
+709
+01:07:26,018 --> 01:07:31,200
+seen Hit Monkey, you fucked up. You got to see
+season one of Hit Monkey because it's fantastic.
+
+710
+01:07:31,820 --> 01:07:37,703
+And he's one of Marvel's more interesting characters,
+I think. So look forward to our review of Hit
+
+711
+01:07:37,743 --> 01:07:42,085
+Monkey season two coming out next week. I'm
+looking forward to watching it. I can't wait.
+
+712
+01:07:42,145 --> 01:07:47,022
+I loved season one. So this is. gonna be good
+I hope. I imagine it will be. That's a wrap
+
+713
+01:07:47,042 --> 01:07:51,343
+for this episode. We want to give a big thanks
+to our executive producers Ken Johnson, John
+
+714
+01:07:51,383 --> 01:07:56,365
+Strosky, Zachary Hepburn, Dustin Balcom, Miggy
+Mathengian, Brandon Essergard, Nathaniel Wagner,
+
+715
+01:07:56,525 --> 01:08:02,507
+Levi Yeaton, Austin Wazilowski, AJ Dunkerley,
+Scott Camacho, Gil Camacho, Adam Spies, Andrew
+
+716
+01:08:02,547 --> 01:08:09,008
+Schunk, Dean Molesky, Devin Davis, Joseph Kirsting,
+and Josh Leiner for helping make this podcast
+
+717
+01:08:09,028 --> 01:08:13,994
+possible. And we'll talk to you guys next week.
+Up, up, and away, true believers. I'm more
+
+718
+01:08:14,014 --> 01:08:18,719
+than a bird, I'm more than a plane, I'm more
+than some pretty face beside a train, and it's
+
+719
+01:08:18,759 --> 01:08:20,500
+not easy to be me.
+
