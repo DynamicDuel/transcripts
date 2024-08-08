@@ -1,0 +1,2335 @@
+1
+00:00:03,283 --> 00:00:03,344
+you
+
+2
+00:00:23,534 --> 00:00:28,277
+Dynamic Duel Podcast, a weekly show where we
+review superhero films and debate the superiority
+
+3
+00:00:28,317 --> 00:00:33,462
+between Marvel and DC by comparing their characters
+in stat-based battle simulations. I'm Johnny
+
+4
+00:00:33,502 --> 00:00:40,087
+DC. And I'm his twin brother, Marvelous Joe.
+And welcome to the 2021 holiday animal battle,
+
+5
+00:00:40,388 --> 00:00:45,792
+that sounds weird, charity episode. Yeah, every
+year around Giving Tuesday, which is today,
+
+6
+00:00:46,092 --> 00:00:52,177
+Jonathan and I like to host a charity duel between
+two of the more whimsical Marvel and DC characters.
+
+7
+00:00:52,626 --> 00:00:57,448
+This episode, we're going to find out who would
+win in a fight between Gleek and Hitmonkey.
+
+8
+00:00:57,768 --> 00:01:01,831
+They're both monkey characters for their respective
+universes, and we think it'll be pretty funny
+
+9
+00:01:01,851 --> 00:01:06,113
+considering, you know, monkeys are just hilarious.
+Yeah, especially little tiny monkeys like these
+
+10
+00:01:06,153 --> 00:01:12,677
+guys. You know what's not hilarious though?
+COVID-19. Which I have right now recovering
+
+11
+00:01:12,717 --> 00:01:18,900
+from. So if it sounds like I'm out of breath,
+it's because I am. And if it sounds echoey,
+
+12
+00:01:18,940 --> 00:01:24,335
+it's because I'm in my quarantine space recording.
+So apologies for the audio this time. Yeah,
+
+13
+00:01:24,715 --> 00:01:29,039
+I mean, I told Jonathan that we could skip this
+week, but he was willing to push forward and
+
+14
+00:01:29,099 --> 00:01:34,182
+keep our record of never missing an episode
+of this podcast going on six years now. Yeah,
+
+15
+00:01:34,242 --> 00:01:39,626
+I mean, I don't feel terrible. I do encourage
+anyone who can get vaccinated to get vaccinated.
+
+16
+00:01:39,686 --> 00:01:43,269
+I think that's really helped me. So yeah, I
+didn't want to miss this episode, especially
+
+17
+00:01:43,329 --> 00:01:46,632
+this one, because this one's gonna be fun. Yeah,
+I can't wait to get into it before we go into
+
+18
+00:01:46,652 --> 00:01:51,070
+the histories and backstories of Gleek and Hitmonkey.
+we're gonna go over the comic book movie news
+
+19
+00:01:51,090 --> 00:01:55,692
+from the past week, of which there was just
+one news item, and that's the DC League of
+
+20
+00:01:55,772 --> 00:02:00,094
+Super Pets official trailer. So we'll talk about
+that, then get into the duel. As always, we
+
+21
+00:02:00,134 --> 00:02:04,096
+list our segment times and our episode description,
+so feel free to check out the show notes if
+
+22
+00:02:04,116 --> 00:02:08,117
+you wanna skip ahead to a particular topic.
+And guys, if you listened to one of our charity
+
+23
+00:02:08,157 --> 00:02:12,359
+duel episodes before, you know that every year
+we give to a different organization. For the
+
+24
+00:02:12,419 --> 00:02:16,521
+past couple of years, we've given to Pop Culture
+Classroom, but this year, in light of COVID,
+
+25
+00:02:16,541 --> 00:02:21,148
+we're switching it up a bit. What we're going
+to do is raise money for the HealthWell Foundation,
+
+26
+00:02:21,308 --> 00:02:26,953
+which is a leading nonprofit dedicated to improving
+access to care for America's underinsured.
+
+27
+00:02:27,033 --> 00:02:30,817
+If you're listening to us from outside of the
+US, you probably don't get this, but we have
+
+28
+00:02:30,837 --> 00:02:35,641
+a shitty healthcare system and some people can't
+afford to pay for the healthcare services they
+
+29
+00:02:35,681 --> 00:02:40,124
+receive, especially during these trying times.
+So with this organization, when health insurance
+
+30
+00:02:40,164 --> 00:02:45,489
+is not enough, they fill the gap by assisting
+with copays, premiums, deductibles, and out-of-pocket
+
+31
+00:02:45,529 --> 00:02:50,303
+expenses. through their crowd-sourced disease-related
+funds. What this podcast is gonna do is set
+
+32
+00:02:50,343 --> 00:02:54,844
+up a Facebook fundraiser. So if you guys aren't
+following us on Facebook, go ahead and search
+
+33
+00:02:54,884 --> 00:02:59,425
+for Dynamic Duel DC versus Marvel, and you can
+find the fundraiser there. Go ahead and donate
+
+34
+00:02:59,605 --> 00:03:04,927
+any amount between today, giving Tuesday, and
+Christmas Day. And at the end of December,
+
+35
+00:03:04,987 --> 00:03:11,489
+Jonathan and I will pick two random donors to
+award a free Dynamic Duel card game to. Jonathan
+
+36
+00:03:11,529 --> 00:03:15,871
+and I have made a couple of card games. that
+are Marvel and DC based, and we wanna give
+
+37
+00:03:15,891 --> 00:03:20,795
+it to two of you donors. So if you feel so inclined
+to this Giving Tuesday, again, visit this podcast's
+
+38
+00:03:20,875 --> 00:03:27,080
+Facebook page and donate to the HealthWell Foundation
+using that pinned post. And because we want
+
+39
+00:03:27,100 --> 00:03:32,444
+you guys so badly to donate to this organization,
+we are currently making all of our archived
+
+40
+00:03:32,504 --> 00:03:37,627
+episodes available to the listening public.
+Instead of subscribing to our show, we want
+
+41
+00:03:37,647 --> 00:03:42,346
+you guys to instead put that money toward our
+fundraiser. And it doesn't matter what amount
+
+42
+00:03:42,366 --> 00:03:47,147
+you donate, anything helps. But during this
+giving season, we appreciate any amount of
+
+43
+00:03:47,187 --> 00:03:51,688
+giving. So those of you who are currently subscribed
+to this show on Spotify, I don't believe you'll
+
+44
+00:03:51,728 --> 00:03:56,010
+get charged for the month of December. And those
+who are currently subscribed to us on Patreon,
+
+45
+00:03:56,370 --> 00:04:01,051
+you'll still get access to all of your standard
+bonus perks, including the bonus episodes,
+
+46
+00:04:01,371 --> 00:04:05,692
+access to our Discord server, blooper reels,
+and more. I just wanna give a quick special
+
+47
+00:04:05,712 --> 00:04:11,026
+shout out to one of our patrons, Dustin Balcom,
+when he found out that I had COVID. His family
+
+48
+00:04:11,106 --> 00:04:16,909
+sent my family a couple of pizzas, which was
+just awesome. My family and I are super grateful
+
+49
+00:04:17,029 --> 00:04:20,711
+for the act of generosity. We really appreciate
+it, and I just wanted to give you a shout out
+
+50
+00:04:20,731 --> 00:04:27,675
+and say thank you very much. But with that out
+of the way, quick to the No Prize. A No Prize
+
+51
+00:04:27,695 --> 00:04:32,297
+is an award Marvel used to give out up until
+the 90s to fans. Our version, the dynamic dual
+
+52
+00:04:32,337 --> 00:04:37,380
+No Prize, is a digital award we post on social
+media that Jonathan personally draws for those
+
+53
+00:04:37,400 --> 00:04:42,074
+who we feel gave the best answer to our question
+of the week. Last week's question was in regards
+
+54
+00:04:42,134 --> 00:04:47,475
+to the Spider-Man No Way Home trailer that we
+got a few weeks ago. We asked you guys who
+
+55
+00:04:47,495 --> 00:04:52,837
+has been your favorite live action Spider-Man
+villain and why. We got a few great answers
+
+56
+00:04:52,877 --> 00:04:56,958
+for this. Let's go ahead and run down our honorable
+mentions as well as the no prize winner. Our
+
+57
+00:04:57,058 --> 00:05:03,640
+first honorable mention goes to Jacob Bell who
+said, Hey guys, this is Jacob Bell. My favorite
+
+58
+00:05:03,880 --> 00:05:09,514
+live action Spider-Man villain has got to be
+the vulture. I think Michael Keaton. plays
+
+59
+00:05:09,614 --> 00:05:15,357
+a great villain and I honestly think that the
+Vulture and his motivations are probably the
+
+60
+00:05:15,417 --> 00:05:21,421
+best just because, I mean, you can really almost
+get on board with what he's doing and also
+
+61
+00:05:21,461 --> 00:05:27,865
+the twist with him being Liz's dad was just
+incredible and so I love Michael Keaton as
+
+62
+00:05:27,905 --> 00:05:31,708
+the Vulture, that's my favorite. And yeah, I
+would have to agree. I'd say the Vulture is
+
+63
+00:05:31,788 --> 00:05:36,823
+probably one of the MCU's like top three villains.
+Yeah, while most Spider-Man villains are seeking
+
+64
+00:05:36,903 --> 00:05:41,386
+power, the vulture in Spider-Man Homecoming
+was really motivated by survival and providing
+
+65
+00:05:41,406 --> 00:05:45,809
+for his family. Of course, it got a little bit
+out of hand and he needed to be stopped, but
+
+66
+00:05:45,829 --> 00:05:50,672
+it was really easy to identify with the character.
+And Michael Keaton just gave great performance.
+
+67
+00:05:51,173 --> 00:05:55,896
+Yeah, the way they adapted his costume from
+the comics too, like, mwah, chef's kiss, so
+
+68
+00:05:55,916 --> 00:06:00,079
+well done. Oh yeah, movie version of the vulture
+was a huge improvement over the comic book
+
+69
+00:06:00,099 --> 00:06:04,722
+version. Although we'll be getting to a vulture
+duel before long on this podcast. Our next
+
+70
+00:06:04,762 --> 00:06:12,805
+honorable mention goes to Benjamin Alves, who
+said, Hi guys, I think Alfred Molina as Doc
+
+71
+00:06:12,905 --> 00:06:20,328
+Ock was the best Spider-Man villain. He's such
+a great actor. I love all his movies. And I
+
+72
+00:06:20,428 --> 00:06:26,851
+love the part where he was with Otme on the
+building. So menacing. It was awesome. I think,
+
+73
+00:06:27,531 --> 00:06:35,230
+and it's just, there's no other word to describe
+it. Bye. Great answer, Benjamin. Yeah, Doctor
+
+74
+00:06:35,290 --> 00:06:39,771
+Octopus is definitely one of Spider-Man's best
+villains to ever appear in live action. We
+
+75
+00:06:39,811 --> 00:06:44,132
+all know that Spider-Man 2 is one of the best
+Spider-Man movies ever made, mainly because
+
+76
+00:06:44,352 --> 00:06:49,194
+of how great Doc Ock was in that film. Alfred
+Molina just knocked it out of the park. He
+
+77
+00:06:49,294 --> 00:06:53,275
+also created a Spider-Man villain that we could
+sympathize with. And there's no discounting
+
+78
+00:06:53,335 --> 00:06:57,516
+the design of those tentacles, right? Those
+were badass looking. Oh, man. Yeah, those were
+
+79
+00:06:57,596 --> 00:07:02,557
+really well designed. It's no surprise that
+Doctor Octopus is many people's favorite Spider-Man
+
+80
+00:07:02,577 --> 00:07:06,756
+villain. Yeah, and one of the reasons why he's
+playing such a big role in Spider-Man No Way
+
+81
+00:07:06,796 --> 00:07:12,820
+Home allegedly. Our final honorable mention
+goes to Marquis High, who said, Hello gentlemen,
+
+82
+00:07:13,240 --> 00:07:20,225
+so Marquis High here. Just give me a call. I'd
+say for the villain, must off-top go with Michael
+
+83
+00:07:20,265 --> 00:07:25,269
+Keaton. Always just a great actor, even if he
+doesn't really know too much about the characters
+
+84
+00:07:25,289 --> 00:07:31,533
+that he's acting. But besides that, I definitely
+would have to go with Doc Ock. He's always
+
+85
+00:07:32,293 --> 00:07:38,264
+just... had more of a human aspect, very relatable.
+And the fact that he turns into a potential
+
+86
+00:07:38,324 --> 00:07:44,527
+hero is something big. Marquis has a great radio
+voice, doesn't he? Yeah, he does. Yeah, but
+
+87
+00:07:44,567 --> 00:07:48,049
+great answer. This is kind of a combination
+of the previous two where he mentioned both
+
+88
+00:07:48,169 --> 00:07:53,792
+Vulture and Doctor Octopus. I think those two
+guys are widely regarded among the Spider-Man
+
+89
+00:07:53,812 --> 00:07:58,814
+fan community as the best villains to appear
+in these movies. Hopefully. We get to see them
+
+90
+00:07:58,874 --> 00:08:04,416
+team up in the upcoming Spider-Man No Way Home
+movie, but we don't know yet what kind of role
+
+91
+00:08:04,476 --> 00:08:08,798
+Vulture will play in that film. We want to give
+a quick shout out to Evan Tompke for visiting
+
+92
+00:08:08,838 --> 00:08:15,121
+our website to record an answer, but the winner
+of this week's No Prize is Miggy Mathengian
+
+93
+00:08:15,301 --> 00:08:19,723
+who said, Hey guys, this is Miggy and my favorite
+live action Spider-Man villain is Green Goblin.
+
+94
+00:08:20,203 --> 00:08:23,745
+In my opinion, it's best when the villain makes
+it personal. And he definitely did that when
+
+95
+00:08:23,785 --> 00:08:28,642
+he attacked his aunt and girlfriend. He also
+endangered a lot of innocent lives, like when
+
+96
+00:08:28,662 --> 00:08:32,643
+he attacked the Macy's Day Parade and dropped
+those kids off the Washington Bridge and attacked
+
+97
+00:08:32,663 --> 00:08:38,325
+the Daily Bugle. And he continued to ruin Peter's
+life by deteriorating his relationship with
+
+98
+00:08:38,365 --> 00:08:43,506
+Harry even after his death. More so than any
+other Spider-Man villain, I would say that
+
+99
+00:08:43,566 --> 00:08:48,528
+Green Goblin has a knack for making it personal,
+not just in the movies, but also the comics.
+
+100
+00:08:49,088 --> 00:08:53,889
+Oh yeah, he makes Peter Parker's life a living
+hell. I really like the way they exemplified
+
+101
+00:08:53,929 --> 00:08:59,576
+that in these movies. Like Miggy said, even
+affecting Peter Parker after his death. When
+
+102
+00:08:59,596 --> 00:09:05,139
+you have a villain that not only attacks the
+hero's grandma, but also drops a bunch of kids
+
+103
+00:09:05,219 --> 00:09:09,202
+in a cable car off a bridge, you know you're
+dealing with some hardcore shit. Yeah, he's
+
+104
+00:09:09,222 --> 00:09:16,006
+like borderline Joker, right? Yeah, if like
+the Joker were way better and on Marvel. Just
+
+105
+00:09:16,046 --> 00:09:20,448
+like that, for sure. He's a villain that's so
+good they included him twice in both Spider-Man
+
+106
+00:09:20,689 --> 00:09:25,827
+and The Amazing Spider-Man 2. But I'm really
+looking forward to Willem Dafoe's return as
+
+107
+00:09:25,867 --> 00:09:30,189
+the character in the upcoming No Way Home film.
+So congrats again to Mickey, Matt, and Keon
+
+108
+00:09:30,209 --> 00:09:33,950
+for winning this week's No Prize. If you, the
+listener, want a shot at winning your own No
+
+109
+00:09:33,990 --> 00:09:38,552
+Prize, stay tuned to later on this episode when
+we'll be asking another Question of the Week.
+
+110
+00:09:39,052 --> 00:09:41,273
+And now that that's done, onto the news!
+
+111
+00:09:47,022 --> 00:09:51,743
+Okay, so last week we got our first official
+trailer of the DC League of Super Pets film.
+
+112
+00:09:52,363 --> 00:09:57,745
+And I gotta say it's different from what I thought
+it was going to be. I was hoping it was going
+
+113
+00:09:57,765 --> 00:10:03,446
+to be based on the children's book series DC
+Super Pets that is pretty faithful to the comic
+
+114
+00:10:03,466 --> 00:10:08,968
+books. This movie however is not. Yeah, it seems
+like it's not about a super team of pets of
+
+115
+00:10:09,008 --> 00:10:13,769
+the main DC superheroes. It looks like it's
+a film about these shelter animals that happen
+
+116
+00:10:13,809 --> 00:10:18,583
+to get powers. So it seems like this isn't like
+Ace the Bat Hound or the terrific What's It,
+
+117
+00:10:18,944 --> 00:10:23,646
+they're entirely original characters. Well,
+I mean, Kevin Hart's character is named Ace
+
+118
+00:10:23,706 --> 00:10:28,289
+in the movie, who's not supposed to have any
+powers, looks like he has invulnerability.
+
+119
+00:10:28,789 --> 00:10:33,511
+They have Chip the Squirrel, but he doesn't
+have Green Lantern powers, he has electricity
+
+120
+00:10:33,551 --> 00:10:38,294
+powers apparently. The Turtle is the only one
+that makes sense, because the Turtle's apparently
+
+121
+00:10:38,374 --> 00:10:42,896
+named Merton, you know, Merton McSnurdle, the
+Turtle. You know, we talked about him in our
+
+122
+00:10:42,957 --> 00:10:47,632
+What's It versus Spider-Man episode, Still one
+of my favorite episodes. I love that guy. But
+
+123
+00:10:47,672 --> 00:10:53,996
+in the movie he's called Shell on Wheels. Yeah,
+I guess the pig whose name is PB for pot belly.
+
+124
+00:10:54,317 --> 00:10:58,460
+It doesn't even look like it's Wonder Woman's
+pet. Just gives the characters like random
+
+125
+00:10:58,500 --> 00:11:03,304
+names. I don't think those will stick. Do you
+think by the end of this movie each of these
+
+126
+00:11:03,324 --> 00:11:07,767
+shelter pets will be adopted by the Justice
+League? I hope so, honestly. You know, I think
+
+127
+00:11:07,807 --> 00:11:12,042
+the turtle should be adopted by the Flash. You
+know, the pig by Wonder Woman. Chip becomes
+
+128
+00:11:12,142 --> 00:11:17,544
+a Green Lantern. And we get to see Wonder Woman,
+Green Lantern, Cyborg, Batman in this trailer,
+
+129
+00:11:17,564 --> 00:11:21,726
+which was a huge surprise. They have different
+costumes. Not really in love with the designs
+
+130
+00:11:21,746 --> 00:11:26,228
+here, but that's fine. I imagine we won't be
+seeing too much of them. I like the designs
+
+131
+00:11:26,248 --> 00:11:30,930
+of the DC characters. You know, they're very
+like Incredibles-esque. It was cool to hear
+
+132
+00:11:30,990 --> 00:11:35,412
+John Krasinski as Superman. Yeah, I think he
+sounds pretty good as the character. What did
+
+133
+00:11:35,432 --> 00:11:40,314
+you think of the rocks depiction of Krypto?
+It was fine, it was fine. As was Kevin Hart
+
+134
+00:11:40,354 --> 00:11:46,239
+as Ace and Vanessa Bayer as PB. Diego Luna,
+I guess, does the voice for Chip, which this
+
+135
+00:11:46,279 --> 00:11:51,263
+trailer revealed. Mark Maron, apparently, is
+the voice of Lex Luthor in this film. Oh, interesting.
+
+136
+00:11:51,463 --> 00:11:56,067
+Yeah. The same guy that was in the Joker movie
+and who also like was dissing comic book films?
+
+137
+00:11:56,468 --> 00:12:02,352
+Yes. Okay. He just likes DC. What can I say?
+But there's a few more cast members that we
+
+138
+00:12:02,372 --> 00:12:06,896
+still don't know what role they're going to
+play, like Kate McKinnon, Keanu Reeves, Ben
+
+139
+00:12:06,936 --> 00:12:11,291
+Schwartz and Jamila Jamil. Maybe there's gonna
+be like other members of the Justice League
+
+140
+00:12:11,311 --> 00:12:16,194
+we don't know yet. Maybe one of them is gonna
+be the cat, Streaky, who has a very different
+
+141
+00:12:16,234 --> 00:12:22,737
+superpower in this movie. That was weird. Yeah,
+the tail like shoots out rockets and flames
+
+142
+00:12:22,777 --> 00:12:27,560
+and stuff. I was like, what? It can't be Streaky.
+I'm not sure I'm loving like the random power
+
+143
+00:12:27,600 --> 00:12:31,882
+assignment that a lot of these guys have. Me
+neither. But you know, it's a movie for kids.
+
+144
+00:12:32,022 --> 00:12:36,685
+It's supposed to be as whimsical as possible.
+I think that also explains the jokes, which
+
+145
+00:12:36,825 --> 00:12:41,007
+I'm also not in love with. A lot of them didn't
+really land for me. I think felt like the timing
+
+146
+00:12:41,047 --> 00:12:46,251
+was off. Like when Crypto was talking to that
+other dog about like the federation of exes,
+
+147
+00:12:46,571 --> 00:12:52,815
+the dog was like, why it's taking my owner so
+long? I was like, okay. Yeah, that was horrible
+
+148
+00:12:52,835 --> 00:12:57,478
+delivery. Yeah. It was a little bit too slow.
+Also the joke about like, they should call
+
+149
+00:12:57,498 --> 00:13:04,042
+me Iron Man. Nah. Dude, what is up with DC animation's
+obsession with Iron Man? Like you get the Iron
+
+150
+00:13:04,062 --> 00:13:09,163
+Man reference in this movie and in Lego Batman
+you had the reference with Batman's Batcave
+
+151
+00:13:09,203 --> 00:13:15,205
+password. Iron Man sucks, what can I say? They're
+just jealous as hell. They're just jealous.
+
+152
+00:13:15,225 --> 00:13:19,886
+There was also another Marvel reference in this
+when Krypto was basically saying with great
+
+153
+00:13:19,906 --> 00:13:25,148
+power comes great responsibility. Wait, what?
+He says when one has an abundance of power,
+
+154
+00:13:25,428 --> 00:13:30,869
+they have a certain duty to use that power.
+Exactly. Same thing. Sure. Yeah. I don't know.
+
+155
+00:13:32,574 --> 00:13:36,538
+I can't quite say I'm looking forward to this
+movie just yet. Well, I'm guessing this is
+
+156
+00:13:36,558 --> 00:13:40,261
+going to be an origin story where we see these
+characters evolve into the team you know and
+
+157
+00:13:40,301 --> 00:13:44,826
+love, just maybe with different powers. Maybe.
+Maybe I need another trailer or two, which
+
+158
+00:13:44,866 --> 00:13:49,591
+we'll probably get. The movie doesn't come out
+until May of next year, so we have some time.
+
+159
+00:13:50,031 --> 00:13:51,713
+But this all brings us to our question of the
+week.
+
+160
+00:13:56,302 --> 00:14:01,904
+Who is your favorite DC or Marvel animal hero
+and why? There's a lot of them to choose from,
+
+161
+00:14:02,064 --> 00:14:06,966
+both on DC and Marvel, but let us know which
+one you like the most. Yeah, record your answer
+
+162
+00:14:07,006 --> 00:14:11,808
+at dynamicduel.com by clicking on the red microphone
+button in the bottom right hand corner, which
+
+163
+00:14:11,828 --> 00:14:16,010
+will prompt you to leave us a voicemail. Your
+message could be up to 30 seconds long, and
+
+164
+00:14:16,070 --> 00:14:20,432
+don't forget to leave your name in case we include
+you on the podcast. We'll pick our favorite
+
+165
+00:14:20,512 --> 00:14:25,574
+answer and draw that person a dynamic duel no
+prize that we'll post to social media. Be sure
+
+166
+00:14:25,594 --> 00:14:30,096
+to answer before December 4th. But I think that
+does it for all the news for this episode,
+
+167
+00:14:30,136 --> 00:14:36,578
+so let's go ahead and hear from our sponsor,
+HBO Max. Bruce Wayne may appear to be a wealthy
+
+168
+00:14:36,598 --> 00:14:42,581
+playboy, but beneath his facade his true identity
+is that of the Batman, waging an endless war
+
+169
+00:14:42,681 --> 00:14:48,743
+against crime. Join the Caped Crusader in Batman,
+the Audio Adventures, the first scripted audio
+
+170
+00:14:48,803 --> 00:14:54,082
+original featuring Batman and his villainous
+rogues gallery in a world premiere story. of
+
+171
+00:14:54,182 --> 00:15:01,726
+life and death in Gotham City, debuting exclusively
+on HBO Max. Starring Jeffrey Wright as Batman
+
+172
+00:15:01,806 --> 00:15:06,268
+and a who's who of Incredible Saturday Night
+Live alums, this rollicking adventure, told
+
+173
+00:15:06,308 --> 00:15:12,692
+across 10 episodes, is written and directed
+by Emmy winner Denis McNicholas, includes devilishly
+
+174
+00:15:12,712 --> 00:15:18,915
+delightful original music by Doug Bossie, and
+performances by Rosario Dawson, John Leguizamo,
+
+175
+00:15:19,135 --> 00:15:25,663
+Chris Parnell, Melissa Villaseñor, Seth Meyers,
+Jason Sudeikis, Brooke Shields, Fred Armisen,
+
+176
+00:15:26,023 --> 00:15:32,227
+and many, many more. Go to hbomax.com slash
+Batman Audio Adventures for more and stream
+
+177
+00:15:32,287 --> 00:15:40,218
+Batman the Audio Adventures only on HBO Max.
+Thanks to HBO Max for sponsoring this episode.
+
+178
+00:15:40,378 --> 00:15:43,806
+But now let's get into the main event of this
+episode where we find out who would win in
+
+179
+00:15:43,846 --> 00:15:49,137
+a fight between the Wonder Twins' pet monkey,
+Gleek, and Deadpool's rival, Pit Monkey.
+
+180
+00:16:04,446 --> 00:16:10,010
+Okay, Gleek versus Hitmonkey. This matchup was
+actually a fairly last minute decision. You
+
+181
+00:16:10,030 --> 00:16:16,235
+could tell because this year we didn't commission
+an artist to do artwork for this episode because
+
+182
+00:16:16,275 --> 00:16:21,840
+it was so last minute. Yeah, but we were inspired
+by one of our patrons on our Discord who asked
+
+183
+00:16:21,900 --> 00:16:27,145
+us who would be good in a matchup against Hitmonkey
+since that character now has his own television
+
+184
+00:16:27,165 --> 00:16:31,388
+show currently on Hulu, which is actually pretty
+good. I've been watching it. Yeah, they both
+
+185
+00:16:31,408 --> 00:16:34,615
+have their own cartoons. It's pretty awesome.
+And Jonathan and I have been trying to get
+
+186
+00:16:34,695 --> 00:16:38,518
+Gleek in a matchup for the longest time. We
+thought he might be good in a fight against
+
+187
+00:16:38,658 --> 00:16:43,242
+Spider Ham, but eventually we went with the
+terrific What's It for that matchup. I think
+
+188
+00:16:43,262 --> 00:16:48,547
+when you have an alien monkey who can stretch
+his tail infinitely long against a monkey who's
+
+189
+00:16:48,587 --> 00:16:52,750
+really good with guns, you have a pretty solid
+matchup there, right? Yeah. I have no idea
+
+190
+00:16:52,770 --> 00:16:56,513
+who's going to come out on top. I just know
+it's going to be fun. Again, this is our charity
+
+191
+00:16:56,553 --> 00:17:01,698
+matchup as we do every year. So if you feel
+inclined to give this holiday season, Again,
+
+192
+00:17:01,718 --> 00:17:06,380
+visit us on Facebook and donate to the HealthWell
+Foundation, which is a nonprofit dedicated
+
+193
+00:17:06,400 --> 00:17:10,483
+to helping America pay their health bills. So
+let's get into it. If you've never listened
+
+194
+00:17:10,503 --> 00:17:14,725
+to one of our dual episodes before, the way
+we determine a winner between these two characters
+
+195
+00:17:15,045 --> 00:17:21,168
+is by running 1000 Monte Carlo simulations using
+their statistics. Now a Monte Carlo simulation
+
+196
+00:17:21,489 --> 00:17:27,292
+is a probabilistic model used to determine outcomes
+through random sampling. In our case, it randomizes
+
+197
+00:17:27,332 --> 00:17:31,950
+statistics along a normal distribution, which
+is a bell curve. as a way to simulate the many
+
+198
+00:17:31,990 --> 00:17:36,671
+variables that can occur during battle. The
+stat parameters we use are based on the official
+
+199
+00:17:36,691 --> 00:17:41,853
+Marvel power grid, and we use that criteria
+to extrapolate the DC character's stats. We've
+
+200
+00:17:41,873 --> 00:17:47,334
+included some additional stat categories of
+our own, such as range, damage potential, versatility,
+
+201
+00:17:47,394 --> 00:17:53,516
+and perception, in order to create a more complete
+and robust simulation. Running these 1000 simulations
+
+202
+00:17:53,576 --> 00:17:58,537
+gives us a percentage of wins for each character,
+and we declare the one with the higher percentage
+
+203
+00:17:58,597 --> 00:18:03,143
+to be the ultimate victor. considering that
+they're more likely to win any given battle.
+
+204
+00:18:03,623 --> 00:18:08,745
+No character ever wins 100% of the time. Comics
+have shown that there's always a way for Batman
+
+205
+00:18:08,765 --> 00:18:13,267
+to defeat Superman. We feel our method falls
+in line with the precedents that have been
+
+206
+00:18:13,307 --> 00:18:18,389
+established in the comic book stories. And we
+use this method because it was the least subjective,
+
+207
+00:18:18,489 --> 00:18:23,311
+most unbiased way to determine who would win.
+Of course, we are both heavily biased toward
+
+208
+00:18:23,331 --> 00:18:27,893
+our respective allegiances, so instead of debating
+these matches forever, we just let the math
+
+209
+00:18:27,933 --> 00:18:33,773
+decide for us. So there's no fan votes here
+and no relying on just feats. Before we run
+
+210
+00:18:33,813 --> 00:18:38,516
+these simulations though, we like to break down
+each character's histories and abilities before
+
+211
+00:18:38,616 --> 00:18:43,860
+improvising a scenario on how we imagine one
+of the 1,000 simulations we run would play
+
+212
+00:18:43,920 --> 00:18:48,763
+out beat for beat. And I think it's my turn
+to go first with the Marvel character, so let
+
+213
+00:18:48,783 --> 00:18:54,167
+me go ahead and tell you all about the comic
+book backstory of Hitmonkey. So much is steeped
+
+214
+00:18:54,227 --> 00:18:59,786
+in legend surrounding the origins of the assassin
+known as Hitmonkey. The tale regarding this
+
+215
+00:18:59,846 --> 00:19:05,329
+mysterious killer of killers is said to begin
+in the snowy mountains of Japan, where an unnamed
+
+216
+00:19:05,369 --> 00:19:11,593
+assassin fled after being double-crossed in
+a failed political coup. In the freezing wilderness,
+
+217
+00:19:11,793 --> 00:19:17,557
+the lost and injured man was discovered by a
+group of Japanese macaques. The primates took
+
+218
+00:19:17,597 --> 00:19:22,139
+the assassin to their hot springs and nursed
+him back to health with their herbal remedies.
+
+219
+00:19:22,679 --> 00:19:27,550
+Though the macaques were willing to accept the
+man into their monkey clan, One skeptical monkey
+
+220
+00:19:27,610 --> 00:19:33,151
+didn't trust the outsider and watched him closely.
+This monkey observed as the assassin healed
+
+221
+00:19:33,191 --> 00:19:38,073
+from his wounds and prepared for revenge against
+those who betrayed him by honing his skills
+
+222
+00:19:38,193 --> 00:19:43,014
+in the snowy mountains. The monkey watched and
+learned as the man demonstrated his various
+
+223
+00:19:43,114 --> 00:19:48,656
+lethal maneuvers in hand-to-hand and weapons
+combat. And he watched how easy killing was
+
+224
+00:19:48,736 --> 00:19:54,297
+for the outsider. The monkey tried to warn his
+clan that harboring the assassin was only going
+
+225
+00:19:54,317 --> 00:19:58,748
+to bring more violence their way. When the clan
+rejected this notion, the monkey accidentally
+
+226
+00:19:58,968 --> 00:20:03,271
+injured one of his fellow primates during his
+effort to convince them of the oncoming danger.
+
+227
+00:20:03,772 --> 00:20:08,816
+This monkey was cast out of his clan and into
+the wilderness on his own. Several days into
+
+228
+00:20:08,876 --> 00:20:13,720
+his exile, he noticed a group of soldiers headed
+up the mountains toward his former home, and
+
+229
+00:20:13,740 --> 00:20:19,064
+he rushed back to the hot springs to warn his
+fellow primates. The monkey was too late, however,
+
+230
+00:20:19,304 --> 00:20:24,148
+as he arrived only in time to witness the soldiers
+gun down the assassin and all of his macaque
+
+231
+00:20:24,168 --> 00:20:29,956
+family. The Monkey picked up the weapons of
+the Assassin and used the skills he learned
+
+232
+00:20:30,016 --> 00:20:35,399
+from observing him to shoot and kill the soldiers
+there that murdered his clan. At that moment,
+
+233
+00:20:35,679 --> 00:20:41,222
+he became Hitmonkey. The spirit of the Outsider
+Assassin appeared before Hitmonkey and told
+
+234
+00:20:41,262 --> 00:20:46,225
+him how the soldiers were sent by a politician
+named Hideki Hayashi, who in turn worked for
+
+235
+00:20:46,365 --> 00:20:51,508
+General Kato. The spirit told Hitmonkey that
+by killing these men, he would achieve vengeance
+
+236
+00:20:51,548 --> 00:20:56,546
+not only for his dead Monkey brethren, but also
+for the Assassin himself. Hitmonkey traveled
+
+237
+00:20:56,586 --> 00:21:01,729
+to Tokyo and, under the assassin's guidance,
+stole a truck and crashed it into Hayashi's
+
+238
+00:21:01,769 --> 00:21:06,772
+limo. Barely clinging to life, the politician
+was sent to the hospital where he was smothered
+
+239
+00:21:06,852 --> 00:21:12,515
+by the assassin Bullseye, who was hired by General
+Kato to cover his tracks. The following day,
+
+240
+00:21:12,635 --> 00:21:17,697
+Hitmonkey snuck into General Kato's daughter's
+wedding and stole the suit from the child ring
+
+241
+00:21:17,737 --> 00:21:22,800
+bearer, pretending to be part of the ceremony
+to get in close. He managed to decapitate General
+
+242
+00:21:22,820 --> 00:21:28,000
+Kato despite Bullseye's efforts to stop causing
+Bullseye to kill the rest of Kato's men to
+
+243
+00:21:28,060 --> 00:21:34,085
+avoid the humiliation of being bested by a primate.
+Bullseye found and hurled a knife at Hitmonkey,
+
+244
+00:21:34,365 --> 00:21:38,709
+though the blade was intercepted by the ring
+bearer child, who annoyingly stepped in the
+
+245
+00:21:38,749 --> 00:21:44,474
+way. From then on, Hitmonkey, having achieved
+his own vengeance, vowed to seek revenge for
+
+246
+00:21:44,494 --> 00:21:49,938
+those innocents whose blood had been spilled,
+and he became a killer of killers. He fell
+
+247
+00:21:49,978 --> 00:21:55,500
+into urban legend, believed only by the very
+few who had ever seen him in action, and disregarded
+
+248
+00:21:55,560 --> 00:22:01,843
+as a joke by everyone else. Spider-Man was one
+such non-believer who refused to buy Deadpool's
+
+249
+00:22:01,863 --> 00:22:06,845
+story about the legendary hit monkey who was
+targeting him. Spider-Man then witnessed the
+
+250
+00:22:06,925 --> 00:22:12,108
+merciless primate bust in, and like a furry
+blur, filled Deadpool full of lead. What? To
+
+251
+00:22:12,148 --> 00:22:17,170
+get back at the monkey, Deadpool stole Spider-Man's
+spare costume, and pretended that Spider-Man
+
+252
+00:22:17,190 --> 00:22:22,614
+was a victim of collateral damage from Hitmonkey's
+attack. A funeral was held for the wall-crawler,
+
+253
+00:22:22,914 --> 00:22:28,758
+which Hitmonkey attended out of remorse, believing
+he had accidentally killed Spidey. As the primate
+
+254
+00:22:28,798 --> 00:22:33,781
+approached the casket to pay his respects, Deadpool
+burst out and tried to gun down the monkey,
+
+255
+00:22:34,241 --> 00:22:39,264
+but Spider-Man swung in and stopped their fight,
+leading to Hitmonkey's escape and to the long-lasting
+
+256
+00:22:39,324 --> 00:22:44,504
+rivalry between the two murderers. Eventually,
+however, Deadpool and Hitmonkey talked it out,
+
+257
+00:22:44,744 --> 00:22:49,428
+and Hitmonkey turned over a new leaf, joining
+SHIELD's howling commando subdivision that
+
+258
+00:22:49,468 --> 00:22:54,592
+dealt with supernatural threats. Hitmonkey later
+joined Deadpool and Domino's mercenary team
+
+259
+00:22:54,632 --> 00:22:59,296
+called the Mercs for Money, though the primate's
+mission was to monitor the team on behalf of
+
+260
+00:22:59,356 --> 00:23:04,840
+SHIELD. At one point, Deadpool inadvertently
+assisted the evil organization HYDRA during
+
+261
+00:23:04,921 --> 00:23:09,784
+its takeover of the United States, and he put
+a 20 million dollar bounty on his own head
+
+262
+00:23:10,085 --> 00:23:15,989
+as a means of Punishment. Hitmonkey was brought
+in alongside other heroes to help put a stop
+
+263
+00:23:16,029 --> 00:23:21,333
+to the resulting chaos caused by villains out
+to collect Deadpool's head. And that's Hitmonkey's
+
+264
+00:23:21,373 --> 00:23:26,876
+backstory so far. Now, he has no powers to speak
+of, save for his simian physiology that makes
+
+265
+00:23:26,896 --> 00:23:32,480
+him stronger and faster than your average human.
+He has opposable thumbs on his hands and feet,
+
+266
+00:23:32,580 --> 00:23:38,244
+allowing him to wield weapons such as guns and
+swords with extreme dexterity no matter which
+
+267
+00:23:38,364 --> 00:23:44,232
+limb he uses. This ability, combined with his
+mastery of martial arts and marksmanship skills,
+
+268
+00:23:44,512 --> 00:23:50,216
+make him an unpredictable and dangerous killer.
+He carries two handguns and often uses a samurai
+
+269
+00:23:50,256 --> 00:23:54,980
+sword in battle. Occasionally, Hitmonkey has
+been known to commune with the spirit of the
+
+270
+00:23:55,020 --> 00:24:00,343
+deceased assassin that instructed him in how
+to kill. And that's Hitmonkey. So he's like
+
+271
+00:24:00,583 --> 00:24:05,547
+a small version of John Wick. Exactly, that
+is a fantastic way to put it. He's a small
+
+272
+00:24:05,587 --> 00:24:10,966
+version of John Wick if John Wick couldn't speak
+any human language. and also had thumbs on
+
+273
+00:24:11,006 --> 00:24:15,327
+his feet, even though Hitmonkey would annihilate
+John Wick because he's just that little bit
+
+274
+00:24:15,367 --> 00:24:19,948
+better. This actually makes me like really interested
+in the cartoon. I haven't started watching
+
+275
+00:24:20,028 --> 00:24:23,929
+it yet, but that sounded like a lot of fun.
+Not going to lie. And honestly, now that I
+
+276
+00:24:23,949 --> 00:24:28,711
+have covid, like I have all day to watch it.
+You know, I don't know any Marvel fans that
+
+277
+00:24:28,751 --> 00:24:33,852
+have caught covid. It's only DC fans that I
+know of. What? Yeah. Wow. Interesting, huh?
+
+278
+00:24:34,132 --> 00:24:39,618
+DC must stand for like Delta covid. I'm going
+to go cough in your face. I think that's illegal,
+
+279
+00:24:39,658 --> 00:24:45,181
+isn't it? Yeah. Okay, nevermind. Go ahead, I'll
+sue your ass. Well, you know what else I've
+
+280
+00:24:45,201 --> 00:24:50,824
+been watching on TV this past week? Super Friends
+as research for this episode. And I gotta say,
+
+281
+00:24:50,864 --> 00:24:55,747
+I love those classic Justice League cartoons.
+They're great. How big is Gleek's role in the
+
+282
+00:24:55,767 --> 00:25:00,590
+Super Friends cartoon? It depends on episode
+to episode. They're all kind of like anthological
+
+283
+00:25:00,630 --> 00:25:05,332
+in a way. But he is one of the recurring characters.
+He's in almost like every episode. Since we
+
+284
+00:25:05,372 --> 00:25:10,063
+began doing these charity animal duels. I would
+say all of the DC characters have been pretty
+
+285
+00:25:10,244 --> 00:25:15,328
+obscure. Gleek is probably the least obscure
+character I've done since he was a regular
+
+286
+00:25:15,468 --> 00:25:20,492
+on the Super Friends cartoon, but he also has,
+I would say, the least amount of incontinuity
+
+287
+00:25:20,552 --> 00:25:26,157
+backstory for a character I've ever written
+about. Like all in all, he's had around 20
+
+288
+00:25:26,277 --> 00:25:32,283
+issues of canonical appearances, with the vast
+majority of them being minor cameos. Gleek
+
+289
+00:25:32,323 --> 00:25:37,747
+and his Wonder Twin owners first appeared in
+1977. during the Hanna-Barbera animated series,
+
+290
+00:25:37,947 --> 00:25:43,771
+The All-New Super Friends Hour, which was a
+spin-off of 1973's Super Friends. The Super
+
+291
+00:25:43,811 --> 00:25:50,135
+Friends have had a total of six spin-off series
+that lasted until 1986, and of all the series,
+
+292
+00:25:50,375 --> 00:25:56,340
+Gleek and his Wonder Twin owners appeared regularly
+in five of them. The All-New Super Friends
+
+293
+00:25:56,380 --> 00:26:02,664
+Hour series also notably introduced a more diverse
+cast of new characters in Black Vulcan, Apache
+
+294
+00:26:02,684 --> 00:26:08,763
+Chief, Samurai, and El Dorado. As I mentioned
+in our Wonder Twins vs Cloak and Dagger episode,
+
+295
+00:26:09,203 --> 00:26:14,865
+the Wonder Twins and Gleek supplanted the powerless
+characters of Wendy, Marvin, and their Wonder
+
+296
+00:26:14,905 --> 00:26:19,427
+Dog from the original Super Friends series as
+the young audience surrogates on the show,
+
+297
+00:26:19,787 --> 00:26:25,389
+as Gleek and the twins were able to take a more
+active part in the stories since they had superpowers.
+
+298
+00:26:25,770 --> 00:26:31,332
+Gleek, like the Wonder Twins Xan and Jaina,
+was from the planet Exor, where, according
+
+299
+00:26:31,372 --> 00:26:37,823
+to the Super Friends show, many monkeys existed
+just like him. In fact, in one episode, they
+
+300
+00:26:37,924 --> 00:26:43,048
+all visited Earth in spaceships in an attempt
+to take over the planet because X-Or doesn't
+
+301
+00:26:43,068 --> 00:26:48,153
+have bananas. They had been monitoring Gleek
+for some time and sought from him information
+
+302
+00:26:48,213 --> 00:26:53,297
+on how to destroy the Super Friends. Bombarded
+by a banana brain blaster, Gleek was forced
+
+303
+00:26:53,377 --> 00:26:58,402
+to reveal the team's secrets and nearly succeeded
+in destroying Superman, Batman, and Wonder
+
+304
+00:26:58,442 --> 00:27:03,859
+Woman with a disintegrator ray, but was stopped
+by Jan and Xana, after they broke free from
+
+305
+00:27:03,899 --> 00:27:10,304
+the clutches of a giant Gleek robot. Jaina immediately
+transformed into an electric eel and zapped
+
+306
+00:27:10,344 --> 00:27:15,088
+Gleek free from his mind control. Once the Water
+Twins and Gleek rescued the Justice League,
+
+307
+00:27:15,248 --> 00:27:20,873
+the Exorian Monkeys were returned to their ships
+and escorted back to the planet Exor. The episode
+
+308
+00:27:20,973 --> 00:27:26,718
+ended, as most Super France episodes did, with
+a gag from Gleek, who this time confused a
+
+309
+00:27:26,758 --> 00:27:33,018
+banana blaster for an edible banana, zapping
+himself silly. In the non-canonical Super Friends
+
+310
+00:27:33,038 --> 00:27:38,681
+comic, it was revealed that members of Gleek's
+species are known as Elastomunks. Gleek was
+
+311
+00:27:38,761 --> 00:27:44,104
+first owned by an Exorian clown named Illic,
+who trained him as part of a traveling intergalactic
+
+312
+00:27:44,144 --> 00:27:49,267
+circus from Exor. Illic was a good man who helped
+educate the Wonder Twins when they were brought
+
+313
+00:27:49,347 --> 00:27:54,310
+on as part of the show. Gleek took a liking
+to the twins and escaped the circus with them
+
+314
+00:27:54,390 --> 00:27:58,392
+when they found out they weren't getting paid
+for their performances. After their escape,
+
+315
+00:27:58,592 --> 00:28:03,807
+the twins discovered on a nearby planet that
+the Superman villain, Grax, was going to attack
+
+316
+00:28:03,927 --> 00:28:09,090
+Earth, and Gleek traveled with the twins to
+Earth in order to warn the Super Friends, and
+
+317
+00:28:09,110 --> 00:28:14,033
+they stayed on the planet in order to learn
+to use their powers as superheroes. After the
+
+318
+00:28:14,053 --> 00:28:19,297
+Super Friends cartoon and comic ended, the Wonder
+Twins would enter mainstream DC continuity
+
+319
+00:28:19,397 --> 00:28:25,600
+in the mid-90s in the title, Extreme Justice.
+But Gleek, unfortunately, did not appear with
+
+320
+00:28:25,640 --> 00:28:30,583
+them. He did appear, however, in the line of
+children's books based on the DC superpets
+
+321
+00:28:30,903 --> 00:28:36,126
+where he helped Beppo the super monkey defeat
+Gorilla Grodd when the circus came to Metropolis.
+
+322
+00:28:36,626 --> 00:28:42,810
+It wasn't until 2019 that Gleek made his official
+DC comics debut in a 12 issue Wonder Twins
+
+323
+00:28:42,890 --> 00:28:48,973
+miniseries. In this post-Flashpoint continuity
+it was established that Xan and Jaina weren't
+
+324
+00:28:49,113 --> 00:28:55,077
+circus performers but the grandchildren of Exor's
+equivalent of Hitler. Their father sent them
+
+325
+00:28:55,117 --> 00:28:59,390
+to earth with Superman, so that they wouldn't
+have to suffer the shame and sense of their
+
+326
+00:28:59,410 --> 00:29:04,892
+grandfather. While on Earth, Zand bought Gleek
+through a magazine ad that some circus performers
+
+327
+00:29:04,952 --> 00:29:10,433
+put together in order to save Gleek from his
+abusive circus environment. Gleek's circus
+
+328
+00:29:10,473 --> 00:29:15,795
+was run by a supervillain known as the Ringmaster,
+who would force Gleek to ride a tiny bicycle
+
+329
+00:29:15,875 --> 00:29:22,437
+through flaming hoops and other hazards. Because
+of the kindness Zand showed Gleek, he single-handedly
+
+330
+00:29:22,517 --> 00:29:27,234
+rescued the twins when they were captured by
+the League of Annoyance. a small-time cadre
+
+331
+00:29:27,274 --> 00:29:33,677
+of villains organized by Lex Luthor to cultivate
+sporadic chaos around Washington, D.C. Later,
+
+332
+00:29:33,777 --> 00:29:37,619
+when the League of Annoyance tried to get a
+Phantom Zone projector from the Wonder Twins,
+
+333
+00:29:37,979 --> 00:29:43,241
+their recent recruit, Ringmaster, succeeded
+in ring-tossing the twins into another trap,
+
+334
+00:29:43,481 --> 00:29:48,264
+only for Gleek to emerge from Zan's backpack
+and start punching out his former abusive owner,
+
+335
+00:29:48,384 --> 00:29:53,988
+Ringmaster. Gleek was tased by cell phone Sylvia
+during the pummeling. but the distraction worked,
+
+336
+00:29:54,308 --> 00:29:59,250
+and the Wonder Twins were able to send the bad
+guys to the Phantom Zone. Most recently, Gleek
+
+337
+00:29:59,270 --> 00:30:04,453
+and the twins were seen helping Young Justice
+bring down rogue scientists within Star Labs,
+
+338
+00:30:04,593 --> 00:30:09,375
+and became official members of that team by
+its conclusion. Powers-wise, Gleek has the
+
+339
+00:30:09,395 --> 00:30:14,917
+physiology of an Exorian Elastomonk, granting
+him his blue-furred appearance and prehensile
+
+340
+00:30:14,957 --> 00:30:19,800
+tail that he's able to extend to any length,
+with a tensile strength that allows him to
+
+341
+00:30:19,840 --> 00:30:24,582
+lift up to a quarter ton. He's also smarter
+than your average Earth Monkey, capable of
+
+342
+00:30:24,642 --> 00:30:31,944
+understanding human speech, average human, often
+to humorous effect. Well, same thing with Hitmonkey.
+
+343
+00:30:32,144 --> 00:30:36,425
+While he can understand humans, he's not as
+smart as them. But Gleek is also clever by
+
+344
+00:30:36,485 --> 00:30:41,467
+nature, capable of hiding empty buckets and
+bananas and drawing them out from seemingly
+
+345
+00:30:41,587 --> 00:30:48,108
+nowhere at will. His ass? We'll never know,
+but probably. Not gonna lie. He has that infinitely
+
+346
+00:30:48,148 --> 00:30:54,089
+stretchable tail, but also probably an infinite
+stretchable colon, is my guess. And that's
+
+347
+00:30:54,129 --> 00:30:59,213
+Gleek. This will be pretty good, it kind of
+reminds me of like Mr. Fantastic vs. The Punisher
+
+348
+00:30:59,253 --> 00:31:03,397
+or something like that. But now that we got
+these monkeys' histories and abilities out
+
+349
+00:31:03,437 --> 00:31:08,601
+of the way, let's speculate on how one of the
+1000 simulated matches will go. The winner
+
+350
+00:31:08,641 --> 00:31:13,265
+is determined by simulations, not the speculation,
+but it's fun to imagine how this fight could
+
+351
+00:31:13,285 --> 00:31:17,429
+play out. Now we don't set any rules for this
+match other than the characters don't know
+
+352
+00:31:17,509 --> 00:31:21,933
+anything about each other going in. Except that
+the other character is a threat that needs
+
+353
+00:31:21,953 --> 00:31:26,873
+to be put down. We say that they start off about
+50 meters apart in an environment that has
+
+354
+00:31:26,993 --> 00:31:31,456
+no bearing on the match itself because we don't
+take stats for the environment. Plus, certain
+
+355
+00:31:31,496 --> 00:31:35,620
+characters have advantages in some environments
+over others, and we want these characters to
+
+356
+00:31:35,680 --> 00:31:40,343
+win on their own merit. So let's get into it.
+Gleek and Hitmonkey meet on the battlefield.
+
+357
+00:31:40,724 --> 00:31:44,867
+Who goes first? Okay, I'm gonna say Hitmonkey
+goes first because he's kind of like this little
+
+358
+00:31:44,987 --> 00:31:50,352
+ball of fury. Okay? So he's gonna start off
+by reaching into his suit jacket, and with
+
+359
+00:31:50,492 --> 00:31:54,758
+one hand, he's gonna pull out his cool shades.
+and put him on, and with the other hand, he's
+
+360
+00:31:54,778 --> 00:31:59,840
+gonna pull out a fucking Glock 19. And he's
+gonna point it right at Gleek, like badass
+
+361
+00:31:59,880 --> 00:32:05,242
+sideways gangster style, and he's just gonna
+start unloading rounds. Okay, once Gleek sees
+
+362
+00:32:05,283 --> 00:32:10,805
+the gun, he's gonna be like, wow! He's gonna
+use his tail to like spring away as Hitmonkey
+
+363
+00:32:10,825 --> 00:32:16,127
+is shooting. And while Hitmonkey is like focusing
+on hitting center mass as Gleek is just like
+
+364
+00:32:16,167 --> 00:32:21,349
+bouncing around like a pinball, Gleek is going
+to stretch out his tail and just whip the gun
+
+365
+00:32:21,409 --> 00:32:25,338
+right out of Hitmonkey's hand. Well that pisses
+Hitmonkey off, you know, he's gonna screech
+
+366
+00:32:25,658 --> 00:32:31,260
+in frustration and then he's gonna charge Gleek
+on all fours with his monkey speed and he's
+
+367
+00:32:31,280 --> 00:32:36,181
+gonna leap through the air and he's gonna do
+this flying kick that, well, I guess, is it
+
+368
+00:32:36,201 --> 00:32:41,403
+a kick or is it a punch? Right, yeah, with the
+monkey it's probably always a punch But it's
+
+369
+00:32:41,423 --> 00:32:46,464
+gonna connect and hit Gleek right in his dome
+piece Okay, okay so Gleek probably drops to
+
+370
+00:32:46,484 --> 00:32:50,485
+the floor and he's gonna retract his tail but
+when he gets up to his feet he's gonna put
+
+371
+00:32:50,505 --> 00:32:58,275
+his arms up like a boxer and start hopping back
+and forth like, wah-wah-wah-wah, wah-
+
+372
+00:33:18,902 --> 00:33:23,384
+I'm trying to add insult to injury. That's gonna
+infuriate Hitmonkey. So he's gonna screech
+
+373
+00:33:23,424 --> 00:33:28,287
+again, and he's gonna reach toward his back
+and ensheath the samurai sword that he has.
+
+374
+00:33:28,647 --> 00:33:32,629
+What? And he's gonna spin it around, and he's
+gonna swing it at Gleek and just slice off
+
+375
+00:33:32,669 --> 00:33:37,972
+his tail. How does Hitmonkey have a samurai
+sword small enough for his body? You know,
+
+376
+00:33:37,992 --> 00:33:42,074
+it's one of those short swords. Oh, like the,
+what is it called, the Shoto? Yeah, sure. One
+
+377
+00:33:42,094 --> 00:33:49,602
+of the, okay. Okay, that's dumb. So Gleek, he's
+gonna yell. and run away. And I'm sure Hitmonkey
+
+378
+00:33:49,622 --> 00:33:54,784
+is gonna be chasing after him, just swinging
+that sword around wildly. But Gleek, he's gonna
+
+379
+00:33:54,824 --> 00:33:59,366
+conjure a banana, all right? And he's gonna
+peel it, eat the banana, then throw the peel
+
+380
+00:33:59,386 --> 00:34:05,569
+behind him, causing Hitmonkey to slip and drop
+his sword, which Gleek grabs with this still
+
+381
+00:34:05,669 --> 00:34:09,611
+functional stretchy tail, even though it's been
+cut, he can still stretch it. And he's gonna
+
+382
+00:34:09,631 --> 00:34:14,874
+start swinging that around like crazy. So Gleek
+is still able to stretch his tail, even though
+
+383
+00:34:15,134 --> 00:34:20,276
+it's been cut. Yeah, essentially you did nothing
+by cutting it. Gleek is, you know, trying to
+
+384
+00:34:20,356 --> 00:34:25,459
+swipe at Hitmonkey with his katana sword, but
+Hitmonkey is agile, you know, he dodges these
+
+385
+00:34:25,499 --> 00:34:31,462
+slashes and he runs around Gleek, and by running
+around him, Hitmonkey causes Gleek to wrap
+
+386
+00:34:31,482 --> 00:34:37,304
+himself up with his own tail and drop the sword.
+Then with Gleek all wrapped up, Hitmonkey's
+
+387
+00:34:37,324 --> 00:34:42,475
+just gonna punch him right in his face. And
+that's gonna send Gleek flying back, but Hitmonkey's
+
+388
+00:34:42,515 --> 00:34:47,977
+gonna grab his tail and just yo-yo him back.
+What? Causing him to come winding back up and
+
+389
+00:34:48,017 --> 00:34:52,059
+then get hit again. And Hitmonkey just keeps
+doing this. That's a pretty good move. You
+
+390
+00:34:52,079 --> 00:34:56,921
+know, Gleek, he's probably dizzy and seeing
+stars, but he's just gonna shake it off. Since
+
+391
+00:34:56,941 --> 00:35:01,263
+Hitmonkey is holding onto his tail, Gleek is
+just gonna loop his tail around Hitmonkey's
+
+392
+00:35:01,343 --> 00:35:04,964
+wrist, and he's just gonna lift him into the
+air and start slamming him into the ground
+
+393
+00:35:05,004 --> 00:35:12,845
+repeatedly, like, bam bam! Well, after getting
+slammed a few times, I'm gonna say that Hitmonkey
+
+394
+00:35:12,965 --> 00:35:18,509
+reaches into his suit with his feet. And he's
+gonna pull out another Glock. And then before
+
+395
+00:35:18,549 --> 00:35:23,793
+Gleek can slam him again, he shoots that blue
+monkey right through one of his eyes. Dang!
+
+396
+00:35:23,853 --> 00:35:31,315
+Why? Jeez. No, I mean, that would kill Gleek.
+I'm gonna say that once Gleek sees the gun,
+
+397
+00:35:31,696 --> 00:35:36,179
+he's gonna pull out his trusty metal pail and
+put it over his head like a helmet, blocking
+
+398
+00:35:36,219 --> 00:35:36,660
+the bullet.
+
+399
+00:35:40,054 --> 00:35:45,878
+That pale, he uses that to carry Xan, right?
+Yeah, whenever he's like in a water form. Okay,
+
+400
+00:35:45,898 --> 00:35:51,082
+so this metal pale blocks the bullet from killing
+him, but Gleek is gonna be rattled by this,
+
+401
+00:35:51,162 --> 00:35:55,626
+you know? And therefore he's gonna let go of
+Hitmonkey with his tail. So Hitmonkey falls
+
+402
+00:35:55,646 --> 00:36:00,810
+to the ground, probably drops his gun, but when
+Gleek removes his metal pale helmet, he's gonna
+
+403
+00:36:00,850 --> 00:36:05,034
+see like multiple Hitmonkeys like vibrating
+around just because he was so rattled. And
+
+404
+00:36:05,054 --> 00:36:12,174
+in addition to seeing multiple Hitmonkeys, he
+also sees multiple brown gooey masses flying
+
+405
+00:36:12,235 --> 00:36:18,457
+at his face. What? Yeah, that's right. Hitmonkey
+just threw some feces, and it blinds Gleek,
+
+406
+00:36:18,538 --> 00:36:23,640
+hits him right in the eye. I had a feeling this
+was gonna turn into a shit show. Ha ha ha.
+
+407
+00:36:24,040 --> 00:36:30,183
+And when Gleek wipes the monkey poo away from
+his face, he sees nothing. Hitmonkey has vanished
+
+408
+00:36:30,243 --> 00:36:35,906
+from the battlefield. He's gone? Yeah, like
+Batman. He's stealthy like that. Okay. Gleeky,
+
+409
+00:36:35,946 --> 00:36:39,968
+you know, he's probably gonna be clutching his
+pale helmet and just like looking around for
+
+410
+00:36:40,168 --> 00:36:46,872
+Hitmonkey. I don't know. Well, Hitmonkey suddenly
+appears behind Gleek with like this loud screech.
+
+411
+00:36:47,232 --> 00:36:54,576
+He unleashes a flurry of shit missiles that
+just pelt Gleek to death like being stoned.
+
+412
+00:36:54,596 --> 00:36:59,399
+Dude, why is this monkey so constipated that
+his shit is so hard and sharp that it would
+
+413
+00:36:59,559 --> 00:37:06,854
+kill someone? He had a lot of dairy. Okay. But
+you said he screeches, so Gleek is gonna hear
+
+414
+00:37:06,894 --> 00:37:12,156
+that screech, and he's just gonna instantly
+begin twirling his tail like a fan blade, just
+
+415
+00:37:12,196 --> 00:37:20,699
+generating a gust that's strong enough to redirect
+these turd torpedoes back at Hitmonkey, killing
+
+416
+00:37:20,739 --> 00:37:28,470
+him instead. Hitmonkey's not gonna go down by
+his own poo, alright? He just did. Wha- Can
+
+417
+00:37:28,490 --> 00:37:34,253
+we just end it here then? So either Gleek dies
+from getting pelted to death from Hitmonkey's
+
+418
+00:37:34,293 --> 00:37:40,557
+poo, or Gleek is able to redirect the turds
+back at Hitmonkey who dies. I'm fine with that.
+
+419
+00:37:40,638 --> 00:37:46,962
+I honestly have no idea how you could top poo
+flinging in a monkey battle. Alright, so let's
+
+420
+00:37:46,982 --> 00:37:50,104
+go ahead and run these characters through the
+Monte-Caller simulations and come back with
+
+421
+00:37:50,124 --> 00:37:50,384
+a winner.
+
+422
+00:37:55,082 --> 00:38:01,104
+In what other Marvel vs DC matchup can you do
+a poof linking battle? Besides this one. Yeah,
+
+423
+00:38:01,124 --> 00:38:07,787
+I don't know. I guess technically you could
+do it for any battle, but why would you? That's
+
+424
+00:38:07,827 --> 00:38:13,830
+true. These guys were fairly comparable. I thought
+that Hitmonkey was absolutely going to have
+
+425
+00:38:13,850 --> 00:38:19,452
+an advantage due to the fact that he has fucking
+guns, you know, and he could shoot at Gleek
+
+426
+00:38:19,492 --> 00:38:24,976
+from a long range. But surprisingly, Gleek has
+an even longer range than Hitmonkey with his
+
+427
+00:38:25,016 --> 00:38:30,160
+stretchable tail. Right, right. Also, Gleek
+is stronger than Hitmonkey because of that
+
+428
+00:38:30,200 --> 00:38:35,025
+same tail. Yeah, yeah, the tail is his strongest
+weapon. It's his only weapon, and it's no joke.
+
+429
+00:38:35,205 --> 00:38:40,349
+And it's so versatile too, like able to form
+a spring to like a helicopter twirl. Yeah,
+
+430
+00:38:40,389 --> 00:38:45,714
+that's right. But where Gleek couldn't touch
+Hitmonkey at all was in his martial arts ability.
+
+431
+00:38:45,994 --> 00:38:52,627
+Hitmonkey is vastly superior in his hand combat.
+in every other category, these monkeys were
+
+432
+00:38:52,647 --> 00:38:57,729
+comparable. Considering that, who do you think
+won this match? I think it's Gleek. I think
+
+433
+00:38:57,769 --> 00:39:03,112
+his tail is way more special than, you know,
+a couple of guns and maybe a knife. Though
+
+434
+00:39:03,132 --> 00:39:09,336
+I have to say, Instagram does not agree with
+me. 73% of our Instagram followers who voted,
+
+435
+00:39:09,696 --> 00:39:15,419
+voted in favor of Hitmonkey, which I'm not surprised.
+Like, how many of them actually watched the
+
+436
+00:39:15,439 --> 00:39:19,821
+Super Friends cartoon? How many of them actually
+know about Gleek? I'm gonna assume all of them.
+
+437
+00:39:20,158 --> 00:39:24,660
+and that they are very smart and well versed.
+Maybe. Hitmonkey does have a show that is like
+
+438
+00:39:24,740 --> 00:39:30,143
+on Hulu right now. So I'm sure his popularity
+factor played a part in why he won this poll.
+
+439
+00:39:30,563 --> 00:39:36,226
+Well, he won the poll, did he win the matches?
+I have the results here. Let's find out. The
+
+440
+00:39:36,307 --> 00:39:45,812
+winner of the duel between Gleek and Hitmonkey
+is Hitmonkey. Damn it! But it was fairly close.
+
+441
+00:39:46,152 --> 00:39:53,236
+This was a commendable fight. Hitmonkey won.
+534 matches out of the 1000, whereas Gleek
+
+442
+00:39:53,297 --> 00:40:01,842
+won 466, so that's 53.4% to 46.6. Fairly close,
+but Hitmonkey is a straight up killer, and
+
+443
+00:40:02,003 --> 00:40:07,987
+just way more badass than Gleek. I can't even
+argue with that, honestly. Like Gleek is anything
+
+444
+00:40:08,087 --> 00:40:13,230
+but badass. He's silly though, he's cute and
+silly. I am surprised by the results though,
+
+445
+00:40:13,451 --> 00:40:19,818
+I thought Gleek was gonna just spank that monkey's
+red ass tail. Oh, we didn't do that in speculation
+
+446
+00:40:19,858 --> 00:40:25,301
+then. We should have done that. Well, Hitmonkey
+is just on top of the world now. Not only did
+
+447
+00:40:25,341 --> 00:40:29,922
+he win this duel against Gleek, he of course
+has that show on Hulu, which has been doing
+
+448
+00:40:29,962 --> 00:40:34,524
+really well. It has like a 90 percent audience
+score on Rotten Tomatoes and an 80 percent
+
+449
+00:40:34,564 --> 00:40:38,846
+critic score. I'm like five episodes in. It's
+pretty good. We're going to review that show
+
+450
+00:40:38,926 --> 00:40:43,768
+in our next episode. So look forward to that.
+And when it comes to Gleek, I would actually
+
+451
+00:40:43,828 --> 00:40:49,835
+recommend checking out Adult Swim's parody of
+the wonder twins? Yeah, they did these wonder
+
+452
+00:40:49,875 --> 00:40:56,838
+twins shorts based off of like old quote unquote
+lost footage of their adventures. There's like
+
+453
+00:40:56,898 --> 00:41:00,579
+five of them. They're hilarious. You could find
+them on YouTube. But that does it for this
+
+454
+00:41:00,619 --> 00:41:05,121
+duel. Let us know what you guys thought about
+the Gleek versus Hitmonkey results by writing
+
+455
+00:41:05,161 --> 00:41:10,823
+to us at dynamicduelpodcast at gmail.com or
+by visiting us on Facebook, Instagram or Twitter.
+
+456
+00:41:11,283 --> 00:41:14,565
+You can find links to all of our accounts by
+checking out our show notes or visiting our
+
+457
+00:41:14,605 --> 00:41:20,177
+website dynamicduel.com. And also don't forget,
+since this is our charity duel episode, to
+
+458
+00:41:20,237 --> 00:41:26,022
+check out our Facebook specifically in order
+to donate to the Healthwell Foundation. Again,
+
+459
+00:41:26,162 --> 00:41:31,247
+it doesn't matter how much you donate. We were
+not asking for large amounts. Right. We will
+
+460
+00:41:31,287 --> 00:41:36,111
+randomly pick two donors when this fundraiser
+ends on Christmas day and we'll be gifting
+
+461
+00:41:36,151 --> 00:41:42,077
+them a dynamic duel Marvel vs. DC card game
+that we created. And remember for the duration
+
+462
+00:41:42,117 --> 00:41:46,691
+of this fundraiser, all of our archived episodes,
+every episode that we've done at this podcast
+
+463
+00:41:46,711 --> 00:41:51,034
+will be available again to the listening public.
+So if you haven't checked out our back episodes,
+
+464
+00:41:51,074 --> 00:41:54,696
+go ahead and do that. But that does it for this
+episode. We want to give a big thanks to our
+
+465
+00:41:54,736 --> 00:42:01,079
+executive producers, John Spies, Ken Johnson,
+Jace Crump, John Staroski, Zachary Hepburn,
+
+466
+00:42:01,339 --> 00:42:07,303
+John Bechinina, Mitchell Phipps, Dustin Belcombe,
+Salvador Hernandez Contreras Jr., and Levi
+
+467
+00:42:07,343 --> 00:42:12,045
+Yeaton for helping make this podcast possible.
+We'll talk to you guys next week. Up up and
+
+468
+00:42:12,065 --> 00:42:13,254
+away. True believers?
+
