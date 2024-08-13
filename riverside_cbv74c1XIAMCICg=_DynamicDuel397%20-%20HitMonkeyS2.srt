@@ -1,0 +1,3719 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,206 --> 00:00:28,527
+Hi and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+3
+00:00:28,928 --> 00:00:33,790
+and debate the superiority between Marvel and
+DC by comparing their characters in stat-based
+
+4
+00:00:34,070 --> 00:00:40,332
+battle simulations. I'm Marvelous Joe. And I'm
+his twin brother, Johnny DC. And in this episode,
+
+5
+00:00:40,352 --> 00:00:48,136
+we are going to review the latest Marvel television
+animated release, Hitmonkey Season 2. Hitmonkey
+
+6
+00:00:48,176 --> 00:00:53,254
+Season 1 was a big surprise when we reviewed
+that, I think back in 2021. And it's not surprising
+
+7
+00:00:53,334 --> 00:00:58,277
+that the show got a season two and season two,
+every bit as good as the first, if not even
+
+8
+00:00:58,317 --> 00:01:03,219
+better. So I'm really excited to talk about
+it. Yeah, absolutely. Hit Monkey is a vibe
+
+9
+00:01:03,840 --> 00:01:07,402
+and I was totally there for it. And I can't
+wait to talk about it. Before that, we're going
+
+10
+00:01:07,422 --> 00:01:11,464
+to break down the comic book movie news that
+came out this past week, of which there was
+
+11
+00:01:11,804 --> 00:01:17,047
+a lot of news that came out from the recent
+D23 conference. Marvel decided to save like
+
+12
+00:01:17,207 --> 00:01:22,710
+all their good shit for D23, and they kind of
+phoned in Comic Con. We're going to be talking
+
+13
+00:01:22,750 --> 00:01:27,391
+about the Agatha all along official trailer.
+We're going to describe the footage that came
+
+14
+00:01:27,431 --> 00:01:33,313
+out for Captain America, Brave New World, fantastic
+for first steps Daredevil, Bornegan and Ironheart.
+
+15
+00:01:33,913 --> 00:01:39,175
+And we got the big news this past week that
+Daredevil and Wolverine has surpassed one billion
+
+16
+00:01:39,215 --> 00:01:45,137
+dollars at the worldwide box office. So it is
+just a full on Marvel episode. None of that
+
+17
+00:01:45,237 --> 00:01:50,075
+DC shit this time. None of that boring news
+from the shit fucks down the street, as we
+
+18
+00:01:50,135 --> 00:01:55,079
+like to call them now. She's all Marvel. This
+is going to be a fantastic episode. I'm so
+
+19
+00:01:55,179 --> 00:02:00,882
+thrilled. I don't even know why I'm here. Like,
+I don't need to be here. You can go. You can
+
+20
+00:02:00,922 --> 00:02:05,686
+go. I'm just here to say things like shit. Damn.
+And that is whack.
+
+21
+00:02:09,128 --> 00:02:15,890
+OK, not another teen movie. As always guys,
+we list our segment times in our episode description,
+
+22
+00:02:15,930 --> 00:02:19,876
+so feel free to check out the show notes if
+you want to skip ahead to a particular topic.
+
+23
+00:02:20,297 --> 00:02:24,944
+Our artificially intelligent duel simulator
+AJ9K has a quick message for our listeners,
+
+24
+00:02:25,285 --> 00:02:32,109
+so listen up. Why hello there, do you want even
+more from this podcast? Then become a part
+
+25
+00:02:32,149 --> 00:02:36,893
+of the dynamic duel community on Patreon, where
+you can choose from three tiers. The dynamic
+
+26
+00:02:36,933 --> 00:02:41,376
+two-oh tier gives you access to our Discord
+chat server. The fantastic four tier gives
+
+27
+00:02:41,397 --> 00:02:46,040
+you two bonus episodes each month, and the X-Force
+tier makes you an executive producer of this
+
+28
+00:02:46,060 --> 00:02:51,451
+show. Lastly, The Diner Mike podcast network
+tier lets you create your own podcast using
+
+29
+00:02:51,471 --> 00:02:56,033
+this Monte Carlo simulator. Johnny and Joe will
+help you develop your show, provide graphic
+
+30
+00:02:56,073 --> 00:03:01,416
+support and consultation, and get you simulation
+results. Pitch the twins your ideas via email
+
+31
+00:03:01,456 --> 00:03:07,659
+at dynamicduelpodcast at gmail.com. Check it
+out at patreon.com slash dynamicduel. Pip pip
+
+32
+00:03:07,699 --> 00:03:13,994
+cheerio. Thanks AJ9K and thanks to everyone
+who supports the podcast. Guys, be sure to
+
+33
+00:03:14,034 --> 00:03:18,476
+tune into the other shows in the DynaMic Podcast
+Network this week, including Max Destruction,
+
+34
+00:03:18,837 --> 00:03:23,199
+which pits your favorite action heroes from
+film and television against each other. This
+
+35
+00:03:23,259 --> 00:03:29,442
+week, hosts Scotty and Gilly are pitting the
+Teenage Mutant Ninja Turtles against the Warriors
+
+36
+00:03:29,623 --> 00:03:35,886
+of Virtue. On the Senjoworld podcast, host Zachary
+Hepburn speculates on fights between fan favorite
+
+37
+00:03:36,006 --> 00:03:42,790
+anime and manga characters. This Thursday, Zach's
+doing an Olympic sports-themed episode. between
+
+38
+00:03:42,850 --> 00:03:48,171
+Team Berna and Team Mud. Yeah, that'll be an
+interesting episode. None of the shows on the
+
+39
+00:03:48,211 --> 00:03:52,172
+network have ever done anything like that, so
+really excited to see how that sports-themed
+
+40
+00:03:52,192 --> 00:03:57,554
+episode goes. On the Console Combat podcast,
+hosts John and Dean find out who would win
+
+41
+00:03:57,614 --> 00:04:02,015
+in fights between popular video game characters.
+In yesterday's episode, they determined who
+
+42
+00:04:02,035 --> 00:04:08,677
+would win between Samus Aran from Metroid and
+Mega Man. Visit dynamicpodcasts.com or click
+
+43
+00:04:08,697 --> 00:04:12,926
+the link in our show notes to listen to all
+the shows. in the DynaMic Podcast Network.
+
+44
+00:04:13,286 --> 00:04:20,168
+But with that out of the way, quick to No Prize!
+A No Prize is an award Marvel used to give
+
+45
+00:04:20,228 --> 00:04:26,290
+out to fans. Our version, the Dynamic Duel No
+Prize, is a digital award we pushed on Instagram
+
+46
+00:04:26,330 --> 00:04:31,771
+for the person that we feel gave the best answer
+to our question of the week. Last week, we
+
+47
+00:04:31,991 --> 00:04:38,513
+asked, other than Dynamic Duel, what is your
+favorite podcast in the DynaMic Network and
+
+48
+00:04:38,593 --> 00:04:45,147
+why? And we only got... one answer, but it was
+a good answer. This week's no prize goes to
+
+49
+00:04:45,767 --> 00:04:53,749
+Scott Camacho who said, I'm not biased or anything,
+but, um, I really like max destruction. Dustin's
+
+50
+00:04:53,809 --> 00:04:59,751
+cheesiness followed by Ken's quick wit makes
+for a great show. And I love all the action
+
+51
+00:04:59,771 --> 00:05:05,252
+stars. I heard there's a new set of twins that
+is going to be doing it now. So I'm definitely
+
+52
+00:05:05,272 --> 00:05:10,930
+going to watch out for them. That's the show
+to watch. Max destruction. Yeah, Scotty is
+
+53
+00:05:10,990 --> 00:05:16,314
+not biased at all. It's not like he's the new
+main host for Max Destruction going forward.
+
+54
+00:05:16,755 --> 00:05:21,658
+That's right. Yeah. Ken, the initial host of
+Max Destruction, the guy who started the show,
+
+55
+00:05:22,039 --> 00:05:27,483
+has stepped away from the podcast and Scotty
+is bringing aboard his twin brother, Gilly,
+
+56
+00:05:27,863 --> 00:05:33,548
+which means that there are two sets of twins
+running podcasts in the DynaMic Podcast Network.
+
+57
+00:05:34,048 --> 00:05:39,877
+And we want to give a quick. Super heartfelt
+shout out to Ken. We've been a fan of his ever
+
+58
+00:05:39,917 --> 00:05:44,381
+since he put out the you call those tactics
+podcast Ken has been a huge supporter of dynamic
+
+59
+00:05:44,421 --> 00:05:49,886
+duel. He was our very first executive producer
+He was essentially the guy who started the
+
+60
+00:05:49,906 --> 00:05:53,849
+dynaMic podcast network because he asked us
+if he could start his own show and use Our
+
+61
+00:05:53,889 --> 00:05:59,814
+simulator and everything like that so he's just
+a fucking legend in the dynaMic network community
+
+62
+00:06:00,435 --> 00:06:05,055
+and We will always be happy to have him on as
+a guest Yeah, he's guested on this podcast
+
+63
+00:06:05,095 --> 00:06:11,181
+before for our Punisher review. The guy is just
+a genius when it comes to anything military
+
+64
+00:06:11,241 --> 00:06:15,766
+related, considering he is active military.
+That was always something interesting that
+
+65
+00:06:15,806 --> 00:06:20,650
+he brought to Max Destruction, the fact that
+he's a literal military strategist for the
+
+66
+00:06:20,750 --> 00:06:25,695
+army speculating on these battles. Now, Scotty,
+the new host, was also in the military, so
+
+67
+00:06:25,735 --> 00:06:30,194
+I'm definitely excited for his matches as well.
+Oh yeah, Scotty has brought a lot to the Max
+
+68
+00:06:30,214 --> 00:06:35,537
+Destruction podcast over the last few months
+as he's been co-hosting and he has great chemistry
+
+69
+00:06:35,697 --> 00:06:40,839
+with his brother Gilly dating back to the womb.
+So we know that duo will make Ken proud and
+
+70
+00:06:40,979 --> 00:06:45,001
+really looking forward to seeing what they do
+with the show in the future. Especially with
+
+71
+00:06:45,021 --> 00:06:48,703
+their upcoming episode, Teenage Mutant Ninja
+Turtles vs. the Warriors of Virtue, that's
+
+72
+00:06:48,723 --> 00:06:53,405
+going to be a great way to kick off this new
+era of Max Destruction. So great answer Scotty,
+
+73
+00:06:53,445 --> 00:06:57,900
+you win this week's No Prize. If you the listener
+want a shot at winning your own no prize, stay
+
+74
+00:06:57,940 --> 00:07:02,383
+tuned to later on in this episode when we'll
+be asking another question of the week. And
+
+75
+00:07:02,423 --> 00:07:04,565
+now that that's done, onto the news!
+
+76
+00:07:10,082 --> 00:07:15,765
+Alright, this past weekend we had the D23 event
+where Disney presents all of the upcoming projects
+
+77
+00:07:15,785 --> 00:07:20,309
+they have on their slate to investors. They
+showed a lot of exciting footage at the event,
+
+78
+00:07:20,469 --> 00:07:24,692
+which good luck finding video clips of those
+on the internet, but we're going to break down
+
+79
+00:07:24,732 --> 00:07:29,655
+the clips for you here. The first trailer we're
+going to talk about is Agatha All Along, which
+
+80
+00:07:29,835 --> 00:07:33,658
+actually was released to the general public
+as the official trailer. This wasn't like a
+
+81
+00:07:33,738 --> 00:07:38,721
+leak or anything, but this is coming off of
+the teaser trailer that we got just a few weeks
+
+82
+00:07:38,761 --> 00:07:44,499
+ago. The Agatha All Along series is about the
+witch getting back her powers that were taken
+
+83
+00:07:44,519 --> 00:07:51,926
+from her by the Scarlet Witch at the end of
+Wandavision. That is whack! To do that, she
+
+84
+00:07:51,966 --> 00:07:56,771
+has to walk the witch's road. So she gets some
+of her old witch friends to do this with her
+
+85
+00:07:57,471 --> 00:08:01,876
+and they sing a song. I don't know if this is
+going to be a musical or not. I guess, you
+
+86
+00:08:01,896 --> 00:08:07,120
+know, Wandavision had a lot of... musical elements
+to it and since Agatha all along is kind of
+
+87
+00:08:07,200 --> 00:08:12,425
+a sequel of sorts to WandaVision, maybe it makes
+sense that's why there's music, but it reminded
+
+88
+00:08:12,465 --> 00:08:18,791
+me a lot of the Far Over the Misty Mountains
+Cold song from the first Hobbit movie as Agatha
+
+89
+00:08:18,851 --> 00:08:24,996
+starts singing a song called The Ballad of the
+Witch's Road. All I know is anyone who's looking
+
+90
+00:08:25,036 --> 00:08:32,346
+forward to this but also trashing the Joker
+for being a musical is a hypocrite. Damn! The
+
+91
+00:08:32,406 --> 00:08:37,070
+trailer for Agatha all along does have some
+interesting moments here. We see a witch that
+
+92
+00:08:37,090 --> 00:08:42,154
+looks like the wicked witch of the west from
+the Wizard of Oz. We see some scary moments
+
+93
+00:08:42,235 --> 00:08:49,241
+where like this witch demon chick is like crucified
+on fire. It's kind of freaky looking. I don't
+
+94
+00:08:49,261 --> 00:08:52,724
+know what to make of Aubrey Paz's character.
+She definitely looks to be like the wild card
+
+95
+00:08:52,764 --> 00:08:58,149
+of the group, it seems. It'll definitely make
+for some pretty solid Halloween viewing this
+
+96
+00:08:58,189 --> 00:09:05,031
+spooky season. There was a line though that
+I absolutely despise where Agatha tells, I
+
+97
+00:09:05,091 --> 00:09:10,433
+think, Billy, the Scrawler Witch's son, she
+says, time to finish the road, last one there's
+
+98
+00:09:10,473 --> 00:09:15,614
+a good person. It's so fucking cheesy. Horrible
+delivery, horrible writing. I hope it's not
+
+99
+00:09:15,654 --> 00:09:19,775
+indicative of some of the cheesiness that may
+be to come and it's just kind of a one-off
+
+100
+00:09:19,895 --> 00:09:23,896
+bad joke. Because otherwise, this all looks
+like a lot of fun and I can't wait for it to
+
+101
+00:09:23,936 --> 00:09:28,958
+come out next month on September 18th. It's
+going to be a two-episode premiere. and then
+
+102
+00:09:28,978 --> 00:09:36,380
+they're going to do one episode a week after
+that. Blank, blank! That's so stupid. At D23,
+
+103
+00:09:36,400 --> 00:09:40,581
+Marvel also showed trailers for Captain America
+Brave New World, Fantastic Four First Steps,
+
+104
+00:09:40,741 --> 00:09:45,943
+Daredevil Born Again, and Iron Hearts, but none
+of those trailers were officially released.
+
+105
+00:09:46,283 --> 00:09:50,584
+I'll just kind of do a quick run through of
+some of the exciting things that these trailers
+
+106
+00:09:50,624 --> 00:09:56,003
+showed. On the Captain America Brave New World
+clip, we saw. President Thunderbolt Ross give
+
+107
+00:09:56,103 --> 00:10:02,409
+a speech congratulating Sam for his help in
+acquiring adamantium from the celestial Tiamat
+
+108
+00:10:02,570 --> 00:10:08,335
+which had sprung out of the Indian Ocean in
+the Eternals movie. Oh shit! Those rumors are
+
+109
+00:10:08,375 --> 00:10:10,557
+true. Shut up!
+
+110
+00:10:14,578 --> 00:10:20,519
+There's just a lot of action in that trailer.
+We get some lines from Sarbra, who was formerly
+
+111
+00:10:20,759 --> 00:10:25,221
+an Israeli superhero in the comics, but they're
+making her a former Black Widow in the movie.
+
+112
+00:10:25,701 --> 00:10:30,742
+We've already gotten a look at what the Red
+Hulk looks like in the first trailer for Captain
+
+113
+00:10:30,762 --> 00:10:35,823
+America Brave New World. Sort of. We saw his
+back. In this one, we actually get to see the
+
+114
+00:10:35,883 --> 00:10:40,105
+front of him, Aunt Harrison Ford's face all
+in red, which was really cool. He would have
+
+115
+00:10:40,125 --> 00:10:45,114
+made a really good Hulk back in the day when
+he was younger. It's a great character design.
+
+116
+00:10:45,354 --> 00:10:49,336
+Yeah, it looks a lot like Harrison Ford as much
+as you would want it to look like him while
+
+117
+00:10:49,376 --> 00:10:54,838
+still looking like this raging monster true
+to the comics. So really looking forward to
+
+118
+00:10:54,858 --> 00:10:58,700
+seeing Harrison Ford Hulk out. But one of the
+other really exciting moments we got from this
+
+119
+00:10:58,740 --> 00:11:04,202
+trailer was when President Thunderbolt Ross
+asked Sam Wilson to recreate the Avengers.
+
+120
+00:11:04,722 --> 00:11:09,124
+So it looks like by the end of this movie, we're
+going to have the new Avengers team solidified,
+
+121
+00:11:09,184 --> 00:11:14,682
+perhaps. Or maybe he's going to start his quest
+to form that team. I'd be surprised if we had
+
+122
+00:11:15,082 --> 00:11:19,705
+an actual solidified team by the end of this.
+You might be right. I mean, Sam Wilson did
+
+123
+00:11:19,765 --> 00:11:23,488
+question Thunderbolt Ross. He was like, you
+destroyed the Avengers when you established
+
+124
+00:11:23,508 --> 00:11:29,471
+the Accords. And Thunderbolt Ross is basically
+like, eh, I had a change of heart after the
+
+125
+00:11:29,491 --> 00:11:34,094
+Avengers saved the world during the events of
+Endgame. So I guess that's a believable reason
+
+126
+00:11:34,134 --> 00:11:39,677
+for him to essentially 180 on his position regarding
+superheroes. Of course, this new team of Avengers...
+
+127
+00:11:40,066 --> 00:11:44,689
+seems like it would be under official government
+control, so who knows what's going to happen
+
+128
+00:11:44,869 --> 00:11:50,233
+with the team. There was some more footage released
+that I believe came from Comic-Con, although
+
+129
+00:11:50,273 --> 00:11:55,317
+I think they re-showed it at the D23 event,
+which was kind of a teaser of sorts for the
+
+130
+00:11:55,357 --> 00:12:00,701
+Fantastic Four First Steps movie. There was
+a whole lot of reveals to come out of this
+
+131
+00:12:00,741 --> 00:12:05,925
+footage, but it definitely set the tone, which
+is very much in keeping with this 1960s feel.
+
+132
+00:12:06,546 --> 00:12:11,748
+I can definitely see why Matt Shackman got the
+job after directing WandaVision, because the
+
+133
+00:12:11,769 --> 00:12:16,811
+way everybody acts and looks is very much in
+keeping with how he directed those 60s episodes
+
+134
+00:12:16,971 --> 00:12:22,755
+on WandaVision. Yeah, the cinematography here
+is very, very bright, very clean and very in
+
+135
+00:12:22,795 --> 00:12:29,919
+keeping with this idealistic sci-fi retro 1960s
+design aesthetic that looks really cool to
+
+136
+00:12:29,959 --> 00:12:36,163
+see on screen. Yeah, we see the Fantastic Four
+suit up as astronauts. They go up into space
+
+137
+00:12:36,303 --> 00:12:40,587
+and it's almost like they're part of a documentary
+talking to the camera as like a promotional
+
+138
+00:12:40,627 --> 00:12:44,492
+piece for the general public learning about
+this space mission that they're about to go
+
+139
+00:12:44,592 --> 00:12:49,557
+on. Reed Richards is like, this is my buddy
+Ben. He's the best pilot in the division. And
+
+140
+00:12:49,597 --> 00:12:53,801
+Ben's like, yeah, best looking, which is interesting
+because, you know, it's a joke, but it's ironic
+
+141
+00:12:53,841 --> 00:12:58,638
+that he then turns into the thing who is known
+for being this hideous rock monster. And there's
+
+142
+00:12:58,678 --> 00:13:04,201
+a clip here that shows him as part of a dating
+game show where a female contestant selects
+
+143
+00:13:04,261 --> 00:13:09,644
+him out of the three possible suitors. The clip
+showed the fantasticar and the big reveal at
+
+144
+00:13:09,664 --> 00:13:14,586
+the end was Galactus. He looks exactly like
+he does in the comic books. He's this giant
+
+145
+00:13:14,626 --> 00:13:20,430
+figure. You only really get to see his face,
+but the scale of him is massive, similar to
+
+146
+00:13:20,530 --> 00:13:26,433
+the size of the celestials that we saw in Eternals.
+Yeah, he's like Kaiju size, right? Right. And
+
+147
+00:13:26,453 --> 00:13:31,083
+he's peeking through a window. They did a great
+job of capturing the look and the scale of
+
+148
+00:13:31,103 --> 00:13:37,347
+the character for sure. With the square glowing
+pupils? Yeah, yeah. At D23 they also showed
+
+149
+00:13:37,367 --> 00:13:41,909
+a trailer for Daredevil Born Again which was
+really exciting to see. We got news that the
+
+150
+00:13:41,969 --> 00:13:46,571
+show is going to make its debut on Disney Plus
+this spring. It looks like a direct continuation
+
+151
+00:13:46,632 --> 00:13:51,454
+of the Netflix Daredevil series which is all
+that the fans want, right? But there were some
+
+152
+00:13:51,494 --> 00:13:57,317
+great surprises to be seen in the footage including
+our first look at Hector Alaya as the White
+
+153
+00:13:57,357 --> 00:14:02,556
+Tiger. His costume looked a little bit homegrown
+because it looks like the premise of the show
+
+154
+00:14:02,616 --> 00:14:08,960
+is that Matt represents Hector, who believes
+himself to be a hero and called to fight crime
+
+155
+00:14:08,980 --> 00:14:12,802
+on the streets as a costume vigilante. But we
+also get to see other cool characters like
+
+156
+00:14:12,882 --> 00:14:17,685
+Muse, we see Bullseye, we see the Punisher Maker
+return. That was really cool to see Jon Bernthal
+
+157
+00:14:17,705 --> 00:14:23,088
+returning to the character. There's this great
+diner scene between Matt Murdock and the Kingpin
+
+158
+00:14:23,548 --> 00:14:27,499
+where Matt's telling him like basically, If
+you step out of line, I'm going to be there.
+
+159
+00:14:27,659 --> 00:14:32,643
+And Kingpin, very imposingly, is like, who's
+going to stop me? Matt Murdock or your other
+
+160
+00:14:32,683 --> 00:14:37,067
+half? Yeah, that's probably one of my favorite
+parts of the trailer, too. I saw that and I
+
+161
+00:14:37,087 --> 00:14:43,532
+was like, oh, shit. There was another great
+shot where Daredevil opens up his costume closet.
+
+162
+00:14:43,812 --> 00:14:47,575
+And we see like five different masks of the
+Daredevil costume, including, you know, his
+
+163
+00:14:47,635 --> 00:14:51,979
+yellow mask. There's a white one in there and
+he has like three different variations of red.
+
+164
+00:14:52,439 --> 00:14:59,541
+Yeah, black one. I was like, blank, blank. Just
+stop, right? I know you're the token DC guy
+
+165
+00:14:59,721 --> 00:15:06,908
+in this episode, but you could also try to not
+be annoying. Damn. The last footage we got
+
+166
+00:15:06,948 --> 00:15:14,014
+shown at D23 was from Ironheart, the upcoming
+series for Disney Plus, which looks very different
+
+167
+00:15:14,054 --> 00:15:17,797
+than what I thought it was going to be. I thought
+largely it was going to be more like the comics
+
+168
+00:15:17,837 --> 00:15:24,422
+where we see Riri at MIT building this new suit
+of armor. But. we learn early on in the trailer
+
+169
+00:15:24,502 --> 00:15:29,924
+that she actually gets kicked out of MIT for
+skipping classes and just using the campus
+
+170
+00:15:29,944 --> 00:15:36,285
+for its facilities to rebuild the armor that
+she had already constructed in Wakanda in the
+
+171
+00:15:36,325 --> 00:15:40,987
+Black Panther Wakanda Forever movie. Because
+Shuri didn't let Riri take the suit with her
+
+172
+00:15:41,047 --> 00:15:45,708
+at the end of that film. So she's basically
+back to square one trying to recreate that
+
+173
+00:15:46,048 --> 00:15:53,162
+she gets kicked out of MIT and she ends up partnering
+with a gang led by the Hood to steal resources
+
+174
+00:15:53,382 --> 00:15:59,527
+and money to recreate her suit. So, it all felt
+very much like set it off. I don't know if
+
+175
+00:15:59,567 --> 00:16:04,230
+our listeners remember that movie from the 90s
+with Queen Latifah and like Jada Pinkett where
+
+176
+00:16:04,510 --> 00:16:09,234
+a group of girls essentially become bank robbers.
+This is very much in that vein, which is something
+
+177
+00:16:09,274 --> 00:16:13,097
+that I wasn't expecting. I didn't know that
+it was going to be like a redemptive arc for
+
+178
+00:16:13,177 --> 00:16:17,800
+Riri Williams, but it's an interesting take
+for sure. The hood looks pretty cool. There's
+
+179
+00:16:17,840 --> 00:16:21,966
+definitely a supernatural element going on there.
+and the rumor is that Mephisto is going to
+
+180
+00:16:22,026 --> 00:16:27,268
+appear in Ironheart, so it'll be interesting
+to see how that supernatural aspect plays into
+
+181
+00:16:27,708 --> 00:16:32,609
+this more sci-fi tech angle with the Iron Man
+suit. Yeah, in my opinion, the hood looked
+
+182
+00:16:32,649 --> 00:16:38,151
+like the most interesting thing in this trailer.
+Anthony Ramos, I think, gave off the most charisma,
+
+183
+00:16:38,431 --> 00:16:42,312
+probably even more so than the lead Dominique
+Thorne, though, you know, she looks like she'll
+
+184
+00:16:42,332 --> 00:16:46,313
+do a good job as well. I have to say, I wasn't
+looking forward to this, but the trailer definitely
+
+185
+00:16:46,573 --> 00:16:51,267
+has me intrigued. For sure. Yeah, me too. I
+wasn't a big fan of Dominique Thorne in the
+
+186
+00:16:51,327 --> 00:16:56,652
+Black Panther Wakanda Forever movie, but she
+impressed me more in this trailer. So yeah,
+
+187
+00:16:56,692 --> 00:17:00,755
+definitely looking forward to it. Based on all
+of this footage that we got from D23, I do
+
+188
+00:17:00,775 --> 00:17:06,099
+have to say that it looks like Marvel Studios
+is absolutely stepping up their cinematography
+
+189
+00:17:06,139 --> 00:17:10,763
+for their television series. That's a great
+take. Yeah, for sure. I noticed that too. But
+
+190
+00:17:10,803 --> 00:17:16,808
+speaking about all the projects coming out for
+Marvel that were previewed at D23, that brings
+
+191
+00:17:16,848 --> 00:17:18,069
+us to our question of the week.
+
+192
+00:17:22,562 --> 00:17:28,503
+Which upcoming Marvel Studios film or show are
+you most looking forward to and why? Record
+
+193
+00:17:28,523 --> 00:17:32,484
+your answer at dynamicduel.com by clicking on
+the red microphone button in the bottom right
+
+194
+00:17:32,524 --> 00:17:36,526
+hand corner of the screen, which will prompt
+you to leave us a voicemail. Your message could
+
+195
+00:17:36,546 --> 00:17:40,407
+be up to 30 seconds long, and don't forget to
+leave your name in case we include you on the
+
+196
+00:17:40,427 --> 00:17:45,248
+podcast. We'll pick our favorite answer and
+award that person a Dynamic Duel No Prize that
+
+197
+00:17:45,288 --> 00:17:51,722
+we'll post to Instagram. Be sure to answer before
+August 17th. And our last bit of Marvel news,
+
+198
+00:17:51,822 --> 00:17:57,145
+just a short quick headline. Deadpool and Wolverine
+has surpassed one billion dollars at the worldwide
+
+199
+00:17:57,206 --> 00:18:02,949
+box office. It's no surprise, I think, to anybody
+who's seen the film. It is a very fun movie
+
+200
+00:18:02,969 --> 00:18:08,472
+that you can listen to our review from a few
+episodes ago. But I think the reason this news
+
+201
+00:18:08,512 --> 00:18:13,235
+is so important is because a lot of people were
+kind of down and out on the superhero genre
+
+202
+00:18:13,275 --> 00:18:18,386
+as a whole. You know, you heard a lot to talk
+about superhero fatigue from people and. I
+
+203
+00:18:18,406 --> 00:18:22,968
+don't want to say that superhero fatigue is
+over and done with, but it's clear that people
+
+204
+00:18:23,008 --> 00:18:29,172
+are still excited to see quality superhero movies.
+Now the first two films did not reach a billion,
+
+205
+00:18:29,192 --> 00:18:34,256
+is that correct? But they got close? Correct.
+Okay, yeah, that's huge for a rated R film.
+
+206
+00:18:34,316 --> 00:18:39,279
+I think the Joker is still the highest grossing
+rated R film of all time. We'll see if Deadpool
+
+207
+00:18:39,299 --> 00:18:44,430
+and Wolverine can top that. Honestly, I would
+be surprised if it didn't. Oh, it will. and
+
+208
+00:18:44,570 --> 00:18:49,692
+super proud of Marvel for bringing the box office
+in general out of its slump and for bringing
+
+209
+00:18:49,772 --> 00:18:53,473
+audiences back to the superhero genre. Because
+we all know that DC wasn't going to be able
+
+210
+00:18:53,513 --> 00:18:58,816
+to do it. I'm sorry, what? You heard me. Nobody
+goes to see DC films. Just wait a couple of
+
+211
+00:18:58,836 --> 00:19:04,778
+months, OK? Joker 1 made a billion dollars.
+Joker, Vali-Adu could easily make a billion
+
+212
+00:19:04,818 --> 00:19:09,080
+dollars as well. That would actually be fantastic,
+because then the studios will see that, you
+
+213
+00:19:09,100 --> 00:19:15,399
+know, these movies are worth continuing. They'll
+all be doing this till they're 90. That's right.
+
+214
+00:19:22,094 --> 00:19:25,616
+But I think that does it for all the news for
+this episode, so let's go ahead and get into
+
+215
+00:19:25,656 --> 00:19:32,341
+our main event, where we review the Marvel Television
+Hulu Original Series, Hitmonkey Season 2.
+
+216
+00:19:47,958 --> 00:19:54,501
+Hit Monkey Season 2 is a 20th century production
+on Hulu created by Josh Gordon and Will Speck
+
+217
+00:19:54,681 --> 00:20:00,745
+and directed by Kevin Mellon. It stars Fred
+Tataskior, Jason Sudeikis, Leslie Jones, Kristen
+
+218
+00:20:00,805 --> 00:20:07,028
+Milioti and Nat Faxon. Season 1 was a surprise
+hit for us, I think both of our expectations
+
+219
+00:20:07,048 --> 00:20:14,172
+were surpassed. We rated Season 1 4 stars, calling
+it cool, funny, violent, heartfelt and surprisingly
+
+220
+00:20:14,212 --> 00:20:19,683
+complex despite its high concept premise. And
+we weren't alone in being impressed by the
+
+221
+00:20:19,703 --> 00:20:24,845
+show because it got a season two. And I think
+season two wraps up all those qualities, except
+
+222
+00:20:24,865 --> 00:20:29,967
+for maybe the comedy, because the season wasn't
+very funny. But I think it was even more violent
+
+223
+00:20:30,167 --> 00:20:34,569
+and more emotionally complex. Because I don't
+know about you, Jonathan, but I felt fucking
+
+224
+00:20:34,609 --> 00:20:39,911
+devastated after a few of these episodes. And
+by the time the season ended, I was kind of
+
+225
+00:20:39,951 --> 00:20:44,433
+emotionally wrecked. The way the season ended
+kind of stuck with me a few days after watching
+
+226
+00:20:44,493 --> 00:20:49,511
+it. Yeah, the way the season concluded was definitely
+gut-wrenching. But I would disagree with you
+
+227
+00:20:49,531 --> 00:20:54,652
+in saying that it was not very funny. I thought
+it was actually very funny. Maybe not as funny
+
+228
+00:20:54,873 --> 00:21:00,134
+as season one, but I was laughing pretty much
+the whole time. I guess I should bring up our
+
+229
+00:21:00,214 --> 00:21:05,736
+spoiler warning. If you haven't watched Hitmonkey
+seasons one or two, listen no further. Go watch
+
+230
+00:21:05,756 --> 00:21:10,297
+the show as long as you're of a mature age and
+you don't have a weak stomach for strong violence
+
+231
+00:21:10,317 --> 00:21:16,540
+and heavy themes. I liken Hitmonkey Season 2's
+violence to the invincible animated series
+
+232
+00:21:16,580 --> 00:21:20,762
+on Amazon, even though I've only seen Season
+1 of that show. But things got really gross
+
+233
+00:21:20,842 --> 00:21:26,044
+and graphic this season. Like, Season 1 was
+pretty violent, but I think the biggest standout
+
+234
+00:21:26,325 --> 00:21:31,527
+holy shit death from that season was the old
+gun supplier woman in the fish warehouse who
+
+235
+00:21:31,587 --> 00:21:36,309
+fell on the conveyor belt and then got sawed
+in half. Do you remember that? Yes, yeah. Like...
+
+236
+00:21:36,502 --> 00:21:41,444
+The shock value of that kill felt pretty tame
+compared to some of the shit that went down
+
+237
+00:21:41,524 --> 00:21:46,326
+this season. Like, this season you had people
+sliced down the middle, ripped apart, hung
+
+238
+00:21:46,386 --> 00:21:51,388
+on meat hooks and burned, flattened by slow
+moving vehicles, dissolved, heads were sawed
+
+239
+00:21:51,488 --> 00:21:57,810
+off, bodies exploded. It was insanity. Like,
+over time that amount of gore does have a numbing
+
+240
+00:21:57,850 --> 00:22:02,892
+effect. Well, it was like body horror in a way,
+especially with the trees and stuff like that.
+
+241
+00:22:03,012 --> 00:22:08,667
+Mm-hmm. The violence had a unique horror. to
+it, especially towards the end. Yeah, but what
+
+242
+00:22:08,708 --> 00:22:13,611
+disturbed me more than the violence were the
+emotional challenging moments this season such
+
+243
+00:22:13,671 --> 00:22:19,395
+as Haruka's death, Akiko's backstory, the Shepard's
+suicide, and Hitmonkey's sacrifice at the end.
+
+244
+00:22:19,975 --> 00:22:24,418
+Just like the series shows no mercy with the
+violence, it showed no mercy with my heart.
+
+245
+00:22:24,859 --> 00:22:29,262
+Which time after time in the latter half of
+the season just sank into my stomach. It was
+
+246
+00:22:29,322 --> 00:22:35,150
+tragedy after tragedy after tragedy right up
+until the very last shot of the season. They're
+
+247
+00:22:35,170 --> 00:22:40,433
+well-earned moments, but it's a dark show. By
+far Marvel's darkest project that they could
+
+248
+00:22:40,554 --> 00:22:45,777
+conceivably ever produce, which is one of the
+reasons why I think this season was moved to
+
+249
+00:22:45,837 --> 00:22:50,701
+20th century television, from Marvel television,
+maybe. And interestingly, none of the other
+
+250
+00:22:50,741 --> 00:22:55,624
+Marvel characters from the comics, to my knowledge,
+were in this season. Like the Alderman or the
+
+251
+00:22:55,644 --> 00:22:59,727
+co-op members, those weren't characters from
+the comics, they were original here. The only
+
+252
+00:22:59,787 --> 00:23:04,682
+other Marvel character here was Lady Bullseye,
+carrying over from season one. Really? I was
+
+253
+00:23:04,702 --> 00:23:08,143
+going to ask you about that because I figured
+that all of these characters were from the
+
+254
+00:23:08,163 --> 00:23:12,545
+comics and I was like, are these, you know,
+a Marvel version of the Suicide Squad in a
+
+255
+00:23:12,565 --> 00:23:16,527
+way? Because that's what I was thinking as I
+was watching it. But I'm surprised to hear
+
+256
+00:23:16,567 --> 00:23:21,409
+that all of them are original. That's wow. Yeah,
+the show's kind of like separating itself from
+
+257
+00:23:21,449 --> 00:23:26,851
+the larger Marvel brand, it feels like even
+though the show is branded as Marvel. But if
+
+258
+00:23:26,871 --> 00:23:30,832
+you guys are interested in the comic book character
+of Hitmonkey, you should definitely check out
+
+259
+00:23:30,912 --> 00:23:35,767
+our Gleek versus Hitmonkey duel episode. The
+character in the comics has oftentimes gone
+
+260
+00:23:35,787 --> 00:23:40,609
+down a comedic route because the premise is
+comedic, especially in the Deadpool comics
+
+261
+00:23:40,629 --> 00:23:46,252
+and stuff like that where we see Monkey try
+to kill Wade. But the show rightfully ignores
+
+262
+00:23:46,292 --> 00:23:52,135
+the more silly elements of the character and
+kind of goes all in on its serious approach.
+
+263
+00:23:52,355 --> 00:23:56,737
+Does it? I don't know if I agree with that.
+I think the show gets pretty absurd with all
+
+264
+00:23:56,777 --> 00:24:00,895
+of its characters. I mean, they throw jokes
+around here and there. The heaviness of the
+
+265
+00:24:00,915 --> 00:24:05,577
+violence and the darkness are only slightly
+offset by the fact that we're watching a show
+
+266
+00:24:05,617 --> 00:24:10,299
+about a Japanese macaque wearing a black suit
+and sunglasses. I think a better balance of
+
+267
+00:24:10,339 --> 00:24:13,920
+comedy and tragedy could have been struck if
+the jokes had been better. Like, I think a
+
+268
+00:24:13,980 --> 00:24:18,242
+lot of the lines here could and should have
+probably been workshopped. Which is especially
+
+269
+00:24:18,282 --> 00:24:21,504
+surprising since you have some comedic geniuses
+on the show like Jason
+
+270
+00:24:25,942 --> 00:24:31,766
+Like, I wonder how they were OK with making
+lame and even dated jokes about Greek yogurt,
+
+271
+00:24:32,006 --> 00:24:37,450
+Annie Lennox is walking on broken glass or being
+a duo like Pamela Anderson in that red swimsuit.
+
+272
+00:24:37,710 --> 00:24:43,434
+Like, I have no idea. I still chuckled at those
+bits. I don't know. I didn't think it was terribly
+
+273
+00:24:43,474 --> 00:24:47,657
+unfunny. I did think it was interesting that
+Jason Sudeikis was a consulting producer on
+
+274
+00:24:47,697 --> 00:24:51,820
+this show apparently according to the credits.
+I wonder how much of that had to do with his
+
+275
+00:24:51,860 --> 00:24:56,203
+line specifically. Yeah, he got the top credit.
+at the end of every episode, which I thought
+
+276
+00:24:56,223 --> 00:25:00,587
+was pretty neat. But yeah, I think this season
+could have been even more palatable with better
+
+277
+00:25:00,667 --> 00:25:06,593
+jokes. But another reason that I think that
+season two felt much more visceral than season
+
+278
+00:25:06,813 --> 00:25:10,777
+one was due to the fact that the animation was
+better. Like one of our biggest complaints
+
+279
+00:25:10,797 --> 00:25:16,482
+about season one was that the animation felt
+largely like a step up from storyboards with
+
+280
+00:25:16,603 --> 00:25:22,782
+low frame rates, sometimes even missing action
+scenes. And that was likely due to Marvel television's
+
+281
+00:25:22,822 --> 00:25:27,144
+transition under the Marvel Studios umbrella
+in the middle of production, which was something
+
+282
+00:25:27,184 --> 00:25:33,005
+that cancelled a lot of Marvel's planned shows
+except for Modoc and Hitmonkey. But you could
+
+283
+00:25:33,025 --> 00:25:37,246
+tell the animators didn't have any such obstacle
+with season 2 because the frame rate was better,
+
+284
+00:25:37,466 --> 00:25:42,168
+you know, you had more subtle facial and body
+motions that helped sell the characters' emotional
+
+285
+00:25:42,228 --> 00:25:47,349
+states, and you had beautifully rendered environments,
+like a lot of them were computer-generated
+
+286
+00:25:47,389 --> 00:25:52,240
+environments. It was really nice to see the
+animators be able to execute more fully on
+
+287
+00:25:52,260 --> 00:25:56,883
+their vision this go around. Yeah, I don't remember
+hating the animation of season one. I actually
+
+288
+00:25:56,903 --> 00:26:01,706
+kind of liked the low budget quality because
+it made it feel like Grindhouse. But I also
+
+289
+00:26:01,927 --> 00:26:07,630
+really enjoyed the animation for this season.
+Honestly, it got me kind of jealous how good
+
+290
+00:26:07,751 --> 00:26:12,033
+the animation was, especially coming off of
+something like My Adventures with Superman,
+
+291
+00:26:12,194 --> 00:26:17,617
+which doesn't have bad animation. But when you
+compare to the quality of Hit Monkey, you could
+
+292
+00:26:17,657 --> 00:26:23,535
+definitely tell that the artists spent much
+more time with this. I think my adventures
+
+293
+00:26:23,555 --> 00:26:27,779
+with Superman has fine animation. I would be
+more embarrassed about the tomorrow verse,
+
+294
+00:26:27,899 --> 00:26:33,043
+though. Oh, yeah, especially that. I wasn't
+even thinking about that because I was trying
+
+295
+00:26:33,064 --> 00:26:38,768
+to block it. But yeah, I would agree. I thought
+another improvement over season 1 was the music.
+
+296
+00:26:38,788 --> 00:26:42,231
+And I'm not talking about the original score
+because that's always been incredible, but
+
+297
+00:26:42,291 --> 00:26:47,275
+season 2 featured a lot more licensed music
+with some phenomenal choices like Bed of Nails
+
+298
+00:26:47,395 --> 00:26:53,821
+by Patrick Austin, What You Came For by Wallio,
+True Killer by The Sneaks, and one in particular
+
+299
+00:26:53,841 --> 00:26:59,406
+that really stuck with me was the beautifully
+haunting Japanese song from the end of episode
+
+300
+00:26:59,446 --> 00:27:05,478
+7 when Haruka died called Good Morning by an
+artist named Yuki. And I have to give a shout
+
+301
+00:27:05,498 --> 00:27:09,101
+out to Reddit for coming through on that one
+because that was a really hard song to find.
+
+302
+00:27:09,621 --> 00:27:15,886
+And I thought it perfectly captured the devastating
+emotions I was feeling when that episode came
+
+303
+00:27:15,926 --> 00:27:20,829
+to a close. And I listen to it now and it still
+makes me sad. So whoever picked the music for
+
+304
+00:27:20,869 --> 00:27:25,653
+the season did fantastic. Yes, the soundtrack
+was amazing. I was like, who put this together?
+
+305
+00:27:25,793 --> 00:27:31,117
+Quentin Tarantino? Because it is perfection.
+Like, I'm going to need that list of songs
+
+306
+00:27:31,137 --> 00:27:35,368
+that you have. I have a Spotify link I can send
+to you, and I'll probably post it in the show
+
+307
+00:27:35,388 --> 00:27:40,130
+notes if people are curious. Nice, yes please,
+do that. Let's go ahead and move into the character
+
+308
+00:27:40,150 --> 00:27:45,894
+breakdown, starting with Hitmonkey who is voiced
+by Fred Tataskior. Just like season 1, I'm
+
+309
+00:27:45,994 --> 00:27:51,497
+surprised Hitmonkey was not voiced by an actual
+monkey, because Fred Tataskior is a genius
+
+310
+00:27:51,657 --> 00:27:56,380
+voice actor who has also done the voice of the
+Hulk, he does the voice of Devil Dinosaur in
+
+311
+00:27:56,420 --> 00:28:02,052
+Moongirl and Devil Dinosaur on Disney+. He is
+the best voice actor with animalistic sounds.
+
+312
+00:28:02,612 --> 00:28:07,335
+Yeah, I loved the noises that Hitmonkey made
+and it was like a good juxtaposition for how
+
+313
+00:28:07,395 --> 00:28:12,938
+crass Bryce was. Yeah, and there was real emotion
+behind his sounds too. Like you don't really
+
+314
+00:28:13,058 --> 00:28:17,201
+need subtitles for the Hitmonkey character,
+although we did get them in one scene. But
+
+315
+00:28:17,261 --> 00:28:22,204
+other than that, you know exactly what he's
+saying. Exactly, yeah. Now Hitmonkey's arc
+
+316
+00:28:22,384 --> 00:28:28,620
+was difficult and tragic this season. Carrying
+over from season 1, he was a skilled assassin
+
+317
+00:28:28,740 --> 00:28:33,523
+who never wanted to kill, but always found himself
+in situations where he must, like some kind
+
+318
+00:28:33,563 --> 00:28:39,087
+of cruel fate. At the start of this season,
+he's lost, unhappy, and feels like the killing
+
+319
+00:28:39,127 --> 00:28:44,451
+is taking a psychological toll on him. And what
+he really longs for is a family who can relate
+
+320
+00:28:44,471 --> 00:28:49,514
+to what he's going through, and he finds that
+in the assassin's cooperative. He strives to
+
+321
+00:28:49,554 --> 00:28:54,998
+be one of them, drawn to their family dynamic
+and their goal of ending violence. and he relates
+
+322
+00:28:55,018 --> 00:29:02,084
+to Boon and his values. And by showing Hitmonkey
+his origin as a lab experiment, Boon convinces
+
+323
+00:29:02,124 --> 00:29:07,808
+Hitmonkey that he's been cursed by mankind's
+wickedness, and that humanity has always been
+
+324
+00:29:08,109 --> 00:29:13,693
+only about death. And it shakes Hitmonkey to
+the core, especially seeing how his actions
+
+325
+00:29:13,833 --> 00:29:19,578
+affected the person he cared the most about,
+Akiko, who transformed herself into Lady Bullseye.
+
+326
+00:29:20,038 --> 00:29:26,234
+In the very end, it seemed like he gave into
+his despair. thinking about his so-called curse
+
+327
+00:29:26,434 --> 00:29:33,757
+as he sacrificed himself to kill her. It was
+a heroic final action rooted in misery and
+
+328
+00:29:33,937 --> 00:29:39,339
+even when he came back as a ghost tethered to
+Bryce, he didn't look happy. And I think that
+
+329
+00:29:39,359 --> 00:29:44,821
+was the real tragedy that stuck with me. And
+I'm really looking forward to seeing what they
+
+330
+00:29:44,921 --> 00:29:50,196
+do with Hitmonkey if there is a season 3. Oh,
+good gosh, please let there be a season three.
+
+331
+00:29:50,216 --> 00:29:54,621
+I mean, you can't end it with that shot. That
+would be just so tragic. Yeah, I hope that
+
+332
+00:29:54,661 --> 00:29:58,945
+this show really finds its audience in the same
+way that season one did and that they announce
+
+333
+00:29:58,985 --> 00:30:04,591
+a season three for Hitmonkey because it needs
+to happen for sure. I did think the revelation
+
+334
+00:30:04,792 --> 00:30:10,806
+that he was an experimental monkey kind of came
+out of nowhere in a way for this show. Yeah,
+
+335
+00:30:10,826 --> 00:30:16,510
+that was something not from the comics. In the
+comics, he was just this really astute monkey
+
+336
+00:30:16,530 --> 00:30:21,473
+who was able to pick up the assassin's killing
+methods really easily. But here it was almost
+
+337
+00:30:21,493 --> 00:30:27,157
+like they gave him some kind of genetic enhancement
+superpower or something like that. Right. Yeah,
+
+338
+00:30:27,298 --> 00:30:31,821
+I didn't care for it. And I think it came a
+little bit too late. Maybe if it had come earlier
+
+339
+00:30:31,901 --> 00:30:36,464
+or maybe even in the first season, it would
+have been more palatable. But I didn't know
+
+340
+00:30:36,484 --> 00:30:41,563
+if I needed that twist here. Yeah, it did come
+late so they weren't really able to explore
+
+341
+00:30:41,723 --> 00:30:46,546
+that origin, which is again why we need a season
+3. Yeah, for sure. Let's go ahead and move
+
+342
+00:30:46,606 --> 00:30:52,430
+on to Bryce Fowler, who was voiced by Jason
+Sudeikis. I was a little mixed on Bryce this
+
+343
+00:30:52,450 --> 00:30:58,474
+season because the guy is never consistent,
+whether it be his humor or his motivations.
+
+344
+00:30:58,514 --> 00:31:03,757
+At times it seems like he's this plucky, wisecracking
+badass. At other times he's this depressed,
+
+345
+00:31:03,857 --> 00:31:10,078
+selfish asshole. And while I'd like to say that
+just makes him a multifaceted character, what
+
+346
+00:31:10,118 --> 00:31:15,562
+I really want is to just see Bryce pick a lane,
+I guess. Well, he has to exist in multiple
+
+347
+00:31:15,582 --> 00:31:20,967
+lanes in a way because Monkey can't really.
+You know, in a way, Bryce is the main character
+
+348
+00:31:21,007 --> 00:31:26,611
+of the show. Yeah, and you know, we may see
+him kind of pick a lane in this season as he
+
+349
+00:31:26,652 --> 00:31:31,095
+deals with the guilt over the fact that the
+devil claimed Hitmonkey's soul due to his own
+
+350
+00:31:31,215 --> 00:31:35,639
+selfish deals to get out of hell. Again, I hope
+we... get to see the fallout of that in season
+
+351
+00:31:35,659 --> 00:31:41,802
+3. The culmination of Bryce's character growth
+ever since season 1 came at the end of this
+
+352
+00:31:41,822 --> 00:31:47,105
+season when he tried to console Hitmonkey about
+his lost family in the co-op, telling him that
+
+353
+00:31:47,245 --> 00:31:53,148
+Boon was wrong and that humanity isn't all about
+death, it's about living. And right after that
+
+354
+00:31:53,188 --> 00:31:59,272
+he used himself as a human shield to save his
+daughter Iris from Akiko, knowing that turning
+
+355
+00:31:59,292 --> 00:32:04,783
+corporeal would doom him to hell for all eternity.
+And this was on top of this season long arc
+
+356
+00:32:04,903 --> 00:32:09,625
+where he tried to get to know Iris, at first
+trying to buy her off, and then apologizing
+
+357
+00:32:09,665 --> 00:32:14,407
+and bonding with her, helping her find herself
+in this crazy mercenary world he was involved
+
+358
+00:32:14,467 --> 00:32:20,230
+in, and then actually forming a truly caring
+relationship by the end. In a way, both Bryce
+
+359
+00:32:20,370 --> 00:32:25,212
+and Hitmonkey's stories are all about finding
+their family. The only difference is that Bryce
+
+360
+00:32:25,292 --> 00:32:31,226
+found his this season, whereas Hitmonkey tragically
+did not. Well, Hitmonkey took responsibility
+
+361
+00:32:31,426 --> 00:32:36,988
+in a way for destroying his family from season
+one. I really liked Bryce this season. I really
+
+362
+00:32:37,028 --> 00:32:42,529
+liked him last season as well. Yeah, the character
+is inconsistent, but I loved what they did
+
+363
+00:32:42,549 --> 00:32:47,771
+with him here, how he could go in and out of
+his corporeal form with that timer on his hand.
+
+364
+00:32:48,031 --> 00:32:53,633
+It was a great gimmick that I thought they used
+to really good effect in this season. I liked
+
+365
+00:32:53,673 --> 00:32:59,660
+his telekinesis abilities this season. It makes
+you think that DC should make Deadman even
+
+366
+00:32:59,700 --> 00:33:05,503
+cooler by giving him telekinesis. Yeah, just
+make him like more able to affect the physical
+
+367
+00:33:05,543 --> 00:33:11,827
+world in a way. Yeah, that would be cool. Let's
+go to move on to Officer Haruka, who was voiced
+
+368
+00:33:11,867 --> 00:33:16,870
+by Ali Mackie, who gives a great performance
+again. Her character's always the most morally
+
+369
+00:33:16,970 --> 00:33:22,734
+good character in the show, serving as a beacon
+to kind of guide Hitmonkey and Bryce. And because
+
+370
+00:33:22,754 --> 00:33:27,375
+of that, it was pretty interesting this season
+that Haruka's journey involved her being tempted
+
+371
+00:33:27,415 --> 00:33:32,937
+by the power of evil through the Bonsai Master
+Sword. And she gave into temptation a few times,
+
+372
+00:33:33,517 --> 00:33:39,480
+ultimately though choosing to reject it and
+thereby dying at the hands of her friend rather
+
+373
+00:33:39,520 --> 00:33:44,421
+than the other way around. Super sad. But it
+was neat that her character drove a lot of
+
+374
+00:33:44,441 --> 00:33:48,785
+the plot. this time around. You know, she first
+introduced the alderman sword to Hitmonkey
+
+375
+00:33:48,805 --> 00:33:53,889
+and Bryce, and then she was the one that discovered
+the truth about the co-op and decided to steal
+
+376
+00:33:53,909 --> 00:33:59,654
+back the sword. She really was a great character
+with tremendous buildup over the two seasons,
+
+377
+00:33:59,754 --> 00:34:06,559
+which is definitely what made her death so tragic
+and the emotion around it so earned. Oh yeah,
+
+378
+00:34:06,880 --> 00:34:11,523
+and especially how she was talking about going
+back to her father's fishing village and retiring
+
+379
+00:34:11,543 --> 00:34:18,120
+there only to be buried at sea. Poetry, it was
+poetry. That whole scene I was like, oh, okay,
+
+380
+00:34:18,280 --> 00:34:22,624
+someone's gonna die here. I didn't actually
+think it was gonna be Haruka. So yeah, it was
+
+381
+00:34:22,644 --> 00:34:27,888
+definitely surprising when it was. Speaking
+of that, let's move on to Akiko Yokohama voiced
+
+382
+00:34:27,908 --> 00:34:33,472
+by Olivia Munn. Holy shit, man. I take back
+everything I said from our season one review
+
+383
+00:34:33,673 --> 00:34:38,436
+about how it didn't make sense for Akiko to
+become Lady Bullseye and how they ruined her
+
+384
+00:34:38,556 --> 00:34:43,772
+arc when she put on the mask. Here she admits
+that she took on the lady bullseye mantle because
+
+385
+00:34:43,792 --> 00:34:47,836
+she didn't think she could be strong or vicious
+enough on her own, which was totally valid
+
+386
+00:34:47,896 --> 00:34:53,080
+reasoning. I was like, okay, that makes sense.
+From season one, we saw her as a speechwriter
+
+387
+00:34:53,140 --> 00:34:58,525
+for her uncle's campaign back in Tokyo and she
+served as the surrogate family for Hitmonkey.
+
+388
+00:34:59,005 --> 00:35:03,709
+But what we didn't see was this whole devastating
+backstory involving the loss of her family
+
+389
+00:35:03,929 --> 00:35:08,713
+and being bullied and committed to a sanitarium.
+That whole scene was really fucking heavy.
+
+390
+00:35:09,206 --> 00:35:14,148
+And the animation for that sequence was just
+heart-wrenching. Like when she cried out in
+
+391
+00:35:14,168 --> 00:35:19,550
+the sanitarium and her sadness was depicted
+as layers and layers of grief within herself,
+
+392
+00:35:19,910 --> 00:35:25,613
+it was just a really effective moment at showing
+how broken and devastated she is deep down.
+
+393
+00:35:26,093 --> 00:35:31,035
+And it was in that emotional flashback where
+you really sympathized with her, with what
+
+394
+00:35:31,075 --> 00:35:35,237
+she had gone through. But the thing is they
+followed that immediately with a scene of her
+
+395
+00:35:35,337 --> 00:35:41,316
+sawing a dude's head off in a bathtub. And the
+contrast of those two scenes made it one of
+
+396
+00:35:41,336 --> 00:35:46,200
+the most challenging moments for me to process
+in this season. It was like the floor just
+
+397
+00:35:46,240 --> 00:35:52,404
+dropped out from under me and it completely
+sold Akiko's complexity and her personal transformation
+
+398
+00:35:52,524 --> 00:35:56,427
+into Lady Bullseye. So yeah, I take back everything
+I said. I thought this whole thing was brilliant
+
+399
+00:35:56,627 --> 00:36:02,131
+with Akiko. Absolutely. It was also interesting
+to see how Lady Bullseye as a ghost was tied
+
+400
+00:36:02,171 --> 00:36:09,015
+to Akiko and served as her mentor. Yeah. leading
+her toward her most violent tendencies. But
+
+401
+00:36:09,175 --> 00:36:15,098
+even then, Akiko fucking killed Lady Bullseye's
+ghost right after killing Karuka, so she just
+
+402
+00:36:15,138 --> 00:36:20,200
+went off the deep end and was really beyond
+redemption as much as Hitmonkey would have
+
+403
+00:36:20,220 --> 00:36:25,523
+wished otherwise. Yeah, I would agree. I just
+think it was interesting how she was sort of
+
+404
+00:36:25,743 --> 00:36:31,202
+like Hitmonkey in a way. The fact that she had
+this ghost spirit who followed her. And it
+
+405
+00:36:31,222 --> 00:36:35,984
+was this somewhat peaceful character who became
+very violent. She just kind of went the other
+
+406
+00:36:36,024 --> 00:36:40,527
+direction with it. Right. There's parallels
+there. The last character I want to talk about
+
+407
+00:36:40,807 --> 00:36:45,689
+is Boon, who was the leader of the co-op and
+the main villain for the season, who was voiced
+
+408
+00:36:45,729 --> 00:36:52,413
+by Nat Faxon. I did not recognize Nat Faxon's
+voice. It was so hilarious and how douchey
+
+409
+00:36:52,453 --> 00:36:56,956
+it was. And I think it was pretty clear from
+the get go that Boon was just too douchey to
+
+410
+00:36:57,036 --> 00:37:02,254
+stay good. It was probably pretty obvious that
+he was going to turn evil. But Boon's genocidal
+
+411
+00:37:02,295 --> 00:37:06,658
+twist was, I think, a welcome one. If only that
+it meant that you'd see him meet his end by
+
+412
+00:37:06,678 --> 00:37:11,722
+the hands of Hitmonkey. Yeah, I'm like even
+more impressed now that you tell me that these
+
+413
+00:37:11,762 --> 00:37:17,306
+characters were original because the show writers
+had to have a pretty great imagination for
+
+414
+00:37:17,346 --> 00:37:22,710
+coming up with some of these characters like
+Boon and the other members of the Assassin's
+
+415
+00:37:22,730 --> 00:37:29,398
+Co-op. Like freaking boy band super villains?
+Hilarious. Totally out of left field, but adds
+
+416
+00:37:29,498 --> 00:37:34,740
+unique depth to this character, right? Yeah.
+You know, despite Boon's extreme methods by
+
+417
+00:37:34,780 --> 00:37:40,141
+the end, the way he described his dream of a
+perfect utopia, one without violence, full
+
+418
+00:37:40,161 --> 00:37:45,803
+of plants and animals, like an Eden for the
+group, his philosophical words were enticing
+
+419
+00:37:45,843 --> 00:37:50,544
+enough to put Hitmonkey under his spell for
+a time. You know, he made Hitmonkey question
+
+420
+00:37:50,705 --> 00:37:55,919
+everything, from his friendships to the nature
+of humanity. he manipulated him like some kind
+
+421
+00:37:55,939 --> 00:38:01,222
+of charismatic cult leader, even without using
+his powers of telepathy and mind control. And
+
+422
+00:38:01,262 --> 00:38:07,747
+in my book, that made him a fucking solid villain.
+Oh yeah, no question. He was a great villain.
+
+423
+00:38:08,247 --> 00:38:13,511
+Some of the best villains are sympathetic or
+you understand the reasoning behind what they're
+
+424
+00:38:13,551 --> 00:38:17,734
+doing. And Boon was definitely one of those
+characters. Like who doesn't want to get rid
+
+425
+00:38:17,794 --> 00:38:22,077
+of evil in the world? Although you would think,
+you know, if he could control minds, if his
+
+426
+00:38:22,117 --> 00:38:27,512
+power was telepathy, Wouldn't he be a little
+bit more capable in getting the alderman to
+
+427
+00:38:27,552 --> 00:38:31,695
+give him the relics? That was something I was
+wondering. Yeah, it's very true. All he really
+
+428
+00:38:31,735 --> 00:38:37,119
+had to do was encounter them to control them.
+Like especially with the third eye guy, like
+
+429
+00:38:37,499 --> 00:38:42,683
+why did they have a history of difficulty with
+him? Or with the shepherd or the call or any
+
+430
+00:38:42,723 --> 00:38:45,965
+of them. Any one of them could have been mind
+controlled because none of them really had
+
+431
+00:38:46,165 --> 00:38:51,048
+psychic powers. Or a defense against psychic
+powers. Right. That was just one of the very
+
+432
+00:38:51,068 --> 00:38:53,587
+few plot holes I spotted throughout the course
+of the show.
+
+433
+00:39:01,134 --> 00:39:06,800
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+434
+00:39:06,820 --> 00:39:12,546
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+435
+00:39:12,606 --> 00:39:18,292
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+436
+00:39:21,338 --> 00:39:27,760
+Smash every Tuesday, Max Destruction where TV
+and action heroes battle every Wednesday, and
+
+437
+00:39:27,880 --> 00:39:34,102
+Sendro World where anime champions clash every
+Thursday. Join us as we speculate on the matches
+
+438
+00:39:34,302 --> 00:39:40,084
+and armed with the power of mathematical simulations,
+discover who will emerge victorious. Visit
+
+439
+00:39:40,164 --> 00:39:44,045
+dynamicpodcast.com where we settle the debate
+and settle the score.
+
+440
+00:39:48,386 --> 00:39:52,409
+But speaking of the plot, let's go ahead and
+get into our episode highlights. Episode 1
+
+441
+00:39:52,449 --> 00:39:57,833
+was called Return to Sender. In a flashback,
+Bryce descends into Hell, where he makes a
+
+442
+00:39:57,873 --> 00:40:03,417
+deal with Mephisto to return as a ghost to assist
+Hitmonkey in sending souls to Hell. In the
+
+443
+00:40:03,477 --> 00:40:09,081
+present, the duo travel to New York City and
+sign up with Eunice Jones, a mercenary agent
+
+444
+00:40:09,141 --> 00:40:11,262
+who sets them up in Bryce's old apartment.
+
+445
+00:40:16,798 --> 00:40:22,200
+which she smuggled out of Tokyo after a demonic
+figure killed all of her fellow officers looking
+
+446
+00:40:22,240 --> 00:40:27,002
+for it. They visit a rare weapons dealer who
+identifies the sword as an ancient mythical
+
+447
+00:40:27,022 --> 00:40:32,744
+weapon and warns them not to wield it to avoid
+being possessed by it. While Hitmonkey is out
+
+448
+00:40:32,804 --> 00:40:38,447
+on a hit, which turns out to be a setup, Haruka
+is chased by a demonic tiger through the city.
+
+449
+00:40:38,927 --> 00:40:44,069
+She wields the sword in order to kill the cat,
+temporarily transforming into a supernatural
+
+450
+00:40:45,810 --> 00:40:51,194
+As they ponder what happened, Bryce observes
+his daughter Iris from afar. I have to say
+
+451
+00:40:51,254 --> 00:40:56,738
+that I thought Keith David made an awesome Mephisto
+or devil. Whatever. I don't know if this was
+
+452
+00:40:56,778 --> 00:41:01,982
+Mephisto. I like to think that it is, but Keith
+David was spot on with that voice. Oh, absolutely.
+
+453
+00:41:02,022 --> 00:41:07,826
+Keith David is a fantastic, not just voice actor,
+but actor. And, you know, he has a singular
+
+454
+00:41:07,866 --> 00:41:13,110
+voice that is perfection when it comes to characters
+like this, because it was really spooky. He's
+
+455
+00:41:13,130 --> 00:41:18,313
+also going to be voicing Darkseid in the Kite
+Man Hell Yeah television series. And I'm sure
+
+456
+00:41:18,333 --> 00:41:22,176
+he's going to kill it. You know, it's going
+to be good. Did you realize that the tiger
+
+457
+00:41:22,216 --> 00:41:28,641
+who was chasing Haruka was the weapons dealers
+cat that was transformed by the shepherd? I
+
+458
+00:41:28,681 --> 00:41:34,505
+did not. That makes sense now. Episode two was
+Guess Who's Coming to Dinner. Looking to learn
+
+459
+00:41:34,565 --> 00:41:39,968
+who ordered the phony hit, Bryce, Hitmonkey
+and Haruka track down the vetter at a local
+
+460
+00:41:40,008 --> 00:41:45,251
+library who directs them to Charles Lehigh of
+the Aldermen before being killed by assassins
+
+461
+00:41:45,551 --> 00:41:51,214
+that Haruka in turn kills with her sword. The
+group sneaks into an event at Lehigh's estate
+
+462
+00:41:51,314 --> 00:41:56,696
+where his necklace charm recognizes Haruka's
+sword. He turns into a shrieking monster known
+
+463
+00:41:56,776 --> 00:42:02,859
+as The Call, but is ripped in half by a mysterious
+young girl named Dot who steals the charm necklace.
+
+464
+00:42:03,359 --> 00:42:07,841
+Hitmonkey takes Bryce to visit the restaurant
+Iris serves at, but she rejects anything to
+
+465
+00:42:07,881 --> 00:42:12,417
+do with her dad. When the pair return to the
+apartment, they find Haruka transformed and
+
+466
+00:42:12,457 --> 00:42:17,741
+addicted to the sword's power. Meanwhile, at
+a secret meeting of the three remaining aldermen,
+
+467
+00:42:18,202 --> 00:42:24,887
+the ogre vows to take care of Hitmonkey and
+Haruka. One of the very few plot holes was
+
+468
+00:42:25,188 --> 00:42:30,272
+regarding the librarian better. I'm not sure
+why she died, why they killed her. I'm guessing
+
+469
+00:42:30,312 --> 00:42:35,176
+that since Hitmonkey and Bryce survived the
+bomb attack from the first episode, it was
+
+470
+00:42:35,236 --> 00:42:39,639
+likely that the aldermen knew. that they would
+investigate the vetter, which is why they tried
+
+471
+00:42:39,679 --> 00:42:43,742
+to kill her. Yeah, I think they were just tying
+up loose ends. It's possible that they were
+
+472
+00:42:43,782 --> 00:42:48,746
+staked out at the library waiting for Hitmonkey
+to show up because we know that the reason
+
+473
+00:42:48,886 --> 00:42:53,589
+the librarian set up the fake hit was because
+they tortured her and made her break her code.
+
+474
+00:42:54,009 --> 00:42:59,333
+So I don't know if it's quite a plot hole. Yeah,
+I don't think it is. Episode 3 was called The
+
+475
+00:42:59,373 --> 00:43:04,416
+Rope. The ogre, who is a big giant, snatches
+Haruka out of their apartment and Hitmonkey
+
+476
+00:43:04,436 --> 00:43:09,715
+and Bryce chase him across the city. A group
+known as the Assassin's Cooperative assists
+
+477
+00:43:09,775 --> 00:43:14,798
+in rescuing Haruka as Hitmonkey goes inside
+the Giant's head to kill him before passing
+
+478
+00:43:14,898 --> 00:43:20,581
+out. Hitmonkey wakes up in the co-op's lair
+where he meets its members, Boon, Slyke, Amara,
+
+479
+00:43:20,721 --> 00:43:26,404
+Double Tap, and Dot. They explain to him how
+an ancient relic was divided into eight weapons
+
+480
+00:43:26,484 --> 00:43:31,882
+wielded by the Aldermen to rule the world from
+the shadows. They ask Hitmonkey to join their
+
+481
+00:43:31,922 --> 00:43:37,886
+cause of obtaining and reforging the weapons
+to restore the relic to heal the world. Contemplating
+
+482
+00:43:38,026 --> 00:43:42,769
+joining the co-op family, Hitmonkey tries to
+take Bryce to the restaurant to visit Iris,
+
+483
+00:43:42,909 --> 00:43:48,572
+but they accidentally get her fired. Upset,
+Bryce makes another deal with Mephisto for
+
+484
+00:43:48,612 --> 00:43:54,335
+a physical form, however it comes with a 48
+hour time limit. Meanwhile, Akiko shows up
+
+485
+00:43:54,375 --> 00:43:59,999
+in New York City as Lady Bullseye. I think this
+was my favorite episode. I really, really liked
+
+486
+00:44:00,059 --> 00:44:05,423
+the introduction of the Assassin's Co-op, but
+also the backstory of the aldermen. I thought
+
+487
+00:44:05,443 --> 00:44:10,348
+that was really well done. Yeah. There was just
+a lot to like. The whole second deal that Bryce
+
+488
+00:44:10,408 --> 00:44:15,492
+made with Mephisto you knew was going to end
+in tragedy and they totally set that up perfectly.
+
+489
+00:44:15,913 --> 00:44:20,677
+It was just really well written. For sure. Yeah,
+and this episode had great action too. That
+
+490
+00:44:20,717 --> 00:44:24,800
+fight against the ogre. Yes. That was really
+well done with cool ideas. The fact that they
+
+491
+00:44:24,820 --> 00:44:30,284
+actually went into. ogre's head and started
+shooting his brain from inside his body. That
+
+492
+00:44:30,304 --> 00:44:34,065
+was pretty crazy. Yeah, it's the kind of action
+that I was really looking forward to with this
+
+493
+00:44:34,106 --> 00:44:39,048
+season. Just seeing monkey swing through New
+York almost like Spider-Man. And yeah, this
+
+494
+00:44:39,068 --> 00:44:43,210
+was definitely one of my favorite action scenes
+from the whole season. Episode four was called
+
+495
+00:44:43,310 --> 00:44:49,333
+Never Too Late. Bryce visits Iris at her apartment
+to apologize for abandoning their family, but
+
+496
+00:44:49,353 --> 00:44:55,201
+she rejects him. Haruka traces the Alderman
+financials to a hedge fund managed by the third
+
+497
+00:44:55,441 --> 00:45:01,445
+eye wielder, Yanis Kalamaris. She, Hitmonkey,
+and Bryce try to fight Yanis, but are unable
+
+498
+00:45:01,485 --> 00:45:06,728
+to overcome his future sight, and they are saved
+by the co-op who chastises them for almost
+
+499
+00:45:06,768 --> 00:45:12,512
+getting killed. Bryce reconnects with a former
+associate called Snail, who can slow time and
+
+500
+00:45:12,552 --> 00:45:17,991
+give them a chance against the third eye. Meanwhile...
+Akiko tries to find Hitmonkey through his old
+
+501
+00:45:18,031 --> 00:45:23,034
+associates and kills one with the help of the
+original Lady Bullseye's ghost who was following
+
+502
+00:45:23,074 --> 00:45:29,077
+her. Hitmonkey, Bryce, and Haruka catch up with
+the co-op at Yenis' private jet and with Snail's
+
+503
+00:45:29,117 --> 00:45:34,440
+help they defeat him. Bryce visits Iris again
+to apologize and this time she gives him a
+
+504
+00:45:34,480 --> 00:45:41,064
+chance. Meanwhile, in Hell, Mephisto foreshadows
+that his army is about to grow. Now is the
+
+505
+00:45:41,104 --> 00:45:46,170
+snail an original character as well? Correct,
+yeah. I liked the snail here. He was voiced
+
+506
+00:45:46,190 --> 00:45:51,312
+by Jim Gaffigan. He had a pretty cool, if not
+gross power set where he gets slow time. But
+
+507
+00:45:51,372 --> 00:45:56,753
+people who were in contact with his saliva were
+able to exist outside of the time distortion
+
+508
+00:45:56,793 --> 00:46:02,855
+effect. Well, it wasn't his saliva. It was his
+mucus, his snot. Yeah, that's right. You're
+
+509
+00:46:02,875 --> 00:46:08,997
+right. He was definitely hocking up loogies.
+He wasn't just spitting. Right. Yeah. I liked
+
+510
+00:46:09,057 --> 00:46:13,939
+the snail. I thought the nicknames. and the
+grab-assing between Bryce and him were pretty
+
+511
+00:46:13,979 --> 00:46:18,241
+funny. Like Snail called Bryce taint because
+he's somewhere between a dick and an asshole.
+
+512
+00:46:18,401 --> 00:46:22,363
+And then he like sack tap him, you know, and
+the Bryce would like call him like old chub
+
+513
+00:46:22,403 --> 00:46:26,745
+and try to titty twist him. He's like, let me
+at those little pickles. It's like, what the
+
+514
+00:46:26,865 --> 00:46:31,867
+fuck is going on here? They just had this hilarious
+relationship. Yeah, I thought he was going
+
+515
+00:46:31,887 --> 00:46:36,069
+to reappear in the final episode. I was kind
+of sad that he didn't, but they also made really
+
+516
+00:46:36,089 --> 00:46:41,024
+good use of him in this episode. Yeah, it was
+cool to see Bryce taking on the third eye with
+
+517
+00:46:41,044 --> 00:46:45,709
+that slow motion effect. It's rare that you
+see Bryce kick ass in this series, because
+
+518
+00:46:45,769 --> 00:46:51,574
+usually that's left to Hitmonkey. But when you
+see Bryce be a badass, you remember exactly
+
+519
+00:46:51,734 --> 00:46:56,919
+why he's a good mentor for Hitmonkey. Yeah,
+you remember that he is an accomplished assassin.
+
+520
+00:46:57,259 --> 00:47:03,625
+Yeah. Episode 5 is called Akiko. In a flashback
+to Akiko's childhood, we see her family die
+
+521
+00:47:03,685 --> 00:47:08,343
+in a fire. She is placed in a boarding school
+by her uncle Shinji Yokohama, where she is
+
+522
+00:47:08,403 --> 00:47:13,365
+bullied relentlessly and nearly drowned. She
+lashes out and is placed in a psychiatric ward
+
+523
+00:47:13,705 --> 00:47:19,408
+before her uncle comes to raise her into a successful
+writer. In the present, Bryce gets Iris a job
+
+524
+00:47:19,448 --> 00:47:24,130
+with Eunice as a murder crime scene cleaner,
+where she learns under another cleaner named
+
+525
+00:47:24,350 --> 00:47:30,412
+Buddy. Hitmonkey bonds with the co-op and visits
+Eunice to quit as a mercenary but is ambushed
+
+526
+00:47:30,492 --> 00:47:35,815
+by Eikiko, who falls off a building during their
+fight. Hitmonkey takes her to the co-op for
+
+527
+00:47:35,855 --> 00:47:41,098
+medical care, where Boon tells him that the
+Akiko he knew is gone, and that his brother
+
+528
+00:47:41,159 --> 00:47:47,743
+Colt also succumbed to anger and killing. Unable
+to end Akiko's life, Hitmonkey sets her free.
+
+529
+00:47:48,183 --> 00:47:54,688
+Meanwhile, the Shepard sends a mutated pigeon
+after the co-op. I totally thought Akiko initially
+
+530
+00:47:54,768 --> 00:47:58,450
+died upon her fall. I was like, whoa, really?
+That's how they're going to wrap up the Lady
+
+531
+00:47:58,490 --> 00:48:02,093
+Bullseye story? Obviously they didn't do it
+that way, but it was kind of foreshadowing
+
+532
+00:48:02,133 --> 00:48:07,519
+her eventual death. in the very last episode.
+Yeah, through the fall maybe. But what it really
+
+533
+00:48:07,579 --> 00:48:15,101
+did was give Hitmonkey an opportunity to end
+her life before things got too severe. He was
+
+534
+00:48:15,141 --> 00:48:19,382
+contemplating suffocating her with a pillow
+while she was recovering in the hospital bed
+
+535
+00:48:19,562 --> 00:48:23,423
+at the co-op's lair. But he didn't do it. Like
+we all knew that he should have done it, but
+
+536
+00:48:23,463 --> 00:48:28,345
+he just cared for her too much. And he ended
+up undoing her handcuffs so that she can leave
+
+537
+00:48:28,385 --> 00:48:33,074
+when she wakes up. But it really turned out
+to be a big mistake. Yeah, huge, which is one
+
+538
+00:48:33,094 --> 00:48:37,458
+of the reasons why I think he decided to take
+responsibility in killing Akiko in the final
+
+539
+00:48:37,498 --> 00:48:42,683
+episode in the way that he did. What did you
+think about Iris? I thought it was hilarious
+
+540
+00:48:42,723 --> 00:48:48,228
+how she turned out to be really a chip off the
+old block, you know, getting into the whole
+
+541
+00:48:48,448 --> 00:48:54,308
+mercenary community. I thought the relationship
+that developed between her and Bryce felt pretty
+
+542
+00:48:54,348 --> 00:48:59,992
+organic. It was fast, but it didn't feel too
+fast just because of how open and honest Bryce
+
+543
+00:49:00,072 --> 00:49:04,334
+was with his feelings towards her right off
+the bat at the beginning of the season. And
+
+544
+00:49:04,374 --> 00:49:09,117
+it was kind of funny to see that, you know,
+for however much she had hated her father,
+
+545
+00:49:09,497 --> 00:49:15,761
+she ended up being more like him than she probably
+realized. And more than he wanted her to. Yeah.
+
+546
+00:49:16,338 --> 00:49:22,059
+Absolutely. And I love by the end how they formed
+this bond between a father and daughter that
+
+547
+00:49:22,219 --> 00:49:29,741
+felt real and felt pure in a way, and how good
+it was for both of them and how Bryce was even
+
+548
+00:49:29,781 --> 00:49:34,703
+willing to sacrifice himself for his daughter,
+which is, you know, what any father should
+
+549
+00:49:34,743 --> 00:49:41,185
+do. It was a truly redemptive arc for him. Yeah,
+like I maybe wanted to be annoyed by Iris at
+
+550
+00:49:41,205 --> 00:49:45,150
+the start of the season, but the relationship
+between her and Bryce was just too good. and
+
+551
+00:49:45,270 --> 00:49:50,414
+she was pretty funny too. She was actually voiced
+by Kristen Milioti, who is going to be playing
+
+552
+00:49:50,614 --> 00:49:56,979
+Carmine Falcone's daughter in the upcoming Penguin
+series. Oh really? Okay. I didn't know that.
+
+553
+00:49:57,519 --> 00:50:02,743
+Episode 6 was called The Estate. The pigeon
+gives an invitation to Hitmonkey and the co-op
+
+554
+00:50:02,823 --> 00:50:07,767
+to join the shepherd for dinner at his estate
+in the desert. As they travel there via jet,
+
+555
+00:50:08,048 --> 00:50:13,039
+Iris and Eunice throw a retirement party for
+Buddy. Suspecting a trap at the estate, Bryce
+
+556
+00:50:13,059 --> 00:50:17,721
+volunteers to scout the situation and he learns
+at dinner with the Shepard that the alderman
+
+557
+00:50:17,821 --> 00:50:22,584
+initially wanted to use the relics to heal the
+world just like the assassin's co-op, before
+
+558
+00:50:22,624 --> 00:50:28,047
+shooting himself and passing his staff to his
+wife. She uses mutated scorpions and spiders
+
+559
+00:50:28,107 --> 00:50:33,530
+to attack the co-op. During the fight, Haruka
+and Double Tap seek shelter in a cave where
+
+560
+00:50:33,570 --> 00:50:38,312
+she realizes via his thermal vision goggles
+that he was the figure who shot up her precinct
+
+561
+00:50:38,352 --> 00:50:44,080
+in Tokyo looking for the sword. The Shepard
+mutates Hitmonkey into a giant gorilla, but
+
+562
+00:50:44,120 --> 00:50:49,344
+with Boon's help, he overcomes his mental control
+and kills the Shepard, getting the last of
+
+563
+00:50:49,364 --> 00:50:54,828
+the relics. Back at the co-op's lair, Haruka
+reveals to Bryce the group's sinister intentions
+
+564
+00:50:55,228 --> 00:51:00,332
+and they steal Bonsai's master sword, escaping
+with Eunice to her vacation home in Montauk.
+
+565
+00:51:00,592 --> 00:51:05,816
+What did you think of the reveal that Double
+Tap was really the monster-like figure that
+
+566
+00:51:05,856 --> 00:51:10,039
+killed all of the police officers in Tokyo?
+I thought it was a little bit misleading because
+
+567
+00:51:10,079 --> 00:51:16,425
+in the flashback, the demonic figure was largely
+just walking menacingly toward Haruka as other
+
+568
+00:51:16,465 --> 00:51:22,210
+mercenaries were doing all the shooting. So
+it means that Double Tap hired a hit squad
+
+569
+00:51:22,350 --> 00:51:27,494
+to go after the sword with him. And from what
+we learn about the character later on, it seems
+
+570
+00:51:27,534 --> 00:51:31,738
+more like Double Tap is not really the guy who's
+inclined to work with a lot of other gunmen.
+
+571
+00:51:32,198 --> 00:51:37,026
+Right, exactly. Like for all the talk he was
+giving about the team only needing one gunman
+
+572
+00:51:37,226 --> 00:51:42,151
+and considering how skilled he was with all
+of his weapons, I thought that felt very out
+
+573
+00:51:42,171 --> 00:51:47,675
+of character and very out of left field. Yeah,
+it was a good twist but the way they animated
+
+574
+00:51:47,715 --> 00:51:52,159
+it and set it up wasn't as successful as it
+should have been. I haven't gotten your thoughts
+
+575
+00:51:52,219 --> 00:51:56,903
+on Eunice yet. What did you think of Leslie
+Jones as Eunice? I loved Eunice. I love Leslie
+
+576
+00:51:56,943 --> 00:52:01,907
+Jones in general. I think she is hilarious.
+I thought this was perfect casting for her.
+
+577
+00:52:02,388 --> 00:52:08,300
+I thought all of her It was just a lot of fun.
+I think she's a great character addition to
+
+578
+00:52:08,340 --> 00:52:14,064
+Hit Monkey's cast of allies. Yeah, for sure.
+I thought Leslie Jones gave the best delivery.
+
+579
+00:52:14,184 --> 00:52:18,807
+Like, I remember in this episode when she told
+Hit Monkey to get out of here with your clown
+
+580
+00:52:18,907 --> 00:52:23,850
+ass friends, get into your clown ass car, and
+go to your clown convention. Because guess
+
+581
+00:52:23,930 --> 00:52:30,615
+what? Your ass is a fucking clown. I died. She's
+so good at lines like that. Yeah, it's like
+
+582
+00:52:30,655 --> 00:52:35,998
+Leslie Jones never plays characters other than
+Leslie Jones. She's always playing herself,
+
+583
+00:52:36,038 --> 00:52:41,782
+but it's just such a great character. Yeah.
+In this episode, they address the fact that
+
+584
+00:52:41,802 --> 00:52:46,905
+they're bringing a monkey to a fight against
+a guy who can essentially control and mutate
+
+585
+00:52:46,985 --> 00:52:51,827
+animals. But the fact that they address that
+idea and still do it makes no sense to me.
+
+586
+00:52:52,308 --> 00:52:56,750
+Yeah, it's like you guys knew this was going
+to happen. So why did it happen? Right. That
+
+587
+00:52:56,770 --> 00:53:01,013
+was a fight that they probably should have left
+Hitmonkey at home for. Or maybe Boon just figured
+
+588
+00:53:01,073 --> 00:53:06,075
+he could control Hitmonkey. But then again,
+that brings up the plot hole of why not just
+
+589
+00:53:06,115 --> 00:53:11,699
+control the shepherd. Right. Exactly. The scene
+with the shepherd shooting himself at the dinner
+
+590
+00:53:11,739 --> 00:53:18,643
+table was fucking disturbing. Yes. And weird
+as hell. Very graphic, like the facial expression
+
+591
+00:53:18,663 --> 00:53:24,407
+he made right before he shot himself in the
+head was creepy and scary. I thought his wife
+
+592
+00:53:24,447 --> 00:53:29,426
+just looking on smiling, even creepier. Yeah,
+the whole relationship was weird. Which is
+
+593
+00:53:29,466 --> 00:53:34,070
+why it was appropriate that Bryce was like,
+what the fuck is going on? Yeah. He was thinking
+
+594
+00:53:34,090 --> 00:53:39,534
+what we were all thinking. Episode seven was
+called The Last Supper. Boone reads Hitmonkey's
+
+595
+00:53:39,594 --> 00:53:45,159
+mind, who deduces where the sword is. The co-op
+then sends Hitmonkey to Montauk to get it back.
+
+596
+00:53:45,519 --> 00:53:50,043
+Bryce, Haruka, Iris and Eunice fortify their
+vacation home to prepare it for battle and
+
+597
+00:53:50,123 --> 00:53:54,907
+have what they believe to be their last supper.
+Hitmonkey arrives and the group tries to tell
+
+598
+00:53:54,927 --> 00:53:59,626
+him of the co-op's intentions, but he doesn't
+believe them. Bryce and Hitmonkey duke it out
+
+599
+00:54:00,046 --> 00:54:05,888
+and Bryce admits that he used Hitmonkey's killing
+to get out of hell. Akiko and Lady Bullseye
+
+600
+00:54:05,948 --> 00:54:10,729
+intrude on the scene, and though Haruka tries
+to reason with her old friend, she's forced
+
+601
+00:54:10,869 --> 00:54:15,670
+to wield the sword again. Hitmonkey tries to
+shoot Akiko but can't bring himself to do it
+
+602
+00:54:15,870 --> 00:54:21,612
+and Haruka abandons her sword, resulting in
+her own death by Akiko's hands. Lady Bullseye's
+
+603
+00:54:21,652 --> 00:54:27,086
+ghost nearly drowns Bryce in the salty ocean,
+but the co-op arrives on the scene. prompting
+
+604
+00:54:27,146 --> 00:54:32,810
+Lady Bullseye and Akiko to flee. The co-op picks
+up the sword and Hitmonkey as Iris and Eunice
+
+605
+00:54:32,890 --> 00:54:37,693
+pull Bryce out of the ocean. I gotta give a
+quick shout out to the state of Colorado in
+
+606
+00:54:37,733 --> 00:54:43,457
+this episode because Iris makes a reference
+to Vale during supper and tells them that she
+
+607
+00:54:43,497 --> 00:54:46,860
+wants to learn how to ski with rich people.
+And they're like, oh yeah, that's some good
+
+608
+00:54:46,920 --> 00:54:52,504
+skiing up there. It is. And it's really good
+skiing. As someone who has skied Vale, I appreciated
+
+609
+00:54:52,544 --> 00:54:58,587
+that. I really liked this episode. This is another
+one of my favorite episodes. I just loved the
+
+610
+00:54:58,667 --> 00:55:04,630
+drama of it, you know, with the last supper
+where they're eating pancakes and where Bryce
+
+611
+00:55:04,650 --> 00:55:09,892
+and Hentmonkey are brawling out in the rain.
+And you understand where both of them are coming
+
+612
+00:55:09,952 --> 00:55:15,295
+from. It was just, again, a well-written episode.
+Emotionally devastating episode. I think this
+
+613
+00:55:15,315 --> 00:55:19,777
+was my favorite episode out of all of them,
+for sure. Let's move on to episode eight, which
+
+614
+00:55:19,797 --> 00:55:25,559
+was called Mindmall. The co-op begins the reforging
+process as Boon admits to Hitmonkey that they
+
+615
+00:55:25,599 --> 00:55:30,340
+plan on ending global violence by ending global
+life. They reveal themselves to be working
+
+616
+00:55:30,360 --> 00:55:35,521
+with Mephisto, who resurrected Bryce to nudge
+him and Hitmonkey to the Alderman and the co-op
+
+617
+00:55:35,661 --> 00:55:41,283
+in his scheme to end humanity and build his
+Hell army. Slyke pulls Hitmonkey into his mind
+
+618
+00:55:41,403 --> 00:55:46,844
+while Bryce, Eunice, and Iris mourn Haruka back
+in Montauk. Akiko spies on them from afar and
+
+619
+00:55:46,884 --> 00:55:51,826
+kills Lady Pulsai's ghost by using their tether
+to pull her into the salty ocean. Back at the
+
+620
+00:55:51,846 --> 00:55:56,967
+apartment, Dot warns Bryce, Iris, and Eunice
+about the co-op's real plans before returning
+
+621
+00:55:57,027 --> 00:56:02,789
+to their lair and being pulled into Slyke's
+mind. Secretly harboring Bryce's ghost, Dot
+
+622
+00:56:02,869 --> 00:56:08,491
+helps rescue Hitmonkey from his chains and directs
+them on how to escape Slyke's mind. While Dot
+
+623
+00:56:08,551 --> 00:56:13,593
+is able to get out, Slyke and Boone's brother
+Colt is revealed to be inside his mind too
+
+624
+00:56:13,953 --> 00:56:18,831
+and destroys the exit. As Hitmonkey and Bryce
+flee into Slyke's subconscious, Colt learns
+
+625
+00:56:18,851 --> 00:56:24,413
+that he was mind controlled by Boon into agreeing
+to be pulled into his brother's mind. Slyke
+
+626
+00:56:24,593 --> 00:56:29,716
+enters his own mind to explain his reasoning
+to his brother, but Colt kills him, giving
+
+627
+00:56:29,756 --> 00:56:34,738
+Hitmonkey and Bryce enough time to escape before
+Slyke's mind is eradicated. Witnessing the
+
+628
+00:56:34,758 --> 00:56:39,820
+tragedy of brothers turning on each other, Bryce
+and Hitmonkey make amends, just as the co-op
+
+629
+00:56:39,840 --> 00:56:44,602
+prepares to use the power of the Forged Relic
+in Times Square. This is another fantastic
+
+630
+00:56:44,642 --> 00:56:49,584
+episode. This is just like a series of great
+episodes. I really liked the mind mall setting
+
+631
+00:56:50,104 --> 00:56:55,927
+that had a very cool eighties retro vibe, very
+vibrant and creepy. It kind of reminded me
+
+632
+00:56:55,967 --> 00:57:00,709
+of the original Suspiria film, although that
+was made in the seventies, but the killer racer
+
+633
+00:57:00,849 --> 00:57:04,610
+that was chasing him through the mall, I think
+that was pulled from an eighties movie called
+
+634
+00:57:04,710 --> 00:57:10,373
+The Wraith, from what I could tell. Really interesting.
+It was all just very surreal and kind of incorporated
+
+635
+00:57:10,453 --> 00:57:16,279
+dream logic in this really cool way. Now, I
+just remembered, are you sure all of the characters
+
+636
+00:57:16,339 --> 00:57:24,161
+from the co-op were original? Because I remember
+you having an X-Men comic with a mutant villain
+
+637
+00:57:24,321 --> 00:57:32,463
+who was also able to warp beings into his mind.
+Yeah, you're talking about the X-Men 394 issue,
+
+638
+00:57:32,863 --> 00:57:38,405
+which has Wolverine and Jean Grey kissing on
+the cover. And in it, they get pulled into
+
+639
+00:57:38,525 --> 00:57:43,975
+this mutant's mind and his name was Warp Savant.
+And while they have the same power set, he's
+
+640
+00:57:44,015 --> 00:57:50,498
+not Slyke. So it's likely that Slyke was influenced
+by Warp Savant. Although Warp Savant only made
+
+641
+00:57:50,538 --> 00:57:55,141
+an appearance in one issue. Are you serious?
+He hasn't appeared since? OK, that's dumb.
+
+642
+00:57:55,641 --> 00:57:59,803
+OK. But it's interesting that you remembered
+that pretty good memory there. I just remember
+
+643
+00:57:59,964 --> 00:58:04,006
+you getting really pissed off because I got
+chocolate on that comic cover and you've probably
+
+644
+00:58:04,046 --> 00:58:11,794
+never forgiven me for that. You dumbass. I completely
+forgot about that, too. Oh, I reminded you.
+
+645
+00:58:12,034 --> 00:58:16,197
+Out of everyone in the co-op, who would you
+say was your favorite? Dot because she was
+
+646
+00:58:16,237 --> 00:58:20,420
+the only one that was good. But like we didn't
+get really any of her backstory either. Well,
+
+647
+00:58:20,440 --> 00:58:24,983
+we didn't really get much of any of the co-op's
+backstories except for Boon. Well, we got the
+
+648
+00:58:25,063 --> 00:58:30,407
+statue lady. I forgot her name. Amara. Yeah,
+Amara. I just saw apparently she was voiced
+
+649
+00:58:30,467 --> 00:58:35,991
+by Stephanie Beatrice. So she has the same voice
+as Mirabelle from Encanto. Right. Yeah, it's
+
+650
+00:58:36,031 --> 00:58:41,115
+interesting comparing her voice as that Disney
+character and then saying Get fucked, Bryce.
+
+651
+00:58:41,135 --> 00:58:47,100
+You know. But no, we never got more than a few
+sentences of backstory for any of the co-op
+
+652
+00:58:47,120 --> 00:58:51,084
+members except for Boon. I don't know why Amara
+was my favorite. I think I just really liked
+
+653
+00:58:51,104 --> 00:58:55,508
+her power set. But yeah, Dot was great too.
+I loved how strong she was. Like that was her
+
+654
+00:58:55,548 --> 00:59:00,373
+power, right? Just like super strength and durability.
+It's a great power set for a creepy little
+
+655
+00:59:00,533 --> 00:59:05,197
+girl because you wouldn't expect it. Right.
+Episode nine was called the concrete jungle.
+
+656
+00:59:05,666 --> 00:59:10,290
+Boon unleashes the relic on New York City, transforming
+the environment and turning people into trees.
+
+657
+00:59:10,790 --> 00:59:16,155
+Bryce, Eunice, Iris, Dot, and Hitmonkey call
+in all of Eunice's mercenary contacts to join
+
+658
+00:59:16,175 --> 00:59:21,099
+their fight. They plan to use Eunice's bomb
+to blow up the relic, with Bryce's team planting
+
+659
+00:59:21,119 --> 00:59:26,204
+the bomb in the subway tunnels under Times Square,
+and Monkey's team triggering the remote detonator.
+
+660
+00:59:26,644 --> 00:59:31,288
+Both groups get attacked by the co-op, with
+Hitmonkey weakened after being shot multiple
+
+661
+00:59:31,328 --> 00:59:37,795
+times by double tap. and Bryce gets turned to
+marble by Amara. However, Hitmonkey ricochets
+
+662
+00:59:37,835 --> 00:59:43,317
+shoots double tap, and Bryce phases out of his
+stone form to trap her on the subway car. Boon
+
+663
+00:59:43,377 --> 00:59:48,058
+mind controls Dot to attack Hitmonkey, but he
+survives long enough for Bryce's bomb to get
+
+664
+00:59:48,098 --> 00:59:54,400
+there, and he blows up Boon and the relic. However,
+Boon survives as a plant monster with pieces
+
+665
+00:59:54,440 --> 00:59:59,221
+of the relic embedded in him. I love at the
+start of the episode Hitmonkey's speech to
+
+666
+00:59:59,241 --> 01:00:03,960
+the other mercenaries. He's like, I know we
+all probably need therapy, but we could do
+
+667
+01:00:03,980 --> 01:00:08,103
+this together. We're a family. And his screech
+at the end when he's like, now who's with me?
+
+668
+01:00:08,123 --> 01:00:12,947
+It just crickets. Nobody says anything. But
+then like somebody starts to slow clap and
+
+669
+01:00:12,987 --> 01:00:16,189
+then all of a sudden everybody gets super excited
+and they start shooting their guns in the air
+
+670
+01:00:16,469 --> 01:00:20,252
+and even hit monkey shooting his gun in the
+air. It was hilarious. Yeah. And especially
+
+671
+01:00:20,272 --> 01:00:25,496
+when you find out that they're shooting accidentally
+hit the bomb in the coffee table. It's like,
+
+672
+01:00:25,516 --> 01:00:31,440
+of course. The one thing that I hated about
+these last two episodes was how like at certain
+
+673
+01:00:31,460 --> 01:00:36,723
+points the main characters would get covered
+in vines but somehow weren't ripped apart to
+
+674
+01:00:36,743 --> 01:00:41,145
+pieces or transformed into plants just like
+everyone else was. It was like if you were
+
+675
+01:00:41,165 --> 01:00:46,988
+a main character on the show you had plot armor
+basically. Yeah, pretty much. Pretty convenient
+
+676
+01:00:47,209 --> 01:00:52,712
+but I don't know. It's not like they didn't
+meet cruel fates later on. I loved the stakes
+
+677
+01:00:52,852 --> 01:00:57,454
+of this season as a whole. Like they were way
+bigger than season one. But the stakes kind
+
+678
+01:00:57,494 --> 01:01:03,877
+of get ruined once you realize that the main
+characters aren't susceptible to the bad guy's
+
+679
+01:01:03,917 --> 01:01:09,180
+final plan. That's not to say that there weren't
+casualties, because of course you have Officer
+
+680
+01:01:09,200 --> 01:01:14,242
+Haruka's death and even Hitmonkey dies by the
+end of the show, but I feel like Iris and Eunice
+
+681
+01:01:14,522 --> 01:01:18,524
+should have been turned into plant creatures.
+It's really hard to agree with the whole plot
+
+682
+01:01:18,584 --> 01:01:23,874
+armor thing considering how everything goes
+down at the end. sure Bryce lives at the end,
+
+683
+01:01:24,034 --> 01:01:29,037
+but he's also trapped in a hell of his own making,
+as it were, because he's without Hitmucky.
+
+684
+01:01:29,277 --> 01:01:34,039
+Or at least the one that he knows. As far as
+Eunice and Iris, I'm totally fine with them
+
+685
+01:01:34,059 --> 01:01:38,901
+having plot armor. You know, after surviving
+the attack in Montauk, you know, they had already
+
+686
+01:01:38,941 --> 01:01:43,803
+gone through a lot. It's fine. Plus I want to
+see them continue on into Season 3.
+
+687
+01:01:49,058 --> 01:01:54,023
+drive to help rescue Bryce, Hitmonkey, and Dot
+from the Boon monster. While fleeing in their
+
+688
+01:01:54,063 --> 01:02:01,090
+van, Iris gets the idea to use Buddy's Bodyburner
+to destroy Boon, but the monster crashes the
+
+689
+01:02:01,110 --> 01:02:06,475
+vehicle. The group fights Boon and are overpowered,
+but they buy enough time for Iris to use Buddy's
+
+690
+01:02:06,515 --> 01:02:11,420
+Bodyburner, which is only partially effective.
+Bryce and Hitmonkey yank the relic shards from
+
+691
+01:02:11,440 --> 01:02:17,076
+the monster's body. which Boon uses to transport
+them across time to witness humanity's violence
+
+692
+01:02:17,176 --> 01:02:22,720
+throughout history, from feudal Japan to World
+War I. They teleport to an animal testing facility
+
+693
+01:02:22,740 --> 01:02:27,282
+in the past where Hitmucky sees his younger
+self get rescued from a cage where he and his
+
+694
+01:02:27,342 --> 01:02:32,866
+parents were being experimented on. Bryce pulls
+out the last shard, returning them home and
+
+695
+01:02:32,926 --> 01:02:38,649
+fully killing Boon. As Bryce runs out of time
+on his corporeal form and says goodbye to Iris,
+
+696
+01:02:39,270 --> 01:02:44,934
+Akiko returns and tries to shoot Iris, forcing
+Bryce to take the bullets. Hitmonkey stops
+
+697
+01:02:44,974 --> 01:02:50,738
+Akiko by tackling her off the Brooklyn Bridge,
+an act that kills them both. Mephisto claims
+
+698
+01:02:50,798 --> 01:02:56,503
+Hitmonkey's soul as payment for Bryce's deals,
+and Bryce returns to life. As Bryce mourns,
+
+699
+01:02:56,863 --> 01:03:02,447
+he sees Hitmonkey's ghost, who is now tethered
+to him. This was a fantastic final episode.
+
+700
+01:03:02,627 --> 01:03:09,206
+I really love how it began with Steve the Cleaver.
+I don't even know who that dude was and neither
+
+701
+01:03:09,246 --> 01:03:14,989
+did anybody else. I loved how Steve died trying
+to be heroic to buy the group sometime. It
+
+702
+01:03:15,009 --> 01:03:20,451
+was just fucking decimated. He's like, so good.
+No, go on without me. And Bryce was like, yeah,
+
+703
+01:03:20,491 --> 01:03:27,674
+OK, fine. Closes the door. Yeah, no, give a
+shit. The ending was so bittersweet with this
+
+704
+01:03:27,714 --> 01:03:31,855
+like somber music playing and Bryce just kind
+of like staring off playing with some salt
+
+705
+01:03:31,875 --> 01:03:36,557
+in his hand, you know, thinking about everything
+that happened. And he glances over and there's
+
+706
+01:03:36,617 --> 01:03:41,861
+just this random monkey ghost staring at him
+from across the street and he walks over to
+
+707
+01:03:41,901 --> 01:03:46,144
+him and is like, what took you so long? And
+that's how the season ended. And I thought
+
+708
+01:03:46,164 --> 01:03:51,287
+it was so poetic considering both of the characters'
+journeys, all that they had been through and
+
+709
+01:03:51,307 --> 01:03:55,290
+how the script was kind of flipped at the very
+end. The best thing I can say about this season
+
+710
+01:03:55,330 --> 01:04:01,810
+is that I'm really, really wanting more of this
+story. Yeah, absolutely. And we're- really
+
+711
+01:04:01,850 --> 01:04:06,935
+stuck with me at the end too was how Hitmonkey
+was in a ghost form, but he wasn't like his
+
+712
+01:04:07,155 --> 01:04:13,061
+old self. Like, he didn't have any of his character.
+He was like a shell of what he was. So it's
+
+713
+01:04:13,101 --> 01:04:18,526
+not like they could reunite in some kind of
+satisfying way. It wasn't satisfying. It was
+
+714
+01:04:18,666 --> 01:04:24,732
+bittersweet, it was heartfelt, and it absolutely
+calls for a season three. That brings us to
+
+715
+01:04:24,752 --> 01:04:30,924
+the end of this review. Overall... The season
+mixed fun, brutal action with emotionally tragic
+
+716
+01:04:30,984 --> 01:04:36,327
+moments, and the silly high-concept premise
+has proven itself as Marvel's darkest and most
+
+717
+01:04:36,387 --> 01:04:45,513
+challenging project. I'm giving the show 4.5
+stars out of 5, a fresh rating on Rotten Tomatoes.
+
+718
+01:04:45,553 --> 01:04:50,375
+Yeah, I think that's totally appropriate. I
+personally love me a good tragedy. And this
+
+719
+01:04:50,415 --> 01:04:56,090
+is a tragedy, I would say, in the true sense
+of the word. and that comedies have happy endings
+
+720
+01:04:56,110 --> 01:05:01,932
+and tragedies have somewhat sad endings. The
+fact that this tragedy was also able to make
+
+721
+01:05:01,972 --> 01:05:08,553
+me laugh for a majority of the season is also
+a testament to just how well-written it was.
+
+722
+01:05:08,773 --> 01:05:14,855
+I do think it was better than season one, which
+we gave four stars. So yeah, I would agree
+
+723
+01:05:14,875 --> 01:05:19,336
+with that rating. Yeah, season two just hit
+harder, both emotionally, viscerally, with
+
+724
+01:05:19,356 --> 01:05:24,758
+the violence. Animation was top notch. Animation-wise.
+Really good animation, yeah. And the show is
+
+725
+01:05:24,798 --> 01:05:29,681
+just cool. Like it is so cool. Like I'm trying
+to think of anything as cool as this show.
+
+726
+01:05:30,261 --> 01:05:36,084
+Himaki has a vibe to him. You know, it's hard
+to put into words the idea of cool, but you
+
+727
+01:05:36,104 --> 01:05:40,386
+could definitely feel it when watching the show.
+For sure. They knew what the tone was and I
+
+728
+01:05:40,406 --> 01:05:45,949
+think they nailed it. So kudos to the show runners.
+But that does it for this review. AJ9K, help
+
+729
+01:05:45,969 --> 01:05:52,673
+close this out. Thanks for listening to Dynamic
+duel. Visit the show's website at dynamicduel.com.
+
+730
+01:05:53,514 --> 01:05:59,215
+and follow us on Instagram at Dynamic Duel Podcast.
+You can support the show on Patreon at Patreon.com
+
+731
+01:05:59,635 --> 01:06:04,317
+slash Dynamic Duel and joining a tier that works
+for you or by rating and reviewing Dynamic
+
+732
+01:06:04,357 --> 01:06:09,898
+Duel on Apple podcasts, Spotify, Podchaser,
+or on our website. Don't forget to listen to
+
+733
+01:06:09,918 --> 01:06:15,280
+the other shows in the DynaMic Podcast Network,
+including Max Destruction, Senjo World, and
+
+734
+01:06:15,320 --> 01:06:22,402
+Console Combat. Our next episode is going to
+be another review. but it's the last one of
+
+735
+01:06:22,422 --> 01:06:26,903
+the group before we get back to the duels guys.
+We're going to be reviewing Watchmen Chapter
+
+736
+01:06:27,083 --> 01:06:32,985
+one, which hopefully the animation is good because
+it's going to be really hard going into that
+
+737
+01:06:33,065 --> 01:06:38,406
+coming off of Hit Monkey, just with how expressive
+and well done the animation was. I have a feeling
+
+738
+01:06:38,486 --> 01:06:44,648
+it's not going to be as good and I know we already
+know the Watchmen story, so I'm not sure how
+
+739
+01:06:44,748 --> 01:06:49,742
+satisfying watching this will be, but we'll
+let you guys know next week. But that does
+
+740
+01:06:49,762 --> 01:06:54,164
+it for this episode, we want to give a big thanks
+to our executive producers Ken Johnson, John
+
+741
+01:06:54,204 --> 01:06:58,847
+Storosky, Zachary Hepburn, Dustin Balcom, Miggy
+Mathen-Geehan, Brandon Estregard, Nathaniel
+
+742
+01:06:58,867 --> 01:07:05,550
+Wagner, Levi Yeaton, Austin Wazilowski, AJ Dunkerley,
+Scott Camacho, Gil Camacho, Adam Spies, Andrew
+
+743
+01:07:05,590 --> 01:07:11,173
+Shunk, Dean Maleski, Devin Davis, Joseph Kersting,
+and Josh Leiner for helping make this podcast
+
+744
+01:07:11,193 --> 01:07:16,456
+possible. And we'll talk to you guys next week.
+Up, up, and away, true believers. This shit
+
+745
+01:07:16,516 --> 01:07:18,597
+is bananas. B-A-N-A-N-A-S.
+
