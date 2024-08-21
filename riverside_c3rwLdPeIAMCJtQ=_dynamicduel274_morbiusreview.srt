@@ -1,0 +1,3026 @@
+1
+00:00:00,974 --> 00:00:07,077
+Quick heads up at the top of the episode guys,
+this month podchaser.com is teaming up with
+
+2
+00:00:07,197 --> 00:00:13,140
+World Central Kitchen to provide food supplies
+for Ukraine as part of their Hashtag Chefs
+
+3
+00:00:13,180 --> 00:00:19,103
+for Ukraine initiative. This will provide meals
+to individuals and families fleeing the current
+
+4
+00:00:19,123 --> 00:00:26,087
+crisis there. For every review of our podcast
+or one of our episodes, Podchaser will donate
+
+5
+00:00:26,147 --> 00:00:33,096
+25 cents to World Central Kitchen. And another
+25 cents. when Joseph and I respond to your
+
+6
+00:00:33,176 --> 00:00:40,322
+review, which we will do. So rate Dynamic Duel
+at podchaser.com slash Dynamic Duel if you
+
+7
+00:00:40,362 --> 00:00:46,908
+haven't already. Or rate your favorite episodes.
+We'll respond to you and together we'll help
+
+8
+00:00:47,008 --> 00:00:54,075
+fight world hunger and help those in need in
+Ukraine. Again, that's podchaser.com slash
+
+9
+00:00:54,175 --> 00:00:56,417
+Dynamic Duel. On with the show!
+
+10
+00:01:17,294 --> 00:01:22,078
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+11
+00:01:22,098 --> 00:01:27,523
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+12
+00:01:28,003 --> 00:01:33,729
+I'm Johnny DC. And I'm his twin brother Marvelous
+Joe. In this episode, we will be reviewing
+
+13
+00:01:33,809 --> 00:01:40,455
+the long-delayed Morbius film produced by Sony
+Pictures. Now, a lot of you may be surprised
+
+14
+00:01:40,475 --> 00:01:44,858
+in this upcoming review to hear that I actually
+didn't hate it. Yeah, I went in with the lowest
+
+15
+00:01:44,898 --> 00:01:49,099
+of expectations and I was actually looking forward
+to like hating on the film. But we'll get into
+
+16
+00:01:49,139 --> 00:01:52,900
+our thoughts later on in the episode. Before
+that, we're going to break down the comic book
+
+17
+00:01:52,920 --> 00:01:57,281
+movie news from the past week. Of which there
+is just one big movie related news item and
+
+18
+00:01:57,321 --> 00:02:03,603
+that is that Sharon Stone is going to play the
+villain Victoria Kord in the Blue Beetle movie.
+
+19
+00:02:03,643 --> 00:02:07,924
+It was a pretty slow news week. It seemed like
+all of the Hollywood news was about Will Smith
+
+20
+00:02:08,064 --> 00:02:14,134
+and like Ezra Miller. I mean the Ezra Miller
+news does sort of affect the DCEU. but it wasn't
+
+21
+00:02:14,194 --> 00:02:19,338
+specific to the flash, so we're not really gonna
+talk about it. As always, we list our segment
+
+22
+00:02:19,378 --> 00:02:23,120
+times in our episode description, so feel free
+to check out the show notes if you wanna skip
+
+23
+00:02:23,160 --> 00:02:28,004
+ahead to a particular topic. And don't forget,
+guys, to join us on Patreon, where we offer
+
+24
+00:02:28,104 --> 00:02:33,507
+ad-free episodes of the show via a custom RSS
+feed, bonus content, including top 10 episodes
+
+25
+00:02:33,527 --> 00:02:38,551
+and bloopers, monthly live movie watch-alongs,
+and access to our Discord chat server. Check
+
+26
+00:02:38,571 --> 00:02:43,851
+it out right after this episode at patreon.com
+slash dynamicduel. linked in our show notes.
+
+27
+00:02:44,271 --> 00:02:49,716
+Our lowest tier is only $2 a month. But with
+that out of the way, quick to the no prize.
+
+28
+00:02:51,718 --> 00:02:56,462
+A no prize is an award Marvel used to give out
+up until the 90s to fans. Our version, the
+
+29
+00:02:56,502 --> 00:03:01,887
+dynamic dual no prize, is a digital award we
+post on social media that Jonathan sometimes
+
+30
+00:03:01,927 --> 00:03:07,011
+draws for those who we feel gave the best answer
+to our question of the week. That's fair. I
+
+31
+00:03:07,112 --> 00:03:12,839
+am very, very behind. like a month behind on
+these No Prize illustrations. Just I want to
+
+32
+00:03:12,859 --> 00:03:18,220
+apologize to everyone who's won a No Prize in
+the past month. I'm working on them. I have
+
+33
+00:03:18,300 --> 00:03:22,762
+some of the illustrations done, not all of them.
+I'm trying to put all of them up all at once.
+
+34
+00:03:23,222 --> 00:03:29,464
+I think the listeners deserve to know why you're
+so behind. So Joseph and I used to work together.
+
+35
+00:03:29,864 --> 00:03:37,539
+He recently abandoned me, so I have more responsibilities
+at work. And just life in general, I got a
+
+36
+00:03:37,579 --> 00:03:42,123
+new house. I'm doing a lot of work on the house
+on the weekends. It's I have less free time,
+
+37
+00:03:42,863 --> 00:03:47,187
+but that's not a good excuse. And I need to
+get on those drawings. I know. I know. I'm
+
+38
+00:03:47,227 --> 00:03:55,313
+sorry, guys. You're right. It's not a good excuse.
+I said that. I said that. Anyway, last week,
+
+39
+00:03:55,513 --> 00:04:01,597
+we asked the question, should the deleted scene
+in The Batman with Joker have been in the movie?
+
+40
+00:04:02,022 --> 00:04:07,164
+or not and why. And of course this was related
+to the deleted scene that Matt Reeves posted
+
+41
+00:04:07,204 --> 00:04:12,726
+to social media that we all got to see involving
+the Joker and Batman in Arkham Asylum. We got
+
+42
+00:04:12,766 --> 00:04:16,408
+quite a few answers. Let's go through our list
+of honorable mentions before we announce this
+
+43
+00:04:16,448 --> 00:04:22,850
+no prize winner. Our first honorable mention
+goes to John Spies who said, Hi gentlemen,
+
+44
+00:04:23,271 --> 00:04:29,453
+Executive Producer John Spies here. Not only
+should the deleted scene not have appeared
+
+45
+00:04:29,493 --> 00:04:36,166
+in the movie. But the whole Joker cameo was
+completely unnecessary. It added nothing to
+
+46
+00:04:36,186 --> 00:04:41,991
+the story, only to add for fan service, and
+to be honest, we're a little oversaturated
+
+47
+00:04:42,231 --> 00:04:47,615
+with the Joker right now. So honestly, he's
+got a whole rogues gallery. Give us something
+
+48
+00:04:47,675 --> 00:04:53,901
+new. Do you think that the Joker was included
+in the Batman movie as fan service? Oh yeah,
+
+49
+00:04:53,961 --> 00:04:58,304
+totally. I agree with John. I don't think there
+was really any reason for him to be in the
+
+50
+00:04:58,324 --> 00:05:04,520
+movie and even the deleted scene. save for fanservice.
+It is great to know that he exists in that
+
+51
+00:05:04,580 --> 00:05:08,983
+universe and I definitely would have been questioning
+where's the Joker if he didn't appear in the
+
+52
+00:05:09,003 --> 00:05:15,247
+movie as a fan, but that being said I understand
+it's there only for the fans and wasn't there
+
+53
+00:05:15,327 --> 00:05:19,950
+for the story. I've gone back and forth as to
+whether or not this should be in the film and
+
+54
+00:05:20,091 --> 00:05:25,750
+you know acknowledging the fact that it is fanservice
+is a pretty good reason. John of course is
+
+55
+00:05:25,790 --> 00:05:30,372
+the co-host of the Blast from Our Past podcast,
+which he does with his brother Adam Spies.
+
+56
+00:05:30,752 --> 00:05:35,774
+Both John and Adam are actually going to be
+guests on our podcast in just a couple of weeks.
+
+57
+00:05:36,014 --> 00:05:41,056
+You may remember them from our past episodes
+like our X-Men Origins Wolverine review and
+
+58
+00:05:41,136 --> 00:05:45,858
+our review of the 1960s Batman movie with Adam
+West. I love both of those episodes. I can't
+
+59
+00:05:45,938 --> 00:05:50,840
+wait to have these guys back on our show. Yeah,
+it'll be a great time. Our next honorable mention
+
+60
+00:05:50,880 --> 00:05:56,942
+goes to Rick, who said... Hey guys, Rick here.
+I think it was super necessary to pull such
+
+61
+00:05:56,982 --> 00:06:01,224
+an unnecessary scene from the movie. When I
+say that, I don't mean I didn't like the character.
+
+62
+00:06:01,284 --> 00:06:04,965
+I loved his betrayal and take on the Joker.
+I just don't think he did anything to really
+
+63
+00:06:05,005 --> 00:06:09,526
+move the story they were trying to tell along.
+I think it was a very character saturated movie
+
+64
+00:06:09,586 --> 00:06:14,227
+already. And I think those characters did a
+fantastic job of advancing the story they were
+
+65
+00:06:14,247 --> 00:06:19,149
+trying to tell. I hope to see him more. I hope
+to see him in future movies. I just don't think
+
+66
+00:06:19,189 --> 00:06:23,395
+he belonged in this one and I'm glad they pulled
+the scene. Yeah, I thought Barry Keegan did
+
+67
+00:06:23,435 --> 00:06:28,019
+a fantastic job as the Joker. I thought that
+take on the Joker was really, really super
+
+68
+00:06:28,059 --> 00:06:32,763
+interesting. But again, it really didn't service
+the story. Just like John said, what do you
+
+69
+00:06:32,783 --> 00:06:37,767
+think will come first? A sequel to the Batman
+or a sequel to the Joker? Like, when do you
+
+70
+00:06:37,787 --> 00:06:42,171
+think we'll see this character again? Oh, snap.
+That's a good question. I feel like a sequel
+
+71
+00:06:42,191 --> 00:06:46,875
+to the Joker will come up sooner because I feel
+like Todd Phillips and Joaquin Phoenix have
+
+72
+00:06:46,895 --> 00:06:51,827
+been working on that for a while. Honestly,
+though. I don't know if I need a sequel to
+
+73
+00:06:51,847 --> 00:06:56,391
+the Joker. In fact, I know I don't. I'm really
+hoping we get to see a sequel to the Batman
+
+74
+00:06:56,891 --> 00:07:00,895
+and never see a sequel to the Joker. I think
+that's a great standalone story. Just let that
+
+75
+00:07:00,975 --> 00:07:05,539
+one exist on its own. Yeah, I think I agree
+with that for sure. Great answer, Rick. Our
+
+76
+00:07:05,579 --> 00:07:11,845
+final honorable mention goes to Jacob Bell,
+who said. Hey guys, this is Jacob Bell. I may
+
+77
+00:07:11,865 --> 00:07:16,849
+have submitted this answer too late, but either
+way, I think it should have been in the movie.
+
+78
+00:07:17,582 --> 00:07:21,327
+I think it was a great scene and I think ultimately
+the reason it should have been in the movie
+
+79
+00:07:21,347 --> 00:07:27,695
+is because that kind of scene would have been
+in the comics. Like if that movie was a comic
+
+80
+00:07:27,795 --> 00:07:33,882
+or whatever, that kind of scene would have been
+in the comic absolutely and that's just how
+
+81
+00:07:33,922 --> 00:07:38,102
+the source material is so I think it should
+have been in the movie. Yeah, I'm old enough
+
+82
+00:07:38,122 --> 00:07:42,645
+to remember back when they did like novelizations
+of these comic book superhero films and they
+
+83
+00:07:42,665 --> 00:07:47,128
+would always have like extra scenes. They still
+may make these books. I'm actually not sure.
+
+84
+00:07:47,508 --> 00:07:51,451
+But yeah, this feels like this scene would have
+been in one of those stories, just one of those
+
+85
+00:07:51,551 --> 00:07:55,974
+extra scenes and definitely in a comic book,
+because, you know, in comics, you're not limited
+
+86
+00:07:56,134 --> 00:08:01,218
+by time like you are in a film. You're limited
+by page counts. Right. Exactly. But you're
+
+87
+00:08:01,238 --> 00:08:06,861
+also allowed to tell a really long story over
+a span of a month over a year rather than just.
+
+88
+00:08:07,102 --> 00:08:12,066
+within a few hours. I did really like the scene
+as I mentioned last week when we talked about
+
+89
+00:08:12,106 --> 00:08:16,870
+it. I thought it was a fantastic scene that
+really did justice to the Joker and portrayed
+
+90
+00:08:16,890 --> 00:08:21,534
+him in a way that we haven't seen him in a really
+long time on film. Just like literally the
+
+91
+00:08:21,594 --> 00:08:26,137
+smartest guy in the room and just like a total
+psychological threat for Batman. Yeah thanks
+
+92
+00:08:26,157 --> 00:08:30,941
+Jacob Bell. A lot of great answers here. We
+want to give big thanks to Wilfright, Bodhi,
+
+93
+00:08:31,362 --> 00:08:36,622
+Simone Bermudez and John Storosky for also taking
+the time to visit our website. Click that record
+
+94
+00:08:36,642 --> 00:08:42,966
+button and leave your answer. But the no prize
+for this week goes to Benjamin Alves who said
+
+95
+00:08:43,647 --> 00:08:49,151
+Hey John and Joe, so I think the Joker scene
+should have been in the movie because like
+
+96
+00:08:50,152 --> 00:08:57,877
+it gave out too much of the story and it like,
+I don't know, I feel like it would be better
+
+97
+00:08:58,057 --> 00:09:05,206
+if the Joker just wasn't in this movie or like
+they teased it with um the Joker card like
+
+98
+00:09:05,226 --> 00:09:10,149
+in Batman Begins. Like, yeah, that's it. Bye
+guys. Yeah, honestly, I think I would have
+
+99
+00:09:10,169 --> 00:09:14,251
+been happier with like a Joker tease, maybe
+not the card, because we've already had that,
+
+100
+00:09:14,631 --> 00:09:20,915
+than the scene that we got in the movie. The
+deleted scene, I agree with Benjamin, did reveal
+
+101
+00:09:20,995 --> 00:09:27,118
+too much of the story. Like the Joker gave away
+that the Riddler's motive was vengeance before
+
+102
+00:09:27,158 --> 00:09:32,721
+we would have even known that, right? And the
+fact that he was able to figure it out so quickly.
+
+103
+00:09:33,182 --> 00:09:39,424
+ahead of Batman just made Batman look like he
+wasn't that smart. And that scene kind of took
+
+104
+00:09:39,444 --> 00:09:44,926
+away from what made the scene between Batman
+and the Riddler so special in Arkham. Right,
+
+105
+00:09:44,986 --> 00:09:49,728
+right. Those scenes took place like in almost
+literally the same location, right? So it's
+
+106
+00:09:49,768 --> 00:09:55,091
+hard not to compare both of them. And I really,
+really liked Paul Dano's performance in that
+
+107
+00:09:55,131 --> 00:09:59,873
+scene. It was so haunting, so weird. But you
+can also see the same thing about the Joker
+
+108
+00:09:59,913 --> 00:10:04,815
+scene. So it wouldn't quite make sense to have.
+two kinds of scenes that were so similar in
+
+109
+00:10:04,855 --> 00:10:09,757
+the same movie. I do wish they would have taken
+the Joker completely out of the film and just
+
+110
+00:10:09,797 --> 00:10:14,339
+saved him for later. And that's why Benjamin
+Alvis gets this week's win. Yeah, congrats
+
+111
+00:10:14,379 --> 00:10:18,141
+Benjamin for winning this week's No Prize. If
+you the listener want a shot at winning Giro
+
+112
+00:10:18,181 --> 00:10:22,904
+No Prize, stay tuned to later on this episode
+when we'll be asking another question of the
+
+113
+00:10:22,924 --> 00:10:26,045
+week. And now that that's done, on to the news!
+
+114
+00:10:31,822 --> 00:10:37,147
+Okay, last week we learned that Sharon Stone
+will be playing Victoria Cord, who I guess
+
+115
+00:10:37,207 --> 00:10:42,612
+is the villain in the upcoming Blue Beetle movie
+that will be starring Sholo Maritwenya. I'm
+
+116
+00:10:42,692 --> 00:10:46,556
+really looking forward to this movie and I've
+been wondering who the main villain was going
+
+117
+00:10:46,576 --> 00:10:52,241
+to be and I'm actually really surprised to hear
+that it's an original character named Victoria
+
+118
+00:10:52,281 --> 00:10:58,214
+Cord. Now it sounds like she is related to the
+character Ted Cord. You know, either his mother
+
+119
+00:10:58,374 --> 00:11:03,137
+or maybe his wife or something like that. Or
+maybe a gender swap. It could be that too.
+
+120
+00:11:03,417 --> 00:11:08,740
+Yeah, they may be gender swapping Ted Kord into
+Victoria Kord, which would be interesting.
+
+121
+00:11:09,180 --> 00:11:13,503
+I would also hate it, but it would be interesting.
+Ted Kord, if you're not familiar with him,
+
+122
+00:11:14,003 --> 00:11:19,426
+is the second Blue Beetle, actually DC Comics'
+first Blue Beetle, because Blue Beetle, of
+
+123
+00:11:19,466 --> 00:11:24,869
+course, is a legacy character that was taken
+from Charlton Comics, which DC acquired in
+
+124
+00:11:24,889 --> 00:11:30,851
+the 80s. Yeah, Ted Kord's version of Blue Beetle
+was like this inventor kind of gadgeteer type
+
+125
+00:11:30,871 --> 00:11:36,656
+character. He was the head of Kord Industries.
+I'm wondering if Victoria is going to be the
+
+126
+00:11:36,676 --> 00:11:41,161
+head of Kord Industries in this upcoming movie.
+And that's just speculation. But if that's
+
+127
+00:11:41,201 --> 00:11:47,067
+the case, I get heavy Catwoman movie vibes from
+this casting, because of course, Sharon Stone
+
+128
+00:11:47,087 --> 00:11:51,651
+was the villain in the Catwoman movie with Halle
+Berry. You know, but also she was probably
+
+129
+00:11:51,731 --> 00:11:56,274
+the best part of that movie in a way. I think
+she's a fantastic actress. You know, I still
+
+130
+00:11:56,314 --> 00:12:03,359
+remember her from films like Basic Instinct.
+Did you say Basic Instinct? Of course, who'd
+
+131
+00:12:03,379 --> 00:12:08,602
+forget that? No, but I do think she should be
+working more than she is. I know she was almost
+
+132
+00:12:08,642 --> 00:12:13,205
+cast in a Marvel movie. Wasn't she almost going
+to be cast as Janet Van Dyne? Yeah, before
+
+133
+00:12:13,245 --> 00:12:17,328
+Michelle Pfeiffer got the role. See, I would
+have loved to have seen Sharon Stone over Michelle
+
+134
+00:12:17,348 --> 00:12:21,834
+Pfeiffer in that role, just so we could have.
+Michael Douglas Sharon Stone reunion. But I
+
+135
+00:12:21,894 --> 00:12:26,095
+really hope Victoria Cord is like Ted Cord's
+sister or something like that and maybe they're
+
+136
+00:12:26,135 --> 00:12:31,917
+both vying for the head of the company. Initially
+when I heard about this casting I didn't know
+
+137
+00:12:31,937 --> 00:12:36,078
+her name was Victoria Cord. I automatically
+thought that she was going to play the character
+
+138
+00:12:36,338 --> 00:12:41,800
+Ladama from the Blue Beetle comics. She's like
+a mob boss, this urban legend like no one is
+
+139
+00:12:41,840 --> 00:12:45,761
+quite sure if she's real or not and she's into
+the occult. That's right she was in the recent
+
+140
+00:12:45,961 --> 00:12:50,822
+Cat Omen hunted animated movie that we reviewed.
+Right yep. was her. And you know, for all I
+
+141
+00:12:50,842 --> 00:12:55,463
+know, maybe that's secretly who Victoria Cord
+is. Hopefully, let's not have a spoiler for
+
+142
+00:12:55,503 --> 00:13:01,105
+anyone. But we'll see. I don't actually know
+any of Blue Beetle's rogues gallery. Like,
+
+143
+00:13:01,165 --> 00:13:04,226
+is there a character that you wish would have
+been the villain of this instead of Victoria
+
+144
+00:13:04,286 --> 00:13:09,927
+Cord? I mean, ultimately, Jaime Reyes, his Blue
+Beetle scarab, has alien origins from this
+
+145
+00:13:10,087 --> 00:13:14,549
+alien race known as the Reach. I imagine that
+ultimately they will be the ultimate
+
+146
+00:13:18,398 --> 00:13:24,139
+occultism, Ladama will be involved with like,
+I don't know, black market alien weaponry from
+
+147
+00:13:24,179 --> 00:13:28,180
+the Reach or something like that. And she wants
+the scarab for herself. This is all speculation,
+
+148
+00:13:28,520 --> 00:13:32,861
+who knows. But yeah, the Reach would make sense
+for the character. If Sharon Stone turns out
+
+149
+00:13:32,881 --> 00:13:38,783
+to not be like a version of Ladama and she actually
+is a gender swapped version of Ted Kord, it
+
+150
+00:13:38,803 --> 00:13:44,384
+would be interesting to see like a female version
+of the Blue Beetle character. But if Ted Kord
+
+151
+00:13:44,645 --> 00:13:48,005
+is in the movie, well, that just brings us to
+our question of the week.
+
+152
+00:13:52,526 --> 00:13:57,589
+Who would you cast as Ted Kord in the Blue Beetle
+movie? Record your answer at dynamicduel.com
+
+153
+00:13:58,309 --> 00:14:02,232
+by clicking on the red microphone button in
+the bottom right-hand corner, which will prompt
+
+154
+00:14:02,272 --> 00:14:06,795
+you to leave us a voicemail. Your message could
+be up to 30 seconds long, and don't forget
+
+155
+00:14:06,815 --> 00:14:11,078
+to leave your name in case we include you on
+the podcast. We'll pick our favorite answer
+
+156
+00:14:11,338 --> 00:14:15,681
+and draw that person a Dynamic Duel No Prize
+that we'll post to social media. Be sure to
+
+157
+00:14:15,741 --> 00:14:20,765
+answer before April 9th. But I think that does
+it for all the news for this episode, so let's
+
+158
+00:14:20,785 --> 00:14:25,060
+go ahead and get into our main event. where
+we review the latest Sony Pictures Spider-Man
+
+159
+00:14:25,121 --> 00:14:26,705
+Universe film, Morbius.
+
+160
+00:14:42,606 --> 00:14:47,909
+Okay, so Morbius came out this past week, finally,
+after being delayed several times from its
+
+161
+00:14:47,969 --> 00:14:55,013
+initial July 2020 release date, largely due
+to the COVID-19 pandemic. Like Venom and Venom
+
+162
+00:14:55,053 --> 00:14:59,696
+Let There Be Carnage, the film is part of Sony's
+Spider-Man universe that is adjacent to the
+
+163
+00:14:59,796 --> 00:15:05,659
+MCU and indirectly associated with Spider-Man.
+When the Morbius film was first announced,
+
+164
+00:15:05,739 --> 00:15:10,758
+I was bummed because, let's be real, Sony doesn't
+know what they're doing. and they're only holding
+
+165
+00:15:10,798 --> 00:15:14,459
+onto the Spider-Man film rights to make money,
+not because they care about these characters
+
+166
+00:15:14,759 --> 00:15:20,240
+or about making great movies. So in this film
+kept getting pushed back. Honestly, I didn't
+
+167
+00:15:20,260 --> 00:15:25,782
+really care. And my anticipation for it was
+nonexistent. Oh, yeah, dude, you think yours
+
+168
+00:15:25,822 --> 00:15:33,004
+was nonexistent. Mine was like beyond negative
+nonexistent. Like if this film never came out,
+
+169
+00:15:33,204 --> 00:15:39,814
+I would have been thrilled. Like I would joke.
+that the movie was gonna be amazing and make
+
+170
+00:15:39,854 --> 00:15:43,216
+trillions of dollars. And I was doing that ironically,
+because honestly I didn't have any faith that
+
+171
+00:15:43,256 --> 00:15:48,238
+this film was gonna be good. My expectations
+could not be lower unless I guess they were
+
+172
+00:15:48,278 --> 00:15:53,400
+yours. Right. But I think that was definitely
+to the movie's benefit, because not only did
+
+173
+00:15:53,460 --> 00:15:58,662
+I find that the movie was not terrible, I thought
+it was actually pretty decent, similar to how
+
+174
+00:15:58,702 --> 00:16:04,245
+I found the first Venom film or the new Mutants.
+So despite what I thought the movie would be
+
+175
+00:16:04,425 --> 00:16:10,188
+and how many critics are coming down on it,
+I would in fact recommend the movie if you
+
+176
+00:16:10,228 --> 00:16:16,073
+have even the slightest inclination to see it.
+To me this is like a perfect streaming film,
+
+177
+00:16:16,193 --> 00:16:20,597
+like don't pay extra to see it at least. But
+check it out on streaming if you want to waste
+
+178
+00:16:20,697 --> 00:16:28,023
+a couple of hours of your life. I mean also
+check it out if you like vampire movies or
+
+179
+00:16:28,063 --> 00:16:33,707
+if you like Jared Leto or Matt Smith or great
+visual effects or if you're a fan of Morbius
+
+180
+00:16:33,727 --> 00:16:38,870
+as a character. There are plenty of reasons.
+to watch this movie. And if you haven't seen
+
+181
+00:16:38,910 --> 00:16:43,352
+it, I would suggest stop listening to this review
+because we're going to be discussing spoilery
+
+182
+00:16:43,432 --> 00:16:47,754
+plot points from the movie, see the movie first,
+then come back and compare your thoughts with
+
+183
+00:16:47,834 --> 00:16:52,276
+ours. Now I'm not going to say that this is
+a great film by any means, but in this day
+
+184
+00:16:52,316 --> 00:16:57,198
+and age, it does seem like people will trash
+something as a dumpster fire if it doesn't
+
+185
+00:16:57,338 --> 00:17:03,560
+absolutely blow them away. And I'm like, let's
+be realistic. Quality is a spectrum. It's not
+
+186
+00:17:03,620 --> 00:17:07,735
+black or white. There are plenty of middling
+films out there. that could be worth your time
+
+187
+00:17:08,055 --> 00:17:13,660
+depending on what your tastes are. Now Morbius
+is not Avengers Infinity War, but it's not
+
+188
+00:17:13,700 --> 00:17:17,923
+Catwoman either. And I honestly think people
+who know the character of Morbius in the comics
+
+189
+00:17:18,264 --> 00:17:23,568
+would be hard pressed to come up with a much
+better film for him given his backstory. Honestly
+
+190
+00:17:23,608 --> 00:17:27,932
+this is probably almost as good of a Morbius
+film as you're gonna get where it has a PG-13
+
+191
+00:17:28,373 --> 00:17:32,957
+rating and no Spider-Man involvement. Because
+we both know changing either of those things
+
+192
+00:17:33,117 --> 00:17:38,111
+would have made this better. Yeah, totally.
+I mean, I've seen so much hate online for this
+
+193
+00:17:38,171 --> 00:17:47,473
+movie. A lot of it for me, honestly. But after
+having seen it, I don't get the hate from people
+
+194
+00:17:47,533 --> 00:17:53,575
+who have seen the movie, I guess. I mean, the
+movie reminded me a lot of a superhero film
+
+195
+00:17:53,595 --> 00:17:58,536
+from when I was a kid, you know, in the 90s
+and early 2000s. Just check your brain at the
+
+196
+00:17:58,556 --> 00:18:02,637
+door kind of entertainment, right? We get into
+debates over the value of entertainment all
+
+197
+00:18:02,657 --> 00:18:07,939
+the time. To me it comes secondary to story,
+but Marvel fans can't seem to get enough of
+
+198
+00:18:07,999 --> 00:18:13,380
+it. Which is why I'm wondering why so many Marvel
+fans have turned on this film. Like what kind
+
+199
+00:18:13,420 --> 00:18:19,542
+of film were you expecting with a character
+like Morbius? Well I mean, the movie does have
+
+200
+00:18:19,882 --> 00:18:24,263
+a lot of issues. We'll definitely talk about
+them as we go through this review. I'll start
+
+201
+00:18:24,283 --> 00:18:28,805
+off by saying that the marketing of the film
+was an utter shit show. Oh totally. Not only
+
+202
+00:18:28,845 --> 00:18:33,191
+did the trailers fail to get people excited
+for the movie, they didn't adequately represent
+
+203
+00:18:33,211 --> 00:18:37,394
+the movie. A lot of what you've seen in the
+trailers ended up on the cutting room floor,
+
+204
+00:18:37,795 --> 00:18:42,699
+including a lot of Jared Harris's role, Tyrese's
+role, you know, there was no bionically enhanced
+
+205
+00:18:42,759 --> 00:18:47,203
+arm here, and the meeting between Morbius and
+Michael Keaton's vulture, which I know a lot
+
+206
+00:18:47,243 --> 00:18:50,846
+of people were anticipating. Yeah, it really
+makes you wonder what this movie would have
+
+207
+00:18:50,866 --> 00:18:55,450
+looked like if it came out before No Way Home.
+Right, they may have resulted in a lot of the
+
+208
+00:18:55,470 --> 00:19:00,642
+changes here. Now, I try not to hold the marketing
+of a film against the final product. But it's
+
+209
+00:19:00,682 --> 00:19:06,747
+clear that this movie got edited a lot. And
+that may be a good thing after all, considering
+
+210
+00:19:06,787 --> 00:19:11,471
+the movie was actually better than the trailers
+made it out to be. I'm guessing the studio
+
+211
+00:19:11,571 --> 00:19:16,715
+identified and removed some of the film's early
+problems, which is good, but yeah, it's cut
+
+212
+00:19:16,755 --> 00:19:22,720
+up. And the movie is not long either because
+of that. It's only about an hour and 44 minutes
+
+213
+00:19:22,780 --> 00:19:27,544
+and it moves at a pretty brisk pace. And in
+a way, I would almost describe this film as
+
+214
+00:19:27,584 --> 00:19:34,356
+the anti-The Batman. where nothing lasts longer
+than necessary. And I think a lot of people
+
+215
+00:19:34,636 --> 00:19:39,963
+that did not like the Batman will probably really
+like this film. Well, I think a Venn diagram
+
+216
+00:19:40,123 --> 00:19:47,473
+of people who think that and also like ate paste
+as a child is like a perfect circle. Ha ha
+
+217
+00:19:47,493 --> 00:19:47,573
+ha.
+
+218
+00:19:50,708 --> 00:19:57,416
+I guarantee you they do. Uh, no, I mean, I don't
+think the movie is quite as dumb as you're
+
+219
+00:19:57,556 --> 00:20:02,700
+portraying it. You know, when I did a deep dive
+of reading into the character of Morbius during
+
+220
+00:20:02,740 --> 00:20:09,826
+our duel episode where we pit him against Manbat,
+I found that Morbius is one of Marvel's most,
+
+221
+00:20:09,886 --> 00:20:15,651
+if not the most tragic character because not
+only has he experienced a lot of the tremendous
+
+222
+00:20:15,691 --> 00:20:20,814
+loss and unbearable circumstances that a lot
+of heroes go through. Specifically, he was
+
+223
+00:20:20,834 --> 00:20:26,316
+like a good man and doctor who became a monster
+compelled to kill. He can't control himself,
+
+224
+00:20:26,677 --> 00:20:32,279
+he can't cure himself, and because of his healing
+factor, he can't die, not even from traditional
+
+225
+00:20:32,299 --> 00:20:37,561
+weapons due to his technically non-supernatural
+status. So he lives as this pitiable soul in
+
+226
+00:20:37,581 --> 00:20:42,543
+the comics who tries to make the best of his
+situation by combating evil. And I felt that
+
+227
+00:20:42,564 --> 00:20:48,430
+if this movie was going to be any good, it really
+had to convey that tragic theme. of being forced
+
+228
+00:20:48,490 --> 00:20:54,495
+into essentially committing murder in order
+to live. And while elements of that were here,
+
+229
+00:20:54,875 --> 00:21:00,420
+I think this film addressed the issue mostly
+indirectly. The only innocent people he killed
+
+230
+00:21:00,520 --> 00:21:05,144
+were on the boat, and their innocence kind of
+is up for speculation given that they were
+
+231
+00:21:05,204 --> 00:21:09,307
+mercenaries. Yeah, the film basically went out
+of its way to tell you that, hey, these guys
+
+232
+00:21:09,347 --> 00:21:13,898
+probably deserve to die. Yeah. Yeah, they're
+not good guys. But to the film's credit, it
+
+233
+00:21:13,958 --> 00:21:20,481
+did introduce some interesting devices to Morbius's
+mythology. One of which was like the synthetic
+
+234
+00:21:20,521 --> 00:21:26,583
+blood. And that kind of served as like a ticking
+time bomb in the movie, where once that temporary
+
+235
+00:21:26,623 --> 00:21:32,586
+solution had run its course, he would become
+the uncontrollable murderer. But also in this
+
+236
+00:21:32,646 --> 00:21:37,868
+movie, if he didn't drink the synthetic blood
+and he drank real blood, he would also become
+
+237
+00:21:37,968 --> 00:21:43,482
+uncontrollable, like go into this bloody drunken
+rage. So it was tricky. And then of course,
+
+238
+00:21:43,682 --> 00:21:49,624
+in this film, he also developed a means of killing
+vampires like himself with that iron rich anticoagulant,
+
+239
+00:21:49,924 --> 00:21:54,586
+which was pretty nice because he never came
+up with that in the books. So while like this
+
+240
+00:21:54,646 --> 00:22:00,048
+wasn't quite the story of an uncontrollable
+killer, it did bring some interesting ideas
+
+241
+00:22:00,068 --> 00:22:06,402
+to the table to sidestep that. And the consequences
+of his failure still felt very real. I think
+
+242
+00:22:06,422 --> 00:22:11,444
+the film did a good job introducing what Morbius
+would be like if things were taken to their
+
+243
+00:22:11,484 --> 00:22:16,466
+worst. You know, we had Milo as an example.
+Yeah, absolutely. He was essentially what the
+
+244
+00:22:16,506 --> 00:22:21,468
+consequences would be. And it's just a cold,
+ruthless killer. Morbius did not want to be
+
+245
+00:22:21,508 --> 00:22:25,970
+that. And though he has resorted to drinking
+the blood of innocents in the comic books from
+
+246
+00:22:26,030 --> 00:22:29,931
+time to time, you know, he started out as a
+Spider-Man villain after all, his whole arc
+
+247
+00:22:29,951 --> 00:22:35,073
+has always involved trying to prevent that.
+He feels extreme guilt over those vampiric
+
+248
+00:22:35,133 --> 00:22:40,153
+actions. So at least they captured that in this
+movie. But I think what surprised me most about
+
+249
+00:22:40,213 --> 00:22:44,736
+this film was the quality of its special effects,
+actually. Because I didn't think they'd be
+
+250
+00:22:44,756 --> 00:22:50,220
+very good from the trailers. Specifically though,
+in the quality of its body effects. The visual
+
+251
+00:22:50,240 --> 00:22:54,683
+effects that were around during the time of
+Captain America, the first Avenger, we've gone
+
+252
+00:22:54,863 --> 00:22:59,767
+way past that. Because in that movie, like the
+pre-serum Steve Rogers, sometimes looked like
+
+253
+00:22:59,847 --> 00:23:03,469
+Chris Evans disembodied head on a scrawny dude's
+shoulders, you know? Wait, like Bobblehead?
+
+254
+00:23:04,130 --> 00:23:09,253
+Yeah, yeah, the scenes of like Jared Leto like
+laying on the table in the freighter. That
+
+255
+00:23:09,273 --> 00:23:14,235
+was seamless. I was like, dang, like Jared Leto
+must not have eaten for like a few months to
+
+256
+00:23:14,436 --> 00:23:18,418
+do that scene. You know, and he's done stuff
+like that for roles, but it seems like he may
+
+257
+00:23:18,438 --> 00:23:22,560
+not have to do that ever again because the special
+effects are so good here. They can make actors
+
+258
+00:23:22,600 --> 00:23:27,103
+bodies look like whatever they want to. He went
+from an emaciated guy in the beginning to like
+
+259
+00:23:27,203 --> 00:23:32,838
+a male underwear model without really any suspension
+of disbelief. Oh, yeah, totally. I think the
+
+260
+00:23:32,878 --> 00:23:38,242
+seamless and subtle way Morbius and Milo would
+transform into their vampire forms was also
+
+261
+00:23:38,383 --> 00:23:43,367
+really impressive and kind of disturbing even.
+Like Matt Smith's vampire face in particular
+
+262
+00:23:43,407 --> 00:23:47,890
+was the stuff of nightmares for me. Like so
+much so that when the camera would linger on
+
+263
+00:23:47,930 --> 00:23:53,455
+it, I'd get uncomfortably creeped out. But also,
+I think that's as far as the great special
+
+264
+00:23:53,495 --> 00:23:57,498
+effects went. I don't know if I would agree
+with you in saying that this film's special
+
+265
+00:23:57,518 --> 00:24:01,221
+effects were that great. It was a little cartoonish.
+I think they could have taken it a step further.
+
+266
+00:24:01,654 --> 00:24:05,756
+Well, I mean like when they weren't actively
+flying around and smashing into things. I think
+
+267
+00:24:05,776 --> 00:24:10,458
+their look was really well done. Let's go ahead
+and move into the character breakdown. Starting
+
+268
+00:24:10,518 --> 00:24:15,741
+with Michael Morbius who is played by Jared
+Leto. And let me start off by saying I can't
+
+269
+00:24:15,821 --> 00:24:21,404
+stand Jared Leto. The guy is pretentious as
+fuck. He almost ruined the concerts that I
+
+270
+00:24:21,444 --> 00:24:26,187
+went to at Red Rocks. I won't get into it, but
+he was really drunk and made like the audience
+
+271
+00:24:26,207 --> 00:24:30,189
+sing all the words to his 30 seconds to Mars
+songs. Yes, I don't have too much against the
+
+272
+00:24:30,209 --> 00:24:35,851
+guy. I feel like You've been hanging that over
+his head for as long as I can remember. Honestly,
+
+273
+00:24:35,891 --> 00:24:40,412
+though, I thought he was perfect for this role.
+I thought he did a fantastic job as Morbius.
+
+274
+00:24:40,892 --> 00:24:44,333
+Yeah, I mean, the guy can act no matter how
+I feel about him. You know, outside of the
+
+275
+00:24:44,373 --> 00:24:49,555
+Joker, I should say. I think he's a fantastic
+actor and, you know, he has the accolades to
+
+276
+00:24:49,615 --> 00:24:54,696
+prove it. From Rokuiem for a Dream and Dallas
+Buyers Club. I was very satisfied with his
+
+277
+00:24:54,756 --> 00:24:59,022
+performance here, and I really liked him in
+the role as much as I didn't want to. He just
+
+278
+00:24:59,042 --> 00:25:04,747
+has a very subtle acting technique that is pretty
+effective, I think. I think it helps in the
+
+279
+00:25:04,787 --> 00:25:10,211
+fact that Jared Leto is a literal vampire, and
+the fact that he's 50 years old and looks like
+
+280
+00:25:10,231 --> 00:25:14,936
+he's 29. Yeah, he's definitely been drinking
+the blood of innocence or something like that.
+
+281
+00:25:14,976 --> 00:25:19,860
+Yes, yes. There's no other explanation. Now
+in regards to the character, I think Morbius
+
+282
+00:25:19,880 --> 00:25:24,224
+is probably one of the easier characters to
+get right in terms of motivation, because it's
+
+283
+00:25:24,284 --> 00:25:29,332
+very straightforward. You know, he develops...
+the experimental bat treatment because he wants
+
+284
+00:25:29,412 --> 00:25:34,257
+to live essentially, and then he becomes a pseudo
+vampire and fights evil because it's the only
+
+285
+00:25:34,297 --> 00:25:41,103
+way his conscience can tolerate his murderous
+nature. Here it's more about stopping one evil,
+
+286
+00:25:41,223 --> 00:25:46,008
+in particular his best friend Milo, who took
+the serum he developed and so he feels some
+
+287
+00:25:46,048 --> 00:25:50,832
+responsibility in stopping. So the main storyline
+is easy to understand where he's coming from,
+
+288
+00:25:51,152 --> 00:25:55,967
+but at the end of the movie... It wasn't quite
+clear what his plan was in regards to his thirst
+
+289
+00:25:56,087 --> 00:26:00,769
+now that the synthetic blood was ineffective,
+or what his plan in general was, whether it
+
+290
+00:26:00,809 --> 00:26:05,971
+was to look for a new treatment, or become an
+anti-hero, or what. Now yeah, the movie really
+
+291
+00:26:06,091 --> 00:26:11,994
+started and ended with Milo. Once that whole
+arc was wrapped up, the movie ended pretty
+
+292
+00:26:12,074 --> 00:26:18,216
+abruptly. Yeah, for sure. I guess, ultimately,
+he's joining the Sinister Six, but like, who
+
+293
+00:26:18,236 --> 00:26:23,982
+knows what their goals are outside of defeating
+Spider-Man? who I'm not even sure exists within
+
+294
+00:26:24,282 --> 00:26:28,903
+this universe. Well, Morbius seemed to know
+who he was. Yeah, he didn't question it. But
+
+295
+00:26:28,943 --> 00:26:33,725
+also he didn't really say anything to the vulture
+at the end of the movie besides interesting.
+
+296
+00:26:35,785 --> 00:26:40,927
+Isn't this weird? It was a bizarre edit of like
+a last minute reshoot or something, it was
+
+297
+00:26:40,987 --> 00:26:45,028
+bizarre. We'll probably talk more about the
+end credit scenes later. But back to Morbius,
+
+298
+00:26:45,408 --> 00:26:50,949
+I thought the portrayal of his powers was interesting.
+Like they substituted his enhanced senses in
+
+299
+00:26:50,969 --> 00:26:56,856
+the comics. with echolocation, which is not
+a power that Morbius has in the source material,
+
+300
+00:26:56,956 --> 00:27:01,778
+even though it probably should be. You know,
+in the books, he can smell things very acutely,
+
+301
+00:27:02,178 --> 00:27:08,140
+he can see in the dark and in various wavelengths,
+but in the film, it was all about sound, which
+
+302
+00:27:08,180 --> 00:27:12,982
+gave him this radar sense, which I think totally
+works thematically due to his bad nature. And
+
+303
+00:27:13,042 --> 00:27:18,324
+I think they probably should adopt that power
+for him in the comics. Yeah, Marvel seems to
+
+304
+00:27:18,344 --> 00:27:22,806
+have pretty good synergy between their movies
+and their comics. if they didn't go this route.
+
+305
+00:27:23,146 --> 00:27:27,389
+Yeah, I think it would be totally apt. And I
+thought it was interesting how they portrayed
+
+306
+00:27:27,409 --> 00:27:32,391
+the echolocation visually in this movie, where
+everything kind of moved with a smoke trail
+
+307
+00:27:32,712 --> 00:27:37,494
+and the things that he focused on seemingly
+gave off like a sort of smoke signal. I thought
+
+308
+00:27:37,514 --> 00:27:42,717
+it was pretty neat and very unlike how Daredevil's
+radar sense has been visually portrayed. I
+
+309
+00:27:42,857 --> 00:27:47,700
+didn't like the way this was portrayed. Just
+making everything cloudy didn't make sense
+
+310
+00:27:47,880 --> 00:27:52,598
+to me because sound isn't really like a cloud.
+I think they could have done it differently,
+
+311
+00:27:52,998 --> 00:27:57,500
+but at least it's different, you know, from
+anything else we've seen. I think it didn't
+
+312
+00:27:57,760 --> 00:28:02,543
+100 percent click with me until like toward
+the end of the movie when he was gliding through
+
+313
+00:28:02,563 --> 00:28:07,605
+the city to save Martine. And like he could
+kind of sense her blood visually floating through
+
+314
+00:28:07,625 --> 00:28:11,566
+the air, like he was sensing it as the sound
+waves bounced back to him. And that's how he
+
+315
+00:28:11,587 --> 00:28:15,848
+was perceiving it. It was almost like she smelled
+or something like that, you know, like you
+
+316
+00:28:15,868 --> 00:28:20,926
+could smell her blood, maybe. Yeah, something
+like that. The smoke kind of represented multiple
+
+317
+00:28:20,946 --> 00:28:24,827
+senses in that regard. In the movie posters
+and stuff like that, we saw like these waves
+
+318
+00:28:24,907 --> 00:28:29,249
+emanating from him. I thought that would have
+been cooler. Well, we did see that briefly
+
+319
+00:28:29,709 --> 00:28:33,630
+when he was first explaining his echolocation.
+We saw like the sound waves go out and then
+
+320
+00:28:33,670 --> 00:28:39,752
+come back. They use this interesting visual
+cue where his eyes got cloudy whenever he would
+
+321
+00:28:39,852 --> 00:28:44,933
+use echolocation. Oh, and his ears rippled too.
+Yeah, they became like furry or something.
+
+322
+00:28:45,093 --> 00:28:49,668
+Gross. It's weird. I don't know if they needed
+both of those visual cues, but, uh, cause the
+
+323
+00:28:49,708 --> 00:28:55,192
+ear thing was just kind of gross. It's like,
+Ooh, my ears are tingling. I do like the way
+
+324
+00:28:55,232 --> 00:29:00,075
+this movie explained the science of his bat
+serum. Cause like in the books, you know, it
+
+325
+00:29:00,095 --> 00:29:06,399
+was just like bat blood and electroshock, but
+here he was like vampire bats evolved into
+
+326
+00:29:06,439 --> 00:29:11,303
+the only animals that feed entirely on blood
+because of some kind of enzyme they have and
+
+327
+00:29:11,343 --> 00:29:17,170
+blah, blah. Yeah. I totally thought that the
+science behind this movie, was much easier
+
+328
+00:29:17,190 --> 00:29:22,393
+to understand and accept than the science from
+the comics. Yeah. I love the vampirism angle
+
+329
+00:29:22,413 --> 00:29:26,835
+that they took for this movie. It was really
+well done, I thought. For some reason, I always
+
+330
+00:29:26,976 --> 00:29:32,098
+like when they mix science with the supernatural,
+kind of like Blade kind of explained why vampires
+
+331
+00:29:32,118 --> 00:29:36,941
+need to drink blood and stuff like that. But
+essentially in this movie, his treatment was
+
+332
+00:29:36,961 --> 00:29:42,944
+like a chimeric merge of human and bat cells
+that made this feel more like the Island of
+
+333
+00:29:42,964 --> 00:29:47,382
+Dr. Moreau, but on a much more practical level.
+Yeah, I love all the different adaptations
+
+334
+00:29:47,423 --> 00:29:51,325
+that they made to make the character more modern
+and accessible. If it was like the instead
+
+335
+00:29:51,345 --> 00:29:55,787
+of being a stowaway on a ship, like he had to
+go out and do this experiment in international
+
+336
+00:29:55,827 --> 00:29:59,909
+waters. I thought that was cool. Yeah. I love
+the synthetic blood. That was really cool.
+
+337
+00:29:59,949 --> 00:30:03,671
+And I love the look of the synthetic blood,
+like how it was blue. You know, it was like
+
+338
+00:30:03,711 --> 00:30:08,154
+this is the good stuff and the red stuff is
+the danger stuff. Yeah, that's pretty cool.
+
+339
+00:30:08,174 --> 00:30:15,318
+Let's go to move on to Lucian, AKA Milo played
+by Matt Smith. I thought Matt Smith. I didn't
+
+340
+00:30:15,338 --> 00:30:19,541
+know what to think about him before this movie,
+because he had a very small part in the trailers,
+
+341
+00:30:19,842 --> 00:30:23,605
+but I thought he was a lot of fun here. I wasn't
+expecting him to be any good at all, but he
+
+342
+00:30:23,645 --> 00:30:28,469
+turned out to be actually one of my favorite
+parts of the movie. He almost saves this movie
+
+343
+00:30:28,669 --> 00:30:34,194
+with how sinister of a villain he is. Oh totally.
+I knew he was probably going to be my favorite
+
+344
+00:30:34,214 --> 00:30:39,779
+part of the film going into it, and he absolutely
+was. Yeah. I mean he killed a lot of people
+
+345
+00:30:39,819 --> 00:30:43,978
+here, and he did it with like this sense of
+superiority and glee. So you could totally
+
+346
+00:30:44,018 --> 00:30:48,942
+see why he needed to be stopped. But the fact
+that he and Morbius were best friends, almost
+
+347
+00:30:48,982 --> 00:30:53,505
+brothers since childhood, it threw an interesting
+dramatic element in there. Yeah, they also
+
+348
+00:30:53,525 --> 00:30:58,228
+made him the benefactor of Morbius's research.
+So it kind of threw another interesting twist
+
+349
+00:30:58,268 --> 00:31:02,732
+in there as to like who really owned the research
+and was he entitled to that serum? Yeah, for
+
+350
+00:31:02,772 --> 00:31:07,215
+sure. It was a kind of relationship that you
+don't see too much within these superhero stories.
+
+351
+00:31:07,235 --> 00:31:12,422
+Like even going back to when they were kids,
+I think Morbius... first called him Milo as
+
+352
+00:31:12,462 --> 00:31:17,505
+like this way to detach from this new kid who
+probably wasn't gonna live long as a friend,
+
+353
+00:31:17,565 --> 00:31:22,488
+you know? And the nickname stuck and towards
+the end of the movie when Morbius finally killed
+
+354
+00:31:22,508 --> 00:31:27,691
+him at the end, Milo was like, you can't kill
+me, you gave me my name, you know? I thought
+
+355
+00:31:27,711 --> 00:31:31,873
+that was kind of deep, you know? There was like
+some palpable weight to the tragedy of it.
+
+356
+00:31:32,193 --> 00:31:36,676
+Yeah, you almost get the sense that Morbius
+was like responsible for Milo's life in a way.
+
+357
+00:31:37,276 --> 00:31:41,791
+Yeah. He definitely promised to cure him and
+to save him. So when that ends up going bad,
+
+358
+00:31:41,951 --> 00:31:46,234
+it's very heartbreaking that he had to take
+Milo's life. Yeah. And I think that aspect,
+
+359
+00:31:46,294 --> 00:31:51,157
+you're right, did save the film and did add
+some extra gravitas and some extra thematic
+
+360
+00:31:51,197 --> 00:31:56,521
+weight that the film otherwise would not have
+had. It is hard to know why Milo turned evil
+
+361
+00:31:56,561 --> 00:32:02,565
+though, other than being corrupted by his newfound
+power, which I think on its own is never a
+
+362
+00:32:02,605 --> 00:32:07,769
+great motivation. Well, it did explain that
+he was perhaps bullied a bit more than Morbius
+
+363
+00:32:07,809 --> 00:32:13,443
+was in their childhood. He was upset his whole
+life that he was not able to do what others
+
+364
+00:32:13,483 --> 00:32:17,504
+were able to do. He felt like, you know, others
+were superior toward him or felt superior toward
+
+365
+00:32:17,524 --> 00:32:22,645
+him. And finally, he was able to do everything
+everyone else could do and more, you know,
+
+366
+00:32:22,806 --> 00:32:27,167
+feel like what it's really like to be alive.
+And I think he was just really taking out all
+
+367
+00:32:27,207 --> 00:32:32,468
+those years of resentment for people who were
+able to do things that he couldn't do on Innocence.
+
+368
+00:32:32,768 --> 00:32:37,334
+Yeah, totally. I guess his goal in the film
+was to torture Morbius. by killing the ones
+
+369
+00:32:37,354 --> 00:32:42,879
+he loved in order to convince him of their new,
+like, primal nature. But it's hard to understand
+
+370
+00:32:43,039 --> 00:32:48,723
+what his plan was beyond that. I guess he wanted
+him and Morbius to just rule over others as
+
+371
+00:32:48,763 --> 00:32:53,948
+seemingly more evolved beings or something.
+That wasn't clear. And it is hard to know when
+
+372
+00:32:54,268 --> 00:32:58,511
+and how Milo took the serum though. Because
+I don't remember a shot of him actually taking
+
+373
+00:32:58,611 --> 00:33:03,656
+one of the vials, do you? No. No, that was kind
+of cheap, I felt. Actually really cheap. It
+
+374
+00:33:03,716 --> 00:33:07,787
+did make for a nice surprise though later on
+in the movie. where he walks in with a bag
+
+375
+00:33:07,827 --> 00:33:11,089
+of blood and it's like, oh, that's nice, you
+know, he's like helping his boy out with a
+
+376
+00:33:11,109 --> 00:33:14,611
+bag of blood. And then he walks out without
+his cane and everything like that. That was
+
+377
+00:33:14,631 --> 00:33:18,914
+kind of like a shock. I was like, wait. You
+actually thought that was a really well written
+
+378
+00:33:18,955 --> 00:33:24,498
+and well done reveal. Like once you understood
+the significance of that cane, like it really
+
+379
+00:33:24,579 --> 00:33:30,243
+got you. Yeah, for sure. I do have to say that
+like this kind of sold me on Matt Smith as
+
+380
+00:33:30,303 --> 00:33:34,762
+John Constantine. I can see that. With like
+the trench coat and like the hair. And the
+
+381
+00:33:34,882 --> 00:33:39,043
+accent, I think it could work. He could totally
+pull it off for sure. But he has that real
+
+382
+00:33:39,083 --> 00:33:43,464
+creepy bone structure about him too, you know?
+I think that's why he'll be good in the Game
+
+383
+00:33:43,484 --> 00:33:47,505
+of Thrones spinoff. Right. What's interesting
+about the Milo character is that in the comics,
+
+384
+00:33:47,905 --> 00:33:52,486
+Morbius's best friend was named Emil. And he
+was a healthy kid, a neighborhood best friend,
+
+385
+00:33:52,806 --> 00:33:57,648
+who became a scientist just like Morbius to
+try and save him. And you know, he helped him
+
+386
+00:33:57,728 --> 00:34:02,749
+administer his initial bat serum, and he was
+the first person Morbius killed right after
+
+387
+00:34:02,769 --> 00:34:08,324
+turning into a vampire. In this movie, though,
+Milo was like an amalgamation of Emil from
+
+388
+00:34:08,344 --> 00:34:14,008
+the books and Loxious Crown, who was a hydro-scientist
+that became the villain Hunger, who was another
+
+389
+00:34:14,068 --> 00:34:19,772
+pseudo-vampire like Morbius. But turning Morbius'
+friend into the main villain was, I thought,
+
+390
+00:34:19,872 --> 00:34:24,295
+a great change from the source material. I thought
+it worked really well. Yeah, I like this more
+
+391
+00:34:24,435 --> 00:34:29,739
+than what you explained in your Morbius bio.
+Yeah. Let's move on to Martine Bancroft, who
+
+392
+00:34:29,759 --> 00:34:33,998
+was played by Adria Arjona. I don't know if
+I'm pronouncing that last name right. But I
+
+393
+00:34:34,038 --> 00:34:38,881
+don't think I've seen Adria in anything before,
+but I thought she was perfectly fine here as
+
+394
+00:34:38,901 --> 00:34:43,985
+a Martine. She didn't really have much to do
+in the story except assist Morbius. I feel
+
+395
+00:34:44,025 --> 00:34:48,488
+the movie dropped the ball on their romance.
+Because you know in the books, Morbius and
+
+396
+00:34:48,508 --> 00:34:54,171
+Martine were actually engaged when Morbius first
+took his bat serum. And here, they barely had
+
+397
+00:34:54,412 --> 00:34:58,494
+any romantic relationship except for like a
+kiss late in the movie and then the kiss right
+
+398
+00:34:58,534 --> 00:35:03,950
+before she died, quote unquote died. I think
+it would have been more tragic. when she died
+
+399
+00:35:03,990 --> 00:35:08,574
+in his arms and he drank her blood and everything,
+if that romance had been better established.
+
+400
+00:35:09,054 --> 00:35:14,058
+Oh, absolutely. Like, why not make them romantic
+partners right off the bat? I don't get that.
+
+401
+00:35:14,078 --> 00:35:18,121
+Maybe it's not professional? I don't know. I
+don't know. I don't think I have too many qualms
+
+402
+00:35:18,141 --> 00:35:23,466
+about professionalism or ethics in this film,
+you know? That's true. Plus, it's not like,
+
+403
+00:35:23,666 --> 00:35:27,489
+you know, a married couple can't be colleagues.
+That's entirely true, yeah. That's totally
+
+404
+00:35:27,509 --> 00:35:31,552
+valid. In the comics, you know, Martine eventually
+became more than just a pseudo-vampire. She
+
+405
+00:35:31,592 --> 00:35:36,352
+became a real vampire turned by Dracula and
+Morbius had to stake her through the heart
+
+406
+00:35:36,592 --> 00:35:42,257
+despite loving her. So it'll be interesting
+how they treat Morbius and Martine's relationship
+
+407
+00:35:42,297 --> 00:35:47,181
+going forward if the Morbius franchise continues.
+I mean we'll definitely see the character again.
+
+408
+00:35:47,522 --> 00:35:51,565
+I wonder if we'll end up seeing another Morbius
+movie again though. Yeah, who knows. We'll
+
+409
+00:35:51,605 --> 00:35:55,208
+see. There aren't too many other characters
+to talk about in our character breakdown, but
+
+410
+00:35:55,388 --> 00:35:59,952
+let's go ahead and move on to Simon Stroud who
+is played by Tyrese Gibson and Al Rodriguez
+
+411
+00:35:59,972 --> 00:36:04,572
+who is played by Al Madrigal. You know, the
+FBI agents here were pretty generic, but at
+
+412
+00:36:04,592 --> 00:36:11,097
+least they seemed fairly competent as investigators.
+Tyrese's character, Simon Stroud, I don't remember
+
+413
+00:36:11,157 --> 00:36:17,022
+him having a cybernetic arm in the Morbius comics
+I read. I could be wrong, but I am really glad
+
+414
+00:36:17,062 --> 00:36:21,045
+that they cut that whole element from the film
+since it seems like it would have essentially
+
+415
+00:36:21,065 --> 00:36:26,030
+been needless. Yeah, it seemed like they cut
+a lot of him out. It definitely seemed like
+
+416
+00:36:26,050 --> 00:36:29,793
+there was a lot more to the character than what
+we saw, even with like the scar across his
+
+417
+00:36:29,853 --> 00:36:33,687
+neck and stuff like that. It felt like there
+was stuff missing for sure. Do you feel like
+
+418
+00:36:33,747 --> 00:36:38,849
+the movie suffered because that wasn't in the
+film, though? No, not at all. Honestly, I'm
+
+419
+00:36:38,869 --> 00:36:43,471
+not even sure his character was necessary. I
+think I liked Agent Al more. Yeah. And considering
+
+420
+00:36:43,491 --> 00:36:47,292
+there was like very little humor within the
+film, I almost could have used a little bit
+
+421
+00:36:47,332 --> 00:36:53,875
+more of like a buddy dynamic between the two
+investigators. Maybe. Finally, let's move on
+
+422
+00:36:53,915 --> 00:37:00,277
+to Dr. Emil Nicholas, who is played by Jared
+Harris. Jared Harris, fucking brilliant actor.
+
+423
+00:37:00,802 --> 00:37:05,966
+completely wasted in this role, or rather in
+this cut of the film. You know, the trailers
+
+424
+00:37:06,006 --> 00:37:11,631
+seem to imply that he was sort of a mentor to
+Morbius, like advising him regarding the ethics
+
+425
+00:37:11,731 --> 00:37:16,715
+of his bat serum treatment, and then later on
+influencing him to become a hero. But that
+
+426
+00:37:16,735 --> 00:37:21,819
+was all edited out here, and you know, he basically
+just served as the father figure to these two
+
+427
+00:37:21,839 --> 00:37:26,023
+characters. But I don't think you needed an
+actor of Jared Harris's caliber for what turned
+
+428
+00:37:26,043 --> 00:37:31,279
+into a pretty small and relatively unsubstantial
+role. Right. His death was pretty tragic, although
+
+429
+00:37:31,319 --> 00:37:35,963
+I'm really wondering why Morbius didn't go into
+a bloodlust when he came to rescue him. I'm
+
+430
+00:37:35,983 --> 00:37:40,207
+surprised he didn't drink his blood like he
+did Martins, you know? It was so strange, like
+
+431
+00:37:40,287 --> 00:37:44,611
+his death scene was one of the rare instances
+in which we actually saw blood in this movie.
+
+432
+00:37:44,871 --> 00:37:50,096
+For a vampire film, it was relatively bloodless.
+Like I remember on the ship scene, there was
+
+433
+00:37:50,536 --> 00:37:55,080
+a part where Morbius straight up slashed this
+dude across his throat. And the dude's like
+
+434
+00:37:55,120 --> 00:37:59,243
+going, oh, like... expecting there was gonna
+be like blood squirting out in the special
+
+435
+00:37:59,263 --> 00:38:03,084
+effects or something like that. Nope. And maybe
+there was practically, but you know, either
+
+436
+00:38:03,124 --> 00:38:07,386
+way they either cut it out or just didn't include
+it. And he's like holding his throat and just
+
+437
+00:38:07,426 --> 00:38:11,227
+kind of like falling to the ground. No blood.
+I thought it was kind of funny. I wouldn't
+
+438
+00:38:11,247 --> 00:38:16,389
+have minded if it was rated R. Like I think
+if you're gonna do a villain movie like Morbius,
+
+439
+00:38:16,710 --> 00:38:21,672
+a character who does kill and a character that
+is involved with blood, why not make it rated
+
+440
+00:38:21,812 --> 00:38:27,326
+R? Producer Avi Arad, he just likes those PG-13
+dollars. Yeah, he's a douche. I think all vampire
+
+441
+00:38:27,346 --> 00:38:31,670
+movies should be rated R essentially, just like,
+cause if you can't show the blood, you're getting
+
+442
+00:38:31,710 --> 00:38:36,334
+away from one of the main themes of vampires,
+you know? Right. Yeah, totally. That does it
+
+443
+00:38:36,354 --> 00:38:40,358
+for the character breakdown, let's go ahead
+and move on to the story highlights. Now the
+
+444
+00:38:40,418 --> 00:38:45,423
+film starts off in Costa Rica where we see Morbius
+and a local team set up a trap for a shit ton
+
+445
+00:38:45,503 --> 00:38:50,507
+of vampire bats. Now I remember from the trailers
+I thought this was like the process that would,
+
+446
+00:38:50,607 --> 00:38:54,963
+you know, turn them into a part bat creature,
+but... No, it was just them capturing bats.
+
+447
+00:38:55,003 --> 00:38:59,206
+It was very dramatic for what it was though.
+Oh, totally. I guess he cut his hand to like
+
+448
+00:38:59,426 --> 00:39:03,849
+wake them up. Yeah, so they could smell his
+blood. It was all very ritualistic. You'd think
+
+449
+00:39:03,869 --> 00:39:08,693
+that they'd just grab some donated blood or
+something to get the same effect, but. Or just
+
+450
+00:39:08,773 --> 00:39:13,376
+fucking wait for them to fly it out of the cave
+at night. I don't know. I guess the pilot did
+
+451
+00:39:13,416 --> 00:39:18,039
+seem pretty spooked about staying there too
+long. Yeah. From there, the film flashes back
+
+452
+00:39:18,079 --> 00:39:22,430
+to Greece when Morbius was a child staying at
+the hospital. I thought it was an effective
+
+453
+00:39:22,450 --> 00:39:27,992
+flashback scene, like it really set up well
+the relationship between him and Milo, aka
+
+454
+00:39:28,032 --> 00:39:32,574
+Lucian, and how much they cared about each other,
+like how he wrote him that note, and then that
+
+455
+00:39:32,634 --> 00:39:37,996
+note meant everything to Lucian. We get a brief
+scene of Morbius winning the Nobel Prize and
+
+456
+00:39:38,016 --> 00:39:42,919
+then turning it down, and at the hospital we
+see that Morbius is testing out a serum with
+
+457
+00:39:42,959 --> 00:39:48,201
+bad DNA. He meets with Milo because the tests
+are successful, and he goes and administers
+
+458
+00:39:48,221 --> 00:39:52,603
+it himself in international waters. on a ship
+with a bunch of mercenaries. It was kind of
+
+459
+00:39:52,643 --> 00:39:56,827
+weird, like how all these mercenaries were just
+walking around the ship with their guns and
+
+460
+00:39:56,847 --> 00:40:01,070
+everything like that. Like they were expecting
+an attack of some sort to happen at any moment.
+
+461
+00:40:01,310 --> 00:40:06,594
+Yeah, were they like pirates? Yeah, it was strange.
+Like that one mercenary guy who discovered
+
+462
+00:40:06,634 --> 00:40:10,797
+Morbius, like hanging up on the ceiling like
+a bat, he walked in with like his gun drawn
+
+463
+00:40:10,817 --> 00:40:14,160
+and everything like that. I'm like, who are
+you expecting to shoot in this situation? You
+
+464
+00:40:14,180 --> 00:40:18,270
+were working with a couple of doctors, like
+the fuck? Well, they didn't even explain that
+
+465
+00:40:18,290 --> 00:40:22,132
+they were mercenaries until like after they
+were all dead. I thought they were just like
+
+466
+00:40:22,192 --> 00:40:26,654
+crew members just carrying guns for some reason.
+I was like, what? I thought there was some
+
+467
+00:40:26,674 --> 00:40:30,916
+kind of like security detail, which, you know,
+they were. But yeah, strange. It was kind of
+
+468
+00:40:30,956 --> 00:40:35,858
+like a good monster movie kind of scene, though,
+when he killed all those guys. I think it wanted
+
+469
+00:40:35,878 --> 00:40:41,400
+to be a good monster movie scene. It was fine
+for what it was. So Morbius abandons the boat
+
+470
+00:40:41,561 --> 00:40:46,643
+by jumping into the water, and I guess. Swimming
+to shore because he can swim faster than the
+
+471
+00:40:46,663 --> 00:40:51,525
+Coast Guard can pull them back to Long Island
+Fucking swim. It's a long fucking swim for
+
+472
+00:40:51,545 --> 00:40:56,267
+sure, but you know, he's superhuman now I guess
+so he knows he could pull it off. He looked
+
+473
+00:40:56,287 --> 00:41:01,549
+at himself in the mirror is like yeah, I can
+make this swim I got this See these apps these
+
+474
+00:41:01,589 --> 00:41:09,212
+are made for swimming So he swims back to his
+lab and then starts testing his symptoms he
+
+475
+00:41:09,232 --> 00:41:14,715
+finds that he has these superhuman powers and
+he begins testing the limits of his thirst.
+
+476
+00:41:15,395 --> 00:41:20,238
+Milo pays him a visit and sees that Morbius
+has essentially cured himself, although Morbius
+
+477
+00:41:20,258 --> 00:41:25,321
+sees it more as a curse. You often have to wonder
+in movies like this, like why didn't Morbius
+
+478
+00:41:25,341 --> 00:41:31,084
+just tell Milo right off the bat, like, dude,
+I'm drinking blood, it's not cool. I don't
+
+479
+00:41:31,124 --> 00:41:37,067
+want this for you also. Like he was so vague.
+It's like, just be honest. Well, Milo already
+
+480
+00:41:37,087 --> 00:41:41,349
+knew that. He's the one that got him the blood
+to drink when he had isolated himself in that
+
+481
+00:41:41,369 --> 00:41:45,729
+room. That's fair. That's fair. Milo knew what
+he was getting into. He knew what he was going
+
+482
+00:41:45,749 --> 00:41:51,394
+to turn into. Maybe he even wanted that. He
+just wanted those abs. He was like, yeah, I
+
+483
+00:41:51,414 --> 00:41:57,980
+had to drink blood, but also I could wash my
+clothes on my stomach. There you go. I would
+
+484
+00:41:58,000 --> 00:42:04,666
+do it for those abs. Sure. Crazy. So the FBI
+begins investigating the boat incident and
+
+485
+00:42:04,766 --> 00:42:09,770
+they deduce that Morbius was on the boat and
+that he's probably involved. There's a scene
+
+486
+00:42:09,790 --> 00:42:14,393
+later where a nurse gets attacked in the hospital
+hallway, which I thought was actually pretty
+
+487
+00:42:14,413 --> 00:42:19,817
+damn effective. It was definitely inspired by
+David F. Sandberg's Lights Out movie. Oh yeah.
+
+488
+00:42:19,937 --> 00:42:25,501
+But it was good, it was creepy. It was the creepiest
+scene in the movie, yeah. Did you jump? Oh,
+
+489
+00:42:25,581 --> 00:42:33,506
+hell yeah. Yeah. Did you jump? Hell no, hell
+no. Shut up. You know you did. It was pretty
+
+490
+00:42:33,527 --> 00:42:38,818
+effective for sure. But Morbius gets captured
+by the police after a brief chase. and Milo
+
+491
+00:42:38,858 --> 00:42:43,961
+visits him in jail and leaves a blood bag for
+him and leaves his cane behind to signaling
+
+492
+00:42:44,001 --> 00:42:48,143
+to Morbius that he had also taken the serum
+and doesn't need the cane anymore. Morbius
+
+493
+00:42:48,263 --> 00:42:53,566
+breaks out of jail to confront Milo about what
+he had done and the two fight within the subway,
+
+494
+00:42:53,586 --> 00:42:57,469
+which I thought was a pretty good scene. Yeah,
+honestly, it was a pretty cool scene. And by
+
+495
+00:42:57,509 --> 00:43:01,911
+this point in the film, I was still waiting
+to hate Jared Leto. And I really recognized
+
+496
+00:43:02,311 --> 00:43:06,073
+at this point that like, hey, this movie isn't
+as terrible as I thought it would have been.
+
+497
+00:43:06,474 --> 00:43:10,895
+Yeah, I think I realized that about halfway
+through as well. Morbius flees their encounter
+
+498
+00:43:10,995 --> 00:43:15,856
+and meets up with Martin and tracks down a bunch
+of counterfeiters to create a new secret lab
+
+499
+00:43:15,896 --> 00:43:19,337
+for himself. I thought that was kind of weird
+because I don't think there's a whole lot of
+
+500
+00:43:19,617 --> 00:43:24,979
+similarities between the equipment used to counterfeit
+hundred dollar bills and to create medical
+
+501
+00:43:25,019 --> 00:43:29,440
+serums. You know, like, yeah, I mean, the whole
+thing with him even finding the counterfeiters,
+
+502
+00:43:29,700 --> 00:43:34,801
+like them showing up to the restaurant was extremely
+convenient. Yeah. That and the fact that he
+
+503
+00:43:34,841 --> 00:43:40,637
+could use their equipment. Meanwhile, Milo goes
+to a bar and gets into a bar fight and ends
+
+504
+00:43:40,677 --> 00:43:45,661
+up attacking his assailants as they left. The
+investigators end up finding the footage and
+
+505
+00:43:45,701 --> 00:43:51,066
+release to the public that it's a different
+vampire that is attacking everybody. Emil Nicholas
+
+506
+00:43:51,206 --> 00:43:56,771
+confronts Milo and ends up getting killed by
+him. As he's dying, Emil calls Morbius, who
+
+507
+00:43:56,811 --> 00:44:01,775
+goes over and sees him die in his arms, and
+realizes at that moment that Milo has also
+
+508
+00:44:01,815 --> 00:44:07,471
+killed Martine. So Milo's just killing everybody.
+Yeah. I mean, the scene with the detectives
+
+509
+00:44:07,551 --> 00:44:12,554
+looking at the CCTV, I thought that kind of
+resolved that whole arc a little premature.
+
+510
+00:44:12,914 --> 00:44:17,437
+Like you didn't really see those guys again.
+Well, not until the end when they were chasing
+
+511
+00:44:17,497 --> 00:44:21,199
+Morbius and Milo as they were fighting in the
+streets down in the sewers. But they weren't
+
+512
+00:44:21,239 --> 00:44:25,662
+necessary to the story. Right. After that point.
+But, you know, we're like at the end of the
+
+513
+00:44:25,702 --> 00:44:31,465
+movie here, Morbius flies over to Martine and
+kisses her. She bites his lip, which I thought
+
+514
+00:44:31,485 --> 00:44:36,372
+was kind of kinky. She ingests some of his blood
+and then he drinks her blood and I guess that
+
+515
+00:44:36,412 --> 00:44:40,674
+whole process is what ends up turning her into
+a vampire. I'm still wondering why she bit
+
+516
+00:44:40,714 --> 00:44:46,037
+his lip. Like why? Because she's into that shit,
+you know, don't hate, don't hate. It's like,
+
+517
+00:44:46,137 --> 00:44:51,520
+oh I'm dying. I just gotta get some of that
+flavor. She's passionate and kind of violent
+
+518
+00:44:51,560 --> 00:44:56,263
+and that would really hurt, I feel like. So
+after he drinks her blood we get round two
+
+519
+00:44:56,303 --> 00:45:01,898
+of Morbius versus Milo. This time the fight
+goes down into the sewers. After crashing through
+
+520
+00:45:01,918 --> 00:45:04,800
+a whole bunch of buildings and stuff like that.
+I thought it was actually a pretty good fight
+
+521
+00:45:04,820 --> 00:45:10,384
+though, but Morbius ends up summoning this whole
+army of bats again He can't do that in the
+
+522
+00:45:10,404 --> 00:45:17,769
+comics, but here he used them as almost like
+this Telekinetic force to hold Milo down as
+
+523
+00:45:17,809 --> 00:45:24,094
+he injected him with like a vampire poison that
+he created Yeah, this whole thing had me rolling
+
+524
+00:45:24,134 --> 00:45:31,182
+my eyes big-time. Why really like he controls
+bats now he could Communicate with bats and
+
+525
+00:45:31,222 --> 00:45:35,504
+talk with bats well They kind of set that up
+when he was like in his cylinder where the
+
+526
+00:45:35,544 --> 00:45:41,426
+bats were and he was like kind of bonding with
+them Yeah, they're my brothers. I guess but
+
+527
+00:45:41,486 --> 00:45:47,509
+it is weird considering that Morbius had the
+ability to control bats, but Milo didn't why
+
+528
+00:45:47,549 --> 00:45:52,311
+is that like I thought they had the same powers?
+Yeah Oh, that's very valid like why do they
+
+529
+00:45:52,351 --> 00:45:57,293
+see Morbius as a brother, but not Milo but I
+mean Milo had powers that Morbius didn't have
+
+530
+00:45:57,393 --> 00:46:03,237
+either like the whole like Scream shockwave
+thing. Well Morbius didn't do that, but I think
+
+531
+00:46:03,277 --> 00:46:07,921
+he probably could have it was just like a using
+the echolocation offensively Yeah, I think
+
+532
+00:46:07,961 --> 00:46:12,364
+so too. I do think that Morbius looked pretty
+fucking badass though when he was controlling
+
+533
+00:46:12,404 --> 00:46:17,368
+those bats I just like the character design.
+I feel like they were trying to rip off Batman
+
+534
+00:46:17,749 --> 00:46:22,833
+Of course, you would think that like why wouldn't
+you think that? Batman used bats against his
+
+535
+00:46:22,893 --> 00:46:27,837
+enemies in Batman Begins and Morbius also used
+the bats to cover his escape from the sewer
+
+536
+00:46:28,217 --> 00:46:33,411
+if you noticed Yeah, of course I noticed that.
+I was like, okay. That's essentially the end
+
+537
+00:46:33,431 --> 00:46:38,113
+of the movie. We see him flying overhead and
+we see that Martine is turning into a vampire.
+
+538
+00:46:38,874 --> 00:46:44,116
+I was legit surprised how this movie ended.
+I was like, what? Like, that's it? I knew there
+
+539
+00:46:44,136 --> 00:46:48,478
+was some end credits scenes or mid credits scenes,
+I should say, but I was like, wow, they like
+
+540
+00:46:48,558 --> 00:46:53,120
+really just closed the curtain on us. Yeah,
+it was fairly abrupt. So it's like the fight
+
+541
+00:46:53,180 --> 00:46:58,834
+ended, he flew away, done, credits. Totally
+anti the Batman. Yeah, there could have been
+
+542
+00:46:58,874 --> 00:47:04,316
+some resolution there for sure. Especially considering
+how absolutely horrible these mid-credit scenes
+
+543
+00:47:04,336 --> 00:47:08,738
+were. The first one actually started out pretty
+cool because we saw the rift in the sky from
+
+544
+00:47:08,998 --> 00:47:14,000
+Spider-Man No Way Home. And then Michael Keane
+kind of like gets transported into a prison
+
+545
+00:47:14,040 --> 00:47:19,903
+cell. And his reaction to this is so fucking
+bizarre. He's like, I hope the food's better
+
+546
+00:47:19,943 --> 00:47:25,485
+here. Like, really? That's your reaction to
+getting transported to a new cell, a new universe
+
+547
+00:47:25,525 --> 00:47:30,019
+or something? Wouldn't you be like, What the
+fuck? Where am I now? Where am I? I'm not supposed
+
+548
+00:47:30,039 --> 00:47:35,062
+to be here. Nothing like that. So weird. And
+in the trailers, we know that there was a scene
+
+549
+00:47:35,142 --> 00:47:39,364
+where Morbius and the Vulture actually met while
+being transported by police and they had a
+
+550
+00:47:39,404 --> 00:47:45,008
+conversation. They heavily edited that footage
+just to show police taking him out of the cell
+
+551
+00:47:45,028 --> 00:47:48,730
+and putting him into a car as a news report
+states that they don't know where this guy
+
+552
+00:47:48,750 --> 00:47:52,752
+came from. And since they have no record of
+his crimes, they're going to let him go. I'm
+
+553
+00:47:52,792 --> 00:47:57,339
+like, OK. And then it ends. That was pointless.
+But then there's another mid-credits scene
+
+554
+00:47:57,579 --> 00:48:01,921
+where it starts off basically kind of like a
+car commercial and Morbius is driving through
+
+555
+00:48:01,981 --> 00:48:06,384
+the countryside and then he pulls over, gets
+out of his car, and then the Vulture flies
+
+556
+00:48:06,444 --> 00:48:11,147
+over to him. Now I'm not sure how Adrian Toomes
+managed to get a hold of this new wing suit,
+
+557
+00:48:11,487 --> 00:48:16,750
+considering it was the Tinkerer that made it
+for him, but he has a new suit here and he
+
+558
+00:48:16,770 --> 00:48:21,212
+basically tells Morbius that he's not sure how
+he got here, he thinks Spider-Man is involved,
+
+559
+00:48:21,252 --> 00:48:25,234
+but he thinks they should team up to do some
+good. and do some good, it makes me wonder
+
+560
+00:48:25,334 --> 00:48:31,356
+if they're actually trying to make the Sinister
+Six a group of good guys, or if quote, doing
+
+561
+00:48:31,416 --> 00:48:36,397
+some good, actually means something a little
+bit more sinister. So little context. It was
+
+562
+00:48:36,417 --> 00:48:40,658
+a horrible end credit scene, like in a way that
+doesn't even get me excited for what the future
+
+563
+00:48:40,698 --> 00:48:46,740
+holds. In concept, I am very interested in a
+movie that would combine this version of Morbius
+
+564
+00:48:46,780 --> 00:48:50,721
+with Tom Hardy's Venom, and Michael Keaton's
+Vulture. I think that would be a cool movie.
+
+565
+00:48:50,761 --> 00:48:54,747
+I don't know who else they would add to the
+Sinister Six. other than Craven, who's gonna
+
+566
+00:48:54,767 --> 00:48:59,270
+have his own film that's coming up, and I have
+no idea what they plan on doing with the group
+
+567
+00:48:59,591 --> 00:49:03,554
+as a whole, but at least it would be cool to
+see the actors work together. Well, it's like,
+
+568
+00:49:03,574 --> 00:49:09,598
+yeah, I mean, they set up the Scorpion in Spider-Man
+Homecoming. I don't think he would have traversed
+
+569
+00:49:09,838 --> 00:49:15,302
+the multiverse since he didn't know that Peter
+Parker was Spider-Man the way that the Vulture
+
+570
+00:49:15,342 --> 00:49:20,198
+did. Even that was kind of weird. Like, it's
+like, okay, you know who Spider-Man is. So
+
+571
+00:49:20,458 --> 00:49:25,081
+for some reason you're transported to another
+universe? It's like some people slipped through
+
+572
+00:49:25,361 --> 00:49:30,205
+accidentally, kinda like how some other characters
+slipped through into the MCU. I don't know,
+
+573
+00:49:30,325 --> 00:49:34,888
+like they did a really piss poor job of explaining
+it. It was just really bad. But we'll see how
+
+574
+00:49:34,928 --> 00:49:39,651
+it all shapes up. I don't think that this franchise
+is gonna die. I think they're gonna keep on
+
+575
+00:49:39,691 --> 00:49:45,575
+building this Sinister Six kind of team up and
+try to bring in Spider-Man into the mix. But
+
+576
+00:49:45,755 --> 00:49:51,078
+that does it for this Morbius movie. I think
+overall... I was surprised at how much I enjoyed
+
+577
+00:49:51,138 --> 00:49:56,280
+it. I did find it entertaining. There are a
+lot of issues with the movie. It is by no means
+
+578
+00:49:56,320 --> 00:50:01,701
+horrible. It's by no means good. It's very much
+in the middle. It's a middling film. And for
+
+579
+00:50:01,721 --> 00:50:08,043
+that, I give it three stars. Oh good, I was
+so afraid you were gonna say like five stars
+
+580
+00:50:08,063 --> 00:50:11,984
+from my review of the Batman. I mean, the Batman
+should have got three stars too, but you know.
+
+581
+00:50:12,004 --> 00:50:19,330
+Shut up. No, I think this was a perfect three
+star film. The film is really basic and you
+
+582
+00:50:19,350 --> 00:50:25,292
+know, it was entertaining. It has very little
+going for that beyond entertainment value.
+
+583
+00:50:25,712 --> 00:50:30,673
+Maybe that's not entirely fair because I actually
+really did like the angle between Morbius and
+
+584
+00:50:30,753 --> 00:50:38,335
+Milo, but I don't think it was enough to warrant
+a rating beyond three stars. Yeah. Ultimately,
+
+585
+00:50:38,395 --> 00:50:43,237
+it's one half star lower than like the first
+Venom film or something like New Mutants or
+
+586
+00:50:43,277 --> 00:50:49,019
+Blade 2 or something like that, mainly because
+it's obvious that this film was chopped up
+
+587
+00:50:49,059 --> 00:50:52,720
+in the editing process. And because of that,
+there were some story issues and some general
+
+588
+00:50:52,800 --> 00:50:57,482
+awkwardness regarding the cut. And those other
+movies didn't really have that as much. But
+
+589
+00:50:57,523 --> 00:51:01,344
+that does it for this review. Let us know what
+you thought about Morbius by writing to us
+
+590
+00:51:01,404 --> 00:51:07,947
+at dynamicduelpodcast at gmail.com or by visiting
+us on Facebook, Instagram or Twitter. You could
+
+591
+00:51:07,987 --> 00:51:12,209
+find the links to all of our accounts by checking
+out our show notes or visiting our website,
+
+592
+00:51:12,249 --> 00:51:17,351
+dynamicduel.com. And on our site, you can also
+find a link to our Patreon page where we offer
+
+593
+00:51:17,531 --> 00:51:23,153
+ad free episodes of this show via custom RSS
+feed, bonus content, including top 10 episodes
+
+594
+00:51:23,193 --> 00:51:28,035
+and bloopers, monthly live movie watch alongs,
+collectible pinsets and access to our Discord
+
+595
+00:51:28,075 --> 00:51:33,698
+server. Again, check it out right after this
+episode at patreon.com slash dynamic duel linked
+
+596
+00:51:33,718 --> 00:51:41,100
+in our show notes. Our lowest tier is only $2
+a month. Our next episode is episode 275 of
+
+597
+00:51:41,120 --> 00:51:48,739
+this podcast. For a while, you'll know that
+every 25 episodes now, we are doing a big team
+
+598
+00:51:48,819 --> 00:51:54,841
+duel. And next episode is one of those team
+duels. This time, we are pitting the Arkham
+
+599
+00:51:54,861 --> 00:52:01,402
+Asylum inmates against the Sinister Six. Perfect
+timing with this Morbius review. Yeah, it's
+
+600
+00:52:01,422 --> 00:52:05,804
+almost like it was delayed to be just in time.
+But no, we're talking about characters like
+
+601
+00:52:06,224 --> 00:52:13,030
+Joker vs. Green Goblin, Penguin vs. Vulture,
+Bane vs. Craven the Hunter, and more. So definitely
+
+602
+00:52:13,070 --> 00:52:16,833
+tune in next week. It's going to be an awesome
+time. It's our first villain team duel. Yeah,
+
+603
+00:52:16,873 --> 00:52:20,475
+it's going to be a blast. It's going to be awesome.
+But that does it for this episode. We want
+
+604
+00:52:20,496 --> 00:52:26,360
+to give a big thanks to our executive producers,
+John Spies, Ken Johnson, John Storosky, Zachary
+
+605
+00:52:26,380 --> 00:52:32,364
+Hepburn, Mitchell Phipps, Dustin Belcombe, and
+Levi Yeaton for helping make this podcast possible.
+
+606
+00:52:32,544 --> 00:52:36,147
+And we'll talk to you guys next week. Up, up,
+and away, true believers.
+
