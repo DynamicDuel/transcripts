@@ -1,0 +1,3271 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,462 --> 00:00:29,404
+Welcome to the Dynamic Duel Podcast, the weekly
+show where we review superhero films and debate
+
+3
+00:00:29,444 --> 00:00:34,987
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:35,427 --> 00:00:41,731
+I'm Johnny DC. And I'm his twin brother Marvelous
+Joe. And for this episode, we will be reviewing
+
+5
+00:00:41,811 --> 00:00:48,034
+the latest direct-to-video DC animated film,
+Watchmen Chapter 1. Who watches The Watchmen?
+
+6
+00:00:48,555 --> 00:00:54,490
+This guy. And this guy, and he also regrets
+it. But we'll talk about that later. Before
+
+7
+00:00:54,530 --> 00:00:58,251
+that, we're going to break down the comic book
+movie news from the past week, of which there
+
+8
+00:00:58,271 --> 00:01:02,932
+was just one major news item, and that was the
+official trailer number two for Craven the
+
+9
+00:01:02,972 --> 00:01:09,174
+Hunter. A movie I also will regret watching,
+I'm pretty sure. Same here. As always guys,
+
+10
+00:01:09,194 --> 00:01:13,175
+we list our segment times in our episode description,
+so feel free to check out the show notes if
+
+11
+00:01:13,195 --> 00:01:17,696
+you want to skip ahead to a particular topic.
+Guys our artificially intelligent duel simulator
+
+12
+00:01:17,856 --> 00:01:24,978
+AJ9K has a quick message for our listeners,
+so listen up. Why hello there, do you want
+
+13
+00:01:25,038 --> 00:01:29,940
+even more from this podcast? Then become a part
+of the dynamic duel community on Patreon, where
+
+14
+00:01:29,960 --> 00:01:34,702
+you can choose from three tiers. The dynamic
+2-0 tier gives you access to our Discord chat
+
+15
+00:01:34,742 --> 00:01:39,924
+server. The fantastic 4 tier gives you two bonus
+episodes each month. And the X-Force tier makes
+
+16
+00:01:39,944 --> 00:01:45,475
+you an executive producer of this show. Lastly,
+The Diner Mike podcast network tier lets you
+
+17
+00:01:45,515 --> 00:01:49,977
+create your own podcast using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+18
+00:01:50,017 --> 00:01:55,559
+your show, provide graphic support and consultation,
+and get you simulation results. Pitch the twins
+
+19
+00:01:55,579 --> 00:02:01,662
+your ideas via email at dynamicduelpodcast at
+gmail.com. Check it out at patreon.com slash
+
+20
+00:02:01,702 --> 00:02:08,465
+dynamicduel. Pip pip cheerio. Thanks AJ9K, and
+thanks to everyone who supports the podcast.
+
+21
+00:02:08,822 --> 00:02:12,443
+Be sure to tune into the other shows on the
+DynaMic Podcast Network this week, including
+
+22
+00:02:12,543 --> 00:02:17,044
+Max Destruction, which pits your favorite action
+heroes from film and television against each
+
+23
+00:02:17,084 --> 00:02:23,466
+other. This week, hosts Scotty and Gilly are
+reviewing Double Dragon. And on the Send Your
+
+24
+00:02:23,486 --> 00:02:28,887
+World podcast, host Zachary Hepburn speculates
+on fights between fan favorite anime and manga
+
+25
+00:02:28,927 --> 00:02:34,529
+characters. This Thursday, Zach's finding out
+who would win between Tatsumi Oga and Baby
+
+26
+00:02:34,569 --> 00:02:43,048
+Beel from and Kiyotaka Mine. On the Console
+Combat Podcast, hosts John and Dean find out
+
+27
+00:02:43,088 --> 00:02:47,169
+who would win in fights between popular video
+game characters, and in yesterday's episode,
+
+28
+00:02:47,490 --> 00:02:52,692
+they determined who would win between Virgil
+from Devil May Cry and Raiden from Metal Gear.
+
+29
+00:02:53,112 --> 00:02:58,434
+Visit dynamicpodcasts.com or click the link
+in our show notes to listen to all of the shows
+
+30
+00:02:58,554 --> 00:03:03,736
+in the DynaMic Podcast Network. We want to
+give a quick shout out to Zachary Hepburn,
+
+31
+00:03:03,796 --> 00:03:08,218
+who is the host of Senjou World. It was his
+birthday this past week. So happy birthday
+
+32
+00:03:08,238 --> 00:03:13,963
+man. If I could get you any gift from Marvel,
+it would be silver samurai's armor. Cause I
+
+33
+00:03:13,983 --> 00:03:18,867
+think I got you the Muramasa blade last year
+for your birthday. So I'm gonna go silver samurai's
+
+34
+00:03:18,927 --> 00:03:23,932
+armor this year. The adamantium suit from the
+Wolverine movie. That was pretty bad ass. Well,
+
+35
+00:03:23,952 --> 00:03:28,756
+I'm gonna have to get you the soul taker sword
+to go with that. I think you already gave him
+
+36
+00:03:28,776 --> 00:03:35,568
+that. Fuck. Ha ha ha. But also happy birthday
+to Josh, another one of our patrons. If I were
+
+37
+00:03:35,588 --> 00:03:40,972
+to give you a gift from Marvel, it would be
+Wolverine's adamantium claws, because I know
+
+38
+00:03:40,992 --> 00:03:44,634
+you like Wolverine. Like, I probably wouldn't
+give you the whole skeleton, because that just
+
+39
+00:03:44,674 --> 00:03:48,177
+seems like it'd be a pain in the ass. So we'll
+just go with the claws. Okay, but you're not
+
+40
+00:03:48,197 --> 00:03:51,959
+going to give him the healing factor as well.
+So he's just going to stab his hands all the
+
+41
+00:03:51,979 --> 00:03:56,302
+time. You know what? I'm going to give you Deathstroke's
+healing factor. You're welcome. Deathstroke
+
+42
+00:03:56,482 --> 00:04:01,530
+barely has a healing factor. So that's a horrible
+gift. He's from Marvel. It's fine. And we have
+
+43
+00:04:01,650 --> 00:04:06,711
+one more birthday wish to give to John Storosky,
+the host of the console combat podcast, which
+
+44
+00:04:06,751 --> 00:04:10,812
+we forgot to do last month when it was his birthday.
+So happy birthday, man. If I could get you
+
+45
+00:04:10,892 --> 00:04:16,074
+anything from Marvel, it would be the war machine
+armor, because that's one of the new weapons
+
+46
+00:04:16,114 --> 00:04:22,275
+being unveiled in the Fortnite season. And being
+a gamer like yourself, it's just cool. I think
+
+47
+00:04:22,295 --> 00:04:27,477
+you'd like it. And I would get you a red lantern
+ring, because while you claim to be on the
+
+48
+00:04:27,517 --> 00:04:32,066
+fence between Marvel and DC, we all know your
+team red, bro. So happy birthday to all you
+
+49
+00:04:32,086 --> 00:04:39,132
+guys, Zach, Josh, and John, but with that out
+of the way, quick to the No Prize! A No Prize
+
+50
+00:04:39,172 --> 00:04:43,235
+is an award Marvel used to give out to fans.
+Our version, the Dynamic Duel No Prize, is
+
+51
+00:04:43,275 --> 00:04:47,499
+a digital award we post on Instagram for the
+person that we feel gave the best answer to
+
+52
+00:04:47,539 --> 00:04:52,663
+our question of the week. Last week we asked
+you guys, which upcoming Marvel Studios film
+
+53
+00:04:52,743 --> 00:04:57,667
+or show are you most looking forward to and
+why? And this is coming off of all of the leaked
+
+54
+00:04:57,747 --> 00:05:02,871
+trailers that were presented during the D23
+event for Disney investors a couple of weeks
+
+55
+00:05:02,911 --> 00:05:07,775
+ago. We got two whole answers, so let's go ahead
+and run down the honorable mention and the
+
+56
+00:05:07,815 --> 00:05:14,341
+no prize winner. Our honorable mention goes
+to Kat Stevenson, who said, Hi guys, it's Kat
+
+57
+00:05:14,381 --> 00:05:20,185
+Stevenson again, and the one that I am most
+excited for is Ironheart. Ironheart, I feel,
+
+58
+00:05:20,225 --> 00:05:26,482
+is going to be a lot about taking over from
+Tony Stark's legacy. especially leading up
+
+59
+00:05:26,502 --> 00:05:32,044
+to Secret Wars and Doomsday with Robert Downey
+Jr. coming back. I can't wait to see what they
+
+60
+00:05:32,204 --> 00:05:40,288
+do with Ironheart to help build her and build
+herself off of the Iron Man legacy. Thank you
+
+61
+00:05:40,328 --> 00:05:46,070
+guys. Have a good day. Yeah, I wasn't too excited
+for Ironheart myself. Just coming off of my
+
+62
+00:05:46,130 --> 00:05:50,872
+reception to Dominique Thorne's performance
+as Reeve Williams in Wakanda Forever, I wasn't
+
+63
+00:05:50,912 --> 00:05:55,378
+a fan of it. But when I saw the leaked trailer
+for Ironheart and the app- approach that they
+
+64
+00:05:55,398 --> 00:06:01,179
+were taking to the story where it was almost
+like a set it off type plot where she starts
+
+65
+00:06:01,199 --> 00:06:05,860
+stealing money to help fund her research and
+development of the new armor. I thought it
+
+66
+00:06:05,880 --> 00:06:09,902
+was a pretty interesting angle and the hood
+looks really cool as well. So I can see why
+
+67
+00:06:09,942 --> 00:06:14,143
+people are looking forward to this now because
+I am. Yeah, I'm not quite sure it's going to
+
+68
+00:06:14,323 --> 00:06:19,024
+delve into her kind of taking up Tony Stark's
+legacy. I didn't get that from the trailer.
+
+69
+00:06:19,044 --> 00:06:22,945
+That's what I thought the show was going to
+be about. But like you, the trailer did definitely
+
+70
+00:06:22,965 --> 00:06:27,420
+get me intrigued for the project. Great answer,
+Kat, but the winner of this week's no prize
+
+71
+00:06:27,620 --> 00:06:33,947
+is Lizzie Dyer Arnie, who said, Hey, it's Lizzie.
+So it's been six years since season three of
+
+72
+00:06:33,987 --> 00:06:39,953
+Daredevil. No question. That's the one I'm most
+looking forward to. Six years. That's a really
+
+73
+00:06:39,973 --> 00:06:46,834
+long time ago. I think we're way overdue and
+I cannot wait for season four. Season 3 of
+
+74
+00:06:46,914 --> 00:06:51,957
+the Daredevil Netflix series is among the best
+projects that Marvel television has ever produced.
+
+75
+00:06:52,137 --> 00:06:57,060
+And now that the show is under the Marvel Studios
+umbrella, and it's apparently not a reboot,
+
+76
+00:06:57,160 --> 00:07:02,703
+more like a Season 4 of that show, it just looks
+incredible. The leaked trailer for Daredevil
+
+77
+00:07:02,743 --> 00:07:08,646
+Born Again was probably my favorite trailer
+to come out of this year's D23. And with all
+
+78
+00:07:08,666 --> 00:07:12,488
+the returning characters and all the new characters
+that they'll be introducing, like White Tiger
+
+79
+00:07:12,528 --> 00:07:16,711
+and Muse, it looks like it's going to be phenomenal.
+especially as the Daredevil franchise begins
+
+80
+00:07:16,791 --> 00:07:22,555
+folding itself into the greater Marvel Cinematic
+Universe. Yeah, we gave season 3 of Daredevil
+
+81
+00:07:22,755 --> 00:07:27,718
+a perfect rating because how could you not?
+That season was incredible. I'm really looking
+
+82
+00:07:27,738 --> 00:07:32,842
+forward to see where they take that story. The
+leaked footage was awesome. So yeah, it's really
+
+83
+00:07:32,902 --> 00:07:37,325
+easy to get pumped for Daredevil. So congrats
+again to Lizzie Dyer Arnie for winning this
+
+84
+00:07:37,365 --> 00:07:40,967
+week's No Prize. If you the listener want a
+shot at winning your own No Prize, stay tuned
+
+85
+00:07:40,987 --> 00:07:45,351
+to later on this episode when we'll be asking
+another question of the week. And now that
+
+86
+00:07:45,371 --> 00:07:47,336
+that's done, on to the news!
+
+87
+00:07:53,006 --> 00:07:57,308
+Alright, this past week we got the official
+trailer number two, although it's not being
+
+88
+00:07:57,348 --> 00:08:01,051
+called official trailer number two, for Craven
+the Hunter. We got our first official trailer
+
+89
+00:08:01,191 --> 00:08:05,254
+almost a year ago for this movie, but it's been
+delayed so many times now. It's coming out
+
+90
+00:08:05,294 --> 00:08:10,477
+this December, and so the time came for another
+new trailer, and this one was pretty action-packed.
+
+91
+00:08:10,758 --> 00:08:15,661
+Of course, this is part of the Sony Spider-Man
+universe, along with Madame Web and the upcoming
+
+92
+00:08:15,861 --> 00:08:20,944
+Venom The Last Dance movie. It's crazy that
+Sony's releasing three Spider-Man related movies
+
+93
+00:08:20,964 --> 00:08:25,346
+this year because the whole point of making
+and releasing these films for that company
+
+94
+00:08:25,387 --> 00:08:29,708
+is to retain the rights to the Spider-Man character.
+And to that end, you would probably want to
+
+95
+00:08:29,768 --> 00:08:35,030
+stagger these out over the years so that you
+retain the rights that much longer. But I feel
+
+96
+00:08:35,050 --> 00:08:38,932
+like Sony is going to lose a lot of money this
+year on the Spider-Man franchise and hopefully
+
+97
+00:08:38,952 --> 00:08:42,954
+that's a good thing. Like, hopefully, the rights
+end up reverting back to Marvel due to the
+
+98
+00:08:43,334 --> 00:08:48,256
+epic disaster that this film will probably be.
+Because I wasn't impressed with this trailer
+
+99
+00:08:48,276 --> 00:08:53,178
+too much. Despite the action, there was very
+little inclination of what the movie is actually
+
+100
+00:08:53,198 --> 00:08:57,080
+going to be about. Yeah, it feels like they're
+really trying to oversell me on the violence.
+
+101
+00:08:57,620 --> 00:09:02,622
+It's like, OK, like you do some pretty crazy
+stuff, like trap a guy's head in a bear trap
+
+102
+00:09:03,062 --> 00:09:08,245
+and like split a guy in half with a tree trunk
+and some ropes and stuff like that, which is
+
+103
+00:09:08,285 --> 00:09:13,407
+pretty wild. But I don't know, like violence
+isn't going to sell me on a movie. I want to
+
+104
+00:09:13,427 --> 00:09:19,110
+know what the story is. I want to know what
+the stakes are. Things like that to me. This
+
+105
+00:09:19,150 --> 00:09:23,512
+is like Aaron Taylor Johnson just doing a bunch
+of violence and then posing like a GQ model.
+
+106
+00:09:24,033 --> 00:09:30,256
+You know, this is GQ Craven. And I'm like, why?
+I mean, the last trailer that we got kind of
+
+107
+00:09:30,276 --> 00:09:35,419
+gave us a hint at the background of the character,
+right? We know that he comes from a family
+
+108
+00:09:35,459 --> 00:09:40,702
+of hunters, that he was bitten by a radioactive
+lion or some shit. And so he got super strength
+
+109
+00:09:40,742 --> 00:09:45,965
+and speed and stuff like that. But we don't
+know exactly who the bad guy is, what their
+
+110
+00:09:46,145 --> 00:09:50,896
+aims are. and we didn't get any more information
+about that for this trailer. We know that one
+
+111
+00:09:50,936 --> 00:09:55,559
+of the bad guys is going to be the Rhino. And
+I will say that the Rhino looks pretty cool.
+
+112
+00:09:55,700 --> 00:10:00,963
+It looks like the actor who plays Alexei Sistovich
+is going to be injecting himself with some
+
+113
+00:10:00,983 --> 00:10:06,487
+kind of like Rhino serum, I guess. And it transforms
+him into this Rhino looking dude. And the character
+
+114
+00:10:06,527 --> 00:10:10,510
+design is pretty good, but it's strange because
+the Rhino is not typically a Kraven villain,
+
+115
+00:10:10,810 --> 00:10:15,454
+you know? Though I think it makes sense for
+him. For sure. Yeah, I'll give you that. We
+
+116
+00:10:15,474 --> 00:10:20,578
+know that Craven's brother, Dmitri Smirdyakov,
+is also in this movie, who is known as the
+
+117
+00:10:20,618 --> 00:10:25,582
+chameleon in the comic books. And while they
+typically work together in the books, I'm wondering
+
+118
+00:10:25,642 --> 00:10:30,546
+if maybe his brother is the main antagonist
+in this film, especially the lines that he
+
+119
+00:10:30,586 --> 00:10:34,029
+has in this trailer where he's like, you're
+just after another trophy or something like
+
+120
+00:10:34,069 --> 00:10:38,932
+that, you know? Oh yeah, setting up like a sibling
+rivalry. That would make sense. Yeah. Maybe
+
+121
+00:10:38,953 --> 00:10:42,896
+they'll give him like radioactive chameleon
+blood, you know, sort of like how the rhino
+
+122
+00:10:42,916 --> 00:10:47,554
+guy shooting radioactive rhino blood into him.
+Yeah, he'll shoot himself with chameleon blood
+
+123
+00:10:47,574 --> 00:10:51,775
+and then be able to take on the appearance of
+anyone. So stupid. I hope they don't do that,
+
+124
+00:10:51,795 --> 00:10:58,017
+but I also kind of hope they do because this
+movie, I don't think deserves to do well just
+
+125
+00:10:58,057 --> 00:11:02,018
+by virtue of the fact that one, it doesn't look
+good and two, it's made by Sony. And I think
+
+126
+00:11:02,058 --> 00:11:06,059
+the sooner that Marvel gets the rights back,
+the sooner that will stop getting crappy movies
+
+127
+00:11:06,119 --> 00:11:11,141
+like Madame Web and most likely this movie.
+Now, to be fair, a lot of the reason you're
+
+128
+00:11:11,161 --> 00:11:16,687
+trashing this is because of Sony's reputation
+but what if the movie is good? If the movie
+
+129
+00:11:16,708 --> 00:11:21,390
+is good I'll eat my words. If I enjoy it, sure.
+I mean I did that with the first Venom movie
+
+130
+00:11:21,430 --> 00:11:26,273
+which I enjoyed. I hated Let There Be Carnage.
+Did not enjoy that one at all. But you know
+
+131
+00:11:26,334 --> 00:11:30,596
+if this ends up being more like the first Venom
+movie and actually brings something new to
+
+132
+00:11:30,636 --> 00:11:35,779
+the table in the way that film did, then yeah.
+But as of right now, judging off of this trailer
+
+133
+00:11:36,360 --> 00:11:40,355
+and everything else I've seen for the movie,
+I'm ambivalent about it. And since I'm not
+
+134
+00:11:40,375 --> 00:11:44,262
+too excited for this, I don't think that the
+question of the week this episode will tie
+
+135
+00:11:44,363 --> 00:11:49,252
+into the Craven trailer. And instead, we're
+gonna kind of riff on our previous question
+
+136
+00:11:49,272 --> 00:11:51,677
+of the week with this new question.
+
+137
+00:11:56,194 --> 00:12:04,460
+Which upcoming DC Studios film or show are you
+most looking forward to and why? Record your
+
+138
+00:12:04,520 --> 00:12:08,223
+answer at dynamicduel.com by clicking on the
+red microphone button in the bottom right hand
+
+139
+00:12:08,243 --> 00:12:12,186
+corner of the screen, which will prompt you
+to leave us a voicemail. Your message could
+
+140
+00:12:12,206 --> 00:12:16,350
+be up to 30 seconds long, and don't forget to
+leave your name in case we include you on the
+
+141
+00:12:16,370 --> 00:12:21,454
+podcast. We'll pick our favorite answer, and
+award that person a Dynamic Duel No Prize that
+
+142
+00:12:21,494 --> 00:12:25,877
+we'll post to Instagram. Be sure to answer before
+August 24th.
+
+143
+00:12:33,730 --> 00:12:38,373
+That's all of the news this week, so now let's
+move on to the main event of this episode,
+
+144
+00:12:38,813 --> 00:12:44,997
+in which we review DC's latest direct-to-video
+animated film, Watchmen Chapter 1.
+
+145
+00:13:00,002 --> 00:13:05,163
+Alright, Watchmen Chapter 1 is the first of
+a two-part computer-animated adaptation of
+
+146
+00:13:05,203 --> 00:13:12,865
+the seminal 1986 comic series by writer Alan
+Moore and artist Dave Gibbons. It cannot be
+
+147
+00:13:13,086 --> 00:13:18,447
+overstated how much of an impact Watchmen had
+on the comic book medium and superhero genre.
+
+148
+00:13:18,887 --> 00:13:25,049
+Recent works like The Boys, Kick-Ass, Invincible,
+and even to an extent DC's Snyderverse, with
+
+149
+00:13:25,069 --> 00:13:31,072
+their attempts at deconstructing flawed, morally
+ambiguous, and psychologically complex superheroes
+
+150
+00:13:31,272 --> 00:13:37,594
+owe a considerable amount to The Watchmen Story,
+which was the first mainstream superhero comic
+
+151
+00:13:37,694 --> 00:13:43,597
+intended for mature audiences and to successfully
+achieve literary success with accolades such
+
+152
+00:13:43,657 --> 00:13:49,659
+as the Hugo Award, the Kirby Award, the Eisner
+Award, and was the only comic work listed on
+
+153
+00:13:49,720 --> 00:13:57,271
+Time Magazine's list of the 100 best novels
+of all time. It is in arguably the most celebrated
+
+154
+00:13:57,311 --> 00:14:02,416
+comic book ever made and it continues to be
+one of the best selling graphic novels year
+
+155
+00:14:02,456 --> 00:14:08,020
+after year, which is probably why Warner Bros
+continues to adapt it to other mediums. It
+
+156
+00:14:08,100 --> 00:14:14,385
+is a fool's errand because Watchmen is the best
+example I could think of a story tailor-made
+
+157
+00:14:14,445 --> 00:14:19,569
+for the comic medium in the way it was expertly
+paced and creatively laid out on the pages.
+
+158
+00:14:20,118 --> 00:14:25,399
+Though I will also admit that I've enjoyed basically
+every adaptation of the story, most notably
+
+159
+00:14:25,759 --> 00:14:32,901
+Zack Snyder's 2009 live-action film, which we've
+reviewed on this podcast. Snyder's film was
+
+160
+00:14:33,281 --> 00:14:38,523
+mostly faithful to the source material, even
+recreating some comic panels in the framing
+
+161
+00:14:38,563 --> 00:14:44,544
+of certain scenes, but it also took some liberties
+with the story, which I honestly didn't mind.
+
+162
+00:14:44,904 --> 00:14:49,365
+The mediums of comics and film are very similar
+in that they're both comprised of pictures,
+
+163
+00:14:49,930 --> 00:14:54,853
+And it's not like I wanted the live action film
+to replace anyone's need to read the graphic
+
+164
+00:14:54,913 --> 00:15:02,199
+novel, which I will say everyone does need to
+do. Now while I was excited for this animated
+
+165
+00:15:02,239 --> 00:15:07,383
+film adaptation, my biggest fear was that it
+would be too faithful to the source material,
+
+166
+00:15:07,663 --> 00:15:13,327
+to the degree that people would not need to
+read the book. And as I watched Watchmen Chapter
+
+167
+00:15:13,487 --> 00:15:20,653
+1, I admittedly found it really hard. to enjoy
+because it is indeed the most faithful adaptation
+
+168
+00:15:20,733 --> 00:15:26,197
+of the source material outside of the motion
+comic which essentially was just an audiobook.
+
+169
+00:15:26,217 --> 00:15:31,821
+Now, reviewing Watchmen Chapter 1 is in essence
+like reviewing an abridged version of the first
+
+170
+00:15:31,941 --> 00:15:37,124
+issues of the comic series. So if you haven't
+read the comic and haven't seen this animated
+
+171
+00:15:37,164 --> 00:15:42,528
+film, just know that doing one will spoil the
+other and will essentially be spoiling both
+
+172
+00:15:42,608 --> 00:15:48,743
+in this spoiler review. Yeah, Watchmen Chapter
+One is faithful to a fault. And I think a lot
+
+173
+00:15:48,763 --> 00:15:53,205
+of people would come at me for saying that because,
+you know, it's every fanboy's dream to essentially
+
+174
+00:15:53,305 --> 00:15:59,068
+see direct translations from the source material
+to the movie medium. And that's valid. I think
+
+175
+00:15:59,308 --> 00:16:04,370
+if Zack Snyder's 2009 live action film didn't
+exist, this review would be an entirely different
+
+176
+00:16:04,410 --> 00:16:09,732
+thing, right? Because it would be cool to actually
+see these characters move in three dimensional
+
+177
+00:16:09,772 --> 00:16:15,755
+space and hear their voices and stuff like that.
+But... because it's coming off of the back
+
+178
+00:16:15,895 --> 00:16:21,540
+of Zack Snyder's movie, which arguably did a
+superior version of adapting the story to the
+
+179
+00:16:21,600 --> 00:16:27,765
+screen. This feels uber redundant, as I mentioned
+in our discussion of the trailers for this
+
+180
+00:16:27,805 --> 00:16:34,030
+movie. Yeah, absolutely. It's like Marvel doing
+an animated version of the first Avengers film.
+
+181
+00:16:34,071 --> 00:16:40,396
+It's like, why? The first Avengers film is already
+a thing. Right, exactly. I will absolutely
+
+182
+00:16:40,456 --> 00:16:45,624
+give credit where credit is due. You from the
+first trailer said that this looked like it
+
+183
+00:16:45,644 --> 00:16:50,188
+would be redundant and I didn't want to hear
+it You told me that I was butt hurt and that
+
+184
+00:16:50,208 --> 00:16:55,013
+you were gonna get me a hemorrhoid pillow and
+cream for when I watched this movie And yeah
+
+185
+00:16:55,233 --> 00:17:00,698
+got butt hurt about it And you know what? I
+wish I had that pillow and that cream because
+
+186
+00:17:00,758 --> 00:17:04,962
+I was butt hurt when I was watching this movie
+because it just felt So fucking pointless.
+
+187
+00:17:05,062 --> 00:17:09,942
+I was like, why am I doing this? I know this
+story. I've read it so many times I mean, yeah,
+
+188
+00:17:09,982 --> 00:17:15,864
+sign me up for that pillow and cream because,
+you know, same, right? At the time, I didn't
+
+189
+00:17:15,904 --> 00:17:21,446
+want to hear it because I argued that this animated
+adaptation and the graphic novel could coexist
+
+190
+00:17:21,486 --> 00:17:26,408
+in much the same way that the book and live
+action version do. But I'm not going to say
+
+191
+00:17:26,428 --> 00:17:31,450
+that they should have never made this animated
+adaptation because the story is still really
+
+192
+00:17:31,490 --> 00:17:36,452
+good and still really relevant. And while I'll
+always recommend the book because it has several
+
+193
+00:17:36,512 --> 00:17:42,415
+more layers of depth and artistry, What I don't
+want to do is be a book snob to someone who
+
+194
+00:17:42,555 --> 00:17:48,978
+only has time to watch the film because it's
+one way to appreciate the story, a slightly
+
+195
+00:17:49,058 --> 00:17:55,360
+inferior one. That's going to be the case for
+99.9% of book to screen adaptations anyway.
+
+196
+00:17:55,821 --> 00:18:00,743
+Now, I reread Watchmen like every other year.
+I own several copies of the book and when I
+
+197
+00:18:00,783 --> 00:18:05,885
+hand them out to someone to read, I often find
+myself reading it alongside with them. And
+
+198
+00:18:05,945 --> 00:18:11,383
+just about every time I do... I notice something
+that I overlooked before or I find a new appreciation
+
+199
+00:18:11,523 --> 00:18:17,526
+for how consistently relevant the book remains
+across the decades. I enjoy rereading the book
+
+200
+00:18:17,706 --> 00:18:24,289
+so I thought I would enjoy watching this film
+but like you mentioned watching this film I
+
+201
+00:18:24,309 --> 00:18:29,371
+couldn't help but think man I already know the
+story this is a waste of time. Watchmen as
+
+202
+00:18:29,411 --> 00:18:36,234
+an entire story does have this sixth sense-esque
+killer twist that I won't spoil here. And while
+
+203
+00:18:36,274 --> 00:18:42,195
+it's fun to spot all of the foreshadowing upon
+revisiting the story, that really didn't save
+
+204
+00:18:42,235 --> 00:18:48,137
+the somewhat disappointing experience I had
+in watching this film. Because Watchmen Chapter
+
+205
+00:18:48,277 --> 00:18:53,579
+1 was so faithful, there's nothing really to
+scrutinize other than the animation and voice
+
+206
+00:18:53,619 --> 00:18:59,420
+performances, which I mean, neither were bad
+enough for scolding criticisms or profound
+
+207
+00:18:59,460 --> 00:19:04,923
+enough to warrant too much commentary. The animation
+was fine. I've seen people compare it to Marvel
+
+208
+00:19:04,943 --> 00:19:12,047
+Television's animated What If series, and it's
+not as good, I will admit, but barely. The
+
+209
+00:19:12,087 --> 00:19:15,969
+characters are a little bit more robotic in
+their movements, and the textures are a little
+
+210
+00:19:16,009 --> 00:19:21,693
+bit more cheap, but the line work they incorporated
+made it more reminiscent of artist Dave Gibbon's
+
+211
+00:19:21,733 --> 00:19:26,675
+comic artwork, and there are brief scenes where
+the lighting almost makes the animation look
+
+212
+00:19:26,856 --> 00:19:32,255
+live action. It doesn't look as good as Zack
+Snyder's film. but I can see how some Watchmen
+
+213
+00:19:32,275 --> 00:19:37,499
+fans would actually prefer the colorful, cartoony
+look for the story, since Watchmen itself is
+
+214
+00:19:37,519 --> 00:19:43,023
+something of a satire of the superhero genre.
+And one of the criticisms of Snyder's adaptation
+
+215
+00:19:43,183 --> 00:19:49,128
+is that its dark and grim aesthetic resulted
+in a film that took itself too seriously. Though
+
+216
+00:19:49,168 --> 00:19:53,466
+personally, I would argue that's a good thing.
+Yeah, I was one of the people that compared
+
+217
+00:19:53,586 --> 00:19:59,008
+the look of this movie to the What If Disney
+Plus animated series, and you're right, it's
+
+218
+00:19:59,068 --> 00:20:04,010
+not as good. The What If show is very fluid
+in its characters' motions and facial expressions
+
+219
+00:20:04,030 --> 00:20:08,692
+and stuff like that. Here, everything was very
+robotic and stiff to the point that it almost
+
+220
+00:20:08,732 --> 00:20:14,113
+felt like a video game cutscene extended over
+a feature length runtime. I could see that.
+
+221
+00:20:14,346 --> 00:20:19,248
+You know, I'm not surprised, though, because
+you're going up against Disney animators who
+
+222
+00:20:19,349 --> 00:20:24,151
+are literally at the top of their game in the
+industry. It's so you admit that Marvel is
+
+223
+00:20:24,191 --> 00:20:30,095
+better than DC. I do not recall saying any such
+words. It's essentially what you just said.
+
+224
+00:20:30,375 --> 00:20:35,858
+I just said Disney animators are better than
+basically any other animation, except for maybe
+
+225
+00:20:35,898 --> 00:20:41,958
+like Studio Ghibli. OK, all right. Yeah. So
+Marvel's better than DC. Oh, my gosh. OK. But
+
+226
+00:20:41,998 --> 00:20:46,002
+animation aside, I do want to talk more about
+the voice cast in our character breakdown.
+
+227
+00:20:46,522 --> 00:20:52,148
+Just overall though, it wasn't bad and it was
+a lot closer to how I read the lines than what
+
+228
+00:20:52,208 --> 00:20:56,832
+the actors did in the live-action adaptation.
+Though that doesn't necessarily mean the voice
+
+229
+00:20:56,912 --> 00:21:02,057
+actors for the animated film did a better job
+than the actors. Actually if I had a choice
+
+230
+00:21:02,097 --> 00:21:08,735
+between recommending Snyder's live-action film
+or this animated version. right now I'd say
+
+231
+00:21:08,795 --> 00:21:14,981
+go with Snyder's version, though that may change
+after seeing Chapter 2. And if I thought they
+
+232
+00:21:15,101 --> 00:21:19,805
+also planned on watching the HBO sequel series,
+because that ignores creative liberties Snyder's
+
+233
+00:21:19,825 --> 00:21:24,770
+film took with the story. If they're watching
+the HBO series, definitely go with this animated
+
+234
+00:21:24,810 --> 00:21:29,715
+version. Now regarding the story, this film,
+like Snyder's version, took some liberties,
+
+235
+00:21:29,835 --> 00:21:35,575
+but they impacted the story fairly minimally.
+Like most of the changes involved rearranging
+
+236
+00:21:35,635 --> 00:21:40,238
+flashback scenes throughout the film that normally
+happened during the comedian's funeral, you
+
+237
+00:21:40,258 --> 00:21:45,182
+know, soon after various characters learned
+of his death. And I didn't mind that, you know,
+
+238
+00:21:45,262 --> 00:21:50,005
+I didn't mind them cutting certain lines. Like
+I said, it's an abridged version of the novel.
+
+239
+00:21:50,465 --> 00:21:55,989
+And despite that, the filmmakers, namely the
+screenwriter J. Michael Straczynski, who's
+
+240
+00:21:56,029 --> 00:22:01,822
+a comic book writer, managed to successfully
+translate the genius that is writer Alan Moore,
+
+241
+00:22:01,942 --> 00:22:08,049
+who uses this technique in his writing where
+dialogue or narration from one scene is overlaid
+
+242
+00:22:08,169 --> 00:22:14,476
+onto a different concurrent scene, creating
+this cross-contextual resonance. The text is
+
+243
+00:22:14,536 --> 00:22:19,341
+not only relevant to the scene it originates
+from, but also adds layers of meaning to the
+
+244
+00:22:19,401 --> 00:22:25,997
+scene. overlays and this interplay between dialogue
+and visuals deepens the story's thematic impact
+
+245
+00:22:26,077 --> 00:22:31,620
+and draws these connections between scenes that
+otherwise would not exist. You know, for example,
+
+246
+00:22:32,140 --> 00:22:37,383
+a government agent could be debriefing Dr. Manhattan
+about what can and can't be mentioned during
+
+247
+00:22:37,423 --> 00:22:42,686
+an interview, warning him not to get into any
+tight corners. But that voiceover is played
+
+248
+00:22:42,806 --> 00:22:48,669
+over Dan and Laurie walking into a narrow alley
+as they're being pursued by a gang of not tops.
+
+249
+00:22:49,310 --> 00:22:55,194
+It adds this complexity to the narrative in
+that it encourages readers or viewers to engage
+
+250
+00:22:55,214 --> 00:23:00,998
+with the words on multiple levels simultaneously.
+There's a few, very few comic writers who can
+
+251
+00:23:01,038 --> 00:23:06,482
+do that technique effectively, but Alan Moore
+is the absolute master of it. Now, the biggest
+
+252
+00:23:06,522 --> 00:23:13,246
+problem I had with Watchmen Chapter One's story
+is that it's only half of a story. And what
+
+253
+00:23:13,286 --> 00:23:17,869
+could be considered the climax of the film,
+the standoff between Rorschach and the police,
+
+254
+00:23:18,406 --> 00:23:24,007
+wasn't expanded upon or drawn out in any kind
+of climactic way. So the film ends on this
+
+255
+00:23:24,267 --> 00:23:30,849
+anticlimactic cliffhanger that's pretty unsatisfying
+and completely unnecessary, considering the
+
+256
+00:23:30,869 --> 00:23:36,351
+film is about five minutes shy of a standard
+90 minute runtime. Like, you couldn't give
+
+257
+00:23:36,391 --> 00:23:42,472
+me five more minutes of action. Everyone knows
+who listens to this podcast that I don't mind
+
+258
+00:23:42,672 --> 00:23:48,443
+long runtimes. Zack Snyder's Justice League
+is four hours. The Batman is about three hours.
+
+259
+00:23:49,023 --> 00:23:54,767
+Our past two episodes have been reviews of five
+hour long television series that I binged and
+
+260
+00:23:54,827 --> 00:23:59,791
+I've come to the realization that if you really
+wanted to do an animated Watchmen adaptation
+
+261
+00:23:59,871 --> 00:24:05,474
+justice at the bare minimum, you should just
+make each comic issue a 20 minute long episode
+
+262
+00:24:05,494 --> 00:24:10,938
+of a 12 episode television series. That would
+be perfect. And you know, the things that the
+
+263
+00:24:11,118 --> 00:24:17,362
+film and television mediums have over comic
+books is action and movement. Right. And if
+
+264
+00:24:17,382 --> 00:24:21,305
+they could have drawn out some of those fight
+sequences, some of those climactic battles
+
+265
+00:24:21,725 --> 00:24:27,349
+where we have Ozzy Medeus going up against the
+assassin and you have Rorschach going up against
+
+266
+00:24:27,409 --> 00:24:31,512
+the police and stuff like that, they could have
+drawn those out longer. And they had the opportunity
+
+267
+00:24:31,552 --> 00:24:36,775
+to do that, not just to extend the runtime,
+but provide a more cinematic experience for
+
+268
+00:24:36,795 --> 00:24:41,479
+the viewer. Exactly. Yeah. Cinematic. I could
+not have said that better myself. Now, anyone
+
+269
+00:24:41,499 --> 00:24:46,474
+who's listened to this podcast for a while has
+also heard me say a thousand times that one
+
+270
+00:24:46,494 --> 00:24:52,735
+of the reasons DC Comics is better than Marvel
+is because DC's characters are pure archetypes
+
+271
+00:24:52,855 --> 00:25:00,838
+and symbols of virtue, these true heroes unburdened
+by character flaws. Now when I say that, I'm
+
+272
+00:25:01,018 --> 00:25:08,100
+100% not talking about Watchmen. Watchmen was
+Alan Moore's way of criticizing DC superheroes
+
+273
+00:25:08,140 --> 00:25:14,261
+by showing us a world of unconventional superheroes
+that are these insecure or immoral or nihilistic
+
+274
+00:25:14,281 --> 00:25:21,010
+humans. whose motivations for vigilantism would
+not and should not be trusted or accepted by
+
+275
+00:25:21,090 --> 00:25:28,596
+the public. In that case, you can kind of say
+that the Watchmen story is DC's most Marvel
+
+276
+00:25:28,716 --> 00:25:33,299
+tale. Yeah, but only if Marvel was like good,
+you know, it's like DC could do Marvel better
+
+277
+00:25:33,339 --> 00:25:38,523
+than Marvel could do Marvel. No, they can't
+shut up. But let's get more into these flawed
+
+278
+00:25:38,543 --> 00:25:43,910
+characters in our character breakdown, starting
+with Rorschach. Now Rorschach was voiced by
+
+279
+00:25:43,990 --> 00:25:49,334
+Titus Welliver, the star of the Amazon series
+Bosh, and who you may also recognize from shows
+
+280
+00:25:49,374 --> 00:25:54,858
+like The Good Wife or Deadwood or films like
+Argo. I know the guy's face, but I didn't know
+
+281
+00:25:54,898 --> 00:25:59,761
+his name or his voice, apparently. I felt like
+he was doing an impression of the Rorschach
+
+282
+00:25:59,861 --> 00:26:06,125
+actor from the live action film Jackie Earl
+Haley. And though Haley did it better, I wouldn't
+
+283
+00:26:06,185 --> 00:26:12,049
+say Titus Welliver did a bad job by any means.
+There was nothing like new or unique or superior.
+
+284
+00:26:12,310 --> 00:26:16,972
+to his performance over what we got in the Zack
+Snyder film. If you had told me that Jackie
+
+285
+00:26:17,032 --> 00:26:22,355
+Earl Haley actually did the voice for the character
+again, I totally would have believed you. I
+
+286
+00:26:22,395 --> 00:26:27,177
+wish that they would have tried a different
+approach. Like maybe go for like a very monotone
+
+287
+00:26:27,337 --> 00:26:31,779
+serial killer spooky type voice, you know. But
+yeah, what does that sound like? Kind of like
+
+288
+00:26:31,839 --> 00:26:33,580
+your voice, but fuck you.
+
+289
+00:26:37,894 --> 00:26:42,218
+I guess a good reference for that would be Michael
+C. Hall's performance in the Dexter television
+
+290
+00:26:42,238 --> 00:26:48,144
+show. He did a lot of narration across all of
+those episodes and just his cold voice, I thought,
+
+291
+00:26:48,164 --> 00:26:52,448
+could have provided a good template for this
+version of Rorschach. Interesting. I think
+
+292
+00:26:52,528 --> 00:26:56,271
+you're going to go more along the lines of something
+like Buffalo Bill and be like, put the lotion
+
+293
+00:26:56,311 --> 00:27:01,516
+in the basket. Never compromise. Never in the
+face of a barbeque. That's weird. No, I just,
+
+294
+00:27:01,636 --> 00:27:06,518
+I mean, to me, he kind of sounded like. Gravely,
+Batman, and I think they could have done something
+
+295
+00:27:06,698 --> 00:27:11,740
+unique just to help separate this from Zack
+Snyder's film and draw fewer comparisons. Yeah,
+
+296
+00:27:11,840 --> 00:27:16,201
+that would have been great if they would have
+tried something new. Again, though, I didn't
+
+297
+00:27:16,241 --> 00:27:21,423
+mind this. Now the first half of The Watchman's
+story, Rorschach is the only active street
+
+298
+00:27:21,443 --> 00:27:26,864
+vigilante driven by his uncompromising black
+and white moral philosophy to punish those
+
+299
+00:27:26,884 --> 00:27:33,274
+who have done wrong and evil. When investigating
+the murder of Edward Blake. Rorschach learns
+
+300
+00:27:33,334 --> 00:27:39,019
+that he was the comedian, a former vigilante
+turned government agent in middle age. His
+
+301
+00:27:39,139 --> 00:27:45,224
+arc involves a descent into obsession and conspiracy
+as he arrives at the possibility that someone
+
+302
+00:27:45,244 --> 00:27:51,209
+is killing former costumed heroes, and his obsession
+shows just how much he's willing to alienate
+
+303
+00:27:51,249 --> 00:27:56,493
+his remaining relationships and hurt anyone
+in pursuit of justice. Yeah, it's really hard
+
+304
+00:27:56,513 --> 00:28:00,737
+to add commentary to the character of Rorschach
+as a character in this film that hasn't already
+
+305
+00:28:00,777 --> 00:28:06,308
+been said about. The comic book character. I
+liked the movement of Rorschach's mask in this
+
+306
+00:28:06,348 --> 00:28:13,912
+movie, though. You mean more than the live action
+version? No, no, of course not. No. OK. No,
+
+307
+00:28:14,332 --> 00:28:21,756
+no, no. Yeah, the whole concept of Rorschach's
+mask, how it is constantly shifting. I always
+
+308
+00:28:21,776 --> 00:28:26,519
+thought has been a really cool one. Like, there's
+no other costumed mask character in the comics
+
+309
+00:28:26,539 --> 00:28:33,210
+that's like that. Moving on to Dan Dreiberg,
+aka Night Owl 2. He was voiced by Matthew Riz.
+
+310
+00:28:33,290 --> 00:28:38,453
+He's not a big name. I'm not too familiar with
+his other work, but I also kind of felt like
+
+311
+00:28:38,513 --> 00:28:43,115
+his performance was somewhat inspired by Patrick
+Wilson's take on the character in live action.
+
+312
+00:28:43,135 --> 00:28:47,817
+Yeah, if I was the director of this animated
+film, I would have told the actors to not watch
+
+313
+00:28:47,997 --> 00:28:51,678
+at all the Zack Snyder film if they haven't
+already, but it looks like what these guys
+
+314
+00:28:51,718 --> 00:28:55,820
+did is went and watched Zack Snyder's film and
+then just tried to do that exactly. I mean,
+
+315
+00:28:55,900 --> 00:29:00,426
+everyone's seen Zack Snyder's film. It's a great
+movie! Well, they should have tried to erase
+
+316
+00:29:00,467 --> 00:29:04,469
+it from their brains and come up with a new
+approach. Do you think Matthew Riz did a better
+
+317
+00:29:04,570 --> 00:29:10,474
+job than Patrick Wilson? Because I actually
+do. Really? What? No, I don't at all. I loved
+
+318
+00:29:10,514 --> 00:29:15,298
+Patrick Wilson's take on Night Owl. Well, I
+mean, who doesn't? Everyone does. But regarding
+
+319
+00:29:15,358 --> 00:29:20,962
+his arc, you know, Dan starts out as a retired
+superhero struggling with a sense of purposelessness
+
+320
+00:29:21,122 --> 00:29:26,450
+in a world that no longer values masked vigilantes,
+you know, living a quiet, lonely life. that
+
+321
+00:29:26,550 --> 00:29:32,874
+changes when Rorschach warns him of his conspiracy
+that someone is targeting former masked heroes.
+
+322
+00:29:33,234 --> 00:29:39,538
+Dan's interactions with Laurie Uspechek betray
+his insecurity, which seemingly contrasts with
+
+323
+00:29:39,578 --> 00:29:45,421
+his former superhero persona. As Dan reconnects
+with Laurie, he begins to reconnect with his
+
+324
+00:29:45,601 --> 00:29:51,745
+old identity, grappling with the harsh realities
+of the world around him. Now his arc is one
+
+325
+00:29:52,025 --> 00:29:58,449
+of... tentative reawakening as he slowly reclaims
+his role as Night Owl and grows closer with
+
+326
+00:29:58,549 --> 00:30:04,732
+Laurie. It's essentially the story of how Night
+Owl got his groove back. It's a good way to
+
+327
+00:30:04,772 --> 00:30:11,176
+put it. But speaking of Laurie, aka Silk Spectre
+II, she was voiced by Katie Sackoff from Battlestar
+
+328
+00:30:11,216 --> 00:30:16,019
+Galactica fame, who I thought did a much better
+job with the character than Malon Ackerman
+
+329
+00:30:16,059 --> 00:30:20,941
+did. Yeah Malon Ackerman was the weak link of
+the live action version, but she looked the
+
+330
+00:30:20,981 --> 00:30:25,605
+part. the movie. I agree. I really liked Katie
+Sikoff's performance here. It felt different
+
+331
+00:30:25,645 --> 00:30:30,248
+from Mal and Ackerman's in a way that the previous
+two characters did not. Right, yeah, I agree.
+
+332
+00:30:30,388 --> 00:30:35,512
+Now, Laurie is a retired superhero and initially
+the romantic partner of Dr. Manhattan, who
+
+333
+00:30:35,552 --> 00:30:40,616
+grapples with her identity and the legacy of
+her mother, the original Silk Spectre. Living
+
+334
+00:30:40,636 --> 00:30:46,040
+with Dr. Manhattan, Laurie feels increasingly
+isolated and disillusioned with her life as
+
+335
+00:30:46,080 --> 00:30:53,089
+a former superhero and current pacifying companion
+you could say to Dr. Manhattan. As Dr. Manhattan
+
+336
+00:30:53,109 --> 00:30:58,512
+grows more and more detached from humanity,
+however, Laurie rekindles a friendship with
+
+337
+00:30:58,572 --> 00:31:04,695
+Dent Dryberg, whose loneliness and diminished
+glory as a superhero allow her to easily relate
+
+338
+00:31:04,715 --> 00:31:11,299
+to him. When she eventually leaves Dr. Manhattan,
+she starts to reclaim her own identity, one
+
+339
+00:31:11,399 --> 00:31:16,406
+independent from the roles her mother and the
+government imposed on her. and one that she
+
+340
+00:31:16,486 --> 00:31:21,647
+knowingly or unknowingly uses to manipulate
+Dan. Laurie's character was always a bit of
+
+341
+00:31:21,667 --> 00:31:26,049
+a mystery to me in the original story because
+it really didn't make sense for her, I think,
+
+342
+00:31:26,089 --> 00:31:33,091
+to redawn the Silk Spectre identity considering
+her stance on it and her mother and superheroism
+
+343
+00:31:33,131 --> 00:31:39,653
+in general. It's like she largely did it just
+to bring Ny'al out of his shell. Yeah, but
+
+344
+00:31:39,693 --> 00:31:44,262
+I guess I don't see why she did it herself.
+I was under the impression that was largely
+
+345
+00:31:44,442 --> 00:31:49,164
+it. Like they were off to go rescue Rorschach
+and she was going to do it as a superhero.
+
+346
+00:31:49,184 --> 00:31:54,446
+She kind of found her own way to that lifestyle
+without, you know, badgering from her mom or
+
+347
+00:31:54,526 --> 00:31:58,968
+anything like that. But is that a lifestyle
+that as a character she would even want to
+
+348
+00:31:59,008 --> 00:32:05,507
+go to? That I don't think rung true from the
+original story. I think she found excitement
+
+349
+00:32:05,567 --> 00:32:10,249
+in it. And I think the alleyway scene where
+she's beating up the gangsters was proof of
+
+350
+00:32:10,289 --> 00:32:15,291
+that for both her and Dan. They both kind of
+got hot and bothered by that. So her angle
+
+351
+00:32:15,571 --> 00:32:21,794
+into Super Hero X was merely just thrill seeking.
+100%, yes. So then why wasn't she satisfied
+
+352
+00:32:21,874 --> 00:32:26,536
+as a hero prior to that? Because she felt like
+she was only doing it because her mom wanted
+
+353
+00:32:26,576 --> 00:32:31,286
+her to. What effect did that have on the thrill
+seeking aspect? Well, who knows how much thrill
+
+354
+00:32:31,306 --> 00:32:35,507
+seeking she actually got from it considering
+she was going to be on the same team as Dr.
+
+355
+00:32:35,547 --> 00:32:39,668
+Manhattan. I always kind of saw her more as
+like a model than a superhero and the same
+
+356
+00:32:39,708 --> 00:32:44,310
+goes for the first Silk Spectre. I don't know
+how much crime fighting they actually got involved
+
+357
+00:32:44,350 --> 00:32:49,611
+with because it didn't show that in the original
+comic. Now, May in the expanded Watchmen universe,
+
+358
+00:32:49,691 --> 00:32:55,333
+I haven't read all of those comics, but maybe
+the answer is found in there. Maybe. Moving
+
+359
+00:32:55,473 --> 00:33:01,220
+on to Jonathan Osterman, aka Dr. Manhattan.
+He was voiced by Michael Cerveris. I'll be
+
+360
+00:33:01,240 --> 00:33:06,284
+honest, I'm not familiar with his work. Apparently
+he played Professor Pig in the Gotham television
+
+361
+00:33:06,324 --> 00:33:11,849
+series though. Interesting. I did not like his
+performance at all. His was the one performance
+
+362
+00:33:11,929 --> 00:33:16,613
+where I could say was not as good or better
+than what we got in live action. Well, not
+
+363
+00:33:16,673 --> 00:33:20,816
+even as a comparison to Billy Crudup's because
+obviously Crudup's performance in Zack Snyder's
+
+364
+00:33:20,857 --> 00:33:27,254
+film was exceptional. It was so brilliant. But
+here, Dr. Manhattan sounded like... literally
+
+365
+00:33:27,294 --> 00:33:33,237
+an AI voice. Yeah. I guess I can understand
+the approach, but I did not like the execution
+
+366
+00:33:33,277 --> 00:33:40,941
+at all. No, it was 100% inferior. Dr. Manhattan
+is very detached from humanity, yes, but he's
+
+367
+00:33:41,101 --> 00:33:46,044
+not a robot, right? He's somewhere in between
+is what I'm guessing. And really, I think Crudup
+
+368
+00:33:46,104 --> 00:33:53,308
+nailed it, that sort of human yet detached quality
+to his voice. Absolutely. Not just his voice,
+
+369
+00:33:53,368 --> 00:33:58,426
+his whole performance in general, like his facial
+expressions. The Dr. Manhattan in the comic
+
+370
+00:33:58,466 --> 00:34:04,328
+had way more emotive facial expressions than
+they gave him in this animated film. I was
+
+371
+00:34:04,368 --> 00:34:08,569
+actually looking at the comic as I was watching
+this film the first time I watched it. And
+
+372
+00:34:08,609 --> 00:34:13,571
+yeah, they stripped a lot of the emotion out
+of Dr. Manhattan, which was really surprising
+
+373
+00:34:13,591 --> 00:34:19,733
+to me. Now from the get-go, Dr. Manhattan is
+portrayed as this detached god-like figure
+
+374
+00:34:20,033 --> 00:34:26,416
+that struggles to relate to humanity. His transformation
+into a being of nearly unlimited power made
+
+375
+00:34:26,436 --> 00:34:32,321
+him distant, viewing human life and emotions
+with a cold, almost clinical perspective. As
+
+376
+00:34:32,341 --> 00:34:38,186
+he becomes more involved in geopolitical and
+international matters, his growing disconnection
+
+377
+00:34:38,226 --> 00:34:44,831
+from humanity is made evident by his deteriorating
+relationship with Laurie, who leaves him due
+
+378
+00:34:44,851 --> 00:34:49,715
+to his emotional absence. When he's accused
+of causing cancer to people close to him throughout
+
+379
+00:34:49,755 --> 00:34:57,171
+his life, Dr. Manhattan retreats to Mars, distancing
+himself from Earth. His arc is one of profound
+
+380
+00:34:57,331 --> 00:35:03,232
+alienation as he grapples with his loss of humanity
+and the existential weight of his powers which
+
+381
+00:35:03,272 --> 00:35:07,754
+will ultimately set the stage for his change
+of heart and renewed interest in human beings
+
+382
+00:35:07,954 --> 00:35:13,635
+later on in the story. Why do you think Dr.
+Manhattan became detached with humanity? Why
+
+383
+00:35:13,695 --> 00:35:19,797
+does just the ability to perceive time in the
+fourth dimension and an abundance of superpowers
+
+384
+00:35:20,037 --> 00:35:24,679
+make you act like a robot? Right? Like Superman
+has a lot of powers. He doesn't act like a
+
+385
+00:35:24,739 --> 00:35:31,661
+robot. No, but I mean, Superman also experiences
+time the same way we do. When you can see so
+
+386
+00:35:31,681 --> 00:35:38,343
+many things in the way that he sees them, things
+become more trivial to you for the most part,
+
+387
+00:35:38,383 --> 00:35:44,265
+I would say. I don't necessarily think so. I
+think if I could perceive my entire life nonlinearly,
+
+388
+00:35:44,425 --> 00:35:49,043
+I don't think that would strip me of my personality.
+No, but when you get to see like the individuel
+
+389
+00:35:49,224 --> 00:35:54,688
+atomic makeup of people and you find that interesting
+It's like he said there's no difference in
+
+390
+00:35:54,728 --> 00:36:01,113
+the number of atoms between a dead human and
+a live human He doesn't really see them as
+
+391
+00:36:01,153 --> 00:36:06,837
+humans anymore He just sees them as these ghosts
+shifting through time as he's able to see all
+
+392
+00:36:06,877 --> 00:36:11,881
+of time They don't really matter and things
+don't really matter because it's all just atoms
+
+393
+00:36:11,921 --> 00:36:17,647
+moving I think even if I were able to see atoms,
+I would still see people. I guess I never understood
+
+394
+00:36:17,747 --> 00:36:22,048
+the evolution of John Osterman as a character
+into Dr. Manhattan. It was just something that
+
+395
+00:36:22,128 --> 00:36:27,030
+happened, and you had to kind of accept that's
+who he was, but how he got from point A to
+
+396
+00:36:27,070 --> 00:36:31,891
+point B just by rebuilding himself, I'll never
+quite understand. Okay, well think of it this
+
+397
+00:36:31,931 --> 00:36:39,033
+way. Do you care about the lives of ants? No,
+not really. Do you care about what they care
+
+398
+00:36:39,073 --> 00:36:43,700
+about? But human beings would not be ants to
+me because human beings act different than
+
+399
+00:36:43,780 --> 00:36:48,942
+ants to me. And yet if you were Dr. Manhattan,
+they would all be ants to you. No, no, because
+
+400
+00:36:48,983 --> 00:36:52,685
+he's still carrying on conversations with us
+and stuff like that. If we were really ants
+
+401
+00:36:52,705 --> 00:36:56,727
+to Dr. Manhattan, why would he bother communicating
+with us? Why would he bother interacting with
+
+402
+00:36:56,787 --> 00:37:00,969
+us? Why would he bother having a girlfriend
+and having these emotional attachments and
+
+403
+00:37:00,989 --> 00:37:05,511
+stuff? But it's not like the conversations he's
+having are interesting to him. In fact, they
+
+404
+00:37:05,552 --> 00:37:11,606
+become less and less interesting as time goes
+on. You were Ant-Man and you could talk with
+
+405
+00:37:11,806 --> 00:37:17,028
+ants. Who the fuck cares what an ant has to
+say? It's a fucking ant. What? Fuck Ant Bro.
+
+406
+00:37:17,048 --> 00:37:21,769
+How would you know? You've never talked to one.
+Oh, I know. Don't worry. All right. OK. There
+
+407
+00:37:21,789 --> 00:37:27,011
+you go. This conversation has gotten really
+weird. I think we should move on. Oh, we've
+
+408
+00:37:27,031 --> 00:37:31,432
+already moved on. It's the future. That's how
+you perceive time. We're already there. It's
+
+409
+00:37:31,592 --> 00:37:39,346
+all right. Moving on to Adrian Veit, AKA Ozymandias.
+He was voiced by Troy Baker. who's a very versatile
+
+410
+00:37:39,487 --> 00:37:45,070
+and prolific voice actor for a lot of animated
+work in video games as well. I thought he did
+
+411
+00:37:45,090 --> 00:37:49,572
+a great job for as little as he was in the movie.
+I thought he did a better job with the character
+
+412
+00:37:49,612 --> 00:37:53,814
+than Matthew Goode did in the movie. I didn't
+really love Matthew Goode's performance in
+
+413
+00:37:53,834 --> 00:37:58,277
+the live-action version. Well, yeah, Matthew
+Goode kind of approached it with a German accent,
+
+414
+00:37:58,437 --> 00:38:02,339
+if I remember correctly, like slightly German
+or something. Yes. I'm not sure if that was
+
+415
+00:38:02,359 --> 00:38:07,346
+the right call there, but I would say that in
+this animated movie, Troy Baker approach the
+
+416
+00:38:07,386 --> 00:38:12,168
+character in a way that was more consistent
+with how I read it in the original books. Yeah,
+
+417
+00:38:12,248 --> 00:38:16,511
+same for me. Although I do have to hand it to
+the people who wrote Zack Snyder's Watchmen
+
+418
+00:38:16,531 --> 00:38:22,494
+movie. In many ways, I think they improved upon
+Alan Moore's original dialogue with lines like
+
+419
+00:38:22,934 --> 00:38:27,437
+statistically, what murder doesn't constitute
+a trend or something like that, which Ozymandias
+
+420
+00:38:27,457 --> 00:38:31,799
+told Rorschach the first time they met. Just
+lines like that I thought were well done. Or
+
+421
+00:38:31,879 --> 00:38:36,401
+even lines where he was telling other businessmen
+like I could buy and sell you 10 times over.
+
+422
+00:38:36,970 --> 00:38:41,392
+something like that, you know, just to like
+actually show that this guy really is the richest
+
+423
+00:38:41,412 --> 00:38:47,714
+guy in the world. Now next to Dr. Manhattan,
+Adrian is presented as the most capable man
+
+424
+00:38:47,915 --> 00:38:53,677
+in existence. He's the world's smartest man
+and a former superhero who successfully transitioned
+
+425
+00:38:53,757 --> 00:38:59,260
+into a wealthy businessman. Outwardly, Adrian
+appears to have left his vigilante days behind,
+
+426
+00:38:59,520 --> 00:39:04,542
+you know, focusing on his global enterprises
+and philanthropic efforts. But there are hints
+
+427
+00:39:04,722 --> 00:39:10,064
+that he actually hasn't lost any of his touch
+as a superhero, as evidenced by the foiled
+
+428
+00:39:10,104 --> 00:39:16,946
+assassination attempt. His public persona as
+a benevolent billionaire genius is only a half-truth,
+
+429
+00:39:17,006 --> 00:39:23,108
+and his arc is one of subtle manipulation and
+control, though we don't really comprehend
+
+430
+00:39:23,148 --> 00:39:27,609
+that until later in the story, since in this
+first half, his true motivations and plans
+
+431
+00:39:27,769 --> 00:39:32,256
+are nonexistent. Yeah, I kind of forgot just
+how few appearances the character of Ozymandias
+
+432
+00:39:32,316 --> 00:39:36,359
+actually makes within the first half of the
+story, which kind of seems like a misdirection
+
+433
+00:39:36,619 --> 00:39:41,102
+on behalf of Alan Moore's part considering his
+role in the second half of the story. You know,
+
+434
+00:39:41,363 --> 00:39:46,386
+we don't think too much about Ozymandias in
+this first half. Yes, absolutely. And you know,
+
+435
+00:39:46,406 --> 00:39:50,409
+that was the case when I first read the comic
+as well. I thought he was kind of the most
+
+436
+00:39:50,509 --> 00:39:55,553
+boring character. I didn't really quite understand
+why he was even in the story or what purpose
+
+437
+00:39:55,573 --> 00:40:01,972
+he served. But yeah, he's very heavily involved
+in the story as we find out in the second half.
+
+438
+00:40:02,273 --> 00:40:08,220
+You know who gave the best Azumandias performance
+of all time? Who? Jeremy Irons. Oh yeah! Yeah,
+
+439
+00:40:08,240 --> 00:40:12,505
+that guy was great. That whole show was just
+so good, I need to rewatch it. I think I will
+
+440
+00:40:12,565 --> 00:40:15,769
+actually after watching Watchmen Chapter 2 when
+that comes out next year.
+
+441
+00:40:23,214 --> 00:40:28,878
+Our fantasies collide and heroes clash. One
+Podcast Network rises above the rest. Prepare
+
+442
+00:40:28,898 --> 00:40:34,623
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+443
+00:40:34,683 --> 00:40:40,448
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+444
+00:40:40,968 --> 00:40:47,864
+Dynamic Duel, where comic- Smash every Tuesday,
+Max Destruction, where TV and action heroes
+
+445
+00:40:47,904 --> 00:40:54,227
+battle every Wednesday, and Sendro World, where
+anime champions clash every Thursday. Join
+
+446
+00:40:54,307 --> 00:40:58,990
+us as we speculate on the matches and, armed
+with the power of mathematical simulations,
+
+447
+00:40:59,230 --> 00:41:06,133
+discover who will emerge victorious. Visit dynamicpodcast.com
+where we settle the debate and settle the score.
+
+448
+00:41:10,455 --> 00:41:15,379
+Let's move on to the story highlights. A man
+named Edward Blake is murdered by being thrown
+
+449
+00:41:15,479 --> 00:41:20,463
+out of the window of a high-rise apartment.
+The superhero vigilante Rorschach illegally
+
+450
+00:41:20,503 --> 00:41:26,228
+investigates Blake's murder and discovers Blake
+was the comedian, a former masked adventurer.
+
+451
+00:41:26,628 --> 00:41:31,693
+Concerned that Blake's murder could mean that
+someone is targeting former superheroes, Rorschach
+
+452
+00:41:31,733 --> 00:41:37,037
+warns his old associates, beginning with Dan
+Dreiberg, a former superhero known as Night
+
+453
+00:41:37,157 --> 00:41:42,235
+Owl. When Dan returns home from visiting his
+mentor Hollis Mason, the original Night Owl,
+
+454
+00:41:42,575 --> 00:41:47,656
+he finds Rorschach, who broke in, and the two
+discuss Rorschach's theory regarding a mask
+
+455
+00:41:47,716 --> 00:41:53,278
+killer, after which Dan remembers an incident
+from the past when he and the comedian violently
+
+456
+00:41:53,318 --> 00:41:59,080
+confronted protesters against an ongoing police
+strike at the time and the hero's vigilantism.
+
+457
+00:41:59,100 --> 00:42:03,481
+I gotta say, we didn't discuss the comedian
+in the character breakdown, but I hated this
+
+458
+00:42:03,521 --> 00:42:08,480
+version of the comedian. Now... I know I've
+been saying that I wish these voice actors
+
+459
+00:42:08,520 --> 00:42:13,284
+took a different approach from what was done
+in Zack Snyder's film. And that's definitely
+
+460
+00:42:13,304 --> 00:42:19,450
+what the comedian actor did here. But it was
+just so bad that I wish Jeffrey Dean Morgan
+
+461
+00:42:19,510 --> 00:42:24,534
+had come back to voice the character. Dude,
+you are so inconsistent. You want to be the
+
+462
+00:42:24,594 --> 00:42:29,379
+same? Come on. I wanted Rorschach to be different,
+but I wanted the comedian to be a little bit
+
+463
+00:42:29,419 --> 00:42:34,370
+more wry in his delivery, a little bit more
+ironic. because that's kind of who the character
+
+464
+00:42:34,450 --> 00:42:41,112
+is, I think. Here he was just angry and one
+note and frankly, boring. That's fair. Actually,
+
+465
+00:42:41,132 --> 00:42:47,554
+I mean, the comedian is a character who kind
+of sees the tragic humor in everything. Right,
+
+466
+00:42:47,574 --> 00:42:52,035
+he's the ultimate cynic. Yeah. That's his whole
+thing. That's very fair. Jeffrey Dean Morgan
+
+467
+00:42:52,055 --> 00:42:58,517
+is such a charming actor. He makes so many like
+bad guys likable, you know, whether it's here,
+
+468
+00:42:58,537 --> 00:43:03,510
+whether it's in The Walking Dead, The Boys,
+a lot of different places. So yeah, if you're
+
+469
+00:43:03,550 --> 00:43:09,673
+gonna play a character like the comedian who
+should be played, you know, very human, I guess,
+
+470
+00:43:09,713 --> 00:43:14,795
+for lack of a better term. I don't want to say
+sympathetic, but almost. He's not a caricature
+
+471
+00:43:14,955 --> 00:43:19,917
+like he was portrayed here. He's a piece of
+shit, but he's not one note, you know? Yeah,
+
+472
+00:43:19,957 --> 00:43:26,020
+he's very, very complex as a character. Probably
+the most complex character in Watchmen. So
+
+473
+00:43:26,060 --> 00:43:31,855
+many lives were affected by him in so many different
+ways. Now after roughing up patrons at a bar
+
+474
+00:43:31,895 --> 00:43:37,138
+looking for answers, Rorschach visits Adrian
+Veit, the former hero known as Ozymandias,
+
+475
+00:43:37,298 --> 00:43:41,942
+now the current head of Veit Industries as well
+as the smartest and richest man in the world.
+
+476
+00:43:42,342 --> 00:43:47,285
+Upon learning what happened to Blake, Adrian
+remembers a time when the comedian interrupted
+
+477
+00:43:47,325 --> 00:43:52,349
+a meeting held by Captain Metropolis and the
+potential formation of a new super team because
+
+478
+00:43:52,369 --> 00:43:57,732
+he pointed out that nothing they did would be
+able to stop the world's inevitable apocalyptic
+
+479
+00:43:57,772 --> 00:44:03,595
+descent into nuclear war. And Adrian's recollection
+of the comedian is really the one that brings
+
+480
+00:44:03,655 --> 00:44:09,396
+out the nihilism of the Watchmen story and particularly
+that of the comedian. I actually liked the
+
+481
+00:44:09,496 --> 00:44:14,458
+animated performance that Azumandias gave in
+this scene. The way he would eyeball everyone
+
+482
+00:44:14,478 --> 00:44:18,479
+who talked to him, kind of like sizing them
+up and just being very calculating. You really
+
+483
+00:44:18,499 --> 00:44:23,020
+got that vibe. Yeah, you know, in the comic,
+the artist who did it, Dave Gibbons, he's a
+
+484
+00:44:23,140 --> 00:44:29,654
+master of like body language. So it's impressive
+that they could expand upon that. in something
+
+485
+00:44:30,335 --> 00:44:34,938
+that moves. I thought they took really great
+cues from what was going on in the story to
+
+486
+00:44:35,018 --> 00:44:39,381
+do things and add things like that. I kind of
+wish Matthew Good would have done that in the
+
+487
+00:44:39,421 --> 00:44:44,946
+live action movie. Oh yeah, I agree. But instead
+he kind of acted more like a diva when the
+
+488
+00:44:44,966 --> 00:44:49,069
+comedian was pissing him off during that meeting.
+Yeah, again, there's a number of ways in which
+
+489
+00:44:49,209 --> 00:44:54,333
+this adaptation is better than the live action
+version. And it's kind of interesting to compare
+
+490
+00:44:54,353 --> 00:44:58,603
+and contrast the two. Like I said, maybe by
+the time the second chapter comes out, I'll
+
+491
+00:44:58,643 --> 00:45:03,646
+end up liking this adaptation more. We'll see.
+After sneaking his way onto a military base,
+
+492
+00:45:04,006 --> 00:45:08,549
+Rorschach approaches Dr. Manhattan and Lori
+Yospechik, the latter being the former hero
+
+493
+00:45:08,609 --> 00:45:14,892
+and model known as Silk Spectre II, who became
+agitated upon hearing about the comedian since
+
+494
+00:45:14,932 --> 00:45:20,275
+he tried to rape her mother, the original Silk
+Spectre, decades ago. After teleporting Rorschach
+
+495
+00:45:20,335 --> 00:45:24,837
+away to comfort Lori, she decides to arrange
+dinner with Dan Dreiberg for old time's sake.
+
+496
+00:45:25,226 --> 00:45:30,969
+and the two bond over their glory days as heroes.
+Alone with his scientific work, Dr. Manhattan
+
+497
+00:45:31,009 --> 00:45:35,932
+recalls his time with the comedian during the
+Vietnam War, in which they helped America win
+
+498
+00:45:35,952 --> 00:45:41,855
+the war, and when upon their victory, Dr. Manhattan
+failed to stop the comedian from killing a
+
+499
+00:45:41,935 --> 00:45:47,779
+young Vietnamese woman he had impregnated. And
+it's interesting to see how time goes on from
+
+500
+00:45:47,859 --> 00:45:52,390
+when Dr. Manhattan first became superpowered
+to the point where the story takes place. he
+
+501
+00:45:52,430 --> 00:45:57,412
+becomes more and more detached from humanity
+over time. And that's evidenced by the fewer
+
+502
+00:45:57,452 --> 00:46:02,554
+clothes that he wears. Like when he's in Vietnam,
+he's wearing more clothes than he does in the
+
+503
+00:46:02,574 --> 00:46:06,275
+present day. And he was wearing more clothes
+than that when he first began his superhero
+
+504
+00:46:06,315 --> 00:46:11,737
+career and was even meeting with the Minutemen
+to form potentially a new team. It's at Vietnam
+
+505
+00:46:11,817 --> 00:46:16,960
+where I think Dr. Manhattan begins to realize
+how disconnected he's becoming from humanity
+
+506
+00:46:17,000 --> 00:46:22,382
+because the comedian was 100% right. He totally
+let the comedian kill that woman. He could
+
+507
+00:46:22,402 --> 00:46:27,266
+have stopped him, but he didn't because he's
+just kind of become this watcher type character
+
+508
+00:46:27,626 --> 00:46:32,650
+who's just watching time progress as opposed
+to being physically a part of it. And that's
+
+509
+00:46:32,670 --> 00:46:37,895
+a huge red flag for the comedian. You know what
+I miss in this movie though, were the music
+
+510
+00:46:37,935 --> 00:46:44,100
+choices from the Zack Snyder film. Nah, the
+music choices and the soundtrack for Zack Snyder's
+
+511
+00:46:44,280 --> 00:46:49,184
+Watchmen are top notch. I freaking love that
+soundtrack. It bothered a lot of people and
+
+512
+00:46:49,204 --> 00:46:52,771
+it bothered a lot of critics. because they thought
+it was a little bit too on the nose. But I
+
+513
+00:46:52,811 --> 00:46:58,554
+actually really liked the way it invoked specific
+time periods and themes, stuff like that. It
+
+514
+00:46:58,574 --> 00:47:03,797
+was really well done, in my opinion. Like, I
+wanted to hear Simon Garfunkel's song during
+
+515
+00:47:03,837 --> 00:47:07,820
+the funeral scene, and I wanted to hear Flight
+of the Valkyries during the Vietnam War scene
+
+516
+00:47:07,840 --> 00:47:13,183
+and stuff like that. It was just missed. Yeah,
+same here. Now, during Blake's funeral, Lori
+
+517
+00:47:13,223 --> 00:47:18,754
+visits her elderly mother, Sally, who lives
+retired in California. Upon discussing Blake's
+
+518
+00:47:18,794 --> 00:47:23,918
+death, Sally remembers when she and Blake, as
+Silk Spectre and the Comedian, were both members
+
+519
+00:47:23,958 --> 00:47:28,941
+of the Minutemen superteam, along with other
+heroes such as the First Night Owl and Hooded
+
+520
+00:47:28,981 --> 00:47:34,965
+Justice, the latter of whom we see halt Blake's
+attempted rape of Sally. Dr. Manhattan, Dan
+
+521
+00:47:35,005 --> 00:47:40,429
+Dreiberg, and Adrian Veidt all attend Blake's
+funeral, along with an old retired supervillain
+
+522
+00:47:40,569 --> 00:47:45,813
+known as Molech. Rorschach attacks Molech in
+his home later that night, believing he may
+
+523
+00:47:45,833 --> 00:47:52,041
+be the mask killer. only to learn that not only
+is Malik innocent and dying of cancer, but
+
+524
+00:47:52,061 --> 00:47:57,024
+that he was visited by a somber and drunken
+comedian not long before his death, during
+
+525
+00:47:57,064 --> 00:48:02,688
+which time he gave an ominous yet incoherent
+warning about a massive plot that somehow involved
+
+526
+00:48:02,768 --> 00:48:09,453
+Malik and Dr. Manhattan's old girlfriend, Janie
+Slater. Now how cool is it seeing Hooded Justice
+
+527
+00:48:09,613 --> 00:48:16,850
+and perceiving him as a black cop wearing white
+makeup around his eyes with the noose around
+
+528
+00:48:16,890 --> 00:48:22,632
+his neck that was once used to try to lynch
+him. Now, I'm not sure how in continuity the
+
+529
+00:48:22,652 --> 00:48:27,795
+Watchmen HBO television series is. It's totally
+my head cannon. It should be. It should be
+
+530
+00:48:27,815 --> 00:48:32,857
+because that was a fantastic origin for Hooded
+Justice. And yeah, I 100% thought about that
+
+531
+00:48:33,017 --> 00:48:37,576
+during this scene with him. It kind of adds
+another layer as to why Hooded Justice didn't
+
+532
+00:48:37,596 --> 00:48:42,500
+get more involved in punishing the comedian,
+because the comedian kind of alluded to the
+
+533
+00:48:42,560 --> 00:48:46,663
+fact that he knew something about Hooded Justice,
+a seeker of his, that he didn't want to get
+
+534
+00:48:46,763 --> 00:48:51,366
+out. So he was blackmailed, essentially. I think
+the comedian knew that Hooded Justice was gay.
+
+535
+00:48:51,807 --> 00:48:56,831
+Well, yeah, maybe multiple things. Well, a young
+boy at a newspaper stand reads a comic book
+
+536
+00:48:56,931 --> 00:49:02,419
+about a stranded pirate that's interwoven into
+the main plot. Laurie becomes distressed upon
+
+537
+00:49:02,479 --> 00:49:07,443
+learning that Dr. Manhattan is working on his
+scientific research simultaneously while they
+
+538
+00:49:07,483 --> 00:49:12,087
+make love, and she departs for Dan's home to
+lament her relationship, and the two later
+
+539
+00:49:12,147 --> 00:49:17,272
+defend themselves from a gang attack. Meanwhile,
+Dr. Manhattan goes on a talk show to discuss
+
+540
+00:49:17,392 --> 00:49:22,716
+international tensions and potential war, only
+to be publicly confronted about a pattern of
+
+541
+00:49:22,756 --> 00:49:28,721
+cancer diagnoses among those from his past,
+including Malik and Janie Slater, among others.
+
+542
+00:49:29,170 --> 00:49:34,454
+Agitated by the accusation that he's the cause,
+Dr. Manhattan teleports the entire talk show
+
+543
+00:49:34,514 --> 00:49:39,738
+audience and crew away before grabbing an old
+photo of himself and Janie at an abandoned
+
+544
+00:49:39,819 --> 00:49:44,863
+military base and teleporting to Mars to live
+in seclusion. Now one thing that was missing
+
+545
+00:49:44,903 --> 00:49:50,447
+from Zack Snyder's adaptation was of course
+the tales from the Black Freighter storyline
+
+546
+00:49:50,488 --> 00:49:56,319
+that was interwoven in the comic book. I completely
+understand why that was omitted because it's
+
+547
+00:49:56,459 --> 00:50:03,124
+not really pivotal to the plot of Watchmen,
+but it is fascinating to see how, like I mentioned
+
+548
+00:50:03,204 --> 00:50:09,548
+earlier, Alan Moore will use text from the comic
+to relate to the scene that we're currently
+
+549
+00:50:09,588 --> 00:50:14,230
+viewing. Yeah, I don't think the incorporation
+of the Tales of the Black Crater comic was
+
+550
+00:50:14,270 --> 00:50:18,673
+done successfully here. I appreciate how they
+actually tried to interweave the tale within
+
+551
+00:50:18,713 --> 00:50:23,605
+this story. but it just goes to show how unique
+of a medium comic books is and that it felt
+
+552
+00:50:23,645 --> 00:50:27,648
+very successful in the Watchmen comic. Even
+though it was an abrupt shift in the pacing
+
+553
+00:50:27,688 --> 00:50:33,373
+of the overall story, I think for film and television,
+you need to keep that momentum going. And every
+
+554
+00:50:33,393 --> 00:50:37,556
+time you go to the Black Friday, it was just
+really confusing, I think, to any new coming
+
+555
+00:50:37,836 --> 00:50:44,442
+audiences. Yeah, I can agree with that 100%.
+I don't think it was unsuccessful entirely
+
+556
+00:50:44,502 --> 00:50:49,226
+because there were those scenes where it added
+layers, but you know, if they... dropped it
+
+557
+00:50:49,246 --> 00:50:53,127
+from the film, I also would not have complained.
+I think it was just really hard to catch the
+
+558
+00:50:53,227 --> 00:50:57,969
+relevance of it all the way it was executed
+here. You know, I'm not 100% you could even
+
+559
+00:50:57,989 --> 00:51:06,972
+call it relevant. It's not. It's just this literary
+framing device that, yeah, 100% works in the
+
+560
+00:51:06,992 --> 00:51:12,651
+comics, but like you mentioned, maybe not anywhere
+else. With Dr. Manhattan gone, Lori is kicked
+
+561
+00:51:12,691 --> 00:51:17,253
+out of her shared home on the military base,
+and worldwide tensions escalate dramatically
+
+562
+00:51:17,293 --> 00:51:23,557
+now that America is without its protector. Meanwhile,
+on Mars, Dr. Manhattan relives his past as
+
+563
+00:51:23,597 --> 00:51:27,899
+the young man Jonathan Osterman, the son of
+a watchmaker who encouraged him to become a
+
+564
+00:51:27,980 --> 00:51:33,323
+scientist. He also recalls when he met and fell
+in love with his scientist co-worker, Janie
+
+565
+00:51:33,363 --> 00:51:38,902
+Slater, along with the accident that destroyed
+his body and gave him his superpowers. His
+
+566
+00:51:38,962 --> 00:51:44,306
+subsequent life with Janie and later Laurie
+is briefly explored before he creates a massive
+
+567
+00:51:44,346 --> 00:51:50,712
+clockwork structure made from glass back on
+Mars. This whole sequence infuriated me, actually,
+
+568
+00:51:50,752 --> 00:51:56,136
+because it was so inferior to what we got in
+the live action movie. It just didn't work
+
+569
+00:51:56,176 --> 00:52:01,021
+here. It was so boring the way the voice actor
+narrated the jumps through time, giving the
+
+570
+00:52:01,061 --> 00:52:06,265
+years and everything like that, and the lack
+of music, you know? It just, it didn't work
+
+571
+00:52:06,305 --> 00:52:11,124
+as well. nearly as well. It was like a magical
+sequence within the live action version. And
+
+572
+00:52:11,184 --> 00:52:15,646
+here I was almost born to death and I couldn't
+wait for them to just move on with the story.
+
+573
+00:52:16,066 --> 00:52:22,230
+This sequence is probably one of my most favorite
+in the movie and the comic. And I would agree
+
+574
+00:52:22,350 --> 00:52:27,232
+I liked it the least here. There was at one
+point something they did that was really interesting
+
+575
+00:52:27,773 --> 00:52:32,775
+where he says, I dropped the photo to the floor
+and 30 seconds of the future it's already there.
+
+576
+00:52:33,056 --> 00:52:38,158
+And you actually see that. So it's like looking
+through his eyes. but they only attempted to
+
+577
+00:52:38,178 --> 00:52:43,299
+do that one more time where he says, you know,
+I'm standing looking at the stars and then
+
+578
+00:52:43,319 --> 00:52:49,141
+you see his body shift into a transparent ghost
+version of him. I don't know if I'm explaining
+
+579
+00:52:49,181 --> 00:52:54,102
+it well. Ultimately, it was not done as well
+as it could have been, though there was a hint
+
+580
+00:52:54,222 --> 00:52:58,944
+at something possibly genius that they just
+did not follow through with. With Malak being
+
+581
+00:52:59,004 --> 00:53:04,005
+mentioned during the talk show, Rorschach revisits
+and tortures Malak for information, which proves
+
+582
+00:53:04,085 --> 00:53:09,919
+fruitless. After Dan offers to let Lori live
+with him for the time, Adrian Veidt is attacked
+
+583
+00:53:09,939 --> 00:53:15,582
+by an assassin only to disable the killer, though
+he dies via a cyanide capsule before he can
+
+584
+00:53:15,622 --> 00:53:21,564
+give Adrian any information. With Dr. Manhattan
+gone, the comedian dead, and the assassination
+
+585
+00:53:21,604 --> 00:53:27,387
+attempt on Ozymandias, Rorschach becomes more
+convinced of his mask killer conspiracy and
+
+586
+00:53:27,427 --> 00:53:32,749
+revisits Malek, only to find him in his home
+alone, dead, with a gunshot wound to the head,
+
+587
+00:53:33,009 --> 00:53:38,547
+along with the gun. just as a swarm of police
+arrive on the scene. Rorschach attempts to
+
+588
+00:53:38,607 --> 00:53:44,789
+flee, attacking police officers in the process,
+but he is soon apprehended and unmasked, revealing
+
+589
+00:53:44,809 --> 00:53:49,871
+him to be a homeless doomsayer that had been
+seen walking the streets throughout the film.
+
+590
+00:53:50,251 --> 00:53:54,732
+I always loved that reveal. I remember being
+shocked by that in the comics when it's like,
+
+591
+00:53:54,872 --> 00:53:59,198
+oh, it's that guy, it's the redhead guy with,
+you know, the sign. There's a lot of things
+
+592
+00:53:59,218 --> 00:54:05,481
+that happen in these scenes that I can't really
+touch on until some reveals are made in the
+
+593
+00:54:05,561 --> 00:54:09,443
+second half of this story. Because I don't want
+to spoil that for anyone who's just coming
+
+594
+00:54:09,483 --> 00:54:15,086
+into this fresh. But revisiting these scenes
+with that in mind just kind of showed the masterwork
+
+595
+00:54:15,226 --> 00:54:18,668
+of the plan that's going on behind the scenes.
+And that's something that I always like to
+
+596
+00:54:18,728 --> 00:54:23,968
+see anytime I re-experience the story. During
+the end credits, we hear on a radio snippets
+
+597
+00:54:23,988 --> 00:54:28,912
+from Janie Slater talking about Dr. Manhattan
+and Hollis Mason talking about his early superhero
+
+598
+00:54:28,932 --> 00:54:34,396
+career while we see blood slowly drip halfway
+down the screen and a clock ticking closer
+
+599
+00:54:34,436 --> 00:54:40,661
+to midnight. And actually really liked that
+they included that in these end credits. Because
+
+600
+00:54:40,762 --> 00:54:44,705
+you know, a lot of movies, especially superhero
+movies will do things with their end credits.
+
+601
+00:54:44,785 --> 00:54:49,769
+But like, Watchmen is known for the supplemental
+elements that they included at the end of each
+
+602
+00:54:49,829 --> 00:54:55,549
+comic. And for them to include portions of that
+here, I thought was really cool. Like the ticking
+
+603
+00:54:55,589 --> 00:54:59,892
+clock, like the blood going down the screen,
+like the different excerpts from books and
+
+604
+00:55:00,172 --> 00:55:04,775
+radio interviews. That was cool. It was brilliant.
+I mean, I think you're right. If this was a
+
+605
+00:55:04,835 --> 00:55:11,160
+12 part television series where each issue was
+an episode, it would be really fucking cool
+
+606
+00:55:11,220 --> 00:55:17,044
+to get the supplemental material in the form
+of like a radio broadcast during the end credits
+
+607
+00:55:17,064 --> 00:55:24,962
+scene. Dude, 100 percent. I would have loved
+this as a 12 episode series. I would not put
+
+608
+00:55:24,982 --> 00:55:30,006
+up past Warner Brothers to do that with like
+in the next 10 years, just as another adaptation
+
+609
+00:55:30,046 --> 00:55:35,491
+to give to us. I wouldn't be surprised either.
+You'd think with the success of the Watchmen
+
+610
+00:55:35,531 --> 00:55:40,095
+live action television series, maybe they've
+even thought of doing that, but you know, animation
+
+611
+00:55:40,135 --> 00:55:45,380
+is cheaper. So they should have just done that
+here instead of doing what they did. Right.
+
+612
+00:55:45,580 --> 00:55:51,200
+I don't hate this movie. I feel like a lot of
+my review may have come across that way because
+
+613
+00:55:51,401 --> 00:55:57,466
+it is well made, it is a good story. Not everything
+is as successful as other adaptations, but
+
+614
+00:55:57,646 --> 00:56:04,252
+it is still a good adaptation, a very faithful
+one as well. Though despite filmmakers best
+
+615
+00:56:04,312 --> 00:56:10,537
+intentions, the film is faithful to a fault.
+In essence, it's an abridged and superfluous
+
+616
+00:56:10,577 --> 00:56:15,201
+version of the celebrated graphic novel. It
+was a really hard film to give a star rating
+
+617
+00:56:15,241 --> 00:56:22,154
+to. But at the end, I decided to go with three
+out of five stars, just barely recommendable
+
+618
+00:56:22,234 --> 00:56:27,438
+as an adaptation. It's still a fresh rating,
+but I'm still always going to recommend the
+
+619
+00:56:27,478 --> 00:56:33,142
+book over this adaptation 100% of the time.
+I feel like I would not recommend this movie.
+
+620
+00:56:33,422 --> 00:56:38,206
+Actually, I would give this a rotten score because
+at the end of the day, if you're going to read
+
+621
+00:56:38,246 --> 00:56:42,108
+the book, I'd recommend reading the book. And
+if you're going to watch a movie, I'd recommend
+
+622
+00:56:42,249 --> 00:56:46,803
+Zack Snyder's live action film. I would never
+in any circumstances, I think, recommend this
+
+623
+00:56:46,883 --> 00:56:51,086
+animated adaptation. Well, you haven't seen
+the full adaptation yet. That's the problem.
+
+624
+00:56:51,546 --> 00:56:55,028
+And you're always going to have instances. I
+come across this all the time where I'm like,
+
+625
+00:56:55,428 --> 00:57:00,571
+read the book and people are like, I don't have
+time to read comic books. Okay, well then watch
+
+626
+00:57:00,611 --> 00:57:05,233
+this movie maybe. Yeah, watch the live action
+movie because it's better. There's literally
+
+627
+00:57:05,293 --> 00:57:09,316
+no instance in which I would ever recommend
+this ever. You have two great options to choose
+
+628
+00:57:09,356 --> 00:57:13,378
+from the original novel or the 2009 film. I
+would just pick one of those. I think this
+
+629
+00:57:13,398 --> 00:57:18,900
+is the most unnecessary thing that DC has ever
+put out. It's hard. It's so hard because I
+
+630
+00:57:18,940 --> 00:57:24,302
+really like Watchmen. And I feel like by giving
+this a Rotten Tomato is the equivalent of saying
+
+631
+00:57:24,362 --> 00:57:29,624
+I don't like Watchmen or that it's bad. You
+know, 3 out of 5 stars is right on the cusp
+
+632
+00:57:29,764 --> 00:57:35,987
+of fresh and rotten. It's 60%. You may have
+just convinced me. I may give this a rotten
+
+633
+00:57:36,027 --> 00:57:40,809
+rating. Look within your heart. That's all I'll
+say. I'm not here to steer you one way or the
+
+634
+00:57:40,849 --> 00:57:47,275
+other. Well, too bad, because he did. You happy?
+Yeah, guys, don't be surprised if you see a
+
+635
+00:57:47,435 --> 00:57:53,438
+rotten rating on this from me on Rotten Tomatoes.
+Save your death threats. I'm already dead inside
+
+636
+00:57:53,478 --> 00:57:59,601
+for having to do this as much as it pains me.
+So yeah, I guess that does it for this review.
+
+637
+00:58:00,041 --> 00:58:07,184
+Let's wrap this shit up. Agent NK, wrap this
+shit up. Thanks for listening to Dynamic Duel.
+
+638
+00:58:07,824 --> 00:58:12,758
+Visit the show's website at dynamicduel.com.
+and follow us on Instagram at Dynamic Duel
+
+639
+00:58:12,778 --> 00:58:18,320
+Podcast. You can support the show on Patreon
+at Patreon.com slash Dynamic Duel and joining
+
+640
+00:58:18,360 --> 00:58:24,522
+a tier that works for you or by rating and reviewing
+Dynamic Duel on Apple podcasts, Spotify, Podchaser,
+
+641
+00:58:24,822 --> 00:58:29,323
+or on our website. Don't forget to listen to
+the other shows in the DynaMic Podcast Network,
+
+642
+00:58:29,743 --> 00:58:36,718
+including Max Destruction, Senjo World, and
+Console Combat. In our next episode. We would
+
+643
+00:58:36,818 --> 00:58:43,282
+normally be doing yet another review of Suicide
+Squad Isekai, but I need a freaking break from
+
+644
+00:58:43,342 --> 00:58:48,445
+these reviews. So we're going to delay that
+week and we are going to instead be doing a
+
+645
+00:58:48,585 --> 00:58:55,209
+duel between Arsenal or Red Arrow and White
+Widow. Right. White Widow is Yelena Belova.
+
+646
+00:58:55,349 --> 00:59:00,892
+She's played by Florence Pugh in the MCU. And
+I think it'll be fun to see her beat the shit
+
+647
+00:59:00,932 --> 00:59:05,354
+out of Arsenal. So looking forward to it. and
+I'm looking forward to you ending your words
+
+648
+00:59:05,414 --> 00:59:09,775
+once again when DC wins. So there. But that
+does it for this episode, we want to give a
+
+649
+00:59:09,855 --> 00:59:15,197
+big thanks to our executive producers Ken Johnson,
+John Sierowski, Zachary Hepburn, Dustin Balcom,
+
+650
+00:59:15,457 --> 00:59:20,578
+Miggy Mathen-Geehan, Brandon Nestergaard, Nathaniel
+Wagner, Levi Yeaton, Austin Wazilowski, AJ
+
+651
+00:59:20,598 --> 00:59:26,620
+Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Andrew Schunk, Dean Molesky, Devin Davis,
+
+652
+00:59:26,760 --> 00:59:31,721
+Joseph Kirsting, and Josh Leiner for helping
+make this podcast possible. And we'll talk
+
+653
+00:59:31,741 --> 00:59:36,626
+to you guys next week. Up up and away, true
+believers. The accumulated filth of all their
+
+654
+00:59:36,707 --> 00:59:40,972
+sex and murder will foam up about their waists,
+and all the whores and politicians will look
+
+655
+00:59:41,012 --> 00:59:45,558
+up and shout, Save us! And I'll look down and
+whisper, Taste the rainbow.
+
