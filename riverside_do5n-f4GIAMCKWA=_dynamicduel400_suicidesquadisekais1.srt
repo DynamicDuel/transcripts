@@ -1,0 +1,4114 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a Dynamike Network podcast.
+
+2
+00:00:24,494 --> 00:00:29,536
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,596 --> 00:00:35,478
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:35,979 --> 00:00:42,762
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And welcome to episode 400. Normally,
+
+5
+00:00:42,822 --> 00:00:48,144
+we would be doing a team duel on an anniversary
+episode such as this, but Marvel
+
+6
+00:00:51,198 --> 00:00:55,799
+all at once at the end of summer. So we're getting
+caught up on some reviews, one of them being
+
+7
+00:00:56,200 --> 00:01:03,342
+Suicide Squad Isekai. Yeah, our next episode
+is gonna be the Outsiders versus X-Force. That'll
+
+8
+00:01:03,362 --> 00:01:09,585
+be our team duel. But first we get to talk anime
+with our good buddy Zach Hepburn from the Senjou
+
+9
+00:01:09,605 --> 00:01:13,607
+World Podcast, which is part of the Dynamite
+Podcast Network. We'll get him on the line
+
+10
+00:01:13,807 --> 00:01:18,188
+later on this episode. Right, he's gonna help
+us review Suicide Squad Isekai. It's a pretty
+
+11
+00:01:18,228 --> 00:01:22,380
+fun anime, and we're gonna talk all about it
+later on. There's no comic book movie news
+
+12
+00:01:22,400 --> 00:01:26,186
+to break down this week. As always, we list
+our segment times in our episode description,
+
+13
+00:01:26,246 --> 00:01:30,132
+so feel free to check out the show notes if
+you want to skip ahead to a particular topic.
+
+14
+00:01:30,533 --> 00:01:35,000
+Our artificially intelligent dual simulator
+AJ9K has a quick message for our listeners,
+
+15
+00:01:35,241 --> 00:01:41,887
+so listen up. Why hello there, do you want even
+more from this podcast? Then become a part
+
+16
+00:01:41,907 --> 00:01:46,668
+of the dynamic dual community on Patreon, where
+you can choose from three tiers. The dynamic
+
+17
+00:01:46,708 --> 00:01:51,150
+two-oh tier gives you access to our Discord
+chat server. The fantastic four tier gives
+
+18
+00:01:51,170 --> 00:01:55,791
+you two bonus episodes each month, and the X-Force
+tier makes you an executive producer of this
+
+19
+00:01:55,831 --> 00:02:01,373
+show. Lastly, the Dynamike Podcast Network tier
+lets you create your own podcast using this
+
+20
+00:02:01,433 --> 00:02:06,199
+Monte Carlo simulator. Johnny and Joe will help
+you develop your show, provide graphic support
+
+21
+00:02:06,239 --> 00:02:12,543
+and consultation, and get you simulation results.
+Pitch the twins your ideas via email at dynamicduelpodcast
+
+22
+00:02:12,683 --> 00:02:20,507
+at gmail.com. Check it out at patreon.com slash
+dynamicduel. Pip pip cheerio. Thanks AJ9K and
+
+23
+00:02:20,527 --> 00:02:25,490
+thanks to everyone who supports the podcast.
+Be sure to tune into the other shows in the
+
+24
+00:02:25,530 --> 00:02:31,013
+Dynamite Podcast Network this week, including
+Max Destruction, which pits your favorite action
+
+25
+00:02:31,033 --> 00:02:36,367
+heroes. from film and television against each
+other. This week, hosts Scotty and Gilly are
+
+26
+00:02:36,407 --> 00:02:42,088
+pitting Tallahassee from Zombieland against
+Rick Grimes from The Walking Dead. That is
+
+27
+00:02:42,128 --> 00:02:46,630
+going to be a great episode, I can't wait for
+that. On the Syndrome World podcast, host Zachary
+
+28
+00:02:46,670 --> 00:02:51,591
+Hepburn speculates on fights between fan favorite
+anime and manga characters. This Thursday,
+
+29
+00:02:51,951 --> 00:02:56,152
+Zach will be finding out who would win in a
+fight between Trunks Brief from Dragon Ball
+
+30
+00:02:56,212 --> 00:03:04,083
+Z and Sailor Uranus from Sailor Moon. Sailor
+you're what? Shut up. On the console combat
+
+31
+00:03:04,123 --> 00:03:09,585
+podcast hosts John and Dean find out who would
+win in fights between popular video game characters.
+
+32
+00:03:09,945 --> 00:03:15,108
+In yesterday's episode, Joseph guest hosted
+and he and John determined who would win between
+
+33
+00:03:15,188 --> 00:03:22,351
+James Bond 007 and Sam Fisher from Splinter
+Cell. And that I got to say was a blast. Definitely
+
+34
+00:03:22,391 --> 00:03:26,052
+check out that episode guys after you listen
+to this episode, especially if you like video
+
+35
+00:03:26,072 --> 00:03:31,995
+games. If you like James Bond, it's a whole
+lot of fun. Visit dynamicpodcasts.com or click
+
+36
+00:03:32,015 --> 00:03:37,518
+the link in our show notes to listen to all
+of the shows in the Dynamike Podcast Network.
+
+37
+00:03:37,998 --> 00:03:44,422
+But with that out of the way, quick to the No
+Prize! A No Prize is an award Marvel used to
+
+38
+00:03:44,442 --> 00:03:49,664
+give out to fans. Our version, the Dynamic Duel
+No Prize, is a digital award we post on Instagram
+
+39
+00:03:49,684 --> 00:03:54,507
+for the person that we feel gave the best answer
+to our question of the week. Last week we asked,
+
+40
+00:03:54,627 --> 00:04:00,090
+who do you think was the best cast Marvel or
+DC villain of all time? And of course, this
+
+41
+00:04:00,110 --> 00:04:05,154
+was coming off the news that James Spader is
+returning to voice Ultron for the upcoming
+
+42
+00:04:05,214 --> 00:04:10,318
+Disney Plus Vision television series. We got
+a whole lot of answers this time, nine answers
+
+43
+00:04:10,358 --> 00:04:14,822
+total. So it's always heartbreaking when that
+happens because I feel like we let so many
+
+44
+00:04:14,842 --> 00:04:19,186
+people down by not choosing their answer for
+an honorable mention. But you guys all gave
+
+45
+00:04:19,226 --> 00:04:23,449
+great answers. Let's go ahead and break down
+this week's honorable mentions before revealing
+
+46
+00:04:23,509 --> 00:04:30,730
+the no prize winner. Our first honorable mention
+goes to Scott Camacho. Who said? On the DC
+
+47
+00:04:30,770 --> 00:04:35,713
+side of things, it's easy. Heath Ledger's Joker
+cannot be beat. I mean, you, if you look at
+
+48
+00:04:35,813 --> 00:04:42,197
+every other Joker iteration, all of them are
+still trying to get a piece of Heath Ledger's
+
+49
+00:04:42,217 --> 00:04:48,901
+shadow, but for the Marvel side of things, nothing
+can be Tom Hiddleston's Loki. What RDJ was
+
+50
+00:04:48,941 --> 00:04:55,644
+for Iron Man, Tom Hiddleston was for Loki. Everyone
+else, every villain can be replaced, but Tom's
+
+51
+00:04:55,684 --> 00:05:01,396
+Loki remains the And he got caught off at the
+end right there. But yeah, Tom Hiddleston's
+
+52
+00:05:01,436 --> 00:05:06,500
+Loki, I think, is the best villain in terms
+of casting for the Marvel Cinematic Universe.
+
+53
+00:05:06,640 --> 00:05:11,744
+He had such a good story leading from the first
+Thor film all the way through Loki season two.
+
+54
+00:05:12,065 --> 00:05:16,348
+And I hope it's not done. I hope Tom Hiddleston
+comes back to the role and we see him in future
+
+55
+00:05:16,388 --> 00:05:22,093
+Marvel stories. You better because he's a great
+actor and he's perfect in the role. As was
+
+56
+00:05:22,133 --> 00:05:28,590
+Heath Ledger as the Joker. It was a ground so
+much. I'm sorry. What? Not really. Shut the
+
+57
+00:05:28,630 --> 00:05:35,157
+hell up. His performance was groundbreaking.
+It was a tour de force, playing one of the
+
+58
+00:05:35,197 --> 00:05:40,502
+most iconic villains of all time. He won an
+Oscar for the role. And even with Joaquin Phoenix
+
+59
+00:05:40,642 --> 00:05:46,128
+also winning an Oscar for playing the Joker,
+Heath Ledger arguably is still the best actor
+
+60
+00:05:46,168 --> 00:05:52,134
+to do it. So great answer Scotty. Our next honorable
+mention goes to Kat Stevenson. Who said? Hi
+
+61
+00:05:52,174 --> 00:05:57,919
+guys, it's Kat again, and I think the most legendary
+casting for a villain in Marvel or DC is Josh
+
+62
+00:05:57,940 --> 00:06:03,986
+Brolin as Thanos. Nobody else would be able
+to bring the gravitas and might needed for
+
+63
+00:06:04,006 --> 00:06:10,232
+a character such as Thanos. His delivery of
+lines is so powerful and moving, there's nobody
+
+64
+00:06:10,352 --> 00:06:16,382
+else that could do it. Even if the character
+is entirely CGI, he is the character. Yeah,
+
+65
+00:06:16,442 --> 00:06:22,924
+Josh Brolin's performance as Thanos was exemplary,
+particularly in the world of motion capture
+
+66
+00:06:22,964 --> 00:06:29,467
+animation. Yes, the character of Thanos was
+an all CG character in the movies, but so much
+
+67
+00:06:29,527 --> 00:06:35,429
+of Brolin's performance showed through, which
+made Thanos feel so lifelike and real. And
+
+68
+00:06:35,709 --> 00:06:41,412
+the visual effects team did a great job. Obviously,
+so did Josh Brolin, and he will always be remembered
+
+69
+00:06:41,592 --> 00:06:46,910
+as that character of Thanos. Yeah, I'm still
+surprised by how he played the character. Like
+
+70
+00:06:47,390 --> 00:06:52,112
+I remember reading comics with Thanos in it
+and I always thought he was much more maniacal.
+
+71
+00:06:52,152 --> 00:06:57,794
+But Josh Brolin played a much more subdued version
+of the character to his benefit, I think, because
+
+72
+00:06:57,834 --> 00:07:03,417
+I think he made him sympathetic in a way that
+I never really found Thanos to be. And in that
+
+73
+00:07:03,477 --> 00:07:07,878
+sense, I think he kind of elevated the character
+with his performance. For sure. He made him
+
+74
+00:07:07,899 --> 00:07:13,961
+believable. He made him feel real. Great answer,
+Kat. Our next honorable mention goes to Caleb
+
+75
+00:07:14,001 --> 00:07:22,076
+Falk, who said, Hey guys, Caleb Volk here and
+I think the best casting for a Marvel or DC
+
+76
+00:07:22,096 --> 00:07:28,702
+villain has to be Willem Dafoe as Green Goblin,
+not only in the original Spider-Man trilogy,
+
+77
+00:07:28,762 --> 00:07:37,471
+but also coming back 20 years later and playing
+the same character just as well, if not better
+
+78
+00:07:38,312 --> 00:07:42,890
+in the Spider-Man No Way Home movie. I think
+I've said this a few times in our reviews of
+
+79
+00:07:42,911 --> 00:07:48,133
+the Spider-Man films, Willem Dafoe is perfect
+casting as the Green Goblin because he has
+
+80
+00:07:48,173 --> 00:07:53,975
+a natural goblin face. I mean, not only that,
+the guy is a fantastic actor, not the best
+
+81
+00:07:54,075 --> 00:08:00,358
+looking, but appropriately so for a character
+like the Green Goblin. I'm so glad that Kevin
+
+82
+00:08:00,398 --> 00:08:05,680
+Feige did not try and recast the character for
+the MCU because, yeah, you cannot do better
+
+83
+00:08:05,981 --> 00:08:12,179
+than Willem Dafoe for Norman Osborn. He's so
+unbelievably sinister and maniacal. He was
+
+84
+00:08:12,239 --> 00:08:17,400
+born to play the role. For sure, for sure. So
+good answer, Caleb. We want to give a huge
+
+85
+00:08:17,440 --> 00:08:23,662
+shout out to Cyrus Moore, Jacob Bell, John Storosky,
+Mickey Manteghian, and Waldo for taking the
+
+86
+00:08:23,682 --> 00:08:28,383
+time to visit our website and leave us an answer.
+But the winner of this week's snow prize is
+
+87
+00:08:28,943 --> 00:08:33,445
+Travis Bailey, who said, Travis Bailey here.
+What's going on, fella? Shout out to my good
+
+88
+00:08:33,465 --> 00:08:38,742
+twin. Man, it's been too long. All right, look.
+You're going to get like four or five different
+
+89
+00:08:38,762 --> 00:08:43,945
+jokers. You're going to get Kingpin. I hope
+you'll get a Scarlet Witch for sure. Let's
+
+90
+00:08:43,965 --> 00:08:50,568
+talk about it. But it's Ian McKellen. It's Magneto
+Ian McKellen. Iconic. I mean, unassailable
+
+91
+00:08:50,608 --> 00:08:57,291
+casting. Him and Professor X. Look, that whole
+franchise was just hot toilet water. But they
+
+92
+00:08:57,331 --> 00:09:03,182
+got those two right. For sure. For sure. I think
+Patrick Stewart and Ian McKellen. can largely
+
+93
+00:09:03,222 --> 00:09:08,968
+be credited with giving validity to the whole
+superhero genre, as they did back in the year
+
+94
+00:09:09,008 --> 00:09:14,072
+2000 with the movie X-Men. I think before their
+casting, superhero movies were largely seen
+
+95
+00:09:14,212 --> 00:09:21,879
+as juvenile stuff, kids' fair, blade notwithstanding,
+but when X-Men suddenly cast these two Shakespearean
+
+96
+00:09:22,040 --> 00:09:28,265
+actors who so perfectly embodied their roles
+and manifested them in such a way that elevated
+
+97
+00:09:28,325 --> 00:09:33,409
+it. from the page. I think a lot of people stood
+up and took notice and the genre owes a big
+
+98
+00:09:33,429 --> 00:09:38,293
+debt to Ian McKellen, I think, for helping get
+this whole thing started really. Yeah, I mean,
+
+99
+00:09:38,313 --> 00:09:44,719
+you could say that Jack Nicholson and Danny
+DeVito were amazing as, you know, Joker and
+
+100
+00:09:44,739 --> 00:09:49,242
+the Penguin and you would be right, but they
+also had a degree of comic book camp to their
+
+101
+00:09:49,282 --> 00:09:55,327
+performances. Ian McKellen and Patrick Stewart
+played their roles, like you mentioned, as
+
+102
+00:09:55,387 --> 00:10:02,129
+if they were basically Shakespearean When they
+first made the movie, they were master thespians
+
+103
+00:10:02,329 --> 00:10:07,954
+at the top of their craft, and they'll always
+be remembered, at least to me, as those characters
+
+104
+00:10:08,114 --> 00:10:12,278
+in those iconic roles. So congrats to Travis
+Bailey for winning this week's No Prize. If
+
+105
+00:10:12,318 --> 00:10:16,202
+you the listener want a shot at winning your
+own No Prize, stay tuned to later on this episode
+
+106
+00:10:16,222 --> 00:10:21,126
+when we'll be asking another Question of the
+Week. And now that that's done, NOT ON TO THE
+
+107
+00:10:21,166 --> 00:10:24,629
+NEWS, because there's no news. So we're just
+gonna go on to the Question of the Week.
+
+108
+00:10:29,206 --> 00:10:35,228
+Out of the 400 episodes we've done on this podcast,
+what has been your favorite episode of Dynamic
+
+109
+00:10:35,268 --> 00:10:41,130
+Duel and why? Record your answer at dynamicduel.com
+by clicking on the red microphone button in
+
+110
+00:10:41,150 --> 00:10:45,012
+the bottom right-hand corner of the screen,
+which will prompt you to leave us a voicemail.
+
+111
+00:10:45,392 --> 00:10:49,234
+Your message could be up to 30 seconds long,
+and don't forget to leave your name in case
+
+112
+00:10:49,254 --> 00:10:54,336
+we include you on the podcast. We'll pick our
+favorite answer and award that person a Dynamic
+
+113
+00:10:54,376 --> 00:10:59,561
+Duel No Prize that we'll post to Instagram.
+Be sure to answer before September 7th.
+
+114
+00:11:06,862 --> 00:11:11,264
+So with that out of the way, now let's move
+on to the main event of this episode and get
+
+115
+00:11:11,404 --> 00:11:18,229
+Senjoworld's Zachary Hepburn on the line to
+help us review the DC animated series, Suicide
+
+116
+00:11:18,269 --> 00:11:18,929
+Squad Isekai.
+
+117
+00:11:34,666 --> 00:11:41,349
+Alright, Suicide Squad Isekai is a 10 episode
+anime series produced by Wit Studio, the same
+
+118
+00:11:41,409 --> 00:11:47,272
+anime studio that produced the first three seasons
+of Attack on Titan, which I have not seen but
+
+119
+00:11:47,352 --> 00:11:53,916
+I hear is incredible. Joseph and I are definitely
+not as well versed in anime as we are in comics,
+
+120
+00:11:54,396 --> 00:12:00,359
+so to help us out in our spoiler review, we've
+enlisted our resident anime guru and the host
+
+121
+00:12:00,419 --> 00:12:00,579
+of the
+
+122
+00:12:04,758 --> 00:12:10,302
+Zachary Hepburn. How's it going, Zach? Good,
+good. It's it's good to be back. It's good
+
+123
+00:12:10,322 --> 00:12:14,105
+to be back and finally doing a review with you
+guys. Yeah, we haven't had you on the show
+
+124
+00:12:14,205 --> 00:12:19,269
+since you and John reviewed Spider-Man, the
+amazing Spider-Man with us. Yeah, that was
+
+125
+00:12:19,289 --> 00:12:23,573
+a couple of years ago. So, yeah, I'm excited
+to be back. I love being part of the group,
+
+126
+00:12:23,713 --> 00:12:27,896
+part of the family. Yeah, it's great to have
+you as a part of that family, especially for
+
+127
+00:12:27,936 --> 00:12:33,581
+this episode, because I know you love anime.
+You, like I said, are the expert in it in our
+
+128
+00:12:33,741 --> 00:12:38,599
+group. I have to ask, when you first learned
+that they were going to make a Suicide Squad
+
+129
+00:12:38,759 --> 00:12:45,282
+anime, what did you think? When they first announced
+it, I was like, really? Suicide Squad? Because
+
+130
+00:12:45,683 --> 00:12:51,745
+at that time, it was everything was Suicide
+Squad, right? So the video game? Yeah, I was
+
+131
+00:12:51,785 --> 00:12:58,048
+just like, the video game let us down. But this,
+I don't know, I found this redeemed it for
+
+132
+00:12:58,068 --> 00:13:03,834
+me, redeem the Suicide Squad. Really? That's
+pretty cool. So in regards to Wit Studio, the
+
+133
+00:13:03,954 --> 00:13:09,076
+producers of Suicide Squad, Isakai, they did
+the first three seasons of Attack on Titan.
+
+134
+00:13:09,436 --> 00:13:13,497
+Have you seen those seasons? Like, are you familiar
+with Wit Studio? And did their involvement
+
+135
+00:13:13,517 --> 00:13:19,738
+get you excited at all for Suicide Squad? To
+be honest, I'm not really a guy who pays attention
+
+136
+00:13:19,778 --> 00:13:27,120
+to what studio is doing what. I just enjoy anime,
+but I am familiar with Attack on Titan. I never
+
+137
+00:13:27,161 --> 00:13:31,934
+finished it, but I watched like the second last
+movie they put out. So I just have to go and
+
+138
+00:13:31,954 --> 00:13:37,179
+finish it. So I am pretty well-versed in the
+world of Attack on Titan. I'm not the biggest
+
+139
+00:13:37,199 --> 00:13:41,982
+fan, which hence why I haven't finished it.
+But it is good. It has a kind of a messed up
+
+140
+00:13:42,002 --> 00:13:46,686
+story. So I don't know. It's kind of dark. And
+if you're into that kind of thing, then...
+
+141
+00:13:47,127 --> 00:13:51,610
+There's a few animes that I've been meaning
+to check out, especially since you started
+
+142
+00:13:51,650 --> 00:13:57,175
+your show. Attack on Titan is one of those.
+Yeah, it's just so hard with having this podcast
+
+143
+00:13:57,195 --> 00:14:00,537
+and having to watch all the stuff that we're
+currently in the middle of having to watch.
+
+144
+00:14:00,958 --> 00:14:04,941
+including this one. Although I was looking forward
+to this one. Like when I first learned that
+
+145
+00:14:04,961 --> 00:14:10,747
+they were making a Suicide Squad anime series,
+I was pretty pumped because like the idea of
+
+146
+00:14:10,787 --> 00:14:16,051
+the Suicide Squad, these super powered prisoners
+forced to carry out these impossible missions
+
+147
+00:14:16,512 --> 00:14:23,458
+lends itself to a very like pulpy and formulaic
+format like anime where the goal isn't marketability
+
+148
+00:14:23,518 --> 00:14:29,551
+so much as cheaply giving the audiences what
+they want. The almost Tarantino-esque approach
+
+149
+00:14:29,571 --> 00:14:35,934
+that James Gunn took with 2021's The Suicide
+Squad film, after successful DC animes like
+
+150
+00:14:35,974 --> 00:14:43,038
+Batman Ninja and My Adventures with Superman,
+I was so ready for a hard-edged Suicide Squad
+
+151
+00:14:43,078 --> 00:14:48,521
+series that could up the maturity level to match
+some of my favorite anime series like Neon
+
+152
+00:14:48,561 --> 00:14:58,371
+Genesis Evangelion or Sword Art Online, which
+I believe fits within the Sword Art? Yes, technically,
+
+153
+00:14:58,611 --> 00:15:04,034
+but that one was all virtual and it was a video
+game. And Isekai's literally people are sucked
+
+154
+00:15:04,154 --> 00:15:10,018
+into another world. Yeah, if the listeners are
+not familiar with Isekai, the word literally
+
+155
+00:15:10,058 --> 00:15:15,961
+means another world in Japanese and refers to
+like the new, often fantastical world that
+
+156
+00:15:15,981 --> 00:15:20,324
+the story's main characters find themselves
+in and have to learn to navigate. The only
+
+157
+00:15:20,364 --> 00:15:26,527
+Isekai I think I've seen is Sword Art. but I've
+heard the most popular is Re Zero, which was
+
+158
+00:15:26,587 --> 00:15:33,270
+written by Tape Nagusuki, I'm mispronouncing
+that I'm sure, but he was the lead writer on
+
+159
+00:15:33,331 --> 00:15:39,053
+Suicide Squad, Isekai as well. Now, the premise
+of the Suicide Squad operating in a fantasy
+
+160
+00:15:39,213 --> 00:15:44,216
+Isekai land is pretty absurd, but that didn't
+really bother me because I feel like the concept
+
+161
+00:15:44,236 --> 00:15:49,822
+of the Suicide Squad thrives in absurdity. And
+it's not like we haven't seen other comic book
+
+162
+00:15:49,862 --> 00:15:54,484
+characters like Batman or Captain America in
+medieval fantasy settings before. The fantasy
+
+163
+00:15:54,504 --> 00:16:00,267
+world this series sets up is kind of confusing,
+I think, but it's essentially one where a kingdom
+
+164
+00:16:00,307 --> 00:16:07,129
+of humans is warring against an empire of orcs
+and human animal hybrids known as demi humans.
+
+165
+00:16:07,490 --> 00:16:13,292
+There are elves and dragons. It's basically
+World of Warcraft, I feel. Yes, it's definitely
+
+166
+00:16:13,392 --> 00:16:20,331
+fantasy magic and not just kind of like medieval.
+Yeah, this was definitely my thing. Like I
+
+167
+00:16:20,371 --> 00:16:26,213
+love swords. Give me swords magic all day. Yeah,
+like swords and sorcery adventures. Those are
+
+168
+00:16:26,273 --> 00:16:31,635
+awesome. I love those, too. And you put anime
+with it. It's just like the best thing ever
+
+169
+00:16:31,655 --> 00:16:36,578
+for me. So it's always cool to see like familiar
+characters in a new setting like that, like
+
+170
+00:16:36,958 --> 00:16:42,180
+Dark Knights of Steel, that comic series that's
+going on right now for D.C. seeing what Roman
+
+171
+00:16:42,400 --> 00:16:48,718
+and Batman in these magical swords and sorcery
+settings. I love that. There are certain things
+
+172
+00:16:48,758 --> 00:16:53,821
+that draw me in. And if the characters are badass,
+if the fights are badass, if the power sets
+
+173
+00:16:54,221 --> 00:16:59,003
+are badass, I'm all for it. Which they definitely
+had a lot of that here. I thought it was pretty
+
+174
+00:16:59,023 --> 00:17:04,365
+interesting what they did with a lot of the
+characters. But the story for this series is
+
+175
+00:17:04,405 --> 00:17:09,567
+essentially that Amanda Waller wants to plunder
+the Isekai's resources on behalf of the US
+
+176
+00:17:09,587 --> 00:17:15,549
+government. So she sends suicide squads in to
+establish a framework with which to do that.
+
+177
+00:17:16,086 --> 00:17:21,109
+The first squad she sent ended up defecting
+and helping the Empire. So she sent a second
+
+178
+00:17:21,249 --> 00:17:25,972
+one to do the first one's job. But they ended
+up siding with the kingdom against the Empire
+
+179
+00:17:26,092 --> 00:17:31,816
+and the other squad. It's actually a pretty
+cool Suicide Squad versus Suicide Squad premise
+
+180
+00:17:32,296 --> 00:17:36,999
+and one that allows us to see an expanded roster
+of DC supervillains that I didn't think we
+
+181
+00:17:37,019 --> 00:17:42,786
+were going to get to see in the show. Yes, I
+love the cast. Like I always want most of those
+
+182
+00:17:42,826 --> 00:17:48,167
+characters that were in this to be on one team
+with each other. So just to even just have
+
+183
+00:17:48,187 --> 00:17:53,329
+them face off, just be in the same series. I
+loved it. I loved it. Yeah. Like there's been
+
+184
+00:17:53,669 --> 00:17:57,790
+times in the comics where like the Suicide Squad
+goes up against the Justice League. But to
+
+185
+00:17:57,830 --> 00:18:02,031
+have a Suicide Squad go up against another one
+is just a really cool concept. I thought there
+
+186
+00:18:02,051 --> 00:18:08,953
+were going to be more deaths on one side, but
+it was pretty much all on the first squad.
+
+187
+00:18:09,494 --> 00:18:14,695
+But the characters were awesome. I think the
+coolest thing about the show was the designs
+
+188
+00:18:14,715 --> 00:18:19,056
+that came up with for the DC characters. And
+this was something like we noticed even from
+
+189
+00:18:19,076 --> 00:18:24,938
+the trailers. Like Harley Quinn was a character
+tailor made to be in anime. She looked fantastic
+
+190
+00:18:25,318 --> 00:18:30,759
+and very much like an amalgam of Margot Robbie's
+looks from the two Suicide Squad films. Yeah,
+
+191
+00:18:31,020 --> 00:18:36,681
+I have to say, Isakai Harley is probably my
+favorite version of Harley Quinn ever. I agree.
+
+192
+00:18:36,721 --> 00:18:41,174
+The way she talks like... Oh, here's the question
+for you guys. Did you watch it in English or
+
+193
+00:18:41,194 --> 00:18:47,496
+did you watch it in Japanese? I started to watch
+in English, but I had a hard time getting through
+
+194
+00:18:47,576 --> 00:18:52,518
+some of the line deliveries. For some reason,
+I just think sometimes things sound better
+
+195
+00:18:52,738 --> 00:18:57,880
+in Japanese. So I switched over to Japanese
+within the first few minutes, and I stayed
+
+196
+00:18:58,180 --> 00:19:02,561
+with that the rest of the way through. I thought
+the voice performances were great in Japanese.
+
+197
+00:19:02,961 --> 00:19:09,990
+No, they were amazing. Same, I started the first
+10 minutes in English and some of the translations
+
+198
+00:19:10,030 --> 00:19:15,994
+from Japanese to English don't always work that
+well. I find that I can much easier accept
+
+199
+00:19:16,034 --> 00:19:20,637
+the dialogue when it's being read in the native
+language it was written because I think it
+
+200
+00:19:20,657 --> 00:19:25,961
+just carries a slightly different context language
+to language. And yeah, it's just more digestible
+
+201
+00:19:26,001 --> 00:19:31,765
+I think in Japanese. I agree, totally. There
+are some very good English voice actors, but...
+
+202
+00:19:32,194 --> 00:19:36,736
+When it comes down to it, I find they just can't
+beat the Japanese ones because there's so much
+
+203
+00:19:36,776 --> 00:19:41,818
+passion. They love what they do. Yeah, and it's
+not even just the acting. It's also the writing.
+
+204
+00:19:42,038 --> 00:19:47,060
+Like a voice actor can only do so much if the
+translator didn't do a good job of translating,
+
+205
+00:19:47,100 --> 00:19:51,902
+you know, and so then all of a sudden they're
+being fed corny lines. For sure. And so the
+
+206
+00:19:51,922 --> 00:19:56,785
+reason I was asking that, I was curious if there
+was swearing in the English version because
+
+207
+00:19:57,105 --> 00:20:01,371
+I didn't watch the English either. There was
+swearing, yeah. Sometimes, I don't know why,
+
+208
+00:20:01,511 --> 00:20:06,754
+I'd go to a next episode and HBO Max would default
+to English. So I'd hear part of the episode
+
+209
+00:20:06,774 --> 00:20:11,537
+before I managed to switch over, and yeah, there
+was cussing. Okay, okay. I just wanted to make
+
+210
+00:20:11,557 --> 00:20:15,940
+sure because I was like, this show, like, I
+love the way Harley Quinn talks, and if they
+
+211
+00:20:15,960 --> 00:20:20,923
+didn't kind of do it the same in English, it's
+just not justice. So if you watch it in English,
+
+212
+00:20:21,183 --> 00:20:26,650
+watch it again in Japanese. It's so much better.
+Absolutely. For sure, yeah. I have to say though,
+
+213
+00:20:26,690 --> 00:20:31,352
+the versions of these characters are definitely
+my favorite versions of them. I think it's
+
+214
+00:20:31,372 --> 00:20:36,974
+because they borrowed the best parts from the
+two Suicide Squad films. Even in the roster,
+
+215
+00:20:37,214 --> 00:20:42,616
+mixing them from both versions. You had Deadshot,
+Katana, Enchantress Killer Croc, and Joker
+
+216
+00:20:42,636 --> 00:20:46,897
+from the first film. And then you had King Shark,
+Peacemaker, Ratcatcher, and the Thinker from
+
+217
+00:20:46,937 --> 00:20:52,088
+the second. Clayface was really the only original
+one in this show, though you could say he was
+
+218
+00:20:52,128 --> 00:20:57,112
+borrowed from his supporting role in the Harley
+Quinn animated series. He's very much a thespian
+
+219
+00:20:57,132 --> 00:21:01,836
+with delusions of grandeur in that show. And
+in this series, they kind of ran with that
+
+220
+00:21:01,876 --> 00:21:08,681
+while adding a bit of otaku fanboy for expository
+purposes and a more hip aesthetic. Yeah, for
+
+221
+00:21:08,721 --> 00:21:13,324
+sure. I do want to talk about the animation
+quality. I thought it kept pace with the character
+
+222
+00:21:13,344 --> 00:21:19,118
+designs. I think this is... probably the best
+animated work DC has put out this year for
+
+223
+00:21:19,158 --> 00:21:25,380
+sure. And it may be the best animated project
+DC has ever put out in terms of animation quality.
+
+224
+00:21:25,880 --> 00:21:30,602
+I thought it was better than Batman Ninja. I
+agree. Yeah, because Batman Ninja was computer
+
+225
+00:21:30,642 --> 00:21:35,083
+animated. It wasn't hand drawn. And I believe
+the show was hand drawn. It looked great, I
+
+226
+00:21:35,123 --> 00:21:41,685
+thought. This show had amazing choreography
+when it came to the fights. Like some of the
+
+227
+00:21:41,725 --> 00:21:50,588
+fights, I was just like, holy crap, DC, like
+You can do this? Like, what? Like, oh my God.
+
+228
+00:21:50,928 --> 00:21:56,510
+Did you have a favorite fight? It was definitely
+Harley Quinn when she was going to fight the
+
+229
+00:21:56,590 --> 00:22:01,672
+Thinker. Yes, that was mine too. That was cool.
+And against Katana too, right after that. That
+
+230
+00:22:01,792 --> 00:22:06,474
+was pretty good. Oh my God, that's what I mean.
+She is my favorite version. Like, she can like
+
+231
+00:22:06,554 --> 00:22:12,316
+fight. Like, that's the crazy thing, yeah. I
+gotta say, Zach, hearing from you that you
+
+232
+00:22:12,336 --> 00:22:17,659
+thought the choreography in this show was good,
+knowing how big of a fan of anime you are and
+
+233
+00:22:17,679 --> 00:22:22,121
+how much you watch and also having a martial
+arts background yourself. That is high, high
+
+234
+00:22:22,161 --> 00:22:27,683
+praise, I gotta say. It does its thing. Like,
+it is so good. I was just blown away by it.
+
+235
+00:22:27,723 --> 00:22:32,486
+I was just like, I can't believe DC's putting
+out this kind of quality martial arts. And
+
+236
+00:22:32,546 --> 00:22:38,368
+I was just like, yes, finally, we have DC anime
+that clearly surpasses the Marvel anime. Let's
+
+237
+00:22:38,428 --> 00:22:43,239
+do this, DC. We got this. Even better than the
+animation and the show itself, I thought the
+
+238
+00:22:43,379 --> 00:22:49,742
+animation for the opening sequence was insanely
+good. Like I rarely skipped it. There were
+
+239
+00:22:49,762 --> 00:22:53,784
+a few times I did, but I just enjoyed watching
+it, paired with the music that they chose and
+
+240
+00:22:53,804 --> 00:22:57,626
+everything like that. It really got me pumped
+for every episode, for sure. Yeah, the music
+
+241
+00:22:57,747 --> 00:23:01,549
+was, oh my God, like I don't know what it is,
+but when I'm watching something, I always kind
+
+242
+00:23:01,569 --> 00:23:07,692
+of zone out and I just don't hear the music,
+right? As I stated in, you know, my Sailor
+
+243
+00:23:07,712 --> 00:23:12,798
+Moon review, if it's not good, I just don't
+notice it. And every time the songs were on,
+
+244
+00:23:12,998 --> 00:23:17,560
+I was just like, yes, this is perfect. And I'm
+like bopping out and everything about it. I
+
+245
+00:23:17,600 --> 00:23:23,083
+am actually blown away by how good DC did with
+this project. Yeah, I didn't skip any of the
+
+246
+00:23:23,123 --> 00:23:27,484
+intros either when I was watching it, partly
+because of the music. But I would say I stayed
+
+247
+00:23:27,525 --> 00:23:33,247
+for the end credits even more so for the end
+music, because that's Maury Kaliope song is
+
+248
+00:23:33,287 --> 00:23:38,269
+not bad. I'm not really familiar with her work.
+I know she's like a YouTube thing, whatever.
+
+249
+00:23:38,689 --> 00:23:44,974
+But. Yeah, I thought it was pretty good. Now,
+Mendo Waller gave me creepy vibes in the end
+
+250
+00:23:45,015 --> 00:23:48,838
+music video every time. No, I loved it. When
+she's grabbing her crotch and she's like, yeah,
+
+251
+00:23:48,878 --> 00:23:53,102
+loosen my lips, loosen my lips. And we're like,
+whoa, that's obscene. But I was like, that's
+
+252
+00:23:53,182 --> 00:23:58,707
+perfect for a Suicide Squad. It's perfect. It
+is. Right? But it's also perfect anime. I loved
+
+253
+00:23:58,807 --> 00:24:06,098
+it. Yeah, it was absurd in the best way possible.
+Like meme worthy. Now, I do have to say. despite
+
+254
+00:24:06,138 --> 00:24:11,163
+the show's top-notch animation and character
+designs and intriguing premise. The show itself,
+
+255
+00:24:11,323 --> 00:24:19,230
+to me, was kind of lackluster and boring story-wise.
+Like, I thought that's partly probably to do
+
+256
+00:24:19,250 --> 00:24:24,215
+with the lack of stakes. Like, Suicide Squad
+as a premise is supposed to contain a degree
+
+257
+00:24:24,255 --> 00:24:28,739
+of, like, macabre interest in finding out, you
+know, who's going to die and how. But that
+
+258
+00:24:28,759 --> 00:24:34,258
+was completely stripped from this series. The
+72 hour time limit never really felt like a
+
+259
+00:24:34,298 --> 00:24:38,779
+real threat because time itself was kind of
+all over the place in this show. And when Amanda
+
+260
+00:24:38,819 --> 00:24:43,681
+Waller did trigger one of the neck bombs to
+go off, of course, it was going to be Clayface,
+
+261
+00:24:43,701 --> 00:24:48,562
+a character that wouldn't be affected, which
+I saw coming a mile away. And that wasn't the
+
+262
+00:24:48,762 --> 00:24:53,763
+only obvious thing that I noticed. Princess
+Fiona being confused for Harley Quinn was something
+
+263
+00:24:53,844 --> 00:24:58,905
+I figured would happen as early as the trailers
+for this series. I do think that this season
+
+264
+00:24:59,225 --> 00:25:03,278
+probably didn't need to be 10 episodes. But
+you know, as I've heard you mentioned before,
+
+265
+00:25:03,318 --> 00:25:08,421
+Zach, anime is kind of known for drawn out seasons
+and filler episodes. So I guess the show is
+
+266
+00:25:08,461 --> 00:25:14,844
+par for the course in that regard. Most anime
+actually now are doing just 12 episodes and
+
+267
+00:25:14,864 --> 00:25:20,426
+the season. So I'm not gonna lie, I was a little
+upset. I didn't have a little bit more, but
+
+268
+00:25:20,846 --> 00:25:24,908
+I don't know. I think that's the thing with
+us anime fans is we just, we want to see the
+
+269
+00:25:24,988 --> 00:25:30,767
+sick animation. Like we love all the like. Like
+we watch anime and like we'll go on YouTube
+
+270
+00:25:30,807 --> 00:25:35,048
+and watch it slow down. That's like how like
+kind of invested we are and that's how much
+
+271
+00:25:35,088 --> 00:25:40,671
+we enjoy these fights that we see in anime.
+It's cool that the passionate fan base exists
+
+272
+00:25:40,751 --> 00:25:45,513
+out there. Cause the animators do put a lot
+of like thoughts into this. You could tell
+
+273
+00:25:45,553 --> 00:25:50,335
+when they do. It just looks so much better and
+it's so much more fluid. Well, what it is too
+
+274
+00:25:50,435 --> 00:25:57,738
+is item placement or like hand placement, right?
+They do such a good job of conveying actual
+
+275
+00:25:57,798 --> 00:26:02,841
+martial arts and actual strikes. And, you know,
+when Harley Quinn hits with the baseball bat,
+
+276
+00:26:02,901 --> 00:26:07,683
+it's very realistic. It's not cartoony. It looks
+like, you know what I mean? Somebody's actually
+
+277
+00:26:07,703 --> 00:26:12,786
+hitting somebody. Yeah. They do a very good
+job of that in this for sure. Now, I'm not
+
+278
+00:26:12,826 --> 00:26:16,929
+sure if Warner Brothers is planning on doing
+more seasons of the show, but it definitely
+
+279
+00:26:16,989 --> 00:26:23,372
+feels like WIT Studio is in it for the long
+call, which I also feel is like a risky move
+
+280
+00:26:23,412 --> 00:26:28,483
+because, you know, we as comic book movie fans.
+are well aware of how often superhero projects
+
+281
+00:26:28,563 --> 00:26:33,365
+get cancelled or just scrapped altogether. Like,
+I'll be pissed if this gets cancelled because
+
+282
+00:26:33,505 --> 00:26:38,667
+the number of unanswered questions in this season
+is kind of ridiculous. Like, we don't know
+
+283
+00:26:38,947 --> 00:26:44,050
+how Amanda Waller learned about the isekai or
+who she used to open the portal to it. I mean,
+
+284
+00:26:44,350 --> 00:26:49,352
+my guess was Enchantress, but they never followed
+up on that later. We don't know exactly what
+
+285
+00:26:49,432 --> 00:26:55,135
+resources Amanda Waller is after. or why she
+would send the Joker in her first squad if
+
+286
+00:26:55,155 --> 00:27:00,759
+she knew how chaotic he was. There's just a
+ton of stuff that I want answers to that I
+
+287
+00:27:00,799 --> 00:27:05,062
+thought we were gonna get more insights on before
+the season wrapped up, but that just wasn't
+
+288
+00:27:05,082 --> 00:27:10,106
+the case. I think they're just trying to draw
+it out. Like, come back. If you want the answers,
+
+289
+00:27:10,166 --> 00:27:15,390
+come back. Watch season two. Yeah. Right? I
+mean, the Joker did say in episode one, like
+
+290
+00:27:15,430 --> 00:27:21,722
+this was prelude to a very long story. So maybe
+it is a really long story. I might be talking
+
+291
+00:27:21,742 --> 00:27:25,904
+out of my ass here because I haven't watched
+a whole lot of anime, but in the anime that
+
+292
+00:27:26,004 --> 00:27:33,647
+I have seen, usually I found that the end of
+it is a little bit anticlimactic actually and
+
+293
+00:27:33,987 --> 00:27:39,269
+it almost appears as if Japanese storytelling
+is more about the journey than the destination,
+
+294
+00:27:39,610 --> 00:27:45,252
+I would say. So even if this is the only season
+we got, I think it's really less about the
+
+295
+00:27:45,472 --> 00:27:50,422
+end and more about everything that happened
+along the way. You're absolutely right. I was
+
+296
+00:27:50,602 --> 00:27:55,345
+watching a YouTube video recently that was sort
+of explaining how Eastern storytelling differs
+
+297
+00:27:55,405 --> 00:27:59,988
+from Western in that it doesn't have a three
+act structure. It actually has a four act structure.
+
+298
+00:28:00,468 --> 00:28:07,972
+Their fourth act kind of is an extension of
+the denouement after the climax, where it kind
+
+299
+00:28:08,012 --> 00:28:13,295
+of tells a little bit more about the life of
+these characters. And it does feel anticlimactic
+
+300
+00:28:13,335 --> 00:28:18,210
+because it doesn't end with a climax, which,
+you know, Western stories typically do. or
+
+301
+00:28:18,430 --> 00:28:23,091
+shortly after it. So I can see how that would
+be the case for a lot of anime. Yes, no, that's
+
+302
+00:28:23,151 --> 00:28:28,773
+exactly what they do. Whenever they end a series,
+it's always, boom, you have this big fight,
+
+303
+00:28:28,993 --> 00:28:35,615
+and then there's one final episode that will
+wrap it up and even jump into the future and
+
+304
+00:28:35,655 --> 00:28:40,757
+show you, no, hey, this is what they're up to
+now that evil has been defeated, right? That
+
+305
+00:28:40,777 --> 00:28:46,090
+is always how it ends. But they space it out,
+right? So throughout their journey, it's multiple
+
+306
+00:28:46,130 --> 00:28:52,313
+kind of climaxes, I guess you can say. Yeah,
+for sure. Now, I feel like all of the intriguing
+
+307
+00:28:52,373 --> 00:28:56,855
+story stuff came sort of in the last seconds
+of the show with the reveal that the Joker
+
+308
+00:28:57,075 --> 00:29:02,477
+had just killed the emperor and taken his place
+for a majority of the show. The audience is
+
+309
+00:29:02,777 --> 00:29:06,999
+pretty much just as lost as the squad itself,
+trying to figure out what to do and what's
+
+310
+00:29:07,039 --> 00:29:12,121
+going on. But that kind of makes sense, I guess.
+But maybe not for five hours. I felt like.
+
+311
+00:29:12,450 --> 00:29:18,194
+for a majority of the show, the characters are
+sort of just quipping, not stop. And I mean,
+
+312
+00:29:18,255 --> 00:29:23,379
+I think that's kind of just Suicide Squad in
+a nutshell. I guess you could say that they
+
+313
+00:29:23,399 --> 00:29:28,764
+did the same thing in the movies. It is a very
+comedic concept. So I could see where they
+
+314
+00:29:28,784 --> 00:29:34,328
+would want to run with that for this anime series.
+Did you guys have a favorite like joke throughout
+
+315
+00:29:34,349 --> 00:29:39,573
+the show? I wouldn't have one per se, but I
+love the character of Clayface, how he was
+
+316
+00:29:39,613 --> 00:29:44,938
+just like, We're in an isekai and he would just
+point out everything. And so to me, that was
+
+317
+00:29:44,978 --> 00:29:52,264
+kind of like my favorite joke, like him. Yeah.
+Clayface. Yeah. I really liked the bar fight
+
+318
+00:29:52,304 --> 00:29:56,627
+scene that they did, I think, in the eighth
+episode or something like that. Really? It
+
+319
+00:29:56,667 --> 00:30:02,172
+wasn't just one joke per se, but just them starting
+a fight while this jester is trying to sing
+
+320
+00:30:02,212 --> 00:30:05,895
+their praises about being a hero was pretty
+hilarious, I thought. Then all of a sudden,
+
+321
+00:30:06,035 --> 00:30:10,466
+peacemakers gets his pants off. It's like, what?
+Yeah, I have no idea what was going on there.
+
+322
+00:30:10,606 --> 00:30:16,189
+Yeah, I rewound it because I was like, when
+did he lose his pants? They were never on.
+
+323
+00:30:16,229 --> 00:30:22,071
+Of course, they have to show some ass in a DC.
+Of course, it's the requisite DC nudity and
+
+324
+00:30:22,171 --> 00:30:29,754
+animation. Now, to say my favorite part, I think,
+was the relationship between Deadshot and Ratcatcher,
+
+325
+00:30:30,274 --> 00:30:35,316
+how Deadshot thought they were like the best
+of friends, homies. And then it turns out that
+
+326
+00:30:35,336 --> 00:30:39,600
+he just really made Ratcatcher's life a living
+hell. I thought that was hilarious. That was
+
+327
+00:30:39,620 --> 00:30:39,781
+good.
+
+328
+00:30:46,958 --> 00:30:52,625
+Our fantasies collide and heroes clash. One
+podcast network rises above the rest. Prepare
+
+329
+00:30:52,645 --> 00:30:58,373
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+330
+00:30:58,433 --> 00:31:04,120
+Dynamike Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+331
+00:31:07,162 --> 00:31:12,865
+Smash every Tuesday, Max Destruction, where
+TV and action heroes battle every Wednesday,
+
+332
+00:31:13,425 --> 00:31:19,348
+and Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+333
+00:31:19,368 --> 00:31:25,071
+the matches and, armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+334
+00:31:25,611 --> 00:31:29,873
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+335
+00:31:34,238 --> 00:31:38,241
+Let's talk about the characters more in our
+character breakdown, starting with Harley Quinn.
+
+336
+00:31:38,801 --> 00:31:44,365
+She was the protagonist of the show and really
+both the hearts and brains of the team, I would
+
+337
+00:31:44,405 --> 00:31:49,267
+say. You know, she often gained inspiration
+for how to solve certain problems that the
+
+338
+00:31:49,287 --> 00:31:54,491
+team encountered through her past misadventures
+with the Joker. Now, even though she pines
+
+339
+00:31:54,531 --> 00:31:59,053
+for him throughout the series, you know, unaware
+that he's disguised as Katana in the Isekai,
+
+340
+00:31:59,562 --> 00:32:05,324
+She proves herself to be an accomplished tactician
+without him, even concocting the plan that
+
+341
+00:32:05,364 --> 00:32:10,726
+defeated the Skeleton Queen in the climax of
+the show. Like I said, man, favorite version
+
+342
+00:32:10,766 --> 00:32:15,869
+of Harley Quinn. She's something else. I love
+this version. I love her. Did you have a favorite
+
+343
+00:32:16,069 --> 00:32:21,291
+moment from the series with her? I think when
+she kind of put the princess in her place,
+
+344
+00:32:21,311 --> 00:32:28,030
+I was like, yeah, you tell her, you tell her.
+Yeah, I liked her cute. attitude. Like she
+
+345
+00:32:28,070 --> 00:32:33,552
+always called King Shark Nana-chan. Nana-chan,
+yeah. I love that too. Yeah, and she had the
+
+346
+00:32:33,592 --> 00:32:38,214
+pet dragon that she adopted taking it on as
+its surrogate mother. She kind of became like
+
+347
+00:32:38,234 --> 00:32:41,936
+the queen of dragons from Game of Thrones in
+that way. That's true. That's an interesting
+
+348
+00:32:42,036 --> 00:32:48,539
+aspect. That's so Isekai though too, because
+the protagonist always gets a little pet. It's
+
+349
+00:32:48,579 --> 00:32:53,661
+rare that you see like the motherly nurturing
+side of Harley Quinn, but it was an interesting
+
+350
+00:32:53,701 --> 00:32:57,530
+facet to the character displayed in this show.
+Yeah, absolutely. Like I mentioned, she was
+
+351
+00:32:57,550 --> 00:33:02,212
+definitely the heart of the team. If I had to
+pick my favorite moment from her in the series,
+
+352
+00:33:02,692 --> 00:33:07,114
+I'd have to say it was probably her sword fight
+against Katana. Like after they defeated the
+
+353
+00:33:07,154 --> 00:33:12,376
+Thinker, I loved how Clayface all of a sudden
+became a sword. And then she just battled against
+
+354
+00:33:12,396 --> 00:33:16,518
+Katana. That was so cool. Such a great fight
+scene. Probably one of my favorites in the
+
+355
+00:33:16,538 --> 00:33:21,480
+entire series. Oh, for sure. Especially how
+you would see the sword get destroyed. And
+
+356
+00:33:21,520 --> 00:33:25,461
+because it's Clayface, he would just re like,
+he would, you would see them pick up dirt.
+
+357
+00:33:25,706 --> 00:33:30,709
+to reform the sword. And so I thought it was
+so good. That was really cool. Moving on to
+
+358
+00:33:30,789 --> 00:33:35,192
+Deadshot, you know, the other members of the
+squad, they don't really have arcs. They're
+
+359
+00:33:35,212 --> 00:33:40,295
+pretty static and they're simply there to, I
+would say, fill out the five man band trope
+
+360
+00:33:40,395 --> 00:33:46,019
+common to anime. As I mentioned, Harley was
+the heart of the team. Deadshot was probably
+
+361
+00:33:46,339 --> 00:33:51,046
+the leader. He filled that kind of archetype
+since he often directed the team on. where
+
+362
+00:33:51,066 --> 00:33:55,810
+they would go, such as leaving to collect ammo
+or instructing the team to put on magic armor.
+
+363
+00:33:56,310 --> 00:34:02,776
+My favorite moment with him in the series was
+how he ended the battle against Rattcatcher
+
+364
+00:34:03,136 --> 00:34:06,980
+and his army with one bullet. I didn't see that
+coming. I thought we were gonna have like an
+
+365
+00:34:07,120 --> 00:34:12,744
+all out army brawl, but for it just to end in
+that manner, I thought it was great. That was
+
+366
+00:34:12,825 --> 00:34:17,469
+a quintessential Deadshot moment. Yeah, no,
+I totally agree. For me, it was just, yeah,
+
+367
+00:34:17,509 --> 00:34:21,994
+just how he got on. throughout the series, I
+was like, yeah, you're cool. I'd hang out with
+
+368
+00:34:22,014 --> 00:34:26,876
+you, Deadshot. He was the coolest one. Yeah.
+Alongside Peacemaker, I would say, Peacemaker,
+
+369
+00:34:27,116 --> 00:34:32,378
+he's the team lancer or like the skilled rebel
+of the group. Someone who often clashes with
+
+370
+00:34:32,398 --> 00:34:37,479
+the leader. And you definitely saw that in this
+series with him clashing with Deadshot. Now,
+
+371
+00:34:37,499 --> 00:34:43,401
+I didn't love Peacemaker in this series. I thought
+he was kind of weird, like too stoic and very
+
+372
+00:34:43,441 --> 00:34:48,327
+different from John Cena's take, but I guess.
+They needed him to be a foil to the short fused
+
+373
+00:34:48,427 --> 00:34:53,371
+dead shot. I loved Peacemaker in this season.
+Yeah, he was my favorite character, actually.
+
+374
+00:34:53,771 --> 00:34:57,073
+I remember I was watching the show with my wife
+and she was like, I thought the Peacemaker
+
+375
+00:34:57,113 --> 00:35:01,777
+is supposed to be like funny. I'm like, maybe
+John Cena, you know, as written by James Gunn.
+
+376
+00:35:01,837 --> 00:35:05,479
+But from what I know of him in the comics, you
+know, he's not that funny. He's actually a
+
+377
+00:35:05,519 --> 00:35:11,564
+lot more stoic and serious of a character. So
+I like how they went that route with him and
+
+378
+00:35:11,604 --> 00:35:17,179
+just how like dedicated to his cause he was.
+He was funny in that sense. Yeah, I think that
+
+379
+00:35:17,219 --> 00:35:22,523
+worked for him. I have to say I prefer this
+one over the John Cena one. Really? I would
+
+380
+00:35:22,543 --> 00:35:29,027
+agree. Yeah. Really? Yeah, I'm sorry, John Cena.
+That's fair. Moving on to King Shark. He was
+
+381
+00:35:29,067 --> 00:35:33,590
+the big guy or the muscle of the group. If I
+had to pick a favorite moment with him, it
+
+382
+00:35:33,610 --> 00:35:38,513
+was probably his battles with Killer Croc, only
+because I was surprised to see Killer Croc.
+
+383
+00:35:39,006 --> 00:35:43,207
+I always figured that King Shark would have
+been like more than a match against Killer
+
+384
+00:35:43,247 --> 00:35:47,188
+Kroc, especially with the healing factor that
+they gave King Shark in the show. But the show
+
+385
+00:35:47,228 --> 00:35:51,809
+definitely upped Killer Kroc's fighting skill,
+I would say. He was like a boxer, so it kind
+
+386
+00:35:51,829 --> 00:35:56,470
+of worked. Let's talk about that healing factor
+though, because some of the characters seems
+
+387
+00:35:56,530 --> 00:36:01,132
+to get power upgrades while some of the characters
+did not. Now, King Shark, he got a healing
+
+388
+00:36:01,172 --> 00:36:07,373
+factor. Clayface, he got geokinesis. And I guess
+Harley Quinn, I don't know. Sometimes she was
+
+389
+00:36:07,413 --> 00:36:11,460
+able to. someone's super strength or something
+like that. But what did the other guys get?
+
+390
+00:36:11,660 --> 00:36:17,424
+It was not quite clear what happened to the
+other characters and like why their abilities
+
+391
+00:36:17,444 --> 00:36:21,907
+were enhanced. Yeah, I don't think they unlocked
+any special abilities. I don't think so. It's
+
+392
+00:36:21,947 --> 00:36:26,190
+just those three. Like even the guys on the
+other side, the other suicide squad members,
+
+393
+00:36:26,230 --> 00:36:30,573
+they didn't really have powers either. Well,
+Ratcatcher was upgraded. Yeah, he was able
+
+394
+00:36:30,593 --> 00:36:36,157
+to control wolves. But that was because of the
+crystal, right? Like it wasn't his power. I
+
+395
+00:36:36,177 --> 00:36:40,780
+wasn't sure about that. I thought that was unclear.
+In the comics, you know, he has a device that
+
+396
+00:36:40,820 --> 00:36:46,144
+controls rats as well. So I wasn't sure if he
+just got an upgraded device in this world or
+
+397
+00:36:46,164 --> 00:36:50,467
+what happened. But I also thought Killer Croc
+got an upgrade because he was able to control
+
+398
+00:36:50,487 --> 00:36:56,091
+that underwater leviathan. Yeah. Who was that
+guy? Where did he come from? The Isekai. That
+
+399
+00:36:56,111 --> 00:37:00,675
+thing pissed me off when he first showed up,
+because I was like, oh, sweet. We get Croc
+
+400
+00:37:00,695 --> 00:37:05,874
+versus shark. And then all of a sudden, two
+seconds later, stupid. octopus fish thing,
+
+401
+00:37:06,174 --> 00:37:14,458
+grab shark and there's no fight. I was like,
+man, fuck that fish. It didn't make sense.
+
+402
+00:37:14,778 --> 00:37:19,720
+Maybe it was kind of like a dragon type situation
+where one of the bad Suicide Squad members
+
+403
+00:37:19,760 --> 00:37:23,882
+had adopted a small fish as a pet or something
+like that and then it grew. I don't know. That
+
+404
+00:37:23,902 --> 00:37:31,325
+makes sense. But I guess if the good guys got
+the dragon, then yeah. They did call it a Leviathan,
+
+405
+00:37:31,525 --> 00:37:37,873
+right? So. I believe so, yeah. And Kroc called
+it his little bro. Yeah. So you could be onto
+
+406
+00:37:37,913 --> 00:37:42,035
+something there. But I think the other characters
+would develop powers and everything. I think
+
+407
+00:37:42,075 --> 00:37:46,078
+if they do bring it back, then I think some
+of those characters will start developing powers,
+
+408
+00:37:46,298 --> 00:37:49,881
+which I think would be pretty cool. Although
+now that they have the armor that they got
+
+409
+00:37:49,921 --> 00:37:55,245
+at the end, the magic armor, maybe some of them
+don't even need those just innate upgrades,
+
+410
+00:37:55,385 --> 00:37:59,948
+magic upgrades, and they could just use the
+armor. Man, I know we'll get there, but that
+
+411
+00:38:00,068 --> 00:38:05,596
+armor was incredible. I loved it. how it turned
+the entire show into like a Dynasty Warriors
+
+412
+00:38:05,656 --> 00:38:10,860
+video game. I was pumped. I watched that scene
+twice. That whole thing. It was great. It was
+
+413
+00:38:10,900 --> 00:38:16,966
+good. That is your typical like going super
+say in moment. Yeah. Oh, for sure. We would
+
+414
+00:38:16,986 --> 00:38:22,090
+call it. Yeah. No, it was so good. They even
+had like the transformation scenes. I thought
+
+415
+00:38:22,130 --> 00:38:26,554
+those were good. Those are funny. Power Rangers,
+sailor moon type transformations. Love it.
+
+416
+00:38:27,034 --> 00:38:33,782
+Love it. Moving on to Clayface. He was. the
+absolute standout character of the show for
+
+417
+00:38:33,822 --> 00:38:39,324
+me, probably because I've never seen the character
+done this way before. His alter ego, Basil
+
+418
+00:38:39,344 --> 00:38:44,785
+Carlo, was an actor, and he's a diva on the
+Harley Quinn show, but he's never been like
+
+419
+00:38:45,145 --> 00:38:52,187
+cool before, like he was in this show, or maybe
+like ironically so. He also provided exposition
+
+420
+00:38:52,227 --> 00:38:55,888
+for the team, as well as the audience who may
+not have been familiar with the tropes from
+
+421
+00:38:55,988 --> 00:39:01,703
+anime and Hollywood cinema. And that strangely
+made him the team's quote unquote smart guy
+
+422
+00:39:01,983 --> 00:39:06,627
+while also being the comedic relief. Every time
+you spoke, I was like, this guy's a dumb ass.
+
+423
+00:39:06,847 --> 00:39:13,513
+I love it. Right. So yeah, no, Clayface is cool.
+I really liked Clayface in this. He was definitely
+
+424
+00:39:13,533 --> 00:39:19,418
+that kind of vain pretty boy type character,
+but it did make me wonder why the Clayface
+
+425
+00:39:19,438 --> 00:39:25,363
+from the comics is such a tragic figure. If
+he can shape shift into a beautiful form, whatever
+
+426
+00:39:25,424 --> 00:39:30,864
+he wants to, he just like chooses not to. I
+don't understand why he doesn't do that because
+
+427
+00:39:31,004 --> 00:39:36,388
+this version of Clayface had no problem altering
+his appearance in that way and he wasn't nearly
+
+428
+00:39:36,428 --> 00:39:41,753
+the tragic character that he is in the comics.
+You know, he had trouble maintaining his prior
+
+429
+00:39:41,773 --> 00:39:46,857
+form. This show kind of did away with that.
+They made it so that he was a pretty seamless
+
+430
+00:39:47,077 --> 00:39:50,820
+shapeshifter, but he's not always like that
+in the comics. He can't maintain it for very
+
+431
+00:39:50,860 --> 00:39:56,905
+long. Okay, that makes sense. Now, I totally
+thought Clayface was El Diablo from the trailers.
+
+432
+00:39:57,522 --> 00:40:02,545
+I was way wrong. It turned out Clayface just
+had expanded control over Clay in the isekai
+
+433
+00:40:02,906 --> 00:40:08,390
+and that was visualized in this like glowy fiery
+kind of way. But I was happily surprised to
+
+434
+00:40:08,430 --> 00:40:13,313
+find out it was Clayface. I was like, what?
+OK. I didn't fully know it was him until the
+
+435
+00:40:13,353 --> 00:40:18,617
+end of the first episode when they did those
+character roll call title cards, kind of. Oh,
+
+436
+00:40:18,797 --> 00:40:23,381
+yeah. Where each character got to showcase their
+ability in the fight when they first got into
+
+437
+00:40:23,401 --> 00:40:28,111
+the isekai. That was pretty dope. My favorite
+moment from Clayface was probably when he brought
+
+438
+00:40:28,131 --> 00:40:33,354
+down the fortress. Like not only was it a great
+feat for the character, but I also thought
+
+439
+00:40:33,374 --> 00:40:37,377
+it was just hilarious that the fortress ended
+up belonging to the kingdom. Oh, you're talking
+
+440
+00:40:37,397 --> 00:40:42,440
+about in the fight against Ratcatcher? Yeah.
+Yeah, that was a great showcase of his kind
+
+441
+00:40:42,480 --> 00:40:47,303
+of intellect, how he was kind of the smart guy
+of the group because in this weird meta way,
+
+442
+00:40:47,383 --> 00:40:52,718
+he had an understanding of the situation that
+they were in being an Isekai fan himself. But
+
+443
+00:40:52,778 --> 00:40:57,661
+yeah, it was his idea to bring down the water
+towers and to make the stone that they were
+
+444
+00:40:57,701 --> 00:41:03,084
+standing on a little bit more malleable. Yeah,
+no, he was definitely a lot more intelligent
+
+445
+00:41:03,304 --> 00:41:07,967
+than he's ever really been portrayed. But it
+totally made sense the way they did it though,
+
+446
+00:41:08,047 --> 00:41:12,189
+too, because, you know, being a fan of movies
+and just like culture and stuff like that,
+
+447
+00:41:12,410 --> 00:41:18,813
+he was the geek of the group. Moving on to Princess
+Fiona or Fiona? Fiona. She was the literal...
+
+448
+00:41:19,074 --> 00:41:25,279
+damsel in distress, this demure royal with a
+traumatic childhood in which her friend as
+
+449
+00:41:25,299 --> 00:41:30,403
+a kid was killed after she told him how much
+food soldiers in the war had. She made it her
+
+450
+00:41:30,443 --> 00:41:35,407
+life's purpose to end the war, partly out of
+guilt, but she was too timid to confront her
+
+451
+00:41:35,447 --> 00:41:40,811
+mother, Queen Aldora, even when the Queen's
+behavior became more and more erratic and harsh.
+
+452
+00:41:41,352 --> 00:41:46,756
+Eventually, she was inspired by Harley Quinn,
+her doppelganger, and to becoming more independent
+
+453
+00:41:46,936 --> 00:41:51,358
+and confrontational. for the sake of her kingdom.
+Yeah, I guess I don't have too much to say
+
+454
+00:41:51,398 --> 00:41:55,620
+about her. I think her twist at the end was
+something that we all kind of saw coming. And
+
+455
+00:41:55,780 --> 00:42:00,581
+they set it up pretty well, I thought. I wouldn't
+say I seen it coming. Like I had an inkling
+
+456
+00:42:00,641 --> 00:42:04,042
+of it. I was like, why does she look so much
+like Harley Quinn? I was like, there must be
+
+457
+00:42:04,102 --> 00:42:07,743
+something going on there. And I thought like,
+oh, maybe we're gonna find, you know, this
+
+458
+00:42:07,823 --> 00:42:12,744
+medieval version of Deadshot and the rest of
+the characters. So that kind of threw me a
+
+459
+00:42:12,764 --> 00:42:16,925
+little bit for a loop. But like, I have to say
+my favorite moment with the princess was when
+
+460
+00:42:17,510 --> 00:42:22,411
+She turns around and she's wearing the makeup.
+Yes. And she's like, I am sick and tired of
+
+461
+00:42:22,451 --> 00:42:28,093
+this fucking shit. And just the guy with the
+baseball bat. I was like, yes. I was like,
+
+462
+00:42:28,113 --> 00:42:33,534
+do your thing, girl. That was great. The last
+character I do want to talk about is the Joker.
+
+463
+00:42:33,834 --> 00:42:38,996
+He's a pretty mysterious character throughout
+the show, which kind of works for the character
+
+464
+00:42:39,076 --> 00:42:44,077
+in that he should always be unpredictable. And
+while I do feel like he was shoehorned into
+
+465
+00:42:44,097 --> 00:42:48,808
+the show's final minutes. and that the reveal
+wasn't as shocking or as satisfying as it should
+
+466
+00:42:48,848 --> 00:42:54,153
+have been, the more I've dwelt on it, the more
+I'm glad that he's being positioned as the
+
+467
+00:42:54,193 --> 00:42:59,677
+series' main antagonist. I like the concept
+of the Suicide Squad versus the Joker, especially
+
+468
+00:42:59,697 --> 00:43:04,762
+when Harley Quinn is positioned as one of the
+team leads. Yeah, I definitely think that sets
+
+469
+00:43:04,822 --> 00:43:10,306
+up something pretty cool down the line, because
+you know, once Harley Quinn finds out, she's
+
+470
+00:43:10,346 --> 00:43:14,714
+going to obviously switch sides, and that's
+going to cause a whole bunch of drama. but
+
+471
+00:43:14,774 --> 00:43:20,338
+then something's gonna lead to her rejoining
+the Suicide Squad, so I'm very interested in
+
+472
+00:43:20,378 --> 00:43:24,542
+how that whole thing would play out. Oh yeah,
+it's gonna bring great conflict to season two
+
+473
+00:43:24,582 --> 00:43:29,846
+if there is a season two. I really liked this
+version of the Joker. I liked how philosophical
+
+474
+00:43:29,886 --> 00:43:36,371
+he was. He was like this wise, chaotic, anarchist.
+And really his whole motivation for doing everything
+
+475
+00:43:36,391 --> 00:43:42,957
+that he did was to provide a more interesting
+life, I guess, for Harley Quinn and everybody
+
+476
+00:43:43,017 --> 00:43:48,876
+else in the squad. Yeah, which is fascinating.
+Like he's such a wild card in that sense. And
+
+477
+00:43:48,916 --> 00:43:55,199
+yeah, because it's hard to empathize with that
+type of thinking, it does make him very mysterious.
+
+478
+00:43:55,559 --> 00:43:59,961
+And I thought it was actually a really damn
+good twist. My jaw dropped in the final minutes
+
+479
+00:44:00,001 --> 00:44:05,363
+of the last episode. Yeah, I did not see that
+coming at all. Like I was like, oh shit, okay.
+
+480
+00:44:05,664 --> 00:44:11,006
+The Joker can scrap too. I was like, I love
+it. Right, yeah. Yeah, I mean, at the beginning
+
+481
+00:44:11,026 --> 00:44:15,847
+of the series, Joker theorizes that everyone
+longs to be part of a new world where things
+
+482
+00:44:15,867 --> 00:44:20,869
+are more fantastical and free. You know, part
+of his motivation for causing havoc is to make
+
+483
+00:44:20,889 --> 00:44:26,430
+the world a more fantastical place. And when
+he enters a literal fantasy world, he takes
+
+484
+00:44:26,550 --> 00:44:31,332
+on the role of the mysterious wild card, like
+you mentioned, Joseph, you know, seemingly
+
+485
+00:44:31,592 --> 00:44:36,293
+neither friend nor foe. Up until the final moments
+when he decides to take charge of things and
+
+486
+00:44:36,313 --> 00:44:41,668
+kill the emperor. because the Skeleton Queen's
+plan to unleash death on the entire world would
+
+487
+00:44:41,688 --> 00:44:46,851
+have led to peace and quiet, and the Joker doesn't
+want that. He wants to see everyone live on
+
+488
+00:44:46,871 --> 00:44:52,294
+the edge, as he says in his own words. It's
+a fantastic setup for season two. It was a
+
+489
+00:44:52,334 --> 00:44:58,777
+fantastic take on the Joker, I agree. So much
+so that I can't think of a recent version of
+
+490
+00:44:58,797 --> 00:45:04,240
+the Joker that I think is as well done as this.
+As little as screen time as he had, I still
+
+491
+00:45:04,260 --> 00:45:10,320
+think that he was done remarkably well. I like
+how this version of the Joker took heavily
+
+492
+00:45:10,360 --> 00:45:13,622
+from the characterization of Heath Ledger's
+Joker even though they kind of made him look
+
+493
+00:45:13,642 --> 00:45:18,565
+a little bit more like Jared Leto's. Jared Leto
+could only wish that they would have had like
+
+494
+00:45:18,605 --> 00:45:23,408
+the design insight they had for this Joker with
+like the tattoo of the smile. That was sick.
+
+495
+00:45:23,428 --> 00:45:27,911
+I like that. That was awesome. Yeah, no, I was
+just going to ask you guys what did you think
+
+496
+00:45:27,971 --> 00:45:33,714
+of the Joker's design? And yeah, probably one
+of my favorites. I wonder why they didn't go
+
+497
+00:45:33,754 --> 00:45:38,918
+this route in the 2016 Suicide Squad movie with
+Jared Leto. They had did the thing where he
+
+498
+00:45:38,978 --> 00:45:43,462
+tattooed a smile on his hand, but he had tattoos
+on his face already, so you would think that
+
+499
+00:45:43,482 --> 00:45:48,326
+he would just put a smile on his face like they
+did in this anime. You'd think. I feel like
+
+500
+00:45:48,386 --> 00:45:53,049
+if they did that, it would have been some big
+goofy red smile and it would have looked even
+
+501
+00:45:53,129 --> 00:45:58,153
+worse. But what if it had sharp teeth and everything?
+I don't know. I would have to see it in action,
+
+502
+00:45:58,353 --> 00:46:03,047
+I think. before I totally sign off on it. But
+conceptually, I feel like it's there. I feel
+
+503
+00:46:03,067 --> 00:46:03,629
+like it makes sense.
+
+504
+00:46:10,958 --> 00:46:16,539
+Moving on to the story highlights, in episode
+one, as the Joker and Harley Quinn wreak havoc
+
+505
+00:46:16,559 --> 00:46:22,281
+in Gotham City, they are attacked by Argus agents.
+The Joker escapes, but Harley is defeated and
+
+506
+00:46:22,321 --> 00:46:28,182
+captured by Katana. Meanwhile, Argus's director
+Amanda Waller oversees the opening of a portal
+
+507
+00:46:28,222 --> 00:46:34,484
+to another world. Six months later, she tasks
+Belriiv and mates Harley, Deadshot Clayface
+
+508
+00:46:34,524 --> 00:46:40,070
+Peacemaker, and King Shark with entering the
+Isekai to collect resources. and implants time
+
+509
+00:46:40,090 --> 00:46:44,813
+bombs on their necks that will explode in 72
+hours unless they receive a radio signal from
+
+510
+00:46:44,853 --> 00:46:51,097
+her regularly to discourage any escape attempts.
+Additionally, she blackmails Deadshot by threatening
+
+511
+00:46:51,137 --> 00:46:57,101
+his daughter. As the squad enters the portal,
+their helicopter crashes in a world that Clayfist
+
+512
+00:46:57,121 --> 00:47:02,224
+calls an isekai before they are ambushed by
+orcs and an army of knights, neither of whom
+
+513
+00:47:02,465 --> 00:47:07,635
+they are able to understand. despite repelling
+the orcs that are captured by the knights and
+
+514
+00:47:07,675 --> 00:47:13,676
+taken to a prison fortress. Elsewhere, Kitana
+and several supervillains speak to a mysterious
+
+515
+00:47:13,736 --> 00:47:19,578
+figure. Now the beginning of the series, after
+the Joker blows up those businessmen, him and
+
+516
+00:47:19,618 --> 00:47:25,320
+Harley escape in this car that's controlled
+by a piano. Which I thought was awesome. Yeah,
+
+517
+00:47:25,360 --> 00:47:29,081
+that's something you definitely don't see every
+day, but I mean it kind of makes sense for
+
+518
+00:47:29,101 --> 00:47:33,979
+the characters. I dug it. Who do you guys think
+was the girl that Waller used to open the portal?
+
+519
+00:47:33,999 --> 00:47:38,441
+Do you think it was Enchantress? It seems like
+it was Enchantress because the way the portal
+
+520
+00:47:38,481 --> 00:47:43,603
+manifested with that kind of emerald looking
+visual was the same kind of visual that they
+
+521
+00:47:43,743 --> 00:47:48,465
+used to portray her magic powers later on in
+the series. No, I agree with that totally,
+
+522
+00:47:48,505 --> 00:47:55,368
+because, yeah, portal was green. So who else?
+That's what I think. I do wonder who took out
+
+523
+00:47:55,408 --> 00:48:00,806
+the helicopter pilots. That was never addressed.
+Because like the agent, I think his name was
+
+524
+00:48:00,946 --> 00:48:05,948
+Adam, goes to the front and the helicopter pilots
+look like they've been sniped. I don't know
+
+525
+00:48:05,968 --> 00:48:10,729
+if that was the Joker or what happened there,
+but it was never addressed. Yeah, you're right.
+
+526
+00:48:10,749 --> 00:48:16,050
+Good question, yeah, pothole. Cause yeah, like
+I don't, like nobody else in that world would
+
+527
+00:48:16,090 --> 00:48:21,132
+really know how to use a gun or have that kind
+of precision, right? It would have had to have
+
+528
+00:48:21,152 --> 00:48:24,793
+been the Joker, you would think. I hope it was.
+Yeah, especially if you could throw hands like
+
+529
+00:48:24,813 --> 00:48:29,406
+that, he probably could shoot very well as well.
+Just a... Jack of all trades. I think he's
+
+530
+00:48:29,427 --> 00:48:34,569
+like a super joker almost. Like he's not like
+actually super, but like he's very talented,
+
+531
+00:48:34,729 --> 00:48:39,272
+you know what I mean? Yeah. Any guy who could
+like play a piano like that, for sure talented.
+
+532
+00:48:40,332 --> 00:48:45,735
+Moving on to episode two, a royal court discusses
+the current war and their prisoners. Queen
+
+533
+00:48:45,755 --> 00:48:50,918
+Eldora dismisses both the starving peasants
+and the squad's presence, but Princess Fiona
+
+534
+00:48:51,198 --> 00:48:56,841
+believes the latter may be of use and orders
+her elite knight, Cecile, to bring them to
+
+535
+00:48:56,881 --> 00:49:02,057
+her. Meanwhile, following the squad's imprisonment,
+Clayface tries to escape, but the guards put
+
+536
+00:49:02,117 --> 00:49:07,361
+magical handcuffs on him that negate his powers.
+They later meet an elite Argus soldier named
+
+537
+00:49:07,421 --> 00:49:12,184
+Rick Flag, who reveals he knows them, that they
+are meant to serve as Waller's suicide squad,
+
+538
+00:49:12,624 --> 00:49:16,867
+and their predecessors went missing six months
+ago. He knows of an area where they can receive
+
+539
+00:49:16,907 --> 00:49:21,591
+Waller's signal, and under the threat of their
+bombs, Clayface releases the other inmates
+
+540
+00:49:21,911 --> 00:49:27,175
+while the squad start a riot and successfully
+take over the prison. However, they are reconfronted
+
+541
+00:49:27,195 --> 00:49:33,901
+by the Knights who arrested them. My favorite
+scene in this episode is probably in the prison
+
+542
+00:49:33,941 --> 00:49:38,565
+cafeteria where they're having trouble communicating
+with the Orc and it just leads to this all
+
+543
+00:49:38,605 --> 00:49:45,792
+out brawl. I love just how savvy the Suicide
+Squad was when it came to like prison politics.
+
+544
+00:49:46,312 --> 00:49:50,556
+Clayface thought he knew what was going on,
+but he was really just a distraction for the
+
+545
+00:49:50,616 --> 00:49:56,299
+others to up the ante. Yeah, that was a lot
+of fun. I liked the orc prisoners and how through
+
+546
+00:49:56,339 --> 00:50:01,001
+brawling with them and alongside them, they
+kind of became their allies. Moving on to episode
+
+547
+00:50:01,021 --> 00:50:06,023
+three, before the squad can fight, the Knights
+flag stops them and attempts to reason with
+
+548
+00:50:06,063 --> 00:50:11,705
+Cecile using words he learned from orc prisoners.
+Despite being insulted by this, Cecile follows
+
+549
+00:50:11,745 --> 00:50:17,468
+through on Fiona's orders. They soon meet Eldora
+and Fiona, the latter of whom resembles Harley.
+
+550
+00:50:18,008 --> 00:50:23,758
+After Eldora casts a translation spell to facilitate
+contact. Flag confesses that his previous squad
+
+551
+00:50:23,798 --> 00:50:29,941
+escaped and became generals in the enemy forces.
+She demands the squad be executed until a peacemaker
+
+552
+00:50:29,981 --> 00:50:35,063
+convinces her to let them take on a mission
+from her instead. She accepts under the condition
+
+553
+00:50:35,083 --> 00:50:40,606
+that Flag remains imprisoned until the mission
+succeeds. After the squad regain their equipment,
+
+554
+00:50:40,886 --> 00:50:45,788
+they take advantage of Cecile's fight with an
+army of werewolves to sneak into the werewolves
+
+555
+00:50:45,828 --> 00:50:51,000
+fortress where they encounter Ratcatcher, who
+holds a grudge against Deadshot for slandering
+
+556
+00:50:51,060 --> 00:50:56,885
+and humiliating Kim while they were incarcerated
+together. Using a magic scepter, he takes control
+
+557
+00:50:56,905 --> 00:51:01,949
+of a pack of werewolves to seek revenge. Though
+the squad defeats the werewolves, Katana rescues
+
+558
+00:51:02,029 --> 00:51:08,495
+Ratcatcher, who intends to control a different
+army to kill the squad. I loved how Rick Flag
+
+559
+00:51:08,515 --> 00:51:14,240
+was talking to Cecile at the beginning of this
+episode. I was cracking up. What did he call
+
+560
+00:51:14,260 --> 00:51:19,483
+him again? He kept calling him like a... stank
+ass or something like that. Yeah. Something.
+
+561
+00:51:19,864 --> 00:51:24,506
+It was hilarious. Moving on to episode 4, in
+a flashback, a young Fiona snuck out of the
+
+562
+00:51:24,546 --> 00:51:29,709
+castle to befriend peasants, only for them to
+be killed in the war. In the present, Eldora
+
+563
+00:51:29,749 --> 00:51:34,612
+refuses to release the squad despite their victory
+because they destroyed the kingdom's fortress.
+
+564
+00:51:35,093 --> 00:51:40,276
+Harley berates Fiona for reminding the former
+of her old self, as Cecil explains how the
+
+565
+00:51:40,296 --> 00:51:45,075
+war that Eldora's kingdom is involved in has
+lasted decades. especially after the elves
+
+566
+00:51:45,135 --> 00:51:49,699
+and beastmen betrayed them. Ratcatcher takes
+command of a beast army and approaches the
+
+567
+00:51:49,719 --> 00:51:55,544
+castle and Harley recruits Eldora's prisoners
+to aid the squad, but Deadshot destroys Ratcatcher's
+
+568
+00:51:55,564 --> 00:52:02,150
+scepter, causing his army to betray him and
+then surrender. As a reward, Cecile frees the
+
+569
+00:52:02,210 --> 00:52:07,514
+squad, who leave to receive Waller's signal,
+with 12 hours left on their bombs. The kingdom
+
+570
+00:52:07,574 --> 00:52:12,730
+celebrates, though Eldora is displeased. This
+episode was pretty dope. And that's what I
+
+571
+00:52:12,770 --> 00:52:17,852
+was saying, too. Like the whole thing of like
+the scepter is his main source of power. Yeah.
+
+572
+00:52:18,032 --> 00:52:22,894
+Like I don't think they explained where he got
+the scepter from. I thought it was just made
+
+573
+00:52:22,974 --> 00:52:27,756
+with like magical artifacts that he probably
+got through the empire. Kind of the same way
+
+574
+00:52:27,836 --> 00:52:32,318
+that Harley Quinn stuck that magic gem on top
+of her gun. And then all of a sudden, they
+
+575
+00:52:32,358 --> 00:52:36,860
+shot like magic bullets. Yeah. I think is what
+I'm guessing. OK. I mean, fair enough. Fair
+
+576
+00:52:36,900 --> 00:52:41,246
+enough. I wasn't the biggest fan of Rack Hatcher.
+I don't know why, I didn't like his design
+
+577
+00:52:41,286 --> 00:52:47,269
+in this one. I think they included him probably
+because Ritecatcher was in the Suicide Squad.
+
+578
+00:52:47,729 --> 00:52:53,611
+I didn't mind it, I thought it was cool again
+to see like new faces, new comic villains and
+
+579
+00:52:53,631 --> 00:52:59,474
+see how they were interpreted. The purple mohawk
+was pretty wild I thought. In episode five,
+
+580
+00:52:59,554 --> 00:53:04,236
+the squad reaches the portal which is in the
+sky in time to reset their bombs, giving them
+
+581
+00:53:04,316 --> 00:53:10,431
+72 more hours. They continue helping Eldora's
+kingdom. but Deadshot runs out of bullets.
+
+582
+00:53:10,811 --> 00:53:16,016
+Flag says his helicopter, which was left on
+a mountain, has more weapons. In routes, they
+
+583
+00:53:16,056 --> 00:53:20,659
+stop and party with the former prisoners who
+were left in charge of the fortress, and Harley
+
+584
+00:53:20,699 --> 00:53:26,724
+acquires a magical size-shifting frying pan.
+Upon reaching the helicopter, they find a dragon
+
+585
+00:53:27,085 --> 00:53:31,728
+made a nest with it before it attacks them.
+While Harley uses the frying pan to deflect
+
+586
+00:53:31,788 --> 00:53:36,452
+its fire breath, Peacemaker distracts it by
+stealing its egg, and Deadshot knocks it off
+
+587
+00:53:36,472 --> 00:53:41,870
+the mountain with a rocket launcher. The egg
+hatches and the baby dragon imprints on Harley,
+
+588
+00:53:41,890 --> 00:53:47,572
+who names it Arthur. Flag secretly contacts
+Waller and informs her of the situation. She
+
+589
+00:53:47,592 --> 00:53:52,553
+tells him to kill the traitors in the previous
+squad. After acquiring the weapons, the squad
+
+590
+00:53:52,573 --> 00:53:57,275
+returns with Arthur, but finds the fortress
+on fire and the Enchantress and the Thinker
+
+591
+00:53:57,335 --> 00:54:02,376
+looming in the sky. If any episode I thought
+kind of dragged on was kind of boring, I thought
+
+592
+00:54:02,396 --> 00:54:06,557
+it was this one. It was like a transitionary
+episode, like the first half of the episode.
+
+593
+00:54:06,870 --> 00:54:11,213
+Their whole motivation is just to get more ammo
+to resupply, right? There's not a whole lot
+
+594
+00:54:11,273 --> 00:54:15,156
+of plot going on here, except for the dragon
+fight, which is pretty good. And then the whole
+
+595
+00:54:15,196 --> 00:54:20,260
+imprinting thing. Episode six, after finding
+their friends from the prison have been executed
+
+596
+00:54:20,300 --> 00:54:25,303
+by brainwashed elves. The squad fights them,
+Enchantress and the Thinker. King Shark is
+
+597
+00:54:25,343 --> 00:54:30,387
+knocked into a lake where he is beaten and captured
+by Killer Croc and a sea monster. Thinker makes
+
+598
+00:54:30,447 --> 00:54:35,235
+Deadshot Clayface and Peacemaker experience
+nightmares. then shoots them with a gun after
+
+599
+00:54:35,275 --> 00:54:40,699
+Enchantress disapproves of making them suffer.
+Enchantress asks Harley to join them, but Harley
+
+600
+00:54:40,739 --> 00:54:46,182
+refuses. Flag claims he can make the rogue's
+bombs explode, but the trio calls his bluff
+
+601
+00:54:46,282 --> 00:54:51,566
+and leave. After Harley reunites with Deadshot,
+Clayface, and Peacemaker, the squad is re-imprisoned,
+
+602
+00:54:51,966 --> 00:54:58,411
+and Eldora declares they will be executed to
+deter incompetence. Finding this unfair, Fionne
+
+603
+00:54:58,591 --> 00:55:04,791
+and Cecile release them and provide a carriage.
+As the squad decides to take the fight to the
+
+604
+00:55:04,831 --> 00:55:11,355
+villains, Tinker finds the portal and erects
+a tower around it. I was confused at the end
+
+605
+00:55:11,375 --> 00:55:15,417
+of this episode when Rick Flagg was bluffing
+that he could blow up their heads because he
+
+606
+00:55:15,457 --> 00:55:18,699
+had that controller device with their faces
+on it and everything like that. In the next
+
+607
+00:55:18,739 --> 00:55:22,621
+episode, I was like, why doesn't he just use
+that? Because it wasn't entirely clear to me
+
+608
+00:55:22,661 --> 00:55:26,503
+that he actually was bluffing. I thought he
+actually had their controls on him, because
+
+609
+00:55:26,523 --> 00:55:31,126
+it would make sense that he would, considering
+he was their handler. So. I'm not sure why
+
+610
+00:55:31,166 --> 00:55:35,067
+he didn't have the ability to blow up their
+heads. Well, I don't think it was clear that
+
+611
+00:55:35,107 --> 00:55:42,169
+he was bluffing until he let them go, because
+I think he would have blown them up if he was
+
+612
+00:55:42,209 --> 00:55:47,410
+able to, because he was under orders from Amanda
+Waller to do so, to kill the old squad. And
+
+613
+00:55:47,711 --> 00:55:53,972
+he didn't do that. Well, did he not have the
+controller when they got split up originally?
+
+614
+00:55:54,012 --> 00:55:57,453
+So don't you think he would have just killed
+them? Yeah, that's what I'm wondering. Yeah.
+
+615
+00:55:57,982 --> 00:56:02,204
+Yeah, I don't think Amanda Waller gave him the
+control to do that. I think she was the only
+
+616
+00:56:02,264 --> 00:56:07,347
+one who had the controls to blow up the suicide
+squad bombs. That's stupid. Yeah, that's weird
+
+617
+00:56:07,387 --> 00:56:12,670
+because like even in the live action movies,
+Flagg had the ability to blow people's heads
+
+618
+00:56:12,750 --> 00:56:17,833
+up. Yeah, I don't know. It was kind of weird
+in the way that they kind of teased that he
+
+619
+00:56:17,853 --> 00:56:22,716
+might have that ability. But then I was like,
+oh, psych, who knows? It's a plot hole. I think
+
+620
+00:56:22,756 --> 00:56:28,299
+it just went on to show that. He never had the
+ability to blow up their bombs to begin with.
+
+621
+00:56:28,739 --> 00:56:33,521
+But it does beg the question, why didn't Amanda
+Waller just blow them up from the other side
+
+622
+00:56:33,561 --> 00:56:37,363
+of the portal? Even when they were close to
+it, yeah. I did like this episode a lot. In
+
+623
+00:56:37,383 --> 00:56:42,325
+fact, I really liked the second half of the
+season a lot more than the first. I feel like
+
+624
+00:56:42,745 --> 00:56:47,768
+once they started getting involved with more
+of the other squad members like Enchantress,
+
+625
+00:56:48,048 --> 00:56:53,519
+the Thinker, then it really started to become
+more interesting. Moving on to episode seven,
+
+626
+00:56:53,779 --> 00:56:57,963
+with a few hours left on their bombs, the squad
+discovers Thinker built a tower and fortress
+
+627
+00:56:58,003 --> 00:57:03,247
+around the portal and is guarded by Katana and
+brainwashed elves. Clayface infiltrates the
+
+628
+00:57:03,267 --> 00:57:08,852
+fortress and imitates Thinker to distract Katana
+while the others distract the elves. Amidst
+
+629
+00:57:08,912 --> 00:57:14,097
+this, Peacemaker captures one and tortures him
+to death, hurting the other elves due to the
+
+630
+00:57:14,137 --> 00:57:19,914
+Thinker's linking of their minds. As Harley
+engages the Thinker, he enters her mind. and
+
+631
+00:57:19,954 --> 00:57:26,098
+sees a memory of the Joker seducing her. However,
+she commands the memory Joker to help her defeat
+
+632
+00:57:26,138 --> 00:57:31,983
+Thinker, freeing the elves. As the fortress
+and tower collapse, Kitana, who had defeated
+
+633
+00:57:32,023 --> 00:57:38,708
+Clayface, kills Thinker and takes his thinking
+cap. Harley and Clayface join forces to defeat
+
+634
+00:57:38,728 --> 00:57:45,213
+Kitana, breaking her naginata and knocking her
+mask off, though she escapes. With their bombs
+
+635
+00:57:45,253 --> 00:57:51,311
+reset once more, The squad celebrate by having
+Arthur burn down the enemy flag. When the kingdom
+
+636
+00:57:51,371 --> 00:57:56,232
+receives word of the squad's victory, a furious
+Eldora orders them to be brought in dead or
+
+637
+00:57:56,292 --> 00:58:02,874
+alive. Horrifying and confusing, Fiona and Cecile.
+Absolute badassery when she's just standing
+
+638
+00:58:02,914 --> 00:58:08,176
+there, just like holding the head. Yeah. Oh,
+damn. Oh, that was so cool. I was like, what
+
+639
+00:58:08,196 --> 00:58:12,157
+the hell's going on here? Because that's not
+Katana, but I didn't know who it was. I thought
+
+640
+00:58:12,177 --> 00:58:16,142
+she was like possessed or something like that.
+But yeah, this was my second favorite episode.
+
+641
+00:58:16,382 --> 00:58:20,644
+My favorite being the last episode, but this
+was a pretty good one. I guess my one question
+
+642
+00:58:20,764 --> 00:58:26,447
+is if all the elves minds were linked, then
+that means if any of them like got, say, punched
+
+643
+00:58:26,487 --> 00:58:29,668
+in the face in the course of battle, wouldn't
+they all feel like they just got punched in
+
+644
+00:58:29,708 --> 00:58:33,770
+the face? That's exactly what happened. Yeah.
+Yeah, but like they went against the elves
+
+645
+00:58:33,790 --> 00:58:37,571
+in the previous episode and that did not happen.
+That's a good question. I don't know. That's
+
+646
+00:58:37,611 --> 00:58:43,806
+probably a plot hole. You're just overthinking
+it. Yeah. Stop. What are you doing? Anime logic,
+
+647
+00:58:44,046 --> 00:58:49,147
+that's what it is. I think maybe the thinker
+didn't link up all their minds until they were
+
+648
+00:58:49,167 --> 00:58:54,889
+all trying to find the squad. I don't know.
+Sure. OK. It's as good a rationale as any,
+
+649
+00:58:54,949 --> 00:59:00,130
+I suppose. I have to say, I did get a little
+bit upset that Harley Quinn was holding her
+
+650
+00:59:00,330 --> 00:59:04,351
+own against Katana, because in my mind, Katana
+is a much better fighter than Harley Quinn.
+
+651
+00:59:04,711 --> 00:59:09,933
+Harley Quinn being more of a brawler, I guess,
+in my mind. But knowing that was in fact the
+
+652
+00:59:09,993 --> 00:59:14,982
+Joker in the sword fight against Harley Quinn,
+The fact that it was a more even match sat
+
+653
+00:59:15,022 --> 00:59:20,964
+a little bit better with me after that reveal.
+I agree, because in the opening episode, Katana
+
+654
+00:59:21,024 --> 00:59:25,445
+essentially wiped the floor with Harley Quinn.
+She was playing with her like a cat plays with
+
+655
+00:59:25,465 --> 00:59:30,846
+a mouse. So when all of a sudden Harley was
+able to hold her own, I agree. I was like,
+
+656
+00:59:30,866 --> 00:59:37,548
+what is this? But in hindsight, it worked. Well,
+the thing too in anime is a lot of the power
+
+657
+00:59:37,588 --> 00:59:43,094
+of friendship. And that's what I felt like she
+was using when fighting Katana in that. moment.
+
+658
+00:59:43,254 --> 00:59:48,476
+Oh, with Clayface? Yeah, so she kind of got
+like that ability buff and she was able to
+
+659
+00:59:48,496 --> 00:59:53,538
+like throw hands. In episode 8, the squad is
+invited back to the castle, but Aldora and
+
+660
+00:59:53,558 --> 00:59:58,721
+her court refused to thank them for their victories.
+One noble, ordered by Aldora before the squad's
+
+661
+00:59:58,741 --> 01:00:03,903
+arrival, talks against them and slaps Harley,
+resulting in an enraged King Shark killing
+
+662
+01:00:03,943 --> 01:00:09,765
+him. Aldora arrests King Shark and says he will
+be executed, then exiles the rest of the squad.
+
+663
+01:00:10,158 --> 01:00:14,739
+P&A tries to apologize but Harley tells her
+off for not standing up for them and leaves
+
+664
+01:00:14,759 --> 01:00:19,960
+her baseball bat behind. The depressed squad
+gets drunk at a bar but tempers flair and they
+
+665
+01:00:20,000 --> 01:00:25,342
+start a bar brawl. The next day, Flag contacts
+Waller about resetting the bombs but when he
+
+666
+01:00:25,382 --> 01:00:31,343
+tells her what happened, she declares them failures
+and detonates Clayface's bomb. An enraged Flag
+
+667
+01:00:31,403 --> 01:00:36,205
+tells her off but they spot that the castle
+is on fire. Waller says they have 24 hours
+
+668
+01:00:36,225 --> 01:00:41,535
+to salvage the situation or she will detonate
+the others. After the call ends, Clayface regenerates.
+
+669
+01:00:41,996 --> 01:00:47,721
+Flag leaves the squad in rescuing King Shark
+and the castle. Two hours prior, Fiona visits
+
+670
+01:00:47,781 --> 01:00:52,465
+Eldora's room to plead for King Shark life,
+but was horrified to see Eldora's reflection
+
+671
+01:00:52,525 --> 01:00:58,411
+in her mirror is that of a skeletal monster.
+Great episode, I thought. When that nobleman
+
+672
+01:00:58,511 --> 01:01:04,356
+slapped Harley, I was like, oh shit, it's about
+to go down. And I was so happy to see King
+
+673
+01:01:04,376 --> 01:01:08,928
+Shark just eat the guy right away. Yeah, I was
+wondering which of the Suicide Squad members
+
+674
+01:01:08,968 --> 01:01:13,832
+or maybe even Harley herself was going to kick
+some ass at that point. But it makes sense
+
+675
+01:01:13,852 --> 01:01:17,935
+that it was King Shark. Yeah, I guess I didn't
+say this earlier, but my favorite thing about
+
+676
+01:01:17,975 --> 01:01:22,559
+King Shark, just in general, is how he's just
+constantly eating people. You know, he's just
+
+677
+01:01:22,579 --> 01:01:25,742
+standing in the background and all of a sudden
+he's just got a foot hanging out of his mouth
+
+678
+01:01:25,822 --> 01:01:31,366
+after he fought those elves. Right. I'm like,
+huh, when did he eat that person? So yeah,
+
+679
+01:01:31,406 --> 01:01:36,738
+that was probably my favorite thing about Shark.
+And I was just like... Get his ass, shark.
+
+680
+01:01:36,779 --> 01:01:42,383
+Like, you knew that was coming. So I do have
+one thing to say about Queen Eldora secretly
+
+681
+01:01:42,443 --> 01:01:47,868
+being the Skeleton Queen. They refer to this
+character as two different names in the romantic
+
+682
+01:01:47,908 --> 01:01:54,353
+episodes. Initially, they refer to her as the
+Undead King, which I was like, what? Like,
+
+683
+01:01:54,714 --> 01:02:00,458
+it's a woman character. Joker calls her Skeleton
+Queen in the final episode. It was just confusing
+
+684
+01:02:00,518 --> 01:02:04,399
+as to what was going on with this character.
+I'm referring to her as the Skeleton Queen
+
+685
+01:02:04,720 --> 01:02:10,162
+in my notes. But yeah, she was also referred
+to the undead king. Did you guys notice that?
+
+686
+01:02:10,782 --> 01:02:15,644
+Yeah. And I was waiting for some kind of explanation.
+Like, are they talking about the same person?
+
+687
+01:02:15,824 --> 01:02:21,547
+Like, what the hell's going on here? But they
+normally do that a lot in anime is a lot of
+
+688
+01:02:21,567 --> 01:02:29,062
+people will have like code names that only certain
+people know of and like who they are. So. I
+
+689
+01:02:29,082 --> 01:02:33,826
+guess I wasn't too surprised by it. Okay. So
+like say you're like an assassin and you know
+
+690
+01:02:33,866 --> 01:02:39,331
+they call this assassin the silent one, but
+you're still you know Jonathan Garcia. I feel
+
+691
+01:02:39,351 --> 01:02:44,977
+like I was just honored with a nickname. I've
+always wanted that before. The silent assassin,
+
+692
+01:02:45,017 --> 01:02:52,762
+I'll take it. I've always called you silent
+but deadly. It still works. I'll take either.
+
+693
+01:02:52,902 --> 01:02:57,843
+I'll take either. Moving on to episode 9, a
+minister uses the thinking cap to brainwash
+
+694
+01:02:57,883 --> 01:03:03,585
+several knights and turn them against the others.
+Fiona discovers the real Eldora was killed
+
+695
+01:03:03,665 --> 01:03:08,286
+and replaced by the Skeleton Queen who aims
+to spread death before Cecile rescues her.
+
+696
+01:03:08,706 --> 01:03:14,288
+Tired of cowering, Fiona assumes Harley's makeup
+and baseball bat before knocking out the minister
+
+697
+01:03:14,628 --> 01:03:20,169
+and in his control. As the Skeleton Queen summons
+skeletons to attack Eldora's subjects and floods
+
+698
+01:03:20,189 --> 01:03:26,167
+the castle, Kroc attacks Fiona, but King Shark
+escapes from his cell and intercepts him. The
+
+699
+01:03:26,207 --> 01:03:31,048
+rest of the squad soon arrive to help fight
+the Skeleton Queen and the Rogue Squad. The
+
+700
+01:03:31,088 --> 01:03:36,190
+Skeleton Queen calls on the Enchantress for
+help, but Arthur has a growth spurt and joins
+
+701
+01:03:36,230 --> 01:03:41,551
+the seal in aiding Harley and Deadshot in fighting
+her. Using a magic gem to enhance her gun,
+
+702
+01:03:41,971 --> 01:03:46,893
+Harley defeats the Enchantress before interrogating
+her, deducing that she stopped the Thinker
+
+703
+01:03:46,933 --> 01:03:52,487
+from killing the others and is serving the because
+so much she cares about is being held hostage.
+
+704
+01:03:52,867 --> 01:03:58,390
+Meanwhile, Kitana lures Clayface and Flag to
+a giant skeleton where a woman resembling the
+
+705
+01:03:58,430 --> 01:04:04,813
+Enchantress is being held in a magical bubble.
+I love that scene with Clayface kind of explaining
+
+706
+01:04:04,893 --> 01:04:11,056
+like, oh, a damsel in distress and a dragon
+is always guarding something super, super valuable.
+
+707
+01:04:11,396 --> 01:04:16,138
+And I was like, oh my God, this guy's hilarious.
+Like. Just the way he describes the whole scene
+
+708
+01:04:16,158 --> 01:04:21,821
+and he's like, it's my time to shine. And she's
+like, relax, bro. The fact that he always thought
+
+709
+01:04:21,861 --> 01:04:26,784
+he was the protagonist of the story, just so
+endearing for the character. He's got that
+
+710
+01:04:26,824 --> 01:04:31,486
+main character energy going. Yeah. Did they
+show how King Shark escaped from the prison?
+
+711
+01:04:31,526 --> 01:04:36,129
+Because the whole goal of the squad was to get
+back to the castle so they could rescue King
+
+712
+01:04:36,149 --> 01:04:42,149
+Shark from being executed. But we never got
+to see King Shark in danger of being executed
+
+713
+01:04:42,209 --> 01:04:47,353
+because all of a sudden he was just in the battle.
+Well, the castle was being destroyed and flooded.
+
+714
+01:04:47,533 --> 01:04:52,177
+I imagine he escaped during that point because
+he emerged coming from the water. That makes
+
+715
+01:04:52,197 --> 01:04:56,580
+sense. We didn't get to see it happened off
+screen, but I imagine that's what happened.
+
+716
+01:04:56,600 --> 01:05:02,105
+What about that water with Killer Croc surfing?
+That was cool. On that water. I was like, that's
+
+717
+01:05:02,225 --> 01:05:08,954
+so Ninja Turtles. I was like, I love it. I think
+Killer Croc was better portrayed here in this
+
+718
+01:05:09,014 --> 01:05:13,435
+series than he ever has been. I agree. That
+includes like the movies he's been in, the
+
+719
+01:05:13,495 --> 01:05:16,436
+old Batman television series and everything
+like that. I thought he was, I thought he was
+
+720
+01:05:16,476 --> 01:05:21,197
+pretty dope here. He was cool. He was very cool.
+Like in other media, he's kind of depicted
+
+721
+01:05:21,357 --> 01:05:26,219
+somewhat like King Shark is here, just eating
+people and just like really strong. But in
+
+722
+01:05:26,259 --> 01:05:32,100
+the show, he was like I mentioned earlier, much
+more of a brawler, like a boxer. He was talented
+
+723
+01:05:32,240 --> 01:05:37,041
+in fighting, which I think is a cool angle.
+Moving on to the final episode, episode 10.
+
+724
+01:05:37,634 --> 01:05:42,675
+Flagging Clayface rescue, the woman Wallakatana
+destroys the skeleton, but the Enchantress
+
+725
+01:05:42,695 --> 01:05:47,497
+feels whatever she feels and goes berserk from
+pain. Peacemaker convinces the sea monster
+
+726
+01:05:47,537 --> 01:05:52,999
+to turn on Krokk and eat him. Cecilia is wounded
+and gives his enchanted armor to Deadshot,
+
+727
+01:05:53,059 --> 01:05:59,441
+granting him enhanced abilities. The Enchantress
+merges with June Moon. Now that she is free,
+
+728
+01:05:59,461 --> 01:06:04,671
+she pays back the squad by fighting the skeletons.
+Deadshot equips the rest of the squad except
+
+729
+01:06:04,711 --> 01:06:09,655
+Flag with pieces of the armor, enhancing their
+powers so they can fight the Skeleton Queen.
+
+730
+01:06:09,975 --> 01:06:15,339
+Harley and Fiona distract the Skeleton Queen
+by disguising as each other before killing
+
+731
+01:06:15,379 --> 01:06:21,583
+her. Fiona takes the throne and rewards the
+squad with a feast. Flag calls Waller to report
+
+732
+01:06:21,603 --> 01:06:27,247
+what happened and that Katana disappeared. Confused
+Waller says Katana was with her the whole time
+
+733
+01:06:27,668 --> 01:06:32,671
+and it's revealed that the Joker entered the
+Otherworld. and gained the power to shapeshift,
+
+734
+01:06:32,931 --> 01:06:38,535
+masquerading as Katana among others to manipulate
+the war for his own amusement. So out of all
+
+735
+01:06:38,575 --> 01:06:43,238
+of the Super Saiyan powers that the squad got
+when they donned the magic armor, who had the
+
+736
+01:06:43,258 --> 01:06:49,302
+best? Clayface. Clayface is pretty dope with
+the clay duplicates that he could create. Yeah,
+
+737
+01:06:49,442 --> 01:06:55,146
+that and just how he just I don't know. I just
+I like the fit. I love the fit. Yeah, that
+
+738
+01:06:55,166 --> 01:07:00,878
+was good. Yeah. His cape and everything. Yeah.
+That drip. Good. Exactly. Peacemaker was probably
+
+739
+01:07:00,898 --> 01:07:07,700
+my favorite. That like sword gun thing was hella
+cool. Yeah, it's very Final Fantasy. I really
+
+740
+01:07:07,740 --> 01:07:12,821
+liked Harley Quinn's with the top hat and the
+chains with the hyenas at the end that she
+
+741
+01:07:12,841 --> 01:07:16,302
+could control and everything like that. I thought
+that was pretty cool. Although the hyenas came
+
+742
+01:07:16,322 --> 01:07:21,704
+out of nowhere. They were like magic manifestations,
+I think. They were pretty cool. Yeah. That
+
+743
+01:07:21,804 --> 01:07:26,105
+end battle was so cool. Like I just had the
+biggest smile on my face when they were all
+
+744
+01:07:26,285 --> 01:07:31,500
+amped up with the armor. It was awesome. I was
+like, man, this show is cool. When she started
+
+745
+01:07:31,540 --> 01:07:36,984
+just literally piecing apart the Suicide Squad
+and just taking them out one by one, sending
+
+746
+01:07:37,004 --> 01:07:42,288
+them all flying, I was glued. I'm just like,
+I can't look away. Like, I need to see every
+
+747
+01:07:42,308 --> 01:07:48,493
+single one of them get their ass kicked. And
+when the dragon and Harley flew up towards
+
+748
+01:07:48,533 --> 01:07:53,157
+her, I was like, wait a second, that's not Harley.
+Like, in that moment is when I realized that
+
+749
+01:07:53,197 --> 01:07:58,141
+they did the switch. And then all of a sudden
+you see King Shark's belly get ripped open.
+
+750
+01:07:58,986 --> 01:08:04,069
+and the sword fly out of it. I was like, oh,
+I've totally forgot about that. Yeah, it was
+
+751
+01:08:04,109 --> 01:08:08,072
+cool because Fionne was saying earlier, oh,
+you know, she can only be defeated with the
+
+752
+01:08:08,112 --> 01:08:13,856
+magic sword and it's lost. I totally forgot
+that I was still in King Shark's stomach. So
+
+753
+01:08:13,916 --> 01:08:17,319
+right when, you know, she was summoning the
+sword to her and it came out of her. I was
+
+754
+01:08:17,339 --> 01:08:22,462
+like, oh snap. It just all came together. It
+was pretty awesome. I totally remembered that
+
+755
+01:08:22,482 --> 01:08:26,465
+it was still in his stomach, and I was just
+waiting for the moment that they pulled out
+
+756
+01:08:26,485 --> 01:08:29,843
+of him again. I was surprised they didn't do
+it sooner, but I guess they didn't really have
+
+757
+01:08:29,883 --> 01:08:34,625
+a good opportunity to get up to the Skeleton
+Queen prior to that point. So they needed that
+
+758
+01:08:34,646 --> 01:08:39,828
+kind of deception where she wouldn't expect
+Harley Quinn to wield the sword. So it made
+
+759
+01:08:39,868 --> 01:08:44,871
+sense. It was a good moment though, for sure.
+The end battle was just so well plotted and
+
+760
+01:08:44,911 --> 01:08:49,193
+mapped out. Even with like the finishing blow
+with Harley Quinn batting the Skeleton Queen's
+
+761
+01:08:49,253 --> 01:08:54,436
+head off into the horizon and then, you know,
+the sky turning from red to blue. It was majestic.
+
+762
+01:08:54,596 --> 01:08:59,467
+I loved the way they did it. Yeah, no, that
+was great. But that does it for the whole series.
+
+763
+01:08:59,907 --> 01:09:05,130
+I had a lot of fun with it. It was not perfect.
+There were some parts that didn't quite make
+
+764
+01:09:05,190 --> 01:09:11,473
+sense, but overall I would say I definitely
+recommend it. It's low stakes and somewhat
+
+765
+01:09:11,493 --> 01:09:16,956
+confusing narrative. Don't really drag down
+an otherwise fun and absurd anime actioner
+
+766
+01:09:17,136 --> 01:09:23,480
+with a strong squad of characters and kinetic
+visuals. I'm giving this three and a half out
+
+767
+01:09:23,500 --> 01:09:29,563
+of five stars a fresh rating on Rotten Tomatoes.
+Yeah, no, I totally agree with that. I mean,
+
+768
+01:09:29,843 --> 01:09:33,847
+personally, I would probably give it a little
+bit of a higher rating, but I came for the
+
+769
+01:09:33,887 --> 01:09:39,631
+fights and the straight up animation and I thought
+they hit the nail on the head with everything
+
+770
+01:09:39,651 --> 01:09:45,416
+they did. But when you do break it down a little
+bit more and you get into the actual story
+
+771
+01:09:45,456 --> 01:09:50,961
+and the tropes and everything, it has been played
+out quite often in many different stories that
+
+772
+01:09:50,981 --> 01:09:57,526
+have been told. So, yeah, I could agree with
+that. It's definitely fresh. I would agree
+
+773
+01:09:57,546 --> 01:10:03,388
+with a 3.5 star rating. I enjoyed it. I think
+it was definitely a successful anime adaptation
+
+774
+01:10:03,528 --> 01:10:09,790
+of these American comic book characters. I commend
+them for what they did with the action and
+
+775
+01:10:09,810 --> 01:10:14,352
+the animation and everything. I just wish that
+maybe the story was a little bit tighter or
+
+776
+01:10:14,552 --> 01:10:18,853
+coherent, I guess, fewer plot holes and stuff
+like that, but there's still a lot to like
+
+777
+01:10:18,973 --> 01:10:24,489
+within the show. Yeah, I mean, if you're showing
+up for the action, you are going to leave pleased.
+
+778
+01:10:24,689 --> 01:10:30,653
+If you're showing up for a coherent story, I
+mean, maybe anime is not always best suited
+
+779
+01:10:30,693 --> 01:10:37,218
+for that. Well, anime is very long form, right?
+So they always do drop like little things here.
+
+780
+01:10:37,518 --> 01:10:42,081
+And then, you know, maybe four seasons from
+now, we'll get an answer on what the hell they
+
+781
+01:10:42,101 --> 01:10:47,085
+were talking about in the first season. That's
+right. That usually happens a lot in long running
+
+782
+01:10:47,165 --> 01:10:54,201
+animes. So. I wouldn't really hold it against
+it because again, most animes do that. So we'll
+
+783
+01:10:54,221 --> 01:10:59,725
+probably get our answers very soon. I guess
+my assumption while watching it was that this
+
+784
+01:10:59,805 --> 01:11:03,368
+wasn't being set up for additional seasons.
+I thought it was going to be kind of a contained
+
+785
+01:11:03,448 --> 01:11:06,890
+story. I actually thought they were going to
+get out of the Isekai by the final episode.
+
+786
+01:11:06,910 --> 01:11:10,893
+That was kind of my assumption. Just watching
+it offhand. But you're right. They're definitely
+
+787
+01:11:10,933 --> 01:11:15,136
+playing the long game with this story. I hope
+they are. I hope we get more seasons out of
+
+788
+01:11:15,216 --> 01:11:19,687
+it. I hope a lot of people watch it and it becomes
+successful. Because I do think, as we mentioned
+
+789
+01:11:19,747 --> 01:11:24,891
+earlier, that this is probably the coolest version
+of the Suicide Squad that has been translated
+
+790
+01:11:25,012 --> 01:11:30,997
+onto the screen. As good as James Gunn's film
+was, as cool as the characters looked in David
+
+791
+01:11:31,077 --> 01:11:36,902
+Ayer's version, they don't top this. I would
+agree. No, I agree. I totally agree. Yeah.
+
+792
+01:11:36,963 --> 01:11:42,247
+But thanks for coming on board to review this
+series with us, Zach. I can't imagine having
+
+793
+01:11:42,307 --> 01:11:47,315
+done this review without your insight. I'll
+tell you right now, you actually changed Jonathan's
+
+794
+01:11:47,355 --> 01:11:51,938
+rating from three stars to three and a half
+stars. Oh, wow. With your enthusiasm. And I
+
+795
+01:11:51,978 --> 01:11:56,842
+think you just made both of us realize that
+yeah, this is actually a solid show for sure.
+
+796
+01:11:57,242 --> 01:12:01,145
+Awesome. Well, I appreciate you guys for having
+me on. And yeah, that makes me happy that,
+
+797
+01:12:01,165 --> 01:12:05,668
+you know, I just kind of got more people excited
+for anime. Like that's my job. You know what
+
+798
+01:12:05,688 --> 01:12:10,391
+I mean? That's what I got to do. So. It worked.
+It worked for sure. Don't forget, guys, to
+
+799
+01:12:10,471 --> 01:12:16,043
+check out Zach's show, Sinjo World, part of
+the Dynamite Network. And also stay tuned for
+
+800
+01:12:16,123 --> 01:12:21,267
+a new show that Zach is developing. And we'll
+be announcing that later on our show. Senjoworld,
+
+801
+01:12:21,567 --> 01:12:26,492
+it's great. I love being part of the Dynamite
+Network. And this week, the battle that we
+
+802
+01:12:26,512 --> 01:12:32,697
+have set up was actually pretty fun. Me and
+my buddy DJ Tom had a pretty good time going
+
+803
+01:12:32,717 --> 01:12:38,722
+back and forth with this battle. And in lieu
+of last week's review, I'm doing a Sailor Moon
+
+804
+01:12:38,762 --> 01:12:43,719
+versus Dragon Ball Z fight. Oh shit, nice. That's
+pretty exciting. Super glad to have you as
+
+805
+01:12:43,739 --> 01:12:47,607
+part of the network. We'll have to have you
+on again at some point in the future. Always
+
+806
+01:12:47,627 --> 01:12:51,876
+great talking to you. And we'll talk to you
+later. Sayonara. Well, that does it for the
+
+807
+01:12:51,916 --> 01:12:59,367
+review. AJ9K, help close this out. Thanks for
+listening to Dynamic Dual. Visit the show's
+
+808
+01:12:59,387 --> 01:13:05,290
+website at dynamicdual.com and follow us on
+Instagram at dynamicdualpodcast. You can support
+
+809
+01:13:05,330 --> 01:13:11,034
+the show on Patreon at patreon.com slash dynamicdual
+and joining a tier that works for you, or by
+
+810
+01:13:11,094 --> 01:13:17,257
+rating and reviewing Dynamic Dual on Apple Podcasts,
+Spotify, Podchaser or on our website. Don't
+
+811
+01:13:17,297 --> 01:13:21,820
+forget to listen to the other shows in the Dynamite
+Podcast Network, including Max Destruction,
+
+812
+01:13:22,180 --> 01:13:28,919
+Senjow World and Console Combat. In our next
+episode, as we mentioned earlier, we will be
+
+813
+01:13:28,979 --> 01:13:36,683
+doing a team duel between DC's The Outsiders
+team and Marvel's X-Force. That's going to
+
+814
+01:13:36,703 --> 01:13:41,426
+be a lot of fun. X-Force is going to have characters
+like Cable and Deadpool on it. And I think
+
+815
+01:13:41,446 --> 01:13:45,668
+you guys are in for quite a treat, as all of
+our team duel episodes are. And this is kind
+
+816
+01:13:45,708 --> 01:13:50,691
+of a tie in duel to this review, because my
+Outsiders team is going to have Katana on it,
+
+817
+01:13:51,051 --> 01:13:55,073
+along with, you know, like Black Lightning and
+Geo Force, it's going to be an awesome episode.
+
+818
+01:13:55,542 --> 01:13:59,623
+Look forward to that next week! That does it
+for this episode, we want to give a big thanks
+
+819
+01:13:59,663 --> 01:14:05,124
+to our executive producers Ken Johnson, John
+Strosky, Zachary Hepburn, Dustin Balcom, Miggy
+
+820
+01:14:05,164 --> 01:14:10,226
+Methan-Geehan, Brandon Estregard, Nathaniel
+Wagner, Levi Yaiten, Austin Wazolowski, AJ
+
+821
+01:14:10,266 --> 01:14:16,267
+Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Andrew Shunk, Dean Maleski, Devin Davis,
+
+822
+01:14:16,447 --> 01:14:21,409
+Joseph Kersting, and Josh Leiner for helping
+make this podcast possible. And we'll talk
+
+823
+01:14:21,429 --> 01:14:26,864
+to you guys next week. Up up and away, true
+believers. My anime kink is future dystopian
+
+824
+01:14:26,945 --> 01:14:28,413
+cyberpunk mecha mommy milkers.
+
