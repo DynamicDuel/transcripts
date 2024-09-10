@@ -1,0 +1,3207 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a DynaMic Network podcast.
+
+2
+00:00:24,174 --> 00:00:28,195
+Hi and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+3
+00:00:28,495 --> 00:00:33,216
+and debate the superiority between Marvel and
+DC by comparing their characters in stat-based
+
+4
+00:00:33,276 --> 00:00:39,618
+battle simulations. I'm Marvelous Joe. And I'm
+his twin brother Johnny DC. And this episode
+
+5
+00:00:39,658 --> 00:00:45,320
+guys, it's a big one. It's a big milestone team
+duel episode, which we do every 25 episodes
+
+6
+00:00:45,460 --> 00:00:51,101
+or so. We're going to find out who would win
+in a fight between the outsiders and X-Force.
+
+7
+00:00:51,630 --> 00:00:57,794
+The Outsiders is a badass DC group started by
+Batman consisting of characters like Black
+
+8
+00:00:57,834 --> 00:01:03,599
+Lightning and Katana, and X-Force is a badass
+Marvel group consisting of characters like
+
+9
+00:01:03,759 --> 00:01:09,364
+Cable and Deadpool. Yeah, they're borderline
+street level teams, but they also have some
+
+10
+00:01:09,424 --> 00:01:14,748
+real powerhouses and some really cool characters.
+Yeah, this particular team duel was determined
+
+11
+00:01:14,788 --> 00:01:19,891
+by our executive producers and... We've been
+building toward it for a few months now, and
+
+12
+00:01:20,071 --> 00:01:24,454
+I'm really excited to see who's going to win
+between these two groups. Of course, this isn't
+
+13
+00:01:24,474 --> 00:01:28,216
+the first team duel that we've done. We've done
+lots of other team duels. I think we've done
+
+14
+00:01:28,236 --> 00:01:34,708
+like 11 of them now, including... Justice League
+vs Avengers Titans vs X-Men Justice Society
+
+15
+00:01:34,748 --> 00:01:40,652
+vs Fantastic Four Suicide Squad vs Defenders
+Justice League Dark vs The Midnight Suns Arkham
+
+16
+00:01:40,712 --> 00:01:47,117
+Asylum vs Sinister Six Young Justice vs Young
+Avengers The Flash's Rogues vs The Brotherhood
+
+17
+00:01:47,137 --> 00:01:52,921
+of Mutants Doom Patrol vs Guardians of the Galaxy
+We did a special last Halloween, Deceased vs
+
+18
+00:01:52,961 --> 00:01:58,324
+Marvel Zombies and the Legion of Doom vs. Masters
+of Evil. If any of those strike your fancy,
+
+19
+00:01:58,444 --> 00:02:02,686
+definitely go check out our Team Duel episodes.
+In addition to this episode, because, you know,
+
+20
+00:02:02,706 --> 00:02:07,149
+they're big ones. They're a lot of fun. A lot
+of work goes into them. So much work. Yeah,
+
+21
+00:02:07,649 --> 00:02:13,032
+it's worth it, though. And we hope you guys
+enjoy our four hundred and first episode. Episode
+
+22
+00:02:13,052 --> 00:02:17,682
+400 was actually our Suicide Squad Isekai review.
+But before we get into that team duel, we're
+
+23
+00:02:17,702 --> 00:02:20,903
+going to go over the latest comic book movie
+news to come out this past week, of which there
+
+24
+00:02:20,923 --> 00:02:26,104
+was just one news item, and that was that Marvel
+television executive, Brad Winterbaum, has
+
+25
+00:02:26,144 --> 00:02:31,526
+confirmed that Nova will be a television series.
+As always, we list our segment times in our
+
+26
+00:02:31,566 --> 00:02:35,307
+episode description, so feel free to check out
+the show notes if you want to skip ahead to
+
+27
+00:02:35,347 --> 00:02:41,669
+a particular topic. Our artificially intelligent
+duel simulator, AJ9K, has a quick message for
+
+28
+00:02:41,709 --> 00:02:48,783
+our listeners, so listen up. Why hello there,
+do you want even more from this podcast? Then
+
+29
+00:02:48,823 --> 00:02:52,785
+become a part of the dynamic duel community
+on Patreon, where you can choose from three
+
+30
+00:02:52,805 --> 00:02:58,167
+tiers. The dynamic two-oh tier gives you access
+to our Discord chat server. The fantastic four
+
+31
+00:02:58,207 --> 00:03:02,529
+tier gives you two bonus episodes each month,
+and the X-Force tier makes you an executive
+
+32
+00:03:02,549 --> 00:03:07,880
+producer of this show. Lastly, The DynaMic
+Podcast Network tier lets you create your own
+
+33
+00:03:07,920 --> 00:03:12,903
+podcast using this Monte Carlo simulator. Johnny
+and Joe will help you develop your show, provide
+
+34
+00:03:12,943 --> 00:03:17,946
+graphic support and consultation, and get you
+simulation results. Pitch the twins your ideas
+
+35
+00:03:17,986 --> 00:03:24,171
+via email at dynamicduelpodcast at gmail.com.
+Check it out at patreon.com slash dynamicduel.
+
+36
+00:03:24,531 --> 00:03:31,275
+Pip pip cheerio. Thanks AJ9K and thanks to everyone
+who supports the podcast. Be sure to tune into
+
+37
+00:03:31,315 --> 00:03:36,342
+the other shows in the DynaMic Podcast Network
+this week. including Max Destruction, which
+
+38
+00:03:36,402 --> 00:03:40,784
+pits your favorite action heroes from film and
+television against each other. This week, hosts
+
+39
+00:03:41,024 --> 00:03:47,807
+Scotty and Gilly are pitting Neo from The Matrix
+against Gabriel Yulaw from The One. On the
+
+40
+00:03:47,907 --> 00:03:52,849
+Senjou World podcast, host Zachary Hepburn speculates
+on fights between fan favorite anime and manga
+
+41
+00:03:52,889 --> 00:03:58,812
+characters. This Thursday, Zach will be finding
+out who'd win between Toji Fushiguro from Jujutsu
+
+42
+00:03:58,852 --> 00:04:05,210
+Kaisen and Rock Lee from Naruto. On the Console
+Combat podcast, hosts John and Dean find out
+
+43
+00:04:05,230 --> 00:04:09,632
+who would win in fights between popular video
+game characters. In yesterday's episode, they
+
+44
+00:04:09,672 --> 00:04:14,655
+determined who would win between Craig Boone
+from Fallout and Sniper Wolf from Metal Gear.
+
+45
+00:04:15,095 --> 00:04:19,357
+Visit dynamicpodcasts.com or click the link
+in our show notes to listen to all the shows
+
+46
+00:04:19,417 --> 00:04:26,240
+in the DynaMic Podcast Network. But with that
+out of the way, quick, to the no prize! A no
+
+47
+00:04:26,260 --> 00:04:30,831
+prize is an award Marvel used to give out to
+fans. Our version, the Dynamic Duel No Prize,
+
+48
+00:04:31,091 --> 00:04:35,793
+is a digital award that we posted on Instagram
+for the person that we feel gave the best answer
+
+49
+00:04:35,814 --> 00:04:41,777
+to our question of the week. Last week we asked,
+out of the 400 episodes we've done, what has
+
+50
+00:04:41,817 --> 00:04:46,820
+been your favorite episode of Dynamic Duel so
+far, and why? And I thought we would get a
+
+51
+00:04:46,900 --> 00:04:53,323
+ton of answers. We got three. Which is disappointing,
+but you know, I think we've asked this question
+
+52
+00:04:53,343 --> 00:04:57,402
+a few times already, so it makes sense that
+we would get diminishing returns on it. We
+
+53
+00:04:57,422 --> 00:05:03,226
+got two honorable mentions and a no prize winner.
+Our first honorable mention goes to Miggy Mathengian,
+
+54
+00:05:03,586 --> 00:05:08,150
+who said, Hey, what's up, guys? This is Miggy.
+And my favorite episode of your guys's is the
+
+55
+00:05:08,190 --> 00:05:14,354
+Titans versus X-Men team duel. It just came
+out at a time when I had finished catching
+
+56
+00:05:14,374 --> 00:05:19,978
+up on all of your backlog and I was listening
+to episodes weekly. And the Titans are like
+
+57
+00:05:20,439 --> 00:05:25,374
+my favorite team and some of my favorite characters.
+So it was just kind of that sweet spot. Also
+
+58
+00:05:25,454 --> 00:05:30,335
+the Batman review with the Spies Brothers, the
+Batman movie with the Spies Brothers, the 60s
+
+59
+00:05:30,435 --> 00:05:36,137
+one, hilarious. Thanks guys. Yes, we have definitely
+asked this question before and Mickey has responded
+
+60
+00:05:36,497 --> 00:05:40,898
+with those same answers. But just hearing his
+choices again reminds me of how much fun I
+
+61
+00:05:40,918 --> 00:05:45,919
+have doing this podcast. It makes me feel like
+we peaked years ago on this show. Totally.
+
+62
+00:05:45,959 --> 00:05:51,541
+His answers have not changed. That's true. We
+keep putting out new episodes, but apparently
+
+63
+00:05:51,581 --> 00:05:57,822
+they're not getting any better than those I
+mean it is the Titans and X-Men. Well, maybe
+
+64
+00:05:57,842 --> 00:06:03,084
+the X-Force episode will be better. We'll see.
+Yeah, cause Outsiders is kind of Titans adjacent
+
+65
+00:06:03,384 --> 00:06:09,466
+and X-Force is X-Men adjacent. We'll see. No
+pressure, no pressure. Thanks, Miggy, for your
+
+66
+00:06:09,526 --> 00:06:15,527
+answer. Our next honorable mention goes to Travis
+Herndon, who said. What's up, DynamaDews? Travis
+
+67
+00:06:15,547 --> 00:06:22,449
+here, shout out to my other twins. So my answer
+would have to be your video on Poison Ivy versus
+
+68
+00:06:22,649 --> 00:06:27,913
+Emma Frost's battle. That one to me was definitely
+the funniest from you guys' back and forth.
+
+69
+00:06:27,933 --> 00:06:35,139
+You know how the fight was slowly going from
+this actual fight to this hot and steamy, sexy
+
+70
+00:06:35,719 --> 00:06:40,863
+time and you guys had to be stopping yourselves
+over and over again. So that had to be my pick,
+
+71
+00:06:40,963 --> 00:06:47,889
+the Poison Ivy vs Emma Frost. Yeah, that's embarrassing.
+Really the only quasi-sexy thing that I remember
+
+72
+00:06:47,909 --> 00:06:54,298
+from that duel is when Poison Ivy cracked Emma
+Frost's diamond form. And Jonathan said that
+
+73
+00:06:54,338 --> 00:07:02,402
+the crack was the crack of the ass. Ridiculous.
+But yeah, Jonathan does that type of shit all
+
+74
+00:07:02,422 --> 00:07:07,325
+the time when it comes to the femme fatale duels
+and he's working on it. He's trying to do better.
+
+75
+00:07:08,666 --> 00:07:13,849
+I literally cannot deny it because our patrons
+have access to our blooper reels from when
+
+76
+00:07:13,869 --> 00:07:20,332
+we did like Catwoman versus Hellcat. I'm not
+proud of it, but I am amused by it. Great answer,
+
+77
+00:07:20,352 --> 00:07:25,831
+Travis. But the winner of this week's snow prize
+is. Kat Stevenson who said, Hi guys, it's Kat
+
+78
+00:07:25,871 --> 00:07:32,736
+again. And recently I went to the Seattle Museum
+of Pop Culture where I got to see the Batman
+
+79
+00:07:32,776 --> 00:07:37,759
+and Robin suit. Seeing the Bat nipples in real
+life made me realize that my favorite episode
+
+80
+00:07:38,680 --> 00:07:46,966
+is your Batman and Robin review. That movie
+is absolutely bat shit crazy. And just getting
+
+81
+00:07:47,006 --> 00:07:51,949
+to listen to you guys rant about a horrible
+movie is amazing. I love that episode and I
+
+82
+00:07:51,989 --> 00:07:57,312
+love you guys. Thank you so much. Thanks, Kat.
+Yeah, this episode got the win largely because
+
+83
+00:07:57,372 --> 00:08:01,195
+I was just really surprised by the answer. I've
+never heard this before. Actually, I remember
+
+84
+00:08:01,215 --> 00:08:06,098
+when we did that review of Batman and Robin,
+we got some flack from some listeners who just
+
+85
+00:08:06,258 --> 00:08:10,660
+knew the movie was bad and didn't want to hear
+a review on it. I guess not recognizing that,
+
+86
+00:08:11,081 --> 00:08:15,623
+you know, we're trying to review all the Marvel
+and DC movies whether they're new or old. Good
+
+87
+00:08:15,743 --> 00:08:22,123
+or bad. Right. And holy cow, Batman and Robin.
+is bad. Even revealing it, I'm like, this review
+
+88
+00:08:22,183 --> 00:08:27,705
+is way worse than I even remembered it being.
+I'm glad someone liked the review because I
+
+89
+00:08:27,765 --> 00:08:32,707
+sure did not enjoy writing it. But the best
+part about that whole experience was probably
+
+90
+00:08:32,767 --> 00:08:38,469
+recording our review and just cracking up. So
+yeah, brought back some good memories. Thanks,
+
+91
+00:08:38,509 --> 00:08:42,431
+Kat Stevenson. Congrats on winning this week's
+No Prize. If you the listener want a shot at
+
+92
+00:08:42,471 --> 00:08:46,673
+winning your own No Prize, stay tuned to later
+on this episode when we'll be asking another
+
+93
+00:08:46,973 --> 00:08:50,543
+question of the week. And now that that's done.
+On to the news!
+
+94
+00:08:55,938 --> 00:09:01,380
+This past week, Brad Winterbaum, who is the
+Marvel Studios Head of Streaming, Television,
+
+95
+00:09:01,460 --> 00:09:08,523
+and Animation, guested on a podcast called the
+Phase Zero Podcast. And on the show, Winterbaum
+
+96
+00:09:08,603 --> 00:09:13,885
+confirmed that Nova is getting a Disney Plus
+television series. Now, I think a lot of us
+
+97
+00:09:13,985 --> 00:09:17,787
+have assumed that for quite a while or we've
+known that. But what was interesting about
+
+98
+00:09:17,827 --> 00:09:22,869
+this reveal that Nova is going to be a television
+show is that Brad Winterbaum described the
+
+99
+00:09:22,909 --> 00:09:29,869
+series as having shades of both Star Trek and
+Battlestar Galactica, which both of those shows
+
+100
+00:09:29,990 --> 00:09:36,175
+are long running fan-loved sci-fi franchises.
+So this can only mean good things for a Nova
+
+101
+00:09:36,235 --> 00:09:40,198
+series. Actually, you know what? I thought the
+most interesting thing about that was, of course,
+
+102
+00:09:40,258 --> 00:09:45,482
+Marvel would be doing a Nova series after the
+Green Lantern series was greenlit by Warner
+
+103
+00:09:45,502 --> 00:09:50,666
+Brothers. Because why wouldn't they? Because
+they're a bunch of copiers. I'm sorry. The
+
+104
+00:09:50,686 --> 00:09:56,286
+Green Lantern series has been described as true
+detective in space. whereas the Nova series
+
+105
+00:09:56,326 --> 00:10:01,489
+is being described as Star Trek and Battlestar
+Galactica. Now which one of those other television
+
+106
+00:10:01,509 --> 00:10:07,371
+show comparisons seems more appropriate for
+an intergalactic, spacefaring, peacekeeping
+
+107
+00:10:07,411 --> 00:10:13,634
+core out in the galaxy? You tell me. True Detective
+or Star Trek? Now when you say appropriate,
+
+108
+00:10:13,694 --> 00:10:20,477
+do you mean like interesting? Because True Detective!
+I mean both. True Detective. Dude, Star Trek?
+
+109
+00:10:21,010 --> 00:10:26,273
+Meets Battlestar Galactica. It's a big done
+before. It's called Star Trek and Battlestar
+
+110
+00:10:26,293 --> 00:10:33,818
+Galactica. True Detection has been done before.
+But now what? I have space, bro. OK, come on.
+
+111
+00:10:33,838 --> 00:10:38,922
+Oh, let's see Star Trek in space. I wonder what
+that's like. Fucking awesome. That's what it's
+
+112
+00:10:38,942 --> 00:10:45,226
+like. Now, Brad Winterbaum said that it's going
+to be an ensemble piece. So it looks like the
+
+113
+00:10:45,246 --> 00:10:49,869
+series is not just going to focus on one Nova
+like Richard Ryder or maybe Sam Alexander.
+
+114
+00:10:50,230 --> 00:10:54,491
+It's going to focus on the entire Nova Corps
+and perhaps what happens to them after Zandar
+
+115
+00:10:54,511 --> 00:10:59,592
+is destroyed. I would prefer the Nova Corps
+and the Gromund Day to visit Earth, recruit
+
+116
+00:10:59,732 --> 00:11:04,654
+Richard Ryder, and then restart the Nova Corps.
+I think that'd be a great premise. But really
+
+117
+00:11:04,674 --> 00:11:10,735
+the MCU is focusing more on the Nova Corps itself,
+the entire team, as opposed to one individuel
+
+118
+00:11:11,055 --> 00:11:15,137
+Corps member. We saw in the first Guardians
+of the Galaxy film where we were introduced
+
+119
+00:11:15,157 --> 00:11:20,090
+to the Corps on Zandar, how the Nova Corps were
+more like a... police force than a group of
+
+120
+00:11:20,170 --> 00:11:24,453
+superheroes, you know, they didn't fly around
+on their own. They flew around in Nova Corps
+
+121
+00:11:24,493 --> 00:11:30,616
+spaceships. And the way the Nova Force manifested
+was like an energy force field linked between
+
+122
+00:11:30,636 --> 00:11:35,279
+their ships and stuff like that. It was really
+fascinating. And it'll be really interesting
+
+123
+00:11:35,319 --> 00:11:40,282
+to see where they take that concept with this
+Nova Corps series, especially considering that
+
+124
+00:11:40,342 --> 00:11:44,544
+Xandar has been destroyed. I'm actually not
+surprised they're making it an ensemble considering
+
+125
+00:11:44,584 --> 00:11:49,483
+some of the cast members they've had. in the
+Nova Corps and past movies like John C. Reilly
+
+126
+00:11:49,643 --> 00:11:53,704
+and Glenn Close. You know, if you could get
+those actors to come back, maybe even for like
+
+127
+00:11:53,784 --> 00:11:58,246
+a brief appearance, that'd be pretty cool. But
+also, I'm not surprised that it's an ensemble
+
+128
+00:11:58,306 --> 00:12:05,249
+because a lead character named Dick Ryder is
+not for Disney+. You are the first person to
+
+129
+00:12:05,289 --> 00:12:11,712
+ever make that joke. I mean, I try. Now, Richard
+Ryder is a great character. If you guys want
+
+130
+00:12:11,732 --> 00:12:16,502
+to learn more about him, definitely check out
+our duel episode between him and Hal Jordan
+
+131
+00:12:16,562 --> 00:12:22,684
+Green Lantern. Actually, speaking of Green Lantern,
+rumors are a swirling about who they are going
+
+132
+00:12:22,724 --> 00:12:29,026
+to cast as Hal Jordan. The list includes Josh
+Brolin, Thanos himself, Matthew McConaughey,
+
+133
+00:12:29,246 --> 00:12:35,428
+Ewan McGregor, Chris Pine, and Timothy Olyphant.
+And I gotta say, that's a solid lineup. I'd
+
+134
+00:12:35,448 --> 00:12:39,189
+be happy with any one of those. Yeah, I'd be
+happy with any of those except for Josh Brolin,
+
+135
+00:12:39,309 --> 00:12:42,651
+I think. He just doesn't feel like Hal Jordan
+to me. But it seems like they're going with
+
+136
+00:12:42,691 --> 00:12:48,198
+an older actor for Hal Jordan and a younger
+actor for Jon Stewart. Yeah, yeah, that's their
+
+137
+00:12:48,238 --> 00:12:52,904
+plan, allegedly. But speaking of Nova and Green
+Lantern, that brings us to our question of
+
+138
+00:12:52,924 --> 00:12:53,205
+the week.
+
+139
+00:12:57,582 --> 00:13:03,766
+Who would you cast as Richard Ryder in the Nova
+series, and Hal Jordan and Jon Stewart in the
+
+140
+00:13:03,806 --> 00:13:09,089
+Green Lantern series? Record your answer at
+dynamicduel.com by clicking on the red microphone
+
+141
+00:13:09,109 --> 00:13:12,932
+button in the bottom right hand corner of the
+screen, which will prompt you to leave us a
+
+142
+00:13:12,992 --> 00:13:17,735
+voicemail. Your message can be up to 30 seconds
+long, and don't forget to leave your name in
+
+143
+00:13:17,755 --> 00:13:22,198
+case we include you on the podcast. We'll pick
+our favorite answer, and award that person
+
+144
+00:13:22,278 --> 00:13:28,029
+a dynamic duel no prize that we'll post to Instagram.
+Be sure to answer before... September 14th.
+
+145
+00:13:35,278 --> 00:13:38,240
+Well that does it for all the news for this
+episode, so let's go ahead and get into our
+
+146
+00:13:38,280 --> 00:13:44,364
+main event where we find out who'd win in a
+fight between DC's The Outsiders and Marvel's
+
+147
+00:13:44,885 --> 00:13:45,365
+X-Force.
+
+148
+00:14:00,642 --> 00:14:06,065
+Alright, Outsiders vs X-Force. These are two
+badass teams that I think are largely well
+
+149
+00:14:06,105 --> 00:14:11,448
+known for their respective fan bases. X-Force
+is definitely well known even amongst non-comic
+
+150
+00:14:11,468 --> 00:14:18,312
+book readers because the team made a cameo appearance
+on the Deadpool 2 movie. Yeah, and the Outsiders
+
+151
+00:14:18,332 --> 00:14:24,295
+had an entire season dedicated to them in the
+Young Justice animated series from DC. Which
+
+152
+00:14:24,335 --> 00:14:30,062
+is not the same level of popularity as a theatrical
+release. Nobody watches this cartoon that you're
+
+153
+00:14:30,082 --> 00:14:35,264
+talking about. The only people that would know
+who the outsiders are actual DC comic book
+
+154
+00:14:35,304 --> 00:14:40,465
+fans, I think. Bitch, you don't know people's
+lives? Show me the numbers. Prove me wrong.
+
+155
+00:14:40,625 --> 00:14:45,887
+Prove yourself right. The burden on proof is
+on you, I think. I'm just gonna say that it
+
+156
+00:14:45,947 --> 00:14:50,348
+is. You have to prove me wrong. That's how it
+works. We'll tell everybody out there who are
+
+157
+00:14:50,408 --> 00:14:56,091
+not quite familiar with who the outsiders are
+their basic gist. The idea of the outsiders
+
+158
+00:14:56,231 --> 00:15:01,976
+is that they can do things and go places that
+the Justice League cannot. And the X-Force
+
+159
+00:15:01,996 --> 00:15:07,020
+are kind of exactly the same when it comes to
+the X-Men. Like the X-Force go out and do things
+
+160
+00:15:07,220 --> 00:15:11,484
+outside of the scope of your standard X-Men
+mission. You know, they're often considered
+
+161
+00:15:11,624 --> 00:15:17,309
+outlaws for their more extreme, brutal methods.
+You know, they're a product of the extreme
+
+162
+00:15:17,389 --> 00:15:23,694
+80s and 90s. They're also a product of the outsiders,
+because the outsiders can first... and they
+
+163
+00:15:23,734 --> 00:15:28,796
+did all that stuff first. How do you know that
+the Outsiders came first? Because the X-Force
+
+164
+00:15:28,876 --> 00:15:33,959
+came out in like the early 90s, I'm pretty sure,
+and the Outsiders were around before Crysis.
+
+165
+00:15:34,500 --> 00:15:39,842
+Well X-Force came out in 1991. Okay, yeah, so
+I'm right. Again it doesn't matter who came
+
+166
+00:15:39,882 --> 00:15:44,045
+out first, it matters who did it better. And
+we're going to find out which team is better
+
+167
+00:15:44,105 --> 00:15:49,208
+in this episode, but to explain the methodology
+behind our team duels, let's go to our sentient
+
+168
+00:15:49,248 --> 00:15:55,423
+duel simulator Alfred Jarvis 9000. Tell our
+listeners how you go about determining a winner
+
+169
+00:15:55,623 --> 00:16:00,885
+in our team duel matchups. Yes, of course, sir.
+The way I determine a winner between the two
+
+170
+00:16:00,925 --> 00:16:06,047
+teams is by running 1,000 Monte Carlo simulations
+between every character on each team using
+
+171
+00:16:06,087 --> 00:16:11,570
+their statistics. A Monte Carlo simulation is
+a probabilistic model used to determine outcomes
+
+172
+00:16:11,610 --> 00:16:16,812
+through random sampling. In this case, I randomize
+the statistics along a normal distribution
+
+173
+00:16:17,152 --> 00:16:21,750
+as a way to simulate the many variables that
+can occur during battle. The stat parameters
+
+174
+00:16:21,790 --> 00:16:26,172
+are based on the official Marvel power grid,
+from which the DC characters' statistics are
+
+175
+00:16:26,212 --> 00:16:32,214
+extrapolated. Additional stat categories are
+included such as range, damage potential, versatility
+
+176
+00:16:32,335 --> 00:16:37,357
+and perception, in order to create a more detailed
+and accurate simulation. The results of the
+
+177
+00:16:37,397 --> 00:16:42,899
+49,000 simulations provide a percentage of wins
+for each character on both teams. The team
+
+178
+00:16:42,919 --> 00:16:46,981
+with the higher average win rate is declared
+the victor, as they have a higher probability
+
+179
+00:16:47,021 --> 00:16:52,537
+to win any given battle. In an equitable pairing,
+neither team should win 100% of the matches.
+
+180
+00:16:52,898 --> 00:16:57,142
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman, so
+
+181
+00:16:57,182 --> 00:17:01,045
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+182
+00:17:01,065 --> 00:17:06,671
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+183
+00:17:06,691 --> 00:17:12,656
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+184
+00:17:12,676 --> 00:17:17,999
+Thanks, Adrian, I'm K. Before we run the simulations
+though, we like to break down each team's histories
+
+185
+00:17:18,039 --> 00:17:24,400
+and rosters before improvising a scenario on
+how we imagine one of the thousands of simulations
+
+186
+00:17:24,440 --> 00:17:29,262
+we run would play out beat for beat. And it's
+my turn to go first with the Marvel team's
+
+187
+00:17:29,302 --> 00:17:34,683
+backstory, so let me go ahead and tell you all
+about X-Force. The origins of the X-Force team
+
+188
+00:17:34,723 --> 00:17:39,844
+are actually found within another group known
+as the New Mutants, a team of young heroes
+
+189
+00:17:39,904 --> 00:17:44,962
+formed by Professor X when he mistakenly believed
+his X-Men had perished. Though the Professor
+
+190
+00:17:44,982 --> 00:17:49,924
+was reluctant to form a new team, Xavier decided
+that he could still mentor young mutants in
+
+191
+00:17:49,944 --> 00:17:55,327
+the use of their powers without sending them
+into combat. However, combat found the young
+
+192
+00:17:55,367 --> 00:17:59,589
+team and the new mutants were in near constant
+struggles against outside enemies and their
+
+193
+00:17:59,709 --> 00:18:04,771
+own inner demons despite Professor X's wishes.
+You can learn more about Professor X and his
+
+194
+00:18:04,811 --> 00:18:10,846
+duel against the Chief and more about the X-Men
+in their team duel against the Titans. Eventually,
+
+195
+00:18:11,066 --> 00:18:17,228
+the time traveling cyborg mutant soldier named
+Cable took charge of the new mutants and restructured
+
+196
+00:18:17,268 --> 00:18:21,390
+it into a strike team that would take a more
+proactive approach against threats against
+
+197
+00:18:21,490 --> 00:18:27,793
+mutant kind. More specifically, against threats
+posed by Cable's clone named Strife, who had
+
+198
+00:18:27,853 --> 00:18:33,695
+formed a terrorist mutant group called the Mutant
+Liberation Front. Cable took the young heroes
+
+199
+00:18:33,775 --> 00:18:38,917
+under his wing, radicalizing them in his more
+extreme methods, which prompted several members
+
+200
+00:18:38,977 --> 00:18:45,990
+to leave. including Warlock, Wolfsbane, Richter,
+and Sunspot, leaving only Cannonball and Boom
+
+201
+00:18:46,370 --> 00:18:52,414
+left on the team. This resulted in Cable recruiting
+new members, Warpath, Shatterstar, Feral, and
+
+202
+00:18:52,534 --> 00:18:58,218
+Domino. Together they formed a new group that
+Cable monocled X-Force, a group existing between
+
+203
+00:18:58,258 --> 00:19:03,982
+Professor X's pacifist ideals and Magneto's
+hostile aggression. The team fought against
+
+204
+00:19:04,062 --> 00:19:09,145
+Genesis, a disciple of Apocalypse who hired
+their mercenary Deadpool to attack X-Force.
+
+205
+00:19:09,666 --> 00:19:14,890
+They also battled Strife's Mutant Liberation
+Front, Juggernaut and Black Tom Cassidy, the
+
+206
+00:19:14,930 --> 00:19:20,915
+Immortal Mutant Externals, the Parasitic Phalanx
+Aliens, and even the International Espionage
+
+207
+00:19:20,975 --> 00:19:26,801
+Organization SHIELD after getting on their radar
+for their brutal, uncompromising methods. In
+
+208
+00:19:26,821 --> 00:19:31,705
+their adventures, they brought on new recruits
+including Siren, Caliban, Meltdown, Bedlam,
+
+209
+00:19:31,865 --> 00:19:37,622
+and Mirage. When Strife framed Cable for an
+assassination attempt on Professor X, X-Force
+
+210
+00:19:37,662 --> 00:19:42,366
+found themselves without a mentor for a time.
+They were taken under the guidance of the mutant
+
+211
+00:19:42,386 --> 00:19:48,391
+British spy, Pete Wisdom, but they disbanded
+not long after. Eventually the cast of a mutant
+
+212
+00:19:48,431 --> 00:19:53,935
+reality TV show took the name X-Force for their
+group, prompting the original team to confront
+
+213
+00:19:53,975 --> 00:19:59,620
+them and they changed their name to X-Statics.
+Later the Scarlet Witch used her reality warping
+
+214
+00:19:59,660 --> 00:20:04,844
+powers during a psychotic break to remove most
+of the world's mutant abilities in an event
+
+215
+00:20:04,904 --> 00:20:10,987
+known as M-Day. When Earth's first new mutant
+was born, groups around the world raced to
+
+216
+00:20:11,027 --> 00:20:17,010
+find her, either seeking to protect, experiment
+on, or destroy her. As part of the search,
+
+217
+00:20:17,230 --> 00:20:22,252
+Cyclops formed a strike force within the X-Men
+team to find the child and protect her from
+
+218
+00:20:22,332 --> 00:20:28,835
+all threats, creating a new iteration of X-Force,
+this time led by Wolverine and consisting of
+
+219
+00:20:28,855 --> 00:20:36,186
+X-23, Warpath, Caliban, and Hepzibah. Ultimately,
+it was Cable acting on his own, who was able
+
+220
+00:20:36,226 --> 00:20:41,067
+to secure the child, naming her Hope Summers
+and taking her into the future to protect her.
+
+221
+00:20:41,607 --> 00:20:46,529
+Cyclops retained X-Force as a secret black ops
+team tasked with eliminating potential threats
+
+222
+00:20:46,549 --> 00:20:52,430
+to mutant kind, including William Stryker and
+his purifiers, and Mr. Sinister and his marauders.
+
+223
+00:20:53,050 --> 00:20:57,752
+Archangel joined the team, and the group operated
+out of his area estate in the Colorado Rocky
+
+224
+00:20:57,792 --> 00:21:02,433
+Mountains. They were also joined by Domino and
+Deadpool when they were sent to the future
+
+225
+00:21:02,493 --> 00:21:08,880
+to help After saving the two and returning to
+the present, the team relocated to an island
+
+226
+00:21:08,920 --> 00:21:13,943
+base off the coast of San Francisco. There,
+X-Force fought against the mutant Succubus
+
+227
+00:21:13,983 --> 00:21:20,487
+Selene and her undead army, and later Bastion
+and his battalion of Nimrod Sentinels. Eventually,
+
+228
+00:21:20,587 --> 00:21:26,350
+Cyclops determined the strike force was no longer
+necessary, and he had X-Force disbanded. However,
+
+229
+00:21:26,390 --> 00:21:31,393
+Wolverine kept it going in secret, bringing
+aboard Psylocke and Phantom X to the team.
+
+230
+00:21:31,842 --> 00:21:36,524
+They battled the resurrected Apocalypse and
+his four horsemen, and the cybernetic Reavers,
+
+231
+00:21:36,904 --> 00:21:42,087
+during which the zombie cyborg soldier Deathlock
+joined. They also opposed the evil psychic
+
+232
+00:21:42,147 --> 00:21:46,849
+entity known as the Shadow King, before Wolverine
+revealed the group's existence to the X-Men,
+
+233
+00:21:47,270 --> 00:21:53,013
+and the X-Force disbanded once again. Is Deathlock
+a mutant? He's not, but technically neither
+
+234
+00:21:53,073 --> 00:21:57,930
+is Deadpool. He's a mutate. So the X-Force team
+is not just mutants exclusively, like Shatterstar
+
+235
+00:21:57,950 --> 00:22:03,692
+is not a mutant. Gotcha. He's an alien. Meanwhile,
+Cable and Hope returned to the present, where
+
+236
+00:22:03,732 --> 00:22:08,853
+Cable's techno-organic virus was purged from
+his system. With his psychic powers fully unleashed,
+
+237
+00:22:09,273 --> 00:22:14,135
+Cable began receiving precognitive visions of
+the future, and he recruited a new X-Force
+
+238
+00:22:14,175 --> 00:22:19,516
+team to battle the threats that he foresaw,
+including new members Hope, Colossus, and Forge.
+
+239
+00:22:20,036 --> 00:22:24,558
+Together, they stopped numerous threats such
+as a public transmode virus infection, and
+
+240
+00:22:24,598 --> 00:22:29,562
+an alien invasion. However, since the team's
+actions were preemptive, X-Force was branded
+
+241
+00:22:29,642 --> 00:22:34,206
+as terrorists and got on the radar of the Avengers
+and had to fight the team to continue their
+
+242
+00:22:34,246 --> 00:22:40,171
+work. Simultaneously, the Black Ops X-Force
+team, now known as the Uncanny X-Force, had
+
+243
+00:22:40,211 --> 00:22:45,895
+continued on, now led by Psylocke, and included
+members such as Storm, Bishop, Spiral, and
+
+244
+00:22:45,975 --> 00:22:51,440
+Puck. One of Cable's premonitions led Hope to
+perceive the Uncanny team as a threat, and
+
+245
+00:22:51,460 --> 00:22:57,043
+the two X-Forces fought. They eventually called
+a truce, however, and Psylocke's team disbanded.
+
+246
+00:22:57,484 --> 00:23:02,767
+Eventually, Cable, still beset by his premonitions,
+went after the mercenary Deadpool, who at the
+
+247
+00:23:02,807 --> 00:23:08,390
+time was being tested by the Time Variance Authority
+as a potential agent. Cable stole a time harness
+
+248
+00:23:08,410 --> 00:23:13,413
+in an attempt to stop Deadpool from causing
+a disaster and to fix his mind from the premonitions.
+
+249
+00:23:13,933 --> 00:23:19,056
+In the process, the time harness merged Cable
+with various incarnations of himself across
+
+250
+00:23:19,096 --> 00:23:25,200
+the time stream, and Cable returned to the present.
+back with his techno-organic virus, and without
+
+251
+00:23:25,240 --> 00:23:31,525
+his future premonitions. No longer tied to a
+mission, the X-Force team disbanded. When Professor
+
+252
+00:23:31,686 --> 00:23:36,910
+X, Magneto, and other Mutant leaders developed
+their own nation on the mutant island of Krakoa,
+
+253
+00:23:37,370 --> 00:23:42,715
+they found themselves still targeted by foreign
+threats and decided to form a Krakoan intelligence
+
+254
+00:23:42,815 --> 00:23:48,600
+agency, a new special operations squad named
+X-Force. You can learn more about Krakoa in
+
+255
+00:23:48,640 --> 00:23:54,283
+his duel episode against Danny the Street. This
+new team was headed by Beast and included Sage,
+
+256
+00:23:54,463 --> 00:23:59,646
+Wolverine, Domino, Colossus, and Kid Omega,
+with special equipment provided for their missions
+
+257
+00:23:59,706 --> 00:24:05,728
+by Forge. Together, they executed missions to
+protect Krakoa's national interests, including
+
+258
+00:24:05,768 --> 00:24:11,311
+defending against the anti-Krakoan organization
+known as Orcus. And that's their backstory
+
+259
+00:24:11,351 --> 00:24:16,133
+up until recently. For the 7-person X-Force
+roster I'll be going with for this team duel,
+
+260
+00:24:16,426 --> 00:24:21,408
+because all of our team duels include 7 person
+rosters. I wanted to pull from across the team's
+
+261
+00:24:21,448 --> 00:24:25,851
+long and varied history. First off, I chose
+the founder of X-Force and its frequent leader,
+
+262
+00:24:25,991 --> 00:24:31,314
+Cable, who is a physical and psychic powerhouse.
+I'm also going with one of the first recruits
+
+263
+00:24:31,354 --> 00:24:36,697
+of the original team, a founding member, and
+one of the group's most frequent members, Domino,
+
+264
+00:24:36,957 --> 00:24:42,881
+my good luck wildcard. The strongman Warpath
+is my third member, who is also an original
+
+265
+00:24:42,901 --> 00:24:47,703
+member of X-Force. The latter two that I just
+mentioned were also members of the X-Force
+
+266
+00:24:47,743 --> 00:24:52,165
+Special Ops team, which is one of my personal
+favorite incarnations of the group and where
+
+267
+00:24:52,225 --> 00:24:57,547
+I pulled from the remaining four members. This
+includes Deadpool, who initially started out
+
+268
+00:24:57,587 --> 00:25:03,169
+as a mercenary adversary for the team but later
+joined them, Archangel, who I consider my aerial
+
+269
+00:25:03,209 --> 00:25:08,572
+support as one of the only flyers on the group,
+Psylocke, another psychic threat, and lastly
+
+270
+00:25:08,832 --> 00:25:14,130
+X23, who in the comic books is now going by
+the code name Talon. which is a name I really
+
+271
+00:25:14,170 --> 00:25:19,853
+like for her, and that's what I'll be calling
+her here instead of X23. Talon not only was
+
+272
+00:25:19,893 --> 00:25:24,956
+a member of the Special Ops Squad, but she's
+also serving as a stand-in of sorts for her
+
+273
+00:25:25,056 --> 00:25:30,859
+father, and I put father in quotes, Wolverine,
+and Wolverine has led several versions of X-Force,
+
+274
+00:25:30,939 --> 00:25:36,102
+but I already used him in the Titans versus
+X-Men duel. So that's my roster. To reiterate,
+
+275
+00:25:36,542 --> 00:25:44,754
+the seven-member X-Force team that I'm going
+with for this duel is Cable, Psylocke, Archangel,
+
+276
+00:25:45,255 --> 00:25:51,418
+Warpath, and X23, now known as Talon. And you
+can learn all about their individuel histories
+
+277
+00:25:51,859 --> 00:25:56,661
+in their respective duel episodes. Basically,
+this team is as badass as badass gets though.
+
+278
+00:25:57,042 --> 00:26:01,284
+It is pretty badass. Actually, there are a lot
+of tie-ins in their backstory that reminded
+
+279
+00:26:01,324 --> 00:26:05,606
+me a lot of the Outsiders backstory. The teams
+are maybe a little bit more similar than I
+
+280
+00:26:05,626 --> 00:26:11,130
+would have even thought. But let me get into
+the Outsiders backstory. When Lucius Fox a
+
+281
+00:26:11,170 --> 00:26:15,973
+board member of Wayne Enterprises, was kidnapped
+during a business trip in the fictional European
+
+282
+00:26:16,013 --> 00:26:21,718
+country of Markovia during the coup of the country's
+monarchy, Batman insisted the Justice League
+
+283
+00:26:21,778 --> 00:26:26,261
+intervene, though he was rejected on the grounds
+that the League's presence would be seen as
+
+284
+00:26:26,281 --> 00:26:32,166
+an involvement in a political conflict. Enraged,
+Batman quit the League and enlisted the help
+
+285
+00:26:32,206 --> 00:26:38,158
+of Black Lightning to rescue Lucius abroad.
+While posing as Lucius's brother, Black Lightning
+
+286
+00:26:38,198 --> 00:26:43,842
+developed a contact within the Markovian revolutionaries
+named General Carnes, who worked with the villain
+
+287
+00:26:43,862 --> 00:26:49,706
+Baron Bedlam to kill King Victor Markov and
+take over the country. Carnes was killed, however,
+
+288
+00:26:49,986 --> 00:26:54,529
+by the sword-wielding Kitana, who blamed him
+for selling weapons that killed her family.
+
+289
+00:26:54,970 --> 00:26:59,613
+While Black Lightning was blamed and imprisoned
+for the death of Carnes, Batman encountered
+
+290
+00:26:59,673 --> 00:27:05,537
+Halo, an amnesiac young woman seemingly a victim
+of the war in Markovia that possessed energy
+
+291
+00:27:05,597 --> 00:27:11,439
+powers. and Markovia's chief royal scientist,
+Dr. Helga Jace, was imbuing the country's prince,
+
+292
+00:27:11,719 --> 00:27:18,201
+Bran Markov, with geokinetic powers in order
+to protect the crown. Metamorpho, an elemental
+
+293
+00:27:18,241 --> 00:27:23,722
+shapeshifter, was also in Markovia at the time,
+seeking help from Dr. Jace to cure him of his
+
+294
+00:27:23,782 --> 00:27:30,964
+powers. After Prince Bryan, aka Geoforce, was
+shot and left for dead, Batman, Halo, and Metamorpho
+
+295
+00:27:31,004 --> 00:27:35,745
+were all captured and imprisoned, though Katana
+reappeared and helped rescue the heroes from
+
+296
+00:27:36,642 --> 00:27:41,643
+When GeoForce recovered, the heroes all managed
+to work together to overthrow Baron Bedlam,
+
+297
+00:27:41,843 --> 00:27:47,224
+and rescue Lucius Fox to boot. Impressed by
+their abilities and cooperation, Batman convinced
+
+298
+00:27:47,324 --> 00:27:52,606
+all of the heroes to join him in Gotham City
+to train as a new, secret superteam capable
+
+299
+00:27:52,666 --> 00:27:57,967
+of covert missions that the Justice League were
+incapable of performing. When Metamorpho wondered
+
+300
+00:27:57,987 --> 00:28:03,309
+aloud if a group of outsiders like them could
+really be a team, it was GeoForce that determined
+
+301
+00:28:03,429 --> 00:28:08,086
+outsiders should be the team name. Batman led
+the Outsiders in numerous missions against
+
+302
+00:28:08,166 --> 00:28:13,208
+villains such as Agent Orange, Meltdown, and
+Cryonic Man. They clashed with the Teen Titans,
+
+303
+00:28:13,288 --> 00:28:17,889
+fought alongside the Justice League, and dealt
+with personal struggles, including Kitana's
+
+304
+00:28:17,909 --> 00:28:24,151
+battle against the Yakuza, the betrayal and
+death of Geoforce's sister Terra, Halo's abduction
+
+305
+00:28:24,211 --> 00:28:29,453
+by the extradimensional light beings known as
+Articles, and the kidnapping of Sapphire Stag,
+
+306
+00:28:29,633 --> 00:28:34,814
+metamorphosed fiancee, on their wedding day.
+After a space mission to stop the Cobra Cult
+
+307
+00:28:34,834 --> 00:28:39,876
+from taking over America, the outsiders traveled
+to the subterranean kingdom known as Abyssa,
+
+308
+00:28:40,236 --> 00:28:45,538
+where Kitana's friend Emily Briggs discovered
+her royal heritage and powers, taking on the
+
+309
+00:28:45,578 --> 00:28:50,859
+codename Looker, and becoming the latest member
+to join the team. Eventually, Baron Bedlam
+
+310
+00:28:50,899 --> 00:28:57,421
+returned to Markovia and kidnapped Princess
+Ilona, the fiancée of King Gregor Markov, Geoforce's
+
+311
+00:28:57,521 --> 00:29:02,755
+older brother. Batman withheld this information
+from the team in the hopes that Geoforce would
+
+312
+00:29:02,815 --> 00:29:08,397
+remain in Gotham, and when the team found out,
+Batman was ultimately forced off the team.
+
+313
+00:29:08,857 --> 00:29:13,558
+After receiving funding from the Kingdom of
+Markovia, the Outsiders relocated from Gotham
+
+314
+00:29:13,598 --> 00:29:19,400
+to Los Angeles, establishing their secret headquarters
+in an ocean research lab. After several adventures
+
+315
+00:29:19,440 --> 00:29:24,570
+and a number of scandals, the Outsiders reunited
+with Batman to take on Eclipso. after which
+
+316
+00:29:24,610 --> 00:29:29,534
+they teamed up with Infinity Inc. after PsychoPirate
+attempted to pose as Baron Bedlam in Takeover
+
+317
+00:29:29,574 --> 00:29:34,378
+Markovia. You can learn more about Eclipso and
+PsychoPirate in their respective duels against
+
+318
+00:29:34,479 --> 00:29:40,243
+Malekith and Mastermind. Due to the team's continual
+involvement in international affairs, particularly
+
+319
+00:29:40,304 --> 00:29:45,488
+in Markovia, the US government began hunting
+the outsiders as enemies. It was during this
+
+320
+00:29:45,528 --> 00:29:51,053
+time that Dr. Helga Jace also betrayed the team,
+revealed to be a sleeper agent of the robotic
+
+321
+00:29:51,133 --> 00:29:56,226
+manhunters. brainwashed Metamorpho into attacking
+the team, though he was able to eventually
+
+322
+00:29:56,306 --> 00:30:01,751
+overcome her control and attacked her instead,
+resulting in both his and Dr. Jace's death.
+
+323
+00:30:02,171 --> 00:30:06,736
+After Looker lost her powers, and Halo went
+into a coma after battling the Manhunters,
+
+324
+00:30:07,196 --> 00:30:12,001
+and with the US government still after them,
+the Outsiders decided to disband. The team
+
+325
+00:30:12,041 --> 00:30:17,094
+members later rejoined for the christening of
+Geoforce's nephew, Prince Gregor II, and were
+
+326
+00:30:17,134 --> 00:30:22,057
+forced to team up again to defend the country
+from an army of vampires, which killed an entire
+
+327
+00:30:22,117 --> 00:30:27,662
+village and placed the blame on the Outsiders,
+making them international fugitives. During
+
+328
+00:30:27,702 --> 00:30:33,786
+this time, the Outsiders took on three new members,
+the Sorcerer Faust, the Exosuit-Wearing Technocrat,
+
+329
+00:30:34,166 --> 00:30:41,132
+the Kryptonian Superman clone Eradicator, and
+a man-beared thing named Wild. Ha ha ha. After
+
+330
+00:30:41,172 --> 00:30:46,002
+defeating the vampires in the Kingdom of Abyssah,
+The Outsiders' names were cleared of wrongdoing,
+
+331
+00:30:46,202 --> 00:30:51,845
+and after some infighting, the teams split into
+two factions, one led by Eradicator in Los
+
+332
+00:30:51,925 --> 00:30:58,208
+Angeles and the other led by Katana in New York.
+Eradicator's team clashed with the Feiron Empire,
+
+333
+00:30:58,528 --> 00:31:03,750
+resulting in widespread destruction and internal
+conflicts exacerbated by media distrust and
+
+334
+00:31:03,810 --> 00:31:09,332
+police intervention. The teams eventually reunited
+after dealing with betrayal from Faust and
+
+335
+00:31:09,372 --> 00:31:15,324
+Wild, who they fought against in a hellish dimension.
+Dr. Light and a clone of Terra later joined
+
+336
+00:31:15,384 --> 00:31:20,829
+the team, though it eventually disbanded. Following
+the deaths of several Titans at the hands of
+
+337
+00:31:20,869 --> 00:31:26,473
+a mysterious android named Indigo, the Titans
+team disbanded, leading Arsenal and Nightwing
+
+338
+00:31:26,513 --> 00:31:32,399
+to form a new incarnation of the Outsiders with
+a metamorpho-revenant named Shift, an Amazon
+
+339
+00:31:32,479 --> 00:31:37,663
+named Grace, Black Lightning's daughter Thunder,
+the daughter of Green Lantern Ellen Scott,
+
+340
+00:31:37,803 --> 00:31:43,846
+Jade, and the android Indigo. Sponsored by Wayne
+Enterprises and operating from a Brooklyn bomb
+
+341
+00:31:43,866 --> 00:31:48,408
+shelter, the team took a proactive approach
+to crime fighting by hunting known criminals.
+
+342
+00:31:48,848 --> 00:31:54,129
+After defeating the likes of the Joker and Brother
+Blood, Huntress briefly joined the team along
+
+343
+00:31:54,149 --> 00:31:59,751
+with Black Lightning and Captain Marvel Jr.
+Eventually, Indigo was revealed to be a traitor
+
+344
+00:32:00,031 --> 00:32:05,013
+and was actually Brainiac 8, leading to the
+Outsiders and Titans teaming up to defeat her.
+
+345
+00:32:05,473 --> 00:32:10,483
+Kitana eventually joined the new team. proving
+invaluable when her Soul Sword was able to
+
+346
+00:32:10,523 --> 00:32:15,545
+absorb and imprison the demon Sabacc. After
+Black Lightning was framed for murder, Nightwing
+
+347
+00:32:15,585 --> 00:32:20,987
+and Red Hood led a failed breakout from Iron
+Heights that resulted in numerous deaths. The
+
+348
+00:32:21,027 --> 00:32:26,409
+team faked their own deaths and continued operating
+covertly with a new roster funded by Green
+
+349
+00:32:26,529 --> 00:32:32,012
+Arrow that now included Captain Boomerang, though
+their existence was later exposed by the villainous
+
+350
+00:32:32,032 --> 00:32:37,414
+Dr. Sivana, and the team was captured by the
+government organization Checkmate. who enlisted
+
+351
+00:32:37,434 --> 00:32:43,135
+them as covert operatives. When one mission
+went awry, the team ended up being captured
+
+352
+00:32:43,235 --> 00:32:49,397
+and tortured in North Korea, forcing Batman
+to intervene. Upon their rescue, Nightwing
+
+353
+00:32:49,437 --> 00:32:54,559
+stepped down as team leader and put Batman back
+in charge of the outsiders. Batman's new roster
+
+354
+00:32:54,619 --> 00:33:00,500
+included Shazam, Martian Manhunter, Catwoman,
+the Batgirl Cassandra Kane, and Green Arrow,
+
+355
+00:33:00,760 --> 00:33:06,438
+with Geoforce and Looker joining the ever-shifting
+roster later on as well. When Batman seemingly
+
+356
+00:33:06,498 --> 00:33:12,181
+died, in his will he ordered Alfred Pennyworth
+to assemble a new team of outsiders consisting
+
+357
+00:33:12,221 --> 00:33:19,666
+of Black Lightning, Creeper, Geoforce, Halo,
+Kitana, Metamorpho, and Owlman, who together
+
+358
+00:33:19,706 --> 00:33:25,029
+worked to stop immortals known as the Insiders
+from destroying the planet. After the Flashpoint
+
+359
+00:33:25,069 --> 00:33:30,159
+reset of DC's continuity, It was revealed that
+Batman put together a secret team consisting
+
+360
+00:33:30,199 --> 00:33:35,581
+of Black Lightning, Metamorpho, Geoforce Kitana,
+and Halo to investigate a mystery concerning
+
+361
+00:33:35,641 --> 00:33:40,443
+specific metals and their ties to the existence
+of metahumans, though Black Lightning later
+
+362
+00:33:40,484 --> 00:33:46,026
+formed his own Outsiders team consisting of
+Kitana, Cassandra Cain, and the new hero, Signal,
+
+363
+00:33:46,226 --> 00:33:51,348
+Gotham City's daytime protector. Now, for my
+Outsiders roster, each member of which you
+
+364
+00:33:51,368 --> 00:33:55,822
+can learn more about in their respective duel
+episodes, I will be going with the original
+
+365
+00:33:55,862 --> 00:34:02,505
+members of Black Lightning, Katana, Metamorpho,
+Geoforce, and Halo as each of them have had
+
+366
+00:34:02,565 --> 00:34:08,067
+recurring memberships on the team throughout
+its many incarnations. Noticeably absent on
+
+367
+00:34:08,087 --> 00:34:13,109
+this roster will be Batman, which seems strange
+considering oftentimes the Outsiders comic
+
+368
+00:34:13,169 --> 00:34:18,692
+is titled Batman and the Outsiders, but it was
+for that very reason that to me he felt more
+
+369
+00:34:18,732 --> 00:34:24,266
+like a benefactor of the group, an outsider
+to the Outsiders as it were. And since to me
+
+370
+00:34:24,306 --> 00:34:29,028
+Batman is more of a Justice Leagueer, the executive
+producers and I didn't have too many qualms
+
+371
+00:34:29,068 --> 00:34:33,429
+about leaving Kim off the team since he has
+already been a part of one of our team duels.
+
+372
+00:34:33,830 --> 00:34:40,953
+Replacing Kim will be Cassandra Cain, aka Batgirl,
+or Orphan, or Black Bat, who's been a member
+
+373
+00:34:40,993 --> 00:34:45,754
+of the team's more recent incarnations. And
+lastly, since I didn't have room to include
+
+374
+00:34:45,834 --> 00:34:52,057
+Roy Harper, aka Arsenal, in our Titans vs X-Men
+team duel, I knew I wanted to make sure he
+
+375
+00:34:52,097 --> 00:34:57,072
+was on the Outsiders, since he was a founder
+of a prominent incarnation of the Super Team.
+
+376
+00:34:57,472 --> 00:35:04,916
+So that's Black Lightning, Kitana, Metamorpho,
+Geoforce, Halo, Black Bat, and Arsenal. It's
+
+377
+00:35:04,936 --> 00:35:10,919
+really interesting how many similarities these
+teams have, including the fact that we're substituting
+
+378
+00:35:11,019 --> 00:35:16,182
+some of the key members of these respective
+teams with their young female proteges, including
+
+379
+00:35:16,342 --> 00:35:23,090
+Black Bat substituting in for Batman and Talon
+X-23 substituting in for Wolverine. Yeah, I
+
+380
+00:35:23,110 --> 00:35:27,173
+also thought it was interesting that they both
+had like split versions of the teams that like
+
+381
+00:35:27,193 --> 00:35:32,156
+battled each other for a bit. Yeah, it's really
+strange when all these things start aligning
+
+382
+00:35:32,176 --> 00:35:36,759
+that you didn't expect to. You find out that
+it's an even better idea than anybody even
+
+383
+00:35:36,779 --> 00:35:43,304
+knew. It's wild when, you know, Marvel essentially
+just copies DC. They find all the different
+
+384
+00:35:43,344 --> 00:35:47,727
+ways in which that's the case. There are clearly
+some things that happened in the outsiders
+
+385
+00:35:47,747 --> 00:35:50,989
+team after they happened to X-Force. So I don't
+want to hear it.
+
+386
+00:35:57,422 --> 00:36:03,088
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+387
+00:36:03,108 --> 00:36:08,834
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+388
+00:36:08,894 --> 00:36:14,580
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+389
+00:36:16,686 --> 00:36:23,329
+Comic Book Titans smash every Tuesday, Max Destruction,
+where TV and action heroes battle every Wednesday,
+
+390
+00:36:23,889 --> 00:36:29,812
+and Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+391
+00:36:29,832 --> 00:36:35,535
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+392
+00:36:36,055 --> 00:36:40,337
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+393
+00:36:44,603 --> 00:36:48,026
+But now that we got the team's histories and
+rosters out of the way, let's speculate on
+
+394
+00:36:48,086 --> 00:36:53,670
+how one of the 1000 simulated matches will go.
+The winner is determined by simulations, not
+
+395
+00:36:53,690 --> 00:36:58,775
+the speculation, but it's fun to imagine how
+the fight could play out. AG and IK, what are
+
+396
+00:36:58,795 --> 00:37:04,079
+the rules of our speculation? Well, I should
+say there are no rules, other than the teams
+
+397
+00:37:04,099 --> 00:37:08,663
+have no prior knowledge of the other going into
+the fight. All they are aware of starting out
+
+398
+00:37:09,023 --> 00:37:13,698
+is that the other side is a threat that needs
+to be eliminated. For the speculation, the
+
+399
+00:37:13,738 --> 00:37:18,260
+groups will begin approximately 50 meters apart
+in a non-descript environment that will have
+
+400
+00:37:18,340 --> 00:37:23,502
+no bearing on the match itself, as no environmental
+statistics are considered in my simulations.
+
+401
+00:37:23,982 --> 00:37:29,184
+The teams must earn victory on their own merit.
+Alright then, let's get into it. The Outsiders
+
+402
+00:37:29,525 --> 00:37:34,547
+and X-Force meet on the battlefield. Who goes
+first? Actually, Deadpool is going to start
+
+403
+00:37:34,587 --> 00:37:38,588
+off by signaling, time out! He's going to be
+like, time out, time out! And he's going to
+
+404
+00:37:38,608 --> 00:37:42,662
+speak directly to our listeners, and he's going
+to be like... You better get your white pants
+
+405
+00:37:42,762 --> 00:37:46,944
+on nerds, it's gonna get good. And he was like,
+alright time in, we can commence with the fighting
+
+406
+00:37:46,984 --> 00:37:51,726
+now. Okay, before he even finishes that last
+sentence though, Arsenal's just gonna shoot
+
+407
+00:37:51,746 --> 00:37:56,208
+him right in the head with an arrow. So Deadpool
+is knocked out and he's gonna fall straight
+
+408
+00:37:56,228 --> 00:38:03,010
+to the ground. Alright, okay that's fine. Archangel
+is gonna spread his metal wings and he's gonna
+
+409
+00:38:03,050 --> 00:38:09,573
+take into the sky and just rain down a shower
+of razor feathers that's gonna slice into the
+
+410
+00:38:09,613 --> 00:38:15,551
+entire Outsiders team. and poison them with
+a neurotoxin that paralyzes them. Ah, okay.
+
+411
+00:38:15,571 --> 00:38:21,752
+Uh, but Metamorpho, he's gonna stretch his hands
+up and he's gonna transform his hands into
+
+412
+00:38:22,113 --> 00:38:27,774
+a metal shield that protects the outsiders from
+those feathers. Okay, so the feathers stick
+
+413
+00:38:27,834 --> 00:38:32,855
+into Metamorpho's shield, which is his hand,
+so the metal feathers are still gonna poison
+
+414
+00:38:32,895 --> 00:38:38,297
+him and seep into his system. Well, no, because
+Metamorpho, he's actually immune to poisons
+
+415
+00:38:38,337 --> 00:38:44,120
+due to his, you know, composition and he could
+reproduce the elemental makeup of whatever
+
+416
+00:38:44,140 --> 00:38:50,945
+he comes into contact with so in fact he's gonna
+reproduce that neurotoxin in his body and become
+
+417
+00:38:51,025 --> 00:38:57,649
+a poisonous cloud that spreads across the X-Force
+team paralyzing them. Okay I'm gonna say that
+
+418
+00:38:57,669 --> 00:39:04,014
+before Metamorphro can even spread himself out
+over the X-Force team Cable's gonna reach out
+
+419
+00:39:04,034 --> 00:39:11,198
+with his telekinesis to grab this poison cloud
+and dissipate him into the sky. So Metamorpho,
+
+420
+00:39:11,438 --> 00:39:15,339
+he's like in the upper atmosphere now and he's
+gonna have to take some time to reconstitute
+
+421
+00:39:15,359 --> 00:39:21,861
+himself. Meanwhile, Talon, X23, she's gonna
+scramble across the battlefield over to Katana
+
+422
+00:39:22,361 --> 00:39:27,903
+and she's gonna handspring kick her with her
+foot claws, just slashing her across the chest.
+
+423
+00:39:27,963 --> 00:39:33,904
+No, because like in one smooth fluid motion,
+Katana is gonna unsheath her sword and just
+
+424
+00:39:34,124 --> 00:39:40,283
+expertly deflect Talon's foot claws and then
+she's gonna... transfer that momentum from
+
+425
+00:39:40,323 --> 00:39:46,307
+her defensive move into like a counter strike
+that is going to slash Talon across her back.
+
+426
+00:39:46,847 --> 00:39:52,911
+Okay Talon's in pain but she's used to pain
+okay and without missing a beat she's gonna
+
+427
+00:39:52,991 --> 00:39:57,715
+continue her claw fight against Katana's. Really
+I assume neither of their blades would break
+
+428
+00:39:57,755 --> 00:40:04,319
+against each other considering Talon's blades
+are adamantium and Katana's blade is magic.
+
+429
+00:40:04,659 --> 00:40:08,694
+Yeah her sword is unbreakable and it could basically
+cut through anything. I'm guessing you're going
+
+430
+00:40:08,714 --> 00:40:14,658
+to say not adamantium. So yeah, Talon and Katana,
+they're going to get it. Meanwhile, Geoforce,
+
+431
+00:40:14,978 --> 00:40:20,302
+he's going to use his Geokinesis to rip the
+ground up into like a series of boulders. And
+
+432
+00:40:20,322 --> 00:40:25,466
+he's going to hurl those at Warpath, increasing
+their gravity to just bury him. Well, no matter
+
+433
+00:40:25,506 --> 00:40:30,569
+how heavy these boulders are, they're still
+made out of earth, right? And Warpath is super
+
+434
+00:40:30,629 --> 00:40:34,392
+durable and strong. So he's just going to punch
+his way out from underneath these boulders.
+
+435
+00:40:34,912 --> 00:40:39,275
+And then he's going to pick one of them up.
+and curl it over at Black Lightning to squashing
+
+436
+00:40:39,295 --> 00:40:43,798
+him. OK, force field. You know, Black Lightning
+throws up his force field, which blocks against,
+
+437
+00:40:43,858 --> 00:40:49,762
+you know, metal and energy projectiles. So that
+does literally nothing to. No, no, no. Boulder's
+
+438
+00:40:49,802 --> 00:40:54,446
+not made out of metal. It's made out of like
+earth, like silicon, right? There's enough
+
+439
+00:40:54,526 --> 00:41:02,851
+metallic elements in the boulder for it to be
+deflected. OK. Anyway, Domino is going to run
+
+440
+00:41:02,891 --> 00:41:07,722
+over to Deadpool and yank Arsenal's arrow out
+of his brain. So Deadpool starts coming to
+
+441
+00:41:07,762 --> 00:41:13,844
+and he's like back from the dead, just like
+Marvel Jesus. And Domino takes Arsenal's arrow
+
+442
+00:41:13,864 --> 00:41:19,225
+and she's going to hurl it like a dart right
+at Black Bat. And the arrow is going to be
+
+443
+00:41:19,385 --> 00:41:25,207
+aided by Domino's luck powers. So it's just
+going to bullseye Black Bat right in the face.
+
+444
+00:41:25,227 --> 00:41:29,748
+Well, no, because Black Bat, she could just
+catch that arrow mid air because she has her
+
+445
+00:41:30,028 --> 00:41:34,289
+kinesthetic intuition ability. She could read
+what Domino's doing and going to. No, no, no.
+
+446
+00:41:34,866 --> 00:41:40,329
+Luck powers supersede intuition. Okay, so even
+though Black Bat tries to catch the arrow,
+
+447
+00:41:40,809 --> 00:41:46,272
+her bad luck is gonna lead to the arrow just
+sticking right into her hand. Those luck powers
+
+448
+00:41:46,412 --> 00:41:53,656
+are the lamest thing. I hate it, but sure, okay.
+Black Bat, you know, her hand gets pierced,
+
+449
+00:41:53,696 --> 00:41:57,918
+but she's gonna break the arrow off and, you
+know, has a hand injury now, but she could
+
+450
+00:41:57,958 --> 00:42:04,241
+roll with it. Meanwhile, Halo, she's gonna turn
+the color indigo and she's gonna put Deadpool.
+
+451
+00:42:04,606 --> 00:42:09,929
+into a energy field, a tractor beam, and she's
+just gonna hurl him toward the horizon, just
+
+452
+00:42:09,969 --> 00:42:14,452
+away from the battlefield. Are you gonna let
+him do anything during this match? I think,
+
+453
+00:42:14,552 --> 00:42:18,995
+in fact, he actually yells those exact words
+as he disappears from view. He's gonna be like,
+
+454
+00:42:19,055 --> 00:42:25,820
+are you gonna let me do anything, Johnny DC,
+you cock knocker? Nope. Meanwhile, Psylocke,
+
+455
+00:42:26,501 --> 00:42:31,724
+using her stealth, she's gonna sneak up behind
+Geoforce, and she's gonna plunge her psychic
+
+456
+00:42:31,784 --> 00:42:36,624
+knife right into the back of his head. stunning
+him. Okay, but Geoforce, he's not going to
+
+457
+00:42:36,644 --> 00:42:42,749
+be stunned for long because her hand gets knocked
+away from Geoforce's head with a boxing glove
+
+458
+00:42:42,849 --> 00:42:48,173
+arrow from Arsenal's quiver, and he's going
+to follow that up by firing two cryo arrows
+
+459
+00:42:48,513 --> 00:42:53,778
+like in quick succession at her feet, trapping
+her in place. Big deal. She's going to break
+
+460
+00:42:53,838 --> 00:42:59,502
+out of the ice by shattering it with her telekinesis,
+and then she's going to hurl a telepathic blade
+
+461
+00:42:59,723 --> 00:43:04,986
+at Arsenal, and you know, he's going to try
+to because that's what he does, but he's not
+
+462
+00:43:05,006 --> 00:43:09,768
+going to know that her blade is psychic energy.
+And so he's not going to be able to do anything
+
+463
+00:43:09,808 --> 00:43:16,111
+about it. And the psychic blade hits him and
+he gets mentally knocked out. Meanwhile, Deadpool,
+
+464
+00:43:16,391 --> 00:43:22,393
+he's going to come back onto the scene with
+Archangel who went to go get him. And Deadpool
+
+465
+00:43:22,773 --> 00:43:28,035
+is writing Archangel kind of like Sebastian
+at the end of the never ending story. He's
+
+466
+00:43:28,055 --> 00:43:33,750
+going to be like, Falcor is wonderful. And he
+leaps off of Archangel's back. You know, he's
+
+467
+00:43:33,770 --> 00:43:39,054
+going to do a superhero landing next to Black
+Bat, and he's going to pull out his swords
+
+468
+00:43:39,614 --> 00:43:44,558
+and be like, Hello, Black Bat, I'm White Wade
+Wilson. Is your power cultural appropriation?
+
+469
+00:43:44,578 --> 00:43:51,282
+Dude, he doesn't even know what race she is.
+It doesn't matter. OK. I'm not going to lie.
+
+470
+00:43:51,362 --> 00:43:57,367
+Like Deadpool's body language is probably super
+challenging for Black Bat to read. I imagine
+
+471
+00:43:57,647 --> 00:44:03,095
+he's pretty unpredictable. So she's disoriented.
+And because of that, she's going to throw down
+
+472
+00:44:03,195 --> 00:44:09,540
+a pellet with knockout gas that just puts him
+to sleep. All right. Once again, before he
+
+473
+00:44:09,560 --> 00:44:14,164
+gets to do anything, you're trying to take him
+down. So Deadpool falls asleep. And as he's
+
+474
+00:44:14,204 --> 00:44:18,247
+dozing off, he's probably going to be like,
+don't hurt me, Liam Neeson or something. Well,
+
+475
+00:44:20,169 --> 00:44:26,233
+by this point, Metamorpho has reconstituted
+and, you know, seeing Katana and Talon battling.
+
+476
+00:44:26,754 --> 00:44:31,515
+He's gonna turn the lower half of his body into
+a straight jacket that just wraps around Talon,
+
+477
+00:44:32,076 --> 00:44:36,938
+while the upper half of his body is still in
+his standard form, except for his hands. He's
+
+478
+00:44:36,958 --> 00:44:42,200
+gonna turn those into mallets and he's just
+gonna pummel Talon mercilessly. Okay, so Talon
+
+479
+00:44:42,260 --> 00:44:46,182
+is in a straight jacket and getting beat up,
+but a straight jacket's not gonna cover her
+
+480
+00:44:46,262 --> 00:44:53,084
+legs. So while Metamorpho thinks he has her
+restrained, she's just gonna kick her leg up
+
+481
+00:44:53,185 --> 00:44:58,203
+and slice off both of his hammer hands. with
+her foot claws and then she escapes the straitjacket.
+
+482
+00:44:58,623 --> 00:45:05,445
+Meanwhile, Cable is gonna pull out his BFG.
+You know what that stands for? Big Friendly
+
+483
+00:45:05,526 --> 00:45:12,708
+Giant. Stands for Big Fucking Gun, man. It's
+a giant energy rifle and Cable's gonna use
+
+484
+00:45:12,748 --> 00:45:18,091
+it to shoot a hail of energy rounds at GeoForce,
+just perforating the guy. Okay, well I mean,
+
+485
+00:45:18,611 --> 00:45:25,946
+how well does a BFG stand up against a BFV?
+A big fucking volcano. That's what's gonna
+
+486
+00:45:26,026 --> 00:45:32,950
+erupt from the ground around Geoforce, blocking
+Cable's blasts. And Geoforce, he's in the center
+
+487
+00:45:32,990 --> 00:45:38,753
+of this, like 30 foot tall mountain that shoots
+him into the sky as it erupts. And from the
+
+488
+00:45:38,913 --> 00:45:45,297
+air, Geoforce is gonna bombard Cable with beams
+of magma. So Geoforce creates a volcano that
+
+489
+00:45:45,337 --> 00:45:50,639
+shoots him up into the air? Yeah. That's pretty
+cool. But if it's only 30 feet tall, that sounds
+
+490
+00:45:50,659 --> 00:45:56,443
+more like a little baby volcano than a big fucking
+volcano. Whatever. But Cable's gonna throw
+
+491
+00:45:56,463 --> 00:46:01,806
+up a telekinetic shield to block the magma and
+you know, the sky's Archangel's domain So that
+
+492
+00:46:01,826 --> 00:46:06,930
+was stupid like Geo Force is focused on burning
+up Cable when all of a sudden he gets sliced
+
+493
+00:46:06,970 --> 00:46:14,315
+in half by Archangel's metal wings and Geo Force
+is the first one out in this match. What? No,
+
+494
+00:46:14,635 --> 00:46:21,260
+I thought he was gonna be like my last one He's
+like my most powerful guy Okay. Well, I do
+
+495
+00:46:21,280 --> 00:46:27,002
+have one question for you Do you know what happens
+to an angel when it's struck by lightning?
+
+496
+00:46:27,563 --> 00:46:32,784
+It croaks. The same thing that happens to everything
+else. Cause that's exactly what's gonna happen
+
+497
+00:46:32,804 --> 00:46:37,845
+to Archangel. Black Lightning, you know, he
+saw what happened to Geoforce. And since Archangel's
+
+498
+00:46:37,905 --> 00:46:43,487
+wings are made of metal, he's like a great conductor
+of electricity. So Black Lightning channels
+
+499
+00:46:43,707 --> 00:46:49,949
+this massive lightning bolt that just completely
+fries Archangel to a crisp in the sky. So Archangel
+
+500
+00:46:50,029 --> 00:46:55,632
+is out as well. All right, okay. Well, I'm going
+to say that the thunder from Black Lightning's
+
+501
+00:46:55,812 --> 00:47:01,217
+lightning bolt is going to wake up Deadpool
+and Arsenal, who was, you know, knocked out
+
+502
+00:47:01,237 --> 00:47:05,982
+by Psylocke. And Deadpool sits up and he's going
+to be like, where did that little baby volcano
+
+503
+00:47:06,022 --> 00:47:12,067
+come from? Oh, my God. Are those twin gold plated
+desert eagles you're carrying? And he's going
+
+504
+00:47:12,087 --> 00:47:16,592
+to point at Arsenal's guns and Arsenal's going
+to look down at his holster and he's going
+
+505
+00:47:16,612 --> 00:47:23,079
+to be like, uh, no. Well, Deadpool's like, I
+need them for my collection. And he's going
+
+506
+00:47:23,099 --> 00:47:28,002
+to teleport over to Arsenal and right away slice
+off his gun holster with his swords and knock
+
+507
+00:47:28,042 --> 00:47:31,784
+the guns up into the air. And Deadpool's going
+to catch him and just pump Arsenal full of
+
+508
+00:47:31,824 --> 00:47:39,668
+lead. And then Deadpool's going to be like,
+wait, these aren't gold. Okay. Well, as Deadpool
+
+509
+00:47:39,708 --> 00:47:45,211
+comes to that realization, the guns actually
+get sliced in half, followed up by his own
+
+510
+00:47:45,251 --> 00:47:51,354
+decapitation, all thanks to Katana's soul taker
+sword. So Deadpool's out of the match. Fine.
+
+511
+00:47:52,514 --> 00:47:59,837
+Meanwhile, Metamorpho, who just regrew his hands,
+he hears a beeping sound. And he realizes that
+
+512
+00:47:59,877 --> 00:48:05,578
+a sticky explosive mine has been thrown onto
+his back. And he's going to spin around and
+
+513
+00:48:05,618 --> 00:48:11,480
+see Domino is the one who threw the mine. And
+with a smile, she's going to shoot right through
+
+514
+00:48:11,520 --> 00:48:17,321
+Metamorpho, hitting the explosive that stuck
+to his back in this unbelievably lucky shot.
+
+515
+00:48:17,802 --> 00:48:23,083
+and the mine is gonna detonate with a sizable
+explosion that just sends chunks of metamorpho
+
+516
+00:48:23,443 --> 00:48:29,885
+scattered across the battlefield. All right.
+So, Halo sees this and goes on the offensive
+
+517
+00:48:29,945 --> 00:48:36,947
+against Domino. She turns yellow and flashes
+at Domino, blinding her, which I believe negates
+
+518
+00:48:37,047 --> 00:48:43,609
+Domino's luck powers since they depend on her
+vision, right? Right. So, bad luck for Domino,
+
+519
+00:48:43,829 --> 00:48:50,484
+Halo then turns red and just beams at giant
+hole right through Domino's torso, taking her
+
+520
+00:48:50,544 --> 00:48:56,649
+out of the match. Good one. That was good. Well,
+Warpath saw what Halo did, and he just throws
+
+521
+00:48:56,689 --> 00:49:02,454
+his vibranium knives like two tomahawks right
+at Halo and the knives impale her and take
+
+522
+00:49:02,474 --> 00:49:08,719
+her out of this match, too. Yeah, no, the Halo
+Warpath threw his knives at just dissipated
+
+523
+00:49:08,779 --> 00:49:13,022
+into blue light when the blades went through
+her because there was a hologram created by
+
+524
+00:49:13,062 --> 00:49:20,979
+Halo. And that's when Black Bat She's going
+to swoop in and stealthily land on Warpath's
+
+525
+00:49:20,999 --> 00:49:25,121
+shoulders. And before he could do anything,
+she's going to be striking nerve points across
+
+526
+00:49:25,161 --> 00:49:30,404
+his body in rapid succession, just paralyzing
+Kim and making him useless for the rest of
+
+527
+00:49:30,424 --> 00:49:36,207
+the match. OK, well, Psylocke sees this and
+she jumps in and fights Black Bat, you know,
+
+528
+00:49:36,267 --> 00:49:42,229
+ninja versus ninja. And like maybe Black Bat
+gets a few good hits in there. But suddenly.
+
+529
+00:49:42,818 --> 00:49:47,399
+Black Bat realizes she can't read Psylocke's
+moves anymore because her mind is all fuzzy.
+
+530
+00:49:47,919 --> 00:49:53,961
+And that's because Psylocke telepathically clouds
+her brain. And then she deals her coup de grace
+
+531
+00:49:54,141 --> 00:49:59,382
+with a telekinetic sword right through Black
+Bat's torso. So Black Bat's gone. And you know
+
+532
+00:49:59,402 --> 00:50:06,424
+what? I'm not even angry. Black Bat went out
+with honor, but not by Psylocke. Before Psylocke
+
+533
+00:50:06,604 --> 00:50:12,846
+could deal the final blow, Katana's Soul Sword
+warned her of Black Bat's imminent death. And
+
+534
+00:50:12,886 --> 00:50:17,728
+so Katana, she moved really quick over to Black
+Bat and made sure that she trapped Cassandra's
+
+535
+00:50:17,788 --> 00:50:22,771
+soul and her sword by delivering that killing
+blow. And that's going to give Katana not only
+
+536
+00:50:22,871 --> 00:50:28,455
+Black Bat's kinesthetic intuition, but also
+her martial arts mastery and knowledge of Psylocke's
+
+537
+00:50:28,595 --> 00:50:33,878
+psychic powers. And since Katana's sword can
+block things that are immaterial, like psychic
+
+538
+00:50:33,938 --> 00:50:39,361
+blades, the two are just going to clash and
+sword on sword action. But ultimately, with
+
+539
+00:50:39,401 --> 00:50:43,722
+Black Bat's aid, Katana's gonna come on top
+and she's just gonna impale Psylocke with her
+
+540
+00:50:43,762 --> 00:50:49,364
+sword and steal her soul as well. That doesn't
+make any sense. So Katana took out her own
+
+541
+00:50:49,444 --> 00:50:56,027
+teammate in order to get her teammates abilities.
+It's like friendly seppuku, okay? But just
+
+542
+00:50:56,047 --> 00:51:01,448
+because Katana would be aware then that Psylocke
+probably has psychic powers, that doesn't make
+
+543
+00:51:01,608 --> 00:51:07,787
+her immune to Psylocke's psychic attacks. Wha-
+Katana can't be easily affected psychically
+
+544
+00:51:07,827 --> 00:51:12,249
+because the soul of her husband talks to her
+all the time through the sword, you know, feeding
+
+545
+00:51:12,269 --> 00:51:17,471
+her information, and he'd warn her and tell
+her how to move and dodge and parry and slash
+
+546
+00:51:17,491 --> 00:51:22,613
+and stuff if Psylocke tried to affect Katana
+psychically, like through illusions or clouding
+
+547
+00:51:22,633 --> 00:51:31,217
+or anything like that. Uh, okay, alright. If
+you say so. I do! I think that's a reach. Uh,
+
+548
+00:51:31,257 --> 00:51:37,007
+so suddenly Katana dies. because Cable lifts
+her up by her neck with his metal tech arm
+
+549
+00:51:37,047 --> 00:51:42,009
+and just snaps the life out of her. Dude, she
+would literally slice that metal arm right
+
+550
+00:51:42,129 --> 00:51:46,671
+the hell off before he could even do that. Not
+if Cable telekinetically keeps her from swinging
+
+551
+00:51:46,691 --> 00:51:54,514
+that sword. Fuck! So she's out. Meanwhile, Talon
+is going up against Halo. And Halo, you know,
+
+552
+00:51:54,554 --> 00:52:01,317
+she could probably block Talon's attacks with
+her orange force field. But Cable has the ability
+
+553
+00:52:01,397 --> 00:52:07,031
+to... telepathically compel Halo to drop her
+forcefield. And that's gonna leave her vulnerable
+
+554
+00:52:07,071 --> 00:52:14,933
+to Talon, who just rips Halo to shreds. No!
+Okay, well, you know what's cool though? Both
+
+555
+00:52:14,973 --> 00:52:20,055
+of your guys that are left, Cable and Talon,
+they have conductive metal throughout their
+
+556
+00:52:20,075 --> 00:52:26,417
+body. So while Cable is busy with Katana and
+Halo, his metal arm just gets slammed with
+
+557
+00:52:26,617 --> 00:52:30,926
+millions of volts of electricity from Black
+Lightning. who also is going to chain that
+
+558
+00:52:31,126 --> 00:52:37,871
+off of him to Talon. So both of them basically
+get electrocuted to death. And bam, Black Lightning
+
+559
+00:52:37,911 --> 00:52:43,794
+emerges victorious. Oh, you think so? OK, right?
+Well, Black Lightning thinks that he's won.
+
+560
+00:52:44,134 --> 00:52:50,258
+A little Deadpool emerges looking like a naked
+troll doll with a mask on because his decapitated
+
+561
+00:52:50,298 --> 00:52:56,418
+head is regrowing his body. And like a weird
+baby, he stumbles over to Cable's body. and
+
+562
+00:52:56,458 --> 00:53:02,439
+steals his time travel device and he uses it
+to travel through time and the multiverse and
+
+563
+00:53:02,459 --> 00:53:07,881
+he's gonna pop back onto the battlefield the
+moment he left with a whole legion of Deadpool
+
+564
+00:53:07,901 --> 00:53:13,262
+variants, the Deadpool core and Deadpool's gonna
+lead them into battle he's gonna be like FOR
+
+565
+00:53:13,302 --> 00:53:19,764
+FREEDOM and they're gonna swarm black lightning
+and just massacre the guy like it's not pretty
+
+566
+00:53:20,344 --> 00:53:25,185
+and then with the battle over Deadpool says
+to our listeners those shit fucks down the
+
+567
+00:53:25,225 --> 00:53:31,393
+street never stood a chance and he does the
+X salute and he's like X force match over.
+
+568
+00:53:31,694 --> 00:53:37,878
+Except that as he's doing the salute he's gonna
+get clocked by Shift which is a sentient Metamorpho
+
+569
+00:53:37,938 --> 00:53:42,341
+remnant who was a part of the Outsiders for
+a time and you know he turned his fist into
+
+570
+00:53:42,361 --> 00:53:47,605
+an anvil and just punches the lights out of
+Deadpool and in fact actually with all the
+
+571
+00:53:47,645 --> 00:53:53,369
+scattered pieces of Metamorpho around the battlefield
+there's an army of shifts just ready to take
+
+572
+00:53:53,429 --> 00:53:59,347
+on the Deadpool core. So good luck with that.
+I'm going to say that Metamorpho was blown
+
+573
+00:53:59,448 --> 00:54:05,810
+up into two smaller pieces to actually form
+an army of Metamorphos. Metamorpho has like
+
+574
+00:54:05,910 --> 00:54:12,373
+literally been vaporized multiple times and
+he's always come back. So has Deadpool. Unless
+
+575
+00:54:12,433 --> 00:54:17,335
+you have like a magic sorcerer supreme Deadpool
+because that's really the only way Metamorpho
+
+576
+00:54:17,355 --> 00:54:22,277
+can be taken out is magically. Then I think
+this match would just basically go on forever.
+
+577
+00:54:22,930 --> 00:54:29,033
+I'm sorry to tell you one of the Deadpool variants
+is the Sorcerer Supreme. So there you go. And
+
+578
+00:54:29,093 --> 00:54:34,436
+I think you're making that shit up. Well, we
+could go ahead and leave the match there. Either
+
+579
+00:54:34,556 --> 00:54:40,639
+the Deadpool core beats this legion of Metamorphos
+or the Metamorphos beat the Deadpool core.
+
+580
+00:54:41,079 --> 00:54:46,122
+We'll go ahead and input the stats on all these
+characters, run the simulations and see which
+
+581
+00:54:46,182 --> 00:54:53,502
+team came out on top. AJ9K, hit it! Inputting
+data, running calculations. Processing results.
+
+582
+00:54:54,023 --> 00:54:59,667
+Simulations complete. All right, this was a
+great matchup. These teams are very, very close.
+
+583
+00:55:00,287 --> 00:55:04,470
+They were close thematically. They were close
+in terms of their backstories, and they're
+
+584
+00:55:04,490 --> 00:55:10,675
+even close statistically. Cable was by far the
+most powerful member out of either of these
+
+585
+00:55:10,715 --> 00:55:18,121
+groups. But the outsiders were no slouch either.
+Black Lightning, Metamorpho, Geoforce, they
+
+586
+00:55:18,141 --> 00:55:23,872
+were all heavy hitters. Yeah, Geoforce was my
+heaviest, followed closely behind by Metamorpho,
+
+587
+00:55:24,372 --> 00:55:30,816
+and Black Lightning was just under him. Yeah,
+actually both Geoforce and Metamorpho won around
+
+588
+00:55:30,896 --> 00:55:36,639
+3 fourths of all of their matches, and Black
+Lightning won about 3 fifths of his matches.
+
+589
+00:55:37,179 --> 00:55:42,622
+Cable, though, won like 4 out of 5 of all his
+matches, but the rest of my guys didn't do
+
+590
+00:55:42,682 --> 00:55:48,405
+as well. Like, Deadpool, Psylocke, Archangel,
+they all came out around the same statistically.
+
+591
+00:55:48,842 --> 00:55:54,607
+winning just about half of their matchups. My
+second most powerful guy was actually Warpath,
+
+592
+00:55:54,687 --> 00:55:59,391
+who won a little bit over half of his matchups.
+Yeah, not too many of my team members were
+
+593
+00:55:59,431 --> 00:56:04,656
+around that 50 percent mark. I had some that
+were either like three fourths winning or one
+
+594
+00:56:04,676 --> 00:56:11,122
+fourth winning. So, you know, it varied quite
+a bit. My weakest character by far, surprisingly,
+
+595
+00:56:11,482 --> 00:56:17,654
+was Kitana. Yeah, she's not impressive statistically,
+is she? No, not even compared to some of your
+
+596
+00:56:17,694 --> 00:56:23,196
+weaker characters. She only won one fifth out
+of every match, basically. Yeah, if you think
+
+597
+00:56:23,236 --> 00:56:28,497
+about it, Katana has the ability to steal your
+soul if she kills you, right? But like, as
+
+598
+00:56:28,578 --> 00:56:33,139
+a superpower, that's kind of lame because you'd
+be dead anyway, right? It was a power that
+
+599
+00:56:33,219 --> 00:56:38,921
+didn't help her in the stats, really. In terms
+of the overall team stats, the biggest discrepancy
+
+600
+00:56:38,981 --> 00:56:44,139
+between these two teams was fighting skill.
+and versatility. Like the outsiders were way
+
+601
+00:56:44,159 --> 00:56:49,663
+more versatile than the X-Force who are mainly
+just you know like shoot and stab guys, but
+
+602
+00:56:49,923 --> 00:56:55,027
+X-Force was much more trained in hand-to-hand
+combat than the outsiders. Which is wild because
+
+603
+00:56:55,167 --> 00:57:00,571
+I feel like I had the best fighter in Black
+Bat. Yeah you had Black Bat and Katana, but
+
+604
+00:57:00,591 --> 00:57:05,154
+you also had Halo who really brought your team
+down. Whereas everyone in X-Force is like an
+
+605
+00:57:05,234 --> 00:57:11,222
+expert fighter almost. X-Force also had the
+edge in durability and strength but the outsiders
+
+606
+00:57:11,302 --> 00:57:17,103
+had the edge in damage level and range. So taking
+all this into consideration, Jonathan, considering
+
+607
+00:57:17,143 --> 00:57:21,404
+how close things are, who do you see coming
+out on top here? Well, it's definitely closer
+
+608
+00:57:21,465 --> 00:57:24,885
+than I thought it was going to be. I thought
+the outsiders were totally going to stomp,
+
+609
+00:57:25,025 --> 00:57:29,907
+but I think the outsiders are still going to
+come out ahead just barely. Instagram does
+
+610
+00:57:29,947 --> 00:57:36,148
+not agree with me. Apparently X-Force is the
+more popular team. 62% of our poll takers sided
+
+611
+00:57:36,188 --> 00:57:40,806
+with Marvel for this team match. And I'm ready
+to prove them all wrong. I don't know, they
+
+612
+00:57:40,826 --> 00:57:45,969
+sound pretty right to me, but let's go ahead
+and find out. AJ9K, the results please. Here
+
+613
+00:57:45,989 --> 00:57:57,396
+you are, sir. Alright the winner between the
+Outsiders and X-Force is... X-Force! Damn it!
+
+614
+00:57:57,636 --> 00:58:04,560
+Suck on that! X-Force wins! It was really damn
+close though. Out of 1000 matches, X-Force
+
+615
+00:58:04,660 --> 00:58:13,380
+won 509. whereas the outsiders won 491, basically
+a coin toss between these two teams. That is
+
+616
+00:58:13,460 --> 00:58:18,842
+shocking. Again, I did not think it was gonna
+be this close. Me and the DC guys on Discord
+
+617
+00:58:18,882 --> 00:58:23,744
+were like, oh yeah, outsiders is totally gonna
+take this one. Haha, Marvel's stupid. I mean,
+
+618
+00:58:23,824 --> 00:58:27,786
+Marvel's still stupid. But then who turned out
+to be stupid, right? Is that what you're gonna
+
+619
+00:58:27,826 --> 00:58:35,049
+say? No. I am super pleased with these results.
+I think X-Horse is just too badass of a team
+
+620
+00:58:35,089 --> 00:58:41,725
+to lose. to a bunch of nobodies like outsiders
+like who the hell has ever heard of Halo? Not
+
+621
+00:58:41,785 --> 00:58:47,970
+me. Uh, I'm pretty sure more people have heard
+of Halo than fucking Warpath. Warpath was in
+
+622
+00:58:48,170 --> 00:58:54,414
+X-Men Days of Future Past. Okay? All of my guys
+on the X-Force team have been in movies. Oh,
+
+623
+00:58:54,434 --> 00:59:00,178
+and guess what? Halo has been in Young Justice
+Outsiders. So that again, that's a fucking
+
+624
+00:59:00,198 --> 00:59:08,456
+cartoon that nobody's watched. Marvel's just
+more popular. and they're stronger and in this
+
+625
+00:59:08,496 --> 00:59:15,063
+case just better overall. But not better looking
+because you guys have Deadpool. Sure, but who
+
+626
+00:59:15,103 --> 00:59:21,050
+cares? He kicked ass this match. Who really
+wins? DC. All right. You got to take what you
+
+627
+00:59:21,070 --> 00:59:26,976
+can get, I suppose. Oh, we will. We will. But
+that does it for this team duel, guys. AJ and
+
+628
+00:59:27,076 --> 00:59:34,064
+IK, help close this out. Thanks for listening
+to Dynamic duel. Visit the show's website at
+
+629
+00:59:34,104 --> 00:59:39,688
+dynamicduel.com and follow us on Instagram at
+dynamicduelpodcast. You can support the show
+
+630
+00:59:39,728 --> 00:59:45,072
+on Patreon at patreon.com slash dynamicduel
+and joining a tier that works for you, or by
+
+631
+00:59:45,132 --> 00:59:51,296
+rating and reviewing Dynamic duel on Apple Podcasts,
+Spotify, Podchaser or on our website. Don't
+
+632
+00:59:51,316 --> 00:59:55,859
+forget to listen to the other shows in the DynaMic
+Podcast Network, including Max Destruction,
+
+633
+00:59:56,200 --> 01:00:04,291
+Senjow World and Console Combat. In our next
+episode, we will be doing a review of Batman
+
+634
+01:00:04,551 --> 01:00:09,713
+Caped Crusader season one. It's an animated
+series done by Bruce Tim that's currently on
+
+635
+01:00:09,813 --> 01:00:15,955
+Amazon Prime. I have not started watching it,
+but you're going to hear all about what I think
+
+636
+01:00:15,995 --> 01:00:19,796
+about it in our next episode. But that does
+it for this episode. We want to give a big
+
+637
+01:00:19,836 --> 01:00:24,637
+thanks to our executive producers, Ken Johnson,
+John Sturowski, Zachary Hepburn, Dustin Belcombe,
+
+638
+01:00:24,797 --> 01:00:29,781
+Miggye Mathagian. Brandon Estergard, Nathaniel
+Wagner, Levi Yeaton, Austin Wazilowski, AJ
+
+639
+01:00:29,841 --> 01:00:35,886
+Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Andrew Schunk, Dean Molesky, Devin Davis,
+
+640
+01:00:36,046 --> 01:00:41,351
+Joseph Kirsting, and Josh Leiner for helping
+to make this podcast possible. We'll talk to
+
+641
+01:00:41,371 --> 01:00:47,816
+you guys next week. Up up and away, true believers.
+I wore my white pants for that episode, but
+
+642
+01:00:47,836 --> 01:00:50,999
+then I remembered it's after Labor Day and now
+I'm just devastated.
+
