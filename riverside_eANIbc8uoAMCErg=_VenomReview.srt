@@ -1,0 +1,4441 @@
+1
+00:00:03,284 --> 00:00:03,345
+you
+
+2
+00:00:24,862 --> 00:00:29,463
+A weekly show where we review superhero films
+and debate the superiority between Marvel and
+
+3
+00:00:29,483 --> 00:00:35,345
+DC by comparing their characters in stat-based
+Battle simulations. I'm Johnny DC and I'm his
+
+4
+00:00:35,385 --> 00:00:41,606
+twin brother Marvelous Joe and in this episode
+We are reviewing venom which just came out
+
+5
+00:00:41,666 --> 00:00:46,028
+last week It's kind of a controversial movie
+among for sure for sure among the general public
+
+6
+00:00:46,188 --> 00:00:50,109
+maybe not necessarily fans I think for the most
+part fans really liked it. Yeah, but either
+
+7
+00:00:50,149 --> 00:00:54,626
+way, I'm super excited to talk about it I did
+not hate it, surprisingly. I thought I would
+
+8
+00:00:54,886 --> 00:00:58,188
+because of all the comparisons to like Catwoman
+and stuff like that. Oh, that was fucking bullshit.
+
+9
+00:00:58,228 --> 00:01:04,471
+Yeah, Lady Gaga fans. I blame them. Screw whoever
+said that. But before we get into that, just
+
+10
+00:01:04,531 --> 00:01:10,373
+a reminder, this is our 92nd episode. We are
+counting down to our 100th episode, which will
+
+11
+00:01:10,393 --> 00:01:15,496
+happen in early December, I believe, and we
+have a big surprise. Can't talk about it yet,
+
+12
+00:01:15,896 --> 00:01:20,958
+but only eight more episodes to go after this.
+Yep. It's going by fast. In this episode, we'll
+
+13
+00:01:20,978 --> 00:01:25,501
+be breaking down the news from the past week.
+A lot of news. Yeah, a ton of news. Yeah, because
+
+14
+00:01:25,521 --> 00:01:29,703
+of New York Comic-Con. Yeah, and a lot of them
+are videos. There's the Aquaman Extended video.
+
+15
+00:01:30,003 --> 00:01:34,385
+There's the Spider-Man Into the Spider-Verse
+Official Trailer 2. We're going to be talking
+
+16
+00:01:34,445 --> 00:01:39,428
+about Rosie Perez being cast in Birds of Prey.
+I think that's like the one non-video news
+
+17
+00:01:39,508 --> 00:01:46,432
+item. There's two trailers for Daredevil Season
+3. A Titans final trailer. And then a Harley
+
+18
+00:01:46,472 --> 00:01:52,059
+Quinn animated series first look. So... Yeah,
+a ton of stuff to go over and break down. The
+
+19
+00:01:52,099 --> 00:01:55,620
+news itself could almost be the entire episode.
+But yeah, after that, we'll get into the Venom
+
+20
+00:01:55,660 --> 00:02:00,202
+review. Just real quick. Usually we save this
+for the end of the episode, but right now we
+
+21
+00:02:00,222 --> 00:02:07,225
+are trying to get to 200 ratings specifically
+on iTunes because Rotten Tomatoes has recently
+
+22
+00:02:07,505 --> 00:02:12,907
+changed their standards for what qualifies as
+a Rotten Tomatoes approved critic, which includes
+
+23
+00:02:12,947 --> 00:02:18,446
+podcasts now. All we need is 200 ratings and
+we meet all of the criteria. So we've been
+
+24
+00:02:18,486 --> 00:02:22,428
+trying to get there and we have been getting
+ratings, but a few people have also been generous
+
+25
+00:02:22,468 --> 00:02:26,610
+enough to give us reviews. So we just wanted
+to give them a quick shout out. Yeah, we super
+
+26
+00:02:26,630 --> 00:02:36,676
+appreciate it. Thank you very much to Dnick290,
+Badewalker, JazzPee, LilChef118, and LarryNuki.
+
+27
+00:02:36,856 --> 00:02:40,578
+I think that's how you pronounce that. Thanks
+to all of you for your generosity. Yeah, you
+
+28
+00:02:40,598 --> 00:02:47,943
+guys say fantastic things. I don't deserve it,
+but you don't deserve it. I do. Neither do
+
+29
+00:02:47,963 --> 00:02:53,588
+you. Thanks again. Yeah, if you guys could help
+us out with reaching 200 ratings on iTunes,
+
+30
+00:02:54,148 --> 00:02:59,573
+please do so. And if you want to give a review
+as well, that would be fantastic. So this Thursday
+
+31
+00:02:59,693 --> 00:03:05,279
+on Patreon, we will be releasing bonus content
+for our patrons in the form of our secret project
+
+32
+00:03:05,299 --> 00:03:08,562
+that we've been working on for the past month
+that the general public doesn't have access
+
+33
+00:03:08,582 --> 00:03:14,467
+to yet. But it'll be like the second episode
+of that. So patrons look forward to that this
+
+34
+00:03:14,507 --> 00:03:19,751
+Thursday. If you want to join our Patreon, go
+ahead and go to patreon.com slash dynamic duel.
+
+35
+00:03:20,271 --> 00:03:24,034
+And for just two bucks a month, you get access
+to weekly bonus content, which is awesome.
+
+36
+00:03:24,234 --> 00:03:28,897
+So check that out for sure. One of our main
+goals for the Patreon account is to reach 25
+
+37
+00:03:28,937 --> 00:03:33,240
+patrons, at which point we will be printing
+out physical copies of the dynamic duel no
+
+38
+00:03:33,280 --> 00:03:37,563
+prize that we award each week to a listener
+that gives our favorite answer to the question
+
+39
+00:03:37,623 --> 00:03:43,618
+of the week. And speaking of no prizes, it's
+no prize time. So a No Prize is an award that
+
+40
+00:03:43,658 --> 00:03:48,499
+Marvel used to give out up until the 90s to
+fans. Our version, the Dynamic Duel No Prize,
+
+41
+00:03:48,779 --> 00:03:53,741
+is a digital award that we post on social media
+that I personally draw for those who we feel
+
+42
+00:03:53,961 --> 00:03:59,122
+gave the best answer to our question of the
+week. Last week's question was, who would you
+
+43
+00:03:59,162 --> 00:04:03,303
+have cast as Huntress and Black Canary? This
+of course stemming from the news that those
+
+44
+00:04:03,343 --> 00:04:08,385
+two roles have been cast in Birds of Prey. Right.
+So this was a tough one. Yeah, a lot of great
+
+45
+00:04:08,465 --> 00:04:12,867
+answers, a lot of great half answers, I guess.
+Yes. With almost every answer that we received,
+
+46
+00:04:13,167 --> 00:04:18,470
+I really, really liked one of those answers
+and really kind of didn't really care for the
+
+47
+00:04:18,510 --> 00:04:23,733
+other one. Ultimately, I awarded the no prize
+to two people who sort of gave my two favorite
+
+48
+00:04:24,153 --> 00:04:29,076
+actresses for the individual roles. But yeah,
+for Black Canary and for Huntress. Yeah, yeah,
+
+49
+00:04:29,456 --> 00:04:34,899
+yeah. Honorable mention goes to Ariana Quadra
+for her answer of Diane Kruger as Black Canary
+
+50
+00:04:35,219 --> 00:04:40,827
+and Rosario Dawson as Huntress, which was fantastic
+choices. Like, I totally loved Diane Kruger
+
+51
+00:04:40,867 --> 00:04:46,373
+ever since Troy. And Rosario Dawson? Total badass.
+They may have been aged out of the parts by
+
+52
+00:04:46,413 --> 00:04:50,457
+this point now, though. They're both in their
+early 40s, late 30s, I think. Yeah, it'd be
+
+53
+00:04:50,477 --> 00:04:54,882
+hard to carry a franchise with them. But yeah,
+honorable mention also goes to Joel Seagrave,
+
+54
+00:04:54,902 --> 00:05:01,359
+who gave the answer of Tatiana Maslany. She's
+the orphan black actress for Black Canary and
+
+55
+00:05:01,479 --> 00:05:05,442
+Eliza Dushku as Huntress. Yeah, that was a great
+answer. I can see both of those actresses in
+
+56
+00:05:05,482 --> 00:05:10,404
+those roles. I can see Tatiana Maslany playing
+Huntress as well as Black Canary. She could
+
+57
+00:05:10,424 --> 00:05:14,347
+do so many roles. Yeah, I guess that's what
+she's known for. Yeah, another honorable mention
+
+58
+00:05:14,387 --> 00:05:20,770
+goes to John and Adam Spies, who gave the answers
+of Natalie Dormer as Black Canary and Marie
+
+59
+00:05:20,830 --> 00:05:25,513
+Evgaropoulos as Huntress. They actually gave
+this answer in their own podcast, Blast From
+
+60
+00:05:25,533 --> 00:05:29,832
+Our Past podcast. which we guest starred on,
+when they sent us their answer, they were like,
+
+61
+00:05:29,852 --> 00:05:34,916
+just the podcast is our answer. So we put it
+in this list. Yeah, that was a fun episode.
+
+62
+00:05:35,097 --> 00:05:39,901
+In that episode, we talked about the Batman
+animated series 90s cartoon show, as well as
+
+63
+00:05:39,941 --> 00:05:43,684
+the X-Men 90s cartoon show. So definitely check
+that out if you get a chance, if you're a fan
+
+64
+00:05:43,784 --> 00:05:47,407
+of those shows, because their podcast is just
+awesome. It's a great podcast. Again, it's
+
+65
+00:05:47,427 --> 00:05:51,871
+called The Blast from Our Past Podcast. Yeah,
+but to move on to the winners of the NOAH Prize,
+
+66
+00:05:52,251 --> 00:05:58,008
+we are giving it to Jacob Bell. who gave the
+answer Blake Lively for Black Canary and Liv
+
+67
+00:05:58,048 --> 00:06:03,332
+Tyler as Huntress. That's great right there.
+It is. Blake Lively as Black Canary, that was
+
+68
+00:06:03,372 --> 00:06:08,456
+always my dream cast. Liv Tyler is probably
+a little bit too like- Well, she's like a decade
+
+69
+00:06:08,516 --> 00:06:16,203
+older than Blake Lively. Yeah. And she's always
+been very low energy, very soft spoken. I don't
+
+70
+00:06:16,223 --> 00:06:22,087
+quite see her as being like the fierce Helena
+Bertinelli from the comics. And then we're
+
+71
+00:06:22,127 --> 00:06:27,906
+also giving the no prize to Mia Moraes. who
+gave the answer Trisha Paytas as Black Canary.
+
+72
+00:06:28,066 --> 00:06:33,328
+I don't know who that is. Which, but the answer
+of Lily Collins as Huntress was fantastic.
+
+73
+00:06:33,848 --> 00:06:38,950
+I love Lily Collins. She's great. She would
+make a fantastic Huntress. Great answer. Yeah.
+
+74
+00:06:38,990 --> 00:06:43,731
+So yeah, congrats to Jacob Bell and Mia Marius.
+You guys both get the Dynamic Duel No Prize
+
+75
+00:06:43,751 --> 00:06:47,792
+for this week. If you wanna win a Dynamic Duel
+No Prize, go ahead and listen to later on this
+
+76
+00:06:47,832 --> 00:06:51,753
+episode when we ask you guys another question
+of the week. With that out of the way, onto
+
+77
+00:06:51,773 --> 00:06:52,153
+the news.
+
+78
+00:06:58,722 --> 00:07:04,523
+So late last week Warner Brothers unveiled an
+extended video. It's five minutes long of Aquaman
+
+79
+00:07:04,563 --> 00:07:08,945
+footage. Yeah, that was crazy when I saw that.
+I was like, wow, what's happening here? Yeah,
+
+80
+00:07:08,985 --> 00:07:15,506
+this whole trailer literally, literally left
+me with tears in my eyes. It's so beautiful.
+
+81
+00:07:15,667 --> 00:07:20,208
+Oh my God. So fantastic. The action looks amazing.
+That's the thing that blew me away. The action
+
+82
+00:07:20,328 --> 00:07:26,578
+and just the cinematography is so bright, so
+colorful, so amazing. These set pieces. I just
+
+83
+00:07:26,618 --> 00:07:30,620
+want to go there. Right? Like I can't believe
+someone imagined some of these places, some
+
+84
+00:07:30,640 --> 00:07:35,462
+of these like set designs. It's just phenomenal.
+It's great. For both of these trailers for
+
+85
+00:07:35,603 --> 00:07:40,785
+Aquaman, I just am blown away by how expensive
+the movie feels. It feels huge. The production
+
+86
+00:07:40,825 --> 00:07:47,269
+value on this must've been astronomical. Like
+a $300 movie. I mean, what? What? $300 million
+
+87
+00:07:47,629 --> 00:07:53,752
+movie. Seriously, seriously, so much money,
+every frame. Yeah, it starts off with Jason
+
+88
+00:07:53,772 --> 00:08:00,557
+Momoa, Arthur Curry, sort of like, talking about
+his origin, I guess, his parents. It's interesting,
+
+89
+00:08:00,617 --> 00:08:05,381
+the first shot is actually of a snow globe of
+a lighthouse sitting on top of an H.P. Lovecraft
+
+90
+00:08:05,461 --> 00:08:10,706
+book, which we know James Wan is a big horror
+fan and H.P. Lovecraft deals with underwater
+
+91
+00:08:10,746 --> 00:08:14,849
+monsters and stuff like that, so that was a
+good call out. But we get to see, basically,
+
+92
+00:08:14,889 --> 00:08:20,594
+it's the love story between his mom, Queen Atlanta,
+and his father, Tom Curry. they're in love,
+
+93
+00:08:20,614 --> 00:08:24,656
+but she has to leave. And then, you know, we
+see Aquaman, you know, grown up and he's lifting
+
+94
+00:08:24,736 --> 00:08:28,779
+us up a submarine. But then the extended video
+really gets into the meat of what it is. And
+
+95
+00:08:28,819 --> 00:08:32,461
+it's really like two action set pieces. I don't
+even want to say action, because the first
+
+96
+00:08:32,561 --> 00:08:36,843
+one is, it's more like an Indiana Jones exploratory
+kind of piece. They're in the desert. They
+
+97
+00:08:36,883 --> 00:08:42,046
+find these lost remains of Atlantis, which is
+kind of cool. I'm guessing it's like one of
+
+98
+00:08:42,086 --> 00:08:45,548
+the cities of Atlantis. And that's why the Atlanteans
+don't live there anymore. Or like the city
+
+99
+00:08:45,628 --> 00:08:49,691
+moved at some point or something. Yeah, maybe,
+I mean. Arthur Curry doesn't say that as they're
+
+100
+00:08:49,711 --> 00:08:53,014
+walking up the sand dune. He's like, you know,
+there's no way Atlantis was this far inland.
+
+101
+00:08:53,634 --> 00:08:57,497
+But yeah, just makes you wonder like what happened
+to Atlantis? What happened to the city? It's
+
+102
+00:08:57,517 --> 00:09:03,142
+a strange line. It's a strange scene. It looks
+cool. It looks really, really cool, just like
+
+103
+00:09:03,182 --> 00:09:09,107
+this ancient city. And even Jason Momoa can
+help himself just being Jason Momoa. It's badass.
+
+104
+00:09:09,187 --> 00:09:15,372
+He's a little bombastic. He is. He is. It's
+it's not in keeping with the character of Arthur
+
+105
+00:09:15,392 --> 00:09:21,780
+Curry that I know from the comics. Yeah. Well,
+what is that character? He's a little more
+
+106
+00:09:21,800 --> 00:09:25,202
+bland. He's a little more generic. He doesn't.
+He's not bombastic. I wouldn't describe him
+
+107
+00:09:25,262 --> 00:09:30,525
+as that. It's true. But in that regard, I think
+that Jason Momoa is perhaps adding some depth
+
+108
+00:09:30,565 --> 00:09:35,908
+to the character that didn't exist prior. You
+look at characters like Iron Man, who prior
+
+109
+00:09:35,948 --> 00:09:39,950
+to the Iron Man movie was a little bit of the
+same, you know, he wasn't defined through his
+
+110
+00:09:40,010 --> 00:09:44,072
+humor. Right. He wasn't like a smart ass. Right.
+He was heavily defined as a character by his
+
+111
+00:09:44,132 --> 00:09:49,651
+alcoholism and a straightforward attitude. But
+it wasn't until Robert Downey Jr.'s portrayal,
+
+112
+00:09:50,011 --> 00:09:54,613
+which was at the time to me a little bit unfamiliar
+in regards to the character, but it totally
+
+113
+00:09:54,633 --> 00:09:59,015
+came to define Tony Stark going forward from
+there, which I came to appreciate because it
+
+114
+00:09:59,055 --> 00:10:04,698
+did add depth. Now we know Tony Stark as the
+eccentric billionaire. Yeah, Jason Momoa definitely
+
+115
+00:10:04,758 --> 00:10:11,280
+isn't selling a regal Aquaman. He's definitely
+more of a guy who just grew up in the normal
+
+116
+00:10:11,300 --> 00:10:16,988
+world. So I don't... I don't mind it. Perhaps
+drinks heavily or something, you know. Yeah,
+
+117
+00:10:17,048 --> 00:10:20,830
+he does. We know that from the Justice League
+film. But it will be interesting if he does
+
+118
+00:10:20,870 --> 00:10:24,513
+eventually become closer to the Aquaman that
+we all know and love from the comics towards
+
+119
+00:10:24,533 --> 00:10:29,837
+the end of the film, that will be his character
+arc. To go from this guy who is the opposite
+
+120
+00:10:30,037 --> 00:10:37,862
+of royalty and go into a more mature character.
+Yeah, yeah. In this scene, they activate this
+
+121
+00:10:38,042 --> 00:10:42,005
+Atlantean machine in kind of a funny way where
+she takes a sweat and he's like, we could have
+
+122
+00:10:42,025 --> 00:10:46,139
+just peed on it. I laughed at that. But it's,
+you know, it's a good thing that her hand didn't
+
+123
+00:10:46,159 --> 00:10:52,542
+like move south lower and just like extract
+the urine from his groin. There's probably
+
+124
+00:10:52,562 --> 00:10:56,664
+a lot more there in his bladder. You probably
+maybe, yeah. But the machine activates like
+
+125
+00:10:56,684 --> 00:11:00,985
+a hologram and it's I think it's King Atlin,
+the first King of Atlantis who actually sank
+
+126
+00:11:01,026 --> 00:11:06,048
+Atlantis. And he's talking about his trident.
+So now we know sort of like the story they're
+
+127
+00:11:06,068 --> 00:11:10,914
+looking for this trident. And we haven't really
+got that in previous trailers. Right. And they're
+
+128
+00:11:10,954 --> 00:11:16,257
+trying to find it, I assume, before Orm can
+find it. Right, yeah, I think so. But as he's
+
+129
+00:11:16,277 --> 00:11:21,640
+talking about Atlantis, we get these really
+great scenes just looking at ancient Atlantis
+
+130
+00:11:21,760 --> 00:11:27,343
+and underwater Atlantis. Yeah, it's amazing.
+It almost looks like Asgard on steroids. Oh
+
+131
+00:11:27,403 --> 00:11:33,346
+yeah. It's insane. It is insane. There's so
+much detail, so much detail in every frame.
+
+132
+00:11:33,466 --> 00:11:39,409
+It's ridiculous. Once he starts talking about
+the Trident and it has the power of Atlantis.
+
+133
+00:11:39,982 --> 00:11:44,223
+Once that the hologram is done, she like breaks
+the key. And then he's like, shouldn't we have
+
+134
+00:11:44,283 --> 00:11:48,085
+at least written the message down? It was kind
+of another funny scene. He's like, blah, blah.
+
+135
+00:11:48,145 --> 00:11:52,847
+Tried it. But then, you know, we get some more
+like quick cuts of different scenes, but it
+
+136
+00:11:52,867 --> 00:11:59,650
+really leads into Black Manta and some like
+Atlantean soldiers against Mara and Arthur.
+
+137
+00:11:59,870 --> 00:12:06,073
+Yeah. Which is pretty cool. Black Manta. Such
+a badass. He looks so flippin cool. Yeah, I'm
+
+138
+00:12:06,113 --> 00:12:10,475
+glad we pit him against Black Panther. I know,
+I know. In our duel episode. It was such a
+
+139
+00:12:10,495 --> 00:12:14,857
+good matchup. I'm really glad we did it. Arthur,
+you know, he definitely seems to be holding
+
+140
+00:12:14,897 --> 00:12:19,579
+his own, like, doing like this flip kick against
+Black Manta, which was kind of cool. He's a
+
+141
+00:12:19,599 --> 00:12:24,061
+fighter. Yeah, definitely. Mera is on the run,
+running across the rooftops as these soldiers
+
+142
+00:12:24,101 --> 00:12:28,563
+are just like tearing straight through walls.
+It's pretty cool. The camera work is pretty
+
+143
+00:12:28,603 --> 00:12:32,785
+amazing. The camera work is the most impressive
+thing about this action scene. I've never seen
+
+144
+00:12:32,825 --> 00:12:36,946
+camera work quite as kinetic as this. where
+it's like darting through windows and stuff
+
+145
+00:12:36,966 --> 00:12:41,308
+like that and really tracking along with the
+action in a way that's impossible to do physically,
+
+146
+00:12:41,728 --> 00:12:46,890
+but somehow they pull it off. It's movie making
+magic. It is for sure, for sure. It's something
+
+147
+00:12:46,910 --> 00:12:51,692
+that you can't do in comics, right? Right. And
+it just brings so much energy to the scene.
+
+148
+00:12:52,432 --> 00:12:57,038
+But you know, that ends with one of the soldiers
+getting shot on Mara. And then we get more
+
+149
+00:12:57,298 --> 00:13:01,981
+action scenes throughout the rest of the video
+of Oram and Arthur Curry fighting underwater.
+
+150
+00:13:02,061 --> 00:13:06,063
+That looks really cool. That's gonna be a highlight
+of the movie, I feel like. We also get a lot
+
+151
+00:13:06,103 --> 00:13:11,726
+of the underwater battle scenes between the
+sharks versus the alligators versus the seahorses
+
+152
+00:13:11,766 --> 00:13:15,108
+and stuff like that. Yeah, and Nicole Kidman
+being a badass with her trident. Yeah, I didn't
+
+153
+00:13:15,128 --> 00:13:17,850
+know she was gonna have an action scene in this
+movie. No, I didn't know either. Looks like
+
+154
+00:13:17,870 --> 00:13:21,732
+she's protecting her family. Maybe they find
+out that she's living with this family at some
+
+155
+00:13:21,772 --> 00:13:25,990
+point. Yeah. And that's why she has to leave,
+I'm guessing. Yeah. I think so. They definitely
+
+156
+00:13:26,030 --> 00:13:31,114
+de-aged her for this. I'm wondering what role
+she's going to serve later on in the film.
+
+157
+00:13:31,554 --> 00:13:35,897
+Not sure. But we get to see more of the trench
+and more of that really, really cool scene
+
+158
+00:13:35,937 --> 00:13:41,141
+of him like carrying a flare down into the water.
+Those monsters look awesome. And then it ends
+
+159
+00:13:41,161 --> 00:13:46,305
+with this pretty cool line of like Atlantis
+has always had a king. Mer is talking to Arthur.
+
+160
+00:13:46,425 --> 00:13:50,848
+This was a great moment. Yeah. And she's like,
+we need something more. And Arthur's like,
+
+161
+00:13:50,868 --> 00:13:56,186
+well, what's greater than a king? She's like
+a hero. And then it's the coolest shot ever.
+
+162
+00:13:56,487 --> 00:14:00,028
+It's well timed with the music and the moment.
+It is super well timed. It's just like this
+
+163
+00:14:00,068 --> 00:14:05,230
+powerful cathartic moment of Aquaman just like
+stepping out of this waterfall with the trident
+
+164
+00:14:05,550 --> 00:14:10,692
+in his classic costume, hair's all wet, just
+pins his trident to the ground. So badass.
+
+165
+00:14:11,573 --> 00:14:16,215
+Oh, so great. I'm wondering if the movie can
+actually live up to this moment from the trailer,
+
+166
+00:14:16,275 --> 00:14:21,937
+because it's a lot of elements that work together
+to create this magical moment. It will, it
+
+167
+00:14:22,217 --> 00:14:27,620
+absolutely will. Okay. It will. I have so much
+faith in James Wan. I can't wait for this film.
+
+168
+00:14:27,720 --> 00:14:32,182
+He should be commended for creating what looks
+to be just a magical movie that presents a
+
+169
+00:14:32,282 --> 00:14:36,585
+lot of things that we have never seen before
+in film. In regards to the action, in regards
+
+170
+00:14:36,605 --> 00:14:40,847
+to this world that he's creating, it looks on
+par with something like Avatar. Oh yeah. It's
+
+171
+00:14:40,907 --> 00:14:46,630
+awesome. I think out of all of its competition
+for its opening weekend, it's going to come
+
+172
+00:14:46,650 --> 00:14:52,793
+out with the top spot. It's facing fierce competition
+from Bumblebee, from Mary Poppins, from Sherlock.
+
+173
+00:14:53,218 --> 00:14:57,319
+Homes and Watson. Homes and Watson, yeah. And
+then that entitled Deadpool Christmas special
+
+174
+00:14:57,359 --> 00:15:01,561
+thing. Right. Yeah. We're not exactly sure if
+that's just a PG-13 of Deadpool 2 or not. I
+
+175
+00:15:01,701 --> 00:15:06,223
+mean, I'm beginning to think it's not going
+to be just that. Right. That's probably the
+
+176
+00:15:06,263 --> 00:15:10,545
+one I'm most concerned about. Uh huh. Um, this
+all kind of brings us to our question of the
+
+177
+00:15:10,565 --> 00:15:10,745
+week.
+
+178
+00:15:15,618 --> 00:15:20,840
+So of the four other major films opening in
+the same timeframe as Aquaman, including Bumblebee,
+
+179
+00:15:20,960 --> 00:15:25,942
+Mary Poppins, Holmes and Watson, and the untitled
+Deadpool Christmas special, tell us why you
+
+180
+00:15:25,982 --> 00:15:32,084
+think Aquaman has the best shot at winning the
+weekend box office, or why not? Yeah, it's
+
+181
+00:15:32,144 --> 00:15:35,966
+a little nerve wracking. It is. With all those
+movies competing against each other. They're
+
+182
+00:15:35,986 --> 00:15:40,388
+just gonna consume each other, and I hope that
+Aquaman's box office doesn't suffer as a result.
+
+183
+00:15:40,968 --> 00:15:46,278
+Again, I do think it'll win the weekend, but
+if it doesn't, I'm kind of curious which one
+
+184
+00:15:46,298 --> 00:15:53,362
+will take it over. Does this trailer make you
+nervous for Deadpool? No, I don't care if Deadpool
+
+185
+00:15:53,382 --> 00:15:57,844
+makes money or not because we already have Deadpool
+2. So it's kind of more like a joke Christmas
+
+186
+00:15:57,884 --> 00:16:03,207
+special kind of thing, I think. So I don't think
+it was made necessarily to make money but more
+
+187
+00:16:03,267 --> 00:16:09,290
+to facilitate the brand of Deadpool. I wish
+they weren't doing it, I hate them. But yeah,
+
+188
+00:16:09,331 --> 00:16:15,762
+post your answer to our Instagram, Twitter,
+Facebook, or email us at dyna and we will pick
+
+189
+00:16:15,802 --> 00:16:20,684
+our favorite answer and draw that person a dynamic
+dual no prize that we'll post to social media.
+
+190
+00:16:21,924 --> 00:16:26,626
+Moving on from Aquaman into Spider-Man, we got
+the official second trailer for Spider-Man
+
+191
+00:16:26,726 --> 00:16:31,748
+into the Spider-Verse. And I think this is the
+best trailer for this movie by far. They've
+
+192
+00:16:31,828 --> 00:16:37,511
+all been really impressive. But this one was
+a great way to sell the movie to general audiences
+
+193
+00:16:37,811 --> 00:16:42,233
+who weren't still quite clear on what the concept
+is. Because it's Peter Parker that introduces
+
+194
+00:16:42,273 --> 00:16:47,311
+the film and he kind of gives us narration.
+and you get short clips of animated scenes
+
+195
+00:16:47,651 --> 00:16:50,993
+that resemble the Sam Raimi films where he's
+talking about like, you know who I am, I've
+
+196
+00:16:51,033 --> 00:16:56,056
+saved the world, you know, and we see him stopping
+the train from Spider-Man 2 and just like the
+
+197
+00:16:56,076 --> 00:17:01,579
+car through the window. Yeah, it's very familiar
+and I think that's a great lead in to what
+
+198
+00:17:01,619 --> 00:17:06,722
+is going to be a more unfamiliar universe for
+most moviegoers. It seems kind of like a Deadpool
+
+199
+00:17:06,762 --> 00:17:11,185
+version of Spider-Man and that like he's self-aware.
+He knows he's a comic book, you know, like
+
+200
+00:17:11,225 --> 00:17:16,700
+he did a Christmas album. Yeah, and the comic
+book and he has a cereal and a so-so popsicle.
+
+201
+00:17:17,121 --> 00:17:21,024
+That was hilarious because I've had that popsicle
+and that's the one with like the gum eyes that
+
+202
+00:17:21,044 --> 00:17:25,207
+are on it. They have other Marvel versions of
+it, but yeah, that was a shitty looking popsicle.
+
+203
+00:17:25,987 --> 00:17:29,970
+It looked like it was photographed on like a
+plastic plate or something. It's funny. But
+
+204
+00:17:30,030 --> 00:17:34,914
+yeah, it transitions from there into the Miles
+Morales Ultimate Universe and we get a rehash
+
+205
+00:17:34,974 --> 00:17:39,497
+of the scene where he tells his dad, I love
+you, which pays off later on in this trailer
+
+206
+00:17:39,637 --> 00:17:43,771
+where He tells his dad he loves him again while
+in the Spider-Man costume. Right, and the dad's
+
+207
+00:17:43,791 --> 00:17:49,692
+like, what? Wait, what? It looks like the Kingpin
+and some other supervillains are trying to
+
+208
+00:17:49,812 --> 00:17:55,294
+open a dimensional gateway, and that's what
+brings Spider-Man through to this world. So
+
+209
+00:17:55,314 --> 00:18:00,295
+that was the Kingpin. Yes. And it's voiced by
+Leif Schreiber. Oh, that's cool. Yeah. It's
+
+210
+00:18:00,315 --> 00:18:03,676
+a pretty good Kingpin voice, I think. I like
+the character design on all these guys, but
+
+211
+00:18:03,736 --> 00:18:09,142
+he looks particularly menacing here. But Kingpin
+does. He does. He does. And so Spider-Man comes
+
+212
+00:18:09,222 --> 00:18:13,785
+into the Ultimate Universe and basically tells
+Miles, like, I'm from this normal universe
+
+213
+00:18:13,885 --> 00:18:18,829
+and you're from this like weird dinky universe
+using french fries as metaphors. But he trains
+
+214
+00:18:18,889 --> 00:18:25,473
+Miles on how to be Spider-Man. And in the process,
+we introduced to all these other characters
+
+215
+00:18:25,794 --> 00:18:29,516
+that are going to be in the movie. They're pretty
+cool at the introductions. Yeah, I like the
+
+216
+00:18:29,536 --> 00:18:33,139
+introductions. Gwen Stacy with like the drums,
+I was like, yeah, it was like really getting
+
+217
+00:18:33,179 --> 00:18:38,070
+into the trailer. Yeah, we've seen her in those
+Aspen trees before, but yeah, like. Her universe
+
+218
+00:18:38,090 --> 00:18:42,451
+is very pink. She's a musician in her universe.
+She plays the drums. She's in a band. This
+
+219
+00:18:42,471 --> 00:18:46,232
+is the universe where Gwen Stacy was bit by
+the radioactive spider instead of Peter Parker.
+
+220
+00:18:46,752 --> 00:18:52,014
+We also get introductions to Spider-Man War
+voiced by Nick Cage. It's a really quick introduction.
+
+221
+00:18:52,114 --> 00:18:56,355
+Yeah, it's a really quick introduction. It looks
+pretty cool though. And we also see Spider
+
+222
+00:18:56,815 --> 00:19:02,157
+who is Penny Parker who controls the spider
+robot. So that's pretty cool. I wasn't expecting
+
+223
+00:19:02,197 --> 00:19:06,178
+to see her, but her art style, the art style
+in each of these characters. is pretty spot
+
+224
+00:19:06,278 --> 00:19:10,322
+on for the universe that they come from. Yeah.
+Like Penny Parker, she looks like an anime
+
+225
+00:19:10,342 --> 00:19:16,426
+character. Right, right. And Peter Parker looks
+like a Looney Tunes character. He looks almost
+
+226
+00:19:16,466 --> 00:19:21,070
+exactly like Porky Pig. And John Mulaney's voice
+is just fantastic. It's fantastic, it's great,
+
+227
+00:19:21,090 --> 00:19:24,453
+yeah. I like how Peter Parker's like, this can't
+get any weirder. And he's like, it can get
+
+228
+00:19:24,493 --> 00:19:29,697
+weirder. I have no idea why his hand is wet
+though, or his body is wet. Right. After that
+
+229
+00:19:29,737 --> 00:19:33,871
+we get... Just kinda like quick flashes about
+what the rest of the movie is about. It looks
+
+230
+00:19:33,891 --> 00:19:38,754
+like Kingpin is teaming up with enemies like
+Tombstone and the Scorpion to fight the Spider-Man.
+
+231
+00:19:38,794 --> 00:19:44,417
+It's a different take on Scorpion. Is that like
+the ultimate version? Yeah, it is. Green Goblin's
+
+232
+00:19:44,457 --> 00:19:48,599
+in it too and it's the ultimate version of him
+as well. We see Prowler as well, I think. Yeah,
+
+233
+00:19:48,799 --> 00:19:53,241
+Prowler. All great designs, I think. I still
+just love the animation of this whole thing.
+
+234
+00:19:53,561 --> 00:19:57,883
+Is it like a little... choppy again so it looks
+like almost like it's stop motion or something
+
+235
+00:19:57,903 --> 00:20:02,366
+like that. Yeah, lower frame rate. Right, exactly.
+It brings a lot of charm to it. Yeah, definitely.
+
+236
+00:20:02,726 --> 00:20:08,309
+The last thing is Miles and Peter and Spider-Man
+Noir and Peter Porker and all those guys, they're
+
+237
+00:20:08,549 --> 00:20:13,352
+I guess hiding in Miles' room where Gonky is,
+or Gonk, I don't know how to pronounce his
+
+238
+00:20:13,392 --> 00:20:18,034
+name, but it's his best friend and he's reading
+a Spider-Man comic book it looks like and they're
+
+239
+00:20:18,054 --> 00:20:24,838
+trying to remain hidden by sticking to the walls
+as like a singular spider. Right. Spider-Hem
+
+240
+00:20:25,259 --> 00:20:29,083
+blows the cover by saying, do animals talk in
+this universe? Cause I don't want to freak
+
+241
+00:20:29,103 --> 00:20:33,808
+him out. That was hilarious. It was pretty good.
+I really liked that joke. And all, every time
+
+242
+00:20:33,848 --> 00:20:37,812
+I see new marketing for this movie, I get more
+and more excited for it. Especially that final
+
+243
+00:20:37,832 --> 00:20:43,738
+shot where like Miles Morales takes that opening
+scene and really makes it his own. Where Peter
+
+244
+00:20:43,778 --> 00:20:48,754
+Parker was standing on that gargoyle looking
+over New York City. This time it's Miles Morales
+
+245
+00:20:48,774 --> 00:20:52,476
+and he kind of stamps his own mark on it. Yeah,
+he's literally putting his own mark on it.
+
+246
+00:20:52,676 --> 00:20:56,197
+Yeah, it's- I mean, it's vandalism, but it's
+still badass. It's a bumper sticker. No one's-
+
+247
+00:20:56,677 --> 00:21:00,559
+who's gonna complain? No one's gonna see it.
+I've been more excited for this than like any
+
+248
+00:21:00,599 --> 00:21:04,541
+other Marvel movie, I think, in a really long
+time. Really? Yeah, I don't know why. Just
+
+249
+00:21:04,581 --> 00:21:09,763
+because of its artistic style? I think so. Yeah,
+it's really cool. It's certainly more styled
+
+250
+00:21:09,783 --> 00:21:13,724
+than other animated Marvel and DC films that
+have come out recently, such as like Lego Batman.
+
+251
+00:21:13,824 --> 00:21:19,627
+Oh, yeah. Or Teen Titans Go or something like
+that. Yeah. So in other news, Rosie Perez has
+
+252
+00:21:19,647 --> 00:21:26,731
+been cast as Renee Montoya in the Birds of Prey
+film, which in one sense is kind of perfect
+
+253
+00:21:26,891 --> 00:21:33,535
+casting. She's a little bit older. She is. That's
+the other sense. It was a definite surprise
+
+254
+00:21:33,555 --> 00:21:39,839
+to me. I thought they would go for someone younger,
+for someone who, you know, could carry a franchise
+
+255
+00:21:40,079 --> 00:21:45,746
+for many years to come. Right. Well, in the
+comics, the question is... Victor Sage and
+
+256
+00:21:45,806 --> 00:21:50,468
+he is the mentor to Renee Montoya who comes
+the second question. So it looks like in this
+
+257
+00:21:50,508 --> 00:21:55,450
+Birds of Prey movie, they're kind of swapping
+that in that it seems like Renee Montoya is
+
+258
+00:21:55,470 --> 00:22:00,212
+going to be the mentor character to perhaps
+some of these younger super heroines. I don't
+
+259
+00:22:00,292 --> 00:22:06,335
+know honestly, if that's the case. She may just
+be a cop. She may just be a Gotham city police
+
+260
+00:22:06,395 --> 00:22:10,957
+officer, which I could totally see her selling,
+you know? Oh, so you don't think we'll see
+
+261
+00:22:10,997 --> 00:22:17,258
+her as the question? I'm starting to have doubts
+because of this casting. If it was a younger
+
+262
+00:22:17,298 --> 00:22:22,142
+casting, I think maybe you would have, you know,
+like a pretty solid journey from her being
+
+263
+00:22:22,182 --> 00:22:28,627
+a detective to being the question. But I think
+this may be a smaller role than I initially
+
+264
+00:22:28,707 --> 00:22:35,013
+thought. OK. Yeah. Because, you know, they need
+some kind of face for the police force in Gotham
+
+265
+00:22:35,073 --> 00:22:39,937
+City in general. So why not have it be Renee
+Montoya? That makes the question may not factor
+
+266
+00:22:39,977 --> 00:22:44,624
+into this at all. Which is kind of a shame.
+I do like the character of the question. Yeah.
+
+267
+00:22:45,325 --> 00:22:50,770
+I mean, it still leaves room for Victor Sage
+to be the question, but it kind of maybe puts
+
+268
+00:22:50,790 --> 00:22:55,714
+the character of René Montoya in a position
+in the cinematic realm, at least of never being,
+
+269
+00:22:56,135 --> 00:23:00,422
+never being the question. Yeah. It leaves both
+options open-ended. Yeah. Yeah, it does. You
+
+270
+00:23:00,442 --> 00:23:03,923
+know, I remember her from films like Do the
+Right Thing, White Men Can't Jump. I don't
+
+271
+00:23:03,943 --> 00:23:06,845
+think I ever saw that full movie. She was in
+Planetable Express. It was the last thing I
+
+272
+00:23:06,865 --> 00:23:10,446
+saw. She was. Yeah. She was a cop in that, wasn't
+she? Yeah, she was. Yeah. Maybe that's what
+
+273
+00:23:10,466 --> 00:23:15,148
+I'm thinking. She's going to be a pretty badass
+detective. But yeah, again, it was it was just
+
+274
+00:23:15,468 --> 00:23:20,050
+a big surprise to me. I wasn't quite sure how
+I felt about it initially, but quite the diverse
+
+275
+00:23:20,070 --> 00:23:25,273
+cast that they have going here now. Yeah, for
+sure. For sure. She's of course joining Journey
+
+276
+00:23:25,313 --> 00:23:30,483
+Smollett Bell and Mary Elizabeth Winstead. and
+Margot Robbie in the film. We don't know who
+
+277
+00:23:30,543 --> 00:23:34,866
+is going to play Black Mask yet. And we don't
+know who's going to play Cassandra Cain yet.
+
+278
+00:23:34,946 --> 00:23:39,189
+That'll be interesting. Yeah. Yeah, definitely.
+I'm looking forward to seeing what else they
+
+279
+00:23:39,229 --> 00:23:46,415
+could do with this. I don't have 100% confidence
+in the project yet, I would say. But, you know,
+
+280
+00:23:46,435 --> 00:23:50,758
+I'm just waiting for more information. We have
+rumors of what the story is going to be. And
+
+281
+00:23:50,778 --> 00:23:55,341
+that sounds like a bad-ass story. Right. But
+hopefully Cathy Young can pull it off, the
+
+282
+00:23:55,381 --> 00:24:01,207
+director. Right, right. Alright, moving on to
+the first trailers for Daredevil Season 3.
+
+283
+00:24:01,467 --> 00:24:05,710
+They're a little bit late coming considering
+that the third season actually debuts in just
+
+284
+00:24:05,890 --> 00:24:11,292
+like a week actually. Right. Yeah. But I think
+that's why they gave us two right away. We
+
+285
+00:24:11,312 --> 00:24:17,395
+got two Daredevil Season 3 trailers. The first
+one is more about Matt Murdock and we see him
+
+286
+00:24:17,575 --> 00:24:21,937
+kind of out from under the rubble that he was
+stuck under from the Defenders television show.
+
+287
+00:24:22,037 --> 00:24:25,544
+Yeah. Can you believe that it's actually been
+that long since we've had a Daredevil season?
+
+288
+00:24:25,724 --> 00:24:30,287
+Yeah, since like last year. Since season two,
+no, two years ago. What? Since season two,
+
+289
+00:24:30,307 --> 00:24:35,570
+we've had two seasons of Luke Cage, two Iron
+Fist seasons, a Defenders and a Jessica Jones.
+
+290
+00:24:35,771 --> 00:24:40,374
+That's true. Yeah, it's been a while. But it's
+good to have him back, especially with the
+
+291
+00:24:40,414 --> 00:24:45,877
+Kingpin back. Heck yeah. In this trailer, we
+see that Kingpin strikes a deal and he's able
+
+292
+00:24:45,917 --> 00:24:50,981
+to get released on parole, it looks like, from
+prison. And he's out to seek revenge against
+
+293
+00:24:51,041 --> 00:24:56,149
+Matt Murdock and just... make his life a living
+hell. So it seems to be at least partially
+
+294
+00:24:56,469 --> 00:25:01,073
+adapting the Born Again storyline in which the
+Kingpin knows Daredevil's secret identity and
+
+295
+00:25:01,093 --> 00:25:05,497
+you can listen to more about that in our Daredevil
+versus Nightwing dual episode that we did a
+
+296
+00:25:05,517 --> 00:25:10,041
+few months ago. And I'm not missing anything
+right? Like Kingpin doesn't currently know
+
+297
+00:25:10,101 --> 00:25:14,544
+Matt Murdock's identity. Like he'll learn it
+in this season. Well at the end of Daredevil
+
+298
+00:25:14,564 --> 00:25:19,849
+season two it seemed like he was this close
+to figuring it all out. He was following a
+
+299
+00:25:19,889 --> 00:25:24,269
+paper trail. that would have revealed that Matt
+Murdock was Daredevil. Cause that was his kind
+
+300
+00:25:24,289 --> 00:25:28,393
+of project while he was in prison, just passing
+time, was trying to figure out who this guy
+
+301
+00:25:28,473 --> 00:25:33,519
+is. The action looks spectacular in this trailer.
+It looks like we have another hallway fight
+
+302
+00:25:33,559 --> 00:25:37,623
+this time that takes place in the prison. And
+I heard that it's just amazing from people
+
+303
+00:25:37,643 --> 00:25:42,448
+who have seen the first few episodes of the
+show so far. Both trailers are really intense.
+
+304
+00:25:42,788 --> 00:25:47,851
+Yeah, they are. Really intense. Matt's back
+to wearing his black outfit from the initial
+
+305
+00:25:47,891 --> 00:25:52,074
+season one. I think the reason he's wearing
+the black costume is because as we see at the
+
+306
+00:25:52,134 --> 00:25:56,717
+end of this trailer, there's a new guy who's
+wearing the Daredevil costume and he's being
+
+307
+00:25:56,757 --> 00:26:01,560
+a villain basically. So I think in order to
+distinguish himself from that evil Daredevil,
+
+308
+00:26:01,660 --> 00:26:06,102
+Matt has taken on his old costume so that he
+doesn't get confused by the authorities or
+
+309
+00:26:06,122 --> 00:26:09,644
+from other people. I don't know if that's the
+case because he's wearing his black costume
+
+310
+00:26:09,664 --> 00:26:15,115
+before he even meets the new Daredevil. But
+we don't necessarily know the chronology of
+
+311
+00:26:15,155 --> 00:26:19,737
+events here. It could be that this new Daredevil
+has been Daredevil for quite some time at this
+
+312
+00:26:19,777 --> 00:26:25,560
+point. True, maybe. So it is cool though, I
+mean, they're heavily implying that this new
+
+313
+00:26:25,600 --> 00:26:30,582
+Daredevil is Bullseye, just the way he's throwing
+things and how accurate he is at throwing and
+
+314
+00:26:30,762 --> 00:26:34,423
+marksmanship and stuff like that. And he has
+a gun at the very end of the trailer. It's
+
+315
+00:26:34,443 --> 00:26:38,765
+kind of like a callback to like the famous Daredevil
+comic book cover where he's like pointing a
+
+316
+00:26:38,825 --> 00:26:43,455
+gun. Oh, right. Yeah. It was like no more Mr.
+Nice Guy or something like that. Something
+
+317
+00:26:43,475 --> 00:26:48,117
+like that. Yeah. Part of Frank Miller's run.
+It is very reminiscent of that. And Wilson
+
+318
+00:26:48,257 --> 00:26:53,339
+Bethel looks pretty cool in the mask, I think.
+At one point, he was in the running to play
+
+319
+00:26:53,379 --> 00:26:57,181
+Captain America. He was like in the top three
+contenders to play Captain America. Oh, really?
+
+320
+00:26:57,301 --> 00:27:02,403
+Oh, I'm still glad that Chris Evans got the
+role because he's just he's just perfect as
+
+321
+00:27:02,443 --> 00:27:07,685
+Cap. It's nice to also see that Wilson Bethel
+still got a chance to play in the Marvel universe.
+
+322
+00:27:07,765 --> 00:27:11,563
+Yeah. because he seems like a pretty badass
+actor, especially in the next trailer that
+
+323
+00:27:11,583 --> 00:27:16,746
+we get, where we get to see more regarding the
+character of who they're calling Agent Poindexter.
+
+324
+00:27:17,147 --> 00:27:22,470
+This is Bullseye, right? It is. I don't remember
+his name being Poindexter in our Bullseye vs.
+
+325
+00:27:22,630 --> 00:27:27,152
+Deadshot episode. Yeah, his name was Lester.
+Yeah. They've never really revealed his name,
+
+326
+00:27:27,213 --> 00:27:31,115
+so I'm wondering if the show is kind of taking
+liberty with that, or they're actually giving
+
+327
+00:27:31,155 --> 00:27:34,817
+him a name. I guess there's enough mystery around
+the character where they can do something like
+
+328
+00:27:34,857 --> 00:27:40,571
+that successfully. Right. Like maybe his name
+is Lester Poindexter or Dexter Lester or something
+
+329
+00:27:40,591 --> 00:27:45,033
+like that. That'd be a weird name. But yeah.
+And, and the end, it could turn out to all
+
+330
+00:27:45,053 --> 00:27:50,355
+be an alias or something like that. So one never
+knows, but Kingpin is impressed with his skills
+
+331
+00:27:50,676 --> 00:27:57,118
+as a corrupt FBI agent and hires him essentially
+to impersonate Daredevil. Yeah. The guy looks
+
+332
+00:27:57,178 --> 00:28:02,780
+intense. Uh, he has a very intense look to him.
+His, his bone structure is like freaking gaunt
+
+333
+00:28:02,840 --> 00:28:07,519
+as hell. Those are some sharp features, but
+his voice is pretty spot on into what I would
+
+334
+00:28:07,559 --> 00:28:12,582
+imagine Bullseye's voice would be as well. And
+just the things that he does where he's like
+
+335
+00:28:12,963 --> 00:28:17,666
+shooting guys from far distances, nailing him
+with the headshot and you know throwing knives
+
+336
+00:28:17,706 --> 00:28:21,969
+into chest and stuff like that. He looks pretty
+badass. Bullseye is pretty unstable. He's always
+
+337
+00:28:22,029 --> 00:28:27,353
+been like a scary kind of villain. And that
+he's just like unpredictable and just so darn...
+
+338
+00:28:27,513 --> 00:28:32,636
+Talented. Efficient and talented. Yeah. I'm
+excited for this season. I like one of the
+
+339
+00:28:32,656 --> 00:28:36,547
+later shots where it looks like... Bullseye
+is about to kill a guy by throwing a billy
+
+340
+00:28:36,567 --> 00:28:41,069
+club through his head and at the very last moment
+Matt Murdock is able to catch it right before
+
+341
+00:28:41,089 --> 00:28:45,011
+it hits the guy's face. Yeah, that was pretty
+cool. Yeah So really looking forward to this
+
+342
+00:28:45,031 --> 00:28:50,214
+season. I don't have to wait long for it. Thank
+goodness comes out October 19th So yeah, we'll
+
+343
+00:28:50,234 --> 00:28:53,636
+definitely have the review up by the end of
+this month when we binge all those episodes
+
+344
+00:28:53,856 --> 00:28:59,679
+Yeah, yeah, it's coming up soon moving on to
+DC television We got our final trailer the
+
+345
+00:28:59,719 --> 00:29:05,786
+official team up trailer for Titans which comes
+out also this month I think next week actually.
+
+346
+00:29:05,806 --> 00:29:11,167
+Oh really? Yeah, yeah. This debuted at New York
+Comic Con. It's not a long trailer. It's less
+
+347
+00:29:11,207 --> 00:29:14,649
+than two minutes long. It's my favorite trailer
+so far that they've released. It's because
+
+348
+00:29:14,669 --> 00:29:19,370
+of the song, isn't it? It's not just because
+of that cool cover song by Marilyn Manson of
+
+349
+00:29:19,490 --> 00:29:22,991
+Cry Little Sister. It was the Lost Boys song.
+Yeah, the song from the Lost Boys movie. It's
+
+350
+00:29:23,031 --> 00:29:27,272
+such a great cover and it fits so well with
+the visuals that we're seeing on the trailer.
+
+351
+00:29:27,432 --> 00:29:33,399
+Yeah. But it also does a great job with showcasing
+each. Superheroes powers. I think in a way
+
+352
+00:29:33,419 --> 00:29:37,522
+that the previous trailers didn't they feel
+more like their respective characters in this
+
+353
+00:29:37,562 --> 00:29:42,607
+than they have at any Previous point in the
+marketing. Yeah, this probably is also my favorite
+
+354
+00:29:42,627 --> 00:29:47,571
+trailer better than like last week's Netflix
+trailer It makes me want to be Robin and have
+
+355
+00:29:47,591 --> 00:29:52,334
+a collapsible bow staff that I can use to just
+like point outward and then like have it Extend
+
+356
+00:29:52,455 --> 00:29:56,358
+and hit two guys on the sides of me. It's just
+so cool They are totally selling Robin like
+
+357
+00:29:56,518 --> 00:30:01,886
+in a way that no live-action Robin. I mean,
+there's only been one I guess Yeah Yeah, he's
+
+358
+00:30:01,966 --> 00:30:06,008
+such a badass in this. He looks like he's a
+badass. Even Beast Boy is impressed. He's like,
+
+359
+00:30:06,068 --> 00:30:10,891
+it's Robin. Yeah, yeah. His reaction was my
+reaction. Yeah, it was a great moment. But,
+
+360
+00:30:11,331 --> 00:30:15,634
+you know, it sets up the story. It's definitely
+like a Rosemary's baby kind of thing. Raven's
+
+361
+00:30:15,674 --> 00:30:21,097
+the daughter of Trigon and, you know, this cult
+is trying to bring him back through her. Right.
+
+362
+00:30:21,777 --> 00:30:25,920
+We can see her use her powers in this too. She
+kind of like extends her soul self out of her
+
+363
+00:30:25,980 --> 00:30:30,394
+body. Yeah. Attacks on people with it. It doesn't
+look. quite like I thought it would. It doesn't
+
+364
+00:30:30,414 --> 00:30:35,457
+look like a raven or anything. It looks like
+a swarm of ravens. Yeah, they kind of form
+
+365
+00:30:35,477 --> 00:30:39,559
+like a tentacle kind of thing. Yeah, yeah, I
+don't know if I'm the biggest fan. You know,
+
+366
+00:30:39,679 --> 00:30:44,641
+this has been getting good reviews, but they're
+also saying like, it's not really the Titans
+
+367
+00:30:44,661 --> 00:30:50,784
+that people know. They're saying the acting
+is really good and the story grows on you for
+
+368
+00:30:50,824 --> 00:30:56,107
+sure. So I'm glad that it's getting good reviews
+because. These trailers don't inspire the highest
+
+369
+00:30:56,147 --> 00:31:01,031
+degree of confidence when it comes to faithful
+interpretations of the characters Uh-huh, but
+
+370
+00:31:01,151 --> 00:31:05,975
+I'm still definitely gonna watch it for sure.
+We see Beast Boy turn into a tiger We see Starfire
+
+371
+00:31:05,995 --> 00:31:11,480
+shoot her fire out Yeah Beast Boy like his introduction
+is like Raven stumbling in on him when he's
+
+372
+00:31:11,500 --> 00:31:16,123
+like all bloody at the mouth and stuff like
+that It's like the cult has him maybe trapped
+
+373
+00:31:16,163 --> 00:31:21,488
+in the same place that she's trapped in I don't
+know and she rescues him and then it also looks
+
+374
+00:31:21,508 --> 00:31:26,772
+like Starfire rescues Raven as well Yeah, and
+then they meet Robin and he's just being a
+
+375
+00:31:26,812 --> 00:31:31,595
+badass taking fools out in the dark and shadow
+just being really cool What do you think of
+
+376
+00:31:31,635 --> 00:31:36,838
+the news that we heard that the reason that
+robin is like branching away from batman in
+
+377
+00:31:36,878 --> 00:31:42,582
+this series is Because he disagrees with batman's
+methodology in that he kills people in this
+
+378
+00:31:42,642 --> 00:31:48,326
+universe Do you think that's true? Do you think
+it's been misinterpreted? I don't know I wouldn't
+
+379
+00:31:48,366 --> 00:31:52,909
+be surprised if that's the case judging on how
+dark this is. Uh-huh. I'm not happy about it
+
+380
+00:31:53,538 --> 00:31:56,959
+But I don't know, it doesn't seem like Batman
+will be that big of a character in this show.
+
+381
+00:31:57,199 --> 00:32:03,223
+So, I don't know. Hopefully they don't. Wait,
+fuck it up DC. I know. If they did that. If
+
+382
+00:32:03,243 --> 00:32:06,765
+they did that. Apparently they didn't fuck it
+up though, because I keep hearing good things
+
+383
+00:32:06,805 --> 00:32:10,887
+about it. There's some fascinating things in
+this trailer, like this guy just covered in
+
+384
+00:32:10,947 --> 00:32:15,750
+blood and like the cult people like blinking
+lights in their head. It's pretty crazy. It
+
+385
+00:32:15,770 --> 00:32:19,632
+looks pretty crazy. And of course we get that
+Avengers team up shot at the end where all
+
+386
+00:32:19,752 --> 00:32:24,750
+of them are in frame and like, you know, Beast
+Boy is a tiger and... Raven is in her white
+
+387
+00:32:24,810 --> 00:32:30,193
+form. Yeah. I'm looking forward to next week
+just to get a taste of it. Yeah Too bad. It
+
+388
+00:32:30,213 --> 00:32:34,956
+doesn't all come out at one time. We did get
+the release schedule for the DC Universe shows
+
+389
+00:32:35,056 --> 00:32:38,858
+Yes. Yep, and it looks like we're actually getting
+Doom Patrol earlier than we thought we would.
+
+390
+00:32:39,278 --> 00:32:44,121
+Yeah, it's coming out next year Brendan Fraser
+was on stage and he made a goof. He was like,
+
+391
+00:32:44,161 --> 00:32:48,423
+oh, yeah, it's coming out mid-december. That's
+that's not the case That's when Young Justice
+
+392
+00:32:48,443 --> 00:32:54,086
+comes out. Yes. Yeah, and then Doom Patrol comes
+after that, right? Another one of the shows
+
+393
+00:32:54,266 --> 00:33:00,489
+for DC Universe that we got a sneak peek at
+was Harley Quinn. That's coming out next December.
+
+394
+00:33:00,649 --> 00:33:04,310
+Right, like more than a year from now. That's
+insane. I'm surprised they gave us our first
+
+395
+00:33:04,390 --> 00:33:10,333
+look so early. But along with the first look
+came the news that Kelly Cuoco of The Big Bang
+
+396
+00:33:10,353 --> 00:33:15,595
+Theory is voicing Harley Quinn. Now when I first
+saw the sneak peek, which starts off in Arkham
+
+397
+00:33:15,615 --> 00:33:21,057
+Asylum, actually it stays there. It's just her
+talking to the camera in her prison cell with
+
+398
+00:33:21,097 --> 00:33:25,880
+Poison Ivy. Yeah, breaking the fourth wall.
+Yeah, I went to the audience. I wasn't exactly
+
+399
+00:33:26,380 --> 00:33:32,203
+thrilled with the voice initially until like,
+I don't know, halfway through when she's talking
+
+400
+00:33:32,223 --> 00:33:37,026
+about extremely gratuitous violence. Then I'm
+like, this is a pretty good voice to me. She
+
+401
+00:33:37,046 --> 00:33:43,430
+sold me on you're going to piss yourself. It
+is a funny trailer. I watched it like 50 times
+
+402
+00:33:43,450 --> 00:33:47,832
+that I was just laughing every time. And my
+wife was like, what are you watching? So I
+
+403
+00:33:47,852 --> 00:33:53,207
+had to show her. But yeah, I like the animation
+style. I like the humor, I like the voice work,
+
+404
+00:33:53,888 --> 00:34:01,573
+Lake Bell as Poison Ivy is fantastic. And then
+we even get a Batman cameo. And a dig at Deadpool.
+
+405
+00:34:02,014 --> 00:34:07,497
+Nice Marvel dig right in there. Ugh. Yeah, I
+hated that. Because as we all know, Deadpool
+
+406
+00:34:07,537 --> 00:34:12,181
+was to get an animated series as well, and it
+was supposed to be produced, and I think starring
+
+407
+00:34:12,341 --> 00:34:17,925
+Donald Glover as Wade Wilson, and it fell through
+the cracks due to creative differences, allegedly.
+
+408
+00:34:18,085 --> 00:34:23,904
+Right. But... Yeah, this looks good. I think
+I do like Kaley Cuoco's voice It's surprising
+
+409
+00:34:23,944 --> 00:34:29,687
+because her big bang theory cast mates Melissa
+Rush I think is how you pronounce her name.
+
+410
+00:34:30,108 --> 00:34:36,451
+She was also Harley Quinn Yeah, in the Harley
+and Batman movie that came out earlier this
+
+411
+00:34:36,511 --> 00:34:41,114
+year. I think yeah, yeah I didn't see the film.
+I saw the trailer though. Honestly. I didn't
+
+412
+00:34:41,154 --> 00:34:45,176
+really care for the voice. I like this one much
+more Yeah, I wonder if they were competing
+
+413
+00:34:45,236 --> 00:34:49,270
+for this role of Harley Quinn in this television
+show I wouldn't be surprised, you know, along
+
+414
+00:34:49,290 --> 00:34:54,153
+with Tara Strong and probably all the other
+voices wanted this role. But I'm kind of glad
+
+415
+00:34:54,173 --> 00:34:58,495
+it went to Kelly Cuoco because she does have
+some nerd cred, some geek cred in there. A
+
+416
+00:34:58,515 --> 00:35:02,237
+little bit. The cast, honestly, for this show,
+I don't know if you've seen the cast list,
+
+417
+00:35:02,517 --> 00:35:07,720
+it's fantastic. Really? It has, you know, Lake
+Bell has Jason Alexander from Seinfeld. It's
+
+418
+00:35:07,760 --> 00:35:11,582
+just so many voices. It's gonna be great. We
+don't know who everyone is gonna play yet.
+
+419
+00:35:11,602 --> 00:35:16,705
+Uh. But the cast is phenomenal. And now we just
+have to wait a year to see it. A whole freaking
+
+420
+00:35:16,745 --> 00:35:22,478
+year. Yay. I guess they also give a dig to DC
+as well when they're talking about like, shouldn't
+
+421
+00:35:22,498 --> 00:35:27,482
+it be like dark and bleak and depressing like
+other DC stuff? Yeah. I just love Harley's
+
+422
+00:35:27,522 --> 00:35:31,506
+reaction. She's like, that is a wonderful way
+to make movies and television shows, but not
+
+423
+00:35:31,546 --> 00:35:36,390
+my show. Just it's, there's so many like very
+diplomatic kind of answer. There's a great
+
+424
+00:35:36,450 --> 00:35:41,002
+energy to Kelly Cuoco's voice. And you know,
+she could hit the highs and she hits like more
+
+425
+00:35:41,042 --> 00:35:45,787
+serious notes. More serious notes. She does
+a great job. Yeah. And like the logo is great
+
+426
+00:35:45,847 --> 00:35:50,031
+and she comments on that and they're like, ooh,
+this logo. Yeah. Poison Ivy is like, they're
+
+427
+00:35:50,051 --> 00:35:54,556
+going to hate it. It's very Suicide Squad, that
+logo, you know, very like neon blue and pink.
+
+428
+00:35:54,656 --> 00:36:00,242
+Yeah, it is. It is. Yeah. But I think that brings
+us to the end of the news. Let's go ahead and
+
+429
+00:36:00,462 --> 00:36:03,425
+get into our review of the Venom film. Let's
+do it.
+
+430
+00:36:18,210 --> 00:36:23,714
+Alright, so Venom, quite the polarizing movie
+I've found. I think we're gonna have listeners
+
+431
+00:36:23,994 --> 00:36:27,216
+who are gonna hate this movie, I think we're
+gonna have listeners that absolutely love this
+
+432
+00:36:27,256 --> 00:36:32,640
+movie, so what I don't want to have happen is
+you guys hate us for thinking that the movie
+
+433
+00:36:32,681 --> 00:36:37,624
+was, you know, mostly good. Is there anyone
+who really loves this movie though? Oh yeah,
+
+434
+00:36:37,644 --> 00:36:41,948
+oh yeah. Really? Yeah, there are people out
+there who really love this movie. Because,
+
+435
+00:36:41,988 --> 00:36:47,235
+you know, it does have a lot going for it. You
+know, despite everything that we say regarding
+
+436
+00:36:47,335 --> 00:36:52,997
+the movie's flaws, which there are a lot, and
+we'll get into that, Venom surpasses a lot
+
+437
+00:36:53,017 --> 00:36:57,659
+of that negativity through what it does really
+well, and that is, you know, the relationship
+
+438
+00:36:57,679 --> 00:37:03,602
+between Venom and Eddie, and the characterization
+of Venom. I thought the film absolutely nailed
+
+439
+00:37:03,882 --> 00:37:08,744
+the Venom character, especially in regards to
+the action, which, you know, is the primary
+
+440
+00:37:08,764 --> 00:37:13,678
+appeal of any superhero movie. As moviegoers
+and comic fans, we want to see these characters'
+
+441
+00:37:13,718 --> 00:37:18,622
+personalities depicted accurately, and marvel
+at the spectacle of their powers. And I think
+
+442
+00:37:18,702 --> 00:37:24,307
+in that regard, I think this movie succeeded.
+And just a forewarning to those who haven't
+
+443
+00:37:24,327 --> 00:37:29,211
+seen the film, this is gonna be a spoiler review.
+So if you haven't seen the film yet, go ahead
+
+444
+00:37:29,331 --> 00:37:34,375
+and turn the podcast off now. Don't listen to
+the review. Maybe go see the film if you want
+
+445
+00:37:34,415 --> 00:37:38,418
+to, if you don't want to. I think I would recommend
+it. I would totally recommend it. Go see it.
+
+446
+00:37:38,498 --> 00:37:42,041
+What are you doing? If you don't want to, what
+are you doing? Yeah, don't listen to what everyone
+
+447
+00:37:42,061 --> 00:37:46,408
+else is saying. Go see it for yourself, because
+you might enjoy it. The reaction that I get
+
+448
+00:37:46,628 --> 00:37:51,092
+most often that I've heard is a lot better than
+I thought it was meant to be. Yeah, for sure.
+
+449
+00:37:51,152 --> 00:37:55,116
+I think almost everybody I talked to has said
+that. So whatever you're thinking it's gonna
+
+450
+00:37:55,136 --> 00:37:58,939
+be if you haven't seen it, it's gonna be better
+than that. Was it just the Lady Gaga fans who
+
+451
+00:37:58,959 --> 00:38:01,801
+were like telling everyone it was just gonna
+be like the worst piece of shit ever? No, there
+
+452
+00:38:01,821 --> 00:38:06,525
+were legit reviewers who were coming down on
+this movie pretty hard, and you know, overall,
+
+453
+00:38:06,585 --> 00:38:10,368
+the film got like a 30% on Rotten Tomatoes,
+which is much lower than what it should have
+
+454
+00:38:10,389 --> 00:38:16,255
+gotten. Yeah, I agree. But as you know, sometimes
+popular culture goes to a movie with somewhat
+
+455
+00:38:16,275 --> 00:38:20,896
+of an agenda. I think a lot of people were turned
+off by the trailers for this film and therefore
+
+456
+00:38:20,936 --> 00:38:26,018
+kind of wanted to see it fail. Maybe also because
+it wasn't part of the Spider-Man universe.
+
+457
+00:38:26,078 --> 00:38:31,439
+It has nothing to do with Spider-Man. So there
+are reasons for people to wanna see this movie
+
+458
+00:38:31,479 --> 00:38:37,101
+not do well, but it has been doing well. It
+broke box office records, made over 80 million,
+
+459
+00:38:37,541 --> 00:38:42,503
+I think, if the numbers came in correctly. and
+it was like over 200 million worldwide, I believe,
+
+460
+00:38:42,523 --> 00:38:45,744
+like 213 or something. Oh, definitely. I mean,
+it did better than Ant-Man and the Wasp. It's
+
+461
+00:38:45,784 --> 00:38:49,966
+going to get a sequel. And I think the best
+thing that could be said about this film is
+
+462
+00:38:50,006 --> 00:38:54,428
+that knowing that it's gonna get a sequel now,
+I'm super excited for that. Yeah, it's a good
+
+463
+00:38:54,468 --> 00:38:57,930
+starting point. It's a good launching pad. For
+the franchise. Yeah, yeah, definitely. What
+
+464
+00:38:57,970 --> 00:39:02,372
+did you think of the action and the spectacle?
+I don't know if I would agree that the action
+
+465
+00:39:02,572 --> 00:39:08,062
+was that great. To me, it's just like one step
+above Transformers. Like the two big action
+
+466
+00:39:08,102 --> 00:39:12,225
+scenes, like the one in the lobby, you know,
+it was full of smoke. It was kind of hard to
+
+467
+00:39:12,265 --> 00:39:17,269
+see what was going on. And then the other one,
+you know, the final fight, Venom and Riot looked
+
+468
+00:39:17,409 --> 00:39:22,733
+so similar. And I was afraid this was going
+to happen in the trailers, but, you know, it's
+
+469
+00:39:22,753 --> 00:39:29,078
+just so much CG. It just makes my eyes bleed.
+That being said, like it was passable. It wasn't
+
+470
+00:39:29,098 --> 00:39:33,581
+the worst action I've ever seen. It was just
+passable. I would have to disagree in that
+
+471
+00:39:33,841 --> 00:39:38,741
+I... Don't think I was ever confused by the
+action. I found it easy to follow in both of
+
+472
+00:39:38,761 --> 00:39:43,445
+those major scenes. And I thought it was a highlight
+of the film. I thought they were really well
+
+473
+00:39:43,485 --> 00:39:48,849
+done. The animation was on point, I think, for
+the character and how he moved and how his
+
+474
+00:39:48,949 --> 00:39:53,353
+liquid biomass worked and everything like that.
+There was one cool action scene that I thought
+
+475
+00:39:53,433 --> 00:39:57,876
+that worked. And that was, you know, before
+he emerged fully as Venom in Eddie Brock's
+
+476
+00:39:57,896 --> 00:40:01,639
+apartment, and he was taking out the thugs.
+I thought that was a cool action scene. Just
+
+477
+00:40:02,120 --> 00:40:06,651
+seeing the different ways he was using the Simba.
+Like from there all the way to the motorcycle.
+
+478
+00:40:07,011 --> 00:40:11,393
+It was extremely versatile. Yeah, I was like,
+oh I want a Symbiote, give me one. It could
+
+479
+00:40:11,413 --> 00:40:15,996
+do a lot of different things for sure. Venom
+was so cool. I think one of the problems with
+
+480
+00:40:16,016 --> 00:40:21,999
+the movie was that it did take half of the film's
+runtime to actually see the Venom character
+
+481
+00:40:22,059 --> 00:40:27,642
+fully realized, which is pretty typical of origin
+story films. That's one of the problems with
+
+482
+00:40:27,722 --> 00:40:32,264
+origin films is that you have to kind of get
+to know the character behind the mask before
+
+483
+00:40:32,324 --> 00:40:38,148
+you care about the hero wearing it. And I guess
+that's not a problem so much as it's kind of
+
+484
+00:40:38,168 --> 00:40:43,493
+just old at this point. We've had so many superhero
+films throughout these past decades that the
+
+485
+00:40:43,533 --> 00:40:47,676
+origin stories are pretty formulaic. You have
+this guy who discovers this incredible power,
+
+486
+00:40:48,297 --> 00:40:51,519
+you know, learns how to use the power and then
+fights the bad guy. They find a good way to
+
+487
+00:40:51,559 --> 00:40:55,743
+circumvent that lately in the Marvel cinematic
+universe with both Spider-Man and Black Panther,
+
+488
+00:40:55,763 --> 00:40:59,726
+and that they established their characters in
+other films before giving them their solo films.
+
+489
+00:41:00,427 --> 00:41:04,798
+So by the time they get their solo films, the
+characters already established. Yeah. But yeah,
+
+490
+00:41:04,818 --> 00:41:10,243
+in this case, that wasn't what happened. And
+it was 45 minutes of just Eddie Brock with
+
+491
+00:41:10,283 --> 00:41:15,668
+no venom. But that's not necessarily even a
+bad thing too, because I definitely think that
+
+492
+00:41:16,008 --> 00:41:20,192
+Tom Hardy gave a good performance here. Oh,
+definitely. I think it was a good performance.
+
+493
+00:41:20,212 --> 00:41:24,936
+I found it intriguing. I'm not 100%, but I think.
+It was a good performance. Everything that
+
+494
+00:41:24,956 --> 00:41:29,880
+you saw there, I guarantee you was intentional.
+You know, I read a lot of people saying that
+
+495
+00:41:29,920 --> 00:41:35,931
+they laughed at many parts. of this movie that
+were perhaps unintentionally hilarious. But
+
+496
+00:41:36,031 --> 00:41:40,493
+I don't understand how you can question if the
+film's attempts at humor were intentional or
+
+497
+00:41:40,513 --> 00:41:46,796
+not because the film obviously does not take
+itself 100% seriously. I found it to be very
+
+498
+00:41:46,836 --> 00:41:52,558
+self-aware. It's trying to, you know, kind of
+send up the typical conventions of modern superhero
+
+499
+00:41:52,578 --> 00:41:58,681
+films with its darker, unconventional subject
+matter. And it kind of takes a sort of schlocky
+
+500
+00:41:58,741 --> 00:42:03,255
+monster movie tone in some parts. But I mean,
+is there any doubt that this was on purpose,
+
+501
+00:42:03,335 --> 00:42:09,038
+given the director is Ruben Fleischer, who directed
+Zombieland after all, which was a send up of
+
+502
+00:42:09,078 --> 00:42:13,941
+zombie films. Everyone who's questioning whether
+or not they should laugh, the answer is yes.
+
+503
+00:42:14,441 --> 00:42:18,764
+It's supposed to be a dark comedy mixed in with
+a superhero action film. There was a lot of
+
+504
+00:42:18,824 --> 00:42:23,106
+comedy in it, more than I thought there was
+gonna be. And sometimes it worked, sometimes
+
+505
+00:42:23,126 --> 00:42:28,489
+it didn't, sometimes I kinda felt like it was
+a little juvenile, like when Venom calls Eddie
+
+506
+00:42:28,509 --> 00:42:32,504
+Brock a pussy. I thought that was funny. No
+one in my theater laughed. Really? No one.
+
+507
+00:42:32,865 --> 00:42:37,769
+I've seen the movie twice now and I think both
+times everyone in the theater chuckled at it.
+
+508
+00:42:37,970 --> 00:42:41,773
+Really? I saw it with a pretty small crowd.
+Like I saw it like on a Sunday afternoon. Okay.
+
+509
+00:42:41,793 --> 00:42:47,419
+There weren't many people in the screening I
+saw. So. The tone of the film, you know, it
+
+510
+00:42:47,459 --> 00:42:53,865
+has humor. It is a little bit two dimensional
+and comic booky because of that monster movie
+
+511
+00:42:53,905 --> 00:42:59,597
+tone. And you compare that to the more three-dimensional
+fleshed out characters that we've been growing
+
+512
+00:42:59,637 --> 00:43:04,920
+accustomed to seeing in the Marvel films, it
+felt kind of out of its time. Because the film
+
+513
+00:43:04,940 --> 00:43:09,243
+didn't take itself so seriously, it did somewhat
+feel like some of the superhero films from
+
+514
+00:43:09,283 --> 00:43:14,227
+the early part of the century, like Blade II.
+And that was another good film, also dark,
+
+515
+00:43:14,347 --> 00:43:19,650
+also didn't take itself too seriously. I agree.
+You know, prior to Christopher Nolan's The
+
+516
+00:43:19,690 --> 00:43:24,954
+Dark Knight, a lot of studios just didn't know
+how to tackle the subject matter. in a credible
+
+517
+00:43:24,994 --> 00:43:30,118
+manner and that was likely the main setback
+here with this movie I think and why some people
+
+518
+00:43:30,178 --> 00:43:36,322
+even compared it to like Catwoman and Daredevil
+and things like that. Yeah I mean I don't really
+
+519
+00:43:36,462 --> 00:43:41,906
+get those comparisons again. To me that's really
+harsh actually, especially the Catwoman one.
+
+520
+00:43:42,526 --> 00:43:46,809
+But uh have they not seen Catwoman recently
+because that movie is a fucking abomination.
+
+521
+00:43:46,850 --> 00:43:52,434
+It is it is freaking Horocious. Is that a word
+Horocious? Sure you just made a word that's-
+
+522
+00:43:52,554 --> 00:43:58,896
+No. You don't want to? I don't want to. OK.
+It is fucking atrocious. Yeah. I think the
+
+523
+00:43:58,936 --> 00:44:05,179
+reason Venom didn't come across like those other
+films so much to me with its tone and everything
+
+524
+00:44:05,359 --> 00:44:10,481
+is because with a character like Venom, you
+can actually get away with that easier, that
+
+525
+00:44:10,521 --> 00:44:14,783
+tone, because of the somewhat over the top nature
+of the character. You know, he's an outer space
+
+526
+00:44:14,883 --> 00:44:19,505
+alien creature with a grossly exaggerated grin
+full of shark like teeth that bite people's
+
+527
+00:44:19,545 --> 00:44:24,495
+heads off, you know. It's a long ways away from
+a super soldier fighting Hitler in World War
+
+528
+00:44:24,595 --> 00:44:31,237
+II. Yeah. I think what people want, what I certainly
+wanted was a certain amount of tongue-in-cheek
+
+529
+00:44:31,277 --> 00:44:35,878
+element to the story to keep it from being a
+straight-up horror film. Though, you know,
+
+530
+00:44:35,958 --> 00:44:42,020
+a horror film could have been interesting too.
+But in the comics, some of my favorite Venom
+
+531
+00:44:42,060 --> 00:44:47,081
+moments are when he's acting weird or sweet,
+or something other than straight-up monstrous.
+
+532
+00:44:47,402 --> 00:44:53,125
+You know, it's those quirky moments that add
+depth to him. He's always been a different
+
+533
+00:44:53,185 --> 00:44:57,987
+sort of Klyntar alien in the comics than, you
+know, his alien brethren. And I think they
+
+534
+00:44:58,027 --> 00:45:01,749
+captured that really well here. They said he
+was a loser. Right, he admitted to being a
+
+535
+00:45:01,790 --> 00:45:06,492
+loser. Yeah, which was interesting. I'm somewhat
+of a loser on my planet. One of my favorite
+
+536
+00:45:06,512 --> 00:45:10,815
+memories of reading Venom in the comics were
+during his team up with Spider-Man when they
+
+537
+00:45:10,855 --> 00:45:16,690
+first went up against Carnage. And while Venom
+was certainly sinister in that story, where
+
+538
+00:45:16,750 --> 00:45:20,811
+he's constantly telling Carnage that he's gonna
+kill him and things like that. There was a
+
+539
+00:45:20,891 --> 00:45:25,793
+nice moment where they were swinging toward
+Madison Square Garden where Carnage was and
+
+540
+00:45:26,174 --> 00:45:31,496
+Spider-Man's kind of internalizing how weird
+it is to be teaming up with Venom. And meanwhile,
+
+541
+00:45:31,576 --> 00:45:37,198
+Venom is singing Strangers in the Night. It's
+just hilarious. That's kind of like the quirkiness
+
+542
+00:45:37,218 --> 00:45:41,540
+of the character. Those are my favorite moments
+with him, I think. Yeah, I wasn't, like I'd
+
+543
+00:45:41,600 --> 00:45:49,108
+never read a comic with Venom, I don't think,
+maybe I have. I don't remember, but those moments,
+
+544
+00:45:49,228 --> 00:45:52,831
+you know, where he's like telling Eddie Brock
+to like say you're sorry and stuff like that,
+
+545
+00:45:53,251 --> 00:45:58,274
+it definitely did sort of like challenge my
+expectations of the character. When I think
+
+546
+00:45:58,314 --> 00:46:01,957
+of Venom, I do think of it as just, you know,
+like this bad ass monster, not as someone who's
+
+547
+00:46:02,017 --> 00:46:08,761
+kind of almost goofy in a way. Right, right.
+Love that guy, love that character. I think
+
+548
+00:46:08,801 --> 00:46:14,545
+that the dark humor was well balanced with the
+sci-fi action. I think overall the film was
+
+549
+00:46:15,042 --> 00:46:19,765
+pretty well balanced and palatable for a mainstream
+audience. Though if it were rated R and it
+
+550
+00:46:19,785 --> 00:46:24,569
+showed Venom actually eating his enemies and
+had more adult language and you know, stuff
+
+551
+00:46:24,609 --> 00:46:30,714
+in the vein of Deadpool, it might've actually
+been a better film. I agree. But possibly only
+
+552
+00:46:30,834 --> 00:46:34,618
+marginally so, I think. I'm surprised you can't
+show someone biting someone else's head off
+
+553
+00:46:35,018 --> 00:46:39,722
+in a PG-13 film. I was like, what? As long as
+you don't show blood, right? I mean, dumb.
+
+554
+00:46:39,962 --> 00:46:45,562
+But they were so subtle about it here that I
+wasn't even 100% sure. during those moments
+
+555
+00:46:45,622 --> 00:46:49,583
+if their heads were actually bitten off. It
+was like, did that just happen? Yeah. They
+
+556
+00:46:49,844 --> 00:46:54,766
+really move the camera away from it quick. But
+in the end, I think I'd rather sacrifice the
+
+557
+00:46:54,806 --> 00:47:01,308
+gore and keep the potential of a Venom Spider-Man
+team up. True. It may be wishful thinking,
+
+558
+00:47:01,688 --> 00:47:06,410
+but it's not an impossibility. They're on opposite
+sides of the country, I mean. Right. And my
+
+559
+00:47:06,450 --> 00:47:12,213
+guess is that maybe in a sequel to Venom, he's
+gonna fight Carnage, and maybe Carnage is going
+
+560
+00:47:12,253 --> 00:47:16,975
+to go like across the country on a killing spree.
+Venom is gonna chase him to New York because
+
+561
+00:47:16,995 --> 00:47:22,259
+he feels responsible being that carnage is his
+offspring. And maybe like have a Spider-Man
+
+562
+00:47:22,299 --> 00:47:27,684
+team up kind of moment where at one point maybe
+Eddie is knocked unconscious and the symbiote
+
+563
+00:47:28,024 --> 00:47:32,608
+has to attach itself to Spider-Man for a while.
+I mean, that might be the best adaptation of
+
+564
+00:47:32,688 --> 00:47:38,653
+symbiote Spidey that we get within this universe,
+within this franchise. Yeah. And you know,
+
+565
+00:47:38,693 --> 00:47:42,115
+given how they treated the source material here,
+I mean, if that's the best that we could get,
+
+566
+00:47:42,175 --> 00:47:46,482
+then I'll take it because I think we have a
+great Realization of the character of venom
+
+567
+00:47:46,622 --> 00:47:51,544
+within this film one that could be definitely
+carried forward in future films I think they
+
+568
+00:47:51,564 --> 00:47:55,326
+were trying to go for something marvelous, and
+that's why they didn't go the rated-r route
+
+569
+00:47:55,926 --> 00:48:00,528
+Well, I don't think the film itself was marvelous
+at all. I think it was an attempt to be marvelous
+
+570
+00:48:00,688 --> 00:48:04,409
+I don't think it was you don't think no. I think
+it was a purposeful attempt to not be like
+
+571
+00:48:04,449 --> 00:48:08,871
+Marvel I think the director has stated as such
+hmm actually And I think he did a good job
+
+572
+00:48:08,931 --> 00:48:15,442
+of making the tone dark and edgy But also just
+on the borderline of possibly being able to
+
+573
+00:48:15,462 --> 00:48:20,445
+be included in the mainstream Marvel Cinematic
+Universe. Or the Spider-Man universe. Sony's
+
+574
+00:48:20,485 --> 00:48:25,249
+Spider-Man, whatever the hell it's called. I
+think what primarily didn't work with this
+
+575
+00:48:25,289 --> 00:48:29,872
+movie goes back to the self-aware tone of the
+film. Some of the dialogue and the character
+
+576
+00:48:29,912 --> 00:48:35,315
+reactions and the characters themselves weren't
+real feeling. Some of the acting. Especially
+
+577
+00:48:35,335 --> 00:48:41,168
+Carlton Drake, the cardboard cutout villain.
+or Anne, the cardboard cutout ex-girlfriend.
+
+578
+00:48:41,748 --> 00:48:46,712
+I think the only one that actually felt real
+here was Eddie Brock, and maybe actually Jenny
+
+579
+00:48:46,752 --> 00:48:51,656
+Slade's character, Dr. Skirth, I think she felt
+nuanced enough to be real as well. Yeah, it
+
+580
+00:48:51,676 --> 00:48:56,480
+was sad when she died. Yeah, but yeah, let's
+go into the character breakdown, and we'll
+
+581
+00:48:56,500 --> 00:49:00,244
+start off with Eddie Brock. Eddie Brock and
+Venom are gonna be separate in this character
+
+582
+00:49:00,264 --> 00:49:04,546
+breakdown, because they were very separate characters
+in the film. As far as Eddie Brock goes, I
+
+583
+00:49:04,586 --> 00:49:09,187
+think Tom Hardy's performance was intriguing
+as I said before. I think he elevated the material
+
+584
+00:49:09,227 --> 00:49:15,909
+he was given by injecting just a metric ton
+of nuance, which made him feel believable.
+
+585
+00:49:16,670 --> 00:49:20,731
+And it was only because of Brock's performance
+that I believed his relationship with Anne,
+
+586
+00:49:21,051 --> 00:49:25,152
+especially in the scene when he visited her
+apartment and met her new boyfriend. That felt
+
+587
+00:49:25,252 --> 00:49:29,606
+real. That was a good scene. She was like, why
+are you here, Eddie? Because I miss you. It
+
+588
+00:49:29,646 --> 00:49:32,527
+wasn't too long ago that we were going to get
+married. I was wondering if we might find our
+
+589
+00:49:32,547 --> 00:49:38,309
+way back to that. That line, I thought, almost
+belonged in a different movie. It was the only
+
+590
+00:49:38,349 --> 00:49:43,331
+time that I thought that these two actually
+had viable chemistry and a viable relationship
+
+591
+00:49:43,351 --> 00:49:48,394
+at one point. That was one of my more favorite
+Eddie Brock character scenes. I mean, the first
+
+592
+00:49:48,754 --> 00:49:53,776
+half of this film, when they're setting up the
+peril of Eddie Brock and just like how his
+
+593
+00:49:54,016 --> 00:49:58,234
+choices have consequences and stuff like that
+and everything that stemmed from that. I thought
+
+594
+00:49:58,374 --> 00:50:03,618
+this was all fantastic setup. Yeah, it really
+was. In a way, like I think a lot of my problems
+
+595
+00:50:03,659 --> 00:50:09,484
+don't really come about until he gets the symbiote.
+Because before that, it was a compelling film.
+
+596
+00:50:09,984 --> 00:50:14,088
+Eddie Brock was a compelling character. Yeah,
+I think because of Tom Hardy's performance.
+
+597
+00:50:14,488 --> 00:50:19,392
+He's such a great actor, he really makes you
+empathize with him. And on top of that, he's
+
+598
+00:50:19,472 --> 00:50:24,937
+fun to watch. I thought his voice was gonna
+be grating based on the trailers, but I didn't
+
+599
+00:50:24,957 --> 00:50:30,824
+mind it. He sells his voices for sure. Yeah.
+Eddie Brock's character arc was strange though.
+
+600
+00:50:30,864 --> 00:50:36,167
+Like he started out on top with his investigative
+reports on the Eddie Brock show. He started
+
+601
+00:50:36,208 --> 00:50:40,790
+out giving a shit about his fellow man. You
+know, standing up for others seemed to be his
+
+602
+00:50:40,830 --> 00:50:45,813
+life's purpose because he's a good guy, you
+know? But then he stooped low to steal a document
+
+603
+00:50:45,833 --> 00:50:50,596
+from his girlfriend to support his agenda against
+Carlton Drake, then hit rock bottom losing
+
+604
+00:50:50,636 --> 00:50:56,815
+his job, his relationship, and his home. which
+somehow caused him to forgo his life's purpose
+
+605
+00:50:56,875 --> 00:51:02,217
+and be done with giving a shit about his fellow
+man. Which is what he explicitly told Dr. Skirth.
+
+606
+00:51:02,677 --> 00:51:09,940
+And it was weird because it seemed like he resented
+society for his own fuck-ups. Yeah. Yeah, absolutely.
+
+607
+00:51:10,060 --> 00:51:14,762
+I kind of wish they would have set up Carlton
+Drake as more of a villain before Eddie was
+
+608
+00:51:14,802 --> 00:51:18,703
+saying how much he didn't like him. Right. Because
+by that moment I was like, well, why? He seems
+
+609
+00:51:18,723 --> 00:51:23,765
+like not a horrible guy. Even in the interview,
+like, Eddie Brock was the one being the asshole.
+
+610
+00:51:24,254 --> 00:51:28,817
+You know? Right. I didn't quite understand that.
+And, but you're right. He turned his back on
+
+611
+00:51:28,857 --> 00:51:34,582
+society for, for his poor choice. And that was
+hard to relate to. Yeah. So he's, you know,
+
+612
+00:51:34,622 --> 00:51:38,465
+he's a flawed character, which also makes him
+feel real. But yeah, again, hard to relate
+
+613
+00:51:38,505 --> 00:51:43,209
+to. But on the Golden Gate bridge, which was
+a fantastic scene where it almost seems like
+
+614
+00:51:43,229 --> 00:51:47,733
+he's contemplating suicide, which is in the
+comics. Oh, really? Yeah. That's why he went
+
+615
+00:51:47,773 --> 00:51:51,616
+to the church was to ask for forgiveness for
+what he was about to do, and that's where he
+
+616
+00:51:51,636 --> 00:51:55,370
+got the symbiote in the comics at the church.
+But yeah, it was a great scene. It's where
+
+617
+00:51:55,410 --> 00:52:00,273
+he had his change of heart and decides to investigate
+the Life Foundation and help others after all.
+
+618
+00:52:00,873 --> 00:52:05,996
+I think it would have been a little bit more
+helpful if the movie had been more clear with
+
+619
+00:52:06,036 --> 00:52:10,139
+how one makes the leap from taking down villains
+with investigative journalism to taking down
+
+620
+00:52:10,179 --> 00:52:14,741
+villains with vigilanteism. Because I wasn't
+sure if he necessarily showed vigilante tendencies
+
+621
+00:52:14,821 --> 00:52:20,264
+prior to getting the symbiote. Right. No, I
+mean, he didn't. He let that one guy extort
+
+622
+00:52:20,344 --> 00:52:25,506
+the bodega owner. Right, yeah. That would have
+been an interesting exploration even if briefly,
+
+623
+00:52:25,906 --> 00:52:31,348
+but after his change of heart on the bridge,
+at that point, there wasn't much more character
+
+624
+00:52:31,368 --> 00:52:35,449
+growth for Eddie Brock and the growth really
+shifted at that point to the symbiote Venom.
+
+625
+00:52:35,909 --> 00:52:41,110
+Yeah. So let's talk about Venom, who was voiced
+by Tom Hardy. The character of Venom himself
+
+626
+00:52:41,811 --> 00:52:46,612
+is really what saves this film and makes it
+as fun and enjoyable as it is. Well, it's what
+
+627
+00:52:46,632 --> 00:52:51,653
+you went to see, you know, he's the titular
+character. Yeah, I mean, it's crazy how much
+
+628
+00:52:51,733 --> 00:52:58,649
+joy I get. out of just seeing that huge ass
+grin. And the voice, Tom Hardy nailed it. And
+
+629
+00:52:58,669 --> 00:53:03,151
+though he was a blast to watch, it was hard
+to understand Venom's motivations, I think.
+
+630
+00:53:03,812 --> 00:53:08,714
+Because let's follow his arc. So first Venom
+wants to get Drake's rocket, just like Riot,
+
+631
+00:53:08,754 --> 00:53:14,177
+to reconnect with his brethren on the comet
+and invade Earth. Then all of a sudden, yeah,
+
+632
+00:53:14,257 --> 00:53:19,300
+at some point, Venom rejects the idea and decides
+he's instead going to live on Earth because
+
+633
+00:53:19,340 --> 00:53:24,379
+he likes it here and because of Eddie. He says
+that explicitly he made the decision because
+
+634
+00:53:24,419 --> 00:53:29,142
+of Eddie, but we don't know when that happened
+or why that happened Yeah, other than you know,
+
+635
+00:53:29,162 --> 00:53:33,104
+he's like on my planet I'm kind of a loser and
+that's kind of the most explanation we get
+
+636
+00:53:33,264 --> 00:53:38,927
+as to his change of heart, right? Which to me
+like that was laughable. I was like what? Okay
+
+637
+00:53:40,448 --> 00:53:44,810
+Like I'd rather hang out with you here than
+be with my loser siblings or whatever Yeah,
+
+638
+00:53:44,850 --> 00:53:49,192
+that was that was a loser with my siblings,
+you know Yeah, that was a problem for me the
+
+639
+00:53:49,232 --> 00:53:55,377
+symbiotes like motivations We don't learn until
+far down the road in this film. Like initially,
+
+640
+00:53:55,397 --> 00:54:01,562
+like the stakes of the film are that Eddie's
+gonna die. But it's not until like the final
+
+641
+00:54:01,582 --> 00:54:05,705
+battle almost that it's like, hey, you know,
+the symbiotes are going to bring back an entire
+
+642
+00:54:05,986 --> 00:54:10,769
+planet of symbiotes and take over our planet.
+They're like, oh, too little too late. Maybe
+
+643
+00:54:10,810 --> 00:54:16,234
+not too little, but definitely a little bit
+too late. Yeah. But overall with Venom, again,
+
+644
+00:54:16,494 --> 00:54:21,006
+he's the star of the show. The reason why I
+get so much joy out of this movie and why I
+
+645
+00:54:21,086 --> 00:54:24,487
+liked it more than like say Ant-Man and the
+Wasp or something like that is because of the
+
+646
+00:54:24,547 --> 00:54:29,149
+Eddie Brock Venom relationship. It's like a
+buddy movie. It is, it absolutely is a buddy
+
+647
+00:54:29,369 --> 00:54:35,012
+movie. Yeah. One thing that confused me is like
+the knowledge that Venom had like right off
+
+648
+00:54:35,032 --> 00:54:39,454
+the bat, like 60 gigahertz or something like
+that. Or the 60 gigahertz frequency? Yeah.
+
+649
+00:54:39,474 --> 00:54:42,335
+60 megahertz frequency? I don't know. And it's
+like, how long have you been on earth that
+
+650
+00:54:42,375 --> 00:54:48,097
+you like, you know, know words like that? I
+guess just being inside of Eddie, but then.
+
+651
+00:54:48,598 --> 00:54:52,441
+But then he didn't know some things about Eddie
+that he maybe should have known. Exactly. So
+
+652
+00:54:52,481 --> 00:54:56,645
+maybe he was just reading the wrong pages on
+Eddie's brain or something like that. I don't
+
+653
+00:54:56,665 --> 00:55:01,549
+know. It's hard to know. Let's talk about Anne
+Wayne played by Michelle Williams. I thought
+
+654
+00:55:01,870 --> 00:55:05,933
+she did a commendable job with the material
+she was given. I think a lot of those lines
+
+655
+00:55:05,953 --> 00:55:13,680
+would have been a hard sell. Like, hospital,
+right now, or Eddie, I think I just ate a guy's
+
+656
+00:55:13,720 --> 00:55:19,395
+head. Yeah. But despite her being an overall
+like cliche girlfriend type, I thought she
+
+657
+00:55:19,415 --> 00:55:24,277
+was likeable. I didn't really care for the performance
+honestly. Like at all. Really? Like at all.
+
+658
+00:55:24,577 --> 00:55:30,359
+I think she did a horrible job. What? She did
+a horrible job. Really? Yeah. I don't know
+
+659
+00:55:30,379 --> 00:55:37,941
+about that. I liked it. Her reactions did not
+seem believable in almost every way, I think.
+
+660
+00:55:38,950 --> 00:55:42,673
+Yeah, I would agree with that. I don't think
+her actions were believable. I think most of
+
+661
+00:55:42,693 --> 00:55:46,396
+her reactions were kind of tug-and-cheek. I
+think her performance was a little bit tongue-in-cheek.
+
+662
+00:55:46,496 --> 00:55:52,061
+Yeah, I agree. Yeah, that's what it felt like
+for sure. Like she knew she was in this movie
+
+663
+00:55:52,081 --> 00:55:56,845
+that was beneath her or something like that.
+I don't know. But I liked that. I don't know.
+
+664
+00:55:56,945 --> 00:56:02,769
+I guess it depends on what you enjoy as a moviegoer.
+Like to me, I appreciated the subtle tongue-in-cheek
+
+665
+00:56:02,789 --> 00:56:07,513
+moments in this film. But, you know, if you
+take your superhero movies super seriously.
+
+666
+00:56:08,106 --> 00:56:15,569
+then you may not enjoy that. And I do, I do.
+I really like her turn as She-Venom. That was
+
+667
+00:56:15,649 --> 00:56:20,431
+something that I was not expecting to see in
+this film. Is that from the comics? It is,
+
+668
+00:56:20,671 --> 00:56:27,214
+yeah. Anne has taken on the Venom symbiote several
+times. And I kinda wanna see more of her, actually.
+
+669
+00:56:27,374 --> 00:56:31,336
+Is that weird? Like I remember seeing She-Venom
+for the first time in the comics, and I was
+
+670
+00:56:31,356 --> 00:56:37,662
+like, whoa, that freaky ass monster has a nice
+body. I learned something about myself today.
+
+671
+00:56:37,982 --> 00:56:42,264
+Oh jeez. She was super cool though. I liked
+the voice that she had where she's like, hello
+
+672
+00:56:42,304 --> 00:56:48,407
+Eddie. And the kiss, that was, it was just such
+a bizarre fucking moment. It was. It was awkward.
+
+673
+00:56:48,427 --> 00:56:53,309
+It was almost brilliant in its weirdness, I
+think. Let's move on to Carlton Drake, played
+
+674
+00:56:53,349 --> 00:56:57,410
+by Riz Ahmed. I think I mentioned earlier that
+I thought he was pretty cardboard cut out,
+
+675
+00:56:57,491 --> 00:57:02,753
+though I think Riz did the best he could given
+the material like Michelle Williams. I think
+
+676
+00:57:02,813 --> 00:57:08,277
+he did a good acting job. Yeah. I think he did
+a really good acting job. The character, he's
+
+677
+00:57:08,297 --> 00:57:13,901
+a little bland. Very, very, you know, God complex
+character, generic God complex character, who
+
+678
+00:57:14,042 --> 00:57:18,706
+just kind of hates humanity for what it is and-
+Or thinks he's above it. Yeah, yeah, absolutely.
+
+679
+00:57:19,006 --> 00:57:24,751
+He's supposed to be this unscrupulous, ambitious,
+super logical villain, but without any nuance,
+
+680
+00:57:25,131 --> 00:57:30,056
+like Eddie Brock, he mainly just comes across
+as super generic. So I mean, like he did have
+
+681
+00:57:30,096 --> 00:57:33,946
+those few interesting lines about being God
+or something. but in the end it wasn't enough
+
+682
+00:57:33,986 --> 00:57:39,350
+to save him from being described as mostly bland.
+Right. And he does make some weird choices
+
+683
+00:57:39,670 --> 00:57:43,753
+and if I was working for him, I'd be like, I'm
+not working for this guy anymore. Jenny Slate
+
+684
+00:57:43,793 --> 00:57:47,936
+totally had the right idea. It's like, fuck
+this guy, he's weird. Wouldn't want him as
+
+685
+00:57:47,956 --> 00:57:52,479
+a boss. So that's it for the characters. I don't
+think there were any other standout characters
+
+686
+00:57:52,519 --> 00:57:57,542
+to talk about, but let's get into these highlights
+from the film, the story highlights. So the
+
+687
+00:57:57,562 --> 00:58:03,506
+movie starts off with the rocket crash on earth
+from the Life Foundation. Yeah. and it felt
+
+688
+00:58:03,546 --> 00:58:08,370
+very X-Files to me. Like I could've swore I
+was watching an episode of the X-Files. I agree.
+
+689
+00:58:08,870 --> 00:58:14,514
+They had a nice little Easter egg in that first
+scene though with J. Jonah Jameson's son. Really?
+
+690
+00:58:14,734 --> 00:58:19,517
+Yeah. Oh, he didn't make that connection. Yeah,
+cause in the comics, he's an astronaut. And
+
+691
+00:58:19,798 --> 00:58:24,181
+actually, so what they did with this movie is
+they took the animated series origin, where
+
+692
+00:58:24,561 --> 00:58:31,005
+in the 90s cartoon, Venom didn't come from the
+secret wars event. He came down with John Jameson.
+
+693
+00:58:31,406 --> 00:58:37,350
+from space and that's what they did here. Yeah.
+So while Venom's origin here is a radical departure
+
+694
+00:58:37,370 --> 00:58:42,374
+from the comics and I think a lot of people
+maybe wanted to see the symbiote on Spider-Man
+
+695
+00:58:42,434 --> 00:58:49,380
+first, you know, it wasn't entirely unfaithful
+to things that we've seen before that have
+
+696
+00:58:49,400 --> 00:58:54,104
+been praised such as the animated series. Right.
+So that was kind of nice. Isn't his son like
+
+697
+00:58:54,124 --> 00:59:00,349
+a werewolf? Yeah, in the comics, John Jameson
+is the wolf man or the man wolf, I forget what
+
+698
+00:59:00,369 --> 00:59:06,006
+they call him. But yeah, he's a werewolf and
+he gets that ability from his visit to the
+
+699
+00:59:06,026 --> 00:59:11,631
+moon, which is kind of weird. From then, I don't
+think there were too many highlights of the
+
+700
+00:59:11,672 --> 00:59:16,696
+film up until about the midpoints where we get
+the apartment fight, which we talked briefly
+
+701
+00:59:16,736 --> 00:59:21,921
+about before. Really like the versatility that
+was shown here and this is when Venom really
+
+702
+00:59:21,961 --> 00:59:27,234
+starts speaking to him. We get to know the character.
+Eddie beats these dudes up. and Venom tells
+
+703
+00:59:27,254 --> 00:59:30,757
+them to pile their bodies in the corner and
+bite their heads off and stuff. And it was
+
+704
+00:59:30,777 --> 00:59:35,920
+like, what the fuck did he just say? Exactly,
+exactly. And then he jumps out the window and
+
+705
+00:59:36,521 --> 00:59:40,664
+we think that Eddie's gonna die, but the symbiote
+saves him and swings him into this other building.
+
+706
+00:59:40,724 --> 00:59:44,967
+That was cool. And then they start shooting
+at him, but Eddie's able to put up a shield.
+
+707
+00:59:44,987 --> 00:59:49,570
+Put up a shield, that was cool. You just start
+seeing all these amazing moments in succession.
+
+708
+00:59:49,850 --> 00:59:55,859
+I think one highlight before the action scene,
+if I may real quick. Yeah. was when he first
+
+709
+00:59:55,899 --> 00:59:59,822
+comes to his apartment after he's been infected
+and he's just like eating chicken from the
+
+710
+00:59:59,862 --> 01:00:04,586
+trash can, he's just like feeling really terrible,
+like you really feel how bad he feels. It was
+
+711
+01:00:04,606 --> 01:00:09,450
+like good camera work. Good acting too. Yeah,
+really good acting. When he puked, I thought,
+
+712
+01:00:09,470 --> 01:00:13,073
+oh, I wonder if he actually puked. I know. I
+don't know, maybe the sound effects, maybe
+
+713
+01:00:13,093 --> 01:00:17,297
+it was the lurch he did when he gagged, but
+it looked like real puking. But no, when he
+
+714
+01:00:17,397 --> 01:00:21,981
+looked in the mirror and like Venom's eyes come
+up for the first time, you just hear him scream.
+
+715
+01:00:22,614 --> 01:00:27,577
+That was like my scream as well. I was like,
+ah! He just like falls onto the top. I thought
+
+716
+01:00:27,597 --> 01:00:32,441
+that was funny. It was funny and scary. It was
+just a good moment. Yeah. After the apartment
+
+717
+01:00:32,541 --> 01:00:38,586
+fight scene, we go into the motorcycle chase,
+which I thought was pretty cool. It was a little
+
+718
+01:00:38,606 --> 01:00:43,990
+bit reminiscent of the San Francisco chase scene
+that we just saw in Ant-Man and the Wasp. Yeah.
+
+719
+01:00:44,410 --> 01:00:49,558
+But I maybe actually liked this one a little
+bit more. I did, yeah. There were a lot of
+
+720
+01:00:49,578 --> 01:00:53,699
+different things that Symbiote was able to do.
+He was able to push cars aside, he was able
+
+721
+01:00:53,719 --> 01:00:59,302
+to grab onto railings and jump over bridges
+and move steering wheels of the enemy cars.
+
+722
+01:00:59,582 --> 01:01:04,244
+I think one of the coolest moments that he had
+kind of reminded me of the 89 Batman, where
+
+723
+01:01:04,564 --> 01:01:09,946
+the Batmobile shot out this grappling hook that
+latched onto a street pole and made him turn
+
+724
+01:01:09,966 --> 01:01:15,548
+a tight 90 degree turn, 180 degree turn. It
+was a really tight turn, yeah. It was almost
+
+725
+01:01:15,588 --> 01:01:20,418
+the same thing, where the Symbiote latched out,
+grabbed onto a street pole. and skid Eddie
+
+726
+01:01:20,438 --> 01:01:25,521
+Brock onto his side, but was protecting him
+as like a cushion on the ground and then brought
+
+727
+01:01:25,561 --> 01:01:30,824
+him back up after he made the turn. That was
+one of the more intriguing uses of the power
+
+728
+01:01:30,844 --> 01:01:35,746
+that I've never seen in the comics or anything
+like that. But yeah, Venom can almost do anything
+
+729
+01:01:36,067 --> 01:01:41,810
+in that regard. He was a shield, he was offensive,
+he was defensive. It was just such a cool power
+
+730
+01:01:41,850 --> 01:01:46,552
+set. It is really cool. One thing that really
+bothered me during this scene though was just
+
+731
+01:01:46,612 --> 01:01:52,811
+how destructive the Like they just did not give
+a fuck. No. Like they were blowing shit up
+
+732
+01:01:52,851 --> 01:01:58,393
+with these drones, which even then it's like,
+those have gotta be expensive drones, right?
+
+733
+01:01:58,473 --> 01:02:01,735
+And also why you're trying to blow up the guy
+who has the symbiote, right? Exactly. Are you
+
+734
+01:02:01,755 --> 01:02:05,016
+trying to kill your symbiote? They're like just
+like plowing into cars and stuff. How are they
+
+735
+01:02:05,036 --> 01:02:09,738
+gonna explain that to the cops? I was thinking
+that the whole time. Like when this finishes
+
+736
+01:02:09,798 --> 01:02:13,660
+and like the cops come for you, what are you
+gonna say? Right. It's gonna be one hell of
+
+737
+01:02:13,680 --> 01:02:17,821
+an investigation. Exactly. I don't envy the
+police officer that has to do the paperwork
+
+738
+01:02:17,841 --> 01:02:23,023
+for this. sure. But no, like, you know, when
+it does end, we get the reveal of Venom, the
+
+739
+01:02:23,063 --> 01:02:27,365
+full body, like, envelopment. Yeah. It's really
+cool. I thought that was really cool. And then
+
+740
+01:02:27,385 --> 01:02:31,007
+he bites the dude's head off. Yes. That was
+great. Yeah. And right after that, you know,
+
+741
+01:02:31,027 --> 01:02:35,548
+he like swims to that, to that buoy. And that's
+the first time we see like Venom's like head
+
+742
+01:02:35,668 --> 01:02:39,770
+come out and like just start talking to Eddie.
+Yeah. Is that from the comics? Did you like
+
+743
+01:02:39,810 --> 01:02:44,052
+that? Yes. Yeah. He's done that in the comics
+before. Okay. Um, yeah, he definitely has his
+
+744
+01:02:44,112 --> 01:02:48,418
+own face and he's spoken to him like that before.
+I liked that scene. I especially like... some
+
+745
+01:02:48,458 --> 01:02:51,960
+of Venom's dialogue where Eddie was like, are
+you gonna eat more people? And Venom was like,
+
+746
+01:02:52,100 --> 01:02:58,305
+most likely. I like that a lot. Such a great
+character, especially in one of the later scenes
+
+747
+01:02:58,345 --> 01:03:03,689
+where Eddie goes to his old place of work, the
+network, and he and Venom climb up the building.
+
+748
+01:03:04,309 --> 01:03:07,752
+And Venom gets to the top and it's just kind
+of like this iconic image where he's looking
+
+749
+01:03:07,812 --> 01:03:12,655
+over San Francisco and like admiring the beauty
+of the city and everything. And he's like,
+
+750
+01:03:12,675 --> 01:03:16,838
+it'll be a shame to see it all destroyed. And
+Eddie's like, what? And then the plane flies
+
+751
+01:03:16,898 --> 01:03:22,802
+by and shocks the symbiote off of him. And like
+never before in a movie have I ever felt so
+
+752
+01:03:22,822 --> 01:03:26,844
+much like I was falling as that scene right
+now. That's like my worst nightmare. It was
+
+753
+01:03:26,864 --> 01:03:30,186
+like well shot. Like he's sliding down the side
+of this building and he's pretty sure he's
+
+754
+01:03:30,206 --> 01:03:32,807
+going to die because he's afraid of heights
+and everything like that. It was a good camera
+
+755
+01:03:32,847 --> 01:03:36,910
+angle. Just like you see the feet. It's almost
+like a POV shot. You see his feet dangling
+
+756
+01:03:36,930 --> 01:03:41,472
+and it's just like the ground is just coming
+up towards him and it's like, oh, shit. But
+
+757
+01:03:41,512 --> 01:03:46,275
+luckily he gets rescued. And then from there.
+he goes into the lobby fight downstairs. Yeah.
+
+758
+01:03:46,895 --> 01:03:52,117
+And I really liked the effects there because,
+you know, so far we've seen Venom a lot in
+
+759
+01:03:52,157 --> 01:03:56,059
+shadow and in darkness and things like that.
+We got a few really good money shots here,
+
+760
+01:03:56,419 --> 01:03:59,900
+despite, you know, there being a lot of smoke
+and stuff like that. But when like the strobe
+
+761
+01:03:59,920 --> 01:04:04,282
+effect would go off with the flashbangs and
+you see him react to that. And even in the
+
+762
+01:04:04,302 --> 01:04:10,185
+thermal vision in the sniper's camera, I swear
+that was Venom straight lifted off of the comic
+
+763
+01:04:10,225 --> 01:04:14,674
+book pages. I was so happy with that scene.
+and how he was like so vicious, he was like
+
+764
+01:04:14,694 --> 01:04:19,016
+picking guys up, jumping in the air and like
+spinning around and like throwing them away
+
+765
+01:04:19,236 --> 01:04:23,758
+and things like that. It was just, it was awesome.
+Like leaping up onto the rafters and like ripping
+
+766
+01:04:23,818 --> 01:04:28,160
+off beams and throwing them at people. Yeah.
+At that point I was like, I don't care what
+
+767
+01:04:28,180 --> 01:04:33,963
+happens with the rest of this movie, I'm definitely
+satisfied with at least this moment. Hmm. It
+
+768
+01:04:34,003 --> 01:04:37,325
+reminded me kind of like almost like Batman,
+like he was like a ninja, just like pulling
+
+769
+01:04:37,345 --> 01:04:41,630
+guys out of the smoke and stuff like that. Right.
+Yeah, that was pretty cool. There's something
+
+770
+01:04:41,670 --> 01:04:47,212
+frightening about that. The attacker you can't
+see. Right. So later on, you know, he goes
+
+771
+01:04:47,232 --> 01:04:51,353
+to the hospital and then and then he gets captured
+by the Life Foundation and then he gets rescued
+
+772
+01:04:51,393 --> 01:04:55,614
+by she venom. I think we already spoke about
+that. I really thought it was going to be the
+
+773
+01:04:55,694 --> 01:04:59,995
+dog in the forest, but I was really glad that
+it was she venom because that was such a fantastic
+
+774
+01:05:00,075 --> 01:05:05,957
+Easter egg. I really like how protective venom
+at that point gets of Anne where like she wants
+
+775
+01:05:05,977 --> 01:05:10,319
+to follow along and he's like, no, it's going
+to get ugly. And Eddie's like, she can fight
+
+776
+01:05:10,359 --> 01:05:14,362
+ugly. And she's like, yeah, I can fight ugly.
+And he was like, not today. And he like runs
+
+777
+01:05:14,462 --> 01:05:18,946
+off and she's like, that's bullshit. I thought
+that was pretty funny. But also great character
+
+778
+01:05:18,986 --> 01:05:23,930
+moment. I don't know if that was funny. It was
+funny. Why was Venom more concerned about her
+
+779
+01:05:23,950 --> 01:05:28,694
+than Eddie? I don't know, that's a good question.
+Maybe because Eddie knows her better. And maybe
+
+780
+01:05:28,714 --> 01:05:32,037
+he didn't wanna do it alone or something. I
+don't know. That is a good question, that's
+
+781
+01:05:32,057 --> 01:05:37,081
+valid. Let's go to the final fight. The setup
+for the final fight was a little off, I think.
+
+782
+01:05:37,558 --> 01:05:41,899
+Like, can you just really throw together a last
+minute rocket launch without a crew or anything
+
+783
+01:05:41,939 --> 01:05:46,240
+like that? Those things have to be like exactly
+timed. Right. Because there's a ton of math
+
+784
+01:05:46,280 --> 01:05:50,541
+involved. Right, like is the Earth facing the
+right direction for when you launch off? Are
+
+785
+01:05:50,561 --> 01:05:54,523
+you gonna be wasting fuel? Are you gonna be
+heading toward the comet itself, right? Or
+
+786
+01:05:54,543 --> 01:05:58,484
+do you have enough fuel in case you need to
+make a correction like that or something? It
+
+787
+01:05:58,504 --> 01:06:02,445
+was a little weird. But it was cool how Riot
+just kind of like took out the entire mission
+
+788
+01:06:02,465 --> 01:06:06,860
+control with those giant... like blades. I don't
+know, man. I'm sure one of those computers
+
+789
+01:06:06,900 --> 01:06:11,744
+was really important for the mission. Yeah.
+You know, and uses one of those computers later
+
+790
+01:06:11,864 --> 01:06:16,167
+on to activate the PA system, which startles
+the symbiotes later on during their fight.
+
+791
+01:06:16,247 --> 01:06:19,590
+And then she has that horrible line, which is
+like, told you, I can fight ugly or something.
+
+792
+01:06:21,632 --> 01:06:26,416
+So the fight itself was so cool. It started
+off on that bridge, connecting the launch pad
+
+793
+01:06:26,516 --> 01:06:32,861
+to the station and Venom's chasing riot on there.
+And they have a fight where like Venom was
+
+794
+01:06:32,881 --> 01:06:36,798
+like, he has shit. you wouldn't believe or something
+like that. Yeah, shit you've never seen before.
+
+795
+01:06:36,858 --> 01:06:41,400
+Yeah, and Wright really did. Like he busted
+out some sweet ass moves that I've never really
+
+796
+01:06:41,460 --> 01:06:45,581
+imagined a symbiote could do. Like he had that
+swinging mace, and like there was a one part
+
+797
+01:06:45,601 --> 01:06:50,302
+where he like shoved his spikes into the bridge
+below them and was like popping them up, trying
+
+798
+01:06:50,322 --> 01:06:54,944
+to impale Venom. But Venom was like doing all
+these crazy cool back flips and like swinging
+
+799
+01:06:55,124 --> 01:06:58,565
+off the bridge and back on and things like that.
+Yeah. It was just such a cool fight scene between
+
+800
+01:06:58,585 --> 01:07:02,054
+those characters I thought. I really liked it.
+Do you wish they would have gone with like
+
+801
+01:07:02,074 --> 01:07:08,317
+a different symbiote, like the blue one or the
+yellow one? Yes, I do. While Riot did look
+
+802
+01:07:08,398 --> 01:07:13,080
+cool, you know, that kind of like silver, gray,
+gunmetal finish kind of thing, I wish they
+
+803
+01:07:13,100 --> 01:07:17,182
+would have gone somebody who is more easily
+discernible from Venom. Maybe somebody like
+
+804
+01:07:17,242 --> 01:07:21,905
+Scream, who actually was, I would say, the primary
+member of those Life Foundation symbiotes,
+
+805
+01:07:21,965 --> 01:07:26,367
+I think. Yeah. She was like the head of that
+group. Like the other four, they kind of actually,
+
+806
+01:07:26,767 --> 01:07:30,489
+they merged into one symbiote called Hybrid.
+They were kind of a little bit expendable.
+
+807
+01:07:30,826 --> 01:07:35,028
+I think she had the unique look with the long
+hair and the fact that she was yellow and stuff
+
+808
+01:07:35,048 --> 01:07:38,550
+like that. I think it would have been cool to
+see her as the villain. Or at least have the
+
+809
+01:07:38,590 --> 01:07:42,472
+symbiote be yellow. Even if it wasn't Scream.
+Even if it was still Riot or whatever. I don't
+
+810
+01:07:42,512 --> 01:07:46,495
+know. Just would have been cool. I think the
+other two symbiotes that the Life Foundation
+
+811
+01:07:46,535 --> 01:07:50,357
+managed to capture, so they got four total.
+So they got Venom. We know that. One of them
+
+812
+01:07:50,417 --> 01:07:54,860
+escaped, which was Riot. But the yellow one
+and the blue one, I think that was Scream.
+
+813
+01:07:54,940 --> 01:07:58,754
+And the other one was Agony. Phage and Lasher
+were nowhere to be seen. It would've been cool
+
+814
+01:07:58,774 --> 01:08:02,837
+to see them here too, especially since they
+seemed so expendable. But back to the fight,
+
+815
+01:08:03,258 --> 01:08:06,861
+after they finally get to the actual rocket
+and they're like trying to rip each other apart
+
+816
+01:08:06,901 --> 01:08:12,225
+and stuff like that, there's a weird moment
+where Riot absorbs venom and they became like
+
+817
+01:08:12,406 --> 01:08:17,069
+one being for like a second before Anne was
+able to separate them with the noise. Right.
+
+818
+01:08:17,090 --> 01:08:20,753
+But he had the same look later on too, so I
+wasn't sure like if they were still combined
+
+819
+01:08:20,793 --> 01:08:24,776
+or not. I don't know, that part was kind of
+confusing. Yeah, those like little tendrils
+
+820
+01:08:24,796 --> 01:08:29,879
+that were coming off his back. Yeah. So there
+are two bodies in one body? I'm not sure how
+
+821
+01:08:29,899 --> 01:08:33,742
+the physics of that worked. I'm not sure how
+the physics of venom works to begin with. So
+
+822
+01:08:33,762 --> 01:08:37,183
+because sometimes you see venom being ripped
+apart and Eddie Brock's face is around like
+
+823
+01:08:37,203 --> 01:08:40,946
+venom's like chest area. And sometimes you see
+venom's face being ripped off and Eddie Brock's
+
+824
+01:08:40,966 --> 01:08:45,728
+face is right beneath it. So it's hard to tell
+exactly where Eddie Brock is inside of venom
+
+825
+01:08:45,768 --> 01:08:50,791
+at any given moment. I assume that when the
+two merged, Eddie and Drake were like just
+
+826
+01:08:50,811 --> 01:08:56,122
+kind of like smashed up right against each other.
+It's a little awkward. It's like, hey. But
+
+827
+01:08:56,342 --> 01:09:00,083
+the fight that the two had when the symbiotes
+were off was pretty interesting. Like Eddie
+
+828
+01:09:00,123 --> 01:09:04,445
+Brock had this like weird martial arts moment
+where he like slow motion spun around and punched
+
+829
+01:09:04,685 --> 01:09:08,887
+Drake right in the face. Yeah, there was a lot
+of slow motion in this in this film. Yeah.
+
+830
+01:09:08,927 --> 01:09:14,149
+But I like the way that Venom ultimately defeated
+Riot using the symbiotes weakness of fire,
+
+831
+01:09:14,309 --> 01:09:18,931
+you know? Yeah. He destroyed the rocket's fuel
+tanks as it was flying up and the whole thing
+
+832
+01:09:18,991 --> 01:09:23,813
+exploded and nearly killed Venom himself. Do
+you understand why Venom like told Anne earlier
+
+833
+01:09:23,873 --> 01:09:27,463
+like all of his weaknesses? That was weird.
+That was awkward in the car. I think it was
+
+834
+01:09:27,483 --> 01:09:32,947
+more for the audience. There was a lot of like...
+But also I think he liked Anne. He even stated
+
+835
+01:09:32,987 --> 01:09:36,669
+that much and that's why he told Eddie to get
+in the car. I think he had a soft spot for
+
+836
+01:09:36,810 --> 01:09:41,613
+Anne. And it may have been grafted on from Eddie's
+memories of her or something like that. Oh,
+
+837
+01:09:41,653 --> 01:09:45,916
+by that? That's a good explanation. So he was
+like super vulnerable and honest with her basically.
+
+838
+01:09:46,296 --> 01:09:51,340
+Huh. And that takes us to one of the last highlights
+of the movie. When they're talking on the steps,
+
+839
+01:09:51,700 --> 01:09:56,139
+I thought it was so fucking hilarious. when
+all of a sudden Venom's voice pops back in
+
+840
+01:09:56,560 --> 01:10:01,984
+and he's like, look at her, she doesn't even
+realize that we're going to get her back. He's
+
+841
+01:10:02,024 --> 01:10:08,569
+like, we love you, Anne. It was so great. Uh,
+Venom playing Cupid is just awesome. But the
+
+842
+01:10:08,609 --> 01:10:14,033
+very final scene, the mid credit scene of the
+movie is where we're introduced to Carnage
+
+843
+01:10:14,174 --> 01:10:18,777
+or Cletus Kasady being played by Woody Harrelson.
+That scene felt a little bit off to me. It
+
+844
+01:10:18,857 --> 01:10:22,992
+was. It was bad. It was really bad. I don't
+know if it was Harrelson's acting or if it
+
+845
+01:10:23,012 --> 01:10:28,255
+was his wig or if it was his dialogue. It was
+probably a combination of all three. They were
+
+846
+01:10:28,295 --> 01:10:33,478
+trying to make it seem creepy, but it wasn't,
+like at all. It was tongue-in-cheek. Maybe.
+
+847
+01:10:33,978 --> 01:10:39,102
+See, that I'm not sure on because Woody Harrelson
+did look fucking bat shit crazy out of his
+
+848
+01:10:39,142 --> 01:10:45,986
+mind, but not entirely in a scary way. No. In
+somewhat a funny way, I think. They could have
+
+849
+01:10:46,006 --> 01:10:51,410
+done a much better job like setting the atmosphere
+for this. Uh-huh. Because it was almost comical
+
+850
+01:10:51,470 --> 01:10:56,153
+the way the guard was talking with Eddie. And
+by the time you get to Cletus and he's like
+
+851
+01:10:56,253 --> 01:11:00,156
+writing Eddie's name in blood and it's just
+like, you know, the things he's saying it's
+
+852
+01:11:00,576 --> 01:11:04,259
+do you want me to turn on the serial killer?
+I could talk about like the Dada patterns of
+
+853
+01:11:04,339 --> 01:11:11,704
+arterial spray. Uh-huh. And just like, who wrote
+this? I think they were going for silence the
+
+854
+01:11:11,744 --> 01:11:19,126
+lambs and they got more Suicide Squad than Silence
+of the Lambs, I think. Oh, okay. Low blow,
+
+855
+01:11:19,426 --> 01:11:25,271
+wow. But that does it for the review. I think
+we hit everything. All the story highlights,
+
+856
+01:11:25,491 --> 01:11:29,455
+talked about all the characters, and gave our
+overall thoughts. I give this movie three and
+
+857
+01:11:29,495 --> 01:11:35,800
+a half stars. I liked it, it had its flaws,
+but overall I think it had more going for it
+
+858
+01:11:35,841 --> 01:11:41,345
+than against it, because I came away from the
+theater noting that I had a really good time.
+
+859
+01:11:41,646 --> 01:11:45,829
+I agree, yeah. I mean, I think that's a good
+way of putting it. It did have more going for
+
+860
+01:11:45,849 --> 01:11:50,773
+it than against it. I definitely didn't hate
+the film, but also wasn't, you know, like some
+
+861
+01:11:50,813 --> 01:11:55,317
+of the greater comic book films that we've kind
+of become accustomed to recently. Yeah, not
+
+862
+01:11:55,337 --> 01:12:02,002
+even close. But is it as close to being as good
+as a Venom film as you can get? Maybe. I agree
+
+863
+01:12:02,042 --> 01:12:05,846
+that if it was rated R, they had more language,
+they had more violence, then it would have
+
+864
+01:12:05,866 --> 01:12:08,928
+been. And maybe if it took somewhat more of
+a horror route, I think that would have been
+
+865
+01:12:08,948 --> 01:12:13,003
+a little bit more compelling. Yeah, for sure.
+But for what we got, I had a blast. What's
+
+866
+01:12:13,083 --> 01:12:16,385
+your star rating? Also three and a half. All
+right, that does it for the review. Go ahead
+
+867
+01:12:16,405 --> 01:12:21,047
+and let us know what you guys thought by reaching
+out to us via social media on Facebook, Twitter,
+
+868
+01:12:21,147 --> 01:12:26,751
+or Instagram. We're on all those platforms and
+you can find us there quickly by visiting dynamicduel.com.
+
+869
+01:12:27,811 --> 01:12:31,693
+Yeah, we have all of our links to our social
+media accounts as well as a link to our merchandise
+
+870
+01:12:31,713 --> 01:12:38,457
+store, which we have various merchandise like
+T-shirts and mugs and pillows and wall hangings.
+
+871
+01:12:38,557 --> 01:12:42,050
+Yeah. A whole bunch of stuff. Phone covers,
+you could buy phone covers there. That's true.
+
+872
+01:12:42,471 --> 01:12:47,272
+It has our no-prize art on all of that stuff,
+but also a few other illustrations that we've
+
+873
+01:12:47,312 --> 01:12:51,413
+done. Yeah, it's good stuff. Check it out for
+sure. And as we've mentioned earlier in this
+
+874
+01:12:51,473 --> 01:12:56,975
+episode, please don't forget to rate, review,
+share, and subscribe to our podcast, especially
+
+875
+01:12:57,055 --> 01:13:02,997
+on iTunes, to help us get to that 200 mark for
+Rotten Tomatoes. It's a life goal to affect
+
+876
+01:13:03,037 --> 01:13:08,163
+the tomato meter, guys. I know. Help us realize
+that goal, please. Alright, in our next episode
+
+877
+01:13:08,243 --> 01:13:13,327
+we will be reviewing a Constantine animated
+film that's coming out called City of Demons.
+
+878
+01:13:13,607 --> 01:13:18,491
+Right. I think it was a web series that was
+coming out on CW Seed, but it's being compiled,
+
+879
+01:13:18,551 --> 01:13:22,495
+I think, into a full-length feature film here.
+Yeah, and there's additional footage, there's
+
+880
+01:13:22,515 --> 01:13:27,559
+like almost a half hour of additional footage
+that wasn't seen in the web series. Yeah. And
+
+881
+01:13:27,579 --> 01:13:31,643
+then, you know, CW is doing some big thing with
+it later on in the month too. I think it's
+
+882
+01:13:31,683 --> 01:13:36,178
+a way to kind of celebrate the fact that Matt
+Ryan is going to... be joining the Legends
+
+883
+01:13:36,198 --> 01:13:41,000
+of Tomorrow cast this season, which starts in
+a few weeks as well. Yeah. So this is like
+
+884
+01:13:41,020 --> 01:13:44,981
+a big Constantine month. Yeah. So we're going
+to be reviewing that animated film and we're
+
+885
+01:13:45,021 --> 01:13:49,683
+also going to be doing a dual episode with Constantine
+versus Brother Voodoo later on this month,
+
+886
+01:13:49,723 --> 01:13:52,464
+so look forward to that. Yeah, and if Daredevil
+wasn't coming out, we also would have been
+
+887
+01:13:52,504 --> 01:13:55,965
+reviewing the Keanu Reeves film, but I think
+we'll save that for another time. Yeah, probably
+
+888
+01:13:56,005 --> 01:14:00,247
+next Halloween time. Yeah. So yeah, that does
+it for this episode. We'll talk to you guys
+
+889
+01:14:00,287 --> 01:14:02,288
+in a week. Up, up, and away. True believers.
+
