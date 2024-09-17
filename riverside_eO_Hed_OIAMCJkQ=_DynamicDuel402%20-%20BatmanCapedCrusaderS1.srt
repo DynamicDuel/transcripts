@@ -1,0 +1,3229 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,398 --> 00:00:29,319
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,359 --> 00:00:34,940
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:35,361 --> 00:00:40,782
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, we are reviewing
+
+5
+00:00:41,102 --> 00:00:46,964
+the Amazon exclusive animated series, Batman
+Caped Crusader. It was developed by Bruce Timm,
+
+6
+00:00:47,224 --> 00:00:52,325
+the very same Bruce Timm that created the Batman
+cartoon series from the 90s that we all know
+
+7
+00:00:52,365 --> 00:00:57,904
+and love. Yeah, Jonathan and I are still in
+what we call review hell because DC decided
+
+8
+00:00:57,924 --> 00:01:02,727
+to release a whole lot of summer projects within
+the same like four week time span. Just bear
+
+9
+00:01:02,747 --> 00:01:06,949
+with us. We're almost through to the end, I
+think with the Joker Follyado movie. Yeah,
+
+10
+00:01:06,969 --> 00:01:12,812
+see this kind of like, you know, Dante's Inferno
+coming out through Paradiso and the Joker Follyado
+
+11
+00:01:12,832 --> 00:01:17,195
+film is Paradiso because it's gonna be so damn
+good. Have you seen the reviews of it so far?
+
+12
+00:01:17,355 --> 00:01:22,830
+I don't trust those Rotten Tomatoes critics.
+Those guys are assholes. Anyway, before we
+
+13
+00:01:22,870 --> 00:01:26,634
+get into our review of Batman Caves Crusader,
+we're going to break down the comic book movie
+
+14
+00:01:26,654 --> 00:01:32,739
+news from the past week, including the Venom,
+The Last Dance final trailer and the news that
+
+15
+00:01:32,799 --> 00:01:37,763
+Destin Daniel Crichton is in talks to direct
+Spider-Man 4. As always, we list our segment
+
+16
+00:01:37,803 --> 00:01:41,446
+times in our episode description, so feel free
+to check out the show notes if you want to
+
+17
+00:01:41,466 --> 00:01:47,492
+skip ahead to a particular topic. Our artificially
+intelligent Duel simulator, AJ-9K, has a quick
+
+18
+00:01:47,532 --> 00:01:53,902
+message for our listeners, so listen up. Why
+hello there, do you want even more from this
+
+19
+00:01:53,922 --> 00:01:58,684
+podcast? Then become a part of the dynamic Duel
+community on Patreon, where you can choose
+
+20
+00:01:58,704 --> 00:02:03,786
+from three tiers. The dynamic two-oh tier gives
+you access to our Discord chat server. The
+
+21
+00:02:03,827 --> 00:02:08,288
+fantastic four tier gives you two bonus episodes
+each month, and the X-Force tier makes you
+
+22
+00:02:08,308 --> 00:02:13,680
+an executive producer of this show. Lastly,
+The Diner Mike Podcast Network tier lets you
+
+23
+00:02:13,720 --> 00:02:18,204
+create your own podcast using this Monte Carlo
+simulator. Jonny and Joe will help you develop
+
+24
+00:02:18,224 --> 00:02:23,769
+your show, provide graphic support and consultation,
+and get you simulation results. Pitch the twins
+
+25
+00:02:23,789 --> 00:02:29,895
+your ideas via email at dynamicduelpodcast at
+gmail.com. Check it out at patreon.com slash
+
+26
+00:02:29,935 --> 00:02:36,221
+dynamicduel. Pip pip cheerio. Thanks AJ9K and
+thanks to everyone who supports the podcast.
+
+27
+00:02:36,758 --> 00:02:40,720
+Guys, be sure to tune into the other shows on
+the DynaMic Podcast Network this week, including
+
+28
+00:02:40,780 --> 00:02:44,842
+Max Destruction, which pits your favorite action
+heroes from film and television against each
+
+29
+00:02:44,882 --> 00:02:51,105
+other. This week, hosts Scotty and Gilly are
+reviewing Terminator 2, Judgement Day. Great
+
+30
+00:02:51,145 --> 00:02:56,988
+film. One of the best films of all time. On
+the Senjoworld podcast, host Zachary Hepburn
+
+31
+00:02:57,008 --> 00:03:02,451
+speculates on fights between fan favorite anime
+and manga characters. This Thursday, Zach will
+
+32
+00:03:02,471 --> 00:03:08,270
+be fighting out who would win between Jotaro
+from Jojo's Bizarre against Joker from Persona
+
+33
+00:03:08,330 --> 00:03:13,773
+5. That's a big one. On the Console Combat Podcast
+hosts John and Dean simulate battles between
+
+34
+00:03:13,813 --> 00:03:18,995
+popular video game characters, and yesterday's
+episode, they reviewed the Borderlands film.
+
+35
+00:03:19,395 --> 00:03:24,337
+Visit dynamicpodcasts.com or click the link
+in our show notes to listen to all of the shows
+
+36
+00:03:24,717 --> 00:03:32,000
+in the DynaMic Podcast Network. But with that
+out of the way, quick to the No Prize! A No
+
+37
+00:03:32,041 --> 00:03:36,503
+Prize is an award Marvel used to give out to
+fans. Our version, the Dynamic Duel No Prize,
+
+38
+00:03:36,563 --> 00:03:40,946
+is a digital award we post on Instagram for
+the person that we feel gave the best answer
+
+39
+00:03:40,986 --> 00:03:46,330
+to our question of the week. Last week we asked,
+who would you cast as Richard Ryder in the
+
+40
+00:03:46,390 --> 00:03:51,594
+Nova series and Hal Jordan and Jon Stewart in
+the Lantern series? And we got a whole lot
+
+41
+00:03:51,614 --> 00:03:54,857
+of answers. Let's go ahead and run down our
+honorable mentions as well as the No Prize
+
+42
+00:03:54,897 --> 00:04:01,321
+winner. Our first honorable mention goes to
+Jose Marcial, who said, For Hal Jordan, I would
+
+43
+00:04:01,422 --> 00:04:06,564
+cast Josh Brolin since how Jordan is supposed
+to be older and more gruff in this version.
+
+44
+00:04:07,445 --> 00:04:15,749
+And for Jon Stewart, I would cast David Johnson.
+He played Andy in Alien Romulus. He's like
+
+45
+00:04:15,949 --> 00:04:22,573
+best part of that movie and he's a really good
+actor just from that role alone. And what was
+
+46
+00:04:22,633 --> 00:04:27,996
+that other part of the question? So this may
+have been recorded before we received news
+
+47
+00:04:28,016 --> 00:04:32,447
+that Josh Brolin has actually withdrawn his
+name. from the running for the character of
+
+48
+00:04:32,467 --> 00:04:37,450
+Hal Jordan. So, you know, that's not gonna happen,
+although it wouldn't have been a terrible choice.
+
+49
+00:04:37,670 --> 00:04:43,575
+As far as David Johnson goes, I have not seen
+Alien Romulus, but I've heard amazing things
+
+50
+00:04:43,635 --> 00:04:48,478
+about the movie and his performance in particular.
+So this answer gets me pretty excited. Yeah,
+
+51
+00:04:48,518 --> 00:04:52,902
+I was waiting to see Alien Romulus until I saw
+Alien Covenant, because I haven't seen that
+
+52
+00:04:52,942 --> 00:04:58,225
+yet either. But I am super excited to see Alien
+Romulus. It looks really damn good. Of course,
+
+53
+00:04:58,466 --> 00:05:04,968
+Jose did not get to an answer for Nova because
+no one cares. Nobody got time for a Nova answer.
+
+54
+00:05:05,508 --> 00:05:11,291
+Actually, a lot of the callers this week didn't
+answer the full question with all three characters,
+
+55
+00:05:11,631 --> 00:05:17,073
+Jon Stewart, Hal Jordan, and Richard Ryder.
+Only a few of them did, but not our next honorable
+
+56
+00:05:17,113 --> 00:05:22,576
+mention, Miggy Mathingian, who said, Hey, what's
+up guys, this is Miggy. And even though it
+
+57
+00:05:22,596 --> 00:05:26,257
+might be confusing for general audiences, from
+the short list, I would pick Chris Pine to
+
+58
+00:05:26,277 --> 00:05:33,013
+play Hal Jordan. And then the Hollywood Reporter
+said that they would want a newer actor, younger
+
+59
+00:05:33,093 --> 00:05:37,756
+actor to play John Stewart. So I would go with
+Malachi Kirby. Even though I haven't seen him
+
+60
+00:05:38,076 --> 00:05:45,081
+play in anything, I've seen that he is like
+an award winning actor. So, and I think he's
+
+61
+00:05:45,101 --> 00:05:49,384
+like a lesser known name. So yeah, Chris Pine
+and Malachi Kirby. Yeah. Miggi's concern is
+
+62
+00:05:49,424 --> 00:05:55,368
+that audiences might find it confusing to see
+Chris Pine as Hal Jordan, considering he was
+
+63
+00:05:55,628 --> 00:06:00,759
+very prominently Steve Trevor. in the Wonder
+Woman films. That said, I think he would make
+
+64
+00:06:00,939 --> 00:06:06,861
+a great, damn near perfect Hal Jordan. The guy
+is a great actor, and you know, we've already
+
+65
+00:06:06,901 --> 00:06:12,844
+seen that he could pull off the role of brave
+pilot. Yeah, I'm not sure how his role as Hal
+
+66
+00:06:12,884 --> 00:06:18,206
+Jordan would differ too much from Steve Trevor
+from the Wonder Woman films, but I really like
+
+67
+00:06:18,226 --> 00:06:23,368
+the answer of Malachi Kirby as Jon Stewart.
+In fact, I'm going to say don't get him for
+
+68
+00:06:23,408 --> 00:06:27,934
+Jon Stewart and let's get him for the next Black
+Panther. Because... Dude could totally nail
+
+69
+00:06:27,954 --> 00:06:34,436
+that role. Well too bad, cause Team DC already
+called dibs. Great answer, Miggy. Our next
+
+70
+00:06:34,476 --> 00:06:40,297
+honorable mention goes to Daniel Alonso, who
+said, All right, I'm going to start making
+
+71
+00:06:40,317 --> 00:06:45,439
+an effort to send a message in every week because
+y'all's new stuff is also great. So I'm gonna
+
+72
+00:06:45,459 --> 00:06:50,620
+start off with a co-co-combo and answer last
+week's. My favorite episode is Hit Monkey versus
+
+73
+00:06:50,680 --> 00:06:56,558
+Gleek, funniest shit so far. Casting for Hal
+Jordan, I would go with Bradley Cooper. for
+
+74
+00:06:56,598 --> 00:07:02,039
+Richard Rider, I would do Liam Hemsworth. And
+bonus, I would have cast Michael Fassbender
+
+75
+00:07:02,059 --> 00:07:06,801
+as Dr. Doom. I believe he could have brought
+the gravitas that the role needed. All right,
+
+76
+00:07:06,841 --> 00:07:10,862
+yeah, Daniel gave a few more answers than we
+asked. He also answered last week's question
+
+77
+00:07:10,922 --> 00:07:15,203
+of, what's your favorite episode of Dynamic
+Duel? Thank you for doing that. I really like
+
+78
+00:07:15,223 --> 00:07:20,184
+his answer of Bradley Cooper for Hal Jordan,
+though. Yeah, absolutely. I've always wanted
+
+79
+00:07:20,224 --> 00:07:26,230
+to see Bradley Cooper take on a superhero role,
+and... To me, Hal Jordan makes the most sense
+
+80
+00:07:26,250 --> 00:07:31,311
+for him. I know he's an actor who really likes
+to stretch his craft, so I'm not sure how attracted
+
+81
+00:07:31,331 --> 00:07:35,953
+to that role he would be, but he would be amazing
+in it, absolutely. He would actually be my
+
+82
+00:07:35,993 --> 00:07:41,114
+number one pick, I think. My number one dream
+casting, for sure. And Liam Hemsworth for Richard
+
+83
+00:07:41,154 --> 00:07:45,755
+Ryder, I can see it working, you know, he looks
+awful lot like his brother Chris Hemsworth,
+
+84
+00:07:45,855 --> 00:07:50,357
+who plays Thor, but I don't think that's too
+big of an issue, they can make their Richard
+
+85
+00:07:50,397 --> 00:07:54,278
+Ryder look a little bit different by dying his
+hair or something. I don't know. but he definitely
+
+86
+00:07:54,738 --> 00:07:59,501
+looks like Richard Ryder. So yeah, it could
+totally work. Yeah, I mean, as long as you
+
+87
+00:07:59,521 --> 00:08:05,724
+keep Thor with a beard and Richard Ryder without
+a beard, it's fine. It works out. Yeah, I don't
+
+88
+00:08:05,744 --> 00:08:10,527
+think you could pull off the Nova helmet with
+a beard. I don't think, which makes me sad
+
+89
+00:08:10,547 --> 00:08:16,230
+because now I feel like I can never be Nova.
+You never could. We're gonna give a special
+
+90
+00:08:16,250 --> 00:08:21,373
+thanks to Mason Thompson and Scott Camacho for
+calling in and leaving their answers. Scotty.
+
+91
+00:08:21,778 --> 00:08:27,542
+your idea of casting Robert Downey Jr. as Richard
+Ryder was hilarious. I laughed my ass off.
+
+92
+00:08:28,562 --> 00:08:34,787
+But the winner of this week's No Prize is Cyrus
+Moore, who said, Hey guys, Cyrus Moore here.
+
+93
+00:08:35,087 --> 00:08:41,592
+So the perfect DC lanterns casting for Hal Jordan
+is Bradley Cooper, Shamar Moore for Jon Stewart,
+
+94
+00:08:42,032 --> 00:08:47,896
+and I don't really know the Nova Corps very
+well, but I feel like Logan Lerman from The
+
+95
+00:08:47,956 --> 00:08:54,203
+Maze Runner would make a pretty good Nova Corps
+member for Richard Ryder. But yeah, Bradley
+
+96
+00:08:54,243 --> 00:08:59,306
+Cooper and Shamar Moore would be perfect choices
+to be lanterns. Thank you guys. Yeah, again,
+
+97
+00:08:59,346 --> 00:09:05,489
+Bradley Cooper as Hal Jordan is the best possible
+outcome. Shamar Moore would actually make a
+
+98
+00:09:05,749 --> 00:09:10,391
+perfect Jon Stewart if he was younger, I think.
+Shamar Moore, I think, has aged out of that
+
+99
+00:09:10,431 --> 00:09:15,966
+role. But considering he had a long running
+role on the show, Criminal Minds. where he's
+
+100
+00:09:16,006 --> 00:09:20,290
+kind of done this whole true detective style
+thing, which is what the lantern show is being
+
+101
+00:09:20,590 --> 00:09:25,835
+compared to. Yeah, he would be great. And then
+Logan Lerman as Richard Ryder. I actually like
+
+102
+00:09:25,855 --> 00:09:30,379
+this casting the best. Logan Lerman was actually
+not in the Maze Runner movie. That was Daniel
+
+103
+00:09:30,439 --> 00:09:36,044
+O'Brien. Logan Lerman was Percy Jackson. He
+was in those films. But I remember his name
+
+104
+00:09:36,064 --> 00:09:40,708
+was tossed around for Spider-Man back when they
+were casting for Spider-Man Homecoming and
+
+105
+00:09:40,728 --> 00:09:44,431
+Tom Holland ended up getting the role. But I
+think that Logan Lerman definitely looks like
+
+106
+00:09:44,471 --> 00:09:47,773
+Richard Rider from the comics and could totally
+pull it off. And the guy could act as well,
+
+107
+00:09:47,793 --> 00:09:52,617
+like I remember seeing him in the Noah movie.
+And he did a fantastic job. But great answer,
+
+108
+00:09:52,637 --> 00:09:56,440
+Cyrus Moore, you win this week's No Prize. If
+you the listener want a shot at winning your
+
+109
+00:09:56,540 --> 00:10:00,903
+own No Prize, stay tuned to later on in this
+episode when we'll be asking another question
+
+110
+00:10:00,943 --> 00:10:04,205
+of the week. And now that that's done, onto
+the news!
+
+111
+00:10:09,806 --> 00:10:14,667
+This past week we got the final trailer for
+the Venom, the last dance movie that's coming
+
+112
+00:10:14,767 --> 00:10:19,508
+out in October. It is the second major trailer
+that we've gotten for this film. And I have
+
+113
+00:10:19,528 --> 00:10:24,070
+to say that actually this trailer impressed
+me a whole lot more than the first one. I think
+
+114
+00:10:24,110 --> 00:10:28,911
+the first one I was being really whiny about
+it because I hate the title of the film and
+
+115
+00:10:29,451 --> 00:10:35,493
+we weren't quite sure what was going on with
+the story. But you throw null in there and
+
+116
+00:10:35,573 --> 00:10:41,036
+you got me hooked my friend. As soon as I saw
+that the main bad guy of this movie was not
+
+117
+00:10:41,076 --> 00:10:46,821
+going to be Chiwetel Isheophore's Orwell Taylor,
+and that it was going to be null, I was blown
+
+118
+00:10:46,861 --> 00:10:51,024
+away. That was the best case scenario. Yeah,
+all of a sudden the movie seems almost worth
+
+119
+00:10:51,104 --> 00:10:58,050
+it. I'm not going to lie. I actually enjoyed
+this trailer. Like I did not expect to, but
+
+120
+00:10:58,490 --> 00:11:01,433
+I don't know what it was. Just I don't know
+the music and just the relationship between
+
+121
+00:11:01,453 --> 00:11:07,237
+the two characters. I just found it charming.
+I'm trying really hard not to get excited.
+
+122
+00:11:07,642 --> 00:11:12,605
+at all for this movie because I don't want to
+be let down considering it's Sony who's making
+
+123
+00:11:12,625 --> 00:11:18,269
+the film. But this was a good trailer. Well,
+we can all agree that Venom Let There Be Carnage
+
+124
+00:11:18,609 --> 00:11:25,874
+sucked balls, right? It really sucked. The first
+Venom movie was not great, but it was novel
+
+125
+00:11:25,914 --> 00:11:30,578
+for the way it portrayed the Eddie Brock Venom
+relationship. The relationship between those
+
+126
+00:11:30,598 --> 00:11:35,361
+two characters is the best thing about this
+entire franchise. And the way the third trailer
+
+127
+00:11:35,401 --> 00:11:40,700
+really sold the perhaps culmination of that
+relationship I thought was really enticing.
+
+128
+00:11:41,140 --> 00:11:46,623
+I want to see how this story might end, if it
+does. I mean, like, both of the trailers that
+
+129
+00:11:46,643 --> 00:11:52,187
+came out for this film have heavily alluded
+to the idea of Eddie Brock or Venom sacrificing
+
+130
+00:11:52,227 --> 00:11:56,629
+themselves for the other. I'm totally not sold
+that that's gonna happen, but it's possible.
+
+131
+00:11:56,789 --> 00:12:02,213
+You know, Tom Hardy may in fact want to pull
+a Logan and go out in style, you know, but
+
+132
+00:12:02,253 --> 00:12:06,512
+I'm still really hoping that somehow... Venom
+ends up in a Spider-Man movie or vice versa.
+
+133
+00:12:06,992 --> 00:12:12,537
+And, you know, not counting the stupid post
+credit stuff from No Way Home. But yeah, Null
+
+134
+00:12:12,657 --> 00:12:17,982
+is going to be in this film. And for those of
+you who may not know who he is, he is the primordial
+
+135
+00:12:18,142 --> 00:12:23,867
+deity who created the symbiotes. And he is a
+total badass. He was the main villain in the
+
+136
+00:12:23,887 --> 00:12:28,392
+King and Black storyline from the comics, which
+was a great run. It was a great story. I highly
+
+137
+00:12:28,432 --> 00:12:32,627
+suggest reading it. But he's a badass like.
+on the same level as Thanos. Like it took every
+
+138
+00:12:32,687 --> 00:12:37,390
+single Marvel hero on Earth to defeat this guy.
+So it'll be interesting to see him going up
+
+139
+00:12:37,430 --> 00:12:43,114
+against Venom in this film. Apparently he is
+the one that the symbiotes that came to Earth
+
+140
+00:12:43,154 --> 00:12:49,138
+in the first movie were escaping from and he
+is the one who sends the xenophages down to
+
+141
+00:12:49,238 --> 00:12:53,381
+Earth. Those are the creatures that attack Venom
+on the plane at the beginning of this trailer.
+
+142
+00:12:53,801 --> 00:12:58,565
+But does Null ever come to Earth in the comics?
+He does, yeah, but they're probably going to
+
+143
+00:12:58,585 --> 00:13:04,112
+have to nerf him a little bit. because he's
+insanely powerful. Like he could kill Celestials,
+
+144
+00:13:04,252 --> 00:13:08,615
+if you guys remember Celestials from the Eternals
+movie. And here he's only going up against
+
+145
+00:13:08,675 --> 00:13:13,159
+Venom. So they're probably gonna have to nerf
+him, which is a shame, but just to see him
+
+146
+00:13:13,239 --> 00:13:18,462
+on screen will be worth it, I think. We don't
+know who's playing Null as of yet. There are
+
+147
+00:13:18,542 --> 00:13:23,366
+some rumors going around that maybe Reese Ifans
+is gonna play him. And we do see Reese later
+
+148
+00:13:23,466 --> 00:13:28,409
+on in this trailer, which is super confusing
+because the actor played Kurt Connors, the
+
+149
+00:13:28,489 --> 00:13:34,538
+Lizard. in the amazing Spider-Man franchise.
+So it's weird to see him in this movie. Yeah,
+
+150
+00:13:34,578 --> 00:13:42,104
+considering that Reese Ifans was recently seen
+in a MCU Spider-Man movie, I doubt that's the
+
+151
+00:13:42,185 --> 00:13:48,090
+actor that's playing Null. Yeah. A lot of this
+movie takes place in Las Vegas. I bet you that's
+
+152
+00:13:48,110 --> 00:13:53,074
+where the climax of the film is going to be.
+And there's this weird scene where Eddie and
+
+153
+00:13:53,114 --> 00:13:58,975
+Venom steal a disguise from some guy wearing
+a suit. I don't know what's going on here in
+
+154
+00:13:58,995 --> 00:14:03,238
+the scene. It almost looks like Eddie pees on
+him before Venom slaps the shit out of him.
+
+155
+00:14:03,358 --> 00:14:08,461
+The guy pees on Eddie. Is that what happens?
+Yeah. Who the hell does that? That's so fucking
+
+156
+00:14:08,501 --> 00:14:13,865
+weird. I hate that. Right. But also I hate it
+because Venom can change his appearance to
+
+157
+00:14:13,905 --> 00:14:18,008
+match other clothing anyway. So why do they
+need to steal this guy's clothes? Doesn't make
+
+158
+00:14:18,048 --> 00:14:23,112
+sense. Maybe they just stole a key or something
+like that. There was a whole section here where
+
+159
+00:14:23,192 --> 00:14:27,887
+Venom is gambling and discovers the joys of.
+gambling and the addictive quality to it that
+
+160
+00:14:27,947 --> 00:14:33,032
+I didn't need in a trailer. We'll say that could
+have been a funny and I put funny in quotes,
+
+161
+00:14:33,472 --> 00:14:37,695
+gag for the movie. Didn't need to be in the
+trailer. Just wasted time. No, it was dumb.
+
+162
+00:14:37,816 --> 00:14:42,299
+I never related to that feeling to begin with.
+Anytime I put money in a slot machine, it just
+
+163
+00:14:42,319 --> 00:14:49,685
+goes right away. And I'm like, Oh, this is like,
+fuck. But no, I mean, the film, I think shows
+
+164
+00:14:49,745 --> 00:14:55,746
+promise the inclusion of Null, the relationship
+between Eddie and Venom. I think that all looks
+
+165
+00:14:55,786 --> 00:15:01,348
+fantastic. Those things alone are propping up
+my expectations for this film. I'm hoping at
+
+166
+00:15:01,408 --> 00:15:05,989
+least it'll be better than Venom Let There Be
+Carnage, and I'm hoping it's as good as the
+
+167
+00:15:06,029 --> 00:15:10,791
+first Venom film. But we'll find out in just
+over a month when this movie comes out on October
+
+168
+00:15:10,851 --> 00:15:16,233
+25th. But with this trailer teasing that this
+may be the last appearance of Venom, that brings
+
+169
+00:15:16,293 --> 00:15:17,573
+us to our question of the week.
+
+170
+00:15:22,030 --> 00:15:26,974
+Do you think this should or shouldn't be Eddie
+Brock's and Venom's last appearance in Sony's
+
+171
+00:15:27,014 --> 00:15:32,338
+Spider-Man universe, and why? Record your answer
+at dynamicduel.com by clicking on the red microphone
+
+172
+00:15:32,378 --> 00:15:36,001
+button in the bottom right hand corner of the
+screen, which will prompt you to leave us a
+
+173
+00:15:36,061 --> 00:15:40,685
+voicemail. Your message could be up to 30 seconds
+long, and don't forget to leave your name in
+
+174
+00:15:40,705 --> 00:15:45,068
+case we include you on the podcast. We'll pick
+our favorite answer, and award that person
+
+175
+00:15:45,169 --> 00:15:51,622
+a dynamic duel no prize that we'll post to Instagram.
+Be sure to answer before September 21st. But
+
+176
+00:15:51,682 --> 00:15:57,183
+speaking of the Sony Spider-Man universe, we
+also learned this past week that Destin Daniel
+
+177
+00:15:57,203 --> 00:16:03,645
+Cretton is in talks to direct Spider-Man 4.
+Now Destin Daniel Cretton is the director behind
+
+178
+00:16:03,825 --> 00:16:09,506
+the Shang-Chi and the Legend of the Ten Rings
+film and the upcoming Wonder Man series. And
+
+179
+00:16:09,666 --> 00:16:15,388
+Marvel loves this guy. He's a fantastic director.
+I really loved the Shang-Chi film. And I'm
+
+180
+00:16:15,448 --> 00:16:20,409
+actually really excited about this news because
+I think he can knock Spider-Man 4 out of the
+
+181
+00:16:20,449 --> 00:16:26,232
+park. The one downside to this is that it means
+that a Shang-Chi sequel is likely going to
+
+182
+00:16:26,252 --> 00:16:32,195
+be put on a back burner, which breaks my heart
+because that franchise deserves better. Yeah,
+
+183
+00:16:32,255 --> 00:16:37,617
+I'm actually really surprised we haven't received
+a Shang-Chi sequel yet. I am happy for Destin
+
+184
+00:16:37,637 --> 00:16:41,279
+Daniel Cretton though, considering the fact
+that he was kicked off the upcoming Avengers
+
+185
+00:16:41,299 --> 00:16:47,106
+movie. This is not a terrible consolation. No,
+you're absolutely right. Now- Shang-Chi the
+
+186
+00:16:47,146 --> 00:16:52,470
+character was rumored to play a heavy part in
+the King Dynasty film back when that was a
+
+187
+00:16:52,530 --> 00:16:57,954
+thing. Ever since the conviction of Jonathan
+Majors and his subsequent firing from Marvel
+
+188
+00:16:57,994 --> 00:17:03,338
+Studios, you know, they had to rework Avengers
+the King Dynasty into Avengers Doomsday. And
+
+189
+00:17:03,358 --> 00:17:08,322
+it's not quite sure if Shang-Chi is still going
+to play a prominent role within that film because
+
+190
+00:17:08,362 --> 00:17:13,065
+Destin Daniel Cretton was originally attached
+to direct the King Dynasty and it was stated
+
+191
+00:17:13,105 --> 00:17:17,849
+that the film was going to be a quasi-sequel
+for Shang-Chi, which is why they hadn't made
+
+192
+00:17:17,869 --> 00:17:23,594
+a whole lot of movement on a Shang-Chi sequel.
+So now, because reports are saying that the
+
+193
+00:17:23,634 --> 00:17:27,897
+Spider-Man movie is being fast-tracked, like
+they're hoping to write the film and start
+
+194
+00:17:27,937 --> 00:17:32,021
+shooting it as early as next year, Destin Daniel
+Cran is not going to be able to get to Shang-Chi
+
+195
+00:17:32,061 --> 00:17:36,705
+for a while. My hope is that maybe they'll be
+able to squeeze Shang-Chi into the Spider-Man
+
+196
+00:17:36,745 --> 00:17:42,001
+4 film. since those characters have teamed up
+in the comics before, and since the MCU Spider-Man
+
+197
+00:17:42,041 --> 00:17:48,267
+franchise has often included cameos from other
+MCU heroes, such as Iron Man in Homecoming,
+
+198
+00:17:48,647 --> 00:17:53,432
+Nick Fury in Far From Home, and Doctor Strange
+in No Way Home. Yeah, that'd be cool to get
+
+199
+00:17:53,452 --> 00:17:57,635
+like a different cameo for each Spider-Man movie,
+I like that. Yeah, the Spider-Man movies could
+
+200
+00:17:57,675 --> 00:18:02,940
+almost be treated like the Marvel team-up comic
+book series, which Spider-Man was often the
+
+201
+00:18:02,980 --> 00:18:08,785
+star teaming up with other. lesser known characters.
+One of our executive producers, Devin Davis,
+
+202
+00:18:08,945 --> 00:18:15,050
+had the idea that Spider-Man 4 would largely
+focus on the Black Cat storyline since reports
+
+203
+00:18:15,090 --> 00:18:18,853
+are also saying that Zendaya is not going to
+have a huge role in Spider-Man 4, which makes
+
+204
+00:18:18,914 --> 00:18:24,138
+sense considering where they left the franchise
+off in No Way Home. And I think introducing
+
+205
+00:18:24,178 --> 00:18:30,383
+Black Cat is the next logical step for the franchise.
+Devin Davis suggested that could mean that
+
+206
+00:18:30,403 --> 00:18:35,279
+she's working for Kingpin and then you could
+have Daredevil be the superhero team up and
+
+207
+00:18:35,459 --> 00:18:40,782
+I think I like that idea even more. So everything's
+just looking bad for Shang-Chi. I feel bad
+
+208
+00:18:40,802 --> 00:18:46,866
+for the actor Simu Liu because he was a great
+Shang-Chi and I feel like he deserves better
+
+209
+00:18:46,906 --> 00:18:52,189
+than this deal that he's getting. Maybe by the
+time they do make a Shang-Chi sequel, China
+
+210
+00:18:52,229 --> 00:18:58,213
+will have calmed the F down and let that film
+be released in their country. We'll see. One
+
+211
+00:18:58,253 --> 00:18:58,733
+can only hope.
+
+212
+00:19:06,414 --> 00:19:10,399
+That is it for all the news for this week, now
+let's move on to the main event of this episode
+
+213
+00:19:10,759 --> 00:19:18,469
+when we review the Amazon exclusive DC animated
+series, Batman Caped Crusader Season 1.
+
+214
+00:19:33,602 --> 00:19:39,046
+Okay, Batman Kid Crusader is a new animated
+series developed by Bruce Timm and produced
+
+215
+00:19:39,126 --> 00:19:46,393
+by J.J. Abrams and Matt Reeves. It is a reimagining
+of sorts of Bruce Timm's beloved animated series
+
+216
+00:19:46,673 --> 00:19:52,598
+that us 90s kids used to watch every day after
+school and on Saturday mornings. This series,
+
+217
+00:19:52,638 --> 00:19:59,424
+however, is unhindered by concerns over network
+marketability, allowing for a more mature psychological
+
+218
+00:19:59,524 --> 00:20:05,672
+and progressive take. on the familiar characters
+within the Batman mythos. And while I'd hesitate
+
+219
+00:20:05,692 --> 00:20:10,895
+to say it's an improvement upon the 90s series
+in the same way that the recent X-Men 97 series
+
+220
+00:20:10,955 --> 00:20:16,739
+was over that childhood favorite, Caped Crusader's
+retro aesthetics and intriguing interpretations
+
+221
+00:20:16,859 --> 00:20:22,902
+do make it a worthwhile and standout addition
+to Batman's vast library of animated content.
+
+222
+00:20:23,343 --> 00:20:28,506
+Since the primary appeal of the series really
+is how it interprets its characters, If you
+
+223
+00:20:28,546 --> 00:20:34,990
+haven't seen the show and want to avoid spoilers,
+stop listening now. Watch the show, then come
+
+224
+00:20:35,010 --> 00:20:39,873
+back and listen to our thoughts because we will
+be delving into spoilers. Yeah, anyone who
+
+225
+00:20:39,893 --> 00:20:44,677
+was a fan of the 90s Batman, the animated series
+cartoon, I think owes it to themselves to check
+
+226
+00:20:44,697 --> 00:20:50,040
+this show out. But I think it goes even harder
+into the hardboiled elements of the Batman
+
+227
+00:20:50,080 --> 00:20:55,900
+comics when they first came out. Oh absolutely,
+for sure. It's much more in that classic noir
+
+228
+00:20:56,060 --> 00:21:02,063
+style. It's very hard boiled, very stripped
+down, very classic Batman, which is nice. Now
+
+229
+00:21:02,103 --> 00:21:07,626
+I wouldn't say this is a must-see Batman series
+though. The main appeal of it isn't necessarily
+
+230
+00:21:07,686 --> 00:21:13,689
+Batman, but the creators behind the show. From
+Bruce Timm's classic design and strong storytelling
+
+231
+00:21:13,749 --> 00:21:18,935
+sense, to J.J. Abrams' talent for bringing new
+life to established properties, to Matt Reeves'
+
+232
+00:21:18,955 --> 00:21:24,158
+gritty and realistic understanding of the character
+evidenced in his 2022 film, The Batman, to
+
+233
+00:21:24,178 --> 00:21:29,260
+the involvement of some of the comic industry's
+best writers in Ed Brubaker and Greg Rucka.
+
+234
+00:21:29,680 --> 00:21:35,002
+Fans knew this was going to be something special,
+going all the way back to 2014's Strange Days
+
+235
+00:21:35,122 --> 00:21:40,705
+animated short that Bruce Timm made for Batman's
+75th anniversary, which served as a launchpad
+
+236
+00:21:40,805 --> 00:21:45,963
+for this series' visual aesthetic. Can I just
+say that when I saw the names behind the show,
+
+237
+00:21:45,983 --> 00:21:49,845
+because I had no idea, right? I knew that Bruce
+Timm was behind the show, but I didn't know
+
+238
+00:21:49,966 --> 00:21:55,029
+that Matt Reeves was producing. I think I knew
+that JJ Abrams was producing, but that's still
+
+239
+00:21:55,049 --> 00:21:59,431
+a huge name to see for this cartoon. And then
+all of a sudden I saw Ed Brubaker and Greg
+
+240
+00:21:59,471 --> 00:22:03,294
+Rucka, and I'm like, what the fuck is this?
+Is this gonna be the best show of all time?
+
+241
+00:22:03,574 --> 00:22:11,054
+Right? Man, I was truly impressed by the names
+behind this series. 110%. I'd go so far as
+
+242
+00:22:11,094 --> 00:22:16,440
+to say that between the creators involved and
+the success of X-Men 97 and my excitement over
+
+243
+00:22:16,460 --> 00:22:21,445
+the show's mid-20th century design approach,
+I thought this show was going to be the ultimate
+
+244
+00:22:21,525 --> 00:22:27,051
+Batman series, and this is probably a solid
+example of why you should temper your expectations
+
+245
+00:22:27,592 --> 00:22:32,237
+going into any project involving a character
+that's near and dear to your heart. It was
+
+246
+00:22:32,257 --> 00:22:38,411
+just so d- different, not in a bad way, just
+a mildly unsatisfactory way. A way I should
+
+247
+00:22:38,431 --> 00:22:42,332
+have seen coming when they started revealing
+things like their new take on Harley Quinn.
+
+248
+00:22:42,792 --> 00:22:48,594
+I didn't realize this show was going to be as
+Elseworlds, for lack of a better word, as it
+
+249
+00:22:48,654 --> 00:22:54,496
+was. Yeah, they changed a lot of things, right?
+For better or for worse, I didn't mind a lot
+
+250
+00:22:54,536 --> 00:22:58,917
+of the changes they had here, but I think we
+could both agree that they fucked up the Penguin.
+
+251
+00:22:59,037 --> 00:23:04,424
+You know, honestly? I did not hate their take
+on the penguin. I thought I was going to. Some
+
+252
+00:23:04,444 --> 00:23:08,486
+of the new takes that they did on the characters
+that could be considered controversial because
+
+253
+00:23:08,526 --> 00:23:13,109
+they race bent or gender bent the characters
+like Barbara Gordon or the penguin, I didn't
+
+254
+00:23:13,129 --> 00:23:18,552
+mind. I was surprised I didn't hate Oswalda
+the female penguin because it was well done,
+
+255
+00:23:18,732 --> 00:23:24,815
+I thought. That question of why was pretty much
+cast aside once I understood the Elseworlds
+
+256
+00:23:24,895 --> 00:23:29,377
+vibe of the show. I tend to be a little bit
+more forgiving of how characters are handled.
+
+257
+00:23:29,682 --> 00:23:34,783
+and else world stories like the doom that came
+to Gotham or Red Sun, because I understand
+
+258
+00:23:34,843 --> 00:23:40,845
+it's what if type nature. As a general rule,
+I don't mind race bending or gender bending
+
+259
+00:23:41,065 --> 00:23:45,946
+as long as, you know, they're true to the character.
+But Oswalda Cobblepot was nothing like the
+
+260
+00:23:45,986 --> 00:23:49,267
+Penguin as any of us know. It was almost an
+entirely different character. She was like
+
+261
+00:23:49,287 --> 00:23:55,488
+a big mama type mobster. Yeah, I've never seen
+the Penguin do a song and dance number at the
+
+262
+00:23:55,569 --> 00:24:02,991
+Iceberg Lounge. That was pretty wild. Cabaret
+number. Oh, God. I bleach. But you know, expectations
+
+263
+00:24:03,052 --> 00:24:08,314
+aside, I thought the show did a terrific job
+at for the most part reintroducing us to familiar
+
+264
+00:24:08,354 --> 00:24:15,038
+characters episode by episode. I was 100% tuned
+in to each episode and eager for the next one
+
+265
+00:24:15,058 --> 00:24:20,681
+in the same way I used to be watching the 90s
+cartoon as a kid. I love film noir detective
+
+266
+00:24:20,701 --> 00:24:26,664
+stories. I love mid 20th century design. I love
+dark psychological examinations of characters.
+
+267
+00:24:27,125 --> 00:24:32,234
+So yeah, this show hooked me. I watched the
+entire thing in less than 24 hours. And like
+
+268
+00:24:32,294 --> 00:24:36,336
+I said, I like what they did with a lot of the
+characters. Not all of it worked like I would
+
+269
+00:24:36,356 --> 00:24:42,377
+say on Amada Pia or the Robin characters, but
+a lot of them like Clayface or Nocturna or
+
+270
+00:24:42,397 --> 00:24:47,059
+the Gentleman Ghost felt like they came straight
+out of a Tales from the Crypt horror-esque
+
+271
+00:24:47,119 --> 00:24:52,660
+Elseworlds version of the DC universe. And keeping
+your eye out for obscure cameos from characters
+
+272
+00:24:52,680 --> 00:24:54,441
+like Jim Corrigan or Floyd
+
+273
+00:24:57,558 --> 00:25:02,422
+for sure. I really liked the anthological take
+on this. While the series wasn't entirely anthological
+
+274
+00:25:02,442 --> 00:25:06,385
+because you had the Harvey Dent through line,
+a lot of these episodes were one-offs. Yeah,
+
+275
+00:25:06,405 --> 00:25:10,969
+that's one thing I really liked about the old
+90s cartoon was its anthological nature. For
+
+276
+00:25:11,009 --> 00:25:15,233
+the most part, every episode Batman would tackle
+a new villain or a new conflict that would
+
+277
+00:25:15,253 --> 00:25:19,877
+get wrapped up by the end of the episode. And
+while this series did have some overarching
+
+278
+00:25:19,977 --> 00:25:25,903
+conflicts, It was more anthological than many
+current shows. I'll always argue that long-form
+
+279
+00:25:25,943 --> 00:25:30,604
+storytelling is superior, and one of the reasons
+I love the serialized nature of comic books.
+
+280
+00:25:30,924 --> 00:25:35,106
+But there's something to be said for short,
+quick stories as well. And this show definitely
+
+281
+00:25:35,186 --> 00:25:40,147
+satisfied a nostalgic itch that I hadn't realized
+I had. I mentioned that it was kind of fun
+
+282
+00:25:40,227 --> 00:25:45,229
+looking out for obscure characters in this season.
+That said, I would have much rather seen new
+
+283
+00:25:45,249 --> 00:25:49,979
+takes on less obscure characters because...
+I feel like those are kind of easy. I was much
+
+284
+00:25:50,019 --> 00:25:56,182
+more impressed by this new take on Harley Quinn
+than I was on, say, Gentleman Ghost. I think
+
+285
+00:25:56,202 --> 00:26:00,085
+it would have been much more of a challenge
+to come up with psychological rich takes on
+
+286
+00:26:00,105 --> 00:26:05,168
+characters like Poison Ivy or Mr. Freeze. So
+I'm looking forward to seeing them in subsequent
+
+287
+00:26:05,208 --> 00:26:09,710
+seasons, if they make them, you know, along
+with the Joker, who at the end of this season
+
+288
+00:26:09,830 --> 00:26:11,912
+was teased in a man- manner, which...
+
+289
+00:26:15,614 --> 00:26:21,159
+Yes, please. Back when Batman Begins came out,
+which was a much more grounded, gritty take
+
+290
+00:26:21,259 --> 00:26:25,102
+on the character in a way that audiences weren't
+used to seeing because we were used to like
+
+291
+00:26:25,122 --> 00:26:30,547
+the Schumacher films and stuff like that. Grounding
+things in reality kind of became popular for
+
+292
+00:26:30,567 --> 00:26:36,012
+a while. The ideas were if you take the character
+and you remove the fantastical elements and
+
+293
+00:26:36,052 --> 00:26:39,815
+imagine what it would be like if this thing
+actually existed in reality, that's what they
+
+294
+00:26:39,835 --> 00:26:44,046
+did on this Caped Crusader show for the most
+part. minus the supernatural episodes with
+
+295
+00:26:44,066 --> 00:26:49,488
+the gentlemen ghost and the carnival and things
+like that. It was really cool to see those
+
+296
+00:26:49,548 --> 00:26:54,509
+ideas take shape in a more grounded, gritty
+way. Because it totally fits the world of Batman.
+
+297
+00:26:54,729 --> 00:26:58,750
+And yeah, I would love to see how they would
+approach more fantastical characters like Poison
+
+298
+00:26:58,810 --> 00:27:03,211
+Ivy, like Mr. Freeze. I think that would be
+really neat. Yeah, I really hope they do more
+
+299
+00:27:03,251 --> 00:27:07,833
+seasons of this show because that would be amazing
+to see. Now listeners of this podcast may have
+
+300
+00:27:07,853 --> 00:27:13,487
+heard me complain about Bruce Tim's figure design.
+I praised the Tomorrowverse for moving away
+
+301
+00:27:13,747 --> 00:27:18,831
+from that Bruce Tim style and showing us something
+less templated than decades past. This show
+
+302
+00:27:18,871 --> 00:27:25,195
+moves back toward that style, though it does
+mix it up a little bit more than in the past.
+
+303
+00:27:25,536 --> 00:27:31,019
+I actually didn't need chunkier versions of
+characters like Renee Montoya or Harley Quinn.
+
+304
+00:27:31,980 --> 00:27:35,943
+It literally looked like they just took the
+female character model and increased the width.
+
+305
+00:27:40,594 --> 00:27:45,858
+Yeah, in a nostalgic way. But, you know, everything
+just felt a little bit cleaner and more varied
+
+306
+00:27:46,038 --> 00:27:50,681
+and a little bit more modern, too. I would definitely
+agree that it looked cleaner. I thought it
+
+307
+00:27:50,741 --> 00:27:56,426
+actually looked a little bit older in terms
+of the design than the 90s series. Like the
+
+308
+00:27:56,906 --> 00:28:01,670
+90s series had much more streamlined buildings,
+I felt. And this one was a little bit more
+
+309
+00:28:01,770 --> 00:28:07,134
+vintage, I would say. Honestly, you know, I'm
+spoiled after Suicide Squad, Isekai. Again,
+
+310
+00:28:07,234 --> 00:28:11,856
+as we mentioned in that review, that was probably
+the best animated work out of any animated
+
+311
+00:28:11,896 --> 00:28:19,200
+DC project ever. So to go from that to this
+was like, oh, more Bruce Tim. Yay. But I've
+
+312
+00:28:19,240 --> 00:28:23,823
+mentioned characters a lot. Let's go ahead and
+move into our character breakdown, starting
+
+313
+00:28:23,903 --> 00:28:30,407
+with Batman Bruce Wayne. He was voiced by Hamish
+Linklater, known for his work on the new adventures
+
+314
+00:28:30,427 --> 00:28:37,423
+of Old Christine, Legion, Midnight Mass and
+Manhunt. Don't think the dichotomy between
+
+315
+00:28:37,463 --> 00:28:42,926
+his Bruce Wayne and Batman voice was as successful
+as Kevin Conroy. I didn't think it was terrible
+
+316
+00:28:43,026 --> 00:28:48,229
+either. His Batman voice sounded to me like
+a mixture between Kevin Conroy's authoritative
+
+317
+00:28:48,269 --> 00:28:54,193
+approach and Christian Bale's growl. He did
+a fantastic job. Now, most Batman animated
+
+318
+00:28:54,233 --> 00:29:00,637
+voice actors are largely doing a Kevin Conroy
+impression and this is no exception. I do think
+
+319
+00:29:00,817 --> 00:29:06,037
+to that end, I... prefer other animated voices
+like what Jensen Ackles did in the Tomorrowverse.
+
+320
+00:29:06,297 --> 00:29:10,941
+Yeah, I would agree. But this was entirely passable.
+I was impressed by the job that Hamish Linklater
+
+321
+00:29:10,961 --> 00:29:16,386
+was able to do. I'd say like after Conroy, he's
+my third or fourth favorite Batman voice. Yeah,
+
+322
+00:29:16,406 --> 00:29:20,709
+that sounds about right. I do think that Hamish
+Linklater would make a fantastic live-action
+
+323
+00:29:20,749 --> 00:29:25,193
+Batman, considering the guy's a pretty good
+actor. I would have much rather seen him as
+
+324
+00:29:25,253 --> 00:29:32,259
+Bruce Wayne than fucking Ian Glenn in the Titan
+series. Hahaha, yeah. It's occasionally a challenge
+
+325
+00:29:32,279 --> 00:29:37,722
+for writers to make Batman stand out against,
+arguably, literature's most intriguing and
+
+326
+00:29:37,762 --> 00:29:43,446
+colorful rogues gallery. This series definitely
+suffers on that front. I felt like Batman actually
+
+327
+00:29:43,466 --> 00:29:48,210
+got less screen time in each episode than I
+thought he would, though honestly, maybe about
+
+328
+00:29:48,250 --> 00:29:53,353
+the same amount as the 90s cartoon. I'm not
+100% on that. When he did appear though, they
+
+329
+00:29:53,373 --> 00:29:57,816
+made the most of his appearances, as stripped
+down as the character was for the show. He
+
+330
+00:29:57,856 --> 00:30:02,474
+wasn't big on martial arts, but he had a fair
+number of gadgets and it was a decent showcase
+
+331
+00:30:02,494 --> 00:30:07,136
+for his detective work. Well, I feel like they
+could have maybe take it away from some of
+
+332
+00:30:07,196 --> 00:30:13,018
+the screen time that the villains got each episode
+in order to show more of his detective work
+
+333
+00:30:13,158 --> 00:30:19,520
+processes. Absolutely, yeah, they could have
+100%. The show hints that Bruce Wayne may be
+
+334
+00:30:19,600 --> 00:30:24,381
+as insane as his villains, you know, focused
+less on justice and more on punishing criminals.
+
+335
+00:30:24,521 --> 00:30:28,839
+As evidenced, when he lied to the police as
+a kid saying he didn't see the face of the
+
+336
+00:30:28,879 --> 00:30:33,461
+man who killed his parents. Followed by him
+appearing in Alfred's room that night telling
+
+337
+00:30:33,621 --> 00:30:40,143
+him that Gotham's criminals are all going to
+suffer. I was like, dang! Get this kid a therapist.
+
+338
+00:30:41,124 --> 00:30:45,946
+Exactly. But I also liked that approach for
+the character. Like, Batman should be psychologically
+
+339
+00:30:46,006 --> 00:30:50,748
+dark and traumatized. It was actually kind of
+fascinating to me that Bruce Wayne didn't blink
+
+340
+00:30:51,028 --> 00:30:58,131
+once this entire show. Wait, what? Really? Yeah.
+Oh, creepy. Super, actually. Um, but I did
+
+341
+00:30:58,171 --> 00:31:02,053
+like how this series showed that Bruce Wayne
+is doing something to help Gotham besides punish
+
+342
+00:31:02,093 --> 00:31:06,816
+criminals though, like the new housing development
+just outside the city, you know, it kind of
+
+343
+00:31:06,916 --> 00:31:11,919
+addresses the criticism that SNL made that he
+just beats up poor people. Now he comes into
+
+344
+00:31:11,939 --> 00:31:16,702
+conflict with Alfred consistently throughout
+the show, calling him Pennyworth and talking
+
+345
+00:31:16,762 --> 00:31:22,426
+back to him like a teenager would, Bruce is
+definitely an angry person in the show. But
+
+346
+00:31:22,466 --> 00:31:26,388
+by the end of the season, he comes to realize
+how much Alfred means to him and refers to
+
+347
+00:31:26,428 --> 00:31:32,093
+him as Alfred for the first time. Speaking of
+Alfred Pennyworth, he was voiced by Jason Watkins,
+
+348
+00:31:32,173 --> 00:31:37,496
+who's a British television actor. I thought
+he did a great job acting as a demure Alfred,
+
+349
+00:31:37,837 --> 00:31:43,281
+who seems to be guilt-driven in the series into
+being less of a father figure, as he's typically
+
+350
+00:31:43,321 --> 00:31:49,665
+depicted, and more of an enabler, like he just
+can't say no to Bruce. It's a fresh take on
+
+351
+00:31:49,725 --> 00:31:55,240
+Alfred. and not one that I hated by any means,
+because I can see it making sense for the character.
+
+352
+00:31:55,520 --> 00:32:00,623
+And he was still a good man and a good example,
+ultimately, for Bruce. He was still trying
+
+353
+00:32:00,643 --> 00:32:05,506
+to be as conscious. Alfred's always the one
+trying to pull back Batman from the brink of
+
+354
+00:32:05,526 --> 00:32:11,889
+the abyss. But here, with how early Bruce Wayne
+started showing signs of psychosis, you would
+
+355
+00:32:11,929 --> 00:32:16,252
+think that Alfred should have done a better
+job of getting this kid some help. Because
+
+356
+00:32:16,432 --> 00:32:22,779
+he seemed afraid, honestly, of Bruce Wayne.
+Yeah. Right. I thought the same thing. Alright,
+
+357
+00:32:22,799 --> 00:32:27,121
+tackling Commissioner James Gordon and Barbara
+Gordon simultaneously, they were voiced by
+
+358
+00:32:27,341 --> 00:32:33,543
+Eric Morgan Stewart and Crystal Joy Brown respectively.
+Barbara Gordon was reimagined as a lawyer for
+
+359
+00:32:33,563 --> 00:32:37,885
+this series, which I thought was a brilliant
+way to keep her story tied into her father's
+
+360
+00:32:38,025 --> 00:32:43,388
+and Harvey Dent's. You know, Barbara is an idealist,
+which often brings her into conflict with Commissioner
+
+361
+00:32:43,428 --> 00:32:48,578
+Gordon, who's more of a cynic, but one still
+trying to help the city. Together, They make
+
+362
+00:32:48,598 --> 00:32:52,799
+a pretty great pair, I thought, and I can't
+wait to see how Barbara evolves into a costumed
+
+363
+00:32:52,860 --> 00:32:58,682
+crime fighter like Batman. If they decide to
+go that route. Right. Yeah, they may not. Since
+
+364
+00:32:58,722 --> 00:33:03,304
+this is still early days for Batman, he and
+Commissioner Gordon aren't allies at the start
+
+365
+00:33:03,344 --> 00:33:08,486
+of the show. But as the season progresses, Commissioner
+Gordon realizes that Batman is trying to help,
+
+366
+00:33:08,566 --> 00:33:13,489
+particularly when they worked together to save
+kids from a burning apartment building, which
+
+367
+00:33:13,549 --> 00:33:18,023
+was one of my favorite episodes in the series.
+Yeah, I thought this is one of the most organic
+
+368
+00:33:18,103 --> 00:33:23,727
+ways that I've seen them build up the Commissioner
+Gordon Batman relationship outside of like
+
+369
+00:33:23,847 --> 00:33:30,071
+Batman Year One, which was a great story. Yeah.
+But like even in the Batman movie, Commissioner
+
+370
+00:33:30,111 --> 00:33:35,155
+Gordon and Batman are already copacetic from
+the get go, right? Right. It's nice to have
+
+371
+00:33:35,195 --> 00:33:39,918
+this long running narrative where you see that
+relationship of trust slowly develop. I thought
+
+372
+00:33:39,938 --> 00:33:43,500
+it was really well done here. Yeah, I would
+say it was better done here than it was in,
+
+373
+00:33:43,721 --> 00:33:48,554
+you know, even Batman Begins. much more organic,
+like you said. Moving on to the last character
+
+374
+00:33:48,574 --> 00:33:53,776
+I'm going to go over, Renee Montoya. She was
+voiced by Michelle C. Bonilla. She does a lot
+
+375
+00:33:53,876 --> 00:33:58,317
+of the heavy lifting when it comes to detective
+work for the GCPD. I actually really liked
+
+376
+00:33:58,357 --> 00:34:02,678
+how good of a detective she was shown to be,
+you know, just by asking the right questions.
+
+377
+00:34:03,198 --> 00:34:07,480
+She proves herself more and more as the season
+progresses, confirming the trust that Commissioner
+
+378
+00:34:07,500 --> 00:34:12,221
+Gordon put on her to be a leader within the
+corrupt police department. I actually thought
+
+379
+00:34:12,361 --> 00:34:16,611
+that by introducing her in the Clayface episode,
+that they were going to lead her into using
+
+380
+00:34:16,691 --> 00:34:21,515
+some of the makeup putty to begin her like faceless
+career as the question, but that ended up not
+
+381
+00:34:21,575 --> 00:34:25,017
+being the case. That would have been cool though.
+That would have been really cool.
+
+382
+00:34:32,262 --> 00:34:38,324
+fantasies collide and heroes clash, one podcast
+network rises above the rest. Prepare yourself
+
+383
+00:34:38,524 --> 00:34:44,647
+for the ultimate showdowns in comic books, video
+games, movies, and anime. The Dynomic Podcast
+
+384
+00:34:44,687 --> 00:34:51,858
+Network presents Console Combat, where video
+game legends brawl every Monday. Comic Book
+
+385
+00:34:51,898 --> 00:34:58,061
+Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+386
+00:34:58,621 --> 00:35:04,544
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+387
+00:35:04,564 --> 00:35:10,267
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+388
+00:35:10,807 --> 00:35:15,069
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+389
+00:35:19,438 --> 00:35:25,661
+Moving on to the story highlights, episode 1
+was titled In Treacherous Waters. Oswalda Cobblepot,
+
+390
+00:35:25,801 --> 00:35:30,424
+owner and singer of the Iceberg Lounge, has
+been making a name for herself in Gotham City's
+
+391
+00:35:30,464 --> 00:35:35,146
+criminal underworld as the Penguin while trying
+to eliminate her mob boss rival Rupert Thorne
+
+392
+00:35:35,486 --> 00:35:40,409
+by destroying his organization's warehouses.
+However, Thorne survives with help from a leak
+
+393
+00:35:40,449 --> 00:35:45,832
+in her circle. Believing it is her youngest
+son, Eren, Oswalda kills him. However, her
+
+394
+00:35:45,932 --> 00:35:51,395
+eldest son, and the real source, Ronald, seeks
+out Gotham City's police department, Commissioner
+
+395
+00:35:51,455 --> 00:35:56,238
+James Gordon, for protection. With help from
+Jim's daughter Barbara Gordon and a mysterious
+
+396
+00:35:56,278 --> 00:36:02,781
+vigilante called the Batman, Ronald safely reaches
+the GCPD, but Aswalda launches a missile to
+
+397
+00:36:02,821 --> 00:36:08,905
+destroy the police station. Unbeknownst to her,
+the station is evacuated before it is destroyed.
+
+398
+00:36:09,325 --> 00:36:14,828
+Batman successfully captures Aswalda, but realizes
+later that in doing so, he left a power vacuum
+
+399
+00:36:14,868 --> 00:36:19,706
+in Gotham's underworld for Thorne to fill. This
+was a great setup to the series, you know,
+
+400
+00:36:19,726 --> 00:36:24,729
+with the whole power vacuum angle and the destruction
+of the GCPD headquarters. I mean, it wasn't
+
+401
+00:36:24,849 --> 00:36:30,271
+too much of a issue in such like episodes, but
+I thought that it was a really good setup.
+
+402
+00:36:30,651 --> 00:36:34,833
+For sure. Yeah, I thought this was a great episode,
+a great introduction to Batman when we first
+
+403
+00:36:34,853 --> 00:36:39,335
+see him interrogating that guy over the train
+tracks. Oh, yeah. I thought it was a perfect
+
+404
+00:36:39,355 --> 00:36:46,070
+Batman moment, honestly. And I thought to myself,
+is 1940s Batman peak Batman? when he's able
+
+405
+00:36:46,110 --> 00:36:52,334
+to operate freely in this very pulpy style?
+Uh, you know, honestly, in my opinion, and
+
+406
+00:36:52,354 --> 00:36:58,799
+this may be a controversial opinion, 1940s Batman,
+Superman, Wonder Woman, that's all peak those
+
+407
+00:36:58,839 --> 00:37:04,723
+characters. Really? Explain. I feel like those
+are like the truest essence of those characters.
+
+408
+00:37:05,143 --> 00:37:10,427
+They kind of get muddled down by continuity
+and stuff in later decades. But if you go back
+
+409
+00:37:10,467 --> 00:37:15,411
+to like the spirit of the characters as they
+were first conceived, I think that is the best
+
+410
+00:37:15,511 --> 00:37:20,015
+version of them. I think you could say that
+for a lot of characters actually, even over
+
+411
+00:37:20,035 --> 00:37:26,020
+at Marvel. As the years go on and the characters
+evolve over time, I think the expectation from
+
+412
+00:37:26,060 --> 00:37:31,485
+a lot of fans is that they always still revert
+to their roots. And it's always nice when characters
+
+413
+00:37:31,505 --> 00:37:37,530
+are brought back to what made them who they
+are. Yeah, I mean, DC characters are so pure
+
+414
+00:37:37,810 --> 00:37:43,855
+in, you know, there's symbolism and their archetype
+that Things don't really make sense in a postmodern
+
+415
+00:37:43,915 --> 00:37:49,458
+world. These characters come from a different
+era. And so you see comics like Watchmen kind
+
+416
+00:37:49,498 --> 00:37:56,122
+of making fun of the very notion of the superhero.
+But back then, it made sense. The next episode
+
+417
+00:37:56,142 --> 00:38:02,026
+was titled, And Be a Villain. GCPD detective
+Renee Montoya is assigned to locate missing
+
+418
+00:38:02,146 --> 00:38:08,049
+actress Yvonne Francis. Following a failed interrogation
+of Bruce Wayne, she investigates the film studio.
+
+419
+00:38:08,470 --> 00:38:13,892
+where she learns Francis's fellow actor Basil
+Carlo may have been lying about his alibi.
+
+420
+00:38:14,292 --> 00:38:19,254
+However, he is seemingly murdered before she
+can confirm. Upon further investigation, she
+
+421
+00:38:19,294 --> 00:38:24,676
+learns Carlo was ashamed of his face, which
+led him to be typecasted and Francis rejecting
+
+422
+00:38:24,716 --> 00:38:31,159
+his advances. Ultimately, he used an experimental
+serum to make his face more malleable. Montoya
+
+423
+00:38:31,199 --> 00:38:36,001
+and Batman eventually stumble across Carlo,
+who faked his death and kidnapped Francis out
+
+424
+00:38:36,041 --> 00:38:41,332
+of a desire to play a villain for real. Montoya
+rescues Francis while Batman defeats Carlo
+
+425
+00:38:41,732 --> 00:38:47,076
+and disappears before Montoya can apprehend
+him. Such a fantastic take on the character
+
+426
+00:38:47,116 --> 00:38:51,038
+of Clayface. I feel like, you know, Clayface
+in recent years has really had an opportunity
+
+427
+00:38:51,078 --> 00:38:57,363
+to shine in shows like Harley Quinn or Suicide
+Squad Isekai. But this is probably hands down
+
+428
+00:38:57,403 --> 00:39:03,727
+my favorite version of the character. Taking
+like a Boris Karloff approach to Basil Carlo
+
+429
+00:39:03,747 --> 00:39:10,022
+Clayface was pure genius. Well, that's really
+in keeping with his original story in the comic
+
+430
+00:39:10,042 --> 00:39:16,504
+books, right? Very true. In the comics, Clayface
+wasn't like this huge turd monster. He was
+
+431
+00:39:16,544 --> 00:39:20,746
+actually just a serial killer who disguised
+his face. This version of the character, I
+
+432
+00:39:20,766 --> 00:39:24,727
+think, was the best of both worlds, though.
+For sure. It is weird, though, seeing this
+
+433
+00:39:24,767 --> 00:39:30,148
+version of Clayface coming off of the back of
+Suicide Squad Isakai. Yeah. Who was a very,
+
+434
+00:39:30,528 --> 00:39:35,686
+very different version of Clayface. Well, from
+any media, to be fair. It's just interesting,
+
+435
+00:39:35,766 --> 00:39:40,328
+I guess, how adaptable the character can be,
+which I guess is not so surprising because
+
+436
+00:39:40,388 --> 00:39:46,210
+he is clayface. He is adaptable, if anything.
+Episode 3 was titled, Kiss of the Catwoman.
+
+437
+00:39:46,630 --> 00:39:51,793
+At a museum displaying Gotham's elite jewels,
+Bruce encounters an heiress named Selena Kyle,
+
+438
+00:39:52,133 --> 00:39:57,175
+who has an interest in his late mother Martha
+Wayne's pearls. He is later ordered to attend
+
+439
+00:39:57,255 --> 00:40:01,977
+a month of therapy with Dr. Harleen Quinzel
+after assaulting a patron who insulted his
+
+440
+00:40:02,017 --> 00:40:08,778
+parents. Kyle resorts to jewel theft after being
+left in debt, adopting the Catwoman persona.
+
+441
+00:40:09,278 --> 00:40:13,842
+After being caught and outed by Batman, she
+takes inspiration from him by upgrading her
+
+442
+00:40:13,882 --> 00:40:19,266
+car and using gadgets before Gotham's District
+Attorney Harvey Dent bails her out, allowing
+
+443
+00:40:19,306 --> 00:40:24,791
+her to resume her crime spree. Deducing Kyle
+will try and steal Martha's pearls, Bruce orders
+
+444
+00:40:24,831 --> 00:40:30,175
+the museum to close early to luring Catwoman,
+who is eventually caught once more and left
+
+445
+00:40:30,215 --> 00:40:35,624
+destitute upon learning her maid Greta. sold
+her belongings and refuses to bail her out.
+
+446
+00:40:35,945 --> 00:40:41,730
+I loved Greta. I loved the idea of Catwoman
+having a butler like Alfred who's, you know,
+
+447
+00:40:41,830 --> 00:40:47,596
+kind of petty. That was great. This was a fantastic
+episode. I really liked Christina Ricci's performance
+
+448
+00:40:47,656 --> 00:40:51,980
+as Catwoman as well. The character design was
+very much in keeping with her first appearance
+
+449
+00:40:52,080 --> 00:40:56,723
+in the comics and While there wasn't like enough
+romantic tension, I think, between the two,
+
+450
+00:40:56,883 --> 00:41:00,845
+I still really liked the moments that they shared
+together. Now, it was actually the first appearance
+
+451
+00:41:00,865 --> 00:41:05,927
+because the first appearance of Catwoman wore
+an actual like cat's furry face, but it was
+
+452
+00:41:05,947 --> 00:41:11,270
+definitely inspired by early versions of the
+character. It's not a design that I love, but
+
+453
+00:41:11,590 --> 00:41:16,312
+it works within this world. Right. Like it doesn't
+make sense for her to wear high heels and a
+
+454
+00:41:16,372 --> 00:41:22,559
+dress. Right. Or a cape. That's bizarre. I did
+like that she was very heavily inspired by
+
+455
+00:41:22,639 --> 00:41:27,582
+Batman though. It was a great version of the
+character. Episode 4 was titled The Night of
+
+456
+00:41:27,622 --> 00:41:33,325
+the Hunters. After Mayor Jessup orders the creation
+of a task force to apprehend Batman, Gordon
+
+457
+00:41:33,365 --> 00:41:39,888
+chooses Montoya to run it. Using Dr. Quinzel's
+insights, corrupt GCPD detectives Harvey Bullock
+
+458
+00:41:39,908 --> 00:41:46,172
+and Arnold Flass use a masked criminal called
+Firebug as bait to lure out Batman. As part
+
+459
+00:41:46,212 --> 00:41:51,554
+of their plan, they let Firebug go to start
+a fire. Batman arrives to rescue civilians,
+
+460
+00:41:51,714 --> 00:41:56,716
+evading corrupt SWAT officers led by Bullock
+and Flass in the process. As Bullock and Flass
+
+461
+00:41:56,756 --> 00:42:03,077
+kill Firebug to cover their tracks, Batman reluctantly
+works with Jim, who disapproves of the task
+
+462
+00:42:03,097 --> 00:42:09,019
+force's methods to save the remaining civilians.
+Afterward, Batman disappears once more. Bullock
+
+463
+00:42:09,039 --> 00:42:13,900
+and Flass are hailed as heroes by Jessup and
+put in charge of the Batman task force with
+
+464
+00:42:13,940 --> 00:42:20,407
+Jim narrowly keeping his job. I loved this episode.
+I thought it was a fantastic episode showing
+
+465
+00:42:20,447 --> 00:42:27,012
+the corruption of the GCPD, which isn't explored
+enough in a lot of media, I feel like, but
+
+466
+00:42:27,132 --> 00:42:31,995
+this show handled it perfectly. Oh yeah. Flash
+and Bullock were probably bigger bastards in
+
+467
+00:42:32,035 --> 00:42:36,498
+this show than they've been in anything else
+I've ever seen them in. Yeah, they were big
+
+468
+00:42:36,538 --> 00:42:41,181
+time jerks here. It was surprising to me how
+much this show could get away with. People
+
+469
+00:42:41,221 --> 00:42:45,644
+were actually shot, killed and stuff like that.
+You couldn't get away with stuff like that
+
+470
+00:42:45,824 --> 00:42:51,709
+in the 90s on television. But here it totally
+worked. It's much more mature. And I thought
+
+471
+00:42:51,849 --> 00:42:56,253
+that made it a lot more interesting. Well, I
+realized that from the first episode when Oswaldo
+
+472
+00:42:56,293 --> 00:43:01,057
+killed one of her sons and then like you saw
+his body as a skeleton coming out of the trunk
+
+473
+00:43:01,077 --> 00:43:05,942
+later. That's right. Like this is pulpy as hell.
+And I'm here for it. Oh, totally. We've been
+
+474
+00:43:05,962 --> 00:43:11,447
+going to episode five. It was titled The Stress
+of Her Regard. After several wealthy businessmen
+
+475
+00:43:11,527 --> 00:43:16,606
+abruptly donate their fortunes to charity and
+go missing. Barbara suspects their physician
+
+476
+00:43:16,726 --> 00:43:22,328
+and her friend, Dr. Quinzel, is involved. In
+reality, Quinzel has adopted the jester-like
+
+477
+00:43:22,368 --> 00:43:27,429
+persona of Harley Quinn and is subjugating the
+businessman to immense torture in an attempt
+
+478
+00:43:27,469 --> 00:43:31,930
+to correct their minds and behavior. Barbara
+and Batman track her to the basement of one
+
+479
+00:43:31,950 --> 00:43:36,451
+of her patients, where the latter is overpowered
+and knocked unconscious before the house is
+
+480
+00:43:36,551 --> 00:43:41,693
+rigged to detonate. Nonetheless, Batman recovers
+and saves Barbara, though he fails to save
+
+481
+00:43:41,733 --> 00:43:47,254
+Quinzel from falling to her apparent death.
+Having survived, however, Quinzel calls Montoya
+
+482
+00:43:47,534 --> 00:43:52,076
+to call off a date they had planned and tell
+her that she is temporarily leaving Gotham.
+
+483
+00:43:52,476 --> 00:43:58,178
+Now, initially I was rejecting this take on
+Harley Quinn. Like, I somewhat liked the idea
+
+484
+00:43:58,538 --> 00:44:05,099
+that she was the resident psychiatrist for the
+city as opposed to a doctor at Arkham Asylum.
+
+485
+00:44:05,280 --> 00:44:11,121
+But I didn't like the idea of Harley Quinn not
+having the Joker. But by this episode, I was
+
+486
+00:44:11,141 --> 00:44:17,129
+sold on the idea. The idea that the psychiatrist
+was going beyond helping people who were coming
+
+487
+00:44:17,149 --> 00:44:22,493
+to her and torturing them was amazing. It was
+brilliant, I thought. And the fact that she
+
+488
+00:44:22,533 --> 00:44:27,177
+kind of justified it and that they felt like
+they were kings and that she was bringing them
+
+489
+00:44:27,237 --> 00:44:32,641
+down as the Jester, making them see the error
+of their ways was pretty damn good. It was
+
+490
+00:44:32,761 --> 00:44:37,424
+solid as hell. As a concept, if you were ever
+going to do Harley Quinn without the Joker,
+
+491
+00:44:37,845 --> 00:44:42,959
+this is exactly how you do it. This is how you
+get her motivations, her modus operandi. Everything
+
+492
+00:44:42,999 --> 00:44:47,401
+about it was so interesting. We've seen lots
+of different versions of Harley Quinn by this
+
+493
+00:44:47,441 --> 00:44:52,563
+point. But this version is something that I
+think even Kelly Kuoku's Harley Quinn could
+
+494
+00:44:52,583 --> 00:44:58,366
+take notes from. Yeah. Because there's a lot
+to unpack here. And they only just scratch
+
+495
+00:44:58,386 --> 00:45:03,028
+the surface of what this Harley Quinn could
+be in this show. I did hate the fact that Batman
+
+496
+00:45:03,048 --> 00:45:08,318
+was essentially taken out by a dude in a diaper
+in this series. I was like, no way. That's
+
+497
+00:45:08,358 --> 00:45:13,682
+not going to happen. That's dumb. But for the
+most part, I really liked this episode. The
+
+498
+00:45:13,882 --> 00:45:19,286
+Lesbian Kiss kind of took me back, given the
+1940s setting, 1950s setting, because it was
+
+499
+00:45:19,346 --> 00:45:24,491
+done out in public. Right. That was just something
+I was like, OK, so apparently this Elseworld
+
+500
+00:45:24,531 --> 00:45:29,234
+story was just a much more progressive reality
+for the time. It was one of the things that
+
+501
+00:45:29,274 --> 00:45:33,650
+I think stood out in terms of all the progressive
+changes that they made for the show. Yeah,
+
+502
+00:45:33,690 --> 00:45:37,171
+clearly. And again, something you definitely
+couldn't get away with on Saturday mornings,
+
+503
+00:45:37,291 --> 00:45:43,074
+kids television when we were growing up. Right.
+Episode 6 was titled Night Ride. When a mysterious
+
+504
+00:45:43,154 --> 00:45:48,757
+ghost on horseback emerges to rob Gotham's working
+class, Dent's mayoral election campaign is
+
+505
+00:45:48,797 --> 00:45:54,399
+threatened due to the robberies happening on
+his watch. He is offered a donation from Thorne,
+
+506
+00:45:54,499 --> 00:46:00,238
+but is hesitant to accept it. Meanwhile, Batman
+struggles to fight the ghost directly. Deducing
+
+507
+00:46:00,278 --> 00:46:05,721
+that it is the spirit of Jim Craddock, the gambling
+addicted former owner of an old property that
+
+508
+00:46:05,741 --> 00:46:11,405
+Bruce's friend Lucius Fox recently bought, he
+gains help from Linton Midnight, Papa Midnight,
+
+509
+00:46:11,745 --> 00:46:17,128
+who advises him to sacrifice the old property's
+deed and the blood of a nobleman to draw out
+
+510
+00:46:17,168 --> 00:46:22,231
+Craddock. Though Craddock possesses Batman's
+butler, Alfred Pennyworth, Batman completes
+
+511
+00:46:22,251 --> 00:46:28,178
+the ritual using Alfred's blood and traps Craddock
+in a vial. He subsequently gives it to Midnight
+
+512
+00:46:28,278 --> 00:46:33,140
+while Dent accepts Thorne's donation. It was
+really cool to see Papa Midnight in this episode.
+
+513
+00:46:33,220 --> 00:46:37,382
+There are any number of magicians that could
+have been included in the show, and Papa Midnight
+
+514
+00:46:37,462 --> 00:46:41,024
+would not have been near the top of my list
+of who would have shown up. But I thought it
+
+515
+00:46:41,044 --> 00:46:46,746
+was really cool that he did. Yeah, in the 90s
+cartoon, we saw Jason Blood appear in the Batman
+
+516
+00:46:46,786 --> 00:46:52,128
+series. And I think it was Dr. Fate who appeared
+in the Superman series. I thought it was going
+
+517
+00:46:52,148 --> 00:46:56,926
+to be one of those. I was definitely surprised
+by Papa Midnight. but it was also really cool
+
+518
+00:46:57,307 --> 00:47:03,011
+to see such an obscure character make an appearance
+in the show. Moving on to episode 7, titled
+
+519
+00:47:03,071 --> 00:47:08,034
+Moving Target. Jim fears that someone put a
+bounty on his head after assassins such as
+
+520
+00:47:08,094 --> 00:47:13,158
+Floyd Lawton and Anomatopeia come to Gotham,
+and the former almost succeeds at killing him.
+
+521
+00:47:13,538 --> 00:47:18,441
+He reluctantly agrees to be escorted to a safe
+house at Wayne Gardens, but Anomatopeia's group
+
+522
+00:47:18,482 --> 00:47:23,365
+finds them. Meanwhile, Batman learns the hit
+was placed by a Blackgate penitentiary inmate
+
+523
+00:47:23,385 --> 00:47:28,779
+named Muller, and follows Jim's detail. Narrowly
+fending off the assassins, Berman reveals to
+
+524
+00:47:28,819 --> 00:47:34,561
+Jim while getting the contract canceled, he
+discovered Barbara is the true target. Officer
+
+525
+00:47:34,621 --> 00:47:40,082
+Jim Corrigan attempts to claim the bounty for
+himself, but is disarmed by Jim and arrested.
+
+526
+00:47:40,502 --> 00:47:45,744
+Mueller later reveals he ordered the hit because
+he feels he deserves better prison accommodations.
+
+527
+00:47:46,004 --> 00:47:51,382
+This was a fantastic episode, another one of
+my favorite episodes, very focused on- Jim
+
+528
+00:47:51,422 --> 00:47:56,386
+Gordon and Barbara Gordon and their relationship,
+which I thought was great. I didn't love on
+
+529
+00:47:56,406 --> 00:48:01,791
+a monopoeia here. He doesn't make sense to me
+as like a gang leader. He wouldn't be able
+
+530
+00:48:01,811 --> 00:48:06,896
+to order anybody around. They would just see
+him as a joke. Exactly. His voice didn't work
+
+531
+00:48:06,916 --> 00:48:11,540
+for me, too. Like it was too raspy and stuff
+like that. Like whenever I read on a monopoeia
+
+532
+00:48:11,560 --> 00:48:16,665
+his voice in the books, I always thought of
+it as more like a Hannibal Lecter type voice.
+
+533
+00:48:17,185 --> 00:48:21,075
+Yeah. something like James Spader's Ultron or
+something like that. But here he sounded like
+
+534
+00:48:21,135 --> 00:48:25,677
+Bender from Futurama or something like that.
+It just did not work. I did think it was cool
+
+535
+00:48:25,697 --> 00:48:30,999
+that they had Jim Corrigan on the GCPD. I was
+not expecting him. I actually thought he was
+
+536
+00:48:31,019 --> 00:48:35,561
+going to die at the very end of this episode
+and somehow be reborn as the specter or something
+
+537
+00:48:35,601 --> 00:48:40,604
+like that. That didn't happen. But you know,
+they're setting him up for something like that.
+
+538
+00:48:41,044 --> 00:48:46,726
+Yeah. But what a guy who double crossed his
+own partner B1 that is. qualified to be God's
+
+539
+00:48:46,746 --> 00:48:50,967
+divine wrath? Well, this isn't keeping with
+the character from the comics. Like, Jim Corrigan
+
+540
+00:48:50,987 --> 00:48:56,689
+was an asshole in the comics. Really? Oh, okay.
+Yeah. Okay. Moving on to episode 8, titled
+
+541
+00:48:56,849 --> 00:49:02,510
+Nocturne. Amidst a fundraiser carnival for Dent's
+campaign, multiple orphans are reported missing.
+
+542
+00:49:02,871 --> 00:49:07,592
+Batman soon finds the culprit, Natalia Knight,
+the younger sister of inventor Anton Knight,
+
+543
+00:49:08,012 --> 00:49:12,553
+who suffers from a mysterious ailment that can
+only be staved off by draining energy from
+
+544
+00:49:12,613 --> 00:49:17,628
+people. which grants her enhanced strength.
+After falling out with and attacking Anton
+
+545
+00:49:17,648 --> 00:49:22,551
+for his perceived controlling behavior, Natalia
+continues her attacks until she is intercepted
+
+546
+00:49:22,631 --> 00:49:28,454
+by Batman. After making her realize she accidentally
+killed Anton, who begged Batman to stop her
+
+547
+00:49:28,494 --> 00:49:33,557
+before he died, Batman takes Natalia to safety
+while her victims are taken to a hospital to
+
+548
+00:49:33,597 --> 00:49:38,660
+recover. Meanwhile, Dent meets with Thorne to
+accept his donation, but refuses to accept
+
+549
+00:49:38,720 --> 00:49:45,624
+his condition of dropping charges against Thorne's
+friend. retaliation, Thorin II throws a flask
+
+550
+00:49:45,664 --> 00:49:52,970
+of acid at Dent's face. This is actually probably
+my least favorite episode. Really? Yeah, I
+
+551
+00:49:53,010 --> 00:49:57,654
+felt like the whole thing kind of drug on. I
+didn't really care for the characters of Natalia
+
+552
+00:49:57,674 --> 00:50:02,498
+and Anton Knight. They're known as the Knight
+Slayer and Nocturna in the comics. But I think
+
+553
+00:50:02,879 --> 00:50:08,623
+I was most offended in this episode by how they
+treated the Robins. I was kind of hoping for
+
+554
+00:50:08,663 --> 00:50:15,639
+a setup of Robin in this series. And I think
+this is a poor setup. Well, it seems like it's
+
+555
+00:50:15,719 --> 00:50:20,421
+never going to happen, right? Right. We're never
+going to get a Robin in this series. When one
+
+556
+00:50:20,441 --> 00:50:24,223
+of the boys referred to the other one as Dickie,
+I was like, oh, maybe this is Dick Grayson.
+
+557
+00:50:24,643 --> 00:50:29,065
+I actually thought that maybe that was just
+a coincidence when I saw that Dick was captured
+
+558
+00:50:29,185 --> 00:50:33,847
+and nearly drained of his life. But then it
+wasn't until they mentioned Steffi Brown that
+
+559
+00:50:33,887 --> 00:50:38,549
+I realized what they were doing with the orphans.
+Oh, you didn't get it when you heard Jace for
+
+560
+00:50:38,609 --> 00:50:43,400
+Jason? No, not even then. And then of course
+they had Kelly at the end with the slingshot.
+
+561
+00:50:43,420 --> 00:50:48,244
+Right. That was obvious. Yeah, for sure. It
+was like a nice elseworlds homage. But yeah,
+
+562
+00:50:48,584 --> 00:50:54,389
+it is disappointing that because of this seemingly
+clever nod to the comics that will actually
+
+563
+00:50:54,429 --> 00:50:59,173
+never get a Robin for this series. Yeah, it's
+like either he's going to have five Robins
+
+564
+00:50:59,233 --> 00:51:04,837
+at once or I imagine none at all. Did not like
+it. I was surprised we didn't get like Tim
+
+565
+00:51:05,178 --> 00:51:10,194
+or Damien. I guess Damien would it make sense.
+But at least Tim. Actually, Damien. could make
+
+566
+00:51:10,234 --> 00:51:15,316
+sense if they introduce Russell Gould and Talia
+in a subsequent season. And they just have
+
+567
+00:51:15,376 --> 00:51:20,778
+Damian be his first Robin. Yeah, I guess they
+could go with that. Moving on to episode 9,
+
+568
+00:51:20,859 --> 00:51:26,221
+The Killer Inside Me. In the aftermath of his
+assault, Dent loses his mayoral bid and is
+
+569
+00:51:26,281 --> 00:51:31,503
+left with half of his face permanently scarred,
+which he grows insecure about. Bruce attempts
+
+570
+00:51:31,523 --> 00:51:36,125
+to cheer him up with a night on the town, but
+a paranoid Dent has an outburst in a restaurant.
+
+571
+00:51:36,746 --> 00:51:41,488
+Alfred scolds Bruce for his poor attempt at
+getting through to him. Craving justice against
+
+572
+00:51:41,568 --> 00:51:46,411
+those who wronged him, Dent goes on a violent
+spree throughout Gotham, taking out several
+
+573
+00:51:46,471 --> 00:51:52,295
+of Thorne's men, though Batman intervenes before
+he can hurt Thorne himself. Guilt-ridden, Dent
+
+574
+00:51:52,375 --> 00:51:57,258
+snaps out of his rage and willingly goes to
+Arkham Asylum, where he discovers Barbara signed
+
+575
+00:51:57,318 --> 00:52:02,821
+on to become his lawyer. I liked what they did
+with Harvey Dent for the most part throughout
+
+576
+00:52:02,881 --> 00:52:09,851
+this season. I did think that his descent into
+madness was a little out of nowhere though.
+
+577
+00:52:10,231 --> 00:52:14,872
+Like the voices in his head, they just seem
+to come along with the scarring of his face.
+
+578
+00:52:15,152 --> 00:52:19,274
+Well, isn't that true to the story of the character?
+Like he doesn't begin his descent into madness
+
+579
+00:52:19,334 --> 00:52:25,375
+until he's actually scarred. No, he essentially
+repressed a alternate personality as he was
+
+580
+00:52:25,475 --> 00:52:30,437
+growing up, becoming a lawyer. Like in this
+show, he didn't really even depend on his old
+
+581
+00:52:30,497 --> 00:52:36,335
+coin in the same way that he has in prior depictions.
+I don't know, it was just weird. I loved Diedrich
+
+582
+00:52:36,395 --> 00:52:41,978
+Bader as the voice of Harvey Dent. I thought
+he sounded completely different from when he
+
+583
+00:52:42,058 --> 00:52:48,202
+voices Batman in shows like Harley Quinn. But
+to me, this version of Harvey Dent is not as
+
+584
+00:52:48,242 --> 00:52:54,146
+good as other depictions that we've seen in
+animated films like The Long Halloween or his
+
+585
+00:52:54,186 --> 00:52:59,489
+live action appearance in The Dark Knight. He
+was just too smarmy as Harvey Dent. He wasn't
+
+586
+00:52:59,529 --> 00:53:04,352
+the shining white knight. that he's typically
+depicted as prior to becoming Two-Face. I guess
+
+587
+00:53:04,372 --> 00:53:10,017
+that makes sense. I thought it was really interesting
+how Bruce was essentially responsible for his
+
+588
+00:53:10,057 --> 00:53:16,662
+descent into madness by forgetting to focus
+on the victim and having empathy for him. He
+
+589
+00:53:16,702 --> 00:53:21,106
+had no empathy. He was just trying to get at
+the people who did it and in effect caused
+
+590
+00:53:21,146 --> 00:53:26,430
+Harvey Dent to go on this crazy rampage. I didn't
+really get that. I didn't understand how taking
+
+591
+00:53:26,470 --> 00:53:32,523
+him out to dinner caused him to have his episode.
+Bruce didn't know that was going to happen.
+
+592
+00:53:32,563 --> 00:53:38,007
+I'm sure he had ulterior motives in doing that,
+but I also felt like it's also something a
+
+593
+00:53:38,207 --> 00:53:43,630
+good friend might try doing. And I think Harvey
+even later on said that he understood what
+
+594
+00:53:43,671 --> 00:53:47,954
+Bruce was trying to do while both of them were
+talking in Arkham Asylum. Which brings me to
+
+595
+00:53:47,994 --> 00:53:52,777
+the final episode titled Savage Night. Barbara
+explains to Dent that she is willing to help
+
+596
+00:53:52,817 --> 00:53:58,761
+him, insisting that he was led astray. Meanwhile,
+Thorn's men, Bullock and Flass, seek revenge
+
+597
+00:53:58,781 --> 00:54:03,803
+on Dent. prompting Barbara and Batman to establish
+a form of contact between each other and join
+
+598
+00:54:03,843 --> 00:54:09,644
+forces with each other, Jim and Montoya to protect
+him so he can testify in court. Amidst a fight
+
+599
+00:54:09,684 --> 00:54:15,346
+at the docks, however, Dent sacrifices himself
+to save Barbara from Flass. Batman loses his
+
+600
+00:54:15,386 --> 00:54:20,908
+temper and threatens to shoot Flass, but ultimately
+spares him. Following this, Alfred assures
+
+601
+00:54:20,968 --> 00:54:27,878
+Batman that while he failed to reach Dent's
+humanity, Batman still has his. A mysterious
+
+602
+00:54:27,938 --> 00:54:33,341
+man kills a series of victims with a toxin that
+makes them laugh uncontrollably. Great final
+
+603
+00:54:33,361 --> 00:54:38,724
+episode. I really liked the pacing of it. It's
+mostly a chase scene between the good guys
+
+604
+00:54:38,744 --> 00:54:43,907
+and the bad guys. Yeah, yeah. The finale at
+the docks was really well done and even surprising
+
+605
+00:54:43,947 --> 00:54:48,950
+at the very end when Batman holds a gun up to
+flash and shoots around his head. Although
+
+606
+00:54:49,590 --> 00:54:54,893
+100% doing permanent ear damage as well, I'm
+pretty sure. That's fine. He doesn't have a
+
+607
+00:54:54,953 --> 00:55:00,340
+problem with that. No, he doesn't. In fact,
+if anything, it was showed that Batman was
+
+608
+00:55:00,360 --> 00:55:05,483
+such a badass with a gun and he has still refused
+to do it out of hatred for the weapon. I thought
+
+609
+00:55:05,503 --> 00:55:09,965
+that was an interesting insight to his character
+actually that he took the time to understand
+
+610
+00:55:10,045 --> 00:55:14,047
+this weapon that he despises. Yeah, that was
+interesting. I always kind of assumed that
+
+611
+00:55:14,087 --> 00:55:18,250
+Batman really didn't even know how to use a
+gun. You know, he just hated them so much.
+
+612
+00:55:18,370 --> 00:55:24,253
+So yeah, again, this was pretty shocking. Even
+more shocking than that was actually Harvey
+
+613
+00:55:24,273 --> 00:55:30,339
+Dent's death. in this season, in this series,
+sacrificing himself to save Barbara. The whole
+
+614
+00:55:30,479 --> 00:55:36,021
+is he good, is he bad approach to Harvey Dent
+in this season was really well done. I thought
+
+615
+00:55:36,061 --> 00:55:39,902
+because, you know, the last episode, we saw
+him essentially go on a murder spree. But in
+
+616
+00:55:39,942 --> 00:55:45,483
+this episode, to see him sacrifice himself for
+Barbara Gordon, I thought was extremely heroic
+
+617
+00:55:45,823 --> 00:55:49,905
+and definitely redeeming for the character.
+Like you were sad to see him go. Do you think
+
+618
+00:55:49,965 --> 00:55:54,366
+they have shot themselves in the foot in terms
+of the potential? two-faced stories they could
+
+619
+00:55:54,386 --> 00:56:00,749
+have told in the future? Potentially, but outside
+of the fall of Harvey Dent, there's not too
+
+620
+00:56:00,769 --> 00:56:06,131
+many great two-faced stories that you could
+tell, so maybe it's for the best. Maybe use
+
+621
+00:56:06,171 --> 00:56:11,873
+this as a way to fuel and motivate Batman going
+forward, the fact that he remembers his friend
+
+622
+00:56:11,913 --> 00:56:17,536
+Harvey Dent. But that does it for season one
+of Batman the Caped Crusader. Overall, I thought
+
+623
+00:56:17,556 --> 00:56:23,602
+it was a mature and intriguing reimagining of
+the 90s animated series. featuring new and
+
+624
+00:56:23,662 --> 00:56:29,786
+modern interpretations of classic characters
+within a retro noir framework. Not every interpretation
+
+625
+00:56:29,906 --> 00:56:34,228
+is successful and it would have been nice to
+see Batman a little bit more than we did. But
+
+626
+00:56:34,328 --> 00:56:38,390
+overall, I definitely recommend the series,
+especially for the people who are behind it.
+
+627
+00:56:38,891 --> 00:56:45,834
+I'm giving it 4 out of 5 stars, a fresh rating
+on Rotten Tomatoes. I would agree. I think
+
+628
+00:56:45,874 --> 00:56:51,842
+the setup and the premise of the series is better
+than the execution for the most part. Don't
+
+629
+00:56:51,862 --> 00:56:55,543
+get me wrong, it was a really good show. It
+was enjoyable and I would recommend it to any
+
+630
+00:56:55,583 --> 00:57:01,666
+fan of Batman and any fan of Batman the animated
+series. But it does feel like for some episodes,
+
+631
+00:57:01,986 --> 00:57:06,027
+they squandered their potential. Even though
+I had a really good time with the series and
+
+632
+00:57:06,067 --> 00:57:10,089
+I'm really looking forward to where they take
+it in the future. Oh, yeah, absolutely. I'm
+
+633
+00:57:10,109 --> 00:57:13,710
+not sure if they're doing a season two, but
+I really hope they are. I would love to see
+
+634
+00:57:13,750 --> 00:57:20,433
+it. But that does it for this review. AJ 9K,
+help close this out. Thanks for listening to
+
+635
+00:57:20,473 --> 00:57:27,348
+Dynamic Jewel. Visit the show's website at dynamicduel.com
+and follow us on Instagram at dynamicduelpodcast.
+
+636
+00:57:27,828 --> 00:57:33,151
+You can support the show on Patreon at patreon.com
+slash dynamicduel and joining a tier that works
+
+637
+00:57:33,171 --> 00:57:38,553
+for you, or by rating and reviewing Dynamic
+Duel on Apple Podcasts, Spotify, Podchaser
+
+638
+00:57:38,853 --> 00:57:43,355
+or on our website. Don't forget to listen to
+the other shows in the DynaMic Podcast Network,
+
+639
+00:57:43,776 --> 00:57:50,690
+including Max Destruction, Senjo World and Console
+Combat. In our next episode, we will be doing
+
+640
+00:57:50,750 --> 00:57:57,132
+a duel between Kite Man and Stilt Man. Both
+of whom are kind of ridiculous villains in
+
+641
+00:57:57,192 --> 00:58:01,393
+concept. It's going to be a lot of fun, though.
+Yeah, I'm really looking forward to the episode.
+
+642
+00:58:01,633 --> 00:58:05,354
+But that does it for this episode. We want to
+give a big thanks to our executive producers,
+
+643
+00:58:05,434 --> 00:58:10,015
+Ken Johnson, John Strosky, Zachary Hepburn,
+Dustin Belcombe, Miggie Mathing-Geehan, Brandon
+
+644
+00:58:10,035 --> 00:58:15,437
+Nestregard, Nathaniel Wagner, Levi Yeaton, Austin
+Wazilowski, AJ Dunkerley, Scott Camacho, Gil
+
+645
+00:58:15,477 --> 00:58:22,002
+Camacho, Adam Spies, Andrew Shunk. Dean Maleski,
+Devin Davis, Joseph Kirsting, and Josh Leiner
+
+646
+00:58:22,022 --> 00:58:26,027
+for helping make this podcast possible. And
+we'll talk to you guys next week. Up up and
+
+647
+00:58:26,067 --> 00:58:27,309
+away, true believers.
+
