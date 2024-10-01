@@ -1,0 +1,3500 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,190 --> 00:00:29,453
+Hi, welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,493 --> 00:00:34,916
+the superiority between Marvel and DC by comparing
+their characters and stat-based battle simulations.
+
+4
+00:00:35,376 --> 00:00:41,780
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, we are doing a review
+
+5
+00:00:41,860 --> 00:00:47,943
+of the Harley Quinn spinoff series, Kite Man.
+Hell yeah. It wrapped up season one a while
+
+6
+00:00:47,983 --> 00:00:52,262
+ago, but we're just getting around to it now
+because, of course, everything else... from
+
+7
+00:00:52,302 --> 00:00:56,204
+Marvel and DC has been released within the past
+few weeks and these upcoming weeks. There's
+
+8
+00:00:56,224 --> 00:01:01,327
+gonna be a lot of reviews. Yeah, we are still
+in the middle of review hell. Again, bear with
+
+9
+00:01:01,367 --> 00:01:05,650
+us folks. We will get through all these reviews
+eventually. We'll be talking about Kite Man
+
+10
+00:01:05,670 --> 00:01:09,012
+Hell Yeah later on in this episode. Before that,
+we're gonna break down the comic book movie
+
+11
+00:01:09,052 --> 00:01:14,195
+news to come out this past week, including the
+Thunderbolts teaser trailer that was released,
+
+12
+00:01:14,535 --> 00:01:19,402
+the news that Kyle Chandler has been cast as
+Hell Jordan in the Lantern series, and the
+
+13
+00:01:19,442 --> 00:01:23,946
+news that a Bane and Deathstroke combined film
+project is in development.
+
+14
+00:01:38,902 --> 00:01:43,583
+Why hello there, do you want even more from
+this podcast? Then become a part of the dynamic
+
+15
+00:01:43,603 --> 00:01:48,666
+duel community on Patreon, where you can choose
+from three tiers. The dynamic two-oh tier gives
+
+16
+00:01:48,686 --> 00:01:53,608
+you access to our Discord chat server. The fantastic
+four tier gives you two bonus episodes each
+
+17
+00:01:53,668 --> 00:01:59,198
+month, and the X-Force tier makes you an executive
+producer of this show. Lastly, The Diner Mike
+
+18
+00:01:59,238 --> 00:02:04,301
+podcast network tier lets you create your own
+podcast using this Monte Carlo simulator. Johnny
+
+19
+00:02:04,321 --> 00:02:08,803
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+20
+00:02:08,843 --> 00:02:14,326
+simulation results. Pitch the twins your ideas
+via email at dynamicduelpodcast at gmail.com.
+
+21
+00:02:15,387 --> 00:02:22,091
+Check it out at patreon.com slash dynamicduel.
+Pip pip cheerio. Thanks AJ9K and thanks to
+
+22
+00:02:22,151 --> 00:02:27,806
+everyone who supports the podcast, including
+our patron Abner O'Terry. Whose birthday was
+
+23
+00:02:27,846 --> 00:02:32,991
+this past week? Happy birthday Abner. Happy
+birthday. If I could get you a birthday gift
+
+24
+00:02:33,071 --> 00:02:40,278
+from Marvel, I would get you Cyclops Ruby Quartz
+Visor because even though you don't shoot optic
+
+25
+00:02:40,298 --> 00:02:45,542
+blasts from your eyes, at least it would block
+you from UV rays and the sun. Oh, does Ruby
+
+26
+00:02:45,582 --> 00:02:51,027
+Quartz do that? I don't know. I'm just gonna
+make that assumption. Well, in that case, I
+
+27
+00:02:51,047 --> 00:02:55,830
+would get you the Penguin's Parasol. Cause that
+for sure is going to protect you from those
+
+28
+00:02:55,870 --> 00:02:59,851
+harmful sun rays. Plus it shoots bullets. I
+mean, winter is coming up. I don't know why
+
+29
+00:02:59,871 --> 00:03:04,993
+we're doing this, but whatever. Happy birthday,
+man. Happy birthday. Thanks for being a patron.
+
+30
+00:03:05,413 --> 00:03:09,074
+Guys, be sure to tune into the other shows in
+the DynaMic podcast network this week, including
+
+31
+00:03:09,134 --> 00:03:13,635
+Max Destruction, which pits your favorite action
+heroes from film and television against each
+
+32
+00:03:13,675 --> 00:03:20,337
+other. This week, hosts Scotty and Gilly are
+breaking down a Chucky versus Megan matchup.
+
+33
+00:03:20,497 --> 00:03:24,826
+And that's Megan with the three. from the movie
+Megan. Yeah, of course this will be kicking
+
+34
+00:03:24,886 --> 00:03:29,128
+off the Halloween month of October, a month
+where we like to do a lot of spooky duels.
+
+35
+00:03:29,368 --> 00:03:33,869
+So look forward to that to get into the Halloween
+spirit. Playing up on the spooky theme, this
+
+36
+00:03:33,929 --> 00:03:39,031
+week on the Cinderworld podcast, host Zachary
+Hepburn will be speculating on a fight between
+
+37
+00:03:39,151 --> 00:03:45,072
+Muzzin from Demon Slayer and Femto from Berserk.
+Of course, on the Cinderworld podcast, Zach
+
+38
+00:03:45,092 --> 00:03:49,230
+determines who would win in fights between fan
+favorite anime and manga characters. And on
+
+39
+00:03:49,250 --> 00:03:53,672
+the Console Combat podcast, hosts John and Dean
+simulate battles between popular video game
+
+40
+00:03:53,692 --> 00:03:58,694
+characters. In yesterday's episode, they determined
+who would win in a fight between Warden Eternal
+
+41
+00:03:58,734 --> 00:04:05,297
+from Halo and Saren Arterius from Mass Effect.
+Visit dynamicpodcasts.com or click the link
+
+42
+00:04:05,317 --> 00:04:10,700
+in our show notes to listen to all of the shows
+in the Dynomic Podcast Network. But with that
+
+43
+00:04:10,740 --> 00:04:17,303
+out of the way, quick to the no prize. A no
+prize is an award Marvel used to give out to
+
+44
+00:04:17,343 --> 00:04:22,807
+fans. Our version, the Dynamic duel No Prize,
+is a digital award we post on Instagram for
+
+45
+00:04:22,827 --> 00:04:27,191
+the person that we feel gave the best answer
+to our question of the week. Last week we asked
+
+46
+00:04:27,231 --> 00:04:32,495
+you guys, what musician would you cast as a
+live action Marvel or DC character and what
+
+47
+00:04:32,535 --> 00:04:37,078
+character would that be? And this is coming
+off of Lady Gaga's casting in the upcoming
+
+48
+00:04:37,278 --> 00:04:42,038
+Joker Follyado film. You guys came out of the
+woodwork for this question even though Apparently
+
+49
+00:04:42,078 --> 00:04:46,659
+we've already asked it before like a couple
+years ago when Lady Gaga was first cast But
+
+50
+00:04:46,919 --> 00:04:50,920
+we got a lot of great new answers So let's go
+ahead and run them down as well as our no prize
+
+51
+00:04:50,940 --> 00:04:57,963
+winner our first honorable mention goes to Travis
+Herndon who said let's our dynamic dudes Travis
+
+52
+00:04:58,003 --> 00:05:03,564
+here shout out to my evil twin So my answer
+would have to be the great ice cube as what
+
+53
+00:05:03,584 --> 00:05:10,066
+character you ask Luke Cage I mean, he's got
+that look He got the swagger, he got the attitude.
+
+54
+00:05:10,186 --> 00:05:17,228
+I think Ice Cube could pull off a cool ass Luke
+Cage. I mean, come on, he got the look. And
+
+55
+00:05:17,308 --> 00:05:21,189
+I could definitely see him rocking the yellow
+tee, painting tea in the bracelet. So yeah,
+
+56
+00:05:21,369 --> 00:05:26,651
+Ice Cube is Luke Cage. I thought this was a
+fantastic answer. I think Ice Cube would definitely
+
+57
+00:05:26,711 --> 00:05:31,732
+make a great Luke Cage because he definitely
+has the attitude, right? But part of me also
+
+58
+00:05:31,932 --> 00:05:36,493
+hates this answer because I feel like I would
+wanna give Cube a lot of flak for representing
+
+59
+00:05:36,814 --> 00:05:42,835
+Harlem over Compton, you know, I think it would
+be weird for rap fans to see cube representing
+
+60
+00:05:42,875 --> 00:05:47,177
+the East Side. Yeah, they'd have to like retcon
+the character in the film universe so that
+
+61
+00:05:47,237 --> 00:05:51,718
+yeah, he's from California. There you go. Not
+New York. I mean, otherwise you'd have to get
+
+62
+00:05:51,758 --> 00:05:56,099
+like someone from the Wu-Tang Clan or I don't
+know, Puff Daddy, although he's in a lot of
+
+63
+00:05:56,119 --> 00:06:01,501
+trouble right now. So maybe not him. Yeah, not
+him. Puff Daddy, Diddy, whatever he's calling
+
+64
+00:06:01,521 --> 00:06:07,455
+himself, the Diddler, that guy. Great answer,
+Travis. Our next honorable mention goes to
+
+65
+00:06:07,835 --> 00:06:13,037
+John Speas, who said, Hey fellas, John Speas
+here. This one's a little far out, but stay
+
+66
+00:06:13,057 --> 00:06:22,201
+with me. I would cast Danny Elfman as Norman
+Osborn, the Green Goblin. I think he's just
+
+67
+00:06:22,241 --> 00:06:28,103
+crazy enough to do it. There you go. So one
+of the reasons Willem Dafoe was such a great
+
+68
+00:06:28,143 --> 00:06:32,225
+Norman Osborn is because he has a goblin face.
+I've been saying this for years, but there
+
+69
+00:06:32,265 --> 00:06:38,160
+is another person in this world. who also has
+a natural goblin face. And that man is Danny
+
+70
+00:06:38,220 --> 00:06:43,964
+Elfman, the former singer for Oingo Boingo,
+and of course the famous film composer, you
+
+71
+00:06:43,984 --> 00:06:49,168
+know, who actually wrote the music for the initial
+Sam Raimi Spider-Man trilogy. I think he would
+
+72
+00:06:49,188 --> 00:06:53,571
+be a great Norman Osborn. I think he'd be an
+even better Green Goblin. You know who he would
+
+73
+00:06:53,591 --> 00:06:59,235
+be perfect casting for though? Who? Cletus Kasady
+Carnage. He looks exactly like that character
+
+74
+00:06:59,255 --> 00:07:04,122
+from the comics. Oh, interesting. Yeah, I could
+see him as either character. Whenever I think
+
+75
+00:07:04,242 --> 00:07:10,367
+of characters like Norman Osborn or Cletus Kasady,
+I just think of evil Ginger. That's what Danny
+
+76
+00:07:10,387 --> 00:07:15,051
+Elfman is, there you go. Exactly. Great answer,
+Jon Spears. Our next honorable mention goes
+
+77
+00:07:15,091 --> 00:07:20,415
+to... Miggie Mathingian, who said... Hey, what's
+up guys, this is Miggie. And this question
+
+78
+00:07:20,455 --> 00:07:26,941
+was inspired by Lady Gaga, which, uh, who recently
+released a single with Bruno Mars, who's Filipino
+
+79
+00:07:26,961 --> 00:07:31,204
+and half Puerto Rican, so I was thinking, oh,
+he would be a good vibe because they're both,
+
+80
+00:07:31,224 --> 00:07:35,035
+like, great dancers and they both have Puerto
+Rican. heritage and then I was thinking he
+
+81
+00:07:35,055 --> 00:07:39,417
+was in a duo with uh it's called silk sonic
+with anderson pack who is african-american
+
+82
+00:07:39,457 --> 00:07:44,581
+and korean heritage just like connor hawke so
+I would just Bruno Mars as vibe and anderson
+
+83
+00:07:44,601 --> 00:07:49,744
+pack as connor hawke thanks guys yeah connor
+hawke is a pretty obscure character he's the
+
+84
+00:07:49,824 --> 00:07:54,327
+son of green arrow and took up the green arrow
+mantle for a while not a terrible answer I
+
+85
+00:07:54,387 --> 00:08:00,531
+do like Bruno Mars as vibe a little bit more
+just because I feel like Bruno Mars as Vibe
+
+86
+00:08:00,591 --> 00:08:06,496
+is like peak casting for the character of Vibe.
+Like you cannot do better casting than that.
+
+87
+00:08:06,696 --> 00:08:12,541
+If Vibe ever was cast as Bruno Mars, like the
+character has arrived. Like he's A-list now.
+
+88
+00:08:12,921 --> 00:08:17,805
+That's right, because the character Vibe has
+a music background in the comic books, right?
+
+89
+00:08:18,225 --> 00:08:22,609
+Right, exactly. He was a break dancer. But you
+know, you could turn it into like Bruno Mars
+
+90
+00:08:22,649 --> 00:08:27,533
+smooth style of dancing. I don't know what you
+call it. It's smooth as hell, though. I think
+
+91
+00:08:27,553 --> 00:08:32,796
+it's just hip hop style. Boom. Smooth hip hop
+style. I like Anderson Paak though. He did
+
+92
+00:08:32,836 --> 00:08:37,139
+some music for the Shang-Chi soundtrack and
+yeah, he definitely looks like Connor Hawk.
+
+93
+00:08:37,560 --> 00:08:41,823
+I think the Anderson Paak casting is peak casting
+too. So great answer, Miggy. We wanna give
+
+94
+00:08:41,883 --> 00:08:47,106
+a special shout out to Brandon Estregard who
+said Jenny Ico is Poison Ivy. Cyrus Moore who
+
+95
+00:08:47,126 --> 00:08:52,730
+said Justin Timberlake as the Riddler. Daniel
+Alonso who said Ren Gill as Ragdoll. Josh Hayward
+
+96
+00:08:52,810 --> 00:08:58,110
+said Post Malone as Tattoo Man. Kat Stevens
+said Metallica as The Sinister Six. Luke Bradley
+
+97
+00:08:58,150 --> 00:09:03,431
+said Taylor Swift as Dazzler, Mason Thompson
+said Childish Gambino as the Hypno Hustler,
+
+98
+00:09:03,691 --> 00:09:08,193
+and Mike Williams forgot to leave an answer.
+But he called in anyway and we appreciate that.
+
+99
+00:09:08,613 --> 00:09:14,935
+But the winner of this week's No Prize is Judson
+Batty, who said, Hi guys, Judson Batty here.
+
+100
+00:09:15,195 --> 00:09:20,996
+I know the chances are incredibly unlikely,
+but I would cast Elton John as Arcade, the
+
+101
+00:09:21,116 --> 00:09:26,946
+X-Men villain. I think he's got the looks pretty
+much on par. And it's not a very physical role,
+
+102
+00:09:27,006 --> 00:09:33,128
+so the older age wouldn't be much of an issue.
+And I feel like Arcade's the sort of random
+
+103
+00:09:33,168 --> 00:09:37,630
+character who can get away with bursting into
+song or any of that sort of stuff in a similar
+
+104
+00:09:37,670 --> 00:09:43,131
+way that Joker could. I think it would just
+be a very funny thing to watch. Right. He got
+
+105
+00:09:43,171 --> 00:09:48,433
+cut off there, but this is the perfect answer
+people. Yes. Elton John as the X-Men villain
+
+106
+00:09:48,793 --> 00:09:54,500
+Arcade. If you guys don't know who Arcade is,
+he is a trickster villain for the X-Men who
+
+107
+00:09:54,540 --> 00:10:00,542
+sets up really elaborate video game and amusement
+park death traps for heroes. And if you guys
+
+108
+00:10:00,562 --> 00:10:05,304
+have seen the sequel to Kingsman, which was
+called Kingsman and the Golden Circle, you've
+
+109
+00:10:05,364 --> 00:10:10,566
+seen Elton John in that film and you know just
+how perfect an answer this is because he was
+
+110
+00:10:10,626 --> 00:10:16,669
+fucking hilarious in Kingsman and he kicked
+a whole lot of ass in that movie and he's a
+
+111
+00:10:16,689 --> 00:10:21,207
+great musician. So you gotta give it to him.
+Yeah, Elton John is a very colorful character
+
+112
+00:10:21,267 --> 00:10:27,329
+and arcade creates very colorful and chaotic
+environments for the X-Men. I think it totally
+
+113
+00:10:27,349 --> 00:10:33,132
+works. Plus, you know, when I think of arcade,
+I think of evil ginger. And that's also what
+
+114
+00:10:33,172 --> 00:10:38,514
+I think of when I think of Elton John. What
+do you have against gingers, man? Well, nothing
+
+115
+00:10:38,554 --> 00:10:43,756
+against gingers, just the evil ones. Oh, OK.
+All right. That makes sense. I just want to
+
+116
+00:10:43,816 --> 00:10:50,495
+see the X-Men escaping a death trap. to the
+tune of Tiny Dancer while we see Arcade singing
+
+117
+00:10:50,515 --> 00:10:55,737
+that song. Yes. MCU X-Men, get it done. Kevin
+Feige, hope you're listening. Great answer
+
+118
+00:10:55,777 --> 00:10:59,338
+Judson, you win this week's note prize. If you
+the listener want a shot at winning your own
+
+119
+00:10:59,398 --> 00:11:04,200
+note prize, stay tuned to later on in this episode
+when we'll be asking another question of the
+
+120
+00:11:04,220 --> 00:11:07,201
+week. And now that that's done, onto the news!
+
+121
+00:11:12,782 --> 00:11:18,427
+Alright, just over a week ago we got the first
+trailer for Marvel Studios' Thunderbolts asterisk
+
+122
+00:11:18,587 --> 00:11:24,972
+movie that's gonna come out in theaters in May
+of 2025. And I thought this was a fantastic
+
+123
+00:11:24,992 --> 00:11:29,957
+trailer. It was pretty much exactly what we
+saw from the D23 Thunderbolts presentation,
+
+124
+00:11:30,137 --> 00:11:33,320
+but with some additional footage toward the
+end. And I thought that was one of the more
+
+125
+00:11:33,360 --> 00:11:38,525
+promising looks to come out of D23 was this
+footage. So I'm really pumped for this movie.
+
+126
+00:11:38,825 --> 00:11:45,057
+Okay, I'm- Also really pumped by how cool this
+trailer was. This looks like the Avengers,
+
+127
+00:11:45,137 --> 00:11:50,161
+but cooler to me. The Avengers are already really
+cool. So I don't know what you mean by that.
+
+128
+00:11:50,201 --> 00:11:53,904
+But yeah, but I'm just talking about like the
+cast of characters here. Like when this project
+
+129
+00:11:53,944 --> 00:11:57,847
+was first announced and they were talking about
+the lineup, I was like, oh damn, like that's
+
+130
+00:11:58,267 --> 00:12:03,190
+a pretty damn cool lineup. Like you're essentially
+just taking Marvel's coolest characters that
+
+131
+00:12:03,211 --> 00:12:08,290
+are like still alive and like putting them together.
+But I'm also not gonna lie. When I first saw
+
+132
+00:12:08,310 --> 00:12:13,653
+this, I also thought, okay, I see what they're
+going for. Fucking the Suicide Squad. First
+
+133
+00:12:13,693 --> 00:12:17,675
+of all, they're completely different concepts.
+Like, the Thunderbolts is all about reformed
+
+134
+00:12:17,875 --> 00:12:22,538
+heroes actually working to do good. It's not
+under threat of getting your head exploded
+
+135
+00:12:22,578 --> 00:12:26,920
+or something like that. That's fair. But can
+you admit it? I want to see you admit it. That,
+
+136
+00:12:26,980 --> 00:12:32,103
+yeah, this looks like it's taking inspiration
+from the Suicide Squad. I think that if this
+
+137
+00:12:32,263 --> 00:12:37,185
+was ripped off of Suicide Squad, it's going
+to be a million times better than any iteration.
+
+138
+00:12:37,606 --> 00:12:43,430
+of the Suicide Squad anything ever was. Especially
+that 2016 movie, right? You mean the Oscar
+
+139
+00:12:43,450 --> 00:12:48,393
+winning Suicide Squad 2016 movie? Fuck off.
+All right, anyway, the trailer starts with
+
+140
+00:12:48,573 --> 00:12:53,697
+Yelena Belova visiting her surrogate father,
+Alexei Shostakov, played by David Harbour,
+
+141
+00:12:53,717 --> 00:12:58,861
+who I think gives a great performance as the
+Red Guardian. I love the moment where she knocks
+
+142
+00:12:58,901 --> 00:13:03,024
+on the door and he's trying to get things cleaned
+up for her so that she could come in. And he
+
+143
+00:13:03,044 --> 00:13:07,831
+brushes his teeth with his finger and dish soap.
+Like, just the whole character is just hilarious.
+
+144
+00:13:08,112 --> 00:13:12,435
+Sure, he's used for comic relief and sure, the
+team already has like five different versions
+
+145
+00:13:12,475 --> 00:13:17,799
+of a super soldier, but I'm here for it. Oh,
+yeah. No, David Harbour is fantastic as the
+
+146
+00:13:17,819 --> 00:13:22,203
+Red Guardian. He was one of the best parts to
+come out of the Black Widow movie. I thought
+
+147
+00:13:22,243 --> 00:13:27,006
+I'm really glad that we're getting to see him
+again. His comedic timing is so subtle yet
+
+148
+00:13:27,146 --> 00:13:32,570
+so good. I'm guessing that he's not with Melina
+Vostokov anymore. played by Rachel Weisz in
+
+149
+00:13:32,590 --> 00:13:36,311
+the Black Widow movie. And that's why he's kind
+of down and out here. She must've dumped him
+
+150
+00:13:36,351 --> 00:13:41,633
+or something. But Yulana talks about how she's
+also depressed and she's been diving into her
+
+151
+00:13:41,693 --> 00:13:47,475
+work. One of her jobs puts her at odds with
+John Walker, the US agent, Ghost from Ant-Man
+
+152
+00:13:47,515 --> 00:13:53,496
+and the Wasp, Taskmaster with a very different
+costume here, and Bob Reynolds the Sentry.
+
+153
+00:13:53,937 --> 00:13:58,754
+Well yeah, Taskmaster and Ghost both have very
+different costumes. Yeah, I like Ghost's costume.
+
+154
+00:13:58,834 --> 00:14:03,097
+She actually removes her mask here, which I
+thought was interesting because Taskmaster
+
+155
+00:14:03,197 --> 00:14:08,980
+did not. I know Olga Korolenko is cast in the
+film. I'm not certain why they're so afraid
+
+156
+00:14:09,000 --> 00:14:12,682
+to show her face though, considering we all
+know who she is. Well, I don't know, maybe
+
+157
+00:14:12,742 --> 00:14:16,605
+some people who haven't seen Black Widow still
+don't know that Taskmaster has been gender
+
+158
+00:14:16,645 --> 00:14:21,307
+swapped. I'm wondering if it's in fact the same
+Taskmaster or if it's somebody else. Oh, that's
+
+159
+00:14:21,327 --> 00:14:26,234
+interesting. I don't know. That's hearsay, but
+we'll see what happens. I am intrigued by the
+
+160
+00:14:26,254 --> 00:14:30,656
+fact though that Taskmaster never takes off
+her mask. The fight between the group in that
+
+161
+00:14:30,696 --> 00:14:35,578
+warehouse bunker was fantastic. I thought it
+was really cool to see how they can play off
+
+162
+00:14:35,618 --> 00:14:40,560
+each other even though they had never met each
+other until this point. But they're so in tune
+
+163
+00:14:40,580 --> 00:14:44,502
+that they're able to counter each other's moves
+as they're being made. It's pretty interesting.
+
+164
+00:14:44,962 --> 00:14:49,304
+Yeah, of course, and then the sentry pops out
+of nowhere. Yeah, of course, that role was
+
+165
+00:14:49,364 --> 00:14:52,925
+originally played by Steven Yoon and I kind
+of wish he was still in the role because I
+
+166
+00:14:52,965 --> 00:14:56,452
+think that would have been a f- Fascinating
+character for him to play now. He's being played
+
+167
+00:14:56,492 --> 00:15:00,595
+by Lewis Pullman still pretty interesting here
+I'm really interested in seeing where they
+
+168
+00:15:00,615 --> 00:15:04,578
+take the character and how faithful they will
+be to the comics We do see in a shot later
+
+169
+00:15:04,678 --> 00:15:08,502
+on that he's being shot at by a group of guards
+and all the bullets are basically Bouncing
+
+170
+00:15:08,562 --> 00:15:12,845
+off of him and not hurting him So he'll be a
+cool character if you guys don't know much
+
+171
+00:15:12,885 --> 00:15:17,069
+about the sentry and want to learn more check
+out our episode where? We put him against general
+
+172
+00:15:17,129 --> 00:15:23,562
+Zod. I wonder if these Thunderbolt characters
+were sent in there to kill Bob the sentry or
+
+173
+00:15:23,602 --> 00:15:28,126
+if they were sent in there for him to kill them.
+That's a great question. We don't know what's
+
+174
+00:15:28,186 --> 00:15:33,030
+really going on because we see Bucky attack
+the Thunderbolts group later on at the end
+
+175
+00:15:33,070 --> 00:15:38,834
+of this trailer. So it seems like somebody's
+trying to get these people killed but Bucky
+
+176
+00:15:38,875 --> 00:15:42,998
+joins the team, Sentry joins the team. It's
+really interesting how this is all playing
+
+177
+00:15:43,098 --> 00:15:47,802
+out. And which of them is being manipulated
+by the Contessa Valentina Allegra da Fontaine,
+
+178
+00:15:48,042 --> 00:15:52,842
+played by Julia Louis-Dreyfus, who apparently
+has bought Stark Tower. and she's throwing
+
+179
+00:15:52,882 --> 00:15:57,003
+parties with like Loki Scepter in them and everything
+like that. She puts together the Thunderbolts
+
+180
+00:15:57,163 --> 00:16:03,485
+and the MCU has been hinting at her involvement
+in films like Black Widow and shows like Hawkeye
+
+181
+00:16:03,625 --> 00:16:07,646
+and the Falcon and the Witcher Soldier. And
+Wakanda Forever. Oh yeah, that's right. She
+
+182
+00:16:07,666 --> 00:16:12,207
+was in that too. It'll be nice to finally get
+that payoff of what her motives are and what's
+
+183
+00:16:12,227 --> 00:16:17,088
+all going on here. Fingers are still crossed
+that she's Letharian. Yeah, if they like maybe
+
+184
+00:16:17,388 --> 00:16:21,069
+merge her character with Lucia von Bardis or
+something like that, that could be pretty cool.
+
+185
+00:16:21,514 --> 00:16:28,259
+Again, Thunderbolts asterisk comes out on May
+2nd, 2025. And speaking of that asterisk, that
+
+186
+00:16:28,359 --> 00:16:31,101
+asterisk though, that brings us to our question
+of the week.
+
+187
+00:16:35,542 --> 00:16:40,546
+What is your theory as to what the asterisk
+means in the Thunderbolts movie title? There
+
+188
+00:16:40,566 --> 00:16:44,750
+are a lot of rumors out there, some of them
+more common than others, but we want to know
+
+189
+00:16:44,770 --> 00:16:49,714
+what your own personal theories are. Record
+your answer at dynamicduel.com by clicking
+
+190
+00:16:49,754 --> 00:16:53,578
+on the red microphone button in the bottom right
+hand corner of the screen, which will prompt
+
+191
+00:16:53,598 --> 00:16:57,461
+you to leave us a voicemail. Your message could
+be up to 30 seconds long. And don't forget
+
+192
+00:16:57,501 --> 00:17:01,705
+to leave your name in case we include you on
+the podcast. We'll pick our favorite answer.
+
+193
+00:17:02,026 --> 00:17:06,468
+and award that person a dynamic duel no prize
+that will post to Instagram. Be sure to answer
+
+194
+00:17:06,508 --> 00:17:15,273
+before October 5th. Moving on to DC news, Kyle
+Chandler has been set to star in HBO's Lanterns
+
+195
+00:17:15,433 --> 00:17:21,336
+series for the DC Universe. This will be produced
+by both James Gunn and Peter Safran. Of course,
+
+196
+00:17:21,376 --> 00:17:26,779
+Chris Mundy and Damon Lindelof have been announced
+as writers for the series. There's been some
+
+197
+00:17:26,879 --> 00:17:31,998
+speculation for a while now as to who was going
+to be playing Cal Jordan. And we had A-list
+
+198
+00:17:32,058 --> 00:17:37,241
+talent in the running, including Josh Brolin
+and Matthew McConaughey, Chris Pine, Timothy
+
+199
+00:17:37,281 --> 00:17:44,425
+Elephant. But ultimately it came down to Kyle
+Chandler of Friday Night Lights fame. And I
+
+200
+00:17:44,465 --> 00:17:50,908
+gotta say, I'm not thrilled by the news, especially
+considering the names we could have gotten
+
+201
+00:17:50,928 --> 00:17:55,211
+and the names that were being thrown around.
+It's kind of hard to get excited about Kyle
+
+202
+00:17:55,231 --> 00:18:00,293
+Chandler. I feel kind of let down by that. I
+think it's kind of funny. I think out of...
+
+203
+00:18:00,914 --> 00:18:05,295
+everyone you could have gotten. Nobody expected
+Kyle Chandler to get the job. I mean, he'll
+
+204
+00:18:05,315 --> 00:18:10,858
+be serviceable. He's been in a few movies. He's
+popped up in like Godzilla, King of Monsters,
+
+205
+00:18:11,358 --> 00:18:17,400
+and he was in the Neil Armstrong biopic First
+Man. He's just not a household name. And I
+
+206
+00:18:17,440 --> 00:18:22,383
+guess I kind of assumed that Hal Jordan would
+be considering the last actor to play him was
+
+207
+00:18:22,463 --> 00:18:28,405
+Ryan Reynolds. You know, we didn't get a version
+of Hal Jordan in the Snyderverse. So I kind
+
+208
+00:18:28,425 --> 00:18:34,880
+of thought that they make up for the bad reception
+of Ryan Reynolds film by casting someone really
+
+209
+00:18:34,920 --> 00:18:38,722
+big in the role to say hey Hal Jordan is still
+really important to us he's still a really
+
+210
+00:18:38,762 --> 00:18:43,364
+big character so much so in fact that we got
+this actor i guess that's not the case though
+
+211
+00:18:43,804 --> 00:18:49,087
+i shouldn't be that disappointed i mean after
+all Kyle Chandler is an Emmy-winning actor
+
+212
+00:18:49,247 --> 00:18:53,989
+like you said he'll be serviceable considering
+the talent behind the scenes i'm not too concerned
+
+213
+00:18:54,009 --> 00:18:58,884
+about the direction of the show I was just expecting
+bigger names. It looks like from who's currently
+
+214
+00:18:58,904 --> 00:19:03,987
+in the running for Jon Stewart as well, like
+that's not going to be a big name either. Currently
+
+215
+00:19:04,027 --> 00:19:10,212
+they're looking at Alan Pierre and Stephen James
+to play the role of Jon Stewart. Of course,
+
+216
+00:19:10,252 --> 00:19:14,975
+Alan Pierre is the star of the Netflix thriller
+Rebel Ridge and Stephen James was in films
+
+217
+00:19:15,015 --> 00:19:20,859
+like The Piano Lesson and 21 Bridges. Actually
+he starred opposite Chadwick Boseman in 21
+
+218
+00:19:20,879 --> 00:19:25,166
+Bridges and I always thought that Stephen James
+would have made a good Black Panther. after
+
+219
+00:19:25,206 --> 00:19:30,369
+Chad Oak Boseman's tragic passing. That said,
+I'll be fine to take him for the DC Universe.
+
+220
+00:19:30,409 --> 00:19:34,932
+He's actually my favorite pick out of those
+two for Jon Stewart. Yeah, same here. I'd like
+
+221
+00:19:34,972 --> 00:19:37,954
+to see him get the role. I think he could pull
+it off and I think he'd be a great addition
+
+222
+00:19:37,995 --> 00:19:43,338
+to the DC film universe too, if they end up
+putting Jon Stewart in a Justice League roster
+
+223
+00:19:43,398 --> 00:19:48,201
+down the line. Apparently they're looking to
+make a decision for Jon Stewart sooner rather
+
+224
+00:19:48,222 --> 00:19:53,085
+than later. Maybe by the time we record our
+next episode, we'll have our Jon Stewart. So
+
+225
+00:19:53,125 --> 00:19:59,240
+look forward to that. In other DC news, it looks
+like James Gunn and Peter Safran are developing
+
+226
+00:19:59,500 --> 00:20:05,542
+a Bane and Deathstroke conjoined film that's
+going to be written by Matthew Orton, the same
+
+227
+00:20:05,562 --> 00:20:11,745
+writer who wrote the upcoming Captain America
+Brave New World movie. I have no idea what
+
+228
+00:20:11,865 --> 00:20:16,347
+that film would look like. Maybe it's just like
+an Assassin's movie and there'll be other DC
+
+229
+00:20:16,387 --> 00:20:20,549
+like assassin or mercenary characters all going
+for like a single target or something like
+
+230
+00:20:20,589 --> 00:20:26,543
+that. That sounds pretty cool. Or maybe Deathstroke
+has to infiltrate Santa Prisca prison to eliminate
+
+231
+00:20:26,603 --> 00:20:30,865
+a target and he encounters Bane. I don't know,
+it's all speculative right now. I think the
+
+232
+00:20:30,905 --> 00:20:35,067
+concept is the most intriguing bit of news to
+come out of this though. So they never would
+
+233
+00:20:35,087 --> 00:20:39,789
+have assumed that they would have taken Bane,
+who's a Batman villain, and Deathstroke, who's
+
+234
+00:20:39,929 --> 00:20:45,111
+primarily a Titans villain, and put them in
+the same movie. Yeah, that's a pretty odd couple
+
+235
+00:20:45,131 --> 00:20:50,253
+there. I saw a rumor that said that the film
+is potentially setting up a Secret Six movie.
+
+236
+00:20:50,582 --> 00:20:54,284
+Well considering that Deathstroke was not a
+part of the Secret Six, I find that hard to
+
+237
+00:20:54,324 --> 00:20:58,886
+believe. Deadshot was in the Secret Six, so
+people might be confusing him for Deathstroke,
+
+238
+00:20:59,267 --> 00:21:04,229
+but I don't know, it might be as good a guess
+as any, but I find that hard to believe. As
+
+239
+00:21:04,269 --> 00:21:08,772
+James Gunn has said in the past, they're not
+going to greenlight a film until the script
+
+240
+00:21:08,912 --> 00:21:14,315
+is completed, so who knows when this movie will
+be released, if it will at all. But the fact
+
+241
+00:21:14,335 --> 00:21:20,078
+that they're developing it is just fascinating
+in regards to what James Gunn has planned with
+
+242
+00:21:20,118 --> 00:21:26,241
+these films. Is there a plan? I'm gonna say
+no. It's starting to look that way. Like it
+
+243
+00:21:26,281 --> 00:21:31,624
+may just be a shared universe with no overarching
+story. So basically like they have to see you
+
+244
+00:21:31,644 --> 00:21:36,126
+right now. Oh, during the multiverse saga? Yeah,
+kind of, but you see how that's going for them.
+
+245
+00:21:36,586 --> 00:21:41,769
+Yeah, yeah. I don't know. We'll see what happens
+with this. We'll keep you guys updated if any
+
+246
+00:21:41,849 --> 00:21:43,549
+other news surrounding it develops.
+
+247
+00:21:50,958 --> 00:21:54,861
+That does it for all the news for this week,
+so now let's move on to the main event of this
+
+248
+00:21:54,901 --> 00:22:00,985
+episode where we review season 1 of the Max
+animated series, Kite Man. Hell yeah.
+
+249
+00:22:17,262 --> 00:22:22,945
+Hell yeah is a spin-off series of the critically
+and fan-acclaimed animated max-exclusive series
+
+250
+00:22:23,065 --> 00:22:29,008
+Harley Quinn, for which we've reviewed two seasons
+and a Valentine's Day special on this podcast.
+
+251
+00:22:29,428 --> 00:22:34,131
+Harley Quinn is a good series, with enough over-the-top
+violence and raunchy humor to entertain its
+
+252
+00:22:34,171 --> 00:22:39,094
+mature audiences, but also a surprising amount
+of heart and psychological insight into the
+
+253
+00:22:39,134 --> 00:22:44,757
+characters of Gotham that make it relatively
+groundbreaking amidst DC's massive library
+
+254
+00:22:44,817 --> 00:22:50,961
+of animated fare. Now despite the success of
+The Harley Quinn Show, I had mediocre expectations
+
+255
+00:22:51,001 --> 00:22:56,485
+for season one of Kite Man Hell Yeah, a series
+based on a D-list Batman villain and minor,
+
+256
+00:22:56,746 --> 00:23:02,150
+albeit charming side characters from Harley
+Quinn. The Harley Quinn Show already features
+
+257
+00:23:02,210 --> 00:23:08,014
+a pretty obscure cast of Gotham characters,
+so would a show that scrapes even further into
+
+258
+00:23:08,035 --> 00:23:13,194
+the bottom of the barrel actually work? I'm
+glad to say it did. I wouldn't go so far as
+
+259
+00:23:13,234 --> 00:23:19,156
+to recommend the show as must-see TV, but if
+you're a fan of the Harley Quinn series, this
+
+260
+00:23:19,176 --> 00:23:23,818
+show is definitely worth your time, though I
+wouldn't expect it to be as innovative. If
+
+261
+00:23:23,838 --> 00:23:28,740
+you're interested in watching the show but haven't
+yet, skip this review for now and come back
+
+262
+00:23:28,980 --> 00:23:34,003
+after you've watched it as this review, like
+all of our reviews, will contain spoilers.
+
+263
+00:23:34,343 --> 00:23:38,444
+Yeah, I'm not sure this show has any appeal
+to people who aren't fans of the Harley Quinn
+
+264
+00:23:41,230 --> 00:23:46,053
+comedy, you might still find something here
+to enjoy. The show is actually pretty different
+
+265
+00:23:46,093 --> 00:23:51,076
+from what I was expecting it to be. I thought
+it was going to be much more of a sitcom, something
+
+266
+00:23:51,176 --> 00:23:55,800
+like Cheers, but it actually ended up having
+more of an overarching story than I thought
+
+267
+00:23:55,820 --> 00:24:01,063
+it was going to have. For the most part, the
+show is purely focused on laughs, though it
+
+268
+00:24:01,103 --> 00:24:06,427
+does revolve somewhat around the romance of
+its two lead characters, Kite Man and his girlfriend
+
+269
+00:24:06,447 --> 00:24:12,275
+of 14 months, Golden Glider, an obscure Flash
+villain. The two work well together, though
+
+270
+00:24:12,315 --> 00:24:17,979
+I'd say most of the laughs don't come from their
+interactions. Rather, most of the show's humor
+
+271
+00:24:18,019 --> 00:24:23,262
+comes from the ensemble of recurring side characters
+that frequent the bar Kite Man and Golden Glider
+
+272
+00:24:23,322 --> 00:24:28,526
+purchased in episode 1. This includes Bane,
+a character from the Harley Quinn show and
+
+273
+00:24:28,626 --> 00:24:34,330
+my favorite of the bunch, Malice Vunderbar,
+a trendy apocalyptic socialite forced to work
+
+274
+00:24:34,390 --> 00:24:40,294
+at the bar, Sean Noonan, the aloof former owner
+of the bar who knows all of its secrets, The
+
+275
+00:24:40,314 --> 00:24:45,196
+Queen of Fables, also from Harley Quinn, now
+just a decapitated head looking for a body.
+
+276
+00:24:45,716 --> 00:24:52,139
+Joe and Moe doubles, mobster conjoined twins
+with two heads. Six pack, a lewd drunkard and
+
+277
+00:24:52,259 --> 00:24:58,821
+wannabe villain I think. And a random ass guy
+named Gus. Now most of the ensemble works,
+
+278
+00:24:58,881 --> 00:25:04,024
+particularly Bane, Malice, and Noonan. Like
+Bane's obsessive nature and Mack forgetting
+
+279
+00:25:04,044 --> 00:25:10,646
+himself into embarrassing situations are hilarious.
+I thought Malice was going to be annoying when
+
+280
+00:25:10,686 --> 00:25:15,407
+we were first introduced to the character, but
+she ended up being a fantastic foil for Golden
+
+281
+00:25:15,427 --> 00:25:19,969
+Glider, and her demonic cat Cheshire allowed
+Malice to get involved in some of the show's
+
+282
+00:25:20,109 --> 00:25:25,130
+action scenes. Noonan was great as a loyal mentor
+figure for Kite Man not only when it came to
+
+283
+00:25:25,170 --> 00:25:31,252
+running a seedy bar in Gotham, but also in navigating
+relationships. Some of the cast, however, like
+
+284
+00:25:31,292 --> 00:25:38,230
+the doubles twins Sixpack and Daryl, were good
+for maybe one joke the entire season. It's
+
+285
+00:25:38,290 --> 00:25:43,372
+always been interesting to see how some characters
+are adapted in this quote-unquote quin-verse
+
+286
+00:25:43,672 --> 00:25:48,074
+like a character like Malice. And I would have
+much rather seen other D-list villains frequenting
+
+287
+00:25:48,274 --> 00:25:54,117
+Noonan's than some of what we got here. Yeah,
+actually going back to your idea that the premise
+
+288
+00:25:54,137 --> 00:25:58,959
+was going to be more of a sitcom where we see
+a revolving cast of D-list villains showing
+
+289
+00:25:58,999 --> 00:26:03,841
+up at the bar, I was surprised at the lack of
+cameos and stuff that we got from this show.
+
+290
+00:26:04,310 --> 00:26:09,911
+Yeah, we got Frank the Plant, we got Clayface,
+we got Martian Manhunter just out of fucking
+
+291
+00:26:10,091 --> 00:26:16,373
+nowhere. But yeah, I thought we were going to
+get a lot more villains. Now regarding the
+
+292
+00:26:16,413 --> 00:26:22,214
+humor, the show's irreverent gags are pretty
+much nonstop, and most of the jokes land, especially
+
+293
+00:26:22,254 --> 00:26:27,616
+as the season progresses and continues to build
+on past jokes. Like in Harley Quinn, there's
+
+294
+00:26:27,636 --> 00:26:32,797
+a touch of commentary in the humor, particularly
+when it comes to one of the show's three villains,
+
+295
+00:26:33,117 --> 00:26:40,143
+Helen Villigan. who turned her themed bar, Villigans,
+into an online Amazon slash Google-esque data
+
+296
+00:26:40,223 --> 00:26:46,869
+empire that spies on its user base in a send-up
+of big tech and capitalistic excess. Usually
+
+297
+00:26:47,009 --> 00:26:53,514
+LexCorp fills that role in DC media, so I'm
+not convinced that Helen Villigan was necessary,
+
+298
+00:26:53,615 --> 00:26:59,700
+especially considering Lex Luther already serves
+as one of the season's villains. He was voiced
+
+299
+00:26:59,720 --> 00:27:05,296
+by Lance Riddick of John Wick fame. for eight
+episodes before his untimely passing. Yeah,
+
+300
+00:27:05,316 --> 00:27:09,958
+for as ubiquitous as Villigans was in this universe,
+you think that we would have seen Villigans
+
+301
+00:27:10,018 --> 00:27:14,581
+in the Harley Quinn show. We might have maybe
+if they were setting this up, but I just don't
+
+302
+00:27:14,621 --> 00:27:20,244
+remember Villigans any time prior to this season.
+No, I think she was made up for the show. Although
+
+303
+00:27:20,264 --> 00:27:26,648
+that's not entirely true. I was able to find
+a character named Helen Helligan. I don't know
+
+304
+00:27:26,668 --> 00:27:31,446
+if they're the same though. You think they have
+to be. Well, Helen Helligan is an FBI agent,
+
+305
+00:27:31,566 --> 00:27:38,368
+not a villain. Well, never mind then. Now, the
+surprise villain for me was Darkseid, who we've
+
+306
+00:27:38,388 --> 00:27:42,989
+seen in past seasons of Harley Quinn. But, you
+know, to make the central conflict of the season
+
+307
+00:27:43,069 --> 00:27:48,391
+revolve around the anti-life equation made for
+some pretty lofty stakes for a show about D-list
+
+308
+00:27:48,451 --> 00:27:52,932
+villains. Considering the high stakes, I thought
+the conflict would have been more appropriate
+
+309
+00:27:52,952 --> 00:27:57,693
+for a fifth season of Harley Quinn or better
+yet, maybe like a Suicide Squad spin-off series.
+
+310
+00:27:58,102 --> 00:28:02,583
+that I think people would have been much more
+interested in than Kite Man. Now seeing Kite
+
+311
+00:28:02,623 --> 00:28:06,844
+Man in the Suicide Squad would have been much
+more interesting to me than seeing him run
+
+312
+00:28:06,884 --> 00:28:12,066
+a bar. That's just an idea, though. Like for
+me, the premise of Kite Man running a bar is
+
+313
+00:28:12,086 --> 00:28:17,488
+almost like a web series at best. Right. But
+it definitely has great potential in the sort
+
+314
+00:28:17,528 --> 00:28:22,418
+of sitcom style. Like you, I was hoping the
+show would go a different route because. I
+
+315
+00:28:22,458 --> 00:28:27,220
+don't think we need another Harley Quinn series,
+essentially. This show explored a lot of different
+
+316
+00:28:27,240 --> 00:28:31,522
+things, but I'm wondering how they're going
+to incorporate what happened in this show into
+
+317
+00:28:31,542 --> 00:28:35,923
+the upcoming Harley Quinn season. If we're going
+to see a lot of these characters jumping back
+
+318
+00:28:35,943 --> 00:28:39,845
+and forth, I think they're kind of basically
+setting themselves up for a continuity nightmare,
+
+319
+00:28:39,965 --> 00:28:43,867
+especially in this universe which is so wacky
+that almost anything can go from episode to
+
+320
+00:28:43,887 --> 00:28:49,509
+episode. Yeah, I definitely agree. To me, this
+could have also just been a subplot within.
+
+321
+00:28:49,942 --> 00:28:53,723
+the next season of Harley Quinn. Like maybe
+get rid of some of the minor subplots from
+
+322
+00:28:53,783 --> 00:28:58,846
+this series, like Queen of Fables looking for
+a body to attach her head to or something like
+
+323
+00:28:58,906 --> 00:29:03,748
+that. And just, you know, get it streamlined
+and insert it into the Harley Quinn show. I
+
+324
+00:29:03,768 --> 00:29:07,990
+think that could have worked. Exactly. And let
+me just say this. It shouldn't have been Kite
+
+325
+00:29:08,010 --> 00:29:13,172
+Man who got his own spinoff show. For as funny
+as Kite Man is, he didn't have as much to do
+
+326
+00:29:13,232 --> 00:29:19,484
+here as like Harley Quinn does in say her own
+show. It's more about this whole cast of characters,
+
+327
+00:29:19,524 --> 00:29:24,228
+including Bane, who has probably just as much,
+if not more, screen time than Kite Man does.
+
+328
+00:29:24,328 --> 00:29:28,712
+I think this should have been a Bane spinoff,
+because to me, he's the standout from the Harley
+
+329
+00:29:28,732 --> 00:29:33,155
+Quinn show, not Kite Man. Yeah, he's the standout
+from both shows, Harley Quinn and Kite Man,
+
+330
+00:29:33,215 --> 00:29:37,599
+I felt. I would love to see Bane get his own
+show, and I agree he probably should have gotten
+
+331
+00:29:37,639 --> 00:29:43,163
+his before Kite Man did. Now, regarding the
+romance of the series, it truly is the heart
+
+332
+00:29:43,283 --> 00:29:48,539
+of the show, as it is in the Harley Quinn series.
+Kite Man and Golden Glider are great for each
+
+333
+00:29:48,580 --> 00:29:53,564
+other, but let's talk more about them and their
+relationship in our character breakdown. Charles
+
+334
+00:29:53,644 --> 00:29:59,148
+Chuck Brown slash Kite Man was voiced by Matt
+Oberg. I haven't talked too much about his
+
+335
+00:29:59,208 --> 00:30:04,153
+voice performance in past seasons of the Harley
+Quinn series, but if it wasn't for Oberg's
+
+336
+00:30:04,233 --> 00:30:09,357
+lovable, loser-esque comedic take on Kite Man,
+the character would not have been endearing
+
+337
+00:30:09,397 --> 00:30:14,741
+enough to sustain his own spinoff series. The
+show owes a lot of credit to Oberg's charm.
+
+338
+00:30:15,138 --> 00:30:19,699
+which I think could translate into live action
+if they ever want to put Kite Man in a Suicide
+
+339
+00:30:19,719 --> 00:30:25,001
+Squad film or something like that. For sure.
+Yeah, that would be hilarious. The guy's delivery
+
+340
+00:30:25,261 --> 00:30:30,542
+is something special. I'll say that. It's more
+than spot on. It's charming, it's pitiful,
+
+341
+00:30:30,962 --> 00:30:35,544
+it's comedic. It's all of these things in one
+package. Yeah, it could go anywhere from super
+
+342
+00:30:35,604 --> 00:30:41,514
+heroic to super sad and everything in between.
+And still be funny all at once. Kite Man's
+
+343
+00:30:41,614 --> 00:30:46,718
+arc this season revolves around self-acceptance,
+and it's an arc that stems from his appearances
+
+344
+00:30:46,758 --> 00:30:51,682
+in Harley Quinn. He broke off his engagement
+to Poison Ivy in that show because he had the
+
+345
+00:30:51,742 --> 00:30:57,567
+self-worth to not be with a woman he loved who
+didn't love him on equal footing. Kite Man
+
+346
+00:30:57,627 --> 00:31:01,670
+and Golden Glider make a better couple in that
+they're both fully committed to each other
+
+347
+00:31:01,710 --> 00:31:07,135
+despite their flaws. But Kite Man becomes insecure
+during the show by his father's disapproval,
+
+348
+00:31:07,235 --> 00:31:11,990
+the appearance of a rival bar like Villigans
+across the street, as well as Golden Glider's
+
+349
+00:31:12,030 --> 00:31:17,311
+mom, Rebecca Chen, telling him he's not good
+enough for her daughter. So he makes the decision
+
+350
+00:31:17,371 --> 00:31:23,133
+to go to his rival, Helen Villigan, to gain
+a superpower in order to be more than the loser
+
+351
+00:31:23,173 --> 00:31:28,235
+he suddenly feels he is. But by the end of the
+season, he learns that he doesn't need a superpower
+
+352
+00:31:28,395 --> 00:31:33,556
+because his power all along had been his kindness
+and friendliness that got him his dream girl
+
+353
+00:31:33,676 --> 00:31:39,974
+and bar from the very start. The superpower
+of Beast Mode. Might be my favorite moment
+
+354
+00:31:40,275 --> 00:31:48,739
+with Kite Man. His douchebag power, it's just
+so unbelievably wacky and hilarious. Oftentimes
+
+355
+00:31:48,779 --> 00:31:53,662
+I've been asked if you could have any superpower.
+I think I kind of want douchebag superpower.
+
+356
+00:31:54,123 --> 00:31:59,365
+His power was telekinesis, which was activated
+by him throwing up the middle finger, right?
+
+357
+00:31:59,846 --> 00:32:03,968
+But it would do things like wedgies and pull
+people's pants down and titty twisters and
+
+358
+00:32:04,008 --> 00:32:10,143
+stuff like that. It was just hilarious. I think
+that stemmed more from who Beast Mode was as
+
+359
+00:32:10,183 --> 00:32:14,465
+opposed to what his power was specifically.
+Okay. It wasn't like his power was like randomly
+
+360
+00:32:14,505 --> 00:32:19,607
+doing these douchey things to them, I think.
+But yeah, I would love that power in real life.
+
+361
+00:32:19,788 --> 00:32:23,389
+People who like cut me off in traffic, I just
+like throw up the finger and then all of a
+
+362
+00:32:23,409 --> 00:32:27,931
+sudden their car would shut down or something
+like that. That type of power does appeal to
+
+363
+00:32:27,951 --> 00:32:32,513
+me in a totally petty way. Was Beast Mode your
+favorite Kite Man moment or did you have another
+
+364
+00:32:32,613 --> 00:32:38,494
+one? No, there were no like real standout action
+moments or anything really heroic for him outside
+
+365
+00:32:38,534 --> 00:32:43,739
+of the whole Anti-life equation thing at the
+end, but even that wasn't really an exciting
+
+366
+00:32:43,859 --> 00:32:48,864
+action moment for him true. Very yeah He didn't
+really do anything like impressive with his
+
+367
+00:32:48,924 --> 00:32:53,808
+kite this season I felt which I was actually
+really looking forward to considering our last
+
+368
+00:32:53,848 --> 00:32:58,372
+episode Which was a duel between kite man and
+stilt man, you know all the different kite
+
+369
+00:32:58,412 --> 00:33:03,844
+gadgets that he has in the comics weren't really
+on display in this show, except as random gags.
+
+370
+00:33:04,704 --> 00:33:08,387
+When he hit his belt and it would shoot out
+a bunch of little kite throwing stars and stuff
+
+371
+00:33:08,407 --> 00:33:12,730
+like that. Yeah, you're right. That was it.
+But you know, like Harley Quinn and Kite Man,
+
+372
+00:33:12,810 --> 00:33:17,653
+those shows really aren't about the heroics.
+No, but there is a lot of action. So I would
+
+373
+00:33:17,693 --> 00:33:23,337
+have expected Kite Man to be more involved in
+the action more frequently in his own series.
+
+374
+00:33:23,877 --> 00:33:28,821
+I think the biggest thing he did besides the
+Anti-Life Equation thing was punch Baby Doll,
+
+375
+00:33:28,861 --> 00:33:34,032
+but that happened off camera. Well, you look
+at Golden Glider, she got a whole lot of action
+
+376
+00:33:34,252 --> 00:33:40,136
+in this season. Oh, absolutely. Yeah. Lisa Snart
+slash Golden Glider. She was voiced by Stephanie
+
+377
+00:33:40,197 --> 00:33:45,300
+Sue. I think she's a fantastic actress. She
+was great as one of the leads in everything
+
+378
+00:33:45,380 --> 00:33:49,923
+everywhere all at once. And though I didn't
+care for her performance at the start of this
+
+379
+00:33:49,963 --> 00:33:54,527
+season, I think that was more due to the writing
+of the character because by the end of the
+
+380
+00:33:54,567 --> 00:33:59,098
+season, I was really happy with the character.
+And I think a lot of that has to do. with Sue's
+
+381
+00:33:59,118 --> 00:34:04,500
+ability to deliver both comedy and drama. I
+think at one point we were thinking about pitting
+
+382
+00:34:04,560 --> 00:34:10,102
+Golden Glider against Shadow Cat from Marvel
+in a duel episode. And I am totally glad that
+
+383
+00:34:10,122 --> 00:34:16,085
+we didn't do that because Golden Glider seems
+OP as fuck. Well, so this is an interesting
+
+384
+00:34:16,205 --> 00:34:23,668
+adaptation of Golden Glider because in the past,
+Golden Glider was just a really fast skater.
+
+385
+00:34:23,788 --> 00:34:30,311
+But in the new 52, they re-imagined the character
+to be almost like a ghost with blades that's
+
+386
+00:34:30,371 --> 00:34:36,455
+really fast. So they kind of did both for this
+show and that she had this like astral projection
+
+387
+00:34:36,495 --> 00:34:41,598
+that could shoot out these ribbons that could
+either like liquefy or cut people. I actually
+
+388
+00:34:41,618 --> 00:34:46,842
+think it was a pretty good adaptation of the
+character and honestly I hope they adapt that
+
+389
+00:34:46,862 --> 00:34:52,326
+to the comics. She's a former member of the
+Rogues? Yes, that's correct. We'll find a matchup
+
+390
+00:34:52,346 --> 00:34:56,349
+for her eventually somewhere down the line.
+I think maybe Devin has already come up with
+
+391
+00:34:56,369 --> 00:35:00,338
+that idea, but I'll have to double check. This
+is a much better adaptation of the character
+
+392
+00:35:00,378 --> 00:35:05,020
+from the comics than what they did on the Flash
+TV show, which is just give her a gun that
+
+393
+00:35:05,080 --> 00:35:10,741
+turns things gold. Holy shit. That's so stupid.
+Yeah, it was kind of ridiculous. But you know
+
+394
+00:35:10,761 --> 00:35:15,543
+what? I bet you Golden Glider in the Kite Man
+show wished she had that power, though. I mean,
+
+395
+00:35:15,583 --> 00:35:21,164
+who wouldn't? I want that. Yeah, yeah. Now,
+like Kite Man, Golden Glider's arc revolves
+
+396
+00:35:21,224 --> 00:35:26,522
+around insecurity. You know, her insecurity
+around using her unstable powers. around her
+
+397
+00:35:26,542 --> 00:35:32,167
+relationship with Kite Man, around the new young,
+caught-rich barmaid, her unresolved past, and
+
+398
+00:35:32,207 --> 00:35:37,111
+around the unrequited love from her mother.
+The only thing that keeps her stable is the
+
+399
+00:35:37,131 --> 00:35:42,096
+shared love between herself and Kite Man, which
+makes it all the more tragic at the end of
+
+400
+00:35:42,116 --> 00:35:47,320
+the season when the only way to seemingly save
+the world from the anti-life equation is for
+
+401
+00:35:47,360 --> 00:35:53,942
+Glider to kill Kite Man. That ended up not happening
+through a bizarre deus ex machina. But in the
+
+402
+00:35:54,022 --> 00:35:58,123
+end she admitted that she wouldn't have been
+able to kill Kite Man anyway because she loved
+
+403
+00:35:58,163 --> 00:36:03,806
+him. And though she never overcomes her insecurities
+in this season, at least she's supported by
+
+404
+00:36:03,826 --> 00:36:09,108
+a good partner who brings out the best in her
+as she does for him. Hashtag relationship goals.
+
+405
+00:36:09,128 --> 00:36:14,751
+You know it's interesting that Kite Man and
+Golden Glider make such a good couple considering
+
+406
+00:36:14,911 --> 00:36:19,753
+they're both highly insecure people. And neither
+of them have like real secure attachments due
+
+407
+00:36:19,793 --> 00:36:23,891
+to their upbringing and stuff like that. And
+usually you need at least one person to have
+
+408
+00:36:23,911 --> 00:36:29,234
+a secure attachment in a relationship in order
+for the relationship to work. Otherwise, you
+
+409
+00:36:29,254 --> 00:36:32,636
+know, the insecurities compound and spiral out
+of control. But yeah, they both seem like they
+
+410
+00:36:32,656 --> 00:36:37,999
+have anxious attachments to each other or something.
+Well, Kymane is usually very secure, like almost
+
+411
+00:36:38,039 --> 00:36:43,682
+to a fault. Like he should not be as secure
+as he is. It wasn't until this season that
+
+412
+00:36:43,742 --> 00:36:48,084
+he kind of started to feel like, oh, maybe he's
+not good enough because, you know, he told
+
+413
+00:36:48,484 --> 00:36:52,210
+Poison Ivy straight to her face, like, I'm too
+good for you. So, you know, that was never
+
+414
+00:36:52,230 --> 00:36:58,753
+really his problem until he started to get serious
+with Golden Glider. That's true. That's very
+
+415
+00:36:58,773 --> 00:37:03,214
+true, actually. I didn't think about that, but
+you're absolutely right. He kind of has delusions
+
+416
+00:37:03,255 --> 00:37:10,237
+of grandeur in his security. Exactly. But that's
+kind of the appeal, right? He's a big loser,
+
+417
+00:37:10,297 --> 00:37:15,499
+but he doesn't necessarily know that he's a
+big loser. Right. That's 100% the appeal of
+
+418
+00:37:15,539 --> 00:37:19,281
+the character. Because it makes you want to
+root for him. He's the underdog. This whole
+
+419
+00:37:19,301 --> 00:37:24,621
+show is about underdogs. Him, Golden Glider,
+Bane, everyone. No, my favorite moment with
+
+420
+00:37:24,661 --> 00:37:29,125
+Golden Glider was actually in the first episode
+when she first showed her powers because that's
+
+421
+00:37:29,145 --> 00:37:32,488
+when I realized how they were adapting the character.
+And I was like, okay, they're taking like a
+
+422
+00:37:32,528 --> 00:37:38,833
+mixture between, you know, pre-New 52 Golden
+Glider and post-Flashpoint Golden Glider. The
+
+423
+00:37:38,853 --> 00:37:46,099
+funniest moments I think were actually, you
+know, her naked fighting at the spa, but also
+
+424
+00:37:46,239 --> 00:37:50,602
+her getting her nipples pierced. when she thought
+that her mom was going to get it done too,
+
+425
+00:37:50,862 --> 00:37:58,526
+only to find out that wasn't the case. Oh, so
+all the raunchy stuff, okay. Yes. Regarding
+
+426
+00:37:58,566 --> 00:38:01,847
+the naked fight, that was pretty interesting
+because the animators, it seemed like they
+
+427
+00:38:01,867 --> 00:38:06,049
+tried to Austin Powers the whole choreography
+as much as they could in that they were trying
+
+428
+00:38:06,089 --> 00:38:10,831
+to hide her exposed bits for as long as they
+could. But at some point they just said, fuck
+
+429
+00:38:10,871 --> 00:38:15,392
+it, and just decided to blur everything. Right.
+And just let it in full view of the camera.
+
+430
+00:38:15,492 --> 00:38:18,582
+I thought that was pretty interesting why they
+just didn't do that from the get go. But I
+
+431
+00:38:18,823 --> 00:38:22,476
+actually think it would have been more funny
+for them to continue the kind of Austin powersing
+
+432
+00:38:22,717 --> 00:38:25,025
+of the nudity within the fight. That's fair.
+
+433
+00:38:32,366 --> 00:38:38,028
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+434
+00:38:38,048 --> 00:38:43,770
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+435
+00:38:43,831 --> 00:38:49,533
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+436
+00:38:52,194 --> 00:38:58,280
+Titans Smash every Tuesday, Max Destruction,
+where TV and action heroes battle every Wednesday,
+
+437
+00:38:58,840 --> 00:39:04,766
+and Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+438
+00:39:04,786 --> 00:39:10,492
+the matches and, armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+439
+00:39:11,033 --> 00:39:15,297
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+440
+00:39:19,647 --> 00:39:26,192
+Moving on to our story highlights, the first
+episode was titled, Pilot Hell Yeah! With the
+
+441
+00:39:26,232 --> 00:39:31,697
+anti-life equation in his possession, Lex Luthor
+reluctantly hires Kite Man as an aerial spy
+
+442
+00:39:31,737 --> 00:39:36,361
+to guard the Legion of Doom against the Justice
+League due to the Legion's flying villains
+
+443
+00:39:36,401 --> 00:39:41,986
+being unavailable. Kite Man fails at his task,
+so Luthor takes revenge by attempting to buy
+
+444
+00:39:42,046 --> 00:39:48,655
+Kite Man's hangout, Noonan's Bar, for $10 million.
+Kite Man and his girlfriend Golden Glider strive
+
+445
+00:39:48,695 --> 00:39:53,660
+to raise the money first, but are unable to
+borrow it from anyone. Harley Quinn and Poison
+
+446
+00:39:53,780 --> 00:39:59,004
+Ivy advise the two to rob from villains worse
+than them. With help from former Legion member
+
+447
+00:39:59,105 --> 00:40:04,389
+Bane, the group attack the mansion of Kite Man's
+father, Daryl, who willingly surrenders his
+
+448
+00:40:04,429 --> 00:40:10,518
+money as a reward for Kite Man finally standing
+up to him. Luther's revenge is later revealed
+
+449
+00:40:10,618 --> 00:40:15,940
+to be a deception so that he can hide the anti-life
+equation in Nunein's freezer, unaware that
+
+450
+00:40:16,020 --> 00:40:20,282
+Darkseid is also on the hunt for it. Do you
+think they did Sinestro dirty in this episode?
+
+451
+00:40:20,702 --> 00:40:26,104
+They do so many villains dirty in the Harley
+Quinn series and this show. I was not happy
+
+452
+00:40:26,124 --> 00:40:31,827
+with what they did to Sinestro. I was like,
+okay, really Lex Luthor? I guess. I thought
+
+453
+00:40:31,867 --> 00:40:36,228
+that Kite Man's dad, Daryl, giving him the money,
+I thought there was going to be some kind of
+
+454
+00:40:36,308 --> 00:40:40,811
+catch to it or something like that. He was going
+to reveal like, This is your inheritance I'm
+
+455
+00:40:40,851 --> 00:40:44,194
+giving it to you now, don't ask me for anything
+else in the future or something like that.
+
+456
+00:40:44,234 --> 00:40:49,539
+But the way he gave it to him was actually pretty
+earnest, which surprised me considering how
+
+457
+00:40:49,659 --> 00:40:54,924
+he was kind of a big douchebag to his son. Yeah,
+I think it was meant to be funny. I actually
+
+458
+00:40:54,944 --> 00:40:59,608
+think the show gets funnier as it goes. These
+first few episodes I didn't think were that
+
+459
+00:40:59,748 --> 00:41:03,391
+great. Yeah, it was kind of weird the way he
+just kind of gave it to him. I will say the
+
+460
+00:41:03,431 --> 00:41:08,739
+funniest part of this episode I thought. was
+actually a setup for a gag that was recurring
+
+461
+00:41:08,759 --> 00:41:16,702
+throughout the rest of the season when Moe Doubles
+was shot. And so his conjoined twin brother
+
+462
+00:41:16,762 --> 00:41:21,544
+is just like walking around with his dead brother's
+head right next to him. Just like totally aloof.
+
+463
+00:41:21,584 --> 00:41:26,306
+Like it's not even a big thing. Yeah, that was
+hilarious. I love that. Episode two was titled
+
+464
+00:41:26,726 --> 00:41:32,008
+Grand Reopening. Hell yeah. While preparing
+for Noonan's grand reopening, Kite Man hires
+
+465
+00:41:32,028 --> 00:41:37,023
+Darkseid's entitled goddaughter Malice. as a
+server despite Glider wanting to hire Bane
+
+466
+00:41:37,063 --> 00:41:41,885
+for the job. Meanwhile, Kite Man grows desperate
+for Daryl to respond to his invite to the event.
+
+467
+00:41:42,405 --> 00:41:47,727
+Displeased with Malice's attitude, Glider invites
+Luthor, among other notable Legion members,
+
+468
+00:41:47,787 --> 00:41:53,110
+to the party, unaware that Luthor is throwing
+his own party to ensure Nuenans stays irrelevant.
+
+469
+00:41:53,570 --> 00:41:59,292
+The latter event is subsequently ruined by Malice's
+cat Cheshire, who escapes and temporarily becomes
+
+470
+00:41:59,352 --> 00:42:05,130
+kaiju sized after eating several civilians.
+unintentionally drawing attention to Noonans.
+
+471
+00:42:05,430 --> 00:42:10,272
+After realizing that he should focus more on
+impressing people who actually like him, Kite
+
+472
+00:42:10,292 --> 00:42:15,633
+Man fires Malice, but Glider promotes her to
+social media manager to make Darkseid happy
+
+473
+00:42:15,733 --> 00:42:21,935
+while Bane takes a job as bouncer. Elsewhere,
+a goon named Gus takes the Queen of Fables
+
+474
+00:42:21,975 --> 00:42:27,137
+head in as his kindergartner's class pet where
+she is forced to entertain his students before
+
+475
+00:42:27,177 --> 00:42:32,326
+stealing the body of one boy's mother after
+being taken home. Now, I didn't know who Malice
+
+476
+00:42:32,366 --> 00:42:37,849
+was when watching the show, so I wanted to make
+sure that I looked her up and she looks nothing
+
+477
+00:42:37,889 --> 00:42:43,112
+like her adaptation in the show. Yes, another
+one of those instances of the Quinnverse really
+
+478
+00:42:43,152 --> 00:42:48,576
+doing a decent job of adapting the character
+from the comics. In the comics, Malice is much
+
+479
+00:42:48,636 --> 00:42:52,818
+more like Baby Doll or Alice, and I think that
+would have just been way too much if they had
+
+480
+00:42:52,858 --> 00:42:56,660
+done that with her character. I really like
+what they did with Malice. Who is she related
+
+481
+00:42:56,700 --> 00:43:03,392
+to on Apocalypse? I have no idea who that is.
+Okay. Yeah, he's like this Monocle general
+
+482
+00:43:03,432 --> 00:43:10,136
+type guy, kind of like Baron Shucker in Marvel.
+Oh. Moving on to episode three titled, Villigans.
+
+483
+00:43:10,296 --> 00:43:15,760
+Hell yeah. Villigans, a themed chain restaurant
+opens across the street from the bar, threatening
+
+484
+00:43:15,860 --> 00:43:21,384
+Newton's business. Meanwhile, Kite Man feels
+that he is not moving fast enough in his relationship
+
+485
+00:43:21,404 --> 00:43:26,434
+with Glider and asks if they can move in together.
+though she avoids the subject upon noticing
+
+486
+00:43:26,474 --> 00:43:31,156
+that he found her secret relationship spreadsheet
+on her computer. Kite Man tries to reignite
+
+487
+00:43:31,176 --> 00:43:36,438
+their bond by discovering Villigan's intentions,
+but proves reluctant to kill the manager as
+
+488
+00:43:36,478 --> 00:43:42,221
+he has never killed before. Meanwhile, Glider
+accepts Villigan's offer for a free spa day
+
+489
+00:43:42,501 --> 00:43:47,283
+with the Queen and Malice. During this, she
+confesses that she loves Kite Man and has been
+
+490
+00:43:47,323 --> 00:43:51,985
+ready to move in with him, but is afraid that
+she might kill him due to her unstable powers.
+
+491
+00:43:52,465 --> 00:43:58,403
+The group later learn they stumbled onto a deathtrap
+owned by Babydoll, who reveals her intent to
+
+492
+00:43:58,443 --> 00:44:04,104
+kill Kite Man and destroy Nunes with a rigged
+gift basket. However, Kite Man throws the basket
+
+493
+00:44:04,144 --> 00:44:09,486
+at the last second, destroying Villigans. Kite
+Man and Glider later reconcile and agree to
+
+494
+00:44:09,526 --> 00:44:15,928
+move in together. I thought one of the best
+gags in the entire season was how Bane started
+
+495
+00:44:15,968 --> 00:44:22,009
+working for Villigans just by going there and
+seeing how poor of a service the costumed Bane
+
+496
+00:44:22,049 --> 00:44:30,789
+there was giving. You're giving Bane a bad name.
+He always finds himself in like the most embarrassing
+
+497
+00:44:30,869 --> 00:44:36,571
+situations, but he just has like the best heart
+about it. So he just kind of always has to
+
+498
+00:44:37,091 --> 00:44:41,733
+deal with whatever is thrown at him. He's a
+great character. Episode four was titled Portal
+
+499
+00:44:41,753 --> 00:44:47,536
+Potty. Hell, yeah. While moving above Noonan's,
+Kiteman notices the lack of photos from Glider's
+
+500
+00:44:47,576 --> 00:44:53,086
+youth, but she refuses to discuss her background
+with him. Meanwhile, Bane accidentally travels
+
+501
+00:44:53,106 --> 00:44:58,949
+back to 1986 after defecating in the apartment's
+toilet, where he falls in love with Glider's
+
+502
+00:44:59,009 --> 00:45:04,632
+mother, Rebecca Chen. Through Glider's brother,
+Captain Cold, Kite Man learns their alcoholic,
+
+503
+00:45:04,692 --> 00:45:10,275
+bickering parents frequented Newnans in 1986,
+which is where Glider accidentally killed them
+
+504
+00:45:10,356 --> 00:45:15,038
+upon using her powers for the first time. After
+falling out with Glider, Kite Man travels back
+
+505
+00:45:15,058 --> 00:45:22,410
+in time to prevent her parents' deaths, with
+Glider following soon after. Glider's father,
+
+506
+00:45:22,630 --> 00:45:27,475
+Lawrence Snart, is killed in an explosion. Glider
+ultimately decides to focus on the present
+
+507
+00:45:27,535 --> 00:45:33,220
+instead of the past, only to discover that Rebecca
+is still not around in the present. Unbeknownst
+
+508
+00:45:33,360 --> 00:45:38,405
+to Glider, Rebecca ran away following Lawrence's
+death before being trapped in a jail cell and
+
+509
+00:45:38,425 --> 00:45:44,611
+gassed by an unknown figure. A few questions
+here. Who is Rebecca? Because she was very
+
+510
+00:45:44,671 --> 00:45:48,838
+prominent this season and I don't know if she's
+from the comics at all. She's actually not
+
+511
+00:45:48,898 --> 00:45:54,100
+a major character in the comics. If anything,
+the Snart Father is more of a major character
+
+512
+00:45:54,141 --> 00:45:59,143
+for his involvement in the origin of Captain
+Cold. Well, by the end of the show, Rebecca
+
+513
+00:45:59,203 --> 00:46:04,286
+became like the evil queen in Fairy Tail Land
+or something like that. Yeah, they made her
+
+514
+00:46:04,326 --> 00:46:09,988
+an evil fairy godmother, but like, that's not
+really a character in DC. So I'm not sure what
+
+515
+00:46:10,008 --> 00:46:14,910
+that's gonna lead to. How did you feel about...
+the year that they went back to being 1986,
+
+516
+00:46:15,790 --> 00:46:21,752
+because that would mean that Kite Man and Glider
+were around their mid 40s by this point in
+
+517
+00:46:21,772 --> 00:46:26,593
+the present day. Doesn't that seem a little
+bit old for them? They definitely look younger
+
+518
+00:46:26,613 --> 00:46:32,535
+than that, I would say. Just makes me feel like
+I need to get my ass to the gym. Yeah, I know.
+
+519
+00:46:32,555 --> 00:46:36,976
+I'm starting to think that my potential superhero
+days are over. But, you know, not if Golden
+
+520
+00:46:36,996 --> 00:46:43,346
+Glider's over here kicking ass at age 44. Right?
+On ice skates, it's wild. Episode 5 was titled
+
+521
+00:46:43,546 --> 00:46:48,367
+Prison Break. Hell yeah. After returning to
+the present, Bane learns Rebecca was imprisoned
+
+522
+00:46:48,447 --> 00:46:53,989
+in his old home, The Pit. He, Kite Man, and
+Glider head there, where they discover Villigan's
+
+523
+00:46:54,109 --> 00:46:59,050
+owner, Helen Villigan, purchased the pit from
+the League of Shadows, and is using brainwashed
+
+524
+00:46:59,110 --> 00:47:04,912
+prisoners as slave labor. Braving the workers
+and various death traps, the trio rescue Rebecca
+
+525
+00:47:05,012 --> 00:47:10,713
+and bring her back safely. When she awakens
+later, however, Rebecca is not enthused to
+
+526
+00:47:10,753 --> 00:47:16,276
+see Glider. Meanwhile, Malice closes Nounen's
+early to prepare for the arrival of her immortal
+
+527
+00:47:16,336 --> 00:47:21,219
+boyfriend, despite the presence of a health
+inspector. She asks everyone present to pretend
+
+528
+00:47:21,259 --> 00:47:25,922
+she does not work there, but the boyfriend kills
+several patrons, leading to her telling the
+
+529
+00:47:25,962 --> 00:47:31,146
+truth and him dumping her. This causes her to
+feel emotions for the first time. Through her
+
+530
+00:47:31,246 --> 00:47:37,409
+actions, Nounen's receives a D- from the inspector,
+narrowly saving it from being closed down.
+
+531
+00:47:37,854 --> 00:47:41,975
+I'm kind of mixed on this episode. I really
+liked the stuff. I thought that was hilarious,
+
+532
+00:47:42,075 --> 00:47:46,836
+mainly because, you know, Bane played a big
+part of it and Bane is just fantastic. I hated
+
+533
+00:47:46,936 --> 00:47:51,498
+the whole Malice's boyfriend stuff and the health
+inspector stuff. It was it was dumb. Like,
+
+534
+00:47:51,638 --> 00:47:56,959
+why was the health inspector immortal? It was
+just out of nowhere. It was filler, of course.
+
+535
+00:47:57,379 --> 00:48:03,341
+I want to talk about I want to go back to Glider's
+mom, Glider's mom, Rebecca, because a big portion
+
+536
+00:48:03,361 --> 00:48:07,659
+of the plot revolves around her. And we know
+she didn't want to be a mom, that was her whole
+
+537
+00:48:07,679 --> 00:48:12,803
+thing, but we never really got a sense of why
+she didn't want to be a mom and how that affected
+
+538
+00:48:12,903 --> 00:48:18,347
+Glider. There was no real closure there in terms
+of that revelation and Glider's feelings on
+
+539
+00:48:18,387 --> 00:48:23,350
+it. Well, sort of. She told Glider straight
+up that she never wanted to be a mom. But you
+
+540
+00:48:23,390 --> 00:48:27,113
+think there would be more of an emotional fallout
+from that. They kind of just moved past it
+
+541
+00:48:27,153 --> 00:48:31,897
+right away. That's fair. I think I would be
+much more emotionally distraught if my mother
+
+542
+00:48:31,937 --> 00:48:37,203
+told me that. But... You know, Rebecca was largely
+out of the picture during that portion of this
+
+543
+00:48:37,223 --> 00:48:42,866
+season to begin with, so it didn't really bother
+me that much. It was a non-satisfying side
+
+544
+00:48:42,906 --> 00:48:49,008
+story, for sure. I would agree with that, yeah.
+Episode 6 is titled Mother Daughter Day. Hell
+
+545
+00:48:49,028 --> 00:48:54,391
+yeah. Glider attempts to reconcile with Rebecca
+via a mother daughter day, with Malice tagging
+
+546
+00:48:54,451 --> 00:49:00,033
+along at Rebecca's insistence. Before leaving,
+Rebecca tells Kite Man that he is not right
+
+547
+00:49:00,053 --> 00:49:05,525
+for her daughter, given his lack of prospects
+and powers, which gets to him. Rebecca later
+
+548
+00:49:05,605 --> 00:49:10,528
+abandons Glider, confessing that she never wanted
+a child and left because she did not want to
+
+549
+00:49:10,548 --> 00:49:16,192
+be killed by Glider's powers like Lawrence.
+Angered, Glider tricks her into using the portal
+
+550
+00:49:16,232 --> 00:49:23,318
+potty to travel back to 1986. Meanwhile, despite
+his crush on Rebecca, Bane reunites with Betty,
+
+551
+00:49:23,478 --> 00:49:28,741
+an old fling from Valentine's Day who convinces
+him to give the relationship another chance.
+
+552
+00:49:29,134 --> 00:49:34,497
+Concurrently, at the suggestion of Noonan's
+former owner, Sean Noonan, Kite Man separately
+
+553
+00:49:34,597 --> 00:49:40,601
+meets with Etchigan and Helen to get superpowers,
+but is told by her that he must give up his
+
+554
+00:49:40,641 --> 00:49:46,906
+kite in exchange. He agrees and becomes Beast
+Mode, gaining the ability to telekinetically
+
+555
+00:49:46,986 --> 00:49:53,110
+bully others, which costs him his relationship
+with Glider. Satisfied that her plan is working,
+
+556
+00:49:53,570 --> 00:49:55,411
+Helen burns his old kite.
+
+557
+00:49:58,882 --> 00:50:04,704
+kind of switched to the side of Kite Man. We
+see her throw the kite into the fire and she's
+
+558
+00:50:04,744 --> 00:50:09,406
+laughing, but we never see her pull it out of
+the fire when she gives the kite back to him
+
+559
+00:50:09,446 --> 00:50:15,428
+later on in the season. It feels kind of cheap
+that we never saw that transformation. It kind
+
+560
+00:50:15,448 --> 00:50:18,990
+of seems like the writers wrote themselves into
+a corner and they didn't really know what to
+
+561
+00:50:19,030 --> 00:50:23,472
+do with the Helen Villigan character, so they
+kind of just switched up her motivations a
+
+562
+00:50:23,512 --> 00:50:28,013
+little bit in order to make Darkseid the big
+bad guy. Right. Yeah, yeah, it does feel that
+
+563
+00:50:28,033 --> 00:50:32,863
+way. I wonder why he had to give up the kite
+to get the douchebag powers though. In a way
+
+564
+00:50:32,883 --> 00:50:37,464
+it was almost kind of like giving up his soul.
+He loved kites ever since he was a young kid,
+
+565
+00:50:37,904 --> 00:50:42,946
+so for him to give up the things that he loves
+as a way to gain powers, he was essentially
+
+566
+00:50:42,986 --> 00:50:47,167
+making a deal with the devil. Right, but why
+did Helen need him to get rid of the kite?
+
+567
+00:50:47,207 --> 00:50:51,748
+It was like she was just fucking with him. Because
+she knew it was the way that he was traditionally
+
+568
+00:50:51,848 --> 00:50:56,678
+most effective, and for the purposes that she
+needed him for, he didn't need the kite. I
+
+569
+00:50:56,698 --> 00:51:01,561
+was really glad to see Etrigan and Betty from
+the Valentine's Day special. I totally forgot
+
+570
+00:51:01,601 --> 00:51:06,224
+about them, so that was a nice reminder. I wish
+Etrigan made more appearances. Betty and Bane
+
+571
+00:51:06,424 --> 00:51:10,347
+are meant to be together. I don't know what
+he's doing around with this Rebecca girl. Right?
+
+572
+00:51:10,567 --> 00:51:16,591
+That's what I'm saying. Episode 7 was titled
+Sexiest Villain Alive. Hell yeah! With Bane,
+
+573
+00:51:16,631 --> 00:51:21,915
+Luther, and Beast mode in the running for Sexiest
+Villain Alive, Malice upgrades Bane's wardrobe
+
+574
+00:51:21,935 --> 00:51:29,159
+to increase his chances. containing the anti-life
+equation that she found in Nunegan's freezer,
+
+575
+00:51:29,439 --> 00:51:34,561
+which she thinks is an accessory. Meanwhile,
+Glider deduces that Helen can change Beast
+
+576
+00:51:34,621 --> 00:51:39,303
+Mode back into Kite Man, so she nabs Helen's
+power controller with the help of Clayface,
+
+577
+00:51:39,663 --> 00:51:44,986
+but only the real Helen's eyes can bypass the
+security. At the awards ceremony, the Queen
+
+578
+00:51:45,086 --> 00:51:50,468
+and Moe bring Toyman and Insect Queen as dates,
+with the latter luring Moe back to her hive
+
+579
+00:51:50,508 --> 00:51:55,439
+to kill him. The Queen and Toyman follow to
+warn him, only to stumble across the Queen's
+
+580
+00:51:55,559 --> 00:52:01,444
+old body preserved in honey. Helen has the contest
+rigged in Beast Mode's favor, ordering him
+
+581
+00:52:01,464 --> 00:52:06,769
+to distract Luther with his insulting victory
+speech while her Hummingbird drones hunt down
+
+582
+00:52:06,809 --> 00:52:12,133
+the equation, which Luther has also located.
+The briefcase eventually lands in the possession
+
+583
+00:52:12,193 --> 00:52:17,858
+of Glider, who merges with the equation and
+finally gains control of her powers. She forces
+
+584
+00:52:17,878 --> 00:52:22,931
+Helen to let her access the power controller,
+restoring Kite Man, and the two mend their
+
+585
+00:52:22,971 --> 00:52:27,815
+relationship. I guess I want to know how Helen
+knew about the anti-life equation, because
+
+586
+00:52:27,835 --> 00:52:31,598
+that kind of seemed to come out of nowhere,
+where suddenly all these villain characters
+
+587
+00:52:31,638 --> 00:52:35,421
+are going after the same thing. Dude, Helen
+knows about everything in the same way that
+
+588
+00:52:35,521 --> 00:52:41,547
+Google does. Or Jeff Bezos. Right, yeah. My
+favorite moment in this episode, I think, was
+
+589
+00:52:41,647 --> 00:52:46,751
+when the Queen of Fables asked Toy Man if he
+had a car, and he was like, sort of, and then
+
+590
+00:52:46,811 --> 00:52:51,439
+the next thing we see him like carrying her
+head in a wagon. I don't know why. I thought
+
+591
+00:52:51,459 --> 00:52:55,482
+that was hilarious. I was kind of sad that we
+didn't see a battle between Queen of Fables
+
+592
+00:52:55,722 --> 00:53:00,686
+in her new body and the Hive Queen. It was just
+mentioned as something that happened off screen.
+
+593
+00:53:01,147 --> 00:53:06,571
+They should have shown that. Yeah, that was
+weird. I love how enamored Kite Man's dad is
+
+594
+00:53:06,651 --> 00:53:12,376
+with this new version of him as Beast Mode.
+Yeah, it was funny when the dad was like, let's
+
+595
+00:53:12,396 --> 00:53:17,200
+go to a titty bar, son. And Beast Mode was like,
+I am the titty bar. And his dad was like, I
+
+596
+00:53:17,220 --> 00:53:19,301
+don't know what that means, but I've never been
+more proud.
+
+597
+00:53:22,447 --> 00:53:28,431
+Everything was beast mode, I don't know why,
+I just loved it. Episode 8 was titled, Just
+
+598
+00:53:28,571 --> 00:53:33,614
+Right. Hell yeah. Kite Man and Glider are on
+the run after obtaining the Anti-Life Equation
+
+599
+00:53:33,955 --> 00:53:38,838
+and are allowed to hide out for one night at
+a resort owned by Frank the Plant. Given his
+
+600
+00:53:38,898 --> 00:53:43,361
+recent experience with a superpower, Kite Man
+is concerned that the equation is corrupting
+
+601
+00:53:43,381 --> 00:53:48,745
+his girlfriend and wants to get rid of it, especially
+after she attacks random civilians out of paranoia
+
+602
+00:53:48,865 --> 00:53:53,937
+and insecurity. Glider is faced with visions
+of Rebecca, who suggests that they can rule
+
+603
+00:53:53,977 --> 00:53:59,122
+the world together now that she has control
+over her powers. Meanwhile, Bane is tasked
+
+604
+00:53:59,162 --> 00:54:04,347
+with babysitting and escaped Goldilocks while
+the Queen is out enjoying her old body, though
+
+605
+00:54:04,387 --> 00:54:09,772
+Goldilocks' personality gets on everyone's nerves.
+Bane takes Goldilocks to a meeting between
+
+606
+00:54:09,812 --> 00:54:14,317
+him, Lex Luthor, and Helen Villigan, who have
+temporarily joined forces to track down the
+
+607
+00:54:14,417 --> 00:54:19,103
+equation. Though Goldilocks ruins their talk,
+Bane decides that he should learn from her
+
+608
+00:54:19,143 --> 00:54:23,924
+high standards and leaves, though the equation's
+location is outed thanks to a call from Frank.
+
+609
+00:54:24,224 --> 00:54:29,145
+Helen sends an army of robots to get the equation
+back, though at Kite Man's insistence, Gleider
+
+610
+00:54:29,185 --> 00:54:34,907
+tosses it into a nearby nuclear plant, destroying
+the robots as well as the resort and restoring
+
+611
+00:54:34,927 --> 00:54:40,588
+Gleider's personality. Ultimately, however,
+the equation remains intact even after the
+
+612
+00:54:40,628 --> 00:54:46,459
+explosion. I loved the dynamic between Bane
+and Goldilocks. Like if they made a Bane show,
+
+613
+00:54:46,539 --> 00:54:51,983
+I would want Goldilocks to be like his sidekick.
+Or at least a recurring character from time
+
+614
+00:54:52,023 --> 00:54:56,986
+to time of someone that he's supposed to take
+care of. Episode 9 was titled, To Get to the
+
+615
+00:54:57,086 --> 00:55:02,390
+Other Side. Hell yeah. To keep the anti-life
+equation from Golden Glider, Luther, and Villigan,
+
+616
+00:55:02,770 --> 00:55:07,314
+Kite Man steals a chicken delivery truck and
+keeps the briefcase in the back, which mutates
+
+617
+00:55:07,354 --> 00:55:13,106
+one of the chickens into a kaiju-sized carnivore.
+Meanwhile, Malice is visited by Darkseid. who
+
+618
+00:55:13,186 --> 00:55:18,067
+offers to let her serve him an apocalypse for
+her dedication at Nuenen's, though she is conflicted
+
+619
+00:55:18,107 --> 00:55:23,408
+about the proposal. When Sixpack lets slip that
+Kite Man and Glider have the equation, she
+
+620
+00:55:23,448 --> 00:55:27,870
+tells him that Luther actually has it, which
+adds to her guilt. Darkseid learns that he
+
+621
+00:55:27,890 --> 00:55:33,311
+was misled and sets out to find the equation
+himself, unaware that Luther plans to recapture
+
+622
+00:55:33,351 --> 00:55:38,873
+it by holding Nuenen at gunpoint to lure Kite
+Man back home. His attempt is thwarted by the
+
+623
+00:55:38,913 --> 00:55:44,504
+rest of the bar gang, including Bane. who unknowingly
+sends Goldilocks to the portal potty to shield
+
+624
+00:55:44,544 --> 00:55:49,688
+her from the violence. After Cheshire fails
+to subdue the giant chicken, Glider and Kite-Man
+
+625
+00:55:49,728 --> 00:55:55,613
+defeat it by making it cough up the briefcase,
+dying to keep holding onto it. Back on Apocalypse,
+
+626
+00:55:56,074 --> 00:56:01,118
+Darkseid, determined to complete his search
+for the equation, decides to confront Malice
+
+627
+00:56:01,138 --> 00:56:06,082
+about the truth using a tracking app that came
+with Cheshire. I didn't love this episode.
+
+628
+00:56:06,502 --> 00:56:11,562
+The chicken largely felt like filler. Absolutely.
+And I don't know if the... payoff was quite
+
+629
+00:56:11,582 --> 00:56:16,783
+there. No, it was definitely just, you know,
+a stall tactic to get through another episode
+
+630
+00:56:16,903 --> 00:56:21,664
+for them to go right back to Noonan's. I also
+thought the whole thing with them being on
+
+631
+00:56:21,705 --> 00:56:26,226
+the run just felt like filler. We haven't really
+talked about the look of the equation yet.
+
+632
+00:56:26,286 --> 00:56:30,867
+I love that they made it like the Pulp Fiction
+briefcase. Whenever I watch Pulp Fiction now,
+
+633
+00:56:31,127 --> 00:56:35,368
+yeah, I'm just going to think that, oh, that's
+the anti-life equation. Yeah, that's my headcanon
+
+634
+00:56:35,388 --> 00:56:41,542
+now. Moving on to the final episode titled Hero
+Stuff. Hell yeah. Helen captures Kite Man and
+
+635
+00:56:41,562 --> 00:56:46,363
+Glider and informs the couple that according
+to her algorithm, the world population would
+
+636
+00:56:46,403 --> 00:56:52,025
+be fully destroyed no matter who handles the
+anti-life equation except for Kite Man. They
+
+637
+00:56:52,045 --> 00:56:56,846
+are then spared since Helen wants their help
+to keep her existing business. The couple hold
+
+638
+00:56:56,886 --> 00:57:01,788
+a meeting with those in Nuenens and decide that
+Kite Man should commit suicide after absorbing
+
+639
+00:57:01,828 --> 00:57:07,569
+the equation like the Exorcist and Glider would
+be the Mercy Killer. As they get ready on the
+
+640
+00:57:07,629 --> 00:57:12,068
+roof of Nuenens, Lex Luthor tracks down the
+couple and arrives with the Legion of Doom.
+
+641
+00:57:12,388 --> 00:57:16,951
+Their friends defend them from the attack until
+Darkseid shows up after learning Kiteman's
+
+642
+00:57:16,991 --> 00:57:23,275
+plan for Malice. Darkseid almost takes the equation,
+but Helen's robots and Glider delay him until
+
+643
+00:57:23,335 --> 00:57:28,639
+Rebecca, who traveled back to the present upon
+hearing stories from Goldilocks, grabs the
+
+644
+00:57:28,699 --> 00:57:33,722
+equation and jumps inside the Queen of Fairy
+Tales book. The book is then taken far away
+
+645
+00:57:33,762 --> 00:57:39,370
+by Martian Manhunter, who has been disguised
+as Gus since the group meeting. Lex retreats
+
+646
+00:57:39,530 --> 00:57:44,791
+sadly while Darkseid and Helen make peace with
+Nuenen's group. As Kite Man and Glider enjoy
+
+647
+00:57:44,811 --> 00:57:49,913
+the blue skies ahead, Rebecca has killed off
+the current evil fairy godmother and becomes
+
+648
+00:57:49,953 --> 00:57:55,534
+the new evil fairy godmother with the anti-life
+equation. As she prepares for a future invasion
+
+649
+00:57:55,854 --> 00:58:02,056
+with the demonized storybook characters, Brainiac's
+skullship approaches Earth from outer space.
+
+650
+00:58:02,136 --> 00:58:07,530
+And now I'm wondering if they're gonna address
+Brainiac's arrival on Earth in the Harley or
+
+651
+00:58:07,570 --> 00:58:11,452
+if they're just gonna completely ignore it.
+Yeah, is that a set up for season two of Kite
+
+652
+00:58:11,472 --> 00:58:17,555
+Man or is that set up for season five of Harley
+Quinn? Not sure. I loved all the references
+
+653
+00:58:17,675 --> 00:58:21,918
+to The Exorcist. Like it came up so much more
+than I thought it would, which is a spoiler
+
+654
+00:58:21,938 --> 00:58:25,740
+for The Exorcist for anyone who hasn't seen
+it, by the way. I like how they turned it into
+
+655
+00:58:25,780 --> 00:58:31,704
+a verb where to exorcist yourself means to get
+possessed by something and then kill yourself
+
+656
+00:58:31,724 --> 00:58:36,210
+to kill it. It's very convoluted, but it's kind
+of funny the way they do it. I even love how
+
+657
+00:58:36,290 --> 00:58:42,014
+Darkseid knew about what happens in the movie.
+Yeah. That's great. I really liked this end
+
+658
+00:58:42,034 --> 00:58:46,598
+battle. I thought it was cool to see the Legion
+of Doom go up against Nuenen's bar people.
+
+659
+00:58:46,838 --> 00:58:50,421
+I thought it was a well planned out fight even
+though it was fairly brief. I also liked this
+
+660
+00:58:50,481 --> 00:58:55,545
+episode overall just as a conclusion for season
+one. Again, I'm not sure how the concluding
+
+661
+00:58:55,865 --> 00:59:00,588
+moments will set up future seasons, but it was
+nice to see Kaiman and Glider just kind of
+
+662
+00:59:00,809 --> 00:59:05,923
+sail off into the sunset. I thought it was kind
+of weird how Helen Villigan all of a sudden
+
+663
+00:59:05,943 --> 00:59:10,426
+had these simulation scenarios that she was
+running, kind of like a Monte Carlo simulator
+
+664
+00:59:10,446 --> 00:59:14,768
+or something like that we use here. Yeah. But
+she didn't have access to that information
+
+665
+00:59:14,808 --> 00:59:18,810
+in previous episodes, so it was just kind of
+convenient that they introduced that idea in
+
+666
+00:59:18,830 --> 00:59:24,353
+this episode. Yeah. I am almost wondering if
+Lance Riddick's death kind of threw a wrench
+
+667
+00:59:24,434 --> 00:59:28,216
+in everything, because he was the voice of Lex
+Luthor for a majority of the series, except
+
+668
+00:59:28,236 --> 00:59:32,494
+for the last two episodes. You know, I thought
+that exact same thing. Because... once they
+
+669
+00:59:32,514 --> 00:59:38,601
+got the new voice in there, his role seemed
+substantially lessened. Oh, for sure, yeah.
+
+670
+00:59:39,441 --> 00:59:45,188
+And I'll say that the new voice wasn't nearly
+as good. I agree. Not bad, but yeah, it just
+
+671
+00:59:45,228 --> 00:59:50,473
+wasn't the same. Noticeably so. But that does
+it for the show. Overall, I had a good time
+
+672
+00:59:50,493 --> 00:59:55,582
+with season one of Kite Man, you know, with
+laugh out load moments. raunchy romance and
+
+673
+00:59:55,642 --> 01:00:01,545
+high-flying stakes. It offered an entertaining
+yet all-too-familiar look at Gotham's lovable
+
+674
+01:00:01,585 --> 01:00:07,647
+losers. It didn't break ground in the same way
+that I feel the Harley Quinn series does with
+
+675
+01:00:07,707 --> 01:00:12,709
+its often introspective episodes. There's nothing
+like that in Kite Man. I do think the show
+
+676
+01:00:12,749 --> 01:00:18,872
+has promise, though not as much promise as what
+the show could have been if it was something
+
+677
+01:00:18,952 --> 01:00:24,418
+slightly different and slightly more unique,
+I would say. I'm giving it 3 out of 5 stars,
+
+678
+01:00:24,638 --> 01:00:30,520
+a fresh rating on Rotten Tomatoes, though I
+would mostly just recommend this to fans of
+
+679
+01:00:30,560 --> 01:00:34,761
+the Harley Quinn show. Yeah, I would agree.
+The show doesn't really hold up to the main
+
+680
+01:00:34,801 --> 01:00:39,903
+Harley Quinn series, so it shouldn't be rated
+as high as what we did for those reviews. We
+
+681
+01:00:39,943 --> 01:00:43,604
+gave the Valentine's Day special 3 stars, and
+I think this holds up with that because I enjoyed
+
+682
+01:00:43,644 --> 01:00:48,205
+the Valentine's Day special for Harley Quinn.
+And yeah, I think ultimately I would also recommend
+
+683
+01:00:48,225 --> 01:00:52,674
+the show, but again, to certain people. but
+any sort of fan of comedy I think would enjoy
+
+684
+01:00:52,714 --> 01:00:59,397
+it. Are you excited for a season two? Not really,
+no. I could actually take it or leave it. I
+
+685
+01:00:59,417 --> 01:01:04,059
+am excited for Harley Quinn season five though.
+So I think that says a lot. Yeah, yeah, I don't
+
+686
+01:01:04,079 --> 01:01:07,700
+think we have a release date for that yet. I
+could be wrong, but I am looking forward to
+
+687
+01:01:07,720 --> 01:01:14,562
+that as well. But that does it for this review.
+AJ9K, help close us out. Thanks for listening
+
+688
+01:01:14,582 --> 01:01:20,147
+to Dynamic duel. Visit the show's website at
+dynamicduel.com and follow us on Instagram
+
+689
+01:01:20,207 --> 01:01:26,092
+at dynamicduelpodcast. You can support the show
+on Patreon at patreon.com slash dynamicduel
+
+690
+01:01:26,212 --> 01:01:30,436
+and joining a tier that works for you, or by
+rating and reviewing Dynamic duel on Apple
+
+691
+01:01:30,456 --> 01:01:36,081
+Podcasts, Spotify, Podchaser or on our website.
+Don't forget to listen to the other shows in
+
+692
+01:01:36,101 --> 01:01:41,625
+the DynaMic Podcast Network, including Max
+Destruction, Senjow World and Console Combat.
+
+693
+01:01:43,294 --> 01:01:49,019
+In our next episode, we will be reviewing the
+only DC theatrical film to come out this year,
+
+694
+01:01:49,519 --> 01:01:53,943
+Joker Folly Ado. I've been looking forward to
+this for a couple years now, ever since it
+
+695
+01:01:53,963 --> 01:01:59,288
+was first announced. I think I might be seeing
+it early at a critics screening, not sure yet.
+
+696
+01:01:59,629 --> 01:02:03,692
+Either way, we'll let you know everything we
+thought about it in our next episode. We want
+
+697
+01:02:03,712 --> 01:02:07,836
+to give a big thanks to our executive producers
+Ken Johnson, John Storosky, Zachary Hepburn,
+
+698
+01:02:07,956 --> 01:02:12,361
+Dustin Belcom, Megan Manson-Geehan. Brendan
+Estergard, Nathaniel Wagner, Levi Yeaton, Austin
+
+699
+01:02:12,381 --> 01:02:18,468
+Wiselowski, AJ Dunkerley, Scott Camacho, Gil
+Camacho, Adam Spies, Andrew Schunk, Dean Molesky,
+
+700
+01:02:18,728 --> 01:02:24,554
+Devin Davis, Joseph Kersing, and Josh Leiner
+for helping make this podcast possible. We'll
+
+701
+01:02:24,574 --> 01:02:27,778
+talk to you guys next week. Up up and away,
+true believers.
+
