@@ -1,0 +1,3382 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,334 --> 00:00:29,335
+And welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,355 --> 00:00:34,416
+the superiority between Marvel and DC by comparing
+their characters and stat-based battle simulations.
+
+4
+00:00:35,036 --> 00:00:42,298
+I'm Marvelous Joe. And I'm his twin brother
+Johnny DC. And in this episode, guys, we are
+
+5
+00:00:42,358 --> 00:00:47,820
+reviewing the only DC film that is going to
+be released in theaters this year, Joker Folie a Deux.
+
+6
+00:00:48,360 --> 00:00:53,801
+And was the movie a colossal waste of time?
+I'm going to say yes. And I'm going to say...
+
+7
+00:00:54,426 --> 00:00:59,327
+I hate you, but damn do I respect your opinion.
+We're gonna talk all about our opinions on
+
+8
+00:00:59,347 --> 00:01:03,168
+this film later on this episode. It'll be a
+spoiler review, so make sure you've seen the
+
+9
+00:01:03,208 --> 00:01:06,869
+film before you listen to us. Or not. I actually
+take that back. Why would you say that? I really
+
+10
+00:01:06,889 --> 00:01:11,270
+don't care. Before we get into the review, we're
+gonna break down the latest comic book movie
+
+11
+00:01:11,310 --> 00:01:14,911
+news to come out this past week, of which there
+was only one news item, and that is that there
+
+12
+00:01:14,971 --> 00:01:20,833
+is a Robin-focused animated film in development
+called Dynamic Duo. Totally ripping us off.
+
+13
+00:01:20,893 --> 00:01:26,959
+We're duel though. D-U-E-L. As always guys,
+we list our segment times in our episode description,
+
+14
+00:01:26,999 --> 00:01:30,862
+so feel free to check out the show notes if
+you want to skip ahead to a particular topic.
+
+15
+00:01:31,342 --> 00:01:35,985
+Our artificially intelligent duel simulator
+AJ9K has a quick message for our listeners,
+
+16
+00:01:36,305 --> 00:01:43,135
+so listen up. Why hello there, do you want even
+more from this podcast? Then become a part
+
+17
+00:01:43,155 --> 00:01:47,917
+of the dynamic duel community on Patreon, where
+you can choose from three tiers. The dynamic
+
+18
+00:01:47,957 --> 00:01:52,379
+two-oh tier gives you access to our Discord
+chat server. The fantastic four tier gives
+
+19
+00:01:52,419 --> 00:01:57,041
+you two bonus episodes each month, and the X-Force
+tier makes you an executive producer of this
+
+20
+00:01:57,061 --> 00:02:02,461
+show. Lastly, The Diner Mike podcast network
+tier lets you create your own podcast using
+
+21
+00:02:02,501 --> 00:02:07,066
+this Monte Carlo simulator. Johnny and Joe will
+help you develop your show, provide graphic
+
+22
+00:02:07,086 --> 00:02:12,431
+support and consultation, and get you simulation
+results. Pitch the twins your ideas via email
+
+23
+00:02:12,491 --> 00:02:18,697
+at dynamicduelpodcast at gmail.com. Check it
+out at patreon.com slash dynamicduel. Pip pip
+
+24
+00:02:18,737 --> 00:02:24,790
+cheerio. Thanks AJ9K and thanks to everyone
+who supports the podcast. Guys, be sure to
+
+25
+00:02:24,830 --> 00:02:29,474
+tune into the other shows in the DynaMic Podcast
+Network this week, including Max Destruction,
+
+26
+00:02:29,874 --> 00:02:34,098
+which pits your favorite action heroes from
+film and television against each other. This
+
+27
+00:02:34,138 --> 00:02:40,283
+week, hosts Scotty and Gilly are breaking down
+a Sting vs. Undertaker matchup. On the Senjoworld
+
+28
+00:02:40,323 --> 00:02:45,027
+podcast, host Zachary Hepburn speculates on
+fights between fan favorite anime and manga
+
+29
+00:02:45,067 --> 00:02:50,931
+characters. Last week, he found out who would
+win between Gridman and Kaiju 8. We teased
+
+30
+00:02:50,971 --> 00:02:57,303
+the episode incorrectly. Zach will find out
+who will win between Muzan from Demon Slayer
+
+31
+00:02:57,703 --> 00:03:03,546
+and Femto from Berserk. And on the Console Combat
+Podcast hosts John and Dean simulate battles
+
+32
+00:03:03,566 --> 00:03:08,648
+between popular video game characters. In yesterday's
+episode, they determined who would win in a
+
+33
+00:03:08,688 --> 00:03:16,631
+fight between Wukong from Black Myth Wukong
+and Asura from Asura's Wrath. Visit dynamicpodcasts.com
+
+34
+00:03:17,251 --> 00:03:22,053
+or click the link in our show notes to listen
+to all of the shows in the DynaMic Podcast
+
+35
+00:03:22,153 --> 00:03:29,037
+Network. But with that out of the way, quick
+to the no prize! A no prize is an award Marvel
+
+36
+00:03:29,097 --> 00:03:34,800
+used to give out to fans. Our version, the dynamic
+duel no prize, is a digital award that we post
+
+37
+00:03:34,840 --> 00:03:39,522
+on Instagram for the person that we feel gave
+the best answer to our question of the week.
+
+38
+00:03:40,023 --> 00:03:45,726
+Last week we asked, what is your theory as to
+what the asterisk means in the Thunderbolts
+
+39
+00:03:45,846 --> 00:03:49,848
+movie title? And we got a few answers. Some
+pretty good theories here. Let's go ahead and
+
+40
+00:03:49,888 --> 00:03:54,343
+run down our honorable mentions as well as the
+no prize winner. Our first honorable mention
+
+41
+00:03:54,403 --> 00:04:00,508
+goes to Mike Williams, who said, Hey gang, this
+is Mike Williams out of St. Louis, Missouri.
+
+42
+00:04:01,269 --> 00:04:06,914
+The asterisk on Thunderbolts movie probably
+means that this is not the real team or they're
+
+43
+00:04:06,934 --> 00:04:14,902
+going to introduce a team at the end of the
+movie. Who knows? So until DC makes a hit movie,
+
+44
+00:04:15,342 --> 00:04:20,775
+make mine Marvel. That is correct. Until DC
+makes a good movie, make mine Marvel. Way to
+
+45
+00:04:20,815 --> 00:04:25,259
+go Mike Williams. That's the sentiment we want
+from all the callers that call in for sure.
+
+46
+00:04:25,539 --> 00:04:30,344
+Why am I not surprised that he's talking about
+movies and not comics? Typical Marvel fan.
+
+47
+00:04:30,984 --> 00:04:35,508
+I think he's right there. So yeah, the primary
+theory regarding the asterisk at the end of
+
+48
+00:04:35,548 --> 00:04:39,072
+the Thunderbolts movie title is that this is
+not the real Thunderbolts team. And that could
+
+49
+00:04:39,112 --> 00:04:43,936
+mean either that the team labeled as the Thunderbolts
+in this film is actually a different team such
+
+50
+00:04:44,096 --> 00:04:48,780
+as the champions. Secret Avengers, Dark Avengers,
+something like that. Or that they are called
+
+51
+00:04:48,800 --> 00:04:53,243
+the Thunderbolts, but it's not like an official
+team title because they're classified. I think
+
+52
+00:04:53,283 --> 00:04:57,226
+either of those options would make sense. Yeah,
+that second option there is what I actually
+
+53
+00:04:57,246 --> 00:05:01,169
+think the asterisk means personally. So great
+answer, Mike Williams. Let's go ahead and move
+
+54
+00:05:01,209 --> 00:05:05,932
+on to our next honorable mention. Scott Camacho,
+who said, Come on, we know what the asterisk
+
+55
+00:05:05,992 --> 00:05:10,235
+is. They're trying to find another subtitle,
+but I'm gonna help them out. It's gonna be
+
+56
+00:05:10,295 --> 00:05:17,455
+called Thunderbolts Red Alert. Why? because
+in the trailer we didn't see Ross. Where is
+
+57
+00:05:17,536 --> 00:05:23,659
+Ross? I mean, I'm pretty sure the name Thunderbolts
+is affiliated with the Red Hulk. So I'm gonna
+
+58
+00:05:23,699 --> 00:05:28,682
+say that it's gonna be a surprise maybe in the
+second trailer that we're gonna see the Red
+
+59
+00:05:28,702 --> 00:05:33,964
+Hulk and it's gonna be Thunderbolts Red Alert.
+Now I would actually be surprised if Harrison
+
+60
+00:05:34,024 --> 00:05:40,468
+Ford made some kind of cameo as a member of
+this team. Though I do think that perhaps one
+
+61
+00:05:40,488 --> 00:05:45,990
+of the reasons the name of the team is classified
+is because it's a team that's sanctioned by
+
+62
+00:05:46,130 --> 00:05:51,452
+Thunderbolt Ross in the same way that the Suicide
+Squad is sanctioned under Amanda Waller. That's
+
+63
+00:05:51,492 --> 00:05:57,073
+possible. I can understand why a lot of people
+think that the Thunderbolts team is somehow
+
+64
+00:05:57,113 --> 00:06:01,615
+affiliated with President Thunderbolt Ross.
+That's actually not the case from the comics.
+
+65
+00:06:01,835 --> 00:06:05,916
+Thunderbolt Ross had nothing to do with the
+original Thunderbolts team led by Baron Zemo.
+
+66
+00:06:06,396 --> 00:06:11,877
+But I can see how they might go that route in
+the MCU as a rationale for the name of the
+
+67
+00:06:11,917 --> 00:06:16,889
+team. It'll be interesting to see how that all
+shakes out. If in fact, the Red Hulk will join
+
+68
+00:06:16,909 --> 00:06:21,033
+the team, given that he was once a member of
+the Thunderbolts in the comic books. Great
+
+69
+00:06:21,073 --> 00:06:27,098
+answer, Scott Camacho. Our next honorable mention
+goes to Mason Thompson. Who said? What's up?
+
+70
+00:06:27,118 --> 00:06:34,745
+It's Mason. So this is this is the fact is,
+you know, this is just as simple as that. It's
+
+71
+00:06:34,785 --> 00:06:42,354
+a star. Who's a star? Robert Downey Jr. Who
+does he play? Dr. Doom. Who's the villain?
+
+72
+00:06:42,454 --> 00:06:48,375
+Dr. Doom. I hate you 3000. He's gonna be in
+the movie! But if I'm being for real, I think
+
+73
+00:06:48,415 --> 00:06:53,057
+that they were like villains. And then by the
+end of the movie, they like changed good. If
+
+74
+00:06:53,077 --> 00:06:58,818
+that makes sense. RDJ better not be in this
+movie. I'm still holding out hope that Marvel
+
+75
+00:06:58,838 --> 00:07:04,140
+will actually still recast the role of Dr. Doom
+as unlikely as that will be. I don't want to
+
+76
+00:07:04,160 --> 00:07:08,201
+see Robert Downey Jr. in the role for reasons
+that we discussed when that news was announced
+
+77
+00:07:08,401 --> 00:07:13,096
+at Comic-Con. But- The whole conceit of the
+Thunderbolts team as they exist in the comic
+
+78
+00:07:13,116 --> 00:07:18,361
+books is that the Thunderbolts are a group of
+villains trying to be heroes. So what you're
+
+79
+00:07:18,381 --> 00:07:22,944
+saying is the Thunderbolts asterisk could be
+like, oh, it's a super team asterisk, actually
+
+80
+00:07:23,004 --> 00:07:28,969
+it's villains. Or it's a villains team asterisk,
+it's actually heroes. One or the other. That
+
+81
+00:07:29,330 --> 00:07:34,674
+barely makes sense. I'll take it. So great answer
+Mason Thompson. We want to give a quick shout
+
+82
+00:07:34,694 --> 00:07:39,366
+out to Travis Herndon for taking the time to
+call in and leave an answer. His answer is
+
+83
+00:07:39,426 --> 00:07:43,887
+actually pretty much almost exactly the same
+as the no-prize winner of this week, who is
+
+84
+00:07:44,347 --> 00:07:50,009
+Jose Marcial. Who said? I have heard a pretty
+interesting theory pertaining to the asterisk
+
+85
+00:07:50,029 --> 00:07:55,910
+and the thunderbolt. That at the end of the
+movie, somebody, preferably Norman Osborn,
+
+86
+00:07:56,310 --> 00:08:02,552
+hopefully, William DeFoe, is going to come out
+and reveal that the whole movie or whatever
+
+87
+00:08:02,592 --> 00:08:07,973
+was a tryout for them to see what they're capable
+of and this is going to be the Dark Avengers.
+
+88
+00:08:08,534 --> 00:08:13,035
+Personally, I really vibe with this theory,
+so I hope that is the case. Yeah, I really
+
+89
+00:08:13,055 --> 00:08:17,716
+like this idea that the Thunderbolts, as they
+exist in this movie, is more of just like a
+
+90
+00:08:17,816 --> 00:08:24,478
+tryout exercise to see who's gonna join the
+Dark Avengers set up by Norman Osborn, who
+
+91
+00:08:24,558 --> 00:08:29,680
+led the team in the comics and in the movies
+is played by Willem Dafoe, at least in No Way
+
+92
+00:08:29,720 --> 00:08:35,282
+Home. But you know, it could be the same actor
+for the MCU. I think that'd be fantastic. The
+
+93
+00:08:35,322 --> 00:08:40,183
+reason this answer got the win over Travis Herndon
+is because Travis did say that this is potentially
+
+94
+00:08:40,323 --> 00:08:45,084
+a recruitment team, but the idea of having Norman
+Osborn in the movie is really exciting and
+
+95
+00:08:45,124 --> 00:08:51,046
+that was an added element that Jose Marcial
+threw in there. I do like the idea of there
+
+96
+00:08:51,086 --> 00:08:55,787
+being some kind of secret benefactor of the
+team that's like the major villain. I don't
+
+97
+00:08:55,867 --> 00:08:59,348
+think it's going to be Green Goblin though.
+I actually think it's going to be Dr. Doom,
+
+98
+00:08:59,468 --> 00:09:06,066
+if anybody. Just stop, okay? Leave Dr. Doom's
+name out of your mouth. Robert Downey Jr. is
+
+99
+00:09:06,146 --> 00:09:10,389
+not the real Doctor Doom, at least not the one
+that real Doctor Doom fans are hoping for.
+
+100
+00:09:10,729 --> 00:09:14,992
+We want the real Victor Von Doom, so just keep
+his name out of your mouth if you know what's
+
+101
+00:09:15,012 --> 00:09:19,836
+good for you. Well, only because Julia Louise
+Dryfist seems to be spearheading this whole
+
+102
+00:09:19,876 --> 00:09:24,419
+group. She bought Stark Towers. How did she
+afford that? It's gotta be Doctor Doom money.
+
+103
+00:09:25,019 --> 00:09:29,402
+I hope not. I don't want to see that version
+of Doctor Doom just yet. It wouldn't make sense
+
+104
+00:09:29,462 --> 00:09:33,205
+outside of the context of the multiverse. The
+Thunderbolts movie, I believe, is not like
+
+105
+00:09:33,225 --> 00:09:38,186
+a multiversal film. Well, it could lead into
+Avengers Doomsday. Possibly, I guess so. But
+
+106
+00:09:38,226 --> 00:09:42,451
+great answer Jose Marcial. Congrats on winning
+this week's No Prize. If you the listener want
+
+107
+00:09:42,491 --> 00:09:46,376
+a shot at winning your own No Prize, stay tuned
+to later on this episode when we'll be asking
+
+108
+00:09:46,416 --> 00:09:50,401
+another question of the week. And now that that's
+done, on to the news!
+
+109
+00:09:56,010 --> 00:10:03,352
+So last week, Deadline broke the news that a
+Robins Origin story titled Dynamic Duo is in
+
+110
+00:10:03,372 --> 00:10:08,753
+the works with DC Studios and it's going to
+be made with puppetry animation. Actually,
+
+111
+00:10:08,793 --> 00:10:15,155
+it's called specifically Momo animation and
+it's a new type of animation that a studio
+
+112
+00:10:15,295 --> 00:10:22,997
+known as Swaybox has created that combines CGI
+with practical effects like stop motion and
+
+113
+00:10:23,077 --> 00:10:28,580
+live action real-time performances. It's still
+in an experimental stage, but they wanna make
+
+114
+00:10:28,700 --> 00:10:34,024
+a full length feature film to be played in theaters.
+The movie is being written by Matthew Aldrich,
+
+115
+00:10:34,284 --> 00:10:40,068
+who also wrote Coco and Lightyear, and it's
+gonna be about the early days of Dick Grayson
+
+116
+00:10:40,628 --> 00:10:46,452
+and Jason Todd as Robin. The film is gonna be
+set in James Gunn's DC cinematic universe,
+
+117
+00:10:46,472 --> 00:10:52,477
+right? We don't know that 100%. I think it's
+going to be. All we know for sure is that it's
+
+118
+00:10:52,577 --> 00:10:59,501
+not going to be a part. of the Matt Reeves Batman
+universe. Okay, well, I guess this animated
+
+119
+00:10:59,541 --> 00:11:05,464
+film is a way for fans to see the origins of
+these characters that aren't gonna show up
+
+120
+00:11:05,504 --> 00:11:09,646
+in the Brave and the Bold film. Cause we know
+the Brave and the Bold film is set to be a
+
+121
+00:11:09,826 --> 00:11:15,049
+father, son, Batman and Robin movie where Damien
+Wayne is the character of Robin. But that would
+
+122
+00:11:15,109 --> 00:11:21,032
+mean that Dick Grayson and Jason Todd and likely
+Tim Drake have already gone through the mantle
+
+123
+00:11:21,172 --> 00:11:25,839
+in James Gunn's DC universe. So. It's nice that
+they're kind of getting their due diligence
+
+124
+00:11:25,879 --> 00:11:30,180
+within this film. That's all their own. But
+it is strange that it's going to be animated.
+
+125
+00:11:30,601 --> 00:11:36,223
+Does that make it seem like it's going to be
+a kid's film? It is 100 percent going to be
+
+126
+00:11:36,303 --> 00:11:41,705
+geared towards families. Actually, one of the
+film's producers, Matt Reeves, has pretty much
+
+127
+00:11:41,765 --> 00:11:46,867
+said that he's excited to do a family film with
+this studio. Does that mean that the film's
+
+128
+00:11:46,907 --> 00:11:51,509
+not going to include a savage beatdown of Jason
+Todd at the hands of the Joker? Oh, that's
+
+129
+00:11:51,529 --> 00:11:56,667
+a good question. That would be tragic if it
+didn't, but who knows? If they're gearing it
+
+130
+00:11:56,687 --> 00:12:01,948
+towards families, it may be something that happens
+off screen. Who's to say? I've seen some of
+
+131
+00:12:01,968 --> 00:12:06,709
+the test footage that they've been doing with
+Swaybox and some of the puppetry. It's not
+
+132
+00:12:07,010 --> 00:12:12,671
+like the Muppets puppetry or anything like that.
+This is some high tech quality stuff. Almost
+
+133
+00:12:12,711 --> 00:12:17,132
+in the same vein as Leica Studios, what they
+do with their stop motion animation. They made
+
+134
+00:12:17,172 --> 00:12:21,994
+Kubo and the Two Strings and Corpse Bride, Paranorman,
+Coraline, stuff like that. What I'm wondering
+
+135
+00:12:22,154 --> 00:12:27,078
+is who they're gonna cast in these roles, since
+James Gunn once stated that the voices that
+
+136
+00:12:27,098 --> 00:12:31,522
+he casts for animated roles will be playing
+the characters in live action. Does that mean
+
+137
+00:12:31,542 --> 00:12:37,367
+that when he casts Dick Grayson and Jason Todd
+in this dynamic duo movie, will we eventually
+
+138
+00:12:37,427 --> 00:12:42,752
+see them in live action in the Brave and the
+Bold film? I think as long as like the adult
+
+139
+00:12:42,832 --> 00:12:47,355
+live action actor can pull off a kid's voice,
+you could probably argue that would be the
+
+140
+00:12:47,375 --> 00:12:51,528
+case, but I would be surprised. I guess we'll
+find out. Yeah, there's no release date for
+
+141
+00:12:51,568 --> 00:12:57,137
+this film. It was just announced, but we'll
+keep you guys updated as news breaks. But considering
+
+142
+00:12:57,197 --> 00:13:01,704
+that this film is Robin focused, that brings
+us to our question of the week.
+
+143
+00:13:06,222 --> 00:13:11,344
+Who is your favorite Robin from the comics and
+why? There have been a number to choose from
+
+144
+00:13:11,605 --> 00:13:15,427
+the comics and they all have their own fanbase
+so really excited to see what your guys answers
+
+145
+00:13:15,487 --> 00:13:19,869
+are. Record your answer at dynamicduel.com by
+clicking on the red microphone button in the
+
+146
+00:13:19,889 --> 00:13:24,212
+bottom right hand corner of the screen which
+will prompt you to leave us a voicemail. Your
+
+147
+00:13:24,252 --> 00:13:28,234
+message could be up to 30 seconds long and don't
+forget to leave your name in case we include
+
+148
+00:13:28,254 --> 00:13:32,716
+you on the podcast. We'll pick our favorite
+answer and award that person a dynamic duel
+
+149
+00:13:32,756 --> 00:13:37,549
+no prize that we'll post to Instagram. Be sure
+to answer before October 12th.
+
+150
+00:13:44,878 --> 00:13:48,241
+But I think that does it for all the news for
+this episode, so let's go ahead and get on
+
+151
+00:13:48,281 --> 00:13:54,267
+to our main event, where we review the latest
+Warner Bros. DC theatrical release, Joker,
+
+152
+00:13:54,467 --> 00:13:55,128
+Folie a Deux.
+
+153
+00:14:18,095 --> 00:14:28,802
+Alright, Joker, Folie a Deux, the sequel to
+2019's Joker, which up until Deadpool and Wolverine
+
+154
+00:14:28,842 --> 00:14:34,406
+was the highest grossing rated-R film of all
+time and won the Oscars for best actor and
+
+155
+00:14:34,446 --> 00:14:40,146
+best score, though it was nominated in more
+categories including Best Picture, best screenplay
+
+156
+00:14:40,206 --> 00:14:45,871
+and best director, and it even won the coveted
+Golden Lion, the highest honor bestowed at
+
+157
+00:14:45,891 --> 00:14:52,017
+the Venice Film Festival where it premiered.
+The sequel, Folia De, also premiered at the
+
+158
+00:14:52,037 --> 00:14:56,901
+Venice Film Festival this year to much less
+critical acclaim, though I didn't think too
+
+159
+00:14:56,941 --> 00:15:02,866
+much of it because critics didn't exactly love
+the first movie. Many thought it irresponsibly
+
+160
+00:15:02,906 --> 00:15:08,194
+praised disenfranchised men and would inspire
+them to commit violence like the film's lead
+
+161
+00:15:08,234 --> 00:15:14,559
+character Arthur Fleck, a somewhat valid concern
+considering the perpetrator of the 2012 Aurora
+
+162
+00:15:14,599 --> 00:15:19,362
+Theatre shooting cited the Dark Knight Heath
+Ledger version of the character of the Joker
+
+163
+00:15:19,582 --> 00:15:26,887
+as inspiration. Now, we reviewed 2019's Joker
+and gave it 4 stars, though I regret not giving
+
+164
+00:15:26,947 --> 00:15:32,791
+it a higher rating. At least a 4.5, because
+the film was just so unbelievably well
+
+165
+00:15:36,678 --> 00:15:41,599
+a result of me initially being uncomfortable
+with the film. That said, I'd argue now that
+
+166
+00:15:41,619 --> 00:15:47,721
+the film was intentionally made to be uncomfortable
+and therefore succeeded as a work of art. So
+
+167
+00:15:47,761 --> 00:15:53,923
+it's perhaps strange that while I'd argue the
+very same thing for Folly Ado, I'd also argue
+
+168
+00:15:54,163 --> 00:15:59,584
+that this quote unquote work of art, with its
+fantastic performances and cinematography,
+
+169
+00:16:00,104 --> 00:16:06,687
+unfortunately fails to deliver on the promises
+it set up. deciding instead to subvert audience
+
+170
+00:16:06,727 --> 00:16:14,331
+expectations in the most unsatisfying of ways.
+It's like the first movie was this disturbing
+
+171
+00:16:14,371 --> 00:16:19,575
+yet beautiful portrait of the Joker. And for
+the second movie, screenwriter and director
+
+172
+00:16:19,615 --> 00:16:25,058
+Todd Phillips began painting yet another masterpiece.
+Only in the final moments of working on the
+
+173
+00:16:25,098 --> 00:16:30,361
+painting, he decided to shit on it and just
+smear it across the canvas, just fucking ruining
+
+174
+00:16:30,401 --> 00:16:36,213
+everything. almost as if he wanted to play a
+joke on the audience. As much as it breaks
+
+175
+00:16:36,253 --> 00:16:42,457
+my heart, I can't recommend seeing this movie
+just because of that ending. If you have seen
+
+176
+00:16:42,477 --> 00:16:47,220
+the movie and want to know my thoughts on it,
+please keep listening to this spoiler review.
+
+177
+00:16:47,621 --> 00:16:51,723
+And if you haven't seen the film and want to
+spare yourself of watching it, you can still
+
+178
+00:16:51,743 --> 00:16:57,407
+keep listening too. Yeah, yeah. Now, the premise
+of the film is actually pretty good. It's an
+
+179
+00:16:57,587 --> 00:17:03,271
+experimental portrait of a sympathetic murderer
+Arthur Fleck, who learns he's facing the death
+
+180
+00:17:03,311 --> 00:17:09,235
+penalty for his crimes right after falling for
+a manipulative and obsessive fan of his, Harleen
+
+181
+00:17:09,275 --> 00:17:15,099
+Quinzel. I say it's experimental in the way
+it subverts audience expectations at the end,
+
+182
+00:17:15,400 --> 00:17:20,683
+but also in the way music plays a role in the
+film. The movie was described by the press
+
+183
+00:17:20,723 --> 00:17:26,367
+as a musical while it was in production, but
+while it does have characters singing in it,
+
+184
+00:17:26,447 --> 00:17:33,064
+to me it felt more like a biopic of a musician.
+rather than a quote-unquote musical. Usually
+
+185
+00:17:33,104 --> 00:17:38,427
+in musicals, the music serves the story in some
+way. You often have a song establishing the
+
+186
+00:17:38,508 --> 00:17:44,031
+setting of the story and the protagonist's goals,
+and you'll have a number by the villain that
+
+187
+00:17:44,051 --> 00:17:49,495
+expresses what they want as well. There's a
+whole formula to it that Follyado doesn't adhere
+
+188
+00:17:49,535 --> 00:17:55,720
+to. Whereas in music biopics, music is often
+used simply as entertainment, as a way to liven
+
+189
+00:17:55,740 --> 00:18:01,007
+up the story and visuals of the film. Well,
+music biopics are usually about musicians.
+
+190
+00:18:01,448 --> 00:18:06,292
+Exactly. The Joker is not a musician, but I
+could see where Todd Phillips would kind of
+
+191
+00:18:06,332 --> 00:18:11,996
+almost see him in that way. I understand why
+Todd Phillips would have wanted to focus on
+
+192
+00:18:12,056 --> 00:18:18,121
+music in the sequel. The score of the first
+film composed by Hildur Gudnedadder was so
+
+193
+00:18:18,262 --> 00:18:24,707
+damn moving. So expanding upon that with actual
+songs, I thought was going to be pretty genius,
+
+194
+00:18:24,767 --> 00:18:30,562
+especially with Lady Gaga cast as Harley Quinn.
+If you've listened to the podcast for a while,
+
+195
+00:18:30,842 --> 00:18:35,964
+you'll know that I've been excited for the idea
+of this film as a musical, because not only
+
+196
+00:18:36,004 --> 00:18:41,305
+was it going to add something new to the comic
+book film genre, but also musicals could be
+
+197
+00:18:41,405 --> 00:18:48,167
+pretty moving and powerful. I'm not one of these
+musical haters who refuse to see Folly Ado
+
+198
+00:18:48,327 --> 00:18:53,729
+just because people sing in it. I'll hear people,
+even co-workers, say that, and I'm like, really?
+
+199
+00:18:53,969 --> 00:18:57,791
+So you don't like Nightmare Before Christmas
+or- You know, the South Park movie or Prince
+
+200
+00:18:57,831 --> 00:19:02,834
+of Egypt, Flight of the Concords. I want you
+to look me in the eyes and tell me you can't
+
+201
+00:19:02,854 --> 00:19:07,377
+sing along to the songs in Aladdin. Well, to
+that end, I think this musical would have been
+
+202
+00:19:07,437 --> 00:19:12,641
+more successful as a musical if the songs were
+original, building upon Hilda Gunnadadter's
+
+203
+00:19:12,681 --> 00:19:19,045
+talent. Oh, 100%. Yeah. Hilda Gunnadadter's
+talent and Lady Gaga's songwriting talent.
+
+204
+00:19:19,205 --> 00:19:22,968
+If she has any, I don't actually know if she
+does. Maybe someone else writes all of her
+
+205
+00:19:23,008 --> 00:19:28,296
+music. But yeah, when we first learned. that
+this was going to be a jukebox musical. I was
+
+206
+00:19:28,336 --> 00:19:32,479
+pretty disappointed by that when we were talking
+about it in our news section. And it turns
+
+207
+00:19:32,539 --> 00:19:37,283
+out that disappointment was just the tip of
+a giant iceberg of disappointment I would have
+
+208
+00:19:37,323 --> 00:19:41,767
+by the end of watching this movie. Now, another
+reason I understood the musical direction is
+
+209
+00:19:41,807 --> 00:19:46,871
+because Todd Phillips has explained when talking
+about the first movie that music lives in Arthur's
+
+210
+00:19:46,971 --> 00:19:53,497
+soul, as evidenced in Joaquin Phoenix's graceful,
+masterful performance. It was merely glimpsed
+
+211
+00:19:53,537 --> 00:19:59,243
+in the first film. But in the sequel, Arthur's
+internal melody comes to life in the form of
+
+212
+00:19:59,363 --> 00:20:04,986
+several imagined musical numbers. Though again,
+I'm hesitant to call this a musical. As I mentioned,
+
+213
+00:20:05,046 --> 00:20:08,727
+musicals tend to drive the narrative forward
+and provide some insight into a character's
+
+214
+00:20:08,767 --> 00:20:13,349
+thoughts and feelings. And some of the songs
+in this film do indeed provide that function,
+
+215
+00:20:13,409 --> 00:20:18,691
+but not very well. Partly because the songs
+are unoriginal and weren't written for this
+
+216
+00:20:18,751 --> 00:20:24,013
+film. And also because the songs are really
+short. Like we just hear snippets here and
+
+217
+00:20:24,033 --> 00:20:30,631
+there. and if they're not being sung by Harley
+Quinn as a way to mesmerize and manipulate
+
+218
+00:20:30,691 --> 00:20:36,453
+Arthur, they take place in Arthur's imagination
+as fantasies or ways to cope with what's happening
+
+219
+00:20:36,493 --> 00:20:42,295
+to him. I didn't mind the way Harley sank to
+him because of the whole music therapy thing
+
+220
+00:20:42,335 --> 00:20:47,196
+that they had going on in this film, but I will
+admit the short imagined musical numbers were
+
+221
+00:20:47,216 --> 00:20:53,010
+kind of pointless to the narrative of the film
+and halted its flow. Most of the musical numbers
+
+222
+00:20:53,050 --> 00:20:58,352
+feel like they existed merely to take a break
+from the film's courtroom drama, but unnecessarily
+
+223
+00:20:58,472 --> 00:21:03,473
+so. Like, the courtroom scenes are some of the
+most interesting in the movie, I felt, and
+
+224
+00:21:03,493 --> 00:21:07,975
+that we learn some profound information that
+expands upon the tragedy of Arthur from the
+
+225
+00:21:08,015 --> 00:21:12,857
+first film. Yeah, there were some musical scenes
+that we saw here that made sense to me in the
+
+226
+00:21:12,917 --> 00:21:18,819
+context of what was happening in the plot. But
+by the time we got to the scene of Joker tap
+
+227
+00:21:18,859 --> 00:21:23,862
+dancing and stuff like that, I'm like, the film
+has lost the plot. Yes, absolutely. And more
+
+228
+00:21:23,882 --> 00:21:28,625
+than that, it made the film seem like it had
+no plot. Really, there's not too much story
+
+229
+00:21:28,685 --> 00:21:33,387
+here. It felt like filler, like they were padding
+the runtime, like they just wanted to insert
+
+230
+00:21:33,427 --> 00:21:37,570
+different musical numbers and various random
+places because they have Lady Gaga or some
+
+231
+00:21:37,610 --> 00:21:43,193
+shit. Exactly. Part of the tragedy of Arthur
+in this film comes with the realization that
+
+232
+00:21:43,233 --> 00:21:48,867
+Harley is only in love with Joker and what he
+represents rather than the pitiful Arthur,
+
+233
+00:21:49,247 --> 00:21:55,288
+who she selfishly manipulates and tries to bring
+more and more of the Joker out of in him. There's
+
+234
+00:21:55,308 --> 00:22:00,050
+this line that she repeats over the course of
+the film, and I took it almost as an explicit
+
+235
+00:22:00,110 --> 00:22:07,112
+promise to the audience that she and the Joker
+were going to, quote, build a mountain, unquote.
+
+236
+00:22:07,132 --> 00:22:11,633
+Now, this was in reference to a song by Sammy
+Davis Jr. who played a clown character in the
+
+237
+00:22:11,673 --> 00:22:17,283
+musical Stop the World I Want to Get Off. He
+seems the line that he's going to build a mountain
+
+238
+00:22:17,323 --> 00:22:23,485
+from a little hill, build a heaven from a little
+hell. Now that heaven was going to be the new
+
+239
+00:22:23,525 --> 00:22:28,708
+world the Joker ushered in, a world for the
+downtrodden, built from the havoc that Joker
+
+240
+00:22:28,728 --> 00:22:34,330
+and Harley were seemingly going to wreck upon
+the court and the system in glorious retribution
+
+241
+00:22:34,350 --> 00:22:40,012
+for the difficult life Arthur and members of
+society have had. But in an almost apologetic
+
+242
+00:22:40,112 --> 00:22:47,443
+and perhaps socially responsible way, Todd Phillips
+dashes any and all hopes for poetic justice
+
+243
+00:22:47,763 --> 00:22:53,104
+or cathartic bloodlust, deciding instead to
+emphasize the tragedy of Arthur Fleck, but
+
+244
+00:22:53,124 --> 00:22:57,165
+without any kind of beauty whatsoever. Todd
+Phillips has said that he thought it would
+
+245
+00:22:57,185 --> 00:23:03,167
+be interesting if Arthur wasn't the comic book
+Joker, but maybe just the inspiration for him.
+
+246
+00:23:03,687 --> 00:23:09,129
+But then why call your film Joker? Why make
+that promise that you can't keep or that joke
+
+247
+00:23:09,169 --> 00:23:15,451
+for which you have no punchline? For sure. This
+pisses me off about Todd Phillips. You said
+
+248
+00:23:15,611 --> 00:23:20,253
+that maybe this film was apologetic. I totally
+saw it that way. The vibe that I got walking
+
+249
+00:23:20,373 --> 00:23:24,595
+out of the theater was that Todd Phillips kind
+of pussed out at the message that he had set
+
+250
+00:23:24,615 --> 00:23:30,577
+up in the first film wanting to not perhaps
+instigate chaos and anarchy in the world, even
+
+251
+00:23:30,617 --> 00:23:35,839
+though that didn't really happen. Like the first
+film, for all the fear that it instigated in
+
+252
+00:23:35,959 --> 00:23:40,641
+clickbait news media, you know, nothing really
+came of it. People just saw it as an interesting
+
+253
+00:23:40,701 --> 00:23:45,332
+film. But I think the idea of the first film
+almost scared Todd Phillips. And it seemed
+
+254
+00:23:45,352 --> 00:23:49,894
+like he rode himself into a corner or he was
+just disavowing the first film. Yeah, it definitely
+
+255
+00:23:49,934 --> 00:23:54,457
+seems that way. I'm definitely seeing a narrative
+emerge around this film that Todd Phillips
+
+256
+00:23:54,537 --> 00:23:59,479
+must be ashamed of how his Joker has influenced
+to the culture and become a symbol for a type
+
+257
+00:23:59,519 --> 00:24:04,322
+of revolution that perhaps is attractive to
+the same kind of people that critics were afraid
+
+258
+00:24:04,342 --> 00:24:09,185
+would be inspired by the first film. I'm not
+sure that's exactly the case, though I will
+
+259
+00:24:09,365 --> 00:24:15,205
+admit I did get like I said earlier, those apologetic
+vibes during the Joker's closing argument.
+
+260
+00:24:15,725 --> 00:24:19,708
+But on my way home from seeing the movie, I
+actually thought of a different possibility
+
+261
+00:24:19,748 --> 00:24:25,472
+for what went wrong with this film, and that's
+studio involvement. Not from the new DC studios,
+
+262
+00:24:25,512 --> 00:24:30,475
+but from Warner Bros., who's been known to get
+too involved with DC's films like Suicide Squad
+
+263
+00:24:30,775 --> 00:24:34,798
+and Justice League. And to me it makes sense
+that the studio would get involved if they
+
+264
+00:24:34,838 --> 00:24:40,202
+felt one of their major characters was being
+mishandled, namely Harley Quinn. a character
+
+265
+00:24:40,242 --> 00:24:46,184
+that DC head Jim Lee has called the fourth pillar
+of DC comics, along with the trinity of Batman,
+
+266
+00:24:46,224 --> 00:24:51,987
+Superman, and Wonder Woman. Now between 2020's
+Birds of Prey film and the Harley Quinn animated
+
+267
+00:24:52,047 --> 00:24:57,750
+series, Harley Quinn has been established as
+an independent feminist icon separate from
+
+268
+00:24:57,770 --> 00:25:02,672
+the Joker and Thriving. This film couldn't end
+with Joker and Harley riding off together into
+
+269
+00:25:02,712 --> 00:25:08,130
+the sunset, as I suspect many people wanted,
+like I wanted. For the sake of Harley, they
+
+270
+00:25:08,150 --> 00:25:14,112
+needed to break the two up, though they managed
+to do so in the most anticlimactic way possible.
+
+271
+00:25:14,552 --> 00:25:19,333
+Now we know from scenes from the trailers, like
+Harley with a haircut going down an elevator,
+
+272
+00:25:19,733 --> 00:25:24,975
+or Harley and Joker high kicking their way down
+the steps of a courthouse, as well as set footage
+
+273
+00:25:25,235 --> 00:25:30,576
+of Harley pushing Arthur down the steps at the
+end, that there was probably another cut of
+
+274
+00:25:30,616 --> 00:25:35,854
+this film. And since Warner Brothers has said
+this film was never screened, in front of a
+
+275
+00:25:35,914 --> 00:25:40,518
+test audience prior to its premiere, to me it
+makes a lot of sense that it was the studio
+
+276
+00:25:40,578 --> 00:25:45,542
+itself that made Todd Phillips change his original
+vision. I'm not saying that's what happened,
+
+277
+00:25:45,902 --> 00:25:50,847
+I'm saying it wouldn't surprise me. Yeah, to
+that end, maybe we'll be getting a director's
+
+278
+00:25:50,867 --> 00:25:55,070
+cut of this film considering the poor reception
+that the movie is getting both critically and
+
+279
+00:25:55,110 --> 00:26:00,675
+financially. If a hashtag restore the Phillips
+cut starts trending, I would not be surprised.
+
+280
+00:26:00,835 --> 00:26:05,483
+Because we've praised Todd Phillips on this
+podcast before. We've called him an auteur.
+
+281
+00:26:06,023 --> 00:26:11,468
+If he is entirely to blame for what went wrong
+with this film, then I am really confused.
+
+282
+00:26:11,908 --> 00:26:19,715
+Like experimentation is admirable somewhat,
+but not with $200 million, not with fan expectations.
+
+283
+00:26:20,035 --> 00:26:24,999
+If you're not going to make a comic book movie
+for comic book fans, then who are you making
+
+284
+00:26:25,059 --> 00:26:29,323
+it for? Like was he making it just for Harley
+Quinn fans? Like they're not gonna like this
+
+285
+00:26:29,363 --> 00:26:34,238
+movie. Lady Gaga fans aren't gonna like this
+movie. Fans of the first movie aren't going
+
+286
+00:26:34,258 --> 00:26:40,062
+to like this movie. Why make a movie with actors
+of this caliber, with cinematography this beautiful,
+
+287
+00:26:40,482 --> 00:26:45,105
+that no one is going to like? Well, as we've
+said on this podcast before, Todd Phillips
+
+288
+00:26:45,245 --> 00:26:50,067
+wanted to make a movie about mental illness
+and knew that the best way to get people to
+
+289
+00:26:50,107 --> 00:26:55,450
+see it is to attach a comic book character's
+name to it. Hence, Joker. Todd Phillips doesn't
+
+290
+00:26:55,470 --> 00:26:59,573
+really care about the comic book universe, which
+really makes me question why he also includes
+
+291
+00:26:59,633 --> 00:27:05,177
+elements like Harvey Dent. getting his two-face,
+you know, that was pretty interesting. Or the
+
+292
+00:27:05,237 --> 00:27:09,820
+new Joker at the very last shot of this film
+slicing the Glasgow smile onto his face and
+
+293
+00:27:09,860 --> 00:27:15,365
+everything like that. Those seem like Easter
+eggs for the fans, but it's clear that Todd
+
+294
+00:27:15,385 --> 00:27:19,228
+Phillips also doesn't care about the fans. So
+he cares about the fans, but he doesn't care
+
+295
+00:27:19,248 --> 00:27:24,092
+about the fans. Again, I'm confused. I think
+it's less about him caring for the fans and
+
+296
+00:27:24,132 --> 00:27:29,276
+more about he probably has some kind of studio
+exec giving him notes on how to include comic
+
+297
+00:27:29,316 --> 00:27:34,904
+book Easter eggs within his that would excite
+fans. Oh, yeah, I could see that for sure.
+
+298
+00:27:35,464 --> 00:27:41,148
+So fucking mind boggling that studios like Sony
+and Warner Brothers get this shit wrong because
+
+299
+00:27:41,649 --> 00:27:45,851
+literally it just seems so easy to give the
+fans what they want. I feel like so much commentary
+
+300
+00:27:45,871 --> 00:27:51,115
+is out there by the fans on exactly what they're
+looking for, what their hopes are. And studios
+
+301
+00:27:51,155 --> 00:27:56,258
+really just need to fucking do that and do nothing
+else. Studios really just need to fucking give
+
+302
+00:27:56,298 --> 00:28:03,560
+me a call. I will tell them what they should
+do. Yeah, let's move on to our character breakdown.
+
+303
+00:28:03,960 --> 00:28:08,624
+Now, Arthur Fleck, I'm not going to call him
+the Joker because clearly he's not. He was
+
+304
+00:28:08,664 --> 00:28:13,228
+played by Joaquin Phoenix. I'm not sure I could
+say anything about his performance that I didn't
+
+305
+00:28:13,288 --> 00:28:17,892
+say the first time around. It's perfect. It's
+perfection. I've seen some people say that
+
+306
+00:28:17,952 --> 00:28:22,676
+he seemed lazy in this film, like he was just
+phoning it in or cashing a check. I didn't
+
+307
+00:28:22,716 --> 00:28:27,580
+get that at all. Like, sure, Arthur is pretty
+timid at the beginning, but I also noticed
+
+308
+00:28:27,840 --> 00:28:32,544
+that over the course of the film. more and more
+of the Joker character was brought back out
+
+309
+00:28:32,664 --> 00:28:38,089
+in him up until the end when he rejected the
+idea of the Joker. No, I mean, well, Arthur
+
+310
+00:28:38,109 --> 00:28:42,312
+Fleck is a sad character, so he's going to be
+mopey for a lot of this runtime. You know,
+
+311
+00:28:42,332 --> 00:28:46,336
+he's in prison and the character of Harley Quinn
+starts kind of bringing him out of his shell.
+
+312
+00:28:46,656 --> 00:28:51,240
+And I totally saw the difference between his
+pre-Harley Quinn state and his post-Harley
+
+313
+00:28:51,260 --> 00:28:56,084
+Quinn state. So I definitely think that honestly,
+for such a terrible film, he still gave an
+
+314
+00:28:56,184 --> 00:29:00,351
+Oscar caliber performance here. It's just gonna
+be sad that, you know, he's not gonna get any
+
+315
+00:29:00,391 --> 00:29:06,276
+recognition for that because of how terrible
+the writing was at the end. Right. Yeah. Now,
+
+316
+00:29:06,356 --> 00:29:10,940
+Arthur's arc in the first film was all about
+being seen. He felt invisible, like no one
+
+317
+00:29:10,980 --> 00:29:16,084
+saw or cared about him, someone who was abused
+and needed help in a harsh world. It wasn't
+
+318
+00:29:16,104 --> 00:29:20,668
+until he struck back, killing three men who
+had been beating him, that he started to get
+
+319
+00:29:20,748 --> 00:29:26,733
+noticed and he thrived on that newfound attention.
+This sequel asks whether or not the Joker was
+
+320
+00:29:26,753 --> 00:29:32,160
+an alternate persona. and we do get an answer
+from Arthur himself that Joker was simply an
+
+321
+00:29:32,360 --> 00:29:38,303
+act, a mask of sorts that he was able to hide
+behind to do or say things under a guise of
+
+322
+00:29:38,424 --> 00:29:43,787
+anonymity. But Arthur's mask becomes a symbol
+for the oppressed rising up against the elite,
+
+323
+00:29:44,187 --> 00:29:49,030
+and it's a cause he never intended to start.
+And by the start of this film, he's largely
+
+324
+00:29:49,110 --> 00:29:54,993
+removed from the fanaticism surrounding him
+until he meets Harley and his trial starts.
+
+325
+00:29:55,582 --> 00:30:00,264
+In the same way that Arthur initially became
+drunk on the attention he received as Joker,
+
+326
+00:30:00,804 --> 00:30:07,086
+Arthur in this film becomes intoxicated by Harley's
+infatuation with him and seemingly the perceived
+
+327
+00:30:07,207 --> 00:30:13,669
+mission of the Joker. The guy's incredibly lonely
+and is tantalized by the prospect of a normal
+
+328
+00:30:13,749 --> 00:30:19,872
+life with a family and in the end he chooses
+that over any kind of revolution. Arthur never
+
+329
+00:30:19,932 --> 00:30:25,450
+wanted to change society, he wanted to be a
+part of it. and not be rejected by it as someone
+
+330
+00:30:25,470 --> 00:30:31,612
+with mental illness. One of the reasons I feel
+this film is so pointless is that Arthur is
+
+331
+00:30:31,672 --> 00:30:37,573
+so unbelievably tragic and you pity him and
+you hope for him and all of that hope is dashed.
+
+332
+00:30:38,013 --> 00:30:43,135
+Yeah, he dies at the end. He gets stabbed and
+nothing happens. What the fuck? Yeah. He like
+
+333
+00:30:43,195 --> 00:30:49,677
+dies basically alone and no one cares that we
+know of. It's just it's OK. Thanks. Thank you.
+
+334
+00:30:50,177 --> 00:30:56,119
+Thanks a lot, Todd Phillips. You jerk. One of
+the biggest things that upset me about the
+
+335
+00:30:56,199 --> 00:31:02,903
+film regarding the character of the Joker is
+trying to determine what the exact catalyst
+
+336
+00:31:03,083 --> 00:31:09,647
+was for him turning his back on his made up
+persona. Now, there are a lot of events that
+
+337
+00:31:09,667 --> 00:31:14,230
+happened that you could say served as that catalyst
+for his change of heart. Whether it was the
+
+338
+00:31:14,290 --> 00:31:19,453
+testimony of Gary Puddles, his friend, or because
+his friend Ricky died who he had inspired.
+
+339
+00:31:20,954 --> 00:31:24,856
+Or maybe it was because the guards beat the
+shit out of him and then raped him. Uh, which
+
+340
+00:31:25,137 --> 00:31:29,640
+I was not okay with. Like I don't understand
+why they needed to include the scene. The idea
+
+341
+00:31:29,660 --> 00:31:34,523
+that you can make the argument that the reason
+Joker changed his mind about everything was
+
+342
+00:31:34,563 --> 00:31:40,808
+because he got sodomized just infuriates me.
+We don't know what the exact catalyst is, but
+
+343
+00:31:40,848 --> 00:31:46,311
+the argument could be made that his rape caused
+this change of heart. Like I, I don't understand
+
+344
+00:31:46,351 --> 00:31:50,534
+what kind of movie this is that would include
+something like that. I just didn't appreciate
+
+345
+00:31:50,574 --> 00:31:56,177
+it as a fan of the character or as a fan of
+the first film. Or as a human being? Exactly.
+
+346
+00:31:56,697 --> 00:32:02,099
+Yeah, it's not explicit what happens to him
+in the showers, although I think it's pretty
+
+347
+00:32:02,139 --> 00:32:07,842
+clear what they were trying to imply. I for
+one though don't think that was the catalyst.
+
+348
+00:32:07,962 --> 00:32:13,044
+I think ultimately what it was, was the death
+of Ricky. You saw Arthur lying there in his
+
+349
+00:32:13,104 --> 00:32:19,131
+cell after what just happened to him and he's
+listening. to this guy who took a liking to
+
+350
+00:32:19,231 --> 00:32:26,394
+Arthur and was definitely, like you said, inspired
+by him, die as a consequence of Arthur's actions
+
+351
+00:32:26,574 --> 00:32:32,796
+riling up the inmates as the Joker, as a figure
+of someone who's standing up for himself. It
+
+352
+00:32:32,816 --> 00:32:38,218
+gave Ricky a courage that he didn't have before,
+and he died because of it. But there was no
+
+353
+00:32:38,278 --> 00:32:42,420
+clear indication that Arthur Fleck cared at
+all about Ricky. Well, there was a number of
+
+354
+00:32:42,460 --> 00:32:48,687
+times that Ricky was the first to stand up for
+Arthur. He would sit next to him in the prison
+
+355
+00:32:48,727 --> 00:32:54,209
+courtyard. And I think he had a closer relationship
+with Ricky than many of the other inmates,
+
+356
+00:32:54,309 --> 00:33:00,972
+you could argue. And by nature, Arthur is a
+sympathetic guy. Like he cares about other
+
+357
+00:33:00,992 --> 00:33:07,034
+people. And I think one of those people he did
+care about was Ricky because he liked him and
+
+358
+00:33:07,114 --> 00:33:11,976
+Arthur likes people who like him. So I actually
+think it was that realization that the symbol
+
+359
+00:33:12,036 --> 00:33:18,059
+of him could put innocence at risk. I think
+that was ultimately his decision. I'm not 100%
+
+360
+00:33:18,699 --> 00:33:22,941
+on that. I'm sure other arguments could be made,
+but that's what I thought about. Because I
+
+361
+00:33:22,961 --> 00:33:27,282
+was like, yeah, I was like, what happened? What
+was the catalyst? What changed his mind? And
+
+362
+00:33:27,302 --> 00:33:31,904
+that was the conclusion I came to. Yeah, personally,
+I think it was the testimony of Gary Puddles.
+
+363
+00:33:32,865 --> 00:33:37,367
+Even though right up until the moment he got
+the shit kicked out of him by the guards, he
+
+364
+00:33:37,387 --> 00:33:42,369
+was still being honorary. He said to the guards,
+I guess I'm in trouble, joking around right
+
+365
+00:33:42,409 --> 00:33:47,015
+before they did that to him. Yeah, still making
+jokes like, Oh, aren't you going to buy me
+
+366
+00:33:47,055 --> 00:33:52,179
+dinner first? Yeah. Which I know there's actually
+a number of jokes that were very dark like
+
+367
+00:33:52,220 --> 00:33:56,703
+that one, like I hope you get cancer, things
+like that. You mentioned Arthur being ornery
+
+368
+00:33:56,783 --> 00:34:01,687
+even after his questioning of Gary and leading
+up to him talking with the guards and stuff
+
+369
+00:34:01,707 --> 00:34:06,611
+like that. He was actually ornery going all
+the way up to his closing arguments in front
+
+370
+00:34:06,631 --> 00:34:10,054
+of the jury, pulling up the stool, grabbing
+the microphone like he was going to do a stand
+
+371
+00:34:10,094 --> 00:34:17,103
+up bit. Even the judge saw that coming. So I
+was completely. taken aback when he didn't
+
+372
+00:34:17,483 --> 00:34:22,265
+do anything as noteworthy as his conversation
+with Marie Franklin from the first film. I
+
+373
+00:34:22,305 --> 00:34:26,747
+thought all chaos was about to break loose like
+in that movie and it was the exact opposite.
+
+374
+00:34:26,787 --> 00:34:31,909
+It wasn't a bang. It was a complete absolute
+whimper and one that I felt really betrayed
+
+375
+00:34:31,969 --> 00:34:36,010
+by. Probably in the same way that Arthur felt
+betrayed by Lee. And speaking of which, let's
+
+376
+00:34:36,050 --> 00:34:42,133
+move on to Harleen Quinzel played by Lady Gaga.
+I'm not a huge fan of Lady Gaga's music. I'm
+
+377
+00:34:42,153 --> 00:34:46,917
+not really familiar with it. But the mere fact
+that they cast a musician who can't act got
+
+378
+00:34:46,937 --> 00:34:51,862
+me pretty excited when her casting was first
+announced. And I think she did a terrific job
+
+379
+00:34:51,982 --> 00:34:56,226
+in the role. I don't think she's a better Harley
+Quinn than Margot Robbie, but I also think
+
+380
+00:34:56,266 --> 00:35:00,670
+that's because of what was on the page. For
+as different as they made Harley Quinn in this
+
+381
+00:35:00,750 --> 00:35:07,357
+movie, I also think Lady Gaga did a great job
+capturing the crazy slash dangerous aspect
+
+382
+00:35:07,457 --> 00:35:12,748
+of the character. She was as interesting in
+the role as Joaquin Phoenix is as the Joker.
+
+383
+00:35:13,128 --> 00:35:17,071
+I found it really fascinating what they did
+with the character and it had so much potential,
+
+384
+00:35:17,251 --> 00:35:23,415
+so much promise. The crazy was palpable. 100%.
+And I appreciated that for sure. Now in the
+
+385
+00:35:23,435 --> 00:35:28,019
+comics, Harley was a psychiatrist at Arkham
+who was manipulated by the Joker into falling
+
+386
+00:35:28,059 --> 00:35:33,482
+in love with him and becoming a henchwoman for
+him to abuse. This film is sort of the opposite
+
+387
+00:35:33,522 --> 00:35:39,414
+of that. Arthur Fleck isn't confident enough
+to entice a romantic partner. But Harley, or
+
+388
+00:35:39,494 --> 00:35:44,778
+Lee as she's called in this film, is crazy enough
+to check herself into a mental institution
+
+389
+00:35:44,858 --> 00:35:50,922
+just to get close to Joker. It's mentioned that
+she did postgraduate work in psychiatry, and
+
+390
+00:35:50,962 --> 00:35:56,525
+I'd like to think that simply by studying Arthur
+Fleck's case, she pitied him and empathized
+
+391
+00:35:56,545 --> 00:36:02,149
+with him to the point that she took on his worldview.
+And that's the whole reason behind the title
+
+392
+00:36:02,269 --> 00:36:08,867
+of Folly Ado. But that backstory is never explored,
+so I may just be giving the film too much credit.
+
+393
+00:36:09,247 --> 00:36:15,469
+You know, Folly I Do refers to a shared delusional
+disorder. And outside of my headcanon, I can't
+
+394
+00:36:15,489 --> 00:36:20,510
+think of what else the title would be in context
+to in the film. I mean, that's a great headcanon,
+
+395
+00:36:20,550 --> 00:36:25,812
+but it's also one that the film doesn't deserve,
+because if the film was better and smarter,
+
+396
+00:36:25,852 --> 00:36:30,213
+they would have done exactly that. Exactly.
+Now, Harley met Arthur while she was in music
+
+397
+00:36:30,253 --> 00:36:36,519
+therapy class, and she uses song manipulate
+him, drawing out the Joker from Arthur like
+
+398
+00:36:36,539 --> 00:36:42,360
+a Gotham City siren, with the intention of helping
+the Joker usher in a new world, seemingly,
+
+399
+00:36:42,740 --> 00:36:48,662
+though it's not clear why. Maybe it was out
+of guilt for her affluent upbringing, or maybe
+
+400
+00:36:48,722 --> 00:36:53,744
+she knew some kind of ugly underbelly within
+the elite world that helped her identify with
+
+401
+00:36:53,844 --> 00:36:59,545
+Arthur's victimization. It's a huge mystery,
+and one that should have been expanded upon.
+
+402
+00:36:59,826 --> 00:37:03,147
+Yeah, what did she mean by we're going to build
+a mountain? Now, I know it was a reference
+
+403
+00:37:03,187 --> 00:37:06,908
+to a song, but I have no idea what the metaphor
+was in reference to in the context of this
+
+404
+00:37:06,948 --> 00:37:11,470
+film. I was thinking that it was going to be
+like a literal pile of corpses that they were
+
+405
+00:37:11,490 --> 00:37:17,093
+going to build this new world upon. And so my
+expectations were completely dashed. Yeah,
+
+406
+00:37:17,133 --> 00:37:20,474
+same. Instead of a mountain, it was more like
+a pile of shit, you know, we're going to build
+
+407
+00:37:20,494 --> 00:37:26,056
+a pile of shit, apparently. At the end of the
+film, when Arthur has given up the act of the
+
+408
+00:37:26,096 --> 00:37:31,719
+Joker, Harley tries singing to him again. And
+when he's like, no, stop singing. I just want
+
+409
+00:37:31,739 --> 00:37:36,143
+to talk. I think that's when she realizes that
+she can't manipulate him anymore. And so she
+
+410
+00:37:36,183 --> 00:37:42,048
+abandons him like everyone else has. Possibly.
+At the end of the film, Arthur is informed
+
+411
+00:37:42,088 --> 00:37:46,972
+that he has a visitor waiting for him. And that's
+when he's killed. Do you think that visitor
+
+412
+00:37:47,172 --> 00:37:51,496
+was Harley? Did she have a change of heart?
+That's a good question. I don't know who else
+
+413
+00:37:51,576 --> 00:37:55,739
+it could possibly be. Maybe it was his former
+lawyer. Those are the only two people I can
+
+414
+00:37:55,759 --> 00:38:01,199
+think of. Well, it could have been Gary. Oh,
+yeah. That's true. I think Gary was too afraid
+
+415
+00:38:01,239 --> 00:38:05,341
+of Arthur, though, to do that, in my opinion.
+Possibly. But he was still, I think, like the
+
+416
+00:38:05,361 --> 00:38:11,125
+closest thing he had to a friend, maybe. So,
+yeah, it was probably either Harley or his
+
+417
+00:38:11,185 --> 00:38:16,508
+lawyer. And in that sense, maybe there is sort
+of like this romantic tragedy at the very end.
+
+418
+00:38:16,848 --> 00:38:23,713
+But we'll never know. Yeah. Fuck it. Who cares?
+Damn it. It's all pointless. Let's move on
+
+419
+00:38:23,753 --> 00:38:24,913
+to the story highlights.
+
+420
+00:38:32,526 --> 00:38:38,172
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+421
+00:38:38,192 --> 00:38:43,918
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+422
+00:38:43,978 --> 00:38:49,664
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+423
+00:38:49,684 --> 00:38:56,359
+DynaMic Podcast Network Comic Book Titans smash
+every Tuesday. Max Destruction, where TV and
+
+424
+00:38:56,459 --> 00:39:02,761
+action heroes battle every Wednesday. And Sendro
+World, where anime champions clash every Thursday.
+
+425
+00:39:03,281 --> 00:39:08,283
+Join us as we speculate on the matches and armed
+with the power of mathematical simulations,
+
+426
+00:39:08,523 --> 00:39:15,405
+discover who will emerge victorious. Visit dynamicpodcast.com,
+where we settle the debate and settle the score.
+
+427
+00:39:18,914 --> 00:39:24,318
+Now the film opens with an animated, Looney
+Tunes-esque cartoon sequence showing Arthur
+
+428
+00:39:24,358 --> 00:39:29,563
+Fleck arrive at the Marie Franklin show, only
+to be beaten and impersonated by his shadow
+
+429
+00:39:29,803 --> 00:39:35,468
+who acts on Arthur's worst impulses, humiliates
+him, and leaves Arthur to take the rap, a victim
+
+430
+00:39:35,528 --> 00:39:41,152
+of his shadow, and police brutality. In the
+real world, Arthur is medicated and imprisoned
+
+431
+00:39:41,212 --> 00:39:45,956
+in the criminal wing of Arkham State Hospital,
+where he awaits trial for the murder of five
+
+432
+00:39:46,016 --> 00:39:51,635
+people two years prior. While imprisoned, he's
+abused and ridiculed by the security guards
+
+433
+00:39:51,675 --> 00:39:56,817
+for their amusement, as his ordeal was made
+into a made-for-TV film and has made him a
+
+434
+00:39:56,877 --> 00:40:02,279
+minor public celebrity. On his way to meet his
+lawyer, Mary Ann Stewart, Arthur is escorted
+
+435
+00:40:02,319 --> 00:40:09,122
+past a music therapy class where he first encounters
+a patient named Harleen Quinzel, aka Lee. While
+
+436
+00:40:09,162 --> 00:40:13,324
+meeting with Mary Ann, she explains her hopes
+that they can argue Arthur has dissociative
+
+437
+00:40:13,424 --> 00:40:18,142
+identity disorder and is mentally unfit to be
+held accountable for his crimes. having can
+
+438
+00:40:18,222 --> 00:40:23,104
+meet with a psychologist to gather evidence
+for her case. Now, the animated opening was
+
+439
+00:40:23,124 --> 00:40:27,506
+an interesting surprise. It was actually created
+by the same studio that did the triplets of
+
+440
+00:40:27,566 --> 00:40:33,049
+Belleville, which is a fantastic animated film.
+Yeah, I was really taken back by the opening.
+
+441
+00:40:33,109 --> 00:40:37,871
+I thought it was pretty clever, actually. I
+just like cartoons, you know, and the idea
+
+442
+00:40:37,911 --> 00:40:42,073
+of having the movie open with a cartoon kind
+of brought me back to, you know, the 1989.
+
+443
+00:40:42,954 --> 00:40:47,756
+VHS copy of the Batman movie that you had with
+Bugs Bunny and Duffy Duck and I don't know
+
+444
+00:40:47,776 --> 00:40:54,179
+if this was an homage to that per se but it
+was At least an interesting way at the very
+
+445
+00:40:54,240 --> 00:40:58,362
+least to open your film. That's right You can't
+watch your Warner Brothers movie with our Warner
+
+446
+00:40:58,382 --> 00:41:06,114
+Brothers ballcat Now regarding Arthur's trial
+for the murder of five victims I was trying
+
+447
+00:41:06,134 --> 00:41:10,776
+to count in my head the five victims. Now we
+knew that he killed the three people on the
+
+448
+00:41:10,816 --> 00:41:15,519
+subway, that he killed the clown who bullied
+him. And we know that he killed Murray Franklin
+
+449
+00:41:15,559 --> 00:41:19,981
+live on TV. So right away, I was like frustrated
+thinking that they had got the number wrong
+
+450
+00:41:20,041 --> 00:41:24,224
+because we knew that he killed his mom. And
+I was under the assumption that he did kills
+
+451
+00:41:24,364 --> 00:41:29,426
+as a beats character from the first Joker film.
+So I had my number at seven. I was actually
+
+452
+00:41:29,467 --> 00:41:33,269
+higher than that because I assumed he killed
+the psychiatrist lady at the end of the movie
+
+453
+00:41:33,309 --> 00:41:37,978
+as well. Right, right, right. Yeah, I was wondering
+about her too, and then I was surprised to
+
+454
+00:41:37,998 --> 00:41:42,900
+see that, you know, he didn't kill the psychiatrist
+at the end of The First Joker. Yeah, so this
+
+455
+00:41:42,920 --> 00:41:47,821
+film actually answered quite a number of questions
+as to who was killed in the first movie and
+
+456
+00:41:47,861 --> 00:41:53,103
+who wasn't. I'm actually pretty happy that Zazie
+Beats and her daughter were not killed. Right.
+
+457
+00:41:53,423 --> 00:41:57,904
+Yeah, because I think we described her state
+as kind of like a Schrodinger's cat type situation.
+
+458
+00:41:58,044 --> 00:42:02,785
+You know, she was neither alive nor dead until
+the movie chose to reveal that fact, and here
+
+459
+00:42:02,805 --> 00:42:07,340
+they did. What is your theory as to what the
+hell is up with Brandon Gleason's character?
+
+460
+00:42:07,700 --> 00:42:11,542
+Like, he obviously wasn't a nice guy. They kind
+of portrayed him as a fairly straightforward
+
+461
+00:42:11,602 --> 00:42:16,425
+prison guard who was an asshole, right? But
+he wasn't always an asshole. It was really
+
+462
+00:42:16,445 --> 00:42:21,187
+hard to crack his character, I found. He wasn't
+consistent in the slightest. I think he just
+
+463
+00:42:21,247 --> 00:42:26,410
+enjoyed being entertained by Arthur. I think
+he enjoyed kind of the celebrity of Arthur.
+
+464
+00:42:26,430 --> 00:42:31,653
+I was just kind of semi-fascinated by that.
+The fact that he had power over someone who
+
+465
+00:42:31,673 --> 00:42:37,103
+was a celebrity. That's what I got. He almost
+wanted to tease Arthur by taking him to the
+
+466
+00:42:37,123 --> 00:42:41,285
+music classes, but also it was kind of just
+an excuse for him to sing as well, because
+
+467
+00:42:41,345 --> 00:42:46,867
+the dude loved to sing. Now, after Jackie Sullivan,
+a security guard known for singing, gets Arthur
+
+468
+00:42:46,907 --> 00:42:52,409
+to kiss a fellow criminal inmate named Ricky
+for the guard's amusement, Jackie informs Arthur
+
+469
+00:42:52,429 --> 00:42:57,352
+that he signed him up for a music therapy class
+due to his good behavior. During his first
+
+470
+00:42:57,432 --> 00:43:01,993
+session, Lee tells Arthur that she was forced
+into the mental care facility by her mother,
+
+471
+00:43:02,462 --> 00:43:06,504
+after setting fire to an apartment building,
+that she lives in the same neighborhood he
+
+472
+00:43:06,544 --> 00:43:11,527
+did, that her father died, and that she's a
+big fan of the movie they made of Arthur's
+
+473
+00:43:11,567 --> 00:43:17,711
+crimes. Arthur, beguiled by Lee, confesses to
+her that he actually killed six people, including
+
+474
+00:43:17,751 --> 00:43:22,654
+his mother. Upon his return to the hospital's
+criminal wing, Arthur learns that district
+
+475
+00:43:22,674 --> 00:43:27,737
+attorney Harvey Dent is seeking the death penalty
+for Arthur's crimes, sending Arthur into an
+
+476
+00:43:29,558 --> 00:43:34,844
+before succumbing to a fit of uncontrollable
+laughter in reality. The song that played while
+
+477
+00:43:34,884 --> 00:43:40,590
+all the inmates were watching TV made me realize,
+oh, Joaquin Phoenix is not a great singer,
+
+478
+00:43:40,690 --> 00:43:46,517
+at least not in the musical theater type of
+sense. Oh yeah, I don't know if he's ever been
+
+479
+00:43:46,537 --> 00:43:54,795
+a stage performer, but I could see where he
+hasn't. He has been in a band though, I know
+
+480
+00:43:54,835 --> 00:43:59,239
+that. Yeah, yeah. I don't remember if he was
+the lead singer or not though. But not every
+
+481
+00:43:59,459 --> 00:44:04,323
+lead singer in a band can be in a musical. It's
+just a different type of voice training really.
+
+482
+00:44:04,363 --> 00:44:08,967
+True. So it was kind of awkward hearing him
+sing in this moment and being like, oh shit,
+
+483
+00:44:09,047 --> 00:44:13,851
+no. Yeah, that's harsh. I didn't think he was
+that bad. Now the scene after that where he
+
+484
+00:44:13,871 --> 00:44:19,195
+was crying out on the rain really communicated
+the message that he is afraid of dying. He
+
+485
+00:44:19,235 --> 00:44:23,626
+does not want to receive the death penalty at
+the hands of the state. Yeah, that was a pretty
+
+486
+00:44:23,746 --> 00:44:30,070
+powerful scene and brought up an interesting
+theme of the fear of mortality. But it wasn't
+
+487
+00:44:30,190 --> 00:44:35,753
+one that was really expanded upon too much more
+considering that Arthur had something to live
+
+488
+00:44:35,773 --> 00:44:41,797
+for now. That was Lee. Mm hmm. I do think perhaps
+that scene was misplaced. I think it was just
+
+489
+00:44:42,117 --> 00:44:46,680
+a really powerful performance by Joaquin Phoenix
+and they had to put it somewhere. And so they
+
+490
+00:44:46,700 --> 00:44:50,726
+put it there. I don't think that's the only
+place you could have put it, though. Honestly,
+
+491
+00:44:50,826 --> 00:44:55,549
+I would have saved that for the very, very end
+after Lee dumped him and he was back in Arkham.
+
+492
+00:44:55,869 --> 00:45:00,251
+That would have been perfect. Absolutely. Now
+during a movie screening of the 1954 musical
+
+493
+00:45:00,271 --> 00:45:06,154
+The Bandwagon for the musical therapy animates,
+Lee sets fire to a piano to get Arthur's attention,
+
+494
+00:45:06,474 --> 00:45:11,657
+and the two escape the hospital building alone,
+singing and dancing together and capturing
+
+495
+00:45:11,677 --> 00:45:16,300
+the attention of press outside the hospital
+who wanted Arthur to comment on his upcoming
+
+496
+00:45:16,360 --> 00:45:22,055
+trial. After the two are captured by the hospital
+guards, Arthur is placed in solitary confinement,
+
+497
+00:45:22,435 --> 00:45:28,439
+where he dreams of dancing with Lee upon the
+Gotham rooftops. Upon awakening from a dream,
+
+498
+00:45:28,839 --> 00:45:34,242
+Arthur finds Lee beside him, claiming one of
+the guards let her in, and she informs him
+
+499
+00:45:34,382 --> 00:45:38,985
+that the hospital is sending her home because
+he's a bad influence on her. While painting
+
+500
+00:45:39,025 --> 00:45:44,028
+his face with Joker makeup, she encourages him
+to stop taking his medication, promising that
+
+501
+00:45:44,068 --> 00:45:49,155
+they'll build a mountain and be together. when
+his trial is over before the two have sex in
+
+502
+00:45:49,215 --> 00:45:53,236
+Arthur's cell. Now, I totally thought that this
+was a scene that was all in Arthur's head,
+
+503
+00:45:53,256 --> 00:45:58,719
+because no way in hell did I ever think that
+a prison guard would let another mental patient
+
+504
+00:45:58,939 --> 00:46:04,181
+into Arthur's cell for a conjugal visit or anything
+like that, you know? It just didn't make sense.
+
+505
+00:46:05,081 --> 00:46:09,723
+It wasn't until we hear Lee speaking to reporters
+about how they're going to build a mountain
+
+506
+00:46:10,143 --> 00:46:14,125
+referencing the line that she had previously
+told him in the cell that I realized, okay,
+
+507
+00:46:14,145 --> 00:46:18,348
+so maybe that did happen. It still just doesn't
+make any sense to me. Well, I didn't realize
+
+508
+00:46:18,388 --> 00:46:24,512
+it until she told him that she was pregnant.
+And I was like, oh, wait, so that was real,
+
+509
+00:46:24,632 --> 00:46:30,116
+what? I guess if he was gonna make up a love
+scene between him and Lee, that he probably
+
+510
+00:46:30,176 --> 00:46:35,620
+would have performed better, is what I'll say.
+Hey man, it was probably his first time, he
+
+511
+00:46:35,640 --> 00:46:39,931
+did his best. That's true, that's true. This
+musical number where they're dancing on the
+
+512
+00:46:39,971 --> 00:46:45,334
+rooftops was actually my favorite musical scene.
+You know, you have Lady Gaga silhouetted against
+
+513
+00:46:45,394 --> 00:46:50,637
+the full moon and you have the sign on the rooftop
+that says Arkham Hotel. I just thought it was
+
+514
+00:46:50,677 --> 00:46:55,039
+beautifully rendered. Oh, absolutely. Yeah,
+the dancing was fantastic. There was actually
+
+515
+00:46:55,340 --> 00:47:00,803
+no singing in that scene. But yeah, it was great
+as a dream sequence. Now, in an attempt to
+
+516
+00:47:00,823 --> 00:47:06,526
+garner public support for Arthur and the argument
+that he has a split personality. Mary Ann schedules
+
+517
+00:47:06,626 --> 00:47:12,571
+a live television interview with a sensationalist
+journalist named Patty Myers, who riles Arthur
+
+518
+00:47:12,671 --> 00:47:17,474
+up into singing about his love for Lee. The
+next day, Arthur arrives at the courthouse
+
+519
+00:47:17,494 --> 00:47:22,718
+with hundreds of protesters outside, both for
+and against him. While Harvey and Mary Ann
+
+520
+00:47:22,738 --> 00:47:28,022
+question several mental professionals in regards
+to the possibility of Arthur's split personality,
+
+521
+00:47:28,462 --> 00:47:33,526
+Lee shows up late to the trial and argues with
+Mary Ann in front of the press, about how her
+
+522
+00:47:33,586 --> 00:47:38,950
+approach is making Arthur look bad for his fans.
+After advocating for more involvement from
+
+523
+00:47:39,010 --> 00:47:44,375
+Lee, Arthur learns from Marianne while back
+in his cell that Lee has been lying to him,
+
+524
+00:47:44,715 --> 00:47:50,039
+that she actually grew up with wealthy parents
+who are still alive, studied postgraduate psychology,
+
+525
+00:47:50,440 --> 00:47:56,725
+and checked herself in and out of Arkham willingly.
+When Lee visits Arthur and he confronts her,
+
+526
+00:47:57,005 --> 00:48:01,489
+she confesses to everything but convinces him
+that she still loves him, that she's moved
+
+527
+00:48:01,529 --> 00:48:06,372
+into his old home. and that she's pregnant with
+his child. The Patty Meyers interview with
+
+528
+00:48:06,472 --> 00:48:11,694
+actor Steve Coogan, I thought was going to be
+a much bigger thing than it was in the actual
+
+529
+00:48:11,754 --> 00:48:16,537
+movie. I thought Steve Coogan's life was going
+to be threatened in some way. I'm not sure
+
+530
+00:48:16,577 --> 00:48:21,580
+why, but I also thought this was like the weirdest
+musical performance of the entire movie. Yeah,
+
+531
+00:48:21,600 --> 00:48:25,962
+I was actually surprised Patty just let his
+interview essentially become a music video.
+
+532
+00:48:26,823 --> 00:48:30,325
+You know, the cameras were zooming in on Arthur
+as he was singing and everything like that
+
+533
+00:48:30,345 --> 00:48:36,096
+and the whole thing just totally got derailed.
+It's things like that, like that moment and
+
+534
+00:48:36,216 --> 00:48:40,118
+even the judge letting Joker wear makeup in
+the courtroom and stuff like that, that just
+
+535
+00:48:40,198 --> 00:48:46,762
+add this surreal, unbelievable quality to the
+film that just didn't ring true and was kind
+
+536
+00:48:46,802 --> 00:48:51,905
+of annoying. Well, another thing similar to
+that was during the Patty interview when Lee
+
+537
+00:48:51,945 --> 00:48:57,888
+was watching from outside a department store
+window with televisions. She's rich. Go inside.
+
+538
+00:48:58,328 --> 00:49:03,447
+Buy the TV. You don't need to break the window.
+grab the TV and then walk away and get away
+
+539
+00:49:03,467 --> 00:49:07,250
+with it. Like people saw you do that. Yeah,
+I'm surprised nobody confronted her about it.
+
+540
+00:49:07,770 --> 00:49:14,335
+I was actually pretty excited when I saw Ken
+Lung, a psychiatrist up on the stand as one
+
+541
+00:49:14,375 --> 00:49:20,140
+of the expert witnesses for the prosecution.
+I thought that was Hugo Strange because I totally
+
+542
+00:49:20,160 --> 00:49:25,664
+didn't hear them say his name during the movie.
+But after doing my research, it turns out that's
+
+543
+00:49:25,764 --> 00:49:31,343
+Dr. Victor Liu. So that was... I feel like a
+wasted opportunity. When Marianne calls Arthur's
+
+544
+00:49:31,483 --> 00:49:37,625
+old neighbor and romantic crush Sophie Dumond
+to the stand, Arthur is reminded of past childhood
+
+545
+00:49:37,665 --> 00:49:42,267
+trauma while learning the hurtful truth of how
+his mother expressed her feelings toward him
+
+546
+00:49:42,587 --> 00:49:49,590
+to others. Enraged and humiliated, Arthur fires
+Marianne, and that evening, the prisoners riot
+
+547
+00:49:49,650 --> 00:49:55,233
+as they cheer on Arthur for standing up to authority.
+The next day, Arthur represents himself at
+
+548
+00:49:55,253 --> 00:50:00,815
+the trial while wearing Joker makeup. While
+questioning his former co-worker, Gary Puddles,
+
+549
+00:50:00,875 --> 00:50:07,438
+on the stand, Arthur argues that those who he
+killed deserved to die. Gary reveals to Arthur,
+
+550
+00:50:07,478 --> 00:50:12,841
+however, that his actions have more victims
+than just the men who hurt Arthur. Victims
+
+551
+00:50:12,921 --> 00:50:18,163
+like Gary, who witnessed one of the murders
+and is still traumatized by it. After Harvey
+
+552
+00:50:18,283 --> 00:50:24,086
+rests his case, Arthur refuses to call any more
+witnesses in his defense. instead chastising
+
+553
+00:50:24,146 --> 00:50:28,808
+society and insulting the hospital guards, after
+which Arthur leaves the courtroom with Lee
+
+554
+00:50:29,088 --> 00:50:34,270
+and the two fantasize about getting married.
+The Gary Puddles questioning I thought was
+
+555
+00:50:34,310 --> 00:50:41,053
+a really powerful scene in the movie. I'm not
+sure why WKF decided to go with the Southern
+
+556
+00:50:41,253 --> 00:50:47,496
+accent for the Joker in this scene, but to me
+it wasn't necessarily as important as him breaking
+
+557
+00:50:47,536 --> 00:50:54,034
+character when he was realizing what Gary was
+saying was true. I think he was just kind of
+
+558
+00:50:54,154 --> 00:50:59,335
+emulating some of the more popular Southern
+lawyers in the vein of like Gose of Mississippi
+
+559
+00:50:59,375 --> 00:51:03,417
+or the Lincoln lawyer or something like that.
+I don't think it was necessary because I don't
+
+560
+00:51:03,457 --> 00:51:09,278
+think that like Southern lawyer archetype is
+broadly known, but I do think that the Gary
+
+561
+00:51:09,298 --> 00:51:13,660
+Puddles questioning was the strongest scene
+of the film. Yeah, one of them for sure. I
+
+562
+00:51:13,820 --> 00:51:19,841
+totally agree. The judge in this trial just
+fucking sucked though, man. Like, why the hell
+
+563
+00:51:19,861 --> 00:51:24,316
+did he not put Arthur Fleck in contempt of court,
+or at least, you know, like silence him when
+
+564
+00:51:24,336 --> 00:51:27,979
+he was going off on his rant. I guess it didn't
+matter if he held him in contempt because he's
+
+565
+00:51:28,019 --> 00:51:32,262
+already in prison and everything like that,
+but he should have called for order so many
+
+566
+00:51:32,302 --> 00:51:37,446
+more times than he did in the course of this
+trial. Yeah, 100% he should have. I thought
+
+567
+00:51:37,466 --> 00:51:42,849
+it was weird how they had that sequence of Joker
+and Harley getting married. Like, why include
+
+568
+00:51:42,890 --> 00:51:47,873
+that if it's not going to happen? I understand
+you want to show maybe Joaquin Phoenix fantasizing
+
+569
+00:51:47,893 --> 00:51:53,823
+about that. But he did it after a moment when
+he ran off with Lee. So it's almost like it
+
+570
+00:51:53,843 --> 00:51:58,925
+was a shared fantasy between them. When, if
+there was a shared fantasy between them, why
+
+571
+00:51:58,965 --> 00:52:03,306
+didn't they get married in real life? There's
+probably no opportunity to. I think you could
+
+572
+00:52:03,446 --> 00:52:08,888
+marry someone who's locked up. All you have
+to do is sign papers. Don't ask me, man. Now
+
+573
+00:52:08,908 --> 00:52:14,109
+upon returning to Arkham, Joker is assaulted,
+seemingly sexually, by the guards in the hospital
+
+574
+00:52:14,149 --> 00:52:19,413
+showers. After being dragged back to his cell,
+Arthur listens as the inmate Ricky gets riled
+
+575
+00:52:19,473 --> 00:52:24,097
+up and is strangled to death by the guards.
+The next day in the courtroom, Arthur prepares
+
+576
+00:52:24,117 --> 00:52:29,082
+to go on a tirade during his closing remarks
+to the jury, blaming society for his life and
+
+577
+00:52:29,222 --> 00:52:34,086
+actions, but instead he confesses that it wasn't
+an alternate personality that killed those
+
+578
+00:52:34,126 --> 00:52:39,510
+people, that the Joker persona isn't something
+he grapples with or a rebellious cause of the
+
+579
+00:52:39,530 --> 00:52:45,507
+disenfranchised that he wants to champion. Enraged,
+Lee storms out of the courtroom and returns
+
+580
+00:52:45,547 --> 00:52:50,951
+home, where she seemingly attempts suicide as
+Arthur leaves a voicemail expressing his feelings
+
+581
+00:52:51,011 --> 00:52:57,696
+for her. That was strange. Like, super strange.
+I don't understand why they had that attempted
+
+582
+00:52:57,776 --> 00:53:03,239
+suicide scene with Harley if they didn't address
+it in any way, shape or form later on. It just
+
+583
+00:53:03,259 --> 00:53:08,043
+seemed kind of random. It feels like there was
+a missing scene. Yeah, that's what it feels
+
+584
+00:53:08,083 --> 00:53:12,434
+like. Like, why didn't she go through with it?
+Why did she give herself a haircut? Why was
+
+585
+00:53:12,454 --> 00:53:16,456
+she just like hanging out on the steps? Was
+she waiting for Arthur? Was she responsible
+
+586
+00:53:16,496 --> 00:53:21,700
+for the bomb? Yeah. No idea. My guess is that
+she struggled with pulling the trigger, decided
+
+587
+00:53:21,780 --> 00:53:27,764
+not to cut her hair, and let the Joker go from
+her life. Basically deciding that this facade
+
+588
+00:53:27,784 --> 00:53:32,147
+of a guy was not worth killing herself over.
+That's like another headcanon piece regarding
+
+589
+00:53:32,287 --> 00:53:35,850
+the character of Harley Quinn that they should
+have shown in the movie, and they didn't. So
+
+590
+00:53:35,890 --> 00:53:39,652
+many better scenes could have been included
+in this film other than these musical numbers
+
+591
+00:53:39,692 --> 00:53:46,390
+that were just totally unnecessary. 100% Absolutely.
+That is the truthiest truth that has been truth
+
+592
+00:53:46,570 --> 00:53:52,535
+on this review. Now when the jury reads their
+guilty verdict, Arthur begins laughing uncontrollably,
+
+593
+00:53:52,835 --> 00:53:57,579
+causing a member of one of the victim's families
+to attack him. In the chaos of the courtroom,
+
+594
+00:53:57,960 --> 00:54:04,325
+a random car bomb explodes outside the courthouse,
+injuring many in the courtroom, including scarring
+
+595
+00:54:04,485 --> 00:54:09,509
+one half of Harvey's face. When a dazed Arthur
+stumbles out of the rubble into the street,
+
+596
+00:54:09,998 --> 00:54:15,679
+He encounters a man dressed as Joker, who helps
+him get into his friend's car. As the two drive
+
+597
+00:54:15,699 --> 00:54:20,920
+away discussing how Arthur is going to help
+bring to a head a societal revolution, Arthur
+
+598
+00:54:20,980 --> 00:54:25,482
+escapes the vehicle and eventually makes his
+way to the steps outside of his old apartment,
+
+599
+00:54:25,682 --> 00:54:31,583
+where he finds Lee, still alive, but with a
+new haircut. Rather than flee with Arthur,
+
+600
+00:54:31,943 --> 00:54:36,365
+Lee tells him it's over between them and that
+their relationship was only ever a fantasy,
+
+601
+00:54:36,765 --> 00:54:42,103
+while cops surround them and take Arthur back
+to Arkham. The next day, Arthur is informed
+
+602
+00:54:42,163 --> 00:54:47,488
+by a guard that he has a visitor, and as he
+goes to see who it is, he's stopped by another
+
+603
+00:54:47,648 --> 00:54:53,914
+unnamed inmate who had been observing him throughout
+the film, who tells a joke expressing his disappointment
+
+604
+00:54:53,974 --> 00:54:59,359
+in Arthur for giving up the Joker persona before
+stabbing Arthur repeatedly in the stomach.
+
+605
+00:54:59,639 --> 00:55:05,804
+Then, laughing, uses the blade to slice a smile
+into his cheeks. As Arthur lays on the ground
+
+606
+00:55:05,864 --> 00:55:10,953
+bleeding and dying, A smile forms on his face
+just before he passes. Okay, you covered a
+
+607
+00:55:10,973 --> 00:55:15,977
+lot of ground there. Going back to the bomb,
+you said it was a random car bomb that went
+
+608
+00:55:16,017 --> 00:55:22,402
+off. I don't think it was random, but I'm wondering
+who even set the bomb. Like where did the bomb
+
+609
+00:55:22,442 --> 00:55:27,187
+come from? Were they trying to kill Arthur Fleck
+for disavowing the Joker or were they trying
+
+610
+00:55:27,207 --> 00:55:31,430
+to free him or what was the point of it all?
+Oh, that's a good question. I never considered
+
+611
+00:55:31,450 --> 00:55:36,658
+that someone might actually be trying to kill
+Arthur. That's valid. It's random in the sense
+
+612
+00:55:36,678 --> 00:55:42,283
+that we don't know why it went off or who set
+it off, essentially. At first I thought maybe
+
+613
+00:55:42,303 --> 00:55:46,327
+it was the people who rescued him, but that
+wouldn't make sense necessarily. It's almost
+
+614
+00:55:46,347 --> 00:55:51,411
+like the guy in the Joker makeup had no idea
+what was going on with the trial because him
+
+615
+00:55:51,431 --> 00:55:55,214
+and his buddy were talking about how Arthur
+Fleck was going to change the world and everything
+
+616
+00:55:55,234 --> 00:56:00,979
+like that, but he had just got done disavowing
+the Joker, right? I want to know why everyone
+
+617
+00:56:01,019 --> 00:56:07,124
+seemingly got horribly injured in this blast.
+and yet Joker, who was pretty close to it,
+
+618
+00:56:07,484 --> 00:56:13,610
+was not. That's a great question. It felt inconsistent.
+Friggin' Harvey Dent got his face all fucked
+
+619
+00:56:13,670 --> 00:56:17,934
+up. That was actually a pretty neat moment,
+I thought. That was cool, that was cool. I
+
+620
+00:56:17,974 --> 00:56:22,218
+like the actor who played Harvey Dent. I agree,
+I liked the choice that they went with. I liked
+
+621
+00:56:22,238 --> 00:56:27,122
+his voice, he did a fantastic job. Now, as I
+mentioned earlier, there are set photos that
+
+622
+00:56:27,162 --> 00:56:32,667
+were taken while filming was occurring of Harley
+pushing. Arthur down the steps and that's what
+
+623
+00:56:32,707 --> 00:56:38,292
+I thought was going to happen. It should have
+happened. Yeah, possibly. Either that or they
+
+624
+00:56:38,332 --> 00:56:42,615
+went off together, but I totally thought that
+Harley was going to kill Joker in that moment.
+
+625
+00:56:42,855 --> 00:56:49,221
+I've seen people say that the man who kills
+Arthur at the end is the Dark Knight's Heath
+
+626
+00:56:49,261 --> 00:56:54,865
+Ledger's Joker. This is obviously not the same
+universe as The Dark Knight considering we
+
+627
+00:56:54,885 --> 00:57:00,394
+have different origin stories for Harvey Dent
+and the death of the Waynes. Right. Oh, yeah,
+
+628
+00:57:00,434 --> 00:57:06,055
+this is totally not Heath Ledger's Joker. I
+think maybe they were trying to reference that
+
+629
+00:57:06,075 --> 00:57:10,657
+version of the Joker. But no, there are too
+many discrepancies between this universe that
+
+630
+00:57:10,817 --> 00:57:15,698
+Arthur Fleck exists in and the Dark Knight's
+continuity. And after this movie, I don't want
+
+631
+00:57:15,738 --> 00:57:21,440
+them to be related. Like this movie already
+kind of ruined the first Joker movie. Don't
+
+632
+00:57:21,480 --> 00:57:27,902
+let it ruin the Dark Knight trilogy as well.
+Now, we've been bashing on this film for. the
+
+633
+00:57:28,002 --> 00:57:33,406
+whole duration of this review basically. I do
+want to emphasize though that for the most
+
+634
+00:57:33,446 --> 00:57:39,572
+part, I thought the film was really well made
+and I liked it up until the final moments.
+
+635
+00:57:39,892 --> 00:57:45,216
+Because once Arthur disavowed the Joker, the
+film was essentially anti-climax after anti-climax
+
+636
+00:57:45,557 --> 00:57:52,442
+after yet another anti-climax. And therefore
+unbelievably disappointing as a comic fan or
+
+637
+00:57:52,623 --> 00:58:00,316
+the lover of story in general. I think the film's
+craze-worthy performances and gorgeous cinematography
+
+638
+00:58:00,457 --> 00:58:06,221
+just can't salvage the poor punchline of an
+ending in this ultimately disappointing follow-up
+
+639
+00:58:06,341 --> 00:58:12,265
+to the original, which again was fantastic.
+I really, really wanted to give this film three
+
+640
+00:58:12,325 --> 00:58:20,351
+stars, but upon doing this review, I realized
+I can't in good conscience do that. I liked
+
+641
+00:58:20,391 --> 00:58:25,819
+the movie up until the final act for the most
+part, but There are a lot of problems throughout
+
+642
+00:58:25,859 --> 00:58:31,923
+the film, not just in the final act. So I'm
+giving it two and a half out of five stars,
+
+643
+00:58:32,483 --> 00:58:37,847
+a rotten rating on Rotten Tomatoes. Yeah, I
+think I would go along that route too. Two
+
+644
+00:58:37,867 --> 00:58:42,230
+and a half sounds fair. You know, it's an F
+rating. Definitely not recommended. Definitely
+
+645
+00:58:42,250 --> 00:58:47,253
+getting a rotten tomato from me. I just can't
+believe how disappointed I was walking out
+
+646
+00:58:47,293 --> 00:58:52,260
+of the theater. Dude, and that being even from
+someone who didn't have the highest of expectations
+
+647
+00:58:52,300 --> 00:58:57,384
+for the film regardless, it just on so many
+levels was not the movie that it should have
+
+648
+00:58:57,404 --> 00:59:01,347
+been. It didn't live up to its potential set
+up by the first film or even, you know, its
+
+649
+00:59:01,427 --> 00:59:06,951
+premise. And that's one of the most tragic things
+about this story. But you know what? As long
+
+650
+00:59:06,971 --> 00:59:11,314
+as people saw the first one, they don't need
+to see this one. This one, as far as I'm concerned,
+
+651
+00:59:11,835 --> 00:59:18,718
+is dead to me. I don't ever want to talk about
+it again. Warner Brothers had one job this
+
+652
+00:59:18,758 --> 00:59:25,621
+year, one job, put out a good DC movie, and
+they blew it. And that, kind of in a twisted
+
+653
+00:59:25,661 --> 00:59:31,864
+way, makes me happy, because an L for DC is
+a W for Marvel, as far as I'm concerned. This
+
+654
+00:59:31,924 --> 00:59:39,487
+is an L for the comic book genre, because this
+was supposed to be yet another film that elevated
+
+655
+00:59:39,707 --> 00:59:46,002
+it to the point of it winning accolades amongst
+the broader Hollywood industry. So yeah, you
+
+656
+00:59:46,022 --> 00:59:52,304
+should not have a smile on your face. We should
+all have our upside down Joker faces on. No,
+
+657
+00:59:52,364 --> 00:59:57,285
+I think the success of Deadpool and Wolverine
+is still riding pretty high. Although, you
+
+658
+00:59:57,305 --> 01:00:01,666
+know, that may entirely change if the Venom
+movie really sucks that's coming out in a few
+
+659
+01:00:01,706 --> 01:00:06,168
+weeks and if Craven really sucks. We may be
+in dire straits here as far as the genre is
+
+660
+01:00:06,208 --> 01:00:10,989
+concerned. I hate to tell you this, but Deadpool
+and Wolverine is not winning any Oscars. I
+
+661
+01:00:11,009 --> 01:00:16,677
+don't care. You should. You want the box office
+saying so many people saw it. So many people
+
+662
+01:00:16,697 --> 01:00:22,042
+loved it. So the Joker is just a moot point.
+But it's more than that. It's way more than
+
+663
+01:00:22,062 --> 01:00:27,446
+that, unfortunately. Its failure, I think, is
+a massive blow to what James Gunn and Peter
+
+664
+01:00:27,486 --> 01:00:34,973
+Seifert and want to do with DC Studios. It just
+it's that's funny, too, though. Oh, fuck you.
+
+665
+01:00:35,073 --> 01:00:43,086
+Whatever, dude, whatever. I'm done with this
+review. AJ, help close this out. Thanks for
+
+666
+01:00:43,126 --> 01:00:48,407
+listening to Dynamic duel. Visit the show's
+website at dynamicduel.com and follow us on
+
+667
+01:00:48,467 --> 01:00:54,949
+Instagram at dynamicduelpodcast. You can support
+the show on Patreon at patreon.com slash dynamicduel
+
+668
+01:00:55,069 --> 01:00:59,270
+and joining a tier that works for you, or by
+rating and reviewing Dynamic duel on Apple
+
+669
+01:00:59,310 --> 01:01:04,932
+Podcasts, Spotify, Podchaser or on our website.
+Don't forget to listen to the other shows in
+
+670
+01:01:04,952 --> 01:01:10,473
+the DynaMic Podcast Network, including Max
+Destruction, Senjow World and Console Combat.
+
+671
+01:01:12,210 --> 01:01:19,011
+In our next episode as part of Spooktober, we
+will be doing a duel between Clarion the Witch
+
+672
+01:01:19,051 --> 01:01:25,013
+Boy and Agatha Harkness. It's a witch on witch
+battle. And which witch is going to win? We'll
+
+673
+01:01:25,033 --> 01:01:28,614
+find out next week. But that does it for this
+episode. We want to give a big thanks to our
+
+674
+01:01:28,654 --> 01:01:34,135
+executive producers. Ken Johnson, John Swarovski,
+Zachary Hepburn, Dustin Balcom, Mickey Mathengian,
+
+675
+01:01:34,256 --> 01:01:39,657
+Brandon Estregard, Nathaniel Wagner, Levi Yeaton,
+Austin Wazilowski, AJ Dunkerley, Scott Camacho,
+
+676
+01:01:41,830 --> 01:01:47,116
+Andrew Schunk, Dean Molesky, Devin Davis, Joseph
+Kirsting, and Josh Leiner for helping make
+
+677
+01:01:47,156 --> 01:01:51,822
+this podcast possible. We'll talk to you guys
+next week. Up up and away, true believers.
+
