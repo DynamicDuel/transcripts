@@ -1,0 +1,2530 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a DynaMic Network podcast.
+
+2
+00:00:24,398 --> 00:00:29,620
+And welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,660 --> 00:00:35,302
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:35,723 --> 00:00:43,066
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, we are doing a spooktacular
+
+5
+00:00:43,106 --> 00:00:50,009
+duel between two witch characters, Clarion the
+Witch Boy from DC and Agatha Harkness from
+
+6
+00:00:50,089 --> 00:00:56,359
+Marvel. who currently of course has her own
+series on Disney Plus, Agatha All Along. Yeah,
+
+7
+00:00:56,439 --> 00:01:00,560
+I haven't started watching it yet. I'm hoping
+to binge it right before Halloween, because
+
+8
+00:01:00,580 --> 00:01:04,541
+it feels very Halloween-y and I don't want to
+wait week to week, basically. Well, hopefully
+
+9
+00:01:04,641 --> 00:01:09,043
+this episode will help people get in the Halloween
+spirit, but before we get into the duel, we're
+
+10
+00:01:09,063 --> 00:01:12,764
+going to break down the comic book movie news
+from the past week, of which there's really
+
+11
+00:01:12,784 --> 00:01:18,045
+just one news item, and that was that Aaron
+Pierre has been cast as Jon Stewart in the
+
+12
+00:01:18,085 --> 00:01:22,457
+Green Lantern series. As always, we list our
+segment times in our episode description, so
+
+13
+00:01:22,477 --> 00:01:26,723
+feel free to check out the show notes if you
+want to skip ahead to a particular topic. Guys,
+
+14
+00:01:26,763 --> 00:01:30,848
+our artificially intelligent duel simulator
+AJ9K has a quick message for our listeners,
+
+15
+00:01:31,229 --> 00:01:37,811
+so listen up! Why hello there, do you want even
+more from this podcast? Then become a part
+
+16
+00:01:37,851 --> 00:01:42,593
+of the dynamic duel community on Patreon, where
+you can choose from three tiers. The dynamic
+
+17
+00:01:42,633 --> 00:01:47,475
+2-0 tier gives you access to our Discord chat
+server. The fantastic 4 tier gives you two
+
+18
+00:01:47,515 --> 00:01:52,037
+bonus episodes each month, and the X-Force tier
+makes you an executive producer of this show.
+
+19
+00:01:52,577 --> 00:01:57,309
+Lastly, The Diner Mike podcast network tier
+lets you create your own podcast using this
+
+20
+00:01:57,369 --> 00:02:02,134
+Monte Carlo simulator. Johnny and Joe will help
+you develop your show, provide graphic support
+
+21
+00:02:02,174 --> 00:02:08,500
+and consultation, and get you simulation results.
+Pitch the twins your ideas via email at dynamicduelpodcast
+
+22
+00:02:08,620 --> 00:02:16,688
+at gmail.com. Check it out at patreon.com slash
+dynamicduel. Pip pip cheerio. Thanks AJ9K and
+
+23
+00:02:16,708 --> 00:02:20,670
+thanks to everyone who supports the podcast.
+Guys, be sure to tune into the other shows
+
+24
+00:02:20,710 --> 00:02:25,313
+on the DynaMic Podcast Network this week, including
+Max Destruction, which pits your favorite action
+
+25
+00:02:25,353 --> 00:02:30,556
+heroes from film and television against each
+other. This week, hosts Scotty and Gilly are
+
+26
+00:02:30,636 --> 00:02:36,739
+reviewing Beetlejuice for Spooktober. On the
+Cedro World podcast, host Zachary Hepburn speculates
+
+27
+00:02:36,779 --> 00:02:42,302
+on fights between fan favorite anime and manga
+characters. He did not release an episode last
+
+28
+00:02:42,362 --> 00:02:48,354
+week due to being sick, so the Muzan from Demon
+Slayer and Femto from Berserk episode will
+
+29
+00:02:48,374 --> 00:02:54,116
+be this Thursday. And on the Console Combat
+Podcast, hosts John and Dean simulate battles
+
+30
+00:02:54,156 --> 00:02:59,038
+between popular video game characters, and yesterday's
+episode they reviewed Five Nights at Freddy's.
+
+31
+00:02:59,499 --> 00:03:04,581
+Visit dynamicpodcasts.com or click the link
+in our show notes to listen to all of the shows
+
+32
+00:03:04,741 --> 00:03:12,124
+in the DynaMic Podcast Network. But with that
+out of the way, quick to the No Prize! A No
+
+33
+00:03:12,164 --> 00:03:16,471
+Prize is an award Marvel used to give out to
+fans. Our version, the Dynamic Duel No Prize,
+
+34
+00:03:16,751 --> 00:03:21,034
+is a digital award we post on Instagram for
+the person that we feel gave the best answer
+
+35
+00:03:21,074 --> 00:03:25,957
+to our question of the week. Last week we asked
+you guys, who's your favorite Robin character
+
+36
+00:03:25,977 --> 00:03:31,841
+from the comics, and why? We got a lot of answers,
+8 in total, but only 3 got an honorable mention,
+
+37
+00:03:32,202 --> 00:03:35,904
+and there was one No Prize winner, so let's
+go ahead and run those down. Our first honorable
+
+38
+00:03:35,944 --> 00:03:38,826
+mention goes to Mason Thompson, who said,
+
+39
+00:03:44,306 --> 00:03:49,009
+So I'll pull from the main selection. I'm gonna
+go with Jason, you know He went from people
+
+40
+00:03:49,049 --> 00:03:55,834
+wanting to vote him to get killed off To him
+coming back and he's popular in the main media
+
+41
+00:03:55,954 --> 00:04:00,797
+and he's a fan favorite I mean, that's just
+an insane comeback to not choose him He has
+
+42
+00:04:00,837 --> 00:04:06,741
+so much depth to him and feel just with Bruce
+and his connection So yeah, give me Jason is
+
+43
+00:04:06,781 --> 00:04:12,485
+the best Robin. Yeah, Jason Todd has one of
+the most interesting Backstories of a comic
+
+44
+00:04:12,505 --> 00:04:17,744
+book character ever. Fans initially hated him,
+like Mason said. They voted for the character
+
+45
+00:04:17,804 --> 00:04:24,648
+to die decades ago. Although that wasn't really
+true. Yeah, actually one guy used a speed dialer
+
+46
+00:04:24,708 --> 00:04:29,491
+to vote way more times than anyone else, so
+it was kind of rigged. But, you know, for the
+
+47
+00:04:29,511 --> 00:04:36,535
+character to come back and be arguably the coolest
+Robin as Red Hood is quite the character arc.
+
+48
+00:04:36,895 --> 00:04:40,297
+Yeah, he had a lot of attitude as a Robin, which
+I think a lot of people didn't like, but...
+
+49
+00:04:40,618 --> 00:04:44,659
+It makes sense to parlay that attitude into
+more of a badass character in the Bat Family.
+
+50
+00:04:44,899 --> 00:04:48,621
+And he has a really cool look to him too, so.
+Yeah, absolutely. Of course, if you want to
+
+51
+00:04:48,641 --> 00:04:52,883
+learn more about Jason Todd, we put him in one
+of our duel episodes against the Punisher.
+
+52
+00:04:53,343 --> 00:04:59,385
+Great answer Mason! Our next honorable mention
+goes to Travis Herndon, who said, What's up
+
+53
+00:04:59,405 --> 00:05:04,027
+dynamic dudes? Travis here. Shout out to my
+evil twin. So my pick would have to be Duke
+
+54
+00:05:04,167 --> 00:05:11,522
+Thomas. Now I know he wasn't exactly chosen
+by Bruce. to be the new Robin it was Alfred
+
+55
+00:05:11,562 --> 00:05:17,144
+but Alfred is Bruce's second in command and
+I think Duke is pretty cool Robin at the time
+
+56
+00:05:17,264 --> 00:05:22,045
+and very underrated compared to like all the
+rest of the other bat family so yeah my answer
+
+57
+00:05:22,065 --> 00:05:27,046
+would be Duke Thomas that's my favorite Robin.
+Yeah Duke Thomas was a character who came around
+
+58
+00:05:27,126 --> 00:05:33,668
+during a time when Batman Bruce Wayne was dead
+but he quickly emerged as a pretty popular
+
+59
+00:05:33,728 --> 00:05:39,710
+teenage hero within Gotham of course he was
+never officially a Robin. but he is still a
+
+60
+00:05:39,770 --> 00:05:44,774
+part of the Bat Family as the character of Signal,
+Gotham's daytime protector, considering that
+
+61
+00:05:44,814 --> 00:05:50,859
+Duke Thomas is a metahuman with powers. What
+kind of powers? It involves light. I forget
+
+62
+00:05:50,879 --> 00:05:56,424
+the exact name of it, but he could essentially
+see the past sort of almost like in a photographic
+
+63
+00:05:56,464 --> 00:06:01,108
+way. Like if he looks into a room through the
+light, he can see what had transpired there
+
+64
+00:06:01,188 --> 00:06:06,012
+earlier. That's pretty cool. Yeah, it is really
+cool. Great answer, Travis Herndon. Our next
+
+65
+00:06:06,032 --> 00:06:12,185
+honorable mention goes to Gavin Carrasco. Who
+said? Hello, this is Gavin, first time responder.
+
+66
+00:06:14,127 --> 00:06:19,531
+I am coming with the hot take of Kara Kelly
+from The Dark Knight Returns. I always thought
+
+67
+00:06:19,571 --> 00:06:24,656
+she was the best of Dick Grayson with his wit
+and charm, and I always thought she was smart
+
+68
+00:06:24,676 --> 00:06:30,321
+like Tim Drake. And those are two of the best
+Robins, so them combined made a really good
+
+69
+00:06:30,902 --> 00:06:35,650
+Robin for an amazing Batman. So that's my answer,
+Kara Kelly from The Dark Knight Returns. Yeah,
+
+70
+00:06:35,690 --> 00:06:40,352
+I still remember the first time I read The Dark
+Knight Returns and how cool the character of
+
+71
+00:06:40,392 --> 00:06:45,115
+Carrie Kelly was as a Robin. She, of course,
+was the very first female Robin, you know,
+
+72
+00:06:45,195 --> 00:06:50,798
+outside of DC's standard continuity. And she
+did a fantastic job. Fan favorite, totally.
+
+73
+00:06:51,078 --> 00:06:56,581
+A favorite of mine for sure. So great answer,
+Gavin. Was she Robin chronologically before
+
+74
+00:06:56,621 --> 00:07:00,523
+Stephanie Brown was? Because I know Spoiler
+has been a Robin as well. Well, Spoiler wasn't
+
+75
+00:07:00,543 --> 00:07:07,719
+a Robin until I think the 2000s. Oh. So... Chronologically,
+it's hard to say because the Dark Knight returns
+
+76
+00:07:07,759 --> 00:07:12,642
+takes place in the future. But from a publishing
+standpoint Yeah, Carrie Kelly was the first
+
+77
+00:07:12,722 --> 00:07:18,005
+Robin. She wasn't Robin for long She moved on
+to being cat girl by the sequel to that story
+
+78
+00:07:18,385 --> 00:07:22,908
+But yeah, she still made for a cool Robin great
+answer Gavin We want to give a quick shout
+
+79
+00:07:22,948 --> 00:07:28,551
+out to Cyrus Moore Daniel Alonso Daniel you
+give the best answer. Basically his answer
+
+80
+00:07:28,591 --> 00:07:34,418
+was who cares? It's Robin and as a Marvel fan.
+I just loved that Shout out to Mike Williams
+
+81
+00:07:34,558 --> 00:07:38,682
+and Peter Trull for calling in with your answers.
+Thanks for taking the time to do that. But
+
+82
+00:07:38,702 --> 00:07:43,906
+the winner of this week's No Prize is... Miggy
+Mattingian, who said... Hey what's up guys,
+
+83
+00:07:43,926 --> 00:07:48,750
+this is Miggy and my favorite Robin is the OG,
+the best Robin, Dick Grayson. He's the paragon
+
+84
+00:07:48,770 --> 00:07:53,114
+of everything DC represents. He overcame great
+tragedy, the selflessly championed hope and
+
+85
+00:07:53,134 --> 00:07:58,358
+compassion to a world without those in and out
+of the costume, and grew into a respected figure
+
+86
+00:07:58,418 --> 00:08:03,026
+in the universe. He led teams like the Titans
+and the Outsiders to bring about justice. and
+
+87
+00:08:03,066 --> 00:08:08,029
+even led the entire superhero community through
+several world-shattering events like Dark Crisis,
+
+88
+00:08:08,089 --> 00:08:12,973
+Beast World, and Absolute Power. And he's just
+really damn cool. Thanks guys. Yeah, I know
+
+89
+00:08:13,053 --> 00:08:19,057
+of no bigger Nightwing Dick Grayson fan than
+our executive producer, Miggie Mathingian.
+
+90
+00:08:19,578 --> 00:08:24,721
+I agree Dick Grayson is the best Robin for all
+of the reasons that Miggie just stated. He
+
+91
+00:08:24,761 --> 00:08:29,185
+is one of the most interesting and probably
+one of the most important characters in the
+
+92
+00:08:29,225 --> 00:08:34,527
+entirety of DC Comics. someone who represents
+the hope and compassion of Superman, but with
+
+93
+00:08:34,567 --> 00:08:40,608
+all of the ability and expertise of Batman,
+he's just a fantastic character. Yeah, if you're
+
+94
+00:08:40,748 --> 00:08:45,649
+a member of our Discord channel, you know how
+much Mickey loves Dick. He loves Dick a lot.
+
+95
+00:08:46,290 --> 00:08:51,211
+Maybe too much, some might say, because the
+character is just so-so. I only see him as
+
+96
+00:08:51,271 --> 00:08:55,312
+the character who lost to Daredevil in the duel
+that we had between those two characters. Oh
+
+97
+00:08:55,352 --> 00:08:57,993
+wow, look, a Marvel fan with a low-hanging fruit.
+
+98
+00:09:01,678 --> 00:09:05,724
+Great answer, Miggy! Proud of you, Miggy! You
+win this week's No Prize. If you, the listener,
+
+99
+00:09:05,744 --> 00:09:09,830
+wanna try winning your own No Prize, stay tuned
+till later on in this episode when we'll be
+
+100
+00:09:09,930 --> 00:09:14,397
+asking another Question of the Week. But with
+that out of the way, on to the news!
+
+101
+00:09:19,918 --> 00:09:26,262
+Okay, so a few weeks ago we learned that Kyle
+Chandler was cast as Hal Jordan in the upcoming
+
+102
+00:09:26,402 --> 00:09:32,546
+Lantern series for HBO that's going to be a
+part of James Gunn's new DC Cinematic Universe.
+
+103
+00:09:32,946 --> 00:09:37,289
+Now, the series supposedly has two leads, Hal
+Jordan and Jon Stewart, and we've been waiting
+
+104
+00:09:37,329 --> 00:09:42,433
+to see who is going to be cast as Jon Stewart,
+this iconic Green Lantern character, and it
+
+105
+00:09:42,453 --> 00:09:48,637
+looks like James Gunn has gone with Aaron Pierre
+from the Netflix movie Rebel Ridge. Which I
+
+106
+00:09:48,657 --> 00:09:54,323
+have not seen. But I hear is good. It's really
+hard to be excited about this casting because
+
+107
+00:09:54,443 --> 00:09:58,464
+I have not seen that yet. I haven't seen it
+either, but apparently it's pretty popular
+
+108
+00:09:58,544 --> 00:10:03,365
+on Netflix. Yeah, and a lot of people are praising
+his performance in it. I know he has a ton
+
+109
+00:10:03,405 --> 00:10:08,707
+of upcoming work, including The Lion King. He's
+doing voice work for Mufasa. He's also playing
+
+110
+00:10:08,827 --> 00:10:14,708
+Malcolm X in the Nat Geo series, MLK slash X.
+The guy is definitely gonna be a star, especially
+
+111
+00:10:14,748 --> 00:10:19,894
+with this series. I think the craziest thing
+about him is that, I think he is green eyes
+
+112
+00:10:19,914 --> 00:10:23,956
+or blue eyes or something like that. They're
+very piercing in a way that the comic book
+
+113
+00:10:23,976 --> 00:10:29,520
+character John Stewart also has. Yeah, yeah,
+John Stewart has green eyes in the comics when
+
+114
+00:10:29,560 --> 00:10:34,342
+he has his green lantern ring on, but it's like
+they don't have any easy to do CGI for Aaron
+
+115
+00:10:34,382 --> 00:10:38,965
+Pierce eyes because yeah, those things are really
+bright, really striking. I wonder if that's
+
+116
+00:10:39,005 --> 00:10:42,627
+one of the reasons he was chosen. Well that,
+I mean, you know, he has a strong military
+
+117
+00:10:42,767 --> 00:10:47,730
+look to him. I believe him as, you know, this
+ex-military guy. If you guys want to learn
+
+118
+00:10:47,750 --> 00:10:52,113
+more about the comic book character of Jon Stewart,
+check out his duel episode we did against Quasar.
+
+119
+00:10:52,593 --> 00:10:57,136
+Yeah, that was a fun episode. Jon Stewart is
+my favorite Green Lantern, so I'm pretty excited
+
+120
+00:10:57,176 --> 00:11:01,458
+for this casting, given though I'm not too familiar
+with the actor. I'm more excited for this casting,
+
+121
+00:11:01,758 --> 00:11:06,241
+actually, than I was of hearing that Kyle Chandler
+was playing Kal Jordan. I wonder how the two
+
+122
+00:11:06,261 --> 00:11:11,204
+will do chemistry wise. I know that all the
+actors in Final Contention for the role of
+
+123
+00:11:11,244 --> 00:11:15,726
+Jon Stewart had to do a chemistry reading with
+Kyle Chandler. Oh, I didn't know that. Yeah.
+
+124
+00:11:15,746 --> 00:11:19,527
+That's great to hear. Well, if they chose Aaron
+Pierre, then you know, I'm sure the chemistry
+
+125
+00:11:19,608 --> 00:11:24,790
+was fantastic. I'm actually really curious to
+see what the dynamic will be between the two.
+
+126
+00:11:25,130 --> 00:11:29,672
+I'm assuming Kyle Chandler's Hal Jordan will
+be training Aaron Pierre's Jon Stewart, but
+
+127
+00:11:29,692 --> 00:11:35,474
+we'll see if that's the case. The Lantern Show
+has a phenomenal crew behind the scenes, including
+
+128
+00:11:35,534 --> 00:11:40,956
+writers Chris Mundy and Damon Lindelof. I expect
+really good things from this show. And speaking
+
+129
+00:11:41,056 --> 00:11:44,137
+of great superhero shows, that brings us to
+our question of the week.
+
+130
+00:11:48,738 --> 00:11:55,501
+What has been your favorite live action Marvel
+or DC television series so far, and why? There
+
+131
+00:11:55,521 --> 00:12:00,864
+have been quite a few to come out now, and pretty
+much across the whole spectrum of really good
+
+132
+00:12:00,924 --> 00:12:06,527
+to not so good. So I'm curious to hear what
+your favorite is. Record your answer at dynamicduel.com
+
+133
+00:12:06,987 --> 00:12:10,349
+by clicking on the red microphone button in
+the bottom right hand corner of the screen,
+
+134
+00:12:10,669 --> 00:12:14,972
+which will prompt you to leave us a voicemail.
+Your message could be up to 30 seconds long,
+
+135
+00:12:15,072 --> 00:12:18,939
+and don't forget to leave your name in case
+we include you on the podcast. We'll pick our
+
+136
+00:12:18,959 --> 00:12:23,490
+favorite answer and award that person a Dynamic
+duel No Prize that we'll post to Instagram.
+
+137
+00:12:23,871 --> 00:12:26,197
+Be sure to answer before October 19th.
+
+138
+00:12:33,358 --> 00:12:37,383
+But that does it for all the news for this episode.
+So now let's go ahead and move on to our main
+
+139
+00:12:37,423 --> 00:12:43,872
+event, where we pit and a duel the two witch
+characters of Clarion the Witch Boy and Agatha
+
+140
+00:12:43,913 --> 00:12:44,413
+Harkness.
+
+141
+00:12:59,626 --> 00:13:05,948
+Okay, Clarion the Witch Boy versus Agatha Harkness.
+Of course, we wanted to do a Titan duel to
+
+142
+00:13:06,048 --> 00:13:11,069
+Agatha Harkness because we knew that she was
+going to be having her television series, Agatha
+
+143
+00:13:11,129 --> 00:13:16,811
+All Along, currently airing on Disney Plus during
+the Halloween season. So it seemed very appropriate
+
+144
+00:13:16,831 --> 00:13:23,353
+to do a witch duel. Now us and the executive
+producers had a hard time finding a match for
+
+145
+00:13:23,473 --> 00:13:29,336
+Agatha. Initially, We had voted that we wanted
+to put her up against Madame Xanadu, but in
+
+146
+00:13:29,396 --> 00:13:34,819
+the end we determined that we could play up
+on Agatha Harkness's old age, as she has been
+
+147
+00:13:34,859 --> 00:13:40,262
+typically depicted in the comics for the majority
+of her appearances in the comic books, against
+
+148
+00:13:40,402 --> 00:13:45,725
+the age of Clarion the Witch Boy, who's a young
+child. Both of them have cats, both of them
+
+149
+00:13:45,745 --> 00:13:51,729
+are witches, both of them are pretty powerful,
+so it seemed like a pretty good matchup. Yeah,
+
+150
+00:13:51,829 --> 00:13:59,056
+it's young versus old. Cat versus cat, Agatha
+the witch versus Clarion the bitch. Whoa! Yeah,
+
+151
+00:13:59,076 --> 00:14:04,238
+she's gonna make him her bitch in this episode.
+I don't know if you knew that. I had to. Man,
+
+152
+00:14:04,318 --> 00:14:09,921
+with the low hanging fruit, you're right. Be
+better. But to explain the methodology behind
+
+153
+00:14:10,001 --> 00:14:16,103
+our duels, let's go to our sentient duel simulator,
+Alfred Jarvis 9000. AJ9K, tell our listeners
+
+154
+00:14:16,123 --> 00:14:21,714
+how you go about determining a winner in our
+duel matchups. Yes, of course, sir. The way
+
+155
+00:14:21,774 --> 00:14:26,197
+I determine a winner between the contestants
+is by running 1000 Monte Carlo simulations
+
+156
+00:14:26,297 --> 00:14:31,180
+using the characters statistics. A Monte Carlo
+simulation is a probabilistic model used to
+
+157
+00:14:31,220 --> 00:14:36,344
+determine outcomes through random sampling.
+In this case, I randomise the statistics along
+
+158
+00:14:36,364 --> 00:14:40,827
+a normal distribution as a way to simulate the
+many variables that can occur during battle.
+
+159
+00:14:41,227 --> 00:14:45,990
+The stat parameters are based on the official
+Marvel power grid from which the DC characters
+
+160
+00:14:46,030 --> 00:14:47,391
+statistics are extrapolated.
+
+161
+00:14:50,838 --> 00:14:55,967
+damage potential, versatility and perception
+in order to create a more detailed and accurate
+
+162
+00:14:56,007 --> 00:15:01,357
+simulation. The results of the 1000 simulations
+provide a percentage of wins for each character.
+
+163
+00:15:01,998 --> 00:15:06,401
+Contestant with the higher percentage is declared
+the victor as they have a higher probability
+
+164
+00:15:06,441 --> 00:15:12,265
+to win any given battle. In an equitable pairing,
+neither character should win 100% of the matches.
+
+165
+00:15:12,765 --> 00:15:17,268
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman, so
+
+166
+00:15:17,288 --> 00:15:21,171
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+167
+00:15:21,211 --> 00:15:26,774
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+168
+00:15:26,794 --> 00:15:31,157
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+169
+00:15:32,578 --> 00:15:37,081
+Thanks AJ9K! Before we run the simulations though,
+we'd like to break down each character's histories
+
+170
+00:15:37,101 --> 00:15:42,286
+and abilities before improvising a scenario
+on how we imagine one of the 1,000 simulations
+
+171
+00:15:42,306 --> 00:15:46,949
+would play out beat for beat. And I believe
+it's my turn to go first this episode with
+
+172
+00:15:46,989 --> 00:15:52,034
+the Marvel characters backstory, so let me go
+ahead and tell you guys all about Agatha Harkness.
+
+173
+00:15:52,614 --> 00:15:58,199
+Agatha Harkness's early life is largely unknown,
+but she has claimed to be centuries old, living
+
+174
+00:15:58,299 --> 00:16:04,303
+before the fall of Atlantis over 20,000 years
+ago. As a child of the ancient world, she began
+
+175
+00:16:04,323 --> 00:16:09,545
+her practice in witchcraft early on and eventually
+became one of the Earth's most powerful sorceresses.
+
+176
+00:16:10,045 --> 00:16:15,747
+Her earliest documented activities took place
+during the 1600s in an Eastern European country
+
+177
+00:16:15,787 --> 00:16:20,950
+called Transia, near Wondagore Mountain, where
+she was part of a coven of witches that faced
+
+178
+00:16:21,050 --> 00:16:26,372
+persecution during the height of the witch hunts
+across Europe at the time. By the late 17th
+
+179
+00:16:26,412 --> 00:16:32,250
+century, Agatha had relocated to Salem, Massachusetts.
+where she established her own coven during
+
+180
+00:16:32,290 --> 00:16:38,012
+the infamous Salem witch trials. Rather than
+hide from persecution this time, Agatha embraced
+
+181
+00:16:38,072 --> 00:16:42,113
+it, believing that the trials were a way to
+strengthen the magical community by weeding
+
+182
+00:16:42,193 --> 00:16:47,094
+out those who were not strong enough to survive.
+She sent some of her own followers to be judged
+
+183
+00:16:47,174 --> 00:16:51,915
+and executed, believing that their sacrifice
+would make the remaining witches more resilient.
+
+184
+00:16:52,416 --> 00:16:58,077
+During this time, Agatha encountered the time
+displaced pyrokinetic mutant Firestar, whom
+
+185
+00:16:59,722 --> 00:17:05,186
+and tried without success to burn at the stake.
+Agatha admired Firestar's resilience in the
+
+186
+00:17:05,226 --> 00:17:10,710
+face of adversity and her refusal to embrace
+violence as a solution. This influenced Agatha
+
+187
+00:17:10,750 --> 00:17:16,494
+to abandon the idea of open warfare between
+witches and non-magical humans and she led
+
+188
+00:17:16,534 --> 00:17:22,038
+the surviving witches westward, establishing
+a hidden witch community called New Salem in
+
+189
+00:17:22,058 --> 00:17:26,961
+the mountains of what would later become Colorado.
+Here the witches were able to live in peace.
+
+190
+00:17:27,502 --> 00:17:32,743
+far away from the fear and persecution from
+mankind. In New Salem, Agatha gave birth to
+
+191
+00:17:32,783 --> 00:17:38,525
+her son, Nicholas Scratch, who would later become
+one of her most dangerous enemies. Over time,
+
+192
+00:17:38,705 --> 00:17:44,326
+into the modern era, Agatha's ideals shifted,
+and she began to see the dangers of the covens
+
+193
+00:17:44,426 --> 00:17:49,668
+isolation. Believing that New Salem's retreat
+from the world would eventually lead to stagnation
+
+194
+00:17:49,748 --> 00:17:54,709
+and decline, she left the community to rejoin
+the wider world. Her departure left a void
+
+195
+00:17:54,729 --> 00:17:59,292
+in New Salem's leadership. and Nicholas Scratch
+took advantage of this, rising to power and
+
+196
+00:17:59,332 --> 00:18:04,416
+fostering a deep resentment toward his mother
+for abandoning the community. After leaving
+
+197
+00:18:04,456 --> 00:18:09,880
+New Salem, Agatha settled in New York, where
+she became the governess for Franklin Richards,
+
+198
+00:18:09,980 --> 00:18:15,604
+the young son of Reed and Sue Storm of the Fantastic
+Four. Though the Richards family initially
+
+199
+00:18:15,644 --> 00:18:20,988
+had no idea of Agatha's true nature, her powers
+were soon revealed when the Frightful Four
+
+200
+00:18:21,048 --> 00:18:26,284
+villain team attempted to kidnap Franklin. Agatha
+used her magic to easily defeat the villains,
+
+201
+00:18:26,604 --> 00:18:32,048
+including transforming her cat Ebony into a
+powerful panther to drive the intruders away.
+
+202
+00:18:32,528 --> 00:18:36,891
+Her time with Franklin allowed her to bond with
+the Richards family, though her relationship
+
+203
+00:18:36,911 --> 00:18:42,475
+with them would soon be tested by the return
+of her estranged son, Nicholas Scratch. Scratch,
+
+204
+00:18:42,775 --> 00:18:47,959
+now the leader of New Salem, convinced the witches
+of that coven to abduct Agatha and Franklin,
+
+205
+00:18:48,319 --> 00:18:52,902
+bringing them back to stand trial for their
+supposed crimes. The Fantastic Four pursued
+
+206
+00:18:53,022 --> 00:18:57,064
+Agatha and Franklin to New Salem, where they
+clashed with Nicholas Scratch's seven children,
+
+207
+00:18:57,445 --> 00:19:02,828
+known as Salem Seven, who had inherited immense
+magical powers from their father. Agatha and
+
+208
+00:19:02,848 --> 00:19:07,550
+the Fantastic Four ultimately defeated Salem
+Seven, revealing the truth of Nicholas Scratch's
+
+209
+00:19:07,650 --> 00:19:13,013
+evil machinations, and the people of New Salem
+banished Scratch to another dimension. Following
+
+210
+00:19:13,053 --> 00:19:18,396
+her time with the Fantastic Four, Agatha shifted
+her focus to another powerful individuel, Wanda
+
+211
+00:19:18,436 --> 00:19:24,399
+Maximoff the Scarlet Witch. whose mutant abilities
+were intertwined with dark magical forces,
+
+212
+00:19:24,859 --> 00:19:30,202
+desperately sought control over her powers,
+which had become increasingly unstable. Agatha
+
+213
+00:19:30,242 --> 00:19:34,944
+saw the danger the Scarlet Witch posed, both
+to herself and to the world, and agreed to
+
+214
+00:19:34,984 --> 00:19:40,626
+become her magical mentor. You can learn more
+in our Zatanna vs Scarlet Witch duel episode.
+
+215
+00:19:40,646 --> 00:19:44,988
+Under Agatha's guidance, the Scarlet Witch learned
+to tap into her abilities more effectively.
+
+216
+00:19:45,388 --> 00:19:50,095
+Though Agatha kept the full truth of her powers,
+particularly their connection to the dark god
+
+217
+00:19:50,115 --> 00:19:55,618
+of chaos, C'thun, hidden from her. Agatha's
+mentorship helped Scarlet Witch grow as a magic
+
+218
+00:19:55,738 --> 00:20:00,380
+user, and her newfound control over her powers
+left her confident to marry her romantic partner,
+
+219
+00:20:00,480 --> 00:20:05,683
+Vision, an android, which led to the subsequent
+birth of their twin children. You can learn
+
+220
+00:20:05,723 --> 00:20:10,746
+more about Vision in his duel against Marsha
+Manhunter. Wanda's children were later revealed
+
+221
+00:20:10,786 --> 00:20:18,814
+to be magical constructs created from the fragments
+of the demon Mephisto's soul. Agatha made the
+
+222
+00:20:18,854 --> 00:20:23,697
+difficult decision to erase Wanda's memories
+of her kids, believing it to be the only way
+
+223
+00:20:23,717 --> 00:20:28,941
+to spare her from the overwhelming grief. This
+act, though well-intentioned, planted the seeds
+
+224
+00:20:28,981 --> 00:20:33,704
+for Wanda's eventual mental breakdown. Agatha
+continued to aid Wanda through her personal
+
+225
+00:20:33,744 --> 00:20:37,767
+struggles, helping her face threats such as
+Immortus, who sought to manipulate Wanda's
+
+226
+00:20:37,807 --> 00:20:42,731
+reality-warping abilities for his own purposes.
+With Agatha's help, the Avengers were able
+
+227
+00:20:42,771 --> 00:20:47,806
+to defeat Immortus, though Wanda's fragile mental
+state remained a constant concern. Years of
+
+228
+00:20:47,866 --> 00:20:53,208
+repressed trauma eventually led to Wanda's breakdown,
+in part triggered by psychological manipulations
+
+229
+00:20:53,268 --> 00:20:58,851
+by the villain Dr. Doom. In her grief and rage,
+Scarlet Witch destroyed the Avengers Mansion,
+
+230
+00:20:59,091 --> 00:21:03,853
+which led to the dissolution of the Avengers
+team. Wanda confronted Agatha, demanding to
+
+231
+00:21:03,893 --> 00:21:08,975
+know the truth about her children. Not long
+after, Agatha was found dead in her home, her
+
+232
+00:21:09,015 --> 00:21:13,857
+body seemingly desiccated. You can learn more
+about this in our Justice League vs Avengers
+
+233
+00:21:13,917 --> 00:21:19,749
+Team Duel episode. However, even death did not
+end Agatha's influence. She continued to appear
+
+234
+00:21:19,809 --> 00:21:24,974
+in spectral form, forgiving Scarlet Witch and
+guiding her and others through the challenges
+
+235
+00:21:25,014 --> 00:21:30,378
+they faced. Eventually, Agatha was brought back
+to life via the Goddess of Witchcraft, who
+
+236
+00:21:30,418 --> 00:21:34,902
+was cleansed by Scarlet Witch during her journey
+through a mystical dimension known as the Witch's
+
+237
+00:21:34,962 --> 00:21:40,186
+Road. Upon Agatha's resurrection, she returned
+to the magical fold, this time teaching new
+
+238
+00:21:40,226 --> 00:21:46,262
+witches at Dr. Strange's new Magic Academy.
+It was there- that an old coven member called
+
+239
+00:21:46,322 --> 00:21:51,223
+Corrosion attempted to kill Agatha, but she
+was rescued by her new students, including
+
+240
+00:21:51,383 --> 00:21:56,845
+the former Runaways member, Niko Minoru, a teen
+sorceress. The mystical energies unleashed
+
+241
+00:21:56,885 --> 00:22:02,607
+from the battle resulted in Agatha being de-aged
+from her elderly appearance into a young woman.
+
+242
+00:22:03,087 --> 00:22:08,148
+After the Scarlet Witch destroyed a powerful
+book of chaos magic called the Darkhold, Agatha
+
+243
+00:22:08,188 --> 00:22:13,106
+attempted to create a new Darkhold. Her plans
+were eventually thwarted by the Avengers. the
+
+244
+00:22:13,146 --> 00:22:18,388
+consequences of which led to the Darkhold taking
+on the form of a young boy, whom Agatha fled
+
+245
+00:22:18,408 --> 00:22:24,210
+with in an attempt to guide him. And that's
+Agatha's backstory. Powers-wise, Agatha Harkness
+
+246
+00:22:24,230 --> 00:22:28,552
+is one of the most formidable witches on the
+planet, allowing her to cast all manner of
+
+247
+00:22:28,612 --> 00:22:35,495
+spells. Her witchcraft abilities include precognition,
+possession, elemental manipulation, and transmutation.
+
+248
+00:22:35,956 --> 00:22:41,938
+She can fly, teleport, cast illusions, and sense
+mystic occurrences. Agatha has the ability
+
+249
+00:22:41,978 --> 00:22:47,059
+to summon mystical energies for offensive or
+defensive purposes, or manipulate these mystical
+
+250
+00:22:47,119 --> 00:22:52,621
+energies to enhance, reflect, or negate their
+magical effects. With enough time, she can
+
+251
+00:22:52,661 --> 00:22:58,023
+perform a magic ritual to achieve any number
+of spells. Her familiar, Ebony, is a magical
+
+252
+00:22:58,063 --> 00:23:03,464
+cat capable of transforming into a powerful
+panther and regenerating from almost any wound.
+
+253
+00:23:04,325 --> 00:23:08,470
+Agatha has extensive knowledge of witchcraft
+gained over millennia. and has trained other
+
+254
+00:23:08,510 --> 00:23:14,434
+powerful individuels in the use of their abilities.
+She's also terribly mysterious, I'll say, even
+
+255
+00:23:14,534 --> 00:23:19,897
+inexplicably surviving death on several occasions.
+There you go. This old hag doesn't stand a
+
+256
+00:23:20,017 --> 00:23:25,220
+chance. Wow. Way to discriminate on the basis
+of age there. Good job. I don't feel bad if
+
+257
+00:23:25,261 --> 00:23:30,604
+it's a fictional character, I'm just putting
+that out there. Also she was de-aged, so like
+
+258
+00:23:30,624 --> 00:23:34,410
+I don't know what you're talking about. Largely
+they did that just- so that the character would
+
+259
+00:23:34,430 --> 00:23:38,894
+be consistent with how she appears in the Marvel
+Cinematic Universe, played by Katherine Han.
+
+260
+00:23:39,275 --> 00:23:44,299
+Yeah, and I figured that. Yeah. Brand synergy.
+As I've typically known the character in the
+
+261
+00:23:44,319 --> 00:23:47,962
+comics though, yeah, she's pretty old. That's
+kind of what made her such a badass though,
+
+262
+00:23:47,982 --> 00:23:52,286
+because she's like so seemingly frail, almost
+looking kind of like Aunt May in the comics,
+
+263
+00:23:52,747 --> 00:23:58,472
+but she's supremely powerful. Well, not as powerful
+as Clarion! Let me get into his backstory.
+
+264
+00:23:59,092 --> 00:24:06,563
+Now, Clarion Bleak. often referred to as Clarion
+the Witch Boy, was born in Limbotown, an isolated
+
+265
+00:24:06,643 --> 00:24:14,365
+and mysterious subterranean society hidden beneath
+New York City. Limbotown was populated by Kroatoans,
+
+266
+00:24:14,646 --> 00:24:20,247
+who were the descendants of the Lost Roanoke
+Colony, America's first permanent English settlement
+
+267
+00:24:20,547 --> 00:24:26,209
+that later mysteriously vanished. To survive
+in the New World, the Kroatoans had developed
+
+268
+00:24:26,289 --> 00:24:32,769
+a deep connection to dark magic. and necromancy
+over centuries. Every citizen in Limbo Town
+
+269
+00:24:32,789 --> 00:24:38,875
+practiced witchcraft and had a draga, or an
+animal familiar, that aided them in their magical
+
+270
+00:24:38,915 --> 00:24:45,061
+pursuits. Clarion's familiar was a cat named
+Tikal, who shared her master's rebellious and
+
+271
+00:24:45,081 --> 00:24:50,586
+mischievous nature. From a young age, Clarion
+struggled with the strict rules and religious
+
+272
+00:24:50,626 --> 00:24:57,255
+codes enforced by Submissionary Judah, Limbo
+Town's leader. Judah and the other elders dictated
+
+273
+00:24:57,295 --> 00:25:02,479
+how magic could be used, and they harshly discouraged
+any curiosity or questioning about the world
+
+274
+00:25:02,540 --> 00:25:08,264
+beyond Limbo Town's borders. Clarion, however,
+was always drawn to the unknown and wanted
+
+275
+00:25:08,304 --> 00:25:13,609
+to explore beyond his subterranean world. He
+secretly began studying darker and forbidden
+
+276
+00:25:13,649 --> 00:25:19,774
+forms of magic, driven by his thirst for knowledge
+and freedom. His disobedience did not go unnoticed,
+
+277
+00:25:19,814 --> 00:25:20,194
+however.
+
+278
+00:25:24,286 --> 00:25:28,997
+eventually caught the attention of the town
+elders. And one day, Clarion found himself
+
+279
+00:25:29,057 --> 00:25:35,143
+pursued by the Horagil. terrifying entities
+created when Judah and other submissionaries
+
+280
+00:25:35,543 --> 00:25:41,766
+merged with their familiars. Clarion fled Limbo
+Town with Teekal by his side, narrowly escaping
+
+281
+00:25:41,806 --> 00:25:47,129
+the clutches of the Horagold, and emerged in
+the subway tunnels beneath New York City, marking
+
+282
+00:25:47,169 --> 00:25:53,292
+his first encounter with the world above, which
+he'd later refer to as the Blue Rafters. In
+
+283
+00:25:53,332 --> 00:25:58,954
+the subway tunnels, Clarion met Ebenezer Bade,
+another runaway from Limbo Town who had escaped
+
+284
+00:26:01,296 --> 00:26:06,579
+Clarion under his wing, showing him the many
+wonders and dangers of the surface world. It
+
+285
+00:26:06,619 --> 00:26:12,623
+was long, however, before Bade betrayed Clarion,
+with the intention to sell the boy into slavery.
+
+286
+00:26:13,103 --> 00:26:19,227
+In response, Clarion and Teekal confronted Bade
+alongside a group of hive-minded children known
+
+287
+00:26:19,368 --> 00:26:25,752
+as the Leviathan, whom Bade had been capturing
+for years, also to sell into slavery. With
+
+288
+00:26:25,772 --> 00:26:31,356
+the Leviathan's help, Clarion put an end to
+Bade's schemes, and Bade was ultimately the
+
+289
+00:26:31,396 --> 00:26:36,959
+children he had exploited. Although the Leviathan
+offered Clarion a place among them, the Witch
+
+290
+00:26:36,999 --> 00:26:42,863
+Boy declined as he wanted to continue his explorations
+of the world beyond. Clarion's travels led
+
+291
+00:26:42,883 --> 00:26:47,386
+him to Manhattan, where he crossed paths with
+a man named Melmoth, who you can learn more
+
+292
+00:26:47,426 --> 00:26:52,910
+about in our Frankenstein vs Elsa Bloodstone
+duel episode. Melmoth offered Clarion food
+
+293
+00:26:53,010 --> 00:26:57,313
+and shelter, while Clarion remained unaware
+that Melmoth was the Sheeta King,
+
+294
+00:27:01,356 --> 00:27:07,480
+ago by breeding the women of the Rhonok colony
+with the Sheeta, a devolved human insectoid
+
+295
+00:27:07,560 --> 00:27:13,063
+race from the future. Mellmoth intended to use
+Clarion and a group of young delinquents known
+
+296
+00:27:13,104 --> 00:27:19,148
+as the Deviant Ones to steal a massive subterranean
+drill to invade and plunder Limbo Town, taking
+
+297
+00:27:19,208 --> 00:27:25,152
+back what he believed was his by right. When
+Clarion realized the extent of Mellmoth's plans,
+
+298
+00:27:25,532 --> 00:27:27,413
+he warned the Deviants about the Sheeta
+
+299
+00:27:31,496 --> 00:27:36,159
+Instead, Clarion decided to return to Limbo
+Town to protect his people from the impending
+
+300
+00:27:36,219 --> 00:27:41,482
+invasion. Upon his return to Limbo Town, however,
+Clarion faced immediate hostility from the
+
+301
+00:27:41,522 --> 00:27:46,426
+town's people, who accused him of blasphemy,
+and believing he had abandoned their way of
+
+302
+00:27:46,466 --> 00:27:51,729
+life, bringing back dangerous ideas back with
+him from the outside world. Clarion tried to
+
+303
+00:27:51,769 --> 00:27:56,733
+warn them about Melmoth's invasion, but the
+town's people refused to listen and instead
+
+304
+00:27:56,793 --> 00:28:02,176
+captured Clarion to burn him at the stake for
+his supposed crimes. Before they could carry
+
+305
+00:28:02,236 --> 00:28:07,220
+out the execution, however, Melmoth and his
+army arrived, interrupting the proceedings.
+
+306
+00:28:07,420 --> 00:28:12,803
+Clarion seized the opportunity to escape, and
+as he ran to ring the town bell in alarm, he
+
+307
+00:28:12,843 --> 00:28:18,627
+ran into Judah, who was gravely wounded. Recognizing
+that his death was near, and that Limbo Town
+
+308
+00:28:18,647 --> 00:28:24,992
+was in great danger, Judah passed on the title
+of Submissionary to Clarion. With this title
+
+309
+00:28:25,292 --> 00:28:31,756
+came the ability to transform into a horror
+gold, the same monstrous being when he fled
+
+310
+00:28:31,956 --> 00:28:38,220
+Limbo Town. Merging with Tikal, Clarion assumed
+the form of a powerful Horacle and fought off
+
+311
+00:28:38,280 --> 00:28:45,165
+Melmoth's forces. He severely crippled the Sheet-o-king
+in battle, forcing Melmoth to retreat and saving
+
+312
+00:28:45,285 --> 00:28:50,909
+Limbo Town from destruction. Despite his victory,
+Clarion rejected the idea of staying in Limbo
+
+313
+00:28:50,949 --> 00:28:57,113
+Town as its leader, longing instead for freedom
+and adventure, sans any responsibility, and
+
+314
+00:28:57,153 --> 00:29:03,057
+therefore departed for the surface world once
+again, as the She-Da attempted to overtake
+
+315
+00:29:03,077 --> 00:29:08,180
+the planet. When the organization Shade and
+their agent Frankenstein attacked the She-Da's
+
+316
+00:29:08,240 --> 00:29:13,724
+time-traveling fortress known as the Castle
+Revolving, Clarion took advantage of the situation
+
+317
+00:29:14,024 --> 00:29:19,528
+to take over the fortress and the She-Da, becoming
+the new She-Da King and taking the She-Da into
+
+318
+00:29:19,568 --> 00:29:25,772
+the past before he abandoned his crown. Upon
+returning to the present, Clarion allied himself
+
+319
+00:29:25,812 --> 00:29:28,014
+with Contessa Erika Alexandria del
+
+320
+00:29:31,016 --> 00:29:35,978
+who led a secret global organization known as
+the Agenda, which sought to cause chaos within
+
+321
+00:29:36,018 --> 00:29:42,161
+the superhero community. Using his magical abilities,
+Clarion cast a spell that swapped the ages
+
+322
+00:29:42,201 --> 00:29:47,584
+of teenage and adult heroes, turning young heroes
+into adults and their adult counterparts into
+
+323
+00:29:47,664 --> 00:29:54,287
+teenagers. The spell created confusion and mistrust
+amongst both heroes and the general public,
+
+324
+00:29:54,607 --> 00:29:59,169
+which delighted Clarion. For him, the chaos
+he caused was nothing more than a mischievous
+
+325
+00:29:59,269 --> 00:30:04,793
+prank. another opportunity to push boundaries
+and test his powers, as well as have powerful
+
+326
+00:30:04,953 --> 00:30:10,657
+playmates to occupy his time. However, Clarion's
+actions eventually backfired when he was confronted
+
+327
+00:30:10,697 --> 00:30:16,201
+by a vengeful Lobo, who had been turned into
+a child by Clarion's spell. Upon his defeat,
+
+328
+00:30:16,241 --> 00:30:22,145
+Clarion was forced to undo the spell and restore
+the heroes to their proper ages. Lonely, without
+
+329
+00:30:22,185 --> 00:30:27,289
+his young playmates, Clarion traveled the country
+occasionally offering heroes and villains alike
+
+330
+00:30:27,469 --> 00:30:33,472
+increased power. in exchange for portions of
+their souls. While in Gotham City, a fellow
+
+331
+00:30:33,512 --> 00:30:38,694
+Limbotown exile kidnapped Teekal, along with
+other Witch's familiars, in order to conjure
+
+332
+00:30:38,714 --> 00:30:44,137
+an apocalyptic entity known as the Judgment
+Beast. But with the help of Tim Drake, Robin,
+
+333
+00:30:44,557 --> 00:30:49,259
+Clarion was able to rescue Teekal and return
+the familiars back to their rightful owners.
+
+334
+00:30:49,499 --> 00:30:54,181
+You can learn more about Tim Drake and his duel
+against the Winter Soldier. In post-Flashpoint
+
+335
+00:30:54,201 --> 00:30:59,464
+continuity, Clarion encountered several mystical
+figures in New York and Kim involved with a
+
+336
+00:30:59,504 --> 00:31:05,708
+magical coven led by Piper, who sought to help
+him understand and control his powers. During
+
+337
+00:31:05,748 --> 00:31:10,892
+this time, Clarion faced a mysterious villain
+named Cole, who had introduced a form of dangerous,
+
+338
+00:31:10,992 --> 00:31:17,016
+addictive technology onto the streets. Clarion,
+always seeking new ways to strengthen himself,
+
+339
+00:31:17,196 --> 00:31:23,040
+ingested this future technology to boost his
+powers and confront Cole. Their battle ended
+
+340
+00:31:23,140 --> 00:31:30,225
+with Clarion easily defeating his foe by stealing
+his techno magic, further own abilities. Later,
+
+341
+00:31:30,565 --> 00:31:36,189
+Clarion ascended to new heights as a powerful
+Lord of Chaos, aligning himself with Pariah's
+
+342
+00:31:36,289 --> 00:31:42,573
+Dark Army in order to re-establish DC's original
+multiverse. And that's his backstory so far.
+
+343
+00:31:43,013 --> 00:31:49,177
+Powers-wise, as a Kroatoan warlock, Clarion
+is a natural prodigy of the Dark Arts and the
+
+344
+00:31:49,217 --> 00:31:55,101
+Occult, with powers sourced from his bond with
+his magical cat familiar, Tikal, with whom
+
+345
+00:31:55,141 --> 00:32:03,848
+Clarion has a psychic link. telekinesis, transmutation,
+teleportation, energy absorption and manipulation,
+
+346
+00:32:04,348 --> 00:32:10,754
+telepathy, divination, and spellcasting. He's
+also quite durable, as long as he's near Tikal.
+
+347
+00:32:11,154 --> 00:32:18,160
+If Tikal is injured, Clarion's power is greatly
+reduced. That's Clarion. So what's interesting
+
+348
+00:32:18,200 --> 00:32:23,604
+there is that for the most part Agatha Harkness
+has been a supporting character among the larger
+
+349
+00:32:23,704 --> 00:32:29,505
+Marvel She's had her own titles occasionally,
+but they haven't lasted very long. But according
+
+350
+00:32:29,525 --> 00:32:33,909
+to your backstory for Clarion, it seems like
+he's a long running character with his own
+
+351
+00:32:33,949 --> 00:32:39,293
+titles. I'm interested in like who created the
+character and when did his stories really start
+
+352
+00:32:39,313 --> 00:32:44,437
+taking place? Jack Kirby created the character.
+He was originally a villain for Jason Blood,
+
+353
+00:32:44,557 --> 00:32:50,222
+I believe. He appeared in the Demon comics,
+who was also a creation of Jack Kirby's. Uh,
+
+354
+00:32:50,242 --> 00:32:54,725
+he's only had a few of his own mini series though.
+He had one that was written by Grant Morrison.
+
+355
+00:32:55,266 --> 00:33:00,248
+He also had a recent one, but yeah, not too
+many. Okay, so much of his backstory was kind
+
+356
+00:33:00,268 --> 00:33:04,831
+of detailed in the Entrakin the Demon comic
+books. Well, his own comics, I would say, like
+
+357
+00:33:04,911 --> 00:33:09,954
+Seven Soldiers of Victory written by Grant Morrison.
+Oh, I see, okay. Grant Morrison kind of rewrote
+
+358
+00:33:10,254 --> 00:33:15,437
+Clarion's origin story. In Jack Kirby's original
+version for the character, he was from Witch
+
+359
+00:33:15,477 --> 00:33:19,899
+World, and I think that was later retconned
+to Beyond Country. It was another dimension
+
+360
+00:33:19,939 --> 00:33:25,051
+entirely. But Grant Morrison was the one who
+kind of established him as being descendant
+
+361
+00:33:25,131 --> 00:33:30,482
+of the Roanoke colony, which is a real colony
+and a real mystery in the US. Kroatoa, yeah,
+
+362
+00:33:30,522 --> 00:33:34,129
+that is a weird mystery. Definitely a spooky
+one just in time for the season.
+
+363
+00:33:41,518 --> 00:33:47,159
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+364
+00:33:47,199 --> 00:33:52,901
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+365
+00:33:52,961 --> 00:33:58,283
+Dynomic Podcast Network presents... Console
+Combat, where video game legends brawl every
+
+366
+00:33:58,343 --> 00:34:02,385
+Monday. Dynamic Duel, where comic book titans
+smash every Tuesday. Max Destruction, where
+
+367
+00:34:02,405 --> 00:34:06,562
+the world is at its limit. The Dynomic Podcast
+Network presents... TV and action heroes battle
+
+368
+00:34:06,663 --> 00:34:13,086
+every Wednesday, and Sendro World, where anime
+champions clash every Thursday. Join us as
+
+369
+00:34:13,106 --> 00:34:18,069
+we speculate on the matches and armed with the
+power of mathematical simulations, discover
+
+370
+00:34:18,129 --> 00:34:24,413
+who will emerge victorious. Visit dynamicpodcast.com,
+where we settle the debate and settle the score.
+
+371
+00:34:28,846 --> 00:34:31,788
+Now that we got their histories and abilities
+out of the way, we're going to speculate on
+
+372
+00:34:31,828 --> 00:34:37,152
+how one of the 1000 simulated matches will go.
+The winner is determined by simulations, not
+
+373
+00:34:37,172 --> 00:34:41,535
+the speculation, but it's fun to imagine how
+the fight could play out. AJ and IK, what are
+
+374
+00:34:41,555 --> 00:34:47,039
+the rules of our speculation? Well, I should
+say there are no rules, other than the characters
+
+375
+00:34:47,079 --> 00:34:51,602
+have no prior knowledge of the other going into
+the fight. All they are aware of starting out
+
+376
+00:34:51,942 --> 00:34:56,205
+is that the other character is a threat that
+needs to be eliminated. For the speculation...
+
+377
+00:34:56,642 --> 00:35:01,704
+contestants will begin approximately 50 meters
+apart in a nondescript environment that will
+
+378
+00:35:01,724 --> 00:35:07,047
+have no bearing on the match itself as no environmental
+statistics are considered in my simulations.
+
+379
+00:35:07,348 --> 00:35:12,590
+The contestants must earn victory on their own
+merit. Alright then let's get into it. Clarion
+
+380
+00:35:12,611 --> 00:35:17,673
+the Witch Boy and Agatha Harkness meet on the
+battlefield. Who goes first? You know what
+
+381
+00:35:17,753 --> 00:35:24,477
+I think Clarion will go first by aging Agatha
+up to her old lady form if she isn't there
+
+382
+00:35:24,517 --> 00:35:29,712
+already. then he's gonna let Agatha go, you
+know, citing age before beauty. Alright, okay,
+
+383
+00:35:30,512 --> 00:35:37,516
+um, that's fucked up. I think Agatha will probably
+smirk at what just happened. You know, she's
+
+384
+00:35:37,616 --> 00:35:43,719
+used to being an old lady anyway. Her cat Ebony
+is gonna hiss at Clarion, and Agatha is gonna
+
+385
+00:35:43,739 --> 00:35:48,841
+give the little brat what's coming to him. She's
+gonna use her magic to erect a dead tree behind
+
+386
+00:35:48,901 --> 00:35:53,740
+Clarion. and she's going to animate the tree
+so that it bends Clarion over its trunk and
+
+387
+00:35:53,760 --> 00:36:00,765
+then gives the child a swift paddle on his behind.
+Okay, actually once the tree touches Clarion,
+
+388
+00:36:01,325 --> 00:36:06,509
+it's going to burst into green flame and then
+like quickly dissolve into ash, except for
+
+389
+00:36:06,809 --> 00:36:12,253
+like one small black branch that's shaped like
+a slingshot that Clarion's going to pick up
+
+390
+00:36:12,293 --> 00:36:17,436
+and use it to magically sling green fireballs
+at Agatha while just laughing his head off.
+
+391
+00:36:17,616 --> 00:36:23,449
+Well, before the fireballs can reach her, Agatha
+is gonna telekinetically yank Clarion's slingshot
+
+392
+00:36:23,489 --> 00:36:28,293
+toward her, transforming it into a broom. Okay,
+and she's gonna use that broom to just swat
+
+393
+00:36:28,333 --> 00:36:33,537
+away the green fireballs with little to no effort,
+and then she's gonna hop on the broom and fly
+
+394
+00:36:33,577 --> 00:36:40,823
+into the night sky with her cat. And then from
+the air, she's gonna start throwing down purple
+
+395
+00:36:41,263 --> 00:36:47,488
+lightning magic bolts at Clarion. Ah, but Agatha
+can't hit what she can't see. Because you know,
+
+396
+00:36:47,548 --> 00:36:52,746
+as she was flying into the air... Clarion summoned
+a plague of locusts that's going to fill the
+
+397
+00:36:52,766 --> 00:36:57,888
+environment around them just with darkness,
+blotting out the stars and the moon and knocking
+
+398
+00:36:58,028 --> 00:37:03,690
+Agatha out of the sky. Okay, but Agatha is going
+to dodge these locusts and she's going to fly
+
+399
+00:37:03,710 --> 00:37:09,711
+around and summon a massive whirlwind that's
+going to dispel this locust plague by sucking
+
+400
+00:37:09,771 --> 00:37:15,153
+all the bugs out of the sky and away from the
+battlefield. And now that the moon is visible
+
+401
+00:37:15,193 --> 00:37:20,462
+again, Agatha is going to wave her hand over
+it. which is gonna turn the moon blood red
+
+402
+00:37:20,722 --> 00:37:27,764
+in color, okay? And as it shines its moonlight
+onto Clarion, blood is just gonna start pouring
+
+403
+00:37:27,784 --> 00:37:33,286
+from his eyes and his mouth and nose and his
+ears, just like all the holes, and he's gonna
+
+404
+00:37:33,306 --> 00:37:38,847
+fall down to his knees in pain. That's wild.
+Okay, actually I'm gonna say Clarion falls
+
+405
+00:37:38,887 --> 00:37:45,549
+to his knees because he's laughing so hard.
+And while he's laughing, he's gonna use his
+
+406
+00:37:45,889 --> 00:37:51,868
+own blood to draw. these intricate runes on
+the ground that stop the blood moon curse,
+
+407
+00:37:52,408 --> 00:37:58,612
+and from the earth that his blood was spilled
+on, he conjures this gargoyle that rises from
+
+408
+00:37:58,652 --> 00:38:04,875
+the ground, and it's gonna fly after Agatha
+and just slash her with its claws. Okay, but
+
+409
+00:38:04,976 --> 00:38:10,058
+as the gargoyle approaches Agatha, as she's
+in the air, her black cat Ebony is gonna leap
+
+410
+00:38:10,138 --> 00:38:16,638
+off the broomstick and midair transform into
+a demonic werecat creature. Like an evil panther
+
+411
+00:38:16,658 --> 00:38:22,942
+on steroids, kinda. And with a loud roar, Ebony's
+gonna tackle the gargoyle down to the ground
+
+412
+00:38:22,982 --> 00:38:28,126
+and just shatter it into small pebbles and sand
+and stuff like that. And then she's gonna take
+
+413
+00:38:28,146 --> 00:38:34,130
+a shit on the gargoyle. Because it's like it
+was kitty litter and Ebony turns back into
+
+414
+00:38:34,150 --> 00:38:41,095
+a cat. Dude, okay. Well, as Ebony was taking
+the time to take a shit,
+
+415
+00:38:45,534 --> 00:38:51,177
+orange tabby cat familiar, Teekel, on Ebony's
+panther form. But Teekel is going to be in
+
+416
+00:38:51,217 --> 00:38:57,441
+the form of this giant monstrous lion. And the
+two cats are going to scream and clawed with
+
+417
+00:38:57,481 --> 00:39:01,504
+just tufts of fur flying everywhere. Basically
+it's the worst cat fight you could possibly
+
+418
+00:39:01,544 --> 00:39:08,288
+imagine. And it's going to end though with Ebony's
+neck snapped in Teekel's jaws because no way
+
+419
+00:39:08,328 --> 00:39:15,421
+a panther is defeating a lion. No, no, no. Ebony,
+the cat, has gone up against Mephisto himself
+
+420
+00:39:15,841 --> 00:39:20,764
+and lived to tell the tale, okay? What? The
+cat was straight up turned inside out by Mephisto
+
+421
+00:39:21,245 --> 00:39:25,808
+and it still came back like nothing had happened
+because Ebony has like the most insane magical
+
+422
+00:39:25,828 --> 00:39:32,212
+healing factor ever. And also, I'm gonna say
+that Agatha puts a binding hex on Teekal to
+
+423
+00:39:32,252 --> 00:39:37,335
+prevent it from fighting back against Ebony.
+So Ebony's just mopping the floor with Teekal
+
+424
+00:39:37,456 --> 00:39:44,341
+and making Teekal look like a busted ass. hairless
+lion by this point. And Clarion's magic is
+
+425
+00:39:44,421 --> 00:39:50,185
+weakened because Tikal is weakened. And also
+I gotta say, everyone knows any witch worth
+
+426
+00:39:50,205 --> 00:39:56,170
+their salt has a black cat, not an orange one.
+So yeah, all the basic bitch witches have black
+
+427
+00:39:56,210 --> 00:40:02,856
+cats. But with Tikal trapped, you know, I'm
+not going to lie, Clarion, he's pretty emotionally
+
+428
+00:40:02,876 --> 00:40:07,700
+immature. So seeing his cat trapped in that
+spell, it was probably going to cause him to
+
+429
+00:40:07,720 --> 00:40:14,203
+throw a screaming fit. and Clarion's cries are
+gonna rattle both Agatha and Ebony, making
+
+430
+00:40:14,243 --> 00:40:20,064
+them feel like their heads are gonna explode.
+So while they're stunned, Clarion's gonna teleport
+
+431
+00:40:20,145 --> 00:40:27,347
+over to Tikal and merge with him, transforming
+into a massive horacle. What's a horacle? Again,
+
+432
+00:40:27,367 --> 00:40:33,808
+what do they look like? They all look different,
+but Clarion's version looks like a four-armed
+
+433
+00:40:34,229 --> 00:40:40,151
+werecat with like a second face on his forehead.
+It's essentially like Clarion's ultimate form.
+
+434
+00:40:40,731 --> 00:40:46,573
+And as a horror goal, you know, before Agatha
+and Ebony can even react, their entrails are
+
+435
+00:40:46,673 --> 00:40:51,915
+already strewn all over the battlefield because
+the horror goal ripped them both to shreds
+
+436
+00:40:52,456 --> 00:41:00,879
+match over. Wow. Well, OK. Agatha and Ebony
+are all shredded and dead, except that they're
+
+437
+00:41:00,959 --> 00:41:06,998
+not. In fact, Agatha is over off to the side
+of the battlefield sipping tea. with Ebony
+
+438
+00:41:07,038 --> 00:41:12,200
+in her lap. Because what Clarion thought he
+saw, that was just an illusion that Agatha
+
+439
+00:41:12,240 --> 00:41:19,863
+had cast as a distraction. And suddenly, Clarion's
+Horacle form just drops dead. Because what
+
+440
+00:41:19,943 --> 00:41:26,486
+he didn't realize was that this match was already
+over the moment that Ebony used that destroyed
+
+441
+00:41:26,526 --> 00:41:33,849
+Blood Gargoyle as a litter box. Okay, because
+her poo cast a poisonous curse that seeped
+
+442
+00:41:33,869 --> 00:41:40,272
+into Clarion's blood, right? and it just tainted
+him with this like slow death. And since Clarion
+
+443
+00:41:40,372 --> 00:41:45,735
+merged with Teekal, they're both dead. That's
+your finishing move? Yeah, dude, cat poop's
+
+444
+00:41:45,775 --> 00:41:50,238
+dangerous, all right? Like it has parasites
+in it and shit that can give you toxoplasmosis,
+
+445
+00:41:50,258 --> 00:41:54,880
+okay? It's dangerous enough on its own, like
+it can give you schizophrenia and shit. So
+
+446
+00:41:54,920 --> 00:42:01,144
+imagine how dangerous a demon panther's poop
+is. Just makes sense. Is that true? Like, yeah.
+
+447
+00:42:01,624 --> 00:42:07,110
+I record this podcast in my basement. Not too
+far away from my cat's litter box. Well, I
+
+448
+00:42:07,150 --> 00:42:13,352
+mean, that explains why you're a DC fan, then.
+It's the neurosis. OK. You know what? I'm calling
+
+449
+00:42:13,912 --> 00:42:20,914
+cat shit on all of this. No way Clarion gets
+taken out by cat poop. In reality, Agatha and
+
+450
+00:42:20,994 --> 00:42:26,356
+Ebony are already dead. The whole, oh, it's
+just an illusion thing. That didn't happen.
+
+451
+00:42:26,776 --> 00:42:32,417
+Well, we could leave the match there. Either
+Agatha and Ebony get shredded by Clarion's
+
+452
+00:42:32,457 --> 00:42:39,188
+Horacle form. Or that's just an illusion and
+Clarion dies from being poisoned with a curse.
+
+453
+00:42:39,748 --> 00:42:44,110
+A poop curse. The worst kind. We'll go ahead
+and leave it there and put the character's
+
+454
+00:42:44,150 --> 00:42:50,212
+stats into our simulator, run the simulations,
+and come back with a winner. AJ9K, hit it!
+
+455
+00:42:50,713 --> 00:42:57,955
+Inputting data. Running calculations. Processing
+results. Simulations complete. Alright, Clarion
+
+456
+00:42:57,995 --> 00:43:04,810
+the Witch Boy vs Agatha Harkness. As I suspected,
+the characters were f- fairly close stat wise
+
+457
+00:43:05,230 --> 00:43:10,112
+and when one character did come out on top it
+wasn't by much. Yeah, the characters are both
+
+458
+00:43:10,132 --> 00:43:15,793
+a little bit vague in their magical abilities
+as witches and wizards tend to be. You know,
+
+459
+00:43:16,254 --> 00:43:21,275
+they can almost do anything in a sense, but
+these two characters were unique in that they
+
+460
+00:43:21,315 --> 00:43:26,517
+had some similarities around things like fighting
+skill that kind of set them apart. You know,
+
+461
+00:43:26,537 --> 00:43:31,491
+they're both not physical fighters at all. Yeah,
+and when it came to things like movement speed,
+
+462
+00:43:31,652 --> 00:43:38,177
+strength, damage level, range, perception, versatility,
+they were evenly matched. Yeah, we said Agatha
+
+463
+00:43:38,257 --> 00:43:43,681
+did come out a little bit ahead when it came
+to intellect just because Agatha's lived for
+
+464
+00:43:43,761 --> 00:43:50,346
+millennia and she's not as naive as Clarion
+is. Yeah, Clarion is a literal child, a smart
+
+465
+00:43:50,386 --> 00:43:56,875
+child, but a child. Yeah, he's not wise like
+Agatha is. Clarion, however, came out far ahead
+
+466
+00:43:56,895 --> 00:44:01,757
+when it came to durability, because the dude
+has been slapped by heavy hitters like Edric
+
+467
+00:44:01,777 --> 00:44:07,000
+and the Demon and Lobo. Yeah, and Mary Marvel,
+all kinds of heavy hitters. We also said that
+
+468
+00:44:07,100 --> 00:44:13,083
+Agatha got the edge when it came to evasiveness,
+simply because there's a lot more instances
+
+469
+00:44:13,164 --> 00:44:18,907
+of her avoiding damage than Clarion. Yeah, through
+her magic shields and illusion casting and
+
+470
+00:44:18,947 --> 00:44:23,629
+things like that. She has to avoid damage because
+she's just not as durable. She will literally
+
+471
+00:44:23,669 --> 00:44:28,467
+break a hip. Exactly. So with all that in mind,
+Jonathan, who do you think is coming out on
+
+472
+00:44:28,507 --> 00:44:34,568
+top in this match? I think Clarion. Just because
+there's no young boy that's going to be taken
+
+473
+00:44:34,648 --> 00:44:41,150
+out by an old woman, it's just not a thing that
+happens. And so far, our followers on Instagram
+
+474
+00:44:41,330 --> 00:44:46,892
+agree with me. I put up the poll a little late,
+but so far, 55% of the poll takers agree with
+
+475
+00:44:46,952 --> 00:44:51,033
+me. Well, that just makes me think that we have
+a lot of younger poll takers that just don't
+
+476
+00:44:51,053 --> 00:44:55,375
+know any better. Actually that makes me feel
+like a lot of those who voted are children
+
+477
+00:44:55,415 --> 00:44:59,477
+of the 90s considering that Clarion featured
+in a prominent episode of Batman the animated
+
+478
+00:44:59,497 --> 00:45:05,639
+series back in the day. That's true but Agatha
+Harkness has her own fucking series. How crazy
+
+479
+00:45:05,679 --> 00:45:10,441
+is that? Well people must not like it because
+of not voting for her. Whatever. Let's go ahead
+
+480
+00:45:10,461 --> 00:45:19,905
+and see who won. AG9K the results please. Hey
+Yuasa. Okay. The winner between Clarion the
+
+481
+00:45:19,965 --> 00:45:31,628
+witch boy and Agatha Harkness is... AGATHA HARKNESS!
+NOOOOOO! That's right! She made Clarion the
+
+482
+00:45:31,648 --> 00:45:38,030
+Witch Boy her little bitch boy by beating him
+in 515 matches out of the 1000 total battles.
+
+483
+00:45:38,550 --> 00:45:47,833
+Clarion only won 485. So Agatha's win percentage
+is 51.5% and Clarion's is 48.5%. That is really
+
+484
+00:45:47,873 --> 00:45:53,876
+close. Like... I don't think Agatha made Clarion
+her bitch. She did though, because she won.
+
+485
+00:45:54,156 --> 00:45:59,259
+So Clarion can cry about it. He probably will,
+honestly, not going to lie. But now you have
+
+486
+00:45:59,279 --> 00:46:05,842
+to deal with that. So congratulations. I will
+deal with it by not dealing with it and more
+
+487
+00:46:05,862 --> 00:46:10,885
+than likely laughing at the kid. Because that's
+what happens when you mess with Marvel and
+
+488
+00:46:10,965 --> 00:46:15,668
+old ladies and think that you could beat them.
+Old ladies can sometimes be pretty badass,
+
+489
+00:46:15,968 --> 00:46:21,139
+as Agatha Harkness has shown here today. I was
+going to say that young Puritan boys could
+
+490
+00:46:21,179 --> 00:46:27,984
+also be badass, but I don't think that's true.
+Well, I guess that does it for this duel. AJ9K,
+
+491
+00:46:28,165 --> 00:46:35,270
+help close us out. Thanks for listening to Dynamic
+Duel. Visit the show's website at dynamicduel.com
+
+492
+00:46:36,111 --> 00:46:41,815
+and follow us on Instagram at dynamicduelpodcast.
+You can support the show on Patreon at patreon.com
+
+493
+00:46:42,215 --> 00:46:46,898
+slash dynamicduel and joining a tier that works
+for you. or by rating and reviewing Dynamic
+
+494
+00:46:46,918 --> 00:46:52,480
+Duel on Apple Podcasts, Spotify, Podchaser,
+or on our website. Don't forget to listen to
+
+495
+00:46:52,500 --> 00:46:57,861
+the other shows in the DynaMic Podcast Network,
+including Max Destruction, Senjo World, and
+
+496
+00:46:57,901 --> 00:47:04,923
+Console Combat. Our next episode is going to
+be another duel episode. Guys, you remember
+
+497
+00:47:04,963 --> 00:47:11,045
+how last year we surprised you with a team duel
+that was the Deceased vs. the Marvel Zombies?
+
+498
+00:47:11,165 --> 00:47:16,386
+We're going to surprise you guys again with
+another team duel. and we think you'll be excited
+
+499
+00:47:16,426 --> 00:47:20,408
+by it. And hey, if you've made it this far in
+the episode, we'll let you know what the surprise
+
+500
+00:47:20,468 --> 00:47:25,410
+is now. Creature Commandos versus Legion of
+Monsters, baby. That's right. We're pitting
+
+501
+00:47:25,470 --> 00:47:29,812
+like classic Halloween creatures against each
+other next week and lead up to the Halloween
+
+502
+00:47:29,832 --> 00:47:33,894
+holiday. So look forward to that. But that does
+it for this episode. We want to give a big
+
+503
+00:47:33,914 --> 00:47:39,196
+thanks to our executive producers. Ken Johnson,
+John Sturowski, Zachary Hepburn, Dustin Belcom,
+
+504
+00:47:39,356 --> 00:47:44,739
+Mickey Mathangian, Brendan Estregard, Nathaniel
+Wagner, Levi Yeaton. Austin Wasylowski, AJ
+
+505
+00:47:44,779 --> 00:47:50,883
+Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Andrew Shunk, Dean Molesky, Devin Davis,
+
+506
+00:47:51,043 --> 00:47:56,367
+Joseph Kirstein, and Josh Leiner for helping
+make this podcast possible. We'll talk to you
+
+507
+00:47:56,387 --> 00:48:02,111
+guys next week. Up up and away, true believers.
+If she weighs as much as a duck, then she's
+
+508
+00:48:02,151 --> 00:48:04,452
+made of wood, and therefore a witch.
+
