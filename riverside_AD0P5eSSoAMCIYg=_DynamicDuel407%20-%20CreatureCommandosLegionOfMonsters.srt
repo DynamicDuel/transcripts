@@ -1,0 +1,3371 @@
+1
+00:00:00,930 --> 00:00:02,963
+This is a DynaMic Network podcast.
+
+2
+00:00:24,238 --> 00:00:29,160
+Hi and welcome to Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,180 --> 00:00:34,603
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:35,163 --> 00:00:41,127
+I'm Marvelous Joe. And I'm his twin brother
+Johnny DC. And for Spooktober in this Halloween
+
+5
+00:00:41,167 --> 00:00:45,929
+season, guys, we have a special treat for you.
+Just like last year, how we kind of surprised
+
+6
+00:00:45,949 --> 00:00:51,793
+you guys with our DCs vs. Marvel zombies team
+duel episode. We're doing it again. We're going
+
+7
+00:00:51,833 --> 00:00:57,423
+to do another spooky... team duel and find out
+who would win in a fight between the creature
+
+8
+00:00:57,463 --> 00:01:03,985
+commandos and the legion of monsters slash hellen
+commandos. Yeah, of course, this is perfect
+
+9
+00:01:04,025 --> 00:01:11,047
+timing because DC has a creature commandos television
+series that will be coming out later on this
+
+10
+00:01:11,107 --> 00:01:15,969
+year. Yeah, I really can't wait to get into
+this duel match, learn about both teams and
+
+11
+00:01:16,149 --> 00:01:19,870
+of course find out who will win. That's all
+coming later on this episode. Before that,
+
+12
+00:01:19,890 --> 00:01:23,492
+we're gonna break down the latest comic book
+movie news to come out this past week. Of which
+
+13
+00:01:23,512 --> 00:01:27,854
+there's quite a bit of news coming out of New
+York Comic Con. Including our first look at
+
+14
+00:01:27,934 --> 00:01:33,956
+Crypto in the DCU Superman film, the Creature
+Commandos official trailer, the Batman Ninja
+
+15
+00:01:33,996 --> 00:01:40,759
+vs Yakuza League new trailer, and the Watchmen
+Chapter 2 official trailer. All DC news! Yeah,
+
+16
+00:01:40,779 --> 00:01:46,262
+that's kinda lame, but Marvel got a lot of big
+news coming out of D23 a few months ago. Marvel's
+
+17
+00:01:46,302 --> 00:01:52,228
+going to win this matchup, so... What do you
+think, huh? I'm not too concerned. Yeah. As
+
+18
+00:01:52,308 --> 00:01:55,732
+always, we list our segment times in our episode
+description, so feel free to check out the
+
+19
+00:01:55,752 --> 00:02:01,378
+show notes if you want to skip ahead to a particular
+topic. Our artificially intelligent duel simulator,
+
+20
+00:02:01,498 --> 00:02:08,798
+AJ9K, has a quick message for our listeners,
+so listen up. Why hello there, do you want
+
+21
+00:02:08,858 --> 00:02:13,760
+even more from this podcast? Then become a part
+of the dynamic duel community on Patreon, where
+
+22
+00:02:13,780 --> 00:02:18,242
+you can choose from three tiers. The dynamic
+two-oh tier gives you access to our Discord
+
+23
+00:02:18,282 --> 00:02:23,204
+chat server. The fantastic four tier gives you
+two bonus episodes each month, and the X-Force
+
+24
+00:02:23,224 --> 00:02:28,542
+tier makes you an executive producer of this
+show. Lastly, The Diner Mike podcast network
+
+25
+00:02:28,562 --> 00:02:33,044
+tier lets you create your own podcast using
+this Monte Carlo simulator. Johnny and Joe
+
+26
+00:02:33,064 --> 00:02:37,767
+will help you develop your show, provide graphic
+support and consultation, and get you simulation
+
+27
+00:02:37,807 --> 00:02:44,070
+results. Pitch the twins your ideas via email
+at dynamicduelpodcast at gmail.com. Check it
+
+28
+00:02:44,130 --> 00:02:50,653
+out at patreon.com slash dynamicduel. Pip pip
+cheerio. Thanks AJ9K and thanks to everyone
+
+29
+00:02:50,673 --> 00:02:55,512
+who supports the podcast. Be sure to tune into
+the other shows in the DynaMic Podcast Network
+
+30
+00:02:55,532 --> 00:03:00,015
+this week, including Max Destruction, which
+pits your favorite action heroes from film
+
+31
+00:03:00,095 --> 00:03:05,319
+and television against each other. This week,
+hosts Scotty and Gilly are determining the
+
+32
+00:03:05,339 --> 00:03:11,543
+winner between Beetlejuice and Freddy Krueger.
+That's gonna be really good. On the Central
+
+33
+00:03:11,563 --> 00:03:16,747
+World Podcast, host Zachary Hepburn speculates
+on fights between fan favorite anime and manga
+
+34
+00:03:16,787 --> 00:03:23,327
+characters. This Thursday, Zach will find out
+who will win between Shinji Ikari from Evangelion
+
+35
+00:03:23,527 --> 00:03:29,150
+and Monster King Orochi from One Punch Man.
+That's gonna be another good one. Hell yeah!
+
+36
+00:03:29,170 --> 00:03:33,532
+Finally on the Console Combat Podcast, hosts
+John and Dean simulate battles between popular
+
+37
+00:03:33,572 --> 00:03:38,615
+video game characters. In yesterday's episode,
+they reviewed Willy's Wonderland, following
+
+38
+00:03:38,655 --> 00:03:43,418
+their review of Five Nights at Freddy's from
+the previous week. Visit dynamicpodcasts.com
+
+39
+00:03:43,958 --> 00:03:48,681
+or click the link in our show notes to listen
+to all of the shows in the DynaMic Podcast
+
+40
+00:03:48,761 --> 00:03:55,495
+Network. But with that out of the way... Quick!
+To the No Prize! A No Prize is an award Marvel
+
+41
+00:03:55,535 --> 00:04:00,778
+used to give out to fans. Our version, the Dynamic
+Duel No Prize, is a digital award that we post
+
+42
+00:04:00,818 --> 00:04:05,439
+on Instagram for the person that we feel gave
+the best answer to our question of the week.
+
+43
+00:04:05,940 --> 00:04:12,562
+Last week, we asked, What has been your favorite
+live-action Marvel or DC television series
+
+44
+00:04:12,762 --> 00:04:18,845
+so far and why? And that was coming off of the
+hype of the Green Lantern casting for the upcoming
+
+45
+00:04:18,945 --> 00:04:24,604
+Lantern series on HBO. We got a number of answers.
+Let's break down this week's honorable mentions
+
+46
+00:04:24,624 --> 00:04:30,907
+before revealing the no prize winner. Our first
+honorable mention goes to Colby Henches who
+
+47
+00:04:30,947 --> 00:04:38,051
+said, hey boys Colby Henches The best live-action
+comic show from Marvel or DC was Marvel's Runaways
+
+48
+00:04:38,111 --> 00:04:44,235
+on Hulu. It was three seasons It was amazingly
+cast and acted. They even brought the girl
+
+49
+00:04:44,255 --> 00:04:51,226
+who played Nico back to play her again in the
+Marvel Midnight Suns video game I don't regret
+
+50
+00:04:51,346 --> 00:04:57,230
+a minute of that show. It was fun start to finish.
+It should have had more seasons. So this one
+
+51
+00:04:57,270 --> 00:05:01,593
+gets the honorable mention right out of the
+gate because I feel like it was controversial,
+
+52
+00:05:01,673 --> 00:05:06,537
+at least as far as my feelings go regarding
+the Runaways television series. If you listen
+
+53
+00:05:06,577 --> 00:05:11,420
+to our review of the Runaways season two, which
+is the only season that we reviewed on this
+
+54
+00:05:11,460 --> 00:05:17,164
+podcast, you'll note that I didn't really like
+the changes that the show had made from the
+
+55
+00:05:17,204 --> 00:05:21,552
+original comic book series, which I... I thought
+it was a lot more exciting than the television
+
+56
+00:05:21,592 --> 00:05:25,735
+show. The television show kind of became its
+own thing. And I'll admit that it was well
+
+57
+00:05:25,775 --> 00:05:30,899
+cast and the special effects were great, but
+it was largely a teen drama, which is how I
+
+58
+00:05:30,919 --> 00:05:34,962
+guess you could describe the comic book series.
+But there was a lot more adrenaline and suspense
+
+59
+00:05:35,283 --> 00:05:40,827
+and fantastical elements in the comic book series
+that weren't present in the live action show.
+
+60
+00:05:41,328 --> 00:05:46,992
+But I appreciate an opinion that differs from
+mine. I don't know if Colby Hentges is a fan
+
+61
+00:05:47,172 --> 00:05:51,662
+of the Runaways comic books. but I know that
+a lot of people really like The Runaways and
+
+62
+00:05:51,702 --> 00:05:56,504
+it was always interesting to get their perspective
+on why. I feel like it appealed to a younger
+
+63
+00:05:56,564 --> 00:06:00,865
+generation than you and I are. Man, that's cool,
+that's fine. I do have to say though that the
+
+64
+00:06:00,905 --> 00:06:05,487
+comic book series, while I never read it, I
+am a big fan of the author, Brian K. Vaughan.
+
+65
+00:06:06,047 --> 00:06:10,228
+He wrote another one of my favorite series,
+Why the Last Man. It was a DC Vertigo comic
+
+66
+00:06:10,248 --> 00:06:15,398
+book. Fantastic piece of literature. Brian K.
+Vaughan is the man. And I kind of wish they
+
+67
+00:06:15,438 --> 00:06:20,563
+would have adapted the comic series more faithfully
+in the television series. But critics like
+
+68
+00:06:20,603 --> 00:06:25,427
+The Runaways too, so yeah, maybe it should have
+got more seasons, but I think that ended due
+
+69
+00:06:25,487 --> 00:06:31,652
+to Marvel Studios' takeover of Marvel Television.
+Yeah, that's right. Great answer, Colby. Our
+
+70
+00:06:31,712 --> 00:06:37,057
+next honorable mention goes to Michael Williams.
+Who said? Mike Williams, I was saying goes
+
+71
+00:06:37,077 --> 00:06:44,562
+to Missouri. Live action show between DC, the
+Peacemaker, and Teen Titans. Really loved Peacemaker
+
+72
+00:06:44,622 --> 00:06:50,627
+the last episode where the Justice League showed
+up. As far as Marvel, Falcon, Winter Soldier.
+
+73
+00:06:51,969 --> 00:06:59,255
+Enjoy your show. And as always, make mine Marvel.
+Take care. Yeah, in reference to the Teen Titans
+
+74
+00:06:59,295 --> 00:07:04,879
+series, I think he's referring to the live action
+Titan series that was on Max, which I think
+
+75
+00:07:04,959 --> 00:07:10,144
+got better season by season. Peacemaker is also
+on Max. I love that show, which was written
+
+76
+00:07:10,184 --> 00:07:15,307
+by James Gunn, the new head of the DCU. And
+I'm really looking forward to season two, along
+
+77
+00:07:15,327 --> 00:07:19,148
+with everything else he's going to bring to
+the universe. Yeah, and Michael also mentioned
+
+78
+00:07:19,188 --> 00:07:23,750
+for Marvel, The Falcon and the Winter Soldier,
+Disney Plus series, and yeah, for my money,
+
+79
+00:07:23,890 --> 00:07:28,732
+the first episode of that series had one of
+the best MCU action scenes of all time. Great
+
+80
+00:07:28,792 --> 00:07:33,614
+answer, Michael. Our next honorable mention
+goes to Daniel Alonso. Who said? Okay, well,
+
+81
+00:07:33,674 --> 00:07:38,956
+there's only one answer for this, and it's gotta
+be Daredevil. I mean, hands down. It's got
+
+82
+00:07:39,036 --> 00:07:45,135
+incredible fight scenes, the cinematography
+is amazing. The freaking acting, the all-star
+
+83
+00:07:45,195 --> 00:07:51,377
+cast, Charlie Cox, Vincent D'Onofrio, John Bernthal,
+Debra Anne Wohl, like come on, it's incredible.
+
+84
+00:07:51,437 --> 00:07:57,140
+And Daredevil, oh my god, we finally get Daredevil
+how he should be. Dude, there's not enough
+
+85
+00:07:57,160 --> 00:08:01,082
+that I can say about that. I mean, yeah, hands
+down, it's gotta be Daredevil, there's no other
+
+86
+00:08:01,142 --> 00:08:05,924
+answer. That's it. Daredevil's not just one
+of the best superhero television series out
+
+87
+00:08:05,964 --> 00:08:10,246
+there, it's one of the best television series
+of all time, period. It's so well made. and
+
+88
+00:08:10,266 --> 00:08:15,387
+I think it truly transcends the comic book genre
+and totally appeals to fans of crime series
+
+89
+00:08:15,747 --> 00:08:20,508
+and stuff like that as well. I can't say enough
+good things about the Daredevil show. Yeah,
+
+90
+00:08:20,528 --> 00:08:25,770
+I definitely agree with you about it transcending
+the genre, particularly in season 3. That season,
+
+91
+00:08:26,330 --> 00:08:31,872
+I was just riveted every episode. It was so
+damn good. I've gotten pretty nervous with
+
+92
+00:08:31,912 --> 00:08:37,473
+the character popping up in the Spider-Man movie
+and She-Hulk. I really don't want Disney to
+
+93
+00:08:37,553 --> 00:08:41,738
+ruin the character. But it looks like with all
+of the different crew changes and reshoots
+
+94
+00:08:41,778 --> 00:08:46,260
+that they've done with the upcoming Daredevil
+Born Again series, it should be pretty good.
+
+95
+00:08:46,800 --> 00:08:50,861
+I don't think there's anything to worry about
+regarding the show making its transition from
+
+96
+00:08:50,921 --> 00:08:55,942
+Netflix to Disney+, because it's been confirmed
+that on Disney+, Daredevil Born Again is going
+
+97
+00:08:55,962 --> 00:09:00,363
+to be TVMA. And judging from, you know, the
+leaked trailers and stuff that have come out
+
+98
+00:09:00,403 --> 00:09:05,285
+of New York Comic Con and D23, it's going to
+be incredible, still keeping in the tone of
+
+99
+00:09:05,305 --> 00:09:09,954
+the Netflix show. And they announced the premiere
+date for... Daredevil Born Again. It's going
+
+100
+00:09:09,974 --> 00:09:15,677
+to be March 4th, 2025, and the season is going
+to be nine episodes. Are you serious? I didn't
+
+101
+00:09:15,697 --> 00:09:19,560
+know that. Oh, it's going to be forever until
+March now. Dig it. Yeah, it's quite a ways
+
+102
+00:09:19,580 --> 00:09:25,223
+away. But good things come to those who wait,
+as they say. We as comic book movie fans know
+
+103
+00:09:25,263 --> 00:09:29,645
+this most of the time. Great answer, Daniel.
+We want to give a quick shout out to Mason
+
+104
+00:09:29,705 --> 00:09:34,768
+Thompson for taking the time to visit our website
+and record an answer. But the winner of this
+
+105
+00:09:34,808 --> 00:09:40,924
+week's no prize is Travis Bailey. Who said?
+Hey, what's up Travis Bailey. Shout out to
+
+106
+00:09:40,964 --> 00:09:46,849
+my good twin. Look, Marvel, everybody knows
+this, dominates every form of media as far
+
+107
+00:09:46,889 --> 00:09:53,895
+as common sense is concerned. Print, movies,
+animation, yes, animation. But if we're being
+
+108
+00:09:53,955 --> 00:09:59,059
+honest, it has to be watchmen. I mean, the product
+that they put out on HBO, I mean, known for
+
+109
+00:09:59,099 --> 00:10:04,604
+pressing these television, it did not disappoint.
+Got some Emmy nods. It validates everything
+
+110
+00:10:04,904 --> 00:10:10,023
+incessant DC fans say about their work. I think
+the main point that we want to take away from
+
+111
+00:10:10,103 --> 00:10:16,769
+Travis Bailey's answer is that Marvel dominates
+everything over DC, including animation. Except
+
+112
+00:10:16,829 --> 00:10:22,774
+apparently television, which I guess you're
+admitting. No, yeah, Watchmen hands down is
+
+113
+00:10:22,814 --> 00:10:27,838
+the best series that I think has ever been produced
+as an adaptation from the comics. Now, of course,
+
+114
+00:10:27,878 --> 00:10:33,422
+the Watchmen series was a sequel to the Watchmen
+comic, but holy cow, was it a phenomenal one.
+
+115
+00:10:33,542 --> 00:10:38,859
+It was a better sequel than anything DC has
+produced since then. including Doomsday Clock.
+
+116
+00:10:39,399 --> 00:10:44,203
+I don't know if Watchmen is a better show than
+Daredevil. Yes, it is. But it's up there. It
+
+117
+00:10:44,484 --> 00:10:48,987
+was a really damn good show for sure. And not
+only did it get a few Emmy nods, it freaking
+
+118
+00:10:49,047 --> 00:10:54,292
+won more Emmys the year it came out than any
+other show it was competing against. It won
+
+119
+00:10:54,312 --> 00:10:59,857
+a Peabody Award, which is unheard of. Like a
+television series, one based off of a comic
+
+120
+00:10:59,877 --> 00:11:05,666
+book that wins a Peabody, incredible. Yeah,
+if you haven't seen Watchmen on HBO, and you're
+
+121
+00:11:05,686 --> 00:11:09,127
+a fan of Watchmen, definitely check it out,
+because it was really well conceived, really
+
+122
+00:11:09,167 --> 00:11:14,610
+well made. Yeah, Damon Lindelof served as the
+showrunner for Watchmen, and he's also serving
+
+123
+00:11:14,870 --> 00:11:19,672
+as the showrunner for the upcoming Lantern series,
+which gets me super, super pumped for that.
+
+124
+00:11:20,052 --> 00:11:23,894
+So congrats to Travis Bailey for winning this
+week's No Prize. If you, the listener, want
+
+125
+00:11:23,934 --> 00:11:28,476
+a shot at winning your own No Prize, stay tuned
+to later on in this episode when we'll be asking
+
+126
+00:11:28,536 --> 00:11:32,477
+another question of the week. And now that that's
+done, on to the news.
+
+127
+00:11:37,762 --> 00:11:44,765
+So last week, James Gunn on social media not
+only confirmed that crypto will be in the upcoming
+
+128
+00:11:44,925 --> 00:11:50,268
+Superman movie that's going to hit theaters
+in 2025, but he also shared the first look
+
+129
+00:11:50,368 --> 00:11:55,411
+at crypto as he's sitting next to Superman on
+the moon overlooking the planet Earth. And
+
+130
+00:11:55,471 --> 00:12:00,954
+I just want to give the dog a huge hug because
+he's so cuddly. And don't deny you don't either.
+
+131
+00:12:00,974 --> 00:12:06,237
+I'm good. I'm good, bro. You know, you know
+that is just like the scruffiest, just fluffiest
+
+132
+00:12:06,277 --> 00:12:10,712
+dog ever. want to pet that guy. In the social
+media post where he made the announcement,
+
+133
+00:12:11,092 --> 00:12:15,955
+James Gunn talked about the inspiration for
+including crypto in this movie and it was a
+
+134
+00:12:16,116 --> 00:12:20,418
+dog that he had rescued named Ozu and he was
+talking about how when they first got him he
+
+135
+00:12:20,438 --> 00:12:25,422
+was just destroying everything in the house
+and it kind of inspired James Gunn to be like
+
+136
+00:12:25,522 --> 00:12:31,426
+oh what if Ozu had superpowers like that would
+be so much more wild and possibly humorous.
+
+137
+00:12:31,586 --> 00:12:37,518
+So it kind of indicated a comedic tone that
+crypto may have in the Superman movie. So does
+
+138
+00:12:37,538 --> 00:12:42,422
+that mean that the Superman movie is gonna be
+about how Superman gets crypto? No, I don't
+
+139
+00:12:42,442 --> 00:12:48,727
+believe so. We're entering the DCU as an established
+universe. And so I think crypto is just gonna
+
+140
+00:12:48,747 --> 00:12:53,091
+be, you know, one of Superman's allies in the
+film. I'm not sure how large of a role he'll
+
+141
+00:12:53,131 --> 00:12:59,056
+have in the movie, considering it looks like
+he's CG and he may be expensive to produce.
+
+142
+00:12:59,336 --> 00:13:03,520
+But I also just love the fact that they're including
+him. We haven't seen crypto since League of
+
+143
+00:13:03,600 --> 00:13:09,084
+Superpets, the animated film. But it's really
+cool to actually see him make the jump to live
+
+144
+00:13:09,144 --> 00:13:13,407
+action. What do you think of the image itself
+of Superman sitting nice to crypto on the moon?
+
+145
+00:13:13,907 --> 00:13:19,030
+I love this image. I really freaking love it.
+It made me so much happier than I thought it
+
+146
+00:13:19,070 --> 00:13:24,554
+would and just kind of really washed all of
+the bad taste of Joker 2 out of my mouth. I
+
+147
+00:13:24,594 --> 00:13:28,617
+think DC fans are getting a little bit overhyped
+about this image because essentially you're
+
+148
+00:13:28,637 --> 00:13:33,861
+just looking at Superman's back and crypto's
+back and it's like, who cares, right? But it's
+
+149
+00:13:33,881 --> 00:13:38,736
+like an iconic. looking image like it just framed
+really well as they look over the planet and
+
+150
+00:13:38,776 --> 00:13:43,939
+it's just a joy I guess to see Superman with
+his dog. I guess so. You cold-hearted piece
+
+151
+00:13:43,959 --> 00:13:50,983
+of shit! Why? Because I'm not gushing all over
+this image. It's been posted to death by this
+
+152
+00:13:51,023 --> 00:13:56,026
+point. Like I'm sick of seeing it as a teaser
+image. It's fine but like I'm waiting for a
+
+153
+00:13:56,106 --> 00:14:01,649
+trailer already. Oh same. Yeah absolutely. The
+movie comes out in summer of next year so...
+
+154
+00:14:02,006 --> 00:14:07,409
+I actually think we'll be getting a teaser trailer
+soon, maybe by the holiday season. Yeah, I'd
+
+155
+00:14:07,429 --> 00:14:11,412
+put my money on that. Around Christmas time
+we'll get the trailer for Superman. Fingers
+
+156
+00:14:11,452 --> 00:14:15,955
+crossed. Moving on to the trailers that were
+released during New York Comic Con, starting
+
+157
+00:14:15,995 --> 00:14:20,778
+with Creature Commandos. This show is coming
+out December 5th and it's going to kick off
+
+158
+00:14:20,818 --> 00:14:25,942
+James Gunn's DCU. We've already seen some footage
+from the teaser trailer, but this is the first
+
+159
+00:14:25,982 --> 00:14:30,905
+official trailer that has been released by DC
+Studios. The premise of the show is setting
+
+160
+00:14:30,965 --> 00:14:37,072
+up. is that because the government found out
+about Amanda Waller's Task Force X or Suicide
+
+161
+00:14:37,112 --> 00:14:43,034
+Squad due to the events at the end of Peacemaker
+Season 1, she's now forced to pull from a different
+
+162
+00:14:43,074 --> 00:14:48,536
+set of prisoners, namely ones that aren't human,
+in order to accomplish these dangerous and
+
+163
+00:14:48,576 --> 00:14:54,659
+possible tasks, and that is the Creature Commandos.
+From this trailer, it looks like the core team's
+
+164
+00:14:54,699 --> 00:15:03,955
+roster is going to be The Bride, Dr. Phosphorus,
+Weasel, Dr. Nina Mazursky, and GI Robot. Frankenstein
+
+165
+00:15:03,995 --> 00:15:07,758
+is also going to be making appearances and he's
+going to be voiced by David Harbour, but it
+
+166
+00:15:07,778 --> 00:15:12,541
+looks like maybe he's just a side character
+for the team. He won't be there the whole time.
+
+167
+00:15:12,861 --> 00:15:18,305
+And of course, Rick Flagg Sr. voiced by Frank
+Urlo is also a member of the team. Is the villain
+
+168
+00:15:18,645 --> 00:15:23,669
+Magenta at the beginning of this trailer? It
+looks like her kinda. I don't believe so. I
+
+169
+00:15:23,709 --> 00:15:27,551
+don't actually know who this character is. I
+think it's Cersei because I
+
+170
+00:15:30,738 --> 00:15:35,862
+in the show. So my bet is that it's her. We
+also get to see Clayface in this trailer, which
+
+171
+00:15:36,202 --> 00:15:39,325
+I thought was pretty surprising because I didn't
+know he was going to show up either. Yeah,
+
+172
+00:15:39,365 --> 00:15:43,908
+Clayface is just showing up everywhere, isn't
+he? This is like the year of Clayface, I swear
+
+173
+00:15:43,928 --> 00:15:49,913
+to God. Between Suicide Squad, Isekai, Batman
+Caped Crusader, and his guest appearance in
+
+174
+00:15:49,953 --> 00:15:54,077
+Kite Men, hell yeah, season one. Yeah, he's
+all over the place. Yeah, it's kind of cool.
+
+175
+00:15:54,137 --> 00:16:00,422
+And he looks really cool in this trailer. I
+swear if they adapt this version to live I
+
+176
+00:16:00,442 --> 00:16:04,944
+will lose my mind, because that would just be
+incredible. There's also some cameos from some
+
+177
+00:16:04,984 --> 00:16:10,967
+rather obscure characters, including Kongarilla
+and Rubber Duck. I've never heard of that character
+
+178
+00:16:10,987 --> 00:16:14,489
+before, but apparently it's a thing. The show
+looks like it's going to be really good. I
+
+179
+00:16:14,509 --> 00:16:18,752
+especially like the character arcs that it looks
+like we're getting for The Bride and Dr. Nina
+
+180
+00:16:18,792 --> 00:16:23,694
+Mazursky, and G.I. Robot. I think the show is
+going to be really heartfelt, and I can't wait
+
+181
+00:16:23,734 --> 00:16:27,896
+to see it when it comes out in early December.
+This trailer definitely has me pumped for the
+
+182
+00:16:27,937 --> 00:16:32,741
+show. I love the creature commandos. It does
+look like this one's going to be gratuitously
+
+183
+00:16:32,801 --> 00:16:38,347
+violent, but that's pretty much in keeping with
+James Gunn's The Suicide Squad film and Peacemaker,
+
+184
+00:16:38,447 --> 00:16:42,912
+so I'm not surprised. Yeah, as everyone knows,
+the Creature Commandos are a team comprised
+
+185
+00:16:43,093 --> 00:16:46,677
+of kind of spooky characters, so that brings
+us to our question of the week.
+
+186
+00:16:51,214 --> 00:16:57,619
+Who do you think is the scariest Marvel or DC
+character and why? Yeah, we'll be going through
+
+187
+00:16:57,659 --> 00:17:02,463
+these answers for our next episode, which will
+drop on Halloween Day. So record your answer
+
+188
+00:17:02,503 --> 00:17:06,786
+at dynamicduel.com by clicking on the red microphone
+button in the bottom right hand corner of the
+
+189
+00:17:06,827 --> 00:17:11,030
+screen, which will prompt you to leave us a
+voicemail. Your message could be up to 30 seconds
+
+190
+00:17:11,070 --> 00:17:14,813
+long, and don't forget to leave your name in
+case we include you on the podcast. We'll pick
+
+191
+00:17:14,853 --> 00:17:19,937
+our favorite answer and award that person a
+Dynamic Duel No Prize that we'll post to Instagram.
+
+192
+00:17:20,374 --> 00:17:25,855
+Be sure to answer before October 26th. Another
+DC trailer also came out during New York Comic
+
+193
+00:17:25,875 --> 00:17:31,357
+Con, Batman Ninja versus Yakuza League. I loved
+the first Batman Ninja and everything I see
+
+194
+00:17:31,397 --> 00:17:37,399
+coming out about this sequel just gets me more
+and more pumped for this film. In the previous
+
+195
+00:17:37,439 --> 00:17:42,621
+teaser trailer that we got for this, we speculated
+that perhaps the actions from the first film
+
+196
+00:17:42,981 --> 00:17:51,131
+resulted. in the future being affected and influencing
+the modern world with more Japanese elements,
+
+197
+00:17:51,171 --> 00:17:56,613
+particularly in Gotham City. But it actually
+looks like this alternate dimension is being
+
+198
+00:17:56,693 --> 00:18:03,015
+folded on top of Gotham City, sort of like origami.
+And in this alternate dimension of Japan, it's
+
+199
+00:18:03,075 --> 00:18:09,596
+ruled over by a Yakuza League or different Justice
+League members that are like evil Yakuza versions
+
+200
+00:18:09,636 --> 00:18:13,097
+of themselves, or at least most of them are.
+It kind of seems like Wonder Woman might be
+
+201
+00:18:13,742 --> 00:18:18,744
+good in this movie whereas everyone else is
+bad? Well it's like competing Japanese factions.
+
+202
+00:18:18,864 --> 00:18:24,286
+The Ninkyo versus the Yakuza. And I thought
+it was really cool how it looks like the islands
+
+203
+00:18:24,306 --> 00:18:30,248
+of Japan are over Gotham City. So you have things
+like Yakuza storms where they just rain down
+
+204
+00:18:30,328 --> 00:18:35,250
+onto Gotham City and cause chaos. Which is wild
+because the Yakuza storms are actually Yakuza
+
+205
+00:18:35,330 --> 00:18:41,453
+gangsters just like flooding a city. It's pretty
+cool. The character designs as we've said before
+
+206
+00:18:43,670 --> 00:18:47,451
+Particularly Aquaman as we get to see a little
+bit more of him. The different looks for Wonder
+
+207
+00:18:47,491 --> 00:18:51,593
+Woman are also really cool I can't wait to see
+Superman. They're still hiding him from us
+
+208
+00:18:51,773 --> 00:18:55,394
+I figure he's gonna be the main bad guy or at
+least like the final bad guy because it definitely
+
+209
+00:18:55,414 --> 00:19:00,156
+looks like Rosselle Gould is heavily involved
+in whatever is going on with these dimensional
+
+210
+00:19:00,196 --> 00:19:04,398
+folds. The story looks like it's gonna be really
+good too really heartfelt You know like the
+
+211
+00:19:04,438 --> 00:19:08,200
+line from Batman who says it's most dangerous
+when a friend becomes an enemy and things like
+
+212
+00:19:08,240 --> 00:19:12,201
+that seems pretty deep And everything the only
+thing that I don't like about this project
+
+213
+00:19:12,710 --> 00:19:17,791
+is the animation itself is no good. Especially
+coming off of like Suicide Squad Isekai. Yeah.
+
+214
+00:19:17,911 --> 00:19:22,852
+And how that was hand drawn traditional anime
+animation. And you go to this computer generated
+
+215
+00:19:22,892 --> 00:19:27,834
+shit. There were parts of Batman Ninja in the
+first one that were computer animated that
+
+216
+00:19:27,874 --> 00:19:32,555
+I really liked, like the statues of the villains
+that Catwoman was introducing Batman to when
+
+217
+00:19:32,575 --> 00:19:37,916
+she was setting up the feudal world that Batman
+was currently in within Japan. I do hope we'll
+
+218
+00:19:37,936 --> 00:19:44,439
+get more animation in that style, but who knows?
+I agree. Like Suicide Squad Isekai totally
+
+219
+00:19:44,539 --> 00:19:49,604
+ruined a lot of other DC animation for me, but
+I'm still looking forward to the story for
+
+220
+00:19:49,644 --> 00:19:55,088
+this one. It's coming out in early 2025. We
+don't have an exact release date yet, but look
+
+221
+00:19:55,108 --> 00:20:02,154
+for it then. But speaking of bad-looking CG,
+the last trailer we want to talk about this
+
+222
+00:20:02,234 --> 00:20:08,019
+episode is the official trailer for Watchmen
+Chapter 2. Now, if you've listened to our review
+
+223
+00:20:08,039 --> 00:20:16,057
+for Watchmen Chapter 1, care for that film.
+It was kind of pointless. Yeah, being an inferior
+
+224
+00:20:16,097 --> 00:20:22,401
+version adaptation-wise of the Zack Snyder 2009
+live-action film, this kind of felt a little
+
+225
+00:20:22,421 --> 00:20:27,285
+bit redundant. And the second part to the Watchmen
+animated movie also looks the same. I mean,
+
+226
+00:20:27,305 --> 00:20:31,928
+yeah, not only was it not as good as Zack Snyder's
+adaptation, it's just not as good as the book
+
+227
+00:20:32,008 --> 00:20:38,272
+either in that it tries to be a perfect adaptation
+of the book and yet fails to capture a lot
+
+228
+00:20:38,292 --> 00:20:44,819
+of the things of what makes the book in the
+form of the comic medium so special. So considering
+
+229
+00:20:44,859 --> 00:20:50,721
+that, it's really hard to get excited for Watchmen
+Chapter 2. The animation still looks like it's
+
+230
+00:20:50,741 --> 00:20:56,122
+going to be very wooden and not nearly as good
+as some of DC's other animated projects. That
+
+231
+00:20:56,142 --> 00:21:02,264
+being said, the second half of the Watchmen
+story has some incredible moments like Rorschach's
+
+232
+00:21:02,364 --> 00:21:07,565
+origin story, the prison escape scene, the fight
+in Karnak. So there's a lot to look forward
+
+233
+00:21:07,585 --> 00:21:12,727
+to story-wise here. Oh, absolutely. Yeah, some
+of the best moments from Watchmen happen in
+
+234
+00:21:12,747 --> 00:21:17,950
+the second half. The first half was really all
+built up for this, right? Including a killer
+
+235
+00:21:17,990 --> 00:21:23,032
+twist. I'm really interested in seeing the design
+of the squid and how they incorporate that
+
+236
+00:21:23,072 --> 00:21:28,795
+here. I wonder if it'll be as good as what they
+showed in the HBO Watchmen series, or if it'll
+
+237
+00:21:28,815 --> 00:21:34,217
+look more like the comics or what it'll look
+like. Well, based on what we've seen from this
+
+238
+00:21:34,257 --> 00:21:38,785
+two part film. It's gonna be almost exactly
+like what we've seen in the comics considering
+
+239
+00:21:38,845 --> 00:21:44,530
+that they're really trying their hardest to
+capture artist Dave Gibbons style. It's not
+
+240
+00:21:44,550 --> 00:21:49,654
+gonna top what we saw in the Watchmen television
+series. I already know that. I'm already prepared
+
+241
+00:21:49,794 --> 00:21:55,820
+for that. Really, I'm prepared for the whole
+damn thing because, again, I read this book
+
+242
+00:21:55,920 --> 00:22:01,405
+like once every year, every two years. I know
+it by heart, basically. So there's not much
+
+243
+00:22:01,445 --> 00:22:05,630
+to look forward to. Maybe for people new to
+this story, but like we said in our review,
+
+244
+00:22:06,010 --> 00:22:09,591
+I think if someone's coming in new, I would
+just recommend a different adaptation than
+
+245
+00:22:09,631 --> 00:22:14,933
+this one. Or just, you know, read the original
+comic. Oh, absolutely. I have multiple versions
+
+246
+00:22:15,073 --> 00:22:18,914
+of the graphic novel for that very purpose.
+Someone tells me they haven't read Watchmen.
+
+247
+00:22:18,934 --> 00:22:25,116
+I'm like, here, take it. Just take it and read
+it. I'm not anticipating any kind of surprise
+
+248
+00:22:25,296 --> 00:22:29,897
+with this adaptation. Again, I think it's going
+to be very much by the numbers from the comic,
+
+249
+00:22:30,397 --> 00:22:37,475
+but who knows? We'll see. Part two of this film
+is coming out on digital and Blu-ray on November
+
+250
+00:22:37,515 --> 00:22:43,197
+26th. So we will be reviewing this in a little
+bit over a month. If you haven't read Watchmen
+
+251
+00:22:43,377 --> 00:22:49,218
+and don't know how it ends, read the comic before
+part two comes out and before you watch that.
+
+252
+00:22:49,799 --> 00:22:54,700
+Or if you're a Marvel fan, just go on living
+your life because who cares? If you're a Marvel
+
+253
+00:22:54,720 --> 00:22:58,841
+fan, you should read Watchmen so that you know
+what a good comic is.
+
+254
+00:23:07,022 --> 00:23:10,806
+But that does it for all the news for this episode,
+so let's go ahead and get into our main event,
+
+255
+00:23:11,107 --> 00:23:18,436
+which will be a team duel between the spook-tastic
+Marvel and DC teams of creature commandos and
+
+256
+00:23:18,476 --> 00:23:19,597
+the Legion of Monsters.
+
+257
+00:23:34,830 --> 00:23:39,753
+Alright, Creature Commandos vs. The Legion of
+Monsters. We decided to go with this duel episode
+
+258
+00:23:39,773 --> 00:23:43,956
+along with the executive producers because it
+was just too good of an opportunity to pass
+
+259
+00:23:44,036 --> 00:23:48,259
+up. You know, we got a lot of great feedback
+last year when we did the deceased vs. Marvel
+
+260
+00:23:48,299 --> 00:23:54,244
+zombies and this is always a fun time of year
+to do these type of duel episodes. It is nice
+
+261
+00:23:54,264 --> 00:23:58,635
+to do something special around these seasons.
+Yeah, absolutely. Especially when it comes
+
+262
+00:23:58,675 --> 00:24:02,679
+to characters that I love like the Creature
+Commandos. Yeah, we figured this would be good
+
+263
+00:24:02,719 --> 00:24:07,664
+to do in lead up to the Creature Commandos animated
+television show that'll be coming out in a
+
+264
+00:24:07,704 --> 00:24:12,468
+few months. Both teams are comprised of like
+classic Halloween creatures. It's kind of like
+
+265
+00:24:12,508 --> 00:24:18,274
+the Monster Mash of Marvel and DC. Absolutely.
+This is going to be a graveyard smash. When
+
+266
+00:24:18,294 --> 00:24:22,918
+did the Creature Commandos originate in DC Comics
+in terms of publication history? Because the
+
+267
+00:24:22,958 --> 00:24:27,580
+Legion of Monsters came out in the 1970s. And
+actually, the Legion of Monsters number one
+
+268
+00:24:27,780 --> 00:24:33,403
+issue was published by an imprint of Marvel
+called Curtis Comics that refused to carry
+
+269
+00:24:33,443 --> 00:24:38,006
+the Comics Code Authority seal. So they could
+tell these more supernatural stories, like
+
+270
+00:24:38,026 --> 00:24:43,369
+with Dracula and Frankenstein and the creature
+from the Black Lagoon, or Manfibian, as he's
+
+271
+00:24:43,389 --> 00:24:48,271
+known in Marvel. Well, I guess it looks like
+Marvel came out first here, because the Creature
+
+272
+00:24:48,291 --> 00:24:55,166
+Commandos didn't come out until 1980. What a
+rip-off. Damn ripoff. Hey, hey, it's like you
+
+273
+00:24:55,206 --> 00:24:59,307
+always tell me. It's not about who comes first,
+it's about who does it better. So Legion of
+
+274
+00:24:59,327 --> 00:25:04,329
+Monsters then. Alright, but to explain the methodology
+behind our duels, let's go to our sentient
+
+275
+00:25:04,369 --> 00:25:10,270
+duel simulator Alfred Jarvis 9000. AJ and IK
+tell our listeners how you go about determining
+
+276
+00:25:10,350 --> 00:25:15,532
+a winner in our duel matchups. Yes, of course,
+sir. The way I determine a winner between the
+
+277
+00:25:15,572 --> 00:25:20,913
+two teams is by running 1000 Monte Carlo simulations
+between every character on each team using
+
+278
+00:25:20,953 --> 00:25:26,435
+their statistics. A Monte Carlo simulation is
+a probabilistic model used to determine outcomes
+
+279
+00:25:26,455 --> 00:25:31,676
+through random sampling. In this case, I randomised
+the statistics along a normal distribution
+
+280
+00:25:31,996 --> 00:25:36,617
+as a way to simulate the many variables that
+can occur during battle. The stat parameters
+
+281
+00:25:36,657 --> 00:25:41,039
+are based on the official Marvel power grid,
+from which the DC characters statistics are
+
+282
+00:25:41,079 --> 00:25:47,080
+extrapolated. Additional stat categories are
+included such as range, damage potential, versatility
+
+283
+00:25:47,200 --> 00:25:52,202
+and perception in order to create a more detailed
+and accurate simulation. The results of the
+
+284
+00:25:52,262 --> 00:25:57,745
+49,000 simulations provide a percentage of wins
+for each character on both teams. The team
+
+285
+00:25:57,765 --> 00:26:01,827
+with the higher average win rate is declared
+the victor as they have a higher probability
+
+286
+00:26:01,887 --> 00:26:07,390
+to win any given battle. In an equitable pairing,
+neither team should win 100% of the matches.
+
+287
+00:26:07,770 --> 00:26:12,013
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman, so
+
+288
+00:26:12,053 --> 00:26:15,915
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+289
+00:26:15,935 --> 00:26:21,518
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+290
+00:26:21,538 --> 00:26:27,459
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+291
+00:26:27,479 --> 00:26:32,761
+Thanks AJ9K! Before we run the simulations though,
+we like to break down each team's histories
+
+292
+00:26:32,941 --> 00:26:39,263
+and rosters before improvising a scenario on
+how we imagine one of the thousands of simulations
+
+293
+00:26:39,283 --> 00:26:44,364
+would play out beat for beat. And I believe
+it's my turn to go first with the DC team's
+
+294
+00:26:44,404 --> 00:26:49,674
+backstory, so let me tell you all about the
+creature commandos. Now during World War II,
+
+295
+00:26:49,714 --> 00:26:55,415
+the United States government launched a top-secret
+project known as Project M, aimed at creating
+
+296
+00:26:55,596 --> 00:27:02,457
+experimental super-soldiers and psychological
+weapons. Led by Professor Mazursky, the program
+
+297
+00:27:02,577 --> 00:27:07,719
+operated from a hidden laboratory beneath the
+Statue of Liberty. Recognizing the fear that
+
+298
+00:27:07,779 --> 00:27:13,861
+monsters evoked, Mazursky aimed to weaponize
+this by transforming volunteers into grotesque
+
+299
+00:27:13,901 --> 00:27:19,914
+beings inspired by classic horror archetypes.
+The first volunteers included Warren Griffith,
+
+300
+00:27:20,294 --> 00:27:25,996
+a soldier suffering from delusions of lycanthropy,
+who was transformed into a werewolf. Vincent
+
+301
+00:27:26,036 --> 00:27:32,858
+Velcro, a court-martialed soldier turned into
+a vampire, and Elliot Lucky Taylor, a severely
+
+302
+00:27:32,898 --> 00:27:38,800
+wounded soldier reconstructed as a patchwork
+Frankenstein-esque monster. Dr. Myrna Rhodes,
+
+303
+00:27:38,920 --> 00:27:44,581
+a plastic surgeon exposed to mutagenic chemicals
+that transformed her into a gorgon with snakes
+
+304
+00:27:44,621 --> 00:27:50,844
+for hair, also joined the team as Dr. Medusa.
+This team became the Creature Commandos, led
+
+305
+00:27:50,884 --> 00:27:55,726
+by the hardened Lieutenant Matthew Shreve, who
+often viewed the commandos as mere tools for
+
+306
+00:27:55,746 --> 00:28:00,489
+the war effort. The Creature Commandos were
+deployed across Europe and beyond, taking on
+
+307
+00:28:00,569 --> 00:28:05,911
+both conventional and supernatural threats.
+Their first mission in France involved destroying
+
+308
+00:28:05,991 --> 00:28:12,394
+Nazi android duplicates of allied leaders, proving
+their effectiveness as a strike team. Operating
+
+309
+00:28:12,474 --> 00:28:20,680
+out of London, including the mission to rescue
+Dr. Rene Frederique, a scientist with knowledge
+
+310
+00:28:20,740 --> 00:28:26,104
+of chemical nerve gas. Though the commandos
+initially rescued a Nazi agent posing as Frederique.
+
+311
+00:28:26,605 --> 00:28:32,490
+In a rare moment of humanity, the agent sacrificed
+herself to save the team, challenging the commandos
+
+312
+00:28:32,550 --> 00:28:38,375
+perspective. The team eventually found the real
+Dr. Frederique in a death camp, but under orders,
+
+313
+00:28:38,815 --> 00:28:43,434
+killed her to prevent her knowledge from falling
+into enemy hands. This mission deeply affected
+
+314
+00:28:43,474 --> 00:28:48,675
+the team, particularly Lucky Taylor, who attempted
+suicide afterward. Though doctors repaired
+
+315
+00:28:48,695 --> 00:28:54,257
+his body, the trauma left him mute. As their
+missions continued, the commandos faced morally
+
+316
+00:28:54,317 --> 00:29:00,238
+ambiguous tasks, testing their loyalty and moral
+compass. One mission involved eliminating Nazi
+
+317
+00:29:00,278 --> 00:29:05,160
+super soldier children at a German boarding
+school. While the commandos hesitated to kill
+
+318
+00:29:05,200 --> 00:29:10,741
+children, Shreef took matters into his own hands
+and gunned them down, creating a rift within
+
+319
+00:29:10,781 --> 00:29:16,992
+the team. Despite these dark tasks, the commandos
+also found moments of redemption. In one mission,
+
+320
+00:29:17,232 --> 00:29:22,654
+they rescued a group of blind French children
+from a Nazi attack, earning medals of honor.
+
+321
+00:29:23,074 --> 00:29:27,837
+Yet internal conflict persisted and Shreeve
+briefly left the team, feeling his leadership
+
+322
+00:29:27,857 --> 00:29:34,299
+style was too harsh. After a successful mission,
+rescuing French civilians, Shreeve was reinstated.
+
+323
+00:29:34,800 --> 00:29:39,261
+In 1943, the commandos were sent to the South
+Pacific to investigate the disappearance of
+
+324
+00:29:39,486 --> 00:29:44,747
+of allied planes near Dinosaur Island. There
+they discovered a hidden Japanese naval fleet
+
+325
+00:29:44,847 --> 00:29:49,828
+and turned the island's dinosaurs against the
+enemy ships, using the creatures as weapons.
+
+326
+00:29:50,128 --> 00:29:55,310
+Shrieve documented the dinosaurs for military
+intelligence, but Velcro destroyed the photographs,
+
+327
+00:29:55,630 --> 00:30:00,371
+fearing that war would bring destruction to
+these creatures. The commandos later returned
+
+328
+00:30:00,431 --> 00:30:06,013
+to Dinosaur Island where they encountered Jake,
+the first GI robot. Together they discovered
+
+329
+00:30:06,113 --> 00:30:12,568
+a supposed lost colony of Atlantis. responsible
+for sinking ships. Atlantean robots had taken
+
+330
+00:30:12,608 --> 00:30:17,230
+control of Jake, but he ultimately overrode
+their programming and sacrificed himself to
+
+331
+00:30:17,270 --> 00:30:22,753
+destroy the colony, preventing further attacks
+on allied vessels. Following Jake's destruction,
+
+332
+00:30:23,113 --> 00:30:28,596
+the commandos met his replacement Jake II, who
+joined the team and expanded their capabilities.
+
+333
+00:30:29,117 --> 00:30:35,280
+As World War II neared its end, Project Am tasked
+the commandos with a final mission, piloting
+
+334
+00:30:35,360 --> 00:30:41,954
+an experimental The rocket malfunctioned, veering
+off course and drifting into space with the
+
+335
+00:30:41,974 --> 00:30:48,002
+commandos aboard. With the original team lost,
+Project M later shifted its focus to creating
+
+336
+00:30:48,202 --> 00:30:53,369
+new super soldiers. Over time, the program produced
+a series of new recruits to replace the original
+
+337
+00:30:53,409 --> 00:30:59,158
+commandos, expanding its reach beyond traditional
+monsters. One such recruit was Captain Lucius
+
+338
+00:30:59,198 --> 00:31:04,961
+Hunter, who took over leadership duties in place
+of Shrieve. Hunter, an older veteran who had
+
+339
+00:31:05,041 --> 00:31:09,743
+undergone extensive rejuvenation therapies,
+led a new iteration of the creature commandos
+
+340
+00:31:09,843 --> 00:31:17,307
+called M-Team Alpha. M-Team Alpha included fresh
+faces like a Ten, a mummy-like communication
+
+341
+00:31:17,347 --> 00:31:23,870
+specialist, the Bog Man, an amphibious creature
+resembling a Gill Man, and Gunner Mackie, a
+
+342
+00:31:23,930 --> 00:31:29,973
+revived World War II soldier turned into a cyborg
+zombie. This modernized version of the Creature
+
+343
+00:31:30,013 --> 00:31:35,017
+Commandos continued Project M's legacy, adapting
+to new threats and expanding its roster to
+
+344
+00:31:35,077 --> 00:31:40,280
+face evolving challenges. Years later, the original
+Creature Commandos were discovered aboard an
+
+345
+00:31:40,400 --> 00:31:45,984
+alien vessel controlled by Brainiac. Freed from
+stasis, they joined forces with other heroes
+
+346
+00:31:46,204 --> 00:31:52,048
+to fight their captors. Upon returning to Earth,
+the team was captured by General Sam Lane and
+
+347
+00:31:52,168 --> 00:31:53,569
+integrated into Project
+
+348
+00:31:57,332 --> 00:32:02,654
+Cryptonians. Despite their capture, the Commandos
+were never deployed against the Cryptonians
+
+349
+00:32:02,774 --> 00:32:07,957
+during the tensions between Earth and New Krypton.
+Following the disbandment of Project 7734,
+
+350
+00:32:09,278 --> 00:32:14,120
+Maxwell Lord took control of the Commandos and
+deployed them against the Justice League International.
+
+351
+00:32:14,580 --> 00:32:19,603
+Under Lord's telepathic influence, the Commandos
+fought for a time but eventually broke free
+
+352
+00:32:19,643 --> 00:32:24,925
+from his mind control. Realizing they no longer
+had a clear purpose or allegiance in this new
+
+353
+00:32:25,045 --> 00:32:30,279
+era, The Commandos faced uncertainty as their
+monstrous forms and tortured pasts left them
+
+354
+00:32:30,379 --> 00:32:36,300
+relics of a bygone age. In the post-Flashpoint
+timeline, the Creature Commandos were reimagined
+
+355
+00:32:36,340 --> 00:32:42,842
+as field operatives for the secretive organization,
+SHADE, or the Superhuman Advanced Defense Executive.
+
+356
+00:32:43,202 --> 00:32:48,704
+This version of the team was led by Frankenstein,
+replacing the original leader, Matthew Shreve.
+
+357
+00:32:49,044 --> 00:32:55,578
+Dr. Nina Mazursky, now a scientist and geneticist
+for SHADE, spearheaded the program, using the
+
+358
+00:32:55,638 --> 00:33:01,739
+legacy of Project M to design a new generation
+of creature commandos. Mazursky herself transformed
+
+359
+00:33:01,799 --> 00:33:07,441
+into a hybrid amphibious creature resembling
+a Gill-Man to better fight alongside her creations.
+
+360
+00:33:07,861 --> 00:33:13,263
+Vincent Velcorro was again turned into a vampire,
+with his abilities derived from a modified
+
+361
+00:33:13,303 --> 00:33:18,964
+version of Dr. Kirk Langstrom's Manbat serum,
+wherein Griffith retained his werewolf form,
+
+362
+00:33:19,384 --> 00:33:23,665
+now more stable and controlled, allowing him
+to harness his primal nature more effectively.
+
+363
+00:33:24,118 --> 00:33:29,681
+The team also included Khalees, an enigmatic
+Egyptian mummy whose origin remained a mystery,
+
+364
+00:33:30,022 --> 00:33:35,826
+but who served as the team's medic. Under Frankenstein's
+leadership, the commandos tackled a range of
+
+365
+00:33:35,886 --> 00:33:40,669
+supernatural threats. One of their missions
+involved combating giant monsters emerging
+
+366
+00:33:40,729 --> 00:33:45,713
+from Bone Lake, Washington, showcasing their
+role as humanity's frontline against the monstrous
+
+367
+00:33:45,833 --> 00:33:51,857
+and supernatural. The team faced personal challenges
+as well. The bride, Frankenstein's estranged
+
+368
+00:33:51,937 --> 00:33:57,707
+wife, departed after learning the fate of their
+son, leaving a void in the team's dynamic.
+
+369
+00:33:58,007 --> 00:34:03,369
+Despite their monstrous appearances, the Commandos
+remained dedicated to defending humanity, evolving
+
+370
+00:34:03,509 --> 00:34:08,770
+under Mazurski's guidance as she continued merging
+cutting-edge science with the macabre legacy
+
+371
+00:34:08,950 --> 00:34:15,652
+of Project M. Team-wise, I knew that for my
+seven-person roster, I'd want a blend of the
+
+372
+00:34:15,852 --> 00:34:21,458
+old, original team members that showcased classic
+monster archetypes with the newer more tech
+
+373
+00:34:21,498 --> 00:34:26,061
+and occult focused commandos that we've seen
+in recent iterations of the team. From the
+
+374
+00:34:26,161 --> 00:34:31,905
+early roster, I'm including Warren Griffith,
+the werewolf, Vincent Velcoro, the vampire,
+
+375
+00:34:32,425 --> 00:34:40,671
+Dr. Mira Rhodes, aka Dr. Medusa, and the GI
+robot, Jake 2. Noticeably absent from this
+
+376
+00:34:40,711 --> 00:34:47,355
+original roster is Lieutenant Shreve, because
+who wants a human on a monster team, and Lucky
+
+377
+00:34:47,395 --> 00:34:52,683
+Taylor, whom I'm replacing with Frankenstein.
+who you can learn more about in our Frankenstein
+
+378
+00:34:52,703 --> 00:34:58,529
+vs Bloodstone duel episode. Along for the ride
+will be Frankenstein's bride, as well as a
+
+379
+00:34:58,589 --> 00:35:04,635
+third agent of shade, Dr. Nina Mazursky, the
+aquatic kill woman responsible for creating
+
+380
+00:35:04,695 --> 00:35:10,101
+the newest versions of the commandos. So to
+recap, that's Frankenstein, his bride, Lady
+
+381
+00:35:10,141 --> 00:35:18,751
+Frankenstein, the werewolf Griffith, the vampire
+Vel'Koro, Dr. Medusa, Dr. Mazursky, and Jake
+
+382
+00:35:18,791 --> 00:35:23,494
+II, the GI robot. I think one of the most interesting
+things I learned there was that the team was
+
+383
+00:35:23,534 --> 00:35:30,239
+created in World War II just because the professor
+wanted soldiers that would be scary in a traditional
+
+384
+00:35:30,339 --> 00:35:36,303
+Halloween monster sense. Yeah, he wanted to
+scare Nazis with classic Hollywood monsters,
+
+385
+00:35:36,343 --> 00:35:43,066
+essentially. That's kind of lame. That's okay.
+Kind of an anticlimactic origin for the team,
+
+386
+00:35:43,247 --> 00:35:47,928
+I think. Like if they were to make a creature
+commandos for today, they would create soldiers
+
+387
+00:35:47,948 --> 00:35:52,289
+that look like, I don't know, Freddy Krueger
+or Mike Myers or something like that. I don't
+
+388
+00:35:52,309 --> 00:35:57,731
+know, it seems weird. But sure, in concept,
+they're a cool team, but not as cool as the
+
+389
+00:35:57,771 --> 00:36:02,813
+Legion of Monsters. Let me go ahead and break
+down their backstory. The Legion of Monsters
+
+390
+00:36:03,213 --> 00:36:08,215
+was never a traditional superhero team. It was
+a collection of outcasts brought together by
+
+391
+00:36:08,275 --> 00:36:14,400
+strange circumstances and united by their monstrous
+nature. The original lineup came together during
+
+392
+00:36:14,460 --> 00:36:20,203
+an encounter with the Starseed, the benevolent
+alien entity. While investigating its appearance,
+
+393
+00:36:20,604 --> 00:36:26,488
+Morbius, the living vampire, Werewolf by Night,
+Man-Thing, and Ghost Rider found themselves
+
+394
+00:36:26,548 --> 00:36:32,052
+drawn together. Overcome by their monstrous
+hungers, Morbius and Werewolf by Night attacked
+
+395
+00:36:32,112 --> 00:36:38,424
+Starseed, inadvertently causing its death. The
+dying starseed, in a final act of mercy, tried
+
+396
+00:36:38,444 --> 00:36:43,887
+to cure the Legion of their monstrous forms,
+but was too weak to succeed. Disillusioned,
+
+397
+00:36:44,328 --> 00:36:49,371
+the team parted ways, barely recognizing themselves
+as a team, not yet realizing that they had
+
+398
+00:36:49,411 --> 00:36:54,475
+laid the foundation for something much larger.
+Now, Jack Russell, also known as Werewolf by
+
+399
+00:36:54,515 --> 00:36:59,278
+Night, inherited his curse from his father's
+bloodline, transforming into a werewolf with
+
+400
+00:36:59,338 --> 00:37:03,561
+every full moon. Though he initially lacked
+control, he graduelly learned to manage his
+
+401
+00:37:03,601 --> 00:37:08,552
+transformations. making him a powerful ally
+when the Legion briefly came together to investigate
+
+402
+00:37:08,612 --> 00:37:15,375
+Starseed. Russell's superhuman strength, speed,
+heightened senses, and near savers vulnerability
+
+403
+00:37:15,415 --> 00:37:20,138
+to Silver made him one of the most fearsome
+members of the Legion of Monsters, though the
+
+404
+00:37:20,178 --> 00:37:24,801
+team's dissolution left him once again wandering
+the world alone. You can learn more about him
+
+405
+00:37:25,081 --> 00:37:30,224
+in our Solomon Grundy vs. Werewolf by Night
+duel episode. Years later, Morbius found himself
+
+406
+00:37:30,264 --> 00:37:35,774
+at the helm of a new incarnation of the Legion
+of Monsters. this time with a clearer mission,
+
+407
+00:37:35,954 --> 00:37:41,656
+to protect monsters from being hunted. The world
+had grown increasingly hostile toward any creatures
+
+408
+00:37:41,716 --> 00:37:46,537
+perceived as a threat, and Morbius, along with
+his old ally Man-Thing, sought to create a
+
+409
+00:37:46,577 --> 00:37:52,719
+safe haven for monsters. They were soon joined
+by the Living Mummy, Man-Phybian, and Simon
+
+410
+00:37:52,759 --> 00:37:59,020
+Garth the Zombie. The Living Mummy, once known
+as Nkantu, was the prince of a North African
+
+411
+00:37:59,060 --> 00:38:05,462
+tribe before being captured and cursed by Egyptian
+priests. Mummified and held in a state of eternal
+
+412
+00:38:05,502 --> 00:38:11,285
+life, N'Katu awoke in the modern era and joined
+the Legion of Monsters. His superhuman strength,
+
+413
+00:38:11,465 --> 00:38:16,567
+able to lift around 5 tons, and durability,
+along with his immortality, made him a valuable
+
+414
+00:38:16,607 --> 00:38:21,589
+protector of those who could not defend themselves.
+Although he longed for peace, his curse bound
+
+415
+00:38:21,629 --> 00:38:26,832
+him to a world he barely understood. Manphibian,
+an alien who had traveled to Earth thousands
+
+416
+00:38:26,872 --> 00:38:31,794
+of years ago while pursuing the murderer of
+his mate, also joined the Legion's ranks. His
+
+417
+00:38:31,834 --> 00:38:38,015
+amphibious physiology gave him tremendous strength,
+able to lift around 15 tons, sharp claws, a
+
+418
+00:38:38,035 --> 00:38:43,617
+healing factor, and skin tough enough to withstand
+missile attacks. Simon Garth the Zombie had
+
+419
+00:38:43,717 --> 00:38:49,018
+once been a businessman in New Orleans before
+being sacrificed by a voodoo cult and transformed
+
+420
+00:38:49,098 --> 00:38:54,560
+into a zombie. Though bound by the amulet of
+Damballa, which allowed his controller to command
+
+421
+00:38:54,600 --> 00:38:59,621
+him, Garth retained a shred of humanity that
+fueled his desire to protect those who could
+
+422
+00:38:59,641 --> 00:39:04,764
+not protect themselves. As part of the Legion,
+Garth used his immense strength, mystical senses,
+
+423
+00:39:04,884 --> 00:39:09,448
+and healing abilities to fight with the Legion
+for a better future for all monsters. As the
+
+424
+00:39:09,508 --> 00:39:15,292
+Legion solidified its purpose, they established
+Monster Metropolis, a sanctuary city hidden
+
+425
+00:39:15,332 --> 00:39:20,596
+beneath the streets of New York in the Moorlach
+tunnels. This underground refuge provided safety
+
+426
+00:39:20,636 --> 00:39:24,879
+to countless creatures, but it also put the
+Legion in direct conflict with groups like
+
+427
+00:39:24,959 --> 00:39:29,950
+the Hunter of Monster Special Forces, led by
+Robert Hellsguard. During one battle between
+
+428
+00:39:29,970 --> 00:39:35,434
+the groups, the Legion resurrected the Punisher,
+transforming him into the Monsters' Frankencastle.
+
+429
+00:39:35,874 --> 00:39:40,837
+With his newfound form, Frankencastle fought
+alongside the Legion to defend Monster Metropolis,
+
+430
+00:39:41,277 --> 00:39:45,540
+though his return to humanity would eventually
+lead him away from the team. You can learn
+
+431
+00:39:45,560 --> 00:39:50,783
+more about this in our Red Hood vs Punisher
+duel episode. As the Legion of Monsters grew,
+
+432
+00:39:50,963 --> 00:39:56,782
+their ranks began to attract other powerful
+beings, including the half-demon daughter of
+
+433
+00:39:56,862 --> 00:40:03,426
+Marduk Kurios, aka Satan. Satana spent years
+as a succubus, feeding on the souls of men
+
+434
+00:40:03,466 --> 00:40:09,309
+to sustain her powers. When she joined the Legion,
+her mastery over black magic, teleportation,
+
+435
+00:40:09,390 --> 00:40:14,552
+and hellfire proved invaluable in their battles.
+Though her motivations often remained mysterious,
+
+436
+00:40:14,913 --> 00:40:19,835
+Satana's raw power made her a force to be reckoned
+with, and her demonic nature tied her fate
+
+437
+00:40:19,876 --> 00:40:25,110
+to the other monsters who sought refuge in Monster
+Metropolis. While the Legion of Monsters fought
+
+438
+00:40:25,130 --> 00:40:30,371
+to protect their own, another group was forming
+in the shadows, this time under the auspices
+
+439
+00:40:30,411 --> 00:40:35,233
+of SHIELD, the global peacekeeping organization.
+The team was called the Howling Commandos,
+
+440
+00:40:35,253 --> 00:40:39,894
+and they were a special unit tasked with handling
+supernatural threats that ordinary agents could
+
+441
+00:40:39,914 --> 00:40:45,656
+not. Based at Area 13, a secret facility designed
+to contain paranormal entities, the Howling
+
+442
+00:40:45,676 --> 00:40:52,014
+Commandos recruited several members of the Legion
+of Monsters, including the living mummy Manfibian,
+
+443
+00:40:52,254 --> 00:40:56,676
+and Zombie, who formed a new strike force against
+supernatural and extraterrestrial dangers.
+
+444
+00:40:57,216 --> 00:41:01,798
+Alongside these veterans came new recruits,
+including Nina Price, the Vampire by Night.
+
+445
+00:41:02,358 --> 00:41:08,241
+Nina, the niece of Werewolf by Night, had inherited
+the family's curse of lycanthropy, but was
+
+446
+00:41:08,321 --> 00:41:13,843
+later bitten by a vampire, transforming her
+into a hybrid of both creatures. She joined
+
+447
+00:41:13,883 --> 00:41:18,125
+the Hellen Commandos to keep her powers in check,
+and quickly became an integral part of the
+
+448
+00:41:18,165 --> 00:41:24,191
+team. using her supernatural strength able to
+lift half a ton, agility, hypnosis, fangs,
+
+449
+00:41:24,571 --> 00:41:29,512
+and healing abilities to fight against mystical
+threats. Her immunity to sunlight made her
+
+450
+00:41:29,553 --> 00:41:34,794
+a unique asset as she could operate during the
+day, something most vampires could not. Another
+
+451
+00:41:34,834 --> 00:41:40,296
+addition to the Howling Commandos was Glob,
+a creature formed when Joe Timms, a petty criminal,
+
+452
+00:41:40,716 --> 00:41:46,277
+drowned in a radioactive swamp and was resurrected
+as a near indestructible monster. Despite his
+
+453
+00:41:46,317 --> 00:41:51,265
+simple-mindedness, Glob's immense strength,
+able to lift around 100 tons, and resilience
+
+454
+00:41:51,325 --> 00:41:55,488
+made him an effective member of the Howling
+Commandos, particularly in missions where brute
+
+455
+00:41:55,508 --> 00:42:01,293
+force was needed. His body, made of swamp matter,
+could absorb physical attacks with little effect,
+
+456
+00:42:01,613 --> 00:42:06,037
+making him nearly impossible to harm. The Howling
+Commandos' first major mission came when they
+
+457
+00:42:06,057 --> 00:42:11,161
+were called to stop the ancient sorcerer Merlin
+from transforming England into a mythical kingdom.
+
+458
+00:42:11,542 --> 00:42:16,794
+They launched a daring assault on Merlin's forces,
+ultimately forcing the wizard to retreat. His
+
+459
+00:42:16,814 --> 00:42:21,115
+victory cemented the Hellenic Commandos as a
+key player in SHIELD's Supernatural division
+
+460
+00:42:21,475 --> 00:42:26,876
+and the team continued to take on threats ranging
+from demonic invasions to rogue mystical artifacts.
+
+461
+00:42:27,456 --> 00:42:31,418
+As both the Legion of Monsters and the Hellenic
+Commandos battled supernatural threats, the
+
+462
+00:42:31,458 --> 00:42:35,999
+members constantly confronted the duelity of
+their existence. They fought not only to protect
+
+463
+00:42:36,019 --> 00:42:40,180
+their fellow Monsters, but also to reconcile
+the parts of themselves that were both human
+
+464
+00:42:40,340 --> 00:42:45,141
+and monstrous. Choosing the roster for this
+Legion of Monsters team duel was particularly
+
+465
+00:42:45,181 --> 00:42:51,232
+difficult. because a lot of Marvel's most prominent
+supernatural characters like Morbius, Ghostwriter,
+
+466
+00:42:51,312 --> 00:42:56,094
+and Man-Thing I already used in our Justice
+League Dark vs. Midnight Suns duel episode.
+
+467
+00:42:56,514 --> 00:43:01,096
+That being said, there was still Werewolf by
+Night and a slew of other prominent Halloween-ish
+
+468
+00:43:01,116 --> 00:43:06,039
+characters I could pull from for this Halloween
+duel. First on my list, of course, is Werewolf
+
+469
+00:43:06,079 --> 00:43:11,001
+by Night, who was a founding member of the Legion
+of Monsters and the Howling Commandos. Next
+
+470
+00:43:11,081 --> 00:43:17,009
+is the Living Mummy. who was also an early member
+of both teams alongside Zombie and Manfibian.
+
+471
+00:43:17,489 --> 00:43:22,092
+Satana became a prominent member of the Legion
+of Monsters in their second iteration, and
+
+472
+00:43:22,152 --> 00:43:27,876
+from the Howling Commandos I'm pulling two members
+that are largely serving as stand-ins for Legion
+
+473
+00:43:27,896 --> 00:43:33,480
+of Monsters characters. And that's Vampire by
+Night, who's substituting for Morbius, and
+
+474
+00:43:33,580 --> 00:43:38,864
+Glob, who I'm substituting for Man-Thing. Because
+if you're gonna have a Halloween creature duel,
+
+475
+00:43:39,324 --> 00:43:44,903
+you need a Vampire and a Swamp Monster. So that's
+my lineup. Werewolf by Night, The Living Mummy,
+
+476
+00:43:45,484 --> 00:43:52,328
+Zombie, Manfibian, Satana, Vampire by Night,
+and Glob, the Swamp Monster. Your names are
+
+477
+00:43:52,388 --> 00:43:59,212
+terrible. What? Yeah. Why? I said it. Griffith,
+Vel'Koro, Mizzurski, those are way better names.
+
+478
+00:43:59,532 --> 00:44:06,216
+Those are just fucking last names. And? Better
+than fucking Glob. Glob is a Hulk villain.
+
+479
+00:44:06,336 --> 00:44:11,973
+It's a great name for a Glob-ish creature. Zombie?
+Yeah, Zombie is a zombie. Do you know any other
+
+480
+00:44:12,013 --> 00:44:14,861
+villains named Zombie? Just saying, it's a little
+on the nose.
+
+481
+00:44:22,318 --> 00:44:27,959
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+482
+00:44:27,999 --> 00:44:33,701
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+483
+00:44:33,761 --> 00:44:39,523
+Dynomic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+484
+00:44:40,064 --> 00:44:44,345
+Dynamic Duel, where comic book titans smash
+every Tuesday. Max Destruction, where the world
+
+485
+00:44:44,365 --> 00:44:48,212
+is at its limit. And the final episode of the
+show. TV and action heroes battle every Wednesday,
+
+486
+00:44:48,773 --> 00:44:54,700
+and Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+487
+00:44:54,720 --> 00:45:00,447
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+488
+00:45:00,968 --> 00:45:05,233
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+489
+00:45:09,590 --> 00:45:13,672
+Well now that we got these teams, histories,
+and rosters out of the way, let's speculate
+
+490
+00:45:13,712 --> 00:45:17,955
+on how one of the simulated matches will go.
+Now the winning team is going to be determined
+
+491
+00:45:17,975 --> 00:45:22,579
+by simulations, not the speculation, but it's
+fun to imagine how the fight could play out.
+
+492
+00:45:23,079 --> 00:45:28,543
+AJ and IK, what are the rules of our speculation?
+Well, I should say there are no rules, other
+
+493
+00:45:28,583 --> 00:45:32,986
+than the teams have no prior knowledge of the
+other going into the fight. All they are aware
+
+494
+00:45:33,026 --> 00:45:37,609
+of starting out is that the other side is a
+threat that needs to be eliminated. For the
+
+495
+00:45:37,649 --> 00:45:42,772
+speculation... groups will begin approximately
+50 meters apart in a nondescript environment
+
+496
+00:45:42,993 --> 00:45:47,536
+that will have no bearing on the match itself,
+as no environmental statistics are considered
+
+497
+00:45:47,576 --> 00:45:52,800
+in my simulations. The teams must earn victory
+on their own merit." Alright then, let's get
+
+498
+00:45:52,840 --> 00:45:58,344
+into it. The creature commandos and the legion
+of monsters meet on the battlefield. Which
+
+499
+00:45:58,384 --> 00:46:02,607
+team goes first? Well, I mean, I don't know
+how my team would start. You know, they're
+
+500
+00:46:02,627 --> 00:46:08,651
+a military team, so most of them, like Frankenstein,
+Lady Frankenstein, Dr. Medusa, Jake 2, even
+
+501
+00:46:08,671 --> 00:46:14,034
+Nina Mazurski, they all have guns. So they're
+just going to start by gunning down the League
+
+502
+00:46:14,054 --> 00:46:18,856
+of Monsters and the hail of bullets. Well, you
+know that most of the Legion of Monsters are
+
+503
+00:46:18,876 --> 00:46:23,939
+like invulnerable to gunfire, right? Like no
+werewolf by night can only be killed by silver
+
+504
+00:46:23,979 --> 00:46:28,181
+bullets. Same thing with vampire by night. Living
+mummy and zombie, you know, they can't really
+
+505
+00:46:28,201 --> 00:46:33,124
+be hurt too much by small arms fire, manfibian,
+the bullets would bounce off of them and the
+
+506
+00:46:33,164 --> 00:46:37,486
+glob would just like completely no sell these
+bullets. So I guess the only one that could
+
+507
+00:46:37,747 --> 00:46:43,170
+be shot is Satana, but she's probably also one
+of the most powerful members on my team. So
+
+508
+00:46:43,230 --> 00:46:46,952
+Satana is gonna dodge the bullets by flying
+up into the air, and then she's just gonna
+
+509
+00:46:47,112 --> 00:46:52,416
+rain down hellfire, like grenades just exploding
+all over the battlefield. And it's gonna scatter
+
+510
+00:46:52,696 --> 00:46:56,758
+the creature commandos all over, and it's gonna
+make them stop shooting and start diving for
+
+511
+00:46:56,798 --> 00:47:03,262
+cover. Okay, well, as the team scatters, I'm
+gonna say that Vel'Koro... dodges the flames
+
+512
+00:47:03,302 --> 00:47:09,604
+by transforming into a bat, so he's a smaller
+target. And with his transformation comes a
+
+513
+00:47:09,884 --> 00:47:15,925
+rolling mist that's going to surround his teammates
+and hide them from the hellfire. And within
+
+514
+00:47:16,105 --> 00:47:23,247
+the mist, Griffith, with his enhanced wolf senses,
+he's going to track down Zombie and attack
+
+515
+00:47:23,287 --> 00:47:29,669
+him, just chomping down on his bones. Why Zombie?
+Because he smells bad? Because bones, man.
+
+516
+00:47:29,789 --> 00:47:35,055
+Dogs love bones. Well, Zombie doesn't give a
+fuck about this werewolf biting down on his
+
+517
+00:47:35,095 --> 00:47:38,977
+bones. In fact, I'll do you one better. I'm
+going to say that Griffith straight rips off
+
+518
+00:47:39,017 --> 00:47:46,362
+zombies arm bone and swallows it. OK, so zombies
+missing an arm. But all of a sudden, that arm
+
+519
+00:47:46,402 --> 00:47:51,925
+is going to burst out of Griffith's chest because
+it's still animated by zombie. So what Griffith
+
+520
+00:47:51,985 --> 00:47:57,568
+like falls onto his back in pain and he's dead
+now. And zombies arm is going to reach up evil
+
+521
+00:47:57,608 --> 00:48:01,678
+death style. Zombie grabs it and attaches it
+back to his shoulder. So Griffith's out of
+
+522
+00:48:01,698 --> 00:48:07,579
+the match already. Okay, killing right out the
+gate, I see. Well, a lot of these guys are
+
+523
+00:48:07,599 --> 00:48:13,201
+kind of like one trick ponies, you know. That's
+true, that's fair. Well, I'm gonna say that
+
+524
+00:48:13,441 --> 00:48:18,662
+as Zombie is reattaching his arm back to his
+shoulder, all of a sudden, his head freaking
+
+525
+00:48:18,722 --> 00:48:24,924
+explodes because Lady Frankenstein, with her
+four arms and four firearms, she just blasts
+
+526
+00:48:24,964 --> 00:48:30,205
+his head with like four simultaneous headshots,
+turning his brain to slush. She has four arms?
+
+527
+00:48:30,826 --> 00:48:34,808
+Yeah, yeah, she's like Goro. She doesn't have
+forearms in the television show that's coming
+
+528
+00:48:34,868 --> 00:48:39,390
+up. Maybe not at the beginning, but I'm pretty
+sure by the end of it she will. That's interesting,
+
+529
+00:48:39,610 --> 00:48:47,375
+okay. All right, so Zombie gets headshot four
+times and dies, but Nina Price, you know, the
+
+530
+00:48:47,395 --> 00:48:52,338
+vampire by night, she turns into her wolf form,
+because, you know, in addition to being a vampire,
+
+531
+00:48:52,358 --> 00:48:58,621
+she's also a werewolf. She's actually a white
+wolf, unlike her uncle, who's brown. But as
+
+532
+00:48:58,721 --> 00:49:04,447
+a werewolf, She uses her senses to track down
+Vincent Velcoro, who's still in his vampire
+
+533
+00:49:04,467 --> 00:49:09,668
+bat form, flying around. And she snatches him
+out of the air with her teeth, which is gonna
+
+534
+00:49:09,708 --> 00:49:14,049
+force Velcoro into his human form. And vampire
+by night is gonna come out of her wolf form.
+
+535
+00:49:14,089 --> 00:49:19,511
+So you have two vampires standing off against
+each other, except that Nina also happens to
+
+536
+00:49:19,551 --> 00:49:25,492
+be a vampire hunter. So she just stakes Velcoro
+through the heart, killing him. That backstabbing
+
+537
+00:49:25,573 --> 00:49:31,479
+bitch! Oh, by the way, when I say bitch, I'm
+only saying that because she's a wolf. Okay,
+
+538
+00:49:31,519 --> 00:49:36,603
+that's fair. She stabbed him in the chest, not
+the back. Oh, okay. You know who is backstabbing
+
+539
+00:49:36,623 --> 00:49:42,928
+though, or rather back shooting? Frankenstein.
+Because as Vel'Koro is dying, Frankenstein,
+
+540
+00:49:42,968 --> 00:49:47,652
+he's gonna load a silver bullet into a steam
+gun, which hits like a steam powered train,
+
+541
+00:49:48,132 --> 00:49:52,716
+and he shoots vampire by night's entire heart
+right the hell out of her chest. Where did
+
+542
+00:49:52,756 --> 00:49:57,558
+he get his silver bullet from? Dude. He's going
+up against monsters all the time. You think
+
+543
+00:49:57,578 --> 00:50:04,540
+he doesn't carry a silver bullet? That's very
+convenient, I'll say that. Werewolf by night
+
+544
+00:50:04,580 --> 00:50:09,762
+sees this and he's pissed and he lets out a
+blood curdling howl because his niece just
+
+545
+00:50:09,802 --> 00:50:15,043
+died and he goes into a rabid frenzy. And because
+Frankenstein took out one of his family, now
+
+546
+00:50:15,203 --> 00:50:22,385
+Werewolf is gonna take out Frankenstein's bride.
+So like in this blur of teeth and claws, Werewolf
+
+547
+00:50:22,445 --> 00:50:27,462
+is just gonna rip apart Lady Frankenstein. ripping
+off all four of her arms in an attack that
+
+548
+00:50:27,502 --> 00:50:32,024
+basically looks like she was thrown into a blender.
+All of her limbs just scatter across the battlefield.
+
+549
+00:50:32,624 --> 00:50:38,125
+Hmm, okay. Well, with Werewolf by Night in this
+frenzy, and he's probably looking around for
+
+550
+00:50:38,165 --> 00:50:43,347
+another target, and that's when he's gonna meet
+the gaze of Dr. Medusa and her glowing eyes.
+
+551
+00:50:43,507 --> 00:50:50,009
+So BAM! Instant petrification, Werewolf by Night
+is now just an angry-looking stone statue.
+
+552
+00:50:50,469 --> 00:50:55,751
+She could turn people into stone? Okay, so she's
+never done it in the comics, but only because
+
+553
+00:50:56,172 --> 00:51:00,934
+for some reason, anytime she tried to use it
+in the comics, the people that she used against
+
+554
+00:51:01,114 --> 00:51:09,479
+were unable to turn into stone like robots.
+Okay, that's weird. Yeah. All right. Bullshit.
+
+555
+00:51:09,739 --> 00:51:14,141
+Okay. All right. So werewolf by night is a statue,
+but living mummy at this point has lumbered
+
+556
+00:51:14,282 --> 00:51:18,724
+over to Dr. Medusa and he's just gonna grab
+her by her snake hair and just slam her to
+
+557
+00:51:18,744 --> 00:51:24,551
+the ground. Yeah, and he gets bitten by her
+snakes. So he's poisoned and dying now. But
+
+558
+00:51:24,851 --> 00:51:30,113
+how can Living Mummy be poisoned? He doesn't
+even have blood in his body. It's like a special
+
+559
+00:51:30,273 --> 00:51:36,096
+magic Egyptian embalming formula. So he doesn't
+get poisoned. Snake poison does nothing. And
+
+560
+00:51:36,156 --> 00:51:41,018
+Living Mummy just rips Dr. Medusa's head off
+like Perseus did to the mythological Medusa.
+
+561
+00:51:41,458 --> 00:51:46,640
+So she's out. He just rips off her head with
+his bare hands? Yeah, he's strong. He can lift
+
+562
+00:51:46,680 --> 00:51:52,812
+like five tons. Okay. Well, I'm going to say
+that... As the living mummy is holding Dr.
+
+563
+00:51:52,852 --> 00:51:58,597
+Medusa's head, suddenly he just bursts into
+flames thanks to Jake Two, who transformed
+
+564
+00:51:58,657 --> 00:52:04,442
+his left arm into a flamethrower and is just
+gousing the living mummy's very, very flammable
+
+565
+00:52:04,482 --> 00:52:09,366
+body wrappings in a stream of fire. That was
+actually a pretty good move because living
+
+566
+00:52:09,406 --> 00:52:14,931
+mummy is pretty vulnerable to fire since he's
+all desiccated and stuff, you know? But uh,
+
+567
+00:52:14,971 --> 00:52:21,020
+you know who's vulnerable to basically nothing?
+Glob. And he's gonna walk over to GI Robot
+
+568
+00:52:21,060 --> 00:52:26,424
+as he's doing this, and he's gonna completely
+swallow him up in his swamp muck body. And
+
+569
+00:52:26,444 --> 00:52:30,908
+the swamp matter is just gonna ooze into all
+of GI Robot's inner workings, like shutting
+
+570
+00:52:30,928 --> 00:52:35,932
+down his gears and his weapon systems. And Glob
+is actually the strongest member out of the
+
+571
+00:52:35,972 --> 00:52:40,156
+entire Legion of Monsters, you know. His strength
+level approaches the Hulk, so just by like
+
+572
+00:52:40,296 --> 00:52:45,921
+flexing, he completely dismantles the guy. And
+then just expels all the robot parts from his
+
+573
+00:52:46,041 --> 00:52:54,176
+swamp body. So now G.I. Robots out of this match.
+OK. Uh, well, Glob was once human, right? Yeah,
+
+574
+00:52:54,236 --> 00:53:01,162
+he was a criminal named Joe Timms. That's right.
+OK. So while Glob is busy shitting out Jake
+
+575
+00:53:01,202 --> 00:53:07,727
+two parts from his body, that's when Dr. Nina
+Mazursky is going to plunge a syringe right
+
+576
+00:53:07,767 --> 00:53:13,032
+into his thigh, injecting him with a formula
+that's going to revert Glob back into human
+
+577
+00:53:13,092 --> 00:53:17,703
+form. You know, as Joe Timms. And right when
+that happens, she's gonna blast his head off
+
+578
+00:53:17,743 --> 00:53:23,565
+with her energy gun. How does she know how to
+turn glob back into a human? She's an expert
+
+579
+00:53:24,025 --> 00:53:30,328
+in turning humans into monsters. So, yeah, she
+just did a reverse formula for that. It's stupid.
+
+580
+00:53:30,348 --> 00:53:37,391
+I'll allow it. All right. Well, man, Fibian
+sees what Dr. Nina Masursky did, and he's a
+
+581
+00:53:37,431 --> 00:53:41,953
+Gilman creature just like her. But for some
+reason, she only breathes water, right? She's
+
+582
+00:53:41,993 --> 00:53:46,183
+not amphibious like him. Like she always. No,
+no. walks around with that water cooler helmet
+
+583
+00:53:46,363 --> 00:53:50,905
+of hers. She could breathe air. Like initially
+she couldn't. She had to wear that helmet full
+
+584
+00:53:50,945 --> 00:53:56,369
+of water, but the mummy Khaleese made it so
+that she could breathe both water and in the
+
+585
+00:53:56,489 --> 00:54:02,252
+air. Oh, well regardless, Manfebian's gonna
+shatter her water helmet by smacking it with
+
+586
+00:54:02,292 --> 00:54:07,715
+his razor sharp claws. And all the water is
+gonna come pouring out. And as she adjusts
+
+587
+00:54:07,755 --> 00:54:12,738
+from breathing water to breathing air, that's
+when Manfebian... grabs her energy gun from
+
+588
+00:54:12,758 --> 00:54:18,362
+her hand and uses it to blast a hole through
+her chest. Just destroying her lungs and destroying
+
+589
+00:54:18,943 --> 00:54:24,526
+basically her life. Well I mean maybe she reaches
+for another syringe to turn him human. Manfibian's
+
+590
+00:54:24,546 --> 00:54:30,470
+an alien. Like what is she gonna do? Revert
+him back into an alien? Yes. No. I don't know.
+
+591
+00:54:31,071 --> 00:54:38,156
+She's dead. Okay. Well right when Manfibian
+kills Dr. Nina Mazursky that's when Frankenstein,
+
+592
+00:54:38,556 --> 00:54:45,263
+who now has six arms. picks up Manfibian because
+Frankenstein collected and grafted his bride's
+
+593
+00:54:45,423 --> 00:54:51,466
+arms onto his body. And so each of the bride's
+forearms are holding one of Manfibian's limbs,
+
+594
+00:54:51,506 --> 00:54:55,968
+just stretching them out so he can't move. While
+Frankenstein is going to use his own super
+
+595
+00:54:56,048 --> 00:55:04,491
+strong arms to squeeze a Manfibian's neck until
+pop, just gets popped like a zit. So I just
+
+596
+00:55:04,531 --> 00:55:09,833
+have Satana left, but you only have Frankenstein
+left. So it's just those two left on the battlefield.
+
+597
+00:55:10,238 --> 00:55:15,761
+So, Seitan is gonna swoop in and land a big
+ol' smoochy smooch right on Frankenstein's
+
+598
+00:55:15,781 --> 00:55:23,045
+lips. She was like, come here you big lug. Mwah!
+And Frankenstein's like, whoa. And he's probably
+
+599
+00:55:23,065 --> 00:55:29,588
+feeling pretty good about himself, except that
+Seitan is a succubus, okay? By kissing Frankenstein,
+
+600
+00:55:29,949 --> 00:55:34,291
+she just stole his soul and it comes out of
+his body in the form of a butterfly out of
+
+601
+00:55:34,331 --> 00:55:40,430
+his mouth and his body gets all desiccated and
+just goes straight to hell. And with him out,
+
+602
+00:55:40,550 --> 00:55:45,213
+the Legion of Monsters win. I mean, I don't
+think Frankenstein was as flattered as you
+
+603
+00:55:45,253 --> 00:55:50,977
+think. For one, you know, his heart belongs
+to the bride. And they were actually in addition
+
+604
+00:55:50,997 --> 00:55:56,962
+to grafting his bride's arms onto his body.
+He also grafted her head into his chest where
+
+605
+00:55:56,982 --> 00:56:03,906
+his heart is in order to save her. He's like
+Quato from Total Recall. Her head is just in
+
+606
+00:56:03,966 --> 00:56:08,734
+his chest. So his body has two consciousnesses
+now. And while Frankenstein's soul. may have
+
+607
+00:56:08,754 --> 00:56:14,319
+been stolen sure the bride is still around and
+she's going to take control of the body and
+
+608
+00:56:14,779 --> 00:56:21,585
+She doesn't appreciate this demon hoe trying
+to make moves on her man so You know the bride
+
+609
+00:56:21,605 --> 00:56:25,869
+is gonna grab Frankenstein sword which once
+belonged to the Archangel Michael by the way
+
+610
+00:56:25,909 --> 00:56:32,095
+So it's holy and she's gonna plunge that blade
+right into Satanas head sending her back to
+
+611
+00:56:32,155 --> 00:56:37,703
+hell meaning the creature commandos win, uh
+I'm going to say that Frankenstein meant to
+
+612
+00:56:37,743 --> 00:56:43,746
+graft the bride's head onto his body, but he
+just forgot to. He just did the arms. So I
+
+613
+00:56:43,766 --> 00:56:48,989
+literally just said that he did that. Well,
+I'm saying that he didn't that he forgot to.
+
+614
+00:56:49,529 --> 00:56:53,852
+So we'll go ahead and find out which of these
+scenarios happens by inputting the character
+
+615
+00:56:53,912 --> 00:57:00,235
+stats into our team simulator, comparing thousands
+of matrices against each other and coming back
+
+616
+00:57:00,255 --> 00:57:08,000
+with a winner. A.G. 9K hit it. Inputting data.
+running calculations, processing results, simulations
+
+617
+00:57:08,020 --> 00:57:14,485
+complete. This was actually a pretty close matchup.
+I didn't think it would be that close because
+
+618
+00:57:14,586 --> 00:57:19,910
+the character of Satana turned out to be way
+more powerful than she had any right to be
+
+619
+00:57:19,930 --> 00:57:24,674
+within this team duel. Like, she was far beyond
+anybody else on either of these teams. Out
+
+620
+00:57:24,714 --> 00:57:30,554
+of all of her matches, she actually won over
+90% of them. So uh... Yeah, that was a little
+
+621
+00:57:30,574 --> 00:57:34,975
+bit of a mismatch, including say 10 on the Legion
+of Monsters. But I also had Zombie on my team,
+
+622
+00:57:35,275 --> 00:57:40,777
+who was by far the weakest character out of
+anybody on either team. He only won one fifth
+
+623
+00:57:40,897 --> 00:57:45,638
+of all of his matches. Yeah, as we learned in
+our werewolf by night versus Solomon Grundy
+
+624
+00:57:45,658 --> 00:57:52,740
+match, zombies are pretty weak stat wise. But
+at least even Solomon Grundy had super strength
+
+625
+00:57:52,760 --> 00:57:56,921
+going for him. Well, I mean, zombie has super
+strength, but like zombies in general, they
+
+626
+00:57:56,941 --> 00:58:02,928
+don't have. great stats in terms of speed or
+range or intelligence, you know, things like
+
+627
+00:58:02,968 --> 00:58:07,971
+that. So I'm just convinced that we would all
+just be fine if a zombie apocalypse were to
+
+628
+00:58:07,991 --> 00:58:13,154
+ever happen. You had the strongest guy and the
+weakest guy. My strongest guys were actually
+
+629
+00:58:13,274 --> 00:58:19,758
+Frankenstein and GI Robot. Both of those guys
+ended up winning 60% each of their matches.
+
+630
+00:58:20,158 --> 00:58:27,394
+And overall, the stat categories that the Leech
+Dome Monsters had over the creature Like it
+
+631
+00:58:27,434 --> 00:58:33,938
+is really hard to kill most of the Legion of
+Monsters characters, but also strength. A lot
+
+632
+00:58:33,958 --> 00:58:39,862
+of my guys were pretty damn strong. But the
+Creature Commandos had intelligence and range
+
+633
+00:58:39,902 --> 00:58:44,706
+going for them. Not only do we have several
+doctors and members who have lived for centuries
+
+634
+00:58:44,766 --> 00:58:50,810
+on the team, but they're all pretty much packing
+heat as well. Yeah, yeah. A lot of my guys
+
+635
+00:58:50,870 --> 00:58:54,553
+didn't have any range at all basically. They
+had to get in close and personal in order to
+
+636
+00:58:54,573 --> 00:58:59,099
+inflict any sort of damage. So taking all of
+this into consideration, Joseph, who do you
+
+637
+00:58:59,139 --> 00:59:03,380
+think came out on top? I'm gonna say it's gonna
+be Legion of Monsters. I think it's gonna be
+
+638
+00:59:03,400 --> 00:59:07,182
+close, but I think Legion of Monsters is still
+gonna come out on top largely because they're
+
+639
+00:59:07,202 --> 00:59:13,805
+just more ferocious and badass. The Instagram
+poll takers though disagree with me. 53% of
+
+640
+00:59:13,825 --> 00:59:19,287
+them voted in favor of the creature commandos
+winning this fight. I have to think that maybe
+
+641
+00:59:19,307 --> 00:59:23,469
+that's just due to the upcoming television show
+that's coming out, but who knows? It's gonna
+
+642
+00:59:23,489 --> 00:59:29,400
+be a close match. Oh, you think so, huh? Well,
+let's find out. AG90K, the results please.
+
+643
+00:59:29,980 --> 00:59:38,526
+Hey, Yuasa. The winner of the team matchup between
+Creature Commandos and Legion of Monsters is
+
+644
+00:59:40,067 --> 00:59:49,114
+Legion of Monsters. All right. They won 517
+of the 1000 matches or 51.7% of the time compared
+
+645
+00:59:49,134 --> 00:59:56,150
+to the Creature Commandos who won 48.3. Now
+I have to say, I... I'm actually kind of surprised
+
+646
+00:59:56,370 --> 01:00:00,092
+that the Legion of Monsters did not have a higher
+win rate. This is a closer match than I thought
+
+647
+01:00:00,112 --> 01:00:04,474
+it would be. Once we started putting in the
+stats and I saw how powerful Satana was compared
+
+648
+01:00:04,494 --> 01:00:09,516
+to everyone else, I was like, oh crap, I totally
+am going to lose this match for sure. But I
+
+649
+01:00:09,536 --> 01:00:14,378
+thought it was going to be by a lot more. So
+in a way, I still feel good about this because
+
+650
+01:00:14,739 --> 01:00:18,560
+my team did better than I thought we would.
+Well, let's be real. If I didn't have Satana
+
+651
+01:00:18,660 --> 01:00:24,062
+on my Legion of Monsters team. These guys may
+not have been able to pull off a victory. Like
+
+652
+01:00:24,122 --> 01:00:29,924
+she was far and above everybody else. And yeah,
+it was kind of a little bit of a mismatch.
+
+653
+01:00:29,964 --> 01:00:34,405
+You could say or you could just say that was
+strategic thinking on behalf of myself and
+
+654
+01:00:34,425 --> 01:00:39,647
+the executive producers. Or you could say you
+guys were a bunch of cheaters. There's also
+
+655
+01:00:39,687 --> 01:00:44,168
+that you could say anything, really. You could
+also just say that you chose your team wrong.
+
+656
+01:00:44,348 --> 01:00:48,829
+You know, oh, I actually liked my team, though.
+I'm still proud of our turnout. I liked your
+
+657
+01:00:48,869 --> 01:00:56,203
+team, too. Yeah. I liked it as well in the fact
+that they lost and in your face. And I hope
+
+658
+01:00:56,283 --> 01:01:04,169
+that everyone's Halloween is as scary as these
+results were to DC fans. OK, so not that scary
+
+659
+01:01:04,189 --> 01:01:10,575
+because you guys didn't win by that much. Gotcha.
+That does it for this episode, guys. AJ 9K
+
+660
+01:01:10,775 --> 01:01:17,100
+help close this out. Thanks for listening to
+Dynamic Jewel. Visit the show's website at
+
+661
+01:01:17,161 --> 01:01:22,457
+dynamicjewel.com. and follow us on Instagram
+at Dynamic Duel Podcast. You can support the
+
+662
+01:01:22,477 --> 01:01:27,481
+show on Patreon at Patreon.com slash Dynamic
+Duel and joining a tier that works for you
+
+663
+01:01:27,861 --> 01:01:33,606
+or by rating and reviewing Dynamic Duel on Apple
+podcasts, Spotify, Podchaser, or on our website.
+
+664
+01:01:34,147 --> 01:01:38,350
+Don't forget to listen to the other shows in
+the DynaMic podcast network, including Max
+
+665
+01:01:38,390 --> 01:01:45,076
+Destruction, Senjo World, and Console Combat.
+In our next episode, we will be reviewing the
+
+666
+01:01:45,176 --> 01:01:51,377
+upcoming Sony Marvel film, Venom the Last Dance.
+I'm not expecting huge things, I'm hoping that
+
+667
+01:01:51,497 --> 01:01:57,142
+it's at least better than Venom Let There Be
+Carnage, but we will find out and discuss it
+
+668
+01:01:57,262 --> 01:02:00,965
+next time. But that does it for this episode
+guys, we want to give a big thanks to our executive
+
+669
+01:02:00,985 --> 01:02:05,408
+producers Ken Johnson, John Sturowski, Zachary
+Hepburn, Dustin Belcombe, Mickey Mathangian,
+
+670
+01:02:05,528 --> 01:02:10,793
+Brandon Estergard, Nathaniel Wagner, Levi Yeaton,
+Austin Wyselowski, AJ Dunkerley, Scott Camacho,
+
+671
+01:02:10,953 --> 01:02:16,657
+Gil Camacho, Adam Spies, Andrew Schunk, Dean
+Molesky, Devin Davis, Joseph Kirsting, and
+
+672
+01:02:16,757 --> 01:02:22,240
+Josh Leiner for helping make this podcast possible.
+We'll talk to you guys next week. Up up and
+
+673
+01:02:22,280 --> 01:02:27,363
+away, true believers. I was working in the lab
+late one night when my eyes beheld an eerie
+
+674
+01:02:27,423 --> 01:02:33,027
+sight, for my monster from his slab began to
+rise, and suddenly, to my surprise, he did
+
+675
+01:02:33,087 --> 01:02:33,908
+the monster mash.
+
