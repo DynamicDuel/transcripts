@@ -1,0 +1,3094 @@
+1
+00:00:00,930 --> 00:00:02,957
+This is a DynaMic Network podcast.
+
+2
+00:00:24,822 --> 00:00:30,567
+the Dynamic Duel Podcast, a weekly show where
+we review superhero films and debate the superiority
+
+3
+00:00:30,607 --> 00:00:36,412
+between Marvel and DC by comparing their characters
+in stat-based battle simulations. I'm Johnny
+
+4
+00:00:36,452 --> 00:00:42,177
+DC. And I'm his twin brother, Marvelous Joe.
+And in this episode, we are reviewing the latest
+
+5
+00:00:42,277 --> 00:00:48,078
+Marvel Sony film to hit theaters, Venom, The
+Last Dance. Yeah, the franchise is part of
+
+6
+00:00:48,118 --> 00:00:52,461
+the Sony Spider-Man universe, which has not
+been great. I would say that the Venom franchise
+
+7
+00:00:52,501 --> 00:00:57,044
+is probably the best thing about it. But how
+did the latest Venom movie stack up compared
+
+8
+00:00:57,084 --> 00:01:01,426
+to the rest of the films? We'll find out later
+on in this episode. Before that, we're going
+
+9
+00:01:01,446 --> 00:01:06,329
+to break down the comic book movie news from
+the past week, of which we've got two Marvel
+
+10
+00:01:06,389 --> 00:01:11,072
+news items. It's an all Marvel episode today.
+First, we have the set photos that reveal our
+
+11
+00:01:11,132 --> 00:01:16,789
+first look at Spider-Man Noir. and the news
+that the MCU Blade film has lost its release
+
+12
+00:01:16,829 --> 00:01:21,113
+date. As always, we list our segment times in
+our episode description, so feel free to check
+
+13
+00:01:21,133 --> 00:01:26,177
+out the show notes if you want to skip ahead
+to a particular topic. Our artificially intelligent
+
+14
+00:01:26,217 --> 00:01:33,782
+Duel simulator, AJ9K, has a quick message for
+our listeners, so listen up. Why hello there,
+
+15
+00:01:34,082 --> 00:01:38,404
+do you want even more from this podcast? Then
+become a part of the dynamic Duel community
+
+16
+00:01:38,464 --> 00:01:43,246
+on Patreon, where you can choose from three
+tiers. The dynamic two-oh tier gives you access
+
+17
+00:01:43,266 --> 00:01:47,988
+to our Discord chat server. The fantastic four
+tier gives you two bonus episodes each month,
+
+18
+00:01:48,288 --> 00:01:53,278
+and the X-Force tier makes you an executive
+producer of this show. Lastly, The DynaMic
+
+19
+00:01:53,318 --> 00:01:58,399
+podcast network tier lets you create your own
+podcast using this Monte Carlo simulator. Johnny
+
+20
+00:01:58,419 --> 00:02:02,881
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+21
+00:02:02,921 --> 00:02:08,403
+simulation results. Pitch the twins your ideas
+via email at dynamicduelpodcast at gmail.com.
+
+22
+00:02:09,463 --> 00:02:15,985
+Check it out at patreon.com slash dynamicduel.
+Pip pip cheerio. Thanks AJ9K and thanks to
+
+23
+00:02:16,065 --> 00:02:20,283
+everyone who supports the podcast. Guys, be
+sure to tune into the other shows on the DynaMic
+
+24
+00:02:20,323 --> 00:02:25,288
+Podcast Network this week, including Max Destruction,
+which pits your favorite action heroes from
+
+25
+00:02:25,368 --> 00:02:29,991
+film and television against each other. This
+week, hosts Scotty and Gilly are determining
+
+26
+00:02:30,031 --> 00:02:36,997
+the winner between Poe from Kung Fu Panda and
+Fiona from Shrek. On the Senjou World Podcast,
+
+27
+00:02:37,317 --> 00:02:42,882
+host Zachary Hepburn speculates on fights between
+fan favorite anime and manga characters. This
+
+28
+00:02:42,962 --> 00:02:48,282
+Thursday, Zach will find out who will win between
+Tetsuo from Akira and Tatsuo from and Lucy
+
+29
+00:02:48,322 --> 00:02:56,944
+Dictonius from Elfen Lied. You Elfen lied to
+me, bro. On the console combat podcast, hosts
+
+30
+00:02:56,984 --> 00:03:01,505
+John and Dean simulate battles between popular
+video game characters. In yesterday's episode,
+
+31
+00:03:01,785 --> 00:03:05,967
+they found out who would win in a fight between
+Freddy Fazbear from Five Nights at Freddy's
+
+32
+00:03:06,387 --> 00:03:12,268
+and Willie Weasel from Willie's Wonderland.
+Visit dynamicpodcasts.com or click the link
+
+33
+00:03:12,308 --> 00:03:17,542
+in our show notes to listen to all of the shows
+in the DynaMic Podcast Network. But with that
+
+34
+00:03:17,582 --> 00:03:24,023
+out of the way, quick to the No Prize! A No
+Prize is an award Marvel used to give out to
+
+35
+00:03:24,043 --> 00:03:29,365
+fans. Our version, the Dynamic Duel No Prize,
+is a digital award we post on Instagram for
+
+36
+00:03:29,385 --> 00:03:33,806
+the person that we feel gave the best answer
+to our question of the week. Last week, we
+
+37
+00:03:33,866 --> 00:03:39,168
+asked you guys, who do you think is the scariest
+Marvel or DC character and why? And we asked
+
+38
+00:03:39,188 --> 00:03:42,769
+that because Halloween is coming up in a couple
+of days, and we got a lot of great answers
+
+39
+00:03:42,789 --> 00:03:46,009
+from you guys. Let's go ahead and run down our
+honorable mentions as well as the No Prize
+
+40
+00:03:46,049 --> 00:03:52,532
+winner. Our first honorable mention goes to
+Colby Hentges, who said, Hey, boys, Colby Hentges,
+
+41
+00:03:52,752 --> 00:03:58,875
+the scariest character in Marvel or DC is Major
+Force. He will murder your girl and put her
+
+42
+00:03:58,915 --> 00:04:05,397
+in a refrigerator. I don't want none of that.
+Yeah, Major Force is a evil version, I guess
+
+43
+00:04:05,417 --> 00:04:12,840
+you could say, of the hero Captain Adam. He
+is notorious for killing Kyle Rayner's girlfriend
+
+44
+00:04:13,280 --> 00:04:20,304
+and then stuffing her in his fridge. which was
+just horrifying in the comics, completely unnecessarily
+
+45
+00:04:20,364 --> 00:04:25,767
+violent. I could see where Major Force would
+be very scary for that reason. Yeah, Kyle Rayner
+
+46
+00:04:25,807 --> 00:04:29,349
+is a Green Lantern, right? And I remember it
+was horrifying in the comic books because Kyle
+
+47
+00:04:29,369 --> 00:04:34,071
+Rayner came home, not knowing where she was,
+opening up the refrigerator and then finding
+
+48
+00:04:34,111 --> 00:04:39,414
+her there, which is something out of a slasher
+film, scary movie. That is absolutely horrifying.
+
+49
+00:04:39,434 --> 00:04:44,177
+I remember my first exposure to that was in
+the Green Lantern Fears Itself comic book,
+
+50
+00:04:46,114 --> 00:04:52,419
+graphic novel and there was a painted rendition
+of his girlfriend in the fridge. And I remember
+
+51
+00:04:52,439 --> 00:04:55,802
+just being like, what the fuck is this? Cause
+I had no context and it just seemed horribly
+
+52
+00:04:55,842 --> 00:05:00,185
+violent and scary to me. So yeah, I thought
+this was a pretty good answer. Yeah, it's the
+
+53
+00:05:00,245 --> 00:05:06,210
+event that coined the term fridging that's known
+in the comic world. Yeah, it has a negative
+
+54
+00:05:06,250 --> 00:05:12,615
+connotation where writers will use love interests
+deaths, primarily as plot devices for the protagonists,
+
+55
+00:05:12,695 --> 00:05:16,642
+you know, and not really treating them like
+real characters. It's a shallow move to say
+
+56
+00:05:16,662 --> 00:05:21,587
+the least, but in this instance here, it was
+a particularly scary one. Great answer, Colby.
+
+57
+00:05:21,747 --> 00:05:28,773
+Our next honorable mention goes to Cyrus Moore,
+who said, Hey guys, Cyrus Moore here. And I
+
+58
+00:05:28,813 --> 00:05:36,379
+think I'm going to butcher this last name, but
+I think Victor Zaz, the Batman villain, is
+
+59
+00:05:36,499 --> 00:05:43,525
+probably the scariest DC villain of all time.
+I mean, serial killer who kills people that
+
+60
+00:05:43,585 --> 00:05:48,797
+tallies. how many kills he has on his body,
+just a real creepy character, creepy backstory.
+
+61
+00:05:49,518 --> 00:05:55,123
+I think he's definitely the scariest. Yeah,
+we've seen Victor Zazz appear in quite a few
+
+62
+00:05:55,263 --> 00:06:00,728
+films outside of the comics. He was in Batman
+Begins, he was in Birds of Prey, he was in
+
+63
+00:06:00,768 --> 00:06:05,953
+the Gotham television series. But yeah, the
+dude's fairly creepy in that he's probably
+
+64
+00:06:06,273 --> 00:06:12,582
+the least fantastical Batman villain in that
+he's just a serial killer who... carves a tally
+
+65
+00:06:12,602 --> 00:06:17,784
+mark into his skin for each kill that he's had
+and his body is covered in tally marks. Yeah,
+
+66
+00:06:17,824 --> 00:06:22,826
+I've seen versions of the character in the comics
+where his tally marks are kind of sparse along
+
+67
+00:06:22,866 --> 00:06:27,528
+his body, but I've also seen renditions where
+they like cover almost his entire body and
+
+68
+00:06:27,548 --> 00:06:31,770
+they're across his forehead and his back and
+everything like that and it just makes me wonder
+
+69
+00:06:31,810 --> 00:06:36,172
+like what does he do when he runs out of room?
+I don't know. Just stretch that scrot.
+
+70
+00:06:41,602 --> 00:06:48,687
+That's a horrifying visual. So yeah, a particularly
+scary response to a scary question. Great answer,
+
+71
+00:06:48,747 --> 00:06:54,752
+Cyrus. Our next honorable mention goes to Mason
+Thompson, who said, I hate scary things. I'm
+
+72
+00:06:54,772 --> 00:06:59,977
+gonna be straight up. I hate scary things. Why
+do you wanna be scared of something? Tell me,
+
+73
+00:07:00,057 --> 00:07:05,201
+why do you wanna be scared of something? We
+could go off like auras and stuff, but like,
+
+74
+00:07:06,662 --> 00:07:15,092
+if we're talking base looks, I'm going upside
+down, man, from DC it oh I do not like it it's
+
+75
+00:07:15,112 --> 00:07:21,455
+terrifying it's get out get out of my face so
+yeah the upside down man was a villain that
+
+76
+00:07:21,616 --> 00:07:27,639
+Wonder Woman's version of the Justice League
+dark faced in the comics dude is super creepy
+
+77
+00:07:27,999 --> 00:07:35,143
+he's all white he has no face except for a mouth
+like where his eyes should be it's a disturbing
+
+78
+00:07:35,264 --> 00:07:38,365
+look you know it's almost like something out
+of like stranger things or something like that
+
+79
+00:07:38,385 --> 00:07:44,835
+you know So yeah, a relatively new and obscure
+character, but definitely creepy. To answer
+
+80
+00:07:44,895 --> 00:07:49,616
+Mason Thompson's question, the reason we like
+to be scared, people who like horror films,
+
+81
+00:07:50,116 --> 00:07:56,858
+is because it gives you an adrenaline rush and
+kind of amps you up mentally to, I think, better
+
+82
+00:07:56,918 --> 00:08:01,640
+prepare the horrors that are out there in the
+real world. Like, if you watch, like, Paranormal
+
+83
+00:08:01,680 --> 00:08:06,561
+Activity, you will be prepared when you're walking
+through your house at night and you hear a
+
+84
+00:08:06,581 --> 00:08:09,942
+loud creak or something like that. You're gonna
+be like, you know what? I've already mentally
+
+85
+00:08:10,042 --> 00:08:14,545
+gone through this, so I'm not afraid. Yeah,
+you will be ready for that shit. Right, so
+
+86
+00:08:14,885 --> 00:08:19,768
+it just helps you to be brave. If you can handle
+a fictional scenario that you're watching,
+
+87
+00:08:19,968 --> 00:08:24,851
+you might just do better in the real world.
+I think that's the appeal. That said, I also
+
+88
+00:08:24,891 --> 00:08:29,454
+hate scary things, and I refuse to watch them.
+I love scary things. I watched a lot of great
+
+89
+00:08:29,494 --> 00:08:33,836
+horror movies this Halloween season. And I also
+feel like you have more nightmares than me.
+
+90
+00:08:33,956 --> 00:08:38,610
+I don't though, because I'm not a wuss. Just
+man up and watch it follows already, like I
+
+91
+00:08:38,650 --> 00:08:43,513
+told you to a thousand times. Hey, hey, I will
+when I'm getting ready. I just don't wanna
+
+92
+00:08:43,533 --> 00:08:46,854
+be like recording down here in my basement,
+then all of a sudden like, I turn around and
+
+93
+00:08:46,874 --> 00:08:51,356
+there's like someone right there. That's why
+I tell you, you have to watch it. No, I'm good.
+
+94
+00:08:51,376 --> 00:08:57,519
+So you can be prepared for when that happens.
+So great answer Mason Thompson. We wanna give
+
+95
+00:08:57,759 --> 00:09:02,041
+a quick shout out to Daniel Alonso and Michael
+Williams for taking the time to visit our site
+
+96
+00:09:02,421 --> 00:09:06,026
+and record your answers. We really appreciate
+it. But the winner of this week's snow prize
+
+97
+00:09:06,186 --> 00:09:12,030
+is Travis Herndon, who said, What's up dynamic
+dudes? Travis here. Shout out to my evil twin.
+
+98
+00:09:12,070 --> 00:09:17,733
+So my answer had to be no. I mean, look at him.
+He looks like if you get any from Iron Maiden
+
+99
+00:09:17,773 --> 00:09:22,035
+and Freddy Cougar together, and this is their
+love child. This dude is creepy. Yeah. You
+
+100
+00:09:22,055 --> 00:09:26,798
+can say, well, venom is scary or carnage is
+scary, but hey, we wouldn't have those two
+
+101
+00:09:26,818 --> 00:09:32,741
+without this lanky ass creepy motherfucker.
+I'd be more terrified of him than those two
+
+102
+00:09:32,801 --> 00:09:37,707
+any day of the week. What an appropriately timed
+answer for this Venom the Last Dance review.
+
+103
+00:09:38,227 --> 00:09:44,208
+Null, the eldritch god of darkness in the Marvel
+Universe, is creepy as fuck. You know, he's
+
+104
+00:09:44,348 --> 00:09:50,110
+all white, he has long white hair, black eyes,
+except for the red spots, and his smile goes
+
+105
+00:09:50,230 --> 00:09:55,852
+all the way almost up to his ears, and a mouthful
+of sharp teeth. Dude is intimidating not just
+
+106
+00:09:55,872 --> 00:10:01,073
+because of how he looks though, but also because
+of what he says and what he does. You know,
+
+107
+00:10:01,133 --> 00:10:06,916
+the guy has the feats. to back up his claims
+and when he says like, you will drown in a
+
+108
+00:10:06,956 --> 00:10:11,880
+sea of gnashing teeth and as your limbs are
+ripped from your body, your blood will drench
+
+109
+00:10:11,920 --> 00:10:15,382
+the darkness or some shit like that. You know,
+everything he says is like a lyric to a death
+
+110
+00:10:15,402 --> 00:10:21,787
+metal song. I'm not too familiar with Null from
+the comics, I'm not gonna lie. But spoiler
+
+111
+00:10:21,827 --> 00:10:28,672
+alert, we are doing a duel between him and the
+White Lantern Kyle Rayner in our next episode.
+
+112
+00:10:28,732 --> 00:10:32,586
+Yeah, that'll be a fun one. So stick around
+for that next week. Great answer, Travis, you
+
+113
+00:10:32,606 --> 00:10:36,909
+win this week's No Prize if you the listener
+want a shot at winning your own No Prize. Stay
+
+114
+00:10:36,949 --> 00:10:41,191
+tuned to later on in this episode when we will
+be asking another question of the week. And
+
+115
+00:10:41,211 --> 00:10:51,398
+now that that's done, onto the news! Alright,
+this past week we got our first look at Spider-Man
+
+116
+00:10:51,438 --> 00:10:57,461
+Noir from the upcoming Amazon television series
+titled Spider-Noir that's being produced by
+
+117
+00:10:57,601 --> 00:11:02,413
+Sony. and it's starring Nicolas Cage and it
+was quite the surprise when the show was announced.
+
+118
+00:11:02,433 --> 00:11:07,156
+I thought it was really nice that they cast
+the same actor who voiced the character in
+
+119
+00:11:07,236 --> 00:11:11,380
+the Into the Spider-Verse film. I was really
+looking forward to seeing how this was going
+
+120
+00:11:11,400 --> 00:11:15,863
+to turn out. I'll admit that I didn't have the
+highest of expectations when it came to things
+
+121
+00:11:15,883 --> 00:11:21,688
+like the costume, but boy was I wrong because
+the set photos that we got that were released
+
+122
+00:11:21,708 --> 00:11:27,852
+by TMZ look fantastic. The character design
+is straight out of the Into the Spider-Verse
+
+123
+00:11:27,912 --> 00:11:32,935
+movie in that he has the fedora because in the
+comics he doesn't really wear the fedora, although
+
+124
+00:11:32,955 --> 00:11:36,458
+I think they brought that on later on when they
+saw how good it looked in the animated movie.
+
+125
+00:11:36,938 --> 00:11:41,901
+But he's got the trench coat on here. We see
+him like riding on top of a 1930s era car because
+
+126
+00:11:41,921 --> 00:11:45,924
+the series is set during the Great Depression
+and we even see him like shooting out his hand
+
+127
+00:11:45,964 --> 00:11:50,927
+to fire a web and it all looks fantastic. It's
+the stunt double on top of the car, most likely
+
+128
+00:11:51,027 --> 00:11:55,890
+not Nicolas Cage, but things are shaping up
+pretty well. for the Spider and War series.
+
+129
+00:11:56,290 --> 00:12:00,511
+Do we know that for sure? Cause I know Nicolas
+Cage does a lot of his own stunt driving. Well,
+
+130
+00:12:00,571 --> 00:12:05,753
+he's not driving. He's standing on top of a
+car. Same thing. No, I'm pretty sure it's a
+
+131
+00:12:05,813 --> 00:12:09,394
+stunt double. The way he's crouched and everything
+like that just make it more plausible that
+
+132
+00:12:09,434 --> 00:12:15,635
+it's the stunt double. Though we have seen Nicolas
+Cage in the costume sans his mask. And I thought
+
+133
+00:12:15,655 --> 00:12:19,597
+he looked pretty cool. I mean, the costume is
+very basic. It's all black with a black trench
+
+134
+00:12:19,617 --> 00:12:24,950
+coat, but not gonna lie, that's still kind of
+cool. Well, The costume is his Uncle Ben's
+
+135
+00:12:25,090 --> 00:12:30,111
+World War I Airman uniform. Oh, that's cool.
+With a trench coat on top of that. So that's
+
+136
+00:12:30,131 --> 00:12:35,213
+pretty cool. As we discussed on this podcast
+earlier, they did make some changes to the
+
+137
+00:12:35,253 --> 00:12:40,074
+Spider-Man Noir story in that this is gonna
+be Ben Reilly instead of Peter Parker, who
+
+138
+00:12:40,134 --> 00:12:43,455
+in the comic books is actually a clone of Peter
+Parker, but I don't think he's gonna be a clone
+
+139
+00:12:43,515 --> 00:12:49,357
+here. He's just named Ben Reilly in this particular
+universe. Yeah, I'm guessing Kevin Feige from
+
+140
+00:12:49,657 --> 00:12:54,696
+Marvel Studios made them do that. I'm actually
+surprised to hear that this is on Amazon Prime.
+
+141
+00:12:54,876 --> 00:12:59,801
+I thought it was going to be on Disney Plus.
+No, Amazon Prime. Interesting. It's going to
+
+142
+00:12:59,821 --> 00:13:03,524
+be a crime show, although I believe it's also
+going to have some supernatural elements to
+
+143
+00:13:03,544 --> 00:13:07,728
+it. So if it's done like in the vein of something
+like Batman, the doom that came to Gotham or
+
+144
+00:13:07,748 --> 00:13:12,532
+something like that, I think that'd be pretty
+cool. You wish. If it was only half as cool,
+
+145
+00:13:12,552 --> 00:13:17,236
+you'd enjoy it. That's true. That's true. But
+with this first look at his costume release,
+
+146
+00:13:17,256 --> 00:13:21,534
+I'm really looking forward to seeing what else
+we get. from this series. We don't have a release
+
+147
+00:13:21,574 --> 00:13:26,536
+date yet, I believe, but I'm already eagerly
+anticipating it. Yeah, you have to imagine
+
+148
+00:13:26,576 --> 00:13:32,659
+it's going to come out sometime next year. Yeah,
+probably late next year or early 2026 is my
+
+149
+00:13:32,679 --> 00:13:37,901
+guess. Speaking of release dates though, we
+got the really sucky news this past week that
+
+150
+00:13:38,081 --> 00:13:43,744
+Blade has been removed from its 2025 release
+date that was set to be next November. It is
+
+151
+00:13:43,784 --> 00:13:47,365
+sucky news, I guess it's not really surprising
+news considering that if they wanted to make
+
+152
+00:13:47,405 --> 00:13:52,329
+that release date, They would have already probably
+started shooting and we definitely would have
+
+153
+00:13:52,349 --> 00:13:57,433
+had a new director by this point, ever since
+Yann Demange left the project. Now this doesn't
+
+154
+00:13:57,453 --> 00:14:02,237
+mean that the movie is cancelled, it's just
+been delayed. And Marvel has picked up like
+
+155
+00:14:02,297 --> 00:14:07,721
+three new release dates going into 2028 I believe,
+so it's entirely possible that they're just
+
+156
+00:14:07,742 --> 00:14:12,626
+choosing to sit on the Blade movie until they
+have you know, the right script and the right
+
+157
+00:14:12,646 --> 00:14:18,534
+director for the project. I'm just wondering
+why this keeps happening to this movie. I don't
+
+158
+00:14:18,554 --> 00:14:23,615
+know. Is it really that hard to crack a good
+Blade story? Because I feel like we've done
+
+159
+00:14:23,635 --> 00:14:28,977
+it at least three times already. You mean the
+first three Blade movies? Yeah. I mean, I would
+
+160
+00:14:28,997 --> 00:14:33,818
+not count Blade Trinity as a good Blade story.
+They at least gotta make sure they do better
+
+161
+00:14:33,858 --> 00:14:39,660
+than that with this reboot. Yeah, but that film
+had problems outside of just the story. And
+
+162
+00:14:39,680 --> 00:14:44,221
+I feel like the problem that this new movie
+keeps running into is that they can't agree
+
+163
+00:14:44,281 --> 00:14:50,361
+on what the story is creatively. Yeah, maybe.
+I mean, reports say that the previous scripts
+
+164
+00:14:50,381 --> 00:14:55,705
+that were submitted had Blade as not the main
+character, and he was more of like a side character
+
+165
+00:14:55,745 --> 00:15:00,570
+in his own film, which didn't make sense, so
+something is not quite going right from the
+
+166
+00:15:00,590 --> 00:15:06,094
+conception phase, I think. But I am really excited
+to see Mahershala Ali as the Blade character.
+
+167
+00:15:06,134 --> 00:15:10,142
+I know that a lot of people are hoping that
+Wesley Snipes comes back into the role. I think
+
+168
+00:15:10,182 --> 00:15:13,924
+that's just wishful thinking. I think he's kind
+of aged out of it by this point. And I thought
+
+169
+00:15:13,944 --> 00:15:18,547
+they gave him a pretty decent sendoff in the
+Deadpool and Wolverine film. There's only been
+
+170
+00:15:18,627 --> 00:15:24,651
+one Blade. There's only ever gonna be one Blade.
+I really like Mahershala Ali as an actor. And
+
+171
+00:15:24,991 --> 00:15:29,554
+I just think he'd be fantastic in the role.
+So here's hoping they kind of crack that story
+
+172
+00:15:30,034 --> 00:15:35,017
+and this Blade movie could pick up a release
+date in 2026 or 2027 or something like that.
+
+173
+00:15:35,262 --> 00:15:39,446
+It's interesting that you're saying that he
+was written into stories where he wasn't the
+
+174
+00:15:39,586 --> 00:15:45,431
+main character, even though he's the title character
+supposedly, because I'm seeing current rumors
+
+175
+00:15:45,552 --> 00:15:50,977
+that they may just skip the Blade movie and
+skip straight to a Midnight Suns film. Yeah,
+
+176
+00:15:50,997 --> 00:15:54,701
+that's one of the rumors that's going around.
+I really hope that's not the case. I think
+
+177
+00:15:54,761 --> 00:15:59,585
+that would be an instance of Marvel pulling
+a DC, which they definitely don't want to do.
+
+178
+00:16:00,118 --> 00:16:03,960
+And I say that because, you know, they threw
+together the Justice League movie without giving
+
+179
+00:16:04,040 --> 00:16:08,122
+all the characters on the team their own films,
+which I think was a mistake. They should do
+
+180
+00:16:08,162 --> 00:16:12,265
+it the Marvel way, like they did with the Avengers,
+where the characters had their own films leading
+
+181
+00:16:12,305 --> 00:16:16,868
+up to the movie. You know what they should do?
+Just give each of the Midnight Sun characters
+
+182
+00:16:17,048 --> 00:16:22,291
+their own special presentation, like holiday
+type film. Just do that. Like you don't need
+
+183
+00:16:22,331 --> 00:16:26,713
+to do a full feature length thing. Just do a
+short and then have the Midnight Sun's movie.
+
+184
+00:16:27,242 --> 00:16:30,786
+I wouldn't hate that. I mean, they gave a special
+presentation to Werewolf by Night, which I
+
+185
+00:16:30,806 --> 00:16:35,151
+thought was really solid. I had a lot of fun
+with that one. So, I would not be unhappy with
+
+186
+00:16:35,171 --> 00:16:40,256
+that. But as we mentioned earlier, like, Blade
+fights vampires, right? Just make a movie about
+
+187
+00:16:40,316 --> 00:16:45,542
+that. Make it interesting. It shouldn't be that
+hard to figure this story out. And with that
+
+188
+00:16:45,582 --> 00:16:47,565
+in mind, that brings us to our question of the
+week.
+
+189
+00:16:51,970 --> 00:16:57,352
+Give us your best 30 second film pitch for the
+MCU's Blade movie. Now we're looking for you
+
+190
+00:16:57,392 --> 00:17:02,494
+fan fiction writers out there to dig deep and
+give us a quick pitch of what basically the
+
+191
+00:17:02,554 --> 00:17:07,796
+plot is for what you think the MCU's Blade movie
+should be. Record your answer at dynamicduel.com
+
+192
+00:17:08,276 --> 00:17:11,958
+by clicking on the red microphone button in
+the bottom right hand corner of the screen,
+
+193
+00:17:12,238 --> 00:17:16,560
+which will prompt you to leave us a voicemail.
+Your message could be up to 30 seconds long,
+
+194
+00:17:16,920 --> 00:17:20,934
+and don't forget to leave your name in case
+we include you on the podcast. We'll pick our
+
+195
+00:17:20,994 --> 00:17:25,843
+favorite answer and award that person a dynamic
+Duel no prize that we'll post to Instagram.
+
+196
+00:17:26,224 --> 00:17:28,989
+Be sure to answer before November 2nd.
+
+197
+00:17:36,418 --> 00:17:40,082
+That does it for all of the news for this episode.
+Now let's go ahead and move on to the main
+
+198
+00:17:40,122 --> 00:17:47,049
+event where we review the latest Sony Spider-Man
+universe film Venom, The Last Dance.
+
+199
+00:18:03,242 --> 00:18:08,205
+Alright, Venom The Last Dance was written and
+directed by Kelly Marcel and stars Tom Hardy,
+
+200
+00:18:08,645 --> 00:18:14,870
+Chiwetel Ejiofor, and Juno Temple. Director
+Kelly Marcel also wrote the first two installments
+
+201
+00:18:14,890 --> 00:18:20,214
+of the Venom franchise and took over as director
+for this latest go-round, which I kind of thought
+
+202
+00:18:20,234 --> 00:18:24,417
+was interesting because I found it probably
+the best directed installment of the bunch.
+
+203
+00:18:24,937 --> 00:18:30,000
+Yeah, it definitely felt like the most cohesive
+in regards to both the direction and the writing.
+
+204
+00:18:30,441 --> 00:18:35,055
+Yeah, it kind of felt- more like an MCU film
+than the previous two installments did, right?
+
+205
+00:18:35,215 --> 00:18:38,797
+Yeah, I can see that. I was kind of dreading
+this movie, especially after the lackluster
+
+206
+00:18:38,817 --> 00:18:43,239
+film before this, Venom Let There Be Carnage,
+which we gave two and a half stars. But with
+
+207
+00:18:43,259 --> 00:18:49,642
+Venom The Last Dance, I found myself not thrilled
+with the movie, but satisfied in a way that
+
+208
+00:18:49,662 --> 00:18:53,124
+I wasn't with the last one, because I had some
+fun with this film, kind of like the first
+
+209
+00:18:53,164 --> 00:18:57,799
+movie. There's some cool action, some humor
+that lands. and some good character beats.
+
+210
+00:18:57,919 --> 00:19:03,042
+So if you haven't seen Venom the Last Ants and
+plan to, listen no further because this is
+
+211
+00:19:03,102 --> 00:19:07,726
+a spoiler review. My biggest gripe with the
+second film, Let There Be Carnage, was that
+
+212
+00:19:07,826 --> 00:19:13,670
+Venom was reduced to a caricature of himself
+and the movie leaned a little bit too far into
+
+213
+00:19:13,710 --> 00:19:19,582
+his goofy side as a means of subverting this
+scary looking monster. And that really doesn't
+
+214
+00:19:19,602 --> 00:19:24,845
+change here too much with this movie. We do
+have, you know, Venom making margaritas, singing
+
+215
+00:19:24,865 --> 00:19:30,528
+to David Bowie, and dancing to ABBA. As fucking
+ridiculous as that can be for fans of the comic
+
+216
+00:19:30,548 --> 00:19:36,510
+book character, The Last Stance at least has
+one thing going for it over Let There Be Carnage,
+
+217
+00:19:36,530 --> 00:19:41,233
+and that's that this third film actually has
+good stakes. You know, there's an actual feeling
+
+218
+00:19:41,293 --> 00:19:46,925
+of danger to the proceedings. And the movie
+actually had balls to sacrifice the title character,
+
+219
+00:19:47,125 --> 00:19:51,689
+I think, in a way that felt meaningful. And
+I can respect that. And I actually thought
+
+220
+00:19:51,809 --> 00:19:57,474
+that those stakes helped offset some of the
+goofiness that we see here. Because, you know,
+
+221
+00:19:57,634 --> 00:20:02,979
+this film had the potential to be pretty dark
+otherwise. Yeah, it has pretty dark themes,
+
+222
+00:20:03,139 --> 00:20:07,222
+right? There's oftentimes throughout the film
+where Venom's kind of talking about how things
+
+223
+00:20:07,262 --> 00:20:12,030
+would be better for Eddie, maybe, if the two
+were separate. But... that you don't really
+
+224
+00:20:12,111 --> 00:20:17,095
+want to be separate. So then it kind of has
+this ominous foreshadowing that kind of hangs
+
+225
+00:20:17,215 --> 00:20:21,899
+over the entire film, I would say. Yeah, and
+in that sense, the humor and the jokes that
+
+226
+00:20:21,939 --> 00:20:27,064
+were at play here actually had purpose, unlike
+the second movie where the jokes were mainly
+
+227
+00:20:27,104 --> 00:20:32,209
+just for shits and giggles. Because we all know
+that Carnage wasn't nearly as menacing as he
+
+228
+00:20:32,249 --> 00:20:36,192
+could and should have been. But things like,
+you know, Venom's instant addiction to gambling,
+
+229
+00:20:36,373 --> 00:20:41,095
+the symbiote horse... Those things just worked
+for me in this movie in a way that they didn't
+
+230
+00:20:41,315 --> 00:20:45,838
+in the second film. I'll say that Venom 3 has
+the greatest amount of spectacle too out of
+
+231
+00:20:45,858 --> 00:20:50,460
+all the films. All the action beats I thought
+were on point including the fight in the dog
+
+232
+00:20:50,500 --> 00:20:55,703
+pit, the airplane fight, the river chase. That
+fucking fight at the end of the movie at the
+
+233
+00:20:55,743 --> 00:21:01,906
+Empyrean base at Area 51, holy shit man. Like
+seeing all those multiple symbiotes. and how
+
+234
+00:21:01,946 --> 00:21:06,669
+they each have their own fighting style going
+up against some of the most impressive movie
+
+235
+00:21:06,709 --> 00:21:12,354
+monsters I've seen in a long time, the Xenophages.
+That shit was badass. Dude, I want to see a
+
+236
+00:21:12,434 --> 00:21:18,198
+Xenophage go up against a Xenomorph Queen on
+Max Destruction. The Kamacho twins have to
+
+237
+00:21:18,238 --> 00:21:23,102
+do that battle. That would be pretty cool. I
+mean, the Xenophages move pretty well though,
+
+238
+00:21:23,162 --> 00:21:27,545
+like whether it's through the air with their
+super leaping ability or running on the ground.
+
+239
+00:21:28,134 --> 00:21:34,338
+and their fucking woodchipper heads, right?
+When I saw them devour one of the Imperium
+
+240
+00:21:34,378 --> 00:21:37,881
+soldiers and like basically all of his blood
+and guts shot out the back of the creature's
+
+241
+00:21:37,901 --> 00:21:42,364
+head, my jaw dropped. And I was like, what the
+fuck did I just see? I've never seen anything
+
+242
+00:21:42,404 --> 00:21:48,429
+like that in a monster movie. So just when you
+think you've seen it all, Venom III has some
+
+243
+00:21:48,469 --> 00:21:53,372
+surprises up its sleeve. Are the xenophages
+from the comics? They are, yeah. They're not
+
+244
+00:21:53,392 --> 00:22:00,464
+creations of null. but they are natural alien
+predators of the symbiotes. Gotcha. Really
+
+245
+00:22:00,504 --> 00:22:05,166
+what the xenophages should be, and fans of the
+comic books will know this, they should have
+
+246
+00:22:05,186 --> 00:22:11,368
+been symbiote dragons. Those are the eldritch
+creatures that Null has created, and symbiote
+
+247
+00:22:11,409 --> 00:22:15,570
+dragons have the ability to kind of spew out
+symbiotes of their own. And that would have
+
+248
+00:22:15,590 --> 00:22:18,892
+been cool to see here, but I can understand
+why they went with the xenophages, because
+
+249
+00:22:18,932 --> 00:22:24,798
+if you start introducing dragons into the Venom
+franchise, then things kind of start feeling
+
+250
+00:22:24,838 --> 00:22:30,720
+a little bit fantasy based and you want to keep
+things kind of alien and monstrous. But it
+
+251
+00:22:30,800 --> 00:22:35,221
+would have been cool to see Grendel in this
+movie, who is one of Null's first symbiote
+
+252
+00:22:35,241 --> 00:22:40,903
+dragons that got trapped thousands of years
+ago on Earth. Hmm. That shit went entirely
+
+253
+00:22:40,983 --> 00:22:45,864
+over my head, but it sounds cool. And you have
+to imagine that maybe we'll get to see that
+
+254
+00:22:45,884 --> 00:22:50,775
+in future installments within Sony's Spider-Man
+universe. Yeah, and I'm glad you brought that
+
+255
+00:22:50,815 --> 00:22:55,459
+up because it is really hard to know what to
+think about this movie at the end of it in
+
+256
+00:22:55,519 --> 00:23:00,343
+regards to future installments for Sony's Spider-Man
+universe. Now, this is supposed to be the last
+
+257
+00:23:00,483 --> 00:23:07,049
+time we see Tom Hardy suited up as Venom and
+as Eddie Brock. And yet the movie set up so
+
+258
+00:23:07,089 --> 00:23:12,875
+many cool threads that we're not sure will ever
+be picked up in future installments. And you
+
+259
+00:23:12,915 --> 00:23:17,746
+might even call them plot holes in this sense,
+but things like Null. Things like the shadowy
+
+260
+00:23:17,846 --> 00:23:23,307
+organization behind Imperium. Things like that,
+you know? What's gonna happen there? Is Sony's
+
+261
+00:23:23,347 --> 00:23:29,149
+Spider-Man universe gonna continue or is it
+going to falter? Who knows? Ideally, the best
+
+262
+00:23:29,189 --> 00:23:34,311
+case scenario is that Spider-Man 4 involves
+the character of Venom and they pick up a lot
+
+263
+00:23:34,351 --> 00:23:39,372
+of these dangling threads. In that regard, I
+hope the movie actually does really well at
+
+264
+00:23:39,392 --> 00:23:44,013
+the box office, because it would be nice to
+have that best case scenario happen, essentially.
+
+265
+00:23:44,502 --> 00:23:50,203
+Yeah, I feel like a lot of people have been
+speculating that Noah will be a part of Spider-Man
+
+266
+00:23:50,243 --> 00:23:55,365
+4. And I think Marvel Studios has been hesitant
+to confirm that. I think they're waiting to
+
+267
+00:23:55,425 --> 00:24:01,947
+see how well this Venom movie does. So if you
+do want to see Venom in Spider-Man 4, the more
+
+268
+00:24:01,967 --> 00:24:07,229
+people that see this last Venom movie, the better.
+Yeah, in theaters too. I think that would be
+
+269
+00:24:07,249 --> 00:24:10,578
+best for everybody. Because, you know, it's
+worth seeing on the big screen, I think. There
+
+270
+00:24:10,598 --> 00:24:14,559
+are some pretty solid visual effects here. I
+think the visual effects for the symbiotes
+
+271
+00:24:15,020 --> 00:24:21,322
+are better also than the previous two installments.
+So I accidentally saw this movie in 3D, like
+
+272
+00:24:21,342 --> 00:24:26,783
+I got my tickets and they're like, oh, here's
+your 3D glasses. And I was like, what? Gosh,
+
+273
+00:24:26,923 --> 00:24:32,005
+dang it. And it was like the last showing of
+the night. So I was like, whatever. But it
+
+274
+00:24:32,025 --> 00:24:36,447
+wasn't terrible, actually. I could think off
+the top of my head of some pretty cool scenes
+
+275
+00:24:36,467 --> 00:24:42,049
+that I think would have been cool in 3D, like
+the airplane scene. Yes. Like when Venom's
+
+276
+00:24:42,069 --> 00:24:46,691
+floating head is talking to Eddie, things like
+that. There were definitely some shots that
+
+277
+00:24:46,731 --> 00:24:52,473
+they did that I felt like were tailor made for
+3D, where it's like, okay, yeah, that was totally
+
+278
+00:24:52,533 --> 00:24:56,335
+meant for me to like, trying to reach out and
+touch it. And actually, my daughter who saw
+
+279
+00:24:56,355 --> 00:25:02,870
+the film with me did exactly that. That's cool.
+I bet you Lasher was really cool in 3D. with
+
+280
+00:25:02,910 --> 00:25:08,572
+her tentacles. Oh yeah, all of the symbiotes
+were really cool in 3D. Nice. Now you mentioned
+
+281
+00:25:08,592 --> 00:25:12,814
+before that the plot threads might be plot holes.
+I don't think that's the case. I definitely
+
+282
+00:25:12,834 --> 00:25:16,155
+think they're plot threads that could be picked
+up in another film so I don't fault them for
+
+283
+00:25:16,195 --> 00:25:23,818
+that. That said, I do think this film has plot
+holes such as how the hell did Venom know that
+
+284
+00:25:23,918 --> 00:25:29,140
+Area 51 had this like acid shower bath thing?
+That's a great question. He wouldn't have known.
+
+285
+00:25:29,520 --> 00:25:35,711
+Yeah. It made for a dramatic death scene though.
+Like I felt really bad for Venom actually,
+
+286
+00:25:36,152 --> 00:25:40,935
+you know, seeing this character that we've grown
+to know and love over the course of three films
+
+287
+00:25:41,395 --> 00:25:46,078
+die in such a horribly painful and tragic way.
+I think it was hard for Eddie to watch, too.
+
+288
+00:25:46,559 --> 00:25:52,042
+And I guess some other things that aren't quite
+plot holes, but are just kind of weird is like
+
+289
+00:25:52,423 --> 00:25:59,688
+what was up with Dr. Payne's whole backstory
+and, you know. Dude, I get into that. Okay.
+
+290
+00:25:59,708 --> 00:26:04,394
+That whole fucking thing was so bizarre. We'll
+get there though in the character breakdown.
+
+291
+00:26:04,894 --> 00:26:09,015
+Speaking of which, let's go ahead and do that
+now. First, let's talk about Venom slash Eddie
+
+292
+00:26:09,035 --> 00:26:14,817
+Brock, played by Tom Hardy. You know, if this
+is the last time we ever see Tom Hardy as the
+
+293
+00:26:14,857 --> 00:26:19,698
+character of Eddie Brock, which I hope it's
+not, I want to say that Tom Hardy's performance
+
+294
+00:26:19,718 --> 00:26:23,819
+should go down as one of the most technically
+brilliant physical performances ever committed
+
+295
+00:26:23,859 --> 00:26:29,501
+to the screen. Even if there's like some probably
+speed ramping involved, I think his movements
+
+296
+00:26:29,661 --> 00:26:35,573
+when Venom is in control make it actually seem
+as if they're involuntary, as if he has strings
+
+297
+00:26:35,593 --> 00:26:39,777
+that are being pulled like a puppet. I think
+a lot of people might wonder why such a gifted
+
+298
+00:26:39,817 --> 00:26:45,421
+performance on par with Charlie Chaplin or Peter
+Sellers would be wasted on a franchise as goofy
+
+299
+00:26:45,441 --> 00:26:51,367
+as Venom. But you know what? I still respect
+it. For my money, there was no other actor
+
+300
+00:26:51,387 --> 00:26:56,751
+better suited to the role of Eddie Brock. So
+again, let's just make sure that he either
+
+301
+00:26:56,811 --> 00:27:01,714
+returns in Spider-Man 4 or maybe even in the
+MCU. I do agree that it was a great physical
+
+302
+00:27:01,754 --> 00:27:07,196
+performance, but I had the same problem with
+Tom Hardy's acting in this film as I have in
+
+303
+00:27:07,277 --> 00:27:12,259
+previous Venom films, and that is he kind of
+mumbles a lot. And also it's really hard to
+
+304
+00:27:12,299 --> 00:27:17,141
+understand his Venom voice in some instances.
+I noticed that here too. Like I understood
+
+305
+00:27:17,201 --> 00:27:22,163
+it, but then I was thinking, man, I hope other
+people got that because that was kind of an
+
+306
+00:27:22,183 --> 00:27:27,065
+important plot point that Venom just stated
+when he was giving like exposition regarding
+
+307
+00:27:27,105 --> 00:27:31,786
+the character of Null and the codex and things
+like that. Yeah, I understood everything. For
+
+308
+00:27:31,806 --> 00:27:36,228
+the most part, Venom was saying regarding exposition.
+That said, as I'm sure we'll get into later,
+
+309
+00:27:36,588 --> 00:27:41,050
+the exposition in this film is kind of terrible.
+I can see where you can make that point. The
+
+310
+00:27:41,090 --> 00:27:46,292
+dialogue was not great in this movie, especially
+between Rex Strickland and Teddy Payne. Yeah.
+
+311
+00:27:46,312 --> 00:27:52,135
+How they're like commenting, I'm like, oh, here
+we are now in the Imperium headquarters beneath
+
+312
+00:27:52,255 --> 00:27:57,577
+Area 51. You know, it's just, it's too obvious.
+Right? It's like, what? What are you guys doing?
+
+313
+00:27:58,017 --> 00:28:02,805
+Yeah. Is this your first time here? What's going
+on? Yeah, like talk like normal people, right?
+
+314
+00:28:02,885 --> 00:28:09,149
+Exactly. Story-wise, Eddie's prime motivation
+was to go to New York, which really didn't
+
+315
+00:28:09,449 --> 00:28:13,772
+work for me because he was going there because
+he had dirt on a judge and wanted to blackmail
+
+316
+00:28:13,792 --> 00:28:18,255
+them into clearing his name. Like, how does
+that remotely seem like a good idea? I will
+
+317
+00:28:18,275 --> 00:28:22,598
+grant him that the character was drunk when
+he had the idea, but still, like, blackmailing
+
+318
+00:28:22,618 --> 00:28:25,961
+a judge, you know, committing a crime doesn't
+seem like a great way to exonerate yourself
+
+319
+00:28:26,021 --> 00:28:30,684
+of other crimes. It just seems like a good way
+to rack up more charges, honestly. And honestly,
+
+320
+00:28:30,744 --> 00:28:35,207
+like if you're going to do something like that,
+wouldn't it be simpler just to, you know, threaten
+
+321
+00:28:35,227 --> 00:28:40,671
+the prosecuting attorney or like the case judge
+or something like that? Yeah, I guess that's
+
+322
+00:28:40,851 --> 00:28:45,935
+true. I'll say that there were some great character
+moments for Eddie. I was genuinely moved in
+
+323
+00:28:45,975 --> 00:28:52,559
+the camper scene with the Moon family when Venom
+was commenting on how it would have been nice
+
+324
+00:28:52,600 --> 00:28:57,214
+to have a family and how Eddie would have made
+a great dad. Those scenes with the kid were
+
+325
+00:28:57,475 --> 00:29:02,297
+a great and kind of tragic peek into what could
+have been for Eddie Brock. And of course, you
+
+326
+00:29:02,317 --> 00:29:07,140
+know, the sacrifice at the end was also really
+touching as Eddie sees this creature that he
+
+327
+00:29:07,160 --> 00:29:12,844
+didn't always get along with but had over time
+really connected to die in this really painful
+
+328
+00:29:12,884 --> 00:29:19,327
+way. And like seeing Eddie remember his and
+Venom's moments together across the franchise
+
+329
+00:29:19,467 --> 00:29:24,419
+was also a nice touch as he was at the Statue
+of Liberty. I choked up a bit. Yeah, no kidding.
+
+330
+00:29:24,459 --> 00:29:30,126
+There was a kid who was straight up balling
+in my theater at the end of this movie. Oh,
+
+331
+00:29:30,186 --> 00:29:35,673
+dang. He was crying from the time Venom was
+killing himself all the way to when Eddie was
+
+332
+00:29:35,793 --> 00:29:40,940
+looking at the Statue of Liberty. I was like,
+calm down, kid. Poor kid. Not only is this
+
+333
+00:29:40,960 --> 00:29:47,006
+a movie, he was an alien. You know, like as
+much as you don't want to see Venom and Eddie
+
+334
+00:29:47,426 --> 00:29:53,228
+be separated, I think the movie did do a nice
+job of signaling that it was time. You know,
+
+335
+00:29:53,828 --> 00:29:58,629
+Eddie looked worn, he looked tired, he definitely
+signaled that he was dealing with a lot like
+
+336
+00:29:58,649 --> 00:30:03,051
+when he killed the Imperium soldier in the river.
+It kind of made the loss of Venom a little
+
+337
+00:30:03,071 --> 00:30:07,412
+bit more acceptable, I think, just because it
+kind of felt like it was that time. But you
+
+338
+00:30:07,432 --> 00:30:12,053
+know, I expect we'll see Venom back before long,
+hopefully. Let's go ahead and move on to Commander
+
+339
+00:30:12,153 --> 00:30:19,741
+Rex Strickland. who was played by Chiwetel Eziofor.
+Eziofor is a better actor than what the script
+
+340
+00:30:19,901 --> 00:30:26,005
+gave him. There wasn't nearly enough for him
+to do for an actor of his caliber. And I kind
+
+341
+00:30:26,025 --> 00:30:31,008
+of feel bad that he just came across as kind
+of a generic angry military guy. I kind of
+
+342
+00:30:31,028 --> 00:30:35,911
+felt like this was a paycheck for a number of
+actors who appeared in the film. That said,
+
+343
+00:30:36,151 --> 00:30:41,642
+they didn't do a bad job. They made the most
+somewhat of what was on the page. It just felt
+
+344
+00:30:41,662 --> 00:30:46,527
+like, why are you in this movie? Why are you
+even accepting these lines? You're better than
+
+345
+00:30:46,567 --> 00:30:51,872
+this. It's really strange, though, particularly
+what she would tell Ejio for because his character,
+
+346
+00:30:51,952 --> 00:30:56,897
+Rex Strickland, is actually kind of a major
+character in the King of Black storyline. In
+
+347
+00:30:56,917 --> 00:31:03,023
+the comics, Rex Strickland was a soldier in
+Vietnam who was given an ancient symbiote found
+
+348
+00:31:03,063 --> 00:31:08,066
+on Earth by S.H.I.E.L.D. in order to become
+a super soldier. and he helped Eddie out when
+
+349
+00:31:08,146 --> 00:31:12,468
+his mind was stuck in the symbiote hive mind
+in the King and Black story arc. And I kept
+
+350
+00:31:12,508 --> 00:31:17,210
+thinking that at some point, Rex was going to
+bond with the symbiote and we were going to
+
+351
+00:31:17,230 --> 00:31:22,052
+get to see the Tyrannosaurus symbiote, but that
+just never happened. Like at the end fight
+
+352
+00:31:22,092 --> 00:31:27,394
+scene against the xenophages, a symbiote should
+have bonded with Rex. And I was kind of really
+
+353
+00:31:27,434 --> 00:31:31,736
+confused when that didn't happen. It makes me
+wonder why they bothered making this military
+
+354
+00:31:31,776 --> 00:31:36,442
+guy, Rex Strickland, to begin with. You know,
+he should have been. General Orwell Taylor,
+
+355
+00:31:36,482 --> 00:31:41,925
+who we theorized his character was from the
+trailers. Yeah, who knows? Maybe in earlier
+
+356
+00:31:41,985 --> 00:31:46,487
+drafts of the script, he was that character,
+but for some reason they decided to go with
+
+357
+00:31:46,708 --> 00:31:52,010
+Dr. Payne as the symbiote. And Dr. Payne's not
+even a fucking character from the comic books.
+
+358
+00:31:52,171 --> 00:31:56,493
+There's a Thaddeus Payne who was like a villain
+that went up against a venom whose power was
+
+359
+00:31:56,513 --> 00:32:01,656
+that he couldn't feel pain, but he never bonded
+with a symbiote or anything. It's weird. Speaking
+
+360
+00:32:01,776 --> 00:32:02,376
+of Dr.
+
+361
+00:32:05,894 --> 00:32:11,498
+This character will go down in history as having
+the worst flashback in cinematic history. I'm
+
+362
+00:32:11,518 --> 00:32:16,082
+not even sure why that whole scene with her
+brother on the beach and the lightning storm
+
+363
+00:32:16,122 --> 00:32:21,266
+was even necessary considering it had no reason
+to be in this movie. No, you're right. Like,
+
+364
+00:32:21,306 --> 00:32:25,490
+they tried to develop her character way more
+than what was necessary considering the role
+
+365
+00:32:25,510 --> 00:32:29,233
+that she had to play in the plot. You know,
+I think that screen time actually would have
+
+366
+00:32:29,253 --> 00:32:34,697
+been better spent on an actual character from
+the comics like Rex Strickland instead of Dr.
+
+367
+00:32:34,717 --> 00:32:40,484
+Payne. And like really she had less to do than
+her associate, Dr. Sadie Christmas, who was
+
+368
+00:32:40,564 --> 00:32:46,307
+also an original character. What? She was original
+too? What the hell is going on? I don't know.
+
+369
+00:32:46,767 --> 00:32:51,309
+I have no idea. But it was weird that they both
+got symbiotes, but Rex Strickland did not.
+
+370
+00:32:51,730 --> 00:32:57,552
+So backwards. You kind of just degraded this
+film for me a little bit, because that sounds
+
+371
+00:32:57,592 --> 00:33:03,035
+really dumb. Yeah, it is dumb. But I think what
+kind of elevates the film back up a half a
+
+372
+00:33:03,055 --> 00:33:08,877
+star is just seeing how cool Lasher and Agony
+were in the movie. Lasher being the green symbiote
+
+373
+00:33:08,977 --> 00:33:14,480
+that Sadie Christmas had and Agony being the
+purple long-haired symbiote that Dr. Payne
+
+374
+00:33:14,500 --> 00:33:18,721
+got. Well, at least they're the symbiotes characters
+from the comics. Yes. Yeah, I'm pretty sure
+
+375
+00:33:18,761 --> 00:33:24,624
+the orange one was Phage. And we already saw
+Riot in the first movie. He was the main antagonist
+
+376
+00:33:24,684 --> 00:33:29,450
+of the first film. So we saw all the life foundation
+symbiotes between the two films. But there
+
+377
+00:33:29,470 --> 00:33:35,371
+were even more symbiotes in this movie, like
+the fire guy, the blue snake looking one. Those
+
+378
+00:33:35,411 --> 00:33:39,052
+were all original and they were pretty cool.
+What was the name of that guy in the cell?
+
+379
+00:33:39,532 --> 00:33:44,754
+Detective Patrick Mulligan. What was his symbiote?
+I don't know the name of his symbiote. In the
+
+380
+00:33:44,794 --> 00:33:50,415
+comic books, Detective Patrick Mulligan is the
+wielder of the Toxin symbiote, who is the offspring
+
+381
+00:33:50,495 --> 00:33:56,737
+of Carnage. Now, we thought that in this movie
+we'd get to see Toxin, but that definitely
+
+382
+00:33:56,777 --> 00:34:01,743
+was not Toxin in the container. And there's
+a line in the movie about how Patrick Mulligan
+
+383
+00:34:01,783 --> 00:34:06,685
+survived the events of the Carnage movie because
+he had bonded with a symbiote, but that it
+
+384
+00:34:06,745 --> 00:34:13,108
+had left his body and evaded Rex Strickland's
+forces. So Toxin, the symbiote, is still out
+
+385
+00:34:13,128 --> 00:34:18,750
+there somewhere around San Francisco, but they
+bonded a new symbiote to Patrick Mulligan in
+
+386
+00:34:18,790 --> 00:34:23,112
+this movie. The blue one that I don't know the
+name of. Well, that's stupid because apparently
+
+387
+00:34:23,432 --> 00:34:28,623
+symbiotes could graft to fucking anybody. Yeah,
+that's a thing that is not in keeping with
+
+388
+00:34:28,643 --> 00:34:33,207
+the first film, because in the first film, the
+Life Foundation found that the symbiote had
+
+389
+00:34:33,227 --> 00:34:37,550
+to be like a proper match to the host, kind
+of like an organ donor type situation. Otherwise,
+
+390
+00:34:37,590 --> 00:34:42,313
+the test subject would get really sick and then
+die. But here, the symbiotes were just crafting
+
+391
+00:34:42,413 --> 00:34:46,316
+on to all kinds of scientists and soldiers,
+and it seemed like they were doing just fine.
+
+392
+00:34:46,776 --> 00:34:50,599
+And animals, which actually, I thought that
+was kind of cool. That was really cool. I liked
+
+393
+00:34:50,679 --> 00:34:55,511
+the symbiote horse. I liked the symbiote fish.
+That was really cool. and the frog was pretty
+
+394
+00:34:55,531 --> 00:34:59,114
+interesting. And all the different cool animals
+we got to see in the end credits. I know that's
+
+395
+00:34:59,154 --> 00:35:03,598
+not like in the story, but it was just also
+really cool to see visually. Yeah, yeah. Let's
+
+396
+00:35:03,618 --> 00:35:08,762
+go ahead and move on to Martin Moon, who is
+played by Reese Ifans. Going into the movie,
+
+397
+00:35:08,902 --> 00:35:12,406
+I thought it was going to be really hard to
+get over the idea of Reese Ifans playing the
+
+398
+00:35:12,426 --> 00:35:16,709
+character because he's also, you know, Kurt
+Connors the lizard from the Amazing Spider-Man
+
+399
+00:35:16,729 --> 00:35:21,213
+franchise. And we saw him recently in the No
+Way Home film, you know, and seeing him here.
+
+400
+00:35:21,642 --> 00:35:26,643
+just cemented the idea of the Venom films taking
+place outside of the Spider-Man universe and
+
+401
+00:35:26,663 --> 00:35:32,545
+it's just something you hate to see, you know?
+And I'm not 100% sure Martin Moon was entirely
+
+402
+00:35:32,585 --> 00:35:37,106
+necessary to the plot in this film, but I will
+say that over time he grew on me and I did
+
+403
+00:35:37,346 --> 00:35:41,827
+begin to appreciate his appearance because it
+offered a chance for some solid character development
+
+404
+00:35:41,887 --> 00:35:47,509
+for Eddie, you know? Like Martin Moon was almost
+like his spirit guide on his journey and he
+
+405
+00:35:47,569 --> 00:35:53,624
+kind of reminded the audience of... the humanity
+basically that was at stake in this film. Sure.
+
+406
+00:35:53,664 --> 00:35:58,626
+Yeah. Kind of brought some like real life stakes
+to the final battle. And that here was this
+
+407
+00:35:58,706 --> 00:36:03,009
+ordinary family that, you know, could be killed.
+Yeah. The family kind of ramped up the danger
+
+408
+00:36:03,349 --> 00:36:07,391
+and ramped up the levity to the proceedings,
+I think. There were some funny moments with
+
+409
+00:36:07,411 --> 00:36:12,334
+the family. Yeah, definitely some funny moments.
+But like you, I also am not 100 percent sure
+
+410
+00:36:12,374 --> 00:36:17,737
+they were even needed in this film. I would
+have much rather seen more backstory regarding
+
+411
+00:36:17,837 --> 00:36:23,573
+Noel. Or at least see Null in action in some
+way. I don't know. Yeah, I think the best way
+
+412
+00:36:23,613 --> 00:36:28,175
+to see Null in action would have been through
+flashback, kind of seeing him take on the Celestials
+
+413
+00:36:28,215 --> 00:36:33,739
+or something like that before his eventual imprisonment
+by the Klyntar alien race. Yeah, I wanted to
+
+414
+00:36:33,759 --> 00:36:38,581
+see more of that for sure, because it was kind
+of confusing in that I knew he was like the
+
+415
+00:36:38,621 --> 00:36:44,685
+main bad guy of the film. And yet, by the end,
+we didn't get to see him fight Venom. That
+
+416
+00:36:44,725 --> 00:36:49,142
+surprised me. Yeah, it was kind of like the
+primary antagonist of the film was really the
+
+417
+00:36:49,202 --> 00:36:54,788
+Xenophage. They also had Rex Strickland, but
+he's not nearly as cool as Null, I'll say that.
+
+418
+00:36:54,808 --> 00:36:59,954
+No, yeah, you're right. Speaking of Null, he
+was played by Andy Serkis. I thought the design
+
+419
+00:36:59,994 --> 00:37:04,419
+was straight out of the comic books. I thought
+they gave him a really great setup. It's unfortunate
+
+420
+00:37:04,459 --> 00:37:09,211
+there was no payoff and So you just have to
+hope that we'll see him again sometime in the
+
+421
+00:37:09,231 --> 00:37:12,593
+future and that they're just really playing
+the long game, which they should do. You know,
+
+422
+00:37:12,693 --> 00:37:16,715
+Null should not be a one and done villain. You
+know, he's kind of like Thanos. We should really
+
+423
+00:37:16,775 --> 00:37:22,058
+see him spread out over the course of multiple
+films as a major threat. Yeah, if Kevin Feige
+
+424
+00:37:22,098 --> 00:37:28,501
+doesn't hop on this setup that Sony gave him,
+then that is a huge shame. I don't think Sony
+
+425
+00:37:28,521 --> 00:37:32,484
+would let him. I think they're planning their
+own thing with their own Spider-Man universe.
+
+426
+00:37:32,744 --> 00:37:37,468
+Well, then I don't care anymore because that's
+just stupid. Do I really want to see Madame
+
+427
+00:37:37,508 --> 00:37:47,526
+Webb go up against Null? No. Morbius? No. Craven?
+Absolutely not. I'd watch it. Shut up. Let's
+
+428
+00:37:47,546 --> 00:37:49,029
+go ahead and move into our story highlights.
+
+429
+00:37:56,366 --> 00:38:02,052
+where fantasies collide and heroes clash, One
+Podcast Network rises above the rest. Prepare
+
+430
+00:38:02,072 --> 00:38:07,798
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+431
+00:38:07,858 --> 00:38:13,604
+Dynomic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+432
+00:38:13,624 --> 00:38:19,313
+Dynamic Dynomic Podcast Network. Comic Book
+Titans smash every Tuesday. Max Destruction,
+
+433
+00:38:19,714 --> 00:38:25,700
+where TV and action heroes battle every Wednesday.
+And Sendro World, where anime champions clash
+
+434
+00:38:25,820 --> 00:38:31,465
+every Thursday. Join us as we speculate on the
+matches and armed with the power of mathematical
+
+435
+00:38:31,505 --> 00:38:37,832
+simulations, discover who will emerge victorious.
+Visit dynamicpodcast.com, where we settle the
+
+436
+00:38:37,872 --> 00:38:39,313
+debate and settle the score.
+
+437
+00:38:43,646 --> 00:38:48,087
+The movie starts as we see Null, the eldritch
+god of darkness and creator of the symbiotes,
+
+438
+00:38:48,527 --> 00:38:53,989
+imprisoned on Klintar by the beings he created.
+Looking for the codex key that will free him,
+
+439
+00:38:54,349 --> 00:38:59,511
+he creates the xenophages, symbiote hunters,
+and sends them out into the cosmos to find
+
+440
+00:38:59,551 --> 00:39:06,613
+the codex. So right when I heard the word codex
+I was like, oh, okay, like Man of Steel, gotcha.
+
+441
+00:39:08,138 --> 00:39:12,980
+No, this is entirely different. The Codex is
+actually from the King and Black storyline,
+
+442
+00:39:13,580 --> 00:39:20,003
+except there the Codex was this basically Matrix
+hive mind that the Klyntar alien race shared
+
+443
+00:39:20,283 --> 00:39:26,125
+and Eddie Brock got lost in it. But here they
+kind of reworked the Codex so that it's an
+
+444
+00:39:26,265 --> 00:39:32,028
+actual key that forms when Asymbo resurrects
+its host. And what did you think of that? That
+
+445
+00:39:32,068 --> 00:39:36,670
+change that they made? I think it worked for
+the story that they were telling here. I did
+
+446
+00:39:36,710 --> 00:39:42,914
+like how the codex was represented by that red
+spiral, which is basically the symbol of Null,
+
+447
+00:39:43,175 --> 00:39:47,778
+and it shows up on the faces of the symbiotes
+that he is in control of. So that was kind
+
+448
+00:39:47,818 --> 00:39:53,862
+of like a nice Easter egg. In Mexico, Eddie
+Brock and Venom learn about the MCU 616 universe
+
+449
+00:39:53,902 --> 00:39:59,366
+before being pulled back into their home dimension
+to a similar bar. There they learn from TV
+
+450
+00:39:59,406 --> 00:40:03,349
+news that Eddie is wanted for the alleged murder
+of Detective Patrick Mulligan from the last
+
+451
+00:40:03,369 --> 00:40:07,839
+movie. and Eddie decides they should get to
+New York to blackmail a judge into giving them
+
+452
+00:40:07,959 --> 00:40:13,162
+amnesty. They leave the bar and stumble upon
+a dog fighting pit where they fight and devour
+
+453
+00:40:13,202 --> 00:40:19,084
+the dog fighters. Venom and Eddie are caught
+in Mexico on camera alerting Imperium, a government
+
+454
+00:40:19,144 --> 00:40:24,487
+operation working out of a secret base below
+Area 51. The cocktail scene was pretty funny
+
+455
+00:40:24,887 --> 00:40:30,289
+with Venom singing tequila as he's making Eddie
+a margarita. I thought that was pretty funny.
+
+456
+00:40:30,954 --> 00:40:36,576
+But it just made me think as Eddie got transported
+to his home dimension bar that the Sony Venom
+
+457
+00:40:36,736 --> 00:40:42,118
+universes seems like a slightly more sucky version
+of other Marvel universes. Like this universe's
+
+458
+00:40:42,138 --> 00:40:46,741
+version of the bartender is just like a down
+and out version of the MCUs. This universe's
+
+459
+00:40:46,781 --> 00:40:52,683
+version of Baron Mordo is just an army guy named
+Rex. This universe's version of Kurt Connors,
+
+460
+00:40:52,703 --> 00:40:56,425
+the Lizard, is just some dirty hippie named
+Martin. Like everything's kind of similar,
+
+461
+00:40:56,505 --> 00:41:02,336
+but vaguely more shitty. Well, Kurt Connors
+wasn't even the MCU version in the No Way Home
+
+462
+00:41:02,396 --> 00:41:09,221
+film. Technically, he was from a different universe.
+But we've never seen the MCU's version of Kurt
+
+463
+00:41:09,241 --> 00:41:14,284
+Connors. He may be played by re-siphons still.
+I don't know. Who knows? That's true. That's
+
+464
+00:41:14,324 --> 00:41:19,048
+fair. But you're right. Yeah, I guess this is
+like the suckiest Marvel universe ever. It
+
+465
+00:41:19,068 --> 00:41:23,891
+just kind of killed me how much they dropped
+the ball on Eddie Brock's whole cameo appearance
+
+466
+00:41:24,051 --> 00:41:31,628
+in No Way Home. Like that didn't amount to squat.
+No, it didn't. It was basically just that,
+
+467
+00:41:31,708 --> 00:41:38,993
+a cameo. Superlinks. With no real major implications,
+except that Venom did shed in the MCU. He did
+
+468
+00:41:39,033 --> 00:41:43,276
+leave like a shedded piece of himself, just
+like he did in this movie. A shedded piece?
+
+469
+00:41:43,897 --> 00:41:48,780
+Shedded piece. Oh, okay. What did you think
+of the dogfight scene? That was cool. I actually
+
+470
+00:41:48,800 --> 00:41:53,443
+really liked that scene. I thought it was a
+great opening action scene for the movie. I
+
+471
+00:41:53,463 --> 00:42:00,745
+left my ass off when Eddie Brock threw his slipper.
+at one of the bad guys. The croc? Yeah. Like
+
+472
+00:42:00,765 --> 00:42:04,508
+a chancla. And he spent basically the whole
+movie looking for another pair of shoes because
+
+473
+00:42:05,008 --> 00:42:09,652
+he kept losing them. Imperium's commander Rex
+Strickland visits the Mexico bar to obtain
+
+474
+00:42:09,692 --> 00:42:14,936
+a venom sample left there and detain the bartender
+for questioning. They're brought to Area 51
+
+475
+00:42:14,956 --> 00:42:17,418
+which is being decommissioned where Commander
+Strickland and
+
+476
+00:42:21,922 --> 00:42:26,204
+who is being held at the Imperium facility due
+to his life being saved via bonding with a
+
+477
+00:42:26,264 --> 00:42:30,807
+symbiote. Mulligan's symbiote, which had arrived
+on Earth with a handful of others on a meteor
+
+478
+00:42:30,827 --> 00:42:35,650
+that crashed at Area 51 and was being studied
+there, explains to Commander Strickland and
+
+479
+00:42:35,770 --> 00:42:40,813
+Dr. Payne that they came to Earth looking for
+a safe haven while fleeing their creator Null
+
+480
+00:42:41,053 --> 00:42:47,337
+and his xenophage hunters. I do have to ask,
+why did they need to take the bartender? For
+
+481
+00:42:47,377 --> 00:42:52,509
+questioning. They wanted to learn more about
+where Venom might be going. And yeah, so they're
+
+482
+00:42:52,689 --> 00:42:56,232
+going to interrogate him. Do you really think
+he was worth an after credit scene? Because
+
+483
+00:42:56,853 --> 00:43:01,777
+I can't believe I stayed for that. I think he
+was brought in for the after credit scene as
+
+484
+00:43:01,817 --> 00:43:07,641
+a reminder to the audience that while Venom
+was at the bar, he did leave a shedded piece
+
+485
+00:43:07,681 --> 00:43:13,246
+of himself. And I think that's what their insinuating
+head bonded with the cockroach that was there
+
+486
+00:43:13,746 --> 00:43:19,270
+and then interacted with the vial containing
+the agony symbiote. Like the spark from that
+
+487
+00:43:19,290 --> 00:43:25,772
+container, I think, kind of signified a sort
+of like CPR effect on that Venom sample. So
+
+488
+00:43:25,792 --> 00:43:31,273
+you're saying that there's a way for Eddie to
+get Venom back. Correct. OK, I did not make
+
+489
+00:43:31,293 --> 00:43:35,854
+that connection. In that case, I guess that
+was an important scene. What did you think
+
+490
+00:43:35,874 --> 00:43:42,336
+was the point of that whole after credit scene?
+I have no clue, dude. I had no clue. All right.
+
+491
+00:43:42,376 --> 00:43:46,077
+Meanwhile, Eddie and Venom hitch a ride on the
+outside of a commercial airplane flying to
+
+492
+00:43:46,117 --> 00:43:50,867
+New York. but they're discovered by a xenophage
+who attacks them and forces the pair to leap
+
+493
+00:43:50,927 --> 00:43:55,850
+off the plane, landing in the Mojave Desert.
+There, Venom explains that when a symbiote
+
+494
+00:43:55,910 --> 00:44:00,072
+resurrects its host, like what Venom did to
+Eddie during their fight against Riot, that
+
+495
+00:44:00,092 --> 00:44:04,834
+a codex is formed that is the key to unlocking
+Gnull from his prison. Venom states that the
+
+496
+00:44:04,894 --> 00:44:09,457
+xenophage can track that codex when the symbiote
+takes over the host, and therefore Venom has
+
+497
+00:44:09,477 --> 00:44:14,475
+to avoid taking over Eddie. He instead takes
+over a horse to get him and Eddie across the
+
+498
+00:44:14,516 --> 00:44:19,499
+desert. Regarding the codex, it makes you think
+that a symbiote would avoid ever resurrecting
+
+499
+00:44:19,559 --> 00:44:24,382
+its host because it knows the consequences would
+be forming the codex. But I think that just
+
+500
+00:44:24,402 --> 00:44:29,085
+speaks to Venom and Eddie's relationship and
+that Venom actually cared enough about Eddie
+
+501
+00:44:29,125 --> 00:44:35,209
+to resurrect him and risk the formation of that
+codex. Right, right. Reports of the airplane
+
+502
+00:44:35,229 --> 00:44:39,232
+attack reach Imperium and Commander Strickland
+sends a squad out to the desert where they
+
+503
+00:44:39,272 --> 00:44:43,583
+find and chase Venom and Eddie through a river.
+The fight forces Venom to take over Eddie,
+
+504
+00:44:43,683 --> 00:44:48,225
+which draws in the Xenophage, who makes short
+work of the Imperium forces, letting Eddie
+
+505
+00:44:48,245 --> 00:44:53,608
+and Venom escape. Back at Area 51, Mulligan's
+symbiote explains that unless either Venom
+
+506
+00:44:53,648 --> 00:44:59,732
+or Eddie die and the Codex is broken, the Xenophage
+will obtain the Codex and release Null, leading
+
+507
+00:44:59,772 --> 00:45:04,895
+to the death of all living beings in the universe.
+Fantastic stakes, as I've mentioned before.
+
+508
+00:45:05,135 --> 00:45:10,510
+I'm really wondering that if Null actually does
+get released in a future Sony Spider-Man Universe
+
+509
+00:45:10,530 --> 00:45:16,253
+movie how these characters would ever stand
+a chance against him because the guy is basically
+
+510
+00:45:16,294 --> 00:45:21,637
+all powerful. You know Morbius ain't gonna do
+shit against him. Neither is Madame Web or
+
+511
+00:45:21,717 --> 00:45:26,920
+Spider-Man or Venom or all of them teamed up
+for that matter. Cravin. Back to the movie
+
+512
+00:45:27,020 --> 00:45:31,623
+Eddie and Venom stumble upon Martin Moon, an
+alien enthusiast and his family who are on
+
+513
+00:45:31,663 --> 00:45:37,119
+their way to visit Area 51 before it's fully
+decommissioned. hopes to see an extraterrestrial,
+
+514
+00:45:37,279 --> 00:45:41,881
+and they offer to give Eddie a ride to Las Vegas
+in their camper. Arriving at the Paris Casino,
+
+515
+00:45:42,301 --> 00:45:47,984
+Eddie and Venom run into Ms. Chen, who has struck
+it rich gambling. She and Venom share a dance,
+
+516
+00:45:48,465 --> 00:45:53,247
+but they're ambushed by Imperium's forces who
+located Eddie and Venom's location via security
+
+517
+00:45:53,267 --> 00:45:59,731
+cameras. They separate Venom and Eddie, bringing
+them to the Area 51 base. I thought the gambling
+
+518
+00:45:59,751 --> 00:46:06,006
+scene was pretty funny. If you've ever played
+a slot machine, you'll know but it is really
+
+519
+00:46:06,066 --> 00:46:11,109
+fun to pull that lever in a way that is probably
+unhealthy. Well, nowadays, all you have to
+
+520
+00:46:11,129 --> 00:46:14,611
+do is push a button. You don't even need to
+pull the lever. But why would you? I like to
+
+521
+00:46:14,631 --> 00:46:18,774
+pull the lever though. Best part. What did you
+think of the dancing scene? On one hand, you
+
+522
+00:46:18,854 --> 00:46:24,577
+really hate to see a character like Venom dance
+to ABBA. On the other hand, it was kind of
+
+523
+00:46:24,617 --> 00:46:28,740
+funny. It was more funny than I thought it would
+be, especially when Eddie was like, what did
+
+524
+00:46:28,760 --> 00:46:36,003
+you guys have time to rehearse this? That was
+great. Yeah, but it does make me wonder, like,
+
+525
+00:46:36,443 --> 00:46:41,264
+was Mrs. Chen reintroduced in this film just
+so they could have this dance scene? I think
+
+526
+00:46:41,324 --> 00:46:45,845
+Miss Chen was a popular enough character from
+the previous two films. I mean, she even showed
+
+527
+00:46:45,885 --> 00:46:50,607
+up in the Spider-Verse movie, speaking to the
+spot. So I think she's just kind of become
+
+528
+00:46:50,627 --> 00:46:54,648
+a staple of the franchise. And I think she'd
+be sorely missed if she wasn't in one of these
+
+529
+00:46:54,688 --> 00:46:59,069
+films. Well, that's right. I forgot the character
+was in that movie. Yeah, I guess she is a staple
+
+530
+00:46:59,109 --> 00:47:06,508
+now. I guess we'll see her in Craven next. At
+the Imperium base, Eddie meets Mulligan's symbiote
+
+531
+00:47:06,568 --> 00:47:11,811
+who tells him to free Imperium's captured symbiotes.
+Commander Strickland shoots Eddie in an attempt
+
+532
+00:47:11,871 --> 00:47:16,674
+to destroy the Codex, however Imperium scientist
+Sadie Christmas, who had bonded with Venom
+
+533
+00:47:16,714 --> 00:47:22,037
+in order to save him, delivers Venom back to
+Eddie. Venom and Eddie's reunion alerts the
+
+534
+00:47:22,097 --> 00:47:27,440
+Xenophage to their location, who attacks the
+Imperium base forcing several of their soldiers
+
+535
+00:47:27,460 --> 00:47:32,838
+and scientists to bond with the captured symbiotes.
+who unite to attack the creature. Eddie and
+
+536
+00:47:32,878 --> 00:47:38,600
+Venom try to flee as the xenophage sends a signal
+to Null to send more creatures and the symbiotes
+
+537
+00:47:38,740 --> 00:47:43,741
+are overpowered. Who was your favorite symbiote
+out of the group? Still Venom. I liked the
+
+538
+00:47:43,801 --> 00:47:48,203
+orange rocky looking one. I also liked the fire
+one, although I don't really think that makes
+
+539
+00:47:48,263 --> 00:47:53,564
+sense. You could say that purified symbiotes
+no longer have the weakness to sonics and fire,
+
+540
+00:47:53,864 --> 00:47:59,506
+but it just doesn't ring true, I think, to have
+a symbiote with lava powers. That being said,
+
+541
+00:47:59,546 --> 00:48:05,249
+it was a cool visual, especially when the Xenophage
+ate the Assymbia and shot flames from the back
+
+542
+00:48:05,269 --> 00:48:12,313
+of its head. That's a spicy meatball. I am really
+confused as to why Dr. Christmas bonded with
+
+543
+00:48:12,393 --> 00:48:17,455
+Venom. You said it was to save Eddie, but she
+didn't know that was going to happen. And why
+
+544
+00:48:17,475 --> 00:48:21,397
+would she want to save Eddie considering the
+fact that she knew the stakes if they were
+
+545
+00:48:21,417 --> 00:48:27,725
+to re-bond? I think she knew that either Venom
+or Eddie was going to die there and she felt
+
+546
+00:48:27,805 --> 00:48:32,429
+bad about it. It almost seems to me like she
+was just trying to straight up steal a symbiote.
+
+547
+00:48:32,929 --> 00:48:36,832
+I don't think so considering she gave it to
+Eddie Brock right away. It was interesting
+
+548
+00:48:36,872 --> 00:48:40,975
+how some of the symbiotes were like elemental,
+that you had, you know, your rocky symbiote,
+
+549
+00:48:41,295 --> 00:48:47,479
+your fiery symbiote, your electrical symbiote.
+Right, vine symbiote. Yeah, which is not really
+
+550
+00:48:47,499 --> 00:48:51,122
+something from the comic books, but I actually
+really like that as a concept. Venom would
+
+551
+00:48:51,142 --> 00:48:58,365
+just be like the dark ink symbiote, oil symbiote.
+Yeah. Is it just me or are the moon parents
+
+552
+00:48:58,505 --> 00:49:03,767
+the worst parents in the history of parenting?
+And I feel like there are real parents like
+
+553
+00:49:03,787 --> 00:49:08,909
+that too, which is wild. Let's sneak onto this
+military base where we could potentially, you
+
+554
+00:49:08,929 --> 00:49:14,411
+know, get shot and bring our kids with us who
+can also, you know, get shot. There's no aliens
+
+555
+00:49:14,451 --> 00:49:20,798
+here kids. That's unfortunate because I really
+wanted us to be attacked by aliens. Venom and
+
+556
+00:49:20,838 --> 00:49:25,759
+Eddie realize that one of them has to die in
+order to stop the xenophages. Eddie accepts
+
+557
+00:49:25,779 --> 00:49:31,140
+his fate, but Venom separates himself to assimilate
+the xenophages and protect Eddie. Venom brings
+
+558
+00:49:31,160 --> 00:49:35,462
+the creatures to acid tanks used for destroying
+Area 51's equipment, and Commander Strickland
+
+559
+00:49:35,522 --> 00:49:41,023
+melts Venom and the creatures before destroying
+them and himself with a grenade. Eddie falls
+
+560
+00:49:41,083 --> 00:49:45,844
+unconscious before waking up in a military hospital
+alone, where he learns that he's been pardoned
+
+561
+00:49:45,904 --> 00:49:51,494
+of all charges as long as he keeps quiet about
+Area 51 and the and he travels to New York
+
+562
+00:49:51,534 --> 00:49:57,359
+City where he visits the Statue of Liberty while
+remembering venom. Um, how powerful was the
+
+563
+00:49:57,399 --> 00:50:02,984
+grenade that Commander Strickland used? Because
+holy shit, not only did that destroy himself
+
+564
+00:50:03,184 --> 00:50:08,308
+and Venom and the Xenophages, but it was also
+like a massive ass almost nuclear explosion
+
+565
+00:50:08,328 --> 00:50:13,933
+that rained down fire across a massive radius.
+From one grenade, like was the acid combustible
+
+566
+00:50:13,993 --> 00:50:19,557
+or something? That's what I was thinking, like
+it was flammable acid somehow. I have no idea.
+
+567
+00:50:20,098 --> 00:50:26,860
+There's gasoline in that acid, right? The whole
+acid thing just throws me like right when I
+
+568
+00:50:26,960 --> 00:50:30,982
+saw that scene, I was like, OK, that's going
+to be used somehow later. I'm pretty sure.
+
+569
+00:50:31,462 --> 00:50:37,385
+But like, why were they dissolving things with
+fucking acid? Makes no sense to me. That's
+
+570
+00:50:37,405 --> 00:50:41,566
+a great question. I don't have the answer for
+you. It doesn't make sense. But it was kind
+
+571
+00:50:41,586 --> 00:50:47,549
+of a cinematic way for venom to go out, you
+know. Sure. Did you think that Eddie was going
+
+572
+00:50:47,569 --> 00:50:53,665
+to die when he was in the helicopter? just kind
+of like bleeding out. I wasn't sure which one
+
+573
+00:50:53,706 --> 00:50:57,729
+of them was gonna die, but when Venom healed
+Eddie at that point, I realized that Venom
+
+574
+00:50:57,769 --> 00:51:02,594
+was gonna be the one to sacrifice himself. In
+a mid-credits scene, Null threatens the universe,
+
+575
+00:51:03,134 --> 00:51:07,979
+and in an after credits scene, we see the Mexican
+bartender leave the destroyed Imperium base,
+
+576
+00:51:08,119 --> 00:51:12,863
+along with a Venom symbiote-infested cockroach
+that walks near the broken bile that contained
+
+577
+00:51:13,024 --> 00:51:17,467
+agony, which gives him an electric shock. What
+did you think of the mid-credits scene? It
+
+578
+00:51:17,487 --> 00:51:22,449
+was pretty simple. It was basically just Null
+saying that he's gonna burn everything and
+
+579
+00:51:22,609 --> 00:51:27,812
+you're gonna watch. I thought it was appropriately
+scary, but it also just served as a reminder
+
+580
+00:51:27,852 --> 00:51:33,495
+that we didn't get to see Null, really. Like,
+the guy was in shadows the whole time, we didn't
+
+581
+00:51:33,515 --> 00:51:37,878
+get to see him fight or see what he does. Like,
+he's scary, but why should I be afraid of him?
+
+582
+00:51:38,318 --> 00:51:42,380
+Well, I certainly was afraid of him. Maybe that's
+just because I know him from the comic books,
+
+583
+00:51:42,860 --> 00:51:47,339
+so I know how big of a threat he is. but I don't
+know how general audiences would feel about
+
+584
+00:51:47,379 --> 00:51:51,663
+the character. They're probably less afraid
+than they should be, is my guess. Because that
+
+585
+00:51:51,683 --> 00:51:56,527
+dude's no joke. It was his sword, after all,
+that Gorr the God Butcher got a hold of, you
+
+586
+00:51:56,547 --> 00:52:01,431
+know, and he laid waste to a whole pantheon
+of gods, so you can just imagine what Null
+
+587
+00:52:01,451 --> 00:52:07,175
+himself can do. Well, it would be nice if they
+made that reference, although the MCU kind
+
+588
+00:52:07,215 --> 00:52:13,140
+of ruined that too. Yeah, yeah, Gorr the God
+Butcher in Thor, Living Thunder was not quite
+
+589
+00:52:13,180 --> 00:52:18,831
+the same character, But that's the end of the
+film. Overall, I enjoyed the movie, basically
+
+590
+00:52:18,851 --> 00:52:25,453
+about as much as the first Venom film. I think
+Venom the Last Dance offers a heartfelt farewell
+
+591
+00:52:25,493 --> 00:52:31,475
+to the franchise, while unexpectedly breathing
+new life into it, resulting in an uneven but
+
+592
+00:52:31,555 --> 00:52:36,316
+mostly enjoyable experience. Like the first
+Venom movie, I'm rating Venom the Last Dance
+
+593
+00:52:36,396 --> 00:52:43,323
+3.5 stars, a fresh rating on Rotten Tomatoes.
+I think I would have given it a 3, although
+
+594
+00:52:43,363 --> 00:52:48,968
+I could see how you could argue for 3 and a
+half. Just given the hearts of the film, I
+
+595
+00:52:49,008 --> 00:52:55,935
+think that goes a long way. It was definitely
+a heartfelt goodbye at the very end, so walking
+
+596
+00:52:55,975 --> 00:53:01,480
+out of the theater I could see 3 and a half.
+I don't think it was a good movie. I think
+
+597
+00:53:01,520 --> 00:53:06,885
+the acting was fine, but I think the writing
+was just the bare minimum of what mediocre
+
+598
+00:53:06,925 --> 00:53:13,259
+writing should be. I thought the direction was
+probably the best of the franchise. So yeah,
+
+599
+00:53:13,659 --> 00:53:18,144
+I could see the case for three and a half stars.
+Story wise, it's a three star film, but then
+
+600
+00:53:18,184 --> 00:53:22,949
+you have that climax with the group of symbiotes
+fighting the xenophages and that bumps it up
+
+601
+00:53:22,969 --> 00:53:28,015
+a half star on its own. Because I just love
+that scene so much. But that does it for this
+
+602
+00:53:28,055 --> 00:53:35,208
+review guys. AG9K helped close this out. Thanks
+for listening to Dynamic Duel. Visit the show's
+
+603
+00:53:35,248 --> 00:53:41,152
+website at dynamicDuel.com and follow us on
+Instagram at dynamicDuelpodcast. You can support
+
+604
+00:53:41,172 --> 00:53:46,896
+the show on Patreon at patreon.com slash dynamicDuel
+and joining a tier that works for you, or by
+
+605
+00:53:46,956 --> 00:53:53,120
+rating and reviewing Dynamic Duel on Apple Podcasts,
+Spotify, Podchaser or on our website. Don't
+
+606
+00:53:53,140 --> 00:53:57,683
+forget to listen to the other shows in the DynaMic
+Podcast Network, including Max Destruction,
+
+607
+00:53:58,044 --> 00:54:04,163
+Senjou World and Console Combat. Our next episode,
+as we've mentioned several times during this
+
+608
+00:54:04,203 --> 00:54:09,187
+episode, we're going to have a duel as a tie
+into this review where we pit White Lantern
+
+609
+00:54:09,267 --> 00:54:14,410
+Kyle Rayner against Null. Yeah, I'm a huge Kyle
+Rayner fan. He was Green Lantern when I first
+
+610
+00:54:14,450 --> 00:54:20,414
+started reading comic books. So I'm super excited
+to showcase him finally. And I'm also glad
+
+611
+00:54:20,434 --> 00:54:24,457
+that I learned a lot more about Null in this
+episode because I really didn't know anything
+
+612
+00:54:24,477 --> 00:54:31,114
+about him. And I'm already plotting his demise,
+as it were. Spoiler alert, Null Fridge's. Kyle
+
+613
+00:54:31,154 --> 00:54:35,475
+Rayner in the next episode. So look forward
+to that. But that does it for this episode.
+
+614
+00:54:35,495 --> 00:54:39,796
+We want to give a big thanks to our executive
+producers, Ken Johnson, John Sturawski, Zachary
+
+615
+00:54:39,816 --> 00:54:44,617
+Hepburn, Dustin Belcombe, Mickey Mathangian,
+Brandon Estergard, Nathaniel Wagner, Levi Yeaton,
+
+616
+00:54:44,797 --> 00:54:50,859
+Austin Wisselowski, AJ Dunkerley, Scott Camacho,
+Gil Camacho, Adam Spies, Andrew Shunk, Dean
+
+617
+00:54:50,899 --> 00:54:57,361
+Maleski, Devin Davis, Joseph Kirstein, and Josh
+Leiner for helping make this podcast possible.
+
+618
+00:54:57,381 --> 00:55:02,577
+We'll talk to you guys next week. Up up and
+away, true believers. This is Major Tom to
+
+619
+00:55:02,617 --> 00:55:07,441
+ground control. I'm stepping through the door,
+and I'm floating in a most peculiar way. And
+
+620
+00:55:07,481 --> 00:55:08,942
+the stars look very different today.
+
