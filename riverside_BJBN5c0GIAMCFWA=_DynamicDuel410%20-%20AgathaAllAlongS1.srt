@@ -1,0 +1,3822 @@
+1
+00:00:00,950 --> 00:00:02,971
+This is a DynaMic Network podcast.
+
+2
+00:00:29,058 --> 00:00:34,142
+You have to pay for expedited shipping and no
+one wants that. Visit dynamicduel.com and navigate
+
+3
+00:00:34,162 --> 00:00:39,046
+to the store to see the sweater or visit the
+link in our show notes. Remember that 10% of
+
+4
+00:00:39,086 --> 00:00:43,169
+all proceeds in the months of November and December
+will go to Stand Up to Cancer. And don't forget
+
+5
+00:00:43,189 --> 00:00:48,874
+if you're a patron of ours, you get 15% off
+of our store for the months of November and
+
+6
+00:00:48,914 --> 00:00:53,758
+December. So support the show, support A Great
+Cause, and get yourself or your family the
+
+7
+00:00:53,798 --> 00:00:58,794
+coolest Dynamic Duel merch for the holidays
+this season. Not all heroes wear capes. Sometimes
+
+8
+00:00:58,814 --> 00:01:04,566
+they just buy really cool podcast merch. Again,
+visit dynamicduel.com and click the store button.
+
+9
+00:01:05,007 --> 00:01:05,648
+On with the show.
+
+10
+00:01:27,138 --> 00:01:31,740
+duel Podcast, a weekly show where we review
+superhero films and debate the superiority
+
+11
+00:01:31,780 --> 00:01:37,344
+between Marvel and DC by comparing their characters
+in stat-based battle simulations. I'm Johnny
+
+12
+00:01:37,384 --> 00:01:43,027
+DC. And I'm his twin brother, Marvelous Joe.
+And in this episode, we are reviewing season
+
+13
+00:01:43,207 --> 00:01:49,651
+one of Agatha, All Along. It's Marvel Television's
+latest Disney Plus exclusive series that I
+
+14
+00:01:49,731 --> 00:01:55,434
+did not think I was going to enjoy, but damn
+did I. Yet. It was really good, I can't wait
+
+15
+00:01:55,454 --> 00:01:58,877
+to talk about it later on this episode. Before
+that, we're gonna break down the latest comic
+
+16
+00:01:58,897 --> 00:02:03,180
+book movie news to come out this past week,
+of which we have two new trailers coming out
+
+17
+00:02:03,260 --> 00:02:08,784
+of Brazil's D23, and that was the Captain America
+Brave New World official trailer and the Thunderbolts
+
+18
+00:02:08,864 --> 00:02:14,868
+D23 special look. So basically, this is an all
+Marvel episode, this is in fact the third week
+
+19
+00:02:15,028 --> 00:02:21,573
+in which there is no DC news. So Jonathan, tell
+me, why are you still a DC fan? Not gonna lie,
+
+20
+00:02:21,613 --> 00:02:28,591
+it's pretty hard right now. Um, after the Joker
+just being so disappointed by that and not
+
+21
+00:02:28,611 --> 00:02:35,498
+really having too much to get excited for besides
+Superman legacy. I need something. I need something.
+
+22
+00:02:35,939 --> 00:02:40,083
+Well, we are going to be reviewing the Penguin
+next week. That's fair. People have said that's
+
+23
+00:02:40,123 --> 00:02:44,227
+really good. I haven't even watched a single
+episode of it, but I can't wait to. Now that
+
+24
+00:02:44,247 --> 00:02:48,684
+I finished Agatha all along, I could do that.
+As always guys, we list our segment times in
+
+25
+00:02:48,704 --> 00:02:52,129
+the episode description, so feel free to check
+out the show notes if you want to skip ahead
+
+26
+00:02:52,169 --> 00:02:57,436
+to a particular topic. Our artificially intelligent
+duel simulator AJ9K has a quick message for
+
+27
+00:02:57,476 --> 00:03:04,552
+our listeners, so listen up. Why hello there,
+do you want even more from this podcast? Then
+
+28
+00:03:04,592 --> 00:03:08,555
+become a part of the dynamic duel community
+on Patreon, where you can choose from three
+
+29
+00:03:08,575 --> 00:03:13,940
+tiers. The dynamic two-oh tier gives you access
+to our Discord chat server. The fantastic four
+
+30
+00:03:13,980 --> 00:03:18,303
+tier gives you two bonus episodes each month,
+and the X-Force tier makes you an executive
+
+31
+00:03:18,323 --> 00:03:23,668
+producer of this show. Lastly, the DynaMic
+Podcast Network tier lets you create your own
+
+32
+00:03:23,708 --> 00:03:28,672
+podcast using this Monte Carlo simulator. Johnny
+and Joe will help you develop your show, provide
+
+33
+00:03:28,712 --> 00:03:33,716
+graphic support and consultation, and get you
+simulation results. Pitch the twins your ideas
+
+34
+00:03:33,756 --> 00:03:39,941
+via email at dynamicduelpodcast at gmail.com.
+Check it out at patreon.com slash dynamicduel.
+
+35
+00:03:40,301 --> 00:03:47,227
+Pip pip cheerio. Thanks AJ9K and thanks to everyone
+who supports the podcast. Be sure to tune into
+
+36
+00:03:47,247 --> 00:03:51,891
+the other shows on the Dino Mike Podcast Network
+this week, including Max Destruction, which
+
+37
+00:03:51,971 --> 00:03:56,522
+pits your favorite action heroes from film and
+television against each other. This week, hosts
+
+38
+00:03:56,682 --> 00:04:02,667
+Scotty and Gilly are reviewing Who Framed Roger
+Rabbit. On the Senjo World podcast, host Zachary
+
+39
+00:04:02,707 --> 00:04:07,691
+Hepburn speculates on fights between fan favorite
+anime and manga characters. Zach is currently
+
+40
+00:04:07,811 --> 00:04:13,455
+abroad right now, so the show is momentarily
+on hiatus. On the Console Combat podcast, hosts
+
+41
+00:04:13,575 --> 00:04:18,619
+John and Dean simulate battles between popular
+video game characters. In yesterday's episode,
+
+42
+00:04:18,879 --> 00:04:24,695
+they find out who would win between Duke Nukem
+and Sirius Sam. Visit dynamicpodcasts.com or
+
+43
+00:04:24,735 --> 00:04:29,158
+click on the link in our show notes to listen
+to all the shows in the DynaMic Podcast Network.
+
+44
+00:04:29,518 --> 00:04:35,522
+But with that out of the way, quick to the No
+Prize! The No Prize is an award Marvel used
+
+45
+00:04:35,562 --> 00:04:40,506
+to give out to fans. Our version, the Dynamic
+Duel No Prize, is a digital award we post on
+
+46
+00:04:40,606 --> 00:04:45,289
+Instagram for the person that we feel gave the
+best answer to our question of the week. Last
+
+47
+00:04:45,329 --> 00:04:50,432
+week we asked you guys, out of Marvel Television's
+upcoming projects revealed in the sizzle reel
+
+48
+00:04:50,552 --> 00:04:54,567
+that was released a couple weeks ago, Which
+one gets you the most excited and why? And
+
+49
+00:04:54,587 --> 00:05:00,491
+this is coming off of the video that Marvel
+put out that showed their 2025 Marvel television
+
+50
+00:05:00,671 --> 00:05:05,475
+and Marvel animation projects. We got a total
+of two answers for this. It looks like you
+
+51
+00:05:05,495 --> 00:05:10,178
+guys are not very excited about what Marvel
+television has to offer. I don't think that's
+
+52
+00:05:10,198 --> 00:05:15,062
+the case. I think maybe it was just a boring
+question because people will be like, I'm obviously
+
+53
+00:05:15,102 --> 00:05:20,085
+excited for Daredevil. Like, obviously, like
+next question. So that's probably our bad,
+
+54
+00:05:20,185 --> 00:05:26,066
+but. We do have a no prize winner to announce.
+We did get an answer from Mason Thompson, but
+
+55
+00:05:26,146 --> 00:05:32,811
+it was not understandable due to the whispering,
+bro. So if you call us, make sure that we can
+
+56
+00:05:32,912 --> 00:05:36,334
+understand you if the whole thing's gonna be
+whispering. You don't have to keep us a secret,
+
+57
+00:05:36,374 --> 00:05:41,278
+it's fine, we're cool. Like people like us.
+The winner of this week's no prize goes to
+
+58
+00:05:41,739 --> 00:05:47,764
+CJ Craft, who said? Hey guys, CJ Craft here.
+Out of all the shit Marvel listed, I think
+
+59
+00:05:47,824 --> 00:05:52,157
+my favorite piece of shit has to be- Yeah, damn,
+see?
+
+60
+00:05:58,318 --> 00:06:03,127
+a chance to introduce even new characters that
+aren't in the comics that could become big
+
+61
+00:06:03,167 --> 00:06:03,928
+figures later.
+
+62
+00:06:06,978 --> 00:06:12,822
+Sorry about the shit jokes. I left out loud
+when I first listened to this message because
+
+63
+00:06:12,862 --> 00:06:16,185
+I had forgotten that I was like, out of all
+the shit that Marvel's putting out and you're
+
+64
+00:06:16,205 --> 00:06:23,331
+like, you're right, it is shit. But no, Eyes
+of Wakanda is something that we didn't really
+
+65
+00:06:23,451 --> 00:06:27,754
+get a good look at until the sizzle reel came
+out a couple of weeks ago that Marvel released.
+
+66
+00:06:28,295 --> 00:06:32,959
+And we had commented that it looks very unlike
+anything else that Marvel Studios has produced.
+
+67
+00:06:32,999 --> 00:06:37,610
+It doesn't look like, you know, the What If
+series or X-Men 97. It almost looks like a
+
+68
+00:06:37,830 --> 00:06:42,873
+Clone Wars style cartoon with that type of 3D
+character animation. It looks really fascinating,
+
+69
+00:06:42,913 --> 00:06:48,057
+especially the content of the show, which is
+going to give us a look at Black Panthers from
+
+70
+00:06:48,097 --> 00:06:54,080
+the past. Basically exploring Wakanda's rich
+history and mythology. Yeah, honestly, the
+
+71
+00:06:54,200 --> 00:07:00,264
+MCU I feel like has created a version of Wakanda
+that is cooler than anything I've ever personally
+
+72
+00:07:00,324 --> 00:07:04,674
+read in the comics. I'm not sure if you feel
+the same way. But it'll be cool to see how
+
+73
+00:07:04,714 --> 00:07:09,595
+that culture has evolved into what it is in
+the movies today. Yeah, Ryan Coogler and Marvel
+
+74
+00:07:09,635 --> 00:07:14,757
+Studios did such fantastic world building, both
+in the original Black Panther film and its
+
+75
+00:07:14,797 --> 00:07:20,519
+sequel, Wakanda Forever. So it's nice to be
+able to consistently revisit it, you know,
+
+76
+00:07:20,699 --> 00:07:25,660
+every few years. I think it's necessary just
+as this piece of modern pop culture mythology.
+
+77
+00:07:26,060 --> 00:07:29,581
+It's unfortunate that the show is only going
+to be four episodes, because I feel like we
+
+78
+00:07:29,601 --> 00:07:33,304
+could get a... a whole 10 episode series out
+of that, but it's only going to be four episodes
+
+79
+00:07:33,744 --> 00:07:36,687
+and I'm sure they're going to be fantastic.
+Do you think we'll get a chance to see more
+
+80
+00:07:36,707 --> 00:07:41,691
+of Namor? Ooh, that's a great question. I don't
+know. I know that we're going to see Iron Fist.
+
+81
+00:07:42,091 --> 00:07:47,555
+Not the Danny Rand version, but like a historical
+version of the Kun Lun warrior. Oh man, please
+
+82
+00:07:47,595 --> 00:07:51,819
+tie that into Shang-Chi. In fact, if they want
+to include the Mandarin in there somewhere,
+
+83
+00:07:51,879 --> 00:07:56,350
+that'd be cool too. I'm totally fine with that.
+That would be totally awesome. The show comes
+
+84
+00:07:56,430 --> 00:08:01,556
+out on August 6th, so we have a ways to wait
+before we see it, but yeah, totally excited
+
+85
+00:08:01,596 --> 00:08:06,401
+for Eyes of Wakanda. So thanks CJ for calling
+in with that answer, and congrats on winning
+
+86
+00:08:06,421 --> 00:08:10,225
+this week's No Prize. If you the listener want
+a shot at winning your own No Prize, stay tuned
+
+87
+00:08:10,245 --> 00:08:14,630
+to later on this episode when we'll be asking
+another Question of the Week. And now that
+
+88
+00:08:14,650 --> 00:08:16,512
+that's done, on to the news!
+
+89
+00:08:21,974 --> 00:08:27,995
+Alright, last week was the big D23 Brazil event,
+which is a fan event held for fans down in
+
+90
+00:08:28,075 --> 00:08:33,637
+South America, and we got not only the official
+trailer for Captain America Brave New World,
+
+91
+00:08:33,677 --> 00:08:38,338
+but we also got like an extended scene and new
+trailer for the Thunderbolts film which was
+
+92
+00:08:38,358 --> 00:08:43,379
+called a D23 Brazil special look. They're both
+on YouTube if you want to go check them out
+
+93
+00:08:43,439 --> 00:08:47,381
+because I'm excited to talk about them. First
+off, the Captain America Brave New World trailer
+
+94
+00:08:47,641 --> 00:08:50,921
+was really cool, not for necessarily what it
+showed because I don't know if it showed it.
+
+95
+00:08:51,138 --> 00:08:56,200
+too many new surprises compared to what the
+teaser showed us. But I think stylistically,
+
+96
+00:08:56,240 --> 00:09:01,363
+this is one of the most interesting trailers
+that Marvel has ever put out. It is very different
+
+97
+00:09:01,463 --> 00:09:05,886
+from any other trailer that Marvel has ever
+done. You're right. It took itself very, very
+
+98
+00:09:05,926 --> 00:09:11,169
+seriously. Like there were no wisecracking jokes
+here. There is barely even any music. And I
+
+99
+00:09:11,209 --> 00:09:15,471
+actually really liked that about this trailer.
+Yeah, there were like a lot of ticking clocks
+
+100
+00:09:15,511 --> 00:09:19,762
+and stuff like that. Just really ratcheting
+up the tension. It is a tense trailer. I wonder
+
+101
+00:09:19,782 --> 00:09:24,344
+if the movie is actually going to be as tense
+as this preview is portraying it, but like
+
+102
+00:09:24,384 --> 00:09:28,665
+we didn't get like the standard Marvel Studios
+branding or anything. It was just white on
+
+103
+00:09:28,685 --> 00:09:33,327
+black titles, which I thought was an interesting
+departure for any Marvel Studios film. They're
+
+104
+00:09:33,367 --> 00:09:37,669
+really trying to make it look like something
+unique here, something more akin to, you know,
+
+105
+00:09:37,829 --> 00:09:42,631
+the previous Captain America movies like Winter
+Soldier and Civil War, but like ratcheted up
+
+106
+00:09:42,671 --> 00:09:48,213
+to 11. Like, I feel like they're selling this
+as the end-all-be-all political action thriller.
+
+107
+00:09:48,674 --> 00:09:52,536
+Yeah, I noticed that about the branding as well.
+It actually caught me off guard as I was watching
+
+108
+00:09:52,636 --> 00:09:58,279
+the trailer. I was like, wait, that's not the
+Marvel font. What's going on here? They did
+
+109
+00:09:58,299 --> 00:10:03,182
+this, like interesting split screen effect for
+most of the trailer. We were getting two simultaneous
+
+110
+00:10:03,202 --> 00:10:07,164
+shots on the left hand side of the screen and
+the right hand side, which was an interesting
+
+111
+00:10:07,224 --> 00:10:13,988
+way to kind of keep diverting your attention.
+But it kind of gave me Hulk 2003 film vibes
+
+112
+00:10:14,108 --> 00:10:18,687
+for the split screen effect. But at least it
+made sense here. the way they did it. It wasn't
+
+113
+00:10:18,727 --> 00:10:23,691
+quite as clumsy as how that film did it back
+in the day. Well, I love that movie, so I'm
+
+114
+00:10:23,711 --> 00:10:28,135
+not complaining. I don't think that'll be in
+this movie. I think that's way too far of a
+
+115
+00:10:28,155 --> 00:10:33,520
+departure for Marvel's standard way of filming
+things. But I think as far as a trailer goes,
+
+116
+00:10:33,580 --> 00:10:38,244
+it's pretty innovative. There were quite a few
+major action shots that were shown here that
+
+117
+00:10:38,264 --> 00:10:43,249
+we haven't seen elsewhere. One of them was a
+little bit weird because it was Sam Wilson's
+
+118
+00:10:43,289 --> 00:10:48,040
+Captain America. landing among a group of enemy
+soldiers, like really, really fast, like fast
+
+119
+00:10:48,060 --> 00:10:51,622
+enough to break his legs. And then all of a
+sudden, you know, the sonic boom from his landing
+
+120
+00:10:52,063 --> 00:10:57,346
+knocks them all back. Now, I can understand
+Sam flying fast enough to breach the sound
+
+121
+00:10:57,386 --> 00:11:01,129
+barrier. But what I can't understand is him
+basically crashing into the ground at that
+
+122
+00:11:01,189 --> 00:11:05,832
+speed and just being fine with it in the same
+way that Iron Man would. Iron Man, at least
+
+123
+00:11:05,852 --> 00:11:10,735
+you can rationalize that his armor has some
+kind of like inertial dampener to protect him.
+
+124
+00:11:11,216 --> 00:11:16,239
+But it's hard to make that same rationalization
+for Captain America who's not wearing the same
+
+125
+00:11:16,359 --> 00:11:19,901
+armor. Right, yeah, he'd have to be wearing
+like Vibranium boots or something like that,
+
+126
+00:11:19,921 --> 00:11:24,525
+which isn't outside the realm of possibility.
+I guess not, I mean, he does have Vibranium
+
+127
+00:11:24,585 --> 00:11:29,088
+wings that were gifted to him by Wakanda, which
+we saw in the Falcon and the Winter Soldier
+
+128
+00:11:29,128 --> 00:11:33,411
+television series. So you're right, it might
+not be out of the realm of possibility, it
+
+129
+00:11:33,451 --> 00:11:36,993
+was kind of a badass line where he lands and
+he looks at all the soldiers and he's like,
+
+130
+00:11:37,093 --> 00:11:41,857
+wait for it, and then the Sonic Boom comes.
+That was pretty cool. Sam does have some pretty
+
+131
+00:11:41,897 --> 00:11:46,363
+fantastic moments here. Especially when we see
+him in an aerial dogfight with a bunch of other
+
+132
+00:11:46,443 --> 00:11:50,406
+airplanes who fire missiles at him And he takes
+all the missiles out with his shield that was
+
+133
+00:11:50,446 --> 00:11:56,610
+really badass and of course at the end of the
+trailer we see him go up against Red Hulk and
+
+134
+00:11:57,030 --> 00:12:03,234
+Red Hulk freaking throws a flaming car at the
+guy and Sam does a flip over it and slices
+
+135
+00:12:03,254 --> 00:12:07,516
+the car in half with his wings. I got chills.
+That was awesome Yeah, I didn't realize his
+
+136
+00:12:07,576 --> 00:12:12,919
+wings were that sharp, but sure Sam's so cool
+with the wings, I think that's the main appeal
+
+137
+00:12:12,959 --> 00:12:17,902
+that I get from watching these trailers. I hope
+that the story is as compelling as they're
+
+138
+00:12:17,922 --> 00:12:22,724
+portraying it to be, but even if it doesn't
+quite live up to my high expectations already,
+
+139
+00:12:23,285 --> 00:12:28,527
+I know at least we're gonna get some really
+badass, quintessential, iconic Sam Wilson Captain
+
+140
+00:12:28,547 --> 00:12:32,990
+America action beats. The Captain America movies
+have always been pretty good, so I'm not worried
+
+141
+00:12:33,030 --> 00:12:36,392
+at all. I think this is gonna be really good.
+Well, we'll find out in just a few months.
+
+142
+00:12:36,452 --> 00:12:43,363
+The movie comes out on February 14th, Valentine's
+Day. So, yeah, take your significant other
+
+143
+00:12:43,563 --> 00:12:48,586
+to go see Captain America and have a good time.
+Yeah, no one's going to do that. It's not a
+
+144
+00:12:48,626 --> 00:12:53,909
+date movie. It's totally a date movie. Is it,
+though? Every girl wants their guy to take
+
+145
+00:12:53,929 --> 00:13:00,773
+them to a Marvel Studios film. Trust me, bro.
+It's a sure thing if you do. No, it's the farthest
+
+146
+00:13:00,833 --> 00:13:06,756
+thing from that, actually. Like who's Sam's
+love interest in this? At least I know, man.
+
+147
+00:13:06,956 --> 00:13:12,300
+At least even Steve Rogers had a love interest.
+Maybe it's the Sabra chick, the Israeli fighter
+
+148
+00:13:12,341 --> 00:13:17,106
+that they kind of retconned into being a member
+of the Red Room program in the film. Maybe,
+
+149
+00:13:17,126 --> 00:13:21,971
+I don't know. Those two probably hook up in
+the film, I bet you. Anyway, with that said,
+
+150
+00:13:22,011 --> 00:13:23,773
+that brings us to our question of the week.
+
+151
+00:13:28,362 --> 00:13:33,546
+What would you say is the best Marvel or DC
+film to watch on Valentine's Day with your
+
+152
+00:13:33,566 --> 00:13:37,629
+significant other and why? And I'm not talking
+about like new releases that come out in the
+
+153
+00:13:37,669 --> 00:13:42,013
+theaters. I'm talking about like you and your
+SO are like sitting on the couch. You pop in
+
+154
+00:13:42,053 --> 00:13:47,457
+a Marvel or DC movie on Valentine's Day. What
+is it and why? Record your answer at dynamicduel.com
+
+155
+00:13:47,857 --> 00:13:51,220
+by clicking on the red microphone button in
+the bottom right hand corner of the screen,
+
+156
+00:13:51,560 --> 00:13:55,202
+which will prompt you to leave us a voicemail.
+Your message could be up to 30 seconds long
+
+157
+00:13:55,282 --> 00:13:59,403
+and don't forget to leave your name in case
+we include you on the podcast. We'll pick our
+
+158
+00:13:59,423 --> 00:14:03,784
+favorite answer and award that person a dynamic
+duel no prize that we'll post to Instagram.
+
+159
+00:14:04,125 --> 00:14:10,546
+Be sure to answer before November 16th. Moving
+on to the Thunderbolts D23 Brazil special look.
+
+160
+00:14:10,686 --> 00:14:15,688
+This was such a badass preview for the Thunderbolts
+movie. Just what I thought I couldn't be more
+
+161
+00:14:15,748 --> 00:14:22,306
+excited for the movie. We get this extended
+look at an action scene where The Thunderbolts
+
+162
+00:14:22,346 --> 00:14:27,629
+are riding in Red Guardian's limo, escaping
+from an armored convoy, and the Winter Soldier
+
+163
+00:14:27,649 --> 00:14:33,032
+shows up and basically just fucking annihilates
+the entire convoy in spectacular style, straight
+
+164
+00:14:33,092 --> 00:14:38,015
+out of like a Terminator movie. It is so damn
+cool. Even Red Guardian himself is like, oh,
+
+165
+00:14:38,035 --> 00:14:42,457
+it's the Winter Soldier. He's so cool. It looks
+hilarious. It looks action packed. I loved
+
+166
+00:14:42,537 --> 00:14:46,440
+everything about that scene. Yeah, I love how
+the Red limo they were driving was like Red
+
+167
+00:14:46,460 --> 00:14:51,822
+Guardian's own personal, like Red Guardian mobile.
+Yeah. I like how one of the defensive maneuver
+
+168
+00:14:51,862 --> 00:14:57,204
+switches he clicked on was basically just like
+mood lighting in the backseat with Genuine's
+
+169
+00:14:57,545 --> 00:15:01,286
+My Pony playing. That was actually a pretty
+good comedic beat. But there was some other
+
+170
+00:15:01,326 --> 00:15:07,029
+great music in this trailer. We got Possum Kingdom
+by the Toadies and that's following the previous
+
+171
+00:15:07,069 --> 00:15:11,951
+trailers whereas My Mind by the Pixies. So like
+Thunderbolts is just firing on all cylinders
+
+172
+00:15:11,971 --> 00:15:15,952
+when it comes to the music in these previews.
+I mean, are you surprised? Because like the
+
+173
+00:15:15,992 --> 00:15:21,887
+Suicide Squad films had amazing soundtracks.
+What does the Suicide Squad have shit to do
+
+174
+00:15:21,907 --> 00:15:27,030
+with shit? Again, this is basically Marvel's
+Suicide Squad, so I'm saying they're, you know,
+
+175
+00:15:27,090 --> 00:15:32,193
+trying to really live up to that. I think you're
+just way off base here, and I think you need
+
+176
+00:15:32,213 --> 00:15:37,136
+to shut your mouth about the Suicide Squad as
+it pertains to the Thunderbolts. Okay? Oh,
+
+177
+00:15:37,156 --> 00:15:39,057
+that's cute. You think you could tell me what
+to do.
+
+178
+00:15:42,639 --> 00:15:47,222
+As Possum Kingdom is playing, we get some cool
+beats, just basically showing the... quirky
+
+179
+00:15:47,282 --> 00:15:52,143
+attitude of the Thunderbolts cast of characters.
+I really like Yelena Belova. Like Florence
+
+180
+00:15:52,223 --> 00:15:58,105
+Pugh has really stood out as this truly hilarious
+deadpan character out of the Black Widow film.
+
+181
+00:15:58,385 --> 00:16:03,606
+Her Yelena is awesome. I just like how she could
+tell a character like the Contessa to eat shit,
+
+182
+00:16:03,806 --> 00:16:08,808
+you know? Just that delivery alone was perfection.
+Yeah, her deliveries and David Harbour's line
+
+183
+00:16:08,848 --> 00:16:14,249
+deliveries as the Red Guardian, also like perfect
+comedic timing. Actually, a lot of the cast
+
+184
+00:16:14,269 --> 00:16:20,011
+was pretty comedic, even John Walker. Which
+was surprising. Yeah. I really love when Red
+
+185
+00:16:20,051 --> 00:16:24,293
+Guardian asks Bucky, like, what kind of super
+soldier serum he got. He was like, I don't
+
+186
+00:16:24,313 --> 00:16:32,036
+know, the regular kind, the Hydra kind. And
+he's like, ooh, Hydra. So fancy. So good. Another
+
+187
+00:16:32,076 --> 00:16:38,519
+great gag from the trailers is how they're underselling
+the sentry by just calling him Bob and just
+
+188
+00:16:38,559 --> 00:16:43,541
+making him look like this regular guy who shows
+up wearing scrubs. You know, it's just so unassuming.
+
+189
+00:16:44,130 --> 00:16:50,172
+And I hope it's a surprise for a lot of audiences
+just how powerful he ends up being as the Sentry.
+
+190
+00:16:50,632 --> 00:16:54,614
+I don't know why, but for the first time in
+this trailer, I finally understood why people
+
+191
+00:16:54,654 --> 00:16:58,356
+are saying that this is actually going to be
+like the Avengers and that's the whole reason
+
+192
+00:16:58,396 --> 00:17:03,238
+for the asterisk. Because Yelena bought Avengers
+Tower, so she's probably making her own Avengers
+
+193
+00:17:03,278 --> 00:17:08,240
+team. So while she dubs them the Avengers, you
+know, Alexi is calling them something different.
+
+194
+00:17:08,680 --> 00:17:13,407
+Yeah, Red Guardian is calling them the Thunderbolts
+and he thinks it's a really cool name. No one
+
+195
+00:17:13,427 --> 00:17:17,836
+else thinks that though, which is also pretty
+damn funny. Really can't wait for this movie.
+
+196
+00:17:17,896 --> 00:17:22,565
+It comes out May 2nd, just a few months after
+Captain America Brave New World.
+
+197
+00:17:29,910 --> 00:17:33,254
+That does it for all the Marvel shit from this
+episode. Now let's go ahead and move on to
+
+198
+00:17:33,274 --> 00:17:39,322
+the main event, I guess, which is more Marvel
+shit. Our review of Marvel Television's Disney
+
+199
+00:17:39,342 --> 00:17:42,205
+Plus exclusive series, Agatha, all along.
+
+200
+00:17:57,614 --> 00:18:02,999
+Alright, Agatha All Along was created by Jack
+Schafer, the same creator behind WandaVision.
+
+201
+00:18:03,440 --> 00:18:09,727
+The show serves as a direct sequel to that 2021
+series and it stars Kathryn Hahn, Joe Locke,
+
+202
+00:18:09,907 --> 00:18:13,972
+and Aubrey Plaza. It was released around the
+Halloween season this year and I thought it
+
+203
+00:18:13,992 --> 00:18:19,257
+did a fantastic job continuing the spooky vibes
+established in Marvel's other Halloween projects.
+
+204
+00:18:19,646 --> 00:18:24,128
+like the Halloween episode of Wandavision, the
+Werewolf by Night special presentation, and
+
+205
+00:18:24,188 --> 00:18:29,750
+the upcoming Marvel Zombie show set to release
+around Halloween of 2025. Agatha all along
+
+206
+00:18:29,790 --> 00:18:35,613
+serves as a strong backstory for Agatha Harkness,
+as well as a strong introduction for Wiccan,
+
+207
+00:18:36,033 --> 00:18:41,435
+aka Billy Maximoff, an original member of the
+Young Avengers team. If you want to learn more
+
+208
+00:18:41,475 --> 00:18:46,197
+about either Agatha or Wiccan, feel free to
+listen to our duel episodes that feature those
+
+209
+00:18:46,237 --> 00:18:50,487
+characters. It's not necessary to know the comics
+backstories, but I do feel that you get more
+
+210
+00:18:50,547 --> 00:18:55,129
+out of these shows and films when you see how
+they compare to the source material. I will
+
+211
+00:18:55,169 --> 00:18:59,831
+say that Agatha all along has made the character
+Agatha more prominent and interesting character
+
+212
+00:18:59,851 --> 00:19:05,774
+than she ever was in the comics. And I really
+had a lot of fun with this series. I think
+
+213
+00:19:05,794 --> 00:19:10,255
+it was an even better show than it needed to
+be considering Agatha is a lesser character
+
+214
+00:19:10,296 --> 00:19:15,642
+from the books. And there are some like truly
+pause worthy twists in the show. in that the
+
+215
+00:19:15,662 --> 00:19:21,308
+twist happens and you pause it and you're like,
+what? And for those who haven't watched the
+
+216
+00:19:21,328 --> 00:19:26,132
+series, I got to say, don't spoil anything for
+yourself by continuing to listen to the spoiler
+
+217
+00:19:26,172 --> 00:19:31,197
+review. I recommend the show. Trust me, it's
+worth watching if you're even the slightest
+
+218
+00:19:31,217 --> 00:19:36,242
+bit interested in the MCU. So there's your spoiler
+warning. Yeah, the thing I like most about
+
+219
+00:19:36,282 --> 00:19:41,178
+this series actually is how unpredictable it
+was like. The show just gets better and better
+
+220
+00:19:41,238 --> 00:19:45,200
+as each episode progresses. And with all the
+twists and turns that end up being revealed
+
+221
+00:19:45,260 --> 00:19:50,522
+toward the end, it actually gives a pretty solid
+rewatchability factor. Yeah, yeah, the twists,
+
+222
+00:19:50,562 --> 00:19:54,784
+man. I mean, like WandaVision had some great
+twists, you know, like with the revelations
+
+223
+00:19:54,844 --> 00:20:00,027
+of what was happening to Westview, who Agnes
+was, things like that here. You know, there
+
+224
+00:20:00,047 --> 00:20:05,429
+were great twists involving Billy and who he
+was and what he could do with chaos magic,
+
+225
+00:20:05,449 --> 00:20:12,005
+apparently. But. I think the best twist that
+made my mouth hang open for a solid hour was
+
+226
+00:20:12,045 --> 00:20:17,688
+the revelation of what the Witch's Road actually
+was. We spent this entire show thinking it
+
+227
+00:20:17,708 --> 00:20:24,051
+was one thing, only to realize that it was just
+a song. Like a little children's song that
+
+228
+00:20:24,151 --> 00:20:29,354
+Agatha's son would sing to pass the time as
+they spent their lives as wanderers. It was
+
+229
+00:20:29,374 --> 00:20:36,058
+like the most innocent, pure, simple thing that
+in time became a legend. which in turn was
+
+230
+00:20:36,178 --> 00:20:41,440
+used for something so sinister, which in turn
+manifested into something so fantastic and
+
+231
+00:20:41,480 --> 00:20:46,702
+magical. I think the show's concept of the Witch's
+Road is cool, you know, like manifesting the
+
+232
+00:20:46,722 --> 00:20:52,144
+hero's journey as a sort of Wizard of Oz meets
+Cabin in the Woods type setting, but the show's
+
+233
+00:20:52,344 --> 00:20:57,182
+origin and evolution of the Witch's Road, I
+think- It was pure brilliance. Oh, that was
+
+234
+00:20:57,442 --> 00:21:03,205
+amazing. It was a fantastic reveal and it really
+endeared me to the character of Agatha Harkness.
+
+235
+00:21:03,385 --> 00:21:08,467
+Oh for sure, yeah. The twists though, they also
+come with some caveats. I think some of this
+
+236
+00:21:08,607 --> 00:21:13,950
+cleverness is also where the show stumbles.
+Like the idea of the road complete with its
+
+237
+00:21:14,030 --> 00:21:20,453
+lethal trials requiring complex potion making,
+spell casting, spiritual warfare, tarot reading,
+
+238
+00:21:20,953 --> 00:21:26,931
+and botanomancy? You know, that's a solid concept,
+right? They're all great challenges that require
+
+239
+00:21:27,011 --> 00:21:32,734
+skill and they have fatal consequences. So the
+stakes are there. But the road reconceived
+
+240
+00:21:32,794 --> 00:21:37,415
+as an accidental manifestation of chaos magic
+from a kid who's, you know, like a relative
+
+241
+00:21:37,455 --> 00:21:41,737
+newcomer to the world of witchcraft. That's
+a little bit harder to swallow. Like at one
+
+242
+00:21:41,757 --> 00:21:46,819
+point, Jennifer Kale, the witch played by Sashir
+Zamata, hallucinates that she's being drowned
+
+243
+00:21:46,879 --> 00:21:52,602
+by a doctor she used to work with. And when
+you look back on it, you're like, but. The
+
+244
+00:21:52,702 --> 00:21:57,186
+road isn't real, it's just Billy's manifestation.
+So that's kind of weird what's going on there.
+
+245
+00:21:57,546 --> 00:22:03,151
+Same thing goes for Alice seeing her mother
+kill herself. And I don't think the drama surrounding
+
+246
+00:22:03,191 --> 00:22:07,355
+the road would hold up to much scrutiny. Like
+don't think about it too hard, otherwise you'll
+
+247
+00:22:07,375 --> 00:22:13,821
+be like, wait. And I'm pretty sure any question
+regarding the road can be answered with, because
+
+248
+00:22:13,861 --> 00:22:18,705
+it's magic, stupid. But I'm not positive the
+show would do as well on a rewatch because
+
+249
+00:22:18,745 --> 00:22:23,127
+of that. There's bound to be, I think, some
+plot holes or more general weirdness derived
+
+250
+00:22:23,167 --> 00:22:28,410
+from some of these twists. I disagree. Because
+of the revelation that the whole thing was
+
+251
+00:22:28,470 --> 00:22:33,932
+created by Wiccan, because he's psychic. He
+could read people's minds. So it made sense
+
+252
+00:22:33,952 --> 00:22:39,235
+to me that the road was able to tap into that
+to learn people's greatest fears. So you think
+
+253
+00:22:39,275 --> 00:22:45,177
+that somehow Billy's subconscious was able to
+divine the correct manner of laying out a tarot
+
+254
+00:22:45,217 --> 00:22:50,349
+deck? Well, I think his subconscious created
+the entire thing. So absolutely. Sure. I mean,
+
+255
+00:22:50,750 --> 00:22:55,234
+yeah, again, I think that answer is in line
+with because it's magic. Stupid. I think it's
+
+256
+00:22:55,274 --> 00:23:00,098
+slightly better than that. Well, I'll have you
+rewatch the show then and then see if there's
+
+257
+00:23:00,158 --> 00:23:04,101
+any strangeness that comes out of the whole
+concept there. You don't know my life. Maybe
+
+258
+00:23:04,181 --> 00:23:08,725
+I will. Maybe I will rewatch it. Actually, I'm
+going to watch the penguins. I'm not. I do
+
+259
+00:23:08,745 --> 00:23:13,149
+plan on rewatching Agatha all along, probably
+next Halloween season, because my wife really
+
+260
+00:23:13,189 --> 00:23:18,033
+enjoyed it, too. I think one of the biggest
+appeals for me was the impression that I got
+
+261
+00:23:18,073 --> 00:23:23,477
+while watching it that everyone involved, from
+the cast, to the writers, to the set designers,
+
+262
+00:23:23,597 --> 00:23:29,182
+the wardrobe team, the musical team, they all
+just had a blast making it. The project really
+
+263
+00:23:29,202 --> 00:23:34,006
+seems like a director's dream, juggling these
+multifaceted characters, putting them on a
+
+264
+00:23:34,046 --> 00:23:38,950
+roller coaster journey, transforming the look
+of each trial with beautifully designed practical
+
+265
+00:23:38,990 --> 00:23:44,490
+sets and costumes and watching it all unfold.
+The show is varied. in a way that few other
+
+266
+00:23:44,530 --> 00:23:49,453
+Marvel projects can be. And I found myself transported
+in a way that can only really be described
+
+267
+00:23:49,513 --> 00:23:54,857
+as movie magic. Like forget that the show actually
+dealt with fantasy magic. I'm talking about
+
+268
+00:23:54,897 --> 00:24:00,380
+the transport of nature of well-made fun cinema.
+Oh, this thing was unbelievably well-made.
+
+269
+00:24:00,400 --> 00:24:06,064
+The cinematography, fantastic. Like it was movie
+quality. Yeah, especially when you're going
+
+270
+00:24:06,104 --> 00:24:11,072
+from settings like the opening scene. that's
+based off a crime drama. It felt like you were
+
+271
+00:24:11,092 --> 00:24:15,315
+watching an episode of The Killing as they stumble
+upon the body. And then, you know, you go to
+
+272
+00:24:15,655 --> 00:24:21,340
+like the little big lies type setting of the
+coastal home to the Friday the 13th style of
+
+273
+00:24:21,400 --> 00:24:26,344
+the cabin. I thought it was all fantastic. It
+does feel like a dream project. Yeah, absolutely.
+
+274
+00:24:26,364 --> 00:24:31,548
+There were more amazing shots in this series
+than there are in most Marvel movies, I would
+
+275
+00:24:31,588 --> 00:24:38,758
+say. I agree with you, but also try to be respectful.
+No, no, it will not be, I refuse. I have to
+
+276
+00:24:38,778 --> 00:24:43,239
+imagine that the show creator Jack Schaeffer
+was pleased with the end result of her vision,
+
+277
+00:24:43,639 --> 00:24:48,061
+which I think was more successfully executed
+here than in Wandavision, which I had some
+
+278
+00:24:48,161 --> 00:24:53,602
+frustrations with if you remember from that
+review. But Jack Schaeffer truly has a knack,
+
+279
+00:24:53,682 --> 00:24:59,924
+I'll say, for writing series that aren't bound
+to one style or genre. Like we saw in Wandavision,
+
+280
+00:24:59,964 --> 00:25:04,882
+where many of those episodes recreated classic
+sitcoms across the decades. And we saw it here
+
+281
+00:25:04,902 --> 00:25:09,464
+with Agatha all along with things like the opening
+scene, like I mentioned, or how the road would
+
+282
+00:25:09,504 --> 00:25:14,386
+manifest each trial as a new setting. In another
+comparison to WandaVision, Agatha all along,
+
+283
+00:25:14,426 --> 00:25:20,988
+I think, also did a great job of balancing these
+wide emotional turns, going from depressingly
+
+284
+00:25:21,048 --> 00:25:27,411
+sad scenes of loss and grief to horrific and
+unsettling moments to laugh out loud comedy.
+
+285
+00:25:27,851 --> 00:25:34,154
+It was just well balanced all around. Oh, 100%.
+Yeah, the story was just incredible. for this
+
+286
+00:25:34,194 --> 00:25:38,017
+series. I really, really enjoyed the story.
+I found it entertaining all the way through,
+
+287
+00:25:38,157 --> 00:25:46,283
+particularly with the escape room type challenges
+for each episode. That was so brilliant. Yeah,
+
+288
+00:25:46,404 --> 00:25:51,588
+it was fun to try to figure out what clues there
+were in the room and then seeing them solve
+
+289
+00:25:51,648 --> 00:25:56,952
+it and what they got to do. They felt just right
+in terms of difficulty level and the skill
+
+290
+00:25:56,972 --> 00:26:01,715
+that it would take to actually pass the trial.
+Yeah, and in regards to that, I also really
+
+291
+00:26:01,755 --> 00:26:07,039
+liked the lore that they developed for witches
+in this show. Like for there to be a protection
+
+292
+00:26:07,099 --> 00:26:11,023
+witch that, you know, is symbolized by fire
+and a potion witch that symbolized by water,
+
+293
+00:26:11,663 --> 00:26:16,587
+a divination witch that's symbolized by air
+and a green witch that's symbolized by, you
+
+294
+00:26:16,607 --> 00:26:22,712
+know, plants and stuff like that. Freaking is
+this like Avatar? This is cool. What did you
+
+295
+00:26:22,792 --> 00:26:26,910
+think of the actual song, The Ballad of the
+Witch's Road? It was cool. I liked the different
+
+296
+00:26:26,950 --> 00:26:33,515
+versions of it. It's catchy, as was Agatha Lalong
+in WandaVision. Yeah, I got to say, even now,
+
+297
+00:26:33,655 --> 00:26:40,920
+during this review in the back of my head, I'm
+thinking down, down the road, down the way.
+
+298
+00:26:40,960 --> 00:26:45,924
+It's just on repeat in my head. It's an earworm.
+I especially like the chant version, but, you
+
+299
+00:26:45,944 --> 00:26:50,107
+know, the rocking out protection spell version
+was also pretty good. That was pretty fucking
+
+300
+00:26:50,127 --> 00:26:54,746
+cheesy. Not going to lie. But I don't like it.
+It's fine. I liked it. I liked it because it
+
+301
+00:26:54,786 --> 00:26:59,229
+was a spell that they were casting. It was a
+song that served as a means of protection for
+
+302
+00:26:59,269 --> 00:27:04,092
+her daughter. I liked that other things were
+going on as they were just really cheesing
+
+303
+00:27:04,152 --> 00:27:09,036
+it up. You know, like that demon monster curse
+thing that was terrifying. Yeah, that was pretty
+
+304
+00:27:09,056 --> 00:27:13,759
+scary. And again, the lore behind that song
+and how that developed, like who did you say
+
+305
+00:27:13,779 --> 00:27:19,483
+wrote this? Jack Schaeffer. This Jack Schaeffer
+guy, he needs to do more Marvel stuff. Jack
+
+306
+00:27:19,503 --> 00:27:28,192
+Schaeffer is a chick, bro. Jacqueline. Oh, shit.
+But let's go ahead and talk about the characters
+
+307
+00:27:28,252 --> 00:27:33,076
+that she developed for the show in our character
+breakdown. Starting with Agatha Harkness, played
+
+308
+00:27:33,116 --> 00:27:38,661
+by Catherine Han. On the very first episode,
+I wasn't quite sure if Catherine Han was phoning
+
+309
+00:27:38,801 --> 00:27:43,605
+in a weak performance, or if she was a good
+enough actress to act like she was phoning
+
+310
+00:27:43,705 --> 00:27:47,248
+in a weak performance. And luckily, right when
+she broke out of her spell by the end of the
+
+311
+00:27:47,268 --> 00:27:53,040
+episode, I realized it was the latter. She was
+fantastic in the show and as Agatha, I think
+
+312
+00:27:53,060 --> 00:27:57,904
+she's been able to really showcase the full
+range of her acting prowess in tackling drama,
+
+313
+00:27:58,264 --> 00:28:03,788
+comedy, horror, action, like in her opening
+fight against Rio. And she can go from scenery
+
+314
+00:28:03,828 --> 00:28:10,133
+chewing rage to the subtleness, sadness in her
+eyes, to hysterical laughter. It's really a
+
+315
+00:28:10,313 --> 00:28:14,976
+beast of a role that I think any actress would
+cherish and I think Han nailed it in a way
+
+316
+00:28:15,317 --> 00:28:19,915
+that few other actors could. I will admit I
+did not actually care for her performance for
+
+317
+00:28:19,936 --> 00:28:25,860
+a majority of the series. I thought she was
+like hamming it up way more than any of the
+
+318
+00:28:25,980 --> 00:28:31,964
+other actors were. But in hindsight, that may
+just be because she was aware of more of what
+
+319
+00:28:32,004 --> 00:28:36,967
+was going on than other actors were. So she
+was trying to play along with them as it were.
+
+320
+00:28:37,447 --> 00:28:42,771
+Yeah, totally. From the get-go, she realized
+that this was a sham manifestation basically.
+
+321
+00:28:42,911 --> 00:28:47,770
+So I think all of the information definitely
+informed her performance. I am convinced that
+
+322
+00:28:47,790 --> 00:28:51,954
+she's going to get Emmy nominated again for
+this role just like she did in Wandavision.
+
+323
+00:28:52,654 --> 00:28:58,079
+I would not be surprised if that happened. Agatha's
+journey in this show was mostly about her acquisition
+
+324
+00:28:58,099 --> 00:29:03,123
+of power as it has been for centuries. You know,
+she started out in the 17th century as a young
+
+325
+00:29:03,183 --> 00:29:08,348
+witch studying black magic for which her mom's
+coven tried to kill her. And she went down
+
+326
+00:29:08,388 --> 00:29:14,393
+this really dark path, even apparently communing
+with the entity of death, which seems pretty
+
+327
+00:29:14,453 --> 00:29:19,316
+damn dark. But her emotional arc really began
+with the birth and death of her son Nicholas,
+
+328
+00:29:19,656 --> 00:29:24,079
+who awakened this caring side of Agatha that
+she had never really experienced before, a
+
+329
+00:29:24,139 --> 00:29:30,544
+side that was just utterly decimated when her
+son passed away tragically by her side. From
+
+330
+00:29:30,624 --> 00:29:36,988
+there, we saw her choose to live only for herself,
+reverting to her main aim of amassing power
+
+331
+00:29:37,088 --> 00:29:42,472
+and studying dark magic. She even acquired the
+Darkhold we know at some point, and she was
+
+332
+00:29:42,492 --> 00:29:49,495
+a good villain in WandaVision, interesting protagonist
+here in that once again we get to see her open
+
+333
+00:29:49,715 --> 00:29:55,316
+up a bit again when she encounters Billy Maximoff
+who reminds her of and she perhaps initially
+
+334
+00:29:55,356 --> 00:30:00,758
+believes to be her son Nicholas. You know, it's
+a very vulnerable time for her not just emotionally
+
+335
+00:30:01,218 --> 00:30:05,619
+but also physically because she's powerless
+and she has enemies that are coming for her.
+
+336
+00:30:06,139 --> 00:30:10,280
+So the audience connects with her in that regard
+but she also shatters that connection with
+
+337
+00:30:10,320 --> 00:30:11,601
+her callous disregard for the
+
+338
+00:30:14,678 --> 00:30:21,300
+Whereas the viewer you're equal parts interested
+and repulsed and amused by and feel sorry for
+
+339
+00:30:21,340 --> 00:30:27,043
+her throughout the course of the show. But in
+the very end, she finally settles into the
+
+340
+00:30:27,143 --> 00:30:32,845
+mentor role that she's always served in the
+comics. And I think it was such a fun and fascinating
+
+341
+00:30:32,885 --> 00:30:38,788
+journey to see her get to that point, being
+the mentor. Absolutely. Like I said earlier,
+
+342
+00:30:38,848 --> 00:30:43,522
+I didn't really care for the character of Agatha
+until the final episode. when we learned about
+
+343
+00:30:43,562 --> 00:30:49,524
+her past and saw what she has become. It was
+a fantastic character arc. I actually really,
+
+344
+00:30:49,564 --> 00:30:54,847
+really like her arc. But I also think that because
+of the nature of her character throughout the
+
+345
+00:30:54,907 --> 00:31:00,529
+series, Catherine Hunn was really fortunate
+to have a strong supporting cast to really
+
+346
+00:31:00,589 --> 00:31:04,511
+pick up the slack where the story didn't need
+the character. Yeah, it was a great ensemble
+
+347
+00:31:04,531 --> 00:31:09,393
+cast, fantastic. One of the best ensemble casts
+I think you can get for a series about a coven
+
+348
+00:31:09,433 --> 00:31:15,393
+of witches, honestly. But also great in the
+cast was Wiccan, aka Billy Maximoff played
+
+349
+00:31:15,453 --> 00:31:20,096
+by Joe Locke. I knew nothing of Joe Locke before
+the show. I had heard good things about him
+
+350
+00:31:20,116 --> 00:31:24,099
+from the Netflix show Heartstopper, and I got
+the impression a lot of people were happy with
+
+351
+00:31:24,139 --> 00:31:31,064
+his casting as Billy Maximoff. But I remember
+not being that happy. Like in a very shallow
+
+352
+00:31:31,204 --> 00:31:35,467
+manner, I'm ashamed to admit. I thought he didn't
+look anything like the child actor who played
+
+353
+00:31:35,507 --> 00:31:39,994
+him in WandaVision and Doctor Strange and the
+Multiverse of Madness. I feel like such a fucking
+
+354
+00:31:40,094 --> 00:31:44,257
+asshole now, not only because Joe Locke is a
+wonderfully charismatic actor who I thought
+
+355
+00:31:44,337 --> 00:31:49,661
+did an exceptional job in the role, but also
+because the show itself did such an incredible
+
+356
+00:31:49,701 --> 00:31:55,765
+job in rationalizing how Billy came back and
+why he looks different now. Oh, yeah, absolutely.
+
+357
+00:31:56,045 --> 00:32:00,849
+I love the way they rationalized how Billy came
+to be this William guy, because it's really
+
+358
+00:32:00,889 --> 00:32:04,791
+confusing in the comics, I feel like. And it's
+still a little complex here, but I think a
+
+359
+00:32:04,811 --> 00:32:10,159
+little bit less confusing. Yeah, in the comics,
+basically. Billy and Tommy were manifestations
+
+360
+00:32:10,519 --> 00:32:15,982
+of magic that ended up being shards of Mephisto,
+the devil's soul. And when he pulled them back
+
+361
+00:32:16,022 --> 00:32:19,824
+into himself, you know, they ended up dying,
+but they got reincarnated, you know, years
+
+362
+00:32:19,884 --> 00:32:24,507
+later and raised by different families. Here
+is a little bit more interesting in that the
+
+363
+00:32:24,547 --> 00:32:29,729
+reincarnation happens to William Kaplan the
+moment he dies. Stan And he dies the same moment
+
+364
+00:32:29,769 --> 00:32:34,652
+that Billy essentially dies. Ben Right, exactly.
+Really well done. I think a lot of fans of
+
+365
+00:32:34,672 --> 00:32:38,834
+the Wiccan character will be pleased with how
+this all panned out. I'll say in regards to
+
+366
+00:32:38,874 --> 00:32:43,157
+my initial reactions to his casting, I don't
+think that the marketing of Agatha all along
+
+367
+00:32:43,298 --> 00:32:48,762
+did Joe Locke any favors, but I am happy to
+say that I would be thrilled to see more Wiccan
+
+368
+00:32:48,862 --> 00:32:55,266
+in the MCU, hopefully in an upcoming Young Avengers
+film or series. Oh yeah, I would agree with
+
+369
+00:32:55,286 --> 00:32:59,009
+the marketing for the show. I definitely felt
+like it was outside my demographic. I was not
+
+370
+00:32:59,049 --> 00:33:03,893
+looking forward to watching or reviewing the
+show, I would say, but I'm really glad I did.
+
+371
+00:33:04,253 --> 00:33:10,123
+Because honestly... I liked it more than WandaVision.
+I liked it more than a lot of other MCU shows.
+
+372
+00:33:10,643 --> 00:33:15,624
+Yeah, I think I liked it about as much as Loki
+season two. I think I liked it more than that.
+
+373
+00:33:16,044 --> 00:33:21,666
+Really? Oh, that's surprising actually. Yeah.
+Back to Wiccan, his arc here had almost as
+
+374
+00:33:21,706 --> 00:33:26,407
+many twists and turns as Agatha's did. First
+he's William Kaplan celebrating his Bar Mitzvah,
+
+375
+00:33:26,447 --> 00:33:32,289
+then he dies, coming back as Billy, but he's
+amnesiac. We see his journey to Agatha, his
+
+376
+00:33:32,349 --> 00:33:37,175
+unconscious use of chaos magic to create the
+Witch's Road. all to reach out and find his
+
+377
+00:33:37,215 --> 00:33:42,960
+twin brother Tommy, which I thought was a really
+touching journey for him. And I'd like to think,
+
+378
+00:33:43,000 --> 00:33:49,225
+Jonathan, that if we both died and you reincarnated
+that you'd risk your life to find and reincarnate
+
+379
+00:33:49,365 --> 00:33:56,931
+my soul too, right? Right? I mean, I think I
+would move on eventually. You piece of shit.
+
+380
+00:33:58,433 --> 00:34:04,197
+Consider your ass haunted. Nah, okay, fine with
+that actually. We'll be like brother voodoo.
+
+381
+00:34:04,746 --> 00:34:10,069
+Yeah, that'd be cool actually. That'd be cool.
+But thematically, yeah, Billy's arc was about
+
+382
+00:34:10,149 --> 00:34:14,711
+self-discovery and reunion. I think the story
+hit those themes spot on. I thought he showed
+
+383
+00:34:14,791 --> 00:34:20,314
+true marks at the end of being a hero in his
+bravery, in the face of adversity, his willingness
+
+384
+00:34:20,334 --> 00:34:25,938
+to sacrifice, his remorse over his perceived
+moral failures, his loyalty to his companions.
+
+385
+00:34:26,498 --> 00:34:30,940
+He's a fantastic new addition to the MCU. And
+maybe him and his brother Speed will show up
+
+386
+00:34:30,981 --> 00:34:36,712
+in Vision Quest. Who knows? I'm really hoping
+they do Tommy as much justice as they did Billy
+
+387
+00:34:36,732 --> 00:34:43,436
+for this series. Let's talk about death, aka
+Rio played by Aubrey Plaza. Now, Aubrey Plaza
+
+388
+00:34:43,956 --> 00:34:49,920
+is a captivating and really talented actress.
+But I'm not entirely sure she even did any
+
+389
+00:34:50,020 --> 00:34:54,122
+acting here. I think legitimately she just stumbled
+on the set a few times, interacted with the
+
+390
+00:34:54,142 --> 00:34:58,485
+other performers, just being her normal, regular
+self, shepherding the dead into the afterlife
+
+391
+00:34:58,505 --> 00:35:03,934
+like she do, you know? That is Aubrey Plaza,
+right? That's her in a nutshell. Like how can
+
+392
+00:35:03,954 --> 00:35:09,036
+you get better casting for the character of
+death than Aubrey Plaza? She's so deadpan,
+
+393
+00:35:09,556 --> 00:35:15,018
+so mysterious, and yeah, she's kind of been
+typecast as the sarcastic dry persona, but
+
+394
+00:35:15,038 --> 00:35:19,399
+I think it really works well here. Like if you've
+ever seen her chameleon-esque portrayal as
+
+395
+00:35:19,459 --> 00:35:24,560
+Lenny Busker in Legion, or her heavily dramatic
+side in Emily the Criminal, or her nuanced
+
+396
+00:35:24,620 --> 00:35:29,934
+role in Ingrid Goes West, you know the girl
+can act. She has range. But with Death, it
+
+397
+00:35:29,954 --> 00:35:33,756
+seems more like she was having fun here, you
+know, getting to try some action heavy stuff
+
+398
+00:35:33,776 --> 00:35:38,359
+in the first episode, and, you know, getting
+to play a witch and the character of Death.
+
+399
+00:35:38,419 --> 00:35:43,442
+Yeah, I didn't know what was going on with her
+character, but when the reveal came that she
+
+400
+00:35:43,542 --> 00:35:48,805
+was Marvel's Death, that was one of those moments
+where I had to pause it and just be like, holy
+
+401
+00:35:48,925 --> 00:35:54,388
+shit! My wife was like, what? What's the big
+deal? I was like, this is Death. Like, this
+
+402
+00:35:54,468 --> 00:36:00,223
+is the Death that Thanos loved. in Marvel Comics
+and he worshipped. The fact that they changed
+
+403
+00:36:00,283 --> 00:36:05,826
+it so that it was a relationship with Agatha
+kind of levels up Agatha in my book. That's
+
+404
+00:36:05,866 --> 00:36:10,748
+true. Yeah, they took the death persona, who
+historically has been romantically linked to
+
+405
+00:36:10,868 --> 00:36:15,571
+Thanos in the comics. Although, you know, that
+romance is unrequited and they shifted it to
+
+406
+00:36:15,671 --> 00:36:21,906
+Agatha, who is a dark magic witch. And conceptually,
+I actually kind of like that more. Like death
+
+407
+00:36:21,966 --> 00:36:26,989
+as a personification seems more at home in the
+realm of fantasy magic more than, you know,
+
+408
+00:36:27,009 --> 00:36:33,332
+the sci-fi bent of Thanos's cosmic stories.
+Yeah, 100% I agree. How weird though would
+
+409
+00:36:33,372 --> 00:36:38,856
+it be if Aubrey Plaza's death character fell
+in love with Deadpool? Because that happened
+
+410
+00:36:38,896 --> 00:36:44,019
+in the comics. That was kind of like a gag in
+the Deadpool books where death fell in love
+
+411
+00:36:44,039 --> 00:36:49,121
+with Deadpool because he's like this unattainable
+figure for her because he can't die, right?
+
+412
+00:36:49,630 --> 00:36:53,732
+And so like Thanos beats the shit out of Deadpool
+and they kind of like compete for her love.
+
+413
+00:36:54,132 --> 00:37:00,475
+Could you see Aubrey Plaza vying for Ryan Reynolds
+Deadpool in a future Marvel project? 100 percent.
+
+414
+00:37:00,555 --> 00:37:04,897
+I don't even know how that's a question. Absolutely.
+They should put out like a Valentine's Day
+
+415
+00:37:04,917 --> 00:37:11,280
+special with those characters. That'd be hilarious.
+I also got to say, I love how they leaned into
+
+416
+00:37:11,460 --> 00:37:17,355
+Aubrey Plaza's Hispanic heritage by portraying.
+Death's true form with this Dia de los Muertos
+
+417
+00:37:17,395 --> 00:37:22,537
+style design, those elements I think really
+brought an interesting take to the more basic
+
+418
+00:37:22,637 --> 00:37:27,439
+skeleton in a robe look that Death has in the
+comics. Yeah, it's like La Catrina without
+
+419
+00:37:27,459 --> 00:37:33,222
+the giant hat. Yeah, exactly. So cool. The whole
+show is pretty diverse, right? I actually like
+
+420
+00:37:33,242 --> 00:37:38,464
+that about it. Yeah, including Jennifer Cale
+played by Sashir Zamata. I've been a fan of
+
+421
+00:37:38,504 --> 00:37:43,618
+Sashir's from her days at Saturday Night Live.
+She's a stand-up comedian. So I initially thought
+
+422
+00:37:43,638 --> 00:37:48,681
+that Jennifer Cale was gonna be like hilarious
+in this show. She wasn't, but I'll say that
+
+423
+00:37:48,761 --> 00:37:55,084
+I was impressed with Sashir's capacity for dramatic
+acting, like able to convey horror, anger,
+
+424
+00:37:55,204 --> 00:38:01,448
+sadness, all with authenticity. Jennifer Cale
+in the comics is a sorceress who is part of
+
+425
+00:38:01,488 --> 00:38:07,291
+the Cale family whose line was cursed with harboring
+the spirit of vengeance. So Jennifer's aunt
+
+426
+00:38:07,531 --> 00:38:13,855
+is Naomi Cale, who married Barton Blaze and
+had Johnny Blaze. who would later become Ghost
+
+427
+00:38:13,895 --> 00:38:19,899
+Rider. So Jennifer Kale is Ghost Rider's first
+cousin and in the books is a powerful witch
+
+428
+00:38:19,959 --> 00:38:25,503
+in her own right, primarily known for her adventures
+with Man-Thing and Jennifer Kale has actually
+
+429
+00:38:25,603 --> 00:38:30,387
+even been a member of the Midnight Suns. That's
+really cool to hear. I was wondering how many
+
+430
+00:38:30,427 --> 00:38:36,031
+of these characters were actually from the comics.
+And I'm glad it wasn't just- All of them. Oh,
+
+431
+00:38:36,051 --> 00:38:42,444
+all of them? All of them. Bad ass. Including
+the Wu. aka Alice Wu Gulliver played by Ali
+
+432
+00:38:42,604 --> 00:38:48,107
+An. Now, I've never seen Ali perform before,
+but I liked her in the show. Like Jennifer
+
+433
+00:38:48,127 --> 00:38:53,691
+Kail, her character is a hero in the comics
+called The Wu, who is a supernatural police
+
+434
+00:38:53,731 --> 00:39:00,376
+detective in China. She's the daughter of the
+former supernatural hero called August Wu of
+
+435
+00:39:00,396 --> 00:39:04,499
+the Coral Shore. And I thought it was pretty
+interesting here how they turned the mom's
+
+436
+00:39:04,559 --> 00:39:08,910
+superhero name into the name of her band. The
+band was called Coral Shore. I thought that
+
+437
+00:39:08,930 --> 00:39:14,092
+was a neat Easter egg. But I am really bummed
+that they killed Alice off so quickly because
+
+438
+00:39:14,152 --> 00:39:19,714
+she is a neat character. In the books, she inherited
+some of her mom's magic which gave her this
+
+439
+00:39:19,834 --> 00:39:27,217
+red streak in her hair. But she uses her magic
+more indirectly. She imbued her regular police
+
+440
+00:39:27,257 --> 00:39:31,579
+gun with supernatural abilities. And I think
+there was a lot of potential there for the
+
+441
+00:39:31,619 --> 00:39:36,761
+character to maybe not headline her own show,
+but maybe show up in future Marvel projects
+
+442
+00:39:36,981 --> 00:39:40,952
+as a police officer. We never know. Maybe she
+could come back as a ghost or something like
+
+443
+00:39:41,012 --> 00:39:45,035
+that. I do have to say I love the fact that
+they're bringing in these obscure characters
+
+444
+00:39:45,055 --> 00:39:49,439
+because they didn't need to. But it just shows
+that the showrunners are fans of the source
+
+445
+00:39:49,479 --> 00:39:53,542
+material. Well, I mean, there's certainly interpretations
+of the characters from the comics, right? But
+
+446
+00:39:53,582 --> 00:39:59,547
+yeah, at least they're pulling inspirations
+from the books. You love to see it. Yeah. Including
+
+447
+00:39:59,847 --> 00:40:05,992
+Lillia Calderu, who's played by Patty fucking
+Lepone. How the hell did the casting director
+
+448
+00:40:06,152 --> 00:40:12,528
+land Patty Lepone for this show? No idea who
+she is. She is a massively renowned Broadway
+
+449
+00:40:12,628 --> 00:40:18,671
+star. Fantine in Les Mis. She was the Evita.
+She was Mrs. Lovett in Sweeney Todd, Norma
+
+450
+00:40:18,691 --> 00:40:23,773
+DeMond in Sunset Boulevard, Joanne in Company.
+She's probably one of the most celebrated theater
+
+451
+00:40:23,833 --> 00:40:29,056
+actresses of all time. And the fact that she
+was cast in this was actually a big deal in
+
+452
+00:40:29,096 --> 00:40:33,706
+those theater circles. Like my wife lost her
+shit when she realized it was her. And I imagine
+
+453
+00:40:33,846 --> 00:40:38,610
+it's kind of the equivalent of like when Marlon
+Brando joined Superman or when Ian McKellen
+
+454
+00:40:38,630 --> 00:40:44,415
+became Magneto. It was just kind of surprising
+and cool that these renowned actors are not
+
+455
+00:40:44,435 --> 00:40:48,719
+like slumming it in the genre, but like they're
+down to do this more fantasy adventure geek
+
+456
+00:40:48,759 --> 00:40:54,003
+level stuff. I think it adds legitimacy to superhero
+projects. She was probably one of my favorite
+
+457
+00:40:54,023 --> 00:40:57,987
+characters. So I'm glad to hear that she has
+like a fan base behind her. That's incredible.
+
+458
+00:40:58,327 --> 00:41:04,031
+Yeah, she portrayed the character magnificently
+in the comics. Lilia Calderou is related to
+
+459
+00:41:04,151 --> 00:41:09,555
+Baron Mordo, the Doctor Strange villain. She's
+actually his niece, and they're both descendants
+
+460
+00:41:09,775 --> 00:41:15,479
+of Cogliostro. Lilia is the witch queen of the
+gypsies. She's a very minor character, I'll
+
+461
+00:41:15,519 --> 00:41:20,242
+say, probably the most minor out of all these
+comic book characters. I think that they probably
+
+462
+00:41:20,262 --> 00:41:23,965
+should have gone with a more prominent witch
+from the comics, like Topaz or something like
+
+463
+00:41:23,985 --> 00:41:28,128
+that. I think Patti LuPone could have done well
+as that character as well. I'm not complaining.
+
+464
+00:41:28,148 --> 00:41:32,702
+I thought she did a fantastic job. Are you jealous
+that- Marvel was able to land such awesome
+
+465
+00:41:32,742 --> 00:41:36,884
+casting for their projects, whereas like DC
+scrapes the bottom of the barrel most times.
+
+466
+00:41:37,264 --> 00:41:43,546
+The fuck are you talking about? You just mentioned
+Marlon Brando. How many Marvel projects has
+
+467
+00:41:43,606 --> 00:41:49,328
+Marlon Brando worked on? That was in the 1970s,
+man. Oh, I'm sorry. And? It was a long time
+
+468
+00:41:49,348 --> 00:41:52,429
+ago. And? I'm talking about now. Who cares?
+
+469
+00:42:00,110 --> 00:42:05,752
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+470
+00:42:05,792 --> 00:42:11,494
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+471
+00:42:11,555 --> 00:42:17,257
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+472
+00:42:19,406 --> 00:42:26,010
+Comic Book Titans smash every Tuesday, Max Destruction,
+where TV and action heroes battle every Wednesday,
+
+473
+00:42:26,570 --> 00:42:32,494
+and Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+474
+00:42:32,514 --> 00:42:38,218
+the matches and, armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+475
+00:42:38,738 --> 00:42:43,021
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+476
+00:42:47,379 --> 00:42:52,482
+Let's go ahead and move into our episode highlights.
+Episode 1 was called Seekest Thou the Road.
+
+477
+00:42:52,923 --> 00:42:57,646
+Still stuck in the spell that the Scarlet Witch
+cast on her at the end of WandaVision, Agatha
+
+478
+00:42:57,686 --> 00:43:02,350
+Harkness sees herself as a police detective
+in a television crime drama called Agnes of
+
+479
+00:43:02,390 --> 00:43:08,114
+Westview where she investigates the murder of
+a Jane Doe. She's visited by Rio Vidal, whom
+
+480
+00:43:08,194 --> 00:43:13,486
+Agatha sees as an FBI agent inquiring about
+the case and her true identity. After chasing
+
+481
+00:43:13,506 --> 00:43:18,250
+and apprehending a teenage thief who broke into
+her home, Agatha's false reality falls apart.
+
+482
+00:43:18,730 --> 00:43:23,354
+The spell breaks as Agatha realizes that Jane
+Doe is the deceased body of the Scarlet Witch.
+
+483
+00:43:23,855 --> 00:43:28,618
+Coming to in her home, Agatha finds herself
+powerless. Formerly protected from her enemies
+
+484
+00:43:28,639 --> 00:43:33,683
+through her possession of the Darkhold, Agatha
+is attacked by Rio. She successfully bargains
+
+485
+00:43:33,723 --> 00:43:38,387
+to halt the conflict until she gets her powers
+back and discovers the bound and gagged teen
+
+486
+00:43:38,427 --> 00:43:47,724
+thief in her closet. the crime drama on, I think
+it was AMC that was inspired by a Danish television
+
+487
+00:43:47,785 --> 00:43:53,027
+crime drama. I saw like the final episode of
+it. Oh, why would you do that? I don't know.
+
+488
+00:43:53,207 --> 00:43:57,810
+It was on. I was waiting for The Walking Dead.
+Oh man, it was such a good show. And there
+
+489
+00:43:57,830 --> 00:44:02,032
+was such a great twist at the end of that episode
+where the mystery is finally solved. Fantastic
+
+490
+00:44:02,052 --> 00:44:05,334
+show. If you haven't seen it, you got to watch
+it. It's one of television's best crime dramas
+
+491
+00:44:05,434 --> 00:44:11,757
+ever. And I loved how they really weren't subtle
+about their homage to that show in particular.
+
+492
+00:44:11,978 --> 00:44:16,540
+with the opening scene of episode one here.
+Yeah, it was all right. I have to imagine that
+
+493
+00:44:16,760 --> 00:44:20,501
+upon rewatching it, the whole thing becomes
+a lot more humorous because you just have to
+
+494
+00:44:20,561 --> 00:44:26,044
+imagine what was really going on outside of
+Agatha's head as she was talking with everyone.
+
+495
+00:44:26,844 --> 00:44:31,326
+I love that twist that they did later on when
+they showed how Billy was actually interacting
+
+496
+00:44:31,346 --> 00:44:35,008
+with her during the whole interrogation room
+scene and stuff like that. That was great.
+
+497
+00:44:35,468 --> 00:44:40,022
+Yeah, I like the moment in the second episode
+where she was like, let's get in the car. and
+
+498
+00:44:40,062 --> 00:44:44,644
+her car turns out to be like this makeshift
+thing in her living room. Just imagining her
+
+499
+00:44:44,884 --> 00:44:50,266
+walking around all day doing that kind of stuff
+is just hilarious. Yeah, yeah. Episode 2 is
+
+500
+00:44:50,286 --> 00:44:56,749
+called Circle Sown with Fate, Unlock Thy Hidden
+Gate. The teenager reveals he freed Agatha
+
+501
+00:44:56,769 --> 00:45:01,391
+from the Scarlet Witch's spell and begs her
+to take him to the Witch's Road, a legend that
+
+502
+00:45:01,431 --> 00:45:06,533
+allegedly grants its travelers what they desire
+most. Agatha agrees to the idea in order to
+
+503
+00:45:06,573 --> 00:45:11,479
+get her powers back, and learns that the teen's
+identity is hidden from witches through a sigil.
+
+504
+00:45:11,899 --> 00:45:16,241
+Needing a coven for the journey, she and teen
+recruit Lillia Calderou, a divination witch
+
+505
+00:45:16,341 --> 00:45:21,323
+representing the air element, Jennifer Kael,
+a potions witch representing the water element,
+
+506
+00:45:21,843 --> 00:45:27,365
+Alice Wu Gulliver, a protection witch representing
+the fire element, and her neighbor, Sharon
+
+507
+00:45:27,405 --> 00:45:32,408
+Davis to stand in for a green witch to represent
+the earth element. While singing the ballad
+
+508
+00:45:32,428 --> 00:45:37,069
+of the witches' road to open the portal to their
+journey, the Salem Seven come after Agatha.
+
+509
+00:45:37,590 --> 00:45:41,832
+Though the door to the road doesn't initially
+open, prompting Agatha to antagonize the coven
+
+510
+00:45:41,872 --> 00:45:47,515
+into attacking her, a doorway finally appears
+and the coven, along with Teen, flee into it
+
+511
+00:45:47,555 --> 00:45:53,578
+to escape the approaching Salem 7. One thing
+I didn't understand in the show is why Billy
+
+512
+00:45:53,638 --> 00:45:58,860
+was deceptive about his true intentions. Like,
+why would he say that he needed power if what
+
+513
+00:45:58,880 --> 00:46:04,911
+he was really looking for was his brother? That's
+a great question. I think maybe he didn't want
+
+514
+00:46:04,951 --> 00:46:11,292
+to clue her into the idea that he was the Scarlet
+Witch's son, because in doing research on Agatha
+
+515
+00:46:11,332 --> 00:46:15,334
+Harkness, he probably would have known that
+they fought against each other, and maybe he
+
+516
+00:46:15,374 --> 00:46:19,735
+thought he might put himself in danger by revealing
+his true identity. But then again, he did reveal
+
+517
+00:46:19,775 --> 00:46:25,697
+his identity. It was just hidden by the sigil.
+So, great question. And I think that's probably
+
+518
+00:46:25,757 --> 00:46:30,314
+one of those things that doesn't hold up on
+the rewatch, because... The real reason why
+
+519
+00:46:30,334 --> 00:46:34,256
+he didn't do it is because the writers didn't
+want to clue the audience into the idea that
+
+520
+00:46:34,296 --> 00:46:40,038
+this was Billy. Even though everyone knew even
+before the show aired? Right, exactly. But
+
+521
+00:46:40,079 --> 00:46:44,340
+that's the only rationalization you could give
+to your question. The Ballad of the Witches
+
+522
+00:46:44,400 --> 00:46:49,523
+Road song here was superbly done. Like, when
+they started going in round with the song,
+
+523
+00:46:49,603 --> 00:46:53,905
+I was getting fucking chills, man. That chant
+was awesome. What did you think of the Salem
+
+524
+00:46:53,945 --> 00:46:59,283
+7? Terrifying? Absolutely terrifying. They're
+like ringwraiths. Yeah, I really like that
+
+525
+00:46:59,304 --> 00:47:03,126
+because they're not like that in the comics
+at all. They're more like a ragtag group of
+
+526
+00:47:03,186 --> 00:47:06,968
+sorcerers that happen to be the children of
+Nicholas Scratch. But here, yeah, they were
+
+527
+00:47:07,008 --> 00:47:12,691
+like ringwraiths and they were like represented
+by various woodland animals like a fox, a crow,
+
+528
+00:47:12,791 --> 00:47:17,313
+snake, owl, rat. The one downside, I think,
+is that they were more of an abstract threat
+
+529
+00:47:17,474 --> 00:47:21,916
+than a tangible one because they never caught
+up to the group. You know, they never actually
+
+530
+00:47:21,956 --> 00:47:26,010
+got to fight the Salem Seven, which is kind
+of disappointing. I mean, I will say that Lillia
+
+531
+00:47:26,070 --> 00:47:30,871
+Caldru took them out in the most badass way
+possible. Oh, yeah. But you were kind of expecting
+
+532
+00:47:30,911 --> 00:47:35,493
+this climactic showdown that never really happened.
+Well, by the time we got the reveal that she
+
+533
+00:47:35,533 --> 00:47:40,814
+was death, I was kind of like, OK, she's the
+big bad. I understand now. I didn't really
+
+534
+00:47:40,874 --> 00:47:44,035
+mind the way they were taken out because, like
+you mentioned, I thought that was really cool.
+
+535
+00:47:44,575 --> 00:47:49,857
+So I was fine with it. They served their purpose
+in being spooky. They didn't appear too many
+
+536
+00:47:49,917 --> 00:47:57,146
+times in the show itself. So yeah. Yeah. Episode
+3 was called The Many Miles of Tricks and Trials.
+
+537
+00:47:57,667 --> 00:48:02,148
+The coven enter the first trial on the Witch's
+Road, a coastal home with a bottle of wine
+
+538
+00:48:02,188 --> 00:48:07,029
+that poisons the group. The coven race to find
+ingredients for a cure to be brewed by Jennifer
+
+539
+00:48:07,069 --> 00:48:12,371
+Kael, but face hallucinations from their past
+that hinder their efforts. Teen learns the
+
+540
+00:48:12,411 --> 00:48:17,512
+rumor that Agatha traded her son Nicholas Scratch
+for the Darkhold, and Agatha sees a vision
+
+541
+00:48:17,592 --> 00:48:22,273
+of her former child's bassinet. The house floods
+as the final ingredients are put together.
+
+542
+00:48:22,626 --> 00:48:28,149
+but the coven is unable to deliver the potion
+in time to Mrs. Davis and she dies. The group
+
+543
+00:48:28,189 --> 00:48:33,453
+escapes the coastal home back onto the Witch's
+Road. Talk about setting the stakes. I was
+
+544
+00:48:33,493 --> 00:48:38,136
+actually shocked when Sharon Davis died. Oh
+yeah, absolutely. The show did a fantastic
+
+545
+00:48:38,176 --> 00:48:42,079
+job setting the stakes, so much so that I didn't
+even believe she was dead initially. Because
+
+546
+00:48:42,099 --> 00:48:45,521
+I was like, there's no way they're going to
+be killing off characters in the show, but
+
+547
+00:48:45,561 --> 00:48:49,964
+sure enough, they did it. Yeah, and I thought
+Agatha's callousness was played to great comedic
+
+548
+00:48:49,984 --> 00:48:56,133
+effect when she was like, who's Sharon? I was
+like, jeez. And then the episode ended. They
+
+549
+00:48:56,173 --> 00:49:00,536
+kept that up all the way to the very last episode,
+too. That was great. Yeah. She was like, who?
+
+550
+00:49:02,858 --> 00:49:06,662
+One thing I do think is interesting just in
+hindsight is that when Agatha pulled back the
+
+551
+00:49:06,702 --> 00:49:11,626
+bassinet cover, there was the dark hold, but
+that's not really what happened. So that was
+
+552
+00:49:11,666 --> 00:49:17,338
+a manifestation of what Billy thought happened.
+Right. As opposed to. You know, his powers
+
+553
+00:49:17,378 --> 00:49:22,563
+reading Agatha's mind and then manifesting something
+that was more in line with what she would actually
+
+554
+00:49:22,603 --> 00:49:27,227
+fear. I wonder why he never read her mind. I
+don't think he had good control over his ability.
+
+555
+00:49:27,488 --> 00:49:31,571
+But apparently his subconscious did, right?
+Again, just all the weirdness. I'm telling
+
+556
+00:49:31,611 --> 00:49:37,096
+you, the revelation of the road being a manifestation
+of Billy's unconscious is a bigger issue than
+
+557
+00:49:37,116 --> 00:49:42,561
+you think it is. Hmm. Okay. Episode 4 is called,
+If I Can't Reach You, Let My Song Teach You.
+
+558
+00:49:43,038 --> 00:49:47,021
+In it, Agatha and the Coven decide to summon
+a new Green Witch to take Mrs. Davis' place,
+
+559
+00:49:47,261 --> 00:49:52,506
+and they end up bringing Rio onto the road.
+The next trial manifests as a 1970s recording
+
+560
+00:49:52,546 --> 00:49:57,831
+studio where the Wu family curse manifests as
+a demon that attacks and nearly kills Tein.
+
+561
+00:49:58,211 --> 00:50:02,935
+In order to defeat the demon, the Coven is forced
+to play Alice's mother's rendition of the ballad,
+
+562
+00:50:03,235 --> 00:50:07,800
+which is revealed to be a protection spell.
+With the demon and the curse vanquished, the
+
+563
+00:50:07,840 --> 00:50:12,955
+group go back to the road and heal Tein. Rio
+reveals that she used to love Agatha, but hurt
+
+564
+00:50:12,995 --> 00:50:18,960
+her deeply when doing her job. Privately, she
+also reveals to Agatha that Teen is not her
+
+565
+00:50:19,020 --> 00:50:23,603
+son. It was at this point where, I know you
+liked the Ballad of the Witches Road song,
+
+566
+00:50:24,023 --> 00:50:27,566
+but where it kind of grew old for me. I was
+like, oh, okay, we get it. Are you gonna sing
+
+567
+00:50:27,646 --> 00:50:33,650
+it like every episode or what? They only sing
+it twice. This was the second time. Well, I
+
+568
+00:50:33,670 --> 00:50:37,913
+guess they sing it again in the final episode
+as we see it evolve through time. Although
+
+569
+00:50:37,933 --> 00:50:43,353
+by that point, I was just so caught up in how
+the song even developed and why it became so
+
+570
+00:50:43,393 --> 00:50:48,738
+important to the series as a whole that I was
+much more forgiving of it. Yeah. I think the
+
+571
+00:50:48,798 --> 00:50:54,623
+weirdness regarding Billy's manifestation here
+manifested in that Billy almost died. You know,
+
+572
+00:50:54,924 --> 00:51:00,328
+he created something that nearly killed him
+by knocking him through the window. Oh, that's
+
+573
+00:51:00,348 --> 00:51:06,530
+true. Yeah. If he was like unconscious or dying,
+why was the road even still there maybe? That's
+
+574
+00:51:06,550 --> 00:51:10,231
+a good question. I'm trying to think if there
+were any instances where the Scarlet Witch
+
+575
+00:51:10,411 --> 00:51:14,812
+was unconscious during the events of Westview,
+but you have to imagine that she slept at some
+
+576
+00:51:14,832 --> 00:51:21,014
+point. So I think the Chaos Magic reality still
+operates when the Spellcaster is not conscious.
+
+577
+00:51:21,554 --> 00:51:26,975
+That's fair. Episode five was called Darkest
+Hour, Wake Thy Power. The Coven flee the Salem
+
+578
+00:51:27,035 --> 00:51:31,717
+Seven by enchanting broomsticks for themselves.
+Though they managed to escape, the road's magic
+
+579
+00:51:31,777 --> 00:51:36,538
+forces them down to the next trial, a cabin
+in the woods. They're forced to use a Ouija
+
+580
+00:51:36,558 --> 00:51:41,640
+board to summon the ghost of Agatha's mother,
+whom she killed back in 1693 when her magic
+
+581
+00:51:41,680 --> 00:51:46,622
+absorption power first manifested. The ghost
+possesses Agatha, who attacks the group and
+
+582
+00:51:46,662 --> 00:51:51,344
+claims the way to pass the trial is to continue
+on the road without her daughter, claiming
+
+583
+00:51:51,405 --> 00:51:56,527
+she was born evil. The ghost possesses Agatha
+again, prompting Alice to blast her with fire
+
+584
+00:51:56,567 --> 00:52:01,509
+magic, dispelling the ghost but activating Agatha's
+absorption power which drains Alice of her
+
+585
+00:52:01,549 --> 00:52:06,572
+magic and kills her. Back on the road, Teen
+gets upset with Agatha and claims Witchcraft
+
+586
+00:52:06,612 --> 00:52:10,956
+should not be about killing. Agatha cryptically
+remarks that he is so much like his mother,
+
+587
+00:52:11,116 --> 00:52:15,379
+prompting his magic abilities to manifest as
+he forces Agatha and the rest of the coven
+
+588
+00:52:15,440 --> 00:52:20,624
+to sink into the mud. I think the weirdness
+here with the Chaos Magic reality manifestation
+
+589
+00:52:20,744 --> 00:52:24,567
+was, first of all, you know, the killing of
+Alice, which I think played into the end scene
+
+590
+00:52:24,587 --> 00:52:29,211
+pretty well because Billy's over here telling
+Agatha that Witchcraft is not about killing,
+
+591
+00:52:29,291 --> 00:52:34,779
+and she looks at him and she's like, are you
+sure? he was the cause of Alice's death in
+
+592
+00:52:34,799 --> 00:52:39,463
+that moment. Well, he wasn't though, because
+Agatha was responsible for that. Yeah, but
+
+593
+00:52:39,543 --> 00:52:44,047
+Billy was the reason that her mother's ghost
+was there and took over her body, which led
+
+594
+00:52:44,087 --> 00:52:50,492
+to Alice protecting Agatha. So, he was indirectly
+the cause of it. That's true. Same thing with
+
+595
+00:52:50,612 --> 00:52:58,058
+Mrs. Davis's death. So, Billy manifested Agatha's
+mom's ghost, which possessed her. Yes. Okay,
+
+596
+00:52:58,578 --> 00:53:04,026
+interesting. Well, then was the Ouija board
+real? None of it was real, man. Yeah, okay.
+
+597
+00:53:04,046 --> 00:53:07,568
+I'm kind of confused now because like the Ouija
+board was saying like death was among them
+
+598
+00:53:07,588 --> 00:53:12,290
+and death was among them But he didn't know
+that at the time. It's wild. I think the initial
+
+599
+00:53:12,310 --> 00:53:19,133
+Ouija boards Message was actually fake. It was
+Agatha Harkness fucking around. She said death
+
+600
+00:53:19,173 --> 00:53:24,215
+was among them I think is kind of like a jest
+which Rio laughed at but then you know She
+
+601
+00:53:24,275 --> 00:53:30,294
+pretended to be mrs. Davis come back from the
+dead. That was weird. That was stupid It was
+
+602
+00:53:30,354 --> 00:53:35,158
+unnecessary, it kind of felt like a moment of
+filler, I think. I will admit, when the Ouija
+
+603
+00:53:35,178 --> 00:53:39,741
+board spelled Mrs. Hart, I could have sworn
+it spelled Mr. Shart.
+
+604
+00:53:43,582 --> 00:53:48,326
+I thought the same thing because you know, the
+subtitles were reciting the letters as they
+
+605
+00:53:48,366 --> 00:53:53,150
+were naming them and written out, it looked
+like Mr. Chart. So, I was like, what the hell
+
+606
+00:53:53,170 --> 00:54:01,197
+is that? That was hilarious. Episode 6 was called
+Familiar by Thy Side. In a flashback, William
+
+607
+00:54:01,217 --> 00:54:06,221
+Kaplan from Eastview celebrates his bar mitzvah
+where he encounters Lillia the fortune teller.
+
+608
+00:54:06,642 --> 00:54:10,865
+She has a premonition of his future casting
+a sigil on him to protect him from other witches.
+
+609
+00:54:11,446 --> 00:54:15,387
+During the ride home, William and his family
+get into a car accident at the same time the
+
+610
+00:54:15,427 --> 00:54:20,288
+Scarlet Witch removes her hex over Westview,
+erasing her twin boys Billy and Tommy from
+
+611
+00:54:20,348 --> 00:54:25,909
+existence. As William dies from the accident,
+Billy's soul survives by reincarnating into
+
+612
+00:54:25,969 --> 00:54:30,991
+his body, and he wakes up in the hospital with
+no recollection of either of his previous lives,
+
+613
+00:54:31,271 --> 00:54:36,092
+but retaining the ability to read minds. Three
+years later, Billy confesses to his boyfriend
+
+614
+00:54:36,112 --> 00:54:40,733
+that he believes he died that day and that his
+reincarnation is tied into the Westview event.
+
+615
+00:54:41,322 --> 00:54:46,405
+He contacts Ralf Boner, whom Agatha previously
+used as a puppet to investigate the Scarlet
+
+616
+00:54:46,425 --> 00:54:52,209
+Witch. Ralf reveals to Billy Agatha's existence
+and status under Wanda's spell, and also tells
+
+617
+00:54:52,249 --> 00:54:57,853
+him about Wanda's son, making Billy realize
+who he is. Looking into Agatha Harkness, he
+
+618
+00:54:57,893 --> 00:55:02,136
+learns of the witch's road and breaks into her
+home to steal a personal artifact to break
+
+619
+00:55:02,156 --> 00:55:07,600
+her of the spell. Back in the present, Agatha
+claws her way out of the mud as Billy destroys
+
+620
+00:55:07,640 --> 00:55:12,463
+the sigil hiding his identity. She deduces that
+he's seeking his brother Tommy at the end of
+
+621
+00:55:12,503 --> 00:55:17,085
+the road, and the two continue on together.
+Now, I think you and I both mentioned that
+
+622
+00:55:17,245 --> 00:55:23,128
+one of the biggest mistakes Marvel has done
+was the whole misdirection with Evan Peters
+
+623
+00:55:23,468 --> 00:55:29,811
+as Pietro Maximoff in WandaVision. Correct,
+yeah. The fact that they were able to play
+
+624
+00:55:29,971 --> 00:55:37,062
+up on that with Bonerific69, AKA Ralph Boner,
+was, I thought, a stroke of genius. Yeah, I
+
+625
+00:55:37,082 --> 00:55:40,884
+mean, that didn't really have anything to do
+with the previous misdirection. There are massive
+
+626
+00:55:40,924 --> 00:55:44,947
+issues, and I think it's one of Marvel's biggest
+missteps in that subversion of casting the
+
+627
+00:55:44,967 --> 00:55:48,990
+guy from Days of Future Past in the same time
+that they're introducing the multiverse concept.
+
+628
+00:55:49,450 --> 00:55:54,934
+But I talk all about that in our WandaVision
+review. Here, Evan Peters continues playing
+
+629
+00:55:55,014 --> 00:55:59,878
+Ralph Boner for laughs, which I think are very
+well earned. The character is just hilarious.
+
+630
+00:56:00,478 --> 00:56:04,601
+And I don't know if they've made Ralph Boner
+yet a character in the comics, but if they
+
+631
+00:56:04,641 --> 00:56:11,277
+haven't, they need to. because he's just too
+good to not be a regular fixture within Marvel.
+
+632
+00:56:11,337 --> 00:56:16,259
+No, I'm not going to lie. For a second I was
+really hoping that he was actually Nicholas
+
+633
+00:56:16,299 --> 00:56:20,722
+Scratch and that was going to be like a big
+reveal at the very end. That ended up not being
+
+634
+00:56:20,742 --> 00:56:25,245
+the case. But yeah, that's what I thought for
+a while. Well, I thought Nicholas Scratch was
+
+635
+00:56:25,265 --> 00:56:30,808
+going to be the main bad guy considering that
+he is Agatha Harkness's biggest antagonist
+
+636
+00:56:30,948 --> 00:56:36,802
+in the comic books. Her and her son do not get
+along. But I like even more what they did here,
+
+637
+00:56:37,243 --> 00:56:43,104
+where he was just this sweet innocent kid. Yeah,
+no, that was expertly done for sure. Episode
+
+638
+00:56:43,124 --> 00:56:48,886
+7 was called Death's Hand in Mine. Agatha and
+Billy find the next trial, a castle tower where
+
+639
+00:56:48,906 --> 00:56:53,668
+they're made to read tarot cards in the proper
+sequence or face impalement from swords falling
+
+640
+00:56:53,688 --> 00:56:57,949
+from the ceiling. They're discovered by Lillia
+and Jennifer who find their way from under
+
+641
+00:56:57,969 --> 00:57:03,082
+the mud into the castle. with help from Lillia's
+precognition which told her to find the secret
+
+642
+00:57:03,142 --> 00:57:08,724
+bookshelf into the room. Using her skills of
+divination, Lillia uses the tarot deck to read
+
+643
+00:57:08,744 --> 00:57:14,026
+her own fortune. In her last card, she learns
+that Rio is actually the personification of
+
+644
+00:57:14,106 --> 00:57:19,187
+death, and that she is the end of her road.
+Lillia saves the rest of the coven who escape
+
+645
+00:57:19,227 --> 00:57:24,869
+the room just as the Salem 7 catch up to them.
+She stays behind, using the tarot deck to invert
+
+646
+00:57:24,889 --> 00:57:32,925
+the castle tower and destroy the seven and herself.
+This episode reminded me of Crisis on Infinite
+
+647
+00:57:33,025 --> 00:57:39,831
+Earths part one with the nonlinear narrative.
+When you have a nonlinear narrative like this
+
+648
+00:57:39,891 --> 00:57:45,676
+episode, like the movie Memento, everything
+is a twist, right? And I really like the way
+
+649
+00:57:45,696 --> 00:57:50,440
+that it played out here. I think this episode
+is gonna get nominated for an Emmy. It would
+
+650
+00:57:50,480 --> 00:57:56,385
+be a shame if it doesn't. I'd be truly shocked
+if it didn't win. This episode and the last
+
+651
+00:57:56,425 --> 00:58:01,468
+episode. were my two favorite episodes, but
+I think this one edges out the last one just
+
+652
+00:58:01,588 --> 00:58:06,310
+barely. I really, really liked it. Yeah, Patti
+LuPone gave a great performance. I really like
+
+653
+00:58:06,350 --> 00:58:11,493
+how the episode ended with her first divination
+spell with her maestra. It was just poetry.
+
+654
+00:58:11,633 --> 00:58:17,136
+It was poetry. Really well written and beautifully
+executed from everything to the castle tower
+
+655
+00:58:17,156 --> 00:58:20,738
+with the falling swords. That was so cool. Like
+the costumes. There was a little bit of brand
+
+656
+00:58:20,778 --> 00:58:25,421
+synergy going there with like the Disney outfits
+and whatnot, but I didn't mind it so much just
+
+657
+00:58:25,461 --> 00:58:30,816
+because it really fit the theme. and the room
+itself was pretty dangerous and cool. Episode
+
+658
+00:58:30,916 --> 00:58:36,820
+8 was called, Follow Me My Friend to Glory at
+the End. Alice follows Rio as Death into the
+
+659
+00:58:36,900 --> 00:58:41,584
+afterlife, after which Death reveals to Agatha
+that she's there to take Billy, who broke the
+
+660
+00:58:41,624 --> 00:58:47,128
+rules of Death by reincarnating. Agatha wagers
+with Death to get Billy to give himself up
+
+661
+00:58:47,168 --> 00:58:51,691
+in exchange for leaving her alone. Agatha, Billy,
+and Jennifer continue along the road until
+
+662
+00:58:51,711 --> 00:58:56,558
+they come to their shoes left at the beginning,
+realizing that the road is a loop. Confused
+
+663
+00:58:56,578 --> 00:59:01,081
+and enraged, the group argues until Billy puts
+his shoes back on, transporting Kim into an
+
+664
+00:59:01,181 --> 00:59:05,965
+empty room for the final trial. He's joined
+by the others, who have no clue how to proceed,
+
+665
+00:59:06,365 --> 00:59:11,989
+when it's revealed that Jennifer's powers were
+bound a century ago by Agatha Harkness herself,
+
+666
+00:59:12,429 --> 00:59:17,593
+who was using witchcraft to make money at the
+time. Jennifer performs an unbinding ritual,
+
+667
+00:59:17,773 --> 00:59:22,436
+regaining her magic and freeing herself from
+the road. Agatha and Billy perform a spell
+
+668
+00:59:22,477 --> 00:59:27,552
+to locate Tommy's soul. and Billy places it
+in the body of a boy who just drowned, also
+
+669
+00:59:27,613 --> 00:59:32,837
+freeing himself from the road. Agatha completes
+the Earth Trial by growing a dandelion from
+
+670
+00:59:32,857 --> 00:59:37,981
+a seed, freeing herself from the road as well
+but with no prize at the end. Death attacks
+
+671
+00:59:38,081 --> 00:59:43,105
+Agatha, but she is rescued by Billy, who is
+now Wiccan, who gives her some of his power.
+
+672
+00:59:43,546 --> 00:59:47,709
+Together they fight Death, but realize they
+can't win, and Death demands one of them to
+
+673
+00:59:47,749 --> 00:59:52,913
+return to the afterlife with her. Billy offers
+to sacrifice himself, fulfilling Agatha's wager.
+
+674
+00:59:53,454 --> 00:59:58,957
+However, Agatha reneges on her plan, kissing
+death and choosing to sacrifice herself instead.
+
+675
+00:59:59,037 --> 01:00:04,581
+Shocked, Billy goes home and comes to the realization
+that the road was just a manifestation of his
+
+676
+01:00:04,741 --> 01:00:12,206
+own chaos magic. Great episode. I was really
+confused as to how Jennifer realized that Agatha
+
+677
+01:00:12,226 --> 01:00:16,970
+was the one who put the Binding spell on her.
+Uh, Agatha basically admitted it, putting it
+
+678
+01:00:17,010 --> 01:00:20,993
+out there herself. You think she would have
+done that earlier when their lives were in
+
+679
+01:00:21,033 --> 01:00:25,988
+danger? That's... Actually, another great question,
+and I think again, just part of the weirdness
+
+680
+01:00:26,288 --> 01:00:31,991
+of the whole twist that the road wasn't real.
+Even if the road was real, Agatha could have
+
+681
+01:00:32,011 --> 01:00:37,454
+given her powers earlier. Yeah, that's true.
+That's true. I think maybe it was more of a,
+
+682
+01:00:37,554 --> 01:00:42,757
+I don't want to get in trouble type thing, maybe.
+I did think that the slow reveal in Billy's
+
+683
+01:00:42,817 --> 01:00:48,560
+room that he created the road was kind of cheap
+considering we didn't really get good looks
+
+684
+01:00:48,620 --> 01:00:52,982
+at those things earlier in the show. I kind
+of wish there was a scene that kind of explored
+
+685
+01:00:53,002 --> 01:00:56,643
+a little bit more earlier in the series. Well,
+it was straight out of usual suspects, right?
+
+686
+01:00:56,883 --> 01:01:01,024
+It was the usual suspects moment. For sure.
+Yeah. I don't know if that was a direct homage
+
+687
+01:01:01,044 --> 01:01:04,865
+or just a ripoff, but I kind of liked it. I
+mean, I think it's an interesting reveal. I
+
+688
+01:01:04,885 --> 01:01:10,407
+just thought it was cheap. Yeah, I don't disagree.
+The whole spell where Billy used his psychic
+
+689
+01:01:10,427 --> 01:01:15,308
+ability to find Tommy's soul and put it into
+the body of a dying boy, that was fascinating.
+
+690
+01:01:15,408 --> 01:01:20,846
+I think the line that happened at the end there
+was one of the best of the entire series He
+
+691
+01:01:21,006 --> 01:01:27,831
+asks Agatha if he's killing this boy just to
+bring back his brother. And she says, no, sometimes
+
+692
+01:01:27,871 --> 01:01:33,095
+little boys just die. And that was really touching
+as we learned in the next episode, which was
+
+693
+01:01:33,135 --> 01:01:40,040
+called Maiden Mother Crone. In a flashback to
+1750, Agatha is giving birth to her son as
+
+694
+01:01:40,060 --> 01:01:44,743
+her lover, Death, comes to claim him. Begging
+for mercy, Death grants her special treatment,
+
+695
+01:01:45,103 --> 01:01:50,546
+giving the child more time, but refusing to
+say how much. Agatha raises the young boy Nicholas,
+
+696
+01:01:50,726 --> 01:01:55,328
+traveling the country and killing witches to
+increase her own magical power as a means to
+
+697
+01:01:55,368 --> 01:01:59,670
+protect her son. In their travels, Nicholas
+invents a song about their journey down the
+
+698
+01:01:59,710 --> 01:02:05,132
+road, a tune which catches on among the witch
+community. Though Nicholas questions his mother's
+
+699
+01:02:05,232 --> 01:02:10,235
+actions, they have a close loving relationship
+which leaves Agatha devastated when the boy
+
+700
+01:02:10,255 --> 01:02:15,036
+grows ill and dies one night. She then uses
+the ballad as a means to prey on the power
+
+701
+01:02:15,077 --> 01:02:19,466
+of unsuspecting witches looking to find the
+road. growing her magic over the centuries.
+
+702
+01:02:19,966 --> 01:02:24,268
+When the doorway to the road actually manifests
+in her latest attempt with Lily, Jennifer,
+
+703
+01:02:24,348 --> 01:02:29,831
+Alice, and Billy, she realizes who Billy is
+and recognizes the road as a manifestation
+
+704
+01:02:29,871 --> 01:02:35,273
+of his chaos magic. Back in the present, Agatha
+comes back as a ghost to guide Billy in his
+
+705
+01:02:35,313 --> 01:02:40,235
+powers and help him find his brother Tommy.
+Now there's a line here right after Agatha
+
+706
+01:02:40,275 --> 01:02:44,877
+gives birth where she says that she made her
+son Nicholas from scratch and that's why he
+
+707
+01:02:44,897 --> 01:02:49,623
+gets his name. Is that implied that he's a virgin
+birth or is that implied that, you know, she
+
+708
+01:02:49,643 --> 01:02:54,745
+made him the old-fashioned way? Not with any
+magic, but you know knocking boots. I think
+
+709
+01:02:54,765 --> 01:03:00,747
+it's the latter. Yeah She brought life into
+being without using magic But you know using
+
+710
+01:03:00,828 --> 01:03:07,470
+the good old basic ingredients basically birds
+in the bees exactly It was such a tragic scene,
+
+711
+01:03:07,690 --> 01:03:13,513
+especially as a dad now just seeing agatha's
+reaction to no longer having her child Just
+
+712
+01:03:13,713 --> 01:03:18,802
+broke my heart like oh, yeah Just even when
+the kid was getting sick, I was like, please
+
+713
+01:03:18,842 --> 01:03:23,084
+don't let this happen. You just really felt
+for her in the same way that you felt for Wanda
+
+714
+01:03:23,324 --> 01:03:28,605
+in WandaVision. I felt for him. The whole time
+I was kind of like, beat him. Don't let him
+
+715
+01:03:28,625 --> 01:03:34,867
+sleep outside. What are you doing? Yeah, give
+him a nice home. Don't wander around, you know,
+
+716
+01:03:34,907 --> 01:03:39,728
+traveling the countryside, gaining power to
+defend him. Your time might be better spent
+
+717
+01:03:39,848 --> 01:03:44,354
+just, you know, taking care of the kid, you
+know? Right. Giving him stability. That's kind
+
+718
+01:03:44,374 --> 01:03:49,738
+of the whole tragedy of it all, you know? Yeah,
+she loved him. She just didn't know how to
+
+719
+01:03:49,798 --> 01:03:55,081
+care for him. Yeah. I think it's really awesome
+that she's a ghost now because Agatha Harkness
+
+720
+01:03:55,101 --> 01:04:00,786
+has been a ghost in the comics, you know, advising
+people even from the afterlife. And you know,
+
+721
+01:04:00,826 --> 01:04:05,129
+she's not only been a mentor to Franklin Richards,
+she's also helped out, you know, the Scarlet
+
+722
+01:04:05,149 --> 01:04:10,352
+Witch. She was a professor at Strange Academy
+helping people like Nico Minoru. She's cared
+
+723
+01:04:10,372 --> 01:04:15,707
+for even Billy and Tommy. So basically the story
+puts these characters to the point where they
+
+724
+01:04:15,747 --> 01:04:20,609
+are in the comics. I thought it was really well
+done. Not only that, but her reasoning for
+
+725
+01:04:20,649 --> 01:04:26,952
+staying behind as a ghost in that she couldn't
+face her son in the afterlife was very profound.
+
+726
+01:04:27,352 --> 01:04:31,634
+Yeah, I think she doesn't want him to really
+see the person that she became after his death.
+
+727
+01:04:32,014 --> 01:04:37,096
+Like even worse than she already was? Yeah,
+exactly. That's crazy. I was also excited to
+
+728
+01:04:37,136 --> 01:04:41,830
+see her white hair. That was awesome. Yeah.
+more in keeping with her look in the books.
+
+729
+01:04:42,250 --> 01:04:46,852
+I can't wait to see her show up again because
+these characters are just too good to stop
+
+730
+01:04:46,912 --> 01:04:52,655
+here. No, I agree. Yeah. I'm definitely looking
+forward to seeing both Wiccan and Agatha Harkness
+
+731
+01:04:52,715 --> 01:04:58,997
+in future Marvel projects. There are certain
+storylines that Marvel has done post-Endgame
+
+732
+01:04:59,457 --> 01:05:05,640
+that I think have resonated more than others.
+With this show, I think one of the strongest
+
+733
+01:05:05,680 --> 01:05:11,871
+threads they have still going is WandaVision
+by far. Yeah, WandaVision, Agatha all along,
+
+734
+01:05:12,131 --> 01:05:16,874
+and the upcoming Vision Quest are all part of
+like a trilogy of shows, according to the showrunner.
+
+735
+01:05:16,995 --> 01:05:20,957
+I think we're really getting a lot more of what
+we love about the Marvel Cinematic Universe
+
+736
+01:05:21,077 --> 01:05:25,080
+with these television series. Marvel sucks.
+Really? You're talking about how great the
+
+737
+01:05:25,100 --> 01:05:29,303
+show is and then you're following it up with
+Marvel sucks? I think you might be a little
+
+738
+01:05:29,323 --> 01:05:35,208
+bit confused there. I have to circle back somehow,
+you know? That's the whole review. In summary,
+
+739
+01:05:35,588 --> 01:05:40,506
+you know, the show's blend of shifting settings.
+eclectic characters and jaw-dropping twists
+
+740
+01:05:40,566 --> 01:05:47,228
+come together to conjure a delightfully unpredictable
+journey. I am rating the show 4.5 stars out
+
+741
+01:05:47,268 --> 01:05:52,709
+of 5, one of Marvel's best television series
+ever, and I'm giving it a fresh rating on Rotten
+
+742
+01:05:52,729 --> 01:05:59,671
+Tomatoes. Yeah, 4.5 is a really high score.
+If you had told me before I had seen it that
+
+743
+01:05:59,711 --> 01:06:04,473
+you wanted to rate it that high, I would have
+not believed you. But having seen it with my
+
+744
+01:06:04,653 --> 01:06:11,161
+own eyes, it's hard to fantastic. I agree with
+you. One of Marvel's best shows. I enjoyed
+
+745
+01:06:11,181 --> 01:06:16,305
+it way more than I thought I would. So yeah,
+4.5. Really, it's about as good of a Agatha
+
+746
+01:06:16,345 --> 01:06:20,929
+Harkness show as you can get. Even better than
+that, actually. So like it did not even need
+
+747
+01:06:20,969 --> 01:06:27,775
+to be this good. It's fucking... They did not
+need to go this hard. Right. But yeah, that
+
+748
+01:06:27,815 --> 01:06:34,106
+does it for this review. AJ9K helped close this
+out. Thanks for listening to Dynamic duel.
+
+749
+01:06:34,726 --> 01:06:40,248
+Visit the show's website at dynamicduel.com
+and follow us on Instagram at dynamicduelpodcast.
+
+750
+01:06:40,708 --> 01:06:46,029
+You can support the show on Patreon at patreon.com
+slash dynamicduel and joining a tier that works
+
+751
+01:06:46,069 --> 01:06:51,451
+for you, or by rating and reviewing Dynamic
+duel on Apple Podcasts, Spotify, Podchaser
+
+752
+01:06:51,731 --> 01:06:56,252
+or on our website. Don't forget to listen to
+the other shows in the DynaMic Podcast Network,
+
+753
+01:06:56,672 --> 01:07:03,700
+including Max Destruction, Senjow World and
+Console Combat. In our next episode, we will
+
+754
+01:07:03,740 --> 01:07:10,708
+be doing another television review, this time
+on the DC end, with HBO's The Penguin series,
+
+755
+01:07:10,768 --> 01:07:16,494
+which takes place in Matt Reeves' The Batman
+Universe. I haven't started watching it yet,
+
+756
+01:07:16,915 --> 01:07:21,280
+but I'm just going to binge the whole thing,
+and from what I've heard it's really good,
+
+757
+01:07:21,400 --> 01:07:25,604
+so I can't wait. Well, let's see if it's as
+good as Agatha all along. Obviously, they're
+
+758
+01:07:25,624 --> 01:07:29,747
+going to be very different shows. You know,
+Agatha is very fantasy magic. The Penguin is
+
+759
+01:07:29,807 --> 01:07:34,811
+very gritty, realistic, grounded crime drama.
+I'm expecting good things from it. Yeah, I
+
+760
+01:07:34,831 --> 01:07:40,255
+think both of these shows has the potential
+to showcase the best of both worlds. The best
+
+761
+01:07:40,295 --> 01:07:44,218
+of what each studio has to offer. Exactly. But
+that does it for this episode. We want to give
+
+762
+01:07:44,238 --> 01:07:48,922
+a big thanks to our executive producers, Ken
+Johnson, John Strosky, Zachary Hepburn. Dustin
+
+763
+01:07:48,962 --> 01:07:53,743
+Balcom, Miggy Mathen-Geehan, Brandon Essergard,
+Nathaniel Wagoner, Levi Yeaton, Austin Wazilovski,
+
+764
+01:07:53,903 --> 01:07:59,605
+AJ Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Andrew Schunk, Dean Maleski, Devin Davis,
+
+765
+01:07:59,745 --> 01:08:04,166
+Joseph Kirsting, and Josh Schleiner for helping
+make this podcast possible. And we'll talk
+
+766
+01:08:04,186 --> 01:08:06,927
+to you guys next week. Up, up and away, true
+believers.
+
