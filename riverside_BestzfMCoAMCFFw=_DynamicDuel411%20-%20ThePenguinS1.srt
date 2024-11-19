@@ -1,0 +1,3644 @@
+1
+00:00:00,930 --> 00:00:05,533
+This is a DynaMic Network podcast. Hey guys,
+Marvelous Joe at the top of the episode to
+
+2
+00:00:05,593 --> 00:00:10,717
+remind you that in the months of November and
+December, Dynamic Duel is donating 10% of the
+
+3
+00:00:10,758 --> 00:00:16,883
+proceeds from our store to Stand Up to Cancer.
+So support our show, support a great cause
+
+4
+00:00:17,163 --> 00:00:22,327
+by going to dynamicduel.com and clicking on
+the store button where you can buy a whole
+
+5
+00:00:22,367 --> 00:00:27,992
+bunch of new cool products. Jonathan, what do
+we got for them that's new? We got hoodies,
+
+6
+00:00:28,252 --> 00:00:34,920
+we got posters, shoes. water bottles, even a
+2025 calendar for you guys. Yeah, there's a
+
+7
+00:00:34,960 --> 00:00:39,682
+whole lot of holiday shopping you could do on
+the website. So again, be sure to visit dynamicduel.com,
+
+8
+00:00:40,462 --> 00:00:44,705
+click the store button and check out all the
+dynamic duel stuff we have to offer. Thanks
+
+9
+00:00:44,745 --> 00:00:45,945
+guys and on with the show.
+
+10
+00:01:06,350 --> 00:01:10,492
+Hi, welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+11
+00:01:10,512 --> 00:01:15,436
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+12
+00:01:16,016 --> 00:01:20,880
+I'm Marvelous Joe. And I'm his twin brother,
+Johnny DC. And in this episode, we're going
+
+13
+00:01:20,900 --> 00:01:27,384
+to review some lame ass show on Max called The
+Penguin, I guess? So you know when Joseph is
+
+14
+00:01:27,404 --> 00:01:32,167
+talking about a DC show, if he calls it lame,
+it means it's actually the exact opposite of
+
+15
+00:01:32,207 --> 00:01:38,416
+that. It was everything I wanted it to be. It
+was fantastic, a masterpiece, and it basically
+
+16
+00:01:38,456 --> 00:01:43,380
+restored my faith in DC after the disaster that
+was Joker 2. Well, don't give away the farm
+
+17
+00:01:43,400 --> 00:01:48,204
+on this intro, man. Like, you gotta tease what's
+coming up later on this episode. I'm just letting
+
+18
+00:01:48,224 --> 00:01:52,387
+the people know it's good. Okay, but, like,
+was it really good, though? You guys have to
+
+19
+00:01:52,447 --> 00:01:56,510
+stay tuned to find out. Before we get into the
+review, we're gonna break down last week's
+
+20
+00:01:56,550 --> 00:02:02,335
+comic book movie news, including the trailer
+that Marvel Studios released for What If Season
+
+21
+00:02:02,375 --> 00:02:08,151
+3, and actually, that's all the news. As usual,
+No DC news. As always, we list our segment
+
+22
+00:02:08,171 --> 00:02:11,513
+times in our episode description, so feel free
+to check out the show notes if you want to
+
+23
+00:02:11,553 --> 00:02:17,336
+skip ahead to a particular topic. Our artificially
+intelligent duel simulator AJ9K has a quick
+
+24
+00:02:17,376 --> 00:02:23,783
+message for our listeners, so listen up. Why
+hello there, do you want even more from this
+
+25
+00:02:23,823 --> 00:02:28,567
+podcast? Then become a part of the dynamic duel
+community on Patreon, where you can choose
+
+26
+00:02:28,607 --> 00:02:33,691
+from three tiers. The dynamic two-oh tier gives
+you access to our Discord chat server. The
+
+27
+00:02:33,712 --> 00:02:38,195
+fantastic four tier gives you two bonus episodes
+each month, and the X-Force tier makes you
+
+28
+00:02:38,215 --> 00:02:43,587
+an executive producer of this show. Lastly,
+The Diner Mike podcast network tier lets you
+
+29
+00:02:43,607 --> 00:02:48,090
+create your own podcast using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+30
+00:02:48,110 --> 00:02:53,653
+your show, provide graphic support and consultation,
+and get you simulation results. Pitch the twins
+
+31
+00:02:53,693 --> 00:02:59,777
+your ideas via email at dynamicduelpodcast at
+gmail.com. Check it out at patreon.com slash
+
+32
+00:02:59,817 --> 00:03:06,181
+dynamicduel. Pip pip cheerio. Thanks, H3N1K,
+and thanks to everyone who supports the podcast.
+
+33
+00:03:06,594 --> 00:03:10,356
+Guys, be sure to tune into the other shows on
+the DynaMic Podcast Network this week, including
+
+34
+00:03:10,416 --> 00:03:14,878
+Max Destruction, which pits your favorite action
+heroes from film and television against each
+
+35
+00:03:14,918 --> 00:03:19,541
+other. This week, hosts Scotty and Gilly are
+finding out who would win in a fight between
+
+36
+00:03:19,661 --> 00:03:25,905
+Bugs Bunny and Roger Rabbit. On the Senjoworld
+podcast, host Zachary Hepburn speculates on
+
+37
+00:03:25,945 --> 00:03:31,428
+fights between fan favorite anime and manga
+characters. Zach is currently traveling abroad,
+
+38
+00:03:31,508 --> 00:03:37,071
+so the show is momentarily on a brief hiatus.
+And on the Console Combat Podcast, hosts John
+
+39
+00:03:37,111 --> 00:03:41,753
+and Dean simulate battles between popular video
+game characters. In yesterday's episode, they
+
+40
+00:03:41,773 --> 00:03:48,716
+found out who would win between Emil8239 from
+Halo and Grayfox from Metal Gear Solid. Visit
+
+41
+00:03:48,796 --> 00:03:54,099
+dynamicpodcasts.com or click the link in our
+show notes to listen to all of the shows in
+
+42
+00:03:54,119 --> 00:04:01,874
+the DynaMic Podcast Network. But with that
+out of the way, quick to the no prize! A no-prize
+
+43
+00:04:01,894 --> 00:04:06,315
+is an award that Marvel used to give out to
+fans. Our version, the Dynamic Duel No Prize,
+
+44
+00:04:06,616 --> 00:04:11,297
+is a digital award that we post on Instagram
+for the person that we feel gave the best answer
+
+45
+00:04:11,337 --> 00:04:17,480
+to our question of the week. Last week we asked,
+what would you say is the best Marvel or DC
+
+46
+00:04:17,500 --> 00:04:23,818
+film to watch on Valentine's Day with your significant
+other, and why? And this is coming off the
+
+47
+00:04:23,858 --> 00:04:29,019
+news that Captain America Brave New World is
+coming out on Valentine's Day for 2025, and
+
+48
+00:04:29,059 --> 00:04:34,101
+Jonathan and I were arguing on whether or not
+it would be a good date movie. We got a number
+
+49
+00:04:34,141 --> 00:04:38,242
+of answers, so let's break down this week's
+honorable mentions before revealing the no-prize
+
+50
+00:04:38,282 --> 00:04:44,824
+winner. Our first honorable mention goes to
+Baideer Bangura, who said, Hi, Dinami Dool.
+
+51
+00:04:45,304 --> 00:04:50,265
+My answer to the question of the week would
+be Batman Returns. I think the great chemistry
+
+52
+00:04:50,325 --> 00:04:56,508
+between Michelle Pfeiffer. Michael Keaton is
+palpable. I think that the storyline is amazing.
+
+53
+00:04:57,008 --> 00:05:03,152
+I think the imagery and the scenery, the neo-noir
+scenery in the movie is really great as well.
+
+54
+00:05:03,192 --> 00:05:08,454
+So great storyline, great feelings, great emotions.
+I think with some good food you would have
+
+55
+00:05:08,494 --> 00:05:14,038
+a great Valentine's Day. Take care. Yeah I would
+definitely say out of all of these superhero
+
+56
+00:05:14,058 --> 00:05:19,360
+films in existence, the romantic relationship
+between the lead characters, Batman and Catwoman,
+
+57
+00:05:19,701 --> 00:05:26,657
+has Like you could cut it with a knife. It's
+a nice little romantic game of cat and flying
+
+58
+00:05:26,757 --> 00:05:30,700
+mouse that they have going on there. Exactly.
+Now, Bydeer mentioned that you could pair it
+
+59
+00:05:30,720 --> 00:05:35,503
+with good food for a great Valentine's Day too.
+Jonathan, what meal would you pair with Batman
+
+60
+00:05:35,523 --> 00:05:38,625
+Returns? Oh dude, easy. Pussy. Ha!
+
+61
+00:05:44,274 --> 00:05:48,556
+I was gonna say something like, I don't know,
+some kind of dessert that resembles mistletoe
+
+62
+00:05:48,596 --> 00:05:52,618
+or something like that because there's the line
+in the movie where he's like, mistletoe can
+
+63
+00:05:52,658 --> 00:05:58,421
+be deadly if you eat it and she's like, a kiss
+can be deadlier if you mean it. But I think
+
+64
+00:05:58,441 --> 00:06:03,564
+you have the winner answer right there. Let's
+go ahead and move on. Our next honorable mention
+
+65
+00:06:03,604 --> 00:06:09,067
+goes to Travis Herndon, who said? What's up,
+dynamic dudes? Travis here. Shout out to my
+
+66
+00:06:09,087 --> 00:06:14,014
+evil twin. So, my answer would have to be Into
+the Spider-Verse. I mean, one. Who doesn't
+
+67
+00:06:14,054 --> 00:06:18,836
+love Spider-Man? Two, who doesn't love animated
+movies? It's a sick-ass movie to watch with
+
+68
+00:06:18,856 --> 00:06:23,179
+your significant other and come on, I'm pretty
+sure most of us got our significant other by
+
+69
+00:06:23,239 --> 00:06:29,102
+pulling the hand on the shoulder, eyebrow rate,
+saying hey, two of them. It's a sick-ass movie
+
+70
+00:06:29,122 --> 00:06:34,705
+to watch with your significant other on a Valentine's
+Day, so come on. Yeah, Into the Spider-Verse,
+
+71
+00:06:34,745 --> 00:06:39,108
+I don't think had a whole lot of romantic elements.
+I think across the Spider-Verse really played
+
+72
+00:06:39,168 --> 00:06:44,063
+up on the Miles Morales, Gwen Stacy relationship.
+pretty well in a way that I think would be
+
+73
+00:06:44,183 --> 00:06:50,248
+appealing to both sexes. But yeah, the first
+movie had the iconic line from Uncle Aaron,
+
+74
+00:06:50,429 --> 00:06:56,574
+where to get a girl, you put your hand on their
+shoulder and you go, hey, which is absolutely
+
+75
+00:06:56,654 --> 00:07:01,538
+how I got my wife. Not really. But that's the
+way I like to think of it in my head. What?
+
+76
+00:07:01,698 --> 00:07:08,104
+Jonathan, let's hear your best. Hey, hey, girl.
+What's up? All right. I'm pretty sure you didn't
+
+77
+00:07:08,124 --> 00:07:12,514
+get your wife that way. I did not. Now that
+I think about it, a lot of the Spider-Man movies
+
+78
+00:07:12,675 --> 00:07:16,416
+would probably make great date night movies
+because, you know, like the original Sam Raimi
+
+79
+00:07:16,436 --> 00:07:21,558
+trilogy really focused on the Mary Jane relationship.
+There was the Gwen Stacy relationship and of
+
+80
+00:07:21,598 --> 00:07:26,621
+course the new trilogy with MJ. They're all
+good. So great answer Travis. Our next honorable
+
+81
+00:07:26,641 --> 00:07:33,343
+mention goes to Colby Hentges. Who said? Hey
+boys, Colby Hentges. The best Marvel or DC
+
+82
+00:07:33,383 --> 00:07:39,566
+film to watch with my wife on Valentine's Day
+is DC's Justice League. Weed and cut or Snyder
+
+83
+00:07:39,606 --> 00:07:44,147
+cut, it doesn't matter because I can give my
+wife the attention she needs without missing
+
+84
+00:07:44,187 --> 00:07:49,249
+anything important because nothing important
+happens in those movies. Weed and cut, hot
+
+85
+00:07:49,269 --> 00:07:53,950
+garbage. Snyder cut, hot garbage. They both
+smell like new teeth. And Jonathan, I think
+
+86
+00:07:53,970 --> 00:07:59,251
+we agree on this answer, right? We agree on
+Justice League, but definitely not Zack Snyder's
+
+87
+00:07:59,291 --> 00:08:04,593
+Justice League. That was far superior to the
+theatrical version of the film, which yeah,
+
+88
+00:08:04,613 --> 00:08:09,623
+it doesn't even need to exist. So why even watch
+it? If you're busy doing other things. That's
+
+89
+00:08:09,663 --> 00:08:14,687
+fair. So great answer, Colby. We want to give
+a quick shout out to Jose Marcial, who basically
+
+90
+00:08:14,727 --> 00:08:19,830
+gave the answer of any Marvel movie along the
+same lines as Colby Hentges's Justice League
+
+91
+00:08:19,870 --> 00:08:25,654
+answer. Great answer, Jose. But the winners
+of this week's no prize are two people, actually.
+
+92
+00:08:25,814 --> 00:08:31,398
+Waldo and Mason Thompson, who gave the same
+answer. Let's hear Waldo's. Hey, guys, Waldo
+
+93
+00:08:31,458 --> 00:08:39,966
+here. Um, I guess I'd have to go with either
+of the Wonder Woman. the first one more. You
+
+94
+00:08:39,986 --> 00:08:47,269
+know, it's heavily involved with her story with
+Steve Trevor, not just how they met, but how
+
+95
+00:08:47,309 --> 00:08:53,271
+they're growing, becoming part of each other's
+world. And then at the end with his sacrifice,
+
+96
+00:08:54,171 --> 00:08:59,133
+which is also reflected at the end of the second
+one with her sacrifice of him. If you're trying
+
+97
+00:08:59,153 --> 00:09:04,755
+to win over a lady friend, The best way to do
+so is through a classic love story, as we see
+
+98
+00:09:04,775 --> 00:09:09,817
+in the first Wonder Woman film in particular,
+that also features a strong female protagonist.
+
+99
+00:09:10,277 --> 00:09:14,299
+Yeah, it's definitely one of the more romantic
+superhero movies out there, I think. The relationship
+
+100
+00:09:14,339 --> 00:09:19,981
+between Diana Prince and Steve Trevor is pretty
+well developed and also pretty tragic at the
+
+101
+00:09:20,061 --> 00:09:23,763
+end. This tale of these lovers coming together
+and then being torn apart and then, you know,
+
+102
+00:09:23,783 --> 00:09:28,165
+they get reunited in the sequel. It's all good
+Valentine's Day stuff. Yeah, and I would agree
+
+103
+00:09:28,185 --> 00:09:33,280
+the best that the genre has to offer. Actually,
+if I were to give my answer to this question,
+
+104
+00:09:33,880 --> 00:09:38,724
+obviously it would be Deadpool, because nothing
+brings a couple together, like laughing together.
+
+105
+00:09:39,004 --> 00:09:43,608
+Ryan Reynolds and Miranda Baccarin were great
+in the first movie, and I believe the film
+
+106
+00:09:43,628 --> 00:09:48,232
+came out around Valentine's Day to begin with,
+so yeah, that was the correct answer. Well,
+
+107
+00:09:48,272 --> 00:09:52,976
+honestly, horror films have actually been shown
+to bring couples together more than any other
+
+108
+00:09:53,016 --> 00:09:58,740
+genre, so Plop and Constantine. Plop? There
+had to be a better verb choice there than plop.
+
+109
+00:09:59,141 --> 00:10:03,927
+I said what I said. Alright, congrats again
+to Waldo and Mason Thompson for winning this
+
+110
+00:10:03,967 --> 00:10:07,733
+week's No Praise, guys. If you, the listener,
+want a shot at winning your own no prize, stay
+
+111
+00:10:07,773 --> 00:10:12,321
+tuned to later on this episode when we'll be
+asking another question of the week. And now
+
+112
+00:10:12,341 --> 00:10:14,445
+that that's done, on to the news!
+
+113
+00:10:19,918 --> 00:10:24,780
+Alright, this past week we got the official
+trailer for season 3 of Marvel Animation's
+
+114
+00:10:25,120 --> 00:10:30,162
+What If series. It's gonna be the third and
+final season of this series, and I gotta say
+
+115
+00:10:30,222 --> 00:10:35,644
+I'm gonna be sad to see it go because I enjoyed
+both seasons 1 and season 2. Season 2 a little
+
+116
+00:10:35,664 --> 00:10:41,147
+bit more than season 1. I thought season 2 took
+a more anthological approach to the story,
+
+117
+00:10:41,187 --> 00:10:45,629
+didn't have to worry as much about setting up
+the Guardians of the Multiverse like season
+
+118
+00:10:45,749 --> 00:10:51,459
+1 did. So... I really appreciated it running
+with the what if concept a little bit smoother
+
+119
+00:10:51,939 --> 00:10:56,880
+than season one. Yeah, I agree. Season two was
+a lot better than season one. But that's sort
+
+120
+00:10:56,920 --> 00:11:01,842
+of why I'm scared about this upcoming season
+because it seems like this one will also have
+
+121
+00:11:01,962 --> 00:11:07,363
+like an overarching narrative between stories.
+Possibly. If they're ending it. If they're
+
+122
+00:11:07,463 --> 00:11:11,464
+ending it, yeah, then we're probably going to
+have a couple episodes dealing with the rest
+
+123
+00:11:11,504 --> 00:11:16,678
+of the Watchers besides Watu. We see the group
+of Watchers. towards the end of this trailer
+
+124
+00:11:16,758 --> 00:11:21,362
+talking about how like this is the end. So I
+don't know how many of these episodes are going
+
+125
+00:11:21,382 --> 00:11:26,165
+to be dedicated to that. Hopefully not many,
+but it looks like we have quite a good selection
+
+126
+00:11:26,745 --> 00:11:33,150
+of anthological episodes to choose from, including
+a Western version of Shang-Chi. We have a fucking
+
+127
+00:11:33,290 --> 00:11:40,195
+Gundam Avengers, including Captain America Gundam,
+a Shang-Chi Gundam, a Moon Knight Gundam, which
+
+128
+00:11:40,215 --> 00:11:44,806
+was really cool to see Moon Knight play with
+the rest of the Avengers. in this series and
+
+129
+00:11:44,826 --> 00:11:49,748
+plus he had a really cool looking Gundam. We
+saw Photon there, we saw the Red Guardian and
+
+130
+00:11:49,788 --> 00:11:54,250
+Melina Vostokov there. That episode is going
+to be freaking amazing, it's going to blow
+
+131
+00:11:54,330 --> 00:11:59,712
+my mind. There's also a like Red Guardian and
+Winter Soldier team up episode in what looks
+
+132
+00:12:00,112 --> 00:12:04,954
+to take place back in the days of the USSR.
+Most interesting, it looks like we're going
+
+133
+00:12:04,974 --> 00:12:09,556
+to get a revisit to the world of the Eternals
+because we see like Icarus and some of the
+
+134
+00:12:09,656 --> 00:12:13,646
+other Eternals characters. There was a shot
+that we got here of Arashem that looked very
+
+135
+00:12:13,706 --> 00:12:17,948
+similar to the end shot of the live action film
+that came out. So it'll be really cool to see
+
+136
+00:12:18,088 --> 00:12:23,611
+like how they may approach the Eternals characters
+from a different angle in the series. It seems
+
+137
+00:12:23,651 --> 00:12:27,613
+like they're stepping a little bit further outside
+the boundaries of just the live action Marvel
+
+138
+00:12:27,633 --> 00:12:34,897
+Studios films to touch on things like the television
+shows such as Moon Night and even X-Men 97
+
+139
+00:12:35,038 --> 00:12:39,580
+which was the big reveal at the end of this
+trailer. We get a what-if episode where the
+
+140
+00:12:39,940 --> 00:12:47,573
+X-Men are interplayed with the greater MCU cast
+as we see Storm being the goddess of thunder.
+
+141
+00:12:47,993 --> 00:12:52,195
+And she's voiced by Alison Sealy-Smith, who
+did the voice of the character in the X-Men
+
+142
+00:12:52,235 --> 00:12:58,799
+90s cartoon and X-Men 97. And it was freaking
+epic to hear, I think. Yeah, everything looked
+
+143
+00:12:58,879 --> 00:13:04,162
+cool. I think I'm still baffled though as to
+why they would want to end the show. Yeah.
+
+144
+00:13:04,182 --> 00:13:09,065
+Because I feel like it's a concept that never
+really needs to end, you know? I'm wondering
+
+145
+00:13:09,185 --> 00:13:14,231
+if it's because... The storyline from the what
+if shows maybe leads into something like secret
+
+146
+00:13:14,271 --> 00:13:20,614
+war and it's going to like collapse the multiverse
+perhaps. I don't know. Well, the show can only
+
+147
+00:13:20,654 --> 00:13:25,776
+really last as long as the multiverse lasts,
+right? And it seems like, yeah, they are wrapping
+
+148
+00:13:25,816 --> 00:13:30,798
+things up in the multiversal saga with Avengers
+Doomsday coming out in a couple years and then
+
+149
+00:13:30,818 --> 00:13:36,260
+Avengers Secret Wars the year after that. So
+you figure you still got two more solid years
+
+150
+00:13:36,480 --> 00:13:41,727
+of what if shows to do though. I would agree.
+I would definitely agree. So you agree that
+
+151
+00:13:41,767 --> 00:13:47,971
+Marvel's dumb? Not in the sense that they're
+not smart, just more in the sense that they
+
+152
+00:13:47,991 --> 00:13:52,375
+could keep the show running. So maybe shut your
+mouth. Yeah, but they won't because they're
+
+153
+00:13:52,395 --> 00:13:58,579
+dumb. Okay, I got you. I read you. Hey, Jonathan,
+when is DC coming out with a multiversal series
+
+154
+00:13:58,639 --> 00:14:02,382
+that's this good, huh? Oh, that's right. They
+don't have an established universe to begin
+
+155
+00:14:02,402 --> 00:14:09,450
+with, so okay, okay. You don't gotta say it
+like it is, Marge. I'm really looking forward
+
+156
+00:14:09,510 --> 00:14:15,332
+to what if season 3, the stories that they're
+looking to tell here and of course the animation
+
+157
+00:14:15,372 --> 00:14:21,935
+is always quality and just how epic the show
+can be I think bodes well for what is bound
+
+158
+00:14:21,975 --> 00:14:28,218
+to be a truly awe-inspiring finale. The season
+is debuting on December 22nd, just a few days
+
+159
+00:14:28,238 --> 00:14:32,579
+before Christmas and then we're going to get
+one episode a day through the rest of the year
+
+160
+00:14:33,140 --> 00:14:41,568
+ending on December 30th I assume. until the
+new year. That said, it still will count towards
+
+161
+00:14:41,628 --> 00:14:46,131
+this year's Brothers Awards. Yep, that's correct.
+So look forward to our review of that later
+
+162
+00:14:46,171 --> 00:14:48,273
+guys. But that brings us to our question of
+the week.
+
+163
+00:14:52,790 --> 00:14:59,574
+What has been your favorite animated Marvel
+or DC project of all time and why? We're talking
+
+164
+00:14:59,714 --> 00:15:05,057
+television shows. We're talking films, both
+theatrical and direct to video, the works.
+
+165
+00:15:05,637 --> 00:15:09,520
+So record your answer at dynamicduel.com by
+clicking on the red microphone button in the
+
+166
+00:15:09,540 --> 00:15:13,782
+bottom right hand corner of the screen, which
+will prompt you to leave us a voicemail. Your
+
+167
+00:15:13,802 --> 00:15:18,105
+message could be up to 30 seconds long and don't
+forget to leave your name in case we include
+
+168
+00:15:18,145 --> 00:15:22,486
+you on the podcast. We'll pick our favorite
+answer and award that person a dynamic duel
+
+169
+00:15:22,546 --> 00:15:27,893
+no prize that we'll post to Instagram. Be sure
+to answer before November 23rd.
+
+170
+00:15:37,134 --> 00:15:40,583
+So that does it for all the news for this episode,
+so let's go ahead and get into our main event
+
+171
+00:15:40,643 --> 00:15:45,516
+where we review the HBO and DC television series,
+The Penguin.
+
+172
+00:16:00,814 --> 00:16:06,695
+Okay, The Penguin is a spin-off series of the
+2022 film The Batman, written and directed
+
+173
+00:16:06,735 --> 00:16:12,377
+by Matt Reeves. Reeves also served as an executive
+producer for this show, which was created by
+
+174
+00:16:12,457 --> 00:16:18,358
+Lauren LeFranc. It's a limited, 8-episode HBO
+Max series that tells the story of how Oswald
+
+175
+00:16:18,398 --> 00:16:24,620
+Cobblepot, the Penguin, played masterfully by
+Colin Farrell, rises to power in Gotham City's
+
+176
+00:16:24,660 --> 00:16:29,281
+criminal underworld after the Riddler destroyed
+most of the city at the end of the Batman movie.
+
+177
+00:16:29,874 --> 00:16:35,077
+Now I loved the Batman film. We gave it 5 out
+of 5 stars in a review and while I was looking
+
+178
+00:16:35,137 --> 00:16:40,321
+forward to this show, I clearly wasn't looking
+forward to it enough because it somehow managed
+
+179
+00:16:40,421 --> 00:16:46,886
+to exceed my expectations and deliver a devastating
+masterwork spinoff in what continues to be
+
+180
+00:16:46,926 --> 00:16:52,750
+my favorite Batman universe on screen. If you
+haven't seen The Penguin yet, do not ruin the
+
+181
+00:16:52,770 --> 00:16:58,053
+show for yourself by continuing to listen to
+this spoiler review. Stop here, watch the show.
+
+182
+00:16:58,538 --> 00:17:03,720
+then come back. It's only eight episodes. Forget
+and take a sick day at work and just binge
+
+183
+00:17:03,760 --> 00:17:08,622
+the whole thing because I guarantee you, it's
+extremely hard not to watch the next episode
+
+184
+00:17:08,742 --> 00:17:13,464
+once you've started. Yeah, if you listen to
+this review without watching the television
+
+185
+00:17:13,484 --> 00:17:19,486
+series, how dare you? How dare you do that to
+yourself? Go watch the show, then come back
+
+186
+00:17:19,526 --> 00:17:25,129
+and listen to the spoiler review because it
+is fucking phenomenal. It's such a damn good
+
+187
+00:17:25,169 --> 00:17:30,210
+show and you don't wanna ruin it for yourself.
+No. In fact, I liked it more than I liked the
+
+188
+00:17:30,250 --> 00:17:33,831
+Batman. I did not think that we should have
+given the Batman five stars. I think we should
+
+189
+00:17:33,851 --> 00:17:39,353
+have given it four and a half stars. But this
+series is better than the Batman. You know,
+
+190
+00:17:39,373 --> 00:17:44,534
+this series actually reminded me a lot of the
+Daredevil shows from Netflix that we love.
+
+191
+00:17:44,874 --> 00:17:50,496
+We gave season three of that five stars just
+for its like gritty realism and hard boiled
+
+192
+00:17:50,636 --> 00:17:55,757
+edge. This had a lot of that. But set in the
+Batman world, which makes it instantly better,
+
+193
+00:17:56,257 --> 00:18:02,473
+instantly worse. I agree with you on the other
+points. The show was actually so good after
+
+194
+00:18:02,713 --> 00:18:07,756
+I finished it all, I pulled up Daredevil season
+3 just to feel better about myself and remind
+
+195
+00:18:07,816 --> 00:18:13,339
+myself that yeah, Marvel is still capable of
+pulling off this type of crime drama. Paired
+
+196
+00:18:13,379 --> 00:18:18,703
+with, I will add superhero action, which this
+series didn't have a whole lot of. It really
+
+197
+00:18:18,743 --> 00:18:24,146
+wasn't part of the superhero genre. Yeah, true.
+That said... There are a lot of people who
+
+198
+00:18:24,226 --> 00:18:28,668
+expect a lot of action from their comic book
+stories, but I still think that even if you're
+
+199
+00:18:28,688 --> 00:18:33,750
+a fan of hardcore action, there's a lot to love
+about this show. Now, I wasn't able to watch
+
+200
+00:18:33,790 --> 00:18:40,413
+the whole series in one go, but man, did I want
+to because the pacing and tension and plot
+
+201
+00:18:40,653 --> 00:18:45,715
+of the series had to be hooked from the first
+episode. Yeah, I think I immediately texted
+
+202
+00:18:45,735 --> 00:18:50,457
+you after the first episode ended and I told
+you that this is probably going to be a five
+
+203
+00:18:50,477 --> 00:18:54,384
+star show. just with how good the first episode
+was and that you need to see it immediately.
+
+204
+00:18:54,864 --> 00:18:58,466
+Yeah, you actually sent me that right as I was
+starting the show and I was like, oh damn,
+
+205
+00:18:58,486 --> 00:19:03,390
+it's gonna be so good, I can't wait. I mean,
+yeah, the show is right up my alley. Like some
+
+206
+00:19:03,430 --> 00:19:08,373
+of my favorite movies of all time are things
+like The Departed, Drive. So I didn't know
+
+207
+00:19:08,433 --> 00:19:13,617
+quite to expect going into The Penguin, but
+coming out of it, I loved it. I was happy for
+
+208
+00:19:13,657 --> 00:19:18,000
+you. I was proud of you that you finally got
+a win as a DC fan. Hey, thanks. Yeah, I was
+
+209
+00:19:18,020 --> 00:19:24,053
+happy for myself as well. Cause as I've mentioned,
+The Joker 2's failure shook me to my core,
+
+210
+00:19:24,533 --> 00:19:28,837
+and the Penguin really, really helped. Now,
+I mentioned that the pacing and plot of the
+
+211
+00:19:28,857 --> 00:19:34,401
+series were phenomenal. That's not to say that
+there weren't slow or even unnecessary moments
+
+212
+00:19:34,442 --> 00:19:39,626
+during the course of the show, but there were
+very, very few, because just about every scene
+
+213
+00:19:39,926 --> 00:19:44,991
+contributes to the further development and realization
+of these very real characters that exist in
+
+214
+00:19:45,011 --> 00:19:49,946
+this gritty, realistic, hard-boiled Gotham City
+setting. that was established in the movie
+
+215
+00:19:50,286 --> 00:19:56,388
+and is expanded upon in this series. The world
+building here is incredible and it showcases
+
+216
+00:19:56,428 --> 00:20:01,829
+the type of Gotham City that I've always wanted
+to see and even believed it would be like as
+
+217
+00:20:01,869 --> 00:20:07,991
+a reader of the comics. It's not as fantastical
+or even as mundane as prior movies have depicted
+
+218
+00:20:08,031 --> 00:20:14,033
+it. It meets this perfect neo-noir sweet spot
+that you believe could develop characters like
+
+219
+00:20:14,073 --> 00:20:19,907
+Batman or as we see in this show. a deformed
+mob boss like the Penguin. It reminded me a
+
+220
+00:20:19,967 --> 00:20:25,931
+lot of the video game Batman Arkham City, because
+in that game it had just suffered a devastating
+
+221
+00:20:26,031 --> 00:20:30,253
+earthquake that kind of destroyed sections of
+the city, and it was almost like they used
+
+222
+00:20:30,313 --> 00:20:35,456
+that as inspiration for the show, which I loved,
+because that game was fantastic. So it was
+
+223
+00:20:35,516 --> 00:20:40,199
+No Man's Land. Exactly, right. Now regarding
+the Penguin, you know, he's always been something
+
+224
+00:20:40,219 --> 00:20:45,562
+of a joke character, this fat, monocle-wearing
+sideshow freak that no one would believe. could
+
+225
+00:20:45,602 --> 00:20:51,164
+hold his own in a fight especially against Batman,
+but in Matt Reeves universe, he is what he
+
+226
+00:20:51,324 --> 00:20:56,326
+always should have been, the last remnant of
+a mafia that controlled and corrupted Gotham
+
+227
+00:20:56,366 --> 00:21:02,549
+City for generations. He works very well within
+that framework, allowing for a truly epic rise
+
+228
+00:21:02,569 --> 00:21:08,031
+to power storyline within the gangster crime
+genre, a genre that's rife with themes of power,
+
+229
+00:21:08,151 --> 00:21:13,886
+legacy, and redemption, as well as examinations
+of morality and ambition. We see examples of
+
+230
+00:21:13,926 --> 00:21:19,870
+this in other epic gangster dramas such as The
+Godfather, Goodfellas, Scarface, where characters
+
+231
+00:21:19,890 --> 00:21:24,713
+are driven by their desire for dominance and
+respect only to find that their pursuit of
+
+232
+00:21:24,794 --> 00:21:31,518
+power often leads to their undoing. In The Penguin,
+this theme is amplified by Oz's deep-seated
+
+233
+00:21:31,598 --> 00:21:36,982
+narcissism and unresolved guilt, which shapes
+his actions and decisions throughout the series.
+
+234
+00:21:37,422 --> 00:21:42,910
+His journey reflects the tragic truth that,
+in a world where power is everything, True
+
+235
+00:21:42,950 --> 00:21:48,474
+redemption is rarely achieved because power
+corrupts, and those who seek it often lose
+
+236
+00:21:48,514 --> 00:21:54,618
+what little humanity they have left along the
+way. Yeah, if the Batman movie was kind of
+
+237
+00:21:54,838 --> 00:22:00,482
+an adaptation of sorts of the long Halloween
+storyline from the comics where we see basically
+
+238
+00:22:00,602 --> 00:22:06,794
+the criminal underworld in Gotham City get supplanted
+by costumed supervillains... then I see the
+
+239
+00:22:06,854 --> 00:22:12,379
+Penguin series as kind of like an interesting
+look at the transition between those two periods.
+
+240
+00:22:12,519 --> 00:22:17,223
+Between the crime family and mob boss period
+and the supervillain period. Oh yeah, for sure.
+
+241
+00:22:17,423 --> 00:22:23,088
+Actually, this series borrowed quite a bit from
+the long Halloween sequel, Dark Victory, in
+
+242
+00:22:23,128 --> 00:22:28,132
+which Sophia Falcone was one of the primary
+villains. Oh, interesting. Okay, okay. Yeah.
+
+243
+00:22:28,573 --> 00:22:34,297
+Now, one of the things I like most about comic
+book adaptations as a comic reader is that
+
+244
+00:22:34,674 --> 00:22:40,516
+I get the opportunity to watch fate unravel
+as it were. Most people know that the Penguin
+
+245
+00:22:40,556 --> 00:22:44,938
+is a Batman villain, but if you're not a comic
+book reader, you may not be aware of some of
+
+246
+00:22:44,978 --> 00:22:49,760
+the darker aspects of this character, like how
+Oswald killed his brothers when he was a child
+
+247
+00:22:50,100 --> 00:22:55,623
+in the comics. Some people try to go into films
+and shows knowing as little as possible, but
+
+248
+00:22:55,723 --> 00:23:01,865
+I actually live for the dramatic irony of watching
+how adaptations unfold and how characters on
+
+249
+00:23:01,945 --> 00:23:07,463
+screen become like the characters on the page.
+Sometimes they don't, which is often disappointing,
+
+250
+00:23:07,843 --> 00:23:12,568
+and sometimes a modern adaptation will improve
+upon what was on the page, and I'd argue that's
+
+251
+00:23:12,648 --> 00:23:18,214
+definitely the case for the Penguin series.
+Not only has the Penguin been made much more
+
+252
+00:23:18,254 --> 00:23:23,320
+frightening and interesting to me at least in
+this show, but so have minor comic characters
+
+253
+00:23:23,460 --> 00:23:28,697
+like Sofia Falcone. What would you say to people
+who may look at this series and say that this
+
+254
+00:23:28,717 --> 00:23:34,402
+is more like the Penguin in name only considering
+his name is Oz Cobb, not Oswald Cobblepot,
+
+255
+00:23:34,562 --> 00:23:41,268
+and he's more of a ruthless thug as opposed
+to like a aristocrat? I would tell them that,
+
+256
+00:23:41,348 --> 00:23:46,292
+you know, this is an adaptation of that. I actually
+like the twist that he didn't grow up as an
+
+257
+00:23:46,332 --> 00:23:51,637
+aristocrat and that he grew up actually really
+poor. That's more interesting to me character
+
+258
+00:23:51,657 --> 00:23:57,056
+wise. and that he's someone who aspires to climb
+the social hierarchy rather than already being
+
+259
+00:23:57,096 --> 00:24:01,919
+at the top. It's a better journey for the character.
+I agree. I mean, by this point, I'm pretty
+
+260
+00:24:01,939 --> 00:24:08,202
+much demanding that James Gunn fold Matt Reeves'
+universe into the upcoming DCU because there
+
+261
+00:24:08,242 --> 00:24:13,945
+is zero way the Penguin can be done better.
+Zero. Like, why would you even want to try?
+
+262
+00:24:14,065 --> 00:24:18,585
+Don't. Yeah, it's kind of a shame, like the
+whole state of the DC cinematic universe, where
+
+263
+00:24:18,625 --> 00:24:22,208
+you have, you know, James Gunn's thing going,
+but you also have these elseworld stories from
+
+264
+00:24:22,388 --> 00:24:27,712
+one offs that filmmakers wanted to tell, like
+the Joker, like the Penguin. But it's also
+
+265
+00:24:27,793 --> 00:24:33,918
+disparate that it almost makes it feel meaningless.
+And I don't want that. Like, I want this world
+
+266
+00:24:34,058 --> 00:24:39,422
+for the Batman to continue. I want to see so
+much more and explore it like to its fullest.
+
+267
+00:24:39,743 --> 00:24:44,679
+And I feel like with other film adaptations
+of Batman. like the upcoming Brave and the
+
+268
+00:24:44,699 --> 00:24:48,622
+Bold, we're not going to get the opportunity
+for that. Yeah, you're just going to have these
+
+269
+00:24:48,662 --> 00:24:53,685
+competing versions. And not only competing versions,
+competing Matt Reeves versions, because James
+
+270
+00:24:53,726 --> 00:24:58,549
+Gunn has actually enlisted Matt Reeves into
+helping him develop the Batman side of the
+
+271
+00:24:58,589 --> 00:25:04,546
+DCU, like the upcoming Arkham series that's
+rumored. Which makes zero sense to me. Well,
+
+272
+00:25:04,806 --> 00:25:09,948
+considering the success of this HBO series,
+maybe you're gonna get your wish. Maybe James
+
+273
+00:25:09,968 --> 00:25:15,730
+Gunn will realize that this is the best play
+for developing his DCU. Dude, yes, please.
+
+274
+00:25:16,070 --> 00:25:21,272
+Hashtag incorporate the Reevesverse. We need
+to get that trending, people. Now I'm biased
+
+275
+00:25:21,332 --> 00:25:26,615
+because I love psychologically heavy morality
+tales, but this show in my opinion is exactly
+
+276
+00:25:26,655 --> 00:25:31,757
+what the comic book genre needs right now to
+overcome superhero fatigue. Just fresh and
+
+277
+00:25:31,797 --> 00:25:37,279
+profound takes on characters. that audiences
+are already familiar with. I agree, totally.
+
+278
+00:25:37,379 --> 00:25:43,222
+The best way for superhero stories to stay relevant
+is by constantly mixing it up, right? You want
+
+279
+00:25:43,262 --> 00:25:47,984
+different genres thrown in there and you want
+quality stories. Luckily, The Penguin has both
+
+280
+00:25:48,024 --> 00:25:52,926
+of those things going for it. Yeah, it's the
+perfect example of that. The story is incredible,
+
+281
+00:25:53,006 --> 00:25:57,048
+the characters are interesting as hell, but
+speaking of them, let's move on to our character
+
+282
+00:25:57,088 --> 00:26:03,031
+breakdown. Starting with Oswald Cobb, aka The
+Penguin. Now he of course is played by Colin
+
+283
+00:26:03,071 --> 00:26:09,456
+Farrell in what is to date the magnum opus of
+his career, in my opinion. He's completely
+
+284
+00:26:09,636 --> 00:26:15,562
+unrecognizable in the role and his performance
+seems to come across just so naturally for
+
+285
+00:26:15,602 --> 00:26:21,467
+him. It's like a very technical performance,
+but it's played as if another actor is method
+
+286
+00:26:21,607 --> 00:26:26,671
+acting. I don't know if there's ever been a
+greater performance in any adapted comic book
+
+287
+00:26:26,711 --> 00:26:32,155
+work. I think he even tops Heath Ledger's Joker.
+Wow, that's pretty high praise. I mean, do
+
+288
+00:26:32,175 --> 00:26:38,561
+you disagree? I would put them on the same level.
+You're right, they're both highly technical
+
+289
+00:26:38,601 --> 00:26:44,747
+performances. I do think that Colin Farrell
+has the added benefit of the substantial amount
+
+290
+00:26:44,787 --> 00:26:49,891
+of makeup that he's wearing as a means to help
+transform his look and his character. Oh, 100%.
+
+291
+00:26:50,532 --> 00:26:54,996
+I was talking to my wife about the Penguin's
+casting with Colin Farrell and how initially
+
+292
+00:26:55,256 --> 00:27:00,247
+Warner Brothers wanted Jonah Hill to play the
+Penguin, but he wanted to be the Riddler and
+
+293
+00:27:00,267 --> 00:27:05,911
+because of that dispute he just left the project
+altogether. But holy cow, what a boon that
+
+294
+00:27:05,951 --> 00:27:10,553
+was because we would have never gotten Colin
+Farrell as the Penguin if that did not happen.
+
+295
+00:27:10,973 --> 00:27:14,835
+Yeah, I just cannot see Jonah Hill in this show,
+but there's no touching Colin Farrell in this
+
+296
+00:27:14,875 --> 00:27:20,278
+performance. Absolutely not, yeah. Now, the
+Penguin in the comics is unique among Batman
+
+297
+00:27:20,298 --> 00:27:26,202
+villains in that he's not insane, just unbelievably
+prideful and narcissistic and vengeful. And
+
+298
+00:27:26,242 --> 00:27:31,263
+I love that this version of the character manages
+to stay true to all of that while also being
+
+299
+00:27:31,343 --> 00:27:36,545
+fairly unique. You know, like we mentioned earlier,
+Oz didn't grow up rich like in the comics,
+
+300
+00:27:36,985 --> 00:27:41,686
+and that serves as one of his motivations in
+this universe, to help bring his mom out of
+
+301
+00:27:41,766 --> 00:27:47,548
+poverty and become a symbol for his community
+as someone to be admired and relied upon. He
+
+302
+00:27:47,588 --> 00:27:53,309
+has this romanticized, almost Robin Hood-esque
+view of being a mafia don, and wants to be
+
+303
+00:27:53,449 --> 00:27:58,886
+one. but is continually diminished and overlooked
+by others due to his physical handicap and
+
+304
+00:27:58,966 --> 00:28:04,991
+scarred face, which he takes great offense to.
+He considers the name Penguin to be very offensive
+
+305
+00:28:05,071 --> 00:28:11,016
+and disrespectful, and he'll straight up murder
+or betray anyone to prove his worth, even impulsively,
+
+306
+00:28:11,376 --> 00:28:16,120
+as he did several times throughout the show,
+such as with his brothers, Alberto, and even
+
+307
+00:28:16,260 --> 00:28:23,690
+Vic. That said, his character delves into morally
+grey area, often doing bad things for seemingly
+
+308
+00:28:23,750 --> 00:28:29,791
+the greater good, or so we believe. Ultimately,
+his narcissistic need for attention and control
+
+309
+00:28:30,191 --> 00:28:36,433
+culminates in the almost poetic tragedy of the
+Penguin, finally attaining his lifelong goal
+
+310
+00:28:36,753 --> 00:28:42,195
+of becoming the head of Gotham's criminal underworld,
+but at the cost of all of his relationships,
+
+311
+00:28:42,215 --> 00:28:48,456
+having killed Vic, essentially imprisoning his
+mother, and forcing his lover, Eve, who betrayed
+
+312
+00:28:48,496 --> 00:28:54,146
+him, to role play as his mother in this demeaning
+and twisted fantasy. I got the impression that
+
+313
+00:28:54,626 --> 00:29:00,368
+the relationship between Eve and Oz was always
+somewhat of a role-playing type relationship.
+
+314
+00:29:00,668 --> 00:29:04,729
+I got the impression that was not the first
+time that she had done that. Really? I didn't
+
+315
+00:29:04,769 --> 00:29:09,250
+get that. Although I guess I would have put
+it past him. It was legitimately horrifying
+
+316
+00:29:09,450 --> 00:29:14,772
+seeing his mother cry in the hospital bed looking
+out on the city as a vegetable trapped in her
+
+317
+00:29:14,812 --> 00:29:21,406
+body and having Oz interpret her tear as her
+being happy for him. Yeah. Yeah, that was really
+
+318
+00:29:21,426 --> 00:29:26,470
+hard to watch, especially considering the fact
+that we knew that's the last thing she wanted.
+
+319
+00:29:26,510 --> 00:29:33,295
+She wanted Oz to kill her over her ending up
+like that. The fact that he twisted that into
+
+320
+00:29:33,355 --> 00:29:37,598
+something where he just kind of ignored her
+pain, knowing the promise that he had made
+
+321
+00:29:37,618 --> 00:29:43,262
+to her, feeling like he had given her what she
+wanted, is incredibly selfish of him, but also
+
+322
+00:29:43,322 --> 00:29:47,905
+right in line with the character. The fact that
+he killed people who didn't deserve to die
+
+323
+00:29:47,945 --> 00:29:54,957
+like Vic. and left people alive who he promised
+to kill is very malevolent. Yeah, what was
+
+324
+00:29:54,977 --> 00:30:00,820
+your reaction to him killing Vic in the final
+episode, rationalizing it as Vic being too
+
+325
+00:30:00,840 --> 00:30:06,743
+much like family and therefore being a vulnerability
+to him in his rise to power? I figured from
+
+326
+00:30:06,783 --> 00:30:10,986
+the very first episode that Vic was not going
+to make it to the end of the series. I figured
+
+327
+00:30:11,006 --> 00:30:16,149
+he was living on borrowed time, essentially.
+I was surprised that it happened when it happened
+
+328
+00:30:16,189 --> 00:30:21,804
+and the way that it happened. It was very, very
+heartbreaking, but also not surprising considering
+
+329
+00:30:21,824 --> 00:30:26,848
+the fact that Oswald's own family, his mother,
+had just betrayed him. You know, telling him
+
+330
+00:30:26,868 --> 00:30:31,131
+that she hated him and stuff like that. So yeah,
+I see where he was coming from about how family
+
+331
+00:30:31,171 --> 00:30:35,414
+is not a good thing to have. I remember that
+scene took me completely by surprise because
+
+332
+00:30:35,454 --> 00:30:39,457
+I was thinking at the time, now this is kind
+of a slow scene, and then all of a sudden he
+
+333
+00:30:39,477 --> 00:30:43,960
+just fucking crushes his throat. And it was
+kind of disturbing in the way that it snuck
+
+334
+00:30:43,980 --> 00:30:48,466
+up on me. Yeah, it was very disturbing. Honestly.
+I know this probably won't be the case and
+
+335
+00:30:48,506 --> 00:30:54,408
+I kinda hope it isn't, but maybe Vic will come
+back. Maybe Vic will come back as Victor Zazz
+
+336
+00:30:54,448 --> 00:30:59,710
+instead of Victor Aguilar. I actually hope that
+happens because I think Vic was too good of
+
+337
+00:30:59,730 --> 00:31:05,372
+a character to just let go like that. I understand
+the poetic nature of it, but I also, yeah,
+
+338
+00:31:05,412 --> 00:31:09,793
+like you don't want to see the character go
+away. But speaking of Victor Aguilar, he was
+
+339
+00:31:09,853 --> 00:31:15,155
+played by Renzi Feliz. I'm still heartbroken
+by what happened to Vic. He was hands down
+
+340
+00:31:15,195 --> 00:31:20,317
+the most likable character on the show, thanks
+in large part to Renzi's very real and very
+
+341
+00:31:20,357 --> 00:31:25,720
+sympathetic performance. Yeah, I liked him ever
+since The Runaway Show. He played Alex Wilder
+
+342
+00:31:25,760 --> 00:31:30,742
+in that show, so he's a really talented actor
+who's now done both Marvel and DC work. But
+
+343
+00:31:30,762 --> 00:31:36,905
+his better stuff is for DC, as is most actors
+who do both. Tell that to Jared Leto. That's
+
+344
+00:31:36,925 --> 00:31:43,945
+a horrible example. Now Victor was a tremendously
+effective audience surrogate. You know, he
+
+345
+00:31:43,965 --> 00:31:49,971
+was this smart, if not naive orphaned boy who
+just didn't want to die. Who eventually, like
+
+346
+00:31:49,991 --> 00:31:54,835
+a lot of the characters on the show, fell for
+the promises that Oz made and he even began
+
+347
+00:31:54,875 --> 00:32:00,841
+to champion his ideals. You got the sense that
+even though Vic became Oz's right-hand man,
+
+348
+00:32:01,281 --> 00:32:07,274
+he was adopting only Oz's good traits about
+loyalty, fairness, and success. Vic felt shame
+
+349
+00:32:07,294 --> 00:32:12,415
+and guilt when he was forced to do bad things,
+and ultimately his loyalty was rewarded with
+
+350
+00:32:12,455 --> 00:32:18,097
+a harsh death at the hands of a man unwilling
+to share anything, power, respect, and even
+
+351
+00:32:18,197 --> 00:32:24,299
+a human connection. I loved how human Victor
+was, you know? He made mistakes. He failed
+
+352
+00:32:24,339 --> 00:32:29,700
+to put the jewels in John Vede's car. He let
+his girl go on the bus. He gave away a chance
+
+353
+00:32:29,820 --> 00:32:35,522
+at happiness in that regard. Right. Yeah. Oof.
+That's super sad in hindsight. The stutter
+
+354
+00:32:35,542 --> 00:32:40,683
+was a pretty humanizing aspect as well. For
+sure. Yeah, it was something that even Oswald
+
+355
+00:32:40,723 --> 00:32:45,124
+recognized. I think it was the main reason he
+kind of took him on as his surrogate. I think
+
+356
+00:32:45,164 --> 00:32:52,907
+Rezzy Feliz did as well with his stutter acting
+as someone like someone like Charlie Cox does
+
+357
+00:32:52,967 --> 00:32:58,388
+with his blind acting. It was just entirely
+convincing and obviously well researched and
+
+358
+00:32:58,428 --> 00:33:02,769
+informed. And I definitely commend him for that.
+Yeah, 100 percent. I didn't feel forced or
+
+359
+00:33:02,789 --> 00:33:07,091
+anything like that. And it was always interesting
+to see when it didn't pop up, like when he
+
+360
+00:33:07,111 --> 00:33:11,113
+was really passionate about something. That
+was cool to see. Like he had his own arc in
+
+361
+00:33:11,153 --> 00:33:18,356
+regards to his stutter. Moving on to Sofia Falcone,
+aka Sofia Gigante, aka The Hangman. She was
+
+362
+00:33:18,396 --> 00:33:24,398
+played by Kristen Malotti. Now like Colin Farrell's
+performance, Kristen thoroughly embodied the
+
+363
+00:33:24,438 --> 00:33:30,801
+role of Sofia in a very profound performance.
+I only know Kristen from her comedic work on
+
+364
+00:33:30,861 --> 00:33:35,915
+How I Met Your Mother. So I didn't even know
+she was capable of top tier acting like this.
+
+365
+00:33:36,375 --> 00:33:41,976
+And holy shit, where's this woman's Emmy? Like,
+why even bother holding any kind of award ceremony?
+
+366
+00:33:42,036 --> 00:33:48,598
+Just give it to her. She was intense, man. Even
+from the first episode, I was just scared as
+
+367
+00:33:48,678 --> 00:33:53,899
+shit of her. Yeah, when she was talking to Oz
+as he was being tortured, naked on that chair
+
+368
+00:33:53,919 --> 00:33:59,021
+with the wire in his armpit, I was like, oh,
+damn. Oh, this scene is wild. Her performance,
+
+369
+00:33:59,461 --> 00:34:05,079
+actually the entire cast's performances. matched
+the quality of the writing, which was phenomenal,
+
+370
+00:34:05,159 --> 00:34:11,762
+especially for the character of Sofia. Her arc
+is rooted in vengeance and a desire to reclaim
+
+371
+00:34:12,002 --> 00:34:17,724
+her father's empire, which she was promised
+by him before he betrayed her. Her path somewhat
+
+372
+00:34:17,824 --> 00:34:24,287
+mirrors the penguins and how her desire to restore
+her family's honor and legacy drives her to
+
+373
+00:34:24,327 --> 00:34:30,554
+make horrific choices. She wants to prove she's
+worthy of the throne, but in doing so, she
+
+374
+00:34:30,594 --> 00:34:36,758
+becomes just as corrupt as the men who denied
+her. Her journey is one of tragic self-destruction,
+
+375
+00:34:37,118 --> 00:34:42,062
+showing how even the best intentions can be
+swallowed up by the desire for power. And as
+
+376
+00:34:42,102 --> 00:34:47,625
+she works to reclaim her birthright from the
+dismissive men in her family, she ultimately
+
+377
+00:34:47,665 --> 00:34:53,610
+becomes the one thing she was accused of being
+and never wanted to be, which was a mass murderer.
+
+378
+00:34:54,130 --> 00:34:59,213
+And while she's horrifying, she's also very
+sympathetic because the show does a great job
+
+379
+00:34:59,550 --> 00:35:04,591
+of showing everything she's been through, all
+the unjust trauma. But in the end, she comes
+
+380
+00:35:04,631 --> 00:35:10,373
+back full circle into the hell that created
+the monster that she is. Yeah, back in Arkham,
+
+381
+00:35:10,833 --> 00:35:16,134
+which is unfortunate. She never really should
+have gone back. I think the one misstep that
+
+382
+00:35:16,214 --> 00:35:21,036
+she had and therefore it kind of felt like the
+show had was when she didn't kill Oswald when
+
+383
+00:35:21,076 --> 00:35:25,897
+she had the opportunity to. Instead, trying
+to play this weird humiliation game between
+
+384
+00:35:25,937 --> 00:35:30,370
+him and his mother, you know. that just seemed
+like unnecessary on her part. And she kind
+
+385
+00:35:30,390 --> 00:35:34,071
+of paid the price for that. She was kind of
+twisted about it. You know, she had the benefit
+
+386
+00:35:34,151 --> 00:35:40,413
+of having a psychiatrist for a lover of sorts.
+So she kind of ran with that. I could see where
+
+387
+00:35:40,433 --> 00:35:44,354
+she was coming from because the character was
+pretty twisted and she just wanted to make
+
+388
+00:35:44,394 --> 00:35:49,275
+him suffer before killing him. But yeah, like
+I said, I think those actions were in character
+
+389
+00:35:49,315 --> 00:35:53,757
+for her. I really loved the play throughout
+the whole series between, you know, Sophia
+
+390
+00:35:53,777 --> 00:35:58,790
+being an ally of Kawalpats and then an enemy
+and then an ally. and the shifting power balances
+
+391
+00:35:58,830 --> 00:36:03,173
+that were fluctuating throughout the episodes.
+It was just really well crafted and kept me
+
+392
+00:36:03,213 --> 00:36:07,616
+hooked. I didn't actually think she was going
+to be the main bad of the series. I thought
+
+393
+00:36:07,636 --> 00:36:12,540
+that was going to be Carmine Falcone or even
+Alberto Falcone. I actually thought there was
+
+394
+00:36:12,560 --> 00:36:17,943
+going to be a reveal probably towards the end
+of the season where Alberto was the real Hank
+
+395
+00:36:17,963 --> 00:36:22,426
+man and not his father and his father was just
+covering for his son. Sort of in the same way
+
+396
+00:36:22,446 --> 00:36:27,670
+that Alberto was revealed to be the holiday
+killer in The Long Halloween. That would have
+
+397
+00:36:27,690 --> 00:36:31,072
+been interesting, yeah. Yeah, I thought so.
+I would have liked to have seen the actor get
+
+398
+00:36:31,112 --> 00:36:35,574
+more screen time. But I also don't hate the
+fact that Sophia was the hangman because she
+
+399
+00:36:35,614 --> 00:36:40,717
+was the hangman in the comics. I think honestly
+this entire cast is gonna sweep the Yemis next
+
+400
+00:36:40,757 --> 00:36:45,840
+year, at least for the Drama Awards. Yeah, you
+better fucking hope that Agatha Alalong is
+
+401
+00:36:45,880 --> 00:36:52,244
+nominated as a comedy, because you are screwed.
+It obviously is. I think both Agatha Alalong
+
+402
+00:36:52,544 --> 00:36:56,538
+and the Penguin are gonna win a lot of awards
+next year. I hope so. I don't actually watch
+
+403
+00:36:56,558 --> 00:37:01,602
+a lot of television just doing this podcast
+that isn't Marvel or DC related, especially
+
+404
+00:37:01,682 --> 00:37:07,446
+recently, but I have a hard time imagining something
+could be better than The Penguin. And when
+
+405
+00:37:07,466 --> 00:37:12,349
+it wins, it'll just help solidify the superhero
+genre's place in the larger film and television
+
+406
+00:37:12,389 --> 00:37:17,092
+landscape. Yeah, if Watchmen hadn't done that
+already, hopefully The Penguin will. But let's
+
+407
+00:37:17,132 --> 00:37:18,893
+move on to our story highlights.
+
+408
+00:37:25,966 --> 00:37:31,689
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+409
+00:37:31,709 --> 00:37:37,433
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+410
+00:37:37,493 --> 00:37:43,177
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+411
+00:37:45,294 --> 00:37:51,937
+Comic Book Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+412
+00:37:52,497 --> 00:37:58,420
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+413
+00:37:58,440 --> 00:38:04,143
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+414
+00:38:04,663 --> 00:38:08,945
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+415
+00:38:13,330 --> 00:38:19,012
+Episode 1 was titled After Hours. One week after
+the assassination of Carmine Falcone and the
+
+416
+00:38:19,052 --> 00:38:25,593
+destruction of Gotham City Sea Wall by the Riddler,
+Oswald Cobb is caught by Alberto Falcone, Carmine's
+
+417
+00:38:25,633 --> 00:38:31,275
+son and heir apparent as he recovers a stash
+of Falcone's valuables from the Iceberg Lounge.
+
+418
+00:38:31,615 --> 00:38:37,517
+After Alberto reveals plans to revolutionize
+the Falcone drug operation, he ridicules Oz's
+
+419
+00:38:37,637 --> 00:38:43,648
+aspirations to become a powerful mobster. and
+Oz impulsively shoots Alberto dead. Oz attempts
+
+420
+00:38:43,688 --> 00:38:48,491
+to dispose of Alberto's body and threatens a
+group of juvenile delinquents who are attempting
+
+421
+00:38:48,531 --> 00:38:54,435
+to steal the rooms from his car. He spares Victor
+Aguilar after forcing him to help dispose of
+
+422
+00:38:54,516 --> 00:39:00,960
+Alberto's body, and hearing him stutter, ultimately
+recruits him as his driver. Oz learns that
+
+423
+00:39:01,000 --> 00:39:06,484
+the Falcons plan to assume control of his drug
+ring, while Alberto's sister, Sophia Falcone,
+
+424
+00:39:06,864 --> 00:39:12,519
+newly released from Arkham Asylum, suspects
+Oz is responsible for Alberto's disappearance.
+
+425
+00:39:13,099 --> 00:39:18,281
+Oz's plans to skip town are discouraged by his
+dementia-stricken mother, Frances, after which
+
+426
+00:39:18,441 --> 00:39:24,424
+Oz visits Falcone's rival, Salvatore Maroney,
+in Blackgate Prison, offering to bring the
+
+427
+00:39:24,464 --> 00:39:29,886
+drug operation back into Maroney's control.
+Maroney is reluctant, but reconsideres after
+
+428
+00:39:30,006 --> 00:39:35,248
+Oz returns to him a ring he'd taken off of Alberto
+that Carmine had taken from Maroney.
+
+429
+00:39:38,998 --> 00:39:44,479
+but is distracted by the sudden recovery of
+Alberto's body, staged by Vic to implicate
+
+430
+00:39:44,579 --> 00:39:51,201
+Moroni's crew. Oz is released and begins plotting
+with Vic to take control of the Falcone crime
+
+431
+00:39:51,241 --> 00:39:56,742
+family. Fantastic first episode, I was totally
+hooked from the get-go. I was super shocked
+
+432
+00:39:56,863 --> 00:40:03,004
+when basically in the first scene, the Penguin
+killed Alberto Falcone, and it was just a series
+
+433
+00:40:03,024 --> 00:40:08,394
+of shocking twists and turns from then on out.
+Oh, absolutely, I started watching. this show
+
+434
+00:40:08,554 --> 00:40:14,618
+in my living room. And right when that scene
+happened, I basically yelled, oh shit. And
+
+435
+00:40:14,658 --> 00:40:20,522
+then I was forced to go watch in the bedroom.
+I guess my one question about this episode,
+
+436
+00:40:20,542 --> 00:40:25,366
+which seemed like a plot hole, was did Oz know
+that he was going to get captured by Sophia
+
+437
+00:40:25,446 --> 00:40:31,190
+and taken to the Falcon Mansion? No, I don't
+believe he did. We do know that Vic kind of
+
+438
+00:40:31,270 --> 00:40:36,570
+screwed up the plan. He was supposed to send
+the Falcons Alberto's decapitated head. He
+
+439
+00:40:36,590 --> 00:40:42,235
+just couldn't figure out how to do that exactly.
+Yeah, I definitely don't think it was Oswald's
+
+440
+00:40:42,275 --> 00:40:46,939
+plan to get tortured. So the initial plan was
+just to crash the car into the mansion and
+
+441
+00:40:46,959 --> 00:40:51,924
+just leave it at that. I just happened to be
+lucky enough to be saved by Vicks timing. I
+
+442
+00:40:51,944 --> 00:40:57,249
+mean, the guy was cut up pretty bad. I think
+timing wise, the penguin would have rather
+
+443
+00:40:57,670 --> 00:41:04,122
+had it come earlier. Man, the wire in the armpit.
+I never would have thought of that. I've never
+
+444
+00:41:04,142 --> 00:41:09,564
+seen anything like that in my entire life. And
+I hope I don't again. I squirmed in my chair
+
+445
+00:41:09,604 --> 00:41:14,325
+for sure. Looking at that method of torture.
+This whole episode had such great tension.
+
+446
+00:41:14,705 --> 00:41:18,546
+Like even when he was getting tortured and they
+found one of the kids who was stealing his
+
+447
+00:41:18,626 --> 00:41:23,627
+rims and he was basically like, no, the guy's
+lying. It's like, oh my gosh, dude, really?
+
+448
+00:41:24,107 --> 00:41:28,349
+There's no way you're getting out of this. Only
+for Victor to come through in that moment.
+
+449
+00:41:31,958 --> 00:41:37,482
+Though I rate that Oz framed him, Moroni continues
+their partnership by allowing Oz to help with
+
+450
+00:41:37,522 --> 00:41:43,527
+a Falcon drop shipment that is subsequently
+taken by Moroni's crew. Carmine's brother,
+
+451
+00:41:43,607 --> 00:41:50,152
+Luca, arrives to assume leadership of the crime
+family. Meanwhile, Sofia suffers PTSD from
+
+452
+00:41:50,192 --> 00:41:56,337
+Alberto's death and becomes increasingly unhinged,
+convinced someone in the family is a mole for
+
+453
+00:41:56,377 --> 00:42:03,818
+Moroni. She bribes a drug addicted GCPD detective,
+Marcus Wise, investigate the heist and Wise
+
+454
+00:42:03,858 --> 00:42:10,080
+kidnaps Ervod, one of Moroni's henchmen, from
+the hospital. Moroni's wife, Nadia, assigns
+
+455
+00:42:10,240 --> 00:42:16,562
+Oz to retrieve Ervod before the Felcones get
+him to talk. During Alberto's funeral, Oz assigns
+
+456
+00:42:16,622 --> 00:42:22,824
+Vic to plant evidence to frame Felcone underboss
+Johnny Viti for Alberto's murder while he reaches
+
+457
+00:42:22,904 --> 00:42:28,305
+Ervod to have him implicate Viti. However, Vic
+is caught trying to plant the evidence and
+
+458
+00:42:28,345 --> 00:42:34,539
+barely escapes. forcing Oz to murder Ervad instead
+with a switchblade, which he then plants on
+
+459
+00:42:34,599 --> 00:42:41,401
+Sofia's personal enforcer, Castillo, to frame
+him as the mole. Luca executes Castillo, denying
+
+460
+00:42:41,461 --> 00:42:47,362
+Sofia's demand that she do so to avenge Alberto,
+and orders her out of the family business.
+
+461
+00:42:47,963 --> 00:42:53,104
+Oz makes Vic dig a grave for Ervad and Castillo,
+threatening to kill him if he fails again.
+
+462
+00:42:53,464 --> 00:42:59,150
+He then meets with Sofia, who proposes a partnership
+to wipe out the Falcone family hierarchy, so
+
+463
+00:42:59,170 --> 00:43:04,873
+she may take control. Solid second episode.
+I really love how the end of it sets up the
+
+464
+00:43:04,993 --> 00:43:11,356
+stakes of the show and that Penguin and Sophia
+are gonna join forces to bring down the Falcone
+
+465
+00:43:11,376 --> 00:43:15,979
+crime family. I thought that was a great initial
+setup, of course, that kind of gets unraveled,
+
+466
+00:43:16,399 --> 00:43:20,661
+but yeah, everything that happened in this episode,
+I thought was a great continuation of the first.
+
+467
+00:43:21,122 --> 00:43:27,465
+Now, did Oz initially intend to plant the knife
+on Viti or was he always planning on framing
+
+468
+00:43:27,625 --> 00:43:32,439
+Sophia's bodyguard? I initially thought he was
+going to plant it on John Viti, but I think
+
+469
+00:43:32,459 --> 00:43:37,101
+it was actually really smart of him to do it
+on Castillo considering that no one would have
+
+470
+00:43:37,141 --> 00:43:41,363
+probably believed that John Viti would betray
+the family considering he was second in command.
+
+471
+00:43:41,823 --> 00:43:46,885
+And Oz wanted to utilize the leverage that he
+still had on Viti later on. Makes sense, yeah.
+
+472
+00:43:46,925 --> 00:43:53,127
+Did you crap your pants like I did when Vic
+got caught planting the jewels in John Viti's
+
+473
+00:43:53,147 --> 00:43:58,189
+car? No, I went to the bathroom like a regular
+person. Okay, but you still had to shit yourself?
+
+474
+00:43:58,798 --> 00:44:05,502
+Yes. OK. I totally thought Vic was going to
+die in that moment. Everything that happened
+
+475
+00:44:05,522 --> 00:44:09,725
+in this episode was just so unpredictable, which
+is one of the reasons that I loved it. Actually,
+
+476
+00:44:09,745 --> 00:44:16,090
+this whole show was pretty much unpredictable.
+Well, it made Oz a good protagonist despite
+
+477
+00:44:16,150 --> 00:44:21,734
+all of his malevolence because he was so adaptable
+and able to roll with things. And it was always
+
+478
+00:44:21,774 --> 00:44:26,497
+interesting in seeing what ways he managed to
+survive episode to episode despite all the
+
+479
+00:44:26,517 --> 00:44:33,154
+shit he was pulling. Oh absolutely, yeah. Moving
+on to episode 3, titled Bliss. In flashbacks,
+
+480
+00:44:33,494 --> 00:44:39,860
+Vic is left orphaned after the Sea Wall explosion
+drowns his family. In the present, Sofia introduces
+
+481
+00:44:40,060 --> 00:44:47,306
+Oz to a new drug that was used on her and other
+inmates at Arkham, which Oz names Bliss. Together
+
+482
+00:44:47,346 --> 00:44:51,770
+they make a pitch to the Triads to help distribute
+the Bliss across the city, but they refuse
+
+483
+00:44:51,810 --> 00:44:57,690
+to do business with the pair unless they gain
+the support of John Vede. Oz and Sofia blackmail
+
+484
+00:44:57,730 --> 00:45:02,972
+Viti for his support by threatening to expose
+his sexual affair with Luca's wife, after which
+
+485
+00:45:03,012 --> 00:45:08,535
+the triads agree to enter into business with
+Oz and Sofia. Meanwhile, Vic is torn by his
+
+486
+00:45:08,575 --> 00:45:13,597
+desire to leave Gotham with his girlfriend in
+pursuit of a better life, or staying with Oz
+
+487
+00:45:13,897 --> 00:45:18,759
+to potentially become rich and powerful, while
+also fearing that Oz will kill him if he tries
+
+488
+00:45:18,779 --> 00:45:26,058
+to flee. When Oz learns of Vic's intentions,
+though angry, Oz allows Vic to leave. Vic ultimately
+
+489
+00:45:26,118 --> 00:45:31,281
+chooses Oz over his girlfriend however, and
+returns only to find Oz and Sophia held at
+
+490
+00:45:31,341 --> 00:45:37,344
+gunpoint by the Morones, who have realized Oz's
+duplicity. Before a hitman can execute Oz,
+
+491
+00:45:37,705 --> 00:45:44,088
+Vic crashes Oz's car into him and the two escape,
+leaving Sophia abandoned to her fate with the
+
+492
+00:45:44,128 --> 00:45:50,672
+Morones. Now all of this happened really fast
+I thought, which was exciting. Oz playing like
+
+493
+00:45:50,732 --> 00:45:58,445
+triple agent between the Falcons. and Moroni's
+and Sofia's own little thing. I didn't think
+
+494
+00:45:58,465 --> 00:46:03,089
+it was going to unravel as quickly as it did.
+Yeah, and it was so climactic that I almost
+
+495
+00:46:03,209 --> 00:46:08,152
+was wondering where the show could possibly
+go from there. Oh, same. It just felt like
+
+496
+00:46:08,372 --> 00:46:12,696
+everything that the story had been building
+towards in that moment just came crashing down.
+
+497
+00:46:13,116 --> 00:46:16,419
+And then the series, you know, became about
+Sofia and the Moroni's teaming up to go up
+
+498
+00:46:16,479 --> 00:46:20,221
+against Oz. But yeah, I was basically on the
+edge of my seat at the end of this episode.
+
+499
+00:46:20,646 --> 00:46:25,868
+And the start of the episode, like seeing the
+seawall crash into Vic's home and seeing his
+
+500
+00:46:25,888 --> 00:46:30,910
+family die and experiencing the attack that
+the Riddler did on the city was the stuff from
+
+501
+00:46:30,950 --> 00:46:37,332
+nightmares. Oh, literally. It was so tragic
+and real feeling. I literally have nightmares
+
+502
+00:46:37,372 --> 00:46:43,755
+about tidal waves. So that was very, very horrifying
+when I saw that. And just seeing Vic's expression
+
+503
+00:46:43,915 --> 00:46:50,418
+as well, like you cannot be more sympathetic
+towards that guy. He lost everything. blame
+
+504
+00:46:50,678 --> 00:46:56,840
+Batman for Vicks and his family's death. Okay.
+If he was smart enough, if he was a good enough
+
+505
+00:46:56,900 --> 00:47:04,383
+detective to know what a fucking carpet tool
+was, none of that would have happened. Wow.
+
+506
+00:47:05,084 --> 00:47:09,826
+You know what? Victor probably would have blamed
+Batman too. Now we've compared the show to
+
+507
+00:47:09,906 --> 00:47:16,188
+genre greats like the Godfather, Scarface, but
+it also reminds me a lot of like the Sopranos
+
+508
+00:47:16,388 --> 00:47:22,435
+and Breaking Bad, especially when we get a look
+drugs that they're growing on freaking mushrooms
+
+509
+00:47:22,796 --> 00:47:28,540
+instead of like blue meth crystals like in Breaking
+Bad it's red crystals which was really interesting
+
+510
+00:47:28,580 --> 00:47:32,943
+to see it was like something new I'd never seen
+before the way they were doing that and to
+
+511
+00:47:32,963 --> 00:47:39,647
+have the backstory of it come from like Arkham
+medication that was brilliant. Moving on to
+
+512
+00:47:39,707 --> 00:47:46,272
+episode four titled Chentani. In flashbacks
+Sophia learns from a reporter that Carmine
+
+513
+00:47:46,292 --> 00:47:51,374
+is suspected of being the hangman. a serial
+killer who strangled and hanged numerous women
+
+514
+00:47:51,514 --> 00:47:56,416
+in a similar manner as she had witnessed her
+own mother die when Sofia was a child. Desperate
+
+515
+00:47:56,436 --> 00:48:02,577
+for answers, Sofia meets with the reporter privately.
+Oz alerts Carmine to that, who retaliates by
+
+516
+00:48:02,637 --> 00:48:07,819
+framing Sofia for the murders and having her
+committed to Arkham Asylum, horrifying both
+
+517
+00:48:07,879 --> 00:48:13,860
+Alberto and Oz. Though she's initially only
+to be confined for six months, Carmine pulls
+
+518
+00:48:13,920 --> 00:48:19,506
+strings to extend her stay to over a decade
+until his death. She is constantly mocked by
+
+519
+00:48:19,546 --> 00:48:26,151
+the inmates, while her doctor, Ventress, subjects
+her to electroshock therapy. Ventress' associate,
+
+520
+00:48:26,211 --> 00:48:32,856
+Dr. Julian Rush, eventually realizes that Sofia
+is innocent and quits. The mental and physical
+
+521
+00:48:32,936 --> 00:48:38,760
+strain leads Sofia into a breakdown, and she
+murders her cellmate, Magpie. In the present,
+
+522
+00:48:38,940 --> 00:48:45,164
+Sofia is rescued by Rush, and Sofia, having
+learned from Nadia that Oz murdered Alberto,
+
+523
+00:48:45,504 --> 00:48:50,651
+concludes that no one can be trusted. That night
+she unleashes a gas in the Felcone mansion
+
+524
+00:48:50,951 --> 00:48:57,255
+that wipes out the Felcone family hierarchy
+including Luca. She spares Gia, her cousin's
+
+525
+00:48:57,295 --> 00:49:03,298
+young daughter, and Viti whom she holds at gunpoint.
+This is a pretty good flashback episode. Arkham
+
+526
+00:49:03,398 --> 00:49:07,861
+looks absolutely horrifying and I really like
+how they kept up the continuity from the Batman
+
+527
+00:49:07,901 --> 00:49:12,964
+film and how the institution was presented.
+Yeah, it looks like they used the same set
+
+528
+00:49:13,324 --> 00:49:19,092
+for sure. I agree. Absolutely horrifying. This
+is another nightmarish situation where you're
+
+529
+00:49:19,112 --> 00:49:24,736
+just trapped in a mental institution and over
+medicated so that you can't escape or do anything
+
+530
+00:49:24,776 --> 00:49:29,620
+or no one will believe you. It's very much believable
+that something like that, along with the electroshock
+
+531
+00:49:29,660 --> 00:49:36,005
+therapy, would drive Sophia insane. It was neat
+how Magpie was in this episode, who is a Batman
+
+532
+00:49:36,085 --> 00:49:40,709
+villain. She's like a thief, right? Right, yeah.
+Although I will say that the actress kinda
+
+533
+00:49:40,829 --> 00:49:46,290
+turned in a CW performance for an HBO show.
+Uh, yeah, that's fair. Although I'm not- I'm
+
+534
+00:49:46,310 --> 00:49:51,473
+not quite sure what else I would have expected
+from her. It was very like Harley Quinn-lite,
+
+535
+00:49:51,573 --> 00:49:57,597
+I would say. And speaking of Batman villains,
+did you see that fans spotted a scarecrow mask
+
+536
+00:49:57,698 --> 00:50:04,002
+and glove inside Julian Rush's office? Wait,
+what? No? Yeah, there are screenshots you can
+
+537
+00:50:04,042 --> 00:50:08,465
+see of it online. Okay, I need to see that now.
+It's not necessarily an implication that Julian
+
+538
+00:50:08,565 --> 00:50:13,589
+was the scarecrow. It may just been that he
+was treating Jonathan Crane while in Arkham.
+
+539
+00:50:13,709 --> 00:50:19,145
+Oh snap, look at that. Oh man, I cannot wait
+to see Matt Reeves version of Scarecrow. That's
+
+540
+00:50:19,165 --> 00:50:23,649
+gonna be awesome. If that happens. Oh, they're
+freaking teasing that it's gonna happen. Who
+
+541
+00:50:23,689 --> 00:50:28,774
+do you want to be the main villain of the Batman
+2? I keep hearing rumors that it's going to
+
+542
+00:50:28,794 --> 00:50:36,421
+be Mr. Freeze and that his whole thing is going
+to be a new drug in Gotham City that freezes
+
+543
+00:50:36,461 --> 00:50:41,385
+people. I didn't hate the interpretation, but
+I also wouldn't hate if they went with someone
+
+544
+00:50:41,798 --> 00:50:47,022
+like the Scarecrow who's a little bit more grounded
+I would say than even Mr. Freeze. I just think
+
+545
+00:50:47,062 --> 00:50:51,005
+Mr. Freeze needs to be done justice on screen.
+We've already had a good version of Scarecrow.
+
+546
+00:50:51,425 --> 00:50:55,869
+I want to see Clayface be the bad guy and as
+opposed to being like a muck monster guy he's
+
+547
+00:50:55,909 --> 00:51:00,653
+just like a serial killer in the same vein of
+what we got earlier this year in Batman the
+
+548
+00:51:00,693 --> 00:51:06,218
+Kid Crusader. I would totally love that. I would
+accept that, absolutely. Moving on to episode
+
+549
+00:51:06,298 --> 00:51:06,658
+five
+
+550
+00:51:11,282 --> 00:51:17,204
+as ransom in exchange for the Bliss shipment
+stolen by Nadia. At the same time, Oz has Vic
+
+551
+00:51:17,224 --> 00:51:22,826
+look after Francis. During the trade, a guard
+bribed by Oz tries to assassinate Moroni in
+
+552
+00:51:22,886 --> 00:51:29,169
+Blackgate, while Oz kills Taj and Nadia by setting
+both on fire while exchanging the hostage for
+
+553
+00:51:29,209 --> 00:51:34,711
+the drugs. The fire activates chemical extinguishing
+sprays that destroys most of the Bliss, while
+
+554
+00:51:34,751 --> 00:51:39,513
+Moroni survives the attempt on his life and
+escapes prison. Meanwhile, Gia is sent to a
+
+555
+00:51:39,573 --> 00:51:45,157
+children's home. and Sofia tortures Viti until
+he decides to support her bid to be the family
+
+556
+00:51:45,197 --> 00:51:50,881
+head. Joined by Rush, who has fallen in love
+with her, Sofia rebrands the family under her
+
+557
+00:51:50,921 --> 00:51:56,025
+mother's maiden name, Gigante, and earns the
+loyalty of the crew by making an appeal to
+
+558
+00:51:56,065 --> 00:52:02,630
+shared oppression under the former Mafia heads.
+When Viti objects to her plans, Sofia executes
+
+559
+00:52:02,670 --> 00:52:09,386
+him. She and a grieving Moroni later form an
+alliance to kill Oz. Elsewhere, Oz, after learning
+
+560
+00:52:09,426 --> 00:52:14,267
+of Moroni's escape and losing the support of
+his lover Eve, is berated by his mother for
+
+561
+00:52:14,327 --> 00:52:19,489
+forcing her to hide in a condemned apartment
+in the no-mans land area of Gotham known as
+
+562
+00:52:19,549 --> 00:52:25,610
+Crown Point, where Oz and Francis used to live.
+Oz remembers an abandoned underground railway
+
+563
+00:52:25,650 --> 00:52:31,412
+nearby, showing it to Vic and declaring it their
+new base of operations to regrow the Bliss.
+
+564
+00:52:32,052 --> 00:52:38,834
+The scene where the Penguin straight up sets
+the mother and son on fire was so hardcore.
+
+565
+00:52:39,315 --> 00:52:43,157
+Yeah, I kind of saw it coming a mile away though,
+because I was like, what else would he be dripping
+
+566
+00:52:43,237 --> 00:52:47,040
+wet with? Right. Would it make sense for it
+to be anything else but something combustible?
+
+567
+00:52:47,240 --> 00:52:51,843
+It made me think of the scene from Luke Cage,
+which I think was like a better emulation scene
+
+568
+00:52:52,143 --> 00:52:57,447
+in terms of how impactful and frightening it
+was. But this one was also pretty up there.
+
+569
+00:52:57,707 --> 00:53:02,570
+Oz definitely executed some pretty interesting
+plans on his road to power. I love how they
+
+570
+00:53:02,610 --> 00:53:08,746
+incorporated the underground trolley system
+of Gotham into the show. because the character
+
+571
+00:53:08,766 --> 00:53:13,449
+of the Penguin has usually been associated with
+like the sewers. You know, you take a look
+
+572
+00:53:13,529 --> 00:53:17,912
+at something like Batman Returns and how, you
+know, he was basically abandoned there as a
+
+573
+00:53:18,052 --> 00:53:23,375
+baby. But instead of growing up in the sewers
+like that, in this show, not only did they
+
+574
+00:53:23,415 --> 00:53:28,438
+have him build his criminal underworld from
+there, but it was also like the true origin
+
+575
+00:53:28,458 --> 00:53:32,920
+of the character because it was the location
+of where he first killed his brothers. Yeah,
+
+576
+00:53:32,980 --> 00:53:37,527
+I thought it was definitely an homage to Batman
+returns having them work out of the tunnels
+
+577
+00:53:37,567 --> 00:53:42,372
+underground. But it was weird in that made him
+feel more like the Danny DeVito version of
+
+578
+00:53:42,392 --> 00:53:46,435
+the character, as opposed to the comic book
+version of the character. And they're pulling
+
+579
+00:53:46,455 --> 00:53:50,939
+for multiple inspirations. I thought it was
+fine. I thought it was cool. To me, the penguin
+
+580
+00:53:50,959 --> 00:53:57,504
+will always be the guy operating from the penthouse
+floor of the iceberg lounge building more than
+
+581
+00:53:57,705 --> 00:54:02,949
+the guy operating out of the underground sewer
+system. I think he's at home in both worlds,
+
+582
+00:54:03,009 --> 00:54:09,532
+honestly. I think the show showed that. Episode
+6 was titled Gold Summit. Oz has managed to
+
+583
+00:54:09,572 --> 00:54:15,434
+regrow his drug empire significantly, reproducing
+and distributing the Bliss via the city's abandoned
+
+584
+00:54:15,514 --> 00:54:21,156
+underground trolley system. Sophia and the Moronis
+kill several Bliss dealers as a warning, leading
+
+585
+00:54:21,317 --> 00:54:26,699
+Oz to decide to give away Bliss for free to
+raise demand across all other gang territories.
+
+586
+00:54:27,239 --> 00:54:32,801
+Vic is confronted by Squid, a drug dealer from
+his neighborhood, who asks Vic to let him join
+
+587
+00:54:32,821 --> 00:54:37,891
+the operation. Vic attempts to pay him off,
+but when Squid threatens to expose Vic and
+
+588
+00:54:38,051 --> 00:54:44,513
+Oz unless he gets a meeting with Oz, Vic shoots
+him dead and flees. Frances's condition deteriorates
+
+589
+00:54:44,573 --> 00:54:50,154
+further and she has Oz promise to kill her if
+she becomes severely ill. Oz threatens the
+
+590
+00:54:50,194 --> 00:54:55,456
+corrupt councilman Sebastian Haiti to restore
+electricity to Crown Point and sets a meeting
+
+591
+00:54:55,476 --> 00:55:00,977
+with the heads of the other gangs, who he convinces
+to work together against the Gigantes and Morones.
+
+592
+00:55:01,610 --> 00:55:06,714
+Sophia and Sel break into Oz's apartment to
+find leverage against him, and Sophia discovers
+
+593
+00:55:06,794 --> 00:55:12,718
+a photo of Eve. Sophia visits Eve, threatening
+to kill her to get to Oz, but Eve gives up
+
+594
+00:55:12,758 --> 00:55:18,162
+his location after Sophia reveals Oz was aware
+of the true identity of the Hanged Man who
+
+595
+00:55:18,202 --> 00:55:24,147
+targeted prostitutes. Francis and Vic dance
+to music after power is restored to Crown Point,
+
+596
+00:55:24,567 --> 00:55:29,239
+just as Sophia enters their home with a crowbar.
+Can you remind me where any of the prostitute
+
+597
+00:55:29,279 --> 00:55:35,503
+characters in this show also in the Batman movie
+with Selena Kyle? I don't believe so. They
+
+598
+00:55:35,543 --> 00:55:40,947
+mentioned the 44 below and some of them working
+down there, but I don't remember their faces
+
+599
+00:55:40,987 --> 00:55:46,691
+from the movie. One of the most heartbreaking
+moments of the series is not only when Oswald
+
+600
+00:55:46,771 --> 00:55:53,015
+has to pull his mother out of the freezing cold
+bathtub, but also when Vic is forced to shoot
+
+601
+00:55:53,215 --> 00:55:59,183
+his childhood, not quite friend, but acquaintance.
+I thought those are two very powerful moments
+
+602
+00:55:59,343 --> 00:56:03,525
+from the series and they both happened in this
+episode. You know, one is this very dark moment
+
+603
+00:56:03,625 --> 00:56:09,609
+between a mother and son about euthanasia, and
+the other one sort of signals Vic's descent
+
+604
+00:56:09,829 --> 00:56:15,692
+into possibly being bad. Why do you think Vic
+chose to live the life of a criminal as opposed
+
+605
+00:56:15,712 --> 00:56:21,095
+to going with his girlfriend to California?
+I think Oz is incredibly persuasive. You saw
+
+606
+00:56:21,115 --> 00:56:26,918
+that with him talking with the other gang members.
+I think Vic truly believed. the promise that
+
+607
+00:56:26,978 --> 00:56:32,041
+the Penguin could give him a life better than
+one he had ever known with his family in Crown
+
+608
+00:56:32,081 --> 00:56:38,004
+Point. It's things like that make me feel less
+sympathy for the character of Vic and his fate
+
+609
+00:56:38,044 --> 00:56:43,107
+at the end of the show when you just see him
+make some truly bad decisions in regards to
+
+610
+00:56:43,347 --> 00:56:49,110
+life in general. Well, I definitely think him
+not going with his girlfriend when Oz essentially
+
+611
+00:56:49,190 --> 00:56:56,703
+let him was a huge mistake. I'm not sure that
+killing Squid... was a mistake because it was
+
+612
+00:56:56,763 --> 00:57:03,608
+something that had to be done in part for his
+own self-defense. Squid was an abusive and
+
+613
+00:57:03,748 --> 00:57:09,872
+unpredictable element that definitely needed
+to be eliminated for Oz's and Vic's empire
+
+614
+00:57:09,912 --> 00:57:17,117
+to succeed. Moving on to episode 7 titled Top
+Hat. In a flashback, Oz is resentful of the
+
+615
+00:57:17,157 --> 00:57:22,001
+attention that his mother gives to his brothers
+Jack and Benny. After a game of hide and seek
+
+616
+00:57:22,041 --> 00:57:26,575
+in the sewer tunnels, Oz leaves his brothers
+trapped inside an overflowing sewer tunnel
+
+617
+00:57:26,855 --> 00:57:31,777
+where they drown. In the present, Oz returns
+to his apartment and finds an injured Vic,
+
+618
+00:57:32,078 --> 00:57:37,680
+who reveals that Sofia has kidnapped Francis.
+Vic escapes right before Moroni arrives with
+
+619
+00:57:37,720 --> 00:57:43,583
+his men, who find and beat Oz before forcing
+him to take them to his underground lair. Oz
+
+620
+00:57:43,603 --> 00:57:49,365
+and his men stage an ambush and Moroni dies
+of a heart attack while fighting Oz. Meanwhile-
+
+621
+00:57:49,694 --> 00:57:55,196
+Sophia has Rush interrogate Francis about Oz's
+weaknesses and visits Gia after learning that
+
+622
+00:57:55,216 --> 00:58:01,799
+she intends to cooperate with the police. Disillusioned
+after seeing the pain she has caused Gia, Sophia
+
+623
+00:58:01,839 --> 00:58:07,521
+considers accepting Oz's ultimatum to trade
+Francis for his bliss supply, but Rush convinces
+
+624
+00:58:07,561 --> 00:58:13,424
+her to go through with her desire to see Oz
+suffer. During the trade, Sophia instead sends
+
+625
+00:58:13,464 --> 00:58:19,314
+in a bomb that destroys Oz's underground base
+and kills his entire crew. Oz survives and
+
+626
+00:58:19,354 --> 00:58:25,439
+resurfaces only to be knocked out by Detective
+Wise. There aren't a lot of funny moments in
+
+627
+00:58:25,499 --> 00:58:31,284
+this show, but I definitely thought one of them
+was when Moroni had a heart attack while fighting
+
+628
+00:58:31,424 --> 00:58:36,969
+Oz, which shouldn't be funny because heart attacks
+aren't funny. But that was just so absurd how
+
+629
+00:58:36,989 --> 00:58:44,375
+that happened. And even Oz was like, what the
+fuck? Yeah, he was adamant that he won fair
+
+630
+00:58:44,395 --> 00:58:48,598
+and square during their fight, even though he
+basically lucked out. I thought it was really
+
+631
+00:58:48,618 --> 00:58:54,442
+cool how Oz developed a loyalty amongst the
+people working underground with him, so much
+
+632
+00:58:54,482 --> 00:58:59,946
+so that he had his own army to fight back against
+the Morones when they came down there. Killing
+
+633
+00:58:59,986 --> 00:59:04,048
+the lights and everything, I thought was just
+a really cool strategy that helped them win.
+
+634
+00:59:04,529 --> 00:59:10,673
+What did you think about the flashback to Oz's
+childhood in that he was basically a kid murderer
+
+635
+00:59:10,833 --> 00:59:16,096
+at the time who showed no remorse? I initially
+thought that he was naive enough to not fully
+
+636
+00:59:16,157 --> 00:59:21,443
+recognize his own actions. But then I think
+later on it became clear that his actual intent
+
+637
+00:59:21,563 --> 00:59:25,924
+was to kill his brothers. Yeah, I'm with you.
+I thought initially he didn't realize what
+
+638
+00:59:25,984 --> 00:59:30,325
+he had done. But later on in the series you
+kind of realize that there's something not
+
+639
+00:59:30,365 --> 00:59:37,107
+quite right with this kid. And maybe he did
+it as an act of impulsive rage for his brothers
+
+640
+00:59:37,187 --> 00:59:41,668
+utilizing his handicap against him. And that
+he couldn't get down to where they were. But
+
+641
+00:59:41,688 --> 00:59:47,854
+that makes him sound insane. And yet adult Oswald
+doesn't- seem that insane. Like he's evil,
+
+642
+00:59:48,295 --> 00:59:53,917
+but he's not necessarily crazy. He's malicious
+and vengeful and narcissistic. Those can be
+
+643
+00:59:53,957 --> 00:59:58,459
+seen as mental illnesses of a degree, but ultimately
+when you take a look at the history of the
+
+644
+00:59:58,479 --> 01:00:04,121
+comics, yeah, he does kill his brothers as a
+kid for largely the same reasons because they
+
+645
+01:00:04,141 --> 01:00:08,963
+made fun of him. Sociopathy, I guess you could
+describe it. Yeah, exactly. Although in this
+
+646
+01:00:09,003 --> 01:00:15,050
+case, I think part of him was just looking out
+for his mother. You know, he saw how hard of
+
+647
+01:00:15,070 --> 01:00:21,292
+a time she was having, and he didn't want her
+to be burdened by two other brothers. And you
+
+648
+01:00:21,312 --> 01:00:25,493
+know, he was selfish. He wanted all of her attention
+for himself. So it's interesting how a character
+
+649
+01:00:25,653 --> 01:00:30,114
+like the Penguin throughout the whole show is
+kind of playing two different games, one that
+
+650
+01:00:30,154 --> 01:00:34,975
+benefits him and the one that, you know, benefits
+his family. That's sort of what's somewhat
+
+651
+01:00:35,015 --> 01:00:38,716
+endearing about the character. You know, like
+what kind of guy would threaten a councilman
+
+652
+01:00:38,757 --> 01:00:43,318
+to turn on the lights for the community that
+he was living in. What kind of guy wants to
+
+653
+01:00:43,378 --> 01:00:50,005
+foster this helpful relationship with his community?
+Well, the kind of guy who relies on the community
+
+654
+01:00:50,085 --> 01:00:56,691
+to run his criminal enterprise. That's fair.
+Moving on to the final episode, episode 8,
+
+655
+01:00:56,871 --> 01:01:03,357
+titled A Great or Little Thing. Using EMDR therapy,
+Rush learns that Francis already knew about
+
+656
+01:01:03,537 --> 01:01:09,110
+Oz drowning his brothers and tried to have him
+killed by the gangster Rex Calabrese. but Oz's
+
+657
+01:01:09,150 --> 01:01:14,313
+manipulative promises as a child convinced her
+not to go through with it. Oz is brought to
+
+658
+01:01:14,354 --> 01:01:19,677
+Sophia, who threatens to cut off Francis' finger
+unless Oz confesses to his mom the truth that
+
+659
+01:01:19,697 --> 01:01:24,961
+he killed his brothers. Oz refuses to admit
+his actions even as Rush tortures Francis,
+
+660
+01:01:25,361 --> 01:01:31,125
+causing her to disown him before suffering a
+stroke. Oz manages to escape, killing Wise,
+
+661
+01:01:31,485 --> 01:01:37,974
+and getting Francis to the hospital. Meanwhile,
+the local bosses abandon Oz for Sophia, puts
+
+662
+01:01:38,014 --> 01:01:43,398
+out a bounty for Oz as she prepares to leave
+Gotham. While Oz forms an alliance with Councilman
+
+663
+01:01:43,418 --> 01:01:49,242
+Hady, Vic arranges for the bosses to be murdered
+by their deputies, who help Oz abduct Sophia.
+
+664
+01:01:49,682 --> 01:01:55,567
+Instead of killing her, Oz has his new police
+contacts return her to Arkham. Oz and Vic visit
+
+665
+01:01:55,607 --> 01:02:00,870
+Francis to celebrate only to learn that she
+entered a vegetative state, causing Oz to break
+
+666
+01:02:00,910 --> 01:02:06,638
+down. Later that night, Vic tells Oz that he
+views him as family, which Oz reciprocates
+
+667
+01:02:06,678 --> 01:02:12,803
+before murdering Vic, saying that families make
+people weak. Meanwhile, Rush, who has returned
+
+668
+01:02:12,863 --> 01:02:18,607
+to Arkham to care for Sophia, hands her a letter
+from her half-sister, Selina Kyle. Oz takes
+
+669
+01:02:18,627 --> 01:02:24,251
+the vegetative Francis to a new penthouse suite
+where he dances with Eve dressed as Francis
+
+670
+01:02:24,691 --> 01:02:30,055
+as the bat signal shines in the sky. I loved
+this final episode. I thought it was a solid
+
+671
+01:02:30,175 --> 01:02:34,602
+ending to the season and potentially series
+as a whole. I'm not sure if we're gonna get
+
+672
+01:02:34,622 --> 01:02:39,804
+a second season of this. But yeah, everything
+that happened here, from Oz being unwilling
+
+673
+01:02:39,864 --> 01:02:45,026
+to admit that he killed his brothers to his
+mom, even though she already knew, to the Penguin's
+
+674
+01:02:45,146 --> 01:02:51,609
+very own Don Corleone-type moment in which all
+of the heads of the different gangs are killed
+
+675
+01:02:51,729 --> 01:02:57,712
+at the same time. It was all so freaking great.
+Yeah, that was a great twist, along with getting
+
+676
+01:02:58,092 --> 01:03:02,430
+Sophia Falcone put back into Arkham. I totally
+thought he was gonna kill her. And... It was
+
+677
+01:03:02,470 --> 01:03:07,711
+a great bit of writing leading up to her apparent
+demise that had you convinced that he was going
+
+678
+01:03:07,731 --> 01:03:12,612
+to kill her. He gave her a fate worse than death,
+right? He put her exactly where she did not
+
+679
+01:03:12,652 --> 01:03:17,834
+want to end up again. Although I have to imagine
+Rush would probably help her escape. Yeah,
+
+680
+01:03:18,114 --> 01:03:23,355
+most likely. I wonder what the letter said that
+Selina Kyle wrote her. Yeah, I'm wondering
+
+681
+01:03:23,376 --> 01:03:27,497
+the same thing. I'm actually thinking that we're
+going to see Sophia Falcone show up again in
+
+682
+01:03:27,537 --> 01:03:32,643
+the Batman sequel, maybe alongside Catwoman.
+And if that's the case, I wonder what storyline
+
+683
+01:03:32,663 --> 01:03:38,446
+they're adapting. I imagine we're going to see
+the Penguin again and Sophia again. And yeah,
+
+684
+01:03:38,526 --> 01:03:42,069
+that makes me really curious, you're right,
+as to what they will be doing with the story,
+
+685
+01:03:42,549 --> 01:03:47,332
+whatever they do. I'm here for it because I
+loved this show. Again, I can't wait to see
+
+686
+01:03:47,712 --> 01:03:52,755
+more of this universe. I hope it keeps going
+on and on and that James Gunn decides to make
+
+687
+01:03:52,775 --> 01:03:58,982
+it a part of his main universe overall with
+this season. Its outstanding performances and
+
+688
+01:03:59,242 --> 01:04:05,004
+epic brutal storyline made The Limited Series
+a crime thriller of the highest caliber and
+
+689
+01:04:05,024 --> 01:04:11,165
+a masterpiece within the genre I felt. I'm giving
+it 5 out of 5 stars, just like The Batman,
+
+690
+01:04:11,586 --> 01:04:18,587
+a fresh rating on Rotten Tomatoes. Yeah, I'm
+not sure if you're referring to it as a masterpiece
+
+691
+01:04:18,668 --> 01:04:23,609
+within the crime genre or within the superhero
+genre, but honestly it doesn't matter because
+
+692
+01:04:23,849 --> 01:04:29,951
+I think that term applies to both. Not only
+is it a great entry into superhero media in
+
+693
+01:04:30,011 --> 01:04:36,473
+general, but I 100% think that the show holds
+up among the greatest crime dramas ever made.
+
+694
+01:04:36,673 --> 01:04:40,894
+Like it's right up there with The Godfather,
+The Departed and things like that. I'm not
+
+695
+01:04:40,914 --> 01:04:44,335
+sure if it's up there with The Godfather, but
+I would say it's definitely up there with like
+
+696
+01:04:44,515 --> 01:04:49,476
+The Sopranos. And you know, holding this season
+up against any season of Breaking Bad, I think
+
+697
+01:04:49,516 --> 01:04:54,142
+it's competitive. I would love to see more seasons.
+I don't think we're going to get them. But
+
+698
+01:04:54,302 --> 01:04:58,083
+I could follow this Penguin story all the way
+to the end, for sure. I think one of the best
+
+699
+01:04:58,123 --> 01:05:02,144
+things that I can say about the show is that
+I was at a restaurant the other day and the
+
+700
+01:05:02,264 --> 01:05:06,805
+bartender lady who was middle-aged, she looked
+like to be in her fifties or something like
+
+701
+01:05:06,845 --> 01:05:11,867
+that, she just brought up out of the blue with
+some people sitting at the bar how great this
+
+702
+01:05:11,887 --> 01:05:16,808
+show was. And it just stood out to me as being
+something that had tremendous crossover appeal
+
+703
+01:05:17,288 --> 01:05:21,942
+in terms of its audience and demographic. I
+heard that the show has done really well. and
+
+704
+01:05:22,042 --> 01:05:26,185
+I hope that's the case. And I hope it brings
+a lot of new audiences to the genre. Yeah,
+
+705
+01:05:26,225 --> 01:05:31,168
+I think it doesn't hurt that it was propped
+up as an HBO original that comes with a lot
+
+706
+01:05:31,188 --> 01:05:36,932
+of clout, right? I've actually had coworkers
+come up to me asking me if I had seen The Penguin,
+
+707
+01:05:37,212 --> 01:05:40,915
+which I hadn't yet. And they're like, oh, you're
+going to love it. It's so good. I thought it
+
+708
+01:05:40,935 --> 01:05:45,018
+was really good. And that just got me even more
+excited to start watching it. Yeah, I'm sure
+
+709
+01:05:45,038 --> 01:05:49,201
+they agree with your five star rating. I agree
+with your five star rating. I'll say it's still
+
+710
+01:05:49,241 --> 01:05:54,050
+not better than Daredevil season three. but
+I'll say it's probably the best television
+
+711
+01:05:54,090 --> 01:05:59,012
+series that DC has ever produced. Even better
+than Watchmen? I think it was better than Watchmen.
+
+712
+01:05:59,372 --> 01:06:05,133
+Holy cow, maybe, maybe. I know it was better
+than Agatha all along, that's for sure. Barely.
+
+713
+01:06:05,593 --> 01:06:10,815
+Like I said in our last episode, they're entirely
+different shows. I think Marvel could absolutely
+
+714
+01:06:10,875 --> 01:06:16,796
+produce a series like The Penguin with no issues,
+but can DC produce a series about a magic coven
+
+715
+01:06:16,836 --> 01:06:21,918
+of witches at the same quality as Marvel Television
+did with that show? I don't think so. They
+
+716
+01:06:21,938 --> 01:06:26,139
+don't need to make lame shows like that, because
+they make cool shows like The Penguin. OK,
+
+717
+01:06:26,279 --> 01:06:30,020
+yeah. But that does it for this review. AJ9K
+help close this out.
+
+718
+01:06:46,246 --> 01:06:51,989
+or by rating and reviewing dynamic duel on Apple
+podcasts, Spotify, Podchaser, or on our website.
+
+719
+01:06:52,529 --> 01:06:56,731
+Don't forget to listen to the other shows in
+the DynaMic podcast network, including Max
+
+720
+01:06:56,751 --> 01:07:04,556
+Destruction, Senjou World, and Console Combat.
+In our next episode, we will be doing a duel
+
+721
+01:07:04,956 --> 01:07:11,139
+as a tie-in to this review of the Penguin between
+another street level Gotham villain character,
+
+722
+01:07:11,520 --> 01:07:17,744
+Black Mask, against Marvel's Madam Mask. Yeah,
+two grounded criminal characters within Marvel
+
+723
+01:07:17,784 --> 01:07:22,548
+and DC that don't have powers but they do have
+badass masks should be interesting to see how
+
+724
+01:07:22,568 --> 01:07:27,873
+that plays out. So mask off bro, let's go! Me
+and you! But that is it for this episode, we
+
+725
+01:07:27,913 --> 01:07:32,117
+want to give a big thanks to our executive producers
+Ken Johnson, John Storosky, Zachary Hepburn,
+
+726
+01:07:32,357 --> 01:07:37,381
+Dustin Belcombe, Miggy Mantagian, Brendan Estergard,
+Nathaniel Wagner, Levi Yeaton, Austin Waselowski,
+
+727
+01:07:37,582 --> 01:07:43,682
+AJ Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Andrew Schunk. Dean Molesky, Kevin Davis,
+
+728
+01:07:43,862 --> 01:07:49,064
+Joseph Kirsting, Josh Leiner, and our newest
+executive producer, Mike Williams. Thanks for
+
+729
+01:07:49,084 --> 01:07:53,665
+helping make this podcast possible guys, we'll
+talk to you all next week. Up, up and away,
+
+730
+01:07:53,765 --> 01:07:54,346
+true believers.
+
