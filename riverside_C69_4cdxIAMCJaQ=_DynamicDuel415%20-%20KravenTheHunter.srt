@@ -1,0 +1,3952 @@
+1
+00:00:00,930 --> 00:00:05,674
+This is a DynaMic Network podcast. Hey guys,
+Marvelous Joe at the top of the episode to
+
+2
+00:00:05,754 --> 00:00:10,878
+remind you that if you visit dynamicduel.com,
+our website, and click on the store button,
+
+3
+00:00:11,319 --> 00:00:17,524
+you will be exposed to a treasure trove of cool
+merchandise options from Dynamic Duel right
+
+4
+00:00:17,544 --> 00:00:22,409
+in time for the holidays. It is a little bit
+too late for you to now buy things from the
+
+5
+00:00:22,429 --> 00:00:27,193
+store and have them shipped to you before Christmas
+Day, but you know what? You can still support
+
+6
+00:00:27,233 --> 00:00:32,057
+the show. You can still support a great cause
+in Stand Up to Cancer because Jonathan and
+
+7
+00:00:32,077 --> 00:00:37,281
+I will be donating 10% of our proceeds to that
+charity for the months of November and December
+
+8
+00:00:37,342 --> 00:00:43,407
+of 2024. Yeah, people give gifts during New
+Year's parties, right? That's a thing. Yeah,
+
+9
+00:00:43,747 --> 00:00:48,311
+and people also like, they get money for Christmas
+and they're like, I gotta buy some cool stuff.
+
+10
+00:00:48,731 --> 00:00:54,556
+Maybe I should use that money on some cool dynamic
+duel shoes or some hoodies or like a calendar
+
+11
+00:00:54,917 --> 00:00:59,994
+or posters. or a whole bunch of stuff that we
+got up there. It's really cool, check it out
+
+12
+00:01:00,034 --> 00:01:05,181
+guys. And again, support our show, and DeGreat
+Cause and Stand Up to Cancer. Again, visit
+
+13
+00:01:05,241 --> 00:01:11,228
+dynamicduel.com and click on the store button.
+Thanks guys, and happy holidays. On with the
+
+14
+00:01:11,248 --> 00:01:11,509
+show!
+
+15
+00:01:31,918 --> 00:01:35,800
+Hi and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+16
+00:01:35,920 --> 00:01:40,683
+and debate the superiority between Marvel and
+DC by comparing their characters in stat-based
+
+17
+00:01:40,723 --> 00:01:47,048
+battle simulations. I'm Marvelous Joe. And I'm
+his twin brother Johnny DC. And in this episode,
+
+18
+00:01:47,448 --> 00:01:52,732
+we are going to be reviewing the latest Sony
+Spider-Man Universe film, Kraven the Hunter.
+
+19
+00:01:53,192 --> 00:01:56,274
+Jonathan liked the movie. I'm just gonna let
+you guys all know you should make fun of him.
+
+20
+00:01:56,374 --> 00:02:01,297
+He told me that he liked it. I was surprised.
+I said it wasn't bad. I think it was the best.
+
+21
+00:02:01,734 --> 00:02:08,599
+of the three Sony Spider-Man Universe films
+that were released this year. Oh, you're wrong.
+
+22
+00:02:08,779 --> 00:02:13,323
+I would consider you incorrect in that assertion,
+but we'll talk about it later and make fun
+
+23
+00:02:13,343 --> 00:02:18,307
+of you some more. Before we get into that review,
+we're gonna break down the latest comic book
+
+24
+00:02:18,347 --> 00:02:23,051
+movie news to come out this past week, including
+the news that Chris Evans has been confirmed
+
+25
+00:02:23,331 --> 00:02:28,695
+by trades to return for Avengers Doomsday. So
+in addition to Robert Downey Jr., we're gonna
+
+26
+00:02:28,715 --> 00:02:32,914
+have Captain America back, or maybe, you know,
+He's playing some other fucking character,
+
+27
+00:02:32,934 --> 00:02:39,198
+who knows? Baron Zemo. Bite your tongue. We
+also learned that Clayface is going to get
+
+28
+00:02:39,238 --> 00:02:45,221
+a film that is set for release on September
+11th, 2026. And we also got a trailer for Harley
+
+29
+00:02:45,261 --> 00:02:50,304
+Quinn Season Five. As always, we list our segment
+times in our episode description. So feel free
+
+30
+00:02:50,324 --> 00:02:55,127
+to check out the show notes if you wanna skip
+ahead to a particular topic. Our artificially
+
+31
+00:02:55,147 --> 00:03:02,502
+intelligent duel simulator, AJ9K, has a quick
+message for our listeners, so listen up. Why
+
+32
+00:03:02,562 --> 00:03:06,964
+hello there, do you want even more from this
+podcast? Then become a part of the dynamic
+
+33
+00:03:06,984 --> 00:03:12,046
+duel community on Patreon, where you can choose
+from three tiers. The dynamic two-oh tier gives
+
+34
+00:03:12,066 --> 00:03:16,989
+you access to our Discord chat server. The fantastic
+four tier gives you two bonus episodes each
+
+35
+00:03:17,049 --> 00:03:22,591
+month, and the X-Force tier makes you an executive
+producer of this show. Lastly, the Diner Mike
+
+36
+00:03:22,631 --> 00:03:27,686
+podcast network tier lets you create your own
+podcast using this Monte Carlo simulator. Johnny
+
+37
+00:03:27,706 --> 00:03:32,168
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+38
+00:03:32,228 --> 00:03:37,691
+simulation results. Pitch the twins your ideas
+via email at dynamicduelpodcast at gmail.com.
+
+39
+00:03:38,752 --> 00:03:45,076
+Check it out at patreon.com slash dynamicduel.
+Pip pip cheerio. Thanks AJ and IK and thanks
+
+40
+00:03:45,096 --> 00:03:49,018
+to everyone who supports the podcast. Guys,
+be sure to tune into the other shows in the
+
+41
+00:03:49,078 --> 00:03:53,400
+DynaMic Podcast Network this week, including
+Max Destruction, which pits your favorite action
+
+42
+00:03:53,420 --> 00:03:57,983
+heroes from film and television against each
+other. Hosts Scotty and Gilly are still taking
+
+43
+00:03:58,023 --> 00:04:02,847
+a break for the holidays, but they will be back
+next week with an episode on Christmas Day.
+
+44
+00:04:02,927 --> 00:04:07,711
+So Merry Christmas, guys. On the Senjou World
+podcast, host Zachary Hepburn speculates on
+
+45
+00:04:07,771 --> 00:04:13,316
+fights between fan favorite anime and manga
+characters. This Thursday, Zach will reveal
+
+46
+00:04:13,356 --> 00:04:19,781
+who would win in a fight between Tsunade from
+Naruto and Unohana from Bleach. And on the
+
+47
+00:04:19,821 --> 00:04:24,605
+Console Combat podcast, host John and Dean simulate
+battles between popular video game characters.
+
+48
+00:04:25,122 --> 00:04:31,747
+Though in yesterday's episode, they reviewed
+Sonic the Hedgehog 1 and 2, with myself guesting
+
+49
+00:04:31,847 --> 00:04:36,671
+on that particular episode along with the Kamacho
+twins from Max Destruction, and the former
+
+50
+00:04:36,711 --> 00:04:41,015
+co-host of Max Destruction, Dustin Belcom. It
+was a great time. You guys should definitely
+
+51
+00:04:41,055 --> 00:04:44,898
+listen to that episode if you enjoyed the Sonic
+the Hedgehog films and are looking forward
+
+52
+00:04:44,938 --> 00:04:50,803
+to Sonic the Hedgehog 3 that's coming out in
+a few weeks. Visit dynamicpodcasts.com or click
+
+53
+00:04:50,823 --> 00:04:55,791
+the link in our show notes to listen to all
+of the shows. in the DynaMic Podcast Network.
+
+54
+00:04:56,272 --> 00:05:02,637
+But with that out of the way, quick to the NO
+Prize! A NO Prize is an award Marvel used to
+
+55
+00:05:02,657 --> 00:05:07,841
+give out to fans. Our version, the Dynamic Duel
+NO Prize, is a digital award that we post on
+
+56
+00:05:07,921 --> 00:05:12,845
+Instagram for the person that we feel gave the
+best answer to our question of the week. Last
+
+57
+00:05:12,885 --> 00:05:17,929
+week we asked you guys, what live action Marvel
+or DC film do you think had the best cinematography?
+
+58
+00:05:18,494 --> 00:05:22,256
+and what was your favorite shot? And this was
+coming off the news we received that Rob Hardy
+
+59
+00:05:22,276 --> 00:05:27,500
+was confirmed as the director of photography
+for Supergirl Woman of Tomorrow. We didn't
+
+60
+00:05:27,520 --> 00:05:31,043
+get a whole lot of answers for this question,
+but let's go ahead and break down our two honorable
+
+61
+00:05:31,063 --> 00:05:36,486
+mentions as well as the no prize winner. Our
+first honorable mention goes to Cyrus Moore,
+
+62
+00:05:36,787 --> 00:05:44,612
+who said, Hey guys, Cyrus Moore here. We got
+to go with Dion Beebe's greatest movie ever,
+
+63
+00:05:44,672 --> 00:05:50,755
+greatest cinematography. movie, greatest CGI
+movie, gotta go with the Green Lantern movie.
+
+64
+00:05:51,355 --> 00:06:01,400
+The most beautiful scene was Parallax. Oh, such
+a very powerful scene, so beautiful, couldn't
+
+65
+00:06:01,580 --> 00:06:07,042
+ask for a better movie. Yay. Now, I don't know
+about you, Jonathan, but I am detecting an
+
+66
+00:06:07,162 --> 00:06:13,544
+undercurrent of sarcasm in Cyrus Moore's answer,
+and I think it largely has to do with how the
+
+67
+00:06:13,564 --> 00:06:19,450
+appearance of Parallax on the screen. seemed
+to flood the entire shot with the appearance
+
+68
+00:06:19,571 --> 00:06:25,332
+of diarrhea. I mean, it's either that Cyrus
+Moore really likes Green Lantern cinematographer
+
+69
+00:06:25,412 --> 00:06:33,295
+Diane Beebe, or he likes watching the toilet
+flush after he goes to the bathroom. It's one
+
+70
+00:06:33,315 --> 00:06:38,736
+of those two. Parallax aside, I don't think
+Green Lantern had horrible cinematography,
+
+71
+00:06:38,776 --> 00:06:44,471
+right? Like the space scenes were pretty cool.
+I mean, the CG was. pretty bad in retrospect,
+
+72
+00:06:44,571 --> 00:06:49,254
+but the rest of the movie didn't look bad. The
+most memorable scene to me in the movie was
+
+73
+00:06:49,314 --> 00:06:54,318
+when he flies on Owo for the first time. That
+was a cool shot. Are you being sarcastic too?
+
+74
+00:06:54,558 --> 00:07:01,723
+I don't even know anymore. Our next honorable
+mention goes to Daniel Alonso, who said, Okay,
+
+75
+00:07:01,783 --> 00:07:07,347
+favorite cinematography for Marvel's has to
+be Black Panther. I think they just used so
+
+76
+00:07:07,567 --> 00:07:13,007
+many beautiful colors. It's such a wonderful
+film to watch. I mean, the shots are just fantastic.
+
+77
+00:07:13,027 --> 00:07:16,470
+Like when Killmonger is taking the throne for
+the first time, when they're first entering
+
+78
+00:07:16,510 --> 00:07:22,995
+Wakanda, the way they use the sun, it is just
+magnificent. How his suit is integrated in
+
+79
+00:07:23,055 --> 00:07:28,620
+every shot it's in. But my favorite is that
+the one hour and five second mark when they're
+
+80
+00:07:28,660 --> 00:07:33,183
+entering Wakanda, it just looks like a post.
+It looks like he got cut off a little bit there,
+
+81
+00:07:33,223 --> 00:07:37,278
+but he was gonna say how the shot looked like
+a postcard. And I went and I checked out the
+
+82
+00:07:37,478 --> 00:07:42,300
+one hour and five second mark in the Black Panther
+movie and he's right. It looks like a postcard
+
+83
+00:07:42,340 --> 00:07:48,023
+for Wakanda. The scene is beautifully lit with
+the sun perfectly silhouetting the mountainscapes
+
+84
+00:07:48,223 --> 00:07:52,885
+of the Wakandan terrain. It was gorgeous. Ryan
+Coogler really did a good job of having his
+
+85
+00:07:52,925 --> 00:07:58,547
+director of photography differentiate between
+the jungles of Wakanda and the cityscape of
+
+86
+00:07:58,607 --> 00:08:04,249
+South Korea. In particular, my favorite shot
+from that movie was actually the Jabari throne
+
+87
+00:08:04,269 --> 00:08:09,403
+room. when we see M'Baku sitting on his throne
+up in the mountain peaks of the Mountain Tribes
+
+88
+00:08:09,423 --> 00:08:14,326
+Village. It was a beautiful night shot. It just
+looked incredible. The waterfall scene, that
+
+89
+00:08:14,346 --> 00:08:18,787
+was really well shot. So much of that movie
+looked just so good. I would actually say that
+
+90
+00:08:18,847 --> 00:08:24,250
+I liked the cinematography of Black Panther
+2 Wakanda Forever more than I did the first
+
+91
+00:08:24,290 --> 00:08:28,291
+Black Panther. There's just something about
+the palette with the added turquoise colors
+
+92
+00:08:28,631 --> 00:08:33,413
+from Namor's tribe. Talokhan? Yeah. Especially
+like when they're fighting at night and stuff.
+
+93
+00:08:33,706 --> 00:08:37,467
+I thought that looked really cool. Yeah, the
+cinematography of both those films was pretty
+
+94
+00:08:37,507 --> 00:08:42,468
+on point, especially for a library of films
+within Marvel Studios that aren't really known
+
+95
+00:08:42,528 --> 00:08:47,589
+for their cinematography. I'll still contend
+that the best Marvel Studios cinematography
+
+96
+00:08:47,629 --> 00:08:53,091
+was in the Eternals film, or the first Guardians,
+one of those two. Yeah, same. But the winner
+
+97
+00:08:53,131 --> 00:09:00,273
+of this week's No Prize is Scott Camacho, who
+said... Of course, I'm gonna go with Zack Snyder's
+
+98
+00:09:00,413 --> 00:09:07,165
+Justice League with how the... character designs
+and the filter and every time the scenery change
+
+99
+00:09:07,385 --> 00:09:14,029
+between each character. My favorite shot will
+be when the group is going to fight Superman
+
+100
+00:09:14,530 --> 00:09:20,014
+and you have the flash running in his speed
+and then you see Superman's eyes trained on
+
+101
+00:09:20,054 --> 00:09:26,178
+him and you get that oh shit moment. That is
+by far my best shot. Yeah, say what you want
+
+102
+00:09:26,218 --> 00:09:32,614
+about Zack Snyder in terms of his story decisions,
+but it's hard to deny the fact. that his movies
+
+103
+00:09:32,874 --> 00:09:38,538
+are like paintings. They look incredible. Yeah,
+you think about Watchmen, you think about 300,
+
+104
+00:09:39,199 --> 00:09:44,882
+of course, really well known for its cinematography.
+Even BBS had really good cinematography. Zach
+
+105
+00:09:44,902 --> 00:09:50,326
+Snyder is probably a better cinematographer
+than a director, or at least how he directs
+
+106
+00:09:50,406 --> 00:09:56,630
+cinematographers. The blacks are on point, the
+way he lights his scenes are very moody. Everything
+
+107
+00:09:56,691 --> 00:10:01,786
+looks just really good. And he can really easily
+differentiate between settings like the nightmare
+
+108
+00:10:01,826 --> 00:10:06,907
+scene like underwater Atlantis, stuff like that.
+It all looks fantastic. And if you need any
+
+109
+00:10:06,987 --> 00:10:12,449
+proof of that, just look at the Joss Whedon
+directed cut of Justice League and compare
+
+110
+00:10:12,509 --> 00:10:18,470
+it to Zack Snyder's version. The cinematography
+is like night and day and Zack Snyder's shots
+
+111
+00:10:18,570 --> 00:10:25,092
+are so much better than what Joss Whedon did.
+Yeah, definitely more epic for sure. So great
+
+112
+00:10:25,172 --> 00:10:29,233
+answer, Scotty. You win this week's No Prize.
+If you the listener want a shot at winning
+
+113
+00:10:29,273 --> 00:10:34,198
+your own No Prize. Stay tuned to later on in
+this episode when we'll be asking another Question
+
+114
+00:10:34,238 --> 00:10:37,308
+of the Week. But now that that's done, on to
+the news!
+
+115
+00:10:42,822 --> 00:10:46,723
+Alright, in a tiny bit of surprising news we
+got this past week, we learned that Chris Evans
+
+116
+00:10:47,183 --> 00:10:52,264
+will be returning for Avengers Doomsday, and
+that was confirmed by the wrap. Actually, we
+
+117
+00:10:52,284 --> 00:10:55,925
+got confirmation that a whole lot of actors
+will be returning for Avengers Doomsday, but
+
+118
+00:10:55,985 --> 00:11:01,527
+I think Chris Evans is probably the only newsworthy
+one, because I figured that a lot of cast members
+
+119
+00:11:01,547 --> 00:11:06,888
+would be returning for that film, except for
+Chris Evans, who seemingly retired from the
+
+120
+00:11:06,908 --> 00:11:11,269
+role at the end of Avengers Endgame, in the
+same way like Robert Downey Jr. did, and Scarlett
+
+121
+00:11:11,309 --> 00:11:15,168
+Johansson, and stuff like that. So it'll be
+interesting how they bring Evans back for the
+
+122
+00:11:15,208 --> 00:11:21,073
+role. Of course, the movie deals with the multiverse,
+allegedly, so they could be bringing back a
+
+123
+00:11:21,133 --> 00:11:25,536
+multiversal Chris Evans, kind of like how they
+did in Deadpool and Wolverine, where he reprised
+
+124
+00:11:25,576 --> 00:11:30,320
+his role as the Human Torch. Or it could be
+an entirely new take on Captain America and
+
+125
+00:11:30,360 --> 00:11:35,204
+Steve Rogers. Yeah, of all the cast members
+returning, I agree that Chris Evans and Robert
+
+126
+00:11:35,224 --> 00:11:40,489
+Downey Jr. are definitely the most surprising
+because it definitely felt like when they left
+
+127
+00:11:40,529 --> 00:11:45,633
+their roles... they left them on a really, really
+high note. Like their arcs were completely
+
+128
+00:11:45,693 --> 00:11:51,197
+finished. So for them to return is, yeah, the
+most shocking bit of news to come out of all
+
+129
+00:11:51,217 --> 00:11:56,660
+of the cast members who are returning, including
+like Haley Atwell, possibly Scarlett Johansson.
+
+130
+00:11:56,761 --> 00:12:00,723
+I'm sure a few others will be returning as well.
+Yeah, of course we know that Robert Downey
+
+131
+00:12:00,743 --> 00:12:06,788
+Jr. is coming back as the character of Victor
+Von Doom, AKA Dr. Doom. He's gonna be a multiversal
+
+132
+00:12:06,908 --> 00:12:12,304
+variant of Dr. Doom. And one of the- best theories
+that I found circulating online, actually I
+
+133
+00:12:12,344 --> 00:12:17,889
+didn't find it. One of our listeners, Travis
+Herndon, sent me this rumor that all the original
+
+134
+00:12:17,929 --> 00:12:22,873
+Avengers cast are coming back as evil versions
+of their characters. So like, we have infamous
+
+135
+00:12:22,993 --> 00:12:27,637
+Iron Man with Robert Dunny Jr. We could be getting
+Hydra Cap from the Secret Empire storyline
+
+136
+00:12:27,777 --> 00:12:32,341
+with Chris Evans, Maestro with the Hulk, evil
+versions of all the rest of the characters.
+
+137
+00:12:32,361 --> 00:12:39,734
+And I think that rumor is the best one I've
+heard in... how it makes me accept the casting
+
+138
+00:12:39,774 --> 00:12:45,397
+of Robert Downey Jr. as Victor Von Doom a little
+bit more. Because as listeners to this podcast
+
+139
+00:12:45,437 --> 00:12:49,979
+will know, I fucking hate the idea of Robert
+Downey Jr. playing Victor Von Doom. I want
+
+140
+00:12:49,999 --> 00:12:53,840
+the original Doom. I don't want some kind of
+multiversal riff on Victor Von Doom. I think
+
+141
+00:12:53,920 --> 00:12:58,642
+Victor Von Doom is a good enough villain to
+deserve his own unique casting. And it was
+
+142
+00:12:58,682 --> 00:13:04,465
+really exciting to speculate on who that could
+have been prior to our DJ's return. But nevertheless,
+
+143
+00:13:04,985 --> 00:13:09,562
+if he is coming back as the character, It would
+be nice to have multiple iterations of that
+
+144
+00:13:09,602 --> 00:13:16,064
+to help kind of solidify that concept of the
+evil dark multiversal Avengers fighting against
+
+145
+00:13:16,404 --> 00:13:20,906
+Earth's heroes. Yeah, it almost seems like they're
+setting up something like the crime syndicate
+
+146
+00:13:21,426 --> 00:13:27,628
+or maybe even a better comparison would be like
+the dark multiverse. Like because of King's
+
+147
+00:13:27,868 --> 00:13:34,326
+actions or Loki's actions or whoever the fuck's
+actions with the multiverse, there is a group
+
+148
+00:13:34,506 --> 00:13:39,870
+of evil versions of the Avengers out there in
+the multiverse that come and attack our universe,
+
+149
+00:13:39,910 --> 00:13:43,914
+possibly. Yeah, that sounds pretty exciting
+to me. And I would definitely watch that. It
+
+150
+00:13:43,954 --> 00:13:48,878
+sounds like Marvel ripping off DC is what it
+sounds like. So yeah, it does sound exciting.
+
+151
+00:13:48,898 --> 00:13:52,181
+Because it's DC's idea. Because the Dark Avengers
+are definitely a thing within Marvel comics,
+
+152
+00:13:52,301 --> 00:13:57,705
+okay? So maybe just shut the fuck up. Yeah,
+but not in this way, not in like this dark
+
+153
+00:13:57,765 --> 00:14:03,806
+multiverse way. Well, maybe if DC would get
+its fucking act together. instead of rebooting
+
+154
+00:14:03,866 --> 00:14:08,409
+every five years and coming out with another
+new iteration for Superman, you guys would
+
+155
+00:14:08,429 --> 00:14:13,333
+have your shit together long enough to do something
+like this. Maybe if Marvel was good, Kevin
+
+156
+00:14:13,353 --> 00:14:19,137
+Feige could steal ideas from his own comics
+instead of the DC comics. Maybe if DC comics
+
+157
+00:14:19,177 --> 00:14:24,000
+were good, the characters would be more successful
+in their translation to film. Maybe I will
+
+158
+00:14:24,040 --> 00:14:30,684
+beat your ass next time I see you on the street.
+And maybe I'll be waiting for you. Good, good.
+
+159
+00:14:31,085 --> 00:14:35,445
+Throw it down. It'll be fun. This Chris Evans
+news is really exciting guys. Avengers Doomsday
+
+160
+00:14:35,505 --> 00:14:40,972
+is slated for release on May 1st, 2026. And
+this news brings us to our question of the
+
+161
+00:14:40,992 --> 00:14:41,172
+week.
+
+162
+00:14:45,658 --> 00:14:51,079
+If Avengers Doomsday is featuring an evil version
+of Earth's Mightiest Heroes, what evil version
+
+163
+00:14:51,119 --> 00:14:57,181
+of a character do you most hope to see and why?
+Besides, you know, infamous Iron Man slash
+
+164
+00:14:57,221 --> 00:15:01,502
+Doctor Doom or whatever they're doing there.
+Record your answer at dynamicduel.com by clicking
+
+165
+00:15:01,562 --> 00:15:05,483
+on the red microphone button in the bottom right
+hand corner of the screen which will prompt
+
+166
+00:15:05,503 --> 00:15:09,345
+you to leave us a voicemail. Your message could
+be up to 30 seconds long and don't forget to
+
+167
+00:15:09,385 --> 00:15:14,102
+leave your name in case we include you on the
+podcast. We'll pick our favorite answer and
+
+168
+00:15:14,122 --> 00:15:18,723
+award that person a Dynamic Duel No prize that
+we'll post to Instagram. Be sure to answer
+
+169
+00:15:18,743 --> 00:15:27,346
+before December 21st. In DC news, DC Studios
+confirmed this past week that a standalone
+
+170
+00:15:27,386 --> 00:15:34,508
+Clayface movie is being written by Mike Flanagan,
+a filmmaker who wrote, directed, and edited
+
+171
+00:15:34,608 --> 00:15:39,526
+Dr. Sleep, which was the sequel to Stanley Kubrick's
+The Shining. He has a background in horror,
+
+172
+00:15:39,726 --> 00:15:45,067
+he's even working on an upcoming Exorcist reboot.
+And I remember when we were reviewing Batman
+
+173
+00:15:45,107 --> 00:15:50,429
+the Kip Crusader animated series, we talked
+about how good the interpretation of Clayface
+
+174
+00:15:50,469 --> 00:15:55,911
+was, and how cool it would be to see that version
+in live action. Well, it looks like we're getting
+
+175
+00:15:56,211 --> 00:16:02,592
+a version of Clayface, a horror version, on
+the big screen, which is wild. I always wanted
+
+176
+00:16:02,632 --> 00:16:09,084
+to see a horror version of Clayface on the big
+screen. Ideally in a Batman movie, but I don't
+
+177
+00:16:09,104 --> 00:16:15,168
+mind a standalone movie either. No, I think
+if Kraven the Hunter and Morbius and fucking
+
+178
+00:16:15,229 --> 00:16:20,373
+Joker, Folly, I do have taught us anything is
+that these characters are better served as
+
+179
+00:16:20,493 --> 00:16:25,877
+villains in movies starring the heroes. I don't
+want to see Clayface in his own standalone
+
+180
+00:16:25,897 --> 00:16:30,020
+film because when the movie's done, I'm just
+going to be like, okay, so then when is this
+
+181
+00:16:30,040 --> 00:16:34,552
+character going to meet Batman? What I want
+to see is them incorporate this version of
+
+182
+00:16:34,612 --> 00:16:39,796
+Clayface into a Batman film. What it seems like
+Warner Brothers is starting to do is pull a
+
+183
+00:16:39,837 --> 00:16:44,360
+Sony. And they don't want to do that. I don't
+know. So you're bringing up things like Morbius
+
+184
+00:16:44,420 --> 00:16:49,525
+and Kraven and Joker Folio do, forgetting the
+fact that the first Joker movie was not bad.
+
+185
+00:16:49,825 --> 00:16:54,649
+The Penguin television series was really good.
+I think they could do Clayface really well.
+
+186
+00:16:54,909 --> 00:16:59,253
+And I think if they wanted to spin that into
+Matt Reeves' Batman Universe, they absolutely
+
+187
+00:16:59,293 --> 00:17:02,910
+could. Don't make excuses for them. You know
+what would have made the first Joker movie
+
+188
+00:17:02,990 --> 00:17:07,932
+even better? If we got to see that version of
+the Joker go up against Batman. Uh, maybe?
+
+189
+00:17:08,072 --> 00:17:12,053
+I mean, Bruce Wayne was in the movie. It was,
+you know, kind of Bruce Wayne's origin story
+
+190
+00:17:12,093 --> 00:17:16,534
+as well at the very end. I'm not saying I only
+want to see villains in their own standalone
+
+191
+00:17:16,554 --> 00:17:21,835
+films. I'm saying there are villains interesting
+enough that could have their own standalone
+
+192
+00:17:21,875 --> 00:17:28,217
+projects, like TV shows, like movies, and I
+would be excited to see that. Clayface is one
+
+193
+00:17:28,237 --> 00:17:34,337
+of those. does is confirm that we're not going
+to be seeing Clayface anytime soon in either
+
+194
+00:17:34,497 --> 00:17:39,742
+the Batman Brave and the Bold film or Matt Reeves
+the Batman universe. Well at least we're seeing
+
+195
+00:17:39,782 --> 00:17:45,487
+Clayface at all then because we could not have
+this Clayface film and not see him period in
+
+196
+00:17:45,547 --> 00:17:50,090
+any of those projects. Well maybe they should
+just put Clayface in a fucking Batman film.
+
+197
+00:17:50,170 --> 00:17:54,134
+Think about that. Well maybe they will. If this
+is good. If this is like a really good version
+
+198
+00:17:54,174 --> 00:17:59,246
+and people really like it they'll put him in
+the next Batman movie. They won't. You don't
+
+199
+00:17:59,266 --> 00:18:05,028
+know. We're not going to see Kraven in a Spider-Man
+film now anytime soon, which fucking sucks.
+
+200
+00:18:05,568 --> 00:18:10,370
+You want to see that version of Kraven in a
+Spider-Man film? No, but I want to see a version
+
+201
+00:18:10,450 --> 00:18:15,472
+of Kraven in a Spider-Man film. Like I said,
+they did a good job with the Penguin. I could
+
+202
+00:18:15,492 --> 00:18:20,814
+totally see them putting this version of Clayface
+in a Batman movie if it's good. Why not? You're
+
+203
+00:18:20,834 --> 00:18:27,637
+an apologist is what you are. You're a pessimist.
+Piece of shit is what you are. I'm not a pessimist.
+
+204
+00:18:27,697 --> 00:18:33,204
+I'm a realist. But you don't know is the problem.
+Like you're saying all these bad things are
+
+205
+00:18:33,224 --> 00:18:40,468
+gonna happen. You don't know. I'm going by precedent.
+Oh, precedent like the Penguin? Okay. The Penguin
+
+206
+00:18:40,508 --> 00:18:46,571
+was in the fucking Batman movie. Yeah. I mean,
+who's to say Clayface can't be? I do. Okay.
+
+207
+00:18:47,472 --> 00:18:52,334
+It's not gonna happen. Head of DC Studios, James
+Gunn. I didn't realize I was doing a podcast
+
+208
+00:18:52,354 --> 00:18:59,630
+with you. Yeah. And I just have to say, fuck
+you, buddy. Geez. No one likes you. Damn! I'm
+
+209
+00:18:59,670 --> 00:19:04,472
+glad I proved you wrong on Twitter. Aw. I mean,
+Mike Flanagan, we don't know if he's gonna
+
+210
+00:19:04,512 --> 00:19:09,134
+direct the movie yet. There may be a strong
+chance that he will, considering he's directed
+
+211
+00:19:09,174 --> 00:19:14,036
+films like Dr. Sleep. But, you know, he's met
+with James Gunn and Peter Sefferin. I would
+
+212
+00:19:14,076 --> 00:19:18,858
+not be surprised if his clay face, you know,
+if not tied into the Matt Reeves universe,
+
+213
+00:19:19,238 --> 00:19:25,781
+would be tied into James Gunn's universe, the
+DCU. You poor, naive bastard. Hey, let me have
+
+214
+00:19:25,921 --> 00:19:31,754
+hope, okay? Let me hope. The film even has a
+release date they're this confident in it.
+
+215
+00:19:32,115 --> 00:19:38,497
+It's coming out on September 11th, 2026. Which
+means that we'll probably get like casting
+
+216
+00:19:38,797 --> 00:19:42,998
+news within the next few months here. Which
+is awesome. And actually it wasn't the only
+
+217
+00:19:43,078 --> 00:19:49,640
+DC project to get a release date. Dynamic Duo,
+the puppet movie of the various Robins, is
+
+218
+00:19:49,680 --> 00:19:56,954
+coming out June 30th, 2028. Holy shit, man.
+Yeah, it's gonna take them a long time to do
+
+219
+00:19:57,054 --> 00:20:01,937
+that stop motion animation. At that point, why
+bother? We're already gonna see Robin before
+
+220
+00:20:01,977 --> 00:20:06,799
+that with Brave and the Bold, so... I don't
+know, I don't know. DC fuckin' up. As usual.
+
+221
+00:20:07,339 --> 00:20:11,581
+Okay, so what, you're already saying that's
+gonna be a bad movie? You don't know. I'm James
+
+222
+00:20:11,661 --> 00:20:16,243
+Gunn! I know! I'm telling you, it's gonna be
+bad, and then I'm fuckin' up. You're not my
+
+223
+00:20:16,303 --> 00:20:21,585
+real James Gunn! You're the one that said I
+was! Well guess what? I lied! Good, I don't
+
+224
+00:20:21,605 --> 00:20:29,670
+wanna be. I wanna be Kevin Feige. Why no In
+other DC news we got the first official trailer
+
+225
+00:20:29,910 --> 00:20:35,954
+for Harley Quinn season 5 and it looks like
+the girls are moving to metropolis because
+
+226
+00:20:36,274 --> 00:20:41,798
+Apparently giant rats have overtaken Gotham
+City and it's just a total crap hole Which
+
+227
+00:20:41,838 --> 00:20:46,341
+is nice to get like that change of scenery because
+they've been in Gotham City for four seasons
+
+228
+00:20:46,401 --> 00:20:50,905
+now and I think going to a place where we could
+see new characters, I guess a lot of Superman's
+
+229
+00:20:50,925 --> 00:20:56,004
+characters is Kinda interesting, I think. Yeah,
+for sure though. It looks like a lot of the
+
+230
+00:20:56,144 --> 00:21:01,607
+Gotham gang are tagging along with them, including
+Bane, King Shark, and Clayface. Oh, that's
+
+231
+00:21:01,627 --> 00:21:06,850
+right, Clayface. Speaking of which, just to
+tack this onto the last bit of news, Alan Tudyk
+
+232
+00:21:06,870 --> 00:21:12,013
+voices Clayface in the Harley Quinn show. He's
+also voicing Clayface in the Creature Commandos
+
+233
+00:21:12,153 --> 00:21:17,836
+show, which means he might be playing the live
+action version of Clayface. That might be interesting.
+
+234
+00:21:18,216 --> 00:21:22,371
+But yeah, he's back for season five of Harley
+Quinn. It looks like the big bad this season
+
+235
+00:21:22,771 --> 00:21:27,676
+is going to be Brainiac, who is coming with
+the pet monkey this time, it looks like, which
+
+236
+00:21:27,736 --> 00:21:32,800
+is kind of funny. It looks like Harley is going
+to have to save Metropolis from Brainiac. Meanwhile,
+
+237
+00:21:32,840 --> 00:21:38,625
+Poison Ivy is going to be tackling the green
+or something. Maybe the Enchantress, maybe
+
+238
+00:21:38,846 --> 00:21:43,490
+Lena Luthor. That's what it appears from this
+trailer, at least. I wonder what kind of situation
+
+239
+00:21:43,510 --> 00:21:47,673
+they're going to put Superman in, in that he's
+not able to respond to Brainiac's invasion.
+
+240
+00:21:48,126 --> 00:21:52,509
+and Metropolis is left with Harley Quinn to
+save it. Well, we do get to see Superman in
+
+241
+00:21:52,529 --> 00:21:57,233
+this trailer, but maybe the involvement of the
+Enchantress and her magical abilities prevent
+
+242
+00:21:57,273 --> 00:22:02,758
+him from doing anything. That's just a guess.
+But speaking again of Alan Tudyk, he also voices
+
+243
+00:22:02,818 --> 00:22:07,622
+the Joker. He does a fantastic job with it.
+It looks like he's also in Metropolis. Who
+
+244
+00:22:07,642 --> 00:22:12,306
+knows if he's still trying to be a good guy
+or a bad guy or what in this new city, but
+
+245
+00:22:12,386 --> 00:22:16,089
+we also get Los Lane. So I'm sure she's gonna
+be joining the girl group to help save the
+
+246
+00:22:16,109 --> 00:22:20,987
+day. Speaking of girl group, it looks like we
+get Goldilocks in this season coming off the
+
+247
+00:22:21,027 --> 00:22:26,408
+continuity of Kite Man Hell Yeah Season 1. It
+appears Bane has finally settled down with
+
+248
+00:22:26,448 --> 00:22:32,390
+that dominatrix chick and they're raising Goldilocks
+together. Yeah, they probably moved to Metropolis
+
+249
+00:22:32,450 --> 00:22:36,351
+because it's a better city to raise a kid than
+Gotham City I'm guessing. But I can't wait
+
+250
+00:22:36,371 --> 00:22:40,792
+for that. We reviewed Kite Man Season 1 recently
+on this show and it was pretty good. It was
+
+251
+00:22:40,812 --> 00:22:47,718
+a good setup for this season of Harley Quinn,
+which debuts real soon here on January on Max
+
+252
+00:22:47,959 --> 00:22:50,009
+and we will be reviewing it once the season
+ends.
+
+253
+00:22:57,326 --> 00:23:00,572
+But I think that does it for all the news for
+this episode, so let's go ahead and move on
+
+254
+00:23:00,592 --> 00:23:06,885
+to our main event, where we review the latest
+Sony Spider-Man universe film, Kraven the Hunter.
+
+255
+00:23:21,866 --> 00:23:26,931
+Kraven the Hunter was directed by J.C. Chandor
+and stars Aaron Taylor Johnson and Russell
+
+256
+00:23:26,991 --> 00:23:32,336
+Crowe. The film is the latest in a series of
+Spider-Man adjacent films produced by Sony,
+
+257
+00:23:32,677 --> 00:23:38,022
+which includes other films such as The Venom
+Trilogy, Morbius, and Madame Web. The quality
+
+258
+00:23:38,262 --> 00:23:45,029
+of Sony's Spider-Man Universe movies have ranged
+from absolutely watchable to entirely pointless.
+
+259
+00:23:45,570 --> 00:23:50,334
+The big question in my mind was where would
+Kraven the Hunter fall in that spectrum? Because
+
+260
+00:23:50,475 --> 00:23:55,960
+I and most people I think didn't have high expectations
+for this film just given Sony's track record.
+
+261
+00:23:56,201 --> 00:24:00,425
+We knew it wouldn't be great. But if you haven't
+seen the movie yet, first off here's a spoiler
+
+262
+00:24:00,445 --> 00:24:05,630
+warning, but second off here's your answer regarding
+its quality. I would say it falls squarely
+
+263
+00:24:05,650 --> 00:24:11,194
+in the middle of Sony's Spider-Man Universe
+films. And I think if one had to rank all the
+
+264
+00:24:11,214 --> 00:24:15,976
+movies, not including the MCU Spider-Man films
+or the animated Spider-Verse films, I think
+
+265
+00:24:16,036 --> 00:24:21,077
+most people would put Venom at the top of the
+list and Madame Web at the bottom. And the
+
+266
+00:24:21,117 --> 00:24:26,619
+Venom sequels, Morbius and Kraven the Hunter,
+arranged in some fashion in the middle. Yeah,
+
+267
+00:24:27,039 --> 00:24:32,281
+I definitely liked it more than Morbius. I definitely
+liked it more than Madame Web. I am not a big
+
+268
+00:24:32,521 --> 00:24:37,685
+Venom guy. I didn't really care for the last
+one too much, definitely didn't like the second
+
+269
+00:24:37,785 --> 00:24:42,228
+one, and you liked the first one a lot more
+than me. I would actually say I liked this
+
+270
+00:24:42,329 --> 00:24:47,653
+Kraven movie as much as the first Venom movie.
+Well, I think this review will basically be
+
+271
+00:24:47,673 --> 00:24:53,097
+a breakdown in why you are wrong, and I bet
+you by the end of this review, your list will
+
+272
+00:24:53,118 --> 00:24:57,942
+change. Well, I largely feel like I liked this
+movie more than you did because the characters
+
+273
+00:24:58,002 --> 00:25:04,315
+are more sacred to you than they are to me.
+That's exactly it. Like before I even get into
+
+274
+00:25:04,355 --> 00:25:09,899
+what the film is, I want to speak briefly on
+what the film should have been as a fan of
+
+275
+00:25:09,919 --> 00:25:14,523
+the comic book character. Because the biggest
+mistake Kraven the Hunter makes is that it
+
+276
+00:25:14,543 --> 00:25:20,207
+fails to recognize who the character is and
+his appeal as a Spider-Man villain from the
+
+277
+00:25:20,247 --> 00:25:24,711
+comic books. You know, the guy that they have
+up on the screen here, like he has the same
+
+278
+00:25:24,751 --> 00:25:28,974
+powers as Kraven the Hunter and he has the look
+and the name. But if the writers and director
+
+279
+00:25:29,034 --> 00:25:34,614
+knew anything else about Kraven, the film wouldn't
+have had one. the organized crime elements,
+
+280
+00:25:35,094 --> 00:25:42,297
+two, the weird daddy drama, three, the vigilante
+justice elements, and four, the rescue mission
+
+281
+00:25:42,458 --> 00:25:47,900
+that was the plot's primary conflict. And yeah,
+people may say that Kraven did, for a time
+
+282
+00:25:47,940 --> 00:25:52,722
+in the comics, turn into a hunter of hunters
+where he killed poachers and whatnot, but that's
+
+283
+00:25:52,762 --> 00:25:57,904
+not what this origin film should have been.
+Kraven's not like Morbius, who is a good guy
+
+284
+00:25:57,944 --> 00:26:02,767
+beset by a terrible curse, and Kraven's not
+like Venom. who is a corrupted symbiote who
+
+285
+00:26:02,807 --> 00:26:08,971
+actually wants to be good. Kraven's an asshole
+in the comic books. He's prideful, he's resentful.
+
+286
+00:26:09,371 --> 00:26:15,015
+You know, the crux of the comic book character's
+motivation is his anger at the loss of his
+
+287
+00:26:15,055 --> 00:26:19,679
+family's nobility when they were forced to flee
+Russia for America during the Soviet Revolution
+
+288
+00:26:19,719 --> 00:26:25,983
+when he was a child. You know, it was this disdain
+that drove him to kill, traveling the globe,
+
+289
+00:26:26,063 --> 00:26:31,375
+becoming the world's greatest hunter. This movie
+should have been like a treasure hunt film
+
+290
+00:26:31,475 --> 00:26:36,178
+in the vein of Indiana Jones or a national treasure
+meets the most dangerous game. It should have
+
+291
+00:26:36,198 --> 00:26:41,501
+been about a guy who grew bored with killing,
+who sought the ultimate quarry, like a super
+
+292
+00:26:41,541 --> 00:26:45,384
+powered mercenary from Russia called the Rhino
+or something like that. You know, have him
+
+293
+00:26:45,584 --> 00:26:51,348
+seek out, find the Rhino, get defeated, learn
+a lesson in humility, recover, get powers,
+
+294
+00:26:51,848 --> 00:26:56,487
+then win in a final showdown. you know, bagging
+his ultimate prize, and then end his life because
+
+295
+00:26:56,507 --> 00:27:00,970
+he had nothing else to live for, just like Kraven's
+last hunt storyline from the comics. It could
+
+296
+00:27:00,990 --> 00:27:07,174
+have been poetic, it could have been complex,
+but adventurous and still fun. Instead, we
+
+297
+00:27:07,214 --> 00:27:13,137
+got whatever this story was, about a Russian
+crime family heir turned animal-powered vigilante
+
+298
+00:27:13,177 --> 00:27:17,720
+assassin with mystical lions in the mix, and
+a science experiment gone wrong villain with
+
+299
+00:27:17,760 --> 00:27:22,971
+his superpowered catheter and IV bag. There
+were so many times during the course of this
+
+300
+00:27:23,031 --> 00:27:28,713
+film where I was like, what the fuck are they
+doing? Of all the choices the movie could have
+
+301
+00:27:28,793 --> 00:27:34,916
+made, why did they make those? It was just really
+puzzling. Not going to lie, your most dangerous
+
+302
+00:27:34,976 --> 00:27:40,798
+game concept is fantastic. Like, I kind of wish
+you would have done that as like a bonus episode
+
+303
+00:27:40,858 --> 00:27:45,060
+pitch for our patrons, which we tend to do sometimes.
+Like when we feel like we have a really good
+
+304
+00:27:45,100 --> 00:27:50,138
+idea for a movie, we'll record it and then upload
+it as a bonus episode. I think that storyline
+
+305
+00:27:50,158 --> 00:27:54,521
+sounds fantastic. Well, I might still write
+that story one day and maybe post it on our
+
+306
+00:27:54,541 --> 00:27:58,424
+Discord channel or something. But that's really
+what the movie should have been. I don't know
+
+307
+00:27:58,444 --> 00:28:03,888
+what this was. In my research for this film,
+I learned that the writers of Kraven the Hunter,
+
+308
+00:28:04,208 --> 00:28:10,152
+Art Markham and Matt Holloway, also wrote Punisher
+Warzone, which didn't surprise me because I
+
+309
+00:28:10,172 --> 00:28:14,755
+feel like both films were trying to evoke the
+testosterone-fueled late 80s, early 90s action
+
+310
+00:28:14,795 --> 00:28:19,914
+films. That's fascinating because I actually
+thought... that this movie should have gone
+
+311
+00:28:19,934 --> 00:28:25,397
+a little bit harder are on the action and been
+more like Punisher Warzone. Because I feel
+
+312
+00:28:25,417 --> 00:28:29,398
+like all the hardcore violence stuff we saw,
+we already got from the trailers. From the
+
+313
+00:28:29,418 --> 00:28:34,841
+Red Band trailers, yeah. I'll say at least Punisher
+Warzone got the characterization of Frank Castle
+
+314
+00:28:34,881 --> 00:28:40,523
+right. And at least Punisher Warzone used practical
+effects like the best 80s and 90s action films
+
+315
+00:28:40,563 --> 00:28:45,625
+did. I feel like I would have enjoyed or at
+least respected Kraven the Hunter so much more.
+
+316
+00:28:46,214 --> 00:28:52,179
+if he wasn't occasionally a CGI character bouncing
+around like Gumby in some shots. And the Rhino
+
+317
+00:28:52,219 --> 00:28:56,082
+special effects and like the animal special
+effects, they were a lot more rough than they
+
+318
+00:28:56,102 --> 00:29:01,947
+should have been for a film with this tone.
+They just need to stop trying to do the Rhino
+
+319
+00:29:02,667 --> 00:29:08,072
+in live action because they can't get it right.
+Yeah, for sure. Poor guy has not been done
+
+320
+00:29:08,092 --> 00:29:12,516
+justice. Speaking of action though, I'll give
+the film credit where credit is due. If you
+
+321
+00:29:12,616 --> 00:29:17,580
+overlook the special effects, the film... does
+have some really well shot action. You know,
+
+322
+00:29:17,600 --> 00:29:22,244
+the prison escape into the snow storm, the chase
+through London, the forest attack on Rhino's
+
+323
+00:29:22,284 --> 00:29:27,928
+men. Those are all fantastic action set pieces.
+At its best, Kraven the Hunter evoked other
+
+324
+00:29:27,948 --> 00:29:32,812
+great actioners like Predator, Extraction, or
+even Captain America the Winter Soldier. For
+
+325
+00:29:32,853 --> 00:29:38,878
+my money, this film had better action than any
+other Sony Spider-Man universe film, and probably
+
+326
+00:29:38,918 --> 00:29:44,050
+honestly the best practical action since Shang-Chi
+and the Legend of the Ten Rings. Yeah. And
+
+327
+00:29:44,070 --> 00:29:48,773
+therefore I can see why casual viewers who don't
+know or care about the source material would
+
+328
+00:29:48,873 --> 00:29:54,897
+probably like this film more than me and rate
+it higher. To me, this film reminded me somewhat
+
+329
+00:29:55,018 --> 00:30:01,022
+of like a Captain America film just in terms
+of his like super soldier-esque power set or
+
+330
+00:30:01,062 --> 00:30:06,366
+maybe like Black Panther with the car chase.
+Yeah. In that sense, it felt a little redundant
+
+331
+00:30:06,406 --> 00:30:10,528
+to me. Like I don't feel like I saw anything
+even action wise that I hadn't already seen
+
+332
+00:30:10,568 --> 00:30:15,751
+before. That said, It's still pretty cool to
+see. Yeah, I mean, well, like Kraven the Hunter
+
+333
+00:30:15,771 --> 00:30:18,992
+doesn't have the most original power set in
+the comic books either. What really makes him
+
+334
+00:30:19,092 --> 00:30:24,493
+unique was the driving force behind his actions
+in trying to prove himself as a hunter, which
+
+335
+00:30:24,613 --> 00:30:29,555
+this movie got none of that. None of that. In
+addition to the action, though, another thing
+
+336
+00:30:29,595 --> 00:30:33,836
+that this film does well is that even though
+they totally got the characters wrong from
+
+337
+00:30:33,876 --> 00:30:40,339
+the comics, whether it's Kraven Rhino or Nikolai
+Kravinov. At least they took the time to develop
+
+338
+00:30:40,379 --> 00:30:44,660
+the characters because their motivations were
+pretty well established. Some might even say
+
+339
+00:30:44,680 --> 00:30:49,562
+that they spent too much time reiterating certain
+character beats, but I think the payoffs in
+
+340
+00:30:49,583 --> 00:30:55,025
+the end were all well earned from Nikolai's
+death to Chameleon's betrayal. Yeah, maybe
+
+341
+00:30:55,045 --> 00:31:00,027
+not so much with Calypso. I mean, we did get
+a brief bit with her when she was a child,
+
+342
+00:31:00,167 --> 00:31:04,809
+but you know, learning how she became so good
+with the bow and stuff like that, it was like,
+
+343
+00:31:04,829 --> 00:31:08,963
+okay, sure, off screen stuff. It's fine. Yeah.
+Oh, for sure. Actually, since we're talking
+
+344
+00:31:08,983 --> 00:31:12,927
+about the characters, let's get into our character
+breakdown. First, let's talk about Kraven the
+
+345
+00:31:12,947 --> 00:31:18,951
+Hunter, aka Sergei Kravenov, played by Aaron
+Taylor Johnson. As I've said before, I don't
+
+346
+00:31:18,971 --> 00:31:22,554
+really recognize this characterization of Kraven
+from the comic books, but I'll say that Aaron
+
+347
+00:31:22,574 --> 00:31:27,899
+Taylor Johnson really owned the character as
+portrayed here. Like, the dude exuded strength
+
+348
+00:31:28,259 --> 00:31:33,983
+and intrigue and charisma, and his acting...
+is completely transformative when you look
+
+349
+00:31:34,024 --> 00:31:39,869
+at his other comic book performances like Quicksilver
+or Kick-Ass. There's no doubt in my mind that
+
+350
+00:31:39,889 --> 00:31:45,433
+this guy is a star, despite the fact that he
+seems unable to draw a box office as a lead.
+
+351
+00:31:45,513 --> 00:31:51,559
+I think what he really requires is a franchise
+like 007 James Bond to catapult him beyond
+
+352
+00:31:51,599 --> 00:31:57,043
+his current career status, and I hope at the
+very least Kraven the Hunter serves as a vehicle
+
+353
+00:31:57,063 --> 00:32:01,411
+to show his capabilities as a physical action
+star. because I am rooting for him to be the
+
+354
+00:32:01,451 --> 00:32:05,894
+next James Bond. Really? I was kind of hoping
+for Henry Cavill. I mean, he could do it too,
+
+355
+00:32:06,454 --> 00:32:11,698
+but I think Aaron Taylor Johnson is more interesting
+than Henry Cavill, who's a little bit generic,
+
+356
+00:32:11,718 --> 00:32:17,543
+I would say. Wow, okay. No, yeah, I've been
+a fan of Aaron Taylor Johnson since his kick-ass
+
+357
+00:32:17,563 --> 00:32:22,186
+days. I don't remember seeing him in anything
+prior to that, but yeah, he's always killed
+
+358
+00:32:22,507 --> 00:32:27,250
+anything he's been in, whether it's this, whether
+it's something like bullet train. which he
+
+359
+00:32:27,270 --> 00:32:32,574
+was phenomenal in terms of action. He's definitely
+a star, yeah, I agree. In terms of Kraven's
+
+360
+00:32:32,614 --> 00:32:37,617
+character arc, he grew up highly resentful of
+his father and he spent the whole film trying
+
+361
+00:32:37,658 --> 00:32:43,482
+to take down men like him and protect innocent
+victims like wildlife or his brother, Dimitri.
+
+362
+00:32:43,942 --> 00:32:49,966
+The irony and tragedy is that in trying to denounce
+his father, Kraven became the exact man his
+
+363
+00:32:50,006 --> 00:32:54,922
+father wanted him to be. He played right into
+Nikolai's hands, taking out the Rhino. And
+
+364
+00:32:54,962 --> 00:32:59,946
+for all his assertion that he was a good guy,
+he failed to be there for his brother Dimitri,
+
+365
+00:33:00,146 --> 00:33:05,051
+abandoning him, only to later be surprised by
+his brother's hunger for power. The lesson
+
+366
+00:33:05,071 --> 00:33:10,095
+that he needed to learn was that with great
+power must come a lack of apathy. You know,
+
+367
+00:33:10,135 --> 00:33:16,281
+with great power must come not being a total
+dick. But really, he didn't learn that until
+
+368
+00:33:16,321 --> 00:33:20,825
+the last minute of the movie, because he was
+mostly static for much of the runtime after
+
+369
+00:33:20,865 --> 00:33:24,448
+the first act. Yeah, he learned this lesson
+at the end of the film, but we're not going
+
+370
+00:33:24,468 --> 00:33:28,611
+to see the consequences of that. We're not going
+to get to see him grow from that because I
+
+371
+00:33:28,651 --> 00:33:33,435
+really doubt they're going to make a sequel
+to this movie. Oh, no, this movie is bombing
+
+372
+00:33:33,475 --> 00:33:38,339
+at the box office, which is no surprise. It
+got the worst cinema score of any Sony Spider-Man
+
+373
+00:33:38,379 --> 00:33:45,025
+universe film, including Madame Web. It's probably
+going to be one of Sony's biggest flops and
+
+374
+00:33:45,225 --> 00:33:51,402
+will likely result in either a reboot on Sony's
+behalf or maybe hopefully. Is it too much to
+
+375
+00:33:51,422 --> 00:33:57,563
+wish for them to sell the rights to Spider-Man
+back to Marvel? Who knows? We'll see. But yet,
+
+376
+00:33:57,603 --> 00:34:02,405
+to your point, this movie set up a lot of stuff
+in its final moments for an upcoming sequel
+
+377
+00:34:02,445 --> 00:34:06,546
+that will most certainly never happen. And it's
+not the only film that's done that. You take
+
+378
+00:34:06,586 --> 00:34:12,147
+a look at Morbius. It's like, what is happening
+with that? Absolutely nothing. Sony really
+
+379
+00:34:12,187 --> 00:34:16,889
+dropped the ball. They really just need to stop
+making movies about Spider-Man characters that
+
+380
+00:34:16,969 --> 00:34:21,458
+no one cares about. People want to see these
+movies with Spider-Man. And you could also
+
+381
+00:34:21,498 --> 00:34:25,321
+make the same argument for films like Clayface,
+like who wants to see a Clayface movie without
+
+382
+00:34:25,401 --> 00:34:31,846
+Batman? Not me. But then I'm still hoping that,
+you know, that'll lead into something with
+
+383
+00:34:31,907 --> 00:34:36,911
+Batman, because I don't want just a Clayface
+movie where he never interacts with Batman.
+
+384
+00:34:37,131 --> 00:34:40,714
+And it was the same for Kraven. That was the
+point I was trying to make earlier, man. But
+
+385
+00:34:40,734 --> 00:34:46,498
+yeah, see, I have hope with the Sony Spider-Man
+stuff. I don't have hope because Sony owns
+
+386
+00:34:46,518 --> 00:34:50,898
+the rights to these Spider-Man characters. That's
+the difference. Yeah, that's true. That's true,
+
+387
+00:34:50,918 --> 00:34:56,001
+that's a big difference. Let's go ahead and
+move on to Nikolai Kravinov, played by Russell
+
+388
+00:34:56,021 --> 00:35:01,265
+Crowe. Now I don't know what the fuck has happened
+to Russell Crowe in the last decade, but why
+
+389
+00:35:01,305 --> 00:35:06,328
+else would he take on roles like this one and
+Zeus from Thor, Love and Thunder? I just, I
+
+390
+00:35:06,348 --> 00:35:10,811
+didn't like his performance here. It seemed
+ham-fisted and more like a caricature of a
+
+391
+00:35:10,872 --> 00:35:16,495
+Russian mobster. But you know, even worse than
+that, Nikolai was nothing like this in the
+
+392
+00:35:16,535 --> 00:35:21,459
+comic books. He wasn't a drug runner. There
+was no Kravinov. crime family. They just made
+
+393
+00:35:21,499 --> 00:35:25,702
+him a mobster in the movie. It's like they took
+notes from an entirely different script or
+
+394
+00:35:25,742 --> 00:35:31,706
+something. And to have such an original character
+have such bearing on an actually well-known
+
+395
+00:35:31,766 --> 00:35:37,350
+established character I think is bizarre. It's
+like inventing a cousin Archie for Peter Parker
+
+396
+00:35:37,751 --> 00:35:42,454
+who was the primary influence for him becoming
+a web-slinging hero, you know? It's just weird.
+
+397
+00:35:42,494 --> 00:35:46,477
+I didn't like it. Yeah, I wonder if they were
+trying to like squeeze the kink pen into this
+
+398
+00:35:46,517 --> 00:35:53,154
+movie. Then at the last minute they're like,
+uh, just, just make it his father. The Kraven
+
+399
+00:35:53,354 --> 00:35:57,717
+story should not have anything to do with daddy
+issues or a father. It should have just been
+
+400
+00:35:57,737 --> 00:36:02,160
+the character, the father's an afterthought
+in his story. It's ridiculous. But say you
+
+401
+00:36:02,240 --> 00:36:06,783
+didn't know the comic books. Say like you throw
+all of that out the window. Is it still that
+
+402
+00:36:06,803 --> 00:36:12,307
+bad? Um, no, it's not as bad if you don't know
+the comic books. I'll say that, but I don't
+
+403
+00:36:12,327 --> 00:36:17,458
+have that luxury. And so I'm just pissed off.
+I'm crushed with this. Beautiful knowledge.
+
+404
+00:36:19,460 --> 00:36:25,144
+Let's go to move on to Chameleon, AKA Dmitri
+Kravinov, played by Fred Hetchinger. This is
+
+405
+00:36:25,204 --> 00:36:29,326
+my first time seeing Fred Hetchinger in anything.
+I haven't seen the new Gladiator film yet.
+
+406
+00:36:29,767 --> 00:36:34,210
+So I'm not 100% sure what to think of his performance
+because, you know, like the Chameleon has been
+
+407
+00:36:34,290 --> 00:36:39,553
+such a frankly Chameleon in the comic books
+that his personality has never been quite consistent.
+
+408
+00:36:40,054 --> 00:36:44,757
+I thought in the movie, Dmitri came across as
+very meek and maybe too much of a damsel and
+
+409
+00:36:44,797 --> 00:36:49,000
+distress. But in the comic books, Chameleon
+has been everything from meek and mentally
+
+410
+00:36:49,040 --> 00:36:54,944
+unstable to cunning and a criminal genius. You
+know, even his twist at the very end, you could
+
+411
+00:36:55,004 --> 00:36:58,607
+say that it came out of left field, but that
+was still being keeping with the character
+
+412
+00:36:58,627 --> 00:37:03,631
+from the comic books. I actually really like
+what they did with the Chameleon here. I never
+
+413
+00:37:03,731 --> 00:37:10,236
+thought he was an interesting Spider-Man villain,
+but I cared for Demetri in this film, and the
+
+414
+00:37:10,296 --> 00:37:14,827
+twist at the end was kind of heartbreaking.
+It was. Yeah, like I said, I think those character
+
+415
+00:37:14,847 --> 00:37:19,689
+payoffs at the end were well-learned. It was
+interesting because Dimitri didn't really realize
+
+416
+00:37:19,709 --> 00:37:24,452
+until the very end that Kraven was more like
+his father than he realized, like a ruthless
+
+417
+00:37:24,492 --> 00:37:29,694
+killer. And likewise, Kraven, who always thought
+that his brother Dimitri was innocent, learned
+
+418
+00:37:29,754 --> 00:37:35,157
+that his brother actually did crave power and
+would follow in his father's footsteps if given
+
+419
+00:37:35,177 --> 00:37:39,835
+the chance. Yeah, as it turned out, some of
+his father's influences, you know, pushing
+
+420
+00:37:39,875 --> 00:37:45,197
+him to be strong and ambitious and stuff like
+that actually did stick. I do like how that
+
+421
+00:37:45,217 --> 00:37:49,599
+all played out. I do wish that instead of trying
+to set up a sequel, that the filmmakers just
+
+422
+00:37:49,659 --> 00:37:55,141
+made the chameleon the primary villain manipulating
+events from the shadows, because as it was,
+
+423
+00:37:55,581 --> 00:37:59,803
+I think the chameleon twists at the end was
+just a little bit too late and a little bit
+
+424
+00:37:59,863 --> 00:38:06,198
+goofy, too, with the special effects. Oh, that
+was fucking terrible. Holy cow. just like a
+
+425
+00:38:06,238 --> 00:38:12,220
+really short, scrawny Aaron Taylor Johnson all
+of a sudden. I was like, what? What? Stupid.
+
+426
+00:38:13,821 --> 00:38:18,643
+Yeah, and then when he turned his face white,
+so he has the look from the comic books that
+
+427
+00:38:18,683 --> 00:38:23,145
+like blank white face, you know, that was kind
+of ridiculous looking, a little bit too shiny
+
+428
+00:38:23,505 --> 00:38:27,067
+in the special effects, a little bit too computer
+animated. And then he went back to his normal
+
+429
+00:38:27,087 --> 00:38:31,448
+face. It was all bizarre. You know what I thought
+they were going to do? And I actually got really
+
+430
+00:38:31,488 --> 00:38:36,775
+excited when I was watching the movie, when
+Kraven's father hands him the box saying, look
+
+431
+00:38:36,795 --> 00:38:42,118
+what they did to my boy. I thought instead of
+a finger, they were gonna hand him his nose.
+
+432
+00:38:42,598 --> 00:38:47,100
+And I thought that was going to be like the
+whole justification for the look of the chameleon.
+
+433
+00:38:47,120 --> 00:38:51,463
+Like they cut off his nose and shaved his head
+and his eyebrows or something like that. Totally
+
+434
+00:38:51,503 --> 00:38:55,085
+didn't go that route, but I thought it would
+have been cool if they did. That would have
+
+435
+00:38:55,105 --> 00:38:59,107
+been pretty severe if they did that. I'm kind
+of glad they didn't, because I don't need like
+
+436
+00:38:59,147 --> 00:39:03,789
+a ground to take on the chameleon, but I also
+don't necessarily need a CGI faced chameleon.
+
+437
+00:39:04,198 --> 00:39:10,600
+It should look practical, but you know, it should
+be a mask. Okay, okay. I don't know if listeners
+
+438
+00:39:10,640 --> 00:39:14,682
+are too familiar with the chameleon as a Spider-Man
+villain, but one of these days we'll get a
+
+439
+00:39:14,722 --> 00:39:19,204
+duel episode in with him for sure. Maybe against
+someone like Hard Target from DC. Let's go
+
+440
+00:39:19,224 --> 00:39:26,507
+ahead and move on to Rhino, aka Alexei Sitsovich,
+played by Alessandro Nivola. Alessandro Nivola
+
+441
+00:39:26,547 --> 00:39:31,489
+was probably a better actor than this movie
+called for, but his personality for the Rhino
+
+442
+00:39:31,509 --> 00:39:35,939
+was way off. And I think he was too smart to
+be the same character from the comics. Like,
+
+443
+00:39:36,319 --> 00:39:40,420
+as you said earlier, they can't get the rhino
+right on film, it seems like. Because previously
+
+444
+00:39:40,760 --> 00:39:45,081
+the character was played by Paul Giamatti. And
+I think that brief look at him was actually
+
+445
+00:39:45,101 --> 00:39:49,723
+a little bit more accurate personality wise,
+but Giamatti's performance was horrible. And
+
+446
+00:39:49,743 --> 00:39:54,044
+like the rhino suit was way off base in that
+movie. Like they were really going for like
+
+447
+00:39:54,084 --> 00:39:59,638
+the Transformers thing around that time. Right.
+Yeah. But here. It's not really that much better
+
+448
+00:39:59,958 --> 00:40:05,082
+at all. You know, it wasn't a suit. He was like
+a rhino-human hybrid, and it was like a medical
+
+449
+00:40:05,102 --> 00:40:10,525
+condition given to Alexei by the Jackal in an
+effort to increase his strength, which could
+
+450
+00:40:10,565 --> 00:40:16,229
+be managed through an intravenous port in his
+side. Okay, it was the Jackal. I was wondering
+
+451
+00:40:16,269 --> 00:40:21,973
+who the scientist was. That is kind of cool.
+Yeah, Miles Warren, that was the doctor that
+
+452
+00:40:21,993 --> 00:40:25,614
+they referenced in the movie. And I thought
+that was pretty cool because the Jackal has
+
+453
+00:40:25,654 --> 00:40:29,896
+been hugely influential in Spider-Man's life
+behind the scenes. In the comic books, you
+
+454
+00:40:29,916 --> 00:40:35,639
+know, Alexei was a hired thug who was dumb enough
+to volunteer for KGB scientific experiments
+
+455
+00:40:35,739 --> 00:40:40,441
+with gamma radiation, which made him strong,
+and then they gave him an indestructible suit.
+
+456
+00:40:40,601 --> 00:40:46,724
+And he was always kind of known for being dimwitted
+and whatnot. Here they made him a rival crime
+
+457
+00:40:46,744 --> 00:40:50,950
+lord, which again, you know, probably works
+better for people who don't. the comic books,
+
+458
+00:40:50,990 --> 00:40:55,093
+but I think a lot of comic book fans will just
+be kind of puzzled by this portrayal of the
+
+459
+00:40:55,113 --> 00:40:59,816
+character. Especially the whole Rhino-human
+hybrid thing too. Yeah, you mentioned that
+
+460
+00:40:59,876 --> 00:41:06,080
+Russell Crowe was like a caricature earlier.
+I totally felt that way with this performance
+
+461
+00:41:06,120 --> 00:41:11,884
+for the Rhino. It felt just so artificial to
+me. Well, to me, Nivola's performance as Alexi
+
+462
+00:41:11,904 --> 00:41:15,767
+didn't seem like a caricature because it was
+a little bit more subdued than Russell Crowe's
+
+463
+00:41:15,787 --> 00:41:20,346
+performance, you know, who really went all in
+on the scenery chewing. I didn't think that
+
+464
+00:41:20,386 --> 00:41:24,227
+at all. I think the reverse of that. I thought
+Russell Crowe's performance was subdued and
+
+465
+00:41:24,247 --> 00:41:29,129
+kind of lazy and, you know, he was just kind
+of cashing in a paycheck. But with this Alexi
+
+466
+00:41:29,149 --> 00:41:34,210
+actor guy, I thought he made the most out of,
+you know, the dog and just like grabbing the
+
+467
+00:41:34,250 --> 00:41:40,192
+counter like screaming silently and stuff. It
+was just weird. That was really fucking weird.
+
+468
+00:41:42,373 --> 00:41:46,258
+I didn't like his power set either. Like the
+way they... portrayed it, how it was controlled
+
+469
+00:41:46,278 --> 00:41:50,479
+with the IV pack that went into the port in
+his side. It was so stupid, because it's like,
+
+470
+00:41:50,899 --> 00:41:55,941
+he was trying to make a deal with those mobsters,
+and he like, showed them his powers, they shot
+
+471
+00:41:55,981 --> 00:42:00,722
+him, and he proved that he was invulnerable,
+so they got all scared of him. But like, couldn't
+
+472
+00:42:00,742 --> 00:42:05,043
+you just shoot him when he doesn't have the
+fucking rhino skin? Or shoot him in the head,
+
+473
+00:42:05,303 --> 00:42:10,024
+like before he fully transforms, because that
+shit took forever. Exactly, it took a while
+
+474
+00:42:10,064 --> 00:42:14,718
+for him to turn into the rhino, like 30 seconds,
+you know? That's plenty of time. to kill the
+
+475
+00:42:14,758 --> 00:42:19,962
+guy before he becomes a destructible. So weird.
+Such a weird device. Let's go ahead and move
+
+476
+00:42:20,002 --> 00:42:25,427
+on to Calypso Azili, played by Ariana DeBose.
+I thought that was a solid casting choice.
+
+477
+00:42:25,547 --> 00:42:30,291
+I thought Ariana brought pretty solid nuance
+to an otherwise generic role. In the comics,
+
+478
+00:42:30,411 --> 00:42:35,516
+Calypso is a voodoo priestess who loved Kraven
+and gave him the potion to increase his longevity
+
+479
+00:42:35,556 --> 00:42:40,200
+and physicality. But she was more manipulative
+and villainous in the comics, not like the
+
+480
+00:42:40,220 --> 00:42:44,590
+goody two-shoes she is in this film. You know,
+the movie did allude to some secrets about
+
+481
+00:42:44,630 --> 00:42:49,712
+her past, but it was done horribly. It was like,
+oh, you just happened to have an extra healing
+
+482
+00:42:49,732 --> 00:42:54,494
+potion on you despite saying you didn't. OK.
+Oh, you're just secretly a badass with a crossbow,
+
+483
+00:42:54,514 --> 00:42:59,296
+but you don't want to give us any hint as to
+why. OK. All right. Sure. I feel like there
+
+484
+00:42:59,336 --> 00:43:05,019
+was more to her character in the film that was
+actually cut. And that was why they clearly
+
+485
+00:43:05,059 --> 00:43:10,281
+had to ADR some line changes with her scenes
+and stuff. Oh, my God. It's probably why even
+
+486
+00:43:10,301 --> 00:43:14,404
+though she had clairvoyance as a kid. She didn't
+have any of that stuff as an adult, unless
+
+487
+00:43:14,424 --> 00:43:19,689
+you want to attribute the deus ex machina of
+her killing the foreigner as a result of her
+
+488
+00:43:19,729 --> 00:43:24,153
+clairvoyance, which I think you almost have
+to in order for that scene to not feel cheap.
+
+489
+00:43:24,514 --> 00:43:33,683
+The ADR in this film and the CG mouth movement
+was almost as bad as the Henry Cavill mustache
+
+490
+00:43:33,763 --> 00:43:38,762
+in Justice League debacle. Yeah. Oh, for sure.
+You know, they did a lot of weird ADR stuff
+
+491
+00:43:38,822 --> 00:43:44,685
+with the dialogue in Madam Web as well, so it
+makes me think that you have a solid case of
+
+492
+00:43:44,745 --> 00:43:49,307
+studio interference just fucking shit up that
+they have to kind of clean up and post with
+
+493
+00:43:49,327 --> 00:43:54,569
+some last minute dialogue changes. We'll probably
+also get a Calypso duel somewhere down the
+
+494
+00:43:54,609 --> 00:43:59,431
+line. I think one of our executive producers,
+Devin Davis, suggested the idea of putting
+
+495
+00:43:59,451 --> 00:44:04,213
+Calypso against Papa Midnight, who was in the
+Constantine film, being that they're both voodoo.
+
+496
+00:44:04,590 --> 00:44:09,153
+practitioners and I thought that was a solid
+idea. Yeah, totally. Let's go to move on to
+
+497
+00:44:09,253 --> 00:44:13,737
+Foreigner, played by Christopher Abbott. Now,
+Foreigner has no other name because that's
+
+498
+00:44:13,757 --> 00:44:19,702
+all he's known as in the comic books. I've always
+thought he's one of the lamest ass supervillains
+
+499
+00:44:19,742 --> 00:44:25,627
+of all time. He was married to Silver Sable,
+so he's an Eastern European mercenary. But
+
+500
+00:44:25,647 --> 00:44:32,153
+I wanna ask you, Jonathan, what do you think
+his power is? Was it like hypnosis via like
+
+501
+00:44:32,273 --> 00:44:38,658
+eye contact? Yeah, okay, so you got it. I was
+really taken back by how the movie portrayed
+
+502
+00:44:38,678 --> 00:44:44,083
+his ability, but essentially he can put people
+into a 10 second hypnotic trance, which makes
+
+503
+00:44:44,403 --> 00:44:49,447
+people think that he has super speed. But here
+it seemed like it was only a three second trance
+
+504
+00:44:49,627 --> 00:44:54,051
+and they portrayed his movements almost as if
+he did have super speed. It was really weird.
+
+505
+00:44:54,452 --> 00:45:00,357
+Well, I think they wanted to give the audience
+the same kind of perception as anyone who was
+
+506
+00:45:00,377 --> 00:45:05,251
+hypnotized by him. I'm wondering why he had
+to like count down the trance every time out
+
+507
+00:45:05,312 --> 00:45:09,974
+loud. Like every single fucking time he used
+his power. It was really bizarre. It's like
+
+508
+00:45:10,034 --> 00:45:13,796
+one of those things, just like the rhino. It's
+like, before he counts down to one, just shoot
+
+509
+00:45:13,816 --> 00:45:21,200
+him in the head. It was always just like slow
+motion bullet time. One, two, three. But they
+
+510
+00:45:21,260 --> 00:45:25,943
+did that like six or seven times in the movie.
+I think it could have been pretty clear what
+
+511
+00:45:25,963 --> 00:45:30,165
+was going on without the counting. Yeah, I agree.
+What was your impression of the foreigner?
+
+512
+00:45:31,002 --> 00:45:36,124
+I was just like, I wonder how this is a translation
+from the comics, because this is kind of bizarre.
+
+513
+00:45:36,244 --> 00:45:40,606
+I don't know anything about the foreigner, and
+I'm kind of wondering why they decided to include
+
+514
+00:45:40,626 --> 00:45:47,129
+him in a Kraven movie. Is he a Kraven villain,
+or is he like a Spider-Man villain? He's a
+
+515
+00:45:47,209 --> 00:45:52,312
+Spider-Man villain. He's very much tied into
+the Silver Sable corner of the Spider-Man world,
+
+516
+00:45:52,592 --> 00:45:57,166
+which is largely set in Eastern Europe. You
+know, she's the leader of some Caria. I do
+
+517
+00:45:57,186 --> 00:46:00,708
+think that they should have given Foreigner
+an accent, not Russian necessarily, but some
+
+518
+00:46:00,728 --> 00:46:05,450
+kind of like Eastern European accent. I think
+that would have been more in keeping with the
+
+519
+00:46:05,470 --> 00:46:09,392
+character and would have helped sell his name
+as the Foreigner a little bit better, you know?
+
+520
+00:46:09,932 --> 00:46:15,935
+I take it they're not making the Silver Sable
+movie anymore if he is dead now? A Silver Sable
+
+521
+00:46:15,955 --> 00:46:20,537
+movie was rumored, but I don't believe it's
+in any sort of active development with Sony.
+
+522
+00:46:21,014 --> 00:46:25,818
+because the latest news from sources was that
+Sony is kind of taking a break on the Spider-Man
+
+523
+00:46:25,938 --> 00:46:31,903
+spin-off films. Holy shit, it's about time.
+Yeah. It's like, fool me once with Morbius.
+
+524
+00:46:32,063 --> 00:46:38,348
+Shame on you. Fool me twice with Madame Web.
+Shame on me. Fool me three times with Kraven?
+
+525
+00:46:38,829 --> 00:46:43,053
+Fucking stop. You gotta go. You gotta go at
+that point. Strike three, you're out. It's
+
+526
+00:46:43,073 --> 00:46:48,397
+so surprising that Sony decided to release three
+Spider-Man universe films in 2024. It's just
+
+527
+00:46:48,437 --> 00:46:52,924
+crazy. You would think if the reason that they're
+making these movies is just to hold on to the
+
+528
+00:46:52,964 --> 00:46:58,628
+rights of Spider-Man, they would delay the release
+of these films until like the very last minute.
+
+529
+00:46:59,088 --> 00:47:05,113
+Right. Exactly. It's almost like they're trying
+to get rid of the rights for Spider-Man. It's
+
+530
+00:47:05,153 --> 00:47:06,273
+almost like they're dumb.
+
+531
+00:47:13,262 --> 00:47:18,924
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+532
+00:47:18,944 --> 00:47:24,666
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+533
+00:47:24,726 --> 00:47:30,488
+DynaMic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+534
+00:47:31,029 --> 00:47:36,200
+Dynamic Duel, where comic book legends fight
+each other. Smash every Tuesday, Max Destruction,
+
+535
+00:47:36,600 --> 00:47:42,585
+where TV and action heroes battle every Wednesday,
+and Sendro World, where anime champions clash
+
+536
+00:47:42,706 --> 00:47:48,350
+every Thursday. Join us as we speculate on the
+matches and, armed with the power of mathematical
+
+537
+00:47:48,390 --> 00:47:54,716
+simulations, discover who will emerge victorious.
+Visit dynamicpodcast.com where we settle the
+
+538
+00:47:54,756 --> 00:47:56,177
+debate and settle the score.
+
+539
+00:48:00,503 --> 00:48:05,187
+Let's go ahead and move into our story highlights.
+Sergei Kravinov is transported to a Russian
+
+540
+00:48:05,227 --> 00:48:10,752
+prison where, calling himself Kraven the Hunter,
+he murders an imprisoned crime boss named Samin
+
+541
+00:48:10,792 --> 00:48:16,377
+Chorni. He escapes the prison into the Russian
+tundra where he flees via a chartered plane.
+
+542
+00:48:16,437 --> 00:48:20,681
+I want to know who his pilot was, like they
+were all mysterious with that, like it was
+
+543
+00:48:20,701 --> 00:48:25,485
+going to be some big reveal or easter egg and
+it just turned into a big ol' nothing burger.
+
+544
+00:48:25,770 --> 00:48:29,811
+It was Madame Webb. I think Devin Davis, one
+of our producers, speculated that it could
+
+545
+00:48:29,831 --> 00:48:34,052
+have been Silver Sable, but I don't know about
+that. It's one of those things where that had
+
+546
+00:48:34,072 --> 00:48:38,593
+to have been revealed in an earlier cut of the
+film. But when they were like shifting things
+
+547
+00:48:38,633 --> 00:48:42,734
+around due to studio intervention, then yeah,
+maybe it could have been Silver Sable. That's
+
+548
+00:48:42,794 --> 00:48:48,256
+as good a guess as any. I think the film started
+off really promising with the prison escape
+
+549
+00:48:48,416 --> 00:48:53,417
+action scene and him running into that big storm
+cloud. I thought that was a pretty cool shot.
+
+550
+00:48:53,938 --> 00:48:58,300
+One thing I didn't get is when he's like eyes
+glowed at the wolf and the wolf was like, oh
+
+551
+00:48:58,360 --> 00:49:03,683
+shit, bro, sorry, then like ran away. They never
+played up on that again. Well, they kind of
+
+552
+00:49:03,723 --> 00:49:08,666
+insinuate that he has some kind of rapport with
+animals. And when he's using his powers, his
+
+553
+00:49:08,806 --> 00:49:14,028
+eyes turn into like a lion's eyes. He can't
+speak with animals directly. You know, I don't
+
+554
+00:49:14,048 --> 00:49:20,172
+think it's as clear cut as that, but he can
+influence them in some way. So which is somewhat
+
+555
+00:49:20,212 --> 00:49:24,058
+in keeping with the comic books, like he doesn't
+have animal communication powers. but he can
+
+556
+00:49:24,118 --> 00:49:28,722
+easily train animals and he does use a lot of
+trained animals in his battles with Spider-Man.
+
+557
+00:49:29,042 --> 00:49:32,926
+So then why the hell did that leopard attack
+him at the end of the movie? I don't fucking
+
+558
+00:49:32,946 --> 00:49:36,909
+know man, I think they were insinuating that
+the leopard was playing with him, but I couldn't
+
+559
+00:49:36,989 --> 00:49:41,333
+quite be sure. He did get the leopard to attack
+Rhino's men at the end, so you never know.
+
+560
+00:49:41,753 --> 00:49:46,137
+Did he? Yeah. Are that the leopard just did
+that because they were in his territory? I
+
+561
+00:49:46,177 --> 00:49:50,861
+don't think so, because they also look at the
+water buffalo. Oh, okay. That's highly coincidental.
+
+562
+00:49:51,266 --> 00:49:57,090
+for all those animals to be attacking these
+guys. That's fair. In a flashback to 16 years
+
+563
+00:49:57,130 --> 00:50:01,733
+ago, a teenage Sergey and his brother Dmitri
+are picked up from St. Michael's Academy in
+
+564
+00:50:01,773 --> 00:50:06,476
+New York by their crime lord, Father Nikolai.
+He informs the boys that their mother committed
+
+565
+00:50:06,516 --> 00:50:12,480
+suicide and that in response, they're going
+to hunt a lion named Tsar in Africa. In Ghana,
+
+566
+00:50:12,801 --> 00:50:17,164
+a young girl named Calypso learns from her grandmother
+that she is descended from a line of voodoo
+
+567
+00:50:17,204 --> 00:50:21,670
+priestesses and gives her a healing potion.
+telling her that she would know when to use
+
+568
+00:50:21,710 --> 00:50:25,933
+it. This is when the film started getting bad
+for me. I think with the weird plot choice
+
+569
+00:50:25,993 --> 00:50:30,695
+of, you know, we'll go on a hunt instead of
+going to a funeral and the scene with young
+
+570
+00:50:30,715 --> 00:50:37,319
+Calypso and her grandmother was pretty cringe-worthy.
+Yeah, the grandmother's voice was not the grandmother's
+
+571
+00:50:37,359 --> 00:50:43,282
+voice. That was some other actress, like 100%.
+During the Kravinov's hunting expedition, Nikolai
+
+572
+00:50:43,302 --> 00:50:47,684
+is approached by Alexei Sitsovich, who tries
+to offer a business arrangement with him, but
+
+573
+00:50:47,724 --> 00:50:53,432
+is rejected for his perceived weakness. Sergei
+stumbles upon Tsar, but refuses to shoot him.
+
+574
+00:50:53,652 --> 00:50:58,775
+However, Nikolai shoots the lion who attacks
+and carries Sergei away. Calypso leaves a family
+
+575
+00:50:58,815 --> 00:51:04,139
+safari trip and stumbles upon Sergei's wounded
+body. She gives him the Voodoo Potion and alerts
+
+576
+00:51:04,199 --> 00:51:09,882
+medical responders who take Sergei to a hospital
+where he dies, but is revived by the potion,
+
+577
+00:51:09,902 --> 00:51:14,405
+which gives him special powers. I wanna know
+what the fuck this scene with the lion is all
+
+578
+00:51:14,445 --> 00:51:19,619
+about. Like the way the lion acted, it made
+it seem like Kraven was some kind of predestined
+
+579
+00:51:19,659 --> 00:51:24,902
+warrior chosen either by the Loa or by nature
+itself or something like that. But we never
+
+580
+00:51:24,962 --> 00:51:31,064
+learned for what purpose. Like it couldn't possibly
+be that this lion just wanted all these crime
+
+581
+00:51:31,084 --> 00:51:36,427
+bosses off the map, right? Something was faded
+there and we have no reason why. He was the
+
+582
+00:51:36,487 --> 00:51:42,229
+chosen one, Joseph. Okay, go on. He's a result
+of thousands of years of ancient prophecy among
+
+583
+00:51:42,249 --> 00:51:48,852
+the lion community. to carry on the mantle of
+the lion. And do what? Fucking kill mobsters,
+
+584
+00:51:48,992 --> 00:51:56,055
+I don't know. Exactly, who knows? I don't think
+this movie would do well in a rewatch because
+
+585
+00:51:56,115 --> 00:52:01,377
+as soon as you see the lion being gentle with
+Kraven and whatnot, you're gonna be like, well,
+
+586
+00:52:01,457 --> 00:52:06,479
+why though? We never learned why. I think what
+they were going for was that Kraven was supposed
+
+587
+00:52:06,499 --> 00:52:12,761
+to be some champion of nature, like defending
+them against poachers and from man itself.
+
+588
+00:52:13,174 --> 00:52:18,076
+But they didn't really follow through with that,
+beyond the poaching thing. Yeah, there were
+
+589
+00:52:18,096 --> 00:52:22,077
+a couple scenes where he went after poachers,
+but that wasn't like his primary goal. Like,
+
+590
+00:52:22,758 --> 00:52:27,880
+his primary goal was to go after men he perceived
+as evil. Like, the guy in the Russian Gulag,
+
+591
+00:52:28,080 --> 00:52:32,942
+he wasn't a poacher, right? But he went through
+all this effort just to kill the guy. No, he
+
+592
+00:52:32,962 --> 00:52:37,704
+was a weapons dealer. Right, exactly. And his
+father was a drug runner. You don't know how
+
+593
+00:52:37,784 --> 00:52:44,038
+drugs affect the lion community, bro. Okay,
+alright. That lion's parents were killed by
+
+594
+00:52:44,319 --> 00:52:51,081
+druggies one night. In Crime Alley? Crime-staring
+Getty. The Kravinovs travel back to their home
+
+595
+00:52:51,101 --> 00:52:55,143
+in London, where Sergei finds a note from his
+mom stating that she couldn't bear Nikolai's
+
+596
+00:52:55,163 --> 00:53:00,685
+abuse anymore. Nikolai chastises Sergei for
+failing to shoot Tsar, revealing the lion's
+
+597
+00:53:00,725 --> 00:53:05,707
+head mounted on his wall. Sergei runs away from
+home, saying goodbye to his brother Dmitri,
+
+598
+00:53:05,807 --> 00:53:10,549
+and travels to his mother's family's old estate
+in the Siberian forest, which she calls home.
+
+599
+00:53:10,966 --> 00:53:15,727
+There he discovers a group of poachers taking
+the horns of a group of wild buffalo and he
+
+600
+00:53:15,787 --> 00:53:20,890
+kills them in anger What was your reaction to
+seeing the lion head mounted on the wall? Cuz
+
+601
+00:53:20,990 --> 00:53:24,871
+I was shocked when I saw that I was like you
+Bastards, that was a cool ass lion. That was
+
+602
+00:53:24,911 --> 00:53:30,774
+a huge lion man. Yeah, that head was massive
+I really don't like the idea of trophy hunting
+
+603
+00:53:30,814 --> 00:53:36,216
+in general like you're not gonna eat lion meat,
+right? So like why kill the fucking lion? The
+
+604
+00:53:36,276 --> 00:53:40,237
+only reason I think you should kill a lion is
+if it's self-defense if it's trying to kill
+
+605
+00:53:40,277 --> 00:53:45,245
+you Otherwise, just leave the lion alone. Just
+fucking leave the lion alone. That's what I'm
+
+606
+00:53:45,285 --> 00:53:51,189
+saying. Back in the present day, Kraven returns
+home from the Russian prison and kills another
+
+607
+00:53:51,229 --> 00:53:55,993
+group of poachers near his home. He tracks their
+leader to London where he reveals a list of
+
+608
+00:53:56,073 --> 00:54:00,916
+names of crime bosses he intends to kill. He
+meets with Calypso, now an attorney working
+
+609
+00:54:00,956 --> 00:54:05,880
+out of London, and thanks her for saving him
+all those years ago and asks for her help in
+
+610
+00:54:05,960 --> 00:54:10,976
+locating the names on his list. Now, was Alexi's
+name on this list? I was kind of confused by
+
+611
+00:54:11,016 --> 00:54:16,579
+that. Allegedly, allegedly, that's what Alexi
+has led to believe. We never know for certain
+
+612
+00:54:16,619 --> 00:54:21,583
+whether that's true or not. I'm inclined to
+believe that, yeah, Alexi's name was on that
+
+613
+00:54:21,623 --> 00:54:26,886
+list. But the movie made a big mistake in not
+actually showing that. That's ridiculous, because
+
+614
+00:54:26,926 --> 00:54:31,830
+that was the whole motivation of the primary
+antagonist. Exactly. You're not going to show
+
+615
+00:54:31,870 --> 00:54:37,153
+that. What the hell was it all for then? I have
+no idea. Alexi's henchmen, too. He was like,
+
+616
+00:54:37,406 --> 00:54:42,029
+Yeah, you're probably on that list. I'm like,
+you're gonna go through all this for a probably?
+
+617
+00:54:42,529 --> 00:54:47,372
+For real, it's like calm down. You may have
+nothing to worry about. Meanwhile, Alexei Sisyvich,
+
+618
+00:54:47,452 --> 00:54:51,735
+now a crime boss going by the name of Rhino,
+learns of Kraven the Hunter from video footage
+
+619
+00:54:51,775 --> 00:54:56,558
+of his Russian prison escape. Trying to allocate
+power, he reveals to a group of mobsters that
+
+620
+00:54:56,598 --> 00:55:01,322
+he can turn his skin as durable as a Rhino,
+due to genetic experimentation. He and his
+
+621
+00:55:01,362 --> 00:55:06,265
+men make a move against Nikolai Kravinov at
+a lounge, which Dmitri owns, and performs that
+
+622
+00:55:06,365 --> 00:55:11,503
+as a singer. When the attempt fails, Rhino hires
+a mercenary called the foreigner who has the
+
+623
+00:55:11,543 --> 00:55:18,986
+ability to put people into a temporary trance.
+So it's weird because the Rhino wanted to partner
+
+624
+00:55:19,086 --> 00:55:25,629
+with Nikolai. Yeah, 16 years ago. But it's like
+if he's going after Nikolai, why is Nikolai
+
+625
+00:55:25,649 --> 00:55:30,891
+sending him footage of his son? I have no idea
+why. Yeah, it doesn't make sense at all, because
+
+626
+00:55:30,931 --> 00:55:33,972
+it's like either they're working together or
+they're working against each other, right?
+
+627
+00:55:34,473 --> 00:55:39,510
+If they're working against each other, why?
+is Nikolai helping Rhino out with the footage
+
+628
+00:55:39,550 --> 00:55:45,292
+of his son. You could say that he's just trying
+to get his son onto the Rhino's trail because
+
+629
+00:55:45,332 --> 00:55:51,014
+he knows that his son can kill the Rhino, but
+if the Rhino knew that the video footage was
+
+630
+00:55:51,094 --> 00:55:56,596
+from his sworn enemy, why would he trust it?
+Why would he use it? It's all bizarre. Kraven
+
+631
+00:55:56,636 --> 00:56:00,777
+visits his brother Dimitri for his birthday
+and spends the night outside after a night
+
+632
+00:56:00,817 --> 00:56:04,860
+of drinking. The next morning, Kraven finds
+that his brother was kidnapped from his bed
+
+633
+00:56:04,960 --> 00:56:09,764
+and he pursues Rhino's men through the streets
+of London. They escape his pursuit in a helicopter
+
+634
+00:56:10,124 --> 00:56:15,208
+and Kraven asks Calypso for help finding them.
+Calypso's source leads Kraven to a Turkish
+
+635
+00:56:15,308 --> 00:56:20,813
+monastery, however Calypso's source is revealed
+to be manipulated by the foreigner. I loved
+
+636
+00:56:20,873 --> 00:56:25,556
+the London chase scene. I thought that was probably
+the highlight action set piece of the film.
+
+637
+00:56:25,877 --> 00:56:30,218
+It had loads of adrenaline. I like the parkour
+elements, you know, and the helicopter escape
+
+638
+00:56:30,238 --> 00:56:35,880
+thing was really well done. A lot of the action
+in the movie was a lot cooler than I thought
+
+639
+00:56:35,920 --> 00:56:40,061
+it would be based on the trailers. Like I thought
+it was gonna be kind of goofy with him like
+
+640
+00:56:40,101 --> 00:56:44,943
+running on all fours in certain scenes and stuff
+like that, but I thought it was edited really
+
+641
+00:56:45,003 --> 00:56:49,464
+well. For sure. I remember from the trailers
+I thought the action was gonna be real gimmicky
+
+642
+00:56:49,764 --> 00:56:54,905
+with him using like bear traps to snap dude's
+heads off and stuff like that. But no, I loved
+
+643
+00:56:54,945 --> 00:56:59,396
+all that. trap stuff, which is a later scene,
+but the action in general was just top notch.
+
+644
+00:56:59,796 --> 00:57:04,178
+Speaking of action and set pieces, Kraven ambushes
+Rhino's men in Turkey, but it turns out to
+
+645
+00:57:04,198 --> 00:57:08,961
+be a trap and the monastery is blown up with
+a rocket launcher. Rhino tells the kidnapped
+
+646
+00:57:09,001 --> 00:57:13,483
+Dimitri that his brother is dead and offers
+to partner with him against his father Nikolai's
+
+647
+00:57:13,543 --> 00:57:19,266
+crime ring, but Dimitri refuses. Kraven survives
+the trap and brings Calypso to his home in
+
+648
+00:57:19,326 --> 00:57:21,427
+Serbia to protect her from Rhino's men.
+
+649
+00:57:25,334 --> 00:57:29,177
+pieces of the monastery that were falling on
+top of them. Yeah, what the hell was that about?
+
+650
+00:57:29,197 --> 00:57:33,421
+They should have shown how he survived that.
+You can't just do that on screen. You can't
+
+651
+00:57:33,441 --> 00:57:37,945
+just cheat like that. Exactly. We see like the
+pieces falling on top of him. The audience
+
+652
+00:57:37,985 --> 00:57:42,069
+is fairly certain that this guy is buried in
+this rubble, but like the next time you see
+
+653
+00:57:42,089 --> 00:57:48,615
+the shot, he's just completely fine and outside
+of it. When Kraven brought Calypso to his home
+
+654
+00:57:48,635 --> 00:57:53,927
+in the Serbian forest and he's attacked by that
+I thought her reaction to that whole event
+
+655
+00:57:54,048 --> 00:57:58,271
+was really strange too. She just seems not shocked
+by it at all. I don't know if you noticed that.
+
+656
+00:57:58,611 --> 00:58:02,755
+She was like, I'll just let him die. It's fine.
+Yeah. She like takes a step back and she's
+
+657
+00:58:02,795 --> 00:58:10,501
+like, Oh, what? Okay. Preach of this, like she
+really hadn't seen him do too much, right?
+
+658
+00:58:10,921 --> 00:58:16,546
+Like, was she aware of his powers? Yeah. Well,
+I think she knew that he was physically capable,
+
+659
+00:58:17,026 --> 00:58:21,158
+but I don't think she had seen him in action
+yet by that point at Kraven's home. Kraven
+
+660
+00:58:21,218 --> 00:58:25,679
+and Calypso discuss their next steps, but Rhino
+finds them first thanks to a phone call from
+
+661
+00:58:25,719 --> 00:58:30,920
+Dimitri and the foreigners' detective work into
+the local flora. Kraven makes short work of
+
+662
+00:58:30,960 --> 00:58:36,122
+Rhino's men in the forest, but is tranquilized
+and beaten by the foreigner. However, Calypso
+
+663
+00:58:36,182 --> 00:58:40,283
+kills the foreigner with a bow and arrow before
+the villain can deliver his kill shot, and
+
+664
+00:58:40,323 --> 00:58:46,645
+she heals Kraven with another potion she had.
+I did think it was cool that his fear was spiders,
+
+665
+00:58:46,785 --> 00:58:52,214
+just as like a nod to Spider-Man. Yeah. I mean,
+it doesn't- makes sense outside the context
+
+666
+00:58:52,234 --> 00:58:56,976
+of Spider-Man, you know, otherwise, why is his
+fear of spiders? They never really established
+
+667
+00:58:57,016 --> 00:59:01,438
+that. It just seems kind of random. No, they
+did because his mother was afraid of spiders.
+
+668
+00:59:01,839 --> 00:59:06,501
+Geez, I don't even remember that. Yeah, she
+was like schizophrenic. She saw spiders on
+
+669
+00:59:06,521 --> 00:59:12,704
+the walls. And so I think they kind of tied
+his fear of spiders into her fear of spiders.
+
+670
+00:59:12,924 --> 00:59:17,794
+Maybe he was afraid that he was like her and
+would also see spiders. Well that's pretty
+
+671
+00:59:17,814 --> 00:59:21,455
+cool then. Too bad we'll never see Kraven go
+up against Spider-Man or have that have any
+
+672
+00:59:21,495 --> 00:59:25,998
+sort of payoff whatsoever. Maybe. I wouldn't
+be surprised if they brought these guys back
+
+673
+00:59:26,018 --> 00:59:31,480
+for Secret Wars. They won't. You never know.
+That line with Calypso about how she's like,
+
+674
+00:59:31,500 --> 00:59:35,402
+you're not the only one with secrets was the
+most throwaway line in cinematic history, I
+
+675
+00:59:35,422 --> 00:59:40,804
+feel like. For sure. As Rhino escapes with Demetri
+in an armored convoy, Kraven steers a herd
+
+676
+00:59:40,844 --> 00:59:46,319
+of water buffalo to attack and flip his trucks.
+Rhino transforms into his animal form and goes
+
+677
+00:59:46,379 --> 00:59:51,163
+toe to toe with Kraven. Kraven impales Rhino
+with a metal rod into his intravenous port
+
+678
+00:59:51,223 --> 00:59:56,026
+on his side, killing him. With his dying breath,
+Rhino reveals that he received the prison escape
+
+679
+00:59:56,066 --> 01:00:01,770
+footage from Nikolai, whom Kraven learns used
+him to take his enemies out. Kraven kills his
+
+680
+01:00:01,790 --> 01:00:06,673
+father in northern Russia using an enraged grizzly
+bear. I mean, can you really say that he killed
+
+681
+01:00:06,713 --> 01:00:12,637
+his father? I mean, he took the ammo away from
+him, but it was kind of second-hand murder.
+
+682
+01:00:13,286 --> 01:00:18,910
+I think he lured the grizzly bear to his father's
+location. Okay. I wasn't clear about that.
+
+683
+01:00:19,351 --> 01:00:24,835
+But I could see how you could make that argument.
+He's sneaky in that way. You know, he has deniability
+
+684
+01:00:24,875 --> 01:00:30,480
+if it's a bear attack. But no, I totally think
+he killed his father. I thought the way he
+
+685
+01:00:30,520 --> 01:00:36,245
+took the rhino out was a little bit cheap. Like
+of course his port on his side would be a weak
+
+686
+01:00:36,285 --> 01:00:40,808
+spot for Kraven to exploit because otherwise
+Rhino was just wiping the floor with Kraven.
+
+687
+01:00:41,009 --> 01:00:47,251
+It was his exhaust port. His Death Star Exhaust
+port. Exactly, yeah. That whole device with
+
+688
+01:00:47,291 --> 01:00:50,652
+the intravenous backpack and everything like
+that, it was just all set up for this killing
+
+689
+01:00:50,692 --> 01:00:56,433
+blow. And I thought it was too convenient. Oh,
+100%. Yeah, absolutely. They should have had
+
+690
+01:00:56,453 --> 01:01:00,694
+him go after his eyes or something like that,
+you know? Like, the chameleon didn't need an
+
+691
+01:01:00,734 --> 01:01:05,536
+intravenous port in order to transform his appearance.
+Why couldn't the rhino just transform into
+
+692
+01:01:05,916 --> 01:01:12,934
+his rhino hybrid form without the IV drip? Because
+the riders suck? Exactly, exactly. One year
+
+693
+01:01:12,974 --> 01:01:17,335
+later, back in London, Kraven visits his brother
+for his birthday and learns that Dimitri is
+
+694
+01:01:17,375 --> 01:01:22,056
+taken over the Kravenov crime ring. Dimitri
+reveals he visited the same doctor as Rhino
+
+695
+01:01:22,076 --> 01:01:26,957
+in New York who gave him the ability to shape
+shift and is now going by the chameleon. Dimitri
+
+696
+01:01:26,997 --> 01:01:32,039
+tells Kraven that Nikolai left him a gift back
+home where Kraven finds a vest made from Tsar
+
+697
+01:01:32,139 --> 01:01:36,580
+the Lion. He puts it on and looks at himself
+in the mirror. I want to know what the fuck
+
+698
+01:01:36,600 --> 01:01:40,921
+kind of ending that was. Like I think they were
+going for maybe like a contemplative Godfather
+
+699
+01:01:40,961 --> 01:01:47,786
+2 type ending. but it kind of played out more
+like a weird Calvin Klein ad. He's like, whoa,
+
+700
+01:01:48,046 --> 01:01:53,210
+check out myself in the mirror sitting down
+with my vest open. He like strikes a pose and
+
+701
+01:01:53,230 --> 01:01:58,074
+everything like that. Just a really weird way
+to end a movie. Kind of plative about what?
+
+702
+01:01:58,314 --> 01:02:02,517
+That he was wearing a vest made of the lion
+who attacked him when he was young? It's like,
+
+703
+01:02:02,598 --> 01:02:07,942
+I don't get what like the big gotcha was from
+his father. It wasn't. So he didn't need to
+
+704
+01:02:07,982 --> 01:02:08,983
+be that contemplative.
+
+705
+01:02:12,834 --> 01:02:17,415
+He was just like his father, Nikolai, maybe,
+and maybe contemplating his brother's turn,
+
+706
+01:02:17,836 --> 01:02:22,818
+but it was a strange ending. Also, I think there
+was a deleted scene here somewhere because
+
+707
+01:02:22,858 --> 01:02:27,760
+this was the only shot we see of Kraven wearing
+his lion vest, but in the trailers for the
+
+708
+01:02:27,800 --> 01:02:33,882
+movie, we had a shot of him in the forest carrying
+a torch wearing the same lion's vest. So like
+
+709
+01:02:33,902 --> 01:02:38,044
+there was supposed to be a whole scene after
+this, I think, that just got cut. Yeah, I think
+
+710
+01:02:38,084 --> 01:02:43,134
+it was probably meant to be an after credits
+scene that they just decided to nix. Maybe
+
+711
+01:02:43,154 --> 01:02:47,595
+he like goes into a cave and he strikes up the
+torch and he looks at the ceiling of the cave
+
+712
+01:02:47,615 --> 01:02:52,656
+and he sees Morbius hanging upside down or some
+shit. That'd have been funny. And Morbius is
+
+713
+01:02:52,676 --> 01:02:59,278
+like, I'm about to Morb. It's Morbin time. But
+yeah, there are no end credit scenes or mid
+
+714
+01:02:59,318 --> 01:03:04,319
+credit scenes for this movie. It just ends and
+is likely Sony's way of just kind of like,
+
+715
+01:03:04,579 --> 01:03:08,881
+you know, cutting this whole franchise off in
+an attempt to not lose more money because that's
+
+716
+01:03:08,901 --> 01:03:13,582
+what these movies are doing. I guess Venom is
+making them money. but Madame Webb and Kraven
+
+717
+01:03:13,602 --> 01:03:17,563
+the Hunter certainly is not going to earn them
+any profits. Which is another reason why it's
+
+718
+01:03:17,603 --> 01:03:22,225
+weird that Sony didn't stagger these releases,
+because film studios are always looking for
+
+719
+01:03:22,645 --> 01:03:28,347
+good years in terms of revenue, so if they figured
+that Kraven was going to do bad, like just
+
+720
+01:03:28,487 --> 01:03:33,409
+push it to the next fiscal year when he won't
+have to deal with that. Well, sometimes fiscal
+
+721
+01:03:33,449 --> 01:03:37,195
+years end in June, First of all, and second
+of all, I don't think they knew that Kraven
+
+722
+01:03:37,215 --> 01:03:41,459
+the Hunter was going to do poorly at the box
+office. We all knew! They legitimately think
+
+723
+01:03:41,519 --> 01:03:45,282
+that every time they make a movie, they're going
+to profit off of it. If that was the case,
+
+724
+01:03:45,502 --> 01:03:50,125
+they would have left that end teaser scene then.
+I mean, that was probably a change made at
+
+725
+01:03:50,145 --> 01:03:54,469
+the 11th hour when they realized that this franchise
+isn't going anywhere and that they should probably
+
+726
+01:03:54,669 --> 01:03:58,392
+rethink what they're doing with it and just
+focus on the next Spider-Man movie. Maybe.
+
+727
+01:03:58,612 --> 01:04:03,982
+I don't know. Who knows? No one knows. In all,
+I can totally see where people might like this
+
+728
+01:04:04,022 --> 01:04:08,824
+film more than me. Again, it has great action,
+and if you're not particularly invested in
+
+729
+01:04:08,844 --> 01:04:14,306
+the source material, you're probably fine with
+the characterizations as portrayed here. However,
+
+730
+01:04:14,486 --> 01:04:19,687
+I am cursed with the burden of knowledge, and
+despite Aaron Taylor Johnson's charisma and
+
+731
+01:04:19,727 --> 01:04:25,489
+his prowess in the role, the film's well-crafted
+action is staggered by the puzzling character
+
+732
+01:04:25,529 --> 01:04:30,762
+choices and unbalanced plotting. I'm giving
+the film two and a half stars out of five,
+
+733
+01:04:31,283 --> 01:04:37,685
+a rotten rating on Rotten Tomatoes. In the end,
+I just don't recommend the movie. I don't think
+
+734
+01:04:37,705 --> 01:04:41,086
+there's any reason to see it, especially if
+you're a fan of these characters from the comics.
+
+735
+01:04:41,666 --> 01:04:45,947
+I do think two and a half stars is a little
+harsh. That's the same rating we gave Joker
+
+736
+01:04:45,967 --> 01:04:51,349
+Follyard due. And I think there's a lot more
+reasons to not like Joker than Kraven that
+
+737
+01:04:51,489 --> 01:04:56,451
+said, again, I'm not like a huge fan of the
+character of Kraven, where I think his story
+
+738
+01:04:56,491 --> 01:05:00,733
+from the comics is something sacred. I would
+give it three stars, I think just one half
+
+739
+01:05:00,773 --> 01:05:06,075
+star above that, but it is your review. Yeah,
+well, I think you rate DC films too high to
+
+740
+01:05:06,095 --> 01:05:11,277
+begin with. I have more standards, I think,
+than you do. I don't want to rate this film
+
+741
+01:05:11,378 --> 01:05:16,320
+as high as I did Morbius, which I think was
+also not a great film, but at least they got
+
+742
+01:05:16,360 --> 01:05:21,102
+the characterization of the comic book character
+right in Michael Morbius. To me... Kraven the
+
+743
+01:05:21,142 --> 01:05:26,146
+Hunter was more along the lines of quality of
+Venom Let There Be Carnage. It was better than
+
+744
+01:05:26,186 --> 01:05:30,149
+Madame Web, but I think they're pretty close
+to each other. Really, at the end of the day,
+
+745
+01:05:30,329 --> 01:05:34,853
+this film is Kraven in name only. That's my
+biggest gripe with it. You're giving it the
+
+746
+01:05:34,873 --> 01:05:39,717
+same rating as Madame Web. Right. But it was
+better than Madame Web. But it's also not as
+
+747
+01:05:39,737 --> 01:05:45,622
+good as Morbius. It is way better than Morbius.
+Morbius fucking sucked. What did I just say?
+
+748
+01:05:45,742 --> 01:05:51,786
+The Morbius film was closer to what a Morbius
+film should be. than the Kraven film was to
+
+749
+01:05:51,826 --> 01:05:57,649
+what a Kraven film should be. The only problem
+I have with that is that Morbius was way goofier
+
+750
+01:05:57,669 --> 01:06:02,011
+than Kraven was. Like with Kraven, I feel like
+the actors at least took everything seriously.
+
+751
+01:06:02,411 --> 01:06:05,973
+Even with minor characters like the foreigner,
+I didn't mind as much. Like that could have
+
+752
+01:06:05,993 --> 01:06:10,935
+been a lot more goofy. And I appreciate it when
+filmmakers take the tone of the story seriously.
+
+753
+01:06:11,195 --> 01:06:16,017
+Maybe not the source material seriously, but
+it shouldn't be intentionally silly. And I
+
+754
+01:06:16,057 --> 01:06:20,258
+don't think this was. I don't mind intentionally
+silly, I don't think goofiness equates to quality.
+
+755
+01:06:20,298 --> 01:06:24,840
+Look at Venom, there's some intentionally goofy
+moments in Venom, but that's also in keeping
+
+756
+01:06:24,860 --> 01:06:29,341
+with the comic books on that character. Tone
+does not dictate quality. I think adheres to
+
+757
+01:06:29,361 --> 01:06:34,122
+the source material and story plotting play
+a larger role in dictating quality. I don't
+
+758
+01:06:34,142 --> 01:06:38,163
+know if I agree with that, because I think tone
+sometimes can dictate quality. You take a look
+
+759
+01:06:38,183 --> 01:06:43,185
+at the first Joker movie, like that was very
+different from anything like the comics, but
+
+760
+01:06:43,225 --> 01:06:48,656
+it was still a really well made movie. But that
+was also like an Elseworlds riff, like clearly
+
+761
+01:06:48,977 --> 01:06:53,060
+not the comic book character. Like they went
+way out of left field with that one. I think
+
+762
+01:06:53,080 --> 01:06:57,365
+this Kraven the Hunter movie was supposed to
+be an adaptation of the comic book character
+
+763
+01:06:57,565 --> 01:07:01,689
+unlike Joker, which you know, we learned in
+Joker 2 that wasn't even the real fucking Joker.
+
+764
+01:07:01,969 --> 01:07:06,593
+I don't know what your argument is. Stan I'm
+saying let this be an adaptation and don't
+
+765
+01:07:06,633 --> 01:07:14,715
+be so beholden to... A treasure hunt film like
+the most dangerous game meets national treasure.
+
+766
+01:07:14,835 --> 01:07:18,437
+That's what this film should have been. This
+movie was nothing like that. You can keep arguing,
+
+767
+01:07:18,918 --> 01:07:23,560
+but that's what I wanted as a fan. And that's
+what I think fans would have supported. And
+
+768
+01:07:23,600 --> 01:07:27,182
+I think you're seeing now at the box office
+that people are not supporting this film and
+
+769
+01:07:27,202 --> 01:07:31,385
+they're not liking it with the poorest cinema
+score out of any of the Sony Spider-Man universe
+
+770
+01:07:31,405 --> 01:07:37,068
+films and like a 15% score on Rotten Tomatoes.
+You've mentioned before early on in the podcast,
+
+771
+01:07:37,128 --> 01:07:43,447
+I would say that you will rate a film lower
+if you can envision a better story. And I,
+
+772
+01:07:43,467 --> 01:07:48,650
+well, I think you've definitely come up with
+a better story just in like your five second
+
+773
+01:07:48,690 --> 01:07:54,133
+pitch that you did. I think you also want to
+examine the film as it is, not as it necessarily
+
+774
+01:07:54,213 --> 01:08:00,377
+could have been. Oh, I did. I did. And you heard
+it all here. Okay. All right. You're my friend
+
+775
+01:08:00,437 --> 01:08:06,380
+are not only cursed with knowledge, but also
+just damn good story sense and high standards.
+
+776
+01:08:06,921 --> 01:08:07,481
+Woe is me.
+
+777
+01:08:10,542 --> 01:08:16,934
+But that does it for this review guys, HG9K
+help close this out. Thanks for listening to
+
+778
+01:08:16,994 --> 01:08:23,880
+Dynamic duel. Visit the show's website at dynamicduel.com
+and follow us on Instagram at dynamicduelpodcast.
+
+779
+01:08:24,340 --> 01:08:29,665
+You can support the show on Patreon at patreon.com
+slash dynamicduel and joining a tier that works
+
+780
+01:08:29,705 --> 01:08:35,089
+for you, or by rating and reviewing Dynamic
+duel on Apple Podcasts, Spotify, Podchaser
+
+781
+01:08:35,370 --> 01:08:39,893
+or on our website. Don't forget to listen to
+the other shows in the DynaMic Podcast Network,
+
+782
+01:08:40,314 --> 01:08:46,827
+including Max Destruction, Senjou World and
+Console Combat. Our next episode is going to
+
+783
+01:08:46,847 --> 01:08:53,252
+be our yearly charity duel episode. Again, guys,
+we are donating 10% of the proceeds we make
+
+784
+01:08:53,292 --> 01:08:58,796
+in our dynamic duel shop to stand up to cancer.
+And we're going to pit Ace the Bat-Hound, Batman's
+
+785
+01:08:58,836 --> 01:09:05,722
+dog, against Dogpool, who is Deadpool's dog.
+Or rather a multiversal variant of Deadpool,
+
+786
+01:09:05,902 --> 01:09:10,066
+as he is in the movies and the comics. So look
+forward to that next week. But that does it
+
+787
+01:09:10,106 --> 01:09:15,170
+for this episode. We want to give a big thanks
+to our executive producers, Ken Johnson. John
+
+788
+01:09:15,210 --> 01:09:20,292
+Straszky, Zachary Hepburn, Dustin Balcom, Miggy
+Mathingian, Brandon Estregard, Nathaniel Wagner,
+
+789
+01:09:20,412 --> 01:09:26,315
+Levi Yaiten, Austin Wieselowski, AJ Dunkerley,
+Scott Camacho, Gil Camacho, Adam Spies, Andrew
+
+790
+01:09:26,335 --> 01:09:32,417
+Shunk, Dean Maleski, Devin Davis, Joseph Kersting,
+Josh Leiner, and Mike Williams for helping
+
+791
+01:09:32,498 --> 01:09:38,100
+make this podcast possible. And we'll talk to
+you guys next week. Up up and away, true believers.
+
+792
+01:09:38,720 --> 01:09:40,101
+I am Kraven, a good Sony film.
+
