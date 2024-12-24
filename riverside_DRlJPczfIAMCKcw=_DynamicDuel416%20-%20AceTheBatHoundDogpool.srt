@@ -1,0 +1,3508 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a DynaMic Network podcast.
+
+2
+00:00:24,710 --> 00:00:29,532
+Hi, Merry Christmas, everybody. Welcome to the
+Dynamic Duel Podcast, a weekly show where we
+
+3
+00:00:29,572 --> 00:00:35,416
+review superhero films and debate the superiority
+between Marvel and DC by comparing their characters
+
+4
+00:00:35,476 --> 00:00:41,139
+in stat-based battle simulations. I'm Johnny
+DC. And I'm his twin brother, Marvelous Joe.
+
+5
+00:00:41,239 --> 00:00:46,502
+Happy holidays. And in this Christmas charity
+duel episode, we are going to find out who
+
+6
+00:00:46,562 --> 00:00:53,158
+is going to win between Batman's dog, Ace the
+Bat Hound, and Deadpool's dog, or just... another
+
+7
+00:00:53,258 --> 00:00:58,939
+version of Deadpool, but it's dogpool. You could
+definitely call him Deadpool's dog. He definitely
+
+8
+00:00:58,959 --> 00:01:04,061
+belongs to the Deadpool core. But yeah, we call
+this a charity duel because we are bringing
+
+9
+00:01:04,121 --> 00:01:08,422
+attention to a charity that we donate to every
+year. This year it's going to be Stand Up to
+
+10
+00:01:08,442 --> 00:01:13,843
+Cancer Guys. And the way you could help us donate
+is by making a purchase at our shop at dynamicduel.com
+
+11
+00:01:14,123 --> 00:01:18,484
+and clicking the store link at the top of the
+nav. We're donating 10% of all the proceeds
+
+12
+00:01:18,545 --> 00:01:22,826
+from the months of November and December to
+Stand Up to Cancer. So if you can, Please support
+
+13
+00:01:22,846 --> 00:01:27,670
+our show and support a great cause. Yeah, usually
+this time of year when we do our charity episode,
+
+14
+00:01:27,710 --> 00:01:33,295
+we typically pit animals against each other.
+Last year, of course, we did Alfred versus
+
+15
+00:01:33,315 --> 00:01:38,780
+Jarvis, but in previous charity duels, we've
+pit characters like Rocket Raccoon and the
+
+16
+00:01:38,800 --> 00:01:43,844
+Green Lantern Chip against each other, as well
+as Crypto and Throg. Yeah, we did Howard the
+
+17
+00:01:43,884 --> 00:01:50,582
+Duck versus Detective Chimp. I know we did Hit
+Monkey versus Gleek the Wonder Monkey. Yeah,
+
+18
+00:01:50,622 --> 00:01:55,647
+we did What's It versus Spider-Ham. That was
+a fun one. What else have we done? We've literally
+
+19
+00:01:55,687 --> 00:02:01,953
+done one each year that this podcast has been
+around since 2016. There's a lot of them, definitely
+
+20
+00:02:01,993 --> 00:02:05,416
+check them out. Yeah, before we get into that
+duel, we're gonna break down the latest comic
+
+21
+00:02:05,436 --> 00:02:10,742
+book movie news to come out this past week,
+including the motherfucking Superman official
+
+22
+00:02:10,782 --> 00:02:16,312
+teaser trailer. It's dope! We're gonna talk
+about how dope it is. Later on, as always,
+
+23
+00:02:16,352 --> 00:02:20,178
+we list our segment times in our episode description,
+so feel free to check out the show notes if
+
+24
+00:02:20,198 --> 00:02:25,707
+you want to skip ahead to a particular topic.
+Our artificially intelligent duel simulator
+
+25
+00:02:25,867 --> 00:02:33,150
+AJ9K has a quick message for our listeners,
+so listen up. Why hello there, do you want
+
+26
+00:02:33,210 --> 00:02:38,112
+even more from this podcast? Then become a part
+of the dynamic duel community on Patreon, where
+
+27
+00:02:38,132 --> 00:02:42,594
+you can choose from three tiers. The dynamic
+two-o tier gives you access to our Discord
+
+28
+00:02:42,634 --> 00:02:47,556
+chat server. The fantastic four tier gives you
+two bonus episodes each month, and the X-Force
+
+29
+00:02:47,576 --> 00:02:52,903
+tier makes you an executive producer of this
+show. Lastly, the Dyna Mike Podcast Network
+
+30
+00:02:52,943 --> 00:02:57,407
+tier lets you create your own podcast using
+this Monte Carlo simulator. Johnny and Joe
+
+31
+00:02:57,427 --> 00:03:02,130
+will help you develop your show, provide graphic
+support and consultation, and get you simulation
+
+32
+00:03:02,170 --> 00:03:10,516
+results. Pitch the twins your ideas via email
+at dyna Check it out at patreon.com slash dynamicduel.
+
+33
+00:03:10,876 --> 00:03:17,615
+Pip pip cheerio. Thanks AJ9K and thanks to everyone
+who supports the podcast. A huge thank you
+
+34
+00:03:17,655 --> 00:03:22,736
+to our new executive producer Oscar Galvez.
+Oscar, thanks for being a patron and we look
+
+35
+00:03:22,756 --> 00:03:28,038
+forward to your input in determining the content
+of this show. Yes Oscar, thank you very much.
+
+36
+00:03:28,398 --> 00:03:33,619
+Guys, be sure to tune into the other shows in
+the DynaMic Podcast Network this week, including
+
+37
+00:03:33,699 --> 00:03:38,341
+Max Destruction, which pits your favorite action
+heroes from film and television against each
+
+38
+00:03:38,381 --> 00:03:44,485
+other. This week hosts Scotty and Gilly. are
+releasing their Craven vs Predator episode,
+
+39
+00:03:44,785 --> 00:03:49,590
+just in time for Christmas. On the Cengelworld
+podcast, host Zachary Hepburn speculates on
+
+40
+00:03:49,610 --> 00:03:53,694
+fights between fan favorite anime and manga
+characters. This Thursday, Zach will reveal
+
+41
+00:03:53,754 --> 00:03:59,519
+who would win in a fight between Shinra from
+Fire Force and Najima from Medica Box. And
+
+42
+00:03:59,659 --> 00:04:06,598
+I don't know if I pronounced that correctly.
+Medica Box? My dick in a box? Ha ha ha. On
+
+43
+00:04:06,618 --> 00:04:11,660
+the console combat podcast hosts John and Dean
+simulate battles between popular video game
+
+44
+00:04:11,700 --> 00:04:18,023
+characters. And yesterday's episode though,
+they reviewed Sonic the Hedgehog 3. Visit dynamicpodcasts.com
+
+45
+00:04:18,503 --> 00:04:22,585
+or click the link in our show notes to listen
+to all the shows in the DynaMic Podcast Network.
+
+46
+00:04:22,985 --> 00:04:29,468
+But with that out of the way, quick to the no
+prize. A no prize is an award Marvel used to
+
+47
+00:04:29,488 --> 00:04:34,523
+give out to fans. Our version, the dynamic duel
+no prize. is a digital award we post on Instagram
+
+48
+00:04:34,543 --> 00:04:39,327
+for the person that we feel gave the best answer
+to our question of the week. Last week we asked,
+
+49
+00:04:39,848 --> 00:04:45,412
+if Avengers Doomsday is featuring an evil version
+of the Earth's Mightiest Heroes, what evil
+
+50
+00:04:45,432 --> 00:04:49,716
+version of a character do you most hope to see
+and why? And this is coming off the news that
+
+51
+00:04:50,176 --> 00:04:56,101
+Chris Evans is confirmed to be joining the cast
+of Avengers Doomsday alongside Robert Downey
+
+52
+00:04:56,121 --> 00:05:01,505
+Jr. as Dr. Doom, as we've discussed before.
+So the prevailing theory among fans is that
+
+53
+00:05:01,986 --> 00:05:07,807
+They're gonna go a Dark Avengers route where
+we see like Robert Downey Jr. as Dr. Doom and
+
+54
+00:05:07,847 --> 00:05:13,549
+Chris Evans as an evil version of Captain America.
+We got three answers. So let's go ahead and
+
+55
+00:05:13,589 --> 00:05:17,710
+run down our two honorable mentions as well
+as the no-prize winner. Our first honorable
+
+56
+00:05:17,750 --> 00:05:23,692
+mention goes to Kyle who said, Hi guys, the
+evil version of a character that I most want
+
+57
+00:05:23,712 --> 00:05:29,093
+to see in Avengers Dimpsay probably has to be
+Captain Hydra. Because I think it is a really
+
+58
+00:05:29,533 --> 00:05:34,973
+interesting idea. to have Captain America being
+controlled by Hydra and going against everything
+
+59
+00:05:34,993 --> 00:05:39,277
+that we think the character stands for. So I
+think that'd be pretty cool. Thanks, Kyle.
+
+60
+00:05:39,297 --> 00:05:43,341
+Yeah, I think the prevailing theory for the
+evil version of Captain America would be Hydra
+
+61
+00:05:43,381 --> 00:05:49,106
+Cap, the most prominent and recent example of
+an evil version of Captain America. Yeah, I
+
+62
+00:05:49,126 --> 00:05:53,991
+remember when that comic came out and everybody
+hated it. To be fair, it was pretty jarring.
+
+63
+00:05:54,051 --> 00:05:58,714
+It was a jarring story. Do you think Chris Evans
+could pull off and- Evil Captain America, Hydra
+
+64
+00:05:58,734 --> 00:06:03,358
+Cap? I think an actor like him is up for the
+challenge, absolutely. Yeah, it would definitely
+
+65
+00:06:03,378 --> 00:06:08,121
+be a different take on a character that he's
+nearly exhausted on screen. And that may be
+
+66
+00:06:08,141 --> 00:06:12,564
+what attracted him to the role in the first
+place. We'll see. But great answer, Kyle. Our
+
+67
+00:06:12,584 --> 00:06:17,908
+next honorable mention goes to Brandon Eschergard,
+who said, If they are going to do an evil version
+
+68
+00:06:17,928 --> 00:06:22,971
+of the Avengers in the next movie, I definitely
+want to see an evil version of Scott Lang.
+
+69
+00:06:23,912 --> 00:06:28,586
+I think it would be kind of interesting seeing,
+like, one of the most positive characters in
+
+70
+00:06:28,626 --> 00:06:34,108
+the universe. Basically, be complete opposite
+and flipped. And, yeah. Yeah, I don't recall
+
+71
+00:06:34,128 --> 00:06:38,769
+there being an evil version of Scott Link from
+the comics, but there was an evil Ant-Man named
+
+72
+00:06:38,929 --> 00:06:46,031
+Eric O'Grady, who was an Irish shield agent
+who stole one of Hank Pym's Ant-Man suits and
+
+73
+00:06:46,051 --> 00:06:51,132
+then used it to like stalk women and stuff like
+that. He was a fucking asshole. And I think
+
+74
+00:06:51,152 --> 00:06:55,774
+it would actually be kind of funny to see Paul
+Rudd pull off that type of role. Actually,
+
+75
+00:06:55,814 --> 00:07:00,356
+I think I'd be more interested in seeing an
+evil version of Hank Pym. Maybe like fused
+
+76
+00:07:00,396 --> 00:07:05,619
+with Ultron? That'd be wild. Well, that would
+be Michael Douglas in the role. Right, exactly.
+
+77
+00:07:05,639 --> 00:07:09,981
+I know, I'd rather see an evil Paul Rudd just
+because I think there's a whimsy to that. Like
+
+78
+00:07:10,001 --> 00:07:13,503
+a kind of lightheartedness. I don't need them
+necessarily to go as dark with the character
+
+79
+00:07:13,523 --> 00:07:17,345
+of Ant-Man because Ant-Man is so beloved, you
+know? I think it would be weird considering
+
+80
+00:07:17,385 --> 00:07:22,688
+the tone of the Ant-Man franchise to go fully
+evil. I think it'd be better to see Paul Rudd
+
+81
+00:07:22,708 --> 00:07:29,135
+as like an Irish hooligan kind of thing. That
+sounds awful. Do not like that take. Great
+
+82
+00:07:29,175 --> 00:07:33,157
+answer, Brandon. We want to give a quick shout
+out to Alex, who called to tell us about the
+
+83
+00:07:33,237 --> 00:07:37,278
+data that he's been compiling about all of our
+duels. Thank you very much for reaching out.
+
+84
+00:07:37,679 --> 00:07:43,061
+But the winner of this week's Snow Prize goes
+to Mike Williams, who said. Hi guys, Mike Williams
+
+85
+00:07:43,141 --> 00:07:49,864
+here. Instead of going in the direction of darkest
+version of the Avengers, I'd like to see them
+
+86
+00:07:50,444 --> 00:07:57,223
+introduce the Squadron Supreme or maybe even
+Norman Osborn. Dark Avengers give them some
+
+87
+00:07:57,763 --> 00:08:04,367
+good antagonists to fight against instead of
+turning Regular Avengers into the dark versions.
+
+88
+00:08:04,747 --> 00:08:08,710
+Anyway, that's my opinion. I think that's a
+great opinion I didn't even think about that
+
+89
+00:08:08,730 --> 00:08:13,552
+a lot of the prevailing ideas out there are
+about the Dark Avengers considering Chris Evans
+
+90
+00:08:13,612 --> 00:08:18,035
+return But what if he's not playing a dark version
+of Captain America? What if he's playing a
+
+91
+00:08:18,095 --> 00:08:23,774
+dark version of Superman himself Hyperion the
+Marvel Comics character? I would be really
+
+92
+00:08:23,814 --> 00:08:27,676
+surprised if they're going that route considering
+the fact that they're gonna have the sentry
+
+93
+00:08:27,716 --> 00:08:33,159
+in the upcoming Thunderbolts movie Who's already
+kind of like a dark-ish version of Superman
+
+94
+00:08:33,539 --> 00:08:37,782
+plus we had Icarus and Eternals who was like
+an evil Superman I don't know if they would
+
+95
+00:08:37,882 --> 00:08:43,065
+retread that water although it is intriguing
+to me that Chris Evans would not be playing
+
+96
+00:08:43,465 --> 00:08:48,128
+a Version of Captain America. They could go
+that route. He could literally be anyone considering
+
+97
+00:08:48,208 --> 00:08:54,291
+that it's not like RDJ is playing Tony Stark
+That's true. That's very villain. At the end
+
+98
+00:08:54,311 --> 00:08:58,955
+of the day, we have no idea where they're going
+with the plot for Avengers Doomsday, but I'm
+
+99
+00:08:58,995 --> 00:09:03,559
+highly anticipating the reveal of who Chris
+Evans will be playing. If they do bring in
+
+100
+00:09:03,619 --> 00:09:08,844
+Squadron Supreme, not going to lie, at this
+point, I would not hate it if they brought
+
+101
+00:09:08,924 --> 00:09:16,090
+in Zack Snyder's Justice League cast. Henry
+Cavill as Hyperion. And Ben Affleck as Nighthawk
+
+102
+00:09:16,610 --> 00:09:22,162
+and Gal Gadot as Power Princess. That would
+be awesome. Even get Ezra Miller in there.
+
+103
+00:09:22,603 --> 00:09:27,586
+It would be the Marvel and DC movie that we'll
+never get. Exactly, exactly. So congrats to
+
+104
+00:09:27,606 --> 00:09:30,908
+Mike Williams for winning this week's No Prize.
+If you the listener want a shot at winning
+
+105
+00:09:30,928 --> 00:09:34,931
+your own No Prize, stay tuned to later on this
+episode when we'll be asking another Question
+
+106
+00:09:34,951 --> 00:09:38,173
+of the Week. And now that that's done, on to
+the news.
+
+107
+00:09:43,790 --> 00:09:50,892
+Okay, so this past week, Warner Brothers unveiled
+the first official teaser trailer for the first
+
+108
+00:09:50,952 --> 00:10:01,254
+official movie within the new DC Universe, Superman.
+Now, there has probably not been a trailer
+
+109
+00:10:01,675 --> 00:10:07,456
+that I have been more looking forward to and
+most apprehensive about in the eight years
+
+110
+00:10:07,476 --> 00:10:13,214
+that we've been doing this podcast. Because
+it was going to set the tone. for a film that
+
+111
+00:10:13,234 --> 00:10:20,217
+was likely going to set the tone for the rest
+of DC's films going forward. I really did not
+
+112
+00:10:20,257 --> 00:10:25,699
+have too many expectations for this trailer.
+There was nothing really specific that I wanted
+
+113
+00:10:25,739 --> 00:10:31,461
+to see except for maybe Superman flying, but
+I was hoping that it was going to capture a
+
+114
+00:10:31,661 --> 00:10:38,064
+specific tone that I think a lot of people complained
+that the Snyder films did not have, and that
+
+115
+00:10:38,144 --> 00:10:44,771
+was one of hope. So in that regard, when I finished
+watching this trailer for the first time, I
+
+116
+00:10:44,811 --> 00:10:51,755
+was unbelievably happy. And I still am. I love
+this trailer. I love the precedent that it's
+
+117
+00:10:51,815 --> 00:10:57,878
+setting for James Gunn's universe as a whole.
+I always knew he was a really talented filmmaker,
+
+118
+00:10:58,018 --> 00:11:04,122
+particularly when it comes to story and heartfelt
+stories at that, considering what he did in
+
+119
+00:11:04,142 --> 00:11:09,105
+the Marvel universe with the Guardians of the
+Galaxy films, it looks to me initially that
+
+120
+00:11:09,245 --> 00:11:13,879
+he really gets the character. And I think he's
+going to give us a version of the character
+
+121
+00:11:14,179 --> 00:11:19,581
+that we haven't seen in a really long time.
+So in what way does this new teaser trailer
+
+122
+00:11:19,981 --> 00:11:25,684
+evoke the theme of hope to you that the previous
+franchise did not? Well, I didn't know that
+
+123
+00:11:25,704 --> 00:11:31,486
+the previous franchises were not necessarily
+going to inspire hope, as it were. I think
+
+124
+00:11:31,646 --> 00:11:37,109
+the first two acts of Man of Steel were really
+good. I know Zack Snyder lost a lot of people
+
+125
+00:11:37,429 --> 00:11:41,454
+with the whole neck snap thing. I'd be really
+surprised if they did anything like that in
+
+126
+00:11:41,494 --> 00:11:46,136
+this film. Especially considering that James
+Gunn and Peter Safran, the heads of DC, have
+
+127
+00:11:46,156 --> 00:11:52,399
+been talking about how nice of a guy this Superman
+is. But, you know, even more than that, it
+
+128
+00:11:52,719 --> 00:11:58,222
+definitely looks like we're getting a Superman
+that is different from previous versions in
+
+129
+00:11:58,282 --> 00:12:04,904
+that, hey, the guy can bleed. He's not this
+unrelatable figure that's invulnerable and
+
+130
+00:12:04,944 --> 00:12:09,643
+everything comes so easy to him because he's
+so powerful. From the opening shot of this
+
+131
+00:12:09,683 --> 00:12:15,389
+trailer, we see him broken and bleeding. And
+this isn't something we ever saw from Henry
+
+132
+00:12:15,429 --> 00:12:19,833
+Cavill's Superman, really, even when he was
+being killed by Doomsday or being beaten up
+
+133
+00:12:19,873 --> 00:12:25,799
+by Batman. Just hearing him breathing in this
+opening scene was pretty powerful, I thought.
+
+134
+00:12:26,219 --> 00:12:31,865
+And to have that juxtaposed with the shots of
+him as Clark Kent, whether it's in Metropolis
+
+135
+00:12:31,885 --> 00:12:37,307
+at the Daily Planet. or on the Smallville farm
+with his father. It just gave this very human
+
+136
+00:12:37,347 --> 00:12:42,469
+feeling to him. And he's definitely approaching
+Clark Kent differently from his Superman, which
+
+137
+00:12:42,509 --> 00:12:47,151
+is something that Henry Cavill never did. And
+I know that was another big criticism of his
+
+138
+00:12:47,191 --> 00:12:53,594
+performance. If we're comparing Corn Sweat to
+Cavill, I will say that my big impression from
+
+139
+00:12:53,634 --> 00:12:58,076
+this teaser was that Corn Sweat doesn't have
+nearly the presence that Cavill does. And I
+
+140
+00:12:58,116 --> 00:13:02,678
+think general audiences are gonna take note.
+Define presence. Well, Corn Sweat, definitely
+
+141
+00:13:02,718 --> 00:13:07,961
+seems much more human. Like I think you were
+talking about how he seems much more vulnerable.
+
+142
+00:13:08,241 --> 00:13:13,965
+That's definitely the case. He seems less iconic
+than the icon that is Superman. And so therefore
+
+143
+00:13:14,025 --> 00:13:19,128
+it kind of feels like he seems like a lesser
+Superman, you could say, than Cavill's very,
+
+144
+00:13:19,228 --> 00:13:23,871
+you know, strong striking image that you see
+when you see Cavill in the suit. Yeah, I mean,
+
+145
+00:13:24,632 --> 00:13:29,578
+I would agree with that. I don't think that's
+necessarily a bad thing. I think Zack Snyder's
+
+146
+00:13:29,778 --> 00:13:36,221
+and Henry Cavill's Superman was very much this
+like supermodel bodybuilder type Superman,
+
+147
+00:13:36,681 --> 00:13:44,024
+whereas David Cornsweat is not that. Although
+apparently he's taller and heavier than Henry
+
+148
+00:13:44,044 --> 00:13:48,786
+Cavill was when he played Superman, which is
+wild to me. Yeah, the dude's suit is doing
+
+149
+00:13:48,826 --> 00:13:53,868
+him no favors though. I'll say that. It looks
+like pajamas. What's interesting was that James
+
+150
+00:13:53,908 --> 00:14:00,727
+Gunn revealed recently that his take on the
+suit was heavily inspired by comments made
+
+151
+00:14:00,787 --> 00:14:07,810
+by David Corrin Sweat about wanting to appeal
+to younger, not even audiences, but just in-world
+
+152
+00:14:08,190 --> 00:14:12,692
+younger smaller children because he didn't want
+to scare them with all of his power and strength.
+
+153
+00:14:12,812 --> 00:14:17,494
+He wanted to look like a classic wrestler of
+sorts, even you know having the trunks on the
+
+154
+00:14:17,594 --> 00:14:22,736
+outside. And I actually liked that approach.
+I liked that they took that approach with this
+
+155
+00:14:22,797 --> 00:14:26,794
+version of the suit. Seeing it in live action,
+I still think it works. I thought it looked
+
+156
+00:14:26,874 --> 00:14:30,236
+great in the set photos. I know there's still
+some people who have a problem with it, but
+
+157
+00:14:30,416 --> 00:14:34,698
+I am not one of those people. I mean, it moves
+well in the action shots. When you see him
+
+158
+00:14:34,758 --> 00:14:40,380
+saving the girl from the explosion or you see
+him punching his way out of that glass cube.
+
+159
+00:14:40,500 --> 00:14:43,782
+Yeah, it all looks great. Oh yeah, totally.
+You know what? One thing we haven't really
+
+160
+00:14:43,842 --> 00:14:50,705
+seen in a Superman from the past was dynamic
+hair. And I didn't realize until this trailer
+
+161
+00:14:51,045 --> 00:14:55,491
+how much that lends to like. the speed and movement
+of the character, whether he's flying through
+
+162
+00:14:55,511 --> 00:15:00,053
+the sky, whether he's saving that young girl.
+It's like all the other Superman have had their
+
+163
+00:15:00,093 --> 00:15:05,916
+hair like hair sprayed and plastered to their
+head. Just like a ton of super gel, apparently.
+
+164
+00:15:06,476 --> 00:15:10,558
+Not so with David Corn sweat. Even when he was
+Clark Kent, I thought it was gonna look so
+
+165
+00:15:10,578 --> 00:15:15,180
+much worse than it actually did when it was
+being filmed. Nah, I don't like his look as
+
+166
+00:15:15,220 --> 00:15:19,398
+Clark Kent at all. No, I thought he was perfect
+as Clark Kent. Even when he was like looking
+
+167
+00:15:19,438 --> 00:15:23,422
+back at like Lois and then quickly looked away.
+It was a take on Clark Kent that we haven't
+
+168
+00:15:23,462 --> 00:15:29,027
+seen on screen in a while. And I loved it. You
+know what else I loved? The look of Crypto.
+
+169
+00:15:29,647 --> 00:15:35,252
+I am so excited that Crypto is in this movie.
+Of course, we saw Crypto in the League of Superpets
+
+170
+00:15:35,332 --> 00:15:40,176
+animated film, but he looks so much cuter here.
+I just love the little guy. I just want to
+
+171
+00:15:40,256 --> 00:15:46,201
+come a hug. Yeah, in League of Superpets, he
+was like a white golden lab. Something like
+
+172
+00:15:46,261 --> 00:15:50,864
+that. Maybe. But here, I don't know what he
+looks like. He looks like a scraggly white
+
+173
+00:15:50,924 --> 00:15:55,347
+mutt. Yeah, almost like a terrier type look.
+Definitely not a purebred, but you know, he's
+
+174
+00:15:55,407 --> 00:16:00,371
+pure white. He looks fantastic. I can't tell
+you how excited I got when Superman started
+
+175
+00:16:00,431 --> 00:16:03,693
+whistling, because I knew Krypto was in the
+movie. I wasn't sure if we were gonna get a
+
+176
+00:16:03,733 --> 00:16:08,377
+shot of him in this trailer. When he was whistling,
+I was like, oh shit, he's calling Krypto. And
+
+177
+00:16:08,397 --> 00:16:13,700
+then just to see him running through the snow,
+it was super cute. I loved it. There's a lot
+
+178
+00:16:13,720 --> 00:16:19,154
+of endearing things about Superman. in this
+movie, almost like in a tricky kind of way,
+
+179
+00:16:19,254 --> 00:16:24,536
+because, you know, in film, there's ways to
+kind of cheat the audience so that it likes
+
+180
+00:16:24,836 --> 00:16:29,137
+characters that aren't necessarily likeable.
+Superman's a likeable character. But when you
+
+181
+00:16:29,257 --> 00:16:33,858
+add things like, oh, he has a dog and oh, he's
+saving children and stuff like that, it just
+
+182
+00:16:33,938 --> 00:16:39,100
+endears them to the audience even more. They're
+really trying to appeal to the audiences with
+
+183
+00:16:39,140 --> 00:16:40,700
+this teaser trailer right out the bat.
+
+184
+00:16:45,666 --> 00:16:51,550
+He saves children. He's the nice guy. Yeah,
+and dude, oh man, my favorite part of the trailer,
+
+185
+00:16:51,590 --> 00:16:58,295
+the one that literally had my eyes watering,
+was when the little boy in that foreign conflict
+
+186
+00:16:58,595 --> 00:17:04,139
+was raising the Superman flag and calling on
+Superman. Oh man, that was a great scene. I
+
+187
+00:17:04,159 --> 00:17:08,842
+don't know why that impacted me so much, but
+it did. I loved it. The idea that this is a
+
+188
+00:17:08,963 --> 00:17:13,406
+Superman that little kids would call to and
+you sort of got a little bit of that. with
+
+189
+00:17:13,466 --> 00:17:19,789
+Zack Snyder in Mexico saving kids from a burning
+building. But that felt a little bit more weird
+
+190
+00:17:19,829 --> 00:17:24,792
+because Zack Snyder played it up as like almost
+worship. Here, this doesn't seem to be the
+
+191
+00:17:24,812 --> 00:17:30,295
+case. The little kid just needs a hero. We,
+of course, get to see a lot of other side characters
+
+192
+00:17:30,335 --> 00:17:36,879
+besides crypto in this trailer, including Lex
+Luthor, including Lois Lane, played by Nicholas
+
+193
+00:17:36,919 --> 00:17:41,866
+Holt and Rachel Brosnahan, respectively. And
+they look like they're going to crush it. Like
+
+194
+00:17:41,926 --> 00:17:48,311
+literally the best versions of Lex Luthor and
+Lo Slane that we've seen on screen in my opinion.
+
+195
+00:17:48,912 --> 00:17:54,016
+And I really liked Kevin Spacey's look for Lex
+Luthor, but his plan was stupid. I'm hoping
+
+196
+00:17:54,176 --> 00:17:59,761
+that Nicholas Holtz crushes it though. He just
+looks like an angry dude. His like sharp features
+
+197
+00:17:59,801 --> 00:18:04,526
+as well I think lend themselves pretty good
+to a character like Lex Luthor who started
+
+198
+00:18:04,586 --> 00:18:09,670
+off as like this mad scientist type villain.
+And I guess still is. What do you think of
+
+199
+00:18:09,690 --> 00:18:14,111
+the other heroes in this teaser? The terrifics
+like Green Lantern, Mr. Terrific, Hawk Girl,
+
+200
+00:18:14,551 --> 00:18:19,232
+and Metamorpho. Metamorpho was strange. I didn't
+even realize that was Metamorpho until like
+
+201
+00:18:19,532 --> 00:18:23,934
+the third time I watched this trailer, like
+the third of a hundred times that I've watched
+
+202
+00:18:23,994 --> 00:18:30,455
+this trailer. Hawk Girl looks awesome, so does
+Mr. Terrific. Nathan Fillion's Guy Gardner
+
+203
+00:18:30,655 --> 00:18:36,697
+looks pretty silly. I think he looks worse actually
+being filmed than he did in the set photos.
+
+204
+00:18:36,777 --> 00:18:41,698
+I thought he actually looked cool. in those,
+but he looks really goofy here. But I guess
+
+205
+00:18:42,219 --> 00:18:47,060
+Guy Gardner is supposed to. What was more interesting
+to me in this trailer was that they showed
+
+206
+00:18:47,120 --> 00:18:52,982
+Superman in stag industries. I almost wonder
+if the Terrifix are affiliated with stag industries
+
+207
+00:18:53,022 --> 00:18:56,262
+somehow. I don't even know if they're called
+the Terrifix. They might be the Justice League.
+
+208
+00:18:56,422 --> 00:19:01,004
+We don't know. I do have to say I was excited
+to see not only the crystalline structure of
+
+209
+00:19:01,024 --> 00:19:05,265
+the Fortress of Solitude, because that's another
+thing that I've been missing for a while, but
+
+210
+00:19:05,305 --> 00:19:11,915
+also the number of Kaiju. that apparently attack
+Metropolis in this movie. There's the giant
+
+211
+00:19:11,955 --> 00:19:17,037
+dragon, there's the giant eyeball, something's
+knocking over a huge building. I have this
+
+212
+00:19:17,117 --> 00:19:22,440
+theory so far because we don't know anything
+about the story. But my guess is actually that
+
+213
+00:19:22,620 --> 00:19:28,902
+maybe Lex Luthor breaks into the Fortress of
+Solitude and unleashes Superman's like alien
+
+214
+00:19:28,962 --> 00:19:33,244
+zoo and the monsters just attack Metropolis
+and that's why people seem to hate Superman
+
+215
+00:19:33,284 --> 00:19:37,846
+and are throwing cans at his head and stuff
+like that. It's not a bad theory. It's probably
+
+216
+00:19:37,886 --> 00:19:43,448
+wrong, but I wouldn't hate that idea. The floating
+laser eye does still strike me as interesting.
+
+217
+00:19:43,468 --> 00:19:48,750
+This is something we saw in the very first official
+image released of David Corn sweat in the Superman
+
+218
+00:19:48,790 --> 00:19:54,273
+suit when he's putting on his boots. He still
+does not seem to be terribly concerned by the
+
+219
+00:19:54,293 --> 00:19:59,375
+floating eyeball in the sky, lasering buildings,
+and I'm not sure why. Sometimes you just got
+
+220
+00:19:59,395 --> 00:20:03,596
+to make out with your girlfriend before you
+can go save the day. Priorities. Got to have
+
+221
+00:20:03,616 --> 00:20:08,839
+them. Like I said at the beginning of this discussion.
+Overall, this trailer has me really looking
+
+222
+00:20:08,879 --> 00:20:14,522
+forward to not only this next Superman film,
+which I think James Gunn is going to crush,
+
+223
+00:20:14,862 --> 00:20:20,506
+but also the upcoming DCU. It's weird that this
+trailer is about a character who's supposed
+
+224
+00:20:20,526 --> 00:20:26,789
+to inspire hope. And I feel like I have more
+hope now than I've had in a really long time.
+
+225
+00:20:27,350 --> 00:20:32,633
+As a DC fan? Yes, because, you know, with the
+whole Snyder versus DeBacle thing with the
+
+226
+00:20:32,673 --> 00:20:37,344
+Justice League film. Since Joss Whedon took
+that over and just with all the studio interference,
+
+227
+00:20:37,404 --> 00:20:43,908
+it feels like we haven't really had a good clear
+direction for Superman on film, which we absolutely
+
+228
+00:20:43,928 --> 00:20:49,472
+should because he's the flagship character of
+DC. And I'm pretty confident that now we do.
+
+229
+00:20:49,932 --> 00:20:55,215
+You know, my impression from this teaser is
+that this Superman movie is going to be the
+
+230
+00:20:59,126 --> 00:21:03,468
+that movie was for the Marvel Universe. I think
+the comparisons that were made between Spider-Man
+
+231
+00:21:03,508 --> 00:21:08,090
+Homecoming and the amazing Spider-Man franchise
+will be the same ones that are made between
+
+232
+00:21:08,431 --> 00:21:12,213
+this new Superman franchise and the Man of Steel
+franchise. You know, there are still a lot
+
+233
+00:21:12,233 --> 00:21:16,595
+of fans out there of Andrew Garfield, and in
+many ways, yeah, he looks and acts a lot more
+
+234
+00:21:16,635 --> 00:21:21,638
+like the comic book version of Peter Parker
+than Tom Holland does. But the Spider-Man Home
+
+235
+00:21:21,658 --> 00:21:26,481
+franchise was exactly what the MCU needed. It's
+exactly what the cinematic character of Spider-Man
+
+236
+00:21:26,521 --> 00:21:30,807
+needed to be at the time. It was still a taste
+of the familiar. You know, it was like the
+
+237
+00:21:30,847 --> 00:21:35,250
+second time that the franchise had been rebooted
+within the decade. But audiences didn't mind
+
+238
+00:21:35,270 --> 00:21:39,892
+that as much because the fans were finally getting
+what they wanted. Yeah, and it's like Homecoming
+
+239
+00:21:39,952 --> 00:21:45,015
+wasn't an origin story in the same way that
+the Superman movie is not going to be an origin
+
+240
+00:21:45,055 --> 00:21:50,018
+story, allegedly. Although it does look like
+this may be the time when Lois Lane learns
+
+241
+00:21:50,058 --> 00:21:54,741
+that Clark can't is Superman, because we see
+her kissing both in this trailer. So it's still
+
+242
+00:21:54,761 --> 00:21:59,132
+exciting. Again, I love this trailer and I'm
+really curious to hear how much you guys loved
+
+243
+00:21:59,152 --> 00:22:02,017
+this trailer and that brings us to our question
+of the week.
+
+244
+00:22:06,538 --> 00:22:11,699
+On a scale of 1 to 10, how excited has this
+teaser trailer made you for James Gunn's DCU
+
+245
+00:22:11,999 --> 00:22:18,521
+and why? Yeah, why is it 10? Record your answer
+at dynamicduel.com by clicking on the red microphone
+
+246
+00:22:18,561 --> 00:22:22,122
+button in the bottom right hand corner of the
+screen, which will prompt you to leave us a
+
+247
+00:22:22,182 --> 00:22:26,823
+voicemail. Your message could be up to 30 seconds
+long, and don't forget to leave your name in
+
+248
+00:22:26,863 --> 00:22:31,604
+case we include you on the podcast. We'll pick
+our favorite answer and award that person a
+
+249
+00:22:31,664 --> 00:22:37,472
+dynamic duel no prize that we'll post to Instagram.
+Be sure to answer before- December 28th.
+
+250
+00:22:44,738 --> 00:22:48,500
+But that does it for the news for this episode,
+now let's move on to the main event where we
+
+251
+00:22:48,540 --> 00:22:55,445
+find out who will win in a showdown between
+Batman's dog Ace the Bat Hound and Deadpool's
+
+252
+00:22:55,485 --> 00:22:56,725
+dog Dogpool.
+
+253
+00:23:12,054 --> 00:23:18,318
+All right, Ace the Bat Hound versus Dogpool.
+Of course, we saw Dogpool earlier this year
+
+254
+00:23:18,698 --> 00:23:25,163
+in the Deadpool and Wolverine film. And we saw
+Ace actually last year in the Super Pets film.
+
+255
+00:23:25,463 --> 00:23:30,066
+Although Ace is very different in the comics
+than he was in that movie. Yeah, there've been
+
+256
+00:23:30,286 --> 00:23:34,829
+a lot of different versions of Ace the Bat Hound,
+which makes me think that Ace keeps dying and
+
+257
+00:23:34,849 --> 00:23:40,013
+then Batman keeps getting a new dog and calling
+him Ace. Cause there's been an English Mastiff
+
+258
+00:23:40,053 --> 00:23:45,357
+version of Ace. a Doberman Pinscher version
+of Ace, a Great Dane version of Ace, a German
+
+259
+00:23:45,417 --> 00:23:51,102
+Shepherd version of Ace, like a lot of fucking
+Aces. Hey, man, there's four Aces in a deck.
+
+260
+00:23:51,122 --> 00:23:56,907
+It's all right. Whereas Docpul, I guess his
+breed has somewhat changed during the course
+
+261
+00:23:56,927 --> 00:24:01,310
+of the comics too. Or maybe it hasn't changed.
+He's just gotten less mangy looking because
+
+262
+00:24:01,350 --> 00:24:05,734
+when he first came out in the comics, the dog
+looked freaking weird, man. He looked like
+
+263
+00:24:05,914 --> 00:24:10,730
+a mangy brown mutt. And in the comics now, he's
+a little bit more clean cut. Although in the
+
+264
+00:24:10,770 --> 00:24:15,933
+movie, he was a Mexican hairless dog, which
+I don't know why they did that, but I guess
+
+265
+00:24:15,953 --> 00:24:21,516
+it made sense for the film. And that hasn't
+made its way into the comics? Oh no, MCU version
+
+266
+00:24:21,556 --> 00:24:25,458
+of Dogpool has definitely made his way into
+the Dogpool comics, just due to the fourth
+
+267
+00:24:25,478 --> 00:24:30,541
+wall breaking nature of the Dogpool comics.
+And yeah, they've teamed up and fought, but
+
+268
+00:24:30,821 --> 00:24:36,024
+yeah, the MCU version of Dogpool is a separate
+entity than the comic book version of Dogpool.
+
+269
+00:24:36,324 --> 00:24:40,610
+So if you're picturing this character in your
+head, Don't picture the Mexican hairless dog,
+
+270
+00:24:40,650 --> 00:24:45,513
+just picture a brown mangy mutt who looks like
+he's been hit by a car but wearing a Deadpool
+
+271
+00:24:45,653 --> 00:24:50,556
+outfit. Here's the thing though, Jonathan, when
+we speculate on how this fight would go, do
+
+272
+00:24:50,576 --> 00:24:55,359
+you really want to talk about how these dogs
+would essentially tear each other apart like
+
+273
+00:24:55,399 --> 00:25:00,701
+in an actual dog fight? Not really. Yeah, I
+don't want to either. So the way we're gonna
+
+274
+00:25:00,742 --> 00:25:06,405
+approach this duel is a little bit different
+just for the purpose of not looking like animal
+
+275
+00:25:06,445 --> 00:25:11,275
+cruelty assholes. Instead of a fight, these
+dogs are going to go head to head against each
+
+276
+00:25:11,315 --> 00:25:18,239
+other in a holiday dog show. And we have judges
+on standby to judge both of these dogs in their
+
+277
+00:25:18,279 --> 00:25:21,701
+respective stat categories. And they're going
+to be competing in events showing off their
+
+278
+00:25:21,721 --> 00:25:25,543
+skills. And I think it'll be a lot of fun. Yes,
+but of course, the winner is still going to
+
+279
+00:25:25,583 --> 00:25:30,605
+be determined by simulations. So to explain
+our methodology behind our duels, let's go
+
+280
+00:25:30,625 --> 00:25:36,869
+to our sentient duel simulator, Alfred Jarvis
+9000. AJ9K, tell our listeners how you go about
+
+281
+00:25:36,929 --> 00:25:39,526
+determining a winner. in our duel matchups.
+
+282
+00:26:08,270 --> 00:26:13,212
+Additional stat categories are included such
+as range, damage potential, versatility and
+
+283
+00:26:13,252 --> 00:26:18,175
+perception in order to create a more detailed
+and accurate simulation. The results of the
+
+284
+00:26:18,275 --> 00:26:23,018
+1000 simulations provide a percentage of wins
+for each character. The contestant with the
+
+285
+00:26:23,038 --> 00:26:27,680
+higher percentage is declared the victor as
+they have a higher probability to win any given
+
+286
+00:26:27,720 --> 00:26:33,664
+battle. In an equitable pairing, neither character
+should win 100% of the matches. The comic book
+
+287
+00:26:33,704 --> 00:26:38,230
+stories have shown that there's even a way for
+Batman to defeat Superman. So the confidence
+
+288
+00:26:38,270 --> 00:26:42,533
+rate of my method falls in line with the precedents
+that have been established in the source material.
+
+289
+00:26:43,013 --> 00:26:48,377
+My mathematical simulations are without subjectivity
+or bias. Feats are not the sole consideration,
+
+290
+00:26:48,737 --> 00:26:54,561
+nor are fan votes tabulated for determination
+of the winner. Thanks AJ9K. Before we run the
+
+291
+00:26:54,601 --> 00:26:58,284
+simulations though, we like to break down each
+character's histories and abilities before
+
+292
+00:26:58,324 --> 00:27:02,867
+improvising a scenario on how we imagine one
+of the 1000 simulations would play out beat
+
+293
+00:27:02,907 --> 00:27:07,858
+for beat. And it's my turn to go first with
+the DC character. So let me tell you all about
+
+294
+00:27:08,038 --> 00:27:13,962
+Ace the Bat-Hound. Now Ace began as a German
+Shepherd belonging to an engraver named John
+
+295
+00:27:14,022 --> 00:27:19,985
+Wilker. When Wilker was kidnapped by a gang
+of counterfeiters, Ace escaped captivity and
+
+296
+00:27:20,025 --> 00:27:26,429
+was found by Batman and Robin. After posting
+numerous lost dog signs around town with his
+
+297
+00:27:26,469 --> 00:27:32,112
+contact info, Bruce Wayne decided to fashion
+a simple hooded mask to hide Ace's identity
+
+298
+00:27:32,412 --> 00:27:38,543
+so that no one would connect the dog to Batman.
+when he used Ace to help find Wilker. Using
+
+299
+00:27:38,723 --> 00:27:43,925
+Ace's keen sense of smell, Batman and Robin
+tracked down the dog's owner and apprehended
+
+300
+00:27:44,025 --> 00:27:49,248
+the gang. Ace earned the nickname Bat-Hound
+after helping capture one of the criminals.
+
+301
+00:27:49,648 --> 00:27:54,650
+You can learn more about Batman and Robin in
+our Batman vs. Moon Knight and Nightwing vs.
+
+302
+00:27:54,690 --> 00:28:00,853
+Daredevil duel episodes. Though initially returned
+to Wilker, Ace's owner later took a job that
+
+303
+00:28:00,893 --> 00:28:06,979
+made caring for the dog impossible. leaving
+Ace in Bruce Wayne's custody. Unaware of Bruce's
+
+304
+00:28:07,019 --> 00:28:12,640
+secret identity, Wilker assumed Ace had simply
+found a good home. Ace became a loyal ally
+
+305
+00:28:12,660 --> 00:28:17,422
+to Batman and Robin, assisting them on cases
+and even being equipped with a radio caller
+
+306
+00:28:17,442 --> 00:28:23,343
+for tracking. While initially trained for crime
+fighting, Ace also provided Bruce Wayne companionship
+
+307
+00:28:23,683 --> 00:28:29,125
+during difficult times. However, Ace eventually
+faded from active use as Batman focused on
+
+308
+00:28:29,245 --> 00:28:35,747
+other methods to combat crime. Ace re-emerged
+years later as a large mastiff, adopted by
+
+309
+00:28:35,807 --> 00:28:40,968
+Bruce Wayne after the dog's original owner,
+a blind Native American man named Black Wolf,
+
+310
+00:28:41,048 --> 00:28:47,390
+passed away. This Ace was fiercely loyal, remaining
+in the Batcave alongside Harold, Bruce Wayne's
+
+311
+00:28:47,510 --> 00:28:54,252
+mute genius mechanic. During the time when Jean-Paul
+Valley, aka Asriel, temporarily replaced Bruce
+
+312
+00:28:54,392 --> 00:28:59,590
+as Batman, Ace sensed something was amiss and
+kept his distance. You can learn more about
+
+313
+00:28:59,710 --> 00:29:05,531
+Azrael in our Azrael vs. Blade episode. Ace
+remained a quiet but consistent presence in
+
+314
+00:29:05,571 --> 00:29:10,573
+Wayne Manor and the Batcave until his disappearance
+during the events of No Man's Land when an
+
+315
+00:29:10,653 --> 00:29:16,854
+earthquake devastated Gotham City. Years later,
+another Ace was introduced, a German Shepherd
+
+316
+00:29:17,154 --> 00:29:22,156
+and former guide dog rescued by Bruce Wayne
+following his owner's death. The dog was never
+
+317
+00:29:22,316 --> 00:29:28,077
+explicitly named Ace the Bat Hound in continuity,
+but it maintained a similar role as a loyal
+
+318
+00:29:28,270 --> 00:29:34,573
+companion. In post-Flashpoint continuity, Bruce
+bought an emotional support Great Dane named
+
+319
+00:29:34,693 --> 00:29:40,276
+Titus for his son Damien, though Titus didn't
+partake in adventures much as he wasn't trained
+
+320
+00:29:40,336 --> 00:29:46,940
+for it. It wouldn't be until several years later
+when Batman met a new, vicious ace, a German
+
+321
+00:29:46,980 --> 00:29:52,963
+Shepherd taken in as a puppy by the Joker after
+killing its owner, a man in witness protection
+
+322
+00:29:53,003 --> 00:29:58,770
+who had witnessed one of Joker's murders. Unsure
+whether to keep or kill the pup? Joker pulled
+
+323
+00:29:58,810 --> 00:30:04,513
+out a deck of cards to gamble its life. Joker
+drew the king, followed by an ace, meaning
+
+324
+00:30:04,573 --> 00:30:10,436
+the dog got to live, and its name stuck with
+him. Ace became one of several dogs outfitted
+
+325
+00:30:10,476 --> 00:30:16,640
+with playing card-themed masks and trained as
+attack dogs. Ace, forced to wear the Ace of
+
+326
+00:30:16,720 --> 00:30:22,943
+Spades mask, became the pack leader. The Joker
+later abandoned the dogs in a pit, leading
+
+327
+00:30:22,983 --> 00:30:28,302
+them to turn on each other out of desperation.
+Ace was the sole survivor. when Batman and
+
+328
+00:30:28,322 --> 00:30:34,125
+Commissioner Gordon discovered the scene. Initially
+considered irredeemable due to his aggression,
+
+329
+00:30:34,585 --> 00:30:39,548
+Ace was taken in by Alfred Pennyworth after
+buying the animal shelter that initially refused
+
+330
+00:30:39,628 --> 00:30:44,651
+to give Alfred the dog on account of the abuse
+it suffered and its aggressive tendencies.
+
+331
+00:30:45,231 --> 00:30:50,034
+Over the course of months, Alfred trained Ace
+with care and persistence, despite the dog's
+
+332
+00:30:50,094 --> 00:30:56,077
+frequent attempts to bite him. Alfred's determination
+eventually paid off and Ace grew to trust him.
+
+333
+00:30:56,526 --> 00:31:02,671
+Bruce Wayne, skeptical at first, argued to Alfred
+that some traumas are impossible to heal. Though
+
+334
+00:31:02,691 --> 00:31:08,015
+Bruce was eventually won over when Ace demonstrated
+loyalty and intelligence, becoming a trusted
+
+335
+00:31:08,055 --> 00:31:14,300
+member of the Bat family. That Christmas, Bruce
+jokingly presented Ace with a bat-shaped mask,
+
+336
+00:31:14,680 --> 00:31:20,345
+officially christened him Ace the Bat Hound,
+and trained him as a tracker and rescue dog.
+
+337
+00:31:20,785 --> 00:31:26,298
+Ace's loyalty, bravery, and intelligence were
+particularly evident during the mission involving
+
+338
+00:31:26,438 --> 00:31:32,703
+enhanced animals being used for criminal activities.
+Ace, along with a group of other animals, including
+
+339
+00:31:32,723 --> 00:31:39,149
+a speedster turtle, a pickpocket squirrel, a
+bear, and a cyborg chicken, worked together
+
+340
+00:31:39,189 --> 00:31:45,554
+to dismantle a criminal operation run by Dr.
+Herbert Schwan, a corrupt veterinarian. Schwan
+
+341
+00:31:45,574 --> 00:31:50,658
+had been capturing animals and using experimental
+treatments to transform them into living weapons
+
+342
+00:31:50,698 --> 00:31:55,906
+for Gotham's underworld. Ace quickly emerged
+as the leader of the group. using his experience
+
+343
+00:31:55,926 --> 00:32:01,428
+and training to organize a rescue effort for
+Batman. He guided the team through the defenses
+
+344
+00:32:01,468 --> 00:32:06,991
+of the facility holding Batman, evading traps
+and confronting a dog trained specifically
+
+345
+00:32:07,231 --> 00:32:14,494
+for Lex Luthor, named Lix Luthor, prior to Luthor
+realizing he had dog allergies. Along the way,
+
+346
+00:32:14,834 --> 00:32:19,876
+Ace's leadership and resourcefulness earned
+the trust of his new allies, who followed his
+
+347
+00:32:19,916 --> 00:32:25,146
+commands despite the casualties to rescue a
+captured Batman. Ace also played a pivotal
+
+348
+00:32:25,186 --> 00:32:30,830
+role in mentoring Hayley, also known as Bitewing,
+a three-legged dog under the care of Nightwing
+
+349
+00:32:30,870 --> 00:32:36,755
+and Oracle. When Hayley struggled to adjust
+to her new life and role, Ace offered guidance
+
+350
+00:32:36,855 --> 00:32:42,359
+and support, helping her navigate the challenges
+of being part of a superpets team led by Crypto.
+
+351
+00:32:42,819 --> 00:32:48,303
+Although Hayley ultimately chose to forge her
+own path apart from the team, Ace's patience
+
+352
+00:32:48,323 --> 00:32:53,730
+and wisdom left a lasting impression on her.
+And that's Ace the Bat Hound. Abilities-wise,
+
+353
+00:32:54,151 --> 00:32:59,354
+Ace the Bat-Hound possesses exceptional tracking
+and rescue abilities, having undergone rigorous
+
+354
+00:32:59,394 --> 00:33:04,438
+training to assist Batman in crime fighting
+as well as search and rescue missions. As a
+
+355
+00:33:04,478 --> 00:33:09,682
+highly intelligent and loyal German Shepherd,
+Ace is capable of understanding complex commands
+
+356
+00:33:10,062 --> 00:33:15,867
+and responding to cues with precision, even
+in high stress situations. His tactical vest
+
+357
+00:33:15,907 --> 00:33:21,110
+is outfitted with a variety of tools and gadgets
+to aid in missions. These include miniature
+
+358
+00:33:21,150 --> 00:33:26,695
+bat-shaped smoke pellets for creating distractions,
+a radio communicator for staying in contact
+
+359
+00:33:26,955 --> 00:33:33,000
+with the bat family, a small med kit for emergency
+first aid, a flashlight for low visibility
+
+360
+00:33:33,040 --> 00:33:38,765
+environments, and a collapsible rope for search
+and rescue operations. Additionally, his vest
+
+361
+00:33:38,785 --> 00:33:44,310
+features reinforced armor plating, providing
+ace with protection in dangerous encounters.
+
+362
+00:33:44,790 --> 00:33:50,550
+Ace's physical prowess includes enhanced speed,
+strength, and agility. for a dog of his breed,
+
+363
+00:33:50,870 --> 00:33:56,992
+making him adept at subduing criminals and navigating
+challenging terrain. His acute senses of smell
+
+364
+00:33:57,072 --> 00:34:02,833
+and hearing allow him to detect explosives,
+track individuels, and alert Batman to potential
+
+365
+00:34:02,893 --> 00:34:08,535
+threats. That's Ace the Bat Hound. The most
+recent version of Ace, his backstory went a
+
+366
+00:34:08,555 --> 00:34:12,996
+little bit more hard than I thought it would,
+honestly, but it's a great origin story for
+
+367
+00:34:13,136 --> 00:34:19,470
+a dog that would belong to Batman. Yeah, actually
+that storyline won an Eisner Award. Okay, I
+
+368
+00:34:19,490 --> 00:34:25,956
+could totally see that. Yeah, it's kind of heartbreaking
+stuff. But you love to see animals come through
+
+369
+00:34:25,996 --> 00:34:29,899
+with owners who truly get them and care about
+them. And it seems like Batman does considering
+
+370
+00:34:29,939 --> 00:34:35,364
+he's also, you know, a trauma survivor. Exactly.
+Yeah, the whole notion that Batman was like,
+
+371
+00:34:35,785 --> 00:34:41,270
+you can't heal this dog, he's gone through too
+much pain was, of course, a direct analogy
+
+372
+00:34:41,550 --> 00:34:46,638
+to Bruce's own pain and Alfred recognized that
+he wanted to prove Bruce wrong. Is the League
+
+373
+00:34:46,658 --> 00:34:52,161
+of Superpets book a children's comic title kind
+of in the same vein as Pet Avengers? No, it's
+
+374
+00:34:52,201 --> 00:34:58,824
+not an ongoing series. The times that the League
+of Superpets have made appearances, they were
+
+375
+00:34:58,944 --> 00:35:03,927
+always called the League of Superpets. They
+just appeared like in backup Batman stories
+
+376
+00:35:04,287 --> 00:35:09,550
+or you know like their own one-off special issues.
+Gotcha. Well Dogpool's origin story beats that
+
+377
+00:35:09,570 --> 00:35:13,732
+out of the water. In fact, it won a Nobel Peace
+Prize. Oh my gosh. Let me tell you about it.
+
+378
+00:35:14,153 --> 00:35:21,270
+Wade Wilson, the dog. was born astray in the
+alternate dimension of Earth-10-3173. He lived
+
+379
+00:35:21,310 --> 00:35:26,593
+his life on the streets as a happy flea-ridden
+mongrel, barking all night and chewing up shoes
+
+380
+00:35:26,633 --> 00:35:31,717
+he found. Eventually, however, he was rounded
+up and taken to a secret lab for experimental
+
+381
+00:35:31,757 --> 00:35:38,542
+cosmetics testing. Evil scientists Dr. Von Braun
+and his assistant Igor worked under the Mascara-X
+
+382
+00:35:38,622 --> 00:35:44,362
+project, aiming to develop an eye mascara that
+could regenerate indefinitely. The pair submerged
+
+383
+00:35:44,402 --> 00:35:49,326
+Wilson in an experimental chemical vat that
+painfully transformed the dog, leaving him
+
+384
+00:35:49,386 --> 00:35:55,190
+horribly mutated but granting him an extraordinary
+healing factor. Unaware of his newfound abilities,
+
+385
+00:35:55,250 --> 00:36:00,033
+the scientists discarded Wilson as a failed
+experiment, placing him in a garbage bag and
+
+386
+00:36:00,073 --> 00:36:05,317
+tossing him into a dumpster, leaving him to
+die. Wade's regenerative powers soon revived
+
+387
+00:36:05,377 --> 00:36:08,759
+him and he escaped the trash to wander the city
+for someone to love him.
+
+388
+00:36:12,694 --> 00:36:18,238
+Wade's despair led him to throw himself in front
+of a car, seeking to end his loneliness. However,
+
+389
+00:36:18,298 --> 00:36:22,901
+Wade survived his attempt, and he was discovered
+by a group of circus clowns passing by who
+
+390
+00:36:22,981 --> 00:36:28,185
+recognized his indestructible nature. They brought
+him to the circus, which exploited his abilities,
+
+391
+00:36:28,525 --> 00:36:33,709
+branding him Deadpool the Dare Devil Dog. They
+featured him in their death-defying acts, including
+
+392
+00:36:33,749 --> 00:36:38,252
+shooting him out of a cannon, using him as target
+practice for the circus knife thrower, and
+
+393
+00:36:38,292 --> 00:36:42,610
+having him leap through flaming hoops. Some
+people came from near and far to witness Wade's
+
+394
+00:36:42,650 --> 00:36:47,693
+stunts, but despite his newfound fame, the constant
+cycle of death and revival weighed heavily
+
+395
+00:36:47,753 --> 00:36:52,975
+on him. Wade questioned his reality, his purpose,
+and the true meaning of his seemingly cursed
+
+396
+00:36:53,015 --> 00:36:58,317
+existence. Word of the immortal stunt dog eventually
+reached the cosmetic scientists who created
+
+397
+00:36:58,357 --> 00:37:03,579
+him, Dr. Von Braun and Igor. Seeking to recapture
+their subject, they experimented on another
+
+398
+00:37:03,599 --> 00:37:10,502
+dog, giving him adamantium claws and naming
+him Wolverine. confronted Wade at the circus,
+
+399
+00:37:10,562 --> 00:37:15,365
+however Wade outsmarted his rival by launching
+him from the circus cannon. At this point,
+
+400
+00:37:15,485 --> 00:37:21,149
+Deadpool, of the primary Marvel Earth 616 appeared,
+recruiting Dogpool to join the Deadpool Corps,
+
+401
+00:37:21,289 --> 00:37:26,932
+a band of mercenaries united to protect the
+multiverse. The team, which included Lady Deadpool,
+
+402
+00:37:27,092 --> 00:37:31,815
+Kidpool, and Headpool, embarked on a series
+of wild and dangerous missions to safeguard
+
+403
+00:37:31,855 --> 00:37:37,246
+reality, battling threats such as the Awareness,
+the Champion, and the Grandmaster. Despite
+
+404
+00:37:37,286 --> 00:37:42,507
+the absurdity and peril of the core's adventures,
+Doc Poole found a sense of belonging and family
+
+405
+00:37:42,667 --> 00:37:47,449
+among his fellow mercenaries. He especially
+bonded with Kid Poole, the child version of
+
+406
+00:37:47,509 --> 00:37:52,850
+Deadpool. You can learn more about Deadpool
+in his duel against Deathstroke. However, tragedy
+
+407
+00:37:52,910 --> 00:37:58,552
+stuck when an evil version of the Deadpool core,
+led by the murderous Dreadpool, began hunting
+
+408
+00:37:58,612 --> 00:38:03,958
+and killing their counterparts across the multiverse.
+As part of the resistance against them, Dogpool
+
+409
+00:38:04,018 --> 00:38:09,742
+journeyed to Earth-616 to warn its Deadpool
+of the impending danger. In a climactic confrontation
+
+410
+00:38:09,782 --> 00:38:15,306
+between the good and evil Deadpool cores, Dogpool
+sacrificed himself to save Deadpool by leaping
+
+411
+00:38:15,346 --> 00:38:20,470
+in the way of a disintegration beam. His ultimate
+sacrifice left a lasting impact on Kidpool
+
+412
+00:38:20,590 --> 00:38:25,654
+and the rest of the core, who went on to defeat
+the Dreadpool core in revenge. Though presumed
+
+413
+00:38:25,734 --> 00:38:31,506
+dead, Dogpool's uncanny ability to survive seemingly
+anything led to his return. when he teamed
+
+414
+00:38:31,566 --> 00:38:36,929
+up with Catpool and Mousepool to break the fourth
+wall and attack the Marvel Comics editorial
+
+415
+00:38:36,969 --> 00:38:42,192
+team, convincing them to give the trio their
+own monthly Infinity Comics series. In his
+
+416
+00:38:42,252 --> 00:38:47,835
+new adventures, Dogpool went on to kill mercenaries
+at his new farmhouse, steal and bury one of
+
+417
+00:38:47,895 --> 00:38:53,618
+Deadpool's arm bones, pee in Kat Loki's litter
+box on Asgard, save Deadpool when he fell in
+
+418
+00:38:53,678 --> 00:39:01,106
+a well, get drunk in Boston, and help Deadpool
+save Christmas. And that's his backstory. Dogpool's
+
+419
+00:39:01,146 --> 00:39:05,568
+main ability is to heal at an accelerated rate
+through his healing factor. This allows him
+
+420
+00:39:05,608 --> 00:39:09,911
+to recover and regenerate from any wound he
+suffers as well as make him immune to disease
+
+421
+00:39:09,971 --> 00:39:14,973
+and toxins and grant him increased stamina.
+He's highly agile, faster than your average
+
+422
+00:39:15,013 --> 00:39:19,136
+human, approaching 50 miles per hour on foot,
+and is strong enough to easily bring down an
+
+423
+00:39:19,196 --> 00:39:24,018
+enemy. He has sharp canine teeth and claws,
+and also typically carries an assortment of
+
+424
+00:39:24,078 --> 00:39:29,661
+weapons and explosives in his suit, including
+a knife, sometimes a gun, and just a few grenades.
+
+425
+00:39:30,430 --> 00:39:35,072
+And that's Dogpool. But how does he use a gun?
+I've never seen him use a gun in the comics.
+
+426
+00:39:35,593 --> 00:39:42,957
+I'll say that. He just carries it for like intimidation
+factor? I guess so. Yeah, actually, Ace doesn't
+
+427
+00:39:43,137 --> 00:39:50,561
+use any of his weapons either or gear. Essentially,
+it's just there for his teammates to use should
+
+428
+00:39:50,581 --> 00:39:56,885
+they need it. So he's like a pack mule. Yeah,
+pretty much exactly. I have seen Dogpool carry
+
+429
+00:39:56,905 --> 00:40:01,805
+a knife in his mouth. Well, I've seen Ace have
+batarangs in his mouth as well in the comments.
+
+430
+00:40:01,965 --> 00:40:07,509
+So there. Playing fetch or something? Yes. That's
+pretty cute.
+
+431
+00:40:14,898 --> 00:40:20,960
+fantasies collide and heroes clash, one podcast
+network rises above the rest. Prepare yourself
+
+432
+00:40:21,160 --> 00:40:27,283
+for the ultimate showdowns in comic books, video
+games, movies, and anime. The DynaMic Podcast
+
+433
+00:40:27,323 --> 00:40:34,502
+Network presents Console Combat, where video
+game legends brawl every Monday. Comic Book
+
+434
+00:40:34,542 --> 00:40:40,706
+Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+435
+00:40:41,266 --> 00:40:47,190
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+436
+00:40:47,210 --> 00:40:52,914
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+437
+00:40:53,434 --> 00:40:57,717
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+438
+00:41:01,590 --> 00:41:05,253
+Well now that we got the dog's histories and
+abilities out of the way, let's speculate on
+
+439
+00:41:05,313 --> 00:41:11,137
+how one of the 1000 simulated matches will go,
+but in a dog show. The winner of the dog show
+
+440
+00:41:11,157 --> 00:41:16,322
+will be determined by simulations, not our speculation,
+but it's fun to imagine how the dog show could
+
+441
+00:41:16,362 --> 00:41:23,087
+play out. AJ9K, what are the rules of our speculation?
+Well I should say there are no rules. Other
+
+442
+00:41:23,127 --> 00:41:26,970
+than the characters have no prior knowledge
+of the other going into the show. All they
+
+443
+00:41:26,990 --> 00:41:30,933
+are aware of starting out is that the other
+character is an opponent that needs to be outdone.
+
+444
+00:41:31,854 --> 00:41:37,295
+For the speculation, the contestants will compete
+in a variety of events to showcase their skills.
+
+445
+00:41:37,335 --> 00:41:42,716
+Alright then, let's get into it! Ace the Bat
+Hound and Dog Pool meet in the arena. Who goes
+
+446
+00:41:42,756 --> 00:41:47,558
+first? Okay, I think Ace the Bat Hound will
+go first in their first annual dynamic duel
+
+447
+00:41:47,598 --> 00:41:52,479
+kennel club dog show. First off will be the
+agility trials, which feature a high speed
+
+448
+00:41:52,579 --> 00:41:58,241
+obstacle course that will test the dog's speed
+and evasiveness. For this challenge, the two
+
+449
+00:41:58,261 --> 00:42:03,350
+will take turns chasing a fake rabbit down a
+track. while avoiding cannon fire and maneuvering
+
+450
+00:42:03,390 --> 00:42:09,013
+around lava pits. Yeah, that's right. I must
+say too, Ace looks quite statuesque as he's
+
+451
+00:42:09,053 --> 00:42:14,575
+waiting for the starting signal. And there it
+is! Ace is off! Oh, and he trips right out
+
+452
+00:42:14,615 --> 00:42:21,298
+of the gate! Womp womp. What? Okay. Well, like
+a true ninja in training, Ace comes out of
+
+453
+00:42:21,318 --> 00:42:25,900
+the stumble with a quick tuck and roll, and
+he's back on his feet chasing after the rabbit,
+
+454
+00:42:26,020 --> 00:42:31,415
+picking up momentum as he approaches the first
+turn. and then a cannonball fires straight
+
+455
+00:42:31,495 --> 00:42:37,578
+at him. But without losing his stride, Ace ducks
+beneath the cannonball and is starting to close
+
+456
+00:42:37,598 --> 00:42:42,882
+the gap as he comes upon the lava pit. And look
+at that! Instead of chancing the leap, Ace
+
+457
+00:42:42,922 --> 00:42:48,525
+runs alongside the fenced wall around the pit
+and gets to the other side unscathed. He's
+
+458
+00:42:48,565 --> 00:42:53,868
+close to the rabbit now, it looks like he's
+about to snatch it. OH! He got him with lightning
+
+459
+00:42:53,928 --> 00:42:59,457
+speed! And wow, he is- tearing that thing to
+shreds. Great performance overall though. We'll
+
+460
+00:42:59,477 --> 00:43:05,823
+see how dogpool compares. Okay so uh dogpool
+is at the track starting line. He's looking
+
+461
+00:43:05,883 --> 00:43:11,588
+a little bit less statuesque as ace did. Yeah
+probably because he's licking his asshole.
+
+462
+00:43:13,770 --> 00:43:18,995
+Yes anyway there's the starting signal and dogpool
+tears off like a rabbit animal chasing that
+
+463
+00:43:19,055 --> 00:43:24,112
+rabbit. All right here comes the cannonball.
+except dogpole leaps over the cannonball like
+
+464
+00:43:24,152 --> 00:43:30,957
+in slow motion bullet time doggy matrix style
+oh but it just barely clips his hind legs causing
+
+465
+00:43:30,997 --> 00:43:36,762
+him to cartwheel through the air oh and it looks
+like it knocked him across the field into the
+
+466
+00:43:36,862 --> 00:43:41,806
+lava pit that's not going to be good all right
+okay so he's crawling out of the lava pit i
+
+467
+00:43:41,846 --> 00:43:49,292
+can see his spleen but it looks like his healing
+factor is kicking in as he continues to chase
+
+468
+00:43:49,332 --> 00:43:54,921
+the rabbit while on fire and with one leg still
+missing. What an inspiration, because he's
+
+469
+00:43:54,961 --> 00:43:59,725
+got it. He's got the rabbit now. Wait, what
+is he doing to the rabbit? Oh, he's humping
+
+470
+00:43:59,905 --> 00:44:05,490
+it. He's really going at it. That is not going
+to make the network sensors happy, but let's
+
+471
+00:44:05,510 --> 00:44:11,194
+see if it affects the judges' scores as Dogpool
+finishes up whatever he's doing. This is Scotty
+
+472
+00:44:11,214 --> 00:44:17,059
+Macho here, and I'm down here on the track,
+and we are checking our contestants for speed.
+
+473
+00:44:17,199 --> 00:44:22,979
+The first one was Ace the Bat Hound. Guy didn't
+have a good start, but he was able to snatch
+
+474
+00:44:22,999 --> 00:44:29,843
+that thing up right away and rip into pieces.
+A seven for Ace. Now Dogpool, he was able to
+
+475
+00:44:29,863 --> 00:44:34,806
+grab that rabbit pretty quick, but then started
+humping it right away too. But, I mean, as
+
+476
+00:44:34,946 --> 00:44:40,886
+ugly as that little thing is, he's still pretty
+quick. So we gave him a seven too. For the
+
+477
+00:44:40,926 --> 00:44:47,114
+category of evasiveness, I'm gonna have to give
+Dogpull a six out of seven. I mean, that's
+
+478
+00:44:47,154 --> 00:44:53,102
+pretty good, but he definitely did rely on his
+regenerative abilities more to help him. Which
+
+479
+00:44:53,142 --> 00:44:57,724
+is not bad. That's smart fighting. That's nothing
+wrong with that to use your abilities to your
+
+480
+00:44:57,744 --> 00:45:03,086
+advantage such as that That's for ace the bat
+hound. I'm gonna have to give him a seven out
+
+481
+00:45:03,106 --> 00:45:07,969
+of seven I mean it clearly shows he was trained
+by Batman also not Batman But he had the bat
+
+482
+00:45:08,009 --> 00:45:13,351
+family with him so much more to be trained on
+than just one person Supporting him in this
+
+483
+00:45:13,411 --> 00:45:19,394
+role. So seven out of seven for about back to
+you guys All right next up is the might and
+
+484
+00:45:19,434 --> 00:45:27,737
+resilience challenge a where dog's pull a weighted
+dummy from a burning collapsing structure.
+
+485
+00:45:28,277 --> 00:45:33,578
+Is this PETA approved? I'm gonna say no. Alright
+dog pool goes first and he's given the go-ahead
+
+486
+00:45:33,738 --> 00:45:38,719
+as he races into the burning building to get
+at that dummy on the top floor. Now we made
+
+487
+00:45:38,759 --> 00:45:44,580
+sure to let the structure burn for a while so
+it's literally falling apart during this trial.
+
+488
+00:45:45,100 --> 00:45:50,221
+Alright sure enough as dog pool is climbing
+that first set of stairs they collapse on him.
+
+489
+00:45:50,601 --> 00:45:58,228
+Oh! and a burning wooden shard just impaled
+one of dogpool's limbs. Again? Well, all right,
+
+490
+00:45:58,248 --> 00:46:02,969
+the three legged pooch. He's just an inspiration
+as he fights his way to the top to get at the
+
+491
+00:46:03,009 --> 00:46:09,311
+dummy and he starts dragging the dummy to safety
+by his leg. Now, these dummies weigh like 300
+
+492
+00:46:09,611 --> 00:46:16,793
+pounds, folks. They're like what we call hefty
+or thicc. The building is starting to fully
+
+493
+00:46:16,813 --> 00:46:22,895
+come down around dogpool. Can he drag the dummy
+out to safety in time? Let's see. Oh, holy
+
+494
+00:46:22,915 --> 00:46:27,237
+shit. He just leaped out of one of the windows,
+tossing the dummy out the window with him.
+
+495
+00:46:27,698 --> 00:46:32,820
+But it looks like he's maneuvering himself beneath
+the dummy midair to use himself as a landing
+
+496
+00:46:32,860 --> 00:46:38,302
+pad. And splat! Looks like the dummy is fine
+in dog pool. Like he doesn't look fine, but
+
+497
+00:46:38,682 --> 00:46:42,824
+he's coming around and at least he has all four
+of his legs back. Yeah, they're just all going
+
+498
+00:46:42,864 --> 00:46:48,523
+in different directions though. Overall. I'd
+call this a good showing for the Merc with
+
+499
+00:46:48,543 --> 00:46:54,226
+the Bark. Okay, now Ace is up. There's the signal,
+so there he goes, rushing into the building
+
+500
+00:46:54,286 --> 00:46:59,169
+with zero hesitation, like a true hero. And
+there go the stairs, they're crumbling beneath
+
+501
+00:46:59,189 --> 00:47:04,612
+them. And he gets hit with some debris, it looks
+like. Oh, but he shrugs it off and leaps onto
+
+502
+00:47:04,632 --> 00:47:10,415
+the landing just in time. And he's located the
+dummy. Well, why is he checking the dummy's
+
+503
+00:47:10,455 --> 00:47:15,178
+vitals? Like, what is he doing? Does he have
+time for this? I don't think so. Hey man, there's
+
+504
+00:47:15,358 --> 00:47:20,299
+always time for safety. But it looks like now
+the ace is dragging the dummy up the next flight
+
+505
+00:47:20,339 --> 00:47:25,300
+of stairs to the roof. Why is he going upstairs?
+The structure is crumbling down at this point.
+
+506
+00:47:25,741 --> 00:47:30,742
+What is he gonna do? Well, it looks like he's
+wrapped a harness around the dummy and is now,
+
+507
+00:47:30,762 --> 00:47:35,803
+what, he's scratching his neck? Oh no, he's
+actually triggered a grapple line from his
+
+508
+00:47:35,843 --> 00:47:41,745
+collar. And now both he and the dummy are sliding
+down it to the ground below just as the structure
+
+509
+00:47:41,765 --> 00:47:46,436
+collapses. Well done. That dog is something
+else man, let's see what the judges have to
+
+510
+00:47:46,456 --> 00:47:46,637
+say.
+
+511
+00:47:51,830 --> 00:47:56,112
+the event. Ace the Bat Hound has clearly been
+trained by the Dark Knight in all manner of
+
+512
+00:47:56,152 --> 00:48:00,774
+strength training exercises and has been fed
+a specialized diet for optimal muscularity.
+
+513
+00:48:01,194 --> 00:48:05,596
+And though Dogpool has the appearance of a stray
+who eats mostly leftover chimichangas from
+
+514
+00:48:05,616 --> 00:48:10,838
+the Del Taco dumpster and snorts too much cocaine,
+he seems to be able to compensate through his
+
+515
+00:48:10,878 --> 00:48:16,161
+regenerative healing factor that keeps his body
+in good condition. We the judges award both
+
+516
+00:48:16,221 --> 00:48:18,722
+dogs a 7 out of 7. A perfect score.
+
+517
+00:48:21,784 --> 00:48:28,652
+results for the durability portion of our dog
+show today and coming in with a perfect score
+
+518
+00:48:28,692 --> 00:48:38,219
+of seven we have ace the bat hound now y'all
+might be wondering He comes in with a 10. Why
+
+519
+00:48:38,259 --> 00:48:43,020
+do we give him a 10? I mean, look, you could
+chop off his arm, it's gonna grow back. Look
+
+520
+00:48:43,040 --> 00:48:46,921
+at the healing factor on him. The durability
+is off the charts, so we have to give him an
+
+521
+00:48:47,001 --> 00:48:52,743
+off the charts score. Okay, the next event is
+a search and solve competition. It's a scavenger
+
+522
+00:48:52,783 --> 00:48:58,404
+hunt style event that tests the dog's perception
+and intelligence as they navigate a labyrinth
+
+523
+00:48:58,784 --> 00:49:04,158
+and avoid tasty distractions in order to locate
+the drugs that are hidden. in the center of
+
+524
+00:49:04,178 --> 00:49:10,083
+the maze. And there's the signal. Ace rushes
+into the labyrinth. I expect nothing less from
+
+525
+00:49:10,143 --> 00:49:14,647
+him by this point. Looks like he's sniffing
+around now, but has he caught the scent of
+
+526
+00:49:14,707 --> 00:49:20,452
+the drugs? Oh, look at that. It looks like Ace
+has walked right into a dead end. How unfortunate
+
+527
+00:49:20,472 --> 00:49:25,736
+for that guy. And at the dead end, there's a
+plate full of meaty steaks there, cooked rare.
+
+528
+00:49:25,936 --> 00:49:33,899
+Yummy. Which Ace completely ignores, the dedication.
+Oh, what is he doing now? Look, he's digging
+
+529
+00:49:34,119 --> 00:49:39,304
+under the wall. No dead end is gonna stop him
+from getting to his target. Oh, but look, he
+
+530
+00:49:39,384 --> 00:49:44,629
+stops digging for a second. He must detect the
+bitch in heat that was placed in the maze that's
+
+531
+00:49:44,649 --> 00:49:51,596
+like right above him. Oh, he's digging into
+his tactical vest now. What does he have in
+
+532
+00:49:51,616 --> 00:49:56,941
+there? Oh, it's a gas mask muzzle. Wow, he must
+be confident in the location of the drugs by
+
+533
+00:49:57,001 --> 00:50:01,672
+this point. to use a tool like that to avoid
+the scent of romance and stick to his mission.
+
+534
+00:50:01,873 --> 00:50:06,816
+And sure enough, he's dug right through the
+maze and is now beneath the drugs. He's found
+
+535
+00:50:06,856 --> 00:50:12,440
+them and let out a victorious howl. Mission
+accomplished. All right. Now it's Dogpool's
+
+536
+00:50:12,480 --> 00:50:18,885
+turn. So Dogpool rushes into the labyrinth and
+he's using his skilled nose to try and locate
+
+537
+00:50:18,905 --> 00:50:23,488
+the devil's lettuce that's hidden in this maze,
+which is a slang term for marijuana, kids.
+
+538
+00:50:24,009 --> 00:50:28,947
+But oh, no. He stumbled upon a plate full of
+chimichangas, and he eats them all without
+
+539
+00:50:28,967 --> 00:50:34,268
+even chewing, it looks like. Ha ha ha. Yeah,
+it makes sense for the character, for sure.
+
+540
+00:50:34,768 --> 00:50:41,490
+But oh, we laced them with sleeping pills. That
+will cost him. Except, Dogpool's healing factor
+
+541
+00:50:41,530 --> 00:50:48,072
+should help filter out that poison. So, he's
+fine. He keeps going. It's fine. Yeah, but
+
+542
+00:50:48,112 --> 00:50:52,093
+it looks like he's moving away from the center,
+towards the direction of the French poodle
+
+543
+00:50:52,133 --> 00:50:58,808
+and heat. and he gives into the temptation.
+Okay, okay, sure. But Dogpull's like really
+
+544
+00:50:58,828 --> 00:51:03,670
+quick, okay? He's like a two pump chump. And
+so he's like in and out literally and moves
+
+545
+00:51:03,890 --> 00:51:10,313
+on. Finally approaching the bag of weed and
+he finds it. What a champ, you know, his tail's
+
+546
+00:51:10,373 --> 00:51:15,016
+wagging. He looks like a happy boy. Yeah, maybe
+a little too happy because he just straight
+
+547
+00:51:15,056 --> 00:51:18,177
+up devoured the weed like the police are knocking
+on his door.
+
+548
+00:51:21,666 --> 00:51:26,209
+Well, let's see what the judges have to say.
+And now moving on to the intelligence category.
+
+549
+00:51:26,810 --> 00:51:31,834
+Ace is pretty much a genius. I mean, it's pretty
+hard to describe Ace as anything other than
+
+550
+00:51:31,854 --> 00:51:37,678
+a genius. And unfortunately, dog pool is just
+dumb. I can't really describe dog pool any
+
+551
+00:51:37,718 --> 00:51:44,424
+other way. As intelligence goes, dog pool is
+probably even less intelligent than an actual
+
+552
+00:51:44,464 --> 00:51:50,989
+dog. So sad. So this category goes to Ace the
+bat hound with a seven to dog pools measly
+
+553
+00:51:51,229 --> 00:51:57,938
+one. And next we have the perception event.
+Looks like Ace scores a perfect seven due to
+
+554
+00:51:57,978 --> 00:52:04,302
+his superior training. The dog pool only gets
+a three because he passed the drug sniff test
+
+555
+00:52:04,703 --> 00:52:11,167
+but got too high on marijuana. Unfortunate.
+Next up is the attack skills showcase, an action
+
+556
+00:52:11,207 --> 00:52:16,951
+packed challenge highlighting the dog's fighting
+skills and versatility where they must each
+
+557
+00:52:16,991 --> 00:52:22,751
+take down a squad of ninjas in a warehouse setting.
+Yeah, Dogpool is gonna go first, and it looks
+
+558
+00:52:22,771 --> 00:52:28,895
+like he sees the group of ninjas enter his warehouse
+location. And he sees them circle around him.
+
+559
+00:52:29,416 --> 00:52:34,039
+Yeah, but as he turns to look at each one, he
+keeps turning and turning because he's chasing
+
+560
+00:52:34,099 --> 00:52:40,803
+his own tail. Alright, so, okay, so he's a little
+distracted at the outset, and one of the ninjas
+
+561
+00:52:40,924 --> 00:52:45,227
+lunges at Dogpool with his bow staff. But, you
+know, getting conked on the rear with the staff
+
+562
+00:52:45,707 --> 00:52:50,828
+is gonna snap Dogpool out of chasing his tail,
+and he's no longer distracted. and he snarls
+
+563
+00:52:51,129 --> 00:52:58,486
+and lunges back at the Bo Staff Ninja, straight
+up ripping his crotch from his body. Oh shit!
+
+564
+00:52:58,506 --> 00:53:06,954
+That guy was a volunteer! One down, three to
+go. The next ninja is wielding a pair of scythes
+
+565
+00:53:07,134 --> 00:53:13,400
+and he stabs Dogpool. Dude, what a dickhead.
+Attacking a dog like that? Deadpool straight
+
+566
+00:53:13,440 --> 00:53:19,145
+up rips that guy's dick from his pants. Again?
+Yeah. All right, Dogpool seems to be using
+
+567
+00:53:19,286 --> 00:53:25,551
+a very specific fighting style to disable these
+opponents. I hope they already have children.
+
+568
+00:53:26,012 --> 00:53:31,275
+Yeah, the style is called Wing Chun. Well the
+third ninja runs at dogpool with his nunchucks
+
+569
+00:53:31,435 --> 00:53:37,678
+spinning around. And then dogpool throws a dagger
+right in the guy's nutsack. A dagger? Yeah
+
+570
+00:53:37,718 --> 00:53:43,320
+from his utility belt. And now the final ninja
+with swords looks like he's trying to actually
+
+571
+00:53:43,380 --> 00:53:47,542
+run out of the arena. But dogpool is going to
+grab the guy by the seat of his pants just
+
+572
+00:53:47,642 --> 00:53:53,365
+ripping him and pulling the last ninja to the
+ground. And then OH MY GOD the guy just exploded.
+
+573
+00:53:54,225 --> 00:53:59,995
+What happened? Looks like Dogpool must have
+dropped a grenade down the ninja's hole in
+
+574
+00:54:00,035 --> 00:54:06,397
+his pants. Wow, this battle felt very personal.
+Like a ninja must have been the one that neutered
+
+575
+00:54:06,497 --> 00:54:11,678
+Dogpool back when he was a stray or something.
+We can only assume, I guess. Well it's Ace's
+
+576
+00:54:11,718 --> 00:54:16,900
+turn and I have to say I'm expecting a good
+show from him. The Bat Family has trained for
+
+577
+00:54:16,940 --> 00:54:23,790
+this exact scenario. The four ninjas surround
+Ace and he's rolling over and- OH! The warehouse
+
+578
+00:54:23,830 --> 00:54:29,454
+is now filled with smoke. He must have triggered
+a smoke capsule in his tactical vest. Okay,
+
+579
+00:54:29,955 --> 00:54:33,398
+it looks like we're gonna have to switch to
+our infrared cameras. And it looks like the
+
+580
+00:54:33,438 --> 00:54:39,282
+ninjas cannot see him through the smoke. Oh,
+look, there he is in the rafters. How does
+
+581
+00:54:39,362 --> 00:54:45,648
+a dog get in the rafters? It looks like he's
+lowering a looped cable. The sword ninja doesn't
+
+582
+00:54:45,668 --> 00:54:51,132
+appear to see he's walking right into the trap.
+Oh, there he goes. The ninja gets lifted into
+
+583
+00:54:51,152 --> 00:54:58,533
+the air, and dropping his swords. Uh, it looks
+like the ninja with the scythe heard the swords
+
+584
+00:54:58,593 --> 00:55:04,457
+dropping to the floor, and he looks upward and
+he throws one of his scythes into the rafters
+
+585
+00:55:04,558 --> 00:55:10,802
+at Ace. And like any good boy playing fetch,
+Ace catches the scythe in his jaws and he spins
+
+586
+00:55:10,842 --> 00:55:14,625
+it back around at the ninja. And look, it stuck
+him in that foot. That ninja will probably
+
+587
+00:55:14,665 --> 00:55:19,728
+be pinned there for a while. Pretty painful.
+Oh, but it looks like the smoke screen is starting
+
+588
+00:55:19,768 --> 00:55:24,367
+to clear from the warehouse, so- These guys
+are gonna be able to see Ace now. Oh, but where
+
+589
+00:55:24,387 --> 00:55:30,909
+did Ace go? Oh, there he is behind the Bo Staff
+Ninja. Did he just paw chop him in the neck?
+
+590
+00:55:31,310 --> 00:55:37,452
+Wow, Bo Staff Ninja's down with a nerve strike.
+Oh, but look, Nunchuck Ninja spotted Ace, and
+
+591
+00:55:37,472 --> 00:55:42,214
+he pounces on him, and now he has one of his
+Nunchucks wrapped around Ace's neck. Okay,
+
+592
+00:55:42,234 --> 00:55:46,036
+well, it looks like Ace is pulling hard away
+from the Ninja. You know, he's pretty strong
+
+593
+00:55:46,076 --> 00:55:50,870
+for a dog. Oh, it looks like he was using the
+Ninja's weight against him. pulling the ninja
+
+594
+00:55:50,930 --> 00:55:56,593
+low to the ground and setting him up for one
+tremendous headbutt. That ninja is seeing ninja
+
+595
+00:55:56,693 --> 00:56:01,495
+stars right now. What a masterful performance
+from a doggy martial arts master if I've ever
+
+596
+00:56:01,536 --> 00:56:08,179
+seen one. Let's see what the judges say. Wow,
+what a great showing for these two dogs in
+
+597
+00:56:08,219 --> 00:56:15,095
+the fighting category. For this category, we
+were looking for how- these dogs would face
+
+598
+00:56:15,196 --> 00:56:23,427
+off against each other. And Ace the Bat Hound,
+just like his master, came in with great precision
+
+599
+00:56:23,627 --> 00:56:31,517
+and didn't miss a beat. He scored a perfect
+seven. Whereas his opponent, Dogpool, only
+
+600
+00:56:31,866 --> 00:56:40,550
+scored a six because he was constantly getting
+distracted by his own tail. What a great show
+
+601
+00:56:40,770 --> 00:56:47,233
+so far and I cannot wait to see the rest of
+the results from the other categories. When
+
+602
+00:56:47,273 --> 00:56:53,536
+it comes to versatility, these dogs are collar
+and collar. Ace is the world's greatest dogtective,
+
+603
+00:56:53,816 --> 00:56:59,078
+which means he has a variety of useful skills
+like sniffing, sneaking, snarling, and of course
+
+604
+00:56:59,098 --> 00:57:07,884
+sleuthing. though he prefers not to use it because
+he is a very good boy. Dogpool, on the other
+
+605
+00:57:07,904 --> 00:57:12,647
+hand, may appear to be a chaotic mess, but this
+is just because he's a real Jack Russell of
+
+606
+00:57:12,687 --> 00:57:18,191
+all trades. Just kidding, he's a mutt. But he
+does do his own stunts because he can heal
+
+607
+00:57:18,211 --> 00:57:23,534
+from just about anything. He also has knowledge
+on a variety of subjects due to all Deadpool's
+
+608
+00:57:23,554 --> 00:57:28,618
+ability to break the fourth wall, giving them
+a certain sense of omniscience. In either case,
+
+609
+00:57:28,718 --> 00:57:33,581
+both these canines exhibit just about any skill
+they need. need to get the job done and for
+
+610
+00:57:33,621 --> 00:57:40,665
+that reason we are proud to award both of them
+a perfect seven in versatility. The last event
+
+611
+00:57:40,745 --> 00:57:46,308
+is the precision range test, a targeting competition
+testing range and damage potential where the
+
+612
+00:57:46,348 --> 00:57:51,311
+two dogs will use their unique abilities to
+accurately hit and or destroy moving targets
+
+613
+00:57:51,631 --> 00:57:57,822
+of various compositions. Ace is going first
+in this final test and it looks like his projectiles
+
+614
+00:57:57,862 --> 00:58:04,424
+of choice are a collection of Batarangs. Interesting.
+Picking up the first one, Ace is staring intently,
+
+615
+00:58:04,704 --> 00:58:09,205
+waiting for the first targets to appear. Can
+dogs really throw well enough for this event?
+
+616
+00:58:09,766 --> 00:58:14,907
+I guess we'll see. The first clay targets get
+launched, and we're skeet shooting here! Ah
+
+617
+00:58:14,967 --> 00:58:22,129
+skeet skeet! Like a discus thrower, Ace spins
+around and hurls a volley of three Batarangs!
+
+618
+00:58:22,754 --> 00:58:28,715
+Bam bam one two three all targets were shattered
+by ace of course all right the next targets
+
+619
+00:58:28,755 --> 00:58:36,278
+appear and these guys look like dartboards swinging
+like pendulums and The dartboards are wooden
+
+620
+00:58:36,318 --> 00:58:42,059
+in composition all right ace is winding up,
+and there's the pitch Oh, no, it looks like
+
+621
+00:58:42,360 --> 00:58:50,370
+ace missed one wait the one that missed is circling
+back around like a boomerang Oh Ace bulls-eyed
+
+622
+00:58:50,390 --> 00:58:55,752
+the dartboard from behind! Look the tip of the
+battering is sticking through the board into
+
+623
+00:58:55,772 --> 00:59:00,054
+the front side. Where does this dog get his
+wonderful toys? That's what I want to know.
+
+624
+00:59:00,514 --> 00:59:06,057
+The final round of the targets are appearing
+now. They're human figures composed of ballistic
+
+625
+00:59:06,097 --> 00:59:12,319
+gel so that we can get accurate damage analysis.
+But the figures are moving swiftly on a conveyor
+
+626
+00:59:12,339 --> 00:59:17,958
+belt. It looks like Ace is grabbing a different
+style of battering. I wonder which kind. All
+
+627
+00:59:17,978 --> 00:59:23,002
+right, Ace is taking aim. And wow, instead of
+spinning this time, he does a back flip. And
+
+628
+00:59:23,062 --> 00:59:29,187
+look, he used three different types of batterings.
+The first target is now melting from the electric
+
+629
+00:59:29,227 --> 00:59:34,712
+shock it's receiving. The second one looks like
+a pin cushion with sharp battering sticking
+
+630
+00:59:34,772 --> 00:59:39,876
+out from its vital pressure points. And the
+third one is just frozen solid. What a solid
+
+631
+00:59:39,896 --> 00:59:46,421
+way to wrap up his performance at this show.
+What a show off that dog is, but you know.
+
+632
+00:59:46,902 --> 00:59:51,603
+Dogpool's ready to go now, and he didn't come
+to play. The first targets are launched into
+
+633
+00:59:51,623 --> 00:59:56,404
+the air. All right, maybe he did come to play.
+Instead of hurling a projectile at the clay
+
+634
+00:59:56,424 --> 01:00:02,166
+targets, Dogpool leaps into the air and snatches
+all three of the skeet discs. Maybe he thought
+
+635
+01:00:02,186 --> 01:00:07,748
+this was a Frisbee game or something, but he
+did crack the discs with his teeth. So maybe
+
+636
+01:00:07,988 --> 01:00:13,109
+that will count with the judges? What an idiot!
+Looks like the second round of targets are
+
+637
+01:00:13,149 --> 01:00:18,528
+now swinging. And Dogpool has a grenade in his
+mouth and he's wagging his tail. Looks like
+
+638
+01:00:18,568 --> 01:00:23,291
+he sets the grenade down on the floor and he
+nudges it with his nose. Like he wants the
+
+639
+01:00:23,431 --> 01:00:29,374
+targets to throw it for him. What? Oh wait,
+look, the grenade is rolling and it's rolling.
+
+640
+01:00:29,574 --> 01:00:35,938
+It keeps rolling and it blows up, destroying
+all three targets. And Dogpool himself, that
+
+641
+01:00:35,978 --> 01:00:42,190
+grenade trap now travels pretty far. He'll walk
+it off. All right. The final challenge. The
+
+642
+01:00:42,230 --> 01:00:47,834
+ballistic gel torsos are moving down the conveyor
+belt. And it looks like Deadpool pulls out,
+
+643
+01:00:47,974 --> 01:00:55,759
+oh my God, is that a rocket launcher? And it's
+red, it's so big and red. It's a red rocket
+
+644
+01:00:55,779 --> 01:01:00,202
+launcher. I don't even know how Doc Pull's gonna
+use it, but oh, it looks like he's pressing
+
+645
+01:01:00,222 --> 01:01:06,547
+the trigger with his paw. Kabooy, there goes
+all the targets and most of the arena itself.
+
+646
+01:01:07,087 --> 01:01:13,118
+Thank goodness we are behind this safety glass.
+That final round was intense. Let's hear from
+
+647
+01:01:13,158 --> 01:01:18,940
+our final judges. In the category of range,
+we, the judges, have determined that both Ace
+
+648
+01:01:18,960 --> 01:01:24,681
+the Bat Hound and Dogpool have displayed considerable
+skill in their distance and marksmanship. However,
+
+649
+01:01:24,721 --> 01:01:30,243
+while Ace showed exemplary skill in his ability
+to bullseye targets using Batarangs, we feel
+
+650
+01:01:30,263 --> 01:01:35,845
+that Dogpool's use of throwing grenades insufficiently
+demonstrated the same natural skill due to
+
+651
+01:01:35,865 --> 01:01:41,843
+the weapon's large blast radius. That being
+said, Dogpool seems to have a gun pointed at
+
+652
+01:01:41,883 --> 01:01:47,245
+me as I'm currently reading these results, so
+I'm going to award both dogs a perfect score
+
+653
+01:01:47,325 --> 01:01:53,908
+of 7 out of 7. Alright folks, the results are
+it. It would appear that both contestants,
+
+654
+01:01:54,048 --> 01:02:01,091
+Ace the Batcom and Dogpool, scored a perfect
+7 in the damage category. But because Dogpool
+
+655
+01:02:01,231 --> 01:02:06,153
+is pretty fugly and because his owner has my
+family held captive, we're going to award him
+
+656
+01:02:06,173 --> 01:02:12,184
+3 extra points giving him the win. Wow, Doc
+Poole seems pretty desperate to me. Let's take
+
+657
+01:02:12,224 --> 01:02:18,549
+the judges scores and have our resident Monte
+Carlo simulator AJ 9K analyze the data to determine
+
+658
+01:02:18,569 --> 01:02:26,535
+who wins the inaugural Dynamic Duel Kennel Club
+Dog Show. AJ 9K, hit it. Inputting data, running
+
+659
+01:02:26,575 --> 01:02:33,259
+calculations, processing results, simulations
+complete. OK, so when we approached the stats
+
+660
+01:02:33,439 --> 01:02:40,391
+for this matchup, we knew that Ace was basically
+gonna have a perfect score in everything because
+
+661
+01:02:40,611 --> 01:02:47,294
+he is the perfect dog, particularly when it
+would come to dog show style events. Yeah,
+
+662
+01:02:47,374 --> 01:02:52,536
+I don't think there's any sort of dog show out
+there that Ace the Bat Hound would not utterly
+
+663
+01:02:52,616 --> 01:02:57,418
+dominate. So we definitely approach the stats
+from a different angle this go around. It's
+
+664
+01:02:57,458 --> 01:03:02,540
+not like your standard duel, because speaking
+in dog terms, Ace the Bat Hound is a perfect
+
+665
+01:03:02,580 --> 01:03:08,936
+dog. So really the challenge came in seeing
+how Dogpool compares to the perfect dog in
+
+666
+01:03:08,996 --> 01:03:13,559
+all of the stat categories. And there were some
+differences. You know, Dogpool, as the judges
+
+667
+01:03:13,599 --> 01:03:17,662
+said, got slightly lower in evasiveness because
+he knows that he has his healing factor to
+
+668
+01:03:17,722 --> 01:03:23,526
+rely on. But he really outclassed Ace the Bat
+Hound in durability, of course, because of
+
+669
+01:03:23,546 --> 01:03:29,950
+his healing factor and damage. Yeah, Dogpool
+tends to be much more lethal than Ace, who
+
+670
+01:03:30,010 --> 01:03:37,491
+follows the same code that his master does of
+being non-lethal. Dogpool was less than exemplary
+
+671
+01:03:37,831 --> 01:03:43,714
+compared to Ace though when it came to intelligence
+and perception, largely because the dog just
+
+672
+01:03:43,734 --> 01:03:48,637
+isn't that smart. He's not the type of dog to
+follow commands, especially if you classify
+
+673
+01:03:48,737 --> 01:03:54,361
+intelligence at a dog show through obedience
+training. How good are they at following commands
+
+674
+01:03:54,841 --> 01:04:00,744
+and Dogpool is just an agent of chaos. Well
+Joseph, taking all of these stats into consideration,
+
+675
+01:04:01,145 --> 01:04:07,039
+who do you think is going to come out on top?
+I think that dogpool's durability and his lethality
+
+676
+01:04:07,199 --> 01:04:11,800
+will put him over the edge here. Although Instagram
+does not agree with me, it looks like a lot
+
+677
+01:04:11,840 --> 01:04:19,162
+of our followers are voting for Ace to win by
+64% over dogpool. But let's find out who actually
+
+678
+01:04:19,202 --> 01:04:27,644
+won. AJ9k, the results please. Hey Yuasa. The
+winner of the matchup between Ace the Bat Hound
+
+679
+01:04:28,444 --> 01:04:44,275
+and Dogpool is... What? Yes by a whopping 73.7%
+win rate compared to dogpool's 26.3% or 263
+
+680
+01:04:45,836 --> 01:04:51,240
+of the 1000 matches. How is that possible? The
+only way that could be is because we didn't
+
+681
+01:04:51,300 --> 01:04:56,965
+score this like a typical duel. We scored it
+like a dog show. I think we should nix that
+
+682
+01:04:57,005 --> 01:05:02,289
+whole idea and treat this like an actual dogfight
+because I straight up guarantee you that dogpool...
+
+683
+01:05:02,870 --> 01:05:10,253
+rips Ace the Bat Hound apart. Okay, Michael
+Vick. That's what you want, huh? No. Look,
+
+684
+01:05:10,273 --> 01:05:14,836
+the stats would be fairly comparable, even if
+we scored them slightly different. Dogpool
+
+685
+01:05:14,876 --> 01:05:20,819
+would still come out ahead in terms of durability
+and still fall way behind in intellect. Sorry,
+
+686
+01:05:20,979 --> 01:05:27,694
+Ace the Bat Hound is just elite when it comes
+to dog stat categories. Is that so? Well, oh
+
+687
+01:05:27,754 --> 01:05:32,497
+no, it looks like Dogpool is breaking the fourth
+wall and beating the shit out of Ace the bad
+
+688
+01:05:34,138 --> 01:05:39,481
+hound. Looks like we got our dogfight after
+all. Yeah, if Dogpool can even touch Ace with
+
+689
+01:05:39,521 --> 01:05:44,123
+his stealthiness and superior martial arts skills.
+Oh, he'll touch Ace. He'll touch him wherever
+
+690
+01:05:44,163 --> 01:05:51,868
+he wants to. Oh no. That's right. Dogpool is
+establishing dominance. Wow. But that does
+
+691
+01:05:51,888 --> 01:05:58,374
+it for this duel, guys. AJ9K, help close us
+out. Thanks for listening to Dynamic duel.
+
+692
+01:05:58,995 --> 01:06:04,518
+Visit the show's website at dynamicduel.com
+and follow us on Instagram at dynamicduelpodcast.
+
+693
+01:06:04,978 --> 01:06:10,301
+You can support the show on Patreon at patreon.com
+slash dynamicduel and joining a tier that works
+
+694
+01:06:10,341 --> 01:06:16,204
+for you or by rating and reviewing Dynamic duel
+on Apple podcasts, Spotify, Podchaser, or on
+
+695
+01:06:16,244 --> 01:06:21,307
+our website. Don't forget to listen to the other
+shows in the DynaMic podcast network, including
+
+696
+01:06:21,367 --> 01:06:24,529
+Max Destruction, Senjo World, and Console Combat.
+
+697
+01:06:28,082 --> 01:06:34,723
+Our next episode will be the 2024 Brothers Awards,
+our annual award show where we review everything
+
+698
+01:06:34,803 --> 01:06:39,665
+Marvel and DC put out in the previous year.
+But that does it for this episode, we want
+
+699
+01:06:39,685 --> 01:06:44,166
+to give a big thanks to our executive producers
+Ken Johnson, John Storosky, Zachary Hepburn,
+
+700
+01:06:44,426 --> 01:06:49,687
+Dustin Balcom, Mickey Montagian, Brandon Estergard,
+Nathaniel Wagner, Levi Yeaton, Austin Wiselowski,
+
+701
+01:06:49,867 --> 01:06:56,429
+AJ Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Andrew Shunk, Dean Molesky, Devin Davis,
+
+702
+01:06:56,609 --> 01:07:02,812
+Joseph Kirsting. Josh Leiner, Mike Williams,
+and Oscar Galvez for helping make this podcast
+
+703
+01:07:02,852 --> 01:07:07,395
+possible. We'll talk to you guys next week.
+Up up and away, true believers.
+
