@@ -1,0 +1,3797 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a DynaMic Network podcast.
+
+2
+00:00:25,718 --> 00:00:30,821
+Make Duel Podcast, a weekly show where we review
+superhero films and debate the superiority
+
+3
+00:00:30,861 --> 00:00:36,305
+between Marvel and DC by comparing their characters
+and stat-based battle simulations. I'm Johnny
+
+4
+00:00:36,325 --> 00:00:43,450
+DC. And I'm his twin brother, Marvelous Joe.
+And welcome to the first episode of 2025. This
+
+5
+00:00:43,490 --> 00:00:49,094
+is our year, guys. This is our year. Year for
+what? It's just our year. I don't know. It's
+
+6
+00:00:49,154 --> 00:00:53,397
+a saying. I don't know what it means. I thought
+you were saying it's like Marvel's year. I
+
+7
+00:00:53,417 --> 00:00:59,199
+was like, what? Superman's coming out that too.
+That too. Well, we're kicking off this year
+
+8
+00:00:59,219 --> 00:01:04,362
+with a Marvel review. At the very least, this
+episode will be talking all about season three
+
+9
+00:01:04,542 --> 00:01:09,784
+of What If Marvel's animated series on Disney
+Plus. Yeah, you know, the show's hit or miss.
+
+10
+00:01:10,264 --> 00:01:16,687
+But was season three more hit or more miss compared
+to the other hit or miss seasons? We'll find
+
+11
+00:01:16,747 --> 00:01:20,488
+out later on in this episode. Before that, we're
+going to break down the comic book movie news
+
+12
+00:01:20,508 --> 00:01:25,507
+from the past week, of which there was just
+one news item. and that was that Jason Momoa
+
+13
+00:01:25,527 --> 00:01:31,312
+has been cast as Lobo in Supergirl Woman of
+Tomorrow. As always we list our segment times
+
+14
+00:01:31,352 --> 00:01:35,115
+in our episode description so feel free to check
+out the show notes if you want to skip ahead
+
+15
+00:01:35,155 --> 00:01:40,220
+to a particular topic. Guys our artificially
+intelligent Duel simulator AJ9K has a quick
+
+16
+00:01:40,260 --> 00:01:46,682
+message for our listeners, so listen up. Why
+hello there, do you want even more from this
+
+17
+00:01:46,722 --> 00:01:51,464
+podcast? Then become a part of the dynamic Duel
+community on Patreon, where you can choose
+
+18
+00:01:51,484 --> 00:01:56,586
+from three tiers. The dynamic two-o tier gives
+you access to our Discord chat server. The
+
+19
+00:01:56,607 --> 00:02:01,068
+fantastic four tier gives you two bonus episodes
+each month, and the X-Force tier makes you
+
+20
+00:02:01,108 --> 00:02:06,467
+an executive producer of this show. Lastly,
+The DynaMic Podcast Network tier lets you
+
+21
+00:02:06,507 --> 00:02:10,989
+create your own podcast using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+22
+00:02:11,009 --> 00:02:16,552
+your show, provide graphic support and consultation,
+and get you simulation results. Pitch the twins
+
+23
+00:02:16,572 --> 00:02:22,676
+your ideas via email at dynamicduelpodcast at
+gmail.com. Check it out at patreon.com slash
+
+24
+00:02:22,716 --> 00:02:29,559
+dynamicduel. Pip pip cheerio. Thanks AJ9K and
+thanks to everyone who supports the podcast.
+
+25
+00:02:30,000 --> 00:02:34,294
+Be sure to tune into the other shows in the
+DynaMic Podcast Network this week. Including
+
+26
+00:02:34,414 --> 00:02:38,795
+Max Destruction, which pits your favorite action
+heroes from film and television against each
+
+27
+00:02:38,855 --> 00:02:44,457
+other. This week hosts Scotty and Gilly are
+finding out who would win between He-Man and
+
+28
+00:02:44,577 --> 00:02:48,578
+Lion-O. And I gotta say that's one I've been
+looking forward to for a long time. Yeah, me
+
+29
+00:02:48,618 --> 00:02:53,520
+too. On the Sinjyo World podcast, host Zachary
+Hepburn speculates on fights between fan favorite
+
+30
+00:02:53,600 --> 00:02:57,561
+anime and manga characters. Zach is off for
+the next two weeks, but make sure to check
+
+31
+00:02:57,601 --> 00:03:02,721
+out his latest episode if you haven't already.
+On the Console Combat Podcast hosts John and
+
+32
+00:03:02,741 --> 00:03:07,927
+Dean simulate battles between popular video
+game characters. In yesterday's episode, they
+
+33
+00:03:07,967 --> 00:03:13,713
+reviewed the first season of Secret Level. Visit
+dynamicpodcasts.com or click the link in our
+
+34
+00:03:13,754 --> 00:03:18,219
+show notes to listen to all the shows in the
+DynaMic Podcast Network. But with that out
+
+35
+00:03:18,239 --> 00:03:24,874
+of the way, quick to the note prize! A no prize
+is an award Marvel used to give out to fans.
+
+36
+00:03:25,074 --> 00:03:29,075
+Our version, the Dynamic Duel No Prize, is a
+digital award we post on Instagram for the
+
+37
+00:03:29,115 --> 00:03:33,417
+person that we feel gave the best answer to
+our question of the week. Last week we asked
+
+38
+00:03:33,437 --> 00:03:38,238
+you guys, from 1 to 10, how excited has the
+Friendly Neighborhood Spider-Man trailer made
+
+39
+00:03:38,278 --> 00:03:42,859
+you for the series, and why? And of course this
+is coming off the back of the trailer that
+
+40
+00:03:42,879 --> 00:03:47,520
+was released last week for the upcoming Disney
+Plus television show that's going to debut
+
+41
+00:03:47,561 --> 00:03:52,742
+at the end of January. We got only a few answers
+this time. for this question, three of them
+
+42
+00:03:52,762 --> 00:03:57,564
+to be exact. So let's go down our two honorable
+mentions as well as the no prize winner. The
+
+43
+00:03:57,584 --> 00:04:03,367
+first honorable mention goes to Travis Herndon,
+who said. What's up dynamic dudes, Travis here.
+
+44
+00:04:03,387 --> 00:04:08,249
+Shout out to my evil twin. So all in all, this
+trailer looks pretty good. I like the art style.
+
+45
+00:04:08,309 --> 00:04:13,812
+I love the designs. Me, I know a lot of people
+are kind of iffy about the whole race swapping
+
+46
+00:04:14,352 --> 00:04:19,086
+of Norman Osborn, but hey, at least it makes
+the waves make more sense for him now. Now
+
+47
+00:04:19,166 --> 00:04:23,368
+I'm giving it a chance and so far I'm going
+to give it like an 8 out of 10. It gets me
+
+48
+00:04:23,388 --> 00:04:28,590
+hyped. It looks promising and I can't wait to
+see more of it. You're not going to lie. The
+
+49
+00:04:28,830 --> 00:04:34,713
+rows of red and black hair in the comics never
+quite made sense to me for Norman Osborn and
+
+50
+00:04:34,773 --> 00:04:39,835
+Harry Osborn, but interpreting them as cornrows
+is kind of cool. Yeah, I actually like that
+
+51
+00:04:39,855 --> 00:04:43,637
+a lot. I think if you could race band anybody,
+Norman Osborn would be a top contender. I'm
+
+52
+00:04:43,657 --> 00:04:47,580
+really excited to see how that plays out. But
+I'm also excited to see that Travis is fairly
+
+53
+00:04:47,640 --> 00:04:53,405
+excited for the upcoming show because I need
+to kind of latch on to that sort of excitement
+
+54
+00:04:53,465 --> 00:04:58,029
+and see if I could experience it vicariously
+for myself being someone who's not as excited
+
+55
+00:04:58,089 --> 00:05:02,133
+for the friendly neighborhood Spider-Man show.
+Because personally I put myself at maybe like
+
+56
+00:05:02,153 --> 00:05:06,837
+a four and a half or a five? I'd put myself
+probably in that same spot. To me the most
+
+57
+00:05:06,897 --> 00:05:12,602
+exciting thing about this is seeing Peter Parker
+in high school. Like on film... There's always
+
+58
+00:05:12,642 --> 00:05:17,165
+this rush to get him out of high school because
+the actor keeps aging, but with animation,
+
+59
+00:05:17,185 --> 00:05:21,168
+you don't really run into that problem. Yeah,
+that is definitely one of the more beloved
+
+60
+00:05:21,348 --> 00:05:25,471
+iterations of the characters, you know, young
+Peter Parker. Well, great answer, Travis. Let's
+
+61
+00:05:25,491 --> 00:05:31,795
+move on to our next honorable mention, Mason
+Thompson. Who said? What's up? If I had to
+
+62
+00:05:31,815 --> 00:05:39,260
+rate it from one to 10, I would rate it a solid
+4.3 because I do not like the art style. I
+
+63
+00:05:39,280 --> 00:05:46,087
+don't like how it's mixing 3D with Hootie like
+that one wish movie did and I don't like how
+
+64
+00:05:46,127 --> 00:05:50,908
+he has the future foundation suit like you guys
+said. I do like how he has the like the web
+
+65
+00:05:50,948 --> 00:05:56,250
+shooters in a backpack though. I think there
+have been some successful iterations of flat
+
+66
+00:05:56,430 --> 00:06:00,251
+three-dimensional art out there so I don't think
+I would knock your friendly neighborhood Spider-Man
+
+67
+00:06:00,291 --> 00:06:06,713
+for its art style especially since it's evoking
+those early Ditko drawn comics but like Mason
+
+68
+00:06:06,733 --> 00:06:12,570
+Thompson said we both had gripes about the future
+foundation being his first superhero suit that
+
+69
+00:06:12,590 --> 00:06:18,232
+he gets after his homemade one. Although I will
+say, luckily, according to some promo art that
+
+70
+00:06:18,252 --> 00:06:23,773
+was released last week, it does look like Spider-Man
+does get his classic red and blue Spidey outfit
+
+71
+00:06:24,114 --> 00:06:29,015
+by the end of the season. So that news alone
+actually gets me more excited for the show
+
+72
+00:06:29,055 --> 00:06:33,556
+because I guess I'm more of a stickler for Spider-Man's
+look than I ever thought I was. It's one of
+
+73
+00:06:33,576 --> 00:06:37,537
+the reasons why I didn't like the Amazing Spider-Man
+movie. The first one with Andrew Garfield.
+
+74
+00:06:37,922 --> 00:06:42,744
+So the purist in me is happy to see the character
+don that suit. Thanks Mason Thompson for that
+
+75
+00:06:42,784 --> 00:06:49,388
+answer. But the winner of this week's snow prize
+goes to Daniel Alonso. Who said, okay, I definitely
+
+76
+00:06:49,428 --> 00:06:56,772
+agree with Joe. It definitely should have been
+a Tom Holland's origin of Spider-Man. Um, I'm
+
+77
+00:06:56,812 --> 00:07:02,995
+about a three out of 10 on this one. It kind
+of looks like how DC makes shows. So I'm not
+
+78
+00:07:03,015 --> 00:07:08,750
+really too excited, but I'm probably still going
+to check it out. I'm not sure yet. So Jonathan,
+
+79
+00:07:08,790 --> 00:07:13,971
+if you're wondering why he gave Daniel Alonso's
+answer the no prize win, it's because even
+
+80
+00:07:14,011 --> 00:07:20,193
+while he's shitting on a Marvel show, he still
+manages to also shit on DC. And I think that
+
+81
+00:07:20,313 --> 00:07:25,094
+is an admirable skill. I mean, I'm still confused
+as to what he's talking about. Because like,
+
+82
+00:07:25,154 --> 00:07:29,515
+if it's a show that DC would make, it would
+look good and he would be excited about it.
+
+83
+00:07:30,496 --> 00:07:37,197
+I cannot comprehend his answer. What DC show
+is good? Name one. My Adventures with Superman.
+
+84
+00:07:37,566 --> 00:07:43,650
+Wrong. Batman kids crusader, suicide squad isekai,
+Harley Quinn. Actually they're all pretty good.
+
+85
+00:07:43,670 --> 00:07:47,573
+I'm not gonna lie. That's what I thought. DC
+puts out some pretty good animated shows as
+
+86
+00:07:47,613 --> 00:07:52,656
+well. No, I chose it because it's fun to dunk
+on DC whether or not the claim is accurate
+
+87
+00:07:52,696 --> 00:08:01,002
+or not. Oh, okay. You're just jealous. Jealous
+of all of DC's awesome animated shows. Quantity
+
+88
+00:08:01,022 --> 00:08:05,825
+is not quality, my friend. Quality? What quality?
+What if season three? No, I'm talking about
+
+89
+00:08:05,865 --> 00:08:12,842
+like. X-Men 97, okay? Fuck you, Jonathan. Hahaha.
+Moving on, congrats to Daniel Alonso for winning
+
+90
+00:08:12,882 --> 00:08:16,186
+this week's No Prize. If you, the listener,
+want a shot at winning your own No Prize, stay
+
+91
+00:08:16,206 --> 00:08:20,030
+tuned to later on this episode when we'll be
+asking another question of the week. And now
+
+92
+00:08:20,070 --> 00:08:21,993
+that that's done, on to the news.
+
+93
+00:08:27,566 --> 00:08:34,388
+Okay, so during interviews for his film Aquaman
+The Lost Kingdom, Jason Momoa was doing press
+
+94
+00:08:34,468 --> 00:08:40,191
+rounds talking about the upcoming DC Universe,
+saying that he hoped James Gunn, the head of
+
+95
+00:08:40,251 --> 00:08:46,153
+DC Studios, would give him a call regarding
+the role of Lobo. Well, apparently he got the
+
+96
+00:08:46,173 --> 00:08:52,016
+call because he made a social media post announcing
+that he has been cast as Lobo in the upcoming
+
+97
+00:08:52,316 --> 00:09:00,591
+Supergirl Woman of Tomorrow film. It's a role
+he was pretty much born to play considering
+
+98
+00:09:00,611 --> 00:09:05,912
+the fact he looks and acts exactly like the
+character from the comics. Of course, Jason
+
+99
+00:09:05,932 --> 00:09:13,054
+Momoa was Aquaman in the DCEU, a role that I
+actually enjoyed him in, but anyone who says
+
+100
+00:09:13,094 --> 00:09:18,996
+he's not a better Lobo is kind of kidding themselves.
+Well, I mean, he never fit into the Aquaman
+
+101
+00:09:19,116 --> 00:09:24,137
+mold according to what was set in the comic
+books, right? I do think he was an interesting
+
+102
+00:09:24,197 --> 00:09:29,003
+adaptation for film. And I thought it was pretty
+cool how they cast an actor, a Pacific Islander
+
+103
+00:09:29,063 --> 00:09:33,984
+descent to play Aquaman. That totally makes
+sense. But you're right. You look at the dude
+
+104
+00:09:34,384 --> 00:09:39,686
+and he looks exactly like Lobo. As far as I'm
+concerned, this is dream casting. And I think
+
+105
+00:09:39,726 --> 00:09:44,128
+he's totally up for it. Oh yeah, totally. He's
+been talking for years how much he likes the
+
+106
+00:09:44,148 --> 00:09:49,109
+character of Lobo. So it was kind of surprising
+when he was cast as Aquaman. There's a lot
+
+107
+00:09:49,149 --> 00:09:54,515
+of mixed reactions. when the first image of
+him as Aquaman was released by Zack Snyder
+
+108
+00:09:54,535 --> 00:09:58,877
+and it said, like, unite the seven. It was an
+early Justice League promo image. And, yeah,
+
+109
+00:09:58,937 --> 00:10:02,358
+everyone looked at that and I was like, oh,
+look, it's Lobo. I wonder if we're going to
+
+110
+00:10:02,378 --> 00:10:08,801
+get some like Aquaman gags in the Supergirl
+movie on behalf of Jason Momoa. I who are you
+
+111
+00:10:08,821 --> 00:10:13,323
+expecting? Aquaman. Right. Yeah, maybe. Lobo
+is the character where you can kind of get
+
+112
+00:10:13,363 --> 00:10:18,565
+away with breaking the fourth wall, kind of
+like Deadpool in that regard. So it might happen.
+
+113
+00:10:18,785 --> 00:10:24,013
+Who knows? If the character is done right, if
+he's given a good enough part in the Supergirl
+
+114
+00:10:24,053 --> 00:10:29,317
+movie, I could totally see Jason Momoa headlining
+his own Lobo movie in a style of film that's
+
+115
+00:10:29,357 --> 00:10:34,822
+very much in the same vein as Deadpool. Although
+Jason Momoa isn't funny, so he'd have to have
+
+116
+00:10:34,862 --> 00:10:39,525
+good writers. Jason Momoa is funny? What are
+you talking about? He was like partial comic
+
+117
+00:10:39,565 --> 00:10:44,649
+relief in Justice League. Look at the end of
+Peacemaker. Yeah, you're right. You're right.
+
+118
+00:10:44,970 --> 00:10:50,094
+I think he's definitely funny enough and charismatic
+enough to hold his own film or maybe appear
+
+119
+00:10:50,414 --> 00:10:55,278
+like in a Superman movie as a major character.
+For all we know, maybe he makes a cameo in
+
+120
+00:10:55,378 --> 00:10:59,682
+the upcoming Superman movie. I would not be
+surprised if he did. Like in a mid-credit scene
+
+121
+00:10:59,702 --> 00:11:04,986
+or something? Yeah, end-of-credit scene, mid-credit
+scene. Loba has often appeared in animated
+
+122
+00:11:05,066 --> 00:11:10,291
+Superman projects such as Man of Tomorrow and
+the Superman animated series. I think that's
+
+123
+00:11:10,331 --> 00:11:14,542
+actually how a lot of the general public are
+familiar with the character. Of course, the
+
+124
+00:11:14,602 --> 00:11:20,344
+character of Lobo was not in the Supergirl Woman
+of Tomorrow series, although I think he was
+
+125
+00:11:20,404 --> 00:11:25,686
+originally intended to be. I'm not sure what
+role he's going to serve in the upcoming Supergirl
+
+126
+00:11:25,726 --> 00:11:29,848
+film starring Camille Alcock, but I actually
+think the characters of Supergirl and Lobo
+
+127
+00:11:29,888 --> 00:11:34,630
+work pretty well together. So I'm excited for
+this news a lot. Of course, the Supergirl film
+
+128
+00:11:34,650 --> 00:11:39,712
+does not come out until the summer of 2026,
+so, you know, it's still a ways out. But like
+
+129
+00:11:39,752 --> 00:11:44,394
+I said, if we see Lobo maybe in an end credit
+scene, Maybe we'll get an early look at the
+
+130
+00:11:44,414 --> 00:11:50,156
+character before we see him on screen. I'm really
+hoping that audiences aren't too confused when
+
+131
+00:11:50,176 --> 00:11:55,418
+they see Jason Momoa not as Aquaman because
+you know the first Aquaman movies were received
+
+132
+00:11:55,818 --> 00:12:00,859
+fairly decently. I'm not talking about critically
+but just in terms of like box office performance.
+
+133
+00:12:01,139 --> 00:12:05,921
+The first Aquaman movie made over a billion
+dollars and is still DC's highest grossing
+
+134
+00:12:05,981 --> 00:12:10,667
+film of all time I believe. I don't think audiences
+will have too hard of a problem seeing Momoa
+
+135
+00:12:10,727 --> 00:12:14,850
+in the Lobo role considering that he's probably
+going to be in heavy makeup. Right, yeah, like
+
+136
+00:12:14,890 --> 00:12:21,074
+white body paint and red eyes, the works. Hopefully,
+fingers crossed. But speaking of past DCEU
+
+137
+00:12:21,214 --> 00:12:25,677
+actors returning for the DCU, that brings us
+to our question of the week.
+
+138
+00:12:30,238 --> 00:12:37,664
+If you could recast any other DCEU actor in
+a DCEU role, who would it be and why? I'm getting
+
+139
+00:12:37,864 --> 00:12:42,448
+real confused by all these DCE acronyms, man.
+Well, if you're a Marvel fan, so I would expect
+
+140
+00:12:42,528 --> 00:12:47,592
+nothing less. Recording answer at dynamicduel.com
+by clicking on the red microphone button in
+
+141
+00:12:47,632 --> 00:12:51,315
+the bottom right hand corner of the screen,
+which will prompt you to leave us a voicemail.
+
+142
+00:12:51,675 --> 00:12:55,719
+Your message could be up to 30 seconds long.
+And don't forget to leave your name in case
+
+143
+00:12:55,739 --> 00:13:00,762
+we include you on the podcast. We'll pick our
+favorite answer. and award that person a dynamic
+
+144
+00:13:00,802 --> 00:13:06,237
+Duel no prize that will post to Instagram. Be
+sure to answer before January 11th.
+
+145
+00:13:13,486 --> 00:13:17,654
+So that does it for all of the news for this
+episode. Let's go ahead and move on to the
+
+146
+00:13:17,734 --> 00:13:24,889
+main event in which we review the third season
+of Marvel's and Disney Plus's What If series.
+
+147
+00:13:40,014 --> 00:13:45,417
+Alright, What If Season 3 is an animated series
+on Disney+, directed by Brian Andrews and Stephen
+
+148
+00:13:45,437 --> 00:13:51,161
+Frank, written by Matthew Chauncey, and starring
+many familiar names and voices from the live-action
+
+149
+00:13:51,201 --> 00:13:56,124
+Marvel Cinematic Universe. Based on the What
+If comic books, the show explores the multiverse
+
+150
+00:13:56,144 --> 00:14:01,808
+with a series of anthological tales told from
+the perspective of Uwatu the Watcher, who is
+
+151
+00:14:01,848 --> 00:14:06,992
+the cosmic entity that oversees the events happening
+in each episode. Each story is set up with
+
+152
+00:14:07,012 --> 00:14:13,098
+a question of what if that explores how a change
+in the primary MCU timeline would affect continuity,
+
+153
+00:14:13,639 --> 00:14:19,520
+and each episode unfolds the universal effects
+from that change. Season 3 is the final season
+
+154
+00:14:19,620 --> 00:14:24,482
+of this animated series, and over these past
+few years, this show has been hit or miss in
+
+155
+00:14:24,522 --> 00:14:28,403
+regards to the quality of the stories it tells,
+though I would say there have been many more
+
+156
+00:14:28,523 --> 00:14:34,324
+hits than misses. We found that season 1 focused
+more on its overarching narrative of the multiversal
+
+157
+00:14:34,344 --> 00:14:41,495
+guardians to the detriment of its indiviDuel
+stories. focused more on its indiviDuel stories
+
+158
+00:14:41,755 --> 00:14:47,299
+and succeeded more because of that. Season 3
+also focuses more on its indiviDuel stories,
+
+159
+00:14:47,439 --> 00:14:53,403
+saving its greater arc of Uwatu and the Watchers
+for the final episodes. And you'd think that
+
+160
+00:14:53,423 --> 00:14:59,027
+would make it as good as season 2, but unfortunately
+you'd be wrong. With that said, here's your
+
+161
+00:14:59,087 --> 00:15:04,651
+spoiler warning for what if season 3 and probably
+season 1 and 2 as well will be discussing plot
+
+162
+00:15:04,671 --> 00:15:11,154
+points from the entire series and revealing
+fun Definitely better discovered by watching
+
+163
+00:15:11,194 --> 00:15:16,736
+the show and not listening to two nerds talk
+about it. Yeah, honestly, I'm really torn on
+
+164
+00:15:16,796 --> 00:15:23,718
+this season because well, I think some of its
+episodes pose the absolute worst What if scenarios?
+
+165
+00:15:24,198 --> 00:15:31,860
+I also think the closing episodes were incredible.
+Oh for sure Yeah, the season ends with a bang
+
+166
+00:15:32,100 --> 00:15:37,442
+not a whimper. They did a really good job on
+closing out the season in a way that may make
+
+167
+00:15:37,462 --> 00:15:42,465
+you look at season 3 as a whole with rose tinted
+glasses, but we're going to break down each
+
+168
+00:15:42,505 --> 00:15:47,408
+episode piece by piece and figure out what was
+good and what was bad. The showrunner stated
+
+169
+00:15:47,448 --> 00:15:53,011
+that the What If series is ending because the
+MCU's multiversal saga is going to start wrapping
+
+170
+00:15:53,071 --> 00:15:58,614
+up here, but that's not going to happen until
+2027 with the Avengers Secret Wars film. So
+
+171
+00:15:58,674 --> 00:16:03,797
+my big takeaway from season 3 already knowing
+that the show avoided the pitfalls of season
+
+172
+00:16:05,742 --> 00:16:09,423
+20 episodes into the series, for some reason
+it seems like the writers were beginning to
+
+173
+00:16:09,483 --> 00:16:14,545
+run on fumes. All three seasons have had some
+great premises that introduced lasting characters
+
+174
+00:16:14,565 --> 00:16:21,488
+like Captain Carter, Doctor Strange Supreme,
+Nova Prime Nebula, and K'Hori. But season 3
+
+175
+00:16:21,668 --> 00:16:26,110
+overall seemed to lack that same enthusiasm,
+that magic that comes when you ask a simple
+
+176
+00:16:26,150 --> 00:16:31,453
+question that unlocks a universe of wonders.
+That's not to say that season 3 didn't have
+
+177
+00:16:31,553 --> 00:16:36,851
+great ideas like Hulkazilla. or the Western
+Legend of the Ten Rings. It's just that it
+
+178
+00:16:36,871 --> 00:16:41,212
+seemed like there were fewer of them in this
+season. I don't like either of those premises.
+
+179
+00:16:41,293 --> 00:16:50,596
+Hulkzilla, dumb. Western Shang-Chi, dumb. You're
+fucking wrong, bro. What? Those were both fantastic,
+
+180
+00:16:50,956 --> 00:16:55,738
+and I'm gonna slap the shit out of you next
+time I see you. I freaking fell asleep for
+
+181
+00:16:55,778 --> 00:17:00,280
+the Shang-Chi one, absolutely. That was one
+of the better episodes this season, and history
+
+182
+00:17:00,300 --> 00:17:05,138
+will judge you harshly. Okay, fine, come at
+me, bro. Come at me, history. Okay, all right.
+
+183
+00:17:05,158 --> 00:17:11,562
+Just wait. Next time I see you on the street.
+Overall, I'd say that out of the nine episodes
+
+184
+00:17:11,602 --> 00:17:17,085
+in season one, I enjoyed about six of them.
+And for season two's nine episodes, I enjoyed
+
+185
+00:17:17,165 --> 00:17:20,807
+actually eight of them. There was only one episode
+that I didn't really like out of season two.
+
+186
+00:17:21,388 --> 00:17:27,451
+And for this season, out of the eight episodes,
+I'd say I only enjoyed about five of the stories.
+
+187
+00:17:28,092 --> 00:17:33,738
+So like totaling it all up, 19 out of 25. is
+not too bad for the series overall, which is
+
+188
+00:17:33,778 --> 00:17:38,360
+why I said the show has more hits than misses.
+And I gotta say, despite that track record,
+
+189
+00:17:38,861 --> 00:17:43,162
+I'm gonna miss What If? I'm really sad that
+the series is ending because even when the
+
+190
+00:17:43,202 --> 00:17:48,785
+episodes weren't firing, the show still always
+had the potential to be jaw-dropping amazing.
+
+191
+00:17:48,845 --> 00:17:53,326
+And I think that was the best thing about it.
+Yeah, the question of What If? and the premise
+
+192
+00:17:53,366 --> 00:17:59,789
+of What If? is 100% all about potential. I just
+think that they never really asked more interesting
+
+193
+00:17:59,849 --> 00:18:07,357
+questions. Like Howard the Duck and Darcy having
+an egg? Who cares? It was nice to get Howard
+
+194
+00:18:07,397 --> 00:18:10,319
+the Duck content out there. This is the most
+that we ever got of the character. But we'll
+
+195
+00:18:10,359 --> 00:18:15,503
+break down that episode once we get to our story
+breakdown. But specifically regarding season
+
+196
+00:18:15,543 --> 00:18:21,466
+three, I do appreciate that the writers ventured
+further outside the world of the original Avengers
+
+197
+00:18:21,586 --> 00:18:26,629
+to include newer characters because the main
+detriment to the MCU as a whole currently.
+
+198
+00:18:27,206 --> 00:18:31,848
+is that it's less cohesive than it's ever been.
+You know, throughout the entire Infinity Saga,
+
+199
+00:18:31,908 --> 00:18:36,571
+it was easy to keep track of everything and
+everything felt more intertwined. Whereas nowadays,
+
+200
+00:18:36,591 --> 00:18:41,354
+there are so many random projects and nothing
+is really connected. And it's so disparate
+
+201
+00:18:41,374 --> 00:18:46,117
+that it's hard for people to stay on top of
+everything. Right. Yeah, absolutely. Like the
+
+202
+00:18:46,157 --> 00:18:51,920
+ten rings from Shang-Chi that cliffhanger has
+not tied into, you know, Atlantis, which is
+
+203
+00:18:51,980 --> 00:18:57,167
+not tied into the Eternals. which is not tied
+into, you know, secret invasion and the scrolls
+
+204
+00:18:57,187 --> 00:19:01,109
+and everything like that. Right, right. It's
+like, what am I supposed to be following here?
+
+205
+00:19:01,689 --> 00:19:06,691
+Exactly. Yeah. You know, a lot of the Phase
+Four and Five characters have yet to be revisited.
+
+206
+00:19:07,132 --> 00:19:13,515
+So it was really nice to hear from those actors
+like Simu Liu, who plays Shang-Chi, Oscar Isaac,
+
+207
+00:19:13,655 --> 00:19:19,397
+who plays Moon Knight, and Kamel Najiani, who
+plays Kingo from The Eternals, and Tionna Paris.
+
+208
+00:19:20,146 --> 00:19:24,848
+It was really nice to get this next generation
+of Marvel characters and actors in the mix.
+
+209
+00:19:25,008 --> 00:19:29,431
+Yeah, if anything, just to remind audiences
+that they exist, just in case you forgot about
+
+210
+00:19:29,471 --> 00:19:33,713
+them, which one will be in the Avengers? Who
+knows? Find out, keep watching. If there's
+
+211
+00:19:33,773 --> 00:19:38,356
+one thing about this season that I actually
+really liked over past seasons, and I thought
+
+212
+00:19:38,376 --> 00:19:43,719
+was an improvement, was the animation style.
+Now I know it's largely the same as what we've
+
+213
+00:19:43,739 --> 00:19:48,722
+had before, but there were moments in this season,
+particularly towards the end, where they were
+
+214
+00:19:48,802 --> 00:19:54,326
+able to use lighting in a way that they haven't
+done before. And I thought it went a long way
+
+215
+00:19:54,366 --> 00:19:59,189
+in showing actually just how interesting this
+animation style is. For sure. Yes, cinematography
+
+216
+00:19:59,229 --> 00:20:04,953
+is a term that's largely applied to live action
+content, but it also applies to animation as
+
+217
+00:20:05,033 --> 00:20:10,697
+well. I think that's easy to overlook. But the
+cinematography of this show, episode to episode,
+
+218
+00:20:10,938 --> 00:20:16,001
+is spellbinding. Everything looks so gorgeous,
+which is no surprise because the show is produced
+
+219
+00:20:16,041 --> 00:20:21,103
+by Marvel who is owned by Disney who produces
+some of the greatest animated content the world
+
+220
+00:20:21,123 --> 00:20:27,926
+has ever known. But to review what if overall
+is really difficult because each story in itself
+
+221
+00:20:28,306 --> 00:20:33,529
+is its own tale. So let's go ahead and get into
+our episode breakdown. Episode 1 was called
+
+222
+00:20:33,849 --> 00:20:40,671
+What If The Hulk Fought The Mech Avengers? It
+stars Anthony Mackie as Sam Wilson, Mark Ruffalo
+
+223
+00:20:40,732 --> 00:20:42,752
+as Bruce Banner, Teona Paris as Monica
+
+224
+00:20:45,858 --> 00:20:52,663
+David Harbor as Alexei Shostakov, Simu Liu as
+Shang-Chi, and Oscar Isaac as Mark Spector.
+
+225
+00:20:53,124 --> 00:20:58,208
+In the episode, Bruce Banner becomes friends
+with Sam Wilson, who counsels him in his trauma
+
+226
+00:20:58,248 --> 00:21:02,772
+support group. An accidental Hulk transformation
+leads to Banner trying to separate the Hulk
+
+227
+00:21:02,812 --> 00:21:08,397
+from himself using gamma radiation. However,
+the experiment manifests a powerful radioactive
+
+228
+00:21:08,457 --> 00:21:14,814
+monster called Apex that is capable of growing
+in size and spawning kaiju monsters. Tony Stark
+
+229
+00:21:14,854 --> 00:21:19,756
+develops mecha-sized Hulkbuster suits for the
+Avengers, and though the original team falls
+
+230
+00:21:19,776 --> 00:21:25,298
+to the Kaiju in battle, the surviving heroes
+win the Gamma War. However, ten years later,
+
+231
+00:21:25,458 --> 00:21:31,141
+the beasts return, prompting Sam Wilson as Captain
+America and Photon to investigate the radioactive
+
+232
+00:21:31,181 --> 00:21:37,063
+anomaly in the Arctic. There they find the Apex
+still alive and leading a massive Kaiju army.
+
+233
+00:21:37,463 --> 00:21:41,345
+Photon and Winter Soldier learn the location
+of Bruce Banner, believing he's the key to
+
+234
+00:21:41,385 --> 00:21:46,337
+stopping the Kaiju. Captain America visits him
+in the Astra Islands to convince him to join
+
+235
+00:21:46,377 --> 00:21:51,401
+the fight. Banner refuses, but provides Sam
+with a plugin he wrote for the mech suit's
+
+236
+00:21:51,461 --> 00:21:56,786
+interface called the Mighty Avenger Protocol
+that will allow the Avengers to combine their
+
+237
+00:21:56,866 --> 00:22:02,071
+strength. The merger proves effective in defeating
+many of the kaiju, but the apex still proves
+
+238
+00:22:02,091 --> 00:22:06,995
+to be too strong for them. Banner arrives on
+the scene with a nuclear gamma bomb that he
+
+239
+00:22:07,075 --> 00:22:12,877
+detonates. The Hulk absorbs the full blast.
+permanently transforming him into Mega Hulk,
+
+240
+00:22:13,117 --> 00:22:18,563
+who uses his gamma breath to disintegrate the
+apex monster. Mega Hulk acknowledges his friend
+
+241
+00:22:18,603 --> 00:22:23,569
+Sam, proving that Banner's mind is still somewhere
+inside the creature, and he leads the remaining
+
+242
+00:22:23,589 --> 00:22:29,977
+Kaiju into the sea, to the Astra Islands. I
+heard you diss on this episode a few minutes
+
+243
+00:22:30,017 --> 00:22:35,153
+ago. And I'm here to reiterate that you are
+wrong. I thought this was a fantastic homage
+
+244
+00:22:35,273 --> 00:22:40,978
+to the Godzilla stories and mecha stories like
+Gundam, Evangelion and Pacific Rim. To me,
+
+245
+00:22:41,018 --> 00:22:46,043
+the whole thing felt very gimmicky. It was like
+Power Rangers meets Godzilla, which sounds
+
+246
+00:22:46,123 --> 00:22:51,568
+cool. But the whole time, I was just wondering
+how the hell was this Apex Hulk created? Like,
+
+247
+00:22:51,588 --> 00:22:57,253
+why is it a separate being from Bruce Banner's
+Hulk? It was Bruce's attempt to separate himself
+
+248
+00:22:57,413 --> 00:23:02,435
+from the Hulk, but We don't know how gamma radiation
+works. You know, it created the Hulk. I think
+
+249
+00:23:02,455 --> 00:23:07,416
+it's entirely plausible that instead of separating
+the two beings, it would separate another yet
+
+250
+00:23:07,616 --> 00:23:12,217
+more monstrous creature. I really liked the
+great camera work in this episode, especially
+
+251
+00:23:12,237 --> 00:23:16,239
+like that split screen style that they would
+do that made the show feel like Voltron or
+
+252
+00:23:16,399 --> 00:23:21,420
+Power Rangers. That was a lot of fun. And it
+really served to highlight the cool wide cast
+
+253
+00:23:21,460 --> 00:23:24,321
+of characters that they got for this episode.
+You know, I mentioned before it was really
+
+254
+00:23:24,361 --> 00:23:28,163
+cool to see people like Oscar Isaac back in
+the role. you know, despite how small that
+
+255
+00:23:28,203 --> 00:23:33,126
+role may be for this episode. What'd you think
+of this Avengers lineup? Like is this the new
+
+256
+00:23:33,166 --> 00:23:37,549
+official lineup that you would like to see on
+the silver screen? No, but I thought it was
+
+257
+00:23:37,589 --> 00:23:41,832
+a great representation of international characters,
+you know, really taking that global approach.
+
+258
+00:23:42,252 --> 00:23:47,796
+You had Nakia from Wakanda. You had the Red
+Guardian and Malia Vostokov from Russia. You
+
+259
+00:23:47,816 --> 00:23:52,740
+had Moon Knight who was in this very like Egyptian
+type armor. You had Shang-Chi representing
+
+260
+00:23:52,820 --> 00:23:57,058
+Southeast Asia. It was pretty fascinating stuff.
+I thought that was all really cool to get that
+
+261
+00:23:57,078 --> 00:24:01,481
+international feel. I guess in that regard,
+it was more like Pacific Rim than anything
+
+262
+00:24:01,541 --> 00:24:07,224
+else. Exactly. I liked the lineup. I'd actually
+be really happy if this was the Avengers lineup
+
+263
+00:24:07,244 --> 00:24:12,287
+going forward, but maybe replace Nikiya with
+Shuri's Black Panther. That'd be dope. Yeah,
+
+264
+00:24:12,307 --> 00:24:16,569
+and maybe toss in Namor or something like that
+in there. Have a Talokhan-style suit of armor
+
+265
+00:24:16,609 --> 00:24:21,552
+made out of vibranium. Hell yeah! I'm still
+really offended that you didn't like this episode.
+
+266
+00:24:22,072 --> 00:24:26,906
+I don't think you've given a good enough reason
+to not like it. I mean, seeing Hulk turn into
+
+267
+00:24:26,926 --> 00:24:32,368
+Godzilla and then using that gamma breath to
+melt the apex, I thought was fantastic. It
+
+268
+00:24:32,408 --> 00:24:37,449
+was such a good homage. I don't even know if
+I have a good reason for why I didn't like
+
+269
+00:24:37,469 --> 00:24:41,690
+it. I just remember watching the shows. Well
+then shut the hell up. Okay? I think I was
+
+270
+00:24:41,710 --> 00:24:46,552
+just upset that I had to watch another season
+of What If? And I was like, ugh, okay. Maybe
+
+271
+00:24:46,592 --> 00:24:50,153
+try to step up as a critic then, you know? Just
+because you have to watch a show doesn't mean
+
+272
+00:24:50,173 --> 00:24:53,990
+that you should go in hating it. Okay? This
+was a great premise. I thought it was one of
+
+273
+00:24:54,010 --> 00:24:59,352
+the better executed what if premises that the
+series has ever done actually. You might be
+
+274
+00:24:59,412 --> 00:25:04,114
+right. Maybe I'll rewatch this episode specifically
+and I'll completely change my mind. Because
+
+275
+00:25:04,214 --> 00:25:07,956
+on paper actually it does sound interesting.
+Yeah, I think you need to do that. And also
+
+276
+00:25:08,016 --> 00:25:11,257
+slap yourself on behalf of everybody else out
+there who is listening to this and wish you
+
+277
+00:25:11,277 --> 00:25:16,360
+would. I don't know about slapping myself, but
+I'll watch it. Let's go ahead and move on to
+
+278
+00:25:16,460 --> 00:25:22,786
+episode 2, which is called What If Agatha Went
+to Hollywood? It stars Catherine Hahn as Agatha
+
+279
+00:25:22,827 --> 00:25:28,470
+Harkness, Kumail Nanjiani as Kingo, Dominic
+Cooper as Howard Stark, and James Darcy as
+
+280
+00:25:28,550 --> 00:25:34,193
+Edwin Jarvis. The story of the episode is, in
+her quest for power, Agatha Harkness learns
+
+281
+00:25:34,273 --> 00:25:39,956
+of the celestial Tiamat growing in the Earth's
+core and plans to siphon its power. During
+
+282
+00:25:39,996 --> 00:25:44,539
+the Golden Age of Hollywood, she becomes an
+actress who convinces her director Howard Stark
+
+283
+00:25:44,919 --> 00:25:50,902
+to add star power to the motion picture by hiring
+the famous Bollywood actor Kingo. of the Eternals.
+
+284
+00:25:51,383 --> 00:25:57,227
+Kingo arrives at the set in Hollywood and performs
+a large dance number with Agatha. He reveals
+
+285
+00:25:57,268 --> 00:26:01,731
+during their scene that he knows about her plan
+to harness celestial power and attacks her.
+
+286
+00:26:02,252 --> 00:26:07,156
+Agatha defends herself using the other Eternals
+powers, revealing that she has already siphoned
+
+287
+00:26:07,216 --> 00:26:12,840
+those abilities and that Kingo is last on her
+list. She convinces him of her heroic intent
+
+288
+00:26:12,961 --> 00:26:19,590
+and his own humanist tendencies, getting him
+to agree to transfer his power to her. Arishem
+
+289
+00:26:19,630 --> 00:26:24,352
+signals his arrival to Earth and Agatha and
+Kingo get Stark to shoot the finale at the
+
+290
+00:26:24,372 --> 00:26:30,296
+Griffith Observatory where they perform the
+ritual. Agatha absorbs Tiamat's power and becomes
+
+291
+00:26:30,356 --> 00:26:36,839
+a celestial as Arishem arrives and the two fight.
+She uses magic to restrain Arishem and defeats
+
+292
+00:26:36,879 --> 00:26:41,922
+him, absorbing his power as well. Agatha then
+reveals her deception, that she was seeking
+
+293
+00:26:41,962 --> 00:26:46,665
+power all along and not to save the world. But
+Kingo convinces her that she could bring about
+
+294
+00:26:46,725 --> 00:26:52,273
+more change as an actress. than as a celestial.
+Agatha relinquishes her power, and she and
+
+295
+00:26:52,293 --> 00:26:57,978
+Kingo attend the world premiere of their movie
+Cosmic Queen as more celestials arrive on Earth.
+
+296
+00:26:58,298 --> 00:27:04,884
+This episode fucking sucked, man. As beautiful
+as it looked and as well as it evoked the golden
+
+297
+00:27:05,004 --> 00:27:11,770
+age of Hollywood with fantastic art deco style,
+I really hated the story. Yeah, the whole story
+
+298
+00:27:11,810 --> 00:27:15,893
+kind of felt like it was two concepts merged
+into one. I feel like writers were like...
+
+299
+00:27:16,126 --> 00:27:20,587
+Oh, I really want to do like a Kingo Bollywood
+dance episode. And now the writers were like,
+
+300
+00:27:20,867 --> 00:27:26,288
+oh, what if Agatha absorbed the power of a celestial?
+And at the end, they were just like, oh, fuck
+
+301
+00:27:26,308 --> 00:27:32,970
+it, combine them. Yeah, I'm not entirely sure
+that the worlds of Agatha's witchcraft and
+
+302
+00:27:32,990 --> 00:27:37,912
+the Eternals really vibed as well as they thought
+it would. But the biggest problem I have with
+
+303
+00:27:37,932 --> 00:27:43,113
+the episode was when Kingo convinced Agatha
+to relinquish the power of the celestials,
+
+304
+00:27:43,133 --> 00:27:47,476
+because I don't think that was in character.
+for Agatha. I think Agatha is and always has
+
+305
+00:27:47,536 --> 00:27:53,761
+been someone who seeks out and craves ultimate
+power. And I think during that turn, Kingo
+
+306
+00:27:53,801 --> 00:27:58,866
+forgot the simple fact that Agatha is not actually
+an actress. You know, she came to Hollywood
+
+307
+00:27:58,906 --> 00:28:04,771
+as part of her ruse. So for Kingo to convince
+Agatha that they were the same, you know, insecure
+
+308
+00:28:04,851 --> 00:28:08,974
+actors looking to show the world they were big
+and that she didn't need her celestial power
+
+309
+00:28:09,115 --> 00:28:14,418
+and that she only needed to be famous, like
+that was such a weird self-absorbed perspective,
+
+310
+00:28:14,898 --> 00:28:20,100
+as if being an actor was the most important
+thing a person could become, like more important
+
+311
+00:28:20,140 --> 00:28:26,361
+than a world creating life-generating celestial.
+Like the narcissism to that idea was astounding
+
+312
+00:28:26,401 --> 00:28:31,923
+to me. Yeah, only Hollywood could have come
+up with something as ridiculous as stardom
+
+313
+00:28:32,063 --> 00:28:38,105
+being something greater than a god. Exactly,
+which is weird because it's not like this episode
+
+314
+00:28:38,145 --> 00:28:42,386
+was written by actors, but it certainly felt
+like it. was. And in that regard, yeah, the
+
+315
+00:28:42,406 --> 00:28:47,809
+episode just felt too self-serving. And, you
+know, like if you want to give an homage to
+
+316
+00:28:47,969 --> 00:28:53,011
+classic Hollywood, you got to look at WandaVision.
+I think that show did it way better than this
+
+317
+00:28:53,051 --> 00:28:59,234
+episode of What If did. That said, I do think
+the episode was aware of how ridiculous it
+
+318
+00:28:59,274 --> 00:29:03,536
+was being. Sure, yeah, it was meta in that regard,
+but that doesn't do anything for me. Like you
+
+319
+00:29:03,556 --> 00:29:09,830
+look at Kingo too, you know, Kingo was convinced
+to betray Arasham. because Agatha promised
+
+320
+00:29:09,870 --> 00:29:15,553
+him a three-picture deal. It kind of makes the
+character of Kingo pretty petty. Yeah, I guess
+
+321
+00:29:15,593 --> 00:29:19,835
+if we're gonna talk about things I liked about
+the episode in addition to the visual style,
+
+322
+00:29:19,935 --> 00:29:24,877
+I also did like Howard Stark in the episode
+because like he's often seen as a parallel
+
+323
+00:29:24,937 --> 00:29:29,900
+to Howard Hughes, but in this episode, he seemed
+more like an Orson Welles type. I thought that
+
+324
+00:29:29,920 --> 00:29:34,738
+was pretty clever. Yeah, it was like Orson Welles
+or maybe even like Walt Disney. I did think
+
+325
+00:29:34,778 --> 00:29:39,561
+that Dominic Cooper gave a great voice performance
+as like a classic Hollywood director type.
+
+326
+00:29:39,801 --> 00:29:43,644
+Oh yeah, he does that old timey voice really
+well, which we saw in Captain America, the
+
+327
+00:29:43,684 --> 00:29:47,727
+first Avenger. I forgot that I'm rating each
+of these episodes as we're talking about them.
+
+328
+00:29:48,728 --> 00:29:53,571
+I would rate episode two, what if Agatha went
+to Hollywood, two and a half out of five stars.
+
+329
+00:29:53,751 --> 00:29:57,574
+Didn't really like it, but I would rate the
+first episode, what if Hulk fought the Mech
+
+330
+00:29:57,594 --> 00:30:02,017
+Avengers four out of five. I don't even want
+to give my ratings now because I feel like
+
+331
+00:30:02,117 --> 00:30:06,479
+my- rating for the first one is probably going
+to be very different from yours. But yeah,
+
+332
+00:30:06,499 --> 00:30:11,761
+I would agree with episode two's rating. Episode
+three was called What If the Red Guardian Stopped
+
+333
+00:30:11,801 --> 00:30:18,224
+the Winter Soldier? It stars David Harbour as
+Alexei Shostakov, Sebastian Stan as Bucky Barnes,
+
+334
+00:30:18,724 --> 00:30:24,466
+Laurence Fishburne as Bill Foster, and America
+Ferrera as Ranger Alessandre Morales. Wait,
+
+335
+00:30:24,646 --> 00:30:33,663
+what? Really? Yeah. Why? I don't know. In the
+episode In Early Nineties Russia, Alexei Shostakov,
+
+336
+00:30:33,743 --> 00:30:38,727
+the Red Guardian, ignores his orders from the
+Red Room to become a sleeper agent in Ohio
+
+337
+00:30:38,847 --> 00:30:43,852
+with the young Natasha Romanoff. Instead, he
+shadows the Winter Soldier on his mission to
+
+338
+00:30:43,912 --> 00:30:49,597
+acquire Howard Stark's newly created Super Soldier
+Serum in New York. Alexei prevents Bucky from
+
+339
+00:30:49,637 --> 00:30:53,961
+killing the Starks, and the two fight. When
+the police and S.H.I.E.L.D. arrive on the scene,
+
+340
+00:30:54,121 --> 00:30:58,084
+the two flee and receive notice from the Red
+Room that due to their failure, they are on
+
+341
+00:30:58,104 --> 00:31:03,227
+their own for extraction. Shield agent Bill
+Foster investigates the scene and stops Alexi
+
+342
+00:31:03,247 --> 00:31:08,849
+and Bucky at a traffic stop while on their way
+to Las Vegas. Bill Foster gives chase, turning
+
+343
+00:31:08,909 --> 00:31:14,272
+into Goliath, but the pair drive their car off
+a cliff to escape. Alexi and Bucky survive
+
+344
+00:31:14,312 --> 00:31:18,633
+and mend their wounds by breaking into a veterinary
+hospital where Alexi tries to get Bucky to
+
+345
+00:31:18,673 --> 00:31:23,755
+remember his past. The pair arrives in Vegas
+where they meet with a Rook, an American informant
+
+346
+00:31:23,775 --> 00:31:28,617
+who leaked the Super Soldier Serum's existence
+to Russia, who turns out to be Obadiah Stane.
+
+347
+00:31:29,066 --> 00:31:33,489
+Alexei is saddened to learn that the Rook is
+a capitalist, and Obadiah attempts to shoot
+
+348
+00:31:33,509 --> 00:31:37,993
+them before Bucky knocks him out the window
+of his penthouse hotel room. Goliath and S.H.I.E.L.D.
+
+349
+00:31:38,233 --> 00:31:43,277
+arrive on the scene and chase Alexei and Bucky
+to a construction site. There, Hydra handler
+
+350
+00:31:43,337 --> 00:31:48,521
+Vasiliy Karpov tries to get the Winter Soldier
+back under control, but S.H.I.E.L.D., Alexei,
+
+351
+00:31:48,561 --> 00:31:53,325
+and Bucky team up to take him out. Ultimately,
+the Winter Soldier is captured and taken back
+
+352
+00:31:53,365 --> 00:31:58,308
+to the Red Room. but Alexei defects and retires
+as a gym teacher before Bill Foster recruits
+
+353
+00:31:58,349 --> 00:32:04,793
+him into SHIELD and he becomes a member of the
+original Avengers. Now on paper, I don't think
+
+354
+00:32:04,833 --> 00:32:12,379
+that episode sounded too bad, but in execution,
+the Red Guardian was so fucking dumb that this
+
+355
+00:32:12,499 --> 00:32:17,322
+episode was really hard to get through. He was
+kind of like a Soviet flag waving communist
+
+356
+00:32:17,362 --> 00:32:22,774
+poster boy but with the IQ of a kindergartener.
+It was bad. Yeah, his whole shtick got. real
+
+357
+00:32:22,934 --> 00:32:27,955
+old, real quick. From his opening scene with
+Drakov in the red room, like the way he's yelling
+
+358
+00:32:28,015 --> 00:32:32,716
+at him, like he's not acting like a real character,
+he's acting like a cartoon character. And yes,
+
+359
+00:32:32,816 --> 00:32:37,298
+I understand that this is a cartoon. And yes,
+the character is still a little bit goofy in
+
+360
+00:32:37,318 --> 00:32:42,279
+live action, but not to this extent. They went
+way over the top here in a way that made me
+
+361
+00:32:42,419 --> 00:32:47,360
+kind of hate the episode. Like every line out
+of David Harbour's mouth, like smash the capitalist
+
+362
+00:32:47,400 --> 00:32:53,490
+pigs and like you gotta seize the means of production
+and it just, it didn't work. I don't understand
+
+363
+00:32:53,590 --> 00:32:58,473
+why the Red Guardian didn't want Bucky to kill
+the Starks. I'm guessing it's because he fancied
+
+364
+00:32:58,513 --> 00:33:03,596
+himself a hero who doesn't kill, but that doesn't
+seem quite in keeping with the character that
+
+365
+00:33:03,676 --> 00:33:08,999
+I know from live action. At least Bucky Barnes
+as the Winter Soldier was solid. I gotta say
+
+366
+00:33:09,139 --> 00:33:14,682
+that Sebastian Stan's voice performance in season
+3 far and away was better than his appearances
+
+367
+00:33:14,722 --> 00:33:17,743
+in season 1. He's really grown as a voice actor.
+
+368
+00:33:22,066 --> 00:33:28,347
+evoked classic films like Party Thor was a riff
+on risky business. You had Nebula joining the
+
+369
+00:33:28,387 --> 00:33:33,669
+Nova Corps as a kind of tribute to Blade Runner.
+Yeah, that was cool. They even parody Die Hard
+
+370
+00:33:33,769 --> 00:33:37,730
+with the Christmas episode from season two that
+I thought was really good. That's right. Here
+
+371
+00:33:37,830 --> 00:33:43,072
+it seemed like they were trying to pay homage
+to Thelma and Louise evading the police and,
+
+372
+00:33:43,132 --> 00:33:47,533
+you know, driving their car off of a cliff and
+everything like that. But god, this was just
+
+373
+00:33:47,613 --> 00:33:52,139
+such a piss poor tribute to that movie. If I
+have to say a good thing about the episode,
+
+374
+00:33:52,459 --> 00:33:57,503
+I did think it was neat that the Russian intelligence
+regarding Bucky's mission came from Obadiah
+
+375
+00:33:57,523 --> 00:34:02,147
+Stane. I do think that it makes sense that he
+would be the one to have Howard killed considering,
+
+376
+00:34:02,507 --> 00:34:07,451
+you know, he tried to kill Tony Stark in Iron
+Man 1 in a similarly underhanded way. I like
+
+377
+00:34:07,471 --> 00:34:13,455
+to think of Obadiah Stane as the Rook as like
+main MCU sacred timeline canon, because we
+
+378
+00:34:13,495 --> 00:34:18,894
+never really know where Hydra got that intel
+from. that Howard Stark had recreated the Super
+
+379
+00:34:18,934 --> 00:34:22,755
+Soldier Serum, I totally think it makes sense
+that Obadiah Stane would have sold him out.
+
+380
+00:34:23,175 --> 00:34:27,717
+Yeah, I liked that too. I didn't even realize
+initially that was Obadiah Stane. It took me
+
+381
+00:34:27,737 --> 00:34:32,178
+a while, but once I did, I was like, oh yeah,
+that's awesome. There's one character in this
+
+382
+00:34:32,218 --> 00:34:36,739
+episode who worked with Bill Foster. They called
+her Ranger Morales. She's actually a character
+
+383
+00:34:36,859 --> 00:34:41,460
+from the comic books named Alessandre Morales,
+who was a SHIELD agent. I don't know why they
+
+384
+00:34:41,620 --> 00:34:45,301
+adapted her as a Ranger in this episode, but
+I thought that was at least a cool Easter egg.
+
+385
+00:34:46,046 --> 00:34:50,407
+I don't understand why they cast America for
+her to voice her. I wonder if that signals
+
+386
+00:34:50,447 --> 00:34:54,309
+that she'll be playing the role in live action
+as well. Yeah, maybe she'll be playing a shield
+
+387
+00:34:54,369 --> 00:35:00,351
+agent in the future in the MCU. That'd be pretty
+cool. I give episode three two out of five
+
+388
+00:35:00,391 --> 00:35:05,072
+stars. It was actually one of my least favorite.
+What if episodes that they produced? Oh, wow.
+
+389
+00:35:05,152 --> 00:35:09,166
+That's lower than I would have given. I think
+I would have given it like. two and a half,
+
+390
+00:35:09,287 --> 00:35:13,310
+maybe just a half star higher. Why would you
+give it a 2.5? You fucking hate bathos more
+
+391
+00:35:13,330 --> 00:35:17,654
+than I do. And yet this entire episode was the
+definition of that. Doesn't make any sense.
+
+392
+00:35:17,734 --> 00:35:22,178
+That's true, I don't know. Let's go to move
+on to episode four, which was called What If
+
+393
+00:35:22,298 --> 00:35:28,443
+Howard the Duck Got Hitched. It stars Kat Dennings
+as Darcy Lewis, Seth Green as Howard the Duck,
+
+394
+00:35:28,823 --> 00:35:34,368
+Samuel L. Jackson as Nick Fury, Tom Hiddleston
+as Loki, Clark Gregg as Phil Coulson, Michael
+
+395
+00:35:34,408 --> 00:35:41,737
+Rooker as Yondu Udanta, and Josh Brolin as Thanos.
+This episode is a sequel to the What If Thor
+
+396
+00:35:41,757 --> 00:35:47,139
+Were an Only Child episode from season 1. In
+it, Darcy and Howard the Duck meet after one
+
+397
+00:35:47,180 --> 00:35:52,162
+of Party Thor's celebrations in Las Vegas and
+they go out for nachos, falling in love and
+
+398
+00:35:52,202 --> 00:35:57,065
+getting hitched. They have a baby egg raising
+it in their New York apartment where they're
+
+399
+00:35:57,105 --> 00:36:02,268
+served an invitation to one of the Grandmasters
+intergalactic cruises. There, the egg is taken
+
+400
+00:36:02,288 --> 00:36:07,262
+for childcare while Howard and Darcy are invited
+to brunch. Upon realizing that their child
+
+401
+00:36:07,303 --> 00:36:12,987
+is going to be served as brunch, Yondu the Ravager
+crashes the scene, stealing the egg to take
+
+402
+00:36:13,007 --> 00:36:18,491
+it to the Collector on nowhere. Howard and Darcy
+steal a ship and en route contact Nick Fury
+
+403
+00:36:18,531 --> 00:36:24,415
+of SHIELD for help. On nowhere, Yondu meets
+the sorcerer Kyselius, who zealots captured
+
+404
+00:36:24,455 --> 00:36:28,838
+the Collector in order to get the egg. Yondu
+reveals that other parties expressed interest
+
+405
+00:36:28,878 --> 00:36:34,250
+in the egg, including the Dark Elves and Zeus,
+but Kyselius incapacitates him. Howard and
+
+406
+00:36:34,270 --> 00:36:39,593
+Darcy infiltrate a dark ritual trying to use
+the egg to birth Dormammu. However, S.H.I.E.L.D.
+
+407
+00:36:39,953 --> 00:36:45,116
+intervenes and acquires the egg, losing it in
+the ensuing chaos, allowing Howard and Darcy
+
+408
+00:36:45,156 --> 00:36:51,059
+to escape with their egg and hide out on Jotunheim.
+Loki is eager to help, but King Loffi wants
+
+409
+00:36:51,099 --> 00:36:56,642
+to use the egg as a weapon. The frost giants,
+S.H.I.E.L.D., the Olympians, the dark elves,
+
+410
+00:36:57,003 --> 00:37:02,634
+the zealots, and Thanos' black order all converge
+on the scene, all fighting for the egg. Amidst
+
+411
+00:37:02,654 --> 00:37:07,338
+the chaos, the egg radiates a cosmic energy
+that incapacitates everyone but Howard and
+
+412
+00:37:07,378 --> 00:37:13,963
+Darcy and hatches, revealing a baby human-avian
+hybrid that they name Bertie. They take Bertie
+
+413
+00:37:13,983 --> 00:37:19,327
+back home and put her to bed. Now let's address
+the elephant in the room here with this episode.
+
+414
+00:37:19,808 --> 00:37:26,133
+In that a woman and a humanoid duck had a baby.
+You know, Howard the Duck has had romantic
+
+415
+00:37:26,193 --> 00:37:30,797
+tension with human women like Beverly Switzler,
+who was in the comics and even in the Howard
+
+416
+00:37:30,877 --> 00:37:36,627
+the Duck movie. His stories have always tiptoed
+that line without ever explicitly venturing
+
+417
+00:37:36,707 --> 00:37:42,068
+into human animal relations territory. And I
+don't know if it's just my mind, or maybe it's
+
+418
+00:37:42,088 --> 00:37:46,950
+just the paradigm shift of seeing Howard as
+a dad, but like I had trouble getting over
+
+419
+00:37:46,990 --> 00:37:52,551
+the idea of Darcy banging Howard. Like I just
+kept wondering, how would that even work? Am
+
+420
+00:37:52,631 --> 00:37:56,292
+I the only one? No, absolutely. I was thinking
+the whole time I was watching this episode,
+
+421
+00:37:56,312 --> 00:38:02,542
+like really they decided to base an entire episode.
+of Howard the Duck's implied coupling with
+
+422
+00:38:02,582 --> 00:38:07,844
+Leah Thompson in his movie. That's ridiculous.
+Yeah, I mean, it was also implied in the comic
+
+423
+00:38:07,884 --> 00:38:13,605
+book, so it wasn't just in the movie. But it
+raises questions. Ducks have corkscrew-shaped
+
+424
+00:38:13,645 --> 00:38:19,707
+dongs, right? And Darcy was in labor and she
+gave birth to this egg, like the size of the
+
+425
+00:38:19,867 --> 00:38:24,528
+egg would have just left her whole downstairs
+totally demolished. So I'm thinking it had
+
+426
+00:38:24,568 --> 00:38:32,191
+to be a Caesarian birth at least, you know?
+And I came to the following conclusion. The
+
+427
+00:38:32,211 --> 00:38:38,333
+Howard the Duck movie taught us that females
+on Duckworld have human-like chests, right?
+
+428
+00:38:38,734 --> 00:38:45,157
+Like they totally show duck boobs in that movie
+even though ducks aren't mammals and they wouldn't
+
+429
+00:38:45,217 --> 00:38:53,160
+have memory glands. So maybe the ducks of Duckworld
+evolved to have more mammalian-like sex organs
+
+430
+00:38:53,240 --> 00:38:58,142
+despite remaining avian in an appearance. I
+don't necessarily think it's out of bounds
+
+431
+00:38:58,162 --> 00:39:03,685
+to say that Howard maybe doesn't have a corkscrew
+dong. Maybe it's more like a human-like feather
+
+432
+00:39:03,745 --> 00:39:09,748
+dong or something like that. But then I remembered
+that if Darcy gave birth to an egg, as the
+
+433
+00:39:09,808 --> 00:39:15,771
+female, she would be the one to produce the
+egg. But human ova do not have hard shells.
+
+434
+00:39:16,351 --> 00:39:21,193
+So at that point I was like, fuck, I do not
+understand any of this. And I flipped my office
+
+435
+00:39:21,213 --> 00:39:26,208
+table. So I will say that you thought about
+Howard the Duck's dick way more than I did.
+
+436
+00:39:28,269 --> 00:39:32,371
+But everything you're saying is valid. I just
+don't get it, man. I don't get how it would
+
+437
+00:39:32,391 --> 00:39:37,514
+work. I just don't understand. But, you know,
+trying to get past that, this episode was another
+
+438
+00:39:37,554 --> 00:39:42,257
+silly one. It was really hard to go back to
+back with the silly episodes, but I wanted
+
+439
+00:39:42,297 --> 00:39:46,859
+to give this episode a little bit more leeway
+due to the fact that Howard the Duck stories
+
+440
+00:39:46,879 --> 00:39:52,170
+from the comics are a little bit more silly
+by their very nature. Yeah, well, the two stars,
+
+441
+00:39:52,350 --> 00:39:59,032
+both Howard the Duck and Darcy, are pretty much
+comedic relief, I would say. So I'm more forgiving
+
+442
+00:39:59,172 --> 00:40:04,493
+of this episode being goofy than I was of the
+last one for sure. Yeah. I mean, there were
+
+443
+00:40:04,533 --> 00:40:09,255
+some jokes that just didn't land for me. Like
+when Ebony Ma was saying that the Black Order
+
+444
+00:40:09,335 --> 00:40:13,736
+is on Jotunheim for a company retreat because
+they have a group on. I was like, what the
+
+445
+00:40:13,996 --> 00:40:19,962
+fuck is going on here? But bad jokes aside,
+I tried to give the episode. a little bit more
+
+446
+00:40:20,002 --> 00:40:26,566
+grace in terms of the cringe worthiness on display
+here. I did like the theme of new parenting,
+
+447
+00:40:26,687 --> 00:40:30,889
+being a new parent myself as the father of a
+one-year-old. I can appreciate that. But there
+
+448
+00:40:30,909 --> 00:40:36,213
+was also like another part of me that was like,
+why is that baby sleeping with a blanket in
+
+449
+00:40:36,273 --> 00:40:40,196
+its crib? Like it's just born, like get that
+blanket out of there. They shouldn't be sleeping
+
+450
+00:40:40,216 --> 00:40:43,998
+with blankets until they're one. You notice
+stuff like that in movies all the time when
+
+451
+00:40:44,018 --> 00:40:48,890
+you're a new parent. There was something sweet
+about Darcy and Howard's relationship. They
+
+452
+00:40:48,910 --> 00:40:53,111
+just seemed really comfortable together. And
+it seemed like they were great parents concerning
+
+453
+00:40:53,251 --> 00:40:58,912
+what Bertie became, which we find out later
+on in the series. I didn't even care for that
+
+454
+00:40:59,032 --> 00:41:04,174
+payoff. Like, who cares by the end of it? I'm
+like, I don't know anything about this character.
+
+455
+00:41:05,094 --> 00:41:09,735
+Why is it that important to me? I thought Bertie
+was fine. I think conceptually, she's pretty
+
+456
+00:41:09,755 --> 00:41:14,097
+cool as a character, especially because she
+kind of looks like Lea Thompson's Beverly Switzler
+
+457
+00:41:14,317 --> 00:41:17,991
+from the 80s movie. Well, that's one of the
+problems I actually had with it. She was just
+
+458
+00:41:18,212 --> 00:41:23,413
+way too 80s, I hate 80s style. What? Yeah. Dude,
+you're so wrong.
+
+459
+00:41:30,822 --> 00:41:36,866
+fantasies collide and heroes clash, one podcast
+network rises above the rest. Prepare yourself
+
+460
+00:41:37,086 --> 00:41:43,190
+for the ultimate showdowns in comic books, video
+games, movies, and anime. The Dynomic Podcast
+
+461
+00:41:43,250 --> 00:41:50,418
+Network presents Console Combat, where video
+game legends brawl every Monday. Comic Book
+
+462
+00:41:50,458 --> 00:41:56,624
+Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+463
+00:41:57,185 --> 00:42:03,111
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+464
+00:42:03,131 --> 00:42:08,836
+the matches and, armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+465
+00:42:09,357 --> 00:42:13,641
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+466
+00:42:18,062 --> 00:42:23,005
+Let's move on to episode 5, which was called
+What If The Emergence Destroyed The Earth.
+
+467
+00:42:23,425 --> 00:42:28,728
+It stars Dominique Thorne as Riri Williams,
+Emily Van Camp as Sharon Carter, Tessa Thompson
+
+468
+00:42:28,808 --> 00:42:34,551
+as Valkyrie, and Jason Isaacs as The Eminence.
+On a post-apocalyptic Earth that was ripped
+
+469
+00:42:34,591 --> 00:42:40,074
+apart by the celestial Tiamat's emergence from
+the planet's core, Mysterio takes control of
+
+470
+00:42:40,114 --> 00:42:46,558
+humanity's last vestiges using Tony Stark's
+drones and his own holographic illusions. Riri
+
+471
+00:42:46,578 --> 00:42:50,922
+Williams tries to create a weaponized suit of
+armor using the technology available to her,
+
+472
+00:42:51,302 --> 00:42:56,687
+but is captured by Vision, who has been commandeered
+by Mysterio. She is rescued by the Alliance,
+
+473
+00:42:56,747 --> 00:43:02,553
+the last remaining force united against Mysterio
+composed of heroes such as Wong, Okoye, Valkyrie,
+
+474
+00:43:02,833 --> 00:43:07,778
+and Ying Nan. Riri is taken to the Alliance's
+base to complete her weapon when Vision attacks.
+
+475
+00:43:08,298 --> 00:43:13,710
+She is able to complete her weapon just in time,
+using it to defeat Vision, then uses his components
+
+476
+00:43:13,750 --> 00:43:20,612
+to become a human-synthesoid hybrid to infiltrate
+Mysterio's tech systems. Alongside the Alliance,
+
+477
+00:43:20,692 --> 00:43:26,593
+Riri attacks Mysterio's base, able to see through
+his illusions. However, her suit malfunctions
+
+478
+00:43:26,774 --> 00:43:32,255
+and she falls victim to Mysterio's trap. He
+reveals that he too is a tech hybrid, having
+
+479
+00:43:32,355 --> 00:43:37,156
+uploaded his network's nanites into his body,
+allowing him to control his illusions with
+
+480
+00:43:37,216 --> 00:43:37,697
+his mind.
+
+481
+00:43:41,410 --> 00:43:46,212
+so he needs Vision's components to keep him
+alive. He attempts to extract Riri's synthzoid
+
+482
+00:43:46,252 --> 00:43:52,035
+pieces from her, but with the Watcher's prompting,
+she pulls them back to herself and phases through
+
+483
+00:43:52,075 --> 00:43:57,758
+Mysterio, assimilating his internal nanite network.
+Having defeated the villain and dismantled
+
+484
+00:43:57,778 --> 00:44:03,061
+his federation, Riri projects the Avengers logo
+to Earth's remaining survivors, giving them
+
+485
+00:44:03,121 --> 00:44:08,504
+hope. Meanwhile, three Watchers known as the
+Eminence, the Incarnate, and the Executioner
+
+486
+00:44:08,964 --> 00:44:15,255
+witness Uatu's prompting of Riri, pleased by
+his interference. I liked the premise of this
+
+487
+00:44:15,295 --> 00:44:20,976
+episode. The concept of Tiamat's early emergence
+was solid, and I think it makes sense that
+
+488
+00:44:21,096 --> 00:44:26,918
+someone like Riri, if she was a survivor, would
+prove to be a vital asset to the rest of humanity
+
+489
+00:44:26,978 --> 00:44:31,599
+given her technological prowess. I think the
+episode had promised that it largely lived
+
+490
+00:44:31,639 --> 00:44:36,661
+up to. The one thing that I would have changed
+that would have made it better was the use
+
+491
+00:44:36,681 --> 00:44:42,191
+of more prominent hero and villain characters.
+Like, Mysterio was an interesting choice for
+
+492
+00:44:42,211 --> 00:44:46,594
+the leader of the Federation, but it also seems
+a little unlike his character to take such
+
+493
+00:44:46,614 --> 00:44:52,038
+a commanding role. Like the character's accomplishment
+in this episode is probably greater than anything
+
+494
+00:44:52,078 --> 00:44:57,181
+Mysterio has ever done in the comics. I wouldn't
+have been surprised if his role was someone
+
+495
+00:44:57,241 --> 00:45:02,085
+more like Dr. Doom or Norman Osborn or even
+like the Kingpin that had taken over what remained
+
+496
+00:45:02,125 --> 00:45:07,388
+of Earth, but I consider this like a step up
+for Mysterio. Not that I want to disparage
+
+497
+00:45:07,428 --> 00:45:12,710
+him, because I do like Mysterio. Yeah, I think
+Mysterio is one of the more interesting villains
+
+498
+00:45:12,830 --> 00:45:18,312
+in the MCU as a whole, so I was actually glad
+to see him return here. As a master of illusion,
+
+499
+00:45:18,452 --> 00:45:23,754
+he is hands down the best candidate to have
+done the things that the character did in this
+
+500
+00:45:23,814 --> 00:45:30,535
+episode. I also liked the fact that they adapted
+his cancer arc in the comics into this, like
+
+501
+00:45:30,555 --> 00:45:34,857
+he was a sick dyke man who was trying to prove
+himself in a way, except instead of cancer,
+
+502
+00:45:34,877 --> 00:45:40,324
+they went with nanites. Yeah, his look... in
+this episode was very similar to the look that
+
+503
+00:45:40,344 --> 00:45:45,308
+he had in the Guardian Devil story arc in the
+comic books. You're right though, for what
+
+504
+00:45:45,428 --> 00:45:51,353
+this part required in this story, Mysterio was
+the best candidate. I also think that Mysterio,
+
+505
+00:45:51,553 --> 00:45:55,296
+he's had some pretty impressive feats in the
+comics, you know? He was the only one from
+
+506
+00:45:55,336 --> 00:45:59,980
+the main universe to go into the ultimate universe,
+if I'm not mistaken. Yeah. So I think this
+
+507
+00:46:00,020 --> 00:46:05,184
+is in keeping with some of the more impressive
+things he's done. He never like took over Earth
+
+508
+00:46:05,284 --> 00:46:11,417
+1610 though. No, but the guy is a technological
+powerhouse. Yeah, I do think that having Wong
+
+509
+00:46:11,878 --> 00:46:17,403
+Ying Nan Okoye and Valkyrie as the last surviving
+heroes was a little bit weak for this episode.
+
+510
+00:46:17,443 --> 00:46:22,027
+Like, Dan, you couldn't even squeeze in like
+a bee lister in there. It was very random.
+
+511
+00:46:22,067 --> 00:46:28,112
+I felt like, oh, this was the cast you could
+afford. OK. Yeah, I would have liked to have
+
+512
+00:46:28,152 --> 00:46:33,737
+a stronger supporting cast for Riri Williams.
+I got the overall impression that what if season
+
+513
+00:46:33,757 --> 00:46:38,953
+three was supposed to come out? after the Ironheart
+series given that we had Riri's inclusion in
+
+514
+00:46:38,993 --> 00:46:44,017
+this episode and the Hood's inclusion in the
+next episode. Yeah, that makes sense because
+
+515
+00:46:44,137 --> 00:46:49,401
+Ironheart, the series has been pushed back,
+I think a number of times. Right, right. After
+
+516
+00:46:49,421 --> 00:46:54,025
+seeing this episode though, I'm really looking
+forward to the Ironheart series. I hope that
+
+517
+00:46:54,485 --> 00:47:00,530
+show really portrays Riri as like adaptable
+and smart as she was in this episode. I actually
+
+518
+00:47:00,550 --> 00:47:05,074
+really liked the Ironheart vision hybrid that
+she became. That was pretty cool. That was
+
+519
+00:47:05,114 --> 00:47:11,017
+pretty sweet. I rate episode 5 3.5 stars out
+of 5. I thought it was pretty good. Oh, and
+
+520
+00:47:11,077 --> 00:47:14,679
+I don't think I mentioned my rating for the
+last episode too. The Howard the Duck episode,
+
+521
+00:47:15,039 --> 00:47:21,362
+I gave 3 out of 5. Let's move on to episode
+6, which was called What If 1872. It stars
+
+522
+00:47:21,442 --> 00:47:28,086
+Simu Liu as Shang-Chi, slash Ten Rings. Hailey
+Steinfeld gave the voice of Kate Bishop Hawkeye.
+
+523
+00:47:28,566 --> 00:47:31,008
+Wyatt Russell was in the episode as John Walker.
+
+524
+00:47:34,918 --> 00:47:40,262
+and Walton Goggins played Sonny Birch. In the
+days of the Old West, a group of gunslingers
+
+525
+00:47:40,342 --> 00:47:45,807
+signal for the legendary fighter, Shang-Chi,
+known to them as the Ten Rings for his unique
+
+526
+00:47:45,867 --> 00:47:51,212
+calling card. Partnered with the crack shot
+Kate Bishop, known as Hawkeye, Shang-Chi takes
+
+527
+00:47:51,272 --> 00:47:56,396
+out the gunslingers. He gets John Walker to
+give him the location of the Hood, a mysterious
+
+528
+00:47:56,436 --> 00:48:01,420
+villain abducting the Chinese immigrants building
+the region's rail lines who had taken Shang-Chi's
+
+529
+00:48:01,460 --> 00:48:06,973
+sister, Sha Ling. Walker's info leads Shang-Chi
+and Hawkeye to a town which they find decimated,
+
+530
+00:48:07,313 --> 00:48:12,036
+with only a young boy named Kui-Jun-Fan left
+remaining. The boy tells them the town was
+
+531
+00:48:12,056 --> 00:48:17,460
+attacked by the Hood, who left on a ghost train.
+Shang-Chi, Hawkeye, and Jun-Fan head the train
+
+532
+00:48:17,520 --> 00:48:22,644
+off at the pass, discovering that it hovers
+off the ground using stolen Stark tech. They
+
+533
+00:48:22,704 --> 00:48:28,128
+find the missing railroad workers under a trance,
+hypnotized by Sonny Birch, using a special
+
+534
+00:48:28,189 --> 00:48:33,892
+musical pocket watch. Jun Fan escapes Sunny's
+men, but they capture the boy and nearly throw
+
+535
+00:48:33,932 --> 00:48:39,076
+him off the train, prompting the watcher's interference.
+The train arrives at the station where the
+
+536
+00:48:39,116 --> 00:48:44,560
+hood waits and reveals to be Cha Ling herself,
+who is using the cloak's dark power to help
+
+537
+00:48:44,620 --> 00:48:49,684
+enslave an army to fight for her vision of the
+country. She and Shang-Chi battle as Hawkeye
+
+538
+00:48:49,704 --> 00:48:54,848
+is put under Sunny Birch's trance. Jun Fan rings
+the train's bell ten times to snap Hawkeye
+
+539
+00:48:54,868 --> 00:48:59,227
+and the prisoners out of their trances. and
+Shang-Chi decides that fighting his sister
+
+540
+00:48:59,427 --> 00:49:04,331
+is not the answer. Just as Chao Ling is about
+to deliver the killing blow, Hawkeye shoots
+
+541
+00:49:04,351 --> 00:49:09,434
+and kills her, ending the Hood's threat. Shang-Chi
+and Hawkeye watch as the Chinese immigrants
+
+542
+00:49:09,494 --> 00:49:14,337
+celebrate, listening to Jun-Fan, referred to
+as the Iron Fist, re-enact the story of their
+
+543
+00:49:14,377 --> 00:49:19,521
+adventure. The pair rise off into the sunset
+as Uwatu the Watcher is confronted by his peers
+
+544
+00:49:19,601 --> 00:49:24,284
+for his meddling. They attack him, resulting
+in shards breaking from their observational
+
+545
+00:49:24,324 --> 00:49:29,619
+plane and hurling into the multiverse. I thought
+this was a fantastic episode. I really love
+
+546
+00:49:29,659 --> 00:49:33,621
+how they were able to incorporate characters
+like Shang-Chi and Hawkeye in this old west
+
+547
+00:49:33,681 --> 00:49:38,744
+setting, and even tossing in references to characters
+that haven't shown up in the MCU yet, like
+
+548
+00:49:38,784 --> 00:49:44,948
+the Hood and Iron Fist. And they even fit in
+actual history, like the Chinese workers' mistreatment
+
+549
+00:49:44,988 --> 00:49:49,851
+during the transcontinental railroad construction.
+It was just really well done, really well realized
+
+550
+00:49:49,891 --> 00:49:55,150
+in a way that fit neatly together like a puzzle
+piece, it just made sense. I- I completely
+
+551
+00:49:55,170 --> 00:49:59,273
+disagree. I did not like this episode. It was
+one of the most random episodes, I think, of
+
+552
+00:49:59,293 --> 00:50:04,117
+the entire series so far. And I understand that
+the watcher kind of set up that was on the
+
+553
+00:50:04,177 --> 00:50:08,581
+far reaches of the multiverse, and therefore
+it was going to be a little bit more random.
+
+554
+00:50:09,061 --> 00:50:14,466
+But there are a lot of things I didn't understand,
+like the Walt Goggins pocket watch. What the
+
+555
+00:50:14,506 --> 00:50:19,811
+hell was that about? The iron fist connection.
+I didn't actually even make that connection.
+
+556
+00:50:20,071 --> 00:50:25,271
+I guess that's interesting. Definitely interested
+in seeing. Iron Fist make an appearance in
+
+557
+00:50:25,331 --> 00:50:31,355
+the MCU at some point, hopefully at Shang-Chi's
+sequel. But also, like, why Kate Bishop and
+
+558
+00:50:31,375 --> 00:50:36,719
+Shang-Chi to begin with? Like I didn't understand
+the connection there whatsoever. As far as
+
+559
+00:50:36,779 --> 00:50:41,863
+Hawkeye goes, Hawkeye totally makes sense as
+a Western character, plus the story itself
+
+560
+00:50:41,923 --> 00:50:48,127
+draws a lot of parallels to the film True Grit,
+of which Hailey Steinfeld made her debut performance
+
+561
+00:50:48,167 --> 00:50:53,026
+as an actress. So one, they're playing that
+up. casting Kayleigh Steinfeld in this role
+
+562
+00:50:53,046 --> 00:50:57,587
+and to Hawkeye it just makes sense as an old
+west character being a crack shot. I think
+
+563
+00:50:57,607 --> 00:51:01,688
+it makes a lot of sense that she would pair
+up with Shang-Chi. Tossing in Sunny Birch I
+
+564
+00:51:01,728 --> 00:51:06,490
+think makes a lot of sense considering the actor
+Walton Goggins has been in a lot of westerns
+
+565
+00:51:06,730 --> 00:51:11,691
+and he said that he got his pocket watch from
+Russia which I think was a tie-in to the hydra
+
+566
+00:51:11,731 --> 00:51:17,172
+conditioning using the code words to brainwash
+the Winter Soldier but in this case it was
+
+567
+00:51:17,432 --> 00:51:23,018
+a song that was doing it. They needed something
+auditory so that Jun Fan can interrupt it with
+
+568
+00:51:23,038 --> 00:51:27,879
+the 10 rings of the bell. OK, well, I mean,
+some of those explanations are just like meta
+
+569
+00:51:28,260 --> 00:51:33,461
+rationalities. So I guess these sort of work.
+Did it explain where Shang-Chi's sister got
+
+570
+00:51:33,501 --> 00:51:38,763
+the hood from? Yeah, she got it from a villain
+who was already exploiting Chinese workers
+
+571
+00:51:38,803 --> 00:51:43,884
+at the time. She killed him and took the hood
+from him. I don't know. The episode was too
+
+572
+00:51:43,964 --> 00:51:49,206
+different from the MCU for my liking. Who cares
+about that? What do you mean, too different
+
+573
+00:51:49,226 --> 00:51:53,508
+from the MCU? The show's called fucking What
+If. Yeah, but this was more different than
+
+574
+00:51:53,609 --> 00:51:58,431
+other episodes. No, it wasn't. They just changed
+the time period. And in regards to Iron Fist,
+
+575
+00:51:58,611 --> 00:52:03,974
+now there have been multiple Iron Fists throughout
+history in the comic books, dating back centuries.
+
+576
+00:52:04,554 --> 00:52:10,077
+And there was an Iron Fist that was around in
+the mid 19th century named Jun Fan, who actually
+
+577
+00:52:10,137 --> 00:52:14,460
+traveled to America during the days of the Old
+West. That was the character that they were
+
+578
+00:52:14,480 --> 00:52:18,370
+incorporating in this episode. It was a really
+nice call out to the comics. He was actually
+
+579
+00:52:18,770 --> 00:52:25,453
+the Iron Fist before Orson Randall, who eventually
+passed his mantle down to Danny Rand. So really,
+
+580
+00:52:25,533 --> 00:52:30,515
+really cool stuff. For that, I rate the episode
+four stars out of five. Episode seven was called,
+
+581
+00:52:30,736 --> 00:52:36,038
+What If The Watcher Disappeared? It starred
+Hailey Atwell as Peggy Carter, Jason Isaacs
+
+582
+00:52:36,098 --> 00:52:42,721
+as The Eminence, Devri Jacobs as Kihori, Allison
+Sealy-Smith as Aurora Monroe, Natasha Lyonne
+
+583
+00:52:42,761 --> 00:52:48,403
+as Bertie. Karen Gillan as Nebula, Taika Waititi
+as Korg, and Ross Marquand as Infinity Ultron.
+
+584
+00:52:48,783 --> 00:52:53,904
+Following the events of What If Nebula Joined
+the Nova Corps from Season 2, the monstrous
+
+585
+00:52:53,964 --> 00:52:59,606
+Hydra Champion tears into the dimension, threatening
+Xandar. Captain Carter and her team of multiversal
+
+586
+00:52:59,646 --> 00:53:04,587
+guardians including K'Hori, Birdie, and Storm
+the Goddess of Thunder arrive on the scene
+
+587
+00:53:04,747 --> 00:53:09,028
+and by propelling Captain Carter like a bullet
+through the monster's head, they defeat it.
+
+588
+00:53:09,529 --> 00:53:15,916
+After the battle, the group discover the shards
+deducing the Watcher is in trouble. They attempt
+
+589
+00:53:15,936 --> 00:53:20,799
+to get to the 5th dimension to help Uatu, first
+using the shard's energies to augment their
+
+590
+00:53:20,839 --> 00:53:26,584
+ship, then using another shard to augment Storm's
+hammer Mjolnir using a spell. Unsure of how
+
+591
+00:53:26,604 --> 00:53:31,587
+to use their final shard, the team remembers
+that Infinity Ultron once breached the barrier
+
+592
+00:53:31,627 --> 00:53:36,651
+into the 5th dimension so they make a plan to
+capture and reprogram him. Knowing the mission
+
+593
+00:53:36,671 --> 00:53:41,615
+would be too dangerous for her friends, Peggy
+journeys alone. and finds Infinity Ultron living
+
+594
+00:53:41,675 --> 00:53:46,258
+in solitude in the universe he destroyed. The
+other Guardians realize Peggy's actions and
+
+595
+00:53:46,298 --> 00:53:51,962
+go to rescue her, finding only Infinity Ultron
+and Peggy's broken shield. Ultron recounts
+
+596
+00:53:51,982 --> 00:53:56,665
+to them that Peggy was attacked and taken by
+one of the Watchers. He tells them that after
+
+597
+00:53:56,725 --> 00:54:02,609
+spending eons alone in his universe, he's realized
+that emptiness is not the same as peace, and
+
+598
+00:54:02,629 --> 00:54:07,112
+agrees to help the Guardians in their mission
+to the fifth dimension. He uses the last shard
+
+599
+00:54:07,192 --> 00:54:11,684
+to gain fifth dimensional power. and pilots
+their ship into the Watcher's observational
+
+600
+00:54:11,724 --> 00:54:16,368
+plane. I thought this was a pretty decent episode
+as a first parter. I thought there was a lot
+
+601
+00:54:16,408 --> 00:54:20,311
+of good set up here. I thought the action was
+pretty top notch, including the battle against
+
+602
+00:54:20,391 --> 00:54:25,375
+the Hydra champion. I thought it was really
+nice revisiting Nebula and Xandar from season
+
+603
+00:54:25,415 --> 00:54:30,139
+two. And most of all, I thought it was really
+cool to see the variant of Storm that was the
+
+604
+00:54:30,179 --> 00:54:35,804
+goddess of thunder. Voiced by the same actress
+that voices Storm in X-Men 97. I liked this
+
+605
+00:54:35,824 --> 00:54:40,790
+episode. I liked these last two episodes. a
+lot, particularly when it came to the action
+
+606
+00:54:41,210 --> 00:54:46,712
+and just the premise itself. I thought the mythology
+of the Watchers, it was really, really interesting.
+
+607
+00:54:46,792 --> 00:54:51,893
+The most interesting thing to come out of this
+entire what if series, all three seasons. That
+
+608
+00:54:51,993 --> 00:54:59,295
+said, I do wish that they would have had a more
+familiar cast of characters to aid the Watcher
+
+609
+00:54:59,615 --> 00:55:05,357
+in this final battle. Two of them are original.
+One of them I thought was kind of cheap and
+
+610
+00:55:05,377 --> 00:55:12,359
+just turning Storm into a Thor. variant, I don't
+think Storm should be a Thor variant. I think
+
+611
+00:55:12,379 --> 00:55:19,562
+that's kind of a disservice to Storm. Why? Because
+she is not Thor, they are separate characters.
+
+612
+00:55:20,243 --> 00:55:24,384
+I just wish they would have maybe just gone
+with Storm. No, I mean, considering that the
+
+613
+00:55:24,404 --> 00:55:29,767
+characters are both masters of the elements,
+I thought it made total sense to have her as
+
+614
+00:55:29,787 --> 00:55:33,208
+a variant of Thor in this episode. I thought
+that was really badass. I didn't think that.
+
+615
+00:55:33,228 --> 00:55:37,234
+I think a lot of people thought that too. I
+know a lot of people who actually questioned
+
+616
+00:55:37,274 --> 00:55:42,318
+whether Storm was a variant of Thor and to me
+that's I don't like that. Whether she's a variant
+
+617
+00:55:42,398 --> 00:55:47,421
+of Thor or whether she's a variant of herself
+I think it works either way. I definitely don't
+
+618
+00:55:47,441 --> 00:55:51,484
+think it does a disservice to either of the
+characters. I do agree that it would have been
+
+619
+00:55:51,504 --> 00:55:56,868
+cool if the Multiversal Guardians included more
+characters from the series past. It was nice
+
+620
+00:55:56,888 --> 00:56:01,211
+to have Khori back. It was interesting to have
+Bertie in the mix here. Like what if they did
+
+621
+00:56:01,291 --> 00:56:05,254
+really Williams slash Vision like that would
+have been cool. That would have been cool.
+
+622
+00:56:05,294 --> 00:56:10,275
+And also tossing like a novo prime nebula in
+there as well. It's almost like a multiversal
+
+623
+00:56:10,395 --> 00:56:15,596
+a-force in that regard. Yeah, yeah. I really
+liked the opening to this episode where they
+
+624
+00:56:15,676 --> 00:56:21,538
+switched perspectives from Uwatu to the imminence
+where he was like, a watcher must never ask
+
+625
+00:56:21,938 --> 00:56:27,060
+what if, you know, I thought that was pretty
+cool. Yeah, the opening to the series, I never
+
+626
+00:56:27,120 --> 00:56:31,581
+skipped it because I just loved the narration
+by Jeffrey Wright. The whole premise that it
+
+627
+00:56:31,621 --> 00:56:36,286
+sets up about time and space and things like
+that. leading up to the whole question of what
+
+628
+00:56:36,406 --> 00:56:41,849
+if, it's a fantastic setup. And then to twist
+it near the end like this, I thought was also
+
+629
+00:56:41,909 --> 00:56:47,973
+pretty cool. It was very meta in this very enjoyable
+way. Did you notice that Peggy's multiversal
+
+630
+00:56:48,033 --> 00:56:51,795
+ship in this episode looked a lot like King
+of the Conqueror ship from Ant-Man and the
+
+631
+00:56:51,815 --> 00:56:58,599
+Wasp quantumania? No. Oh yeah, like the sphere?
+No, it's like a clamshell type thing. I didn't
+
+632
+00:56:58,659 --> 00:57:02,761
+notice that. That's cool. Yeah, that was a pretty
+cool Easter egg. I also really liked Infinity
+
+633
+00:57:02,821 --> 00:57:08,807
+Ultron's Revelation. toward the end of the episode
+that life must exist for peace to exist? Well,
+
+634
+00:57:08,827 --> 00:57:15,649
+the philosophical ideas posited in this episode
+and the next episode I thought were very profound,
+
+635
+00:57:16,309 --> 00:57:20,970
+probably more profound than they needed to be.
+And I definitely was not expecting that from
+
+636
+00:57:21,050 --> 00:57:25,411
+this series considering we also got some very,
+very silly episodes. Oh yeah, the show definitely
+
+637
+00:57:25,511 --> 00:57:31,273
+veered wildly back and forth between being profound
+and being goofy as hell. In all, I give episode
+
+638
+00:57:31,313 --> 00:57:35,931
+7 3.5 stars out of 5. I thought it was really
+good. a great setup. I thought you would have
+
+639
+00:57:35,951 --> 00:57:39,934
+given it a higher rating than that. I thought
+this was like at least a four. It was good,
+
+640
+00:57:39,974 --> 00:57:44,358
+but it didn't have enough payoff. It all came
+in the next episode, which I thought was the
+
+641
+00:57:44,398 --> 00:57:50,703
+best of the season. That was episode eight titled
+What If What If. In a flashback scene, the
+
+642
+00:57:50,763 --> 00:57:55,988
+Eminence shows Uwatu the multiverse and has
+him take the oath, making him a watcher and
+
+643
+00:57:56,028 --> 00:58:01,793
+instructing him to make only observations, not
+judgments. Uwatu wonders what if the Eminence
+
+644
+00:58:01,813 --> 00:58:06,981
+was wrong about him. but is told that what if
+isn't a relevant question. In the present,
+
+645
+00:58:07,101 --> 00:58:10,864
+Uwatu makes his case to the other Watchers that
+his actions were for the betterment of the
+
+646
+00:58:10,904 --> 00:58:15,508
+multiverse. Captain Carter is brought before
+the Watchers as well, convincing Uwatu that
+
+647
+00:58:15,588 --> 00:58:20,592
+though a Watcher is supposed to be no one, everyone
+is someone. Infinity Ultron arrives with the
+
+648
+00:58:20,612 --> 00:58:25,556
+Guardians and attacks the Watchers, allowing
+Peggy and Uwatu to escape. The Watchers destroy
+
+649
+00:58:25,576 --> 00:58:30,821
+Infinity Ultron as the team plots a course for
+Strange Supreme's universe. But they're knocked
+
+650
+00:58:30,861 --> 00:58:35,723
+from the fifth dimension. onto a barren planet.
+Though the Guardians attack the Watchers, their
+
+651
+00:58:35,763 --> 00:58:41,926
+efforts are useless and the team is nearly killed,
+prompting Gawatu to instruct them to take the
+
+652
+00:58:41,966 --> 00:58:47,989
+Watcher's oath and granting them his powers.
+As Watchers, they attack the Eminence, the
+
+653
+00:58:48,009 --> 00:58:53,811
+Incarnate, and the Executioner in an all-out
+battle. In an effort to win, the trio merge
+
+654
+00:58:53,931 --> 00:58:55,572
+and begin erasing Peggy,
+
+655
+00:58:59,266 --> 00:59:04,450
+Peggy musters the strength to sacrifice herself,
+pushing the Watchers into Strange Supreme's
+
+656
+00:59:04,530 --> 00:59:09,794
+universe where the Watchers have no power. With
+the Eminence defeated, Uatu reveals to him
+
+657
+00:59:09,954 --> 00:59:15,419
+what he's learned, that what something is, is
+not the same as what it means. Mourning Peggy,
+
+658
+00:59:15,559 --> 00:59:21,063
+Kihori, Birdie, and Storm join the Watcher on
+the observational plane to watch over the multiverse.
+
+659
+00:59:21,524 --> 00:59:26,348
+I loved this episode. I thought it was enjoyable
+not only from an action and spectacle perspective
+
+660
+00:59:26,368 --> 00:59:32,132
+from which it delivered in spades. But I think,
+you know, the episode was also philosophically
+
+661
+00:59:32,192 --> 00:59:37,616
+profound. There were some deep lessons and real
+heroic struggles going on. I'm really curious
+
+662
+00:59:37,696 --> 00:59:45,442
+as to how the mythology of the Watchers matches
+what's in the comics. It's a little bit different.
+
+663
+00:59:45,582 --> 00:59:50,185
+Like, Iwatu doesn't watch from the observational
+plane. He watches from the blue area of the
+
+664
+00:59:50,225 --> 00:59:54,629
+moon. So they play a little bit looser with
+the mythology of the Watchers overall. But
+
+665
+00:59:54,649 --> 01:00:00,009
+the essence is there. And also, like, I've never
+seen a Watcher throw down like the Watchers
+
+666
+01:00:00,049 --> 01:00:07,116
+threw down in this episode. Holy shit, man.
+They were badass. Dude, so this battle between
+
+667
+01:00:07,136 --> 01:00:13,862
+the Watchers and the Guardians of the Multiverse
+may just be the most epic battle to ever happen
+
+668
+01:00:13,962 --> 01:00:19,226
+in any on-screen superhero project ever. It
+would be up there, for sure. Absolutely. Just
+
+669
+01:00:19,246 --> 01:00:24,878
+in terms of epicness? Yeah, you might be right.
+I mean, but the What If series has always had
+
+670
+01:00:24,998 --> 01:00:29,900
+epic action. You take a look at the Guardians
+of the Multiverse against Infinity Ultron from
+
+671
+01:00:29,940 --> 01:00:35,142
+the first season. And then you have Khori and
+Captain Carter against Strange Supreme in the
+
+672
+01:00:35,182 --> 01:00:39,644
+second season where they were using all of those
+cool universe destroying artifacts against
+
+673
+01:00:39,684 --> 01:00:45,167
+him and stuff. But yeah, I think this episode
+was the best of the lot. and just kind of melted
+
+674
+01:00:45,187 --> 01:00:49,470
+my face from all the awesomeness that it had
+to show. Like even towards the end, how cool
+
+675
+01:00:49,490 --> 01:00:54,454
+the watchers were and how they were able to
+manipulate space, time and everything like
+
+676
+01:00:54,474 --> 01:00:59,038
+that. The way they played with physics in this
+episode I thought was really cool. It was really
+
+677
+01:00:59,098 --> 01:01:04,423
+fascinating when they joined back to back to
+back and became like one being spinning around
+
+678
+01:01:04,483 --> 01:01:11,689
+almost like the living tribunal. It was really
+abstract in concept and so interestingly rendered
+
+679
+01:01:11,829 --> 01:01:16,640
+on the screen. Oh man, and the stakes. Holy
+cow, like erasing them from every multiverse.
+
+680
+01:01:16,981 --> 01:01:21,604
+That was wild. And yeah, the final battle, the
+fact that they cracked a planet in half. I
+
+681
+01:01:21,624 --> 01:01:25,727
+was just watching this and I was just like taking
+notes for like a future duel episode because
+
+682
+01:01:25,827 --> 01:01:31,031
+it's just how cool it was. Yeah, I felt like
+we were put to shame in terms of how cosmic
+
+683
+01:01:31,111 --> 01:01:37,075
+level fights go. Oh yeah. Right, because we've
+speculated on duels between cosmic level characters
+
+684
+01:01:37,695 --> 01:01:41,590
+and I don't think they've been nearly as interesting
+as what we saw on the screen here. Absolutely
+
+685
+01:01:41,630 --> 01:01:47,754
+not. Like I could only aspire to get as awesome
+as this final battle was in our Duel speculations
+
+686
+01:01:47,774 --> 01:01:52,558
+We got a separate game up. I have to ask why
+are there multiple watchers? Like if there's
+
+687
+01:01:52,618 --> 01:01:58,582
+only one multiverse in the comic books who watch
+who looks over earth 616 So they just never
+
+688
+01:01:58,622 --> 01:02:03,425
+explained that in this show No, the function
+is a little bit different of the watchers here
+
+689
+01:02:03,925 --> 01:02:08,869
+I'm assuming that they have a whole lot of watchers
+looking after a whole lot of different parts
+
+690
+01:02:08,889 --> 01:02:13,792
+of the multiverse I found it interesting that
+the other two Watchers also had titles. I knew
+
+691
+01:02:13,932 --> 01:02:18,434
+that there was the Eminence, but I didn't know
+that there was also the Executioner and what
+
+692
+01:02:18,474 --> 01:02:24,517
+else? The Incarnate. That's weird. I can't off
+the top of my head think about the significance
+
+693
+01:02:24,597 --> 01:02:29,940
+of those three names for those characters. Well
+in the books, I believe the Watcher that everyone
+
+694
+01:02:29,980 --> 01:02:34,903
+else reports to is just simply known as the
+One, and they kind of like deposit all their
+
+695
+01:02:34,923 --> 01:02:40,978
+knowledge there. But I like the names of the
+Eminence, the Executioner, and incarnate. I
+
+696
+01:02:40,998 --> 01:02:46,499
+think it makes them sound pretty badass. It's
+almost like one is a creator, one is a preserver,
+
+697
+01:02:46,859 --> 01:02:51,921
+and one is a destroyer. Kind of like Hindu mythology.
+That's pretty cool. Yeah. But essentially,
+
+698
+01:02:52,401 --> 01:02:59,523
+they almost played like God. And the philosophical
+questions in this episode almost border on
+
+699
+01:02:59,543 --> 01:03:05,124
+the theological because it's essentially asking,
+well, why does God allow bad things to happen?
+
+700
+01:03:05,324 --> 01:03:10,718
+And in that regard, Uatu is almost like a Lucifer
+type character. where he's rebelling against
+
+701
+01:03:10,818 --> 01:03:14,199
+the higher order. Yeah, you're right. I didn't
+even really think about that. That's pretty
+
+702
+01:03:14,219 --> 01:03:20,481
+interesting. The concepts of like to preserve
+something when only needs to observe it, that
+
+703
+01:03:20,501 --> 01:03:24,842
+was fascinating. There was a statement posited
+by one of the watchers that to essentially
+
+704
+01:03:25,102 --> 01:03:30,984
+be able to see something from all sides, you
+cannot have a side. And Watu's response was,
+
+705
+01:03:31,044 --> 01:03:36,245
+but things have changed. I didn't think there
+was a good answer at all. I don't understand
+
+706
+01:03:36,405 --> 01:03:40,909
+like. What changed? I didn't think they explained
+that well enough. No, they definitely could
+
+707
+01:03:40,929 --> 01:03:45,772
+have dedicated, you know, an entire season toward
+the philosophical questions that were raised
+
+708
+01:03:45,812 --> 01:03:50,936
+during this episode, I think, and really get
+into Uatu's mindset of why he chose to do the
+
+709
+01:03:50,956 --> 01:03:55,559
+things that he did. Besides the fact that, you
+know, everyone is special and injustices need
+
+710
+01:03:55,579 --> 01:04:00,082
+to be righted. But I think for the purposes
+of this episode, that was enough explanation
+
+711
+01:04:00,122 --> 01:04:05,282
+for me. I still think I'm on the side of the
+eminence and his buddies. because I don't think
+
+712
+01:04:05,382 --> 01:04:10,604
+Watu put up a good enough debate, but no, yeah,
+it was still a fantastic episode, just for
+
+713
+01:04:10,644 --> 01:04:14,966
+going harder on the philosophy than it needed
+to. Yeah, I gotta say I'm on the side of Watu.
+
+714
+01:04:16,026 --> 01:04:20,448
+I think injustices need to be righted, and I
+think if you don't think that, then you're
+
+715
+01:04:20,468 --> 01:04:26,111
+not a very good superhero candidate, Jonathan.
+No, I think that sometimes you do just need
+
+716
+01:04:26,131 --> 01:04:30,893
+to observe things, that not all injustices can
+be righted, and not everything that you see
+
+717
+01:04:30,933 --> 01:04:35,739
+as an injustice is an injustice. because if
+you look down the line, maybe it all turns
+
+718
+01:04:35,819 --> 01:04:41,461
+out for the better in the end anyway. Maybe
+if you look at the very end of things, things
+
+719
+01:04:41,561 --> 01:04:46,483
+are good. You know, we can't always see the
+consequences of correcting certain things that
+
+720
+01:04:46,503 --> 01:04:52,026
+you feel like you need to be corrected. Superheroes
+are guilty sometimes of playing God, and I
+
+721
+01:04:52,066 --> 01:04:57,568
+think it's hard to know where that line is before
+you cross it. Uatu, you know, definitely has
+
+722
+01:04:57,588 --> 01:05:01,962
+the eyes of a watcher, so you can kind of see
+everything. So maybe he did know. But I don't
+
+723
+01:05:01,982 --> 01:05:06,105
+understand then why he was disagreeing with
+people who also had his power. Because they
+
+724
+01:05:06,125 --> 01:05:11,128
+weren't looking closely like he was probably.
+I don't know, they explore these ideas, I remember
+
+725
+01:05:11,248 --> 01:05:16,872
+in the Captain Marvel comic book series back
+when Genisvel, who is the son of Marvel, was
+
+726
+01:05:17,052 --> 01:05:23,717
+in the role. And he gained cosmic awareness
+and he basically was driven insane by questions
+
+727
+01:05:23,737 --> 01:05:28,480
+like these. Whether or not to save one person
+or whether or not to save a whole planet of
+
+728
+01:05:28,520 --> 01:05:34,094
+people. And the effects. that resulted from
+his actions and he could see everything and
+
+729
+01:05:34,375 --> 01:05:39,276
+he ended up destroying the entire universe and
+then recreating it basically. It was a really
+
+730
+01:05:39,316 --> 01:05:44,437
+interesting read but I don't want to drive myself
+crazy thinking about some of these answers.
+
+731
+01:05:45,057 --> 01:05:48,938
+One of the coolest things I thought about this
+episode was at the very end when the Watchers
+
+732
+01:05:48,978 --> 01:05:53,420
+kind of like signing off, we got to see multiversal
+variants of characters like Riri Williams as
+
+733
+01:05:53,460 --> 01:06:01,522
+the Punisher, he had like Thanos as Wolverine,
+a Samurai Ghost That was all really cool to
+
+734
+01:06:01,562 --> 01:06:06,124
+see. It makes me want the show to go on forever.
+Yeah, I would have loved to have seen some
+
+735
+01:06:06,144 --> 01:06:11,426
+of those episodes rather than some of the episodes
+we got in this season. Absolutely. But that's
+
+736
+01:06:11,446 --> 01:06:17,148
+the end of the show overall. The episodes in
+this season were pretty typical of the series
+
+737
+01:06:17,188 --> 01:06:20,590
+as a whole in that they were hit or miss. There
+were some episodes that I really didn't like
+
+738
+01:06:20,630 --> 01:06:24,852
+this season. There were some episodes that I
+absolutely loved. And I think when the show
+
+739
+01:06:24,892 --> 01:06:30,302
+is doing well, it's really playing up to its
+potential. And when it's not. it's really squandering
+
+740
+01:06:30,322 --> 01:06:34,404
+that potential. And yeah, though I'd say the
+show did squander its own potential somewhat
+
+741
+01:06:34,444 --> 01:06:39,126
+here in this season due to its hit or miss nature,
+I think it ends with a bang, not a whimper,
+
+742
+01:06:39,286 --> 01:06:43,948
+due to its spectacular action and meaningful
+themes. I'm gonna give this season three and
+
+743
+01:06:43,968 --> 01:06:50,671
+a half stars, a fresh rating on Rotten Tomatoes.
+Again, I liked five out of the eight episodes
+
+744
+01:06:50,711 --> 01:06:54,272
+here. Overall, I still think season two was
+the best. Yeah, I think season two had the
+
+745
+01:06:54,332 --> 01:06:59,435
+best questions, but like I said earlier, I also
+think that the best episodes of the series
+
+746
+01:06:59,455 --> 01:07:05,379
+as a whole were the final two of season three,
+but I get it. I'd be interested in hearing
+
+747
+01:07:05,419 --> 01:07:10,202
+what the listeners think, so be sure to reach
+out to us guys on Discord if you're a patron,
+
+748
+01:07:10,683 --> 01:07:17,494
+or on Instagram. But that does it for this review.
+AJ9K helped close us out. Thanks for listening
+
+749
+01:07:17,514 --> 01:07:23,075
+to Dynamic Duel. Visit the show's website at
+dynamicDuel.com and follow us on Instagram
+
+750
+01:07:23,135 --> 01:07:29,017
+at dynamicDuelpodcast. You can support the show
+on Patreon at patreon.com slash dynamicDuel
+
+751
+01:07:29,137 --> 01:07:33,358
+and joining a tier that works for you, or by
+rating and reviewing Dynamic Duel on Apple
+
+752
+01:07:33,378 --> 01:07:39,000
+Podcasts, Spotify, Podchaser or on our website.
+Don't forget to listen to the other shows in
+
+753
+01:07:39,020 --> 01:07:44,541
+the DynaMic Podcast Network, including Max
+Destruction, Senjoh World and Console Combat.
+
+754
+01:07:46,218 --> 01:07:52,840
+In our next episode, as a tie into this review,
+we will be doing a duel between the monitor
+
+755
+01:07:53,200 --> 01:07:58,103
+and the watcher. Yeah, I didn't know how we
+were going to do this duel with the watcher
+
+756
+01:07:58,263 --> 01:08:02,584
+prior to seeing the final episode of What If
+Season 3, but now I'm totally game for it.
+
+757
+01:08:02,844 --> 01:08:07,546
+It's going to be fucking epic as hell, hopefully.
+So look forward to that next week. That does
+
+758
+01:08:07,566 --> 01:08:12,549
+it for this episode. We want to give a big thanks
+to our executive producers, Ken Johnson, John
+
+759
+01:08:12,569 --> 01:08:14,669
+Strosky, Zachary Hepburn, Dustin Balcom.
+
+760
+01:08:36,039 --> 01:08:40,420
+If everyone is someone, then someone is everyone.
+But if no one is everyone, and no one is also
+
+761
+01:08:40,561 --> 01:08:43,821
+no one, then someone is also no one, therefore
+your mama.
+
