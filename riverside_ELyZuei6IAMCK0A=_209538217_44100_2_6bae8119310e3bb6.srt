@@ -1,0 +1,2658 @@
+1
+00:00:03,284 --> 00:00:03,345
+you
+
+2
+00:00:23,886 --> 00:00:28,508
+Dual Podcast, a weekly show where we review
+superhero films and debate the superiority
+
+3
+00:00:28,808 --> 00:00:34,151
+between Marvel and DC by comparing their characters
+in stat-based battle simulations. I'm Marvelous
+
+4
+00:00:34,211 --> 00:00:39,134
+Joe. And I'm his twin brother, Johnny DC. And
+in this episode, we will be finding out who
+
+5
+00:00:39,154 --> 00:00:44,557
+would win in a fight between the Riddler and
+Arcade, the X-Men villain. This is going to
+
+6
+00:00:44,577 --> 00:00:47,959
+be one of the more unique dual episodes that
+we've ever done. We're dealing with characters
+
+7
+00:00:48,279 --> 00:00:52,161
+that don't really get into physical altercations.
+They prefer to fight with their mind. They're
+
+8
+00:00:52,281 --> 00:00:57,376
+all about prep time. Yeah, these characters
+create these elaborate traps for the heroes
+
+9
+00:00:57,396 --> 00:01:01,699
+they go up against, but also considering the
+fact that we don't take environment into account,
+
+10
+00:01:02,079 --> 00:01:06,481
+we had to get creative when it came to finding
+a way to pit these characters against each
+
+11
+00:01:06,522 --> 00:01:10,264
+other. Yeah, so go ahead and stay tuned to later
+on this episode when we actually delve into
+
+12
+00:01:10,284 --> 00:01:14,086
+this match and run the simulations and find
+out who would win. Before we get into that
+
+13
+00:01:14,126 --> 00:01:18,009
+duel matchup, we're going to go over the news
+from the past week, of which there wasn't very
+
+14
+00:01:18,069 --> 00:01:23,432
+much. We'll be talking about how the John Wick
+director, Chats Tihelsky, is going to be directing
+
+15
+00:01:23,452 --> 00:01:27,234
+the action scenes for the Birds of Prey movie.
+As always, you can look up the segment times
+
+16
+00:01:27,314 --> 00:01:31,036
+in the episode description to go ahead and jump
+to whatever topic you wanna listen to. But
+
+17
+00:01:31,056 --> 00:01:35,358
+before we get into the news, we just wanna give
+a quick shout out to Ben O'Neill, who gave
+
+18
+00:01:35,438 --> 00:01:41,442
+us a second review on iTunes. Yeah, I guess
+he has two accounts or something. Or he's just
+
+19
+00:01:41,522 --> 00:01:45,864
+using someone else's account. I don't know quite
+how Apple would feel about that. Hey, you know
+
+20
+00:01:45,884 --> 00:01:49,658
+what? We got a rating. We got a rating. We got
+a rating. We're at 138. We're that much closer
+
+21
+00:01:49,678 --> 00:01:55,063
+to our 200 ratings on Apple Podcasts. Once we
+get to 200 ratings, Ron Tomatoes says we're
+
+22
+00:01:55,123 --> 00:02:00,087
+eligible to have our reviews of Marvel and DC
+films count toward those films tomato meters.
+
+23
+00:02:00,227 --> 00:02:04,290
+Which is a huge dream of ours. We have wanted
+to be film critics ever since we were in high
+
+24
+00:02:04,330 --> 00:02:08,193
+school. So if you guys can help us get there,
+it'd be hugely appreciated. We love putting
+
+25
+00:02:08,213 --> 00:02:11,856
+this show together for you guys every week.
+And if you guys could just give back by doing
+
+26
+00:02:11,876 --> 00:02:16,760
+that, it'd be fantastic. Yes, please and thank
+you. But now that that's done, quick to the
+
+27
+00:02:16,800 --> 00:02:23,195
+no prize. So a No Prize is an award that Marvel
+used to give out up until the 90s to fans.
+
+28
+00:02:23,395 --> 00:02:27,957
+Our version, the Dynamic Duel No Prize, is a
+digital award that we post on social media
+
+29
+00:02:28,217 --> 00:02:32,679
+that I personally draw for those who we feel
+gave the best answer to our question of the
+
+30
+00:02:32,699 --> 00:02:38,621
+week. Last week's question was, what character
+from the Spider-Man comics do you most want
+
+31
+00:02:38,641 --> 00:02:44,104
+to see Phil Lord and Chris Miller adapt into
+a live action television series? And this is
+
+32
+00:02:44,144 --> 00:02:47,905
+coming off the news that Phil Lord and Chris
+Miller, who are the producers of the Into the
+
+33
+00:02:47,945 --> 00:02:53,633
+Spider-Verse movie, They signed a contract with
+Sony to develop several live action Spider-Man
+
+34
+00:02:53,673 --> 00:02:57,296
+based television series. So we got a lot of
+great answers of the shows that you guys would
+
+35
+00:02:57,336 --> 00:03:02,300
+like to see. The first honorable mention goes
+to Anna Kosasa, who gave the answer of Squadron
+
+36
+00:03:02,400 --> 00:03:07,645
+Sinister and the Grandmaster. Now this was not
+an answer that was really Spider-Man adjacent.
+
+37
+00:03:08,025 --> 00:03:11,868
+I don't consider the Squadron Supreme or Squadron
+Sinister to be part of the Spider-Man universe.
+
+38
+00:03:12,229 --> 00:03:16,212
+It's possible that she may have meant Sinister
+6, but she also mentioned the Grandmaster,
+
+39
+00:03:16,272 --> 00:03:21,059
+so I'm not sure. Either way... A show involving
+these characters, especially the Grandmaster,
+
+40
+00:03:21,240 --> 00:03:25,282
+would be pretty damn incredible. Christian Rubito
+also gets honorable mention for his answer
+
+41
+00:03:25,382 --> 00:03:30,226
+of Hydro Man. Yeah, Hydro Man. I don't know
+if he might be the only one that wants a television
+
+42
+00:03:30,246 --> 00:03:34,709
+show based on Hydro Man. That being said, I
+do agree that Hydro Man is severely underrated.
+
+43
+00:03:34,989 --> 00:03:38,411
+It would have been cool to maybe see him down
+the line, like way down the line in a Spider-Man
+
+44
+00:03:38,451 --> 00:03:42,354
+movie. Although they kind of use that up with
+the Elementals from Far From Home. But he's
+
+45
+00:03:42,414 --> 00:03:46,497
+pretty powerful. Honorable mention also goes
+to Caleb Albers, who gave the answer of Spider-Man
+
+46
+00:03:46,537 --> 00:03:51,336
+2099. He was afraid that this answer was gonna
+be like the quote basic bitch answer. And it
+
+47
+00:03:51,356 --> 00:03:56,318
+was and it was because lots of other people
+answered Spider-Man 2099, including Chris Castaneda,
+
+48
+00:03:56,859 --> 00:04:02,082
+Tim Brown and Matthew Gonzalez. Although Matthew
+Gonzalez also mentioned Spider-Punk. What I
+
+49
+00:04:02,142 --> 00:04:06,484
+really like about Spider-Man 2099, though, is
+that in some ways, this is the perfect answer.
+
+50
+00:04:06,624 --> 00:04:10,546
+And that's probably why so many people gave
+it because you have such an opportunity for
+
+51
+00:04:10,566 --> 00:04:16,229
+like high concept, high octane science fiction
+action within this. It could be like Tron.
+
+52
+00:04:16,598 --> 00:04:21,560
+meets Fifth Element meets Spider-Man. Sold.
+Exactly. So many great things, so many cool
+
+53
+00:04:21,580 --> 00:04:26,962
+things that can be done with a Spider-Man 2099
+show. So yeah, great answer, guys. Jeff Miles
+
+54
+00:04:27,002 --> 00:04:32,125
+Jr. also gets honorable mention for his answer
+of Miles Morales and Gwen Stacy. Yeah, he wants
+
+55
+00:04:32,165 --> 00:04:36,147
+to see that relationship further develop in
+a television show, although I think Sony's
+
+56
+00:04:36,167 --> 00:04:40,189
+gonna prefer to explore that within the Spider-Verse
+sequel that they're making. In the animated
+
+57
+00:04:40,269 --> 00:04:45,091
+universe that they've established. Right. Honorable
+mention goes to John Spies for also giving
+
+58
+00:04:45,111 --> 00:04:49,633
+the answer of Miles Morales. And Harrison Fox
+gave the answer of Spider-Gwen, as did Matt
+
+59
+00:04:49,713 --> 00:04:55,395
+Estes. Honorable mention goes to Joel Seagrave
+who said that he wants a Clone Saga television
+
+60
+00:04:55,435 --> 00:04:59,817
+show, which could be really fascinating. You
+know, the Clone Saga was a series from the
+
+61
+00:04:59,897 --> 00:05:04,399
+90s that Marvel put out that was often derided
+by fans because it left us questioning whether
+
+62
+00:05:04,439 --> 00:05:09,061
+or not Peter Parker was actually, you know,
+the real Peter Parker or not. I think that's
+
+63
+00:05:09,241 --> 00:05:13,684
+kind of a fascinating concept. especially when
+it's explored on its own outside of, you know,
+
+64
+00:05:13,744 --> 00:05:17,627
+everything else that is Peter Parker related.
+Just like seeing what they're getting up to,
+
+65
+00:05:17,667 --> 00:05:21,290
+I think, would make a pretty decent show. It's
+interesting how you could explore both Peter
+
+66
+00:05:21,330 --> 00:05:26,915
+Parker's clones and his multiverse selves. There's
+like so many, just so many different versions
+
+67
+00:05:26,975 --> 00:05:30,859
+of Spider-Man in the Marvel Comics universe.
+And I think Joel Segrave mentioned that if
+
+68
+00:05:30,959 --> 00:05:34,822
+anyone could get that right, it's Phil Lord
+and Chris Miller. Yeah, definitely. They're
+
+69
+00:05:34,842 --> 00:05:40,667
+great writers. Aaron Alexander Jones also gave
+the answer of the Clone Saga. Salvador Martinez
+
+70
+00:05:40,727 --> 00:05:45,491
+gave the answer of a man spider. It's when Peter
+Parker mutated into a spider. And he said that
+
+71
+00:05:45,531 --> 00:05:49,635
+the series could follow Madam Webb trying to
+put a stop to him. And he said a twist at the
+
+72
+00:05:49,675 --> 00:05:54,559
+end could be that man spider fuses with carnage,
+which would be so deadly and pretty bad ass.
+
+73
+00:05:54,840 --> 00:05:59,544
+Ken Johnson gets honorable mention for his answer
+of Craven. Yeah, that would be a fantastic
+
+74
+00:05:59,564 --> 00:06:04,128
+show. I'm not sure quite how it would work.
+I guess you would have him like hunting a different
+
+75
+00:06:04,328 --> 00:06:09,063
+quarry like every week. It could be like, you
+know, dog the bounty hunter, but without the
+
+76
+00:06:09,083 --> 00:06:14,886
+bounty, just the hunter, you know, I totally
+see like a fat craving, just like balding spring
+
+77
+00:06:15,006 --> 00:06:20,089
+bear mace in people's face. Right. Exactly.
+They believe that Sony is currently working
+
+78
+00:06:20,289 --> 00:06:24,752
+on a live action feature length film for this
+character and much in the same way that they're
+
+79
+00:06:24,772 --> 00:06:29,514
+working on Morbius and Venom. Yeah, that's the
+rumor. Colby Hentges gave the answer of Superior
+
+80
+00:06:29,554 --> 00:06:33,517
+Spider-Man, which I think would be a fantastic
+mini series. Superior Spider-Man was a great
+
+81
+00:06:33,557 --> 00:06:38,563
+book. I love the aesthetic. of the character.
+Like I wish that was just Peter Parker, like
+
+82
+00:06:38,623 --> 00:06:42,865
+not Doctor Octopus. Just give all that gear
+to Peter Parker. He should have adapted all
+
+83
+00:06:42,906 --> 00:06:47,268
+those upgrades that Doctor Octopus made to his
+whole getup when he became Spider-Man. Right?
+
+84
+00:06:47,488 --> 00:06:53,391
+Yeah. And finally, Red Hood gave the answer
+of Spider-X, Blood Spider, or Ezekiel Sims,
+
+85
+00:06:53,751 --> 00:06:58,546
+who are probably like the three most obscure
+characters in Spider-Man anthology. You know,
+
+86
+00:06:58,586 --> 00:07:02,667
+having only been in a handful of issues themselves.
+Yeah, I think I only know one of those characters.
+
+87
+00:07:02,727 --> 00:07:06,168
+But you know, a television show is a great way
+to explore these characters and develop them
+
+88
+00:07:06,228 --> 00:07:12,470
+even further. But the winner of this week's
+No Prize goes to C.J. Kraft for his answer
+
+89
+00:07:12,870 --> 00:07:18,892
+of Spider-Man Noir. And the way he described
+the show made it seem like basically Sin City.
+
+90
+00:07:19,552 --> 00:07:24,173
+I would love to see a Spider-Man Noir meets
+like Sin City type show. That one just really
+
+91
+00:07:24,193 --> 00:07:29,420
+captured my imagination. just as much as a Spider-Man
+2099 show would capture my imagination. Really,
+
+92
+00:07:29,480 --> 00:07:33,802
+both of those ideas have equal merit, but CJ
+Kraft was the only one that gave the Spider-Man
+
+93
+00:07:33,842 --> 00:07:37,804
+no answer, so he gave it to him, basically.
+Yeah, I love the visual look of what Robert
+
+94
+00:07:37,844 --> 00:07:42,947
+Rodriguez did with the Sin City live action
+movies. It's just so stylish, it's so cool.
+
+95
+00:07:43,327 --> 00:07:49,131
+And now make it more 1930s and add Spider-Man
+into the mix. Boom. So congrats to CJ Kraft.
+
+96
+00:07:49,211 --> 00:07:52,372
+You win this week's No Prize, so Jonathan will
+go ahead and draw. Who are you drawing this
+
+97
+00:07:52,392 --> 00:07:56,493
+week? I'm drawing Arcade. You're gonna get a
+drawing of Arcade that we'll post to social
+
+98
+00:07:56,513 --> 00:08:00,198
+media, go ahead and check that out. If you,
+the listener, want to win your own No Prize,
+
+99
+00:08:00,218 --> 00:08:05,066
+go ahead and stay tuned to later on this episode
+when we ask another question of the week. Now
+
+100
+00:08:05,106 --> 00:08:06,648
+that that's done, on to the news!
+
+101
+00:08:12,554 --> 00:08:17,717
+Okay, so the Hollywood Reporter broke the news
+a few days ago that John Wick director Chad
+
+102
+00:08:17,757 --> 00:08:25,062
+Stahelski is going to design and tackle new
+action scenes for the Birds of Prey film dropping
+
+103
+00:08:25,142 --> 00:08:29,665
+next February. Now there's two different ways
+you can take this news. Essentially the first
+
+104
+00:08:29,685 --> 00:08:33,628
+way that I took it was, oh, Birds of Prey, you
+know, the movie's in trouble, it doesn't have
+
+105
+00:08:33,668 --> 00:08:37,030
+good enough action, they're gonna have to bring
+in someone to help fix this movie, kind of
+
+106
+00:08:37,050 --> 00:08:41,826
+like the way they had to fix Rogue One with
+Star Wars. Or like World War Z. Yeah. But those
+
+107
+00:08:41,866 --> 00:08:46,307
+movies turned out great. They did actually.
+What's the other way you could take it? The
+
+108
+00:08:46,327 --> 00:08:50,288
+other way you could take it is that, hey, you
+know, a lot of these directors don't actually
+
+109
+00:08:50,348 --> 00:08:54,769
+shoot a lot of the action scenes in their films.
+Like take the Russo brothers, for example,
+
+110
+00:08:54,829 --> 00:08:58,830
+they use a lot of second unit direction when
+it comes to high octane action. That's one
+
+111
+00:08:58,850 --> 00:09:02,551
+of the reasons why The Winter Soldier was so
+good. And guess who directed the action scenes
+
+112
+00:09:02,871 --> 00:09:08,773
+in The Winter Soldier? Chad Stahelski. What,
+he did? Yeah. Holy shit. Yeah, he's also done
+
+113
+00:09:08,853 --> 00:09:13,192
+Ninja Assassin, he's done The Hunger Games.
+He started off actually as Keanu Reeves stunt
+
+114
+00:09:13,232 --> 00:09:20,118
+double in The Matrix before breaking into direction.
+His stunt firm, I think it's called 8711, was
+
+115
+00:09:20,158 --> 00:09:24,802
+already working on this film, doing the stunts
+for it. And they're like, they're doing insane
+
+116
+00:09:24,862 --> 00:09:29,145
+stunt work right now. If you've seen any of
+the John Wick films, you know how crazy their
+
+117
+00:09:29,185 --> 00:09:34,650
+stuff is. He's directed all of the John Wick
+films. He co-directed the first John Wick with
+
+118
+00:09:34,690 --> 00:09:39,446
+David Leitch, who later went on to work on films
+like Deadpool 2. Right, right. What's interesting
+
+119
+00:09:39,506 --> 00:09:45,068
+here is that he is taking an uncredited role
+directing these action scenes. Well, he's not
+
+120
+00:09:45,088 --> 00:09:48,050
+getting a director credit. I think that's what
+they were mentioning. I assume that he's still
+
+121
+00:09:48,070 --> 00:09:52,192
+going to get credited for his stunt work. I
+mean, his firm will, but the shots he's directing
+
+122
+00:09:52,232 --> 00:09:56,474
+will be uncredited. My interpretation of that
+uncredited news would be that he wouldn't get
+
+123
+00:09:56,494 --> 00:10:00,575
+a co-director credit, given that he's a big
+name. Yeah, I guess we'll see when it comes
+
+124
+00:10:00,695 --> 00:10:06,374
+out. I think this is good news. It is good news.
+It is. It is great news. If you're gonna get
+
+125
+00:10:06,494 --> 00:10:10,618
+any action director to direct your action scenes,
+get the fucking guy that did John Wick in Winter
+
+126
+00:10:10,658 --> 00:10:15,882
+Soldier. In my opinion, he is like the biggest
+name in stunt work and action scenes in the
+
+127
+00:10:15,922 --> 00:10:21,227
+business right now. So hopefully by him taking
+this work, maybe he'll get a bigger DC Comics
+
+128
+00:10:21,267 --> 00:10:25,631
+character to work with in the future. What characters
+would you like to see him work with? Personally,
+
+129
+00:10:25,791 --> 00:10:30,655
+I've always wanted to see a question film. He's
+not superhuman, so there'd be an opportunity
+
+130
+00:10:30,695 --> 00:10:35,519
+for a lot of stunt work. It's pretty gritty.
+Yeah. But all of that could also probably describe
+
+131
+00:10:35,539 --> 00:10:39,122
+the Birds of Prey. So it seems like it's a good
+fit. Yeah, the Birds of Prey have never been
+
+132
+00:10:39,162 --> 00:10:43,726
+really overtly superpowered. So you can get
+really grounded with the action. Exactly, exactly.
+
+133
+00:10:44,186 --> 00:10:48,329
+And actually, I just realized if David Leitch
+directed Deadpool, Stahelski should direct
+
+134
+00:10:48,449 --> 00:10:53,574
+Deathstroke. Oh, that would be sweet. That movie
+needs to be made. His action style is probably
+
+135
+00:10:53,614 --> 00:10:57,317
+more suited to someone like Deathstroke than,
+say, the Birds of Prey, because Deathstroke
+
+136
+00:10:57,397 --> 00:11:02,020
+uses guns. Does anyone from Birds of Prey use
+guns? Huntress uses a crossbow. Harley Quinn
+
+137
+00:11:02,081 --> 00:11:06,995
+uses guns. Oh, that's true. Ultimately, I think
+this movie may have the best action scenes
+
+138
+00:11:07,215 --> 00:11:12,297
+we've ever seen in a DC film. Well, that's a
+short bar to clear, honestly. Oh, fuck off.
+
+139
+00:11:13,198 --> 00:11:20,881
+Name a great DC action scene. Uh, Batman v Superman,
+the warehouse scene. That's like the only one.
+
+140
+00:11:21,001 --> 00:11:26,723
+The only like grounded one. There's plenty of
+action scenes. Yeah, that are crap. Oh, oh,
+
+141
+00:11:27,104 --> 00:11:32,634
+okay. Black Manta versus Aquaman was crap. Okay,
+no, that was pretty good actually. Wonder Woman
+
+142
+00:11:32,734 --> 00:11:37,479
+and the enemy soldiers in the town was crap?
+Nah, yeah you're right. They've had a few,
+
+143
+00:11:37,539 --> 00:11:43,084
+they've had a few. Superman versus Zod was crap?
+No, yeah that was totally shit. I can't give
+
+144
+00:11:43,104 --> 00:11:47,808
+you that one. I wouldn't expect you to know
+good action. This all brings us to our question
+
+145
+00:11:47,828 --> 00:11:49,010
+of the week. What is the most important thing
+in a movie?
+
+146
+00:11:52,950 --> 00:11:59,113
+What is your favorite action scene in a Marvel
+or DC film? Post your answer to our Instagram,
+
+147
+00:11:59,153 --> 00:12:05,416
+Twitter, Facebook, or email us at dyna We'll
+pick our favorite answer and draw that person
+
+148
+00:12:05,457 --> 00:12:10,699
+a dynamic duel no prize that we'll post to social
+media. But that does it for all the news. There's
+
+149
+00:12:10,719 --> 00:12:14,422
+nothing really else too much to talk about that's
+not a rumor. So who knows, maybe next week
+
+150
+00:12:14,442 --> 00:12:19,404
+will be a heavy news week. But now let's get
+into our main event where we pit Arcade against
+
+151
+00:12:19,484 --> 00:12:21,425
+Riddler and find out who will be the champion.
+
+152
+00:12:37,250 --> 00:12:42,212
+Alright, Arcade versus Riddler. We have a primarily
+X-Men villain in Arcade and a Batman villain
+
+153
+00:12:42,252 --> 00:12:48,235
+in the Riddler. Two characters who primarily
+fight using not their fists, but their brains.
+
+154
+00:12:48,456 --> 00:12:52,658
+And of course we're doing this match now, having
+just come off of our review of Batman Hush
+
+155
+00:12:52,998 --> 00:12:57,941
+last week, in which the Riddler played a pretty
+prominent role. He was so great in that movie,
+
+156
+00:12:58,081 --> 00:13:02,323
+in Batman Hush. So we knew that we had to use
+him for a duel in this episode, and who better
+
+157
+00:13:02,343 --> 00:13:07,602
+to pit him against than Marvel's own suit wearing
+puzzling trickster, Arcade. Now if this is
+
+158
+00:13:07,622 --> 00:13:12,044
+your first time listening to one of our duel
+episodes, the way we determine the winner between
+
+159
+00:13:12,085 --> 00:13:17,648
+these two characters is we run a series of Monte
+Carlo simulations using the characters' base
+
+160
+00:13:17,688 --> 00:13:22,971
+stats. Now these stats are randomized along
+a normal distribution which is a bell curve
+
+161
+00:13:23,151 --> 00:13:27,334
+and that represents all the different variables
+that take place in battle. We use the stats
+
+162
+00:13:27,354 --> 00:13:31,636
+that are given in the Marvel official power
+rankings and we extrapolate the DC character
+
+163
+00:13:31,677 --> 00:13:36,491
+stats from those criteria. And we also incorporate
+a few more stats just to make a more robust
+
+164
+00:13:36,551 --> 00:13:43,254
+simulation. We take this approach because Joseph
+and I are both heavily biased in favor of either
+
+165
+00:13:43,314 --> 00:13:47,715
+DC or Marvel. Right. And this is the most scientific
+approach that we could think of to determine
+
+166
+00:13:47,735 --> 00:13:52,177
+the answer of who would win. Exactly. It was
+the same approach that Spike TV did in their
+
+167
+00:13:52,197 --> 00:13:56,739
+show Deadliest Warrior that was on the air about
+10 or so years ago. Probably more than that
+
+168
+00:13:56,759 --> 00:14:02,181
+now. Yeah. The simulation results give us a
+percentage of wins for each character because
+
+169
+00:14:02,402 --> 00:14:07,185
+There's always one way a character can defeat
+another, always a way for Batman to defeat
+
+170
+00:14:07,265 --> 00:14:12,228
+Superman. Right, so no character ever wins 100%
+of the time if we've done our job right in
+
+171
+00:14:12,349 --> 00:14:17,372
+picking a fair matchup. So we don't consider
+fan votes, and we don't consider like extraordinary
+
+172
+00:14:17,432 --> 00:14:21,035
+feats of strength that are uncharacteristic
+for the character. Right. 90% of the time.
+
+173
+00:14:21,275 --> 00:14:25,318
+It's just these base stats with simulations.
+Now before we run these simulations, we like
+
+174
+00:14:25,338 --> 00:14:29,941
+to go into the histories and abilities of each
+character. I think it's my turn to go first
+
+175
+00:14:29,961 --> 00:14:34,050
+with Arcade. Now I'm not sure how many people
+out there actually know a lot about the history
+
+176
+00:14:34,090 --> 00:14:38,392
+of arcade given that he hasn't been in a whole
+lot of comic book issues. I don't remember
+
+177
+00:14:38,412 --> 00:14:43,533
+him from the cartoon at all. You don't? No.
+He was in X-Men Evolution, he was even in Ultimate
+
+178
+00:14:43,573 --> 00:14:46,914
+Spider-Man cartoon. Oh wow. Yeah, he's been
+in a lot of different things. Primarily though,
+
+179
+00:14:47,134 --> 00:14:52,355
+I think he really works best in the video games.
+I remember the arcade boss battle in Marvel
+
+180
+00:14:52,416 --> 00:14:56,577
+Ultimate Alliance. The whole murder world level
+was incredible. He was a villain that was like
+
+181
+00:14:56,617 --> 00:15:01,215
+tailor-made for video games. What was the name
+like, arcade? You would hope so. Right, exactly.
+
+182
+00:15:02,055 --> 00:15:07,060
+So little is known about the villain Arcade's
+early history. Even his real name has never
+
+183
+00:15:07,100 --> 00:15:11,904
+been revealed. He has told, however, that he
+was born to an incredibly wealthy family and
+
+184
+00:15:11,924 --> 00:15:18,189
+had a lifelong fixation with toys and games.
+His father detested his childish hobbies and
+
+185
+00:15:18,229 --> 00:15:23,193
+abused Arcade when he was young. On his 21st
+birthday, his parents withdrew his trust fund,
+
+186
+00:15:23,573 --> 00:15:28,417
+and in retaliation, Arcade killed his parents
+with a car bomb, inheriting all their wealth.
+
+187
+00:15:29,098 --> 00:15:33,340
+It's unknown if that story is actually part
+of Arcade's past or not, or if he made it up
+
+188
+00:15:33,600 --> 00:15:38,383
+just for his own sick enjoyment. What is known
+is that as a young adult, Arcade turned his
+
+189
+00:15:38,443 --> 00:15:44,907
+enjoyment of murder into a career as an assassin,
+charging $1 million per contract. Over time,
+
+190
+00:15:45,187 --> 00:15:50,290
+he grew bored of killing people using conventional
+means, and started using his technological
+
+191
+00:15:50,350 --> 00:15:56,782
+genius to build elaborate murder traps in a
+mobile facility he called Murderworld. He based
+
+192
+00:15:56,822 --> 00:16:01,384
+his traps on his targets greatest fears and
+weaknesses. By vetting his victims and learning
+
+193
+00:16:01,564 --> 00:16:06,027
+everything about them, he could tailor his deadly
+machinations to provide them with the most
+
+194
+00:16:06,067 --> 00:16:11,350
+amount of despair, while simultaneously providing
+himself with the most amount of amusement.
+
+195
+00:16:11,670 --> 00:16:16,993
+He enjoys watching people die. Though Arcade
+loved relishing how much his victims suffered,
+
+196
+00:16:17,193 --> 00:16:20,875
+he would often laugh at and taunt them through
+a loudspeaker, he would always give them a
+
+197
+00:16:20,935 --> 00:16:26,855
+tiny chance of escape for sport. Though no one
+ever escaped. Murderworld made him renowned
+
+198
+00:16:26,895 --> 00:16:32,298
+in the criminal underworld, and he took on the
+codename Arcade. He's a lot like Jigsaw from
+
+199
+00:16:32,318 --> 00:16:36,561
+the Saw films. Yeah, pretty much. And I guess
+like the Riddler from the Arkham games. Yeah,
+
+200
+00:16:36,601 --> 00:16:40,404
+although Arcade is a little bit more whimsical,
+or at least he used to be. Like one of his
+
+201
+00:16:40,464 --> 00:16:45,407
+most memorable appearances was when he put the
+X-Men in a giant pinball machine. That sounds
+
+202
+00:16:45,427 --> 00:16:51,091
+cool, actually. So Arcade hired two assistants.
+Mr. Chambers, his chief engineer, and Miss
+
+203
+00:16:51,171 --> 00:16:56,935
+Locke, a martial arts expert and field agent,
+to lure Arcade's victims into Murder World.
+
+204
+00:16:57,315 --> 00:17:01,317
+She was also Arcade's lover, and the two often
+played deadly games with each other for the
+
+205
+00:17:01,337 --> 00:17:07,000
+thrill. Over time, Arcade killed numerous conventional
+targets and eventually grew bored again, but
+
+206
+00:17:07,040 --> 00:17:12,483
+a contract to kill Captain Britain led to the
+first Murder World escape, and brought a newfound
+
+207
+00:17:12,543 --> 00:17:17,826
+enjoyment to Arcade, who decided he would dedicate
+his resources toward killing superheroes. Not
+
+208
+00:17:17,866 --> 00:17:19,607
+for the money, but for the challenge.
+
+209
+00:17:24,018 --> 00:17:29,799
+and teams such as X-Men, X-Factor, and Excalibur.
+But although the heroes kept escaping, Arcade
+
+210
+00:17:29,819 --> 00:17:34,561
+at least managed to avoid capture himself each
+time. One day, while recuperating from his
+
+211
+00:17:34,601 --> 00:17:39,122
+latest failure, he grew angry and stabbed his
+lover Miss Locke too deep while they were in
+
+212
+00:17:39,182 --> 00:17:44,284
+bed playing with a knife. Unable to cope with
+the idea that he murdered her, he convinced
+
+213
+00:17:44,304 --> 00:17:48,785
+himself that Wolverine had done it, and employed
+the mutant illusionist mastermind to help him
+
+214
+00:17:48,825 --> 00:17:54,347
+get his revenge. Mastermind learned the truth
+and turned on Arcade, imprisoning him in a
+
+215
+00:17:54,427 --> 00:17:59,469
+murder world in his own mind. Arcade later recovered
+and went on to terrorize superheroes such as
+
+216
+00:17:59,549 --> 00:18:04,712
+Deadpool, Hercules, and Black Cat, once teaming
+up with the mystical villain Nightmare to create
+
+217
+00:18:04,752 --> 00:18:10,414
+a murder world that was a terrifying labyrinth.
+However, Arcade still had yet to keep a hero
+
+218
+00:18:10,454 --> 00:18:14,756
+from escaping. After learning that most other
+villains thought of him as a gimmicky joke,
+
+219
+00:18:15,236 --> 00:18:20,671
+Arcade grew depressed and decided that playing
+for amusement... was less important than playing
+
+220
+00:18:20,731 --> 00:18:25,454
+to win. He hired a new assistant named Miss
+Coriander who helped him build a murder world
+
+221
+00:18:25,554 --> 00:18:31,318
+in Antarctica using nanotechnology, as well
+as a special suit that would grant him god-like
+
+222
+00:18:31,358 --> 00:18:37,522
+powers within the facility. He captured young
+teenage heroes from Avengers Academy, the Runaways,
+
+223
+00:18:37,682 --> 00:18:41,585
+and Xavier School for the Gifted, and told them
+they would have to kill each other, and that
+
+224
+00:18:41,685 --> 00:18:46,208
+only the survivor would escape. In the Avengers
+Arena miniseries, he pretty much admitted that
+
+225
+00:18:46,268 --> 00:18:49,730
+he stole the idea from the Hunger Games books.
+I was gonna say Battle Royale. Yeah, but...
+
+226
+00:18:49,750 --> 00:18:55,592
+Well... The young heroes instantly rebelled,
+but he used his god powers to kill Metal from
+
+227
+00:18:55,612 --> 00:19:00,293
+the Avengers Academy. Red Raven then tried to
+escape, but she broke her neck by slamming
+
+228
+00:19:00,393 --> 00:19:06,595
+into the facility's barrier. Oh jeez. The teens
+fled and hid across Murderworld, creating alliances
+
+229
+00:19:06,695 --> 00:19:11,376
+just as Arcade hoped. He manipulated the terrain
+and drew them toward each other with supplies
+
+230
+00:19:11,396 --> 00:19:17,286
+and weapons, leading to a hero named Anachronism
+killing Kid Brittain. The Game of Death brought
+
+231
+00:19:17,306 --> 00:19:22,507
+out the dark side of the hero Apex, who killed
+Avengers Academy teammate Justin Seifert and
+
+232
+00:19:22,547 --> 00:19:27,909
+Runaways member Nico Minoru. Although Nico managed
+to resurrect herself and in turn killed Apex
+
+233
+00:19:27,989 --> 00:19:33,070
+and Deathlock it, who is the cyborg daughter
+of the creator of the Deathlock program. When
+
+234
+00:19:33,090 --> 00:19:38,032
+the Avengers began investigating the teens'
+disappearance, Arcade used robots wearing the
+
+235
+00:19:38,072 --> 00:19:44,106
+dead teens' skin to convince them everything
+was fine. As more of the teens died... it seemed
+
+236
+00:19:44,146 --> 00:19:50,049
+Arcade had finally achieved success as a supervillain.
+The contest was cut short however when Deathlocket
+
+237
+00:19:50,069 --> 00:19:55,132
+was revealed to have survived her death and
+accessed Murderworld's control panel. But Arcade
+
+238
+00:19:55,172 --> 00:20:00,295
+managed to teleport away and uploaded the events
+of that Murderworld to YouTube, finally earning
+
+239
+00:20:00,335 --> 00:20:06,859
+him respect among his peers. The story was so
+brutal. I highly suggest reading Avengers Arena
+
+240
+00:20:07,259 --> 00:20:11,121
+if you haven't already. You already know the
+ending, but you know, you knew the ending of
+
+241
+00:20:11,161 --> 00:20:15,565
+Hunger Games. before you saw that or read the
+book, so you know, read it. I highly recommend
+
+242
+00:20:15,605 --> 00:20:20,790
+it. So a few of the surviving heroes from the
+Antarctic murder world managed to track Arcade
+
+243
+00:20:20,830 --> 00:20:25,334
+down by going undercover in the Masters of Evil.
+They strapped into the front of a S.H.I.E.L.D.
+
+244
+00:20:25,615 --> 00:20:30,359
+helicarrier as they flew around on their missions,
+and that was the last that he was seen. Holy
+
+245
+00:20:30,559 --> 00:20:34,863
+cow. Now Arcade has a genius level intellect
+and is an expert when it comes to electronics,
+
+246
+00:20:35,124 --> 00:20:40,188
+robotics, engineering, and design. He even taught
+himself to master the She-R holographic technology
+
+247
+00:20:40,228 --> 00:20:44,912
+that once powered the X-Men's danger room training
+sessions. He prefers not to fight, but has
+
+248
+00:20:44,932 --> 00:20:49,296
+a history involving some hand-to-hand training.
+He also has equipped various personal defense
+
+249
+00:20:49,316 --> 00:20:54,180
+weapons, but instead he prefers to defeat his
+enemies in Murder World, as his main weakness
+
+250
+00:20:54,240 --> 00:20:59,384
+is definitely his intense need for entertaining
+mental stimulation. And that's arcade. He has
+
+251
+00:20:59,404 --> 00:21:04,568
+like super ADD. And you combine that with violent
+psychopathic tendencies, and you have a recipe
+
+252
+00:21:04,608 --> 00:21:09,371
+for disaster. He's a really fascinating villain,
+one that I really never gave enough credit
+
+253
+00:21:09,491 --> 00:21:13,633
+until I read up on him. That recipe for disaster
+is pretty close to the recipe that made the
+
+254
+00:21:13,673 --> 00:21:17,234
+Riddler as well. Really? There's some strong
+connections there. Interesting, let's hear
+
+255
+00:21:17,254 --> 00:21:23,397
+it. Now the Riddler, aka Edward Nigma, is one
+of the most notorious and ridiculed villains
+
+256
+00:21:23,457 --> 00:21:30,460
+of Batman's Rogue's gallery. Born Edward Nashton,
+he grew up to an abusive father and absentee
+
+257
+00:21:30,500 --> 00:21:36,202
+mother. While in school at a young age, Edward's
+teacher promised a prize to the student who
+
+258
+00:21:36,222 --> 00:21:42,144
+could solve a puzzle the fastest. Showing both
+compulsive and narcissistic tendencies early
+
+259
+00:21:42,304 --> 00:21:47,306
+on, Edward broke into the school at night to
+figure out how to solve the puzzle in under
+
+260
+00:21:47,326 --> 00:21:53,369
+a minute, and when he did it the next day, he
+was given a book of riddles as a prize. Edward's
+
+261
+00:21:53,409 --> 00:21:58,851
+intelligence was often praised, but not by his
+father, who disliked his son being smarter
+
+262
+00:21:58,871 --> 00:22:06,114
+than him and often accused him of cheating,
+something Edward himself would later in life.
+
+263
+00:22:06,455 --> 00:22:11,359
+His father's beatings only drove Edward's obsession
+with proving his intellectual superiority,
+
+264
+00:22:11,779 --> 00:22:18,025
+suffering from severe insecurity-borne distress
+if he was unable to do so. Like a surprising
+
+265
+00:22:18,125 --> 00:22:24,010
+many of Batman's villains, the Riddler worked
+early on at a carnival, where he used his deductive
+
+266
+00:22:24,050 --> 00:22:29,355
+skills to cheat the carnival goers out of their
+money. Wishing to move up in the world, he
+
+267
+00:22:29,395 --> 00:22:34,495
+changed his name to Edward Nigma. and climbed
+up the corporate world to become the chief
+
+268
+00:22:34,535 --> 00:22:40,037
+strategist at Wayne Enterprises during Bruce
+Wayne's worldwide travels in preparation to
+
+269
+00:22:40,057 --> 00:22:46,380
+fight crime in Gotham City. With Edward's shady
+backdoor schemes and profiteering exposed upon
+
+270
+00:22:46,460 --> 00:22:52,963
+Bruce Wayne's return, Edward's career was left
+in ruins. Wishing revenge against Wayne Enterprises
+
+271
+00:22:53,263 --> 00:22:55,944
+and all of the idiots in Gotham City, Edward
+
+272
+00:22:59,906 --> 00:23:06,228
+during a hurricane as the Riddler, making him
+the first masked villain of Batman's crime-fighting
+
+273
+00:23:06,268 --> 00:23:13,051
+career post-New 52. Further threatening the
+city with explosive weather balloons, the Riddler's
+
+274
+00:23:13,091 --> 00:23:18,053
+secret location was eventually tracked down
+by Batman, and when the Riddler threatened
+
+275
+00:23:18,133 --> 00:23:23,475
+to blow up the city unless Batman could solve
+twelve of his riddles, Batman surprisingly
+
+276
+00:23:23,615 --> 00:23:25,836
+answered by punching the Riddler in the face.
+
+277
+00:23:30,222 --> 00:23:35,906
+That's pretty good. Diagnosed with a form of
+obsessive-compulsive disorder, Edward was sentenced
+
+278
+00:23:36,006 --> 00:23:41,229
+to Arkham Asylum for psychiatric treatment.
+To learn more about Batman, check out our Batman
+
+279
+00:23:41,249 --> 00:23:48,154
+vs. Moon Knight episode. So after proving himself
+a valuable criminal profiler and apt informant
+
+280
+00:23:48,194 --> 00:23:53,198
+of Gotham's underworld to the police force,
+the Riddler eventually grew bored at Arkham
+
+281
+00:23:53,418 --> 00:23:57,561
+and walked out simply by reciting the names
+of the guards' loved ones as they confronted
+
+282
+00:23:57,581 --> 00:24:03,288
+him. Huh. Offering to team up with the Joker
+to kill Batman, the Riddler was instead shot
+
+283
+00:24:03,488 --> 00:24:09,051
+by the Clown Prince of Crime, starting a large-scale
+gang war known as the War of Jokes and Riddles,
+
+284
+00:24:09,452 --> 00:24:15,555
+in which Batman's rogues divided their loyalties
+into two factions, the Joker's or the Riddler's.
+
+285
+00:24:15,915 --> 00:24:21,438
+Batman eventually sided with the Riddler in
+an attempt to stem the amount of innocent bystanders
+
+286
+00:24:21,518 --> 00:24:27,121
+killed in the supervillain feud, though by the
+end, Batman nearly killed the Riddler in anger.
+
+287
+00:24:27,706 --> 00:24:32,669
+and Edward and the Joker were sent back to Arkham.
+You can of course learn more about the Joker
+
+288
+00:24:33,110 --> 00:24:38,794
+in our Joker vs Green Goblin episode. During
+one of his stints at the asylum, the Riddler
+
+289
+00:24:38,814 --> 00:24:44,638
+was freed along with the rest of Batman's enemies
+by the villain Bane during the Nightfall storyline,
+
+290
+00:24:44,938 --> 00:24:50,783
+which you can learn more about in our Bane vs
+Iron Fist episode. The Riddler, psychologically
+
+291
+00:24:50,963 --> 00:24:57,639
+incapable of not leaving clues to stop his crimes,
+sent several letters to the Gotham Police Department,
+
+292
+00:24:58,160 --> 00:25:03,003
+all of which were ignored as the police were
+overwhelmed by the other Arkham villains out
+
+293
+00:25:03,043 --> 00:25:09,107
+causing mayhem. After the Riddler's henchmen
+abandoned him after they grew tired of waiting
+
+294
+00:25:09,127 --> 00:25:14,791
+for the police to fall into his trap, the Riddler
+hijacked a local news television show in a
+
+295
+00:25:14,831 --> 00:25:19,594
+bid for attention, holding the live audience
+hostage with a bomb detonator.
+
+296
+00:25:24,394 --> 00:25:33,377
+He was thwarted by Robin alone after the sidekick
+deduced that the Riddler's bomb was fake. Now,
+
+297
+00:25:33,417 --> 00:25:39,340
+considered an incompetent joke amongst Gotham's
+underworld for most of his career, the Riddler
+
+298
+00:25:39,360 --> 00:25:44,882
+was elevated to a new threatening level during
+the Hush storyline when the Riddler bathed
+
+299
+00:25:44,982 --> 00:25:50,784
+in a rejuvenating Lazarus pit in a desperate
+move to cure a malignant tumor that had developed
+
+300
+00:25:50,824 --> 00:25:58,808
+in his brain. Brought about by the Lazarus Pit,
+the Riddler deduced that Batman's real identity
+
+301
+00:25:59,068 --> 00:26:04,450
+was Bruce Wayne, and he teamed with the villain
+Hush to mastermind a plan that nearly drove
+
+302
+00:26:04,510 --> 00:26:10,373
+Batman insane as Bruce Wayne's loved ones were
+targeted by nearly every member of his rogue's
+
+303
+00:26:10,413 --> 00:26:16,515
+gallery. Batman prevailed in the end and reminded
+the captured Riddler that a riddle everyone
+
+304
+00:26:16,535 --> 00:26:22,718
+knew the answer to was worthless, ensuring that
+the Riddler kept his secret identity. During
+
+305
+00:26:22,758 --> 00:26:27,639
+the Infinite Crisis storyline, the Riddler joined
+the ranks of the Secret Society of Super-Villains,
+
+306
+00:26:28,099 --> 00:26:33,041
+only to be knocked unconscious and put in a
+coma by the hero Shining Knight. Waking up
+
+307
+00:26:33,081 --> 00:26:39,182
+a year later with amnesia, Edward amassed a
+small fortune legally as a private investigator,
+
+308
+00:26:39,543 --> 00:26:45,084
+frequently helping Batman and other heroes solve
+crimes for some time, before he was caught
+
+309
+00:26:45,104 --> 00:26:50,722
+in an explosion during a heroic escapade that
+re-triggered his psychosis. Whether he's plotting
+
+310
+00:26:50,822 --> 00:26:56,444
+schemes against Batman, Green Arrow, or even
+The Flash, The Riddler is pretty inconsistent
+
+311
+00:26:56,464 --> 00:27:01,845
+when it comes to success, sometimes failing
+in hilarious fashion and other times proving
+
+312
+00:27:01,885 --> 00:27:07,367
+himself frighteningly capable and underestimated.
+While the jury's out on whether or not he's
+
+313
+00:27:07,407 --> 00:27:12,849
+as intelligent as he claims to be, and though
+he has no powers or physical abilities of note,
+
+314
+00:27:13,369 --> 00:27:19,329
+he does have a genius level of intellect. capable
+of crafting elaborate death traps and lethal
+
+315
+00:27:19,389 --> 00:27:25,535
+weapons, more likely than not designed around
+a question mark motif, like his staff, which
+
+316
+00:27:25,575 --> 00:27:31,281
+has served successfully as a trigger for various
+tricks and snares, and somewhat less successfully
+
+317
+00:27:31,761 --> 00:27:36,446
+as a combat weapon. That's the Riddler. Yeah,
+there were quite a few similarities there.
+
+318
+00:27:36,706 --> 00:27:40,550
+Two fascinating villains. Let's go ahead and
+find out who would win in a fight. Now before
+
+319
+00:27:40,590 --> 00:27:45,112
+we run the simulations, what we'd like to do
+on this podcast is kind of improvise a scenario
+
+320
+00:27:45,212 --> 00:27:49,495
+and talk about how we think one of these 1000
+simulated battles would actually play out.
+
+321
+00:27:49,795 --> 00:27:53,377
+We don't set any rules for this battle, save
+for the fact that the characters don't know
+
+322
+00:27:53,477 --> 00:27:57,539
+anything about each other when they first meet,
+other than that the other one is a threat that
+
+323
+00:27:57,559 --> 00:28:02,442
+needs to be put down. And the fight takes place
+in an environment that plays no bearing on
+
+324
+00:28:02,462 --> 00:28:07,525
+the match itself. In a non-environment, as it
+were. Now these rules would normally apply
+
+325
+00:28:07,625 --> 00:28:13,299
+to our duel episodes. However, this one, we're
+taking a different approach. This improvised
+
+326
+00:28:13,319 --> 00:28:17,800
+scenario is not actually 100% improvised. Since
+these characters fight more with their brains
+
+327
+00:28:17,820 --> 00:28:22,761
+than with their fists, we did a little bit of
+prep work and you'll see what I mean as we
+
+328
+00:28:22,781 --> 00:28:27,003
+get into it. So the characters start off 50
+yards apart from each other on a non-environment
+
+329
+00:28:27,023 --> 00:28:36,105
+field. Who goes first? The Riddler. Okay. Right
+away he goes, riddle me this. So obviously
+
+330
+00:28:36,145 --> 00:28:40,684
+these characters, like, They don't really fight
+hand to hand. So we figure that what they'll
+
+331
+00:28:40,764 --> 00:28:45,507
+end up doing is they'll end up talking it out
+basically and try to figure out exactly which
+
+332
+00:28:45,547 --> 00:28:52,072
+of them is smarter. Now to that end, both Jonathan
+and I have prepared riddles for each other
+
+333
+00:28:52,152 --> 00:28:57,396
+and logic puzzles to kind of simulate this battle
+of the minds, if you will. So the characters,
+
+334
+00:28:57,716 --> 00:29:02,659
+they sit down next to each other. Arcade pulls
+out these taser discs that he usually uses
+
+335
+00:29:03,060 --> 00:29:07,651
+to strap onto victims that he's luring into
+murder world. and he straps a taser disc onto
+
+336
+00:29:07,691 --> 00:29:13,095
+himself and to the Riddler, and the scenario
+is this. The characters each have to answer
+
+337
+00:29:13,195 --> 00:29:19,080
+five riddles. Whoever gets the most incorrect
+gets zapped and electrocuted and dies. And
+
+338
+00:29:19,100 --> 00:29:22,643
+that's how the speculation is gonna play out.
+This is already gonna be a horrible speculation.
+
+339
+00:29:22,763 --> 00:29:28,067
+I am nowhere near as intelligent as the Riddler.
+I'm nervous, I'm super nervous about this.
+
+340
+00:29:28,248 --> 00:29:33,932
+For Arcade, I didn't develop riddles so much
+as theme existing logic puzzles to the X-Men
+
+341
+00:29:33,952 --> 00:29:39,131
+characters. Riddles, some of them actually are
+riddles that the Riddler has actually used
+
+342
+00:29:39,211 --> 00:29:43,234
+in the comics. Uh-huh. Not all of them, but
+hopefully they're clever enough to stump you.
+
+343
+00:29:43,654 --> 00:29:49,557
+Okay, so let's get into it. Okay, okay, okay.
+Riddle me this. Alright. It holds most knowledge
+
+344
+00:29:49,657 --> 00:29:55,800
+that's ever been said, but is not the brain
+and is not the head. To feathers, they're masters,
+
+345
+00:29:56,141 --> 00:30:03,585
+both bane and boon, respectively when empty
+and when full. The feathers make me think it's
+
+346
+00:30:03,605 --> 00:30:11,530
+like a quill. Is it a pen? No. Is it a book?
+No. No, close though. Is it a bookshelf? No.
+
+347
+00:30:11,850 --> 00:30:17,474
+How many answers do you get? As many as I fucking
+need. I'm not as smart as Arcade, okay? Is
+
+348
+00:30:17,534 --> 00:30:23,338
+it, so it's close to a book? Okay, is it a piece
+of paper? Yeah. Is it a letter? Yeah. There
+
+349
+00:30:23,358 --> 00:30:31,023
+you go. It's paper. Paper. Okay, awesome. Yeah,
+writers use like feathered cool pens and you
+
+350
+00:30:31,043 --> 00:30:35,578
+know, when the page is full of writing, it's
+good. And when it's empty, it's not. Okay,
+
+351
+00:30:35,598 --> 00:30:39,840
+yeah, that's what I figured. Yeah, after like
+five tries. I thought it was like when the
+
+352
+00:30:39,900 --> 00:30:44,783
+pen was full of ink as opposed to when the pen
+was empty. Nah, anyway, Arcade does not get
+
+353
+00:30:44,843 --> 00:30:49,826
+zapped because I got the answer right. Oh gosh.
+Now, okay, now Arcade has a puzzle for the
+
+354
+00:30:49,866 --> 00:30:57,130
+Riddler. At 9 a.m. multiple men caught a cold
+and began sneezing at the start of every minute.
+
+355
+00:30:58,051 --> 00:31:04,154
+Every time he sneezed, he created a duplicate
+of himself with the same exact cold. and each
+
+356
+00:31:04,214 --> 00:31:10,455
+time a duplicate sneezed, it created its own
+duplicate. At exactly 9.06 a.m., his apartment
+
+357
+00:31:10,475 --> 00:31:17,317
+was half full of dupes. At what time will his
+apartment be completely full? That's an easy
+
+358
+00:31:17,437 --> 00:31:23,259
+one. I mean, if he's doubling every minute and
+then at 9.06, his apartment is half full, it
+
+359
+00:31:23,279 --> 00:31:29,140
+means at 9.07, it will be full. Correct. You're
+right. Whatever. It was an easy one. It was
+
+360
+00:31:29,160 --> 00:31:33,978
+an easy one. Yeah. The number of multiple men
+doubles each minute. Therefore you can say
+
+361
+00:31:34,018 --> 00:31:40,002
+that at 9-07 his apartment is full, being half
+full the previous minute. Okay, I don't get
+
+362
+00:31:40,022 --> 00:31:45,886
+zapped either then. Yay. Alright. Riddle me
+this. Okay. I'm always moving forward, never
+
+363
+00:31:45,966 --> 00:31:54,112
+looking back. My end limit, no one knows. More
+of me, they lack. Like a river, I do flow.
+
+364
+00:31:54,472 --> 00:32:01,417
+Like a bird, I fly. Now go on and take a guess.
+What, say you, am I? It's either a clock or
+
+365
+00:32:01,537 --> 00:32:08,484
+time. Motherfucker. Time, yeah it's time. Time?
+Yeah, that makes sense. Cause time flies, it
+
+366
+00:32:08,524 --> 00:32:13,087
+always goes forward, you can never go back in
+time. That was an easy one. Okay, yeah, I guess
+
+367
+00:32:13,107 --> 00:32:18,810
+so. You're right, it was an easy one. I wanted
+it to be easy. Alright, alright, next puzzle
+
+368
+00:32:18,830 --> 00:32:25,794
+for the Riddler. The villain Toad is stuck in
+a muddy hole 100 feet deep and is trying to
+
+369
+00:32:25,854 --> 00:32:33,378
+get out. Every minute he jumps up 25 feet but
+slides down 24 feet. How long does it take
+
+370
+00:32:33,478 --> 00:32:38,720
+Toad to leap out the hole? Oh, this is like
+the frog in the well. Yes, except it's Toad
+
+371
+00:32:38,740 --> 00:32:42,982
+in the hole as opposed to a frog in a well.
+Okay, ah, math, okay. It's not that hard of
+
+372
+00:32:43,002 --> 00:32:53,166
+math. Essentially, he's going up a foot a minute?
+Correct. Okay, but by 75 minutes, 75 minutes,
+
+373
+00:32:53,226 --> 00:32:58,208
+right? Because 75 minutes, all he'll need is
+one more jump. Oh, so 76 minutes. Correct,
+
+374
+00:32:58,769 --> 00:33:04,680
+as 76 minutes or an hour and 16 minutes. Will
+take him up to a height of 76 feet at which
+
+375
+00:33:04,720 --> 00:33:08,943
+point when he leaps he'll leap 25 feet as usual
+He'll leap out of the hole and you won't slide
+
+376
+00:33:08,963 --> 00:33:13,466
+back down nice Always worried for a second I
+was gonna do the math on that one right a lot
+
+377
+00:33:13,506 --> 00:33:16,869
+of people say it'll take him a hundred minutes
+for that one and Calculating the one foot per
+
+378
+00:33:16,909 --> 00:33:20,731
+minute thing, but they don't think about that
+last jump. Yeah, okay good Thank you. You're
+
+379
+00:33:20,751 --> 00:33:24,514
+doing pretty well so far. Okay. I'm trying to
+stump you. I'm trying Let's see if I could
+
+380
+00:33:24,534 --> 00:33:30,722
+do it with this next one riddle me this okay
+when I'm quick. I am deadly A rock, shell,
+
+381
+00:33:30,762 --> 00:33:38,528
+and bone medley. As a man, I'd make you dream
+nearby ocean, sea, and stream. Rock, shell,
+
+382
+00:33:38,588 --> 00:33:43,712
+and bone medley. Makes me think it's like a
+wave or something, but what makes you dream?
+
+383
+00:33:44,312 --> 00:33:50,316
+Sleep? Like what puts you to sleep? Like laying
+by the ocean puts you to sleep? No? Is that?
+
+384
+00:33:51,217 --> 00:33:59,086
+Sandman! Sand! Oh, mother- Yes. Sand? Yeah,
+it's sand. Yeah! I was worried about that third
+
+385
+00:33:59,106 --> 00:34:02,469
+line as I was reading it. I was like, oh, this
+is too easy. Yeah, that kind of gives it away.
+
+386
+00:34:02,509 --> 00:34:06,111
+The whole as a man I make you sleep thing. That's
+really the whole riddle. Yeah. Yeah, that's
+
+387
+00:34:06,131 --> 00:34:13,696
+the whole riddle right there. All right. So
+next puzzle for the Riddler. You are Nightcrawler.
+
+388
+00:34:14,117 --> 00:34:20,181
+You are trying to save Juggernaut, Deadpool
+and a Chimichanga from the roof of a burning
+
+389
+00:34:20,241 --> 00:34:26,225
+building. You have to teleport all three to
+the safety of the street below, but you can
+
+390
+00:34:26,285 --> 00:34:31,841
+only teleport. one at a time. Now you can't
+leave Deadpool all alone with the chimichanga
+
+391
+00:34:32,242 --> 00:34:37,146
+because he'll eat it. You can't leave Juggernaut
+all alone with Deadpool because he'll rip Deadpool
+
+392
+00:34:37,186 --> 00:34:43,511
+to shreds. Now in what sequence can you safely
+teleport all three from the burning building
+
+393
+00:34:43,731 --> 00:34:47,474
+to the street? Can't you just have Deadpool
+eat the chimichanga? What's wrong with him
+
+394
+00:34:47,554 --> 00:34:51,017
+eating the- You have to save the chimichanga,
+that's part of the rules of the puzzle. You
+
+395
+00:34:51,037 --> 00:34:55,221
+have to save the Juggernaut, Deadpool, and the
+chimichanga from the burning building through
+
+396
+00:34:55,241 --> 00:34:59,865
+teleportation. Okay. Again, you can only teleport
+one at a time and you can't leave Deadpool
+
+397
+00:34:59,925 --> 00:35:04,088
+alone with either the chimichanga and you can't
+leave him alone with the juggernaut. Okay.
+
+398
+00:35:04,128 --> 00:35:09,433
+So what's the sequence? Okay, so like okay,
+so juggernaut is not gonna eat the chimichanga?
+
+399
+00:35:09,613 --> 00:35:16,259
+Correct, right. Yeah, he's safe with the chimichanga.
+Okay. Okay, so Nightcrawler will teleport Deadpool
+
+400
+00:35:16,339 --> 00:35:24,025
+first and then go back for juggernaut. Okay.
+Okay, so then he takes juggernaut across the
+
+401
+00:35:24,045 --> 00:35:28,732
+street. But he could take Deadpool back to the
+burning building, right? Correct. Yes. OK.
+
+402
+00:35:28,892 --> 00:35:32,614
+Well, then he takes Deadpool back to the burning
+building, grabs the chimichanga, goes back
+
+403
+00:35:32,654 --> 00:35:37,056
+across the street, leaves the chimichanga with
+Juggernaut and then goes back for Deadpool
+
+404
+00:35:37,316 --> 00:35:41,399
+and brings him back across the street. So all
+are safe now. Yep. You got it. You got it.
+
+405
+00:35:41,599 --> 00:35:45,841
+Fuck. I thought that would be a hard one. It's
+just it's just a lot. It takes a lot of back
+
+406
+00:35:45,861 --> 00:35:49,783
+and forth. Yeah. Basically, if you just remember
+that Juggernaut is safe with the chimichanga,
+
+407
+00:35:50,024 --> 00:35:54,446
+then you kind of work from there. Yeah. Then
+it's pretty straightforward. Yeah. Alright,
+
+408
+00:35:54,686 --> 00:36:02,030
+next. Riddle me this. Reaching stiffly for the
+sky, I bare my fingers when it's cold. In warmth,
+
+409
+00:36:02,170 --> 00:36:11,055
+I wear an emerald glove, and in between I dress
+in gold. Uh, reach gloved hands to the cold
+
+410
+00:36:11,115 --> 00:36:17,699
+sky? Yeah, dressing in green and gold. Yes.
+In warmth, I wear- Oh, it's a tree! Or a branch.
+
+411
+00:36:17,859 --> 00:36:22,758
+Okay, alright. Yeah, it's a tree. It's either
+a branch or a tree. That one was obvious. Okay.
+
+412
+00:36:22,778 --> 00:36:29,043
+I suck. These are way easy. The Riddler is a
+horrible, horrible deliverer of riddles. Alright,
+
+413
+00:36:29,884 --> 00:36:36,350
+Riddler's turn. So Mirage, from the New Mutants,
+encounters a bear in a wasteland at night,
+
+414
+00:36:36,710 --> 00:36:42,695
+where no one else is around. Mistaking it for
+the Demon Bear, Mirage runs away to the north
+
+415
+00:36:43,115 --> 00:36:50,718
+by 20 yards. The bear runs away to the west
+by 30 yards. Suddenly, Mirage stops... She
+
+416
+00:36:50,778 --> 00:36:56,982
+aims her psionic bow directly south and shoots
+the bear with a neural arrow. What color was
+
+417
+00:36:57,022 --> 00:37:02,646
+the bear? What the fuck? Why does it matter
+if she shoots him? She would have missed because
+
+418
+00:37:02,686 --> 00:37:07,549
+he wasn't there to begin with. She aims directly
+south and she shoots him. But he's not there
+
+419
+00:37:07,569 --> 00:37:13,493
+because he's 30 yards west. That doesn't make
+any sense. The question is, what color is the
+
+420
+00:37:13,533 --> 00:37:20,082
+bear, sir? You never said the color. Brown.
+The bear is brown. Bears are brown. BOOM you
+
+421
+00:37:20,102 --> 00:37:22,604
+just got electrocuted! Riddler just got electrocuted!
+Zzzz
+
+422
+00:37:49,438 --> 00:37:54,921
+You sit-a-lin geometry on me. Yeah, actually
+Einstein wrote this riddle. Really? Yeah, except
+
+423
+00:37:55,001 --> 00:37:59,305
+obviously he didn't use Mirage and the demon
+bear, it was just a hunter and a polar bear.
+
+424
+00:37:59,885 --> 00:38:07,790
+First of all, you said a wasteland. Yeah, the
+North Pole's a fucking wasteland. Whatever,
+
+425
+00:38:07,991 --> 00:38:16,357
+fine. All right, your turn. Yay, I'm winning.
+Okay, here we go. Last one, prepare to be electrocuted.
+
+426
+00:38:16,897 --> 00:38:22,935
+Riddle me this. What's the beginning of eternity,
+the end of time and space, the beginning of
+
+427
+00:38:23,015 --> 00:38:29,577
+every end, and the end of every race? I know
+this one. What? I've heard this one before.
+
+428
+00:38:29,977 --> 00:38:35,158
+It's the letter E. Fuck! Right? What? The beginning
+of eternity, the end of time and space, time
+
+429
+00:38:35,178 --> 00:38:40,140
+and space ends with the letter E. The beginning
+of every end. Yeah. And the end of every race.
+
+430
+00:38:40,380 --> 00:38:45,381
+Right. Well look at you! I got them all right!
+Alright, here's the last puzzle for the Riddler.
+
+431
+00:38:46,006 --> 00:38:53,148
+Beast is developing a chemical solution to power
+the X-Jet with alternative fuels. His new formula
+
+432
+00:38:53,468 --> 00:39:00,750
+calls for exactly 4 liters of liquid nitrogen.
+The problem is he only has an unmarked 5 liter
+
+433
+00:39:00,850 --> 00:39:07,992
+Erlenmeyer flask and an unmarked 3 liter Erlenmeyer
+flask. How can he use these flasks to measure
+
+434
+00:39:08,092 --> 00:39:13,522
+out the 4 liters of liquid that he needs? Why
+are all of yours involving math? That's what
+
+435
+00:39:13,542 --> 00:39:19,286
+I want to know. This is barely math. It's like
+elementary addition and subtraction math. Okay.
+
+436
+00:39:19,306 --> 00:39:27,071
+Yeah. So they're unmarked flasks and he needs
+four liters. Right. Did you ever see Die Hard
+
+437
+00:39:27,091 --> 00:39:30,914
+with a Vengeance? This puzzle was in that movie.
+Oh yeah? Yeah. Awesome, I should have seen
+
+438
+00:39:30,934 --> 00:39:40,041
+the movie. I know how to do it. I would fill
+up the five liter flask. Uh-huh. And then I
+
+439
+00:39:40,061 --> 00:39:44,254
+would empty three of the liters. into the three
+liter flask. Right, you'd fill that three liter
+
+440
+00:39:44,274 --> 00:39:47,895
+flask up. Right, all the way to the top. So
+I would, I know I would have two liters in
+
+441
+00:39:47,935 --> 00:39:53,337
+the five liter flask. Right. And three liters
+in the three liter flask. Correct. So I just
+
+442
+00:39:53,357 --> 00:39:58,418
+need to figure out how to get rid of the one
+and the three liter. Well, where's the nitrogen
+
+443
+00:39:58,458 --> 00:40:03,460
+coming from? It's coming from a liquid nitrogen
+tank. You can pour liquid out too, is all I'm
+
+444
+00:40:03,480 --> 00:40:08,261
+saying. Just dump it on the floor, you know.
+He has an unlimited supply of liquid nitrogen.
+
+445
+00:40:08,861 --> 00:40:16,499
+Okay, that's good to know. Okay, so I still
+have five liters. I'll empty out the three
+
+446
+00:40:16,519 --> 00:40:22,500
+liter flask, put the two liters that I still
+have in the five liter flask into the three
+
+447
+00:40:22,540 --> 00:40:28,262
+liter flask. Right? So it's one liter away from
+being full. Correct. And there's nothing in
+
+448
+00:40:28,302 --> 00:40:33,363
+the five liter flask now. Right. Okay, well
+then I'll just fill up the five liter flask
+
+449
+00:40:34,304 --> 00:40:40,025
+and then empty one liter of it into the three
+liter flask. So I have four left over in the
+
+450
+00:40:40,065 --> 00:40:43,943
+five. and I'll just dump whatever's in the three
+liter flask. And you have your four liter right
+
+451
+00:40:43,963 --> 00:40:51,565
+there. Boom, boom. You got it. I'm smart, dude.
+All I know is that we've come to the end of
+
+452
+00:40:51,605 --> 00:40:56,086
+the riddles and the puzzles and the Riddler
+was the only one that got any of these questions
+
+453
+00:40:56,126 --> 00:41:02,408
+wrong. So guess what? Arcade presses his trigger
+and the Riddler gets zapped and electrocuted
+
+454
+00:41:02,668 --> 00:41:08,842
+until he dies. Yeah, except that the Riddler
+used a reverse frequency. Analyzer on his cane
+
+455
+00:41:08,982 --> 00:41:14,144
+what to redirect the frequency to arcade and
+he got electrocuted He doesn't have a sucker.
+
+456
+00:41:14,204 --> 00:41:20,587
+It's a reverse frequency Versus transmission
+frequencies shut up. That's cheating. No. Yeah,
+
+457
+00:41:20,607 --> 00:41:24,969
+that's fine. Well, okay the river cheats Well,
+he cheats all the time. Yes What little did
+
+458
+00:41:24,989 --> 00:41:30,792
+you know that arcade wouldn't dare risk putting
+an electrified taser disc on his own body?
+
+459
+00:41:31,172 --> 00:41:36,090
+Not knowing whether or not he would know the
+answers and get out of this alive. So He actually
+
+460
+00:41:36,130 --> 00:41:39,813
+just projected a hologram of himself right there.
+That was a hologram that was answering these
+
+461
+00:41:39,853 --> 00:41:43,937
+questions. In reality, Arcade's been standing
+behind Riddler this whole time, and he just
+
+462
+00:41:43,977 --> 00:41:49,201
+shoots him with a gun. Oh yeah? Yeah. Well,
+little did you know that the Riddler noticed
+
+463
+00:41:49,221 --> 00:41:54,386
+that Arcade was a hologram through his powers
+of deduction, and he knew that the real one
+
+464
+00:41:54,406 --> 00:41:59,250
+was probably up behind him. What? So before
+Arcade could fire that gun, the Riddler spins
+
+465
+00:41:59,270 --> 00:42:03,738
+around in his chair and uses his cane to knock
+the gun out of Arcade's hand. Alright, okay,
+
+466
+00:42:03,758 --> 00:42:06,861
+so now this is just like a full-on brawl then,
+eh? Let's do it! We're not fighting with our
+
+467
+00:42:06,881 --> 00:42:11,104
+brains anymore? Come at me, bro. So, Arcade
+lunges at Riddler and pounces on him, knocks
+
+468
+00:42:11,124 --> 00:42:15,408
+him off his chair, and starts choking the shit
+out of him. How are you gonna choke someone
+
+469
+00:42:15,708 --> 00:42:20,813
+with a long metal cane, who's hitting you in
+the head? Well, Arcade gets hit in the head
+
+470
+00:42:20,853 --> 00:42:25,457
+and he rolls away, and then... No, he's out.
+He's been knocked unconscious. No, no, you
+
+471
+00:42:25,477 --> 00:42:30,341
+know, he's concussed. He's not unconscious.
+But he, like, throws up his fist, and like
+
+472
+00:42:30,361 --> 00:42:35,317
+this hard light... holographic like boxing glove
+on a spring shoots out and punches Riddler
+
+473
+00:42:35,337 --> 00:42:40,582
+in the face knocking him out cold. Hard light?
+Yeah, it's Shiar technology. Okay, well if
+
+474
+00:42:40,622 --> 00:42:45,686
+Arcade isn't knocked unconscious with the cane,
+the Riddler isn't with the boxing glove. That's
+
+475
+00:42:45,726 --> 00:42:50,450
+fair I guess. And then the Riddler pulls out
+a gun and shoots Arcade in the face. Except
+
+476
+00:42:50,510 --> 00:42:57,456
+Arcade leaps out of the way and he starts flying
+using these air stepper shoes that he has,
+
+477
+00:42:57,496 --> 00:43:02,879
+or he can like walk on air. What the fuck is
+this shit? Yeah, he has those. And then he
+
+478
+00:43:02,899 --> 00:43:07,161
+just drops a bomb onto the Riddler. Okay well
+as the bomb is dropping, that's when the Riddler
+
+479
+00:43:07,181 --> 00:43:14,284
+is like, RIDDLE ME THIS! I see without seeing.
+To me, darkness is as clear as daylight. What
+
+480
+00:43:14,324 --> 00:43:19,847
+am I? Arcade says who gives a shit, and then
+Riddler blows up. A bat! And so he swings his
+
+481
+00:43:19,887 --> 00:43:26,214
+cane like a bat, knocking the bomb back at Arcade.
+You got that riddle from Batman Forever. It
+
+482
+00:43:26,234 --> 00:43:32,157
+was the only thing I could come up with at the
+last minute for a bat. Okay, so allegedly this
+
+483
+00:43:32,197 --> 00:43:38,440
+is the type of bomb that could be batted upwards
+Yes. and still not explode. Whatever. We'll
+
+484
+00:43:38,600 --> 00:43:43,782
+end our improvised scenario there where either
+Arcade gets blown up with his own bomb or the
+
+485
+00:43:43,822 --> 00:43:47,964
+Riddler gets blown up with Arcade's bomb. And
+we'll go ahead and run the simulations and
+
+486
+00:43:48,004 --> 00:43:49,965
+find out which of these characters wins this
+match.
+
+487
+00:43:54,798 --> 00:44:00,603
+Alright, as much as I wanted that to be a battle
+of minds, you made it devolve into a battle
+
+488
+00:44:00,703 --> 00:44:05,647
+of fists in the end. What? Yeah, with your transmitter
+reversal device. They had to start punching
+
+489
+00:44:05,667 --> 00:44:10,392
+each other because they couldn't electrocute
+each other. Now intelligence wise, these guys
+
+490
+00:44:10,552 --> 00:44:15,196
+are probably on par with each other. Now I would
+say that Riddler has a higher success rate
+
+491
+00:44:15,256 --> 00:44:20,301
+in the comics than Arcade. However Arcade frequently
+goes up against more powerful heroes than I
+
+492
+00:44:20,321 --> 00:44:25,204
+would say the Riddler does. For the most part,
+the Riddler usually sticks to Gotham City in
+
+493
+00:44:25,424 --> 00:44:30,346
+Batman, but he's taken his gig to Central City
+to fight the Flash before. That being said,
+
+494
+00:44:30,426 --> 00:44:35,149
+it's pretty rare. Yeah, the rest of their stats
+were also pretty comparable in addition to
+
+495
+00:44:35,169 --> 00:44:39,331
+their intelligence. It's hard to say exactly
+what equipment each of these characters has
+
+496
+00:44:39,471 --> 00:44:44,254
+on them, so we kind of went with what you could
+consider default weapons. For Riddler, it included
+
+497
+00:44:44,294 --> 00:44:49,917
+his cane, as well as some question mark flashbangs
+and a gun, a pistol. Arcade, that was even
+
+498
+00:44:49,977 --> 00:44:55,139
+harder. but we assume that he had some kind
+of holographic image inducer, maybe some explosives,
+
+499
+00:44:55,660 --> 00:45:01,142
+maybe a gun. So that being said, we figured
+Arcade could probably deliver a higher damage
+
+500
+00:45:01,202 --> 00:45:06,244
+level than Riddler at any average given moment.
+Correct, because basically he's just dealing
+
+501
+00:45:06,264 --> 00:45:11,026
+with technology that's a little bit more advanced
+than Riddler typically works with. Right. But
+
+502
+00:45:11,066 --> 00:45:14,427
+in terms of like, you know, strength, speed,
+durability... They're average. They're not
+
+503
+00:45:14,467 --> 00:45:19,914
+typically lifting weights, you know? The only
+things these guys are lifting are... Pencils
+
+504
+00:45:19,934 --> 00:45:25,195
+to fill out their Sudoku. Right, exactly. Alright,
+so who do you think won between these two characters?
+
+505
+00:45:25,795 --> 00:45:30,977
+I'm pretty convinced it's Arcade. Just because
+of the few stats where he ranks higher than
+
+506
+00:45:30,997 --> 00:45:37,159
+the Red Lurin, namely damage and evasiveness,
+we figured that his holograms would make him
+
+507
+00:45:37,179 --> 00:45:42,120
+a little bit more tricky with his illusion casting
+and possible force field generation. Right,
+
+508
+00:45:42,340 --> 00:45:46,821
+again it all comes down to the toys that they're
+using at the moment. So that being said...
+
+509
+00:45:47,266 --> 00:45:55,512
+The winner of the Riddler vs Arcade is... You're
+correct, it's Arcade. What a cheater! Arcade
+
+510
+00:45:55,692 --> 00:46:04,499
+won 651 matches out of the 1000 simulations.
+The Riddler only won 349. So it wasn't that
+
+511
+00:46:04,520 --> 00:46:10,004
+close of a match. No, I'm not surprised. When
+one character is higher than another character,
+
+512
+00:46:10,304 --> 00:46:14,868
+even if it's by a little bit in multiple stats,
+it's gonna skew the results in their favor.
+
+513
+00:46:15,348 --> 00:46:23,243
+By skew, you mean... totally stop, totally annihilate.
+What a cheater. Totally win. I'm just in character
+
+514
+00:46:23,263 --> 00:46:30,546
+right now, what a cheater. That does it for
+this episode. Arcade beats Riddler 65.1% of
+
+515
+00:46:30,566 --> 00:46:34,467
+the time. Go ahead and reach out to us guys,
+let us know what you thought about this matchup.
+
+516
+00:46:34,787 --> 00:46:39,048
+And you can do that on social media, on Facebook,
+Instagram, or Twitter. Just visit our website,
+
+517
+00:46:39,088 --> 00:46:43,486
+dynamicduel.com, and you can get links to all
+of our social media profiles. If you visit
+
+518
+00:46:43,506 --> 00:46:48,070
+our website at dynamicduel.com, you'll also
+find a link to our merchandise store, which
+
+519
+00:46:48,090 --> 00:46:53,955
+is on T-Public. And if you use that link, you
+could get a discount on your first order of
+
+520
+00:46:54,035 --> 00:46:59,019
+t-shirts or phone cases or stickers. Stickers
+are awesome. Stickers are fricking awesome.
+
+521
+00:46:59,139 --> 00:47:03,363
+And they're only like $2. Yeah, definitely give
+those a check out. That does it for this episode.
+
+522
+00:47:03,403 --> 00:47:07,626
+In our next episode, we will be reviewing an
+X-Men film, since we're kind of on the theme
+
+523
+00:47:07,646 --> 00:47:12,290
+of X-Men with the villain, Arcade. We're gonna
+be reviewing an earlier X-Men movie. X-Men
+
+524
+00:47:12,330 --> 00:47:16,433
+Days of Future Past, which I think is one of
+the better X-Men films. It's definitely one
+
+525
+00:47:16,453 --> 00:47:20,917
+of the more interesting and it's certainly novel
+in the way that the two X-Men generation casts
+
+526
+00:47:21,317 --> 00:47:25,381
+kind of meet together in this one movie. So
+really looking forward to talking about that
+
+527
+00:47:25,421 --> 00:47:29,104
+film. Go ahead and watch it again if you guys
+haven't seen it recently and we'll be back
+
+528
+00:47:29,144 --> 00:47:33,327
+next week to go ahead and talk about it. Please
+don't forget to share, subscribe, rate or review
+
+529
+00:47:33,387 --> 00:47:37,550
+our podcast on whatever platform you're listening
+to us on. It goes a long way in helping spread
+
+530
+00:47:37,590 --> 00:47:43,822
+the word about the show. Again we're trying
+to get to 200 ratings. specifically on iTunes,
+
+531
+00:47:43,882 --> 00:47:48,391
+but if you're listening to us somewhere else,
+such as Spotify or Stitcher, please don't forget
+
+532
+00:47:48,431 --> 00:47:52,418
+to subscribe or rate us. Hope you guys enjoyed,
+we'll talk to you guys next time. Up, up and
+
+533
+00:47:52,458 --> 00:47:53,400
+away, true believers.
+
