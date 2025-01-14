@@ -1,0 +1,2935 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a DynaMic Network podcast.
+
+2
+00:00:24,686 --> 00:00:28,647
+Hey and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+3
+00:00:28,747 --> 00:00:33,729
+and debate the superiority between Marvel and
+DC by comparing their characters and stat-based
+
+4
+00:00:33,849 --> 00:00:40,132
+battle simulations. I'm Marvelous Joe. And I'm
+his twin brother Johnny DC. And in this episode,
+
+5
+00:00:40,492 --> 00:00:45,934
+guys, we're going to find out who would win
+in a fight between DC's The Monitor and Marvel's
+
+6
+00:00:46,435 --> 00:00:51,917
+The Watcher. Now we're coming straight off of
+our review of What If Season 3 in which The
+
+7
+00:00:51,977 --> 00:00:57,919
+Watcher Uwatu plays a prominent role, and the
+executive producers figured now was as good
+
+8
+00:00:57,959 --> 00:01:02,740
+a time as any to use that character in a duel
+and find out who would win when we put him
+
+9
+00:01:02,800 --> 00:01:07,941
+against DC's equivalent. Yeah, for a while there
+we were considering doing anti-Monitor or maybe
+
+10
+00:01:08,002 --> 00:01:12,383
+Metron against Watcher, but we voted on Monitor.
+This speculation will get pretty interesting.
+
+11
+00:01:12,763 --> 00:01:16,484
+Yeah, we'll find out who will win between those
+two characters later on this episode. Before
+
+12
+00:01:16,524 --> 00:01:19,825
+that, we're going to break down the comic book
+movie news to come out this past week of which
+
+13
+00:01:19,865 --> 00:01:26,840
+there was none. You get nothing. You stole fizzy
+lifting drinks. Good day, sir. Yeah, there's
+
+14
+00:01:26,880 --> 00:01:31,963
+a ton of rumors going on out there right now
+in regards to both the DCU and MCU, but nothing
+
+15
+00:01:32,003 --> 00:01:37,006
+really concrete. We will be breaking down this
+week's no prize winners and giving a question
+
+16
+00:01:37,026 --> 00:01:41,308
+of the week though. As always, we list our segment
+times in our episode description, so feel free
+
+17
+00:01:41,328 --> 00:01:45,991
+to check out the show notes if you want to skip
+ahead to a particular topic. Our artificially
+
+18
+00:01:46,011 --> 00:01:52,946
+intelligent Duel simulator AJ9K has a quick
+message for our listeners, so listen up. Why
+
+19
+00:01:53,006 --> 00:01:57,407
+hello there, do you want even more from this
+podcast? Then become a part of the dynamic
+
+20
+00:01:57,447 --> 00:02:02,490
+Duel community on Patreon, where you can choose
+from three tiers. The dynamic two-oh tier gives
+
+21
+00:02:02,510 --> 00:02:07,432
+you access to our Discord chat server. The fantastic
+four tier gives you two bonus episodes each
+
+22
+00:02:07,492 --> 00:02:13,042
+month, and the X-Force tier makes you an executive
+producer of this show. Lastly, The Diner Mike
+
+23
+00:02:13,062 --> 00:02:18,147
+podcast network tier lets you create your own
+podcast using this Monte Carlo simulator. Johnny
+
+24
+00:02:18,167 --> 00:02:22,631
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+25
+00:02:22,671 --> 00:02:28,157
+simulation results. Pitch the twins your ideas
+via email at dynamicduelpodcast at gmail.com.
+
+26
+00:02:29,218 --> 00:02:35,504
+Check it out at patreon.com slash dynamicduel.
+Pip pip cheerio. Thanks AJ and AK and thanks
+
+27
+00:02:35,524 --> 00:02:39,986
+to everyone who supports the podcast. Be sure
+guys to tune into the other shows in the DynaMic
+
+28
+00:02:40,026 --> 00:02:44,087
+Podcast Network this week including Max Destruction
+which pits your favorite action heroes from
+
+29
+00:02:44,147 --> 00:02:48,989
+film and television against each other. This
+week, hosts Scotty and Gilly are finding out
+
+30
+00:02:49,049 --> 00:02:54,830
+who would win between Homelander from The Boys
+and Omni-Man from Invincible. It's a big one.
+
+31
+00:02:55,290 --> 00:02:59,832
+On the Send Your World podcast, host Zachary
+Hepburn speculates on fights between fan favorite
+
+32
+00:02:59,912 --> 00:03:04,613
+anime and manga characters. Zach is off this
+week, but make sure to check out his latest
+
+33
+00:03:04,673 --> 00:03:10,192
+episodes if you have not already. On the Console
+Combat podcast, host John and Dean simulate
+
+34
+00:03:10,212 --> 00:03:14,896
+battles between popular video game characters.
+In yesterday's episode, they found out who
+
+35
+00:03:14,916 --> 00:03:21,822
+would win between Jax from Mortal Kombat and
+Jack 8 from Tekken. Visit dynamicpodcasts.com
+
+36
+00:03:22,342 --> 00:03:26,886
+or click the link in our show notes to listen
+to all of the shows in the DynaMic Podcast
+
+37
+00:03:26,986 --> 00:03:34,070
+Network. But with that out of the way, quick
+to the no prize. A No Prize is an award Marvel
+
+38
+00:03:34,110 --> 00:03:39,211
+used to give out to fans. Our version, the Dynamic
+Duel No Prize, is a digital award that we pushed
+
+39
+00:03:39,251 --> 00:03:44,293
+on Instagram for the person we feel gave the
+best answer to our question of the week. Last
+
+40
+00:03:44,333 --> 00:03:52,575
+week we asked you guys if you could recast any
+other DCEU actor in a DCU role, who would it
+
+41
+00:03:52,615 --> 00:03:57,717
+be and why? And this is coming off the news
+that Jason Momoa has been cast as Lobo in James
+
+42
+00:03:57,757 --> 00:04:04,063
+Gunn's new DC movie universe. having previously
+been in the DCEU of course as Aquaman. We got
+
+43
+00:04:04,103 --> 00:04:08,365
+a total of four answers, so we have three honorable
+mentions to go over before revealing this week's
+
+44
+00:04:08,445 --> 00:04:14,688
+no-price winner. Our first honorable mention
+goes to Colby Henches, who said, Hey boys,
+
+45
+00:04:14,708 --> 00:04:21,311
+Colby Henches. If any DCEU actor were coming
+back, I'd like to see it be everybody's favorite
+
+46
+00:04:21,331 --> 00:04:27,493
+Flash Thompson, Joe Manganiello. He only got
+to be Deathstroke for like two seconds on screen.
+
+47
+00:04:28,210 --> 00:04:32,252
+I'd love to see him come back as Deathstroke,
+but if we're recasting, I think he'd be a great
+
+48
+00:04:32,332 --> 00:04:38,195
+Midnighter in the upcoming Authority movie.
+Yeah, Deathstroke is an A-tier villain in DC
+
+49
+00:04:38,235 --> 00:04:42,578
+Comics, not only for teams like the Titans,
+but also the Justice League. I would love to
+
+50
+00:04:42,618 --> 00:04:47,780
+see him in action on screen in a way that we
+haven't before, like on the small screen with
+
+51
+00:04:47,800 --> 00:04:54,024
+the Titans show or even Arrow. And yeah, Joe
+Manganiello was definitely robbed of the opportunity
+
+52
+00:04:54,064 --> 00:04:59,671
+to play that badass character in a movie. No
+one quite has had it as bad, I think, as Joe
+
+53
+00:04:59,711 --> 00:05:04,094
+Manganiello. So I think he would be great in
+the role. I think he deserves to be seen. Yeah,
+
+54
+00:05:04,194 --> 00:05:08,437
+100%. I also would have hated him as Midnighter,
+but I would let him choose what role he wanted
+
+55
+00:05:08,457 --> 00:05:11,940
+to play. Great answer, Colby Hentges. Let's
+go ahead and move on to our next honorable
+
+56
+00:05:11,960 --> 00:05:17,724
+mention given by Miggy Matangian, who said.
+Hey, what's up, guys? This is Miggy, and if
+
+57
+00:05:17,944 --> 00:05:25,869
+I could recast a DCEU actor in the DCU, I would
+probably go with Keirsey Clemens as Miss Martian.
+
+58
+00:05:26,590 --> 00:05:32,511
+She played Iris West previously. I think she
+just kind of has the vibe to like play an innocent
+
+59
+00:05:32,791 --> 00:05:38,213
+character who's secretly hiding something. I
+could also see Jack Dylan Grazer as Beast Boy.
+
+60
+00:05:38,233 --> 00:05:45,235
+Thanks guys. Yeah, those are both great options
+for young heroes within DC. I totally get what
+
+61
+00:05:45,255 --> 00:05:49,316
+you're coming from with Kirsi Clemens. Kind
+of having those doe eyes makes her look innocent
+
+62
+00:05:49,356 --> 00:05:52,897
+and cute like you mentioned. I don't know if
+you mentioned the cute part. I added that part.
+
+63
+00:05:53,157 --> 00:05:58,399
+But yeah, Miss Martian should be cute. Jack
+Dylan Grazer as Beast Boy 2 is also a top choice.
+
+64
+00:05:58,660 --> 00:06:02,902
+I will miss Ryan Potter in the role, but yeah,
+Jack Dylan Grazer has all of the qualities
+
+65
+00:06:02,922 --> 00:06:08,045
+that I think you would want in a Beast Boy actor.
+If Keirce Clemens was Ms. Martian, who would
+
+66
+00:06:08,085 --> 00:06:14,388
+you cast as Marsha Manhunter? Oh, Dennis Haysbert.
+Terrific voice, great actor. I think you would
+
+67
+00:06:14,428 --> 00:06:18,671
+be perfect. That's a good call, that's a good
+call. Great answer, Miggy Mathenkean. Our next
+
+68
+00:06:18,691 --> 00:06:24,466
+honorable mention goes to Brandon Estregard,
+who said. Hey guys. If I was able to bring
+
+69
+00:06:24,506 --> 00:06:30,891
+back one actor from the DCU, it would have to
+be Eldris Hodge. I would cast him as Icon,
+
+70
+00:06:31,211 --> 00:06:37,475
+and for bonus I would cast Bailey Bass as Rocket.
+Yeah, Eldris Hodge is another great actor that
+
+71
+00:06:37,515 --> 00:06:42,879
+I will definitely miss if he's not brought back
+for James Gunn's DCU. I think he would make,
+
+72
+00:06:42,919 --> 00:06:47,402
+like, really any great superhero. I would love
+to see him as Icon, because I would love for
+
+73
+00:06:47,422 --> 00:06:52,518
+there to be an Icon movie. That would be a fantastic
+story to put on the screen, for sure. Icons
+
+74
+00:06:52,578 --> 00:06:56,161
+like Superman, but he's different enough where
+I think audiences would really latch onto it.
+
+75
+00:06:56,621 --> 00:07:01,005
+I'm not familiar with Bailey Bass. I guess she
+was an avatar, the second one. But yeah, from
+
+76
+00:07:01,045 --> 00:07:05,508
+the looks of it, I think she would be a terrific
+Rocket as well. Yeah, we pit Rocket against
+
+77
+00:07:05,689 --> 00:07:10,192
+Spider-Gwen in a Duel episode. If you guys want
+to learn more about Icon and Rocket. But great
+
+78
+00:07:10,232 --> 00:07:16,477
+answer, Brandon Estregard. The winner of this
+week's No Prize goes to Noah Terry, who said,
+
+79
+00:07:16,998 --> 00:07:24,355
+Hey, guys, so if I could recast any TCU actor
+into the DCU, it would be Asher Angel aka Billy
+
+80
+00:07:24,395 --> 00:07:31,338
+Batson as Nightwing. I think that he can definitely
+act with heart. He's no stranger to action
+
+81
+00:07:31,659 --> 00:07:36,101
+and he would just be a great fit to see him
+in Batman, the Brave and the Bold. So that's
+
+82
+00:07:36,141 --> 00:07:42,905
+my answer. Thanks, bye guys. Yeah, I cannot
+wait to see Nightwing on the big screen. He's
+
+83
+00:07:42,925 --> 00:07:47,444
+a really important character. You know, besides
+the Trinity, I think he's probably the fourth
+
+84
+00:07:47,484 --> 00:07:52,107
+most important character in DC comics. And Asher
+Angel definitely has the look for Nightwing.
+
+85
+00:07:52,487 --> 00:07:56,910
+He may be a little young for the character,
+but hey, if that's the case, there's always
+
+86
+00:07:57,010 --> 00:08:01,213
+Red Hood. By the time the movie comes out, he'll
+be old enough. Do you think he would do as
+
+87
+00:08:01,274 --> 00:08:06,337
+good of a job as Dick Grayson as Chris O'Donnell
+did? Yeah, that's not even a question. I'm
+
+88
+00:08:06,597 --> 00:08:11,141
+not concerned about that. My big concern is
+can he do a better job than Brenton Thwaites
+
+89
+00:08:11,201 --> 00:08:16,784
+from the Titan series? because Brenton Thwaites
+is a phenomenal actor and he did way better
+
+90
+00:08:16,804 --> 00:08:21,788
+than was even necessary for the character of
+Dick Grayson in Nightwing in that show. That's
+
+91
+00:08:21,828 --> 00:08:26,571
+true, yeah, he would be the guy to beat. He's
+by far the best Dick Grayson on screen. Great
+
+92
+00:08:26,631 --> 00:08:30,214
+answer, Noah Terry, you win this week's No Prize.
+If you, the listener, want a shot at winning
+
+93
+00:08:30,234 --> 00:08:34,717
+your own No Prize, stay tuned to later on this
+episode when we'll be asking another Question
+
+94
+00:08:34,737 --> 00:08:40,841
+of the Week. And now that that's done, on to
+the news. There is no news. That's right, nevermind.
+
+95
+00:08:41,402 --> 00:08:42,750
+On to the question of the week.
+
+96
+00:08:47,286 --> 00:08:54,713
+What Marvel or DC theatrical film are you most
+looking forward to in 2025? That of course
+
+97
+00:08:54,793 --> 00:09:00,438
+includes Superman, which is DC's only theatrical
+release this year, Captain America Brave New
+
+98
+00:09:00,458 --> 00:09:06,644
+World, which releases in just about a month,
+The Fantastic Four First Steps, or Thunderbolts.
+
+99
+00:09:07,185 --> 00:09:13,114
+Let us know which one you guys are most pumped
+to see in theaters in 2025. Record your answer
+
+100
+00:09:13,154 --> 00:09:17,557
+at dynamicduel.com by clicking on the red microphone
+button in the bottom right-hand corner of the
+
+101
+00:09:17,577 --> 00:09:21,800
+screen, which will prompt you to leave us a
+voicemail. Your message could be up to 30 seconds
+
+102
+00:09:21,840 --> 00:09:26,204
+long, and don't forget to leave your name in
+case we include you on the podcast. We'll pick
+
+103
+00:09:26,224 --> 00:09:30,827
+our favorite answer and award that person a
+Dynamic Duel No Prize that we'll post to Instagram.
+
+104
+00:09:31,147 --> 00:09:33,989
+Be sure to answer before January 18th.
+
+105
+00:09:41,218 --> 00:09:45,685
+But I think we're ready now to go ahead and
+dive into our duel and find out who would win
+
+106
+00:09:45,745 --> 00:09:50,133
+in a fight between DC's monitor and Marvel's
+watcher.
+
+107
+00:10:05,302 --> 00:10:10,443
+Alright, the Monitor versus the Watcher. Now,
+as I mentioned earlier, we're doing this episode
+
+108
+00:10:10,503 --> 00:10:16,625
+as a tie-in to the review of What If Season
+3, which we spoke about last episode. At the
+
+109
+00:10:16,925 --> 00:10:23,006
+end of that season, the character of the Watcher,
+also known as Uwatu, kicks all kinds of ass.
+
+110
+00:10:23,287 --> 00:10:27,888
+He throws down against the other Watchers, and
+it was really a sight to behold. It was a great
+
+111
+00:10:27,908 --> 00:10:32,949
+way to close out the show, despite the fact
+that it kinda goes against the pacifist ideals
+
+112
+00:10:33,149 --> 00:10:38,484
+of the character. So this will be an interesting
+duel to get through in pitting two guys who
+
+113
+00:10:38,624 --> 00:10:43,067
+are basically sworn to inaction against each
+other. Yeah, that's more of a watcher thing
+
+114
+00:10:43,087 --> 00:10:49,312
+than a monitor thing. But yeah, these are essentially
+two characters who weren't created to interact
+
+115
+00:10:49,352 --> 00:10:53,995
+in any way. They were just created to observe.
+So in determining how these characters would
+
+116
+00:10:54,075 --> 00:10:58,798
+fight, we had to get kind of creative. Yeah,
+we've gotten creative in a few of our duel
+
+117
+00:10:58,838 --> 00:11:04,426
+episodes before. Like if you listen to the Riddler
+versus Arcade, those are two characters. who
+
+118
+00:11:04,666 --> 00:11:09,127
+don't really throw down a lot. You know, they
+use their mind in the battle, which is always
+
+119
+00:11:09,167 --> 00:11:13,568
+hard to speculate on. So we ended up coming
+up with riddles to give each other to see who
+
+120
+00:11:13,608 --> 00:11:19,150
+had the strongest mind. In the Mephisto versus
+Sandman duel episode, there was a game that
+
+121
+00:11:19,170 --> 00:11:25,171
+was played between Sandman and the devil in
+the Sandman comic book series that we decided
+
+122
+00:11:25,211 --> 00:11:29,813
+to run with for that duel speculation. And that
+was a lot of fun. And even if you look at our
+
+123
+00:11:29,853 --> 00:11:34,638
+most recent duel episode, the one we did at
+the end of last year, where we pit dog pool
+
+124
+00:11:34,758 --> 00:11:40,081
+against ace the bat hound. That was a different
+take. We put them against each other in a dog
+
+125
+00:11:40,101 --> 00:11:44,124
+show because we didn't really wanna see two
+dogs tearing each other apart like in an actual
+
+126
+00:11:44,164 --> 00:11:48,486
+dog fight. So we've gotten creative with this
+stuff before and I'm really excited to show
+
+127
+00:11:48,506 --> 00:11:54,069
+you guys how we're going to pit these two observers
+against each other and test their observational
+
+128
+00:11:54,229 --> 00:11:58,672
+skills. Yeah, I'm looking forward to that. I'm
+also looking forward to just giving the backstory
+
+129
+00:11:58,872 --> 00:12:02,618
+of the monitor because giving the backstory
+of the monitor. is kind of like giving the
+
+130
+00:12:02,658 --> 00:12:08,142
+backstory of the DC universe as a whole. So
+I kind of feel like this is a special episode.
+
+131
+00:12:08,723 --> 00:12:17,350
+That's gonna be a really boring story. You could
+fuck you, fuck you. To explain our methodology
+
+132
+00:12:17,390 --> 00:12:22,473
+behind our duels, let's go to our sentient Duel
+simulator, Alfred Jarvis 9000. AJ 9K, tell
+
+133
+00:12:22,494 --> 00:12:27,417
+our listeners how you go about determining a
+winner in our Duel matchups. Yes, of course,
+
+134
+00:12:27,437 --> 00:12:32,227
+sir. The way I determine a winner between the
+contestants is by running 1000 Monte Carlo
+
+135
+00:12:32,267 --> 00:12:37,268
+simulations using the characters statistics.
+A Monte Carlo simulation is a probabilistic
+
+136
+00:12:37,308 --> 00:12:42,850
+model used to determine outcomes through random
+sampling. In this case, I randomize the statistics
+
+137
+00:12:42,890 --> 00:12:47,591
+along a normal distribution as a way to simulate
+the many variables that can occur during battle.
+
+138
+00:12:47,991 --> 00:12:52,732
+The stat parameters are based on the official
+Marvel power grid from which the DC characters
+
+139
+00:12:52,772 --> 00:12:57,942
+statistics are extrapolated. Additional stat
+categories are included such as range, damage
+
+140
+00:12:57,962 --> 00:13:03,383
+potential, versatility and perception in order
+to create a more detailed and accurate simulation.
+
+141
+00:13:03,863 --> 00:13:08,665
+The results of the 1000 simulations provide
+a percentage of wins for each character. The
+
+142
+00:13:08,705 --> 00:13:13,166
+contestant with the higher percentage is declared
+the victor as they have a higher probability
+
+143
+00:13:13,206 --> 00:13:19,028
+to win any given battle. In an equitable pairing,
+neither character should win 100% of the matches.
+
+144
+00:13:19,528 --> 00:13:24,022
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman. So
+
+145
+00:13:24,042 --> 00:13:27,923
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+146
+00:13:27,963 --> 00:13:33,504
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+147
+00:13:33,544 --> 00:13:39,326
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+148
+00:13:39,346 --> 00:13:43,448
+Thanks AJ and NK. Before we run the simulations
+though, we like to break down each character's
+
+149
+00:13:43,488 --> 00:13:48,389
+histories and abilities before improvising a
+scenario on how we imagine one of the 1000
+
+150
+00:13:48,709 --> 00:13:52,514
+simulations would play out. Beat for beat. And
+I believe it's my turn to go first with the
+
+151
+00:13:52,554 --> 00:13:57,796
+Marvel character, so let me go ahead and tell
+you guys all about Uwatu the Watcher. The Watchers
+
+152
+00:13:57,836 --> 00:14:02,637
+are one of the most ancient and advanced races
+in the Marvel Universe, originating billions
+
+153
+00:14:02,657 --> 00:14:07,619
+of years ago. Known initially as the Luminous,
+they were revered for their vast knowledge
+
+154
+00:14:07,639 --> 00:14:12,801
+and cosmic power, capable of transforming their
+bodies into light and traversing the universe
+
+155
+00:14:12,881 --> 00:14:17,947
+in an instant. Their altruistic mission began
+with the noble goal of sharing their advanced
+
+156
+00:14:17,967 --> 00:14:23,172
+knowledge to uplift less developed civilizations
+and foster universal progress. However, their
+
+157
+00:14:23,212 --> 00:14:28,836
+first attempt to aid the planet Prasilius by
+introducing nuclear technology ended in catastrophic
+
+158
+00:14:28,896 --> 00:14:34,000
+failure. The Prasilikans weaponized the knowledge,
+plunging the world into a devastating nuclear
+
+159
+00:14:34,040 --> 00:14:39,325
+war that annihilated their race. Ashamed and
+burdened by guilt, the Luminous took a solemn
+
+160
+00:14:39,365 --> 00:14:44,969
+vow to observe and record the universe without
+interference, renaming themselves the Watchers.
+
+161
+00:14:45,578 --> 00:14:49,921
+Relocating to various parts of the cosmos, they
+built an extraordinary repository of knowledge
+
+162
+00:14:49,981 --> 00:14:55,265
+called the Acycopedia Universum, and established
+their sacred code of non-interference. Over
+
+163
+00:14:55,306 --> 00:15:00,330
+millennia, they became cosmic chroniclers, silently
+witnessing the unfolding history of the universe,
+
+164
+00:15:00,790 --> 00:15:06,214
+preserving its secrets, and standing as eternal
+guardians of knowledge. The lessons from Priscilla
+
+165
+00:15:06,234 --> 00:15:11,279
+Kiss forever shaped their philosophy, instilling
+a deep-seated fear of unintended consequences
+
+166
+00:15:11,579 --> 00:15:17,524
+and their cosmic responsibilities. Among the
+Watchers, Uatu was uniquely drawn to the complexity
+
+167
+00:15:17,564 --> 00:15:22,508
+and resilience of Earth and its solar system.
+Establishing his base in the blue area of the
+
+168
+00:15:22,548 --> 00:15:28,553
+moon, Uatu faithfully upheld his duties for
+millennia. His father, Ikor, was a staunch
+
+169
+00:15:28,633 --> 00:15:34,097
+advocate of the Watcher's Code, shaping Uatu's
+early understanding of their mission and instilling
+
+170
+00:15:34,157 --> 00:15:40,242
+in him a deep sense of responsibility. Despite
+his upbringing, Uatu developed a profound fascination
+
+171
+00:15:40,262 --> 00:15:46,162
+with humanity and its capacity for both greatness
+and destruction. The unique Duelity of human
+
+172
+00:15:46,202 --> 00:15:51,925
+nature with its boundless potential deeply resonated
+with Uatu, fostering a strong emotional connection
+
+173
+00:15:51,945 --> 00:15:56,747
+with Earth's inhabitants. Uatu's first recorded
+interaction with humanity occurred in 1602,
+
+174
+00:15:58,387 --> 00:16:03,009
+when a temporarily displaced Captain America
+threatened to unravel the time stream. Uatu
+
+175
+00:16:03,049 --> 00:16:07,951
+revealed himself to an Elizabethan-era Doctor
+Strange who was instrumental in facilitating
+
+176
+00:16:07,991 --> 00:16:12,853
+Captain America's return to his rightful time,
+thus preserving the integrity of the timeline.
+
+177
+00:16:13,302 --> 00:16:18,725
+This event marked the beginning of a long history
+of subtle interventions that would define Uatu's
+
+178
+00:16:18,765 --> 00:16:24,049
+role as Earth's watcher. In modern times, Uatu's
+fascination with humanity deepened when the
+
+179
+00:16:24,069 --> 00:16:29,533
+Fantastic Four ventured to the moon and discovered
+his citadel. You can learn more about the Fantastic
+
+180
+00:16:29,553 --> 00:16:34,776
+Four in their duel against the Justice Society.
+Uatu observed the Fantastic Four's battle against
+
+181
+00:16:34,796 --> 00:16:39,920
+the Russian scientist known as the Red Ghost
+and his Super Apes, a conflict he allowed to
+
+182
+00:16:39,960 --> 00:16:45,070
+play out as a test of their mettle and unity.
+Impressed by the Fantastic Four's victory,
+
+183
+00:16:45,491 --> 00:16:50,873
+Uatu began to subtly intervene in critical events
+on Earth, justifying his actions as necessary
+
+184
+00:16:50,913 --> 00:16:55,935
+to safeguard the planet from existential threats.
+His involvement with the Fantastic Four established
+
+185
+00:16:55,975 --> 00:17:00,997
+a precedent for future interactions with Earth's
+heroes, further intertwining his destiny with
+
+186
+00:17:01,037 --> 00:17:06,639
+theirs. Among Uatu's most significant violations
+of the Watcher's Code was his involvement in
+
+187
+00:17:06,699 --> 00:17:12,578
+humanity's first encounter with Galactus, the
+world's devouring cosmic entity. Using his
+
+188
+00:17:12,618 --> 00:17:17,939
+advanced technology, Uatu attempted to cloak
+Earth from Galactus' detection, and later guided
+
+189
+00:17:17,959 --> 00:17:23,521
+the Human Torch to Galactus' worldship to retrieve
+the Ultimate Nullifier, the only weapon capable
+
+190
+00:17:23,561 --> 00:17:28,062
+of deterring the World's Devourer. You can learn
+more about Galactus in his duel against the
+
+191
+00:17:28,102 --> 00:17:33,384
+Spectre. Though Galactus ultimately spared Earth,
+Uatu's actions drew the attention of his fellow
+
+192
+00:17:33,424 --> 00:17:38,545
+Watchers, leading to a trial that found him
+guilty of repeated interference. Despite their
+
+193
+00:17:38,585 --> 00:17:43,709
+disapproval, Uatu's love for humanity compelled
+him to continue observing Earth and its heroes
+
+194
+00:17:43,769 --> 00:17:49,152
+closely, often justifying his defiance by the
+planet's unique potential and his belief that
+
+195
+00:17:49,232 --> 00:17:53,876
+Earth held a special place in the cosmos. Over
+the following years, Uatu played a pivotal
+
+196
+00:17:53,936 --> 00:17:58,419
+role in more events. He warned the Fantastic
+Four of threats like the Molecule Man and the
+
+197
+00:17:58,499 --> 00:18:03,362
+Overmind, assisted the Avengers in battles against
+time-traveling foes such as King the Conqueror,
+
+198
+00:18:03,903 --> 00:18:09,174
+and provided invaluable guidance during crises
+like the Kreisgrul War. Yet Uatu's compassion
+
+199
+00:18:09,214 --> 00:18:13,857
+extended beyond humanity. He offered aid to
+extraterrestrial allies like the Silver Surfer,
+
+200
+00:18:14,297 --> 00:18:18,960
+and intervened in cosmic disputes that threatened
+the stability of the universe. His penchant
+
+201
+00:18:18,980 --> 00:18:24,283
+for continuing to bend the rules led to increased
+conflict with other Watchers, including his
+
+202
+00:18:24,343 --> 00:18:30,026
+nephew, Eren. As a young Watcher who had not
+yet been assigned a station, Eren also broke
+
+203
+00:18:30,046 --> 00:18:34,269
+the Watcher's code and schemed to manipulate
+the Fantastic Four to create a pocket universe
+
+204
+00:18:34,289 --> 00:18:39,879
+that he could rule on his own. Uatu ultimately
+subdued Eren, an act that sacrificed his own
+
+205
+00:18:39,939 --> 00:18:44,501
+status among the Watchers, as they stripped
+him of his title and exiled him from their
+
+206
+00:18:44,621 --> 00:18:50,804
+order. Despite his exile, Uatu's bond with Earth
+remained unbroken. He continued to witness
+
+207
+00:18:50,844 --> 00:18:56,226
+humanity's triumphs and tragedies. However,
+Uatu's history took a tragic turn as a citadel
+
+208
+00:18:56,306 --> 00:19:00,988
+on the moon was attacked by a group of villains
+who sought to plunder his vast repository of
+
+209
+00:19:01,048 --> 00:19:06,670
+knowledge. Uatu was gravely wounded and one
+of his eyes… containing the secrets of everything
+
+210
+00:19:06,690 --> 00:19:12,372
+he had observed was stolen. Nick Fury, senior,
+seeking to prevent further misuse of the Watcher's
+
+211
+00:19:12,392 --> 00:19:18,174
+knowledge, confronted the injured Uatu, who
+after being attacked had now become more steadfast
+
+212
+00:19:18,474 --> 00:19:24,496
+in his code of non-interference. When Uatu refused
+to divulge his attackers identities, Fury took
+
+213
+00:19:24,516 --> 00:19:29,317
+the drastic step of killing him with a gamma
+irradiated bullet and taking his remaining
+
+214
+00:19:29,517 --> 00:19:35,136
+eye. This granted Nick Fury all of Uatu's knowledge,
+and he reluctantly inherited his role as Earth's
+
+215
+00:19:35,196 --> 00:19:40,879
+observer, now known as the Unseen. You can learn
+more about Nick Fury Sr. in his son's duel
+
+216
+00:19:40,919 --> 00:19:47,262
+against Rick Flag. However, Uatu was later miraculously
+resurrected from his own eye when the Unseen
+
+217
+00:19:47,302 --> 00:19:52,865
+happened upon some ancient alien relics. Uatu
+reclaimed his role as the Watcher and employed
+
+218
+00:19:52,945 --> 00:19:58,131
+the now- powerless Nick Fury to act as his agent
+against a newly discovered renegade faction
+
+219
+00:19:58,331 --> 00:20:03,133
+of Priscilla Kins, the same race believed to
+have destroyed themselves all those eons ago.
+
+220
+00:20:03,594 --> 00:20:09,516
+As they were now waging a war against the Watchers,
+Uatu traveled to his home planet of T-37X to
+
+221
+00:20:09,576 --> 00:20:14,318
+call the other Watchers to action. Yet they
+still vowed not to interfere so as not to repeat
+
+222
+00:20:14,338 --> 00:20:19,000
+the mistakes of their past, and the Watchers
+imprisoned Uatu. Using a device called the
+
+223
+00:20:19,140 --> 00:20:25,163
+Apex of All Realities, which could see what-if
+worlds, they made Uatu watch an alternate reality
+
+224
+00:20:25,263 --> 00:20:30,406
+in which he had not helped the Fantastic Four
+against Galactus. He saw that not only would
+
+225
+00:20:30,506 --> 00:20:34,708
+Earth have repelled the World Devourer on its
+own, but the planet would have developed into
+
+226
+00:20:34,748 --> 00:20:40,711
+a scientific utopia. Distraught, Uatu was soon
+rescued by Nick Fury, and he later learned
+
+227
+00:20:40,771 --> 00:20:45,914
+that alternate Earth would have eventually been
+destroyed by its own technology. As the Priscilla
+
+228
+00:20:45,934 --> 00:20:47,415
+Kins poisoned the Watcher's
+
+229
+00:20:52,962 --> 00:20:58,524
+who merged with the apex of all realities to
+become the one and only Watcher. He used his
+
+230
+00:20:58,604 --> 00:21:03,666
+increased power to restore the Priscilla's home,
+and reinstated Nick Fury Senior as Earth's
+
+231
+00:21:03,746 --> 00:21:09,269
+new Watcher. And that's his backstory. Powers-wise,
+the Watcher, like every member of his race,
+
+232
+00:21:09,349 --> 00:21:14,751
+is considered a cosmic-level being with vast
+power and knowledge. Though he's sworn to inaction,
+
+233
+00:21:14,791 --> 00:21:19,313
+he will occasionally take the minimal steps
+necessary to prevent large-scale death and
+
+234
+00:21:19,333 --> 00:21:25,643
+destruction. Among his vast power set is omniscient
+level cosmic awareness and senses, immortality,
+
+235
+00:21:26,143 --> 00:21:33,125
+telepathy on a global scale, teleportation on
+a universal scale, invisibility, illusion casting,
+
+236
+00:21:33,585 --> 00:21:40,847
+time travel, flight, vast durability, size alteration,
+vast cosmic energies that can create blasts
+
+237
+00:21:40,907 --> 00:21:46,108
+on a global scale or shields or other constructs.
+He also has an extra-dimensional portal that
+
+238
+00:21:46,129 --> 00:21:53,156
+he can use to see into alternate realities.
+He is all-knowing, he's all-powerful, and today
+
+239
+00:21:53,176 --> 00:21:58,141
+he's gonna kick all kinds of monitor ass. Bro,
+the Watcher is like monitor light. What are
+
+240
+00:21:58,161 --> 00:22:03,646
+you talking about? If by monitor light you mean
+gonna totally stomp all over monitor's ass,
+
+241
+00:22:03,686 --> 00:22:10,171
+then yeah. No, you don't know what light means,
+apparently. You'll get what I'm talking about
+
+242
+00:22:10,231 --> 00:22:12,333
+when I go over the monitor's backstory.
+
+243
+00:22:17,258 --> 00:22:23,779
+was one of three cosmic siblings created by
+Perpetua, a celestial being known as a Hand
+
+244
+00:22:24,079 --> 00:22:29,161
+that hailed from the greater omniverse. The
+Hands were tasked with creating multiverses
+
+245
+00:22:29,421 --> 00:22:35,643
+within the omniverse using anti-crisis energy
+from the source, God essentially, intended
+
+246
+00:22:35,723 --> 00:22:42,985
+to pass their energies back to him upon completion.
+Perpetua, however, defied her purpose, forging
+
+247
+00:22:43,085 --> 00:22:49,766
+a multiverse fueled by negative crisis energy.
+the DC Multiverse, designed to perpetuate itself
+
+248
+00:22:49,786 --> 00:22:55,548
+through cycles of crises and rebirth that would
+keep her alive. Perpetua shaped her multiverse
+
+249
+00:22:55,588 --> 00:23:01,990
+into three distinct realms, dark matter of creative
+potential, positive matter of constancy and
+
+250
+00:23:02,110 --> 00:23:09,312
+order, and destructive antimatter. To oversee
+these realms, she created her three sons. Marnovu,
+
+251
+00:23:09,452 --> 00:23:14,490
+the Monitor, was charged with safeguarding the
+positive matter realm. and preserving the universes
+
+252
+00:23:14,550 --> 00:23:20,194
+within it from existential threats. Alpheus,
+the World Forger, crafted potential universes
+
+253
+00:23:20,234 --> 00:23:26,497
+within the Dark Matter Realm. Mobius, the Anti-Monitor,
+governed the Anti-Matter Realm, tasked with
+
+254
+00:23:26,557 --> 00:23:31,700
+ensuring the light of creation did not breach
+the boundaries of the Greater Omniverse and
+
+255
+00:23:31,740 --> 00:23:37,784
+alert the Source. Curious about the Greater
+Omniverse, Marnovu peered into it and its other
+
+256
+00:23:37,844 --> 00:23:44,258
+multiverses, becoming aware of his mother's
+crime. When he confronted Perpetua, she revealed
+
+257
+00:23:44,298 --> 00:23:50,380
+her intent to remain as their multiverse's eternal
+protector and shared her vision of omniversal
+
+258
+00:23:50,400 --> 00:23:56,442
+conquest. To achieve this, she merged Martians
+and humans to create an army of perfect and
+
+259
+00:23:56,482 --> 00:24:03,143
+immortal beings known as Apex Predators, genetically
+designed for endless warfare. Horrified and
+
+260
+00:24:03,183 --> 00:24:08,825
+fearing the judgment of the source, Marnovu
+rejected his mother, who unleashed her Apex
+
+261
+00:24:08,865 --> 00:24:15,880
+Predators on him. Marnovu eventually united
+with Alpheus and Mobius to oppose their mother.
+
+262
+00:24:16,360 --> 00:24:21,984
+In their Promethean galaxy, they created a colossal
+tuning fork tower in an attempt to communicate
+
+263
+00:24:22,004 --> 00:24:27,447
+with the Omniverse to expose Perpetua's crimes,
+and though she attempted to intervene by unleashing
+
+264
+00:24:27,467 --> 00:24:33,810
+her army on them, her sons were successful.
+The source responded by sending a cosmic raptor,
+
+265
+00:24:34,150 --> 00:24:42,355
+a manifestation of judgment, to confront Perpetua.
+Perpetua and all of her power were imprisoned
+
+266
+00:24:42,395 --> 00:24:49,018
+within a source wall made up of her apex predators,
+a boundary that marked the multiverse's edge.
+
+267
+00:24:49,539 --> 00:24:55,562
+Rather than destroy Perpetua's creation, the
+multiverse was reset, including the three brothers,
+
+268
+00:24:55,882 --> 00:25:02,206
+with Marnovu coalescing over time on the moon
+of Oa in the Prime Universe and Mobius on the
+
+269
+00:25:02,246 --> 00:25:04,867
+moon of Chord in the Antimatter Universe.
+
+270
+00:25:09,738 --> 00:25:14,400
+sought to destroy him, beginning by conquering
+the antimatter universe and subjugating the
+
+271
+00:25:14,460 --> 00:25:20,023
+citizenry of Kord into becoming his army. He
+transferred the most loyal of Kord's inhabitants
+
+272
+00:25:20,363 --> 00:25:25,566
+into shadow demons and corporeal extensions
+of his will, while drafting others into his
+
+273
+00:25:25,706 --> 00:25:31,990
+army of Thundererers, warriors equipped with
+devastating lightning bolts. Marnovu, aware
+
+274
+00:25:32,030 --> 00:25:36,973
+of his brother's actions, eventually went to
+war with Mobius in a universal battle between
+
+275
+00:25:36,993 --> 00:25:42,187
+the barrier of their universes. that spanned
+a million years. Their feud eventually ended
+
+276
+00:25:42,267 --> 00:25:47,869
+in a stalemate, leaving both the monitor and
+the anti-monitor inert and trapped in a state
+
+277
+00:25:47,909 --> 00:25:54,152
+of dormancy. For nine billion years, they remained
+motionless, forgotten by the countless worlds
+
+278
+00:25:54,192 --> 00:25:59,674
+their battle had once threatened. Eventually,
+Krona, a curious scientist from the planet
+
+279
+00:25:59,714 --> 00:26:05,817
+Maltus, sought to know the origins of the universe,
+and in his experimentations, fractured the
+
+280
+00:26:05,877 --> 00:26:12,455
+newly stabilized multiverse into infinite parallel
+universes. Though Corona mistakenly believed
+
+281
+00:26:12,555 --> 00:26:18,877
+he had created the multiverse, his actions merely
+revealed its existence to his reality, destabilizing
+
+282
+00:26:18,937 --> 00:26:24,878
+it further. The Malthusians suppressed the story
+of Perpetua, fearing the consequences of her
+
+283
+00:26:24,938 --> 00:26:31,980
+legacy. Pariah, a scientist from a fringe universe
+like Corona, unintentionally discovered the
+
+284
+00:26:32,180 --> 00:26:38,222
+anti-matter universe, accidentally unleashing
+it into his own and destroying it. This act
+
+285
+00:26:38,422 --> 00:26:44,307
+also awakened Mobius, as the antimatter universe
+expanded to fill the void of the one Pariah
+
+286
+00:26:44,347 --> 00:26:51,013
+destroyed, increasing Mobius' domain and power.
+Re-amassing his army and sending universe-destroying
+
+287
+00:26:51,053 --> 00:26:56,757
+waves of antimatter into the multiverse, Mobius
+determined that to defeat Marnovu, he could
+
+288
+00:26:56,798 --> 00:27:03,543
+gain infinite power by destroying the now infinite
+multiverse. Sensing Mobius' resurgence, Marnovu
+
+289
+00:27:03,683 --> 00:27:09,575
+also awoke and prepared for the coming crisis.
+Establishing a base in space, he used advanced
+
+290
+00:27:09,655 --> 00:27:15,637
+technology to study the multiverse and identify
+champions capable of defending it. Among these
+
+291
+00:27:15,737 --> 00:27:21,860
+was Harbinger, a girl he rescued and empowered
+to serve as his emissary. As Mobius's antimatter
+
+292
+00:27:21,900 --> 00:27:28,083
+wave began consuming universes, Marnovu devised
+a plan to preserve what remained. He constructed
+
+293
+00:27:28,143 --> 00:27:34,085
+colossal tuning fork towers to stabilize surviving
+Earths, which were at the centers of each universe.
+
+294
+00:27:34,602 --> 00:27:40,967
+tasked his champions with defending these devices.
+Harbinger was sent to retrieve the infant Alexander
+
+295
+00:27:41,027 --> 00:27:46,812
+Luther Jr, the last survivor of Earth-3, whose
+parents sent him in a rocket ship to Earth-1
+
+296
+00:27:47,352 --> 00:27:53,357
+during an antimatter wave, turning him into
+a being made of both positive and antimatter.
+
+297
+00:27:53,798 --> 00:27:58,722
+Mobius, however, subtly corrupted Harbinger
+by possessing her multiversal counterparts
+
+298
+00:27:58,742 --> 00:28:04,766
+with shadow demons, and successfully tricked
+her into killing the monitor. Marnovu foresaw
+
+299
+00:28:04,786 --> 00:28:10,290
+her betrayal, however, and used his death to
+power the Tuning Forks, merging Earth-1 and
+
+300
+00:28:10,370 --> 00:28:16,695
+Earth-2 into a netherverse shielded from Mobius.
+The sacrifice allowed the defenders of the
+
+301
+00:28:16,755 --> 00:28:22,499
+multiverse to regroup and ultimately defeat
+Mobius, the Anti-Monitor, collapsing the infinite
+
+302
+00:28:22,539 --> 00:28:28,364
+multiverse into a single, unified reality known
+as New Earth. Although New Earth streamlined
+
+303
+00:28:28,404 --> 00:28:34,387
+the multiverse into a cohesive timeline, traces
+and memories of their original multiverse lingered.
+
+304
+00:28:34,787 --> 00:28:39,829
+The re-emergence of the multiverse began during
+another crisis event caused by Alexander Luther
+
+305
+00:28:39,869 --> 00:28:46,312
+Jr., who believed the New Earth was flawed.
+Using the remains of Mobius's armor, he constructed
+
+306
+00:28:46,372 --> 00:28:52,515
+a tuning fork tower to split New Earth into
+multiple universes in an effort to find a perfect
+
+307
+00:28:52,695 --> 00:28:58,542
+one. His actions, though ultimately thwarted,
+destabilized reality. and led to the creation
+
+308
+00:28:58,622 --> 00:29:04,607
+of a finite multiverse of 52 parallel Earths.
+This restructured multiverse gave rise to a
+
+309
+00:29:04,707 --> 00:29:10,491
+new race of monitors, fragments of Marnovu's
+essence, each overseeing a specific Earth.
+
+310
+00:29:10,851 --> 00:29:16,735
+Unlike Marnovu, these monitors were not unified
+by a singular purpose. They developed indiviDuel
+
+311
+00:29:16,775 --> 00:29:23,300
+personalities and often clashed over their roles.
+Bob, the monitor of New Earth, championed empathy
+
+312
+00:29:23,580 --> 00:29:28,875
+and collaboration between the universes. In
+contrast, Solomon, the monitor of Earth-8,
+
+313
+00:29:29,655 --> 00:29:35,518
+pursued the violent eradication of multiversal
+anomalies, or people who existed outside their
+
+314
+00:29:35,558 --> 00:29:41,520
+intended universe. Solomon's genocidal stance
+divided the monitors and led to internal strife
+
+315
+00:29:41,540 --> 00:29:46,502
+within their order and without, creating enemies
+against their kind that included the being
+
+316
+00:29:46,582 --> 00:29:52,145
+known as Monarch, who forced superpowered beings
+across the multiverse into gladiatorial matches
+
+317
+00:29:52,185 --> 00:29:56,287
+to determine the strongest among them. for an
+army that he was building to eliminate the
+
+318
+00:29:56,347 --> 00:30:01,970
+Monitors. The conflict escalated when Solomon
+attempted to absorb Bob's essence to augment
+
+319
+00:30:01,990 --> 00:30:07,334
+his own power, resulting in Bob's death and
+destabilizing the Monitor Collective. Amid
+
+320
+00:30:07,394 --> 00:30:14,418
+this chaos, Monarch's actions led to the destruction
+of Earth 51, whose Monitor, Nyx Uotan, was
+
+321
+00:30:14,478 --> 00:30:19,978
+banished to Prime Earth for failing to protect
+his universe. Stripped of his powers, He lived
+
+322
+00:30:20,018 --> 00:30:25,142
+as a human until regaining his memories and
+becoming a superhero known as Super Judge.
+
+323
+00:30:25,442 --> 00:30:31,027
+During the supposed final crisis event, Nix
+became one of the last surviving Monitors,
+
+324
+00:30:31,387 --> 00:30:36,671
+assembling an army of supermen from across the
+multiverse to defeat Mandrake, a corrupted
+
+325
+00:30:36,812 --> 00:30:42,476
+Monitor. Despite their victory, Nix lamented
+the Monitor's failures and allowed their civilization
+
+326
+00:30:42,556 --> 00:30:49,302
+to fade. In post-Flashpoint continuity, unbeknownst
+to the resurrected Marnovu and Mobius, Their
+
+327
+00:30:49,342 --> 00:30:55,563
+brother Alpheus had been killed by his pet dragon
+Barbados, who had been responsible for devouring
+
+328
+00:30:55,703 --> 00:31:02,565
+newly forged universes too dark to exist. Barbados'
+abandonment of his duty led to the formation
+
+329
+00:31:02,645 --> 00:31:08,827
+of the Dark Multiverse, champions from which
+were led by Barbados in a war against the Multiverse.
+
+330
+00:31:09,287 --> 00:31:14,369
+Though Barbados and his army were defeated,
+the war eventually resulted in a crack within
+
+331
+00:31:14,389 --> 00:31:21,424
+the source wall that freed Perpetua. sought
+to reclaim her multiverse. Marnovu, Mobius,
+
+332
+00:31:21,584 --> 00:31:28,087
+and a newly reformed Alphius merged to form
+the Ultra Monitor in a desperate bid to stop
+
+333
+00:31:28,107 --> 00:31:33,490
+their mother, but Perpetua regained her strength,
+turning Mobius against her brothers by granting
+
+334
+00:31:33,530 --> 00:31:38,393
+him the anti-life equation that allowed him
+to control his brothers. With help from the
+
+335
+00:31:38,433 --> 00:31:42,715
+Green Lantern John Stewart, who you can learn
+more about in our Green Lantern vs Quasar duel
+
+336
+00:31:42,755 --> 00:31:49,451
+episode, Marnovu and Alphius were freed from
+their and Alpheus sacrificed his life to protect
+
+337
+00:31:49,511 --> 00:31:55,535
+Marnovu and his allies from a universe destroying
+attack from Perpetua. To help stop his mother,
+
+338
+00:31:55,895 --> 00:32:02,000
+Marnovu hid shards of Element X, the metal used
+to forge universes, for the forces opposing
+
+339
+00:32:02,020 --> 00:32:07,183
+his mother to find when Perpetua and the Batman
+Who Laughs took over reality. You can learn
+
+340
+00:32:07,203 --> 00:32:11,786
+more about the Batman Who Laughs and his duel
+against Cosmic Ghost Rider. This helped Wonder
+
+341
+00:32:11,806 --> 00:32:17,930
+Woman defeat both, after which the hands of
+the Multiverse recreated. DC's multiverse.
+
+342
+00:32:18,470 --> 00:32:24,833
+And that's his history so far. Power-wise, the
+Monitor Marnovu wields immense cosmic power,
+
+343
+00:32:25,173 --> 00:32:30,095
+including multiversal cosmic awareness that
+enables him to perceive and understand the
+
+344
+00:32:30,195 --> 00:32:35,678
+infinite dimensions and realities that comprise
+the multiverse. His abilities include matter
+
+345
+00:32:35,838 --> 00:32:41,940
+and energy manipulation, teleportation across
+universes, and control over space-time itself.
+
+346
+00:32:42,201 --> 00:32:46,566
+He wields the dimensional superstructure of
+the universe. one of seven forces of the universe,
+
+347
+00:32:46,926 --> 00:32:51,468
+granting him partial control over the fabric
+of reality, though his power is diminished
+
+348
+00:32:51,568 --> 00:32:57,531
+outside of the sixth dimension. While he's immortal,
+he can be destroyed, though he'll reform within
+
+349
+00:32:57,551 --> 00:33:03,333
+the sixth dimension. His size can shift from
+human scale to planetary proportions, and his
+
+350
+00:33:03,413 --> 00:33:09,096
+precognition provides glimpses into possible
+futures. His one weakness is that his strength
+
+351
+00:33:09,156 --> 00:33:14,654
+and power is intrinsically tied to the stability
+of his domain. should the universes of the
+
+352
+00:33:14,694 --> 00:33:20,116
+multiverse be destroyed, his power would diminish.
+Well, it's too bad for him that Uatu is gonna
+
+353
+00:33:20,156 --> 00:33:24,318
+basically destroy all of his multiverse and
+then just leave him powerless. That doesn't
+
+354
+00:33:24,338 --> 00:33:29,441
+sound like something Uatu would do. You know
+what Uatu would do? He would fucking fall asleep
+
+355
+00:33:29,681 --> 00:33:35,083
+while listening to that story because it was
+so long and so convoluted and boring. No, yeah,
+
+356
+00:33:35,123 --> 00:33:41,494
+that was way better than Uatu's history, I'm
+sorry. Way better. Way more epic. What is going
+
+357
+00:33:41,514 --> 00:33:47,476
+to pull a harbinger and kill monitors ass just
+like she did? You forget that the monitor gave
+
+358
+00:33:47,596 --> 00:33:53,918
+Harbinger a shit ton of power. So now, bro,
+what an idiot. What an idiot. Well, monitor
+
+359
+00:33:53,938 --> 00:33:58,019
+is going to pull a Nick Fury and just shoot
+the watcher with a fucking bullet. Hey, that
+
+360
+00:33:58,059 --> 00:34:03,061
+was before he was the one and only watcher.
+So, OK, well, Harbinger killed monitor before
+
+361
+00:34:03,101 --> 00:34:05,941
+he was the ultra monitor. I don't know.
+
+362
+00:34:13,326 --> 00:34:19,012
+where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+363
+00:34:19,032 --> 00:34:24,758
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+364
+00:34:24,818 --> 00:34:31,085
+Dynomic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+365
+00:34:31,125 --> 00:34:37,994
+Dynamic.com. Comic Book Titans smash every Tuesday.
+Max Destruction, where TV and action heroes
+
+366
+00:34:38,034 --> 00:34:44,359
+battle every Wednesday. And Sendro World, where
+anime champions clash every Thursday. Join
+
+367
+00:34:44,439 --> 00:34:49,123
+us as we speculate on the matches and armed
+with the power of mathematical simulations,
+
+368
+00:34:49,363 --> 00:34:56,269
+discover who will emerge victorious. Visit dynamicpodcast.com,
+where we settle the debate and settle the score.
+
+369
+00:35:00,598 --> 00:35:04,059
+Now that we got the histories and abilities
+out of the way, let's speculate on how one
+
+370
+00:35:04,119 --> 00:35:09,521
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not our speculation,
+
+371
+00:35:09,882 --> 00:35:13,803
+but it's fun to imagine how this fight could
+play out. AJ and IK, what are the rules of
+
+372
+00:35:13,823 --> 00:35:18,786
+our speculation? Well I should say there are
+no rules, other than the characters have no
+
+373
+00:35:18,846 --> 00:35:23,408
+prior knowledge of the other going into the
+fight. All they are aware of starting out is
+
+374
+00:35:23,448 --> 00:35:28,038
+that the other character is a threat that needs
+to be eliminated. For the speculation... The
+
+375
+00:35:28,058 --> 00:35:33,121
+contestants will begin approximately 50 meters
+apart in a nondescript environment that will
+
+376
+00:35:33,141 --> 00:35:38,465
+have no bearing on the match itself, as no environmental
+statistics are considered in my simulations.
+
+377
+00:35:38,765 --> 00:35:44,049
+The contestants must earn victory on their own
+merit. Alright then, let's get into it. Monitor
+
+378
+00:35:44,169 --> 00:35:49,593
+and Watcher meet on the battlefield. Who goes
+first? Well, since neither of these cosmic
+
+379
+00:35:49,633 --> 00:35:53,595
+level beings are really known for fighting,
+we thought we would take a different route
+
+380
+00:35:53,615 --> 00:35:58,583
+with this duel by challenging each other on
+what they're known for. observing. To that
+
+381
+00:35:58,683 --> 00:36:03,666
+end, the Monitor and the Watcher have come to
+the match prepared with certain events from
+
+382
+00:36:03,766 --> 00:36:09,610
+DC and Marvel's history in order to test their
+opponents' observational skills. It's a contest
+
+383
+00:36:09,751 --> 00:36:15,475
+of watching, essentially, or since this is a
+podcast, listening. Yeah, how good is the other
+
+384
+00:36:15,495 --> 00:36:20,818
+character at perceiving the events of their
+respective universes? In a way, we could all
+
+385
+00:36:20,859 --> 00:36:26,703
+be considered Watchers and Monitors of Marvel
+and DC as consumers. of Marvel and DC films
+
+386
+00:36:26,743 --> 00:36:31,666
+and shows, and that we observe what happens
+without taking action and chronicling their
+
+387
+00:36:31,706 --> 00:36:39,451
+events in our fanboy minds. Right, so Jonathan,
+as the DC monitor, will be presented with four
+
+388
+00:36:39,552 --> 00:36:45,896
+audio events from DC's past, same for me as
+the Marvel Watcher. The task will be to identify
+
+389
+00:36:45,936 --> 00:36:50,479
+the four events given to us, and the one who
+correctly identifies more events will be the
+
+390
+00:36:50,539 --> 00:36:55,499
+winner of this speculation. And to add a twist
+to the challenge, Each event presented to the
+
+391
+00:36:55,539 --> 00:37:00,243
+opposing character will have some sort of commonality,
+be it a thematic throughline or some other
+
+392
+00:37:00,283 --> 00:37:05,747
+connection. Both the Watchers and the Monitor's
+ultimate test will be to deduce this commonality
+
+393
+00:37:05,827 --> 00:37:11,151
+in order to win. So let's get started. The Watcher
+presents the Monitor with an event from the
+
+394
+00:37:11,231 --> 00:37:18,657
+DC Universe. Okay DC Monitor, here is your first
+event. This city is mine.
+
+395
+00:37:46,610 --> 00:37:53,175
+Okay, I have no idea whose voice that is. The
+city is mine. So a city is involved. It sounds
+
+396
+00:37:53,275 --> 00:37:58,660
+after that there's like a dragon like screaming
+and it's just like attacking all these people
+
+397
+00:37:58,700 --> 00:38:05,565
+and destroying some kind of city, I'm assuming.
+But at the very end, there's like this robotic
+
+398
+00:38:05,906 --> 00:38:11,490
+cybernetic kind of sound. It can't be cyborg.
+This is not Justice League. There's some kind
+
+399
+00:38:11,510 --> 00:38:17,679
+of giant monster there. Shazam Fury of the Gods
+had a dragon. Aquaman had a giant carathen.
+
+400
+00:38:17,819 --> 00:38:23,002
+The Suicide Squad had Starro. Oh, is that the
+thinker who's saying the city is mine? You
+
+401
+00:38:23,042 --> 00:38:27,604
+can't just name every movie and every monster.
+Okay. I think I know what scene this is. Okay
+
+402
+00:38:27,624 --> 00:38:35,248
+this is the climactic battle of the Suicide
+Squad when Starro is confronting the Suicide
+
+403
+00:38:35,288 --> 00:38:41,032
+Squad telling them that the city belongs to
+him and all of his minions that have Starro's
+
+404
+00:38:41,092 --> 00:38:47,576
+on their faces begin to attack the Suicide Squad.
+That is correct. Yes. Oh, good gosh. This is
+
+405
+00:38:47,636 --> 00:38:53,481
+the Star of the Conqueror scene from the Suicide
+Squad when Star of the Conqueror attacks Corto
+
+406
+00:38:53,501 --> 00:38:59,225
+Maltese. And the computerized sounds that you
+hear at the end are Amanda Waller's crew waking
+
+407
+00:38:59,306 --> 00:39:04,850
+up to find out that there's a freaking Kaiju
+that's been awakened. Gotcha. Okay. So one
+
+408
+00:39:04,890 --> 00:39:10,194
+point for me, apparently. Yes, one point for
+you. Okay. So now it's the monitor's turn to
+
+409
+00:39:10,254 --> 00:39:13,837
+present the Watcher with an event from Marvel.
+
+410
+00:39:44,054 --> 00:39:51,259
+This one is Easy Money. I hear a man saying
+no, and I hear cityscape sounds, and also a
+
+411
+00:39:51,319 --> 00:39:59,025
+very distinctive scoring, music-wise. The event
+in question is when Otto Octavius realizes
+
+412
+00:39:59,065 --> 00:40:03,548
+that the metal arms have been grafted to his
+body, and he escapes out into the city and
+
+413
+00:40:03,608 --> 00:40:09,193
+attacks a taxi cab before fleeing into the night.
+Right, what movie is that from? That is from
+
+414
+00:40:09,453 --> 00:40:16,022
+Spider-Man 2. Great job, you had a way easier
+time with that one than I did. Well, I'm just
+
+415
+00:40:16,062 --> 00:40:22,328
+a better observer, I guess. But now it is the
+DC Monitor's turn again. Here is your next
+
+416
+00:40:22,368 --> 00:40:22,648
+event.
+
+417
+00:40:26,146 --> 00:40:30,350
+Come on, start moving now people, let's go!
+The boss wants us out of the building, so let's
+
+418
+00:40:30,391 --> 00:40:31,552
+make it happen! Jack!
+
+419
+00:40:52,758 --> 00:41:00,562
+Okay, I'm hearing a car chase, it sounds like.
+And there's a lot of destruction and structures
+
+420
+00:41:00,602 --> 00:41:05,564
+crumbling. Two guys are talking. It definitely
+sounds like Ben Affleck. Sounds like there's
+
+421
+00:41:05,584 --> 00:41:11,848
+a lot of chaos and destruction going on and
+someone's driving. This has to be the opening
+
+422
+00:41:11,988 --> 00:41:19,292
+to Batman v Superman when Bruce Wayne is racing
+to Wayne Enterprises during Zod's attack on
+
+423
+00:41:19,652 --> 00:41:25,906
+Metropolis. That is correct. from Batman vs
+Superman, a point to the DC monitor for that
+
+424
+00:41:25,986 --> 00:41:31,854
+one. Two for two. Gotta say, Hans Zimmer's score
+during that film, still really iconic. Moving
+
+425
+00:41:32,014 --> 00:41:37,661
+on to the second challenge for Uwatu. Here is
+the second event for Marvel.
+
+426
+00:41:45,454 --> 00:41:51,962
+Are you even pulling? Are you on my team? Just
+represent, pull! Alright, let's go! NNNN
+
+427
+00:42:00,102 --> 00:42:01,125
+Good Steve, no pressure.
+
+428
+00:42:04,706 --> 00:42:11,775
+Come on, Cap. Okay, I'm hearing a lot of voices.
+I'm hearing people struggling. I'm hearing
+
+429
+00:42:11,815 --> 00:42:16,697
+some whimsical music. This is another pretty
+easy one, I think. This is the scene when the
+
+430
+00:42:16,777 --> 00:42:23,239
+Avengers try to lift Thor's hammer from Avengers
+Age of Ultron. That is correct. One more point
+
+431
+00:42:23,299 --> 00:42:29,521
+for the Watcher. Congrats. All right, it is
+now the DC Monitor's turn for the next event.
+
+432
+00:42:59,562 --> 00:43:03,885
+Okay, that's definitely from a Superman movie.
+I think it's from Superman the movie. Is this
+
+433
+00:43:03,945 --> 00:43:08,949
+the destruction of Krypton? That is correct.
+Yes, this is the destruction of Krypton from
+
+434
+00:43:09,010 --> 00:43:12,132
+Superman the movie. Yeah, this is the scene
+where we see all of the Kryptonians sort of
+
+435
+00:43:12,232 --> 00:43:18,538
+falling into the fiery chasms that are now what's
+left of Krypton. And after the planet explodes,
+
+436
+00:43:18,578 --> 00:43:24,963
+we see the baby hell else ship zip by the camera.
+Correct. Yeah, good job. All right. The DC
+
+437
+00:43:24,983 --> 00:43:29,646
+monitor gets another point. You're three for
+three so far. I freaking got scared at the
+
+438
+00:43:29,666 --> 00:43:36,871
+beginning of the clip, I'm not gonna lie. Alright,
+the monitor is now presenting Uatu with Marvel's
+
+439
+00:43:37,031 --> 00:43:40,313
+third event to recall. I shall miss you, my
+friend.
+
+440
+00:44:08,866 --> 00:44:15,167
+What the fuck is that from? Okay, I hear what
+sounds like Professor X saying, I will miss
+
+441
+00:44:15,227 --> 00:44:20,929
+you, my friend. And then a lot of people saying,
+I'm sorry. Ooh, this is a tough one. I don't
+
+442
+00:44:21,009 --> 00:44:27,090
+immediately recognize what this is from. Maybe
+I'm not correct and that's not Professor X.
+
+443
+00:44:27,731 --> 00:44:34,532
+Oh, I know what this is from. Okay, the I'm
+sorry suddenly makes sense now. This is from
+
+444
+00:44:34,592 --> 00:44:41,823
+Doctor Strange and the Multiverse of Madness
+when Black Bolt erases Doctor Strange from
+
+445
+00:44:42,223 --> 00:44:48,265
+that timeline. Right, a multiversal Doctor Strange
+from the multiverse, where Professor X and
+
+446
+00:44:48,285 --> 00:44:52,967
+Black Bolt and Mr. Fantastic are all part of
+this council. That was a great challenge right
+
+447
+00:44:52,987 --> 00:44:57,489
+there. I'm ashamed to say that I didn't immediately
+get it because I'm sure some of our listeners
+
+448
+00:44:57,549 --> 00:45:03,131
+will, but I'm glad I pulled it off in the end.
+That's three points for me so far. For you,
+
+449
+00:45:03,251 --> 00:45:10,989
+the DC Monitor, I present you with your final
+challenge. The only way to save the world from
+
+450
+00:45:11,070 --> 00:45:13,241
+ever happening. Take this.
+
+451
+00:45:36,742 --> 00:45:43,605
+Okay, I'm pretty sure this has to be from the
+flash just because someone's telling another
+
+452
+00:45:43,645 --> 00:45:48,667
+guy to run and there's like this electrical
+sound. I can't pinpoint the scene though. I'm
+
+453
+00:45:48,707 --> 00:45:53,709
+not sure who's telling him to run, I think.
+I want to know what the guy gives the runner
+
+454
+00:45:54,110 --> 00:45:59,092
+when he says take this. What is that? Obviously,
+this has to be from a film where something
+
+455
+00:45:59,152 --> 00:46:04,062
+just catastrophic happens and time has to be
+rewritten. That's why my guess is it's the
+
+456
+00:46:04,102 --> 00:46:08,523
+Flash, but it could also be Zack Snyder's Justice
+League. Why can't I recognize that voice? That
+
+457
+00:46:08,943 --> 00:46:14,145
+frigging kills me. I feel like this is from
+an animated film. Is this from Justice League
+
+458
+00:46:14,185 --> 00:46:20,186
+Dark Apocalypse War? It is not. No. Okay, well
+then it's gotta be from the Tomorrowverse.
+
+459
+00:46:20,686 --> 00:46:26,308
+This has gotta be from Justice League Crisis
+on Infinite Earths, part one. I'm guessing.
+
+460
+00:46:26,408 --> 00:46:27,388
+Fuck you.
+
+461
+00:46:30,569 --> 00:46:35,547
+I feel like I could see the scene in my head.
+I just have no idea what movie it's from or
+
+462
+00:46:35,667 --> 00:46:43,070
+who's on the screen. It's just shadows really.
+The voice belongs to Thomas Wayne and it is
+
+463
+00:46:43,330 --> 00:46:49,272
+from the end of Justice League the Flashpoint
+Paradox. When he says take this he's handing
+
+464
+00:46:49,512 --> 00:46:54,034
+Barry Allen a note to his son Bruce Wayne. You
+know I should have known this I feel really
+
+465
+00:46:54,094 --> 00:46:59,336
+stupid because of course that's what it's from.
+For that particular round I award you no points
+
+466
+00:46:59,896 --> 00:47:05,960
+and may God have mercy on your soul Jonathan.
+I need that. Well, that's three out of four
+
+467
+00:47:06,000 --> 00:47:12,603
+for the monitor. Let's see how Marvel's The
+Watcher fares with this fourth and final event
+
+468
+00:47:13,024 --> 00:47:14,885
+that I'm hoping is the most difficult.
+
+469
+00:47:45,170 --> 00:47:51,675
+Okay, I hear animals attacking each other. I
+hear a dog getting slapped. And I think there's
+
+470
+00:47:51,735 --> 00:47:59,001
+really only one movie that happens in, and that
+would be the Hulk dog fight from the 2003 movie
+
+471
+00:47:59,061 --> 00:48:04,545
+Hulk. You think you're better than me? I think
+I'm a better Watcher than you, yeah. Okay.
+
+472
+00:48:06,387 --> 00:48:13,012
+Well, maybe not. Let's see if you pass the ultimate
+test, Mr. Watcher. What do all four of these
+
+473
+00:48:13,152 --> 00:48:18,767
+events have in common? Well, why don't you tell
+me first? There was the climactic battle against
+
+474
+00:48:18,807 --> 00:48:23,989
+Starro at the end of the Suicide Squad. There
+was the opening to Batman v Superman with Bruce
+
+475
+00:48:24,009 --> 00:48:29,412
+Wayne driving to Wayne Enterprises during Zod's
+attack. So I guess cities are being destroyed.
+
+476
+00:48:29,932 --> 00:48:35,134
+There was Superman the movie with the destruction
+of Krypton. And then I guess there was the
+
+477
+00:48:35,154 --> 00:48:42,137
+destruction of an entire universe in the Flashpoint
+Paradox. So the theme is destruction? That
+
+478
+00:48:42,177 --> 00:48:48,675
+is correct. Yeah. cosmic level events of mass
+destruction. Yeah. Gotcha. Okay, cool. So I
+
+479
+00:48:48,715 --> 00:48:55,377
+guess I win ultimately. Even though I got one
+wrong. For the Watcher, the events that were
+
+480
+00:48:55,397 --> 00:49:03,499
+presented to him were Doctor Octopus's awakening,
+you have the Avengers trying to lift Thor's
+
+481
+00:49:03,539 --> 00:49:10,861
+hammer, you have Black Bolt destroying Doctor
+Strange, and you have Hulk fighting against
+
+482
+00:49:10,921 --> 00:49:19,106
+the Hulk dogs. This commonality is much harder
+for me to determine. I cannot think of a single
+
+483
+00:49:19,287 --> 00:49:24,830
+damn thing, especially with the Avengers party
+kind of throwing a wrench in there. I know
+
+484
+00:49:24,850 --> 00:49:28,753
+that two of the movies were directed by Sam
+Raimi. The other one was directed by Joss Whedon.
+
+485
+00:49:28,773 --> 00:49:32,956
+The other one was directed by Ang Lee. One of
+the movies came out in 2003. One of the movies
+
+486
+00:49:32,976 --> 00:49:38,880
+came out in 2004. And then you have 2015 with
+Age of Ultron and Dr. Strange came out in 2022,
+
+487
+00:49:40,201 --> 00:49:45,371
+I think. Are you Googling this shit? No. Get
+off Google. I'm not fucking Googling. That's
+
+488
+00:49:45,431 --> 00:49:51,332
+all in my brain, motherfucker. I cannot think
+of the commonality between those. Is there,
+
+489
+00:49:51,472 --> 00:49:57,034
+I honestly have no idea. I have no idea. So
+you admit that you're inferior as a watcher.
+
+490
+00:49:57,514 --> 00:50:01,995
+No, I mean, I got all the events correct, but
+what's the commonality between them? Are you
+
+491
+00:50:02,015 --> 00:50:07,517
+ready for the answer? I am ready for the answer.
+All films were scored by Danny Elfman. Ah,
+
+492
+00:50:07,617 --> 00:50:13,444
+shit! Of course they were. Yeah, you're totally
+right. Oh, that was a good one. That was really
+
+493
+00:50:13,484 --> 00:50:19,548
+good. Yeah, yeah, the Spider-Man Sam Raimi franchise,
+the 2003 Hulk movie, Multiverse of Madness,
+
+494
+00:50:20,208 --> 00:50:24,711
+and Avengers Age of Ultron were all scored by
+Danny Elfman. Although for Age of Ultron, he
+
+495
+00:50:24,731 --> 00:50:30,856
+was one of many composers on that film. But
+that, though, that was a sneaky ass commonality
+
+496
+00:50:30,916 --> 00:50:37,300
+between all the events. Well, I guess since
+the Watcher failed the true test of this whole
+
+497
+00:50:37,380 --> 00:50:43,043
+matchup, the Monitor wins. And yet it was the
+watcher who was able to correctly identify
+
+498
+00:50:43,243 --> 00:50:49,086
+every event that happened. So really, the watcher
+wins. That doesn't matter. You have to look
+
+499
+00:50:49,186 --> 00:50:53,267
+deeper at things. Yeah, just like how apparently
+you didn't look deep enough at the flashpoint
+
+500
+00:50:53,307 --> 00:51:00,030
+paradox to remember what the fuck happened in
+that movie, obviously. You're the one who cheated
+
+501
+00:51:00,070 --> 00:51:06,893
+by pulling out a direct-to-video animated film.
+Who does that? Uh, DC does that. A lot. They
+
+502
+00:51:06,913 --> 00:51:11,434
+put out a lot of- direct to video animated films.
+Blame them. Yeah, but I don't remember any
+
+503
+00:51:11,474 --> 00:51:16,921
+of them. You don't remember the Flashpoint Paradox,
+which is one of DC's best animated projects?
+
+504
+00:51:17,222 --> 00:51:22,729
+That's fair, that was really good. It honestly
+just makes you sound dumb. Like you explained
+
+505
+00:51:22,849 --> 00:51:29,390
+everything about the plot of that movie without
+getting the movie. I mean, the monitor got
+
+506
+00:51:29,510 --> 00:51:35,355
+everything but the title of the project. So
+maybe the watchers dumb. Maybe the watchers
+
+507
+00:51:35,395 --> 00:51:41,920
+tired of your shit and just shoves the monitor.
+Oh, oh, look, who's suddenly getting all confrontational.
+
+508
+00:51:41,960 --> 00:51:46,344
+Mr. I swear not to intervene, you know, monitor.
+He's going to respond by shoving the watcher
+
+509
+00:51:46,384 --> 00:51:51,809
+back, but with energy beams from his hands that
+just like yeet the watcher into outer space.
+
+510
+00:51:52,389 --> 00:51:57,673
+I mean, the watcher has interfered before, like
+when necessary. Right. And he's all too happy.
+
+511
+00:51:58,166 --> 00:52:04,311
+right now to interfere with the monitor's face
+by rearranging it. So yeah, the watcher gets
+
+512
+00:52:04,351 --> 00:52:10,716
+blasted back into the cosmos, but suddenly he
+disappears in a flash of light and he reappears
+
+513
+00:52:10,776 --> 00:52:16,901
+behind the monitor. But now he's the size of
+a whole planet. And he's going to shoot down
+
+514
+00:52:16,961 --> 00:52:21,545
+energy beams from his eyes that just disintegrate
+the monitor. Yeah, I mean the monitor saw this
+
+515
+00:52:21,665 --> 00:52:28,318
+coming due to his precognition and cosmic awareness.
+So the monitor blocks the eye blast. by beaming
+
+516
+00:52:28,478 --> 00:52:34,341
+in this massive structure, this tuning fork
+tower between him and the Watcher's lasers
+
+517
+00:52:34,561 --> 00:52:39,803
+before they reach him. And this tower absorbs
+those lasers along with all of the Watcher's
+
+518
+00:52:39,903 --> 00:52:47,406
+energy just draining him so now he's just this
+giant floating husk in space. Except that when
+
+519
+00:52:47,486 --> 00:52:54,309
+the Watcher attacked Monitor, he also telepathically
+read his mind and learned all of his secrets.
+
+520
+00:52:54,814 --> 00:53:00,116
+including his knowledge about this power draining
+antenna. Okay, so as the Watcher's power is
+
+521
+00:53:00,156 --> 00:53:04,738
+being drained, he has a contingency plan. You
+know, he has this massive comet from the far
+
+522
+00:53:04,778 --> 00:53:11,100
+reaches of the solar system fly in and plow
+right through that antenna, like a bullet through
+
+523
+00:53:11,120 --> 00:53:17,743
+a gas tank, just unleashing the antenna's energy
+in like this sun-sized explosion, and the monitor
+
+524
+00:53:17,863 --> 00:53:22,885
+dies in the blast. So the match is over. No,
+except that the comet actually just passes
+
+525
+00:53:23,274 --> 00:53:27,835
+right through the antenna because once they
+had enough of the watcher's energy, the antenna
+
+526
+00:53:27,875 --> 00:53:33,156
+sent out this frequency throughout the universe
+that shifted it into the sixth dimension where
+
+527
+00:53:33,196 --> 00:53:38,698
+the watcher is like nothing but an infant and
+the monitor can control reality. So the monitor,
+
+528
+00:53:38,898 --> 00:53:43,739
+you know, he's aboard his ship and he simply
+presses a button on his console and the watcher
+
+529
+00:53:43,840 --> 00:53:49,141
+ceases to exist. Match over. Okay, so the monitor
+is a cold-hearted bastard who would erase an
+
+530
+00:53:49,301 --> 00:53:58,259
+infant? Wow. And the Watcher looks like a big
+baby! I mean, the Watcher, I'm pretty sure,
+
+531
+00:53:58,779 --> 00:54:02,722
+is powerful enough to like, you know, thrive
+in the sixth dimension. So like, right as the
+
+532
+00:54:02,782 --> 00:54:09,026
+monitor is about to press that eraser button,
+all of a sudden time freezes, okay? And the
+
+533
+00:54:09,066 --> 00:54:15,191
+Watcher is going to peer into a what-if universe
+that's called, what if the monitor was a weak,
+
+534
+00:54:15,311 --> 00:54:20,790
+punk-ass loser? And all of a sudden the fight
+gets transported there. where the Watcher just
+
+535
+00:54:20,850 --> 00:54:27,193
+kills the monitor with a backhand slap. You
+know, ending the match. Sixth dimensional time
+
+536
+00:54:27,273 --> 00:54:33,115
+freezing? That is horseshit. Why is that horseshit?
+Because it's the sixth dimension, like time
+
+537
+00:54:33,155 --> 00:54:37,917
+does not even exist. I'm pretty sure it does.
+Why are you so confident that the Watcher can
+
+538
+00:54:37,997 --> 00:54:44,740
+even comprehend anything he's seeing in the
+sixth dimension? Because he's the fucking Watcher.
+
+539
+00:54:44,800 --> 00:54:50,711
+That's why he's pretty damn powerful. Again,
+horseshit. I say the monitor is a more advanced
+
+540
+00:54:50,871 --> 00:54:55,713
+being than the watcher. So there's no way the
+watcher is going to be able to peer into any
+
+541
+00:54:55,733 --> 00:55:00,456
+other kind of reality from the sixth dimension.
+He's just going to get erased. Oh, we're just
+
+542
+00:55:00,476 --> 00:55:04,218
+going to take your word for it that he's a more
+advanced being than the watcher? Sure. Yeah.
+
+543
+00:55:04,778 --> 00:55:08,660
+Well, let's find out by taking this fight to
+the stats. Okay. We're going to go ahead and
+
+544
+00:55:08,700 --> 00:55:12,643
+plug in their stats, run the simulations and
+see which one wins.
+
+545
+00:55:18,402 --> 00:55:24,066
+Processing results simulations complete. All
+right, these guys are super powerful. Definitely
+
+546
+00:55:24,106 --> 00:55:29,850
+reflected in the stats because all their stats
+were almost maxed out. There were a few discrepancies.
+
+547
+00:55:30,390 --> 00:55:35,133
+We did say that the watcher was more evasive
+because he's a little bit more elusive and
+
+548
+00:55:35,173 --> 00:55:40,117
+behind the scenes than the monitor. And you
+know, the watcher often goes invisible. The
+
+549
+00:55:40,137 --> 00:55:45,340
+monitor is a little bit more concrete. Right.
+The monitor though, we said has a lot more
+
+550
+00:55:45,581 --> 00:55:51,549
+toys at his disposal. He's always carrying around
+six dimensional technology that he uses, whereas
+
+551
+00:55:51,589 --> 00:55:57,314
+the Watcher, he has his Citadel and some of
+the items stored there help him out, but largely
+
+552
+00:55:57,794 --> 00:56:02,598
+he acts through his own power. We also said
+that the monitor had a greater perception than
+
+553
+00:56:02,638 --> 00:56:07,902
+the Watcher because his cosmic awareness extends
+across universes and even out into the greater
+
+554
+00:56:08,022 --> 00:56:13,427
+omniverse. Yeah, yeah, we said that the monitor
+essentially observes more than the Watcher.
+
+555
+00:56:13,847 --> 00:56:20,237
+The Watcher largely relegated to Earth and its
+solar system, traditionally speaking. But for
+
+556
+00:56:20,277 --> 00:56:25,601
+everything else, including intelligence, versatility,
+strength, durability, they were all even. The
+
+557
+00:56:25,641 --> 00:56:30,125
+strangest stat had to be fighting skill. We
+had no idea what the heck to do for that one,
+
+558
+00:56:30,506 --> 00:56:35,150
+but we figured whatever we gave them, they would
+be basically even. Yeah, they've both been
+
+559
+00:56:35,210 --> 00:56:40,054
+known to throw down very, very rarely. So yeah,
+fighting skill was a hard one to tabulate for
+
+560
+00:56:40,094 --> 00:56:43,597
+them. With all that said and done though, Jonathan,
+who do you think is going to win this match?
+
+561
+00:56:44,230 --> 00:56:49,451
+I think it's going to be the monitor and our
+Instagram poll takers agree with me. So far.
+
+562
+00:56:50,172 --> 00:56:57,034
+Yeah, they are giving the monitor a 54% edge
+over the watcher. Last time I checked the watcher
+
+563
+00:56:57,054 --> 00:57:00,556
+was ahead in that poll. What the hell? It is
+kind of surprising to me that the watcher is
+
+564
+00:57:00,596 --> 00:57:05,317
+not ahead right now considering we just got
+off of what if and he was a major player in
+
+565
+00:57:05,357 --> 00:57:09,721
+that. Well, I mean, I guess the monitor was
+in the recent Justice League Crisis on Infinite
+
+566
+00:57:09,821 --> 00:57:16,146
+Earth's trilogy of films, as well as the Arrow
+vs Crisis on Infinite Earth's crossover event.
+
+567
+00:57:16,526 --> 00:57:20,910
+That's true. Anyway, what does Instagram know?
+Let's get the final results of this match.
+
+568
+00:57:21,090 --> 00:57:28,677
+AJ9K, the results please. Hey Yuasa. Okay, the
+winner between the monitor and the watcher
+
+569
+00:57:29,657 --> 00:57:37,411
+is... The monitor. Hell yeah! It was very close.
+Out of 1000 simulated matches, the monitor
+
+570
+00:57:37,451 --> 00:57:48,216
+won 554 battles, whereas the watcher only won
+446. So it's 55.4% over 44.6%. I'm not surprised.
+
+571
+00:57:48,296 --> 00:57:53,578
+I knew the watcher was powerful, but I also
+figured the monitor just operated at a bigger
+
+572
+00:57:53,638 --> 00:57:59,001
+scale. And the stats sort of reflected that.
+Well, I mean, if the monitor is so perceptive,
+
+573
+00:57:59,041 --> 00:58:03,622
+how come he didn't know... what the fucking
+end of the Flashpoint paradox was. No, no,
+
+574
+00:58:04,283 --> 00:58:10,884
+you're comparing Mar Novo to Johnny DC. That's
+not a fair comparison. Yeah, I guess you're
+
+575
+00:58:10,904 --> 00:58:14,646
+right. Johnny DC is not that great. Yeah, neither
+is Marvelous Joe because he couldn't find the
+
+576
+00:58:14,666 --> 00:58:20,367
+connection between all of the different four
+movies. I may be observant, but I'm not smart.
+
+577
+00:58:20,687 --> 00:58:27,149
+That's fair. Well, that does it for this duel,
+guys. AJ 9K, help close this out. Thanks for
+
+578
+00:58:27,189 --> 00:58:32,456
+listening to Dynamic Duel. Visit the show's
+website at dynamicduel.com and follow us on
+
+579
+00:58:32,516 --> 00:58:39,001
+Instagram at dynamicduelpodcast. You can support
+the show on Patreon at patreon.com slash dynamicduel
+
+580
+00:58:39,141 --> 00:58:43,344
+and joining a tier that works for you, or by
+rating and reviewing Dynamic Duel on Apple
+
+581
+00:58:43,384 --> 00:58:48,989
+Podcasts, Spotify, Podchaser or on our website.
+Don't forget to listen to the other shows in
+
+582
+00:58:49,009 --> 00:58:54,533
+the DynaMic Podcast Network, including Max
+Destruction, Senjo World and Console Combat.
+
+583
+00:58:56,222 --> 00:59:01,705
+In our next episode, we will be doing a review
+of the first season of Creature Commandos,
+
+584
+00:59:01,745 --> 00:59:07,569
+which is also kicking off James Gunn's DCU.
+You do not want to miss it and our thoughts
+
+585
+00:59:07,709 --> 00:59:11,832
+on it. But that is it for this episode, we want
+to give a big thanks to our executive producers
+
+586
+00:59:12,092 --> 00:59:17,076
+Ken Johnson, Jon Sturowski, Zachary Hepburn,
+Dustin Balcom, Mickey Mathangian, Brendan Estergard,
+
+587
+00:59:17,216 --> 00:59:22,900
+Nathaniel Wagner, Levi Yeaton, Austin Wasilowski,
+AJ Dunkerley, Scott Camacho, Gil Camacho, Adam
+
+588
+00:59:22,920 --> 00:59:28,937
+Spies, Andrew Schunk, Dean Maleski. Devin Davis,
+Joseph Kirsting, Josh Leiner, Mike Williams,
+
+589
+00:59:29,257 --> 00:59:34,283
+and Oscar Galvez for helping make this podcast
+possible. We'll talk to you guys next week.
+
+590
+00:59:34,843 --> 00:59:36,465
+Up up and away, true believers.
+
