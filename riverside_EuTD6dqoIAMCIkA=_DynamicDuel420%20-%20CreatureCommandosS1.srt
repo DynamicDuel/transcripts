@@ -1,0 +1,3185 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a DynaMic Network podcast.
+
+2
+00:00:24,846 --> 00:00:29,811
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,851 --> 00:00:35,717
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:36,178 --> 00:00:42,144
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, we are doing a review
+
+5
+00:00:42,465 --> 00:00:49,002
+of DC Studios' first ever project, the animated
+series Creature Commandos, written by James
+
+6
+00:00:49,062 --> 00:00:55,985
+Gunn, the head of DC Studios. Was it a worthwhile
+start to the new DC universe? You'll find out
+
+7
+00:00:56,005 --> 00:01:00,386
+later on in our review. Before that we're going
+to break down the comic book movie news from
+
+8
+00:01:00,426 --> 00:01:06,168
+the past week, of which there was just one major
+news item, and that was the new official trailer
+
+9
+00:01:06,408 --> 00:01:11,850
+for the Daredevil Born Again series for Disney+.
+Yeah, as always, we list our segment times
+
+10
+00:01:11,870 --> 00:01:15,312
+in our episode description, so feel free to
+check out the show notes if you want to skip
+
+11
+00:01:15,332 --> 00:01:20,894
+ahead to a particular topic. Guys, our artificially
+intelligent Duel simulator AJ9K has a quick
+
+12
+00:01:20,934 --> 00:01:26,856
+message for our listeners, so listen up. Why,
+hello there. Do you want even more from this
+
+13
+00:01:26,896 --> 00:01:31,638
+podcast? Then become a part of the Dynamic Duel
+community on Patreon, where you can choose
+
+14
+00:01:31,678 --> 00:01:36,760
+from three tiers. The Dynamic Duo tier gives
+you access to our Discord chat server. The
+
+15
+00:01:36,780 --> 00:01:41,238
+Fantastic Four tier gives you two bonus episodes
+each month. and the X-Force tier makes you
+
+16
+00:01:41,278 --> 00:01:46,640
+an executive producer of this show. Lastly,
+the Diner Mike podcast network tier lets you
+
+17
+00:01:46,680 --> 00:01:51,162
+create your own podcast using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+18
+00:01:51,182 --> 00:01:56,724
+your show, provide graphic support and consultation
+and get you simulation results. Pitch the twins
+
+19
+00:01:56,744 --> 00:02:02,327
+your ideas via email at dynamic Duel podcast
+at Gmail dot com. Check it out at Patreon dot
+
+20
+00:02:02,347 --> 00:02:08,689
+com slash dynamic Duel. Pip pip cheerio. Thanks,
+AJ 9K, and thanks to everyone who supports
+
+21
+00:02:08,729 --> 00:02:15,010
+the podcast. Real quick today, January 21st
+happens to be the birthday of both Joseph and
+
+22
+00:02:15,050 --> 00:02:20,234
+myself. So I just want to say happy birthday
+Joseph. If I could get you any gift from DC,
+
+23
+00:02:20,334 --> 00:02:26,700
+it would be a big belly burger. Cause it'll
+make you fat. If I could get you any gift from
+
+24
+00:02:26,740 --> 00:02:31,264
+Marvel, it would be nothing because you wouldn't
+deserve it. Oh good. Just what I've always
+
+25
+00:02:31,304 --> 00:02:37,909
+wanted. Nothing for Marvel. I'll take a big
+belly burger. Not gonna lie. Yeah you would.
+
+26
+00:02:38,370 --> 00:02:42,752
+Guys be sure to tune in to the other shows in
+the DynaMic Podcast Network this week, including
+
+27
+00:02:42,792 --> 00:02:46,454
+Max Destruction which pits your favorite action
+heroes from film and television against each
+
+28
+00:02:46,494 --> 00:02:53,218
+other. This week, hosts Scotty and Gilly are
+reviewing the 1997 film Spawn. On the Senjoworld
+
+29
+00:02:53,258 --> 00:02:57,860
+podcast, host Zachary Hepburn speculates on
+fights between fan favorite anime and manga
+
+30
+00:02:57,900 --> 00:03:02,543
+characters. And on the Konsole Kombat podcast,
+hosts John and Dean simulate battles between
+
+31
+00:03:02,603 --> 00:03:06,885
+popular video game characters. In yesterday's
+episode, they found out who would win between
+
+32
+00:03:07,150 --> 00:03:13,433
+Krieg from Borderlands and Bane from Arkham
+Asylum. Visit dynamicpodcasts.com or click
+
+33
+00:03:13,453 --> 00:03:18,476
+the link in our show notes to listen to all
+of the shows in the DynaMic Podcast Network.
+
+34
+00:03:18,996 --> 00:03:25,519
+But with that out of the way, quick to the No
+Prize! A No Prize is an award Marvel used to
+
+35
+00:03:25,559 --> 00:03:31,123
+give out to fans. Our version, the Dynamic Duel
+No Prize, is a digital award we post on Instagram
+
+36
+00:03:31,143 --> 00:03:37,630
+for the person that we feel gave the best answer
+to our question of the week. What Marvel or
+
+37
+00:03:37,650 --> 00:03:43,893
+DC theatrical film are you most looking forward
+to in 2025? You basically had four options.
+
+38
+00:03:44,374 --> 00:03:51,418
+There's Captain America Brave New World, Thunderbolts,
+Superman, and Fantastic Four First Steps. We
+
+39
+00:03:51,458 --> 00:03:55,360
+got three answers this week, so let's go ahead
+and break down the honorable mentions as well
+
+40
+00:03:55,440 --> 00:04:01,823
+as the no prize winner. Our first honorable
+mention goes to Mike Williams, who said, I'm
+
+41
+00:04:01,903 --> 00:04:08,083
+very interested to see the new Captain America
+movie. to see what role the Red Hulk's gonna
+
+42
+00:04:08,103 --> 00:04:14,707
+play, and also how General Thunderbolt loss
+is connected with the Thunderbolt movie that
+
+43
+00:04:14,727 --> 00:04:20,830
+will be coming out later this year. Anyway,
+as always, make mine Marvel. Take care. Yeah,
+
+44
+00:04:20,870 --> 00:04:25,473
+Captain America Brave New World, I believe the
+tickets actually went on sale already. I'm
+
+45
+00:04:25,493 --> 00:04:29,835
+really looking forward to that movie, mostly
+for the appearance of Red Hulk and the leader.
+
+46
+00:04:30,216 --> 00:04:35,395
+I kind of feel like they maxed out the coolness
+factor of Sam Wilson in the Falcon and the
+
+47
+00:04:35,415 --> 00:04:38,957
+Winter Soldier television series and all of
+his appearances from Captain America the Winter
+
+48
+00:04:38,997 --> 00:04:43,981
+Soldier and Civil War. We've seen a lot of what
+he can do already. So I find myself more drawn
+
+49
+00:04:44,061 --> 00:04:48,884
+toward the villains of Captain America Brave
+New World than the hero. That being said, I'm
+
+50
+00:04:48,924 --> 00:04:52,847
+excited Sam's getting his own movie. Yeah, I'm
+pretty excited to see this as well, especially
+
+51
+00:04:52,967 --> 00:04:57,410
+after the last trailer that we received. We
+still don't know too much about the story,
+
+52
+00:04:57,530 --> 00:05:02,074
+I feel, but visually and action wise, it looks
+like the movie is going to be incredible. If
+
+53
+00:05:02,114 --> 00:05:06,615
+it can capture the same spirit as Captain America
+the Winter Soldier, I think we're in for quite
+
+54
+00:05:06,655 --> 00:05:11,516
+the treat in a few weeks. Great answer Mike!
+Our next honorable mention goes to... Miggy
+
+55
+00:05:11,536 --> 00:05:17,238
+Mathingian who said... Hey what's up guys this
+is Miggy and like Lizzie said in the Discord
+
+56
+00:05:17,258 --> 00:05:20,959
+server, there's only one right answer this week.
+It's Superman. It's going to be so good. It's
+
+57
+00:05:20,979 --> 00:05:26,421
+going to be everything that you want in a Superman
+movie. Characterizes the hero really well.
+
+58
+00:05:27,161 --> 00:05:32,719
+And it's the only movie you should be looking
+forward to. this year because Marvel sucks.
+
+59
+00:05:32,879 --> 00:05:38,702
+It's dying. Just let it die. You know, like
+it's been dead. Why are you still trying to
+
+60
+00:05:38,722 --> 00:05:45,905
+hang around? Stop it. That's right. Marvel is
+dead. Bury it. Consider this mercy. I think
+
+61
+00:05:45,965 --> 00:05:50,408
+Deadpool and Wolverine would probably disagree
+there. I mean, the movie made over a billion
+
+62
+00:05:50,428 --> 00:05:55,471
+dollars. Okay. Marvel's not dead. Marvel is
+thriving. The Captain America movie is gonna
+
+63
+00:05:55,491 --> 00:05:59,875
+be awesome. And like, Mickey's over here talking
+about how the Superman movie is gonna be everything
+
+64
+00:05:59,895 --> 00:06:04,139
+you want from a Superman movie. Like, he's seen
+the film. What if it doesn't have everything
+
+65
+00:06:04,159 --> 00:06:10,465
+you want from a Superman movie? What if your
+expectations are too high, my friend? Not possible.
+
+66
+00:06:10,845 --> 00:06:15,269
+Superman is gonna nail it out of the park. I
+cannot wait to see it. It's gonna be the next
+
+67
+00:06:15,309 --> 00:06:21,074
+best Superman movie since Superman the movie
+and Man of Steel. Jonathan, do you remember
+
+68
+00:06:21,094 --> 00:06:27,297
+everything you were saying about Batman vs Superman
+before that film came out? Hey, hey, the extended
+
+69
+00:06:27,357 --> 00:06:32,359
+edition was everything I wanted. Do you remember
+everything you were saying about Joker 2 before
+
+70
+00:06:32,379 --> 00:06:38,983
+that film came out? Too soon, man. Too soon.
+Great answer, Miggy. But the winner of this
+
+71
+00:06:39,023 --> 00:06:45,874
+week's snow prize is Kat Stevenson, who said,
+Hi, guys, it's Kat Stevenson here. And the
+
+72
+00:06:45,914 --> 00:06:51,098
+theatrical release that I am most excited for
+is Pedro Pascal. I mean, Fantastic Four First
+
+73
+00:06:51,138 --> 00:06:57,504
+Steps. I'm so excited to see Pedro Pa- I mean,
+the Fantastic Four finally get a good rendition.
+
+74
+00:06:58,085 --> 00:07:04,430
+Like with Pedro Pa- I mean, Mr. Fantastic, Galactus,
+Silver Surfer, the really cool rendition of
+
+75
+00:07:04,510 --> 00:07:10,115
+Pedro Pa- I mean, the thing. Everything looks
+so good and I am so excited for Pedro Pa- I
+
+76
+00:07:10,155 --> 00:07:15,278
+mean, the Fantastic Four to come to the MC-
+Sounds like someone's really excited about
+
+77
+00:07:15,298 --> 00:07:20,300
+the casting of Pedro Pascal as Reed Richards,
+Mr. Fantastic in the Fantastic Four movie coming
+
+78
+00:07:20,420 --> 00:07:26,101
+out this summer. I will be honest, and I think
+I've said it when he was cast and that was
+
+79
+00:07:26,141 --> 00:07:32,223
+announced last year, I'm not thrilled about
+Pedro Pascal as Mr. Fantastic, but I do like
+
+80
+00:07:32,243 --> 00:07:36,524
+him as an actor and I do think he could pull
+off the role. Yeah, the reason we mostly chose
+
+81
+00:07:36,604 --> 00:07:42,826
+this as our no-prize win is because we've had
+good We've had good Superman movies, but I
+
+82
+00:07:42,846 --> 00:07:47,807
+feel like we have yet to get a good Fantastic
+Four movie. Yeah, I'm really hoping that this
+
+83
+00:07:47,827 --> 00:07:53,049
+will be the case. I'm really looking forward
+to seeing Galactus done correctly on the big
+
+84
+00:07:53,089 --> 00:07:57,970
+screen. I think the scale of that character
+in theaters is just going to be mind-blowing.
+
+85
+00:07:58,050 --> 00:08:03,191
+I hope it is. And I really like the rest of
+the cast as well. So here's hoping that the
+
+86
+00:08:03,251 --> 00:08:06,932
+spirit of the Fantastic Four comics is truly
+represented on film. You know, they've had
+
+87
+00:08:07,373 --> 00:08:12,654
+multiple goes at it from the 90s movie that
+didn't get released. The early 2000s franchise
+
+88
+00:08:12,814 --> 00:08:18,056
+with Jessica Alba and of course, Fanta 4 Stick,
+which came out in the 20 teens. They gotta
+
+89
+00:08:18,076 --> 00:08:22,598
+get it right this time. I think they will. Yeah,
+to go from one of the worst superhero movies
+
+90
+00:08:22,938 --> 00:08:26,900
+to an actually good Fantastic Four movie would
+be the greatest comeback in the history of
+
+91
+00:08:26,960 --> 00:08:31,434
+comic book franchises. Maybe, maybe. What I'm
+hoping is that... It turns a lot of people
+
+92
+00:08:31,514 --> 00:08:35,318
+on to the Fantastic Four. Like, I don't think
+they have many fans, especially because their
+
+93
+00:08:35,358 --> 00:08:39,962
+films have done so poorly. So I'm hoping that
+the characters become A-list names in households
+
+94
+00:08:40,022 --> 00:08:44,707
+just like the Avengers have. That would be best
+case scenario. I guess we'll see. Great answer,
+
+95
+00:08:44,747 --> 00:08:48,610
+Cat. You win this week's No Prize. If you're
+the listener, want a shot at winning your own
+
+96
+00:08:48,650 --> 00:08:52,974
+No Prize, stay tuned to later on in this episode
+when we'll be asking another question of the
+
+97
+00:08:52,994 --> 00:08:56,057
+week. And now that that's done, onto the news.
+
+98
+00:09:01,494 --> 00:09:06,137
+This past week we got the official trailer for
+the upcoming Daredevil Born Again television
+
+99
+00:09:06,157 --> 00:09:12,221
+series that's coming out on Disney Plus in just
+a few months on March 4th. And damn, this show
+
+100
+00:09:12,241 --> 00:09:16,323
+looks good. Like I don't know what they had
+planned before the whole series retooling,
+
+101
+00:09:16,343 --> 00:09:22,508
+but whatever they did really worked because
+this show looks not just like a great continuation
+
+102
+00:09:22,568 --> 00:09:27,810
+of the Netflix series, it looks even more set.
+in the superhero world. That was my big takeaway
+
+103
+00:09:27,850 --> 00:09:33,213
+from it because we got a lot of shots that really
+seem to immerse the character more in the comic
+
+104
+00:09:33,233 --> 00:09:37,495
+book world of Marvel than he's ever been because
+we see things like you know multiple costumes
+
+105
+00:09:37,795 --> 00:09:42,817
+that he's worn including homages to his gray
+battle suit and his yellow costume and things
+
+106
+00:09:42,857 --> 00:09:48,579
+like that but we also got glimpses of other
+characters like Muse, White Tiger, The Punisher.
+
+107
+00:09:49,019 --> 00:09:54,690
+It looks like a really exciting time. It's hard
+for me to fathom how they could follow up the
+
+108
+00:09:54,750 --> 00:09:59,933
+masterpiece that was Daredevil season three.
+And I have to say, after seeing this trailer,
+
+109
+00:10:00,253 --> 00:10:05,737
+this is the first hope I've had that they could
+actually do that. Yeah, I don't need Daredevil
+
+110
+00:10:05,757 --> 00:10:11,961
+born again to surpass the quality of Netflix's
+Daredevil season three because in my mind that
+
+111
+00:10:12,001 --> 00:10:18,386
+was almost perfection and it was the perfect
+cap on that run. That being said, I do think
+
+112
+00:10:18,426 --> 00:10:25,058
+it'll come close. It may not be a perfect season,
+but I think it's highly unlikely drop the ball
+
+113
+00:10:25,098 --> 00:10:29,580
+on this, you know, I think we're looking to
+get like penguin levels of good here, but with
+
+114
+00:10:30,040 --> 00:10:36,382
+actual superheroics and vigilante fighting.
+The action looks almost more brutal than what
+
+115
+00:10:36,402 --> 00:10:43,205
+we got in Netflix. Yeah, I do have to say though,
+I feel bad for the villain of Muse, not because
+
+116
+00:10:43,585 --> 00:10:48,548
+he's a good guy or anything, he's a piece of
+shit. But he just gets his ass kicked left
+
+117
+00:10:48,588 --> 00:10:53,109
+and right nonstop in this trailer. There's at
+least like four different shots of Daredevil
+
+118
+00:10:53,129 --> 00:10:57,871
+just beating the ever loving shit out of him.
+And I hope it doesn't quite go down like that
+
+119
+00:10:57,891 --> 00:11:02,954
+in the actual show. I hope there's an actual
+good fight there to be had. Is Muse the guy
+
+120
+00:11:02,974 --> 00:11:08,656
+who Murdoch slams the bottle on his eye and
+then like kicks in his knee cap? No, that's
+
+121
+00:11:08,696 --> 00:11:13,578
+a different guy. Daredevil's kicking some ass
+in this trailer for sure. I wonder if Daredevil
+
+122
+00:11:13,778 --> 00:11:18,240
+and Hector Alaya aka White Tiger are gonna fight
+in this show. That'll be pretty interesting.
+
+123
+00:11:18,700 --> 00:11:23,134
+And I'm wondering how they're gonna bring back
+Frank Castle into the fold. as another vigilante
+
+124
+00:11:23,154 --> 00:11:27,697
+warrior. I'm wondering how they're going to
+bring Bullseye into the fold, because I can't
+
+125
+00:11:27,717 --> 00:11:32,659
+wait to see his return. Oh, man, Bullseye was
+so good in Daredevil season three. Yeah. It's
+
+126
+00:11:32,699 --> 00:11:37,862
+just even if the show ends up not being good,
+all the elements are there for it to be incredible,
+
+127
+00:11:38,222 --> 00:11:43,645
+especially this diner discussion between Matt
+Murdock and Wilson Fisk, who becomes the mayor
+
+128
+00:11:43,685 --> 00:11:48,588
+of New York during the course of the season.
+It just seems so epic in the way that like
+
+129
+00:11:48,808 --> 00:11:53,543
+Robert De Niro and Al Pacino spoke in Heat.
+or something like that, you know? These two
+
+130
+00:11:53,643 --> 00:11:58,746
+iconic characters coming together and just their
+discussion. Yeah, they're speaking like they're
+
+131
+00:11:59,147 --> 00:12:03,930
+old exes or something like that. But of course
+we know the nature of their past relationship
+
+132
+00:12:04,050 --> 00:12:08,533
+and it's as brutal as it gets. Yeah, they're
+sworn mortal enemies, but they do seem to have
+
+133
+00:12:08,573 --> 00:12:13,096
+some respect for each other as it appears here,
+which is always interesting. Well, it appears
+
+134
+00:12:13,136 --> 00:12:18,240
+like each character has kind of moved on. Like,
+Wilson Fisk is moving out to be mayor and it
+
+135
+00:12:18,260 --> 00:12:21,790
+sounds like Matt Murdock hasn't been Daredevil
+in a while. So it's going to be interesting
+
+136
+00:12:21,830 --> 00:12:26,194
+to see how they make their return to superhero
+and super villain lives. Yeah, when Kingpin
+
+137
+00:12:26,434 --> 00:12:31,559
+asks Matt Murdock why he stopped being Daredevil,
+Matt Murdock mentions that a line was crossed.
+
+138
+00:12:31,599 --> 00:12:36,283
+And towards the end of the trailer, he mentions
+how he was raised to believe in grace, but
+
+139
+00:12:36,463 --> 00:12:40,606
+he was also raised to believe in retribution.
+And I wonder if that's one of the key themes
+
+140
+00:12:40,887 --> 00:12:45,511
+of this season, is him really struggling with
+crossing the line due to his rage and how that
+
+141
+00:12:45,571 --> 00:12:50,923
+correlates with his Catholic faith, which has
+always been. big aspect of the character and
+
+142
+00:12:50,983 --> 00:12:55,107
+one of the things that makes him truly unique.
+If you guys haven't caught up on Netflix startable
+
+143
+00:12:55,127 --> 00:12:59,971
+seasons 1 through 3, I highly recommend you
+do so before this next season drops because
+
+144
+00:13:00,432 --> 00:13:04,596
+there's a lot of history with these characters
+and it's such a damn good show it's well worth
+
+145
+00:13:04,616 --> 00:13:09,420
+catching up on. Yeah, absolutely. But speaking
+of quality television shows, that brings us
+
+146
+00:13:09,440 --> 00:13:10,621
+to our question of the week.
+
+147
+00:13:15,190 --> 00:13:21,711
+What Marvel or DC television series are you
+most looking forward to in 2025? This is sort
+
+148
+00:13:21,731 --> 00:13:25,913
+of a play on last week's question, but instead
+of theatrical releases, we want to know what
+
+149
+00:13:25,993 --> 00:13:30,454
+series you're most looking forward to seeing
+at home. Yeah, for Marvel, they're really seeing
+
+150
+00:13:30,534 --> 00:13:36,436
+Your Friendly Neighborhood, Spider-Man and then
+Daredevil Born Again and then Ironheart is
+
+151
+00:13:36,476 --> 00:13:42,677
+coming out this year, as well as Eyes of Wakanda,
+Marvel Zombies and Wonder Man. There's not.
+
+152
+00:13:42,858 --> 00:13:48,580
+Too much more going on for DC. Of course, we
+have Harley Quinn season five coming up. We
+
+153
+00:13:48,620 --> 00:13:54,002
+might be getting new seasons for My Adventures
+with Superman, Batman Caped Crusader, and possibly
+
+154
+00:13:54,042 --> 00:13:59,585
+Creature Commandos, but also a new series on
+Amazon titled Bat Family. Oh, is that the sequel
+
+155
+00:13:59,625 --> 00:14:04,867
+to Merry Little Batman? Yes, yep, that's right.
+Oh, interesting, okay. Record your answer at
+
+156
+00:14:04,907 --> 00:14:09,068
+dynamicduel.com by clicking on the red microphone
+button in the bottom right-hand corner of the
+
+157
+00:14:09,108 --> 00:14:13,351
+screen, which will prompt you to leave us a
+voicemail. Your message can be up to 30 seconds
+
+158
+00:14:13,411 --> 00:14:17,816
+long, and don't forget to leave your name in
+case we include you on the podcast. We'll pick
+
+159
+00:14:17,856 --> 00:14:22,562
+our favorite answer and award that person a
+dynamic Duel no prize that we'll post to Instagram.
+
+160
+00:14:22,902 --> 00:14:26,005
+Be sure to answer before January 25th.
+
+161
+00:14:33,250 --> 00:14:38,193
+That does it for the news portion of this episode,
+so now let's go ahead and move on to our main
+
+162
+00:14:38,233 --> 00:14:45,477
+event, where we review season one of the DC
+Studios animated series, Creature Commandos.
+
+163
+00:15:13,907 --> 00:15:13,987
+The
+
+164
+00:15:28,790 --> 00:15:34,413
+The story of Creature Commandos stems from the
+events of Gunn's The Suicide Squad and subsequent
+
+165
+00:15:34,453 --> 00:15:40,056
+Peacemaker spin-off series, both of which we
+praised on this podcast in our reviews. This
+
+166
+00:15:40,076 --> 00:15:46,879
+show, I'm mostly happy to say, is in keeping
+with James Gunn's signature crass comedy ensembles
+
+167
+00:15:47,160 --> 00:15:52,382
+with heartfelt characterizations, and I definitely
+recommend it to anyone who's a fan of Gunn's
+
+168
+00:15:52,443 --> 00:15:59,106
+prior work, whether for DC or the MCU's Guardians
+of the Galaxy franchise. Creature Commandos
+
+169
+00:15:59,246 --> 00:16:04,987
+is only seven half-hour episodes, a pretty quick
+watch, so make sure you do just that before
+
+170
+00:16:05,027 --> 00:16:10,569
+listening any further to this spoiler review.
+Now, I said I was mostly happy to say that
+
+171
+00:16:10,609 --> 00:16:16,231
+this show matched the crass comedy and emotional
+weight of James Gunn's past works because I
+
+172
+00:16:16,271 --> 00:16:21,232
+liked those past works. I'm a fan of James Gunn.
+But there was also a part of me that hoped
+
+173
+00:16:21,292 --> 00:16:26,553
+Gunn had matured to the point where he was able
+to deliver on the emotional aspects of a story.
+
+174
+00:16:26,934 --> 00:16:32,918
+without resorting to mature humor. And in this
+first DC Studios project out of the gate, he
+
+175
+00:16:32,938 --> 00:16:39,122
+delivers arguably his most mature story to date,
+one full of extreme violence and sexuality,
+
+176
+00:16:39,602 --> 00:16:45,266
+which was somewhat discouraging. Now, I'm fairly
+confident James Gunn's Superman movie coming
+
+177
+00:16:45,306 --> 00:16:50,650
+out this summer is not going to match the tone
+of Creature Commandos, but this show does present
+
+178
+00:16:50,810 --> 00:16:56,562
+a barrier to those looking to faithfully experience
+DC's new cinematic universe. in the same way
+
+179
+00:16:56,662 --> 00:17:01,324
+audiences were extremely faithful in seeing
+everything Marvel Studios released during the
+
+180
+00:17:01,364 --> 00:17:06,026
+Infinity Saga storyline. Yeah, well, I mean,
+Creature Commandos was written, at least the
+
+181
+00:17:06,106 --> 00:17:12,268
+specs were written by James Gunn prior to the
+existence of the DCU. He wrote them when HBO
+
+182
+00:17:12,288 --> 00:17:16,210
+was looking for an animated series from him
+coming off the success of Peacemaker Season
+
+183
+00:17:16,410 --> 00:17:23,293
+One. So the tone of Creature Commandos, I think,
+is more in line with James Gunn's whole vision
+
+184
+00:17:23,333 --> 00:17:29,476
+for the Suicide Squad quadrant. of the DCU and
+not necessarily representative of what the
+
+185
+00:17:29,516 --> 00:17:35,379
+tone is going to be for the DCU going forward.
+True, that very may well be the case. Now I
+
+186
+00:17:35,479 --> 00:17:41,143
+often criticize Marvel films for their over-reliance
+on humor, and while I shouldn't be surprised
+
+187
+00:17:41,183 --> 00:17:46,806
+that the guy who made the Guardians of the Galaxy
+films was going to bring that humor to DC Studios,
+
+188
+00:17:46,986 --> 00:17:53,370
+in part probably because it obviously sells
+well given the MCU's financial success. I do
+
+189
+00:17:53,430 --> 00:18:00,394
+tend to see DC characters and stories as being
+above that, like DC's Oscar worthy, whereas
+
+190
+00:18:00,494 --> 00:18:06,497
+Marvel's made more for the MTV Movie Awards
+audience. So I never really wanted the DCU
+
+191
+00:18:06,537 --> 00:18:12,601
+to be more like the MCU, and I'm slowly coming
+to terms with the fact that while Marvel is
+
+192
+00:18:12,641 --> 00:18:18,904
+like the really popular sugary soda Coca-Cola,
+and while I want DC to be like a fine bourbon,
+
+193
+00:18:19,165 --> 00:18:25,028
+not necessarily for everyone, DC actually ending
+up like Pepsi is not the worst thing in the
+
+194
+00:18:25,068 --> 00:18:29,551
+world, because there are a lot of people out
+there of all ages that like Pepsi. I'm not
+
+195
+00:18:29,631 --> 00:18:34,775
+one of them, but I can learn to like it, especially
+if these mature projects like Creature Commandos
+
+196
+00:18:35,135 --> 00:18:41,879
+are relegated to niche animated fare. I like
+how you compare DC to Pepsi. I think the analogy
+
+197
+00:18:41,919 --> 00:18:47,543
+works. You know, Marvel's red, DC's blue. DC
+has a circular logo. It just made sense branding
+
+198
+00:18:47,563 --> 00:18:52,634
+wise in my head. Pepsi is also dog shit, so.
+Hey, fuck you, man. Don't make me defend Pepsi.
+
+199
+00:18:54,235 --> 00:18:59,998
+Now because as a niche exploitation-esque project,
+Creature Commandos really hits the nail on
+
+200
+00:19:00,038 --> 00:19:05,842
+the head. It feels very much like a successor,
+as I mentioned, to the Suicide Squad in regards
+
+201
+00:19:05,882 --> 00:19:10,964
+to its mission-based narrative and real stakes
+in which any of your favorite characters could
+
+202
+00:19:11,004 --> 00:19:17,448
+die. It feels like a passion project from James
+Gunn, who does a tremendous job conveying that
+
+203
+00:19:17,488 --> 00:19:23,896
+behind every monster is a tragedy. In fact,
+each episode of the series is dedicated to
+
+204
+00:19:23,936 --> 00:19:29,199
+showing us the past tragedy of an indiviDuel
+character on the Creature Commandos team that
+
+205
+00:19:29,219 --> 00:19:34,943
+helps us recognize the humanity in the characters
+and view them as much more than just monsters.
+
+206
+00:19:35,244 --> 00:19:40,928
+That was my big takeaway from the show was just
+the tragedy of the characters. You're talking
+
+207
+00:19:40,948 --> 00:19:44,750
+about some of the most tragic characters to
+ever exist in comics. And really, you kind
+
+208
+00:19:44,770 --> 00:19:50,370
+of need that humor because of some of the horrific,
+sad things that you see. happen on the screen.
+
+209
+00:19:50,410 --> 00:19:54,731
+You need that balance. Otherwise, it would just
+be one heck of a depressing show. And in some
+
+210
+00:19:54,751 --> 00:20:00,492
+ways it was, just due to how everything was
+presented. Like, I don't think I've seen as
+
+211
+00:20:00,553 --> 00:20:06,754
+many instances of dead children in a superhero
+project. And it was actually surprising to
+
+212
+00:20:06,774 --> 00:20:10,255
+me. And I don't know if that's just because
+I'm a dad now, but I was really affected by
+
+213
+00:20:10,295 --> 00:20:16,037
+it. And that's not to say that the show was
+shocking for shocking sake, because, you know,
+
+214
+00:20:16,077 --> 00:20:19,534
+if you look at the story of the Creature Commandos
+from the comic books, They went through some
+
+215
+00:20:19,594 --> 00:20:23,716
+dark shit. Like there was that whole arc where
+they were commanded during World War II to
+
+216
+00:20:23,756 --> 00:20:28,399
+kill that group of super soldier Nazi children.
+Right. And they ended up doing it. And you
+
+217
+00:20:28,419 --> 00:20:32,521
+know, there was a lot of dysfunction in the
+team because of that. So all these tragic stories
+
+218
+00:20:32,541 --> 00:20:36,363
+that you were referring to when you say that
+there's a tragedy behind every monster. And
+
+219
+00:20:36,444 --> 00:20:42,427
+I agree, that's the biggest idea that this series
+sold. I agree. Their misfortunes result in
+
+220
+00:20:42,467 --> 00:20:48,875
+a very cynical view of humanity and tone for
+the series. which is in contrast to what I'm
+
+221
+00:20:48,915 --> 00:20:55,241
+hoping is a very hopeful tone for the upcoming
+flagship film for DC that is Superman. But
+
+222
+00:20:55,261 --> 00:21:01,507
+for a project starring literal monsters, a cynical
+tone is appropriate, I feel, and shows some
+
+223
+00:21:01,567 --> 00:21:08,473
+value in cynicism over, say, optimism, because
+cynicism tends to help people survive, giving
+
+224
+00:21:08,513 --> 00:21:14,462
+these monsters the most human trait of all,
+and that is the instinct to survive. That's
+
+225
+00:21:14,482 --> 00:21:19,584
+valid. I mean, like cynicism is one of my least
+favorite traits that anybody could have. But
+
+226
+00:21:19,904 --> 00:21:24,386
+I guess it is a valuable trait when it comes
+to like soldiers out on the battlefield or
+
+227
+00:21:24,426 --> 00:21:28,348
+on a mission or something like that. It's good
+to be cynical and skeptical of everything and
+
+228
+00:21:28,388 --> 00:21:32,910
+everyone around you when your life is on the
+line. Otherwise, yeah, I hope more people are
+
+229
+00:21:32,930 --> 00:21:37,312
+like Superman. Yeah, that's my hope for sure.
+But, you know, when the zombie apocalypse breaks
+
+230
+00:21:37,412 --> 00:21:42,694
+out, I will be the most cynical person on the
+planet. Now the show revolves heavily around
+
+231
+00:21:42,754 --> 00:21:47,855
+its cast of characters, but before we get into
+our character breakdown, I want to touch on
+
+232
+00:21:47,875 --> 00:21:53,557
+the show's animation style, which I would actually
+describe as this combination of the tomorrow
+
+233
+00:21:53,577 --> 00:21:59,419
+versus cleanliness and unique character designs
+with the quirkiness and charm of mature animated
+
+234
+00:21:59,459 --> 00:22:05,080
+favorites like Eon Flux and just a hint of anime
+action. I wasn't actually looking forward to
+
+235
+00:22:05,140 --> 00:22:11,078
+this style of animation in the trailers, but
+actually grew to love it. the action scenes,
+
+236
+00:22:11,298 --> 00:22:16,141
+which were often coupled with some deep cut
+song choices that would make Quentin Tarantino
+
+237
+00:22:16,181 --> 00:22:22,365
+proud. It also doesn't hurt that, with the exception
+of one character, the characters look like
+
+238
+00:22:22,405 --> 00:22:27,628
+the actors who voice them, making it easier
+to believe the performances and just making
+
+239
+00:22:27,648 --> 00:22:32,631
+me really excited to see them all in live action
+hopefully one day, maybe in Peacemaker Season
+
+240
+00:22:32,671 --> 00:22:38,146
+2. Yeah, the animation was great. The violence
+level. was shocking. It was almost or maybe
+
+241
+00:22:38,186 --> 00:22:42,928
+even surpassed the level of gore that we saw
+in the Hit Monkey series. Oh yeah, when you
+
+242
+00:22:42,948 --> 00:22:48,611
+have like Dr. Phosphorus just like shoving his
+hand like slowly through people's faces melting
+
+243
+00:22:48,631 --> 00:22:54,853
+it off. I'm like, good, good gosh. Yeah, I think
+it was more like invincible in that regard
+
+244
+00:22:54,893 --> 00:22:58,895
+because, you know, the animation was a lot cleaner
+than it was in Hit Monkey. Hit Monkey was a
+
+245
+00:22:58,915 --> 00:23:03,977
+little bit more stylized. Like there was like
+a lot of blood spray. Here there was less spray
+
+246
+00:23:04,017 --> 00:23:08,582
+and it was more just like splatter. I guess,
+if you could discern the difference in my description.
+
+247
+00:23:09,082 --> 00:23:15,264
+All I can say is I'm just glad I binged this
+show while I was not eating. Yeah. Moving on
+
+248
+00:23:15,304 --> 00:23:20,546
+to the character breakdown, starting off with
+Rick Flagg Sr. He was voiced by Frank Gurlow
+
+249
+00:23:20,806 --> 00:23:26,827
+of Crossbones fame in the MCU. I didn't recognize
+his voice to me, he just sounded like a really
+
+250
+00:23:26,867 --> 00:23:32,029
+good voice actor. I had forgotten that Frank
+Gurlow voiced the character. He was good in
+
+251
+00:23:32,069 --> 00:23:36,990
+the role and well cast as the father of Joel
+Kinnaman. I do have to say though that this
+
+252
+00:23:37,030 --> 00:23:43,053
+character, more than any other character, looks
+the least like the actor who voiced them. Rick
+
+253
+00:23:43,073 --> 00:23:48,415
+Flack Sr. actually looks more like James Gunn,
+with the white hair and beard, who we actually
+
+254
+00:23:48,495 --> 00:23:54,738
+see in animated form in every opening credits
+of the show. I'm not sure why James Gunn decided
+
+255
+00:23:54,778 --> 00:24:00,280
+to make Rick Flack Sr. look like him, considering
+he didn't in the show's promo art, like he
+
+256
+00:24:00,300 --> 00:24:05,770
+had black hair, and Frank Urlow won't have white
+hair. in the Superman movie because we've seen
+
+257
+00:24:05,810 --> 00:24:11,673
+behind the scenes photos of him on set as Rick
+Flack Sr. That is a strange call and it's a
+
+258
+00:24:11,693 --> 00:24:16,775
+weird way to insert yourself, allegedly, in
+the story. I don't understand the justification
+
+259
+00:24:16,795 --> 00:24:21,477
+for it at all. I just kind of miss Joel Kinnaman's
+character. I wish he wouldn't have died in
+
+260
+00:24:21,617 --> 00:24:26,959
+the Suicide Squad. Dude, we're all still heartbroken
+about that. Even the guy who killed him, Peacemaker,
+
+261
+00:24:26,999 --> 00:24:31,321
+was heartbroken about that. Yeah, I guess that
+was a big part of Peacemaker's arc in his show.
+
+262
+00:24:31,921 --> 00:24:37,725
+Speaking of arc. Rick Flagg Sr. begins the series
+dealing with the loss of his son, Rick Flagg
+
+263
+00:24:37,765 --> 00:24:44,029
+Jr., who died in the 2021 film, The Suicide
+Squad. Princess Ilana Rostovic took advantage
+
+264
+00:24:44,049 --> 00:24:49,553
+of his sorrow in an attempt to manipulate him
+into killing Cersei, the clairvoyant, the muscarine
+
+265
+00:24:49,593 --> 00:24:55,777
+sorceress who foresaw Princess Rostovic destroying
+the world. When the Amazonian expert Dr. MacPherson
+
+266
+00:24:55,917 --> 00:25:01,421
+vouched for the captured Cersei's credibility,
+Flagg teamed up with Eric Frankenstein to spy
+
+267
+00:25:01,461 --> 00:25:05,856
+on Dr. MacPherson. only to learn that she had
+been killed and replaced by the shapeshifter
+
+268
+00:25:05,896 --> 00:25:12,402
+Clayface. After being put into a coma by Clayface,
+Flag awoke briefly to warn Amanda Waller that
+
+269
+00:25:12,442 --> 00:25:18,968
+she was wrong to send Task Force M back to Pakolistan
+to kill Princess Rostovic, unaware that the
+
+270
+00:25:18,988 --> 00:25:25,894
+princess had been working with Clayface to discredit
+Dr. MacPherson. Flag was wrong, however, too
+
+271
+00:25:25,974 --> 00:25:31,274
+optimistic and gullible as compared to the cynical
+monsters he was trying to lead. whose disdain
+
+272
+00:25:31,294 --> 00:25:36,416
+for the world and humankind actually helped
+them see through the princess's manipulations.
+
+273
+00:25:36,576 --> 00:25:40,298
+Yeah, it's hard to speak about Rick Flag as
+a character because while I wouldn't call him
+
+274
+00:25:40,618 --> 00:25:45,400
+one dimensional or anything like that, he was
+also probably the least interesting in a group
+
+275
+00:25:45,580 --> 00:25:50,122
+of literal freaks and monsters, you know? Oh,
+totally. I actually thought Rick Flag Sr. was
+
+276
+00:25:50,142 --> 00:25:55,225
+going to be the main character of the series,
+but I was totally wrong. He was knocked out
+
+277
+00:25:55,245 --> 00:26:00,203
+of the series like halfway through. basically,
+and was involved in the climax or anything
+
+278
+00:26:00,243 --> 00:26:06,807
+like that. Right. And he ended up getting manipulated
+as well. Right. His whole arc is just him being
+
+279
+00:26:06,987 --> 00:26:13,731
+wrong, essentially, like I mentioned. So moving
+on to the bride, she was voiced by Indira Varma,
+
+280
+00:26:14,031 --> 00:26:19,654
+who is a fantastic voice actress. It was just
+a fantastic character as well. I cannot wait
+
+281
+00:26:19,694 --> 00:26:25,437
+for more of her character in the announced upcoming
+season for Creature Commandos. She was the
+
+282
+00:26:25,477 --> 00:26:29,379
+most interesting character. Yeah, she kind of
+had a chip on her shoulder, but you get into
+
+283
+00:26:29,419 --> 00:26:33,303
+her backstory and it's really easy to see why,
+considering, you know, the people that she
+
+284
+00:26:33,363 --> 00:26:38,767
+loved were killed by the people that she hates.
+And so she just really had this bitter attitude
+
+285
+00:26:38,787 --> 00:26:43,631
+toward everything. But I like the way they portrayed
+her as this badass. It's not often that you
+
+286
+00:26:43,671 --> 00:26:48,555
+get female characters who are this cynical.
+I can't even really think of any off the top
+
+287
+00:26:48,575 --> 00:26:52,558
+of my head because, like, you think of characters
+like Black Widow and stuff like that. At least
+
+288
+00:26:52,598 --> 00:26:55,981
+in the comics, they're closer to this version
+of the character. But this version was so much
+
+289
+00:26:56,021 --> 00:27:00,765
+more violent. than most other femme fatales
+that you get. Yeah, she's like a super soldier
+
+290
+00:27:01,065 --> 00:27:06,349
+black widow. Yeah. Now the bride was created
+by Dr. Victor Frankenstein as a mate for his
+
+291
+00:27:06,429 --> 00:27:13,095
+monstrous creation, Eric Frankenstein. Eric
+didn't ask to be created and didn't wanna live
+
+292
+00:27:13,355 --> 00:27:20,320
+unloved. So Victor created the bride for him,
+though Eric was too impatient and uncouth for
+
+293
+00:27:20,360 --> 00:27:25,885
+her to bond with him. Victor cared more for
+her, which turned into a romance between him
+
+294
+00:27:25,925 --> 00:27:32,115
+and the bride, causing Eric to kill his creator
+in jealousy. The bride, enraged by what Eric
+
+295
+00:27:32,155 --> 00:27:38,117
+had done, fought him and fled, beginning a pattern
+that would last centuries as Eric continued
+
+296
+00:27:38,137 --> 00:27:43,858
+to stalk her across the planet. Life is a burden
+for the bride and it's hardened her, but her
+
+297
+00:27:43,898 --> 00:27:48,980
+experience makes her the perfect leader for
+a team of monsters, as recognized by Amanda
+
+298
+00:27:49,020 --> 00:27:50,940
+Waller when she replaced Rick Flagg
+
+299
+00:27:55,786 --> 00:27:59,447
+Yeah, that was one of the best quotes, I think,
+in the show where Amanda Waller was like, we
+
+300
+00:27:59,467 --> 00:28:03,168
+need someone who's less of a whiny bitch and
+someone who's more just a bitch. It was so
+
+301
+00:28:03,188 --> 00:28:10,610
+good. Now, in the end, it's the bride alone
+who recognizes that Princess Rostovic was exactly
+
+302
+00:28:10,650 --> 00:28:15,631
+the entitled narcissistic person that Cersei
+claimed she was, though she killed the princess
+
+303
+00:28:15,751 --> 00:28:21,593
+not because of what she would do, but because
+she killed Nina Mazursky, the one person the
+
+304
+00:28:21,613 --> 00:28:27,140
+bride had grown to care for. I thought that
+was a fantastic story choice. The fact that
+
+305
+00:28:27,160 --> 00:28:32,163
+the bride was like, you know what, you're planning
+on doing all of this horrible shit to humanity.
+
+306
+00:28:32,684 --> 00:28:37,587
+I don't care at all about humanity. I'm just
+going to kill you because you killed my friend.
+
+307
+00:28:38,228 --> 00:28:41,910
+It was a fantastic ending and a great moment
+for the character. I think the one thing missing
+
+308
+00:28:41,930 --> 00:28:45,593
+from the character of the bride was that she
+didn't have four arms like she does in the
+
+309
+00:28:45,633 --> 00:28:49,736
+comics. I wish they would have done that in
+the series. Sometimes she has six arms in the
+
+310
+00:28:49,776 --> 00:28:55,483
+comics. Hopefully they'll do that in subsequent
+seasons. Moving on to Eric Frankenstein, he
+
+311
+00:28:55,503 --> 00:29:01,446
+was voiced by David Harbour. This was the casting
+that I was most excited about when it was announced,
+
+312
+00:29:02,047 --> 00:29:07,310
+and I actually like him a lot more in this role
+than the Red Guardian role for Marvel. He's
+
+313
+00:29:07,350 --> 00:29:13,033
+fantastic, although I don't love what they did
+with the actual character. Yeah, we pit Frankenstein
+
+314
+00:29:13,073 --> 00:29:17,655
+against Elsa Bloodstone in a Duel episode, and
+the backstory of the character was actually
+
+315
+00:29:17,875 --> 00:29:22,986
+pretty interesting, but the way he's characterized
+in this show... they completely changed him
+
+316
+00:29:23,226 --> 00:29:29,449
+and he was despicable. He was the worst fucking
+character. I hated the guy. Yeah, in the comics,
+
+317
+00:29:29,489 --> 00:29:35,852
+Frankenstein is this wise and noble figure,
+but in the show, despite his somewhat likable
+
+318
+00:29:35,892 --> 00:29:41,114
+buffoonery, he's cast very much like a violent
+stalker, essentially a villain in the series,
+
+319
+00:29:41,134 --> 00:29:47,057
+making him pretty uncomfortable to watch. But
+also, it's somewhat in keeping with the literary
+
+320
+00:29:47,097 --> 00:29:52,838
+character of Frankenstein's monster. who resents
+life and demands affection. Mary Shelley's
+
+321
+00:29:52,878 --> 00:29:58,080
+Frankenstein is probably my favorite story ever.
+So I'm really curious to see where they take
+
+322
+00:29:58,180 --> 00:30:03,321
+the Eric Frankenstein character and see how
+he grows. Hopefully he does. Do you think they're
+
+323
+00:30:03,341 --> 00:30:06,622
+gonna try to redeem him? Or do you think they're
+gonna double down and make him even more of
+
+324
+00:30:06,642 --> 00:30:12,024
+an asshole? I don't know. I hope they don't
+make it so that the bride falls in love with
+
+325
+00:30:12,064 --> 00:30:19,486
+him. I hope Eric actually finds a new love and
+the bride finds a new love Because they never
+
+326
+00:30:19,526 --> 00:30:24,210
+did that in the book. In fact, the character
+of the bride kills herself rather than be with
+
+327
+00:30:24,250 --> 00:30:29,515
+Frankenstein's monster. Is he called Eric in
+the books as well? No, no. I wonder why they
+
+328
+00:30:29,535 --> 00:30:33,159
+call him Eric in this show. I don't know. I
+think it was just to give him a name. Movie
+
+329
+00:30:33,179 --> 00:30:39,004
+gone to Nina Mazursky. She was voiced by Zoe
+Chow, who I'm not too familiar with. She's
+
+330
+00:30:39,044 --> 00:30:44,329
+been in a number of minor roles in various projects.
+I did think she did a fantastic job voicing
+
+331
+00:30:44,509 --> 00:30:49,131
+the role. You know, like Frankenstein, Nina
+Masursky was fairly different in this show
+
+332
+00:30:49,151 --> 00:30:54,313
+than she was in the comics. Here she's pretty
+naive when in the comics she was a scientific
+
+333
+00:30:54,353 --> 00:30:59,235
+genius who actually helped create the Creature
+Commandos. In recent comics, at least. Her
+
+334
+00:30:59,255 --> 00:31:04,498
+father created the team in its earliest incarnation.
+So that part, they got somewhat right in that
+
+335
+00:31:04,558 --> 00:31:09,840
+Dr. Masursky transformed his daughter out of
+care and necessity for her survival. James
+
+336
+00:31:09,880 --> 00:31:15,198
+Gunn has a habit of killing off innocents in
+his works. So I shouldn't have been surprised
+
+337
+00:31:15,258 --> 00:31:20,262
+that Nina did not survive to the end, but her
+death had a large impact on the bride, and
+
+338
+00:31:20,322 --> 00:31:25,686
+I think it's one that will continue into future
+seasons. In a way, it's kind of bittersweet
+
+339
+00:31:25,746 --> 00:31:31,069
+that Nina died still innocent, still having
+never killed someone and becoming the same
+
+340
+00:31:31,089 --> 00:31:35,773
+kind of monster that the others were. I was
+angry when she died. I was pissed because I
+
+341
+00:31:35,813 --> 00:31:41,383
+liked her as a character. And I was wondering
+like why they even included her on a team of
+
+342
+00:31:41,423 --> 00:31:45,584
+killers to begin with if they probably knew
+by her psychological profile that she was not
+
+343
+00:31:45,604 --> 00:31:50,685
+a killer. Yeah, her role on the team was not
+incredibly practical, you know, up until the
+
+344
+00:31:50,825 --> 00:31:55,607
+end when she was tasked with killing the princess
+in the water. But for majority of the season,
+
+345
+00:31:55,647 --> 00:32:00,528
+Nina simply just wanted a friend, whether that
+was GIA Robot or the bride. I think she was
+
+346
+00:32:00,548 --> 00:32:05,689
+kind of there for moral support and to bring
+some small degree of optimism to the team.
+
+347
+00:32:06,730 --> 00:32:12,073
+Moving on to GI Robot, he was voiced by Sean
+Gunn, who is James Gunn's brother, and who
+
+348
+00:32:12,093 --> 00:32:16,897
+is a much better actor than I think people give
+him credit for, particularly when it comes
+
+349
+00:32:16,917 --> 00:32:21,780
+to physicality. Now, of course, in an animated
+series, you don't really get to see that, but
+
+350
+00:32:21,840 --> 00:32:27,464
+even vocally, the fact that he voiced multiple
+characters on the show and it wasn't terribly
+
+351
+00:32:27,564 --> 00:32:33,408
+easy to hear that just lets us see his range
+as an actor. Oh yeah, you compare his Kraglin
+
+352
+00:32:33,428 --> 00:32:38,920
+voice to his GI Robot voice. It's night and
+day. I thought he was a fantastic GI robot.
+
+353
+00:32:39,320 --> 00:32:45,005
+And even his weasel noises, that was like pretty
+good. Now, GI robot comes across as the most
+
+354
+00:32:45,285 --> 00:32:51,209
+one note character of the team. He simply wants
+to kill Nazis. But beneath that was also a
+
+355
+00:32:51,249 --> 00:32:58,135
+yearning for camaraderie. He wanted to kill
+Nazis, but as part of a team. Literally nothing
+
+356
+00:32:58,295 --> 00:33:02,878
+brought him more joy. And it was kind of sad
+to see him destroyed. as he's finally getting
+
+357
+00:33:03,098 --> 00:33:07,401
+to live out his life's purpose after all these
+years. But it was also cool to see him at the
+
+358
+00:33:07,461 --> 00:33:11,903
+end with his upgrades. Yeah, in the books he's
+called Jake, if I remember correctly, and he
+
+359
+00:33:11,964 --> 00:33:15,706
+does get upgrades in the comics. I don't know
+if he quite looks like the tank that he is
+
+360
+00:33:15,746 --> 00:33:19,948
+at the end of the show though. No, no, he doesn't.
+But yeah, there were actually two different
+
+361
+00:33:19,968 --> 00:33:25,171
+versions of Jake. I'm guessing this is the number
+two version because he wore a number two on
+
+362
+00:33:25,231 --> 00:33:30,802
+his helmet. He cracked me up though. I really
+love the scene where He's standing guard, you
+
+363
+00:33:30,822 --> 00:33:34,084
+know, watching over the princess outside of
+her door. And all he can talk about is just
+
+364
+00:33:34,104 --> 00:33:38,987
+like, I killed 33 Nazis. And he just keeps going
+on and on about that stuff. But like the look
+
+365
+00:33:39,027 --> 00:33:43,529
+on his face, it almost looks like he's always
+smiling. Right. Yeah. So there's just something
+
+366
+00:33:43,589 --> 00:33:48,412
+really endearing and quirky about the character
+that I just loved. Yeah, he was great. Now,
+
+367
+00:33:48,452 --> 00:33:53,254
+of course, Sean Gunn's other performance was
+as Weasel, a role he played in the Suicide
+
+368
+00:33:53,274 --> 00:33:58,257
+Squad film. I was really glad to learn that
+Weasel was not responsible for killing a whole
+
+369
+00:33:58,277 --> 00:34:03,188
+bunch of children. as we learned in that movie.
+It turns out he didn't kill the kids, he simply
+
+370
+00:34:03,248 --> 00:34:08,832
+tried to save them from a fire, but was mistaken
+as a monster attacking them. All the Weasel
+
+371
+00:34:08,872 --> 00:34:14,676
+wants is to play, and he's instinctually very
+loyal to anyone who's kind enough to bond with
+
+372
+00:34:14,716 --> 00:34:21,561
+him over a game of fetch, including the Princess.
+It's fairly tragic that because he's not intelligent
+
+373
+00:34:21,621 --> 00:34:28,005
+enough to follow orders, if he hadn't intervened
+the Princess's assassination, Nina Mazursky
+
+374
+00:34:28,025 --> 00:34:32,460
+would have lived. Yeah, that is tragic. But
+by the end of the series, weasel became my
+
+375
+00:34:32,500 --> 00:34:37,244
+favorite character. Like I didn't really care
+for weasel in the suicide squad movie. But
+
+376
+00:34:37,324 --> 00:34:41,568
+here, you know, he just kind of reminds me of
+my dog. You know, he just totally constantly
+
+377
+00:34:41,688 --> 00:34:45,731
+always wanting to play. Even when like you thought
+he was going to throw down with a pack of wolves
+
+378
+00:34:45,851 --> 00:34:49,594
+and he picks up the stick and plays fetch and
+just spends the whole night playing with them.
+
+379
+00:34:50,135 --> 00:34:54,258
+And then like his sole motivation to go to the
+castle was to play with the princess again,
+
+380
+00:34:54,438 --> 00:34:59,330
+because she played fetch with him. It was just
+so endearing, so endearing. Yeah, absolutely.
+
+381
+00:34:59,410 --> 00:35:04,292
+And still, even though he was responsible for
+Nina's death, the character is still extremely
+
+382
+00:35:04,352 --> 00:35:10,315
+innocent and endearing because of that. Moving
+on to Dr. Phosphorus, he was voiced by Alan
+
+383
+00:35:10,355 --> 00:35:17,738
+Tudyk, who is an absolute master of the craft
+of acting, both on screen and in his voiceover
+
+384
+00:35:17,778 --> 00:35:24,861
+work. He's done a ton of voice roles for Disney,
+but he's also done quite a bit for DC, such
+
+385
+00:35:24,921 --> 00:35:28,974
+as being Mr. Nobody. in the Doom Patrol and
+he was fantastic in that role and I'm glad
+
+386
+00:35:28,994 --> 00:35:34,156
+he's sticking around in the new DCU. Well, he's
+also in Harley Quinn. That's right, yeah, he
+
+387
+00:35:34,176 --> 00:35:39,517
+voices Clayface and the Joker in that show.
+Now before he was Dr. Phosphorus, the character
+
+388
+00:35:39,557 --> 00:35:45,739
+was Dr. Alex Sartorius, whose family was killed
+by the Gotham City mobster Rupert Thorne after
+
+389
+00:35:45,799 --> 00:35:52,220
+Dr. Sartorius forged data on a cancer-curing
+experiment that Thorne had funded. After being
+
+390
+00:35:52,261 --> 00:35:57,614
+transformed into a radioactive skeleton and
+avenging his family, Dr. Sartorius, now known
+
+391
+00:35:57,714 --> 00:36:03,478
+as Dr. Phosphorus, slid deeper and deeper into
+the pit of villainy and power until he was
+
+392
+00:36:03,538 --> 00:36:08,821
+captured by Batman. He's the rebel of the group,
+and with his skeletal appearance, it was hard
+
+393
+00:36:08,841 --> 00:36:13,903
+to see him as anything other than a violent
+monster until you learn his backstory and realize
+
+394
+00:36:13,944 --> 00:36:19,887
+he, like any other man would, misses his family.
+The scene of him talking with the little girl,
+
+395
+00:36:20,207 --> 00:36:25,126
+saying he can't have her telling others that
+she saw him, was kind of frightening. only
+
+396
+00:36:25,146 --> 00:36:29,788
+for him to then be playing with her outside
+in the next scene, which was definitely a subversion
+
+397
+00:36:29,828 --> 00:36:35,950
+of expectations. I think the most shocking scene
+of the whole show was seeing him as a scientist
+
+398
+00:36:36,130 --> 00:36:41,752
+being laughed at while being forced to run his
+fingerprints over the bodies of his dead wife
+
+399
+00:36:41,792 --> 00:36:48,675
+and child. Oh, man, I've never seen anything
+like that before. It was unbelievably heartbreaking
+
+400
+00:36:48,855 --> 00:36:52,757
+for sure. It's disturbing. And I think that
+like disturbance kind of sticks with you for
+
+401
+00:36:52,777 --> 00:36:57,727
+that whole episode. which makes Dr. Phosphorus'
+interaction with the little girl so full of
+
+402
+00:36:57,787 --> 00:37:01,268
+tension, you know. But it was a nice moment
+because it showed that he just really wanted
+
+403
+00:37:01,288 --> 00:37:05,930
+to be a father again. Right, exactly. Moving
+on to the final character in the character
+
+404
+00:37:05,950 --> 00:37:11,573
+breakdown, Princess Ilana Rustovic. She was
+voiced by Maria Bakalova, who played Borat's
+
+405
+00:37:11,593 --> 00:37:17,475
+daughter in Borat 2, and voiced Cosmo the Space
+Dog in Guardians of the Galaxy 3. She did a
+
+406
+00:37:17,515 --> 00:37:22,477
+fantastic job with this role. You know, the
+Princess begins the series as this manipulative
+
+407
+00:37:22,577 --> 00:37:28,071
+minx. who we later learn could potentially lead
+the destruction of the world. The overarching
+
+408
+00:37:28,191 --> 00:37:33,892
+mystery of the show is whether or not this woman
+is trustworthy. She's the primary antagonist
+
+409
+00:37:34,092 --> 00:37:39,154
+of the series, though we don't realize she's
+an actual villain until the final minutes of
+
+410
+00:37:39,194 --> 00:37:43,615
+the season's final episode, where we learn,
+in the Brideswords, that the Princess was a
+
+411
+00:37:43,655 --> 00:37:49,137
+power-mad, sadistic, narcissistic Disney princess
+who wants to destroy the world. And that changes
+
+412
+00:37:49,557 --> 00:37:55,022
+a lot of how you see the character in retrospect.
+and that we knew she was manipulative since
+
+413
+00:37:55,062 --> 00:38:00,264
+the beginning, but we didn't realize how malevolent
+those manipulations were and for what sick
+
+414
+00:38:00,344 --> 00:38:05,786
+purpose. Yeah, I guess the stakes were that
+she was in possession of some kind of devastating
+
+415
+00:38:06,106 --> 00:38:11,067
+armor weapon that would be used to kill all
+the heroes in the world. Was she supposed to
+
+416
+00:38:11,087 --> 00:38:16,389
+be some kind of analog to the Amethyst character
+from DC Comics? I wonder, because her knights
+
+417
+00:38:16,409 --> 00:38:21,502
+were called Amethyst Knights. I was wondering
+that. I'm not entirely sure because the princess
+
+418
+00:38:21,542 --> 00:38:26,284
+is an original character, but given the way
+everything looked and the way she looked also,
+
+419
+00:38:26,825 --> 00:38:31,346
+I would not be surprised if that was the case.
+That said, they probably did not want to go
+
+420
+00:38:31,366 --> 00:38:36,348
+with Amethyst because Amethyst is a teenage
+hero in the comics. I do wish they would have
+
+421
+00:38:36,368 --> 00:38:42,411
+given a little bit more clarity into her true
+nature, like at least shown us this suit of
+
+422
+00:38:42,471 --> 00:38:47,393
+armor in storage or something like that. Or
+at least explain why she wants to take over
+
+423
+00:38:47,413 --> 00:38:52,292
+the world. Is it because... She just wants to
+rule everything because I don't love that as
+
+424
+00:38:52,312 --> 00:38:57,917
+a motivation. Yeah, it's a pretty weak and vague
+motivation as things go. And I guess that would
+
+425
+00:38:57,957 --> 00:39:03,281
+be the biggest downfall of the season as a whole.
+I agree. It kind of had a villain problem in
+
+426
+00:39:03,321 --> 00:39:07,184
+that she's the antagonist. She's the person
+they're going up against, but we don't know
+
+427
+00:39:07,405 --> 00:39:12,109
+really anything about the villain, like their
+motivation, which tends to signal a weak project.
+
+428
+00:39:12,509 --> 00:39:18,746
+That said, I think the main focus of this series
+was the creature commandos and not her. Yeah,
+
+429
+00:39:18,786 --> 00:39:22,727
+the whole show was more character driven than
+plot driven. I actually found myself a little
+
+430
+00:39:22,787 --> 00:39:28,370
+impatient with the show after the first three
+episodes because plot wise, there's not a whole
+
+431
+00:39:28,490 --> 00:39:33,472
+lot there. They basically go to Polokistan and
+defeat Cersei, and it's hard to tell where
+
+432
+00:39:33,512 --> 00:39:38,634
+this story is going until episode four. But
+basically, through the first three episodes,
+
+433
+00:39:38,794 --> 00:39:44,017
+the interesting stuff comes from the character
+explorations. Absolutely. Yeah, if you strip
+
+434
+00:39:44,117 --> 00:39:49,613
+all of the flashbacks in this series. The story
+is very, very simple and actually not that
+
+435
+00:39:49,633 --> 00:39:54,986
+great. It's the flashbacks that make this series.
+But speaking of the series, let's move on to
+
+436
+00:39:55,027 --> 00:39:56,029
+our story highlights.
+
+437
+00:40:03,182 --> 00:40:08,846
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+438
+00:40:08,866 --> 00:40:14,591
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+439
+00:40:14,651 --> 00:40:20,416
+Dynomic Podcast Network presents Konsole Kombat,
+where video game legends brawl every Monday.
+
+440
+00:40:20,956 --> 00:40:27,442
+Dynamic Duel, where comic- Titans smash every
+Tuesday, Max Destruction, where TV and action
+
+441
+00:40:27,462 --> 00:40:33,448
+heroes battle every Wednesday, and Sendro World,
+where anime champions clash every Thursday.
+
+442
+00:40:33,969 --> 00:40:38,974
+Join us as we speculate on the matches and,
+armed with the power of mathematical simulations,
+
+443
+00:40:39,214 --> 00:40:46,121
+discover who will emerge victorious. Visit dynamicpodcast.com
+where we settle the debate and settle the score.
+
+444
+00:40:50,503 --> 00:40:55,648
+Episode 1 was titled The Collie Wobbles. When
+the nation of Pakolistan goes under attack
+
+445
+00:40:55,668 --> 00:41:01,013
+by the sorceress Cersei and her army, the Sons
+of Themyscira, Amanda Waller assembles a team
+
+446
+00:41:01,073 --> 00:41:07,619
+of non-human prison inmates known as Task Force
+M, or the Creature Commandos, to protect the
+
+447
+00:41:07,659 --> 00:41:13,905
+nation's Princess Ilana Rostovic, who has promised
+petroleum deposits in her country to the US.
+
+448
+00:41:14,502 --> 00:41:19,764
+Led by Rick Flag, the team arrives in Pakolistan
+and meets with Princess Ilana Rostovic, who
+
+449
+00:41:19,804 --> 00:41:25,666
+manages to charm Rick Flag into a sexual relationship.
+While Dr. Phosphorus attempts to steal Flag's
+
+450
+00:41:25,726 --> 00:41:32,649
+remote that triggers a painful shock in the
+team in order to keep them in line, resulting
+
+451
+00:41:32,689 --> 00:41:37,611
+in a skirmish between the two, the bride and
+Nina sneak off to Frankenstein's castle, where
+
+452
+00:41:37,631 --> 00:41:38,892
+the bride was created.
+
+453
+00:41:43,594 --> 00:41:49,517
+watching the castle that the bride has returned.
+I actually like how this series follows Peacemaker
+
+454
+00:41:49,557 --> 00:41:55,140
+season one, at the end of which Amanda Waller's
+Task Force X is outed to the public and to
+
+455
+00:41:55,160 --> 00:42:01,324
+the government. And so they strip her of her
+ability to form government teams using human
+
+456
+00:42:01,404 --> 00:42:08,128
+inmates. So then she resorts to using non-human
+inmates or monsters for her missions. Yeah,
+
+457
+00:42:08,148 --> 00:42:12,090
+it's a pretty good loophole and very in keeping
+with the character of Amanda Waller. Episode
+
+458
+00:42:12,130 --> 00:42:18,214
+2 was titled The Tourmaline Necklace. In flashbacks,
+we learn about the tragic origins of the bride,
+
+459
+00:42:18,514 --> 00:42:24,398
+reluctantly created by Dr. Victor Frankenstein
+from the bodies of cadavers as a mate for Erik.
+
+460
+00:42:24,838 --> 00:42:30,521
+Her education from Victor leads to a romantic
+attraction culminating in Victor's death at
+
+461
+00:42:30,541 --> 00:42:35,665
+the hands of the jealous Erik Frankenstein,
+who continues to pursue the bride across time
+
+462
+00:42:36,145 --> 00:42:41,140
+and the planet. In the present, the bride and
+Nina locate a necklace that Victor once gave
+
+463
+00:42:41,180 --> 00:42:46,563
+to the bride before the two are ambushed by
+Cersei, whose sons of Themyscira noticed the
+
+464
+00:42:46,603 --> 00:42:51,926
+bride and Nina entering the castle, resulting
+in a brutal fight that leaves the bride and
+
+465
+00:42:52,026 --> 00:42:57,309
+Nina defeated. This episode really makes you
+feel for the bride, who again came off as pretty
+
+466
+00:42:57,389 --> 00:43:03,233
+sand-offish in the first episode, but here you
+learn why that's the case, and it's a really
+
+467
+00:43:03,313 --> 00:43:06,738
+interesting backstory. Yeah, it was hard to
+know where the story was going. The fact that
+
+468
+00:43:06,758 --> 00:43:11,701
+she went after a necklace really served to speak
+to her sentimental nature, I think, and that
+
+469
+00:43:11,741 --> 00:43:17,724
+she truly loved Dr. Victor Frankenstein. And
+I'm wondering if she'll love anybody else the
+
+470
+00:43:17,764 --> 00:43:22,586
+way she loved him. And it was almost like she
+lost the love of her life. Got to say, though,
+
+471
+00:43:22,666 --> 00:43:29,389
+it's pretty gross for Victor Frankenstein to
+bone this reanimated cadaver chick. Necrophilia?
+
+472
+00:43:29,954 --> 00:43:34,576
+Yeah, yeah, very gross. It's a little weird.
+Yeah. Episode three was titled Cheers to the
+
+473
+00:43:34,616 --> 00:43:40,279
+Tin Man. In flashbacks to G.I. Robot's history
+is explored from his time as an effective soldier
+
+474
+00:43:40,339 --> 00:43:45,882
+for the U.S. military during World War Two to
+when he was reawakened by a military arms collector
+
+475
+00:43:46,262 --> 00:43:51,605
+after decades of being decommissioned. After
+killing a group of neo-Nazis, G.I. Robot was
+
+476
+00:43:51,625 --> 00:43:56,968
+imprisoned and later drafted into Task Force
+M. When the team arrives at Victor's castle
+
+477
+00:43:56,988 --> 00:44:02,424
+to rescue Nina and the bride, They realized
+the two were kept alive to distract them from
+
+478
+00:44:02,524 --> 00:44:08,910
+Cersei's forces attacking Castle Rostovic and
+the Princess. Flag and the team return to Rostovic's
+
+479
+00:44:08,930 --> 00:44:14,694
+castle, now under siege, and during a chaotic
+battle, G.I. Robot is destroyed after saving
+
+480
+00:44:14,735 --> 00:44:20,359
+the team. Cersei is eventually defeated, but
+not before she exclaims that Task Force M has
+
+481
+00:44:20,439 --> 00:44:26,004
+doomed the world. I really liked G.I. Robot's
+backstory, everything from World War II to
+
+482
+00:44:26,344 --> 00:44:31,119
+seeing Dr. William Magnus converse with the
+character and give him upgrades and stuff like
+
+483
+00:44:31,139 --> 00:44:35,541
+that. The upgrade of him like being able to
+detach his torso from his legs and just like
+
+484
+00:44:35,601 --> 00:44:40,243
+levitate so he could spin around that way was
+pretty cool, even though it didn't really last
+
+485
+00:44:40,283 --> 00:44:46,165
+very long. What did you think of the characterization
+of Dr. William Magnus? Because at some points
+
+486
+00:44:46,205 --> 00:44:50,427
+it seemed a little bit sinister. I wasn't sure
+how I felt about that. I didn't mind that.
+
+487
+00:44:50,567 --> 00:44:55,589
+I know there's been some flirtation with Dr.
+William Magnus being a villain in the comics.
+
+488
+00:44:55,970 --> 00:45:00,711
+So I think it was in keeping with that. I'm
+sure they'll do further exploration with the
+
+489
+00:45:00,731 --> 00:45:05,832
+character. Because I think he was planted in
+here to establish further DC Studio projects,
+
+490
+00:45:05,972 --> 00:45:09,873
+like the Metal Men, eventually at some point.
+Because I don't really see any other reason
+
+491
+00:45:09,893 --> 00:45:14,355
+why he was included here. He, of course, was
+voiced by Alan Tudyk. So maybe we'll actually
+
+492
+00:45:14,375 --> 00:45:19,376
+get to see Alan Tudyk play that role in live
+action. I was actually shocked when G.I. Robot
+
+493
+00:45:19,496 --> 00:45:24,357
+died because he was so endearing as a character
+that you expected him to last throughout the
+
+494
+00:45:24,377 --> 00:45:28,751
+entire series. I'm really glad that they brought
+him back, but I do have to commend the show
+
+495
+00:45:28,871 --> 00:45:32,612
+for delivering on the stakes that they set up.
+Yeah, I didn't think he was going to die either.
+
+496
+00:45:32,793 --> 00:45:38,715
+It was when he did that I realized, oh shit,
+like, is no one safe? Is this like the Suicide
+
+497
+00:45:38,755 --> 00:45:43,357
+Squad? I hadn't really made that connection
+earlier for some reason that, hey, these characters
+
+498
+00:45:43,417 --> 00:45:49,480
+can actually die in this adventure. Episode
+4 was titled Chasing Squirrels. In flashbacks,
+
+499
+00:45:49,600 --> 00:45:54,990
+Weasel befriends a group of schoolchildren only
+to be confused for their attacker. When a fire
+
+500
+00:45:55,030 --> 00:46:00,253
+breaks out, authorities prioritize apprehending
+Gweasel over rescuing the children. In the
+
+501
+00:46:00,293 --> 00:46:05,957
+present, the team returns to Belle Reve where
+Cersei is interrogated and shows Waller a vision
+
+502
+00:46:06,277 --> 00:46:11,861
+of an apocalyptic future caused by Princess
+Rostakov's rise to power. Though Flag insists
+
+503
+00:46:11,941 --> 00:46:17,184
+on the princess's innocence after the assurance
+from leading Amazonian researcher Dr. Isla
+
+504
+00:46:17,224 --> 00:46:23,191
+MacPherson on Cersei's credibility, Waller assigns
+the bride to lead the team in Flagg's place
+
+505
+00:46:23,491 --> 00:46:29,655
+on a mission to assassinate the princess. While
+the team heads back to Pakolistan, Erik Frankenstein
+
+506
+00:46:29,815 --> 00:46:34,598
+ambushes Flagg at his home with the assumption
+that he and the bride were in a relationship.
+
+507
+00:46:34,938 --> 00:46:40,381
+Clearing up the misunderstanding, Erik and Flagg
+agree to join forces to stop the princess's
+
+508
+00:46:40,481 --> 00:46:45,404
+assassination. It was at this point in the series
+when you really begin to understand the deranged
+
+509
+00:46:45,524 --> 00:46:50,738
+nature of Erik's obsession with the bride. Yeah,
+it was really unsettling, especially in the
+
+510
+00:46:50,758 --> 00:46:55,080
+next episode when you get into his backstory.
+But yeah, I didn't like the character Frankenstein
+
+511
+00:46:55,120 --> 00:46:59,502
+at all here. This is one of the better episodes
+for me and just that the story was probably
+
+512
+00:46:59,542 --> 00:47:04,144
+the most tragic with Weasel and the group of
+children. I just want to know where those kids
+
+513
+00:47:04,184 --> 00:47:10,306
+parents were and why the school building was
+left unlocked. Yeah, where was like the teacher
+
+514
+00:47:10,347 --> 00:47:15,949
+supervisor? I assume that the kids were playing
+at the school's playground after hours or like
+
+515
+00:47:15,989 --> 00:47:20,647
+on a weekend or something like that. Which is
+why the school was empty during the time that
+
+516
+00:47:20,667 --> 00:47:25,090
+the explosion occurred. That makes sense. Yeah.
+But I wanted to be like, don't play with fire,
+
+517
+00:47:25,110 --> 00:47:29,493
+kids. Like, what are you doing? Don't don't
+do that. That's like lesson number one. They're
+
+518
+00:47:29,513 --> 00:47:33,315
+like a parent teaches their kids don't play
+with fire, don't play with dangerous things.
+
+519
+00:47:33,796 --> 00:47:37,798
+But I really got pissed at the police officers
+when weasel was trying to rescue the little
+
+520
+00:47:37,838 --> 00:47:43,242
+girl. And they prioritized shooting him over
+rescuing the little girl, you know. Dude, how
+
+521
+00:47:43,402 --> 00:47:47,643
+did one of those bullets not hit the little
+girl? That's all I was thinking about as that
+
+522
+00:47:47,683 --> 00:47:52,826
+scene was happening. Yeah, in the end, though,
+it didn't matter, which was truly sad. Heartbreaking,
+
+523
+00:47:52,946 --> 00:47:58,728
+heartbreaking. Moving on to episode five titled
+The Iron Pot. In flashbacks, Eric Frankenstein
+
+524
+00:47:59,048 --> 00:48:05,071
+is found by a blind medicine woman named Bogdana
+after the bride's initial attack and rejection.
+
+525
+00:48:05,531 --> 00:48:11,133
+After being nourished back to health, rather
+than leave Bogdana alone, Eric kills her. In
+
+526
+00:48:11,153 --> 00:48:16,657
+the present, Flagg and Eric spy on Dr. MacPherson,
+learning that she has been killed and replaced
+
+527
+00:48:16,697 --> 00:48:21,980
+by Clayface. Flagg manages to warn the princess
+over the phone that Task Force M is coming
+
+528
+00:48:22,020 --> 00:48:27,884
+to kill her before he and Eric are attacked
+by Clayface. Clayface critically injures Flagg
+
+529
+00:48:27,924 --> 00:48:34,108
+before Eric manages to electrocute him. Meanwhile,
+Task Force M is ambushed and separated by the
+
+530
+00:48:34,189 --> 00:48:37,511
+Picolestani army shortly after they arrive in
+the country.
+
+531
+00:48:41,614 --> 00:48:46,636
+Clayface that we've gotten over the past year,
+including Creature Commandos, Harley Quinn,
+
+532
+00:48:46,796 --> 00:48:51,979
+Suicide Squad, Isekai, and Batman Caped Crusader,
+how would you rank those four? Well, I think
+
+533
+00:48:52,059 --> 00:48:56,622
+the Caped Crusader version was the most interesting,
+but in terms of just faithfulness to the comics,
+
+534
+00:48:57,002 --> 00:49:01,304
+I would actually say it's this Creature Commandos
+version. Yeah, now that the other two aren't
+
+535
+00:49:01,344 --> 00:49:05,566
+without their merit, but they were definitely
+looser adaptations of the character of Clayface,
+
+536
+00:49:05,666 --> 00:49:09,529
+I also really liked this Creature Commandos
+version because he seemed more dangerous than
+
+537
+00:49:09,549 --> 00:49:14,763
+the others. Absolutely. Honestly, I'm kind of
+hoping that he appears in season two as a member
+
+538
+00:49:14,803 --> 00:49:20,006
+of the team. I thought he worked really well
+in Suicide Squad Isakai as a part of the Suicide
+
+539
+00:49:20,026 --> 00:49:24,669
+Squad. Except you can't really put a bomb in
+his neck or like a taser, you know, as that
+
+540
+00:49:24,709 --> 00:49:31,833
+show proved. Magic. Just use magic. I still
+can't get around why Frankenstein killed the
+
+541
+00:49:31,893 --> 00:49:37,035
+old woman healer. I guess I don't quite get
+what happened there. I guess in some sick,
+
+542
+00:49:37,195 --> 00:49:43,775
+twisted rationale, he figured he was doing her
+a favor. by having her not feel loneliness
+
+543
+00:49:43,835 --> 00:49:48,659
+and rejection, but I thought it was unbelievably
+cruel. Yeah, at that point there was no real
+
+544
+00:49:48,759 --> 00:49:53,162
+redeeming the character of Frankenstein, because
+before that you knew that he was an asshole.
+
+545
+00:49:53,642 --> 00:49:58,045
+Right, but it wasn't until that moment that
+you saw he truly was a monster. Right. Moving
+
+546
+00:49:58,105 --> 00:50:03,489
+on to episode six, which was titled, Pre-Atel
+Skelette. In flashbacks, we learned that Dr.
+
+547
+00:50:03,529 --> 00:50:09,773
+Phosphorus was a mad scientist named Alex Sartorius,
+who borrowed money from the mob to fund experiments.
+
+548
+00:50:10,110 --> 00:50:14,911
+on a machine that could cure cancer. When the
+mob kills his family and attempts to kill him
+
+549
+00:50:15,071 --> 00:50:21,032
+in the machine, Alex is reborn as the radioactive
+Dr. Phosphorus, who kills the mobsters and
+
+550
+00:50:21,072 --> 00:50:26,354
+fills the vacuum as a mob leader in the Gotham
+City underworld before being imprisoned by
+
+551
+00:50:26,434 --> 00:50:31,975
+Batman. In the present, while on the run from
+the Pakolestani army, Phosphorus encounters
+
+552
+00:50:32,035 --> 00:50:37,137
+a child who reminds him of his lost son, while
+the bride and Nina protect a local brothel
+
+553
+00:50:37,557 --> 00:50:42,419
+and Weasel bonds with a wolf pack. Each of the
+team members reunite on their way to Castle
+
+554
+00:50:42,460 --> 00:50:47,764
+Rustovic to assassinate the Princess. This is
+a fantastic episode, really tragic opening,
+
+555
+00:50:47,964 --> 00:50:53,609
+but I like the way it set up the climax of the
+show toward the end. The dance number with
+
+556
+00:50:53,649 --> 00:50:58,974
+Dr. Phosphorus was a little bit weird. Actually,
+you know, there were quite a few musical numbers
+
+557
+00:50:58,994 --> 00:51:04,038
+throughout the course of this series that kind
+of stood out to me in a distracting way, in
+
+558
+00:51:04,058 --> 00:51:08,702
+a way that I don't think was entirely necessary.
+Like, James Gunn likes to use a lot of pop
+
+559
+00:51:08,722 --> 00:51:14,046
+music in his projects. But in this show, some
+of them almost seemed to just pad the runtime.
+
+560
+00:51:14,426 --> 00:51:19,529
+Watching Dr. Phosphorus dance in his pimp outfit
+is one of those cases. There was also another
+
+561
+00:51:19,830 --> 00:51:24,793
+instance, I think in episode two, where we actually
+saw the band, Gogo Bordello, perform their
+
+562
+00:51:24,833 --> 00:51:30,137
+song, Start Wearing Purple. It was just weird,
+it was weird, like a music video. I actually
+
+563
+00:51:30,317 --> 00:51:35,661
+loved that. I loved all of the musical choices
+and numbers in this series from Start Wearing
+
+564
+00:51:35,701 --> 00:51:41,672
+Purple. to seeing Dr. Phosphorus dancing. He
+was just so drunk on power that he could like
+
+565
+00:51:41,712 --> 00:51:46,675
+get away with stuff like that. Like I mentioned,
+I think the soundtrack for this series would
+
+566
+00:51:46,695 --> 00:51:51,478
+make Quentin Tarantino proud. For sure. But
+like Dr. Phosphorus had a whole choreographed
+
+567
+00:51:51,538 --> 00:51:55,180
+number with backup dancers and everything like
+that. You didn't find that distracting? No,
+
+568
+00:51:55,240 --> 00:52:01,483
+I was laughing. Okay. All right. It was funny
+that it got interrupted by Batman. Yeah, Batman
+
+569
+00:52:01,503 --> 00:52:05,065
+wasn't having any of it. He was like, really
+a dance number? Not having any of this shit.
+
+570
+00:52:06,306 --> 00:52:12,087
+The final episode of the series, episode seven,
+was titled A Very Funny Monster. In flashbacks,
+
+571
+00:52:12,127 --> 00:52:17,109
+we learned that Nina was born with deformed
+lungs, resulting in her father, the renowned
+
+572
+00:52:17,209 --> 00:52:22,690
+geneticist and engineer Edward Mazursky, to
+create a mobile iron lung for his daughter.
+
+573
+00:52:23,170 --> 00:52:27,932
+When Nina's mother leaves her family, Edward
+experiments on his daughter, turning her into
+
+574
+00:52:27,972 --> 00:52:33,593
+an aquatic hybrid capable of breathing water.
+After being teased in school, Nina ran away
+
+575
+00:52:33,613 --> 00:52:39,245
+from home. living in sewers as an urban legend
+until she was caught by authorities, resulting
+
+576
+00:52:39,305 --> 00:52:45,109
+in her father being shot while trying to rescue
+her. In the present, Task Force M makes their
+
+577
+00:52:45,129 --> 00:52:49,752
+way into the castle's security tower where they
+find footage of Clayface with the princess
+
+578
+00:52:50,172 --> 00:52:55,916
+and where Eric finally catches up with them.
+Unwilling to hear anything from Eric, the bride
+
+579
+00:52:55,996 --> 00:53:00,619
+dispatches him quickly before the team makes
+their way to a lake where the princess is swimming.
+
+580
+00:53:00,980 --> 00:53:06,059
+Nina is tasked with executing the assassination.
+but fails and is killed by the princess when
+
+581
+00:53:06,099 --> 00:53:11,664
+Weasel, who was fond of the princess, alerts
+her to the danger. After receiving a call from
+
+582
+00:53:11,704 --> 00:53:16,587
+Amanda Waller calling off the assassination,
+the bride kills the princess nonetheless for
+
+583
+00:53:16,607 --> 00:53:22,172
+killing Nina, and after piecing together that
+Cersei was right after all. A new task force
+
+584
+00:53:22,312 --> 00:53:27,756
+am is formed in the aftermath, featuring a mix
+of survivors and new recruits, with the bride
+
+585
+00:53:27,796 --> 00:53:33,148
+placed in charge once again. And that's the
+series. I really liked this episode. Nina Mazurski's
+
+586
+00:53:33,188 --> 00:53:38,071
+backstory was just as tragic as the rest of
+them. But I think I felt a stronger connection
+
+587
+00:53:38,111 --> 00:53:43,415
+to this one because as a father, I have a daughter,
+I have two daughters and there's nothing I
+
+588
+00:53:43,435 --> 00:53:48,119
+wouldn't do for them. Yeah. Seeing Professor
+Mazurski's love for his daughter really made
+
+589
+00:53:48,159 --> 00:53:53,563
+you have disdain for the mother and how she
+just didn't love the child. You know, it was
+
+590
+00:53:53,603 --> 00:53:58,294
+really heartbreaking when the father died in
+front of Nina as she was being arrested. Oh
+
+591
+00:53:58,334 --> 00:54:03,297
+yeah, totally. Right in the feels. I do wonder
+about the practicality of genetically transforming
+
+592
+00:54:03,337 --> 00:54:07,300
+your daughter into a gill creature though, especially
+when she's having a hard enough time breathing
+
+593
+00:54:07,420 --> 00:54:13,084
+anyway, to confine her to only breathing underwater.
+It was a little bit of a strange solution.
+
+594
+00:54:13,124 --> 00:54:17,827
+I think he should have kept working on it. Well,
+I got the impression that the experiment went
+
+595
+00:54:17,927 --> 00:54:22,611
+somewhat wrong, or that he wasn't fully aware
+of what it would do. He was only trying to
+
+596
+00:54:22,631 --> 00:54:27,982
+find a way for her to breathe with the liquid
+that was constantly in her lungs. And I'm not
+
+597
+00:54:28,102 --> 00:54:33,264
+sure the result was what he intended. Because
+if you think about it, it wasn't that much
+
+598
+00:54:33,324 --> 00:54:38,946
+better wearing a fishbowl on your head than
+it was walking around with an iron lung. Right,
+
+599
+00:54:39,026 --> 00:54:43,648
+exactly. Again, the final moments of the series
+were among my favorites when the bride just
+
+600
+00:54:43,768 --> 00:54:48,631
+straight up kills the princess for no other
+reason than killing her friend Nina. I'm really
+
+601
+00:54:48,651 --> 00:54:52,852
+glad that they have announced a season two for
+the series because whether we see them in live
+
+602
+00:54:52,912 --> 00:54:58,531
+action or not, I can't wait to see more. from
+these characters, particularly the Bride, I
+
+603
+00:54:58,551 --> 00:55:03,615
+think you could do a lot with this series and
+with a lot of DC's characters, like Clayface,
+
+604
+00:55:03,995 --> 00:55:09,379
+like a number of villains within DC. For sure,
+yeah, the dialogue was well written. I think
+
+605
+00:55:09,399 --> 00:55:15,082
+when you look at the quality of shows like Creature
+Commando Season 1, like Peacemaker Season 1,
+
+606
+00:55:15,523 --> 00:55:20,526
+and like the Suicide Squad, you can't help but
+be excited for the future of the DCU in James
+
+607
+00:55:20,546 --> 00:55:22,127
+Gunn's hands as a DC fan.
+
+608
+00:55:25,950 --> 00:55:31,153
+I'm really hoping this isn't the same tone that
+we'll see in a project like Superman or other
+
+609
+00:55:31,253 --> 00:55:38,418
+DC fare, Supergirl, even the Lantern series.
+But for this, James Gunn's style and tone is
+
+610
+00:55:38,598 --> 00:55:44,042
+absolutely perfect. Now it's not a perfect show,
+as we mentioned there are problems with the
+
+611
+00:55:44,082 --> 00:55:49,726
+villain, but for the most part, despite its
+mature and violent nature, DC Studios' initial
+
+612
+00:55:49,766 --> 00:55:56,650
+foray packs fun action spectacle and dire stakes
+while conveying that behind every monster,
+
+613
+00:55:56,830 --> 00:56:03,574
+as I mentioned earlier, is a tragedy. I'm giving
+this show 4 out of 5 stars, a fresh rating
+
+614
+00:56:03,714 --> 00:56:08,437
+on Rotten Tomatoes. Yeah, I would agree with
+4 out of 5 stars. That was the rating that
+
+615
+00:56:08,477 --> 00:56:13,440
+I gave the first season of Hitmonkey, which
+I really enjoyed. I think there's a lot of
+
+616
+00:56:13,480 --> 00:56:18,823
+commonalities between Hitmonkey and Creature
+Commandos. Yeah, I love Hitmonkey for Marvel,
+
+617
+00:56:18,863 --> 00:56:24,778
+and I'm really glad that DC has basically an
+equivalent to that. in our universe. I liked
+
+618
+00:56:24,838 --> 00:56:29,139
+season two of Hit Monkey a little bit more than
+season one, which I think had probably too
+
+619
+00:56:29,159 --> 00:56:33,921
+many episodes. But for Creature Commandos, they
+had just the right amount of episodes to tell
+
+620
+00:56:33,961 --> 00:56:38,682
+the story they wanted to tell, which again was
+pretty simple, maybe too simple, but I still
+
+621
+00:56:38,722 --> 00:56:43,444
+really liked it. For sure. Hopefully we hear
+words soon as to when season two begins production
+
+622
+00:56:43,504 --> 00:56:47,605
+so we can know around the time that it's going
+to come out. But that does it for this review.
+
+623
+00:56:47,865 --> 00:56:55,056
+AJ9K helped close this out. Thanks for listening
+to Dynamic Duel. Visit the show's website at
+
+624
+00:56:55,096 --> 00:57:00,680
+dynamicDuel.com and follow us on Instagram at
+dynamicDuelpodcast. You can support the show
+
+625
+00:57:00,720 --> 00:57:06,064
+on Patreon at patreon.com slash dynamicDuel
+and joining a tier that works for you, or by
+
+626
+00:57:06,124 --> 00:57:12,288
+rating and reviewing Dynamic Duel on Apple Podcasts,
+Spotify, Podchaser or on our website. Don't
+
+627
+00:57:12,308 --> 00:57:16,851
+forget to listen to the other shows in the DynaMic
+Podcast Network, including Max Destruction,
+
+628
+00:57:17,192 --> 00:57:23,867
+Senjou World and Konsole Kombat. Our next episode
+is going to be a tie-in to Creature Commando
+
+629
+00:57:23,907 --> 00:57:29,410
+Season 1 as we find out who would win in a fight
+between Cersei, the Wonder Woman sorceress
+
+630
+00:57:29,450 --> 00:57:35,674
+villain, versus Morgan Lafay, the Avengers villain.
+Actually she started out as a Black Knight
+
+631
+00:57:35,754 --> 00:57:39,936
+villain since his lore is steeped in Arthurian
+legend. But it's going to be a good episode.
+
+632
+00:57:40,376 --> 00:57:44,819
+Yeah, not only are these comic book characters,
+but they're also characters from myth. It's
+
+633
+00:57:44,839 --> 00:57:48,161
+going to be awesome. But that does it for this
+episode. We want to give a big thanks to our
+
+634
+00:57:48,201 --> 00:57:52,944
+executive producers, Ken Johnson. John Sturawski,
+Zachary Hepburn, Dustin Belcombe, Miggy Mtn.
+
+635
+00:57:52,964 --> 00:57:57,908
+Guillen, Brandon Estergard, Nathaniel Wagner,
+Levi Yatin, Austin Wiselowski, A.J. Dunkerley,
+
+636
+00:57:58,068 --> 00:58:03,572
+Scott Camacho, Gil Camacho, Adam Spies, Dean
+Maleski, Devin Davis, Joseph Kirsting, Josh
+
+637
+00:58:03,632 --> 00:58:09,036
+Leiner, Mike Williams, and Oscar Galvez for
+helping make this podcast possible. We'll talk
+
+638
+00:58:09,056 --> 00:58:13,800
+to you guys next week. Up up and away, true
+believers. I wish I loved anything as much
+
+639
+00:58:13,840 --> 00:58:15,642
+as GI Robot loves killing Nazis.
+
