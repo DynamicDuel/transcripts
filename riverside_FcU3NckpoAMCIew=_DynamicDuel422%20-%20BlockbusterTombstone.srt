@@ -1,0 +1,2165 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a DynaMic Network podcast.
+
+2
+00:00:25,038 --> 00:00:29,742
+Welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,762 --> 00:00:35,147
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:35,607 --> 00:00:42,273
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And in this episode, we are doing a duel
+
+5
+00:00:42,554 --> 00:00:48,259
+between the characters of Blockbuster and Tombstone.
+And I know what you're thinking, but you're
+
+6
+00:00:48,299 --> 00:00:54,748
+wrong. This is not, in fact, a battle. between
+a 90s era video store and a frozen pizza company,
+
+7
+00:00:55,269 --> 00:01:00,533
+it is comic book characters. Obscure ones, but
+comic book characters nonetheless. I don't
+
+8
+00:01:00,553 --> 00:01:04,516
+think Tombstone is that obscure. He's a pretty
+prominent Spider-Man and Daredevil villain.
+
+9
+00:01:04,937 --> 00:01:09,641
+I mean, he was in the, into the Spider-Verse
+movie. I totally blocked that. Blockbuster
+
+10
+00:01:09,681 --> 00:01:15,725
+actually has been in a few animated works before,
+so maybe he's not that obscure either. That
+
+11
+00:01:15,766 --> 00:01:21,302
+said, when I Google Blockbuster, the first thing
+that comes up is not the DC character. Same
+
+12
+00:01:21,322 --> 00:01:26,246
+thing with Tombstone, so fair enough. Now this
+duel was specifically requested by our executive
+
+13
+00:01:26,286 --> 00:01:30,670
+producer, Miggy Mathagean. We'll break down
+the characters' histories and abilities and
+
+14
+00:01:30,730 --> 00:01:34,213
+run a thousand simulations to find out who would
+actually win. Before that, we're gonna break
+
+15
+00:01:34,233 --> 00:01:38,757
+down the comic book movie news from the past
+week, of which there was just one news item,
+
+16
+00:01:39,157 --> 00:01:45,342
+and that was that the Sandman series for Netflix
+is ending with season two. Yeah, the day this
+
+17
+00:01:45,382 --> 00:01:50,066
+episode drops, we're supposed to get the first
+teaser trailer for the Fantastic Four first
+
+18
+00:01:50,106 --> 00:01:55,010
+steps movie that's coming out later this summer,
+but, you know, that's just our luck. So next
+
+19
+00:01:55,050 --> 00:01:58,993
+week we'll be talking about the teaser, but
+as always, we list our segment times in our
+
+20
+00:01:59,033 --> 00:02:02,316
+episode description, so feel free to check out
+the show notes if you want to skip ahead to
+
+21
+00:02:02,336 --> 00:02:07,561
+a particular topic. Guys, our artificially intelligent
+dual simulator AJ9K has a quick message for
+
+22
+00:02:07,581 --> 00:02:14,408
+our listeners, so listen up. Why hello there,
+do you want even more from this podcast? Then
+
+23
+00:02:14,448 --> 00:02:18,392
+become a part of the dynamic dual community
+on Patreon, where you can choose from three
+
+24
+00:02:18,432 --> 00:02:23,796
+tiers. The dynamic two-oh tier gives you access
+to our Discord chat server. The fantastic four
+
+25
+00:02:23,836 --> 00:02:28,160
+tier gives you two bonus episodes each month,
+and the X-Force tier makes you an executive
+
+26
+00:02:28,180 --> 00:02:33,511
+producer of this show. Lastly, The Diner Mike
+podcast network tier lets you create your own
+
+27
+00:02:33,551 --> 00:02:38,533
+podcast using this Monte Carlo simulator. Johnny
+and Joe will help you develop your show, provide
+
+28
+00:02:38,573 --> 00:02:43,576
+graphic support and consultation, and get you
+simulation results. Pitch the twins your ideas
+
+29
+00:02:43,616 --> 00:02:49,799
+via email at dynamicduelpodcast at gmail.com.
+Check it out at patreon.com slash dynamicduel.
+
+30
+00:02:50,139 --> 00:02:56,942
+Pip pip cheerio. Thanks AJ9K and thanks to everyone
+who supports the podcast. Guys, be sure to
+
+31
+00:02:56,982 --> 00:03:01,423
+tune into the other shows on the DynaMic Podcast
+Network this week, including Max Destruction,
+
+32
+00:03:01,803 --> 00:03:05,984
+which pits your favorite action heroes from
+film and television against each other. This
+
+33
+00:03:06,024 --> 00:03:10,985
+week, hosts Scotty and Gilly are finding out
+who would win in a fight between the MCU's
+
+34
+00:03:11,065 --> 00:03:17,107
+Spider-Man and the DCEU's Blue Beetle. That's
+right, they're doing a Marvel versus DC episode.
+
+35
+00:03:17,587 --> 00:03:22,268
+Totally here for it. Can't wait to see Tom Holland's
+Spider-Man wipe the floor with Trilla Mardi
+
+36
+00:03:22,308 --> 00:03:27,202
+Doignes' Blue Beetle. Yeah, that's not gonna
+happen. We've run that battle. I'm pretty confident
+
+37
+00:03:27,262 --> 00:03:31,647
+I know who comes out on top. We ran the comic
+book character battle, but who wins between
+
+38
+00:03:31,667 --> 00:03:37,553
+the movie characters? I'm still pretty confident.
+Well you're done. On the Senjoh World Podcast,
+
+39
+00:03:37,593 --> 00:03:42,498
+host Zachary Hepburn speculates on fights between
+fan favorite anime and manga characters. This
+
+40
+00:03:42,538 --> 00:03:47,543
+Thursday, Zach is going to find out who'd win
+between Blade from the Blade anime against
+
+41
+00:03:47,703 --> 00:03:53,535
+Richter Belmont from the Castlevania anime.
+On the Konsole Kombat podcast hosts John and
+
+42
+00:03:53,555 --> 00:03:58,618
+Dean simulate battles between popular video
+game characters. In yesterday's episode, they
+
+43
+00:03:58,638 --> 00:04:03,961
+found out who would win between Princess Peach
+and Princess Zelda. Visit dynamicpodcasts.com
+
+44
+00:04:04,201 --> 00:04:08,524
+or click the link in our show notes to listen
+to all the shows in the DynaMic Podcast Network.
+
+45
+00:04:08,864 --> 00:04:15,148
+But with that out of the way, quick to the No
+Prize! A No Prize is an award Marvel used to
+
+46
+00:04:15,188 --> 00:04:20,431
+give out to fans. Our version, the Dynamic Dual
+No Prize, is a digital award we post on Instagram
+
+47
+00:04:20,451 --> 00:04:25,314
+for the person that we feel gave the best answer
+to our question of the week. Last week we asked
+
+48
+00:04:25,334 --> 00:04:31,799
+you guys, which actor has given the best performance
+in a villain role for a Marvel or DC series?
+
+49
+00:04:31,839 --> 00:04:36,102
+And we got four answers, so let's go over our
+three honorable mentions as well as the no
+
+50
+00:04:36,142 --> 00:04:42,566
+prize winner. Our first honorable mention goes
+to Lee Tapscott, who said, Hi, this is Lee
+
+51
+00:04:42,626 --> 00:04:50,299
+Tapscott about which actor performances was
+the best villain. I think David Tennant as
+
+52
+00:04:50,879 --> 00:04:58,183
+Kilgrave, aka Purple Man, in the Jessica Jones
+series, you grew to hate him and he was perhaps
+
+53
+00:04:58,223 --> 00:05:03,506
+the first villain we wanted to see the hero
+actually kill. Yeah, I mean, this was one of
+
+54
+00:05:03,526 --> 00:05:07,848
+the answers to beat, right? Kilgrave, aka the
+Purple Man from the Jessica Jones television
+
+55
+00:05:07,888 --> 00:05:13,071
+series, was played masterfully by David Tennant,
+who is, you know, a pretty charismatic actor,
+
+56
+00:05:13,131 --> 00:05:18,470
+but by God, was he easy to hate in the course
+of that show. Yeah, I don't know if anyone
+
+57
+00:05:18,530 --> 00:05:23,473
+else could have played that role besides David
+Tennant, honestly. It probably would have ruined
+
+58
+00:05:23,493 --> 00:05:28,236
+their career, just with all the horrible things
+that the character did. Right. But when you
+
+59
+00:05:28,276 --> 00:05:32,638
+have someone like David Tennant who really choose
+the scenery with the role, he can kind of get
+
+60
+00:05:32,678 --> 00:05:37,721
+by considering the subject matter. His influence
+was so lasting in that show that it carried
+
+61
+00:05:37,842 --> 00:05:42,304
+on within the subsequent seasons of Jessica
+Jones. There were only three seasons of Jessica
+
+62
+00:05:42,344 --> 00:05:46,786
+Jones, but his presence was still definitely
+felt. Great answer, Lee. Our next honorable
+
+63
+00:05:46,846 --> 00:05:53,188
+mention goes to Clive, who said. Hi, this is
+Clive from Toronto. Without putting too much
+
+64
+00:05:53,248 --> 00:05:58,509
+thought into it, the villain that comes to mind
+is Deathstroke in the Arrow TV show, specifically
+
+65
+00:05:58,549 --> 00:06:02,691
+in the earlier seasons. I just remember feeling
+like the stakes were really high when this
+
+66
+00:06:02,711 --> 00:06:07,792
+character was on screen. It really surprised
+me when he killed a significant character on
+
+67
+00:06:07,812 --> 00:06:14,322
+the show, no spoilers, but in that single action,
+it showed me that this man was no joke. Yeah,
+
+68
+00:06:14,342 --> 00:06:19,344
+Slade Wilson aka Deathstroke played by Manu
+Bennett in the Arrow television series was
+
+69
+00:06:19,384 --> 00:06:24,247
+a force to be reckoned with. The story arc of
+getting to know the character in the flashbacks
+
+70
+00:06:24,647 --> 00:06:30,270
+on the island with Oliver Queen to when he became
+a full-fledged horror monster type villain
+
+71
+00:06:30,630 --> 00:06:36,093
+in subsequent seasons where it seemed like no
+character was safe from being killed by Deathstroke
+
+72
+00:06:36,474 --> 00:06:41,576
+was just remarkable. You never knew when or
+where he was going to appear and that was part
+
+73
+00:06:41,737 --> 00:06:45,667
+of why the character was so scary. I've never
+seen the Arrow television series, but I've
+
+74
+00:06:45,707 --> 00:06:49,611
+always heard good things about the Deathstroke
+character from that show. And there have been
+
+75
+00:06:49,691 --> 00:06:55,456
+several live action iterations of Deathstroke.
+Like we got him in Titan season two, as well
+
+76
+00:06:55,516 --> 00:07:00,540
+as like the post credit scene in the Justice
+League film. But yeah, Manu Burnett's portrayal
+
+77
+00:07:00,820 --> 00:07:06,125
+is largely regarded as the best. Yeah, the Arrowverse
+version is still the best. Great answer Clive.
+
+78
+00:07:06,205 --> 00:07:12,734
+Our next honorable mention goes to Mike Williams,
+who said, Hi guys, Mike Williams here. I picked
+
+79
+00:07:12,774 --> 00:07:20,961
+Clancy Brown for Lex Luthor in the Justice League
+Unlimited series and Oswald Patton for Modoc.
+
+80
+00:07:21,001 --> 00:07:26,266
+Have a good day. Yeah, we didn't say specifically
+that these had to be live action performances.
+
+81
+00:07:26,646 --> 00:07:33,212
+So Mike Williams gave us two animated performances,
+first with Clancy Brown as Lex Luthor and Patton
+
+82
+00:07:33,272 --> 00:07:39,986
+Oswald as Modoc. Yeah, Clancy Brown to Lex Luthor
+is what Kevin Conroy is to Batman. He's just
+
+83
+00:07:40,026 --> 00:07:45,287
+the iconic voice for that role. It's hard to
+hear anybody else when you read the lines in
+
+84
+00:07:45,307 --> 00:07:51,049
+the comics. And Patton Oswalt played the character
+of Modok so much better than how the character
+
+85
+00:07:51,069 --> 00:07:56,910
+was portrayed in live action in the Ant-Man
+and the Wasp quantumania film. To me, the Hulu-Modok
+
+86
+00:07:57,010 --> 00:08:01,531
+stop-motion animation depiction of the character
+is the quintessential version. Yeah, I've never
+
+87
+00:08:01,591 --> 00:08:06,933
+seen if Patton Oswalt has ever said anything
+about the MCU version of Modok, but you have
+
+88
+00:08:06,953 --> 00:08:12,255
+to imagine he was pretty embarrassed when he
+saw it. Like embarrassed for Kevin Feige and
+
+89
+00:08:12,295 --> 00:08:16,177
+Marvel Studios. Yeah, they definitely didn't
+have to go that route. If I had my way, the
+
+90
+00:08:16,197 --> 00:08:20,059
+character never would have taken off his faceplate.
+Because with the faceplate, it was actually
+
+91
+00:08:20,079 --> 00:08:25,222
+a pretty cool design for live action. But yeah,
+the Modok Hulu series was just fantastic. Great
+
+92
+00:08:25,282 --> 00:08:31,366
+answer, Mike. But the winner of this week's
+Snow Prize is Buster Barnes. Who said? Hi,
+
+93
+00:08:31,406 --> 00:08:35,208
+guys, Buster Barnes here. And for my pick, I'm
+going to go for a bit of an underrated shout,
+
+94
+00:08:35,228 --> 00:08:41,323
+which is Cronden, who plays Tobias Wail in The
+Black Lightning Show, a pretty underrated show
+
+95
+00:08:41,403 --> 00:08:47,446
+and a very underrated villain. He was menacing,
+imposing, intimidating for a guy who didn't
+
+96
+00:08:47,466 --> 00:08:53,450
+really have any acting credits before this show.
+I think he was a great villain and yeah, I
+
+97
+00:08:53,470 --> 00:08:57,932
+think it's a really underrated performance.
+See you guys. Love the show. Yeah. Crandon,
+
+98
+00:08:57,992 --> 00:09:04,355
+I believe is a rapper. He's a musician by profession,
+but honestly, I can't think of anyone better
+
+99
+00:09:04,395 --> 00:09:09,310
+to play the role of Tobias Whale for the Black
+Lightning series. I didn't watch the whole
+
+100
+00:09:09,350 --> 00:09:15,793
+series, but the episodes I did watch, Cronden
+made a fantastic kingpin-esque villain, just
+
+101
+00:09:15,833 --> 00:09:21,415
+in terms of striking and imposing figure and
+intimidation factor. Yeah, I never watched
+
+102
+00:09:21,435 --> 00:09:25,977
+the Black Lightning television series, so I
+only know of his version of Tobias Whale through
+
+103
+00:09:25,997 --> 00:09:30,779
+the marketing of the show. And yeah, it looked
+like it was a pretty good performance. I don't
+
+104
+00:09:30,799 --> 00:09:35,381
+know too much about Tobias Whale in general.
+I do remember that he was in the Suicide Squad,
+
+105
+00:09:35,441 --> 00:09:40,283
+hell to pay. animated movie and he was pretty
+imposing in that as well. But the reason that
+
+106
+00:09:40,323 --> 00:09:46,024
+Buster Barnes' answer gets the no prize this
+week is because Crandon also voiced the character
+
+107
+00:09:46,064 --> 00:09:52,186
+of Tombstone in the Spider-Man Into the Spider-Verse
+movie. So it was a pretty topical answer considering
+
+108
+00:09:52,546 --> 00:09:56,908
+that in this episode we're pitting Tombstone
+against Blockbuster. I thought it was interesting
+
+109
+00:09:56,968 --> 00:10:04,398
+that Crandon is an albino African-American and
+so is Tobias Whale and Tombstone. So he's kind
+
+110
+00:10:04,418 --> 00:10:09,405
+of like the perfect guy to play and voice those
+characters. So congrats to Buster Barnes. You
+
+111
+00:10:09,445 --> 00:10:13,912
+win this week's No Prize. If you the listener
+want a shot at winning your own No Prize, stay
+
+112
+00:10:13,932 --> 00:10:18,418
+tuned to later on in this episode when we'll
+be asking another question of the week. But
+
+113
+00:10:18,458 --> 00:10:20,481
+now that that's done, on to the news.
+
+114
+00:10:25,890 --> 00:10:30,933
+So if you remember listening to our last episode,
+I mentioned that my most anticipated series
+
+115
+00:10:31,373 --> 00:10:36,357
+of this year is probably Sandman season 2. I
+wasn't sure if we were going to get it, but
+
+116
+00:10:36,377 --> 00:10:42,401
+it sounds like we are, and that this upcoming
+season will in fact be the final season of
+
+117
+00:10:42,441 --> 00:10:49,125
+the series. Which to me was heartbreaking, because
+I know Sandman, the story written by Neil Gaiman,
+
+118
+00:10:49,565 --> 00:10:56,590
+is a 10 volume series, so for it to end on season
+2 felt very premature. and since it's one of
+
+119
+00:10:56,610 --> 00:11:01,871
+my favorite series, I felt like they were just
+making a huge mistake. Initially, I was under
+
+120
+00:11:01,911 --> 00:11:07,373
+the assumption that the show's conclusion was
+coming about because of several sexual misconduct
+
+121
+00:11:07,433 --> 00:11:13,495
+accusations leveled at Neil Gaiman, and that
+may very well be why they decided to announce
+
+122
+00:11:13,615 --> 00:11:18,976
+at this time that the series is concluding,
+but according to Variety, they were actually
+
+123
+00:11:19,016 --> 00:11:24,626
+planning on ending with season 2 prior to these
+allegations coming out. Yeah, the series of
+
+124
+00:11:24,686 --> 00:11:29,348
+Sandman is like 10 volumes, but only so much
+of that story actually deals directly with
+
+125
+00:11:29,709 --> 00:11:34,811
+the character of Dream, right? Like a lot of
+the story is somewhat anthological to my understanding.
+
+126
+00:11:35,231 --> 00:11:39,534
+So the show producers released a statement saying
+that since they're focusing really on the character
+
+127
+00:11:39,574 --> 00:11:44,596
+of Dream, they're skipping over a lot of the
+other stuff and are able to, I guess, tell
+
+128
+00:11:44,656 --> 00:11:50,122
+his complete arc within this next season. Now
+initially I was calling BS on that reasoning.
+
+129
+00:11:50,202 --> 00:11:55,464
+I thought that was just a political way to say,
+hey, we're going to end this series because
+
+130
+00:11:55,544 --> 00:12:00,285
+of Neil Gaiman's alleged conduct. But according
+to Variety, they were hearing from sources
+
+131
+00:12:00,505 --> 00:12:06,007
+that the series was getting too pricey to continue.
+So that's why they decided to focus solely
+
+132
+00:12:06,207 --> 00:12:12,328
+on Dream Story, which, yeah, there's not as
+much to Dream Story specifically in the series
+
+133
+00:12:12,408 --> 00:12:18,483
+run as you would think for a series titled The
+Sandman. So I could kind of buy that. I totally
+
+134
+00:12:18,503 --> 00:12:22,865
+believe that it's an expensive show because
+it does look amazing. All the special effects
+
+135
+00:12:22,965 --> 00:12:27,487
+and the production value is pretty incredible.
+Yeah, the show is very cinematic, very special
+
+136
+00:12:27,527 --> 00:12:31,830
+effects heavy. I think season one was the most
+expensive season of a show that Warner Brothers
+
+137
+00:12:32,050 --> 00:12:36,912
+had ever produced in fact. So yeah, I guess
+this should not be shocking. We did not get
+
+138
+00:12:36,932 --> 00:12:41,655
+a release date for this season with this news,
+although we do know it's coming out in 2025.
+
+139
+00:12:42,495 --> 00:12:48,596
+We did however get a poster, which is pretty
+bad ass all seven members of the Endless on
+
+140
+00:12:48,656 --> 00:12:54,964
+it. Everyone from death to despair, delirium,
+desire, destiny, and destruction. It's pretty
+
+141
+00:12:55,004 --> 00:12:58,929
+awesome to see live-action versions of each
+of these characters, and I can't wait to see
+
+142
+00:12:58,969 --> 00:13:04,095
+them in the series itself. But with the announcement
+that this is the final season of The Sandman,
+
+143
+00:13:04,495 --> 00:13:06,197
+that brings us to our question of the week.
+
+144
+00:13:10,894 --> 00:13:16,098
+What is a cancelled Marvel or DC television
+series that you most wish would have gotten
+
+145
+00:13:16,238 --> 00:13:21,762
+at least one other season? Record your answer
+at dynamicduel.com by clicking on the red microphone
+
+146
+00:13:21,782 --> 00:13:25,866
+button in the bottom right hand corner of the
+screen, which will prompt you to leave us a
+
+147
+00:13:25,906 --> 00:13:30,750
+voicemail. Your message could be up to 30 seconds
+long, and don't forget to leave your name in
+
+148
+00:13:30,770 --> 00:13:35,534
+case we include you on the podcast. We'll pick
+our favorite answer and award that person a
+
+149
+00:13:35,574 --> 00:13:41,409
+Dynamic Duel No Prize that we'll post to Instagram.
+Be sure to answer before... February 8th.
+
+150
+00:13:49,006 --> 00:13:53,494
+That does it for all the news for this episode,
+so now let's move on to our main event, where
+
+151
+00:13:53,554 --> 00:14:00,607
+we find out who would win in a battle between
+the DC Villain Blockbuster and the Marvel Villain
+
+152
+00:14:01,008 --> 00:14:01,649
+Tombstone.
+
+153
+00:14:16,902 --> 00:14:24,844
+Okay, Blockbuster and Tombstone. These are two
+broodish mobster villains. One is the primary
+
+154
+00:14:24,884 --> 00:14:30,125
+villain you could say for Nightwing and Tombstone,
+as I've recently learned, is a villain for
+
+155
+00:14:30,145 --> 00:14:34,627
+characters like Daredevil and Spider-Man. So
+it's kind of fitting because we actually pit
+
+156
+00:14:34,887 --> 00:14:39,408
+the characters of Nightwing and Daredevil in
+a duel prior to this and now it looks like
+
+157
+00:14:39,428 --> 00:14:43,109
+their villains are facing off against each other.
+Oh yeah, I didn't really think about that before
+
+158
+00:14:43,149 --> 00:14:46,950
+but you're totally right. I don't know much
+about the character of Blockbuster actually.
+
+159
+00:14:46,970 --> 00:14:52,652
+I don't think I've read a single DC comic with
+him as the villain. So I'm basically going
+
+160
+00:14:52,752 --> 00:14:57,273
+into this from scratch. It'll be really interesting
+to learn exactly who this character is before
+
+161
+00:14:57,353 --> 00:15:03,515
+facing off against Tombstone. Basically Blockbuster
+looks like they kind of just ripped off Tombstone,
+
+162
+00:15:03,815 --> 00:15:08,416
+but instead of having like this fade haircut,
+it's long hair. Yeah. In this episode, we're
+
+163
+00:15:08,436 --> 00:15:14,494
+going to find out who would win in a battle
+between a mullet and a flat top. But to explain
+
+164
+00:15:14,514 --> 00:15:18,956
+the methodology behind our duels, let's go to
+our sentient dual simulator, Alfred Jarvis
+
+165
+00:15:19,036 --> 00:15:24,199
+9000. AJ9K, tell our listeners how you go about
+determining a winner in our dual matchups.
+
+166
+00:15:25,020 --> 00:15:29,322
+Yes, of course, sir. The way I determine a winner
+between the contestants is by running 1000
+
+167
+00:15:29,802 --> 00:15:35,486
+Monte Carlo simulations using the characters
+statistics. A Monte Carlo simulation is a probabilistic
+
+168
+00:15:35,526 --> 00:15:41,069
+model used to determine outcomes through random
+sampling. In this case, I randomized the statistics
+
+169
+00:15:41,109 --> 00:15:45,778
+along a normal distribution. as a way to simulate
+the many variables that can occur during battle.
+
+170
+00:15:46,179 --> 00:15:50,940
+The stat parameters are based on the official
+Marvel power grid from which the DC characters
+
+171
+00:15:50,980 --> 00:15:56,142
+statistics are extrapolated. Additional stat
+categories are included such as range, damage
+
+172
+00:15:56,182 --> 00:16:01,583
+potential, versatility and perception in order
+to create a more detailed and accurate simulation.
+
+173
+00:16:02,063 --> 00:16:06,865
+The results of the 1000 simulations provide
+a percentage of wins for each character. The
+
+174
+00:16:06,905 --> 00:16:11,350
+contestant with the higher percentage is declared
+the victor. as they have a higher probability
+
+175
+00:16:11,390 --> 00:16:17,232
+to win any given battle. In an equitable pairing,
+neither character should win 100% of the matches.
+
+176
+00:16:17,732 --> 00:16:22,213
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman, so
+
+177
+00:16:22,253 --> 00:16:26,134
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+178
+00:16:26,154 --> 00:16:31,716
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+179
+00:16:31,756 --> 00:16:36,117
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+180
+00:16:37,506 --> 00:16:42,168
+Thanks AJ9K! Before we run the simulations though,
+we like to break down each character's histories
+
+181
+00:16:42,188 --> 00:16:47,611
+and abilities before improvising a scenario
+on how we imagine one of the 1000 simulations
+
+182
+00:16:47,631 --> 00:16:52,334
+would play out beat for beat. And I believe
+it's my turn to go first with the Marvel characters
+
+183
+00:16:52,374 --> 00:16:58,978
+backstory, so let me go ahead and tell you guys
+all about Tombstone. Now Alonso Thompson Lincoln
+
+184
+00:16:59,138 --> 00:17:03,921
+was born in Harlem in New York City, where his
+journey into the criminal underworld began
+
+185
+00:17:04,021 --> 00:17:10,264
+at an early age. As an African-American albino,
+he stood out among his peers, becoming a target
+
+186
+00:17:10,304 --> 00:17:15,686
+for bullying. Rather than shrink from adversity,
+however, he turned it into his weapon, training
+
+187
+00:17:15,706 --> 00:17:20,768
+his body into an intimidating size and using
+his natural strength to extort his classmates.
+
+188
+00:17:21,269 --> 00:17:26,291
+The only person who ever showed him any kindness
+was Joseph Robbie Robertson, who would later
+
+189
+00:17:26,331 --> 00:17:31,373
+grow to work for the Daily Bugle newspaper.
+That kindness ended when Robertson, the editor
+
+190
+00:17:31,413 --> 00:17:37,251
+of the school paper, attempted to publish an
+expose on Lincoln's violent behavior. Feeling
+
+191
+00:17:37,271 --> 00:17:42,092
+betrayed, Lincoln silenced Robbie through intimidation,
+a moment that would set the stage for their
+
+192
+00:17:42,132 --> 00:17:47,914
+lifelong enmity. Lincoln dropped out of school
+and dove headfirst into a life of crime. His
+
+193
+00:17:47,954 --> 00:17:52,716
+imposing stature and ruthless demeanor made
+him a natural enforcer, and his reputation
+
+194
+00:17:52,736 --> 00:17:58,337
+for brutality only grew. As he climbed the ranks
+of organized crime, he sharpened his teeth
+
+195
+00:17:58,417 --> 00:18:04,629
+into points. and trained as a hand-to-hand combatant,
+specializing in strangulation. He soon earned
+
+196
+00:18:04,689 --> 00:18:10,793
+the moniker Tombstone, both for his pale complexion
+and the countless bodies he left in his wake.
+
+197
+00:18:11,213 --> 00:18:15,796
+Tombstone's rise to power led him to Philadelphia,
+where he crossed paths with Robbie Robertson
+
+198
+00:18:15,957 --> 00:18:21,800
+once again. Now a journalist, Robertson witnessed
+Tombstone murder a crime informant, but, paralyzed
+
+199
+00:18:21,841 --> 00:18:24,823
+by fear, chose to remain silent for decades.
+
+200
+00:18:29,526 --> 00:18:35,811
+working for the likes of Wilson Fisk, the Magia,
+and Hammerhead. Despite numerous arrests, Lincoln
+
+201
+00:18:35,931 --> 00:18:40,736
+always managed to evade conviction, often due
+to witness intimidation or the sheer terror
+
+202
+00:18:40,756 --> 00:18:45,580
+he instilled in those who might testify against
+him. Years later, Robertson, haunted by his
+
+203
+00:18:45,640 --> 00:18:52,046
+past inaction, decided to finally expose Tombstone.
+His confession led to Tombstone's first major
+
+204
+00:18:52,086 --> 00:18:57,202
+incarceration, but it also landed Robbie in
+prison for withholding evidence. Tombstone
+
+205
+00:18:57,222 --> 00:19:03,123
+arranged for his own transfer to the same prison,
+where he terrorized Robertson until the intervention
+
+206
+00:19:03,223 --> 00:19:09,165
+of a fellow inmate, Bruiser. When Bruiser attempted
+to protect Robbie, Tombstone brutally murdered
+
+207
+00:19:09,205 --> 00:19:13,966
+him. However, Robertson ultimately found the
+courage to stand up to his tormentor. When
+
+208
+00:19:13,986 --> 00:19:19,328
+they both escaped prison, he confronted Tombstone
+in battle, battling him with a pitchfork and
+
+209
+00:19:19,368 --> 00:19:24,874
+finally escaping his grip. Tombstone resurfaced
+in New York, working under Hammerhead. and
+
+210
+00:19:24,914 --> 00:19:30,116
+later attempting to assassinate Robertson himself.
+However, a fateful accident at an Oscorp chemical
+
+211
+00:19:30,156 --> 00:19:36,919
+plant changed him forever. Locked inside a chamber
+with an experimental gas called DIOX-3, Tombstone's
+
+212
+00:19:37,039 --> 00:19:43,381
+physiology mutated, giving him near invulnerable
+skin, increased strength, and enhanced speed.
+
+213
+00:19:43,781 --> 00:19:49,644
+While the process made him virtually indestructible,
+it also gave him a terrifying stone-like complexion,
+
+214
+00:19:50,084 --> 00:19:55,306
+cementing his legend as one of New York's deadliest
+criminals. With his new abilities, Tombstone
+
+215
+00:19:55,346 --> 00:20:00,107
+fought Spider-Man on multiple occasions, as
+well as other street level heroes like Daredevil
+
+216
+00:20:00,307 --> 00:20:05,669
+and Luke Cage. He even sought purpose with the
+Hand, engaging in an assassination competition
+
+217
+00:20:05,789 --> 00:20:11,230
+against Taskmaster, only to be thwarted by Daredevil
+and the Punisher. You can learn more about
+
+218
+00:20:11,290 --> 00:20:15,731
+Spider-Man in his duel against Blue Beetle,
+Daredevil in his duel against Nightwing, Luke
+
+219
+00:20:15,791 --> 00:20:20,793
+Cage in his duel against Thunder, Taskmaster
+in his duel against Prometheus, and Punisher
+
+220
+00:20:20,813 --> 00:20:25,542
+in his duel against Red Hood. Over the years,
+Lincoln would continuously attempt to carve
+
+221
+00:20:25,582 --> 00:20:30,044
+out his own empire. He was one of the many gang
+leaders present during the downfall of the
+
+222
+00:20:30,064 --> 00:20:35,825
+Kingpin attempting to claim a portion of Wilson
+Fisk's empire. Tombstone also formed alliances
+
+223
+00:20:35,865 --> 00:20:40,847
+with the Hood's criminal army, flashing with
+Mr. Negative in a bid for power. However, he
+
+224
+00:20:40,887 --> 00:20:46,649
+was repeatedly thwarted by Spider-Man and other
+heroes, leading to multiple incarcerations.
+
+225
+00:20:46,669 --> 00:20:51,728
+Tombstone's personal life remained complex.
+He had a daughter, Janice Lincoln, whom he
+
+226
+00:20:51,768 --> 00:20:56,612
+trained in crime and deception from an early
+age. Although he hoped she would use her cunning
+
+227
+00:20:56,652 --> 00:21:01,697
+for financial gain as a lawyer, she instead
+chose to become the supervillain Beetle, much
+
+228
+00:21:01,737 --> 00:21:06,422
+to his frustration. His relationship with Robbie
+Robertson also took an unexpected turn when
+
+229
+00:21:06,482 --> 00:21:11,787
+Janice began dating Robbie's son, Randy. This
+forced the two lifelong enemies into an uneasy
+
+230
+00:21:11,827 --> 00:21:17,031
+truce to avoid interfering in their children's
+lives. Tombstone's reputation as an unbreakable
+
+231
+00:21:17,071 --> 00:21:21,395
+enforcer was put to the test when he was shot
+at his daughter's wedding, revealing that his
+
+232
+00:21:21,455 --> 00:21:27,340
+bulletproof durability had diminished over time.
+This attack ignited a gang war as Tombstone's
+
+233
+00:21:27,380 --> 00:21:33,244
+rival saw his vulnerability as an opportunity
+to seize his criminal empire. Despite his injuries,
+
+234
+00:21:33,385 --> 00:21:38,369
+he remained active in the ongoing conflict,
+working to reclaim lost territory and eliminate
+
+235
+00:21:38,469 --> 00:21:43,493
+his challengers. His conflicts with Spider-Man
+persisted as the wall-crawler frequently disrupted
+
+236
+00:21:43,533 --> 00:21:48,207
+his operations. Tombstone was also targeted
+by law enforcement, including detective Yuri
+
+237
+00:21:48,227 --> 00:21:52,789
+Watanabe, the vigilante known as Wraith, who
+sought justice after he critically injured
+
+238
+00:21:52,909 --> 00:21:57,831
+one of her colleagues. Despite being temporarily
+imprisoned, Tombstone leveraged his deep-rooted
+
+239
+00:21:57,851 --> 00:22:03,813
+connections to manipulate the legal system and
+escape. Powers-wise, Tombstone's body was physically
+
+240
+00:22:03,833 --> 00:22:08,415
+enhanced through the DIOX-3 chemical, which
+grants him enough strength to lift around 6
+
+241
+00:22:08,455 --> 00:22:13,717
+tons, as well as give him increased durability
+with Stoneheart skin and increased resistance
+
+242
+00:22:13,757 --> 00:22:19,007
+to toxins. He's a skilled marksman with his
+commonly used twin pistols, and he's a highly
+
+243
+00:22:19,047 --> 00:22:24,148
+experienced street fighter. And that's Tombstone.
+So was it never explained why all of a sudden
+
+244
+00:22:24,188 --> 00:22:29,650
+he was able to be shot despite prior to that
+having like rock hard skin? Yeah, that was
+
+245
+00:22:29,690 --> 00:22:35,532
+during a time when his powers were temporarily
+diminished. But traditionally, the character
+
+246
+00:22:35,732 --> 00:22:41,013
+is known for having stone skin, and that's how
+he'll be portrayed in this match. OK, convenient.
+
+247
+00:22:42,702 --> 00:22:48,526
+Blockbuster doesn't normally carry guns. He's
+a weapon unto himself essentially. Although
+
+248
+00:22:48,546 --> 00:22:52,649
+you would think he would, it would make his
+life a lot easier. Let me get into Blockbuster's
+
+249
+00:22:52,669 --> 00:23:00,214
+history. Now Mark Desmond, a frail yet brilliant
+chemist, devoted himself to developing a serum
+
+250
+00:23:00,494 --> 00:23:05,978
+that would grant him immense physical power.
+His experiments proved successful, drastically
+
+251
+00:23:06,018 --> 00:23:12,310
+increasing his strength, durability, and size,
+but at the cost of his intellect. The transformation
+
+252
+00:23:12,350 --> 00:23:17,873
+left him barely capable of coherent speech,
+however, turning him into a mindless brute.
+
+253
+00:23:18,434 --> 00:23:23,757
+His older brother, Roland Desmond, who possessed
+a criminal mind and ambitions of wealth and
+
+254
+00:23:23,797 --> 00:23:29,040
+power, took advantage of Mark's new condition.
+Shielding their mother from the truth about
+
+255
+00:23:29,100 --> 00:23:35,264
+Mark's monstrous transformation, Roland manipulated
+his brother into committing crimes on his behalf.
+
+256
+00:23:35,665 --> 00:23:40,408
+Operating in Gotham City, It wasn't long before
+the Desmond brothers caught the attention of
+
+257
+00:23:40,468 --> 00:23:45,492
+Batman and Robin, who you can learn more about
+in their duels against Moon Knight and Daredevil,
+
+258
+00:23:45,553 --> 00:23:51,958
+respectively. Mark's rampages made him a formidable
+opponent, but Batman discovered a way to pacify
+
+259
+00:23:52,018 --> 00:23:58,323
+him. Years earlier, Bruce Wayne had rescued
+Mark from drowning in quicksand. When Batman
+
+260
+00:23:58,383 --> 00:24:03,948
+removed his cowl to reveal his face, the sight
+of Bruce triggered a memory in Mark of the
+
+261
+00:24:03,988 --> 00:24:09,492
+man who had once saved him. momentarily calming
+the beast and preventing further destruction.
+
+262
+00:24:09,972 --> 00:24:15,015
+After multiple encounters with Batman, Mark
+was ultimately set to the Alfred Foundation
+
+263
+00:24:15,055 --> 00:24:21,058
+for treatment, where scientists unsuccessfully
+attempted to find a way to reverse his condition.
+
+264
+00:24:21,518 --> 00:24:27,181
+Seeking solace, Mark began living a life of
+isolation, though his mind was easily influenced.
+
+265
+00:24:27,702 --> 00:24:33,705
+The Outsider, an enemy of Batman, manipulated
+Mark into fighting the Dark Knight again, but
+
+266
+00:24:33,745 --> 00:24:40,312
+Batman once more at- but Batman once more outwitted
+his foe. After his defeat, Mark was transferred
+
+267
+00:24:40,392 --> 00:24:46,394
+to Star Labs for further treatment. The scientists
+there attempted to use radiation therapy to
+
+268
+00:24:46,414 --> 00:24:52,416
+restore his original mind, but the experiment
+failed, seemingly killing him. Mark was buried
+
+269
+00:24:52,476 --> 00:24:58,419
+in Gotham Cemetery, though it was later revealed
+that his death was a sham. Mark had been revived
+
+270
+00:24:58,539 --> 00:25:04,321
+and left the city, eventually finding work in
+a West Virginia mining town. He lived there
+
+271
+00:25:04,401 --> 00:25:10,982
+in peace, until Batman tracked him down. Initially
+enraged at the sight of Batman, Mark's aggression
+
+272
+00:25:11,022 --> 00:25:16,427
+was neutralized when his fellow miners became
+trapped in a cave-in. Working together, Batman
+
+273
+00:25:16,447 --> 00:25:22,152
+and Mark rescued them, and Mark helped capture
+the men responsible for the disaster. Recognizing
+
+274
+00:25:22,172 --> 00:25:27,016
+that Mark had found a life where he could do
+no harm, Batman allowed him to stay in the
+
+275
+00:25:27,056 --> 00:25:32,640
+town rather than return him to Gotham. However,
+Mark would later be recruited into Amanda Waller's
+
+276
+00:25:32,821 --> 00:25:39,265
+suicide squad, and sent to fight the powerful
+entity known as Brimstone. During the battle,
+
+277
+00:25:39,686 --> 00:25:46,290
+Brimstone burned Mark alive, killing him. Following
+Mark's death, his brother Roland Desvend, now
+
+278
+00:25:46,350 --> 00:25:52,815
+suffering from a rare genetic disorder, sought
+a cure for his deteriorating condition. Turning
+
+279
+00:25:52,855 --> 00:25:59,880
+to experimental steroids similar to his brother's
+serum, Roland transformed into the second Blockbuster,
+
+280
+00:26:00,321 --> 00:26:06,759
+possessing immense strength. by suffering the
+same intellectual deterioration as Mark. However,
+
+281
+00:26:06,919 --> 00:26:12,700
+unlike his brother, Roland regained his intelligence
+after striking a deal with the demon Neuron,
+
+282
+00:26:13,060 --> 00:26:19,142
+who enhanced his mind in exchange for his soul.
+With his newfound intellect and strength, Roland
+
+283
+00:26:19,202 --> 00:26:24,824
+sought to carve out his own criminal empire.
+He moved to Bluthaven, a city riddled with
+
+284
+00:26:24,864 --> 00:26:31,065
+corruption, and systemically eliminated rival
+crime bosses to establish himself as its undisputed
+
+285
+00:26:31,165 --> 00:26:37,523
+ruler. His rise to power coincided with Nightwing's
+arrival in the city, and the two clashed with
+
+286
+00:26:37,583 --> 00:26:43,805
+Nightwing working to dismantle Roland's operations.
+After years of conflict, Roland's body began
+
+287
+00:26:43,845 --> 00:26:50,407
+to suffer from the strain of his immense bulk,
+developing albinism and a heart condition as
+
+288
+00:26:50,467 --> 00:26:56,668
+side effects of his treatments. Seeking a cure,
+he traveled to Gorilla City, where he underwent
+
+289
+00:26:56,768 --> 00:27:04,843
+a heart transplant to prolong his life. He launched
+a personal vendetta against Nightwing, systematically
+
+290
+00:27:04,903 --> 00:27:10,404
+targeting the people closest to him, orchestrating
+attacks against Nightwing's allies and loved
+
+291
+00:27:10,524 --> 00:27:15,886
+ones, and working to break him mentally and
+emotionally. During their final confrontation,
+
+292
+00:27:16,266 --> 00:27:22,288
+a new vigilante known as Tarantula intervened.
+With Nightwing exhausted and psychologically
+
+293
+00:27:22,308 --> 00:27:27,829
+shattered, she executed Blockbuster in front
+of him. The police investigation into Roland's
+
+294
+00:27:27,869 --> 00:27:33,264
+death was minimal, and his criminal empire quickly
+crumbled in the wake of his murder. However,
+
+295
+00:27:33,304 --> 00:27:38,887
+during the events of Blackest Night, Roland
+was resurrected as a Black Lantern and returned
+
+296
+00:27:38,947 --> 00:27:44,570
+to Gotham City alongside other undead villains.
+He and other Black Lanterns were ultimately
+
+297
+00:27:44,610 --> 00:27:50,213
+defeated, however, and his corpse returned to
+rest. After the Flash created a Flashpoint
+
+298
+00:27:50,273 --> 00:27:56,877
+event that reset DC's continuity, Mark Desmond
+was reintroduced as a test subject for a mysterious
+
+299
+00:27:56,917 --> 00:28:02,960
+doctor named Fane. Undergoing procedures meant
+to enhance his intelligence, Mark was exposed
+
+300
+00:28:03,040 --> 00:28:08,723
+to an overdose of a chemical compound that transformed
+him into a hulking brew. Rampaging through
+
+301
+00:28:08,763 --> 00:28:14,206
+Washington, D.C., he came into conflict with
+Hawk and Dove before being subdued by Batman
+
+302
+00:28:14,306 --> 00:28:18,949
+and Robin. You can learn more about Hawk and
+Dove in our Hawk and Dove versus Northstar
+
+303
+00:28:19,029 --> 00:28:25,293
+and Aurora episode. Later, Mark became a member
+of the Secret Society, an organization of supervillains
+
+304
+00:28:25,333 --> 00:28:30,551
+assembled by the Crime Syndicate. He was sent
+to battle Lex Luthor's Injustice League during
+
+305
+00:28:30,571 --> 00:28:36,393
+the crime syndicate's reign over Earth. Roland
+Desmond also resurfaced, also taking on the
+
+306
+00:28:36,433 --> 00:28:42,536
+mantle of Blockbuster, though his version maintained
+his intelligence without requiring a deal with
+
+307
+00:28:42,636 --> 00:28:48,218
+Neuron. He became the leader of Bloodhaven's
+criminal underworld, positioning himself as
+
+308
+00:28:48,318 --> 00:28:54,280
+Nightwing's primary adversary. After Dick Grayson
+publicly revealed himself to be a billionaire
+
+309
+00:28:54,641 --> 00:29:00,783
+and pledged to rebuild Bloodhaven, Roland saw
+him as a threat to his control. He attempted
+
+310
+00:29:00,803 --> 00:29:06,986
+to have Dick assassinated, but failed, as multiple
+superheroes came to Dick's aid. When Blockbuster
+
+311
+00:29:07,006 --> 00:29:12,548
+sought to personally kill Dick, he attacked
+the Haven Community Center, leading to a climactic
+
+312
+00:29:12,568 --> 00:29:18,010
+battle with Nightwing. During the fight, Roland
+knocked off Nightwing's mask and discovered
+
+313
+00:29:18,050 --> 00:29:24,193
+his secret identity. Despite this revelation,
+Nightwing defeated Roland in combat. His grip
+
+314
+00:29:24,273 --> 00:29:29,068
+over Blewd Haven soon collapsed, and his own
+henchmen turned against him when they learned
+
+315
+00:29:29,088 --> 00:29:33,872
+of Blockbuster's corrupt dealings with the private
+prison. Fleeing into the city's back alleys,
+
+316
+00:29:34,132 --> 00:29:39,076
+Blockbuster encountered the villain Heartless,
+who had been targeting powerful individuals
+
+317
+00:29:39,196 --> 00:29:45,481
+in Bloodhaven. Heartless killed Roland, taking
+his heart as a trophy, and unknowingly ensuring
+
+318
+00:29:45,741 --> 00:29:50,845
+that the seeker of Nightwing's identity died
+with him. Now powers-wise, both versions of
+
+319
+00:29:50,905 --> 00:29:57,186
+Blockbuster possess immense superhuman strength,
+durability, and stamina. capable of lifting
+
+320
+00:29:57,326 --> 00:30:03,268
+several tons. Blockbuster is also a formidable
+hand-to-hand combatant, and the Roland version,
+
+321
+00:30:03,448 --> 00:30:09,651
+which is the version I'm going with, is a criminal
+mastermind. That's Blockbuster. Okay, so I
+
+322
+00:30:09,671 --> 00:30:14,573
+mentioned earlier that I wasn't really too familiar
+with the character of Blockbuster, having never
+
+323
+00:30:14,673 --> 00:30:21,096
+read any stories with him, and after that bio,
+I'm kinda glad, because that was boring. Okay,
+
+324
+00:30:21,256 --> 00:30:27,144
+same with Tombstone, like who gives a shit?
+Tombstone at least looks cool. Okay, Blockbuster
+
+325
+00:30:27,325 --> 00:30:32,496
+is not a character that looks cool. Spoken like
+someone incapable of rocking a mullet. That's
+
+326
+00:30:32,536 --> 00:30:36,985
+exactly what a jealous non-mullet person would
+say. Fair enough.
+
+327
+00:30:43,918 --> 00:30:49,580
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+328
+00:30:49,600 --> 00:30:55,322
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+329
+00:30:55,382 --> 00:31:01,065
+Dynomic Podcast Network presents Konsole Kombat,
+where video game legends brawl every Monday.
+
+330
+00:31:03,182 --> 00:31:09,825
+Comic Book Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+331
+00:31:10,385 --> 00:31:16,308
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+332
+00:31:16,328 --> 00:31:22,031
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+333
+00:31:22,551 --> 00:31:26,833
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+334
+00:31:31,230 --> 00:31:34,992
+Now that we've got their histories and abilities
+out of the way, let's speculate on how one
+
+335
+00:31:35,012 --> 00:31:40,935
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not this speculation,
+
+336
+00:31:41,355 --> 00:31:46,678
+but it's fun to imagine how the fight could
+play out. AJ9K, what are the rules of our speculation?
+
+337
+00:31:47,579 --> 00:31:51,581
+Well, I should say there are no rules, other
+than the characters have no prior knowledge
+
+338
+00:31:51,621 --> 00:31:56,003
+of the other going into the fight. All they
+are aware of starting out is that the other
+
+339
+00:31:56,043 --> 00:32:00,870
+character is a threat that needs to be eliminated.
+For the speculation... The contestants will
+
+340
+00:32:00,890 --> 00:32:06,214
+begin approximately 50 meters apart in a nondescript
+environment that will have no bearing on the
+
+341
+00:32:06,254 --> 00:32:11,599
+match itself, as no environmental statistics
+are considered in my simulations. The contestants
+
+342
+00:32:11,639 --> 00:32:17,163
+must earn victory on their own merit. Alright
+then let's get into it! Blockbuster and Tombstone
+
+343
+00:32:17,203 --> 00:32:22,808
+meet on the battlefield. Who goes first? I'm
+gonna say Tombstone goes first because he has
+
+344
+00:32:22,968 --> 00:32:30,346
+guns. So with this like creepy ass smile, he's
+gonna brandish his two pistols. like spinning
+
+345
+00:32:30,386 --> 00:32:35,407
+them up and pointing them right at Blockbuster
+before smoking that fool like it ain't no thing.
+
+346
+00:32:35,427 --> 00:32:42,309
+I mean, that's like firing handguns at a charging
+rhino, though, because once Blockbuster sees
+
+347
+00:32:42,389 --> 00:32:46,790
+Tombstone brandish those guns, he's going to
+know that he needs to close the gap between
+
+348
+00:32:46,830 --> 00:32:52,232
+them. And he probably figures that his imposing
+size would probably make him like physically
+
+349
+00:32:52,292 --> 00:32:58,333
+superior to Tombstone. So Blockbuster, he's
+going to rush Tombstone and get tagged a few
+
+350
+00:32:58,373 --> 00:33:03,668
+times. with bullets, sure, but it's nothing
+serious enough to stop him from grabbing Tombstone's
+
+351
+00:33:03,708 --> 00:33:08,831
+guns and just hurling them towards the horizon.
+But wait, what makes you think Tombstone's
+
+352
+00:33:08,851 --> 00:33:14,834
+guns are that easy to grab? Like, Tombstone's
+known for his unbreakable grip, right? So like,
+
+353
+00:33:15,335 --> 00:33:20,637
+Blockbuster tries to snatch Tombstone's guns
+from his hands, but Tombstone's gonna use that
+
+354
+00:33:20,717 --> 00:33:25,660
+moment to straight up kick Blockbuster right
+in his Nard sack. And when Blockbuster drops
+
+355
+00:33:25,700 --> 00:33:30,411
+to his knees in front of him because of the
+pain... Tombstone is just gonna pistol whip
+
+356
+00:33:30,431 --> 00:33:37,955
+him right across the face. No dude, Blockbuster,
+he has balls of steel. So he just no sells
+
+357
+00:33:38,175 --> 00:33:43,698
+that cheap nut shot. And while he's grabbing
+Tombstone's guns, he's gonna crush the metal
+
+358
+00:33:43,798 --> 00:33:50,362
+barrels in his hands. Just rendering them useless.
+Before headbutting Tombstone right in the face,
+
+359
+00:33:50,902 --> 00:33:55,965
+knocking him backward. Headbutting Tombstone
+is like the last thing you want to do. Because
+
+360
+00:33:56,225 --> 00:34:01,488
+one... Tombstone's head is as durable as a stone,
+so it's gonna be like headbutting a rock. And
+
+361
+00:34:01,568 --> 00:34:09,674
+two, Tombstone has sharp ass teeth, so as Blockbuster's
+like reeling from giving himself a concussion,
+
+362
+00:34:10,114 --> 00:34:14,036
+Tombstone's gonna bite one of Blockbuster's
+eyes just straight out of his head, and then
+
+363
+00:34:14,056 --> 00:34:20,681
+he's gonna spit it out, just grinning real creepy
+like a shark. Ah! Ah, damn. Well, Blockbuster,
+
+364
+00:34:20,801 --> 00:34:27,157
+he's pissed. And that's when he's gonna grab
+Tombstone by the legs and just start ragdolling
+
+365
+00:34:27,197 --> 00:34:32,082
+him, slamming him into the ground repeatedly,
+like what the Hulk did to Loki in Avengers.
+
+366
+00:34:32,482 --> 00:34:38,547
+Right, but again, Tombstone's rock hard, so
+this doesn't faze him too much. Yeah, dude.
+
+367
+00:34:38,867 --> 00:34:45,052
+I don't wanna know that. His skin is as hard
+as a rock, is what I'm saying. So, you know,
+
+368
+00:34:45,092 --> 00:34:50,017
+he's durable enough to handle this attack without
+being too hurt, and he's just gonna reach into
+
+369
+00:34:50,077 --> 00:34:56,123
+one of his boots. and pull out a switchblade
+that he uses to reach up and shank Blockbuster
+
+370
+00:34:56,183 --> 00:35:01,225
+right in the gut with. And that's when Blockbuster's
+just gonna yeet Tombstone, like, tossing him
+
+371
+00:35:01,725 --> 00:35:06,746
+like half a block away. And he's gonna pull
+out the knife, which, thanks for the weapon,
+
+372
+00:35:07,406 --> 00:35:13,808
+and he's gonna charge Tombstone and just slam
+right into him knife first. Right. Okay, but
+
+373
+00:35:13,828 --> 00:35:19,366
+the knife is gonna break. Blockbuster is not
+a smart villain. Your mom's not a smart villain.
+
+374
+00:35:19,506 --> 00:35:25,208
+And that's when Tombstone knees Blockbuster
+in the gut, you know, making him bend forward,
+
+375
+00:35:25,228 --> 00:35:29,689
+and then Tombstone's gonna drop his elbow onto
+his head, and Blockbuster's gonna fall to the
+
+376
+00:35:29,729 --> 00:35:34,871
+ground. And for his finishing move, Tombstone's
+gonna curb stomp the guy, like not in the figurative
+
+377
+00:35:34,911 --> 00:35:40,653
+sense, but in the very literal sense, Tombstone's
+gonna curb stomp Blockbuster, cave his face
+
+378
+00:35:40,713 --> 00:35:47,015
+in, and Tombstone wins the match. No, because
+when Blockbuster is on the ground and he sees
+
+379
+00:35:47,035 --> 00:35:51,277
+that he's about to get his head kicked in, he's
+going to quickly sweep Tombstone's leg out
+
+380
+00:35:51,297 --> 00:35:55,579
+from under him, and when he hits the ground,
+Blockbuster is just going to shove his fingers
+
+381
+00:35:56,059 --> 00:36:01,101
+right through Tombstone's eyes, through his
+skull, into his brain, killing him, because
+
+382
+00:36:01,201 --> 00:36:05,883
+I'm guessing his eyeballs aren't rock hard.
+Actually, that's, yeah, you would be correct
+
+383
+00:36:06,103 --> 00:36:10,805
+in that assumption. But like, Blockbuster is
+missing an eye, so he's going an eye for an
+
+384
+00:36:10,905 --> 00:36:15,785
+eye here. but Ni for Ni leaves the whole world
+blind. Yeah, Blockbuster probably does not
+
+385
+00:36:15,805 --> 00:36:22,690
+give two shits about Gandhi. But we'll go ahead
+and leave the match there. Either Tombstone
+
+386
+00:36:22,810 --> 00:36:27,734
+curb stomps Blockbuster or Blockbuster jams
+his fingers into Tombstone's brain through
+
+387
+00:36:27,775 --> 00:36:32,699
+his eyes. Two violent mobster characters, two
+violent ways to end this match. But let's see
+
+388
+00:36:32,739 --> 00:36:39,764
+which one happens by running the stats. AJ9K,
+hit it! Inputting data, running calculations,
+
+389
+00:36:40,245 --> 00:36:46,942
+processing results. Simulations complete. Yeah,
+that was pretty gruesome for sure. I figured
+
+390
+00:36:46,962 --> 00:36:50,604
+this would be pretty visceral because these
+characters are pretty straightforward. You
+
+391
+00:36:50,624 --> 00:36:54,467
+know, they're brawlers. Yeah, they're not going
+to hold back either. The stats were pretty
+
+392
+00:36:54,487 --> 00:36:59,771
+interesting. Blockbuster is faster than Tombstone,
+even though Tombstone is pretty quick. Blockbuster,
+
+393
+00:36:59,991 --> 00:37:05,555
+like you said, is like a rhino and can run really
+fast. Blockbuster is also smarter than Tombstone.
+
+394
+00:37:05,996 --> 00:37:12,459
+Yeah, at least the version I went with is...
+The Mark version is super not smart, but the
+
+395
+00:37:12,499 --> 00:37:18,301
+Roland version actually is very much so. We
+did, however, give the edge to Tombstone in
+
+396
+00:37:18,342 --> 00:37:23,724
+regards to durability, saying he's slightly
+more durable than Blockbuster, but also in
+
+397
+00:37:23,764 --> 00:37:28,025
+regards to versatility, which actually wasn't
+too surprising to me, considering Tombstone
+
+398
+00:37:28,386 --> 00:37:33,147
+will bring weapons into fights. Yeah. And he
+also has his sharp teeth, which he used to
+
+399
+00:37:33,188 --> 00:37:38,730
+like bite things off. Right. He's a biter. Right.
+But also because of his weapons. we gave the
+
+400
+00:37:38,830 --> 00:37:44,334
+range edge to Tombstone as well. Yeah, otherwise,
+these characters were pretty much identical.
+
+401
+00:37:44,494 --> 00:37:48,677
+You know, they had the same evasiveness. We
+said they're about the same strength level
+
+402
+00:37:48,877 --> 00:37:52,680
+and had about the same fighting skill. So with
+all that said, Jonathan, who do you think is
+
+403
+00:37:52,720 --> 00:37:59,624
+winning this match? I'm hoping it's Blockbuster,
+although Instagram does not agree with me for
+
+404
+00:37:59,644 --> 00:38:04,828
+the first time in a long time. The Marvel character
+is actually coming out ahead with Tombstone
+
+405
+00:38:04,868 --> 00:38:10,623
+currently sitting at 51 percent. of the vote.
+Well, I'm glad to see that our Marvel Instagram
+
+406
+00:38:10,643 --> 00:38:15,805
+fans are starting to show up for these polls,
+but that's still a little close guys. Like
+
+407
+00:38:16,105 --> 00:38:20,067
+we really want to be dominating these polls.
+So if you're a Marvel fan, be sure to follow
+
+408
+00:38:20,107 --> 00:38:24,289
+us on Instagram and then vote whenever Jonathan
+gets these polls up, you know, at the very
+
+409
+00:38:24,309 --> 00:38:29,071
+last minute on Sundays when we record. Okay,
+that's fair. But let's get the final results
+
+410
+00:38:29,091 --> 00:38:35,633
+of the match. AJ 9K, the results please. Hey,
+you are, sir. Okay, the winner of the duel.
+
+411
+00:38:36,362 --> 00:38:46,046
+between Blockbuster and Tombstone is... Tombstone!
+Gosh dang it! It wasn't a total wipeout, I
+
+412
+00:38:46,066 --> 00:38:52,809
+think the match was fairly close. Out of 1000
+simulated battles, Tombstone won 592, whereas
+
+413
+00:38:52,849 --> 00:39:00,452
+Blockbuster won 408. In the end, the determining
+factors largely were range and durability considering
+
+414
+00:39:00,512 --> 00:39:08,765
+Tombstone is rock hard. Ugh! What I just I'm
+just gonna keep saying that now I don't like
+
+415
+00:39:08,845 --> 00:39:13,908
+it And I don't like the results of this match
+either. I gotta say well you could blame Miggy
+
+416
+00:39:13,928 --> 00:39:19,952
+for that one. I think yeah, Miggy What are you
+doing? You're a DC fan. Come on. I'll say that
+
+417
+00:39:20,012 --> 00:39:24,575
+thematically It was a good pitch for a dual
+matchup But yeah, the Marvel fans on the discord
+
+418
+00:39:24,595 --> 00:39:30,379
+should all thank Miggy for his contribution
+to Marvel's win rate this week Miggy just stay
+
+419
+00:39:30,399 --> 00:39:36,428
+off discord for a week just stay off of it But
+that does it for this duel, AJ9K help close
+
+420
+00:39:36,448 --> 00:39:43,128
+this out. Thanks for listening to Dynamic Dual.
+Visit the show's website at dynamicdual.com
+
+421
+00:39:43,968 --> 00:39:49,672
+and follow us on Instagram at dynamicdualpodcast.
+You can support the show on Patreon at patreon.com
+
+422
+00:39:50,092 --> 00:39:54,774
+slash dynamicdual and joining a tier that works
+for you, or by rating and reviewing Dynamic
+
+423
+00:39:54,814 --> 00:40:00,478
+Dual on Apple Podcasts, Spotify, Podchaser or
+on our website. Don't forget to listen to the
+
+424
+00:40:00,518 --> 00:40:05,741
+other shows in the DynaMic Podcast Network,
+including Max Destruction, Senjow World and
+
+425
+00:40:05,781 --> 00:40:12,780
+Konsole Kombat. Our next episode is going to
+be another duel episode in lead up to the Captain
+
+426
+00:40:12,820 --> 00:40:17,363
+America Brave New World review that we'll be
+doing in a few weeks. We're going to find out
+
+427
+00:40:17,423 --> 00:40:23,627
+who would win in a fight between Red Hulk and
+General Wade Eiling, also known as the General.
+
+428
+00:40:24,027 --> 00:40:27,689
+But that does it for this episode. We want to
+give a big thanks to our executive producers,
+
+429
+00:40:27,749 --> 00:40:32,471
+Ken Johnson. John Swarovski, Zachary Hepburn,
+Dustin Balcom, Miggy Mathen-Geehan, Brandon
+
+430
+00:40:32,511 --> 00:40:37,754
+Estregard, Nathaniel Wagner, Levi Yaiten, Austin
+Wieselowski, AJ Dunkerley, Scott Camacho, Gil
+
+431
+00:40:37,774 --> 00:40:43,477
+Camacho, Adam Spees, Dean Molesky, Devin Davis,
+Joseph Kirstein, Josh Leiner, Mike Williams,
+
+432
+00:40:43,737 --> 00:40:48,559
+and Oscar Galvez for helping to make this podcast
+possible. We'll talk to you guys next week.
+
+433
+00:40:49,099 --> 00:40:53,962
+Up, up, and away, true believers. Hold the phone.
+I thought this was going to be a fight between
+
+434
+00:40:53,982 --> 00:40:56,863
+a video store and frozen pizza. I want my money
+back.
+
