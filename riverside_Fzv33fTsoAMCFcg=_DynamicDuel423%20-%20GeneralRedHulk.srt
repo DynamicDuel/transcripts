@@ -1,0 +1,3099 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a DynaMic Network podcast.
+
+2
+00:00:24,590 --> 00:00:28,353
+Hi and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+3
+00:00:28,713 --> 00:00:33,358
+and debate the superiority between Marvel and
+DC by comparing their characters in stat-based
+
+4
+00:00:33,418 --> 00:00:38,723
+battle simulations. I'm Marvelous Joe. And I'm
+his twin brother Johnny DC. And in this episode
+
+5
+00:00:38,763 --> 00:00:44,208
+we are doing another duel, this time it's the
+general against Red Hulk. And this of course
+
+6
+00:00:44,248 --> 00:00:49,333
+is in lead up to our review of Captain America
+Brave New World, which comes out in theaters
+
+7
+00:00:49,373 --> 00:00:54,341
+this Friday. I got my tickets, I'm gonna go
+see it on Valentine's Day and it's gonna be
+
+8
+00:00:54,641 --> 00:00:59,886
+a Valentine's date and it's gonna be the best
+date with my wife. Nothing like working on
+
+9
+00:00:59,926 --> 00:01:04,150
+Valentine's Day. Reviewing is not work to me,
+it's a passion, it's a passion, so I don't
+
+10
+00:01:04,190 --> 00:01:09,435
+consider it work. Now it's totally work for
+me to sit through a Marvel movie. Good. Okay.
+
+11
+00:01:09,455 --> 00:01:15,280
+I'm glad, I don't know. But we're gonna run
+the stats on these two characters later on
+
+12
+00:01:15,320 --> 00:01:19,083
+in the episode and find out who will win. Before
+that, we're gonna break down the latest comic
+
+13
+00:01:19,103 --> 00:01:24,507
+book movie news to come out this past week of
+which we got two trailers from Marvel. The
+
+14
+00:01:24,547 --> 00:01:29,251
+first one being Fantastic Four First Steps,
+the first official teaser, and we also got
+
+15
+00:01:29,431 --> 00:01:34,655
+a big game trailer for the Thunderbolts. I totally
+thought we were gonna get a big game trailer
+
+16
+00:01:34,975 --> 00:01:40,580
+for Superman. It's the whole reason I watched
+the frickin' Super Bowl this year, and it did
+
+17
+00:01:40,600 --> 00:01:45,264
+not come up. Yeah, DC sucks too much. As always
+guys, we list our segment times in our episode
+
+18
+00:01:45,304 --> 00:01:49,127
+description, so feel free to check out the show
+notes if you want to skip ahead to a particular
+
+19
+00:01:49,167 --> 00:01:54,653
+topic. Our artificially intelligent Duel simulator
+AJ9K has a quick message for our listeners,
+
+20
+00:01:55,013 --> 00:02:01,686
+so listen up. Why hello there, do you want even
+more from this podcast? Then become a part
+
+21
+00:02:01,726 --> 00:02:06,471
+of the dynamic Duel community on Patreon, where
+you can choose from three tiers. The dynamic
+
+22
+00:02:06,511 --> 00:02:10,955
+two-oh tier gives you access to our Discord
+chat server. The fantastic four tier gives
+
+23
+00:02:10,975 --> 00:02:15,620
+you two bonus episodes each month, and the X-Force
+tier makes you an executive producer of this
+
+24
+00:02:15,640 --> 00:02:21,020
+show. Lastly, The Diner Mike podcast network
+tier lets you create your own podcast using
+
+25
+00:02:21,060 --> 00:02:25,623
+this Monte Carlo simulator. Johnny and Joe will
+help you develop your show, provide graphic
+
+26
+00:02:25,643 --> 00:02:30,986
+support and consultation, and get you simulation
+results. Pitch the twins your ideas via email
+
+27
+00:02:31,026 --> 00:02:37,251
+at dynamicduelpodcast at gmail.com. Check it
+out at patreon.com slash dynamicduel. Pip pip
+
+28
+00:02:37,291 --> 00:02:42,874
+cheerio. Thanks, AG9K, and thanks to everyone
+who supports the podcast. Guys, be sure to
+
+29
+00:02:42,914 --> 00:02:47,017
+tune in to the other shows on the Dynamite Podcast
+Network this week, including Max Destruction,
+
+30
+00:02:47,417 --> 00:02:51,400
+which pits your favorite action heroes from
+film and television against each other. They're
+
+31
+00:02:51,440 --> 00:02:57,584
+continuing their MCU vs. DCEU theme this month,
+and hosts Scotty and Gilly are going to find
+
+32
+00:02:57,624 --> 00:03:04,549
+out who would win in a fight between the MCU's
+Thor and the DCEU's Black Adam. On the Send
+
+33
+00:03:04,569 --> 00:03:09,653
+Your World podcast, host Zachary Hepburn speculates
+on fights between fan favorite anime and manga
+
+34
+00:03:09,693 --> 00:03:15,223
+characters. Zach is on a brief season break
+right now, but he has a huge episode in the
+
+35
+00:03:15,263 --> 00:03:21,444
+works that he's waiting on us for the simulation
+results. But it's gonna be an epic 10 versus
+
+36
+00:03:21,484 --> 00:03:27,406
+10, Team Naruto versus Team Bleach matchup.
+On the Console Combat podcast hosts John and
+
+37
+00:03:27,426 --> 00:03:32,047
+Dean simulate battles between popular video
+game characters. In yesterday's episode, they
+
+38
+00:03:32,087 --> 00:03:38,469
+reviewed the 2001 film Lara Croft's Tomb Raider
+starring Angelina Jolie. Visit dynamicpodcasts.com
+
+39
+00:03:38,769 --> 00:03:43,426
+or click the link in our show notes. to listen
+to all of the shows in the DynaMic Podcast
+
+40
+00:03:43,526 --> 00:03:50,689
+Network. But with that out of the way, quick
+to the No Prize! A No Prize is an award Marvel
+
+41
+00:03:50,709 --> 00:03:56,110
+used to give out to fans. Our version, the Dynamic
+Duel No Prize, is a digital award that we post
+
+42
+00:03:56,150 --> 00:04:01,172
+on Instagram for the person we feel gave the
+best answer to our question of the week. Last
+
+43
+00:04:01,232 --> 00:04:07,438
+week, we asked, what is a cancelled Marvel or
+DC television series that you most wish would
+
+44
+00:04:07,458 --> 00:04:12,142
+have gotten at least one other season. And this
+question stemmed from the news that season
+
+45
+00:04:12,242 --> 00:04:18,307
+two of The Sandman will be its final season.
+We got five answers for this question. So let's
+
+46
+00:04:18,327 --> 00:04:23,212
+go ahead and run down our three honorable mentions
+and the no prize winner. Our first honorable
+
+47
+00:04:23,312 --> 00:04:31,499
+mention goes to Scott Camacho, who said. One's,
+two's here. If I have to pick out a show to
+
+48
+00:04:31,539 --> 00:04:36,871
+go off, it would be the Titans TV show. I liked
+the direction it was going. It looked like
+
+49
+00:04:36,911 --> 00:04:42,336
+it was leading, probably introducing more characters
+such as Blue Beetle, Damien Wayne. Loved the
+
+50
+00:04:42,356 --> 00:04:49,241
+introduction of Superboy, almost becoming a
+live-action Young Justice. Man, another show
+
+51
+00:04:49,261 --> 00:04:55,446
+that I would have loved. Titans, Young Justice.
+Yeah, with each subsequent season of Titans,
+
+52
+00:04:55,486 --> 00:04:59,650
+I feel like the show is getting better and better.
+It was initially hard for me to get on board
+
+53
+00:04:59,690 --> 00:05:07,997
+with the tone of the series, Wonder Girl like
+Superboy. The show is just damn fun to watch.
+
+54
+00:05:08,397 --> 00:05:12,381
+And I definitely agree that they ended it too
+soon. Yeah, that was one of the series that
+
+55
+00:05:12,421 --> 00:05:18,186
+originated on the DC Universe app, if I remember
+correctly, before moving over to HBO Max, which
+
+56
+00:05:18,226 --> 00:05:22,730
+later became Max. The other show that debuted
+on that platform was Doom Patrol, which I thought
+
+57
+00:05:22,770 --> 00:05:27,475
+was a better show, but both of those series
+ended up quite solid, I think, by the end of
+
+58
+00:05:27,495 --> 00:05:31,630
+their run. Yeah, absolutely. And in regards
+to Young Justice, That's definitely a show
+
+59
+00:05:31,650 --> 00:05:36,872
+that also needs to come back for another season.
+It's definitely top tier DC animated fare.
+
+60
+00:05:37,252 --> 00:05:44,576
+Great answer Scotty. Our next honorable mention
+goes to Zozo who said, So a Marvel TV series
+
+61
+00:05:44,596 --> 00:05:50,459
+that I think deserves another season would be
+the spectacular Spider-Man. Me personally,
+
+62
+00:05:51,019 --> 00:05:55,601
+I love that show. I grew up watching it. It's
+the reason why I fell in love with Spider-Man.
+
+63
+00:05:56,661 --> 00:06:02,228
+Um. We were missing a bunch of Spider-Man's
+rogues. We didn't get Hobgoblin, Kingpin, Scorpion,
+
+64
+00:06:02,288 --> 00:06:06,770
+Carnage. And if we got another season, then
+we could definitely fit those characters in.
+
+65
+00:06:06,790 --> 00:06:12,132
+All right, that's all I gotta say. Thank you.
+Yeah, much like Young Justice, the spectacular
+
+66
+00:06:12,172 --> 00:06:17,434
+Spider-Man animated series has a whole lot of
+fans. It's widely considered probably the best
+
+67
+00:06:17,674 --> 00:06:21,396
+Spider-Man animated series that's come out so
+far, not counting your friendly neighborhood
+
+68
+00:06:21,416 --> 00:06:25,674
+Spider-Man, which is still being released right
+now. So time will tell on that one. But yeah,
+
+69
+00:06:25,694 --> 00:06:29,477
+there was a lot of potential with Spectacular
+Spider-Man, and it's a shame that it ended
+
+70
+00:06:29,557 --> 00:06:33,801
+when it didn't. Myself, I was always a bigger
+fan of the 90's Spider-Man cartoon, but that's
+
+71
+00:06:33,821 --> 00:06:40,827
+because I'm like an old ass millennial, and
+I really wish that Disney would put out a Spider-Man
+
+72
+00:06:40,887 --> 00:06:45,792
+98 television series to compliment their X-Men
+97 show. I don't think that'll happen, but
+
+73
+00:06:45,812 --> 00:06:50,956
+in many ways, the 90's Spider-Man show walked
+so that Spectacular Spider-Man could run, and
+
+74
+00:06:51,137 --> 00:06:56,240
+it was fantastic, yeah. I never actually saw
+a single episode of the Spectacular Spider-Man.
+
+75
+00:06:56,540 --> 00:07:02,583
+Well, then you can just stop talking. I was
+just going to say that from the stills that
+
+76
+00:07:02,623 --> 00:07:07,606
+I've seen from it though, it reminds me a lot
+of the Batman animated series that came around
+
+77
+00:07:07,887 --> 00:07:12,569
+like just after Batman Begins. Oh, the Batman.
+Yeah. Yeah, there were some great cartoons
+
+78
+00:07:12,589 --> 00:07:18,553
+that came out in the 2000s for sure. Great answer
+Zozo. Our final honorable mention goes to Travis
+
+79
+00:07:18,593 --> 00:07:23,439
+Herndon, who said... What's up, dynamic dudes?
+Travis here. Shout out to my evil twins. So
+
+80
+00:07:23,539 --> 00:07:29,762
+my answer had to be the MTV animated Spider-Man
+series. Hands down, that means another season
+
+81
+00:07:29,882 --> 00:07:35,724
+to finish that story arc. Peter giving up being
+Spider-Man, evil psychic twins that cause him
+
+82
+00:07:35,744 --> 00:07:40,827
+to hurt his friend are still at large. That
+means a conclusion. That story arc needs conclusion.
+
+83
+00:07:40,947 --> 00:07:46,229
+Everybody will say spectacular Spider-Man or
+something. No, MTV's Spider-Man needs a bigger
+
+84
+00:07:46,249 --> 00:07:53,220
+conclusion than spectacular. And speaking of
+2000s animated series, the MTV Spider-Man cartoon
+
+85
+00:07:53,340 --> 00:08:00,623
+came off the back of the first Sam Raimi Spider-Man
+movie. And the MTV Spider-Man cartoon was completely
+
+86
+00:08:00,683 --> 00:08:05,525
+computer animated. The 3D character models were
+not bad looking, but everything moved stiff
+
+87
+00:08:05,565 --> 00:08:10,847
+as hell in hindsight. Back at the time, I thought
+it was incredible. Like Spider-Man looked really
+
+88
+00:08:10,887 --> 00:08:14,929
+fluid, swinging through the city and stuff like
+that. It was a pretty stylized show that I
+
+89
+00:08:15,229 --> 00:08:18,990
+have a lot of nostalgia for, but I... Bet you
+upon revisiting it, it wouldn't hold up quite
+
+90
+00:08:19,030 --> 00:08:23,852
+as well. Yeah, I loved the cast of that series.
+Neil Patrick Harris as Peter Parker is still
+
+91
+00:08:23,892 --> 00:08:27,614
+one of my top favorite voice performances for
+the character to date. Plus you got some cool
+
+92
+00:08:27,634 --> 00:08:32,316
+cameos and like Michael Clarke Duncan as Kingpin,
+which was fun. Yeah, it was cool that they
+
+93
+00:08:32,336 --> 00:08:38,238
+were kind of establishing a continuity of sorts
+between this 3D animated cartoon and the films
+
+94
+00:08:38,258 --> 00:08:42,580
+that were coming out at the time, right? Things
+were starting to cross over in a way on TV
+
+95
+00:08:42,600 --> 00:08:47,078
+that they weren't quite able to do in the films
+themselves. Really cool show. Thanks for the
+
+96
+00:08:47,118 --> 00:08:51,439
+answer, Travis. And we want to give a quick
+shout out to Matt Estes, who gave the answer
+
+97
+00:08:51,539 --> 00:08:57,521
+of Inhumans. And while I would agree that an
+Inhumans show would deserve many seasons, I
+
+98
+00:08:57,561 --> 00:09:01,342
+think the Inhumans show is kind of fucked from
+the get-go. I don't know if I want more seasons
+
+99
+00:09:01,382 --> 00:09:05,143
+of that. I would rather just have them reboot
+it. Yeah, the Inhumans deserve a show, just
+
+100
+00:09:05,223 --> 00:09:11,725
+not that version of them. But the winner of
+this week's snow prize is Lee Tapscott. Who
+
+101
+00:09:11,765 --> 00:09:18,209
+said? Lee Tapscott calling in about. which canceled
+Marvel or DC TV series, I wish got another
+
+102
+00:09:18,289 --> 00:09:27,238
+season. 2016's NBC's Powerless, based in the
+DC universe. This was about an insurance company
+
+103
+00:09:27,258 --> 00:09:33,684
+that specialize in products to protect bystanders
+from collateral damage of superheroes and supervillains.
+
+104
+00:09:34,044 --> 00:09:38,688
+This was kind of like Marvel's damage control.
+They only got one season, but it would have
+
+105
+00:09:38,708 --> 00:09:44,184
+been great to see more. Well, to my recollection,
+they started out as a sort of insurance company,
+
+106
+00:09:44,384 --> 00:09:48,947
+but the show got retooled to be more of like
+an engineering firm or something where they
+
+107
+00:09:48,967 --> 00:09:54,931
+invent products. Yeah, it was products for people
+who live in a world where superheroes destroy
+
+108
+00:09:54,971 --> 00:09:59,794
+buildings and stuff like that. The series definitely
+went through a bit of development hell, but
+
+109
+00:09:59,855 --> 00:10:06,279
+the final product was hilarious. I owned the
+first season, which was never fully released
+
+110
+00:10:06,379 --> 00:10:10,650
+on television. There are a few episodes that
+the public never got the chance to see. And
+
+111
+00:10:10,690 --> 00:10:14,733
+I gotta say, I would love to have seen more
+episodes from this series. I would have loved
+
+112
+00:10:14,773 --> 00:10:19,838
+to have seen more takes on various superheroes,
+maybe obscure ones throughout the DC universe.
+
+113
+00:10:19,958 --> 00:10:23,741
+Yeah, I think they had the Crimson Fox show
+up on the show. Right, yeah, and the Alpha
+
+114
+00:10:23,761 --> 00:10:28,905
+Centurion. The cast was incredible. It was a
+phenomenal ensemble that included Vanessa Hudgens
+
+115
+00:10:29,306 --> 00:10:33,950
+and Ellen Tudyk and Danny Pooty. I still watch
+some of the episodes from this series from
+
+116
+00:10:33,990 --> 00:10:38,153
+time to time whenever I need a good laugh. And
+yeah, I would have loved more seasons of it.
+
+117
+00:10:38,662 --> 00:10:44,345
+It was kind of like Parks and Rec set in the
+world of DC, right? It didn't have that same
+
+118
+00:10:44,865 --> 00:10:49,748
+documentary style feel to it. But I would argue
+it was just as funny personally. Yeah, I think
+
+119
+00:10:49,988 --> 00:10:55,591
+the show as a concept kind of got shed on because
+superhero fans don't want comedies about their
+
+120
+00:10:55,631 --> 00:11:01,455
+superheroes. But I disagree. I think this type
+of show would have thrived in today's environment
+
+121
+00:11:01,475 --> 00:11:05,737
+where superhero fatigue is kind of setting in
+because Powerless gave us something unique
+
+122
+00:11:05,757 --> 00:11:09,749
+and different at the time. Yeah, I didn't think
+the show was gonna be nearly as good as it
+
+123
+00:11:09,789 --> 00:11:13,773
+was, or I didn't think I was gonna enjoy it
+as much as I did, I should say. If you guys
+
+124
+00:11:13,793 --> 00:11:18,037
+have never checked it out, I definitely recommend
+watching Powerless. So great answer, Lee! You
+
+125
+00:11:18,058 --> 00:11:22,282
+win this week's No Prize. If you're the listener,
+want a shot at winning your own No Prize. Stay
+
+126
+00:11:22,302 --> 00:11:26,567
+tuned to later on in this episode when we'll
+be asking another question of the week. And
+
+127
+00:11:26,587 --> 00:11:28,669
+now that that's done, on to the news!
+
+128
+00:11:34,190 --> 00:11:39,233
+All right, this past week we got two trailers
+from Marvel Studios, the first one being the
+
+129
+00:11:39,393 --> 00:11:45,337
+official teaser for Fantastic Four First Steps.
+Now we've got brief glimpses of the film from
+
+130
+00:11:45,397 --> 00:11:50,741
+last year during San Diego Comic-Con, but the
+release of this teaser was the general public's
+
+131
+00:11:50,781 --> 00:11:56,825
+first glimpse at the film, and I think it probably
+surprised a lot of people who weren't already
+
+132
+00:11:56,865 --> 00:12:01,908
+familiar with the creative direction that the
+film was taking. The film takes place in an
+
+133
+00:12:02,028 --> 00:12:08,387
+alternate universe, everything looks very dated.
+It probably doesn't look like how a lot of
+
+134
+00:12:08,407 --> 00:12:12,768
+people wanted the Fantastic Four movie to look
+where the costumes look like how John Krasinski's
+
+135
+00:12:12,788 --> 00:12:17,629
+did in Multiverse of Madness. You know, here
+the costumes are light blue with the white
+
+136
+00:12:17,649 --> 00:12:22,551
+trim and everything like that. So I don't know,
+I think there was just a misalignment of expectations,
+
+137
+00:12:22,591 --> 00:12:27,992
+but I gotta say that I really do like the bold
+creative choices that Marvel is taking with
+
+138
+00:12:28,012 --> 00:12:33,587
+this franchise because it really harkens back
+to the origins of the characters, you know,
+
+139
+00:12:33,747 --> 00:12:39,292
+as they were presented in the 1960s by Stan
+Lee and Jack Kirby. I think it's an interesting
+
+140
+00:12:39,612 --> 00:12:44,096
+angle to take the characters and it's something
+new and unique in a genre that we're not seeing
+
+141
+00:12:44,116 --> 00:12:51,622
+a whole lot of new stuff from. So to see this
+60s retro futuristic style, I think is an apt
+
+142
+00:12:51,882 --> 00:12:55,925
+approach for the Fantastic Four. Like if you
+look at the design of the Baxter building,
+
+143
+00:12:56,418 --> 00:13:00,019
+That's pretty cool as hell. I really like the
+look of the fantastic car too. Even though
+
+144
+00:13:00,139 --> 00:13:03,339
+it drives on the street, which is weird, I'm
+assuming that at some point the wheels are
+
+145
+00:13:03,359 --> 00:13:07,481
+gonna lift up and we're gonna see it fly. Yeah,
+I like the design of Herbie. I really dig the
+
+146
+00:13:07,521 --> 00:13:13,302
+aesthetic of this movie so far. Herbie was interesting.
+I like his like data tape eyeballs. Right,
+
+147
+00:13:13,382 --> 00:13:17,063
+yeah. Just the design of him looks really cool.
+I gotta say, I wasn't a huge fan of the scene
+
+148
+00:13:17,103 --> 00:13:22,285
+that he was in with the thing. No. They spent,
+I swear to God, like 45 seconds on just the
+
+149
+00:13:22,305 --> 00:13:27,914
+thing and Herbie talking about cooking. And
+I feel like that was only an Easter egg for
+
+150
+00:13:27,934 --> 00:13:32,936
+fans of the Bear television series. Like they
+wouldn't have done that if it wasn't for Cousin
+
+151
+00:13:32,996 --> 00:13:38,357
+from that show played by Eben Moss Bachrock
+also playing the thing in this movie. I liked
+
+152
+00:13:38,397 --> 00:13:41,838
+Herbie in that scene. I did not like really
+anything about the thing, though. I thought
+
+153
+00:13:41,858 --> 00:13:46,640
+the CG was bad. I thought his voice is bad.
+I guess his look is the most comic accurate
+
+154
+00:13:46,720 --> 00:13:52,241
+look of the thing with a huge beetle brow. But
+everything else about him was not great, in
+
+155
+00:13:52,281 --> 00:13:56,907
+my opinion. His voice did throw me off, I do
+find myself wishing that he wasn't wearing
+
+156
+00:13:56,947 --> 00:14:01,309
+that bulky sweater. It almost seems like he's
+a little bit puffy and non-threatening, you
+
+157
+00:14:01,329 --> 00:14:06,131
+know? And maybe that's the point, because we
+know that traditionally the Fantastic Four
+
+158
+00:14:06,211 --> 00:14:12,593
+are beloved by the public and regarded as celebrity
+heroes. But yeah, I do think that this design
+
+159
+00:14:12,693 --> 00:14:18,756
+of the Thing is the most comic accurate. That
+being said, the comic accurate depiction of
+
+160
+00:14:18,796 --> 00:14:23,530
+the Thing character does look a little bit more
+cartoony in this regard, I think. You almost
+
+161
+00:14:23,550 --> 00:14:27,373
+think that maybe there could have been something
+that felt grounded and believable and real
+
+162
+00:14:27,413 --> 00:14:33,458
+and tangible within this world. Nah, fans would
+have complained if you did that. Maybe. I probably
+
+163
+00:14:33,498 --> 00:14:38,162
+would have complained. Yeah, what am I talking
+about? I will consider myself a fan of this
+
+164
+00:14:38,202 --> 00:14:42,545
+version of the thing. I'm just hoping that they
+really deepen the voice and yeah, I can't wait
+
+165
+00:14:42,565 --> 00:14:47,049
+to see the polished final look of the CGI effect.
+You know what I think they went wrong with?
+
+166
+00:14:47,449 --> 00:14:55,051
+You know how they made Mark Ruffalo's Hulk look
+like Mark Ruffalo? Yeah. Michael Chiklis looked
+
+167
+00:14:55,111 --> 00:14:59,694
+like his version of the thing in that movie,
+but I don't see anything of Eben Masbachraak
+
+168
+00:14:59,774 --> 00:15:04,377
+in this thing. You might be right. Like, if
+you listen to our reviews of the Hulk movies,
+
+169
+00:15:04,397 --> 00:15:10,101
+we conjectured that the reason that Mark Ruffalo's
+Hulk is the most successful version of that
+
+170
+00:15:10,162 --> 00:15:15,745
+CG character is because you can see the performance
+of Mark Ruffalo within the animation. Same
+
+171
+00:15:15,785 --> 00:15:20,829
+thing with Josh Brolin and the character of
+Thanos. Hopefully, we'll be able to see more
+
+172
+00:15:20,889 --> 00:15:27,146
+of Eben's performance within this design of
+the thing. I never really liked his casting,
+
+173
+00:15:27,206 --> 00:15:32,711
+but I do have to say Vanessa Kirby, at least,
+as Sue Storm, seems to be absolute perfection.
+
+174
+00:15:33,172 --> 00:15:39,177
+Dude, and the effect that they give her invisibility
+powers with that slight like rainbow halo at
+
+175
+00:15:39,197 --> 00:15:43,761
+the edge, almost like a bubble, like a soap
+bubble, that was really cool. I really liked
+
+176
+00:15:43,781 --> 00:15:48,525
+that effect. Cause it feels like she's actually
+bending light in that regard. Right, exactly.
+
+177
+00:15:49,022 --> 00:15:52,564
+I really like the fire effects on the human
+torch. Those have always been pretty great
+
+178
+00:15:52,644 --> 00:15:57,206
+in all the franchises that we've seen of the
+Fantastic Four. We didn't see any of Mr. Fantastic's
+
+179
+00:15:57,226 --> 00:16:00,809
+stretching powers though, which I thought was
+a little bit of a disappointment, largely because
+
+180
+00:16:00,929 --> 00:16:05,631
+his power set and how he uses his powers has
+always been really interesting to me. Yeah,
+
+181
+00:16:05,671 --> 00:16:09,214
+seeing Mr. Fantastic's power would have been
+cool. It would have been also cool to see some
+
+182
+00:16:09,254 --> 00:16:13,416
+of Johnny's trademark humor. I agree, yeah,
+he didn't get any lines in this trailer at
+
+183
+00:16:13,436 --> 00:16:17,042
+all, which I thought was kind of weird. We just
+got to see him like... I don't know, lounging
+
+184
+00:16:17,082 --> 00:16:20,844
+around the house wearing an astronaut's outfit
+or something, I don't know. And then falling
+
+185
+00:16:20,884 --> 00:16:25,005
+back to Earth in like a slow-mo scene. I was
+like, all right. Yeah, there were some interesting
+
+186
+00:16:25,045 --> 00:16:30,428
+shots toward the end of the teaser where we
+see Galactus' arrival, where, you know, in
+
+187
+00:16:30,448 --> 00:16:35,350
+the comic books, as the Silver Surfer came in,
+the Earth Devourer's arrival was heralded by
+
+188
+00:16:35,810 --> 00:16:40,932
+rocks and fire in the sky and things like that.
+So they're being real true to the comic books
+
+189
+00:16:40,972 --> 00:16:45,222
+when we see all of these like asteroids kind
+of come again. And we get a shot of the big
+
+190
+00:16:45,242 --> 00:16:49,945
+man himself from behind, really. We see his
+shadow looming over Manhattan, and then we
+
+191
+00:16:49,965 --> 00:16:54,627
+see the back of Galactus' head, but it's so
+refreshing to actually see the character in
+
+192
+00:16:54,667 --> 00:17:00,330
+live action as he is depicted in the comic books
+and not just this space cloud that they did
+
+193
+00:17:00,410 --> 00:17:04,973
+in the old franchise. What do you think of the
+final outfits for the Fantastic Four? They're
+
+194
+00:17:04,993 --> 00:17:09,458
+revealed in this pretty cool shot where... The
+team is on a sound stage, kind of reminiscent
+
+195
+00:17:09,478 --> 00:17:13,859
+of like the Beatles on the Ed Sullivan show.
+Again, these guys are treated like celebrities
+
+196
+00:17:14,139 --> 00:17:18,080
+by the general public. But the costumes, as
+I mentioned earlier, they don't look that modern,
+
+197
+00:17:18,120 --> 00:17:22,462
+right? How do you feel about that? Well, we've
+seen art of these costumes before, so I wasn't
+
+198
+00:17:22,682 --> 00:17:28,143
+totally surprised. I don't love them. I also
+don't love that they're not all uniform. Like
+
+199
+00:17:28,163 --> 00:17:33,505
+they each have slight differences to them. Yeah,
+like Ben and Johnny have the white shoulders
+
+200
+00:17:33,525 --> 00:17:39,403
+and the arms. And Sue has like the white collar
+area. whereas Reed's is mostly blue. Yeah,
+
+201
+00:17:39,423 --> 00:17:44,687
+I don't love them, but I guess they're in keeping
+with the whole style of this world. The movie
+
+202
+00:17:44,707 --> 00:17:49,750
+comes out in theaters on July 25th, and you
+can bet your sweet ass will be reviewing it
+
+203
+00:17:49,990 --> 00:17:54,633
+right here on this podcast. It'll be work, but
+yeah, we'll review it. I actually can't wait
+
+204
+00:17:54,653 --> 00:17:59,657
+to see it. I was a really big fan of this teaser.
+But speaking of previews that I'm a big fan
+
+205
+00:17:59,717 --> 00:18:05,501
+of, let's talk about the Thunderbolts big game
+trailer. Now we've seen a few teasers and trailers
+
+206
+00:18:05,521 --> 00:18:10,436
+come out for this movie. which debuts in just
+a few months here, but I think this is the
+
+207
+00:18:10,496 --> 00:18:15,059
+first time we got a clear indication of who
+the villain is gonna be and what that is gonna
+
+208
+00:18:15,079 --> 00:18:20,983
+look like. Previously, we all assumed that the
+Sentry was going to be a member of the Thunderbolts
+
+209
+00:18:21,023 --> 00:18:26,407
+team, but here, we clearly see that he is the
+main villain. And maybe it's just his void
+
+210
+00:18:26,467 --> 00:18:32,331
+persona that is the villain, but we do see this
+shadowy figure with a long flowing cape flying
+
+211
+00:18:32,371 --> 00:18:37,414
+above Manhattan and essentially covering the
+city in shadow, in his darkness. and turning
+
+212
+00:18:37,454 --> 00:18:41,778
+people into shadows. Yeah, yeah, that was pretty
+interesting. They're taking a very light and
+
+213
+00:18:41,818 --> 00:18:46,462
+dark visual approach to the Sentry's power set,
+which makes sense because that's how it's depicted
+
+214
+00:18:46,482 --> 00:18:51,686
+in the comic books. But seeing it in live action
+is always interesting when you see a character's
+
+215
+00:18:51,866 --> 00:18:58,632
+abilities for the first time like that. My guess
+is that maybe like Bob Reynolds Sentry joins
+
+216
+00:18:58,832 --> 00:19:03,656
+the Thunderbolts, but he goes comatose or something
+and the void takes over. If you guys wanna
+
+217
+00:19:03,676 --> 00:19:08,977
+learn more about the Sentry, and his dark alter
+ego, The Void, definitely listen to our General
+
+218
+00:19:09,017 --> 00:19:14,442
+Zod versus Sentry Duel episode. But with the
+Sentry being the bad guy of this film, it begs
+
+219
+00:19:14,482 --> 00:19:20,888
+the question, how the hell is this ragtag group
+of super soldiers and spies going to defeat
+
+220
+00:19:21,308 --> 00:19:25,372
+this guy who's essentially Superman? He has
+the power of a thousand exploding suns, right?
+
+221
+00:19:25,392 --> 00:19:29,715
+He's one of Marvel's most powerful characters.
+What chance does this team have? Yeah, Yelena
+
+222
+00:19:29,775 --> 00:19:33,938
+literally says, all we do is punch and shoot.
+And she's not wrong, but I mean, they also
+
+223
+00:19:33,958 --> 00:19:38,380
+have a few super soldiers on there. I like it
+with someone who goes intangible. And someone
+
+224
+00:19:38,580 --> 00:19:43,542
+who can mimic the physical abilities of other
+in Taskmaster. Although, seems like Taskmaster
+
+225
+00:19:43,702 --> 00:19:48,404
+dies like really early in the movie because
+the character is almost non-existent in any
+
+226
+00:19:48,444 --> 00:19:52,346
+of the marketing material. Right, yeah, I would
+not be surprised if the character dies. The
+
+227
+00:19:52,366 --> 00:19:56,887
+more and more I see about this film, the more
+I liken it to the Suicide Squad. Well, I think
+
+228
+00:19:56,907 --> 00:20:03,835
+the analogs have been drawn a lot, but the concept
+of a Suicide Squad Superman movie is quite
+
+229
+00:20:03,875 --> 00:20:09,459
+intriguing. I think it's really cool to see
+Bucky take charge and stand up and lead this
+
+230
+00:20:09,499 --> 00:20:14,962
+team toward doing what's right and protecting
+the city in a world where the Avengers are
+
+231
+00:20:14,982 --> 00:20:19,005
+not really a thing anymore. Yeah absolutely
+I really liked that actually for a character
+
+232
+00:20:19,045 --> 00:20:23,568
+who could have been Captain America in the MCU
+and has been in the comics it was nice to see
+
+233
+00:20:23,608 --> 00:20:29,052
+him take a lead role in a team dynamic like
+this. I do feel like we'll need to start a
+
+234
+00:20:29,132 --> 00:20:34,827
+Deadpool on these who's gonna come out alive
+after this film. Like I'm not so sure about
+
+235
+00:20:34,887 --> 00:20:40,049
+Red Guardian, not so sure about Ghost, not so
+sure about US Agent. Oh yeah, didn't we do
+
+236
+00:20:40,129 --> 00:20:44,871
+a Deadpool for the Suicide Squad film on Discord?
+Yeah, I think we did, but I don't think anyone
+
+237
+00:20:44,911 --> 00:20:50,413
+was close to determining who actually survived.
+Well, there are fewer characters in this movie,
+
+238
+00:20:50,473 --> 00:20:54,595
+so we'll bring the Duel pullback and see who
+gets it right. Thunderbolts comes out in theaters
+
+239
+00:20:54,675 --> 00:21:00,197
+May 2nd, and you can bet your sweet ass we're
+gonna be reviewing it on this podcast. Again,
+
+240
+00:21:00,697 --> 00:21:07,269
+work. Yay. I'm also really looking forward to
+the Thunderbolts. We got two great trailers
+
+241
+00:21:07,309 --> 00:21:12,055
+here. I'm super excited and thrilled with the
+state of Marvel Studios. And that brings us
+
+242
+00:21:12,095 --> 00:21:13,337
+to our question of the week.
+
+243
+00:21:17,910 --> 00:21:23,575
+Between the Fantastic Four teaser and the Thunderbolts
+big game trailer, which got you more hyped
+
+244
+00:21:24,156 --> 00:21:29,321
+and why? It's time to be a DC fan this week.
+I'll say that. I don't know, I liked the Superman
+
+245
+00:21:29,361 --> 00:21:35,868
+trailer more than either of these personally,
+but uh... You just wrong! No! You! But disregarding
+
+246
+00:21:35,908 --> 00:21:39,852
+the Superman trailer, we want to know which
+of these two trailers got you most pumped to
+
+247
+00:21:39,892 --> 00:21:44,808
+see that respective film. Record your answer
+at dynamicduel.com by clicking on the red microphone
+
+248
+00:21:44,848 --> 00:21:48,290
+button in the bottom right hand corner of the
+screen, which will prompt you to leave us a
+
+249
+00:21:48,371 --> 00:21:52,894
+voicemail. Your message could be up to 30 seconds
+long, and don't forget to leave your name in
+
+250
+00:21:52,914 --> 00:21:57,317
+case we include you on the podcast. We'll pick
+our favorite answer and award that person a
+
+251
+00:21:57,377 --> 00:22:02,921
+Dynamic Duel No Prize that we'll post to Instagram.
+Be sure to answer before February 15th.
+
+252
+00:22:09,922 --> 00:22:14,027
+But that does it for all the news for this episode,
+so let's go ahead and move into our main event
+
+253
+00:22:14,187 --> 00:22:20,276
+where we find out who would win in a fight between
+the Justice League villain, the General, and
+
+254
+00:22:20,396 --> 00:22:24,021
+the Hulk villain, turned anti-hero, Red Hulk.
+
+255
+00:22:39,106 --> 00:22:45,928
+Alright, the General versus Red Hulk. We have
+two big hulking brutes here going head to head
+
+256
+00:22:45,948 --> 00:22:51,851
+against each other, who coincidentally enough
+used to be generals before they became rampaging
+
+257
+00:22:51,891 --> 00:22:58,313
+monsters. Yeah, one of them is still literally
+named the General. Which is quite a lack of
+
+258
+00:22:58,594 --> 00:23:05,296
+imagination, I think, on behalf of DC. Oh, okay.
+I'm sorry, what is Red Hulk's name again? Red
+
+259
+00:23:05,536 --> 00:23:12,439
+Hulk? Alright, so one other thing these characters
+have in common is that they both have horrible
+
+260
+00:23:12,619 --> 00:23:17,761
+names. I don't know which one's worse, honestly.
+But they're both pretty cool characters. The
+
+261
+00:23:17,801 --> 00:23:23,164
+General, as I understand it, is a Captain Adam
+villain who moved on to being a Justice League
+
+262
+00:23:23,184 --> 00:23:28,586
+villain. Sort of, I guess you could say that.
+Yeah, the General's name is General Wade Eilink,
+
+263
+00:23:28,646 --> 00:23:34,669
+and he's actually appeared in quite a few DC
+projects. Clancy Brown played him in the Arrowverse,
+
+264
+00:23:34,829 --> 00:23:38,490
+and he did a really good job with that. But
+as you'll see in the character's backstory,
+
+265
+00:23:38,651 --> 00:23:43,433
+later on he becomes a character very much like
+the Hulk. So in a way, Red Hulk is kind of
+
+266
+00:23:43,453 --> 00:23:50,177
+like a rip-off. Taking this major general character
+in comics and turning them into the Hulk? Hmm.
+
+267
+00:23:51,438 --> 00:23:56,100
+So what you're saying is that the general is
+a rip-off of the Hulk is all I heard. What?
+
+268
+00:23:56,660 --> 00:24:01,363
+You heard me. I'm saying Red Hulk is a rip-off
+of General. No, Red Hulk is a rip-off of the
+
+269
+00:24:01,403 --> 00:24:06,634
+Hulk as well. But that's fine, because he's
+called Red Hulk. Oh, he's an homage. That's
+
+270
+00:24:06,654 --> 00:24:11,075
+your argument? Yes, yes. Can't wait to break
+down these characters and get into their backstories
+
+271
+00:24:11,095 --> 00:24:16,177
+and powers, but to explain the methodology behind
+our duels, let's go to our sentient duel simulator,
+
+272
+00:24:16,577 --> 00:24:22,239
+Alfred Jarvis 9000. AJ9K, tell our listeners
+how you go about determining a winner in our
+
+273
+00:24:22,259 --> 00:24:27,200
+duel matchups. Yes, of course, sir. The way
+I determine a winner between the contestants
+
+274
+00:24:27,240 --> 00:24:32,642
+is by running 1000 Monte Carlo simulations using
+the characters' statistics. The Monte Carlo
+
+275
+00:24:32,662 --> 00:24:36,966
+simulation is a probabilistic model used to
+determine outcomes through random sampling.
+
+276
+00:24:37,406 --> 00:24:42,290
+In this case, I randomised the statistics along
+a normal distribution as a way to simulate
+
+277
+00:24:42,330 --> 00:24:46,914
+the many variables that can occur during battle.
+The stat parameters are based on the official
+
+278
+00:24:46,974 --> 00:24:52,279
+Marvel power grid from which the DC characters'
+statistics are extrapolated. Additional stat
+
+279
+00:24:52,319 --> 00:24:57,843
+categories are included such as range, damage
+potential, versatility and perception in order
+
+280
+00:24:57,883 --> 00:25:03,273
+to create a more detailed and accurate simulation.
+The results of the 1000 simulations provide
+
+281
+00:25:03,293 --> 00:25:07,679
+a percentage of wins for each character. The
+contestant with the higher percentage is declared
+
+282
+00:25:07,699 --> 00:25:13,006
+the victor, as they have a higher probability
+to win any given battle. In an equitable pairing,
+
+283
+00:25:13,386 --> 00:25:18,159
+neither character should win 100% of the matches.
+The comic book stories have shown that there's
+
+284
+00:25:18,319 --> 00:25:23,123
+even a way for Batman to defeat Superman, so
+the confidence rate of my method falls in line
+
+285
+00:25:23,143 --> 00:25:27,747
+with the precedents that have been established
+in the source material. My mathematical simulations
+
+286
+00:25:27,767 --> 00:25:32,932
+are without subjectivity or bias. Feats are
+not the sole consideration, nor are fan votes
+
+287
+00:25:32,972 --> 00:25:38,957
+tabulated for determination of the winner. Thanks
+AJ9K! Before we run the simulations though,
+
+288
+00:25:38,977 --> 00:25:43,480
+we like to break down each character's histories
+and abilities before improvising a scenario
+
+289
+00:25:43,540 --> 00:25:49,265
+on how we imagine one of the 1000 simulations
+would play out beat for beat. And it's my turn
+
+290
+00:25:49,285 --> 00:25:54,828
+to go first with a DC character's backstory,
+so let me tell you all about the general. Now,
+
+291
+00:25:54,868 --> 00:26:00,012
+Wade Iolink was a four-star general in the United
+States Army, a brilliant strategist known for
+
+292
+00:26:00,052 --> 00:26:05,356
+his ruthless approach to warfare and his willingness
+to sacrifice anything for the greater good.
+
+293
+00:26:05,756 --> 00:26:10,979
+He oversaw the top secret Captain Atom project,
+an experiment designed to create the ultimate
+
+294
+00:26:11,019 --> 00:26:17,118
+living weapon under the US military's control.
+To achieve his goal, Eilink selected Nathaniel
+
+295
+00:26:17,258 --> 00:26:22,760
+Adam, an Air Force officer falsely convicted
+of a crime and sentenced to death. Eilink offered
+
+296
+00:26:22,860 --> 00:26:28,941
+Adam a choice, submit to an extremely dangerous
+experiment in exchange for a presidential pardon
+
+297
+00:26:29,302 --> 00:26:34,823
+or face execution. With no real alternative,
+Adam agreed, and you can learn more about Captain
+
+298
+00:26:34,883 --> 00:26:41,365
+Adam in our Captain Adam vs. Wonder Man episode.
+The experiment, designed to bond alien silver
+
+299
+00:26:41,405 --> 00:26:48,088
+shield metal to a human subject, exposed Adam
+to a nuclear detonation. The resulting explosion
+
+300
+00:26:48,188 --> 00:26:54,331
+hurled Adam nearly 20 years into the future,
+during which time Eilink covered up the project's
+
+301
+00:26:54,371 --> 00:26:59,834
+failure and continued his efforts to create
+a super-powered soldier. His next experiment
+
+302
+00:26:59,914 --> 00:27:06,937
+led to the creation of Major Force, a metahuman
+under direct military control. Meanwhile, Eiling
+
+303
+00:27:07,077 --> 00:27:12,380
+married Adam's wife and raised his children
+as his own. When Adam finally reappeared in
+
+304
+00:27:12,400 --> 00:27:18,003
+the present as Captain Adam, Eiling manipulated
+him into serving the government using the threat
+
+305
+00:27:18,043 --> 00:27:23,445
+of keeping him from his family as leverage.
+Eiling remained a key figure in the military's
+
+306
+00:27:23,525 --> 00:27:31,349
+metahuman operations, overseeing various secret
+classified missions. However, his influence
+
+307
+00:27:31,389 --> 00:27:37,453
+suffered a critical blow when Captain Adam defied
+orders, revealing military corruption and exposing
+
+308
+00:27:37,493 --> 00:27:43,818
+the US government's unethical experiments. Disgraced
+but undeterred, Eilink remained determined
+
+309
+00:27:44,138 --> 00:27:49,802
+to maintain control over America's metahuman
+assets. Eilink's career was cut short when
+
+310
+00:27:49,842 --> 00:27:56,686
+he was diagnosed with an inoperable brain tumor,
+a fate he refused to accept. Unwilling to succumb
+
+311
+00:27:56,706 --> 00:28:02,630
+to mortality, he devised a new plan, one that
+would grant him both immortality and unstoppable
+
+312
+00:28:02,690 --> 00:28:09,455
+power. His solution lay in Shaggy Man, an artificial
+life form designed by Professor Andrew Zagarian.
+
+313
+00:28:09,835 --> 00:28:15,639
+The Shaggy Man was originally created as an
+indestructible synthetic organism, constructed
+
+314
+00:28:15,679 --> 00:28:21,983
+from a newly engineered substance known as plastalloy
+and enhanced with salamander DNA to allow for
+
+315
+00:28:22,063 --> 00:28:27,787
+rapid regeneration. However, the experiment
+went horribly wrong. The Shaggy Man grew into
+
+316
+00:28:28,448 --> 00:28:34,612
+powerful mindless brute, immune to injury, and
+capable of instantly regenerating from any
+
+317
+00:28:34,672 --> 00:28:40,056
+damage. The creature rampaged uncontrollably,
+battling the Justice League multiple times
+
+318
+00:28:40,356 --> 00:28:45,900
+before being captured and imprisoned, only to
+return each time due to its immortality and
+
+319
+00:28:45,980 --> 00:28:52,584
+self-repairing physiology. Eiling saw the Shaggy
+Man as key to his survival and deployed a military
+
+320
+00:28:52,624 --> 00:28:57,466
+task force to recover the creature's inert body
+from the depths of the Pacific Ocean where
+
+321
+00:28:57,506 --> 00:29:02,548
+he was last contained. Despite interference
+from Green Lantern and Aquaman, the military
+
+322
+00:29:02,588 --> 00:29:08,011
+succeeded in retrieving the body, allowing Eiling
+to transfer his mind into the Shaggy Man's
+
+323
+00:29:08,071 --> 00:29:14,254
+body and abandon his cancer-ridden form. Now
+reborn in an indestructible body, he shaved
+
+324
+00:29:14,314 --> 00:29:19,536
+off the Shaggy Man's fur and renamed himself
+the General. He launched an all-out assault
+
+325
+00:29:19,577 --> 00:29:25,140
+on the Justice League, deploying the Ultramarine
+Corps, a unit of genetically enhanced metahuman
+
+326
+00:29:25,180 --> 00:29:30,803
+soldiers under his command. Though the General
+proved nearly unstoppable, the League recognized
+
+327
+00:29:30,843 --> 00:29:35,807
+his tactical shortcomings in his new monstrous
+form and exploited his diminished strategic
+
+328
+00:29:35,887 --> 00:29:41,170
+focus, trapping him on a barren rock in the
+solar system's asteroid belt between Mars and
+
+329
+00:29:41,210 --> 00:29:46,433
+Jupiter. Eiling remained trapped on the asteroid
+for months before being rescued by the Queen
+
+330
+00:29:46,493 --> 00:29:51,468
+Bee. who you can learn more about in our Queen
+Bee vs Spider-Roman episode. She recruited
+
+331
+00:29:51,508 --> 00:29:56,311
+him into Lex Luthor's Injustice Gang, and the
+General once again clashed with the Justice
+
+332
+00:29:56,351 --> 00:30:02,074
+League, wielding massive ballistic weapons alongside
+his immense physical power. During the battle,
+
+333
+00:30:02,315 --> 00:30:07,758
+he attempted to activate a White Martian warship's
+weapons to destroy Earth, but was stopped by
+
+334
+00:30:07,858 --> 00:30:12,821
+Orion and his war dog, Sturmer, who tackled
+him through an airlock, banishing him into
+
+335
+00:30:12,841 --> 00:30:17,846
+the Phantom Zone. and you can learn more about
+Orion in his duel against Silver Surfer. The
+
+336
+00:30:17,886 --> 00:30:22,893
+details of his escape from the Phantom Zone
+remain unknown, but he resurfaced once again,
+
+337
+00:30:23,073 --> 00:30:27,522
+becoming a high-ranking member of the Seeker
+Society of Super-Villains. He fought alongside
+
+338
+00:30:27,642 --> 00:30:32,244
+other metahuman criminals during the Battle
+of Metropolis, one of the first major offenses
+
+339
+00:30:32,404 --> 00:30:38,007
+in the Society's war against the heroes. Following
+the Society's defeat, however, Eiland was captured
+
+340
+00:30:38,047 --> 00:30:44,430
+and forced into the Suicide Squad, a gove team
+of criminals sent on high-risk missions, which
+
+341
+00:30:44,470 --> 00:30:49,392
+you can learn more about in our Suicide Squad
+vs. Defenders team duel. Though nearly impossible
+
+342
+00:30:49,432 --> 00:30:55,175
+to control, the General's regenerative abilities
+made him an invaluable asset to Amanda Waller.
+
+343
+00:30:56,676 --> 00:31:01,737
+betrayed the squad, revealing their mission
+to their intended target. In response, Rig
+
+344
+00:31:01,757 --> 00:31:07,940
+Flag activated a bomb implanted in Eiling's
+brain, detonating it. Though his body regenerated,
+
+345
+00:31:08,040 --> 00:31:13,942
+the explosion impaired his memory, leaving him
+with partial amnesia. Even after his betrayal,
+
+346
+00:31:14,222 --> 00:31:18,824
+the General remained a member of the Suicide
+Squad, participating in missions that led to
+
+347
+00:31:18,884 --> 00:31:24,419
+events where Earth's worst criminals were exiled
+to an alien planet. Following the Flashpoint
+
+348
+00:31:24,459 --> 00:31:30,629
+event that reset DC's continuity, Wade Eiland
+was reintroduced as a high-ranking US military
+
+349
+00:31:30,670 --> 00:31:36,499
+officer overseeing better human operations.
+This version of Eiland retained his role as
+
+350
+00:31:36,519 --> 00:31:42,287
+a manipulative strategist. leveraging Captain
+Adam's abilities for military purposes. Unlike
+
+351
+00:31:42,307 --> 00:31:47,450
+his previous incarnation, however, this version
+did not transfer his mind into Shaggy Man's
+
+352
+00:31:47,490 --> 00:31:53,192
+body. Instead, he focused on controlling and
+weaponizing metahumans using major force to
+
+353
+00:31:53,232 --> 00:31:58,175
+combat Firestorm and other rogue superhumans.
+He remained a constant adversary to Captain
+
+354
+00:31:58,255 --> 00:32:03,497
+Adam, seeing him as a dangerous asset that needed
+to be contained and controlled. Elements of
+
+355
+00:32:03,557 --> 00:32:08,840
+Eiling's original history were reintroduced,
+though he remained primarily a military antagonist
+
+356
+00:32:08,980 --> 00:32:13,983
+rather than a physical combatant in Shaggy Man's
+body. Though with this duel focusing solely
+
+357
+00:32:14,103 --> 00:32:18,706
+as his incarnation as the General, that's the
+version we're going with. Powers-wise, the
+
+358
+00:32:18,767 --> 00:32:23,830
+General possesses superhuman strength, durability,
+and stamina, allowing him to battle the likes
+
+359
+00:32:23,870 --> 00:32:29,334
+of Superman, Wonder Woman, and Martian Manhunter
+simultaneously. His indestructible synthetic
+
+360
+00:32:29,374 --> 00:32:33,056
+physiology, derived from the Shaggy Man's plast
+alloy body and
+
+361
+00:32:38,500 --> 00:32:45,104
+almost instantly, even regrowing severed limbs.
+He is immortal, requiring no food, water, rest,
+
+362
+00:32:45,304 --> 00:32:50,748
+or oxygen, and his body is highly adaptable,
+making him resistant to most forms of attack.
+
+363
+00:32:51,048 --> 00:32:56,852
+He's surprisingly agile and fast and his enhanced
+senses allow him to detect adrenaline in his
+
+364
+00:32:56,912 --> 00:33:03,016
+enemy's sweat, making ambushes nearly impossible.
+However, his intellect began deteriorating
+
+365
+00:33:03,216 --> 00:33:07,619
+after transferring into the Shaggy Man's body,
+reducing his tactical focus and making him
+
+366
+00:33:07,659 --> 00:33:13,761
+more That's the General. Well jokes on you,
+the Red Hulk doesn't sweat because all of his
+
+367
+00:33:13,781 --> 00:33:19,302
+sweat immediately evaporates. No, but he could
+smell the evaporated sweat. Okay, okay. I've
+
+368
+00:33:19,342 --> 00:33:23,683
+always liked the General as a character. He
+was always a special kind of bastard who you
+
+369
+00:33:23,723 --> 00:33:29,184
+love to hate solely for the fact that not only
+did he send Nathaniel Adam to die in the experiment,
+
+370
+00:33:29,244 --> 00:33:34,005
+but then he also married his wife and became
+a father to his kids. Yeah. Like, it's rare
+
+371
+00:33:34,025 --> 00:33:39,749
+you see that kind of assholery in comics where
+the antagonist makes things so personal. Right.
+
+372
+00:33:40,149 --> 00:33:44,892
+Yeah, the general actually has a pretty special
+place in my heart as a DC fan because when
+
+373
+00:33:44,912 --> 00:33:50,596
+I first really started getting into reading
+DC comics, it was during the Justice League
+
+374
+00:33:50,696 --> 00:33:55,980
+Grant Morrison run where Lex Luthor's and Justice
+Gang of the general and Queen B and Prometheus
+
+375
+00:33:56,340 --> 00:34:00,503
+were the major villains. I think he's a really
+cool character. Who would win in a fight between
+
+376
+00:34:00,743 --> 00:34:05,907
+the general and Doomsday? Because they seem
+almost identical. I would argue Doomsday just
+
+377
+00:34:05,947 --> 00:34:11,952
+because of the sharp edges that he has. He would
+basically smash the general into a pulp. Now
+
+378
+00:34:11,992 --> 00:34:17,717
+the general will always regenerate, but the
+general isn't smashing Doomsday into a pulp.
+
+379
+00:34:18,038 --> 00:34:22,161
+So I would give the edge to Doomsday. That makes
+sense. Maybe we'll run the stats on that. But
+
+380
+00:34:22,182 --> 00:34:28,247
+you know who is smashing the general to a pulp
+though? Not Red Hulk. That's right. Red Hulk.
+
+381
+00:34:29,428 --> 00:34:33,954
+Let me go ahead and get into his backstory.
+Born into a family with a long history of military
+
+382
+00:34:33,994 --> 00:34:38,776
+service, Thaddeus Thunderbolt Ross was raised
+with the expectation of following in the footsteps
+
+383
+00:34:38,836 --> 00:34:43,877
+of his father and grandfather. As a young man,
+he immersed himself in military history and
+
+384
+00:34:43,897 --> 00:34:48,818
+developed his flying skills as a stunt pilot
+at county fairs. He later attended the United
+
+385
+00:34:48,858 --> 00:34:53,960
+States Military Academy at West Point, where
+he graduated at the top of his class. Ross
+
+386
+00:34:54,000 --> 00:34:58,761
+quickly rose through the ranks of the military,
+serving in multiple wars, and earning his nickname
+
+387
+00:34:58,921 --> 00:35:04,085
+Thunderbolt. for his aggressive, fearless leadership
+in battle. His troops admired his battlefield
+
+388
+00:35:04,125 --> 00:35:08,869
+prowess, but he also gained a reputation for
+being ruthless and unwavering in his commitment
+
+389
+00:35:08,889 --> 00:35:14,234
+to military objectives. Ross married Karen Lee,
+the daughter of his commanding officer, and
+
+390
+00:35:14,254 --> 00:35:19,819
+the two had a daughter, Betty Ross. After Karen's
+untimely death when Betty was a teenager, Ross
+
+391
+00:35:19,839 --> 00:35:24,383
+was left to raise his daughter while balancing
+his military career. Ross was also one of the
+
+392
+00:35:24,423 --> 00:35:29,518
+founding members of a secret initiative known
+as Control. which was tasked with monitoring
+
+393
+00:35:29,578 --> 00:35:34,359
+scientific advancements that could pose a threat
+to national security. Ross continued to rise
+
+394
+00:35:34,399 --> 00:35:38,940
+through the military's ranks, eventually attaining
+the rank of general. His leadership in war
+
+395
+00:35:39,000 --> 00:35:44,142
+zones further cemented his reputation as a hard-nosed,
+battle-hardened officer. However, his career
+
+396
+00:35:44,162 --> 00:35:49,643
+trajectory changed when he was assigned to oversee
+the Gamma Bomb Project, led by Bruce Banner,
+
+397
+00:35:50,083 --> 00:35:54,745
+at a desert base in New Mexico. Ross resented
+Banner from the start, believing him to be
+
+398
+00:35:54,785 --> 00:35:59,122
+an unworthy weakling and a poor match for his
+daughter Betty, who was drawn to the young
+
+399
+00:35:59,162 --> 00:36:04,964
+scientist. Ross viewed military service as the
+epitome of manhood and found Banner's intellectual
+
+400
+00:36:05,064 --> 00:36:10,247
+and unassuming nature to be detestable. His
+disdain for Banner only deepened when an accident
+
+401
+00:36:10,267 --> 00:36:14,949
+during the Gamma Bomb test transformed Banner
+into the Hulk, whom you can learn more about
+
+402
+00:36:15,189 --> 00:36:20,411
+in his duel episode against Doomsday. Ross immediately
+perceived the Hulk as a major threat and launched
+
+403
+00:36:20,451 --> 00:36:25,233
+an aggressive campaign to either capture or
+destroy the creature. He led numerous military
+
+404
+00:36:25,273 --> 00:36:30,600
+assaults against the Hulk. overseeing the formation
+of elite task forces such as the Hulkbusters.
+
+405
+00:36:31,141 --> 00:36:36,524
+Despite his relentless pursuit, Ross continually
+failed to subdue the Hulk, leading to increasing
+
+406
+00:36:36,544 --> 00:36:41,588
+frustration and desperation. His obsession with
+bringing down the Hulk strained his relationship
+
+407
+00:36:41,628 --> 00:36:46,751
+with Betty, who remained loyal to Banner. Ross
+recruited Major Glenn Talbot to his cause,
+
+408
+00:36:47,212 --> 00:36:52,135
+hoping Talbot could both help eliminate the
+Hulk and win Betty's affections. But Betty's
+
+409
+00:36:52,195 --> 00:36:59,299
+love for Banner remained steadfast. Ross took
+extreme measures, including forming uneasy
+
+410
+00:36:59,339 --> 00:37:04,941
+alliances with known supervillains such as the
+Leader and Modoc, hoping their combined resources
+
+411
+00:37:04,981 --> 00:37:10,623
+could finally eliminate the Hulk. He even made
+multiple deals with the Abomination, a gamma-powered
+
+412
+00:37:10,703 --> 00:37:15,726
+enemy of the Hulk, despite knowing the villain's
+destructive tendencies. His increasing willingness
+
+413
+00:37:15,766 --> 00:37:20,668
+to compromise military protocol for personal
+revenge led to his eventual dismissal from
+
+414
+00:37:20,708 --> 00:37:25,862
+the service. His obsession reached a peak when
+he crashed Betty and Bruce's wedding. armed
+
+415
+00:37:25,882 --> 00:37:30,966
+with a gun, and shot and wounded Bruce's friend
+Rick Jones in an attempt to prevent the marriage.
+
+416
+00:37:31,467 --> 00:37:37,112
+The failed attempt led to him being institutionalized
+under psychiatric care. Seeking a way to redeem
+
+417
+00:37:37,132 --> 00:37:42,456
+himself, Ross agreed to work with the international
+espionage organization SHIELD on an experiment
+
+418
+00:37:42,496 --> 00:37:48,542
+involving the electrical entity and Hulk villain
+known as Zax. The procedure infused Ross with
+
+419
+00:37:48,562 --> 00:37:54,242
+a portion of Zax's energy, temporarily granting
+him superhuman abilities. However, the process
+
+420
+00:37:54,362 --> 00:37:59,364
+also left him mentally unstable, and after a
+battle with the Hulk, Ross was eventually returned
+
+421
+00:37:59,404 --> 00:38:04,446
+to normal. His life took a tragic turn when
+Betty was seemingly killed by radiation poisoning.
+
+422
+00:38:04,846 --> 00:38:09,908
+Believing that Banner was indirectly responsible,
+Ross reignited his hatred for the Hulk and
+
+423
+00:38:09,948 --> 00:38:15,010
+resumed his vendetta. Around this time, the
+Hulk was exiled from Earth by a secret coalition
+
+424
+00:38:15,050 --> 00:38:20,693
+of superheroes known as the Illuminati. With
+the Hulk gone, Ross found himself directionless,
+
+425
+00:38:21,113 --> 00:38:25,690
+falling into depression and alcoholism. His
+downward spiral made him an easy target for
+
+426
+00:38:25,730 --> 00:38:30,733
+manipulation when he was approached by the Leader,
+who promised him the power to finally defeat
+
+427
+00:38:30,753 --> 00:38:35,915
+the Hulk in exchange for his cooperation. Desperate
+to fulfill his life's mission, Ross agreed,
+
+428
+00:38:36,315 --> 00:38:42,277
+faking his own death using an android duplicate
+of himself known as a Life Model Decoy. Using
+
+429
+00:38:42,337 --> 00:38:47,319
+radioactive gamma energy siphoned from the Hulk
+and cutting edge genetic modifications, the
+
+430
+00:38:47,379 --> 00:38:53,054
+Leader and Modok transformed Ross into the Red
+Hulk. Unlike the original Hulk, The Red Hulk
+
+431
+00:38:53,114 --> 00:38:57,736
+retained his intelligence, could absorb radiation
+to increase his strength, and could control
+
+432
+00:38:57,776 --> 00:39:02,199
+his transformation back into human form. As
+the Red Hulk, Ross carried out missions for
+
+433
+00:39:02,219 --> 00:39:07,122
+the leader's think tank called the Intelligencia,
+including the assassination of the Abomination
+
+434
+00:39:07,442 --> 00:39:12,104
+and the destruction of a S.H.I.E.L.D. Helicarrier.
+However, Ross soon realized that the Intelligencia
+
+435
+00:39:12,124 --> 00:39:17,267
+saw him as nothing more than a tool for their
+own ends. Seeking to assert his independence,
+
+436
+00:39:17,707 --> 00:39:23,530
+Ross turned against them and set out on his
+own path. Ross fought some of the most powerful
+
+437
+00:39:23,570 --> 00:39:28,613
+beings in the Marvel universe, including Thor,
+the Submariner, the Silver Surfer, and the
+
+438
+00:39:28,653 --> 00:39:33,776
+Hulk who had returned to Earth. He later joined
+the Offenders, a team assembled by an elder
+
+439
+00:39:33,796 --> 00:39:38,839
+of the universe known as the Collector, to challenge
+the Hulk's defenders. Despite his strength
+
+440
+00:39:38,859 --> 00:39:44,662
+and tactical intelligence, the Red Hulk was
+ultimately exposed as Thaddeus Ross. His downfall
+
+441
+00:39:44,702 --> 00:39:48,944
+came when he attempted to seize control of the
+United States government, believing himself
+
+442
+00:39:48,984 --> 00:39:54,247
+to be the only one capable of leading the nation.
+His plan was thwarted by the Hulk, who defeated
+
+443
+00:39:54,287 --> 00:39:59,009
+him in battle and warned him that if he ever
+reverted to his human form, his secret would
+
+444
+00:39:59,029 --> 00:40:04,292
+be exposed. After being imprisoned in Gamma
+Base, Ross was eventually recruited by Steve
+
+445
+00:40:04,312 --> 00:40:09,695
+Rogers to assist the Avengers. He played a key
+role in dismantling the Intelligentea's scorched
+
+446
+00:40:09,755 --> 00:40:14,678
+earth contingency plan and was later instrumental
+in defending earth against the Serpent, the
+
+447
+00:40:14,738 --> 00:40:19,841
+Norse god of fear. Ross also led a new incarnation
+of the Thunderbolts team, a group of former
+
+448
+00:40:19,881 --> 00:40:25,151
+villains turned heroes using them to clean up
+the fallout from his previous actions. However,
+
+449
+00:40:25,211 --> 00:40:32,193
+Ross's time as the Red Hulk came to an end when
+an inte version of the Hulk, known as Doc Green,
+
+450
+00:40:32,633 --> 00:40:39,475
+finally devised a cure to depower Gamma-irradiated
+indiviDuels. After a grueling battle, Doc Green
+
+451
+00:40:39,515 --> 00:40:45,216
+successfully injected Ross with the cure, reverting
+him to human form. Stripped of his powers,
+
+452
+00:40:45,596 --> 00:40:49,977
+Ross was arrested for deserting his country
+and placed in a classified military prison.
+
+453
+00:40:50,442 --> 00:40:54,343
+Although he was later presumed dead, it was
+revealed that he had faked his death using
+
+454
+00:40:54,403 --> 00:40:59,064
+another life model decoy. He secretly aided
+Earth's heroes in their battle against Hydra's
+
+455
+00:40:59,084 --> 00:41:04,425
+takeover of the United States, where he was
+exposed but paroled for his efforts. He was
+
+456
+00:41:04,465 --> 00:41:09,467
+captured by a secret group of shady political
+influencers known as the Power Elite. Through
+
+457
+00:41:09,487 --> 00:41:14,928
+their experiments, Ross regained his Red Hulk
+transformation, albeit this time keeping his
+
+458
+00:41:14,988 --> 00:41:20,938
+mustache and gray hair intact. Escaping captivity?
+He resumed his shadow war against national
+
+459
+00:41:20,978 --> 00:41:26,100
+threats, once again operating from the shadows,
+or as well as the giant flaming red monster
+
+460
+00:41:26,140 --> 00:41:32,163
+can. Powers-wise, Red Hulk, much like his green
+skin's namesake, has vast strength able to
+
+461
+00:41:32,203 --> 00:41:38,205
+lift in excess of 100 tons. He's nearly impervious
+to harm with greatly increased durability and
+
+462
+00:41:38,225 --> 00:41:43,388
+the ability to regenerate over time from any
+wounds he does suffer. He can leap miles in
+
+463
+00:41:43,408 --> 00:41:49,918
+a single bound, and can accelerate up to running
+speeds of over 100 However, unlike his namesake,
+
+464
+00:41:50,419 --> 00:41:56,742
+Red Hulk does not get stronger with rage. Instead,
+he radiates heat energy, and he gets hotter
+
+465
+00:41:56,923 --> 00:42:02,286
+the more angry he gets, to the point of emanating
+fire from his body and melting anything in
+
+466
+00:42:02,326 --> 00:42:09,050
+his close vicinity. At maximum rage, he explodes
+with combustible heat energy like a bomb, though
+
+467
+00:42:09,090 --> 00:42:14,673
+this effect greatly tires and weakens him. Also,
+unlike the Hulk, Red Hulk retains his keen
+
+468
+00:42:14,693 --> 00:42:20,028
+strategic mind, with decades of military experience
+and tactical reasoning under his belt. And
+
+469
+00:42:20,048 --> 00:42:23,991
+that's the Red Hulk. I guess one thing these
+characters also have in common is that they
+
+470
+00:42:24,011 --> 00:42:29,535
+have an entire history of being an antagonist
+for heroes just as a general in the military
+
+471
+00:42:29,835 --> 00:42:35,179
+before they became monsters. Yeah, that's true.
+Although Thunderbolt Ross's MCU counterpart
+
+472
+00:42:35,199 --> 00:42:40,563
+is going to be vastly different, I still really
+like the take they went with in making Thunderbolt
+
+473
+00:42:40,603 --> 00:42:44,886
+Ross the president and then, you know, having
+him turn into the Red Hulk. I'm really looking
+
+474
+00:42:44,906 --> 00:42:49,470
+forward to his appearance in Captain America
+Brave New World. Yeah, same. I'm really wondering
+
+475
+00:42:49,510 --> 00:42:53,593
+if they're going to go with the whole like the
+madder Red Hulk gets the hotter he gets. I
+
+476
+00:42:53,613 --> 00:42:58,036
+think that'll be interesting to see on screen.
+Maybe. I think the only hope Captain America
+
+477
+00:42:58,116 --> 00:43:04,121
+has in defeating the Red Hulk is to evade and
+get him so angry that he eventually, you know,
+
+478
+00:43:04,461 --> 00:43:08,864
+explodes, weakening him and reverting back to
+his human form. We'll see if that happens.
+
+479
+00:43:09,185 --> 00:43:10,105
+I would not be surprised.
+
+480
+00:43:17,454 --> 00:43:23,118
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+481
+00:43:23,138 --> 00:43:28,863
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+482
+00:43:28,923 --> 00:43:34,688
+Dynomic Podcast Network presents Console Combat,
+where video game legends brawl every Monday.
+
+483
+00:43:35,228 --> 00:43:42,104
+Dynamic Duel, where comic- Smash every Tuesday,
+Max Destruction, where TV and action heroes
+
+484
+00:43:42,164 --> 00:43:48,467
+battle every Wednesday, and Sendro World, where
+anime champions clash every Thursday. Join
+
+485
+00:43:48,547 --> 00:43:53,230
+us as we speculate on the matches and, armed
+with the power of mathematical simulations,
+
+486
+00:43:53,470 --> 00:44:00,373
+discover who will emerge victorious. Visit dynamicpodcast.com
+where we settle the debate and settle the score.
+
+487
+00:44:04,706 --> 00:44:08,068
+But now that we've got their histories and abilities
+out of the way, let's speculate on how one
+
+488
+00:44:08,088 --> 00:44:13,811
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not this speculation,
+
+489
+00:44:13,871 --> 00:44:19,714
+but it's fun to imagine how this fight could
+play out. AJ9K, what are the rules of our speculation?
+
+490
+00:44:20,635 --> 00:44:24,637
+Well, I should say there are no rules, other
+than the characters have no prior knowledge
+
+491
+00:44:24,657 --> 00:44:29,039
+of the other going into the fight. All they
+are aware of starting out is that the other
+
+492
+00:44:29,079 --> 00:44:33,906
+character is a threat that needs to be eliminated.
+For the speculation... The contestants will
+
+493
+00:44:33,926 --> 00:44:39,267
+begin approximately 50 meters apart in a nondescript
+environment that will have no bearing on the
+
+494
+00:44:39,287 --> 00:44:44,629
+match itself, as no environmental statistics
+are considered in my simulations. The contestants
+
+495
+00:44:44,669 --> 00:44:49,590
+must earn victory on their own merit. Alright
+then let's get into it. The General and Red
+
+496
+00:44:49,630 --> 00:44:55,512
+Hulk meet on the battlefield. Who goes first?
+Does Red Hulk often carry weapons like military
+
+497
+00:44:55,532 --> 00:45:00,933
+guns? He has used weapons but not usually, no.
+Okay, well the General does, so he's gonna
+
+498
+00:45:00,953 --> 00:45:07,259
+start off. by unloading a massive machine gun
+at Red Hulk, just gunning him down in a hail
+
+499
+00:45:07,319 --> 00:45:12,200
+of bullets. Bullets aren't gonna hurt the Red
+Hulk. He just blocks him with his forearm.
+
+500
+00:45:12,761 --> 00:45:17,602
+And as these annoying pellets just bounce off
+of him, you know, Red Hulk's eyes are gonna
+
+501
+00:45:17,622 --> 00:45:23,944
+turn fiery and his temperature is slowly gonna
+start to rise. No, no, no. These are explosive
+
+502
+00:45:23,984 --> 00:45:28,485
+rounds, all right? So they're not bouncing off
+of him. They're straight up blasting him backwards.
+
+503
+00:45:28,625 --> 00:45:34,423
+Bam, bam, bam. Okay, if they are blasting him
+backwards, barely, alright? But the only thing
+
+504
+00:45:34,463 --> 00:45:40,806
+more powerful bullets are gonna do is make Red
+Hulk more pissed off. And once he decides he's
+
+505
+00:45:40,846 --> 00:45:45,848
+had enough of this, he's just gonna leap over
+to the general in like an instant. Like a freight
+
+506
+00:45:45,868 --> 00:45:50,651
+train. Just punch him away from his machine
+gun. And then the Red Hulk is gonna pick up
+
+507
+00:45:50,751 --> 00:45:57,053
+that gun and just melt it in his grasp. Okay,
+well, while Red Hulk is busy melting that gun...
+
+508
+00:45:57,634 --> 00:46:02,515
+The general is gonna pick up this massive chunk
+of ground beneath him and hurl it at the Red
+
+509
+00:46:02,555 --> 00:46:07,416
+Hulk, knocking him to the ground. And the general
+is gonna leap on him in an instant, just pummeling
+
+510
+00:46:07,456 --> 00:46:13,018
+him into the ground with these earth-shaking
+punches and just creating a crater in the process.
+
+511
+00:46:13,558 --> 00:46:18,419
+Okay, well, let's say it's not a crater. Let's
+say that the general punches Red Hulk like
+
+512
+00:46:18,479 --> 00:46:24,841
+deep into the earth in this hole. Okay? Red
+Hulk's gonna explode from under the earth,
+
+513
+00:46:25,001 --> 00:46:29,720
+out of that hole. like lava erupting out of
+a volcano. And he's just gonna slam down on
+
+514
+00:46:29,740 --> 00:46:35,424
+the general with both fists, smashing him like
+a bug. No, the general, he's gonna take the
+
+515
+00:46:35,464 --> 00:46:40,467
+blow, but he's not splattered or anything like
+that. He's too durable. So he's then gonna
+
+516
+00:46:40,507 --> 00:46:47,032
+grab Red Hulk's wrist and just bite right into
+his hand, crushing it with his powerful jaws
+
+517
+00:46:47,072 --> 00:46:52,676
+and giant tusks. I think the general's gonna
+find that the Red Hulk is pretty spicy if he's
+
+518
+00:46:52,716 --> 00:47:00,247
+biting into him. It almost looks like magma
+is inside the wound. So General may use his
+
+519
+00:47:00,287 --> 00:47:05,928
+massive teeth to crush the Red Hulk's hand,
+but one, Red Hulk's gonna heal from that in
+
+520
+00:47:05,968 --> 00:47:12,410
+like under a minute. And two, the General's
+tusks would now be melted. So he's not gonna
+
+521
+00:47:12,430 --> 00:47:18,292
+have any more giant teeth. And the Red Hulk
+with his good hand is gonna grab the General's
+
+522
+00:47:18,332 --> 00:47:23,233
+head, like holding his jaw shut, and his hand
+is gonna straight up burn the General's face
+
+523
+00:47:23,453 --> 00:47:29,017
+right off. Damn. Okay. Well, I mean, the general
+feels pain, so this will hurt him for sure.
+
+524
+00:47:29,077 --> 00:47:33,860
+But while Red Hulk is grabbing the general's
+face, that's when the general is just going
+
+525
+00:47:33,880 --> 00:47:39,824
+to whip out this massive knife that he was concealing
+in his pants. Well, I just slash it right across
+
+526
+00:47:39,844 --> 00:47:44,467
+the Red Hulk's abdomen, which, you know, will
+take Red Hulk back and cause him to let go
+
+527
+00:47:44,487 --> 00:47:50,291
+of the general's face, which instantly regenerates
+like tusks and all. What is this knife made
+
+528
+00:47:50,351 --> 00:47:55,198
+out of that would slash the Red Hulk? Is it
+an adamantium knife? I don't fucking know,
+
+529
+00:47:55,579 --> 00:48:02,623
+Prometheum. The general has like all kinds of
+high tech weaponry. Okay, whatever, if I grant
+
+530
+00:48:02,643 --> 00:48:08,267
+you this, the Red Hulk is just gonna shrug off
+the slash wound as it heals on his body, and
+
+531
+00:48:08,287 --> 00:48:13,811
+he's gonna break the general's arm and snatch
+that knife right from him. And Red Hulk, as
+
+532
+00:48:13,831 --> 00:48:19,235
+he's holding the knife, he's gonna use his heat
+generation to superheat the blade so that it's
+
+533
+00:48:19,275 --> 00:48:23,746
+glowing red hot. So basically it's like the
+Red Hulk is holding a lightsaber now. like
+
+534
+00:48:23,766 --> 00:48:28,390
+a short lightsaber. And he's gonna use that
+red hot blade to just stab the general right
+
+535
+00:48:28,410 --> 00:48:33,714
+through the heart. And then he's gonna move
+the blade upward to just bisect the top half
+
+536
+00:48:33,754 --> 00:48:38,178
+of the general's body, including his head just
+right in half. Cool, and right after that,
+
+537
+00:48:38,358 --> 00:48:43,162
+these purple tendrils shoot between the general's
+two halves and pull his body back together,
+
+538
+00:48:43,182 --> 00:48:48,586
+like healing him instantly, along with his broken
+arm. Now you've made the general angry. You're
+
+539
+00:48:48,606 --> 00:48:53,743
+not gonna like him when he's angry because now
+he's gonna... just backhand that blade right
+
+540
+00:48:53,783 --> 00:48:58,867
+out of Red Hulk's hand and then grapple him
+into this headlock and just bite his whole
+
+541
+00:48:58,887 --> 00:49:03,451
+damn head right off his body. Match over. How
+is he gonna bite? What about the temperature
+
+542
+00:49:03,471 --> 00:49:08,595
+thing? He's too hot to bite. He's gonna burn
+his mouth right off. Dude, the general can
+
+543
+00:49:08,795 --> 00:49:14,280
+instantly recover from heartburn. All right,
+if that happens, the simple act of the general,
+
+544
+00:49:14,340 --> 00:49:19,844
+like, chomping down his teeth on the Red Hulk's
+head, about to crush it in his molars, that
+
+545
+00:49:19,924 --> 00:49:25,441
+is gonna set the Red Hulk off. and infuriate
+Red Hulk so much that he's gonna burst into
+
+546
+00:49:25,461 --> 00:49:31,446
+flames inside the General's mouth and then Red
+Hulk is gonna explode like a high-yield bomb
+
+547
+00:49:32,046 --> 00:49:38,292
+and it's gonna create this big fireball explosion
+like a little mushroom cloud and that explosion
+
+548
+00:49:38,652 --> 00:49:43,356
+is gonna be so strong that it's gonna blast
+the General right off the Red Hulk and it's
+
+549
+00:49:43,396 --> 00:49:48,901
+gonna send the General rolling through the atmosphere
+into orbit where, you know, he's just gonna
+
+550
+00:49:48,941 --> 00:49:54,483
+float in space. in the empty void until he's
+eventually pulled into a black hole. Match
+
+551
+00:49:54,543 --> 00:50:00,085
+over. That is the most convoluted finishing
+move in the history of this podcast, I feel
+
+552
+00:50:00,105 --> 00:50:05,266
+like. I think in reality, the general would
+simply bite the Red Hulk's head off before
+
+553
+00:50:05,306 --> 00:50:10,388
+he had a chance to explode. So actually, Red
+Hulk's body is cold and lifeless on the floor.
+
+554
+00:50:10,908 --> 00:50:15,529
+No, I think the black hole route is the better
+way to go. For sure. For sure. It's a weird
+
+555
+00:50:15,569 --> 00:50:20,673
+way to go. I mean, you can't really hurt the
+general. So what else am I going to do? That's
+
+556
+00:50:20,713 --> 00:50:26,697
+fair. Let's leave it there. Either the general
+gets knocked into a black hole or the red Hulk
+
+557
+00:50:26,777 --> 00:50:33,322
+gets his head bitten off. Let's run the stats.
+89k hit it. Inputting data, running calculations,
+
+558
+00:50:33,802 --> 00:50:40,707
+processing results, simulations complete. This
+was a solid matchup. When the executive producers
+
+559
+00:50:40,887 --> 00:50:45,642
+first pitched this as an idea, I think it was
+Devin Davis. Although I don't want to not give
+
+560
+00:50:45,702 --> 00:50:49,363
+Miggy credit if he pitched this. It was one
+of the executive producers who said the general
+
+561
+00:50:49,383 --> 00:50:53,724
+should go against the Red Hulk. And I was super
+excited at the time when I heard it and the
+
+562
+00:50:53,744 --> 00:50:59,206
+match did not disappoint because the stats on
+these guys were not only off the charts, but
+
+563
+00:50:59,266 --> 00:51:04,267
+also pretty close. Yeah, I remember when I first
+heard about this match, I was like, sold, sold.
+
+564
+00:51:04,367 --> 00:51:12,269
+Hey, stop. I could only be so sold. Obviously,
+we said that the general was more durable than
+
+565
+00:51:12,309 --> 00:51:16,844
+the Red Hulk. because he's just a whole lot
+more regenerative. That's his whole thing.
+
+566
+00:51:17,205 --> 00:51:20,787
+The Red Hulk also has a healing factor, but
+it's a lot slower than the Generals, which
+
+567
+00:51:20,807 --> 00:51:25,430
+is almost instantaneous. Yeah, we also gave
+the General a slight leg up when it came to
+
+568
+00:51:25,571 --> 00:51:32,095
+range, because he often carries firearms with
+him in battle. But because of the Red Hulk's
+
+569
+00:51:32,616 --> 00:51:38,200
+energy that he emanates from his body, we said
+that he was higher in the damage level category.
+
+570
+00:51:38,560 --> 00:51:43,643
+We also said Red Hulk is smarter than the General.
+Right, we determined that General Wade Eiling
+
+571
+00:51:44,143 --> 00:51:50,085
+is as intelligent as Thunderbolt Ross, but after
+Wade Eiling transferred his body into the Shaggy
+
+572
+00:51:50,105 --> 00:51:55,648
+Man, he became less intelligent. I guess the
+General also has the ability to detect adrenaline,
+
+573
+00:51:55,708 --> 00:52:01,130
+so he got a leg up in the perception category.
+But everything else, from speed to strength
+
+574
+00:52:01,170 --> 00:52:06,392
+to evasiveness to fighting skill, these guys
+were identical. Right, so taking all of that
+
+575
+00:52:06,412 --> 00:52:10,398
+into account, Joseph, who do you think came
+out on top? I'm gonna give it to my boy the
+
+576
+00:52:10,438 --> 00:52:14,720
+Red Hulk. I think these guys are pretty evenly
+matched, but I'm not gonna say that the general's
+
+577
+00:52:14,740 --> 00:52:22,163
+gonna win. I'm not some kind of punk ass. What?
+Well, I guess Instagram agrees with you. They
+
+578
+00:52:22,223 --> 00:52:28,786
+also don't wanna apparently be punk asses because
+85% voted in favor of Red Hulk in the poll
+
+579
+00:52:28,806 --> 00:52:33,748
+that we posted. It's about time Marvel wins
+one of these polls. I'm really glad that it
+
+580
+00:52:34,008 --> 00:52:38,502
+was like a landslide. I'm just gonna chalk it
+up to the fact that Red Hulk is. appearing
+
+581
+00:52:38,542 --> 00:52:42,604
+in a movie that's being released this week.
+And yeah, no one knows who the general is though
+
+582
+00:52:42,644 --> 00:52:47,166
+either. Yeah, people may know Wade Eiling, but
+odds are they probably don't know the monster
+
+583
+00:52:47,206 --> 00:52:53,410
+version of him. But do the simulation results
+match the poll? Let's find out. AG9K, the results
+
+584
+00:52:53,450 --> 00:53:04,716
+please. Hey, Yuasa. The winner of the matchup
+between the general and Red Hulk is... Red
+
+585
+00:53:04,776 --> 00:53:11,588
+Hulk. I knew it! I knew it! I called it! I called
+it, Ben. but not by much. He won 543 of the
+
+586
+00:53:11,708 --> 00:53:19,412
+1000 matches, or 54.3% of the time compared
+to the general who won 45.7% of the simulated
+
+587
+00:53:19,432 --> 00:53:24,235
+matches. It makes sense, like you would always
+just knock him into space and then get him
+
+588
+00:53:24,295 --> 00:53:31,158
+sucked into a black hole, right? So dumb, so
+dumb. Ha ha ha. I guess a better way would
+
+589
+00:53:31,199 --> 00:53:38,044
+be that he just gets so hot that the general
+incinerates into atoms basically and can't
+
+590
+00:53:38,084 --> 00:53:44,290
+reform from that or something. That seems like
+a more plausible explanation to me than whatever
+
+591
+00:53:44,310 --> 00:53:51,256
+you came up with. Let's go with that, okay.
+It looks like the Red Hulk came out on top
+
+592
+00:53:51,336 --> 00:53:56,160
+primarily because of the intelligence stat.
+That was the biggest discrepancy between the
+
+593
+00:53:56,180 --> 00:54:01,779
+two characters, which is kind of. heartbreaking
+because DC didn't need to make the general
+
+594
+00:54:02,019 --> 00:54:06,901
+dumber when he went to Shaggyman's body. They
+just needed to figure a way for the Justice
+
+595
+00:54:06,921 --> 00:54:11,563
+League to outsmart him essentially. I think
+it makes sense. I think it totally makes sense.
+
+596
+00:54:12,064 --> 00:54:17,106
+The Red Hulk is not only powerful, but also
+very strategic. I think it's dumb that Marvel
+
+597
+00:54:17,166 --> 00:54:22,828
+would not have him turn into a monstrous brute
+mentally like the Hulk. Like why do that? Why
+
+598
+00:54:22,868 --> 00:54:27,860
+make Red Hulk better than the Hulk? Well, he's
+not better than the Hulk in that if he gets
+
+599
+00:54:27,900 --> 00:54:34,386
+too angry, he explodes and then gets weaker.
+If Green Hulk gets too angry, he becomes so
+
+600
+00:54:34,426 --> 00:54:39,290
+strong that he can't lose. So ultimately, yeah,
+Green Hulk is still better than Red Hulk in
+
+601
+00:54:39,330 --> 00:54:45,196
+my mind. I'm so glad that my voice made it through
+this episode. Oh yeah, I'm not. At all. What?
+
+602
+00:54:45,376 --> 00:54:53,890
+Cause I hate your voice! But that does it for
+this duel, AJ9K help close us out. Thanks for
+
+603
+00:54:53,930 --> 00:54:59,193
+listening to Dynamic Duel. Visit the show's
+website at dynamicDuel.com and follow us on
+
+604
+00:54:59,254 --> 00:55:05,738
+Instagram at dynamicDuelpodcast. You can support
+the show on Patreon at patreon.com slash dynamicDuel
+
+605
+00:55:05,878 --> 00:55:10,081
+and joining a tier that works for you, or by
+rating and reviewing Dynamic Duel on Apple
+
+606
+00:55:10,121 --> 00:55:15,745
+Podcasts, Spotify, Podchaser or on our website.
+Don't forget to listen to the other shows in
+
+607
+00:55:15,765 --> 00:55:21,289
+the Dynamite Podcast Network, including Max
+Destruction, Senjow World and Console Combat.
+
+608
+00:55:22,914 --> 00:55:27,297
+Alright guys, as we mentioned before, our next
+episode is going to be a review of Captain
+
+609
+00:55:27,337 --> 00:55:32,460
+America Brave New World. I already got my tickets,
+as I mentioned, and I'm really looking forward
+
+610
+00:55:32,480 --> 00:55:37,484
+to seeing the movie. Jonathan, do you have your
+tickets yet? Hell no! You better fix that shit.
+
+611
+00:55:37,504 --> 00:55:42,227
+You better get on that. Same with you, the listener.
+You want to see this movie in theaters. Don't
+
+612
+00:55:42,247 --> 00:55:48,372
+be some lame-o who sees it only on their small-ass
+television. That's not nearly as big as a movie
+
+613
+00:55:48,412 --> 00:55:53,891
+theater screen. I was gonna say, hey, hey. My
+television's not small, but then compared to
+
+614
+00:55:53,911 --> 00:55:57,914
+a movie screen. Anyway. But that does it for
+this episode, we want to give a big thanks
+
+615
+00:55:57,954 --> 00:56:02,417
+to our executive producers Ken Johnson, John
+Storosky, Zachary Hepburn, Dustin Belcombe,
+
+616
+00:56:02,557 --> 00:56:07,661
+Mickey Matten-Geehan, Brandon Estergard, Nathaniel
+Wagner, Levi Yeaton, Austin Wazilowski, AJ
+
+617
+00:56:07,701 --> 00:56:13,205
+Dunkerley, Scott Camacho, Gil Camacho, Adam
+Spies, Dean Maleski, Devin Davis, Joseph Kirsting,
+
+618
+00:56:13,365 --> 00:56:18,669
+Josh Leiner, Mike Williams, and Oscar Galvez
+for helping make this podcast possible. And
+
+619
+00:56:18,689 --> 00:56:23,698
+we'll talk to you guys next week. Up, up and
+away, true believers. The angrier I get, the
+
+620
+00:56:23,738 --> 00:56:28,343
+hotter I get, but not in the temperature sense.
+I mean it in the damn that AI is sexy kind
+
+621
+00:56:28,364 --> 00:56:28,724
+of sense.
+
