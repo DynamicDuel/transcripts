@@ -1,0 +1,3326 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a DynaMic Network podcast.
+
+2
+00:00:24,618 --> 00:00:29,862
+Hi, welcome to the Dynamic Duel Podcast, a weekly
+show where we review superhero films and debate
+
+3
+00:00:29,902 --> 00:00:35,847
+the superiority between Marvel and DC by comparing
+their characters in stat-based battle simulations.
+
+4
+00:00:36,207 --> 00:00:42,332
+I'm Johnny DC. And I'm his twin brother, Marvelous
+Joe. And this past week was Valentine's Day,
+
+5
+00:00:42,632 --> 00:00:48,717
+during which Marvel released its fourth Captain
+America movie, Brave New World. And we're going
+
+6
+00:00:48,737 --> 00:00:53,141
+to review it. This episode, did it live up to
+the legacy of the previous Captain America
+
+7
+00:00:53,161 --> 00:00:59,869
+movies? The answer is yes. Yeah, man. Shit,
+yeah. I believe you get your ass kicked for
+
+8
+00:00:59,889 --> 00:01:05,072
+saying something otherwise. I don't think it
+did. Come at me, bro. You're on. We'll talk
+
+9
+00:01:05,092 --> 00:01:08,994
+about the movie later on this episode. Before
+that, we're gonna break down the latest comic
+
+10
+00:01:09,014 --> 00:01:14,617
+book movie news to come out this past week.
+Of which there was none. We got two big trailers
+
+11
+00:01:14,657 --> 00:01:20,040
+last week, so I guess I'm not surprised that
+there's no real big news this week. But we
+
+12
+00:01:20,080 --> 00:01:24,298
+do have a no-price segment to get through, as
+well as the review. And of course, we list
+
+13
+00:01:24,338 --> 00:01:28,200
+our segment times in our episode description,
+so feel free to check out the show notes if
+
+14
+00:01:28,220 --> 00:01:32,763
+you want to skip ahead to a particular topic.
+Our artificially intelligent Duel simulator,
+
+15
+00:01:32,923 --> 00:01:40,171
+AJ 9K, has a quick message for our listeners.
+So listen up. Why hello there, do you want
+
+16
+00:01:40,231 --> 00:01:45,135
+even more from this podcast? Then become a part
+of the dynamic Duel community on Patreon, where
+
+17
+00:01:45,155 --> 00:01:49,618
+you can choose from three tiers. The dynamic
+two-oh tier gives you access to our Discord
+
+18
+00:01:49,658 --> 00:01:54,582
+chat server. The fantastic four tier gives you
+two bonus episodes each month, and the X-Force
+
+19
+00:01:54,602 --> 00:01:59,906
+tier makes you an executive producer of this
+show. Lastly, the DynaMic Podcast Network
+
+20
+00:01:59,946 --> 00:02:04,410
+tier lets you create your own podcast using
+this Monte Carlo simulator. Johnny and Joe
+
+21
+00:02:04,450 --> 00:02:09,132
+will help you develop your show, provide graphic
+support and consultation and get you simulation
+
+22
+00:02:09,172 --> 00:02:15,334
+results. Pitch the twins your ideas via email
+at dynamic Duel podcast at gmail.com. Check
+
+23
+00:02:15,374 --> 00:02:22,117
+it out at patreon.com slash dynamic Duel. Pip
+pip cheerio. Thanks AJ 9k and thanks to everyone
+
+24
+00:02:22,137 --> 00:02:26,559
+who supports the podcast. Guys, be sure to tune
+into the other shows and the dynaMic podcast
+
+25
+00:02:26,599 --> 00:02:31,101
+network this week, including Max destruction,
+which pits your favorite action heroes from
+
+26
+00:02:31,141 --> 00:02:35,211
+film and television against each other. This
+Wednesday, hosts Scotty and Gilly are finding
+
+27
+00:02:35,311 --> 00:02:41,535
+out who would win in a fight between the MCU's
+Thor and the DCEU's Black Adam. We said that
+
+28
+00:02:41,635 --> 00:02:46,478
+that's what they were doing last week, but last
+week they actually did MCU's Namor versus the
+
+29
+00:02:46,518 --> 00:02:52,322
+DCEU Aquaman. It's actually pronounced Namor.
+Yeah, you're right. On the Send Your World
+
+30
+00:02:52,362 --> 00:02:57,145
+podcast, host Zachary Hepburn speculates on
+fights between fan favorite anime and manga
+
+31
+00:02:57,185 --> 00:03:01,928
+characters. Zach is on a brief season break
+right now, but anime fans should check out
+
+32
+00:03:01,968 --> 00:03:07,031
+his past library of episodes and look forward
+to the huge episode he has in the works, an
+
+33
+00:03:07,151 --> 00:03:14,035
+epic 10 vs 10 team Naruto vs team bleach matchup.
+And on the Konsole Kombat podcast hosts John
+
+34
+00:03:14,075 --> 00:03:18,858
+and Dean simulate battles between popular video
+game characters. In yesterday's episode, they
+
+35
+00:03:18,878 --> 00:03:24,281
+found out who'd win in a fight between Chun-Li
+from Street Fighter and Lee-Mei from Mortal
+
+36
+00:03:24,301 --> 00:03:29,812
+Kombat. Visit dynamicpodcasts.com or click the
+link in our show notes to listen to all of
+
+37
+00:03:29,852 --> 00:03:35,615
+the shows in the DynaMic Podcast Network. But
+with that out of the way, quick to the no prize.
+
+38
+00:03:37,676 --> 00:03:42,419
+A no prize is an award Marvel used to give out
+to fans. Our version, the Dynamic Duel No Prize,
+
+39
+00:03:42,479 --> 00:03:47,101
+is a digital award we post on Instagram for
+the person that we feel gave the best answer
+
+40
+00:03:47,141 --> 00:03:52,304
+to our question of the week. Last week, we asked
+you guys between the Fantastic Four teaser
+
+41
+00:03:52,624 --> 00:03:59,536
+and the Thunderbolts big game trailer, which
+got you more hyped and why? And actually we
+
+42
+00:03:59,576 --> 00:04:06,139
+only got two actual answers for this question
+this past week because I forgot to change the
+
+43
+00:04:06,179 --> 00:04:10,822
+question on our website. So a few people who
+clicked on it answered last week's question.
+
+44
+00:04:11,082 --> 00:04:16,725
+So shout out to By Dear Bangora and JP from
+Quebec for giving their answer from last week.
+
+45
+00:04:16,745 --> 00:04:22,388
+But this week's honorable mention goes to Mike
+Williams, who said. On the movie I'm most interested
+
+46
+00:04:22,408 --> 00:04:28,595
+in seeing due to the trailer is the Thunderbolts.
+to see how they develop the Sentry and how
+
+47
+00:04:28,995 --> 00:04:34,098
+the Void is headed toward being the villain
+and how they're going to deal with that just
+
+48
+00:04:34,118 --> 00:04:39,580
+being regular Joes and not super power the heroes
+but as Marvel it'll be interesting. Thanks.
+
+49
+00:04:41,041 --> 00:04:45,563
+Yeah, the Thunderbolts big game trailer was
+epic. It reveals that the primary villain of
+
+50
+00:04:45,603 --> 00:04:50,165
+the Thunderbolts movie is going to be the Void
+who is the dark alter ego of the character
+
+51
+00:04:50,485 --> 00:04:57,026
+the Sentry. And I have no idea how this ragtag
+cast of punchers and shooters is going to take
+
+52
+00:04:57,066 --> 00:05:03,051
+down a character as powerful as The Void. But
+I think that's one of the major draws of the
+
+53
+00:05:03,091 --> 00:05:08,235
+film itself. It's really this colorful cast
+of misfit underdogs going up against these
+
+54
+00:05:08,475 --> 00:05:13,700
+unspeakable odds. Yeah, like how you described
+it in our last episode. It's like the Suicide
+
+55
+00:05:13,720 --> 00:05:17,863
+Squad going up against Superman. And that's
+a pretty damn good concept. Even though it
+
+56
+00:05:17,903 --> 00:05:22,650
+feels like they're ripping off DC, I'm still
+excited to see the film. Yeah, for sure. Great
+
+57
+00:05:22,690 --> 00:05:28,174
+answer, Mike Williams. But the winner of this
+week's snow prize is Lee Tapscott. With the
+
+58
+00:05:28,214 --> 00:05:34,559
+consecutive win, he said, Hi, this is Lee about
+the question. What am I more excited about?
+
+59
+00:05:34,599 --> 00:05:40,843
+The Thunderbolts or the Fantastic Four? I think
+it's going to be the Fantastic Four. Thunderbolts
+
+60
+00:05:40,883 --> 00:05:48,108
+feels like an end to the story. Tying up loose
+ends while the Fantastic Four is the beginning
+
+61
+00:05:48,288 --> 00:05:56,225
+of a new era for Marvel. something that isn't
+tied down by past movies. So I think Fantastic
+
+62
+00:05:56,265 --> 00:06:00,447
+Four, I'm looking forward to see what's new.
+Yeah, I like this answer. The Fantastic Four
+
+63
+00:06:00,467 --> 00:06:06,791
+movie is gonna be the start of the MCU's phase
+six of films, whereas, you know, the Thunderbolts
+
+64
+00:06:06,811 --> 00:06:12,818
+is closing out phase five. And I think there's
+something to be said for the... tone of the
+
+65
+00:06:12,858 --> 00:06:17,742
+Fantastic Four movie and how it presents this
+hopeful feel and the start of something new
+
+66
+00:06:17,882 --> 00:06:22,306
+and unique and interesting in a way that the
+Fantastic Four should. They were, you know,
+
+67
+00:06:22,486 --> 00:06:28,331
+the team that really kickstarted the Marvel
+era of comic books in the 1960s. I think they
+
+68
+00:06:28,351 --> 00:06:32,975
+can reinvigorate the MCU in a way that other
+franchises haven't been able to for a few years
+
+69
+00:06:33,015 --> 00:06:36,738
+now. Yeah, I like this rationale and it's one
+that I didn't even really consider because
+
+70
+00:06:36,758 --> 00:06:41,234
+I've kind of lost track of the different phases
+that are going on right now in the MCU. I could
+
+71
+00:06:41,274 --> 00:06:47,477
+be wrong, but I believe the Thunderbolts also
+ends the Bob Chapek era in Disney. So with
+
+72
+00:06:47,497 --> 00:06:52,659
+the return of Bob Iger as the head of Disney,
+we will hopefully see a return to form with
+
+73
+00:06:52,679 --> 00:06:58,202
+the MCU. I know that Phase 6 is going to focus
+largely on the multiverse, since we're getting
+
+74
+00:06:58,222 --> 00:07:02,664
+films like Fantastic Four, which takes place
+in an alternate dimension. We're getting Avengers
+
+75
+00:07:02,704 --> 00:07:06,998
+Doomsday. We're getting Avengers Secret Wars.
+And we're getting the new Spider-Man film,
+
+76
+00:07:07,419 --> 00:07:11,621
+which I don't know if that involves the multiverse,
+but at least three of the four films in Phase
+
+77
+00:07:11,641 --> 00:07:16,643
+6 will, that we know of so far. So great answer,
+Lee! You win this week's No Prize if you the
+
+78
+00:07:16,663 --> 00:07:20,825
+listener want a shot at winning your own No
+Prize. Stay tuned to later on in the episode
+
+79
+00:07:20,986 --> 00:07:25,388
+when we'll be asking another question of the
+week. And when you say later on in the episode,
+
+80
+00:07:25,408 --> 00:07:28,069
+you mean like right now, right? That is correct!
+
+81
+00:07:32,578 --> 00:07:37,680
+Since we're discussing the Captain America film
+this episode, what is your favorite Captain
+
+82
+00:07:37,700 --> 00:07:43,342
+America solo film and why? Of course this includes
+Captain America The First Avenger, Captain
+
+83
+00:07:43,382 --> 00:07:49,545
+America The Winter Soldier, Captain America
+Civil War, and Captain America Brave New World.
+
+84
+00:07:49,905 --> 00:07:55,288
+And you know what? Let's throw in the Falcon
+and the Winter Soldier television series and
+
+85
+00:07:55,368 --> 00:08:00,430
+Black Widow since I think that movie is adjacent
+to this franchise. And you know what, just
+
+86
+00:08:00,450 --> 00:08:05,233
+for shits and giggles, let's throw in the 90s
+Captain America movie. Yeah, and the made for
+
+87
+00:08:05,253 --> 00:08:10,497
+TV films in the 70s too. All the Captain America
+stuff. What's your favorite and why? Record
+
+88
+00:08:10,537 --> 00:08:14,420
+your answer at dynamicduel.com by clicking on
+the red microphone button in the bottom right-hand
+
+89
+00:08:14,480 --> 00:08:18,482
+corner of the screen, which will prompt you
+to leave us a voicemail. Your message can be
+
+90
+00:08:18,502 --> 00:08:23,206
+up to 30 seconds long, and don't forget to leave
+your name in case we include you on the podcast.
+
+91
+00:08:23,486 --> 00:08:28,009
+We'll pick our favorite answer and award that
+person a Dynamic Duel No Prize that we'll post
+
+92
+00:08:28,089 --> 00:08:34,229
+to Instagram. Be sure to answer before February
+22nd. And I'll make sure to get the proper
+
+93
+00:08:34,270 --> 00:08:36,757
+question up on the website for everyone who
+calls in.
+
+94
+00:08:44,270 --> 00:08:48,894
+With that out of the way, now let's move on
+to the main event of our episode in which we
+
+95
+00:08:48,954 --> 00:08:55,521
+review Marvel Studios' latest film to hit theaters,
+Captain America Brave New World.
+
+96
+00:09:10,798 --> 00:09:16,680
+Captain America Brave New World was directed
+by Julius Ona and stars Anthony Mackey, Harrison
+
+97
+00:09:16,700 --> 00:09:22,302
+Ford, Tim Blake Nelson, and Danny Ramirez. It's
+the penultimate film in the Marvel Cinematic
+
+98
+00:09:22,382 --> 00:09:27,965
+Universe's Phase 5 of films and the first theatrical
+return to the Captain America franchise in
+
+99
+00:09:28,025 --> 00:09:34,447
+nearly a decade since 2016's Captain America
+Civil War. Since that film, the Avengers disassembled
+
+100
+00:09:34,868 --> 00:09:39,934
+and faced the threat of Thanos with Steve Rogers
+retiring at the end of Endgame and passing
+
+101
+00:09:39,954 --> 00:09:45,798
+the mantle to the Falcon, aka Sam Wilson. This
+is true to the comics when Steve Rogers once
+
+102
+00:09:45,818 --> 00:09:50,561
+had the super soldier serum in his body negated,
+causing him to advance into old age and he
+
+103
+00:09:50,601 --> 00:09:56,225
+passed his mantle onto his longtime partner,
+the Falcon. In the MCU, it was really interesting
+
+104
+00:09:56,465 --> 00:10:01,808
+watching Sam Wilson handle the idea of continuing
+Steve Rogers' legacy in the Falcon and the
+
+105
+00:10:01,828 --> 00:10:07,148
+Winter Soldier television series. where he ultimately
+came to terms with the idea of taking on the
+
+106
+00:10:07,188 --> 00:10:12,473
+legacy and donning Captain America's shield.
+The big question in this Brave New World film
+
+107
+00:10:12,533 --> 00:10:17,477
+was, now that Sam's made his decision to be
+the new Cap, would he be able to live up to
+
+108
+00:10:17,517 --> 00:10:22,241
+Steve's legacy? And it's a query that played
+out not only in the cinematic world of the
+
+109
+00:10:22,341 --> 00:10:27,705
+MCU, but also in real life as fans wondered
+if this new movie would live up to the legacy
+
+110
+00:10:27,745 --> 00:10:33,726
+of Captain America's films that came before
+it. And as far as I'm concerned, yeah. it did.
+
+111
+00:10:34,186 --> 00:10:38,367
+If you haven't seen the film yet, I think that's
+all you need to know for now, so I recommend
+
+112
+00:10:38,507 --> 00:10:43,308
+seeing the movie, then coming back and listening
+to our spoiler review. So here's your spoiler
+
+113
+00:10:43,328 --> 00:10:48,110
+warning. Now I'm not going to say that Captain
+America Brave New World was as good as either
+
+114
+00:10:48,250 --> 00:10:52,811
+Captain America The Winter Soldier or Captain
+America Civil War, but I do think it was as
+
+115
+00:10:52,851 --> 00:10:57,872
+good, if not better, than the tangential film
+in the Captain America franchise, which was
+
+116
+00:10:57,932 --> 00:11:03,418
+Black Widow. If you listened to our review of
+that film, we liked it. You know, we said Black
+
+117
+00:11:03,438 --> 00:11:07,321
+Widow wasn't without its own problems, such
+as taking liberties with the villains from
+
+118
+00:11:07,341 --> 00:11:13,165
+the comics. But we also set ahead some great
+action set pieces, a solid, thriller-y plot
+
+119
+00:11:13,285 --> 00:11:19,190
+and meaningful characterization for the protagonists.
+I feel the same here in that while Brave New
+
+120
+00:11:19,210 --> 00:11:24,313
+World couldn't quite reach the heights of the
+very best MCU films, it is in itself a good
+
+121
+00:11:24,473 --> 00:11:30,157
+film. And I think a lot of people, including
+fatigued critics and audiences, are claiming
+
+122
+00:11:30,538 --> 00:11:35,181
+that if a film can't be among the best, then
+it's comparatively bad. And I think that's
+
+123
+00:11:35,201 --> 00:11:41,906
+a mistake. I know we've stated this on the podcast
+before that quality exists on a spectrum. Quality
+
+124
+00:11:41,926 --> 00:11:47,890
+is not a pass fail concept. Even though platforms
+like Rotten Tomatoes do actively push that.
+
+125
+00:11:48,251 --> 00:11:53,895
+But like if you wanna see bad, see Howard the
+Duck, see Catwoman, or literally any other
+
+126
+00:11:53,935 --> 00:12:00,439
+DC movie for that matter. If you wanna see mediocre,
+go see Venom or Iron Man 3. If you wanna see
+
+127
+00:12:00,499 --> 00:12:04,882
+good, you know, see Captain America Brave New
+World. And if you wanna see great, of course,
+
+128
+00:12:04,922 --> 00:12:09,865
+go see like Logan or Avengers Infinity War,
+but that's neither here nor there. I don't
+
+129
+00:12:09,885 --> 00:12:14,748
+feel like I should have to say it, but near
+perfect films are rare, but they aren't the
+
+130
+00:12:14,808 --> 00:12:19,531
+only films worth seeing. I walked away from
+the theater pleased with Brave New World's
+
+131
+00:12:19,591 --> 00:12:24,153
+quality, and I don't think we could have asked
+for a whole lot more than what we got here.
+
+132
+00:12:24,682 --> 00:12:29,484
+I don't think I've heard anyone say that this
+is a bad film. I've heard people say that it's
+
+133
+00:12:29,564 --> 00:12:33,987
+low tier Marvel, which go watch Love and Thunder
+if you wanna see low tier Marvel. That's fair.
+
+134
+00:12:34,027 --> 00:12:39,230
+I think it's closer to low tier than it is to
+high tier. I definitely think it's the worst
+
+135
+00:12:39,290 --> 00:12:44,373
+Captain America movie. That said, it's not a
+bad movie. I think the comparison to Black
+
+136
+00:12:44,413 --> 00:12:49,736
+Widow is fair, although I would even say that
+Black Widow is slightly better in my opinion.
+
+137
+00:12:50,196 --> 00:12:55,275
+Well, your opinion is trash. It's pure garbage.
+I would actually rate Captain America Brave
+
+138
+00:12:55,315 --> 00:13:01,518
+New World as, yeah sure, mid-tier, but closer
+to top-tier than low-tier. I think one of the
+
+139
+00:13:01,618 --> 00:13:05,841
+best things about Captain America Brave New
+World is how it handles continuity in that
+
+140
+00:13:05,861 --> 00:13:12,244
+it both resolves dangling plot threads from
+the MCU and advances the overall plot of Earth's
+
+141
+00:13:12,284 --> 00:13:16,727
+Mightiest Heroes in a meaningful way. Right,
+it picked up the threads left in The Eternals
+
+142
+00:13:17,087 --> 00:13:21,849
+and The Incredible Hulk. Right. Yeah, like for
+quite a while we've been saying that the biggest...
+
+143
+00:13:22,050 --> 00:13:26,792
+detriment to Marvel Studios right now is that
+the film universe feels less cohesive than
+
+144
+00:13:26,832 --> 00:13:32,614
+it's ever been, with tons of abandoned concepts,
+unconnected characters, and loose threads that
+
+145
+00:13:32,634 --> 00:13:39,677
+make things feel hard to keep up with for general
+audiences. Commendably, Brave New World continues
+
+146
+00:13:39,717 --> 00:13:44,879
+the story of Captain America and the Avengers,
+and a little bit of the multiverse stuff regarding
+
+147
+00:13:44,899 --> 00:13:48,841
+the end credits stinger. But like you said regarding
+The Incredible Hulk, this movie almost feels
+
+148
+00:13:48,861 --> 00:13:54,115
+like a quasi-sequel. to 2008's Incredible Hulk,
+picking up one of the longest standing plot
+
+149
+00:13:54,135 --> 00:13:59,217
+threads ever in regard to what happened to Samuel
+Stearns, aka the leader, at the end of that
+
+150
+00:13:59,277 --> 00:14:04,879
+movie. Brave New World also addresses, like
+you said, the Eternals with that big ass celestial
+
+151
+00:14:04,899 --> 00:14:09,561
+that rose from the planet's core, which has
+been a question on a lot of our minds considering
+
+152
+00:14:09,902 --> 00:14:13,983
+that big giant coming out of the earth hasn't
+been addressed in any movies since the Eternals.
+
+153
+00:14:14,423 --> 00:14:20,638
+Which is a huge fucking elephant in the room
+to just gloss over. Right, right. So I appreciated
+
+154
+00:14:20,658 --> 00:14:25,982
+this movie for restoring some of that cohesiveness
+in the MCU in that like yeah, it feels like
+
+155
+00:14:26,002 --> 00:14:30,245
+things are starting to come together somewhat
+and lead up to Phase Six and Avengers Doomsday
+
+156
+00:14:30,325 --> 00:14:35,829
+and Secret Wars. However, despite cohearing
+things up a little bit, the movie could still
+
+157
+00:14:35,869 --> 00:14:40,932
+potentially lose some audiences I think who
+don't remember plot points from films over
+
+158
+00:14:41,012 --> 00:14:46,516
+15 years ago, or who didn't know that Harrison
+Ford is filling in for William Hurt who played
+
+159
+00:14:46,596 --> 00:14:52,472
+Thunderbolt or audiences who didn't watch The
+Falcon and the Winter Soldier on Disney+. Like
+
+160
+00:14:52,772 --> 00:14:58,955
+I bet there were a lot of people who were introduced
+to Isaiah Bradley in this movie and were like,
+
+161
+00:14:59,215 --> 00:15:04,438
+did I miss something? Like who the hell is this
+guy? And why is Cap so motivated in helping
+
+162
+00:15:04,478 --> 00:15:10,842
+him? I guarantee you that is 100% the case and
+I theorize that's probably why a lot of audiences
+
+163
+00:15:10,922 --> 00:15:15,744
+are responding to this film the way they are.
+Like this film has the lowest cinema score
+
+164
+00:15:16,125 --> 00:15:22,591
+of any Marvel movie. in MCU history. Which is
+fucking bananas. Yeah, I got a B minus. And
+
+165
+00:15:22,731 --> 00:15:27,872
+I always have to guarantee you that it's because
+people just have not been keeping up with Marvel.
+
+166
+00:15:28,272 --> 00:15:33,774
+Yeah, the movie also has like a 52% on Rotten
+Tomatoes, which pisses me off, frankly. I feel
+
+167
+00:15:33,794 --> 00:15:37,935
+like going on a slapping spree with all the
+dum-dums out there. This movie is not the worst
+
+168
+00:15:38,375 --> 00:15:43,817
+MCU movie that's ever come out. Sorry, that
+goes to Thor, Love and Thunder. But like, you
+
+169
+00:15:43,837 --> 00:15:48,815
+wanna tell audiences you don't know who Isaiah
+Bradley is, That just means you didn't do your
+
+170
+00:15:48,855 --> 00:15:54,340
+homework. So go get a Disney Plus subscription
+and watch the six episode Falcon and the Winter
+
+171
+00:15:54,380 --> 00:15:59,424
+Soldier series and pay attention to Isaiah's
+backstory, you son of a bitch, then come back
+
+172
+00:15:59,705 --> 00:16:06,611
+and re-watch Brave New World with that context.
+I don't wanna do homework, fuck that. It is
+
+173
+00:16:06,631 --> 00:16:11,816
+a lot to ask. I also think like a lot of the
+audience is probably like, am I supposed to
+
+174
+00:16:11,856 --> 00:16:16,539
+know this Samuel Sterns character? You know,
+because he does look different than he did
+
+175
+00:16:16,599 --> 00:16:22,061
+in The Incredible Hulk, considering he has that
+gamma brain now. Even my wife, who has seen
+
+176
+00:16:22,081 --> 00:16:26,423
+The Incredible Hulk like three times, still
+didn't remember Tim Blake Nelson's character.
+
+177
+00:16:26,823 --> 00:16:31,065
+Well, it's a lot because Samuel Sterns looks
+different. Thunderbolt Ross looks different.
+
+178
+00:16:31,385 --> 00:16:36,867
+Even the actor who played the Hulk in that movie
+is different. That's true. That's true. The
+
+179
+00:16:36,907 --> 00:16:42,289
+only one who came back was Liv Tyler in the
+barest of cameos. Right. These like type of
+
+180
+00:16:42,409 --> 00:16:47,311
+Easter egg. callback elements are definitely
+rewarding for the fans. And not even all the
+
+181
+00:16:47,411 --> 00:16:51,992
+fans, like I would say the fans with good memories,
+you know. So I just think Marvel's gonna continue
+
+182
+00:16:52,032 --> 00:16:57,193
+to see diminishing returns on these types of
+things solely because their continuity is approaching
+
+183
+00:16:57,413 --> 00:17:02,995
+20 years now. And you know, it's not the worst
+problem to have. DC would love to have this
+
+184
+00:17:03,015 --> 00:17:08,837
+kind of problem, but it is still a problem.
+I don't want Marvel's problems, ugh. Better
+
+185
+00:17:08,857 --> 00:17:13,938
+than DC's problems. Hey, we don't have any problems
+right now, bro. We're just starting out. I
+
+186
+00:17:13,978 --> 00:17:19,700
+did really like the action of this movie from
+the Oaxaca fight to the Sidewinder Street battle.
+
+187
+00:17:20,180 --> 00:17:24,341
+The Echo One prison fight was pretty good and
+especially the aerial battle above Celestial
+
+188
+00:17:24,461 --> 00:17:29,942
+Island. And, you know, the Red Hulk standoff
+was pretty good, too. I think one of the best
+
+189
+00:17:30,082 --> 00:17:36,704
+things about Sam Wilson as the Falcon and as
+now Captain America, and I feel like people
+
+190
+00:17:36,724 --> 00:17:42,318
+don't recognize this enough, is that how thrilling
+it is to see him in action. in his wingsuit.
+
+191
+00:17:42,819 --> 00:17:47,262
+Yeah, Sam's not as impressive a fighter as Steve
+Rogers. You know, his ground combat can't match
+
+192
+00:17:47,623 --> 00:17:53,508
+Steve's fight against like Batroc or, you know,
+even Shang-Chi's martial arts prowess. But
+
+193
+00:17:53,548 --> 00:17:59,033
+in the sky, Sam Wilson's like, wow, like I'll
+be damned if his aerial dogfights aren't a
+
+194
+00:17:59,093 --> 00:18:03,717
+sight to behold. It's basically the best thing
+about the character and it's unique to his
+
+195
+00:18:03,757 --> 00:18:08,976
+character as well. Yeah, I didn't love the action
+in this film. I've seen a lot of people say
+
+196
+00:18:08,996 --> 00:18:13,879
+that the choreography was pretty slow, and I
+would agree. That said, I don't know if that
+
+197
+00:18:13,899 --> 00:18:19,122
+was a conscious choice made on behalf of the
+filmmakers and the editing room to emphasize
+
+198
+00:18:19,142 --> 00:18:23,844
+the fact that Sam is not a super soldier, but
+I would definitely say it was a noticeable
+
+199
+00:18:23,924 --> 00:18:28,767
+downgrade from other Captain America films.
+They definitely made it clear, intentionally
+
+200
+00:18:28,787 --> 00:18:33,554
+or not, within the course of this film, that
+things are more difficult for Sam. You know,
+
+201
+00:18:33,594 --> 00:18:39,656
+he doesn't have the super soldier serum. It
+does take more effort on his part to try to
+
+202
+00:18:39,896 --> 00:18:45,018
+be Captain America. That said, he does seem
+to have a superpower of being able to get stabbed
+
+203
+00:18:45,038 --> 00:18:50,721
+in the torso however many times he wants and
+still keep going. It was really only like three
+
+204
+00:18:50,761 --> 00:18:57,123
+times. It was like six times. What? Yeah. You
+got stabbed with like an axe, a knife, like
+
+205
+00:18:57,804 --> 00:19:02,385
+something had to hit some kind of organ. Those
+things were deep. Band-aids are a thing. OK.
+
+206
+00:19:03,282 --> 00:19:08,826
+Anti-bacterial cream, Neosporin is a thing.
+Just throw some Vicks on that. There you go.
+
+207
+00:19:09,386 --> 00:19:13,809
+Now, I've maintained that the Falcons dogfight
+in the Falcon and the Winter Soldier television
+
+208
+00:19:13,829 --> 00:19:19,053
+series in Tunisia, that opening action scene,
+it's really one of Marvel's best action scenes
+
+209
+00:19:19,233 --> 00:19:24,737
+in anything that they've ever produced ever.
+Oh, yeah. And Sam's dogfight here near Celestial
+
+210
+00:19:24,857 --> 00:19:28,960
+Island. I thought that was fucking awesome,
+too. Not as good as the Tunisia fight, I would
+
+211
+00:19:29,080 --> 00:19:33,715
+argue. But yeah, still not terrible. It harkened
+back to like the Iron Man aerial battles that
+
+212
+00:19:33,755 --> 00:19:40,358
+I loved watching. Yeah, from Iron Man one. Yeah,
+I think the Celestial Island dogfight was the
+
+213
+00:19:40,478 --> 00:19:46,680
+actual action climax of the film, because although
+the fight against Red Hulk wasn't bad, it just
+
+214
+00:19:46,780 --> 00:19:52,923
+wasn't as much in Sam Wilson's element. That's
+not to say I didn't like the end fight. I actually
+
+215
+00:19:52,963 --> 00:19:57,665
+really liked how Cap just absolutely didn't
+fucking stand a chance against Red Hulk, so
+
+216
+00:19:57,705 --> 00:20:03,600
+it was more about. survival and you know appealing
+to Red Hulk's emotional state. Yeah I've joked
+
+217
+00:20:03,640 --> 00:20:09,363
+on the discord that Sam Wilson's superpower
+is seemingly therapy. He has therapy powers
+
+218
+00:20:09,624 --> 00:20:14,086
+because that's how he finished the whole because
+that's how he finished the Red Hulk in this
+
+219
+00:20:14,106 --> 00:20:21,070
+climactic end battle. It was kind of anti-climactic.
+In a way but Sam does have counselor powers
+
+220
+00:20:21,090 --> 00:20:25,573
+you know when he met Steve Rogers in the MCU
+he was a trauma counselor for veterans. It's
+
+221
+00:20:25,593 --> 00:20:31,860
+a big part of his character. to approach conflict
+with reason before fists. Like if you look
+
+222
+00:20:31,880 --> 00:20:36,142
+at the Falcon and the Winter Soldier series,
+there was that moment where he nearly talked
+
+223
+00:20:36,382 --> 00:20:43,045
+Flag Smasher into giving up her whole agenda
+before that dumb ass John Walker US agent barged
+
+224
+00:20:43,105 --> 00:20:50,068
+in. And I will say that's a great aspect of
+the Sam Wilson character, who is a great longstanding
+
+225
+00:20:50,108 --> 00:20:55,738
+character in the MCU with that great history.
+That said, it's not a very cinematic, quote
+
+226
+00:20:55,758 --> 00:21:00,160
+unquote, superpower. And I was left kind of
+disappointed by the end battle with the Red
+
+227
+00:21:00,200 --> 00:21:06,341
+Hulk, just de powering himself after looking
+at a cherry blossom petal in his palm. Come
+
+228
+00:21:06,501 --> 00:21:11,323
+on. It was poetic, man. It was that was poetry.
+Yeah. What are you talking about? No, I didn't
+
+229
+00:21:11,343 --> 00:21:18,545
+like it. It was vaguely reminiscent of how the
+big climactic Hulk versus army fight ended
+
+230
+00:21:18,745 --> 00:21:25,328
+in the 2003 Ang Lee Hulk movie. when Betty showed
+up and it calmed Hulk down enough to revert
+
+231
+00:21:25,368 --> 00:21:30,492
+to his human form. It also happened in the 2008
+Incredible Hulk film during the campus fight
+
+232
+00:21:30,852 --> 00:21:35,795
+when Betty showed up he protected her from the
+crashing helicopter and then like jumped away
+
+233
+00:21:35,815 --> 00:21:41,119
+with her. She's kind of been this calming influence
+on these climactic battles and although she
+
+234
+00:21:41,139 --> 00:21:46,162
+didn't technically show up during this end fight,
+you know, her name was evoked and the Red Hulk
+
+235
+00:21:46,182 --> 00:21:51,550
+had a good enough tangible memento of her to
+think about his daughter enough. turn back
+
+236
+00:21:51,570 --> 00:21:56,052
+into his human form. I do think that the film
+did a good job of continuing the political
+
+237
+00:21:56,092 --> 00:22:00,515
+thriller aspect that has become a staple of
+the Captain America franchise, starting with
+
+238
+00:22:00,555 --> 00:22:05,578
+The Winter Soldier. You know, in that first
+sequel, all the paranoia came from not knowing
+
+239
+00:22:05,658 --> 00:22:11,061
+who was a bad guy because Hydra had infiltrated
+SHIELD. In the Black Widow movie, the paranoia
+
+240
+00:22:11,081 --> 00:22:15,884
+came from not knowing when Taskmaster or one
+of the stealthy mind-controlled Black Widows
+
+241
+00:22:15,904 --> 00:22:21,279
+would attack. And in Brave New World... The
+paranoia came from not knowing who was unknowingly
+
+242
+00:22:21,399 --> 00:22:26,281
+a mind control agent of the leader. You actually
+notice quite a few similarities between this
+
+243
+00:22:26,321 --> 00:22:31,403
+film and The Winter Soldier, that being one
+of them. I think this tried pretty hard to
+
+244
+00:22:31,543 --> 00:22:36,425
+recapture that same political thriller magic
+as The Winter Soldier. I don't think it was
+
+245
+00:22:36,585 --> 00:22:41,287
+as successful, but there was that and there
+was also the scene of, you know, Captain America
+
+246
+00:22:41,307 --> 00:22:46,649
+and his sidekick going into that deep basement
+where there was that secret villain there.
+
+247
+00:22:47,038 --> 00:22:52,239
+Are you referring to Steve Rogers and Natasha
+Romanoff going into Camp Lehigh and finding
+
+248
+00:22:52,459 --> 00:22:56,840
+Arnim Zola? Yes, yeah. Okay, yeah, yeah. And
+then there was also, of course, the machine
+
+249
+00:22:56,860 --> 00:23:01,582
+gun battle on the streets between Winter Soldier
+and Cap. Yeah, I will say that Julius Ona,
+
+250
+00:23:01,682 --> 00:23:07,403
+the director, is not at the level of the Russo
+brothers. I would definitely agree with that
+
+251
+00:23:07,463 --> 00:23:12,585
+100%. Which is not saying much, I don't think,
+because, you know, the Russo brothers directed
+
+252
+00:23:12,645 --> 00:23:17,099
+Infinity War and Endgame. And they're pretty
+much... at the top of their league when it
+
+253
+00:23:17,139 --> 00:23:21,863
+comes to these superhero films. I think the
+subpar direction in this film was noticeable.
+
+254
+00:23:22,103 --> 00:23:27,348
+I also think the budget on this film was noticeable.
+This film was only made for one hundred and
+
+255
+00:23:27,469 --> 00:23:32,734
+eighty million dollars, which by Marvel standards
+is pretty cheap. Like the film is already going
+
+256
+00:23:32,754 --> 00:23:37,498
+to make its budget back with this four day holiday
+weekend. Yeah, which is badass. I think it
+
+257
+00:23:37,538 --> 00:23:42,642
+made just under two hundred million dollars
+worldwide. I mean, it's still making less than
+
+258
+00:23:42,682 --> 00:23:47,586
+something like quantumania. We'll see what the
+second week drop is for this film. If it compares
+
+259
+00:23:47,606 --> 00:23:52,629
+to as devastating a drop as quantumania had.
+But yeah, to me, that's still not that big
+
+260
+00:23:52,649 --> 00:23:56,312
+of a feat, because to me, it just says that
+the movie was really cheap. And there was a
+
+261
+00:23:56,412 --> 00:24:01,075
+lot of shots where you could see that was the
+case. Jonathan, what DC movie made its entire
+
+262
+00:24:01,135 --> 00:24:04,997
+budget back in the opening weekend? I don't
+keep track of this shit. I just read this.
+
+263
+00:24:05,017 --> 00:24:09,581
+This is how I know. Let me go back and find
+out. How about none of them, except for maybe
+
+264
+00:24:09,621 --> 00:24:13,307
+the Batman? You don't know that. I can see that
+happening. But let's go ahead and get into
+
+265
+00:24:13,327 --> 00:24:18,751
+our character breakdown, starting with Captain
+America, aka Sam Wilson, played by Anthony
+
+266
+00:24:18,811 --> 00:24:22,994
+Mackie. I really like Anthony Mackie as an actor.
+We've talked about him before. You know, he's
+
+267
+00:24:23,014 --> 00:24:28,518
+a really well-trained alumni of Juilliard. There's
+really nothing he can't do performance-wise.
+
+268
+00:24:28,838 --> 00:24:32,521
+So it kind of makes me wish that they would
+actually do more with the character of Sam
+
+269
+00:24:32,561 --> 00:24:37,184
+Wilson to have Anthony Mackie show more of his
+range, like really put him through the wrinker
+
+270
+00:24:37,244 --> 00:24:42,211
+emotionally. But I think that Mackie... definitely
+showed he has the presence to lead his own
+
+271
+00:24:42,231 --> 00:24:47,416
+film as Captain America. I think he proved that
+here. Yeah, like I said, Sam Wilson is a great
+
+272
+00:24:47,456 --> 00:24:53,101
+character. I don't think he quite has the presence
+and charisma of Chris Evans' Steve Rogers,
+
+273
+00:24:53,581 --> 00:24:58,205
+but I'm not going to say that Anthony Mackie
+is a bad actor because he is phenomenal, especially
+
+274
+00:24:58,245 --> 00:25:03,910
+as Sam. His main motivation in this movie was
+to exonerate Isaiah Bradley from prison, a
+
+275
+00:25:03,950 --> 00:25:08,866
+man who he knew spent most of his life already
+wrongfully incarcerated. and who was a big
+
+276
+00:25:09,086 --> 00:25:15,871
+influence in his decision to take up the shield.
+This go-round was less about Sam proving himself
+
+277
+00:25:15,931 --> 00:25:20,774
+worthy like it was in the Falcon and the Winter
+Soldier series, but this was more about doing
+
+278
+00:25:20,794 --> 00:25:26,298
+what he thought was right by the people around
+him as Captain America does. Albeit, you know,
+
+279
+00:25:26,438 --> 00:25:31,261
+without the super soldier serum, which was a
+big part of his arc in that as he tells Joaquin
+
+280
+00:25:31,301 --> 00:25:35,384
+at the end of the movie, when you're normal,
+you just have to try that much harder, be under
+
+281
+00:25:35,424 --> 00:25:40,352
+that much more pressure, and push yourself.
+to be almost perfect in order to carry that
+
+282
+00:25:40,392 --> 00:25:46,397
+mantle, to stand shoulder to shoulder with Norse
+gods and Jade giants. You know, that kind of
+
+283
+00:25:46,417 --> 00:25:52,222
+thing seemed effortless for Steve Rogers, but
+to continue his legacy, you know, you do what
+
+284
+00:25:52,242 --> 00:25:57,827
+you have to do. I really like that, and I think
+it's inspiring to the everyman. Like you don't
+
+285
+00:25:57,927 --> 00:26:03,312
+need a super soldier serum to be a hero. You
+just need to strive for your best self. And
+
+286
+00:26:03,352 --> 00:26:08,367
+a jet pack doesn't hurt. Yeah, jet pack. with
+vibranium wings that can absorb kinetic energy
+
+287
+00:26:08,387 --> 00:26:13,451
+and then release it explosively, that also does
+not hurt. Can I say that I understand the reasoning
+
+288
+00:26:13,611 --> 00:26:19,775
+of why they gave him the vibranium kinetic absorption
+wings, but I also just hated that he had those?
+
+289
+00:26:20,696 --> 00:26:26,940
+I agree, I totally agree actually. You know,
+in the comic books, the wings were a gift from
+
+290
+00:26:27,000 --> 00:26:33,845
+Black Panther, but the whole kinetic absorption
+and releasing was really unique to the character
+
+291
+00:26:33,865 --> 00:26:39,656
+of Black Panther. And I think that giving that
+ability to Sam Wilson kind of makes Black Panther
+
+292
+00:26:39,736 --> 00:26:44,558
+less unique, right? I don't think he needed
+him. I think he was cool enough without that.
+
+293
+00:26:44,618 --> 00:26:48,800
+Even like at the very beginning with the opening
+action scene, which in my opinion was the best
+
+294
+00:26:48,860 --> 00:26:53,982
+action scene in the film with the sonic boom,
+that was so cool. Yeah, that sonic boom was
+
+295
+00:26:54,043 --> 00:26:58,985
+fucking bad ass. I mean, the vibranium does
+explain why he can do a straight nose dive
+
+296
+00:26:59,045 --> 00:27:04,599
+from, you know. 3000 feet in the air onto the
+ground without breaking his ankles or turning
+
+297
+00:27:04,639 --> 00:27:10,000
+into a pile of jelly because you have that absorption
+I didn't mind that I am wondering what kind
+
+298
+00:27:10,020 --> 00:27:14,502
+of upgrades they're gonna give the Black Panther
+suit the next time we see him though Or her
+
+299
+00:27:14,682 --> 00:27:20,504
+as Shuri in order to make Black Panther just
+that much cooler, right? It's not like everything
+
+300
+00:27:20,524 --> 00:27:25,465
+that's vibranium needs to have that same kind
+of kinetic discharge. It's not like cap shield
+
+301
+00:27:25,505 --> 00:27:30,504
+ever had that Exactly, exactly. It was something
+that was a unique technology that Shuri developed
+
+302
+00:27:30,844 --> 00:27:36,488
+that she incorporated into Black Panther's costume.
+And then it seems later on into Falcon's costume.
+
+303
+00:27:36,748 --> 00:27:42,292
+What did you think of the blue suits compared
+to his white suit? Personally, I actually like
+
+304
+00:27:42,352 --> 00:27:46,895
+Sam Wilson's white suit more because I think
+it pops more visually and it's more accurate
+
+305
+00:27:47,316 --> 00:27:51,939
+to his longstanding Captain America costume
+from the comic books. All right. I'm indifferent.
+
+306
+00:27:51,959 --> 00:27:56,530
+I don't know. I am really glad, though, that
+they ditched the awkward cowl. from the Falcon
+
+307
+00:27:56,550 --> 00:28:01,991
+and the Winter Soldier series, which was a good
+call, yeah. The blue suit works too. You know,
+
+308
+00:28:02,031 --> 00:28:06,512
+the Wakandans, they have good fashion sense,
+obviously. Let's go ahead and move on to Red
+
+309
+00:28:06,552 --> 00:28:13,674
+Hulk, AKA Thaddeus Thunderbolt Ross, who was
+played by Harrison Ford. Now I am not about
+
+310
+00:28:13,714 --> 00:28:18,496
+to shit on a legend like Harrison Ford. You
+know, the guy is fucking Han Solo and Indiana
+
+311
+00:28:18,536 --> 00:28:23,817
+Jones and his influence on these genre films
+in sci-fi, adventure, and even political thriller
+
+312
+00:28:24,037 --> 00:28:31,487
+as Jack Ryan. can't be understated. The guy
+is an icon. That said, I kept wondering how
+
+313
+00:28:31,847 --> 00:28:35,971
+his lines would have been delivered by William
+Hurt, who really came to define the role of
+
+314
+00:28:36,011 --> 00:28:41,195
+Thunderbolt Ross for me through films like The
+Incredible Hulk and Captain America Civil War
+
+315
+00:28:41,356 --> 00:28:47,141
+and briefly in Infinity War. No, I agree 100%.
+Honestly, this film, as much as I hate to say
+
+316
+00:28:47,181 --> 00:28:52,165
+this, kind of made me wish that Harrison Ford
+was cast as the character from the get-go.
+
+317
+00:28:52,734 --> 00:28:57,616
+Yeah, yeah, because I don't think he was bad
+as Thunderbolt Ross. He certainly was a different
+
+318
+00:28:57,676 --> 00:29:02,719
+kind of Thunderbolt Ross, you know, a little
+bit less intense, I think, than William Hurt,
+
+319
+00:29:02,739 --> 00:29:07,262
+maybe a little bit more grounded. At times,
+it kind of seemed like Harrison Ford was winking
+
+320
+00:29:07,282 --> 00:29:12,605
+at the camera in a self-aware sense in his performance.
+But I really think he sold the more vulnerable
+
+321
+00:29:12,745 --> 00:29:17,068
+aspects of Thunderbolt Ross, especially when
+it came to Betty, like when she called him
+
+322
+00:29:17,548 --> 00:29:22,503
+and when she visited him in the raft, like.
+Harrison Ford's performance almost had me in
+
+323
+00:29:22,523 --> 00:29:28,086
+tears at those points. I suppose it was definitely
+a much more sentimental version of the character
+
+324
+00:29:28,126 --> 00:29:34,249
+than we've seen in the past. And it kind of
+took me by surprise. I didn't love his arc,
+
+325
+00:29:34,269 --> 00:29:39,012
+I would say. There was one scene that he got
+in this movie that I thought was like truly
+
+326
+00:29:39,072 --> 00:29:43,914
+explosive, like William Hurt's version of the
+character, like the comic book character. And
+
+327
+00:29:43,954 --> 00:29:50,730
+that was during the newsreel that was played
+at the beginning of the movie. about Thunderbolt's
+
+328
+00:29:50,851 --> 00:29:56,675
+transition from being a general into a president.
+And we got this clip of Thunderbolt Ross with
+
+329
+00:29:56,735 --> 00:30:02,020
+the mustache. And he threw down this podium.
+And I don't know if you're like trying to lip
+
+330
+00:30:02,040 --> 00:30:05,382
+read what he was saying, but I was laughing
+my ass off because he was like, I don't know
+
+331
+00:30:05,402 --> 00:30:10,867
+what the fuck you're talking about. And just
+seeing Harrison Ford kind of chew the scenery,
+
+332
+00:30:11,247 --> 00:30:14,550
+it seemed like he was ad libbing with all these
+curse words and shit. It was hilarious. I was
+
+333
+00:30:14,570 --> 00:30:21,018
+laughing. I swore and I saw him say stupid fucking
+question. Yeah, I think that was what he said.
+
+334
+00:30:21,198 --> 00:30:26,202
+That was great. He looked great there. I kind
+of wish he would have kept the mustache. Yeah,
+
+335
+00:30:26,362 --> 00:30:30,365
+but you know, Red Hulk doesn't have a mustache,
+so they had to lose it for the movie, I guess.
+
+336
+00:30:30,385 --> 00:30:37,189
+And I think that's a mistake, too. Red Hulk
+needs the stash. You think? Absolutely. He
+
+337
+00:30:37,230 --> 00:30:42,933
+has it currently in the comic book, so who knows?
+The Red Hulk was not entirely what I expected
+
+338
+00:30:42,973 --> 00:30:48,357
+in this movie. You know, he wasn't 100% faithful
+to the comics. You know, he didn't retain Ross's
+
+339
+00:30:48,397 --> 00:30:52,852
+mind. I couldn't really make out whether or
+not he actually had his heat powers. Like there
+
+340
+00:30:52,873 --> 00:30:57,056
+were times where Hila would like a grab a car
+and it was on fire, but it wasn't clear whether
+
+341
+00:30:57,096 --> 00:31:02,961
+or not the car was on fire because of his heat
+powers. Like I remember Ross sweating during
+
+342
+00:31:03,001 --> 00:31:07,745
+his transformations, but that could also be
+rationalized that it wasn't due to him being
+
+343
+00:31:07,845 --> 00:31:12,349
+hot. It was like due to the stress. I didn't
+get the impression that he had his heat powers
+
+344
+00:31:12,389 --> 00:31:16,892
+in this movie. I think they tried to do homages
+to that of sorts in this film, like having
+
+345
+00:31:16,912 --> 00:31:21,896
+him surrounded by fire. But yeah, I felt like
+we were kind of cheated of that, especially
+
+346
+00:31:21,937 --> 00:31:26,060
+because in one of the trailers, when his hand
+is turning into the Hulk's, like it leaves
+
+347
+00:31:26,080 --> 00:31:30,645
+this trail of like burning ash. And that was
+cut from the film. Yeah, I didn't appreciate
+
+348
+00:31:30,685 --> 00:31:35,850
+that. Maybe they thought that it would require
+exposition on behalf of general audiences.
+
+349
+00:31:35,890 --> 00:31:39,673
+So they just decided to leave it on the cutting
+room floor. But I think that was a mistake,
+
+350
+00:31:39,693 --> 00:31:43,537
+because if he doesn't have his heat powers,
+then literally he's just a palette swapped
+
+351
+00:31:43,557 --> 00:31:48,090
+version of the Hulk. You should have 100% gone
+that route. And this film had so much exposition
+
+352
+00:31:48,170 --> 00:31:52,992
+anyway, all it would have taken was a single
+line to justify it. This film actually turned
+
+353
+00:31:53,072 --> 00:31:57,153
+out completely different from how I thought
+it was going to turn out because I thought
+
+354
+00:31:57,353 --> 00:32:02,354
+they were introducing adamantium because later
+on in this film, the leader was gonna use it
+
+355
+00:32:02,394 --> 00:32:06,516
+in some way to become a leader of the world.
+And that the only thing that was going to take
+
+356
+00:32:06,556 --> 00:32:12,457
+down his muscle was an adamantium weapon considering
+its high melting point. It was something that
+
+357
+00:32:12,497 --> 00:32:16,870
+could defeat the Hulk. without him melting it.
+You were reading way too much into the adamantium
+
+358
+00:32:16,890 --> 00:32:21,812
+thing than was necessary. Adamantium is not
+that big of a plot point within this film and
+
+359
+00:32:21,832 --> 00:32:26,493
+it didn't need to be. Should have been. I don't
+think your ideas of what could have made this
+
+360
+00:32:26,553 --> 00:32:32,235
+movie better detracts from the quality of the
+film as it exists. Now that's not the claim
+
+361
+00:32:32,255 --> 00:32:36,976
+you've made in past reviews because you've said
+that if you could imagine a film can be better
+
+362
+00:32:37,296 --> 00:32:42,274
+or more closer to the comics or something like
+that, then you degrade that film. Because if
+
+363
+00:32:42,314 --> 00:32:47,156
+someone like you could come up with this great
+idea and the writers couldn't, it shows that
+
+364
+00:32:47,196 --> 00:32:51,598
+the film could have been better, should have
+been better, but it just wasn't. Yeah, I do
+
+365
+00:32:51,638 --> 00:32:56,800
+that for bad films for which it's necessary.
+This is one of those films. This is absolutely
+
+366
+00:32:56,860 --> 00:33:00,802
+one of those films. This is not a bad film.
+Could have been better. It didn't need to be
+
+367
+00:33:00,822 --> 00:33:06,484
+done. That's like saying, oh yeah, then Bruce
+Banner shows up and fights the Red Hulk alongside
+
+368
+00:33:06,524 --> 00:33:10,798
+Captain America. It's like, sure, yeah, you
+can say that. But there are definitely reasons
+
+369
+00:33:10,898 --> 00:33:15,362
+why these choices were made for this particular
+film, which happened to be good. Yeah, budget.
+
+370
+00:33:15,862 --> 00:33:20,545
+No, I don't think so. Absolutely. No, it was
+important for Sam Wilson to stand up to the
+
+371
+00:33:20,585 --> 00:33:25,569
+Red Hulk on his own. I think it was a defining
+moment for the character's growth and career.
+
+372
+00:33:26,049 --> 00:33:29,592
+I think if they could have afforded Mark Ruffalo
+for this film, they could have brought him
+
+373
+00:33:29,612 --> 00:33:32,794
+on. They would have brought him on. I don't
+think they would have. He's not necessary for
+
+374
+00:33:32,814 --> 00:33:36,677
+the story that they're trying to tell here.
+Let's go ahead and move on to the leader, played
+
+375
+00:33:36,697 --> 00:33:41,852
+by Tim Blank Nelson. Now if you remember from
+our Incredible Hulk review, I'm a fan of Tim
+
+376
+00:33:41,872 --> 00:33:47,276
+Blake Nelson as an actor but I did not enjoy
+his performance as Samuel Stearns in that movie.
+
+377
+00:33:47,696 --> 00:33:54,081
+Thankfully, none of his character's cartoonish
+dopiness survived his time in prison apparently
+
+378
+00:33:54,141 --> 00:33:59,384
+because he was much more subdued here and cunning
+and more of what I hoped for from a criminal
+
+379
+00:33:59,424 --> 00:34:06,368
+mastermind like the leader. His power set was
+largely depicted in his near precognitive ability
+
+380
+00:34:06,408 --> 00:34:11,371
+to determine the probabilistic outcomes of events,
+which I think is more believable with this
+
+381
+00:34:11,411 --> 00:34:17,875
+character than with characters like Baron Zemo
+or Lex Luthor, where they were almost precognitive
+
+382
+00:34:17,915 --> 00:34:23,478
+in their ability to manipulate events in Captain
+America Civil War and Batman vs Superman Dawn
+
+383
+00:34:23,498 --> 00:34:29,621
+of Justice. You know, here, the leader is like
+a gamma-irradiated mutate, and he should have
+
+384
+00:34:29,826 --> 00:34:36,030
+borderline precognitive abilities to determine
+events. He also developed neurotropic mind
+
+385
+00:34:36,070 --> 00:34:42,674
+control technology and medicinal yet gamma irradiated
+drugs. I thought it was a pretty sufficient
+
+386
+00:34:42,714 --> 00:34:48,178
+demonstration of his power potential and I was
+pleased with his characterization. I do really,
+
+387
+00:34:48,258 --> 00:34:52,901
+really like what they did with the leader here.
+I don't love his motivation, it seemed kind
+
+388
+00:34:52,941 --> 00:34:57,905
+of petty, but everything else I loved from the
+way they interpreted his mind control to the
+
+389
+00:34:58,005 --> 00:35:03,927
+look of the character. I thought was stellar.
+Yeah, yeah, regarding his motivation, I was
+
+390
+00:35:03,987 --> 00:35:09,388
+wondering, like, why was he so angry and vengeful
+with Thunderbolt Ross for not releasing him
+
+391
+00:35:09,428 --> 00:35:14,470
+from prison when he could have seemingly so
+easily escaped on his own at any time? Like,
+
+392
+00:35:14,990 --> 00:35:20,691
+he had mind control tech, and we saw him escape
+prison in this movie. He could have easily
+
+393
+00:35:20,731 --> 00:35:25,293
+done that and arranged for Ross to be killed
+once he was on the outside, with probably a
+
+394
+00:35:25,353 --> 00:35:30,586
+much less convoluted plan than what he had here.
+You know, yes, he wanted Ross to suffer and
+
+395
+00:35:30,626 --> 00:35:36,128
+to be humiliated. And that was definitely his
+downfall in this movie because it just got
+
+396
+00:35:36,188 --> 00:35:41,690
+way too complicated. And I think a guy as smart
+as the leader wouldn't have needed to wait
+
+397
+00:35:41,730 --> 00:35:46,311
+to be released by President Ross in the first
+place. It also didn't make sense to me why
+
+398
+00:35:46,351 --> 00:35:51,332
+he literally turned himself in at the end. Like,
+the Falcon didn't even need to defeat him.
+
+399
+00:35:51,632 --> 00:35:57,054
+He turned himself in for no reason. For sure.
+For sure. Absolutely no reason. You know, he
+
+400
+00:35:57,075 --> 00:36:02,318
+was upset with Sam for stopping his grand plan
+at Celestial Island But like he didn't need
+
+401
+00:36:02,358 --> 00:36:05,580
+to confront the guy face to face, you know He
+could have just given him a phone call and
+
+402
+00:36:05,600 --> 00:36:11,143
+been like fuck you my plan isn't over There's
+still things to come for President Ross and
+
+403
+00:36:11,283 --> 00:36:15,365
+you'll see in a moment, you know Yeah, yeah
+still leaked the phone call and everything
+
+404
+00:36:15,966 --> 00:36:21,709
+so dumb so dumb again that said I don't want
+to shit on the character Too much the writing
+
+405
+00:36:21,729 --> 00:36:26,266
+was bad but the character I thought was awesome.
+The character was what Hector Hammond should
+
+406
+00:36:26,286 --> 00:36:30,988
+have been in the Green Lantern movie. Yeah,
+I mean, like regarding his look, they could
+
+407
+00:36:31,008 --> 00:36:35,609
+have easily gone the giant forehead route that
+they did in the Green Lantern movie with Hector
+
+408
+00:36:35,649 --> 00:36:39,130
+Hammond. I'm really glad that they didn't do
+that though, because I've always been a fan
+
+409
+00:36:39,710 --> 00:36:44,591
+of the inside out brain look of the leader more
+than the giant forehead look, which I think
+
+410
+00:36:44,631 --> 00:36:49,653
+looks kind of cartoonish and dopey. Although,
+you know, sometimes with the inside out brain
+
+411
+00:36:49,693 --> 00:36:54,802
+look, the artists will render their brain hemispheres
+too far apart and it looks like he has a wrinkly
+
+412
+00:36:54,842 --> 00:36:59,964
+green scrotum on his head. But I think what
+they did here with the character in his design
+
+413
+00:37:00,205 --> 00:37:05,707
+was pretty grounded and definitely not cartoony.
+So that was good. It was kind of grotesque,
+
+414
+00:37:05,727 --> 00:37:10,529
+you know? Yeah, for sure. And if I haven't said
+this, Tim Blake Nelson is a phenomenal actor.
+
+415
+00:37:10,789 --> 00:37:14,751
+I love what he did with the character here.
+And I actually do hope we get to see the character
+
+416
+00:37:14,791 --> 00:37:18,932
+return. I'm actually glad they didn't kill him
+off in this film. Yeah, me too. I want to see
+
+417
+00:37:19,072 --> 00:37:22,962
+Bruce Banner interact with him. Oh, yeah. Yeah,
+that'd be awesome. Let's go ahead and move
+
+418
+00:37:23,022 --> 00:37:28,484
+on to Falcon, aka Joaquin Torres, played by
+Danny Ramirez. I thought Danny Ramirez was
+
+419
+00:37:28,524 --> 00:37:32,806
+fine here. As we saw in the Falcon and the Winter
+Soldier series, you know, he's a charismatic
+
+420
+00:37:32,886 --> 00:37:38,008
+actor, if not still growing as an actor, I think.
+But in most ways, he was the heart of this
+
+421
+00:37:38,048 --> 00:37:42,990
+film, in that he really looked up to these heroes
+like we all do, and strived to be like them,
+
+422
+00:37:43,330 --> 00:37:47,112
+and was really down on himself when he didn't
+rise to the occasion. I thought this character
+
+423
+00:37:47,192 --> 00:37:52,511
+sucked. What? The actor, I don't think, did
+a good enough job. keeping up with the performances
+
+424
+00:37:52,891 --> 00:37:57,915
+of the people he was on the scenes with. His
+dialogue was just terrible as well. I thought
+
+425
+00:37:57,935 --> 00:38:01,678
+he had some fun moments. Like at the beginning
+of the film when he was like super excited
+
+426
+00:38:01,698 --> 00:38:05,982
+that he retrieved the adamantium container and
+he was like, what? No one, no one saw that?
+
+427
+00:38:06,342 --> 00:38:11,507
+Dumb. Like to do something that cool and have
+no witnesses, I think I would feel pretty similarly.
+
+428
+00:38:12,007 --> 00:38:16,931
+It was silly. It was silly nonsense. Marvel
+trying to be funny with the comedy relief.
+
+429
+00:38:17,251 --> 00:38:21,602
+It was just not good though. I thought it was
+funny. But the character was never so ingratiating
+
+430
+00:38:21,642 --> 00:38:25,583
+that I thought he was beyond being killed off
+or anything. I thought that was good. That
+
+431
+00:38:25,603 --> 00:38:29,645
+there were still some stakes there. Because
+for a second I thought he actually was dead
+
+432
+00:38:30,125 --> 00:38:36,747
+after the missile explosion. And my mind was
+like, that would suck. So I think my feelings
+
+433
+00:38:36,807 --> 00:38:40,968
+in that moment kind of informed my feelings
+for the character overall. I'm glad he survived
+
+434
+00:38:41,008 --> 00:38:46,578
+and I'm excited to see where he goes in the
+next Avengers film. I wish he was dead. I just
+
+435
+00:38:46,618 --> 00:38:50,761
+hope that they don't splice him with Falcon
+DNA like they did in the comic books. You know,
+
+436
+00:38:50,821 --> 00:38:54,303
+they could have done that in this movie where
+his body was so mangled from the explosion
+
+437
+00:38:54,323 --> 00:38:59,807
+that they had an infused Falcon DNA in there.
+He just gets bitten by a radioactive Falcon.
+
+438
+00:39:00,227 --> 00:39:06,192
+There you go. No, I didn't need this character.
+I would have much rather seen Falcon have like
+
+439
+00:39:06,372 --> 00:39:12,236
+a romantic interest type sidekick in the same
+way that Cap did in the Winter Soldier. Who
+
+440
+00:39:12,296 --> 00:39:17,427
+is his romantic sidekick? Sharon Carter? Well,
+there is Sharon Carter and Black Widow. Yeah,
+
+441
+00:39:18,308 --> 00:39:24,413
+I guess in this movie, Ruth Batsaraf definitely
+did not fit that bill. Let's talk about her,
+
+442
+00:39:24,673 --> 00:39:31,418
+AKA Sabra, although they never called her Sabra
+here, played by Shirah Haas. Really weird casting
+
+443
+00:39:31,458 --> 00:39:36,161
+choice, in my opinion. For sure. Like, I've
+never seen Shirah Haas in anything before,
+
+444
+00:39:36,702 --> 00:39:41,085
+but I was not a fan. Like, I didn't find her
+believable at all as a former black widow trained
+
+445
+00:39:41,105 --> 00:39:47,142
+by the Red Room. I'm fairly certain that her
+5'2", 100 pound soaking wet ass couldn't take
+
+446
+00:39:47,162 --> 00:39:53,066
+down a toddler. I'm not entirely sure that wasn't
+a toddler on the screen. She was so tiny. Dude,
+
+447
+00:39:53,106 --> 00:39:58,651
+seriously, they got like a fourth grader to
+be your stunt double. I'm being harsh for sure,
+
+448
+00:39:58,771 --> 00:40:02,794
+but like, I don't know, I've never been a biggest
+fan of Sabra from the comic books and I didn't
+
+449
+00:40:02,834 --> 00:40:06,297
+really like this character in the film. I think
+it would have been cooler to see someone like
+
+450
+00:40:06,317 --> 00:40:10,701
+Valerie Cooper in this role because I think
+she'd get a tie it into the X-Men down the
+
+451
+00:40:10,741 --> 00:40:16,772
+line or something. Valerie Cooper, who's that?
+She's like a longstanding governmental liaison
+
+452
+00:40:16,952 --> 00:40:22,756
+in the comics dealing with superhuman, largely
+mutant affairs. If I was the filmmakers, I
+
+453
+00:40:22,776 --> 00:40:28,058
+would have just merged the characters of Sam
+Wilson's Secret Service agent friend and Sabra
+
+454
+00:40:28,139 --> 00:40:32,421
+into one character. That would actually make
+sense. Yeah, the Secret Service friend of his
+
+455
+00:40:32,461 --> 00:40:37,864
+was named Lila Taylor, and she's a reporter
+for the Daily Bugle in the books. Also Sam
+
+456
+00:40:37,904 --> 00:40:43,943
+Wilson's friend. She's like his Lois Lane, kinda.
+She like breaks stories and gets into trouble
+
+457
+00:40:43,963 --> 00:40:48,686
+and stuff like that. I thought she did a better
+job acting than Shira Haas did. I would agree.
+
+458
+00:40:49,127 --> 00:40:53,349
+Yeah, I think that's a good call to have those
+two characters merged because then you could
+
+459
+00:40:53,369 --> 00:40:57,152
+have had like a romantic relationship too as
+well. There you go. If she was given more screen
+
+460
+00:40:57,192 --> 00:41:02,775
+time. It writes itself. Let's go ahead and move
+on to Isaiah Bradley played by Carl Lumbly.
+
+461
+00:41:02,856 --> 00:41:07,431
+Carl Lumbly is great here. When I was looking
+up his... Filmography, I didn't know he has
+
+462
+00:41:07,471 --> 00:41:12,475
+done a lot of DC voice roles including like
+Marsha Manhunter. Oh, yeah and Silas Stone
+
+463
+00:41:13,216 --> 00:41:18,260
+I thought his performance was pretty great here.
+He was super sympathetic You know, especially
+
+464
+00:41:18,760 --> 00:41:23,945
+when he was telling Sam that he couldn't go
+back to prison. Oh, yeah I thought Carl gave
+
+465
+00:41:24,025 --> 00:41:29,169
+probably the most believable performance in
+this movie and that I felt sorry for him But
+
+466
+00:41:29,249 --> 00:41:34,213
+I also believed that he could kick all kinds
+of ass because the guy is massive. He's huge.
+
+467
+00:41:34,413 --> 00:41:40,694
+Yeah I love the character of Isaiah Bradley
+and I think Carl Lumpy does a perfect job portraying
+
+468
+00:41:40,734 --> 00:41:45,118
+him. He was just perfect in the role, absolutely.
+I was surprised that we didn't see his nephew
+
+469
+00:41:45,238 --> 00:41:49,822
+Eli in this movie because he was in the Falcon
+and the Winter Soldier series. And Eli is kind
+
+470
+00:41:49,842 --> 00:41:55,807
+of a big part of the Young Avengers, which they're
+currently setting up with Ms. Marvel and Kate
+
+471
+00:41:55,847 --> 00:42:00,611
+Bishop's Hawkeye. Although I heard that they're
+going to call that project the Champions instead
+
+472
+00:42:00,651 --> 00:42:05,507
+of Young Avengers in order to protect the Avengers
+brand. Like I would have actually loved to
+
+473
+00:42:05,527 --> 00:42:11,334
+have seen Sam Wilson form the Young Avengers.
+Why? Because he's a good mentor. I can see
+
+474
+00:42:11,354 --> 00:42:16,861
+that. And bringing Eli aboard. Yeah. Maybe they'll
+still go that route. We'll see. That does it
+
+475
+00:42:16,901 --> 00:42:20,645
+for all the characters I want to discuss, though.
+So let's go ahead and move into our story highlights.
+
+476
+00:42:28,398 --> 00:42:34,040
+Where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+477
+00:42:34,080 --> 00:42:39,783
+yourself for the ultimate showdowns in comic
+books, video games, movies, and anime. The
+
+478
+00:42:39,843 --> 00:42:45,606
+Dynomic Podcast Network presents Konsole Kombat,
+where video game legends brawl every Monday.
+
+479
+00:42:46,127 --> 00:42:52,622
+Dynamic Duel, where comic book titans smash
+every Tuesday. Max Destruction. TV and action
+
+480
+00:42:52,663 --> 00:42:58,670
+heroes battle every Wednesday, and Sendro World,
+where anime champions clash every Thursday.
+
+481
+00:42:59,150 --> 00:43:04,176
+Join us as we speculate on the matches and armed
+with the power of mathematical simulations,
+
+482
+00:43:04,416 --> 00:43:11,305
+discover who will emerge victorious. Visit dynamicpodcast.com,
+where we settle the debate and settle the score.
+
+483
+00:43:15,623 --> 00:43:20,427
+Former General and Defense Secretary Thunderbolt
+Ross wins his bid for presidential election
+
+484
+00:43:20,527 --> 00:43:25,191
+and gives a speech about ushering an era of
+peace together. Five months later, Sam Wilson
+
+485
+00:43:25,211 --> 00:43:30,415
+as Captain America infiltrates a church in Oaxaca,
+Mexico where the Serpent Society holds hostages
+
+486
+00:43:30,695 --> 00:43:35,399
+while awaiting a buyer for their adamantium
+sample stolen from the Japanese. Serpent's
+
+487
+00:43:35,459 --> 00:43:40,924
+leader, Sidewinder, escapes while Cap fights
+Copperhead, and Joaquin Torres recovers the
+
+488
+00:43:40,964 --> 00:43:47,312
+adamantium as the new Falcon. Wait, Copperhead,
+that's who he fought? Yeah, that guy was Copperhead.
+
+489
+00:43:47,833 --> 00:43:53,737
+And another cameo, the leader of the Navy Seals
+who barges in after that fight against Copperhead.
+
+490
+00:43:54,157 --> 00:44:00,261
+His name is Dennis Dumphy and that is D-Man
+from the comic books, the Avenger D-Man, Demolition
+
+491
+00:44:00,301 --> 00:44:07,126
+Man, as he's also known. Where the stinky guy?
+Yeah, the stinky guy. Oh, they killed D-Man
+
+492
+00:44:07,166 --> 00:44:12,349
+in this movie? Yeah, which is a shame. He got
+his own Lego film recently, which I still have
+
+493
+00:44:12,369 --> 00:44:16,436
+yet to see. but it really makes me want to go
+watch that now. You know, I'm not a huge fan
+
+494
+00:44:16,456 --> 00:44:20,779
+of D-Man, but it is kind of a nice Easter egg.
+No, I actually love that Easter egg. That was
+
+495
+00:44:20,799 --> 00:44:25,883
+great casting too. Yeah, he looks just like
+him, huh? Totally. I think the fight against
+
+496
+00:44:25,943 --> 00:44:31,366
+Copperhead, as I stated earlier, really served
+as a great contrast between the type of Captain
+
+497
+00:44:31,386 --> 00:44:36,130
+America that Sam Wilson is in comparison to
+Steve Rogers. Yeah, I think Steve Rogers would
+
+498
+00:44:36,150 --> 00:44:41,113
+have destroyed that guy in like three seconds,
+but with Sam, he gets stabbed like six times.
+
+499
+00:44:41,626 --> 00:44:46,229
+We'll say twice. We'll say he gets stabbed twice.
+He still brought the guy down. And you know
+
+500
+00:44:46,269 --> 00:44:52,975
+what? If that guy had a jetpack, it would have
+been over like that. Okay. President Ross visits
+
+501
+00:44:52,995 --> 00:44:58,379
+his wife's grave and laments losing touch with
+his daughter Betty, promising to change. Sam
+
+502
+00:44:58,419 --> 00:45:02,843
+takes Joaquin to Baltimore to train with Isaiah
+Bradley, a Korean war veteran and test subject
+
+503
+00:45:02,883 --> 00:45:07,287
+in the government's efforts to recreate the
+super soldier serum. Isaiah objects to Sam
+
+504
+00:45:07,347 --> 00:45:13,011
+working with President Ross when he gets invited
+to a but he accompanies Sam and Joaquin to
+
+505
+00:45:13,051 --> 00:45:18,594
+the event. At the White House, President Ross
+asks Sam to reform the Avengers, and during
+
+506
+00:45:18,634 --> 00:45:24,458
+his speech, he announces a treaty between the
+US, India, France, and Japan to govern the
+
+507
+00:45:24,498 --> 00:45:29,861
+mining and worldwide distribution of adamantium,
+a new element discovered from the emergence
+
+508
+00:45:29,941 --> 00:45:36,225
+of Tiamat the Celestial, which the world now
+calls Celestial Island. When the song Mr. Blue
+
+509
+00:45:36,265 --> 00:45:41,256
+plays, Isaiah suddenly shoots at the president,
+along with several other secret service guards.
+
+510
+00:45:41,836 --> 00:45:46,819
+Sam and the Secret Service chase Isaiah down
+and he denies knowledge of the attack. I thought
+
+511
+00:45:46,839 --> 00:45:52,903
+it was really cool that they had Sam training
+with a super soldier and a former Captain America
+
+512
+00:45:53,243 --> 00:45:57,846
+like Isaiah Bradley. I thought that was perfect.
+I loved seeing him training with him. Yeah,
+
+513
+00:45:58,026 --> 00:46:03,529
+it was good foreshadowing to have that like
+beast of a man try to hit Sam and like missing.
+
+514
+00:46:04,054 --> 00:46:08,036
+Considering that at the end of the movie Sam
+would be going up against the Hulk. He was
+
+515
+00:46:08,056 --> 00:46:11,639
+a lot bigger and stronger But you know there
+was at least precedent there that they had
+
+516
+00:46:11,699 --> 00:46:16,602
+established that Sam's really good at dodging.
+Yeah, he's really agile I really liked the
+
+517
+00:46:16,883 --> 00:46:21,526
+Easter egg that they had with the mr. Blue song
+the trigger song. Oh, yeah That was a nice
+
+518
+00:46:21,546 --> 00:46:27,250
+shout out that I hope fans spotted because mr.
+Blue was Samuel Stern's alias while he was
+
+519
+00:46:27,290 --> 00:46:33,690
+corresponding with mr. Green who was Bruce Banner
+from the Incredible Hulk film Yeah, exactly.
+
+520
+00:46:33,710 --> 00:46:37,431
+While they were trying to develop a cure for
+him. I noticed that I thought that was really
+
+521
+00:46:37,471 --> 00:46:42,092
+cool. Believing that Isaiah was manipulated
+into attacking the president, Sam approaches
+
+522
+00:46:42,152 --> 00:46:47,854
+Ross in his presidential bunker, asking to investigate
+the matter. Believing that Sam lacks objectivity,
+
+523
+00:46:48,234 --> 00:46:53,356
+Ross tells him to stand down and instead assigns
+his security advisor, Ruth Batsaraf, to the
+
+524
+00:46:53,376 --> 00:46:59,586
+case. Sam visits Isaiah in prison, who is convinced
+he'll now die behind bars. While discussing
+
+525
+00:46:59,606 --> 00:47:04,150
+the investigation with Joaquin on a call, Sam
+is attacked by Sidewinder, who reveals the
+
+526
+00:47:04,190 --> 00:47:10,175
+false buyer calculated where Sam would be. Sam
+defeats Sidewinder and has him arrested. Did
+
+527
+00:47:10,195 --> 00:47:14,098
+you think it was weird that they didn't have
+the line from the trailer when President Ross
+
+528
+00:47:14,118 --> 00:47:18,902
+tells them you're no Steve Rogers and Sam responds
+with you're right, I'm not? I can see why they
+
+529
+00:47:18,982 --> 00:47:23,085
+used it in the marketing and maybe they meant
+to include it in the film, but I can understand
+
+530
+00:47:23,225 --> 00:47:28,229
+why they left it out of the movie because it
+was kind of like President Ross's final word,
+
+531
+00:47:28,249 --> 00:47:33,267
+you know. If Sam had contended that he's not,
+then I feel like it would have furthered the
+
+532
+00:47:33,348 --> 00:47:37,389
+argument discussion when really all that was
+said needed to be said at that point. It really
+
+533
+00:47:37,429 --> 00:47:42,672
+made me wonder like what else was cut from this
+film and how drastically it was changed and
+
+534
+00:47:42,712 --> 00:47:47,554
+reshoots, because we know that Kevin Feige did
+have to come in and retool this movie. Yeah,
+
+535
+00:47:47,634 --> 00:47:51,835
+initially it didn't test well. So they switched
+some things up. I don't know. I couldn't tell
+
+536
+00:47:51,855 --> 00:47:57,010
+you how much was cut. The Sidewinder attack
+when it happened in the street scene. scared
+
+537
+00:47:57,030 --> 00:48:01,512
+the shit out of me. Like I was not anticipating
+it. I jumped out of my seat because it was
+
+538
+00:48:01,552 --> 00:48:06,795
+just so sudden, like a car accident almost.
+I thought the actor Giancarlo Esposito absolutely
+
+539
+00:48:06,875 --> 00:48:10,777
+nailed the role, though. Do you know what Sam
+was pouring on the batteries to make them like
+
+540
+00:48:10,857 --> 00:48:15,580
+emit that acid cloud? It looked like it was
+bleach or something like that. I don't know.
+
+541
+00:48:15,600 --> 00:48:19,702
+All I know is that it looked toxic as hell.
+And I wouldn't have wanted to breathe any of
+
+542
+00:48:19,722 --> 00:48:25,005
+that in or fight in that location. I did think
+it was badass, though, when he put up the smoke
+
+543
+00:48:25,045 --> 00:48:30,053
+screen. and then threw the dagger into Sidewinder's
+chest and then drop kick the shit out of him
+
+544
+00:48:30,454 --> 00:48:34,637
+into the car windshield. Yeah, both of them
+got stabbed like six times. What is up with
+
+545
+00:48:34,697 --> 00:48:39,882
+you and getting stabbed six times? Are you trying
+to tell me something? Yeah, Sam got stabbed
+
+546
+00:48:39,902 --> 00:48:47,188
+like six times. Overall, through the course
+of the movie, maybe. Yeah, for sure here. President
+
+547
+00:48:47,228 --> 00:48:51,551
+Ross learns that the Japanese are backing out
+of his treaty and that Samuel Stearns, whom
+
+548
+00:48:51,591 --> 00:48:58,329
+Ross kept imprisoned was behind the assassination
+attempt. Ruth witnesses Stern use guards at
+
+549
+00:48:58,429 --> 00:49:04,054
+Isaiah's prison to kill the would-be assassins,
+except for Isaiah who was put in solitary confinement.
+
+550
+00:49:04,795 --> 00:49:09,739
+Sam has Joaquin trace a call from Sidewinder's
+phone to Camp Echo 1, where they investigate
+
+551
+00:49:10,100 --> 00:49:15,324
+and find Samuel Sterns, who uses mind-controlled
+prison guards to attack the pair and cover
+
+552
+00:49:15,384 --> 00:49:21,674
+his escape. In trying to find the words to describe
+the leader's mind-control technology, I stumbled
+
+553
+00:49:21,714 --> 00:49:27,899
+upon an article written by the New York Times
+and another one by IGN that a group of South
+
+554
+00:49:27,919 --> 00:49:34,604
+Korean scientists discovered that they can use
+strobing lights to turn on and off brain cells
+
+555
+00:49:34,724 --> 00:49:40,589
+in the human mind and they use it as a way to
+treat neurological disorders. But theoretically,
+
+556
+00:49:40,990 --> 00:49:47,215
+it could also be used in this weird mind control
+way. Oh, thanks. I am now terrified of YouTube.
+
+557
+00:49:48,636 --> 00:49:54,328
+Yeah, yeah. New Fear Unlocked. I guess it would
+explain why you're not a huge fan of this movie,
+
+558
+00:49:54,348 --> 00:49:58,411
+because you've been mind controlled by too much
+television. I think that makes sense now. I
+
+559
+00:49:58,431 --> 00:50:03,656
+can't even deny it. I don't know if that's true.
+It could be true. President Ross flies to Tokyo
+
+560
+00:50:03,696 --> 00:50:08,540
+to convince the Japanese prime minister to sign
+the treaty, but the PM provides evidence that
+
+561
+00:50:08,600 --> 00:50:14,185
+Ross ordered the theft of Japan's adamantium
+sample. Sam meets with Navy SEAL Dennis Dumphy
+
+562
+00:50:14,225 --> 00:50:19,109
+to interrogate Sidewinder and learns that the
+leader hired the Serpent Society through the
+
+563
+00:50:19,149 --> 00:50:25,343
+CIA. in an effort to destroy Ross's reputation.
+Sam and Joaquin shut down Stern's mind control
+
+564
+00:50:25,383 --> 00:50:30,625
+tech, but not before he gets two US pilots to
+attack the Japanese fleet in the Indian Ocean
+
+565
+00:50:31,065 --> 00:50:36,506
+near Celestial Island. Sam and Joaquin rendezvous
+with President Ross, who orders Sam and Joaquin
+
+566
+00:50:36,526 --> 00:50:41,628
+to intercept the mind controlled pilots. They
+manage to subdue them in a dogfight, convincing
+
+567
+00:50:41,668 --> 00:50:47,049
+the Japanese to stand down, though Joaquin is
+critically injured. My favorite part of the
+
+568
+00:50:47,109 --> 00:50:53,643
+dogfight. was when Sam used Red Wing to hold
+the Captain America shield. So it provided
+
+569
+00:50:53,723 --> 00:50:59,225
+protection from behind as Sam was being chased
+by the pilot. I thought that was fucking awesome.
+
+570
+00:50:59,605 --> 00:51:03,546
+I giggled like a little kid with Glee when I
+saw that. Yeah, Red Wing just continues to
+
+571
+00:51:03,586 --> 00:51:09,228
+be one of the coolest characters in the MCU,
+I would argue, a drone character that you could
+
+572
+00:51:09,248 --> 00:51:13,709
+like communicate with. That's just awesome.
+Drones are dope. As much as I love Red Wing
+
+573
+00:51:13,749 --> 00:51:19,607
+from the comic books. you know, an actual falcon.
+The adaptation of him as a drone in these movies
+
+574
+00:51:19,747 --> 00:51:24,328
+is too damn cool to shit on. I even like how
+they used him in the final battle against the
+
+575
+00:51:24,368 --> 00:51:29,170
+Hulk as like a ongoing distraction, shooting
+him with lasers and bullets at the same time.
+
+576
+00:51:29,650 --> 00:51:36,132
+Yeah, like flashbangs, that was really cool.
+Yeah, yeah. I want a red wing. So do I. Ross
+
+577
+00:51:36,172 --> 00:51:41,153
+reveals to Sam that he made a deal with Stearns
+to have him cure his heart condition in exchange
+
+578
+00:51:41,193 --> 00:51:45,191
+for a release from prison. but then reneged
+on the deal out of fear that he would stop
+
+579
+00:51:45,211 --> 00:51:50,434
+making his heart medication, and that Stearns
+was seeking revenge for that. Sam questions
+
+580
+00:51:50,474 --> 00:51:54,996
+himself while visiting Joaquin at the Walter
+Reed National Medical Center, but is reassured
+
+581
+00:51:55,036 --> 00:52:00,920
+by Bucky, who's running for Congress, and asserts
+to Sam that he's upholding Steve's legacy well.
+
+582
+00:52:00,980 --> 00:52:05,302
+It was kind of wild to me that Bucky was too
+busy running for Congress to help out his friend.
+
+583
+00:52:05,642 --> 00:52:09,304
+Well by that point there was nothing to help
+with in that exact moment. It was kind of like
+
+584
+00:52:09,344 --> 00:52:13,283
+the situation was resolved at that point. even
+though the leader was still out there, but
+
+585
+00:52:13,343 --> 00:52:17,666
+you know, Ross hadn't turned into the Red Hulk
+yet. And we hadn't had the second climax by
+
+586
+00:52:17,706 --> 00:52:23,370
+that point. Do you think that felt tacked on
+then? No, I don't think so. Does Bucky run
+
+587
+00:52:23,390 --> 00:52:28,214
+for Congress in the comics? No, not to my knowledge.
+No, he doesn't start a political career or
+
+588
+00:52:28,274 --> 00:52:33,038
+anything. So this is pretty unique to the movies.
+You know, it does seem like he eventually goes
+
+589
+00:52:33,118 --> 00:52:37,541
+back to being a superhero though, as we'll see
+in the upcoming Thunderbolts movie. So I don't
+
+590
+00:52:37,561 --> 00:52:43,073
+know if... He's like a superhero congressman,
+or if he loses his election, or what happens
+
+591
+00:52:43,093 --> 00:52:47,636
+there. That's kind of weird, I feel like. Yeah,
+a little bit. We'll see where it goes. Back
+
+592
+00:52:47,656 --> 00:52:51,618
+in Washington, President Ross gets a phone call
+from his daughter Betty before going to the
+
+593
+00:52:51,658 --> 00:52:56,802
+White House lawn for a press conference about
+the treaty. Stearns visits Sam at the Medical
+
+594
+00:52:56,842 --> 00:53:01,605
+Center to admonish him for ruining his plans
+regarding the treaty and is apprehended, but
+
+595
+00:53:01,645 --> 00:53:06,729
+warns that Ross is still in danger. During the
+briefing, audio is played over the speakers
+
+596
+00:53:06,789 --> 00:53:11,747
+of Ross' call with Stearns, implicating him
+in his dealings with the villain. Enraged,
+
+597
+00:53:11,867 --> 00:53:17,029
+Ross turns into the Red Hulk and Sam flies in
+to stop him. Red Hulk destroys much of the
+
+598
+00:53:17,049 --> 00:53:21,311
+White House before Sam can take the battle first
+to the Washington Monument and then Hanes Point
+
+599
+00:53:21,371 --> 00:53:25,873
+at the Cherry Blossom Grove. Though Sam gets
+his suit destroyed, he uses his counseling
+
+600
+00:53:25,913 --> 00:53:30,575
+skills to appeal to the Red Hulk's love for
+his daughter, Betty, represented by the cherry
+
+601
+00:53:30,595 --> 00:53:36,257
+blossom trees, and Ross reverts to his human
+form. As much as you hate that moment, I really
+
+602
+00:53:36,297 --> 00:53:41,511
+liked the line during the fight, when Sam was
+like, Bucky's line was bullshit. I should have
+
+603
+00:53:41,531 --> 00:53:45,333
+taken the serum. Yeah, that was the funniest
+line of the whole movie I thought. What I don't
+
+604
+00:53:45,353 --> 00:53:51,315
+understand is why when the Red Hulk arrived
+in the cherry blossom Grove, his D transformation
+
+605
+00:53:51,335 --> 00:53:54,636
+didn't work then. And Sam was like, dang it,
+I thought this was gonna work or something
+
+606
+00:53:54,676 --> 00:53:59,538
+like that. And then all of a sudden, for some
+reason, it did work just at this random moment.
+
+607
+00:53:59,899 --> 00:54:05,341
+You're not wrong. Sam did try to appeal to Ross's
+love for his daughter when he first brought
+
+608
+00:54:05,361 --> 00:54:11,336
+him into the cherry blossom Grove. It wasn't
+until after he like detonated all of that kinetic
+
+609
+00:54:11,416 --> 00:54:16,559
+energy into the Red Hulk that he kind of stunned
+the creature. And then for some reason, it
+
+610
+00:54:16,599 --> 00:54:20,401
+worked, I think maybe because he was able to
+stun the creature and kind of brought him out
+
+611
+00:54:20,421 --> 00:54:24,343
+of that rage that he was finally able to get
+through to him, because I don't think Red Hulk
+
+612
+00:54:24,363 --> 00:54:29,166
+was listening the first time. But he wasn't
+even stunned. Like he got up and he was still
+
+613
+00:54:29,286 --> 00:54:33,948
+angry. He was still Red Hulk. I think he was
+a little bit stunned. Like that's a lot of
+
+614
+00:54:33,968 --> 00:54:40,151
+kinetic energy that those wings absorbed. Debatable.
+How is that debatable? That he was stunned.
+
+615
+00:54:40,632 --> 00:54:46,474
+Oh. I mean, that's what you have to go with.
+I refuse! Don't be a stubborn asshole. Sam
+
+616
+00:54:46,494 --> 00:54:51,157
+visits the prison where Isaiah is exonerated
+and freed, and then visits Ross in the Raft
+
+617
+00:54:51,217 --> 00:54:56,419
+Prison where it's revealed that though the Adamantium
+Treaty was ratified, Ross took responsibility
+
+618
+00:54:56,439 --> 00:55:01,241
+for his actions and resigned as president. His
+daughter Betty also stops by to visit him.
+
+619
+00:55:01,730 --> 00:55:05,931
+Sam then visits Joaquin in the hospital where
+he reassures him that though it can feel like
+
+620
+00:55:05,951 --> 00:55:10,713
+you have to be perfect as a hero, it's more
+about doing your best. He invites him to join
+
+621
+00:55:10,773 --> 00:55:16,136
+the New Avengers. In a post-credit scene, the
+leader tells Sam that he has calculated that
+
+622
+00:55:16,176 --> 00:55:22,699
+a war between worlds is coming. Which was super
+vague, like super safe. I didn't love it. I
+
+623
+00:55:22,759 --> 00:55:27,881
+especially didn't love the dialogue. See, this
+is a joke. No joke from you. I would think
+
+624
+00:55:28,061 --> 00:55:33,984
+would be funny because you. hurt people. I don't
+know, something stupid like that. I do think
+
+625
+00:55:34,024 --> 00:55:38,466
+it's good that, you know, how many movies are
+we into the multiversal saga? And it seems
+
+626
+00:55:38,506 --> 00:55:43,669
+like outside of Spider-Man and Doctor Strange,
+no one really on Earth even seems to know about
+
+627
+00:55:43,709 --> 00:55:48,712
+the multiverse. So as a concept, the multiversal
+thing seems late to the party. But Leader's
+
+628
+00:55:48,732 --> 00:55:52,734
+statement was a good way, I think, to get the
+ball rolling, at least with the new Avengers
+
+629
+00:55:52,774 --> 00:55:53,855
+team that's going to be formed.
+
+630
+00:55:59,674 --> 00:56:06,418
+or other people in their universe, like incursions.
+Other people in other worlds that they would
+
+631
+00:56:06,458 --> 00:56:12,422
+have to be fighting. So like villains in other
+universes. Okay. And maybe specifically he
+
+632
+00:56:12,462 --> 00:56:16,824
+was even talking about Dr. Doom or Kang since
+we don't know what's happening with that officially
+
+633
+00:56:16,884 --> 00:56:21,387
+yet. I would have loved a mid credit scene.
+I think as Devin Davis, one of our executive
+
+634
+00:56:21,427 --> 00:56:27,631
+producers stated, it was strange to have two
+of Hulk's big villains in a movie and not have
+
+635
+00:56:27,671 --> 00:56:32,674
+the Hulk himself show up at least once. That's
+what I was saying earlier. No one listens to
+
+636
+00:56:32,694 --> 00:56:37,818
+what you say ever. I'm saying the movie would
+have been better with the Hulk cameo. And sure,
+
+637
+00:56:37,858 --> 00:56:44,162
+make it mid credits, that's fine. I think overall
+the movie was good. I really liked it. I enjoyed
+
+638
+00:56:44,202 --> 00:56:50,767
+my time in the theater and I think it lived
+up to my expectations. The film admirably coheres
+
+639
+00:56:50,847 --> 00:56:56,502
+some of the Marvel's best continuity while delivering
+on, you know, political thriller elements that
+
+640
+00:56:56,522 --> 00:57:03,206
+we expect from the Captain America franchise.
+In all, I'm giving it 4 stars out of 5 and
+
+641
+00:57:03,246 --> 00:57:10,610
+giving it a fresh rating on Rotten Tomatoes.
+I disagree. I don't think it's 4 stars. I think
+
+642
+00:57:10,630 --> 00:57:14,972
+there's problems with the whole continuity considering
+a lot of people haven't done their homework.
+
+643
+00:57:15,413 --> 00:57:19,435
+That's not my concern. I think there are problems
+with the action. I think there were problems
+
+644
+00:57:19,515 --> 00:57:23,977
+with the villains in the story and the way both
+of them were defeated. I think there was problems
+
+645
+00:57:23,997 --> 00:57:29,941
+with the... the acting and the editing and the
+direction and the budget. I do not think this
+
+646
+00:57:29,961 --> 00:57:34,863
+is a four star film. I think it's a three star
+film, maybe three and a half, but definitely
+
+647
+00:57:34,904 --> 00:57:41,647
+not a four. And yet you gave the Flash four
+and a half stars. OK, OK. Hey, hey, I'm sorry.
+
+648
+00:57:44,749 --> 00:57:49,772
+I was young and immature and I changed my ways.
+I don't think you have. I don't think you have.
+
+649
+00:57:50,272 --> 00:57:56,670
+But let us know what you guys thought about
+the movie. AJ9K, help close this out. Thanks
+
+650
+00:57:56,690 --> 00:58:02,071
+for listening to Dynamic Duel. Visit the show's
+website at dynamicDuel.com and follow us on
+
+651
+00:58:02,131 --> 00:58:08,613
+Instagram at dynamicDuelpodcast. You can support
+the show on Patreon at patreon.com slash dynamicDuel
+
+652
+00:58:08,753 --> 00:58:12,954
+and joining a tier that works for you, or by
+rating and reviewing Dynamic Duel on Apple
+
+653
+00:58:12,994 --> 00:58:18,596
+Podcasts, Spotify, Podchaser or on our website.
+Don't forget to listen to the other shows in
+
+654
+00:58:18,616 --> 00:58:24,157
+the DynaMic Podcast Network, including Max
+Destruction, Senjow World and Konsole Kombat.
+
+655
+00:58:25,822 --> 00:58:33,064
+In our next episode, we are doing a team duel
+between Darksides elite. So like Calaback and
+
+656
+00:58:33,084 --> 00:58:39,287
+Granny Goodness and Dasad and Steppenwolf against
+Thanos's Black Order, which you may recall
+
+657
+00:58:39,407 --> 00:58:45,750
+from the Infinity War films. Right. Yeah, it's
+people like Ebony Maw, Corvus Glaive, Proxima
+
+658
+00:58:45,790 --> 00:58:51,472
+Midnight. It's Thanos's team versus Darksides
+team. And this was a battle chosen by our executive
+
+659
+00:58:51,512 --> 00:58:57,115
+producers. And I'm really interested in a rematch
+between Darkseid and Thanos. If you guys haven't
+
+660
+00:58:57,155 --> 00:59:02,239
+listened to that Duel episode, definitely check
+that out before listening to next week's. But
+
+661
+00:59:02,259 --> 00:59:06,923
+that does it for this episode. We wanna give
+a big thanks to our executive producers, Ken
+
+662
+00:59:06,943 --> 00:59:12,187
+Johnson, John Strausky, Zachary Hepburn, Dustin
+Balcom, Miggy Mathagean, Brandon Estregarden,
+
+663
+00:59:12,367 --> 00:59:18,312
+Nathaniel Wagner, Levi Yeaton, Austin Wieselowski,
+AJ Dunkerley, Nick Ibbonto, Scott Camacho,
+
+664
+00:59:18,572 --> 00:59:24,977
+Gil Camacho, Adam Spies, Dean Molesky, Devin
+Davis, Joseph Kirsting, Josh Leiner, Mike Williams,
+
+665
+00:59:25,390 --> 00:59:29,815
+and Oscar Galvez for helping make this podcast
+possible. We'll talk to you guys next week.
+
+666
+00:59:30,276 --> 00:59:31,918
+Up up and away, true believers.
+
