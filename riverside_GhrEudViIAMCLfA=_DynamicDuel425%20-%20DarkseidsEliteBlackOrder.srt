@@ -1,0 +1,2925 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a DynaMic Network podcast.
+
+2
+00:00:24,654 --> 00:00:29,097
+Hi and welcome to the Dynamic Duel Podcast,
+a weekly show where we review superhero films
+
+3
+00:00:29,457 --> 00:00:34,641
+and debate the superiority between Marvel and
+DC by comparing their characters in stat-based
+
+4
+00:00:34,801 --> 00:00:41,406
+battle simulations. I'm Marvelous Joe. And I'm
+his twin brother Johnny DC. And we got a special
+
+5
+00:00:41,446 --> 00:00:47,710
+episode for you guys. This is our 425th episode.
+And as long time listeners know, every 25 episodes,
+
+6
+00:00:47,730 --> 00:00:53,366
+we're coming at you guys with a team duel. And
+this episode is going to be... Revenge match
+
+7
+00:00:53,486 --> 00:00:57,969
+kind of like a grudge match between Thanos and
+Darkseid except they're bringing their posses
+
+8
+00:00:58,009 --> 00:01:04,534
+with them it's gonna be Darkseids elite versus
+the black order and Revenge is gonna be so
+
+9
+00:01:04,594 --> 00:01:09,978
+sweet from our original Duel episode of dark
+side versus Thanos Just laying that out there
+
+10
+00:01:10,038 --> 00:01:15,802
+right now. Yeah, if any episode deserved a sequel
+It would have to be Darkseid versus Thanos
+
+11
+00:01:15,882 --> 00:01:20,245
+because that has to be one of the most epic
+pairings between Marvel and DC characters ever
+
+12
+00:01:20,625 --> 00:01:25,693
+Yeah Right, and this matchup is going to be
+equally as epic. Can't wait to see who wins
+
+13
+00:01:25,713 --> 00:01:30,076
+between Darkseid's elite, which is basically,
+you know, his main generals on the planet Apocalypse
+
+14
+00:01:30,396 --> 00:01:35,599
+versus the Black Order, who non-comic book readers
+will definitely recognize from the Infinity
+
+15
+00:01:35,639 --> 00:01:40,102
+War and endgame films. They're like Thanos'
+generals. Before that matchup, we're going
+
+16
+00:01:40,122 --> 00:01:44,285
+to break down the latest comic book movie news
+to come out this past week, of which we have
+
+17
+00:01:44,365 --> 00:01:49,709
+two news items. We got news that James Watkins
+is going to direct the Clayface film that's
+
+18
+00:01:49,729 --> 00:01:55,861
+in development. and we got the official trailer
+for Batman Ninja vs Yakuza League. As always
+
+19
+00:01:55,901 --> 00:01:59,964
+we list our segment times in our episode description,
+so feel free to check out the show notes if
+
+20
+00:01:59,984 --> 00:02:05,267
+you want to skip ahead to a particular topic.
+Our artificially intelligent Duel simulator
+
+21
+00:02:05,387 --> 00:02:12,574
+AJ9K has a quick message for our listeners,
+so listen up. Why hello there, do you want
+
+22
+00:02:12,634 --> 00:02:17,536
+even more from this podcast? Then become a part
+of the dynamic Duel community on Patreon, where
+
+23
+00:02:17,556 --> 00:02:22,018
+you can choose from three tiers. The dynamic
+two-oh tier gives you access to our Discord
+
+24
+00:02:22,058 --> 00:02:26,980
+chat server. The fantastic four tier gives you
+two bonus episodes each month, and the X-Force
+
+25
+00:02:27,000 --> 00:02:32,318
+tier makes you an executive producer of this
+show. Lastly. The Diner Mike podcast network
+
+26
+00:02:32,358 --> 00:02:36,820
+tier lets you create your own podcast using
+this Monte Carlo simulator. Johnny and Joe
+
+27
+00:02:36,860 --> 00:02:41,563
+will help you develop your show, provide graphic
+support and consultation, and get you simulation
+
+28
+00:02:41,583 --> 00:02:47,846
+results. Pitch the twins your ideas via email
+at dynamicduelpodcast at gmail.com. Check it
+
+29
+00:02:47,906 --> 00:02:54,389
+out at patreon.com slash dynamicduel. Pip pip
+cheerio. Thanks AJ9K and thanks to everyone
+
+30
+00:02:54,409 --> 00:02:59,171
+who supports the podcast. Guys be sure to tune
+into the other shows in the DynaMic Podcast
+
+31
+00:02:59,231 --> 00:03:03,254
+Network this week including Max Destruction
+which pits your favorite action heroes from
+
+32
+00:03:03,314 --> 00:03:08,276
+film and television against each other. This
+Wednesday, hosts Scotty and Gilly are finding
+
+33
+00:03:08,356 --> 00:03:14,120
+out who would win in a fight between the MCU's
+Captain America Steve Rogers and the DCEU's
+
+34
+00:03:14,480 --> 00:03:20,283
+Batman aka Batfleck. Which is a matchup I've
+always wanted to see from Max Destruction.
+
+35
+00:03:20,643 --> 00:03:24,185
+Yeah, it's nice that since we focus on the comic
+book characters for our duels that they can
+
+36
+00:03:24,534 --> 00:03:29,518
+focus on the movie characters. I'm really interested
+in that fight too. On the Senjoh World podcast,
+
+37
+00:03:29,558 --> 00:03:35,022
+host Zachary Hepburn speculates on fights between
+fan favorite anime and manga characters. This
+
+38
+00:03:35,102 --> 00:03:42,388
+Thursday, Zach is putting out an epic 10 versus
+10 matchup of Team Naruto, AKA the Akatsuki
+
+39
+00:03:42,648 --> 00:03:48,673
+versus Team Bleach, AKA the Espada. That'll
+be a big one. Anime fans definitely check that
+
+40
+00:03:48,753 --> 00:03:53,611
+out. On the Konsole Kombat podcast, hosts John
+and Dean simulate battles between popular video
+
+41
+00:03:53,631 --> 00:03:58,894
+game characters. In yesterday's episode, they
+found out who would win between Commander Shepard,
+
+42
+00:03:59,154 --> 00:04:05,897
+female Commander Shepard from Mass Effect and
+Catherine B320 from Halo. Visit dynamicpodcasts.com
+
+43
+00:04:06,477 --> 00:04:11,479
+or click the link in our show notes to listen
+to all of the shows in the DynaMic Podcast
+
+44
+00:04:11,579 --> 00:04:18,866
+Network. But with that out of the way, quick
+to the no prize. A no prize is an award Marvel
+
+45
+00:04:18,926 --> 00:04:24,508
+used to give out to fans. Our version, the Dynamic
+Duel No Prize, is a digital award we post on
+
+46
+00:04:24,628 --> 00:04:30,069
+Instagram for the person that we feel gave the
+best answer to our question of the week. Last
+
+47
+00:04:30,089 --> 00:04:35,791
+week we asked you guys, what's your favorite
+Captain America solo film and why? And we incorporated
+
+48
+00:04:35,971 --> 00:04:40,752
+all of the Captain America movies, not just
+from the MCU franchise, but also through history.
+
+49
+00:04:41,092 --> 00:04:44,553
+We got three answers, so let's go ahead and
+run down the two honorable mentions and the
+
+50
+00:04:44,593 --> 00:04:51,168
+no prize winner. Our first honorable mention
+goes to Lee Tapscott, who said, Hi, this is
+
+51
+00:04:51,228 --> 00:04:57,632
+Lee. My favorite Captain America project was
+Captain America. Seventy five heroic years.
+
+52
+00:04:58,192 --> 00:05:05,896
+This aired back in 2016 on ABC right before
+the premiere of Agent Carter. This is a documentary
+
+53
+00:05:05,936 --> 00:05:12,500
+movie on the history of Captain America, both
+in comics and films, and examine the influence
+
+54
+00:05:12,580 --> 00:05:18,227
+of this character in America culture throughout
+the years. with tons of interviews and snippets
+
+55
+00:05:18,267 --> 00:05:22,009
+from movies and comics. Oops, it looks like
+he got kind of cut off at the end there, but
+
+56
+00:05:22,469 --> 00:05:28,172
+I remember when this documentary came out. It's
+not like a solo film per se, but it was really
+
+57
+00:05:28,192 --> 00:05:33,215
+cool to see comic book and movie creators comment
+on the influence of Captain America back when
+
+58
+00:05:33,255 --> 00:05:38,918
+he first debuted around World War II. There
+have been quite a few solid comic book documentaries
+
+59
+00:05:38,978 --> 00:05:43,821
+made over the years. I remember the History
+Channel put out an amazing one back in the
+
+60
+00:05:43,841 --> 00:05:48,629
+early 2000s. Oh yeah, wasn't it like comic book
+superheroes unmasked? Yeah, I would highly
+
+61
+00:05:48,669 --> 00:05:53,513
+recommend that documentary to anyone who's like
+getting into comics. There was also a really
+
+62
+00:05:53,573 --> 00:05:58,257
+great documentary on the Unbreakable special
+features for that movie Unbreakable, since
+
+63
+00:05:58,297 --> 00:06:03,081
+you know that movie deals with comic books and
+superheroes. Oh yeah, great interviews with
+
+64
+00:06:03,122 --> 00:06:07,886
+comic book creators like Dave Gibbons and Frank
+Miller, if I remember correctly. Yeah. DC has
+
+65
+00:06:07,906 --> 00:06:13,218
+had one TV special documentary-esque type project
+that they put out. I think it was right around
+
+66
+00:06:13,258 --> 00:06:18,043
+the time of Batman v Superman and that was hosted
+by Kevin Smith. It was called Dawn of Justice
+
+67
+00:06:18,083 --> 00:06:24,909
+League if I remember correctly. And no one cares
+about that one. Oh, I'm sorry. Moving on to
+
+68
+00:06:24,949 --> 00:06:30,073
+our next honorable mention. This next answer
+was given by Travis Herndon, who said, What's
+
+69
+00:06:30,113 --> 00:06:34,377
+up, dynamic dudes? Travis here. Shout out to
+my evil twin. So my answer had to be Falcon
+
+70
+00:06:34,397 --> 00:06:39,990
+and Winter Soldier. Seeing Bucky and Sam having
+this buddy cop dynamic was cool. While yeah,
+
+71
+00:06:40,010 --> 00:06:44,475
+the villains were a big lackluster, getting
+introduced to the tragic character of Isaiah
+
+72
+00:06:44,515 --> 00:06:50,841
+Bradley was powerful, as well as getting introduced
+to everybody's favorite party city cat, John
+
+73
+00:06:50,881 --> 00:06:55,786
+Walker. So yeah, Falcon and the Winter Soldier
+is my favorite series. Yeah, the Falcon and
+
+74
+00:06:55,806 --> 00:07:00,090
+the Winter Soldier was a great television show.
+It had phenomenal action, especially that Tunisia
+
+75
+00:07:00,110 --> 00:07:04,546
+flight scene from the first episode and the
+dynamic between. The Falcon and the Winter
+
+76
+00:07:04,586 --> 00:07:09,169
+Soldier is really enjoyable. In fact, it's probably
+one of the things missing from the recent Brave
+
+77
+00:07:09,209 --> 00:07:13,912
+New World movie. Yeah, Bucky's cameo in that
+left a lot to be desired. But yeah, I would
+
+78
+00:07:13,932 --> 00:07:17,595
+say Falcon and the Winter Soldier is definitely
+one of Marvel's best television series that
+
+79
+00:07:17,615 --> 00:07:23,239
+they put out. I love what they did with Baron
+Zemo. Didn't love Power Broker, but I loved
+
+80
+00:07:23,359 --> 00:07:27,902
+US Agent and pretty much everything else. I
+didn't love Flag Smasher either. Oh yeah, that
+
+81
+00:07:27,922 --> 00:07:34,174
+was dumb. Great answer, Travis Herndon, but
+the winner of this week's No Prize is... Matt
+
+82
+00:07:34,334 --> 00:07:41,039
+from Texas who said, Hey guys, it's Matt from
+Texas. Uh, I would say my favorite Captain
+
+83
+00:07:41,079 --> 00:07:47,384
+America movie is probably going to be Captain
+America, the first Avenger is the quintessential
+
+84
+00:07:47,424 --> 00:07:52,949
+Captain America movie. It's where he gets his
+start shows who he truly is. And it's world
+
+85
+00:07:52,969 --> 00:07:58,653
+war II. I love world war II. I study it as a
+history major. Um, but yeah, that's it. Peace
+
+86
+00:07:58,713 --> 00:08:03,864
+out. Yeah, a lot of people love Captain America,
+the first Avenger. It's not personally my favorite
+
+87
+00:08:04,004 --> 00:08:08,106
+Captain America film, but I could see where
+a lot of people are coming from when they cite
+
+88
+00:08:08,146 --> 00:08:13,068
+it as their favorite, because it's probably
+the most unique film out of the Captain America
+
+89
+00:08:13,228 --> 00:08:17,750
+MCU franchise. Right. Usually the franchise
+tends to go down the political thriller route.
+
+90
+00:08:18,031 --> 00:08:25,122
+But Captain America took a very pulpy approach
+to World War Two. in the vein of films like
+
+91
+00:08:25,182 --> 00:08:29,465
+Raiders of the Lost Ark or The Rocketeer. In
+fact, the guy who directed The First Avenger
+
+92
+00:08:29,906 --> 00:08:34,689
+also directed The Rocketeer. So there was something
+very charming about the film and it just had
+
+93
+00:08:34,729 --> 00:08:39,932
+a lot of heart. Yeah, in my opinion, Captain
+America, The First Avenger is the way Captain
+
+94
+00:08:39,953 --> 00:08:45,456
+America movies should be done. These wartime
+films where Captain America gets to punch Nazis,
+
+95
+00:08:45,777 --> 00:08:51,340
+seeing him go up against the Red Skull is so
+iconic. For sure, yeah. So great answer, Matt.
+
+96
+00:08:51,641 --> 00:08:55,395
+You win this week's snow prize. If you the listener
+want a shot at winning your own no prize, go
+
+97
+00:08:55,415 --> 00:08:59,565
+ahead and stay tuned to later on this episode
+when we'll be asking another question of the
+
+98
+00:08:59,585 --> 00:09:02,492
+week. And now that that's done, on to the news!
+
+99
+00:09:08,034 --> 00:09:13,655
+Alright, a few months ago DC Studios announced
+that it would be releasing a clay face solo
+
+100
+00:09:13,675 --> 00:09:20,977
+film produced by Matt Reeves who is the director
+of The Batman. We weren't sure if this movie
+
+101
+00:09:20,997 --> 00:09:28,339
+was going to take place in the DCU or the Elseworlds
+universe in which The Batman takes place. We've
+
+102
+00:09:28,379 --> 00:09:35,241
+since learned that it's going to be a DCU film
+directed by James Watkins who has directed
+
+103
+00:09:35,381 --> 00:09:42,640
+other including Speak No Evil, The Woman in
+Black, and The Descent Part 2. None of which
+
+104
+00:09:43,260 --> 00:09:49,063
+I have seen. Not a big horror guy. I haven't
+seen any of those either, but Speak No Evil
+
+105
+00:09:49,083 --> 00:09:53,525
+with James McAvoy did look pretty solid. I gotta
+check that out. Yeah, that film did pretty
+
+106
+00:09:53,545 --> 00:09:58,587
+well critically too, as have several other of
+his projects. Now, the Clayface film is said
+
+107
+00:09:58,627 --> 00:10:05,330
+to only have a budget of about $40 million,
+which is nothing. They're definitely selling
+
+108
+00:10:05,370 --> 00:10:10,373
+this as a low budget horror project, which,
+you know, is not terrible. There have been
+
+109
+00:10:10,493 --> 00:10:16,036
+a lot of great low budget horror films to have
+come out recently that have gotten a lot of
+
+110
+00:10:16,096 --> 00:10:20,979
+acclaim. So there is promise here. Oh, yeah,
+I'm super excited by this. It was interesting
+
+111
+00:10:21,019 --> 00:10:27,142
+that we got a look at the DCU version of Clayface
+in the recent Creature Commandos animated series.
+
+112
+00:10:27,603 --> 00:10:32,345
+As those of you have watched the show will know,
+Clayface didn't really meet a timely end to
+
+113
+00:10:32,385 --> 00:10:36,968
+there. but you know, it's really hard to kill
+Clayface, so I'm certain that he'll be coming
+
+114
+00:10:37,008 --> 00:10:42,431
+back, but also, this film doesn't have to follow
+that series, it could be a prequel. Yeah, honestly,
+
+115
+00:10:42,531 --> 00:10:48,114
+I hope it is. I hope it starts off something
+closer to the Clayface that we got in the Batman
+
+116
+00:10:48,214 --> 00:10:53,537
+Caped Crusader animated series just last year.
+Start there and then move into the Creature
+
+117
+00:10:53,557 --> 00:10:57,919
+Commandos version of Clayface. I think that's
+the best way to go. I would agree with that,
+
+118
+00:10:57,959 --> 00:11:03,203
+yeah. As we've talked about earlier, Clayface
+is being written by Mike Flanagan who has also
+
+119
+00:11:03,243 --> 00:11:08,427
+written horror films like Doctor Sleep, The
+Haunting, The Fall of the House of Usher, and
+
+120
+00:11:08,487 --> 00:11:13,211
+The Haunting of Hill House, to name a few. The
+film is set to be released on September 11th
+
+121
+00:11:13,392 --> 00:11:20,598
+of 2026, so look forward to it then. But speaking
+of the reveal that James Watkins is set to
+
+122
+00:11:20,638 --> 00:11:24,101
+direct this film, that brings us to our question
+of the week.
+
+123
+00:11:28,662 --> 00:11:34,125
+What horror director would you like to see direct
+a film for one of Batman's villains? And which
+
+124
+00:11:34,185 --> 00:11:39,047
+villain? So we're looking for you guys to pair
+your favorite horror director with your favorite
+
+125
+00:11:39,067 --> 00:11:43,150
+Batman villain. A lot of options to choose from.
+We're really interested in hearing what you
+
+126
+00:11:43,170 --> 00:11:47,992
+guys have to say. Record your answer at dynamicduel.com
+by clicking on the red microphone button in
+
+127
+00:11:48,012 --> 00:11:51,894
+the bottom right hand corner of the screen,
+which will prompt you to leave us a voicemail.
+
+128
+00:11:52,235 --> 00:11:56,017
+Your message could be up to 30 seconds long,
+and don't forget to leave your name in case
+
+129
+00:11:56,037 --> 00:12:00,752
+we include you on the podcast. We'll pick our
+favorite answer and award that person a dynamic
+
+130
+00:12:00,792 --> 00:12:06,797
+duel no prize that we'll post to Instagram.
+Be sure to answer before March 1st. Also in
+
+131
+00:12:06,817 --> 00:12:14,144
+DC news this past week we got the official trailer
+for Batman Ninja vs Yakuza League and it looks
+
+132
+00:12:14,304 --> 00:12:22,651
+so damn epic and bonkers in the best way possible
+just like the first animated film was. I loved
+
+133
+00:12:22,691 --> 00:12:28,300
+that movie. I almost gave that movie 5 stars.
+I still enjoy watching that movie and this
+
+134
+00:12:28,340 --> 00:12:34,084
+trailer has me really pumped to see the sequel,
+which looks like it picks up right after the
+
+135
+00:12:34,124 --> 00:12:39,308
+first one ends. Yeah, I really like how the
+first Batman Ninja movie really delved into
+
+136
+00:12:39,608 --> 00:12:44,331
+like medieval history of Japan, right? It took
+place in a very historical context and now
+
+137
+00:12:44,631 --> 00:12:50,616
+the sequel takes place in a very modern context.
+We get to see modern Japan with these Yakuza
+
+138
+00:12:50,656 --> 00:12:55,544
+gangs going up against each other and I guess
+Japan was positioned directly over Gotham City
+
+139
+00:12:55,804 --> 00:13:00,628
+in this world. Right, because Japan is missing
+on the map. Something they did in the past
+
+140
+00:13:00,668 --> 00:13:05,852
+in the first movie has altered the present.
+And it looks like the premise of the film is
+
+141
+00:13:05,892 --> 00:13:12,438
+that Batman and his team have to go through
+the Justice League in order to reset reality.
+
+142
+00:13:12,498 --> 00:13:17,182
+Fantastic premise. I love seeing all the different
+Justice League characters and their designs.
+
+143
+00:13:17,723 --> 00:13:22,943
+Everything from Jessica Cruz to Aquaman to Flash
+and Wonder Woman. look amazing. We haven't
+
+144
+00:13:22,983 --> 00:13:27,466
+seen Superman yet, though I suspect we will.
+Maybe he'll be like the big boss at the end.
+
+145
+00:13:27,846 --> 00:13:32,709
+Yeah, the Shogun. Right, yeah. Russell Gould
+was really cool to see. I'm sure he's involved
+
+146
+00:13:32,729 --> 00:13:37,092
+in what's going on in some way. I always love
+him as a Batman villain, but we also get to
+
+147
+00:13:37,112 --> 00:13:41,736
+see other Batman villains like the Joker pop
+up as well. This film is going to be so packed,
+
+148
+00:13:42,016 --> 00:13:47,139
+like with other characters like Robin and Nightwing
+and Red Hood, and I'm totally here for it.
+
+149
+00:13:47,600 --> 00:13:53,572
+Yeah, it looks like a lot of fun. The shot where
+the Japanese Yakuza assassins were being fired
+
+150
+00:13:53,612 --> 00:13:59,436
+out of this giant like Gatling gun onto Gotham
+City. Right. It was just so wacky. It's like
+
+151
+00:13:59,516 --> 00:14:03,358
+nothing that we've ever seen before, right?
+Yeah, the line by Commissioner Gordon though
+
+152
+00:14:03,378 --> 00:14:07,942
+was weird where he was like, yeah, it's raining
+men. I was like, is that a reference to the
+
+153
+00:14:08,002 --> 00:14:13,706
+song, It's Raining Men? I don't think so. I
+do have to say though, this trailer definitely
+
+154
+00:14:13,726 --> 00:14:19,089
+has turned me off to the dubbed version of this
+movie. The way they released this trailer,
+
+155
+00:14:19,518 --> 00:14:24,919
+was they showed you the dubbed version and then
+right after that it was the subtitled version.
+
+156
+00:14:25,439 --> 00:14:29,740
+Just like with the first film, I imagine I'm
+absolutely going to prefer the subtitled version
+
+157
+00:14:30,080 --> 00:14:34,862
+of this film just based on this trailer. Yeah,
+the subbed version is the only version I've
+
+158
+00:14:34,902 --> 00:14:40,003
+seen of the original Batman Ninja movie. The
+film is coming out pretty soon here, March
+
+159
+00:14:40,103 --> 00:14:49,003
+18th on digital and April 15th for the physical
+versions. If you're a fan of the first I can't
+
+160
+00:14:49,063 --> 00:14:52,053
+wait to watch it and I can't wait to review
+it when it's released.
+
+161
+00:14:59,326 --> 00:15:02,909
+I think that does it for all the news for this
+episode so let's go ahead and move into our
+
+162
+00:15:02,949 --> 00:15:08,254
+main event Where we find out who would win in
+a fight between darksight's team of generals
+
+163
+00:15:08,474 --> 00:15:12,497
+the elite and Thanos's team of generals the
+black order
+
+164
+00:15:27,886 --> 00:15:34,651
+All right, Darksides Elite versus The Black
+Order. It's about to go down. I'm really excited
+
+165
+00:15:34,691 --> 00:15:39,795
+for this matchup. Oh yeah, I think this idea
+was given by our executive producer, Devin
+
+166
+00:15:39,835 --> 00:15:44,539
+Davis, who comes up with fantastic ideas. And
+once I heard this one, I was like, oh, hell
+
+167
+00:15:44,579 --> 00:15:49,123
+yeah. Yeah, I'm a big fan of The Black Order.
+I think they were the coolest thing to come
+
+168
+00:15:49,163 --> 00:15:54,447
+out of Jonathan Hickman's Infinity. And I thought
+they were adapted really well in Avengers Infinity
+
+169
+00:15:54,487 --> 00:15:59,912
+War and Avengers Endgame. And... Even in video
+games, there's the Marvel Ultimate Alliance
+
+170
+00:15:59,972 --> 00:16:05,937
+3 video game in which they're the primary antagonists
+and it's a whole lot of fun. So I have a real
+
+171
+00:16:05,997 --> 00:16:10,901
+soft spot in my heart for this team. I think
+largely because they're just so brutal and
+
+172
+00:16:10,921 --> 00:16:15,865
+the character designs are so well done. Yeah.
+And not only did we get to see members of Darkseid's
+
+173
+00:16:15,945 --> 00:16:21,570
+elite in Zack Snyder's Justice League, but if
+you grew up watching any form of DC animation,
+
+174
+00:16:21,970 --> 00:16:26,113
+you're pretty familiar with characters like
+Granny Goodness and Da'sad and Steppenwolf.
+
+175
+00:16:26,326 --> 00:16:31,968
+the latter of whom was actually the main antagonist
+for the Justice League film. In addition to
+
+176
+00:16:32,028 --> 00:16:36,490
+just like really liking the characters, the
+primary reason I was pumped to do this episode
+
+177
+00:16:36,530 --> 00:16:43,693
+is because Marvel needs payback for what happened
+back in 2018 when Thanos lost to Darkseid in
+
+178
+00:16:43,733 --> 00:16:48,595
+that duel episode. Spoiler alert! I've never
+forgotten that and today's the day I make the
+
+179
+00:16:48,615 --> 00:16:54,637
+world right again. We'll see. I'm actually really
+curious to see how this match is gonna go and
+
+180
+00:16:54,657 --> 00:16:59,311
+who's gonna win. It's exciting. But to explain
+the methodology behind our duels, let's go
+
+181
+00:16:59,351 --> 00:17:04,372
+to our sentient Duel simulator, Alfred Jarvis
+9000. AJ and IK tell our listeners how you
+
+182
+00:17:04,412 --> 00:17:10,034
+go about determining a winner in our Duel matchups.
+Yes, of course, sir. The way I determine a
+
+183
+00:17:10,054 --> 00:17:15,075
+winner between the two teams is by running 1000
+Monte Carlo simulations between every character
+
+184
+00:17:15,115 --> 00:17:20,497
+on each team using their statistics. A Monte
+Carlo simulation is a probabilistic model used
+
+185
+00:17:20,537 --> 00:17:25,695
+to determine outcomes through random sampling.
+In this case, I randomize the statistics along
+
+186
+00:17:25,715 --> 00:17:30,339
+a normal distribution as a way to simulate the
+many variables that can occur during battle.
+
+187
+00:17:30,719 --> 00:17:35,362
+The stat parameters are based on the official
+Marvel power grid, from which the DC characters'
+
+188
+00:17:35,402 --> 00:17:40,586
+statistics are extrapolated. Additional stat
+categories are included such as range, damage
+
+189
+00:17:40,606 --> 00:17:46,149
+potential, versatility, and perception, in order
+to create a more detailed and accurate simulation.
+
+190
+00:17:46,610 --> 00:17:51,353
+The results of the 49,000 simulations provide
+a percentage of wins for each character on
+
+191
+00:17:51,393 --> 00:17:55,951
+both teams. The team with the higher average
+win rate is declared the victor as they have
+
+192
+00:17:55,971 --> 00:18:00,773
+a higher probability to win any given battle.
+In an equitable pairing, neither team should
+
+193
+00:18:00,813 --> 00:18:05,615
+win 100% of the matches. The comic book stories
+have shown that there's even a way for Batman
+
+194
+00:18:05,655 --> 00:18:10,017
+to defeat Superman, so the confidence rate of
+my method falls in line with the precedents
+
+195
+00:18:10,057 --> 00:18:15,159
+that have been established in the source material.
+My mathematical simulations are without subjectivity
+
+196
+00:18:15,219 --> 00:18:20,681
+or bias. Feats are not the sole consideration,
+nor are fan votes tabulated for determination
+
+197
+00:18:20,701 --> 00:18:26,191
+of the winner. Thanks, AgenonK! Before we run
+the simulations though, we like to break down
+
+198
+00:18:26,412 --> 00:18:32,855
+each team's rosters and histories before improvising
+a scenario on how we imagine one of the many
+
+199
+00:18:32,915 --> 00:18:37,678
+simulations would play out beat for beat. And
+I believe it's my turn to go first with the
+
+200
+00:18:37,818 --> 00:18:42,520
+Marvel backstory, so let me go ahead and tell
+you guys all about the Black Order. Thanos'
+
+201
+00:18:42,540 --> 00:18:47,363
+Black Order is an elite strike force assembled
+to enforce his will and conquer planets in
+
+202
+00:18:47,423 --> 00:18:52,422
+his name. Composed of some of the most ruthless
+and powerful warriors in the universe, The
+
+203
+00:18:52,462 --> 00:18:57,823
+origins of the Black Order trace back to Thanos'
+need for a force capable of executing his will
+
+204
+00:18:58,163 --> 00:19:03,185
+with absolute efficiency. As detailed in his
+backstory in the duel episode against Darkseid,
+
+205
+00:19:03,605 --> 00:19:10,207
+Thanos had long commanded vast armies of marauders
+and warlords, but recognized that brute force
+
+206
+00:19:10,247 --> 00:19:15,588
+alone would not always guarantee victory. He
+needed specialists, warriors who could execute
+
+207
+00:19:15,608 --> 00:19:20,766
+missions with a level of cruelty beyond that
+of common soldiers. Unlike the armies of the
+
+208
+00:19:20,806 --> 00:19:26,650
+Chitauri and the Outriders that Thanos deployed
+en masse, the Black Order functioned as a special
+
+209
+00:19:26,730 --> 00:19:32,574
+unit who could not only fight but also manipulate,
+infiltrate, and dominate entire civilizations.
+
+210
+00:19:33,055 --> 00:19:37,838
+Corvus Glaive was the first member to rise to
+the challenge. A brilliant strategist and one
+
+211
+00:19:37,858 --> 00:19:42,761
+of the most vicious warriors in the cosmos,
+Corvus was granted his namesake weapon by Thanos.
+
+212
+00:19:43,342 --> 00:19:48,364
+The glaive was sharp enough to split atoms and
+cut through any substance, including the skin
+
+213
+00:19:48,764 --> 00:19:53,887
+of immensely powerful beings like the Hulk and
+Hyperion. More than just a tool of destruction,
+
+214
+00:19:54,287 --> 00:20:00,089
+the glaive gave Corvus practical immortality.
+So long as the blade remained intact, he could
+
+215
+00:20:00,129 --> 00:20:05,652
+not die. His loyalty to Thanos was absolute,
+and he proved to be the Mad Titan's most trusted
+
+216
+00:20:05,712 --> 00:20:12,235
+general, leading Thanos' armies in battle. Corvus
+Glaive's wife, Proxima Midnight, was the deadliest
+
+217
+00:20:13,136 --> 00:20:18,159
+Black Order. Her mastery of hand-to-hand combat
+was unparalleled, and her superhuman strength,
+
+218
+00:20:18,299 --> 00:20:23,402
+speed, and durability made her a match for even
+the most powerful warriors. Her primary weapon
+
+219
+00:20:23,462 --> 00:20:29,426
+was a spear forged from a collapsed star, capable
+of wielding all the equivalent mass and energy.
+
+220
+00:20:30,147 --> 00:20:34,990
+It functions as a homing projectile when thrown,
+can fire energy blasts, and can immobilize
+
+221
+00:20:35,030 --> 00:20:39,413
+opponents with a black energy net. The lethal
+toxin in its tip could
+
+222
+00:20:43,096 --> 00:20:48,499
+in existence. Proxima thrived in battle, eager
+to prove herself superior to any enemy who
+
+223
+00:20:48,539 --> 00:20:53,642
+dared oppose her. While Glaive and Midnight
+were instruments of raw power, Ebony Maw was
+
+224
+00:20:53,682 --> 00:20:58,805
+something else entirely. He was a manipulator,
+a whisperer capable of unraveling even the
+
+225
+00:20:58,866 --> 00:21:04,249
+strongest minds. His voice was his greatest
+weapon, enabling him to override the will of
+
+226
+00:21:04,349 --> 00:21:09,332
+others and turn them into pawns. In addition
+to Ebony's persuasive abilities, he possessed
+
+227
+00:21:09,392 --> 00:21:15,135
+telekinesis, teleportation, and and could conjure
+fireballs with his hands, further solidifying
+
+228
+00:21:15,175 --> 00:21:20,698
+his position as one of Thanos' most insidious
+agents. Black Dwarf, the team's brute force,
+
+229
+00:21:20,938 --> 00:21:25,760
+possessed unparalleled strength and durability.
+His unbreakable skin allowed him to withstand
+
+230
+00:21:25,800 --> 00:21:30,582
+the attacks of some of the most powerful beings
+in the universe. His preferred weapons were
+
+231
+00:21:30,602 --> 00:21:35,765
+massive bladed and blunt instruments which he
+wielded with devastating force, most commonly
+
+232
+00:21:36,165 --> 00:21:37,846
+a giant double-bladed axe.
+
+233
+00:21:42,028 --> 00:21:48,232
+was a telepathic parasite capable of mind control
+and mental consumption. Unlike Ebony Maw, who
+
+234
+00:21:48,272 --> 00:21:54,016
+manipulated minds through persuasion, Supergiant
+forcibly dominated her victims, feeding on
+
+235
+00:21:54,036 --> 00:21:58,439
+their intellect. She could seize mental control
+of entire armies, turning them against their
+
+236
+00:21:58,499 --> 00:22:03,562
+allies. The Black Order's first major recorded
+mission was against Ego the Living Planet,
+
+237
+00:22:03,943 --> 00:22:08,285
+whom Thanos viewed as an offense to death, and
+whom you can learn more about in his duel against
+
+238
+00:22:08,365 --> 00:22:08,466
+the
+
+239
+00:22:11,568 --> 00:22:16,011
+in battle, but the confrontation ended in a
+stalemate. The Black Order's most infamous
+
+240
+00:22:16,031 --> 00:22:21,454
+campaign came during Thanos' attack on Earth.
+With the Avengers occupied in deep space, Thanos
+
+241
+00:22:21,494 --> 00:22:26,938
+launched a full-scale invasion, using his elite
+warriors to target strategic locations. His
+
+242
+00:22:26,958 --> 00:22:31,921
+stated demand was a tribute, that each ruler
+of Earth was to offer the heads of all younglings
+
+243
+00:22:31,961 --> 00:22:38,606
+between the ages of 16 and 22. In reality, this
+was a cover for his true goal, finding his
+
+244
+00:22:38,646 --> 00:22:45,670
+lost son, Thane. order was assigned to region
+of Earth to subjugate. Corvus Glaive and Supergiant
+
+245
+00:22:45,710 --> 00:22:50,913
+attacked the X Mansion seeking information on
+Thane's location. Proxima Midnight was sent
+
+246
+00:22:50,933 --> 00:22:56,836
+to Atlantis where she confronted Namor the Sub-Mariner.
+Black Dwarf was assigned to Wakanda where he
+
+247
+00:22:56,876 --> 00:23:01,278
+encountered the greatest resistance from forces
+led by the Black Panther, who repelled his
+
+248
+00:23:01,318 --> 00:23:06,801
+invasion and forced Black Dwarf to retreat in
+disgrace. For this failure, Thanos expelled
+
+249
+00:23:06,821 --> 00:23:12,226
+him from the Black Order. Ebony Maw took a more
+insidious approach. He infiltrated Doctor Strange's
+
+250
+00:23:12,266 --> 00:23:17,373
+mind, taking control of the Sorcerer Supreme
+and using him as an agent to uncover Thane's
+
+251
+00:23:17,433 --> 00:23:23,160
+whereabouts. Eventually Ebony Maw located Thane
+as a young man in the hidden inhuman town in
+
+252
+00:23:23,240 --> 00:23:29,220
+Greenland. There he discovered that Thane had
+not yet undergone pterigenesis, which is an
+
+253
+00:23:29,340 --> 00:23:33,923
+evolutionary process that you can learn more
+about in our Shazam versus Black Bolt duel
+
+254
+00:23:33,963 --> 00:23:39,646
+episode. When Black Bolt detonated a pterigen
+bomb over Earth, Thane's transformation was
+
+255
+00:23:39,686 --> 00:23:45,530
+triggered, awakening his devastating abilities.
+His left hand became a weapon of instant death,
+
+256
+00:23:45,610 --> 00:23:50,353
+while his right hand could encase victims in
+a solid amber-like construct that left them
+
+257
+00:23:50,453 --> 00:23:57,404
+in suspended animation. In an instant, he inadvertently
+wiped out his entire town. Ebony Maw arrived,
+
+258
+00:23:57,544 --> 00:24:02,586
+offering Thane a containment suit to control
+his abilities, but the offer was a deception.
+
+259
+00:24:02,967 --> 00:24:07,889
+Maw encased Thane in a force field and alerted
+Thanos to his location. However, when Thanos
+
+260
+00:24:07,929 --> 00:24:13,852
+arrived to kill his son, Ebony Maw chose to
+test Thane's potential. He freed him, giving
+
+261
+00:24:13,892 --> 00:24:20,155
+him a choice, flee or embrace his heritage.
+Thane chose the latter using his newfound power.
+
+262
+00:24:22,376 --> 00:24:27,699
+midnight in amber, leaving them in a state of
+living death. With Thanos defeated, the Black
+
+263
+00:24:27,779 --> 00:24:32,082
+Order fractured. Corvus Glaive remained with
+his master while the others scattered, but
+
+264
+00:24:32,102 --> 00:24:36,625
+their time apart was brief. The cosmic being
+known as the Challenger reunited the Black
+
+265
+00:24:36,705 --> 00:24:41,689
+Order, using them in a grand contest against
+the Grandmaster's Lethal Legion. During the
+
+266
+00:24:41,709 --> 00:24:46,212
+first round of the contest, the Black Order
+fought the Lethal Legion for control of Pyramoids,
+
+267
+00:24:46,452 --> 00:24:53,116
+which were powerful cosmic artifacts placed
+around the earth. Black Dwarf to secure the
+
+268
+00:24:53,196 --> 00:24:58,239
+first Pyramoid in Rome. In the second round,
+the Black Order moved to Antarctica, again
+
+269
+00:24:58,259 --> 00:25:02,861
+clashing with the Avengers, who forced them
+to retreat and ultimately brought the contest
+
+270
+00:25:03,041 --> 00:25:07,823
+to an end. Following the contest, the Black
+Order regrouped to the planet Angargel, where
+
+271
+00:25:07,843 --> 00:25:12,766
+they were tasked by an alien resistance with
+dismantling the alien galactic empire. The
+
+272
+00:25:12,786 --> 00:25:18,149
+Black Order only accepted as a means to seize
+the bow of Gabriel, which was a weapon capable
+
+273
+00:25:18,189 --> 00:25:23,459
+of planetary destruction. Ebony Maw manipulated
+the Emperor into lowering the planet's defenses,
+
+274
+00:25:23,839 --> 00:25:28,982
+allowing the Black Order to take the weapon.
+Corvus Glaive then activated the bow, transforming
+
+275
+00:25:29,022 --> 00:25:33,904
+Sinar's inhabitants into monsters that destroyed
+the planet and dismantled their galactic empire.
+
+276
+00:25:34,324 --> 00:25:40,147
+However, when their task was complete, the Grandmaster
+arrived and seized the weapon from them. Later,
+
+277
+00:25:40,207 --> 00:25:44,889
+the Black Order served Hela, the Goddess of
+Death, who sought to retrieve and resurrect
+
+278
+00:25:45,009 --> 00:25:49,551
+Thanos. Together, they attacked Starfox and
+the Guardians of the Galaxy to retrieve the
+
+279
+00:25:49,571 --> 00:25:54,475
+body and bring bringing the Mad Titan back to
+life on planet Nowhere. Though they were successful
+
+280
+00:25:54,515 --> 00:25:59,078
+in restoring their leader, Thanos, Hela, and
+the Black Order were scattered after being
+
+281
+00:25:59,158 --> 00:26:03,060
+sucked into a black hole that destroyed the
+planet. You can learn more about the Guardians
+
+282
+00:26:03,100 --> 00:26:08,224
+of the Galaxy in their Team Duel episode against
+the Doom Patrol. Most recently, the Black Order
+
+283
+00:26:08,244 --> 00:26:12,867
+was tasked by the Intergalactic Council, led
+by Thanos and assigned with addressing matters
+
+284
+00:26:12,907 --> 00:26:17,730
+of universal importance to assist the Imperial
+Guard in stopping the threat of the Phoenix
+
+285
+00:26:17,770 --> 00:26:25,054
+Force. entity in our Raven versus Phoenix duel
+episode and that's the Black Order's history.
+
+286
+00:26:25,074 --> 00:26:30,697
+For this team duel the seven-member roster was
+mostly easy to come by. Of course it will be
+
+287
+00:26:30,777 --> 00:26:36,360
+led by Thanos the Mad Titan with his immense
+strength and durability, cosmic energies, matter
+
+288
+00:26:36,380 --> 00:26:41,854
+manipulation, vast intelligence, and incalculable
+evil. The original members are also on the
+
+289
+00:26:41,894 --> 00:26:47,378
+roster, including Corvus Glaive with his Adam-splitting
+blade, enhanced physicals, and strategic mind.
+
+290
+00:26:47,778 --> 00:26:53,842
+Next is Proxima Midnight, wielder of her star-powered
+spear, enhanced physicals, and combat mastery.
+
+291
+00:26:54,342 --> 00:27:00,326
+Also on the team is Ebony Maw with his persuasive
+voice, telekinesis, fireball generation, and
+
+292
+00:27:00,426 --> 00:27:06,409
+genius intellect. Then we have Black Dwarf,
+who I'm gonna call Cull Obsidian for this match.
+
+293
+00:27:07,062 --> 00:27:12,344
+I'm taking a cue from the movies and the video
+games and acknowledge that the name Black Dwarf
+
+294
+00:27:12,644 --> 00:27:18,026
+is a horrible name for a brutish alien warrior.
+And I already know that one of the nicknames
+
+295
+00:27:18,066 --> 00:27:23,189
+for the Black Order itself in the comics was
+the Kull Obsidian, so it can get confusing,
+
+296
+00:27:23,429 --> 00:27:29,852
+but for this match, Black Dwarf shall henceforth
+be known as Kull Obsidian. He wields a giant
+
+297
+00:27:29,872 --> 00:27:35,690
+double-bladed axe, has vast strength and durability
+with unbreakable skin. Rounding out the original
+
+298
+00:27:35,730 --> 00:27:40,832
+team is Supergiant, who never made an appearance
+in the MCU, but she's the team resident telepath
+
+299
+00:27:41,212 --> 00:27:46,235
+who can mentally possess entire legions and
+psychically devour their minds. For the seventh
+
+300
+00:27:46,355 --> 00:27:51,137
+and final member of the team, I was thinking
+of going with Black Swan, who was a recurring
+
+301
+00:27:51,217 --> 00:27:55,999
+member of the Black Order, but I found her power
+set to be too vague, with like, some energy
+
+302
+00:27:56,039 --> 00:28:01,361
+manipulation, some telepathy, some strength.
+Instead I decided to go with Thanos' son himself,
+
+303
+00:28:01,501 --> 00:28:05,626
+Thane. who has never actually been a member
+of the Black Order in the comics, but he has
+
+304
+00:28:05,646 --> 00:28:10,868
+been heavily involved with them, and he aligned
+himself with Ebony Maw in the books, and he
+
+305
+00:28:11,048 --> 00:28:16,029
+allied with the whole team in the video game
+Marvel Ultimate Alliance 3, wherein Thane is
+
+306
+00:28:16,109 --> 00:28:21,571
+actually the final villain. Plus his power set
+of having essentially an Omega effect touch
+
+307
+00:28:21,591 --> 00:28:26,032
+with one arm, and an Amber Energy construct
+generation effect with the other arm is pretty
+
+308
+00:28:26,052 --> 00:28:33,630
+cool. So that's my team. Thanos, Corvus Glaive,
+Proxima Midnight. Ebony Maw, Cull Obsidian,
+
+309
+00:28:34,191 --> 00:28:40,413
+Supergiant, and Thane. Yeah, Cull Obsidian is
+a way better name than Black Dwarf. I do have
+
+310
+00:28:40,433 --> 00:28:45,375
+to say though, Supergiant is super confusing
+considering what the character looks like.
+
+311
+00:28:45,395 --> 00:28:50,598
+I was thrown for a loop with that one. Yeah,
+I mean, she's not a giant, right? She's a telepath,
+
+312
+00:28:50,918 --> 00:28:56,240
+a psychic vampire. Real weird. DC doesn't have
+that problem. I'm pretty sure that some of
+
+313
+00:28:56,260 --> 00:29:01,014
+the names of Darkseid's elite are pretty stupid
+too, like Granny Goodness. Hell yeah. The fuck
+
+314
+00:29:01,034 --> 00:29:06,735
+is that? Terrifying is what it is. Nothing more
+sinister than grandma's goodies. Wait, what?
+
+315
+00:29:06,855 --> 00:29:12,757
+What the fuck did you just say? Well, let's
+erase that from our minds by moving on to the
+
+316
+00:29:12,797 --> 00:29:20,299
+backstory of Darkseid's elite, whose history
+is closely tied to Darkseid himself. Actually
+
+317
+00:29:20,339 --> 00:29:25,241
+had a really hard time trying to separate the
+history of the team from its leader. It was
+
+318
+00:29:25,301 --> 00:29:30,211
+not possible. So there's a lot of reach right
+here. Just bear with me. Now Apocalypse, a
+
+319
+00:29:30,311 --> 00:29:36,176
+desolate world of fire and suffering, was forged
+from the remnants of a dead pantheon. When
+
+320
+00:29:36,196 --> 00:29:42,561
+the Old Gods waged war in a catastrophic conflict
+known as Ragnarok, their homeworld was torn
+
+321
+00:29:42,621 --> 00:29:49,628
+asunder, and from its ruins emerged two new
+planets. New Genesis, a utopian paradise under
+
+322
+00:29:49,648 --> 00:29:55,413
+the guidance of Highfather, and Apocalypse,
+a burning wasteland where only the ruthless
+
+323
+00:29:55,453 --> 00:30:00,496
+had survived. For centuries, Apocalypse was
+ruled by Deathspots, who sought nothing but
+
+324
+00:30:00,556 --> 00:30:07,079
+war and suffering, but none were as cruel or
+ambitious as Darkseid, who seized power through
+
+325
+00:30:07,119 --> 00:30:13,062
+betrayal, orchestrating the deaths of his own
+mother, Queen Hegra, and his pacifist brother
+
+326
+00:30:13,202 --> 00:30:20,266
+Drax. As the new god of tyranny, Darkseid reshaped
+Apocalypse into a world of oppression and forced
+
+327
+00:30:20,326 --> 00:30:27,130
+obedience, powered by its fire pits which fed
+on the very essence of its suffering To enforce
+
+328
+00:30:27,190 --> 00:30:33,916
+his iron rule, Darkseid assembled his elite,
+a collection of generals, assassins, torturers,
+
+329
+00:30:34,016 --> 00:30:39,700
+and warlords, whose authority was second only
+to his own. Together, Darkseid's elite carried
+
+330
+00:30:39,741 --> 00:30:45,806
+out their master's will across the cosmos, ensuring
+that no world defied him and the apocalypse
+
+331
+00:30:46,106 --> 00:30:52,351
+remained the ultimate monument to his dominion.
+As Darkseid consolidated his rule over apocalypse,
+
+332
+00:30:52,691 --> 00:30:58,672
+he turned his attention toward universal domination.
+provoking war with New Genesis and other worlds.
+
+333
+00:30:59,112 --> 00:31:04,656
+His uncle, Steppenwolf, led the first major
+assault, hunting the new gods of New Genesis
+
+334
+00:31:04,676 --> 00:31:12,001
+for sport and killing Avia, the wife of High
+Father Izaya. This act ignited a long and brutal
+
+335
+00:31:12,041 --> 00:31:17,044
+war between the two planets with Darkseid's
+forces locked in an eternal struggle against
+
+336
+00:31:17,104 --> 00:31:22,288
+their celestial counterparts. When the seemingly
+endless war between Apocalypse and New Genesis
+
+337
+00:31:22,648 --> 00:31:28,587
+raged toward an unavoidable stalemate, Darkseid
+and Highfather struck a temporary truce known
+
+338
+00:31:28,667 --> 00:31:34,610
+as the Pact, exchanging their newborn sons.
+Orion was sent to New Genesis, while Scott
+
+339
+00:31:34,670 --> 00:31:40,233
+Free, aka Mr. Miracle, was raised in Granny
+Goodness's orphanage. You can learn more about
+
+340
+00:31:40,314 --> 00:31:45,576
+Orion and Mr. Miracle in their respective duels
+against the Silver Surfer and Adam Warlock.
+
+341
+00:31:45,897 --> 00:31:51,279
+Darkseid's truce did little to halt his ambitions,
+however, and when Scott Free eventually escaped
+
+342
+00:31:51,339 --> 00:31:59,184
+Apocalypse and fled to Earth, as both a battleground
+and a testing ground for his greater plans,
+
+343
+00:31:59,464 --> 00:32:05,807
+as he believed Earth held fragments of the anti-life
+equation within the minds of his people. His
+
+344
+00:32:05,847 --> 00:32:12,931
+forces, led by Glorious Godfrey, infiltrated
+human society, using the media and mass manipulation
+
+345
+00:32:12,971 --> 00:32:19,295
+to turn the population against their own protectors.
+Godfrey's words nearly succeeded in suing the
+
+346
+00:32:19,335 --> 00:32:25,078
+people of Earth, but he was ultimately defeated
+by Earth's heroes. At the same time, Darkseid's
+
+347
+00:32:25,118 --> 00:32:30,879
+scientists, including Desaad and Dr. Bedlam,
+experimented with new methods of psychological
+
+348
+00:32:30,939 --> 00:32:37,161
+warfare. Bedlam introduced the Paranoid Pill,
+a substance capable of inducing mass hysteria,
+
+349
+00:32:37,481 --> 00:32:42,803
+while Desaad's torturous experiments produced
+technological monstrosities to enforce Darkseid's
+
+350
+00:32:42,843 --> 00:32:49,324
+rule. Granny Goodness, the overseer of Apocalypse's
+orphanages, trained warriors to serve in Darkseid's
+
+351
+00:32:49,464 --> 00:32:55,346
+armies, conditioning them into mindless soldiers
+devoted to his cause. Over the years, Darkseid
+
+352
+00:32:55,366 --> 00:33:00,609
+clashed with Earth's heroes, particularly Superman,
+whose power made him one of the few beings
+
+353
+00:33:00,649 --> 00:33:06,791
+capable of challenging his tyranny and might.
+Timing again, Darkseid's elite led invasions
+
+354
+00:33:06,831 --> 00:33:12,474
+of Earth, attempting to bring the planet under
+apocalyptic rule. Darkseid's armies of parademons,
+
+355
+00:33:12,714 --> 00:33:17,956
+commanded by Steppenwolf and Darkseid's son,
+Kelebek, descended upon Earth only to be repelled
+
+356
+00:33:18,236 --> 00:33:22,318
+by the combined might of the Justice League.
+which you can learn more about in the team
+
+357
+00:33:22,359 --> 00:33:27,702
+duel Justice League vs Avengers. Darkseid's
+obsession with the Anti-Life Equation remained
+
+358
+00:33:27,742 --> 00:33:33,566
+his driving goal, leading to numerous conflicts
+with Earth's greatest minds and heroes. He
+
+359
+00:33:33,626 --> 00:33:38,770
+sought to uncover its secrets through direct
+assaults, cosmic manipulations, and alliances
+
+360
+00:33:39,050 --> 00:33:44,754
+with other dark forces. Apocalypse was briefly
+abandoned when Darkseid and his people were
+
+361
+00:33:44,814 --> 00:33:50,842
+slain by an unknown force, the Infinity Man
+acting on behalf of the Source. The New God
+
+362
+00:33:50,862 --> 00:33:56,727
+Spirits fell to Earth where they were reborn
+in mortal bodies. Darkseid took on the identity
+
+363
+00:33:57,007 --> 00:34:02,411
+of Boss Darkseid, spreading corruption from
+the shadows while plotting the resurrection
+
+364
+00:34:02,492 --> 00:34:08,196
+of his true form, which he eventually obtained
+along with the completed anti-life equation.
+
+365
+00:34:08,697 --> 00:34:14,121
+As every living being within the universe became
+transformed into Darkseid's mindless slaves,
+
+366
+00:34:14,542 --> 00:34:23,940
+reality itself began falling apart. a Radion
+bullet before seemingly dying himself to Darkseid's
+
+367
+00:34:24,280 --> 00:34:30,804
+Omega-sanctioned power. When a Flashpoint event
+reset DC's continuity, Darkseid and his elite
+
+368
+00:34:30,864 --> 00:34:36,707
+returned, though Darkseid's new war was not
+against New Genesis nor against Earth, which
+
+369
+00:34:36,747 --> 00:34:42,810
+he had already failed to conquer, but against
+a rival god, the Anti-Monitor, an embodiment
+
+370
+00:34:43,010 --> 00:34:48,953
+of antimatter and destruction. The Anti-Monitor,
+once the greatest threat to the multiverse,
+
+371
+00:34:49,194 --> 00:34:54,855
+had been transformed by the corrupted Amazon
+named Grail, Darkseid's own secret daughter.
+
+372
+00:34:55,255 --> 00:35:00,817
+The battle between Darkseid and the Anti-Monitor
+played out across multiple worlds, culminating
+
+373
+00:35:01,137 --> 00:35:07,558
+in a direct confrontation on Earth. Darkseid,
+wielding his Omega Effect, attempted to destroy
+
+374
+00:35:07,579 --> 00:35:13,260
+his rival, but the Anti-Monitor had evolved,
+now wielding the Anti-Life Equation itself.
+
+375
+00:35:13,540 --> 00:35:19,518
+At the height of battle, the Anti-Monitor turned
+the Anti-Life Equation upon Darkseid Unmaking
+
+376
+00:35:19,558 --> 00:35:26,341
+Kim completely. With Darkseid's death, Apocalypse
+fell into chaos. Calleback, Steppenwolf, and
+
+377
+00:35:26,381 --> 00:35:32,603
+Grail all fought for control, but the most shocking
+development came when Grail resurrected Darkseid,
+
+378
+00:35:32,823 --> 00:35:39,586
+not as a god, but as an infant. For a time,
+Apocalypse had no true ruler, as Grail raised
+
+379
+00:35:39,626 --> 00:35:45,609
+the child Darkseid, sacrificing old gods to
+feed his power. Over time, Darkseid grew into
+
+380
+00:35:45,629 --> 00:35:51,934
+an adult once more. eventually killing Zeus
+himself to reclaim his godhood. But Darkseid
+
+381
+00:35:51,954 --> 00:35:58,079
+was no longer content with mere conquest. He
+sought to harness the Great Darkness, the primordial
+
+382
+00:35:58,139 --> 00:36:04,524
+force from before creation. However, Darkseid
+soon discovered that he was not its master,
+
+383
+00:36:04,824 --> 00:36:10,849
+he was its pawn. The Great Darkness consumed
+him, turning Darkseid and his elite into servants
+
+384
+00:36:11,190 --> 00:36:17,159
+of an even greater force. Now, under the control
+of the Darkness itself, Darkseid led a final
+
+385
+00:36:17,219 --> 00:36:22,523
+invasion of Earth, seeking to eliminate its
+heroes once and for all. Though he was eventually
+
+386
+00:36:22,603 --> 00:36:29,108
+freed from the darkness' control, Darkseid disappeared
+into its void, leaving Apocalypse once again
+
+387
+00:36:29,449 --> 00:36:35,534
+without its ruler. With Darkseid gone, Apocalypse
+remained a world on the edge of collapse, its
+
+388
+00:36:35,574 --> 00:36:45,098
+elite vying for power, waiting for the inevitable
+return of their god. For Darkseid is. I've
+
+389
+00:36:45,118 --> 00:36:50,239
+selected the most prominent figures within Darkseid's
+elite, each of whom play a critical role in
+
+390
+00:36:50,299 --> 00:36:56,161
+Darkseid's Universal Conquest. Of course there's
+Darkseid himself, ruler of Apocalypse, but
+
+391
+00:36:56,261 --> 00:37:02,962
+also his right-hand man Desaad, Darkseid's chief
+torturer and scientist responsible for developing
+
+392
+00:37:03,043 --> 00:37:08,344
+advanced weaponry and psychological warfare.
+I'm also including Granny Goodness, the ruthless
+
+393
+00:37:08,364 --> 00:37:15,026
+commander of Apocalypse's orphanages, and Darkseid's
+personal guard, the Female Furies. Also, Darkseid's
+
+394
+00:37:15,086 --> 00:37:21,772
+uncle Steppenwolf, Apocalypse's seasoned general
+and tactician, and Kanto, the planet's master
+
+395
+00:37:21,812 --> 00:37:28,377
+assassin. Darkseid's brutish, firstborn son,
+Calleback, will bring added brawn to this fight,
+
+396
+00:37:28,457 --> 00:37:36,104
+while Dr. Bedlam brings added brains as a psionic
+entity. So to recap, it's Darkseid, Desaad,
+
+397
+00:37:36,464 --> 00:37:43,906
+Granny Goodness, Steppenwolf, Kanto, Calleback,
+and Dr. Bedlam on this team. I like that team.
+
+398
+00:37:44,086 --> 00:37:48,990
+That's a pretty good team. I think there's good
+analogs between them and the Black Order, especially
+
+399
+00:37:49,010 --> 00:37:55,395
+when you pair Supergiant with Dr. Bedlam. And
+I think you could pair Thane with Kanto. And
+
+400
+00:37:55,435 --> 00:38:00,839
+Kalebak with Cull Obsidian, and especially Desaad
+vs Ebony Maw. I think that's the pairing that
+
+401
+00:38:00,879 --> 00:38:06,183
+works the best. There's also Steppenwolf against
+Corvus Glaive and Proxima Midnight with Granny
+
+402
+00:38:06,203 --> 00:38:09,625
+Goodness. It's fate. It's fate how good these
+pairings match up.
+
+403
+00:38:16,614 --> 00:38:22,682
+fantasies collide and heroes clash, one podcast
+network rises above the rest. Prepare yourself
+
+404
+00:38:22,902 --> 00:38:29,010
+for the ultimate showdowns in comic books, video
+games, movies, and anime. The DynaMic Podcast
+
+405
+00:38:29,070 --> 00:38:36,218
+Network presents Konsole Kombat, where video
+game legends brawl every Monday. Comic Book
+
+406
+00:38:36,258 --> 00:38:42,420
+Titans smash every Tuesday. Max Destruction,
+where TV and action heroes battle every Wednesday.
+
+407
+00:38:43,000 --> 00:38:48,902
+And Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+408
+00:38:48,922 --> 00:38:54,624
+the matches and armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+409
+00:38:55,164 --> 00:38:59,425
+Visit dynamicpodcast.com, where we settle the
+debate and settle the score.
+
+410
+00:39:03,754 --> 00:39:07,675
+Now that we got their histories and rosters
+out of the way, let's speculate on how one
+
+411
+00:39:07,695 --> 00:39:13,356
+of the many simulated matches will go. The winner
+is determined by simulations, not our speculation,
+
+412
+00:39:13,836 --> 00:39:19,878
+but it's fun to imagine how this team duel could
+play out. AJ9K, what are the rules of our speculation?
+
+413
+00:39:20,738 --> 00:39:24,819
+Well, I should say there are no rules other
+than the teams have no prior knowledge of the
+
+414
+00:39:24,919 --> 00:39:29,621
+other going into the fight. All they are aware
+of starting out is that the other side is a
+
+415
+00:39:29,681 --> 00:39:34,622
+threat that needs to be eliminated. For the
+speculation, Groups will begin approximately
+
+416
+00:39:34,682 --> 00:39:39,385
+50 meters apart in a nondescript environment
+that will have no bearing on the match itself,
+
+417
+00:39:39,826 --> 00:39:44,769
+as no environmental statistics are considered
+in my simulations. The teams must earn victory
+
+418
+00:39:44,789 --> 00:39:49,412
+on their own merit. All right, then let's get
+into it. Darkseid's elite and the Black Order
+
+419
+00:39:49,532 --> 00:39:55,816
+meet on the battlefield. Who goes first? I'm
+gonna say Darkseid starts off with his Omega
+
+420
+00:39:55,836 --> 00:40:02,333
+Beams, of course. What? So right away. Two red
+energy beams shoot out from his eyes, zigzagging
+
+421
+00:40:02,373 --> 00:40:07,737
+across the arena and passing through each member
+of the Black Order, just disintegrating them.
+
+422
+00:40:08,258 --> 00:40:15,084
+Match over! You cheating ass bastard. What happened
+to escalation during these speculations, right?
+
+423
+00:40:15,104 --> 00:40:21,209
+I'm gonna say that the Omega beams approach
+Corvus Glaive first, and he's gonna defend
+
+424
+00:40:21,249 --> 00:40:26,373
+himself with his glaive, which is sharp enough,
+as I said, to cut through anything, even atoms.
+
+425
+00:40:27,054 --> 00:40:32,216
+And yeah, they could even cut through energy
+like these Omega beams. What the blade is going
+
+426
+00:40:32,236 --> 00:40:37,738
+to cut through Darkseid's beams and split them.
+And they go off course and miss their mark.
+
+427
+00:40:37,758 --> 00:40:45,381
+Dude, the Omega beams do not miss. But even
+if the Omega beams can be cut by Corvus's blade,
+
+428
+00:40:45,861 --> 00:40:50,723
+someone still dies because one of the split
+beams is just going to make a return zigzag
+
+429
+00:40:50,763 --> 00:40:57,586
+trip and blast. I don't know, the psychic chick
+super giant. So she's out of the man. The Omega
+
+430
+00:40:57,626 --> 00:41:02,508
+beams suck, okay? They're a cheap ass attack.
+Thanos is not gonna have any part of that shit
+
+431
+00:41:02,588 --> 00:41:09,011
+So he raises his fist and each member of Darksides
+Elite are gonna raise into the air with this
+
+432
+00:41:09,071 --> 00:41:15,173
+blue Energy aura around them due to Thanos's
+telekinesis, right? He's lifting him telekinetically
+
+433
+00:41:15,493 --> 00:41:20,515
+and then Thanos is gonna slam Darksides Elite
+down with a force. That's so hard It's gonna
+
+434
+00:41:20,576 --> 00:41:25,157
+crack the planet that they're on. So now they're
+all fighting in like this Grand Canyon. Okay
+
+435
+00:41:25,522 --> 00:41:32,126
+I mean, Thanos lifts and slams everyone he can
+see, which is not Kanto, who happens to be
+
+436
+00:41:32,406 --> 00:41:38,991
+Darkseid's expert assassin and a master of stealth.
+So despite the planet cracking, Kanto delivers
+
+437
+00:41:39,051 --> 00:41:46,396
+this surprise attack with his apocalyptic sword
+and slashes Thanos fist right off. And he follows
+
+438
+00:41:46,436 --> 00:41:52,201
+up with a series of rapid slashes right across
+Thanos chest. Oh, shit. He fucked up there
+
+439
+00:41:52,221 --> 00:41:56,916
+because Cull Obsidian. is not cool with his
+boss's hands just getting chopped off, okay?
+
+440
+00:41:57,456 --> 00:42:03,780
+So he leaps over to Kanto, and with a mighty
+swing of his giant battle axe, he chops off
+
+441
+00:42:03,800 --> 00:42:09,364
+Kanto's head with just one whack, and that thing
+goes flying. Kanto's out of the match now,
+
+442
+00:42:10,045 --> 00:42:14,428
+and Thanos, you know, he'll be fine. He's gonna
+heal those chest slashes real quick. Okay,
+
+443
+00:42:14,528 --> 00:42:20,772
+well, meanwhile, Dr. Bedlam, who's this, you
+know, invisible, psychic energy being, is currently
+
+444
+00:42:20,832 --> 00:42:26,953
+controlling six different androids. known as
+Animants, and they're all curb-stopping Thane
+
+445
+00:42:26,993 --> 00:42:32,237
+right now, just pummeling him to death. No,
+no, no. Because Proxima Midnight sees Thane
+
+446
+00:42:32,277 --> 00:42:37,462
+being attacked, and before the androids can
+kill Thane, she hurls her sun-powered spear
+
+447
+00:42:37,522 --> 00:42:43,827
+toward them, and as the spear flies, it's gonna
+emanate the solar flare energy that arcs out
+
+448
+00:42:44,047 --> 00:42:49,212
+and strikes the entire android group, just frying
+their circuits. And then the spear's gonna
+
+449
+00:42:49,272 --> 00:42:55,872
+lodge into the real Dr. Bedlam. impaling him
+into the canyon wall that they're in and taking
+
+450
+00:42:55,893 --> 00:43:01,216
+him out of this match. Well there is no like
+real Dr. Bedlam, he just imparts his form on
+
+451
+00:43:01,436 --> 00:43:06,900
+one anime specifically, but sure we'll say that
+was the one that got impaled. But yeah now
+
+452
+00:43:06,960 --> 00:43:12,604
+Proxima Mindaig is without her weapon right
+so Granny Goodness is gonna take advantage
+
+453
+00:43:12,644 --> 00:43:18,588
+of her disarmament and blast a hole right through
+her torso with a beam from her apocalyptic
+
+454
+00:43:18,608 --> 00:43:28,083
+staff so Proxima's out. Okay. Oh, suddenly Granny
+Goodness gets her whole head bashed in by Calaback,
+
+455
+00:43:28,403 --> 00:43:35,365
+Darkseid's son himself, and her own teammate.
+What? Because as the battle was going on, Ebony
+
+456
+00:43:35,405 --> 00:43:40,787
+Ma weaseled his way over to Calaback and whispered
+into his ear, reminding him how much he hates
+
+457
+00:43:40,807 --> 00:43:46,048
+that old bag and convinced him to play Whack-a-Mole
+with her head. So Granny Goodness is now out
+
+458
+00:43:46,088 --> 00:43:50,249
+of the match. You know, I actually believe that
+he probably does hate her. Everyone hates her.
+
+459
+00:43:50,646 --> 00:43:54,528
+But also that's elder abuse, by the way. Now,
+while that's going on, Steppenwolf, you know,
+
+460
+00:43:54,588 --> 00:43:59,951
+he noticed Kull Obsidian with his axe. And so
+Steppenwolf is going to attack him with his
+
+461
+00:44:00,091 --> 00:44:06,574
+own powerful electro axe, starting by slamming
+it into the ground near Kull, which is going
+
+462
+00:44:06,594 --> 00:44:11,597
+to cause the shockwave that knocks him into
+the air. And Steppenwolf is going to follow
+
+463
+00:44:11,697 --> 00:44:18,461
+up by hurling his axe like quick as lightning
+right at Kull, just slicing him into midair.
+
+464
+00:44:19,862 --> 00:44:25,483
+How sharp is Steppenwolf's axe? Cause Kull is
+like really durable. It can literally cut through
+
+465
+00:44:25,563 --> 00:44:31,825
+any material. But can it cut through atoms?
+Sure, why the fuck not? You are a liar, sir.
+
+466
+00:44:31,845 --> 00:44:38,727
+Okay, but anyway, guess what? Super giant, she's
+still on the battlefield. She's such a powerful
+
+467
+00:44:38,847 --> 00:44:44,728
+omnipath that even if her body's destroyed,
+she survives as a psionic spirit. So the only
+
+468
+00:44:44,768 --> 00:44:50,762
+thing Dark Sight's Omega Beam did to her was
+make her intangible. So like as this psionic
+
+469
+00:44:51,122 --> 00:44:57,185
+entity, she's gonna read the mind of Darkseid,
+and therefore she learns the secret to the
+
+470
+00:44:57,265 --> 00:45:02,527
+Omega effect, and she's gonna feed that information
+to Thanos, who's all healed up by this point,
+
+471
+00:45:02,847 --> 00:45:08,409
+and Thanos is gonna augment his own cosmic powers
+to mimic the energy wavelength of Darkseid's
+
+472
+00:45:08,449 --> 00:45:14,592
+Omega Beams. So then, Thanos, straight up Omega
+Beams, Steppenwolf, the fuck outta here. What
+
+473
+00:45:14,632 --> 00:45:22,624
+the heck? That's right. Okay, well. Dr. Bedlam
+has been floating around as a disembodied energy
+
+474
+00:45:22,664 --> 00:45:29,248
+bank too, just like Supergiant. And since Desaad
+was able to repair one of his android bodies
+
+475
+00:45:29,368 --> 00:45:35,091
+during this battle, Bedlam is going to be able
+to take control of that again, fully aware
+
+476
+00:45:35,491 --> 00:45:43,155
+of what Supergiant did. So he's going to unleash
+one of his paranoid pills on Thanos. And his
+
+477
+00:45:43,215 --> 00:45:50,047
+fumes cause Thanos to not only blast Corvus
+Glaive into oblivion, but also the stress causes
+
+478
+00:45:50,107 --> 00:45:57,231
+Thanos to forget how to use the Omega effect.
+Well that's convenient. If Dr. Bedlam is aware
+
+479
+00:45:57,311 --> 00:46:03,414
+of Supergiant, she's going to be aware of him,
+and she's a psychic parasite, so she's going
+
+480
+00:46:03,434 --> 00:46:08,717
+to latch onto him and devour his mind. So now
+Dr. Bedlam is officially gone from this match
+
+481
+00:46:08,777 --> 00:46:15,341
+now. Oh, well, Supergiant, you know, she seems
+to know so much, she'll probably go for Darkseid's
+
+482
+00:46:15,401 --> 00:46:21,825
+mind next, right? Since- He's the leader. Sure.
+Except surprise, she's going to get tricked
+
+483
+00:46:21,865 --> 00:46:28,191
+by Dessahd's psychic manipulations into going
+for his own mind, since he cast a mental illusion
+
+484
+00:46:28,231 --> 00:46:33,175
+to disguise himself as Darkseid. And that's
+something he does all the time in the comics.
+
+485
+00:46:33,735 --> 00:46:39,160
+So Supergiant, instead of psychically attacking
+Darkseid, she's going to get sucked into a
+
+486
+00:46:39,360 --> 00:46:45,605
+psychic torture device that Dessahd engineered.
+And so her psionic form is going to get absorbed.
+
+487
+00:46:45,930 --> 00:46:53,472
+and converted into energy that Dasad weaponizes
+against Ebony Maw. He's going to use that device
+
+488
+00:46:53,492 --> 00:47:00,334
+to blast him with beams of energy. Wait, okay.
+You lost me. So Dasad made a device that can
+
+489
+00:47:00,434 --> 00:47:06,215
+somehow torture minds, but also convert them
+into energy and then also blast them out as
+
+490
+00:47:06,235 --> 00:47:11,517
+a weapon. Yes. That's pretty convenient, don't
+you think? Oh, I'm sorry. Your feeble mind
+
+491
+00:47:11,557 --> 00:47:18,845
+can't comprehend fourth world technology. stupid.
+Ebony Maw is just going to teleport out of
+
+492
+00:47:18,865 --> 00:47:22,988
+the way of Dessod's blast and then he's going
+to counter with a volley of fireballs. Okay,
+
+493
+00:47:23,468 --> 00:47:29,854
+except without realizing it, Ebony Maw teleported
+in front of Kelebek, who, you know, remembers
+
+494
+00:47:29,874 --> 00:47:36,819
+how Ebony manipulated him earlier and Kelebek
+is going to straight up slam his club straight
+
+495
+00:47:36,859 --> 00:47:43,365
+down onto Ebony from behind like a hammer to
+a nail, just creating this Ebony smear on the
+
+496
+00:47:43,385 --> 00:47:52,478
+ground beneath him. Alright, uh, well meanwhile
+Thane approaches Desaud and he's gonna snatch
+
+497
+00:47:52,498 --> 00:47:57,881
+him with his right hand which puts Desaud into
+this amber energy construct which basically
+
+498
+00:47:58,061 --> 00:48:03,584
+traps him forever in a state of living death
+and now the only mind that Desaud can torture
+
+499
+00:48:03,644 --> 00:48:08,206
+is his own for all eternity. And then Thane
+approaches Kelebak and grabs him with his left
+
+500
+00:48:08,246 --> 00:48:13,349
+hand which just instantly kills Kelebak. So
+these guys got the old one-two combo here from
+
+501
+00:48:13,409 --> 00:48:19,485
+Thane, you know, death. for Kalebeck and a fate
+worse than death for Dasan. Okay, well speaking
+
+502
+00:48:19,805 --> 00:48:26,089
+of living death, Thane is going to suddenly
+be zapped by Darkseid's Omega Beams, which
+
+503
+00:48:26,170 --> 00:48:32,274
+zigzagged their way behind him and delivered
+Darkseid's Omega Sanction. So now Thane is
+
+504
+00:48:32,334 --> 00:48:39,779
+trapped in an eternal and torturous cycle of
+pain, death, and rebirth across alternate realities.
+
+505
+00:48:40,319 --> 00:48:47,435
+That's what the Omega Sanction does? Yeah. Well...
+So it's just Thanos and Darkseid exactly how
+
+506
+00:48:47,515 --> 00:48:53,938
+I wanted. Oh, me too pal, me too. Revenge is
+gonna be so sweet because the paranoid pill
+
+507
+00:48:54,258 --> 00:48:59,480
+that Bedlam used on Thanos that wears off by
+this point and he remembers how to use this
+
+508
+00:48:59,600 --> 00:49:07,004
+omega sanction himself. So the turntables have
+turned and Thanos puts Darkseid into this omega
+
+509
+00:49:07,044 --> 00:49:12,326
+sanction and just relishes in the endless death
+and defeat of his foe. So the match is over.
+
+510
+00:49:12,587 --> 00:49:19,012
+Thanos beats Darkseid. If I could drop my podcast
+mic, I would. Oh, you should. Like you should
+
+511
+00:49:19,192 --> 00:49:25,398
+drop it and never pick it up again, because
+you sound stupid. Darkseid would just generate
+
+512
+00:49:25,458 --> 00:49:31,723
+a boom tube between him and Thanos, as well
+as like a second portal behind Thanos. So Thanos
+
+513
+00:49:31,763 --> 00:49:37,909
+is just going to omega sanction himself like
+the purple bitch he is. Match over. Oh, shit,
+
+514
+00:49:37,949 --> 00:49:43,053
+I think you forgot. that I mentioned that Corvus
+Glaive can't die if his blade isn't destroyed.
+
+515
+00:49:43,093 --> 00:49:47,497
+So while Darkseid thinks he just won the fight,
+he's going to find himself straight up sliced
+
+516
+00:49:47,537 --> 00:49:54,242
+in half by Corvus Glaive, who was resurrected
+by his weapon. So now the match is over and
+
+517
+00:49:54,282 --> 00:50:00,748
+the joke's on you. But why? I think the joke's
+actually on you because Thanos did, in fact,
+
+518
+00:50:00,848 --> 00:50:05,512
+destroy Corvus's blade when he killed him, you
+know, under the influence of the paranoid pills.
+
+519
+00:50:05,592 --> 00:50:10,875
+So sorry, but no. Well, we'll see what actually
+happens. We'll go ahead and run the stats on
+
+520
+00:50:10,895 --> 00:50:16,998
+these teams to find out who will win. And either
+Corvus Glaive resurrects and slices Darkseid
+
+521
+00:50:17,038 --> 00:50:22,962
+in two, or Corvus Glaive does not resurrect
+because his weapon was destroyed. Right, it
+
+522
+00:50:22,982 --> 00:50:27,884
+all comes down to whether Thanos destroyed Corvus'
+weapon, which I'm sure he did. Let's go ahead
+
+523
+00:50:27,904 --> 00:50:34,668
+and run the stats and come back with a winner.
+Hey G9K, hit it. Inputting data, running calculations,
+
+524
+00:50:35,148 --> 00:50:41,296
+processing results, simulations complete. All
+right, that was a fun matchup, a really close
+
+525
+00:50:41,356 --> 00:50:45,940
+matchup, surprisingly close after we put in
+all the stats. Well, I mean, it wasn't too
+
+526
+00:50:46,000 --> 00:50:52,585
+surprising that Darkseid was the most powerful
+on either of our rosters. Yeah, Darkseid ended
+
+527
+00:50:52,625 --> 00:50:59,911
+up winning 89.1% of all of his matches, basically
+nine out of 10 fights against the Black Order
+
+528
+00:50:59,951 --> 00:51:05,875
+and Thanos. Darkseid won. He's a big ass cheater
+character. I mean not by much because Thanos
+
+529
+00:51:05,955 --> 00:51:12,461
+wasn't too far behind in his win rate, winning
+87.1% of his matches. Yeah, they're definitely
+
+530
+00:51:12,481 --> 00:51:16,844
+the most powerful characters on their respective
+teams, just wiping the floor with the other
+
+531
+00:51:16,964 --> 00:51:21,108
+respective generals. Now what I thought was
+interesting was that while I had probably the
+
+532
+00:51:21,148 --> 00:51:26,872
+more balanced team, on your side you had the
+most powerful characters in Proxima, Midnight,
+
+533
+00:51:27,153 --> 00:51:32,357
+and Supergiant, but also the weakest when it
+came to Thane. Yeah, Thane actually wasn't
+
+534
+00:51:32,397 --> 00:51:37,975
+impressive. Statistically at all which makes
+me hope that I didn't choose incorrectly in
+
+535
+00:51:38,015 --> 00:51:44,458
+picking him for this team duel because Yeah,
+he has massive damage potential with the abilities
+
+536
+00:51:44,498 --> 00:51:50,120
+of both of his arms And he has you know enhanced
+physicals being an inhuman but other than that
+
+537
+00:51:50,521 --> 00:51:55,823
+he's not too impressive Statistically compared
+to the new gods, you know things like his evasiveness
+
+538
+00:51:56,183 --> 00:52:01,565
+and perception just weren't that great Yeah,
+he only won twenty point eight percent of his
+
+539
+00:52:01,625 --> 00:52:06,056
+matches He was kind of my wild card for this
+team duel though. I don't know if I really
+
+540
+00:52:06,136 --> 00:52:10,939
+had a wild card. I was kind of surprised that
+my weakest character was Kanto. I thought it
+
+541
+00:52:10,959 --> 00:52:17,544
+was going to be Dasad because I figured he was
+the least warrior-esque of the group, but it
+
+542
+00:52:17,584 --> 00:52:23,969
+turns out he's pretty smart and Kanto is pretty
+unimpressive. Yeah, the guy just carries a
+
+543
+00:52:24,009 --> 00:52:28,812
+sword and wears a ridiculous Renaissance fair
+outfit. I gotta say, he definitely does not
+
+544
+00:52:28,892 --> 00:52:34,753
+look like Darkseid's chief assassin. That's
+exactly what he wants you to think. I think
+
+545
+00:52:34,793 --> 00:52:39,277
+the biggest discrepancy between the team stats
+was versatility. Marvel's guys were way more
+
+546
+00:52:39,297 --> 00:52:45,802
+versatile than DC's guys. And durability, actually
+DC's guys were way more durable overall than
+
+547
+00:52:45,842 --> 00:52:51,167
+the Marvel team, largely because Darkseid's
+durability is off the charts. And also they're
+
+548
+00:52:51,207 --> 00:52:58,413
+all new gods, whereas the Black Order are a
+pretty diverse group of aliens from across
+
+549
+00:52:58,453 --> 00:53:02,510
+the universe. So I actually wasn't surprised
+that they were more versatile. Considering
+
+550
+00:53:02,630 --> 00:53:07,292
+all the results, all the stats, Jonathan, who's
+winning this match? Do you think? I think it's
+
+551
+00:53:07,312 --> 00:53:13,173
+going to be really close. I'm not sure who's
+going to win, but I really hope it's Darksides
+
+552
+00:53:13,213 --> 00:53:18,615
+Elite because I just really don't want him to
+lose to Thanos. I hate Thanos. Dude sucks.
+
+553
+00:53:18,915 --> 00:53:26,657
+And I think our poll takers on Instagram agree
+because 64% of them voted in favor of Darksides
+
+554
+00:53:26,697 --> 00:53:34,700
+Elite over the Black Order. The fools! AG9K,
+the results please. Here you are, sir. Alright,
+
+555
+00:53:34,780 --> 00:53:45,045
+the winner in this team matchup between DarkSide's
+Elite and the Black Order is... DarkSide's
+
+556
+00:53:45,125 --> 00:53:53,669
+Elite. Yes! It was pretty close though. Out
+of 1,000 matches, DarkSide's Elite beat the
+
+557
+00:53:53,709 --> 00:54:03,322
+Black Order. 511 times. So their win rate was
+51.1% over the Black Order's 48.9%. Yeah, they
+
+558
+00:54:03,342 --> 00:54:09,165
+only won 489 out of the 1000 battles. Oh wow,
+that's not pretty close. That's really close.
+
+559
+00:54:10,086 --> 00:54:16,389
+I figured it would be, but it's still surprising.
+Thanos just cannot beat Darkseid. What the
+
+560
+00:54:16,469 --> 00:54:21,932
+fuck? What does he gotta do to beat this guy?
+Nothing, he can't. There's nothing he could
+
+561
+00:54:21,972 --> 00:54:26,839
+do. Just accept it already. Is he gonna have
+to pull out his Infinity Gauntlet again? Like
+
+562
+00:54:26,859 --> 00:54:32,241
+he did last time? Oh, does Darkseid need to
+pull out his Anti-Life Equation? No, it's not
+
+563
+00:54:32,261 --> 00:54:35,462
+gonna do anything to the Infinity Gauntlet.
+It's gonna- I think we've already established
+
+564
+00:54:35,502 --> 00:54:41,705
+this. Yes it is. It's gonna put Thanos with
+his Infinity Gauntlet under the control of
+
+565
+00:54:41,805 --> 00:54:47,348
+Darkseid. Why does this not make sense to you?
+Because Thanos, when he has the Infinity Gauntlet,
+
+566
+00:54:47,828 --> 00:54:51,349
+has the Mind Stone, which would protect him
+from something like the Anti-Life Equation.
+
+567
+00:54:51,750 --> 00:54:55,731
+and he has the reality stone, which would also
+do the same thing. Your point is, is there
+
+568
+00:54:55,871 --> 00:55:01,552
+a life stone on the infinity gauntlet? Because
+as long as Thanos is alive, he's under dark
+
+569
+00:55:01,592 --> 00:55:07,794
+sides control when he has the anti life equation.
+There's a soul stone. Oh, shit. So there you
+
+570
+00:55:07,814 --> 00:55:16,616
+go. There you go. Thanos wins. Suck it, nerds.
+Clearly, he doesn't. So you, you know, reverse
+
+571
+00:55:16,656 --> 00:55:25,154
+card. No, you that does it for this duel, guys.
+H2 9K helped close this out. Thanks for listening
+
+572
+00:55:25,194 --> 00:55:30,738
+to Dynamic Duel. Visit the show's website at
+dynamicDuel.com and follow us on Instagram
+
+573
+00:55:30,798 --> 00:55:36,682
+at dynamicDuelpodcast. You can support the show
+on Patreon at patreon.com slash dynamicDuel
+
+574
+00:55:36,822 --> 00:55:41,025
+and joining a tier that works for you or by
+rating and reviewing Dynamic Duel on Apple
+
+575
+00:55:41,065 --> 00:55:46,689
+podcasts, Spotify, Podchaser, or on our website.
+Don't forget to listen to the other shows in
+
+576
+00:55:46,709 --> 00:55:52,233
+the Dynamite podcast network, including Max
+Destruction, Senjoh World, and Konsole Kombat.
+
+577
+00:55:53,918 --> 00:55:59,881
+In our next episode, we will be doing another
+duel episode. This time we are pitting Talon,
+
+578
+00:56:00,281 --> 00:56:06,585
+a Batman villain from The Court of Owls, against
+Nico Minoru, who is a Runaways character and
+
+579
+00:56:06,605 --> 00:56:11,228
+affiliated with a different cult in Marvel known
+as The Pride. But that does it for this episode,
+
+580
+00:56:11,268 --> 00:56:15,850
+guys. We want to give a big thanks to our executive
+producers, Ken Johnson, John Sturowski, Zachary
+
+581
+00:56:15,890 --> 00:56:21,542
+Hepburn, Dustin Balcom, Mickey Matangian, Brandon
+Estergard, Nathaniel Wagner, Levi Yeaton. Austin
+
+582
+00:56:21,562 --> 00:56:27,863
+Wyselowski, AJ Dunkerley, Nick Abonto, Scott
+Camacho, Gil Camacho, Adam Spies, Dean Molesky,
+
+583
+00:56:28,063 --> 00:56:34,404
+Devin Davis, Joseph Kirsting, Josh Leiner, Mike
+Williams, and Oscar Galvez for helping to make
+
+584
+00:56:34,444 --> 00:56:39,365
+this podcast possible. We'll talk to you guys
+next week. Up up and away, true believers.
+
+585
+00:56:40,185 --> 00:56:44,186
+Neither the Infinity Gauntlet nor the Anti-Life
+Equation can match the supreme might of my
+
+586
+00:56:44,226 --> 00:56:46,586
+Draw 4 Uno Reverse card. Come at me.
+
