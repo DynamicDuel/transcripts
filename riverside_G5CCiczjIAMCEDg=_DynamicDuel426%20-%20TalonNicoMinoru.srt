@@ -1,0 +1,3564 @@
+1
+00:00:00,930 --> 00:00:02,972
+This is a DynaMic Network podcast.
+
+2
+00:00:25,194 --> 00:00:31,157
+to the dynamic duel podcast, a weekly show where
+we review superhero films and debate the superiority
+
+3
+00:00:31,197 --> 00:00:36,840
+between Marvel and DC by comparing their characters
+in stat-based battle simulations. I'm Johnny
+
+4
+00:00:36,880 --> 00:00:43,103
+DC. And I'm his twin brother Marvelous Joe.
+And in this episode, we are doing a duel between
+
+5
+00:00:43,143 --> 00:00:48,866
+the characters of Talon and Nico Minoru. Like
+that's her name. She doesn't have a superhero
+
+6
+00:00:48,886 --> 00:00:54,049
+name. Her superhero name is Sister Grimm, but
+she barely goes by it. She's one of the Runaways
+
+7
+00:00:54,069 --> 00:00:58,628
+characters. if you guys are familiar with that
+Marvel team. Basically, both of these characters
+
+8
+00:00:58,648 --> 00:01:03,952
+have their origins tied into a cult of some
+kind. One of the characters focuses on martial
+
+9
+00:01:04,012 --> 00:01:08,896
+arts, the other one focuses on magic, but both
+characters slightly dabble in the other specialty
+
+10
+00:01:08,936 --> 00:01:13,659
+as well. Right, we're gonna find out who's gonna
+win later on in this episode. Before that,
+
+11
+00:01:13,679 --> 00:01:17,702
+we're gonna break down the comic book movie
+news from this past week, of which there was
+
+12
+00:01:17,742 --> 00:01:23,066
+a lot of news. There was the Avengers Doomsday
+concept art that was leaked. as well as the
+
+13
+00:01:23,126 --> 00:01:28,329
+first look at the Lanterns television series,
+and the announcement of My Adventures with
+
+14
+00:01:28,389 --> 00:01:35,152
+Green Lantern, Superpowers, and Starfire animated
+series. Also, Jon Bernthal is set to return
+
+15
+00:01:35,172 --> 00:01:41,456
+for a Punisher special for Disney+. As always,
+we list our segment times in our episode description,
+
+16
+00:01:41,736 --> 00:01:45,818
+so feel free to check out the show notes if
+you wanna skip ahead to a particular topic.
+
+17
+00:01:46,178 --> 00:01:51,121
+Our artificially intelligent Duel simulator,
+AJ9K, has a quick message for our listeners
+
+18
+00:01:51,161 --> 00:01:58,204
+first though. So listen up. Why hello there,
+do you want even more from this podcast? Then
+
+19
+00:01:58,244 --> 00:02:02,188
+become a part of the dynamic Duel community
+on Patreon, where you can choose from three
+
+20
+00:02:02,228 --> 00:02:07,592
+tiers. The dynamic two-oh tier gives you access
+to our Discord chat server. The fantastic four
+
+21
+00:02:07,612 --> 00:02:11,936
+tier gives you two bonus episodes each month.
+And the X-Force tier makes you an executive
+
+22
+00:02:11,976 --> 00:02:17,308
+producer of this show. Lastly, The Diner Mike
+Podcast Network tier lets you create your own
+
+23
+00:02:17,348 --> 00:02:22,313
+podcast using this Monte Carlo simulator. Johnny
+and Joe will help you develop your show, provide
+
+24
+00:02:22,353 --> 00:02:27,358
+graphic support and consultation, and get you
+simulation results. Pitch the twins your ideas
+
+25
+00:02:27,398 --> 00:02:33,584
+via email at dynamicduelpodcast at gmail.com.
+Check it out at patreon.com slash dynamicduel.
+
+26
+00:02:33,944 --> 00:02:41,206
+Pip pip cheerio. Thanks AJ9K and thanks to everyone
+who supports the podcast. Be sure to tune into
+
+27
+00:02:41,246 --> 00:02:46,668
+the other shows in the DynaMic Podcast Network
+this week, including Max Destruction, which
+
+28
+00:02:46,728 --> 00:02:51,070
+pits your favorite action heroes from film and
+television against each other. This Wednesday,
+
+29
+00:02:51,330 --> 00:02:56,852
+hosts Scotty and Gilly are finding out who would
+win in a fight between Flash Gordon and Buck
+
+30
+00:02:56,932 --> 00:03:01,614
+Rogers. On the Senjoh World podcast, host
+Zachary Hepburn speculates on fights between
+
+31
+00:03:01,654 --> 00:03:06,396
+fan favorite anime and manga characters. Zach
+is on his brief season break right now, but
+
+32
+00:03:06,436 --> 00:03:11,582
+anime fans should check out his season finale.
+Out now. which was an epic 10 vs 10 matchup
+
+33
+00:03:11,622 --> 00:03:17,904
+of the Akatsuki from Naruto vs the Espada from
+Bleach. And on the Console Combat Podcast hosts
+
+34
+00:03:18,004 --> 00:03:23,065
+John and Dean simulate battles between popular
+video game characters. In yesterday's episode,
+
+35
+00:03:23,285 --> 00:03:29,407
+they found out who would win between Jack Winand
+from Bioshock and Corvo Attano from Dishonored.
+
+36
+00:03:29,767 --> 00:03:33,988
+Visit dynamicpodcasts.com or click the link
+in our show notes to listen to all the shows
+
+37
+00:03:34,368 --> 00:03:41,498
+in the DynaMic Podcast Network. But with that
+out of the way, quick to the no prize! A no
+
+38
+00:03:41,538 --> 00:03:46,262
+prize is an award Marvel used to give out to
+fans. Our version, the Dynamic Duel No Prize,
+
+39
+00:03:46,322 --> 00:03:51,187
+is a digital award we post on Instagram for
+the person that we feel gave the best answer
+
+40
+00:03:51,227 --> 00:03:56,432
+to our question of the week. Last week we asked
+you guys, what horror director would you like
+
+41
+00:03:56,472 --> 00:04:01,817
+to see direct a film for one of Batman's villains
+and which villain? This was coming off the
+
+42
+00:04:01,837 --> 00:04:07,830
+news that James Watkins is lined up to direct
+the upcoming Clayface film. We got a lot of
+
+43
+00:04:07,890 --> 00:04:11,751
+answers this week. You guys came out of the
+woodwork to talk about your favorite horror
+
+44
+00:04:11,771 --> 00:04:16,452
+directors and Batman villains. So let's go ahead
+and break down our honorable mentions as well
+
+45
+00:04:16,492 --> 00:04:22,194
+as the no prize winner. Our first honorable
+mention goes to Matt from Texas who said. Hey
+
+46
+00:04:22,214 --> 00:04:29,816
+guys, it's Matt from Texas. I would say a director
+that I want to direct a horror Batman villain
+
+47
+00:04:29,836 --> 00:04:35,678
+film would be Darren Bousman if that's how you
+say his name. He directed the majority of the
+
+48
+00:04:35,778 --> 00:04:42,780
+Saw films and I think he could do a great Riddler
+film. Set it up, same Riddler from The Batman
+
+49
+00:04:43,480 --> 00:04:49,662
+and all those traps and everything would be
+awesome. Oh totally, a Jigsaw-esque Riddler
+
+50
+00:04:49,702 --> 00:04:55,163
+film would be perfect for the character and
+perfect for Paul Dano, who I thought was a
+
+51
+00:04:55,243 --> 00:05:01,705
+terrific Riddler in the Batman film. Yeah, Darren
+Lynn Bausman was kind of an out of left field
+
+52
+00:05:01,765 --> 00:05:05,759
+choice. but I thought he was brilliant. Out
+of all the answers that were given for the
+
+53
+00:05:05,799 --> 00:05:10,101
+character of the Riddler, I think he was the
+best one because I think a Paul Dano Riddler
+
+54
+00:05:10,141 --> 00:05:15,383
+movie would be best served as a film in the
+style of the Saw franchise. Yeah, it's a pretty
+
+55
+00:05:15,423 --> 00:05:21,526
+gritty franchise, but I could totally see Paul
+Dano's version of the Riddler existing within
+
+56
+00:05:21,566 --> 00:05:27,009
+that universe and creating these like horrendous
+machines to punish people. Yeah, out of the
+
+57
+00:05:27,069 --> 00:05:31,391
+other options we got for the Riddler, Jacob...
+Bell called in with his answer of David Fincher,
+
+58
+00:05:31,532 --> 00:05:36,236
+so it would be a Riddler movie in the vein of
+Zodiac, which I thought was pretty good. And
+
+59
+00:05:36,276 --> 00:05:41,701
+also, By Dear Bangora said that Wes Craven,
+the guy behind Nightmare on Elm Street and
+
+60
+00:05:41,721 --> 00:05:46,225
+the Scream franchise, could direct a good Riddler
+movie. And those are solid options too, but
+
+61
+00:05:46,265 --> 00:05:51,309
+I think I gravitated most toward Darren Lynn
+Bousman. Great answer, Matt! Our next honorable
+
+62
+00:05:51,349 --> 00:05:57,638
+mention goes to Lee Tapscott, who said, Hi,
+this is Lee. What director would I like to
+
+63
+00:05:57,698 --> 00:06:06,822
+see direct a Batman movie for a particular villain?
+Sam Raimi. I can just imagine what he could
+
+64
+00:06:06,882 --> 00:06:13,985
+do behind a Scarecrow movie. Can you imagine
+what we, the audience, would see through Sam
+
+65
+00:06:14,585 --> 00:06:20,567
+Raimi's direction with the Scarecrow gas, how
+it would affect everybody, what they would
+
+66
+00:06:20,687 --> 00:06:27,022
+see and what it would do to Batman? Yeah, that
+is a fantastic choice. Sam Raimi. is a terrific
+
+67
+00:06:27,062 --> 00:06:32,226
+director who's no stranger to the superhero
+genre, having directed the first Spider-Man
+
+68
+00:06:32,266 --> 00:06:37,589
+trilogy as well as Doctor Strange and the Multiverse
+of Madness. But not only that, he's famously
+
+69
+00:06:37,649 --> 00:06:42,413
+also directed films like the Evil Dead franchise.
+J.D. Right, yeah, he is a master of horror.
+
+70
+00:06:42,873 --> 00:06:48,737
+I think he would be my number one pick to direct
+a Scarecrow film, actually. I think a lot of
+
+71
+00:06:48,817 --> 00:06:53,901
+his nightmare scenes would be pretty gross to
+watch because he has quite the macabre sense
+
+72
+00:06:54,181 --> 00:06:59,939
+of humor. and horror, you know, but I think
+it would be a whole lot of fun to see a Scarecrow
+
+73
+00:06:59,979 --> 00:07:04,400
+movie done in the vein of Evil Dead. For all
+of Batman's rogues galleries, you'd think that
+
+74
+00:07:04,440 --> 00:07:11,302
+the Scarecrow would lend himself most easily
+to a horror genre film. And yes, Sam Raimi
+
+75
+00:07:11,582 --> 00:07:15,703
+is one of the best horror directors out there.
+Great answer Lee Tapscott. Our next honorable
+
+76
+00:07:15,743 --> 00:07:22,465
+mention goes to Daniel Alonso, who said, Okay,
+so I guess he's a horror director now, but
+
+77
+00:07:23,110 --> 00:07:29,696
+My vote would be for John Krasinski to do a
+movie about Man-Bat. John Krasinski is the
+
+78
+00:07:29,736 --> 00:07:35,542
+guy who directed The Quiet Place. And oh my
+gosh, if you haven't seen that movie, please
+
+79
+00:07:35,562 --> 00:07:40,648
+watch it. But you'll get the idea of how Man-Bat
+would be able to hear everything in the dark
+
+80
+00:07:41,168 --> 00:07:46,073
+and really get up close to Batman. I think that
+would be just a match made in heaven. Please
+
+81
+00:07:46,133 --> 00:07:50,655
+do that. Yeah, I love this answer because it
+came out of left field. I have seen the first
+
+82
+00:07:50,715 --> 00:07:55,636
+Quiet Place. I haven't seen any of the sequels.
+It's just so interesting to me that, you know,
+
+83
+00:07:55,716 --> 00:08:01,618
+John Krasinski, the guy from Jim from The Office,
+the director of A Quiet Place, a popular horror
+
+84
+00:08:01,658 --> 00:08:07,239
+franchise and, you know, like the current Jack
+Ryan, his career is so versatile. And I think
+
+85
+00:08:07,419 --> 00:08:13,521
+the idea of him directing a man bat movie in
+the vein of his horror franchise, A Quiet Place,
+
+86
+00:08:13,901 --> 00:08:18,839
+was just too interesting to pass up. Not only
+that, I think he could also play the character
+
+87
+00:08:18,879 --> 00:08:23,321
+of Kirk Langstrom because he's also a talented
+actor. Yeah, I could totally see him in the
+
+88
+00:08:23,341 --> 00:08:28,983
+role. And telling the story of this guy who
+tragically turns into a part bat creature,
+
+89
+00:08:29,063 --> 00:08:34,165
+I think could be better serviced by a director
+as talented as John Krasinski than something
+
+90
+00:08:34,245 --> 00:08:40,948
+like the movie Morbius. You know? 100%. Yeah,
+you're just stating the obvious. We want to
+
+91
+00:08:40,968 --> 00:08:46,083
+give a special shout out to Bidear Bangora,
+Jacob Bell. Colby Hentges who actually gave
+
+92
+00:08:46,363 --> 00:08:51,467
+a fantastic answer. He wants Osgood Perkins
+to direct a Professor Pig movie which I thought
+
+93
+00:08:51,888 --> 00:08:57,452
+is just brilliant because Osgood Perkins has
+made some of the most atmospheric, evil looking
+
+94
+00:08:57,573 --> 00:09:03,117
+horror films that I've ever seen including Long
+Legs and Black Coat's Daughter. But Professor
+
+95
+00:09:03,157 --> 00:09:09,863
+Pig doesn't have too many supernatural elements
+to him and Osgood Perkins movies do so I thought
+
+96
+00:09:09,903 --> 00:09:13,950
+he might be better suited to a different Batman
+character than Professor Pig. But great answer
+
+97
+00:09:13,990 --> 00:09:18,494
+nonetheless, Colby. Also special shout out to
+Judson Batty, who said that Sam Raimi should
+
+98
+00:09:18,514 --> 00:09:23,918
+direct a Ra's al Ghul movie. But the winner
+of this week's No Prize is Travis Herndon,
+
+99
+00:09:24,279 --> 00:09:28,883
+who said. What's up, Danny Medouj, Travis here.
+Shout out to my evil twins. So my answer would
+
+100
+00:09:28,903 --> 00:09:34,407
+be Jordan Peele as a director doing a Killer
+Croc movie. I think he would do an amazing
+
+101
+00:09:34,647 --> 00:09:40,853
+job following Wayland's origins from his New
+52 origins, and then maybe combine it with
+
+102
+00:09:40,933 --> 00:09:47,665
+Joker's Asylum. Killer Croc mini story that
+could be both interesting but tragic looking
+
+103
+00:09:47,685 --> 00:09:53,329
+to Croc's origins and just him as a character.
+So yeah, that's my pick. I'm a big fan of Jordan
+
+104
+00:09:53,369 --> 00:09:58,893
+Peele. I think he's kind of a brilliant mind
+when it comes to modern horror cinema. And
+
+105
+00:09:58,913 --> 00:10:03,556
+I would really love to see his take on a character
+like Killer Croc who has been adapted in live
+
+106
+00:10:03,616 --> 00:10:09,200
+action in 2016 Suicide Squad movie, but I think
+Jordan Peele could do a much better job. Yeah,
+
+107
+00:10:09,220 --> 00:10:14,102
+if you told me that Killer Croc should get his
+own film, I'd be like, I don't know about that.
+
+108
+00:10:14,622 --> 00:10:18,944
+But if you mentioned Jordan Peele is directing
+it, I'm like, yes, absolutely, 100 percent.
+
+109
+00:10:19,364 --> 00:10:24,145
+Not only can you capture like the horror aspect,
+which, you know, Killer Crack is not that horrifying
+
+110
+00:10:24,385 --> 00:10:29,266
+of a character. But I think Jordan Peele can
+bring not only the humanity of the character,
+
+111
+00:10:29,627 --> 00:10:34,968
+but also a cultural element. Yeah, for sure.
+I just think out of all the directors on this
+
+112
+00:10:35,088 --> 00:10:39,769
+list, I like the directorial talents of Jordan
+Peele the most. Yeah, the guy's incredible.
+
+113
+00:10:40,270 --> 00:10:44,212
+Great answer, Travis. You win this week's No
+Prize. If you the listener want a shot at winning
+
+114
+00:10:44,232 --> 00:10:48,835
+your own No Prize, stay tuned to later on in
+this episode when we'll be asking another Question
+
+115
+00:10:48,875 --> 00:10:52,137
+of the Week. And now that that's done, on to
+the news.
+
+116
+00:10:57,634 --> 00:11:02,535
+Alright, this past week, a series of concept
+art pieces for the upcoming film, Avengers
+
+117
+00:11:02,675 --> 00:11:07,676
+Secret Wars, was leaked accidentally on the
+internet by the artist who drew them, Musk
+
+118
+00:11:07,776 --> 00:11:14,398
+Rizvi. She posted these images to her ArtStation
+portfolio, and the images spread like wildfire
+
+119
+00:11:14,438 --> 00:11:19,380
+throughout the internet. Now, if you haven't
+got a chance to see any of these images, Google
+
+120
+00:11:19,420 --> 00:11:23,321
+is your friend, but be aware that the art is
+being taken down almost as quickly as it's
+
+121
+00:11:23,341 --> 00:11:27,423
+going up. The reason we're going to comment
+on it now, is because we think that the images
+
+122
+00:11:27,703 --> 00:11:32,908
+have spread enough and quite a few news outlets
+are reporting on it to warrant us discussing
+
+123
+00:11:32,988 --> 00:11:38,934
+it because it's not really spoilers anymore.
+And the art itself is pretty interesting. Definitely
+
+124
+00:11:38,954 --> 00:11:45,901
+worth discussing. Now, as fans, we knew that
+Marvel Studios cast Robert Downey Jr. as Victor
+
+125
+00:11:45,941 --> 00:11:50,645
+Von Doom. We didn't really know much about the
+movie beyond the casting of Downey as Doom.
+
+126
+00:11:51,106 --> 00:11:57,889
+But with this leak, we have a much better idea
+of what the movie is going to be about. And
+
+127
+00:11:58,149 --> 00:12:02,892
+I think it'll surprise a lot of people who haven't
+seen the concept art that it looks like they're
+
+128
+00:12:02,912 --> 00:12:09,936
+going for a high fantasy type movie with the
+Marvel Universe set in a new reality reshaped
+
+129
+00:12:09,976 --> 00:12:15,519
+by Doctor Doom that looks medieval in nature.
+So as many comic book readers know, the 2016
+
+130
+00:12:16,260 --> 00:12:22,811
+story of Secret Wars takes place in Battle Dr.
+Doom created when he obtained the powers of
+
+131
+00:12:22,851 --> 00:12:28,775
+the Beyonder and became God Emperor Doom. He
+basically remade the multiverse in his image
+
+132
+00:12:28,855 --> 00:12:34,318
+in order to save it from the incursions that
+would destroy everything. And he sat over everyone
+
+133
+00:12:34,378 --> 00:12:39,181
+else as the planet's ruler. But they're taking
+that idea and it seems like they're also merging
+
+134
+00:12:39,281 --> 00:12:44,804
+it somewhat with a concept like House of M where
+the Scarlet Witch rewrote reality and everyone
+
+135
+00:12:44,824 --> 00:12:49,639
+just accepted this as the new normal. But they're
+also taking notes, I think, from an Avenger
+
+136
+00:12:49,679 --> 00:12:55,583
+story called The Morgan Conquest, in which Morgan
+Le Fay rewrote reality so that the Marvel universe
+
+137
+00:12:55,623 --> 00:13:00,786
+existed in this medieval timeline. So they're
+taking all these cues, and it's really exciting
+
+138
+00:13:00,826 --> 00:13:07,630
+to see all these familiar faces and characters
+redesigned into medieval versions of themselves.
+
+139
+00:13:07,650 --> 00:13:14,046
+Yeah, characters like Hulk and She-Hulk and
+Black Panther. And Doctor Strange. who, like
+
+140
+00:13:14,066 --> 00:13:21,050
+in the 2016 Jonathan Hickman's Secret Wars run,
+serves as basically an advisor to Doom's court.
+
+141
+00:13:21,070 --> 00:13:25,333
+What's really interesting is it looks like Sue
+Storm of the Fantastic Four, Invisible Woman,
+
+142
+00:13:25,473 --> 00:13:31,656
+and her son Franklin Richards serve as Dr. Doom's
+Queen and Prince. I'm wondering if they're
+
+143
+00:13:31,676 --> 00:13:35,899
+going to introduce Franklin Richards in the
+Fantastic Four movie as this, you know, powerful
+
+144
+00:13:35,939 --> 00:13:41,498
+reality-warping child as he is in the comic
+books, and somehow Dr. Doom... manages to usurp
+
+145
+00:13:41,538 --> 00:13:46,941
+or take advantage of that child's power to recreate
+this reality. I could totally see that being
+
+146
+00:13:46,981 --> 00:13:51,464
+the case. I probably see that more than what
+some people have been speculating with Wanda
+
+147
+00:13:51,624 --> 00:13:56,967
+and the Scarlet Witch. Who knows though. I think
+it's most interesting to me though to see we're
+
+148
+00:13:56,987 --> 00:14:02,750
+not just getting doom, we're getting God Emperor
+doom. Yeah, I mean, it's hard to know where
+
+149
+00:14:02,770 --> 00:14:08,213
+he could possibly go from here if they reintroduce
+the character again after the events of Secret
+
+150
+00:14:08,233 --> 00:14:12,861
+Wars. by an actor who's not Robert Downey Jr.,
+you know, like a non-multi-versal version of
+
+151
+00:14:12,901 --> 00:14:18,266
+him, it would be cool to get like a more intimate
+story between him against the Fantastic Four,
+
+152
+00:14:18,326 --> 00:14:23,090
+I think. There's one piece of concept art where
+we see Hulk and She-Hulk decked out in medieval
+
+153
+00:14:23,130 --> 00:14:29,315
+garb existing in this walled-off city of other
+gamma-irradiated beings, including his son
+
+154
+00:14:29,435 --> 00:14:35,600
+Scar. It looks really interesting because they
+highly resemble orcs from World of Warcraft
+
+155
+00:14:35,801 --> 00:14:39,058
+as they're designed here. Yeah, I can see that
+except, you know, they don't have like the
+
+156
+00:14:39,098 --> 00:14:44,621
+large tusks, but otherwise, you're right, they
+do. Scar is an interesting addition here. He
+
+157
+00:14:44,661 --> 00:14:49,063
+definitely looks different from what we saw
+in the She-Hulk television series, but they
+
+158
+00:14:49,083 --> 00:14:54,725
+might be using him in this film as part of a
+broader Young Avengers team that they're also
+
+159
+00:14:54,765 --> 00:14:58,606
+teasing with this concept art. Right, yeah,
+part of the concept art revealed our first
+
+160
+00:14:58,647 --> 00:15:02,628
+look at the Young Avengers, or maybe they're
+called the champions here. We don't know yet,
+
+161
+00:15:02,988 --> 00:15:08,635
+but it consists of medieval versions of Ms.
+Marvel. K-Pishup's Hawkeye, Stinger, Wiccan,
+
+162
+00:15:08,915 --> 00:15:13,957
+and Speed, as well as Dupe from XStatics. I
+don't know if a lot of people out there know
+
+163
+00:15:13,977 --> 00:15:19,659
+who Dupe is, but he is a mutant character who
+kind of looks like Slimer from Ghostbusters.
+
+164
+00:15:20,179 --> 00:15:23,641
+He speaks like a different language and everything
+like that. It's interesting how they're incorporating
+
+165
+00:15:23,701 --> 00:15:31,264
+him here as a mutant element set within this
+new medieval world. Which I kind of hate. If
+
+166
+00:15:31,304 --> 00:15:36,378
+we see medieval versions of the X-Men for the
+first time in the MCU... I'm not looking forward
+
+167
+00:15:36,418 --> 00:15:41,741
+to that. That being said, Doop doesn't have
+any clothes. He's like this floating green
+
+168
+00:15:41,881 --> 00:15:46,764
+slug looking guy, so he's not really a medieval
+version of the character. He's just Doop as
+
+169
+00:15:46,844 --> 00:15:52,648
+Doop. What's really interesting is that the
+character of Star-Lord in both pieces of concept
+
+170
+00:15:52,708 --> 00:15:56,930
+art that he's featured in, he does not seem
+like he's decked out in medieval garb. He looks
+
+171
+00:15:56,950 --> 00:16:01,733
+like he's wearing his regular outfit, so I'm
+wondering if he's the one that kind of comes
+
+172
+00:16:01,773 --> 00:16:07,801
+to... God Emperor Doom's new battle world slash
+reimagined version of Latveria in which he
+
+173
+00:16:07,841 --> 00:16:13,104
+is the ruler and maybe Star-Lord tries to remind
+everybody of who they really are and then get
+
+174
+00:16:13,144 --> 00:16:18,247
+them to rise up and overthrow their new tyrant.
+Which is an interesting take. I never would
+
+175
+00:16:18,267 --> 00:16:23,791
+have thought that Star-Lord would have been
+seemingly the protagonist of an Avengers film.
+
+176
+00:16:24,151 --> 00:16:27,813
+Well, he could be when everyone else is kind
+of brainwashed into living in this new reality.
+
+177
+00:16:28,246 --> 00:16:33,130
+We know that at least part of this movie takes
+place outside of this new medieval world, because
+
+178
+00:16:33,330 --> 00:16:38,696
+one of the concept art pieces is Star-Lord chilling
+on his couch with Vision, the white version
+
+179
+00:16:38,736 --> 00:16:44,841
+of Vision, watching TV as seeming roommates,
+which is fucking hilarious. Yeah, talk about
+
+180
+00:16:44,881 --> 00:16:50,387
+an odd couple. That should be good times. I
+hope that's what Vision Quest is about, actually.
+
+181
+00:16:50,487 --> 00:16:55,847
+Like, the co-star of that show should be Star-Lord.
+We got our new look at the medieval version
+
+182
+00:16:55,887 --> 00:17:02,330
+of Black Panther. I got to say his costume design
+is epic as hell. It looks so good with like
+
+183
+00:17:02,350 --> 00:17:06,973
+a lot of gold trim. And he has his long flowing
+black cape in this version. It looks awesome.
+
+184
+00:17:07,413 --> 00:17:14,738
+A lot of people are speculating that the actor
+rendered in this piece of concept art is Damson
+
+185
+00:17:14,858 --> 00:17:20,221
+Idris, who is an actor that I'm not familiar
+with. But people say that this concept art
+
+186
+00:17:20,401 --> 00:17:25,292
+looks like him. And while that may be the case,
+either Marvel has cast T'Challa or T'Challa's
+
+187
+00:17:25,332 --> 00:17:30,155
+son in this new universe, or it's possible that
+the concept artist just used him as a reference
+
+188
+00:17:30,335 --> 00:17:35,339
+for this piece of art. Which is not uncommon
+for artists to do. The final piece of concept
+
+189
+00:17:35,399 --> 00:17:38,941
+art that was leaked was the most vague. There
+was no color involved or anything. It was a
+
+190
+00:17:39,401 --> 00:17:45,566
+very early sketch, but it looks like a guy who
+is chained up by his arms in a dungeon in some
+
+191
+00:17:45,606 --> 00:17:50,629
+sort of pit. It's hard to tell if like magic
+energy is emanating from him or steam or something
+
+192
+00:17:50,669 --> 00:17:55,075
+like that. It's hard to tell exactly who this
+is. People have speculated that it's Peter
+
+193
+00:17:55,095 --> 00:18:01,317
+Parker being used as a magical conduit or something
+like that, or maybe the human torch who's being
+
+194
+00:18:01,377 --> 00:18:06,679
+doused in water to keep him from turning a flame
+and he's being held prisoner. But yeah, that's
+
+195
+00:18:06,699 --> 00:18:10,820
+definitely the most mysterious piece of art
+that was released. Overall, with all the concept
+
+196
+00:18:10,880 --> 00:18:16,630
+art pieces here, how excited does this get you
+for Avengers Doomsday? It makes me super excited.
+
+197
+00:18:16,891 --> 00:18:20,433
+I almost don't care that they're going with
+Robert Downey Jr. even more, especially if
+
+198
+00:18:20,453 --> 00:18:26,637
+the whole entire thing is set in a new medieval
+reality that is so far removed from anything
+
+199
+00:18:26,717 --> 00:18:32,542
+resembling the modern MCU. I like this as kind
+of like a detour story. And plus it's really
+
+200
+00:18:32,562 --> 00:18:38,986
+interesting to see the Marvel Cinematic Universe
+reimagined within this new genre of high fantasy
+
+201
+00:18:39,086 --> 00:18:44,739
+in a similar vein as Lord of the Rings or Game
+of Thrones or World of Warcraft. But speaking
+
+202
+00:18:44,779 --> 00:18:50,236
+of reimagining the MCU in the vein of another
+franchise like Lord of the Rings, that brings
+
+203
+00:18:50,276 --> 00:18:51,460
+us to our question of the week.
+
+204
+00:18:55,934 --> 00:19:02,379
+If you could take either the Marvel or DC cinematic
+universes and place them in a separate film
+
+205
+00:19:02,419 --> 00:19:09,205
+franchise, what would it be? So you're taking
+the MCU or DC cinematic universes and then
+
+206
+00:19:09,285 --> 00:19:14,870
+plopping it into another universe, another film
+franchise. Set in that world, what is that
+
+207
+00:19:14,890 --> 00:19:19,374
+world? And tell us what it would be like for
+the heroes who find themselves there. Record
+
+208
+00:19:19,394 --> 00:19:23,437
+your answer at dynamicduel.com by clicking on
+the red microphone button in the bottom right
+
+209
+00:19:23,457 --> 00:19:27,420
+hand corner of the screen, which will prompt
+you to leave us a voicemail. Your message could
+
+210
+00:19:27,440 --> 00:19:31,443
+be up to 30 seconds long. And don't forget to
+leave your name in case we include you on the
+
+211
+00:19:31,484 --> 00:19:36,327
+podcast. We'll pick our favorite answer and
+award that person a dynamic duel no prize that
+
+212
+00:19:36,367 --> 00:19:43,373
+will post to Instagram. Be sure to answer before
+March 8th. Well in DC news, we got to our first
+
+213
+00:19:43,473 --> 00:19:50,906
+look at lanterns, the HBO television series
+set in the DCU. starring Aaron Pierre as Jon
+
+214
+00:19:50,946 --> 00:19:57,189
+Stewart and Kyle Chandler as Hale Jordan. They
+released this first look to coincide with the
+
+215
+00:19:57,269 --> 00:20:01,811
+start of production for the series. Perhaps
+they're going to be filming outside and people
+
+216
+00:20:01,831 --> 00:20:07,273
+would be taking leaked set photos. I'm not sure.
+I do have to say though, if they're going to
+
+217
+00:20:07,314 --> 00:20:12,976
+release any kind of official imagery to get
+people excited about the show, this didn't
+
+218
+00:20:12,996 --> 00:20:19,286
+quite work for me. It cannot be more boring.
+Yeah, it's two dudes walking outside wearing
+
+219
+00:20:19,326 --> 00:20:24,528
+jackets. One of them has a piece of jewelry
+on that could vaguely be described as a Green
+
+220
+00:20:24,568 --> 00:20:31,050
+Lantern ring. Yeah, it's gray with like a hint
+of green in the middle, which is kind of disappointing,
+
+221
+00:20:31,090 --> 00:20:36,191
+honestly. It reminds me a lot of the Green Lantern
+ring that Ryan Reynolds wore in the Green Lantern
+
+222
+00:20:36,231 --> 00:20:42,153
+film. So I was hoping that they would be a little
+bit more, I don't know, green with the ring.
+
+223
+00:20:43,313 --> 00:20:47,443
+But I guess this is what we're getting. I think
+it's the same ring that Nathan Fillion is wearing,
+
+224
+00:20:47,523 --> 00:20:52,247
+is it not? I'm not sure. That one looked a lot
+more green to me, but it did move across the
+
+225
+00:20:52,267 --> 00:20:57,491
+screen pretty quickly in the Superman trailer.
+I have to say, Aaron Pierre looks like Aaron
+
+226
+00:20:57,532 --> 00:21:04,317
+Pierre. Kyle Chandler looks not quite what I
+imagined how Jordan would look like, but it's
+
+227
+00:21:04,357 --> 00:21:08,861
+not a terrible look for the character. He does
+look like an older character than he normally
+
+228
+00:21:08,901 --> 00:21:13,745
+does in the comics with the graying hair. Who
+knows? Maybe Parallax has already gotten to
+
+229
+00:21:13,785 --> 00:21:18,227
+him. I don't know. What's interesting is that
+John Stewart is not wearing a ring in this
+
+230
+00:21:18,288 --> 00:21:23,771
+image. Yeah, from what we can see, he has not
+received his ring yet. So I'm not sure how
+
+231
+00:21:23,791 --> 00:21:28,894
+much he knows about how Jordan being Green Lantern
+in the scene that they're filming. We do know
+
+232
+00:21:28,914 --> 00:21:34,278
+that a majority of the story for this series
+takes place on Earth. So this seems to be very
+
+233
+00:21:34,298 --> 00:21:40,301
+much like an origin story for John Stewart and
+less of like a cosmic Odyssey type adventure.
+
+234
+00:21:40,874 --> 00:21:45,797
+All I can say is you compare the awesomeness
+that was the leaked concept art for Marvel
+
+235
+00:21:46,217 --> 00:21:53,302
+to the actual first look at Lanterns that we
+got released from DC. And as a DC fan, I would
+
+236
+00:21:53,322 --> 00:21:58,366
+just be ashamed. I mean, it's not like I've
+lost all hope because the creative team of
+
+237
+00:21:58,426 --> 00:22:04,270
+Chris Mundy, Tom King and Damon Lindelof is
+five star talent. So I imagine this is going
+
+238
+00:22:04,310 --> 00:22:10,246
+to be an incredible show. This is just not an
+incredible first look in my opinion. Now this
+
+239
+00:22:10,306 --> 00:22:16,109
+first look from Lanterns came out a few days
+after DC Studios heads James Gunn and Peter
+
+240
+00:22:16,169 --> 00:22:24,034
+Safran gave us a huge update regarding the lineup
+and projects within DC Studios and the DCU.
+
+241
+00:22:24,334 --> 00:22:29,217
+The biggest announcements I think were that
+we're getting three new DC animated series
+
+242
+00:22:29,778 --> 00:22:34,801
+including My Adventures with Green Lantern which
+ties into My Adventures with Superman which
+
+243
+00:22:34,841 --> 00:22:39,708
+is a fantastic show. The Green Lantern one will
+focus on Jessica Cruz getting her ring for
+
+244
+00:22:39,748 --> 00:22:45,753
+the first time. We also have a show titled DC
+Superpowers, which takes place at the Alliance
+
+245
+00:22:45,793 --> 00:22:51,498
+School for Heroes, and is going to focus on
+students like Lightning, who I think is Black
+
+246
+00:22:51,538 --> 00:22:56,402
+Lightning, but they're renaming him. Flash,
+Plastic Man, Aqua Girl, Green Lantern, and
+
+247
+00:22:56,462 --> 00:23:01,666
+Terra, who are in training to level up their
+powers under the supervision of characters
+
+248
+00:23:01,706 --> 00:23:08,647
+like Principal Martian Manhunter. It sounds
+very much like DC Superhero Girls, but with
+
+249
+00:23:08,687 --> 00:23:14,389
+boys too. Or like X-Men Evolution? Yeah, yeah,
+exactly. Not too excited for that project,
+
+250
+00:23:14,449 --> 00:23:21,052
+but we also got news of a Starfire animated
+series that explores the origin of that character.
+
+251
+00:23:21,492 --> 00:23:25,874
+Of course, there was also announcements about
+the broader slate, including a Teen Titans
+
+252
+00:23:26,114 --> 00:23:31,556
+live-action film that's being written currently,
+an update on the Sergeant Rock film, and that
+
+253
+00:23:31,656 --> 00:23:36,382
+the script and the director are locked down.
+They're just looking for... their star. Shows
+
+254
+00:23:36,422 --> 00:23:41,086
+like Booster Gold and Paradise Lost are still
+being written, but it looks like the Waller
+
+255
+00:23:41,106 --> 00:23:46,690
+television series has kind of been abandoned.
+Along with the Authority, as those projects
+
+256
+00:23:46,710 --> 00:23:51,233
+have been said to be increasingly complicated.
+Really, during the press event, James Gunn
+
+257
+00:23:51,293 --> 00:23:55,496
+and Peter Safran doubled down on what they had
+been saying all along, is that they're not
+
+258
+00:23:55,536 --> 00:24:00,459
+going to green light a project until the script
+is complete. And since Waller and Authority,
+
+259
+00:24:00,719 --> 00:24:05,430
+Booster Gold and Paradise Lost have not been
+fully fleshed out, they're not moving forward.
+
+260
+00:24:05,650 --> 00:24:10,871
+Whereas smaller projects like Clayface and Dynamic
+Duo, the stop motion animated film coming out
+
+261
+00:24:11,191 --> 00:24:16,673
+in 2027, I believe, are more fully flushed out.
+So those have been greenlit. I think they should
+
+262
+00:24:16,713 --> 00:24:20,674
+also avoid announcing any projects that haven't
+been greenlit. I think Marvel Studios learned
+
+263
+00:24:20,694 --> 00:24:23,935
+that lesson too. Well, that was actually one
+of the things they talked about with the press
+
+264
+00:24:24,195 --> 00:24:30,177
+is that they could talk about something like
+perhaps Robert Pattinson joining the DCU. And
+
+265
+00:24:30,217 --> 00:24:34,906
+just because they talk about it, the news spreads
+like wildfire. So they were essentially telling
+
+266
+00:24:34,926 --> 00:24:38,989
+the press like, calm down, calm down guys. Yeah,
+there's always a lot of misinformation out
+
+267
+00:24:39,009 --> 00:24:43,631
+there, for sure. I'm glad that James Gunn, you
+know, usually tries to set the record straight
+
+268
+00:24:43,651 --> 00:24:47,234
+when he can. I don't think we've talked about
+this before, but there's also a Blue Beetle
+
+269
+00:24:47,354 --> 00:24:52,477
+animated series in the works, which is being
+produced by the director of the Blue Beetle
+
+270
+00:24:52,517 --> 00:24:58,621
+film, Angel Manuel Soto, and will be voiced
+by Sholo Mariduena, who played the character
+
+271
+00:24:58,641 --> 00:25:03,575
+of Blue Beetle in live action. One of my favorite
+projects that was announced was Swamp Thing,
+
+272
+00:25:03,816 --> 00:25:08,398
+which is going to be directed by James Mangold.
+Apparently that was put on the back burner
+
+273
+00:25:08,658 --> 00:25:14,382
+for James Mangold's Bob Dylan biopic, A Complete
+Unknown. But now that that's done, I'm hoping
+
+274
+00:25:14,422 --> 00:25:18,824
+he'll return to that soon. All in all, were
+you excited by this press event that James
+
+275
+00:25:18,845 --> 00:25:23,968
+Gunn and Peter Safran put on? Not really. I
+hope in the future they would do something
+
+276
+00:25:24,448 --> 00:25:29,690
+much more like a presentation, like what Marvel
+does. It just seems more official that way
+
+277
+00:25:29,970 --> 00:25:34,892
+with like different visuals that they'll also
+release during those presentations We did get
+
+278
+00:25:34,952 --> 00:25:40,255
+title treatments for the new animated series
+my adventures with Green Lantern superpowers
+
+279
+00:25:40,335 --> 00:25:46,917
+and starfire But it's nothing worth writing
+home about you poor DC bastards You poor DC
+
+280
+00:25:46,937 --> 00:25:51,259
+bastards Marvel managed to show you guys up
+even without having a press conference because
+
+281
+00:25:51,279 --> 00:25:55,381
+in addition to the leaked concept art it was
+also announced this past week that John Bernthal
+
+282
+00:25:55,701 --> 00:26:01,569
+is set to return as Frank Castle, the Punisher
+in a Disney Plus special presentation. Now
+
+283
+00:26:01,589 --> 00:26:06,873
+we know John Berntal is going to appear in Daredevil
+Born Again, the series that starts in just
+
+284
+00:26:06,913 --> 00:26:11,297
+a few days here. I'm super excited by that.
+But it was never clear where the Punisher was
+
+285
+00:26:11,317 --> 00:26:17,082
+going to go from there. Now we know he's getting
+his own like one hour movie. Basically special
+
+286
+00:26:17,102 --> 00:26:23,187
+presentations are like one hour long projects
+released by Marvel. We've seen them do it with
+
+287
+00:26:23,387 --> 00:26:27,934
+the Guardians of the Galaxy Holiday Special
+and Werewolf by I would have rather have seen
+
+288
+00:26:28,255 --> 00:26:32,858
+Punisher get his own full length movie, but
+if Disney was going to do anything with the
+
+289
+00:26:32,898 --> 00:26:38,081
+character, I think their safest bet was to put
+him in a special presentation. So I can totally
+
+290
+00:26:38,101 --> 00:26:42,805
+understand why they went this route. I mean,
+the special presentations have been good so
+
+291
+00:26:42,845 --> 00:26:47,888
+far, like the two that they've put out. So I
+think this is awesome news. Yeah. And you know,
+
+292
+00:26:47,908 --> 00:26:52,832
+with the character as violent as the Punisher,
+a little bit can go a long way. You know, I
+
+293
+00:26:52,872 --> 00:26:57,435
+think as long as they cram as much action as
+they can. into this one hour special presentation
+
+294
+00:26:57,515 --> 00:27:02,637
+run time, I think I'll be entirely satisfied
+with that. What's interesting is that John
+
+295
+00:27:02,677 --> 00:27:08,401
+Bernthal is helping to write the script alongside
+Reynaldo Marcus Green, who's also going to
+
+296
+00:27:08,441 --> 00:27:13,023
+direct the project. And Green is a talented
+director. You know, he directed the recent
+
+297
+00:27:13,063 --> 00:27:18,706
+Bob Marley biopic called One Love. He directed
+King Richard, the movie about Venus and Serena
+
+298
+00:27:18,726 --> 00:27:23,209
+Williams' father starring Will Smith. He's done
+a lot of great stuff. But what was also exciting
+
+299
+00:27:23,269 --> 00:27:28,784
+was that brand Winderbaum who is an exec over
+at Marvel Studios, said that it's gonna be
+
+300
+00:27:28,804 --> 00:27:34,227
+a shotgun blast of a story, but with also pathos
+and emotion that you want from Frank Castle.
+
+301
+00:27:34,747 --> 00:27:39,450
+Whatever that means. It sounds like good stuff
+to me, man. I want a shotgun blast of a story.
+
+302
+00:27:39,670 --> 00:27:44,192
+Punisher, take it to the bad guys in a quick
+and dirty special. Yeah, I wonder who the villain
+
+303
+00:27:44,372 --> 00:27:49,115
+of a Punisher special would be. Oh, that's a
+great question. You know, Punisher has a lot
+
+304
+00:27:49,135 --> 00:27:53,537
+of one-off villains, considering a lot of them
+don't actually survive. Well, can't wait to
+
+305
+00:27:53,577 --> 00:27:58,969
+see it. Sincerely, but why'd you have to say
+sincerely? Guess you thought I was lying. I
+
+306
+00:27:58,989 --> 00:28:03,155
+didn't think you were being sarcastic. Who wouldn't
+be excited to see this, right? We don't know
+
+307
+00:28:03,215 --> 00:28:07,462
+when this special presentation will be releasing,
+but I have to assume if they're writing it
+
+308
+00:28:07,502 --> 00:28:09,885
+now, you know, we're probably more than a year
+out.
+
+309
+00:28:17,282 --> 00:28:22,349
+That does it for all of the news for this episode,
+now let's move on to the main event. Refind
+
+310
+00:28:22,409 --> 00:28:29,099
+out who would win in a duel between the Court
+of Owls assassin Talon and the Runaways member
+
+311
+00:28:29,600 --> 00:28:30,401
+Nico Minoru.
+
+312
+00:28:45,650 --> 00:28:53,836
+Okay, Talon versus Sister Grimm, was it? Nekomino-ru.
+Sure. This matchup was brought to us by our
+
+313
+00:28:53,876 --> 00:28:58,540
+executive producer, Devin Davis, who comes up
+with a lot of fantastic ideas and actually
+
+314
+00:28:58,580 --> 00:29:03,064
+gets a lot of credit for ideas that I think
+may not have been his. Like our last episode
+
+315
+00:29:03,204 --> 00:29:08,729
+of Darksides Elite versus the Black Order I
+attributed to being his idea, but it was really
+
+316
+00:29:08,789 --> 00:29:14,970
+Zachary Hepburn's. This match, however, is definitely
+Devin's idea, and I liked his pitch. in regards
+
+317
+00:29:15,010 --> 00:29:22,199
+that Talon is a martial arts type character
+with a dabbling of mysticism. And Nico Minoru
+
+318
+00:29:22,560 --> 00:29:28,006
+is a mystic character with a dabbling of martial
+arts. Yeah, this episode is timely because
+
+319
+00:29:28,066 --> 00:29:33,473
+Nico showed up in the Your Friendly Neighborhood
+Spider-Man animated television series on Disney+.
+
+320
+00:29:34,122 --> 00:29:38,445
+In the animated show she was voiced by Grey
+Song, but Nico has also shown up in live action
+
+321
+00:29:38,545 --> 00:29:43,368
+in the three seasons of the Runaways television
+show played by Lyrico Cano, who I thought did
+
+322
+00:29:43,388 --> 00:29:49,173
+a fantastic job. Has Talon been in any cartoons
+or live action shows or movies or anything?
+
+323
+00:29:49,673 --> 00:29:56,879
+Well, the Court of Owls, who owns Talon essentially,
+appeared in Gotham and Harley Quinn and also
+
+324
+00:29:56,919 --> 00:30:03,195
+that short-lived Gotham Knights series that
+no one watched. but they were also the antagonists
+
+325
+00:30:03,335 --> 00:30:08,840
+in the Batman vs Robin animated movie. Oh, I
+didn't know that. Okay, we have yet to review
+
+326
+00:30:08,860 --> 00:30:12,323
+that one, so we're going to have to check that
+out at some point. Right. The Court of El was
+
+327
+00:30:12,363 --> 00:30:18,328
+story line was regarded as one of the best story
+lines that came out of the New 52 era of comics.
+
+328
+00:30:18,609 --> 00:30:23,173
+So I was pretty excited when we decided to do
+this episode. Yeah, I'm excited too. But to
+
+329
+00:30:23,233 --> 00:30:27,997
+explain the methodology behind our duels, let's
+go to our sentient duel simulator Alfred Jarvis
+
+330
+00:30:28,077 --> 00:30:33,251
+9000. AJ9K tell our listeners how you go about
+determining a winner in our Duel matchups.
+
+331
+00:30:34,131 --> 00:30:38,432
+Yes, of course, sir. The way I determine a winner
+between the contestants is by running 1000
+
+332
+00:30:38,912 --> 00:30:44,594
+Monte Carlo simulations using the characters'
+statistics. A Monte Carlo simulation is a probabilistic
+
+333
+00:30:44,634 --> 00:30:50,175
+model used to determine outcomes through random
+sampling. In this case, I randomize the statistics
+
+334
+00:30:50,215 --> 00:30:54,917
+along a normal distribution as a way to simulate
+the many variables that can occur during battle.
+
+335
+00:30:55,317 --> 00:31:00,070
+The stat parameters are based on the official
+Marvel power grid. from which the DC characters'
+
+336
+00:31:00,090 --> 00:31:05,252
+statistics are extrapolated. Additional stat
+categories are included such as range, damage
+
+337
+00:31:05,292 --> 00:31:10,695
+potential, versatility, and perception in order
+to create a more detailed and accurate simulation.
+
+338
+00:31:11,195 --> 00:31:15,997
+The results of the 1,000 simulations provide
+a percentage of wins for each character. The
+
+339
+00:31:16,037 --> 00:31:20,499
+contestant with the higher percentage is declared
+the victor, as they have a higher probability
+
+340
+00:31:20,539 --> 00:31:26,321
+to win any given battle. In an equitable pairing,
+neither character should win 100% of the matches.
+
+341
+00:31:26,850 --> 00:31:31,352
+The comic book stories have shown that there's
+even a way for Batman to defeat Superman, so
+
+342
+00:31:31,372 --> 00:31:35,254
+the confidence rate of my method falls in line
+with the precedents that have been established
+
+343
+00:31:35,294 --> 00:31:40,837
+in the source material. My mathematical simulations
+are without subjectivity or bias. Feats are
+
+344
+00:31:40,877 --> 00:31:45,280
+not the sole consideration, nor are fan votes
+tabulated for determination of the winner.
+
+345
+00:31:46,700 --> 00:31:51,763
+Thanks AJ9K! Before we run the simulations though,
+we like to break down each character's histories
+
+346
+00:31:51,783 --> 00:31:57,538
+and abilities before improvising a scenario
+on how we imagine One of the 1000 simulations
+
+347
+00:31:57,558 --> 00:32:02,479
+would play out beat for beat. And it's my turn
+to go first with the DC characters backstory,
+
+348
+00:32:02,839 --> 00:32:09,181
+so let me tell you all about Talon. Now, the
+Court of Owls is an ancient secret society
+
+349
+00:32:09,221 --> 00:32:15,063
+that has controlled Gotham City from the shadows
+for centuries. Composed of Gotham's oldest
+
+350
+00:32:15,143 --> 00:32:20,844
+and wealthiest families, the court has wielded
+power through assassination, manipulation,
+
+351
+00:32:21,184 --> 00:32:26,786
+and economic influence, ensuring that Gotham
+remained under their dominion. Their existence
+
+352
+00:32:26,806 --> 00:32:32,349
+has been whispered as an urban legend, reinforced
+by a nursery rhyme that warns of their presence,
+
+353
+00:32:32,629 --> 00:32:38,172
+but for those who have stood in their way, the
+court is a very real and deadly force. To enforce
+
+354
+00:32:38,212 --> 00:32:44,015
+their will, the court has employed assassins
+known as Talons, highly trained killers enhanced
+
+355
+00:32:44,035 --> 00:32:50,579
+with Electrum, an alchemically enhanced metallic
+alloy that can regenerate and resurrect human
+
+356
+00:32:50,639 --> 00:32:57,307
+tissue. These Talons, conditioned to obey without
+question, have operated in shadows and eliminating
+
+357
+00:32:57,347 --> 00:33:02,929
+threats to the court's control over Gotham.
+Their legacy has spanned generations with each
+
+358
+00:33:02,969 --> 00:33:09,792
+Talon serving as a silent enforcer of the court's
+interests. Now among the most formidable Talons
+
+359
+00:33:10,052 --> 00:33:16,075
+was William Cobb, the great grandfather of Dick
+Grayson, aka Nightwing, who you can learn more
+
+360
+00:33:16,095 --> 00:33:23,154
+about in our Nightwing vs Daredevil duel episode.
+William, born in 1901. He grew up in Gotham's
+
+361
+00:33:23,194 --> 00:33:28,999
+working class, the son of a steelworker who
+died in a bridge accident. Struggling to support
+
+362
+00:33:29,059 --> 00:33:35,064
+his mother, he turned to street performances,
+juggling baseballs for spare change. One day,
+
+363
+00:33:35,385 --> 00:33:40,809
+after stopping a thief mid-escape with a well-aimed
+throw, he caught the attention of Nathaniel
+
+364
+00:33:40,849 --> 00:33:47,295
+Haley, the owner of Haley Circus, who offered
+him a place among the performers. Under Haley's
+
+365
+00:33:47,335 --> 00:33:53,071
+mentorship, William became a skilled knife thrower.
+earning acclaim as one of the circus's most
+
+366
+00:33:53,132 --> 00:33:58,776
+popular acts. During a return performance in
+Gotham, he met and fell in love with Amelia
+
+367
+00:33:58,836 --> 00:34:04,702
+Crown, the daughter of Burton Crown, one of
+Gotham's wealthy elites. Their romance, however,
+
+368
+00:34:04,742 --> 00:34:10,387
+was cut short when Amelia's father forbade their
+relationship, declaring that a man of William's
+
+369
+00:34:10,427 --> 00:34:16,252
+station would never be worthy of his daughter.
+Unaware that he had impregnated Amelia, William
+
+370
+00:34:16,292 --> 00:34:22,035
+departed, heartbroken and bitter. before Nathaniel
+Haley, secretly a member and recruiter of the
+
+371
+00:34:22,075 --> 00:34:28,159
+Court of Owls, offered him a new purpose and
+a chance to become a Talon, an assassin for
+
+372
+00:34:28,199 --> 00:34:34,082
+the court. Accepting the offer, William was
+subjugated to grueling training and was infused
+
+373
+00:34:34,102 --> 00:34:40,046
+with Electrum, including an Electrum tooth implanted
+in his mouth, granting him enhanced abilities
+
+374
+00:34:40,426 --> 00:34:46,609
+and virtual immortality. In exchange, William
+abandoned his former life, including his newborn
+
+375
+00:34:46,689 --> 00:34:52,997
+son, whom William kidnapped as an infant and
+entrusted to Haley's circus, unknowingly beginning
+
+376
+00:34:53,057 --> 00:34:58,021
+a bloodline that would eventually lead to Dick
+Grayson. William became one of the court's
+
+377
+00:34:58,081 --> 00:35:03,905
+most effective talons, carrying out assassinations
+across Gotham for decades and kept in mystic
+
+378
+00:35:03,945 --> 00:35:09,549
+suspended animation during times when his skills
+were unneeded. His missions often targeted
+
+379
+00:35:09,609 --> 00:35:15,213
+political figures, industrialists, and anyone
+who opposed the court's rule, including even
+
+380
+00:35:15,253 --> 00:35:20,889
+members of the Wayne family. For centuries,
+the Court of Owls operated in secrecy, pulling
+
+381
+00:35:20,909 --> 00:35:25,933
+the strings behind Gotham's power structures.
+However, when Bruce Wayne announced plans to
+
+382
+00:35:25,973 --> 00:35:31,338
+reshape Gotham's future, the court saw him as
+a threat and marked him for death. William
+
+383
+00:35:31,358 --> 00:35:36,242
+was reawakened by the court and sent to assassinate
+Bruce Wayne, attacking him during a business
+
+384
+00:35:36,282 --> 00:35:41,367
+meeting. Their battle led to a deadly struggle
+at Top Wing Tower, where William seemingly
+
+385
+00:35:41,467 --> 00:35:46,783
+plummeted to his death and was sent to the morgue.
+only to resurrect himself, slaughtering the
+
+386
+00:35:46,823 --> 00:35:52,587
+paramedics and escaping. In response to Bruce
+Wayne's continued defiance, the court unleashed
+
+387
+00:35:52,747 --> 00:35:59,072
+the Night of Owls, awakening all of their talon
+assassins to retake Gotham. Batman and his
+
+388
+00:35:59,192 --> 00:36:05,497
+allies fought back, facing an army of resurrected
+assassins in a citywide battle. William confronted
+
+389
+00:36:05,577 --> 00:36:11,461
+Nightwing himself, revealing his true identity
+as Dick Grayson's great-grandfather and declaring
+
+390
+00:36:11,521 --> 00:36:17,229
+that Dick was meant to be the court's next talent.
+Their battle ended with Nightwing defeated
+
+391
+00:36:17,269 --> 00:36:22,993
+William, freezing him with liquid nitrogen and
+rejecting his supposed destiny. In the aftermath,
+
+392
+00:36:23,133 --> 00:36:29,157
+the court, frustrated by their failures, attempted
+to execute William, but he was later revived
+
+393
+00:36:29,217 --> 00:36:34,821
+and used by Bane during the Arkham War, serving
+as a lieutenant in Bane's conquest of the city.
+
+394
+00:36:35,241 --> 00:36:40,985
+Meanwhile, a new talent named Calvin Rose had
+recently been trained by the Court of Owls.
+
+395
+00:36:41,314 --> 00:36:46,395
+Calvin had been raised under extreme abuse,
+locked in a dog kennel by his father for days
+
+396
+00:36:46,755 --> 00:36:52,617
+until he managed to escape. Running away, he
+was taken in by Haley Circus, where he became
+
+397
+00:36:52,737 --> 00:36:58,979
+a skilled escape artist, learning the art of
+lockpicking, acrobatics, and illusion. Recognizing
+
+398
+00:36:59,019 --> 00:37:04,360
+his potential, the Court of Owls recruited him
+to become their next Talon, subjugating him
+
+399
+00:37:04,400 --> 00:37:10,162
+to extensive combat and assassination training.
+Unlike previous Talons, Kelvin's specialty
+
+400
+00:37:10,202 --> 00:37:16,384
+was infiltration and evasion. He was an escape
+specialist trained to enter impossible situations
+
+401
+00:37:16,744 --> 00:37:21,765
+and kill high profile targets. However, when
+Kelvin was sent on his first assassination
+
+402
+00:37:21,805 --> 00:37:26,846
+mission, he discovered that his target was a
+young woman and her daughter, not the criminals
+
+403
+00:37:26,866 --> 00:37:32,148
+he had been led to believe the court hunted.
+Unable to carry out the kill, he instead helped
+
+404
+00:37:32,168 --> 00:37:39,859
+them escape, defying the court and becoming
+a fugitive. Kelvin spent years on the run,
+
+405
+00:37:40,179 --> 00:37:45,543
+staying one step ahead of the court while trying
+to dismantle their operations. He allied himself
+
+406
+00:37:45,583 --> 00:37:51,166
+with Sebastian Clark, a former member of the
+court who also sought to destroy them. Together
+
+407
+00:37:51,207 --> 00:37:56,430
+they launched attacks on the court's resources,
+seeking to bring them down permanently. Kelvin's
+
+408
+00:37:56,470 --> 00:38:01,553
+war against the court led him to confront some
+of their deadliest talons, including the monstrous
+
+409
+00:38:01,674 --> 00:38:08,274
+Felix Harmon, the Gotham Butcher. However, Kelvin
+eventually discovered that his ally, Sebastian
+
+410
+00:38:08,314 --> 00:38:14,217
+Clark had been manipulating him all along, using
+Calvin as a weapon while secretly seeking to
+
+411
+00:38:14,257 --> 00:38:20,280
+take control of the court himself. Betrayed,
+Calvin was later killed by Bane, only to be
+
+412
+00:38:20,360 --> 00:38:26,164
+revived using Electraum and forced back into
+servitude as a Talon. The court ordered him
+
+413
+00:38:26,204 --> 00:38:32,867
+to hunt down and kill Strix, another rogue Talon
+who had escaped their control. Though he initially
+
+414
+00:38:32,927 --> 00:38:38,026
+followed orders, Calvin ultimately turned against
+the court once more, seeking to break free
+
+415
+00:38:38,066 --> 00:38:43,708
+of their control for good. Despite repeated
+defeats, the Court of Owls endured, reforming
+
+416
+00:38:43,908 --> 00:38:49,551
+as the International Parliament of Owls and
+expanding their influence globally. They attempted
+
+417
+00:38:49,591 --> 00:38:55,093
+to recruit Dick Grayson once more using psychological
+conditioning and deception to manipulate him
+
+418
+00:38:55,153 --> 00:39:01,056
+into becoming a Talon. Netwing resisted, however,
+and exposed and dismantled much of their network.
+
+419
+00:39:01,596 --> 00:39:06,546
+Years later, it was revealed that the Court
+had ties to the Dark Multiverse. worshipping
+
+420
+00:39:06,586 --> 00:39:12,812
+the ancient entity Barbados and playing a role
+in bringing the evil versions of Batman from
+
+421
+00:39:12,912 --> 00:39:18,497
+dark dimensions known as the Dark Knights into
+Gotham. This alliance led to their near extinction
+
+422
+00:39:18,557 --> 00:39:22,960
+at the hands of the Batman Who Laughs, though
+remnants of the court continued to operate
+
+423
+00:39:23,061 --> 00:39:31,308
+in secrecy. Powers-wise, Talon possesses enhanced
+strength, speed, agility, and reflexes. His
+
+424
+00:39:31,368 --> 00:39:37,329
+body is infused with Electrum. Granting him
+near immortality and accelerated healing, allowing
+
+425
+00:39:37,349 --> 00:39:42,934
+him to recover from fatal wounds almost instantly,
+though exposure to extreme cold will slow his
+
+426
+00:39:42,954 --> 00:39:48,959
+regenerative and resurrection abilities. A master
+martial artist, Talon is proficient in multiple
+
+427
+00:39:48,999 --> 00:39:55,024
+fighting styles, able to match Batman and Nightwing
+in combat. His stealth and infiltration skills
+
+428
+00:39:55,064 --> 00:39:59,769
+make him nearly undetectable, and his precision
+with throwing knives and bladed weapons is
+
+429
+00:39:59,849 --> 00:40:05,608
+near perfect. He wields an arsenal of weapons,
+including throwing knives kept on a bandolier
+
+430
+00:40:05,629 --> 00:40:10,992
+across his torso, as well as twin swords on
+his back, among others, all customized for
+
+431
+00:40:11,072 --> 00:40:16,516
+silent lethal efficiency. Additionally, he uses
+infrared goggles for tracking targets in the
+
+432
+00:40:16,556 --> 00:40:22,560
+dark, and smoke bombs for quick escapes. He
+is a world-class escape artist, able to break
+
+433
+00:40:22,600 --> 00:40:28,704
+free from any restraint. His one other weakness
+is his reliance on Electrum. Its ability to
+
+434
+00:40:28,764 --> 00:40:34,709
+heal can be depleted. and Talons are dependents
+on the Court of Owls for replenishment of the
+
+435
+00:40:34,789 --> 00:40:38,992
+alloy. That's Talon. Do you know what version
+of Talon you're going to be going with for
+
+436
+00:40:39,012 --> 00:40:43,716
+this match or are they all pretty much essentially
+the same? I'm going with the composite Talon
+
+437
+00:40:43,856 --> 00:40:49,461
+of the two primary Talons in William Cobb and
+Calvin Rose. I guess my biggest surprise from
+
+438
+00:40:49,481 --> 00:40:55,826
+that story was that for a secret organization
+and a secret assassin, why was it that Bruce
+
+439
+00:40:55,846 --> 00:41:00,606
+Wayne was attacked by a Talon during the middle
+of a business meeting? I believe the person
+
+440
+00:41:00,666 --> 00:41:05,789
+he was meeting with was a member of the court.
+And they didn't anticipate that Bruce Wayne
+
+441
+00:41:05,929 --> 00:41:10,651
+was going to be as adept at defending himself
+from the Talon as he was. Okay. Okay, that
+
+442
+00:41:10,671 --> 00:41:14,813
+makes sense. That makes sense. Well, there's
+not a whole lot there in common with Nico Minoru,
+
+443
+00:41:15,013 --> 00:41:18,295
+but I think that should make things interesting
+when we get around to the speculation. But
+
+444
+00:41:18,315 --> 00:41:24,287
+let me go ahead and tell you all about Nico
+Minoru, aka Sister Grimm. Now, Niko Minoru
+
+445
+00:41:24,307 --> 00:41:30,214
+was born to Tina and Robert Minoru, two powerful
+sorcerers who, along with five other couples,
+
+446
+00:41:30,434 --> 00:41:35,621
+formed the Pride, which was a secret cult dedicated
+to serving the mystical entities known as the
+
+447
+00:41:35,661 --> 00:41:41,530
+Geborim. Each year, the Pride performed a ritual
+sacrifice to the Gaborim in exchange for promises
+
+448
+00:41:41,590 --> 00:41:47,275
+of future power and prosperity. Unaware of her
+parents' true nature, Nico and the other children
+
+449
+00:41:47,295 --> 00:41:52,359
+of the Pride would spend these annual gatherings
+together. However, one fateful night, Nico
+
+450
+00:41:52,399 --> 00:41:56,482
+and the other teens decided to spy on their
+parents and were horrified to witness them
+
+451
+00:41:56,542 --> 00:42:02,414
+murdering an innocent young woman in ritualistic
+fashion. Shocked and disillusioned, Nico and
+
+452
+00:42:02,434 --> 00:42:07,605
+the other teens resolved to escape from their
+parents, becoming the Runaways. As they fled,
+
+453
+00:42:07,725 --> 00:42:12,939
+Nico was confronted by her mother, Tina. who
+wielded a magical artifact called the Staff
+
+454
+00:42:12,979 --> 00:42:17,721
+of One. Attempting to prevent Nico from leaving,
+her mom tried to stab her daughter with the
+
+455
+00:42:17,761 --> 00:42:23,644
+weapon, but instead, Nico's body absorbed the
+staff entirely. Later, during a confrontation
+
+456
+00:42:23,684 --> 00:42:28,826
+with the time traveling York's parents, Nico
+was cut by the father's battle axe, triggering
+
+457
+00:42:28,866 --> 00:42:34,289
+the Staff of One to emerge from within her body
+from her chest for the first time. Instinctively,
+
+458
+00:42:34,369 --> 00:42:40,392
+she uttered the word freeze, and the spell instantly
+encased the York's mother in ice. The moment
+
+459
+00:42:40,412 --> 00:42:45,355
+marked the awakening of Niko's latent magical
+abilities and revealed that the Staff of One
+
+460
+00:42:45,395 --> 00:42:49,698
+could only be summoned through bloodletting
+and that it allowed her to cast a spell only
+
+461
+00:42:49,858 --> 00:42:55,222
+once before requiring her to devise new phrasing
+for the same effect. As the Runaways investigated
+
+462
+00:42:55,262 --> 00:42:59,665
+the Pride, they learned more about their parents'
+arrangement with the Giborum. The deal promised
+
+463
+00:42:59,685 --> 00:43:04,588
+that after 25 years, six members of the Pride
+would be allowed to survive and rule over a
+
+464
+00:43:04,648 --> 00:43:12,773
+cleansed world while the rest of humanity perished.
+friends, the Runaways leader Alex Wilder revealed
+
+465
+00:43:12,813 --> 00:43:17,196
+himself to be a double agent, secretly working
+with his parents and attempting to secure a
+
+466
+00:43:17,256 --> 00:43:22,640
+place in the Gaborim's utopian future. Alex
+sought to convince Nico to join him, but she
+
+467
+00:43:22,680 --> 00:43:28,004
+rejected him and struck him down, aiding in
+his ultimate demise at the hands of the Gaborim.
+
+468
+00:43:28,364 --> 00:43:32,647
+The Runaways' parents ultimately sacrificed
+themselves to destroy the Gaborim, leaving
+
+469
+00:43:32,687 --> 00:43:38,270
+Nico and her friends orphaned fugitives. With
+Alex gone, Nico naturally assumed leadership
+
+470
+00:43:38,310 --> 00:43:42,413
+of the Runaways, guiding the group to the as
+they sought to evade authorities and rebuild
+
+471
+00:43:42,453 --> 00:43:47,916
+their lives. While searching for Victor Mancha,
+a boy prophesied to become a future threat,
+
+472
+00:43:48,317 --> 00:43:53,420
+Nico and the Runaways encountered Ultron, who
+was revealed to be Victor's father. You can
+
+473
+00:43:53,460 --> 00:43:58,943
+learn more about Ultron in his duel against
+Brainiac. After Ultron's defeat, Nico invited
+
+474
+00:43:59,003 --> 00:44:04,206
+Victor to join the team despite the misgivings
+of some members. Meanwhile, fellow Runaway
+
+475
+00:44:04,246 --> 00:44:10,208
+member Carolina Dean confessed her romantic
+feelings toward Nico, but Nico did not reciprocate
+
+476
+00:44:10,228 --> 00:44:15,509
+them. Instead, she began a relationship with
+Victor, though their dynamic remained complicated.
+
+477
+00:44:15,949 --> 00:44:20,510
+During a conflict with the Gaborim, Nico was
+nearly taken by the ancient beings who deemed
+
+478
+00:44:20,550 --> 00:44:26,292
+her soul pure and suitable for consumption.
+However, Victor intervened and saved her. Afterward,
+
+479
+00:44:26,332 --> 00:44:30,813
+Nico led the team on the run from S.H.I.E.L.D.
+and Iron Man, eventually bringing them to New
+
+480
+00:44:30,833 --> 00:44:35,607
+York. There, she made a risky alliance with
+the Kingpin, only for the Runaways to become
+
+481
+00:44:35,647 --> 00:44:41,869
+entangled in a time displacement event that
+sent them back to 1907. In this era, Nico was
+
+482
+00:44:41,909 --> 00:44:47,370
+abducted by a mysterious woman known as the
+Witchbreaker, who claimed to be her great-grandmother.
+
+483
+00:44:47,690 --> 00:44:52,232
+Informing Nico that she came from an ancient
+magical lineage, the Witchbreaker subjected
+
+484
+00:44:52,272 --> 00:44:57,393
+Nico to brutal training, insisting that enduring
+pain would strengthen her magical abilities.
+
+485
+00:44:57,954 --> 00:45:02,915
+Though the ordeal was traumatic, Niko emerged
+with enhanced control over her magic and a
+
+486
+00:45:02,955 --> 00:45:07,896
+greater understanding of the Staff of One. Upon
+returning to the present, the Runaways became
+
+487
+00:45:07,936 --> 00:45:12,958
+caught in the Skrull's secret invasion of Earth.
+During this period, Niko sought to prove that
+
+488
+00:45:12,978 --> 00:45:18,319
+the Runaways were more than just a band of outcasts,
+and insisted they join the Young Avengers in
+
+489
+00:45:18,379 --> 00:45:23,821
+resisting the alien threat. However, Wiccan
+urged her to retreat, arguing that the Runaways
+
+490
+00:45:23,861 --> 00:45:28,410
+needed to remain in reserve should the Young
+Avengers fail. You can learn more about the
+
+491
+00:45:28,430 --> 00:45:33,973
+Young Avengers in their team duel against Young
+Justice. Niko's leadership was further tested
+
+492
+00:45:33,993 --> 00:45:39,396
+when she used the spell Scatter to disperse
+a group of invading aliens, inadvertently causing
+
+493
+00:45:39,456 --> 00:45:44,959
+emotional disarray among the runaways. Her attempts
+to stabilize the group led to further difficulties,
+
+494
+00:45:45,039 --> 00:45:50,802
+including a disastrous attempt to throw a prom
+for the team. Meanwhile, a rival warlock warned
+
+495
+00:45:50,862 --> 00:45:55,405
+Niko of the dangers of the Staff of One and
+attempted to steal it from her, only to be
+
+496
+00:45:55,445 --> 00:46:00,439
+killed by the Staff itself. This incident reinforced
+the notion that the staff carried immense and
+
+497
+00:46:00,580 --> 00:46:05,402
+unpredictable magical power beyond her complete
+understanding. Niko and the Runaways later
+
+498
+00:46:05,442 --> 00:46:11,346
+became entangled in Arcade's murder world, where
+Arcade kidnapped 16 young heroes, forcing them
+
+499
+00:46:11,386 --> 00:46:16,949
+into a deadly battle royale. An ordeal you can
+learn more about in our Riddler vs Arcade duel
+
+500
+00:46:16,989 --> 00:46:22,433
+episode. Niko was gravely injured when Chase
+Stein, a Runaway controlled by the Darkhawk
+
+501
+00:46:22,533 --> 00:46:27,423
+Amulet, severed her arm. As she lay dying, she
+used the last of her strength to utter the
+
+502
+00:46:27,463 --> 00:46:33,265
+spell, Help, sacrificing herself to the Staff
+of One in the process. This act triggered the
+
+503
+00:46:33,305 --> 00:46:38,327
+Staff to resurrect her, restoring her body.
+The experience significantly amplified her
+
+504
+00:46:38,367 --> 00:46:43,249
+magical abilities, allowing her to wield powers
+beyond those previously granted by the Staff
+
+505
+00:46:43,289 --> 00:46:48,252
+of One. In the aftermath of Murderworld, Nico
+and the other survivors were thrust into the
+
+506
+00:46:48,312 --> 00:46:54,962
+public eye when Arcade released footage of their
+ordeal. She and Chase traveled to Bagalia,
+
+507
+00:46:55,182 --> 00:47:00,263
+a nation of villains, where Nico trained under
+Daemon Hellstrom to hone her newly enhanced
+
+508
+00:47:00,323 --> 00:47:06,425
+abilities. There she was reunited with the resurrected
+Alex Wilder, who offered her guidance in navigating
+
+509
+00:47:06,465 --> 00:47:11,927
+the moral complexities of her power. Eventually
+Nico and her allies escaped Bagalia with help
+
+510
+00:47:11,967 --> 00:47:16,608
+from the Avengers, where a fight against the
+Masters of Evil broke out. You can learn more
+
+511
+00:47:16,628 --> 00:47:20,929
+about the Avengers and the Masters of Evil in
+their respective team duels against the Justice
+
+512
+00:47:20,969 --> 00:47:26,828
+League and the Legion of Doom. Nico later joined
+A-Force, an all-female superhero team where
+
+513
+00:47:26,848 --> 00:47:31,732
+she played a pivotal role in battles against
+Anti-Matter and the Countess. However, tensions
+
+514
+00:47:31,752 --> 00:47:36,675
+within the team escalated during the second
+superhero civil war when the inhuman Ulysses
+
+515
+00:47:36,715 --> 00:47:41,934
+had a vision for telling that Nico would kill
+a woman named Alice. Unwilling to be judged
+
+516
+00:47:41,994 --> 00:47:46,856
+for a crime she had yet to commit, Nico fled
+to Colorado, where she encountered the monster
+
+517
+00:47:46,876 --> 00:47:51,959
+hunter Elsa Bloodstone, whom you can learn more
+about in her duel episode against Frankenstein.
+
+518
+00:47:52,439 --> 00:47:58,362
+As it turned out, the woman named Alice transformed
+into a monstrous parasitic insectoid, forcing
+
+519
+00:47:58,422 --> 00:48:03,984
+Nico to ultimately cast a spell to end her life.
+The ordeal left Nico questioning her role as
+
+520
+00:48:04,024 --> 00:48:06,626
+a hero and the ethics of preemptive justice.
+
+521
+00:48:11,228 --> 00:48:17,153
+used time travel technology to rescue the former
+team member Gert Yorke from death. Though reluctant
+
+522
+00:48:17,193 --> 00:48:21,417
+at first, Nico recognized that her bond with
+the Runaways remained her strongest tether
+
+523
+00:48:21,457 --> 00:48:26,555
+to humanity. She resumed leadership of the team
+and finally formed a romantic relationship
+
+524
+00:48:26,615 --> 00:48:31,558
+with Carolina Dean. However, she struggled with
+the burdens of responsibility, including the
+
+525
+00:48:31,578 --> 00:48:36,260
+discovery that the staff of One contained a
+trapped magician known as The One. Through
+
+526
+00:48:36,300 --> 00:48:41,722
+negotiations, she altered the terms of her bond
+with the staff, allowing her to summon it without
+
+527
+00:48:41,762 --> 00:48:47,205
+bloodletting, but at the cost of graDuelly freeing
+The One's will inside of her. Attempting to
+
+528
+00:48:47,245 --> 00:48:48,726
+embrace a more structured life,
+
+529
+00:48:52,628 --> 00:48:58,171
+the J Team. However, she and the Runaways uncovered
+Doc Justice's sinister history of orchestrating
+
+530
+00:48:58,211 --> 00:49:03,094
+the deaths of his young protégés to bolster
+his reputation. The team ultimately turned
+
+531
+00:49:03,134 --> 00:49:07,537
+against him and Nico used her magic to save
+Carolina from death. Following these events,
+
+532
+00:49:07,617 --> 00:49:11,919
+Nico accepted a position at Strange Academy
+where she began teaching creative spellcasting
+
+533
+00:49:12,299 --> 00:49:17,663
+to a new generation of magic users. Powers-wise,
+Nico is a sorceress in training with great
+
+534
+00:49:22,390 --> 00:49:27,434
+to perform powerful and dangerous spells. Despite
+her inexperience, she is able to tap into her
+
+535
+00:49:27,474 --> 00:49:32,539
+magic aptitude to wield the Staff of One, a
+powerful magic artifact capable of casting
+
+536
+00:49:32,579 --> 00:49:38,205
+spells with a word or phrase. However, as part
+of the Staff's limitations, she cannot repeat
+
+537
+00:49:38,225 --> 00:49:43,630
+the same word or phrase to use a spell without
+suffering undesirable effects. The Staff's
+
+538
+00:49:43,670 --> 00:49:48,730
+magical effects are usually temporary and occasionally
+unpredictable, but she has refined this through
+
+539
+00:49:48,810 --> 00:49:54,213
+training. For example, the word freeze was the
+first spell she ever cast, and when she tried
+
+540
+00:49:54,253 --> 00:49:59,396
+the word again, the staff summoned a flock of
+pelicans. However, through training, she's
+
+541
+00:49:59,436 --> 00:50:04,299
+found that she can increase the length of the
+spell phrase to produce the same magical effect,
+
+542
+00:50:04,699 --> 00:50:09,261
+such as freeze to the exact temperature and
+aesthetic appearance of a cheap popsicle from
+
+543
+00:50:09,321 --> 00:50:14,844
+a 7-11, which gives her a workaround to repeat
+some spells when necessary. Though again, she
+
+544
+00:50:14,884 --> 00:50:19,855
+cannot use the same phrase twice. Nico can also
+summon the Staff of One to herself when it's
+
+545
+00:50:19,895 --> 00:50:25,117
+beyond her reach and use it as a physical combat
+weapon. In her time as a runaway and superhero,
+
+546
+00:50:25,137 --> 00:50:29,579
+she's added a number of learned spells to her
+repertoire that she can use without the staff,
+
+547
+00:50:29,699 --> 00:50:35,661
+including Portal Generation, Magic Shielding,
+and Levitation of both herself and other objects.
+
+548
+00:50:36,201 --> 00:50:43,064
+And that is Nico Minoru. So what kind of spells
+exactly can she cast with Blood Magic? Summoning
+
+549
+00:50:43,104 --> 00:50:47,842
+her Staff of One? That's it? That's all she
+can do with Blood Magic? Through bloodletting,
+
+550
+00:50:48,202 --> 00:50:52,345
+specifically the torture that she went through
+on behalf of the Witchbreaker, she was able
+
+551
+00:50:52,365 --> 00:50:57,229
+to gain more control over the spells that she
+would cast using the Staff of One. But it's
+
+552
+00:50:57,249 --> 00:51:01,692
+not just blood magic skill that she has potential
+in, it's also standard magic, which is how
+
+553
+00:51:01,732 --> 00:51:07,036
+she has those learned spells such as levitation,
+magic shielding, and the like. So she's only
+
+554
+00:51:07,156 --> 00:51:12,520
+able to summon it if she produces her blood?
+Not anymore, no. She doesn't have to actually
+
+555
+00:51:12,580 --> 00:51:16,554
+bloodlet in order to summon the Staff. Cause
+that was pretty dark. She was essentially like
+
+556
+00:51:16,574 --> 00:51:21,637
+a cutter superhero. Yeah, yeah. Maybe that's
+why they changed it cause they didn't want
+
+557
+00:51:21,697 --> 00:51:27,840
+kids kind of like enacting that sort of bloodletting.
+But I do think that Nico is a vastly interesting
+
+558
+00:51:27,880 --> 00:51:32,282
+character. You know, she's got like the Japanese
+thing going. She's got the goth thing going.
+
+559
+00:51:32,462 --> 00:51:36,264
+There's no other character in the Marvel universe
+that's quite like her. And I think that's why
+
+560
+00:51:36,284 --> 00:51:40,874
+she's kind of been the standout character of
+the Runaways. kind of transitioning successfully
+
+561
+00:51:40,914 --> 00:51:46,317
+from that team onto other Marvel superhero teams
+like the A-Force. And she's just a knockoff
+
+562
+00:51:46,358 --> 00:51:51,520
+version of Tracy 13. Actually the way that Nico
+uses her spells through like the one word,
+
+563
+00:51:51,601 --> 00:51:55,443
+one phrase type thing and like the fish nets
+and all that kind of reminded me of Zatanna.
+
+564
+00:51:55,783 --> 00:51:59,885
+I think an interesting duel would have been
+Zatanna versus Nico, although I do believe
+
+565
+00:51:59,925 --> 00:52:03,267
+that Zatanna would have wiped the floor with
+her because Nico has those spell limitations.
+
+566
+00:52:03,467 --> 00:52:07,730
+Whereas Zatanna can use her spells over and
+over again. She just says them backwards. I
+
+567
+00:52:07,770 --> 00:52:12,271
+find it interesting that you describe Nico as
+still being in training when she's also teaching
+
+568
+00:52:12,311 --> 00:52:16,113
+courses at Strange Academy. Yeah, she's still
+in training though to reach her potential.
+
+569
+00:52:16,613 --> 00:52:21,475
+A lot of the magic that she does is summoned
+through the staff, so she's working on becoming
+
+570
+00:52:21,495 --> 00:52:25,897
+a better sorceress outside of the staff. Maybe
+she'll become the future Sorcerer Supreme.
+
+571
+00:52:26,538 --> 00:52:32,200
+She was in consideration along with the rest
+of Marvel's sorcerers and sorceresses at the
+
+572
+00:52:32,240 --> 00:52:35,801
+time that Doctor Strange lost the title briefly.
+Oh, interesting. Okay.
+
+573
+00:52:43,046 --> 00:52:49,090
+fantasies collide and heroes clash, one podcast
+network rises above the rest. Prepare yourself
+
+574
+00:52:49,310 --> 00:52:55,434
+for the ultimate showdowns in comic books, video
+games, movies, and anime. The Dynomic Podcast
+
+575
+00:52:55,474 --> 00:53:00,097
+Network presents Console Combat, where video
+game legends brawl every Monday.
+
+576
+00:53:03,150 --> 00:53:08,833
+Smash every Tuesday, Max Destruction, where
+TV and action heroes battle every Wednesday,
+
+577
+00:53:09,414 --> 00:53:15,318
+and Sendro World, where anime champions clash
+every Thursday. Join us as we speculate on
+
+578
+00:53:15,358 --> 00:53:21,042
+the matches and, armed with the power of mathematical
+simulations, discover who will emerge victorious.
+
+579
+00:53:21,582 --> 00:53:25,845
+Visit dynamicpodcast.com where we settle the
+debate and settle the score.
+
+580
+00:53:30,226 --> 00:53:34,148
+Now that we've got their histories and abilities
+out of the way, let's speculate on how one
+
+581
+00:53:34,228 --> 00:53:40,110
+of the 1000 simulated matches will go. The winner
+is determined by simulations, not this speculation,
+
+582
+00:53:40,430 --> 00:53:46,013
+but it's fun to imagine how this fight could
+play out. AJ9K, what are the rules of our speculation?
+
+583
+00:53:46,893 --> 00:53:50,895
+Well, I should say there are no rules, other
+than the characters have no prior knowledge
+
+584
+00:53:50,915 --> 00:53:55,316
+of the other going into the fight. All they
+are aware of starting out is that the other
+
+585
+00:53:55,336 --> 00:54:00,423
+character is a threat that needs to be eliminated.
+For the speculation, the contestants will begin
+
+586
+00:54:00,463 --> 00:54:05,527
+approximately 50 meters apart in a non-descript
+environment that will have no bearing on the
+
+587
+00:54:05,567 --> 00:54:10,911
+match itself, as no environmental statistics
+are considered in my simulations. The contestants
+
+588
+00:54:10,951 --> 00:54:16,435
+must earn victory on their own merit. Alright,
+then let's get into it. Talon and Sister Grimm
+
+589
+00:54:16,475 --> 00:54:22,639
+meet on the battlefield. Who goes first? I'm
+gonna say Niko goes first by summoning her
+
+590
+00:54:22,679 --> 00:54:28,194
+staff. That's her first action. It emerges from
+her chest. and she spins it around like a badass.
+
+591
+00:54:28,814 --> 00:54:33,355
+And actually, I have a list of all the spells
+that she's performed in the comics, because
+
+592
+00:54:33,375 --> 00:54:37,877
+I'm going to try to keep this speculation as
+comic accurate as possible for Nico. So I have
+
+593
+00:54:37,897 --> 00:54:43,458
+a list of like no-go words and phrases, just,
+you know, to stay in keeping with her limitations.
+
+594
+00:54:43,478 --> 00:54:51,560
+OK, good. Well, Nico is busy twirling her staff.
+Tellen's going to hurl a volley of blades her
+
+595
+00:54:51,600 --> 00:54:57,927
+way with deadly precision, targeting each of
+her limbs and her head. Oh sorry the blades
+
+596
+00:54:57,987 --> 00:55:03,350
+missed because Nico she puts up a magic shield
+to block them you know it's one of her learned
+
+597
+00:55:03,390 --> 00:55:07,752
+spells she doesn't need the staff for and then
+she's gonna use the staff to vault over her
+
+598
+00:55:07,792 --> 00:55:13,115
+magic shield and she's gonna levitate in the
+air point the staff at Talon and she's gonna
+
+599
+00:55:13,155 --> 00:55:18,599
+call out the spell Captain Howdy which is gonna
+make Talon's head spin around like the girl
+
+600
+00:55:18,999 --> 00:55:24,262
+from the exorcist movie and also like an owl
+since he kind of looks like an owl and that's
+
+601
+00:55:24,282 --> 00:55:30,607
+going to snap his neck, just taking him out.
+OK. You know, with his neck snapped, his body
+
+602
+00:55:30,627 --> 00:55:35,251
+is probably going to drop to the floor dead.
+And Nico, she'll land on the ground and be
+
+603
+00:55:35,291 --> 00:55:40,475
+like, well, that was easy. But as she's busy
+looking around, wondering where she is and
+
+604
+00:55:40,515 --> 00:55:45,739
+why she's in this environment, she's going to
+be too distracted to see Talon's head spin
+
+605
+00:55:45,799 --> 00:55:51,464
+back around. And his body stands back up. And
+before she realizes it, she's been straight
+
+606
+00:55:51,484 --> 00:55:58,327
+up impaled with a sword through her back. Oh
+shit, okay. Uh, well okay, so she falls away
+
+607
+00:55:58,387 --> 00:56:03,308
+from the sword, she's mortally wounded, but
+before she passes out, she's gonna call out
+
+608
+00:56:03,348 --> 00:56:08,789
+the spell Red Potion, which is gonna cause the
+Staff of One to heal her up instantly, you
+
+609
+00:56:08,809 --> 00:56:14,951
+know, like the Red Potion from Legend of Zelda.
+So she gets back onto her feet, and she's glaring
+
+610
+00:56:15,011 --> 00:56:20,653
+at this Talon douche who just stabbed her, and
+she calls out Pyre, which is gonna cause Talon
+
+611
+00:56:20,673 --> 00:56:26,958
+to catch on fire. Pyre? Like a funeral pyre?
+Yeah. I'm guessing she's already used the spell
+
+612
+00:56:27,018 --> 00:56:34,420
+fire. According to this list, she's used hell
+fire and back draft. But I would think that
+
+613
+00:56:34,460 --> 00:56:38,101
+fire would either be too common that she'd have
+had to have used it at some point or she'd
+
+614
+00:56:38,161 --> 00:56:43,083
+want to save it as like a backup emergency spell.
+Because in the comics, she's kind of forced
+
+615
+00:56:43,123 --> 00:56:47,504
+to get creative with some of her wording in
+order to not back herself into a corner in
+
+616
+00:56:47,524 --> 00:56:51,965
+the future. So I'm just kind of rolling with
+that idea. OK, well, I mean, it doesn't matter
+
+617
+00:56:52,325 --> 00:56:58,707
+because all she says on fire. is a column of
+smoke where Talon once was. And as she's looking
+
+618
+00:56:58,747 --> 00:57:04,128
+around for him, that's when Talon's going to
+attack from whatever direction she wasn't looking,
+
+619
+00:57:04,488 --> 00:57:09,390
+just delivering this series of kicks and strikes.
+And that's going to cause her to drop her staff
+
+620
+00:57:09,850 --> 00:57:15,011
+and get knocked to the ground. OK, so she's
+on the ground, but she's going to use her learned
+
+621
+00:57:15,071 --> 00:57:21,033
+magic spell to telekinetically shove Talon back.
+And then she's going to summon the staff that
+
+622
+00:57:21,053 --> 00:57:27,034
+she dropped back into her hand. She's gonna
+call out the spell, sleep with the fishes.
+
+623
+00:57:27,414 --> 00:57:32,896
+And suddenly Talon's feet are gonna be encased
+in cement, like cinder blocks, and now he can
+
+624
+00:57:33,076 --> 00:57:38,818
+barely move his legs. He's stuck. Dude, a middle
+school age kid with karate skill can get out
+
+625
+00:57:38,858 --> 00:57:44,459
+of this. He's just gonna karate chop this cinder
+block, it's gonna crack in half, so he's free.
+
+626
+00:57:45,320 --> 00:57:48,740
+Okay, but she's gonna see him doing that, and
+she's gonna realize that she needs a better
+
+627
+00:57:48,861 --> 00:57:55,703
+freezing spell. So she's gonna point her staff
+at him. and call out squishy and then he completely
+
+628
+00:57:55,743 --> 00:58:02,507
+freezes encased in ice just frozen to death.
+Why does squishy freeze him? From the Simpsons
+
+629
+00:58:02,527 --> 00:58:08,030
+you know the drink that the cookie mart sells
+it's like an icy. Okay well I mean icies are
+
+630
+00:58:08,210 --> 00:58:13,533
+pretty liquid it's not like they're frozen blocks
+so Talon's actually just soaked in cold red
+
+631
+00:58:13,613 --> 00:58:18,836
+syrup and that's gonna allow him to throw a
+dagger right across Nico's throat slitting
+
+632
+00:58:18,916 --> 00:58:25,427
+the larynx and preventing her from speaking
+any more magic words. No, cause actually, you
+
+633
+00:58:25,447 --> 00:58:29,768
+know, the literal meaning of the word is less
+important than the meaning that she assigns
+
+634
+00:58:29,828 --> 00:58:35,470
+to it. Cause like in the comics, she built a
+house using the spell Abraham Lincoln, but
+
+635
+00:58:35,490 --> 00:58:40,911
+it's not like that spell summoned Abraham Lincoln.
+So no, Talon's not covered in red liquid. He's
+
+636
+00:58:40,991 --> 00:58:47,013
+frozen solid, like she meant him to be. And
+he didn't throw any daggers cause he's frozen,
+
+637
+00:58:47,313 --> 00:58:50,627
+cause he's dead. And there's not going to be
+any resurrecting here because she's going to
+
+638
+00:58:50,727 --> 00:58:56,651
+shatter him into a thousand pieces with her
+staff. Match over. All right. But surprise,
+
+639
+00:58:57,012 --> 00:59:02,015
+just as she's about to shatter him, he's going
+to eject these extendable claws kind of like
+
+640
+00:59:02,035 --> 00:59:07,559
+Wolverine from his wrist. And that's going to
+shatter the ice around his arm, freeing it.
+
+641
+00:59:08,119 --> 00:59:13,343
+And the staff, she's going to swing that into
+these blades, which is going to cause Nico
+
+642
+00:59:13,403 --> 00:59:20,965
+to accidentally get her staff sliced in two.
+So before she can even comprehend what just
+
+643
+00:59:21,005 --> 00:59:27,270
+happened, Talon's gonna like flex his way out
+of the rest of the ice and quickly draw his
+
+644
+00:59:27,310 --> 00:59:34,817
+sword and slice her body into with one stroke,
+ending this match in his favor. Okay, so either
+
+645
+00:59:35,358 --> 00:59:41,423
+Talon breaks out of the ice and slices Niko
+down with his sword, or he stays in the ice
+
+646
+00:59:42,004 --> 00:59:45,258
+and she shatters him into a thousand pieces.
+I think that's a pretty good cliffhanger for
+
+647
+00:59:45,278 --> 00:59:49,801
+this match. Let's go ahead and see which scenario
+happens by running the stats on these characters,
+
+648
+00:59:50,061 --> 00:59:55,644
+along with the simulations, and coming back
+with a winner. AG9K, hit it! Inputting data,
+
+649
+00:59:56,204 --> 01:00:02,007
+running calculations, processing results, simulations
+complete. All right, we always knew that the
+
+650
+01:00:02,047 --> 01:00:05,849
+stats for this particular matchup were gonna
+be interesting. Like, the characters aren't
+
+651
+01:00:05,929 --> 01:00:11,573
+identical at all. They have nothing really in
+common. It's more about what they have in contrast
+
+652
+01:00:11,593 --> 01:00:16,511
+with each other. And to that end, these stats
+came out as expected. Like you have Talon,
+
+653
+01:00:16,871 --> 01:00:22,453
+who's an incredibly skilled fighter going up
+against Nico, who is not. And then you have
+
+654
+01:00:22,553 --> 01:00:29,376
+Nico, who is incredibly versatile going up against
+Talon, who is not. Right, Talon is basically
+
+655
+01:00:29,856 --> 01:00:35,378
+a stabby fight man who really doesn't have too
+much going for him, you know, besides his healing
+
+656
+01:00:35,398 --> 01:00:39,920
+factor as well. Oh yeah, the healing factor
+put him way over the top over Nico in terms
+
+657
+01:00:40,120 --> 01:00:46,407
+of durability. But when it came to damage level,
+Niko came out on top by equal measure. Yeah,
+
+658
+01:00:46,427 --> 01:00:51,310
+she definitely has the potential to cause a
+lot of damage. We also said that Niko was slightly
+
+659
+01:00:51,391 --> 01:00:59,155
+stronger thanks to her telekinesis and had a
+broader range. But in contrast, Talon had greater
+
+660
+01:00:59,215 --> 01:01:04,719
+perception thanks to his infrared goggles. I
+think the stat that was most surprising here
+
+661
+01:01:04,759 --> 01:01:10,514
+was intelligence. The Marvel power grid ranks
+Niko at a two. And because of that, I thought
+
+662
+01:01:10,554 --> 01:01:14,858
+Talon was gonna take that stack category. But
+it turns out he's not really that much smarter
+
+663
+01:01:14,898 --> 01:01:20,003
+either. Yeah, I know the Talons are pretty much
+mindless zombies that only know how to do the
+
+664
+01:01:20,023 --> 01:01:24,827
+will of the court. So, yeah, he ranked pretty
+low. But with all of this in consideration,
+
+665
+01:01:25,148 --> 01:01:28,911
+Joseph, who do you think came out on top? I
+think Nico's going to take it. I mean, for
+
+666
+01:01:29,071 --> 01:01:36,878
+as good of a fighter and as lethal and as durable
+as Talon is regenerative, I should say. I think
+
+667
+01:01:36,938 --> 01:01:41,582
+Nico has her own unique strengths and I think
+that's going to put her over the top. Instagram
+
+668
+01:01:41,602 --> 01:01:48,067
+does not agree with me for some reason. 61%
+of our Instagram poll takers said that Talon
+
+669
+01:01:48,087 --> 01:01:51,690
+was going to win this match, which kind of scares
+me a little bit because I would think that
+
+670
+01:01:51,710 --> 01:01:56,855
+a lot of people would actually know who Nico
+is, you know, just based on the runaways television
+
+671
+01:01:56,875 --> 01:02:01,379
+show or the current Your Friendly Neighborhood
+Spider-Man series. Talon just must be more
+
+672
+01:02:01,419 --> 01:02:06,438
+popular than I think he is or he's more powerful
+than I think he is. Talon comes from one of
+
+673
+01:02:06,478 --> 01:02:11,919
+the most interesting Batman stories ever, at
+least recently. So yeah, I'm not surprised
+
+674
+01:02:11,939 --> 01:02:17,401
+by those Instagram results. But let's see if
+those poll takers are correct. Agent NK, the
+
+675
+01:02:17,441 --> 01:02:26,684
+results please. Hey Yuasa. Alright, the winner
+of the matchup between Talon and Niko Minoru
+
+676
+01:02:27,844 --> 01:02:34,566
+is... Niko Minoru. That's right, baby! That's
+right! But... By what percentage would you
+
+677
+01:02:34,606 --> 01:02:39,087
+guess? I think it'll be pretty close. It's got
+to be in the 50s. I don't think she's going
+
+678
+01:02:39,127 --> 01:02:43,328
+to take almost two thirds of these matches.
+I think it's going to be closer to the 50-50
+
+679
+01:02:43,588 --> 01:02:49,750
+mark. I actually thought Nico was going to totally
+stomp after putting in the stats, but she won
+
+680
+01:02:50,110 --> 01:03:00,013
+58.6 percent of her matches or 586 of the 1000
+compared to Talon, who won 414. OK, so that
+
+681
+01:03:00,053 --> 01:03:06,388
+was pretty close to 60 percent then. Yeah, in
+the end, Talon's fighting and durability stats
+
+682
+01:03:06,408 --> 01:03:13,133
+cannot overpower Niko's versatility and damage
+as well as range really. You know, it was the
+
+683
+01:03:13,173 --> 01:03:19,658
+stat that really failed him. It was intelligence.
+If Talon was like a smart genius, like I thought
+
+684
+01:03:19,678 --> 01:03:24,121
+he was going to be, he actually would have put
+up a better fight to the point of maybe even
+
+685
+01:03:24,161 --> 01:03:29,385
+winning this thing. I mean, both of the prominent
+talents were recruited by Haley Circus fairly
+
+686
+01:03:29,425 --> 01:03:35,388
+young. And that's not really to discount the
+intelligence of circus performers, but their
+
+687
+01:03:35,448 --> 01:03:40,870
+specialties are physical and not necessarily
+academic. Yeah, and even though Nico's like
+
+688
+01:03:41,090 --> 01:03:46,273
+teaching some classes at a strange academy,
+I don't think she graduated high school. So
+
+689
+01:03:46,293 --> 01:03:51,355
+she definitely is gaining in her knowledge of
+the occult and mysticism. But you know, she's
+
+690
+01:03:51,395 --> 01:03:56,617
+still a little bit naive. She's still considered
+like a young hero compared to the rest of the
+
+691
+01:03:56,637 --> 01:04:00,496
+Marvel Pantheon. Did you know that the Staff
+of One has made an appearance in the MCU? Oh,
+
+692
+01:04:00,516 --> 01:04:07,261
+it was in the Dr. Strange movie, right? Yeah,
+it was when Dormammu was attacking the magic
+
+693
+01:04:07,321 --> 01:04:15,548
+stronghold in China, the one that Wong was defending,
+and alongside him was Tina, Nico's mom, holding
+
+694
+01:04:15,608 --> 01:04:20,432
+the Staff of One. I'm really hoping that the
+Court of Owls are the main villains in the
+
+695
+01:04:20,512 --> 01:04:26,017
+upcoming sequel to The Batman. It's rumored
+that they, and possibly also Mr. Freeze, will
+
+696
+01:04:26,057 --> 01:04:31,163
+be. Fingers crossed, I think that'd be really
+cool. I feel like the Court of Owls and Mr.
+
+697
+01:04:31,203 --> 01:04:37,024
+Freeze aren't two comic book entities that jive
+well in a story, but I'd rather see the Court
+
+698
+01:04:37,044 --> 01:04:42,146
+of Owls because they seem a lot more grounded
+than something like Mr. Freeze, and we all
+
+699
+01:04:42,166 --> 01:04:47,887
+know that the Batman franchise is pretty grounded.
+Well, I think Batman would almost need Mr.
+
+700
+01:04:47,907 --> 01:04:53,629
+Freeze's tech to stop the Court of Owls and
+their talons, so I don't know. Yeah, that would
+
+701
+01:04:53,649 --> 01:05:00,490
+make sense. We'll see. But that does it for
+this duel AJ 9k help close this out. Thanks
+
+702
+01:05:00,510 --> 01:05:05,913
+for listening to Dynamic Duel. Visit the show's
+website at dynamicDuel.com and follow us on
+
+703
+01:05:05,973 --> 01:05:12,456
+Instagram at dynamicDuelpodcast. You can support
+the show on Patreon at patreon.com slash dynamicDuel
+
+704
+01:05:12,576 --> 01:05:16,799
+and joining a tier that works for you, or by
+rating and reviewing Dynamic Duel on Apple
+
+705
+01:05:16,819 --> 01:05:22,442
+Podcasts, Spotify, Podchaser or on our website.
+Don't forget to listen to the other shows in
+
+706
+01:05:22,462 --> 01:05:27,985
+the Dynamite Podcast Network, including Max
+Destruction, Senjow World and Console Combat.
+
+707
+01:05:29,686 --> 01:05:35,489
+Our next episode is going to be a matchup between
+two psychic entities, or I guess one of them
+
+708
+01:05:35,509 --> 01:05:40,672
+is an emotional entity. It's going to be Parallax
+versus Onslaught. Yeah, two universe shaking
+
+709
+01:05:40,712 --> 01:05:45,054
+bad guys from the 90s. It's going to be awesome.
+We want to give a big thanks to our executive
+
+710
+01:05:45,074 --> 01:05:50,757
+producers, John Storosky, Zachary Hepburn, Mickey
+Montagian, Brandon Estergard, Nathaniel Wagner,
+
+711
+01:05:50,998 --> 01:05:57,241
+Levi Yeaton, Austin Wiselowski, AJ Dunkerley,
+Nick Abonto, Scott Camacho, Gil Camacho, Adam
+
+712
+01:05:57,281 --> 01:06:03,736
+Spies. Dean Molesky, Devin Davis, Joseph Kirsting,
+Josh Leiner, Mike Williams, and Oscar Galvez
+
+713
+01:06:03,776 --> 01:06:08,479
+for helping make this podcast possible. We'll
+talk to you guys next week. Up up and away,
+
+714
+01:06:08,719 --> 01:06:09,299
+true believers.
+
