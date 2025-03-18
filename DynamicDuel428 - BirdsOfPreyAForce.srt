@@ -1,0 +1,2803 @@
+1
+00:00:00,000 --> 00:00:27,960
+This is a DynaMic Network Podcast. Hi, welcome to
+the Dynamic Duel Podcast, a weekly show where we
+
+2
+00:00:27,960 --> 00:00:32,759
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:32,759 --> 00:00:37,640
+their characters in stat-based battle
+simulations. I'm Johnny DC. And I'm his twin
+
+4
+00:00:37,640 --> 00:00:44,420
+brother, Marvelous Joe. And in this episode, we
+are doing a surprise Team Duel episode between
+
+5
+00:00:44,420 --> 00:00:50,860
+DC's Birds of Prey and Marvel's A-Force. Yeah,
+we're doing this special team duel in honor of
+
+6
+00:00:50,860 --> 00:00:56,340
+Women's History Month, so to celebrate all the
+women's out there, here's your duel of badass
+
+7
+00:00:56,340 --> 00:01:01,580
+female superhero teams. Not gonna lie, I'm a
+little nervous about this because I know A-Force
+
+8
+00:01:01,580 --> 00:01:08,600
+is essentially female Avengers and Birds of Prey
+tends to be a little bit more street level, so we'll
+
+9
+00:01:08,600 --> 00:01:13,780
+see how it goes later on in this episode. Before
+that, we are not going to break down the comic book
+
+10
+00:01:13,780 --> 00:01:20,000
+movie news from this past week because there isn't
+any, not anything concrete anyway. Yeah, we did
+
+11
+00:01:20,000 --> 00:01:24,560
+get news that Sadie Sink has been cast in the new
+Spider-Man movie, but there's nothing really to
+
+12
+00:01:24,560 --> 00:01:29,500
+discuss there because we don't know who she's
+playing. But we will be having a question of the
+
+13
+00:01:29,500 --> 00:01:33,740
+week later on this episode. As always, we list our
+segment times and our episode description, so
+
+14
+00:01:33,740 --> 00:01:37,740
+feel free to check out the show notes if you want to
+skip ahead to a particular topic. Our
+
+15
+00:01:37,740 --> 00:01:43,620
+artificially intelligent duel simulator, AJ9K,
+has a quick message for our listeners, so listen
+
+16
+00:01:43,620 --> 00:01:50,680
+up. Why hello there. Do you want even more from this
+podcast? Then become a part of the Dynamic Duel
+
+17
+00:01:50,680 --> 00:01:55,960
+community on Patreon where you can choose from
+three tiers. The Dynamic 2.0 tier gives you access
+
+18
+00:01:55,960 --> 00:02:01,200
+to our Discord chat server, the Fantastic Four
+tier gives you two bonus episodes each month, and
+
+19
+00:02:01,200 --> 00:02:06,380
+the X-Force tier makes you an executive producer
+of this show. Lastly, the Diner Mike podcast
+
+20
+00:02:06,380 --> 00:02:11,500
+network tier lets you create your own podcast
+using this Monte Carlo simulator. Johnny and Joe
+
+21
+00:02:11,500 --> 00:02:16,080
+will help you develop your show, provide graphic
+support and consultation, and get you simulation
+
+22
+00:02:16,080 --> 00:02:22,840
+results. Pitch the twins your ideas via email at
+dynamicduelpodcast at gmail.com. Check it out at
+
+23
+00:02:22,840 --> 00:02:30,120
+patreon.com/dynamicduel. Pip pip cheerio.
+Thanks AJ9K and thanks to everyone who supports
+
+24
+00:02:30,120 --> 00:02:34,820
+the podcast. Guys, be sure to tune into the other
+shows on the Dynamite podcast network this week,
+
+25
+00:02:34,820 --> 00:02:38,940
+including Max Destruction, which pits your
+favorite action heroes from film and television
+
+26
+00:02:38,940 --> 00:02:43,940
+against each other. This Wednesday, host Scotty
+and Gilly are finding out who would win in a fight
+
+27
+00:02:43,940 --> 00:02:50,980
+between Disney's Hercules and Maui from Moana. On
+the Send Your World podcast, host Zachary Hepburn
+
+28
+00:02:50,980 --> 00:02:56,560
+speculates on fights between fan favorite anime
+and manga characters. On Thursday, Zach is going
+
+29
+00:02:56,560 --> 00:03:03,940
+to discuss who would win between Vasto Lorde
+Ichigo from Bleach and Six Tail Kyuubi from Naruto.
+
+30
+00:03:03,940 --> 00:03:08,760
+And on the Konsole Kombat podcast, host John and
+Dean simulate battles between popular video game
+
+31
+00:03:08,760 --> 00:03:13,420
+characters. In yesterday's episode, they
+reviewed Dungeons and Dragons, Honor Among
+
+32
+00:03:13,420 --> 00:03:19,700
+Thieves. Visit dynamicpodcasts.com or click the
+link in our show notes to listen to all of the shows
+
+33
+00:03:19,700 --> 00:03:28,240
+in the DynaMic podcast network. But with that out
+of the way, quick to the no prize. A no prize is an
+
+34
+00:03:28,240 --> 00:03:33,160
+award Marvel used to give out to fans. Our version,
+the Dynamic Dual No Prize, is a digital award we
+
+35
+00:03:33,160 --> 00:03:38,540
+post on Instagram for the person that we feel gave
+the best answer to our question of the week. Last
+
+36
+00:03:38,540 --> 00:03:44,520
+week, we asked you guys, what is your favorite
+Marvel and DC comics crossover and why? And this is
+
+37
+00:03:44,520 --> 00:03:50,580
+coming off the news that Marvel and DC are going to
+put out two one shot crossover issues later on this
+
+38
+00:03:50,580 --> 00:03:55,680
+year sometime in 2025. We don't have any of the
+specific details on it, but we love the idea and
+
+39
+00:03:55,680 --> 00:04:00,360
+thought it was worth asking about. Yeah, we got
+three answers for this question. So let's break
+
+40
+00:04:00,360 --> 00:04:06,260
+down our two honorable mentions before revealing
+this week's no prize winner. Our first honorable
+
+41
+00:04:06,260 --> 00:04:13,620
+mention goes to by DearBangora who said, Hello,
+Dynamic Dual. I think the best Marvel DC crossover
+
+42
+00:04:13,620 --> 00:04:19,380
+is Batman versus Punisher. The fact that both
+characters have strict codes that are vastly
+
+43
+00:04:19,380 --> 00:04:27,100
+different, but that unites them as well. I also
+like that we can see the creation of Red Hood coming
+
+44
+00:04:27,100 --> 00:04:32,220
+from this crossover being a mix of both
+characters. So for me, Punisher versus Batman,
+
+45
+00:04:32,220 --> 00:04:37,620
+the dichotomy and the difference between the
+characters and their code and their will makes
+
+46
+00:04:37,620 --> 00:04:42,620
+this comic book. Yeah, it looks like he got cut off
+there, but he's referring to the Punisher Batman
+
+47
+00:04:42,620 --> 00:04:48,800
+deadly knights crossover comic book in which
+Punisher pays a visit to Gotham City. And if that
+
+48
+00:04:48,800 --> 00:04:53,720
+concept sounds intriguing to you, hell yeah, it
+was. I really like that comic book, even though,
+
+49
+00:04:53,720 --> 00:04:58,060
+you know, Batman kind of beats a shit out of
+Punisher towards the end and kind of like humbles
+
+50
+00:04:58,060 --> 00:05:04,040
+him. Punisher does get in a good line where he tells
+Batman that he and the Joker deserve each other. So
+
+51
+00:05:04,040 --> 00:05:10,880
+I like that. Yeah, Punisher also makes Joker
+essentially shit himself, too. So that was also a
+
+52
+00:05:10,880 --> 00:05:16,380
+great moment from the comic. Yeah, it was a great
+look at just like the two moralities of the
+
+53
+00:05:16,380 --> 00:05:21,580
+character. You know, Punisher, he kills his bad
+guys and he basically saw Batman as liable and all
+
+54
+00:05:21,580 --> 00:05:25,960
+of the Joker's murders because he wouldn't kill
+the Joker. You know, it's always been an
+
+55
+00:05:25,960 --> 00:05:30,000
+interesting debate. And it was one that was
+explored in that comic. So that philosophical
+
+56
+00:05:30,000 --> 00:05:35,860
+aspect alone, I think, sets it a level above quite a
+few DC Marvel crossovers. Great answer by
+
+57
+00:05:35,860 --> 00:05:41,900
+DearBangora. Our next honorable mention goes to
+Mason Thompson. Who said? Hey, what's up? It's
+
+58
+00:05:41,900 --> 00:05:49,080
+Mason. And I would have to say if it was my favorite
+Marvel and DC crossover, I'd just do the two,
+
+59
+00:05:49,080 --> 00:05:59,300
+probably be one Batman Humboldt Punisher,
+because I was stuff and or one if it's just DC, then
+
+60
+00:05:59,300 --> 00:06:05,420
+it would be Batman when he went over to Ninja
+Turtles. Because that is always so cool to see him
+
+61
+00:06:05,420 --> 00:06:12,780
+fight with like all the turtles and yeah. Yeah, I'm
+not sure if Mason is referring again to the
+
+62
+00:06:12,780 --> 00:06:18,020
+Punisher Batman deadly knights crossover,
+because I'm kind of ashamed to say that Batman has
+
+63
+00:06:18,020 --> 00:06:22,400
+actually beat the shit out of Punisher in multiple
+crossovers. I remember in J.L .A. Avengers,
+
+64
+00:06:22,400 --> 00:06:26,440
+Punisher was in the middle of killing some bad guys
+while Batman was doing reconnaissance in the
+
+65
+00:06:26,440 --> 00:06:31,420
+Marvel Universe. And then Batman saw him doing
+this and then broke through the warehouse and then
+
+66
+00:06:31,420 --> 00:06:36,240
+beat the shit out of Punisher to keep him from
+killing everybody. I mean, is it any surprise,
+
+67
+00:06:36,240 --> 00:06:41,920
+though? Like Punisher is not at the level of
+martial arts finesse that Batman is. He doesn't
+
+68
+00:06:41,920 --> 00:06:46,520
+need to when he has bullets. And plus, he's he's a
+pretty damn good fighter. He's a really good
+
+69
+00:06:46,520 --> 00:06:53,760
+fighter, but he's also like 70. And Batman's like
+not anymore. But no, Batman and the Teenage Mutant
+
+70
+00:06:53,760 --> 00:06:58,500
+Ninja Turtles crossover was also awesome. They
+made a movie about it. And we actually did a review
+
+71
+00:06:58,500 --> 00:07:04,500
+of that film on a guest spot for the Ready to Retro
+podcast where we talk all about that movie and the
+
+72
+00:07:04,500 --> 00:07:08,880
+comic. It was good time. So make sure to check that
+out if you haven't. Yeah, we love the Ready to
+
+73
+00:07:08,880 --> 00:07:14,600
+Retro, guys. So great answer, Mason Thompson. The
+winner of this week's No Prize is Christopher
+
+74
+00:07:14,600 --> 00:07:20,000
+Minotti, who said. Hi, guys, this is Christopher
+Minotti. My favorite would have to be the four
+
+75
+00:07:20,000 --> 00:07:27,100
+issues of Marvel vs. DC, because it's exactly what
+comic book fans love. The discussion of which side
+
+76
+00:07:27,100 --> 00:07:33,360
+is stronger, whose characters would win more
+fights. And I feel like those four issues, it
+
+77
+00:07:33,360 --> 00:07:39,740
+showed that while sometimes DC character will win
+and sometimes a Marvel character will win. In the
+
+78
+00:07:39,740 --> 00:07:46,540
+end, Marvel will always lose to Superman. Now, if I
+remember correctly in that miniseries, Marvel
+
+79
+00:07:46,540 --> 00:07:52,480
+actually won a majority of those matches, but it
+was total bullshit because a few of the winners
+
+80
+00:07:52,480 --> 00:07:57,760
+were determined by fan votes and there's no way
+Wolverine at Storm would have beaten Lobo and
+
+81
+00:07:57,760 --> 00:08:02,380
+Wonder Woman. Yeah, they would have. It showed in
+the comic just how that would have happened. It
+
+82
+00:08:02,380 --> 00:08:08,560
+literally didn't, though. Like Wolverine and
+Lobo go behind a bar and then Wolverine just stands
+
+83
+00:08:08,560 --> 00:08:13,680
+up and smokes a cigar. It's like, what happened
+behind that bar? He gutted him like he said he
+
+84
+00:08:13,680 --> 00:08:18,300
+would. That's what happened. OK, so he did
+something that wouldn't kill Lobo. Gotcha. You
+
+85
+00:08:18,300 --> 00:08:24,460
+sound like a fucking whiny loser. Maybe don't be so
+jealous about Marvel's victories. I'm super
+
+86
+00:08:24,460 --> 00:08:31,800
+bitter about it. I don't care. No, that crossover
+event was a defining moment, I think, for my
+
+87
+00:08:31,800 --> 00:08:36,240
+Jonathan's childhood. I remember going to the
+comic book store and getting the big Marvel versus
+
+88
+00:08:36,240 --> 00:08:42,780
+DC poster that they were selling there along with
+the comic books. And it was just a magical time,
+
+89
+00:08:42,780 --> 00:08:49,560
+really. And in many ways, influenced us into doing
+this podcast like 20 years later. Oh, absolutely.
+
+90
+00:08:49,560 --> 00:08:55,800
+Yeah, if you guys haven't listened to our guest
+spot on the Rankers, where we talk about why DC or
+
+91
+00:08:55,800 --> 00:09:01,100
+Marvel is better, definitely check that episode
+out as well, because I talk about how the DC versus
+
+92
+00:09:01,100 --> 00:09:06,340
+Marvel mini series influenced us when we first
+started reading comics. But great answer,
+
+93
+00:09:06,340 --> 00:09:09,700
+Christopher. You win this week's No Prize. If
+you're the listener who won a shot at winning your
+
+94
+00:09:09,700 --> 00:09:14,860
+own No Prize, stay tuned to later on in this episode
+when we'll be asking another question of the week
+
+95
+00:09:14,860 --> 00:09:24,580
+and know that that's done onto the question of the
+week. What character do you think Sadie Sink will
+
+96
+00:09:24,580 --> 00:09:30,460
+be playing in the upcoming fourth Spider-Man film
+from Marvel Studios? And we received a word over
+
+97
+00:09:30,460 --> 00:09:35,240
+this past week that Sadie Sink has been cast. We
+just don't know what role she's playing. There's a
+
+98
+00:09:35,240 --> 00:09:40,300
+lot of conjecture out there, but we want to hear
+what you guys think and why. Record your answer at
+
+99
+00:09:40,300 --> 00:09:44,240
+dynamicdool.com by clicking on the red
+microphone button in the bottom right hand corner
+
+100
+00:09:44,240 --> 00:09:48,740
+of the screen, which will prompt you to leave us a
+voicemail. Your message could be up to 30 seconds
+
+101
+00:09:48,740 --> 00:09:53,300
+long and don't forget to leave your name in case we
+include you on the podcast. We'll pick our
+
+102
+00:09:53,300 --> 00:09:58,700
+favorite answer and award that person a dynamic
+dual No Prize that will post to Instagram. Be sure
+
+103
+00:09:58,700 --> 00:10:11,840
+to answer before March 22nd. But let's go ahead and
+move on to the main event of this episode, where we
+
+104
+00:10:11,840 --> 00:10:35,260
+find out who would win in a battle between the all
+female teams of Birds of Prey and a force. OK, Birds
+
+105
+00:10:35,260 --> 00:10:42,480
+of Prey versus a force. As we mentioned earlier,
+these are two all female teams from DC and Marvel
+
+106
+00:10:42,480 --> 00:10:49,000
+respectively. Birds of Prey, notoriously, you
+could say, had a live action film, but it was really
+
+107
+00:10:49,000 --> 00:10:55,560
+just a Harley Quinn film. A force has not had its own
+movie. No, but they also notoriously had a moment
+
+108
+00:10:55,560 --> 00:11:01,880
+in Avengers Endgame where a lot of the female
+superheroes that were fighting against Thanos in
+
+109
+00:11:01,880 --> 00:11:08,480
+the climactic battle joined together to help get
+the Infinity Gauntlet over to Ant-Man and the Wasp
+
+110
+00:11:08,480 --> 00:11:14,000
+as they were powering up the Quantum Tunnel. A lot
+of people found it pandering, but I actually loved
+
+111
+00:11:14,000 --> 00:11:18,920
+it as a comic book fan because I was like, it's
+fucking a force. They're like doing an Easter egg
+
+112
+00:11:18,920 --> 00:11:23,220
+for that. I guess if you didn't know the comics and
+just thought that they were doing it for girl
+
+113
+00:11:23,220 --> 00:11:28,900
+power, then I can maybe see where they were coming
+from. But I personally enjoyed that moment in that
+
+114
+00:11:28,900 --> 00:11:33,780
+movie. Yeah, I didn't know what a force was at the
+time when I saw that. So I definitely was like, oh,
+
+115
+00:11:33,780 --> 00:11:40,460
+look, they're all posing together. Girl power.
+Yeah, I think the boys' television show made fun of
+
+116
+00:11:40,460 --> 00:11:45,660
+it, too, at some point. But they don't know they're
+just fucking cynical. I mean, let's be real. That
+
+117
+00:11:45,660 --> 00:11:51,160
+scene was kind of better than the entirety of Birds
+of Prey, though. You're not wrong. And Birds of
+
+118
+00:11:51,160 --> 00:11:57,660
+Prey wasn't even that bad. It was just a really bad
+Birds of Prey film. Right. I mean, the movie should
+
+119
+00:11:57,660 --> 00:12:01,440
+have been called Harley Quinn and the Birds of
+Prey. The Birds of Prey team shouldn't have taken
+
+120
+00:12:01,440 --> 00:12:05,660
+center stage because they really weren't the
+focus and they weren't really adapted that well.
+
+121
+00:12:05,660 --> 00:12:10,060
+Right, exactly. So if the only thing you know about
+the Birds of Prey is the movie, forget everything
+
+122
+00:12:10,060 --> 00:12:14,500
+you know about the Birds of Prey. Yeah, the origin
+for Birds of Prey in the comic books is way
+
+123
+00:12:14,500 --> 00:12:21,460
+different from the film. But I got to say the origin
+for a force is almost non-existent in the comic
+
+124
+00:12:21,460 --> 00:12:26,860
+books. They just manifested as a team within the
+alternate reality of battle worlds that Dr. Doom
+
+125
+00:12:26,860 --> 00:12:31,640
+created. So there's no real origin story for a
+force, but they do have, you know, a history. OK,
+
+126
+00:12:31,640 --> 00:12:35,240
+well, that's almost like Birds of Prey, too,
+because they didn't even call themselves Birds of
+
+127
+00:12:35,240 --> 00:12:41,000
+Prey or think of themselves as an official team
+until like issue 80. Oh, wow. Well, I can't wait to
+
+128
+00:12:41,000 --> 00:12:45,600
+hear all about their backstory as we go into that in
+a bit here. But to explain the methodology behind
+
+129
+00:12:45,600 --> 00:12:50,720
+our duels, let's go to our sentient dual
+simulator, Alfred Jarvis, 9000. Adrian and I, K
+
+130
+00:12:50,720 --> 00:12:56,300
+tell our listeners how you go about determining a
+winner in our dual matchups. Yes, of course, sir.
+
+131
+00:12:56,300 --> 00:13:00,840
+The way I determine a winner between the two teams
+is by running 1000 Monte Carlo simulations
+
+132
+00:13:00,840 --> 00:13:06,080
+between every character on each team using their
+statistics. A Monte Carlo simulation is a
+
+133
+00:13:06,080 --> 00:13:11,280
+probabilistic model used to determine outcomes
+through random sampling. In this case, I
+
+134
+00:13:11,280 --> 00:13:15,500
+randomize the statistics along a normal
+distribution as a way to simulate the many
+
+135
+00:13:15,500 --> 00:13:20,480
+variables that can occur during battle. The stat
+parameters are based on the official Marvel power
+
+136
+00:13:20,480 --> 00:13:25,760
+grid from which the DC characters statistics are
+extrapolated. Additional stat categories are
+
+137
+00:13:25,760 --> 00:13:31,300
+included such as range, damage potential,
+versatility and perception in order to create a
+
+138
+00:13:31,300 --> 00:13:36,620
+more detailed and accurate simulation. The
+results of the 49,000 simulations provide a
+
+139
+00:13:36,620 --> 00:13:41,640
+percentage of wins for each character on both
+teams. The team with the higher average win rate is
+
+140
+00:13:41,640 --> 00:13:45,980
+declared the victor as they have a higher
+probability to win any given battle. In an
+
+141
+00:13:45,980 --> 00:13:51,240
+equitable pairing, neither team should win 100%
+of the matches. The comic book stories have shown
+
+142
+00:13:51,240 --> 00:13:55,620
+that there's even a way for Batman to defeat
+Superman, so the confidence rate of my method
+
+143
+00:13:55,620 --> 00:13:59,660
+falls in line with the precedents that have been
+established in the source material. My
+
+144
+00:13:59,660 --> 00:14:04,260
+mathematical simulations are without
+subjectivity or bias. Feats are not the sole
+
+145
+00:14:04,260 --> 00:14:11,100
+consideration, nor are fan votes tabulated for
+determination of the winner. Thanks to J9K.
+
+146
+00:14:11,100 --> 00:14:15,040
+Before we run the simulations, though, we like to
+break down each team's histories and rosters
+
+147
+00:14:15,040 --> 00:14:21,300
+before improvising a scenario on how we imagine
+one of the many simulations would play out beat for
+
+148
+00:14:21,300 --> 00:14:27,620
+beat. And I believe it's my turn to go first with the
+DC team's backstory. So let me tell you about Birds
+
+149
+00:14:27,620 --> 00:14:33,520
+of Prey. The Birds of Prey began as a partnership
+between Barbara Gordon, the former Batgirl, now
+
+150
+00:14:33,520 --> 00:14:39,280
+operating as the information broker known as
+Oracle, and Dynal Lance, the martial arts expert
+
+151
+00:14:39,280 --> 00:14:44,680
+and vigilante known as Black Canary, each of whom
+you can learn more about in their respective duels
+
+152
+00:14:44,680 --> 00:14:50,640
+against Hawkeye, Kate Bishop, and Black Widow.
+Now after suffering a spinal injury at the hands of
+
+153
+00:14:50,640 --> 00:14:56,900
+the Joker, Barbara reinvented herself as Oracle,
+creating a vast intelligence network that
+
+154
+00:14:56,900 --> 00:15:02,880
+provided real-time information to superheroes
+worldwide. Initially, she sought out Powergirl
+
+155
+00:15:02,880 --> 00:15:08,580
+as her first field agent, but after an early
+mission resulted in tragic casualties,
+
+156
+00:15:08,580 --> 00:15:13,440
+Powergirl severed ties with Oracle, leaving
+Barbara searching for a more compatible
+
+157
+00:15:13,440 --> 00:15:19,520
+operative. Oracle eventually turned to Black
+Canary, a veteran crime fighter who had lost her
+
+158
+00:15:19,520 --> 00:15:25,120
+Canary cry, but continued patrolling the streets
+as a highly skilled combatant. Operating from the
+
+159
+00:15:25,120 --> 00:15:30,940
+Gotham City clock tower, Oracle and Black Canary
+formed a formidable duo, with Dynah handling
+
+160
+00:15:30,940 --> 00:15:35,520
+field operations and Barbara coordinating
+commissions behind the scenes. Their
+
+161
+00:15:35,520 --> 00:15:41,020
+partnership thrived, despite occasional
+ideological differences, and over time, Oracle
+
+162
+00:15:41,020 --> 00:15:46,700
+expanded her intelligence network to include a
+growing roster of agents. The team solidified
+
+163
+00:15:46,700 --> 00:15:51,380
+when Black Canary was captured by the villainous
+Savant, an information broker and former
+
+164
+00:15:51,380 --> 00:15:56,740
+vigilante who sought to control Gotham's
+underworld. Unable to call upon the Bat Family for
+
+165
+00:15:56,740 --> 00:16:02,780
+assistance, Oracle reached out to Huntress, a
+brutal and relentless vigilante with ties to the
+
+166
+00:16:02,780 --> 00:16:08,060
+city's criminal underbelly. Working together,
+Oracle and Huntress successfully rescued Black
+
+167
+00:16:08,060 --> 00:16:13,440
+Canary, leading Barbara to formally recruit
+Huntress as a full-time agent. And you, of course,
+
+168
+00:16:13,440 --> 00:16:19,480
+can learn more about Huntress in her dual episode
+against Jessica Jones. Soon after, Lady Black
+
+169
+00:16:19,480 --> 00:16:25,240
+Hawk, a time-displaced World War II pilot and
+former member of the Black Hawk Squadron, joined
+
+170
+00:16:25,240 --> 00:16:30,780
+the team after a mission involving a hijacked
+aircraft. Though she was originally an outlier
+
+171
+00:16:30,780 --> 00:16:36,120
+due to her outdated views and hard drinking
+demeanor, Lady Black Hawk quickly became an
+
+172
+00:16:36,120 --> 00:16:42,480
+invaluable member, serving as the team's pilot
+and transport specialist. With its core trio of
+
+173
+00:16:42,480 --> 00:16:47,660
+Oracle, Black Canary and Huntress, along with
+Lady Black Hawk providing air support, the Birds
+
+174
+00:16:47,660 --> 00:16:52,760
+of Prey expanded their operations, tackling
+threats that other hero teams ignored or were
+
+175
+00:16:52,760 --> 00:16:58,840
+unable to address. They faced off against
+criminals such as Cheshire, Senator Pullman, and
+
+176
+00:16:58,840 --> 00:17:03,900
+the Blackmailer Savant while also dealing with
+espionage, human trafficking, and
+
+177
+00:17:03,900 --> 00:17:08,660
+international crime syndicates. For years, the
+Birds of Prey operated from Oracle's Command
+
+178
+00:17:08,660 --> 00:17:13,800
+Center inside the Gotham Clock Tower, but their
+headquarters came under attack during a
+
+179
+00:17:13,800 --> 00:17:19,619
+full-scale gang war. Black Mask, the crime lord
+who had taken control of Gotham's underworld,
+
+180
+00:17:19,619 --> 00:17:24,420
+targeted Oracle's operations, leading an
+assault that resulted in the Clock Tower's
+
+181
+00:17:24,420 --> 00:17:30,400
+destruction. Forced to abandon Gotham, Barbara
+temporarily disbanded the team and went into
+
+182
+00:17:30,400 --> 00:17:36,480
+hiding. After a brief time operating covertly,
+Oracle reassembled the Birds of Prey, now
+
+183
+00:17:36,480 --> 00:17:42,140
+stationed aboard the ARE-1, a high-tech mobile
+command aircraft outfitted with cutting-edge
+
+184
+00:17:42,140 --> 00:17:47,540
+surveillance and tactical equipment. From
+there, they took on high-risk missions across the
+
+185
+00:17:47,540 --> 00:17:52,200
+globe, tackling threats ranging from
+super-powered crime syndicates to political
+
+186
+00:17:52,200 --> 00:17:58,000
+conspiracies. Seeking a more stable base of
+operations, Oracle relocated the team to
+
+187
+00:17:58,000 --> 00:18:03,540
+Metropolis, but their presence in Superman's
+city led to clashes with local authorities and
+
+188
+00:18:03,540 --> 00:18:09,460
+rival vigilante groups. Eventually, they
+settled in Platinum Flats, a high-tech city on the
+
+189
+00:18:09,460 --> 00:18:15,420
+West Coast with deep ties to organized crime and
+corporate corruption. With a growing roster that
+
+190
+00:18:15,420 --> 00:18:21,500
+now included Big Barda, Manhunter, Gypsy, and
+Judo Master, the Birds of Prey fought against the
+
+191
+00:18:21,500 --> 00:18:25,580
+city's underground syndicates while facing
+opposition from the metahuman criminal
+
+192
+00:18:25,580 --> 00:18:30,640
+underworld. During their time in Platinum Flats,
+the team found themselves targeted by Spy
+
+193
+00:18:30,640 --> 00:18:36,200
+Smasher, the alias of Katarina Armstrong, a
+former government operative and Barbara's
+
+194
+00:18:36,200 --> 00:18:42,720
+childhood rival. Katarina sought to take control
+of the Birds of Prey, leveraging her influence to
+
+195
+00:18:42,720 --> 00:18:47,880
+force Oracle out. This led to a dramatic
+confrontation where Barbara challenged the Spy
+
+196
+00:18:47,880 --> 00:18:53,760
+Smasher to a one-on-one fight, with the winner
+taking control of the organization. Despite her
+
+197
+00:18:53,760 --> 00:18:59,260
+physical limitations, Oracle outmaneuvered Spy
+Smasher and won the fight. However, Katarina
+
+198
+00:18:59,260 --> 00:19:04,780
+refused to honor their agreement. Before she
+could make a move against Oracle, the Birds of Prey
+
+199
+00:19:04,780 --> 00:19:10,720
+assembled in full force alongside numerous
+allies including Black Canary, Wildcat, and even
+
+200
+00:19:10,720 --> 00:19:16,260
+the assassin Lady Shiva. Overwhelmed and
+outmatched, Spy Smasher had no choice but to back
+
+201
+00:19:16,260 --> 00:19:21,600
+down, and Oracle secured the Birds of Prey's
+independence once and for all. As Oracle's
+
+202
+00:19:21,600 --> 00:19:27,960
+intelligence network grew, so did her list of
+enemies. Chief among them was the Calculator, a
+
+203
+00:19:27,960 --> 00:19:33,000
+cyber-criminal and information broker who
+sought to unmask Oracle and eliminate her as a
+
+204
+00:19:33,000 --> 00:19:38,700
+threat. Their ongoing digital war escalated when
+the Calculator attempted to harness fragments of
+
+205
+00:19:38,700 --> 00:19:44,540
+the Anti-Life Equation, a cosmic formula capable
+of controlling minds. To counter his growing
+
+206
+00:19:44,540 --> 00:19:49,920
+power, Oracle led an all-out cyber assault
+enlisting allies such as Cassandra Kane,
+
+207
+00:19:49,920 --> 00:19:54,740
+Huntress, and even members of the Justice League
+to dismantle his operations. Though she
+
+208
+00:19:54,740 --> 00:19:59,320
+successfully thwarted Calculator's plans, the
+battle left her questioning her own
+
+209
+00:19:59,320 --> 00:20:04,680
+effectiveness, leading her to temporarily
+disband the Birds of Prey once again to reassess
+
+210
+00:20:04,680 --> 00:20:10,460
+her role. Following Batman's apparent death,
+Oracle resumed operations in Gotham City,
+
+211
+00:20:10,460 --> 00:20:15,400
+assisting Nightwing in maintaining order as
+criminals seized the opportunity to expand their
+
+212
+00:20:15,400 --> 00:20:20,900
+influence. She reassembled the Birds of Prey with
+a new lineup that included the Medi-Human Bruiser
+
+213
+00:20:20,900 --> 00:20:27,220
+Hawk, the Pacifist Warrior Dove, and a returning
+Countress. Establishing a new headquarters in
+
+214
+00:20:27,220 --> 00:20:33,060
+Cord Tower, during this time, Black Canary left
+the team to raise her adopted daughter, Sin, but
+
+215
+00:20:33,060 --> 00:20:38,620
+eventually returned when the Birds faced a
+resurgence of organized crime in Gotham. The team
+
+216
+00:20:38,620 --> 00:20:44,080
+also recruited two new members, Black Alice, a
+teenage sorceress with the ability to
+
+217
+00:20:44,080 --> 00:20:50,140
+temporarily steal magical powers, and Misfit, a
+homeless runaway with teleportation abilities
+
+218
+00:20:50,140 --> 00:20:55,760
+whom Oracle took under her wing. As the Birds of
+Prey continued to expand, they took on major
+
+219
+00:20:55,760 --> 00:21:00,860
+players in the criminal underworld, including an
+underground Medi-Human trafficking gang and the
+
+220
+00:21:00,860 --> 00:21:05,300
+growing influence of the villainous
+organization known as the Secret Six. Their
+
+221
+00:21:05,300 --> 00:21:11,160
+battles led to high stakes confrontations
+against figures like Harley Quinn, Talia El Ghul,
+
+222
+00:21:11,160 --> 00:21:15,680
+and her League of Assassins. Following the
+Flashpoint event, the history of the Birds of Prey
+
+223
+00:21:15,680 --> 00:21:21,320
+was rebooted, and the team was reestablished as a
+covert operations unit based in Gotham City.
+
+224
+00:21:21,320 --> 00:21:26,640
+Black Canary formed a new incarnation of the
+group, recruiting Starling, Batgirl, Katana,
+
+225
+00:21:26,640 --> 00:21:32,460
+and Poison Ivy for a series of high-risk missions.
+Their early cases involved stopping a villain
+
+226
+00:21:32,460 --> 00:21:38,760
+known as Choke, who used nanotechnology to turn
+people into living bombs. The team faced internal
+
+227
+00:21:38,760 --> 00:21:43,380
+strife when Poison Ivy attempted to manipulate
+them into joining her crusade against
+
+228
+00:21:43,380 --> 00:21:49,300
+environmental criminals. Katana ultimately
+killed Ivy in self-defense, leaving the team
+
+229
+00:21:49,300 --> 00:21:56,540
+shaken. Shortly after, Starling betrayed them to
+both Mr. Freeze and the Court leading to further
+
+230
+00:21:56,540 --> 00:22:02,360
+fractures within the group. After learning that
+her presumed dead ex-husband, Kurt Lance, was
+
+231
+00:22:02,360 --> 00:22:08,560
+being held captive by the terrorist organization
+Basilisk, Black Canary went rogue to rescue him.
+
+232
+00:22:08,560 --> 00:22:14,080
+This put her at odds with Amanda Waller, who had
+manipulated the team from behind the scenes. When
+
+233
+00:22:14,080 --> 00:22:19,280
+Ras Al Ghul entered the conflict offering Black
+Canary a Lazarus pet serum in exchange for her
+
+234
+00:22:19,280 --> 00:22:24,520
+cooperation, she turned him down, setting off a
+chain of events that nearly led to the team's
+
+235
+00:22:24,520 --> 00:22:30,200
+destruction. In the latest incarnation of the
+team, Black Canary has once again taken charge,
+
+236
+00:22:30,200 --> 00:22:37,020
+forming a new squad consisting of Cassandra Kane,
+Big Barda, Zellet, and Harley Quinn. Now
+
+237
+00:22:37,020 --> 00:22:42,840
+team-wise, I knew that Barbara Gordon would be a
+no-brainer to include on my 7-person roster,
+
+238
+00:22:42,840 --> 00:22:49,180
+since she's the entire reason the team exists.
+She's joining as Batgirl, not Oracle though, as
+
+239
+00:22:49,180 --> 00:22:54,040
+Batgirl has been a member in recent years in the
+comics. Black Canary and Huntress were also
+
+240
+00:22:54,040 --> 00:23:00,160
+Shoe-ins considering they and Barbara form the
+core team of Birds of Prey. I decided to also go with
+
+241
+00:23:00,160 --> 00:23:05,100
+Powergirl, since she was technically Barbara's
+first field agent prior to recruiting Black
+
+242
+00:23:05,100 --> 00:23:11,920
+Canary, as well as Dove, one half of Hawk and Dove,
+though replacing Hawk will be Hawk Girl, who has
+
+243
+00:23:11,920 --> 00:23:18,320
+helped the team against the Seeker 6 and is a bird of
+prey in her own right. For my 7th and final team
+
+244
+00:23:18,320 --> 00:23:24,320
+member, I could have gone with Lady Black Hawk, who
+I would consider to be a 4th core member if there
+
+245
+00:23:24,320 --> 00:23:29,540
+ever was one, but there have been much more
+interesting characters on the Birds of Prey team,
+
+246
+00:23:29,540 --> 00:23:35,420
+especially ones that I knew wouldn't drag down the
+team's stats like Lady Black Hawk would, who's
+
+247
+00:23:35,420 --> 00:23:42,380
+pretty weak. In the end, I decided to go with Vixen
+as my final team member, as she's a powerhouse that
+
+248
+00:23:42,380 --> 00:23:49,060
+I believe will help raise what is traditionally a
+street level team like Birds of Prey to a force
+
+249
+00:23:49,060 --> 00:23:58,320
+level. So that's my team. Batgirl, Black Canary,
+Huntress, Powergirl, Dove, Hawk Girl, and Vixen.
+
+250
+00:23:58,320 --> 00:24:03,980
+Has Vixen ever been associated with the team? Yes,
+she has been a field agent for Oracle in the past.
+
+251
+00:24:03,980 --> 00:24:10,280
+She helped Huntress bring down some cults in the
+Pacific Northwest. Okay, all right. That's a
+
+252
+00:24:10,280 --> 00:24:15,640
+pretty damn good lineup. It was interesting to
+hear how for the majority of their existence, the
+
+253
+00:24:15,640 --> 00:24:20,100
+Birds of Prey were supported and founded by
+Barbara Gordon as Oracle. It's kind of hard to know
+
+254
+00:24:20,100 --> 00:24:26,180
+what the team functions like when Barbara Gordon
+is Batgirl as opposed to Oracle. Well, she just
+
+255
+00:24:26,180 --> 00:24:31,840
+does all of her information brokering in the
+field. She still has computer gadgets attached to
+
+256
+00:24:31,840 --> 00:24:36,160
+her suit and stuff like that. She's definitely
+still like the brains of the team, just that now
+
+257
+00:24:36,160 --> 00:24:40,760
+she's fighting alongside them. That's pretty
+cool. I like that. It was also interesting to see
+
+258
+00:24:40,760 --> 00:24:46,160
+that Harley Quinn has become a member of the team. I
+feel like they only did that because of the movie. I
+
+259
+00:24:46,160 --> 00:24:51,960
+agree. Yeah, 100%. That's the case. I was actually
+thinking of including Harley Quinn on this team
+
+260
+00:24:51,960 --> 00:24:57,660
+since she does have that tie in in the general
+public's mind considering she was in the movie.
+
+261
+00:24:57,660 --> 00:25:01,780
+But I already used Harley Quinn in the Suicide
+Squad versus Defenders team doled that we did
+
+262
+00:25:01,780 --> 00:25:08,160
+earlier. Yeah, that's right. Well, let me go ahead
+and get into a forces backstory. A Force was an all
+
+263
+00:25:08,160 --> 00:25:13,620
+female superhero team that emerged in the
+alternate reality of Battle World, a patchwork
+
+264
+00:25:13,620 --> 00:25:19,000
+planet created by Dr. Doom following the
+destruction of the multiverse. They operated as
+
+265
+00:25:19,000 --> 00:25:24,480
+the defenders of Arcadia, a utopian island
+territory within Battle World under the
+
+266
+00:25:24,480 --> 00:25:30,000
+leadership of She-Hulk, who also served as
+Arcadia's appointed Baroness. Wait, is Arcadia
+
+267
+00:25:30,000 --> 00:25:36,720
+an all female island? No, they had dudes there, but
+it was just run by women. But it's an island utopia.
+
+268
+00:25:36,720 --> 00:25:43,800
+Yeah. Oh, just like them. It's not like them. RIP
+off. Anyway, the founding roster included over 40
+
+269
+00:25:43,800 --> 00:25:50,400
+women heroes, including Captain Marvel, Ms.
+Marvel, Spider Woman, Medusa, Dazzler, Nico
+
+270
+00:25:50,400 --> 00:25:56,860
+Minoru, and Mockingbird to The team protected
+Arcadia from a Megalodon attack off the island's
+
+271
+00:25:56,860 --> 00:26:01,880
+coast. They successfully subdued the creature,
+but Miss America hurled it beyond the massive
+
+272
+00:26:01,880 --> 00:26:07,880
+shield wall that separated Arcadia from the
+zombie infested Deadlands and inadvertently
+
+273
+00:26:07,880 --> 00:26:13,960
+damaging the barrier. This act violated Dr.
+Doom's laws and despite She-Hulk's protests, the
+
+274
+00:26:13,960 --> 00:26:20,300
+Thor core, who were the elite enforcers of Doom's
+rule, arrived to arrest America Chavez. She was
+
+275
+00:26:20,300 --> 00:26:25,920
+sentenced to exile, forced to serve as guardian of
+the shield for the rest of her life. In response,
+
+276
+00:26:25,920 --> 00:26:31,360
+She-Hulk tasked Arcadia's undersea residents,
+including Namor, Namorita, and Namora, with
+
+277
+00:26:31,360 --> 00:26:36,260
+investigating the origins of the Megalodon
+attack. Meanwhile, Nico Minoru discovered a
+
+278
+00:26:36,260 --> 00:26:42,140
+mysterious girl who had fallen from the sky. A
+female variant of Loki advised Nico to bring the
+
+279
+00:26:42,140 --> 00:26:46,780
+mysterious girl to Ape Horse for further
+examination. As the team tried to determine her
+
+280
+00:26:46,780 --> 00:26:52,100
+origins, portals began opening across Arcadia,
+allowing dangerous creatures to enter the
+
+281
+00:26:52,100 --> 00:26:57,400
+territory. One such portal unleashed a mutant
+Sentinel, which Ape Horse managed to destroy with
+
+282
+00:26:57,400 --> 00:27:02,140
+the unexpected help of the mysterious girl.
+Medusa immediately accused her of being
+
+283
+00:27:02,140 --> 00:27:07,160
+responsible for the portals, but She-Hulk
+refused to accept this claim without proof. When
+
+284
+00:27:07,160 --> 00:27:12,740
+another portal opened, She-Hulk chose to travel
+through it, seeking answers. She-Hulk arrived in
+
+285
+00:27:12,740 --> 00:27:17,220
+the Sentinel territories where she was pursued by
+the robots and confronted by members of the Thor
+
+286
+00:27:17,220 --> 00:27:22,800
+Corps for trespassing across battleworld's
+borders. She fought off the Thors and returned to
+
+287
+00:27:22,800 --> 00:27:28,460
+Arcadia, realizing that the portals were created
+with magic from Arcadia, suggesting that someone
+
+288
+00:27:28,460 --> 00:27:33,200
+within Ape Horse had betrayed them. Before the
+team could investigate further, the Thor Corps
+
+289
+00:27:33,200 --> 00:27:38,200
+arrived in Arcadia, demanding She-Hulk's
+surrender. Medusa sacrificed herself to repel
+
+290
+00:27:38,200 --> 00:27:44,300
+the Thors, buying time for She-Hulk and her allies
+to regroup. With the team now branded outlaws,
+
+291
+00:27:44,300 --> 00:27:50,570
+Loki seized the opportunity to climb the portal.
+A-Force quickly deduced that Loki was the true
+
+292
+00:27:50,570 --> 00:27:56,010
+traitor responsible for creating the portals to
+destabilize She-Hulk's rule. Before she could be
+
+293
+00:27:56,010 --> 00:28:01,690
+crowned Baroness, A-Force launched an attack
+exposing her deception. In retaliation, Loki
+
+294
+00:28:01,690 --> 00:28:07,110
+unleashed one final assault, using her powers to
+breach the shield barrier, allowing the hordes of
+
+295
+00:28:07,110 --> 00:28:12,250
+undead from the deadlands to invade Arcadia.
+A-Force joined by the remaining forces of
+
+296
+00:28:12,250 --> 00:28:17,350
+Arcadia, including the members of the Thorkor,
+the X-Men and the Submariner's forces, mounted a
+
+297
+00:28:17,350 --> 00:28:22,970
+desperate defense against the undead. As the
+zombies overwhelmed them, the mysterious girl,
+
+298
+00:28:22,970 --> 00:28:28,810
+now named Singularity, sacrificed herself to
+save her new friends. She absorbed the horde into
+
+299
+00:28:28,810 --> 00:28:34,510
+the pocket dimension within herself and ascended
+into the sky before exploding in a flash of light.
+
+300
+00:28:34,510 --> 00:28:40,770
+The battle was won, but Arcadia had suffered heavy
+losses, and A-Force was left forever changed.
+
+301
+00:28:40,770 --> 00:28:45,210
+Following the end of Battleworld and the
+restoration of the multiverse, Singularity
+
+302
+00:28:45,210 --> 00:28:51,110
+re-emerged in the primary reality of Earth 616,
+but none of the heroes she had known on Battleworld
+
+303
+00:28:51,110 --> 00:28:56,590
+remembered her. Her arrival was detected by Alpha
+Flight, whom it took her for a threat. Seeking
+
+304
+00:28:56,590 --> 00:29:01,170
+familiarity, Singularity located Captain
+Marvel, believing her to be the same version she
+
+305
+00:29:01,170 --> 00:29:06,130
+had known back in Arcadia. However, before Carol
+Danvers could comprehend what was happening,
+
+306
+00:29:06,130 --> 00:29:12,310
+another cosmic entity named Antimatter arrived,
+pursuing Singularity across Earth. Singularity
+
+307
+00:29:12,310 --> 00:29:16,930
+fled to New York City where she encountered
+She-Hulk. Recognizing her from Arcadia, she
+
+308
+00:29:16,930 --> 00:29:22,410
+sought her aid, but Antimatter attacked them
+both. The Inhuman Queen Medusa intervened with a
+
+309
+00:29:22,410 --> 00:29:27,530
+force of Inhuman soldiers and detained
+Singularity, believing her to be a danger. But
+
+310
+00:29:27,530 --> 00:29:32,530
+when Antimatter killed one of the Inhumans,
+Medusa, along with She-Hulk, fought back, using
+
+311
+00:29:32,530 --> 00:29:38,190
+Inhuman technology to teleport Antimatter to the
+moon to buy themselves time. Realizing the need
+
+312
+00:29:38,190 --> 00:29:43,110
+for a stronger force, Singularity brought the
+group to Japan where they enlisted the aid of Niko
+
+313
+00:29:43,110 --> 00:29:49,210
+Minoru. As Antimatter reappeared, Niko used the
+staff of one to temporarily banish him. Seeking a
+
+314
+00:29:49,210 --> 00:29:53,910
+more effective means of defeating their foe,
+Captain Marvel devised a plan to use concentrated
+
+315
+00:29:53,910 --> 00:29:59,470
+light energy against Antimatter. To implement
+this strategy, they sought out Dazzler in Miami
+
+316
+00:29:59,470 --> 00:30:04,910
+and recruited her to join them. Dazzler struck
+Antimatter with a powerful burst of light while
+
+317
+00:30:04,910 --> 00:30:09,350
+She-Hulk and Medusa attempted to contain him,
+allowing Captain Marvel time to charge a
+
+318
+00:30:09,350 --> 00:30:14,330
+containment device. However, Antimatter proved
+too powerful, overloading the system and
+
+319
+00:30:14,330 --> 00:30:19,370
+escaping. Niko then cast a spell to remove
+Antimatter's ability to track Singularity,
+
+320
+00:30:19,370 --> 00:30:24,210
+allowing them to regroup aboard the Alpha Flight
+Space Station. There, scientists analyzed the
+
+321
+00:30:24,210 --> 00:30:28,870
+data from their Miami battle and developed a
+device capable of dismantling Antimatter.
+
+322
+00:30:28,870 --> 00:30:33,730
+However, it was discovered that Antimatter and
+Singularity were quantum entangled, meaning
+
+323
+00:30:33,730 --> 00:30:39,130
+that destroying him would also destroy her. Due to
+this revelation, She-Hulk attempted to reason
+
+324
+00:30:39,130 --> 00:30:44,470
+with Antimatter, but their negotiations failed.
+In retaliation, Antimatter critically wounded
+
+325
+00:30:44,470 --> 00:30:50,870
+Dazzler. Enraged, Singularity blamed herself
+and left to confront Antimatter alone. She-Hulk,
+
+326
+00:30:50,870 --> 00:30:55,450
+Minoru, and Captain Marvel followed her to the
+Blue Area of the Moon where Medusa planted a bomb
+
+327
+00:30:55,450 --> 00:31:00,890
+that would destroy Antimatter. As the device
+detonated, Dazzler appeared, teleporting
+
+328
+00:31:00,890 --> 00:31:06,490
+Singularity to safety in an act that severed their
+entanglement. Antimatter was finally defeated,
+
+329
+00:31:06,490 --> 00:31:11,630
+but the battle had left A-Force shaken. A-Force
+remained active for some time, but their battles
+
+330
+00:31:11,630 --> 00:31:16,890
+grew increasingly dire. A-Force found itself
+divided by ideological differences during the
+
+331
+00:31:16,890 --> 00:31:22,110
+Second Superhero Civil War. Captain Marvel,
+siding with Ulysses Cain's ability to predict
+
+332
+00:31:22,110 --> 00:31:27,910
+future crimes, turned against Nico Minoru when
+the Inhuman Prophet foresaw that she would one day
+
+333
+00:31:27,910 --> 00:31:33,330
+kill a woman named Alice. Nico fled to Ure,
+Colorado, where she encountered Elsa
+
+334
+00:31:33,330 --> 00:31:37,410
+Bloodstone, who was battling a monstrous
+infestation that was transforming the town's
+
+335
+00:31:37,410 --> 00:31:42,870
+residents into insects. When Alice was found, it
+was revealed that she had inadvertently caused
+
+336
+00:31:42,870 --> 00:31:48,370
+the outbreak, and only her death could reverse the
+transformation. Nico refused to kill Alice,
+
+337
+00:31:48,370 --> 00:31:53,450
+leading to a deadly confrontation in which her
+A-Force teammates, who tracked her to Colorado,
+
+338
+00:31:53,450 --> 00:31:59,850
+were also infected. Ultimately, Nico cast a spell
+that took Alice's life undoing the infection. The
+
+339
+00:31:59,850 --> 00:32:04,570
+moral and ideological rift between Captain
+Marvel and Nico Minoru deepened following this
+
+340
+00:32:04,570 --> 00:32:09,570
+incident. The strain within the team, coupled
+with She-Hulk's temporary retirement and
+
+341
+00:32:09,570 --> 00:32:15,270
+Medusa's departure into space, led to A-Force's
+eventual dissolution, and the remaining members
+
+342
+00:32:15,270 --> 00:32:21,010
+drifted apart. Though A-Force no longer operated
+as a formal team, their legacy remains to this day
+
+343
+00:32:21,010 --> 00:32:25,950
+in comics as a testament to the strength of the deep
+bonds they forged while together. And that's
+
+344
+00:32:25,950 --> 00:32:29,870
+their backstory. For this team duel,
+seven-person roster, I'll be going with some of
+
+345
+00:32:29,870 --> 00:32:33,670
+the primary members of A-Force, along with some of
+the members from the team's start and battle
+
+346
+00:32:33,670 --> 00:32:38,770
+worlds that pairs best with your Birds of Prey
+team. This was pretty easy, since almost every
+
+347
+00:32:38,770 --> 00:32:44,270
+Marvel superhero was part of A-Force at that time.
+To start with, I went with She-Hulk, Captain
+
+348
+00:32:44,270 --> 00:32:50,690
+Marvel, Spider Woman, Jessica Drew, I should say,
+Nico Minoru, and Miss Marvel. All of whom you can
+
+349
+00:32:50,690 --> 00:32:56,370
+learn more about in their own individual duels. I
+should note that since our Miss Marvel duel, the
+
+350
+00:32:56,370 --> 00:33:01,530
+character underwent a slight power upgrade to
+match her abilities in the movies and shows. It was
+
+351
+00:33:01,530 --> 00:33:07,810
+revealed that Kamala Khan was an inhuman who
+underwent pterogenesis prior to the awakening of
+
+352
+00:33:07,810 --> 00:33:13,650
+her mutant gene, which is the power to create
+purple hard-light constructs. Wait, really?
+
+353
+00:33:13,650 --> 00:33:19,810
+Yeah, so she'll be having that power in this duel.
+For the final two spots on the A-Force roster, I
+
+354
+00:33:19,810 --> 00:33:24,430
+went with characters who haven't had their own
+individual duels, but were prominent heroes that
+
+355
+00:33:24,430 --> 00:33:30,010
+paired well with your team. The first one is
+Dazzler, who I'm pairing with your Black Canary.
+
+356
+00:33:30,010 --> 00:33:35,670
+Dazzler is a mutant whose real name is Alice in
+Blair, who has the ability to absorb sound
+
+357
+00:33:35,670 --> 00:33:41,430
+vibrations and convert them into light energy,
+including lasers, strobes, and all kinds of light
+
+358
+00:33:41,430 --> 00:33:47,270
+effects. She's a singing pop star in the books,
+basically the Taylor Swift of comics, and she's
+
+359
+00:33:47,270 --> 00:33:52,390
+famous for using her powers to generate laser
+light shows during her concerts. She's been a part
+
+360
+00:33:52,390 --> 00:33:58,470
+of the X-Men and X-Factor, and was shown in live
+action in the Dark Phoenix movie played by Halston
+
+361
+00:33:58,470 --> 00:34:04,110
+Sage. For the final spot on the A-Force team, I'm
+going with Mockingbird, who I'm pairing against
+
+362
+00:34:04,110 --> 00:34:10,350
+your Huntress. Now Mockingbird is one of Shield's
+top spies and scientists with a skill set similar
+
+363
+00:34:10,350 --> 00:34:16,469
+to Black Widows. She's an expert biochemist and
+martial artist who famously uses two steel alloy
+
+364
+00:34:16,469 --> 00:34:22,310
+battle staves, or billy clubs, that she can screw
+together to extend into a bow staff or vaulting
+
+365
+00:34:22,310 --> 00:34:27,150
+pole. She was a founding member of the West Coast
+Avengers, and she's been depicted a few times in
+
+366
+00:34:27,150 --> 00:34:32,790
+live action, first as Hawkeye's Wife, played by
+Laura Cardellini in the MCU. The character was
+
+367
+00:34:32,790 --> 00:34:37,250
+also played more accurately, and really to
+perfection, in the Agents of Shield television
+
+368
+00:34:37,250 --> 00:34:45,050
+show by Adrian Palakie. So to reiterate, my
+7-person roster for A-Force is She-Hulk, Captain
+
+369
+00:34:45,050 --> 00:34:52,070
+Marvel, Ms. Marvel, Spider Woman, Nico Minoru,
+Dazzler, and Mockingbird. And since we like to
+
+370
+00:34:52,070 --> 00:34:57,110
+create pairings for these team duels in order to
+keep things on an even kill basically and make sure
+
+371
+00:34:57,110 --> 00:35:02,590
+that the matches are fair, the pairings go as
+follows. Captain Marvel and Power Girl, She-Hulk
+
+372
+00:35:02,590 --> 00:35:08,750
+and Hawke Girl, Dazzler and Black Canary, Nico
+Minoru and Batgirl, Mockingbird and Huntress,
+
+373
+00:35:08,750 --> 00:35:14,710
+Ms. Marvel and Vixen, and Spider Woman and Dove.
+Yeah, the Batgirl, Nico pairing kind of throws me,
+
+374
+00:35:14,710 --> 00:35:19,910
+but the rest of them are great, I think. Well, I
+figured what Batgirl lacks in powers she makes up
+
+375
+00:35:19,910 --> 00:35:25,290
+in intelligence, and what Nico lacks in
+experience she makes up in having a really cool
+
+376
+00:35:25,290 --> 00:35:31,370
+power set. Yeah, well, we'll see how it goes. So you
+haven't done duels with Dazzler and Mockingbird.
+
+377
+00:35:31,370 --> 00:35:36,230
+I know about Dazzler, but I didn't know much about
+Mockingbird. It sounds like she's essentially
+
+378
+00:35:36,230 --> 00:35:43,490
+just Black Widow who also uses battle staves. Not
+commonly, though. Like, I know that in Avengers
+
+379
+00:35:43,490 --> 00:35:48,790
+Age of Ultron, the director, Joss Whedon, gave
+Scarlett Johansson's Black Widow these Billy
+
+380
+00:35:48,790 --> 00:35:52,410
+Clubs, and she's really used them in all the
+Avengers movies since then, you know, until
+
+381
+00:35:52,410 --> 00:35:58,410
+Avengers Endgame. I feel like he kind of stole them
+from Mockingbird in order to make Black Widow a
+
+382
+00:35:58,410 --> 00:36:03,870
+more physical threat against characters like
+Ultron. But the Batons, those are typically known
+
+383
+00:36:03,870 --> 00:36:08,710
+to be used by Mockingbird, not Black Widow. I won't
+say that she hasn't used, like, tonfas from time to
+
+384
+00:36:08,710 --> 00:36:14,150
+time, but that's really Mockingbird's signature
+weapon. Okay, well, I can't wait to find out how
+
+385
+00:36:14,150 --> 00:37:09,690
+this turns out. So, here's where we're at. We're at
+the final stage of the game. Now that we've got
+
+386
+00:37:09,690 --> 00:37:13,850
+their histories and abilities out of the way,
+let's speculate on how one of the thousands of
+
+387
+00:37:13,850 --> 00:37:19,670
+simulated matches will go. The winner is
+determined by simulations, not the speculation,
+
+388
+00:37:19,670 --> 00:37:24,670
+but it's fun to imagine how this fight could play
+out. Agent NK, what are the rules of our
+
+389
+00:37:24,670 --> 00:37:50,730
+speculation? Well, I should say there are no
+rules. The teams must earn victory on their own
+
+390
+00:37:50,730 --> 00:37:56,610
+merit. Alright, then let's get into it. Birds of
+Prey and A-Force meet on the battlefield. Who goes
+
+391
+00:37:56,610 --> 00:38:03,790
+first? I think Black Canary would go first. So,
+right away, she's gonna blast all of them with a
+
+392
+00:38:03,790 --> 00:38:10,330
+Canary cry, sending all of them flying backward.
+No, because Dazzler, she's at the front of the team
+
+393
+00:38:10,330 --> 00:38:16,410
+when this happens, and she's gonna absorb the
+entirety of Black Canary's Canary cry. And, like,
+
+394
+00:38:16,410 --> 00:38:22,950
+you just amped Dazzler up to, like, 11. She turns
+all of that sound energy into light energy, and she
+
+395
+00:38:22,950 --> 00:38:28,510
+spins around on her roller skates and, you know,
+strikes a pose, and she's like, let's go, girls!
+
+396
+00:38:28,510 --> 00:38:34,810
+And, like, cue the EDM music, because this fight
+just turned into a dance rave, and A-Force is gonna
+
+397
+00:38:34,810 --> 00:38:40,310
+charge at the Birds of Prey while Dazzler is
+shooting out these laser lights, and these lasers
+
+398
+00:38:40,310 --> 00:38:45,410
+are gonna, like, cut Black Girl's utility belt in
+half, and one of Hawk Girl's wings just gets
+
+399
+00:38:45,410 --> 00:38:52,350
+clipped, and I'm pretty sure that Power Girl is
+bald now. She was given a laser haircut. Okay, I saw
+
+400
+00:38:52,350 --> 00:39:01,090
+this coming. Not the haircut. I mean, Power Girl
+has Kryptonian hair, so... But you're dealing
+
+401
+00:39:01,090 --> 00:39:07,670
+with some of the most agile characters in DC with
+the Birds of Prey team. So they're actually
+
+402
+00:39:07,670 --> 00:39:14,250
+dodging Dazzler's lasers with, like, flips and
+shit, and Black Girl's gonna counter with a smoke
+
+403
+00:39:14,250 --> 00:39:20,270
+pellet, hiding her team, so Dazzler and the rest of
+A-Force can't see where the Birds of Prey are. All
+
+404
+00:39:20,270 --> 00:39:27,130
+they're gonna see is a set of glowing tiger eyes
+just before Vixen leaps out of the smoke with a
+
+405
+00:39:27,130 --> 00:39:34,330
+tiger aura, pouncing on Niko Minoru and just
+slashing her ribbons. Okay, alright, well, okay.
+
+406
+00:39:34,330 --> 00:39:39,770
+Niko gets hurt, but before she gets turned into
+ribbons, that's when She-Hulk leaps in, just
+
+407
+00:39:39,770 --> 00:39:46,790
+straight up grabs Vixen by her waistband and
+throws her into space. Okay. And then Niko casts a
+
+408
+00:39:46,790 --> 00:39:52,270
+healing spell on herself using the Staff of One.
+She's gonna say, like, Medic, and she's good to go.
+
+409
+00:39:52,270 --> 00:39:57,650
+She's back in this fight. Meanwhile, Captain
+Marvel is gonna energize her body to, like, light
+
+410
+00:39:57,650 --> 00:40:02,970
+her way through this smoke screen that Batgirl
+created, and she sees Power Girl, and she's gonna
+
+411
+00:40:02,970 --> 00:40:07,750
+give her one of those good old-fashioned
+energy-powered punches right in her face,
+
+412
+00:40:07,750 --> 00:40:13,170
+sending her reeling backward. Oh, it's Power
+Girl, so yeah, she'll take the punch and then she's
+
+413
+00:40:13,170 --> 00:40:18,330
+gonna give as good as she got right back towards
+Captain Marvel, so they're just gonna start
+
+414
+00:40:18,330 --> 00:40:25,590
+trading blows in the sky, I guess. Okay, alright.
+Speaking of sky, Miss Marvel is gonna stretch,
+
+415
+00:40:25,590 --> 00:40:31,490
+like, 50 feet tall, and with this embigged hand,
+she's just gonna backhand Hawk Girl and swat her
+
+416
+00:40:31,490 --> 00:40:36,610
+out of the sky, sending her crashing into the
+ground. Okay, well, yeah, Hawk Girl probably was
+
+417
+00:40:36,610 --> 00:40:43,630
+in the sky, but her enhanced senses actually
+alerted her to Miss Marvel's attack, so she's just
+
+418
+00:40:43,630 --> 00:40:49,990
+gonna loop right around that giant hand and slam
+Miss Marvel right in the face with her energized
+
+419
+00:40:49,990 --> 00:40:56,290
+mace that's gonna cause her giant body to fall and
+crash into the ground. Alright, Miss Marvel's
+
+420
+00:40:56,290 --> 00:41:02,770
+nose is probably caved in, but she's elastic,
+right? So she's gonna topple down to the ground,
+
+421
+00:41:02,770 --> 00:41:07,710
+she catches her fall by creating a purple
+construct to cushion it, and while she's, like,
+
+422
+00:41:07,710 --> 00:41:12,150
+reforming her nose, healing that up, she's gonna
+throw up another purple energy construct in the
+
+423
+00:41:12,150 --> 00:41:18,190
+air, like a wall that Hawk Girl just flies into,
+like a bird into a window, alright, and it just
+
+424
+00:41:18,190 --> 00:41:23,890
+cracks her neck, probably one of her wings. Jeez.
+Hawk Girl falls to the ground, like, splat, and she
+
+425
+00:41:23,890 --> 00:41:31,690
+is out of this match. What? Dang, okay. Um, I guess
+she's out. Meanwhile, Huntress, she fires a bolt
+
+426
+00:41:31,690 --> 00:41:37,150
+from her crossbow at Mockingbird right through
+her foot, and that's gonna pin Mockingbird right
+
+427
+00:41:37,150 --> 00:41:42,270
+to the ground. No, because Mockingbird knocks
+this crossbow bolt out of the air with one of her
+
+428
+00:41:42,270 --> 00:41:48,190
+battle staves, and then she's gonna screw her
+clubs together to form one long staff that she's
+
+429
+00:41:48,190 --> 00:41:52,870
+gonna use to vault herself over to Huntress and,
+like, leap, snap, kick her right in the back of her
+
+430
+00:41:52,870 --> 00:41:57,650
+head. Yeah, except Huntress blocks
+Mockingbird's kick with her own bow staff, and the
+
+431
+00:41:57,650 --> 00:42:03,070
+two face off using their own staffs. It's like two
+windmills fighting against each other.
+
+432
+00:42:03,070 --> 00:42:08,750
+Eventually, though, Huntress is gonna get in
+close enough to fire a quick crossbow bolt point
+
+433
+00:42:08,750 --> 00:42:14,990
+blank into Mockingbird's chest, eliminating her
+from the match. And now Huntress has two staffs
+
+434
+00:42:14,990 --> 00:42:21,350
+that she can dual-wheel like a badass.
+Dual-wielding two staffs? Like a badass. But I
+
+435
+00:42:21,350 --> 00:42:26,750
+would really love to see what those bow staffs can
+do against someone as durable and strong as Spider
+
+436
+00:42:26,750 --> 00:42:32,690
+Woman, who glides in and she's gonna block
+Huntress' staff attack with just her forearm
+
+437
+00:42:32,690 --> 00:42:37,610
+before backflip kicking Huntress right in the
+chin with enough strength to knock her
+
+438
+00:42:37,610 --> 00:42:42,970
+unconscious, and now Huntress is out of this
+match. So sorry about that fancy dual-wield.
+
+439
+00:42:42,970 --> 00:42:48,370
+Didn't go anywhere. All right, well, I mean, Black
+Canary saw what happened to her friend, so she's
+
+440
+00:42:48,370 --> 00:42:55,130
+gonna blast Spider Woman with a targeted Canary
+cry that's gonna obliterate her eardrums and just
+
+441
+00:42:55,130 --> 00:43:02,270
+disorient her. And then Black Canary's gonna grab
+Spider Woman with this like Sonia Blade-esque
+
+442
+00:43:02,270 --> 00:43:08,350
+forward handspring leg grapple, and she's gonna
+drive Spider Woman's head right into the ground
+
+443
+00:43:08,350 --> 00:43:14,690
+right before she chokes Spider Woman out between
+her fishnet clad thighs. Yeah, all right. I think
+
+444
+00:43:14,690 --> 00:43:19,930
+that is statistically the best way to go out of this
+match, except that Spider Woman doesn't get
+
+445
+00:43:19,930 --> 00:43:26,170
+choked out because she emits these pheromones,
+right, that pacify Black Canary into loosening
+
+446
+00:43:26,170 --> 00:43:32,590
+her grip. And then Spider Woman just venom blasts
+her, stunning her with enough electricity to take
+
+447
+00:43:32,590 --> 00:43:37,810
+her out of the match. Okay, well, Power Girl and
+Captain Marvel, you know, they're probably still
+
+448
+00:43:37,810 --> 00:43:44,350
+brawling above the battlefield. And when Miss
+Marvel tries to intervene to help her mentor,
+
+449
+00:43:44,350 --> 00:43:50,030
+Power Girl freezes her with her super breath and
+then dashes right through Miss Marvel,
+
+450
+00:43:50,030 --> 00:43:55,630
+shattering her into a thousand pieces. She's out.
+Damn, that's a bold move. Like Captain Marvel,
+
+451
+00:43:55,630 --> 00:44:01,430
+she's gonna be shocked by that and enraged and
+she's gonna straight up super sane Kamehameha
+
+452
+00:44:01,430 --> 00:44:06,670
+Power Girl's ass with a blast that's gonna knock
+her down to the ground right into She-Hulk's
+
+453
+00:44:06,670 --> 00:44:12,090
+fists. Okay, that's some A-Force teamwork right
+there. And Captain Marvel and She-Hulk are gonna
+
+454
+00:44:12,090 --> 00:44:17,190
+team up and lay a straight up beatdown on Power
+Girl, knocking her further and further into a
+
+455
+00:44:17,190 --> 00:44:22,290
+crater that gets deeper with each hit and Power
+Girl eventually just goes limp. She can't take any
+
+456
+00:44:22,290 --> 00:44:27,850
+more. She's out. No, dang. All right, well, while
+Captain Marvel and She-Hulk are in the hole,
+
+457
+00:44:27,850 --> 00:44:34,730
+Dove's gonna swoop in and emit her pacifying light
+aura, which is gonna cause She-Hulk to transform
+
+458
+00:44:34,730 --> 00:44:40,630
+back into Jennifer Walters and Captain Marvel
+just, you know, to calm the fuck down. At which
+
+459
+00:44:40,630 --> 00:44:47,250
+point, Batgirl's gonna drop down a bat grenade
+into the crater, which detonates right after Dove
+
+460
+00:44:47,250 --> 00:44:52,510
+flies out of the hole, killing Jennifer. That's
+Bird's a prey teamwork. Yeah, I don't like that
+
+461
+00:44:52,510 --> 00:45:00,090
+teamwork. But, uh, Nico, in retaliation for what
+Batgirl did, she's gonna yell out, Basubius, with
+
+462
+00:45:00,090 --> 00:45:04,690
+her staff of one, which is gonna erupt a little
+mini-volcano from the ground that's beneath
+
+463
+00:45:04,690 --> 00:45:10,450
+Batgirl and it's gonna explode Batgirl up into the
+air and just burn her alive within the fountain of
+
+464
+00:45:10,450 --> 00:45:15,810
+lava. Wait, so there's like lava around the
+environment now? Oh, just a pool of it where the
+
+465
+00:45:15,810 --> 00:45:23,370
+mini-volcano was. Okay. All right, well, Vixen,
+she managed to survive space by summoning the
+
+466
+00:45:23,370 --> 00:45:30,810
+survival abilities of a tardigrade and so she's
+fallen back to Earth after She-Hulk's throw and
+
+467
+00:45:30,810 --> 00:45:38,950
+she's gonna summon the power of a falcon to quickly
+dive right toward Nico and then at the last minute,
+
+468
+00:45:38,950 --> 00:45:47,230
+harness the weight of a whale to land on Nico who
+just splatters everywhere. And meanwhile,
+
+469
+00:45:47,230 --> 00:45:53,630
+Dove's going to blind Spider-Woman with a flash of
+light. So now Spider-Woman's blind and deaf, you
+
+470
+00:45:53,630 --> 00:45:58,850
+know, thanks to Black Canaries attack earlier. So
+Spider-Woman, she's gonna stubble into that pool
+
+471
+00:45:58,850 --> 00:46:06,630
+of lava from the mini-volcano created by Nico and
+just burn to death. Uh, Dazzler then is gonna skate
+
+472
+00:46:06,630 --> 00:46:12,350
+over on her roller skates and we'll say that she
+absorbed the sound of the mini-volcano eruption.
+
+473
+00:46:12,350 --> 00:46:17,370
+So she's juiced, you know, and she fires a light
+beam that just punches the hole straight through
+
+474
+00:46:17,370 --> 00:46:24,370
+Dove's torso and now Dove's out. Now actually,
+Dove has a danger sense. So she's gonna dodge
+
+475
+00:46:24,370 --> 00:46:31,290
+Dazzler's attack and then quickly like slide
+tackle her legs to trip Dazzler on her skates. So
+
+476
+00:46:31,290 --> 00:46:38,510
+Dazzler just topples face first right onto Hawke
+girl's mace and knocks herself out. What? Why are
+
+477
+00:46:38,510 --> 00:46:44,090
+all my guys going out like punk asses? Like, why is
+Dove only getting people to take themselves out?
+
+478
+00:46:44,090 --> 00:46:50,430
+Well, she's a pacifist. Okay. Well, you know who's
+not a pacifist? Captain Marvel and she's had it
+
+479
+00:46:50,430 --> 00:46:56,590
+with Dove's shit. She's gonna swoop in like a comet
+super fast, lift Dove into the sky with her arms
+
+480
+00:46:56,590 --> 00:47:03,410
+above her head and then straight up dive power bomb
+Dove into the ground. She's dead. No, no, Dove has a
+
+481
+00:47:03,410 --> 00:47:09,090
+pacifying aura. Yeah, but Captain Marvel already
+knew that from earlier with She-Hulk. So Captain
+
+482
+00:47:09,090 --> 00:47:15,630
+Marvel acted quickly, like I said, a comet like
+swoop slam. Whatever. Okay. Captain Marvel, you
+
+483
+00:47:15,630 --> 00:47:22,230
+know, she's gonna look around for the final bird of
+prey, which is Vixen. But oh no, looks like she
+
+484
+00:47:22,230 --> 00:47:28,430
+doesn't see her. That's because Vixen is using the
+camouflage powers of a squid to make yourself
+
+485
+00:47:28,430 --> 00:47:34,790
+basically invisible. And when Captain Marvel
+isn't looking, that's when Vixen combines the
+
+486
+00:47:34,790 --> 00:47:39,650
+abilities of a dung beetle, which is really
+strong, like it could lift over 1000 times its
+
+487
+00:47:39,650 --> 00:47:46,990
+weight and a mantis shrimp, which could strike at
+the speed of a bullet to land a killing blow right in
+
+488
+00:47:46,990 --> 00:47:53,590
+the back of Captain Marvel's head. Boom, match
+over. How many animals is Vixen using for this move
+
+489
+00:47:53,590 --> 00:48:01,210
+here? Three. Mantis shrimp and a dung beetle?
+Yeah, it's pretty shitty. Literally. Okay.
+
+490
+00:48:01,210 --> 00:48:06,610
+Captain Marvel feels this little love tap on the
+back of her head and she's gonna turn around like,
+
+491
+00:48:06,610 --> 00:48:13,770
+bitch. And then she's gonna fly and uppercut Vixen
+into Red Mist. That's how the match ends. Love tap.
+
+492
+00:48:13,770 --> 00:48:18,590
+Dude, do not underestimate the power of the mantis
+shrimp. It's called a shrimp for a reason. All
+
+493
+00:48:18,590 --> 00:48:23,890
+right. It's shrimpy. Right. It's not going to hurt
+Captain Marvel proportionately. Yes, the hell it
+
+494
+00:48:23,890 --> 00:48:30,270
+is. Okay. Well, we'll go ahead and leave the match
+there. Either Vixen mantis shrimp dung beetle
+
+495
+00:48:30,270 --> 00:48:37,430
+punches Captain Marvel on the back of the head, or
+Captain Marvel literally just uppercuts Vixen,
+
+496
+00:48:37,430 --> 00:48:41,710
+exploding her into oblivion. Let's go ahead and
+input the stats for these teams, run the
+
+497
+00:48:41,710 --> 00:48:48,490
+simulations and find out which scenario happens.
+Agenenke, hit it. Inputting data, running
+
+498
+00:48:48,490 --> 00:48:55,030
+calculations, processing results, simulations
+complete. All right. Full disclosure, guys. For
+
+499
+00:48:55,030 --> 00:49:00,010
+this particular matchup, a lot of the executive
+producers weren't convinced that the Birds of
+
+500
+00:49:00,010 --> 00:49:05,710
+Prey were going to be powerful enough to go up
+against a force. So at one point, we thought it
+
+501
+00:49:05,710 --> 00:49:12,710
+might work to have Jessica Cruz on the Birds of Prey
+team, which I didn't love because Jessica Cruz has
+
+502
+00:49:12,710 --> 00:49:17,150
+never been a member of the Birds of Prey. But we
+thought it would help balance things out. Yeah.
+
+503
+00:49:17,150 --> 00:49:22,370
+When we ran the stats though, like Green Lanterns
+are so impressive statistically that not only did
+
+504
+00:49:22,370 --> 00:49:27,930
+Jessica Cruz end up being the most powerful member
+out of either of the teams, but she also raised the
+
+505
+00:49:27,930 --> 00:49:33,350
+value of the team to the point where it was unfair.
+Because despite what people may think, Birds of
+
+506
+00:49:33,350 --> 00:49:38,330
+Prey are quite impressive statistically, at
+least when it comes to fighting skill and
+
+507
+00:49:38,330 --> 00:49:43,350
+intelligence and perception. Yeah, they're
+pretty well rounded characters, which was
+
+508
+00:49:43,350 --> 00:49:48,930
+surprising to see. Like you definitely had the
+most powerful character out of either team in
+
+509
+00:49:48,930 --> 00:49:54,030
+Captain Marvel. And for the most part, like your
+characters were way stronger than mine in terms of
+
+510
+00:49:54,030 --> 00:49:57,850
+strength and damage. Yeah, that's definitely
+what my team excelled at, especially with
+
+511
+00:49:57,850 --> 00:50:03,850
+characters like Dazzler and Nico Minoru and Ms.
+Marvel. They were really good in terms of like
+
+512
+00:50:03,850 --> 00:50:10,390
+range and damage potential and not a whole lot
+else. Although because of Ms. Marvel's construct
+
+513
+00:50:10,390 --> 00:50:16,270
+shielding and Dazzler's energy shielding and
+Nico Minoru's magic shields, A-Force did come out
+
+514
+00:50:16,270 --> 00:50:23,110
+slightly ahead in evasiveness. I didn't use
+nearly enough shields in that speculation. But
+
+515
+00:50:23,110 --> 00:50:28,490
+thankfully my team was faster and more
+perceptive. Yeah, in terms of speed, you had Power
+
+516
+00:50:28,490 --> 00:50:34,250
+Girl and Dove who are like really fucking fast.
+Also, Hawk Girl was really fast and so was Vixen.
+
+517
+00:50:34,250 --> 00:50:40,450
+Really the fastest person on my team was Captain
+Marvel and everybody else was just okay in terms of
+
+518
+00:50:40,450 --> 00:50:45,370
+movement speed. When it came to perception, like
+you said, Power Girl has multiple advanced
+
+519
+00:50:45,370 --> 00:50:50,410
+senses. So does Vixen. Dove has her dangerous
+sense. And the ladies in A-Force, you know, you
+
+520
+00:50:50,410 --> 00:50:55,150
+have Spider Woman with her acute hearing and
+Captain Marvel with her cosmic awareness. But
+
+521
+00:50:55,150 --> 00:51:00,130
+everybody else on my team basically just had their
+eyes and ears. Right. So taking all of this into
+
+522
+00:51:00,130 --> 00:51:06,970
+account, Joseph, who do you think came out on top?
+A-Force. Final answer. I think Instagram is
+
+523
+00:51:06,970 --> 00:51:14,990
+backing me up on this one too. They are. I put the
+poll up pretty late, but so far it looks like 62% of
+
+524
+00:51:14,990 --> 00:51:20,250
+our Instagram followers who voted are siding with
+A-Force. But let's see if they actually get the
+
+525
+00:51:20,250 --> 00:51:29,050
+win. NK, the results please. Here you are, sir. The
+winner of the TeamDuel matchup between Birds of
+
+526
+00:51:29,050 --> 00:51:39,950
+Prey and A-Force is Birds of Prey. Bullshit.
+Bullshit. Birds of Prey, motherfucker. Run the
+
+527
+00:51:39,950 --> 00:51:47,390
+stats again. Run them again. We already ran
+thousands. How is that possible? I am as surprised
+
+528
+00:51:47,390 --> 00:51:54,710
+as you are. But it looks like based on these
+results, Birds of Prey wins 51.4% of the matches
+
+529
+00:51:54,710 --> 00:52:04,270
+compared to A-Force who won 48.6. That's really
+close. I still don't buy it. Not going to lie, I did
+
+530
+00:52:04,270 --> 00:52:09,910
+not see this coming. My guys are powerful. Yeah,
+your guys are smarter, but what are they going to
+
+531
+00:52:09,910 --> 00:52:16,090
+do? Just like outsmart my guys? Well, it looks like
+the biggest discrepancy came down to fighting
+
+532
+00:52:16,090 --> 00:52:22,790
+skill. Like, my guys are way better fighters. Some
+of the best fighters in DC with characters like
+
+533
+00:52:22,790 --> 00:52:29,330
+Black Canary. Well, I have Mockingbird on my team.
+And? She's the best fighter on my team. But why do
+
+534
+00:52:29,330 --> 00:52:35,150
+you need fighting skill when you have raw energy
+power? Why do you need raw energy power when you
+
+535
+00:52:35,150 --> 00:52:42,470
+have raw intelligence? Backroll was by far the
+smartest member out of either team. She really
+
+536
+00:52:42,470 --> 00:52:47,930
+leveled up my team in that regard. And actually,
+one of Dove's superpowers is that she has enhanced
+
+537
+00:52:47,930 --> 00:52:53,970
+intelligence. It just makes me think that while
+the final results were close, Birds of Prey were
+
+538
+00:52:53,970 --> 00:53:00,790
+able to execute teamwork, cheap shot tactics over
+the A-Force who isn't quite as cohesive a team,
+
+539
+00:53:00,790 --> 00:53:06,510
+maybe. Yeah, well, I mean, if I had to choose a team
+leader between Batgirl and She-Hulk, it would
+
+540
+00:53:06,510 --> 00:53:12,810
+definitely be Batgirl. She's much more of a
+strategic mind. Well, She-Hulk won a little over
+
+541
+00:53:12,810 --> 00:53:18,770
+half of all of her matches, whereas Batgirl won
+just over a third of her matches. Actually, the
+
+542
+00:53:18,770 --> 00:53:24,190
+person with the highest win rate was Captain
+Marvel, winning a little over 84% of all of her
+
+543
+00:53:24,190 --> 00:53:29,930
+fights, followed by Powergirl, who won 80%. Which
+makes sense, because like I have She-Hulk on my
+
+544
+00:53:29,930 --> 00:53:33,930
+team, Captain Marvel, they'll definitely put up
+more of a fight than some of my other characters.
+
+545
+00:53:33,930 --> 00:53:38,910
+You also had the character with the lowest win
+rate, which was Mockingbird. That's right, she
+
+546
+00:53:38,910 --> 00:53:43,270
+really dragged down my team, for sure. I think
+maybe I should have replaced her with someone
+
+547
+00:53:43,270 --> 00:53:48,130
+else. How am I going to bring a chicken to this fight
+with two metal poles going up against essentially
+
+548
+00:53:48,130 --> 00:53:54,750
+Supergirl? Yeah, the original Supergirl. I don't
+know what to say, man. I eeked this one out, but boy,
+
+549
+00:53:54,750 --> 00:54:01,350
+am I glad I did. Here's to all the Lady DC fans. This
+one's for you. For Women's History Month, DC is
+
+550
+00:54:01,350 --> 00:54:07,590
+going down in history as the winners. It's not
+history in March, man. It's called herstory.
+
+551
+00:54:07,590 --> 00:54:37,230
+Okay? Get it right. That does it for this duel. A.J.
+and N.K. help close us out. Don't forget to listen
+
+552
+00:54:37,230 --> 00:54:41,930
+to the other shows in the Dynamite podcast
+network, including Max Destruction, Senjo
+
+553
+00:54:41,930 --> 00:54:49,990
+World, and Console Combat. In our next episode, we
+will be doing a review. This time of the
+
+554
+00:54:49,990 --> 00:54:56,550
+direct-to-video DC animated film Batman Ninja
+vs. Yakuza League. I cannot wait to see it. I've
+
+555
+00:54:56,550 --> 00:55:01,770
+been looking forward to this for a long time. I
+think it's going to be fun. I hope it sucks, but that
+
+556
+00:55:01,770 --> 00:55:05,170
+does it for this episode. We want to give a big
+thanks to our executive producers, John
+
+557
+00:55:05,170 --> 00:55:10,950
+Strausky, Zachary Hepburn, Mickey Mata-Gian,
+Brandon Essigard, Nathaniel Wagner, Levi Aitin,
+
+558
+00:55:10,950 --> 00:55:17,110
+Austin Wieselowski, A.J. Dunkerly, Nick Abonto,
+Scott Camacho, Gil Camacho, Adam Spees, Dean
+
+559
+00:55:17,110 --> 00:55:23,270
+Moleski, Devin Davis, Joseph Kirsting, Josh
+Leiner, Mike Williams, and Oscar Galvez for
+
+560
+00:55:23,270 --> 00:55:29,290
+helping make this podcast possible. We'll talk to
+you guys next week. Up up and away. True believers.
+
+561
+00:55:29,290 --> 00:55:29,930
+I love women's.
