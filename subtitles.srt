@@ -1,0 +1,2259 @@
+1
+00:00:00,000 --> 00:00:28,080
+This is a DynaMic Network Podcast. Hi, welcome to
+the Dynamic Duel Podcast, a weekly show where we
+
+2
+00:00:28,080 --> 00:00:32,860
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:32,860 --> 00:00:38,220
+their characters in stat-based battle
+simulations. I'm Johnny DC. And I'm his twin
+
+4
+00:00:38,220 --> 00:00:45,340
+brother Marvelous Joe, holy shit. And as you can
+tell from the sound of Joseph's voice, he is very
+
+5
+00:00:45,340 --> 00:00:51,540
+sick, so he will be doing as little talking as
+possible this episode, being a dual episode
+
+6
+00:00:51,540 --> 00:00:58,140
+between Blue Beetle, the Ted Kord incarnation,
+and Prowler, the Spider-Man villain. He's mostly
+
+7
+00:00:58,140 --> 00:01:02,520
+an ally. Well that's news to me. I thought he was a
+bad guy. Interesting. Alright, well we're gonna
+
+8
+00:01:02,520 --> 00:01:08,120
+find out more about him later on in this episode.
+Before that, we are not going to break down any
+
+9
+00:01:08,120 --> 00:01:13,500
+comic book movie news from the past week because
+there hasn't been any really some behind-the-set
+
+10
+00:01:13,500 --> 00:01:20,140
+photos, but I don't know if things are made with AI
+nowadays. So until it's confirmed by the studio,
+
+11
+00:01:20,140 --> 00:01:25,220
+I'm just going to assume everything is fake.
+Fucking crickets. This is what happens when
+
+12
+00:01:25,220 --> 00:01:32,980
+Joseph can't speak. I have no one to laugh at my
+jokes. Jokes suck, bro. Your voice sucks, bro. As
+
+13
+00:01:32,980 --> 00:01:36,740
+always, we list our segment times in our episode
+description, so feel free to check out the show
+
+14
+00:01:36,740 --> 00:01:41,580
+notes if you want to skip ahead to a particular
+topic. Our artificially intelligent dual
+
+15
+00:01:41,580 --> 00:01:49,620
+simulator AJ9K has a quick message for our
+listeners, so listen up. Why hello there. Do you
+
+16
+00:01:49,620 --> 00:01:54,160
+want even more from this podcast? Then become a
+part of the dynamic dual community on Patreon
+
+17
+00:01:54,160 --> 00:01:59,400
+where you can choose from three tiers. The dynamic
+2.0 tier gives you access to our Discord chat
+
+18
+00:01:59,400 --> 00:02:04,660
+server, the fantastic 4.0 tier gives you two bonus
+episodes each month, and the X-Force tier makes
+
+19
+00:02:04,660 --> 00:02:10,520
+you an executive producer of this show. Lastly,
+the Dynamite podcast network tier lets you create
+
+20
+00:02:10,520 --> 00:02:14,720
+your own podcast using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+21
+00:02:14,720 --> 00:02:19,680
+your show, provide graphic support and
+consultation, and get you simulation results.
+
+22
+00:02:19,680 --> 00:02:25,320
+Pitch the twins your ideas via email at
+dynamicdualpodcast.com. Check it out at
+
+23
+00:02:25,320 --> 00:02:34,700
+patreon.com. Thanks AJ9K and thanks to everyone
+who supports the podcast. Guys be sure to tune into
+
+24
+00:02:34,700 --> 00:02:40,080
+the other shows in the Dynamite podcast network
+this week, including the console combat podcast,
+
+25
+00:02:40,080 --> 00:02:44,480
+where hosts John and Dean simulate battles
+between popular video game characters. In
+
+26
+00:02:44,480 --> 00:02:50,140
+yesterday's episode, they speculated on who
+would win in a dogfight between Fox McLeod from
+
+27
+00:02:50,140 --> 00:02:56,860
+Star Fox piloting his R-Wing against Wedge and
+Tilly's from Star Wars Rogue Squadron piloting
+
+28
+00:02:56,860 --> 00:03:02,480
+his X-Wing. Over on the Max Destruction podcast,
+hosts Scotty and Gilly pay your favor action
+
+29
+00:03:02,480 --> 00:03:07,580
+heroes from film and television against each
+other. This Wednesday, the twins are reviewing
+
+30
+00:03:07,580 --> 00:03:14,880
+the 1988 film Bloodsport. And finally on the Sanjo
+World podcast, hosts Zachary Hepburn speculates
+
+31
+00:03:14,880 --> 00:03:20,700
+on fights between fan favorite anime and manga
+characters. On Thursday, Zach is going to reveal
+
+32
+00:03:20,700 --> 00:03:28,800
+who would win between Yaroichi Shihou-Yin from
+Bleach versus Kizaru from One Piece. Visit
+
+33
+00:03:28,800 --> 00:03:35,220
+dynamicpodcasts.com or click the link in our show
+notes to listen to all of the shows in the Dynamite
+
+34
+00:03:35,220 --> 00:03:42,980
+podcast network. But with that out of the way?
+Quick to the no prize! A no prize is an award that
+
+35
+00:03:42,980 --> 00:03:48,360
+Marvel used to give out to fans. Our version, the
+Dynamic Dual No Prize, is a digital award that we
+
+36
+00:03:48,360 --> 00:03:54,180
+post on Instagram for the person we feel gave the
+best answer to our question of the week. Last week,
+
+37
+00:03:54,180 --> 00:04:00,800
+we asked, what do you think of Crypto the Superdog
+from the Superman sneak peek? And of course, this
+
+38
+00:04:00,800 --> 00:04:06,000
+question was in regards to the extended trailer
+that we received for the Superman film that came
+
+39
+00:04:06,000 --> 00:04:12,140
+out of CinemaCon. We got four answers, so let's
+break down this week's three honorable mentions
+
+40
+00:04:12,140 --> 00:04:18,600
+before revealing the no prize winner. Our first
+honorable mention goes to Christopher Minotti,
+
+41
+00:04:18,600 --> 00:04:23,600
+who said, Hi guys, Christopher Minotti. So
+Crypto, he's a little fluffier than I was
+
+42
+00:04:23,600 --> 00:04:29,020
+expecting, but I'm still hoping that they do a good
+job with him. I get that he's supposed to be the cute
+
+43
+00:04:29,020 --> 00:04:34,320
+character, the lighthearted, well not
+lighthearted, he's a dog, so of course. But I'm
+
+44
+00:04:34,320 --> 00:04:39,260
+still hoping that they do a good job with him, and
+I'm hoping that they have a cool scene with him. The
+
+45
+00:04:39,260 --> 00:04:44,620
+first time I realized Crypto was cool was in
+Blackest Night, when he saved Martha Kent by
+
+46
+00:04:44,620 --> 00:04:49,380
+ripping up Black Lantern's arm off and then
+blasting it with Heat Vision. Yeah, and the comics
+
+47
+00:04:49,380 --> 00:04:56,500
+Crypto is no joke. He is fiercely loyal and doesn't
+have the same morality that someone say like
+
+48
+00:04:56,500 --> 00:05:03,120
+Superman has. So he's actually fairly dangerous.
+This version of the dog is very fluffy, you know,
+
+49
+00:05:03,120 --> 00:05:08,600
+usually he's depicted as a Labrador of some sorts,
+but here he looks very much like almost like a
+
+50
+00:05:08,600 --> 00:05:13,960
+poodle terrier mutt kind of dog. So they're
+definitely trying to play up the cute factor with
+
+51
+00:05:13,960 --> 00:05:21,820
+him, which is all right. I guess the cuter the dog
+is, the more audiences will be happy with it, but
+
+52
+00:05:21,820 --> 00:05:28,520
+we'll see how it goes. As I said in the last episode,
+I have full confidence in James Gunn's writing,
+
+53
+00:05:28,520 --> 00:05:32,360
+especially when it comes to animal characters,
+you take a look at Rocker at Coon or something like
+
+54
+00:05:32,360 --> 00:05:38,780
+that. So I think things should be fine. Didn't
+Crypto almost kill Mongol? Yeah, actually he
+
+55
+00:05:38,780 --> 00:05:43,040
+straight up bit his throat nearly killing him.
+Great answer Christopher, our next honorable
+
+56
+00:05:43,040 --> 00:05:51,360
+mention goes to Lee Tapscott, who said, What do I
+think about Crypto in the Superman trailer? Man, I
+
+57
+00:05:51,360 --> 00:05:57,820
+love this. I think dogs can really sense if a
+person's good or bad. And Crypto just you can just
+
+58
+00:05:57,820 --> 00:06:06,840
+tell he loves Superman. Superman is so good to him.
+This makes me care about him so much in the energy.
+
+59
+00:06:06,840 --> 00:06:12,400
+And when it comes push to shove, he knows exactly
+what his master needs, takes him right to the help
+
+60
+00:06:12,400 --> 00:06:18,220
+opens up that door. Smart dog. Yeah, like we
+mentioned in the last episode, people are kind of
+
+61
+00:06:18,220 --> 00:06:24,580
+trashing Crypto's intelligence, but I kind of see
+it as him being well trained to an extent, right?
+
+62
+00:06:24,580 --> 00:06:28,640
+He's really happy to see his owner. So he's jumping
+on his owner. But once he realizes something is
+
+63
+00:06:28,640 --> 00:06:34,100
+wrong, he listens to him and takes him straight to
+the fortress of solitude. One of the secret
+
+64
+00:06:34,100 --> 00:06:39,620
+shortcuts of getting a character to be likable in
+film is to give them a dog character and have them be
+
+65
+00:06:39,620 --> 00:06:44,700
+nice to a dog. I've brought this up before. I don't
+know if this is what James Gunn is trying to do with
+
+66
+00:06:44,700 --> 00:06:49,200
+Superman, just to make him more endearing to
+audiences who may not necessarily care for the
+
+67
+00:06:49,200 --> 00:06:53,900
+character. But if he plays his cards right, story
+wise, I think he could totally pull that off
+
+68
+00:06:53,900 --> 00:06:59,320
+between the characters of Crypto and Superman.
+Because dogs, like Lee Tapscott said, are
+
+69
+00:06:59,320 --> 00:07:04,020
+naturally intuitive. And if you like Superman,
+general audiences will gather that, oh, this is a
+
+70
+00:07:04,020 --> 00:07:10,280
+trustworthy character. Great answer, Lee. Our
+final honorable mention goes to Peter, who said,
+
+71
+00:07:10,280 --> 00:07:16,280
+what's up, dynamic dudes? It's Peter. My thoughts
+on Crypto was, I thought it was really funny,
+
+72
+00:07:16,280 --> 00:07:22,520
+honestly. Like when I first saw the trailer, I
+laughed audibly, thinking that's a cute dog.
+
+73
+00:07:22,520 --> 00:07:28,300
+That's something that my dog would do if I had one,
+which I don't. But if I did, he would act like that.
+
+74
+00:07:28,300 --> 00:07:33,660
+And especially since they're training him, I
+think it'd be a fun part to the movie. So that's what
+
+75
+00:07:33,660 --> 00:07:40,540
+I got to say. Thanks, guys. Peter Yeah. So every dog
+I've had, I've rescued from an animal shelter. And
+
+76
+00:07:40,540 --> 00:07:46,500
+they're not the best trained of dogs. When I come
+home, my dog, Olive, is still super excited. She's
+
+77
+00:07:46,500 --> 00:07:51,600
+a little white chihuahua, and you know, she'll hop
+on me. It doesn't bother me because she's so small.
+
+78
+00:07:51,600 --> 00:07:57,820
+I'm sure if she was the size of Crypto, I would be
+more irritated by it. But yeah, I totally related
+
+79
+00:07:57,820 --> 00:08:04,000
+to Crypto jumping on Superman in this extended
+trailer. Again, I didn't love it initially. But
+
+80
+00:08:04,000 --> 00:08:09,620
+once I realized, oh, hey, yeah, this reminds me of
+my dog, it became much easier to understand what
+
+81
+00:08:09,620 --> 00:08:15,980
+James Gunn was trying to do with this dog, because
+he said before that Crypto was inspired by his dog
+
+82
+00:08:15,980 --> 00:08:22,040
+that he rescued, who's not necessarily well
+behaved. And so for him to put that into the movie is
+
+83
+00:08:22,040 --> 00:08:27,460
+a slice of life of sorts. And it's definitely one
+that I recognized for my own life. And I think a lot
+
+84
+00:08:27,460 --> 00:08:33,480
+of people might have an 80 pound German shepherd
+mix named Bucky. And I got to say if he did to me, what
+
+85
+00:08:33,480 --> 00:08:38,299
+Crypto did to Superman, I'd be pissed. I don't
+know, but there's also something to be said for a
+
+86
+00:08:38,299 --> 00:08:43,620
+big lovable dog that loves you unconditionally
+and just wants to give you a big hug and kiss when you
+
+87
+00:08:43,620 --> 00:08:49,140
+come home. That's true. I love my dog. Great
+answer, Peter. The winner of this week's no prize,
+
+88
+00:08:49,140 --> 00:08:55,360
+however, is Travis Herndon. Who said? What's up,
+Jeremy? Dude's Travis here. Shout out to my even
+
+89
+00:08:55,360 --> 00:09:00,360
+twin. So my answer is I like Crypto and honestly, he
+doesn't deserve to hate him. Yes, especially from
+
+90
+00:09:00,360 --> 00:09:06,360
+a certain YouTuber saying that like, well, my dog,
+he ain't dog, he's stuff though, whimpered and
+
+91
+00:09:06,360 --> 00:09:11,740
+whined when I pretend to be hurting stuff. And to
+that, Crypto is based off of James Gunn's own dog
+
+92
+00:09:11,740 --> 00:09:18,800
+who was a rowdy, rambunctious puppy. So I mean, it
+wouldn't make sense why he would be acting like
+
+93
+00:09:18,800 --> 00:09:24,960
+that. It's based off his own dog. Yeah, I'm not sure
+which YouTuber Travis is referring to. But like
+
+94
+00:09:24,960 --> 00:09:31,220
+I've said, the inclusion of Crypto was inspired by
+James Gunn's own dog, who he rescued from a
+
+95
+00:09:31,220 --> 00:09:36,960
+shelter. And you just got to admire that, you know,
+taking a dog that could have been put down and
+
+96
+00:09:36,960 --> 00:09:42,720
+giving it a new home, giving it a loving family,
+whether it's behaved or not, you know, it still
+
+97
+00:09:42,720 --> 00:09:50,320
+deserves to have the love of James Gunn and his
+family. For him to include the character of his dog
+
+98
+00:09:50,320 --> 00:09:56,500
+in the movie, I think is pretty awesome
+personally. And I have to say, I'm pretty happy
+
+99
+00:09:56,500 --> 00:10:03,000
+that everyone who called in seemed to enjoy Crypto
+because I was worried that a lot of people weren't,
+
+100
+00:10:03,000 --> 00:10:08,260
+you know, the internet could be a pretty negative
+place sometimes. But shout out to all of our
+
+101
+00:10:08,260 --> 00:10:12,740
+listeners, especially the ones who have just
+called in who like Crypto. I think he's going to be a
+
+102
+00:10:12,740 --> 00:10:18,780
+fun addition to the Superman film that comes out
+this July. Yeah, don't be a cynical asshole on the
+
+103
+00:10:18,780 --> 00:10:25,680
+internet like dogs, right? Yeah, what are you,
+some kind of dog hater? YouTube guy. Yeah, whoever
+
+104
+00:10:25,680 --> 00:10:30,860
+you are. Great answer, Travis. You win the Speak to
+No Prize. If you're the listener want to shout at
+
+105
+00:10:30,860 --> 00:10:35,420
+winning your own no prize, stay tuned to later on in
+this episode when we'll be asking another
+
+106
+00:10:35,420 --> 00:10:45,340
+question of the week. Another that's done. On to
+the question of the week. So as we mentioned,
+
+107
+00:10:45,340 --> 00:10:54,160
+there's no big comic book movie news from this past
+week. So we're going to ask, but we want to know
+
+108
+00:10:54,160 --> 00:11:01,100
+what's your favorite Marvel or DC comic that
+you're reading right now and why it's really hard
+
+109
+00:11:01,100 --> 00:11:06,800
+for me to stay up to date with current comics. I feel
+like all of the comics I read are just to do research
+
+110
+00:11:06,800 --> 00:11:12,700
+for this show. And I'm very curious to see what
+current comics you guys are reading that you just
+
+111
+00:11:12,700 --> 00:11:17,680
+love right now. Pick your number one favorite and
+record your answer at dynamic dual.com by
+
+112
+00:11:17,680 --> 00:11:21,720
+clicking on the red microphone button in the
+bottom right hand corner of the screen, which will
+
+113
+00:11:21,720 --> 00:11:26,560
+prompt you to leave us a voicemail. Your message
+could be up to 30 seconds long. And don't forget to
+
+114
+00:11:26,560 --> 00:11:31,080
+leave your name in case we include you on the
+podcast. We'll pick our favorite answer and award
+
+115
+00:11:31,080 --> 00:11:38,040
+that person a dynamic dual no prize that we'll post
+to Instagram. Be sure to answer before April 16th.
+
+116
+00:11:38,040 --> 00:11:42,860
+We're recording our next episode a little bit
+early because of the Easter weekend. So make sure
+
+117
+00:11:42,860 --> 00:11:56,920
+to get your answer in early. DC high volume Batman,
+the Dark Knight's definitive DC comic stories
+
+118
+00:11:56,920 --> 00:12:06,000
+adapted directly for audio for the very first
+time. Fear. I have to make them afraid. He's got a
+
+119
+00:12:06,000 --> 00:12:13,940
+motorcycle. Get after him or have you shot? You
+mean blow up the building from this moment on. None
+
+120
+00:12:13,940 --> 00:12:22,280
+of your safe new episodes every Wednesday,
+wherever you get your podcasts. But now it's time
+
+121
+00:12:22,280 --> 00:12:28,440
+to get onto the main events of this episode, where
+we find out who would win in a battle between Ted
+
+122
+00:12:28,440 --> 00:12:50,160
+court, the blue beetle and prowler. All right,
+blue beetle versus prowler. Of course, this is the
+
+123
+00:12:50,160 --> 00:12:57,480
+Ted cord version of blue beetle. And the fact that
+we've waited until year. What is this 10 to get to
+
+124
+00:12:57,480 --> 00:13:04,660
+Ted cord is a travesty of justice. It is wrong, but
+we're going to make it right here today. Because
+
+125
+00:13:04,660 --> 00:13:13,740
+Ted cord is a solid B Lister, if not a Lister of the DC
+Comics Pantheon, I would say. Prowler. Not so
+
+126
+00:13:13,740 --> 00:13:19,320
+much. He's like a C level Spider-Man villain or I
+guess a parent ally. I don't know much about him. I
+
+127
+00:13:19,320 --> 00:13:24,400
+do know that both of these characters are very tech
+based. And I think that's why the executive
+
+128
+00:13:24,400 --> 00:13:29,240
+producers wanted to put them together. I do
+remember the parlor from the 90s Spider-Man
+
+129
+00:13:29,240 --> 00:13:34,400
+television series, the cartoon. But of course, he
+was also famously in the into the spider verse
+
+130
+00:13:34,400 --> 00:13:40,220
+film, as well as beyond the spider verse, although
+that version was Miles Morales spoiler alert.
+
+131
+00:13:40,220 --> 00:13:44,620
+Yeah, there have been two prominent prowler
+characters in the comics over the years. You sound
+
+132
+00:13:44,620 --> 00:13:51,880
+like RFK Junior, man. Okay. And one of them
+obviously is Miles Morales is uncle. Correct.
+
+133
+00:13:51,880 --> 00:13:56,980
+Okay. Now, outside of the cartoons, blue beetle
+hasn't had too many appearances in the media. He
+
+134
+00:13:56,980 --> 00:14:02,240
+was referenced in the live action blue beetle
+movie, but we never actually got to see him.
+
+135
+00:14:02,240 --> 00:14:07,220
+Fingers crossed he appears in an eventual sequel.
+We're going to learn more about blue beetle and
+
+136
+00:14:07,220 --> 00:14:12,400
+Prowler here soon. But to explain the methodology
+behind our duels, let's go to our sentient dual
+
+137
+00:14:12,400 --> 00:14:19,080
+simulator, Alfred Jarvis 9000. AJ and NK tell our
+listeners how you go about determining a winner in
+
+138
+00:14:19,080 --> 00:14:24,760
+our dual matchups. Yes, of course, sir. The way I
+determine a winner between the contestants is by
+
+139
+00:14:24,760 --> 00:14:30,200
+running 1000 Monte Carlo simulations using the
+characters statistics. A Monte Carlo simulation
+
+140
+00:14:30,200 --> 00:14:35,740
+is a probabilistic model used to determine
+outcomes through random sampling. In this case, I
+
+141
+00:14:35,740 --> 00:14:39,920
+randomize the statistics along a normal
+distribution as a way to simulate the many
+
+142
+00:14:39,920 --> 00:14:44,840
+variables that can occur during battle. The stat
+parameters are based on the official Marvel power
+
+143
+00:14:44,840 --> 00:14:50,140
+grid from which the DC characters statistics are
+extrapolated. Additional stat categories are
+
+144
+00:14:50,140 --> 00:14:55,620
+included such as range, damage potential,
+versatility and perception in order to create a
+
+145
+00:14:55,620 --> 00:15:00,640
+more detailed and accurate simulation. The
+results of the 1000 simulations provide a
+
+146
+00:15:00,640 --> 00:15:04,560
+percentage of wins for each character. The
+contestant with the higher percentage is
+
+147
+00:15:04,560 --> 00:15:09,400
+declared the victor as they have a higher
+probability to win any given battle. In an
+
+148
+00:15:09,400 --> 00:15:14,820
+equitable pairing, neither character should win
+100% of the matches. The comic book stories have
+
+149
+00:15:14,820 --> 00:15:19,680
+shown that there's even a way for Batman to defeat
+Superman, so the confidence rate of my method
+
+150
+00:15:19,680 --> 00:15:23,740
+falls in line with the precedents that have been
+established in the source material. My
+
+151
+00:15:23,740 --> 00:15:28,200
+mathematical simulations are without
+subjectivity or bias. Feats are not the sole
+
+152
+00:15:28,200 --> 00:15:34,720
+consideration, nor are fan votes tabulated for
+determination of the winner. Thanks, AJ9K.
+
+153
+00:15:34,720 --> 00:15:38,340
+Before we run the simulations, though, we like to
+break down each character's histories and
+
+154
+00:15:38,340 --> 00:15:44,380
+abilities before improvising a scenario on how we
+imagine one of the 1000 simulations would play out
+
+155
+00:15:44,380 --> 00:15:51,000
+beat for beat. I believe it's your turn to go first,
+Joseph, but since you're freaking dying, I will
+
+156
+00:15:51,000 --> 00:15:59,600
+read all about the prowler. Born in the Bronx as the
+youngest of nine children, Hobart Hobie Brown
+
+157
+00:15:59,600 --> 00:16:06,640
+showed an early talent as an inventor but faced a
+difficult upbringing. His father, Tiger Brown,
+
+158
+00:16:06,640 --> 00:16:12,860
+left the family when Hobie was a baby and later died
+during military service in Cambodia. His mother,
+
+159
+00:16:12,860 --> 00:16:17,860
+overwhelmed by their responsibility, became an
+alcoholic, leaving Hobie and his siblings to
+
+160
+00:16:17,860 --> 00:16:23,680
+raise themselves. After high school, Hobie
+became a window washer to support himself despite
+
+161
+00:16:23,680 --> 00:16:29,280
+his engineering skills. During a job, he was
+nearly killed in a battle between Stiltman and
+
+162
+00:16:29,280 --> 00:16:35,220
+Spider-Man. Inspired to make his window washing
+job safer, Hobie designed pneumatic safety
+
+163
+00:16:35,220 --> 00:16:40,900
+equipment, including air pressure boots to
+counter high winds, wrist-mounted sprayers, and
+
+164
+00:16:40,900 --> 00:16:45,320
+a safety grappling system. You can learn more
+about Spider-Man and his duel against Blue
+
+165
+00:16:45,320 --> 00:16:50,820
+Beetle, Jaime Reyes, and more about Stiltman and
+his duel against Kite Man. Hobie's inventive
+
+166
+00:16:50,820 --> 00:16:57,420
+ideas were rejected by his employer, who had only
+hired him to meet a racial quota. After quitting,
+
+167
+00:16:57,420 --> 00:17:03,320
+Hobie decided to adopt the costumed identity of
+the prowler, planning to a robbery and return the
+
+168
+00:17:03,320 --> 00:17:07,740
+stolen goods to gain publicity for his
+inventions. Targeting the Daily Bugle's
+
+169
+00:17:07,740 --> 00:17:13,839
+payroll, he encountered Peter Parker during the
+heist. In order to change into Spider-Man, Peter
+
+170
+00:17:13,839 --> 00:17:18,680
+faked being thrown out of a window, causing J.
+Jonah Jameson to believe the prowler had
+
+171
+00:17:18,680 --> 00:17:24,579
+committed murder. Spider-Man subdued Hobie, but
+realizing his intent was not malicious, let him go
+
+172
+00:17:24,579 --> 00:17:29,460
+with advice to change his path. Hobie took the
+message to heart and abandoned his criminal
+
+173
+00:17:29,460 --> 00:17:35,820
+plans. Hobie soon impersonated Spider-Man at
+Peter's request to help protect his identity,
+
+174
+00:17:35,820 --> 00:17:40,800
+wearing the costume in front of Peter's friends
+while Peter pretended to be ill. Believing
+
+175
+00:17:40,800 --> 00:17:46,020
+Spider-Man was responsible for the death of
+Captain George Stacey, Hobie tried to bring him to
+
+176
+00:17:46,020 --> 00:17:51,380
+justice but failed. Hobie later married his
+longtime girlfriend, Mindy, and worked in
+
+177
+00:17:51,380 --> 00:17:57,500
+construction. Through the Big Brother program,
+he met her young man named Manny Lopez, who was
+
+178
+00:17:57,500 --> 00:18:03,080
+later killed in a gang incident. Believing Hector
+Ayala, the White Tiger, was responsible, Hobie
+
+179
+00:18:03,080 --> 00:18:07,520
+fought him until realizing his mistake. While
+trying to join the superhero team of the
+
+180
+00:18:07,520 --> 00:18:13,440
+defenders, Hobie was thrown into the harbor by
+Valkyrie and chose to retire from heroics.
+
+181
+00:18:13,440 --> 00:18:19,020
+However, his prowler equipment was stolen and
+used by a second prowler to commit a murder.
+
+182
+00:18:19,020 --> 00:18:24,740
+Spider-Man recovered the gear and persuaded
+Hobie to stay uninvolved. Hobie later resumed the
+
+183
+00:18:24,740 --> 00:18:30,720
+prowler identity to help clear Mindy's name after
+she was framed for financial fraud. He retrieved
+
+184
+00:18:30,720 --> 00:18:36,540
+the evidence from a cellist targeted by the Black
+Fox and worked with Spider-Man to clear her name.
+
+185
+00:18:36,540 --> 00:18:40,920
+When Spider-Man was framed for robbing a
+millionaire, Hobie teamed up with several allies
+
+186
+00:18:40,920 --> 00:18:46,400
+including Puma, Rocket Racer, and Sandman.
+Silver Sable, a mercenary from the Eastern
+
+187
+00:18:46,400 --> 00:18:52,800
+European nation of Simcaria, offered the group
+further work. Hobie joined Silver Sable's
+
+188
+00:18:52,800 --> 00:18:57,080
+mercenary team called the Outlaws and
+participated in missions across North America
+
+189
+00:18:57,080 --> 00:19:03,780
+and England, once battling Excalibur and
+uncovering a rogue Arnim Zola construct. At the
+
+190
+00:19:03,780 --> 00:19:09,380
+time, he trained with his brother Abraham Abe
+Brown, who was a martial artist and former wielder
+
+191
+00:19:09,380 --> 00:19:14,860
+of White Tiger's Jade Amulets as a member of the
+Sons of the Tiger. You can learn more about Silver
+
+192
+00:19:14,860 --> 00:19:20,760
+Sable and White Tiger in their respective duels
+against Vigilante and Bronze Tiger. Hobie teamed
+
+193
+00:19:20,760 --> 00:19:26,460
+up with his brother Abe to fight street crime, but
+was temporarily injured battling Killer Shrike.
+
+194
+00:19:26,460 --> 00:19:30,640
+Though Hobie's wife Mindy left him after
+discovering his identity, she returned when he
+
+195
+00:19:30,640 --> 00:19:36,380
+was paralyzed in a fall caused by the villain Black
+Bull. While recovering, his gear was stolen
+
+196
+00:19:36,380 --> 00:19:41,980
+again, this time by a criminal named Rick Lawson,
+who posed as the prowler until being hospitalized
+
+197
+00:19:41,980 --> 00:19:47,660
+by the vulture. Regaining mobility, Hobie
+resumed the prowler role and aided Spider-Man
+
+198
+00:19:47,660 --> 00:19:53,020
+during a building fire. He provided Spider-Man
+with a jet pack used during a period when Peter
+
+199
+00:19:53,020 --> 00:19:57,900
+adopted the Hornet persona. Hobie was arrested
+during the Superhuman Registration Act
+
+200
+00:19:57,900 --> 00:20:03,320
+conflict, but escaped with the help of Captain
+America's secret Avengers. Peter Parker later
+
+201
+00:20:03,320 --> 00:20:09,360
+hired Hobie to impersonate Spider-Man again to
+maintain his cover. Hobie then infiltrated new U
+
+202
+00:20:09,360 --> 00:20:13,740
+technologies for Parker Industries and
+discovered an experiment involving the villain
+
+203
+00:20:13,740 --> 00:20:19,160
+Electro, who severely injured him. He was placed
+in stasis by the genetic mastermind known as the
+
+204
+00:20:19,160 --> 00:20:24,200
+Jackal and it was cloned. The clone served the
+Jackal, while the real Hobie remained
+
+205
+00:20:24,200 --> 00:20:28,840
+unconscious in cryosleep. After being
+recovered, Hobie ended his alliance with
+
+206
+00:20:28,840 --> 00:20:34,960
+Spider-Man and was hired by Tony Stark to lead a
+crowdfunding firm. When the symbiote god Null
+
+207
+00:20:34,960 --> 00:20:40,980
+invaded Earth, Hobie adopted the identity of
+Hornet and used hacked Stark Tech to repel the
+
+208
+00:20:40,980 --> 00:20:47,100
+symbiotes. Later, during a gang war conflict,
+Hobie lent a prowler suit to a man named Aaron Davis
+
+209
+00:20:47,100 --> 00:20:53,300
+to investigate the villain Hobgoblin. Hobie
+warned Davis that he misused the prowler suit, he
+
+210
+00:20:53,300 --> 00:20:58,140
+would take it back and reclaim the identity. Aaron
+Davis was a former career criminal from an
+
+211
+00:20:58,140 --> 00:21:04,820
+alternate universe called Earth 1610, Marvel's
+ultimate universe. There, Aaron was the brother
+
+212
+00:21:04,820 --> 00:21:10,580
+of Jefferson Davis, the father of Miles Morales.
+While Jefferson reformed as a criminal and became
+
+213
+00:21:10,580 --> 00:21:16,500
+a police officer after marrying Rio Morales,
+Aaron continued his criminal life, using stolen
+
+214
+00:21:16,500 --> 00:21:23,080
+tech to become the prowler. At one point, he broke
+into an abandoned Oz Corp facility and knowingly
+
+215
+00:21:23,080 --> 00:21:28,560
+took a genetically altered spider with him. The
+spider later bit his nephew Miles Morales, giving
+
+216
+00:21:28,560 --> 00:21:33,440
+him spider powers and making him the new
+Spider-Man. Though Jefferson disapproved of
+
+217
+00:21:33,440 --> 00:21:38,040
+Aaron's influence, Miles maintained a close
+relationship with his uncle. You can learn more
+
+218
+00:21:38,040 --> 00:21:43,580
+about Miles Morales Spider-Man and his duel
+against Batwing. Aaron traveled to Mexico City to
+
+219
+00:21:43,580 --> 00:21:49,160
+confront a rival criminal known as the Scorpion,
+but was arrested and returned to New York. He
+
+220
+00:21:49,160 --> 00:21:54,580
+attempted to manipulate Miles and to help him
+eliminate the Scorpion, but Miles refused. In a
+
+221
+00:21:54,580 --> 00:21:59,680
+final confrontation, Aaron's gauntlets
+exploded, killing him. Before dying, he
+
+222
+00:21:59,680 --> 00:22:05,680
+cryptically claimed that Miles was just like him.
+After the universal incursions that led to the
+
+223
+00:22:05,680 --> 00:22:10,160
+collapse and the eventual rebirth of the
+multiverse, Aaron was restored to life in
+
+224
+00:22:10,160 --> 00:22:16,540
+Morales' primary 616 timeline with no memory of
+his death. He purchased an iron spider suit off the
+
+225
+00:22:16,540 --> 00:22:22,620
+black market and helped form a new Sinister 6
+alongside bombshell, electro, hobgoblin,
+
+226
+00:22:22,620 --> 00:22:29,000
+sandman, and the spot stealing a decommissioned
+shield helicarrier. Miles, who was also brought
+
+227
+00:22:29,000 --> 00:22:34,100
+into the main Marvel timeline, confronted his
+uncle. And though the Sinister 6 succeeded in
+
+228
+00:22:34,100 --> 00:22:39,360
+their heist, Aaron appeared to die during the
+ensuing battle, though he was merely injured.
+
+229
+00:22:39,360 --> 00:22:48,440
+Influenced by his nephew, Aaron began distancing
+A villain who can learn more about his duel against
+
+230
+00:22:48,440 --> 00:22:53,540
+Blockbuster. When Miles was kidnapped by the
+villain Assessor, Aaron sought help from his
+
+231
+00:22:53,540 --> 00:22:58,500
+estranged brother Jefferson. After
+commissioning a new prowler suit from a criminal
+
+232
+00:22:58,500 --> 00:23:03,820
+weapons designer, he joined Jefferson in
+infiltrating the Assessor's facility, rescuing
+
+233
+00:23:03,820 --> 00:23:09,900
+Miles. Later while working for the villain
+Ultimatum, actually the Earth 616 variant of
+
+234
+00:23:09,900 --> 00:23:16,180
+Miles, Aaron attempted to assassinate a criminal
+but was stopped by Spider-Man Miles. The botched
+
+235
+00:23:16,180 --> 00:23:22,080
+job resulted in a bounty on Aaron, which forced him
+into a deal that placed him under Ultimatum's
+
+236
+00:23:22,080 --> 00:23:27,300
+control. Aaron joined his nephew Miles at the
+hospital for the birth of his sister Billy, and
+
+237
+00:23:27,300 --> 00:23:32,620
+later helped resist Ultimatum's plan to return
+them to their original universe. During a battle
+
+238
+00:23:32,620 --> 00:23:37,680
+with Ultimatum's forces, including the Green
+Goblin and his Goblinoids, Aaron sacrificed
+
+239
+00:23:37,680 --> 00:23:43,840
+himself by overloading his suit, sending
+Ultimatum and the Goblin away. Aaron was presumed
+
+240
+00:23:43,840 --> 00:23:51,340
+dead. In reality, Aaron awoke in an alternate
+dystopian world ruled by Selim, an evil clone of
+
+241
+00:23:51,340 --> 00:23:57,260
+Miles Morales. Selim used Aaron's unique
+dimensional signature to power a shield around
+
+242
+00:23:57,260 --> 00:24:03,380
+his empire. Aaron was imprisoned and used as a
+living power source for decades. When Miles
+
+243
+00:24:03,380 --> 00:24:08,460
+arrived in the alternate dimension to rescue his
+uncle, Aaron was freed and recovered enough to
+
+244
+00:24:08,460 --> 00:24:15,320
+fight alongside his nephew. After defeating
+Selim, Aaron and Miles traveled back to Earth 616.
+
+245
+00:24:15,320 --> 00:24:20,500
+Upon their return was when Hobie Brown recruited
+Aaron to resume the Prowler identity, tasking him
+
+246
+00:24:20,500 --> 00:24:25,680
+with uncovering the villain Hobgoblin's plans.
+Aaron went undercover as a villain for hire and
+
+247
+00:24:25,680 --> 00:24:31,120
+joined Hobgoblin's crew, supplying weapons to
+criminals and clashing with Miles, until his
+
+248
+00:24:31,120 --> 00:24:36,640
+cover was revealed. Aaron divulged Hobgoblin's
+location and joined Miles, Miss Marvel, and
+
+249
+00:24:36,640 --> 00:24:40,920
+others to raid the villain's hideout, fighting
+alongside them to bring down that criminal
+
+250
+00:24:40,920 --> 00:24:46,100
+empire. And that's Prowler's history.
+Nobilities-wise, the Prowler has a specialized
+
+251
+00:24:46,100 --> 00:24:52,280
+suit made from a modified military flak jacket
+that protects him from concussive forces such as
+
+252
+00:24:52,280 --> 00:24:58,460
+explosions or falls from great heights. It comes
+with a variety of pneumatic or air-based gadgets,
+
+253
+00:24:58,460 --> 00:25:04,820
+including a cape that can expand, allowing him to
+glide over great distances. His boots are rubber
+
+254
+00:25:04,820 --> 00:25:10,500
+insulated with compressed air technology that
+allows him to leave multiple stories high and land
+
+255
+00:25:10,500 --> 00:25:16,400
+safely. His specialized gauntlets have steel
+claws used for fighting and scaling buildings,
+
+256
+00:25:16,400 --> 00:25:21,200
+and they have wrist-mounted compressed air
+launchers that can fire projectiles such as
+
+257
+00:25:21,200 --> 00:25:27,560
+grappling hooks, gas pellets, steel darts,
+flares, or compressed air blasts. Prowler's suit
+
+258
+00:25:27,560 --> 00:25:32,880
+also comes with some stealth and infiltration
+gadgets such as night vision goggles and
+
+259
+00:25:32,880 --> 00:25:38,000
+temperature control to avoid infrared
+detection. Both Hobbie and Aaron are
+
+260
+00:25:38,000 --> 00:25:43,680
+intellectually gifted, one as an inventor and the
+other as a thief. They're both experienced
+
+261
+00:25:43,680 --> 00:25:49,760
+fighters and skilled marksmen. So which version
+will you be going with? I figured it could be either
+
+262
+00:25:49,760 --> 00:25:54,000
+or. If you're more of a fan of Hobbie, you can
+imagine him in this fight or if you're more of a fan
+
+263
+00:25:54,000 --> 00:25:59,340
+of Aaron, who is the modern and current Prowler,
+then you can imagine him in this fight. I didn't
+
+264
+00:25:59,340 --> 00:26:05,740
+realize he had so much compressed air like a tax.
+Yeah, that's his whole thing. So does Blue Beetle.
+
+265
+00:26:05,740 --> 00:26:10,580
+Yeah, they have a lot in common. Interesting, I had
+no idea. Well, to find out how much they have in
+
+266
+00:26:10,580 --> 00:26:16,780
+common, let me get into Blue Beetle Ted Kord's
+backstory. Now Theodore Ted Kord was born with a
+
+267
+00:26:16,780 --> 00:26:22,760
+gifted intellect, excelling in science,
+literature and business from a young age. While he
+
+268
+00:26:22,760 --> 00:26:27,140
+initially considered joining his father's
+company, Kord Omni-Versal Research and
+
+269
+00:26:27,140 --> 00:26:32,360
+Development, his life changed course after
+uncovering a nefarious plot by his uncle Jarvis
+
+270
+00:26:32,360 --> 00:26:38,180
+Kord. Discovering that Jarvis intended to
+unleash an army of super androids for world
+
+271
+00:26:38,180 --> 00:26:43,420
+domination, Ted sought the help of his
+archaeology professor, Dan Garrett, who also
+
+272
+00:26:43,420 --> 00:26:49,660
+happened to be the original Blue Beetle. Together
+they confronted Jarvis on Pago Island, where Dan
+
+273
+00:26:49,660 --> 00:26:55,020
+revealed his heroic identity and used the power of
+a mystical scarab he had discovered years
+
+274
+00:26:55,020 --> 00:27:01,380
+earlier. In the ensuing battle, Dan was mortally
+wounded. With his dying breath, Dan entrusted Ted
+
+275
+00:27:01,380 --> 00:27:07,080
+with the scarab and the Blue Beetle legacy. Though
+Ted accepted the mantle, the scarab failed to
+
+276
+00:27:07,080 --> 00:27:12,340
+activate for him, refusing to give up he trained to
+physical perfection, becoming a skilled
+
+277
+00:27:12,340 --> 00:27:17,800
+hand-to-hand combatant, and constructed a
+variety of crime-fighting gadgets, including a
+
+278
+00:27:17,800 --> 00:27:23,500
+signature air blast pistol and a beetle-shaped
+aircraft known as the Bug. Operating
+
+279
+00:27:23,500 --> 00:27:30,040
+independently of the scarab, Ted forged his own
+identity as the second Blue Beetle. Reviving Kord
+
+280
+00:27:30,040 --> 00:27:36,960
+Omni-Versal, he turned the company into a major R
+&D enterprise, Rivalink Star Labs. From his home
+
+281
+00:27:36,960 --> 00:27:43,120
+base in Chicago, he launched his career as a
+costumed vigilante, taking on foes such as the Mad
+
+282
+00:27:43,120 --> 00:27:49,060
+Men, Carapax the Indestructible Man, and the
+villainous cult known as the Men of the Mask. Ted
+
+283
+00:27:49,060 --> 00:27:53,440
+Kord's early career brought him into the orbit of
+the world's greatest heroes when he was recruited
+
+284
+00:27:53,440 --> 00:27:58,620
+by the Monitor during the Crisis on Infinite
+Earths. During the multiversal conflict, Ted
+
+285
+00:27:58,620 --> 00:28:04,340
+wielded the Blue Beetle Scarab to destroy shadow
+demons, but later lost track of it amidst the
+
+286
+00:28:04,340 --> 00:28:10,440
+chaos. With the crisis resolved, Ted joined the
+newly-reformed Justice League. As a founding
+
+287
+00:28:10,440 --> 00:28:15,140
+member of the Justice League International, Ted
+served as the league's primary pilot and
+
+288
+00:28:15,140 --> 00:28:19,880
+technician. There he met Booster Gold, who
+quickly became his closest friend and frequent
+
+289
+00:28:19,880 --> 00:28:25,920
+partner in crime-fighting and mischief. Known
+collectively as Blue and Gold, the duo balanced
+
+290
+00:28:25,920 --> 00:28:31,000
+comic relief with critical contributions and
+missions against League villains. You can learn
+
+291
+00:28:31,000 --> 00:28:36,400
+more about Booster Gold in our Booster Gold vs.
+Cable dual episode. While in the league, Ted's
+
+292
+00:28:36,400 --> 00:28:42,500
+confidence in Wasteline began to waver due to long
+hours spent in the lab. With encouragement from
+
+293
+00:28:42,500 --> 00:28:47,940
+teammates such as General Glory and Guy Gardner,
+he regained his physical conditioning, though
+
+294
+00:28:47,940 --> 00:28:53,520
+not before suffering severe injuries during
+battles, including a coma after Doomstay's
+
+295
+00:28:53,520 --> 00:28:59,140
+rampage. Despite these setbacks, Ted remained
+active in the field, even joining the spin-off
+
+296
+00:28:59,140 --> 00:29:04,960
+team Extreme Justice alongside Booster and
+Captain Adam, who you can learn more about in his
+
+297
+00:29:04,960 --> 00:29:10,660
+duel against Wonder Man. In time, Ted left the
+league and reasserted control of Cord
+
+298
+00:29:10,660 --> 00:29:17,560
+Omniversal, eventually making it a subsidiary of
+Wayne Enterprises. During this period, he grew
+
+299
+00:29:17,560 --> 00:29:24,500
+close to Barbara Gordon, aka Oracle, initially as
+an online acquaintance. The two developed a deep
+
+300
+00:29:24,500 --> 00:29:30,460
+friendship and Ted provided her team, the Birds of
+Prey, with funding and technology. You can learn
+
+301
+00:29:30,460 --> 00:29:36,440
+more about the Birds of Prey in our Birds of Prey vs.
+A Force Team dual episode. Though he eventually
+
+302
+00:29:36,440 --> 00:29:41,920
+discovered he had a heart condition, Ted
+continued his heroics, occasionally operating
+
+303
+00:29:41,920 --> 00:29:47,800
+as Blue Beetle in spite of the risk. Ted came back
+into possession of Dangarit Scarab after it was
+
+304
+00:29:47,800 --> 00:29:53,560
+unearthed by Hawkman, though it once again
+remained inert in his presence. Around the same
+
+305
+00:29:53,560 --> 00:29:59,000
+time, Ted noticed strange financial movements
+within Cord Omniversal. Funds were being
+
+306
+00:29:59,000 --> 00:30:04,400
+siphoned and rerouted to mysterious shell
+companies. He began investigating, only to be
+
+307
+00:30:04,400 --> 00:30:10,320
+attacked by a group of thugs known as the Mad Men,
+severely injuring Booster in the process.
+
+308
+00:30:10,320 --> 00:30:15,260
+Tracing a signal hidden within his damaged
+equipment, Ted uncovered the location of a secret
+
+309
+00:30:15,260 --> 00:30:20,700
+facility in Switzerland. There he discovered
+that Maxwell Lord, one of his former League
+
+310
+00:30:20,700 --> 00:30:26,580
+teammates, had taken over the organization
+Checkmate and intended to use the OMAC project to
+
+311
+00:30:26,580 --> 00:30:32,480
+neutralize the global metahuman population.
+Lord offered Ted a place at his side. When Ted
+
+312
+00:30:32,480 --> 00:30:39,320
+refused, Max executed him with a gunshot to the
+head. Ted's death shocked the hero community. A
+
+313
+00:30:39,320 --> 00:30:44,820
+statue was erected in his honor, and Barbara
+Gordon memorialized his contributions. Though
+
+314
+00:30:44,820 --> 00:30:50,420
+the Scarab ultimately passed to a new host,
+teenager Jaime Reyes, Ted's legacy endured
+
+315
+00:30:50,420 --> 00:30:55,700
+through his inventions, his friendship with
+Booster Gold, and his example as a hero without
+
+316
+00:30:55,700 --> 00:31:01,340
+powers who stood among gods. In the wake of Ted's
+death, Booster Gold and a future blue beetle
+
+317
+00:31:01,340 --> 00:31:07,500
+attempted to change history by rescuing him
+through time travel. When they succeeded in
+
+318
+00:31:07,500 --> 00:31:12,720
+briefly bringing Ted forward in time, the
+resulting timeline plunged Earth into a dystopia
+
+319
+00:31:12,720 --> 00:31:19,420
+ruled by OMACs, realizing the cost of his
+survival, Ted returned to his original time to die
+
+320
+00:31:19,420 --> 00:31:24,660
+as he was meant to, thereby restoring the
+timeline. During the Blackest Night, a Black
+
+321
+00:31:24,660 --> 00:31:31,420
+Lantern ring reanimated Ted's corpse. As a Black
+Lantern, he attempted to murder Booster, Jaime,
+
+322
+00:31:31,420 --> 00:31:37,100
+and others, but was eventually neutralized using
+technology Ted himself had designed. His remains
+
+323
+00:31:37,100 --> 00:31:41,980
+were taken to a point outside of time known as the
+Vanishing Point to prevent further
+
+324
+00:31:41,980 --> 00:31:48,180
+resurrection. In post-flashpoint continuity,
+Ted Corde reemerged, once again depicted as a
+
+325
+00:31:48,180 --> 00:31:52,920
+scientific, genius, and industrialist who had
+retired from being blue beetle due to health
+
+326
+00:31:52,920 --> 00:31:58,280
+concerns. When Jaime Reyes approached him for
+help in understanding the mysterious Scarab, Ted
+
+327
+00:31:58,280 --> 00:32:03,380
+became his reluctant mentor and benefactor.
+Though Jaime initially rejected the superhero
+
+328
+00:32:03,380 --> 00:32:09,060
+lifestyle, Ted saw promise in him and provided
+guidance, resources, and technological
+
+329
+00:32:09,060 --> 00:32:15,000
+support, constructing a mobile command center
+and even donning his old blue beetle suit when
+
+330
+00:32:15,000 --> 00:32:19,980
+needed. Ted's investigations into the Scarab
+brought him into conflict with Dr. Fate, who
+
+331
+00:32:19,980 --> 00:32:26,980
+declared the Scarab to be magical in origin,
+contrary to Ted's belief it was alien technology.
+
+332
+00:32:26,980 --> 00:32:32,880
+Ted later joined a coalition of heroes including
+the question Captain Adam, Nightshade, and more,
+
+333
+00:32:32,880 --> 00:32:38,920
+who traveled to Mars to confront Dr. Manhattan for
+putting Superman into a coma, though Ted and the
+
+334
+00:32:38,920 --> 00:32:44,640
+other heroes were overpowered and scattered. You
+can learn more about Dr. Manhattan in our Dr.
+
+335
+00:32:44,640 --> 00:32:50,600
+Manhattan vs. Molecule Man dual episode. Ted
+later became a target of Black Mask, who
+
+336
+00:32:50,600 --> 00:32:56,120
+imprisoned him and used illusion-based powers to
+impersonate him. Under Black Mask's control,
+
+337
+00:32:56,120 --> 00:33:00,960
+Corde Industries funneled resources into
+illicit operations, including a revamped
+
+338
+00:33:00,960 --> 00:33:05,780
+Suicide Squad. With help from the Justice League
+and an international team known as the
+
+339
+00:33:05,780 --> 00:33:11,520
+Revolutionaries, the real Ted was freed and
+helped dismantle Black Mask's scheme. You can
+
+340
+00:33:11,520 --> 00:33:17,120
+learn more about Black Mask in his dual against
+Madame Mask. Ted reunited with Booster Gold to
+
+341
+00:33:17,120 --> 00:33:22,500
+form Blue and Gold Restoration, a private hero for
+higher business dedicated to helping everyday
+
+342
+00:33:22,500 --> 00:33:27,760
+people. Though he was ousted from Corde
+Industries for mismanagement, Ted chose to keep
+
+343
+00:33:27,760 --> 00:33:32,460
+working with Booster instead of rejoining the
+Justice League. Their venture faced financial
+
+344
+00:33:32,460 --> 00:33:37,760
+challenges, but they continued their mission,
+providing aid to those overlooked by larger
+
+345
+00:33:37,760 --> 00:33:44,040
+organizations. Ted was briefly imprisoned by the
+Batman who laughs on New Apocalypse, where he was
+
+346
+00:33:44,040 --> 00:33:49,540
+killed by a giant beetle during the Dark
+Multiverse Crisis and resurrected via a Black
+
+347
+00:33:49,540 --> 00:33:54,340
+Lantern Ring. Despite these ordeals, he returned
+to life once more and continued his
+
+348
+00:33:54,340 --> 00:34:00,700
+crime-fighting career alongside his best friend
+Booster Gold and protégé Jaime Reyes. Now,
+
+349
+00:34:00,700 --> 00:34:06,300
+powers-wise, Ted Corde possesses no innate
+superpowers as Blue Beetle, but his genius level
+
+350
+00:34:06,300 --> 00:34:11,600
+intellect places him among the most brilliant
+minds in the world. He's a master inventor and
+
+351
+00:34:11,600 --> 00:34:17,760
+engineer, creating an array of gadgets and
+vehicles. His trademark weapon is the BB Gun,
+
+352
+00:34:17,760 --> 00:34:22,880
+capable of emitting blinding flashes or
+compressed air blasts strong enough to knock back
+
+353
+00:34:22,880 --> 00:34:28,480
+attackers. Though he also carries smoke bombs,
+acid capsules, grappling launchers, and small
+
+354
+00:34:28,480 --> 00:34:34,199
+beetle-shaped flying surveillance drones known
+as baby bugs. His greatest engineering feat,
+
+355
+00:34:34,199 --> 00:34:40,340
+however, is the bug. An airship that can fly at 600
+miles per hour, travel into outer space and
+
+356
+00:34:40,340 --> 00:34:46,639
+underwater, fire electromagnetic beams,
+electrify its hull, shoot nets and grapples, and
+
+357
+00:34:46,639 --> 00:34:52,120
+more, all from the control of his gloves.
+Physically, Blue Beetle trained to peak human
+
+358
+00:34:52,120 --> 00:34:57,560
+condition and was an Olympic-level acrobat and
+martial artist, specializing in Akito and
+
+359
+00:34:57,560 --> 00:35:02,340
+karate, though his weight and physical ability
+has fluctuated over the years due to his heart
+
+360
+00:35:02,340 --> 00:35:07,880
+condition. Thankfully, Blue Beetle's suit
+slightly enhances his strength and durability,
+
+361
+00:35:07,880 --> 00:35:13,400
+while also coming equipped with suction pads that
+allow him to adhere to walls and vision-enhancing
+
+362
+00:35:13,400 --> 00:35:21,020
+goggles. That's Blue Beetle. Is he gonna have his
+bug ship during this fight? Hell yes he does! Let me
+
+363
+00:35:21,020 --> 00:35:25,440
+rephrase that, that wasn't a question. Blue
+Beetle will not be having his bug ship during the
+
+364
+00:35:25,440 --> 00:35:29,400
+course of this fight, it's just gonna be
+mono-e-mono. Do you understand? I understand
+
+365
+00:35:29,400 --> 00:35:34,120
+that it's something that you do not want. Thank
+you. Alright. Did you see more about how similar
+
+366
+00:35:34,120 --> 00:35:38,160
+they are? Because not only do they have like
+air-compressed weapons, they can also climb on
+
+367
+00:35:38,160 --> 00:35:44,560
+walls, one with suction cups, one with claws. They
+both have like light strobes. And they both died
+
+368
+00:35:44,560 --> 00:36:44,260
+like several times. Right, exactly. But now that
+we've got their histories and abilities out of the
+
+369
+00:36:44,260 --> 00:36:49,380
+way, let's speculate on how one of the 1000
+simulated matches will go. The winner is
+
+370
+00:36:49,380 --> 00:36:54,560
+determined by simulations, not the speculation.
+But it's fun to imagine how this fight could play
+
+371
+00:36:54,560 --> 00:37:01,720
+out. AJ9K, what are the rules of our speculation?
+Well, I should say there are no rules, other than
+
+372
+00:37:01,720 --> 00:37:06,220
+the characters have no prior knowledge of the
+other going into the fight. All they are aware of
+
+373
+00:37:06,220 --> 00:37:10,820
+starting out is that the other character is a
+threat that needs to be eliminated. For the
+
+374
+00:37:10,820 --> 00:37:15,780
+speculation, the contestants will begin
+approximately 50 meters apart in a nondescript
+
+375
+00:37:15,780 --> 00:37:20,880
+environment that will have no bearing on the match
+itself, as no environmental statistics are
+
+376
+00:37:20,880 --> 00:37:25,980
+considered in my simulations. The contestants
+must earn victory on their own merit. Alright
+
+377
+00:37:25,980 --> 00:37:32,420
+then, let's get into it. Blue Beetle and a prowler
+meet on the battlefield. Who goes first? I'm gonna
+
+378
+00:37:32,420 --> 00:37:38,180
+say that prowler goes first. He's gonna speed
+blitz Blue Beetle with his claws, and before Blue
+
+379
+00:37:38,180 --> 00:37:43,800
+Beetle can even say, oh shit this guy is scary
+fucking fast, he's just gonna get slashed across
+
+380
+00:37:43,800 --> 00:37:50,980
+his face. No, prowler's fast but not faster than
+Blue Beetle can quick draw his BB gun and just flash
+
+381
+00:37:50,980 --> 00:37:57,100
+a strobe right in the guy's face so he's
+disoriented and seeing spots. So with prowler
+
+382
+00:37:57,100 --> 00:38:04,400
+partially blinded, Blue Beetle's easily gonna
+leap over his blitz and tag prowler in the back with
+
+383
+00:38:04,400 --> 00:38:10,500
+a compressed air blast that just makes him fall
+flat on his face. And as he lands, as prowler is
+
+384
+00:38:10,500 --> 00:38:16,580
+getting up from the ground, Blue Beetle sends out a
+few baby bug drones that scan the area. How big are
+
+385
+00:38:16,580 --> 00:38:22,520
+these drones? I've seen various sizes for these,
+sometimes they're like the size of a volleyball,
+
+386
+00:38:22,520 --> 00:38:28,300
+but I've also seen them like the size of his palm.
+Okay, prowler notices these drones as he gets to
+
+387
+00:38:28,300 --> 00:38:34,840
+his feet, and he's gonna shoot down a gas capsule
+that creates a dark cloud of smoke around him and
+
+388
+00:38:34,840 --> 00:38:39,900
+it's gonna hide him from these drones and from Blue
+Beetle's sight. Uh, you know, Blue Beetle's just
+
+389
+00:38:39,900 --> 00:38:45,080
+gonna switch the drone surveillance to infrared
+so he can see prowler's heat signature with his
+
+390
+00:38:45,080 --> 00:38:51,540
+dope ass goggles. Except prowler is invisible to
+infrared. Okay, so I don't know, Blue Beetle
+
+391
+00:38:51,540 --> 00:38:56,680
+switches to night vision to see through the dark
+smoke and uses drones, shoot down some acid cap.
+
+392
+00:38:56,680 --> 00:39:00,480
+You know, because Blue Beetle's night vision is
+activated, prowler, he shoots out a magnesium
+
+393
+00:39:00,480 --> 00:39:05,400
+flare right then, and it's just gonna light up Blue
+Beetle's entire view. And that's gonna
+
+394
+00:39:05,400 --> 00:39:11,220
+temporarily blind him. So like, as Blue Beetle's
+grabbing at his goggles, prowler is gonna shoot
+
+395
+00:39:11,220 --> 00:39:16,660
+the bug drones out of the air with some darts by our
+term as gauntlets. And then he's gonna leap out of
+
+396
+00:39:16,660 --> 00:39:23,380
+the smoke and just flying kick Blue Beetle right
+into his beard gut. Six pack, my man. Six pack. He's
+
+397
+00:39:23,380 --> 00:39:29,640
+been working out. Six pack of beer. All right, so he
+takes the kick, lands on his back, but he's gonna
+
+398
+00:39:29,640 --> 00:39:36,080
+back somersault onto his hands and knees before
+launching himself with his legs back at prowler
+
+399
+00:39:36,080 --> 00:39:42,660
+and rocking him with a spinning back fist. He's
+blind. How did he even see the prowler to hit him? I
+
+400
+00:39:42,660 --> 00:39:46,840
+don't know. He's, you know, he peered through the
+spots in his vision. He's good like that. Well, not
+
+401
+00:39:46,840 --> 00:39:53,620
+good enough, because prowler blocks this hit. Oh,
+it's a spinning double back fist. So when prowler
+
+402
+00:39:53,620 --> 00:39:58,000
+blocks one hand, Blue Beetle just spins the
+opposite direction and clocks him with the other
+
+403
+00:39:58,000 --> 00:40:04,820
+hand. What? Okay, prowler gets hit, but he's gonna
+counter with a spin kick and slashing uppercut
+
+404
+00:40:04,820 --> 00:40:09,520
+combo, followed by this like compressed air blast
+from his gauntlets that just sends Blue Beetle
+
+405
+00:40:09,520 --> 00:40:14,700
+flying backward and knocking the wind out of him.
+No, no, because in the middle of this combo,
+
+406
+00:40:14,700 --> 00:40:20,700
+suddenly prowler finds himself wrapped in a net
+all around him. And as he struggles to move, he's
+
+407
+00:40:20,700 --> 00:40:28,720
+hoisted into the air by Blue Beetle's bug ship with
+a cable that was attached to the net. I said, you're
+
+408
+00:40:28,720 --> 00:40:34,300
+making me sick here. I said, you can't use the bug
+ship. I'm sorry. I thought you'd know I just
+
+409
+00:40:34,300 --> 00:40:39,960
+naturally use whatever Blue Beetle uses out in the
+field. St. Blue Beetle can't have his bug ship is
+
+410
+00:40:39,960 --> 00:40:45,580
+like saying ghost writer can't have his hell cycle
+or silver surfer can't have his surfboard. I doubt
+
+411
+00:40:45,580 --> 00:40:50,980
+that. Regardless, prowler is gonna slash his way
+out of this net with his claws. And then he's gonna
+
+412
+00:40:50,980 --> 00:40:56,800
+glide down toward Blue Beetle, who's like, Oh,
+fuck, my cheating ass is about to die. And prowler
+
+413
+00:40:56,800 --> 00:41:01,360
+lands feet first onto Blue Beetle, and he
+activates his compressed air boots right as he
+
+414
+00:41:01,360 --> 00:41:07,760
+lands, which like a shotgun blast just explodes
+Blue Beetle into a blue smear on the ground. No,
+
+415
+00:41:07,760 --> 00:41:13,300
+this net is made with metal fibers. And before
+prowler could slash his way out of it, the bug ship
+
+416
+00:41:13,300 --> 00:41:18,100
+just sends an electric current into the net
+electrocuting prowler and just sizzling him to a
+
+417
+00:41:18,100 --> 00:41:23,880
+crisp. Like I said, cheating ass, you can't use the
+bug ship in this. I don't know what to tell you, bro.
+
+418
+00:41:23,880 --> 00:41:30,620
+It happened, except it. Okay, we'll go ahead and
+leave the match there. Either Jonathan cheats and
+
+419
+00:41:30,620 --> 00:41:36,100
+the bug ship captures and electrocutes the
+prowler, or he plays this like a man and prowler
+
+420
+00:41:36,100 --> 00:41:41,560
+just eviscerates Blue Beetle with his air
+compressed boots. Hey, it takes a real man to admit
+
+421
+00:41:41,560 --> 00:41:46,020
+when he's defeated, Joseph. Let's go ahead and
+find out who wins by inputting the stats, running
+
+422
+00:41:46,020 --> 00:41:52,040
+the simulations and finding out who comes out on
+top. AJ9K hit it. Inputting data, running
+
+423
+00:41:52,040 --> 00:41:58,280
+calculations, processing results, simulations
+complete. Okay, this was an awesome match. These
+
+424
+00:41:58,280 --> 00:42:03,200
+characters are way more similar than I would have
+thought. And I kind of always love when that
+
+425
+00:42:03,200 --> 00:42:09,360
+happens. We just kind of serendipitously fall
+into an awesome match that I never even knew I
+
+426
+00:42:09,360 --> 00:42:14,200
+wanted to see. Yeah, they had a lot in common,
+including their invasiveness, their fighting
+
+427
+00:42:14,200 --> 00:42:19,920
+skill, their range, their perception. They had a
+lot in common. Yeah, where Blue Beetle had the edge
+
+428
+00:42:19,920 --> 00:42:26,740
+was versatility. He just has more gadgets and
+intelligence, but just barely. Blue Beetle did
+
+429
+00:42:26,740 --> 00:42:33,140
+have the edge when I came to movement speed,
+because yes, I did factor the bug ship into his
+
+430
+00:42:33,140 --> 00:42:37,360
+stats. You cheating bastard. Well, we just
+figured that a majority of the time we see the
+
+431
+00:42:37,360 --> 00:42:43,500
+character, whether it's in the comics or in other
+media, he has his bug ship. It's a big part of who the
+
+432
+00:42:43,500 --> 00:42:48,640
+character is. It's like seeing Night Owl from
+Watchmen without his Owl ship. And because of
+
+433
+00:42:48,640 --> 00:42:54,000
+that, Blue Beetle also got the edge when it came to
+damage level. Yeah, the bug ship is such a big part
+
+434
+00:42:54,000 --> 00:42:57,840
+of the lore of the character that it was even
+incorporated in the Blue Beetle live action
+
+435
+00:42:57,840 --> 00:43:02,920
+movie, even though Hymeria's doesn't use the bug
+ship. Exactly. So who do you think is winning this
+
+436
+00:43:02,920 --> 00:43:08,840
+one, Jonathan? Is that even a question? Blue
+Beetle all the way. And Instagram agrees with me,
+
+437
+00:43:08,840 --> 00:43:15,980
+because 69% of the people who took the poll voted
+for Blue Beetle. Whoever voted for Blue Beetle in
+
+438
+00:43:15,980 --> 00:43:21,520
+that poll doesn't even know what a 69 is. Let's go
+ahead and get the results. Hey, you are, sir. The
+
+439
+00:43:21,520 --> 00:43:30,910
+winner of the matchup between Blue Beetle and
+prowler is, I'm so sick. Can't even say it. Blue
+
+440
+00:43:30,910 --> 00:43:39,600
+Beetle. Yay. Out of the 1000 matches, Blue Beetle
+won 65.6% of the time. Proller only won 34.4%.
+
+441
+00:43:39,600 --> 00:43:45,660
+Okay, so Blue Beetle wins about two-thirds of the
+time. Not quite. About two-thirds, though.
+
+442
+00:43:45,660 --> 00:43:51,480
+Aren't you glad that you rolled out a bed for this?
+This is awesome. No. No, in fact, this whole day
+
+443
+00:43:51,480 --> 00:43:59,800
+just sucks. Well, sorry to add to your misery, but
+also hashtag, sorry, not sorry. Let's get your ass
+
+444
+00:43:59,800 --> 00:44:38,580
+back in bed so you don't die. That does it for this
+duel. AJ9K, help close us out. In our next episode,
+
+445
+00:44:38,580 --> 00:44:44,920
+we will be reviewing Daredevil born again. I have
+not finished watching it, but so far, so good. That
+
+446
+00:44:44,920 --> 00:44:48,840
+does it for this episode. We want to give a big
+thanks to our executive producers, John
+
+447
+00:44:48,840 --> 00:44:54,180
+Sturrosky, Zachary Hepburn, Dustin Belcom,
+Miggy Mathen-Gian, Brandon Estegard, Nathaniel
+
+448
+00:44:54,180 --> 00:45:00,160
+Wagner, Levi Yatn, Austin Wazelowski, AJ
+Dunkerly, Nick Obanto, Scott Camacho, Gil
+
+449
+00:45:00,160 --> 00:45:06,940
+Camacho, Adam Spees, Dean Molesky, Devin Davis,
+Joseph Kirsting, Josh Leiner, Mike Williams, and
+
+450
+00:45:06,940 --> 00:45:12,980
+Oscar Galvez for helping make this podcast
+possible. We'll talk to you guys next week. Up, up,
+
+451
+00:45:12,980 --> 00:45:18,740
+and away, true believers. Fun fact, Blue Beetle's
+alternate dimension variant is called Dung
+
+452
+00:45:18,740 --> 
+Beetle, who is a member of the League of Nasty
+Bastards. Look it up.
