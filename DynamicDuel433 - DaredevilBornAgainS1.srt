@@ -1,0 +1,3863 @@
+1
+00:00:00,600 --> 00:00:27,440
+This is a DynaMic Network Podcast. Hi and welcome
+to the Dynamic Duel Podcast, a weekly show where we
+
+2
+00:00:27,440 --> 00:00:31,740
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:31,740 --> 00:00:36,480
+their characters in stat-based battle
+simulations. I'm Marvelous Joe and I'm his twin
+
+4
+00:00:36,480 --> 00:00:41,220
+brother Johnny DC. And just a heads up, we are
+recording this episode, not even five days after
+
+5
+00:00:41,220 --> 00:00:47,320
+we recorded the last one when my voice was
+completely shot. So I do expect my voice to falter
+
+6
+00:00:47,320 --> 00:00:52,560
+at some point during this episode because there's
+a lot to say. I got a lot to talk about because we're
+
+7
+00:00:52,560 --> 00:00:58,060
+going to be reviewing Daredevil Born Again Season
+one. And on top of that, we're going to go over the
+
+8
+00:00:58,060 --> 00:01:03,060
+latest comic book movie news this past week,
+including the Thunderbolts Final Trailer, the
+
+9
+00:01:03,060 --> 00:01:09,060
+Fantastic Four Trailer. And we also got the
+Sandman Season two date announcement. So my voice
+
+10
+00:01:09,060 --> 00:01:15,680
+is fucked. As always, we list our segment times in
+our episode description. So feel free to check out
+
+11
+00:01:15,680 --> 00:01:20,020
+the show notes if you want to skip ahead to a
+particular topic. Guys our artificially
+
+12
+00:01:20,020 --> 00:01:26,980
+intelligent duel simulator AJ9K has a quick
+message for our listeners. So listen up. Why hello
+
+13
+00:01:26,980 --> 00:01:32,020
+there. Do you want even more from this podcast?
+Then become a part of the dynamic duel community on
+
+14
+00:01:32,020 --> 00:01:37,000
+Patreon, where you can choose from three tiers,
+the dynamic to a tier gives you access to our
+
+15
+00:01:37,000 --> 00:01:41,940
+discord chat server. The Fantastic Four tier
+gives you two bonus episodes each month. And the
+
+16
+00:01:41,940 --> 00:01:47,540
+X-Force tier makes you an executive producer of
+this show. Lastly, the Dyna Mic podcast network
+
+17
+00:01:47,540 --> 00:01:52,520
+tier lets you create your own podcast using this
+Monte Carlo simulator. Johnny and Joe will help
+
+18
+00:01:52,520 --> 00:01:57,780
+you develop your show, provide graphic support
+and consultation and get you simulation results.
+
+19
+00:01:57,780 --> 00:02:03,500
+Pitch the twins, your ideas via email at dynamic
+Duel podcast at gmail.com. Check it out at
+
+20
+00:02:03,500 --> 00:02:10,560
+patreon.com / dynamic duel. Pip, Pip Cheerio.
+Thanks AJ9K and thanks to everyone who supports
+
+21
+00:02:10,560 --> 00:02:15,540
+the podcast. Guys, be sure to tune into the other
+shows and the DynaMic podcast network this
+
+22
+00:02:15,540 --> 00:02:20,300
+week, including the console combat podcast,
+where hosts John and Dean simulate battles
+
+23
+00:02:20,300 --> 00:02:25,140
+between popular video game characters. In
+yesterday's episode, they speculated on who
+
+24
+00:02:25,140 --> 00:02:32,600
+would win in a fight between so bad guy from Guilty
+Gear and Ragnar the Blood Edge from Blazblue.
+
+25
+00:02:32,600 --> 00:02:38,660
+Blazblazblue? Something like that. Over on the
+Max Destruction podcast, host Scotty and Gilly,
+
+26
+00:02:38,660 --> 00:02:42,980
+pet your favorite action heroes from film and
+television against each other. This Wednesday,
+
+27
+00:02:42,980 --> 00:02:49,660
+the twins are reviewing the 1995 film Mortal
+Kombat. On the Sanjo World podcast, host Zachary
+
+28
+00:02:49,660 --> 00:02:53,800
+Hepperin speculates on fights between fan
+favorite anime and manga characters. On
+
+29
+00:02:53,800 --> 00:02:59,400
+Thursday, Zach is going to reveal who would win
+between Sennaku from Shangri-La Frontier versus
+
+30
+00:02:59,400 --> 00:03:05,560
+Kirito from Sword Art Online. Visit
+dynamicpodcasts.com or click the link in our show
+
+31
+00:03:05,560 --> 00:03:10,880
+notes to listen to all of the shows in the DynaMic
+podcast network. But with that out of the way,
+
+32
+00:03:10,880 --> 00:03:17,680
+quick to the no prize. A no prize is an award that
+Marvel used to give out to fans. Our version, the
+
+33
+00:03:17,680 --> 00:03:23,000
+dynamic Duel no prize, is a digital award that we
+post on Instagram for the person that we feel gave
+
+34
+00:03:23,000 --> 00:03:29,100
+the best answer to our question of the week. Last
+week, in the absence of any news, we asked you guys,
+
+35
+00:03:29,100 --> 00:03:34,960
+what's your favorite Marvel or DC comic that
+you're reading right now? And why? And we got one
+
+36
+00:03:34,960 --> 00:03:39,900
+answer. Apparently none of you guys are reading
+comics. Well, we also didn't give him a whole lot of
+
+37
+00:03:39,900 --> 00:03:45,400
+time to respond either. So let's go ahead and
+announce this week's no prize winner. Congrats to
+
+38
+00:03:45,400 --> 00:03:54,540
+Zozo. Who said? Hey there. So my favorite comic
+series ever is the DC series. In my opinion, it is
+
+39
+00:03:54,540 --> 00:04:02,440
+just the perfect story. It's really cool having
+Batman and Superman and Flash just, you know,
+
+40
+00:04:02,440 --> 00:04:11,020
+fight zombies being this zombie world and no one is
+safe in it. And it's just very action packed,
+
+41
+00:04:11,020 --> 00:04:18,060
+violent, and it's just a perfect comic series. All
+right, thank you. Now, I'm not sure if Zozo said DC
+
+42
+00:04:18,060 --> 00:04:26,160
+or DC's, but either answer is acceptable because,
+yes, DC is an awesome series featuring Superman
+
+43
+00:04:26,160 --> 00:04:32,000
+and Batman, the Flash, and all of your favorite
+superheroes. It's been going on since 1938. It's
+
+44
+00:04:32,000 --> 00:04:39,540
+freaking amazing. And DC's is one of its most
+interesting stories, focusing on the anti-life
+
+45
+00:04:39,540 --> 00:04:45,160
+equation, infecting everyone and turning them
+into zombies, which is just a really cool high
+
+46
+00:04:45,160 --> 00:04:52,440
+stakes story. We went over that story a few years
+ago for Halloween during our DC's versus Marvel
+
+47
+00:04:52,440 --> 00:04:57,900
+Zombies episode, and that was a really fun episode
+to do. Yeah, for sure. I recommend listening to
+
+48
+00:04:57,900 --> 00:05:02,520
+that episode if you have it already, because we had
+a lot of fun with it. As Jonathan and I have noted
+
+49
+00:05:02,520 --> 00:05:07,360
+before on this podcast, we don't get a chance to
+read a whole lot of the current comic books out
+
+50
+00:05:07,360 --> 00:05:11,740
+there because we're so busy reading the comic
+books and research for this show, for the duels
+
+51
+00:05:11,740 --> 00:05:17,320
+that we're doing. So I was really looking forward
+to getting answers from current Marvel readers.
+
+52
+00:05:17,320 --> 00:05:22,960
+But I know offhand that a lot of people recommend
+the ultimate Spider-Man and the Ultimates and
+
+53
+00:05:22,960 --> 00:05:27,920
+Ultimate Wolverine lines that are coming out
+right now. I heard X-Men is really good now that
+
+54
+00:05:27,920 --> 00:05:33,300
+they're out of the Krakowan era. Although I liked
+the Krakowan era as well, less than I wanted to,
+
+55
+00:05:33,300 --> 00:05:38,340
+because I really love Jonathan Hickman as a
+writer. But I kind of view his run on the X-Men as
+
+56
+00:05:38,340 --> 00:05:44,060
+kind of like Grant Morrison's run, who I also
+respect as a writer. But it was kind of like a
+
+57
+00:05:44,060 --> 00:05:49,360
+contained sort of thing that I'm excited to move on
+from and get into the more traditional feel of the
+
+58
+00:05:49,360 --> 00:05:55,820
+X-Men stories. Yeah, I keep hearing amazing
+things about the absolute universe line that DC
+
+59
+00:05:55,820 --> 00:06:02,520
+has right now, like all of these articles are just
+bombarding my news feeds about how much better the
+
+60
+00:06:02,520 --> 00:06:09,580
+absolute universe is than DC Prime. I haven't read
+any absolute comics yet, but I 100% need to. I'm
+
+61
+00:06:09,580 --> 00:06:14,040
+just waiting for the trades to come out. I really
+want to get my hands on One World Under Doom right
+
+62
+00:06:14,040 --> 00:06:19,220
+now, which I heard is pretty good. It's basically
+the story about how Dr. Doom finally becomes the
+
+63
+00:06:19,220 --> 00:06:24,040
+world's dictator. You know, he becomes the one
+ruler in charge of the world. And for some reason,
+
+64
+00:06:24,040 --> 00:06:28,120
+all the other country's leaders are going along
+with it. So it sounds pretty interesting. If
+
+65
+00:06:28,120 --> 00:06:32,060
+anyone didn't get a chance to call in with their
+answer, but they still want to share with their
+
+66
+00:06:32,060 --> 00:06:37,040
+reading, feel free to leave us a comment wherever
+you're listening to this on, whether it's
+
+67
+00:06:37,040 --> 00:06:43,220
+Spotify, YouTube or shoot us an email. We'd love to
+hear from you guys. But congrats to Zozo. You win
+
+68
+00:06:43,220 --> 00:06:48,460
+this week's No Prize. If you're the listener, want
+to win your own No Prize, stay tuned to later on in
+
+69
+00:06:48,460 --> 00:06:53,420
+this episode when we'll be asking another
+question of the week. And now that that's done, on
+
+70
+00:06:53,420 --> 00:07:03,820
+to the news. All right, this past week, we got two
+trailers from Marvel Studios. We got the final
+
+71
+00:07:03,820 --> 00:07:08,740
+trailer for the Thunderbolts film, which comes
+out on May 2nd, and we also got the first official
+
+72
+00:07:08,740 --> 00:07:14,320
+trailer for the Fantastic Four first steps movie,
+which comes out on July 25th. Since the
+
+73
+00:07:14,320 --> 00:07:18,500
+Thunderbolts trailer came out first, we'll go
+ahead and talk about that one first. And also, I
+
+74
+00:07:18,500 --> 00:07:23,280
+feel like I have less to say about it, because we've
+seen so much from the marketing for this movie
+
+75
+00:07:23,280 --> 00:07:28,000
+already that I don't think there was a whole lot
+else that they could show us without, like,
+
+76
+00:07:28,000 --> 00:07:32,980
+basically spoiling something. I think there's
+quite a few surprises to be had in this film. But the
+
+77
+00:07:32,980 --> 00:07:38,640
+trailer took a more kind of sentimental approach
+to the story. Like a lot of the previous marketing
+
+78
+00:07:38,640 --> 00:07:45,320
+has been about how this is a team of quirky outcasts
+banding together. But this one was more about like
+
+79
+00:07:45,320 --> 00:07:50,640
+what it means to be a hero for these people,
+especially Yelena, who feel like they've done so
+
+80
+00:07:50,640 --> 00:07:56,220
+much wrong in their past. And, you know, the
+previous trailers have had cool songs like Possum
+
+81
+00:07:56,220 --> 00:08:02,940
+Kingdom by the Totes and Where's My Mind by the
+Pixies. This one had Under Pressure by David Bowie
+
+82
+00:08:02,940 --> 00:08:07,200
+and Queen. And I have to say, it's probably one of
+the worst renditions of the song that I've ever
+
+83
+00:08:07,200 --> 00:08:10,980
+heard, because it was just way too sentimental.
+I'm wondering who they're trying to target with
+
+84
+00:08:10,980 --> 00:08:15,500
+this particular final trailer, because it's so
+sappy. You have like Red Guardian telling Yelena
+
+85
+00:08:15,500 --> 00:08:19,600
+to like believe in herself. And she's like, but
+I've done so much wrong. And she's crying and
+
+86
+00:08:19,600 --> 00:08:24,600
+stuff. I'm like, just go back to being the cool
+outcasts. You know? Yeah, you mentioned that they
+
+87
+00:08:24,600 --> 00:08:29,320
+can't really show too much more without giving
+spoilers, but I thought this trailer had major
+
+88
+00:08:29,320 --> 00:08:35,600
+spoilers in it. I mean, obviously when Yelena is in
+that dark forest, when she's like looking at a
+
+89
+00:08:35,600 --> 00:08:41,539
+clone of herself or whatever, it's after she
+stepped into the void's darkness, which we see at
+
+90
+00:08:41,539 --> 00:08:46,920
+the end of this trailer. She goes into some kind of
+like trippy dimension where she's like facing her
+
+91
+00:08:46,920 --> 00:08:51,560
+inner most demons or some shit. I don't think it's
+too revealing of a spoiler. It just means that like
+
+92
+00:08:51,560 --> 00:08:56,900
+she doesn't die when she walks into that dark
+shroud. Well, we already knew she wasn't going to
+
+93
+00:08:56,900 --> 00:09:00,980
+die because she was announced for the Doomsday
+movie. Dumb. I thought it was interesting at the
+
+94
+00:09:00,980 --> 00:09:05,620
+beginning of this trailer, how they showed a
+flashback to Black Widow, which I thought was kind
+
+95
+00:09:05,620 --> 00:09:09,520
+of cheap a little bit. They're trying to play on
+Marvel fans, I guess, nostalgia for the Black
+
+96
+00:09:09,520 --> 00:09:14,020
+Widow movie, which I don't think there's a whole
+lot of. But I don't think it's a good look to try to
+
+97
+00:09:14,020 --> 00:09:18,320
+use Scarlett Johansson to help sell the movie when
+she's probably not in it or not in a substantial
+
+98
+00:09:18,320 --> 00:09:23,680
+role. And the same for Chris Evans as Captain
+America, when him and Bucky were, you know,
+
+99
+00:09:23,680 --> 00:09:28,700
+exchanging glances. Yeah. And all this doesn't
+really feel like a new piece of marketing and so
+
+100
+00:09:28,700 --> 00:09:34,520
+much as kind of like a hash together, last pushed by
+tickets of which I have. I have my tickets. I'm
+
+101
+00:09:34,520 --> 00:09:39,480
+going to go see it at the LMO on May 2nd, and I'm
+really looking forward to it. I don't have my
+
+102
+00:09:39,480 --> 00:09:44,440
+tickets yet. Better fix that shit. Yeah. I'll
+probably get them at the last minute. The film
+
+103
+00:09:44,440 --> 00:09:50,200
+isn't tracking too well, I think. So I expected to
+do something like Brave New World numbers. I don't
+
+104
+00:09:50,200 --> 00:09:54,580
+think it'll be too hard to get tickets. Well, when
+the movie turns out to be a masterpiece, since, you
+
+105
+00:09:54,580 --> 00:10:00,340
+know, a lot of the A24 film production people are on
+this movie, I think you're going to be sorry when
+
+106
+00:10:00,340 --> 00:10:04,280
+you're not able to get tickets because everybody
+else is so excited to see the film. Yeah, I'll take
+
+107
+00:10:04,280 --> 00:10:10,580
+my chances. All right. I mean, this trailer didn't
+get me too excited to rush out and buy my tickets.
+
+108
+00:10:10,580 --> 00:10:15,760
+What was your favorite part of the trailer? I like
+the shot where we see Yelena going into the void. I
+
+109
+00:10:15,760 --> 00:10:19,780
+think that seems like the climax of the film. Yeah,
+I could see that. But again, you know, we know what
+
+110
+00:10:19,780 --> 00:10:25,120
+happens or at least you know, I think we're pretty
+confident we know what happens after she goes into
+
+111
+00:10:25,120 --> 00:10:30,300
+there. You think Yelena appeals to the centuries
+darker nature or something like that? Something
+
+112
+00:10:30,300 --> 00:10:37,640
+like that, exactly. She's like, hey, I'm dark,
+too, but I follow the light. I hope that doesn't
+
+113
+00:10:37,640 --> 00:10:44,120
+happen. My favorite part of the trailer had to be
+when Bucky was talking with some side piece on the
+
+114
+00:10:44,120 --> 00:10:48,040
+phone and she was like, oh, we're not going to come.
+And he's like, we could be the ones that are coming.
+
+115
+00:10:48,040 --> 00:10:54,060
+And I was like, oh, that's a bold swing. I hope that
+pays off for him. Rumors are that's Songbird on the
+
+116
+00:10:54,060 --> 00:10:58,780
+other line. Who is a major Thunderbolts character
+from the comic books? We did a Duel episode with
+
+117
+00:10:58,780 --> 00:11:03,320
+Songbird against DC's Pied Piper. So if you're
+interested in learning more about her,
+
+118
+00:11:03,320 --> 00:11:07,840
+definitely check that out. Nice. Yeah, she's a
+traditional Thunderbolt. So I'm glad they found a
+
+119
+00:11:07,840 --> 00:11:12,100
+way to squeeze her into the film if that is her.
+Yeah, for sure. Let's go ahead and move on to the
+
+120
+00:11:12,100 --> 00:11:16,060
+Fantastic Four trailer, though, because I think
+there's a lot more to say about that one.
+
+121
+00:11:16,060 --> 00:11:20,260
+Considering it's the best look we've gotten at the
+film since the teaser came out, you know, a few
+
+122
+00:11:20,260 --> 00:11:25,960
+months ago. The trailer starts off with the host of
+the Ted Gilbert show. And now it's seeing the
+
+123
+00:11:25,960 --> 00:11:31,100
+Fantastic Four as a team of astronauts who got
+superpowers and are now celebrities. It's kind of
+
+124
+00:11:31,100 --> 00:11:36,060
+like the Ed Sullivan show. It looks like back in the
+60s. I got to say, I'm loving the production design
+
+125
+00:11:36,060 --> 00:11:42,140
+on this film. I think it's a bold, creative choice
+to set this movie in the time period that it is.
+
+126
+00:11:42,140 --> 00:11:48,500
+Because not only is it new for Marvel Studios, it
+also makes it feel very Jack Kirby-esque. You
+
+127
+00:11:48,500 --> 00:11:53,100
+know, the artist who worked with Stanley to create
+the Fantastic Four. And it feels just plucked
+
+128
+00:11:53,100 --> 00:11:57,660
+right out of that timeline. Oh, yeah, I totally get
+those vibes. The Jack Kirby retrofuturism.
+
+129
+00:11:57,660 --> 00:12:03,180
+Absolutely. Yeah, it kind of lends this innocent,
+happy tone to the film that I don't think you
+
+130
+00:12:03,180 --> 00:12:09,100
+necessarily would get if the movie was set in the
+main MCU in the modern day. Things like, you know,
+
+131
+00:12:09,100 --> 00:12:15,380
+the kids asking the thing to pick up the car seems so
+wholesome, you know, back in the 60s. Whereas
+
+132
+00:12:15,380 --> 00:12:19,240
+today, you know, you have a bunch of cynical
+assholes would probably be like, oh, that's
+
+133
+00:12:19,240 --> 00:12:23,700
+cheesy. Yeah, today you have heroes like the
+Thunderbolts who are dripping with cynicism
+
+134
+00:12:23,700 --> 00:12:28,160
+compared to the Fantastic Four. Right. Yeah. So
+it's kind of cool that we're going to get that
+
+135
+00:12:28,160 --> 00:12:33,600
+dichotomy this summer from Marvel in the
+theaters. We get a scene of Fantastic Four during
+
+136
+00:12:33,600 --> 00:12:39,440
+dinnertime, during which Sue and Reed show up late
+and the thing correctly deduces that she is
+
+137
+00:12:39,440 --> 00:12:44,780
+pregnant. And Johnny gets super excited. This is
+our first real look at Joseph Quinn's portrayal of
+
+138
+00:12:44,780 --> 00:12:49,460
+the Johnny Storm character. And I got to say, I like
+it. I think it's pretty well done. Yeah, Joseph
+
+139
+00:12:49,460 --> 00:12:54,140
+Quinn is a great actor. I really liked him in
+Stranger Things. So I was pretty excited when he
+
+140
+00:12:54,140 --> 00:12:59,900
+was cast for Johnny. I'm actually really liking
+the entire cast, except again for Ben Grimm's
+
+141
+00:12:59,900 --> 00:13:05,420
+voice. Still not loving that. But the other
+performances seem great. Yeah, I still wish that
+
+142
+00:13:05,420 --> 00:13:10,020
+the thing's voice was a little bit deeper, a little
+bit more gravelly. But we'll see. One thing that I
+
+143
+00:13:10,020 --> 00:13:15,640
+do hope changes between now and the release date is
+the special effects on Silver Surfer. They
+
+144
+00:13:15,640 --> 00:13:21,980
+weren't terrible, but I was hoping for a little bit
+more definition in the character. She's pretty
+
+145
+00:13:21,980 --> 00:13:28,080
+low res right now, I would say. I want to say she's
+low res, but I will say she's low articulation, if
+
+146
+00:13:28,080 --> 00:13:32,580
+that makes sense. If we're talking about like
+action figures, this is more of like a Barbie than
+
+147
+00:13:32,580 --> 00:13:40,440
+like a McFarland, you know? Yeah, absolutely. I
+don't mind the look. I still really question why
+
+148
+00:13:40,440 --> 00:13:46,080
+they decided to go with the shawla ball version of
+Silver Surfer, who was a female version of the
+
+149
+00:13:46,080 --> 00:13:51,940
+character as portrayed in the Earth X mini series,
+which is one of my favorite stories of all time. And
+
+150
+00:13:51,940 --> 00:13:56,380
+I know that they're trying to establish this movie
+as set in an alternate universe. But considering,
+
+151
+00:13:56,380 --> 00:14:01,340
+you know, Galactus seems to be portrayed as we
+traditionally know him, this female server
+
+152
+00:14:01,340 --> 00:14:06,940
+server really stands out as like the only thing
+other than the time period that is setting this
+
+153
+00:14:06,940 --> 00:14:11,520
+film apart as an alternate universe story. And
+because of that, I think she stands out like a sore
+
+154
+00:14:11,520 --> 00:14:17,040
+thumb. She should have been Frankie Ray, Nova, the
+other Herald of Galactus after Silver Surfer in
+
+155
+00:14:17,040 --> 00:14:22,560
+the comics. I completely agree. Frankie Ray was
+the character from the comics who used to be Johnny
+
+156
+00:14:22,560 --> 00:14:27,440
+Storm's girlfriend. And she was actually the, I
+want to say niece of Phineas Horton, who created
+
+157
+00:14:27,440 --> 00:14:33,160
+the original Android Human Torch. She was exposed
+to those chemicals. And so she had flame powers and
+
+158
+00:14:33,160 --> 00:14:38,000
+she was turned into a Herald of Galactus and she was
+given the golden skin as opposed to silver like the
+
+159
+00:14:38,000 --> 00:14:41,740
+Silver Surfer. It would have been a great
+spectacle to see on the screen. And they still
+
+160
+00:14:41,740 --> 00:14:46,160
+could have treated this as an alternate universe
+story. We still could have saved the Noran Red
+
+161
+00:14:46,160 --> 00:14:51,800
+Silver Surfer for the primary Marvel timeline.
+It's just it's strange why they chose to go with
+
+162
+00:14:51,800 --> 00:14:57,180
+Shawla Ball. I also think that Julia Garner could
+have made a great Frankie Ray. Oh, yeah, she would
+
+163
+00:14:57,180 --> 00:15:01,600
+have been perfect for the role. There was a shot
+here that was a little bit too reminiscent of the
+
+164
+00:15:01,600 --> 00:15:06,840
+rise of the Silver Surfer film where we saw Johnny
+Storm chase the Silver Surfer out into space and
+
+165
+00:15:06,840 --> 00:15:11,140
+then get knocked back down to earth. I really hope
+this story doesn't hit too many of those same beats
+
+166
+00:15:11,140 --> 00:15:17,300
+that that 2007 movie did. I do have to say I love what
+they're doing with the characters in this film. It
+
+167
+00:15:17,300 --> 00:15:24,360
+seems so much better than the past films. Like Reed
+Richards, dramatic arc, his internal conflict is
+
+168
+00:15:24,360 --> 00:15:30,600
+very apparent in this trailer. I think Pedro
+Pascal is going to do an amazing job in the role. The
+
+169
+00:15:30,600 --> 00:15:35,860
+guilt that he feels over possibly bringing
+attention to earth and possibly leading to its
+
+170
+00:15:35,860 --> 00:15:42,980
+destruction from Galactus is a fantastic story
+beat for the character. They seem to be making so
+
+171
+00:15:42,980 --> 00:15:47,400
+many cool choices, like with a fantastic car, the
+way their powers are portrayed are pretty cool,
+
+172
+00:15:47,400 --> 00:15:51,520
+including Mr. Fantastic, who he's got to see
+stretch for the first time here. And Galactus
+
+173
+00:15:51,520 --> 00:15:57,140
+looks like he's going to be phenomenal. Oh, yeah,
+the invisibility powers that we got to see for a Sue
+
+174
+00:15:57,140 --> 00:16:02,960
+Storms character that looked so damn cool. Yeah,
+it was like a prism, kind of like bending light
+
+175
+00:16:02,960 --> 00:16:08,020
+where you get that kind of rainbow aura at the edge.
+Yeah, I liked how only parts of her were like
+
+176
+00:16:08,020 --> 00:16:13,280
+turning invisible. She was definitely strained,
+but it looked like she was bending light. So cool.
+
+177
+00:16:13,280 --> 00:16:17,580
+I'm really looking forward to this, but I got to say
+Marvel is not too late to just redo the special
+
+178
+00:16:17,580 --> 00:16:23,980
+effects around your Shala Ball Silver Surfer as
+Frankie Ray, the Herald called Nova. It probably
+
+179
+00:16:23,980 --> 00:16:33,560
+is too late. It's not too late, but that brings us to
+our question of the week. What do you think of the
+
+180
+00:16:33,560 --> 00:16:38,940
+Shala Ball Silver Surfer from the Fantastic Four
+First Steps official trailer? So similar to how we
+
+181
+00:16:38,940 --> 00:16:43,680
+asked you guys about the most controversial
+element of the latest Superman preview we saw,
+
+182
+00:16:43,680 --> 00:16:47,400
+where we asked you guys what you thought about
+crypto. Now we're asking your thoughts about the
+
+183
+00:16:47,400 --> 00:16:51,320
+Silver Surfer. Record your answer at
+dynamicdool.com by clicking on the red
+
+184
+00:16:51,320 --> 00:16:55,300
+microphone button in the bottom right hand corner
+of the screen, which will prompt you to leave us a
+
+185
+00:16:55,300 --> 00:17:00,200
+voicemail. Your message could be up to 30 seconds
+long and don't forget to leave your name in case we
+
+186
+00:17:00,200 --> 00:17:04,740
+include you on the podcast. We'll pick our
+favorite answer and award that person a Dynamic
+
+187
+00:17:04,740 --> 00:17:12,020
+Duel No Prize that we'll post to Instagram. Be sure
+to answer before April 26th. In DC News, we finally
+
+188
+00:17:12,020 --> 00:17:20,060
+got a release date for Sandman Season 2, which is
+coming out later this year. In two parts. It came
+
+189
+00:17:20,060 --> 00:17:26,599
+with a brief teaser trailer. They're calling it a
+date announcement in which we get to see all of the
+
+190
+00:17:26,599 --> 00:17:33,700
+members of the Endless, well, six of the seven at
+least, which I've been dying to see. Like ever
+
+191
+00:17:33,700 --> 00:17:39,800
+since I started reading the Sandman comics and
+dreamed of this being adapted on screen, like the
+
+192
+00:17:39,800 --> 00:17:45,600
+Endless are the coolest characters ever. And so to
+see them all together kind of blew my mind and
+
+193
+00:17:45,600 --> 00:17:50,180
+totally has me pumped for this upcoming season.
+Yeah, let me see if I can name them all real quick,
+
+194
+00:17:50,180 --> 00:17:53,880
+being someone who's never read the Sandman
+series. I know there was Destiny at the beginning
+
+195
+00:17:53,880 --> 00:18:01,240
+of the trailer. Of course, there is his sister
+Death and Dream. And of course, we saw Desire and
+
+196
+00:18:01,240 --> 00:18:05,540
+Despair from the previous season. I think the new
+one that we're seeing here, step out of the
+
+197
+00:18:05,540 --> 00:18:11,420
+painting is Delirium, but I'm not clear who the
+missing seventh member is. So the missing seventh
+
+198
+00:18:11,420 --> 00:18:19,200
+member is Destruction, and he is the embodiment of
+change as a word, sort of in the same way that Shiva
+
+199
+00:18:19,200 --> 00:18:26,560
+is the embodiment of destruction and change and
+Hinduism. OK, now Delirium is a fan favorite
+
+200
+00:18:26,560 --> 00:18:33,300
+character. She actually started off as Delight,
+but over the eons, she morphed into Delirium
+
+201
+00:18:33,300 --> 00:18:39,060
+because she was kind of a cosmic afterthought, as
+it were. So she's this very tragic figure, someone
+
+202
+00:18:39,060 --> 00:18:44,920
+who's all powerful, but also insane, though she
+wasn't always. I'm really curious to see what they
+
+203
+00:18:44,920 --> 00:18:49,500
+do with her character and with all of the endless,
+honestly. You know, we got to see characters like
+
+204
+00:18:49,500 --> 00:18:56,220
+Death and Despair and Desire in the first season,
+but they get more heavily involved in Dream's
+
+205
+00:18:56,220 --> 00:19:01,880
+story in these subsequent volumes. So yeah,
+things are going to get good. Now, this season is
+
+206
+00:19:01,880 --> 00:19:09,940
+going to be 11 episodes total, the first six of
+which will be released July 3rd, and the second
+
+207
+00:19:09,940 --> 00:19:16,120
+volume or the second half will be premiering July
+24th, and that's five episodes. Now, we know that
+
+208
+00:19:16,120 --> 00:19:21,700
+this series has been Warner Brothers' most
+expensive television series to date. Oh, and you
+
+209
+00:19:21,700 --> 00:19:27,800
+could definitely tell. Yes. For sure. Everything
+looks incredible from the costuming to the set
+
+210
+00:19:27,800 --> 00:19:32,720
+design. The visual effects are incredible.
+Everything. Everything is incredible. I really
+
+211
+00:19:32,720 --> 00:19:37,700
+enjoyed the first season of the show with the
+exception of a few acting performances. I'm
+
+212
+00:19:37,700 --> 00:19:44,480
+really hoping season two tops that. I imagine it
+will just because of the story and all the
+
+213
+00:19:44,480 --> 00:19:49,560
+different characters that we'll get to meet,
+including Kay, Thor. Did you see that? Oh, is that
+
+214
+00:19:49,560 --> 00:19:56,120
+who that guy was? Yeah. What a poser. Sandman Thor,
+way better than Marvel Thor. You'll find out. I
+
+215
+00:19:56,120 --> 00:20:00,680
+immediately and strongly disagree with that
+statement. I recently canceled my Netflix
+
+216
+00:20:00,680 --> 00:20:06,900
+subscription, but I'm definitely going to get
+back for this series because it may just be my
+
+217
+00:20:06,900 --> 00:20:12,900
+favorite series of all time. OK, calm down. Calm
+down. It might suck. You never know. Dude, did you
+
+218
+00:20:12,900 --> 00:20:18,420
+see the footage? Did you see the footage? I did. I
+know that a good trailer does not make a good
+
+219
+00:20:18,420 --> 00:20:24,340
+series. Now, we should address the elephant in the
+room. Has the news about author Neil Gaiman's
+
+220
+00:20:24,340 --> 00:20:30,380
+general shittiness affected your anticipation
+of this season? No, I could give two shits about
+
+221
+00:20:30,380 --> 00:20:36,840
+Neil Gaiman. Not going to lie. To me, it's all about
+the art, not the artist. I understand sometimes
+
+222
+00:20:36,840 --> 00:20:40,720
+that people don't want to engage with the art
+because they feel like they're supporting the
+
+223
+00:20:40,720 --> 00:20:46,320
+artist. But at the end of the day, I grew up reading
+this series and there's no way I'm skipping out on
+
+224
+00:20:46,320 --> 00:20:51,320
+this. Yeah, I think at some point you got to say,
+fuck them. What they created belongs more now to
+
+225
+00:20:51,320 --> 00:20:56,600
+the fan base. Well, in the case of the Sandman
+universe, almost that exactly because other
+
+226
+00:20:56,600 --> 00:21:02,680
+creators have picked up where he left off and
+created an entire Sandman universe. This is why
+
+227
+00:21:02,680 --> 00:21:16,000
+you don't want to meet your heroes, kids, because
+everyone sucks. DC High Volume, Batman, the Dark
+
+228
+00:21:16,000 --> 00:21:25,260
+Knight's definitive DC comic stories adapted
+directly for audio for the very first time. Fear. I
+
+229
+00:21:25,260 --> 00:21:32,320
+have to make them afraid. He's got a motorcycle.
+Get after him or have you shot? You mean blow up the
+
+230
+00:21:32,320 --> 00:21:40,000
+building? From this moment on, none of you are
+safe. New episodes every Wednesday, wherever you
+
+231
+00:21:40,000 --> 00:21:46,500
+get your podcasts. But that does it for the news
+portion of this episode. Now let's go ahead and
+
+232
+00:21:46,500 --> 00:21:53,000
+move on to the main event where we review the Disney
+Plus and Marvel Studios television series
+
+233
+00:21:53,000 --> 00:22:14,160
+Daredevil, born again season one. OK, Daredevil,
+Born Again is a nine episode Disney Plus
+
+234
+00:22:14,160 --> 00:22:20,000
+television series run by Dario Skardapane and
+starring Charlie Cox and Vincent D'Onofrio. The
+
+235
+00:22:20,000 --> 00:22:24,940
+show is a direct continuation of the three season
+Daredevil Netflix series, which is largely
+
+236
+00:22:24,940 --> 00:22:30,100
+considered one of the best, if not the best,
+superhero television series of all time. I
+
+237
+00:22:30,100 --> 00:22:35,020
+personally rated each of the first three seasons
+of the Netflix show as no less than four and a half
+
+238
+00:22:35,020 --> 00:22:39,800
+out of five stars, including season three, which I
+gave a perfect five star rating. I think the big
+
+239
+00:22:39,800 --> 00:22:45,860
+question in fans minds was was this new show going
+to compare to what came before? And there's a whole
+
+240
+00:22:45,860 --> 00:22:51,120
+lot to talk about in regards to that. So if you
+haven't seen the show, I'm going to say I recommend
+
+241
+00:22:51,120 --> 00:22:57,020
+seeing it. Go ahead and watch it before listening
+to our spoiler breakdown of this season. In fact,
+
+242
+00:22:57,020 --> 00:23:03,440
+go watch all three seasons of the Netflix show if
+you haven't before and then watch Born Again.
+
+243
+00:23:03,440 --> 00:23:07,620
+Right, because we'll be discussing spoilers from
+those seasons as well. And honestly, those
+
+244
+00:23:07,620 --> 00:23:11,220
+seasons are masterpieces for the most part.
+They're worth it. I'm not going to say they're the
+
+245
+00:23:11,220 --> 00:23:17,300
+best superhero television series ever, but it's
+definitely the best Marvel series ever. The best
+
+246
+00:23:17,300 --> 00:23:21,440
+superhero television series of all time. Yes, I
+think we were all hoping after the Netflix deal
+
+247
+00:23:21,440 --> 00:23:26,660
+with Marvel ended that somehow, somewhere, some
+way we'd get to see these characters again.
+
+248
+00:23:26,660 --> 00:23:30,540
+Thankfully, it wasn't too long before we got the
+news that the series rights were coming back to
+
+249
+00:23:30,540 --> 00:23:35,460
+Marvel and that they were continuing the show. And
+then, you know, they cameoed Charlie Cox as Matt
+
+250
+00:23:35,460 --> 00:23:41,040
+Murdock in projects like Spider-Man, No Way Home
+and She-Hulk, Attorney at Law, Season One. And
+
+251
+00:23:41,040 --> 00:23:46,500
+then we also got to see Kingpin show up in shows like
+Hawkeye and Echo. When they first announced the
+
+252
+00:23:46,500 --> 00:23:52,860
+new season as Daredevil Born Again, I understood
+from a branding standpoint why they would call it
+
+253
+00:23:52,860 --> 00:23:57,960
+that, considering the show was being retooled
+under a new streaming service. But at the time of
+
+254
+00:23:57,960 --> 00:24:02,400
+that announcement, I did object to that name
+because, you know, we've already seen Daredevil
+
+255
+00:24:02,400 --> 00:24:08,720
+Born Again adapted masterfully in season three of
+the Netflix show, born again being, you know, the
+
+256
+00:24:08,720 --> 00:24:13,200
+name of a story arc from the comic books. I was
+concerned that the show runners were going to try
+
+257
+00:24:13,200 --> 00:24:18,880
+to retread old ground with the story of Matt
+rebuilding himself from rock bottom. But despite
+
+258
+00:24:18,880 --> 00:24:24,520
+the season's subtitle, the show instead chose the
+interesting angle of adapting the Mayor Fisk
+
+259
+00:24:24,520 --> 00:24:28,720
+storyline from the comics, which I thought was
+fascinating, because in this take, both of the
+
+260
+00:24:28,720 --> 00:24:33,860
+main characters spend a majority of the season
+trying to be something they're not. You know, Matt
+
+261
+00:24:33,860 --> 00:24:39,540
+tries to be just a lawyer, not a vigilante. Fisk
+tries to go straight and just be a mayor, not some
+
+262
+00:24:39,540 --> 00:24:44,140
+crime boss. But each one over the course of the show
+is fooling themselves. And as the episodes go on,
+
+263
+00:24:44,140 --> 00:24:49,800
+they slowly are reborn into their chur selves. So
+Daredevil Born Again as the title works both in
+
+264
+00:24:49,800 --> 00:24:54,840
+terms of branding and in tailoring this
+adaptation to that brand. Yeah, it's kind of like
+
+265
+00:24:54,840 --> 00:25:00,840
+Spider-Man Homecoming in that I think it was
+Marvel Studios kind of claiming ownership of that
+
+266
+00:25:00,840 --> 00:25:05,040
+character and the story that they were going to
+tell. Yeah, we know that the initial approach to
+
+267
+00:25:05,040 --> 00:25:10,160
+the show is to actually ignore the three seasons
+that came before and treat it as its own thing. And
+
+268
+00:25:10,160 --> 00:25:14,900
+then during the actor and writer strikes, they
+realized that that was the wrong way to go. Dario
+
+269
+00:25:14,900 --> 00:25:20,680
+Scarpina, who worked on the Punisher Netflix
+show, came aboard and reworked the show so that
+
+270
+00:25:20,680 --> 00:25:25,280
+they retained the continuity from the Netflix
+show, which all the fans loved. Yeah, the show kind
+
+271
+00:25:25,280 --> 00:25:30,340
+of went through development hell. They've been
+going so far as to rewrite and reshoot the entire
+
+272
+00:25:30,340 --> 00:25:36,580
+season, scrap everything they had so far. I was
+worried that that was going to be evident in this
+
+273
+00:25:36,580 --> 00:25:44,140
+season and it was. But that's not saying that I
+thought the season was bad. I think the worst thing
+
+274
+00:25:44,140 --> 00:25:51,220
+you could say about the season is that it's the
+worst season of Daredevil. But that's not saying a
+
+275
+00:25:51,220 --> 00:25:56,180
+lot just because the other three seasons were
+amazing. And this one was still good. I would
+
+276
+00:25:56,180 --> 00:26:01,960
+agree. Yeah, the season overall had somewhat of a
+tonal disparity that was definitely a product of
+
+277
+00:26:01,960 --> 00:26:06,700
+the production issues it had. But somehow, you
+know, they still produced a show that was at the
+
+278
+00:26:06,700 --> 00:26:11,420
+very least comparable to the Netflix series,
+right? Like it maybe didn't reach those heights,
+
+279
+00:26:11,420 --> 00:26:15,300
+but pretty damn close. And that's pretty
+commendable, considering what they went through
+
+280
+00:26:15,300 --> 00:26:21,460
+while making it. I feel like if they had another
+episode or two, it absolutely would have been even
+
+281
+00:26:21,460 --> 00:26:27,440
+more comparable to what we got with Netflix
+because they definitely left me wanting more this
+
+282
+00:26:27,440 --> 00:26:32,560
+season. Yeah. Now, the Mayor Fisk storyline from
+the comics was fascinating because Fisk becoming
+
+283
+00:26:32,560 --> 00:26:37,500
+the mayor essentially had Daredevil retreat from
+his vigilante persona because Fisk owned the
+
+284
+00:26:37,500 --> 00:26:42,200
+police and the courts. In the comics, it forced
+Matt as the then assistant and district attorney
+
+285
+00:26:42,200 --> 00:26:46,840
+to take a much more political approach to bringing
+down the kingpin. It was a very political story
+
+286
+00:26:46,840 --> 00:26:51,960
+where after a failed assassination attempt on
+Fisk, Matt used special constitutional
+
+287
+00:26:51,960 --> 00:26:57,180
+emergency powers to seize some control from the
+kingpin and restore order to New York. And that
+
+288
+00:26:57,180 --> 00:27:01,900
+leads to the devil's rain storyline. Now, this
+shows adaptation of that story took a much less
+
+289
+00:27:01,900 --> 00:27:06,500
+political approach to the mayor Fisk arc, which I
+think is a good thing because the political
+
+290
+00:27:06,500 --> 00:27:11,320
+aspects of Daredevil board again, I think were
+fairly slow and uninteresting. Like I really
+
+291
+00:27:11,320 --> 00:27:15,780
+couldn't care less about Fisk being labeled a
+union buster in the press. And then like, you know,
+
+292
+00:27:15,780 --> 00:27:21,140
+the intern guy has to give a heartfelt apology for
+it and stuff like that. I was like, let's keep
+
+293
+00:27:21,140 --> 00:27:26,940
+things moving. As decent an actor, I think James
+Gandolfini's son, I can't remember his name was. I
+
+294
+00:27:26,940 --> 00:27:34,080
+just think his character was a little bit
+unnecessary. I kind of saw him as being the son that
+
+295
+00:27:34,080 --> 00:27:39,320
+the kingpin never had. You know, we just got done
+seeing kingpin in the Echo series where he tried to
+
+296
+00:27:39,320 --> 00:27:47,040
+mentor Echo and have that child that he never had.
+But this young guy on his political team ended up
+
+297
+00:27:47,040 --> 00:27:53,120
+being much more of a natural surrogate. I guess it
+was good to get the perspective of people who did
+
+298
+00:27:53,120 --> 00:27:57,160
+support Fisk, which is why I think it was also
+important to include those like documentary
+
+299
+00:27:57,160 --> 00:28:01,840
+style shots of the people of New York, you know,
+giving their say. That was really interesting.
+
+300
+00:28:01,840 --> 00:28:05,380
+That was something that they did here that they
+didn't do in the Netflix show. And I thought it
+
+301
+00:28:05,380 --> 00:28:12,240
+brought a vital like New York element to the show. I
+loved those moments from BB Yurick. Those were
+
+302
+00:28:12,240 --> 00:28:17,820
+really well crafted. They felt like they were
+real, right, which kind of made the whole show feel
+
+303
+00:28:17,820 --> 00:28:22,760
+like it was a little bit more real. It's an
+interesting technique that I've seen before in
+
+304
+00:28:22,760 --> 00:28:29,260
+films, like when Harry met Sally or something like
+that, just real people telling real stories. I
+
+305
+00:28:29,260 --> 00:28:35,280
+thought it really nailed the New York aspect of the
+show, which is important in a daredevil show. I
+
+306
+00:28:35,280 --> 00:28:40,060
+thought it was like a good analog for real life, you
+know, when you see interviews and surveys with
+
+307
+00:28:40,060 --> 00:28:45,400
+people who vote differently from you, you know,
+it's it's so hard to conceive of someone who has a
+
+308
+00:28:45,400 --> 00:28:48,860
+different perspective. And then, yeah, you see
+that there are actually people who think this way.
+
+309
+00:28:48,860 --> 00:28:52,520
+There are actually people who would vote for
+kingpin because of the security provides
+
+310
+00:28:52,520 --> 00:28:58,560
+against, you know, some of the superhero related
+tragedies that have befallen the city of New York.
+
+311
+00:28:58,560 --> 00:29:02,680
+In this adaptation of the mayor Fisk storyline, I
+think the show took the more interesting approach
+
+312
+00:29:02,680 --> 00:29:07,800
+of having Matt and Kingpin find themselves after
+their own respective tragedies, foggy's death
+
+313
+00:29:07,800 --> 00:29:12,800
+and getting shot by echo, forcing them to
+reevaluate their lives. It was a good launching
+
+314
+00:29:12,800 --> 00:29:17,160
+point for the story. And I thought it was
+believable that Fisk might run for mayor after
+
+315
+00:29:17,160 --> 00:29:22,440
+taking some time to reevaluate. And that Matt
+would abandon Daredevil for a time. That being
+
+316
+00:29:22,440 --> 00:29:27,480
+said, you know, it's a little bit disappointing
+that it takes two thirds of the season to get Matt
+
+317
+00:29:27,480 --> 00:29:32,400
+back to being Daredevil again. I know that
+Daredevil season three had a similar buildup to
+
+318
+00:29:32,400 --> 00:29:38,460
+getting him back in the suit. Right. But that
+season executed its pacing flawlessly in my mind.
+
+319
+00:29:38,460 --> 00:29:43,760
+Not so much with this born again season. And apart
+from some pretty fucking brutal book and
+
+320
+00:29:43,760 --> 00:29:49,200
+episodes, born again as a whole felt a little bit
+tamer than the Netflix show, both thematically
+
+321
+00:29:49,200 --> 00:29:53,620
+and in terms of the violence. Though I'll say that
+this season did have the most violence he never,
+
+322
+00:29:53,620 --> 00:29:58,040
+which was like bordering on fucking horror film
+levels of violence when Kingpin crushed
+
+323
+00:29:58,040 --> 00:30:04,260
+Commissioner Gallo's head. That was, I don't
+know, unnecessary. Yeah, it felt like out of
+
+324
+00:30:04,260 --> 00:30:08,460
+place, right? I was like, this isn't the fucking
+terrifier. Like you could have gotten away with
+
+325
+00:30:08,460 --> 00:30:13,480
+the gruesomeness using sound effects alone. Kind
+of like how they did when Kingpin decapitated a guy
+
+326
+00:30:13,480 --> 00:30:20,420
+in the car door in Daredevil season one. You know,
+right? They didn't show it explicitly, but we
+
+327
+00:30:20,420 --> 00:30:25,600
+still got every ounce of the impact. Absolutely. I
+don't need to see Kingpin literally pulling a
+
+328
+00:30:25,600 --> 00:30:30,660
+guy's jaw off and like, you know, all the sinew and
+stuff that comes when you tear it away. Like you
+
+329
+00:30:30,660 --> 00:30:34,620
+would think that someone in there at that point
+would have been like, fuck, I think we're working
+
+330
+00:30:34,620 --> 00:30:43,460
+for the bad guy here. Shit. It's like, I'm out. I'm
+out. That was that was that was a lot, bro. Beyond
+
+331
+00:30:43,460 --> 00:30:48,460
+the time it took for the characters to get back to
+their roles and the tonal inconsistencies. I
+
+332
+00:30:48,460 --> 00:30:53,220
+think the most disappointing thing about born
+again was that due to time constraints during
+
+333
+00:30:53,220 --> 00:30:58,200
+their period of retooling the show, they have the
+number of episodes for season one, because season
+
+334
+00:30:58,200 --> 00:31:05,780
+one was initially going to be 18 episodes. Oh, wow.
+That's way too many episodes. But now it's two
+
+335
+00:31:05,780 --> 00:31:11,140
+seasons of nine episodes. And then season two is
+going to be eight episodes. So the final episode
+
+336
+00:31:11,140 --> 00:31:16,380
+here, you know, if it felt more like a mid season
+finale than a proper season finale, that's
+
+337
+00:31:16,380 --> 00:31:23,180
+because it is in a way. And it doesn't quite seem
+entirely fair to judge a story based solely on its
+
+338
+00:31:23,180 --> 00:31:29,260
+first half, but since that's how they chose to
+release it, that's what we're left to do. And I will
+
+339
+00:31:29,260 --> 00:31:35,360
+say that with the disappointing feeling that I
+felt with this quote unquote season finale, that
+
+340
+00:31:35,360 --> 00:31:40,600
+disappointment will be reflected in my final
+rating of this season. Well, as it should be, like I
+
+341
+00:31:40,600 --> 00:31:46,000
+mentioned earlier, I definitely noticed the
+production problems that this season had. In part
+
+342
+00:31:46,000 --> 00:31:51,840
+with the sudden cliffhanger drop off in this final
+episode of the season, that was totally coming by
+
+343
+00:31:51,840 --> 00:31:56,640
+surprise, by the way. Like I was just waiting for
+the next episode and I was like, wait, what? What?
+
+344
+00:31:56,640 --> 00:32:01,440
+And I guess it's not bad to leave your audience
+wanting more. But I would have appreciated some
+
+345
+00:32:01,440 --> 00:32:08,400
+more catharsis. This feels very much like
+Infinity War or the Empire Strikes Back, but
+
+346
+00:32:08,400 --> 00:32:14,840
+definitely not at the caliber of those projects.
+Right. My least favorite thing wasn't the ending.
+
+347
+00:32:14,840 --> 00:32:21,540
+It was, like you mentioned, just some of the filler
+moments, like the bank episode, I felt it was like
+
+348
+00:32:21,540 --> 00:32:27,600
+an entire filler episode. I loved that episode,
+though. It was standalone, but I thought it was
+
+349
+00:32:27,600 --> 00:32:32,320
+like a perfect standalone that felt almost right
+out of the comics. I could see that. I would have
+
+350
+00:32:32,320 --> 00:32:36,200
+rather skipped it. I didn't need it. There
+definitely was a filler episode here, but it
+
+351
+00:32:36,200 --> 00:32:40,880
+wasn't that episode. Really? Yeah. I'll be
+interested in hearing this. Well, that'll be in
+
+352
+00:32:40,880 --> 00:32:44,760
+our episode highlights. But before that, let's
+get into our character breakdown. Starting with
+
+353
+00:32:44,760 --> 00:32:50,760
+Daredevil, aka Matt Murdock, played by Charlie
+Cox. We've talked about Charlie Cox before on this
+
+354
+00:32:50,760 --> 00:32:55,380
+podcast. He's a flawless Daredevil in my mind. The
+guy not only embodies the role, but I think
+
+355
+00:32:55,380 --> 00:33:00,540
+transcends it with all the nuance he brings to his
+performance. It's so great to have him back in the
+
+356
+00:33:00,540 --> 00:33:04,620
+role. You know, he had his cameos and other
+projects, but I think where Matt Murdock really
+
+357
+00:33:04,620 --> 00:33:10,360
+shines is in the dichotomy between his charm as
+Matt Murdock and his rage as Daredevil. And in
+
+358
+00:33:10,360 --> 00:33:15,520
+order to get that full character spread, you need
+to see him on his own. As mentioned before, Matt was
+
+359
+00:33:15,520 --> 00:33:19,520
+on a journey back to being Daredevil after
+retiring from the role because of the tragic loss
+
+360
+00:33:19,520 --> 00:33:24,680
+of his best friend, Foggy Nelson, and stepping
+over his own personal ethical code in trying to
+
+361
+00:33:24,680 --> 00:33:29,380
+kill Bullseye for that. Over the course of the
+episodes, we see him drift toward his vigilante
+
+362
+00:33:29,380 --> 00:33:33,900
+tendencies more and more, you know, starting with
+a simple warning over a cup of coffee with a
+
+363
+00:33:33,900 --> 00:33:38,840
+kingpin. And then, you know, he ends up dusting off
+his billy club and then he goes on to beat the shit
+
+364
+00:33:38,840 --> 00:33:43,520
+out of some people. And then eventually he dons the
+suit once again. I think I've said multiple times
+
+365
+00:33:43,520 --> 00:33:47,960
+in this podcast's tenure that there's nothing
+harder than sitting through a superhero project
+
+366
+00:33:47,960 --> 00:33:53,400
+watching the main character not want to be the hero
+we know and love. I know I said that with the first
+
+367
+00:33:53,400 --> 00:33:57,860
+half of Luke Cage, season one, and I think I
+definitely said it for She-Hulk, Attorney at Law.
+
+368
+00:33:57,860 --> 00:34:02,420
+And I'll say it again here, it was hard to get
+through those episodes wanting to see him be
+
+369
+00:34:02,420 --> 00:34:09,280
+Daredevil again. Yeah, I definitely felt like
+this was somewhat retread of season three. Like
+
+370
+00:34:09,280 --> 00:34:14,960
+you mentioned, where it kind of takes the whole
+season for him to get back into costume. I agree. I
+
+371
+00:34:14,960 --> 00:34:21,100
+don't love that. I don't think it was as well done as
+season three, but it would be really hard to match
+
+372
+00:34:21,100 --> 00:34:26,239
+that. They tried at least. Yeah, at least they
+showed us that Matt really did want to be Daredevil
+
+373
+00:34:26,239 --> 00:34:30,560
+again and did a good job of putting him in
+situations like the Bank Heist where he still got
+
+374
+00:34:30,560 --> 00:34:35,219
+to show off his powers, you know, just outside of
+his Daredevil outfit. And I liked the Daredevil
+
+375
+00:34:35,219 --> 00:34:40,760
+outfit for this season. I thought it was a cool
+texture upgrade. And I liked the new Billy Club,
+
+376
+00:34:40,760 --> 00:35:17,910
+although it seems infinitely more dangerous than
+the other Billy... I mean, Daredevil is good like
+
+377
+00:35:17,910 --> 00:35:22,530
+that. He's a marksman. He has his radar sense. I
+don't think that's going to happen, but it does
+
+378
+00:35:22,530 --> 00:35:27,890
+seem needlessly lethal for a character who never
+really goes that far. That said, his radar sense
+
+379
+00:35:27,890 --> 00:35:34,650
+this season seemed different than in past
+seasons. Like, he had a harder time focusing on
+
+380
+00:35:34,650 --> 00:35:41,090
+multiple things at once. Like he'd be focusing on
+one thing and miss something else entirely. That
+
+381
+00:35:41,090 --> 00:35:45,930
+happened multiple times this season. I think that
+was more of a product of his rage, such as the Muse
+
+382
+00:35:45,930 --> 00:35:50,430
+fight or something like that, than his actual
+powers going funky. No, I don't think it was his
+
+383
+00:35:50,430 --> 00:35:55,730
+powers going funky. I just think it was a choice on
+behalf of the creative team. Like he would be
+
+384
+00:35:55,730 --> 00:36:00,510
+focusing on someone's footsteps so much that he
+would almost get run over in the street and it's
+
+385
+00:36:00,510 --> 00:36:04,970
+like, oh, that's not the Daredevil I know. The
+Daredevil I know has like a very keen spatial
+
+386
+00:36:04,970 --> 00:36:10,590
+awareness. It's his radar sense. I really did like
+how the show, especially in the first episode, I
+
+387
+00:36:10,590 --> 00:36:16,910
+noticed used aspect ratio to try to portray what he
+was focusing on. So like the letterbox format
+
+388
+00:36:16,910 --> 00:36:22,150
+would shift to almost full screen on some parts
+where the audience got to hone in on exactly what
+
+389
+00:36:22,150 --> 00:36:26,950
+Matt was focusing on. It was very artistic and it's
+not something that they did too much outside of
+
+390
+00:36:26,950 --> 00:36:30,770
+that first episode, unfortunately. It just
+seemed to me more like they were focusing on his
+
+391
+00:36:30,770 --> 00:36:37,570
+senses rather than this sixth radar sense that he
+typically has. Well, I always kind of interpreted
+
+392
+00:36:37,570 --> 00:36:44,590
+his radar sense as the internal image he gets from
+all the sensory data that comes into him. Yes, like
+
+393
+00:36:44,590 --> 00:36:50,330
+echolocation. Yeah. And in season one of
+Daredevil, they portrayed it very much like a city
+
+394
+00:36:50,330 --> 00:36:55,110
+on fire type thing, which I thought was really
+cool. I really want them to go back to that. Yeah,
+
+395
+00:36:55,110 --> 00:37:00,230
+that'd be cool to see again for sure. Let's go ahead
+and move on to the kingpin, AKA Wilson Fisk played
+
+396
+00:37:00,230 --> 00:37:05,470
+by Vincent D'Onofrio. Just like Charlie Cox, it is
+so nice to see Vincent D'Onofrio back in the role in
+
+397
+00:37:05,470 --> 00:37:11,050
+this main show and not just in cameos anymore. Like
+his appearance in Hawkeye was lackluster and his
+
+398
+00:37:11,050 --> 00:37:15,590
+role in Echo was fine. And he was like the best thing
+about Echo season one. But only in the Daredevil
+
+399
+00:37:15,590 --> 00:37:21,130
+show do you truly get a feel for how sadistic and
+terrifying the character is, I think. And really,
+
+400
+00:37:21,130 --> 00:37:25,590
+I think this is the most terrifying we've probably
+ever seen him, especially in the last episode of
+
+401
+00:37:25,590 --> 00:37:30,690
+this season, when he had the whole face ripoff
+thing and then his smile to Vanessa at the end when
+
+402
+00:37:30,690 --> 00:37:35,610
+they were having dinner together. It was like some
+Hannibal Lecter type stuff. Like D'Onofrio was
+
+403
+00:37:35,610 --> 00:37:40,470
+really pulling from some of his creepier roles
+that he's had in like the cell or something like
+
+404
+00:37:40,470 --> 00:37:47,290
+that. Oh, dude, like making Vanessa shoot her
+former lover that she had when she thought he was
+
+405
+00:37:47,290 --> 00:37:52,330
+gone and dead. Yeah, that was trippy. Yeah, their
+whole relationship got a lot more focused here
+
+406
+00:37:52,330 --> 00:37:56,850
+than I thought it would. But I was definitely along
+for the ride. I like where they took it. Yeah, he had
+
+407
+00:37:56,850 --> 00:38:01,870
+a phenomenal arc this season, I thought. There was
+an interesting note that they made this season. It
+
+408
+00:38:01,870 --> 00:38:07,090
+was really kind of almost a throwaway line that
+Vanessa said in the final episode, episode nine,
+
+409
+00:38:07,090 --> 00:38:12,990
+that served to bridge the gap between the Netflix
+show and Hawkeye. At the end of Daredevil Season
+
+410
+00:38:12,990 --> 00:38:17,930
+Three, I think we all assumed that Kingpin was
+going to be locked up forever. But in this season,
+
+411
+00:38:17,930 --> 00:38:23,030
+we learned that he was acquitted by his defense
+attorneys who painted the FBI, including people
+
+412
+00:38:23,030 --> 00:38:28,850
+like Agent Nadine, as corrupt. And if you go back
+and watch Daredevil Season Three, it's just so
+
+413
+00:38:28,850 --> 00:38:35,110
+fucking tragic. Considering how cathartic the
+end of that show was and how it really felt like Matt
+
+414
+00:38:35,110 --> 00:38:41,130
+and Agent Nadine got justice there. And it turns
+out, yeah, they did it. No, Kingpin was acquitted
+
+415
+00:38:41,130 --> 00:38:46,190
+just like he always is. It was kind of bullshit.
+Yeah, I could see that. But I also don't see any
+
+416
+00:38:46,190 --> 00:38:50,990
+other way around it, really. Well, yeah, the bad
+guys always got to come back, right? And, you know,
+
+417
+00:38:50,990 --> 00:38:56,670
+they already established the fact that Kingpin
+was not in jail from shows like Hawkeye and shows
+
+418
+00:38:56,670 --> 00:39:02,530
+like Echo. Right. So I figured something went
+wrong somewhere. I did think it was cool how
+
+419
+00:39:02,530 --> 00:39:06,910
+Vincent DeNafio bulked up over the episodes. I
+don't know if he bulked up like physically or if it
+
+420
+00:39:06,910 --> 00:39:12,390
+was just the tailoring of his suits. But I did
+notice upon his first reveal, I was like, oh, he's
+
+421
+00:39:12,390 --> 00:39:16,510
+skinnier. And they even mentioned that in the
+show. Matt comments, you've lost weight and
+
+422
+00:39:16,510 --> 00:39:21,770
+everything. But by the end, dude was fucking
+massive. So that was a really believable
+
+423
+00:39:21,770 --> 00:39:25,850
+transformation that I thought was pretty dope.
+Apparently he was bulking up down in that secret
+
+424
+00:39:25,850 --> 00:39:31,530
+dungeon that he had. He definitely looked a lot
+better and more dapper here than he had in shows
+
+425
+00:39:31,530 --> 00:39:38,510
+like Hawkeye and Echo. I loved DeNafio as Kingpin.
+He's perfect in the role. Let's go ahead and move on
+
+426
+00:39:38,510 --> 00:39:43,710
+to the Punisher, a.k .a. Frank Castle, played by
+John Berndthal. It was nice to see the Punisher
+
+427
+00:39:43,710 --> 00:39:48,450
+back. I still think that Berndthal is the most
+compelling actor to play the character. I'm not
+
+428
+00:39:48,450 --> 00:39:53,270
+quite sure that they used Frank Castle as well as
+they could have during this season. No. I was a
+
+429
+00:39:53,270 --> 00:39:57,890
+little underwhelmed by Matt and Frank's initial
+meetup. I don't think it held a candle to any of
+
+430
+00:39:57,890 --> 00:40:03,030
+their interactions in Daredevil season two,
+which were like Shakespearean in quality. I don't
+
+431
+00:40:03,030 --> 00:40:06,790
+know if I would go that far, but it was so much better
+than what they did here. Yes, Shakespearean.
+
+432
+00:40:06,790 --> 00:40:13,190
+Okay. I was so glad that Punisher showed up again in
+the final episode. That way we could see him get in
+
+433
+00:40:13,190 --> 00:40:17,490
+action scene with Daredevil. And we saw him
+address the issue of the Punisher copycats, which
+
+434
+00:40:17,490 --> 00:40:23,170
+I was hoping was a thread that they wouldn't leave
+dangling. Yeah, it's so relevant to the real
+
+435
+00:40:23,170 --> 00:40:30,130
+world. Would you have some cops and some authority
+figures touting a Punisher logo as a symbol that
+
+436
+00:40:30,130 --> 00:40:35,330
+they aspire to? It's not great. No, I don't love
+that. I've been wanting to get a Punisher tattoo
+
+437
+00:40:35,330 --> 00:40:39,650
+for the longest time. I have a Captain America
+shield on one shoulder. I wanted to get a Punisher
+
+438
+00:40:39,650 --> 00:40:43,670
+skull on the other. It's kind of like that
+dichotomy, the angel-devil shoulder kind of
+
+439
+00:40:43,670 --> 00:40:49,030
+motif. And I won't get a Punisher tattoo now
+because I think it's been co-opted by people who
+
+440
+00:40:49,030 --> 00:40:53,990
+shouldn't be using it necessarily. I don't mind
+gun enthusiasts using the Punisher logo, but I do
+
+441
+00:40:53,990 --> 00:40:59,510
+have a problem with law enforcement using it
+because it's a symbol of a person who deals out
+
+442
+00:40:59,510 --> 00:41:04,670
+lethal justice because in part they've gone
+insane and I just don't think it's a good look. I
+
+443
+00:41:04,670 --> 00:41:09,970
+hate when I see the Punisher skull with the thin
+blue line. Yeah, I don't think anyone should be
+
+444
+00:41:09,970 --> 00:41:15,330
+using the Punisher logo, honestly. Some
+positions in society should be held to a higher
+
+445
+00:41:15,330 --> 00:41:21,170
+standard, I would say personally. And that
+standard should not be the Punisher. Right, yeah.
+
+446
+00:41:21,170 --> 00:41:25,070
+He's an interesting character, one of Marvel's
+most interesting characters in fact, but I don't
+
+447
+00:41:25,070 --> 00:41:29,510
+think he's necessarily an inspiring character.
+Peacemaker! They should just get Peacemaker
+
+448
+00:41:29,510 --> 00:41:36,530
+logos. So much better. The irony of that
+statement. I wonder if we'll see Punisher again in
+
+449
+00:41:36,530 --> 00:41:40,870
+Daredevil Season 2 or if we'll only see him again in
+the special presentation that Marvel's working
+
+450
+00:41:40,870 --> 00:41:45,990
+on. Either way, I hope we see what he does once he
+escapes his cell as we saw him do in the
+
+451
+00:41:45,990 --> 00:41:51,410
+post-credits scene of the show. Dude, that was so
+obvious. The cop who went to shake his hand is a
+
+452
+00:41:51,410 --> 00:41:57,310
+freaking idiot. Anthony was a big dum-dum for
+sure. I kind of hope that we don't see the Punisher
+
+453
+00:41:57,310 --> 00:42:03,330
+in the following season of Born Again, just
+because like you, I don't think he was really well
+
+454
+00:42:03,330 --> 00:42:09,330
+used here, which is surprising considering that
+the Punisher showrunner came on board to the
+
+455
+00:42:09,330 --> 00:42:14,810
+writing team for this series. Yeah, well, I also
+hope that he doesn't show up again in Season 2, not
+
+456
+00:42:14,810 --> 00:42:18,990
+because I don't want to see the character, but
+because he's not really a team player. And so if you
+
+457
+00:42:18,990 --> 00:42:24,090
+have him teaming up with, you know, whether it be
+the defenders or New York City's finest, I think it
+
+458
+00:42:24,090 --> 00:42:29,030
+would just be strange to see him be that kind of
+person. He's more of a loner, you know? He was a
+
+459
+00:42:29,030 --> 00:42:33,170
+member of the Thunderbolts for a while in the
+comics. He should have been in that movie. Yeah,
+
+460
+00:42:33,170 --> 00:42:37,810
+that was weird too, though. Let's go ahead and move
+on to the character of Muse, aka Bastion Cooper,
+
+461
+00:42:37,810 --> 00:42:42,370
+who was played by Hunter Doohon. I'll say that I'm a
+little bit conflicted with the characterization
+
+462
+00:42:42,370 --> 00:42:48,770
+of Muse in this series. On one hand, he ended up
+being so much less mysterious than his comic book
+
+463
+00:42:48,770 --> 00:42:54,270
+counterpart, because in the comics, who he is
+really isn't even human. Like, he has powers.
+
+464
+00:42:54,270 --> 00:42:59,670
+Like, he can absorb the sensory data in his close
+proximity, which makes him hard to pinpoint. On
+
+465
+00:42:59,670 --> 00:43:05,170
+the other hand, I'll admit that adapting him as
+this sort of Banksy artist serial killer, who
+
+466
+00:43:05,170 --> 00:43:09,730
+drains and paints with the blood of his victims was
+pretty damn interesting. I didn't know anything
+
+467
+00:43:09,730 --> 00:43:15,970
+about the character of Muse from the comics. I
+thought this character was pretty interesting in
+
+468
+00:43:15,970 --> 00:43:22,530
+this show, even though I felt like he kind of came
+too little too late and then was gone by the time
+
+469
+00:43:22,530 --> 00:43:28,890
+things got interesting. Well, according to the
+rumors, Muse was originally going to be the main
+
+470
+00:43:28,890 --> 00:43:34,690
+bad guy of the season. And then the show got
+retooled and he was kind of sidelined. And I really
+
+471
+00:43:34,690 --> 00:43:39,030
+think that the show could have used him in a couple
+more episodes than they had him in, just to build up
+
+472
+00:43:39,030 --> 00:43:44,970
+that mystery, you know? The actor who played him, I
+thought did a decent job, even though it was very
+
+473
+00:43:44,970 --> 00:43:52,930
+obvious that he was Muse. I don't know if you saw the
+show Wednesday, but it was the same bad guy actor.
+
+474
+00:43:52,930 --> 00:43:57,270
+So right away when I saw him, I was like, okay, he's
+the bad guy. Honestly, he didn't even register to
+
+475
+00:43:57,270 --> 00:44:02,950
+me at the book signing when we first saw the
+character, until the recap of the previous
+
+476
+00:44:02,950 --> 00:44:07,950
+episodes at the start of each episode, I realized,
+oh, it's this guy. I thought the element of
+
+477
+00:44:07,950 --> 00:44:12,750
+painting with your victim's blood after draining
+it was a really interesting modus operandi that we
+
+478
+00:44:12,750 --> 00:44:18,730
+haven't seen or I personally haven't seen in a lot
+of like thriller material like shows and movies,
+
+479
+00:44:18,730 --> 00:44:24,090
+conceptually evil Banksy. It just felt kind of
+neat. Yeah, I wonder what Banksy thinks of this
+
+480
+00:44:24,090 --> 00:44:30,010
+series. He probably hates it. I did think that the
+revelation that he was like a Taekwondo expert was
+
+481
+00:44:30,010 --> 00:44:35,070
+a little bit convenient. That's right. It was a
+little bit ridiculous. Like they needed to give
+
+482
+00:44:35,070 --> 00:44:39,890
+some kind of rationale for why he could hold his own
+in a fight against Daredevil, but just kind of like
+
+483
+00:44:39,890 --> 00:44:45,770
+shoehorn again. Oh, I'm a Taekwondo champion was
+silly at best. It's like, sure you are, pal. Sure
+
+484
+00:44:45,770 --> 00:44:50,730
+you are. Let's move on to Bullseye, aka Benjamin
+Pointexter, played by Wilson Bethel. I really
+
+485
+00:44:50,730 --> 00:44:54,850
+like Wilson Bethel. I thought he was a force of
+nature in Daredevil Season 3, and I was so glad that
+
+486
+00:44:54,850 --> 00:44:59,030
+they brought him back for board again. I think he
+was a little underutilized, just like Muse here,
+
+487
+00:44:59,030 --> 00:45:05,190
+but he absolutely gave us the best action scene of
+the season, which ironically was in Episode 1.
+
+488
+00:45:05,190 --> 00:45:10,250
+Yeah, it was the action scene that kicked off the
+series, basically. Wilson Bethel's Bullseye is
+
+489
+00:45:10,250 --> 00:45:15,190
+still, I think, one of the most terrifying
+villains we've probably ever seen in a superhero
+
+490
+00:45:15,190 --> 00:45:20,090
+television series. Seeing him come back just
+brought me chills. I didn't know he was going to be
+
+491
+00:45:20,090 --> 00:45:26,930
+in the series. And when he was, I kind of thought he
+was dispatched a little too quickly. I'm glad they
+
+492
+00:45:26,930 --> 00:45:31,970
+brought him back and it was cool to see some of the
+things he did. But yeah, I definitely needed more
+
+493
+00:45:31,970 --> 00:45:37,510
+Bullseye this season. Yeah, I think newcomers to
+the Daredevil show who hadn't seen the Netflix
+
+494
+00:45:37,510 --> 00:45:43,730
+previous seasons, I don't think we're
+adequately, probably convinced of how scary this
+
+495
+00:45:43,730 --> 00:45:48,950
+character is based just on his showings in this
+show. I mean, that first episode was incredible,
+
+496
+00:45:48,950 --> 00:45:54,330
+but I think you really have to see Daredevil Season
+3 to get a grasp of the depth that has gone into this
+
+497
+00:45:54,330 --> 00:45:59,550
+character. I hope he comes back. I don't know where
+the hell he went to in that last episode. Right? He
+
+498
+00:45:59,550 --> 00:46:05,070
+just disappeared. Yeah, I don't think he had any
+reason to. He was trying to kill the kingpin for
+
+499
+00:46:05,070 --> 00:46:09,890
+putting him into general population, but he
+probably would have been fine killing Matt and
+
+500
+00:46:09,890 --> 00:46:15,030
+Kingpin and Vanessa all in one go. But instead, he
+missed a shot and then took off. It was strange.
+
+501
+00:46:15,030 --> 00:46:22,650
+Yeah, seeing Kingpin go to Windows to look outside
+after an assassination attempt from Bullseye, I
+
+502
+00:46:22,650 --> 00:46:27,610
+was like, yeah, that's not a smart move. Like
+Bullseye will always hunt you down. Exactly. And
+
+503
+00:46:27,610 --> 00:46:32,170
+also, I don't think putting Bullseye in general
+population was actually a threat to him. I feel
+
+504
+00:46:32,170 --> 00:46:36,330
+like he could have killed every other prisoner
+that was there, considering he can turn anything
+
+505
+00:46:36,330 --> 00:46:41,750
+into a weapon pretty much. Yeah, absolutely. I'm
+wondering why he didn't. I don't know. But that's
+
+506
+00:46:41,750 --> 00:46:51,630
+it for the characters. Let's go ahead and move into
+our episode highlights. In a world where
+
+507
+00:46:51,630 --> 00:46:57,610
+fantasies collide and heroes clash, one podcast
+network rises above the rest. Prepare yourself
+
+508
+00:46:57,610 --> 00:47:03,870
+for the ultimate showdowns in comic books, video
+games, movies, and anime. The Dynamite Podcast
+
+509
+00:47:03,870 --> 00:47:10,570
+Network presents Console Combat, where video
+game legends brawl every Monday. Dynamic Duel,
+
+510
+00:47:10,570 --> 00:47:16,530
+where comic book titans smash every Tuesday. Max
+Destruction, where TV and action heroes battle
+
+511
+00:47:16,530 --> 00:47:23,330
+every Wednesday. And Sendro World, where anime
+champions clash every Thursday. Join us as we
+
+512
+00:47:23,330 --> 00:47:28,510
+speculate on the matches and armed with the power
+of mathematical simulations, discover who will
+
+513
+00:47:28,510 --> 00:47:38,510
+emerge victorious. Visit dynamicpodcast.com,
+where we settle the debate and settle the score.
+
+514
+00:47:38,510 --> 00:47:43,150
+Episode 1 was called Heaven's Half Hour. While
+celebrating the retirement of their NYPD
+
+515
+00:47:43,150 --> 00:47:47,450
+associate, Cherry, Matt Murdock, and his friends
+are attacked by Bullseye, who shoots and kills
+
+516
+00:47:47,450 --> 00:47:53,030
+Foggy Nelson. In retaliation, Daredevil drops
+the villain off a roof, an act seen by Cherry, who
+
+517
+00:47:53,030 --> 00:47:57,890
+learns that Matt is Daredevil. One year later,
+Matt has retired as the hero and works at a new law
+
+518
+00:47:57,890 --> 00:48:03,050
+firm started with former DEA Kirsten McDuffie,
+who sets him up with her friend Heather Glenn, a
+
+519
+00:48:03,050 --> 00:48:07,770
+therapist. Kingpin returns to New York after
+spending time away recovering from being shot and
+
+520
+00:48:07,770 --> 00:48:12,450
+nearly killed. He has his wife Vanessa step away
+from leading New York's crime in his stead and
+
+521
+00:48:12,450 --> 00:48:17,910
+announces his candidacy for mayor, running on an
+anti-crime and anti-vigilante platform. Matt
+
+522
+00:48:17,910 --> 00:48:22,770
+and Fisk meet at a diner, warning each other to stay
+in line. Seen as a tough and capable candidate by
+
+523
+00:48:22,770 --> 00:48:27,710
+the people of New York, Fisk wins the election for
+mayor. He admits to Vanessa that he knows of the
+
+524
+00:48:27,710 --> 00:48:32,430
+affair she had with a man named Adam during his
+absence. As the city celebrates, a graffiti
+
+525
+00:48:32,430 --> 00:48:37,690
+artist paints a mural of Fisk. To me, this was the
+best episode. I always hate when that happens,
+
+526
+00:48:37,690 --> 00:48:41,830
+when the first episode was the best, but I don't
+regret this one because I had such a good time
+
+527
+00:48:41,830 --> 00:48:48,050
+watching it. It really felt cathartic, you know,
+getting the show that you know and love back and
+
+528
+00:48:48,050 --> 00:48:52,770
+just as good as you remember it. By the time those
+opening credits rolled, after we saw Daredevil
+
+529
+00:48:52,770 --> 00:48:58,290
+throw Bullseye off the building after hearing
+Foggy's heart stop and he tossed his helmet down
+
+530
+00:48:58,290 --> 00:49:03,250
+with all those blades sticking out of him, I was
+floored. My jaw was on the ground and I was just able
+
+531
+00:49:03,250 --> 00:49:08,030
+to just like absorb that new opening credit scene
+with a riff on the classic Daredevil theme, you
+
+532
+00:49:08,030 --> 00:49:13,810
+know, it was fantastic. I really wish the internet
+wasn't so quick to spoil things for people. Like
+
+533
+00:49:13,810 --> 00:49:18,250
+right after the episode dropped, I learned that
+Foggy Nielsen was going to die in the first
+
+534
+00:49:18,250 --> 00:49:24,530
+episode. And so it kind of ruined the whole opening
+kind of bit for me. That's horrible. Well, you
+
+535
+00:49:24,530 --> 00:49:28,130
+still said you didn't know Bullseye was going to
+show up, so you were surprised by that. That's
+
+536
+00:49:28,130 --> 00:49:34,250
+fair. Yeah, I was surprised by Bullseye, not by the
+outcome of what happened, though. It was a cool
+
+537
+00:49:34,250 --> 00:49:38,770
+fight, though. I love how it was that, you know,
+single tracking shot that the Daredevil series is
+
+538
+00:49:38,770 --> 00:49:43,450
+known for, where we got to see Daredevil and
+Bullseye fight outside of Josie's Bar, come into
+
+539
+00:49:43,450 --> 00:49:47,990
+Josie's Bar, go up the stairwell, and then onto the
+roof. The fight choreography was just
+
+540
+00:49:47,990 --> 00:49:54,030
+phenomenal. And seeing Bullseye like murder so
+many people in the course of that fight, yeah, it
+
+541
+00:49:54,030 --> 00:49:58,810
+was horrifying. And also seeing Bullseye like
+smack the pavement the way he did, I totally
+
+542
+00:49:58,810 --> 00:50:03,750
+thought they killed off the character. Me too. In
+regards to some of the side characters, I don't
+
+543
+00:50:03,750 --> 00:50:08,770
+think Kirsten McDuffie was nearly as compelling
+in the show as she is in the comics. She's a more fun
+
+544
+00:50:08,770 --> 00:50:13,130
+character in the comics, I think, a little more
+witty. But I've never liked Heather Glenn,
+
+545
+00:50:13,130 --> 00:50:16,670
+whether it was in the comic books or in the show,
+especially in the show, though, that she was a
+
+546
+00:50:16,670 --> 00:50:21,230
+waste of a character. You know, she actually
+showed up in the 2003 Daredevil movie with Ben
+
+547
+00:50:21,230 --> 00:50:26,790
+Affleck. She was the one that left the voicemail on
+his phone, breaking up with him, saying he was too
+
+548
+00:50:26,790 --> 00:50:31,930
+distant. That was Heather. Same character.
+Interesting. In the book, she was like a socialite
+
+549
+00:50:31,930 --> 00:50:36,810
+heiress, if I remember correctly. Episode two was
+called Optics. Hector Eliyat comes across two men
+
+550
+00:50:36,810 --> 00:50:41,510
+beating up another on a subway platform and tries
+to stop them when one of the aggressors is hit by a
+
+551
+00:50:41,510 --> 00:50:46,250
+train and the other reveals themselves as a cop.
+Matt overhears Hector's story and volunteers to
+
+552
+00:50:46,250 --> 00:50:51,030
+defend him against his murder charge. Charyon
+covers that Hector is the vigilante known as White
+
+553
+00:50:51,030 --> 00:50:56,050
+Tiger. Information which Matt requests be held
+from the trial, believing that a history of
+
+554
+00:50:56,050 --> 00:51:00,530
+violence would bias the jury. Fisk Blackmail's
+New York Police Commissioner Gallo to prevent him
+
+555
+00:51:00,530 --> 00:51:04,810
+from resigning in protest of his election.
+Heather begins counseling Kingpin and Vanessa's
+
+556
+00:51:04,810 --> 00:51:09,770
+marriage. Matt tracks down the subway platform
+victim named Torres to get him to testify against
+
+557
+00:51:09,770 --> 00:51:15,830
+the cops, but he's interrupted by officers with
+Punisher Skull Tattoos who attempt to attack him.
+
+558
+00:51:15,830 --> 00:51:20,650
+Matt savagely beats them in response when that's
+the end of the episode. What did you think of White
+
+559
+00:51:20,650 --> 00:51:25,650
+Tiger in this series? I thought it was cool. I
+thought his costume could use some work, although
+
+560
+00:51:25,650 --> 00:51:33,990
+he's kind of depicted as a homegrown type of
+superhero. I thought it was canonically supposed
+
+561
+00:51:33,990 --> 00:51:38,810
+to be made out of jade. I don't know what it was made
+out of here. It looked like silver, but I wish I
+
+562
+00:51:38,810 --> 00:51:45,010
+could have seen more of White Tiger in action in his
+costume. Like we saw some like footage of it on the
+
+563
+00:51:45,010 --> 00:51:52,050
+BB Eurek report, but you know his ability is to be
+three times the martial artist, three times the
+
+564
+00:51:52,050 --> 00:51:57,130
+strength, you know, three times the skill due to
+the three pieces of the jade amulets. I think it
+
+565
+00:51:57,130 --> 00:52:01,090
+would have been cool to see that in action. Yeah,
+that's what I was going to say. I would have loved to
+
+566
+00:52:01,090 --> 00:52:06,830
+have seen White Tiger in action. It was kind of
+weird to hear Matt Murdock and everyone talking
+
+567
+00:52:06,830 --> 00:52:12,750
+about this amulet that he had that gives him like
+superhuman powers. I was like, this is kind of
+
+568
+00:52:12,750 --> 00:52:17,950
+different from the more grounded Netflix shows
+when they're talking about superpowers. Right.
+
+569
+00:52:17,950 --> 00:52:21,770
+Yeah. I mean, the fact that they're setting it more
+in the MCU kind of got to give him a little bit more of
+
+570
+00:52:21,770 --> 00:52:25,870
+that leeway. But the fact that like the amulet
+wasn't taken by the Department of Damage Control
+
+571
+00:52:25,870 --> 00:52:30,690
+or something like that, like his positions were
+returned to his next of kin. You know, his niece,
+
+572
+00:52:30,690 --> 00:52:35,370
+Angela was in the show and she becomes his
+successor as the White Tiger. This whole
+
+573
+00:52:35,370 --> 00:52:40,370
+storyline almost played exactly like how it did in
+the comic books where he was framed for a murder of a
+
+574
+00:52:40,370 --> 00:52:45,950
+cop and Matt defends him, gets him acquitted, and
+then White Tiger is shot and killed right after
+
+575
+00:52:45,950 --> 00:52:50,830
+leading to Angela taking up the mantle. Although
+in this show, Angela is a lot younger. Yeah, I was
+
+576
+00:52:50,830 --> 00:52:55,610
+about to say she was way too short to be a superhero.
+Yeah. She's not my favorite version of the White
+
+577
+00:52:55,610 --> 00:53:00,330
+Tiger, though. That's Eva Hector's sister. You
+can learn more about White Tiger in our Dula
+
+578
+00:53:00,330 --> 00:53:05,590
+episode where we pit her against Bronze Tiger. I
+want to say RIP to Kamar Dulos Reyes, the actor who
+
+579
+00:53:05,590 --> 00:53:12,950
+played White Tiger. He died in December 2023 from
+cancer. Oh, no way. What? Yeah. He dedicated a few
+
+580
+00:53:12,950 --> 00:53:17,770
+episodes to him. I didn't make that connection. So
+we've on to episode three, the hollow of his hand
+
+581
+00:53:17,770 --> 00:53:21,970
+with Kingpin stepping away from crime, the gang
+leaders Victor and Luca start turning on each
+
+582
+00:53:21,970 --> 00:53:27,050
+other. Vanessa frustrated that her work is being
+undone as Kingpin's right hand man Cashman
+
+583
+00:53:27,050 --> 00:53:32,490
+ordered Luca to pay Victor 1.8 million in
+restitution. In court, the victim Taurus
+
+584
+00:53:32,490 --> 00:53:38,010
+declines to testify on Hector's behalf at a fear of
+police retaliation, causing Matt to reveal his
+
+585
+00:53:38,010 --> 00:53:42,850
+client's White Tiger identity, focusing on
+testimony from the people he saved over the years.
+
+586
+00:53:42,850 --> 00:53:47,590
+The jury finds Hector not guilty, which angers
+Fisk due to his anti-vigilante stance. Despite
+
+587
+00:53:47,590 --> 00:53:51,950
+Matt warning him to lay low after being
+exonerated, Hector dons his White Tiger costume
+
+588
+00:53:51,950 --> 00:53:57,170
+and is shot dead by a man wearing the Punisher
+symbol. I thought this was a great legal episode. I
+
+589
+00:53:57,170 --> 00:54:01,270
+always like seeing the legal cases that Matt takes
+on play out in the courts. It's one of the unique
+
+590
+00:54:01,270 --> 00:54:05,750
+aspects of the Daredevil comic and these
+Daredevil shows. And also, you know, the She-Hulk
+
+591
+00:54:05,750 --> 00:54:10,590
+shows, which you know how I felt about that show in
+our review. But I always like a good legal drama.
+
+592
+00:54:10,590 --> 00:54:15,070
+And I thought that played out pretty well here.
+Yeah, it played out as one of the better trials that
+
+593
+00:54:15,070 --> 00:54:20,990
+have been in the entire series. I agree. And the
+ending was sufficiently tragic. When I saw the
+
+594
+00:54:20,990 --> 00:54:26,950
+Punisher skull, I was like, that wasn't Frank. So I
+knew that they were kind of going to address the
+
+595
+00:54:26,950 --> 00:54:31,950
+police idolatry of the character of Punisher,
+that whole theme within the course of this show,
+
+596
+00:54:31,950 --> 00:54:36,750
+which I was really looking forward to. I actually
+thought the mystery of who shot White Tiger was
+
+597
+00:54:36,750 --> 00:54:42,210
+going to be the main focus of the show. It was kind of
+weird when they were deviating with subplots
+
+598
+00:54:42,210 --> 00:54:47,170
+after that. Yeah, it was kind of pushed off to the
+side, which is unfortunate, especially for the
+
+599
+00:54:47,170 --> 00:54:52,450
+character of White Tiger. And I wasn't thrilled by
+the reveal that it was Cole North, who in this show
+
+600
+00:54:52,450 --> 00:54:57,450
+was a member of the anti-vigilante task force. But
+in the comic books, he's actually a police
+
+601
+00:54:57,450 --> 00:55:01,990
+detective. It's more like the character of Cherry
+within this show, except more of a badass because
+
+602
+00:55:01,990 --> 00:55:07,290
+he can fight. It was very against the type of
+character that he is in the comic books. In the
+
+603
+00:55:07,290 --> 00:55:11,830
+comic books, he's more of a hero. Yeah, the reveal
+that he was the killer was so anti-cli-backed. I
+
+604
+00:55:11,830 --> 00:55:16,330
+was like, come on, it was one of the things that kind
+of made me feel that there was trouble going on
+
+605
+00:55:16,330 --> 00:55:21,920
+behind the scenes story-wise. Yeah, maybe.
+Episode 4 was called Six Semper Systema. Matt
+
+606
+00:55:21,920 --> 00:55:26,010
+comforts Hector's niece Angela, who believes the
+cops killed her uncle. Kingpin and Vanessa
+
+607
+00:55:26,010 --> 00:55:30,850
+discuss her affair with Adam in therapy. Matt
+represents a man arrested for stealing caramel
+
+608
+00:55:30,850 --> 00:55:35,870
+corn. Fisk announces his plan to rebuild the
+city's Red Hook port, which some suspect is a cover
+
+609
+00:55:35,870 --> 00:55:41,330
+to build up his future criminal endeavors. Matt
+tracks the bullet casing used to kill Hector and
+
+610
+00:55:41,330 --> 00:55:45,950
+sees the Punisher skull on it. He tracks down
+Punisher to ask if he's Hector's killer and if not
+
+611
+00:55:45,950 --> 00:55:51,370
+to take responsibility for those misusing his
+symbol. Frank calls Matt out on his anger and his
+
+612
+00:55:51,370 --> 00:55:56,490
+failure to avenge Foggy. Matt contemplates the
+Daredevil mantle while pulling his billy club out
+
+613
+00:55:56,490 --> 00:56:01,730
+of storage as Fisk has dinner in a secret dungeon
+where he's keeping Adam. I thought this was the
+
+614
+00:56:01,730 --> 00:56:05,890
+filler episode. A lot of it was just kind of
+unimportant. You know, the biggest thing about
+
+615
+00:56:05,890 --> 00:56:11,830
+this episode was the Matt and Frank meetup, but
+that was weak as hell. I just really didn't like how
+
+616
+00:56:11,830 --> 00:56:16,350
+that played out, because the way it ended, it
+almost played like a scene from Good Will Hunting,
+
+617
+00:56:16,350 --> 00:56:21,490
+where Frank was like, you're angry about Foggy's
+death, ain't ya? Well, it's not your fault, Red.
+
+618
+00:56:21,490 --> 00:56:26,670
+It's not your fault. And Matt's like, don't fuck
+with me, man. And then, you know, they share a cry.
+
+619
+00:56:26,670 --> 00:56:31,950
+And I'm sitting over here like, what the fuck is
+going on? Right, 100%. I was like, well, that's
+
+620
+00:56:31,950 --> 00:56:39,890
+unusually intuitive for Frank Castle. Right. The
+whole caramel corn thing. What the fuck was that
+
+621
+00:56:39,890 --> 00:56:44,150
+about? It was supposed to be a commentary on
+society, you know? It really hit home when the guy
+
+622
+00:56:44,150 --> 00:56:48,670
+was like, you know, the city's willing to pay five
+times as much to have me incarcerated than to help
+
+623
+00:56:48,670 --> 00:56:52,270
+me eat. You know, it was really tragic hearing
+about him, you know, digging through trash and
+
+624
+00:56:52,270 --> 00:56:56,810
+stuff like that. And a lot of people are in this
+vicious cycle. But, you know, that whole plot
+
+625
+00:56:56,810 --> 00:57:02,190
+thread really never went anywhere. I don't know if
+they were trying to go for like Stiltman in the
+
+626
+00:57:02,190 --> 00:57:06,750
+Netflix shows here. I think it would have been
+better if they would have, because at least I would
+
+627
+00:57:06,750 --> 00:57:12,390
+have cared a little bit more. Oh, you're talking
+about Turk Barrett? Yes. Yeah, in the comic books,
+
+628
+00:57:12,390 --> 00:57:16,490
+he's Stiltman, but they never showed him in his
+Stilts. They only referenced him in the old
+
+629
+00:57:16,490 --> 00:57:20,770
+Netflix show. They should have made Turk come
+back. I really like Turk. I thought he was a great
+
+630
+00:57:20,770 --> 00:57:25,730
+character in the old show. Moving on to episode
+five, which was called With Interest. On St.
+
+631
+00:57:25,730 --> 00:57:30,330
+Patrick's Day, Matt visits New York Mutual Bank to
+seek out a loan for his firm, where he speaks with
+
+632
+00:57:30,330 --> 00:57:35,870
+assistant bank manager Yusuf Khan, the father of
+Kamala Khan, the hero known as Ms. Marvel. During
+
+633
+00:57:35,870 --> 00:57:40,130
+their meeting, a group of bank robbers working for
+Luca take everyone in the bank hostage, seeking
+
+634
+00:57:40,130 --> 00:57:45,610
+access to the vault to get the $1.8 million he needs
+for his debt. The lead robber, Devlin, negotiates
+
+635
+00:57:45,610 --> 00:57:50,970
+with Detective Kim while Yusuf is taken to open the
+vault. Matt subdues two of the robbers and opens
+
+636
+00:57:50,970 --> 00:57:55,130
+the vault where they find a rare diamond the
+robbers were trying to get. Matt pretends to hand
+
+637
+00:57:55,130 --> 00:57:59,490
+over the diamond right as the police storm the bank
+and rescue the hostages. Devlin disguises
+
+638
+00:57:59,490 --> 00:58:04,650
+himself as a cop and escapes, believing he's in the
+clear, but he's followed by Matt who beats the
+
+639
+00:58:04,650 --> 00:58:09,270
+ever-loving shit out of him. Matt secretly
+returns the diamond to Yusuf at the bank. Like I
+
+640
+00:58:09,270 --> 00:58:13,830
+said earlier, I liked this episode. I don't know if
+you liked it as much as I did, but it felt like a story
+
+641
+00:58:13,830 --> 00:58:18,450
+that you'd get in between arcs in the comics, you
+know? And I really like how cleverly it played out
+
+642
+00:58:18,450 --> 00:58:23,130
+where one of the hostages was on the inside with the
+criminals and stuff like that. I thought it was
+
+643
+00:58:23,130 --> 00:58:29,010
+pretty well done and well executed. I just hated
+how it really didn't play into the rest of the show.
+
+644
+00:58:29,010 --> 00:58:33,690
+One shots are cool. I don't think they're cool in
+television series though. Yeah, I mean, like
+
+645
+00:58:33,690 --> 00:58:37,470
+there was the major side plot between Victor and
+Luca, the crime bosses, but they didn't really
+
+646
+00:58:37,470 --> 00:58:43,410
+focus on that too much. So it was weird to see it get
+an entire episode dedicated to that subplot here.
+
+647
+00:58:43,410 --> 00:58:48,910
+You're right. But we got a really cool cameo from
+Yusuf Khan, the father of Kamala Khan, which I
+
+648
+00:58:48,910 --> 00:58:52,510
+think was totally in keeping with the types of
+cameos that you would see in the books. Yeah,
+
+649
+00:58:52,510 --> 00:58:56,910
+that's true. I thought the best part of this
+episode though was the Irish joke. I mean, it was
+
+650
+00:58:56,910 --> 00:59:02,690
+good. I think that was to pad the runtime a little
+bit. 100%, but it was actually funny. Let's go to
+
+651
+00:59:02,690 --> 00:59:07,870
+move on to episode six, Excessive Force. After her
+body is discovered with its eyes gouged out, Luca
+
+652
+00:59:07,870 --> 00:59:12,590
+visits Fisk, who tells him that he has a week to pay
+his debt. A sanitation worker tells Fisk that the
+
+653
+00:59:12,590 --> 00:59:18,050
+murals around the city are painted by the
+mysterious artist Muse using human blood. Angela
+
+654
+00:59:18,050 --> 00:59:22,690
+Diltoro visits Matt at his firm informing him that
+her late uncle, White Tiger, was looking into
+
+655
+00:59:22,690 --> 00:59:26,930
+finding a serial killer who was hiding in the
+subway tunnels. Fisk meets with New York's elite
+
+656
+00:59:26,930 --> 00:59:32,470
+edda fundraiser, including Jack Duquesne, who
+rejects his plans to build the Red Hook port. Fisk
+
+657
+00:59:32,470 --> 00:59:37,810
+puts together a vigilante task force of crooked
+cops and grants them impunity to go after Muse.
+
+658
+00:59:37,810 --> 00:59:42,610
+Angela investigates Muse's location herself and
+is taken as his next victim. Her family contacts
+
+659
+00:59:42,610 --> 00:59:47,350
+Matt to report her missing, and he finally
+redaunts his Daredevil suit to rescue her. He
+
+660
+00:59:47,350 --> 00:59:51,690
+fights and nearly kills Muse, but the villain
+escapes as Daredevil tries to save Angela from
+
+661
+00:59:51,690 --> 00:59:56,770
+bleeding out. Meanwhile, Fisk beats Adam in a
+secret dungeon. I was not expecting to see
+
+662
+00:59:56,770 --> 01:00:02,250
+swordsmen come back from the Hawkeye show. It was
+really cool to see him here, and I hope that he joins
+
+663
+01:00:02,250 --> 01:00:07,510
+Daredevil's team in season two of Daredevil Born
+Again. Yeah, I'm really curious to see who they
+
+664
+01:00:07,510 --> 01:00:12,530
+will put on that team. I was hoping they would kind
+of hint at it, maybe with the cameo from the
+
+665
+01:00:12,530 --> 01:00:16,710
+defenders or something like that. But yeah, it
+would be cool if he was a part of that team. He was
+
+666
+01:00:16,710 --> 01:00:21,350
+captured with a punisher, maybe the punisher set
+some free, I don't know. That'd be cool. Episode
+
+667
+01:00:21,350 --> 01:00:25,690
+seven is called Art for Art's Sake. Inna Angela
+recovers in the hospital and tells authorities
+
+668
+01:00:25,690 --> 01:00:30,430
+the location of Muse's lair. Detective Kim tells
+Fisk that the primary suspect of the Muse's
+
+669
+01:00:30,430 --> 01:00:35,110
+identity is an artist and taekwondo expert,
+Bastion Cooper, who happens to be one of Heather's
+
+670
+01:00:35,110 --> 01:00:40,070
+therapy patients. Luka meets with Vanessa, who
+asks her to take back control of the mob behind
+
+671
+01:00:40,070 --> 01:00:45,050
+Fisk's back. Daredevil finds paintings of
+Heather in Muse's lair and goes to her office where
+
+672
+01:00:45,050 --> 01:00:50,230
+Muse has her restrained and plans to kill her.
+Daredevil rescues her and fights Muse, ending
+
+673
+01:00:50,230 --> 01:00:55,050
+with Heather shooting and killing the villain
+before fainting from blood loss. Fisk has his task
+
+674
+01:00:55,050 --> 01:01:00,610
+force take credit for taking down Muse and
+rescuing Heather. Cashman kills Luka in a trap set
+
+675
+01:01:00,610 --> 01:01:06,150
+by Vanessa. I liked this episode. I thought the
+fight between Muse and Daredevil was like hella
+
+676
+01:01:06,150 --> 01:01:10,350
+violent. A lot of blood spray, especially when
+Daredevil shoots his billy club through him and
+
+677
+01:01:10,350 --> 01:01:14,870
+stuff like that. I thought it was an action packed
+hero versus a villain fight. It was nice to see
+
+678
+01:01:14,870 --> 01:01:19,630
+those two kind of clash together again after their
+initial bout in the previous episode. Yeah, it was
+
+679
+01:01:19,630 --> 01:01:25,470
+a great superhero versus super villain battle. I
+do really wish that the Muse arc was not just like a
+
+680
+01:01:25,470 --> 01:01:29,850
+two episode thing and that they really would have
+established him more in earlier episodes. I did
+
+681
+01:01:29,850 --> 01:01:35,470
+think it was kind of convenient that he was
+obsessed with Daredevil's girlfriend. But I also
+
+682
+01:01:35,470 --> 01:01:40,910
+think that the whole therapy sessions between
+Wilson Fisk, his wife and Daredevil's girlfriend
+
+683
+01:01:40,910 --> 01:01:47,690
+was also very convenient, considering the fact
+that I'm not entirely certain Wilson Fisk was
+
+684
+01:01:47,690 --> 01:01:52,910
+going to her to learn about Matt, like Matt
+suspected. No, I think they were legitimately
+
+685
+01:01:52,910 --> 01:01:57,310
+trying to work on their marriage. But by the end of
+this, when you know she becomes one of his cabinet
+
+686
+01:01:57,310 --> 01:02:02,470
+members, I totally think it's going to be to get
+information on Matt. Yeah, probably. Episode
+
+687
+01:02:02,470 --> 01:02:06,750
+eight was called Isle of Joy. In prison, Bullseye
+gets moved from solitary to the general
+
+688
+01:02:06,750 --> 01:02:11,550
+population. Kingpin reveals Adam's secret
+prison to Vanessa who kills Adam to reconcile
+
+689
+01:02:11,550 --> 01:02:16,130
+their marriage. At Josie's bar, Matt deduces that
+Foggy's death was an orchestrated hit by
+
+690
+01:02:16,130 --> 01:02:21,210
+Bullseye, not out of some vendetta. Matt visits
+Bullseye in prison for information, but Bullseye
+
+691
+01:02:21,210 --> 01:02:25,450
+only agrees to talk on condition of his release,
+resulting in Matt smashing his face into the
+
+692
+01:02:25,450 --> 01:02:30,370
+table. At a fundraiser ball, Kingpin begins
+consolidating his power over the elites who
+
+693
+01:02:30,370 --> 01:02:35,950
+rejected his Red Hook Port Restoration. Bullseye
+uses his broken tooth to escape prison and break
+
+694
+01:02:35,950 --> 01:02:41,570
+into the ball. Matt deduces that it was Vanessa who
+ordered the hit on Foggy, not Kingpin. Matt then
+
+695
+01:02:41,570 --> 01:02:46,590
+hears Bullseye's rifle about to shoot at Kingpin
+and takes the bullet through the chest. I gotta say
+
+696
+01:02:46,590 --> 01:02:51,210
+Heather annoyed the shit out of me this episode. I
+normally wouldn't comment on this, but I was that
+
+697
+01:02:51,210 --> 01:02:56,410
+annoyed. She tells Matt like, Daredevil didn't
+save me. I saved me. Muse and Daredevil were there
+
+698
+01:02:56,410 --> 01:03:02,130
+for themselves. It's like Chica. You were getting
+sliced into with a scalpel when Daredevil
+
+699
+01:03:02,130 --> 01:03:08,870
+arrived. He literally had Muse impaled when you
+shot him. You didn't save shit, okay? Yeah, that
+
+700
+01:03:08,870 --> 01:03:14,170
+was pretty ridiculous. I actually really liked
+this episode. These last two episodes, I felt
+
+701
+01:03:14,170 --> 01:03:20,150
+like, were what the show should have been from the
+beginning. I thought they were really good. And I
+
+702
+01:03:20,150 --> 01:03:24,670
+think a lot of it has to do with Bullseye. Again, the
+character is just really cool and a great
+
+703
+01:03:24,670 --> 01:03:30,110
+Daredevil villain. Even though the end of this
+episode was kind of ridiculous, I thought,
+
+704
+01:03:30,110 --> 01:03:35,810
+considering we already know that Wilson Fisk
+wears bulletproof suits. And I'm pretty sure Matt
+
+705
+01:03:35,810 --> 01:03:39,190
+knew that as well. I don't know if Bullseye knew
+that though, because he obviously wasn't going
+
+706
+01:03:39,190 --> 01:03:45,370
+for a headshot for Kingpin. But if Matt knew that,
+why did he take the bullet? Great question. Maybe
+
+707
+01:03:45,370 --> 01:03:49,990
+he somehow knew that Fisk wasn't wearing a
+bulletproof suit at this time. I guess maybe.
+
+708
+01:03:49,990 --> 01:03:54,150
+Let's go ahead and move on to the final episode
+called Straight to Hell. In a flashback to one year
+
+709
+01:03:54,150 --> 01:03:58,230
+earlier, Vanessa frees Bullseye from his
+psychiatric facility in exchange for killing
+
+710
+01:03:58,230 --> 01:04:03,450
+Foggy, who's working on a case involving the Red
+Hook Port, where she launders her money. Back in
+
+711
+01:04:03,450 --> 01:04:07,250
+the present, Matt wakes up in hospital,
+critically injured, but alive. Kingpin orders
+
+712
+01:04:07,250 --> 01:04:11,490
+New York City to be shut down in an effort to hunt
+down his enemies, causing a city-wide power
+
+713
+01:04:11,490 --> 01:04:16,710
+outage, and orders Cashman to kill Matt in the
+hospital. Matt escapes during the blackout and
+
+714
+01:04:16,710 --> 01:04:20,450
+heads home where he finds the Punisher ready to
+assist him. Together, they fight off the
+
+715
+01:04:20,450 --> 01:04:25,410
+anti-vigilante task force who break into Matt's
+apartment, and they learn that one of the cops was
+
+716
+01:04:25,410 --> 01:04:30,370
+White Tiger's murderer. The pair argue about
+Frank's lethal force, but jump out of the window to
+
+717
+01:04:30,370 --> 01:04:35,410
+avoid a grenade. The pair are picked up by Karen
+Page, who, along with Matt, learn in Foggy's files
+
+718
+01:04:35,410 --> 01:04:40,990
+that the Red Hook Port is a historical free port
+exempt from state and national jurisdiction, and
+
+719
+01:04:40,990 --> 01:04:45,310
+that the Fisks are trying to create their own
+city-state there. Punisher is captured after
+
+720
+01:04:45,310 --> 01:04:49,570
+single-handedly trying to take down the
+anti-vigilante task force cops, and denies their
+
+721
+01:04:49,570 --> 01:04:53,950
+offer to join them. Kingpin learns of
+Commissioner Gallo's attempt to undermine him,
+
+722
+01:04:53,950 --> 01:04:58,770
+and smashes and tears his face apart with his bare
+hands in front of his force. He declares martial
+
+723
+01:04:58,770 --> 01:05:03,670
+law in New York, and Daredevil begins recruiting a
+contingent of honest police and other dissidents
+
+724
+01:05:03,670 --> 01:05:08,770
+to save the city. In a post-credits scene,
+Punisher breaks the guards' arm to escape his
+
+725
+01:05:08,770 --> 01:05:12,950
+cell. I thought there were some great fanboy
+moments here. Seeing Daredevil and Punisher team
+
+726
+01:05:12,950 --> 01:05:18,670
+up again, this time both of them in costume, was so
+cool to see as a fan. Because they've teamed up
+
+727
+01:05:18,670 --> 01:05:23,650
+before in the Netflix shows, but never with them in
+their outfits. There's just something really
+
+728
+01:05:23,650 --> 01:05:28,450
+exciting about that as a fan. And it was so
+well-written too. After they jump out of the
+
+729
+01:05:28,450 --> 01:05:32,950
+building to avoid the explosion, they land on the
+car, and they get off, and Matt's like, you're an
+
+730
+01:05:32,950 --> 01:05:38,750
+asshole, Frank. And Punisher's just like, I know.
+It was just great fan service. Yeah, I was
+
+731
+01:05:38,750 --> 01:05:46,390
+wondering who was the friend that called Frank to
+go help Matt. And when it was revealed to be Karen
+
+732
+01:05:46,390 --> 01:05:51,990
+Page, I was like, oh, that's right. She was a big
+part of Punisher Season 1. I totally forgot about
+
+733
+01:05:51,990 --> 01:05:56,610
+that connection. I'm so glad that they brought the
+actors for Foggy Nelson and Karen Page back,
+
+734
+01:05:56,610 --> 01:06:01,070
+because that would have been really weird to even
+have the Punisher in the Daredevil show again
+
+735
+01:06:01,070 --> 01:06:06,350
+without that connection. Yeah, Deborah N. Wall is
+fantastic. She was great in the Daredevil show.
+
+736
+01:06:06,350 --> 01:06:10,450
+She was great in the Punisher show. It was nice that
+she served as the bridge between those two
+
+737
+01:06:10,450 --> 01:06:15,950
+characters. And it just felt right that she would
+be the one to kind of facilitate that team up. And I
+
+738
+01:06:15,950 --> 01:06:20,070
+really hope that she sticks around for Daredevil
+Season 2, because I think she plays an important
+
+739
+01:06:20,070 --> 01:06:24,250
+role that I think was kind of missed in the course of
+this season. There was a great emotional moment
+
+740
+01:06:24,250 --> 01:06:28,910
+between her and Matt at the end of this episode,
+where Matt admits to Karen that after Foggy died,
+
+741
+01:06:28,910 --> 01:06:33,890
+he didn't know who he was anymore. And her
+reassuring him that no matter what Foggy always
+
+742
+01:06:33,890 --> 01:06:38,930
+believed in him, I thought was just a great
+springboard for this renewed sense of self going
+
+743
+01:06:38,930 --> 01:06:45,350
+into Season 2 and taking the fight to the kingpin.
+Right. Foggy would not have wanted him to give up
+
+744
+01:06:45,350 --> 01:06:51,250
+pursuing justice the way he does. But that's the
+end of the show. Overall, I think there was a lot to
+
+745
+01:06:51,250 --> 01:06:55,630
+enjoy here, especially as a fan of the Netflix
+series. And while it didn't necessarily quite
+
+746
+01:06:55,630 --> 01:07:00,750
+reach the heights of the Netflix series, when you
+consider that the first episode and the last two
+
+747
+01:07:00,750 --> 01:07:06,270
+episodes were the best of the season, I'm even more
+hyped going into Daredevil Born Again Season 2,
+
+748
+01:07:06,270 --> 01:07:11,470
+which will come out next March. Like its namesake
+character, the show rediscovers itself as it
+
+749
+01:07:11,470 --> 01:07:17,530
+goes, resulting in an uneven, yes, but ultimately
+comparable season to the Netflix series before
+
+750
+01:07:17,530 --> 01:07:22,690
+it. And I think that's the best thing you could say
+about it. I'm giving it four out of five stars, a
+
+751
+01:07:22,690 --> 01:07:29,090
+fresh rating on Rotten Tomatoes. Although you'll
+note that it is a lower rating than any of the other
+
+752
+01:07:29,090 --> 01:07:34,050
+Daredevil seasons that we've rated. Yeah, I said
+it was the worst Daredevil season, but the other
+
+753
+01:07:34,050 --> 01:07:39,430
+ones were just so damn good. I feel like there was
+inevitable, you know. The show started off really
+
+754
+01:07:39,430 --> 01:07:45,290
+strong and it ended really strong. And while I
+didn't love a lot of the stuff in the middle, I'd
+
+755
+01:07:45,290 --> 01:07:49,710
+still recommend it to anyone who is a fan of the
+Netflix shows. And I'm definitely looking
+
+756
+01:07:49,710 --> 01:07:55,790
+forward to seeing what they bring next year.
+Absolutely. My voice made it. I can't believe it
+
+757
+01:07:55,790 --> 01:08:00,090
+for the most part. I think I'm definitely
+struggling more than it was at the start of this
+
+758
+01:08:00,090 --> 01:08:07,330
+recording. So that does it for this review. AJ and
+IK, help close this out. Thanks for listening to
+
+759
+01:08:07,330 --> 01:08:12,910
+Dynamic Jewel. Visit the show's website at
+dynamicjewel.com and follow us on Instagram at
+
+760
+01:08:12,910 --> 01:08:18,930
+Dynamic Jewel podcast. You can support the show on
+Patreon at patreon.com slash dynamic jewel and
+
+761
+01:08:18,930 --> 01:08:23,890
+joining a tier that works for you or by rating and
+reviewing Dynamic Jewel on Apple podcasts,
+
+762
+01:08:23,890 --> 01:08:29,290
+Spotify, Podchaser, or on our website. Don't
+forget to listen to the other shows in the Dynamite
+
+763
+01:08:29,290 --> 01:08:36,649
+podcast network, including Max Destruction,
+Senjo World, and Console Combat. Our next episode
+
+764
+01:08:36,649 --> 01:08:43,310
+is going to be a really big one. It's going to be a
+team duel between Watchmen and Thunderbolts. And
+
+765
+01:08:43,310 --> 01:08:48,490
+it looks like our Thunderbolts team is going to
+skew pretty closely to the roster that's in the
+
+766
+01:08:48,490 --> 01:08:53,910
+movie. So you definitely want to check that out
+before the movie hits theaters. That does it for
+
+767
+01:08:53,910 --> 01:08:58,490
+this episode. We want to give a big thanks to our
+executive producers, John Starosky, Zachary
+
+768
+01:08:58,490 --> 01:09:03,090
+Hepburn, Dustin Belcom, Mickey Muthigan,
+Brandon Estregard, Nathaniel Wagner, Levi Yatn,
+
+769
+01:09:03,090 --> 01:09:08,930
+Osso Waslosky, AJ Dunkerly, Nick Obanto, Scott
+Camacho, Gil Camacho, Adam Spees, Dean Maleski,
+
+770
+01:09:08,930 --> 01:09:14,410
+Devin Davis, Joseph Kirsting, Josh Leiner, Mike
+Williams, and Oscar Galvez for helping make this
+
+771
+01:09:14,410 --> 01:09:20,850
+podcast possible. We'll talk to you guys next
+week. Up up and away, true believers. Fun fact,
+
+772
+01:09:20,850 --> 01:09:25,810
+Daredevil gets all the ladies using his signature
+pickup line, me so horny, and then pointing at his
+
+773
+01:09:25,810 --> 01:09:26,850
+horns. Look it up.
