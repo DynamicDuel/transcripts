@@ -1,0 +1,2723 @@
+1
+00:00:00,000 --> 00:00:28,080
+This is a DynaMic Network Podcast. Hi, welcome to
+the DynaMic Duel Podcast, a weekly show where we
+
+2
+00:00:28,080 --> 00:00:32,980
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:32,980 --> 00:00:37,960
+their characters in stat-based battle
+simulations. I'm Johnny DC. And I'm his twin
+
+4
+00:00:37,960 --> 00:00:45,720
+brother, Marvelous Joe. And in lead up to our
+review of the Marvel film Thunderbolts, we are
+
+5
+00:00:45,720 --> 00:00:52,320
+doing a team duel where we pit that team against
+DC's Watchmen. Yeah, we're not pitting the
+
+6
+00:00:52,320 --> 00:00:56,800
+traditional Thunderbolts team against the
+Watchmen, like the original classics. It's going
+
+7
+00:00:56,800 --> 00:01:02,100
+to be more in line with the film version of the
+Thunderbolts, which is also in line with the most
+
+8
+00:01:02,100 --> 00:01:08,640
+recent roster in the comics. Basically the idea
+here is that we have a bunch of street level heroes
+
+9
+00:01:08,640 --> 00:01:14,000
+and one super powerful character on the team to
+back them up. Yeah, Dr. Manhattan in the century,
+
+10
+00:01:14,000 --> 00:01:19,420
+respectively. Exactly. We'll be raking down each
+team's histories and the rosters we'll be using
+
+11
+00:01:19,420 --> 00:01:25,360
+later on in this episode. There's no comic book
+movie news this week, but as always, we list our
+
+12
+00:01:25,360 --> 00:01:29,540
+segment times in our episode description, so feel
+free to check out the show notes if you want to skip
+
+13
+00:01:29,540 --> 00:01:35,720
+ahead to a particular topic. Our artificially
+intelligent duel simulator, AJ9K, has a quick
+
+14
+00:01:35,720 --> 00:01:43,220
+message for our listeners, so listen up. Why hello
+there. Do you want even more from this podcast?
+
+15
+00:01:43,220 --> 00:01:48,380
+Then become a part of the dynamic duel community on
+Patreon where you can choose from three tiers. The
+
+16
+00:01:48,380 --> 00:01:53,660
+Dynamic 2.0 tier gives you access to our Discord
+chat server, the Fantastic Four tier gives you two
+
+17
+00:01:53,660 --> 00:01:58,760
+bonus episodes each month, and the X-Force tier
+makes you an executive producer of this show.
+
+18
+00:01:58,760 --> 00:02:04,060
+Lastly, the Dynamite Podcast Network tier lets
+you create your own podcast using this Monte Carlo
+
+19
+00:02:04,060 --> 00:02:08,520
+simulator. Johnny and Joe will help you develop
+your show, provide graphic support and
+
+20
+00:02:08,520 --> 00:02:13,480
+consultation, and get you simulation results.
+Pitch the twins your ideas via email at
+
+21
+00:02:13,480 --> 00:02:21,460
+dynamicduelpodcast at gmail.com. Check it out at
+patreon.com slash dynamicduel. Pip pip cheerio.
+
+22
+00:02:21,460 --> 00:02:26,320
+Thanks AJ9K and thanks to everyone who supports
+the podcast, including executive producer Nick
+
+23
+00:02:26,320 --> 00:02:30,740
+Abonto who had a birthday recently. Happy
+birthday man, if I could give you one gift from
+
+24
+00:02:30,740 --> 00:02:37,320
+Marvel, it would be the power of the century, but
+without the void persona attached to it. Okay, and
+
+25
+00:02:37,320 --> 00:02:43,480
+I'll do you one better. I will give you the power of
+Dr. Manhattan. Yeah, blue balls and all. Yeah,
+
+26
+00:02:43,480 --> 00:02:47,620
+have fun with those. Happy birthday. Guys, be sure
+to tune into the other shows in the Dynamite
+
+27
+00:02:47,620 --> 00:02:52,440
+Podcast Network this week, including the console
+Combat Podcast, where hosts John and Dean
+
+28
+00:02:52,440 --> 00:02:56,940
+simulate battles between popular video game
+characters. In yesterday's episode, they
+
+29
+00:02:56,940 --> 00:03:02,200
+speculated on who would win in a fight between
+She-Hulk from Ultimate Marvel versus Capcom 3
+
+30
+00:03:02,200 --> 00:03:08,020
+versus The Mask. Over on the Max Destruction
+Podcast, hosts Scotty and Gilly pit their
+
+31
+00:03:08,020 --> 00:03:13,180
+favorite action heroes from film and television
+against each other. They are on a brief season
+
+32
+00:03:13,180 --> 00:03:19,200
+break currently, so now is the perfect time to get
+caught up with their past episodes. And on the
+
+33
+00:03:19,200 --> 00:03:23,680
+Senjoh World Podcast hosts Zachary Hepburn
+speculates on fights between fan favorite anime
+
+34
+00:03:23,680 --> 00:03:28,740
+and manga characters. On Thursday, Zach is going
+to reveal who would win between Sunraku from
+
+35
+00:03:28,740 --> 00:03:34,300
+Shangri-La Frontier versus Kirito from Sword Art
+Online. We said that was going to be last week's
+
+36
+00:03:34,300 --> 00:03:40,220
+episode, but Zach had to undergo surgery last
+week, so he was able to release the episode and
+
+37
+00:03:40,220 --> 00:03:44,980
+we're wishing him a speedy recovery. Visit
+dynamicpodcasts.com or click the link in our show
+
+38
+00:03:44,980 --> 00:03:50,060
+notes to listen to all the shows in the Dynamite
+Podcast Network. But with that out of the way,
+
+39
+00:03:50,060 --> 00:03:57,140
+quick to the No Prize! A No Prize is an award that
+Marvel used to give out to fans. Our version, the
+
+40
+00:03:57,140 --> 00:04:02,680
+Dynamic duel No Prize, is a digital award we post on
+Instagram for the person that we feel gave the best
+
+41
+00:04:02,680 --> 00:04:07,980
+answer to our question of the week. Last week we
+asked you guys, what did you think of the Shalabal
+
+42
+00:04:07,980 --> 00:04:13,560
+Silver Surfer from the Fantastic Four First Steps
+official trailer? And we got three answers, so
+
+43
+00:04:13,560 --> 00:04:19,120
+let's go over our two honorable mentions and the No
+Prize winner. Our first honorable mention goes to
+
+44
+00:04:19,120 --> 00:04:26,700
+Kat Stevenson, who said, Hi guys, this is Kat
+Stevenson. I think that the Shalabal in the
+
+45
+00:04:26,700 --> 00:04:32,300
+Fantastic Four First Steps trailer, while it was a
+bold choice, I think will ultimately be positive.
+
+46
+00:04:32,300 --> 00:04:37,960
+I think it'll keep the same people who have been
+consistently shitting on James Gunn's Superman
+
+47
+00:04:37,960 --> 00:04:46,140
+away from the film and will help maintain positive
+audience reactions to the film. Thanks guys.
+
+48
+00:04:46,140 --> 00:04:51,980
+Yeah, I'm not quite sure what he was saying here in
+regards to the Superman film thing, but basically
+
+49
+00:04:51,980 --> 00:04:57,620
+his answer was it's a bold choice cotton. Let's see
+how the strategy pays off for them. What I took this
+
+50
+00:04:57,620 --> 00:05:03,400
+to mean was that so many people are going to be
+distracted by the Silver Surfer that's going to be
+
+51
+00:05:03,400 --> 00:05:07,880
+a positive for DC because they're not going to care
+if anything's wrong with that film because
+
+52
+00:05:07,880 --> 00:05:14,100
+they're just going to be so negatively focused on
+Fantastic Four and Silver Surfer. No he said it's
+
+53
+00:05:14,100 --> 00:05:19,340
+going to be a positive outcome. Yeah, for DC. Oh.
+Yeah, I don't think that's what he meant. Well,
+
+54
+00:05:19,340 --> 00:05:25,440
+that's what I heard. Good answer Kat, our next
+honorable mention goes to Gavin Troyer, who said,
+
+55
+00:05:25,440 --> 00:05:33,480
+I don't care if Silver Surfer has boobs or a penis. I
+don't even care about bad CGI anymore.
+
+56
+00:05:33,480 --> 00:05:38,820
+Truthfully, I don't really care about the
+Fantastic Four or Silver Surfer that much, but as
+
+57
+00:05:38,820 --> 00:05:46,260
+long as the movie is good, it's good. And it doesn't
+really matter what the gender or how good the CGI
+
+58
+00:05:46,260 --> 00:05:53,160
+is. Hopefully the movie is fantastic and that's
+all it really needs. All the criteria it needs is to
+
+59
+00:05:53,160 --> 00:06:02,440
+be fantastic. OK, but what if the Silver Surfer had
+boobs and a penis? Well, like Gavin said, I don't
+
+60
+00:06:02,440 --> 00:06:07,720
+think it would matter if the movie was good. If the
+movie is good, then, you know, the sex of the Silver
+
+61
+00:06:07,720 --> 00:06:11,860
+Surfer is probably going to be the last thing on
+anyone's minds. At the end of the day, I think
+
+62
+00:06:11,860 --> 00:06:18,700
+people care more about the overall quality than
+any specific, you know, genitalia detail. I don't
+
+63
+00:06:18,700 --> 00:06:25,040
+know about that. I think I would notice silver
+genitalia. Great answer, Gavin. But the winner of
+
+64
+00:06:25,040 --> 00:06:32,680
+this week's No Prize is Travis Herndon, who said.
+What's up, dynamic do's Travis here. So I'm fine
+
+65
+00:06:32,680 --> 00:06:36,980
+with a female Silver Surfer. I mean, they've
+already established that this is an alternate
+
+66
+00:06:36,980 --> 00:06:44,340
+universe compared to the main MCU universe. And
+usually when it comes to multiverses types,
+
+67
+00:06:44,340 --> 00:06:50,120
+situations is always the whole like, oh, hey, this
+character might be gender-banned or this
+
+68
+00:06:50,120 --> 00:06:55,800
+character might be race-wild. I mean, we
+introduced the multiverse into your story is kind
+
+69
+00:06:55,800 --> 00:07:01,940
+of expected. That's a great point made by Travis.
+And I think why this answer got the No Prize win for
+
+70
+00:07:01,940 --> 00:07:07,020
+this being the multiversal saga as an audience,
+we've gotten very little actual multiversal
+
+71
+00:07:07,020 --> 00:07:14,860
+content. And to quote the vision, what is the
+multiverse, if not interesting and bold casting
+
+72
+00:07:14,860 --> 00:07:21,860
+choices, persevering? But what? I don't remember
+him saying that. I'm paraphrasing. Oh, OK. Well, I
+
+73
+00:07:21,860 --> 00:07:27,960
+mean, Marvel does have a precedence for
+gender-bending characters and the multiverse.
+
+74
+00:07:27,960 --> 00:07:35,220
+If you take a look at Captain Carter or Loki or even
+Lady Deadpool, we've seen gender-bent versions
+
+75
+00:07:35,220 --> 00:07:42,840
+of heroes we know and love. And since this is a
+multiversal character, I could see how people
+
+76
+00:07:42,840 --> 00:07:47,980
+could be a little bit more forgiving. That being
+said, I still stand by what I said last week in that
+
+77
+00:07:47,980 --> 00:07:53,800
+sense. Shalabal is really the only seeming
+multiversal component of the Fantastic Four
+
+78
+00:07:53,800 --> 00:07:59,400
+first steps film other than the time period. It
+would have been nice if Marvel chose to go with the
+
+79
+00:07:59,400 --> 00:08:05,580
+Frankie Ray Nova Herald of Galactus instead.
+Yeah, 100 percent. I agree with that. Well,
+
+80
+00:08:05,580 --> 00:08:09,280
+congrats to Travis Herndon for winning this
+week's No Prize. If you, the listener, want a shot
+
+81
+00:08:09,280 --> 00:08:13,080
+at winning your own No Prize, stay tuned until
+later on this episode when we will be asking
+
+82
+00:08:13,080 --> 00:08:22,700
+another question of the week. And now that that's
+done onto the question of the week. Since this
+
+83
+00:08:22,700 --> 00:08:28,900
+episode is a team duel between Watchmen and
+Thunderbolts and since Thunderbolts is coming
+
+84
+00:08:28,900 --> 00:08:36,620
+out this week, here's our question. For those of
+you who have seen both films, which was better?
+
+85
+00:08:36,620 --> 00:08:42,980
+2009's Watchmen or Thunderbolts and why? Record
+your answer at dynamicduel.com by clicking on the
+
+86
+00:08:42,980 --> 00:08:46,740
+red microphone button in the bottom right hand
+corner of the screen, which will prompt you to
+
+87
+00:08:46,740 --> 00:08:51,400
+leave us a voicemail. Your message could be up to 30
+seconds long. And don't forget to leave your name
+
+88
+00:08:51,400 --> 00:08:56,040
+in case we include you on the podcast. We'll pick
+our favorite answer and award that person a
+
+89
+00:08:56,040 --> 00:09:08,980
+dynamic duel No Prize that will post to Instagram.
+Be sure to answer before May 3rd. DC High Volume,
+
+90
+00:09:08,980 --> 00:09:16,620
+Batman. The Dark Knight's definitive DC comic
+stories adapted directly for audio for the very
+
+91
+00:09:16,620 --> 00:09:26,020
+first time. Fear. I have to make them afraid. He's
+got a motorcycle. Get after him or have you shot?
+
+92
+00:09:26,020 --> 00:09:33,260
+You mean blow up the building? From this moment on,
+none of you are safe. New episodes every
+
+93
+00:09:33,260 --> 00:09:40,960
+Wednesday, wherever you get your podcasts. But
+now let's go ahead and move on to the main event of
+
+94
+00:09:40,960 --> 00:09:48,660
+this episode, a team duel where we find out who will
+win between DC's Watchmen and Marvel's
+
+95
+00:09:48,660 --> 00:10:08,620
+Thunderbolts. OK, Watchmen versus
+Thunderbolts, as we mentioned earlier on in this
+
+96
+00:10:08,620 --> 00:10:15,860
+episode, this is really going to be a team of street
+level heroes and one really superpowered
+
+97
+00:10:15,860 --> 00:10:20,440
+character backing them up. As you may know, with
+the characters of Watchmen, none of them have
+
+98
+00:10:20,440 --> 00:10:26,600
+superpowers except for Dr. Manhattan, since this
+is a world where people are essentially dressing
+
+99
+00:10:26,600 --> 00:10:34,100
+up to play superhero rather than actually being a
+superhero. Yeah. And with Thunderbolts, if you
+
+100
+00:10:34,100 --> 00:10:39,560
+watch the marketing for the upcoming film, Yelena
+Belova describes the team as a bunch of people who
+
+101
+00:10:39,560 --> 00:10:45,060
+punch and shoot stuff. But then there's also the
+Sentry, who is on par with Superman, if not
+
+102
+00:10:45,060 --> 00:10:50,300
+stronger. I'm really excited for this matchup. I
+never actually thought I would get to do Watchmen
+
+103
+00:10:50,300 --> 00:10:57,440
+as a team duel. Watchmen is one of my favorite DC
+stories and highly praised as the greatest
+
+104
+00:10:57,440 --> 00:11:03,280
+graphic novel of all time. So I'm super pumped for
+this matchup. Well, I think the original arc of the
+
+105
+00:11:03,280 --> 00:11:08,580
+Thunderbolts has also been called the greatest
+graphic novel of all time. Shut the hell up by
+
+106
+00:11:08,580 --> 00:11:14,180
+somebody. Me, I mean, like at least I just said it
+right now. So technically, yeah, it has been
+
+107
+00:11:14,180 --> 00:11:20,500
+called that. All right, one person. But to explain
+the methodology behind our duels, let's go to our
+
+108
+00:11:20,500 --> 00:11:25,840
+sentient duel simulator, Alfred Jarvis, 9000.
+Agent 9K tell our listeners how you go about
+
+109
+00:11:25,840 --> 00:11:31,640
+determining a winner in our team duel matchups.
+Yes, of course, sir. The way I determine a winner
+
+110
+00:11:31,640 --> 00:11:36,620
+between the two teams is by running 1000 Monte
+Carlo simulations between every character on
+
+111
+00:11:36,620 --> 00:11:42,060
+each team using their statistics. A Monte Carlo
+simulation is a probabilistic model used to
+
+112
+00:11:42,060 --> 00:11:47,220
+determine outcomes through random sampling. In
+this case, I randomize the statistics along a
+
+113
+00:11:47,220 --> 00:11:52,480
+normal distribution as a way to simulate the many
+variables that can occur during battle. The stat
+
+114
+00:11:52,480 --> 00:11:57,560
+parameters are based on the official Marvel power
+grid from which the DC characters statistics are
+
+115
+00:11:57,560 --> 00:12:02,900
+extrapolated. Additional stat categories are
+included such as range, damage potential,
+
+116
+00:12:02,900 --> 00:12:08,120
+versatility and perception in order to create a
+more detailed and accurate simulation. The
+
+117
+00:12:08,120 --> 00:12:12,960
+results of the 49000 simulations provide a
+percentage of wins for each character on both
+
+118
+00:12:12,960 --> 00:12:17,660
+teams. The team with the higher average win rate is
+declared the victor as they have a higher
+
+119
+00:12:17,660 --> 00:12:22,880
+probability to win any given battle. In an
+equitable pairing, neither team should win 100
+
+120
+00:12:22,880 --> 00:12:27,180
+percent of the matches. The comic book stories
+have shown that there's even a way for Batman to
+
+121
+00:12:27,180 --> 00:12:31,720
+defeat Superman, so the confidence rate of my
+method falls in line with the precedents that have
+
+122
+00:12:31,720 --> 00:12:35,740
+been established in the source material. My
+mathematical simulations are without
+
+123
+00:12:35,740 --> 00:12:41,400
+subjectivity or bias. Feats are not the sole
+consideration, nor are fan votes tabulated for
+
+124
+00:12:41,400 --> 00:12:47,360
+determination of the winner. Thanks, AJ9K.
+Before we run the simulations, though, we like to
+
+125
+00:12:47,360 --> 00:12:53,500
+break down each team's histories and rosters
+before improvising a scenario on how we imagine
+
+126
+00:12:53,500 --> 00:12:59,560
+one of the thousands of simulations would play out
+beat for beat. And it's my turn to go first with the
+
+127
+00:12:59,560 --> 00:13:06,220
+DC team's backstory. So let me tell you all about
+Watchmen. Now, the alternate universe of
+
+128
+00:13:06,220 --> 00:13:13,160
+Watchmen, the costumed adventurers first
+emerged during the late 1930s and early 1940s,
+
+129
+00:13:13,160 --> 00:13:18,960
+beginning with the masked vigilante known as
+Hooded Justice. His brutal and mysterious
+
+130
+00:13:18,960 --> 00:13:25,020
+activities against criminals inspired the
+formation of The Minutemen, a team of eight masked
+
+131
+00:13:25,020 --> 00:13:30,880
+crime fighters, including Silk Spectre, Captain
+Metropolis, Duller Bill, Mothman, the
+
+132
+00:13:30,880 --> 00:13:38,080
+Silhouette, Night Owl, the comedian and Hooded
+Justice himself. Though publicly celebrated,
+
+133
+00:13:38,080 --> 00:13:43,520
+internal tensions plagued the group after an
+attempted sexual assault by the comedian on Silk
+
+134
+00:13:43,520 --> 00:13:49,680
+Spectre was violently stopped by Hooded Justice,
+the comedian was expelled from The Minutemen.
+
+135
+00:13:49,680 --> 00:13:54,460
+Despite their colorful appearances, the members
+of The Minutemen harbored dark secrets and
+
+136
+00:13:54,460 --> 00:13:59,660
+personal flaws, and the team eventually
+dissolved under the weight of scandal, tragedy
+
+137
+00:13:59,660 --> 00:14:06,500
+and infighting. Hooded Justice vanished without
+a trace in the 1950s. His ultimate fate never
+
+138
+00:14:06,500 --> 00:14:12,440
+publicly confirmed. In the years that followed,
+new costumed adventurers emerged. Daniel
+
+139
+00:14:12,440 --> 00:14:18,340
+Dryberg, inspired by the original Night Owl,
+adopted the same moniker and operated with high
+
+140
+00:14:18,340 --> 00:14:24,340
+tech gadgetry. Laurie Yospeczyk, the daughter of
+the original Silk Spectre, reluctantly took up
+
+141
+00:14:24,340 --> 00:14:30,620
+her mother's mantle as the second Silk Spectre.
+Edward Blake, the comedian, continued operating
+
+142
+00:14:30,620 --> 00:14:36,020
+through government sanction, becoming a
+hardened and cynical figure who participated in
+
+143
+00:14:36,020 --> 00:14:42,900
+the Vietnam War alongside Dr. Manhattan, who was
+formerly John Osterman. He emerged as the first
+
+144
+00:14:42,900 --> 00:14:47,400
+being with true superhuman powers after a
+scientific accident disintegrated and
+
+145
+00:14:47,400 --> 00:14:54,080
+reconstituted him as a blue-skinned being who
+perceived all of times simultaneously. Adrian
+
+146
+00:14:54,080 --> 00:14:59,740
+Veit, known as Ozzy Mendeus and renowned as the
+smartest man alive, rose to prominence with an
+
+147
+00:14:59,740 --> 00:15:06,420
+image of altruism and efficiency, only to retire
+and channel his genius into business ventures. In
+
+148
+00:15:06,420 --> 00:15:12,640
+the early 1960s, Captain Metropolis attempted to
+reunite the new generation of adventurers under a
+
+149
+00:15:12,640 --> 00:15:18,320
+team called the Crime Busters. The group gathered
+for a meeting, but the effort collapsed when the
+
+150
+00:15:18,320 --> 00:15:24,140
+comedian mocked their idealism and exposed the
+futility of costumed heroics in the shadow of
+
+151
+00:15:24,140 --> 00:15:29,180
+nuclear Armageddon. Following this, the
+independent operations of the crime fighters
+
+152
+00:15:29,180 --> 00:15:35,960
+continued until in 1977, when the United States
+passed the Keen Act, outlawing un-sanctioned
+
+153
+00:15:35,960 --> 00:15:42,360
+vigilanteism. Most heroes retired. Ozzy Mendeus
+left the public eye to pursue corporate power.
+
+154
+00:15:42,360 --> 00:15:47,820
+Dryberg reluctantly stepped down. Dr. Manhattan
+and the comedian continued their work as
+
+155
+00:15:47,820 --> 00:15:53,620
+sanctioned government operatives and only
+Rorschach refused to comply. Continuing his
+
+156
+00:15:53,620 --> 00:16:00,140
+crusade illegally. In October 1985, Edward Blake
+was thrown from the window of his apartment in New
+
+157
+00:16:00,140 --> 00:16:05,980
+York City. His death initially believed to be an
+isolated homicide. Through the attention of
+
+158
+00:16:05,980 --> 00:16:10,940
+Rorschach, who uncovered Blake's secret
+identity as the comedian, convinced that someone
+
+159
+00:16:10,940 --> 00:16:16,940
+was targeting masked heroes. Rorschach visited
+his former colleagues, Daniel Dryberg, Laurie
+
+160
+00:16:16,940 --> 00:16:23,200
+Yospechik, Dr. Manhattan and Adrian Weitz.
+Though most of them dismissed his warnings, the
+
+161
+00:16:23,200 --> 00:16:28,340
+seeds of suspicion were planted. Blake's funeral
+brought the surviving former heroes together.
+
+162
+00:16:28,340 --> 00:16:33,640
+Dryberg, Weitz and Manhattan attended, each
+reflecting under complicated relationships
+
+163
+00:16:33,640 --> 00:16:39,480
+with Blake. Shortly after the funeral, Dr.
+Manhattan was publicly accused of causing cancer
+
+164
+00:16:39,480 --> 00:16:45,540
+among his former associates. Shocked by the
+allegations and humanity's sudden rejection,
+
+165
+00:16:45,540 --> 00:16:51,200
+Manhattan exiled himself to Mars. With the
+departure of their superhuman deterrent, the
+
+166
+00:16:51,200 --> 00:16:56,680
+Soviet Union seized the opportunity to invade
+Afghanistan, escalating global tensions
+
+167
+00:16:56,680 --> 00:17:02,700
+towards nuclear war. Weitz narrowly survived an
+assassination attempt for their convincing
+
+168
+00:17:02,700 --> 00:17:08,300
+Rorschach that a conspiracy was afoot.
+Meanwhile, Laurie, disillusioned with her life
+
+169
+00:17:08,300 --> 00:17:13,960
+alongside the increasingly detached Dr.
+Manhattan, grew closer to Dryberg. The two
+
+170
+00:17:13,960 --> 00:17:18,859
+eventually donned their costumes once more,
+rekindling their sense of purpose as vigilantes
+
+171
+00:17:18,859 --> 00:17:24,079
+and rescuing residents from a burning apartment
+building. Their renewed partnership deepened
+
+172
+00:17:24,079 --> 00:17:29,780
+into romance. Rorschach, continuing his
+investigation, was framed for the murder of the
+
+173
+00:17:29,780 --> 00:17:35,820
+former villain, Mollick, and was captured by
+police after a violent struggle. In prison, he was
+
+174
+00:17:35,820 --> 00:17:41,200
+subjugated to attacks from fellow inmates, but he
+defended himself with ruthless efficiency,
+
+175
+00:17:41,200 --> 00:17:47,460
+culminating in a cafeteria scalding and the
+brutal murder of a crime boss. Meanwhile, Dryberg
+
+176
+00:17:47,460 --> 00:17:53,040
+and Yospechek, believing Rorschach's
+conspiracy theory had merit, executed a daring
+
+177
+00:17:53,040 --> 00:17:58,300
+plan to break him out of prison during a massive
+riot. While Dryberg and Rorschach investigated
+
+178
+00:17:58,300 --> 00:18:04,640
+further, Dr. Manhattan transported Laurie to
+Mars. There, Laurie pleaded with him to save
+
+179
+00:18:04,640 --> 00:18:10,440
+humanity from impending doom. Initially
+unmoved, Manhattan reconsidered after Laurie's
+
+180
+00:18:10,440 --> 00:18:15,840
+revelation that she was the daughter of the
+comedian, the product of a complex and painful
+
+181
+00:18:15,840 --> 00:18:21,820
+relationship between her mother and Blake.
+Seeing the improbability and beauty of human
+
+182
+00:18:21,820 --> 00:18:27,820
+existence, Manhattan agreed to return to Earth.
+During investigation, led Dryberg and Rorschach
+
+183
+00:18:27,820 --> 00:18:33,520
+to suspect Adrian Veit as the masked killer,
+following a trail of evidence they traveled to
+
+184
+00:18:33,520 --> 00:18:39,420
+Antarctica to confront him in his private base,
+where Veit revealed his plan to save humanity from
+
+185
+00:18:39,420 --> 00:18:45,520
+nuclear annihilation by staging an alien
+invasion that would decimate New York City. By
+
+186
+00:18:45,520 --> 00:18:51,120
+uniting the United States and the Soviet Union
+against a perceived extraterrestrial threat,
+
+187
+00:18:51,120 --> 00:18:56,460
+you believed he could avert global war. Veit
+admitted to orchestrating the cancer scare to
+
+188
+00:18:56,460 --> 00:19:02,080
+drive Dr. Manhattan away, staging the attempt on
+his own life to eliminate suspicion, murdering
+
+189
+00:19:02,080 --> 00:19:07,800
+Blake when he uncovered the plot and framing
+Rorschach to impede his investigation. As
+
+190
+00:19:07,800 --> 00:19:12,740
+Dryberg and Rorschach reeled from the
+revelation, Veit disclosed that his plan had
+
+191
+00:19:12,740 --> 00:19:19,140
+already been enacted. In New York, millions lay
+dead amid the wreckage caused by the appearance of
+
+192
+00:19:19,140 --> 00:19:24,920
+the genetically engineered psychic creature, a
+colossal sized squid that was teleported into the
+
+193
+00:19:24,920 --> 00:19:30,440
+city. News reports confirmed that the United
+States and Soviet Union had entered talks to unite
+
+194
+00:19:30,440 --> 00:19:35,740
+against the supposed alien menace. Manhattan and
+Lorry arrived on Earth and traveled to
+
+195
+00:19:35,740 --> 00:19:41,280
+Antarctica, confronting Veit. Although
+appalled by the slaughter, the heroes realized
+
+196
+00:19:41,280 --> 00:19:47,660
+that exposing the truth would only reignite the
+threat of nuclear war. All except Rorschach
+
+197
+00:19:47,660 --> 00:19:53,760
+agreed to keep silence. Rorschach refused to
+compromise. As he departed into the frozen
+
+198
+00:19:53,760 --> 00:19:59,800
+wasteland to reveal the truth, he encountered Dr.
+Manhattan and he demanded to be killed rather than
+
+199
+00:19:59,800 --> 00:20:06,160
+be silenced by any other means. Without a word,
+Manhattan complied, disintegrating Rorschach.
+
+200
+00:20:06,160 --> 00:20:11,540
+Following the confrontation, Dryberg and Lorry
+adopted new identities, leaving behind their
+
+201
+00:20:11,540 --> 00:20:17,320
+former lives. Meanwhile, back in New York, the
+right wing newspaper New Frontiersman received
+
+202
+00:20:17,320 --> 00:20:22,920
+Rorschach's journal detailing his
+investigation and suspicions into Adrian, its
+
+203
+00:20:22,920 --> 00:20:28,060
+contents poised to expose the entire truth,
+depending on the editor's decision. Dr.
+
+204
+00:20:28,060 --> 00:20:34,380
+Manhattan, disillusioned by humanities and less
+cycles, left Earth to explore new galaxies.
+
+205
+00:20:34,380 --> 00:20:40,600
+Adrian Veit, victorious, yet uncertain, was left
+to wonder about the consequences of his actions.
+
+206
+00:20:40,600 --> 00:20:45,680
+Years after the devastation in New York City, the
+world uncovered the truth behind Adrian Veit's
+
+207
+00:20:45,680 --> 00:20:51,040
+deception when Rorschach's journal was finally
+published. Rather than uniting humanity
+
+208
+00:20:51,040 --> 00:20:56,360
+indefinitely, the revelation reignited
+distrust and chaos among the nations. In
+
+209
+00:20:56,360 --> 00:21:02,140
+desperation, Veit sought to locate Dr.
+Manhattan, believing only he could repair the
+
+210
+00:21:02,140 --> 00:21:08,060
+world he had broken. Tracking residuel quantum
+traces across dimensions, Veit crossed into a
+
+211
+00:21:08,060 --> 00:21:14,200
+parallel Earth where superheroes had long shaped
+history differently. There, he manipulated a
+
+212
+00:21:14,200 --> 00:21:20,240
+successor to Rorschach, Reginald Long,
+convincing him to assist in the search. Edward
+
+213
+00:21:20,240 --> 00:21:25,960
+Blake, the comedian whose death Veit had once
+orchestrated, was pulled from the moment of his
+
+214
+00:21:25,960 --> 00:21:32,380
+murder and brought into this new world by Dr.
+Manhattan's intervention. Now alive again,
+
+215
+00:21:32,380 --> 00:21:37,520
+Blake hunted Veit for revenge, while also
+becoming entangled in violent conflicts between
+
+216
+00:21:37,520 --> 00:21:43,140
+metahuman factions. Dr. Manhattan, observing
+this world, had been subtly reshaping its
+
+217
+00:21:43,140 --> 00:21:48,920
+history. Intrigued by the resilience of its
+greatest hero, Superman, Manhattan had
+
+218
+00:21:48,920 --> 00:21:54,400
+experimented with removing key figures and
+altering pivotal moments, shifting the
+
+219
+00:21:54,400 --> 00:22:00,200
+emergence of heroes and the world's timeline.
+Yet, despite his manipulations, Manhattan found
+
+220
+00:22:00,200 --> 00:22:05,220
+himself unable to see beyond a looming
+confrontation with Superman, uncertain whether
+
+221
+00:22:05,220 --> 00:22:12,500
+he would destroy this reality or be destroyed by
+it. Adrian Veit, recognizing the instability Dr.
+
+222
+00:22:12,500 --> 00:22:17,840
+Manhattan's presence created, attempted once
+more to engineer peace by igniting a global
+
+223
+00:22:17,840 --> 00:22:24,420
+metahuman arms race and framing Superman as a
+threat. His plans ultimately unraveled as the
+
+224
+00:22:24,420 --> 00:22:30,620
+truth surfaced aided by heroes from this new earth
+who resisted further deception. In the final
+
+225
+00:22:30,620 --> 00:22:36,440
+confrontation, Superman's unwavering hope
+inspired Dr. Manhattan to abandon his cold
+
+226
+00:22:36,440 --> 00:22:43,140
+detachment. Rather than destroy or dominate the
+world, Manhattan restored what he had broken,
+
+227
+00:22:43,140 --> 00:22:48,880
+returning lost heroes to existence and ensuring
+the survival of those he had once endangered. Veit
+
+228
+00:22:48,880 --> 00:22:54,700
+was returned to his own world, exposed for his
+crimes and imprisoned, accepting that he had no
+
+229
+00:22:54,700 --> 00:23:01,900
+place in this world. Manhattan entrusted his
+power to a child he had raised, a boy he named Clark,
+
+230
+00:23:01,900 --> 00:23:07,180
+whom he gave to Daniel Dryberg and Laura Yospechik
+to raise before Manhattan vanished from
+
+231
+00:23:07,180 --> 00:23:13,380
+existence. Clark grew up to become the superhero
+known as the Watchman. And that's the full history
+
+232
+00:23:13,380 --> 00:23:19,320
+of the Watchman characters. Now, for my seven
+member Watchman roster, I am, of course, going
+
+233
+00:23:19,320 --> 00:23:25,080
+with the six main characters of the Watchman
+story, including Rorschach, Silk Spectre and the
+
+234
+00:23:25,080 --> 00:23:30,180
+Comedian, none of whom who have superhuman
+powers, but are skilled fighters and possess
+
+235
+00:23:30,180 --> 00:23:36,380
+various crime fighting tools and weapons. Ozzy
+Mandius, also included on this team, possesses
+
+236
+00:23:36,380 --> 00:23:41,920
+near superhuman abilities, as he is the most
+intelligent and most physically capable human
+
+237
+00:23:41,920 --> 00:23:48,680
+man in existence. Dr. Manhattan, as my sixth
+member, is the powerhouse of the team, possessing
+
+238
+00:23:48,680 --> 00:23:53,580
+nine missions and omnipotence, whom you've
+learned more about in our Dr. Manhattan versus
+
+239
+00:23:53,580 --> 00:24:00,940
+Molecule Man episode. For my seventh and final
+member, I decided to go with Hooded Justice, as he
+
+240
+00:24:00,940 --> 00:24:06,080
+was the very first superhero in Watchman Comics
+and is an accomplished fighter and stealth
+
+241
+00:24:06,080 --> 00:24:12,260
+expert. But who watches the Watchman? Your mom?
+Yeah, I think she's seen that movie. You're right.
+
+242
+00:24:12,260 --> 00:24:18,440
+You're right. I got to say that the subsequent
+rebirth DC universe aspects of these characters
+
+243
+00:24:18,440 --> 00:24:23,400
+history didn't really hold a candle to the
+original Watchman story. No, and I don't think it
+
+244
+00:24:23,400 --> 00:24:29,200
+really holds a candle to what they did with the
+Watchman television series. In my opinion, that
+
+245
+00:24:29,200 --> 00:24:35,880
+is the superior sequel to the Watchman story,
+particularly when it comes to also the history of
+
+246
+00:24:35,880 --> 00:24:41,520
+certain characters like Hooded Justice. But
+that's not comics canon. Yeah, if DC was smart,
+
+247
+00:24:41,520 --> 00:24:46,720
+they would actually serialize the Watchman
+television show from HBO, put it into a comic book
+
+248
+00:24:46,720 --> 00:24:52,360
+format and then make it an official sequel. I might
+be too late for that, but it's fine. Well, at least
+
+249
+00:24:52,360 --> 00:24:56,620
+Marvel has the synergy going with this new team
+that's going to be in the Thunderbolts movie. But
+
+250
+00:24:56,620 --> 00:25:01,460
+let me take you back to the beginning of the comic
+book history. The Thunderbolts were founded
+
+251
+00:25:01,460 --> 00:25:07,000
+after a battle with Onslaught left the world
+without the Avengers or Fantastic Four. Seizing
+
+252
+00:25:07,000 --> 00:25:12,280
+the opportunity, Baron Zemo assembled a new team
+of villains from the Masters of Evil group now
+
+253
+00:25:12,280 --> 00:25:17,780
+posing as heroes. Vidal, Fixer, Goliath,
+Moonstone and Screaming Mimi, who adopted the new
+
+254
+00:25:17,780 --> 00:25:23,360
+identities of Mach 1, Techno, Atlas, Moonstone
+and Songbird. You can learn more about the Masters
+
+255
+00:25:23,360 --> 00:25:28,100
+of Evil in their team duel against the Legion of
+Doom. The Thunderbolts debuted to public
+
+256
+00:25:28,100 --> 00:25:34,180
+acclaim, even inspiring young heroine Jolt, who
+joined the team unaware of their deception. After
+
+257
+00:25:34,180 --> 00:25:39,400
+the Avengers and the Fantastic Four returned,
+Zemo accelerated his plans, publicly exposing
+
+258
+00:25:39,400 --> 00:25:44,180
+the Thunderbolts true identities to destroy
+their chances at redemption and solidify their
+
+259
+00:25:44,180 --> 00:25:49,620
+loyalty to him. Zemo attempted to enslave the
+global population with a mind control device, but
+
+260
+00:25:49,620 --> 00:25:54,480
+the team, having genuinely embraced heroism,
+turned against him, freeing the mind controlled
+
+261
+00:25:54,480 --> 00:25:59,800
+populace. Zemo fled while the remaining
+Thunderbolts, now fugitives, struggled to earn
+
+262
+00:25:59,800 --> 00:26:04,760
+back the trust they had betrayed. Better an
+Avenger Hawkeye than joined and led the team,
+
+263
+00:26:04,760 --> 00:26:10,240
+boosting their credibility. He convinced Mach 1
+to serve jail time for past crimes, solidifying
+
+264
+00:26:10,240 --> 00:26:15,580
+the team's commitment to change. Under Hawkeye,
+the Thunderbolts defeated the new Masters of
+
+265
+00:26:15,580 --> 00:26:20,100
+Evil, gained the headquarters, and earned
+government support. After exposing Henry
+
+266
+00:26:20,100 --> 00:26:25,340
+Guyridge's anti-superhuman conspiracy, they
+were officially pardoned. Later, during a battle
+
+267
+00:26:25,340 --> 00:26:30,860
+with Graviton, several Thunderbolts, including
+Fixer, Jolt and Songbird, were hurled to counter
+
+268
+00:26:30,860 --> 00:26:36,060
+Earth, which was a parallel world created by
+Franklin Richards, the son of Mr. Fantastic and
+
+269
+00:26:36,060 --> 00:26:41,400
+Invisible Woman. There, they worked with Baron
+Zemo to stabilize the devastated planet.
+
+270
+00:26:41,400 --> 00:26:46,040
+Meanwhile, Hawkeye formed a second Thunderbolts
+team to combat Crimson Cowell's forces.
+
+271
+00:26:46,040 --> 00:26:50,900
+Meanwhile, Hawkeye formed a second Thunderbolts
+team to combat Crimson Cowell's forces. After
+
+272
+00:26:50,900 --> 00:26:55,740
+various battles in the return of the original team
+from counter Earth, the Thunderbolts merged into
+
+273
+00:26:55,740 --> 00:27:01,820
+one group. Zemo seized control, convincing some
+members to follow his vision of saving the world
+
+274
+00:27:01,820 --> 00:27:06,760
+through domination. His Thunderbolts clashed
+with the Avengers and were ultimately defeated,
+
+275
+00:27:06,760 --> 00:27:12,240
+fracturing the team. Original members Mock Four,
+Songbird and Atlas later revived the
+
+276
+00:27:12,240 --> 00:27:17,820
+Thunderbolts with new recruits like Joystick,
+Rizzard, Speed Demon and Radioactive Man. This
+
+277
+00:27:17,820 --> 00:27:23,400
+era saw them battle against Hydra and the Purple
+Man, who tried to enslave New York. Zemo secretly
+
+278
+00:27:23,400 --> 00:27:57,780
+manipulated a Formerly the Green Goblin, soon
+assumed leadership of the new Thunderbolts
+
+279
+00:27:57,780 --> 00:28:03,240
+lineup. You can learn more about him in his duel
+against the Joker. Characters like Songbird,
+
+280
+00:28:03,240 --> 00:28:08,500
+Moonstone, Bullseye, Venom, Penance, and
+Swordsman operated as a sanctioned strike team
+
+281
+00:28:08,500 --> 00:28:13,580
+capturing unregistered heroes. Despite public
+success, internal betrayal and corruption
+
+282
+00:28:13,580 --> 00:28:18,380
+riddled the team. Osborn manipulated events
+during the Skrull invasion positioning himself
+
+283
+00:28:18,380 --> 00:28:23,340
+as the national hero known as Iron Patriot. Under
+Osborn, the Thunderbolts became a covert
+
+284
+00:28:23,340 --> 00:28:29,220
+assassination squad known as the Dark Avengers.
+New members included White Widow, Yelena Baloba,
+
+285
+00:28:29,220 --> 00:28:34,580
+who was actually Natasha Romanoff in disguise,
+Ant-Man, and Ghost. Missions ranged from
+
+286
+00:28:34,580 --> 00:28:39,040
+targeting Deadpool to seizing weapons for Masked
+Guard during Osborn's campaign against the realm
+
+287
+00:28:39,040 --> 00:28:44,180
+after it manifested on Earth. After Osborn's
+fall, Luke Cage took over the Thunderbolts
+
+288
+00:28:44,180 --> 00:28:50,840
+program. The team included Songbird, Mach 5,
+Ghost, Moonstone, Juggernaut, Crossbones,
+
+289
+00:28:50,840 --> 00:28:55,840
+Hyperion, and Manthing. Operating from the Raft
+prison, this version aimed at rehabilitating
+
+290
+00:28:55,840 --> 00:29:00,600
+villains, though tensions and betrayals
+remained. Crossbones and Hyperion were expelled
+
+291
+00:29:00,600 --> 00:29:05,980
+after betraying the team, and Satan had joined to
+defend against magical threats. The team was
+
+292
+00:29:05,980 --> 00:29:12,100
+later lost in time, battling through World War II,
+Camelot, and a dystopian future before returning
+
+293
+00:29:12,100 --> 00:29:17,480
+to the present and then disbanding. Later,
+General Thaddeus, Thunderbolt Ross, now Red
+
+294
+00:29:17,480 --> 00:29:23,630
+Hulk, formed his own Thunderbolt strike team with
+Deadpool, Electra, Agent Venom, Punisher, and
+
+295
+00:29:23,630 --> 00:29:27,940
+eventually Ghost Rider. Operating outside
+government control, they confronted threats
+
+296
+00:29:27,940 --> 00:29:33,920
+like Madman, Gamma-irradiated Crimson Dynamos,
+and even travel to Hell. The team fractured after a
+
+297
+00:29:33,920 --> 00:29:38,660
+brutal internal conflict between Punisher and
+Red Hulk, which was partly orchestrated by the
+
+298
+00:29:38,660 --> 00:29:44,400
+villain known as the Leader. James Bucky Barnes,
+aka the Winter Soldier, assembled a new
+
+299
+00:29:44,400 --> 00:29:50,000
+Thunderbolt squad, including original members
+Fixer, Atlas, Moonstone, and Mach 10. The mission
+
+300
+00:29:50,000 --> 00:29:54,900
+was to prevent Shield from abusing the sentient
+cosmic cube, Cobyc. During this time, they
+
+301
+00:29:54,900 --> 00:30:00,340
+battled alien invaders, the squadron Supreme,
+and a secretly fascist Captain America. Songbird
+
+302
+00:30:00,340 --> 00:30:05,120
+briefly reunited with the team before it
+disbanded, following attacks by Baron Zemo and
+
+303
+00:30:05,120 --> 00:30:09,440
+the Masters of Evil. Subsequently, Zemo
+organized a Thunderbolt's team during his
+
+304
+00:30:09,440 --> 00:30:14,900
+vendetta against the Punisher. His roster
+included Ghost, Moonstone, Radioactive Man,
+
+305
+00:30:14,900 --> 00:30:21,080
+Fixer, and Jigsaw. Their efforts to trap and kill
+Frank Castle failed after Ghost turned against
+
+306
+00:30:21,080 --> 00:30:27,280
+Zemo. The Kingpin, as Mayor of New York later
+formed his own Thunderbolt's task force led by
+
+307
+00:30:27,280 --> 00:30:32,980
+Taskmaster to fight the evil deity Null's
+invasion of the city. After being hunted by Null's
+
+308
+00:30:32,980 --> 00:30:37,840
+shadowy forces, the team made their way to the
+Ravencroft Institute, where they teamed with
+
+309
+00:30:37,840 --> 00:30:43,800
+Norman Osborn to use the Sentry against Null's
+symbiote base. After Null's eventual defeat,
+
+310
+00:30:43,800 --> 00:30:48,800
+which you can learn more about in his duel against
+DC's White Lantern, Kingpin continued using the
+
+311
+00:30:48,800 --> 00:30:54,620
+Thunderbolts, now led by a US agent to crack down on
+Vigilantism. Following Fisk's downfall as
+
+312
+00:30:54,620 --> 00:30:59,800
+Mayor, the newly elected Luke Cage restructured
+the Thunderbolts and placed Hawkeye in charge
+
+313
+00:30:59,800 --> 00:31:05,560
+with a new lineup featuring Photon, Miss America,
+and Power Man. This team successfully defended
+
+314
+00:31:05,560 --> 00:31:10,060
+New York from several threats, but was
+short-lived. Meanwhile, the Winter Soldier and
+
+315
+00:31:10,060 --> 00:31:15,180
+former Shield agent Contessa Valentina Allegra
+de Fontaine assembled a separate Thunderbolts
+
+316
+00:31:15,180 --> 00:31:21,620
+team to dismantle Red Skull's global operations.
+Red Guardian, White Widow, Black Widow, Sharon
+
+317
+00:31:21,620 --> 00:31:28,100
+Carter, Shang Chi, and US agent joined the cause.
+They succeeded in defeating the Red Skull after a
+
+318
+00:31:28,100 --> 00:31:33,940
+battle in Laferia, involving Dr. Doom. And that's
+the Thunderbolts backstory. For this team duel's
+
+319
+00:31:33,940 --> 00:31:38,360
+7-person roster, I'm going with mostly members
+from the most recent iteration of the comic book
+
+320
+00:31:38,360 --> 00:31:43,180
+team, which largely coincides with the roster in
+the Thunderbolts movie, which comes out this
+
+321
+00:31:43,180 --> 00:31:47,640
+week. Yes, it did destroy me that we're not
+including any members of the original
+
+322
+00:31:47,640 --> 00:31:53,480
+Thunderbolts team here, including people like
+Baron Zemo, Mach 1, Songbird, Atlas, Moonstone,
+
+323
+00:31:53,480 --> 00:31:58,660
+and Techno. No one is more upset by this than me,
+because I think the original Thunderbolts
+
+324
+00:31:58,660 --> 00:32:04,140
+storyline up through Hawkeye's leadership of the
+group is just classic Marvel storytelling that no
+
+325
+00:32:04,140 --> 00:32:09,360
+other iteration of the team has been able to match.
+But as we said earlier, when we realized that the
+
+326
+00:32:09,360 --> 00:32:13,840
+film's Thunderbolts roster could potentially
+make for a good duel against the Watchmen, we just
+
+327
+00:32:13,840 --> 00:32:18,640
+saw an opportunity that we couldn't pass up. So
+representing the Thunderbolts are the Winter
+
+328
+00:32:18,640 --> 00:32:24,060
+Soldier, who has led two separate versions of the
+team, Taskmaster, who served on three iterations
+
+329
+00:32:24,060 --> 00:32:31,380
+and even led the team once, Ghost, a three-time
+Thunderbolts member, US Agent, who has served on
+
+330
+00:32:31,380 --> 00:32:37,480
+the Thunderbolts twice and led once, White Widow,
+who was involved in two incarnations of the team,
+
+331
+00:32:37,480 --> 00:32:42,600
+Red Guardian, who was a more recent recruit, and
+finally, the Sentry, who was never actually a
+
+332
+00:32:42,600 --> 00:32:47,500
+Thunderbolts member but who was a part of Norman
+Osborn's Dark Avengers, which was a team that spun
+
+333
+00:32:47,500 --> 00:32:52,020
+out of the Thunderbolts. Each of these characters
+has had their own duel episode for listeners to
+
+334
+00:32:52,020 --> 00:32:58,260
+learn more about them, except for Ghost and Red
+Guardian. Ghost was a brilliant data engineer who
+
+335
+00:32:58,260 --> 00:33:02,600
+developed quantum computing chips that could
+phase out of existence to bypass the physical
+
+336
+00:33:02,600 --> 00:33:07,000
+limitations of the real world, such as
+overheating. When he was betrayed by the company
+
+337
+00:33:07,000 --> 00:33:12,260
+he worked for, he integrated the technology into a
+suit that could render him both invisible and
+
+338
+00:33:12,260 --> 00:33:16,780
+intangible. After killing his company's
+executives, he became a corporate saboteur for
+
+339
+00:33:16,780 --> 00:33:21,600
+hire. He clashed with Iron Man on multiple
+occasions before being drafted into the
+
+340
+00:33:21,600 --> 00:33:27,300
+Thunderbolts. Ghost's suit also renders him
+completely silent, able to zap others or disrupt
+
+341
+00:33:27,300 --> 00:33:33,120
+electronics with an electric touch, able to
+interface with technology, and able to float. Of
+
+342
+00:33:33,120 --> 00:33:38,300
+course, the comic version is very different than
+the MCU's version, who is Ava Star, the daughter of
+
+343
+00:33:38,300 --> 00:33:43,860
+the Ant-Man villain Egghead. Now Red Guardian's
+real name is Alexi Shostakov, whom I discussed
+
+344
+00:33:43,860 --> 00:33:49,280
+briefly in our Black Canary vs Black Widow Duel
+episode. In the comics, he is a former Soviet pilot
+
+345
+00:33:49,280 --> 00:33:54,800
+and husband of Black Widow. His death was faked by
+the KGB in order to turn him into a special
+
+346
+00:33:54,800 --> 00:34:00,440
+operative. Russia is answered to Captain
+America, called Red Guardian. He was often pit
+
+347
+00:34:00,440 --> 00:34:05,280
+against his American rival and later against his
+ex-wife, when she defected from Russia and joined
+
+348
+00:34:05,280 --> 00:34:10,380
+the Avengers. Red Guardian later defected
+himself, and often teamed up with White Widow
+
+349
+00:34:10,380 --> 00:34:16,340
+against the Red Room. He wields a circular shield
+and carries smaller discs on his belt that he can
+
+350
+00:34:16,340 --> 00:34:21,639
+use as throwing projectiles. That's the team. To
+reiterate, my Thunderbolts roster is Winter
+
+351
+00:34:21,639 --> 00:34:28,400
+Soldier, Taskmaster, Ghost, US Agent, White
+Widow, Red Guardian, and Sentry. Right, and when
+
+352
+00:34:28,400 --> 00:34:34,380
+we're formulating rosters with our executive
+producers, we like to pair up these characters
+
+353
+00:34:34,380 --> 00:34:41,719
+just to make sure that they are evenly matched, or
+as evenly matched as we can get. In this case, Red
+
+354
+00:34:41,719 --> 00:34:48,440
+Guardian is pairing up with Hooded Justice, White
+Widow with Comedian, Ghost with Silk Spectre,
+
+355
+00:34:48,440 --> 00:34:55,360
+Taskmaster with Ozzy Mandias, Winter Soldier
+with Night Owl, US Agent with Rorschach, and of
+
+356
+00:34:55,360 --> 00:35:00,820
+course, Sentry with Dr. Manhattan. Yeah, one of
+the main differences between the two teams is that
+
+357
+00:35:00,820 --> 00:35:07,380
+the watchmen are going to get served justice like
+lightning. Okay. And if you didn't know, that is
+
+358
+00:35:07,380 --> 00:36:08,480
+the Thunderbolts tagline. So, yeah. But now that
+we've got the team's histories and rosters out of
+
+359
+00:36:08,480 --> 00:36:13,200
+the way, we're going to speculate on how one of the
+thousands of simulated matches will go. The
+
+360
+00:36:13,200 --> 00:36:17,660
+winner is determined by simulations, not the
+speculation, but it's fun to imagine how the fight
+
+361
+00:36:17,660 --> 00:36:23,140
+could play out. Agent I.K., what are the rules over
+speculation? Well, I should say there are no
+
+362
+00:36:23,140 --> 00:36:27,980
+rules, other than the teams have no prior
+knowledge of the other going into the fight. All
+
+363
+00:36:27,980 --> 00:36:33,080
+they are aware of starting out is that the other
+side is a threat that needs to be eliminated. For
+
+364
+00:36:33,080 --> 00:36:37,660
+the speculation, the groups will begin
+approximately 50 meters apart in a nondescript
+
+365
+00:36:37,660 --> 00:36:42,720
+environment that will have no bearing on the match
+itself, as no environmental statistics are
+
+366
+00:36:42,720 --> 00:36:48,160
+considered in my simulations. The teams must earn
+victory on their own merit. All right, then, let's
+
+367
+00:36:48,160 --> 00:36:54,620
+get into it. The watchmen and the Thunderbolts
+meet on the battlefield, which team goes first?
+
+368
+00:36:54,620 --> 00:36:59,700
+Actually, I'm going to say that because Dr.
+Manhattan already knows how this match is going to
+
+369
+00:36:59,700 --> 00:37:07,220
+play out and end, he's going to start by causing
+this colossal labyrinth of reflective glass and
+
+370
+00:37:07,220 --> 00:37:14,320
+clockwork gears to rise up from the ground around
+them. And so now the teams have to fight through
+
+371
+00:37:14,320 --> 00:37:20,720
+this MC Escher-esque hall of mirrors. That's
+pretty cool, but the Thunderbolts are going to be
+
+372
+00:37:20,720 --> 00:37:28,500
+like, what the hell is this? How is this fair? And
+why is that blue guy's dick out? And Red Guardian is
+
+373
+00:37:28,500 --> 00:37:32,080
+going to be like, should I pull my dick out? And
+everybody's going to be like, that's gross. Don't
+
+374
+00:37:32,080 --> 00:37:36,960
+do that. But I'm going to say the century starts off
+by he's just going to tear through the clockwork
+
+375
+00:37:36,960 --> 00:37:41,880
+tower, like shattering some parts of it, melting
+parts of it down. So everything is basically
+
+376
+00:37:41,880 --> 00:37:46,400
+falling apart around them. And as this glass
+structure gets torn down, Winter Soldier
+
+377
+00:37:46,400 --> 00:37:51,240
+suddenly gets a clear shot with his sniper rifle
+through a hole in the glass, and he just shoots
+
+378
+00:37:51,240 --> 00:37:56,660
+Comedian right in his side. Actually, though,
+that was just a reflection of the Comedian. So
+
+379
+00:37:56,660 --> 00:38:02,560
+Winter Soldier really just shoots through glass
+and now he's given away his location to the real
+
+380
+00:38:02,560 --> 00:38:10,190
+Comedian to return to the favor by launching a
+grenade from his rifle at the Winter Soldier. And
+
+381
+00:38:10,190 --> 00:38:14,300
+that's going to cause his good arm to get blown
+right off. No, no, no, no, because as the grenade
+
+382
+00:38:14,300 --> 00:38:19,920
+comes in, it's just going to bounce off of US
+agents' shield and blow up another part of the
+
+383
+00:38:19,920 --> 00:38:25,820
+glass tower. I think by this point, like at least
+half of the structure is already gone. So White
+
+384
+00:38:25,820 --> 00:38:30,860
+Widow grapples up to the highest point that's
+still around. And she's going to shoot down a gas
+
+385
+00:38:30,860 --> 00:38:36,700
+pellet that covers Rorschach and Hooded Justice
+in tear gas smoke, and they're not able to breathe
+
+386
+00:38:36,700 --> 00:38:42,860
+and they're incapacitated. You literally chose
+the two characters who both have mouth coverings
+
+387
+00:38:42,860 --> 00:38:52,480
+to filter their air. No, it would affect them more.
+I don't think it would. Oh, shit, did I fuck up?
+
+388
+00:38:52,480 --> 00:38:56,580
+Rorschach, you know, he's going to see where the
+tear gas came from and he's going to use his
+
+389
+00:38:56,580 --> 00:39:02,660
+grappling gun to zip up to where White Widow is, at
+which point he's going to attack her with a broken
+
+390
+00:39:02,660 --> 00:39:08,780
+shot of glass that he collected down below and he's
+just going to slice right into her neck. There's no
+
+391
+00:39:08,780 --> 00:39:13,320
+way. Like White Widow is going to block this slash
+attack and then she's going to punch Rorschach
+
+392
+00:39:13,320 --> 00:39:18,140
+right in the face and then she's going to look at his
+mask and she's going to be like, I think I see a bitch
+
+393
+00:39:18,140 --> 00:39:23,000
+and she's going to rent house, kick him right off
+the glass tower where he lands on some spiky glass
+
+394
+00:39:23,000 --> 00:39:29,860
+debris down below and dies. What? Damn. OK, he's
+probably going to call her a whore as he falls to his
+
+395
+00:39:29,860 --> 00:39:38,640
+death. Right in front of Night Owl, who's like, no.
+And so he's going to grapple up to his Archie Owl
+
+396
+00:39:38,640 --> 00:39:46,000
+ship and use its sonic emitters to shatter the
+glass tower that White Widow is in. So she also
+
+397
+00:39:46,000 --> 00:39:51,680
+falls to her death. I said that you couldn't use
+Archie in the course of this battle. I'm sorry.
+
+398
+00:39:51,680 --> 00:39:57,860
+Why? For the same reason I said you couldn't use the
+bug ship in the Blue Beetle duel episode. And yet I
+
+399
+00:39:57,860 --> 00:40:04,560
+did. And it's not fair to do one and not the other. So
+suck it. Meanwhile, back in the match, Hooded
+
+400
+00:40:04,560 --> 00:40:11,720
+Justice has Red Guardian panties to the ground in a
+wrestling chokehold. OK. And Red Guardian is
+
+401
+00:40:11,720 --> 00:40:18,960
+going to be like, why is the guy fighting me have an
+erection? What is with this team? And he's going to
+
+402
+00:40:18,960 --> 00:40:23,980
+be rescued by USA agent who curls his shield at
+Hooded Justice's head, which is going to cause him
+
+403
+00:40:23,980 --> 00:40:29,520
+to lose his grip on Red Guardian. And Red Guardian,
+he's going to get up and he throws his shield at
+
+404
+00:40:29,520 --> 00:40:33,300
+Hooded Justice to in retaliation for the
+chokehold. And then, you know what? Just to get it
+
+405
+00:40:33,300 --> 00:40:38,020
+on the action, Taskmaster also throws his shield
+at Hooded Justice. So that's three different
+
+406
+00:40:38,020 --> 00:40:43,100
+shields being thrown at him. Hooded Justice is
+looking like a pinball here and he's knocked out of
+
+407
+00:40:43,100 --> 00:40:48,760
+this match. No one's taken three shields to the
+face and living to tell about it. OK, that seemed
+
+408
+00:40:48,760 --> 00:40:55,960
+unnecessary. Let's say Silk Spectre and Ghost are
+battling get out elsewhere in this match. But, you
+
+409
+00:40:55,960 --> 00:41:02,260
+know, even with ghosts, phasing abilities, Silk
+Spectre is one of the best trained fighters in the
+
+410
+00:41:02,260 --> 00:41:09,240
+watchmen world. So she's able to time her attacks
+perfectly and land several debilitating blows
+
+411
+00:41:09,240 --> 00:41:15,700
+against a ghost that would never happen. If
+anything, Ghost is probably just going to have
+
+412
+00:41:15,700 --> 00:41:21,000
+some fun, like frustrating Silk Spectre as she
+tries to land hit after hit after hit and just
+
+413
+00:41:21,000 --> 00:41:25,940
+getting air each time. And then Ghost is just going
+to turn invisible. And Silk Spectre is wondering
+
+414
+00:41:25,940 --> 00:41:31,580
+where the hell he's gone. When all of a sudden Ghost
+appears behind her and straight up tases her in the
+
+415
+00:41:31,580 --> 00:41:37,340
+neck and she drops to the floor like a wet sack. So
+Silk Spectre is out of this match now. For my
+
+416
+00:41:37,340 --> 00:41:45,100
+tasing? Yeah, she's incapacitated. OK, well,
+this whole time, Ozymandias has been hiding in
+
+417
+00:41:45,100 --> 00:41:51,440
+the labyrinth, just observing the thunder bolts.
+And through his powers of deduction, he's noticed
+
+418
+00:41:51,440 --> 00:41:58,920
+that the Russian technology of the winter
+soldier's bionic arm doesn't match his accent. So
+
+419
+00:41:58,920 --> 00:42:05,540
+he assumes he is a kidnapped, brainwashed
+assassin. And having read about Russian
+
+420
+00:42:05,540 --> 00:42:12,060
+brainwashing techniques, Ozymandias quickly
+speaks Bucky's code words to take control of him.
+
+421
+00:42:12,060 --> 00:42:17,820
+And he has Bucky's snap red guardians neck killing
+him. Well, you're thinking of the movies here,
+
+422
+00:42:17,820 --> 00:42:22,600
+like in the books, there were no code words. If I
+remember correctly, it was just he was controlled
+
+423
+00:42:22,600 --> 00:42:28,040
+by the Russians through mind implants. But we'll
+say that, yeah, sure. Somehow Ozymandias knew
+
+424
+00:42:28,040 --> 00:42:32,280
+something about Russia manipulation
+techniques, at least enough to take advantage of
+
+425
+00:42:32,280 --> 00:42:38,960
+them. All right, cool. Yeah. So the winter soldier
+is his agent now, and he killed Red Guardian. But
+
+426
+00:42:38,960 --> 00:42:44,000
+whatever Ozymandias can do, Taskmaster can
+copy. So as the US agent and ghost are like
+
+427
+00:42:44,000 --> 00:42:49,140
+defending themselves from Bucky's gunfire,
+Taskmaster is going to just run his sword through
+
+428
+00:42:49,140 --> 00:42:55,180
+Ozymandias and pailing him and killing him and
+then using the same Russian techniques to bring
+
+429
+00:42:55,180 --> 00:42:59,860
+the winter soldier back onto the Thunderbolt
+side. No, no, no, because Ozymandias had
+
+430
+00:42:59,860 --> 00:43:07,060
+observed Taskmaster as well and also deduced his
+ability to mimic physical abilities. So as
+
+431
+00:43:07,060 --> 00:43:13,320
+Taskmaster attacks him, Ozymandias just
+sidesteps and catches the blade of Taskmaster's
+
+432
+00:43:13,320 --> 00:43:19,280
+sword between his palms. And with one fluid
+motion, Ozymandias disarms and impales
+
+433
+00:43:19,280 --> 00:43:25,120
+Taskmaster on his own sword. OK, so you're telling
+me that Ozymandias not only still has winter
+
+434
+00:43:25,120 --> 00:43:30,460
+soldier under his control, but he also just took
+out Taskmaster. That's right. Well, it's pretty
+
+435
+00:43:30,460 --> 00:43:37,420
+dang strong. I'm going to say by this point, Ghost
+has floated up to Archie, Night Owl's ship, and he
+
+436
+00:43:37,420 --> 00:43:42,600
+uses his ghost tech to shut down all of Archie's
+electrical systems and Night Owl has no idea
+
+437
+00:43:42,600 --> 00:43:48,140
+what's going on because Ghost is invisible and
+inaudible. So Night Owl ejects from the ship as it
+
+438
+00:43:48,140 --> 00:43:54,740
+falls from the sky. But Ghost manages to steer it
+right into Ozymandias, who's like, oh, shit, I
+
+439
+00:43:54,740 --> 00:44:00,880
+didn't see this coming. And then he gets fined into
+the world's smartest pancake. OK, sure. Night
+
+440
+00:44:00,880 --> 00:44:07,320
+Owl, he's going to glide down from the sky
+silently. And he aims right for US agent doing a
+
+441
+00:44:07,320 --> 00:44:14,220
+gliding double kick right into his spine, causing
+US agent to topple forward. And Night Owl is
+
+442
+00:44:14,220 --> 00:44:20,520
+quickly going to follow up by hurling a crescent
+blade right into US agent's neck. No, not only does
+
+443
+00:44:20,520 --> 00:44:25,520
+US agent block this crescent blade with his
+shield, he's going to rush over and then straight
+
+444
+00:44:25,520 --> 00:44:30,620
+up shield uppercut Night Owl's head. Right off his
+body, because, you know, he has like 10 ton level
+
+445
+00:44:30,620 --> 00:44:37,460
+strength. What the heck? All right. Well, this is
+when US agent suddenly gets hosed down by the
+
+446
+00:44:37,460 --> 00:44:43,700
+comedian's flamethrower, just setting him
+ablaze. And while US agent is dying, comedian
+
+447
+00:44:43,700 --> 00:44:49,620
+turns his attention to Winter Soldier, who's
+coming out of Ozymandias's brainwashing, all
+
+448
+00:44:49,620 --> 00:44:56,140
+confused. And the comedian snipes him right in the
+head. No, I think Winter Soldier is less confused
+
+449
+00:44:56,140 --> 00:45:02,000
+than you think. Like he snaps out of Ozymandias's
+brainwashing and straight up catches comedian's
+
+450
+00:45:02,000 --> 00:45:07,280
+bullet with his metal arm. And then without
+missing a beat with his other arm, he just flings a
+
+451
+00:45:07,280 --> 00:45:12,500
+throwing knife that flacks right into comedian's
+forehead. Dude, I said comedian snaped him. He was
+
+452
+00:45:12,500 --> 00:45:20,660
+far away. Winter Soldier could throw a knife that
+hard, that fast, that far. Yeah. OK. So what? All I
+
+453
+00:45:20,660 --> 00:45:27,460
+have left is Dr. Manhattan. Oh, no. Whatever.
+Psych. Dr. Manhattan is going to split himself
+
+454
+00:45:27,460 --> 00:45:34,700
+into three duplicates and one's going to teleport
+over to ghost and turn him into steam. And another
+
+455
+00:45:34,700 --> 00:45:40,780
+one's going to go to US agent. Just turn him to
+Mercury. And the third one, he's going to teleport
+
+456
+00:45:40,780 --> 00:45:47,180
+over to Winter Soldier and turn him into
+snowflakes. Wow. Easy peasy. And then he's going
+
+457
+00:45:47,180 --> 00:45:54,700
+to re merge into one giant being that's going to
+snatch the century right out of the air. And, you
+
+458
+00:45:54,700 --> 00:45:59,760
+know, maybe taking a second to study his
+photosynthetic physiology. He's just going to
+
+459
+00:45:59,760 --> 00:46:05,880
+straight up turn him into a black hole. Match over.
+I win. OK. I'm going to say that Dr. Manhattan meant
+
+460
+00:46:05,880 --> 00:46:11,020
+to turn century into a black hole. But what he
+actually accidentally did was bring out the
+
+461
+00:46:11,020 --> 00:46:16,780
+centuries void persona. So this like black hole
+that Dr. Manhattan created, it actually develops
+
+462
+00:46:16,780 --> 00:46:22,280
+like this dark smile and shoots at a bunch of dark
+tendrils that embed themselves into Dr.
+
+463
+00:46:22,280 --> 00:46:29,340
+Manhattan and they just explode him like a nuclear
+bomb. No, Dr. Manhattan would have seen this
+
+464
+00:46:29,340 --> 00:46:34,520
+coming, though. No, no, no, because there were
+tachyons. Right. Created by the mini black hole
+
+465
+00:46:34,520 --> 00:46:40,580
+that was actually the void. And then when Dr.
+Manhattan exploded like a nuclear bomb, like,
+
+466
+00:46:40,580 --> 00:46:45,400
+yeah, there were tachyons. And, you know, all the
+science stuff. So he couldn't see it. Sorry.
+
+467
+00:46:45,400 --> 00:46:52,760
+You're just saying words. OK. Actually, you know
+what? There was a nuclear bomb explosion. So as the
+
+468
+00:46:52,760 --> 00:46:58,500
+voids embedding itself in Dr. Manhattan, let's
+say suddenly this bright light crackles between
+
+469
+00:46:58,500 --> 00:47:06,280
+them just as a massive alien squid suddenly
+explodes onto the scene, not only blowing up the
+
+470
+00:47:06,280 --> 00:47:12,020
+void and Manhattan, but also invading their minds
+with like disturbing psychic energy that
+
+471
+00:47:12,020 --> 00:47:19,360
+literally shatters their minds. And how how did
+this happen when Ghost crashed Archie into
+
+472
+00:47:19,360 --> 00:47:26,560
+Ozymandias at the last second? He leaped through
+one of Archie's giant eye windows and then he
+
+473
+00:47:26,560 --> 00:47:31,960
+rewired and rebooted the ship's technology to
+send a signal back to bite industries and putting
+
+474
+00:47:31,960 --> 00:47:36,640
+coordinates for where his squid alien should
+appear and detonate. He probably knew he wouldn't
+
+475
+00:47:36,640 --> 00:47:42,320
+survive the explosion, but he knew that Dr.
+Manhattan could by reconstituting himself
+
+476
+00:47:42,320 --> 00:47:48,120
+afterward, giving his side the wind. Except, you
+know, that the century would also regenerate from
+
+477
+00:47:48,120 --> 00:47:53,560
+this, not just Dr. Manhattan. So that would work.
+Yeah. OK, well, you know, Dr. Manhattan would
+
+478
+00:47:53,560 --> 00:47:59,860
+regenerate first, so we still win. I don't think
+so, but we can go ahead and leave the match there.
+
+479
+00:47:59,860 --> 00:48:06,420
+Either Dr. Manhattan regenerates from
+Ozymandias's giant squid explosion first or the
+
+480
+00:48:06,420 --> 00:48:11,600
+century regenerates first. Let's go ahead and
+find out which scenario happens by inputting the
+
+481
+00:48:11,600 --> 00:48:18,660
+stats on these teams, running the simulations and
+coming back with the winning team. AJ9K, hit it.
+
+482
+00:48:18,660 --> 00:48:24,640
+Inputting data, running calculations,
+processing results, simulations complete. All
+
+483
+00:48:24,640 --> 00:48:29,620
+right, this is quite the fun pairing, mostly
+because putting in the stats for the more street
+
+484
+00:48:29,620 --> 00:48:35,860
+level characters was funny compared to the more
+god level power characters. Yeah, it was not even
+
+485
+00:48:35,860 --> 00:48:44,600
+close. Dr. Manhattan won a whopping 97.8 percent
+of his matches against the entire Thunderbolts
+
+486
+00:48:44,600 --> 00:48:51,500
+team. It was funny because it's rare that we ever
+get a zero win rate percentage, but it happened for
+
+487
+00:48:51,500 --> 00:48:55,940
+the first time in the course of this match. There
+were several Thunderbolts characters who
+
+488
+00:48:55,940 --> 00:49:02,060
+literally stood a zero percent chance of
+defeating Dr. Manhattan. Yeah, he was by far the
+
+489
+00:49:02,060 --> 00:49:07,560
+most powerful character on either of our teams.
+Now, the century, obviously, was your most
+
+490
+00:49:07,560 --> 00:49:13,020
+powerful character. Yeah, and there were some
+watchmen characters that the century beat, like,
+
+491
+00:49:13,020 --> 00:49:19,220
+99.9 percent of the time. So his overall win rate
+ended up being 84.3 percent. It would have been
+
+492
+00:49:19,220 --> 00:49:24,000
+damn near close to 100 if it wasn't for Dr.
+Manhattan. It was interesting seeing how the
+
+493
+00:49:24,000 --> 00:49:29,500
+overall stat categories compared across each
+team, especially with things like evasiveness.
+
+494
+00:49:29,500 --> 00:49:35,640
+Like the Thunderbolts were way more evasive than
+the watchmen, largely because US agent has a
+
+495
+00:49:35,640 --> 00:49:42,580
+shield, taskmaster has a shield, red guardian has
+a shield, ghost is fucking intangible and
+
+496
+00:49:42,580 --> 00:49:48,280
+invisible. So the Thunderbolts just dominated in
+that category. Yeah, the only stat where the
+
+497
+00:49:48,280 --> 00:49:54,780
+street level watchmen characters really shined
+in was fighting skill. They're all pretty good
+
+498
+00:49:54,780 --> 00:50:01,400
+fighters. And next to Dr. Manhattan, my most
+impressive character was actually Night Owl. I
+
+499
+00:50:01,400 --> 00:50:08,360
+thought it was going to be Ozzy Madius, but with the
+Archie Owl ship that really leveled up Night Owl in
+
+500
+00:50:08,360 --> 00:50:13,220
+terms of his stats. I mean, yeah, the watchmen were
+good fighters, but the Thunderbolts were also
+
+501
+00:50:13,220 --> 00:50:18,300
+really good fighters. That's fair. And you guys
+were also much more versatile than the watchmen as
+
+502
+00:50:18,300 --> 00:50:24,800
+well. I had the most powerful character, but I also
+had the two weakest characters in Silk Spectre and
+
+503
+00:50:24,800 --> 00:50:30,100
+Hooded Justice. Yeah, my weakest character was
+actually Ghost, who does great in terms of
+
+504
+00:50:30,100 --> 00:50:35,740
+evasiveness, but wasn't really impressive in any
+other stat category, except for intelligence and
+
+505
+00:50:35,740 --> 00:50:41,340
+versatility. Yeah, Ghost as your weakest
+character had a win rate of thirty six point five
+
+506
+00:50:41,340 --> 00:50:49,080
+percent, whereas my lowest win rate of fourteen
+point six percent belonged to Silk Spectre. So we
+
+507
+00:50:49,080 --> 00:50:53,160
+got a nice little trade off here going basically,
+Jonathan, you have the character with the highest
+
+508
+00:50:53,160 --> 00:50:58,320
+win rate, but you also have the characters with the
+lowest win rate. My best win rate doesn't match Dr.
+
+509
+00:50:58,320 --> 00:51:04,180
+Manhattan's, but also I don't go as low as fourteen
+point six percent like you did. So that all said,
+
+510
+00:51:04,180 --> 00:51:09,340
+which team do you think came out on top? Well, it's
+kind of hard to say. I think it's going to be the
+
+511
+00:51:09,340 --> 00:51:15,720
+Thunderbolts, because even though Dr. Manhattan
+is statistically better than the Sentry, I think
+
+512
+00:51:15,720 --> 00:51:22,180
+that the rest of the team is far superior to the
+Watchmen. Although Instagram does not agree with
+
+513
+00:51:22,180 --> 00:51:29,640
+me in the poll that we put up prior to recording this
+episode, 69 percent of the poll takers sided with
+
+514
+00:51:29,640 --> 00:51:35,580
+the Watchmen. And I'm not surprised because
+Watchmen is way cooler than Thunderbolts and
+
+515
+00:51:35,580 --> 00:51:43,800
+everybody knows it. But did Watchmen get the win? A
+JNNK, the results, please. Here you are, sir. The
+
+516
+00:51:43,800 --> 00:51:55,980
+winning team in our matchup between the Watchmen
+and Thunderbolts is. Thunderbolts, that's
+
+517
+00:51:55,980 --> 00:52:05,040
+right. What did I say? Justice like lightning.
+They won an even 57 percent of their matches
+
+518
+00:52:05,040 --> 00:52:11,440
+compared to Watchmen who only won 43, which is
+actually a pretty decent showing for the
+
+519
+00:52:11,440 --> 00:52:17,480
+Watchmen. Right. Now, I guarantee you that Dr.
+Manhattan got all their wins for them almost
+
+520
+00:52:17,480 --> 00:52:23,820
+literally. Yeah. But still decent showing. I
+don't understand this considering the fact that
+
+521
+00:52:23,820 --> 00:52:30,080
+at the start of each match, Dr. Manhattan could
+literally teleport the entire Thunderbolts team
+
+522
+00:52:30,080 --> 00:52:35,100
+to Mars and they would all just die. Well, the
+century wouldn't and he would bring him right back
+
+523
+00:52:35,100 --> 00:52:41,560
+to Earth and then kick Dr. Manhattan right in his
+blue wiener. Whatever. Also, we don't consider
+
+524
+00:52:41,560 --> 00:52:49,520
+battlefield removal as a viable strategy in these
+duels. Says you. Yeah, says the winner. Are you
+
+525
+00:52:49,520 --> 00:52:55,580
+sad, Jonathan? I'm not going to lie. I am pretty
+sad. Like, I just want to go to bed now. Do you think
+
+526
+00:52:55,580 --> 00:53:01,680
+we could get you crying on air before we sign off?
+Well, let me try. Let me try. No, I can't do it.
+
+527
+00:53:01,680 --> 00:53:09,320
+Sorry. Well, that's too bad. But that doesn't for
+this duel, guys. Agent 9K, help close this out.
+
+528
+00:53:09,320 --> 00:53:15,180
+Thanks for listening to Dynamic Jewel. Visit the
+show's website at dynamicjewel.com and follow us
+
+529
+00:53:15,180 --> 00:53:20,980
+on Instagram at Dynamic Jewel podcast. You can
+support the show on Patreon at patreon.com slash
+
+530
+00:53:20,980 --> 00:53:26,140
+Dynamic Jewel and joining a tier that works for you
+or by rating and reviewing Dynamic Jewel on Apple
+
+531
+00:53:26,140 --> 00:53:31,920
+podcasts, Spotify, Podchaser or on our website.
+Don't forget to listen to the other shows in the
+
+532
+00:53:31,920 --> 00:53:40,940
+Dynamite podcast network, including Max
+Destruction, Senjo World and Console Combat. As
+
+533
+00:53:40,940 --> 00:53:47,640
+we mentioned earlier, our next episode is going to
+be a review of Marvel Studios Thunderbolts'
+
+534
+00:53:47,640 --> 00:53:52,880
+asterisk film. We'll find out what the asterisk is
+apparently when we see the film. Yeah, I'm excited
+
+535
+00:53:52,880 --> 00:53:57,320
+to see it. Basically staying off the Internet for
+the whole rest of the week because I'm not seeing it
+
+536
+00:53:57,320 --> 00:54:03,940
+until Friday evening. And I know there's going to
+be spoilers galore out there. So I can't wait to get
+
+537
+00:54:03,940 --> 00:54:09,540
+spoilers. And I could just forward them to you
+because I'm petty for losing this match. But thank
+
+538
+00:54:09,540 --> 00:54:15,560
+you for the warning. It helps me know that I should
+block you now. I mean, I'm not going to do that.
+
+539
+00:54:15,560 --> 00:54:19,800
+Fuck. That does it for this episode, guys. We want
+to give a big thanks to our executive producers,
+
+540
+00:54:19,800 --> 00:54:24,300
+John Staroski, Zachary Hepburn, Dustin Balcom,
+Mickey Mathen-Geehan, Brandon Estregard,
+
+541
+00:54:24,300 --> 00:54:29,360
+Nathaniel Wagner, Levi Yatten, Austin
+Wuzelowski, A.J. Dunkerley, Nick Ibonto, Scott
+
+542
+00:54:29,360 --> 00:54:34,920
+Camacho, Gil Camacho, Adam Speese, Dean Moleski,
+Devin Davis, Joseph Kirchsting, Josh Schleiner,
+
+543
+00:54:34,920 --> 00:54:40,100
+Mike Williams and Oscar Galvez for helping make
+this podcast possible. We'll talk to you guys next
+
+544
+00:54:40,100 --> 00:54:46,520
+week. Up up and away, true believers. Who watches
+the Watchman when the justice like lightning is or
+
+545
+00:54:46,520 --> 00:54:47,600
+shit. I lost it.
