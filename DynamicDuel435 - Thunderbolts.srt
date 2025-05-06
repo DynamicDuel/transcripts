@@ -1,0 +1,3184 @@
+1
+00:00:00,000 --> 00:00:27,340
+This is a DynaMic Network Podcast. Hi and welcome
+to the Dynamic Duel Podcast, a weekly show where we
+
+2
+00:00:27,340 --> 00:00:32,020
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:32,020 --> 00:00:37,020
+their characters in stat-based battle
+simulations. I'm Marvelous Joe. And I'm its twin
+
+4
+00:00:37,020 --> 00:00:42,320
+brother Johnny DC. And in this episode, we are
+going to review the latest Marvel Studios film
+
+5
+00:00:42,320 --> 00:00:49,000
+that hit theaters, Thunderbolts, Asterisk. And
+no, the Asterisk was not just a stand-in for a
+
+6
+00:00:49,000 --> 00:00:54,700
+butthole. It did in fact have meaning that we will
+discuss later on this episode. If you did not see
+
+7
+00:00:54,700 --> 00:00:59,400
+the movie, don't spoil yourself on what the
+Asterisk meant. Go see the film and then come back
+
+8
+00:00:59,400 --> 00:01:03,600
+and listen to our spoiler review. I really liked
+the Thunderbolts. It's probably my new favorite
+
+9
+00:01:03,600 --> 00:01:08,360
+Marvel movie. Well, don't give away the whole
+show. Save your thoughts on the movie for when we
+
+10
+00:01:08,360 --> 00:01:13,580
+discuss the movie. I just said I liked it. I didn't
+give anything away. Way to go, Jonathan.
+
+11
+00:01:13,580 --> 00:01:18,780
+Everybody's tuning out now because you're
+dumbass. Please stay with us, guys. Because
+
+12
+00:01:18,780 --> 00:01:22,080
+before we talk about the movie, we're going to
+break down the latest comic book movie news this
+
+13
+00:01:22,080 --> 00:01:26,820
+past week, of which there was just one major news
+item. We learned that Ryan Reynolds is writing an
+
+14
+00:01:26,820 --> 00:01:32,100
+X-Men movie for the MCU, which will feature
+Deadpool. An all-Marvel episode. As always, we
+
+15
+00:01:32,100 --> 00:01:35,340
+list our segment times in our episode
+description, so feel free to check out the show
+
+16
+00:01:35,340 --> 00:01:39,660
+notes if you want to skip ahead to a particular
+topic. Our artificially intelligent dual
+
+17
+00:01:39,660 --> 00:01:55,580
+simulator, AJA9K, has a quick message for our
+listeners, so listen up. The dynamic 2.0 tier
+
+18
+00:01:55,580 --> 00:02:00,560
+gives you access to our Discord chat server. The
+Fantastic Four tier gives you two bonus episodes
+
+19
+00:02:00,560 --> 00:02:05,820
+each month, and the X-Force tier makes you an
+executive producer of this show. Lastly, the
+
+20
+00:02:05,820 --> 00:02:10,139
+Diner Mike podcast network tier lets you create
+your own podcast using this Monte Carlo
+
+21
+00:02:10,139 --> 00:02:14,600
+simulator. Johnny and Joe will help you develop
+your show, provide graphic support and
+
+22
+00:02:14,600 --> 00:02:19,580
+consultation, and get you simulation results.
+Pitch the twins your ideas via email at
+
+23
+00:02:19,580 --> 00:02:28,940
+dynamicdualpodcast at gmail.com. Check it out at
+patreon.com. Thanks AJA9K, and thanks to
+
+24
+00:02:28,940 --> 00:02:33,080
+everyone who supports the podcast. Guys, be sure
+to tune into the other shows on the Diner Mike
+
+25
+00:02:33,080 --> 00:02:37,500
+podcast network this week, including the console
+combat podcast, where hosts John and Dean
+
+26
+00:02:37,500 --> 00:02:41,940
+simulate battles between popular video game
+characters. In yesterday's episode, they
+
+27
+00:02:41,940 --> 00:02:48,740
+speculated on who would win in a fight between
+Isaac Clarke from Dead Space versus Pfft Rittus,
+
+28
+00:02:48,740 --> 00:02:57,660
+R-T-A-S, Vadom from Halo. Oh god, I'm gonna get
+butchered for that. Ritas Vadom. Or Vadom. Vadom?
+
+29
+00:02:57,660 --> 00:03:04,980
+Is it Vadom? I don't know, please be gentle. Fans.
+Over on the Max Destruction podcast, hosts Scotty
+
+30
+00:03:04,980 --> 00:03:09,720
+and Gilly put your favorite action heroes from
+film and television against each other. They are
+
+31
+00:03:09,720 --> 00:03:14,520
+on a brief season break currently, so now's the
+perfect time to get caught up with their past
+
+32
+00:03:14,520 --> 00:03:19,720
+episodes. And on the Senjou World podcast, host
+Zachary Hepburn speculates on fights between fan
+
+33
+00:03:19,720 --> 00:03:23,820
+favorite anime and manga characters. On
+Thursday, Isaac is gonna reveal who would win
+
+34
+00:03:23,820 --> 00:03:29,440
+between Sunraku from Shangri-La Frontier versus
+Kirito from Sword Art Online. Visit
+
+35
+00:03:29,440 --> 00:03:35,320
+dynamicpodcasts.com or click the link in our show
+notes to listen to all of the shows in the Diner Mike
+
+36
+00:03:35,320 --> 00:03:42,980
+podcast network. But with that out of the way,
+quick to the no prize. A no prize is an award that
+
+37
+00:03:42,980 --> 00:03:48,640
+Marvely used to give out to fans. Our version, the
+Dynamic Dual No Prize, is a digital award that we
+
+38
+00:03:48,640 --> 00:03:54,140
+post on Instagram for the person that we feel gave
+the best answer to our question of the week. Last
+
+39
+00:03:54,140 --> 00:04:00,240
+week, we asked you guys, for those of you who have
+seen both films, which was better? 2009's
+
+40
+00:04:00,240 --> 00:04:06,860
+Watchmen or Thunderbolts and why? And we asked
+this because last week's episode was a team duel
+
+41
+00:04:06,860 --> 00:04:13,360
+where we found out who would win in a fight between
+the Watchmen and the Thunderbolts. So we kind of
+
+42
+00:04:13,360 --> 00:04:18,500
+continued it into the film space. We didn't get a
+whole lot of answers, we just got two, largely
+
+43
+00:04:18,500 --> 00:04:23,180
+because there were only so many people out there
+listening that could give a valid answer to this
+
+44
+00:04:23,180 --> 00:04:29,480
+question in time. Our first honorable mention
+goes to John Sturrosky, who said, It's John
+
+45
+00:04:29,480 --> 00:04:34,860
+Sturrosky here. So you guys are asking which is
+better, Thunderbolts or Watchmen? And to be
+
+46
+00:04:34,860 --> 00:04:39,020
+perfectly honest, I can't say either of them is
+better than the other one because it's comparing
+
+47
+00:04:39,020 --> 00:04:45,380
+apples to oranges. And Watchmen, you've got a
+universe where the real heroes that we know from
+
+48
+00:04:45,380 --> 00:04:51,700
+the DC universe don't exist. And Thunderbolts,
+it's incorporated into the mainstream universe.
+
+49
+00:04:51,700 --> 00:04:57,360
+Again, apples to oranges, they're both fantastic
+movies though, so let's just get along. John, what
+
+50
+00:04:57,360 --> 00:05:05,300
+do you think this podcast is all about? You gotta
+take a side. Now, I know on the Discord, your server
+
+51
+00:05:05,300 --> 00:05:11,180
+name is JohnTheFence because you say that you sit
+on the fence between both sides. But as you know, we
+
+52
+00:05:11,180 --> 00:05:17,220
+like to make all of our patrons pick a side between
+Marvel and DC. And as the wise man once said, he who
+
+53
+00:05:17,220 --> 00:05:24,280
+sits on the fence has a stick up his butt. Yes, I have
+heard the saying and I 100% agree with it. Yes, so
+
+54
+00:05:24,280 --> 00:05:30,400
+John gave pretty much a non-answer something
+about, Oh, one's in a universe and one's not. I'm
+
+55
+00:05:30,400 --> 00:05:37,180
+not sure what that has to do with the quality of each
+film, but Watchmen was clearly the correct answer
+
+56
+00:05:37,180 --> 00:05:41,200
+here. Actually, that was Thunderbolts. But you
+know, he's saying we're comparing apples to
+
+57
+00:05:41,200 --> 00:05:47,820
+oranges. Here's the thing, John, oranges are way
+better than apples. Fuck oranges. Orange juice.
+
+58
+00:05:47,820 --> 00:05:53,840
+Orange juice is fucking delicious, right? You can
+like segment it off, you know, in little pieces.
+
+59
+00:05:53,840 --> 00:05:58,100
+Hell yeah, it's a way more versatile fruit.
+Oranges all the way. Except with apples, you get
+
+60
+00:05:58,100 --> 00:06:04,300
+apple jam, which is way better than orange jam. You
+get apple soda again, way better than orange soda.
+
+61
+00:06:04,300 --> 00:06:09,520
+Demand. Apples are clearly the superior fruit.
+Wait, wait, wait, what the fuck is apple soda? I've
+
+62
+00:06:09,520 --> 00:06:14,760
+heard of orange soda. Have you never had an apple
+soda? I think maybe I did at one point, but then I
+
+63
+00:06:14,760 --> 00:06:19,540
+blocked it from my memory because it sucked. You
+are a cultured piece of shit. Guys, are you team
+
+64
+00:06:19,540 --> 00:06:24,540
+Apple or team Orange? Let us know in the comments.
+Thanks for the answer, John. But the winner of this
+
+65
+00:06:24,540 --> 00:06:32,300
+week's No Price is Lorenzo Valdez. Who said? This
+is Lorenzo Valdez. I just got back to my condo after
+
+66
+00:06:32,300 --> 00:06:38,300
+watching Thunderbolts and I really enjoyed it.
+Florence Pugh is awesome. The most of the humor
+
+67
+00:06:38,300 --> 00:06:44,260
+really worked for me, but I can't say it's better
+than Watchmen. I mean, Watchmen is such a
+
+68
+00:06:44,260 --> 00:06:52,580
+beautiful, elegant, thought-provoking, at
+times, satirical, epic. And I love Watchmen. Clon
+
+69
+00:06:52,580 --> 00:07:00,660
+of Forever and Always. Bye-bye. And I love this
+answer. Watchmen is all of those things and more.
+
+70
+00:07:00,660 --> 00:07:06,740
+Don't get me wrong, Thunderbolts is good, but it's
+just not at the same caliber as Watchmen. The film
+
+71
+00:07:06,740 --> 00:07:12,440
+by Zack Snyder is literally a piece of art. It's his
+tour de force, in my opinion. The way everything
+
+72
+00:07:12,440 --> 00:07:19,160
+looked combined with the music, combined with the
+acting, combined with the story overall. Muah,
+
+73
+00:07:19,160 --> 00:07:24,440
+Chef's kiss. Oh, I'm sorry that the Thunderbolts
+movie didn't have enough swinging blue dong for
+
+74
+00:07:24,440 --> 00:07:29,460
+you guys. For a great answer, Lorenzo, you win this
+week's no prize, I guess. If you, the listener,
+
+75
+00:07:29,460 --> 00:07:32,900
+want to shout out winning your own no prize, stay
+tuned to later on this episode, when we'll be
+
+76
+00:07:32,900 --> 00:07:37,580
+asking another question of the week. I gotta say
+something. And now that that's done, you're not
+
+77
+00:07:37,580 --> 00:07:49,160
+gonna let me say anything. On to the news. Alright,
+this past week we learned that Ryan Reynolds has
+
+78
+00:07:49,160 --> 00:07:55,480
+been tasked with developing treatments for a
+Deadpool slash X-Men team-up movie. Now, he's
+
+79
+00:07:55,480 --> 00:08:00,160
+gone on the record before as saying that there's
+probably not gonna be another Deadpool solo
+
+80
+00:08:00,160 --> 00:08:04,340
+movie. I mean, Deadpool and Wolverine wasn't a
+Deadpool solo movie. You know, he shared billing
+
+81
+00:08:04,340 --> 00:08:08,480
+with Wolverine, but it's likely that there's not
+gonna be like another standalone Deadpool film.
+
+82
+00:08:08,480 --> 00:08:14,080
+It's gonna be more along the lines of an ensemble
+piece with other mutant characters. Largely,
+
+83
+00:08:14,080 --> 00:08:18,940
+this is happening because, you know, Deadpool and
+Wolverine grossed over a billion dollars at the
+
+84
+00:08:18,940 --> 00:08:24,040
+box office. And that has made Ryan Reynolds
+probably one of the most lucrative talents
+
+85
+00:08:24,040 --> 00:08:28,540
+working with Marvel Studios at this time. We don't
+know too much about the movie other than a few
+
+86
+00:08:28,540 --> 00:08:33,500
+details that the Hollywood Reporter released,
+including the news that the movie is only going to
+
+87
+00:08:33,500 --> 00:08:39,940
+feature three or four X-Men characters within its
+lineup with Deadpool playing a character on the
+
+88
+00:08:39,940 --> 00:08:45,440
+sidelines as a worm. Alright, so he's not one of the
+three or four characters? Correct. So it's gonna
+
+89
+00:08:45,440 --> 00:08:51,700
+be Deadpool and Wolverine and somebody and
+somebody and somebody is a way to look at this.
+
+90
+00:08:51,700 --> 00:08:56,500
+Well, how do you feel about this? Because, I mean,
+technically Deadpool and Wolverine, I guess, was
+
+91
+00:08:56,500 --> 00:09:04,500
+in the MCU. But this will kind of officially be the
+MCU's like first X-Men movie, like a team movie.
+
+92
+00:09:04,500 --> 00:09:09,180
+Well, we don't know that for sure because there's
+another X-Men movie in the works that's being
+
+93
+00:09:09,180 --> 00:09:15,800
+written by Michael Leslie, who wrote the Hunger
+Games films. So that film is an X-Men film that's
+
+94
+00:09:15,800 --> 00:09:23,660
+different from this Ryan Reynolds Deadpool X-Men
+movie. Oh, OK. So either that X-Men movie is gonna
+
+95
+00:09:23,660 --> 00:09:29,380
+come before this Deadpool team up or Deadpool's
+gonna come first. I think what I would like to see as
+
+96
+00:09:29,380 --> 00:09:35,040
+a fan thinking about what X-Men storylines
+Deadpool has been a part of, I think I'd like to see
+
+97
+00:09:35,040 --> 00:09:43,460
+the Deadpool team up movie come first and then lead
+into the first official Marvel X-Men film. And if
+
+98
+00:09:43,460 --> 00:09:49,020
+they adapted the Messiah complex through the
+Messiah War storyline where we see the first
+
+99
+00:09:49,020 --> 00:09:55,560
+mutant being born and how cable and Deadpool and
+basically all the mutants are striving to either
+
+100
+00:09:55,560 --> 00:10:00,740
+protect or kill or use this child who ends up being
+Hope Summers. I think that's a pretty good
+
+101
+00:10:00,740 --> 00:10:06,960
+foundation story leading into the revelation
+that mutants exist in this post-secret wars
+
+102
+00:10:06,960 --> 00:10:12,420
+Marvel Universe. I don't know about that. For one,
+it's kind of paradoxical that they're mutants
+
+103
+00:10:12,420 --> 00:10:19,800
+hunting the first mutant. But also, I feel like the
+sooner we get to a like established Xavier school
+
+104
+00:10:19,800 --> 00:10:26,280
+with Professor X and Cyclops and Jean Grey at
+least, the better. That's true. I mean, honestly,
+
+105
+00:10:26,280 --> 00:10:32,120
+in terms of how they release these films, I could go
+either way. I think, yes, it would be better to have
+
+106
+00:10:32,120 --> 00:10:37,880
+all the classic X-Men elements in place prior to a
+new Deadpool team up movie. But if you were to put
+
+107
+00:10:37,880 --> 00:10:42,420
+the new Deadpool movie up first, I think there's a
+way to adapt the Messiah complex there. And that
+
+108
+00:10:42,420 --> 00:10:47,680
+way you'd be able to bring back cable and you'd have
+Bishop and you could probably have Wolverine back
+
+109
+00:10:47,680 --> 00:10:55,080
+with Hugh Jackman. Tilly's fucking 90. This is all
+speculation, but I will be really interested in
+
+110
+00:10:55,080 --> 00:10:59,600
+seeing which of these X-Men films comes out first.
+I think it's really smart to continue to use Ryan
+
+111
+00:10:59,600 --> 00:11:04,280
+Reynolds and the Deadpool character. I know the
+audiences, including myself, are not really done
+
+112
+00:11:04,280 --> 00:11:09,800
+seeing films with him. I hope yet he continues
+doing this until he's 90 because the cinematic
+
+113
+00:11:09,800 --> 00:11:15,160
+character of Deadpool is just such a national
+treasure. So unique. I'm pretty glad Ryan
+
+114
+00:11:15,160 --> 00:11:21,080
+Reynolds is getting this win. I think he's a
+marketing and writing genius. So I think this
+
+115
+00:11:21,080 --> 00:11:26,040
+project is in good hands with him. I agree. But
+since we don't know who's going to be in this
+
+116
+00:11:26,040 --> 00:11:35,700
+Deadpool X-Men team up movie, that brings us to our
+question of the week. Including Deadpool, what
+
+117
+00:11:35,700 --> 00:11:40,900
+should be the roster for the X-Men Deadpool team up
+film? Again, we're looking for three to four
+
+118
+00:11:40,900 --> 00:11:44,820
+characters because that's the number that the
+Hollywood Reporter gave. So we want to know who you
+
+119
+00:11:44,820 --> 00:11:48,820
+would like to see in that film. Recording your
+answer at dynamicdool.com by clicking on the red
+
+120
+00:11:48,820 --> 00:11:53,120
+microphone button in the bottom right hand corner
+of the screen, which will prompt you to leave us a
+
+121
+00:11:53,120 --> 00:11:57,980
+voicemail. Your message could be up to 30 seconds
+long and don't forget to leave your name in case we
+
+122
+00:11:57,980 --> 00:12:02,460
+include you on the podcast. We'll pick our
+favorite answer and award that person a Dynamic
+
+123
+00:12:02,460 --> 00:12:17,680
+Dool No Prize that we'll post to Instagram. Be sure
+to answer before May 10th. The Dark Knight's
+
+124
+00:12:17,680 --> 00:12:26,860
+definitive DC comic stories adapted directly for
+audio for the very first time. Fear. I have to make
+
+125
+00:12:26,860 --> 00:12:34,200
+them afraid. He's got a motorcycle. Get after him
+or have you shot? You mean blow up the building.
+
+126
+00:12:34,200 --> 00:12:41,540
+From this moment on, none of your safe. New
+episodes every Wednesday, wherever you get your
+
+127
+00:12:41,540 --> 00:12:48,060
+podcasts. But that does it for all the news for this
+episode, so let's go ahead and get into our main
+
+128
+00:12:48,060 --> 00:12:58,000
+event, where we review the latest Marvel Studios
+film to hit theaters, Thunderbolts. Astros.
+
+129
+00:12:58,000 --> 00:13:14,880
+Thunderbolts. Thunderbolts was directed by Jake
+Schreer and stars Florence Pugh, Sebastian Stan,
+
+130
+00:13:14,880 --> 00:13:19,180
+David Harbour, Julia Louis-Dreyfus, Wyatt
+Russell, Hannah John-Cammond, and Lewis
+
+131
+00:13:19,180 --> 00:13:24,500
+Pullman. The film is the fifth and final film of
+Marvel's Phase 5, though we won't completely be
+
+132
+00:13:24,500 --> 00:13:29,440
+out of this phase until the Iron Heart television
+series, which will be released in June. And then
+
+133
+00:13:29,440 --> 00:13:34,720
+Phase 6 will start in July with the Fantastic Four
+for Steps Movie. One of my bigger takeaways
+
+134
+00:13:34,720 --> 00:13:40,600
+walking out of the movie was that there were little
+to no surprises in the film plot-wise. I think even
+
+135
+00:13:40,600 --> 00:13:45,100
+in the confines of this podcast, just us
+speculating on the film based on the trailers, you
+
+136
+00:13:45,100 --> 00:13:51,340
+and I guessed most of what the movie would be, say
+for the end credits scene. It's not a complicated
+
+137
+00:13:51,340 --> 00:13:57,340
+film with a complex story. That being said, if you
+haven't seen it yet, I would still recommend going
+
+138
+00:13:57,340 --> 00:14:01,400
+to go see it because it's worth it. Just because the
+plot is simple doesn't mean that the movie is not
+
+139
+00:14:01,400 --> 00:14:06,420
+good. Go see the movie, then come back and listen to
+our spoiler review. It also doesn't mean that the
+
+140
+00:14:06,420 --> 00:14:11,480
+movie is not a spectacle that should be watched on
+the biggest screen possible. Yeah, there's a lot
+
+141
+00:14:11,480 --> 00:14:17,140
+of practical action in this movie. It foregoes CGI
+a lot, and I think that was pretty cool to see on the
+
+142
+00:14:17,140 --> 00:14:22,280
+big screen. So yeah, I'm starting out by saying
+that the plot is simple and straightforward, but
+
+143
+00:14:22,280 --> 00:14:27,420
+the story is simple in the way something like
+Reservoir Dogs is. That is to say, the plot is
+
+144
+00:14:27,420 --> 00:14:33,340
+uncomplicated, but the characters are anything
+but. The film really is more of a character study in
+
+145
+00:14:33,340 --> 00:14:38,600
+that it takes these very unique, established,
+anti-heroic characters and spends its time
+
+146
+00:14:38,600 --> 00:14:44,100
+exploring who they are and how they interact more
+than doing stuff like expositing or world
+
+147
+00:14:44,100 --> 00:14:49,260
+building. That's pretty unique for a Marvel
+Studios project, and so right off the bat, the film
+
+148
+00:14:49,260 --> 00:14:53,940
+has an identity that's all its own that sets it
+apart from its contemporaries. Where you could
+
+149
+00:14:53,940 --> 00:15:00,380
+describe the typical Marvel film as, you know,
+exciting, funny, action-packed, flashy. The
+
+150
+00:15:00,380 --> 00:15:05,680
+Thunderbolts film could be described as more
+authentic, snappy, you know, it's nuanced, it's
+
+151
+00:15:05,680 --> 00:15:10,680
+mature. It's still loads of fun, though. And I'm
+not going to say that these descriptors make
+
+152
+00:15:10,680 --> 00:15:14,740
+Thunderbolts better than other Marvel films if
+there are people out there thinking that I'm
+
+153
+00:15:14,740 --> 00:15:19,560
+knocking your average Marvel fare, but I do think
+that it's fresher and therefore more important
+
+154
+00:15:19,560 --> 00:15:24,680
+for the genre as a whole, which seems to be flagging
+among general audiences, you know, and could use
+
+155
+00:15:24,680 --> 00:15:31,240
+some fresh material like this movie. Yeah, this is
+very different from, say, Captain America Brave
+
+156
+00:15:31,240 --> 00:15:37,320
+New World, which felt more like a typical Marvel
+film to me. Thunderbolts is exactly what I was
+
+157
+00:15:37,320 --> 00:15:43,240
+hoping would come from Marvel Studios,
+considering we're kind of experiencing a genre of
+
+158
+00:15:43,240 --> 00:15:47,980
+fatigue amongst the film-going audiences
+currently. And I think this was a really smart
+
+159
+00:15:47,980 --> 00:15:54,460
+release on behalf of Marvel. And probably a cheap
+one, too. I mean, there's really only two, like,
+
+160
+00:15:54,460 --> 00:16:00,560
+major locations throughout the entire film,
+which surprised me. Yeah, there's the Ox Vault in,
+
+161
+00:16:00,560 --> 00:16:05,360
+like, Utah, and then there's the Watchtower in
+Manhattan. And really, the film takes place over a
+
+162
+00:16:05,360 --> 00:16:10,780
+matter of hours, if not, like a day or so. Again, the
+story is pretty straightforward, and in that
+
+163
+00:16:10,780 --> 00:16:15,280
+regard, I think, less is more. It gave us time to
+really sit down and observe these incredibly
+
+164
+00:16:15,280 --> 00:16:20,920
+complex characters in a way that we normally
+wouldn't otherwise if they're, you know, like the
+
+165
+00:16:20,920 --> 00:16:26,240
+Eternals circumventing the globe and setting up
+all this backstory and world-building for the
+
+166
+00:16:26,240 --> 00:16:31,300
+future. The movie, in effect, is almost the
+Anti-Eternals. That's exactly what I was
+
+167
+00:16:31,300 --> 00:16:36,100
+thinking as I was walking out of the theater.
+Really? Just comparing the Century to someone
+
+168
+00:16:36,100 --> 00:16:41,500
+like Icarus, I was like, man, I kind of wish the
+Eternals didn't come out until, like, years from
+
+169
+00:16:41,500 --> 00:16:46,900
+now, as opposed to when it did, because it kind of
+ruined a lot of future Marvel films, in a way, I
+
+170
+00:16:46,900 --> 00:16:54,160
+think, because it was just so large in scale and
+would obviously affect the larger Marvel world in
+
+171
+00:16:54,160 --> 00:16:58,780
+a way that they probably weren't ready for. To me,
+the Century was much more interesting of a
+
+172
+00:16:58,780 --> 00:17:04,339
+character than Icarus was. Yeah, I totally agree.
+That being said, I also liked Eternals. I liked how
+
+173
+00:17:04,339 --> 00:17:08,800
+kind of existential it was and how it also took a
+different approach to the superhero genre,
+
+174
+00:17:08,800 --> 00:17:13,500
+albeit, you know, a less successful one. You know,
+we did have someone on the Discord, and I can't
+
+175
+00:17:13,500 --> 00:17:18,319
+remember off the top of my head who, so I'm sorry for
+not giving credit where credit is due, but someone
+
+176
+00:17:18,319 --> 00:17:25,099
+posited that perhaps the Golden Century Serum
+that was created by Project Century in this movie
+
+177
+00:17:25,099 --> 00:17:29,840
+used a bit of like Eternals DNA or something in
+there, in conjunction with the Super Soldier
+
+178
+00:17:29,840 --> 00:17:35,940
+Serum, because the way the Century would
+sometimes glow golden was semi-reminiscent of
+
+179
+00:17:35,940 --> 00:17:41,400
+how the Eternals powers would manifest visually.
+Yeah, we never quite learned how they developed
+
+180
+00:17:41,400 --> 00:17:46,520
+the Century Superpowers, did we? No, I mean, it's
+just as vague as it was in the comic books, you know,
+
+181
+00:17:46,520 --> 00:17:50,460
+where the government was trying to recreate the
+Super Soldier Serum, and so they outsourced it to a
+
+182
+00:17:50,460 --> 00:17:55,360
+bunch of subcontractors, and then this high
+school chemist professor ended up cracking the
+
+183
+00:17:55,360 --> 00:17:59,880
+case, and then one of his students, Bob Reynolds,
+broke into his lab and then drank the formula in an
+
+184
+00:17:59,880 --> 00:18:04,420
+attempt to get high. You know, they don't go too
+much into the specifics into, you know, what went
+
+185
+00:18:04,420 --> 00:18:08,860
+into the cauldron, as it were. We just know that it
+worked. And actually, one of the things I really
+
+186
+00:18:08,860 --> 00:18:15,820
+like about this film is how I didn't feel that
+despite all these different characters having
+
+187
+00:18:15,820 --> 00:18:20,000
+all of these different histories from other
+Marvel projects, like films and television
+
+188
+00:18:20,000 --> 00:18:24,880
+series, that it felt like I needed to do homework
+before watching it. Like, honestly, I feel like
+
+189
+00:18:24,880 --> 00:18:28,820
+this could have been the first Marvel film I had
+ever seen, and I still would have mostly
+
+190
+00:18:28,820 --> 00:18:34,380
+understood everything. It was very standalone in
+that way. For sure. I mean, the film is somewhat a
+
+191
+00:18:34,380 --> 00:18:39,880
+quasi-sequel to the first Black Widow film, but it
+also continues the story from the Captain America
+
+192
+00:18:39,880 --> 00:18:44,840
+franchise and the Falcon and the Winter Soldier
+and Ant-Man and the Wasp. But nowadays, you know,
+
+193
+00:18:44,840 --> 00:18:48,760
+that's not too much homework compared to some of
+the other Marvel films that have come out. This
+
+194
+00:18:48,760 --> 00:18:53,540
+movie was less interested in continuity, and
+really, it seems like The Thunderbolts was made by
+
+195
+00:18:53,540 --> 00:18:58,920
+people who were less interested in the MCU as a
+whole, less interested in, you know, CGI and the
+
+196
+00:18:58,920 --> 00:19:04,720
+colorful spectacle, and they were more
+interested in practical action, grounded tones.
+
+197
+00:19:04,720 --> 00:19:08,760
+They were less concerned with the big players and
+more interested in creating these portraits of
+
+198
+00:19:08,760 --> 00:19:14,460
+the universe's more sidelined characters. And
+that's to the film's benefit and detriment, I
+
+199
+00:19:14,460 --> 00:19:18,140
+think, because on one hand, you get these
+interesting explorations of themes like
+
+200
+00:19:18,140 --> 00:19:23,400
+depression and introspection, but on the other
+hand, you have a film that treats some characters
+
+201
+00:19:23,400 --> 00:19:29,380
+like Taskmaster and Songbird with such apathy for
+the source material that they probably didn't
+
+202
+00:19:29,380 --> 00:19:34,640
+even need to be in the film to begin with. As a fan,
+mostly as a comic book fan, that sucks. Yeah,
+
+203
+00:19:34,640 --> 00:19:40,260
+Taskmaster was definitely done dirty here. I
+don't understand why they chose to even include
+
+204
+00:19:40,260 --> 00:19:45,560
+her honestly, and regarding Songbird, I didn't
+even know that was Songbird, or I wouldn't have
+
+205
+00:19:45,560 --> 00:19:49,660
+known if you would not have mentioned it like last
+episode. For sure, yeah, they were both done
+
+206
+00:19:49,660 --> 00:19:54,040
+dirty. Like, Taskmaster was included in the
+marketing material, but she really only had one
+
+207
+00:19:54,040 --> 00:19:59,120
+line of dialogue this film and probably under a
+minute of action, and she was badass in the minute
+
+208
+00:19:59,120 --> 00:20:03,120
+that she had. You know, I understand that fans were
+disappointed with the revelation in the Black
+
+209
+00:20:03,120 --> 00:20:08,060
+Widow film that Taskmaster was Antonia Drakov,
+but like, wasn't the character at the very least
+
+210
+00:20:08,060 --> 00:20:13,520
+worth redemption? And at the most, wasn't she
+still a fucking badass? I think considering
+
+211
+00:20:13,520 --> 00:20:19,360
+Taskmaster's backstory in the MCU and her power
+set, and even, you know, the actor who plays her,
+
+212
+00:20:19,360 --> 00:20:24,160
+Olga Korylenko, I think she would have made for an
+interesting conclusion into this story. And
+
+213
+00:20:24,160 --> 00:20:29,140
+yeah, the filmmakers may say that they took her out
+early in order to set the stakes for the film, but
+
+214
+00:20:29,140 --> 00:20:34,400
+they treated her death as an afterthought. Like,
+there was like little to no impact there to even
+
+215
+00:20:34,400 --> 00:20:39,060
+make those stakes feel earned. Like, if they were
+going to kill her as a way to set the stakes, they
+
+216
+00:20:39,060 --> 00:20:43,040
+should have had the Void killer during his fight
+with the Thunderbolts in order to increase the
+
+217
+00:20:43,040 --> 00:20:47,420
+stakes there. Like, that would have been
+impactful. Yeah, or the Void accidentally killed
+
+218
+00:20:47,420 --> 00:20:52,080
+her during their escape from the vault. Like, she
+fell down the elevator shaft or something like
+
+219
+00:20:52,080 --> 00:20:55,740
+that. Something like that. That would have been
+more shocking than what happened. And as for
+
+220
+00:20:55,740 --> 00:21:00,400
+Songbird, like, I thought they included Melissa
+Gold in this film because she was eventually going
+
+221
+00:21:00,400 --> 00:21:05,520
+to become the hero's Songbird, even if it was at the
+end as an end credit stinger or something. Like,
+
+222
+00:21:05,520 --> 00:21:10,760
+how do you include who is perhaps the most iconic
+and tenured member of the Thunderbolts from the
+
+223
+00:21:10,760 --> 00:21:17,500
+comics and not have her in this movie with her sonic
+powers or any reference to her heroic persona?
+
+224
+00:21:17,500 --> 00:21:21,880
+Like, the Melissa Gold character in this film
+could have been literally anybody. Her name could
+
+225
+00:21:21,880 --> 00:21:26,000
+have been like Trixie Tinklemuffin or whatever,
+and the movie would have been exactly the same.
+
+226
+00:21:26,000 --> 00:21:31,660
+It's like putting Harley Quinn in a Suicide Squad
+film and then just making her an assistant to
+
+227
+00:21:31,660 --> 00:21:37,040
+Amanda Waller. Well, I think it would have been
+like her as Harley and Quinzel sort of setting up
+
+228
+00:21:37,040 --> 00:21:42,080
+the character. That's what I got from this film. I
+got no impression that we were ever going to see
+
+229
+00:21:42,080 --> 00:21:47,160
+that assistant Melissa character again ever. I
+mean, when Valentina said that she was getting a
+
+230
+00:21:47,160 --> 00:21:51,780
+lesson in loyalty or something like that, I
+thought there she was going to get like her sonic
+
+231
+00:21:51,780 --> 00:21:56,440
+powers, but then nothing came of that. I'm not sure
+it really would have fit into the film though.
+
+232
+00:21:56,440 --> 00:22:01,160
+Maybe not, but like again, even as an end credit
+stinger, something like that. You just can't put
+
+233
+00:22:01,160 --> 00:22:06,080
+the most iconic Thunderbolts member from the
+comics in this movie and not have any reference to
+
+234
+00:22:06,080 --> 00:22:10,520
+Songbird whatsoever. Yeah, I guess they could
+have done that instead of the Wheaties box thing.
+
+235
+00:22:10,520 --> 00:22:14,360
+Yeah, exactly. That was funny though. It's kind of
+like they put Songbird in this movie for
+
+236
+00:22:14,360 --> 00:22:20,920
+fanservice and then forgot to service us. Oh,
+shit. Like what's the opposite of fanservice? Fan
+
+237
+00:22:20,920 --> 00:22:26,980
+disrespect. There you go. There you go. I feel very
+disrespected as a fan. In the grand scheme of the
+
+238
+00:22:26,980 --> 00:22:31,520
+film though, those gripes could be considered
+nitpicking probably. I don't want my bitching to
+
+239
+00:22:31,520 --> 00:22:37,060
+negate the big thematic swings that the film took
+in terms of things like self loathing and mental
+
+240
+00:22:37,060 --> 00:22:41,880
+health and what heroism looks like for people who
+do not see themselves as heroes. That's stuff
+
+241
+00:22:41,880 --> 00:22:46,100
+that's not really explored in a lot of other
+superhero movies. Yeah, exactly. You mentioned
+
+242
+00:22:46,100 --> 00:22:50,820
+that the film felt like it was made by people who
+were less interested in the MCU and more
+
+243
+00:22:50,820 --> 00:22:56,140
+interested in the characters. I kind of felt like
+it was made by people who were more interested in
+
+244
+00:22:56,140 --> 00:23:01,800
+theme. And like you mentioned, the whole theme
+here is pretty much mental illness. Yeah, it's a
+
+245
+00:23:01,800 --> 00:23:06,460
+big one. You know, heroism is also a major theme. I
+like what the film had to say about all of that
+
+246
+00:23:06,460 --> 00:23:12,320
+because like, you know, we've gotten projects
+with anti-heroes in them, like The Punisher or
+
+247
+00:23:12,320 --> 00:23:18,520
+Black Adam, but it's rare to see a project with an
+anti-hero questioning whether they could be an
+
+248
+00:23:18,520 --> 00:23:24,780
+actual hero. And I think that's fascinating.
+Like, what if The Punisher felt guilty over his use
+
+249
+00:23:24,780 --> 00:23:30,480
+of guns and instead picked up a shield? What if
+Black Adam took notes from Shazam? How would it
+
+250
+00:23:30,480 --> 00:23:35,560
+speak to their tragic histories? How would it
+redefine them as characters? Like, I'm not saying
+
+251
+00:23:35,560 --> 00:23:39,300
+that all anti-heroes should go through this
+journey. They shouldn't, you know, betray who
+
+252
+00:23:39,300 --> 00:23:43,820
+they are. But going from an anti-hero to a hero, I
+think, is a pretty interesting thought
+
+253
+00:23:43,820 --> 00:23:48,280
+experiment that they did well here in The
+Thunderbolts. Yeah, it's one that Bucky, I feel
+
+254
+00:23:48,280 --> 00:23:53,800
+like, has been going through for a long time and
+seeing that other characters in the MCU could
+
+255
+00:23:53,800 --> 00:23:58,280
+relate with that and kind of go on that journey with
+him. Even though the film primarily focuses on
+
+256
+00:23:58,280 --> 00:24:04,320
+Yelena, I thought that was a cool dynamic and good
+for a team of characters within Marvel.
+
+257
+00:24:04,320 --> 00:24:08,720
+Absolutely. I want to talk more about that in the
+character breakdown, but before we get there, I do
+
+258
+00:24:08,720 --> 00:24:13,720
+want to touch on the asterisk. The asterisk pretty
+much meant what we all thought it would mean in that
+
+259
+00:24:13,720 --> 00:24:19,320
+The Thunderbolts team was not really The
+Thunderbolts, but actually a New Avengers team.
+
+260
+00:24:19,320 --> 00:24:23,420
+Like, when I saw that on the screen, I was like, oh
+yeah, called it, but it made me think that you have
+
+261
+00:24:23,420 --> 00:24:29,360
+to admire Marvel's tenacity in not marketing this
+film as a New Avengers movie. Because I think
+
+262
+00:24:29,360 --> 00:24:34,720
+calling this movie New Avengers probably would
+have accounted for a bigger box office opening. I
+
+263
+00:24:34,720 --> 00:24:39,960
+mean, this movie got a decent box office, but, you
+know, The Thunderbolts name is not a household
+
+264
+00:24:39,960 --> 00:24:45,120
+brand like The Avengers is. They could have easily
+called this movie New Avengers, and they chose not
+
+265
+00:24:45,120 --> 00:24:50,400
+to, for the sake of art, we'll say. And I think
+that's pretty admirable. Although I think the
+
+266
+00:24:50,400 --> 00:24:55,500
+whole thing was made moot by the end credits scene
+where it's revealed that, oh hey, they're not
+
+267
+00:24:55,500 --> 00:25:02,140
+actually The New Avengers. So they really are The
+Thunderbolts. They are The New Avengers. They're
+
+268
+00:25:02,140 --> 00:25:09,060
+just not the only Avengers out there. They're
+Avengers with a Z, right? Oh my gosh. I mean, it
+
+269
+00:25:09,060 --> 00:25:13,320
+happened in the comic books where you had
+simultaneous Avengers teams going, especially
+
+270
+00:25:13,320 --> 00:25:18,520
+around the events of Norman Osborn's Hammer
+Organization, where he had his Avengers team, and
+
+271
+00:25:18,520 --> 00:25:23,520
+then you had the mighty Avengers, led by Luke Cage.
+So this dilemma is not without precedence within
+
+272
+00:25:23,520 --> 00:25:27,740
+the comic book. They were really fighting over,
+like, who was the true bearers of the Avengers
+
+273
+00:25:27,740 --> 00:25:32,680
+legacy, and I think that's an interesting thing to
+explore. But you didn't answer my question about
+
+274
+00:25:32,680 --> 00:25:39,480
+Marvel's boldness in how they chose to market this
+film. Slow clap for Marvel. Thank you. Slow clap.
+
+275
+00:25:39,480 --> 00:25:48,800
+Yeah. I don't really give a shit. Well, you're just
+a sellout, so whatever. Well, okay. I have no idea
+
+276
+00:25:48,800 --> 00:25:54,620
+what that means, but sure. Let's go to move on to our
+character breakdown. Starting with Black Widow,
+
+277
+00:25:54,620 --> 00:26:00,320
+a.k .a. Yelena Belova, played by Florence Pugh.
+Now Florence Pugh is such an interesting Yelena
+
+278
+00:26:00,320 --> 00:26:06,620
+Belova, largely because of how, like, deadpan and
+dry she is as an actress. I'm not sure if any other
+
+279
+00:26:06,620 --> 00:26:11,720
+actor could pull this version of Yelena off like
+she does. I think it makes her more interesting
+
+280
+00:26:11,720 --> 00:26:16,960
+than a lot of her peers, including, dare I say it,
+Scarlett Johansson as the Black Widow. In that
+
+281
+00:26:16,960 --> 00:26:21,880
+Yelena has a lot more going for her
+personality-wise in that she's funny, but she's
+
+282
+00:26:21,880 --> 00:26:28,080
+also flawed. She's also very endearing. She goes
+in this movie from being in a very deep depression
+
+283
+00:26:28,080 --> 00:26:33,100
+to refinding herself in a new family, The
+Thunderbolts, that's not too dissimilar from the
+
+284
+00:26:33,100 --> 00:26:39,580
+family she had as a kid with Natasha and Melina and
+Alexi. It's Alexi who helps her see past her own
+
+285
+00:26:39,580 --> 00:26:44,760
+flaws that she only sees in herself and helps her
+realize that she's already more of a hero than she
+
+286
+00:26:44,760 --> 00:26:49,180
+likely ever thought she could be. I thought that
+was a fascinating journey. It's interesting to
+
+287
+00:26:49,180 --> 00:26:54,640
+hear you say that you think Yelena Belova is more
+interesting than Natasha. Right when you said
+
+288
+00:26:54,640 --> 00:27:00,080
+that, I was like, is that true? And I think it is,
+actually, because they really had a fight to give
+
+289
+00:27:00,080 --> 00:27:06,820
+Natasha a personality in a film like Avengers Age
+of Ultron with the backstory that, oh, she's sad
+
+290
+00:27:06,820 --> 00:27:12,240
+because she can't have children. But it's like
+that kind of felt like it was a few films too late, I
+
+291
+00:27:12,240 --> 00:27:17,520
+suppose. Whereas with Yelena, you're right,
+she's a lot more funny than Scarlett Johansson's
+
+292
+00:27:17,520 --> 00:27:23,540
+Black Widow. And I love just the tragic backstory
+that they continue to expand upon for the
+
+293
+00:27:23,540 --> 00:27:28,100
+character. Well, I mean, Yelena's backstory is
+the same as Natasha's backstory, right? So
+
+294
+00:27:28,100 --> 00:27:31,540
+they're very similar characters in that regard.
+They both grew up in the red room and had to go
+
+295
+00:27:31,540 --> 00:27:37,180
+through horrible things to get where they are. But
+Yelena's personality manifested a little bit
+
+296
+00:27:37,180 --> 00:27:41,340
+differently than Natasha's. You know, I think
+Scarlett Johansson's character was well used in
+
+297
+00:27:41,340 --> 00:27:47,320
+films like The Winter Soldier or Civil War or even
+her own film Black Widow. I think it was nice to get
+
+298
+00:27:47,320 --> 00:27:52,300
+the differences between the two sisters there.
+But I don't think anyone would deny that Florence
+
+299
+00:27:52,300 --> 00:27:58,100
+Pugh's Yelena Belova is just a terribly
+fascinating character. She's more spunky. Yeah.
+
+300
+00:27:58,100 --> 00:28:03,040
+Let's move on to The Winter Soldier, aka Bucky
+Barnes, played by Sebastian Stan. You know,
+
+301
+00:28:03,040 --> 00:28:07,820
+Sebastian Stan's great as always as the
+character. Here, Bucky really serves as the team
+
+302
+00:28:07,820 --> 00:28:13,480
+leader. You know, he's the precedent for taking
+your sins from the past and transforming them from
+
+303
+00:28:13,480 --> 00:28:19,860
+a source of guilt to an impetus for change. He is the
+template from which the rest of the characters can
+
+304
+00:28:19,860 --> 00:28:24,320
+base their journey off of because he's been
+through it. And what's interesting is that here,
+
+305
+00:28:24,320 --> 00:28:29,680
+his journey takes him to Congress where he serves
+as a representative for the New York City area,
+
+306
+00:28:29,680 --> 00:28:35,200
+which I thought was interesting. It was a strange
+choice considering, I don't think, political
+
+307
+00:28:35,200 --> 00:28:41,280
+diplomacy and blowing up bad guys really go hand in
+hand. And really, I'd be shocked if he was still a
+
+308
+00:28:41,280 --> 00:28:46,400
+congressman by the time we see him next as a new
+Avenger, which makes me wonder why they even
+
+309
+00:28:46,400 --> 00:28:52,660
+bothered to put Bucky into politics to begin with.
+I wouldn't say it was 100% necessary for this film.
+
+310
+00:28:52,660 --> 00:28:58,140
+It kind of seems like an element that they wanted to
+explore early on, but then just kind of abandoned
+
+311
+00:28:58,140 --> 00:29:03,360
+while writing the script. But I think they
+explained that he, by joining the Thunderbolts
+
+312
+00:29:03,360 --> 00:29:08,800
+team, pretty much resigned his role as a
+congressman. Yeah, I think they did say that. It
+
+313
+00:29:08,800 --> 00:29:14,660
+was implied at least by Valentina. Right. To me, I
+thought Bucky was sort of the least interesting
+
+314
+00:29:14,660 --> 00:29:20,520
+character in this film. I don't know if it's
+because we've gone through his whole arc pretty
+
+315
+00:29:20,520 --> 00:29:24,900
+much already, but it also kind of felt like
+Sebastian Stan was kind of just going through the
+
+316
+00:29:24,900 --> 00:29:29,160
+motions with the role. I mean, that's the Bucky
+character, you know, he's tired. He's been
+
+317
+00:29:29,160 --> 00:29:33,440
+through a lot. He's fucking 100 years old. And
+yeah, he's probably gone through most of his
+
+318
+00:29:33,440 --> 00:29:38,420
+journey, but it is nice to see him taking up the
+torch for other characters in his place. That's
+
+319
+00:29:38,420 --> 00:29:42,540
+definitely an interesting direction to take the
+Winter Soldier. I hope that as a member of the New
+
+320
+00:29:42,540 --> 00:29:46,600
+Avenger, The Avengers. They give his arm all the
+cool upgrades that he has in the comic books like
+
+321
+00:29:46,600 --> 00:29:51,800
+the Metal Spike, the Taser arm, and like the
+Flamethrower. I think that'd be pretty badass.
+
+322
+00:29:51,800 --> 00:29:57,100
+Let's go ahead and move on to US Agent, aka John
+Walker, played by Wyatt Russell. Wyatt Russell
+
+323
+00:29:57,100 --> 00:30:03,800
+does a great job of playing the guy that you love to
+hate to love. His John Walker is so believably a
+
+324
+00:30:03,800 --> 00:30:08,640
+douchey asshole, yet somehow still charismatic
+enough to make you root for him as US Agent. I think
+
+325
+00:30:08,640 --> 00:30:14,340
+it's because he fills his performance with enough
+insecurity behind his facade that you know that
+
+326
+00:30:14,340 --> 00:30:19,320
+he's not actually coming from a place of arrogance
+necessarily, but from a place of deep hurt. And I
+
+327
+00:30:19,320 --> 00:30:24,240
+think that makes him endearing. His whole arc was
+about wanting to be a hero that could live up to the
+
+328
+00:30:24,240 --> 00:30:29,040
+legacy of Captain America and he failed in The
+Falcon and the Winter Soldier show. He failed in
+
+329
+00:30:29,040 --> 00:30:34,240
+his eyes and he failed in the public eye. So by the
+end of that show, he became more of an agent for
+
+330
+00:30:34,240 --> 00:30:38,460
+Valentina and by the end of this film, he's
+stepping back into that hero role and you could
+
+331
+00:30:38,460 --> 00:30:43,340
+tell he was a little bit reticent to go back there,
+but he did it anyway because that's probably his
+
+332
+00:30:43,340 --> 00:30:48,660
+calling. Yeah, next to Yelena, he was probably my
+favorite character in the film. I didn't really
+
+333
+00:30:48,660 --> 00:30:52,900
+like him in The Falcon and the Winter Soldier
+because of how much of a douchebag he was, but
+
+334
+00:30:52,900 --> 00:30:57,620
+somehow, yeah, you're right, that made him
+endearing in this movie and relatable in a way
+
+335
+00:30:57,620 --> 00:31:02,200
+because, you know, as a father, I'm probably
+guilty of looking at my phone when I should
+
+336
+00:31:02,200 --> 00:31:07,200
+probably be interacting with my daughter. So that
+kind of cut deep. Oh, yeah, I think as parents
+
+337
+00:31:07,200 --> 00:31:11,880
+nowadays, we've all done that, but his big mistake
+was that he left his family. Oh, I thought they left
+
+338
+00:31:11,880 --> 00:31:17,460
+him. Yeah, one of those two things, but it just
+added to the tragedy because like Ghost was asking
+
+339
+00:31:17,460 --> 00:31:22,060
+Kim how he balanced it all and he's just like, you do
+what you got to do. And then later on, it was
+
+340
+00:31:22,060 --> 00:31:27,540
+revealed as they were chained up in the garage that
+he wasn't even a family man anymore. He didn't have
+
+341
+00:31:27,540 --> 00:31:32,740
+everything. He didn't have it all. A quick note
+here. I really love how by when the end credits came
+
+342
+00:31:32,740 --> 00:31:38,680
+along, he still had his shield taco. It was like how
+many months later after the events of this film was
+
+343
+00:31:38,680 --> 00:31:43,540
+the end credits and yet he was still sticking with
+that bent shield almost like he had come to just
+
+344
+00:31:43,540 --> 00:31:49,120
+accept it. I thought that was hilarious. I thought
+that was super dumb. I did not get that. Let's go
+
+345
+00:31:49,120 --> 00:31:56,500
+ahead and move on to the Sentry, aka Bob Reynolds,
+played by Lewis Pullman. It sucks so much to see how
+
+346
+00:31:56,500 --> 00:32:01,780
+much of a revelation Lewis Pullman was in this
+role, to see how much nuance and believability the
+
+347
+00:32:01,780 --> 00:32:06,640
+actor brought to this very difficult role and yet
+still wonder how Stephen Yuen would have pulled it
+
+348
+00:32:06,640 --> 00:32:13,420
+off. Oh, no, just watching this, I was like, this
+actor was so perfect for this role. I am so glad they
+
+349
+00:32:13,420 --> 00:32:18,420
+replaced Stephen Yuen. I mean, it's Yuen's loss,
+right? Because the Sentry has long been one of
+
+350
+00:32:18,420 --> 00:32:24,420
+Marvel's most psychologically complex heroes.
+And it seems like such a meaty role for any actor to
+
+351
+00:32:24,420 --> 00:32:29,580
+sink his teeth into. Oh, yeah. I thought Pullman
+brought layers to his performance with every
+
+352
+00:32:29,580 --> 00:32:36,260
+subtlety, every weird posture or shy smile or hand
+twitch. I think he realistically portrayed
+
+353
+00:32:36,260 --> 00:32:41,900
+mental illness in a way that felt, I guess,
+respectful for those who suffer from any
+
+354
+00:32:41,900 --> 00:32:47,960
+psychological affliction. It just felt real and
+not like a caricature of mental illness. You know,
+
+355
+00:32:47,960 --> 00:32:52,680
+there were times where he was scary and there were
+times where he was funny. There were times where he
+
+356
+00:32:52,680 --> 00:32:57,180
+was heartwrenchingly sympathetic. I think his
+Bob Reynolds is by far one of the MCU's most
+
+357
+00:32:57,180 --> 00:33:02,660
+interesting characters. And I can see him growing
+in the role in much the same way Tom Hiddleston did
+
+358
+00:33:02,660 --> 00:33:07,460
+as Loki, because there's just so much going on
+behind the performance and so much space to
+
+359
+00:33:07,460 --> 00:33:14,120
+explore and to grow from here. I have never been a
+big fan of the Sentry as a character. I always kind
+
+360
+00:33:14,120 --> 00:33:22,300
+of saw him as an April Fools Superman knockoff
+character. But his performance made me really
+
+361
+00:33:22,300 --> 00:33:28,780
+appreciate aspects of the Sentry that I hadn't
+really before. Yeah, the whole mental illness
+
+362
+00:33:28,780 --> 00:33:34,460
+thing is unique to the character, right? He is Bob
+Reynolds, the addict. He is also the Sentry, the
+
+363
+00:33:34,460 --> 00:33:39,500
+all powerful hero. He is also the void, a soul
+leading pit of darkness. I was surprised that they
+
+364
+00:33:39,500 --> 00:33:43,540
+went as hard into that as they did with this film. I
+thought maybe they were just going to kind of
+
+365
+00:33:43,540 --> 00:33:48,280
+tangentially address that. But no, that whole
+relationship of the beings that are the Sentry
+
+366
+00:33:48,280 --> 00:33:53,680
+kind of became the crux of the film. Oh, yeah, no,
+absolutely. I mean, it was the stakes of the film.
+
+367
+00:33:53,680 --> 00:34:00,460
+It was the climax of the film, them going up against
+this dark side of the character. I jokingly texted
+
+368
+00:34:00,460 --> 00:34:07,280
+you right after I saw the movie saying that this
+film was essentially an MCU version of My Little
+
+369
+00:34:07,280 --> 00:34:13,600
+Pony and the whole like friendship is magic thing.
+And the bad guys defeated in the end by a group hug.
+
+370
+00:34:13,600 --> 00:34:20,199
+That said, they did an unbelievably good job of
+making that work for the audience in a way that
+
+371
+00:34:20,199 --> 00:34:25,600
+surprised me. Well, I didn't know what you meant by
+that My Little Pony text message that you sent me
+
+372
+00:34:25,600 --> 00:34:33,340
+because I'm not a brony like you. OK, I have two
+daughters that are older than your daughter. I
+
+373
+00:34:33,340 --> 00:34:38,280
+still I have no idea what reference I've never
+watched My Little Pony. So I don't know exactly
+
+374
+00:34:38,280 --> 00:34:43,659
+what you're saying. I'm saying everything was
+solved by the power of friendship and a group hug at
+
+375
+00:34:43,659 --> 00:34:48,699
+the end. It's not like they defeat the void in the
+comic books in any less roundabout manner. In the
+
+376
+00:34:48,699 --> 00:34:54,000
+books, they have to defeat the void by essentially
+making everybody forget about the Sentry and Bob
+
+377
+00:34:54,000 --> 00:34:57,900
+Reynolds and the void to begin with. There's no
+easy solution there. You can't just take him down
+
+378
+00:34:57,900 --> 00:35:03,780
+by force. So I don't I don't begrudge the film
+taking that kind of approach of the group hug,
+
+379
+00:35:03,780 --> 00:35:09,680
+where really they're trying to solve the issue of
+the void through therapy, right? Well, I don't
+
+380
+00:35:09,680 --> 00:35:14,880
+begrudge it either. That's what I'm saying. I'm
+saying like I feel like I should, but they did it so
+
+381
+00:35:14,880 --> 00:35:19,360
+well that I don't. Yeah. I mean, one of the main
+themes of the movie was mental illness. So the fact
+
+382
+00:35:19,360 --> 00:35:24,560
+that it was therapy that helped solve everything.
+I think that's what makes it work. What did you
+
+383
+00:35:24,560 --> 00:35:28,420
+think of the Sentry's powers in this movie?
+Because they were a little bit different from what
+
+384
+00:35:28,420 --> 00:35:34,220
+they are in the comic. Yeah, they focused a lot more
+on telekinesis, which is not really something
+
+385
+00:35:34,220 --> 00:35:39,640
+that I know the Sentry to have in the books. For the
+void, they really focused on his telepathic
+
+386
+00:35:39,640 --> 00:35:43,780
+powers, which I thought was pretty interesting.
+He was kind of like a psychic entity on the astral
+
+387
+00:35:43,780 --> 00:35:48,720
+plane, right? He was bringing all these people
+into his astral realm where they would live out
+
+388
+00:35:48,720 --> 00:35:53,000
+their biggest regrets in life or their most
+depressing moments or something like that. It was
+
+389
+00:35:53,000 --> 00:35:57,320
+different from what I know in the books, but I
+wouldn't say that it's out of the concept for the
+
+390
+00:35:57,320 --> 00:36:02,400
+Sentry. You know, the Sentry is supposed to be this
+all powerful being void is supposed to be this soul
+
+391
+00:36:02,400 --> 00:36:07,920
+sucking dark creature. I think it all works. In the
+future, I would like to see them use less
+
+392
+00:36:07,920 --> 00:36:12,460
+telekinesis for the character and focus more on
+his strength. I don't know if they were just doing
+
+393
+00:36:12,460 --> 00:36:17,800
+that in an attempt to make him seem less like
+Superman or not, but it was strange to me. I want to
+
+394
+00:36:17,800 --> 00:36:23,500
+see them focus more on his light powers. Yes. Yeah,
+that would be good. Let's move on to Red Guardian,
+
+395
+00:36:23,500 --> 00:36:28,780
+a.k .a. Alexi Shostakov, played by David Harbour.
+I love David Harbour in this role. You know, we
+
+396
+00:36:28,780 --> 00:36:34,320
+mentioned he was great in the Black Widow movie,
+mostly as comic relief. And he plays the role of
+
+397
+00:36:34,320 --> 00:36:39,540
+comic relief in this movie, too. But he also serves
+as a beacon for the team and especially Yelena on
+
+398
+00:36:39,540 --> 00:36:45,480
+how to be a hero. He was the first one in Manhattan to
+just do what was right and do what came naturally to
+
+399
+00:36:45,480 --> 00:36:51,260
+him by saving these people. And he seemed to see the
+heroic side in his teammates and believed in them
+
+400
+00:36:51,260 --> 00:36:56,180
+more than they believed in themselves. And he
+cheered them on. It was awesome. But his arc was
+
+401
+00:36:56,180 --> 00:37:01,200
+interesting in that, you know, you can view it
+cynically because I was trying to think about what
+
+402
+00:37:01,200 --> 00:37:05,980
+his motivations were. And you could say that he was
+pushing a heroic agenda on these people so that he
+
+403
+00:37:05,980 --> 00:37:11,060
+could selfishly live out his old glory days. But I
+think when you look at David Harbour's
+
+404
+00:37:11,060 --> 00:37:16,540
+performance, it kind of pushes that cynicism away
+because there's such honesty to his optimism and
+
+405
+00:37:16,540 --> 00:37:22,680
+in his lovable buffoonery. Yeah, he's just
+excited about being a hero and helping people.
+
+406
+00:37:22,680 --> 00:37:27,200
+There's perks that come with it, and he definitely
+takes advantage of those. Like the Weedies box.
+
+407
+00:37:27,200 --> 00:37:33,840
+Yeah, exactly. But I also felt like he genuinely
+wants to help. Yeah, he was a great mentor figure in
+
+408
+00:37:33,840 --> 00:37:38,800
+this movie. And I liked him here a lot more than I did
+in the Black Widow movie. There he kind of got
+
+409
+00:37:38,800 --> 00:37:43,900
+annoying to me. And I thought he was going to be
+annoying in this film as well. But I was just
+
+410
+00:37:43,900 --> 00:37:49,980
+surprised to think about how well he helped direct
+Yelena's arc through the conversations he had
+
+411
+00:37:49,980 --> 00:37:55,440
+with her at the beginning. And right before the
+climax, it worked really well. I don't think David
+
+412
+00:37:55,440 --> 00:37:59,800
+Harbour was annoying in the Black Widow film. I
+thought it was great. I did think his character was
+
+413
+00:37:59,800 --> 00:38:05,500
+annoying in the What If episode that he shared with
+Bucky. I think the dynamic that we got between the
+
+414
+00:38:05,500 --> 00:38:10,180
+Winter Soldier and the Red Guardian in this movie
+was better than that entire What If episode. Oh,
+
+415
+00:38:10,180 --> 00:38:16,020
+yeah. Regarding his look, it was nice to see him
+cleaned up during the Weedies mid-credits scene.
+
+416
+00:38:16,020 --> 00:38:21,060
+But then by the time the end credits scene rolled
+around, he was back to having a completely shaped
+
+417
+00:38:21,060 --> 00:38:26,120
+head with a really long wild man beard. So I thought
+that was a little bit weird the way they jumped
+
+418
+00:38:26,120 --> 00:38:31,420
+between his looks from the movie to the
+mid-credits scene to the end credits scene. The
+
+419
+00:38:31,420 --> 00:38:36,220
+inconsistency just was strange. Yeah, all of
+those characters had interesting looks in the
+
+420
+00:38:36,220 --> 00:38:42,180
+final end credits scene. I didn't really care for
+any of them, honestly. Really? Yeah. They all look
+
+421
+00:38:42,180 --> 00:38:48,180
+like wigs, right? Right. It was just a little too
+polished, a little too like 70s. I don't know.
+
+422
+00:38:48,180 --> 00:38:52,660
+Well, that's how they'll look in the upcoming
+Avengers Doomsday movie because the end credits
+
+423
+00:38:52,660 --> 00:38:58,760
+scene was filmed on that set. Let's go ahead and
+move on to Ghost, a.k .a. Ava Star, played by Hannah
+
+424
+00:38:58,760 --> 00:39:07,660
+John-Kamen. So Ghost was a character that
+appeared in this film. Yeah, she didn't really
+
+425
+00:39:07,660 --> 00:39:13,800
+contribute to anything too much other than
+getting them out of the vault. Yeah, I feel like
+
+426
+00:39:13,800 --> 00:39:18,720
+there's not a whole lot to say about Ghost. She
+seemed really just along for the ride, for the most
+
+427
+00:39:18,720 --> 00:39:23,800
+part, without any notable motivations or
+character building. We do know from Ant-Man and
+
+428
+00:39:23,800 --> 00:39:28,920
+the Wasp that she had a painful childhood with her
+chronic quantum instability. You know, we know
+
+429
+00:39:28,920 --> 00:39:34,200
+that she became an assassin for Shield and tried to
+steal the quantum tunnel from Hank Pym, and was
+
+430
+00:39:34,200 --> 00:39:39,140
+subsequently healed at the end of that movie by
+Janet Van Dyne. But I don't think I learned
+
+431
+00:39:39,140 --> 00:39:44,500
+anything really new about Ghost in the
+Thunderbolts movie. And I'm sure there are like
+
+432
+00:39:44,500 --> 00:39:49,880
+probably things from her past that she regrets,
+but we never got to see any of that. We never got any
+
+433
+00:39:49,880 --> 00:39:56,400
+specifics on her regrets. I think it would have
+been nice to have gotten a vision from the void with
+
+434
+00:39:56,400 --> 00:40:02,020
+her character. Or any of the other characters
+besides Yelena and US Agent. Right. Really, Ghost
+
+435
+00:40:02,020 --> 00:40:07,380
+just seemed to hang around because she has a cool
+power set. But I feel like the character of
+
+436
+00:40:07,380 --> 00:40:12,300
+Taskmaster probably would have been more
+interesting to explore in terms of past regrets
+
+437
+00:40:12,300 --> 00:40:18,060
+and becoming a hero. I don't know. I'm still just
+salty about Taskmaster at the end of the day. Let's
+
+438
+00:40:18,060 --> 00:40:22,940
+move on to the Contessa Valentina Allegra da
+Fontaine, played by Julia Louis-Dreyfus. Julia
+
+439
+00:40:22,940 --> 00:40:27,500
+Louis-Dreyfus is a whole lot of fun to watch
+because she's such an intelligent actor who can
+
+440
+00:40:27,500 --> 00:40:32,040
+deliver lines like they were all written by Aaron
+Sorkin or something like that. I think that's her
+
+441
+00:40:32,040 --> 00:40:37,280
+special ability as an actress. Really, much of the
+dialogue in this movie was written by Joanna
+
+442
+00:40:37,280 --> 00:40:43,980
+Collow, who wrote The Bear for FX. So that may have
+something to do with how enjoyable Julia's
+
+443
+00:40:43,980 --> 00:40:47,620
+performance was. But I thought she was great. She
+was actually more enjoyable in this role than I
+
+444
+00:40:47,620 --> 00:40:52,840
+thought she was going to be. I do wish that we got
+more information on her motivations. Like we did
+
+445
+00:40:52,840 --> 00:40:58,940
+get a vision with her character where she was a
+young child in Italy and her parents were freedom
+
+446
+00:40:58,940 --> 00:41:03,640
+fighters going up against the suppressive
+regime. Or maybe it was a mob thing. It wasn't quite
+
+447
+00:41:03,640 --> 00:41:09,720
+clear because she's certainly not old enough to be
+a child during like World War Two. But whatever
+
+448
+00:41:09,720 --> 00:41:16,400
+happened there didn't really serve to inform her
+decisions in this movie, unless that is to say she
+
+449
+00:41:16,400 --> 00:41:22,300
+learned that fear and power can be valuable tools
+in life. I'm not quite sure what to read off of that
+
+450
+00:41:22,300 --> 00:41:25,980
+memory that she had. But there's still a lot of
+questions around her character, like is she
+
+451
+00:41:25,980 --> 00:41:30,980
+acting alone? We never really got to learn things
+like that here. I kind of got the impression that
+
+452
+00:41:30,980 --> 00:41:39,360
+her character is all about having more power than
+anyone else who can use it against her. Because
+
+453
+00:41:39,360 --> 00:41:47,720
+what she witnessed as a child left her feeling very
+powerless. And she is threatened by other
+
+454
+00:41:47,720 --> 00:41:52,340
+countries like Wakanda, who may again be more
+powerful than her and she doesn't want that.
+
+455
+00:41:52,340 --> 00:41:57,540
+That's a great way to read into it. Yeah, her
+character is very, very similar to Amanda Waller,
+
+456
+00:41:57,540 --> 00:42:05,180
+who I think has a similar viewpoint in regards to
+power and obtaining power and using power because
+
+457
+00:42:05,180 --> 00:42:12,560
+of her tragic backstory as well. I very much saw
+Valentina as the analog of Amanda Waller in this
+
+458
+00:42:12,560 --> 00:42:18,920
+film. Yes, like she's Amanda Waller, but with an
+actual personality. How dare you, sir? Biola
+
+459
+00:42:18,920 --> 00:42:24,400
+Davis would kick your ass for saying that. And I'll
+have Julie Louis Dreyfus backing me up. She has way
+
+460
+00:42:24,400 --> 00:42:31,000
+more personality than Amanda Waller. Probably my
+favorite moment in the film involves Valentina
+
+461
+00:42:31,000 --> 00:42:36,300
+when the century just kicked the asses of the
+Thunderbolts characters and they're going down
+
+462
+00:42:36,300 --> 00:42:43,100
+in the elevator and she's like, and you're going to
+do what I say. And he's like, why? And then she just
+
+463
+00:42:43,100 --> 00:42:50,680
+looks at him and she's like, what? I loved that
+moment. It was just perfectly acted by Julie Louis
+
+464
+00:42:50,680 --> 00:42:54,960
+Dreyfus and Louis Pullman. I'll tell you about my
+favorite moment when we get into the story
+
+465
+00:42:54,960 --> 00:43:07,160
+highlights. In a world where fantasies collide
+and heroes clash, one podcast network rises above
+
+466
+00:43:07,160 --> 00:43:13,400
+the rest. Prepare yourself for the ultimate
+showdowns in comic books, video games, movies and
+
+467
+00:43:13,400 --> 00:43:19,340
+anime. The Dynamite Podcast Network presents
+Console Combat, where video game legends brawl
+
+468
+00:43:19,340 --> 00:43:26,120
+every Monday. Dynamic Duel, where comic book
+titans smash every Tuesday. Max Destruction,
+
+469
+00:43:26,120 --> 00:43:31,200
+where TV and action heroes battle every
+Wednesday. And Cendro World, where anime
+
+470
+00:43:31,200 --> 00:43:37,060
+champions clash every Thursday. Join us as we
+speculate on the matches and armed with the power
+
+471
+00:43:37,060 --> 00:43:43,400
+of mathematical simulations, discover who will
+emerge victorious. Visit dynamicpodcast.com
+
+472
+00:43:43,400 --> 00:43:53,200
+where we settle the debate and settle the score. In
+Kuala Lumpur, Malaysia, mercenary Yelena Beloba
+
+473
+00:43:53,200 --> 00:44:00,100
+destroys evidence of a lab belonging to the OXE or
+Ox Corp. In Washington, D.C., CIA director
+
+474
+00:44:00,100 --> 00:44:04,600
+Valentina Allegra de Fontaine testifies in her
+impeachment trial, where a congressional
+
+475
+00:44:04,600 --> 00:44:09,420
+subcommittee investigates her involvement in
+Ox's potential illegal activity, including
+
+476
+00:44:09,420 --> 00:44:14,660
+human experimentation to create superhumans.
+Defending her actions as necessary in a world
+
+477
+00:44:14,660 --> 00:44:19,900
+without Avengers, she orders her assistant
+Melissa Gold to destroy all of Ox's evidence and
+
+478
+00:44:19,900 --> 00:44:24,920
+loose ends. After visiting her surrogate
+paternal figure, Alexi, Yelena resolves to
+
+479
+00:44:24,920 --> 00:44:29,820
+better her life and come out of her depression by
+becoming more of a hero like her late sister. She
+
+480
+00:44:29,820 --> 00:44:35,100
+accepts a mission from Valentina to stop a
+corporate spy at a covert ox vault in Utah. I
+
+481
+00:44:35,100 --> 00:44:39,600
+thought the opening scene was really well done.
+You know, a lot of the marketing of the film went
+
+482
+00:44:39,600 --> 00:44:46,980
+into Florence Pugh's actual practical stunt of
+diving off of the Madurka 118 in Kuala Lumpur. It
+
+483
+00:44:46,980 --> 00:44:51,300
+was actually a pretty impressive stunt that I
+thought did a great job with like its natural
+
+484
+00:44:51,300 --> 00:44:56,220
+lighting and everything like that, of really
+setting the tone of the cinematography and the
+
+485
+00:44:56,220 --> 00:45:00,140
+practical action that we would be getting in the
+course of the film. Yeah, I believe that's the
+
+486
+00:45:00,140 --> 00:45:05,620
+second tallest building in the world if I'm not
+mistaken. Right, yeah. Arriving at the vault,
+
+487
+00:45:05,620 --> 00:45:11,040
+Yelena finds evidence of Project Sentry before
+being attacked by US agent John Walker, who in turn
+
+488
+00:45:11,040 --> 00:45:16,920
+is attacked by Taskmaster, who is in turn attacked
+by Ghost Yelena's target. After a fight in which
+
+489
+00:45:16,920 --> 00:45:23,320
+Ghost kills Taskmaster, the group meets Bob, who
+stumbled out of an ox containment pod. Confused,
+
+490
+00:45:23,320 --> 00:45:26,740
+they determined that they've all worked for
+Valentina and were sent to the vault to be
+
+491
+00:45:26,740 --> 00:45:32,360
+eliminated as loose ends. At a gala in Washington,
+DC, New York congressman, Bucky, tries to
+
+492
+00:45:32,360 --> 00:45:36,860
+convince Valentina's assistant, Melissa, to
+divulge incriminating information on her.
+
+493
+00:45:36,860 --> 00:45:41,800
+Despite the fact that Taskmaster went out dirty at
+the end of that fight scene, I did think that was a
+
+494
+00:45:41,800 --> 00:45:48,300
+pretty damn cool fight scene that was kind of
+reminiscent to how we describe and speculate the
+
+495
+00:45:48,300 --> 00:45:53,480
+battles within our dual episodes. You know, it was
+like a lot of like causality. This leads to this
+
+496
+00:45:53,480 --> 00:45:58,280
+leads to this leads to this. I thought there was
+just kind of like a great story kind of being told
+
+497
+00:45:58,280 --> 00:46:03,400
+through the action of their fight. It may be wonder
+like what all their stats were and what it would
+
+498
+00:46:03,400 --> 00:46:07,780
+look like if I plugged them all into the simulator.
+Yeah, it was a really cool fight. I don't think I've
+
+499
+00:46:07,780 --> 00:46:13,220
+mentioned this yet, but I really like Ghost's new
+look in this film. They all looked really cool. I
+
+500
+00:46:13,220 --> 00:46:17,740
+don't know, but I really liked her look in M.N. and
+the Wasp, too. Her white suit, that was pretty
+
+501
+00:46:17,740 --> 00:46:22,840
+badass. I do like her new helmet, though. Yeah,
+yeah, that's really cool. Back in the vault, the
+
+502
+00:46:22,840 --> 00:46:27,920
+group escapes being incinerated. While making
+contact with Bob, Yelena has a vision of a
+
+503
+00:46:27,920 --> 00:46:32,060
+childhood memory when she got another girl
+killed. Valentina learns about the group's
+
+504
+00:46:32,060 --> 00:46:37,800
+survival in the vaults and plans to send a squad
+after them, a plot that Alexi overhears as her limo
+
+505
+00:46:37,800 --> 00:46:42,980
+driver. Melissa reaches out to Bucky and lets him
+know that Valentina is plotting something at the
+
+506
+00:46:42,980 --> 00:46:50,800
+ox vault. Which, holy cow, how irresponsible of
+Valentina to just riff in the back of a limo and let
+
+507
+00:46:50,800 --> 00:46:55,840
+the limo driver hear what she's saying. Yeah, it
+was a little convenient, especially having Alexi
+
+508
+00:46:55,840 --> 00:47:01,160
+turn out to be the limo driver. But, I don't know, I
+also thought it was kind of clever, story-wise.
+
+509
+00:47:01,160 --> 00:47:06,520
+Yeah, it was a nice way to get him involved. Yeah.
+Back of the vault, the group, jokingly referred to
+
+510
+00:47:06,520 --> 00:47:12,440
+by Yelena as the Thunderbolts, her Peewee soccer
+team, attempts to climb an elevator shaft. At the
+
+511
+00:47:12,440 --> 00:47:18,340
+top, Walker has a memory of his family leaving him,
+a vision also induced by contact with Bob. They
+
+512
+00:47:18,340 --> 00:47:22,680
+fight some of Valentina's forces, taking their
+gear as a disguise and attempt to steal a truck to
+
+513
+00:47:22,680 --> 00:47:28,180
+escape. When stopped at a checkpoint, Bob creates
+a diversion by drawing enemy fire and is revealed
+
+514
+00:47:28,180 --> 00:47:34,060
+to be invulnerable. Thunderbolts escape as Bob
+attempts to fly, but he crash lands and is
+
+515
+00:47:34,060 --> 00:47:40,700
+captured. The elevator shaft scene was
+horrifying in some aspects. Oh yeah, absolutely.
+
+516
+00:47:40,700 --> 00:47:47,500
+Like, not only did it trigger claustrophobia in
+me, but also it made me really not want to skip leg
+
+517
+00:47:47,500 --> 00:47:53,040
+day the next day I ever do leg day, because that
+would have sucked. Yeah, that would have been
+
+518
+00:47:53,040 --> 00:47:58,300
+really hard. It was funny how it seems to work and
+then they got to the top and they were like, well,
+
+519
+00:47:58,300 --> 00:48:02,780
+what happens now? And I was like, oh yeah, what does
+happen now? It was an interesting ethical
+
+520
+00:48:02,780 --> 00:48:07,360
+experiment because there was no way that they all
+would be able to survive, despite the fact that
+
+521
+00:48:07,360 --> 00:48:12,800
+they all needed each other to even get to the top of
+the shaft. Right. The way they pulled it off,
+
+522
+00:48:12,800 --> 00:48:17,380
+though, I thought was pretty neat. And by pull it
+off, I mean, survive US agents general
+
+523
+00:48:17,380 --> 00:48:23,260
+douchebaggery. It did make me wonder why, though,
+if Yelena had a grappling hook, launcher,
+
+524
+00:48:23,260 --> 00:48:29,520
+mantetour, wrist, which she used to save Bob, she
+could have easily used that to get to the top of the
+
+525
+00:48:29,520 --> 00:48:35,260
+elevator shaft, or at least, you know, get all of
+them through the shaft safely. That's true. Yeah,
+
+526
+00:48:35,260 --> 00:48:40,600
+she definitely could have used it as a means to get
+them all up. And really, Bob wouldn't have died
+
+527
+00:48:40,600 --> 00:48:44,680
+from that fall either. He would have found out that
+he was invulnerable and then probably learned how
+
+528
+00:48:44,680 --> 00:48:49,520
+to fly from there. But I thought it was an exciting
+moment nonetheless. Yeah, definitely. As the
+
+529
+00:48:49,520 --> 00:48:54,600
+Thunderbolts escape into the desert, they are
+rescued by a lexie in his limo and are pursued by an
+
+530
+00:48:54,600 --> 00:48:59,660
+ox military convoy. They're saved by Bucky on his
+motorcycle, who captures the team in order to
+
+531
+00:48:59,660 --> 00:49:04,520
+bring them in as evidence against Valentina. In
+New York, Bob is brought to the former Avengers
+
+532
+00:49:04,520 --> 00:49:10,620
+Tower, renamed by Valentina as the Watchtower.
+She manipulates him into becoming a hero under her
+
+533
+00:49:10,620 --> 00:49:15,220
+control known as the Sentry. Holding the
+Thunderbolts in a garage, Bucky learns from
+
+534
+00:49:15,220 --> 00:49:21,180
+Melissa and corroborates with the team that Bob's
+power and instability will threaten New York.
+
+535
+00:49:21,180 --> 00:49:25,160
+Now, this brings me to my favorite moment in the
+movie, which I think was the funniest moment,
+
+536
+00:49:25,160 --> 00:49:32,160
+which was the Molotov cocktail, where you have
+this thrilling chase and a lexie is yelling for the
+
+537
+00:49:32,160 --> 00:49:37,020
+vodka and they give it to him and he like takes a
+swig. You're not sure where he's going with this.
+
+538
+00:49:37,020 --> 00:49:41,780
+You think maybe he's just getting drunk, but he
+creates a Molotov cocktail out of it, lights it on
+
+539
+00:49:41,780 --> 00:49:48,200
+fire like a badass. He tosses it out of the window
+and it bullseyes the convoy exactly as he intended
+
+540
+00:49:48,200 --> 00:49:55,280
+to little to no effect, which was the joke. But it
+was a good throw, right? It was a great throw. Just
+
+541
+00:49:55,280 --> 00:50:01,340
+the subversion that I thought was so hilarious. I
+really liked how the redesign of the Avengers
+
+542
+00:50:01,340 --> 00:50:08,740
+Tower by Valentina was making it look more like the
+Sentry Watch Tower in the comic books, where I had
+
+543
+00:50:08,740 --> 00:50:13,740
+those like black curved elements coming out the
+side of it. I thought that was a really clever way to
+
+544
+00:50:13,740 --> 00:50:18,700
+incorporate the Sentry's headquarters into that
+building, because in the comic books, he had
+
+545
+00:50:18,700 --> 00:50:23,260
+established his headquarters on top of Stark
+Tower when he was a member of the New Avengers.
+
+546
+00:50:23,260 --> 00:50:28,100
+That's right. Yeah, totally forgot about that. He
+was a member of that team. The Thunderbolts crash
+
+547
+00:50:28,100 --> 00:50:33,120
+their van into the Watch Tower where they're
+invited to the penthouse to meet Bob as the Sentry.
+
+548
+00:50:33,120 --> 00:50:37,920
+Valentina reveals her plan for the Thunderbolts
+to be discredited as rogue criminals in the media
+
+549
+00:50:37,920 --> 00:50:42,940
+when they try to stop the Sentry, now branded as
+Earth's mightiest hero. The team tries to defeat
+
+550
+00:50:42,940 --> 00:50:48,440
+Bob anyway and are easily defeated and forced to
+retreat. Bob's instability has him turn on
+
+551
+00:50:48,440 --> 00:50:54,440
+Valentina and he transforms into the Void. As most
+of the Thunderbolts give up after their defeat,
+
+552
+00:50:54,440 --> 00:50:59,380
+they witness the Void begin terrorizing
+Manhattan. One by one, they begin doing what they
+
+553
+00:50:59,380 --> 00:51:05,780
+can to save who they can. It was pretty telling to me
+how in the fantastic scene where the Thunderbolts
+
+554
+00:51:05,780 --> 00:51:11,640
+characters meet with Valentina at the penthouse,
+and she just begins insulting each and every one of
+
+555
+00:51:11,640 --> 00:51:18,480
+them, except for Ghost, who she's just like, oh
+yeah, Ghost. Oh, and Yelena, you look terrible.
+
+556
+00:51:18,480 --> 00:51:24,480
+The fact that she didn't insult Ghost like the
+others just kind of proved the point that Ghost
+
+557
+00:51:24,480 --> 00:51:30,120
+really wasn't a big enough character in the movie
+to insult. Yeah, she was kind of a little bit more
+
+558
+00:51:30,120 --> 00:51:35,160
+pointless in that regard. I bet you that Valentina
+would have had some stuff to say about Taskmaster.
+
+559
+00:51:35,160 --> 00:51:40,120
+I don't know. I liked the fight against the Sentry.
+Again, I do wish there was less telekinesis, but it
+
+560
+00:51:40,120 --> 00:51:44,800
+was cool to see them, you know, give their all
+against this all powerful being. What can you do at
+
+561
+00:51:44,800 --> 00:51:50,760
+that point but retreat? And Alexi's pep talk to
+Yelena, where she's telling him that all she sees
+
+562
+00:51:50,760 --> 00:51:55,280
+in herself are these flaws and she's such a
+horrible person. But he refers to this instance in
+
+563
+00:51:55,280 --> 00:52:01,980
+her life where she chose to be the goalie of her
+Thunderbolts Pee Wee team, not because she was
+
+564
+00:52:01,980 --> 00:52:07,280
+lazy and didn't want to run like she thought, but
+because she said she wanted to be the one people
+
+565
+00:52:07,280 --> 00:52:14,440
+could count on if they made a mistake. It was such a
+touching heartfelt moment to just build her up in
+
+566
+00:52:14,440 --> 00:52:20,360
+that way and tell her that she's better than she
+thinks she is, you know. I was kind of confused how
+
+567
+00:52:20,360 --> 00:52:27,800
+the void took over the Sentry character when the
+Sentry was dead. But I also thought that the void
+
+568
+00:52:27,800 --> 00:52:34,080
+was a very effective villain, like very scary,
+especially with the display of his powers, how he
+
+569
+00:52:34,080 --> 00:52:39,820
+just essentially turned everyone into these
+shadows. And the fact that it affected like
+
+570
+00:52:39,820 --> 00:52:44,540
+everyone in New York City was even more
+terrifying. Yeah, when he first used it against
+
+571
+00:52:44,540 --> 00:52:49,620
+that little girl that Alexi had saved, you know,
+like she smiled at the Red Guardian and then all of a
+
+572
+00:52:49,620 --> 00:52:53,500
+sudden she just disappeared. Like all of his
+actions were for naught in that very heroic
+
+573
+00:52:53,500 --> 00:52:59,100
+moment. And there was just something really
+disheartening about that that made the void such a
+
+574
+00:52:59,100 --> 00:53:03,660
+compelling villain. As the void's darkness
+spreads, Yelena steps into it and finds herself
+
+575
+00:53:03,660 --> 00:53:08,260
+back in her previous vision. She breaks through to
+other difficult times in her life, such as the
+
+576
+00:53:08,260 --> 00:53:13,160
+Black Widow training program and her time as an
+alcoholic. She ends up finding Bob in his own
+
+577
+00:53:13,160 --> 00:53:17,660
+memory in his childhood attic. The rest of the
+Thunderbolts end up finding them by entering the
+
+578
+00:53:17,660 --> 00:53:23,280
+void as well. Together they fight off Bob's abuse
+of stepfather, a sign twirling chicken high on
+
+579
+00:53:23,280 --> 00:53:29,180
+meth, and the void himself at the Ox Lab where Bob
+underwent the Sentry project. Bob tries to
+
+580
+00:53:29,180 --> 00:53:34,140
+overpower the void through violence, but the team
+learns the only way to overcome the void is through
+
+581
+00:53:34,140 --> 00:53:40,180
+healing Bob's trauma and showing him he's not
+alone. The chicken twirling moment was so damn
+
+582
+00:53:40,180 --> 00:53:47,340
+good. I was cracking up in the theater. Srishten,
+he was like, I was high at the time. Just knowing
+
+583
+00:53:47,340 --> 00:53:52,460
+that something like that happened is funny.
+Seeing the Thunderbolts fight a high sign
+
+584
+00:53:52,460 --> 00:53:58,020
+twirling chicken was not on my bingo card for this
+year. No, it's definitely the biggest surprise of
+
+585
+00:53:58,020 --> 00:54:03,520
+the movie, I would say. It was a great gag, though.
+As silly as it was, it didn't overstay its welcome,
+
+586
+00:54:03,520 --> 00:54:08,920
+thankfully. They didn't have a whole scene of them
+fighting the chicken. They were in and out, but it
+
+587
+00:54:08,920 --> 00:54:14,680
+worked so well because of that. Going back to
+Yelena's trauma about having her friend killed,
+
+588
+00:54:14,680 --> 00:54:21,380
+man, I really have to wonder what this 12-year-old
+girl did to deserve an assassination from the Red
+
+589
+00:54:21,380 --> 00:54:26,780
+Room. I think the Red Room was in the practice of
+weeding out the girls that didn't perform to their
+
+590
+00:54:26,780 --> 00:54:32,560
+expectations. Oh, you thought that girl was a
+member of the Red Room as well. OK, well, that makes
+
+591
+00:54:32,560 --> 00:54:38,900
+sense. Yeah, real dark shit. Real dark shit. Super
+dark. It was also really dark seeing Yelena Bolova
+
+592
+00:54:38,900 --> 00:54:43,520
+on the bathroom floor with all the bottles around
+her. There wasn't really much to that
+
+593
+00:54:43,520 --> 00:54:47,700
+performance, but it was still very powerful.
+Seeing Florence Pugh like that. Back on the
+
+594
+00:54:47,700 --> 00:54:52,320
+streets of Manhattan, the city returns to normal
+as the void disappears. The Thunderbolts see
+
+595
+00:54:52,320 --> 00:54:56,740
+Valentina and try to apprehend her, only to
+stumble onto a press briefing she arranged,
+
+596
+00:54:56,740 --> 00:55:02,300
+announcing the team as the new Avengers. Yelena
+warns her that they own her now. In a mid-credits
+
+597
+00:55:02,300 --> 00:55:07,580
+scene, Red Guardian tries to get a grocery store
+patron to notice him on a weedy cereal box. After
+
+598
+00:55:07,580 --> 00:55:12,220
+the end credits, the new Avengers debate how to
+address Sam Wilson's Avengers team, and they
+
+599
+00:55:12,220 --> 00:55:17,920
+notice a distress signal from outer space coming
+from a ship bearing the Fantastic Four emblem. I am
+
+600
+00:55:17,920 --> 00:55:24,000
+curious what you thought about the sort of end
+reckoning with Valentina or the lack thereof, I
+
+601
+00:55:24,000 --> 00:55:30,680
+should say. So the lack of closure with Valentina
+wasn't surprising to me. And I'm not sure what it
+
+602
+00:55:30,680 --> 00:55:34,940
+would have looked like if she did get her
+comeuppance. Obviously, she would be impeached.
+
+603
+00:55:34,940 --> 00:55:40,000
+She would probably go to jail. But even then, at
+least like in the comic books, we still wouldn't
+
+604
+00:55:40,000 --> 00:55:45,700
+have seen the end of her. It kind of felt like the
+Thunderbolts traded justice for fame. They kind
+
+605
+00:55:45,700 --> 00:55:52,920
+of traded justice for an opportunity, I think, to
+be the people they wanted to be. I think they found a
+
+606
+00:55:52,920 --> 00:56:00,780
+way to manipulate the situation and really give
+Valentina her comeuppance by being in control of
+
+607
+00:56:00,780 --> 00:56:05,140
+her as opposed to the other way around. Did you
+think that that was like in character for someone
+
+608
+00:56:05,140 --> 00:56:11,580
+like Bucky, though? Sure. I think so. Yeah, I mean,
+he's been an anti-hero before. I think in this
+
+609
+00:56:11,580 --> 00:56:16,520
+regard, they would all see that the ends justify
+the means. And I think he sees the benefit a new
+
+610
+00:56:16,520 --> 00:56:21,980
+Avengers team would have, especially using
+Valentina's resources. I think he sees that as the
+
+611
+00:56:21,980 --> 00:56:27,980
+greater good. Again, I don't think this is an
+absence of justice so much as a kind of twisting of
+
+612
+00:56:27,980 --> 00:56:32,880
+it to suit their needs. I didn't love the ending,
+I'll be honest, because it did feel like justice
+
+613
+00:56:32,880 --> 00:56:40,160
+was not met and it did feel very shallow on behalf of
+the team members. It's one of the few things I
+
+614
+00:56:40,160 --> 00:56:45,000
+really didn't like about the film. I kind of liked
+the subversion of the ending, actually. It was
+
+615
+00:56:45,000 --> 00:56:49,540
+anti-heroes being anti-heroes. But that's the
+film overall. I think the film stands out as a
+
+616
+00:56:49,540 --> 00:56:56,040
+unique entry from Marvel. And I think because of
+that, it'll be appreciated more by fans and
+
+617
+00:56:56,040 --> 00:57:01,320
+general audiences who I don't think necessarily
+are tired of Marvel. They're just looking for
+
+618
+00:57:01,320 --> 00:57:07,600
+something new and different. And I think that
+prioritizing introspection over exposition,
+
+619
+00:57:07,600 --> 00:57:11,840
+The Thunderbolts film uniquely delivers one of
+the more mature and thoughtful experiences in
+
+620
+00:57:11,840 --> 00:57:18,080
+Marvel's film catalog. I am giving it four and a
+half out of five stars, a fresh rating on Rotten
+
+621
+00:57:18,080 --> 00:57:24,940
+Tomatoes. Which is a really high rating. It's only
+half a star away from a perfect rating. But I would
+
+622
+00:57:24,940 --> 00:57:31,980
+actually agree with it. Now, this is the same
+rating we gave Watchmen and the Suicide Squad.
+
+623
+00:57:31,980 --> 00:57:37,220
+Well, I still think those are better films than
+this. I also can't see giving this a lower rating
+
+624
+00:57:37,220 --> 00:57:43,600
+because it was just so well executed. It's much
+more simple than those films. And I think in part
+
+625
+00:57:43,600 --> 00:57:49,520
+that's why it feels a little bit more pure in terms
+of like a character study that they were going for.
+
+626
+00:57:49,520 --> 00:57:55,900
+I thought they nailed the execution of this film.
+Yeah, it's nice for Marvel to have a movie like
+
+627
+00:57:55,900 --> 00:58:00,680
+this, I think, in their filmography. Oh,
+absolutely. For sure. But that does it for this
+
+628
+00:58:00,680 --> 00:58:37,280
+review. AJ9K helped close us out. Our next episode
+is going to be a dual episode where we find out who
+
+629
+00:58:37,280 --> 00:58:44,240
+would win in a fight between the DC hero Ray and the
+Marvel mutant character Havoc. Yeah, two of the
+
+630
+00:58:44,240 --> 00:58:49,060
+coolest and more interesting looking characters
+in either universe. Definitely looking forward
+
+631
+00:58:49,060 --> 00:58:53,060
+to this matchup. But that does it for this episode.
+We want to give a big thanks to our executive
+
+632
+00:58:53,060 --> 00:58:57,720
+producers. John Straussky, Zachary Hepburn,
+Dustin Balcombe, Mickey Mathen-Gian, Brandon
+
+633
+00:58:57,720 --> 00:59:03,380
+Esregard, Nathaniel Wagner, Levi Yatyn, Austin
+Wieselowski, A.J. Dunkerly, Nick Cabanto, Scott
+
+634
+00:59:03,380 --> 00:59:09,180
+Camacho, Gil Camacho, Adam Speese, Dean Malesky,
+Devin Davis, Joseph Kirsting, Josh Leiner, Mike
+
+635
+00:59:09,180 --> 00:59:15,400
+Williams, Oscar Galvez and our newest executive
+producer, Paul Graves, for helping make this
+
+636
+00:59:15,400 --> 00:59:21,860
+podcast possible. We'll talk to you guys next week
+up, up and away. True believers. Honestly, I just
+
+637
+00:59:21,860 --> 
+thought the asterisk was going to be a symbol for a
+butthole.
