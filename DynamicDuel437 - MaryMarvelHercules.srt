@@ -1,0 +1,3279 @@
+1
+00:00:00,000 --> 00:00:27,760
+This is a DynaMic Network Podcast. Hi and welcome
+to the Dynamic Duel Podcast, a weekly show where we
+
+2
+00:00:27,760 --> 00:00:32,479
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:32,479 --> 00:00:37,920
+their characters in stat-based battle
+simulations. I'm Marvelous Joe and I'm his twin
+
+4
+00:00:37,920 --> 00:00:43,740
+brother Johnny DC. And in this episode we're going
+to find out who would win in a fight between the
+
+5
+00:00:43,740 --> 00:00:50,120
+Greek God-powered characters of Mary Marvel and
+Hercules. You know, Hercules is not Greek
+
+6
+00:00:50,120 --> 00:00:55,620
+God-powered, he is the Greek God of Strength in
+Marvel. Oh interesting, I didn't realize he was
+
+7
+00:00:55,620 --> 00:01:02,620
+promoted above Demi-God. Yeah, that is correct. I
+do have to say though that even with his godhood, I
+
+8
+00:01:02,620 --> 00:01:08,980
+think this is a mismatch, probably as big of a one
+that was Rey vs. Havoc. Because Mary Marvel has all
+
+9
+00:01:08,980 --> 00:01:15,580
+of the powers and Hercules is just some strong
+dude. So... Isn't it going to be funny when
+
+10
+00:01:15,580 --> 00:01:19,820
+Hercules beats the shit out of Mary Marvel and then
+you're going to be like, oh I was so stupid for
+
+11
+00:01:19,820 --> 00:01:23,820
+thinking this is a mismatch? No, I don't think
+that'll be funny. It'll be funny when Hercules
+
+12
+00:01:23,820 --> 00:01:27,880
+wins. But before we get into that duel matchup
+guys, where we input their stats and run
+
+13
+00:01:27,880 --> 00:01:32,060
+simulations to see who would win in a fight, we're
+going to break down the latest comic book movie
+
+14
+00:01:32,060 --> 00:01:36,440
+news this past week, of which there was quite a bit
+because a lot of studios had their upfront
+
+15
+00:01:36,440 --> 00:01:42,100
+presentations to potential advertisers. So in
+addition to the Superman official trailer, which
+
+16
+00:01:42,100 --> 00:01:47,580
+sure, yeah that came out last week, we got the Iron
+Heart official trailer last week guys, hell yeah.
+
+17
+00:01:47,580 --> 00:01:54,720
+We also got the teaser for the upcoming Spider-Nor
+television show starring Nicholas Cage, and we
+
+18
+00:01:54,720 --> 00:01:59,380
+also learned that Kristen Ritter will be
+returning as Jessica Jones in the next season of
+
+19
+00:01:59,380 --> 00:02:05,260
+Daredevil Born Again. A lot of great Marvel news
+and some rinky-dink DC news, but excited to get
+
+20
+00:02:05,260 --> 00:02:11,800
+into it. You doing this just tells me how buttery
+you are, how good the Superman trailer was. You
+
+21
+00:02:11,800 --> 00:02:15,900
+know it and you're hard to be true. As always guys,
+we list our segment times in our episode
+
+22
+00:02:15,900 --> 00:02:19,780
+description, so feel free to check out the show
+notes if you want to skip ahead to a particular
+
+23
+00:02:19,780 --> 00:02:25,440
+topic. Our artificially intelligent duel
+simulator, AJ9K, has a quick message for our
+
+24
+00:02:25,440 --> 00:03:14,520
+listeners, so listen up. Thanks AJ9K and thanks to
+everyone who supports the podcast. Guys, be sure
+
+25
+00:03:14,520 --> 00:03:19,120
+to tune into the other shows on the DynaMic Podcast
+Network this week, including the console combat
+
+26
+00:03:19,120 --> 00:03:24,060
+podcast where hosts John and Dean simulate
+battles between popular video game characters.
+
+27
+00:03:24,060 --> 00:03:28,960
+In yesterday's episode, they speculated on who
+would win in a fight between Joel Miller from The
+
+28
+00:03:28,960 --> 00:03:34,640
+Last of Us versus Leon Kennedy from Resident Evil.
+That's going to be a good one. Over on the Max
+
+29
+00:03:34,640 --> 00:03:39,400
+Destruction podcast, hosts Scotty and Gilly, pit
+your favorite action heroes from film and
+
+30
+00:03:39,400 --> 00:03:44,100
+television against each other. They're on a brief
+season break, but they will be returning this
+
+31
+00:03:44,100 --> 00:03:49,060
+June. On the Senjoh  World podcast, host Zachary
+Hepburn speculates on fights between fan
+
+32
+00:03:49,060 --> 00:03:53,680
+favorite anime and manga characters. On
+Thursday, Zach is going to reveal who would win in a
+
+33
+00:03:53,680 --> 00:03:59,540
+fight between Sunraku from Shingra La Frontier
+versus Kirito from Sword Art Online. He's finally
+
+34
+00:03:59,540 --> 00:04:03,920
+feeling better guys, he got the cast off, so we're
+glad that he's back with us. Visit
+
+35
+00:04:03,920 --> 00:04:09,820
+dynamicpodcasts.com or click the link in our show
+notes to listen to all of the shows in the Dynamite
+
+36
+00:04:09,820 --> 00:04:17,779
+Podcast Network. But with that out of the way?
+Quick to the No Prize! A No Prize is an award that
+
+37
+00:04:17,779 --> 00:04:23,540
+Marvel used to give out to fans. Our version, the
+Dynamic Dual No Prize, is a digital award that we
+
+38
+00:04:23,540 --> 00:04:29,240
+post on Instagram for the person that we feel gave
+the best answer to our question of the week. Last
+
+39
+00:04:29,240 --> 00:04:35,680
+week we asked you guys, cast any Saturday Night
+Live actor as a Marvel or DC superhero, who would
+
+40
+00:04:35,680 --> 00:04:40,500
+you cast and why? And this is coming off of the news
+that Tim Meadows is going to have a role in the
+
+41
+00:04:40,500 --> 00:04:45,460
+upcoming Peacemaker season 2. We got quite a
+number of answers, so we're going to break down
+
+42
+00:04:45,460 --> 00:04:50,680
+this week's 3 honorable mentions before
+revealing the No Prize winner. Our first
+
+43
+00:04:50,680 --> 00:04:55,960
+honorable mention goes to... by Dear Bangura and
+Cyrus Moore. They both gave the same answer so
+
+44
+00:04:55,960 --> 00:05:31,520
+they're sharing an honorable mention. They
+said... I think it'd be pretty interesting. Yeah,
+
+45
+00:05:31,520 --> 00:05:37,660
+Andy Sandberg is one of the all-time Saturday
+Night Live greats in my opinion. I love the Lonely
+
+46
+00:05:37,660 --> 00:05:42,640
+Island and what they did with their digital
+shorts. I think he would totally kill it as Booster
+
+47
+00:05:42,640 --> 00:05:48,420
+Gold. He may not have the physique to play a
+superhero, but I don't think you really need that
+
+48
+00:05:48,420 --> 00:05:53,320
+when you're playing a comedic character like
+Booster Gold who has this high-tech weaponry. It
+
+49
+00:05:53,320 --> 00:05:58,520
+could work. It could totally work. And you know
+what? Have your Metacony play Ted Corden, Blue
+
+50
+00:05:58,520 --> 00:06:03,520
+Beetle. I could see that working. I could also see
+Jason Sudeikis in the role of Ted Corden, Blue
+
+51
+00:06:03,520 --> 00:06:07,660
+Beetle, since he's been a fancast as that
+character for a while. But you know, both Jason
+
+52
+00:06:07,660 --> 00:06:12,620
+Sudeikis and Andy Sandberg were on SNL at the same
+time. You're talking about Andy Sandberg's
+
+53
+00:06:12,620 --> 00:06:17,400
+physique, but he actually had a pretty good
+physique in the movie Popstar and in Brooklyn
+
+54
+00:06:17,400 --> 00:06:22,000
+Nine-Nine. I think Brooklyn Nine-Nine was a great
+show. He really proved himself as a leading man for
+
+55
+00:06:22,000 --> 00:06:27,860
+a sitcom series like that. And since we know that
+Booster Gold is going to be a TV show set in the DCU, I
+
+56
+00:06:27,860 --> 00:06:32,840
+think Andy Sandberg could totally carry that.
+He'd be fantastic. Great answer by Dyr and Cyrus.
+
+57
+00:06:32,840 --> 00:06:38,680
+Our next honorable mention goes to Travis
+Herndon. Who said? What's our dynamic news?
+
+58
+00:06:38,680 --> 00:06:44,320
+Travis here. Shout out to Manevele Twin. So my
+answer would be Kenan Thompson as Night Thrasher.
+
+59
+00:06:44,320 --> 00:06:50,580
+I think he would be an interesting character for
+him to play, especially if you go to comedic route
+
+60
+00:06:50,580 --> 00:06:55,640
+with him. Kind of like making him Marvel's
+equivalent of kickass or vigilante from
+
+61
+00:06:55,640 --> 00:07:00,040
+Peacemaker. I think Kenan Thompson could pull it
+off and you know, you can maybe have him like a
+
+62
+00:07:00,040 --> 00:07:06,480
+season two of She-Hulk or something as like this
+goofy vigilante or something being sued. I love
+
+63
+00:07:06,480 --> 00:07:11,480
+this idea. At first I wasn't quite sold on the idea
+of Kenan Thompson playing a superhero when I was
+
+64
+00:07:11,480 --> 00:07:16,080
+first listening to Travis's answer. But then when
+he pitched the idea of making it kind of like
+
+65
+00:07:16,080 --> 00:07:22,340
+kickass or vigilante from Peacemaker, I was
+instantly sold. I was like, that's exactly how
+
+66
+00:07:22,340 --> 00:07:26,640
+Kenan should approach this character of Night
+Thrasher, who of course is one of the founding
+
+67
+00:07:26,640 --> 00:07:32,420
+members of the new Warriors team for Marvel. Yeah,
+I don't know much about Night Thrasher. Does he
+
+68
+00:07:32,420 --> 00:07:37,560
+have any powers? No, he's like a master martial
+artist. He's a street vigilante in the true sense.
+
+69
+00:07:37,560 --> 00:07:41,980
+Okay, yeah, that sounds perfect then. Night
+Thrasher will be a member of your team in our
+
+70
+00:07:41,980 --> 00:07:48,600
+upcoming Infinity, Inc. vs. New Warriors team
+duel episode, which spoiler alert is going to be
+
+71
+00:07:48,600 --> 00:07:53,580
+our next episode. So look forward to that. Great
+answer, Travis. Our final honorable mention goes
+
+72
+00:07:53,580 --> 00:08:00,540
+to Mike Williams. Who said? Hi guys, Mike Williams
+here. I don't necessarily see anyone I would cast
+
+73
+00:08:00,540 --> 00:08:09,660
+as a hero, but I see David Spade. I think he would
+make a decent arcade. The villain out of Marvel
+
+74
+00:08:09,660 --> 00:08:16,740
+who's always taunting the X-Men and Spider-Man.
+Well, that's my take. As always, make mine Marvel.
+
+75
+00:08:16,740 --> 00:08:22,180
+Thanks. We got a lot of great answers for this
+particular no prize, but this is one of the only
+
+76
+00:08:22,180 --> 00:08:27,140
+answers where as soon as I heard it, I really
+couldn't imagine anyone else in the role. If
+
+77
+00:08:27,140 --> 00:08:32,760
+Arcade ever makes live action appearance in the
+MCU as a villain for the X-Men or maybe like in a
+
+78
+00:08:32,760 --> 00:08:36,760
+special presentation since I couldn't see him
+really holding his own film as a villain, they
+
+79
+00:08:36,760 --> 00:08:42,100
+would have to cast David Spade in my opinion,
+because he would be so perfect for that. Yeah, when
+
+80
+00:08:42,100 --> 00:08:48,820
+I think of Arcade, he definitely has the voice at
+the very least of David Spade. Yeah, I guess if they
+
+81
+00:08:48,820 --> 00:08:53,020
+went in animated route, but I think he also has the
+look minus the red hair. They would just have to dye
+
+82
+00:08:53,020 --> 00:08:58,320
+David Spade's hair red. But speaking of a lot of
+great answers, we want to give a huge shout out to a
+
+83
+00:08:58,320 --> 00:09:01,560
+bunch of people who called in this past week. You
+guys came out of the woodwork and we truly
+
+84
+00:09:01,560 --> 00:09:07,480
+appreciate it. So shout out to Brian Rochester,
+who said that Chris Catan should play Slapstick. I
+
+85
+00:09:07,480 --> 00:09:12,440
+don't know if the MCU is ready for a character like
+Slapstick just yet, but Chris Catan could totally
+
+86
+00:09:12,440 --> 00:09:16,460
+do the voice for the character because I think
+you'd have to go animated for that. Carter Pitts
+
+87
+00:09:16,460 --> 00:09:22,380
+said Andy Sandbrook should play Trickster, the
+Flash villain. Colby Hinches cast a new gods film
+
+88
+00:09:22,380 --> 00:09:28,560
+with people like Mikey Day as Mr. Miracle and Billy
+Crystal as Oberon. Jose Marcial said John Mulaney
+
+89
+00:09:28,560 --> 00:09:33,700
+should play Snowflame as a cocaine joke. Although
+I don't think John Mulaney was ever part of the cast
+
+90
+00:09:33,700 --> 00:09:39,680
+officially. He was just a writer at SNL. Cat
+Stevenson cast the Avengers with SNL characters.
+
+91
+00:09:39,680 --> 00:09:44,560
+Lorenzo Valdez said Eddie Murphy should play Gus
+Gorman, who was the character that Richard Pryor
+
+92
+00:09:44,560 --> 00:09:51,180
+played in Superman 3. Travis Bailey, who gave a
+shout out to his good twin Travis Herndon, said
+
+93
+00:09:51,180 --> 00:09:56,840
+that Damon Waynes should bring his blank man
+character to either the Marvel or DC Universe. But
+
+94
+00:09:56,840 --> 00:10:25,940
+the winner of this week's No Prize is Paul Graves,
+who said... I'm really wishing that I cut that last
+
+95
+00:10:25,940 --> 00:10:32,920
+part out of his message. I can't censor the truth.
+Now, Martin Short has to be one of my favorite SNL
+
+96
+00:10:32,920 --> 00:10:40,420
+alums of all time. He and Steve Martin are one of the
+greatest all time comedy duos ever. And I could
+
+97
+00:10:40,420 --> 00:10:47,080
+totally see Martin Short playing a character to
+perfection like Mr. Misk Spitalik. Yeah, this
+
+98
+00:10:47,080 --> 00:10:51,760
+answer really stood out to me as well because once I
+heard it, I really couldn't imagine anyone else in
+
+99
+00:10:51,760 --> 00:10:54,960
+the role. Now, of course, I think it was Gilbert
+Gottfried who voiced the character in the
+
+100
+00:10:54,960 --> 00:11:00,620
+Superman cartoon series from the 90s. And he would
+have been a great Mr. Misk Spitalik too. But Martin
+
+101
+00:11:00,620 --> 00:11:06,120
+Short, I think, has the look and the personality, I
+think, to tackle a character like that. Yeah, and
+
+102
+00:11:06,120 --> 00:11:11,140
+despite him being older, he still has quite a bit of
+physicality to him too. Oh, for sure. The guy can
+
+103
+00:11:11,140 --> 00:11:16,520
+move around. He's very spry. Great answer, Paul.
+You win this week's No Prize. If you, the listener,
+
+104
+00:11:16,520 --> 00:11:20,880
+want to shot at winning your own No Prize, stay
+tuned to later on in this episode when we'll be
+
+105
+00:11:20,880 --> 00:11:32,900
+asking another question of the week. But now that
+that's done, on to the news. OK, so last week Warner
+
+106
+00:11:32,900 --> 00:11:40,600
+Brothers finally gave us the first official
+trailer for Superman, James Gunn's first DCU film
+
+107
+00:11:40,600 --> 00:11:46,320
+that's hitting theaters in mid July. Now, we've
+had a teaser trailer, which I thought was really
+
+108
+00:11:46,320 --> 00:11:52,060
+good and an extended version of that. But I feel
+like this is the first trailer we've seen where we
+
+109
+00:11:52,060 --> 00:11:58,340
+finally get to see David Corn Sweat's acting
+approach to the character. The trailer starts off
+
+110
+00:11:58,340 --> 00:12:03,580
+with Clark Kent and Lois Lane. I think in Lois'
+apartment, maybe their shared apartment,
+
+111
+00:12:03,580 --> 00:12:09,000
+they're clearly a couple. But she gets to
+interview him for the first time as Superman,
+
+112
+00:12:09,000 --> 00:12:15,220
+considering he did something fairly
+controversial and that he stopped a war abroad to
+
+113
+00:12:15,220 --> 00:12:22,560
+help save lives. And Rachel Brosnahan, as Lois
+Lane, totally kills it as a reporter. You know, she
+
+114
+00:12:22,560 --> 00:12:28,480
+definitely asks Clark the tough questions enough
+for him to get fairly upset. But it's also kind of
+
+115
+00:12:28,480 --> 00:12:34,020
+cool just to see how much character David Corn
+Sweat is going to bring to the character of Clark.
+
+116
+00:12:34,020 --> 00:12:39,960
+Just in contrast, it made me feel like Henry
+Cavill's past performance was a little bit more
+
+117
+00:12:39,960 --> 00:12:47,800
+muted and maybe a little bit more generic. Like
+this Superman seems much more like a real person.
+
+118
+00:12:47,800 --> 00:12:51,820
+Yeah, it was a really interesting start to the
+trailer. It went places I didn't think it was going
+
+119
+00:12:51,820 --> 00:12:57,840
+to go, but it seems like the film is going to speak
+to, you know, the larger issue of superhero ethics
+
+120
+00:12:57,840 --> 00:13:02,640
+and the role of Superman within modern society,
+which is not something any of the other Superman
+
+121
+00:13:02,640 --> 00:13:08,520
+films have really done. Well, I think Zack Snyder
+actually tried to approach ethics in his films.
+
+122
+00:13:08,520 --> 00:13:12,920
+But just the way this interview was set up, I feel
+like it's going to be a little bit more successful
+
+123
+00:13:12,920 --> 00:13:18,340
+in having the audience ponder these questions. I
+didn't really like the editorializing that Lois
+
+124
+00:13:18,340 --> 00:13:22,820
+Lane kind of did with her questions. It seemed just
+a little bit antagonistic, but I guess that's kind
+
+125
+00:13:22,820 --> 00:13:27,160
+of who Lois Lane is. Oh, absolutely. Yeah. And I
+mean, it looks like a lot of people are
+
+126
+00:13:27,160 --> 00:13:33,680
+antagonistic towards Superman in this trailer,
+including the US military, including Lex Luthor,
+
+127
+00:13:33,680 --> 00:13:40,020
+who has sided with the engineer apparently to
+invade the fortress of solitude, which I didn't
+
+128
+00:13:40,020 --> 00:13:45,760
+love seeing that in this trailer. I think I figured
+that it was going to happen, but this is going to be
+
+129
+00:13:45,760 --> 00:13:50,780
+the third or fourth movie now where Lex Luthor has
+broken into the fortress. Oh, yeah, there was
+
+130
+00:13:50,780 --> 00:13:56,180
+Superman 2 famously and also Superman Returns
+with Kevin Spacey's version of Lex Luthor. But
+
+131
+00:13:56,180 --> 00:14:00,880
+Nicholas Holt plays a pretty damn good Lex Luthor,
+I think. Yeah, just watching Kim perform, I have to
+
+132
+00:14:00,880 --> 00:14:06,240
+feel like his acting is coming from a very real
+place of him just missing out on the role of
+
+133
+00:14:06,240 --> 00:14:11,140
+Superman because he was next in line after David
+Cornswet to get the role. So he's probably like,
+
+134
+00:14:11,140 --> 00:14:17,300
+fucking David Cornswet. The engineer looks
+interesting. She's made up entirely of like
+
+135
+00:14:17,300 --> 00:14:23,060
+nanobots and can transform her limbs and stuff
+into deadly weapons. She kind of comes across as
+
+136
+00:14:23,060 --> 00:14:28,360
+like the Faiora of this movie. But we also get to see
+like Miss Tess Mocker, like doing a selfie with
+
+137
+00:14:28,360 --> 00:14:33,580
+Superman fighting a monster in the background. We
+get to see a lot of supporting cast, including Ma
+
+138
+00:14:33,580 --> 00:14:38,820
+and Pod Kent. Actually, Pod Kent, Jonathan Kent
+get some voiceover in this trailer, which is kind
+
+139
+00:14:38,820 --> 00:14:44,540
+of cool. They're very, very like Kansas farm
+couple. Like more so, I feel like than any other
+
+140
+00:14:44,540 --> 00:14:48,940
+depiction of them that we've seen on screen. For
+sure. Yeah, I liked how human they were presented
+
+141
+00:14:48,940 --> 00:14:54,300
+where Ma Kent was like, I cleaned your boots. I'll
+go get them. It was funny. Of course, we also get to
+
+142
+00:14:54,300 --> 00:15:01,140
+see the Justice League in this trailer with Green
+Lantern, Hawk Girl, Mr. Terrific. And we get to see
+
+143
+00:15:01,140 --> 00:15:05,180
+them display some of their powers like Green
+Lantern kind of flicking some soldiers with a
+
+144
+00:15:05,180 --> 00:15:10,720
+giant green hand. And we also get to see
+Metamorpho, who looks like is caged with Superman
+
+145
+00:15:10,720 --> 00:15:16,980
+in this like glass prison. And he's keeping him
+there by turning his hand into Kryptonite, which
+
+146
+00:15:16,980 --> 00:15:22,140
+is pretty wild. Yeah, Metamorpho is a good guy,
+though. So Lex Luthor must be manipulating him in
+
+147
+00:15:22,140 --> 00:15:25,960
+order to create that Kryptonite. Yeah, it kind of
+looks that way. Maybe by the end of this,
+
+148
+00:15:25,960 --> 00:15:31,120
+Metamorpho will join the Justice League. We also
+get to see Ultraman in this trailer. I think that's
+
+149
+00:15:31,120 --> 00:15:36,720
+Ultraman. People keep calling him Ultraman. I'm
+still not 100 percent sure if that's the actual
+
+150
+00:15:36,720 --> 00:15:43,840
+Ultraman, you know, from Earth 3 or if that's like
+Lex's battle suit or what it is. No idea. There's
+
+151
+00:15:43,840 --> 00:15:48,680
+still a lot to the story that I feel like we don't
+know anything about yet. Well, speaking of battle
+
+152
+00:15:48,680 --> 00:15:54,820
+suits, Superman fights another guy wearing a like
+juggernaut almost ask battle suit in this
+
+153
+00:15:54,820 --> 00:15:59,560
+trailer. Yeah, one that has heat vision. Yeah. Is
+that Lex Luthor's battle suit? Is it someone
+
+154
+00:15:59,560 --> 00:16:04,580
+else's? No idea. But he also fights a Kaiju. I feel
+like Superman is just going up against everybody
+
+155
+00:16:04,580 --> 00:16:10,780
+in this movie. Oh, yeah. Yeah, this movie is going
+to be all over the place, I feel like, which I'm kind
+
+156
+00:16:10,780 --> 00:16:16,020
+of concerned about, but we'll see how James Gunn
+handles it. I didn't love the way the trailer ended
+
+157
+00:16:16,020 --> 00:16:21,080
+with the end joke with, oh, you have a dog and then
+there's crypto. It's cute, but it's also
+
+158
+00:16:21,080 --> 00:16:28,120
+Marvel-esque to me. Like, I don't need that kind of
+end stinger joke in my DC trailers. Well, DC is just
+
+159
+00:16:28,120 --> 00:16:32,460
+trying to copy a successful formula, and that is to
+say, you know, they're ripping off Marvel. Just
+
+160
+00:16:32,460 --> 00:16:38,780
+give me more epicness. All right. I don't need the
+jokes. I need the epicness. And it looks like this
+
+161
+00:16:38,780 --> 00:16:45,020
+movie is going to be pretty epic. It comes out in
+July 11th. Can't wait to see it. Super stoked. Way
+
+162
+00:16:45,020 --> 00:16:50,000
+more stoked for this than some shit show like Iron
+Heart is probably going to be. Why are you dissing
+
+163
+00:16:50,000 --> 00:16:55,360
+on Iron Heart? Because they released the trailer
+the same day that Warner Brothers released the
+
+164
+00:16:55,360 --> 00:17:01,920
+Superman trailer, knowing that it was going to
+just get buried. Like, who does that? All I know is
+
+165
+00:17:01,920 --> 00:17:06,480
+that it looks like people are hyped for the Iron
+Heart trailer, and I would consider myself one of
+
+166
+00:17:06,480 --> 00:17:11,720
+them. But let's talk about it. So the trailer
+starts off really hammering home that the series
+
+167
+00:17:11,720 --> 00:17:16,660
+is executive produced by Ryan Coogler, who, of
+course, directed the Black Panther films. With
+
+168
+00:17:16,660 --> 00:17:20,940
+the latter film in the series actually debuting
+the character of Riri Williams, where she goes to
+
+169
+00:17:20,940 --> 00:17:27,099
+Wakanda and builds the Iron Heart suit of armor. Of
+course, she doesn't get to take it back with her. So
+
+170
+00:17:27,099 --> 00:17:33,280
+this Iron Heart series, I think, is her trying to
+rebuild and improve upon her designs. She goes
+
+171
+00:17:33,280 --> 00:17:38,500
+into this elevator in the trailer where it
+suddenly starts filling up with gas. And we hear
+
+172
+00:17:38,500 --> 00:17:43,760
+from the hood who's played by Anthony Ramos that
+this is an interview pitch to see if she can get out
+
+173
+00:17:43,760 --> 00:17:50,440
+of this deadly trap. The way she gets out of it is a
+little strange because instead of disarming the
+
+174
+00:17:50,440 --> 00:17:56,000
+gas bomb and putting on the gas mask, she, I guess,
+stops the elevator. Man handles one of the handles
+
+175
+00:17:56,000 --> 00:18:01,580
+off of the side of the elevator and then uses it as
+leverage to pry open the elevator door, which
+
+176
+00:18:01,580 --> 00:18:06,180
+seemed a little low-tech from my perspective. You
+would think that she would do something a little
+
+177
+00:18:06,180 --> 00:18:10,960
+bit more crazy, like, I don't know, turn the
+elevator into a jet that shoots out of the building
+
+178
+00:18:10,960 --> 00:18:14,500
+or something. I don't know. That's just off the top
+of my head. I don't know if that's a good example.
+
+179
+00:18:14,500 --> 00:18:20,820
+But manhandling the doors open was not that
+impressive to me in terms of a tech solution. Yeah,
+
+180
+00:18:20,820 --> 00:18:27,440
+it literally wasn't a tech solution unless you're
+going back to caveman tech. But they called her a
+
+181
+00:18:27,440 --> 00:18:32,520
+genius for her actions there. I guess she passes
+her interview by performing these actions. It did
+
+182
+00:18:32,520 --> 00:18:36,940
+take some out-of-the-box thinking, which can
+definitely be considered genius inventive
+
+183
+00:18:36,940 --> 00:18:42,220
+thinking. You know, she's going to MIT. We see her
+working on New Iron Man armor. She says she wants to
+
+184
+00:18:42,220 --> 00:18:46,860
+build something iconic, which was a little bit of a
+strange adjective to me because I think to be
+
+185
+00:18:46,860 --> 00:18:51,480
+iconic, you know, you're building something that
+is a symbol, but it also implies a sort of
+
+186
+00:18:51,480 --> 00:18:56,920
+originality. But we know that the Iron Heart armor
+is heavily inspired by the Iron Man armor. I
+
+187
+00:18:56,920 --> 00:19:05,780
+thought the same exact thing. To me, an icon is set
+apart from everything else and really is a legacy
+
+188
+00:19:05,780 --> 00:19:11,600
+character for Iron Man. Right, yeah. She takes on
+Tony Stark's legacy and I hope they address that in
+
+189
+00:19:11,600 --> 00:19:17,360
+this series. I think to not bring up Tony Stark at
+all would be a mistake. And what was really
+
+190
+00:19:17,360 --> 00:19:22,500
+interesting is that in the comic books, Tony
+Stark's consciousness depicted as an AI hologram
+
+191
+00:19:22,500 --> 00:19:27,600
+really served as a mentor for Riri as she was
+building the suit of armor. They kind of became
+
+192
+00:19:27,600 --> 00:19:32,860
+like colleagues in a sense in that way, which was
+really nice. I think that's what fans want and
+
+193
+00:19:32,860 --> 00:19:37,300
+expect from this series. And my concern is that
+they're not going to address Tony Stark's legacy
+
+194
+00:19:37,300 --> 00:19:42,680
+at all. I mean, eventually Riri becomes her own
+character, but we don't want to lose sight of that
+
+195
+00:19:42,680 --> 00:19:48,260
+legacy, I think. From the previous look at this
+show that we got, I think last year at D23, we
+
+196
+00:19:48,260 --> 00:19:54,060
+learned that the series is taking on kind of like a
+set it off type plot where Riri temporarily
+
+197
+00:19:54,060 --> 00:19:59,020
+becomes a thief in order to get the money to fund her
+work, building the Iron Heart armor. Therefore,
+
+198
+00:19:59,020 --> 00:20:03,820
+she partners with Parker Robbins, a.k .a. the
+hood. Who seems pretty cool in this trailer too? We
+
+199
+00:20:03,820 --> 00:20:09,300
+see that he can bend his magic bullets like he can in
+the comic books. The source of his powers are magic
+
+200
+00:20:09,300 --> 00:20:14,980
+based in nature. He gets the hood from Mephisto and
+rumors are that Mephisto will be making an
+
+201
+00:20:14,980 --> 00:20:19,240
+appearance in this series, which is interesting
+because we'll get that magic versus technology
+
+202
+00:20:19,240 --> 00:20:24,800
+angle here. There was one shot that I thought was
+pretty cool, if not a bit derivative, where it
+
+203
+00:20:24,800 --> 00:20:30,680
+looks like Riri is going to get run over by a semi
+truck and the armor comes to save her. And then she
+
+204
+00:20:30,680 --> 00:20:35,220
+does like a superhero landing and punches the
+truck over her. We've seen that a lot in these
+
+205
+00:20:35,220 --> 00:20:40,740
+superhero shows. So it wasn't that original to see
+it again. I'm really hoping that they take this
+
+206
+00:20:40,740 --> 00:20:45,540
+series in a direction to make it worth the
+investment that Marvel Studios has put into it.
+
+207
+00:20:45,540 --> 00:20:49,660
+Because I don't know if there's a whole lot of
+demand for this series, but if it's good, then I
+
+208
+00:20:49,660 --> 00:20:53,620
+don't think people will care that there wasn't a
+lot of demand. Very true. And you've mentioned the
+
+209
+00:20:53,620 --> 00:20:58,000
+investment that Marvel has put into this and it
+does look like they put quite a bit of money. The
+
+210
+00:20:58,000 --> 00:21:02,740
+show looks really good, I would say. I don't mean
+just the special effects, but just the
+
+211
+00:21:02,740 --> 00:21:07,940
+cinematography alone. Yeah, it's very
+cinematic. The end stinger after the title card,
+
+212
+00:21:07,940 --> 00:21:14,520
+we see Riri go into some guy's bunker. The
+character is Joe McGillicuddy, who is an original
+
+213
+00:21:14,520 --> 00:21:19,120
+character to this series. I don't remember that
+name from the comic books. And I didn't even know
+
+214
+00:21:19,120 --> 00:21:23,940
+that Alden Ehrenreich was going to be in this show.
+So it was pretty interesting that he shows up.
+
+215
+00:21:23,940 --> 00:21:29,740
+Yeah, I almost wonder if he's like a stand in for
+Tony Stark as that kind of mentor type figure.
+
+216
+00:21:29,740 --> 00:21:34,540
+Maybe. He does have like guided missiles in his
+bunker or something like that. So he might be some
+
+217
+00:21:34,540 --> 00:21:40,660
+kind of weapons designer like Tony Stark was.
+We'll see. The show comes out in about a month. The
+
+218
+00:21:40,660 --> 00:21:44,960
+first three episodes are going to launch on June
+24th on Disney Plus. And then we're going to get the
+
+219
+00:21:44,960 --> 00:21:49,420
+remaining three episodes in the weeks after that.
+It is surprising that they're debuting the show
+
+220
+00:21:49,420 --> 00:21:54,180
+with like the first half of the entire season. I'm
+really looking forward to the show. I hope it's
+
+221
+00:21:54,180 --> 00:22:00,340
+good. All I know is that the trailer was better than
+the Superman trailer. And all I know is that you
+
+222
+00:22:00,340 --> 00:22:10,420
+know that you are lying to yourself. But that
+brings us to our question of the week. Who had the
+
+223
+00:22:10,420 --> 00:22:17,620
+better official trailer last week? Superman or
+Ironheart? Obviously the answer is Ironheart,
+
+224
+00:22:17,620 --> 00:22:23,420
+Team Marvel, step up, call in with your answer. Let
+us know why Superman is no good. Record your answer
+
+225
+00:22:23,420 --> 00:22:27,620
+at dynamicduel.com by clicking on the red
+microphone button in the bottom right hand corner
+
+226
+00:22:27,620 --> 00:22:32,460
+of the screen. Which will prompt you to leave us a
+voicemail. Your message could be up to 30 seconds
+
+227
+00:22:32,460 --> 00:22:37,140
+long. And don't forget to leave your name in case we
+include you on the podcast. We'll pick our
+
+228
+00:22:37,140 --> 00:22:42,780
+favorite answer and award that person a dynamic
+duel no prize that we'll post to Instagram. Be sure
+
+229
+00:22:42,780 --> 00:22:49,900
+to answer before May 24th. Speaking of Marvel
+trailers, we got the first official teaser for
+
+230
+00:22:49,900 --> 00:22:56,380
+Spider Noir, which is a series that's going to
+debut on Amazon Prime and stars Nicholas Cage as
+
+231
+00:22:56,380 --> 00:23:01,540
+Spider-Man. The Noir version of Spider-Man as he
+was depicted in the Spider-Man into the
+
+232
+00:23:01,540 --> 00:23:06,860
+Spider-Verse animated movie. Now it's strange is
+that this hasn't officially been released by
+
+233
+00:23:06,860 --> 00:23:11,560
+Amazon. Like it's not under official YouTube
+channel or anything like that, which I thought was
+
+234
+00:23:11,560 --> 00:23:17,000
+strange. Yeah, the trailer was debuted during
+their upfront presentation. And I don't know if it
+
+235
+00:23:17,000 --> 00:23:20,720
+was supposed to be publicly released, although
+the version that some channels have put out looks
+
+236
+00:23:20,720 --> 00:23:26,460
+pretty official. It's pretty damn cool looking.
+It's giving Sin City vibes. Oh, yeah. That's the
+
+237
+00:23:26,460 --> 00:23:31,940
+first thing I thought when I saw this and I was
+instantly sold. Like these 30 seconds to me are way
+
+238
+00:23:31,940 --> 00:23:37,460
+better than the entire Iron Heart trailer. In the
+trailer, we hear a guy talking about how this
+
+239
+00:23:37,460 --> 00:23:43,440
+version of New York, I think it is, needs a hero. And
+we hear Nick Cage say, well, I hope it finds one.
+
+240
+00:23:43,440 --> 00:23:47,840
+There's a spider that crawls by his foot and it
+looks like we see his spider sense tingling at one
+
+241
+00:23:47,840 --> 00:23:53,660
+point. It also crawls on his hand and we see him beat
+the shit out of some bad guys. The camera work is
+
+242
+00:23:53,660 --> 00:23:58,580
+really damn interesting, especially for a noir
+project like this, because the camera is very
+
+243
+00:23:58,580 --> 00:24:04,400
+dynamic. We see Spider-Man flipping on walls and
+sliding across the floor. And there's one part
+
+244
+00:24:04,400 --> 00:24:10,840
+where he's hiding behind a bad guy and he clicks his
+goggles on, which glow kind of like headlamps,
+
+245
+00:24:10,840 --> 00:24:16,600
+which I think makes for a really damn cool visual.
+Yeah, it looks badass. And we really haven't seen
+
+246
+00:24:16,600 --> 00:24:23,380
+this kind of style of filmmaking since Sin City and
+Frank Miller's The Spirit, although I never
+
+247
+00:24:23,380 --> 00:24:29,240
+really watched that. That was a horrible movie.
+I've heard. But I mean, it looks really cool. So I'm
+
+248
+00:24:29,240 --> 00:24:34,340
+glad to see that it's being used once again for this
+because this feels like it's the perfect project
+
+249
+00:24:34,340 --> 00:24:39,660
+for that style. It kind of looks like a great mix of
+Spider-Man and Batman. I'm actually surprised
+
+250
+00:24:39,660 --> 00:24:45,140
+that DC has never thought to produce a noir series
+with Batman like this. Well, Amazon Prime
+
+251
+00:24:45,140 --> 00:24:50,800
+actually does a noir style version of Batman
+already in Batman Caped Crusader, the animated
+
+252
+00:24:50,800 --> 00:24:56,380
+series produced by Bruce Tim. If they ever did that
+in live action, I think they could totally do a
+
+253
+00:24:56,380 --> 00:25:00,600
+similar style to this. Absolutely, yeah. That
+would be cool. I think one of the coolest things
+
+254
+00:25:00,600 --> 00:25:04,640
+about this teaser was the title card for
+Spider-Nor. I really like the font that they
+
+255
+00:25:04,640 --> 00:25:11,540
+chose. It's very noir looking. Yeah, it's like an
+art deco kind of style, but it's wonky. Yeah, the
+
+256
+00:25:11,540 --> 00:25:15,640
+font weight is shifted over. That gives us some
+interesting character. And it's all set in
+
+257
+00:25:15,640 --> 00:25:20,220
+shadow, too. It's really cool looking, real
+atmospheric. We learned that the show is coming
+
+258
+00:25:20,220 --> 00:25:26,620
+next year in 2026. So I'm really looking forward to
+that. Speaking of the upfront presentations by
+
+259
+00:25:26,620 --> 00:25:31,880
+Studios, we learned this past week from Marvel
+that Kristen Ritter will be joining the cast of
+
+260
+00:25:31,880 --> 00:25:38,360
+Daredevil Born Again Season 2, reprising her role
+as Jessica Jones. Which means that since
+
+261
+00:25:38,360 --> 00:25:44,680
+Daredevil Born Again took on the continuity of the
+Netflix Daredevil series and that version of
+
+262
+00:25:44,680 --> 00:25:49,260
+Daredevil and Jessica Jones teamed up in The
+Defenders, that means that the Jessica Jones
+
+263
+00:25:49,260 --> 00:25:54,880
+series is also part of the MCU continuity and we'll
+get to see that character return with all of that
+
+264
+00:25:54,880 --> 00:25:59,220
+established backstory. So these characters
+won't be meeting each other for the first time in
+
+265
+00:25:59,220 --> 00:26:04,320
+season 2. They'll be meeting again and maybe
+that'll even lead to a reformation of The
+
+266
+00:26:04,320 --> 00:26:09,960
+Defenders. But hopefully without Finn Jones. Or
+he could come back and pass on the mantle of Iron
+
+267
+00:26:09,960 --> 00:26:14,900
+Fist onto a character like Lin Lee, the Sword
+Master, or something like that and establish that
+
+268
+00:26:14,900 --> 00:26:19,480
+Iron Fist legacy. I think that would be a cool way to
+use him if he came back. But it would make sense for
+
+269
+00:26:19,480 --> 00:26:25,100
+some heroes to show up in season 2 since we know that
+at the end of season 1, Daredevil is putting
+
+270
+00:26:25,100 --> 00:26:30,340
+together basically a team to go up against the
+Kingpin, who's the mayor of New York. Yeah, I have
+
+271
+00:26:30,340 --> 00:26:35,120
+trouble seeing how Kingpin is going to stand a
+chance against a group of superpowered
+
+272
+00:26:35,120 --> 00:26:41,000
+vigilantes like Jessica Jones and The Other
+Defenders, unless Kingpin himself starts to hire
+
+273
+00:26:41,000 --> 00:26:46,360
+out superpowered individuals, which will be
+pretty cool. That would be pretty cool. I'd like to
+
+274
+00:26:46,360 --> 00:26:50,980
+see that. There's a lot of speculation to be had
+here. I really hope they bring back Mike Coulter as
+
+275
+00:26:50,980 --> 00:26:55,660
+Luke Cage and then bring on some other street
+heroes like Moon Knight or something like that.
+
+276
+00:26:55,660 --> 00:27:00,000
+Bring in Oscar Isaac and stuff like that. Who
+knows? The sky's the limit. If Kristen Ritter is
+
+277
+00:27:00,000 --> 00:27:04,860
+coming back as Jessica Jones, who knows who else we
+might see. We don't know the specific date, but
+
+278
+00:27:04,860 --> 00:27:10,660
+it's been said that the season is going to debut in
+March of 2026, so a year after the first season came
+
+279
+00:27:10,660 --> 00:27:15,720
+out. If you guys listen to this show a lot, you'll
+know that we rated Daredevil born again season 1, 4
+
+280
+00:27:15,720 --> 00:27:30,720
+stars out of 5, so I'm really looking forward to
+season 2. The Dark Knight's definitive DC comic
+
+281
+00:27:30,720 --> 00:27:52,160
+stories adapted directly for audio for the very
+first time. New episodes every Wednesday,
+
+282
+00:27:52,160 --> 00:27:59,460
+wherever you get your podcasts. But that does it
+for all the news for this episode, so let's go ahead
+
+283
+00:27:59,460 --> 00:28:04,040
+and move into our main event, where we find out who
+would win in a fight between the Greek God-powered
+
+284
+00:28:04,040 --> 00:28:25,340
+characters of Mary Marvel and Hercules. Alright,
+Mary Marvel vs. Hercules. Now, we decided to do
+
+285
+00:28:25,340 --> 00:28:30,380
+this episode because Hercules is a big-time
+Avengers character in the comic books. He's the
+
+286
+00:28:30,380 --> 00:28:34,680
+most known for being a part of that team, as well as
+the champions. But, you know, he's a prominent
+
+287
+00:28:34,680 --> 00:28:39,720
+Marvel character who's fought alongside of a lot
+of other Marvel characters. So we wanted to give
+
+288
+00:28:39,720 --> 00:28:44,860
+him his due. He did make an appearance at the end of
+the Thor 11 Thunder movie played by Brett
+
+289
+00:28:44,860 --> 00:28:49,340
+Goldstein. Who knows if we're going to see that guy
+again? But I really hope we do because he's an
+
+290
+00:28:49,340 --> 00:28:53,560
+awesome character, and all he knows is that he's
+going to beat the crap out of Mary Marvel. People
+
+291
+00:28:53,560 --> 00:28:59,980
+say this. I don't know why they're smoking crack.
+Because there's no way that's happening. People?
+
+292
+00:28:59,980 --> 00:29:04,920
+What people? Everyone who's claiming that
+Hercules is going to beat Mary Marvel. He's
+
+293
+00:29:04,920 --> 00:29:12,080
+strong, and that's it. I'm pretty sure. I've seen
+the Disney movie. That's all he does. Now, Mary
+
+294
+00:29:12,080 --> 00:29:17,040
+Marvel, of course, is the sister of Shazam,
+initially his twin sister, and later on his
+
+295
+00:29:17,040 --> 00:29:22,480
+adoptive sister. But we have seen her on screen,
+just like Hercules, of course, played by Grace
+
+296
+00:29:22,480 --> 00:29:28,380
+Caroline Curry in the Shazam films. If she's such a
+great DC character, then why is she named after
+
+297
+00:29:28,380 --> 00:29:34,500
+Marvel? Because the original Captain Marvel did
+not belong to Marvel, it belonged to Fawcett
+
+298
+00:29:34,500 --> 00:29:41,780
+Comics, who was bought by DC. Mary Marvel has gone
+through a few name changes throughout the years,
+
+299
+00:29:41,780 --> 00:29:47,940
+especially since the new 52 relaunch of DC
+continuity, like Lady Shazam. But they didn't
+
+300
+00:29:47,940 --> 00:29:52,380
+quite stick. It's because everybody knows that
+Marvel's better. I'm just going to say that. And
+
+301
+00:29:52,380 --> 00:29:57,080
+Mary Marvel's going to learn that today. But to
+explain the methodology behind our duels, let's
+
+302
+00:29:57,080 --> 00:30:02,600
+go to our sentient dual simulator, Alfred Jarvis
+9000. AJ9K tell our listeners how you go about
+
+303
+00:30:02,600 --> 00:30:25,840
+determining your winner in our dual matchups.
+There are many variables that can occur during
+
+304
+00:30:25,840 --> 00:30:30,780
+battle. The stat parameters are based on the
+official Marvel power grid from which the DC
+
+305
+00:30:30,780 --> 00:30:35,420
+characters statistics are extrapolated.
+Additional stat categories are included such as
+
+306
+00:30:35,420 --> 00:30:40,940
+range, damage potential, versatility and
+perception in order to create a more detailed and
+
+307
+00:30:40,940 --> 00:30:46,300
+accurate simulation. The results of the 1000
+simulations provide a percentage of wins for each
+
+308
+00:30:46,300 --> 00:30:50,880
+character. The contestant with the higher
+percentage is declared the victor as they have a
+
+309
+00:30:50,880 --> 00:30:56,180
+higher probability to win any given battle. In an
+equitable pairing, neither character should win
+
+310
+00:30:56,180 --> 00:31:01,500
+100% of the matches. The comic book stories have
+shown that there's even a way for Batman to defeat
+
+311
+00:31:01,500 --> 00:31:05,980
+Superman, so the confidence rate of my method
+falls in line with the precedents that have been
+
+312
+00:31:05,980 --> 00:31:09,820
+established in the source material. My
+mathematical simulations are without
+
+313
+00:31:09,820 --> 00:31:15,400
+subjectivity or bias. Feats are not the sole
+consideration, nor are fan votes tabulated for
+
+314
+00:31:15,400 --> 00:31:21,160
+determination of the winner. Thanks, A.J .9K!
+Before we run the simulations though, we'd like to
+
+315
+00:31:21,160 --> 00:31:26,220
+break down each character's histories and
+abilities before improvising a scenario on how we
+
+316
+00:31:26,220 --> 00:31:32,240
+imagine one of the 1000 simulations would play out
+beat for beat. And it's my turn to go first with the
+
+317
+00:31:32,240 --> 00:31:38,420
+DC characters' backstory, so let me tell you all
+about Mary Marvel. Now, Mary Batson was the twin
+
+318
+00:31:38,420 --> 00:31:45,980
+sister of Billy Batson, born to archaeologists
+C.C. and Marilyn Batson. While Billy remained in
+
+319
+00:31:45,980 --> 00:31:52,220
+the United States, Mary accompanied her parents
+on an archaeological expedition to Egypt, funded
+
+320
+00:31:52,220 --> 00:31:59,240
+by the villainous scientist Thaddeus Savanna.
+There, Theo Adam murdered the elder Batson's and
+
+321
+00:31:59,240 --> 00:32:05,820
+kidnapped Mary, leaving her in the care of his
+sister, Sarah Prim, back in America, where it was
+
+322
+00:32:05,820 --> 00:32:13,680
+arranged for Mary to be illegally adopted by Nick
+and Nora Bromfield. Renamed Mary Bromfield, she
+
+323
+00:32:13,680 --> 00:32:19,320
+grew up in a wealthy, idealic environment unaware
+of her true origins, though she was haunted by
+
+324
+00:32:19,320 --> 00:32:24,660
+reoccurring dreams of a brother she had
+forgotten. Meanwhile, Billy grew up in foster
+
+325
+00:32:24,660 --> 00:32:29,680
+care and on the streets before being granted the
+power of the wizard Shazam, allowing him to
+
+326
+00:32:29,680 --> 00:32:37,040
+transform into the hero formerly known as Captain
+Marvel and better known simply as Shazam. You can
+
+327
+00:32:37,040 --> 00:32:43,100
+learn more about him in our Shazam vs Black Bolt
+dual episode. Billy and the wizard searched for
+
+328
+00:32:43,100 --> 00:32:48,720
+Mary for years without success, with Billy's only
+clue to her identity and whereabouts being her
+
+329
+00:32:48,720 --> 00:32:55,160
+favorite toy, a tiger doll named Takitani that had
+been sent back from Egypt with the Batson's
+
+330
+00:32:55,160 --> 00:33:01,300
+belongings. As luck would have it, Mary entered a
+regional spelling bee in Fawcett City, where
+
+331
+00:33:01,300 --> 00:33:08,580
+Billy, now working for Wiz Radio, was the MC. After
+rescuing Mary from a kidnapping attempt as the
+
+332
+00:33:08,580 --> 00:33:14,100
+hero Shazam, Billy noticed her resemblance to his
+sister and confirmed her identity through
+
+333
+00:33:14,100 --> 00:33:20,640
+private investigation. The truth revealed Billy
+delivered the Takitani doll to Mary, who was again
+
+334
+00:33:20,640 --> 00:33:26,880
+kidnapped by the same thugs. When Mary opened the
+package and saw the doll and the papers proving her
+
+335
+00:33:26,880 --> 00:33:33,460
+identity, Takitani came to life and instructed
+her to speak the word Shazam to save her brother.
+
+336
+00:33:33,460 --> 00:33:39,580
+Upon doing so, she was struck by magical lightning
+and transformed into the divinely powered hero.
+
+337
+00:33:39,580 --> 00:33:45,620
+Mary defeated the Canepers and reunited with
+Billy, joining him as a member of the Marvel family
+
+338
+00:33:45,620 --> 00:33:51,700
+under the name Mary Marvel. Mary fought alongside
+her brother Billy and his friend Freddy Freeman,
+
+339
+00:33:51,700 --> 00:33:56,800
+the hero known as Captain Marvel Jr., against a
+variety of magical and superpowered threats in
+
+340
+00:33:56,800 --> 00:34:01,880
+the universe known as Earth Five. After the
+multiverse collapsed into one universe
+
+341
+00:34:01,880 --> 00:34:07,720
+following the crisis on Infinite Earths, Mary now
+shared her power with Billy and Freddy, resulting
+
+342
+00:34:07,720 --> 00:34:13,040
+in a sometimes tense dynamic between the three
+since the balance of magical energy shifted
+
+343
+00:34:13,040 --> 00:34:19,580
+depending on whoever invoked the magical word of
+Shazam. At one point, a disruption in the cosmic
+
+344
+00:34:19,580 --> 00:34:25,080
+balance of magic prevented the marvels from
+reverting to their mortal forms, forcing them to
+
+345
+00:34:25,080 --> 00:34:30,020
+journey to the Source Wall at the edge of the
+universe to repair the broken nature of magic
+
+346
+00:34:30,020 --> 00:34:36,000
+itself. Mary later joined the Super Buddies, a
+team of former Justice Leaguers and participated
+
+347
+00:34:36,000 --> 00:34:43,080
+in several adventures before traveling with
+Supergirl. Mary was killed by a cursed dagger in
+
+348
+00:34:43,080 --> 00:34:48,900
+the Garden of Eden but was eventually resurrected
+by one of Supergirl's allies. Following the death
+
+349
+00:34:48,900 --> 00:34:54,719
+of the wizard Shazam, Mary lost her powers,
+causing her to fall from the sky. Though she
+
+350
+00:34:54,719 --> 00:35:01,800
+survived, she fell into a coma and was cared for by
+Freddy. Upon awakening, Mary was unable to access
+
+351
+00:35:01,800 --> 00:35:08,220
+her powers. Ignoring warnings, she traveled to
+Gotham City and encountered Black Adam, who
+
+352
+00:35:08,220 --> 00:35:13,760
+transferred his power to Mary, transforming her
+into a darker version of herself with a black
+
+353
+00:35:13,760 --> 00:35:19,700
+costume and mystical power. You can learn more
+about Black Adam in our Black Adam vs. Apocalypse
+
+354
+00:35:19,700 --> 00:35:25,980
+dual episode. Seeking guidance with her newfound
+power, Mary turned to Zatanna, Clarion the
+
+355
+00:35:25,980 --> 00:35:32,820
+Witchboy, and finally Eclipse, who at the time was
+possessing Jean Maureen. Eclipse corrupted Mary
+
+356
+00:35:32,820 --> 00:35:38,580
+and attempted to offer her to Darkseid as a
+concubine, though Mary rebelled and overpowered
+
+357
+00:35:38,580 --> 00:35:44,440
+her. Realizing the corruption her new powers had
+caused, she rejected them, transferring the
+
+358
+00:35:44,440 --> 00:35:50,420
+tainted lightning into Eclipse. Both women fell
+into the ocean, but Mary washed ashore on the
+
+359
+00:35:50,420 --> 00:35:55,360
+Mosquera, where she helped expose the deception
+of Granny goodness, who had been impersonating
+
+360
+00:35:55,360 --> 00:36:00,180
+the goddess Athena to manipulate the Amazons. You
+can learn more about Granny goodness in our
+
+361
+00:36:00,180 --> 00:36:04,700
+Darkseid's Elite vs. Black Order team dual
+episode. After journeying through the
+
+362
+00:36:04,700 --> 00:36:09,600
+multiverse with the challengers of the unknown,
+Mary eventually returned to Earth to confront
+
+363
+00:36:09,600 --> 00:36:16,080
+Darkseid. Secumbing to temptation, she accepted
+the return of Black Adam's powers, adopting her
+
+364
+00:36:16,080 --> 00:36:21,900
+black costume once again. Though ultimately
+freed from Darkseid's influence by Freddy,
+
+365
+00:36:21,900 --> 00:36:27,300
+Mary's exposure to Dark magic had lasting
+consequences. After Darkseid's defeat, she
+
+366
+00:36:27,300 --> 00:36:33,820
+sought to join Black Adam, informing a new Black
+Marvel family, but was rejected. Resolving to
+
+367
+00:36:33,820 --> 00:36:40,860
+operate alone, Mary became a solo heroine for a
+time. Later, however, Black Adam enlisted Mary to
+
+368
+00:36:40,860 --> 00:36:47,280
+join him and Isis in Seizing the Rock of Eternity,
+where they stripped Billy of his power. Mary
+
+369
+00:36:47,280 --> 00:36:53,320
+forced Billy to say her name, transforming him
+into a corrupted Black Marvel. Together, Mary and
+
+370
+00:36:53,320 --> 00:36:58,860
+Billy launched an assault on the Justice Society
+of America, only to be defeated when Black Adam
+
+371
+00:36:58,860 --> 00:37:04,300
+turned against Isis. When the wizard Shazam
+resurrected, all four were stripped of their
+
+372
+00:37:04,300 --> 00:37:09,800
+power. The wizard declared Mary and Billy
+unworthy and barred them from the Rock of
+
+373
+00:37:09,800 --> 00:37:16,240
+Eternity. Homeless and powerless, the twins
+wandered the streets of Fawcett City. Mary was
+
+374
+00:37:16,240 --> 00:37:21,900
+later tempted by the demon Blaze to kill Freddy in
+exchange for restored powers, but ultimately
+
+375
+00:37:21,900 --> 00:37:27,200
+sided with her brother. Together, the three
+defeated Blaze and Freddy vowed to find a way to
+
+376
+00:37:27,200 --> 00:37:32,940
+restore their abilities. In post-Flashpoint
+continuity, Mary was no longer Billy's twin
+
+377
+00:37:32,940 --> 00:37:40,160
+sister, but an unrelated older foster sister
+named Mary Bromfield, the eldest foster child of
+
+378
+00:37:40,160 --> 00:37:46,760
+Rosa and Victor Vazquez. Having run away from an
+abuse of home, she became a maternal figure among
+
+379
+00:37:46,760 --> 00:37:53,040
+the other foster children, including Freddy
+Freeman, Darla Dudley, Pedro Pena, Eugene Choi,
+
+380
+00:37:53,040 --> 00:37:58,640
+and later Billy Batson. When Billy was granted the
+power of Shazam, he later shared his abilities
+
+381
+00:37:58,640 --> 00:38:05,260
+with the other foster siblings, transforming
+them into the family. Mary became a red-suited
+
+382
+00:38:05,260 --> 00:38:11,080
+adult version of herself gifted with the living
+lightning. Alongside her family, she fought
+
+383
+00:38:11,080 --> 00:38:16,320
+Black Adam and other magical threats across the
+Seven Magic Lands, hoping to restore her brothers
+
+384
+00:38:16,320 --> 00:38:22,400
+from the King Kid's tyranny and battling Mr. Mind
+and the Monster Society of Evil. In the aftermath
+
+385
+00:38:22,400 --> 00:38:28,300
+of these events, Mary began noticing a disturbing
+shift in Billy's personality, who, unbeknownst
+
+386
+00:38:28,300 --> 00:38:33,420
+to her, was being influenced by the Batman who
+laughs, who you could learn more about in our
+
+387
+00:38:33,420 --> 00:38:39,300
+Batman Who Laughs vs. Cosmic Ghostwriter
+episode. Billy became erratic and aggressive,
+
+388
+00:38:39,300 --> 00:38:43,860
+distancing himself from the rest of the Shazam
+family. After tracking him to a confrontation
+
+389
+00:38:43,860 --> 00:38:50,540
+with the war god Ares, Mary attempted to help Billy
+by fighting at Ares' side against her adopted
+
+390
+00:38:50,540 --> 00:38:56,380
+brother. Billy feigned remorse and tricked Mary
+into lowering her guard, using his corrupted
+
+391
+00:38:56,380 --> 00:39:02,380
+magic to infect her with the same dark influence
+that had overtaken him. Mary transformed,
+
+392
+00:39:02,380 --> 00:39:07,600
+adopting a more volatile demeanor, until the
+corrupting force lost its grip following the fall
+
+393
+00:39:07,600 --> 00:39:13,660
+of the Batman Who Laughs. The Shazam family lost
+their powers as Billy's connection to the Rock of
+
+394
+00:39:13,660 --> 00:39:19,840
+Eternity weakened. Mary visited Billy at Titans
+Academy, urging him to see Freddy, whose health
+
+395
+00:39:19,840 --> 00:39:26,160
+was deteriorating without magic. Not long after,
+Mary enrolled at Vassier College, attempting to
+
+396
+00:39:26,160 --> 00:39:31,700
+live a normal life. However, she was summoned by
+Hoppy, the magical rabbit, sent by Billy to
+
+397
+00:39:31,700 --> 00:39:39,000
+deliver a message that she was now the new champion
+of Shazam. After stopping a bank robbery as Lady
+
+398
+00:39:39,000 --> 00:39:44,340
+Shazam, Mary soon discovered her foster parents
+had gone missing. Transferring to Fawcett City
+
+399
+00:39:44,340 --> 00:39:49,000
+Community College, she began investigating a
+string of disappearances tied to mysterious
+
+400
+00:39:49,000 --> 00:39:55,380
+magical technology. Facing villains like
+Disaster Master and Babbel, Mary unraveled the
+
+401
+00:39:55,380 --> 00:40:00,220
+mystery behind the abductions, ultimately
+discovering that Georgia's Savanna, the
+
+402
+00:40:00,220 --> 00:40:05,480
+daughter of Thaddeus Savanna, was responsible.
+Mary rescued the kidnapped townspeople,
+
+403
+00:40:05,480 --> 00:40:11,220
+defeated Savanna, and fully embraced her role as
+the new champion of Shazam. It wasn't long,
+
+404
+00:40:11,220 --> 00:40:16,620
+however, that Mary sacrificed her powers during
+an attack by the goddess Hera on humanity, after
+
+405
+00:40:16,620 --> 00:40:22,560
+which one of Roman's recently deceased mother,
+Hippolyta, now ascended to Godhood, declared
+
+406
+00:40:22,560 --> 00:40:28,600
+Mary worthy of her own unique empowerment.
+Granting her the blessings of a new pantheon of
+
+407
+00:40:28,600 --> 00:40:34,960
+goddesses, Hippolyta severed Mary's dependence
+on the wizard Shazam, establishing her as a divine
+
+408
+00:40:34,960 --> 00:40:40,820
+champion in her own right. Powers-wise, Mary
+Marvel possesses the magical ability to
+
+409
+00:40:40,820 --> 00:40:46,640
+transform into a superpowered version of herself
+by saying the word Shazam. In her earlier
+
+410
+00:40:46,640 --> 00:40:52,180
+incarnations, her powers derived from the wizard
+Shazam and were shared with her siblings.
+
+411
+00:40:52,180 --> 00:40:58,020
+Currently, however, Mary has her own distinct
+powersets by a new pantheon of goddesses, the
+
+412
+00:40:58,020 --> 00:41:06,120
+agility of Selene, the strength of Hippolyta, the
+stamina of Artemis, the flight of Zephyrus, the
+
+413
+00:41:06,120 --> 00:41:12,780
+invulnerability of Aurora, and the wisdom of
+Minerva. Though she still transforms using the
+
+414
+00:41:12,780 --> 00:41:18,000
+word Shazam, she no longer bears the wizard's
+living lightning, though she could still summon
+
+415
+00:41:18,000 --> 00:41:23,520
+Zeus's Thunderbolts. That's Mary Marvel. How
+does she summon lightning if she doesn't have the
+
+416
+00:41:23,520 --> 00:41:30,940
+power of Zeus anymore? I don't know, man. She just
+does. Zeus hears her and lightning happens.
+
+417
+00:41:30,940 --> 00:41:38,020
+Actually, this list of goddesses is pretty close
+to her original list of deities, like Pre-Crisis,
+
+418
+00:41:38,020 --> 00:41:42,840
+whom she derived her powers from. Oh,
+interesting. Okay. And what is her current
+
+419
+00:41:42,840 --> 00:41:50,380
+superhero name in the comics? Mary Marvel. Okay.
+All right. I just wanted to hear that. DC's really
+
+420
+00:41:50,380 --> 00:41:55,460
+got to get over the Marvel thing, man. Like, they
+just got to accept the fact that Marvel should own
+
+421
+00:41:55,460 --> 00:42:01,160
+any superhero name pertaining to Marvel. Uh, no, I
+think we'll keep it. She was for a while called Mary
+
+422
+00:42:01,160 --> 00:42:07,720
+Shazam, and that just sounds bad. That does sound
+really bad. Well, let me tell you all about the
+
+423
+00:42:07,720 --> 00:42:14,400
+Marvel version of Hercules. Heracles
+Panhellenios was born in ancient Greece as the son
+
+424
+00:42:14,400 --> 00:42:21,380
+of a mortal woman, Alcmenna, and Zeus, king of the
+Olympian gods. Zeus seduced Alcmenna by
+
+425
+00:42:21,380 --> 00:42:27,000
+disguising himself as her husband, Amphitrion.
+Upon discovering the affair, Zeus's wife Hera
+
+426
+00:42:27,000 --> 00:42:32,880
+became wrathful and tried to kill the child. Even
+as an infant, Heracles displayed supernatural
+
+427
+00:42:32,880 --> 00:42:38,440
+strength by strangling two serpents Hera sent to
+kill him in his crib. Hoping to appease the
+
+428
+00:42:38,440 --> 00:42:44,500
+goddess, the child was named Heracles, meaning
+the glory of Hera, though it did nothing to prevent
+
+429
+00:42:44,500 --> 00:42:51,140
+her wrath. Heracles was raised by Amphitrion and
+trained in various forms of combat. As a youth, he
+
+430
+00:42:51,140 --> 00:42:56,040
+accidentally killed his music teacher and was
+sent away to learn to control his strength and
+
+431
+00:42:56,040 --> 00:43:01,780
+pursue a life of heroism. He eventually defended
+the city of Thebes from a group of minion pirates
+
+432
+00:43:01,780 --> 00:43:08,380
+and as a reward was given the hand of the princess
+Magara, daughter of King Crian. They had two
+
+433
+00:43:08,380 --> 00:43:14,600
+children and lived peacefully. Zeus, wanting
+Heracles to prove himself worthy of immortality,
+
+434
+00:43:14,600 --> 00:43:19,580
+arranged for him to serve his cousin, who
+instructed Heracles to complete a series of 12
+
+435
+00:43:19,580 --> 00:43:26,160
+impossible tasks. These would later become known
+as the 12 labors of Hercules. The first labor was to
+
+436
+00:43:26,160 --> 00:43:31,900
+slay the Nemean lion, whose hide was impervious to
+weapons. Heracles strangled the beast and wore
+
+437
+00:43:31,900 --> 00:43:37,520
+its pelt as armor. Next, he traveled to Lerno to
+face the Hydra, a multi-headed serpent that
+
+438
+00:43:37,520 --> 00:43:43,580
+regrew two heads for everyone severed. With help
+from his nephew Iolus, who cauterized the necks,
+
+439
+00:43:43,580 --> 00:43:48,800
+Heracles defeated the creature and dipped his
+arrows in its poisonous blood. Additional tasks
+
+440
+00:43:48,800 --> 00:43:54,220
+including capturing the Arimathean boar,
+hunting the sacred Serenane Hyned of Artemis, and
+
+441
+00:43:54,220 --> 00:43:59,840
+dispersing the Stemphalian birds created by
+Ares. He cleaned the Aegean stables by diverting
+
+442
+00:43:59,840 --> 00:44:05,460
+two rivers, captured the Cretan bull, stole the
+man-eating mares of Diomedes, and obtained the
+
+443
+00:44:05,460 --> 00:44:10,900
+Amazon Queen Hippolyta's Golden Girdle. He then
+slew the three-bodied Gurian to claim his red
+
+444
+00:44:10,900 --> 00:44:16,260
+cattle and tricked the Titan Atlas into helping
+him retrieve Golden Apples from the Garden of
+
+445
+00:44:16,260 --> 00:44:21,180
+Hesperides. The final labor was the most
+harrowing, descending into the underworld to
+
+446
+00:44:21,180 --> 00:44:26,860
+retrieve Cerberus, the three-headed guard dog of
+Hades. His success completing all 12 labors
+
+447
+00:44:26,860 --> 00:44:33,160
+earned him recognition from the gods, but his
+return to his home of Thebes was marked by tragedy.
+
+448
+00:44:33,160 --> 00:44:39,060
+During his absence, Thebes had been overtaken by
+an outside nobleman named Lycus, who killed King
+
+449
+00:44:39,060 --> 00:44:44,860
+Crian and condemned Megara and her children to
+death. Blood lusted and driven mad by a curse from
+
+450
+00:44:44,860 --> 00:44:52,180
+Hera, Heracles killed not only Lycus, but also his
+wife Megara and their two sons. Haunted by shame,
+
+451
+00:44:52,180 --> 00:44:58,020
+he began using the Romanized version of his name,
+Hercules, to distance himself from both Hera and
+
+452
+00:44:58,020 --> 00:45:03,620
+his past. Hercules adventured across the ancient
+world. He killed Keknos, son of Ares, who was
+
+453
+00:45:03,620 --> 00:45:08,760
+murdering travelers to construct a temple from
+their bones. When King Glamiden of Troy refused to
+
+454
+00:45:08,760 --> 00:45:13,360
+pay Hercules for saving his daughter from a sea
+monster, Hercules raised the city, killing the
+
+455
+00:45:13,360 --> 00:45:19,020
+king and all his sons saved one. He battled the
+river god Acherus for the hand of Daenerys, who
+
+456
+00:45:19,020 --> 00:45:25,000
+would become his next wife. Eventually, Hercules
+met his mortal end after Daenerys, fearing that he
+
+457
+00:45:25,000 --> 00:45:30,620
+had been unfaithful, unknowingly poisoned him
+with what she believed was a love potion. Feeling
+
+458
+00:45:30,620 --> 00:45:36,520
+sympathy for his son, Zeus separated Hercules'
+mortal body from his divine spirit and raised him
+
+459
+00:45:36,520 --> 00:45:42,180
+to Olympus as the new god of strength. Though now
+divine, Hercules retained his love for adventure
+
+460
+00:45:42,180 --> 00:45:47,960
+and he returned to earth often. He participated in
+the first Olympic games, allegedly battled
+
+461
+00:45:47,960 --> 00:45:53,220
+Vikings, and claimed an affair with Marie
+Antoinette. During World War II, he fought for the
+
+462
+00:45:53,220 --> 00:45:58,080
+Greek resistance while disguised as the
+Submariner to avoid punishment from Olympus for
+
+463
+00:45:58,080 --> 00:46:04,560
+intervening in human affairs. In the modern era,
+he emerged again and met Thor, joining him on the
+
+464
+00:46:04,560 --> 00:46:09,700
+Avengers. Deceived into signing a contract by
+Pluto, Hercules was nearly trapped in the
+
+465
+00:46:09,700 --> 00:46:14,760
+underworld again until Thor rescued him. He later
+fell under the Enchantress's spell and fought the
+
+466
+00:46:14,760 --> 00:46:19,420
+Avengers before regaining his senses. Exiled
+from Olympus for coming to earth without
+
+467
+00:46:19,420 --> 00:46:25,940
+permission, Hercules remained with the
+Avengers, battling Dragon Man, Typhon, and Ares.
+
+468
+00:46:25,940 --> 00:46:30,240
+You can learn more about the Avengers and their
+team duel against the Justice League. Hercules
+
+469
+00:46:30,240 --> 00:46:34,580
+became a founding member of another superhero
+team called the Champions, alongside Black
+
+470
+00:46:34,580 --> 00:46:40,640
+Widow, Iceman, Angel, and Goshreiter. He and
+Black Widow developed a romantic interlude.
+
+471
+00:46:40,640 --> 00:46:45,320
+Later, Hercules was beaten into a coma by the
+Masters of Evil after attempting to battle them
+
+472
+00:46:45,320 --> 00:46:51,160
+alone while intoxicated. Zeus blamed the
+Avengers for his son's coma and imprisoned them in
+
+473
+00:46:51,160 --> 00:46:56,600
+Hades, but Hercules awoke, cleared their names,
+and brokered peace. You can learn more about the
+
+474
+00:46:56,600 --> 00:47:01,500
+Masters of Evil and their team duel against the
+Hercules later helped fight the High
+
+475
+00:47:01,500 --> 00:47:06,460
+Evolutionary and Dr. Doom. He was devastated by
+the apparent deaths of the Avengers during their
+
+476
+00:47:06,460 --> 00:47:11,480
+battle with Onslaught, a psychic entity you can
+learn more about in his duel against Parallax. He
+
+477
+00:47:11,480 --> 00:47:16,840
+joined Heroes for Hire and Shield before
+rejoining the Avengers upon the Hero's return and
+
+478
+00:47:16,840 --> 00:47:21,540
+fought with the team until its dissolution at the
+hands of the Scarlet Witch, who split the team
+
+479
+00:47:21,540 --> 00:47:27,360
+apart in a fit of madness. You can learn more about
+that in the 10 versus Scarlet Witch duel episode.
+
+480
+00:47:27,360 --> 00:47:32,800
+Without his team, Hercules fell into depression,
+a moment of vulnerability exploited by Hera and
+
+481
+00:47:32,800 --> 00:47:38,740
+Eurystheus. They challenged him to complete a
+modern version of the 12 labors, this time as part
+
+482
+00:47:38,740 --> 00:47:43,240
+of a reality television show. Among his
+challenges, Hercules captured a Sabertooth
+
+483
+00:47:43,240 --> 00:47:49,200
+Tiger in the Savage Land, defeated a Hydra
+genetically created by Hydra, captured the
+
+484
+00:47:49,200 --> 00:47:55,280
+teleporting dog Lockjaw from the Blue Area of the
+Moon, fought Dragon Man, and drove Atuma's Hordes
+
+485
+00:47:55,280 --> 00:48:01,000
+from Atlantis. Later tasks involved surviving
+Red Skull's Dust of Death, defeating the
+
+486
+00:48:01,000 --> 00:48:06,920
+Abomination, capturing a monster in Hawaii,
+stealing Captain America's Shield, retrieving a
+
+487
+00:48:06,920 --> 00:48:12,300
+Doombot from Laveria, dragging a Shield
+Helicarrier by Chain, and returning to the
+
+488
+00:48:12,300 --> 00:48:18,660
+Underworld to retrieve a flower from his former
+wife, Megara. In Hades, Megara and their children
+
+489
+00:48:18,660 --> 00:48:23,480
+forgave Hercules for their murder,
+understanding Hera's role in the tragedy, and she
+
+490
+00:48:23,480 --> 00:48:27,780
+gave him a flower of love. He opposed the
+Superhuman Registration Act during the
+
+491
+00:48:27,780 --> 00:48:33,220
+superhero Civil War and joined Captain America's
+Secret Avengers. In the final battle, he
+
+492
+00:48:33,220 --> 00:48:39,280
+destroyed the Thor clone Ragnarok, claiming it
+was an insult to the real Thor. He later formed the
+
+493
+00:48:39,280 --> 00:48:46,000
+Renegades with Amadeus Cho, Namora, and others to
+aid the Hulk upon his return from being exiled by
+
+494
+00:48:46,000 --> 00:48:51,540
+some of Earth's heroes to space, empathizing with
+a fellow warrior. When the Skrulls secretly
+
+495
+00:48:51,540 --> 00:48:56,840
+invaded Earth on behalf of their alien deities,
+Hercules led a team of gods from multiple
+
+496
+00:48:56,840 --> 00:49:03,460
+pantheons called the God Squad. This included
+Snowbird, the Inuit Demigoddess, Ajek, the
+
+497
+00:49:03,460 --> 00:49:10,920
+Eternal, the Egyptian Godslayer Demigorge, and
+Mikaboshi, the Shinto God of Chaos. Together,
+
+498
+00:49:10,920 --> 00:49:17,340
+they slayed the Skrull gods, Kleibin and Sigurt.
+Eventually, Mikaboshi evolved into a new entity
+
+499
+00:49:17,340 --> 00:49:23,280
+called the Chaos King and began destroying all
+realms of the afterlife. Hercules reunited with
+
+500
+00:49:23,280 --> 00:49:28,640
+the God Squad to seal the entity away, but he
+expanded all his godly energy in the process,
+
+501
+00:49:28,640 --> 00:49:33,520
+becoming mortal. Hercules settled in Brooklyn,
+bartending at a Greek restaurant and using
+
+502
+00:49:33,520 --> 00:49:38,740
+magical weapons from his brother Aerys' armory,
+such as the Sword of Pellius and Perseus' shield.
+
+503
+00:49:38,740 --> 00:49:43,600
+During the Norse god of fear, the Serpent's
+attack, Hercules helped save Brooklyn from
+
+504
+00:49:43,600 --> 00:49:49,040
+becoming a Hellscape and became a local hero. He
+later served as a guest instructor at the Avengers
+
+505
+00:49:49,040 --> 00:49:55,100
+Academy and fought against a new pantheon of gods
+that included the God of Data and the Goddess of
+
+506
+00:49:55,100 --> 00:50:00,660
+Vanity. After defeating them, he declined to
+return to Olympus, choosing instead to live among
+
+507
+00:50:00,660 --> 00:50:05,680
+mortals. Hercules rejoined the Avengers during
+their fight against King the Conqueror and later
+
+508
+00:50:05,680 --> 00:50:10,160
+helped a new iteration of the champions,
+eventually regaining his godhood with help from
+
+509
+00:50:10,160 --> 00:50:16,060
+god particle scientist, Roshna Cole. He later
+learned Nix, the Greek goddess of night, had slain
+
+510
+00:50:16,060 --> 00:50:21,680
+most of the Olympian gods, who subsequently
+returned in a corrupted form. Hercules was
+
+511
+00:50:21,680 --> 00:50:27,680
+captured by these dark gods, but was rescued by the
+Guardians of the Galaxy. After helping that team
+
+512
+00:50:27,680 --> 00:50:32,740
+exile the dark gods, Hercules returned to Earth
+and helped the Avengers fight off a vampire
+
+513
+00:50:32,740 --> 00:50:38,180
+invasion. And that's Hercules' backstory.
+Powers-wise, Hercules, as the Greek god of
+
+514
+00:50:38,180 --> 00:50:43,980
+strength, is the physically strongest of all the
+Olympian gods, unable to lift well in excess of 100
+
+515
+00:50:43,980 --> 00:50:49,380
+tons. He is also the most durable of his pantheon,
+with his invulnerability, unable to run at speeds
+
+516
+00:50:49,380 --> 00:50:56,020
+around 100mph and leap 100 feet in the air. His
+immortality grants him limitless stamina,
+
+517
+00:50:56,020 --> 00:51:01,420
+regenerative healing, and toxin resistance. He
+is a master combatant in Greco-Roman wrestling
+
+518
+00:51:01,420 --> 00:51:08,020
+and wields a number of mythological weapons,
+including his indestructible adamantine mace
+
+519
+00:51:08,020 --> 00:51:14,260
+forged by his brother Hephaestus, the sword of
+Pellius, a curved syca forged by the centaur
+
+520
+00:51:14,260 --> 00:51:19,060
+Kyren, the shield of Perseus, which can
+temporarily turn observers to stone when the
+
+521
+00:51:19,060 --> 00:51:25,600
+shield's covers removed, and the bow of Hercules,
+with arrows dipped in hydra blood. And that is
+
+522
+00:51:25,600 --> 00:51:32,400
+Hercules. Okay, so he just carries all of these
+weapons around with him at all times? Usually when
+
+523
+00:51:32,400 --> 00:51:38,800
+I see him, he's just holding this golden hammer
+club thing. Well, modern comics, Hercules is
+
+524
+00:51:38,800 --> 00:51:43,980
+usually depicted actually with his mace and the
+sword of Pellius, but he's gone on multiple
+
+525
+00:51:43,980 --> 00:51:50,760
+adventures with the shield. Actually, I less
+commonly see him use the bow, but it's his, it's
+
+526
+00:51:50,760 --> 00:51:56,980
+named after him, it's the bow of Hercules, and
+yeah, he'll have it for this fight. Okay, cheater.
+
+527
+00:51:56,980 --> 00:52:01,080
+At the very least, he'll have the mace and the
+sword, because he almost always carries those
+
+528
+00:52:01,080 --> 00:52:06,160
+around now. They're like strapped on his back like
+an X, but we'll say that the shield covers that, and
+
+529
+00:52:06,160 --> 00:52:11,580
+then you know, the bow is just strapped to his side,
+we'll say, I don't know. Yeah, having the sword and
+
+530
+00:52:11,580 --> 00:52:18,980
+the shield and the mace and the quiver and the bow on
+his back is a lot. That's, it's probably too much,
+
+531
+00:52:18,980 --> 00:52:23,700
+you're right. I guess he won't have the bow for this
+match, since yeah, it's less commonly used, but
+
+532
+00:52:23,700 --> 00:52:53,760
+he'll at least have his sword, his shield, and his
+mace. We'll say that. Dual, where comic book
+
+533
+00:52:53,760 --> 00:52:59,480
+titans smash every Tuesday. Max destruction,
+where TV and action heroes battle every
+
+534
+00:52:59,480 --> 00:53:05,820
+Wednesday, and Sendro World, where anime
+champions clash every Thursday. Join us as we
+
+535
+00:53:05,820 --> 00:53:11,020
+speculate on the matches and armed with the power
+of mathematical simulations, discover who will
+
+536
+00:53:11,020 --> 00:53:20,760
+emerge victorious. Visit dynamicpodcast.com,
+where we settle the debate and settle the score.
+
+537
+00:53:20,760 --> 00:53:25,060
+But now that we got their histories and abilities
+out of the way, let's speculate on how one of the
+
+538
+00:53:25,060 --> 00:53:30,640
+1000 simulated matches will go. The winner is
+determined by simulations, not the speculation,
+
+539
+00:53:30,640 --> 00:53:36,080
+but it's fun to imagine how this fight could play
+out. AJ9K, what are the rules or speculation?
+
+540
+00:53:36,080 --> 00:53:40,760
+Well, I should say there are no rules other than the
+characters have no prior knowledge of the other
+
+541
+00:53:40,760 --> 00:53:45,520
+going into the fight. All they are aware of
+starting out is that the other character is a
+
+542
+00:53:45,520 --> 00:53:49,880
+threat that needs to be eliminated. For the
+speculation, the contestants will begin
+
+543
+00:53:49,880 --> 00:53:55,280
+approximately 50 meters apart in a nondescript
+environment that will have no bearing on the match
+
+544
+00:53:55,280 --> 00:54:00,180
+itself, as no environmental statistics are
+considered in my simulations. The contestants
+
+545
+00:54:00,180 --> 00:54:05,460
+must earn victory on their own merit. Alright,
+then let's get into it. Mary Marble and Hercules
+
+546
+00:54:05,460 --> 00:54:12,140
+meet on the battlefield. Who goes first? Now, I
+will admit that probably because of the wisdom of
+
+547
+00:54:12,140 --> 00:54:18,920
+Minerva, Mary Marble wouldn't go first and would
+probably wait to observe where Hercules would do.
+
+548
+00:54:18,920 --> 00:54:24,560
+Yeah, plus Hercules is more belligerent than
+Mary, right? So yeah, he's gonna go first, and he's
+
+549
+00:54:24,560 --> 00:54:29,200
+gonna start out by pulling out his Mace, his
+adamantine Mace, and he's gonna slam it into the
+
+550
+00:54:29,200 --> 00:54:34,540
+ground, which is gonna create this big
+earth-shattering earthquake that's gonna open
+
+551
+00:54:34,540 --> 00:54:41,180
+this fissure that travels along the ground and
+knocks Mary into the air with seismic force. Okay,
+
+552
+00:54:41,180 --> 00:54:46,160
+yeah, that's fine. Mary stays floating in the air
+thanks to the flight of Zephyrus, one of her
+
+553
+00:54:46,160 --> 00:54:52,760
+powers, and she's probably gonna snatch one of the
+boulders that are also flung upward, and she's
+
+554
+00:54:52,760 --> 00:54:58,080
+gonna hurl that sucker right at Hercules with the
+strength of Hippolyta. Alright, so Hercules sees
+
+555
+00:54:58,080 --> 00:55:03,440
+this boulder being thrown at him, and he's gonna
+spin around while holding his Mace out, kind of
+
+556
+00:55:03,440 --> 00:55:08,580
+like how an Olympian would do in the Hammer Throw
+event at the Olympics, and he's gonna let go of the
+
+557
+00:55:08,580 --> 00:55:13,960
+Mace hurling it at the boulder, which just
+explodes the rock into pebbles in the air, and the
+
+558
+00:55:13,960 --> 00:55:19,160
+Mace is actually gonna travel through the boulder
+and slam right into Mary Marble, which is gonna
+
+559
+00:55:19,160 --> 00:55:25,260
+knock her out of the air, and she's probably like in
+a coma now on the ground. Now, she has the agility of
+
+560
+00:55:25,260 --> 00:55:32,800
+Selene, so Mary's actually gonna dodge the Mace,
+and she's gonna rock it down into the ground and
+
+561
+00:55:32,800 --> 00:55:38,220
+cause her own like miniature earthquake that's
+gonna knock Hercules into the air, and that's
+
+562
+00:55:38,220 --> 00:55:44,240
+gonna give her this opening, and she's going to
+just uppercut him right into the stratosphere.
+
+563
+00:55:44,240 --> 00:55:49,260
+No, no, she tries to uppercut him, but he catches
+her fist as she tries to, and then he's gonna
+
+564
+00:55:49,260 --> 00:55:54,980
+grapple her flinging her over his shoulder, and
+then position her head down to do this like pile
+
+565
+00:55:54,980 --> 00:56:00,260
+driver move right into the ground. So he slams her
+down, and now they're both in this big crater.
+
+566
+00:56:00,260 --> 00:56:06,800
+Okay, well, you know, thanks to the
+invulnerability of Aurora, Mary's not that hurt.
+
+567
+00:56:06,800 --> 00:56:13,200
+And with Hercules on top of her pinning her down,
+that's when Mary is going to just call out Shazam
+
+568
+00:56:13,200 --> 00:56:19,540
+summoning Zeus's lightning, which is gonna crash
+into Hercules and just stun the shit out of him. And
+
+569
+00:56:19,540 --> 00:56:24,880
+with him dazed, that's when Mary just kicks
+Hercules right in the balls with all of her
+
+570
+00:56:24,880 --> 00:56:30,680
+strength. No, no, Hercules has his shield on his
+back. So he's not going to be stunned from Zeus's
+
+571
+00:56:30,680 --> 00:56:34,960
+lightning, because the shield is going to protect
+him. So he's going to leap to his feet, you know,
+
+572
+00:56:34,960 --> 00:56:40,280
+dodging this kick from Mary Marvel, and then he's
+going to equip the shield of Perseus and the sword
+
+573
+00:56:40,280 --> 00:56:45,720
+of Pellius from off his back into his arms. And he's
+going to raise the sword above his head and come
+
+574
+00:56:45,720 --> 00:56:51,040
+down with a mighty chop that's just going to finish
+Mary Marvel off and end this match. Well, except
+
+575
+00:56:51,040 --> 00:56:56,380
+when Hercules is coming down on her with his sword,
+Mary's gonna, you know, clap her hands together
+
+576
+00:56:56,380 --> 00:57:02,480
+above her, stopping the blade in her palms. And
+that's when she's going to scream again, Shazam a
+
+577
+00:57:02,480 --> 00:57:07,880
+second time. And a lightning bullet is going to
+come down, strike the tip of the blade, and that
+
+578
+00:57:07,880 --> 00:57:14,260
+electricity is going to move through the sword
+into Hercules body and just fry his brain. And
+
+579
+00:57:14,260 --> 00:57:18,640
+yeah, since the lightning passed through Mary,
+she probably transforms back into her mortal
+
+580
+00:57:18,640 --> 00:57:25,200
+form. But since Hercules is now dead, it doesn't
+matter. She wins. Now, I think Hercules is too
+
+581
+00:57:25,200 --> 00:57:31,240
+durable to be finished with just one bolt of magic
+lightning. You know, he's hurt for sure, but he's
+
+582
+00:57:31,240 --> 00:57:37,840
+not dead. He's on the ground, injured. And as Mary
+stands up, you know, she's in her mortal form now.
+
+583
+00:57:37,840 --> 00:57:42,440
+From the ground, Hercules just chucks his shield
+right at her, walloping her and taking her out
+
+584
+00:57:42,440 --> 00:57:46,780
+because she doesn't have her enhanced durability
+anymore. Oh no, I mean, she saw that Hercules
+
+585
+00:57:46,780 --> 00:57:52,260
+didn't die from this electricity. So right away,
+she's going to cry out Shazam once again, as the
+
+586
+00:57:52,260 --> 00:57:57,840
+shield is hurtling towards her. And the lightning
+bolt that strikes her, allowing her to transform
+
+587
+00:57:57,840 --> 00:58:04,360
+the energy from that ricochets the shield back
+toward Hercules. And it's just going to
+
+588
+00:58:04,360 --> 00:58:10,520
+decapitate him straight up. Okay. No, but
+Hercules is not a chump who'd get taken out with his
+
+589
+00:58:10,520 --> 00:58:16,480
+own shield. Okay, these catches the shield as it
+ricochets back toward him. But that lightning
+
+590
+00:58:16,480 --> 00:58:23,200
+bolt explosion, just incinerated the cloth cover
+that was over the shield. So Hercules wheels the
+
+591
+00:58:23,200 --> 00:58:29,640
+shield again, and Medusa's face is now visible on
+the front of the shield, and her eyes glow green,
+
+592
+00:58:29,640 --> 00:58:36,040
+and the shield turns Mary Marvel into stone. And
+that's when Hercules leaps over and just double
+
+593
+00:58:36,040 --> 00:58:42,100
+drop kicks the Mary Marvel statue, and she gets
+shattered to gravel for sure, ending this match.
+
+594
+00:58:42,100 --> 00:58:47,560
+Well, I mean, you're right about the lightning
+bolt incinerating the shield cover, but not right
+
+595
+00:58:47,560 --> 00:58:53,480
+about Hercules catching it because as it was
+traveling back toward him, he saw Medusa's visage
+
+596
+00:58:53,480 --> 00:59:00,020
+in the shield. So he turned to stone first, after
+which the shield just shattered him to gravel as it
+
+597
+00:59:00,020 --> 00:59:05,280
+collided with him. And Mary Marvel knew this was
+going to happen, because you know, she recognized
+
+598
+00:59:05,280 --> 00:59:10,500
+the shield cover due to her wisdom of Minerva. How
+would she recognize the shield cover? Just
+
+599
+00:59:10,500 --> 00:59:14,920
+because the shield exists in Greek mythology
+doesn't mean it's going to be like the same looking
+
+600
+00:59:14,920 --> 00:59:20,820
+shield with the same looking cover. Of course it
+does, bro. Of course it does. And even if it wasn't
+
+601
+00:59:20,820 --> 00:59:26,280
+the same, Minerva would recognize it. Well, you
+better recognize that's dumb. But let's find out
+
+602
+00:59:26,280 --> 00:59:32,360
+which of these scenarios happens. Either the
+shield of Perseus turns Mary Marvel into stone and
+
+603
+00:59:32,360 --> 00:59:37,760
+then he kicks her to pieces, or the shield of
+Perseus turns Hercules into stone as it's
+
+604
+00:59:37,760 --> 00:59:42,420
+traveling toward him and then crashes into him,
+shattering him to pieces. Let's go ahead and find
+
+605
+00:59:42,420 --> 00:59:47,060
+out which of these scenarios happens by inputting
+the character stats, running their simulations,
+
+606
+00:59:47,060 --> 00:59:54,000
+and coming back with a winner. AJ9K hit it.
+Inputting data, running calculations,
+
+607
+00:59:54,000 --> 01:00:00,080
+processing results, simulations complete.
+Okay, so this was a pretty decent matchup way
+
+608
+01:00:00,080 --> 01:00:04,880
+better than I thought it was going to be initially
+because I figured Mary Marvel has all of the
+
+609
+01:00:04,880 --> 01:00:09,760
+powers, but it turned out they were pretty
+comparable to Hercules. Yeah, I guess the main
+
+610
+01:00:09,760 --> 01:00:15,960
+difference was that Mary Marvel had the lightning
+and the power of flight, but Hercules had a few
+
+611
+01:00:15,960 --> 01:00:20,020
+weapons that gave them the edge in a few
+categories. Right off the bat, we said that Mary
+
+612
+01:00:20,020 --> 01:00:25,580
+Marvel was faster than Hercules. There's just no
+denying that. But since we accounted for the
+
+613
+01:00:25,580 --> 01:00:31,100
+weapons that Hercules had in the speculation, in
+these stats, we said that Hercules had a slight
+
+614
+01:00:31,100 --> 01:00:36,380
+edge in evasiveness because he had his shield. For
+the purposes of the stats we gave him his shield,
+
+615
+01:00:36,380 --> 01:00:41,420
+his mace, and his sword. Yeah, Hercules also got
+the edge when it came to fighting since he's an
+
+616
+01:00:41,420 --> 01:00:48,200
+expert in wrestling and range, surprisingly,
+because Mary Marvel doesn't wield her lightning
+
+617
+01:00:48,200 --> 01:00:53,080
+in the same way that Billy does, especially now in
+the comics. Yeah, whereas Hercules can throw all
+
+618
+01:00:53,080 --> 01:00:58,600
+of his weapons with great strength and accuracy.
+We did give Mary Marvel the edge when it came to
+
+619
+01:00:58,600 --> 01:01:03,940
+perception thanks to her wisdom of Minerva,
+allows her to see things that normal people
+
+620
+01:01:03,940 --> 01:01:09,180
+wouldn't be able to see. But for the rest of the
+stats, from durability, strength, damage, and
+
+621
+01:01:09,180 --> 01:01:14,980
+versatility, they were even. So, Joseph, with all
+of the stats and consideration, who do you think
+
+622
+01:01:14,980 --> 01:01:19,380
+came out on top? I'm going to give it to my boy,
+Hercules. I've got to give it to him. I think what he
+
+623
+01:01:19,380 --> 01:01:26,300
+lacks in lightning power, he makes up for in being a
+badass with his mace and a few of the other weapons
+
+624
+01:01:26,300 --> 01:01:31,960
+from Ares' armory. And Instagram agrees with me
+because 65% of the poll takers sided with
+
+625
+01:01:31,960 --> 01:01:37,780
+Hercules, believing that he'll win. Which
+baffles me because... Why? It's freaking Mary
+
+626
+01:01:37,780 --> 01:01:42,780
+Marvel. She essentially has the powers of Shazam,
+this insanely powerful Superman-level
+
+627
+01:01:42,780 --> 01:01:47,340
+character. Yeah, but Hercules is like a
+well-established Greek mythological figure,
+
+628
+01:01:47,340 --> 01:01:53,960
+whereas Mary Marvel's just this side character in
+the Shazam comic book mythos. Hercules is a Disney
+
+629
+01:01:53,960 --> 01:02:00,160
+cartoon, bro. You're thinking of the wrong
+Hercules that people are familiar with. Let's
+
+630
+01:02:00,160 --> 01:02:07,060
+find out if you and our Instagram poll takers have
+any clue what they're talking about. AJ9K, the
+
+631
+01:02:07,060 --> 01:02:15,140
+results, please. Here you are, sir. The winner of
+the matchup between Mary Marvel and Hercules
+
+632
+01:02:15,140 --> 01:02:27,660
+is... Fucking Hercules. Hercules, Hercules,
+Hercules. He won by 577 of the 1000 matches or
+
+633
+01:02:27,660 --> 01:02:36,560
+57.7%. Mary Marvel won 423 of those 1000 matches.
+To me, this makes sense. You know, there's some
+
+634
+01:02:36,560 --> 01:02:42,640
+people out there that may balk at me giving
+Hercules the mace and the sword and the shield, but
+
+635
+01:02:42,640 --> 01:02:46,800
+a lot of current depictions have him wielding both
+the sword and the mace. And even if he just had the
+
+636
+01:02:46,800 --> 01:02:52,380
+mace, you know, he could use that defensively in
+the same way that Thor uses Mjolnir. The only thing
+
+637
+01:02:52,380 --> 01:02:57,080
+that just the mace would do for him statistically
+is that it would lower his versatility because he
+
+638
+01:02:57,080 --> 01:03:02,120
+wouldn't be able to turn Mary Marvel into stone
+with the shield of Perseus. So take that away, and
+
+639
+01:03:02,120 --> 01:03:07,800
+this is still a coin toss. So either way, you can't
+discount Hercules beating Mary Marvel. I hate
+
+640
+01:03:07,800 --> 01:03:14,580
+that Hercules won. Like, Mary Marvel is just too
+near and dear to DC fans' hearts. Hercules is just a
+
+641
+01:03:14,580 --> 01:03:21,400
+jerk. He's Jerkely's. Jerkely's. Now, he's a
+pretty endearing character, too. He has a good
+
+642
+01:03:21,400 --> 01:03:25,820
+heart in the comic books. I can't wait to see him in
+live action. Hopefully, you know, they do
+
+643
+01:03:25,820 --> 01:03:30,640
+something with the character besides just that
+end credit stinger that we saw in Thor 11 Thunder.
+
+644
+01:03:30,640 --> 01:04:02,740
+But that does it for this duel, guys. HN9K, help
+close us out. MaxDistruction, Senjo World, and
+
+645
+01:04:02,740 --> 01:04:11,180
+Console Combat. As I mentioned earlier, our next
+episode is going to be another team duel this time,
+
+646
+01:04:11,180 --> 01:04:16,860
+repeating DC's Infinity Inc. against Marvel's
+new warriors. Yeah, I don't know much about
+
+647
+01:04:16,860 --> 01:04:22,000
+Infinity Inc. I guess they're kind of a legacy team
+for the Justice Society. Right. So they're like a
+
+648
+01:04:22,000 --> 01:04:27,160
+younger group, but sort of the new warriors, which
+consists of characters like Nova, Speedball,
+
+649
+01:04:27,160 --> 01:04:32,180
+Night Thrasher, people like that. We'll break
+down the rosters and the team's histories in our
+
+650
+01:04:32,180 --> 01:04:36,340
+next episode. But that does it for this episode. We
+want to give a big thanks to our executive
+
+651
+01:04:36,340 --> 01:04:41,080
+producers, John Starosky, Zachary Hepburn,
+Dustin Belcom, Mickey Muthinkean, Brandon
+
+652
+01:04:41,080 --> 01:04:46,360
+Essigard, Nathaniel Wagner, Levi Yatn, Austin
+Wazalowski, AJ Dunkerly, Nick Obanto, Scott
+
+653
+01:04:46,360 --> 01:04:52,080
+Camacho, Gil Camacho, Adam Spees, Dean Molesky,
+Devin Davis, Joseph Kirsting, Josh Leiner, Mike
+
+654
+01:04:52,080 --> 01:04:57,440
+Williams, Oscar Galvez, and Paul Graves for
+helping make this podcast possible. We'll talk to
+
+655
+01:04:57,440 --> 01:05:02,740
+you guys next week. Up, up, and away, true
+believers. Do you, do you, do you, do you, do you, do
+
+656
+01:05:02,740 --> 
+you, do you? Now do you think you love me, Mary
+Marvel?
