@@ -1,0 +1,2593 @@
+1
+00:00:00,000 --> 00:00:27,480
+This is a DynaMic Network Podcast. Hi and welcome
+to the Dynamic Duel Podcast, a weekly show where we
+
+2
+00:00:27,480 --> 00:00:32,040
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:32,040 --> 00:00:37,020
+their characters in stat-based battle
+simulations. I'm Marvelous Joe and I'm his twin
+
+4
+00:00:37,020 --> 00:00:41,420
+brother Johnny DC. And in this episode we're going
+to find out who would win in a fight between
+
+5
+00:00:41,420 --> 00:00:49,320
+Elongated Man versus Medusa. Now Elongated Man is
+a stretchy DC character with the most perverted
+
+6
+00:00:49,320 --> 00:00:55,860
+name and existence against Medusa who has no
+relation to the Greek mythological character
+
+7
+00:00:55,860 --> 00:01:00,380
+except for, you know, they both have interesting
+things going on with their hair. Yeah, Elongated
+
+8
+00:01:00,380 --> 00:01:07,160
+Man is a fairly popular character in DC so I'm
+surprised that it's taken us this long to get to a
+
+9
+00:01:07,160 --> 00:01:12,920
+dual episode with him and the same kind of goes for
+Medusa I feel. Yeah, so far we've only done one
+
+10
+00:01:12,920 --> 00:01:18,520
+inhuman unless you count Miss Marvel Kamala Khan,
+but yeah, that was Black Bolt in our Shazam vs.
+
+11
+00:01:18,520 --> 00:01:23,340
+Black Bolt episode and, you know, that's a mistake
+because I love the inhumans and I'm really excited
+
+12
+00:01:23,340 --> 00:01:27,980
+to get back into those characters with this duel.
+But before we find out who wins between these two
+
+13
+00:01:27,980 --> 00:01:31,720
+characters, we're going to break down the latest
+comic book movie news this past week of which there
+
+14
+00:01:31,720 --> 00:01:37,220
+was none. So we're not going to do that. Yeah, we are
+going to give you guys a special update on the
+
+15
+00:01:37,220 --> 00:01:42,120
+podcast though so stay tuned for that. As always,
+we list our segment times in our episode
+
+16
+00:01:42,120 --> 00:01:46,100
+description so feel free to check out the show
+notes if you want to skip ahead to a particular
+
+17
+00:01:46,100 --> 00:01:51,100
+topic. Our artificially intelligent dual
+simulator AJ9K has a quick message for our
+
+18
+00:01:51,100 --> 00:01:58,840
+listeners so listen up. Want to know more about
+this podcast? Then become a part of the dynamic
+
+19
+00:01:58,840 --> 00:02:04,140
+dual community on Patreon where you can choose
+from three tiers. The dynamic 2.0 tier gives you
+
+20
+00:02:04,140 --> 00:02:09,220
+access to our Discord chat server. The Fantastic
+Four tier gives you two bonus episodes each month
+
+21
+00:02:09,220 --> 00:02:14,480
+and the X-Force tier makes you an executive
+producer of this show. Lastly, the DynaMic
+
+22
+00:02:14,480 --> 00:02:19,600
+podcast network tier lets you create your own
+podcast using this Monte Carlo simulator. Johnny
+
+23
+00:02:19,600 --> 00:02:24,180
+and Joe will help you develop your show, provide
+graphic support and consultation, and get you
+
+24
+00:02:24,180 --> 00:02:31,020
+simulation results. Pitch the twins your ideas
+via email at dynamicdualpodcast.com. Check it
+
+25
+00:02:31,020 --> 00:02:39,580
+out at patreon.com .pippip. Thanks AJ9K and
+thanks to everyone who supports the podcast.
+
+26
+00:02:39,580 --> 00:02:43,400
+Guys, be sure to tune into the other shows and the
+DynaMic podcast network this week including
+
+27
+00:02:43,400 --> 00:02:48,340
+the Konsole Kombat podcast where hosts Jon and
+Dean simulate battles between popular video game
+
+28
+00:02:48,340 --> 00:02:54,140
+characters. In yesterday's episode, they
+reviewed The Last of Us season 2. Over on the Max
+
+29
+00:02:54,140 --> 00:02:58,940
+Destruction podcast hosts Scotty and Gilly pit
+your favorite action heroes from film and
+
+30
+00:02:58,940 --> 00:03:04,520
+television against each other. This week, the
+brothers are returning to kick off a new season by
+
+31
+00:03:04,520 --> 00:03:11,120
+pitting Ben 10 against Aang from Avatar The Last
+Airbender. On the Senjoh World podcast hosts
+
+32
+00:03:11,120 --> 00:03:16,720
+Zachary Hepburn speculates on fights between fan
+favorite anime and manga characters. In his next
+
+33
+00:03:16,720 --> 00:03:23,900
+episode, Zach is going to reveal who would win
+between Makka Al Barn from Soul Eater versus Ryuku
+
+34
+00:03:23,900 --> 00:03:29,100
+Matoi from Kill La Kill. Visit
+dynamicpodcasts.com or click the link in our show
+
+35
+00:03:29,100 --> 00:03:34,180
+notes to listen to all the shows in the DynaMic
+podcast network. But with that out of the way,
+
+36
+00:03:34,180 --> 00:03:41,580
+quick to the no prize! A no prize is an award that
+Marvel used to give out to fans. Our version, the
+
+37
+00:03:41,580 --> 00:03:47,000
+Dynamic Dual No Prize, is a digital award that we
+post on Instagram for the person that we feel gave
+
+38
+00:03:47,000 --> 00:03:52,960
+the best answer to our question of the week. Last
+week, we asked you guys, what's your favorite
+
+39
+00:03:52,960 --> 00:03:59,980
+theory as to why Victor Von Doom would look like
+Tony Stark? Right, this is coming off the news that
+
+40
+00:03:59,980 --> 00:04:05,160
+Avengers Doomsday has been pushed back here.
+We've all been eagerly anticipating the film, but
+
+41
+00:04:05,160 --> 00:04:09,340
+we're going to have to wait until December of 2026
+to see it. In the meantime, we thought it would be
+
+42
+00:04:09,340 --> 00:04:17,339
+interesting to get your ideas on why, God, why
+would they cast Robert Dunney Jr. as Dr. Doom and
+
+43
+00:04:17,339 --> 00:04:22,480
+how could that best be rationalized? We actually
+got quite a number of answers, but quite a few of you
+
+44
+00:04:22,480 --> 00:04:27,920
+guys repeated your answers. So we still have only
+three honorable mentions and one no prize winner.
+
+45
+00:04:27,920 --> 00:04:35,560
+Our first honorable mention goes to by Dear
+Bangura and Jutson Batty. Who said? Hello Dynamic
+
+46
+00:04:35,560 --> 00:04:42,680
+Dual, I think that a good theory would be that
+Victor Von Doom implanted his brain inside Tony
+
+47
+00:04:42,680 --> 00:04:47,500
+Stark's body. Very similar to Superius
+Spider-Man with Doc Oub. I think he was trying to
+
+48
+00:04:47,500 --> 00:04:53,600
+make him a superior Iron Man. Maybe Marvel will
+follow that storyline and kind of blend in with
+
+49
+00:04:53,600 --> 00:05:01,860
+this one and give us the best version of Tony Stark
+possible. Thank you. Hi guys, Jutson Batty here. I
+
+50
+00:05:01,860 --> 00:05:10,200
+think that my favorite theory as to why Doom looks
+like Stark in Avengers Doom is that in his reality,
+
+51
+00:05:10,200 --> 00:05:17,800
+it was a play on the superior Spider-Man story.
+Instead of it being Doc Ock and Spider-Man, it was
+
+52
+00:05:17,800 --> 00:05:24,680
+Doom and Stark being that Doom gets some form of
+cancer that would kill him somehow and capacitate
+
+53
+00:05:24,680 --> 00:05:29,380
+Iron Man. It takes his body and Iron Man dies
+instead. Alright, so they both gave the same
+
+54
+00:05:29,380 --> 00:05:34,940
+answer, essentially theorizing that the Dr. Doom
+Iron Man relationship is going to be similar to the
+
+55
+00:05:34,940 --> 00:05:39,420
+superior Spider-Man relationship between Dr.
+Ock to Puss and Spider-Man in that comic book
+
+56
+00:05:39,420 --> 00:05:43,760
+storyline. Which is a theory that I haven't heard
+before. I think it's a pretty interesting one.
+
+57
+00:05:43,760 --> 00:05:48,660
+Essentially, they're saying that an alternate
+reality, Dr. Doom, is going to somehow
+
+58
+00:05:48,660 --> 00:05:54,380
+telepathically or otherwise implant his mind
+into an alternate reality, Tony Stark's body, and
+
+59
+00:05:54,380 --> 00:06:00,640
+then come into the main 616 universe. Which is an
+interesting idea, but it's not necessarily an
+
+60
+00:06:00,640 --> 00:06:06,520
+idea that I love because I can't come up with any
+kind of justification for why Doom would take over
+
+61
+00:06:06,520 --> 00:06:12,840
+Tony Stark's body when he could easily just
+probably create a clone of his former body. Like
+
+62
+00:06:12,840 --> 00:06:18,260
+there's no advantage to having Tony Stark's body
+unless you don't want a functioning heart. Well,
+
+63
+00:06:18,260 --> 00:06:23,060
+one could say that the motivation would be
+deception. Dr. Doom puts his mind in alternate
+
+64
+00:06:23,060 --> 00:06:28,460
+reality, Tony Stark's body, who comes to Earth
+pretending to be Tony Stark. I'd rather have
+
+65
+00:06:28,460 --> 00:06:35,360
+Doom's face hidden the entire time behind a dope
+metallic mask. I don't need that kind of level of
+
+66
+00:06:35,360 --> 00:06:40,400
+deception. Maybe Doom's plan does, we'll see.
+Great answer by Deer and Judson, our next
+
+67
+00:06:40,400 --> 00:06:47,080
+honorable mention goes to Lorenzo Valdez. Who
+said? This is Lorenzo Valdez calling in once
+
+68
+00:06:47,080 --> 00:06:54,420
+again. What I keep going back to with RDJ as Dr. Doom
+is the Superboy TV show, where at the beginning of
+
+69
+00:06:54,420 --> 00:07:01,340
+season 2, Lex Luthor gets plastic surgery to look
+like another character, Warren Eckworth. And I'm
+
+70
+00:07:01,340 --> 00:07:05,980
+wondering whether Dr. Doom has done something
+similar, and whether he's perhaps trying to pose
+
+71
+00:07:05,980 --> 00:07:12,980
+as Tony Stark, or revive Tony Stark, to infiltrate
+the Avengers. Clon of forever and always,
+
+72
+00:07:12,980 --> 00:07:18,380
+buh-bye. Yeah, this is a similar type of situation
+as the previous answer, except instead of being an
+
+73
+00:07:18,380 --> 00:07:23,720
+alternate reality, Dr. Doom inserting his mind
+into an alternate reality, Tony Stark's body, it
+
+74
+00:07:23,720 --> 00:07:29,200
+is Dr. Doom getting plastic surgery to look like
+the deceased Tony Stark. So face off,
+
+75
+00:07:29,200 --> 00:07:34,960
+essentially. Yeah, yeah. The reason I find this
+particular theory unsatisfying, and same thing
+
+76
+00:07:34,960 --> 00:07:40,140
+with the Superior Spider-Man theory, is that it
+doesn't give enough space for the character of
+
+77
+00:07:40,140 --> 00:07:46,280
+Victor Von Doom to be his own character prior to
+this deceptive plan. So in that case, we will never
+
+78
+00:07:46,280 --> 00:07:52,400
+really get a good sense of who this guy is, what he
+looks like, before we dive in head first into, oh,
+
+79
+00:07:52,400 --> 00:07:57,240
+this appears to be Tony Stark, and like acts like
+Tony Stark, and all this stuff. And it just bothers
+
+80
+00:07:57,240 --> 00:08:02,200
+me because Victor Von Doom is such an interesting
+character in the comic books, and really truly has
+
+81
+00:08:02,200 --> 00:08:08,320
+not been done justice in the films, and deserves to
+be. Right, at least even in the movie Face Off, in
+
+82
+00:08:08,320 --> 00:08:14,900
+the first act, you got a sense of who the characters
+were before they switched faces. Exactly,
+
+83
+00:08:14,900 --> 00:08:21,200
+exactly. Great answer, Lorenzo. Our final
+honorable mention goes to Alex Albro, who said,
+
+84
+00:08:21,200 --> 00:08:25,560
+Hey guys, I think it plays out similar to the MCU
+with a few twists. Instead of getting stranded in
+
+85
+00:08:25,560 --> 00:08:30,760
+Afghanistan, he gets stranded in Laveria, uses
+the Ten Rings to help him take over the country,
+
+86
+00:08:30,760 --> 00:08:34,760
+still feels the need for a suit of armor around the
+world, builds Ultron, which turns into the
+
+87
+00:08:34,760 --> 00:08:39,200
+Doombots. And since he can't save his mother in
+this universe, as the universe's collapsed, he
+
+88
+00:08:39,200 --> 00:08:44,680
+trails the Fantastic Four to the 616, back in time
+to save his mother from the Winter Soldier, and
+
+89
+00:08:44,680 --> 00:08:50,680
+he's been here all along. So yeah, this is the type
+of scenario that I'm really hoping that Marvel
+
+90
+00:08:50,680 --> 00:08:57,140
+does not actually go down. What he poses is that an
+alternate reality, Tony Stark, named Victor Von
+
+91
+00:08:57,140 --> 00:09:03,840
+Doom, goes through the same essential arc of being
+a weapons designer who gets captured and taken to
+
+92
+00:09:03,840 --> 00:09:09,500
+Laveria, instead of Afghanistan like Tony Stark
+did in the first Iron Man movie. And then takes over
+
+93
+00:09:09,500 --> 00:09:14,400
+the country, proposes the Ultron program, which
+turns into Doombots, and then comes into our
+
+94
+00:09:14,400 --> 00:09:19,620
+reality to stop his mom from dying by the hands of
+the Winter Soldier. So that's what I don't want to
+
+95
+00:09:19,620 --> 00:09:25,900
+happen. I don't want the character of Victor Von
+Doom to essentially be Tony Stark, because Victor
+
+96
+00:09:25,900 --> 00:09:30,780
+Von Doom's actual origin story from the comic
+books is much more interesting than just being an
+
+97
+00:09:30,780 --> 00:09:37,360
+alternate reality rehash of the MCU's Tony Stark.
+Yeah, it may sound petty, but I think Victor Von
+
+98
+00:09:37,360 --> 00:09:43,920
+Doom should be done more justice than just being a
+Tony Stark variant. Right, exactly. Yeah. That's
+
+99
+00:09:43,920 --> 00:09:49,060
+what I don't want. I don't want him to be a Tony Stark
+variant, necessarily. I mean, there's one theory
+
+100
+00:09:49,060 --> 00:09:53,060
+that was not called in as an answer that I'll
+discuss in a minute here, but for the most part,
+
+101
+00:09:53,060 --> 00:10:00,180
+yeah, I would not like Dr. Doom to be a variant. That
+said, if Victor Von Doom was going to be a variant of
+
+102
+00:10:00,180 --> 00:10:06,400
+Tony Stark, that was a very creative way of going
+about that. So still, great answer, Alex. But the
+
+103
+00:10:06,400 --> 00:10:13,020
+winner, or should I say winners of this week's No
+Prize are Travis Herndon and Cyrus Moore. Who
+
+104
+00:10:13,020 --> 00:10:19,700
+said? Well, so the name of the dude's Travis here,
+shut up to my twin. So my theory is that what if RDJ is
+
+105
+00:10:19,700 --> 00:10:25,000
+a red herring? Like they actually hired someone
+else to play Victor and they're keeping it hush
+
+106
+00:10:25,000 --> 00:10:31,960
+hush. So when at the end of Doomsday, we actually
+get the true reveal of the actual actor who's
+
+107
+00:10:31,960 --> 00:10:38,040
+playing Doom, Marvel would then pretty much pull
+the biggest, got y'all, fuck all of you guys that
+
+108
+00:10:38,040 --> 00:10:44,960
+were doubting us moment in MCU history if that was
+the case. Hey guys, Cyrus Moore here. So my
+
+109
+00:10:44,960 --> 00:10:51,820
+ultimate theory is that Tony Stark is coming back
+as Victor Von Doom is actually just an illusion.
+
+110
+00:10:51,820 --> 00:10:58,740
+It's just a mass effect. Marvel's actually going
+to have Tony Stark come back and be Iron Man, and
+
+111
+00:10:58,740 --> 00:11:04,100
+they will cast somebody else as Von Doom. Because
+you know the only character to stay dead is Uncle
+
+112
+00:11:04,100 --> 00:11:10,400
+Ben. So yeah, I think Iron Man's coming back.
+Alright, this may be wishful thinking on my part
+
+113
+00:11:10,400 --> 00:11:16,340
+and probably most fans who don't like the idea of
+Robert Downey Jr. being Iron Man, but it would be
+
+114
+00:11:16,340 --> 00:11:23,760
+pretty impressive if Marvel was playing this kind
+of long con where they announced Robert Downey Jr.
+
+115
+00:11:23,760 --> 00:11:31,200
+as being cast as Victor Von Doom. And then it turns
+out that it was all just a scam and that he's
+
+116
+00:11:31,200 --> 00:11:35,820
+actually coming back as Iron Man and the character
+of Doctor Doom is played by a different actor. I
+
+117
+00:11:35,820 --> 00:11:41,920
+don't think that's likely. I think it would be far
+more likely that maybe Robert Downey Jr. plays
+
+118
+00:11:41,920 --> 00:11:47,580
+Doctor Doom for like the first movie at which point
+at the end he gets reverted to his true form and then
+
+119
+00:11:47,580 --> 00:11:54,040
+we see another actor like pull away the disguise as
+a were and show us who the real Doctor Doom is. I
+
+120
+00:11:54,040 --> 00:11:59,720
+think that is still potentially a possibility,
+but Marvel pulling off something like that I think
+
+121
+00:11:59,720 --> 00:12:04,660
+would be exciting and would be something that I
+would actually love to see. Yeah, one thing about
+
+122
+00:12:04,660 --> 00:12:12,460
+the Marvel fandom is that they're always trying to
+figure out all of the secrets that Marvel may or may
+
+123
+00:12:12,460 --> 00:12:18,420
+not have. Like when it came to, you know,
+Spider-Man No Way Home. Like everyone knew what
+
+124
+00:12:18,420 --> 00:12:23,400
+the spoiler for that film was going to be before we
+even saw it. It was still exciting when we learned
+
+125
+00:12:23,400 --> 00:12:28,780
+that Toby Maguire and Andrew Garfield would be in
+the movie, but I think it would be cooler if
+
+126
+00:12:28,780 --> 00:12:33,580
+sometimes we didn't know all the secrets or
+couldn't figure out all the secrets ahead of time.
+
+127
+00:12:33,580 --> 00:12:41,780
+If Marvel is really just punking all the fans, I
+would actually love that. I'm so sick of all of the
+
+128
+00:12:41,780 --> 00:12:48,360
+Marvel speculation and rumors. I don't give a shit
+about it because, well, one, I'm a DC guy, but also
+
+129
+00:12:48,360 --> 00:12:54,480
+two, like there's no way you're going to know until
+you see the actual movie. So just stop. Right. I
+
+130
+00:12:54,480 --> 00:12:59,140
+mean, speculation is fun, but there's a limit to
+what I can tolerate even as a Marvel fan. I think
+
+131
+00:12:59,140 --> 00:13:04,140
+essentially lying to fans is probably the best
+means at this point of actually retaining some
+
+132
+00:13:04,140 --> 00:13:08,680
+sort of surprise, as they did with Spider-Man No
+Way Home. They basically lied and said these guys
+
+133
+00:13:08,680 --> 00:13:13,760
+weren't in the movie, but then it turned out they
+were. But the lie just has to be maintained and
+
+134
+00:13:13,760 --> 00:13:19,140
+believable. We'll end up seeing what happens. In
+regards to my statement that there was another
+
+135
+00:13:19,140 --> 00:13:23,820
+theory out there that I liked. I think we talked
+about it on this podcast before. But if Victor Von
+
+136
+00:13:23,820 --> 00:13:29,300
+Doom is going to be a Tony Stark variant in this
+cinematic multiverse, then I also want Chris
+
+137
+00:13:29,300 --> 00:13:36,360
+Evans and Scarlett Johansson to come back as evil
+variant versions of their characters. So like
+
+138
+00:13:36,360 --> 00:13:44,180
+Hydra Cap along with Superior Iron Man version of
+Doctor Doom and maybe Scar Joe as like Madamask or
+
+139
+00:13:44,180 --> 00:13:48,660
+something like that. That's the only way I can see
+this working if it's not just Robert Downey Jr.
+
+140
+00:13:48,660 --> 00:13:54,720
+coming back, but other original Avengers actors
+coming back as variants of their former roles.
+
+141
+00:13:54,720 --> 00:13:58,860
+Something like that I think could be pretty cool.
+And that's probably the only way I'll accept Doom
+
+142
+00:13:58,860 --> 00:14:03,400
+being a variant of Tony Stark. But thanks to
+everyone who called in and congrats to Travis
+
+143
+00:14:03,400 --> 00:14:07,700
+Herndon and Cyrus Moore for winning this week's No
+Prize. If you the listener want a shot at winning
+
+144
+00:14:07,700 --> 00:14:11,780
+your own No Prize, stay tuned to later on this
+episode when we'll be asking another question of
+
+145
+00:14:11,780 --> 00:14:22,100
+the week. And now that that's done, on to the news.
+Alright, in one of the biggest announcements for
+
+146
+00:14:22,100 --> 00:14:29,600
+this podcast, we want to let you guys know like
+seven months in advance that in mid January on the
+
+147
+00:14:29,600 --> 00:14:36,840
+10th anniversary of this podcast, Jonathan and I
+will be ending Dynamic Duel as we all know it. That
+
+148
+00:14:36,840 --> 00:14:41,380
+doesn't mean that we're going away forever. It
+just means that Dynamic Duel will no longer be
+
+149
+00:14:41,380 --> 00:14:47,360
+putting out a weekly show. By the time that mid
+January comes around, Jonathan and I will be
+
+150
+00:14:47,360 --> 00:14:54,600
+turning 40. And as many of you listeners may know,
+we started this podcast on our 30th birthday. And
+
+151
+00:14:54,600 --> 00:15:02,040
+we feel that 10 years is a long time to exhaust any
+single topic, especially one like Marvel vs DC.
+
+152
+00:15:02,040 --> 00:15:09,240
+Yeah, it was interesting. We started this podcast
+because DC that year was releasing Batman v
+
+153
+00:15:09,240 --> 00:15:15,800
+Superman and essentially kicking off their very
+own shared cinematic universe to compete with the
+
+154
+00:15:15,800 --> 00:15:22,760
+MCU. And that was a big ol' failure. Apparently.
+But I thought it was kind of fitting that we would
+
+155
+00:15:22,760 --> 00:15:30,240
+kind of end the podcast once that journey was over
+and as DC is kicking off a new universe. So we
+
+156
+00:15:30,240 --> 00:15:35,260
+started the show with the birth of one DC universe
+and we're ending it with the birth of another. Now
+
+157
+00:15:35,260 --> 00:15:42,580
+the weekly format will be going away for the show,
+but we will still be doing film reviews of the
+
+158
+00:15:42,580 --> 00:15:48,660
+upcoming Marvel and DC theatrical projects. And
+maybe some television shows as well. I'm not quite
+
+159
+00:15:48,660 --> 00:15:52,920
+sure. Right. We're still going to be on Ron
+Tomatoes. We're still going to be here just not
+
+160
+00:15:52,920 --> 00:15:59,140
+every week for you guys. Yeah. And to that end, the
+executive producers have determined the
+
+161
+00:15:59,140 --> 00:16:03,760
+remaining dual episodes that we'll be doing
+throughout the rest of this calendar year into
+
+162
+00:16:03,760 --> 00:16:09,500
+next January. So the main reason we're announcing
+this now is because if there are any potential
+
+163
+00:16:09,500 --> 00:16:14,400
+executive producers out there, and I had to tell
+Paul Graves this, who is our newest executive
+
+164
+00:16:14,400 --> 00:16:20,660
+producer, basically the role of the executive
+producer was to determine the content calendar of
+
+165
+00:16:20,660 --> 00:16:26,560
+this show and pitch dual ideas and things like
+that. All the duels are figured out for the rest of
+
+166
+00:16:26,560 --> 00:16:34,040
+the show. And so the main role of the executive
+producer now is to determine in what order those
+
+167
+00:16:34,040 --> 00:16:39,320
+duels will be coming out. So I don't want to
+discourage anyone from supporting this podcast,
+
+168
+00:16:39,320 --> 00:16:44,580
+but if you do become an executive producer from
+here on out, just know that the responsibility of
+
+169
+00:16:44,580 --> 00:16:49,080
+that role has kind of shifted. Yeah. If you've been
+a supporter of this podcast, you've known about
+
+170
+00:16:49,080 --> 00:16:54,900
+this news for a while and it's kind of bittersweet.
+But we're all really looking forward to the
+
+171
+00:16:54,900 --> 00:17:00,440
+upcoming schedule we have for the remainder of
+this year. And the final episodes in particular
+
+172
+00:17:00,440 --> 00:17:05,640
+are just going to be amazing. I almost can't wait
+for them. Yeah. In some ways next year can't come
+
+173
+00:17:05,640 --> 00:17:10,099
+soon enough. And in other ways, it'll be hard to
+stop doing a weekly show, you know, something that
+
+174
+00:17:10,099 --> 00:17:16,780
+we've done for literally a decade consistently.
+We've never missed a drop date, even while sick.
+
+175
+00:17:16,780 --> 00:17:23,040
+Even while at the hospital having a kid. Yeah, I
+guess I did miss that episode for sure. But I did
+
+176
+00:17:23,040 --> 00:17:27,619
+not. Hopefully this doesn't come as like a sad
+announcement to a lot of our listeners out there.
+
+177
+00:17:27,619 --> 00:17:33,400
+Hopefully you guys understand that doing this for
+10 years is a long time. And we still love doing the
+
+178
+00:17:33,400 --> 00:17:37,660
+show, though, and we can't wait to continue
+putting out more episodes for you guys. Finally,
+
+179
+00:17:37,660 --> 00:17:43,680
+solving this Marvel vs DC debate and shutting my
+twin brother up once and for all. Yes, those exact
+
+180
+00:17:43,680 --> 00:17:52,440
+words. But regarding this announcement, that
+brings us to our question of the week. How did you
+
+181
+00:17:52,440 --> 00:17:57,540
+find Dynamic Duel and how long have you been
+listening to the show? Yes, sometimes our
+
+182
+00:17:57,540 --> 00:18:03,120
+questions are more market research than looking
+for editorials from you guys. But with the news
+
+183
+00:18:03,120 --> 00:18:07,300
+that the show will be ending as it currently
+exists, we would just love to hear from some of our
+
+184
+00:18:07,300 --> 00:18:11,240
+listeners. Record your answer at
+dynamicduel.com by clicking on the red
+
+185
+00:18:11,240 --> 00:18:15,700
+microphone button in the bottom right hand corner
+of the screen, which will prompt you to leave us a
+
+186
+00:18:15,700 --> 00:18:20,880
+voicemail. Your message could be up to 30 seconds
+long, and don't forget to leave your name in case we
+
+187
+00:18:20,880 --> 00:18:25,580
+include you on the podcast. We'll pick our
+favorite answer and award that person a Dynamic
+
+188
+00:18:25,580 --> 00:18:38,960
+Duel No Prize that we'll post to Instagram. Be sure
+to answer before June 7th. But I think that does it
+
+189
+00:18:38,960 --> 00:18:43,960
+for the news portion of this episode, so let's go
+ahead and move into our main event. Where we find
+
+190
+00:18:43,960 --> 00:19:05,560
+out who would win in a fight between elongated man
+and the inhuman Medusa. All right, elongated man
+
+191
+00:19:05,560 --> 00:19:11,880
+versus Medusa. The primary reason we are doing
+this duel, not only because these characters can
+
+192
+00:19:11,880 --> 00:19:16,360
+stretch, but also they're going to lead into
+future team duels that we have planned in the
+
+193
+00:19:16,360 --> 00:19:21,700
+coming months, including the Justice League
+International versus the West Coast Avengers and
+
+194
+00:19:21,700 --> 00:19:27,060
+Wildcats versus the Inhumans. Of course,
+elongated man was a member of the Justice League
+
+195
+00:19:27,060 --> 00:19:31,460
+and Medusa is a member of the Inhumans, and we
+wanted to make sure to touch on these characters
+
+196
+00:19:31,460 --> 00:19:35,560
+specifically before their team duels because we
+feel they're interesting and important enough
+
+197
+00:19:35,560 --> 00:19:41,960
+characters to delve deeper into. I don't know if
+listeners have noticed yet, but Jonathan and I are
+
+198
+00:19:41,960 --> 00:19:47,040
+just plowing through the team duels in essence
+trying to get through as many characters as
+
+199
+00:19:47,040 --> 00:19:53,020
+possible before this upcoming January. Yeah,
+doing one team duel a month was going to be the only
+
+200
+00:19:53,020 --> 00:19:58,800
+way we could get through all of the team battles
+that we were hoping to get through before moving on
+
+201
+00:19:58,800 --> 00:20:05,380
+from the current iteration of this show. Now, if
+you're an avid fan of the Flash television series
+
+202
+00:20:05,380 --> 00:20:12,320
+on the CW, you are familiar with elongated man. He
+was a member of the Flash's superhero team
+
+203
+00:20:12,320 --> 00:20:20,160
+essentially in the later seasons of the show, and
+you may also remember Medusa from a really, really
+
+204
+00:20:20,160 --> 00:20:27,300
+shitty Inhumans live action series. It was so bad,
+which is such a shame. I really wanted to like the
+
+205
+00:20:27,300 --> 00:20:31,220
+Inhumans series because it was being released in
+IMAX and everything like that. And Jonathan and I
+
+206
+00:20:31,220 --> 00:20:36,940
+even went to our local IMAX theater to see the
+Inhumans pilot episode essentially, and we were
+
+207
+00:20:36,940 --> 00:20:41,940
+severely disappointed. We actually did a review
+of it on this podcast when it came out. And I thought
+
+208
+00:20:41,940 --> 00:20:48,000
+Serendis Swan, the actress who played Medusa, was
+pretty well cast. A lot of the cast was actually
+
+209
+00:20:48,000 --> 00:20:52,840
+pretty good, but everything else in the show
+really sucked. It's probably the worst thing
+
+210
+00:20:52,840 --> 00:20:58,000
+Marvel television has ever put out, and that's a
+shame because the Inhumans deserve better. Yeah,
+
+211
+00:20:58,000 --> 00:21:01,340
+I've always thought that Inhumans were pretty
+cool. I would agree with that. Before we get into
+
+212
+00:21:01,340 --> 00:21:05,820
+this dual matchup to explain the methodology
+behind our duels, let's go to our sentient dual
+
+213
+00:21:05,820 --> 00:21:11,900
+simulator, Alfred Jarvis 9000. AJ and IK tell our
+listeners how you go about determining a winner in
+
+214
+00:21:11,900 --> 00:21:17,200
+our dual matchups. Yes, of course, sir. The way I
+determine a winner between the contestants is by
+
+215
+00:21:17,200 --> 00:21:22,620
+running 1,000 Monte Carlo simulations using the
+characters statistics. A Monte Carlo simulation
+
+216
+00:21:22,620 --> 00:21:28,160
+is a probabilistic model used to determine
+outcomes through random sampling. In this case, I
+
+217
+00:21:28,160 --> 00:21:32,340
+randomize the statistics along a normal
+distribution as a way to simulate the many
+
+218
+00:21:32,340 --> 00:21:37,280
+variables that can occur during battle. The stat
+parameters are based on the official Marvel power
+
+219
+00:21:37,280 --> 00:21:42,560
+grid from which the DC characters statistics are
+extrapolated. Additional stat categories are
+
+220
+00:21:42,560 --> 00:21:48,080
+included such as range, damage potential,
+versatility and perception in order to create a
+
+221
+00:21:48,080 --> 00:21:53,020
+more detailed and accurate simulation. The
+results of the 1,000 simulations provide a
+
+222
+00:21:53,020 --> 00:21:57,000
+percentage of wins for each character. The
+contestant with the higher percentage is
+
+223
+00:21:57,000 --> 00:22:01,840
+declared the victor as they have a higher
+probability to win any given battle. In an
+
+224
+00:22:01,840 --> 00:22:07,240
+equitable pairing, neither character should win
+100% of the matches. The comic book stories have
+
+225
+00:22:07,240 --> 00:22:12,100
+shown that there's even a way for Batman to defeat
+Superman, so the confidence rate of my method
+
+226
+00:22:12,100 --> 00:22:16,180
+falls in line with the precedents that have been
+established in the source material. My
+
+227
+00:22:16,180 --> 00:22:20,640
+mathematical simulations are without
+subjectivity or bias. Feats are not the sole
+
+228
+00:22:20,640 --> 00:22:27,200
+consideration, nor are fan votes tabulated for
+determination of the winner. Thanks, AJ9K.
+
+229
+00:22:27,200 --> 00:22:30,840
+Before we run the simulations though, we like to
+break down each character's histories and
+
+230
+00:22:30,840 --> 00:22:37,380
+abilities before improvising a scenario on how we
+imagine one of the 1,000 simulations would play
+
+231
+00:22:37,380 --> 00:22:43,820
+out, beat for beat. It is my turn to go first with the
+DC characters backstory, so let me tell you all
+
+232
+00:22:43,820 --> 00:22:52,020
+about Elongated Dan. Randolph Relf Dibney was
+born in Waymore, Nebraska to a modest and
+
+233
+00:22:52,020 --> 00:22:57,260
+unassuming family. From a young age, Relf was
+captivated by carnival side shows featuring
+
+234
+00:22:57,260 --> 00:23:03,380
+contortionists who seemingly impossible feats
+of flexibility ignited his imagination.
+
+235
+00:23:03,380 --> 00:23:08,400
+Determined to uncover their secrets, Relf
+discovered that many of these performers drank a
+
+236
+00:23:08,400 --> 00:23:15,460
+soda called Gin Gold, which was flavored with
+extract from a rare fruit known as Jingo, which
+
+237
+00:23:15,460 --> 00:23:21,240
+only grew in the remote jungles of the Yucatan
+Peninsula in Mexico. As it turned out, most people
+
+238
+00:23:21,240 --> 00:23:27,460
+were allergic to Jingo in its raw concentrated
+form, as it possessed unusual biochemical
+
+239
+00:23:27,460 --> 00:23:32,380
+properties that interacted with the human
+nervous system. Fascinated, Relf studied
+
+240
+00:23:32,380 --> 00:23:38,940
+chemistry and eventually traveled to the Yucatan
+to collect Jingo fruit samples. He isolated and
+
+241
+00:23:38,940 --> 00:23:44,280
+refined the active compound into a highly
+concentrated extract, which upon ingesting
+
+242
+00:23:44,280 --> 00:23:50,960
+radically transformed Relf's body, triggering
+within it a latent metagene that granted him
+
+243
+00:23:50,960 --> 00:23:56,500
+superhuman elasticity. He found he could
+stretch, twist, and reshape himself into almost
+
+244
+00:23:56,500 --> 00:24:02,660
+any form imaginable. Inspired by the flash in
+Central City and determined to use his newfound
+
+245
+00:24:02,660 --> 00:24:09,740
+gifts for good, Relf adopted the heroic identity
+of Elongated Man. You can learn more about Flash in
+
+246
+00:24:09,740 --> 00:24:15,560
+our Flash vs. Quicksilver duel episode. Unique
+among superheroes, Relf never concealed his
+
+247
+00:24:15,560 --> 00:24:22,200
+identity and instead embraced fame as a celebrity
+detective. Early in his heroic journey, he met
+
+248
+00:24:22,200 --> 00:24:28,680
+Su-Dirban, a spirited and wealthy socialite. The
+two married and quickly became one of the most
+
+249
+00:24:28,680 --> 00:24:35,380
+beloved and enduring couples in the superhero
+community. As a close ally of the Flash, Relf
+
+250
+00:24:35,380 --> 00:24:41,020
+became an honored member of the Justice League of
+America. Known for his trademark nose twitch
+
+251
+00:24:41,020 --> 00:24:47,220
+whenever something seemed to miss, Relf relished
+solving mysteries and earned a reputation as one
+
+252
+00:24:47,220 --> 00:24:51,760
+of the world's greatest detectives. His
+lighthearted nature, keen intellect, and
+
+253
+00:24:51,760 --> 00:24:58,260
+unwavering devotion to Su made him a respected
+figure among both heroes and civilians. While
+
+254
+00:24:58,260 --> 00:25:03,220
+joining the Justice League on countless missions
+together, Relf and Su traveled the globe solving
+
+255
+00:25:03,220 --> 00:25:08,900
+bizarre, supernatural, and otherworldly
+mysteries. Though not the most physically
+
+256
+00:25:08,900 --> 00:25:15,360
+imposing hero, Relf's flexibility and deductive
+genius often made him the key to resolving crises
+
+257
+00:25:15,360 --> 00:25:20,660
+that others couldn't. The couple became
+mainstays in the Justice League Europe and later
+
+258
+00:25:20,660 --> 00:25:26,440
+joined the offbeat Super Buddies team formed by
+Maxwell Lord. In addition to his work with
+
+259
+00:25:26,440 --> 00:25:32,200
+superhero teams, Relf became a liaison between
+the mystical and scientific community. He
+
+260
+00:25:32,200 --> 00:25:37,300
+consulted on arcane-related investigations and
+developed a working knowledge of magical
+
+261
+00:25:37,300 --> 00:25:41,960
+phenomena, which aided in several cases
+involving cursed artifacts and
+
+262
+00:25:41,960 --> 00:25:47,240
+extra-dimensional incursions. His ability to
+combine scientific reasoning with open-minded
+
+263
+00:25:47,240 --> 00:25:52,700
+intuition set him apart for more rigid
+detectives. He and Su also developed a rapport
+
+264
+00:25:52,700 --> 00:25:58,260
+with many of their fellow heroes, forging close
+ties with members of the Justice Society and newer
+
+265
+00:25:58,260 --> 00:26:04,360
+heroes alike. They were frequently called upon
+for both mystery-solving expertise and moral
+
+266
+00:26:04,360 --> 00:26:10,620
+support, becoming regarded as a stabilizing
+presence in the heroic community. Relf's humor
+
+267
+00:26:10,620 --> 00:26:16,260
+and Su's charm made them a welcome addition to
+nearly any gathering. Their joyful partnership
+
+268
+00:26:16,260 --> 00:26:21,860
+came to a tragic end, however, when Su was found
+murdered in their home. Investigations revealed
+
+269
+00:26:21,860 --> 00:26:58,000
+that years earlier, Ralph was shattered by the
+loss. His grief consumed him, and he turned to
+
+270
+00:26:58,000 --> 00:27:03,720
+mysticism in a desperate attempt to resurrect
+Sue. After finding Sue's tombstone defaced with a
+
+271
+00:27:03,720 --> 00:27:09,040
+Kryptonian symbol for resurrection, Ralph
+tracked down the vandals and learned of the Cult of
+
+272
+00:27:09,040 --> 00:27:15,100
+Connor, an organization attempting to bring the
+recently deceased Superboy back to life. You can
+
+273
+00:27:15,100 --> 00:27:20,460
+learn more about Superboy in his duel against
+Rogue. The Cult planned to test the resurrection
+
+274
+00:27:20,460 --> 00:27:27,060
+technique by first attempting to bring back Sue.
+Ralph, lost without his wife, joined their cause
+
+275
+00:27:27,060 --> 00:27:32,940
+and brought four other heroes to the ceremony.
+Midway through, however, Ralph deduced it was an
+
+276
+00:27:32,940 --> 00:27:39,800
+elaborate hoax and tried to stop the ritual. As the
+ceremonial building burned, the straw effigy of
+
+277
+00:27:39,800 --> 00:27:46,220
+Sue, now a flame, crawled toward him and whispered
+his name. Devastated, Ralph believed he had
+
+278
+00:27:46,220 --> 00:27:52,140
+destroyed his only chance at reunion. Ralph
+relocated to Marseille under the alias Alvin
+
+279
+00:27:52,140 --> 00:27:57,120
+Bergson, where he was eventually found by
+Detective Chimp, who sought his deductive
+
+280
+00:27:57,120 --> 00:28:02,540
+expertise. You can learn more about Detective
+Chimp in his duel against Howard the Duck. Ralph
+
+281
+00:28:02,540 --> 00:28:08,440
+joined Detective Chimp and his magical Shadow
+Pact team in Egypt, where the Helmet of Nubu began
+
+282
+00:28:08,440 --> 00:28:14,660
+to speak to Ralph. Eventually, Ralph performed a
+resurrection ritual in the Tower of Fate using the
+
+283
+00:28:14,660 --> 00:28:20,480
+Helmet of Nubu. After donning the helmet and
+firing an enchanted gun at it, the illusion
+
+284
+00:28:20,480 --> 00:28:26,680
+shattered, revealing that the supervillain
+Felix Faust had posed as Nubu, manipulating Ralph
+
+285
+00:28:26,680 --> 00:28:32,780
+with the intention to trade his soul to the demon
+lord, Nieron. Ralph revealed, however, that he
+
+286
+00:28:32,780 --> 00:28:38,240
+had known the truth all along and that the ritual he
+had performed was actually a binding spell.
+
+287
+00:28:38,240 --> 00:28:44,660
+Nieron appeared and killed Ralph, unaware the
+spell would imprison both him and Faust in the
+
+288
+00:28:44,660 --> 00:28:51,300
+Tower. Reunited with his wife in the afterlife,
+Ralph and Sue remained on the mortal plane as ghost
+
+289
+00:28:51,300 --> 00:28:56,520
+detectives, solving paranormal cases from
+beyond the grave. In post-Flashpoint
+
+290
+00:28:56,520 --> 00:29:01,020
+continuity, Ralph was alive once again,
+portrayed as a private investigator
+
+291
+00:29:01,020 --> 00:29:06,580
+specializing in metahuman cases, and who had
+withdrawn from the public eye after Sue's
+
+292
+00:29:06,580 --> 00:29:13,480
+apparent death in a metahuman-related accident.
+Isolated and emotionally fractured, he was also
+
+293
+00:29:13,480 --> 00:29:18,780
+physically unstable. His body's elasticity
+deteriorated from exposure to corrupted
+
+294
+00:29:18,780 --> 00:29:25,300
+synthetic gingold used in unauthorized
+experiments. Ralph's condition worsened until
+
+295
+00:29:25,300 --> 00:29:31,600
+he was found by Batman and the Flash who brought him
+to Star Labs. There, a Medigine Regeneration
+
+296
+00:29:31,600 --> 00:29:37,460
+Chamber stabilized his molecules and restored
+his powers. Grateful for his second chance, Ralph
+
+297
+00:29:37,460 --> 00:29:44,000
+resumed his role as elongated man. Operating
+under the alias Big Shot, he infiltrated the
+
+298
+00:29:44,000 --> 00:29:49,620
+Seeker Six under the direction of the Riddler who
+was manipulating the team under the codename
+
+299
+00:29:49,620 --> 00:29:56,060
+Mockingbird. Sue, who supposed death had been
+fabricated as part of Ralph's cover story, was
+
+300
+00:29:56,060 --> 00:30:01,080
+later revealed to be alive. Upon reuniting, the
+couple reconciled and resumed their
+
+301
+00:30:01,080 --> 00:30:06,680
+crime-solving partnership, continuing their
+adventures together. Powers-wise, elongated
+
+302
+00:30:06,680 --> 00:30:12,360
+man possesses an elastic body which allows him to
+stretch and reshape his physical form,
+
+303
+00:30:12,360 --> 00:30:17,520
+contorting into nearly any shape with
+extraordinary precision. His elasticity also
+
+304
+00:30:17,520 --> 00:30:22,940
+provides him with enhanced durability and
+resistance to physical trauma. He can flatten
+
+305
+00:30:22,940 --> 00:30:29,100
+himself, elongate his limbs, slip through narrow
+spaces, and rebound from impacts that would
+
+306
+00:30:29,100 --> 00:30:35,920
+incapacitate normal humans. His flexibility is
+matched by his brilliant deductive mind. He is a
+
+307
+00:30:35,920 --> 00:30:41,880
+world-class detective whose keen instincts and
+analytical skills rival the best investigators
+
+308
+00:30:41,880 --> 00:30:48,860
+on earth. And that's elongated man. Elongated man
+is probably, I think, an underrated character,
+
+309
+00:30:48,860 --> 00:30:56,520
+but with the worst damn origin story in existence.
+He basically drank fruit juice and became
+
+310
+00:30:56,520 --> 00:31:01,580
+stretchy. Hey man, it was the Silver Age! What are
+you gonna do? Silver Age doesn't cut it. Like, that
+
+311
+00:31:01,580 --> 00:31:07,540
+sounds more like a Golden Age-type origin story.
+So even saying it's the Silver Age is just sad. Out
+
+312
+00:31:07,540 --> 00:31:12,020
+of all the origin stories we've discussed on this
+podcast, that's the worst one. And probably will
+
+313
+00:31:12,020 --> 00:31:18,620
+remain the worst one. At the very least, it's
+unique, alright? Fruit juice? Come on! Inhuman
+
+314
+00:31:18,620 --> 00:31:23,100
+origins? Way better, you know? The whole
+backstory with the Kree experimentation on early
+
+315
+00:31:23,100 --> 00:31:28,760
+humans, special genes that give them powers when
+they're exposed to an alien element. That's how
+
+316
+00:31:28,760 --> 00:31:35,760
+you do a Silver Age origin story right there. But
+you know what's more realistic? Fruit juice! Let
+
+317
+00:31:35,760 --> 00:31:42,280
+me get into Medusa's backstory. In the hidden city
+of Adelene, Medusa-Litha-Melaquin was born into
+
+318
+00:31:42,280 --> 00:31:47,960
+the Inhuman Royal Family, the daughter of Quillen
+and Ember, and sister to Crystal. When she was an
+
+319
+00:31:47,960 --> 00:31:53,480
+infant, her parents exposed her to the Tarogen
+Mist, the mutagenic vapor that unlocks late
+
+320
+00:31:53,480 --> 00:31:58,640
+in-inhuman traits, which granted her prehensile
+crimson hair able to lift great weights,
+
+321
+00:31:58,640 --> 00:32:03,680
+lash-like whips, and move with the dexterity of
+added limbs. You can learn more about Tarogenesis
+
+322
+00:32:03,680 --> 00:32:09,200
+and the history of the Inhumans in our Shazam vs
+Blackbolt dual episode. During adolescence,
+
+323
+00:32:09,200 --> 00:32:13,880
+Medusa regularly visited her distant cousin
+Blackbolt, who was confined in an isolation
+
+324
+00:32:13,880 --> 00:32:19,220
+chamber because a whisper from his voice could
+level mountains. They invented a private sign
+
+325
+00:32:19,220 --> 00:32:24,000
+language, shared secret conversations through
+the glass, and fell in love. Soon after
+
+326
+00:32:24,000 --> 00:32:27,780
+Blackbolt's 18th birthday, his parents were
+accidentally killed when his voice destroyed
+
+327
+00:32:27,780 --> 00:32:32,600
+their spacecraft. The tragedy placed the young
+man on the throne, with Medusa publicly
+
+328
+00:32:32,600 --> 00:32:37,220
+acknowledged as his betrothed. Early in
+Blackbolt's reign, the Alpha Primitives,
+
+329
+00:32:37,220 --> 00:32:42,480
+Adelene's genetically engineered labor cast,
+rebelled. Maximus, Blackbolt's unstable
+
+330
+00:32:42,480 --> 00:32:48,240
+younger brother, exposed three Alpha Primitives
+to experimental Tarogen energy, mutating them
+
+331
+00:32:48,240 --> 00:32:54,140
+into monstrous beings called the Tricon. Medusa
+battled the trio from a sky sled, but the craft
+
+332
+00:32:54,140 --> 00:32:59,440
+crashed, and the impact left her an amnesiac
+wanderer. She drifted through Europe, where she
+
+333
+00:32:59,440 --> 00:33:04,640
+was discovered by the villain, Wizard, who
+recruited Medusa into his frightful four team.
+
+334
+00:33:04,640 --> 00:33:09,020
+Wizard's mind-altering devices kept her
+obedient while she fought the Fantastic Four on
+
+335
+00:33:09,020 --> 00:33:14,360
+several occasions. Eventually, Medusa's
+cousin, the Inhuman Warrior Gorgon, arrived on
+
+336
+00:33:14,360 --> 00:33:19,280
+Earth to retrieve her. Medusa was returned to
+Adelene, where the shock of familiar
+
+337
+00:33:19,280 --> 00:33:24,280
+surroundings restored her memory. During her
+absence, Maximus had seized the throne and
+
+338
+00:33:24,280 --> 00:33:29,360
+declared Medusa his future queen. He sealed the
+city inside an energy dome generated from
+
+339
+00:33:29,360 --> 00:33:34,200
+negative zone particles. Blackbolt used his
+devastating voice to shatter the barrier,
+
+340
+00:33:34,200 --> 00:33:39,000
+freeing the Inhumans but leveling large portions
+of their capital. With Adelene's secrets now
+
+341
+00:33:39,000 --> 00:33:44,640
+exposed, the royal family undertook a diplomatic
+mission among humans. In New York, Medusa was
+
+342
+00:33:44,640 --> 00:33:49,640
+manipulated into battling Spiderman, and the
+Wizard briefly recaptured her before she escaped
+
+343
+00:33:49,640 --> 00:33:55,120
+again. Medusa soon forged friendlier ties with
+humanity. When Susan Richards left the Fantastic
+
+344
+00:33:55,120 --> 00:33:59,820
+Four, Medusa filled her vacancy, fighting
+threats on Earth and in deep space attending
+
+345
+00:33:59,820 --> 00:34:03,540
+Crystal's marriage to the speedster
+Quicksilver. You can learn more about the
+
+346
+00:34:03,540 --> 00:34:07,820
+Fantastic Four in their duel against the Justice
+Society and more about Quicksilver in his duel
+
+347
+00:34:07,820 --> 00:34:12,620
+against the Flash. After Susan Richards returned
+to the Fantastic Four, Medusa rejoined Blackbolt
+
+348
+00:34:12,620 --> 00:34:17,040
+and guided Adelene through environmental
+crises. Earth's pollution threatened in human
+
+349
+00:34:17,040 --> 00:34:22,949
+biology, so the city was relocated to the
+oxygen-rich blue area on the moon. There,
+
+350
+00:34:22,949 --> 00:34:28,020
+Blackbolt and Medusa married, formalizing her
+position as queen consort and royal interpreter.
+
+351
+00:34:28,020 --> 00:34:33,100
+A new conflict flared when Medusa became
+pregnant. The genetics council ruled the fetus
+
+352
+00:34:33,100 --> 00:34:37,889
+too dangerous, fearing it might combine
+Maximus's madness with Blackbolt's power and
+
+353
+00:34:37,889 --> 00:34:43,679
+ordered termination. Defying them, Medusa fled
+to Earth's deserts and gave birth in secrecy to
+
+354
+00:34:43,679 --> 00:34:49,100
+Ahura. Returning under truce, she surrendered
+the infant for study, unaware the council planned
+
+355
+00:34:49,100 --> 00:34:54,600
+to trade him to human scientists for Earth
+technology. The transport crashed, Ahura
+
+356
+00:34:54,600 --> 00:35:00,960
+vanished and Medusa sank into depression. Years
+later, the boy, aged rapidly by his genetics, was
+
+357
+00:35:00,960 --> 00:35:06,350
+recovered, declared unstable, and imprisoned in
+solitary confinement, much as his father once had
+
+358
+00:35:06,350 --> 00:35:11,200
+been. Public outrage over the council's
+duplicity forced both council and royal family to
+
+359
+00:35:11,200 --> 00:35:16,060
+advocate Adelene, but political chaos soon
+demanded the royals resume their leadership,
+
+360
+00:35:16,060 --> 00:35:20,280
+still headquartered on the moon. When most of the
+Earth's mutants were stripped of their powers by
+
+361
+00:35:20,280 --> 00:35:25,320
+the Scarlet Witch's magic, Crystal's ex-husband
+Quicksilver, stripped of his mutant speed,
+
+362
+00:35:25,320 --> 00:35:30,280
+sought asylum in Adelene. Medusa granted refuge
+before bait him from entering the Tarjan
+
+363
+00:35:30,280 --> 00:35:36,240
+Chambers. Quicksilver defied her, stole Tarjan
+crystals, and fled. In the ensuing turmoil,
+
+364
+00:35:36,240 --> 00:35:41,320
+Blackbolt snapped at Medusa for misinterpreting
+his silent orders before the council, and Maximus
+
+365
+00:35:41,320 --> 00:35:46,780
+exploited their marital strain by psychically
+darkening Medusa's thoughts. Confused, she
+
+366
+00:35:46,780 --> 00:35:51,140
+visited Maximus in a cell, and under his
+influence, they shared a single kiss that
+
+367
+00:35:51,140 --> 00:35:55,890
+Blackbolt witnessed in anguish. Not long after
+the royal family learned Blackbolt had been
+
+368
+00:35:55,890 --> 00:36:01,680
+replaced by a scroll, a shapeshifting alien
+infiltrator. Medusa led an assault into galactic
+
+369
+00:36:01,680 --> 00:36:06,140
+territory controlled by the Kree Empire,
+bargaining her sister Crystal's hand in marriage
+
+370
+00:36:06,140 --> 00:36:11,580
+to the Kree leader Ronin in exchange for aid,
+rescuing Blackbolt and Ahura. You can learn more
+
+371
+00:36:11,580 --> 00:36:17,200
+about Ronin in his dual episode against Big Barda.
+Upon their return, Maximus had fortified Adelene
+
+372
+00:36:17,200 --> 00:36:21,740
+and converted the city into a starship. The
+Inhumans launched a campaign that routed the
+
+373
+00:36:21,740 --> 00:36:26,950
+scrolls, and, after fierce clashes with the Shiar
+Empire, left Blackbolt and the Shiar ruler
+
+374
+00:36:26,950 --> 00:36:33,180
+apparently dead in a doomsday blast. Medusa,
+weeping yet resolute, declared victory against
+
+375
+00:36:33,180 --> 00:36:39,820
+the Shiar, and assumed sole rule of both Inhumans
+and the newly conquered Kree. As queen, she
+
+376
+00:36:39,820 --> 00:36:45,360
+quelled riots incited by outside agitators and
+secretly staged a faux rebellion engineered by
+
+377
+00:36:45,360 --> 00:36:51,500
+Maximus to prove the royal family's necessity,
+defeating it publicly to consolidate authority.
+
+378
+00:36:51,500 --> 00:36:56,320
+During this period, she represented the Inhumans
+on the Illuminati, a clandestine council of
+
+379
+00:36:56,320 --> 00:37:01,200
+Earth's foremost strategists. Despite those
+successes, disaster struck when Blackbolt
+
+380
+00:37:01,200 --> 00:37:07,080
+detonated a pterogen device while repelling an
+attack on Adelene by Thanos. The Inhuman City was
+
+381
+00:37:07,080 --> 00:37:11,860
+obliterated and a miscarrying pterogen
+particles drifted across Earth, awakening
+
+382
+00:37:11,860 --> 00:37:17,700
+dormant Inhuman genes amongst some humans,
+creating new humans. Medusa established new
+
+383
+00:37:17,700 --> 00:37:22,720
+Adelene at the mouth of the Hudson River, welcomed
+the royal family's newly empowered subjects, and
+
+384
+00:37:22,720 --> 00:37:27,890
+defeated rogue new human factions. She assisted
+Blackbolt in saving their son Ahura from the
+
+385
+00:37:27,890 --> 00:37:32,760
+time-manipulator Kang the Conqueror and guided
+him home. You can learn more about Kang in his duel
+
+386
+00:37:32,760 --> 00:37:37,980
+against Professor Zoom. Elsewhere, scientists
+discovered that lingering pterogen clouds were
+
+387
+00:37:37,980 --> 00:37:43,480
+poisonous to mutants, igniting global tension.
+Medusa pursued diplomacy, but hostilities
+
+388
+00:37:43,480 --> 00:37:48,310
+escalated. Confronted with the looming
+extinction of mutants, she chose to destroy the
+
+389
+00:37:48,310 --> 00:37:52,680
+last pterogen cloud. The decision sacrificed her
+people's future ability to undergo
+
+390
+00:37:52,680 --> 00:37:57,720
+pterogenesis, but it averted worldwide
+disaster. Medusa abdicated the throne and
+
+391
+00:37:57,720 --> 00:38:03,930
+appointed the engineer Iso to guide Adelene under
+a more democratic charter. No longer monarchs,
+
+392
+00:38:03,930 --> 00:38:09,140
+Medusa and Blackbolt led an exploratory mission
+to the ruined alien Kree world of Hala. Their outer
+
+393
+00:38:09,140 --> 00:38:14,320
+space expedition led them to an ancient substance
+called Primogen, the source of all pterogen
+
+394
+00:38:14,320 --> 00:38:19,200
+guarded by the cosmic gardeners known as the
+progenitors. During the voyage, Medusa and
+
+395
+00:38:19,200 --> 00:38:24,360
+Blackbolt reconciled emotionally, agreeing to
+stand as partners, but not lovers. The pair
+
+396
+00:38:24,360 --> 00:38:29,360
+eventually returned to Adelene, their long
+severed bond rekindled once more, as I said about
+
+397
+00:38:29,360 --> 00:38:34,960
+rebuilding their people's future yet again. And
+that's Medusa's backstory powers-wise. Medusa
+
+398
+00:38:34,960 --> 00:38:40,120
+has the enhanced physiology of an inhuman granted
+to her through pterogenesis. This includes
+
+399
+00:38:40,120 --> 00:38:45,890
+greater strength, speed, and durability than any
+normal human. She also has trichokinesis, or the
+
+400
+00:38:45,890 --> 00:38:51,320
+ability to psionically control every strand of
+her hair, each one having tensile strength and
+
+401
+00:38:51,320 --> 00:38:57,720
+durability of an iron wire. With her hair, she can
+lift over one and a half tons and she can move it in
+
+402
+00:38:57,720 --> 00:39:02,700
+any manner imaginable from performing delicate
+tasks like threading a needle, creating powerful
+
+403
+00:39:02,700 --> 00:39:08,540
+whips, or ensnaring opponents. She cannot detect
+pain through her hair, but she can feel sensations
+
+404
+00:39:08,540 --> 00:39:14,720
+through her psionic connection to its strands.
+Finally, Medusa is a skilled diplomat and an
+
+405
+00:39:14,720 --> 00:39:21,820
+experienced fighter. And that's Medusa. I have to
+say, elongated man may have kind of a silly origin,
+
+406
+00:39:21,820 --> 00:39:30,520
+but at least the guy did not marry his cousin. Oh
+dang, what is this, Game of Thrones? Kinda. I mean,
+
+407
+00:39:30,520 --> 00:39:35,950
+they're distant cousins, alright? I don't know
+how far removed they are, but uh, yeah, that
+
+408
+00:39:35,950 --> 00:39:39,660
+thing's kind of common I guess within royalty.
+That's a pretty good description though. At their
+
+409
+00:39:39,660 --> 00:39:45,520
+best, the inhumans kind of feel like a sci-fi Game
+of Thrones. That inhuman show should have been so
+
+410
+00:39:45,520 --> 00:40:44,060
+much better. So much better, I know, right? But now
+that we've got the characters' histories and
+
+411
+00:40:44,060 --> 00:40:49,450
+abilities out of the way, let's speculate on how
+one of the 1000 simulated matches will go. The
+
+412
+00:40:49,450 --> 00:40:53,900
+winners determined by our simulations not our
+speculation, but it's fun to imagine how the fight
+
+413
+00:40:53,900 --> 00:41:26,310
+could play out. AGA9K, what are the rules of our
+speculation? Alright, then let's get into it.
+
+414
+00:41:26,310 --> 00:41:32,400
+Elongated man and Medusa meet on the battlefield?
+Who goes first? I'm gonna say that elongated man
+
+415
+00:41:32,400 --> 00:41:39,320
+starts with his nose twitching, probably, as he
+tries to make sense of this new foe before him.
+
+416
+00:41:39,320 --> 00:41:47,140
+Okay, while elongated man is busy twitching his
+nose, Medusa extends her hair downward and uses
+
+417
+00:41:47,140 --> 00:41:52,220
+her hair like legs to race toward elongated man
+moving across the floor, kind of like a Mustang or
+
+418
+00:41:52,220 --> 00:41:59,080
+something, and she uses some of her hair to wrap him
+up and crush him in her hair grasp. She tries at
+
+419
+00:41:59,080 --> 00:42:06,060
+least because elongated man, he's gonna inflate
+his body like a balloon to escape her grasp and he's
+
+420
+00:42:06,060 --> 00:42:12,180
+gonna quickly contract his body, then stretch his
+legs to double kick her right in the gut. Well,
+
+421
+00:42:12,180 --> 00:42:18,080
+Medusa blocks the double kick because she's gonna
+form some of her hair into a shield, right, and her
+
+422
+00:42:18,080 --> 00:42:23,960
+hair is super durable, so the hair blocks the
+attack and then her hair grabs his legs and she also
+
+423
+00:42:23,960 --> 00:42:29,200
+grabs his arms with other strands of hair and she's
+gonna stretch elongated man out just like Taffy
+
+424
+00:42:29,200 --> 00:42:35,740
+until he snaps. Alright, well as she continues to
+stretch him and find out that his limit is really
+
+425
+00:42:35,740 --> 00:42:40,740
+long, that's when he's gonna shoot his head
+forward, you know, stretching his neck to
+
+426
+00:42:40,740 --> 00:42:46,820
+headbutt her right in the face and just blinding
+her from the pain. That was a pretty good move.
+
+427
+00:42:46,820 --> 00:42:51,660
+Okay, so that's probably gonna hurt her, she drops
+his legs and arms, but she's durable, you know,
+
+428
+00:42:51,660 --> 00:42:57,820
+she's an inhuman, but she's also royally pissed,
+okay, so she forms some of her hair into a sharp like
+
+429
+00:42:57,820 --> 00:43:03,240
+spearhead and kind of like a scorpion tail, she
+strikes forward with it and stabs through
+
+430
+00:43:03,240 --> 00:43:08,740
+elongated man's chest. Damn, okay, well
+elongated man, he's essentially immune to blunt
+
+431
+00:43:08,740 --> 00:43:15,430
+physical force, but he can be pierced or stabbed by
+sharpen of objects, but not this time. I'm gonna
+
+432
+00:43:15,430 --> 00:43:21,930
+say as soon as he feels the initial poke, he's gonna
+stretch his chest backward to compensate. And
+
+433
+00:43:21,930 --> 00:43:29,390
+while she's trying to stab essentially putty,
+elongated man is gonna stretch himself really
+
+434
+00:43:29,390 --> 00:43:36,600
+wide covering Medusa and all of her hair in like a
+giant tarp essentially made of his body. And
+
+435
+00:43:36,600 --> 00:43:42,000
+that's gonna suffocate her beneath him. Couldn't
+she just stab him repeatedly with her hair from
+
+436
+00:43:42,000 --> 00:43:50,800
+under that tarp with like a thousand hair needles?
+That's just acupuncture, you know. If anything,
+
+437
+00:43:50,800 --> 00:43:57,860
+you know, she blocks his chi or some shit. All
+right, okay, well then she turns her hair into like
+
+438
+00:43:57,860 --> 00:44:03,770
+spinning fan blades, which I started doing the
+comics once. So she fills this elongated man tarp
+
+439
+00:44:03,770 --> 00:44:09,740
+with air, which is gonna cause him to rise and lift
+off of her like a sheet in the wind. And he doesn't
+
+440
+00:44:09,740 --> 00:44:15,660
+want to get blown away, so he shrinks back down to
+normal size. And at that point, Medusa lashes him
+
+441
+00:44:15,660 --> 00:44:21,080
+with hundreds of hair whips, just like loud
+cracking all over his body, like just like
+
+442
+00:44:21,080 --> 00:44:28,440
+firecrackers. And he gets whipped to death
+basically. Oh, damn. Okay, well, he's going to
+
+443
+00:44:28,440 --> 00:44:36,380
+expand the size of one of his hands to act as a
+barrier between his body and her whips. And sure,
+
+444
+00:44:36,380 --> 00:44:43,140
+that probably means he's whinsing by how much his
+hand hurts, but he'll live. And it's going to give
+
+445
+00:44:43,140 --> 00:44:50,080
+him enough time to grow his other hand to giant size
+and have it reach over his barrier to slam down on
+
+446
+00:44:50,080 --> 00:44:56,460
+top of Medusa, squashing her into the ground like
+whack a mole. All right, okay, so she's like in a
+
+447
+00:44:56,460 --> 00:45:00,940
+hole in the ground, but she's going to come out of
+the hole unscathed because at the very last
+
+448
+00:45:00,940 --> 00:45:07,780
+second, she used her hair to wrap around her entire
+body and form like a hair armor, like a hair suit of
+
+449
+00:45:07,780 --> 00:45:14,700
+armor type thing. And as she comes out, she lassos
+out a strand that wraps around elongated man's
+
+450
+00:45:14,700 --> 00:45:19,860
+neck and she tightens it just grotting him to
+death, like either causing him to die from
+
+451
+00:45:19,860 --> 00:45:26,480
+strangulation, or like even if he can stretch his
+neck and trachea thin enough to still breathe,
+
+452
+00:45:26,480 --> 00:45:32,400
+she's going to tighten it even more just to take his
+head completely off. Match over. Dude, elongated
+
+453
+00:45:32,400 --> 00:45:38,500
+man, as he's being grotted, I'm going to say he
+quickly stretches his fingers down and around
+
+454
+00:45:38,500 --> 00:45:44,980
+Medusa. So they approach her from behind out of her
+line of sight, and the fingers are going to plunge
+
+455
+00:45:44,980 --> 00:45:50,900
+into her ears, making their way past her skull to
+her brain, and it's just going to squeeze it to
+
+456
+00:45:50,900 --> 00:45:57,140
+death essentially. So she dies before he gets
+strangled and now the match is really over. All
+
+457
+00:45:57,140 --> 00:46:02,480
+right, well, that seems like a good place to end the
+match. So either elongated man gets garotted by
+
+458
+00:46:02,480 --> 00:46:09,000
+Medusa's hair, or he squeezes her brain by
+entering her skull through the ear canal. Let's go
+
+459
+00:46:09,000 --> 00:46:13,840
+ahead and run the simulations and find out which of
+these two scenarios ends up happening by coming
+
+460
+00:46:13,840 --> 00:46:21,600
+back with a winner. AG9K, hit it! Inputting data,
+running calculations, processing results,
+
+461
+00:46:21,600 --> 00:46:27,500
+simulations complete. All right, I liked this
+matchup. I wasn't quite sure how it would go. I was
+
+462
+00:46:27,500 --> 00:46:33,060
+hoping it wouldn't be too much like our Plastic Man
+vs. Mr. Fantastic dual episode, but I thought this
+
+463
+00:46:33,060 --> 00:46:38,840
+would be neat because it's really a stretchy guy
+versus a woman who makes her hair stretch, and I was
+
+464
+00:46:38,840 --> 00:46:44,380
+wondering how that would affect the stats, right?
+Because in some ways, Medusa stretching her hair
+
+465
+00:46:44,380 --> 00:46:49,780
+gives her an advantage, because it's not really
+her making herself vulnerable, it's just her
+
+466
+00:46:49,780 --> 00:46:54,840
+hair, right? So she has pretty damn good
+evasiveness, although elongated man, of course,
+
+467
+00:46:54,840 --> 00:47:00,800
+is really damn evasive himself. Right, we did say
+that elongated man is faster than Medusa, just
+
+468
+00:47:00,800 --> 00:47:07,360
+because of the nature of his powers, and he's an
+ally of Flash who he's been able to keep up with.
+
+469
+00:47:07,360 --> 00:47:13,360
+Yeah, he can stretch his legs like hundreds of feet
+and make huge strides, whereas Medusa can't
+
+470
+00:47:13,360 --> 00:47:18,360
+quite, it doesn't really do that to the same
+effect. We also said that elongated man was more
+
+471
+00:47:18,360 --> 00:47:24,360
+durable considering how malleable his body is.
+Yeah, Medusa is durable if she gets hit, but she
+
+472
+00:47:24,360 --> 00:47:30,600
+herself is not malleable, it's her hair. So in
+terms of using her hair defensively, we put those
+
+473
+00:47:30,600 --> 00:47:35,980
+types of moves in the evasiveness category as
+opposed to durability. And the only other stat
+
+474
+00:47:35,980 --> 00:47:41,280
+category where elongated man came out on top was
+intellect, considering he's an incredibly
+
+475
+00:47:41,280 --> 00:47:47,800
+intelligent and deductive thinker, but Medusa
+was not only more versatile, but also had a greater
+
+476
+00:47:47,800 --> 00:47:52,100
+damage potential, surprisingly. Oh yeah, her
+hair is really strong, I've seen her knock around
+
+477
+00:47:52,100 --> 00:47:56,820
+characters like Thing and Iron Man with her hair.
+We also interestingly said that Medusa had
+
+478
+00:47:56,820 --> 00:48:04,220
+greater perception because of her connection to
+her hair. Yeah, she has psionic feelers with her
+
+479
+00:48:04,220 --> 00:48:09,380
+hair essentially. So taking all of these stats
+into consideration, Joseph, who do you think came
+
+480
+00:48:09,380 --> 00:48:15,940
+out on top? I don't know, I'm gonna say Medusa, I
+think it's gonna be close though. Big surprise,
+
+481
+00:48:15,940 --> 00:48:20,980
+biased. Is it though? Is it a surprise that I would
+guess the Marvel character? Because I don't think
+
+482
+00:48:20,980 --> 00:48:28,680
+so. What is a surprise is how many of our Instagram
+followers that voted in our poll that we put up
+
+483
+00:48:28,680 --> 00:48:34,960
+chose elongated man as the likely winner, because
+he got 63% of the votes. Now both of these
+
+484
+00:48:34,960 --> 00:48:41,160
+characters, I would say are pretty obscure,
+potentially, though Medusa is probably more
+
+485
+00:48:41,160 --> 00:48:46,840
+obscure than elongated man, and that's why I think
+he got the edge in the poll. I wouldn't know how to
+
+486
+00:48:46,840 --> 00:48:54,940
+quantify that, but maybe we just did. Well, let's
+find out who won. AJ9K, the results please.
+
+487
+00:48:54,940 --> 00:49:08,160
+Alright, the winner between elongated man and
+Medusa is Medusa. Yes, but it was so close. Medusa
+
+488
+00:49:08,160 --> 00:49:19,600
+won 514 of the 1000 matches, or 51.4%, compared to
+elongated man, who only won 486 of his matches.
+
+489
+00:49:19,600 --> 00:49:24,800
+It's a coin toss, pretty much. I wonder what put
+Medusa over the edge, I bet you it was probably her
+
+490
+00:49:24,800 --> 00:49:30,400
+inhuman physiology. Well, actually it was her
+damage. Okay, so her inhuman powers then. Which
+
+491
+00:49:30,400 --> 00:49:35,460
+makes sense, I mean like her hair can perform a lot
+of the same feats that elongated man stretching
+
+492
+00:49:35,460 --> 00:49:40,770
+can, but I think her hair is a whole lot more durable
+and strong than elongated man's body. Well,
+
+493
+00:49:40,770 --> 00:49:45,740
+considering it's like iron fibers, yeah, you
+could probably make that argument. But that
+
+494
+00:49:45,740 --> 00:49:50,360
+particular stat being that much higher than
+elongated man doesn't surprise me, considering
+
+495
+00:49:50,360 --> 00:49:57,270
+her ranking within the inhuman royal family. Like
+the royal family tends to be amongst the most
+
+496
+00:49:57,270 --> 00:50:03,520
+powerful inhumans. That's true. So for her to be
+queen means that she could basically take on
+
+497
+00:50:03,520 --> 00:50:10,020
+almost any other inhuman, right? Blackbolt is
+just insanely powerful, so I don't know. I mean,
+
+498
+00:50:10,020 --> 00:50:15,440
+she's shut him up a few times with her hair, so it's
+hard to say. It all depends on, you know, how the
+
+499
+00:50:15,440 --> 00:50:20,060
+story's being written. We could run the stats, who
+knows. Wait, you're saying she's blocked his
+
+500
+00:50:20,060 --> 00:50:27,620
+speech with her hair? She kept his jaw closed so he
+couldn't speak. Gotcha. Okay. Wow. Well, I gotta
+
+501
+00:50:27,620 --> 00:50:33,300
+say, I'm not surprised that this match was this
+close. I assumed it was going to be this close. It's
+
+502
+00:50:33,300 --> 00:50:37,020
+always nice when the matches are close like this,
+because it means it was just a good pairing. And
+
+503
+00:50:37,020 --> 00:50:41,700
+when I lose, I think it just means that Jonathan has
+to respect the Marvel character even more when
+
+504
+00:50:41,700 --> 00:50:47,270
+it's close. That being said, I don't have to
+respect any DC character, Marvel wins. So
+
+505
+00:50:47,270 --> 00:50:52,720
+elongated man could take his dumb nose twitching,
+ginkgo biloba, take an ass, and get the hell out of
+
+506
+00:50:52,720 --> 00:50:57,340
+here. Well, you know what? At the end of the day,
+elongated man gets to go home to a beautiful wife
+
+507
+00:50:57,340 --> 00:51:04,860
+who I'm sure is very satisfied by him in multiple
+ways. And therefore he's the true winner. I was
+
+508
+00:51:04,860 --> 00:51:10,220
+wondering when you were going to go for the dick
+joke. Elongated man is just, it's just the worst
+
+509
+00:51:10,220 --> 00:51:14,400
+name, the character with the worst name and the
+worst origin. There's actually a panel in the
+
+510
+00:51:14,400 --> 00:51:19,640
+comics where elongated man is like, I love my wife
+because she's been around guys like Superman, it
+
+511
+00:51:19,640 --> 00:51:26,720
+still loves me. And I'm like, we all know why. That
+does it for this dual guys. AJ and IK help close this
+
+512
+00:51:26,720 --> 00:52:00,440
+out. Max Destruction, Senjoh World, and Console
+Combat. In our next episode, we are doing another
+
+513
+00:52:00,440 --> 00:52:07,920
+dual this time between the insanely powerful
+characters, Mr. Mxyz Spitalik, and Impossible
+
+514
+00:52:07,920 --> 00:52:12,680
+Man. But that does it for this episode. We want to
+give a big thanks to our executive producers, John
+
+515
+00:52:12,680 --> 00:52:17,200
+Staroski, Zachary Hepburn, Dustin Balcom,
+Mickey Mathen-Gian, Nathaniel Wagner, Levi
+
+516
+00:52:17,200 --> 00:52:23,400
+Yatyn, Austin Wazalowski, AJ Dunkerly, Nick
+Obanto, Scott Camacho, Gil Camacho, Adam Speese,
+
+517
+00:52:23,400 --> 00:52:29,460
+Dean Moleski, Devin Davis, Joseph Kirsting, Josh
+Leiner, Mike Williams, Oscar Galvez, and Paul
+
+518
+00:52:29,460 --> 00:52:34,700
+Graves for helping make this podcast possible.
+And we'll talk to you guys next week. A popin' away,
+
+519
+00:52:34,700 --> 00:52:34,860
+true believers.
