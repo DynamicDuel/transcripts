@@ -1,0 +1,3423 @@
+1
+00:00:00,580 --> 00:00:27,620
+This is a DynaMic Network Podcast. Hi and welcome
+to the Dynamic Dual Podcast, a weekly show where we
+
+2
+00:00:27,620 --> 00:00:32,640
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:32,640 --> 00:00:37,840
+their characters in stat-based battle
+simulations. I'm Marvelous Joe and I'm his twin
+
+4
+00:00:37,840 --> 00:00:43,460
+brother Johnny DC. And in this episode, we're
+going to find out who would win in a fight between
+
+5
+00:00:43,460 --> 00:00:49,020
+DC's Freedom Fighters and Marvel's X-Factor.
+It's a team duel, we're pitting seven characters
+
+6
+00:00:49,020 --> 00:00:52,660
+from the Freedom Fighters against seven
+characters from X-Factor. For an all-out, no
+
+7
+00:00:52,660 --> 00:00:57,700
+holds barred brawl. We're going to input all the
+character stats from simulations to find out who
+
+8
+00:00:57,700 --> 00:01:03,840
+the superior group is. Yeah, this matchup was
+chosen by our executive producers in part because
+
+9
+00:01:03,840 --> 00:01:09,820
+both teams have been government-based agencies.
+And with Independence Day coming up and July
+
+10
+00:01:09,820 --> 00:01:14,180
+already being packed full of reviews, we
+definitely wanted to get this match in before
+
+11
+00:01:14,180 --> 00:01:18,120
+then. Yeah, we'll find out which team wins later on
+this episode. Before that, we're going to break
+
+12
+00:01:18,120 --> 00:01:22,920
+down the latest comic book movie news to come out
+this past week of which we finally got some news.
+
+13
+00:01:22,920 --> 00:01:28,020
+There was the new trailer for the Superman movie
+announcing that tickets are on sale. There was the
+
+14
+00:01:28,020 --> 00:01:33,280
+second trailer for Iron Heart. And DC Studios
+announced that they're making a Mr. Miracle
+
+15
+00:01:33,280 --> 00:01:38,620
+animated series. As always, we list our segment
+times in our episode description, so feel free to
+
+16
+00:01:38,620 --> 00:01:43,060
+check out the show notes if you want to skip ahead to
+a particular topic. Our artificially
+
+17
+00:01:43,060 --> 00:01:49,960
+intelligent duel simulator, AJ9K, has a quick
+message for our listeners, so listen up. Why hello
+
+18
+00:01:49,960 --> 00:01:55,000
+there. Do you want even more from this podcast?
+Then become a part of the Dynamic Duel Community on
+
+19
+00:01:55,000 --> 00:01:59,980
+Patreon, where you can choose from three tiers.
+The Dynamic 2.0 tier gives you access to our
+
+20
+00:01:59,980 --> 00:02:04,940
+Discord chat server. The Fantastic Four tier
+gives you two bonus episodes each month, and the
+
+21
+00:02:04,940 --> 00:02:10,539
+X-Force tier makes you an executive producer of
+this show. Lastly, the Diner Mike podcast network
+
+22
+00:02:10,539 --> 00:02:15,500
+tier lets you create your own podcast using this
+Monte Carlo simulator. Johnny and Joe will help
+
+23
+00:02:15,500 --> 00:02:19,740
+you develop your show, provide graphic support
+and consultation, and get you simulation
+
+24
+00:02:19,740 --> 00:02:26,480
+results. Pitch the twins your ideas via email at
+dynamicduelpodcastatgmail.com. Check it out at
+
+25
+00:02:26,480 --> 00:02:33,780
+patreon.com slash dynamicduel. Pip pip cheerio.
+Thanks AJ9K, and thanks to everyone who supports
+
+26
+00:02:33,780 --> 00:02:38,780
+the podcast. Guys, be sure to tune in to the other
+shows in the Diner Mike podcast network this week,
+
+27
+00:02:38,780 --> 00:02:43,520
+including the console combat podcast, where
+hosts John and Dean simulate battles between
+
+28
+00:02:43,520 --> 00:02:49,680
+popular video game characters. In yesterday's
+episode, they pit the hero from Dragon Quest V
+
+29
+00:02:49,680 --> 00:02:57,060
+versus Ichiban Kasuga from Like a Dragon. Over on
+the Max Destruction podcast, hosts Scotty and
+
+30
+00:02:57,060 --> 00:03:02,160
+Gilly pit your favorite action heroes from film
+and television against each other. This week, the
+
+31
+00:03:02,160 --> 00:03:08,360
+brothers are pitting Danny Phantom against Space
+Ghost. And on the Senjo World podcast, hosts
+
+32
+00:03:08,360 --> 00:03:13,580
+Zachary Hepburn speculates on fights between fan
+favorite anime and manga characters. In his next
+
+33
+00:03:13,580 --> 00:03:19,520
+episode, Zach's going to reveal who'd win between
+Power from Chainsaw Man versus Mariah Kuriyama
+
+34
+00:03:19,520 --> 00:03:24,860
+from Beyond the Boundary. Visit
+dynamicpodcasts.com or click the link in our show
+
+35
+00:03:24,860 --> 00:03:30,540
+notes to listen to all of the shows and the Diner
+Mike podcast network. But with that out of the way,
+
+36
+00:03:30,540 --> 00:03:38,200
+quick to the no prize. A no prize is an award that
+Marvel used to give out to fans. Our version, the
+
+37
+00:03:38,200 --> 00:03:43,600
+Dynamic Dual No Prize, is a digital award that we
+post on Instagram for the person that we feel gave
+
+38
+00:03:43,600 --> 00:03:49,860
+the best answer to our question of the week. Last
+week we asked you guys, what Marvel or DC character
+
+39
+00:03:49,860 --> 00:03:55,760
+that we haven't done a duel with yet, are you still
+hoping we get to by January? And this is coming off
+
+40
+00:03:55,760 --> 00:04:02,060
+of the news that in January, Jonathan and I will
+have hit the 10 year anniversary for this podcast.
+
+41
+00:04:02,060 --> 00:04:06,960
+We'll be turning 40 and we have decided that at that
+point, this podcast will no longer be a weekly
+
+42
+00:04:06,960 --> 00:04:11,900
+show. We'll still do some review episodes when
+films come out, but this will be the last year for
+
+43
+00:04:11,900 --> 00:04:16,200
+dual episodes. Yeah, we got quite a number of
+answers, but we're going to break down three
+
+44
+00:04:16,200 --> 00:04:22,240
+honorable mentions before revealing this week's
+no prize winner. Our first honorable mention goes
+
+45
+00:04:22,240 --> 00:04:29,420
+to Travis Bailey, who said, What's up, this Travis
+Bailey, shout out to my good twin. All right, so I'm
+
+46
+00:04:29,420 --> 00:04:37,340
+not sure if y'all have done any, let me know. I'd
+like to see Saber II versus Slade Wilson, for sure.
+
+47
+00:04:37,340 --> 00:04:44,080
+Let me get Gladiator versus Lobo. That could be the
+main card. That could be the main event. Jamie
+
+48
+00:04:44,080 --> 00:04:51,280
+Madrox. Madrox and Gorilla Grodd, for sure. And
+where's Mephisto? Y'all done Mephisto yet? Y'all
+
+49
+00:04:51,280 --> 00:04:55,760
+got to get Mephisto in there. All right. So there
+were a whole lot of options in this one. We've
+
+50
+00:04:55,760 --> 00:05:00,340
+actually done a lot of these characters already.
+We did Deathstroke versus Deadpool. Saber Tooth,
+
+51
+00:05:00,340 --> 00:05:06,840
+we put against Killer Croc. Lobo, we put against
+Carnage. Gorilla Grodd, we put against Scylocke.
+
+52
+00:05:06,840 --> 00:05:11,920
+And Mephisto, we put against Sandman of the
+Enthalas. Yeah, but there are a number of
+
+53
+00:05:11,920 --> 00:05:18,400
+characters he mentioned that we haven't done
+duels with, namely, Multiple Man and Gladiator.
+
+54
+00:05:18,400 --> 00:05:24,400
+Yeah, Gladiator is the head of the Imperial Guard
+for the Shiar Alien race. He's basically just like
+
+55
+00:05:24,400 --> 00:05:29,040
+Superman. With all the weeks planned out for the
+rest of the year, by us and the executive producer
+
+56
+00:05:29,040 --> 00:05:34,900
+team, we won't be able to get to a Gladiator match,
+but we've done a lot of duels with Superman-like
+
+57
+00:05:34,900 --> 00:05:42,240
+characters, such as Superman versus Dr. Doom,
+Ultraman versus Hyperion, Sentry versus Zod,
+
+58
+00:05:42,240 --> 00:05:49,020
+things like that. And while we won't be getting to a
+Multiple Man individual duel, luckily Travis, he
+
+59
+00:05:49,020 --> 00:05:54,620
+will feature in this duel episode, Freedom
+Fighters versus X Factor. Right, so look forward
+
+60
+00:05:54,620 --> 00:06:01,080
+to that. Great answer, Travis. Our next honorable
+mention comes from Matt from Texas, who said, Hey
+
+61
+00:06:01,080 --> 00:06:06,420
+guys, Matt from Texas here. I want to see the Crime
+Syndicate versus the Squadron Supreme. Crime
+
+62
+00:06:06,420 --> 00:06:11,320
+Syndicate's Ultraman, Alman Superwoman, Johnny
+Quick, Power Ring, Dead Eye, and White Martian.
+
+63
+00:06:11,320 --> 00:06:15,480
+Versus the Squadron Supreme's Hyperion, Night
+Hawk, Power Princess, Blurred Doctor Spectrum,
+
+64
+00:06:15,480 --> 00:06:21,440
+Golden Archer, and Scrollion Skymaster. I think
+it'd be awesome to see two alternate versions of
+
+65
+00:06:21,440 --> 00:06:25,840
+the Justice League fight each other. That would
+have been a great matchup. Essentially, it's Evil
+
+66
+00:06:25,840 --> 00:06:30,900
+Justice League versus Marvel's version of the
+Justice League. But since they're both basically
+
+67
+00:06:30,900 --> 00:06:36,200
+iterations of the Justice League, we can probably
+assume that the match would be close to 50-50,
+
+68
+00:06:36,200 --> 00:06:42,100
+right? It's probably a coin toss. Although I'll
+say I really liked Matt's picks for each team. We
+
+69
+00:06:42,100 --> 00:06:47,100
+have done individual duels with Ultraman versus
+Hyperion. Yeah, I think that episode is probably
+
+70
+00:06:47,100 --> 00:06:52,480
+the closest we'll ever get to that match. Which
+hurts to say because I really love Squadron
+
+71
+00:06:52,480 --> 00:06:57,640
+Supreme, but we have a lot of other great team duels
+coming down the pike. You know, teams like West
+
+72
+00:06:57,640 --> 00:07:04,580
+Coast Avengers. The Inhumans, the Eternals,
+Legion of Superheroes, the Authority. So you
+
+73
+00:07:04,580 --> 00:07:09,040
+still got a lot of great team duels coming your way.
+So great answer, Matt. Our final honorable
+
+74
+00:07:09,040 --> 00:07:15,540
+mention goes to Alex Albro, who said, Hey guys, I
+think you should do a duel between Lois Lane and
+
+75
+00:07:15,540 --> 00:07:20,140
+Mary Jane, our Superwoman versus Jackpot. They
+could fight with their powers and compete to write
+
+76
+00:07:20,140 --> 00:07:26,420
+the best article for their respective dailies.
+I'd also like to see Kevin Feige versus James Gunn,
+
+77
+00:07:26,420 --> 00:07:31,880
+if you have a chance, and then also the last duel
+that I think we all want to see is Johnny DC versus
+
+78
+00:07:31,880 --> 00:07:37,160
+Marvelous Joe. Thanks guys. So actually the last
+matchup that you mentioned, Johnny DC versus
+
+79
+00:07:37,160 --> 00:07:43,420
+Marvelous Joe, Johnny DC would totally win no
+contest. What are you talking about? I would stomp
+
+80
+00:07:43,420 --> 00:07:48,980
+your goofy ass. Don't even try. Actually, we
+already ran these simulations for one of our
+
+81
+00:07:48,980 --> 00:07:55,140
+patrons one time, and we did determine I would win
+because frankly, I just have more weapons than
+
+82
+00:07:55,140 --> 00:08:00,660
+you. Yeah, I don't really own any weapons. So yeah,
+I would get my ass kicked. If it got into close range
+
+83
+00:08:00,660 --> 00:08:05,660
+though, I'm like quicker than Jonathan, right? So
+I just give them like a throat strike and he just
+
+84
+00:08:05,660 --> 00:08:12,200
+beat down for the count. What? No, you're not. I'm
+way faster than you. What are you talking about?
+
+85
+00:08:12,200 --> 00:08:18,500
+You know it. I know it. As far as Lois Lane versus
+Mary Jane Watson, that was actually a duel that was
+
+86
+00:08:18,500 --> 00:08:22,920
+pitched by Mickey Mathen-Gian, one of our
+executive producers. Although I think we
+
+87
+00:08:22,920 --> 00:08:28,180
+determined that there were just more prominent
+super powered characters that we wanted to get to
+
+88
+00:08:28,180 --> 00:08:34,600
+before them. Well, I mean, there are super powered
+versions of Lois Lane and Mary Jane Watson. Mary
+
+89
+00:08:34,600 --> 00:08:41,120
+Jane Watson is jackpot in the comic books and she
+gets a random power based on this like slot machine
+
+90
+00:08:41,120 --> 00:08:46,400
+gadget that she has. I don't know if a random power
+would help you against the powers of superwoman,
+
+91
+00:08:46,400 --> 00:08:52,000
+but if she rolls three sevens on her device, she
+gets like godlike power. It's a long shot though,
+
+92
+00:08:52,000 --> 00:08:57,420
+you know, could be interesting, but we're also
+trying to get to characters like Abomination and
+
+93
+00:08:57,420 --> 00:09:02,100
+Ocean Master and Jubilee and Guy Gardner and you
+know, some of these big time players that we just
+
+94
+00:09:02,100 --> 00:09:07,400
+haven't got to yet. But great answer, Alex. We want
+to give a quick shout out to Coy and Liao, who also
+
+95
+00:09:07,400 --> 00:09:13,100
+gave the suggestion of Lois Lane versus jackpot.
+Cyrus Moore, who said we should do a duel with
+
+96
+00:09:13,100 --> 00:09:18,240
+L'Arfles, which we won't get to, but we will be
+doing other ring powered characters. Daniel
+
+97
+00:09:18,240 --> 00:09:26,200
+Alonso suggested Armadillo, or as I like to call
+him, Armadildo, after the Modoc television show.
+
+98
+00:09:26,200 --> 00:09:31,880
+Jetson Batty also said L'Arfles, Kat Stevenson
+said we should do a Hive versus Aime team duel,
+
+99
+00:09:31,880 --> 00:09:36,080
+that'd be pretty cool. Although we have some Aime
+characters coming up in another team duel
+
+100
+00:09:36,080 --> 00:09:41,940
+episode. Lorenzo Valdez said Lana Lang, who at one
+point was superwoman. Yeah, she was like an
+
+101
+00:09:41,940 --> 00:09:46,560
+electric version. Okay. I really like Sheldon
+Moore's answer, who said we should do Superboy
+
+102
+00:09:46,560 --> 00:09:50,660
+Prime versus Franklin Richards, because that
+would also tie into the upcoming reviews we're
+
+103
+00:09:50,660 --> 00:09:55,400
+doing next month with the Superman and Fantastic
+Four films. I mean, Superboy Prime would just
+
+104
+00:09:55,400 --> 00:10:02,940
+punch Franklin Richards' reality alterations
+really hard, just destroying them. You wish. And
+
+105
+00:10:02,940 --> 00:10:08,280
+then Travis Herndon suggested three matchups,
+including Scandal Savage versus Daken, Scar
+
+106
+00:10:08,280 --> 00:10:13,540
+versus Calabac, and Kid Devil versus Robbie
+Reyes. Great suggestions, but don't get greedy,
+
+107
+00:10:13,540 --> 00:10:17,960
+guys. Don't get greedy. Otherwise, I mean, we'd be
+doing this forever, which may be what some people
+
+108
+00:10:17,960 --> 00:10:26,060
+want. Who knows. But the winner of this week's No
+Prize is Brian Rochester, who said, Hi, I think you
+
+109
+00:10:26,060 --> 00:10:33,200
+should do a DC Universe versus Marvel Universe
+universal war. Every character, every team. I
+
+110
+00:10:33,200 --> 00:10:40,720
+know that's very far fetched, but I think it would
+be pretty awesome to see that. I love your show and
+
+111
+00:10:40,720 --> 00:10:46,800
+sorry to see it go. Bye. Well, funny you should
+mention that, Brian, because we might have
+
+112
+00:10:46,800 --> 00:10:51,860
+something similar to that planned for one of our
+final episodes. And I'll just leave it at that. All
+
+113
+00:10:51,860 --> 00:10:57,740
+I could say is I can't wait. It's going to be epic.
+Great answer, Brian. Congrats for winning this
+
+114
+00:10:57,740 --> 00:11:01,560
+week's No Prize. If you, the listener, want to
+shout out winning your own No Prize, stay tuned to
+
+115
+00:11:01,560 --> 00:11:05,480
+later on this episode when we will be asking
+another question of the week. And now that that's
+
+116
+00:11:05,480 --> 00:11:18,240
+done, on to the news. OK, with less than a month to go
+for the release of the Superman film in theaters,
+
+117
+00:11:18,240 --> 00:11:24,620
+DC last week unveiled what I imagine is its final
+trailer for the film announcing that tickets are
+
+118
+00:11:24,620 --> 00:11:31,540
+now on sale. Now, when this film was first
+announced by the head of DC Studios, James Gunn,
+
+119
+00:11:31,540 --> 00:11:37,380
+who is also writing and directing this film, he
+said one of the inspirations for it was All Star
+
+120
+00:11:37,380 --> 00:11:44,080
+Superman, which was a comic book series written by
+Grant Morrison that kind of showcased Superman's
+
+121
+00:11:44,080 --> 00:11:50,200
+last days on Earth. And it was very episodic. He
+went up against various villains and various
+
+122
+00:11:50,200 --> 00:11:57,300
+adventures. And of all the trailers to come out for
+this film, that very episodic nature of the All
+
+123
+00:11:57,300 --> 00:12:03,300
+Star Superman story feels the most apparent in
+this trailer specifically. How so? I didn't get
+
+124
+00:12:03,300 --> 00:12:08,500
+that vibe at all. There's just so much going on with
+all of the different characters that Superman is
+
+125
+00:12:08,500 --> 00:12:15,220
+fighting like Lex Luthor, like an army, giant
+Kaiju monsters, portals opening up beneath
+
+126
+00:12:15,220 --> 00:12:21,900
+Metropolis, giant eyeballs in the sky. There's
+just so much going on in this film. It seems like
+
+127
+00:12:21,900 --> 00:12:28,980
+it's going to be the most epic Superman movie ever
+made. Now, there is a rumor that this film is not
+
+128
+00:12:28,980 --> 00:12:34,360
+going to have like a typical three act structure.
+It's going to essentially be like a week in the life
+
+129
+00:12:34,360 --> 00:12:40,480
+of Superman as it were. In fact, they even had like
+chapters for this film that would be like Sunday,
+
+130
+00:12:40,480 --> 00:12:46,040
+Monday, Tuesday. Now that was a rumor. I'm not
+exactly sure if it was true, but again, this
+
+131
+00:12:46,040 --> 00:12:51,980
+trailer feels like it's kind of all over the place,
+but in a really good and epic way. I didn't feel like
+
+132
+00:12:51,980 --> 00:12:55,620
+it was all over the place at all. There's a lot of
+different types of villains that he's fighting,
+
+133
+00:12:55,620 --> 00:13:00,200
+but it doesn't seem like it's outside of an
+elaborate plan by Lex Luthor, who really seems to
+
+134
+00:13:00,200 --> 00:13:04,520
+take the spotlight in this trailer. Yeah, I'm not
+sure Lex Luthor is responsible for the portal
+
+135
+00:13:04,520 --> 00:13:09,520
+beneath Metropolis or even the Kaiju. I would be
+surprised if that was the case. I'm pretty sure
+
+136
+00:13:09,520 --> 00:13:15,020
+that he will be the primary antagonist. But this is
+a very, very action packed trailer. That's
+
+137
+00:13:15,020 --> 00:13:20,100
+probably one of the reasons I really like it
+because I love seeing Superman in action. Not only
+
+138
+00:13:20,100 --> 00:13:25,620
+do we see him stop a series of toppling buildings,
+but we also see him zipping around the skies,
+
+139
+00:13:25,620 --> 00:13:32,460
+battling Kaiju's and other flying super powered
+beings. A few of which I actually think might be
+
+140
+00:13:32,460 --> 00:13:40,700
+Samson or Atlas from All Star Superman, just based
+on their hairdos, which are a little bit blurry. I
+
+141
+00:13:40,700 --> 00:13:46,240
+think they're intentionally keeping some of the
+villains secret in the trailers, which is fine by
+
+142
+00:13:46,240 --> 00:13:50,960
+me. I mean, there's one guy that he punches in the
+face. I hope that's just not a normal human who's
+
+143
+00:13:50,960 --> 00:13:55,220
+wearing a suit of armor. I think if you get punched
+in the face by Superman and you're not super human,
+
+144
+00:13:55,220 --> 00:14:00,200
+your head just explodes. This guy loses some
+teeth, but it makes me wonder if Superman pulls his
+
+145
+00:14:00,200 --> 00:14:04,520
+punches in the same way that Spider-Man does when
+he's going up against normal people. Yeah, I'd
+
+146
+00:14:04,520 --> 00:14:08,640
+like to think that these are some super powered
+individuals, because yeah, I don't like the idea
+
+147
+00:14:08,640 --> 00:14:14,540
+of Superman just punching an ordinary human. But
+it is cool to see crypto get in on the action as well.
+
+148
+00:14:14,540 --> 00:14:19,820
+As we see Superman fighting everyone, we also have
+this voiceover from Lex Luthor, who's talking
+
+149
+00:14:19,820 --> 00:14:25,260
+about how he's essentially going to kill him and
+everyone he loves. It's not the best voiceover,
+
+150
+00:14:25,260 --> 00:14:31,040
+but it does lend credence to the fact that he is the
+primary antagonist for this movie and yeah,
+
+151
+00:14:31,040 --> 00:14:36,820
+probably has an elaborate plot to basically kill
+everyone. There's this wild shot of Superman
+
+152
+00:14:36,820 --> 00:14:45,100
+holding a green baby while being wrapped up by this
+other like alien octopus creature. I have no idea
+
+153
+00:14:45,100 --> 00:14:49,880
+what's going on in that scene, but it looks
+incredible. It's very different from I think
+
+154
+00:14:49,880 --> 00:14:55,240
+anything we've seen before in a Superman film. Of
+course, we also get to see the supporting cast,
+
+155
+00:14:55,240 --> 00:15:01,460
+everyone from Lois Lane, who pilots a high tech
+ship alongside Jimmy Olsen and Perry White, as
+
+156
+00:15:01,460 --> 00:15:07,000
+well as the Justice League members Guy Gardner and
+Mr. Terrific. They look awesome. I'm assuming
+
+157
+00:15:07,000 --> 00:15:11,720
+that ship belongs to Mr. Terrific. Maybe, you
+know, it's kind of round almost like one of his
+
+158
+00:15:11,720 --> 00:15:17,280
+T-Spheres. That's a good guess, I would say. One of
+the final shots of the trailer, we see Mr. Terrific
+
+159
+00:15:17,280 --> 00:15:24,180
+call down to Superman, who looks really beat up
+like he has two black eyes and he's facing down this
+
+160
+00:15:24,180 --> 00:15:30,020
+portal beneath the city. Now, are those black eyes
+or has he just been using his heat vision and that's
+
+161
+00:15:30,020 --> 00:15:35,620
+like heat scarring? I didn't get the impression. I
+would hope that using his heat vision would not
+
+162
+00:15:35,620 --> 00:15:40,660
+give him scarring of any kind. I think it would
+temporarily if he did a big enough heat vision
+
+163
+00:15:40,660 --> 00:15:47,460
+blast. I don't think I would like that personally.
+Who knows? Again, the scale of this movie just
+
+164
+00:15:47,460 --> 00:15:53,380
+looks so massive. And I love the fact that James
+Gunn seems to be giving Superman these challenges
+
+165
+00:15:53,380 --> 00:15:58,580
+that really only Superman can face. Because what
+are characters like the X-Men or Spider-Man gonna
+
+166
+00:15:58,580 --> 00:16:04,740
+do when a massive black hole seems to open up
+beneath the city? What is Superman gonna do? I
+
+167
+00:16:04,740 --> 00:16:09,720
+guess we'll find out. All I know is he's probably
+gonna save the day and I can't wait to find out how.
+
+168
+00:16:09,720 --> 00:16:15,340
+Probably my favorite moment from this trailer is
+also near the end where we see Superman surrounded
+
+169
+00:16:15,340 --> 00:16:20,600
+by these flying villains. And he's just blasting
+all of them with heat vision while spinning around
+
+170
+00:16:20,600 --> 00:16:27,080
+super fast. It may be one of the coolest things I've
+ever seen Superman do on screen. And I can't wait to
+
+171
+00:16:27,080 --> 00:16:33,700
+see it in theaters. This trailer totally sold me on
+getting tickets for the film. I bought mine. I hope
+
+172
+00:16:33,700 --> 00:16:38,700
+you guys have too because it looks like it's gonna
+be epic, especially on a really big screen like
+
+173
+00:16:38,700 --> 00:16:46,160
+IMAX. I'm gonna go see it on the smallest screen I
+can. Sucks to suck, I guess. But considering all of
+
+174
+00:16:46,160 --> 00:16:51,120
+the cool stuff that we get to see Superman do in this
+trailer, that brings us to our question of the
+
+175
+00:16:51,120 --> 00:17:02,740
+week. What has been your favorite Superman moment
+from past films or television series? And why? And
+
+176
+00:17:02,740 --> 00:17:07,660
+this includes animated films and television
+shows that Superman has been a part of, going all
+
+177
+00:17:07,660 --> 00:17:12,060
+the way back to the 1940s. Record your answer at
+dynamicdool.com by clicking on the red
+
+178
+00:17:12,060 --> 00:17:16,359
+microphone button in the bottom right hand corner
+of the screen, which will prompt you to leave us a
+
+179
+00:17:16,359 --> 00:17:21,280
+voicemail. Your message could be up to 30 seconds
+long, and don't forget to leave your name in case we
+
+180
+00:17:21,280 --> 00:17:26,040
+include you on the podcast. We'll pick our
+favorite answer and award that person a Dynamic
+
+181
+00:17:26,040 --> 00:17:33,360
+Duel No Prize that we'll post to Instagram. Be sure
+to answer before June 21st. In way better news,
+
+182
+00:17:33,360 --> 00:17:39,380
+this past week we got the official trailer number
+two for the upcoming Iron Heart television series
+
+183
+00:17:39,380 --> 00:17:44,880
+that's going to be released on Disney Plus,
+starting on June 24th. Now Disney Plus is
+
+184
+00:17:44,880 --> 00:17:51,300
+releasing three episodes of the six episode
+series all at once. So basically half the show
+
+185
+00:17:51,300 --> 00:17:56,600
+starting on June 24th, and then I think the
+subsequent episodes will be released weekly. But
+
+186
+00:17:56,600 --> 00:18:01,980
+this particular trailer is probably the most
+exciting look at the show that we've gotten yet, in
+
+187
+00:18:01,980 --> 00:18:07,900
+that it introduces the concept of
+re-re-incorporating magic into her armor
+
+188
+00:18:07,900 --> 00:18:14,700
+system. Which is pretty damn cool visually,
+because as we see her heads up display come up, we
+
+189
+00:18:14,700 --> 00:18:19,320
+see like sigils and runes and things like that.
+It's a really cool concept that they briefly
+
+190
+00:18:19,320 --> 00:18:24,640
+touched upon in the comic books, where we've seen
+her incorporate like the 10 rings into her armor.
+
+191
+00:18:24,640 --> 00:18:29,740
+And I remember one time she fought alongside Dr.
+Strange, and she like accessed the Wellspring, I
+
+192
+00:18:29,740 --> 00:18:34,980
+think it was called, and she was shooting out like
+magic repulsors. I'm pretty positive all this
+
+193
+00:18:34,980 --> 00:18:42,280
+magic occult stuff ties into the primary villain
+of the show, who is the hood, who gets his powers via
+
+194
+00:18:42,280 --> 00:18:46,920
+the demon Mephisto. Oh I thought Mephisto was
+going to be the primary villain. Do you think Riri
+
+195
+00:18:46,920 --> 00:18:53,600
+like sells her soul to get these powers? I think she
+makes a deal with the hood, who is in turn powered by
+
+196
+00:18:53,600 --> 00:18:59,080
+Mephisto. So it's going to be something like that.
+But it's interesting because this whole time we
+
+197
+00:18:59,080 --> 00:19:06,180
+thought that the show was going to be this set it off
+style story where we see Riri steal in order to work
+
+198
+00:19:06,180 --> 00:19:10,380
+on her armor designs. But it looks like she
+actually goes much further than simply stealing,
+
+199
+00:19:10,380 --> 00:19:15,940
+but she in fact taps into dark magic. So we're
+definitely going to see her go down the rabbit hole
+
+200
+00:19:15,940 --> 00:19:21,340
+as it were, and redeem herself by the end
+hopefully. Yeah I had no idea that she had a history
+
+201
+00:19:21,340 --> 00:19:27,220
+of tapping into magical sources in the comics.
+That's interesting. Actually that's definitely
+
+202
+00:19:27,220 --> 00:19:31,640
+the most interesting thing I've seen come out of
+all of these trailers. I would agree with you. Well
+
+203
+00:19:31,640 --> 00:19:37,560
+I mean it's not something that she regularly does
+in the comic books, but there is precedent for
+
+204
+00:19:37,560 --> 00:19:42,300
+including magic in this type of story. One of the
+other big reveals that we got in this trailer is
+
+205
+00:19:42,300 --> 00:19:48,860
+that the show will be including her AI assistant
+named Natalie, and that she will be a 3D
+
+206
+00:19:48,860 --> 00:19:54,300
+holographic projection, not just a voice within
+the armor, kind of like how Jarvis and Friday were
+
+207
+00:19:54,300 --> 00:20:00,540
+with Tony Stark's armor. I thought in the comics
+that Tony Stark was her like AI assistant. No when
+
+208
+00:20:00,540 --> 00:20:05,020
+he was dead for a time in the comic books his digital
+consciousness did serve as like a mentor figure
+
+209
+00:20:05,020 --> 00:20:10,380
+early on, but no he wasn't her AI assistant like
+Natalie was. When Natalie was like who the hell
+
+210
+00:20:10,380 --> 00:20:17,800
+else would it be, Bish? I was like Tony Stark? Yeah
+Tony Stark is the answer to that question. I didn't
+
+211
+00:20:17,800 --> 00:20:22,120
+love that line at all. That was just horrible
+writing. You know who else I thought delivered
+
+212
+00:20:22,120 --> 00:20:28,120
+terrible lines? Alden Ehrenreich. I'm still
+pretty confused as to what his role is going to be in
+
+213
+00:20:28,120 --> 00:20:33,400
+this show. Well as I mentioned before he's playing
+Joe McGillicuddy who is an original character for
+
+214
+00:20:33,400 --> 00:20:39,420
+this series. I think he's kind of serving as a Tony
+Stark stand-in taking on that mental role from the
+
+215
+00:20:39,420 --> 00:20:44,560
+comic books. I agree it's not great dialogue. The
+whole taking things apart and putting it back
+
+216
+00:20:44,560 --> 00:20:49,100
+together really gives off watchman vibes. And
+also I just don't like the idea of him being her
+
+217
+00:20:49,100 --> 00:20:54,500
+mentor. Like where is Shuri? Why isn't she
+mentoring Riri? That's a great question. Yeah
+
+218
+00:20:54,500 --> 00:20:59,880
+considering that Shuri helped facilitate her
+previous armor in Wakanda Forever you think she'd
+
+219
+00:20:59,880 --> 00:21:04,280
+be keeping tabs on her or something like that. In
+the same way that the Dorya Milaje was keeping tabs
+
+220
+00:21:04,280 --> 00:21:10,400
+on Bucky. Right right right and maybe they'll show
+up who knows. All I know is that I'm way more excited
+
+221
+00:21:10,400 --> 00:21:17,900
+for this show than Superman. And all I know is you
+picked a hell of a week to stop sniffing glue. Going
+
+222
+00:21:17,900 --> 00:21:24,140
+back to DC news recently it was announced that DC
+Studios is putting out its second animated series
+
+223
+00:21:24,140 --> 00:21:30,800
+after Kichir Commandos in Mr. Miracle which is
+going to be based off of Tom King's Eisner
+
+224
+00:21:30,800 --> 00:21:37,140
+award-winning mini series. We got our first look
+at the show in a single frame that looks like it was
+
+225
+00:21:37,140 --> 00:21:42,380
+ripped right from the comics. And we also got a
+series description about how essentially Mr.
+
+226
+00:21:42,380 --> 00:21:48,580
+Miracle will be battling Darkseid who attains the
+anti-life equation the result of which is
+
+227
+00:21:48,580 --> 00:21:54,640
+fracturing Mr. Miracle's mind. Now the comic book
+series that this is based on dealt heavily with
+
+228
+00:21:54,640 --> 00:22:03,540
+themes of like PTSD and depression. I'm not sure
+it's the best storyline to introduce the new gods.
+
+229
+00:22:03,540 --> 00:22:10,280
+I especially don't love the idea of our
+introduction to Darkseid having him already
+
+230
+00:22:10,280 --> 00:22:15,180
+attain the anti-life equation like that's
+something you should absolutely build up to. So
+
+231
+00:22:15,180 --> 00:22:21,760
+while I love the idea that Mr. Miracle is finally
+getting his own show I don't love the storyline
+
+232
+00:22:21,760 --> 00:22:26,900
+that they will be basing it off of. Well they might
+alter the storyline a little bit to accommodate
+
+233
+00:22:26,900 --> 00:22:32,100
+the greater DCU that they're establishing. It
+could be more of like a personal story than
+
+234
+00:22:32,100 --> 00:22:38,140
+touching on the larger plot behind that arc. I
+think the show has a lot of work cut out for it. Not
+
+235
+00:22:38,140 --> 00:22:44,460
+only does it need to introduce us to Jack Kirby's
+fourth world and that whole cast of characters but
+
+236
+00:22:44,460 --> 00:22:51,620
+it also needs to be a personal story set within a
+larger world that James Gunn is developing
+
+237
+00:22:51,620 --> 00:22:55,780
+essentially. Well he did a good job with that in
+Creature Commanders. But that was a fairly
+
+238
+00:22:55,780 --> 00:23:00,220
+self-contained story. When you're involving
+characters like Darkseid and things like the
+
+239
+00:23:00,220 --> 00:23:06,160
+anti-life equation if that doesn't affect other
+DC projects I would feel like they would have made a
+
+240
+00:23:06,160 --> 00:23:11,280
+mistake because really Darkseid and the
+anti-life equation should be a Justice League
+
+241
+00:23:11,280 --> 00:23:17,340
+level threat not just Mr. Miracle and Big Barda. I
+guess it would be like saving Thanos and the
+
+242
+00:23:17,340 --> 00:23:24,020
+Infinity Gauntlet for an animated series as
+opposed to a whole saga of films. Exactly. I doubt
+
+243
+00:23:24,020 --> 00:23:29,380
+they would do that and even if they do there's still
+plenty of other large scale DC threats out there
+
+244
+00:23:29,380 --> 00:23:34,780
+for the films to touch on. Now there is a way in which
+they could keep this self-contained that would
+
+245
+00:23:34,780 --> 00:23:41,540
+basically be to have Mr. Miracle contained within
+an Omega Sanction which is a trap essentially set
+
+246
+00:23:41,540 --> 00:23:47,520
+by Darkseid in which Mr. Miracle would just relive
+countless lives over and over. We'll see if they go
+
+247
+00:23:47,520 --> 00:23:52,120
+that route. They would almost need to. I think that
+would be pretty cool actually. We'll have to keep
+
+248
+00:23:52,120 --> 00:23:58,040
+an eye on who they cast as the voice actors for these
+different characters because as James Gunn has
+
+249
+00:23:58,040 --> 00:24:04,100
+said he wants there to be as much crossover between
+the animation voice actors and live action actors
+
+250
+00:24:04,100 --> 00:24:09,820
+as possible. And here's hoping we get a live action
+new gods movie one day. I think most fans know that
+
+251
+00:24:09,820 --> 00:24:16,000
+they try to get a live action new gods film off the
+ground in the DCEU days with a film directed by Ava
+
+252
+00:24:16,000 --> 00:24:20,420
+DuVernay but that didn't come to fruition. It is
+nice to see this fourth world stuff finally get off
+
+253
+00:24:20,420 --> 00:24:25,540
+the ground and hopefully it's done well. Yeah I
+hope so. We don't know what network this is going to
+
+254
+00:24:25,540 --> 00:24:31,000
+be on. It may not be on HBO Max. I guess they're
+shopping it around so we'll see where it ends up and
+
+255
+00:24:31,000 --> 00:24:42,060
+when it gets released. But that does it for all the
+news for this episode so let's go ahead and move
+
+256
+00:24:42,060 --> 00:24:47,300
+into our main event where we find out who'd win in a
+fight between the two teams of the Freedom
+
+257
+00:24:47,300 --> 00:25:08,260
+Fighters and X Factor. Alright Freedom Fighters
+versus X Factor as we mentioned earlier these are
+
+258
+00:25:08,260 --> 00:25:13,840
+two teams that have been backed by the government
+going up against each other. That's kind of their
+
+259
+00:25:13,840 --> 00:25:18,700
+thematic through line here although X Factor has
+definitely spent time on its own not being
+
+260
+00:25:18,700 --> 00:25:23,540
+government sanctioned but I think the most
+prominent version of the X Factor team was
+
+261
+00:25:23,540 --> 00:25:29,520
+spearheaded by government agent Valerie Cooper.
+Who's that? Yeah I guess that means nothing to you
+
+262
+00:25:29,520 --> 00:25:34,000
+if you don't know the comic books but she had a lot of
+dealings with like the X-Men books putting
+
+263
+00:25:34,000 --> 00:25:38,940
+together like Freedom Force. I go into it in our
+Mystique versus Madame Rouge episode. Wait
+
+264
+00:25:38,940 --> 00:25:44,660
+Freedom Force why does that sound familiar?
+Because that was Mystique's team of mutants like
+
+265
+00:25:44,660 --> 00:25:48,560
+the second iteration of the Brotherhood of
+Mutants that were working for the government.
+
+266
+00:25:48,560 --> 00:25:52,440
+They were kind of like Marvel's version of the
+Suicide Squad for a while. I'm sorry the correct
+
+267
+00:25:52,440 --> 00:25:58,600
+answer was because it's a ripoff of Freedom
+Fighters. Now the Freedom Fighters actually had
+
+268
+00:25:58,600 --> 00:26:03,900
+their own animated movie of sorts I guess you could
+say they featured heavily in the Rey animated
+
+269
+00:26:03,900 --> 00:26:09,600
+series which was set in the Arrowverse. Oh
+interesting Yeah X Factor hasn't had their own
+
+270
+00:26:09,600 --> 00:26:14,460
+show or series or anything like that but a lot of the
+characters have already played roles within the
+
+271
+00:26:14,460 --> 00:26:20,800
+live action X-Men films. Yeah characters like
+Havoc were in the X-Men first class movies.
+
+272
+00:26:20,800 --> 00:26:26,980
+Polaris was in that one X-Men TV show I forget the
+name. Yeah the Gifted but Ice Man of course was in
+
+273
+00:26:26,980 --> 00:26:32,240
+the movies. Multiple Man made an appearance in
+X-Men 3. Beast of course was in the films. A whole
+
+274
+00:26:32,240 --> 00:26:37,120
+bunch of them. Maybe if things go well for the DCU
+one day we'll get a Freedom Fighters movie who
+
+275
+00:26:37,120 --> 00:26:42,980
+knows. Oh that'd be cool. I'll say that there is an
+impressive roster of characters on that team and
+
+276
+00:26:42,980 --> 00:26:47,080
+we'll discuss that soon but to explain the
+methodology behind our duels let's go to our
+
+277
+00:26:47,080 --> 00:26:52,680
+sentient duel simulator Alfred Jarvis 9000. AJ9K
+tell our listeners how you go about determining a
+
+278
+00:26:52,680 --> 00:26:58,600
+winner in our team duel matchups. Yes of course sir
+the way I determine a winner between the two teams
+
+279
+00:26:58,600 --> 00:27:03,620
+is by running 1,000 Monte Carlo simulations
+between every character on each team using their
+
+280
+00:27:03,620 --> 00:27:08,800
+statistics. A Monte Carlo simulation is a
+probabilistic model used to determine outcomes
+
+281
+00:27:08,800 --> 00:27:14,700
+through random sampling. In this case I randomize
+the statistics along a normal distribution as a
+
+282
+00:27:14,700 --> 00:27:19,620
+way to simulate the many variables that can occur
+during battle. The stat parameters are based on
+
+283
+00:27:19,620 --> 00:27:24,680
+the official Marvel power grid from which the DC
+characters statistics are extrapolated.
+
+284
+00:27:24,680 --> 00:27:29,780
+Additional stat categories are included such as
+range, damage potential, versatility and
+
+285
+00:27:29,780 --> 00:27:35,540
+perception in order to create a more detailed and
+accurate simulation. The results of the 49,000
+
+286
+00:27:35,540 --> 00:27:40,740
+simulations provide a percentage of wins for each
+character on both teams. The team with the higher
+
+287
+00:27:40,740 --> 00:27:46,080
+average win rate is declared the victor as they
+have a higher probability to win any given battle.
+
+288
+00:27:46,080 --> 00:27:51,280
+In an equitable pairing neither team should win
+100% of the matches. The comic book stories have
+
+289
+00:27:51,280 --> 00:27:56,200
+shown that there's even a way for Batman to defeat
+Superman so the confidence rate of my method falls
+
+290
+00:27:56,200 --> 00:27:59,940
+in line with the precedents that have been
+established in the source material. My
+
+291
+00:27:59,940 --> 00:28:04,540
+mathematical simulations are without
+subjectivity or bias. Feats are not the sole
+
+292
+00:28:04,540 --> 00:28:11,120
+consideration nor are fan votes tabulated for
+determination of the winner. Thanks A.J .9K.
+
+293
+00:28:11,120 --> 00:28:15,800
+Before we run the simulations though we like to
+break down each team's histories and rosters
+
+294
+00:28:15,800 --> 00:28:21,540
+before improvising a scenario on how we imagine
+one of the thousands of simulations would play out
+
+295
+00:28:21,540 --> 00:28:27,780
+beat for beat. And it's my turn to go first with the
+DC team's backstory so let me tell you about the
+
+296
+00:28:27,780 --> 00:28:32,880
+Freedom Fighters. Now the Freedom Fighters began
+as a group of American superheroes brought
+
+297
+00:28:32,880 --> 00:28:40,060
+together during World War II by the mysterious
+patriotic figure known as Uncle Sam. More than a
+
+298
+00:28:40,060 --> 00:28:46,040
+man Uncle Sam was the living embodiment of
+American ideals, a spiritual force that had taken
+
+299
+00:28:46,040 --> 00:28:51,780
+form to protect the nation during times of crisis.
+You can of course learn more about Uncle Sam in our
+
+300
+00:28:51,780 --> 00:28:58,980
+Uncle Sam vs Captain Burr in dual episode. As war
+erupted across the globe Uncle Sam foresaw grave
+
+301
+00:28:58,980 --> 00:29:05,580
+danger ahead not just from the Nazis on earth but
+from a parallel world where the Axis powers had
+
+302
+00:29:05,580 --> 00:29:12,380
+already won. That world was Earth X, a twisted
+mirror of earth where the Nazis won the war and were
+
+303
+00:29:12,380 --> 00:29:18,640
+taking control of the entire planet. In an effort
+to prevent the same fate from befalling his own
+
+304
+00:29:18,640 --> 00:29:24,780
+world, Uncle Sam assembled a team of heroes to
+travel to Earth X and resist its oppressive
+
+305
+00:29:24,780 --> 00:29:31,760
+regime. His earliest group included lesser known
+heroes like Neon the Unknown, Magno, Miss
+
+306
+00:29:31,760 --> 00:29:37,360
+America, and the Invisible Hood among others.
+They attempted to prevent the attack on Pearl
+
+307
+00:29:37,360 --> 00:29:43,540
+Harbor but failed. Most of the team actually
+perished in the mission with seemingly only Uncle
+
+308
+00:29:43,540 --> 00:29:51,360
+Sam surviving. Undeterred, Uncle Sam assembled a
+second team consisting of Black Condor, Dollman,
+
+309
+00:29:51,360 --> 00:29:58,600
+the Human Bomb, the Ray, Phantom Lady, and the Red
+Bee. They joined Uncle Sam on Earth X where they
+
+310
+00:29:58,600 --> 00:30:04,860
+continued to fight against the Nazi regime that
+had overrun the planet. Tragically, the Red Bee
+
+311
+00:30:04,860 --> 00:30:10,880
+was killed during their first mission, rescuing
+the hero Our Man from a Nazi villain known as Baron
+
+312
+00:30:10,880 --> 00:30:16,320
+Blitzkrieg. Eventually, the team liberated
+Earth X with the help of the Justice League from
+
+313
+00:30:16,320 --> 00:30:22,660
+Earth One and the Justice Society from Earth Two.
+You could learn more about both teams in their team
+
+314
+00:30:22,660 --> 00:30:28,240
+duels against the Avengers and Fantastic Four
+respectively. After their success, the Freedom
+
+315
+00:30:28,240 --> 00:30:33,940
+Fighters became bored with peace and sought new
+challenges. They migrated to Earth One where a
+
+316
+00:30:33,940 --> 00:30:40,020
+misunderstanding with authorities led them to be
+wrongfully accused of terrorism. Framed by a
+
+317
+00:30:40,020 --> 00:30:45,800
+villain called the Silver Ghost, the team became
+fugitives, struggling to clear their names while
+
+318
+00:30:45,800 --> 00:30:51,020
+fending off both supervillains and law
+enforcement. They set up a base in New York City's
+
+319
+00:30:51,020 --> 00:30:57,100
+East Armory and continued operating as heroes
+while being hunted by the authorities. While the
+
+320
+00:30:57,100 --> 00:31:03,180
+team faced many threats including alien war
+makers and demons like Kamulus, they briefly
+
+321
+00:31:03,180 --> 00:31:09,160
+added new members like Firebrand and battled
+alongside Superman, eventually preventing a
+
+322
+00:31:09,160 --> 00:31:16,120
+neo-Nazi plot to destroy American foundational
+documents. After that, they returned to Earth X.
+
+323
+00:31:16,120 --> 00:31:21,360
+When the crisis on Infinite Earths destroyed
+Earth X and folded its history into a single
+
+324
+00:31:21,360 --> 00:31:32,000
+continuity known as New Earth, the Freedom
+Fighters were retroactively made a part of the
+
+325
+00:31:32,000 --> 00:31:37,880
+All-Star Squadron, a wartime superhero
+collective that included other teams like the
+
+326
+00:31:37,880 --> 00:31:43,040
+Seven Soldiers of Victory and the Justice
+Society. With Uncle Sam having mysteriously
+
+327
+00:31:43,040 --> 00:31:49,240
+vanished, the Freedom Fighters eventually faded
+into obscurity. In modern times, Uncle Sam
+
+328
+00:31:49,240 --> 00:31:55,100
+re-emerged as the spirit of America, taking on a
+new form as the Patriot during an intergalactic
+
+329
+00:31:55,100 --> 00:32:01,160
+conflict known as the Imperiax War. He gathered
+together a new team of Freedom Fighters including
+
+330
+00:32:01,160 --> 00:32:08,540
+Damage, Iron Man Rowe, and new versions of Black
+Condor, Phantom Lady, and the Wray. They later
+
+331
+00:32:08,540 --> 00:32:13,880
+worked with the Justice Society and operated as
+federal agents. This team eventually met
+
+332
+00:32:13,880 --> 00:32:19,020
+disaster while investigating superhuman
+activity during another crisis event. Black
+
+333
+00:32:19,020 --> 00:32:23,780
+Condor, Phantom Lady, and the Human Bomb were all
+killed by members of the Seeker Society of
+
+334
+00:32:23,780 --> 00:32:29,400
+Supervillains. Damage was gravely injured and
+Wray was captured while Uncle Sam vanished once
+
+335
+00:32:29,400 --> 00:32:34,520
+again. With their leader presumed dead and most of
+the team destroyed, the Freedom Fighters
+
+336
+00:32:34,520 --> 00:32:40,640
+effectively ceased to exist. Uncle Sam returned
+years later, resurrected in the Mississippi
+
+337
+00:32:40,640 --> 00:32:46,880
+River. With a new sense of purpose and warning of a
+corrupt government on the rise, he recruited a new
+
+338
+00:32:46,880 --> 00:32:52,740
+generation of heroes. Among them were new
+versions of Firebrand, Dullman, Human Bomb,
+
+339
+00:32:52,740 --> 00:32:57,960
+Phantom Lady, and the Wray. These new Freedom
+Fighters had previously served as agents of the
+
+340
+00:32:57,960 --> 00:33:04,400
+shadowy government agency, Shade, led by the
+immortal Father Time. Uncle Sam opposed their
+
+341
+00:33:04,400 --> 00:33:10,160
+brutal methods and convinced them to join his
+fight against tyranny. Operating from a surreal
+
+342
+00:33:10,160 --> 00:33:15,800
+extra-dimensional base called the Heartland,
+the new team continued to add members, including a
+
+343
+00:33:15,800 --> 00:33:22,800
+new Black Condor, Red Bee, and Invisible Hood.
+Their main enemy became Father Time himself, who
+
+344
+00:33:22,800 --> 00:33:28,880
+was working to install a mechanical doppelganger
+of a U.S. Senator, Gonzo, the mechanical bastard,
+
+345
+00:33:28,880 --> 00:33:34,880
+as President of the United States. Uncle Sam
+discovered the plot and tried to expose Gonzo, but
+
+346
+00:33:34,880 --> 00:33:40,880
+was captured along with his team by a new Miss
+America, secretly one of Father Time's agents.
+
+347
+00:33:40,880 --> 00:33:47,200
+The team was rescued by reinforcements that
+included the resurrected original Miss America,
+
+348
+00:33:47,200 --> 00:33:52,580
+who defeated her imposter. With new allies like
+the Second Wray, who you can learn more about in our
+
+349
+00:33:52,580 --> 00:33:58,880
+Wray vs. Havoc episode, the team regrouped and
+fought back. They exposed Gonzo's identity in a
+
+350
+00:33:58,880 --> 00:34:04,160
+public press conference, just as he unleashed an
+army of mind-controlled metahumans. Father
+
+351
+00:34:04,160 --> 00:34:09,600
+Time, betrayed by Gonzo, switched sides and
+helped trap the robotic tyrant inside a special
+
+352
+00:34:09,600 --> 00:34:15,060
+containment device. Before vanishing into the
+time stream with brainwashed metas, Father Time
+
+353
+00:34:15,060 --> 00:34:27,940
+revealed The president appointed the Freedom
+Fighters as directors of Shade, though some
+
+354
+00:34:27,940 --> 00:34:34,159
+members, like the Rey, chose to return to civilian
+life. Their next battles were no less strange.
+
+355
+00:34:34,159 --> 00:34:39,380
+They stopped a rogue nuclear launch orchestrated
+by the calculator and later dealt with the bizarre
+
+356
+00:34:39,380 --> 00:34:45,320
+evolution of the Red Bee, who had been transformed
+into a human insect hybrid. Shade tried turning
+
+357
+00:34:45,320 --> 00:34:51,560
+the team into media icons, but not everyone agreed
+with this direction. Several members, including
+
+358
+00:34:51,560 --> 00:34:58,520
+Uncle Sam, Dullman, Human Bomb, and Firebrand,
+returned to the heartland in protest. Others
+
+359
+00:34:58,520 --> 00:35:03,920
+remained and formed a new group called the
+Crusaders. The Red Bee's condition worsened and
+
+360
+00:35:03,920 --> 00:35:09,200
+she eventually lost control to her insectoid
+instincts, enslaving the Crusaders and the
+
+361
+00:35:09,200 --> 00:35:14,020
+Freedom Fighters through pheromones. A massive
+battle erupted between the brainwashed heroes
+
+362
+00:35:14,020 --> 00:35:20,080
+culminating in the intervention of Linkford
+Tarrell, who had inherited the power of Nyand
+
+363
+00:35:20,080 --> 00:35:26,580
+Yen-None. He cured Red Bee of the infestation and
+the team stopped an insectoid invasion. Despite
+
+364
+00:35:26,580 --> 00:35:31,920
+the victory, however, the group dissolved again.
+Though Uncle Sam vowed they would return when
+
+365
+00:35:31,920 --> 00:35:37,380
+needed. In post-Flashpoint continuity, the
+Freedom Fighters appeared in alternate forms
+
+366
+00:35:37,380 --> 00:35:42,840
+across the multiverse. On Earth 10, they were
+reimagined as a resistance force fighting
+
+367
+00:35:42,840 --> 00:35:49,260
+against a Nazi regime that had won World War II with
+the help from Overman, a Superman-like figure
+
+368
+00:35:49,260 --> 00:35:54,940
+raised under fascism. The team's members were
+genetically engineered by Dr. Savanna to
+
+369
+00:35:54,940 --> 00:36:00,920
+represent an inclusive, modern resistance
+movement. It included alternate versions of Rey,
+
+370
+00:36:00,920 --> 00:36:11,100
+Black Condor, Phantom Lady, and Dullman, and the
+destruction of a Justice League orbital station
+
+371
+00:36:11,100 --> 00:36:17,000
+over Metropolis. On the main Earth, a Chinese
+version of the Freedom Fighters appeared, led by
+
+372
+00:36:17,000 --> 00:36:23,160
+the flying Dragon General. Members included
+analogues of the original team, such as Sunbeam
+
+373
+00:36:23,160 --> 00:36:30,440
+for the Rey, Blue Condor, Ghost Woman, Folding
+Paper Man, who was a version of Plastic Man, and
+
+374
+00:36:30,440 --> 00:36:36,220
+Human Firecracker. These characters embodied
+nationalistic ideals tailored to China,
+
+375
+00:36:36,220 --> 00:36:41,760
+reflecting how the legacy of the Freedom Fighters
+had spread beyond the United States. Recently,
+
+376
+00:36:41,760 --> 00:36:46,500
+the original Freedom Fighters surviving
+members, including Uncle Sam and Phantom Lady,
+
+377
+00:36:46,500 --> 00:36:51,980
+reappeared during a discussion between Mr.
+Trevick and Quiz Kid. There were shown mentoring,
+
+378
+00:36:51,980 --> 00:36:56,900
+the time-lost Sidekicks Cherry Bomb, and
+Ladybug, young heroes who had once been
+
+379
+00:36:56,900 --> 00:37:02,620
+associated with the original human bomb and Red
+Bee. And that's the Freedom Fighters history so
+
+380
+00:37:02,620 --> 00:37:09,160
+far. Now, for my 7-person roster for the Freedom
+Fighters, I of course started with Uncle Sam, the
+
+381
+00:37:09,160 --> 00:37:14,720
+leader of the team, and the one responsible for
+bringing various incarnations together. I'm
+
+382
+00:37:14,720 --> 00:37:20,040
+also going with the original team members of Black
+Condor, capable of flight thanks to his wind
+
+383
+00:37:20,040 --> 00:37:26,320
+control, and the Rey, a being composed of pure
+light energy, both of whom you can learn more about
+
+384
+00:37:26,320 --> 00:37:32,940
+in our Black Condor vs. Warpath and Rey vs. Havoc
+episodes. Original members we haven't done duels
+
+385
+00:37:32,940 --> 00:37:39,040
+with yet that are on my team include Phantom Lady,
+who can turn visible, intangible, and create
+
+386
+00:37:39,040 --> 00:37:44,880
+holographic illusions, the human bomb, who
+possesses a powerful explosive touch, as well as
+
+387
+00:37:44,880 --> 00:37:51,780
+superhuman durability, and Dollman, the 6-inch
+telekinetic. For the 7th and final member of my
+
+388
+00:37:51,780 --> 00:37:57,760
+team, I decided to go with Plastic Man, a
+short-lived member of the team, yet hands down the
+
+389
+00:37:57,760 --> 00:38:03,340
+most popular character from Quality Comics,
+where all of these characters originated prior to
+
+390
+00:38:03,340 --> 00:38:08,840
+DC's acquisition of that company. And you of
+course can learn more about Plastic Man in his duel
+
+391
+00:38:08,840 --> 00:38:17,200
+against Mr. Fantastic. So to reiterate, my team
+consists of Uncle Sam, Black Condor, Rey, Phantom
+
+392
+00:38:17,200 --> 00:38:24,840
+Lady, Human Bomb, Dollman, and Plastic Man. Yeah,
+I really like that roster except for Dollman, who
+
+393
+00:38:24,840 --> 00:38:31,620
+is probably the worst DC character ever. You say
+that about every DC character. That's true, but I
+
+394
+00:38:31,620 --> 00:38:36,600
+really mean it this time. Dollman's basically
+just an action figure with telekinesis. And his
+
+395
+00:38:36,600 --> 00:38:42,840
+name is Dollman. You should be ashamed. Hey,
+here's an acquisition, man. You came with the
+
+396
+00:38:42,840 --> 00:38:47,640
+whole package. What are you gonna do? Well, I can
+guarantee you there's no one named Dollman on X
+
+397
+00:38:47,640 --> 00:38:52,140
+Factor, although some members did have some
+pretty lame names like Strong Guy. Although
+
+398
+00:38:52,140 --> 00:38:58,460
+Guido's power was pretty cool. Let me tell you all
+about X Factor. The five original X-Men, Cyclops,
+
+399
+00:38:58,460 --> 00:39:04,660
+Gene Gray, Angel, Beast, and Iceman, reunited
+after Gene Gray was discovered alive after being
+
+400
+00:39:04,660 --> 00:39:10,120
+thought dead and was temporarily replaced by the
+cosmic entity known as the Phoenix Force, an event
+
+401
+00:39:10,120 --> 00:39:15,620
+you can learn more about in our Raven vs. Phoenix
+duel episode. The group, feeling out of place on a
+
+402
+00:39:15,620 --> 00:39:22,000
+team now led by their old enemy, Magneto, formed X
+Factor Incorporated with Angel using his wealth
+
+403
+00:39:22,000 --> 00:39:28,420
+to fund the operation. To the public, X Factor was a
+group of mutant hunters who captured dangerous
+
+404
+00:39:28,420 --> 00:39:34,560
+individuals for pay. In truth, the team found and
+sheltered young mutants in an effort to help them
+
+405
+00:39:34,560 --> 00:39:40,020
+control and develop their newfound abilities.
+While hunting the Alliance of Evil, they met
+
+406
+00:39:40,020 --> 00:39:45,200
+Apocalypse, an ancient mutant who preached
+survival of the fittest. He vanished after
+
+407
+00:39:45,200 --> 00:39:50,080
+testing their strength in their first encounter,
+promising to return. Soon, the villain Mr.
+
+408
+00:39:50,080 --> 00:39:54,720
+Sinister's mutant henchmen known as the
+Marauders butchered a group of mutants called the
+
+409
+00:39:54,720 --> 00:39:59,640
+Morlocks who were living in the sewers under
+Manhattan. Angel rushed in to help and the killers
+
+410
+00:39:59,640 --> 00:40:05,700
+severely damaged his wings. Broken and bitter, he
+tried to attempt suicide but Apocalypse saved him
+
+411
+00:40:05,700 --> 00:40:11,480
+and experimented on him, giving him metal wings
+and blue skin. Angel was transformed into Death,
+
+412
+00:40:11,480 --> 00:40:16,460
+one of Apocalypse's agents known as the Four
+Horsemen. Angel later broke free of his mind to
+
+413
+00:40:16,460 --> 00:40:20,880
+control, yet his new form and the name Archangel
+stayed with him. You can learn more about
+
+414
+00:40:20,880 --> 00:40:25,860
+Archangel and Apocalypse in their respective
+duels against Zoriel and Black Adam.
+
+415
+00:40:25,860 --> 00:40:31,160
+Apocalypse's horseman attacked Central Park,
+and X Factor saved thousands of civilians, many
+
+416
+00:40:31,160 --> 00:40:36,280
+belonging to the same crowd that had cursed
+mutants in fear. With Apocalypse defeated, the
+
+417
+00:40:36,280 --> 00:40:41,920
+team moved into his captured living starship, a
+base big enough for all their young students.
+
+418
+00:40:41,920 --> 00:40:48,920
+Later, demons warped the mind of Cyclops' wife and
+Jean's clone named Madeleine Pryor, turning her
+
+419
+00:40:48,920 --> 00:40:54,000
+into a possessed villain known as the Goblin
+Queen. She tried to sacrifice her and Cyclops' son
+
+420
+00:40:54,000 --> 00:41:00,000
+Nathan on the Empire State Building, but X Factor
+and the X-Men teamed up to stop her. However,
+
+421
+00:41:00,000 --> 00:41:05,200
+Apocalypse soon kidnapped Nathan and infected
+him with a techno-organic virus to kill him.
+
+422
+00:41:05,200 --> 00:41:10,000
+Rebels from 2000 years into the future traveled to
+the present and took the baby forward in time to
+
+423
+00:41:10,000 --> 00:41:15,140
+save him. He would return later as the hero Cable,
+whom you can learn more about in his dual episode
+
+424
+00:41:15,140 --> 00:41:20,740
+against Booster Gold. After a final fight on Muir
+Island against the evil psychic entity Shadow
+
+425
+00:41:20,740 --> 00:41:28,200
+King, the founding five X Factor members rejoined
+the X-Men and X Factor closed its first chapter.
+
+426
+00:41:28,200 --> 00:41:33,000
+You can learn more about the X-Men in their team
+dual against the Titans. Federal agent Valerie
+
+427
+00:41:33,000 --> 00:41:39,020
+Cooper believed the United States needed a public
+mutant team and asked Cyclops' brother Havoc to
+
+428
+00:41:39,020 --> 00:41:44,220
+lead a government-backed X Factor. Cooper also
+brought aboard Lorna Dane, a magnetic-powered
+
+429
+00:41:44,220 --> 00:41:50,080
+mutant called Polaris. When Lorna was a young
+teen, her parents argued mid-flight on a private
+
+430
+00:41:50,080 --> 00:41:55,960
+plane. The stress triggered her hidden magnetism
+power, which tore the plane apart and turned her
+
+431
+00:41:55,960 --> 00:42:02,140
+hair green. The mutant magneto sensed the
+magnetic pulse and rescued Lorna, later learning
+
+432
+00:42:02,140 --> 00:42:07,060
+that she was his daughter. He left her with
+relatives to grow up safely and as an adult, she
+
+433
+00:42:07,060 --> 00:42:12,820
+joined the X-Men and later joined Havoc as the
+second X Factor recruit. Valerie Cooper also
+
+434
+00:42:12,820 --> 00:42:18,640
+contacted Jamie Madrox, the mutant known as
+Multiple Man. From the moment Jamie was born, when
+
+435
+00:42:18,640 --> 00:42:24,020
+the doctor slapped his baby behind, the child
+split into a perfect duplicate. Born with the
+
+436
+00:42:24,020 --> 00:42:29,620
+mutant power of kinetic duplication, Jamie wore a
+suit that absorbed his shocks so he would not keep
+
+437
+00:42:29,620 --> 00:42:35,180
+dividing. Years later, after leaving his Kansas
+farm, the X-Men's leader Professor Xavier
+
+438
+00:42:35,180 --> 00:42:41,280
+discovered and taught Jamie how to reabsorb his
+duplicates and keep their memories. As Multiple
+
+439
+00:42:41,280 --> 00:42:47,440
+Man, he became the team's instant backup. Wolf
+Spain, a Scott's girl who could shift into a wolf,
+
+440
+00:42:47,440 --> 00:42:53,840
+signed on next. Strong Guy, who stored impact
+energy as muscle and the speedster Quicksilver,
+
+441
+00:42:53,840 --> 00:42:59,660
+rounded out the new squad. Together, they stopped
+Mr. Sinister, foiled extremists in the war-torn
+
+442
+00:42:59,660 --> 00:43:05,300
+Middle East, and guarded witnesses from mutant
+killers like Cyber. On the island of Genosha, when
+
+443
+00:43:05,300 --> 00:43:10,480
+one of Multiple Man's duplicates caught the
+lethal legacy virus and died, the team feared the
+
+444
+00:43:10,480 --> 00:43:16,380
+original Multiple Man was lost. Strong Guy
+absorbed an alien bomb blast over Magipore and
+
+445
+00:43:16,380 --> 00:43:22,440
+suffered a heart attack that put him in a coma.
+Havoc, quit in grief, and Forge, a mutant inventor
+
+446
+00:43:22,440 --> 00:43:27,860
+who could build any device he imagined, became the
+team's new leader. Washington soon forced
+
+447
+00:43:27,860 --> 00:43:33,020
+Mystique and the Feral Sabertooth onto the
+roster, but soon, funding dried up and the
+
+448
+00:43:33,020 --> 00:43:38,100
+government squad dissolved. The original
+Multiple Man later resurfaced in New York's
+
+449
+00:43:38,100 --> 00:43:44,120
+mutant town and opened X-Factor Investigations,
+a private detective agency. He hired Wolfsbane
+
+450
+00:43:44,120 --> 00:43:50,180
+and the recovered Strong Guy, also welcoming
+Teresa Cassidy into the agency. Teresa, called
+
+451
+00:43:50,180 --> 00:43:56,480
+Siren, could shatter steel with her sonic scream.
+Raised by her criminal uncle, Black Tom Cassidy,
+
+452
+00:43:56,480 --> 00:44:03,000
+she once aided him in robberies, unaware that her
+real father was the heroic X-Men member Banshee,
+
+453
+00:44:03,000 --> 00:44:08,680
+from whom she acquired her powers. After being
+caught stealing by Spider-Woman, Siren chose a
+
+454
+00:44:08,680 --> 00:44:14,120
+better path with X-Factor Investigations. The
+mutants Monet, St. Croix, and Richter joined
+
+455
+00:44:14,120 --> 00:44:19,460
+next, followed by Leila Miller, a team with hidden
+knowledge about the mass loss of mutant powers
+
+456
+00:44:19,460 --> 00:44:24,800
+around the world caused by the Scarlet Witch, an
+event you can learn more about in her duel against
+
+457
+00:44:24,800 --> 00:44:31,000
+Zatana. When the X-Factor detectives outsmarted
+the rival firm, Singularity Investigations, the
+
+458
+00:44:31,000 --> 00:44:36,460
+anti-mute agency retaliated by firing a
+power-dampening dart into Siren's throat,
+
+459
+00:44:36,460 --> 00:44:40,560
+temporarily stripping her upper power.
+Quicksilver later appeared with Tarogen
+
+460
+00:44:40,560 --> 00:44:45,560
+crystals stolen from the Inhumans that could
+restore a mutant's lost powers, but also cripple
+
+461
+00:44:45,560 --> 00:44:51,640
+the user. X-Factor exposed the risk and drove him
+off. You can learn more about this in our Flash vs.
+
+462
+00:44:51,640 --> 00:44:56,680
+Quicksilver episode. Leila Miller later
+followed a multiple-man duplicate into a future
+
+463
+00:44:56,680 --> 00:45:01,540
+where mutants were jailed, while the present
+multiple-man battled Cortex, who was a rogue
+
+464
+00:45:01,540 --> 00:45:07,020
+duplicate who had become an evil murderer. The
+billionaire Cade bombed New York's mutant town,
+
+465
+00:45:07,020 --> 00:45:12,760
+forcing the agency to move to Detroit. After Siren
+was impregnated by multiple-man, or perhaps one
+
+466
+00:45:12,760 --> 00:45:18,060
+of his duplicates, she gave birth to a boy named
+Sean, named after her father. However, while
+
+467
+00:45:18,060 --> 00:45:23,080
+holding the infant, multiple-man involuntary
+absorbed his child, who was born with the same
+
+468
+00:45:23,080 --> 00:45:29,120
+powers, an act that devastated both parents.
+Later, when Polaris' mind unraveled after being
+
+469
+00:45:29,120 --> 00:45:34,900
+tortured by Apocalypse, Siren bargained with the
+Celtic goddess Morrigan for power that healed
+
+470
+00:45:34,900 --> 00:45:40,400
+Lorna, yet bound Siren to the deity's service.
+During these struggles, Jaime recruited
+
+471
+00:45:40,400 --> 00:45:45,420
+Longshot to the agency, a genetically engineered
+rebel from the television ratings-obsessed
+
+472
+00:45:45,420 --> 00:45:51,600
+dimension of Mojo World. Longshot had enhanced
+physiology, limited psychometry, throwing
+
+473
+00:45:51,600 --> 00:45:56,760
+knives, and a subconscious gift to bent
+probability in his favor. After finding an
+
+474
+00:45:56,760 --> 00:46:02,140
+interdimensional portal to Earth, he helped the
+X-Men repel an invasion by Mojo, his impossible
+
+475
+00:46:02,140 --> 00:46:07,300
+luck earning him the moniker Longshot. When the
+agency dissolved, Polaris accepted an offer from
+
+476
+00:46:07,300 --> 00:46:12,520
+several industries to lead a short-lived,
+corporate-backed X-Factor team with Gambit,
+
+477
+00:46:12,520 --> 00:46:17,820
+Quicksilver, Danger, Cipher, and Warlock on the
+team. During this time, they rescued mutant
+
+478
+00:46:17,820 --> 00:46:23,760
+hostages from the evil science organization AIM,
+retrieved stolen data from the Thieves Guild, and
+
+479
+00:46:23,760 --> 00:46:29,280
+prevented a potential threat by the tech-narci,
+an artificially intelligent alien race. When
+
+480
+00:46:29,280 --> 00:46:34,680
+Professor Xavier founded the island nation of
+Cracowa, the mutant North Star formed another
+
+481
+00:46:34,680 --> 00:46:41,360
+X-Factor team. He drafted Polaris, his twin
+sister Aurora, Wolverine's son Daken, the
+
+482
+00:46:41,360 --> 00:46:47,100
+power-mimicking prodigy, illusion-spotting
+i-boy, and the telepathic prestige. Their
+
+483
+00:46:47,100 --> 00:46:51,880
+assigned task for their new nation was to confirm a
+mutant's death so that Cracowa's resurrection
+
+484
+00:46:51,880 --> 00:46:57,280
+protocols would not create accidental
+duplicates. The team's first cases took them into
+
+485
+00:46:57,280 --> 00:47:02,800
+Mojo World's lethal live streams, and later to
+Alberta, Canada, after Siren, who was still bound
+
+486
+00:47:02,800 --> 00:47:08,440
+to Morrigan, repeatedly caused her own death in
+order to stall the Celtic Deity's mass sacrifice
+
+487
+00:47:08,440 --> 00:47:13,240
+of every mutant on Cracowa. The mutant
+Shatterstar's dimension-cutting swords killed
+
+488
+00:47:13,240 --> 00:47:18,340
+the goddess, freeing Siren from her control.
+X-Factor later investigated the mysterious
+
+489
+00:47:18,340 --> 00:47:23,820
+death of the Scarlet Witch on Cracowa, though it
+was determined to be an elaborate ruse by her and
+
+490
+00:47:23,820 --> 00:47:30,480
+Magneto. Their plan used Chaos Magic to establish
+on Cracowa a magic plane of existence called the
+
+491
+00:47:30,480 --> 00:47:35,580
+Waiting Group, which allowed Cerebro to scan
+through time for mutants to use in Cracowa's
+
+492
+00:47:35,580 --> 00:47:41,180
+resurrection protocols, ensuring that every
+mutant who had ever died, past or future, had a
+
+493
+00:47:41,180 --> 00:47:46,900
+chance at resurrection. This plane, however, was
+destroyed during the fall of Cracowa. That's
+
+494
+00:47:46,900 --> 00:47:51,520
+X-Factor's history. For the seven-person
+roster, I'm going with a mix of mutants from across
+
+495
+00:47:51,520 --> 00:47:57,120
+the various iterations of the team. This includes
+the original members Beast and Iceman, who formed
+
+496
+00:47:57,120 --> 00:48:01,700
+the first X-Factor alongside their original
+X-Men teammates, and both have their own
+
+497
+00:48:01,700 --> 00:48:08,020
+individual duels. Also on my team are Havoc,
+Polaris, and multiple men who were founding
+
+498
+00:48:08,020 --> 00:48:13,780
+members of the X-Factor's government team. Out of
+that group, only Havoc has his own duel. And for my
+
+499
+00:48:13,780 --> 00:48:20,900
+final two, I'm going with members of the X-Factor
+Investigations Agency, Siren, and Longshot. So
+
+500
+00:48:20,900 --> 00:48:28,900
+to reiterate, that's Beast, Iceman, Havoc,
+Polaris, multiple men, Siren, and Longshot.
+
+501
+00:48:28,900 --> 00:48:33,360
+Yeah, this is a solid roster, and I'm actually
+surprised some of those members like Iceman and
+
+502
+00:48:33,360 --> 00:48:39,900
+Beast haven't been in previous team duel episodes
+with other X-Men characters. I'm glad we finally
+
+503
+00:48:39,900 --> 00:48:44,640
+get around with them. Yeah, for sure. Some of my
+favorite X-Men characters of all time are members
+
+504
+00:48:44,640 --> 00:48:50,520
+of X-Factor. I'm a huge Jamie Madrox fan, multiple
+man, and while it's a shame we won't be doing an
+
+505
+00:48:50,520 --> 00:48:55,400
+individual duel with him, I'm glad to at least be
+doing this team duel with the character. Yeah, he
+
+506
+00:48:55,400 --> 00:49:00,820
+has one of the coolest powers in comics, I think. If
+I could have any super power, like my list of top
+
+507
+00:49:00,820 --> 00:49:06,540
+five would definitely be multiple man's powers.
+Yeah, and his Madrox series and X-Factor written
+
+508
+00:49:06,540 --> 00:50:07,820
+by Peter David rest in peace, he did a phenomenal
+job writing Jamie Madrox as a character. Now that
+
+509
+00:50:07,820 --> 00:50:11,800
+we've got the teams, histories, and rosters out of
+the way, let's speculate on how one of the
+
+510
+00:50:11,800 --> 00:50:16,840
+thousands of simulated matches will go. The
+winners determined by simulations, not our
+
+511
+00:50:16,840 --> 00:50:21,960
+speculation, but it's fun to imagine how the fight
+could play out. AJ and IK, what are the rules of our
+
+512
+00:50:21,960 --> 00:50:27,080
+speculation? Well, I should say there are no
+rules, other than the teams have no prior
+
+513
+00:50:27,080 --> 00:50:31,980
+knowledge of the other going into the fight. All
+they are aware of starting out is that the other
+
+514
+00:50:31,980 --> 00:50:36,820
+side is a threat that needs to be eliminated. For
+the speculation, the groups will begin
+
+515
+00:50:36,820 --> 00:50:41,740
+approximately 50 meters apart in a nondescript
+environment that will have no bearing on the match
+
+516
+00:50:41,740 --> 00:50:47,260
+itself, as no environmental statistics are
+considered in my simulations. The teams must earn
+
+517
+00:50:47,260 --> 00:50:52,760
+victory on their own merit. All right, then let's
+get into it. Freedom fighters and X-Factor meet on
+
+518
+00:50:52,760 --> 00:50:58,280
+the battlefield. Who goes first? I'm going to say
+Uncle Sam goes first, and he's going to start by
+
+519
+00:50:58,280 --> 00:51:05,780
+growing about six stories tall right off the bat,
+and he's going to point to the X-Factor and say, I
+
+520
+00:51:05,780 --> 00:51:13,700
+want you to die. And so he's going to leap towards
+them and land right on top of the group, just
+
+521
+00:51:13,700 --> 00:51:20,080
+stopping them all into the ground with his giant
+feet. No, but Siren is going to shout out a sonic
+
+522
+00:51:20,080 --> 00:51:26,900
+blast at Uncle Sam as he's trying to land on them.
+And the sonic force waves are going to make him fall
+
+523
+00:51:26,900 --> 00:51:33,180
+short in his leap, and he's just going to fall on his
+ass instead. And then Havoc unloads a giant plasma
+
+524
+00:51:33,180 --> 00:51:39,300
+blast in Freedom Fighters direction that for sure
+incinerates Uncle Sam, but also just
+
+525
+00:51:39,300 --> 00:51:46,360
+disintegrates the rest of the team. For sure. No.
+Uncle Sam is basically invulnerable. So he may get
+
+526
+00:51:46,360 --> 00:51:52,600
+burned, but he's not going to disintegrate. In
+fact, actually his body is going to act as a barrier
+
+527
+00:51:52,600 --> 00:51:58,960
+between both teams, and he's going to protect his
+side from Havoc's energy. And from behind Uncle
+
+528
+00:51:58,960 --> 00:52:06,760
+Sam, the ray is just going to zip right into the sky
+and rain lasers down upon X-Factor, which is going
+
+529
+00:52:06,760 --> 00:52:13,080
+to provide cover for the rest of his team to emerge
+into the battle. Well, Polaris throws up an
+
+530
+00:52:13,080 --> 00:52:18,100
+electromagnetic shield that'll protect
+X-Factor from the ray's lasers and also provide
+
+531
+00:52:18,100 --> 00:52:24,320
+that team with cover to go out into the battle. And
+right away, Iceman rides over to Black Condor, and
+
+532
+00:52:24,320 --> 00:52:28,980
+he's going to be like, let's clip those wings, and
+he's just going to perforate Black Condor's wings
+
+533
+00:52:28,980 --> 00:52:35,200
+with the volley of icicles, just turning the wings
+into Swiss cheese. So now the dude can't even fly.
+
+534
+00:52:35,200 --> 00:52:39,980
+No, I'm going to say Black Condor totally saw
+Iceman sliding toward him, because how could he
+
+535
+00:52:39,980 --> 00:52:47,000
+not? And he's going to counter these icicles with a
+generated gust of wind that's strong enough to
+
+536
+00:52:47,000 --> 00:52:53,560
+redirect them toward, let's say, beast. And it's
+going to attack him in his chest and in each of his
+
+537
+00:52:53,560 --> 00:53:00,540
+limbs. Well, okay, so beast gets tagged with like
+one or two of these icicles, but the damage is minor
+
+538
+00:53:00,540 --> 00:53:06,520
+at best. He also has quick enough reflexes to avoid
+the rest of the ice spikes by flipping into the air.
+
+539
+00:53:06,520 --> 00:53:12,660
+And in fact, he catches one of the icicles, and he's
+going to land on Uncle Sam's giant head and
+
+540
+00:53:12,660 --> 00:53:17,840
+probably make some quip about the sorry state of US
+politics before just jamming the icicle right
+
+541
+00:53:17,840 --> 00:53:24,100
+into one of Uncle Sam's eyes. So now Uncle Sam has no
+depth perception for the rest of this match. Well,
+
+542
+00:53:24,100 --> 00:53:30,020
+let's say Dull Man was on Uncle Sam when this
+happened, just kind of hiding out. And he's
+
+543
+00:53:30,020 --> 00:53:36,300
+definitely too small for beast to notice. So
+before beast can even land on Uncle Sam, Dull Man is
+
+544
+00:53:36,300 --> 00:53:43,460
+going to telekinetically stall beast in midair
+and then hurl him really hard right into long
+
+545
+00:53:43,460 --> 00:53:49,340
+shots, sending both of them toppling across the
+ground. Except that with long shots, good luck
+
+546
+00:53:49,340 --> 00:53:56,200
+power. He ducks out of the way just in time. So beast
+misses hitting long shot and instead he rolls into
+
+547
+00:53:56,200 --> 00:54:03,380
+a ball that plows right into Phantom Lady, like a
+furry 300 pound bowling ball. Okay. And he just
+
+548
+00:54:03,380 --> 00:54:10,860
+knocks her right the heck out. Except that Phantom
+Lady was invisible and intangible at the time. So
+
+549
+00:54:10,860 --> 00:54:16,660
+no, actually he slams into multiple man. And
+that's just going to send new versions of multiple
+
+550
+00:54:16,660 --> 00:54:21,900
+man scattered everywhere. Well, she's like an
+impact of that magnitude would probably create
+
+551
+00:54:21,900 --> 00:54:27,100
+like 20 duplicates of multiple man
+instantaneously. And I'm going to say that all 20
+
+552
+00:54:27,100 --> 00:54:33,160
+of these dupes are going to run over to the human
+bomb and just start stomping his ass like they owe
+
+553
+00:54:33,160 --> 00:54:40,140
+him money. Human bomb. You clearly know nothing
+about human bomb. You fucked up. I'm going to say as
+
+554
+00:54:40,140 --> 00:54:46,600
+these multiple men are attacking the human bomb,
+he's going to pull off one of his gloves and just
+
+555
+00:54:46,600 --> 00:54:53,780
+punch one of them right in the shin, generating
+this massive explosion that disrupts the entire
+
+556
+00:54:53,780 --> 00:54:59,580
+environment. Everyone just goes flying away from
+the explosion and all of the multiple men
+
+557
+00:54:59,580 --> 00:55:05,800
+themselves, including the original, capture the
+brunt of this explosion and get disintegrated.
+
+558
+00:55:05,800 --> 00:55:11,120
+You can't do that. No, that was way too quick for
+multiple man. He didn't know what human bomb does.
+
+559
+00:55:11,120 --> 00:55:17,500
+How was multiple man supposed to know? He's going
+to learn today. He just did. Okay, so multiple
+
+560
+00:55:17,500 --> 00:55:25,120
+man's out and the battlefield is a shallow crater.
+Everyone's scattered. The dupes are dead and
+
+561
+00:55:25,120 --> 00:55:31,620
+everyone on X Factor is probably like, oh, shit, we
+got to get rid of this human bomb guy. So I'm just
+
+562
+00:55:31,620 --> 00:55:36,260
+going to go out on a limb here and say that I think the
+human bomb suit is made out of metal. Oh, no,
+
+563
+00:55:36,260 --> 00:55:45,500
+actually, it's a material called fibrowax. It's
+like this non-metallic heat resistant material.
+
+564
+00:55:45,500 --> 00:55:50,480
+It's like the only thing he could touch that
+doesn't explode because it's chemically inert.
+
+565
+00:55:50,480 --> 00:55:58,080
+Fucking course it is. Well, then Iceman freezes
+human bomb. So now he's just frozen in this big ice
+
+566
+00:55:58,080 --> 00:56:05,660
+cube and Siren lets out a sonic cry that shatters
+the ice cube and human bomb to pieces. So he's out of
+
+567
+00:56:05,660 --> 00:56:11,940
+this match now. No more threat from him.
+Meanwhile, Havoc fires a plasma wave at Plastic
+
+568
+00:56:11,940 --> 00:56:17,520
+Man that just melts him into a plastic puddle.
+Okay, well, Plastic Man, of course, is going to be
+
+569
+00:56:17,520 --> 00:56:22,900
+super extra about it. He's going to transform to
+look like the Wicked Witch of the West. He's going
+
+570
+00:56:22,900 --> 00:56:29,420
+to be like, I'm melting. I'm melting. And that's
+going to get the attention of Black Condor, who is
+
+571
+00:56:29,420 --> 00:56:34,820
+just going to dive bomb Havoc and knock him onto the
+ground, which is going to give Plastic Man just
+
+572
+00:56:34,820 --> 00:56:42,700
+enough time to spring into the air and turn into
+this small house that lands on Havoc crushing his
+
+573
+00:56:42,700 --> 00:56:49,800
+body with only his legs poking out from beneath the
+foundation. So Havoc's dead. Why all the Wizard of
+
+574
+00:56:49,800 --> 00:56:55,880
+Oz references? I don't know. Plastic Man just
+watched the movie. It was tough to mine. Okay,
+
+575
+00:56:55,880 --> 00:57:03,400
+well, Polaris would be upset by Havoc's death.
+She's angry and she's so angry that she emits a
+
+576
+00:57:03,400 --> 00:57:10,240
+electromagnetic wave that fries all the tech on
+the battlefield. So that would include Phantom
+
+577
+00:57:10,240 --> 00:57:16,360
+Lady's tech, right? And whoever else uses tech.
+And at the very least, I think the EMP would make Ray
+
+578
+00:57:16,360 --> 00:57:20,700
+puke his guts or something. Oh, right. Because
+he's sensitive to electromagnetic energy.
+
+579
+00:57:20,700 --> 00:57:28,420
+Maybe, maybe. But yeah, Phantom Lady really is the
+only one on the team who uses tech. It would disrupt
+
+580
+00:57:28,420 --> 00:57:34,000
+her Black Light technology that gives her her
+powers. So, you know, she's probably not
+
+581
+00:57:34,000 --> 00:57:40,020
+invisible or intangible anymore. Good. Because
+that's when Beast leaps over to her and lands like
+
+582
+00:57:40,020 --> 00:57:46,780
+this 25 hit combo. Just like a cartwheel kick
+followed by like a breakdance windmill move and
+
+583
+00:57:46,780 --> 00:57:52,740
+like a capoeira butterfly kick thing. Phantom
+Lady is just getting hit like, uh, and then, you
+
+584
+00:57:52,740 --> 00:58:00,460
+know, she's dead. Wow. Okay. Meanwhile, Polaris,
+she's suddenly going to get wrapped up in a giant
+
+585
+00:58:00,460 --> 00:58:07,200
+Plastic Man burrito. Like literally it's a giant
+tortilla with goggles. And in her panic while
+
+586
+00:58:07,200 --> 00:58:14,640
+trying to get out, she's going to quickly use up all
+of her air and suffocate. So, she's out. A burrito
+
+587
+00:58:14,640 --> 00:58:20,440
+is a weird way to go out. But I'm going to say this is a
+frozen burrito because Iceman just froze Plastic
+
+588
+00:58:20,440 --> 00:58:26,820
+Man and Plastic Man's out of the match because Ice
+is his weakness. But Iceman grows into a giant form
+
+589
+00:58:26,820 --> 00:58:32,420
+like an Ice Giant about the same size as Uncle Sam.
+And he's going to grab this frozen Plastic Man
+
+590
+00:58:32,420 --> 00:58:38,200
+burrito and just slap it across the face of Uncle
+Sam. So Plastic Man shatters and Uncle Sam just got
+
+591
+00:58:38,200 --> 00:58:46,200
+walloped in the face. Okay. So you literally awoke
+a sleeping giant. Bad move because while Iceman is
+
+592
+00:58:46,200 --> 00:58:54,380
+distracted by treading blows with Uncle Sam, Rey
+is going to just bombard Iceman from above with
+
+593
+00:58:54,380 --> 00:59:00,700
+heat waves. That's going to melt him and evaporate
+him simultaneously so that Iceman becomes
+
+594
+00:59:00,700 --> 00:59:09,760
+non-existent, basically. Okay. But Beast, after
+beating the crap out of Phantom Lady, he used his
+
+595
+00:59:09,760 --> 00:59:15,880
+ingenuity to get her Black Light technology
+working again because he studied it and he's smart
+
+596
+00:59:15,880 --> 00:59:22,620
+like that. And he's going to use her Black Light
+technology to emit a Black Light hologram that
+
+597
+00:59:22,620 --> 00:59:27,220
+he's going to shoot at the Rey, which is going to
+encase the Rey in darkness and just erase him from
+
+598
+00:59:27,220 --> 00:59:34,900
+this match. Interesting. Okay. Science. That was
+a good move, actually. But suddenly, Uncle Sam's
+
+599
+00:59:34,900 --> 00:59:42,140
+giant top hat is going to slam down over Beast and
+when he lifts it back up, Beast is gone because he
+
+600
+00:59:42,140 --> 00:59:47,860
+was banished to the Heartland dimension by Uncle
+Sam, who used his hat like a portal. What is he? Some
+
+601
+00:59:47,860 --> 00:59:55,040
+kind of stage magician? Sure. Instead of pulling a
+rabbit out of a hat, he puts a beast into it. But then
+
+602
+00:59:55,040 --> 01:00:03,260
+all of a sudden, Uncle Sam's head explodes. What?
+And Dollman crawls out of it. Why? Because Siren
+
+603
+01:00:03,260 --> 01:00:10,980
+used her hypnotizing Siren song to lure Dollman
+into going into Uncle Sam's head and then blowing
+
+604
+01:00:10,980 --> 01:00:18,580
+it up with a mental blast. Dang. Well, with the
+death of Uncle Sam, the leader of the team, Black
+
+605
+01:00:18,580 --> 01:00:26,800
+Condor is going to fly literal around Siren,
+trapping her in a tornado that's also going to suck
+
+606
+01:00:26,800 --> 01:00:31,960
+the air away from her. And that's going to prevent
+her from using her sound powers while also
+
+607
+01:00:31,960 --> 01:00:38,780
+simultaneously knocking her unconscious from
+the lack of oxygen. So Siren's out. But then all of a
+
+608
+01:00:38,780 --> 01:00:46,060
+sudden, Black Condor falls out of the sky because
+he got a throwing blade to the face. And yeah, he's
+
+609
+01:00:46,060 --> 01:00:52,820
+high up in the air, but Longshot threw the blade and
+Longshot's aim is lucky like that, which means
+
+610
+01:00:52,820 --> 01:01:01,700
+that the battle is down to Longshot and Dollman.
+Oh, shit. OK, Dollman, he's a master of stealth
+
+611
+01:01:01,700 --> 01:01:06,540
+operations. So he's just going to use the
+environment and like all of the bodies strewn
+
+612
+01:01:06,540 --> 01:01:12,840
+about to hide from Longshot. And he's going to wait
+until Longshot just stumbles right over him. And
+
+613
+01:01:12,840 --> 01:01:17,800
+that's when Dollman is going to do a leaping
+uppercut right to Longshot's abdomen, just
+
+614
+01:01:17,800 --> 01:01:24,040
+knocking the wind out of him. And with Longshot on
+his knees, trying to breathe, that's when Dollman
+
+615
+01:01:24,040 --> 01:01:30,320
+is going to deliver a knockout punch right to
+Longshot's temple, knocking him out. So Dollman
+
+616
+01:01:30,320 --> 01:01:37,140
+is like leaping around doing all this punching.
+Yeah. OK. Well, when Dollman first makes contact
+
+617
+01:01:37,140 --> 01:01:42,660
+when he knocks the wind out of Longshot, that's
+when Longshot got a glimpse of Dollman's future
+
+618
+01:01:42,660 --> 01:01:48,580
+using his psychometry. So Longshot knows that the
+second blow to his head is coming while he's
+
+619
+01:01:48,580 --> 01:01:54,340
+kneeling. So instead of landing that shot,
+Dollman just jumps into a knife that Longshot
+
+620
+01:01:54,340 --> 01:02:02,420
+threw and the match is over. Nah, because Dollman,
+he's really agile for his size. And so as the knife
+
+621
+01:02:02,420 --> 01:02:09,180
+is coming at him, Dollman's just going to freeze it
+midair, jump onto the blade like he's surfing it,
+
+622
+01:02:09,180 --> 01:02:15,460
+and he's going to ride it as he telekinetically
+hurls it right into Longshot's own neck. Yeah, he
+
+623
+01:02:15,460 --> 01:02:20,880
+meant to do that, but he mistimed everything and
+then got cleaved into by the knife. Caused, of
+
+624
+01:02:20,880 --> 01:02:26,860
+course, by Longshot's probability
+manipulation. That's dumb. That's also probably
+
+625
+01:02:26,860 --> 01:02:33,660
+a good place to leave the match. Either Dollman
+uses Longshot's own blade against him or Dollman
+
+626
+01:02:33,660 --> 01:02:39,360
+just has bad luck and ends up getting cleaved into.
+Let's go ahead and put the team members statistics
+
+627
+01:02:39,360 --> 01:02:47,140
+into our simulator, run the sims, and come back
+with the winner. A.J .9K, hit it! Inputting data,
+
+628
+01:02:47,140 --> 01:02:52,680
+running calculations, processing results,
+simulations complete. What'd you think of this
+
+629
+01:02:52,680 --> 01:02:57,300
+episode? I thought it was pretty fun. I liked the
+rosters on both teams. They're definitely really
+
+630
+01:02:57,300 --> 01:03:02,520
+cool characters. Like I mentioned earlier that
+Multiple Man had a cool power set, but so does like
+
+631
+01:03:02,520 --> 01:03:08,420
+the human bomb and Phantom Lady and Rey and really
+all of the members of the Freedom Fighters. Yeah,
+
+632
+01:03:08,420 --> 01:03:14,800
+it was really fun to pair those characters against
+X Factor. In order to maintain like, a semblance of
+
+633
+01:03:14,800 --> 01:03:20,680
+fairness between these rosters, we like to pair up
+each of the characters. So in this instance, we
+
+634
+01:03:20,680 --> 01:03:27,640
+went with Rey and Iceman, Plastic Man and Multiple
+Man, Dollman and Longshot, Black Condor and
+
+635
+01:03:27,640 --> 01:03:34,960
+Siren, Phantom Lady and Polaris, Human Bomb and
+Havoc, and Uncle Sam and Beast. I thought those
+
+636
+01:03:34,960 --> 01:03:40,180
+were pretty damn good pairings. Yeah, a few of
+those would have made fantastic individual dual
+
+637
+01:03:40,180 --> 01:03:45,100
+episodes. Inputting the team statistics, it
+looks like the biggest differences between the
+
+638
+01:03:45,100 --> 01:03:51,060
+teams were in the categories of durability and
+perception, with the Freedom Fighters being way
+
+639
+01:03:51,060 --> 01:03:57,480
+more durable, like shockingly more durable than X
+Factor. As compared to some of DC's characters
+
+640
+01:03:57,480 --> 01:04:04,160
+like Plastic Man, Uncle Sam, Human Bomb, who all
+have increased durability. Yeah, the Rey can
+
+641
+01:04:04,160 --> 01:04:09,100
+regenerate and stuff like that. My most durable
+character was Iceman, who could also regenerate.
+
+642
+01:04:09,100 --> 01:04:14,240
+But we had decent evasiveness like Polaris has her
+force fields, Longshot has his probability
+
+643
+01:04:14,240 --> 01:04:19,720
+manipulation, and Iceman also has shielding. We
+did say that the X Factor team was much more
+
+644
+01:04:19,720 --> 01:04:25,660
+versatile. A lot of the Freedom Fighter members
+are kind of one-trick ponies. I think another
+
+645
+01:04:25,660 --> 01:04:30,840
+category that sticks out is range. A lot of the X
+Factor guys have some sort of ranged attack,
+
+646
+01:04:30,840 --> 01:04:36,400
+except for Beast. Now, I definitely had the most
+powerful character on both teams in the Rey,
+
+647
+01:04:36,400 --> 01:04:41,100
+surprisingly. No, he wasn't the most powerful. He
+actually tied with Polaris, who was also very
+
+648
+01:04:41,100 --> 01:04:47,080
+powerful and the most powerful on X Factor,
+stat-wise. But X Factor had the weakest members
+
+649
+01:04:47,080 --> 01:04:53,040
+out of both teams in Siren and Havoc, which is
+shocking to say because they're both pretty
+
+650
+01:04:53,040 --> 01:04:59,240
+powerful characters. So I think that just goes to
+show that both teams have really solid rosters. So
+
+651
+01:04:59,240 --> 01:05:04,540
+with all of this said, Joseph, which team do you
+think came out on top? I think it's going to be X
+
+652
+01:05:04,540 --> 01:05:12,160
+Factor. And Instagram agrees with me, because 61%
+of our followers who took part in our poll said that
+
+653
+01:05:12,160 --> 01:05:17,120
+X Factor would win. And I think the win rate's going
+to be right around there. I feel like anytime you
+
+654
+01:05:17,120 --> 01:05:23,060
+pit an X-Men team against any other team, people
+are going to vote for the X-Men team. They're just,
+
+655
+01:05:23,060 --> 01:05:30,920
+yeah, more popular. As they should. But are they
+right? Let's find out. AJ9K, the results please.
+
+656
+01:05:30,920 --> 01:05:39,180
+Hey, you are, sir. The winner in the team duel
+matchup between Freedom Fighters and X Factor
+
+657
+01:05:39,180 --> 01:05:49,720
+is... Freedom Fighters! Bish! How the hell did
+that happen? By how much? Freedom Fighters won
+
+658
+01:05:49,720 --> 01:05:59,700
+56.2% of the simulated matches compared to X
+Factor's 43.8. So it was close, but not that close,
+
+659
+01:05:59,700 --> 01:06:06,520
+I guess. You thought X Factor was going to beat
+Freedom Fighters by 61%. Yeah. What? Why not?
+
+660
+01:06:06,520 --> 01:06:11,760
+Because they're not that good, bro. I was
+initially thinking about having Quicksilver on
+
+661
+01:06:11,760 --> 01:06:18,480
+this team duel, and I wonder if maybe I should have
+replaced Longshot or Siren with Quicksilver, who
+
+662
+01:06:18,480 --> 01:06:22,960
+may have been more statistically impressive. I
+was thinking about that when you were listing all
+
+663
+01:06:22,960 --> 01:06:28,440
+the different characters that were on the team,
+and I was like, oh, Quicksilver, why was he not on
+
+664
+01:06:28,440 --> 01:06:32,620
+this roster? Not that it would have made a
+difference. It probably wouldn't have made a
+
+665
+01:06:32,620 --> 01:06:36,880
+difference. I think I still would have lost,
+because even Quicksilver is not that much
+
+666
+01:06:36,880 --> 01:06:42,420
+statistically better than Longshot or Siren or
+Havoc. Freedom Fighters, I guess, is just a team
+
+667
+01:06:42,420 --> 01:06:48,060
+composed of cheater characters who are way too
+powerful for their own good. Just vague and
+
+668
+01:06:48,060 --> 01:06:53,640
+powerful. That's all DC has. I mean, they didn't
+even start on DC. They were quality comics
+
+669
+01:06:53,640 --> 01:06:59,220
+characters that DC acquired. Well, they acquired
+them because the characters were vague and super
+
+670
+01:06:59,220 --> 01:07:06,580
+powerful. And winners, unlike your team, of
+losers. Now, actually, the losers are a DC team as
+
+671
+01:07:06,580 --> 01:07:14,340
+well. Oh, yeah, that's fair. That's true. But that
+does it for this duel. AJ9K help close us out.
+
+672
+01:07:14,340 --> 01:07:20,120
+Thanks for listening to Dynamic Joule. Visit the
+show's website at dynamicjoule.com, and follow
+
+673
+01:07:20,120 --> 01:07:26,100
+us on Instagram at Dynamic Joule podcast. You can
+support the show on Patreon at patreon.com slash
+
+674
+01:07:26,100 --> 01:07:31,060
+dynamicjoule and joining a tier that works for
+you, or by rating and reviewing Dynamic Joule on
+
+675
+01:07:31,060 --> 01:07:36,780
+Apple Podcasts, Spotify, Podchaser, or on our
+website. Don't forget to listen to the other shows
+
+676
+01:07:36,780 --> 01:07:44,240
+in the Dynamite podcast network, including Max
+Destruction, Senjo World, and Console Combat. In
+
+677
+01:07:44,240 --> 01:07:50,480
+our next episode, in lead up to the Superman film,
+we will be doing another duel episode this time
+
+678
+01:07:50,480 --> 01:07:57,100
+between the Green Lantern Guy Gardner against
+Gord the God Butcher. That'll be a fun one. Can't
+
+679
+01:07:57,100 --> 01:08:01,900
+wait for Guy to get his ass kicked. But that does it
+for this episode. We want to give a big thanks to our
+
+680
+01:08:01,900 --> 01:08:06,620
+executive producers, John Strausky, Zachary
+Hepburn, Dustin Balcom, Maggie Mathen-Geehan,
+
+681
+01:08:06,620 --> 01:08:11,040
+Nathaniel Wagner, Levi Yatn, Austin
+Wieselowski, AJ Dunkerly, Nick Abanto, Scott
+
+682
+01:08:11,040 --> 01:08:16,740
+Camacho, Gil Camacho, Adam Spees, Dean Molesky,
+Devin Davis, Joseph Kirsting, Josh Leiner, Mike
+
+683
+01:08:16,740 --> 01:08:22,060
+Williams, Oscar Galvez, and Paul Graves for
+helping make this podcast possible. We'll talk to
+
+684
+01:08:22,060 --> 01:08:26,600
+you guys next week. I'm up and away, true
+believers. But the real question is who would win
+
+685
+01:08:26,600 --> 01:08:29,000
+between X Factor and the Masked Singer. Am I right?
