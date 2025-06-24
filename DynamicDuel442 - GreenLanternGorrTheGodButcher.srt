@@ -1,0 +1,2808 @@
+1
+00:00:00,000 --> 00:00:27,660
+This is a DynaMic Network Podcast. Hi, welcome to
+the Dynamic Duel Podcast, a weekly show where we
+
+2
+00:00:27,660 --> 00:00:32,460
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:32,460 --> 00:00:37,760
+their characters in stat-based battle
+simulations. I'm Johnny DC. And I'm his twin
+
+4
+00:00:37,760 --> 00:00:44,140
+brother, Marvelous Joe. And in this episode, as a
+tie-in to the upcoming Superman film that's
+
+5
+00:00:44,140 --> 00:00:49,880
+coming out in less than a month, we are pitting the
+Green Lantern Guy Gardner against Gorr the God
+
+6
+00:00:49,880 --> 00:00:55,700
+Butcher. Now, you may remember Gorr from the
+terrible movie, Thor, Love and Thunder, and
+
+7
+00:00:55,700 --> 00:01:01,380
+you'll be seeing Guy in the Superman movie, which
+is why this is a tie-in. The equally terrible
+
+8
+00:01:01,380 --> 00:01:08,860
+Superman movie you forgot to say. Oh, it's going to
+be amazing, dude. It's going to suck. I'm just
+
+9
+00:01:08,860 --> 00:01:12,980
+putting that out there. It's not even going to be
+comparable to Thor, Love and Thunder. It's going
+
+10
+00:01:12,980 --> 00:01:18,300
+to be infinitely better because that was like the
+worst thing Marvel's ever put out. One of the worst
+
+11
+00:01:18,300 --> 00:01:21,920
+things for sure. Christian Bale definitely
+deserved better. But yeah, this will be an
+
+12
+00:01:21,920 --> 00:01:27,580
+interesting one. I kind of feel bad for Guy Gardner
+because I think he's going to get the shit kicked
+
+13
+00:01:27,580 --> 00:01:32,620
+out of him by Gorr. I just don't see any other way
+this fight's going to go down. I just realized this
+
+14
+00:01:32,620 --> 00:01:37,740
+is kind of a similar battle to what we did with our
+White Lantern versus Null episode. Yeah, except
+
+15
+00:01:37,740 --> 00:01:43,880
+the characters of Null and White Lantern are much
+more powerful than Guy Gardner and Gorr. Okay,
+
+16
+00:01:43,880 --> 00:01:49,980
+cool. It's a lesser episode of that then. Sweet.
+Pretty much. Well, I'm still looking forward to
+
+17
+00:01:49,980 --> 00:01:54,420
+it. I know there's a lot of Guy Gardner fans out
+there. I don't really think there's any Gorr fans,
+
+18
+00:01:54,420 --> 00:01:57,700
+but we're going to find out who's going to win
+between the two characters later on in this
+
+19
+00:01:57,700 --> 00:02:04,180
+episode. I'm a Gorr fan. You would be gross. Before
+we get into the battle, we're going to break down
+
+20
+00:02:04,180 --> 00:02:09,100
+the comic book movie news from the past week of
+which we got quite a few news items. We learned that
+
+21
+00:02:09,100 --> 00:02:13,980
+John Berndtall's Punisher is going to join the
+fourth Spider-Man movie, Brand New Day. Clayface
+
+22
+00:02:13,980 --> 00:02:19,940
+was cast in this film, and we got the official
+trailer for Sandman Season 2. As always, we list
+
+23
+00:02:19,940 --> 00:02:23,920
+our segment times in our episode description, so
+feel free to check out the show notes if you want to
+
+24
+00:02:23,920 --> 00:02:29,980
+skip ahead to a particular topic. Our
+artificially intelligent dual simulator, AJ9K,
+
+25
+00:02:29,980 --> 00:02:45,100
+has a quick message for our listeners, though, so
+listen up. The Dynamic 2.0 tier gives you access to
+
+26
+00:02:45,100 --> 00:02:50,180
+our Discord chat server, the Fantastic Four tier
+gives you two bonus episodes each month, and the
+
+27
+00:02:50,180 --> 00:02:55,800
+X-Force tier makes you an executive producer of
+this show. Lastly, the Diner Mike podcast network
+
+28
+00:02:55,800 --> 00:03:00,720
+tier lets you create your own podcast using this
+Monte Carlo simulator. Johnny and Joe will help
+
+29
+00:03:00,720 --> 00:03:04,960
+you develop your show, provide graphic support
+and consultation, and get you simulation
+
+30
+00:03:04,960 --> 00:03:11,720
+results. Pitch the twins your ideas via email at
+dynamicdualpodcast at gmail.com. Check it out at
+
+31
+00:03:11,720 --> 00:03:20,220
+patreon.com. Thanks, AJ9K, and thanks to
+everyone who supports the podcast. Guys, be sure
+
+32
+00:03:20,220 --> 00:03:24,340
+to tune in to the other shows and the Dynamite
+podcast network this week, including the console
+
+33
+00:03:24,340 --> 00:03:29,080
+combat podcast, where hosts John and Dean
+simulate battles between popular video game
+
+34
+00:03:29,080 --> 00:03:35,580
+characters. In yesterday's episode, they rebued
+Kingsglaive Final Fantasy XV. Over on the Max
+
+35
+00:03:35,580 --> 00:03:40,300
+Destruction podcast, hosts Scotty and Gilly pit
+your favorite action heroes from film and
+
+36
+00:03:40,300 --> 00:03:45,240
+television against each other. This week, the
+brothers are pitting the White Ranger and his
+
+37
+00:03:45,240 --> 00:03:51,540
+Tiger's Orde against Servo from the Superhuman
+Samurai Cyber Squad. And on the Send Joe World
+
+38
+00:03:51,540 --> 00:03:56,240
+podcast, host Zachary Hepburn speculates on
+fights between fan favorite anime and manga
+
+39
+00:03:56,240 --> 00:04:03,000
+characters. In his next episode, Zach is going to
+review K-pop demon hunters on Netflix. Visit
+
+40
+00:04:03,000 --> 00:04:09,000
+dynamicpodcasts.com or click the link in our show
+notes to listen to all of the shows in the Dynamite
+
+41
+00:04:09,000 --> 00:04:16,720
+podcast network. But with that out of the way,
+click to the No Prize. A No Prize is an award that
+
+42
+00:04:16,720 --> 00:04:22,240
+Marvel used to give out to fans. Our version, the
+Dynamic Dual No Prize, is a digital award we post on
+
+43
+00:04:22,240 --> 00:04:27,300
+Instagram for the person that we feel gave the best
+answer to our question of the week. Last week, we
+
+44
+00:04:27,300 --> 00:04:31,600
+asked you guys, what has been your favorite
+Superman moment from past films or television
+
+45
+00:04:31,600 --> 00:04:36,640
+series and why? We got five answers this week.
+We're going to break down our three honorable
+
+46
+00:04:36,640 --> 00:04:42,020
+mentions before revealing the week's No Prize
+winner. Our first honorable mention goes to
+
+47
+00:04:42,020 --> 00:04:48,520
+Travis Herndon, who said, What's up, dynamic
+dudes? Travis here. Shout out to my evil twin. So my
+
+48
+00:04:48,520 --> 00:04:56,020
+choice would be from the movie Superman vs. the
+Elite, the instant lobotomy. That scene was just
+
+49
+00:04:56,020 --> 00:05:02,340
+straight up badass because one, we never seen Heat
+Vision use that small to go through somebody's eye
+
+50
+00:05:02,340 --> 00:05:07,580
+and like fuck up their powers and stuff to
+eternally without them knowing. So to me, instant
+
+51
+00:05:07,580 --> 00:05:14,560
+lobotomy is the best Superman moment for me. Hands
+down. Yeah, so Superman vs. the Elite was a
+
+52
+00:05:14,560 --> 00:05:20,760
+direct-to-video animated film based off of
+Action Comics 775, which was titled What's So
+
+53
+00:05:20,760 --> 00:05:27,280
+Funny about Truth, Justice, and the American Way.
+In which Superman goes up against a group of
+
+54
+00:05:27,280 --> 00:05:33,560
+anti-heroes known as the Elite, who kind of try and
+make Superman seem like he's obsolete. And when he
+
+55
+00:05:33,560 --> 00:05:39,680
+turns their bad guy rules against them, he kind of
+shows them that, hey, you're lucky I don't play in a
+
+56
+00:05:39,680 --> 00:05:45,320
+moral gray area like you guys do. One of the things
+he did, of course, was take away the powers of the
+
+57
+00:05:45,320 --> 00:05:52,340
+leader, Manchester Black. And he did it in the most
+like badass way. Yeah, it was kind of an ethically
+
+58
+00:05:52,340 --> 00:05:57,760
+shaky action on behalf of Superman, right? I
+agree. Because what he did is he combined his X-ray
+
+59
+00:05:57,760 --> 00:06:02,940
+vision with his microscopic vision, slash
+telescopic vision, I think, and his Heat Vision.
+
+60
+00:06:02,940 --> 00:06:08,020
+You think that he could do this all the time against
+other villains. I'm not sure why he doesn't, I
+
+61
+00:06:08,020 --> 00:06:12,340
+guess because it's a morally shaky action. But
+it's definitely an interesting feat for the
+
+62
+00:06:12,340 --> 00:06:19,020
+character. I remember reading one JLA comic book
+issue where Marshall Manhunter linked the minds
+
+63
+00:06:19,020 --> 00:06:24,180
+of Superman and the Flash, and the Flash was
+telepathically able to see through Superman's
+
+64
+00:06:24,180 --> 00:06:30,540
+X-ray vision. And then he phased into a guy's head
+to do a similar effect where he messed with his
+
+65
+00:06:30,540 --> 00:06:35,180
+brain to remove his superpowers. And then, of
+course, we also have the identity crisis arc,
+
+66
+00:06:35,180 --> 00:06:40,240
+which was all about the Justice League performing
+brain surgery on villains to make him less evil.
+
+67
+00:06:40,240 --> 00:06:46,780
+It's such a bizarre use of superpowers that has
+been kind of a recurring motif among DC
+
+68
+00:06:46,780 --> 00:06:51,420
+superheroes. Yeah, it's kind of like clockwork
+orange in a way where it's like, can you force
+
+69
+00:06:51,420 --> 00:07:00,080
+people to be moral? And it is not ethically sound, I
+would say. But of course, in the Justice League
+
+70
+00:07:00,080 --> 00:07:05,920
+versus the Elite storyline, the effects were
+temporary. Like Superman made Manchester Black
+
+71
+00:07:05,920 --> 00:07:10,500
+think that he killed all of his allies when he
+really didn't. So he was just kind of giving them a
+
+72
+00:07:10,500 --> 00:07:15,700
+taste of what it would be like if he was evil. It's a
+great storyline, great movie. Definitely
+
+73
+00:07:15,700 --> 00:07:20,760
+recommend it to anyone who has not yet seen it,
+though I just spoiled it all for you. Sorry, guys.
+
+74
+00:07:20,760 --> 00:07:26,100
+See it in action. Don't just take Jonathan's word
+for it. Right, exactly. Great answer, Travis. Our
+
+75
+00:07:26,100 --> 00:07:32,680
+next honorable mention goes to Cyrus Moore. Who
+said? Hey guys, Cyrus Moore here. I think the best
+
+76
+00:07:32,680 --> 00:07:38,920
+Superman moments happen to be in the movie The
+Death of Superman. I think it's got some of the best
+
+77
+00:07:38,920 --> 00:07:44,940
+fight scenes with Doomsday. And I just, I think
+it's the best Superman movie personally. It's
+
+78
+00:07:44,940 --> 00:07:51,140
+probably one of the saddest, but it was also great
+to see Superman save Lois Lane in the Doomsday
+
+79
+00:07:51,140 --> 00:07:57,100
+fight. So yeah, we reviewed The Death of Superman
+on this podcast when it came out. It was a fantastic
+
+80
+00:07:57,100 --> 00:08:03,340
+animated film. It was like part one of a two part
+film that also included Reign of the Superman that
+
+81
+00:08:03,340 --> 00:08:09,200
+was also really good. Now this was not the first
+time we had seen Superman fight Doomsday in
+
+82
+00:08:09,200 --> 00:08:14,880
+animation. Of course, there was the Superman
+Doomsday film that came out like over a decade
+
+83
+00:08:14,880 --> 00:08:20,100
+prior to this film coming out. When this movie came
+out, we had also just recently seen Batman vs
+
+84
+00:08:20,100 --> 00:08:24,400
+Superman where Superman dies at the hands of
+Doomsday as well. Out of all the different
+
+85
+00:08:24,400 --> 00:08:29,180
+adaptations of The Death of Superman comic book
+story arc, I think The Death of Superman animated
+
+86
+00:08:29,180 --> 00:08:34,980
+movie was the best. It was a real tear-jerker, but
+with great action. Yeah, I would actually agree
+
+87
+00:08:34,980 --> 00:08:41,179
+with that. So great answer Cyrus. Our final
+honorable mention goes to by DearBangora who
+
+88
+00:08:41,179 --> 00:08:48,500
+said, Hello dynamic duo. My favorite scene has to
+be from the end of Superman and Lois. The fact that
+
+89
+00:08:48,500 --> 00:08:54,500
+they have this recap very similar to Six Feet Under
+and they go through all the life of Superman and his
+
+90
+00:08:54,500 --> 00:09:01,240
+family and his kids. Just really embodied all of
+what Superman is meant to be. Great Tyler Houghlin
+
+91
+00:09:01,240 --> 00:09:09,660
+scene, great scene in general, great way to end the
+DC TV universe. Okay, so I will fully admit I was not
+
+92
+00:09:09,660 --> 00:09:15,840
+a big fan of the Superman and Lois television
+series. Not for any reason that I didn't like the
+
+93
+00:09:15,840 --> 00:09:20,180
+story or anything like that. I just was always too
+busy to watch it and by that point I was kind of done
+
+94
+00:09:20,180 --> 00:09:28,360
+with the CW. That said, by Dear's description of
+the final scene of the show kind of really makes me
+
+95
+00:09:28,360 --> 00:09:33,420
+want to watch it. Yeah, I kept hearing that it was
+really good among fans and on Reddit and stuff like
+
+96
+00:09:33,420 --> 00:09:38,340
+that. So I heard the show as a whole was just
+amazing. And I think if you had watched it, maybe
+
+97
+00:09:38,340 --> 00:09:43,120
+this would actually get the no prize win. Who
+knows? Yeah, that's actually very possible. My
+
+98
+00:09:43,120 --> 00:09:48,340
+apologies to everyone who enjoyed the show who
+knows that this should probably get the win. But
+
+99
+00:09:48,340 --> 00:09:54,280
+alas, it does not. We want to give a quick shout out
+to Alex Albro for calling in with his answer. But
+
+100
+00:09:54,280 --> 00:10:01,220
+the winner of this week's no prize is Lorenzo
+Valdez. Who said? This is Lorenzo Valdez calling
+
+101
+00:10:01,220 --> 00:10:07,260
+in once again. My favorite Superman moment from a
+film is the first flight scene for Man of Steel. My
+
+102
+00:10:07,260 --> 00:10:11,440
+favorite Superman moment from a television
+series. Well, there are so many clonda moments
+
+103
+00:10:11,440 --> 00:10:16,000
+that I want to choose from Smallville. But the one
+I'm going to go with because it feels most like what
+
+104
+00:10:16,000 --> 00:10:21,480
+you're soliciting, which is specifically a
+Superman moment, because it's set at the top of the
+
+105
+00:10:21,480 --> 00:10:26,980
+daily planet. It's the clonda kiss from the end of
+the season eight episode of Smallville power.
+
+106
+00:10:26,980 --> 00:10:32,840
+Clona forever and always. Bye bye. So I finally
+realized what Lorenzo is saying when he mentions
+
+107
+00:10:32,840 --> 00:10:40,720
+clona. And I guess that's like shipping Clark and
+Lana Lang, which no, I am anti-clona. He belongs
+
+108
+00:10:40,720 --> 00:10:46,500
+with Lois Lane. So I'm not really counting the
+Smallville kiss scene. What I really love about
+
+109
+00:10:46,500 --> 00:10:53,100
+his answer is the Superman first flight scene from
+Man of Steel, because that was intense. I still
+
+110
+00:10:53,100 --> 00:10:59,180
+remember watching that in theaters and just being
+so moved by Hans Zimmer's sweeping score. It is
+
+111
+00:10:59,180 --> 00:11:06,180
+hands down. I think my favorite Superman moment
+from the entirety of the Snyderverse. But who's
+
+112
+00:11:06,180 --> 00:11:11,320
+your favorite version of Lana Lang, though,
+Jonathan? Oh, like favorite actress. Um, I would
+
+113
+00:11:11,320 --> 00:11:17,260
+say the one that I think is most close to the comics
+was actually the Annette O'Toole version of the
+
+114
+00:11:17,260 --> 00:11:22,140
+character from Superman 3. She would later
+actually be cast as Martha Kent in the Smallville
+
+115
+00:11:22,140 --> 00:11:27,920
+television series. So it's not the Kristen Crook
+version from Smallville? No, she was fine. I just
+
+116
+00:11:27,920 --> 00:11:32,040
+think Annette O'Toole was more comics accurate.
+I'm pretty sure Lorenzo Valdez is going to want to
+
+117
+00:11:32,040 --> 00:11:39,360
+fight you now. Come at me, bro. I thought I want to
+make Clois a word, but Clois forever and always. I
+
+118
+00:11:39,360 --> 00:11:45,100
+think I've always been more of a, uh, clunder woman
+type guy. But congrats to Lorenzo Valdez for
+
+119
+00:11:45,100 --> 00:11:48,960
+winning this week's snow prize. If you the
+listener want a shot at winning your own no prize,
+
+120
+00:11:48,960 --> 00:11:53,140
+stay tuned to later on this episode when we'll be
+asking another question of the week. And now that
+
+121
+00:11:53,140 --> 00:12:03,640
+that's done, on to the news. Alright, in a fairly
+surprising bit of news from this past week, we
+
+122
+00:12:03,640 --> 00:12:08,680
+learned that John Bernthal, who plays the
+character of Frank Castle the Punisher, will be
+
+123
+00:12:08,680 --> 00:12:16,140
+joining the cast of Spider-Man Brand New Day in a
+move that makes me go, what is going on? I had no idea
+
+124
+00:12:16,140 --> 00:12:21,680
+what this film was going to be, but I think the
+addition of John Bernthal to the cast gives us a
+
+125
+00:12:21,680 --> 00:12:26,160
+clearer picture. So previously you and I
+conjectured that the film could be adapting the
+
+126
+00:12:26,160 --> 00:12:30,280
+Spider-Verse storyline because we thought maybe
+Sadie Sink was going to play in Alternate Universe
+
+127
+00:12:30,280 --> 00:12:36,280
+Gwen Stacy. There are a ton of rumors going around
+the internet right now, including rumors that the
+
+128
+00:12:36,280 --> 00:12:42,400
+story is going to involve symbiotes and the Hulk.
+None of those rumors were substantiated, but we
+
+129
+00:12:42,400 --> 00:12:46,740
+did get confirmation from the Hollywood Reporter
+that, yeah, the Punisher is going to be joining the
+
+130
+00:12:46,740 --> 00:12:52,020
+story, which really makes me rethink all my
+previous notions in that they appear to be taking a
+
+131
+00:12:52,020 --> 00:12:56,680
+more grounded approach to this upcoming
+Spider-Man film. Yeah, you would think that
+
+132
+00:12:56,680 --> 00:13:03,520
+someone from the Netflix shows, which were all
+pretty street level and grounded, would make this
+
+133
+00:13:03,520 --> 00:13:09,240
+Spider-Man film somewhat like that, right?
+Right. And it makes me think that Sadie Sink is more
+
+134
+00:13:09,240 --> 00:13:13,920
+likely going to be playing Felicia Hardy, the
+black cat, because she's a more grounded street
+
+135
+00:13:13,920 --> 00:13:19,200
+level character, I think. And that the villain is
+maybe going to be the kingpin, and maybe we'll see
+
+136
+00:13:19,200 --> 00:13:24,160
+Daredevil in addition to the Punisher. Or maybe
+the rumors are true and the bad guy is going to be Mr.
+
+137
+00:13:24,160 --> 00:13:29,500
+Negative, who is another New York City crime boss
+who has the power of the life force and the dark
+
+138
+00:13:29,500 --> 00:13:35,660
+force, which are abilities shared by the heroic
+duo of Cloak and Dagger. So maybe those guys are
+
+139
+00:13:35,660 --> 00:13:41,100
+joining the story as well. And this really is
+shaping up to be a more direct adaptation of the
+
+140
+00:13:41,100 --> 00:13:45,780
+brand new day story arc. Yeah, there's currently
+rumors going around that Nicole Kidman is going to
+
+141
+00:13:45,780 --> 00:13:52,260
+play negative woman, essentially. Oh, I don't
+know about that. I wouldn't like that. I was kind of
+
+142
+00:13:52,260 --> 00:13:57,620
+setting my hopes on Steven Yun as Mr. Negative
+himself, Martin Lee, who's a pretty cool
+
+143
+00:13:57,620 --> 00:14:02,580
+character. He's kind of like Too Faced in the sense
+that he's a crime boss who jumps between his light
+
+144
+00:14:02,580 --> 00:14:06,780
+side and his dark side, although in this case it's
+very much literally his light side and his dark
+
+145
+00:14:06,780 --> 00:14:12,180
+side. When he's in his dark force form, he appears
+as a photo negative kind of. And when he corrupts
+
+146
+00:14:12,180 --> 00:14:17,200
+other people or imbues objects with his dark
+force, it appears as like a photo negative. It can
+
+147
+00:14:17,200 --> 00:14:22,720
+make for some pretty compelling visual effects, I
+think, but I think the Punisher would make sense as
+
+148
+00:14:22,720 --> 00:14:28,300
+an ally going up against the Mr. Negative crime
+boss. I'm seeing a visual motif with all of these
+
+149
+00:14:28,300 --> 00:14:35,720
+characters. You have Punisher, Black Cat, maybe
+Cloak and Dagger, maybe Mr. Negative. It's all
+
+150
+00:14:35,720 --> 00:14:42,020
+black and white. And maybe even Black Suit
+Spider-Man? I could see the movie posters now.
+
+151
+00:14:42,020 --> 00:14:46,760
+They'd have to introduce the symbiotes though if
+we're going with Black Suit Spider-Man, but who
+
+152
+00:14:46,760 --> 00:14:51,520
+knows? Maybe Venom is in the movie too. At this
+point, I feel like anything's possible, but I
+
+153
+00:14:51,520 --> 00:14:58,300
+gotta assume that the film is taking a much more
+bare bones down to Earth approach to its story.
+
+154
+00:14:58,300 --> 00:15:02,960
+Maybe, maybe, maybe not, especially if there's
+symbiotes involved. That being said, you know,
+
+155
+00:15:02,960 --> 00:15:09,380
+Berndthal's portrayal of Frank Castle the
+Punisher is pretty damn rated R, both in his show
+
+156
+00:15:09,380 --> 00:15:14,100
+and in the Daredevil series. I'm wondering how
+they're going to get away with that in a PG-13
+
+157
+00:15:14,100 --> 00:15:19,000
+Spider-Man movie. Like, what the hell is Peter
+Parker going to do when he straight up sees the
+
+158
+00:15:19,000 --> 00:15:23,120
+Punisher rip a dude's throat out? Eh, it's
+probably going to happen off camera. And then you
+
+159
+00:15:23,120 --> 00:15:28,520
+see Spider-Man puke in his mask or something like
+that. Boom, there you go. Comedy gold. I just
+
+160
+00:15:28,520 --> 00:15:33,040
+remembered that the Punisher first appeared in a
+Spider-Man comic. That's correct. He was a
+
+161
+00:15:33,040 --> 00:15:38,200
+conflicted Spider-Man bad guy who was trying to
+kill him due to his misperception of Spider-Man
+
+162
+00:15:38,200 --> 00:15:42,060
+that he was a murderer at the time. It's really
+interesting news that it'll be interesting to see
+
+163
+00:15:42,060 --> 00:15:47,180
+who else gets added to this Spider-Man forecast,
+especially if they're coming from the Marvel
+
+164
+00:15:47,180 --> 00:15:52,580
+Netflix universe, which is, you know, now part of
+the MCU. But there were a lot of characters there,
+
+165
+00:15:52,580 --> 00:16:01,900
+and that brings us to our question of the week.
+Besides the Punisher and obviously Daredevil,
+
+166
+00:16:01,900 --> 00:16:06,460
+which of the former Marvel Netflix characters
+would you want to see in the next Spider-Man film
+
+167
+00:16:06,460 --> 00:16:12,180
+and why? Now, we're excluding Daredevil here
+because I think everyone will pick him, but if
+
+168
+00:16:12,180 --> 00:16:18,420
+Marvel were to include either Jessica Jones or
+Iron Fist, Luke Cage, Electra, etc., we want to
+
+169
+00:16:18,420 --> 00:16:23,960
+know who you guys would most want to be in this film.
+Recording answer at DynamicsDuel.com by
+
+170
+00:16:23,960 --> 00:16:27,500
+clicking on the red microphone button in the
+bottom right hand corner of the screen, which will
+
+171
+00:16:27,500 --> 00:16:31,860
+prompt you to leave us a voicemail. Your message
+could be up to 30 seconds long, and don't forget to
+
+172
+00:16:31,860 --> 00:16:36,680
+leave your name in case you include you on the
+podcast. We'll pick our favorite answer and award
+
+173
+00:16:36,680 --> 00:16:43,500
+that person a Dynamic Duel No Prize that we'll post
+to Instagram. Be sure to answer before June 28th.
+
+174
+00:16:43,500 --> 00:16:52,000
+Moving on to DC News, we learned last week that DC
+Studios has cast its lead actor in the upcoming
+
+175
+00:16:52,000 --> 00:16:58,540
+Clayface live action film, and it looks like the
+actor Tom Reese-Harris will be playing the
+
+176
+00:16:58,540 --> 00:17:05,339
+titular Batman villain. Now, I have no idea who
+this guy is. I looked at his IMDb. I have not seen a
+
+177
+00:17:05,339 --> 00:17:11,760
+single one of his films. To me, he looks like the
+white Rami Malek, but I'm okay with that because
+
+178
+00:17:11,760 --> 00:17:17,400
+they both kind of have these haunting looks with
+the high cheekbones and sunken eyes. I'm sure the
+
+179
+00:17:17,400 --> 00:17:22,260
+guy is a fantastic actor, considering he's
+British and they tend to play more technical
+
+180
+00:17:22,260 --> 00:17:28,780
+performances, which I think is perfect for
+something like a Clayface film where he's an actor
+
+181
+00:17:28,780 --> 00:17:34,460
+and needs to be able to play different personas, I
+guess you could say. I don't know much about the
+
+182
+00:17:34,460 --> 00:17:39,960
+actor either. I like the way that John Staroski put
+a best on our Discord server regarding the actor's
+
+183
+00:17:39,960 --> 00:17:45,700
+appearance in that he looks like if David Bowie
+fucked a scars guard, and I thought that was pretty
+
+184
+00:17:45,700 --> 00:17:51,660
+apt. Now, the film is going to be directed by James
+Watkins, who also directed the horror film Speak
+
+185
+00:17:51,660 --> 00:17:56,580
+No Evil, and the original screenplay draft was
+written by Mike Flanagan, although apparently
+
+186
+00:17:56,580 --> 00:18:04,460
+the Oscar-nominated writer Hussien Amini has
+done rewrites. It's produced by Matt Reeves, who
+
+187
+00:18:04,460 --> 00:18:10,720
+also produced the Batman Caped Crusader animated
+series, which did a fantastic rendition of
+
+188
+00:18:10,720 --> 00:18:15,760
+Clayface, and I'm really hoping that this film
+takes some of the horror cues from that television
+
+189
+00:18:15,760 --> 00:18:21,960
+series. Yeah, I think we mentioned before on this
+podcast that 2024 had like four or five different
+
+190
+00:18:21,960 --> 00:18:26,760
+renditions of Clayface on different television
+shows and stuff, including Suicide Squad,
+
+191
+00:18:26,760 --> 00:18:33,360
+Isakai, Batman Caped Crusader, Creature
+Commandos, and Harley Quinn. Yes, I just want an
+
+192
+00:18:33,360 --> 00:18:37,860
+amalgam of all those versions rolled into one.
+Yeah, maybe not the Harley Quinn version, but
+
+193
+00:18:37,860 --> 00:18:42,140
+yeah, I love the rest of them. I don't believe
+there's a release date for this yet, but it will
+
+194
+00:18:42,140 --> 00:18:49,600
+start filming fairly soon in the UK. In other DC
+news, we got to our official trailer for Sandman
+
+195
+00:18:49,600 --> 00:18:56,900
+Season 2, which is being released in two parts this
+year. If you listen to our review of Sandman Season
+
+196
+00:18:56,900 --> 00:19:03,900
+1, you'll know that I'm a huge Sandman fan, and I
+loved that first season. Ever since then, I've
+
+197
+00:19:03,900 --> 00:19:11,140
+been stoked for the continuation of that series on
+Netflix. Season 2 will be the final season, but it
+
+198
+00:19:11,140 --> 00:19:15,740
+does look like it's going to wrap up Sandman's
+story nicely. We're going to be moving through a
+
+199
+00:19:15,740 --> 00:19:23,160
+lot of story here, everything from James Return to
+Hell, to him finding his son Orpheus, to his
+
+200
+00:19:23,160 --> 00:19:31,140
+involvement with the Fairy Folk, to ultimately
+the vengeance of Lita Hall and the Furies. It's
+
+201
+00:19:31,140 --> 00:19:37,020
+going to be an epic season, no doubt. Again, one of
+the coolest aspects, I think, of this season in
+
+202
+00:19:37,020 --> 00:19:44,200
+particular, is that we get to see all seven members
+of the Endless, including Destruction, who we
+
+203
+00:19:44,200 --> 00:19:48,580
+missed out on in the teaser trailer for this
+season. Of course, we get Gwendolyn Christie
+
+204
+00:19:48,580 --> 00:19:55,160
+returning to her role as Lucifer. We get to see the
+demon Azazel, who's like this shadowy, morphing
+
+205
+00:19:55,160 --> 00:20:02,080
+creature full of eyes and teeth. We get to see Nada,
+who is James' true love in the series. And we get to
+
+206
+00:20:02,080 --> 00:20:08,680
+see Jack Gleason, the actor who played Prince
+Joffrey, play Puck in the Sandman show, which I
+
+207
+00:20:08,680 --> 00:20:13,600
+think is perfect casting. That is, yeah. I was
+surprised to see King Joffrey. I was like, what the
+
+208
+00:20:13,600 --> 00:20:17,880
+hell is he doing here? He just has such a weird,
+sinister face, but as the character of Puck from
+
+209
+00:20:17,880 --> 00:20:21,860
+Midsummer Night's Dream, yeah, that's
+perfection. Now, the story of Sandman has always
+
+210
+00:20:21,860 --> 00:20:27,640
+spanned centuries, and it looks like we're going
+to see that as well, which is one of the more epic
+
+211
+00:20:27,640 --> 00:20:34,060
+aspects that I love about this story is that it's
+not just confined to one setting, one timeframe,
+
+212
+00:20:34,060 --> 00:20:39,980
+one set of characters. It can really go anywhere,
+and it does. For any of those unfamiliar with the
+
+213
+00:20:39,980 --> 00:20:45,100
+Sandman story, I definitely recommend watching
+season one prior to the release of season two on
+
+214
+00:20:45,100 --> 00:20:51,300
+Netflix. The first part is coming out July 3rd,
+just a couple of weeks here, and volume two is
+
+215
+00:20:51,300 --> 00:20:58,520
+coming out July 24th at the end of the month. I can't
+fucking wait! And I just kind of want to sleep until
+
+216
+00:20:58,520 --> 00:21:04,280
+the show starts. I liked the trailer that much.
+Actually, regarding the newcomer perspective,
+
+217
+00:21:04,280 --> 00:21:08,700
+that's one of the things I thought about while
+watching this trailer was, if someone hasn't
+
+218
+00:21:08,700 --> 00:21:14,200
+watched season one or is completely unfamiliar
+with the Sandman story or universe, I got to wonder
+
+219
+00:21:14,200 --> 00:21:18,660
+what they think about this trailer, because it
+really goes all over the place. You said, you know,
+
+220
+00:21:18,660 --> 00:21:23,840
+the story spans centuries, but it's not a
+straightforward fantasy series in the way that
+
+221
+00:21:23,840 --> 00:21:28,540
+most people think of fantasy series. And I got to
+think that as a newcomer, if this trailer was the
+
+222
+00:21:28,540 --> 00:21:35,000
+first thing I saw, I would be so compelled to watch
+it, because it looks so damn good. So damn good, so
+
+223
+00:21:35,000 --> 00:21:40,440
+damn expensive, still, which I love to see. Yeah,
+the visual effects are on point. The
+
+224
+00:21:40,440 --> 00:21:53,500
+cinematography looks amazing. Yeah, again, wake
+me up when it's July 3rd. But that does it for all of
+
+225
+00:21:53,500 --> 00:21:59,260
+the news for this episode, so now let's go ahead and
+move on to the main event, where we pit the Green
+
+226
+00:21:59,260 --> 00:22:21,120
+Lantern Guy Gardner against the Thor villain,
+Gore the God Butcher. Okay, the Green Lantern Guy
+
+227
+00:22:21,120 --> 00:22:27,940
+Gardner versus Gore the God Butcher. Now, I will be
+totally honest and say that Guy Gardner is not my
+
+228
+00:22:27,940 --> 00:22:33,500
+favorite Green Lantern. In fact, he's probably
+one of my least favorite Green Lanterns. But as I
+
+229
+00:22:33,500 --> 00:22:38,080
+mentioned earlier, he does have a lot of fans out
+there. I feel like a lot of people just have like a
+
+230
+00:22:38,080 --> 00:22:43,600
+love-hate relationship with him, because he's
+kind of a douchebag. But an endearing one in that he
+
+231
+00:22:43,600 --> 00:22:48,300
+frequently gets his ass kicked by Batman, like
+punched in the face. Those one time. And kind of put
+
+232
+00:22:48,300 --> 00:22:56,300
+in his place, you know? He's kind of there to be a
+punching bag for, I think, other heroes in a way. He
+
+233
+00:22:56,300 --> 00:23:04,020
+doesn't really take any guff from anyone except
+when he does. And that's satisfying, I guess. I
+
+234
+00:23:04,020 --> 00:23:10,020
+guess also he does have a lot of heart in that while
+he is kind of a dickbag, he is well-meaning and
+
+235
+00:23:10,020 --> 00:23:16,320
+legitimately heroic. Yes, as you will hear later
+on in my backstory for Guy Gardner, he's
+
+236
+00:23:16,320 --> 00:23:20,600
+definitely very stubborn, doesn't know when to
+give up, and because of that, yes, it does make him
+
+237
+00:23:20,600 --> 00:23:26,240
+very heroic. And he rises to the occasion. I think
+Gore the God Butcher would also see himself as
+
+238
+00:23:26,240 --> 00:23:32,060
+heroic in his campaign against basically all
+deities. We mentioned briefly Gore's inclusion
+
+239
+00:23:32,060 --> 00:23:37,940
+in the Thor 11 Thunder film. There's so much that
+that movie got wrong from his appearance to his
+
+240
+00:23:37,940 --> 00:23:43,700
+powers. What about his origin? His origin is
+incorrect. It's a shame that Marvel itself
+
+241
+00:23:43,700 --> 00:23:48,560
+screwed it up because who knows when we'll get to
+see any more correct adaptation of Gore on the
+
+242
+00:23:48,560 --> 00:23:53,480
+screen. One of the many reasons that I'm still
+pissed off to this day because of that film, and
+
+243
+00:23:53,480 --> 00:23:57,840
+hopefully I could do the character more justice in
+this dual speculation. But to explain the
+
+244
+00:23:57,840 --> 00:24:03,260
+methodology behind our duels, let's go to our
+sentient dual simulator Alfred Jarvis-9000.
+
+245
+00:24:03,260 --> 00:24:08,320
+AJ9K tell our listeners how you go about
+determining a winner in our dual matchups. Yes, of
+
+246
+00:24:08,320 --> 00:24:13,260
+course, sir. The way I determine a winner between
+the contestants is by running 1000 Monte Carlo
+
+247
+00:24:13,260 --> 00:24:18,680
+simulations using the characters statistics. A
+Monte Carlo simulation is a probabilistic model
+
+248
+00:24:18,680 --> 00:24:23,380
+used to determine outcomes through random
+sampling. In this case, I randomize the
+
+249
+00:24:23,380 --> 00:24:28,340
+statistics along a normal distribution as a way to
+simulate the many variables that can occur during
+
+250
+00:24:28,340 --> 00:24:33,280
+battle. The stat parameters are based on the
+official Marvel power grid from which the DC
+
+251
+00:24:33,280 --> 00:24:37,920
+characters statistics are extrapolated.
+Additional stat categories are included such as
+
+252
+00:24:37,920 --> 00:24:43,460
+range, damage potential, versatility and
+perception in order to create a more detailed and
+
+253
+00:24:43,460 --> 00:24:48,820
+accurate simulation. The results of the 1000
+simulations provide a percentage of wins for each
+
+254
+00:24:48,820 --> 00:24:53,380
+character. The contestant with the higher
+percentage is declared the victor as they have a
+
+255
+00:24:53,380 --> 00:24:58,700
+higher probability to win any given battle. In an
+equitable pairing, neither character should win
+
+256
+00:24:58,700 --> 00:25:04,020
+100% of the matches. The comic book stories have
+shown that there's even a way for Batman to defeat
+
+257
+00:25:04,020 --> 00:25:08,500
+Superman, so the confidence rate of my method
+falls in line with the precedents that have been
+
+258
+00:25:08,500 --> 00:25:12,340
+established in the source material. My
+mathematical simulations are without
+
+259
+00:25:12,340 --> 00:25:17,900
+subjectivity or bias. Feats are not the sole
+consideration, nor are fan votes tabulated for
+
+260
+00:25:17,900 --> 00:25:23,180
+determination of the winner. Thanks, AJ9K.
+Before we run the simulations, though, we'd like
+
+261
+00:25:23,180 --> 00:25:27,540
+to break down each character's histories and
+abilities before improvising a scenario on how we
+
+262
+00:25:27,540 --> 00:25:32,880
+imagine one of the 1000 simulations would play out
+beat for beat. And I believe it's my turn to go first
+
+263
+00:25:32,880 --> 00:25:38,940
+with the Marvel characters backstory, so let me
+tell you all about Gore the God Butcher. Gore was
+
+264
+00:25:38,940 --> 00:25:45,160
+born with a crippled leg on an unnamed desert world
+whose twin sons scorched the ground and whose
+
+265
+00:25:45,160 --> 00:25:50,980
+knights were stalked by leathery predators. His
+tribe taught that droughts, quakes, and famine
+
+266
+00:25:50,980 --> 00:25:57,120
+were divine tests and that prayer and sacrifice
+would bring relief, yet no deliverance came. His
+
+267
+00:25:57,120 --> 00:26:02,620
+father died of sun fever, his mother was taken by
+beasts, and every one of his children was claimed
+
+268
+00:26:02,620 --> 00:26:09,220
+by starvation or tremors. A violent quake crushed
+his pregnant mate, Ara, leaving only their son,
+
+269
+00:26:09,220 --> 00:26:15,600
+Agar. When famine finally seized the boy during a
+desperate march toward a rumored fertile land,
+
+270
+00:26:15,600 --> 00:26:21,180
+Gore buried the child, a forbidden act according
+to his tribe, and renounced the gods. For
+
+271
+00:26:21,180 --> 00:26:27,360
+blasphemy, his people stoned him and left him to
+die in the wasteland. Alone and dehydrated, Gore
+
+272
+00:26:27,360 --> 00:26:34,680
+saw two armored figures streak across the sky and
+crash nearby. One shone gold, the other was a
+
+273
+00:26:34,680 --> 00:26:40,320
+living shadow wielding a black shifting sword.
+The shadow was Null, an ancient evil you could
+
+274
+00:26:40,320 --> 00:26:44,820
+learn more about in his duel against White
+Lantern. Null's weapon, all black, the Necro
+
+275
+00:26:44,820 --> 00:26:50,720
+Sword, was the first symbiote that the deity had
+created, a thinking mass of liquid darkness that
+
+276
+00:26:50,720 --> 00:26:57,460
+bonds with hosts and feeds on rage. The gold god
+begged Gore for help, but in realizing gods were
+
+277
+00:26:57,460 --> 00:27:04,460
+real and had ignored his family, Gore's sorrow
+became fury. The Necro Sword slipped from Null,
+
+278
+00:27:04,460 --> 00:27:10,200
+wrapped around Gore's arm, and hardened into a
+spear. With it, Gore slew the gold god, felt the
+
+279
+00:27:10,200 --> 00:27:15,580
+symbiote's darkness join with him, and swore to
+butcher every deity in existence. While Null
+
+280
+00:27:15,580 --> 00:27:20,460
+could have pursued his weapon, he instead allowed
+Gore to wield the all black, recognizing the
+
+281
+00:27:20,460 --> 00:27:25,660
+mortal's vengeful heart as a mirror of his own
+hatred for the light. All black granted Gore
+
+282
+00:27:25,660 --> 00:27:30,740
+flight, super strength, and rapid healing. He
+could mold the symbiote into armor or weapons at
+
+283
+00:27:30,740 --> 00:27:36,360
+will. He also shaped black berserkers, large
+shadow creatures that obeyed him. For thousands
+
+284
+00:27:36,360 --> 00:27:42,240
+of years, Gore traveled from world to world,
+murdering gods of war, harvest, song, and even
+
+285
+00:27:42,240 --> 00:27:47,460
+flowers. Convinced the universe would be kinder
+without beings who demanded worship while
+
+286
+00:27:47,460 --> 00:27:53,560
+allowing suffering. During the Viking Age, Gore
+reached Earth. Thor Odinson, then a brash young
+
+287
+00:27:53,560 --> 00:27:58,960
+god of thunder, found a dead North American deity
+on an Icelandic beach and tracked the killer to
+
+288
+00:27:58,960 --> 00:28:06,870
+Russia, where the sl- Gorr ambushed Thor, chained
+him inside a cave, and tortured him for 17 days,
+
+289
+00:28:06,870 --> 00:28:12,150
+demanding that Thor reveal the path to Asgard. A
+band of vikings stormed the cave, distracting
+
+290
+00:28:12,150 --> 00:28:17,570
+Gorr long enough for Thor to sever his arm with his
+own axe, yarn-borne, and strike Gorr with
+
+291
+00:28:17,570 --> 00:28:22,850
+lightning. Gorr survived and fled, determined
+never to be weak again. You can learn more about
+
+292
+00:28:22,850 --> 00:28:28,670
+Thor in his duel against Wonder Woman. Seeking
+greater power, Gorr attacked Kronix, a palace
+
+293
+00:28:28,670 --> 00:28:34,530
+guarded by the Time Gods. After killing its
+defenders, he entered their pool of raw time to
+
+294
+00:28:34,530 --> 00:28:40,590
+travel through history. At the dawn of creation,
+he slew one of the first Elder Gods and ripped out
+
+295
+00:28:40,590 --> 00:28:46,770
+its glowing heart. Far in a future timeline, he
+captured gods from every pantheon he could reach.
+
+296
+00:28:46,770 --> 00:28:54,050
+Only an elderly King Thor, last ruler of Asgard,
+remained free, caged yet unbroken. Gorr forced
+
+297
+00:28:54,050 --> 00:29:00,210
+his prisoners to mine star cores in order to build
+the God Bomb, a device that would wipe out every god
+
+298
+00:29:00,210 --> 00:29:06,030
+in every era through time. Back in the present,
+Thor noticed prayers going unanswered and
+
+299
+00:29:06,030 --> 00:29:11,630
+followed the trail to Gorr's fortress, where he
+was caught and chained beside his older self.
+
+300
+00:29:11,630 --> 00:29:17,010
+Black berserkers then seized the Viking Age Thor
+so the butcher could parade three versions of the
+
+301
+00:29:17,010 --> 00:29:23,190
+same deity before his ultimate victory. The Thors
+escaped and hurled a fragment of a star at the God
+
+302
+00:29:23,190 --> 00:29:28,890
+Bomb, but Gorr survived. To supercharge all
+black, he ordered his berserkers to slaughter his
+
+303
+00:29:28,890 --> 00:29:35,030
+enslaved gods, feeding their energy to the sword
+and making himself unstoppable. Gorr used all
+
+304
+00:29:35,030 --> 00:29:41,030
+black to create copies of his former wife and kid,
+Ara and Agar, for company. When the Ara construct
+
+305
+00:29:41,030 --> 00:29:47,770
+called him, my god, he vaporized her in rage. The
+Agar construct horrified, freed Thor the
+
+306
+00:29:47,770 --> 00:29:53,570
+Avenger, and begged him to stop his father. Gorr
+hurled the young Thor into space, activated the
+
+307
+00:29:53,570 --> 00:29:59,530
+God Bomb, and waited for Divinity to die. As the
+Bomb detonated, the surviving gods of every
+
+308
+00:29:59,530 --> 00:30:05,310
+timeline prayed in unison. Their faith flooded
+Thor the Avenger, and wielding both his own hammer
+
+309
+00:30:05,310 --> 00:30:10,750
+Mjolnir and King Thor's future Mjolnir, he
+battled the butcher across a dying moon. The
+
+310
+00:30:10,750 --> 00:30:17,750
+youngest Thor struck the final blow, beheading
+Gorr and ending a 3000 year crusade. Though dead,
+
+311
+00:30:17,750 --> 00:30:23,430
+the all black sword, carrying a copy of Gorr's
+mind, endured. Years later, the spy Nick Fury
+
+312
+00:30:23,430 --> 00:30:29,350
+whispered a secret in Thor's ear learned from
+their murdered watcher Uatu, telling Thor, Gorr
+
+313
+00:30:29,350 --> 00:30:34,370
+was right. You can learn more about the watcher in
+his duel against the Monitor. Doubt washed over
+
+314
+00:30:34,370 --> 00:30:40,230
+Thor so much so that he became unworthy to lift
+Mjolnir. During a war between the Norse realms,
+
+315
+00:30:40,230 --> 00:30:45,450
+the Dark Elf Malachith bonded with the blade and
+called himself the Butcher of Thors until Thor
+
+316
+00:30:45,450 --> 00:30:50,490
+defeated him. You can learn more about Malachith
+in his duel against Eclipso. Far in the future,
+
+317
+00:30:50,490 --> 00:30:57,010
+millions of years later, King Loki merged with all
+black and rebuilt Gorr's body from living shadow,
+
+318
+00:30:57,010 --> 00:31:01,830
+setting him against an immortal all father Thor.
+You can learn more about Loki in his duel against
+
+319
+00:31:01,830 --> 00:31:07,790
+Ares. Gorr crucified Loki and Thor on spires of
+darkness and tried to spread the sword's darkness
+
+320
+00:31:07,790 --> 00:31:14,530
+across every star. Thor's granddaughters, Atle,
+Elisive, and Frig, freed their grandfather and
+
+321
+00:31:14,530 --> 00:31:21,010
+rallied gods saved long ago by Thor. Atle severed
+Gorr's head, but it was only a shell. All black's
+
+322
+00:31:21,010 --> 00:31:27,390
+darkness had woven itself into the very fabric of
+space. Loki stalled Gorr by reciting every heroic
+
+323
+00:31:27,390 --> 00:31:33,310
+deed Thor had ever performed. The endless tale
+bought time for Thor to release the god Tempest, a
+
+324
+00:31:33,310 --> 00:31:39,770
+cosmic storm trapped inside Mjolnir. The Tempest
+shredded all black. Stripped of power, amnesiac
+
+325
+00:31:39,770 --> 00:31:45,930
+and raving, Gorr was left mortal. The Sky Lords of
+Indigar, the same planet whose rescued gods had
+
+326
+00:31:45,930 --> 00:31:52,590
+once prayed for Thor, took Goren to live as a simple
+farmer. Yet the Necro Swords residue had replaced
+
+327
+00:31:52,590 --> 00:31:59,450
+Gorr's heart. Memories crept back in and with them
+his hatred, restoring him in the present day.
+
+328
+00:31:59,450 --> 00:32:04,610
+Fixating on Jean Grey, newly reborn as the
+Phoenix, Gorr ambushed and killed her on the
+
+329
+00:32:04,610 --> 00:32:10,450
+barren planet Dogar. The Phoenix resurrected her
+instantly, overwhelmed Gorr and ignited and
+
+330
+00:32:10,450 --> 00:32:16,890
+collapsed his dark heart, transforming it into a
+newborn star so that at last, Gorr would give life
+
+331
+00:32:16,890 --> 00:32:22,350
+instead of taking it. You can learn more about the
+Phoenix in her duel against Raven. And that's Gorr
+
+332
+00:32:22,350 --> 00:32:28,210
+the God Butcher's history. Powers-wise, Gorr is a
+mortal alien whose heart was replaced with the
+
+333
+00:32:28,210 --> 00:32:33,170
+darkness of all black, the Necro Sword, a
+primordial weapon composed of living abyss,
+
+334
+00:32:33,170 --> 00:32:38,570
+forged by the primordial entity Null using
+celestial energy. Though the Necro Sword was
+
+335
+00:32:38,570 --> 00:32:44,310
+returned to Null's hands, Gorr can still use the
+portion of living abyss that is now part of him. He
+
+336
+00:32:44,310 --> 00:32:49,610
+can shape this darkness to his will to form
+constructs such as weapons like spears or a sword,
+
+337
+00:32:49,610 --> 00:32:56,030
+which is its preferred form. Gorr often uses it to
+form a cloak that can create armor or wings or even
+
+338
+00:32:56,030 --> 00:33:01,330
+semi-sentient wolf lizard insectoid
+hybrid-like creatures called black berserkers.
+
+339
+00:33:01,330 --> 00:33:06,690
+The living abyss grant Gorr strength enough to
+lift over 100 tons in vulnerability, increased
+
+340
+00:33:06,690 --> 00:33:12,110
+speed, regenerative healing, and immortality.
+Having lived for millennia, waging combat
+
+341
+00:33:12,110 --> 00:33:18,310
+against deities, he has become an adept
+combatant. And that's Gorr. Gotcha. So you know,
+
+342
+00:33:18,310 --> 00:33:23,130
+like if it takes three different thorns to defeat
+Gorr the God Butcher, Guy Gardner has his fucking
+
+343
+00:33:23,130 --> 00:33:28,270
+work cut out for him, doesn't he? I mean, not
+really. One Green Lantern can easily take on three
+
+344
+00:33:28,270 --> 00:33:34,070
+thorns. What? Yeah, you heard me. I could have less
+respect for you than I do right now. Just want to let
+
+345
+00:33:34,070 --> 00:33:40,810
+you know. I am okay with that. I'll get it back when I
+win the duel, you know? Let me tell you about Green
+
+346
+00:33:40,810 --> 00:33:46,410
+Lantern Guy Gardner. Now Guy Gardner was born in
+Baltimore, Maryland to a turbulent household
+
+347
+00:33:46,410 --> 00:33:52,810
+dominated by his abusive alcoholic father.
+Frequently compared unfavorably to his older
+
+348
+00:33:52,810 --> 00:33:58,330
+brother, Mace, Guy developed a tough and
+combative personality to shield himself from
+
+349
+00:33:58,330 --> 00:34:03,490
+constant ridicule and physical abuse. Despite
+the toxic home environment, he showed potential
+
+350
+00:34:03,490 --> 00:34:09,310
+both intellectually and athletically earning a
+scholarship to the University of Michigan. There
+
+351
+00:34:09,310 --> 00:34:15,770
+he studied education and psychology and played
+football until a career ending knee injury forced
+
+352
+00:34:15,770 --> 00:34:22,510
+him to refocus on academics. He eventually became
+a social worker and later a teacher working with
+
+353
+00:34:22,510 --> 00:34:28,790
+troubled youth, driven by a desire to help those in
+need escape the kind of upbringing he endured.
+
+354
+00:34:28,790 --> 00:34:35,250
+Unbeknownst to him, Guy possessed the qualities
+necessary to become a Green Lantern, willpower,
+
+355
+00:34:35,250 --> 00:34:42,409
+courage, and a strong sense of justice. When the
+Green Lantern of sector 2814, Abin Sewer, crashed
+
+356
+00:34:42,409 --> 00:34:50,210
+on earth and lay dying, his ring identified two
+worthy successors, Hal Jordan and Guy Gardner.
+
+357
+00:34:50,210 --> 00:34:55,750
+Jordan, being closer, was chosen. Gardner became
+the backup Green Lantern, though he only learned
+
+358
+00:34:55,750 --> 00:35:00,450
+of this years later when the Guardians of the
+Universe, the creators of the Green Lanterns,
+
+359
+00:35:00,450 --> 00:35:06,110
+informed him directly in an admission that
+wounded his pride and fueled his lifelong rivalry
+
+360
+00:35:06,110 --> 00:35:12,890
+with Hal Jordan. You can learn more about how NRI
+Green Lantern versus Nova dual episode. After
+
+361
+00:35:12,890 --> 00:35:18,290
+learning of his alternate selection, Guy trained
+to serve as Hal's substitute in the event of his
+
+362
+00:35:18,290 --> 00:35:24,330
+incapacitation. He eventually received his own
+Green Lantern ring and joined the Corps. Though
+
+363
+00:35:24,330 --> 00:35:29,230
+his attitude and temperament often clashed with
+the more disciplined members, his effectiveness
+
+364
+00:35:29,230 --> 00:35:35,010
+in battle earned him a reluctant respect.
+Initially assigned as Hal's backup, Guy took on
+
+365
+00:35:35,010 --> 00:35:40,710
+more responsibility following Hal's frequent
+off-world duties. His first major outing came
+
+366
+00:35:40,710 --> 00:35:45,950
+when Hal was captured by Sinestro and taken to the
+Anti-Matter Universe of Corde. The Guardians
+
+367
+00:35:45,950 --> 00:35:51,550
+activated Guy's ring and directed him to rescue
+Hal, but he was intercepted and captured by
+
+368
+00:35:51,550 --> 00:35:57,550
+Sinestro's forces. Subjected to mental torture,
+Guy was presumed dead when the Guardians lost
+
+369
+00:35:57,550 --> 00:36:02,410
+contact with him. Eventually rescued and
+returned to earth, Guy suffered severe
+
+370
+00:36:02,410 --> 00:36:08,510
+psychological trauma and was placed in a comatose
+state. He remained that way for several years
+
+371
+00:36:08,510 --> 00:36:13,710
+until the crisis on Infinite Earth's event when
+the Guardians reactivated him as one of Earth's
+
+372
+00:36:13,710 --> 00:36:19,650
+Green Lanterns. Though he awoke, the mental
+damage had altered his personality. He emerged
+
+373
+00:36:19,650 --> 00:36:26,250
+more arrogant, aggressive, and unpredictable.
+The change was partially due to brain damage,
+
+374
+00:36:26,250 --> 00:36:31,650
+which affected his emotional regulation and
+heightened his volatility, making him a wild card
+
+375
+00:36:31,650 --> 00:36:37,570
+among the Corps. When the Guardians later decided
+to leave the Universe and choose successors, Guy
+
+376
+00:36:37,570 --> 00:36:42,950
+was given a ring and declared the official Green
+Lantern of Earth. However, his bombastic
+
+377
+00:36:42,950 --> 00:36:48,250
+demeanor and combative style often put him at odds
+with his peers, especially Hal Jordan, John
+
+378
+00:36:48,250 --> 00:36:53,650
+Stewart, and Batman. He joined the newly reformed
+Justice League International, a more
+
+379
+00:36:53,650 --> 00:36:59,330
+politically driven version of the League, where
+his brash personality acted as a constant source
+
+380
+00:36:59,330 --> 00:37:05,150
+of tension. Despite this, he became a core member
+of the team and formed a unique rapport with heroes
+
+381
+00:37:05,150 --> 00:37:10,790
+like Booster Gold and Blue Beetle. You can learn
+more about the Justice League in our team duel,
+
+382
+00:37:10,790 --> 00:37:16,230
+Justice League vs. Avengers. His time with the
+League included several humiliations, most
+
+383
+00:37:16,230 --> 00:37:21,510
+famously being knocked out by a single punch from
+Batman, but also triumphs, including
+
+384
+00:37:21,510 --> 00:37:26,610
+commissions to apocalypse, battles against
+despair and defending Earth from alien
+
+385
+00:37:26,610 --> 00:37:32,870
+invasions. His overconfidence and crude sense of
+humor masked a deep need for validation and a
+
+386
+00:37:32,870 --> 00:37:38,890
+fierce loyalty to his team. After Hal's
+transformation into parallax, Guy lost his ring
+
+387
+00:37:38,890 --> 00:37:44,090
+during the destruction of the central power
+battery. Refusing to stand idle, he saw
+
+388
+00:37:44,090 --> 00:37:50,830
+alternative means to remain a hero. He embarked on
+a quest to acquire Sinestro's yellow power ring,
+
+389
+00:37:50,830 --> 00:37:56,070
+and when he was successful, he used it to continue
+fighting crime, though the ring proved unstable
+
+390
+00:37:56,070 --> 00:38:02,930
+and more difficult to control. Seeking greater
+power, Guy ventured into the alien realm of Kord
+
+391
+00:38:02,930 --> 00:38:09,750
+and later tapped into a mysterious inner energy
+linked to his DNA. This transformation turned him
+
+392
+00:38:09,750 --> 00:38:17,190
+into Warrior, a being capable of morphing his body
+into weapons and armor. The source of his power was
+
+393
+00:38:17,190 --> 00:38:23,050
+revealed to be his descent from an alien race
+called the Vuldarians. Biologically engineered
+
+394
+00:38:23,050 --> 00:38:28,830
+shapeshifting warriors bred for combat.
+Embracing his new identity, Guy became the
+
+395
+00:38:28,830 --> 00:38:36,290
+proprietor of a bar for heroes called Warriors.
+Eventually his Vuldarian powers faded and Guy
+
+396
+00:38:36,290 --> 00:38:42,170
+returned to using the green lantern ring when the
+core was restored. He served as a senior lantern
+
+397
+00:38:42,170 --> 00:38:48,130
+alongside Kyle Rainer, John Stewart and Hel
+Jordan, operating out of Oa and protecting sector
+
+398
+00:38:48,130 --> 00:38:54,950
+2814. He also worked closely with the Honor Guard,
+the elite leadership force of the core, and
+
+399
+00:38:54,950 --> 00:39:00,330
+participated in campaigns during the Rand
+Thanagar war and the Sinestro core war, where he
+
+400
+00:39:00,330 --> 00:39:05,610
+fought valiantly against yellow lanterns and
+other cosmic threats. In the post-flashpoint
+
+401
+00:39:05,610 --> 00:39:11,770
+timeline, Guy Gardner remained a green lantern
+and continued to be depicted as one prone to acting
+
+402
+00:39:11,770 --> 00:39:17,710
+before thinking, but with unwavering courage and
+a strong moral compass. He served with
+
+403
+00:39:17,710 --> 00:39:22,870
+distinction in the green lantern core and took
+part in major battles, including defending Oa
+
+404
+00:39:22,870 --> 00:39:28,510
+from the invading red lantern core. During this
+campaign, he was briefly possessed by a red
+
+405
+00:39:28,510 --> 00:39:34,970
+lantern ring drawn to the deep well of rage within
+him. The experience left a lasting impression.
+
+406
+00:39:34,970 --> 00:39:40,130
+When Atrocidus, the founder of the red lanterns,
+launched a new assault on earth, Guy volunteered
+
+407
+00:39:40,130 --> 00:39:46,010
+to infiltrate the red lantern core as a double
+agent. You could learn more about red lanterns in
+
+408
+00:39:46,010 --> 00:39:52,610
+our Atrocidus vs Juggernaut dual episode. The
+power of the red ring proved to be too seductive,
+
+409
+00:39:52,610 --> 00:39:58,510
+and Guy's infiltration turned into a reluctant
+allegiance. Eventually, he embraced the
+
+410
+00:39:58,510 --> 00:40:04,210
+identity of a red lantern fully and became their
+field leader, bearing their crimson sigil and
+
+411
+00:40:04,210 --> 00:40:09,210
+maintaining order among the volatile ranks.
+Under Guy's leadership, the red lanterns
+
+412
+00:40:09,210 --> 00:40:14,190
+transformed from a brutal militia into a more
+structured force focused on dispensing
+
+413
+00:40:14,190 --> 00:40:19,290
+vengeance and protecting the oppressed. He
+developed a complex but mutual respect with
+
+414
+00:40:19,290 --> 00:40:25,670
+Atrocidus' rival, Gules, and established a red
+lantern base of operations on earth, though he
+
+415
+00:40:25,670 --> 00:40:30,530
+struggled with controlling his rage-fueled
+powers. After several adventures including
+
+416
+00:40:30,530 --> 00:40:36,210
+cosmic conflicts and battles against shadowy
+manipulators like the Shadow Thief and the Shadow
+
+417
+00:40:36,210 --> 00:40:42,190
+Market, Guy relinquished his red ring and
+returned to the green lantern core. He served on
+
+418
+00:40:42,190 --> 00:40:48,110
+Mojo, the sentient planet that for a time acted as
+the core's HQ, helping train new recruits and
+
+419
+00:40:48,110 --> 00:40:53,290
+operating as a senior lantern within the honor
+guard. When the green lantern core was merged with
+
+420
+00:40:53,290 --> 00:40:58,690
+the Sinestro core during a fragile alliance
+brokered by Hal Jordan and Saurinik Natu, a yellow
+
+421
+00:40:58,690 --> 00:41:04,890
+lantern, Guy was among the few green lanterns who
+attempted to make peace with the yellow lanterns.
+
+422
+00:41:04,890 --> 00:41:10,210
+His unlikely friendship with the reformed
+Arquillo, a hulking brute and enforcer from the
+
+423
+00:41:10,210 --> 00:41:15,610
+Sinestro core, who's often compared to Kilowag,
+became a standout moment during this period as the
+
+424
+00:41:15,610 --> 00:41:20,910
+two warriors bonded over their mutual love of
+brawling and begrudging respect for one
+
+425
+00:41:20,910 --> 00:41:26,210
+another's strength. That's Guy Gardner's
+backstory. Powers-wise, Guy Gardner wields a
+
+426
+00:41:26,210 --> 00:41:31,910
+green lantern power ring fueled by willpower,
+granting him the ability to generate solid, light
+
+427
+00:41:31,910 --> 00:41:37,970
+constructs, fly, generate force fields, and
+survive in space. His constructs often reflect
+
+428
+00:41:37,970 --> 00:41:43,970
+his brash personality, manifesting as blunt
+force weapons like fists, bats, and hammers. For a
+
+429
+00:41:43,970 --> 00:41:49,810
+time, his Vulderian DNA allowed him to shape shift
+parts of his body into weapons and armor, giving
+
+430
+00:41:49,810 --> 00:41:55,670
+him enhanced strength and durability. Even
+without powers, Guy is a trained hand-to-hand
+
+431
+00:41:55,670 --> 00:42:00,890
+fighter. Wait, so does he have his Vulderian
+powers or does he not? Technically, he still has
+
+432
+00:42:00,890 --> 00:42:08,270
+his Vulderian DNA, though he hasn't used it since
+like the early 2000s. What you said he has the DNA
+
+433
+00:42:08,270 --> 00:42:14,330
+but that his powers like disappeared over time. It
+was during the green lantern rebirth storyline
+
+434
+00:42:14,330 --> 00:42:19,510
+where like he went through like this tremendous
+amount of pain where it seemed like his DNA was
+
+435
+00:42:19,510 --> 00:42:25,130
+rejecting his body or something like that, but
+that was all quelled once a green lantern ring flew
+
+436
+00:42:25,130 --> 00:42:31,530
+onto his finger and he emerged once again as a green
+lantern. So it didn't leave his body, it's still
+
+437
+00:42:31,530 --> 00:42:37,770
+there. Again, he just hasn't made use of it. And
+will he have a red ring in this match or just the
+
+438
+00:42:37,770 --> 00:42:43,470
+green? I'm going with his traditional green ring,
+although I loved the fact that he was a red lantern
+
+439
+00:42:43,470 --> 00:42:48,450
+for a time. I thought he made a fantastic red
+lantern. I thought a red lantern ring couldn't be
+
+440
+00:42:48,450 --> 00:42:53,410
+removed from a red lantern without killing them.
+There have been a few instances where they've been
+
+441
+00:42:53,410 --> 00:42:58,770
+able to circumvent that, particularly when
+there's a, I think it's a blue lantern is present.
+
+442
+00:42:58,770 --> 00:43:02,550
+Interesting. Okay. Okay. I don't know why I'm
+asking so many questions because I don't care
+
+443
+00:43:02,550 --> 00:43:14,710
+because this dude's going down. Oh, we'll see. In a
+world where fantasies collide and heroes clash,
+
+444
+00:43:14,710 --> 00:43:20,270
+one podcast network rises above the rest. Prepare
+yourself for the ultimate showdowns in comic
+
+445
+00:43:20,270 --> 00:43:26,270
+books, video games, movies, and anime. The
+Dynamite Podcast Network presents Console
+
+446
+00:43:26,270 --> 00:43:32,290
+Combat, where video game legends brawl every
+Monday. Dynamic Duel, where comic book titans
+
+447
+00:43:32,290 --> 00:43:38,830
+smash every Tuesday. Max Destruction, where TV
+and action heroes battle every Wednesday. And
+
+448
+00:43:38,830 --> 00:43:44,990
+Sendro World, where anime champions clash every
+Thursday. Join us as we speculate on the matches
+
+449
+00:43:44,990 --> 00:43:49,490
+and armed with the power of mathematical
+simulations, discover who will emerge
+
+450
+00:43:49,490 --> 00:43:59,650
+victorious. Visit dynamicpodcast.com, where we
+settle the debate and settle the score. Now that
+
+451
+00:43:59,650 --> 00:44:03,810
+we've got their histories and abilities out of the
+way, let's speculate on how one of the 1000
+
+452
+00:44:03,810 --> 00:44:09,470
+simulated matches will go. The winner is
+determined by simulations, not the speculation,
+
+453
+00:44:09,470 --> 00:44:15,470
+but it's fun to imagine how the fight could play
+out. AJ9K, what are the rules of our speculation?
+
+454
+00:44:15,470 --> 00:44:20,230
+Well, I should say there are no rules other than the
+characters have no prior knowledge of the other
+
+455
+00:44:20,230 --> 00:44:24,990
+going into the fight. All they are aware of
+starting out is that the other character is a
+
+456
+00:44:24,990 --> 00:44:29,330
+threat that needs to be eliminated. For the
+speculation, the contestants will begin
+
+457
+00:44:29,330 --> 00:44:34,730
+approximately 50 meters apart in a nondescript
+environment that will have no bearing on the match
+
+458
+00:44:34,730 --> 00:44:39,650
+itself, as no environmental statistics are
+considered in my simulations. The contestants
+
+459
+00:44:39,650 --> 00:44:45,130
+must earn victory on their own merit. Alright,
+then let's get into it. Green Lantern and Gore the
+
+460
+00:44:45,130 --> 00:44:51,830
+God Butcher meet on the battlefield. Who goes
+first? I'm actually gonna say Guy starts off, and
+
+461
+00:44:51,830 --> 00:44:59,290
+he's gonna do so by undoing his belt buckle,
+pulling down his pants. Moaning, Gore, while
+
+462
+00:44:59,290 --> 00:45:06,610
+giving him the middle finger. Gore is unamused.
+Oh, but Guy is, so. Well, this amusement is gonna
+
+463
+00:45:06,610 --> 00:45:12,550
+turn into pure shock when all of a sudden he finds a
+dark tendril up his pooper. But that's exactly
+
+464
+00:45:12,550 --> 00:45:19,930
+what Guy wanted to happen, because while Gore was
+distracted by Guy's ass, Guy's gonna generate a
+
+465
+00:45:19,930 --> 00:45:26,250
+pit bull behind Gore that's gonna chomp down on his
+ankle, while Guy, meanwhile, is gonna block that
+
+466
+00:45:26,250 --> 00:45:31,930
+black tendril with the green toilet that flushes
+that tendril and that's plumbing just redirects
+
+467
+00:45:31,930 --> 00:45:39,690
+it right into the ground. Alright, I'm gonna say
+first of all, Gore was not distracted by Guy's ass.
+
+468
+00:45:39,690 --> 00:45:45,550
+Sure, I will say that he does take a second to
+straight up murder the pit bull construct. Oh,
+
+469
+00:45:45,550 --> 00:45:50,910
+shit. He's using his necrosaur to cleave it in half
+from its jaws. Then Gore creates his own
+
+470
+00:45:50,910 --> 00:45:57,090
+creatures, a pair of black berserkers that chase
+down Guy like a couple of rabid wolves that just
+
+471
+00:45:57,090 --> 00:46:03,110
+devour him alive. Okay, but I'm gonna say that
+these creatures are gonna be blocked by a row of
+
+472
+00:46:03,110 --> 00:46:10,310
+giant sized football defensive linemen, and from
+behind them, Guy's gonna generate a football and
+
+473
+00:46:10,310 --> 00:46:17,110
+hurl it straight towards Gore with perfect aim,
+and it's gonna explode upon contact because it was
+
+474
+00:46:17,110 --> 00:46:23,110
+actually a bomb. And that's gonna send Gore flying
+backward while Guy does a touchdown dance. A
+
+475
+00:46:23,110 --> 00:46:29,830
+football bomb? Sure. Sure. Yeah, sure. I'm not
+sure what kind of football explosion would
+
+476
+00:46:29,830 --> 00:46:36,890
+actually even hurt Gore, but I know that he's
+already fucking had it with Guy's shenanigans. So
+
+477
+00:46:36,890 --> 00:46:44,170
+Gore instantly recovers from this football bomb
+and blitzes Guy sword first with enough force to
+
+478
+00:46:44,170 --> 00:46:48,870
+cut through a freaking sun. And he straight up
+flies through any sort of defensive constructs
+
+479
+00:46:48,870 --> 00:46:53,930
+that Guy creates to protect himself, and Gore
+slices right through Guy himself like a dark
+
+480
+00:46:53,930 --> 00:47:00,010
+bullet train. Oh no, Guy doesn't generate
+anything to block this attack. Instead, he's
+
+481
+00:47:00,010 --> 00:47:06,990
+gonna hold up a green cape that hides his body, and
+as Gore slices through it, Guy dodges to the side
+
+482
+00:47:06,990 --> 00:47:14,130
+like a matador, shouting, Toro! And Gore's gonna
+fly right past him. But Guy, he's immediately
+
+483
+00:47:14,130 --> 00:47:21,910
+gonna hurl a lasso after him, catching Gore by the
+ankles before proceeding to quickly hog tie him,
+
+484
+00:47:21,910 --> 00:47:29,350
+all while wearing a cowboy hat and bandana by the
+way. Guy is annoying. But do you think that Gore is
+
+485
+00:47:29,350 --> 00:47:36,330
+just limited to his arms and legs? Even if Guy
+manages to restrain Gore's limbs, Gore is just
+
+486
+00:47:36,330 --> 00:47:42,210
+gonna create a dozen more of them out of living
+abyss. And all these extra limbs, they're like
+
+487
+00:47:42,210 --> 00:47:48,030
+scorpion tails, and they each simultaneously
+reach out and impale Guy from all directions on
+
+488
+00:47:48,030 --> 00:47:53,890
+their stingers. Actually, two of them form blades
+that free Gore from his bindings, but the rest of
+
+489
+00:47:53,890 --> 00:48:01,450
+them impale Guy. They like stab through him with
+long stingers? Yeah. Okay, so Guy probably falls
+
+490
+00:48:01,450 --> 00:48:08,390
+to his knees, but before he can get stabbed again,
+he's gonna generate a dozen chainsaws that are
+
+491
+00:48:08,390 --> 00:48:14,450
+gonna sever the scorpion tails. And just as Gore
+frees himself from the lasso while Guy is still on
+
+492
+00:48:14,450 --> 00:48:20,970
+his knees, a giant green fist with brass knuckles
+is gonna plow into Gore. Wait, wait, Guy should be
+
+493
+00:48:20,970 --> 00:48:26,930
+dead from getting impaled a dozen times. Well,
+actually Guy has like weird organs due to his
+
+494
+00:48:26,930 --> 00:48:33,390
+Vulderian DNA, like he has two hearts, and he could
+also heal rapidly because of his shapeshifting
+
+495
+00:48:33,390 --> 00:48:40,090
+nature. So yeah, he's hurt, but he'll be fine.
+That's so weird. But you know what, it doesn't
+
+496
+00:48:40,090 --> 00:48:46,570
+matter because even if Gore gets punched by this
+fist construct, the stingers that Gore stabbed
+
+497
+00:48:46,570 --> 00:48:52,270
+into Guy Gardener, they left this dark residue
+within Guy's body. So it doesn't matter what the
+
+498
+00:48:52,270 --> 00:48:57,570
+hell Guy's organs look like on the inside, because
+it's all just infested with shadowy maggots that
+
+499
+00:48:57,570 --> 00:49:04,070
+feast on his body in just like a matter of seconds.
+And it looks like Guy gets covered in darkness, but
+
+500
+00:49:04,070 --> 00:49:09,470
+then he just dissolves into nothing. Well, again,
+you know, Guy's Vulderian shapeshifting body
+
+501
+00:49:09,470 --> 00:49:17,050
+will just shift those maggots into a Gatling gun
+that he transforms his other arm into that's not
+
+502
+00:49:17,050 --> 00:49:24,010
+armed with a ring, and he's going to fire those
+maggots right back at Gore, which I don't know,
+
+503
+00:49:24,010 --> 00:49:28,130
+probably isn't gonna hurt him. Yeah, Gore would
+just absorb them into the rest of his living
+
+504
+00:49:28,130 --> 00:49:33,190
+darkness. But once the maggots are done, he's
+gonna transform his Gatling gun into a grenade
+
+505
+00:49:33,190 --> 00:49:39,670
+launcher, and he's gonna launch a nuclear level
+implosive grenade that's just gonna leave Gore a
+
+506
+00:49:39,670 --> 00:49:45,270
+dark stain on the ground. What the fuck is an
+implosive nuclear grenade? I guess the technical
+
+507
+00:49:45,270 --> 00:49:52,050
+term would be a Vulderian Fragmite bomb? I don't
+know, it has like the destructive force of a nuke,
+
+508
+00:49:52,050 --> 00:50:00,490
+but it sucks things up like a mini black hole. It's
+from the comics. Okay. Well, Gore blocks the bomb
+
+509
+00:50:00,490 --> 00:50:06,950
+with his cloak, so that when it goes off, when it
+implodes, it just pulls in all of the living abyss,
+
+510
+00:50:06,950 --> 00:50:13,950
+like all of that gets sucked into the implosion.
+But Gore himself is still left standing. And Guy,
+
+511
+00:50:13,950 --> 00:50:18,290
+in all of his cockiness, you know, he didn't
+anticipate this. So as the living darkness
+
+512
+00:50:18,290 --> 00:50:24,210
+dissipates from the bomb, Guy is not paying
+attention. He's assuming Gore was imploded to,
+
+513
+00:50:24,210 --> 00:50:31,070
+and then all of a sudden he gets fucking rocked
+right in his nose by Gore, who is now mortal. And
+
+514
+00:50:31,070 --> 00:50:36,390
+since getting punched in the nose real hard is
+apparently Guy's weakness, you know, he falls to
+
+515
+00:50:36,390 --> 00:50:43,050
+the ground, just completely knocked out, and he
+loses the match. Fuck. You know, I can't even say
+
+516
+00:50:43,050 --> 00:50:51,530
+that wouldn't happen. I guess we'll leave it
+there. Either Guy defeats Gore with some
+
+517
+00:50:51,530 --> 00:50:59,150
+Vulderian Fragmite bombs, or Gore just knocks Guy
+out with a sucker punch to the face, apparently.
+
+518
+00:50:59,150 --> 00:51:03,070
+Well, let's find out which of these scenarios
+happens by running the stats on these characters,
+
+519
+00:51:03,070 --> 00:51:09,530
+running the simulations, and coming back with a
+winner. AG9K, hit it. Inputting data, running
+
+520
+00:51:09,530 --> 00:51:15,350
+calculations, processing results, simulations
+complete. All right, this didn't turn out to be
+
+521
+00:51:15,350 --> 00:51:21,850
+quite the repeat of the White Lantern vs. Null dual
+episode that I thought it was going to be. I think we
+
+522
+00:51:21,850 --> 00:51:26,790
+managed to do a pretty good job of differentiating
+these two matches. Yeah, it wasn't hard,
+
+523
+00:51:26,790 --> 00:51:32,070
+honestly, with Guy. He's kind of different from
+other Green Lanterns, not only in terms of his
+
+524
+00:51:32,070 --> 00:51:39,190
+brashness and attitude, but also in terms of his
+physiology. You know, he's part Vulderian, and I
+
+525
+00:51:39,190 --> 00:51:45,750
+didn't want to play that up into the stats too much.
+I still think his ring is his primary weapon. But he
+
+526
+00:51:45,750 --> 00:51:51,910
+has contingencies, we'll say. And that is what
+gave him the edge in versatility over Gore the God
+
+527
+00:51:51,910 --> 00:51:58,010
+Butcher. You know, as versatile as Gore is with his
+Necro sword. And he does some interesting things
+
+528
+00:51:58,010 --> 00:52:03,050
+with it, like he used it to create the God Bomb and
+stuff like that. But largely he sticks with swords
+
+529
+00:52:03,050 --> 00:52:08,750
+and tendrils and dark creatures and stuff
+compared to a Green Lantern ring, which Guy tends
+
+530
+00:52:08,750 --> 00:52:14,750
+to get a little bit more creative with, again, in
+addition to his alien DNA. The two did share a lot of
+
+531
+00:52:14,750 --> 00:52:18,790
+similarities when it came to the stats, though we
+both said they were equally fast, equally
+
+532
+00:52:18,790 --> 00:52:25,020
+evasive. When it came to strength and damage level
+and range, they were also on par with each other. We
+
+533
+00:52:25,020 --> 00:52:29,990
+did give the fighting skill edge to Gore the God
+Butcher just because he has millennia of fighting
+
+534
+00:52:29,990 --> 00:52:36,410
+experience. And we also said that longevity meant
+he was smarter than Guy, who's kind of dumb. Yeah,
+
+535
+00:52:36,410 --> 00:52:42,210
+he's definitely done some really dumb stuff in the
+comics. But we did give Guy the edge in perception
+
+536
+00:52:42,210 --> 00:52:49,070
+because Green Lantern rings can scan things and
+give the bear added information. Yeah, there
+
+537
+00:52:49,070 --> 00:52:53,530
+weren't too many perception feats for Gore the God
+Butcher. With all that said, Jonathan, who's
+
+538
+00:52:53,530 --> 00:52:59,130
+taken home the win here? I got to give it to Guy. I
+think his versatility is going to give him the edge
+
+539
+00:52:59,130 --> 00:53:07,050
+here. And it looks like our Instagram poll takers
+agree with me, just barely though, because 52% of
+
+540
+00:53:07,050 --> 00:53:13,450
+our poll takers voted in favor of Guy. That's one of
+the closest polls I think we've put out there.
+
+541
+00:53:13,450 --> 00:53:19,030
+Yeah, really close. So it seems like this is a
+pretty good match up in our followers' eyes. But
+
+542
+00:53:19,030 --> 00:53:25,030
+let's find out who actually won. AJ9K, the results
+please. Hey, you are, sir. All right, the winner
+
+543
+00:53:25,030 --> 00:53:36,170
+between Green Lantern, Guy Gardner, and Gore the
+God Butcher is... Gore the God Butcher. Damn it!
+
+544
+00:53:36,170 --> 00:53:42,670
+Looks like Guy Gardner got sucka punched right the
+fuck out. As a matter of fact, Deadpool came out
+
+545
+00:53:42,670 --> 00:53:49,470
+when this match was over and told Guy Gardner that
+he got knocked the fuck out. At a 1000 matches, Gore
+
+546
+00:53:49,470 --> 00:53:58,790
+the God Butcher won 571, whereas Green Lantern
+only won 429. Really? Okay, I thought that was
+
+547
+00:53:58,790 --> 00:54:04,510
+going to be a little bit closer. I thought this was
+essentially going to be a coin toss. And I am kind of
+
+548
+00:54:04,510 --> 00:54:11,810
+said that it again, Guy is not my favorite Green
+Lantern, but I also just really hate Gore. Why?
+
+549
+00:54:11,810 --> 00:54:17,350
+What's wrong with Gore? He deserves this. Did you
+see how they massacred my boy in Thor 11 Thunder?
+
+550
+00:54:17,350 --> 00:54:23,930
+Yeah, that's why I don't like him. That whole
+movie, just everything about it is awful. Well,
+
+551
+00:54:23,930 --> 00:54:30,630
+maybe Superman will be bad and you'll hate Guy even
+more too. Yeah, no, that's not going to happen. But
+
+552
+00:54:30,630 --> 00:55:02,970
+that does it for this duel. AJ9K, help close this
+out. Max Destruction, Senjo World, and Console
+
+553
+00:55:02,970 --> 00:55:12,390
+Combat. In our next episode, as a tie-in to the 4th
+of July holiday, we are doing a fireworks-related
+
+554
+00:55:12,390 --> 00:55:19,870
+duel with Jubilee versus Static. Yeah, I've been
+dying to get a Jubilee duel in here at some point and
+
+555
+00:55:19,870 --> 00:55:25,430
+the executive producers kind of think of a better
+time than around the 4th of July. And I agree. But
+
+556
+00:55:25,430 --> 00:55:29,850
+that does it for this episode. You want to give a big
+thanks to our executive producers, John
+
+557
+00:55:29,850 --> 00:55:34,230
+Staroski, Zachary Hepburn, Dustin Belcombe,
+Mickey Muthengian, Nathaniel Wagner, Levi
+
+558
+00:55:34,230 --> 00:55:40,010
+Yatyn, Austin Wizelowski, AJ Dunkerly, Nick
+Ibonto, Scott Kamacho, Gil Kamacho, Adam Spees,
+
+559
+00:55:40,010 --> 00:55:45,610
+Dean Maleski, Devin Davis, Joseph Kirsting, Josh
+Schleiner, Mike Williams, Oscar Gabas, and Paul
+
+560
+00:55:45,610 --> 00:55:51,290
+Graves for helping make this podcast possible.
+And we'll talk to you guys next week. Up, up, and
+
+561
+00:55:51,290 --> 00:55:57,130
+away, true believers. I thought a good tagline for
+this episode would be The Gardener vs The Butcher.
+
+562
+00:55:57,130 --> 00:55:58,970
+But then I was like, nah, that's boring.
