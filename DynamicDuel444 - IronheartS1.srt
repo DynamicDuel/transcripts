@@ -1,0 +1,3018 @@
+1
+00:00:00,000 --> 00:00:28,020
+This is a DynaMic Network Podcast. Hi, welcome to
+the Dynamic Duel podcast, a weekly show where we
+
+2
+00:00:28,020 --> 00:00:33,380
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:33,380 --> 00:00:38,760
+their characters in stat-based battle
+simulations. I'm Johnny DC. And I'm his twin
+
+4
+00:00:38,760 --> 00:00:43,380
+brother, Marvelous Joe. And in this episode,
+we're going back to doing one of our review
+
+5
+00:00:43,380 --> 00:00:50,660
+episodes, this time a review of the Marvel
+television series, Ironheart, on Disney+. Yeah,
+
+6
+00:00:50,660 --> 00:00:54,620
+it's been a while since we've done a review. I don't
+think we've done one since the Thunderbolts movie
+
+7
+00:00:54,620 --> 00:00:59,020
+came out. We've been getting through a lot of the
+duel episodes, but this whole month of July is
+
+8
+00:00:59,020 --> 00:01:04,560
+going to be jam-packed with reviews. Yeah, not
+only are we reviewing Ironheart, but also
+
+9
+00:01:04,560 --> 00:01:10,500
+Superman next week and two weeks after that,
+Fantastic Four. And then the week after that,
+
+10
+00:01:10,500 --> 00:01:15,660
+Sandman season two. So we hope you get out there and
+watch this stuff, listen to our reviews, and then
+
+11
+00:01:15,660 --> 00:01:19,860
+we'll get back to the duels. Yeah, but before we get
+to our review, we're going to break down the comic
+
+12
+00:01:19,860 --> 00:01:26,540
+book movie news to come out this past week, which is
+a lie because there was none. Yeah, I do want to say
+
+13
+00:01:26,540 --> 00:01:34,560
+R.I .P. Julien McMahon, who played Dr. Doom in the
+2005 Fantastic Four franchise. He died of cancer
+
+14
+00:01:34,560 --> 00:01:40,100
+at age 56, which is way too young, way too fucking
+young. So thoughts and condolences to his family
+
+15
+00:01:40,100 --> 00:01:44,620
+and friends. As always, we list our segment times
+in our episode description, so feel free to check
+
+16
+00:01:44,620 --> 00:01:49,980
+out the show notes if you want to skip ahead to a
+particular topic. Our artificially intelligent
+
+17
+00:01:49,980 --> 00:01:57,940
+duel simulator, AJ9K, has a quick message for our
+listeners. So listen up. Why hello there. Do you
+
+18
+00:01:57,940 --> 00:02:02,780
+want even more from this podcast? Then become a
+part of the dynamic dual community on Patreon,
+
+19
+00:02:02,780 --> 00:02:07,740
+where you can choose from three tiers. The Dynamic
+2.0 tier gives you access to our Discord chat
+
+20
+00:02:07,740 --> 00:02:12,720
+server. The Fantastic Four tier gives you two
+bonus episodes each month, and the X-Force tier
+
+21
+00:02:12,720 --> 00:02:18,480
+makes you an executive producer of this show.
+Lastly, the Dynamite podcast network tier lets
+
+22
+00:02:18,480 --> 00:02:23,060
+you create your own podcast using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+23
+00:02:23,060 --> 00:02:27,940
+your show, provide graphic support and
+consultation, and get you simulation results.
+
+24
+00:02:27,940 --> 00:02:33,660
+Pitch the twins your ideas via email at
+dynamicdualpodcast.com. Check it out at
+
+25
+00:02:33,660 --> 00:02:40,540
+Patreon.com slash DynamicDuel. Pip pip cheerio.
+Thanks AJ9K and thanks to everyone who supports
+
+26
+00:02:40,540 --> 00:02:45,520
+the podcast. Guys, be sure to tune in to the other
+shows on the DynaMic podcast network this week,
+
+27
+00:02:45,520 --> 00:02:50,220
+including the console combat podcast, where
+hosts John and Dean simulate battles between
+
+28
+00:02:50,220 --> 00:02:55,040
+popular video game characters. In yesterday's
+episode, they determined who would win between
+
+29
+00:02:55,040 --> 00:03:03,360
+Crash Bandicoot and Bubsy. I remember Bubsy. Over
+on the Max Destruction podcast, hosts Scotty and
+
+30
+00:03:03,360 --> 00:03:08,460
+Gilly put your favorite action heroes from film
+and television against each other. This week, the
+
+31
+00:03:08,460 --> 00:03:14,500
+show will be reviewing the Minecraft movie. And on
+the Senjoh  World podcast, hosts Zachary Hepburn
+
+32
+00:03:14,500 --> 00:03:19,840
+speculates on fights between fan favorite anime
+and manga characters. In his next episode, Zach's
+
+33
+00:03:19,840 --> 00:03:26,120
+going to reveal who would win between Aoi Toto of
+Jujutsu Kaisen and Ryo Shimizaki of MopPsycho
+
+34
+00:03:26,120 --> 00:03:32,860
+100. Visit dynamicpodcast.com or click the link
+in our show notes to listen to all of the shows in the
+
+35
+00:03:32,860 --> 00:03:41,240
+DynaMic podcast network. But with that out of the
+way, quick to the no prize. A no prize is an award
+
+36
+00:03:41,240 --> 00:03:46,500
+that Marvel used to give out to fans. Our version,
+the dynamic duel no prize, is a digital award we
+
+37
+00:03:46,500 --> 00:03:51,660
+post on Instagram for the person that we feel gave
+the best answer to our question of the week. Last
+
+38
+00:03:51,660 --> 00:03:57,440
+week, we asked you guys, what movie do you think
+we'll be making more at the Worldwide Box Office?
+
+39
+00:03:57,440 --> 00:04:03,180
+Superman or Fantastic Four First Steps and why?
+And this question pertains to the entire
+
+40
+00:04:03,180 --> 00:04:08,180
+theatrical run at the Worldwide Box Office. We got
+a lot of answers. Let's go ahead and run down our
+
+41
+00:04:08,180 --> 00:04:13,580
+honorable mentions as well as the no prize winner.
+Our first honorable mention goes to Daniel
+
+42
+00:04:13,580 --> 00:04:20,120
+Alonzo. Who said? Oh, Fantastic Four is going to
+destroy Superman. I mean, people that aren't even
+
+43
+00:04:20,120 --> 00:04:25,000
+superhero fans want to see Pedro Pascal. So that
+alone is going to bring people Marvel fans have
+
+44
+00:04:25,000 --> 00:04:30,740
+been waiting for a great Fantastic Four movie,
+which this looks amazing. I mean, I like the thing,
+
+45
+00:04:30,740 --> 00:04:35,220
+but I've never been a fan of Fantastic Four and
+neither have my brothers and we're all hyped to see
+
+46
+00:04:35,220 --> 00:04:41,760
+this movie. But Superman, dude, Superman sucks.
+Like, and not even DC fans want to watch this one.
+
+47
+00:04:41,760 --> 00:04:48,620
+What hope do they have? Really? I don't know,
+Daniel. I'm a DC fan. I want to watch it. Maybe you
+
+48
+00:04:48,620 --> 00:04:57,320
+suck. No, I think he's right. I think you guys have
+no hope. I mean, like he said, the Fantastic Four
+
+49
+00:04:57,320 --> 00:05:03,800
+First Steps movie has Pedro Pascal. What star our
+audience is going to see in the Superman movie?
+
+50
+00:05:03,800 --> 00:05:10,500
+Rachel Brosnahan, bro. Really? Freakin' Miss
+Maisel. Yeah. Okay, okay. Great answer, Daniel.
+
+51
+00:05:10,500 --> 00:05:16,700
+Our next honorable mention goes to Matt from
+Texas. Who said? Hey guys, Matt from Texas here.
+
+52
+00:05:16,700 --> 00:05:22,140
+I'm going to preface this by saying I am going to see
+both of these movies. But for the film, my feel is
+
+53
+00:05:22,140 --> 00:05:27,640
+going to make the most worldwide. It's probably
+going to be Fantastic Four. Both have been getting
+
+54
+00:05:27,640 --> 00:05:35,320
+a lot of hate online. Superman more than Fantastic
+Four. And I feel like more people enjoy the MCU and
+
+55
+00:05:35,320 --> 00:05:41,100
+want to see how this movie is going to connect to all
+the future films coming out. And not many people
+
+56
+00:05:41,100 --> 00:05:56,480
+care about another Superman film. You know what
+really? Like I'm only seeing hype for this movie. I
+
+57
+00:05:56,480 --> 00:06:03,300
+think in general, there's a lot of hate for the
+superhero genre online, which saddens me because
+
+58
+00:06:03,300 --> 00:06:09,080
+you know, this is peak cinema just a few years ago.
+And all of a sudden, you know, the genre isn't as in
+
+59
+00:06:09,080 --> 00:06:15,640
+vogue as it once was pre-COVID. I just see a lot of
+uninformed opinions when I scroll around out
+
+60
+00:06:15,640 --> 00:06:20,180
+there and it just, you know, it pisses me off to no
+end. So I've been kind of staying off social media
+
+61
+00:06:20,180 --> 00:06:26,400
+more than I already usually do. Because every time
+like a Fantastic Four TV spot or Superman image
+
+62
+00:06:26,400 --> 00:06:30,680
+comes across my feed, it's just nothing but
+negativity. Great answer, Matt. Our next
+
+63
+00:06:30,680 --> 00:06:36,220
+honorable mention goes to Travis Herndon, who
+said, What's up, dynamic dudes? Travis here,
+
+64
+00:06:36,220 --> 00:06:41,640
+shout out to me in between. So my answer would be
+Fantastic Four. Why? Because Superman movie is a
+
+65
+00:06:41,640 --> 00:06:46,340
+dime a dozen. We have multiple Superman movies
+throughout the years. Now you can make the same
+
+66
+00:06:46,340 --> 00:06:52,680
+argument about Fantastic Four. But here's the
+thing, Fantastic Four is back at Marvel. It's back
+
+67
+00:06:52,680 --> 00:06:57,560
+home with people that know what the hell they're
+doing with it. Plus, it's part of a bigger
+
+68
+00:06:57,560 --> 00:07:03,460
+overarching story that's going on. Meanwhile,
+Superman is just a simple Superman movie. You know
+
+69
+00:07:03,460 --> 00:07:11,280
+what else is back home, Travis? Me at your mom's
+house. Since when are you so good with your
+
+70
+00:07:11,280 --> 00:07:16,020
+insults? Like, I put you down all the time when you
+never have good comebacks. I don't know, man. It
+
+71
+00:07:16,020 --> 00:07:21,760
+just gets to me when people talk about it at
+Superman. I think he makes a good point, though, in
+
+72
+00:07:21,760 --> 00:07:28,320
+that this Fantastic Four movie is to the Fantastic
+Four franchise as Spider-Man Homecoming was to
+
+73
+00:07:28,320 --> 00:07:33,060
+the Spider-Man franchise. You know, there have
+been multiple iterations of this throughout the
+
+74
+00:07:33,060 --> 00:07:38,400
+years, but I think people are aware that now that
+the franchise is back with Marvel Studios is going
+
+75
+00:07:38,400 --> 00:07:43,360
+to be more true to the spirit of the characters than
+ever before. I just have a really hard time
+
+76
+00:07:43,360 --> 00:07:49,400
+believing that people are really excited for a
+Fantastic Four movie. Being that, like Travis
+
+77
+00:07:49,400 --> 00:07:55,380
+said, we have had multiple Fantastic Four movies.
+They haven't done as well as the best Superman
+
+78
+00:07:55,380 --> 00:08:01,600
+movie, both box office wise and critically. Like,
+we have yet to get a good Fantastic Four movie.
+
+79
+00:08:01,600 --> 00:08:06,020
+Which is why people are craving one. No one's
+craving a Superman movie when they could just go
+
+80
+00:08:06,020 --> 00:08:12,320
+back and watch, you know, the Christopher Reeve
+movies, right? Or Man of Steel, depending on, you
+
+81
+00:08:12,320 --> 00:08:17,260
+know, what decade they grow up in. But a great
+answer, Travis. We want to give a quick shout out to
+
+82
+00:08:17,260 --> 00:08:23,140
+Kai-O-G, Lorenzo Valdes, and Peter Troll for
+taking the time to visit our website and leave an
+
+83
+00:08:23,140 --> 00:08:29,460
+answer. Thank you guys so much. But the winner of
+this week's still prize is Alex Albro. Who said?
+
+84
+00:08:29,460 --> 00:08:33,039
+Hey guys, I think it'll ultimately be Superman
+making more money largely because it comes out
+
+85
+00:08:33,039 --> 00:08:38,220
+first. I think the Fantastic Four is more cast
+appeal, but I really do think the success of the
+
+86
+00:08:38,220 --> 00:08:42,419
+Fantastic Four is somewhat based on Superman.
+Even good Marvel movies recently have been
+
+87
+00:08:42,419 --> 00:08:46,740
+tracking with low numbers, and even though both
+are team-up movies and all that, I think just the
+
+88
+00:08:46,740 --> 00:08:51,600
+rebirth of the universe and just the great
+American hero, Superman is more attractive to
+
+89
+00:08:51,600 --> 00:08:56,300
+just the general casual fan, as well as, you know,
+the hardcore fans are going to show up either way.
+
+90
+00:08:56,300 --> 00:09:01,700
+You know what else is more attractive to the casual
+and hardcore fans, Alex? Your answer. Very well
+
+91
+00:09:01,700 --> 00:09:08,180
+said, my friend. I also like his point that people
+seem to be kind of soured on the MCU as of late, as
+
+92
+00:09:08,180 --> 00:09:14,820
+evidenced by the recent box offices of Marvel
+films of late. Like Deadpool and Wolverine, which
+
+93
+00:09:14,820 --> 00:09:19,600
+made over a billion dollars? No. I'm talking about
+Captain America, Brave New World, and
+
+94
+00:09:19,600 --> 00:09:24,900
+Thunderbolts. Oh, yeah. Well, I mean, if
+anybody's gonna save the MCU or the superhero
+
+95
+00:09:24,900 --> 00:09:30,040
+genre at the box office, I can guarantee you it's
+not gonna be DC. It's gonna be Superman, of course
+
+96
+00:09:30,040 --> 00:09:35,000
+it is. Who else would it be? It's gonna be Marvel
+itself that pulls itself out of its own fire. And
+
+97
+00:09:35,000 --> 00:09:40,100
+it'll, if you're lucky, bring DC up with it. I feel
+like you're gonna learn a very hard lesson this
+
+98
+00:09:40,100 --> 00:09:45,600
+year and I'm here for it. I'm here for that growth
+experience you're about to have. When have I ever
+
+99
+00:09:45,600 --> 00:09:49,180
+learned a hard lesson in the course of this
+podcast? And how many hard lessons have you
+
+100
+00:09:49,180 --> 00:09:55,780
+learned, Jonathan? I mean, enough to know how
+wrong you are. Okay. All right. So as per usual, I
+
+101
+00:09:55,780 --> 00:10:01,140
+think we mentioned this on the podcast already.
+Jonathan and I have a bet going as to which of these
+
+102
+00:10:01,140 --> 00:10:06,440
+films actually will grow more at the Worldwide Box
+Office in their theatrical runs. Jonathan has yet
+
+103
+00:10:06,440 --> 00:10:12,340
+to win one of these like annual bets that we make. So
+stay tuned to see if that changes later on this
+
+104
+00:10:12,340 --> 00:10:17,620
+year. Spoiler alert, it won't. And once again,
+this motherfucker's gonna owe me money. Remember
+
+105
+00:10:17,620 --> 00:10:28,040
+this, folks. Jokes on you, I've never paid once.
+That's true. I do want to point out that we went with
+
+106
+00:10:28,040 --> 00:10:34,140
+Alex for the no prize win, but everyone else who
+answered besides those who got the honorable
+
+107
+00:10:34,140 --> 00:10:40,320
+mention answered with Superman. So actually
+Superman did get a majority of the answers from our
+
+108
+00:10:40,320 --> 00:10:45,380
+listeners. You can't prove that. You can't prove
+anything. But great answer, Alex Albro. You win
+
+109
+00:10:45,380 --> 00:10:49,580
+this week's no prize. If you, the listener, want to
+shout out winning your own no prize, stay tuned to
+
+110
+00:10:49,580 --> 00:10:54,600
+later on this episode when we'll be asking another
+question of the week. And now that that's done,
+
+111
+00:10:54,600 --> 00:11:04,520
+onto the question of the week. For those of you who
+have seen Superman in its opening weekend, what
+
+112
+00:11:04,520 --> 00:11:09,960
+did you think? Yeah, give us your best 30 second
+review. We'd love to play in our next episode in
+
+113
+00:11:09,960 --> 00:11:15,260
+which we're reviewing the Superman movie. Record
+your answer at dynamicduld.com by clicking on the
+
+114
+00:11:15,260 --> 00:11:19,320
+red microphone button in the bottom right hand
+corner of the screen, which will prompt you to
+
+115
+00:11:19,320 --> 00:11:24,180
+leave us a voicemail. Your message could be up to 30
+seconds long. And don't forget to leave your name
+
+116
+00:11:24,180 --> 00:11:28,920
+in case we include you on the podcast. We'll pick
+our favorite answer and award that person a
+
+117
+00:11:28,920 --> 00:11:34,980
+dynamic dual no prize that we'll post to
+Instagram. Be sure to answer before July 13th.
+
+118
+00:11:34,980 --> 00:11:46,840
+Right, because on July 13th, we'll be recording
+the next episode. But now let's go ahead and move on
+
+119
+00:11:46,840 --> 00:11:53,820
+to the main event of this episode where we review
+the Marvel television original series on Disney
+
+120
+00:11:53,820 --> 00:12:15,540
+plus Iron Heart season one. Okay, Iron Heart six
+episode first season was produced by a Marvel
+
+121
+00:12:15,540 --> 00:12:21,540
+television created by Chinaka Hodge and stars
+Dominique Thorne, Anthony Ramos, Alden
+
+122
+00:12:21,540 --> 00:12:26,940
+Ehrenreich and Sasha Baren Cohen. It was
+executive produced by Ryan Coogler, the director
+
+123
+00:12:26,940 --> 00:12:32,080
+of Black Panther Wakanda Forever, where the Iron
+Heart character made her first live action
+
+124
+00:12:32,080 --> 00:12:37,760
+appearance. In it, Riri Williams was an MIT
+student who engineered a vibranium detecting
+
+125
+00:12:37,760 --> 00:12:41,980
+machine, which is a rare metal which had been
+heavily sought after by the world's governments.
+
+126
+00:12:41,980 --> 00:12:47,860
+She was brought in by the Wakandans for protection
+from Namor and the telekinesis, building a
+
+127
+00:12:47,860 --> 00:12:53,720
+vibranium suit of armor for the battle between the
+nations. At the end of that story, Shuri, the new
+
+128
+00:12:53,720 --> 00:13:00,560
+Black Panther, made Riri leave the armor behind
+and return to MIT. We knew by the time of Wakanda
+
+129
+00:13:00,560 --> 00:13:06,220
+Forever's release that an Iron Heart series was
+being produced and I remember at the time being
+
+130
+00:13:06,220 --> 00:13:12,220
+less than excited because I wasn't a huge fan of
+Riri as a character in that film. If you listen to
+
+131
+00:13:12,220 --> 00:13:16,720
+our review of Wakanda Forever, I think I remember
+saying that Iron Heart felt inconsequential
+
+132
+00:13:16,720 --> 00:13:21,900
+despite being the catalyst for the events in the
+film and that I thought Dominique Thorne was less
+
+133
+00:13:21,900 --> 00:13:28,200
+than capable of leading Korone series as an actor.
+I think if I would have known then what I know now, I
+
+134
+00:13:28,200 --> 00:13:32,760
+would have been a little more excited for this Iron
+Heart season because not only were most of my
+
+135
+00:13:32,760 --> 00:13:38,100
+earlier concerns dispelled, but there were a lot
+of interesting themes and characters at play here
+
+136
+00:13:38,100 --> 00:13:44,000
+in this season. Ultimately, I think that the Iron
+Heart series is worth watching for fans. I'm not
+
+137
+00:13:44,000 --> 00:13:48,460
+sure general audiences will get much out of it
+because it doesn't seem like essential watching,
+
+138
+00:13:48,460 --> 00:13:53,200
+but if you're interested in smaller and more
+personal stories and getting some world building
+
+139
+00:13:53,200 --> 00:13:58,900
+from the magic side of the MCU, be sure to watch Iron
+Heart season one prior to listening to the rest of
+
+140
+00:13:58,900 --> 00:14:04,080
+this review because we will be delving into
+spoilers here. Yeah, I think I would recommend it
+
+141
+00:14:04,080 --> 00:14:09,340
+as well, which is something that's kind of
+surprising for me because I went into the show with
+
+142
+00:14:09,340 --> 00:14:15,160
+the lowest of expectations. I was not really
+looking forward to watching this at all, but not
+
+143
+00:14:15,160 --> 00:14:21,380
+only did it surpass my expectations, maybe
+because they were so low, maybe not, but also a lot
+
+144
+00:14:21,380 --> 00:14:26,860
+of the preconceived notions I had about the series
+in general turned out to be way wrong. Yeah, the
+
+145
+00:14:26,860 --> 00:14:33,020
+marketing was a little off for the series and I'm
+not entirely sure why. It almost seems like Marvel
+
+146
+00:14:33,020 --> 00:14:37,620
+or Disney thought that the show would be less well
+received than it probably is. I mean, it's doing
+
+147
+00:14:37,620 --> 00:14:43,920
+well among critics, maybe not by fans. It's hard to
+gauge this early out, but yeah, I would say I
+
+148
+00:14:43,920 --> 00:14:49,460
+recommend it largely because of the deep themes
+that I think the show successfully addresses. You
+
+149
+00:14:49,460 --> 00:14:55,400
+know, we're talking repressed trauma, sins of the
+fathers, selfishness versus heroism, the
+
+150
+00:14:55,400 --> 00:15:00,480
+validity of artificial sentience, and the
+central question at hand, which is how far will you
+
+151
+00:15:00,480 --> 00:15:07,320
+go to get what you want? What lines would you or
+wouldn't you cross and why? It's a great question
+
+152
+00:15:07,320 --> 00:15:13,660
+and the idea of superhero selfishness is largely
+ignored in Marvel and DC films and shows because
+
+153
+00:15:13,660 --> 00:15:19,700
+for the most part, comics deal with uncommonly
+upstanding selfless individuals. Right,
+
+154
+00:15:19,700 --> 00:15:26,360
+heroism is selfless. And realistically, a lot of
+people who would receive these superpowers would
+
+155
+00:15:26,360 --> 00:15:32,040
+have to decide to what degree they would use them to
+serve themselves and or others on the fact that
+
+156
+00:15:32,040 --> 00:15:37,540
+Riri makes so many of her choices in her own
+interest. And even at the expense of others, it
+
+157
+00:15:37,540 --> 00:15:43,500
+definitely doesn't make her heroic. But she's
+also not really a villain, even if she and others
+
+158
+00:15:43,500 --> 00:15:48,620
+question that in the course of the season. And
+especially when you consider the reasons behind
+
+159
+00:15:48,620 --> 00:15:53,860
+her reason behind her armor. Right, that's a
+question that's posited to her multiple times
+
+160
+00:15:53,860 --> 00:15:59,960
+like why are you doing this? And often her answer is
+because I can. Yeah, right. They asked her why the
+
+161
+00:15:59,960 --> 00:16:06,340
+suit? Why is the money to complete it so important?
+Why was that worth getting expelled? Why was that
+
+162
+00:16:06,340 --> 00:16:13,200
+worth stealing for? As you said, she responds with
+because I can and for a lesser series, maybe that
+
+163
+00:16:13,200 --> 00:16:17,400
+would be enough in terms of motivation and maybe
+that reasoning would speak to the self assurance
+
+164
+00:16:17,400 --> 00:16:23,520
+and hubris of the hyper intelligent. But the show
+goes deeper because because is not really an
+
+165
+00:16:23,520 --> 00:16:30,360
+answer. So as we learn for Riri, it was all a trauma
+response. And she was obsessed with building her
+
+166
+00:16:30,360 --> 00:16:35,260
+suit out of the unprocessed grief of witnessing
+her best friend and dad bleed out in front of her.
+
+167
+00:16:35,260 --> 00:16:40,320
+From out of that, you know, she was smart. She knew
+there existed a president of an armored hero who
+
+168
+00:16:40,320 --> 00:16:45,820
+could protect people in Iron Man. So she became
+hyper focused on making an armor because she
+
+169
+00:16:45,820 --> 00:16:50,620
+didn't know how else to process her emotions. I
+thought that was fantastic. I thought that was a
+
+170
+00:16:50,620 --> 00:16:55,760
+really well done exploration. But even beyond
+that, because we all know building a suit alone
+
+171
+00:16:55,760 --> 00:17:01,740
+doesn't make you heroic, you know, you have to help
+people and Riri mostly just helps herself in the
+
+172
+00:17:01,740 --> 00:17:06,940
+show. What's fascinating is that the series
+actually addresses that in the final episode, the
+
+173
+00:17:06,940 --> 00:17:11,720
+hood calls her out saying, you thought you were one
+of the good guys. What are you doing with that
+
+174
+00:17:11,720 --> 00:17:16,900
+armor? You're not rescuing people from burning
+buildings or saving car crash victims. And I
+
+175
+00:17:16,900 --> 00:17:21,940
+thought that was a particularly complex moment
+because, you know, she kind of was helping others
+
+176
+00:17:21,940 --> 00:17:27,140
+and preemptively fighting the hood to protect her
+family and friends. But she was also fighting for
+
+177
+00:17:27,140 --> 00:17:32,340
+the artificial life that she created. And while
+the show never explicitly discusses the value of
+
+178
+00:17:32,340 --> 00:17:37,000
+digital sentience and whether that's really
+worth fighting for, I like how at least the topic
+
+179
+00:17:37,000 --> 00:17:42,000
+was addressed. Yeah, it was very timely,
+especially with the advent in recent years of AI
+
+180
+00:17:42,000 --> 00:17:46,840
+and its common use. Well, yeah, I don't know if
+something like chat GPT could really be
+
+181
+00:17:46,840 --> 00:17:51,760
+considered an artificial intelligence or if it's
+just, you know, a conversation, but I don't know
+
+182
+00:17:51,760 --> 00:17:56,600
+enough about the technology to really comment on
+that. But I will say that I'm not really willing to
+
+183
+00:17:56,600 --> 00:18:02,140
+steal or cross other ethical boundaries for the
+sake of my chat GPT conversations at this moment.
+
+184
+00:18:02,140 --> 00:18:08,000
+Well, I mean, you say that, but it's not like you
+have an AI programmed to respond and look like a
+
+185
+00:18:08,000 --> 00:18:13,300
+loved one who has passed away. That's valid. I'd
+have to think about that. Just the fact that I think
+
+186
+00:18:13,300 --> 00:18:20,020
+that may be possible now is kind of terrifying.
+It's interesting, for sure, for sure. And it does
+
+187
+00:18:20,020 --> 00:18:25,820
+make me wonder how AI chat technology will be used
+in the future in that regard, missing loved ones
+
+188
+00:18:25,820 --> 00:18:31,100
+and stuff like that. This is all to say, Iron Heart
+season one touched on some heavy shit. And that's
+
+189
+00:18:31,100 --> 00:18:35,000
+just like a part of the thematic bits. We'll talk
+more about the themes when doubling into
+
+190
+00:18:35,000 --> 00:18:40,380
+characters like the hood. But I think the best
+thing about the show is that beyond the special
+
+191
+00:18:40,380 --> 00:18:45,780
+effects and the plot turns and the acting, there
+was this subtext of something deeper. Right,
+
+192
+00:18:45,780 --> 00:18:51,540
+definitely a subtext. I don't know if it's delved
+deep enough in any kind of meaningful way to be
+
+193
+00:18:51,540 --> 00:18:57,740
+satisfying. It definitely didn't. But I did
+appreciate that it broached certain subjects, I
+
+194
+00:18:57,740 --> 00:19:03,920
+guess. Yeah, I agree. The themes were great, but
+they don't always make a good show alone, right?
+
+195
+00:19:03,920 --> 00:19:09,620
+You need the other elements there for a quality
+superhero show, including, oh, you know,
+
+196
+00:19:09,620 --> 00:19:14,860
+sticking the landing at the end. The worst thing
+about the show probably was the ending. I thought
+
+197
+00:19:14,860 --> 00:19:19,480
+it was way too ambiguous as to whether or not we were
+looking at a vision of the future where Riri sold
+
+198
+00:19:19,480 --> 00:19:26,060
+her soul to Mephisto, or maybe she didn't sell her
+soul. I probably think that she did, but that would
+
+199
+00:19:26,060 --> 00:19:30,260
+also take the series down a route that I wouldn't
+want it to go, because then she's probably got to
+
+200
+00:19:30,260 --> 00:19:34,840
+get her soul back. And then the show is going to dive
+deeper into the magic stuff, and Riri really
+
+201
+00:19:34,840 --> 00:19:40,220
+belongs in the world of science fiction, you know,
+the tech side of Marvel. Yeah, no, I agree. I
+
+202
+00:19:40,220 --> 00:19:45,480
+despised this ending. I couldn't believe that
+they ended this season this way, especially
+
+203
+00:19:45,480 --> 00:19:51,380
+because even Ryan Coogler has admitted that he
+doesn't know where Riri is going to appear next,
+
+204
+00:19:51,380 --> 00:19:57,220
+whether they're going to have a second season of
+the show, or what. Right, the Marvel mid-credit
+
+205
+00:19:57,220 --> 00:20:01,920
+and end credit scenes were great back in the
+beginning when we knew that for sure these
+
+206
+00:20:01,920 --> 00:20:07,060
+upcoming projects were greenlit and confirmed.
+When the fate of a franchise is kind of up in the air
+
+207
+00:20:07,060 --> 00:20:11,420
+and we don't know what's coming next, it can be
+highly frustrating when things are ambiguous,
+
+208
+00:20:11,420 --> 00:20:15,500
+because we don't know if they'll ever get
+resolved. We've had a number of post-credit and
+
+209
+00:20:15,500 --> 00:20:20,740
+mid-credit scenes from Marvel now that are left
+dangling. There's so many loose plot threads that
+
+210
+00:20:20,740 --> 00:20:26,480
+I think I've lost track. Also, one thing I didn't
+like about the show were some of the acting. Aside
+
+211
+00:20:26,480 --> 00:20:30,840
+from, you know, the main cast, I thought the
+supporting cast was a little bit cheesy,
+
+212
+00:20:30,840 --> 00:20:36,420
+especially with the hoodscrew, clown slug, and
+the blood siblings. I thought we're not great
+
+213
+00:20:36,420 --> 00:20:41,140
+actors if they even were actors, and I don't think
+they were good adaptations of their comic book
+
+214
+00:20:41,140 --> 00:20:45,280
+counterparts, which I guess is forgivable
+because they're obscure, but what's less
+
+215
+00:20:45,280 --> 00:20:50,880
+forgivable is that they were cheesy. Well, they
+were borderline caricatures by the end. Right, in
+
+216
+00:20:50,880 --> 00:20:55,480
+the comics, the blood siblings are aliens.
+They're called the blood brothers, but here they
+
+217
+00:20:55,480 --> 00:21:03,360
+made them either female or non-binary. One or the
+other slug was, I think, trans, and then clown. I
+
+218
+00:21:03,360 --> 00:21:08,000
+wasn't quite sure which clown she was an
+adaptation of in the comic books, but they kind of
+
+219
+00:21:08,000 --> 00:21:13,100
+brought down the show, I think, and it's not
+because of the gender fluidity of the group. I'm
+
+220
+00:21:13,100 --> 00:21:18,560
+all for representation. I mean, Iron Heart
+herself is an example of representation within
+
+221
+00:21:18,560 --> 00:21:23,800
+Marvel comic books, where they decided to bring
+this kind of like hidden figures type element with
+
+222
+00:21:23,800 --> 00:21:28,680
+a strong black smart woman taking on the Iron Man
+legacy. But if you're going to have
+
+223
+00:21:28,680 --> 00:21:32,500
+representation in your show, you got to make sure
+it's done well, otherwise it's just going to put
+
+224
+00:21:32,500 --> 00:21:36,680
+people off. Well, you have to make sure it's
+believable. You know, when it's not believable,
+
+225
+00:21:36,680 --> 00:21:42,100
+it's just pandering, and I feel like the same way
+about the blood siblings. Like, I didn't think
+
+226
+00:21:42,100 --> 00:21:46,960
+they could kick anyone's ass. Yeah, I don't know if
+they were actual aliens on the show, but maybe they
+
+227
+00:21:46,960 --> 00:21:50,820
+were, and maybe that's why they were so
+formidable. It wasn't addressed regardless.
+
+228
+00:21:50,820 --> 00:21:56,380
+Now, I would agree with you when I came to the
+supporting cast of the Hood's crew, but I actually
+
+229
+00:21:56,380 --> 00:22:03,560
+liked the acting of Riri's supporting cast from
+Natalie to Xavier, and even her mom, Ronnie, I
+
+230
+00:22:03,560 --> 00:22:08,260
+thought did a fantastic job. Oh, for sure. Yeah,
+they were all great. The third thing that I didn't
+
+231
+00:22:08,260 --> 00:22:13,280
+appreciate about the season were the number of
+plot holes. There were a lot of fucking plot holes,
+
+232
+00:22:13,280 --> 00:22:18,060
+maybe not quite as much as Secret Invasion, but I
+definitely want to address them in the course of
+
+233
+00:22:18,060 --> 00:22:22,620
+this review to see if maybe we could get answers.
+But first, let's get into our character
+
+234
+00:22:22,620 --> 00:22:29,380
+breakdown. Starting with Ironheart, aka Riri
+Williams, played by Dominique Thorne. Man, I was
+
+235
+00:22:29,380 --> 00:22:34,720
+so much more impressed with Dominique Thorne's
+acting in this series. She legitimately blew me
+
+236
+00:22:34,720 --> 00:22:41,240
+away with the reality of her performance as Riri.
+So much so, that I was shocked that I ever even
+
+237
+00:22:41,240 --> 00:22:46,460
+doubted her. I felt like a piece of shit. Well, she
+was given so much more to work with in this show than
+
+238
+00:22:46,460 --> 00:22:52,720
+she was in What Kind of Forever. I agree. I that she
+gave a fantastic performance in this series.
+
+239
+00:22:52,720 --> 00:22:56,340
+Absolutely. Like when she was feeling defensive
+and like no one else could help her with her
+
+240
+00:22:56,340 --> 00:23:01,080
+problems, I was like, just leave her alone. And
+when she had panic attacks, I was like, breathe,
+
+241
+00:23:01,080 --> 00:23:06,180
+girl, you're gonna pass out if you don't breathe.
+Like I was into her performance. It was just so
+
+242
+00:23:06,180 --> 00:23:11,980
+believable. I'm still not sure she entirely has
+the presence yet, but I will say that at the end of
+
+243
+00:23:11,980 --> 00:23:17,220
+the show, that giant afro really helped. I wish she
+had that all the time because when I finally saw her
+
+244
+00:23:17,220 --> 00:23:22,420
+with the classic Riri look, I was like, holy shit,
+that's her. That's Riri Williams. And I feel like I
+
+245
+00:23:22,420 --> 00:23:27,300
+saw the character for the first time. I thought the
+same thing, actually. I much preferred the afro.
+
+246
+00:23:27,300 --> 00:23:31,140
+That was a cool look. Yeah, it's a staple of the
+character in the comic books. And I got to say
+
+247
+00:23:31,140 --> 00:23:37,180
+Dominique Thorne rocked it. Now Riri's arc was
+complex as we discussed a little bit earlier. When
+
+248
+00:23:37,180 --> 00:23:42,740
+you look at Natalie's origin, how that
+intelligence emerged from Riri's brain while she
+
+249
+00:23:42,740 --> 00:23:48,140
+was mapping it for her AI system. That's actually
+straight from the comic books. Riri mapped her
+
+250
+00:23:48,140 --> 00:23:53,720
+brain for her suit system and was surprised to see
+her late friend from childhood show up. In the
+
+251
+00:23:53,720 --> 00:24:00,700
+comic books, that's treated as more of kind of like
+a novel oddity than like a psychological reveal. I
+
+252
+00:24:00,700 --> 00:24:05,760
+like to think that the showrunner saw that moment
+from the books and decided to explore that more and
+
+253
+00:24:05,760 --> 00:24:11,500
+explore the grief behind that and maybe make it the
+reason behind everything. And emotional trauma
+
+254
+00:24:11,500 --> 00:24:16,220
+can be an acceptable means of letting your
+character be a little morally loose. Because like
+
+255
+00:24:16,220 --> 00:24:21,040
+look at the Punisher. The only reason we as comic
+book readers accept his immoral behavior is
+
+256
+00:24:21,040 --> 00:24:25,760
+because we can see the psychological reasoning
+behind it. So in hindsight, we can say, okay, Riri,
+
+257
+00:24:25,760 --> 00:24:31,280
+you stole and you played Robin Hood. And now we know
+why it's fascinating. But I do think that it brings
+
+258
+00:24:31,280 --> 00:24:38,080
+up two big issues. One is that it doesn't make Riri
+particularly endearing because she's a thief.
+
+259
+00:24:38,080 --> 00:24:42,260
+It's not a huge issue because you still root for her
+despite wanting to flick her upside the head a few
+
+260
+00:24:42,260 --> 00:24:47,120
+times. But the second and more important thing is
+that I feel like there's a plot hole in that someone
+
+261
+00:24:47,120 --> 00:24:52,640
+as intelligent as Riri would find a better way to
+earn money. Riri says at one point that she's doing
+
+262
+00:24:52,640 --> 00:24:57,840
+this stealing because she has to. But I don't
+understand why she sees it that way. Why would her
+
+263
+00:24:57,840 --> 00:25:02,960
+options be so limited if she's one of the most
+brilliant engineers on the planet? Right. She was
+
+264
+00:25:02,960 --> 00:25:07,000
+creating all kinds of gadgets at the beginning.
+That's how we're introduced the character at the
+
+265
+00:25:07,000 --> 00:25:12,220
+beginning of this series at least. So why not sell
+those? Exactly. Like she can make a fortune
+
+266
+00:25:12,220 --> 00:25:18,480
+selling her advanced AI or the force field watches
+or something like that. I really don't believe for
+
+267
+00:25:18,480 --> 00:25:23,540
+a second that she felt that she had to resort to
+crime. Maybe it was her impatience that led her to
+
+268
+00:25:23,540 --> 00:25:27,700
+do that. But that goes back to point one where she's
+not very endearing. I don't know if she wasn't
+
+269
+00:25:27,700 --> 00:25:33,940
+endearing. I think sometimes she wasn't
+likeable. But I think the struggle she had, the
+
+270
+00:25:33,940 --> 00:25:40,600
+moral one, made her slightly endearing because
+she was doing bad things. But she had a moral code.
+
+271
+00:25:40,600 --> 00:25:46,160
+She knew what she was doing was wrong. It never
+really identified as a thief because of that moral
+
+272
+00:25:46,160 --> 00:25:50,960
+code, you could say. And it made for a really
+compelling thematic arc. It was kind of like
+
+273
+00:25:50,960 --> 00:25:56,840
+watching to see how far she would kind of spiral
+down and how she would get herself out of that.
+
+274
+00:25:56,840 --> 00:26:01,900
+Yeah, kind of developed into an arc of redemption
+to see how she would overcome these failings of
+
+275
+00:26:01,900 --> 00:26:07,680
+guilt that she had. Which made the ending that much
+more tragic, I would say. Yes. And that much more
+
+276
+00:26:07,680 --> 00:26:12,580
+heartbreaking, not only because it wasn't
+satisfying, but also because it kind of broke her
+
+277
+00:26:12,580 --> 00:26:17,920
+arc, I would say. Yeah, she didn't really redeem
+herself, it seems like. And so it left her arc
+
+278
+00:26:17,920 --> 00:26:23,820
+incomplete and the audience without closure.
+Such a bizarre choice. So really. Yeah. Regarding
+
+279
+00:26:23,820 --> 00:26:30,060
+the iron heart suit, I was really hoping for a final
+suit design at the end that looked more like the
+
+280
+00:26:30,060 --> 00:26:34,980
+main one that she wears from the comic books, or at
+least the pink, black and gold one. And readers of
+
+281
+00:26:34,980 --> 00:26:39,020
+the comics should know what I'm talking about. I
+don't think it would have to be pink in live action.
+
+282
+00:26:39,020 --> 00:26:43,600
+I think you can still go red because the pink is
+probably a little bit too dainty for Dominique
+
+283
+00:26:43,600 --> 00:26:48,020
+Thorn's version of iron heart, who's a little bit
+rougher than the comic book reary. But in the comic
+
+284
+00:26:48,020 --> 00:26:54,440
+books, that design is really sleek and awesome and
+not bulky like in the show. Well, I liked the final
+
+285
+00:26:54,440 --> 00:26:59,580
+suit. It probably didn't have enough color,
+you're right. But I did like that they used pieces
+
+286
+00:26:59,580 --> 00:27:04,620
+from the barracuda that her dad built her to create
+it. I thought that was pretty cool. Yo, she and her
+
+287
+00:27:04,620 --> 00:27:08,420
+dad built it. And yeah, that was a really nice
+touch, for sure. Let's go ahead and move on to the
+
+288
+00:27:08,420 --> 00:27:14,380
+hood, aka Parker Robbins, played by Anthony
+Ramos. Dude, Anthony Ramos almost carried this
+
+289
+00:27:14,380 --> 00:27:18,340
+entire season. I thought his performance was
+fantastic. I first saw him in Hamilton. I really
+
+290
+00:27:18,340 --> 00:27:22,980
+haven't seen him in much else, but he's an
+incredible actor. He's really good. I've seen him
+
+291
+00:27:22,980 --> 00:27:29,760
+in Hamilton and Twisters and in the Heights. The
+dude can kind of do it all. And while I thought that
+
+292
+00:27:29,760 --> 00:27:36,040
+initially he was going to be pretty shallow and
+this was just like a petty revenge kind of arc, when
+
+293
+00:27:36,040 --> 00:27:42,100
+we learned that this was all because his dad
+abandoned him, that blew me away. The character
+
+294
+00:27:42,100 --> 00:27:46,860
+was really cool once I learned that. Yeah, his
+whole arc is that he was trying to get back what he
+
+295
+00:27:46,860 --> 00:27:51,920
+felt was kept from him when he was kicked out of his
+house at the age of 12 by his rich father. That
+
+296
+00:27:51,920 --> 00:27:57,000
+reveal was fantastic. And when you can understand
+the motivations of a villain like the hood, it
+
+297
+00:27:57,000 --> 00:28:00,880
+makes things so much more interesting because
+suddenly you're kind of rooting for the villain.
+
+298
+00:28:00,880 --> 00:28:05,620
+Right, the villain becomes sympathetic. The
+character was so good that I'm convinced that's
+
+299
+00:28:05,620 --> 00:28:10,560
+why they had the mid-credit scene that they did,
+where instead of being defeated, it looks like
+
+300
+00:28:10,560 --> 00:28:21,380
+they were wanting to continue the hood story arc.
+Does he become a whole sympathy angle? Otherwise,
+
+301
+00:28:21,380 --> 00:28:25,080
+you're going to have an Ezekiel stain type
+situation, which we'll get into a little bit
+
+302
+00:28:25,080 --> 00:28:30,720
+later. But first, I want to address the plot hole of
+why didn't the hood just go straight to his father?
+
+303
+00:28:30,720 --> 00:28:36,240
+Like, why did he decide to go this all-round about
+way and hire a crew and introduce a ton of
+
+304
+00:28:36,240 --> 00:28:41,300
+liabilities and variables to the situation? He
+could have just literally gone to his father and
+
+305
+00:28:41,300 --> 00:29:15,900
+threatened him to get his estate. Well, he wanted
+more than the estate. He wanted... It was
+
+306
+00:29:15,900 --> 00:29:21,700
+interesting because the hood only went after
+organizations that were affecting poor Chicago
+
+307
+00:29:21,700 --> 00:29:26,440
+communities. So he had somewhat of an ethical
+grounding. But then, you know, he's out there
+
+308
+00:29:26,440 --> 00:29:32,520
+having his cousin kill the Rampage guy and tie up
+loose ends. So I don't know if the hood was maybe a
+
+309
+00:29:32,520 --> 00:29:37,140
+corrupting influence on him because it also
+seemed in the flashback scenes that he wasn't a
+
+310
+00:29:37,140 --> 00:29:43,700
+100% evil guy. Well, I kind of took his whole
+ethical approach to the companies they targeted,
+
+311
+00:29:43,700 --> 00:29:50,240
+not as genuine I took that as a way to manipulate his
+crew to get them on board. Yeah, I think that's
+
+312
+00:29:50,240 --> 00:29:54,820
+totally valid for sure. Great character, great
+character in that regard. Yeah. What did you think
+
+313
+00:29:54,820 --> 00:29:58,900
+of the actual hood? I thought it looked cool. You
+know, it looked like straight out of the comic
+
+314
+00:29:58,900 --> 00:30:03,660
+books. It looked old, but kind of stylish. I
+thought it was going to look cooler. Not going to
+
+315
+00:30:03,660 --> 00:30:08,580
+lie. Really? Like what? I don't know. I think I
+expected something that maybe fit a little bit
+
+316
+00:30:08,580 --> 00:30:13,140
+better. It was a little bit more flowy and
+supernatural looking. It was a little heavy. Like
+
+317
+00:30:13,140 --> 00:30:17,520
+it was made out of leather or something. Maybe if it
+was made out of like a lighter fabric, it would have
+
+318
+00:30:17,520 --> 00:30:23,280
+flowed more, but I didn't mind it at all. I did like
+the scarring that was going on with him and like how
+
+319
+00:30:23,280 --> 00:30:28,360
+they were trying to cover it up with tattoos and how
+the tattoos got more elaborate as each episode
+
+320
+00:30:28,360 --> 00:30:33,620
+progressed. I thought that was really cool. And I
+also liked the nod to characters like Cassilius,
+
+321
+00:30:33,620 --> 00:30:38,720
+how they were tainted and physically affected
+when they kind of made deals with these dark
+
+322
+00:30:38,720 --> 00:30:43,920
+entities. Yeah, that is interesting. I guess I
+didn't think about the tie into Cassilius, but
+
+323
+00:30:43,920 --> 00:30:48,100
+yeah, his body was getting all fucked up too in his
+dealings with Dormammu. What's interesting is
+
+324
+00:30:48,100 --> 00:30:54,260
+that in the comic books, Parker Robbins got the
+hood by killing a demon that was wearing it who had
+
+325
+00:30:54,260 --> 00:30:59,520
+ties to Dormammu. So his hood did get his power from
+the dark dimension and they kind of had an Easter
+
+326
+00:30:59,520 --> 00:31:04,360
+egg reference to that in the show because Zelma
+thought that the hood came from Dormammu. Though
+
+327
+00:31:04,360 --> 00:31:08,700
+later it was revealed to be Mephisto behind
+everything. Let's go ahead and move on to Ezekiel
+
+328
+00:31:08,700 --> 00:31:13,540
+Stain, played by Alden Ehrenreich. Now I like
+Alden as an actor. I think I've only seen him in
+
+329
+00:31:13,540 --> 00:31:18,660
+solo. I wasn't sure what to think of the character
+from the marketing because Joe McGillicuddy was
+
+330
+00:31:18,660 --> 00:31:25,240
+an alias. But once he was revealed as Ezekiel
+Stain, I was like, yes, like this guy definitely
+
+331
+00:31:25,240 --> 00:31:29,740
+deserves to be a villain within the Iron Man
+franchise. And I was kind of disappointed that
+
+332
+00:31:29,740 --> 00:31:35,660
+they transformed the character into a more
+sympathetic henchman type role. It was really
+
+333
+00:31:35,660 --> 00:31:40,940
+hard to get a beat on the character because on one
+hand, you know, he was a tech ethicist and he didn't
+
+334
+00:31:40,940 --> 00:31:46,780
+have like malicious intentions, really. But also
+he was a black market dealer and seemed to have this
+
+335
+00:31:46,780 --> 00:31:52,200
+kind of dark streak to him. The show kind of seemed
+to want it both ways with this character. And that
+
+336
+00:31:52,200 --> 00:31:57,200
+was kind of unsatisfying. I did think it was cool
+that they made him the son of Obadiah Stain. Is that
+
+337
+00:31:57,200 --> 00:32:03,140
+a real character from the comics? Yes. Yeah, Zeke
+Stain is Obadiah Stain's son. He was a second Iron
+
+338
+00:32:03,140 --> 00:32:10,220
+Monger and he is interesting because he takes a
+more biotech route with his superpowers just like
+
+339
+00:32:10,220 --> 00:32:16,720
+in the show. OK. And he developed a way for the body
+to use like 90 percent less energy and the energy
+
+340
+00:32:16,720 --> 00:32:22,880
+gets transmitted into these energy enhancements
+that he has on his body. Very similar to how he was in
+
+341
+00:32:22,880 --> 00:32:26,520
+the show. Does he have a different look in the
+comic? Because I kind of feel like they missed an
+
+342
+00:32:26,520 --> 00:32:32,340
+opportunity to make him more monsterish, almost
+like Frankenstein's monster. Well, he's more of
+
+343
+00:32:32,340 --> 00:32:37,520
+like a cyborg and he can like manifest it to look
+more like a suit of armor, but he's always part
+
+344
+00:32:37,520 --> 00:32:42,800
+machine, part human. And that's kind of his whole
+shtick as an Iron Man villain. It's less about
+
+345
+00:32:42,800 --> 00:32:49,920
+creating a suit of armor and more about merging man
+and machine to become a true Iron Man. Yeah, I think
+
+346
+00:32:49,920 --> 00:32:54,900
+they missed an opportunity to make the character
+more tragic. He ended up being kind of lame in the
+
+347
+00:32:54,900 --> 00:32:59,780
+way that he was just kind of a puppet. I didn't like
+that. Well, he lost the fight by getting kicked in
+
+348
+00:32:59,780 --> 00:33:06,040
+the balls, right? Yeah, I was weird. I love that.
+Didn't love that for him, especially since he's a
+
+349
+00:33:06,040 --> 00:33:09,960
+lot more formidable in the books. And I guess
+during that first fight, he was quite the force of
+
+350
+00:33:09,960 --> 00:33:14,320
+nature, but the second fight was just
+disappointing and embarrassing. I'll say,
+
+351
+00:33:14,320 --> 00:33:20,160
+though, that it is nice that Marvel is revisiting
+some of its earlier plots in projects like this one
+
+352
+00:33:20,160 --> 00:33:24,960
+and like Captain America Brave New World. Oh,
+yeah, totally. I definitely got excited when they
+
+353
+00:33:24,960 --> 00:33:30,340
+found a way to squeeze an element of the Iron Man
+movies into the show for sure. Let's go to move into
+
+354
+00:33:30,340 --> 00:33:34,600
+our final character. We're going to discuss and
+that is Mephisto played by Sasha Baron Cohen. Now,
+
+355
+00:33:34,600 --> 00:33:39,440
+he only had a small part in the show. He was only in
+the final episode, but you know, Sasha Baron Cohen
+
+356
+00:33:39,440 --> 00:33:44,180
+is a pretty big actor who's led some of his own
+films. And I thought his approach to the role of
+
+357
+00:33:44,180 --> 00:33:49,120
+Mephisto was pretty interesting. I don't know if
+you noticed, but in Mephisto's conversation with
+
+358
+00:33:49,120 --> 00:33:55,340
+Riri in the reflection of his spoon, you can see the
+actual demonic looking character. Oh, I did not
+
+359
+00:33:55,340 --> 00:34:00,900
+catch that. Really? Oh, dude, you got to go back and
+look at that because it's scary as hell. Like, I
+
+360
+00:34:00,900 --> 00:34:05,700
+don't know if you've seen the film in Sidious or if
+you know of that classic shot where the demon guy is
+
+361
+00:34:05,700 --> 00:34:10,110
+poking out behind Patrick Wilson's head. But it
+felt kind of like that. Like he has these glowing
+
+362
+00:34:10,110 --> 00:34:16,050
+eyes and he's all red. It's really fucking creepy.
+And I was really pleased with that look. Oh, I just
+
+363
+00:34:16,050 --> 00:34:21,920
+googled it. Yeah, no, I didn't need to see that. I
+was hoping that they would give a full on reveal of
+
+364
+00:34:21,920 --> 00:34:26,679
+the Mephisto character. But in hindsight, I kind
+of like this a little bit more where he's almost
+
+365
+00:34:26,679 --> 00:34:31,000
+like too evil to actually look at outside of the
+demonic appearance. You know, the overall
+
+366
+00:34:31,000 --> 00:34:36,980
+approach that they seem to take with the character
+was this very Faustian type angle where, you know,
+
+367
+00:34:36,980 --> 00:34:42,900
+he is a smooth talking deceiver. Right. He'll
+grant any wish you have in exchange for your soul,
+
+368
+00:34:42,900 --> 00:34:48,100
+essentially. Yeah, very charismatic. I could see
+why they went with Sushabar and Cohen for this
+
+369
+00:34:48,100 --> 00:34:53,880
+particular role because he has the range in that he
+can be conniving but also charming and
+
+370
+00:34:53,880 --> 00:34:59,110
+convincing. And he did this weird thing with
+accents that really made you feel like he was a
+
+371
+00:34:59,110 --> 00:35:04,000
+being of the world and had been doing this for a
+while. I'm just glad he didn't break into his
+
+372
+00:35:04,000 --> 00:35:13,040
+Kazakhstan accent. And my name is Mephisto. I like
+sex. It's nice. I was trying to figure out why they
+
+373
+00:35:13,040 --> 00:35:19,110
+even incorporated someone like Mephisto into an
+Iron Heart series. But it does make sense in terms
+
+374
+00:35:19,110 --> 00:35:25,360
+of the theme of how far will you go for the things you
+want? What bigger price is there than, you know,
+
+375
+00:35:25,360 --> 00:35:30,280
+your own soul dealing with a character like the
+devil himself? So then it kind of clicked for me why
+
+376
+00:35:30,280 --> 00:35:35,550
+he was here. Well, I also think it's appropriate
+that he's in a show that deals with the morality of
+
+377
+00:35:35,550 --> 00:35:42,070
+good and evil. When Riri is trying to choose the
+path between good and bad to have the ultimate
+
+378
+00:35:42,070 --> 00:35:49,100
+adversary be the embodiment of bad, of evil, I
+thought that was an interesting approach. And
+
+379
+00:35:49,100 --> 00:36:22,800
+what's also interesting is that it seemed like she
+did sell her soul. I don't like. Titan's Smash
+
+380
+00:36:22,800 --> 00:36:29,480
+every Tuesday, Max destruction, where TV and
+action heroes battle every Wednesday and Sendra
+
+381
+00:36:29,480 --> 00:36:35,140
+world, where anime champions clash every
+Thursday. Join us as we speculate on the matches
+
+382
+00:36:35,140 --> 00:36:39,640
+and armed with the power of mathematical
+simulations, discover who will emerge
+
+383
+00:36:39,640 --> 00:36:49,900
+victorious. Visit dynamicpodcast.com where we
+settle the debate and settle the score. Let's go
+
+384
+00:36:49,900 --> 00:36:55,500
+ahead and move on into the episode highlights. The
+first episode was called Take Me Home. In it, Riri
+
+385
+00:36:55,500 --> 00:37:00,640
+Williams requests for MIT to extend her grant to
+rebuild the Iron Heart armor is denied and she's
+
+386
+00:37:00,640 --> 00:37:04,740
+expelled from the school after getting caught
+completing assignments for other students in
+
+387
+00:37:04,740 --> 00:37:10,160
+exchange for money for her work. Riri takes off in
+her new suit of armor to her hometown of Chicago,
+
+388
+00:37:10,160 --> 00:37:15,360
+but she is locked out of the suit en route. After
+crashing and gathering the pieces, she returns
+
+389
+00:37:15,360 --> 00:37:20,000
+home, where it's revealed that she, her mother,
+Ronnie and her friend, Xavier, are still grieving
+
+390
+00:37:20,000 --> 00:37:25,740
+the deaths of Riri's late friend, Natalie and
+stepfather, Gary, who were both killed in a drive
+
+391
+00:37:25,740 --> 00:37:31,650
+by shooting. She's approached by John, the cousin
+of Parker Robbins, aka the Hood, to join their
+
+392
+00:37:31,650 --> 00:37:36,740
+crew. After passing a booby trapped audition,
+Riri is hesitant to join, but the hood convinces
+
+393
+00:37:36,740 --> 00:37:41,880
+her with financial compensation and the promise
+that their theft will serve the community. Back
+
+394
+00:37:41,880 --> 00:37:46,680
+home, Ronnie suspects something is wrong and
+probes Riri, suspecting she has unprocessed
+
+395
+00:37:46,680 --> 00:37:52,600
+grief. After falling asleep while mapping her
+brain to create a new AI for her armor, Riri awakens
+
+396
+00:37:52,600 --> 00:37:58,260
+to see that the intelligence is a recreation of
+Natalie. Now, one of the signs of a good character
+
+397
+00:37:58,260 --> 00:38:04,240
+is that they have what's known in literary terms as
+a ghost, because it's something that haunts them
+
+398
+00:38:04,240 --> 00:38:12,400
+from the past, whether it's shame or guilt or loss.
+I find it really fascinating that they gave Riri a
+
+399
+00:38:12,400 --> 00:38:19,400
+literal ghost in Natalie. I thought that was
+really smart because she absolutely is haunted by
+
+400
+00:38:19,400 --> 00:38:25,420
+Natalie. So for her to pop up accidentally was a
+great source of conflict throughout the whole
+
+401
+00:38:25,420 --> 00:38:30,480
+season. They did it really well. Absolutely. And
+they could have based the entire season off of that
+
+402
+00:38:30,480 --> 00:38:35,020
+conflict alone. And maybe they should have spent
+more time on it. But yeah, it was so well done,
+
+403
+00:38:35,020 --> 00:38:39,820
+especially progressing through the episodes
+where it culminated with Natalie believing she's
+
+404
+00:38:39,820 --> 00:38:45,800
+real and trying to meet her brother, Xavier, him
+rejecting her and then ultimately her dying,
+
+405
+00:38:45,800 --> 00:38:51,260
+essentially, and Riri coming to terms with how
+much that AI meant to her, despite being
+
+406
+00:38:51,260 --> 00:38:55,900
+standoffish with it at the beginning.
+Fascinating stuff. It was hands down the best part
+
+407
+00:38:55,900 --> 00:39:01,260
+of this series by far, I think. I was really
+surprised to see Eric Andre show up in the Marvel
+
+408
+00:39:01,260 --> 00:39:06,520
+Cinematic Universe. He played a character called
+Stuart Clark, also known as Rampage in the comic
+
+409
+00:39:06,520 --> 00:39:10,720
+books. I thought it was funny how he kept trying to
+get people to call him Rampage in the show. But
+
+410
+00:39:10,720 --> 00:39:16,610
+Rampage was the successor, basically, to Micro
+and he assisted the Punisher in the comics. And I
+
+411
+00:39:16,610 --> 00:39:22,020
+think it would be fucking awesome if it turns out
+that Stuart didn't actually die. And then he ends
+
+412
+00:39:22,020 --> 00:39:27,060
+up teaming up with John Berndthal's Punisher
+character. All right, he would be a great foil for
+
+413
+00:39:27,060 --> 00:39:33,460
+that character. Yeah, he's such a great comedian.
+Now, is John a character in the comics? Yeah, the
+
+414
+00:39:33,460 --> 00:39:39,700
+cousin John. His name is John King. He's the hood's
+cousin as he is in this show. And he's part of his
+
+415
+00:39:39,700 --> 00:39:44,720
+gang. He helps him out. At one point, he gets
+recruited into another gang called the Zodiac.
+
+416
+00:39:44,720 --> 00:39:47,960
+And I think that was the only time he had
+superpowers. But yeah, otherwise, he basically
+
+417
+00:39:47,960 --> 00:39:52,650
+serves the same function that he did in the show in
+the comic books. Cool, let's get to know. Episode
+
+418
+00:39:52,650 --> 00:39:57,860
+two was called, Will the real Natalie please stand
+up? While trying to come to terms with the Natalie
+
+419
+00:39:57,860 --> 00:40:03,360
+she created, Riri meets with the hood's crew to
+discuss extorting the CEO of a new underground
+
+420
+00:40:03,360 --> 00:40:08,820
+private highway system called Tunnel. Needing
+more parts to complete her armor before the job,
+
+421
+00:40:08,820 --> 00:40:13,940
+Natalie helps Riri track down a black market arms
+dealer named Joe McGillicuddy in the Chicago
+
+422
+00:40:13,940 --> 00:40:19,860
+suburbs. He takes her to his arms bunker and Riri
+finishes her armor before the heist. The crew's
+
+423
+00:40:19,860 --> 00:40:25,320
+hacker, Slug, gives Riri a computer virus on a
+flash drive, though she's startled by Natalie and
+
+424
+00:40:25,320 --> 00:40:30,920
+loses it. Improvising, Riri helps the crew still
+pull off the job with hood teleporting into the
+
+425
+00:40:30,920 --> 00:40:36,070
+CEO's car and extorting her. Escaping the
+underground tunnels, Ironheart is confronted by
+
+426
+00:40:36,070 --> 00:40:41,860
+a guard at gunpoint and Natalie freezes. The hood
+saves her with magic bullets, covering Riri's
+
+427
+00:40:41,860 --> 00:40:47,760
+escape back home. At the hideout, John tattoos
+over the hood's magic scars, which grow worse the
+
+428
+00:40:47,760 --> 00:40:52,320
+more he uses his cloak. Now could the hood
+teleport? I didn't think he could. I thought he
+
+429
+00:40:52,320 --> 00:40:57,240
+could just turn invisible. Is it like Frodo? Yeah,
+he could teleport, he could turn invisible, he can
+
+430
+00:40:57,240 --> 00:41:01,960
+imbue weapons with Hellfire. He's a pretty cool
+character and we're definitely going to use him in
+
+431
+00:41:01,960 --> 00:41:07,800
+a duel in the near future. But his power set does
+speak to another plot hole that I have in that, you
+
+432
+00:41:07,800 --> 00:41:11,700
+know, forget the fact that he probably could have
+gone straight to his father. Why couldn't he just
+
+433
+00:41:11,700 --> 00:41:18,180
+go straight to the CEOs? Why did he need all these
+elaborate plans when he can literally sneak by
+
+434
+00:41:18,180 --> 00:41:22,700
+anything and just show up like in their home or
+something? Yeah, just make him sign the contracts
+
+435
+00:41:22,700 --> 00:41:29,460
+at gunpoint. So much easier. Exactly. That is a
+plot hole, right? Yes. Yep, I would say. Now in your
+
+436
+00:41:29,460 --> 00:41:34,020
+character breakdown, you didn't mention the
+actress who played Natalie. I thought she did a
+
+437
+00:41:34,020 --> 00:41:38,820
+fantastic job though. I thought from the trailers
+and everything that she was going to be super
+
+438
+00:41:38,820 --> 00:41:44,240
+cringe, but she wasn't. She was fantastic.
+Absolutely. Yeah, she's played by Lyric Ross, who
+
+439
+00:41:44,240 --> 00:41:48,540
+I haven't seen in anything else before. But I
+thought she brought a lot of heart to the character
+
+440
+00:41:48,540 --> 00:41:55,540
+of Natalie, even as an AI for sure. It was kind of
+weird to see Natalie on a computer screen trying to
+
+441
+00:41:55,540 --> 00:42:00,300
+figure out how to escape into the rest of the house
+because she's kind of talking to herself on a
+
+442
+00:42:00,300 --> 00:42:05,650
+screen. But beyond that, yeah, there was a lot of
+humanity in her performance. Episode three was
+
+443
+00:42:05,650 --> 00:42:10,640
+called We Endanger Girl. After celebrating their
+success, tensions rise in the crew when
+
+444
+00:42:10,640 --> 00:42:16,000
+demolition expert Clown touches Parker's cloak
+and John Reprimands them. The hood announces
+
+445
+00:42:16,000 --> 00:42:22,060
+their next target, a biotech company named Air
+Loom. Jo visits RiRi at her home, blackmailing her
+
+446
+00:42:22,060 --> 00:42:27,020
+for engineering help with his biotech designs.
+Learning from the police that former crew member
+
+447
+00:42:27,020 --> 00:42:33,060
+Rampage was killed, RiRi suspects the hood and
+John of tying up loose ends. She decides to get a
+
+448
+00:42:33,060 --> 00:42:38,760
+sample of the hood to study it and learn more about
+what kind of threat he poses. RiRi visits Jo and
+
+449
+00:42:38,760 --> 00:42:44,420
+learns that he is Ezekiel Stain, the son of Obadiah
+Stain, the Iron Monger, but that he abhors his
+
+450
+00:42:44,420 --> 00:42:50,060
+father. She borrows a sample of his biomass skin
+design in order to get her laser cutter through Air
+
+451
+00:42:50,060 --> 00:42:55,150
+Loom's metal detectors, which she can use to get a
+piece of the hood's cloak. However, during the
+
+452
+00:42:55,150 --> 00:43:01,220
+heist, RiRi's laser is detected by security
+sensors and triggers a CO2 defense system. RiRi
+
+453
+00:43:01,220 --> 00:43:06,110
+tries to help rescue the crew, but is discovered by
+John out of her armor and with a piece of the hood's
+
+454
+00:43:06,110 --> 00:43:11,880
+cloak. He tries to kill her, but RiRi escapes with
+her armor's help, losing the biomass skin sample
+
+455
+00:43:11,880 --> 00:43:16,980
+in the process and leaving John to suffocate. The
+crew flees and the hood is distraught over the loss
+
+456
+00:43:16,980 --> 00:43:22,360
+of his cousin. He sees in a vision that RiRi was
+responsible for his death and RiRi has a panic
+
+457
+00:43:22,360 --> 00:43:27,200
+attack over the disastrous turn of events. This
+was a good episode. I think this was my favorite
+
+458
+00:43:27,200 --> 00:43:33,420
+episode. Just because of all the tension of RiRi
+working for the guy who she thinks maybe trying to
+
+459
+00:43:33,420 --> 00:43:39,400
+kill her and figuring out how she was going to get to
+him first. I thought it was a cool episode. It was
+
+460
+00:43:39,400 --> 00:43:44,760
+pretty good. There is another plot hole here
+though, in that a laser can cut off a piece of the
+
+461
+00:43:44,760 --> 00:43:51,260
+hood. You would think it would be heat resistant.
+You would think, but also by the end of the show,
+
+462
+00:43:51,260 --> 00:43:57,740
+RiRi ends up incorporating magic into her suit of
+armor and that ends up deleting Natalie, which
+
+463
+00:43:57,740 --> 00:44:03,760
+leads to the deal with Mephisto. You know what
+would circumvent all of that? A shit ton of lasers?
+
+464
+00:44:03,760 --> 00:44:08,900
+A fucking shit ton of lasers. Like the ones that
+Iron Man used in Iron Man 2, where he was fighting
+
+465
+00:44:08,900 --> 00:44:13,780
+alongside War Machine and he told him to duck and
+then he spun around and killed all of those hammer
+
+466
+00:44:13,780 --> 00:44:19,680
+droids. Just fucking put some of those on the Iron
+Heart armor. You'll be able to cut through
+
+467
+00:44:19,680 --> 00:44:24,900
+anything, including that fucking cloak and just
+destroy it. Okay, take it back. This is not a good
+
+468
+00:44:24,900 --> 00:44:30,460
+episode. This whole show sucks now. I understand
+why scientifically she wanted a piece of the
+
+469
+00:44:30,460 --> 00:44:35,220
+cloak, but I really think they kind of shot
+themselves in the foot with the reveal that it
+
+470
+00:44:35,220 --> 00:44:39,240
+could be cut with a laser beam. Especially when
+you're dealing with a character like Iron Heart
+
+471
+00:44:39,240 --> 00:44:45,760
+who can shoot fucking lasers. Major plot hole.
+What the heck? Yeah, yeah. But yeah, other than
+
+472
+00:44:45,760 --> 00:44:51,160
+that, great episode. Episode 4 was called Bad
+Magic. In a flashback, we see Parker and John
+
+473
+00:44:51,160 --> 00:44:56,640
+attempt to rob a mansion, but are discovered by
+security. In the present, RiRi meets with the crew
+
+474
+00:44:56,640 --> 00:45:01,820
+and suspects that the hood knows she was involved
+with John's death. She returns home and analyzes
+
+475
+00:45:01,820 --> 00:45:06,920
+the hood piece she recovered, which she learns is
+magic. She goes to visit Ezekiel and discovers
+
+476
+00:45:06,920 --> 00:45:12,000
+that he's been arrested for the discovery of his
+biomech tech found at the heirloom crime scene.
+
+477
+00:45:12,000 --> 00:45:17,220
+She visits the prison to apologize, and Parker
+deduces the connection between RiRi and Ezekiel
+
+478
+00:45:17,220 --> 00:45:22,720
+via news of the arrest. Afraid for the safety of her
+family and friends, RiRi fashions them force
+
+479
+00:45:22,720 --> 00:45:27,920
+field-emitting watches. Her mother, Ronnie,
+offers to help whatever situation she's in and
+
+480
+00:45:27,920 --> 00:45:33,460
+accompanies RiRi to Stanton's, a book and candy
+shop, to learn what might destroy the hood's
+
+481
+00:45:33,460 --> 00:45:39,200
+cloak. Madeline Stanton, a former comertase
+trainee and her daughter, Zelma, learned that the
+
+482
+00:45:39,200 --> 00:45:44,520
+hood is working with an ancient evil until RiRi
+that it cannot be destroyed. The hood sneaks into
+
+483
+00:45:44,520 --> 00:45:50,420
+Ezekiel's cell to form an alliance against RiRi
+and helps him escape prison. Natalie tries to help
+
+484
+00:45:50,420 --> 00:45:56,440
+RiRi by bringing her friend Xavier to her, but he's
+upset that the AI isn't as late sister's likeness.
+
+485
+00:45:56,440 --> 00:46:01,440
+The crew uses Ezekiel's biotech designs to outfit
+him with cybernetic enhancements, secretly
+
+486
+00:46:01,440 --> 00:46:06,440
+putting the hood in charge of the programming.
+Parker informs the crew that their next job is to
+
+487
+00:46:06,440 --> 00:46:12,560
+kill RiRi for being responsible for John's death.
+A lot of plot holes in this episode. Let me break
+
+488
+00:46:12,560 --> 00:46:17,540
+them down and see if we can get answers. First of
+all, why didn't the hood just go after RiRi's
+
+489
+00:46:17,540 --> 00:46:22,660
+family right away if he suspected her of being
+responsible for John's death? He said earlier
+
+490
+00:46:22,660 --> 00:46:30,240
+that he had plans for her, but you also can bend
+bullets, bro. Yeah, just shoot her at that point,
+
+491
+00:46:30,240 --> 00:46:36,100
+right? Why not? Why all the complicated schemes?
+The hood is not a very efficient villain, I'll say,
+
+492
+00:46:36,100 --> 00:46:41,320
+in this season. Next plot hole is if RiRi suspected
+the hood and John of being responsible for
+
+493
+00:46:41,320 --> 00:46:46,700
+Stewart's death, which she later brought up with
+Clown during their fight in the next episode, why
+
+494
+00:46:46,700 --> 00:46:50,760
+didn't she bring that up with the crew earlier?
+That Stewart was dead, because the crew would have
+
+495
+00:46:50,760 --> 00:46:55,680
+questioned it at that point. I know, there's
+something to be said for a dramatic timing though,
+
+496
+00:46:55,680 --> 00:47:00,760
+and maybe she really didn't fully trust the crew.
+That's fair, that's fair. Maybe that one's not a
+
+497
+00:47:00,760 --> 00:47:07,080
+plot hole. But how did authorities track the
+biomass skin to Ezekiel Stain, considering that a
+
+498
+00:47:07,080 --> 00:47:12,560
+lot of his stuff was black market and off the books?
+That's exactly what I was wondering. Now, to be
+
+499
+00:47:12,560 --> 00:47:18,560
+fair, he did mention to her that this black market
+stuff could be traced back to him, but it was not
+
+500
+00:47:18,560 --> 00:47:23,920
+clear how. And if it could, I was like, bro, what is
+the whole point of the black market then? I thought
+
+501
+00:47:23,920 --> 00:47:28,440
+this stuff was supposed to be untraceable. Right.
+Those are all the plot holes I have for that
+
+502
+00:47:28,440 --> 00:47:33,880
+episode. Other than them, I did enjoy episode 4. I
+really liked the scene where RiRi tried a bunch of
+
+503
+00:47:33,880 --> 00:47:37,780
+different scientific means to destroy the cloak.
+I don't know, I thought some of them were kind of
+
+504
+00:47:37,780 --> 00:47:44,200
+basic. Like she tried a small bomb, she tried acid.
+I guess she could have tried more lasers. Right, so
+
+505
+00:47:44,200 --> 00:47:50,160
+it's like a laser can cut it, but the heat couldn't,
+the bomb couldn't? You just ruined the whole show
+
+506
+00:47:50,160 --> 00:47:57,060
+for me. Sorry. Episode 5 is called Karma's A
+Glitch. In it, Natalie and the Iron Heart suit are
+
+507
+00:47:57,060 --> 00:48:02,480
+captured by the crew while RiRi meets with Zelma at
+a White Castle. Zelma explains her belief that the
+
+508
+00:48:02,480 --> 00:48:07,700
+hood belongs to Dormammu before the crew ambush
+and attack RiRi. She traps the blood siblings with
+
+509
+00:48:07,700 --> 00:48:12,600
+a force field watch, knocks Clown out with her own
+explosive, and manages to get her armor back
+
+510
+00:48:12,600 --> 00:48:18,340
+before being run down by Slug. However, Zeke shows
+up and uses his biotech energy and physiology to
+
+511
+00:48:18,340 --> 00:48:23,320
+shut down and destroy RiRi's armor. However,
+instead of killing her, he spares her life and
+
+512
+00:48:23,320 --> 00:48:28,140
+tells her to leave the city. She runs home and tells
+Ronnie to pack her bags to leave, confessing
+
+513
+00:48:28,140 --> 00:48:32,280
+everything. RiRi admits her obsession with
+building the suit was based on her trauma from
+
+514
+00:48:32,280 --> 00:48:36,800
+Natalie and Gary's death, and her mom takes her to
+the garage where the drive-by occurred and
+
+515
+00:48:36,800 --> 00:48:42,340
+reminds her of the good memories also had there.
+Inspired to build a new suit and fight back, RiRi
+
+516
+00:48:42,340 --> 00:48:47,060
+recruits her friends to transform the Plymouth
+Barracuda her and her dad restored into an
+
+517
+00:48:47,060 --> 00:48:52,400
+upgraded armor. Convinced magic is the only means
+of stopping the hood. She has Zelma perform a
+
+518
+00:48:52,400 --> 00:48:58,540
+ritual to imbue it with magic energy. Meanwhile,
+Parker, believing RiRi is dead, controls Zeke's
+
+519
+00:48:58,540 --> 00:49:04,060
+body and uses him to invade the mansion from the
+flashback, reveals to be his estranged father's
+
+520
+00:49:04,060 --> 00:49:08,920
+house. Revealing that he was kicked out at age 12
+and now has controlling stakes in his dad's
+
+521
+00:49:08,920 --> 00:49:17,320
+businesses, he forces him to sign over his estate.
+Zelma's Iron Heart Armor. Now this was a great
+
+522
+00:49:17,320 --> 00:49:23,680
+episode, but there is one small plot hole, and that
+is why didn't the hood accompany the crew at White
+
+523
+00:49:23,680 --> 00:49:28,560
+Castle? Like the hood was there for all the other
+jobs that the crew was doing, and I don't know what
+
+524
+00:49:28,560 --> 00:49:33,060
+he was doing at the time they were trying to kill
+RiRi, but if he had joined them, he would have been
+
+525
+00:49:33,060 --> 00:49:38,040
+there to either finish the job or at least see that
+Ezekiel Stain was lying to him. Yeah, you kind of
+
+526
+00:49:38,040 --> 00:49:44,280
+put too much faith in Zeke, I guess, which made no
+sense because he was new to the crew and he hadn't
+
+527
+00:49:44,280 --> 00:49:50,020
+earned that trust yet. Well, I was still trying to
+figure out how Zeke was able to defeat RiRi so
+
+528
+00:49:50,020 --> 00:49:55,060
+easily. Was his electricity draining her
+battery? Is that what it was? It seemed like it kind
+
+529
+00:49:55,060 --> 00:50:00,480
+of short circuited her systems or something like
+that. Okay, that makes a little bit more sense, but
+
+530
+00:50:00,480 --> 00:50:04,860
+you're right about the hood not being there. He
+definitely should have been to contribute. And
+
+531
+00:50:04,860 --> 00:50:10,140
+confirm the kill. I did think it was a little weak
+that Zeke just told her to run away. It felt kind of
+
+532
+00:50:10,140 --> 00:50:14,520
+like a convenient cop out. Despite the fact that
+the show went out of the way to establish him as more
+
+533
+00:50:14,520 --> 00:50:20,540
+of a morally gray person, but that in itself is also
+a cop out considering he is a villain in the comic
+
+534
+00:50:20,540 --> 00:50:24,600
+books. It was all just too convenient.
+Absolutely. I hear that all the time where it's
+
+535
+00:50:24,600 --> 00:50:28,420
+like, oh, superhero movies are done. Why doesn't
+the villain just kill the hero when he has the
+
+536
+00:50:28,420 --> 00:50:34,780
+chance? This is the perfect example of that. Yeah,
+for sure. I will say I did love the White Castle
+
+537
+00:50:34,780 --> 00:50:41,020
+fight showing how resourceful RiRi is outside of
+the armor. It kind of reminded me of Iron Man 3,
+
+538
+00:50:41,020 --> 00:50:47,240
+where we saw Tony Stark take out all the henchmen at
+what he thought was the Mandarin's mansion. And
+
+539
+00:50:47,240 --> 00:50:51,760
+you know, he went to Home Depot and got all
+creative. Here, RiRi had to get creative inside a
+
+540
+00:50:51,760 --> 00:50:56,860
+burger joint and really prove her metal. I don't
+know why Zelma didn't help her. Yeah, I guess she
+
+541
+00:50:56,860 --> 00:51:00,880
+could have used her magic to help fight back,
+right? She seems like a pretty powerful
+
+542
+00:51:00,880 --> 00:51:06,560
+sorceress. I mean, she's not that powerful. She's
+still learning in the books she is Dr. Strange's
+
+543
+00:51:06,560 --> 00:51:12,080
+librarian. Oh, interesting. But I mean, she could
+transform candy into other candy. Right,
+
+544
+00:51:12,080 --> 00:51:19,120
+exactly. So she could like transform one of
+Clown's bombs into candy. Into candy. Yeah. The
+
+545
+00:51:19,120 --> 00:51:24,380
+sixth and final episode is called The Past is the
+Past. In a flashback, Parker and John split up
+
+546
+00:51:24,380 --> 00:51:29,300
+after being discovered by security. Cornered,
+Parker is approached by Mephisto who helps him
+
+547
+00:51:29,300 --> 00:51:34,200
+magically escape. He assures Parker that he can
+help him achieve his desire for power, respect and
+
+548
+00:51:34,200 --> 00:51:40,480
+wealth by giving him the cloak in exchange for his
+soul. And Parker accepts the deal. In the present,
+
+549
+00:51:40,480 --> 00:51:45,580
+the hood argues with Zeke about the emptiness of
+his ambitions. RiRi tries to recreate Natalie but
+
+550
+00:51:45,580 --> 00:51:51,480
+can't and vows to defeat the hood and use its magic
+to bring her back. Parker accuses Mephisto of not
+
+551
+00:51:51,480 --> 00:51:55,320
+fulfilling his end of the bargain, but Mephisto
+threatens to replace him with someone more
+
+552
+00:51:55,320 --> 00:52:01,520
+capable. Ironheart and Zeke fight in a rematch,
+and he allows her to knock him out to reset Parker's
+
+553
+00:52:01,520 --> 00:52:06,640
+programming override. She confronts the hood and
+the two fight with the hood transforming into a
+
+554
+00:52:06,640 --> 00:52:12,200
+demonic figure. RiRi detonates a magic energy
+blast that seemingly destroys her armor, but it's
+
+555
+00:52:12,200 --> 00:52:16,700
+revealed to be a holographic illusion and she
+removes the hood's cloak and he's left in pain
+
+556
+00:52:16,700 --> 00:52:21,520
+without it. Leaving the hideout RiRi is
+confronted by Mephisto who also assures her he can
+
+557
+00:52:21,520 --> 00:52:28,180
+help her achieve her desires. In a vision of the
+future, or perhaps, reality, RiRi hacks the
+
+558
+00:52:28,180 --> 00:52:34,640
+suit's magic to recreate Natalie, or as it turns
+out, resurrect the real Natalie. Dark magic scars
+
+559
+00:52:34,640 --> 00:52:41,400
+form on her skin. In a mid-credits scene, Parker
+asks Selma for help. Now the ending aside, I really
+
+560
+00:52:41,400 --> 00:52:47,160
+liked the final battle between Ironheart and the
+hood. I thought it had a great tit for tat momentum
+
+561
+00:52:47,160 --> 00:52:54,080
+in that she was able to negate his invisibility and
+teleporting magic, but he transformed into a
+
+562
+00:52:54,080 --> 00:53:00,860
+demon who was ripping her armor apart. But then she
+set off a magic blast that hurt him but also left her
+
+563
+00:53:00,860 --> 00:53:06,280
+vulnerable. There was a lot of back and forth that
+felt very satisfying in terms of who's going to
+
+564
+00:53:06,280 --> 00:53:12,440
+win. The hood was definitely a good villain. I did
+find it odd that Mephisto or Mephisto,
+
+565
+00:53:12,440 --> 00:53:21,380
+apparently, is pronounced Mephisto. He was
+agreed to every single aspect of our bargain. I'm
+
+566
+00:53:21,380 --> 00:53:26,940
+like, no you didn't. You promised he would be a
+king. What are you talking about? Well, he did
+
+567
+00:53:26,940 --> 00:53:31,200
+achieve that. He was sitting at his father's
+table. I don't know. When Mephisto said that, I was
+
+568
+00:53:31,200 --> 00:53:36,380
+just like, whatever bro, no you didn't. The devil
+is a liar. Yeah, he definitely didn't tell him
+
+569
+00:53:36,380 --> 00:53:40,760
+about the whole magic scarring thing. I think if he
+would have admitted that, maybe he wouldn't have
+
+570
+00:53:40,760 --> 00:53:45,140
+gone through with the deal. Although Riri knew
+about the magic scarring and she still went
+
+571
+00:53:45,140 --> 00:53:52,100
+through with the deal too. So weird. Such a weird
+choice. Do you want there to be a season two of this?
+
+572
+00:53:52,100 --> 00:53:56,460
+You know, I really like the character of Riri
+Williams, especially what they did with her in
+
+573
+00:53:56,460 --> 00:54:02,600
+this season. I would like there to be a season two,
+but I don't want it to continue the story of where
+
+574
+00:54:02,600 --> 00:54:08,700
+they left it off here. I think Riri belongs
+squarely again in the tech side of Marvel, not the
+
+575
+00:54:08,700 --> 00:54:14,260
+magic side. And I would like to see the hood return,
+but maybe as a villain against someone like Moon
+
+576
+00:54:14,260 --> 00:54:19,900
+Knight or Blade or Ghost Rider or something like
+that. That'd be cool. I keep hearing rumors that
+
+577
+00:54:19,900 --> 00:54:26,180
+Mephisto is going to kind of take over for Kang as
+the primary antagonist for this upcoming
+
+578
+00:54:26,180 --> 00:54:31,960
+multiverse saga. How would you feel about that? I
+could totally see that working, for sure. That'd
+
+579
+00:54:31,960 --> 00:54:37,340
+be awesome. Mephisto is a big enough character to
+hold his own against an entire Avengers lineup. If
+
+580
+00:54:37,340 --> 00:54:44,100
+they do that, I kind of wish they would have
+introduced him in a different project than this
+
+581
+00:54:44,100 --> 00:54:49,280
+show. Well, if they do do that, maybe it'll get more
+people to watch this season in the future.
+
+582
+00:54:49,280 --> 00:54:55,000
+Overall, there was a lot to like about the show, a
+little bit to dislike, a lot to question. It's kind
+
+583
+00:54:55,000 --> 00:55:00,740
+of a mixed bag. I think the strong elements within
+it really do a lot to make up for its shortcomings.
+
+584
+00:55:00,740 --> 00:55:05,620
+The season definitely carries a subtext of deeper
+emotional meaning and thematic importance
+
+585
+00:55:05,620 --> 00:55:12,500
+despite the weak supporting cast, the plot holes,
+and the ambiguous ending. All things considered,
+
+586
+00:55:12,500 --> 00:55:20,100
+I'm rating Iron Heart season 1 3.5 stars out of 5. A
+fresh rating on Rotten Tomatoes. I would agree
+
+587
+00:55:20,100 --> 00:55:24,800
+with you that it's a mixed bag. The lead
+performances were great. The special effects
+
+588
+00:55:24,800 --> 00:55:30,140
+were great. The themes were great. That said, I do
+think the writers dropped the ball in several
+
+589
+00:55:30,140 --> 00:55:36,020
+instances, including the ending, including the
+plot holes. I do think ultimately the good
+
+590
+00:55:36,020 --> 00:55:40,760
+outweighs the bad, which is why I would still
+recommend it. So I would agree with your 3.5 star
+
+591
+00:55:40,760 --> 00:55:47,020
+rating, especially if Mofisto is going to be a
+major player in the MCU going forward. And
+
+592
+00:55:47,020 --> 00:55:53,540
+especially if they're able to clear up the ending
+with a subsequent season or some other project. I
+
+593
+00:55:53,540 --> 00:55:57,120
+think that would actually make this season better
+if they cleaned everything up in a satisfying
+
+594
+00:55:57,120 --> 00:56:02,720
+manner. Still probably not to elevate the show
+beyond a 3.5 star rating though. But that does it
+
+595
+00:56:02,720 --> 00:56:40,800
+for this review. H.J .9K, help close us out. Next
+episode is not as good as this episode, because
+
+596
+00:56:40,800 --> 00:56:47,380
+it's going to be a review of the Superman movie,
+which is almost certainly going to be 3 stars or
+
+597
+00:56:47,380 --> 00:56:54,520
+under. H.J .9K, 5 stars. It's going to be a 5 star
+start to the new DCU. Just you wait. But that does it
+
+598
+00:56:54,520 --> 00:56:58,900
+for this episode. We want to give a big thanks to our
+executive producers, John Staroski, Zachary
+
+599
+00:56:58,900 --> 00:57:03,560
+Hepburn, Dustin Belcom, Mickey Mathen-Geehan,
+Nathaniel Wagner, Levi Yatn, Austin Wisalowski,
+
+600
+00:57:03,560 --> 00:57:09,360
+AJ Dunkerly, Nick Obanto, Scott Camacho, Gil
+Camacho, Adam Spees, Dean Molesky, Devin Davis,
+
+601
+00:57:09,360 --> 00:57:14,240
+Joseph Kirsting, Josh Leiner, Mike Williams,
+Oscar Galvez, and Paul Graves for helping make
+
+602
+00:57:14,240 --> 00:57:20,100
+this podcast possible. And we'll talk to you guys
+next week. Up up and away, true believers. For the
+
+603
+00:57:20,100 --> 00:57:25,620
+Gen Z fam, Iron Heart was low-key mid but didn't
+take crazy L's in its flop era and is giving
+
+604
+00:57:25,620 --> 00:57:28,840
+scabiddy toilet-riss vibes on God. Period.
