@@ -1,0 +1,4043 @@
+1
+00:00:00,000 --> 00:00:28,040
+This is a DynaMic Network Podcast. Hi, welcome to
+the DynaMic Duel Podcast, a weekly show where we
+
+2
+00:00:28,040 --> 00:00:33,220
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:33,220 --> 00:00:38,800
+their characters in stat-based battle
+simulations. I'm Johnny DC. And I'm his twin
+
+4
+00:00:38,800 --> 00:00:45,520
+brother, Marvelous Joe. And in this episode, we
+are reviewing Netflix's Season 2 of The Sandman
+
+5
+00:00:45,520 --> 00:00:52,940
+series. It's a fantastic series based off of one of
+the best graphic novels ever made, definitely one
+
+6
+00:00:52,940 --> 00:00:59,680
+of my favorites, so I can't wait to talk about
+Season 2. Yeah, not just one of your favorites. I'm
+
+7
+00:00:59,680 --> 00:01:06,940
+going to say probably the best adapted graphic
+novel to television ever put out there. And
+
+8
+00:01:06,940 --> 00:01:12,480
+there's not many direct adaptations of graphic
+novels out there, but this definitely sets a high
+
+9
+00:01:12,480 --> 00:01:17,040
+bar for future ones. We're going to talk about the
+show later on in this episode. Before that, we're
+
+10
+00:01:17,040 --> 00:01:21,640
+going to break down the comic book movie news from
+the past week, of which we just got a rinky dink look
+
+11
+00:01:21,640 --> 00:01:27,900
+at the new Spider suit for Spider-Man Brand New
+Day. Yeah, rinky dink is the operative term right
+
+12
+00:01:27,900 --> 00:01:32,560
+there, for sure. As always, we list our segment
+times in our episode description, so feel free to
+
+13
+00:01:32,560 --> 00:01:37,100
+check out the show notes if you want to skip ahead to
+a particular topic. Our artificially
+
+14
+00:01:37,100 --> 00:01:44,120
+intelligent dual simulator, AJ9K, has a quick
+message for our listeners, so listen up. Why hello
+
+15
+00:01:44,120 --> 00:01:49,160
+there. Do you want even more from this podcast?
+Then become a part of the dynamic dual community on
+
+16
+00:01:49,160 --> 00:01:54,460
+Patreon where you can choose from three tiers. The
+Dynamic 2.0 tier gives you access to our Discord
+
+17
+00:01:54,460 --> 00:01:59,720
+chat server, the Fantastic 4 tier gives you two
+bonus episodes each month, and the X-Force tier
+
+18
+00:01:59,720 --> 00:02:05,460
+makes you an executive producer of this show.
+Lastly, the Dynamite Podcast Network tier lets
+
+19
+00:02:05,460 --> 00:02:10,020
+you create your own podcast using this Monte Carlo
+simulator. Johnny and Joe will help you develop
+
+20
+00:02:10,020 --> 00:02:15,020
+your show, provide graphic support and
+consultation, and get you simulation results.
+
+21
+00:02:15,020 --> 00:02:20,640
+Pitch the twins your ideas via email at
+dynamicdualpodcast at gmail.com. Check it out at
+
+22
+00:02:20,640 --> 00:02:27,240
+patreon.com slash dynamicdual. Pip pip cheerio.
+Thanks AJ9K and thanks to everyone who supports
+
+23
+00:02:27,240 --> 00:02:31,580
+the podcast. Be sure to tune in to the other shows on
+the Dynamite Podcast Network this week,
+
+24
+00:02:31,580 --> 00:02:36,080
+including the console combat podcast where hosts
+John and Dean simulate battles between popular
+
+25
+00:02:36,080 --> 00:02:42,080
+video game characters. In yesterday's episode,
+they reviewed Season 1 of Twisted Metal. Over on
+
+26
+00:02:42,080 --> 00:02:46,860
+the Max Destruction podcast, hosts Scotty and
+Gilly pit your favorite action heroes from film
+
+27
+00:02:46,860 --> 00:02:51,420
+and television against each other. They're
+taking a brief hiatus during the month of August,
+
+28
+00:02:51,420 --> 00:02:56,620
+so make sure to get caught up on all of their latest
+episodes. On the Sendro World podcast hosts
+
+29
+00:02:56,620 --> 00:03:01,220
+Zachary Hepburn speculates on fights between fan
+favorite anime and manga characters. In his next
+
+30
+00:03:01,220 --> 00:03:07,740
+episode, Zach is going to reveal who'd win between
+Akuto Sai from Demon King Daimo versus Amos
+
+31
+00:03:07,740 --> 00:03:13,940
+Voldigoed from Misfit of Demon Academy. Visit
+dynamicpodcasts.com or click the link in our show
+
+32
+00:03:13,940 --> 00:03:19,720
+notes to listen to all of the shows in the Dynamite
+Podcast Network. But with that out of the way,
+
+33
+00:03:19,720 --> 00:03:27,380
+quick to the no prize! A no prize is an award that
+Marvel used to give out to fans. Our version, the
+
+34
+00:03:27,380 --> 00:03:32,520
+Dynamic Dual No Prize, is a digital award we post on
+Instagram for the person that we feel gave the best
+
+35
+00:03:32,520 --> 00:03:38,580
+answer to our question of the week. Last week we
+asked you guys, if you could reimagine a Marvel or
+
+36
+00:03:38,580 --> 00:03:44,440
+DC superhero in an ancient culture, what
+superhero and culture would you choose? This is
+
+37
+00:03:44,440 --> 00:03:50,920
+coming off of the trailer we got for Aztec Batman,
+which reimagines the origins of Batman in the
+
+38
+00:03:50,920 --> 00:03:55,660
+ancient Aztec culture. We got quite a few answers,
+we're going to break down this week's 3 honorable
+
+39
+00:03:55,660 --> 00:04:01,620
+mentions before revealing the no prize winner.
+Our first honorable mention goes to... By Dear
+
+40
+00:04:01,620 --> 00:04:07,840
+Bangura. Who said? The character I would choose to
+change arrows would be Punisher. I would put him in
+
+41
+00:04:07,840 --> 00:04:14,120
+pre-colonial West Africa. He would most likely
+have a story where his family was killed by the
+
+42
+00:04:14,120 --> 00:04:19,500
+French or another superpower at the time. And he
+would be there to free slaves to avenge those that
+
+43
+00:04:19,500 --> 00:04:25,680
+were taking and to make sure the freedom had spread
+out throughout the continent. He would be a power
+
+44
+00:04:25,680 --> 00:04:32,400
+for a lot of other characters, he would be the
+strength of Africa and he would make sure that his
+
+45
+00:04:32,400 --> 00:04:38,480
+story changes. And right out of the gate with a
+pretty hardcore answer, By Dear suggested a West
+
+46
+00:04:38,480 --> 00:04:46,340
+African Punisher set during the early days of the
+slave trade. And that would be crazy to watch. I
+
+47
+00:04:46,340 --> 00:04:52,480
+could imagine a West African soldier donning the
+emblem of the skull and they don't have guns at the
+
+48
+00:04:52,480 --> 00:04:59,280
+time, right? So he'd probably use a sword or a spear
+and he's just avenging the murder of his family.
+
+49
+00:04:59,280 --> 00:05:03,480
+Now the Punisher in the comic book isn't really
+altruistic and fight for a larger goal of freeing
+
+50
+00:05:03,480 --> 00:05:08,060
+slaves or anything like that. He just kills
+because he hates criminals. And this version of
+
+51
+00:05:08,060 --> 00:05:14,080
+the Punisher I don't think would be fighting
+necessarily just to prevent slavery but largely
+
+52
+00:05:14,080 --> 00:05:18,740
+out of his anger for the people capturing slaves.
+Right, he doesn't kill out of vengeance, he kills
+
+53
+00:05:18,740 --> 00:05:25,900
+out of punishment. Great answer by Dear, our next
+honorable mention goes to Scott Camacho who said,
+
+54
+00:05:25,900 --> 00:05:33,320
+Ancient cultures. Hmm, let's see. My characters
+would be the Justice League and I want to see them
+
+55
+00:05:33,320 --> 00:05:42,620
+portrayed in ancient Egypt. Superman is raw,
+Wonder Woman as segment, the Flash as shoe and
+
+56
+00:05:42,620 --> 00:05:49,580
+Aquaman as sabok. The aesthetic of it would look
+amazing. I love that idea. I think that's a really
+
+57
+00:05:49,580 --> 00:05:55,760
+cool idea. The Egyptian pantheon could very much
+be like a superhero team. So to translate those
+
+58
+00:05:55,760 --> 00:06:01,800
+characters so well into their Justice League
+counterparts, like right when he said Egyptian, I
+
+59
+00:06:01,800 --> 00:06:06,760
+already knew like what deities he was going to
+connect to the Justice League characters. I love
+
+60
+00:06:06,760 --> 00:06:10,580
+that choice. I think that would be a really cool
+aesthetic as well. And then you could say that
+
+61
+00:06:10,580 --> 00:06:15,300
+Superman was behind the pyramids or something
+like the Egyptian pyramids were the remains of the
+
+62
+00:06:15,300 --> 00:06:19,960
+ships that were sent from Krypton or something
+like that. It writes itself. Great answer Scotty,
+
+63
+00:06:19,960 --> 00:06:26,340
+our next honorable mention goes to Lorenzo Valdez
+who said, This is Lorenzo Valdez calling in once
+
+64
+00:06:26,340 --> 00:06:32,560
+again. My idea is basically going off of what
+Smallville did with Native American culture with
+
+65
+00:06:32,560 --> 00:06:39,800
+the Kowachi Caves, but taking it a step further and
+setting the story before America was colonized
+
+66
+00:06:39,800 --> 00:06:47,780
+and having a Native American version of Lana Lang
+and Kal-El arrives and having the story go from
+
+67
+00:06:47,780 --> 00:06:52,720
+there and explore Native American culture even
+further. Kalana forever and always. Bye-bye.
+
+68
+00:06:52,720 --> 00:06:59,020
+Yeah, I'm not sure if the Kowachi tribe was real. I
+think Kansas was actually populated by like the
+
+69
+00:06:59,020 --> 00:07:07,120
+Osage. Yeah, them and the Wichita and the Pani and
+the Kansa according to Google. Either way, I think
+
+70
+00:07:07,120 --> 00:07:12,640
+the Kryptonian ship landing in pre-colonial
+America would make for an awesome story. I'm not
+
+71
+00:07:12,640 --> 00:07:17,540
+sure how it would affect his upbringing and how he
+would turn out as a character. It would be really
+
+72
+00:07:17,540 --> 00:07:22,300
+interesting to explore. Yeah, it'd be kind of
+dangerous because I imagine he would be revered as
+
+73
+00:07:22,300 --> 00:07:28,280
+a God during that time. And how would he not let that
+go to his head? That's the tricky part. He'd have to
+
+74
+00:07:28,280 --> 00:07:33,120
+have astute parents and maybe he would. Maybe they
+would teach him about humility. It could be
+
+75
+00:07:33,120 --> 00:07:38,260
+awesome. Kind of like Superman Red Sun,
+reimagined him landing in Soviet Russia. Landing
+
+76
+00:07:38,260 --> 00:07:43,200
+in pre-colonial America can make for a damn good
+story too. Great answer, Lorenzo. We want to give a
+
+77
+00:07:43,200 --> 00:07:49,900
+quick shout out to Alex Albro and Cade Lehmann for
+taking the time to visit our website and record an
+
+78
+00:07:49,900 --> 00:07:56,200
+answer. Yeah, Alex was not able to record an
+answer, but he did write in suggesting an ancient
+
+79
+00:07:56,200 --> 00:08:01,560
+Greek Steve Rogers who fights against the
+mythical Hydra. I thought that was pretty cool.
+
+80
+00:08:01,560 --> 00:08:06,620
+And Cade Lehmann suggested an ice man who was born
+in Antarctica. But the winner of this week's No
+
+81
+00:08:06,620 --> 00:08:12,260
+Prize is Travis Herndon, who said... What's up,
+the name of the dude is Travis here. Shout out to my
+
+82
+00:08:12,260 --> 00:08:18,880
+evil twin. So my answer will be Ghost Rider in
+Nordic culture. Magi is seeing a badass Viking
+
+83
+00:08:18,880 --> 00:08:26,820
+Ghost Rider going around hacking dudes up with
+dual axes and other Viking style weapons. And
+
+84
+00:08:26,820 --> 00:08:32,679
+that's for his vehicle, a Viking ship. And before
+you say it, when it comes to land, it's being
+
+85
+00:08:32,679 --> 00:08:38,500
+carried by the souls of the damned while he's on
+land. So I'm mad at seeing that charging at you. Oh,
+
+86
+00:08:38,500 --> 00:08:45,600
+shit. That's hardcore. That is so hardcore. You
+know, Ghost Rider has always been pretty metal,
+
+87
+00:08:45,600 --> 00:08:51,900
+but I think this would just take that to the next
+level with a Viking Ghost Rider who wields twin
+
+88
+00:08:51,900 --> 00:08:55,640
+battle axes. And I mentioned there will still be
+chains on those and everything like that. He'd
+
+89
+00:08:55,640 --> 00:09:00,200
+probably have a fiery skull underneath his Viking
+helmet. But what really sold me on this was
+
+90
+00:09:00,200 --> 00:09:05,960
+Travis's idea for his vehicle to be a Viking ship
+that rides on the souls of the damned. And I don't
+
+91
+00:09:05,960 --> 00:09:11,560
+know if that would look like it was sailing on fire
+or if it was sailing off of skeletons carrying it or
+
+92
+00:09:11,560 --> 00:09:17,080
+whatever, but either way, that's fucking badass.
+That actually needs to be a thing. Like, I don't
+
+93
+00:09:17,080 --> 00:09:23,640
+care if it's a toy or a comic arc. That should be
+real. Yeah, they've explored multiple Ghost
+
+94
+00:09:23,640 --> 00:09:27,920
+Riders throughout history in the comic books, but
+I don't remember there being a Viking one. So yeah,
+
+95
+00:09:27,920 --> 00:09:32,300
+they could totally kind of tack that on there.
+Great answer, Travis. You win this week's No
+
+96
+00:09:32,300 --> 00:09:36,900
+Price. If you the listener want to shut in winning
+your own No Price, stay tuned to later on in this
+
+97
+00:09:36,900 --> 00:09:47,120
+episode when we'll be asking another question of
+the week. But now that that's done, on to the news.
+
+98
+00:09:47,120 --> 00:09:52,720
+All right, this past week we got our first look at
+Tom Holland's new Spider-Man suit that he's going
+
+99
+00:09:52,720 --> 00:09:58,760
+to wear in Spider-Man brand new day, which is being
+directed by Daniel Destin Cretan and being filmed
+
+100
+00:09:58,760 --> 00:10:05,520
+right now. I believe they're currently filming in
+Scotland, actually. And the way that Sony went
+
+101
+00:10:05,520 --> 00:10:10,640
+about revealing it wasn't the most exciting. They
+kind of like showed this animatic of what the suit
+
+102
+00:10:10,640 --> 00:10:15,180
+could look like, but it was mostly in shadow and it
+was only like a 9 second video. That wasn't really
+
+103
+00:10:15,180 --> 00:10:19,840
+worth talking about. And then there was also this
+other video of Tom Holland coming out from behind a
+
+104
+00:10:19,840 --> 00:10:23,780
+door and, you know, he's like pumped to start
+filming and he's wearing the suit. I was largely
+
+105
+00:10:23,780 --> 00:10:30,060
+unimpressed by the suit. But since those videos
+have come out, better high res versions of the suit
+
+106
+00:10:30,060 --> 00:10:35,960
+were taken during the production of the movie and
+they give us a much clearer look of what the new suit
+
+107
+00:10:35,960 --> 00:10:40,860
+is going to look like. And I will say it's not the
+same suit that we saw at the end of Spider-Man No Way
+
+108
+00:10:40,860 --> 00:10:47,560
+Home, where that one was like kind of shiny. It had
+more of a cyan blue color. It was pretty basic. This
+
+109
+00:10:47,560 --> 00:10:53,460
+new suit is also pretty basic, but it kind of feels a
+lot more similar to the suits that he's had in the
+
+110
+00:10:53,460 --> 00:10:59,180
+past. If anything, actually the suit that it
+reminds me most of is Andrew Garfield's from the
+
+111
+00:10:59,180 --> 00:11:05,740
+amazing Spider-Man 2, although the blue on this
+suit is not quite as dark as that one was. And that
+
+112
+00:11:05,740 --> 00:11:10,680
+was a great suit. That was a fantastic suit. That
+one had more like a navy color and this new
+
+113
+00:11:10,680 --> 00:11:16,240
+Spider-Man suit is more like a cobalt blue is what
+I'll say. I gotta say it's more spandexy feeling
+
+114
+00:11:16,240 --> 00:11:22,060
+than I would have thought. Like I know he made his
+costume at the very end of the last movie, but this
+
+115
+00:11:22,060 --> 00:11:26,300
+one definitely has that more homemade feel I would
+say. And I don't know if it's just because of the
+
+116
+00:11:26,300 --> 00:11:32,020
+harnesses that he was wearing on set. Maybe
+they'll just smooth out all the wrinkles in post,
+
+117
+00:11:32,020 --> 00:11:37,220
+but that was my first impression. Yeah, same here.
+The material seems a lot thinner than the suits
+
+118
+00:11:37,220 --> 00:11:43,040
+that he's worn in the past, especially the ones
+that were created by Tony Stark. Those seemed a lot
+
+119
+00:11:43,040 --> 00:11:48,680
+more heavy duty. But that's why I compared this
+suit to the amazing Spider-Man 2 suit because when
+
+120
+00:11:48,680 --> 00:11:54,380
+Spider-Man was swinging through the city in that
+movie, like the wind was like ruffling the spandex
+
+121
+00:11:54,380 --> 00:11:59,200
+of his outfit because the material was so thin,
+right? Here you could also tell that the material
+
+122
+00:11:59,200 --> 00:12:06,040
+is similarly thin. The emblem is not quite as large
+as Andrew Garfield's was. The mask is very similar
+
+123
+00:12:06,040 --> 00:12:11,980
+to his very first mask in Homecoming. But what's
+interesting with this new suit is that his web
+
+124
+00:12:11,980 --> 00:12:17,000
+shooters look a whole lot different than they did
+in previous films. They almost look like steel
+
+125
+00:12:17,000 --> 00:12:23,080
+drinking flasks attached to his wrists. They are
+very prominent in this new suit. I don't know how I
+
+126
+00:12:23,080 --> 00:12:29,120
+feel about that because they seem like they would
+make for easy targets for bad guys, right? To just
+
+127
+00:12:29,120 --> 00:12:34,320
+take out his web shooters. But they're there and
+it'll be interesting to see how they look in
+
+128
+00:12:34,320 --> 00:12:39,140
+battle. I'm sad that we're going to lose a lot of the
+cool features that Spider-Man had throughout his
+
+129
+00:12:39,140 --> 00:12:46,000
+initial trilogy. Where he had the web gliders and
+the Spidey signal, Spider Tracers, things like
+
+130
+00:12:46,000 --> 00:12:50,320
+that. Things that he kind of developed over time in
+the comic books and incorporated into his suit.
+
+131
+00:12:50,320 --> 00:12:55,760
+That I thought kind of added to his appeal as
+somewhat of a tech hero and that he has a lot of
+
+132
+00:12:55,760 --> 00:13:00,780
+homemade tech that he incorporates. I hope he has
+something going for him just beyond the web
+
+133
+00:13:00,780 --> 00:13:05,480
+shooters. Just because I don't know, I just really
+like the web gliders I always have on his suit. I do
+
+134
+00:13:05,480 --> 00:13:11,200
+think that in modern Spider-Man movies there does
+need to be at least two or three different
+
+135
+00:13:11,200 --> 00:13:15,960
+iterations of the suits. I mean, look at the last
+film, how many he had. They'll come up with some
+
+136
+00:13:15,960 --> 00:13:21,600
+excuse to make some kind of toy wearing some kind of
+different suit. So I'd be surprised if this was the
+
+137
+00:13:21,600 --> 00:13:26,140
+only one in the film. I think you're right. Yeah, I
+think you're absolutely right. Although, you
+
+138
+00:13:26,140 --> 00:13:31,500
+know, this is rumored to be more of a street level
+style Spider-Man movie, so we'll see. That being
+
+139
+00:13:31,500 --> 00:13:36,460
+said, if this is a street level Spider-Man outfit,
+I'm totally for it. It looks very classic in that
+
+140
+00:13:36,460 --> 00:13:41,720
+regard. You'll just have bullet riddled
+Spider-Man suit full of holes. Battle damaged
+
+141
+00:13:41,720 --> 00:13:45,780
+Spidey. That'll be the new action figure they
+sell. But there's not really too much else to
+
+142
+00:13:45,780 --> 00:13:49,160
+comment on the suits. I'm sure we'll have a whole
+lot more to say when they start releasing
+
+143
+00:13:49,160 --> 00:13:53,660
+marketing for the film, which won't be for a while
+because they just started filming. So we probably
+
+144
+00:13:53,660 --> 00:13:58,120
+won't see like a trailer or anything until the end
+of this year. Or maybe even after that because
+
+145
+00:13:58,120 --> 00:14:03,480
+really the Spider-Man movie doesn't come out
+until July 31st, almost a whole year from now in
+
+146
+00:14:03,480 --> 00:14:09,500
+2026. I'm not sure how this particular suit will
+rank among all of the Spider-Man suits throughout
+
+147
+00:14:09,500 --> 00:14:19,700
+all of his films. But on that topic, we have our
+question of the week. What was the best live action
+
+148
+00:14:19,700 --> 00:14:26,560
+Spider-Man suits? And just for funsies, what was
+the best Batman suits? And why? Yeah, we want an
+
+149
+00:14:26,560 --> 00:14:32,100
+answer for the best Spider-Man outfit and the best
+Batman outfit. Just a tight DC in there. Jonathan
+
+150
+00:14:32,100 --> 00:14:36,440
+is going on vacation this next week, so we're going
+to let this question of the week run for a couple of
+
+151
+00:14:36,440 --> 00:14:40,040
+weeks. Please record your answer at
+dynamicdool.com by clicking on the red
+
+152
+00:14:40,040 --> 00:14:43,800
+microphone button in the bottom right hand corner
+of the screen, which will prompt you to leave us a
+
+153
+00:14:43,800 --> 00:14:48,580
+voicemail. Your message could be up to 30 seconds
+long and don't forget to leave your name in case we
+
+154
+00:14:48,580 --> 00:14:52,960
+include you on the podcast. We'll pick our
+favorite answer and award that person a Dynamic
+
+155
+00:14:52,960 --> 00:15:06,220
+Duel No Prize that we'll post to Instagram. Be sure
+to answer before August 16th. But that does it for
+
+156
+00:15:06,220 --> 00:15:11,560
+all of the news for this episode. Now let's go ahead
+and move on to the main event where we review
+
+157
+00:15:11,560 --> 00:15:33,260
+Netflix's The Sandman Season 2. The Sandman
+Season 2 Alright, The Sandman Season 2 is the
+
+158
+00:15:33,260 --> 00:15:39,200
+bittersweet conclusion of a dark fantasy epic
+adapted from the award-winning DC Comics and
+
+159
+00:15:39,200 --> 00:15:45,040
+Vertigo Comics series, written by Neil Gaiman.
+It's easily one of my favorite comic series of all
+
+160
+00:15:45,040 --> 00:15:51,080
+time and I truly loved Season 1. I actually
+rewatched all of the first season in lead-up to
+
+161
+00:15:51,080 --> 00:15:55,700
+Season 2, which is something I've actually never
+done before, but I knew I wanted to get the full
+
+162
+00:15:55,700 --> 00:16:01,300
+Sandman experience leading up to the saga's
+bittersweet end. In my review of Season 1, I said
+
+163
+00:16:01,300 --> 00:16:07,080
+that while it was a faithful and worthwhile
+adaptation, the books were better, only because
+
+164
+00:16:07,080 --> 00:16:13,260
+the story of Sandman has so many individual
+threads and yarns to borrow an analogy from the
+
+165
+00:16:13,260 --> 00:16:19,620
+kindly ones that are seemingly separate until, as
+the series progresses, you realize are part of a
+
+166
+00:16:19,620 --> 00:16:26,400
+much broader and beautiful tapestry. Season 2 is
+missing a lot of those threads because while
+
+167
+00:16:26,400 --> 00:16:35,640
+Season 1 adapted volumes 1 and 2, Season 2 only
+adapts 4 of the remaining 8 volumes of story. And
+
+168
+00:16:35,640 --> 00:16:41,480
+while you'd think missing half the story would
+result in only half a tapestry, somehow the
+
+169
+00:16:41,480 --> 00:16:47,060
+showrunner Alan Heindberg and director Jamie
+Childs, as well as the cast, were able to weave
+
+170
+00:16:47,060 --> 00:16:52,380
+something together that's a little bit smaller,
+but still beautiful and still profound. If you
+
+171
+00:16:52,380 --> 00:16:58,080
+haven't seen this season or this series, I highly
+recommend it. Please don't listen any further
+
+172
+00:16:58,080 --> 00:17:03,900
+because this story, unlike a lot of projects we
+review, has a definitive, somewhat
+
+173
+00:17:03,900 --> 00:17:09,560
+unconventional end that you don't want spoiled
+for yourself. No, definitely watch the series.
+
+174
+00:17:09,560 --> 00:17:14,640
+Don't listen to us just talk about the series. Go
+watch Sandman, people. It's so good. There were so
+
+175
+00:17:14,640 --> 00:17:18,760
+many times when I was watching this show, because
+my wife wasn't able to watch it with me this time,
+
+176
+00:17:18,760 --> 00:17:26,180
+that I just hoped that someone would walk in on me
+watching it and just be transfixed by everything
+
+177
+00:17:26,180 --> 00:17:32,680
+going on. Because there's so much beauty in this
+show. It is by far the best made comic book
+
+178
+00:17:32,680 --> 00:17:38,960
+adaptation on television and maybe even the best
+looking adaptation on film, too. It's
+
+179
+00:17:38,960 --> 00:17:44,660
+incredible. And if you like dark fantasy, the
+story is right up your alley as well. Just go watch
+
+180
+00:17:44,660 --> 00:17:53,660
+it. Go watch the Sandman. Go watch it! What are you
+still doing here? No, yeah, it does not really get
+
+181
+00:17:53,660 --> 00:18:00,160
+better than the Sandman on multiple levels, from
+production to writing to acting, just
+
+182
+00:18:00,160 --> 00:18:06,480
+everything. It was so good. Now, as we mentioned in
+our review of the first season, Sandman for the
+
+183
+00:18:06,480 --> 00:18:12,740
+longest time was considered unadaptable because
+of how dense the source material is. I was pretty
+
+184
+00:18:12,740 --> 00:18:18,380
+nervous going into season one, but even more so
+going into season two, because I knew how much
+
+185
+00:18:18,380 --> 00:18:23,260
+ground the writers were going to have to cover in
+such a short time span, considering they
+
+186
+00:18:23,260 --> 00:18:28,820
+announced that season two was going to be the final
+season. And as I was watching the show, I was
+
+187
+00:18:28,820 --> 00:18:34,500
+legitimately amazed at how well they were able to
+work in nearly all of my favorite moments from the
+
+188
+00:18:34,500 --> 00:18:41,000
+comics in a way that felt much more organic than I
+expected it to. Like, Amidst Summer Night's
+
+189
+00:18:41,000 --> 00:18:45,660
+Dream, for example, that was something of a
+standalone issue in the comic, but they worked it
+
+190
+00:18:45,660 --> 00:18:51,500
+into a flashback for the show. There were a lot of
+smart choices on display here that came across as
+
+191
+00:18:51,500 --> 00:18:57,800
+very well thought out and planned at length, and I
+appreciated that as I was watching this season.
+
+192
+00:18:57,800 --> 00:19:03,040
+Yeah, it's kind of a master craft in story weaving
+on behalf of the screenwriters here. And, you
+
+193
+00:19:03,040 --> 00:19:07,740
+know, we have some veterans like Allen Heinberg,
+David Goyer. Neil Gaiman himself was involved.
+
+194
+00:19:07,740 --> 00:19:13,760
+Yeah, we don't want to talk about him, though. No.
+But, yeah, they did a really good job. I mean, you
+
+195
+00:19:13,760 --> 00:19:17,980
+got to think about just how much story they had to
+condense. Well, again, there's a lot left out
+
+196
+00:19:17,980 --> 00:19:22,800
+because they only adapted four of the remaining
+eight, but they did a fantastic job adapting
+
+197
+00:19:22,800 --> 00:19:28,280
+those. It's like you said, a masterwork. I'm
+assuming the remaining volumes focused on the new
+
+198
+00:19:28,280 --> 00:19:34,360
+Sandman. No, the remaining volumes were
+essentially anthological stories, though one of
+
+199
+00:19:34,360 --> 00:19:39,080
+them was Amidst Summer Night's Dream. So they
+still were able to sneak some of those in their
+
+200
+00:19:39,080 --> 00:19:44,620
+different ways. Now, one of the great things about
+the story of Sandman and what drew me to the comics
+
+201
+00:19:44,620 --> 00:19:50,060
+back when I read them in high school is that because
+it's essentially a story about stories, it's not
+
+202
+00:19:50,060 --> 00:19:57,480
+necessarily bound to any particular setting or
+time, genre, or even cast of characters. There are
+
+203
+00:19:57,480 --> 00:20:02,480
+seemingly entire volumes of the Sandman comic
+series that are simply a collection of
+
+204
+00:20:02,480 --> 00:20:08,060
+anthological short stories. That is, until you
+get closer to the end of the entire series and you
+
+205
+00:20:08,060 --> 00:20:13,800
+begin to realize that it's all connected, that
+really every story was part of a much bigger
+
+206
+00:20:13,800 --> 00:20:19,700
+picture. You're kind of just along for the ride for
+most of the series under the impression that this
+
+207
+00:20:19,700 --> 00:20:27,140
+is a story that could be endless. It's kind of the
+promise made at the very start that dream stories
+
+208
+00:20:27,140 --> 00:20:33,400
+can and will go on forever. That is, until you
+realize that this whole thing was really a setup
+
+209
+00:20:33,400 --> 00:20:40,080
+for how and why an endless being, a God
+essentially, would come to accept death. And not
+
+210
+00:20:40,080 --> 00:20:45,880
+in any kind of macabre way, but in a way that makes
+you feel like you truly lived an entire life with a
+
+211
+00:20:45,880 --> 00:20:54,160
+character and understand his decisions. Yes, the
+story of a selfish God growing and changing and in a
+
+212
+00:20:54,160 --> 00:20:59,540
+sense becoming more human. Right, exactly. Yeah,
+that's a great description of it. It's a very
+
+213
+00:20:59,540 --> 00:21:05,820
+existential work. And while I wouldn't exactly
+say season two concluded with the same level of
+
+214
+00:21:05,820 --> 00:21:11,360
+existentialism as the books where you finish the
+last page of the book and look up and you're like,
+
+215
+00:21:11,360 --> 00:21:17,320
+wait, I'm in a bookstore. I'm not in the dreaming. I
+will say that because this television adaptation
+
+216
+00:21:17,320 --> 00:21:24,480
+is so hyper focused on dream story, which is a story
+about life. It still manages to transcend and be
+
+217
+00:21:24,480 --> 00:21:31,560
+almost unbound by theme. It's not only a story
+about life, but about death and mortality and
+
+218
+00:21:31,560 --> 00:21:37,600
+grief and responsibility, love and
+relationships, personal growth, destiny and
+
+219
+00:21:37,600 --> 00:21:44,220
+free will. It's literally and literally about
+everything. Yeah, I think I mentioned in our
+
+220
+00:21:44,220 --> 00:21:49,840
+review of season one that the whole Sandman series
+kind of seemed to be a grand experiment by the
+
+221
+00:21:49,840 --> 00:21:54,800
+author Neil Gaiman. Every time I say his name, I do
+want to make sure I clarify that the dude is a
+
+222
+00:21:54,800 --> 00:21:59,580
+fucking dickhole. But yeah, the Sandman series
+was, I think, his grand experiment regarding the
+
+223
+00:21:59,580 --> 00:22:05,280
+topics of life and death and love. Yeah, there's a
+lot of aspects about it that feel experimental and
+
+224
+00:22:05,280 --> 00:22:11,720
+indie in that way. Very creative in a way that is
+unconventional, I think, for the medium. Now,
+
+225
+00:22:11,720 --> 00:22:17,980
+while I'm sincerely impressed with how well they
+were able to wrap up dream story in a single season,
+
+226
+00:22:17,980 --> 00:22:23,960
+I'd be lying if I said I didn't wish this show could
+have gone on for another four or five seasons. It
+
+227
+00:22:23,960 --> 00:22:29,840
+would have been better, but also pretty damn
+expensive. Each episode of this season cost about
+
+228
+00:22:29,840 --> 00:22:37,220
+$15 million to make, making it one of the most
+expensive shows ever produced. But it shows even
+
+229
+00:22:37,220 --> 00:22:41,400
+more so this season compared to last, in my
+opinion. I agree. Like, I thought the
+
+230
+00:22:41,400 --> 00:22:46,540
+cinematography and costuming were noticeably
+better this round, having watched both seasons
+
+231
+00:22:46,540 --> 00:22:53,200
+back to back. And the visual effects, for sure.
+Merv Pumpkinhead, he felt so real. For me, I think
+
+232
+00:22:53,200 --> 00:22:58,200
+the best visual effect throughout the entire
+course of this season was actually the
+
+233
+00:22:58,200 --> 00:23:03,380
+underworld. The Greek underworld ruled by Hades
+and Persephone. There were so many moments
+
+234
+00:23:03,380 --> 00:23:09,280
+throughout the course of this show where I felt
+truly transported, and the whole adaptation of
+
+235
+00:23:09,280 --> 00:23:14,860
+the Orpheus and Eurydice story was such a perfect
+translation of the Greek myth that I think someone
+
+236
+00:23:14,860 --> 00:23:20,620
+even like Christopher Nolan, who's currently
+shooting the Odyssey, is going to have a run for his
+
+237
+00:23:20,620 --> 00:23:26,240
+money in how well these Greek tragedies appear on
+screen. There's just something so transportive
+
+238
+00:23:26,240 --> 00:23:33,220
+about the Sandman. Yeah, there's very few people
+who could do mythology as well as Neil Gaiman. Even
+
+239
+00:23:33,220 --> 00:23:38,860
+with his other books, like American Gods and stuff
+like that, a lot of that spills over into his
+
+240
+00:23:38,860 --> 00:23:44,240
+Sandman universe. And yeah, it's captivating. We
+see multiple pantheons here. We see a lot of
+
+241
+00:23:44,240 --> 00:23:48,800
+different characters. There's so many
+characters in the Sandman saga, but let's dive
+
+242
+00:23:48,800 --> 00:23:55,960
+into a few in our character breakdown. Starting
+with Dream, played by Tom Sturridge. Now, I think
+
+243
+00:23:55,960 --> 00:24:01,740
+Tom was born to play this role. I know you mentioned
+in our last review that his voice was too
+
+244
+00:24:01,740 --> 00:24:07,980
+theatrical, but like I also mentioned, I think the
+choice to make his voice consistent while leaving
+
+245
+00:24:07,980 --> 00:24:14,200
+the subtle emotions to play out on his face worked
+really well. I saw an interview where Tom said he
+
+246
+00:24:14,200 --> 00:24:20,120
+asked Neil Gaiman how Dream should sound, and his
+response was that Dream should sound like the
+
+247
+00:24:20,120 --> 00:24:26,280
+voice in your head when you're thinking. Quiet,
+but also with an authoritative tinge as well as one
+
+248
+00:24:26,280 --> 00:24:32,640
+of seduction and terror. I think that's a lot to ask
+of an actor, but I think Tom did a great job. That's
+
+249
+00:24:32,640 --> 00:24:37,760
+not what the voice in my head sounds like. The voice
+in my head sounds like this. I wonder what's in the
+
+250
+00:24:37,760 --> 00:24:44,220
+pantry for dinner. What does your voice sound
+like? My inner voice, just like my regular voice,
+
+251
+00:24:44,220 --> 00:24:49,980
+but I wouldn't describe my regular voice as any of
+those things. I feel bad for you. My voice is hella
+
+252
+00:24:49,980 --> 00:24:56,740
+seductive. Regarding Sturridge's performance,
+I think I did criticize it saying that it was too
+
+253
+00:24:56,740 --> 00:25:02,720
+operatic, I think. And so it kind of came across as
+forced and maybe even a little bit corny at times
+
+254
+00:25:02,720 --> 00:25:09,040
+for season one. But I think having seen season one,
+I totally understand what he's doing. These are
+
+255
+00:25:09,040 --> 00:25:15,080
+larger than life characters. He's the fucking
+embodiment of an abstract concept. He shouldn't
+
+256
+00:25:15,080 --> 00:25:20,120
+really humanize his performance. Maybe it should
+be larger than life, and so I definitely had less
+
+257
+00:25:20,120 --> 00:25:25,300
+issue with it. I agree. I think maybe the guy was
+born to play Dream of the Endless. He had the look
+
+258
+00:25:25,300 --> 00:25:29,920
+down better in this season than I think even last
+season, which I didn't think was possible. And
+
+259
+00:25:29,920 --> 00:25:36,300
+plus, it was really easy to see his growth in his
+performance going from someone who is so
+
+260
+00:25:36,300 --> 00:25:42,220
+emotional, yet so completely lacking empathy.
+He's basically a sociopath who really comes to
+
+261
+00:25:42,220 --> 00:25:48,360
+humble himself and better himself throughout the
+entire season. You see that. Right, exactly.
+
+262
+00:25:48,360 --> 00:25:54,400
+Dream's arc is ultimately about accepting
+responsibility. He was this godlike being who was
+
+263
+00:25:54,400 --> 00:26:00,720
+incredibly humbled in the first season in which we
+saw him work to regain his power and restore his
+
+264
+00:26:00,720 --> 00:26:06,660
+realm. But in season two, now that he and his realm
+are back to full power, we see how the events of the
+
+265
+00:26:06,660 --> 00:26:12,000
+first season have changed him and caused him to
+recognize that he doesn't just have a
+
+266
+00:26:12,000 --> 00:26:18,060
+responsibility to the dreaming, but for his past
+hurtful actions that he would have otherwise
+
+267
+00:26:18,060 --> 00:26:25,560
+overlooked as a prideful and all-powerful deity.
+Humility fosters empathy, and with his newfound
+
+268
+00:26:25,560 --> 00:26:32,300
+empathy comes newfound emotions like regret, but
+also love. Yeah, I think early on he largely
+
+269
+00:26:32,300 --> 00:26:38,780
+confused desire with love, which may have been in
+part due to the machinations of his sibling
+
+270
+00:26:38,780 --> 00:26:43,100
+desire. But through the course of the story, he
+really comes to understand what actual love is.
+
+271
+00:26:43,100 --> 00:26:48,460
+And that is something worth dying for.
+Absolutely. You know, not a told him 10,000 years
+
+272
+00:26:48,460 --> 00:26:54,620
+ago that she doesn't believe his kind is capable of
+love, and he punished her for it because I feel like
+
+273
+00:26:54,620 --> 00:27:00,520
+he was afraid that was true. In the same way that his
+parents didn't love him because when you're that
+
+274
+00:27:00,520 --> 00:27:06,560
+powerful and that important relationships and
+love get in the way of duty and responsibility. But
+
+275
+00:27:06,560 --> 00:27:13,640
+dream realizes the season that he does love and has
+hurt the ones he loves and in an effort to make
+
+276
+00:27:13,640 --> 00:27:19,600
+things right, willingly puts himself in the
+position of undergoing the ultimate act of love,
+
+277
+00:27:19,600 --> 00:27:25,040
+which is to sacrifice yourself to protect your
+loved ones. I believe that's what love really is.
+
+278
+00:27:25,040 --> 00:27:31,400
+Attention and sacrifice. And dream found himself
+incapable of ignoring those that truly matter to
+
+279
+00:27:31,400 --> 00:27:37,480
+him, whether it was Nada in Hell, Delirium,
+sulking in her realm, Orpheus on that Greek
+
+280
+00:27:37,480 --> 00:27:44,260
+island, or his staff in his palace being
+destroyed. Dream chooses death not only out of
+
+281
+00:27:44,260 --> 00:27:51,380
+love, but because dream is bound by his identity by
+function rules and ritual in a way that he sees
+
+282
+00:27:51,380 --> 00:27:58,660
+others of equal station are not Lucifer gives up on
+her domain and so does destruction. But dream
+
+283
+00:27:58,660 --> 00:28:04,460
+cannot do that. He's seen what happens when his
+realm is abandoned and he refuses to have that
+
+284
+00:28:04,460 --> 00:28:10,840
+happen again, taking steps to ensure the dreaming
+will survive and be cared for after he's gone. And
+
+285
+00:28:10,840 --> 00:28:17,320
+yet, he also refuses to bear the burden of killing
+another innocent in Light of Hall. His death is
+
+286
+00:28:17,320 --> 00:28:24,900
+both destiny and free will, both bound to happen,
+yet also a conscious choice made by dream, because
+
+287
+00:28:24,900 --> 00:28:31,520
+he refuses to change back to the kind of being he
+once was. And now has the courage to let go of
+
+288
+00:28:31,520 --> 00:28:37,720
+selfishness and pride, which is not easy and
+something I think we'll all have to face one day on
+
+289
+00:28:37,720 --> 00:28:44,400
+our own deathbeds. It's such a profound arc, like
+we talk about the themes in these superhero movies
+
+290
+00:28:44,400 --> 00:28:50,800
+and shows a lot in our reviews, but none of them
+quite come as close to the profundity of what dream
+
+291
+00:28:50,800 --> 00:28:56,600
+goes through. His arc literally is the end all be
+all arc, I feel like. And it shows what really
+
+292
+00:28:56,600 --> 00:29:01,520
+matters. That being said, I think I still have the
+same criticisms of the story that I did from season
+
+293
+00:29:01,520 --> 00:29:09,340
+one in that Neil Gaiman's rules that he has set up
+for this Santa Man universe do still seem
+
+294
+00:29:09,340 --> 00:29:15,760
+arbitrary. Like, oh, the spilling of familial
+blood by the antelists will result in their
+
+295
+00:29:15,760 --> 00:29:24,020
+destruction by the kindly ones. It's all very
+convenient to his story. You know, to me, like, why
+
+296
+00:29:24,020 --> 00:29:29,100
+couldn't dream just bring his son to live with him
+in the dreaming and like give him a new body and even
+
+297
+00:29:29,100 --> 00:29:36,180
+recreate a facsimile of Eurydice and just support
+him in that way and decline the boon of killing his
+
+298
+00:29:36,180 --> 00:29:42,060
+only son. It seemed like there were other options
+for an all powerful entity like dream. I can answer
+
+299
+00:29:42,060 --> 00:29:50,640
+a few of those questions. I mean, dream is not all
+powerful. He has most control in his realm and to be
+
+300
+00:29:50,640 --> 00:29:57,920
+in his realm, one has to be sleeping. Orpheus is
+still alive in the waking world and it wouldn't
+
+301
+00:29:57,920 --> 00:30:04,300
+matter if dream created him a new body in the
+dreaming because once Orpheus woke up, he would
+
+302
+00:30:04,300 --> 00:30:08,780
+still be headless in his world. Well, he could put
+him into an eternal sleep and then it wouldn't
+
+303
+00:30:08,780 --> 00:30:14,340
+matter. That's fair, but that's still him not
+fully taking responsibility for his actions. His
+
+304
+00:30:14,340 --> 00:30:21,540
+son asked to die specifically, not live with him
+eternally in the dreaming. I think his son asked to
+
+305
+00:30:21,540 --> 00:30:27,740
+die because his love had died, but if you remove
+like his loneliness, I think maybe that desire to
+
+306
+00:30:27,740 --> 00:30:33,180
+die goes away partly. I don't know, man. After
+thousands of years as a decapitated head, I think I
+
+307
+00:30:33,180 --> 00:30:38,060
+would want to be done. I think after thousands of
+years living as a decapitated head that couldn't
+
+308
+00:30:38,060 --> 00:30:44,300
+move if you gave me the illusion of a body and an
+entire realm to explore, I suddenly feel less
+
+309
+00:30:44,300 --> 00:30:49,560
+shitty. Well, that's not what Orpheus asked of his
+father, is it? It doesn't matter because that was
+
+310
+00:30:49,560 --> 00:30:53,880
+dream's workaround that he could have done. I
+think it would have satisfied his arc. I think it
+
+311
+00:30:53,880 --> 00:30:58,520
+would have satisfied his soul and I think it would
+have satisfied his son as well. Again, it comes
+
+312
+00:30:58,520 --> 00:31:04,200
+down to responsibility. He didn't want to have to
+leave his son in the care of priests only to be
+
+313
+00:31:04,200 --> 00:31:10,100
+risked, stolen again like he was during the French
+Revolution. Who cares if he's stolen? He's an
+
+314
+00:31:10,100 --> 00:31:15,160
+eternal sleep. He's of no use to anybody while he's
+in an eternal sleep. You just don't want to accept
+
+315
+00:31:15,160 --> 00:31:19,940
+the fact that I thought of a better solution for a
+dream situation than dream could think of
+
+316
+00:31:19,940 --> 00:31:24,520
+himself. Well, here's the problem with your
+solution. It fails to recognize the fact that
+
+317
+00:31:24,520 --> 00:31:30,620
+dream wanted to die. Well, I guess that was one of
+the things that Joanna Constantine posited to
+
+318
+00:31:30,620 --> 00:31:36,100
+him, right? I'm not entirely convinced that was
+true though. I mean, he seemed rather reluctant to
+
+319
+00:31:36,100 --> 00:31:41,600
+die by the very end. I mean, he's the one who had
+Matthew retrieve his sister's death to begin
+
+320
+00:31:41,600 --> 00:31:47,080
+with. He was willing to make that sacrifice. Yeah,
+but he also asked the kindly ones if there was
+
+321
+00:31:47,080 --> 00:31:51,980
+nothing else that would satisfy them besides his
+life. Those were some of his last words. Yeah, and
+
+322
+00:31:51,980 --> 00:31:57,140
+this was already after he had killed his son. Which
+I'm saying he didn't have to do, okay? Anyway, we
+
+323
+00:31:57,140 --> 00:32:01,780
+could go on and on about this. Just know that I'm
+right and that this is likely a plot hole in the
+
+324
+00:32:01,780 --> 00:32:06,060
+whole damn story of the Sandman. It is not. You
+don't know what you're talking about. You don't
+
+325
+00:32:06,060 --> 00:32:13,100
+understand the characters at all, apparently.
+Okay, okay. Read a book! Moving on to Delirium. She
+
+326
+00:32:13,100 --> 00:32:19,240
+was played by Esme Creed Miles. I looked at her
+filmography. I have not seen a single thing she's
+
+327
+00:32:19,240 --> 00:32:24,980
+been in, but Delirium was one of my favorite
+characters from the Sandman comic series. And her
+
+328
+00:32:24,980 --> 00:32:31,160
+personality is really all over the place, but
+always in this haze. So I was curious to see how Esme
+
+329
+00:32:31,160 --> 00:32:37,020
+would approach the character. And while I
+expected something a little more absurdist, I
+
+330
+00:32:37,020 --> 00:32:41,980
+guess, I thought she'd perfectly capture
+Delirium's innocence and vulnerability while
+
+331
+00:32:41,980 --> 00:32:48,060
+still adding a level of quirkiness that helps
+capture the dichotomy of both sanity and insanity
+
+332
+00:32:48,060 --> 00:32:53,440
+that Delirium should have, and I noticed in this
+performance that she did. One thing they never
+
+333
+00:32:53,440 --> 00:32:58,280
+addressed in the course of the show is why she
+became Delirium after being delighted for so
+
+334
+00:32:58,280 --> 00:33:04,140
+long. She brings it up, but can you answer that
+question? No, because it's actually never been
+
+335
+00:33:04,140 --> 00:33:10,160
+answered in the comics. Oh. Lame, I know they
+filmed this scene where it happened, but they cut
+
+336
+00:33:10,160 --> 00:33:16,480
+it from the show. Okay. I think because it's better
+off being a mystery. Well, she says she knows
+
+337
+00:33:16,480 --> 00:33:23,040
+things about the endless that no one else knows,
+not even Destiny. And it's a really vague line that
+
+338
+00:33:23,040 --> 00:33:28,020
+is left intentionally vague just for the sake of
+it. I feel like if they're going to bring it up, they
+
+339
+00:33:28,020 --> 00:33:32,860
+may as well discuss it. It's a Chekhov's gun
+situation that never goes off. Well, potentially
+
+340
+00:33:32,860 --> 00:33:39,320
+Delirium is the most powerful of the endless. So
+that line was not surprising to me. But again,
+
+341
+00:33:39,320 --> 00:33:45,460
+she's all about mystery. She's insane. So she
+probably doesn't even know what she knows or
+
+342
+00:33:45,460 --> 00:33:52,140
+doesn't know. Sure. We do know that Delirium is the
+youngest of the endless who used to be delight, but
+
+343
+00:33:52,140 --> 00:33:58,380
+was something of a cosmic afterthought and wasn't
+as stable as her siblings. At some point in the
+
+344
+00:33:58,380 --> 00:34:04,960
+past, she had a breakdown and became Delirium.
+She's a tragic figure who's dismissed by her
+
+345
+00:34:04,960 --> 00:34:11,600
+siblings, who see her as naive, unstable, and even
+annoying. But behind her erratic speech and
+
+346
+00:34:11,600 --> 00:34:17,880
+fractured behavior is this deep, unwavering
+drive. She wants to find her brother destruction
+
+347
+00:34:17,880 --> 00:34:24,780
+and not out of duty or curiosity. But because she
+misses him, she remembers what it meant to be whole
+
+348
+00:34:24,780 --> 00:34:30,880
+when she was delight and she wants her family to be
+whole again. Dream realizes during the journey
+
+349
+00:34:30,880 --> 00:34:36,940
+that they share that Delirium is not the fool he
+thought she was. She's just different. And she
+
+350
+00:34:36,940 --> 00:34:41,840
+feels everything because she's kind of
+everything else. All the cosmic aspects and
+
+351
+00:34:41,840 --> 00:34:47,080
+emotions that her siblings aren't. And Dream
+comes to recognize, respect, and even love that
+
+352
+00:34:47,080 --> 00:34:53,800
+about her. He loves her because she's so sincere in
+her love in a way that none of the other endless are.
+
+353
+00:34:53,800 --> 00:35:00,640
+Moving on to destruction, he was played by Barry
+Sloan. Now, like Esme Creed Miles, I was not
+
+354
+00:35:00,640 --> 00:35:05,080
+familiar with Barry Sloan's work prior to this,
+but I thought he brought something really
+
+355
+00:35:05,080 --> 00:35:10,500
+grounded and unexpectedly warm to destruction.
+Which matches the comic, actually, where
+
+356
+00:35:10,500 --> 00:35:16,900
+destruction, surprisingly, comes across as much
+more chipper and less edgier than his siblings.
+
+357
+00:35:16,900 --> 00:35:23,100
+There's still this quiet sadness beneath Sloan's
+performance, though, like a man who carries a
+
+358
+00:35:23,100 --> 00:35:28,760
+heavy truth but tries his hardest not to let it
+harden him. I would say he's the most human of the
+
+359
+00:35:28,760 --> 00:35:33,860
+endless, and I thought that was easy to see in
+Barry's performance. Yeah, it's interesting how
+
+360
+00:35:33,860 --> 00:35:39,860
+the members of the endless that you would assume
+would be the darkest and edgiest, like death and
+
+361
+00:35:39,860 --> 00:35:45,160
+destruction, end up being some of the more
+human-like characters, whereas some of the more
+
+362
+00:35:45,160 --> 00:35:51,400
+whimsical aspects like Dream and Desire end up
+being the more edgy and closed off ones. Yeah, I
+
+363
+00:35:51,400 --> 00:35:56,820
+guess that is true. It kind of circumvents your
+expectations in a way. Yeah, I did like the
+
+364
+00:35:56,820 --> 00:36:01,420
+character of destruction. I guess I don't quite
+understand how a member of the endless can kind of
+
+365
+00:36:01,420 --> 00:36:05,140
+give up their responsibilities without
+everything just turning to shit, but the
+
+366
+00:36:05,140 --> 00:36:10,260
+characterization of destruction as he was
+portrayed here was like very grounded, very
+
+367
+00:36:10,260 --> 00:36:16,380
+level, very understanding. Maybe, yeah, but that
+came with the cost as well. Now, Destruction's arc
+
+368
+00:36:16,380 --> 00:36:22,600
+is about the burden of inevitability and the moral
+weight of choice. He's the only member of the
+
+369
+00:36:22,600 --> 00:36:28,220
+endless to walk away from his function, which has
+changed specifically, though he didn't do it out
+
+370
+00:36:28,220 --> 00:36:34,720
+of neglect, but explicitly out of love. In a
+flashback scene to 1675, during a conversation
+
+371
+00:36:34,720 --> 00:36:40,700
+with Dream, he reveals his growing fear of
+mankind's increasing mastery of science and
+
+372
+00:36:40,700 --> 00:36:47,740
+rationality being used not for understanding,
+but power and control. He sees the dissected apes,
+
+373
+00:36:47,740 --> 00:36:53,440
+the splitting of light and the probing of nature's
+most sacred mysteries with the knowledge of what
+
+374
+00:36:53,440 --> 00:36:59,940
+it inevitably has always led to, the destruction
+of the planet, of those he cares about, and
+
+375
+00:36:59,940 --> 00:37:05,700
+eventually the destruction of everything,
+including himself and his family. Rather than
+
+376
+00:37:05,700 --> 00:37:11,500
+bearing responsibility of guiding change in the
+universe to that fateful conclusion,
+
+377
+00:37:11,500 --> 00:37:17,520
+Destruction abdicates his cosmic role to let
+change happen naturally. But I mean, he's not an
+
+378
+00:37:17,520 --> 00:37:22,520
+arbiter of unnatural change either, so I guess the
+fact that everything kind of continues going on
+
+379
+00:37:22,520 --> 00:37:28,580
+without him makes it seem like the function of all
+the endless characters is largely unnecessary.
+
+380
+00:37:28,580 --> 00:37:35,980
+Well, no, I think the implication is that he is the
+guide of change, and when he abdicated his role,
+
+381
+00:37:35,980 --> 00:37:39,660
+that's essentially when we got the
+Enlightenment, the Age of Reason, the Industrial
+
+382
+00:37:39,660 --> 00:37:45,940
+Revolution, like it's kind of speeding up and kind
+of going out of control because he's not there to
+
+383
+00:37:45,940 --> 00:37:52,640
+foster it. Well, that's a dick move then. It's like
+by leaving his responsibilities, he's just
+
+384
+00:37:52,640 --> 00:37:56,540
+turning his fears into a self-fulfilling
+prophecy that much faster. Well, it's going to
+
+385
+00:37:56,540 --> 00:38:01,000
+happen anyway, and he didn't want to be
+responsible for that, which is why he just kind of
+
+386
+00:38:01,000 --> 00:38:07,340
+gave up on everything and found his own kind of
+peace in that way. He's not bound to this world and
+
+387
+00:38:07,340 --> 00:38:12,220
+its people. He could literally traverse the
+universe. Now, when Dream and Delirium find
+
+388
+00:38:12,220 --> 00:38:19,160
+destruction, he challenges the very idea of duty
+and identity, reminding Dream that just because
+
+389
+00:38:19,160 --> 00:38:26,460
+someone has a role doesn't mean that it has to be a
+prison. Where Dream clings to form and function,
+
+390
+00:38:26,460 --> 00:38:32,900
+Destruction chooses freedom, even if it means
+stepping away from the people and realms he loves.
+
+391
+00:38:32,900 --> 00:38:38,120
+Though Dream ultimately doesn't follow
+Destruction's advice because he's not willing to
+
+392
+00:38:38,120 --> 00:38:44,680
+sacrifice the ones he loves like Destruction is,
+both of them find their own path to peace. And
+
+393
+00:38:44,680 --> 00:38:49,620
+that's the cost I mentioned earlier, the
+destruction of the ones you love. I mean, is it
+
+394
+00:38:49,620 --> 00:38:54,080
+going to happen anyway so that Kostas is going to be
+buried regardless? So I'm not sure that's
+
+395
+00:38:54,080 --> 00:38:59,020
+something that he actually has to pay. He feels
+responsibility for it is the whole point. He
+
+396
+00:38:59,020 --> 00:39:05,300
+doesn't want to see his loved ones like his family
+be destroyed. He'd rather just ignore all of it and
+
+397
+00:39:05,300 --> 00:39:10,360
+ignore it's his bliss essentially with
+Destruction. So the cost is lessened. Right,
+
+398
+00:39:10,360 --> 00:39:16,920
+exactly. He's a good guy, but he's not exactly a
+good guy. I guess that's a good way to put it. I did
+
+399
+00:39:16,920 --> 00:39:22,960
+like his wisdom regarding the advice he gave
+Daniel at the end when he said that there's no such
+
+400
+00:39:22,960 --> 00:39:30,820
+thing as a one sided coin. Oh yeah. And that each of
+the aspects of the endless somewhat define their
+
+401
+00:39:30,820 --> 00:39:38,300
+opposites in that death in her role has come to
+define life and despair has come to define hope,
+
+402
+00:39:38,300 --> 00:39:44,220
+desire, hatred and dream, I guess, reality. That
+was just an interesting aspect because I've
+
+403
+00:39:44,220 --> 00:39:50,120
+always wondered why those other aspects never
+existed as members of the endless. Why was it
+
+404
+00:39:50,120 --> 00:39:58,720
+limited to these D words? I was just about to say, I
+was because they don't start with D. But yeah, I
+
+405
+00:39:58,720 --> 00:40:03,680
+guess in a way those opposite entities are
+represented through the existing endless, which
+
+406
+00:40:03,680 --> 00:40:07,940
+I thought was pretty neat. Yeah, he also said
+destiny defined freedom. Well, he didn't see what
+
+407
+00:40:07,940 --> 00:40:14,620
+he defined or delirium defined, but if I had to
+guess, destruction defines meaning and delirium
+
+408
+00:40:14,620 --> 00:40:20,640
+defines reason. Sounds about right to me. Makes me
+wonder what I represent. Taco Bell? But what's the
+
+409
+00:40:20,640 --> 00:40:32,140
+opposite of Taco Bell? Not shitting your pants.
+Yeah, you define those two things. Nice. Now, I
+
+410
+00:40:32,140 --> 00:40:36,820
+wanted to touch on these three characters
+specifically because they're my favorite of the
+
+411
+00:40:36,820 --> 00:40:42,260
+endless. And I really think the endless are one of
+the most interesting aspects of the Sandman
+
+412
+00:40:42,260 --> 00:40:48,180
+series. But there are a lot more characters here,
+as I've mentioned, many of whom are static
+
+413
+00:40:48,180 --> 00:40:54,360
+archetypes who don't really grow or have their own
+arcs. You could say Dream really is the only one
+
+414
+00:40:54,360 --> 00:40:59,520
+except for maybe Lucifer and I guess Johanna
+Constantine and maybe Daniel. But they're really
+
+415
+00:40:59,520 --> 00:41:11,940
+not in the show long enough to touch too much on. So
+we'll do that in the story highlights. In a world
+
+416
+00:41:11,940 --> 00:41:17,860
+where fantasies collide and heroes clash, one
+podcast network rises above the rest. Prepare
+
+417
+00:41:17,860 --> 00:41:23,680
+yourself for the ultimate showdowns in comic
+books, video games, movies and anime. The
+
+418
+00:41:23,680 --> 00:41:29,000
+Dynamite Podcast Network presents Console
+Combat, where video game legends brawl every
+
+419
+00:41:29,000 --> 00:41:35,920
+Monday. Dynamic duel, where comic book titans
+smash every Tuesday. Max destruction, where TV
+
+420
+00:41:35,920 --> 00:41:41,940
+and action heroes battle every Wednesday. And
+Sendra World, where anime champions clash every
+
+421
+00:41:41,940 --> 00:41:47,080
+Thursday. Join us as we speculate on the matches
+and armed with the power of mathematical
+
+422
+00:41:47,080 --> 00:41:53,300
+simulations. Discover who will emerge
+victorious. Visit dynamicpodcast.com where we
+
+423
+00:41:53,300 --> 00:42:03,880
+settle the debate and settle the score. Episode
+one was titled Season of Mists. As Dream rebuilds
+
+424
+00:42:03,880 --> 00:42:08,480
+the dreaming, he is summoned by his brother
+Destiny to attend a family gathering of the
+
+425
+00:42:08,480 --> 00:42:14,740
+Endless in Destiny's realm, where a dream meets
+his other siblings, death, desire, despair and
+
+426
+00:42:14,740 --> 00:42:20,280
+delirium. As they mentioned their absent brother
+who broke off contact with them centuries ago,
+
+427
+00:42:20,280 --> 00:42:25,780
+Destiny explains that the fates have revealed a
+cryptic prophecy to him that would start to unwind
+
+428
+00:42:25,780 --> 00:42:32,420
+with their meeting. Desire aggravates Dream,
+reminding him of Nada, a human queen whom he fell in
+
+429
+00:42:32,420 --> 00:42:38,420
+love with millennia ago, but condemned to hell
+after she ended the relationship, claiming the
+
+430
+00:42:38,420 --> 00:42:43,040
+Endless and mortals cannot live together after
+their affair led to the destruction of her
+
+431
+00:42:43,040 --> 00:42:49,120
+kingdom. After a discussion with death, Dream
+resolves to save Nada from hell, making sure to
+
+432
+00:42:49,120 --> 00:42:55,520
+secure the dreaming and meeting with Lightahall
+and Hobgadling in case he would not return. As
+
+433
+00:42:55,520 --> 00:43:01,920
+Dream enters hell, Lucifer Morningstar calls on
+the demonic legions intent to execute revenge on
+
+434
+00:43:01,920 --> 00:43:08,160
+Dream for the humiliation suffered during their
+last confrontation. Now, if the Kindly Ones never
+
+435
+00:43:08,160 --> 00:43:14,080
+visited Destiny, it's likely Dream never would
+have died. That is correct. What did the Kindly
+
+436
+00:43:14,080 --> 00:43:18,340
+Ones have against Dream? They're the ones that put
+this whole thing into motion. They knew what would
+
+437
+00:43:18,340 --> 00:43:23,380
+happen. Well, so does Destiny. Now, he only knows
+what happens. He doesn't see the future. But the
+
+438
+00:43:23,380 --> 00:43:27,860
+Kindly Ones do. And they knew what was going to
+happen. So they set in motion what was already
+
+439
+00:43:27,860 --> 00:43:31,800
+going to happen. You have to think about it fifth
+dimensionally. But if they don't set it into
+
+440
+00:43:31,800 --> 00:43:36,560
+motion, then it likely wouldn't happen. So why
+would they have set it into motion unless they
+
+441
+00:43:36,560 --> 00:43:42,040
+wanted Dream to die? Because they're all about
+telling stories and they wanted Dream to complete
+
+442
+00:43:42,040 --> 00:43:47,880
+his story. Fucking assholes. I agree. Not a fan of
+the Kindly Ones, though I thought they did a
+
+443
+00:43:47,880 --> 00:43:54,300
+fantastic job adapting them in this show. Episode
+two was titled The Ruler of Hell. Finding hell
+
+444
+00:43:54,300 --> 00:44:00,980
+eerily empty upon his arrival, Dream is
+confronted by Lucifer, who, weary of her duty, has
+
+445
+00:44:00,980 --> 00:44:07,020
+abdicated the throne and released all souls and
+demons to roam other worlds. After Lucifer
+
+446
+00:44:07,020 --> 00:44:13,680
+persuades Dream to ceremoniously cut off her
+wings, she gives Dream the key to hell, making him
+
+447
+00:44:13,680 --> 00:44:18,580
+its custodian in revenge. Returning to the
+Dreaming, Dream soon finds a flooded by
+
+448
+00:44:18,580 --> 00:44:24,220
+delegations of supernatural beings seeking
+dominion over hell, among them being the gods
+
+449
+00:44:24,220 --> 00:44:31,360
+Susano, Odin, Thor and Loki, a pair from Fairy
+named Chloracan and Nala, representatives of
+
+450
+00:44:31,360 --> 00:44:39,580
+both order and chaos, and the demons Azizal,
+Corinzon and Merkin, who demand to return to hell.
+
+451
+00:44:39,580 --> 00:44:46,600
+Two angels, Remiel and Yuma, descend from heaven
+as observers for God. Dream welcomes everyone in
+
+452
+00:44:46,600 --> 00:44:53,780
+his palace as guests and throws a banquet to watch
+all decide who to give the key to hell to. Aside from
+
+453
+00:44:53,780 --> 00:44:59,600
+the Knights entertainment provided by Kanan
+Abel, several guests approach Dream with bribes,
+
+454
+00:44:59,600 --> 00:45:06,020
+among them Azizal, who reveals he has captured not
+a soul and is willing to exchange it for the key to
+
+455
+00:45:06,020 --> 00:45:11,860
+hell. Now, as I mentioned earlier, one of the
+themes of this season is free will, and the
+
+456
+00:45:11,860 --> 00:45:17,980
+abdication of hell by Lucifer, played very well by
+Gwendolyn Christie, is sort of the ultimate act of
+
+457
+00:45:17,980 --> 00:45:24,200
+rebellion. She, like death or any of the other
+cosmic entities, don't really have free will
+
+458
+00:45:24,200 --> 00:45:30,560
+unless they choose to abandon their role
+altogether. She's a great foil for Dream, in that
+
+459
+00:45:30,560 --> 00:45:35,640
+sense, because he struggles to separate his duty
+from his identity. It is interesting thinking
+
+460
+00:45:35,640 --> 00:45:40,260
+about all the different ways Neil Gaiman's
+version of Lucifer has been adapted throughout
+
+461
+00:45:40,260 --> 00:45:46,940
+various shows and movies over the years. Like this
+is the same version of Lucifer that was in the
+
+462
+00:45:46,940 --> 00:45:53,400
+Constantine movie with Keanu Reeves. Yes. And the
+one that had his own show on Fox or was it CW? I can't
+
+463
+00:45:53,400 --> 00:45:58,240
+remember. Maybe it was both the Lucifer show. I
+think it even went to Netflix for a time. And I think
+
+464
+00:45:58,240 --> 00:46:03,940
+even in like Good Omens, it's the same character.
+And thinking about how this is how it all ends for
+
+465
+00:46:03,940 --> 00:46:09,080
+the character with Lucifer's wings being cut off
+by Dream. And then, you know, them going to a beach
+
+466
+00:46:09,080 --> 00:46:14,500
+just to live out the rest of eternity is kind of
+fascinating. Well, Lucifer doesn't spend the
+
+467
+00:46:14,500 --> 00:46:19,080
+rest of eternity on the beach. It was just
+something she wanted to do at that moment. Gotcha.
+
+468
+00:46:19,080 --> 00:46:26,060
+I did think it was hilarious how inferior the
+show's versions of the Nordic gods were compared
+
+469
+00:46:26,060 --> 00:46:33,360
+to the Marvel Cinematic Universe. What? You heard
+me. This Thor was a fucking joke compared to Chris
+
+470
+00:46:33,360 --> 00:46:39,880
+Hemsworth. And Chris Hemsworth would kick his
+ass. No, this Thor is way more Thor than Marvel's
+
+471
+00:46:39,880 --> 00:46:44,820
+Thor could ever hope to be. Same with Loki. I don't
+know what that means, but you're wrong. He's more
+
+472
+00:46:44,820 --> 00:46:52,260
+true to the mythical character that is Thor. His
+hammer was tiny compared to Chris Hemsworth's.
+
+473
+00:46:52,260 --> 00:46:58,260
+Hey, man, it's not about the size of the hammer.
+It's how you use it. And he used it well. I did think
+
+474
+00:46:58,260 --> 00:47:03,680
+Odin was cool, though. I thought Loki was cool
+throughout this whole series. Was awesome. Yeah,
+
+475
+00:47:03,680 --> 00:47:09,260
+I really like the kind of Billy Idol David Bowie
+approach they took to Loki. As much as I love Tom
+
+476
+00:47:09,260 --> 00:47:14,000
+Hiddleston, I think this version of Loki comes
+pretty close to his performance. Fuck yeah. When
+
+477
+00:47:14,000 --> 00:47:19,780
+he set that chick on fire with his cigarette, I was
+like, damn. Yeah. Moving on to Episode Three, it
+
+478
+00:47:19,780 --> 00:47:25,500
+was titled More Devils Than Vast Hell Can Hold. In
+The Dreaming, Nala runs into Dream and they
+
+479
+00:47:25,500 --> 00:47:31,620
+recount their first meeting. In a flashback to
+England in 1593, Dream inspires William
+
+480
+00:47:31,620 --> 00:47:36,780
+Shakespeare to write A Midsummer Night's Dream
+and makes him play it for King Oberon, Queen
+
+481
+00:47:36,780 --> 00:47:42,700
+Titania and their court in an attempt to heal a rift
+between the Dreaming and Fairy by making mankind
+
+482
+00:47:42,700 --> 00:47:49,640
+forever remember the Fae through the play. Oberon
+and Titania like the play and make a bends with
+
+483
+00:47:49,640 --> 00:47:54,660
+Dream. In the present, Dream discusses his
+dilemma with Hell's key to Nala. And the next
+
+484
+00:47:54,660 --> 00:48:00,220
+morning, everyone assembles to hear his
+decision. Dream ultimately decides to return the
+
+485
+00:48:00,220 --> 00:48:06,980
+Lordship of Hell to God, provoking Azizal into
+attacking him. However, being in the Dreaming,
+
+486
+00:48:06,980 --> 00:48:13,640
+Dream easily overpowers Azizal and saves Nala.
+Before his departure, Clericun reveals that Nala
+
+487
+00:48:13,640 --> 00:48:19,660
+is a gift to Dream from Titania, and Dream
+reluctantly accepts after Nala herself agrees to
+
+488
+00:48:19,660 --> 00:48:26,140
+stay. Dream finds out that Loki, trying to escape
+imprisonment by Odin, swapped appearances with
+
+489
+00:48:26,140 --> 00:48:32,880
+Susano against Susano's will. Dream, in exchange
+for a promise of future service, agrees to keep
+
+490
+00:48:32,880 --> 00:48:39,200
+Loki's escape a secret. After meeting with
+Lucifer on a beach, Dream and she peacefully part
+
+491
+00:48:39,200 --> 00:48:45,880
+ways and later, Dream apologizes to Dada. She does
+not accept his apology, however, and leaves for
+
+492
+00:48:45,880 --> 00:48:52,680
+the waking world instead. So this episode had the
+adaptation of the Midsummer Night's Dream issue
+
+493
+00:48:52,680 --> 00:48:57,740
+in the comic book, which ended up winning a World
+Fantasy Award. So I was really expecting a lot from
+
+494
+00:48:57,740 --> 00:49:02,880
+this episode. And I guess the whole play within a
+play aspect was surprising to me because I thought
+
+495
+00:49:02,880 --> 00:49:07,280
+it would go deeper into that story of Shakespeare.
+But you know, that whole thing really isn't
+
+496
+00:49:07,280 --> 00:49:12,340
+relevant to the story of Dream. So I guess that's
+why it was left out. Well, the play within a story
+
+497
+00:49:12,340 --> 00:49:17,020
+played out just like it did in the comics. It was
+actually a pretty faithful adaptation. Like
+
+498
+00:49:17,020 --> 00:49:23,040
+where you had Robin Goodfellow take on the role of
+Puck within the play. Yes, I got to say that King
+
+499
+00:49:23,040 --> 00:49:28,620
+Joffrey, I don't know the actor's name. Jack
+Gleason, he fucking nailed it in the role of Puck.
+
+500
+00:49:28,620 --> 00:49:36,960
+Oh, dude. Yeah. The combo of Freddy Fox as Loki and
+Jack Gleason as Puck was so perfect. So perfect.
+
+501
+00:49:36,960 --> 00:49:41,720
+Yeah, they could get a whole series on their own. It
+wouldn't be a really fucked up series. But yeah,
+
+502
+00:49:41,720 --> 00:49:48,560
+they're a good duo. Absolutely. Episode four was
+titled Brief Lives. Delirium unexpectedly pays a
+
+503
+00:49:48,560 --> 00:49:54,220
+visit to Dream, seeking his help in finding their
+absent brother, Destruction. Reluctant at
+
+504
+00:49:54,220 --> 00:50:00,280
+first, Dream agrees, secretly hoping to
+encounter Nada on Earth instead of his brother.
+
+505
+00:50:00,280 --> 00:50:06,340
+Destruction is seen engaging in painting and
+poetry accompanied by Barnabas, a talking dog on a
+
+506
+00:50:06,340 --> 00:50:12,700
+remote island. Dream and Delirium enlist Wanda, a
+chauffeur of Dream's old friend, to help them
+
+507
+00:50:12,700 --> 00:50:18,680
+track down Destruction's contacts. The first of
+them, however, dies just before they find him. And
+
+508
+00:50:18,680 --> 00:50:24,540
+Dream grows suspicious that an unknown force is
+preventing them from finding Destruction. Next,
+
+509
+00:50:24,540 --> 00:50:30,960
+they seek Ishtar, an old Babylonian deity and
+Destruction's former lover who, depowered
+
+510
+00:50:30,960 --> 00:50:37,620
+without worship, works as a club dancer. After a
+heated discussion with Dream, Ishtar performs a
+
+511
+00:50:37,620 --> 00:50:43,500
+mesmerizing dance for her audience, causing an
+explosion that kills everyone in the club,
+
+512
+00:50:43,500 --> 00:50:49,660
+including Ishtar and Wanda. Desire appears
+revealing to the naive Delirium that Dream has
+
+513
+00:50:49,660 --> 00:50:55,560
+been lying to her, causing Delirium to leave her
+siblings in anger. Dude, Madonna was in this
+
+514
+00:50:55,560 --> 00:51:01,440
+episode. Yeah, from the Punisher. I noticed that.
+That's crazy. I was like, hey, what are you doing up
+
+515
+00:51:01,440 --> 00:51:06,940
+on the stage? Get down there and go solve a crime or
+something. She was such a good detective in the
+
+516
+00:51:06,940 --> 00:51:11,320
+Punisher series. It's just, I guess, surprising
+to see sometimes actors and other roles. She was
+
+517
+00:51:11,320 --> 00:51:19,380
+also a fantastic Ishtar, though. I can believe
+that. Was the whole like Wanda trans issue in this
+
+518
+00:51:19,380 --> 00:51:24,840
+episode also in the comic book? It was, but not in
+this volume. Wanda is actually a character that
+
+519
+00:51:24,840 --> 00:51:30,860
+was borrowed from Volume 5, which was not adapted.
+It's titled A Game of You. I don't know if you
+
+520
+00:51:30,860 --> 00:51:36,460
+remember Barbie from season one, where she has
+these dreams that she's like in this fantasy
+
+521
+00:51:36,460 --> 00:51:41,500
+world. She was one of Rose's and Light's roommates
+in Florida when she was searching for Jed. Oh,
+
+522
+00:51:41,500 --> 00:51:46,040
+yeah, yeah, yeah. OK, I do remember. Yes. So in A
+Game of You, Barbie is actually the main
+
+523
+00:51:46,040 --> 00:51:52,360
+character. Dream hardly ever shows up in that
+volume. And Wanda is Barbie's friend. I think
+
+524
+00:51:52,360 --> 00:51:58,460
+she's a really popular character from that
+volume. So they adapted her into this episode. Oh,
+
+525
+00:51:58,460 --> 00:52:03,600
+interesting. OK, that's like surprisingly
+progressive for a series that came out in the 80s. I
+
+526
+00:52:03,600 --> 00:52:08,180
+think I was just surprised by that wondering if it
+was something they just threw in to address
+
+527
+00:52:08,180 --> 00:52:13,280
+current trans issues or if it had always been
+there. It was played a little differently here. I
+
+528
+00:52:13,280 --> 00:52:18,680
+wouldn't say that in the comic in the 80s, they were
+addressing trans issues. It was just a trans
+
+529
+00:52:18,680 --> 00:52:24,540
+character that happened to be in the story.
+Gotcha. OK. Moving on to episode five, the song of
+
+530
+00:52:24,540 --> 00:52:30,080
+Orpheus. After recalling when destruction tried
+to tell him why he's abandoning his duty, Dream
+
+531
+00:52:30,080 --> 00:52:35,580
+attends Wanda's funeral, where death persuades
+him to make amends with delirium. Dream enters
+
+532
+00:52:35,580 --> 00:52:41,760
+delirium's realm and eventually reconnects with
+her, resuming their quest to locate destruction.
+
+533
+00:52:41,760 --> 00:52:48,640
+They seek advice from destiny. He tells Dream that
+only his son, an oracle of endless blood, can help
+
+534
+00:52:48,640 --> 00:52:55,980
+them. In a flashback to Greece, 1700 BC, the
+endless attend the wedding of Orpheus, son of
+
+535
+00:52:55,980 --> 00:53:02,580
+Dream and Calliope. That night, however,
+Orpheus's wife, Eurydice, dies from a snake bite.
+
+536
+00:53:02,580 --> 00:53:08,400
+Orpheus begs Dream to help him retrieve Eurydice
+from the underworld, but he refuses. With
+
+537
+00:53:08,400 --> 00:53:14,100
+destruction's help, Orpheus then approaches
+death and she reluctantly makes him immortal,
+
+538
+00:53:14,100 --> 00:53:19,400
+allowing him to travel to the underworld. Once
+there, Orpheus persuades Hades and Persephone
+
+539
+00:53:19,400 --> 00:53:26,360
+via song to revive Eurydice. But then he fails the
+test of faith presented to him, leaving Eurydice
+
+540
+00:53:26,360 --> 00:53:33,100
+to stay dead. Against the caution of Calliope, the
+desperate Orpheus lets himself be torn apart by
+
+541
+00:53:33,100 --> 00:53:40,280
+the Menads, murderous worshipers of Dionysus.
+Left to live as a decapitated head, Orpheus begs
+
+542
+00:53:40,280 --> 00:53:46,860
+Dream to kill him to no avail. In the present, a
+distraught Dream and delirium depart to see
+
+543
+00:53:46,860 --> 00:53:53,040
+Orpheus. This is my favorite episode of this
+season. I thought it was a tremendous visual
+
+544
+00:53:53,040 --> 00:53:58,740
+telling of the story of Orpheus and Eurydice. Oh,
+yeah, that's a classic Greek myth. And I agree, it
+
+545
+00:53:58,740 --> 00:54:04,460
+was very cool to see played out in live action. They
+never addressed the fact that Desire was behind
+
+546
+00:54:04,460 --> 00:54:09,880
+Eurydice's death, though. Right. I'm glad you
+mentioned that. I thought they would as well,
+
+547
+00:54:09,880 --> 00:54:16,240
+maybe during the wake or maybe even during this
+episode. But yes, in the comics and I think in the
+
+548
+00:54:16,240 --> 00:54:24,960
+myth as well, Desire influences a Sader to chase
+Eurydice, just lust filled. And in that chase is
+
+549
+00:54:24,960 --> 00:54:30,580
+when she is bitten by the snake. They didn't have
+the Sader in this. They just went with the snake.
+
+550
+00:54:30,580 --> 00:54:35,620
+But I almost feel like that's doing a disservice to
+the story because Desire really is the ultimate
+
+551
+00:54:35,620 --> 00:54:42,080
+villain, I feel, of the story. So I'm not sure why
+they decided to downplay that. Yeah, they kind of
+
+552
+00:54:42,080 --> 00:54:47,220
+gave Desire a pass by the end. But yeah, they're
+definitely the main villain. It was cool to see the
+
+553
+00:54:47,220 --> 00:54:52,000
+same actress playing Calliope as the first
+season. Oh, yeah, for the bonus episode that was in
+
+554
+00:54:52,000 --> 00:54:58,300
+season one. Yeah, she's a great Calliope. The
+entire cast is so damn good. Minus Rose, but we
+
+555
+00:54:58,300 --> 00:55:03,240
+didn't get much of her this season. And even what we
+did get, she was much better. Yeah, I would agree.
+
+556
+00:55:03,240 --> 00:55:09,780
+Moving on to episode six, which was titled Family
+Blood in a flashback to 1794. Dream approaches
+
+557
+00:55:09,780 --> 00:55:15,260
+Lady Johanna Constantine with a task to retrieve
+Orpheus's head from France during the Revolution
+
+558
+00:55:15,260 --> 00:55:21,500
+and return it to a temple in Greece, where it would
+be safeguarded by priests hunted down by a
+
+559
+00:55:21,500 --> 00:55:27,020
+Maximilian Robespierre. And as men Constantine
+succeeds with the help of Orpheus himself, whose
+
+560
+00:55:27,020 --> 00:55:33,320
+song incites the end to Robespierre's tyranny.
+After returning Orpheus's head to his temple,
+
+561
+00:55:33,320 --> 00:55:38,960
+Constantine asks Dream for a chance to visit
+Orpheus and the present dream in Delirium past her
+
+562
+00:55:38,960 --> 00:55:44,600
+grave near Orpheus's temple. Their dream
+reunites with Orpheus and he discloses the
+
+563
+00:55:44,600 --> 00:55:50,100
+location of destruction. Dream and Delirium
+approach destruction who reluctantly welcomes
+
+564
+00:55:50,100 --> 00:55:54,880
+them. The three discussed destruction's
+departure from his duties and his wards against
+
+565
+00:55:54,880 --> 00:56:00,680
+being found to be the cause of the deaths of Wanda,
+Ishtar and others. He alludes that mortals are
+
+566
+00:56:00,680 --> 00:56:05,980
+capable of great destruction on their own without
+the need of him being complicit. Despite
+
+567
+00:56:05,980 --> 00:56:12,780
+Delirium's plea, destruction bids them farewell
+and parts advice to Dream and gives Barnabas to
+
+568
+00:56:12,780 --> 00:56:18,160
+Delirium to keep her company. With that, he
+disappears into the sky. Dream and Orpheus
+
+569
+00:56:18,160 --> 00:56:24,600
+reconcile and upon Orpheus's request, Dream ends
+his son's life. Elsewhere, the kindly ones
+
+570
+00:56:24,600 --> 00:56:31,680
+condemn Dream for spilling family blood. I really
+like the way that the story incorporates actual
+
+571
+00:56:31,680 --> 00:56:37,480
+history, in this case, the French Revolution and
+how you had Robespierre who during the French
+
+572
+00:56:37,480 --> 00:56:43,180
+Revolution tried to bring out an age of reason to do
+away with religion, basically, and just
+
+573
+00:56:43,180 --> 00:56:48,840
+acknowledge like a supreme being that everyone in
+the country would accept. And that kind of plays
+
+574
+00:56:48,840 --> 00:56:55,480
+out in his statement to Constantine when he's
+like, there are no gods. There's just France and
+
+575
+00:56:55,480 --> 00:56:59,360
+the state. And she had that badass line where she's
+holding the head and she's like, there's so much
+
+576
+00:56:59,360 --> 00:57:05,140
+more than that when the head starts sinking, you
+know, given her knowledge of all of the endless and
+
+577
+00:57:05,140 --> 00:57:10,320
+all the supernatural and mysticism that
+surrounds the world within the story. I thought
+
+578
+00:57:10,320 --> 00:57:16,040
+that was a really cool moment. Yeah. And some of the
+volumes that were not adapted, like they also go
+
+579
+00:57:16,040 --> 00:57:23,320
+into the history of ancient Greece and history of
+ancient Greece and Baghdad and stuff like that.
+
+580
+00:57:23,320 --> 00:57:29,080
+Again, the story of Sandman is not bound by any
+location or time, which not only makes it great,
+
+581
+00:57:29,080 --> 00:57:35,540
+but again, very unique amongst literature.
+Moving on to Episode Seven, which was titled Time
+
+582
+00:57:35,540 --> 00:57:41,540
+and Night. Dream asks Destiny's help to protect
+him, but Destiny reveals there is nothing he can
+
+583
+00:57:41,540 --> 00:57:47,660
+do. Dream visits the kindly ones to give them an
+explanation, but they too are bound by law and
+
+584
+00:57:47,660 --> 00:57:53,780
+cannot help him. Dream then visits Loki and Puck,
+now a couple, who are pretending to be the Pope and
+
+585
+00:57:53,780 --> 00:57:59,480
+Cardinal. Dream calls in his favor for saving
+Loki, though Puck later suggests privately to
+
+586
+00:57:59,480 --> 00:58:05,940
+Loki to do what Dream wants, but not when Dream
+wants it to be done, thereby causing more chaos.
+
+587
+00:58:05,940 --> 00:58:10,920
+After returning to the Dreaming, Dream reveals
+that Lightahall's son, Daniel, will be his
+
+588
+00:58:10,920 --> 00:58:17,140
+successor. Dream visits his father, Time, but
+Time reveals he is powerless to help Dream, though
+
+589
+00:58:17,140 --> 00:58:23,240
+Dream tells him he loves him. He next visits his
+mother, Knight, who asks Dream to live with her,
+
+590
+00:58:23,240 --> 00:58:29,420
+but he rejects her offer. Back in the Dreaming,
+Clarke returns to bring back Nala at Titania's
+
+591
+00:58:29,420 --> 00:58:35,640
+orders, since she has heard that Dream could die
+and doesn't want Nala hurt. Though Nala resists,
+
+592
+00:58:35,640 --> 00:58:40,580
+Dream persuades her to go back to fairy for safety
+before leaving. He gives her a necklace as a
+
+593
+00:58:40,580 --> 00:58:45,940
+parting gift, which will summon him any time she
+calls out to him, at which time he will offer her a
+
+594
+00:58:45,940 --> 00:58:52,180
+boon. Meanwhile, Lightah and Rose visit Unity's
+home in London, where a disguised Puck works as the
+
+595
+00:58:52,180 --> 00:58:57,900
+chauffeur. That night when Rose and Lightah go to
+dinner, Puck puts everyone at their home to sleep
+
+596
+00:58:57,900 --> 00:59:03,540
+before kidnapping Daniel and taking him to Loki.
+Now, I thought it was really cool that they showed
+
+597
+00:59:03,540 --> 00:59:10,080
+Time and Knight in this episode because we don't
+actually see Time, if I remember, in the comic
+
+598
+00:59:10,080 --> 00:59:16,480
+series. He's in one of the over-itchers, but not
+this volume. So this whole journey he takes to meet
+
+599
+00:59:16,480 --> 00:59:22,820
+his parents is original to the story. Well, we get
+to see Knight in the original 10 volumes, but not
+
+600
+00:59:22,820 --> 00:59:28,660
+Time. So, yeah, that was original and that was
+great, I thought. It was fantastic. And it spoke a
+
+601
+00:59:28,660 --> 00:59:36,300
+lot to Dream's arc as well in terms of maybe how he
+came to be the way he was and how he was really
+
+602
+00:59:36,300 --> 00:59:43,620
+growing emotionally as this abstract deity. The
+actor who played his father, Rufus Sule, just did a
+
+603
+00:59:43,620 --> 00:59:49,480
+fantastic job with that performance. Honestly, I
+think this whole scene is just a master class in
+
+604
+00:59:49,480 --> 00:59:54,840
+acting. Now, he's the most recognizable actor, I
+think, out of the entire series. It was really an
+
+605
+00:59:54,840 --> 01:00:02,020
+interesting piece of casting to have like the head
+honcho, all-powerful father of the endless being
+
+606
+01:00:02,020 --> 01:00:08,580
+actor of note. Episode eight was titled Fuel for
+the Fire. Nala and Clericon return to the fairy
+
+607
+01:00:08,580 --> 01:00:14,680
+realm where Queen Titania jealously takes notice
+of Nala's necklace. While contemplating his fate
+
+608
+01:00:14,680 --> 01:00:20,920
+in his throne room, Dream inadvertently ends up in
+the realm of a sister despair where he sees through
+
+609
+01:00:20,920 --> 01:00:26,520
+one of her mirrors the light it also despairs over
+her missing baby, Daniel. And Dream learns that
+
+610
+01:00:26,520 --> 01:00:31,420
+Loki and Puck have framed him for Daniel's
+disappearance while posing as police
+
+611
+01:00:31,420 --> 01:00:37,620
+detectives. Despite Lucian discovering that the
+kindly ones cannot harm Dream in his own realm,
+
+612
+01:00:37,620 --> 01:00:42,240
+Dream enters the waking world to enlist the
+present day, Johanna Constantine, to find
+
+613
+01:00:42,240 --> 01:00:47,900
+Daniel. When the two of them visit Lighta, Dream
+encounters Alex Burgess, the son of the man who
+
+614
+01:00:47,900 --> 01:00:54,000
+imprisoned him for over 100 years and whom Dream
+cursed with a lifelong sleep. After seeing
+
+615
+01:00:54,000 --> 01:01:00,040
+Dream's antagonism toward Lighta and Alex,
+Johanna begins to suspect Dream of wanting to die
+
+616
+01:01:00,040 --> 01:01:05,560
+and suggests he return to the dreaming.
+Meanwhile, Puck flees from Loki with the baby
+
+617
+01:01:05,560 --> 01:01:11,340
+Daniel, having grown fond of the child and fearing
+Loki's plans for him. Dream shares a final drink
+
+618
+01:01:11,340 --> 01:01:17,380
+with Hobgadling. And after speaking of regrets,
+Dream awakens Alex from his sleep. Posing his
+
+619
+01:01:17,380 --> 01:01:24,460
+dream, Loki tricks Puck into returning to him with
+Daniel, whom Loki then sets on fire in a fireplace
+
+620
+01:01:24,460 --> 01:01:30,800
+before showing photos to Lighta of her burned dead
+son. Dream recreates the Corinthian, a nightmare
+
+621
+01:01:30,800 --> 01:01:35,780
+who once tried to kill him to aid Johanna. What did
+you think of the actress who played Johanna
+
+622
+01:01:35,780 --> 01:01:42,540
+Constantine's performance this season compared
+to last? Jenna Coleman? I thought she crushed it.
+
+623
+01:01:42,540 --> 01:01:48,180
+100 percent. Johanna has a really interesting arc
+this season. It's a romantic one. You know, she
+
+624
+01:01:48,180 --> 01:01:53,560
+starts out traumatized by the deaths of those she
+loved as we saw happen in season one. And she's even
+
+625
+01:01:53,560 --> 01:01:59,460
+like subconsciously killing lovers in her dreams
+as an expression for how averse she is to the notion
+
+626
+01:01:59,460 --> 01:02:05,060
+of love. But the Corinthian proves to be too
+charming, which is not necessarily in contrast to
+
+627
+01:02:05,060 --> 01:02:10,580
+his depiction in season one. But it is still kind of
+weird and terrifying how she seems to fall for him,
+
+628
+01:02:10,580 --> 01:02:16,180
+I think. Yeah, considering that Johanna is a
+gender bent version of John Constantine in this
+
+629
+01:02:16,180 --> 01:02:20,840
+show, I'm assuming that this arc is largely
+original to her character. No, she shouldn't have
+
+630
+01:02:20,840 --> 01:02:26,000
+even been in the season. But Jenna Coleman, again,
+just crushed the role in the first one. So I'm sure
+
+631
+01:02:26,000 --> 01:02:31,000
+they figured they had to bring her back. And I'm
+glad they did. Got you. Another thing they rewrote
+
+632
+01:02:31,000 --> 01:02:37,380
+for this season was having dream end up in the realm
+of despair, which was a brief little scene. But I
+
+633
+01:02:37,380 --> 01:02:42,560
+thought worked really well. Oh, yeah, that was a
+brilliant moment. It was terrifying when Loki put
+
+634
+01:02:42,560 --> 01:02:47,340
+the baby on the fire. I was like, damn, is that how it
+happened in the books? Yeah, that's another
+
+635
+01:02:47,340 --> 01:02:52,500
+fucked up moment. Yeah, it definitely was. Makes
+me sad because, like, you know, the kids essence
+
+636
+01:02:52,500 --> 01:02:59,140
+didn't die, but his mortal form did die. Yeah,
+really sad. Moving on to episode nine, the kindly
+
+637
+01:02:59,140 --> 01:03:04,640
+ones. When Johanna protests working with the
+Corinthian, Dream gives her a necklace capable of
+
+638
+01:03:04,640 --> 01:03:11,340
+uncreating him if she wishes. When Daniel's nanny
+suspects Loki is lying about the baby, he kills her
+
+639
+01:03:11,340 --> 01:03:17,900
+in a secluded alley. Well, Delirium meets with
+Destiny seeking aid to find the lost Bernard and
+
+640
+01:03:17,900 --> 01:03:22,420
+realizing there are currently multiple
+destinies. Dream meets with Fiddler's Green and
+
+641
+01:03:22,420 --> 01:03:27,940
+discusses how Dream has changed. Loki,
+meanwhile, reveals to Puck how he changed Daniel
+
+642
+01:03:27,940 --> 01:03:34,080
+from a mere mortal into a deity by burning away his
+human body, allowing him to take on Dream's powers
+
+643
+01:03:34,080 --> 01:03:39,360
+should the need arise. While also framing Dream so
+that Lighta will invoke the kindly ones
+
+644
+01:03:39,360 --> 01:03:45,660
+vengeance. Matt Heddy, an agent of the kindly
+ones, helps Lighta to do so. While the Corinthian
+
+645
+01:03:45,660 --> 01:03:50,680
+and Johanna track down Loki to his hotel, where
+Puck gives them the key to their room before
+
+646
+01:03:50,680 --> 01:03:56,460
+returning to Ferry. The two rescue Daniel, while
+Odin and Thor, who followed Johanna, capture
+
+647
+01:03:56,460 --> 01:04:02,840
+Loki. After Dream gives Delirium Goldie to help
+find Bernard, the kindly ones convince Lighta to
+
+648
+01:04:02,840 --> 01:04:08,180
+become their avatar of fury and vengeance in
+response to Dream killing Orpheus and, as she
+
+649
+01:04:08,180 --> 01:04:13,500
+believes, her son. When Nala learns that Queen
+Titania stole her necklace, she's unable to
+
+650
+01:04:13,500 --> 01:04:18,620
+retrieve it before Titania summons Dream,
+removing him from his realm just as Lighta and the
+
+651
+01:04:18,620 --> 01:04:23,740
+kindly ones appear there and kill Fiddler's
+Green. I wonder what the point of showing multiple
+
+652
+01:04:23,740 --> 01:04:30,060
+destinies was. It kind of gave the illusion that
+another outcome was possible, even though there
+
+653
+01:04:30,060 --> 01:04:36,800
+was no alternate outcome. I think it was to give the
+viewers hope as well as Dream hope. And I think
+
+654
+01:04:36,800 --> 01:04:42,620
+there were other outcomes possible if Loki had not
+done what he did. Interesting. It was actually a
+
+655
+01:04:42,620 --> 01:04:48,240
+brilliant plan on Loki's behalf. He really
+couldn't have screwed Dream over better. There's
+
+656
+01:04:48,240 --> 01:04:54,360
+a few things that I think the show does better than
+the comic. But one of the things they really kind of
+
+657
+01:04:54,360 --> 01:05:01,380
+messed up on was ruining the surprise that Daniel
+was going to be the new Dream, because we didn't
+
+658
+01:05:01,380 --> 01:05:06,580
+know that was going to happen in the comic until it
+actually happened. Really? Yeah. So what was
+
+659
+01:05:06,580 --> 01:05:11,620
+Dream's preoccupation with the child in the books
+then? Well, in the books, it's not revealed until
+
+660
+01:05:11,620 --> 01:05:19,040
+later what favor he asked of Loki. So at the time you
+didn't know that he asked Loki to kidnap Daniel.
+
+661
+01:05:19,040 --> 01:05:23,600
+You just assumed that Loki kidnapped Daniel just
+to do it. Gotcha. That actually would have been a
+
+662
+01:05:23,600 --> 01:05:29,140
+cool reveal, I think. Yeah, and I don't really
+understand why they spoiled it, other than maybe
+
+663
+01:05:29,140 --> 01:05:34,440
+it would have left audiences questioning what was
+going on and why we were watching this kind of
+
+664
+01:05:34,440 --> 01:05:39,900
+tangential thing going on with Daniel. I do think
+it's really cool. And I thought this in the comics
+
+665
+01:05:39,900 --> 01:05:46,380
+as well that Fury Lighthaul, who is Wonder Woman
+and Steve Trevor's daughter in the comics, works
+
+666
+01:05:46,380 --> 01:05:51,540
+with the Furies to take out Sandman. That was cool.
+That was a nice little clawback, although she
+
+667
+01:05:51,540 --> 01:05:57,340
+wasn't a great character. I don't know if I bought
+her wrath as much as I probably should have. There
+
+668
+01:05:57,340 --> 01:06:04,100
+was a lot left out regarding her story for this
+adaptation, which I kind of wish was still there,
+
+669
+01:06:04,100 --> 01:06:10,000
+but it made it more believable in the comic when she
+became the avatar of the kindly ones. Again, still
+
+670
+01:06:10,000 --> 01:06:17,060
+well done here, just not as well done as the books.
+So Lightha is the daughter of the Golden Age,
+
+671
+01:06:17,060 --> 01:06:22,380
+Wonder Woman and Steve Trevor. And I'm guessing
+that they named her after Diana's mother,
+
+672
+01:06:22,380 --> 01:06:26,500
+Hippolyta, right? Yes, that's correct. The
+actress would have made a pretty decent Wonder
+
+673
+01:06:26,500 --> 01:06:33,520
+Woman, I think. Yeah, I agree. Moving on to Episode
+10, Long Live the King. As Lightha continues to
+
+674
+01:06:33,520 --> 01:06:39,860
+kill denizens of the dreaming, Nala uses her boon
+to send Dream back to his realm, where he reveals to
+
+675
+01:06:39,860 --> 01:06:45,480
+Lightha that Daniel is still alive and is able to
+temporarily free her from the kindly ones
+
+676
+01:06:45,480 --> 01:06:52,340
+influence. When Dream attempts to kill Lightha in
+the waking world, Matt Heddy convinces him not to.
+
+677
+01:06:52,340 --> 01:06:57,700
+Deciding to confront the kindly ones at the edge of
+the dreaming, Dream prepares Daniel to take his
+
+678
+01:06:57,700 --> 01:07:04,000
+place and his staff for his potential end, sending
+them away, though Matthew the Raven travels with
+
+679
+01:07:04,000 --> 01:07:09,020
+him. When the kindly ones inform him that Lightha
+is back in the dreaming, destroying his palace
+
+680
+01:07:09,020 --> 01:07:14,540
+where his staff, including Lucien, Kane, the
+Corinthian and Daniel are sheltering, Dream
+
+681
+01:07:14,540 --> 01:07:20,060
+sends Matthew to bring him his sister, Death, who
+is waiting at the palace as well. When Nala
+
+682
+01:07:20,060 --> 01:07:25,780
+confronts Queen Titania regarding her returning
+to the dreaming, Titania gives Nala her sword,
+
+683
+01:07:25,780 --> 01:07:30,680
+which Nala uses to kill Light as Avatar in the
+dreaming, just as Dream admits after a
+
+684
+01:07:30,680 --> 01:07:36,860
+conversation with his sister that he's ready to
+die to protect his loved ones and Death takes him.
+
+685
+01:07:36,860 --> 01:07:42,380
+It's then that Delirium finds that Bernard was
+with Matt Heddy, who herself finds Lighta awake
+
+686
+01:07:42,380 --> 01:07:47,420
+and reveals that Dream is dead. As the Corinthian
+and the others in the palace wonder what has
+
+687
+01:07:47,420 --> 01:07:55,160
+happened, Daniel reveals himself, aged and
+transformed as the new Dream of the Endless. Now, I
+
+688
+01:07:55,160 --> 01:08:01,520
+remember when I was reading the comics, I expected
+this epic battle between the kindly ones and
+
+689
+01:08:01,520 --> 01:08:09,340
+Sandman. And it was shocking to me that his life
+ended with this anti-climactic whimper, but his
+
+690
+01:08:09,340 --> 01:08:15,040
+death is much more human, I guess you could say,
+which is fitting for the character who, as you
+
+691
+01:08:15,040 --> 01:08:21,260
+mentioned, is like a god who over time changes to
+become more human. I was under the impression that
+
+692
+01:08:21,260 --> 01:08:25,960
+Lighta understood what was going on, that her son
+was still alive and had retreated from attacking
+
+693
+01:08:25,960 --> 01:08:31,319
+the dreaming. I guess I don't understand why she
+went back to doing it just suddenly. Yeah, that
+
+694
+01:08:31,319 --> 01:08:37,100
+whole part was pretty rushed, but essentially the
+kindly ones just influenced her again to go back
+
+695
+01:08:37,100 --> 01:08:45,140
+and finish the job. Interesting. Now, Dream died
+just as Nala decapitated Lighta. If he had waited
+
+696
+01:08:45,140 --> 01:08:52,160
+like 10 more seconds, could he have like delayed
+his death? You think? Yes. That's too bad. It's
+
+697
+01:08:52,160 --> 01:08:57,439
+part of the tragedy. Really, Titania is to blame
+for all of this. Yes, Titania. She is the true
+
+698
+01:08:57,439 --> 01:09:03,000
+villain of the story. There you go. Or at least one
+of many. We've gone to episode 11, a tale of
+
+699
+01:09:03,000 --> 01:09:08,819
+graceful ends as Lucian, Nala, Matthew and the
+Corinthian prepare for dreams funeral. Kane
+
+700
+01:09:08,819 --> 01:09:15,840
+demands Daniel resurrect Abel, whom Lighta
+killed. Daniel as Dream obliges as guests arrive
+
+701
+01:09:15,840 --> 01:09:21,760
+for the wake, including Johanna Constantine,
+Hobgadling, Alex Burgess, Nada, as well as the
+
+702
+01:09:21,760 --> 01:09:27,520
+court of fairy and deities from various
+pantheons, questions abound regarding Daniel,
+
+703
+01:09:27,520 --> 01:09:32,479
+who takes it upon himself to recreate other
+various dream entities that Lighta killed,
+
+704
+01:09:32,479 --> 01:09:38,600
+including Murph Pumpkinhead and Fiddler's
+Green, though the latter requests to remain dead,
+
+705
+01:09:38,600 --> 01:09:44,819
+along with the prior dream, as their deaths had
+meaning. The rest of the endless arrive save for
+
+706
+01:09:44,819 --> 01:09:50,800
+destruction, who shows up later in secret to speak
+with Daniel, offering advice and insights.
+
+707
+01:09:50,800 --> 01:09:57,160
+Destiny, desire, despair, delirium, death and
+Lucian take turns speaking at Dream's wake before
+
+708
+01:09:57,160 --> 01:10:03,360
+his body is sent to drift on a cosmic river of stars.
+While Hobbes speaks with death and Johanna and
+
+709
+01:10:03,360 --> 01:10:09,280
+Corinthian express feelings for one another,
+Lighta reunites with her son Daniel, now Dream,
+
+710
+01:10:09,280 --> 01:10:14,640
+who chooses not to punish her for her role in his
+predecessor's death. Daniel then makes Lucian
+
+711
+01:10:14,640 --> 01:10:20,040
+the Dreaming's Prime Minister before meeting
+with Hobb and recalling Dream sharing a drink with
+
+712
+01:10:20,040 --> 01:10:26,340
+William Shakespeare after his completion of The
+Tempest. Finally, Daniel meets his new family,
+
+713
+01:10:26,340 --> 01:10:32,320
+the Endless, who welcome him as the new Dream. In a
+post-credits scene, the kindly ones equate
+
+714
+01:10:32,320 --> 01:10:38,020
+storytelling to yarn work and read a poetic
+fortune about life and rebirth from a fortune
+
+715
+01:10:38,020 --> 01:10:45,640
+cookie. This episode dragged. It felt really like
+an epilogue that didn't need to be. And so I think
+
+716
+01:10:45,640 --> 01:10:52,960
+just felt too long to me. I could see that. I kind of
+felt the same way when reading The Wake, which is
+
+717
+01:10:52,960 --> 01:10:58,880
+its own volume of comics when I read the series. But
+I also have to admit that there's something very
+
+718
+01:10:58,880 --> 01:11:06,560
+bittersweet and unique about it and that we don't
+really get something like this in other stories,
+
+719
+01:11:06,560 --> 01:11:11,320
+something where we really get to celebrate not
+only the main character of the story we just read,
+
+720
+01:11:11,320 --> 01:11:18,140
+but Shed's new light on how various characters
+truly saw Dream. I will totally admit that I got
+
+721
+01:11:18,140 --> 01:11:23,600
+choked up when I saw Dream's boat kind of turning
+into a shooting star because it reminded me
+
+722
+01:11:23,600 --> 01:11:32,200
+exactly of when I read the comic. How bittersweet
+everything was in celebrating what I had read and
+
+723
+01:11:32,200 --> 01:11:39,180
+being given that time to grieve and mourn in a way.
+Seeing Daniel from the outset be very much
+
+724
+01:11:39,180 --> 01:11:43,960
+everything that Dream could not be for most of his
+existence, like forgiving, humble, nurturing
+
+725
+01:11:43,960 --> 01:11:50,820
+was also important, I think, for audiences to see.
+You know, he's innocent and unsure of himself. But
+
+726
+01:11:50,820 --> 01:11:57,500
+Jacob Anderson gives a fantastic performance as a
+grown Daniel of someone trying to mimic Tom
+
+727
+01:11:57,500 --> 01:12:02,700
+Sturridge's dream, but still making it his own.
+Are you familiar with William Shakespeare's The
+
+728
+01:12:02,700 --> 01:12:09,100
+Tempest at all? No, I never read it, but it sounds
+like it's the story of a God choosing to be mortal.
+
+729
+01:12:09,100 --> 01:12:16,140
+Of a sorcerer choosing to be mortal, yes, who is in
+charge of his own realm, which is an island and
+
+730
+01:12:16,140 --> 01:12:21,400
+essentially choosing to forgive people, all of
+his enemies. It was William Shakespeare's last
+
+731
+01:12:21,400 --> 01:12:27,180
+play that he wrote. And actually, in the comics,
+the last issue of the main Sandman story revolves
+
+732
+01:12:27,180 --> 01:12:32,940
+all around William Shakespeare. Like it's not the
+kindly ones who are the final panel. It's
+
+733
+01:12:32,940 --> 01:12:38,320
+Shakespeare. So I'm really glad that they found a
+way to work that into this episode as well, because
+
+734
+01:12:38,320 --> 01:12:44,100
+I didn't think they were going to. Moving on to the
+bonus episode, episode 12, Death, The High Cost of
+
+735
+01:12:44,100 --> 01:12:49,760
+Living, a young disillusioned journalist named
+Sexton Fernival, where it's a suicide note to his
+
+736
+01:12:49,760 --> 01:12:54,800
+ex-girlfriend Sylvie before being interrupted
+by his roommates and her girlfriend, leaving
+
+737
+01:12:54,800 --> 01:13:00,120
+their apartment so they could be alone. Sexton
+meets death at a trash heap in the city, and death
+
+738
+01:13:00,120 --> 01:13:06,700
+suggests he come to her apartment so she can mend
+his shirt, which tore when he fell in the trash.
+
+739
+01:13:06,700 --> 01:13:12,760
+Upon learning who she is and that today is her one
+day out of every 100 years that she gets to spend as a
+
+740
+01:13:12,760 --> 01:13:18,560
+mortal human, Sexton attempts to leave, but is
+captured and threatened by Mad Heddy, who asks
+
+741
+01:13:18,560 --> 01:13:23,780
+death to find her soul. Reluctantly, Sexton
+agrees to follow death as she attempts to
+
+742
+01:13:23,780 --> 01:13:29,500
+experience as much as she can in one day. After
+arriving at a dance club where he used to go with
+
+743
+01:13:29,500 --> 01:13:35,000
+Sylvie, Sexton meets his roommate there along
+with her girlfriend, and he's introduced to
+
+744
+01:13:35,000 --> 01:13:40,100
+Jackie, who appears fond of him, though he's
+preoccupied with the possibility of running into
+
+745
+01:13:40,100 --> 01:13:46,500
+Sylvie while getting a drink at the bar, the House
+DJ and Club promoter Theo notices death's onk
+
+746
+01:13:46,500 --> 01:13:53,040
+necklace and manages to lure both her and Sexton
+into a trap upstairs, where death realizes Theo
+
+747
+01:13:53,040 --> 01:13:59,080
+summoned death using an occult ritual in an effort
+to resurrect his recently deceased girlfriend,
+
+748
+01:13:59,080 --> 01:14:05,000
+Natalie. Theo is injured while threatening the
+two, and Sexton calls an ambulance for him. After
+
+749
+01:14:05,000 --> 01:14:10,900
+the sun rises, death buys a pendant, which she
+gives to Sexton before she expresses how great it
+
+750
+01:14:10,900 --> 01:14:17,440
+is to be alive before suffering a fatal heart
+attack at the end of her 24 hours. Mad Heddy appears
+
+751
+01:14:17,440 --> 01:14:23,740
+and Sexton learns the pendant contains a photo of
+Mad Heddy's daughter from long ago, her soul. Back
+
+752
+01:14:23,740 --> 01:14:29,640
+at his apartment, Sexton deletes his suicide note
+to Sylvie before Jackie arrives and he offers her
+
+753
+01:14:29,640 --> 01:14:35,420
+some tea. Now, I'm not entirely sure that this
+episode needed to be adapted. I'm not actually
+
+754
+01:14:35,420 --> 01:14:42,420
+familiar with the comic that this adapts. I've
+never read it, but it truly did feel supplemental.
+
+755
+01:14:42,420 --> 01:14:46,840
+Like it wasn't really necessary. Not in the same
+way that the first season's episodes, I thought,
+
+756
+01:14:46,840 --> 01:14:51,820
+were a little bit more necessary. Maybe not the cat
+one, but definitely Calliope. Yeah, this one felt
+
+757
+01:14:51,820 --> 01:14:56,080
+more interesting to me than the cat story from the
+first season. It was really just kind of like a
+
+758
+01:14:56,080 --> 01:15:01,960
+celebration of life, I guess, the whole episode.
+And I thought the performances were really solid.
+
+759
+01:15:01,960 --> 01:15:06,740
+Oh, yeah. Yeah, definitely. So overall, I enjoyed
+it. Like I didn't regret watching it like I did the
+
+760
+01:15:06,740 --> 01:15:11,680
+cat one. Like I remember watching the cow one and
+just being like, I want to be done with the show
+
+761
+01:15:11,680 --> 01:15:16,680
+already. I actually kind of liked the cow one, but I
+also just liked that story in the comics. My
+
+762
+01:15:16,680 --> 01:15:21,140
+impression that time was like, you don't have to
+adapt everything. I think they took that message
+
+763
+01:15:21,140 --> 01:15:26,240
+to heart with this second season. Thankfully,
+perhaps. Yeah. Honestly, I would not mind more
+
+764
+01:15:26,240 --> 01:15:33,380
+bonus episodes. Like if you give me a season three,
+just of just nothing but anthological shorts or
+
+765
+01:15:33,380 --> 01:15:39,780
+maybe some of the overture tales, stuff like that.
+It's probably not going to happen, but I wish that
+
+766
+01:15:39,780 --> 01:15:45,840
+it would because now that Dead Boy Detectives we
+know is for sure not moving forward. It feels just
+
+767
+01:15:45,840 --> 01:15:52,080
+like, well, this is it now. And that makes me sad
+because I love Sandman. Yeah, I forgot that Dead
+
+768
+01:15:52,080 --> 01:15:57,700
+Boy Detectives was in the same universe. And I kind
+of missed seeing those guys in this season because
+
+769
+01:15:57,700 --> 01:16:01,120
+I was hoping we would get a chance to. Yeah,
+actually, I thought we were going to see them in
+
+770
+01:16:01,120 --> 01:16:05,320
+episode two, because one thing that's not
+addressed in the season is that when Lucifer
+
+771
+01:16:05,320 --> 01:16:12,440
+empties hell, basically all of the evil people who
+were there show up in the real world as like zombie
+
+772
+01:16:12,440 --> 01:16:20,060
+ghosts. And that's actually how Charles dies is
+some zombie ghost bullies kill him. Oh, OK.
+
+773
+01:16:20,060 --> 01:16:25,540
+Interesting. Fascinating. So when the angels
+take back control of hell, all of them get sent back
+
+774
+01:16:25,540 --> 01:16:31,160
+there and it kind of saves the world in a way. Yeah,
+that was kind of a loose thread. Yeah, probably not
+
+775
+01:16:31,160 --> 01:16:36,920
+needed for this season. But what would have been a
+great season to have Dead Boy Detectives? Yeah, it
+
+776
+01:16:36,920 --> 01:16:40,980
+would have been. Yeah, that would have been great.
+But back to this show and this season, again, I'm
+
+777
+01:16:40,980 --> 01:16:46,780
+sad that it's over. It was a focused adaptation
+that masterfully threads themes of love, growth
+
+778
+01:16:46,780 --> 01:16:53,480
+and mortality into a bittersweet and profoundly
+existential tapestry. Again, it's a master work
+
+779
+01:16:53,480 --> 01:17:01,500
+adaptation, in my opinion. And I'm giving it five
+out of five stars, a fresh rating on Ron Tomatoes.
+
+780
+01:17:01,500 --> 01:17:06,340
+Damn, you didn't even give the first season five
+out of five stars. No, because the first season was
+
+781
+01:17:06,340 --> 01:17:12,060
+really just an introduction to this world. But I
+think this season, again, did a really good job of
+
+782
+01:17:12,060 --> 01:17:18,000
+weaving together all the different threads to
+really capture the essence of the themes and the
+
+783
+01:17:18,000 --> 01:17:23,140
+story of the comic, which is a story that I feel
+should be adapted for other mediums, because the
+
+784
+01:17:23,140 --> 01:17:28,880
+more people that get to experience it, the better.
+It's a worthwhile story, for sure. I'll agree with
+
+785
+01:17:28,880 --> 01:17:33,580
+your rating. I think I would probably have gone
+4.5, but I can absolutely see the case made for
+
+786
+01:17:33,580 --> 01:17:39,040
+five, considering how transcendental and just
+well written the story is, not only in the comic
+
+787
+01:17:39,040 --> 01:17:45,220
+books, but how it's adapted here. I don't think I
+can recommend it anymore than I already do. So five
+
+788
+01:17:45,220 --> 01:17:50,500
+stars, then. Nice. I'm really glad you liked it. I
+really hoped you would. I hope everyone likes it as
+
+789
+01:17:50,500 --> 01:17:56,980
+much as I do. I know a lot of critics don't because I
+don't know why they're just petty as fuck,
+
+790
+01:17:56,980 --> 01:18:00,500
+probably because this season doesn't stand as
+well on its own without seeing season one, maybe
+
+791
+01:18:00,500 --> 01:18:06,500
+either that or they're just like comic purists or
+they never read the comic. I don't know. They're
+
+792
+01:18:06,500 --> 01:18:12,140
+weird. I'm right. They're wrong. This show is
+awesome. And hopefully if you made it this far,
+
+793
+01:18:12,140 --> 01:18:17,700
+you've already seen it and already know that. But
+that does it for this review. A.J .9K help close us
+
+794
+01:18:17,700 --> 01:18:25,020
+out. Thanks for listening to Dynamic Jewel. Visit
+the show's website at dynamicjewel.com and
+
+795
+01:18:25,020 --> 01:18:30,860
+follow us on Instagram at Dynamic Jewel podcast.
+You can support the show on Patreon at patreon.com
+
+796
+01:18:30,860 --> 01:18:36,160
+slash dynamic jewel and joining a tier that works
+for you or by rating and reviewing Dynamic Jewel on
+
+797
+01:18:36,160 --> 01:18:41,880
+Apple podcasts, Spotify, Podchaser or on our
+website. Don't forget to listen to the other shows
+
+798
+01:18:41,880 --> 01:18:49,260
+in the Dynamite podcast network, including Max
+Destruction, Senjo World and Console Combat. In
+
+799
+01:18:49,260 --> 01:18:53,120
+our next episode, we're getting back to the duels,
+guys. We're going to find out who would win in a
+
+800
+01:18:53,120 --> 01:18:59,320
+fight between the Green Lantern love interest
+character, Star Sapphire and Ironheart, who
+
+801
+01:18:59,320 --> 01:19:05,040
+recently had her own Disney Plus television
+series. Yeah, this is sort of a late time coming tie
+
+802
+01:19:05,040 --> 01:19:09,420
+into that. But that does it for this episode. We
+want to give a big thanks to our executive
+
+803
+01:19:09,420 --> 01:19:14,240
+producers, John Starosky, Zachary Hepburn,
+Justin Belcom, Mickey Muthinkeyan, Nathaniel
+
+804
+01:19:14,240 --> 01:19:19,240
+Wagner, Levi Yatyn, Austin Wieselowski, A.J.
+Dunkerley, Nick Obanto, Scott Camacho, Gil
+
+805
+01:19:19,240 --> 01:19:25,120
+Camacho, Adam Spees, Dean Maleski, Devin Davis,
+Joseph Kirsting, Josh Liner, Mike Williams,
+
+806
+01:19:25,120 --> 01:19:30,640
+Oscar Galvez and Paul Graves for helping make this
+podcast possible. And we'll talk to you guys next
+
+807
+01:19:30,640 --> 01:19:37,500
+week up up and away. True believers. I reveal to you
+that I am the youngest of the endless. I have gone by
+
+808
+01:19:37,500 --> 01:19:42,560
+many names, but my siblings know me as dongle,
+dookie, doink, derp, a dumpy, dibble, the third.
+
+809
+01:19:42,560 --> 01:19:43,840
+You would do well not to forget it.
