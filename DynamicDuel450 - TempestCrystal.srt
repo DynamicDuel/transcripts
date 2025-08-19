@@ -1,0 +1,2803 @@
+1
+00:00:00,000 --> 00:00:27,560
+This is a DynaMic Network Podcast. Hi, welcome to
+the Dynamic Duel Podcast, a weekly show where we
+
+2
+00:00:27,560 --> 00:00:32,580
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:32,580 --> 00:00:37,660
+their characters in stat-based battle
+simulations. I'm Johnny DC and I'm his twin
+
+4
+00:00:37,660 --> 00:00:44,260
+brother Marvelous Joe. And in this episode we are
+doing a duel between the characters of Tempest,
+
+5
+00:00:44,260 --> 00:00:51,100
+formerly known as Aqualad, and the Inhuman
+Crystal. And this of course is in lead-up to our
+
+6
+00:00:51,100 --> 00:00:57,760
+Wildcats vs. Inhumans team duel that we will be
+doing next week. Yeah, I've been dying to get to an
+
+7
+00:00:57,760 --> 00:01:03,160
+Inhumans team duel. I'm a big fan of the Inhumans,
+not a big fan of the show that they put together on
+
+8
+00:01:03,160 --> 00:01:08,600
+ABC. But don't let that piece of shit, poor excuse,
+attempt for a series detract you from learning
+
+9
+00:01:08,600 --> 00:01:14,720
+just how awesome the Inhumans are. The internet
+never forgets. I neither will I. Before we get to
+
+10
+00:01:14,720 --> 00:01:19,480
+the duel, we're going to break down the comic book
+movie news from the past week, of which there were
+
+11
+00:01:19,480 --> 00:01:25,040
+two news items, one being the Peacemaker Season 2
+official red band trailer, and the new one being
+
+12
+00:01:25,040 --> 00:01:31,320
+the Marvel Zombies series release date. As
+always, we list our segment times in our episode
+
+13
+00:01:31,320 --> 00:01:35,140
+description, so feel free to check out the show
+notes if you want to skip ahead to a particular
+
+14
+00:01:35,140 --> 00:01:40,100
+topic. Guys, our artificially intelligent duel
+simulator, AJ9K, has a quick message for our
+
+15
+00:01:40,100 --> 00:02:29,260
+listeners, so listen up. Thanks AJ9K, and thanks
+to everyone who supports the podcast, including
+
+16
+00:02:29,260 --> 00:02:36,680
+Josh Hayward, who had a birthday this past week.
+Happy birthday, Josh. Also, Zachary Hepburn, two
+
+17
+00:02:36,680 --> 00:02:42,360
+of our patrons actually had birthdays this past
+week, and I believe they both turned 35. Great age,
+
+18
+00:02:42,360 --> 00:02:47,700
+you guys could both be a president, or at least Josh
+could, because Zach's Canadian. And because
+
+19
+00:02:47,700 --> 00:02:54,580
+you're Canadian, Zach, for your birthday, if I
+could get you any gift from DC, it would be Captain
+
+20
+00:02:54,580 --> 00:03:00,480
+Cold's cold gun, because it's cold up in Canada,
+and that's all I really know about it. In the
+
+21
+00:03:00,480 --> 00:03:05,840
+winter, it's cold in Canada, right? You've been to
+Vancouver, haven't you? Yes, and it was cold. And
+
+22
+00:03:05,840 --> 00:03:11,840
+for the Marvel guy, Josh Hayward, if I had to give
+you a gift from Marvel, it would be the Falcons
+
+23
+00:03:11,840 --> 00:03:17,680
+wingsuit. Why? I don't know. Probably because I'm
+looking at an image of the Falcon right now, and
+
+24
+00:03:17,680 --> 00:03:21,620
+that's the first thing that came to mind. Happy
+birthday again to both of you guys, and thanks for
+
+25
+00:03:21,620 --> 00:03:26,620
+supporting the show. Be sure to tune into the other
+shows on the Dynamite Podcast Network this week,
+
+26
+00:03:26,620 --> 00:03:31,340
+including the console Combat Podcast, where
+hosts John and Dean simulate battles between
+
+27
+00:03:31,340 --> 00:03:36,540
+popular video game characters. In yesterday's
+episode, the two determined who would win between
+
+28
+00:03:36,540 --> 00:03:43,340
+King K. Rool from Donkey Kong and King Hippo from
+Punch Out. Great matchup. Over on the Max
+
+29
+00:03:43,340 --> 00:03:47,760
+Destruction Podcast, hosts Scotty and Gilly pit
+your favorite action heroes from film and
+
+30
+00:03:47,760 --> 00:03:52,280
+television against each other. They are taking a
+hiatus during the month of August, so be sure to get
+
+31
+00:03:52,280 --> 00:03:57,360
+caught up on their latest episodes. On the Sinjo
+World Podcast, birthday boy Zachary Hepburn
+
+32
+00:03:57,360 --> 00:04:03,280
+speculates on fights between fan-favorite anime
+and manga characters. In his next episode, Zach is
+
+33
+00:04:03,280 --> 00:04:09,600
+going to reveal who would win between Akuto Sai
+from Demon King Daimo and Amos Voldigoad from
+
+34
+00:04:09,600 --> 00:04:14,840
+Misfit of Demon Academy. Visit
+dynamicpodcasts.com or click the link in our show
+
+35
+00:04:14,840 --> 00:04:20,720
+notes to listen to all the shows in the Dynamite
+Podcast Network. Boat that out of the way. Quick to
+
+36
+00:04:20,720 --> 00:04:27,740
+the No Prize! A No Prize is an award that Marvel used
+to give out to fans. Our version, the Dynamic Dual
+
+37
+00:04:27,740 --> 00:04:33,100
+No Prize, is a digital award we post on Instagram
+for the person that we feel gave the best answer to
+
+38
+00:04:33,100 --> 00:04:39,000
+our question of the week. Last week, or two weeks
+ago actually, we asked you guys, what was the best
+
+39
+00:04:39,000 --> 00:04:46,700
+live action Spider-Man suit and the best live
+action Batman suit and why? We got a few answers for
+
+40
+00:04:46,700 --> 00:04:50,540
+this one, not nearly as much as I thought we would
+actually, but let's go ahead and run down the
+
+41
+00:04:50,540 --> 00:04:56,720
+honorable mentions and the No Prize winner. Our
+first honorable mention goes to Alex Albro, who
+
+42
+00:04:56,720 --> 00:05:01,320
+said, Hey guys, I think Toby's black suit was the
+best. I can remember the way the action figure felt
+
+43
+00:05:01,320 --> 00:05:07,340
+in my hand even 20 years later and seeing it come on
+to him in the movie with a webby black virus looking
+
+44
+00:05:07,340 --> 00:05:12,580
+thing was a really cool visual. As for Batman, I
+think George Clooney suits the best. You know,
+
+45
+00:05:12,580 --> 00:05:17,160
+it's the most anatomically correct, you could
+say, and it just fits the tone of that film. I never
+
+46
+00:05:17,160 --> 00:05:22,560
+once questioned it as a kid and also it's got the
+best Robin suit in that film. Thanks guys. Yeah,
+
+47
+00:05:22,560 --> 00:05:28,120
+the Toby McGuire Spider-Man suit is really good.
+Definitely like the raised webbing look and the
+
+48
+00:05:28,120 --> 00:05:33,480
+symbiote suit that he wore from Spider-Man 3 was no
+exception. They basically took like the sleek
+
+49
+00:05:33,480 --> 00:05:39,600
+shiny black webbing portion of a suit and applied
+that to everywhere as opposed to just the webbing.
+
+50
+00:05:39,600 --> 00:05:42,400
+And I thought that was really cool because the
+symbiote, you know, is supposed to be black and
+
+51
+00:05:42,400 --> 00:05:46,960
+shiny, at least venom is, you know. I still
+remember the first look we got at the black
+
+52
+00:05:46,960 --> 00:05:52,440
+Spider-Man suit from Spider-Man 3. It was a really
+cool poster of Spider-Man just like kneeling at
+
+53
+00:05:52,440 --> 00:05:57,680
+the edge of a building like a gargoyle in the rain.
+And it was just all black and white. For some
+
+54
+00:05:57,680 --> 00:06:02,640
+reason, the photo was so striking. I thought it
+looked really cool. And as for George Clooney
+
+55
+00:06:02,640 --> 00:06:10,220
+suits, what? Eww, bro. Nipples. You don't like
+nipples? Everybody's got nipples. Come on. No,
+
+56
+00:06:10,220 --> 00:06:17,860
+no. I don't want nipples. You don't want nipples?
+No. Great answer. Alex, our next honorable
+
+57
+00:06:17,860 --> 00:06:25,780
+mention goes to Daniel Alonso. Who said? Alright,
+the best Spider-Man suit hands down is the Toby
+
+58
+00:06:25,780 --> 00:06:32,920
+McGuire one. I mean, the raised webbing, the best
+spider on the front and the back. The eyes are
+
+59
+00:06:32,920 --> 00:06:39,100
+amazing. And then it all has this underlying
+checkered pattern throughout the fabric. Its
+
+60
+00:06:39,100 --> 00:06:45,880
+colors are fantastic. It's just the best suit. And
+best Batman suit? Probably Batterson. I think
+
+61
+00:06:45,880 --> 00:06:51,280
+it's the most menacing, the most realistic. He
+just looks like a tank. I love that one. Yeah,
+
+62
+00:06:51,280 --> 00:06:55,460
+another shout out for Toby McGuire's Spider-Man
+suit. I really think that that was the suit that
+
+63
+00:06:55,460 --> 00:07:00,500
+brought superhero costumes into the modern age. I
+mean, before that we had the X-Men, but they didn't
+
+64
+00:07:00,500 --> 00:07:04,620
+really quite nail the suit in a way that I think was
+satisfying for fans. Nobody was complaining
+
+65
+00:07:04,620 --> 00:07:09,340
+about Toby McGuire suit when that movie first came
+out because it was literal perfection.
+
+66
+00:07:09,340 --> 00:07:14,600
+Everything from the material to the design, the
+eye design, as Daniel mentioned, it was flawless.
+
+67
+00:07:14,600 --> 00:07:21,180
+Do you think that the Toby McGuire Spider logo was
+better than Andrew Garfield's though? Or maybe
+
+68
+00:07:21,180 --> 00:07:27,620
+Tom Holland's? It's a great question. Honestly,
+my favorite Spider emblem is probably Andrew
+
+69
+00:07:27,620 --> 00:07:32,260
+Garfield's, I think. That's what I was thinking.
+Yeah, yeah. I would agree with that. As for
+
+70
+00:07:32,260 --> 00:07:36,900
+Banson's suit, it's definitely the least comic
+book accurate, but you're right. With the steel
+
+71
+00:07:36,900 --> 00:07:42,720
+plating, he almost looks like a knight in his
+armor, just wearing a cowl and a cape. He looks
+
+72
+00:07:42,720 --> 00:07:48,880
+badass. I really, really want him to be part of the
+DCU. I'm not going to stop saying it until it's like
+
+73
+00:07:48,880 --> 00:07:53,900
+official official. You're going to try to
+manifest it? Absolutely. Like until James Gunn
+
+74
+00:07:53,900 --> 00:07:58,680
+announces the casting for his Batman, I'm still
+going to insist that it should be Robert
+
+75
+00:07:58,680 --> 00:08:03,980
+Pattinson. If that does happen, though, I would
+probably insist as a fan that he get a more comic
+
+76
+00:08:03,980 --> 00:08:09,240
+accurate bat suit. No, no, I'm fine with it. Great
+answer, Daniel. Our final honorable mention goes
+
+77
+00:08:09,240 --> 00:08:16,340
+to Scott Camacho. Who said? Scott Camacho here. If
+I had to pick a Spider-Man suit, it would be Toby
+
+78
+00:08:16,340 --> 00:08:24,860
+McGuire. He was our first introduction into live
+action Spider-Man and his suit was pretty much on
+
+79
+00:08:24,860 --> 00:08:32,220
+point. And I'm a big fan of the black suit. And for
+Batman, it's Ben Affleck's Batman. It's
+
+80
+00:08:32,220 --> 00:08:37,840
+everything we wanted from the Dark Knight Returns
+put into silver screen. It was awesome. Yeah,
+
+81
+00:08:37,840 --> 00:08:40,880
+we've already spoken at length about Toby
+McGuire's suit, but let's talk about Ben
+
+82
+00:08:40,880 --> 00:08:46,780
+Affleck's bat suit. I would also say that this is my
+favorite bat suit on screen. I'm not counting like
+
+83
+00:08:46,780 --> 00:08:52,180
+the armored version from the Dark Knight Returns
+when he fought against Superman. Even though that
+
+84
+00:08:52,180 --> 00:08:57,600
+was fantastic. I'm talking more about his
+standard Batman suit from Batman v Superman, Dawn
+
+85
+00:08:57,600 --> 00:09:02,500
+of Justice. Extended Edition. Yeah, that one is
+the most comic book accurate. That one was
+
+86
+00:09:02,500 --> 00:09:08,060
+straight from the page. I loved how buff he was. It
+was very Frank Miller. It was awesome. I didn't
+
+87
+00:09:08,060 --> 00:09:13,420
+really like Ben Affleck's bat suit in Justice
+League. Oh, no. Yeah, his best one was definitely
+
+88
+00:09:13,420 --> 00:09:20,280
+in BVS. I would agree. And then his bat suit that was
+in the Flash movie fucking sucked. We don't talk
+
+89
+00:09:20,280 --> 00:09:26,240
+about that. Shut up. All right. Great answer,
+Scotty. But the winner of this week's No Prize is
+
+90
+00:09:26,240 --> 00:09:32,440
+Lorenzo Valdez. Who said? This is Lorenzo Valdez.
+You guys actually referenced my favorite
+
+91
+00:09:32,440 --> 00:09:38,100
+Spider-Man suit, which is the Amazing Spider-Man
+2 suit. It doesn't hurt that that was the suit that
+
+92
+00:09:38,100 --> 00:09:45,880
+Spidey was wearing when Gwen died. So it has that
+extra emotional impact for me seeing that suit. As
+
+93
+00:09:45,880 --> 00:09:52,060
+for my favorite Batman suit, that would be the Dark
+Knight slash the Dark Knight Rises suit because it
+
+94
+00:09:52,060 --> 00:09:57,480
+improves on the texture of the begin suit and it
+also has a better bat symbol. Clonifer, always
+
+95
+00:09:57,480 --> 00:10:04,100
+bye-bye. Yeah, this is the first guy to not mention
+the Toby McGuire suit as his favorite. And I may
+
+96
+00:10:04,100 --> 00:10:09,440
+agree. I definitely think that the Spider-Man
+suit that was in the Amazing Spider-Man 2 worn by
+
+97
+00:10:09,440 --> 00:10:15,780
+Andrew Garfield was the most comic book accurate.
+I mean, because I've never seen a version of Spidey
+
+98
+00:10:15,780 --> 00:10:20,340
+in the comics where like this raised webbing look,
+it doesn't look quite as homemade as it were, even
+
+99
+00:10:20,340 --> 00:10:25,900
+though it looked spectacular or amazing as it
+were. But Andrew Garfield's looked like
+
+100
+00:10:25,900 --> 00:10:30,380
+something that somebody could conceivably
+create that wasn't, you know, a fashion designer,
+
+101
+00:10:30,380 --> 00:10:36,160
+but it also looks very true to the comic books. It
+had the larger eyes. It had great color, had a great
+
+102
+00:10:36,160 --> 00:10:40,560
+like spider emblem design. It was just
+perfection, in my opinion. Yeah, the only thing it
+
+103
+00:10:40,560 --> 00:10:45,780
+really didn't have was Tom Holland's lenses, like
+the thick Steve Ditko lenses. But yeah, still
+
+104
+00:10:45,780 --> 00:10:51,320
+really cool. Now, we will admit that the Christian
+Bale Batman outfits are actually my least
+
+105
+00:10:51,320 --> 00:10:58,140
+favorite onscreen Batman suits. But of all of
+them, my favorite is actually from Batman Begins.
+
+106
+00:10:58,140 --> 00:11:03,500
+I loved his cowl the way it made him look almost
+panther-like. When he upgraded to his new suit
+
+107
+00:11:03,500 --> 00:11:08,260
+where he was able to turn his neck. Yeah, I get why
+that would be good for a crime fighter. But I also
+
+108
+00:11:08,260 --> 00:11:14,400
+thought it kind of gave him a bobble head. I think
+that Robert Pansen's outfit is actually a pretty
+
+109
+00:11:14,400 --> 00:11:21,100
+solid upgrade to the Dark Knight suits. You like
+the Joel Schumacher Batsuits more than Christian
+
+110
+00:11:21,100 --> 00:11:27,600
+Bales? No, I guess I misspoke. Yeah, those ones are
+way worse. So I should say that, well, I slightly
+
+111
+00:11:27,600 --> 00:11:32,800
+disagree with you, Lorenzo. They're not terrible
+suits. They're just not my personal favorites. I
+
+112
+00:11:32,800 --> 00:11:37,780
+like the functionality of the Christian Bale
+Batsuits, especially as it was explained in
+
+113
+00:11:37,780 --> 00:11:43,140
+universe in those films with like the special
+hardening cloth when you would run an electric
+
+114
+00:11:43,140 --> 00:11:48,740
+current through it. Things like that make it
+better than Robert Pansen's suit, who just uses a
+
+115
+00:11:48,740 --> 00:11:55,140
+weird ass basic squirrel suit, you know. Bale had
+better shit in general. Yeah, well, Bale had
+
+116
+00:11:55,140 --> 00:12:01,020
+Lucius Fox as his cue, so he had better tech
+overall. What about the bat emblem, as Lorenzo
+
+117
+00:12:01,020 --> 00:12:07,720
+Bale does mentioned? You know, I never really
+cared for like the straight, flat top emblem. I
+
+118
+00:12:07,720 --> 00:12:12,920
+like a little bit of curves in my Batman logo, you
+know. Well, great answer, Lorenzo. You win this
+
+119
+00:12:12,920 --> 00:12:16,940
+week's No Prize. If you're the listener, want to
+shot at winning your own No Prize, stay tuned to
+
+120
+00:12:16,940 --> 00:12:21,820
+later on in the episode when we'll be asking
+another question of the week. And now that that's
+
+121
+00:12:21,820 --> 00:12:33,080
+done, on to the news. OK, with the premiere of
+Peacemaker Season 2 coming up soon, HBO Max has
+
+122
+00:12:33,080 --> 00:12:39,160
+released an official red band trailer for the
+series, which I thought would delve more into the
+
+123
+00:12:39,160 --> 00:12:44,420
+story, but it was really just a showcase for how
+raunchy and violent the series is going to be.
+
+124
+00:12:44,420 --> 00:12:51,240
+Like, I forgot how raunchy James Gunn can get until
+this whole trailer starts off with a friggin orgy
+
+125
+00:12:51,240 --> 00:12:56,200
+in Peacemaker's house. And vigilante
+complaining about how he wasn't invited. I'm fine
+
+126
+00:12:56,200 --> 00:13:00,920
+with the no story stuff, though. I don't want to
+know too much about the story as we go into it, but
+
+127
+00:13:00,920 --> 00:13:07,040
+this trailer did remind me basically just how much
+of a good time I'm in for watching it. Because the
+
+128
+00:13:07,040 --> 00:13:13,160
+first season was hilarious and I was laughing my
+ass off during this red band trailer. Yeah, after
+
+129
+00:13:13,160 --> 00:13:17,260
+we learned that Rick Flagg Sr. is looking for
+Peacemaker because he has a dimensional portal
+
+130
+00:13:17,260 --> 00:13:24,020
+similar to Lex Luthor, we just get a series of
+jokes, including this creepy looking alien that
+
+131
+00:13:24,020 --> 00:13:29,920
+steps through one of Peacemaker's portals and
+just refuses to say hi. And Peacemaker's like,
+
+132
+00:13:29,920 --> 00:13:36,780
+fuck you then, you cryptkeeper looking bitch. So
+good. It is interesting that they are addressing
+
+133
+00:13:36,780 --> 00:13:41,840
+the fact that Lex Luthor had his own dimensional
+portal and that Peacemaker's dad, the White
+
+134
+00:13:41,840 --> 00:13:47,540
+Dragon, also has one. It's strange because it
+seems like White Dragon's portal is better and
+
+135
+00:13:47,540 --> 00:13:54,520
+more stable than Lex Luthor's. Seemingly, yeah.
+So does that make White Dragon smarter than Lex
+
+136
+00:13:54,520 --> 00:14:01,280
+Luthor? I don't think so. I know we'll be getting
+new versions of White Dragon and maybe in some
+
+137
+00:14:01,280 --> 00:14:06,780
+other universe there was a version that was
+smarter than Lex Luthor. And he just happened to
+
+138
+00:14:06,780 --> 00:14:12,260
+create portals for all of the other White Dragons
+and all of the other multiverses. That's just my
+
+139
+00:14:12,260 --> 00:14:16,440
+guess though. But I would agree that it definitely
+looks more stable. It looks like there's going to
+
+140
+00:14:16,440 --> 00:14:21,820
+be a lot of action in this season, lots of
+explosions, bloody explosions it looks like,
+
+141
+00:14:21,820 --> 00:14:25,780
+including an explosion where tomatoes get
+flicked in the face with a nail or something like
+
+142
+00:14:25,780 --> 00:14:31,920
+that. And eagerly rips a dude's eyeball out. Yeah,
+that was wild. Or a finger or both. Yeah, it looks
+
+143
+00:14:31,920 --> 00:14:36,920
+like he just shreds the guy. Of course, at the end of
+the trailer, we get a callback to the dick alien.
+
+144
+00:14:36,920 --> 00:14:42,040
+Not too much more to the trailer other than that. If
+you guys haven't watched Peacemaker Season 1,
+
+145
+00:14:42,040 --> 00:14:47,440
+watch it now so you can get caught up in time for the
+show's release. It debuts this Thursday, August
+
+146
+00:14:47,440 --> 00:14:55,080
+21st on HBO Max. I can't wait for the show. I love the
+writing. I love the cast. But speaking of the cast,
+
+147
+00:14:55,080 --> 00:15:04,940
+that brings us to our question of the week. What is
+your favorite supporting cast in a Marvel or DC
+
+148
+00:15:04,940 --> 00:15:12,120
+ensemble series and why? Yeah, every television
+series based on a superhero usually has a cast of
+
+149
+00:15:12,120 --> 00:15:17,720
+characters that support the main hero titular
+character. We just want to know which cast of
+
+150
+00:15:17,720 --> 00:15:21,940
+characters is your favorite. Record your answer
+at dynamicduld.com by clicking on the red
+
+151
+00:15:21,940 --> 00:15:25,960
+microphone button in the bottom right hand corner
+of the screen, which will prompt you to leave us a
+
+152
+00:15:25,960 --> 00:15:30,580
+voicemail. Your message could be up to 30 seconds
+long. And don't forget to leave your name in case we
+
+153
+00:15:30,580 --> 00:15:35,260
+include you on the podcast. We'll pick our
+favorite answer and award that person a dynamic
+
+154
+00:15:35,260 --> 00:15:42,900
+duel no prize that we'll post to Instagram. Be sure
+to answer before August 23rd. And in Marvel News,
+
+155
+00:15:42,900 --> 00:15:48,060
+we learned this past week that Disney Plus has
+moved up the Marvel Zombies release date so that
+
+156
+00:15:48,060 --> 00:15:55,500
+instead of debuting on October 3rd, it's going to
+now debut a week earlier on September 24th. The
+
+157
+00:15:55,500 --> 00:16:00,860
+season is going to be four episodes that are going
+to be released weekly. So all the episodes will be
+
+158
+00:16:00,860 --> 00:16:05,900
+out before Halloween, but still close enough,
+which is appropriate for a horror animated
+
+159
+00:16:05,900 --> 00:16:11,780
+series. I forgot that this show was even coming out
+this year. How could you forget? This is going to be
+
+160
+00:16:11,780 --> 00:16:17,360
+amazing. The What If episode that included the
+Marvel Zombies, which was called What If Zombies,
+
+161
+00:16:17,360 --> 00:16:23,940
+that was back in 2021, I believe. That was one of the
+best episodes of that season. And Marvel Zombies
+
+162
+00:16:23,940 --> 00:16:29,220
+is a really enjoyable story. It really grew some
+written by Robert Kirkman back in the day, but this
+
+163
+00:16:29,220 --> 00:16:34,620
+is going to be a new version of it. I made for screen
+adaptation that started with that What If
+
+164
+00:16:34,620 --> 00:16:39,560
+episode. Really excited to see where it goes. If
+you guys want to learn more about the Marvel
+
+165
+00:16:39,560 --> 00:16:45,320
+Zombies universe, definitely check out our
+Deceased vs. Marvel Zombies Team Duel episode.
+
+166
+00:16:45,320 --> 00:16:49,300
+Yeah, that was a lot of fun. I heard that in this
+upcoming Marvel Zombies season, we're going to
+
+167
+00:16:49,300 --> 00:16:54,360
+get other characters that weren't in the previous
+episode, including Moon Knight and Blade and
+
+168
+00:16:54,360 --> 00:16:59,080
+Shang-Chi's also going to be there. So yeah, it's
+going to be a big blast. Wait, is Blade going to be
+
+169
+00:16:59,080 --> 00:17:05,720
+voiced by Mahershala Ali? That I do not know. That
+would be interesting. That would be fantastic.
+
+170
+00:17:05,720 --> 00:17:10,500
+Really looking forward to it in just over a month.
+And I hope you guys are too. We're not going to be
+
+171
+00:17:10,500 --> 00:17:15,119
+reviewing it for this show. I guess depending on
+how people react to it, we'll determine whether or
+
+172
+00:17:15,119 --> 00:17:19,319
+not I take the time to watch. You're going to be
+watching. It's only four episodes. It's going to
+
+173
+00:17:19,319 --> 00:17:23,740
+be a quick, easy watch, perfect for the season. I'm
+definitely going to be watching. You're
+
+174
+00:17:23,740 --> 00:17:27,700
+definitely going to be watching, motherfucker.
+And if you don't, I'm going to make you. I don't know
+
+175
+00:17:27,700 --> 00:17:36,340
+how yet, but I will find a way. Yeah, bro. You don't
+scare me. Why not? Your face? I don't know. It's too
+
+176
+00:17:36,340 --> 00:17:49,200
+much like mine. Both all the news out of the way. Now
+let's get on to the main event where we find out who
+
+177
+00:17:49,200 --> 00:17:56,020
+would win in a matchup between Aquaman's former
+sidekick Tempest and the inhuman princess
+
+178
+00:17:56,020 --> 00:18:18,120
+Crystal. Okay, Tempest versus Crystal. Now both
+of these characters are elemental manipulators,
+
+179
+00:18:18,120 --> 00:18:23,160
+I guess you could say. Yeah. Crystal controls all
+four of the elements, whereas Tempest controls
+
+180
+00:18:23,160 --> 00:18:29,020
+more temperature of water, but he could generate
+water through Atlantean sorcery. And like
+
+181
+00:18:29,020 --> 00:18:34,340
+Crystal, he's also royalty. He's a prince of
+Atlantis. Crystal can generate water too,
+
+182
+00:18:34,340 --> 00:18:39,100
+through chemistry. Okay, but can't she control
+the temperature of that water? Yes, she can by
+
+183
+00:18:39,100 --> 00:18:45,200
+controlling its molecular movement. Too shane.
+But we know that Tempest has some magical
+
+184
+00:18:45,200 --> 00:18:50,960
+abilities in addition to his hydrokinesis, and
+Crystal also has some inhuman physiology traits
+
+185
+00:18:50,960 --> 00:18:55,020
+going for her. So we figure the characters kind of
+balance each other out. It'll be interesting
+
+186
+00:18:55,020 --> 00:19:00,160
+really to see how this matchup goes, considering
+they have very similar powers, especially when it
+
+187
+00:19:00,160 --> 00:19:05,820
+comes to water. Basically, who will control the
+water the best is what we're asking Kare. Oh, easy.
+
+188
+00:19:05,820 --> 00:19:13,060
+Tempest. Oh, you think so, huh? Okay. Yeah, I do. In
+fact, you mentioned earlier. That Crystal was in
+
+189
+00:19:13,060 --> 00:19:19,140
+the Inhumans TV series that was gosh awful.
+Actually, Tempest has been in a TV series as well.
+
+190
+00:19:19,140 --> 00:19:24,200
+If you remember, he was in the Titan show. Was he? I
+don't remember that. Yeah, he was blond in that
+
+191
+00:19:24,200 --> 00:19:29,780
+though. Trying to remember him. He died in the
+second season in like a flashback. I see. Okay.
+
+192
+00:19:29,780 --> 00:19:35,200
+Well, in the Inhuman show, Crystal was played by
+Isabel Cornish, and I remember she never really
+
+193
+00:19:35,200 --> 00:19:40,100
+got to show off her powers too much, largely due to
+the insufficient budget for the show itself, I
+
+194
+00:19:40,100 --> 00:19:44,740
+think. One of these days, we'll get a good Inhuman
+show or movie. We're moving on to the duel to
+
+195
+00:19:44,740 --> 00:19:50,260
+explain the methodology behind our duels. Let's
+go to our sentient duel simulator, Alfred Jarvis
+
+196
+00:19:50,260 --> 00:19:58,100
+9000. AJ9K, tell our listeners how you go about
+determining a winner in our duel matchups. Yes, of
+
+197
+00:19:58,100 --> 00:20:03,100
+course, sir. The way I determine a winner between
+the contestants is by running 1000 Monte Carlo
+
+198
+00:20:03,100 --> 00:20:08,480
+simulations using the characters statistics. A
+Monte Carlo simulation is a probabilistic model
+
+199
+00:20:08,480 --> 00:20:13,200
+used to determine outcomes through random
+sampling. In this case, I randomize the
+
+200
+00:20:13,200 --> 00:20:18,140
+statistics along a normal distribution as a way to
+simulate the many variables that can occur during
+
+201
+00:20:18,140 --> 00:20:23,100
+battle. The stat parameters are based on the
+official Marvel power grid from which the DC
+
+202
+00:20:23,100 --> 00:20:27,740
+characters statistics are extrapolated.
+Additional stat categories are included such as
+
+203
+00:20:27,740 --> 00:20:33,280
+range, damage potential, versatility and
+perception in order to create a more detailed and
+
+204
+00:20:33,280 --> 00:20:38,640
+accurate simulation. The results of the 1000
+simulations provide a percentage of wins for each
+
+205
+00:20:38,640 --> 00:20:43,200
+character. The contestant with the higher
+percentage is declared the victor as they have a
+
+206
+00:20:43,200 --> 00:20:48,500
+higher probability to win any given battle. In an
+equitable pairing, neither character should win
+
+207
+00:20:48,500 --> 00:20:53,840
+100% of the matches. The comic book stories have
+shown that there's even a way for Batman to defeat
+
+208
+00:20:53,840 --> 00:20:58,300
+Superman, so the confidence rate of my method
+falls in line with the precedents that have been
+
+209
+00:20:58,300 --> 00:21:02,140
+established in the source material. My
+mathematical simulations are without
+
+210
+00:21:02,140 --> 00:21:07,720
+subjectivity or bias. Feats are not the sole
+consideration, nor are fan votes tabulated for
+
+211
+00:21:07,720 --> 00:21:13,160
+determination of the winner. Thanks, AJ9K.
+Before we run the simulations though, we like to
+
+212
+00:21:13,160 --> 00:21:17,740
+break down each character's histories and
+abilities before improvising a scenario on how we
+
+213
+00:21:17,740 --> 00:21:23,420
+imagine one of the 1000 simulations would play out
+beat for beat. And I believe it's my turn to go first
+
+214
+00:21:23,420 --> 00:21:29,080
+with the Marvel characters backstory, so let me
+tell you all about Crystal. Crystallia
+
+215
+00:21:29,080 --> 00:21:36,120
+Immaculinn was born in the hidden city of Adolan to
+Cwelyn in Amber, members of the Inhumans race, a
+
+216
+00:21:36,120 --> 00:21:41,600
+people whose ancestors were genetically altered
+by the alien Kree. As the younger sister of
+
+217
+00:21:41,600 --> 00:21:48,040
+Medusa-Lith Immaculinn, later Queen Medusa,
+Crystal belonged to the Inhuman Royal Family.
+
+218
+00:21:48,040 --> 00:21:53,600
+Like many Inhuman children, she was exposed as an
+infant to the Tarogen Mist, a substance for people
+
+219
+00:21:53,600 --> 00:22:00,860
+used to unlock powers. And she gained control over
+the four elements of Earth, Air, Fire, and Water.
+
+220
+00:22:00,860 --> 00:22:05,740
+You can learn more about the Inhumans and
+Tarogenesis in our Shazam vs Black Bolt dual
+
+221
+00:22:05,740 --> 00:22:11,320
+episode. When Crystal was young, her cousin
+Maximus seized power and forced the Royal Family
+
+222
+00:22:11,320 --> 00:22:16,760
+out of the Great Refuge. During exile, they
+searched across Asia, Europe, and America for her
+
+223
+00:22:16,760 --> 00:22:22,640
+missing sister Medusa, living in hiding along the
+way. They found her in New York City, where she had
+
+224
+00:22:22,640 --> 00:22:27,520
+joined the villainous Frightful Four while
+suffering from memory loss. You can learn more
+
+225
+00:22:27,520 --> 00:22:33,420
+about Medusa in her duel against elongated man. In
+New York, Crystal met Johnny Storm, the human
+
+226
+00:22:33,420 --> 00:22:39,400
+torch of the Fantastic Four, and the two began a
+romance. Maximus later trapped Adolan inside an
+
+227
+00:22:39,400 --> 00:22:44,620
+impenetrable barrier, separating Crystal from
+Johnny. When the barrier finally fell, the Royal
+
+228
+00:22:44,620 --> 00:22:49,440
+Family explored the outside world. Crystal
+helped the Fantastic Four rescue Mr. Fantastic
+
+229
+00:22:49,440 --> 00:22:54,960
+from the negative zone dimension and fought
+beside them against the invader Blastar. She left
+
+230
+00:22:54,960 --> 00:23:00,060
+Adolan for an extended stay in New York and became
+part of the Fantastic Four's daily life, running
+
+231
+00:23:00,060 --> 00:23:05,600
+communications and supporting the pregnant Sue
+Richards. When Sue went on maternity leave,
+
+232
+00:23:05,600 --> 00:23:10,340
+Crystal earned a place on missions as her stand-in
+proved herself by defeating their villain, the
+
+233
+00:23:10,340 --> 00:23:16,740
+Wizard, on her own, then battling foes such as Dr.
+Doom, the Mole Man, and the Alien Scrolls. You can
+
+234
+00:23:16,740 --> 00:23:21,920
+learn more about the Fantastic Four in their duel
+against the Justice Society. Over time, Earth's
+
+235
+00:23:21,920 --> 00:23:27,400
+pollution, which is toxic to many inhumans, began
+to harm Crystal's health, and she set out to return
+
+236
+00:23:27,400 --> 00:23:32,320
+to Adolan. On her journey back, the alchemist
+Diablo captured her and tricked her into
+
+237
+00:23:32,320 --> 00:23:37,140
+believing she was the Mayan goddess Ishal. After
+the Fantastic Four freed her, Crystal
+
+238
+00:23:37,140 --> 00:23:41,600
+encountered the mutant Quicksilver, wounded
+from battle, and she nursed him back to health.
+
+239
+00:23:41,600 --> 00:23:46,500
+Choosing him over Johnny, she married
+Quicksilver in the first recorded union between
+
+240
+00:23:46,500 --> 00:23:52,060
+an inhuman and a human mutate. You can learn more
+about Quicksilver in his duel against the Flash.
+
+241
+00:23:52,060 --> 00:23:57,280
+When Adolan was later moved to the Moon, the couple
+lived there and welcomed a daughter, Luna, who
+
+242
+00:23:57,280 --> 00:24:02,760
+showed no special abilities. Quicksilver wanted
+to expose Luna to the Tarjan Mist to grant her
+
+243
+00:24:02,760 --> 00:24:08,140
+powers, but Crystal refused. Life in Adolan
+strained their marriage. Quicksilver's temper
+
+244
+00:24:08,140 --> 00:24:13,240
+and his effort to prove himself as a commander in
+the Inhuman Militia kept him away from home.
+
+245
+00:24:13,240 --> 00:24:18,860
+Lonely, Crystal began an affair with a human real
+estate agent, subtly mentally influenced by
+
+246
+00:24:18,860 --> 00:24:23,840
+Maximus, who sought to increase the marriage's
+tensions. When Quicksilver discovered the
+
+247
+00:24:23,840 --> 00:24:29,380
+affair, he fled Adolan and the marriage
+fractured. Crystal rejoined the Fantastic Four,
+
+248
+00:24:29,380 --> 00:24:33,940
+though her lingering feelings for Johnny made
+life in New York tense, especially since Johnny
+
+249
+00:24:33,940 --> 00:24:39,520
+was then married to a woman later revealed to be the
+Skrull Imposter, Lygia. Duty soon called Crystal
+
+250
+00:24:39,520 --> 00:24:44,840
+back to Adolan to help with a crisis involving
+Medusa and Black Bolt's child, and there she and
+
+251
+00:24:44,840 --> 00:24:50,220
+Quicksilver tried again to make peace. Their
+troubles soon expanded beyond Adolan when Luna
+
+252
+00:24:50,220 --> 00:24:55,480
+was kidnapped by Magneto's acolytes. Crystal
+called on the Avengers to rescue her and soon
+
+253
+00:24:55,480 --> 00:25:00,840
+joined the team herself. She moved with Luna into
+the Avengers mansion. With the team, she fought
+
+254
+00:25:00,840 --> 00:25:05,940
+the alien brethren, villainous alternate
+universe Avengers, and the Kree Star Force during
+
+255
+00:25:05,940 --> 00:25:10,680
+a war between the Kree and the Shiar empires.
+During this period, Crystal developed feelings
+
+256
+00:25:10,680 --> 00:25:15,920
+for her teammate, Dane Whitman, the Black Knight,
+especially after he saved Luna from the Star
+
+257
+00:25:15,920 --> 00:25:21,540
+Jammer's and later saved Quicksilver's life.
+Crystal and Dane shared a single late night kiss,
+
+258
+00:25:21,540 --> 00:25:27,120
+but she would not pursue it while still married.
+Fellow Avengers Cersei of the Eternals also saw a
+
+259
+00:25:27,120 --> 00:25:32,100
+relationship with Dane, and Cersei and Dane later
+vanished to another dimension altogether,
+
+260
+00:25:32,100 --> 00:25:36,960
+ending the possibility of a love triangle. You can
+learn more about Cersei in her duel against
+
+261
+00:25:36,960 --> 00:25:41,900
+Firestorm. While battling the Bloodcursed
+Warrior called the Bloodraith, Crystal was
+
+262
+00:25:41,900 --> 00:25:47,500
+transported into caverns beneath Adolan where
+many Alpha Primitives, who were mindless slaves,
+
+263
+00:25:47,500 --> 00:25:51,600
+dwelt. Recovering the Black Knight's Ebony
+Blade, she was briefly hailed by the Alpha
+
+264
+00:25:51,600 --> 00:25:56,880
+Primitives as ruler before returning to the
+Avengers. Soon after, many heroes, including
+
+265
+00:25:56,880 --> 00:26:02,060
+Crystal, sacrificed themselves to stop
+Onslaught, a world-threatening psychic entity
+
+266
+00:26:02,060 --> 00:26:06,500
+you can learn more about in his duel against
+Parallax. Crystal and the others were not truly
+
+267
+00:26:06,500 --> 00:26:12,220
+killed, but reborn in a pocket universe with no
+memories. There, Crystal again drew close to
+
+268
+00:26:12,220 --> 00:26:17,280
+Johnny Storm until they all returned to their
+original reality. Back on Earth, she reunited
+
+269
+00:26:17,280 --> 00:26:23,140
+with Quicksilver, and a brief attempt by Maximus
+to control Pietro's mind was exposed and stopped,
+
+270
+00:26:23,140 --> 00:26:28,120
+though he and the Black Knight still quarreled
+over Crystal's affections. A later reality shift
+
+271
+00:26:28,120 --> 00:26:33,140
+by the Scarlet Witch depowered most of Earth's
+mutants, including Quicksilver. Desperate he
+
+272
+00:26:33,140 --> 00:26:37,780
+stole the Tarogen crystals from Adolan,
+kidnapped his daughter Luna, and exposed her to
+
+273
+00:26:37,780 --> 00:26:43,620
+the Mists, which granted her empathic abilities.
+The Inhuman Genetics Council annulled Crystal's
+
+274
+00:26:43,620 --> 00:26:48,400
+marriage at that point, changed Luna's last name
+from Maximoff to Immaculin, and returned the
+
+275
+00:26:48,400 --> 00:26:53,760
+child back to Crystal. When human authority
+seized the crystals and refused to return them,
+
+276
+00:26:53,760 --> 00:26:58,420
+the Inhumans declared war on the United States.
+During this conflict, Quicksilver submitted
+
+277
+00:26:58,420 --> 00:27:02,760
+himself to Black Bolt's judgment for his
+betrayal, and Crystal took part in clashes with
+
+278
+00:27:02,760 --> 00:27:08,180
+Shield and the mighty Avengers. The royal family
+soon took Adaline into space and turned against
+
+279
+00:27:08,180 --> 00:27:13,420
+the alien Skrulls, who had abducted Black Bolt.
+Seeking support, the Inhuman Royal Family
+
+280
+00:27:13,420 --> 00:27:19,120
+approached the Kree Empire. Ronin the Accuser,
+the Kree ruler at the time, welcomed an alliance
+
+281
+00:27:19,120 --> 00:27:24,420
+with the Inhumans if Crystal would marry him.
+Although the match began as a political bargain,
+
+282
+00:27:24,420 --> 00:27:29,240
+Crystal came to respect Ronin and the stability
+their union could bring. The wedding was
+
+283
+00:27:29,240 --> 00:27:32,130
+interrupted when the Shiar Imperial Guard
+attacked, with the Inhumans being killed. During
+
+284
+00:27:32,130 --> 00:27:37,470
+Vulcan's invasion of Kree space, Ronan was beaten
+nearly to death in the assaults, and while Crystal
+
+285
+00:27:37,470 --> 00:27:42,310
+visited him in recovery, she helped rally the Kree
+by showing public compassion to injured
+
+286
+00:27:42,310 --> 00:27:47,490
+commoners. The scenes broadcast across the
+empire earned her the nickname, The People's
+
+287
+00:27:47,490 --> 00:27:52,330
+Princess. Black Bolt later sought to spread
+pterogen across the galaxy using a bomb,
+
+288
+00:27:52,330 --> 00:27:57,830
+believing it would make all beings equal. Crystal
+judged the plan dangerous, and with the inhuman
+
+289
+00:27:57,830 --> 00:28:03,050
+teleporting dog, Lockjaw, she reached the bomb
+and neutralized the pterogen qualities inside
+
+290
+00:28:03,050 --> 00:28:08,010
+the device. A final battle between Black Bolt and
+Vulcan caused the bomb, now just a normal
+
+291
+00:28:08,010 --> 00:28:13,690
+explosive to detonate, and both rulers were
+believed dead, making Crystal's sister Medusa
+
+292
+00:28:13,690 --> 00:28:18,890
+queen. In time, Black Bolt returned, and the
+inhumans and the Kree supreme intelligence
+
+293
+00:28:18,890 --> 00:28:27,450
+agreed to a truce that separated Crystal and
+Ronan's marriage for the arranged marriage had
+
+294
+00:28:27,450 --> 00:28:32,810
+grown into a genuine bond. Back on Earth, Medusa
+appointed Crystal as an ambassador. She
+
+295
+00:28:32,810 --> 00:28:37,770
+commanded the royal inhuman vessel with a team
+that included her cousin Gorgon, the stealthy
+
+296
+00:28:37,770 --> 00:28:44,190
+Naja, the geokinetic Flint, and the technopathic
+Grid. Crystal worked to protect nations touched
+
+297
+00:28:44,190 --> 00:28:49,690
+by the drifting pterogen cloud that was released
+by Black Bolt, which could awaken powers in latent
+
+298
+00:28:49,690 --> 00:28:54,750
+inhumans. The cloud however was harmful to
+mutants, and she secretly coordinated with them
+
+299
+00:28:54,750 --> 00:28:59,310
+to help those who were threatened by the cloud.
+Crystal's crew then carried out relief missions
+
+300
+00:28:59,310 --> 00:29:03,950
+around the world. In Sydney, Australia, she
+confronted protesters who had captured a newly
+
+301
+00:29:03,950 --> 00:29:09,250
+formed inhuman. She used measured force to
+disperse the mob, freed the captive, and added new
+
+302
+00:29:09,250 --> 00:29:14,410
+recruits to her ship. Crystal remained involved
+in wider disputes among Earth's heroes, like when
+
+303
+00:29:14,410 --> 00:29:19,890
+the inhuman named Ulysses gained the ability to
+foresee potential futures. Crystal and Medusa
+
+304
+00:29:19,890 --> 00:29:23,990
+introduced him to leading heroes to debate
+whether his visions should guide crime-biting
+
+305
+00:29:23,990 --> 00:29:29,710
+actions, and a clash followed with Iron Man over
+Ulysses' custody as tensions later rose between
+
+306
+00:29:29,710 --> 00:29:35,190
+heroes debating the ethics of preemptive
+justice. And that's Crystal's backstory.
+
+307
+00:29:35,190 --> 00:29:39,670
+Powers-wise, Crystal has the enhanced
+physiology of an inhuman granted to her through
+
+308
+00:29:39,670 --> 00:29:45,350
+pterogenesis. This includes greater strength,
+speed, and durability than any normal human. She
+
+309
+00:29:45,350 --> 00:29:50,530
+also has the psionic ability to manipulate the
+four elements of air, water, fire, and earth.
+
+310
+00:29:50,530 --> 00:29:55,910
+Crystal's like the Avatar, the last airbender,
+and that she can control the size, shape,
+
+311
+00:29:55,910 --> 00:30:01,510
+intensity, and molecular motion of these
+elements. She can use her power over air to fly,
+
+312
+00:30:01,510 --> 00:30:06,810
+create tornado-level gusts, and create force
+barriers. She can also control and generate
+
+313
+00:30:06,810 --> 00:30:12,130
+lightning by manipulating the electrical charge
+of the air. Crystal can combine oxygen and
+
+314
+00:30:12,130 --> 00:30:16,810
+hydrogen gases in the air to create water, which
+she can also control, even dropping its
+
+315
+00:30:16,810 --> 00:30:21,730
+temperature to form ice and freeze things. She can
+also compress the oxygen in the air to ignite
+
+316
+00:30:21,730 --> 00:30:27,010
+existing hydrogen, or dust, and create a
+spontaneous combustion of fire, which she can
+
+317
+00:30:27,010 --> 00:30:31,950
+also control. Lastly, she can control the ground
+and rock beneath her for various effects,
+
+318
+00:30:31,950 --> 00:30:36,990
+including creating seismic tremors. Crystal can
+combine elemental effects to also control things
+
+319
+00:30:36,990 --> 00:30:44,070
+like dust storms, typhoons, steam clouds,
+firestorms, and lava. She also has limited hand
+
+320
+00:30:44,070 --> 00:30:49,730
+combat training. And that's Crystal. So were her
+powers initially just like the four Hellenistic
+
+321
+00:30:49,730 --> 00:30:55,970
+elements that later evolved to basically the
+whole periodic table? No, she can't control the
+
+322
+00:30:55,970 --> 00:31:01,550
+periodic table. She can control the gases in the
+air, some of which are oxygen and hydrogen, which
+
+323
+00:31:01,550 --> 00:31:06,250
+she can then manipulate further to create
+elements that she can also control. But she can't
+
+324
+00:31:06,250 --> 00:31:10,510
+control something like xenon or something like
+that, you know, that's not naturally found in the
+
+325
+00:31:10,510 --> 00:31:15,550
+air. The electricity thing is a little weird,
+because even since her inception, she was able to
+
+326
+00:31:15,550 --> 00:31:20,590
+like throw lightning bolts, which didn't make
+sense considering electricity is a part of the
+
+327
+00:31:20,590 --> 00:31:26,270
+four classic elements. And they kind of kept it in
+more modern iterations, rationalizing it as her
+
+328
+00:31:26,270 --> 00:31:32,110
+ability to control the electrical charge of the
+molecules she's manipulating. I get it. I mean, if
+
+329
+00:31:32,110 --> 00:31:38,490
+you think about it in avatar terms, lightning is
+just kind of like another version of fire. Not
+
+330
+00:31:38,490 --> 00:31:45,170
+really, but sure. I mean, once you said she's like
+the avatar, I was like, okay, I got it. A good
+
+331
+00:31:45,170 --> 00:31:50,730
+matchup would actually be between Ang, Inc.,
+however you pronounce it, and Crystal, Inc.,
+
+332
+00:31:50,730 --> 00:31:55,310
+yeah, whatever. I never watched the show. Okay,
+we're going to stop recording right now, so you can
+
+333
+00:31:55,310 --> 00:32:00,990
+watch the whole show because you need to do that.
+I'll watch it eventually, maybe after the podcast
+
+334
+00:32:00,990 --> 00:32:05,550
+ends in January. Yeah, that should be the first
+thing you do with your newfound free time. But it's
+
+335
+00:32:05,550 --> 00:32:09,790
+been a while, I feel like since we've found some
+interesting connections between the characters
+
+336
+00:32:09,790 --> 00:32:13,890
+that we paint in duels against each other, there
+are definitely some similarities between
+
+337
+00:32:13,890 --> 00:32:18,990
+Tempest and Crystal beyond just their power set
+and the fact that they're royalty. But let me go
+
+338
+00:32:18,990 --> 00:32:26,430
+into that in Tempest's origin. Garth was born to
+Queen Bera and King Thar of the Idolists, a
+
+339
+00:32:26,430 --> 00:32:33,090
+mystical offshoot of Atlanteans who dwelled in
+the Hidden Valley for over 4,000 years. His birth
+
+340
+00:32:33,090 --> 00:32:40,030
+marked by the rare sign of violet eyes considered a
+symbol of great magical potential came during a
+
+341
+00:32:40,030 --> 00:32:46,230
+time of political turmoil. Fearing that Garth's
+birthright ritual could inadvertently free King
+
+342
+00:32:46,230 --> 00:32:52,910
+Thar's banished brother, the Necromancer
+Slyzath, Idolist radicals executed King Thar,
+
+343
+00:32:52,910 --> 00:32:59,510
+exiled Queen Bera, and condemned Garth to death.
+Labeled genetically inferior by Atlanteans
+
+344
+00:32:59,510 --> 00:33:06,230
+unaware of his true heritage, Garth was abandoned
+on a remote seabed to die. Surviving against all
+
+345
+00:33:06,230 --> 00:33:11,330
+odds, Garth was secretly nurtured by the
+Atlantean sorcerer Atlan who taught him basic
+
+346
+00:33:11,330 --> 00:33:17,950
+survival and language skills. Eventually he was
+discovered by Aquaman who took him in as a ward.
+
+347
+00:33:17,950 --> 00:33:22,770
+Adopting the name Aqualad, Garth became
+Aquaman's sidekick and served Atlantis
+
+348
+00:33:22,770 --> 00:33:28,330
+faithfully. When Aquaman ascended to the throne,
+Garth was acknowledged as a prince by adoption,
+
+349
+00:33:28,330 --> 00:33:33,350
+though his presence remained controversial due
+to lingering superstitions. Seeking
+
+350
+00:33:33,350 --> 00:33:39,130
+companionship and purpose beyond Aquaman's
+shadow, Garth became a founding member of the Teen
+
+351
+00:33:39,130 --> 00:33:45,510
+Titans, working alongside other young heroes
+such as Robin, Kid Flash, and Wonder Girl. You can
+
+352
+00:33:45,510 --> 00:33:51,890
+learn more about the Teen Titans in our Titans vs
+X-Men Teen Duel episode. Over time, he began to
+
+353
+00:33:51,890 --> 00:33:57,950
+grow apart from his mentor, especially following
+the birth of Aquaman's son. The death of Garth's
+
+354
+00:33:57,950 --> 00:34:04,150
+longtime partner Tula, known as Aqua during the
+Crisis on Infinite Earths, devastated him,
+
+355
+00:34:04,150 --> 00:34:09,190
+pushing him to sever ties with Atlantis and rejoin
+the Titans, where he continued to forge his own
+
+356
+00:34:09,190 --> 00:34:15,409
+path as a hero. After years of service as Aqualad,
+Garth's life changed forever when he encountered
+
+357
+00:34:15,409 --> 00:34:21,730
+a tribe of shark-like merpeople and was drawn into
+another dimension by Atlan. There, Atlan
+
+358
+00:34:21,730 --> 00:34:28,190
+revealed Garth's royal lineage and trained him in
+the arcane disciplines of his idolist ancestors.
+
+359
+00:34:28,190 --> 00:34:33,550
+Garth learned to control the temperatures of
+water, unleash mystical energy blasts from his
+
+360
+00:34:33,550 --> 00:34:39,570
+eyes, and tap into elemental forces beyond
+traditional Atlantean science. To unlock his
+
+361
+00:34:39,570 --> 00:34:45,710
+full magical potential, Garth was required to
+complete a ritual in the Hidden Valley, a rite
+
+362
+00:34:45,710 --> 00:34:51,630
+leaked to the prison of Slyzath. Returning to the
+capital, the idolists, he found it overrun by
+
+363
+00:34:51,630 --> 00:34:56,830
+undead creatures and was confronted by a
+resurrected Tula, whose form had been twisted
+
+364
+00:34:56,830 --> 00:35:03,550
+into a trap by Slyzath. Betrayed mid-ritual,
+Garth overcame the deception, destroyed the
+
+365
+00:35:03,550 --> 00:35:09,710
+false aquagirl, and re-emprisoned his uncle.
+Emerging victorious, Garth shed the Aqualad
+
+366
+00:35:09,710 --> 00:35:16,150
+identity and claimed a new title, Tempest. As
+Tempest, Garth assumed greater leadership in
+
+367
+00:35:16,150 --> 00:35:21,730
+Atlantean affairs. He served as Atlantis'
+ambassador to the United Nations and stood at
+
+368
+00:35:21,730 --> 00:35:26,450
+Aquaman's side during global and
+interdimensional conflicts. Their bond was once
+
+369
+00:35:26,450 --> 00:35:32,570
+again tested when Dolphin, Aquaman's former
+partner, fell in love with Garth. She and Garth
+
+370
+00:35:32,570 --> 00:35:38,370
+eventually married and had a son, Sirdian.
+Seeking stability, Garth stepped back from
+
+371
+00:35:38,370 --> 00:35:43,770
+frontline heroics to focus on diplomacy and
+family, although he briefly rejoined the Titans
+
+372
+00:35:43,770 --> 00:35:49,310
+to assist in critical missions. During a cosmic
+upheaval, Garth attempted to use Atlantean magic
+
+373
+00:35:49,310 --> 00:35:55,390
+to undo a spell that had altered the Atlantean
+Queen Mera's biology. The spell attracted the
+
+374
+00:35:55,390 --> 00:36:01,190
+wrath of the Spectre, who attacked Atlantis. The
+city was nearly annihilated and Garth was
+
+375
+00:36:01,190 --> 00:36:07,110
+presumed dead. You can learn more about Mera in her
+duel against Invisible Woman. Garth was later
+
+376
+00:36:07,110 --> 00:36:13,970
+found alive but a Misiak in Sub Diego, the sunken
+San Diego, having lost his powers and abilities to
+
+377
+00:36:13,970 --> 00:36:19,830
+breathe underwater. Those magical and physical
+abilities eventually returned, his wife and son
+
+378
+00:36:19,830 --> 00:36:26,210
+were lost in the destruction of Atlantis, both
+presumed dead. Haunted by grief and guilt, Garth
+
+379
+00:36:26,210 --> 00:36:31,110
+crowned himself King of Atlantis in the absence of
+Aquaman, believing it was time for new
+
+380
+00:36:31,110 --> 00:36:36,070
+leadership. Though his reign was short-lived,
+while attempting to relocate Arthur Curry's
+
+381
+00:36:36,070 --> 00:36:42,730
+remains with Mera, he was ambushed by reanimated
+Black Lanterns, Dolphin, Tula, and Aquaman
+
+382
+00:36:42,730 --> 00:36:49,350
+himself. Garth was killed and reanimated as a
+Black Lantern, though ultimately destroyed when
+
+383
+00:36:49,350 --> 00:36:55,470
+the emotional spectrum was restored. Following
+the Flashpoint reset of DC's continuity, Garth's
+
+384
+00:36:55,470 --> 00:37:01,610
+timeline was restructured. Once again, he was
+depicted as an exiled Atlantean child, cast out
+
+385
+00:37:01,610 --> 00:37:07,610
+for his violet eyes. Rescued and raised by
+Aquaman, he became Aqualad and helped form the
+
+386
+00:37:07,610 --> 00:37:13,090
+Teen Titans alongside Robin, Dona Troy, and
+others. Though he once forgot these events due to
+
+387
+00:37:13,090 --> 00:37:18,350
+mystical interference, the return of Wally West
+helped restore his memories and reawaken his
+
+388
+00:37:18,350 --> 00:37:23,270
+bonds with his teammates. You can learn more about
+Wally West in our Flash vs. Speedball duel
+
+389
+00:37:23,270 --> 00:37:29,810
+episode. During this time, Garth enrolled in the
+Silent School, Atlantis' elite College of
+
+390
+00:37:29,810 --> 00:37:35,210
+Sorcery. There, he studied advanced magical
+disciplines and fell in love with a fellow student
+
+391
+00:37:35,210 --> 00:37:41,890
+named Sira. When a magical experiment caused her
+death, Garth blamed the school's leadership,
+
+392
+00:37:41,890 --> 00:37:47,330
+particularly the headmaster, Locke, for
+encouraging unsafe magical practices.
+
+393
+00:37:47,330 --> 00:37:54,110
+Disillusioned, he swore off magic and joined the
+Drift, a Black Ops Atlantean unit specializing in
+
+394
+00:37:54,110 --> 00:37:59,650
+covert aquatic missions. When Aquaman was
+declared a traitor and hunted by Atlantean
+
+395
+00:37:59,650 --> 00:38:06,070
+forces, Garth was enlisted to capture his former
+mentor. Though loyal to Atlantis, Garth retained
+
+396
+00:38:06,070 --> 00:38:11,170
+his sense of honor and justice, ultimately siding
+with Aquaman when he became clear that the true
+
+397
+00:38:11,170 --> 00:38:17,930
+threat came from another dimension. He fought
+alongside Mara, a new Tula, and Aquaman to repel
+
+398
+00:38:17,930 --> 00:38:23,290
+the invading realm of Thule and helped stabilize
+Atlantis in the aftermath. His connection to the
+
+399
+00:38:23,290 --> 00:38:28,790
+Titans was rekindled during an alien invasion.
+Joining the new roster alongside Donutroy, Beast
+
+400
+00:38:28,790 --> 00:38:33,190
+Boy, Raven, and Miss Martian, each of whom you can
+learn more about in their respective Duel
+
+401
+00:38:33,190 --> 00:38:38,610
+episodes, Garth helped lead a strike against
+alien warships, poisoning Earth's oceans and
+
+402
+00:38:38,610 --> 00:38:44,850
+mutating its people. In the climactic battle, he
+sacrificed himself to hold off the alien god,
+
+403
+00:38:44,850 --> 00:38:50,630
+Drogue, allowing the others to escape. Though
+presumed lost, Garth later returned, having
+
+404
+00:38:50,630 --> 00:38:56,670
+survived the encounter. He eventually supported
+the formation of Titans Academy, mentoring young
+
+405
+00:38:56,670 --> 00:39:02,090
+heroes and protecting them during times of
+crisis. When Red Axe attacked the Titans Tower in
+
+406
+00:39:02,090 --> 00:39:07,230
+San Francisco and magical forces threatened
+Earth, Tempest defended the students and battled
+
+407
+00:39:07,230 --> 00:39:12,530
+alongside his former teammates. Recently, he
+stood with Earth's remaining defenders against
+
+408
+00:39:12,530 --> 00:39:18,590
+Deathstroke's corrupted army, reaffirming his
+role as a steadfast protector of both Atlantis and
+
+409
+00:39:18,590 --> 00:39:24,090
+the surface world. The powers-wise, as an
+Atlantean, Tempest possesses a range of
+
+410
+00:39:24,090 --> 00:39:30,130
+superhuman traits, including enhanced
+strength, durability, and speed, optimized for
+
+411
+00:39:30,130 --> 00:39:34,910
+survival at extreme ocean depths. He can breathe
+underwater indefinitely through microscopic
+
+412
+00:39:34,910 --> 00:39:40,750
+pores in the skin and sees clearly in darkness and
+murky environments. His hearing and sense of
+
+413
+00:39:40,750 --> 00:39:45,770
+smell are also heightened to adapt to aquatic
+conditions. While capable of functioning on
+
+414
+00:39:45,770 --> 00:39:51,870
+land, he does require periodic exposure to water
+to maintain peak condition. Garth's magical
+
+415
+00:39:51,870 --> 00:39:57,750
+abilities surpass those of most Atlanteans,
+stemming from his royal idolist lineage. Trained
+
+416
+00:39:57,750 --> 00:40:03,490
+by the sorcerer Atlan and educated at the Silent
+School, he can project destructive eldritch
+
+417
+00:40:03,490 --> 00:40:10,150
+energy from his hands or eyes, summon and
+manipulate water and rapidly heat or freeze large
+
+418
+00:40:10,150 --> 00:40:16,750
+volumes of liquid. He can construct mystical
+barriers, perform astral projection, and open
+
+419
+00:40:16,750 --> 00:40:22,750
+dimensional portals. His hydrokinesis allows
+him to shape whirlpools, geysers, and title
+
+420
+00:40:22,750 --> 00:40:29,010
+surges at will. He shares a telepathic link with
+marine life, enabling him to communicate and
+
+421
+00:40:29,010 --> 00:40:35,390
+command sea creatures, like his mentor Aquaman.
+Lastly, he is also a seasoned combatant trained in
+
+422
+00:40:35,390 --> 00:40:41,510
+Atlantean martial arts and armed combat. And
+that's Tempest. If he could speak to marine life
+
+423
+00:40:41,510 --> 00:40:48,150
+like Aquaman can, then he just seems way better
+than Aquaman considering he can do everything his
+
+424
+00:40:48,150 --> 00:40:54,790
+mentor can do and more. I think there would be more
+inclined to honor the king of Atlantis over Garth,
+
+425
+00:40:54,790 --> 00:40:59,590
+but yeah, that's probably the only person they
+would listen to over him. Seems like the trainee
+
+426
+00:40:59,590 --> 00:41:05,630
+has become the master. I like that. Oh, that's more
+than Aquaman now. Considering I always thought
+
+427
+00:41:05,630 --> 00:41:11,830
+like Aquaman's ability to speak to fish was his
+like unique defining characteristic. Well, it is
+
+428
+00:41:11,830 --> 00:41:17,990
+in a way. It's sort of like his metahuman ability,
+whereas Tempest has to do it through magic. And six
+
+429
+00:41:17,990 --> 00:41:29,630
+one way, half a dozen the other. I don't know what
+that means, but yes. In a world where fantasies
+
+430
+00:41:29,630 --> 00:41:35,650
+collide and heroes clash, one podcast network
+rises above the rest. Prepare yourself for the
+
+431
+00:41:35,650 --> 00:41:41,750
+ultimate showdowns in comic books, video games,
+movies, and anime. The Dynamite Podcast Network
+
+432
+00:41:41,750 --> 00:41:48,170
+presents Console Combat, where video game
+legends brawl every Monday. Dynamic Duel, where
+
+433
+00:41:48,170 --> 00:41:53,970
+comic book titans smash every Tuesday. Max
+Destruction, where TV and action heroes battle
+
+434
+00:41:53,970 --> 00:42:00,750
+every Wednesday. And Sendro World, where anime
+champions clash every Thursday. Join us as we
+
+435
+00:42:00,750 --> 00:42:05,950
+speculate on the matches and armed with the power
+of mathematical simulations, discover who will
+
+436
+00:42:05,950 --> 00:42:15,990
+emerge victorious. Visit dynamicpodcast.com
+where we settle the debate and settle the score.
+
+437
+00:42:15,990 --> 00:42:19,450
+Well, now that we've got their histories and
+abilities out of the way, let's speculate on how
+
+438
+00:42:19,450 --> 00:42:24,570
+one of the 1000 simulated matches will go. The
+winner is determined by simulations, not the
+
+439
+00:42:24,570 --> 00:42:29,390
+speculation, but it's fun to imagine how the fight
+could play out. AJ9K, what are the rules over
+
+440
+00:42:29,390 --> 00:42:34,830
+speculation? Well, I should say there are no
+rules, other than the characters have no prior
+
+441
+00:42:34,830 --> 00:42:39,610
+knowledge of the other going into the fight. All
+they are aware of starting out is that the other
+
+442
+00:42:39,610 --> 00:42:44,750
+character is a threat that needs to be eliminated.
+For the speculation, the contestants will begin
+
+443
+00:42:44,750 --> 00:42:50,130
+approximately 50 meters apart in a nondescript
+environment that will have no bearing on the match
+
+444
+00:42:50,130 --> 00:42:55,050
+itself, as no environmental statistics are
+considered in my simulations. The contestants
+
+445
+00:42:55,050 --> 00:43:00,870
+must earn victory on their own merit. Alright
+then, let's get into it. Tempest and Crystal meet
+
+446
+00:43:00,870 --> 00:43:06,310
+on the battlefield? Who goes first? I'm gonna say
+that Crystal starts off by igniting some
+
+447
+00:43:06,310 --> 00:43:11,370
+fireballs in her hands and she just hurls them at
+Tempest, she throws like six of them and they just
+
+448
+00:43:11,370 --> 00:43:16,970
+melt his face right off. Yeah, except that those
+fireballs are blocked by magic, you know, this
+
+449
+00:43:16,970 --> 00:43:22,350
+glowing energy shield that he puts up, which is
+then going to shoot out like a handful of purple
+
+450
+00:43:22,350 --> 00:43:28,610
+magic energy shards right at Crystal piercing her
+under vital organs. These shards are magic and
+
+451
+00:43:28,610 --> 00:43:36,490
+they come from his magic shield? Sure, yeah. Okay,
+Crystal dodges the shards, she's gonna lift into
+
+452
+00:43:36,490 --> 00:43:42,590
+the air with a gust of wind and while she's hovering
+in the air, she is gonna form the wind into this like
+
+453
+00:43:42,590 --> 00:43:48,570
+mini cyclone and she feeds it with boulders from
+the ground that's below them and she sends the
+
+454
+00:43:48,570 --> 00:43:54,490
+tornado over at Tempest and it just envelops him
+and he gets smashed among all the flying boulders
+
+455
+00:43:54,490 --> 00:44:00,370
+within the mini cyclone, just knocked around like
+he's in a clothes dryer. Okay, well as the tornado
+
+456
+00:44:00,370 --> 00:44:06,670
+is coming at Tempest though, he's gonna open a
+magic portal at its base and that's gonna cause it
+
+457
+00:44:06,670 --> 00:44:12,390
+just to fill with water. So this water's gonna
+quickly spread throughout the tornado and
+
+458
+00:44:12,390 --> 00:44:17,810
+Tempest is gonna freeze it. Okay, so you have this
+like frozen tornado and he's gonna shatter it into
+
+459
+00:44:17,810 --> 00:44:24,530
+a million pieces and send those hurtling right at
+Crystal just like this hail storm directed right
+
+460
+00:44:24,530 --> 00:44:30,730
+at her like a wall of bullets. Crystal doesn't give
+a shit about that, she's the avatar, okay, she just
+
+461
+00:44:30,730 --> 00:44:36,070
+lands back on the ground and she neos that shit like
+Neo from the Matrix holds up her hand and all the
+
+462
+00:44:36,070 --> 00:44:41,750
+hail just stops right in front of her freezing
+midair and then she's just gonna vaporize all of
+
+463
+00:44:41,750 --> 00:44:48,390
+that water into a thick fog that covers the
+battlefield so that Tempest can't see shit and
+
+464
+00:44:48,390 --> 00:44:54,330
+he's looking around for Crystal when all of a
+sudden he gets sucked into the ground like he just
+
+465
+00:44:54,330 --> 00:45:00,530
+stepped into quicksand and sure he can breathe
+underwater but like we can't breathe that well in a
+
+466
+00:45:00,530 --> 00:45:06,430
+dust storm so he suffocates in the earth and dies.
+But you've forgotten that Tempest has enhanced
+
+467
+00:45:06,430 --> 00:45:11,050
+senses. He can see at the bottom of the ocean so he
+could definitely see Crystal through this fog
+
+468
+00:45:11,050 --> 00:45:15,950
+this whole damn time and I mean I guess that
+wouldn't necessarily help him from the quicksand
+
+469
+00:45:15,950 --> 00:45:22,010
+but that's fine because Tempest is just gonna use
+his magic to flood the quicksand with water
+
+470
+00:45:22,010 --> 00:45:27,570
+turning it into like a whirlpool portal which he's
+just gonna fall into and he's gonna drop through
+
+471
+00:45:27,570 --> 00:45:32,510
+that portal down through another one that he
+formed right behind Crystal right like a badass
+
+472
+00:45:32,510 --> 00:45:39,270
+assassin and he's going to grab her from behind
+conjure this magical energy dagger and just
+
+473
+00:45:39,270 --> 00:45:46,010
+assassinate her right there. Okay so he teleports
+out of the quicksand? Yes. Okay now if he even lays
+
+474
+00:45:46,010 --> 00:45:53,210
+his hands on the Crystal he's gonna just combust
+into flame okay so he tries to assassinate her but
+
+475
+00:45:53,210 --> 00:45:58,750
+he's too busy burning alive screaming like a
+maniac and that fire is gonna like desiccate all
+
+476
+00:45:58,750 --> 00:46:06,370
+the moisture in his body so he's just gonna be a
+dried out husk. Oh shit okay um as Tempest is
+
+477
+00:46:06,370 --> 00:46:13,310
+probably on the ground gasping for water he's
+going to inscribe atlantian magic runes into the
+
+478
+00:46:13,310 --> 00:46:19,770
+ground and suddenly a tidal wave just comes out of
+nowhere and crashes onto the battlefield
+
+479
+00:46:19,770 --> 00:46:25,690
+Crystal's gonna be smashed into the ground and the
+whole environment is going to be flooded with
+
+480
+00:46:25,690 --> 00:46:32,430
+water and as she's bruised and broken underwater
+that's when she's gonna see Tempest's glowing
+
+481
+00:46:32,430 --> 00:46:39,670
+purple eyes and his right hand glowing with red
+energy as he boils the water around her. Alright
+
+482
+00:46:39,670 --> 00:46:45,210
+yeah she's battered from the wave but to keep from
+burning she creates an air pocket for herself in
+
+483
+00:46:45,210 --> 00:46:53,230
+the water so she doesn't get touched by the boiling
+heat and from her bubble air bubble she ionizes a
+
+484
+00:46:53,230 --> 00:46:59,050
+portion of that air and shoots a lightning bolt
+into the water that just electrocutes Tempest. Oh
+
+485
+00:46:59,050 --> 00:47:07,450
+shit okay Tempest he's probably gonna be stunned
+by that or or actually Tempest's body magically
+
+486
+00:47:07,450 --> 00:47:15,330
+converts the electricity into his own magic what
+he's going to use to fuel an attack he's gonna swirl
+
+487
+00:47:15,330 --> 00:47:22,130
+the water around them into a massive just
+devastating hurricane like the biggest one on
+
+488
+00:47:22,130 --> 00:47:28,210
+record a Tempest and that's going to overwhelm
+Crystal and as she's trying to like make heads or
+
+489
+00:47:28,210 --> 00:47:35,230
+tails of the environment that's when she's gonna
+get blasted with this massive beam of magical
+
+490
+00:47:35,230 --> 00:47:41,670
+eldritch energy just completely disintegrating
+her so the match is over. Can he do that can he
+
+491
+00:47:41,670 --> 00:47:47,530
+convert electricity that's running through his
+body into magic dude he's learned all kinds of
+
+492
+00:47:47,530 --> 00:47:53,290
+magic tricks studying with atlan and the silent
+school if an electric eel can do it i bet he could an
+
+493
+00:47:53,290 --> 00:47:58,730
+electric eel can convert electricity into magic
+i'm calling bullshit on that and you're made up
+
+494
+00:47:58,730 --> 00:48:08,350
+magic it's magic bitch i do what i want. Magic is
+stupid okay say Tempest creates a hurricane that
+
+495
+00:48:08,350 --> 00:48:13,330
+doesn't matter to Crystal okay she's the master of
+these elements he can try to disintegrate her with
+
+496
+00:48:13,330 --> 00:48:19,830
+a magic beam or whatever but before he can even do
+that Crystal is gonna raise a small volcano out of
+
+497
+00:48:19,830 --> 00:48:26,530
+the ground beneath Tempest okay and it's gonna
+shoot out this geyser of liquid hot magma all over
+
+498
+00:48:26,530 --> 00:48:32,830
+him and he can't get out because she forms the lava
+into a sphere around him and she hardens the
+
+499
+00:48:32,830 --> 00:48:37,390
+outside of the sphere into obsidian so he's
+trapped in this stone prison that's burning him
+
+500
+00:48:37,390 --> 00:48:44,430
+alive and he like no marine animal like an electric
+eel or whatever can survive that so he's dead yeah
+
+501
+00:48:44,430 --> 00:48:52,150
+Crystal wins well i say none of that happened
+because Crystal's dead for magic all right we'll
+
+502
+00:48:52,150 --> 00:48:58,070
+go ahead and leave the scenario there one of those
+two things happens either Tempest gets burned
+
+503
+00:48:58,070 --> 00:49:06,130
+alive in a lava prison or Crystal gets
+disintegrated by magic energy blast let's go
+
+504
+00:49:06,130 --> 00:49:11,830
+ahead and input the character stats run the
+simulations and come back with a winner a g9k hit it
+
+505
+00:49:11,830 --> 00:49:18,630
+inputting data running calculations processing
+results simulations complete all right that was a
+
+506
+00:49:18,630 --> 00:49:22,930
+really fun match i really like these two
+characters they're pretty cool yeah for some
+
+507
+00:49:22,930 --> 00:49:28,470
+reason i thought that crystal would have the
+physiological edge here considering that she's
+
+508
+00:49:28,470 --> 00:49:35,430
+inhuman and so she has enhanced physicals but then
+you reminded me that Tempest is atlantic and so his
+
+509
+00:49:35,430 --> 00:49:41,950
+physicals are even more enhanced like crystal is
+durable Tempest is more durable than that crystal
+
+510
+00:49:41,950 --> 00:49:47,830
+is fast like Olympian fast or maybe even faster
+than that considering she can carry herself on
+
+511
+00:49:47,830 --> 00:49:55,190
+gusts of wind but Tempest is known for teleporting
+and for being super speedy in the water also
+
+512
+00:49:55,190 --> 00:50:00,790
+Crystal's just not physically as strong as
+Tempest and she's not as good of a fighter as he is
+
+513
+00:50:00,790 --> 00:50:05,190
+because he's been trained in the atlantic and
+military well crystal has been trained but you
+
+514
+00:50:05,190 --> 00:50:11,330
+hardly ever see her fight in hand to hand combat i
+will say that her damage potential is off the
+
+515
+00:50:11,330 --> 00:50:17,310
+charts sources say that she can control air around
+her in a 30 mile radius that's massive that's on the
+
+516
+00:50:17,310 --> 00:50:22,730
+level of a city and if she can do the same with other
+elements like create a massive earthquake on that
+
+517
+00:50:22,730 --> 00:50:28,210
+level then she can easily topple a city if she
+wanted to i have seen her raise atlant from the
+
+518
+00:50:28,210 --> 00:50:33,230
+ground just using her powers so Tempest i don't
+think he can really match that also we have to
+
+519
+00:50:33,230 --> 00:50:39,270
+consider that crystal can control the element
+that is Tempest's weakness as it were you know heat
+
+520
+00:50:39,270 --> 00:50:45,210
+that can dry him out and burn him alive so she
+definitely got the edge there yeah we also
+
+521
+00:50:45,210 --> 00:50:51,230
+downgraded Tempest's damage level somewhat
+considering there was nothing besides magic
+
+522
+00:50:51,230 --> 00:50:57,990
+really that he was able to do to hurt her like
+conjuring any kind of water whether it was boiling
+
+523
+00:50:57,990 --> 00:51:03,250
+or freezing she was just going to be able to
+counteract that yeah it might hurt her for a time
+
+524
+00:51:03,250 --> 00:51:08,530
+but she would be able to defend herself like if he
+put her in a boiling pool or something like that
+
+525
+00:51:08,530 --> 00:51:14,170
+she'd get boiled for a second before she cooled it
+right magic was his only leg up they were matched
+
+526
+00:51:14,170 --> 00:51:20,510
+when it came to evasiveness range and perception
+the letter of which actually surprised me because
+
+527
+00:51:20,510 --> 00:51:26,410
+you know Tempest has enhanced senses just by
+nature of being an atlantian but i guess she has
+
+528
+00:51:26,410 --> 00:51:32,110
+full like spatial sense of all of the elements yeah
+she has elemental awareness basically another
+
+529
+00:51:32,110 --> 00:51:38,030
+thing that surprised me was that she ended up being
+more versatile than Tempest which i guess really
+
+530
+00:51:38,030 --> 00:51:42,970
+shouldn't have surprised me because well he
+controls water she controls all of the elements
+
+531
+00:51:42,970 --> 00:51:49,230
+yeah although we did say that Tempest was more
+intelligent considering he's one of the most
+
+532
+00:51:49,230 --> 00:51:56,150
+learned sorcerers and all of atlantian history
+and crystal is smart you know she's she's fine
+
+533
+00:51:56,150 --> 00:52:02,310
+she's okay she's not as studied as Tempest with all
+that said Jonathan who's taken the win here pretty
+
+534
+00:52:02,310 --> 00:52:10,890
+sure it's Tempest i'm not 100% on that but
+instagram agrees with me as of this recording 60%
+
+535
+00:52:10,890 --> 00:52:16,930
+of people voted for Tempest to win they don't know
+you don't know the only person that knows right now
+
+536
+00:52:16,930 --> 00:52:26,490
+is AJ9K who has the results so AJ9K the results
+please here you are sir all right the winner in the
+
+537
+00:52:26,490 --> 00:52:36,430
+duel between Tempest and Crystal is Tempest yes
+that does it for this episode i want to thank our
+
+538
+00:52:36,430 --> 00:52:42,610
+executive producers Nana what's the one
+percentage out of 1000 simulated matches Tempest
+
+539
+00:52:42,610 --> 00:52:51,430
+won a lot of them he actually won 752 matches
+whereas crystal only won 248 so it was 75.2% over
+
+540
+00:52:51,430 --> 00:53:00,450
+24.8% that is wild i did not think he was gonna get a
+win rate that high it was the physicals and it was
+
+541
+00:53:00,450 --> 00:53:06,930
+the intelligence Tempest is actually pretty
+impressive statistically uh whereas crystal you
+
+542
+00:53:06,930 --> 00:53:13,230
+know she has a lot of potential she's very powerful
+but she just can't match the overallness of
+
+543
+00:53:13,230 --> 00:53:21,630
+Tempest that is awesome i love that freaking go
+Tempest and suck it in humans no the inhumans are
+
+544
+00:53:21,630 --> 00:53:27,090
+gonna be pissed about this result and they're
+gonna come out with a fury like the wild cats have
+
+545
+00:53:27,090 --> 00:53:32,770
+never seen in our next episode because of this loss
+they're not fucking around clearly you don't know
+
+546
+00:53:32,770 --> 00:53:38,990
+the wild cats i don't know anything about the wild
+cats no actually neither do i um i'm gonna learn all
+
+547
+00:53:38,990 --> 00:53:44,430
+about them this upcoming week in preparation for
+this team duel yeah definitely can't wait for that
+
+548
+00:53:44,430 --> 00:53:52,030
+but that does it for this episode h a9k close us out
+thanks for listening to dynamic duel visit the
+
+549
+00:53:52,030 --> 00:53:57,890
+show's website at dynamic duel dot com and follow
+us on instagram at dynamic duel podcast you can
+
+550
+00:53:57,890 --> 00:54:02,930
+support the show on patreon at patreon dot com
+slash dynamic duel and joining a tier that works
+
+551
+00:54:02,930 --> 00:54:09,030
+for you or by rating and reviewing dynamic duel on
+apple podcasts spotify podchaser or on our
+
+552
+00:54:09,030 --> 00:54:14,190
+website don't forget to listen to the other shows
+in the dynamite podcast network including max
+
+553
+00:54:14,190 --> 00:54:20,610
+destruction senjo world and console combat all
+right as we just said our next episode is going to be
+
+554
+00:54:20,610 --> 00:54:26,270
+the wild cats versus the inhumans this is a team
+duel determined by our executive producers and
+
+555
+00:54:26,270 --> 00:54:31,690
+hopefully it's good and by good i mean hopefully
+the inhumans win because i'm kind of pissed right
+
+556
+00:54:31,690 --> 00:54:37,070
+now but that does it for this episode we want to give
+a big thanks to our executive producers john
+
+557
+00:54:37,070 --> 00:54:42,550
+steroski zackary heppern destin belcom miggy
+mattengian nithaniel wagner levi yatan austin
+
+558
+00:54:42,550 --> 00:54:49,090
+wisalaski aji dunkely nikobanto scott kamacho
+gil kamacho adam spes dean meliski devin davis
+
+559
+00:54:49,090 --> 00:54:54,790
+joseph curseding josh liner mike williams oscar
+galvez and paul graves for helping make this
+
+560
+00:54:54,790 --> 00:55:00,810
+podcast possible we'll talk to you guys next week
+up up and away true believers well i control the
+
+561
+00:55:00,810 --> 00:55:01,290
+fifth element love
