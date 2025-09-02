@@ -1,0 +1,2259 @@
+1
+00:00:00,000 --> 00:00:27,560
+This is a DynaMic Network Podcast. Hi, welcome to
+the Dynamic Duel Podcast, a weekly show where we
+
+2
+00:00:27,560 --> 00:00:32,700
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:32,700 --> 00:00:38,060
+their characters in stat-based battle
+simulations. I'm Johnny DC. And I'm his twin
+
+4
+00:00:38,060 --> 00:00:44,260
+brother, Marvelous Joe. And in this episode, we
+are doing a duel between the Superman-esque
+
+5
+00:00:44,260 --> 00:00:52,000
+characters of Icon and Gladiator. Yeah, this was a
+special request from our executive producers.
+
+6
+00:00:52,000 --> 00:00:56,040
+I've always been a big fan of Gladiator, even
+though he is a Superman knockoff, but just because
+
+7
+00:00:56,040 --> 00:01:01,880
+he's so heavily tied into the Shiar alien empire,
+which is like one of the big races in the world of
+
+8
+00:01:01,880 --> 00:01:09,360
+cosmic Marvel. I guess you could more accurately
+say that Gladiator is a Mon-El ripoff. And I have
+
+9
+00:01:09,360 --> 00:01:15,600
+too much respect for Icon to call him too much of a
+Superman knockoff. So I know of Icon, but I
+
+10
+00:01:15,600 --> 00:01:19,240
+actually don't know his powers. Like both of these
+guys are pretty obscured characters, I think,
+
+11
+00:01:19,240 --> 00:01:23,280
+both like cult followings. Yeah, we're going to
+break down each character's histories and
+
+12
+00:01:23,280 --> 00:01:28,260
+abilities later on in this episode before finding
+out who would win in a battle between the two.
+
+13
+00:01:28,260 --> 00:01:32,520
+Before that, we're going to break down the comic
+book movie news from the past week, of which the
+
+14
+00:01:32,520 --> 00:01:38,940
+news is that there is no news. It's all just
+freaking rumors all the time. I'm sick of it. I want
+
+15
+00:01:38,940 --> 00:01:44,320
+some real stuff. Yeah, enough with that like
+clickbait speculation stuff. Like I want the
+
+16
+00:01:44,320 --> 00:01:50,020
+studios to like announce something already, you
+know? Right. I want a Batman. I want something
+
+17
+00:01:50,020 --> 00:01:55,540
+besides Avengers Doomsday or Spider-Man, I
+guess. I want something. Give me something. Give
+
+18
+00:01:55,540 --> 00:02:02,140
+me anything. I think I have an old pizza crust in a
+box upstairs if you want that. The fuck? Of course I
+
+19
+00:02:02,140 --> 00:02:07,860
+do. I love pizza crust. As always, guys, we list our
+segment times in our episode description, so feel
+
+20
+00:02:07,860 --> 00:02:12,000
+free to check out the show notes if you want to skip
+ahead to a particular topic. Our artificially
+
+21
+00:02:12,000 --> 00:02:19,340
+intelligent dual simulator, AJ9K, has a quick
+message for our listeners. So listen up. Why hello
+
+22
+00:02:19,340 --> 00:02:24,400
+there. Do you want even more from this podcast?
+Then become a part of the Dynamic Dual community on
+
+23
+00:02:24,400 --> 00:02:29,380
+Patreon, where you can choose from three tiers.
+The Dynamic 2.0 tier gives you access to our
+
+24
+00:02:29,380 --> 00:02:34,320
+Discord chat server. The Fantastic Four tier
+gives you two bonus episodes each month, and the
+
+25
+00:02:34,320 --> 00:02:39,960
+X-Force tier makes you an executive producer of
+this show. Lastly, the Diner Mike podcast network
+
+26
+00:02:39,960 --> 00:02:44,900
+tier lets you create your own podcast using this
+Monte Carlo simulator. Johnny and Joe will help
+
+27
+00:02:44,900 --> 00:02:50,220
+you develop your show, provide graphic support
+and consultation and get you simulation results.
+
+28
+00:02:50,220 --> 00:02:55,880
+Pitch the twins your ideas via email at
+dynamicdualpodcastatgmail.com. Check it out at
+
+29
+00:02:55,880 --> 00:03:02,580
+patreon.com slash dynamicdual. Pip pip cheerio.
+Thanks AJ9K and thanks to everyone who supports
+
+30
+00:03:02,580 --> 00:03:06,740
+the podcast. Guys, be sure to tune into the other
+shows and the Diner Mike podcast network this
+
+31
+00:03:06,740 --> 00:03:10,880
+week, including the console combat podcast,
+where hosts, John and Dean simulate battles
+
+32
+00:03:10,880 --> 00:03:15,780
+between popular video game characters. In
+yesterday's episode, the two determined to win
+
+33
+00:03:15,780 --> 00:03:21,460
+between Wario, specifically the WarioWare
+version, and Dr. Robotnik from Sonic the
+
+34
+00:03:21,460 --> 00:03:26,320
+Hedgehog. Over on the Max Destruction podcast,
+hosts Scotty and Gilly pit your favorite action
+
+35
+00:03:26,320 --> 00:03:30,600
+heroes from film and television against each
+other. On Wednesday, they're coming back from a
+
+36
+00:03:30,600 --> 00:03:36,820
+month long hiatus to find out who would win in a
+fight between Chong Li from Bloodsport and Tong Po
+
+37
+00:03:36,820 --> 00:03:42,540
+from Kickboxer. This is going to be such a good
+episode. On the Central World podcast, host
+
+38
+00:03:42,540 --> 00:03:47,440
+Zachary Hepburn speculates on fights between fan
+favorite anime and manga characters. In his next
+
+39
+00:03:47,440 --> 00:03:53,620
+episode, Zach is going to reveal who would win
+between Trafalgar D Waterlaw from One Piece and
+
+40
+00:03:53,620 --> 00:03:59,500
+Tanjiro Kanjiro from Bleach. Visit
+dynamicpodcasts.com or click the link in our show
+
+41
+00:03:59,500 --> 00:04:05,300
+notes to listen to all of the shows in the Diner Mike
+podcast network. But with that out of the way,
+
+42
+00:04:05,300 --> 00:04:11,820
+quick to the no prize. A no prize is an award that
+Marble used to give out to fans. Our version, the
+
+43
+00:04:11,820 --> 00:04:16,800
+dynamic dual no prize is a digital award we post on
+Instagram for the person that we feel gave the best
+
+44
+00:04:16,800 --> 00:04:21,459
+answer to our question of the week. Last week, we
+asked you guys, what do you think Deadpool's
+
+45
+00:04:21,459 --> 00:04:26,280
+involvement in the Avengers Doomsday story will
+be? And this is coming off of the news that Deadpool
+
+46
+00:04:26,280 --> 00:04:32,060
+will be an Avengers Doomsday, which has been
+confirmed by The Hollywood Reporter and vaguely
+
+47
+00:04:32,060 --> 00:04:36,340
+by Ryan Reynolds own Instagram post. The
+Hollywood Reporter said that the role would be
+
+48
+00:04:36,340 --> 00:04:41,800
+unsubstantial, but we thought we'd go to you guys
+to see what that role might entail. We got three
+
+49
+00:04:41,800 --> 00:04:47,660
+answers, but actually one of them got lost.
+Somewhere on the Internet. So sorry, Lorenzo
+
+50
+00:04:47,660 --> 00:04:52,300
+Valdez. Thank you for calling in. We saw that you
+did leave a message, but for some reason it just
+
+51
+00:04:52,300 --> 00:04:57,560
+didn't load when we would click on it. So our
+honorable mention goes to Alex Albro, who said,
+
+52
+00:04:57,560 --> 00:05:02,320
+Hey guys, I think Deadpool is a narrator of the
+movie, the opening line being in a world where
+
+53
+00:05:02,320 --> 00:05:09,200
+fantasies collide and heroes clash. Wait, no,
+that's not the right one. That's not the right
+
+54
+00:05:09,200 --> 00:05:15,460
+line. No, honestly, guys, I have no idea what
+Deadpool is doing in this movie. I have no idea what
+
+55
+00:05:15,460 --> 00:05:20,180
+his role will be. Maybe it's just a post credit
+cameo where he is at the end in a chair reading the
+
+56
+00:05:20,180 --> 00:05:25,740
+Secret Wars comic from Deadpool and Wolverine and
+tells us to show up, you know, next December. I have
+
+57
+00:05:25,740 --> 00:05:30,620
+no idea. Actually, I wouldn't mind either of those
+options if he's the narrator. Well, I guess it
+
+58
+00:05:30,620 --> 00:05:35,140
+would make the proceedings of the film seem a
+little bit silly because of course he's going to
+
+59
+00:05:35,140 --> 00:05:40,880
+lend his own comedic commentary to what's going
+on. So I like the second idea that Alex suggested
+
+60
+00:05:40,880 --> 00:05:45,920
+where he's like in a post credit scene kind of
+telling people to show up for the continuation of
+
+61
+00:05:45,920 --> 00:05:51,680
+the story in Avengers Secret War. You know how Once
+Upon a Deadpool was kind of based off of the
+
+62
+00:05:51,680 --> 00:05:57,100
+Princess Bride movie? Right. It was sort of like
+this framed narrative where Deadpool's reading a
+
+63
+00:05:57,100 --> 00:06:03,260
+story to Fred Savage. I want Avengers Doomsday to
+be a framed narrative based on the never ending
+
+64
+00:06:03,260 --> 00:06:08,920
+story because that's what these Marvel movies
+are. Never ending stories. Yeah. So what does that
+
+65
+00:06:08,920 --> 00:06:13,480
+mean? Deadpool's like reading the Avengers
+Doomsday story and then he like closes the book and
+
+66
+00:06:13,480 --> 00:06:18,160
+then runs out into a storm and shouts Dr. Doomsname
+or something. And then all of a sudden he's writing
+
+67
+00:06:18,160 --> 00:06:25,740
+Dr. Dooms through the skies. That would be epic.
+Great answer, Alex. But the winner of this week's
+
+68
+00:06:25,740 --> 00:06:34,140
+No Prize is Noah Terry. Who said? Hey, guys, so for
+Deadpool's role in Avengers Doomsday, I would say
+
+69
+00:06:34,140 --> 00:06:42,420
+he will be almost like a multiverse guide to the
+Avengers and other characters, almost like a
+
+70
+00:06:42,420 --> 00:06:48,600
+chaotic version of Nick Fury who will introduce
+the incursions in the TVA to the characters and
+
+71
+00:06:48,600 --> 00:06:54,280
+help drive the story forward. So that's my answer.
+Thanks. Bye, guys. I actually think this one's
+
+72
+00:06:54,280 --> 00:06:59,560
+plausible in that we know with Loki sitting on his
+throne, you know, taking care of the multiverse
+
+73
+00:06:59,560 --> 00:07:05,220
+and substituting for the loom and Mobius, Owen
+Wilson's character from the Loki show no longer at
+
+74
+00:07:05,220 --> 00:07:10,500
+the TVA. They got to have some kind of TVA
+representative in Avengers Doomsday. So maybe
+
+75
+00:07:10,500 --> 00:07:15,460
+Deadpool serves as the like the TVA
+representative and introducing the concept of
+
+76
+00:07:15,460 --> 00:07:20,840
+the incursions to the Avengers. And I like that
+answer a lot because how many characters from the
+
+77
+00:07:20,840 --> 00:07:27,280
+films are actually familiar with the concept of
+the multiverse? I mean, there's Dr. Strange and
+
+78
+00:07:27,280 --> 00:07:33,000
+there's Spider-Man. And I guess like Captain
+America was told about them in the post-credits
+
+79
+00:07:33,000 --> 00:07:38,840
+scene for Captain America Brave New World, I guess
+possibly Ant-Man too, with his involvement with
+
+80
+00:07:38,840 --> 00:07:43,640
+King. And of course, the Fantastic Four would know
+about them having come from a separate universe.
+
+81
+00:07:43,640 --> 00:07:48,640
+So a lot of them, actually. But, you know, they may
+not all know about the incursions themselves. I
+
+82
+00:07:48,640 --> 00:07:52,640
+think that's just the Dr. Strange thing. But I
+think this would be a fun idea to be like a quick way
+
+83
+00:07:52,640 --> 00:07:57,280
+for Deadpool to like get in and out of the story,
+just kind of like setting up what these guys got to
+
+84
+00:07:57,280 --> 00:08:01,440
+do and how the TVA needs them. So great answer,
+Noah, and congrats on winning this week's No
+
+85
+00:08:01,440 --> 00:08:05,360
+Prize. If you, the listener, want to shout out
+winning your own No Prize, stay tuned to later on
+
+86
+00:08:05,360 --> 00:08:10,100
+this episode when we'll be asking another
+question of the week. And since there is no news
+
+87
+00:08:10,100 --> 00:08:18,980
+this week, on to the question of the week. All
+right, guys, it's fantasy football season. So we
+
+88
+00:08:18,980 --> 00:08:23,380
+thought we would ask you guys a fantasy football
+related question that pertains to Marvel and DC.
+
+89
+00:08:23,380 --> 00:08:28,960
+Basically, who would be your number one
+quarterback, running back, wide receiver, tight
+
+90
+00:08:28,960 --> 00:08:34,580
+end, safety and kicker on your Marvel or DC fantasy
+football team? So taking all the superhero
+
+91
+00:08:34,580 --> 00:08:39,520
+characters out there from Marvel and DC, putting
+them on a football team, what would those primary
+
+92
+00:08:39,520 --> 00:08:45,340
+positions be? Again, quarterback, running back,
+wide receiver, tight end, safety and kicker. And I
+
+93
+00:08:45,340 --> 00:08:51,020
+don't want to see any of these mixing of Marvel and
+DC characters on these teams. This is either team
+
+94
+00:08:51,020 --> 00:08:56,720
+DC or team Marvel. You get a pick. Yeah, and give us
+the name of your team, too. Record your answer at
+
+95
+00:08:56,720 --> 00:09:00,520
+dynamicdool.com by clicking on the red
+microphone button in the bottom right hand corner
+
+96
+00:09:00,520 --> 00:09:05,060
+of the screen, which will prompt you to leave us a
+voicemail. Your message could be up to 30 seconds
+
+97
+00:09:05,060 --> 00:09:09,760
+long. And don't forget to leave your name in case we
+include you on the podcast. We'll pick our
+
+98
+00:09:09,760 --> 00:09:15,040
+favorite answer and award that person a Dynamic
+Duel No Prize that will post to Instagram. Be sure
+
+99
+00:09:15,040 --> 00:09:29,740
+to answer before September 6th. But now let's move
+on to the main event of this episode, a duel between
+
+100
+00:09:29,740 --> 00:09:52,480
+the DC milestone character of Icon and Marvel's
+leader of the Imperial Guard Gladiator. OK, Icon
+
+101
+00:09:52,480 --> 00:09:59,580
+versus Gladiator, as we mentioned earlier, these
+are two Superman-esque characters who can fly and
+
+102
+00:09:59,580 --> 00:10:04,860
+are super strong and shoot lasers. But I think they
+also have interesting stories. At least I know
+
+103
+00:10:04,860 --> 00:10:12,520
+Icon does. He, of course, originated in milestone
+comics, which was later acquired by DC Comics.
+
+104
+00:10:12,520 --> 00:10:18,640
+Yeah, I like Gladiator's backstory. You know, for
+all these Superman copies, essentially, a lot of
+
+105
+00:10:18,640 --> 00:10:23,920
+them have managed to kind of carve out their own
+unique and interesting backstory. For the most
+
+106
+00:10:23,920 --> 00:10:27,860
+part, I mean, except for Hyperion, right, the
+leader of the Squadron Supreme. We actually have
+
+107
+00:10:27,860 --> 00:10:33,560
+done a duel with him against Ultraman. We've also
+done a duel with the Sentry against Zod. So this
+
+108
+00:10:33,560 --> 00:10:38,520
+will be like our fourth version of like Superman
+versus Superman-esque characters. To my
+
+109
+00:10:38,520 --> 00:10:43,560
+knowledge, neither of these characters have been
+in film, but I know that they have made appearances
+
+110
+00:10:43,560 --> 00:10:50,500
+in both the X-Men and the Young Justice animated
+series. Right. Yeah, the X-Men live action films
+
+111
+00:10:50,500 --> 00:10:57,000
+have yet to really go cosmic. Yet there is a cosmic
+side to the X-Men comic books, which largely deals
+
+112
+00:10:57,000 --> 00:11:01,840
+with the Shiar. I guess it would be strange for the
+live action X-Men films to really go out there like
+
+113
+00:11:01,840 --> 00:11:08,880
+that. Although, I guess the Dark Phoenix movie did
+have the Dabari aliens as villains. Who were not
+
+114
+00:11:08,880 --> 00:11:14,860
+the Skrulls. Right. But going from there, I think
+you could branch out into, you know, the Shiar and
+
+115
+00:11:14,860 --> 00:11:19,480
+the Imperial Guard in a subsequent X-Men movie.
+You know, if that whole Fox X-Men universe wasn't
+
+116
+00:11:19,480 --> 00:11:24,360
+obsolete by this point. I do think a icon movie
+would be cool as hell, though. It would be like
+
+117
+00:11:24,360 --> 00:11:29,060
+Django and Chained meets Superman. I mean, they
+could go that route. I think that's definitely a
+
+118
+00:11:29,060 --> 00:11:34,520
+route you could take the film. I think that would be
+awesome. We would really need a series of films, I
+
+119
+00:11:34,520 --> 00:11:40,300
+think, maybe a trilogy to really tell Icahn's full
+story. Well, let's get into those backstories.
+
+120
+00:11:40,300 --> 00:11:44,220
+First, to explain the methodology behind our
+duels, let's go to our sentient dual simulator,
+
+121
+00:11:44,220 --> 00:11:49,300
+Alfred Jarvis 9000. AJ9K tell our listeners how
+you go about determining a winner in our dual
+
+122
+00:11:49,300 --> 00:11:54,960
+matchups. Yes, of course, sir. The way I determine
+a winner between the contestants is by running one
+
+123
+00:11:54,960 --> 00:11:59,900
+thousand Monte Carlo simulations using the
+characters statistics. A Monte Carlo simulation
+
+124
+00:11:59,900 --> 00:12:05,440
+is a probabilistic model used to determine
+outcomes through random sampling. In this case, I
+
+125
+00:12:05,440 --> 00:12:09,600
+randomize the statistics along a normal
+distribution as a way to simulate the many
+
+126
+00:12:09,600 --> 00:12:14,540
+variables that can occur during battle. The stat
+parameters are based on the official Marvel power
+
+127
+00:12:14,540 --> 00:12:19,840
+grid from which the DC characters statistics are
+extrapolated. Additional stat categories are
+
+128
+00:12:19,840 --> 00:12:25,340
+included such as range, damage potential,
+versatility and perception in order to create a
+
+129
+00:12:25,340 --> 00:12:30,300
+more detailed and accurate simulation. The
+results of the 1000 simulations provide a
+
+130
+00:12:30,300 --> 00:12:34,260
+percentage of wins for each character. The
+contestant with the higher percentage is
+
+131
+00:12:34,260 --> 00:12:39,100
+declared the victor as they have a higher
+probability to win any given battle. In an
+
+132
+00:12:39,100 --> 00:12:44,520
+equitable pairing, neither character should win
+100% of the matches. The comic book stories have
+
+133
+00:12:44,520 --> 00:12:49,360
+shown that there's even a way for Batman to defeat
+Superman. So the confidence rate of my method
+
+134
+00:12:49,360 --> 00:12:53,440
+falls in line with the precedents that have been
+established in the source material. My
+
+135
+00:12:53,440 --> 00:12:57,920
+mathematical simulations are without
+subjectivity or bias. Feats are not the sole
+
+136
+00:12:57,920 --> 00:13:04,400
+consideration, nor a fan vote is tabulated for
+determination of the winner. Thanks, AJ9K.
+
+137
+00:13:04,400 --> 00:13:07,860
+Before we run the simulations, though, we'd like
+to break down each character's histories and
+
+138
+00:13:07,860 --> 00:13:12,940
+abilities before improvising a scenario on how we
+imagine one of the 1000 simulations would play out
+
+139
+00:13:12,940 --> 00:13:18,460
+beat for beat. And it is my turn to go first with the
+Marvel characters backstory. So let me tell you
+
+140
+00:13:18,460 --> 00:13:28,820
+all about Gladiator, whose real name is Clark. Yo,
+what? Not Clark. Calark. Wow. K-A-L-L-A-R-K, if
+
+141
+00:13:28,820 --> 00:13:34,960
+you care. Calark was born centuries ago on the
+planet Strontia under the dominion of the Shiar
+
+142
+00:13:34,960 --> 00:13:41,080
+Empire. He was descended from a proud lineage and
+raised by the Strontian Council of Elders, who are
+
+143
+00:13:41,080 --> 00:13:46,540
+as much as family as his blood relatives. Like all
+Strontians, he possessed the potential for great
+
+144
+00:13:46,540 --> 00:13:52,740
+power, but his abilities depended on his complete
+devotion to purpose. As a youth, he trained as a
+
+145
+00:13:52,740 --> 00:13:57,800
+military cadet competing for the title of
+Gladiator. He distinguished himself as both an
+
+146
+00:13:57,800 --> 00:14:02,820
+honorable individual and a formidable soldier.
+Only 10 cadets survived the harsh training
+
+147
+00:14:02,820 --> 00:14:07,820
+trials, and they were subjected to a dangerous
+enhancement process that granted them powers far
+
+148
+00:14:07,820 --> 00:14:13,120
+beyond the norm of their race. The Council of
+Elders informed the cadets that the purpose of
+
+149
+00:14:13,120 --> 00:14:18,340
+their trials was to select from among them the
+finest warrior of the Strontian race, as the
+
+150
+00:14:18,340 --> 00:14:23,560
+planet Strontia was under Shiar rule. The Shiar
+were an alien race with a vast intergalactic
+
+151
+00:14:23,560 --> 00:14:28,960
+empire who demanded that the strongest of each of
+its subjects serve in its imperial guard and
+
+152
+00:14:28,960 --> 00:14:34,800
+protect the Shiar ruler, known as a Majestor.
+Calark and the other cadets were to be tested by the
+
+153
+00:14:34,800 --> 00:14:40,220
+Majestor to core, who, knowing that even an
+ordinary Strontian could devastate an army,
+
+154
+00:14:40,220 --> 00:14:45,500
+demanded that they prove their loyalty and
+absolute obedience to the empire by ordering the
+
+155
+00:14:45,500 --> 00:14:51,880
+cadets to slay the Strontian Council of Elders.
+Most of them refused and died trying to rebel,
+
+156
+00:14:51,880 --> 00:14:56,960
+leaving only Calark committed enough to fulfill
+the order and he killed the council that were once
+
+157
+00:14:56,960 --> 00:15:03,260
+like family to him. For his loyalty, Majestor to
+core dubbed Calark as Gladiator, and he was given
+
+158
+00:15:03,260 --> 00:15:08,800
+the rank of Praetor of the Imperial Guard, a
+leadership position he would hold for centuries.
+
+159
+00:15:08,800 --> 00:15:14,460
+As the Praetor of the Imperial Guard, Gladiator
+served multiple Majestors leading up to D'Kenn, a
+
+160
+00:15:14,460 --> 00:15:19,920
+power-hungry ruler who craved the Macron crystal
+which housed enough energy to destroy an entire
+
+161
+00:15:19,920 --> 00:15:26,380
+universe. D'Kenn's sister, L'Londra, reached
+out to the X-Men on Earth, aware of their existence
+
+162
+00:15:26,380 --> 00:15:32,160
+due to their defeat of the invading alien race
+called the Xenox. Professor X and his team of
+
+163
+00:15:32,160 --> 00:15:37,400
+mutants were transported into space where D'Kenn
+declared L'Londra a traitor and commanded
+
+164
+00:15:37,400 --> 00:15:42,520
+Gladiator and the Imperial Guard into battle with
+the X-Men. You can learn more about the X-Men in
+
+165
+00:15:42,520 --> 00:15:47,040
+their duel against the Titans. L'Londra
+eventually convinced Gladiator to stand down
+
+166
+00:15:47,040 --> 00:15:51,900
+when D'Kenn was rendered catatonic, driven
+insane through his contact with the Macron
+
+167
+00:15:51,900 --> 00:15:57,740
+crystal. She laid claim to the Xiar throne,
+becoming its new Majestrix, and Gladiator's new
+
+168
+00:15:57,740 --> 00:16:03,600
+charge. He shifted his loyalty to L'Londra and
+stood at her side when the Dark Phoenix arose, a
+
+169
+00:16:03,600 --> 00:16:08,340
+threat the Majestrix equated to Galactus.
+Declaring that Jean Grey's possession by the
+
+170
+00:16:08,340 --> 00:16:13,180
+Phoenix could not be allowed to continue,
+L'Londra commanded Gladiator to represent her in
+
+171
+00:16:13,180 --> 00:16:18,540
+an honor duel against the X-Men on the blue area of
+the moon. Gladiator battled Colossus and
+
+172
+00:16:18,540 --> 00:16:23,360
+overpowered him with ease, surviving the
+collapse of ancient Cree ruins without injury.
+
+173
+00:16:23,360 --> 00:16:27,960
+Yet even Gladiator and the Guard were powerless
+against the Dark Phoenix, who defeated them
+
+174
+00:16:27,960 --> 00:16:32,980
+before ultimately taking her own life. You can
+learn more about Jean Grey and the Phoenix Horse in
+
+175
+00:16:32,980 --> 00:16:38,660
+our Raven vs Phoenix duel episode. In later years,
+Gladiator remained a stalwart protector of
+
+176
+00:16:38,660 --> 00:16:43,540
+L'Londra. He opposed Lord Samadhar when the
+counselor betrayed the throne in alliance with
+
+177
+00:16:43,540 --> 00:16:48,760
+Deathbird, L'Londra's sadistic sister. He also
+traveled to Earth mistakenly believing the
+
+178
+00:16:48,760 --> 00:16:53,060
+Fantastic Four were scrolls in disguise and
+clashed with them before Spider-Man and Captain
+
+179
+00:16:53,060 --> 00:16:58,860
+America helped expose the true imposters. When
+Deathbird usurped the Xiar throne and took the
+
+180
+00:16:58,860 --> 00:17:04,420
+title of Majestrix, Gladiator was forced to serve
+her despite his loyalties lying with L'Londra.
+
+181
+00:17:04,420 --> 00:17:09,579
+During Deathbird's rule, he and the Guard fought
+with the Starjammers, a group of space pirates who
+
+182
+00:17:09,579 --> 00:17:14,819
+had allied with L'Londra over the power of the
+Phoenix Force. He was defeated and Deathbird
+
+183
+00:17:14,819 --> 00:17:19,680
+later lost her throne after a group of alien
+scrolls staged a coup in order to reinstate
+
+184
+00:17:19,680 --> 00:17:25,220
+L'Londra as Majestrix and have her be in the
+scrolls' thrall. Gladiator continued to enforce
+
+185
+00:17:25,220 --> 00:17:30,700
+Xiar will, but his path often intersected with
+Earth's heroes. He clashed with the Avengers and
+
+186
+00:17:30,700 --> 00:17:35,320
+fought Thor, suffering defeat during the
+Xiar-Cree War. When Earth's heroes sacrificed
+
+187
+00:17:35,320 --> 00:17:40,900
+themselves against Onslaught, L'Londra sent
+Gladiator and the Guard to safeguard Earth, where
+
+188
+00:17:40,900 --> 00:17:46,360
+they uncovered a Cree extremist plot. He later
+battled the Hulk while pursuing a Xiar fugitive on
+
+189
+00:17:46,360 --> 00:17:50,500
+Earth, thwarted Ronan the Accuser's
+assassination attempt on L'Londra, which you can
+
+190
+00:17:50,500 --> 00:17:55,580
+learn more about in our recent Inhumans duel, and
+led an assault on the X-Men under Majestrix
+
+191
+00:17:55,580 --> 00:18:01,300
+L'Londra's orders, but learned that she was under
+Cassandra Nova's psychic control. You can learn
+
+192
+00:18:01,300 --> 00:18:07,220
+more about Professor X's sister in our Chief vs
+Professor X duel. Gladiator's duties extended to
+
+193
+00:18:07,220 --> 00:18:12,660
+cosmic threats. He was captured by a herald of
+Galactus named Tyrant alongside heroes like Beta
+
+194
+00:18:12,660 --> 00:18:17,500
+Ray Bill and the Silver Surfer, though Galactus
+eventually freed them. Gladiator infiltrated
+
+195
+00:18:17,500 --> 00:18:22,620
+the Kiln Prison with Thanos and Star-Lord,
+discovering an Amnesiac godlike being known as
+
+196
+00:18:22,620 --> 00:18:27,560
+the Beyonder. He challenged the Champion of the
+Universe on planet Skardon, though the
+
+197
+00:18:27,560 --> 00:18:33,160
+Champion's power gem made victory impossible for
+Gladiator. He also pursued the Unipower, which is
+
+198
+00:18:33,160 --> 00:18:37,580
+an energy that emanates from the Enigma Force and
+transforms its host into the hero Captain
+
+199
+00:18:37,580 --> 00:18:43,060
+Universe. He teamed up with the Silver Surfer to
+stop a space warlord named Krosakis, who had
+
+200
+00:18:43,060 --> 00:18:47,980
+acquired the Unipower energy. Meanwhile,
+Vulcan, the lost brother of Cyclops who was
+
+201
+00:18:47,980 --> 00:18:53,420
+separated from his family years ago by Daken's
+actions, plotted revenge against Daken. Vulcan
+
+202
+00:18:53,420 --> 00:18:58,660
+secretly pulled Daken out of his coma, who then
+took back his rightful title of Majester from his
+
+203
+00:18:58,660 --> 00:19:04,580
+sister, Lalandra. Vulcan then killed Daken and
+claimed the Shiar throne by right of conquest,
+
+204
+00:19:04,580 --> 00:19:10,140
+marrying Deathbird and becoming the new charge of
+Gladiator and the Imperial Guard. Vulcan's reign
+
+205
+00:19:10,140 --> 00:19:15,840
+embroiled the Shiar in war against the Kree, and
+Gladiator eventually defied Vulcan by refusing
+
+206
+00:19:15,840 --> 00:19:21,920
+to execute Lalandra. However, he soon witnessed
+Darkhawk, a rogue member of an ancient sect of
+
+207
+00:19:21,920 --> 00:19:27,220
+Shiar assassins, kill Lalandra. An act you can
+learn more about in our Stargirl vs. Darkhawk dual
+
+208
+00:19:27,220 --> 00:19:32,900
+episode. When Vulcan was presumed dead in a battle
+against Black Bolt, Gladiator himself assumed
+
+209
+00:19:32,900 --> 00:19:39,480
+leadership of the Shiar to prevent civil war,
+becoming the Empire's new Majestor. As ruler,
+
+210
+00:19:39,480 --> 00:19:44,360
+Gladiator faced crises across the galaxy. He
+joined a team of cosmic heroes called the
+
+211
+00:19:44,360 --> 00:19:49,920
+Annihilators, alongside Silver Surfer, Beta Ray
+Bill, Quasar, and Ronin, defending against
+
+212
+00:19:49,920 --> 00:19:54,580
+threats like the Diarrates and the Magus. During
+the Phoenix's return to Earth, Gladiator
+
+213
+00:19:54,580 --> 00:19:59,660
+attempted to stop the Phoenix V and rescue his son,
+Kubar. Around that time, he recruited the first
+
+214
+00:19:59,660 --> 00:20:05,720
+human into the Imperial Guard's ranks, a woman
+named Isabel Kane, aka Spasher, who had
+
+215
+00:20:05,720 --> 00:20:11,820
+discovered special goggles called Exospex that
+she could use to download any ability of someone in
+
+216
+00:20:11,820 --> 00:20:16,380
+her view. Gladiator and the Shiar Empire fought
+alongside the Avengers and Guardians of the
+
+217
+00:20:16,380 --> 00:20:21,420
+Galaxy against cosmic threats like the
+Cancerverse and Thanos, but Gladiator grew sick
+
+218
+00:20:21,420 --> 00:20:26,340
+of his duties over time, wishing instead to return
+to his title of Praetor of the Imperial Guard.
+
+219
+00:20:26,340 --> 00:20:32,620
+Supporting his demotion was Deathbird, who saw
+Astrantian ruling the Shiar Empire as an insult.
+
+220
+00:20:32,620 --> 00:20:37,980
+Shiar rebels used genetic material from
+Lillandra's body and Professor X to create a child
+
+221
+00:20:37,980 --> 00:20:43,120
+named Zandra. When a society of artificial
+intelligence threatened the Shiar, Gladiator
+
+222
+00:20:43,120 --> 00:20:49,200
+abdicated his throne and installed Zandra as the
+new Magestrix, though he continued to advise and
+
+223
+00:20:49,200 --> 00:20:54,740
+protect the child. He also cooperated with
+Imminent Nation Krakowa, permitting a gateway to
+
+224
+00:20:54,740 --> 00:20:59,960
+be established between the island and Shandalar,
+the Shiar throne world. That's Gladiator's
+
+225
+00:20:59,960 --> 00:21:04,140
+backstory. Powers-wise, Gladiator has numerous
+abilities derived from a scientifically
+
+226
+00:21:04,140 --> 00:21:10,440
+enhanced strontian physiology. He is immensely
+strong, able to lift over 100 tons with ease, and is
+
+227
+00:21:10,440 --> 00:21:15,620
+virtually invulnerable to physical damage. He
+can move and fly at orbital speeds of thousands of
+
+228
+00:21:15,620 --> 00:21:21,120
+miles per hour and can emit beams of heat energy
+from his eyes that are as hot as the sun. Gladiator
+
+229
+00:21:21,120 --> 00:21:27,140
+can also expel powerful and freezing gusts of wind
+from his lungs and has enhanced senses of hearing
+
+230
+00:21:27,140 --> 00:21:32,620
+and sight. He has been trained in Shiar martial
+arts and military strategy since he was young. His
+
+231
+00:21:32,620 --> 00:21:37,840
+power level is dependent on his confidence, so
+elapsed and self-assurance in his actions will
+
+232
+00:21:37,840 --> 00:21:44,060
+weaken him. He's also susceptible to magic and
+nuclear radiation. That's Gladiator. You know,
+
+233
+00:21:44,060 --> 00:21:49,780
+Gladiator's origin wasn't as close to Superman's
+as I thought it would be, although his power set is
+
+234
+00:21:49,780 --> 00:21:55,800
+very much exactly like Superman's. Icon's origin
+is pretty close to Superman, I would say.
+
+235
+00:21:55,800 --> 00:22:00,660
+Interesting, okay. Yeah, I'm glad that we were
+able to get to a duel with Gladiator because the
+
+236
+00:22:00,660 --> 00:22:47,470
+history of the Imperial Guard really is the
+history Icon, let me get into his backstory.
+
+237
+00:22:47,470 --> 00:22:53,830
+Thousands of years ago, an alien negotiator from
+the planet Terminus named Arnis traveled the
+
+238
+00:22:53,830 --> 00:23:00,610
+stars aboard a life pod designed to terraform new
+worlds. When the pod malfunctioned, it crashed on
+
+239
+00:23:00,610 --> 00:23:07,290
+Earth in the year 1839 in the American South. As
+part of its survival protocol, the pod's
+
+240
+00:23:07,290 --> 00:23:13,670
+automorphic technology reconstructed Arnis'
+body into the form of the first sentient life it
+
+241
+00:23:13,670 --> 00:23:19,470
+encountered, a black woman named Miriam, who was
+enslaved on a cotton plantation. The
+
+242
+00:23:19,470 --> 00:23:25,790
+transformation not only altered his DNA, but also
+reset his cognition, turning him into a human
+
+243
+00:23:25,790 --> 00:23:31,410
+infant with no memory of his extraterrestrial
+identity. Miriam discovered the child near the
+
+244
+00:23:31,410 --> 00:23:36,750
+crash site and with no knowledge of his origin,
+raised him as her own within the enslaved
+
+245
+00:23:36,750 --> 00:23:43,110
+community, naming him Augustus. Growing up in
+bondage, Augustus experienced the brutal
+
+246
+00:23:43,110 --> 00:23:49,210
+realities of slavery first hand. As he matured,
+his intellect rapidly advanced beyond human
+
+247
+00:23:49,210 --> 00:23:55,830
+limits and with it came flashes of memory and
+gradual rediscovery of his true alien nature. He
+
+248
+00:23:55,830 --> 00:24:01,470
+eventually escaped enslavement, joined the
+Union Army during the Civil War, and used his
+
+249
+00:24:01,470 --> 00:24:07,630
+powers covertly to help sway key battles in favor
+of the North. In the decades that followed, he
+
+250
+00:24:07,630 --> 00:24:12,910
+continued to live under assumed identities,
+posing as successive descendants of Augustus
+
+251
+00:24:12,910 --> 00:24:19,990
+Freeman I while acquiring wealth, education, and
+influence. By the time of World War II, he once
+
+252
+00:24:19,990 --> 00:24:25,070
+again took part in pivotal moments of history,
+using his abilities discreetly to shape the
+
+253
+00:24:25,070 --> 00:24:30,510
+outcome of global events. By the late 20th
+century, Augustus Freeman IV lived as a
+
+254
+00:24:30,510 --> 00:24:36,270
+successful corporate attorney in Dakota City,
+having grown distant from humanity and resigned
+
+255
+00:24:36,270 --> 00:24:42,490
+to observing rather than intervening. His long
+life had convinced him that lasting societal
+
+256
+00:24:42,490 --> 00:24:48,530
+change was unlikely, a belief that was challenged
+when his home was broken into by a group of troubled
+
+257
+00:24:48,530 --> 00:24:54,710
+teenagers. Among them was Raquel Irvin, a young,
+idealistic writer from the impoverished Paris
+
+258
+00:24:54,710 --> 00:25:00,550
+Island neighborhood. After witnessing Augustus
+use his powers to subdue the intruders, Raquel
+
+259
+00:25:00,550 --> 00:25:05,790
+confronted him with the idea that he could be a
+real-life superhero, someone who could inspire
+
+260
+00:25:05,790 --> 00:25:11,830
+change and justice. Though reluctant at first,
+Augustus was persuaded by Raquel's conviction
+
+261
+00:25:11,830 --> 00:25:17,830
+and agreed to become a hero under the name Icon,
+with Raquel designing his costume and
+
+262
+00:25:17,830 --> 00:25:23,690
+accompanying him as his sidekick Rocket, who you
+can learn more about in our Rocket vs. Spider-Gwen
+
+263
+00:25:23,690 --> 00:25:30,990
+dual episode. As Icon, Augustus became a powerful
+symbol of hope and lawfulness in Dakota City. He
+
+264
+00:25:30,990 --> 00:25:35,450
+betrothed neighborhoods affected by crime and
+corruption, while Rocket helped balance his
+
+265
+00:25:35,450 --> 00:25:41,130
+rigid moral code with compassion and
+contemporary social awareness. While Icon often
+
+266
+00:25:41,130 --> 00:25:45,930
+approached problems through a conservative and
+lawful lens, Rocket challenged him to see
+
+267
+00:25:45,930 --> 00:25:51,070
+injustices embedded within the systems he sought
+to uphold. Their ideological debates
+
+268
+00:25:51,070 --> 00:25:56,750
+strengthened their bond, making them one of the
+most effective hero duos in the city. Their
+
+269
+00:25:56,750 --> 00:26:01,030
+presence soon brought them into contact and
+sometimes conflict with other super-powered
+
+270
+00:26:01,030 --> 00:26:06,190
+individuals. Rocket and Icon worked alongside
+the vigilantees' static and encountered the
+
+271
+00:26:06,190 --> 00:26:11,670
+inventor known as Hardware, another gifted
+genius with ties to corporate conspiracy. You can
+
+272
+00:26:11,670 --> 00:26:17,350
+learn more about static in our Static vs. Jubilee
+episode. Eventually, Icon joined other powered
+
+273
+00:26:17,350 --> 00:26:23,330
+individuals to form the Shadow Cabinet, a covert
+team assembled to safeguard global stability and
+
+274
+00:26:23,330 --> 00:26:28,210
+prevent superhuman threats from spiraling out of
+control. Though initially at odds with the
+
+275
+00:26:28,210 --> 00:26:33,570
+cabinet's secrecy and morally gray tactics, Icon
+agreed to join under the condition that their
+
+276
+00:26:33,570 --> 00:26:39,870
+mission remained focused on preserving peace and
+liberty. In the public eye, Icon was hailed as a new
+
+277
+00:26:39,870 --> 00:26:44,490
+protector for the marginalized. However, his
+presence also attracted the attention of alien
+
+278
+00:26:44,490 --> 00:26:49,890
+horses from his past. The terminating species had
+long believed him to be lost and his mission a
+
+279
+00:26:49,890 --> 00:26:55,510
+failure. When they detected his survival, they
+dispatched the powerful bounty hunter Oblivion
+
+280
+00:26:55,510 --> 00:27:01,310
+to retrieve or eliminate him. The confrontation
+devastated parts of Dakota City and threatened to
+
+281
+00:27:01,310 --> 00:27:06,550
+reveal Augustus' extraterrestrial origin to the
+world. With Rocket's help, Icon defeated
+
+282
+00:27:06,550 --> 00:27:13,010
+Oblivion and reaffirmed his commitment to Earth
+as his true home. As Rocket matured, she faced her
+
+283
+00:27:13,010 --> 00:27:17,310
+own challenges including an unexpected
+pregnancy that forced her to take time away from
+
+284
+00:27:17,310 --> 00:27:22,850
+crime fighting. Icon continued his mission alone
+for a time, during which she became more directly
+
+285
+00:27:22,850 --> 00:27:29,050
+involved in legal reform and rehabilitation of
+young offenders. Upon Rocket's return, the two
+
+286
+00:27:29,050 --> 00:27:34,470
+resumed their partnership. When a cosmic crisis
+threatened the multiverse, Icon was identified
+
+287
+00:27:34,470 --> 00:27:39,870
+as one of the most powerful beings in his reality
+and was drawn into conflicts that extended beyond
+
+288
+00:27:39,870 --> 00:27:44,930
+his dimension. He helped repel interdimensional
+threats and fought to protect the balance between
+
+289
+00:27:44,930 --> 00:27:50,950
+worlds. Though these battles exposed him to other
+versions of reality, he remained grounded in his
+
+290
+00:27:50,950 --> 00:27:56,810
+adopted identity and mission on his Earth.
+Following DC's Flashpoint event, reality was
+
+291
+00:27:56,810 --> 00:28:02,670
+rewritten and Dakota City's history was altered.
+In this new continuity, Augustus Freeman
+
+292
+00:28:02,670 --> 00:28:08,490
+remained an alien from Terminus who crash-landed
+on Earth in the 19th century. He maintained a low
+
+293
+00:28:08,490 --> 00:28:14,270
+profile, allowing human societies to develop
+independently while observing from a distance.
+
+294
+00:28:14,270 --> 00:28:19,690
+In the modern era, he continued to work as a lawyer
+in Dakota City, maintaining a private life and
+
+295
+00:28:19,690 --> 00:28:24,870
+avoiding engagement with the growing number of
+metahumans. The widespread event known as the Big
+
+296
+00:28:24,870 --> 00:28:30,390
+Bang changed that. During a violent clash between
+police and gang members on Paris Island, an
+
+297
+00:28:30,390 --> 00:28:36,130
+experimental mutagenic gas developed by all the
+industries detonated, killing many and mutating
+
+298
+00:28:36,130 --> 00:28:41,710
+others into super-powered beings. The
+survivors, known as Bang Babies, created a surge
+
+299
+00:28:41,710 --> 00:28:47,090
+in crime, chaos, and metahuman activity
+throughout Dakota City. Among the witnesses to
+
+300
+00:28:47,090 --> 00:28:51,990
+the event was Raquel Urban, whose home and
+community were directly affected. Seeking
+
+301
+00:28:51,990 --> 00:28:56,710
+justice and driven by hope, Raquel tracked down
+Augustus Freeman after hearing rumors about his
+
+302
+00:28:56,710 --> 00:29:01,210
+strength and longevity. Once again, she
+challenged him to become a symbol for those who
+
+303
+00:29:01,210 --> 00:29:07,510
+felt abandoned and powerless. Inspired by her
+resolve, Augustus adopted the icon identity Anu,
+
+304
+00:29:07,510 --> 00:29:12,230
+with Raquel becoming Rocket once more. Their
+partnership emerged as a stabilizing force
+
+305
+00:29:12,230 --> 00:29:17,310
+during the chaos of the Big Bang aftermath.
+Together, Icon and Rocket battled Bang Babies who
+
+306
+00:29:17,310 --> 00:29:22,130
+used their powers for violence, as well as corrupt
+political forces that sought to exploit the
+
+307
+00:29:22,130 --> 00:29:26,830
+crisis for their personal gain. Rocket became
+increasingly vocal about issues of social
+
+308
+00:29:26,830 --> 00:29:32,550
+inequality, helping Icon refine his approach to
+heroism. Their work led to the formation of new
+
+309
+00:29:32,550 --> 00:29:38,710
+alliances with local heroes, community leaders,
+and civil rights advocates. When the government
+
+310
+00:29:38,710 --> 00:29:44,190
+attempted to establish a paramilitary task force
+to control metahuman populations, Icon
+
+311
+00:29:44,190 --> 00:29:50,410
+resisted, warning against the misuse of power.
+His stand put him at odds with federal agencies and
+
+312
+00:29:50,410 --> 00:29:55,670
+even some of his fellow heroes, but he remained
+steadfast in his belief that individual liberty
+
+313
+00:29:55,670 --> 00:30:01,770
+and accountability were paramount. As threats
+escalated both in scale and complexity, Icon was
+
+314
+00:30:01,770 --> 00:30:07,330
+forced to confront remnants of his past. A rogue,
+terminan scientist attempted to weaponize
+
+315
+00:30:07,330 --> 00:30:12,960
+Earth's metahumans as part of a plan to terraform
+the planet or terminus colonization. But to help
+
+316
+00:30:12,960 --> 00:30:18,420
+of Rocket and other Dakota-based heroes, Icon
+dismantled the operation, reaffirming his
+
+317
+00:30:18,420 --> 00:30:24,180
+loyalty to Earth and the people he now considered
+his true kin. And that's Icon's history.
+
+318
+00:30:24,180 --> 00:30:30,240
+Powers-wise, Icon possesses vast superhuman
+abilities derived from his alien physiology as a
+
+319
+00:30:30,240 --> 00:30:35,100
+terminan. His strength allows him to lift immense
+weights, while his durability makes him
+
+320
+00:30:35,100 --> 00:30:40,900
+resilient to bullets, extreme temperatures,
+explosions, and even direct energy assaults. He
+
+321
+00:30:40,900 --> 00:30:46,500
+can fly at high velocities and is capable of
+interstellar travel. His longevity grants him
+
+322
+00:30:46,500 --> 00:30:53,360
+near immortality, having aged only marginally
+since his arrival on Earth over a century ago. He
+
+323
+00:30:53,360 --> 00:30:59,520
+also has enhanced senses and is a trained soldier
+having fought in multiple wars. He can manipulate
+
+324
+00:30:59,520 --> 00:31:05,060
+positronic energy for a variety of effects,
+including focused energy blasts from his hands
+
+325
+00:31:05,060 --> 00:31:11,500
+and eyes, or waves of energy from any part of his
+body. This energy also allows him to accelerate
+
+326
+00:31:11,500 --> 00:31:17,520
+his healing, generate force fields, and emit
+electromagnetic pulses, even capable of
+
+327
+00:31:17,520 --> 00:31:22,940
+disrupting electric signals in the human body. He
+has a genius level intellect and has accumulated
+
+328
+00:31:22,940 --> 00:31:28,660
+vast legal, historical, and scientific
+knowledge over his long life. His experience
+
+329
+00:31:28,660 --> 00:31:33,680
+across different cultural and historical eras
+also makes him a tactician and leader with deep
+
+330
+00:31:33,680 --> 00:31:40,840
+insight into the nature of humanity. OK, so Icon's
+backstory is a lot more similar to Superman's in
+
+331
+00:31:40,840 --> 00:31:46,580
+that he is like an alien who comes to Earth, but his
+power set is a lot different from Superman's, I
+
+332
+00:31:46,580 --> 00:31:50,700
+feel like. Yeah, yeah. I mean, he doesn't have like
+freeze breath or anything like that, but you know,
+
+333
+00:31:50,700 --> 00:31:55,920
+he still has the enhanced senses, still has the
+super strength and durability and can fly. Yeah,
+
+334
+00:31:55,920 --> 00:32:00,820
+gladiators powers mimic Superman's down to like
+even the weakness to radiation and the freeze
+
+335
+00:32:00,820 --> 00:32:08,080
+breath and everything like that. Oh, actually,
+Icon is weak to a specific unnamed alien mineral.
+
+336
+00:32:08,080 --> 00:32:12,720
+Oh, I know what that mineral is. OK, what is it? What
+do you like to know? I'll let you know during the
+
+337
+00:32:12,720 --> 00:32:24,940
+speculation, of course. In a world where
+fantasies collide and heroes clash, one podcast
+
+338
+00:32:24,940 --> 00:32:30,840
+network rises above the rest. Prepare yourself
+for the ultimate showdowns in comic books, video
+
+339
+00:32:30,840 --> 00:32:37,220
+games, movies, and anime. The Dynamite Podcast
+Network presents Console Combat, where video
+
+340
+00:32:37,220 --> 00:32:44,120
+game legends brawl every Monday, Dynamic Duo,
+where comic book titans smash every Tuesday, Max
+
+341
+00:32:44,120 --> 00:32:50,220
+Destruction, where TV and action heroes battle
+every Wednesday, and Sendro World, where anime
+
+342
+00:32:50,220 --> 00:32:56,080
+champions clash every Thursday. Join us as we
+speculate on the matches and armed with the power
+
+343
+00:32:56,080 --> 00:33:02,420
+of mathematical simulations discover who will
+emerge victorious. Visit dynamicpodcast.com
+
+344
+00:33:02,420 --> 00:33:10,660
+where we settle the debate and settle the score.
+Well, now that we've got their histories and
+
+345
+00:33:10,660 --> 00:33:15,800
+abilities out of the way, let's speculate on how
+one of the 1000 simulated matches will go. The
+
+346
+00:33:15,800 --> 00:33:21,060
+winner is determined by simulations, not the
+speculation, but it's fun to imagine how this
+
+347
+00:33:21,060 --> 00:33:27,460
+fight could play out. AJ9K, what are the rules of
+our speculation? Well, I should say there are no
+
+348
+00:33:27,460 --> 00:33:32,460
+rules other than the characters have no prior
+knowledge of the other going into the fight. All
+
+349
+00:33:32,460 --> 00:33:37,560
+they are aware of starting out is that the other
+character is a threat that needs to be eliminated.
+
+350
+00:33:37,560 --> 00:33:42,760
+For the speculation, the contestants will begin
+approximately 50 meters apart in a nondescript
+
+351
+00:33:42,760 --> 00:33:47,840
+environment that will have no bearing on the match
+itself, as no environmental statistics are
+
+352
+00:33:47,840 --> 00:33:53,020
+considered in my simulations. The contestants
+must earn victory on their own merit. All right,
+
+353
+00:33:53,020 --> 00:33:58,660
+then let's get into it. Icon and Gladiator meet on
+the battlefield. Who goes first? I think as
+
+354
+00:33:58,660 --> 00:34:03,300
+Praetor of the Imperial Guard, Gladiator is going
+to go first because he's more like battle hardened
+
+355
+00:34:03,300 --> 00:34:09,679
+than Icon, I think. So he's going to start off by
+blasting beams that are as hot as the sun from his
+
+356
+00:34:09,679 --> 00:34:16,260
+eyeballs that just melt through Icon skull. No,
+because Icon, he could just counter with his own I
+
+357
+00:34:16,260 --> 00:34:23,739
+beams of positronic energy. So those beams are
+going to collide and this ball of energy is going to
+
+358
+00:34:23,739 --> 00:34:29,620
+form in the middle and explode. That's going to
+send both characters careening from each other.
+
+359
+00:34:29,620 --> 00:34:37,239
+But Icon right after is going to charge Gladiator
+and just bombard him with waves of energy before
+
+360
+00:34:37,239 --> 00:34:42,040
+crashing directly into him. Well, if Icon is
+charging at Gladiator, Gladiator is going to
+
+361
+00:34:42,040 --> 00:34:47,960
+charge right back and he's going to pierce through
+whatever energy waves Icon is throwing at him,
+
+362
+00:34:47,960 --> 00:34:53,500
+piercing through them like a spear. And he just
+clashes with Icon head on. And the force of that
+
+363
+00:34:53,500 --> 00:34:58,020
+impact would probably like rupture a crater in the
+grounds beneath him, but the ground doesn't
+
+364
+00:34:58,020 --> 00:35:03,720
+matter anymore because I think Gladiator is just
+going to grapple Icon as they collide and then
+
+365
+00:35:03,720 --> 00:35:08,460
+shoot him into the sky into space and within just
+like seconds, just throw him into the heart of the
+
+366
+00:35:08,460 --> 00:35:14,700
+sun where Icon burns life. OK, but as they're
+traveling through space, Icon, you know, he'll
+
+367
+00:35:14,700 --> 00:35:20,560
+just free himself from Gladiator's grasp by
+walloping cam right in the jaw with a charged
+
+368
+00:35:20,560 --> 00:35:26,020
+energy fist that's going to send Gladiator flying
+through space, probably through a couple
+
+369
+00:35:26,020 --> 00:35:31,720
+asteroids, just smashing them into pebbles with
+the impact. With the vastness of space, I wonder
+
+370
+00:35:31,720 --> 00:35:39,040
+what the odds are the icon would smash Gladiator
+into asteroids. Gladiator flew that far.
+
+371
+00:35:39,040 --> 00:35:44,480
+Murphy's Law. Exactly. Well, Gladiator picks up
+one of these asteroids, probably like in the
+
+372
+00:35:44,480 --> 00:35:49,440
+asteroid belt or whatever. We'll say that this
+asteroid is like the size of Texas, right? Like the
+
+373
+00:35:49,440 --> 00:35:55,020
+movie Armageddon. And he grabs this asteroid and
+he's just full on brains icon with it, smashing it
+
+374
+00:35:55,020 --> 00:36:01,500
+over his head. OK, but we'll say that as Gladiator
+is swinging this giant sized asteroid, Icon is
+
+375
+00:36:01,500 --> 00:36:06,500
+going to blind him with a quick strobe of energy
+from his hands. And that's going to cause
+
+376
+00:36:06,500 --> 00:36:12,900
+Gladiator to completely miss this swing. And
+while he's off balance, Icon is going to grab
+
+377
+00:36:12,900 --> 00:36:19,580
+Gladiator by his mohawk and just smash his face
+right into the asteroid that he's holding. So hard
+
+378
+00:36:19,580 --> 00:36:24,140
+and so fast that it's going to crack the asteroid
+right in half. The whole asteroid, like the whole
+
+379
+00:36:24,140 --> 00:36:30,400
+state of Texas is going to crack in half. That whole
+asteroid has a crack. I feel like Gladiator would
+
+380
+00:36:30,400 --> 00:36:37,080
+have a headache from that kind of hit. So he's like
+dazed right from the strobe light and from the head
+
+381
+00:36:37,080 --> 00:36:42,760
+injury he just suffered. So he's going to spin like
+a whirlwind with his fists just straight out, just
+
+382
+00:36:42,760 --> 00:36:49,060
+knocking away anything that even comes close to
+him. And like a blur, he punches Icon like a million
+
+383
+00:36:49,060 --> 00:36:55,160
+and one times in the face. So now both characters
+have headaches. Except that Icon can heal
+
+384
+00:36:55,160 --> 00:37:02,380
+rapidly. So while Gladiator Gladiator can also
+heal rapidly. OK, fine. He's dizzy then. All
+
+385
+00:37:02,380 --> 00:37:08,100
+right. So when Gladiator stops spinning and he's
+like trying to recover, like, whoa, that's when
+
+386
+00:37:08,100 --> 00:37:13,800
+Icon is going to blast him with beams of concussive
+energy from his hands, targeting him right in the
+
+387
+00:37:13,800 --> 00:37:18,640
+balls and is showing any hope for potential future
+children. That's fine. Gladiator already has a
+
+388
+00:37:18,640 --> 00:37:24,140
+child. He probably has like dozens of kids. He's
+fine. What? Yeah, his name is Kid Gladiator,
+
+389
+00:37:24,140 --> 00:37:29,640
+actually. But either way, like Gladiator has
+super equilibrium. So he's not dizzy from
+
+390
+00:37:29,640 --> 00:37:35,020
+spinning in the same way that Superman wouldn't be
+dizzy from spinning. And in fact, Gladiator was
+
+391
+00:37:35,020 --> 00:37:40,660
+over being stunned after his spin attack. And he
+flies away faster than Icon can even raise his
+
+392
+00:37:40,660 --> 00:37:45,600
+hands to blast him. In fact, Gladiator flies
+behind Icon and freezes him with his freeze
+
+393
+00:37:45,600 --> 00:37:52,140
+breath. So Icon's frozen in the Gladiator, he
+makers him into like a thousand pieces that just
+
+394
+00:37:52,140 --> 00:37:58,240
+fly across the galaxy. Match over. Well,
+actually, Gladiator is going to haymaker a force
+
+395
+00:37:58,240 --> 00:38:05,400
+field of positronic energy set up by Icon. And then
+Icon's going to melt his ice casing by emitting
+
+396
+00:38:05,400 --> 00:38:11,860
+energy from his entire body surface, after which
+he immediately emits a pulse that's going to shut
+
+397
+00:38:11,860 --> 00:38:18,060
+down the electrical signals in Gladiator's body.
+So while he's paralyzed, Icon's going to grab his
+
+398
+00:38:18,060 --> 00:38:24,980
+head and just snap his neck, ending the match. What
+is he, Superman? OK, I guess Superman doesn't do
+
+399
+00:38:24,980 --> 00:38:29,600
+that stuff anymore, huh? Well, he's too punk rock
+for it. Only good. Wait, so Gladiator hit a
+
+400
+00:38:29,600 --> 00:38:35,400
+positronic force field instead of hitting the
+frozen icon. Yeah, right. Wrong. I'd be
+
+401
+00:38:35,400 --> 00:38:41,500
+positronic that that did not happen, because Icon
+was in fact frozen to absolute zero, so he couldn't
+
+402
+00:38:41,500 --> 00:38:45,460
+like do anything because he was frozen solid
+through and through. So he got smashed to bits
+
+403
+00:38:45,460 --> 00:38:52,020
+instead. I'll tell you what's absolute zero.
+Gladiator's chances of winning. You know what?
+
+404
+00:38:52,020 --> 00:38:56,460
+Let's find out. Let's go ahead and put the
+character stats, run the simulations and find out
+
+405
+00:38:56,460 --> 00:39:01,720
+which of these scenarios happens. Either
+Gladiator freezes Icon and then smashes him to a
+
+406
+00:39:01,720 --> 00:39:07,500
+thousand bits, or Icon protects himself with a
+force field, escapes being frozen, paralyzes
+
+407
+00:39:07,500 --> 00:39:12,460
+Gladiator and then snaps his neck. That's just way
+too many steps. Hey, it happened. I don't know what
+
+408
+00:39:12,460 --> 00:39:19,100
+to say. Let's run the simulations and come back
+with a winner. AJ9K hit it. Inputting data,
+
+409
+00:39:19,100 --> 00:39:24,260
+running calculations, processing results,
+simulations complete. All right, these
+
+410
+00:39:24,260 --> 00:39:29,500
+characters like Superman are very powerful,
+although they differed in the stats more than I
+
+411
+00:39:29,500 --> 00:39:33,480
+thought they would. Yeah, they kind of went
+through a pattern where they matched a stat and
+
+412
+00:39:33,480 --> 00:39:37,900
+then deferred in a stat. Then matched a stat, then
+deferred in a stat. Like they were the same speed,
+
+413
+00:39:37,900 --> 00:39:44,460
+durability, strength, perception, but they
+mismatched on evasiveness to Icon's force
+
+414
+00:39:44,460 --> 00:39:49,880
+fields. Fighting skill, we said Gladiator was a
+better fighter. Intellect, because we said Icon
+
+415
+00:39:49,880 --> 00:39:55,500
+was smarter and versatility because Icon was more
+versatile due to his energy based power set. We
+
+416
+00:39:55,500 --> 00:40:00,900
+also said that Gladiator was capable of more
+damage, which kind of surprised me. Only because
+
+417
+00:40:00,900 --> 00:40:07,180
+Icon really doesn't have the same feats that
+Gladiator has in terms of damage. Right.
+
+418
+00:40:07,180 --> 00:40:13,120
+Gladiator has been shown to like fly through
+Galactus's eye beams and punch planets in half,
+
+419
+00:40:13,120 --> 00:40:19,220
+which is ridiculous. Dude, even went up against
+Hyperion, which is Marvel's analog to Superman.
+
+420
+00:40:19,220 --> 00:40:24,720
+You know, their other analog to Superman and beat
+Hyperion. So what does that say about Icon's
+
+421
+00:40:24,720 --> 00:40:30,160
+chances? I mean, Icon apparently punched
+Superman harder than Darkseid ever has. Like
+
+422
+00:40:30,160 --> 00:40:34,320
+knocked him all the way out of the watch tower.
+That's not that hard, though, if you think about
+
+423
+00:40:34,320 --> 00:40:39,120
+it. OK. Considering all these stats, Jonathan,
+who you putting your money on? Why am I even asking
+
+424
+00:40:39,120 --> 00:40:44,520
+this question? It's a pointless question. We ask
+it every dual episode. My money is on Icon. I'm
+
+425
+00:40:44,520 --> 00:40:50,900
+betting on Black. A majority of our Instagram
+followers did not, however, 62 percent of them
+
+426
+00:40:50,900 --> 00:40:55,920
+voted in favor of Gladiator winning this. Well,
+apparently they're not heating Wesley Snipes
+
+427
+00:40:55,920 --> 00:41:01,480
+advice. And neither am I. I'm betting on red, which
+in this case is Gladiator because he wears red. But
+
+428
+00:41:01,480 --> 00:41:08,140
+either way, let's see which character won. A.G
+.9K, the results, please. Hey, you are, sir. All
+
+429
+00:41:08,140 --> 00:41:16,740
+right, the winner between Icon and Gladiator, the
+Praetor of the Imperial Guard, the Defender of the
+
+430
+00:41:16,740 --> 00:41:26,840
+Shiar Empire, the former Majestor, the most
+badass dude with the most rock and mohawk is Icon.
+
+431
+00:41:26,840 --> 00:41:37,940
+Yes. OK, all those titles that you just listed and
+Icon's bitch to that. No. What is happening out of
+
+432
+00:41:37,940 --> 00:41:46,980
+the 1000 matches? Icon won 581 as opposed to
+Gladiator who won 419. So Icon wins 58.1 percent of
+
+433
+00:41:46,980 --> 00:41:51,980
+the time. I don't know what is happening. I feel
+like I'm on a losing streak. I feel like the
+
+434
+00:41:51,980 --> 00:41:57,720
+executive producers have obviously conspired
+against me because they're the ones who chose this
+
+435
+00:41:57,720 --> 00:42:04,660
+matchup. And I think I need to call an emergency
+meeting with them. You know what happened, right?
+
+436
+00:42:04,660 --> 00:42:10,560
+Because you're on this losing streak, you've been
+demoralized and that's Gladiator's weakness. I
+
+437
+00:42:10,560 --> 00:42:16,020
+think you're right. Yeah, that makes sense.
+Marvel has lost like four in a row now, which is
+
+438
+00:42:16,020 --> 00:42:21,320
+affecting Gladiator's confidence, which in turn
+weakens him, which in turn made him lose this
+
+439
+00:42:21,320 --> 00:42:29,300
+match. That sucks. It's fine. It become even more
+demoralized. That's what I want. I swear, if this
+
+440
+00:42:29,300 --> 00:42:35,220
+fucking happens again, I am going to break into
+your house and then loosen all the lids on your salt
+
+441
+00:42:35,220 --> 00:42:40,840
+and pepper shakers. No. I couldn't think of
+anything else. We're going to get him next time,
+
+442
+00:42:40,840 --> 00:42:44,100
+Marvel guys. We're going to get him next time and
+then we're going to start our own streak starting
+
+443
+00:42:44,100 --> 00:43:21,300
+with our next episode. But that does it for this
+episode. Adrian A.K. Help close this out. That is
+
+444
+00:43:21,300 --> 00:43:26,420
+going to be BloodSport versus Killmonger. Of
+course, BloodSport was in the Suicide Squad
+
+445
+00:43:26,420 --> 00:43:32,540
+played by Idris angle. And Killmonger was in the
+Black Panther film played by Michael B Jordan.
+
+446
+00:43:32,540 --> 00:43:35,720
+Yeah, it should be a fun episode. I'm really,
+really excited for that one. Been looking forward
+
+447
+00:43:35,720 --> 00:43:39,440
+to that one for a long time. But that does it for this
+episode. We want to give a big thanks to our
+
+448
+00:43:39,440 --> 00:43:44,120
+executive producers, John Strausky, Zachary
+Hepburn, Dustin Balcom, Mickey Mathenguyen,
+
+449
+00:43:44,120 --> 00:43:49,400
+Nathaniel Wagner, Levi Yatn, Austin Wazalowski,
+AJ Duckerly, Nick Obanto, Scott Camacho, Gil
+
+450
+00:43:49,400 --> 00:43:55,520
+Camacho, Adam Spees, Dean Molesky, Devin Davis,
+Joseph Kirsting, Josh Leiner, Mike Williams, and
+
+451
+00:43:55,520 --> 00:44:01,000
+Paul Graves for helping make this podcast
+possible. We'll talk to you guys next week. Up, up
+
+452
+00:44:01,000 --> 
+and away! True believers. This matchup didn't
+have Russell Crowe at all. I want my money back.
