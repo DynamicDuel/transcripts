@@ -1,0 +1,2383 @@
+1
+00:00:00,000 --> 00:00:27,340
+This is a DynaMic Network Podcast. Hi, welcome to
+the Dynamic Duel Podcast, a weekly show where we
+
+2
+00:00:27,340 --> 00:00:31,840
+review superhero films and debate the
+superiority between Marvel and DC by comparing
+
+3
+00:00:31,840 --> 00:00:36,600
+their characters in stat-based battle
+simulations. I'm Marvelous Joe and I'm his twin
+
+4
+00:00:36,600 --> 00:00:42,000
+brother Johnny DC. And in this episode, we're
+going to find out who'd win in a fight between the
+
+5
+00:00:42,000 --> 00:00:50,160
+two trident-wielding badasses, Ocean Master,
+who's an Aquaman villain, and Hellstorm, who is a
+
+6
+00:00:50,160 --> 00:00:55,460
+sometimes lord of hell and then sometimes hero.
+It's a little bit strange. Yeah, actually
+
+7
+00:00:55,460 --> 00:01:00,240
+sometimes Ocean Master is somewhat heroic, you
+know, when he's acting for the benefit of
+
+8
+00:01:00,240 --> 00:01:05,000
+Atlantis. Yeah, I don't know if I would call them
+anti-heroes. I guess at one point Hellstorm was an
+
+9
+00:01:05,000 --> 00:01:11,200
+anti-hero, but I think I would consider them more
+anti-villains, if that's even a term. If not, I
+
+10
+00:01:11,200 --> 00:01:15,660
+just coined it. I want a quarter every time
+somebody says it. So now no one's gonna say it.
+
+11
+00:01:15,660 --> 00:01:19,920
+Either way, we're gonna find out who's gonna win in
+this matchup later on this episode. Before we do
+
+12
+00:01:19,920 --> 00:01:23,860
+that, we're gonna break down the latest comic book
+movie news from this past week, of which there was
+
+13
+00:01:23,860 --> 00:01:28,920
+no news, so I take back what I just said. But as
+always, we list our segment times in our episode
+
+14
+00:01:28,920 --> 00:01:32,860
+description, so feel free to check out the show
+notes if you want to skip ahead to our particular
+
+15
+00:01:32,860 --> 00:01:38,320
+topic. Our artificially intelligent dual
+simulator, AJ9K, is a quick message for our
+
+16
+00:01:38,320 --> 00:01:45,280
+listeners, so listen up. Why hello there. Do you
+want even more from this podcast? Then become a
+
+17
+00:01:45,280 --> 00:01:50,180
+part of the dynamic dual community on Patreon,
+where you can choose from three tiers. The dynamic
+
+18
+00:01:50,180 --> 00:01:55,400
+2.0 tier gives you access to our Discord chat
+server. The Fantastic 4 tier gives you two bonus
+
+19
+00:01:55,400 --> 00:02:01,080
+episodes each month, and the X-Force tier makes
+you an executive producer of this show. Lastly,
+
+20
+00:02:01,080 --> 00:02:05,480
+the Dynomike podcast network tier lets you create
+your own podcast using this Monte Carlo
+
+21
+00:02:05,480 --> 00:02:09,919
+simulator. Johnny and Joe will help you develop
+your show, provide graphic support and
+
+22
+00:02:09,919 --> 00:02:14,900
+consultation, and get you simulation results.
+Pitch the twins your ideas via email at
+
+23
+00:02:14,900 --> 00:02:26,640
+dynamicdualpodcast.com. Thanks AJ9K, and
+thanks to everyone who supports the podcast.
+
+24
+00:02:26,640 --> 00:02:30,700
+Guys, be sure to tune into the other shows and the
+Dynomike podcast network this week, including
+
+25
+00:02:30,700 --> 00:02:35,720
+the console combat podcast, where hosts John and
+Dean simulate battles between popular video game
+
+26
+00:02:35,720 --> 00:02:41,460
+characters. In yesterday's episode, they
+reviewed the 2005 film, Doom. Over on the Max
+
+27
+00:02:41,460 --> 00:02:46,000
+Destruction podcast, hosts Scotty and Gilly,
+pick your favorite action heroes from film and
+
+28
+00:02:46,000 --> 00:02:51,040
+television against each other. On Wednesday,
+they're going to find out who would win between Sam
+
+29
+00:02:51,040 --> 00:02:57,020
+Wilson's Captain America and Peacemaker. And on
+the Senjo World podcast, hosts Zachary Hepburn
+
+30
+00:02:57,020 --> 00:03:02,280
+speculates on fights between fan favorite anime
+and manga characters. In his next episode, Zach is
+
+31
+00:03:02,280 --> 00:03:07,460
+revealing who would win between Whitebeard and
+Kanpachi, both from One Piece. Visit
+
+32
+00:03:07,460 --> 00:03:13,280
+dynamicpodcasts.com or click the link in our show
+notes to listen to all of the shows in the Dynomike
+
+33
+00:03:13,280 --> 00:03:20,940
+podcast network. But with that out of the way,
+quick to the no prize. A no prize is an award that
+
+34
+00:03:20,940 --> 00:03:26,780
+Marvel used to give out to fans. Our version, the
+Dynamic Dual No Prize, is a digital award we post on
+
+35
+00:03:26,780 --> 00:03:32,420
+Instagram for the person that we feel gave the best
+answer to our question of the week. Last week we
+
+36
+00:03:32,420 --> 00:03:37,340
+asked you guys, besides Batman, Spider-Man, and
+Wolverine, which Marvel or DC character do you
+
+37
+00:03:37,340 --> 00:03:42,240
+most want to play as in a single player adventure
+video game? And this was coming off of the trailer
+
+38
+00:03:42,240 --> 00:03:47,220
+that we received for the upcoming Marvel's
+Wolverine action adventure game that's coming
+
+39
+00:03:47,220 --> 00:03:51,840
+out for the PS5 next year. We got a whole lot of
+answers for this one, so let's go ahead and run down
+
+40
+00:03:51,840 --> 00:03:56,700
+our three honorable mentions as well as the no
+prize winner. Our first honorable mention goes to
+
+41
+00:03:56,700 --> 00:04:04,460
+Kyo, who said, Hi guys, I was watching a CW flash
+show the other day, and I was thinking how cool a
+
+42
+00:04:04,460 --> 00:04:11,240
+flash video game would be. Like the map traversal
+would be pretty cool since it has super speed, and
+
+43
+00:04:11,240 --> 00:04:17,800
+then maybe the combat could have some moves like
+the fear multi-takedown from the Batman Arkham
+
+44
+00:04:17,800 --> 00:04:23,760
+Knight game. But yeah, that's my answer. Also, why
+are you going to review your friendly
+
+45
+00:04:23,760 --> 00:04:28,540
+neighborhood Spider-Man? We're not. We have too
+many duels to get through before the end of the
+
+46
+00:04:28,540 --> 00:04:34,720
+show. But as far as a flash video game goes, I
+imagine that the entire game would almost have to
+
+47
+00:04:34,720 --> 00:04:40,660
+be in bullet time, like slow motion, right, for it
+to make sense. Maybe, so there was a
+
+48
+00:04:40,660 --> 00:04:47,100
+side-scrolling flash video game for the Game Boy
+Advance. It was a Justice League Heroes tie-in,
+
+49
+00:04:47,100 --> 00:04:52,400
+but specifically for the character of the flash. I
+don't know if you could do a flash game in 3D, but I
+
+50
+00:04:52,400 --> 00:04:56,940
+think if you made one that was like Sonic the
+Hedgehog, just really fast-paced, you would
+
+51
+00:04:56,940 --> 00:05:00,860
+definitely need some homing attacks just because
+I feel like with his speed, it would be really easy
+
+52
+00:05:00,860 --> 00:05:05,620
+to lose control of the character. But it could be
+really cool. Yeah, I mean like Sonic has homing
+
+53
+00:05:05,620 --> 00:05:11,780
+attacks, so yeah, true. That would be badass. The
+flash came in the style of Sonic the Hedgehog. Hell
+
+54
+00:05:11,780 --> 00:05:17,860
+yeah. Great answer, Kyle. Our next honorable
+mention goes to Travis Herndon, who said, What's
+
+55
+00:05:17,860 --> 00:05:22,520
+up, the name of the dude is Travis here. Shout out to
+my evil twin. So my pick would be Ghost Rider. I
+
+56
+00:05:22,520 --> 00:05:28,980
+mean, come on, Ghost Rider is a cool superhero. He
+has a badass rogues gallery that can easily fit
+
+57
+00:05:28,980 --> 00:05:35,300
+into a game. And then you can either choose between
+Johnny Blaze, Danny Ketch, Robbie Reyes, and just
+
+58
+00:05:35,300 --> 00:05:40,640
+go around fighting demons on a motorcycle or a
+demonic charger. I mean, come on, that speaks for
+
+59
+00:05:40,640 --> 00:05:45,860
+itself. So yeah, my pick would be Ghost Rider. Hell
+yeah, bro. You see what I did right there? Hell
+
+60
+00:05:45,860 --> 00:05:51,900
+yeah. That would be a great video game. I would love
+a Ghost Rider game to be in the action-adventure
+
+61
+00:05:51,900 --> 00:05:56,440
+style video game. Kind of like Spider-Man and the
+upcoming Wolverine game, but also have like
+
+62
+00:05:56,440 --> 00:06:02,960
+almost racing levels. I guess it wouldn't quite be
+racing. It would be more like motorcycle combat,
+
+63
+00:06:02,960 --> 00:06:07,660
+which I think you could develop a really cool
+fighting system based off of like high speed chase
+
+64
+00:06:07,660 --> 00:06:12,540
+fighting. I would love a game like that. Like some
+adventures would be maybe in the desert, some
+
+65
+00:06:12,540 --> 00:06:18,220
+would be in the city, someone maybe even be in hell
+and like hell landscapes where like you like ramp
+
+66
+00:06:18,220 --> 00:06:25,400
+off of things and jump over lakes of fire and do
+loop-to-loops or shit. I don't think it would look
+
+67
+00:06:25,400 --> 00:06:30,000
+really cool in a video game. I mean, you kind of sold
+me on the racing aspect. I think that'd be really
+
+68
+00:06:30,000 --> 00:06:37,060
+cool. Great answer, Travis. Our next honorable
+mention goes to Frank, who said? Hey guys, a type of
+
+69
+00:06:37,060 --> 00:06:43,800
+video game I would like to see is a blade video game.
+It's the obvious answer. You either go in with the
+
+70
+00:06:43,800 --> 00:06:50,460
+bad assery and get a hack and slash like Devil May
+Cry, or you focus on the vampire horror and make it
+
+71
+00:06:50,460 --> 00:06:58,120
+like Resident Evil. It's just the obvious answer.
+Absolutely. I think blade would be made for the
+
+72
+00:06:58,120 --> 00:07:04,020
+hack and slash genre. Very similar to Devil May
+Cry. Just put it in a whole horde of vampires and
+
+73
+00:07:04,020 --> 00:07:09,580
+then just like Dynasty Warriors that shit, right?
+That would be such a cool game. That would be
+
+74
+00:07:09,580 --> 00:07:15,600
+awesome. There was like a blade to video game that I
+remember owning for the PS2 way back in the day in
+
+75
+00:07:15,600 --> 00:07:21,180
+the early aughts. It was so bad, but most movie
+adaptations around that time were also bad,
+
+76
+00:07:21,180 --> 00:07:28,800
+except for Spider-Man 2. That was a great video
+game. I think blade is rife for a new video game
+
+77
+00:07:28,800 --> 00:07:33,960
+undertaking in the single-player
+action-adventure hack and slash genre. Dude, so
+
+78
+00:07:33,960 --> 00:07:40,220
+many video game characters are ripe for a video
+game adaptation. If it's true what they say that,
+
+79
+00:07:40,220 --> 00:07:45,340
+you know, they're superhero movie fatigue, I hope
+there's not superhero video game fatigue. And
+
+80
+00:07:45,340 --> 00:07:50,940
+that just continues to get better and better. Like
+DC Studios is a division dedicated just to movies.
+
+81
+00:07:50,940 --> 00:07:57,720
+They need a DC division dedicated just to video
+games. Well, Marvel has a Marvel Games division
+
+82
+00:07:57,720 --> 00:08:04,520
+because we have our shit together. Okay, look at
+you. Hey, hi. Bragging piece of shit. Great
+
+83
+00:08:04,520 --> 00:08:09,040
+answer, Frank. We want to give a quick shout out to
+Sheldon Moore and Lorenzo Valdes for taking the
+
+84
+00:08:09,040 --> 00:08:14,060
+time to call in with your answer. But the winner of
+this week's snow prize is actually split between
+
+85
+00:08:14,060 --> 00:08:20,540
+two people, Alex Albro and Ryzeal, who gave the
+same answer. And that is... Hey guys, I think Green
+
+86
+00:08:20,540 --> 00:08:24,040
+Lantern has a really good argument for a video
+game. Starting on Earth, inevitably you get the
+
+87
+00:08:24,040 --> 00:08:28,440
+ring and then you leave Earth patrolling all the
+sectors of the universe. And as you interact with
+
+88
+00:08:28,440 --> 00:08:32,720
+different Green Lanterns and different Lanterns
+of different color spectrums, and as you defeat
+
+89
+00:08:32,720 --> 00:08:37,919
+more villains, you gain more abilities, more
+power, I think each sector could have a different
+
+90
+00:08:37,919 --> 00:08:42,360
+style of gameplay and a different villain,
+different power ups. And it's not necessarily
+
+91
+00:08:42,360 --> 00:08:48,160
+endless, but it has a lot of meat on the bone for a
+good campaign. Thanks guys. Hey guys, Ryzeal
+
+92
+00:08:48,160 --> 00:08:53,740
+here. I'm thinking an RPG action game where like a
+normal game would have mana, you have to pay
+
+93
+00:08:53,740 --> 00:08:58,000
+attention to do this one is battery level instead.
+You make your constructs with templates
+
+94
+00:08:58,000 --> 00:09:03,040
+beforehand where you can make whatever you want.
+But the more pieces you use, like Lego style, the
+
+95
+00:09:03,040 --> 00:09:07,100
+more battery it's going to use while you're out on
+actual mission. Once the, you know, you run out of
+
+96
+00:09:07,100 --> 00:09:12,960
+battery, you just go back and have to start over or
+you fail that one. Or you have to take time to save
+
+97
+00:09:12,960 --> 00:09:17,140
+the oath, which is really long, and you're
+probably going to get your ass kicked as you're
+
+98
+00:09:17,140 --> 00:09:23,000
+doing it. We got to run home and grab your battery
+first, and then say the oath. Oh yeah. Both these
+
+99
+00:09:23,000 --> 00:09:28,600
+guys gave great ideas for both the story and
+mechanics of a Green Lantern action adventure
+
+100
+00:09:28,600 --> 00:09:35,100
+video game. I really love how Alex focused on how
+like you unlock new moves as you go along and meet
+
+101
+00:09:35,100 --> 00:09:39,400
+different lanterns among the different
+spectrums. And then Ryzeal came in with the whole
+
+102
+00:09:39,400 --> 00:09:45,060
+construct building mechanic. I think both of
+those are brilliant. I think Warner Brothers is
+
+103
+00:09:45,060 --> 00:09:50,400
+fucking stupid for not having made this game
+already because it literally sounds like money
+
+104
+00:09:50,400 --> 00:09:55,460
+waiting on the table. Yeah, talk about an open
+world game. How about an open universe game where
+
+105
+00:09:55,460 --> 00:10:01,340
+you could go to different planets? That's wild.
+Like you think about like the build system in games
+
+106
+00:10:01,340 --> 00:10:06,820
+like Fortnite or even probably more apt Breath of
+the Wild and the recent tears of the kingdom for
+
+107
+00:10:06,820 --> 00:10:12,220
+Legend of Zelda. How you could basically build all
+these creative things. Do that for Green Lantern.
+
+108
+00:10:12,220 --> 00:10:15,940
+That's his whole concept. Yeah, and you can make
+the planet small. It's like you don't even need to
+
+109
+00:10:15,940 --> 00:10:20,860
+include Earth in a video game like this. Just
+include a whole bunch of small planets. Right,
+
+110
+00:10:20,860 --> 00:10:26,360
+yeah. So throwing a little bit of like loose
+gravity, like Super Mario Galaxy. I mean, it's
+
+111
+00:10:26,360 --> 00:10:30,280
+just a fantastic game idea. You know, it was a
+really cool DC game that they actually could have
+
+112
+00:10:30,280 --> 00:10:35,340
+made into solely a Green Lantern game?
+Scribbleknot's Unmasked. And in that game, you
+
+113
+00:10:35,340 --> 00:10:40,280
+can create anything just by typing in a prompt. Oh,
+well, it doesn't make for the most fast paced
+
+114
+00:10:40,280 --> 00:10:45,260
+gameplay, but it's an opportunity to be really
+creative and solve challenges with your
+
+115
+00:10:45,260 --> 00:10:50,020
+creativity. I'm there for it. Yeah, you just
+introduced the idea of puzzle elements within
+
+116
+00:10:50,020 --> 00:10:55,180
+this game. There's just so much there with the
+Green Lantern video game. It's ripe. It's there
+
+117
+00:10:55,180 --> 00:11:02,100
+for the picking DC. Take it. It would be way better
+than anything Marvel could do. No, no, I don't
+
+118
+00:11:02,100 --> 00:11:07,540
+think so. That's not right. Sorry, but it's true.
+Great answer either way, Alex and Ryzeal. You guys
+
+119
+00:11:07,540 --> 00:11:12,200
+win this week's Snow Prize. If you the listener
+want to shout at winning your own No Prize, stay
+
+120
+00:11:12,200 --> 00:11:16,840
+tuned until later on in this episode when we'll be
+asking another question of the week. And now that
+
+121
+00:11:16,840 --> 00:11:26,620
+that's done onto the question of the week. For the
+Halloween season coming up here, what do you think
+
+122
+00:11:26,620 --> 00:11:33,740
+has been the scariest moment in a Marvel or DC film
+or TV series? We're talking about the moments that
+
+123
+00:11:33,740 --> 00:11:38,780
+made you shit your pants or jump out of your seat or
+jump out of your seat because you shit your pants.
+
+124
+00:11:38,780 --> 00:11:43,340
+We want to hear about it. I mean, not you shitting
+your pants, but about the moment. Go ahead and
+
+125
+00:11:43,340 --> 00:11:47,020
+record your answer at dynamicduel.com by
+clicking on the red microphone button in the
+
+126
+00:11:47,020 --> 00:11:51,060
+bottom right hand corner of the screen, which will
+prompt you to leave us a voicemail. Your message
+
+127
+00:11:51,060 --> 00:11:54,760
+could be up to 30 seconds long and don't forget to
+leave your name in case we include you on the
+
+128
+00:11:54,760 --> 00:11:59,700
+podcast. We'll make our favorite answer and award
+that person a Dynamic Duel No Prize that will post
+
+129
+00:11:59,700 --> 00:12:11,620
+to Instagram. Be sure to answer before October
+11th. But I think we'll go ahead and get into the
+
+130
+00:12:11,620 --> 00:12:16,260
+main event for this episode now, where we find out
+who would win in a fight between the Aquaman
+
+131
+00:12:16,260 --> 00:12:37,000
+villain, Ocean Master, and one of the Lords of Hell
+for Marvel, Hellstorm. All right, Ocean Master
+
+132
+00:12:37,000 --> 00:12:42,920
+versus Hellstorm. Now, the reason we decided to do
+this matchup was one due to the executive
+
+133
+00:12:42,920 --> 00:12:48,000
+producers who thought this might make for a good
+Halloween duel, considering Hellstorm is one of
+
+134
+00:12:48,000 --> 00:12:53,740
+the Lords of Hell in Marvel. And, you know, Ocean
+Master, he's not like scary in a Halloween sense,
+
+135
+00:12:53,740 --> 00:12:59,060
+but he is a villain. So there's that whole dark,
+evil aspect going there. So yeah, I think this is a
+
+136
+00:12:59,060 --> 00:13:03,300
+good Halloween episode. Yeah, both of the
+characters are like the sorcerers who carry
+
+137
+00:13:03,300 --> 00:13:08,440
+tridents, essentially. Plus, you got the whole
+water versus fire dynamic going on. It's pretty
+
+138
+00:13:08,440 --> 00:13:13,120
+cool, I think. I was excited when I heard this
+matchup come up. Yeah, same. Both of these
+
+139
+00:13:13,120 --> 00:13:17,920
+characters have had live action, film, and
+television appearances. Hellstorm actually had
+
+140
+00:13:17,920 --> 00:13:23,060
+his own series on Hulu called Hellstrom. Now, they
+kind of played it out very differently than it is in
+
+141
+00:13:23,060 --> 00:13:27,980
+the comics. They really focused on his
+supernatural detective era from the comic books.
+
+142
+00:13:27,980 --> 00:13:33,460
+But Ocean Master was pretty accurately depicted
+in the Aquaman films, I feel, by Patrick Wilson.
+
+143
+00:13:33,460 --> 00:13:38,000
+Yeah, I would say they did a really good job
+adapting Orm, for sure. But before we get into the
+
+144
+00:13:38,000 --> 00:13:43,280
+match to explain the methodology behind our
+duels, let's go to our sentient duel simulator,
+
+145
+00:13:43,280 --> 00:13:49,420
+Alfred Jarvis 9000. AJ9K, tell our listeners how
+you go about determining a winner in our duel
+
+146
+00:13:49,420 --> 00:13:55,000
+matchups. Yes, of course, sir. The way I determine
+a winner between the contestants is by running
+
+147
+00:13:55,000 --> 00:14:00,280
+1000 Monte Carlo simulations using the
+characters statistics. A Monte Carlo simulation
+
+148
+00:14:00,280 --> 00:14:05,700
+is a probabilistic model used to determine
+outcomes through random sampling. In this case, I
+
+149
+00:14:05,700 --> 00:14:09,860
+randomize the statistics along a normal
+distribution as a way to simulate the many
+
+150
+00:14:09,860 --> 00:14:14,800
+variables that can occur during battle. The stat
+parameters are based on the official Marvel power
+
+151
+00:14:14,800 --> 00:14:23,800
+grid from which the DC characters statistics are
+extrapolated. Additional versatility and
+
+152
+00:14:23,800 --> 00:14:29,260
+perception in order to create a more detailed and
+accurate simulation. The results of the 1000
+
+153
+00:14:29,260 --> 00:14:33,820
+simulations provide a percentage of wins for each
+character. The contestant with the higher
+
+154
+00:14:33,820 --> 00:14:39,360
+percentage is declared the victor as they have a
+higher probability to win any given battle. In an
+
+155
+00:14:39,360 --> 00:14:44,780
+equitable pairing, neither character should win
+100% of the matches. The comic book stories have
+
+156
+00:14:44,780 --> 00:14:49,640
+shown that there's even a way for Batman to defeat
+Superman. So the confidence rate of my method
+
+157
+00:14:49,640 --> 00:14:53,700
+falls in line with the precedents that have been
+established in the source material. My
+
+158
+00:14:53,700 --> 00:14:58,160
+mathematical simulations are without
+subjectivity or bias. Feats are not the sole
+
+159
+00:14:58,160 --> 00:15:04,720
+consideration, nor are fan votes tabulated for
+determination of the winner. Thanks, AJ9K.
+
+160
+00:15:04,720 --> 00:15:08,000
+Before we run the simulations, though, we'd like
+to break down each of the characters' histories
+
+161
+00:15:08,000 --> 00:15:13,020
+and abilities before improvising a scenario on
+how we imagine one of the 1000 simulations would
+
+162
+00:15:13,020 --> 00:15:18,720
+play out beat for beat. And it's my turn to go first
+with the DC characters backstory, so let me tell
+
+163
+00:15:18,720 --> 00:15:25,900
+you all about Ocean Master. Orm Marius was born to
+the Atlantean Wizard King, King Atlan, and an
+
+164
+00:15:25,900 --> 00:15:31,760
+Inupia woman from the Arctic Circle. Though
+Atlantean, Orm was raised far from the undersea
+
+165
+00:15:31,760 --> 00:15:36,600
+realm among the icy northern tribes of his
+mother's people, he grew up restless and
+
+166
+00:15:36,600 --> 00:15:43,160
+alienated, a misfit in a world of tradition. His
+mother often spoke of the sea and of the father who
+
+167
+00:15:43,160 --> 00:15:47,780
+had vanished beneath it, filling Orm's
+imagination with dreams of a forgotten kingdom
+
+168
+00:15:47,780 --> 00:15:53,760
+that he believed was his birthright. When a young
+Arthur Curry rescued Orm's cousin Kako from a
+
+169
+00:15:53,760 --> 00:16:00,180
+polar bear attack, the outcast Inupia saw in the
+blonde stranger everything he lacked, strength,
+
+170
+00:16:00,180 --> 00:16:05,840
+charisma, and acceptance. Orm watched his people
+embrace Arthur with warmth they had never shown
+
+171
+00:16:05,840 --> 00:16:11,940
+him. Jealousy festered until, in a moment of rage,
+he attacked Kako after learning she had grown
+
+172
+00:16:11,940 --> 00:16:17,680
+close to the outsider. Though she survived, her
+memory of the assault was lost, and Arthur was
+
+173
+00:16:17,680 --> 00:16:23,500
+blamed and cast out for bringing a curse upon the
+village. Orm's hatred deepened, and when
+
+174
+00:16:23,500 --> 00:16:28,860
+Whispers of Atlantis reached him through magic
+and legend, he abandoned the surface to find the
+
+175
+00:16:28,860 --> 00:16:35,400
+kingdom of his bloodline. He re-emerged years
+later as Ocean Master, a pirate sorcerer wielding
+
+176
+00:16:35,400 --> 00:16:41,000
+the dark gifts inherited from his father's
+lineage. Neither he nor Arthur yet knew they were
+
+177
+00:16:41,000 --> 00:16:47,640
+bound by Atlan's prophecy that his sons would one
+day battle for dominion over the seas. You can
+
+178
+00:16:47,640 --> 00:16:53,060
+learn more about Arthur in our Aquaman vs
+Submariner dual episode. Ocean Master's rise
+
+179
+00:16:53,060 --> 00:16:58,860
+began with fleets of submersibles and legions of
+mercenaries who plundered the oceans, attacking
+
+180
+00:16:58,860 --> 00:17:04,260
+ships in coastal cities in his quest to force the
+world to acknowledge his supremacy. His growing
+
+181
+00:17:04,260 --> 00:17:09,339
+collection of Atlantean relics and increasing
+mastery of ancient sorcery grew with each
+
+182
+00:17:09,339 --> 00:17:15,460
+conquest, making him a formidable foe even to
+Aquaman. Their first clashes revealed uncanny
+
+183
+00:17:15,460 --> 00:17:20,319
+similarities between them, strength,
+willpower, and the same innate connection to the
+
+184
+00:17:20,319 --> 00:17:25,500
+sea. Though neither man understood their bond at
+first, Arthur later uncovered the truth
+
+185
+00:17:25,500 --> 00:17:32,060
+throughout Atlantean records and realized that
+Orm was his half-brother, the second son of Atlan.
+
+186
+00:17:32,060 --> 00:17:37,720
+Driven by envy and destiny, Orm became obsessed
+with claiming the throne of Atlantis. To augment
+
+187
+00:17:37,720 --> 00:17:43,980
+his power, he sought forbidden sources of magic
+and made a pact with the demon lord Neron, selling
+
+188
+00:17:43,980 --> 00:17:49,600
+his soul for an enchanted trident. The weapon
+magnified his control over the elements,
+
+189
+00:17:49,600 --> 00:17:54,800
+allowing him to summon lightning and tempests,
+but accursed him with unending pain whenever he
+
+190
+00:17:54,800 --> 00:18:00,840
+was separated from it, scarring his face and
+warping his mind. With his new power, Orm
+
+191
+00:18:00,840 --> 00:18:06,260
+conquered the Dreaming City, an Atlantean
+offshoot civilization and enslaved its
+
+192
+00:18:06,260 --> 00:18:11,680
+citizens. Aquaman confronted Orm, revealing
+their shared parentage, but the revelation
+
+193
+00:18:11,680 --> 00:18:17,360
+shattered Orm's sanity. The trident's magic
+burned through him, leaving him disfigured and
+
+194
+00:18:17,360 --> 00:18:23,300
+broken. In time, Orm recovered, turning his
+intellect and sorcery toward manipulation and
+
+195
+00:18:23,300 --> 00:18:28,500
+conquest from the shadows. He joined Lux Luthor's
+and Justice Gang and later the Seeker Society of
+
+196
+00:18:28,500 --> 00:18:33,040
+Super-Villains, forming alliances with other
+enemies of the Justice League to extend his
+
+197
+00:18:33,040 --> 00:18:37,860
+influence beyond the seas. When Atlantis
+suffered devastation from the wrath of the
+
+198
+00:18:37,860 --> 00:18:44,060
+Spectre, Orm enslaved the survivors, forcing
+them to mine resources for his undersea empire.
+
+199
+00:18:44,060 --> 00:18:49,220
+His rule was merciless, his ambition
+unrelenting, and his hatred for Aquaman only
+
+200
+00:18:49,220 --> 00:18:54,900
+deepened as the world continued to favor his
+brother as its champion. Ocean Master's sorcery
+
+201
+00:18:54,900 --> 00:19:00,340
+reached its peak when he used a spell focused
+through the bones of Aquaman's lost hand to
+
+202
+00:19:00,340 --> 00:19:07,300
+rewrite reality itself, exchanging identities
+with his brother. In this false world, Orm ruled
+
+203
+00:19:07,300 --> 00:19:13,520
+Atlantis as its beloved king while Arthur, cursed
+with Ocean Master's memories, was hunted as a
+
+204
+00:19:13,520 --> 00:19:18,880
+villain. For a time, Orm reveled in the adoration
+and power he believed he deserved, yet the
+
+205
+00:19:18,880 --> 00:19:25,200
+illusion unraveled when Dr. Geist, a human
+scientist known to Orm, revealed the deception.
+
+206
+00:19:25,200 --> 00:19:30,580
+Aquaman destroyed the spell's anchor, restoring
+reality and leaving Orm once more stripped of the
+
+207
+00:19:30,580 --> 00:19:36,300
+throne he coveted. Orm later resurfaced within
+the ranks of the Seeker Society's inner circle and
+
+208
+00:19:36,300 --> 00:19:42,820
+clashed repeatedly with both the Justice League
+and his half-brother. As the age of magic shifted,
+
+209
+00:19:42,820 --> 00:19:49,360
+Orm enslaved what remained of Atlantis' people
+again, orging a brutal new kingdom in the ruins.
+
+210
+00:19:49,360 --> 00:19:55,520
+When the magic wars consumed the oceanic world,
+Orm was thought dead, but he survived, retreating
+
+211
+00:19:55,520 --> 00:20:00,800
+into the shadows to await another opportunity to
+reclaim what he believed was his destiny. In
+
+212
+00:20:00,800 --> 00:20:07,040
+post-Flashpoint continuity, Orm was born the son
+of Queen Atlanta and the Atlantean warlord Orvex
+
+213
+00:20:07,040 --> 00:20:13,020
+Marius, raised as a prince in the royal palace and
+unaware that his mother had once born another son
+
+214
+00:20:13,020 --> 00:20:18,600
+with his service man Tom Curry. When he learned
+that Arthur Curry, the so-called Aquaman, was his
+
+215
+00:20:18,600 --> 00:20:24,980
+half-brother, Orm grew conflicted. He loved his
+brother and wished to reunite their family, but he
+
+216
+00:20:24,980 --> 00:20:30,280
+despised the surface world for its pollution and
+arrogance. His father's militarism and his
+
+217
+00:20:30,280 --> 00:20:36,220
+mother's mysterious death hardened him into a
+ruler who valued order above compassion. When
+
+218
+00:20:36,220 --> 00:20:41,580
+Arthur discovered Atlantis with the exiled
+Volko's help, Orm welcomed him and briefly seeded
+
+219
+00:20:41,580 --> 00:20:46,540
+the throne, believing his brother's rule could
+unite their divided worlds. But when the surface
+
+220
+00:20:46,540 --> 00:20:52,540
+launched missiles that accidentally struck near
+Atlantis, Orm perceived it as an attack. Acting on
+
+221
+00:20:52,540 --> 00:20:58,300
+old war plans, he and Arthur had drafted together.
+He unleashed devastating floods upon the coasts
+
+222
+00:20:58,300 --> 00:21:04,220
+of Boston, Metropolis, and Gotham, killing
+thousands. Declaring war on the surface, he led
+
+223
+00:21:04,220 --> 00:21:09,740
+Atlantean armies to battle until the Justice
+League intervened. Aquaman pleaded with Orm to
+
+224
+00:21:09,740 --> 00:21:15,160
+stop, but when the truth came to light that Volko
+had manipulated events to restore Arthur to
+
+225
+00:21:15,160 --> 00:21:21,280
+power, Orm was defeated and taken to the surface
+for trial. Stripped of his crown and imprisoned in
+
+226
+00:21:21,280 --> 00:21:27,960
+Bel-Riv, he came to despise the name Ocean Master,
+a mocking title given to him by the surface media.
+
+227
+00:21:27,960 --> 00:21:32,840
+During a global crisis brought by the crime
+syndicate, Orm escaped to sell and wander to the
+
+228
+00:21:32,840 --> 00:21:38,740
+surface, where he saved a woman named Erin Shaw and
+her young son Tommy from Rioters. He found solace
+
+229
+00:21:38,740 --> 00:21:43,400
+in their companionship, living quietly as a
+father figure and telling the boy stories of the
+
+230
+00:21:43,400 --> 00:21:49,960
+sea. Years later, when he learned Atlantis was
+again at war and Aquaman presumed dead, Orm left
+
+231
+00:21:49,960 --> 00:21:56,320
+them behind to reclaim his throne. He confronted
+Mera and Tula on the surface, demanding Atlantis'
+
+232
+00:21:56,320 --> 00:22:02,800
+crown, but Mera defeated him in battle using her
+hydrokinetic powers. Imprisoned once more, Orm
+
+233
+00:22:02,800 --> 00:22:09,060
+was freed when alien sea gods invaded and
+transformed Atlantis' citizens into monsters.
+
+234
+00:22:09,060 --> 00:22:14,380
+Fighting alongside Mera, he helped her seek an
+artifact capable of killing gods, but was himself
+
+235
+00:22:14,380 --> 00:22:19,600
+corrupted by the invaders' waters and
+transformed into one of their servants. After the
+
+236
+00:22:19,600 --> 00:22:25,500
+gods' defeat, Orm returned to his senses, hunted
+by what he had become. In the aftermath, he
+
+237
+00:22:25,500 --> 00:22:31,180
+vanished into the lower depths of Atlantis,
+living among the destitute of the 9th tribe. There
+
+238
+00:22:31,180 --> 00:22:37,500
+he learned of the legend of King Dagon, a forgotten
+monarch who once ruled the oceans through a bound
+
+239
+00:22:37,500 --> 00:22:43,880
+elemental named Lernaea. Pursuing the myth, Orm
+descended into the oceans of Biss and found the
+
+240
+00:22:43,880 --> 00:22:49,940
+imprisoned Lernaea herself. Fraying her from her
+bonds, he gained her loyalty and founded a new
+
+241
+00:22:49,940 --> 00:22:56,100
+kingdom for the displaced and the damned, the city
+of Dagon. Rejecting overtures from Apex Lux
+
+242
+00:22:56,100 --> 00:23:01,280
+Luthor to join the Legion of Doom, Orm instead
+built his own domain, declaring independence
+
+243
+00:23:01,280 --> 00:23:06,220
+from both Atlantis and the surface world. When he
+returned to the surface to explain his
+
+244
+00:23:06,220 --> 00:23:11,160
+disappearance to Eren, she rejected him,
+unwilling to live in the shadow of his war like
+
+245
+00:23:11,160 --> 00:23:16,980
+ambitions. Orm left heartbroken, but vowed one
+day to offer Tommy the chance to succeed him as King
+
+246
+00:23:16,980 --> 00:23:23,220
+of Dagon. From the deaths of his new city, Orm began
+plotting once more, gathering outcasts and
+
+247
+00:23:23,220 --> 00:23:29,120
+mutants to his cause. When Queen Mera fell into a
+coma, he sought to exploit the power vacuum,
+
+248
+00:23:29,120 --> 00:23:33,660
+manipulating Dagon's populace and even
+orchestrating the abduction of Aquaman and his
+
+249
+00:23:33,660 --> 00:23:40,210
+daughter to discredit her rule. His deception was
+exposed and his elemental ally turned to Against
+
+250
+00:23:40,210 --> 00:23:46,530
+him, forcing Orm to concede defeat and accept
+Mera's plan to abolish Atlantis' monarchy.
+
+251
+00:23:46,530 --> 00:23:52,010
+Though stripped of power yet again, he remained in
+the shadows, commanding loyalty among those who
+
+252
+00:23:52,010 --> 00:23:57,310
+believed in his vision of an ocean ruled by
+strength and purity. In the years that followed,
+
+253
+00:23:57,310 --> 00:24:03,230
+Orm allied with the scavenger and other undersea
+warlords to destabilize Atlantis, seeking to
+
+254
+00:24:03,230 --> 00:24:09,150
+resurrect his empire through subterfuge and
+terror. Napaurs wise, as a pure-blooded
+
+255
+00:24:09,150 --> 00:24:15,410
+Atlantean of royal descent, Ocean Master
+possesses immense strength, speed, durability,
+
+256
+00:24:15,410 --> 00:24:20,970
+and stamina, allowing him to survive the crushing
+pressure and fragile darkness of the deep ocean.
+
+257
+00:24:20,970 --> 00:24:26,630
+His enhanced senses grant perfect vision in the
+blackest depths and hearing capable of detecting
+
+258
+00:24:26,630 --> 00:24:32,990
+movement miles away. A skilled tactician and
+warrior, Orm is trained in all forms of Atlantean
+
+259
+00:24:32,990 --> 00:24:39,250
+combat and command. His enchanted trident,
+forged in Atlantis, channels lightning,
+
+260
+00:24:39,250 --> 00:24:45,570
+conjures storms, and focuses his arcane power,
+while his royal mask crown amplifies his
+
+261
+00:24:45,570 --> 00:24:52,030
+hydrokinesis, enabling him to command the tides
+and summon devastating tsunamis. And that's
+
+262
+00:24:52,030 --> 00:24:57,050
+Ocean Master. He's not that scary. I don't know if
+this is a good Halloween episode after all. Oh, I'm
+
+263
+00:24:57,050 --> 00:25:02,170
+sorry. There's nothing scarier than the ocean,
+bro. Do you know what's down there? Freaking no one
+
+264
+00:25:02,170 --> 00:25:06,310
+does. You go down there and you see him? Yeah,
+you're going to be shitting yourself in that
+
+265
+00:25:06,310 --> 00:25:11,170
+water. I can think of a lot of things underneath the
+water that would make me shit my pants more than
+
+266
+00:25:11,170 --> 00:25:16,330
+some dude wearing a goofy-looking helmet. That
+being said, one of my most frequent recurring
+
+267
+00:25:16,330 --> 00:25:21,910
+nightmares is one of a tidal wave. Oh, really?
+That's interesting. You know what that means,
+
+268
+00:25:21,910 --> 00:25:29,830
+right? What? It means that you have poor taste in
+comic books. What? Yes. Science. I think it means
+
+269
+00:25:29,830 --> 00:25:34,450
+that I have awesome taste in comic books. I'm just
+like swimming in all the awesomeness that is
+
+270
+00:25:34,450 --> 00:25:38,110
+Marvel. Is that what happens in your dream? The
+tidal wave crashes on you and you're just
+
+271
+00:25:38,110 --> 00:25:45,130
+swimming? No. Yeah. It's more like I'm trying to
+get to higher ground and run, basically. Anyway,
+
+272
+00:25:45,130 --> 00:25:50,630
+enough about that. Let's go ahead and get into the
+backstory for Hellstorm. Damon Hellstrom was
+
+273
+00:25:50,630 --> 00:25:55,590
+born in Green Town, Massachusetts, the son of
+Victoria Wingit and the hell lord who called
+
+274
+00:25:55,590 --> 00:26:02,130
+himself Satan. Victoria's parents had sold her to
+the Chapel of Dresden, a fanatical occult sect
+
+275
+00:26:02,130 --> 00:26:08,970
+once allied with Nazi Germany who hoped to bring
+about a messianic human demon hybrid. Rituals and
+
+276
+00:26:08,970 --> 00:26:14,890
+glyphs were carved into Victoria's body to
+prepare her as a vessel and when Satan came to earth
+
+277
+00:26:14,890 --> 00:26:21,550
+in human guise, he seduced and married her. The two
+settled in Massachusetts where Damon was born a
+
+278
+00:26:21,550 --> 00:26:27,510
+year later. Damon's infancy was marked by
+sinister conditioning. He was fed human blood and
+
+279
+00:26:27,510 --> 00:26:32,490
+marked with a pentagram birthmark. His father's
+interest soon shifted to his younger sister,
+
+280
+00:26:32,490 --> 00:26:38,630
+Satan, born three years later who proved more
+receptive to his teachings. Damon meanwhile
+
+281
+00:26:38,630 --> 00:26:44,130
+bonded with his mother, never fully aware of his
+father's identity. When their mother witnessed
+
+282
+00:26:44,130 --> 00:26:50,370
+Satan's true demonic form, she was driven insane
+and the children were separated. Victoria was
+
+283
+00:26:50,370 --> 00:26:56,350
+institutionalized. Satan, taken to hell to be
+raised by her father, and Damon placed in an
+
+284
+00:26:56,350 --> 00:27:01,770
+orphanage. On visits, his mother entrusted him
+with an onc pendant claiming it was his sole
+
+285
+00:27:01,770 --> 00:27:07,590
+protection against Satan. She also revealed the
+existence of Nethraeneum, a rare infernal metal
+
+286
+00:27:07,590 --> 00:27:13,770
+capable of harming his father. As Damon matured,
+he pursued theology, studying under Father
+
+287
+00:27:13,770 --> 00:27:18,970
+Raymond Gosset in a Jesuit monastery. He prepared
+for ordination but turned away from the
+
+288
+00:27:18,970 --> 00:27:23,630
+priesthood when his mother died and he inherited
+the Massachusetts estate. Exploring the
+
+289
+00:27:23,630 --> 00:27:28,990
+mansion, Damon discovered her diary, confirming
+his lineage. He was drawn to the portal in the
+
+290
+00:27:28,990 --> 00:27:34,070
+basement leading to hell where Satan revealed
+himself and offered Damon eternal life and power
+
+291
+00:27:34,070 --> 00:27:40,110
+if he served him. Damon refused, instead stealing
+his father's trident forged of Nethraeneum and
+
+292
+00:27:40,110 --> 00:27:46,230
+his Damon-drawn chariot escaping back to earth.
+He also discovered the powers of his dark soul, the
+
+293
+00:27:46,230 --> 00:27:51,190
+infernal inherited energy that granted him great
+magical might. So, wearing to fight his father's
+
+294
+00:27:51,190 --> 00:27:56,770
+evil, Damon became the hero called Son of Satan. He
+balanced his civilian life as a scholar of the
+
+295
+00:27:56,770 --> 00:28:01,790
+occult with his secret role as an exorcist and
+demon fighter. Damon assisted Linda
+
+296
+00:28:01,790 --> 00:28:06,250
+Littletrees, the witch woman, which led to his
+first team up with Ghost Rider against Satan
+
+297
+00:28:06,250 --> 00:28:11,310
+himself. He clashed with demonic beings such as
+German X-D's and Cathara and even battled his
+
+298
+00:28:11,310 --> 00:28:16,810
+sister Satan when she surfaced on earth as a
+succubus. He grew known as a leading demonologist
+
+299
+00:28:16,810 --> 00:28:21,610
+and frequently collaborated with superheroes
+including the Fantastic Four. His reputation
+
+300
+00:28:21,610 --> 00:28:26,590
+grew when he joined the defenders, assisting them
+against the alien Nebulon, the Sons of the
+
+301
+00:28:26,590 --> 00:28:31,470
+Serpent, and the demonic alliance known as the
+Six-Fingered Hand, whose manipulations nearly
+
+302
+00:28:31,470 --> 00:28:37,130
+merged earth with hell. During his tenure with the
+defenders, Damon fell in love with teammate Patsy
+
+303
+00:28:37,130 --> 00:28:42,770
+Walker, aka Hellcat whom you can learn more about
+in her duel with Catwoman. The relationship was
+
+304
+00:28:42,770 --> 00:28:48,850
+tested by his father, who transformed Patsy into a
+demon to torment him. Damon agreed to stay in hell
+
+305
+00:28:48,850 --> 00:28:54,230
+to secure her freedom, but ultimately rebelled
+and returned to earth. Rejoining the defenders,
+
+306
+00:28:54,230 --> 00:28:58,830
+he fought alongside them against threats
+including Asmodeus, the Resistance, and the
+
+307
+00:28:58,830 --> 00:29:04,770
+Miracle Man. The Miracle Man stole Damon's dark
+soul, trapping it in a serpent. Deprived of his
+
+308
+00:29:04,770 --> 00:29:10,110
+demonic half, Damon lost much of his power but was
+freed from his infernal corruption. Believing
+
+309
+00:29:10,110 --> 00:29:15,810
+himself cured, he retired his son of Satan
+identity. He married Patsy and together they
+
+310
+00:29:15,810 --> 00:29:19,950
+moved to San Francisco operating as paranormal
+investigators while Damon taught
+
+311
+00:29:19,950 --> 00:29:25,410
+parapsychology. To shield his reputation as a
+scholar, he began using the alias Hellstorm when
+
+312
+00:29:25,410 --> 00:29:30,470
+battling supernatural forces in public. The two
+occasionally aided other heroes including the
+
+313
+00:29:30,470 --> 00:29:35,750
+West Coast Avengers and confronted foes such as
+Master Pentamonium, the Cat People, and demonic
+
+314
+00:29:35,750 --> 00:29:41,850
+spirits tied to the Phantom Rider. But the absence
+of Damon's dark soul left him gravely weakened. In
+
+315
+00:29:41,850 --> 00:29:47,490
+desperation, Patsy summoned Satan through the
+Grimorium Barum, a book of dark spells pleading
+
+316
+00:29:47,490 --> 00:29:53,250
+for her husband's life. Satan restored Damon's
+dark soul, but Patsy was driven insane at the sight
+
+317
+00:29:53,250 --> 00:29:58,850
+of his full demonic essence. Though Damon
+admitted gratitude, he coldly confessed he would
+
+318
+00:29:58,850 --> 00:30:04,110
+have let her die in the same situation. Her mind
+shattered. Patsy eventually took her own life
+
+319
+00:30:04,110 --> 00:30:10,190
+under the influence of a being named Death Urge.
+Emboldened, Damon reclaimed his role in the
+
+320
+00:30:10,190 --> 00:30:15,570
+occult world, forging alliances with figures
+such as Necra, the Gargoyle, Gabriel the Devil
+
+321
+00:30:15,570 --> 00:30:21,450
+Hunter, and his new lover, Janie Cutter. He struck
+a bargain with the witch, Lavoison, fathering her
+
+322
+00:30:21,450 --> 00:30:27,070
+child in exchange for knowledge of his father's
+true name. Armed with this secret, Damon slew
+
+323
+00:30:27,070 --> 00:30:35,050
+Satan, aka Marduk Curios, inheriting his black
+halo and lordship of his hell realm. He proclaimed
+
+324
+00:30:35,050 --> 00:30:40,030
+his rule as a balance between heaven and hell,
+ensuring neither could dominate humanity's
+
+325
+00:30:40,030 --> 00:30:45,170
+destiny. From this position, Damon grew ever more
+manipulative. He participated in conflicts
+
+326
+00:30:45,170 --> 00:30:50,650
+involving Celine and Blackheart's demonic
+Hellfire Club, a select group of mutants and
+
+327
+00:30:50,650 --> 00:30:56,130
+demons attempting to exert control over society.
+Damon took a seat in its inner circle as the White
+
+328
+00:30:56,130 --> 00:31:01,150
+King, claiming to balance good and evil. He
+deceived the Thunderbolts into rescuing Patsy's
+
+329
+00:31:01,150 --> 00:31:05,950
+soul from Mephisto's realm, enabling her
+resurrection. At times he spread deliberate
+
+330
+00:31:05,950 --> 00:31:11,370
+falsehoods about his lineage, claiming even to be
+the son of another hell lord named Satanish, a ploy
+
+331
+00:31:11,370 --> 00:31:17,450
+to distance Patsy from him and protect her from the
+horrors of his life as a hell lord. Using such lies,
+
+332
+00:31:17,450 --> 00:31:22,730
+he briefly assumed control of Satanish's hell
+realm and Dormammu's claim to rule through the
+
+333
+00:31:22,730 --> 00:31:28,150
+flames of Faltine, though Mephisto soon seized
+most of the territory. You can learn more about
+
+334
+00:31:28,150 --> 00:31:33,730
+Dormammu and Mephisto in their respective duels
+against Trigon and Santman. Damon remained
+
+335
+00:31:33,730 --> 00:31:39,130
+embroiled in battles among hell lords. When
+Dormammu attempted to annex Hell, Damon allied
+
+336
+00:31:39,130 --> 00:31:45,330
+with Mephisto, Hela, Pluto, and Patsy to repel the
+invasion. He later confronted angelic forces
+
+337
+00:31:45,330 --> 00:31:51,190
+during the Angel's Zadkill's Takeover of Heaven,
+hunting a boy prophesied as the Antichrist, named
+
+338
+00:31:51,190 --> 00:31:57,610
+Anton Satan. Damon, Janie Cutter, Ghostrider,
+and others pursued Anton, though Damon argued for
+
+339
+00:31:57,610 --> 00:32:03,090
+killing him outright, only relenting when
+pressed to prioritize defeating Zadkill. He
+
+340
+00:32:03,090 --> 00:32:08,250
+later became involved in the contest for Sorcerer
+Supreme after Doctor Strange stepped down,
+
+341
+00:32:08,250 --> 00:32:13,570
+though Brother Budu ultimately inherited the
+mantle. After a demonic invasion of Las Vegas,
+
+342
+00:32:13,570 --> 00:32:19,270
+Damon discovered that a prophecy called the
+Descent was real. A day when a hell lord would gain
+
+343
+00:32:19,270 --> 00:32:23,810
+greater power, those they had marked would
+transform into demons, and their heirs would
+
+344
+00:32:23,810 --> 00:32:28,990
+ascend from hell. Damon betrayed the Avengers and
+allied with the Red Skull's daughter, Sin, in a
+
+345
+00:32:28,990 --> 00:32:34,450
+plan to raise the world. He later fell victim to
+revenge by Brother Budu's brother, a spirit named
+
+346
+00:32:34,450 --> 00:32:40,750
+Daniel Drum, who killed Damon, though his spirit
+endured. Revived, Damon joined Baron Zemo's
+
+347
+00:32:40,750 --> 00:32:46,370
+Masters of Evil and fought in a war of gods in a
+desperate stand against the Shinto God of Evil, to
+
+348
+00:32:46,370 --> 00:32:51,890
+whom Hell had fallen. Later, Damon accepted a
+teaching role as Strange Academy in New Orleans,
+
+349
+00:32:51,890 --> 00:32:56,830
+instructing students in infernal magic
+alongside the mutant, Magic, whom you can learn
+
+350
+00:32:56,830 --> 00:33:01,970
+more about in her duel against Deadman. And that's
+Hellstorm's backstory. Powers-wise, Damon is
+
+351
+00:33:01,970 --> 00:33:08,390
+the son of the Hell Lord, Marduk Kirios, aka Satan.
+His demonic soul grants him enhanced physiology
+
+352
+00:33:08,390 --> 00:33:14,650
+with enhanced strength, able to lift over one ton,
+and bulletproof durability. He can generate and
+
+353
+00:33:14,650 --> 00:33:19,850
+manipulate Soulfire, a version of Hellfire that
+can hurt demons, which he can also form into
+
+354
+00:33:19,850 --> 00:33:25,610
+constructs such as shields or restraints. He can
+also use the Soulfire to fly or burn holes through
+
+355
+00:33:25,610 --> 00:33:30,610
+reality to create teleportation portals.
+Hellstorm can use magic to project a psychic
+
+356
+00:33:30,610 --> 00:33:37,390
+astral form and read the thoughts of others. He has
+spells for healing, hypnotizing, scrying,
+
+357
+00:33:37,390 --> 00:33:43,810
+exercising, shapeshifting and more, as well as
+mystic senses. He wields a Nethraenium Trident,
+
+358
+00:33:43,810 --> 00:33:48,770
+through which he can channel his powers and use as a
+weapon. He is a skilled supernatural detective
+
+359
+00:33:48,770 --> 00:33:55,170
+with advanced knowledge of theology, the occult,
+and the supernatural. And that is Hellstorm. I
+
+360
+00:33:55,170 --> 00:34:01,890
+can't believe that Marvel is dumb enough to use the
+name like Son of Satan as the name of a superhero.
+
+361
+00:34:01,890 --> 00:34:06,930
+Like, who's going to be calling for him to save
+them? Oh, save me, Son of Satan! Yeah, actually,
+
+362
+00:34:06,930 --> 00:34:12,290
+the original name of that comic book was Mark of
+Satan, before Marvel decided to change it. It was
+
+363
+00:34:12,290 --> 00:34:17,889
+supposed to be along the same lines of the Tomb of
+Dracula comic book series. I don't know why Son of
+
+364
+00:34:17,889 --> 00:34:23,130
+Satan is a better title than Mark of Satan, but
+yeah, if I had a choice of heroes to save me, it
+
+365
+00:34:23,130 --> 00:34:27,469
+wouldn't be him, largely because he's a selfish
+son of a bitch. And that's probably why he grew more
+
+366
+00:34:27,469 --> 00:34:32,090
+villainous over time. Oh, that all of a sudden they
+have him teaching a strange academy as if he wasn't
+
+367
+00:34:32,090 --> 00:35:15,230
+a villain. It's all very strange. Academy. And
+that's it for this video. I hope you enjoyed it.
+
+368
+00:35:15,230 --> 00:35:32,510
+I'll see you in the next one. Well, now that we've
+got their histories and abilities out of the way,
+
+369
+00:35:32,510 --> 00:35:37,830
+let's speculate on how one of the 1000 simulated
+matches will go. The winner is determined by
+
+370
+00:35:37,830 --> 00:35:44,210
+simulations, not the speculation, but it's fun to
+imagine how the fight could play out. AJ9K, what
+
+371
+00:35:44,210 --> 00:35:49,810
+are the rules of our speculation? Well, I should
+say there are no rules other than the characters
+
+372
+00:35:49,810 --> 00:35:55,050
+have no prior knowledge of the other going into the
+fight. All they are aware of starting out is that
+
+373
+00:35:55,050 --> 00:35:59,530
+the other character is a threat that needs to be
+eliminated. For the speculation, the
+
+374
+00:35:59,530 --> 00:36:04,750
+contestants will begin approximately 50 meters
+apart in a nondescript environment that will have
+
+375
+00:36:04,750 --> 00:36:09,130
+no bearing on the match itself, as no
+environmental statistics are considered in my
+
+376
+00:36:09,130 --> 00:36:14,250
+simulations. The contestants must earn victory
+on their own merit. All right, then let's get into
+
+377
+00:36:14,250 --> 00:36:19,210
+it. Ocean Master and Hellstorm meet on the
+battlefield. Who goes first? I'm going to say
+
+378
+00:36:19,210 --> 00:36:25,470
+Ocean Master starts off by raising his trident and
+summoning a giant ass tidal wave straight from
+
+379
+00:36:25,470 --> 00:36:31,830
+your nightmares, which rushes in from behind
+Ocean Master and crashes right on top of
+
+380
+00:36:31,830 --> 00:36:37,910
+Hellstorm, just drowning his ass. No, because
+Hellstorm would see the water coming at him. And as
+
+381
+00:36:37,910 --> 00:36:42,590
+the wave approaches, he just slams his trident
+into the ground and parts that water like the Red
+
+382
+00:36:42,590 --> 00:36:49,010
+Sea, creating like this like wedge of heat that
+like separates the waves. And so like there's this
+
+383
+00:36:49,010 --> 00:36:54,630
+lane of dryness between the part of waters. And
+through that, Hellstorm shoots out this like
+
+384
+00:36:54,630 --> 00:37:01,230
+massive soulfire blast in the shape of a pentagram
+at Ocean Master. And it just hits him and Ocean
+
+385
+00:37:01,230 --> 00:37:06,990
+Master gets burned alive. No, because as that's
+coming at Ocean Master, he's just going to dive
+
+386
+00:37:06,990 --> 00:37:14,710
+into one of the walls of water to his side and use
+that to swim towards Hellstorm. And he's going to
+
+387
+00:37:14,710 --> 00:37:21,030
+manipulate the body of water he's in to swirl
+around Hellstorm, trapping him in this massive
+
+388
+00:37:21,030 --> 00:37:28,110
+whirlpool and allowing Ocean Master to just swim
+around him and stab him a bunch of times. Hellstorm
+
+389
+00:37:28,110 --> 00:37:34,390
+could fly though. So no, he's not getting pulled
+into the water. He actually hovers above it. And
+
+390
+00:37:34,390 --> 00:37:40,150
+then he dips his trident into the water, which sets
+everything to an instant boil. So all the water
+
+391
+00:37:40,150 --> 00:37:47,630
+evaporates and all that's left is just Ocean
+Master, who's freshly cooked. I mean, that's a lot
+
+392
+00:37:47,630 --> 00:37:54,830
+of water to boil. So let's say Ocean Master, he's
+steamed, not boiled, but he'll cool off because
+
+393
+00:37:54,830 --> 00:38:00,690
+he's going to summon a rainstorm that's just going
+to drench the environment once again. And it's
+
+394
+00:38:00,690 --> 00:38:06,850
+going to pummel Hellstorm with hail stones the
+size of literal cats and dogs. Dogs like
+
+395
+00:38:06,850 --> 00:38:13,530
+Chihuahuas, you mean? Sipernards, bitch. Who
+cares? Either way, Hellstorm is going to create a
+
+396
+00:38:13,530 --> 00:38:19,070
+like spherical fire shield around him. And hail is
+not going to get through that because Pokemon
+
+397
+00:38:19,070 --> 00:38:27,370
+rules fire beats ice. And within his fire shield,
+Hellstorm's eyes burn and he casts a hypnotizing
+
+398
+00:38:27,370 --> 00:38:32,790
+spell to take over Ocean Master's mind. And now
+Ocean Master's eyes burn because he's under
+
+399
+00:38:32,790 --> 00:38:39,890
+Hellstorm's control. I Ocean Master literally
+wears a mask that covers his eyes. I don't think
+
+400
+00:38:39,890 --> 00:38:45,170
+that spell is going to work on him. In fact, Marvel
+probably has some dumb rule against that. Like,
+
+401
+00:38:45,170 --> 00:38:49,950
+you know how you can't be mind controlled if you
+wear a helmet? No, I mean, like this is more demon
+
+402
+00:38:49,950 --> 00:38:57,410
+possession than psychic mind control. It's more
+like exorcist than Professor X. Right. So Ocean
+
+403
+00:38:57,410 --> 00:39:04,670
+Master gets mind controlled and his eyes burned
+through his mask. OK, but Ocean Master is Homo Magi
+
+404
+00:39:04,670 --> 00:39:11,510
+Atlantean royalty. So he's going to be able to
+realize that Hellstorm is trying to possess him.
+
+405
+00:39:11,510 --> 00:39:17,410
+So he's going to cast his own Atlantean spell
+that's going to stop what Hellstorm is doing and
+
+406
+00:39:17,410 --> 00:39:24,230
+flood Hellstorm's mind with negative thoughts of
+all the crap he's done, like betray his wife and the
+
+407
+00:39:24,230 --> 00:39:29,790
+Avengers and, you know, just general evil doing.
+And this is going to put him in mental anguish and
+
+408
+00:39:29,790 --> 00:39:33,810
+cause him to be like, oh, no, I suck. And he's going
+to drop his shield and his Trident and he's going to
+
+409
+00:39:33,810 --> 00:39:39,950
+fall to the ground. I mean, like that may have
+stopped Hellstorm's possession spell, but he's
+
+410
+00:39:39,950 --> 00:39:44,890
+not going to feel that bad. He's one of the Lords of
+Hell, right? So like after he falls to the ground,
+
+411
+00:39:44,890 --> 00:39:50,590
+he's just going to get right back up, like unfazed,
+and he points his Trident at Ocean Master and
+
+412
+00:39:50,590 --> 00:39:56,490
+manifests these fire rings around him, binding
+him in fire. And then he telekinetically pulls
+
+413
+00:39:56,490 --> 00:40:02,730
+Ocean Master toward him right onto his Trident and
+paling him like a shish kabob. OK, well, as Ocean
+
+414
+00:40:02,730 --> 00:40:08,050
+Master is being pulled toward Hellstorm, he's
+going to cast a teleportation spell. Actually,
+
+415
+00:40:08,050 --> 00:40:14,050
+he's going to cast an illusion spell at the same
+time. So Hellstorm thinks he's impaled Ocean
+
+416
+00:40:14,050 --> 00:40:20,530
+Master when in reality, Ocean Master is now behind
+Hellstorm and he's going to impale him instead
+
+417
+00:40:20,530 --> 00:40:27,730
+with his electrified Trident that's going to
+overload and kill Hellstorm. Match over. But like
+
+418
+00:40:27,730 --> 00:40:33,610
+the moment this illusion Ocean Master gets
+impaled, Hellstorm's Trident is going to burn the
+
+419
+00:40:33,610 --> 00:40:39,590
+illusion away. So Hellstorm realizes the
+deception with enough time to spin around and
+
+420
+00:40:39,590 --> 00:40:46,150
+block Ocean Master's electric Trident attack. He
+just smacks his Trident away. And then Hellstorm
+
+421
+00:40:46,150 --> 00:40:53,370
+summons a Hellfire portal that sends them both to
+hell, where Ocean Master just burns an agony,
+
+422
+00:40:53,370 --> 00:41:00,330
+instantly desiccates into this like skeleton of
+Ash and Embers. And that is where the match ends in
+
+423
+00:41:00,330 --> 00:41:07,030
+hell. Yep. I mean, Ocean Master, he's just going to
+conjure these massive geysers that are going to
+
+424
+00:41:07,030 --> 00:41:12,470
+flood the entire realm, drowning everyone, all
+the demons in Hellstorm. So yeah, he's fine. He
+
+425
+00:41:12,470 --> 00:41:17,150
+just has a new realm to roll over, I guess. That's
+the stupidest thing I've ever heard in my entire
+
+426
+00:41:17,150 --> 00:41:23,110
+life. But you can't flood Hell. It's too hot. All
+the water would just evaporate. It's not like it's
+
+427
+00:41:23,110 --> 00:41:29,490
+magic water. It has a boiling point. It is
+literally magic water. What? No, it's water
+
+428
+00:41:29,490 --> 00:41:35,930
+summoned through magic. It's not magic water that
+makes it magic. OK, OK. Well, we'll go ahead and
+
+429
+00:41:35,930 --> 00:41:41,010
+leave the match there. One of two scenarios
+happens. Either Ocean Master burns alive in hell
+
+430
+00:41:41,010 --> 00:41:48,390
+or he floods hell and drowns Hellstorm, which of
+those sound even remotely possible. It was holy
+
+431
+00:41:48,390 --> 00:41:54,670
+water. Now what do you say? Hey, you may have me
+there, but let's go ahead and put the stats, run the
+
+432
+00:41:54,670 --> 00:42:01,490
+simulations and come back with a winner. A.G .9K,
+hit it. Inputting data, running calculations,
+
+433
+00:42:01,490 --> 00:42:07,850
+processing results, simulations complete. This
+is a damn good matchup, man. Damn good matchup.
+
+434
+00:42:07,850 --> 00:42:13,370
+Both of these guys are insanely powerful. They can
+both do teleportation. They can both do magic.
+
+435
+00:42:13,370 --> 00:42:18,130
+They both have elemental magical powers with
+their tridents. They're both highly versatile,
+
+436
+00:42:18,130 --> 00:42:23,150
+although Hellstorm comes out a little bit ahead
+there just because he has a lot more psychic feats
+
+437
+00:42:23,150 --> 00:42:28,990
+than Ocean Master, which is also why Hellstorm has
+the advantage in perception. Right. Hellstorm
+
+438
+00:42:28,990 --> 00:42:36,230
+also had the advantage in invasiveness, but Ocean
+Master had the edge in durability and strength
+
+439
+00:42:36,230 --> 00:42:41,930
+thanks to his Atlantean physiology, which is
+apparently stronger than demonic physiology,
+
+440
+00:42:41,930 --> 00:42:47,630
+because Hellstorm is only credited with lifting
+about a ton, whereas Ocean Master can lift about as
+
+441
+00:42:47,630 --> 00:42:55,110
+much as Aquaman. The range on Ocean Master and the
+damage level is off the charts. His feet of
+
+442
+00:42:55,110 --> 00:43:00,850
+destroying entire cities thanks to his mask crown
+and the bodies of water he's able to control with
+
+443
+00:43:00,850 --> 00:43:07,370
+that is just freaking brutal. I mean, I've seen
+Hellstorm blow up a few buildings with Hellfire,
+
+444
+00:43:07,370 --> 00:43:12,570
+but I don't think I've ever seen him level entire
+cities simultaneously. So Ocean Master got the
+
+445
+00:43:12,570 --> 00:43:18,010
+edge and damage level and I guess fighting skill
+because Ocean Master is more formally trained
+
+446
+00:43:18,010 --> 00:43:24,750
+than Hellstorm. Right. He was like a master of
+Atlantean combat at age eight. So taking all of
+
+447
+00:43:24,750 --> 00:43:30,050
+these stats into account, Joseph, who do you think
+is coming out on top in this match? To quote an X-Win
+
+448
+00:43:30,050 --> 00:43:34,530
+movie, why do you ask questions to which you
+already know the answer? Because I want to make
+
+449
+00:43:34,530 --> 00:43:40,910
+sure that you're thinking the same thing I am. Oh, I
+am Hellstorm. That's not what I was thinking.
+
+450
+00:43:40,910 --> 00:43:45,490
+Well, it's what most of our Instagram followers
+are thinking, because 56% of them are siding with
+
+451
+00:43:45,490 --> 00:43:51,330
+Hellstorm in this fight. Well, let's see if
+they're right. AJ9K, the results, please. Hey,
+
+452
+00:43:51,330 --> 00:44:00,070
+you are, sir. All right, the winner of the matchup
+between DC's Ocean Master and Marvel's Hellstorm
+
+453
+00:44:00,070 --> 00:44:08,710
+is Ocean Master. No, but it's the reverse of what
+Instagram thought. Ocean Master actually won
+
+454
+00:44:08,710 --> 00:44:20,110
+56.1% or 561 of the 1000 simulated matches. And
+Hellstorm won 43.9% of the matches. What is
+
+455
+00:44:20,110 --> 00:44:26,930
+happening? How is Ocean Master able to be a Lord of
+Hell? Doesn't register with me. The fuck is going
+
+456
+00:44:26,930 --> 00:44:35,950
+on? Well, it's Ocean Master's physiology and just
+sheer raw power. Hellstorm may be more versatile,
+
+457
+00:44:35,950 --> 00:44:40,790
+but it's not enough to overpower Ocean Master,
+apparently. What the fuck is the tidal wave going
+
+458
+00:44:40,790 --> 00:44:47,150
+to do to Hellstorm? Defeat him, apparently. I
+don't see that happening. I don't see any way that
+
+459
+00:44:47,150 --> 00:44:53,850
+Hellstorm could be Ocean Master. So easily just
+burn him alive. And what is fire going to do against
+
+460
+00:44:53,850 --> 00:45:00,270
+water? Evaporate it. OK, so then it turns into a
+cloud, which becomes rain, which then rains on the
+
+461
+00:45:00,270 --> 00:45:07,530
+fire, dousing the fire. Pokemon rolls. Water
+beats fire, my guy. Stupid, not soul fire, not
+
+462
+00:45:07,530 --> 00:45:18,450
+magic water. Hey, dude, it's OK. The son of Satan
+lost. Things are going to be fine. Did you want him
+
+463
+00:45:18,450 --> 00:45:26,030
+to win? Yeah, that's evil, bro. He's a good guy,
+even when he's not a good guy with the worst name
+
+464
+00:45:26,030 --> 00:45:31,290
+that a good guy could ever have. No, Hellstorm is a
+badass name. I don't care what you say. I was
+
+465
+00:45:31,290 --> 00:45:36,190
+talking about his son of Satan name. I can't get
+over how dumb that is. I'm talking about
+
+466
+00:45:36,190 --> 00:45:43,570
+Hellstorm. Even that, even that. Oh, save me,
+Hellstorm. No, save me, Ocean Master. I want you to
+
+467
+00:45:43,570 --> 00:45:50,150
+save me. Yeah, Master of the Oceans, especially if
+you're in the ocean when you need saving. This is
+
+468
+00:45:50,150 --> 00:45:58,410
+dumb. I'm I'm so ready for it to be January already.
+You piece of shit. Adrian and Kay, help close this
+
+469
+00:45:58,410 --> 00:46:35,990
+out. In our next matchup, we are doing another
+Halloween spooky-esque duel, this time with two
+
+470
+00:46:35,990 --> 00:46:41,830
+villainous sorcerers, Felix Faust versus Baron
+Mordo. Yeah, that episode has been a long time
+
+471
+00:46:41,830 --> 00:46:46,110
+coming. Can't wait for that one, when Marvel's
+finally going to get their comeuppance. You have
+
+472
+00:46:46,110 --> 00:46:50,170
+yet to learn. You will, though. That is it for this
+episode. We want to give a big thanks to our
+
+473
+00:46:50,170 --> 00:46:54,650
+executive producers, Jon Straski, Zachary
+Hepburn, Destin Belcom, Maggie Mathen-Geehan,
+
+474
+00:46:54,650 --> 00:46:59,050
+Nathaniel Wagner, Levi Aitin, Austin
+Wosalowski, AJ Dunkerly, Nikobonto, Scott
+
+475
+00:46:59,050 --> 00:47:04,650
+Camacho, Gil Camacho, Adam Spees, Dean Maleski,
+Devin Davis, Joseph Kirsting, Josh Leiner, Mike
+
+476
+00:47:04,650 --> 00:47:10,190
+Williams and Paul Graves for helping make this
+podcast possible. We'll talk to you guys next week
+
+477
+00:47:10,190 --> 00:47:11,970
+up up and away. True believers?
